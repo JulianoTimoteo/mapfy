@@ -1,5 +1,9 @@
-// Auto-gerado em 21/11/2026 07:33:22
-const ABERTURA_ASA_DATA = [
+/**
+ * Dados Consolidados - abertura_asa
+ * Total: 985 registros
+ * Atualizado em: 21/11/2026 07:40
+ */
+window.ABERTURA_ASA_RAW_DATA = [
   {
     "ID": "3407988",
     "Usuário": "anabinatto@usinapitangueiras.com.br",
@@ -16,7 +20,8 @@ const ABERTURA_ASA_DATA = [
     "Frente": "261 - FRENTE PRÓPRIA  (EDMILSON)",
     "Responsável": "278400 - Vitor Amorim Ramos ",
     "Abertura da Asa": "52",
-    "Fazenda": NaN
+    "Fazenda": null,
+    "Unnamed: 16": null
   },
   {
     "ID": "3407987",
@@ -34,7 +39,8 @@ const ABERTURA_ASA_DATA = [
     "Frente": "261 - FRENTE PRÓPRIA  (EDMILSON)",
     "Responsável": "278400 - Vitor Amorim Ramos ",
     "Abertura da Asa": "52",
-    "Fazenda": NaN
+    "Fazenda": null,
+    "Unnamed: 16": null
   },
   {
     "ID": "3406786",
@@ -52,7 +58,8 @@ const ABERTURA_ASA_DATA = [
     "Frente": "261 - FRENTE PRÓPRIA  (EDMILSON)",
     "Responsável": "278400 - Vitor Amorim Ramos ",
     "Abertura da Asa": "53",
-    "Fazenda": NaN
+    "Fazenda": null,
+    "Unnamed: 16": null
   },
   {
     "ID": "3406785",
@@ -70,7 +77,8 @@ const ABERTURA_ASA_DATA = [
     "Frente": "261 - FRENTE PRÓPRIA  (EDMILSON)",
     "Responsável": "278400 - Vitor Amorim Ramos ",
     "Abertura da Asa": "52",
-    "Fazenda": NaN
+    "Fazenda": null,
+    "Unnamed: 16": null
   },
   {
     "ID": "3405684",
@@ -88,7 +96,8 @@ const ABERTURA_ASA_DATA = [
     "Frente": "261 - FRENTE PRÓPRIA  (EDMILSON)",
     "Responsável": "278400 - Vitor Amorim Ramos ",
     "Abertura da Asa": "53",
-    "Fazenda": NaN
+    "Fazenda": null,
+    "Unnamed: 16": null
   },
   {
     "ID": "3405683",
@@ -106,7 +115,8 @@ const ABERTURA_ASA_DATA = [
     "Frente": "261 - FRENTE PRÓPRIA  (EDMILSON)",
     "Responsável": "278400 - Vitor Amorim Ramos ",
     "Abertura da Asa": "52",
-    "Fazenda": NaN
+    "Fazenda": null,
+    "Unnamed: 16": null
   },
   {
     "ID": "4035284",
@@ -124,7 +134,8 @@ const ABERTURA_ASA_DATA = [
     "Frente": "261 - FRENTE PRÓPRIA  (EDMILSON)",
     "Responsável": "285410",
     "Abertura da Asa": "52",
-    "Fazenda": "50301"
+    "Fazenda": "50301",
+    "Unnamed: 16": null
   },
   {
     "ID": "4035283",
@@ -142,7 +153,8 @@ const ABERTURA_ASA_DATA = [
     "Frente": "261 - FRENTE PRÓPRIA  (EDMILSON)",
     "Responsável": "285410",
     "Abertura da Asa": "53",
-    "Fazenda": "50301"
+    "Fazenda": "50301",
+    "Unnamed: 16": null
   },
   {
     "ID": "4035743",
@@ -160,7 +172,8 @@ const ABERTURA_ASA_DATA = [
     "Frente": "261 - FRENTE PRÓPRIA  (EDMILSON)",
     "Responsável": "REGINALDO DA SILVA GOMES ",
     "Abertura da Asa": "52",
-    "Fazenda": "50301"
+    "Fazenda": "50301",
+    "Unnamed: 16": null
   },
   {
     "ID": "4035742",
@@ -178,7 +191,8 @@ const ABERTURA_ASA_DATA = [
     "Frente": "261 - FRENTE PRÓPRIA  (EDMILSON)",
     "Responsável": "REGINALDO DA SILVA GOMES ",
     "Abertura da Asa": "53",
-    "Fazenda": "50301"
+    "Fazenda": "50301",
+    "Unnamed: 16": null
   },
   {
     "ID": "3945435",
@@ -196,7 +210,8 @@ const ABERTURA_ASA_DATA = [
     "Frente": "135 - FRENTE PEDRINHO",
     "Responsável": "284860  - Juliana Aparecida Ferreira De Freitas",
     "Abertura da Asa": "59",
-    "Fazenda": "151901"
+    "Fazenda": "151901",
+    "Unnamed: 16": null
   },
   {
     "ID": "3945450",
@@ -214,7 +229,8 @@ const ABERTURA_ASA_DATA = [
     "Frente": "135 - FRENTE PEDRINHO",
     "Responsável": "284860  - Juliana Aparecida Ferreira De Freitas",
     "Abertura da Asa": "60",
-    "Fazenda": "151901"
+    "Fazenda": "151901",
+    "Unnamed: 16": null
   },
   {
     "ID": "3941341",
@@ -232,7 +248,8 @@ const ABERTURA_ASA_DATA = [
     "Frente": "135 - FRENTE PEDRINHO",
     "Responsável": "MABILA HELEN D FIGUEIREDO",
     "Abertura da Asa": "59",
-    "Fazenda": "151901"
+    "Fazenda": "151901",
+    "Unnamed: 16": null
   },
   {
     "ID": "3941340",
@@ -250,7 +267,8 @@ const ABERTURA_ASA_DATA = [
     "Frente": "135 - FRENTE PEDRINHO",
     "Responsável": "MABILA HELEN D FIGUEIREDO",
     "Abertura da Asa": "59",
-    "Fazenda": "151901"
+    "Fazenda": "151901",
+    "Unnamed: 16": null
   },
   {
     "ID": "3941339",
@@ -268,7 +286,8 @@ const ABERTURA_ASA_DATA = [
     "Frente": "135 - FRENTE PEDRINHO",
     "Responsável": "MABILA HELEN D FIGUEIREDO",
     "Abertura da Asa": "60",
-    "Fazenda": "151901"
+    "Fazenda": "151901",
+    "Unnamed: 16": null
   },
   {
     "ID": "3941338",
@@ -286,7 +305,8 @@ const ABERTURA_ASA_DATA = [
     "Frente": "135 - FRENTE PEDRINHO",
     "Responsável": "MABILA HELEN D FIGUEIREDO",
     "Abertura da Asa": "59",
-    "Fazenda": "151901"
+    "Fazenda": "151901",
+    "Unnamed: 16": null
   },
   {
     "ID": "3938539",
@@ -304,7 +324,8 @@ const ABERTURA_ASA_DATA = [
     "Frente": "135 - FRENTE PEDRINHO",
     "Responsável": "MABILA HELEN D FIGUEIREDO",
     "Abertura da Asa": "59",
-    "Fazenda": "151901"
+    "Fazenda": "151901",
+    "Unnamed: 16": null
   },
   {
     "ID": "3938538",
@@ -322,7 +343,8 @@ const ABERTURA_ASA_DATA = [
     "Frente": "135 - FRENTE PEDRINHO",
     "Responsável": "MABILA HELEN D FIGUEIREDO",
     "Abertura da Asa": "58",
-    "Fazenda": "151901"
+    "Fazenda": "151901",
+    "Unnamed: 16": null
   },
   {
     "ID": "3938568",
@@ -340,7 +362,8 @@ const ABERTURA_ASA_DATA = [
     "Frente": "135 - FRENTE PEDRINHO",
     "Responsável": "REGINALDO DA SILVA GOMES ",
     "Abertura da Asa": "59",
-    "Fazenda": "151901"
+    "Fazenda": "151901",
+    "Unnamed: 16": null
   },
   {
     "ID": "3938569",
@@ -358,7 +381,8 @@ const ABERTURA_ASA_DATA = [
     "Frente": "135 - FRENTE PEDRINHO",
     "Responsável": "REGINALDO DA SILVA GOMES ",
     "Abertura da Asa": "58",
-    "Fazenda": "151901"
+    "Fazenda": "151901",
+    "Unnamed: 16": null
   },
   {
     "ID": "3939370",
@@ -376,7 +400,8 @@ const ABERTURA_ASA_DATA = [
     "Frente": "261 - FRENTE PRÓPRIA  (EDMILSON)",
     "Responsável": "VITOR AMORIM RAMOS ",
     "Abertura da Asa": "51",
-    "Fazenda": "177012"
+    "Fazenda": "177012",
+    "Unnamed: 16": null
   },
   {
     "ID": "3938496",
@@ -394,7 +419,8 @@ const ABERTURA_ASA_DATA = [
     "Frente": "261 - FRENTE PRÓPRIA  (EDMILSON)",
     "Responsável": "VITOR AMORIM RAMOS ",
     "Abertura da Asa": "54",
-    "Fazenda": "177012"
+    "Fazenda": "177012",
+    "Unnamed: 16": null
   },
   {
     "ID": "3938537",
@@ -412,7 +438,8 @@ const ABERTURA_ASA_DATA = [
     "Frente": "135 - FRENTE PEDRINHO",
     "Responsável": "MABILA HELEN D FIGUEIREDO",
     "Abertura da Asa": "60",
-    "Fazenda": "151901"
+    "Fazenda": "151901",
+    "Unnamed: 16": null
   },
   {
     "ID": "3938536",
@@ -430,7 +457,8 @@ const ABERTURA_ASA_DATA = [
     "Frente": "135 - FRENTE PEDRINHO",
     "Responsável": "MABILA HELEN D FIGUEIREDO",
     "Abertura da Asa": "60",
-    "Fazenda": "151901"
+    "Fazenda": "151901",
+    "Unnamed: 16": null
   },
   {
     "ID": "3938564",
@@ -448,7 +476,8 @@ const ABERTURA_ASA_DATA = [
     "Frente": "135 - FRENTE PEDRINHO",
     "Responsável": "REGINALDO DA SILVA GOMES ",
     "Abertura da Asa": "59",
-    "Fazenda": "151901"
+    "Fazenda": "151901",
+    "Unnamed: 16": null
   },
   {
     "ID": "3938565",
@@ -466,7 +495,8 @@ const ABERTURA_ASA_DATA = [
     "Frente": "135 - FRENTE PEDRINHO",
     "Responsável": "REGINALDO DA SILVA GOMES ",
     "Abertura da Asa": "60",
-    "Fazenda": "151901"
+    "Fazenda": "151901",
+    "Unnamed: 16": null
   },
   {
     "ID": "3927879",
@@ -484,7 +514,8 @@ const ABERTURA_ASA_DATA = [
     "Frente": "135 - FRENTE PEDRINHO",
     "Responsável": "284860  - Juliana Aparecida Ferreira De Freitas",
     "Abertura da Asa": "60",
-    "Fazenda": "151901"
+    "Fazenda": "151901",
+    "Unnamed: 16": null
   },
   {
     "ID": "3927878",
@@ -502,7 +533,8 @@ const ABERTURA_ASA_DATA = [
     "Frente": "135 - FRENTE PEDRINHO",
     "Responsável": "284860  - Juliana Aparecida Ferreira De Freitas",
     "Abertura da Asa": "60",
-    "Fazenda": "151901"
+    "Fazenda": "151901",
+    "Unnamed: 16": null
   },
   {
     "ID": "3927876",
@@ -520,7 +552,8 @@ const ABERTURA_ASA_DATA = [
     "Frente": "135 - FRENTE PEDRINHO",
     "Responsável": "284860  - Juliana Aparecida Ferreira De Freitas",
     "Abertura da Asa": "60",
-    "Fazenda": "151901"
+    "Fazenda": "151901",
+    "Unnamed: 16": null
   },
   {
     "ID": "3927875",
@@ -538,7 +571,8 @@ const ABERTURA_ASA_DATA = [
     "Frente": "135 - FRENTE PEDRINHO",
     "Responsável": "284860  - Juliana Aparecida Ferreira De Freitas",
     "Abertura da Asa": "60",
-    "Fazenda": "151901"
+    "Fazenda": "151901",
+    "Unnamed: 16": null
   },
   {
     "ID": "3925296",
@@ -556,7 +590,8 @@ const ABERTURA_ASA_DATA = [
     "Frente": "135 - FRENTE PEDRINHO",
     "Responsável": "EDILIANA CARDOSO DA COSTA",
     "Abertura da Asa": "59",
-    "Fazenda": "151901"
+    "Fazenda": "151901",
+    "Unnamed: 16": null
   },
   {
     "ID": "3925295",
@@ -574,7 +609,8 @@ const ABERTURA_ASA_DATA = [
     "Frente": "135 - FRENTE PEDRINHO",
     "Responsável": "EDILIANA CARDOSO DA COSTA",
     "Abertura da Asa": "61",
-    "Fazenda": "151901"
+    "Fazenda": "151901",
+    "Unnamed: 16": null
   },
   {
     "ID": "3922215",
@@ -592,7 +628,8 @@ const ABERTURA_ASA_DATA = [
     "Frente": "135 - FRENTE PEDRINHO",
     "Responsável": "EDILIANA CARDOSO DA COSTA",
     "Abertura da Asa": "58",
-    "Fazenda": "177015"
+    "Fazenda": "177015",
+    "Unnamed: 16": null
   },
   {
     "ID": "3922230",
@@ -610,7 +647,8 @@ const ABERTURA_ASA_DATA = [
     "Frente": "135 - FRENTE PEDRINHO",
     "Responsável": "EDILIANA CARDOSO DA COSTA",
     "Abertura da Asa": "59",
-    "Fazenda": "177015"
+    "Fazenda": "177015",
+    "Unnamed: 16": null
   },
   {
     "ID": "3922092",
@@ -628,7 +666,8 @@ const ABERTURA_ASA_DATA = [
     "Frente": "135 - FRENTE PEDRINHO",
     "Responsável": "EDILIANA CARDOSO DA COSTA",
     "Abertura da Asa": "60",
-    "Fazenda": "177015"
+    "Fazenda": "177015",
+    "Unnamed: 16": null
   },
   {
     "ID": "3922229",
@@ -646,7 +685,8 @@ const ABERTURA_ASA_DATA = [
     "Frente": "135 - FRENTE PEDRINHO",
     "Responsável": "EDILIANA CARDOSO DA COSTA",
     "Abertura da Asa": "60",
-    "Fazenda": "177015"
+    "Fazenda": "177015",
+    "Unnamed: 16": null
   },
   {
     "ID": "3919539",
@@ -664,7 +704,8 @@ const ABERTURA_ASA_DATA = [
     "Frente": "135 - FRENTE PEDRINHO",
     "Responsável": "284860  - Juliana Aparecida Ferreira De Freitas",
     "Abertura da Asa": "60",
-    "Fazenda": "146301"
+    "Fazenda": "146301",
+    "Unnamed: 16": null
   },
   {
     "ID": "3919538",
@@ -682,7 +723,8 @@ const ABERTURA_ASA_DATA = [
     "Frente": "135 - FRENTE PEDRINHO",
     "Responsável": "284860  - Juliana Aparecida Ferreira De Freitas",
     "Abertura da Asa": "61",
-    "Fazenda": "146301"
+    "Fazenda": "146301",
+    "Unnamed: 16": null
   },
   {
     "ID": "3917599",
@@ -700,7 +742,8 @@ const ABERTURA_ASA_DATA = [
     "Frente": "135 - FRENTE PEDRINHO",
     "Responsável": "284860  - Juliana Aparecida Ferreira De Freitas",
     "Abertura da Asa": "56",
-    "Fazenda": "146301"
+    "Fazenda": "146301",
+    "Unnamed: 16": null
   },
   {
     "ID": "3917601",
@@ -718,7 +761,8 @@ const ABERTURA_ASA_DATA = [
     "Frente": "135 - FRENTE PEDRINHO",
     "Responsável": "284860  - Juliana Aparecida Ferreira De Freitas",
     "Abertura da Asa": "56",
-    "Fazenda": "146301"
+    "Fazenda": "146301",
+    "Unnamed: 16": null
   },
   {
     "ID": "3849115",
@@ -736,7 +780,8 @@ const ABERTURA_ASA_DATA = [
     "Frente": "261 - FRENTE PRÓPRIA  (EDMILSON)",
     "Responsável": "REGINALDO DA SILVA GOMES ",
     "Abertura da Asa": "50",
-    "Fazenda": "70411"
+    "Fazenda": "70411",
+    "Unnamed: 16": null
   },
   {
     "ID": "3849114",
@@ -754,7 +799,8 @@ const ABERTURA_ASA_DATA = [
     "Frente": "261 - FRENTE PRÓPRIA  (EDMILSON)",
     "Responsável": "REGINALDO DA SILVA GOMES ",
     "Abertura da Asa": "50",
-    "Fazenda": "70411"
+    "Fazenda": "70411",
+    "Unnamed: 16": null
   },
   {
     "ID": "3639885",
@@ -772,7 +818,8 @@ const ABERTURA_ASA_DATA = [
     "Frente": "135 - FRENTE PEDRINHO",
     "Responsável": "MARCELO DE OLIVEIRA JUNIOR",
     "Abertura da Asa": "51",
-    "Fazenda": "53201"
+    "Fazenda": "53201",
+    "Unnamed: 16": null
   },
   {
     "ID": "3639884",
@@ -790,7 +837,8 @@ const ABERTURA_ASA_DATA = [
     "Frente": "135 - FRENTE PEDRINHO",
     "Responsável": "MARCELO DE OLIVEIRA JUNIOR",
     "Abertura da Asa": "52",
-    "Fazenda": "53201"
+    "Fazenda": "53201",
+    "Unnamed: 16": null
   },
   {
     "ID": "3639883",
@@ -808,7 +856,8 @@ const ABERTURA_ASA_DATA = [
     "Frente": "135 - FRENTE PEDRINHO",
     "Responsável": "MARCELO DE OLIVEIRA JUNIOR",
     "Abertura da Asa": "50",
-    "Fazenda": "53201"
+    "Fazenda": "53201",
+    "Unnamed: 16": null
   },
   {
     "ID": "3639882",
@@ -826,7 +875,8 @@ const ABERTURA_ASA_DATA = [
     "Frente": "135 - FRENTE PEDRINHO",
     "Responsável": "MARCELO DE OLIVEIRA JUNIOR",
     "Abertura da Asa": "51",
-    "Fazenda": "53201"
+    "Fazenda": "53201",
+    "Unnamed: 16": null
   },
   {
     "ID": "3635246",
@@ -844,7 +894,8 @@ const ABERTURA_ASA_DATA = [
     "Frente": "135 - FRENTE PEDRINHO",
     "Responsável": "NILDA CLAUDINO [2510716]",
     "Abertura da Asa": "51",
-    "Fazenda": "34703"
+    "Fazenda": "34703",
+    "Unnamed: 16": null
   },
   {
     "ID": "3635245",
@@ -862,7 +913,8 @@ const ABERTURA_ASA_DATA = [
     "Frente": "135 - FRENTE PEDRINHO",
     "Responsável": "NILDA CLAUDINO [2510716]",
     "Abertura da Asa": "51",
-    "Fazenda": "34703"
+    "Fazenda": "34703",
+    "Unnamed: 16": null
   },
   {
     "ID": "3628766",
@@ -880,7 +932,8 @@ const ABERTURA_ASA_DATA = [
     "Frente": "101 - FRENTE MECANIZADA",
     "Responsável": "NILDA CLAUDINO [2510716]",
     "Abertura da Asa": "69",
-    "Fazenda": "53201"
+    "Fazenda": "53201",
+    "Unnamed: 16": null
   },
   {
     "ID": "3628765",
@@ -898,7 +951,8 @@ const ABERTURA_ASA_DATA = [
     "Frente": "101 - FRENTE MECANIZADA",
     "Responsável": "NILDA CLAUDINO [2510716]",
     "Abertura da Asa": "69",
-    "Fazenda": "53201"
+    "Fazenda": "53201",
+    "Unnamed: 16": null
   },
   {
     "ID": "3626604",
@@ -916,7 +970,8 @@ const ABERTURA_ASA_DATA = [
     "Frente": "105 - FRENTE CASSIO (ZACARIAS)",
     "Responsável": "GLEISON FELIPE BORGES DE MATOS",
     "Abertura da Asa": "52",
-    "Fazenda": "53201"
+    "Fazenda": "53201",
+    "Unnamed: 16": null
   },
   {
     "ID": "3626603",
@@ -934,7 +989,8 @@ const ABERTURA_ASA_DATA = [
     "Frente": "105 - FRENTE CASSIO (ZACARIAS)",
     "Responsável": "GLEISON FELIPE BORGES DE MATOS",
     "Abertura da Asa": "52",
-    "Fazenda": "53201"
+    "Fazenda": "53201",
+    "Unnamed: 16": null
   },
   {
     "ID": "3627024",
@@ -952,7 +1008,8 @@ const ABERTURA_ASA_DATA = [
     "Frente": "101 - FRENTE MECANIZADA",
     "Responsável": "NILDA CLAUDINO [2510716]",
     "Abertura da Asa": "69",
-    "Fazenda": "53201"
+    "Fazenda": "53201",
+    "Unnamed: 16": null
   },
   {
     "ID": "3627234",
@@ -970,7 +1027,8 @@ const ABERTURA_ASA_DATA = [
     "Frente": "101 - FRENTE MECANIZADA",
     "Responsável": "NILDA CLAUDINO [2510716]",
     "Abertura da Asa": "69",
-    "Fazenda": "53201"
+    "Fazenda": "53201",
+    "Unnamed: 16": null
   },
   {
     "ID": "3626987",
@@ -988,7 +1046,8 @@ const ABERTURA_ASA_DATA = [
     "Frente": "135 - FRENTE PEDRINHO",
     "Responsável": "MARCELO DE OLIVEIRA JUNIOR",
     "Abertura da Asa": "52",
-    "Fazenda": "53201"
+    "Fazenda": "53201",
+    "Unnamed: 16": null
   },
   {
     "ID": "3626986",
@@ -1006,7 +1065,8 @@ const ABERTURA_ASA_DATA = [
     "Frente": "135 - FRENTE PEDRINHO",
     "Responsável": "MARCELO DE OLIVEIRA JUNIOR",
     "Abertura da Asa": "51",
-    "Fazenda": "53201"
+    "Fazenda": "53201",
+    "Unnamed: 16": null
   },
   {
     "ID": "3626985",
@@ -1024,7 +1084,8 @@ const ABERTURA_ASA_DATA = [
     "Frente": "135 - FRENTE PEDRINHO",
     "Responsável": "MARCELO DE OLIVEIRA JUNIOR",
     "Abertura da Asa": "49",
-    "Fazenda": "53201"
+    "Fazenda": "53201",
+    "Unnamed: 16": null
   },
   {
     "ID": "3627325",
@@ -1042,7 +1103,8 @@ const ABERTURA_ASA_DATA = [
     "Frente": "135 - FRENTE PEDRINHO",
     "Responsável": "MARCELO DE OLIVEIRA JUNIOR",
     "Abertura da Asa": "52",
-    "Fazenda": "53201"
+    "Fazenda": "53201",
+    "Unnamed: 16": null
   },
   {
     "ID": "3624096",
@@ -1060,7 +1122,8 @@ const ABERTURA_ASA_DATA = [
     "Frente": "101 - FRENTE MECANIZADA",
     "Responsável": "NILDA CLAUDINO [2510716]",
     "Abertura da Asa": "69",
-    "Fazenda": "53201"
+    "Fazenda": "53201",
+    "Unnamed: 16": null
   },
   {
     "ID": "3624095",
@@ -1078,7 +1141,8 @@ const ABERTURA_ASA_DATA = [
     "Frente": "101 - FRENTE MECANIZADA",
     "Responsável": "NILDA CLAUDINO [2510716]",
     "Abertura da Asa": "69",
-    "Fazenda": "53201"
+    "Fazenda": "53201",
+    "Unnamed: 16": null
   },
   {
     "ID": "3623967",
@@ -1096,7 +1160,8 @@ const ABERTURA_ASA_DATA = [
     "Frente": "105 - FRENTE CASSIO (ZACARIAS)",
     "Responsável": " Antonio ",
     "Abertura da Asa": "52",
-    "Fazenda": "53201"
+    "Fazenda": "53201",
+    "Unnamed: 16": null
   },
   {
     "ID": "3623966",
@@ -1114,7 +1179,8 @@ const ABERTURA_ASA_DATA = [
     "Frente": "105 - FRENTE CASSIO (ZACARIAS)",
     "Responsável": " Antonio ",
     "Abertura da Asa": "52",
-    "Fazenda": "53201"
+    "Fazenda": "53201",
+    "Unnamed: 16": null
   },
   {
     "ID": "3621680",
@@ -1132,7 +1198,8 @@ const ABERTURA_ASA_DATA = [
     "Frente": "101 - FRENTE MECANIZADA",
     "Responsável": "FERNANDA DE SOUZA ",
     "Abertura da Asa": "69",
-    "Fazenda": "53201"
+    "Fazenda": "53201",
+    "Unnamed: 16": null
   },
   {
     "ID": "3621677",
@@ -1150,7 +1217,8 @@ const ABERTURA_ASA_DATA = [
     "Frente": "101 - FRENTE MECANIZADA",
     "Responsável": "FERNANDA DE SOUZA ",
     "Abertura da Asa": "69",
-    "Fazenda": "53201"
+    "Fazenda": "53201",
+    "Unnamed: 16": null
   },
   {
     "ID": "3620959",
@@ -1168,7 +1236,8 @@ const ABERTURA_ASA_DATA = [
     "Frente": "261 - FRENTE PRÓPRIA  (EDMILSON)",
     "Responsável": "VITOR AMORIM RAMOS ",
     "Abertura da Asa": "52",
-    "Fazenda": "40101"
+    "Fazenda": "40101",
+    "Unnamed: 16": null
   },
   {
     "ID": "3620958",
@@ -1186,7 +1255,8 @@ const ABERTURA_ASA_DATA = [
     "Frente": "261 - FRENTE PRÓPRIA  (EDMILSON)",
     "Responsável": "VITOR AMORIM RAMOS ",
     "Abertura da Asa": "52",
-    "Fazenda": "40101"
+    "Fazenda": "40101",
+    "Unnamed: 16": null
   },
   {
     "ID": "3620951",
@@ -1204,7 +1274,8 @@ const ABERTURA_ASA_DATA = [
     "Frente": "261 - FRENTE PRÓPRIA  (EDMILSON)",
     "Responsável": "VITOR AMORIM RAMOS ",
     "Abertura da Asa": "52",
-    "Fazenda": "40101"
+    "Fazenda": "40101",
+    "Unnamed: 16": null
   },
   {
     "ID": "3620950",
@@ -1222,7 +1293,8 @@ const ABERTURA_ASA_DATA = [
     "Frente": "261 - FRENTE PRÓPRIA  (EDMILSON)",
     "Responsável": "VITOR AMORIM RAMOS ",
     "Abertura da Asa": "52",
-    "Fazenda": "40101"
+    "Fazenda": "40101",
+    "Unnamed: 16": null
   },
   {
     "ID": "3620949",
@@ -1240,7 +1312,8 @@ const ABERTURA_ASA_DATA = [
     "Frente": "261 - FRENTE PRÓPRIA  (EDMILSON)",
     "Responsável": "VITOR AMORIM RAMOS ",
     "Abertura da Asa": "52",
-    "Fazenda": "40101"
+    "Fazenda": "40101",
+    "Unnamed: 16": null
   },
   {
     "ID": "3620948",
@@ -1258,7 +1331,8 @@ const ABERTURA_ASA_DATA = [
     "Frente": "261 - FRENTE PRÓPRIA  (EDMILSON)",
     "Responsável": "VITOR AMORIM RAMOS ",
     "Abertura da Asa": "52",
-    "Fazenda": "40101"
+    "Fazenda": "40101",
+    "Unnamed: 16": null
   },
   {
     "ID": "3620826",
@@ -1276,7 +1350,8 @@ const ABERTURA_ASA_DATA = [
     "Frente": "143 - FRENTE CASSIO",
     "Responsável": "MABILA HELEN D FIGUEIREDO",
     "Abertura da Asa": "55",
-    "Fazenda": "53201"
+    "Fazenda": "53201",
+    "Unnamed: 16": null
   },
   {
     "ID": "3620825",
@@ -1294,7 +1369,8 @@ const ABERTURA_ASA_DATA = [
     "Frente": "143 - FRENTE CASSIO",
     "Responsável": "MABILA HELEN D FIGUEIREDO",
     "Abertura da Asa": "54",
-    "Fazenda": "53201"
+    "Fazenda": "53201",
+    "Unnamed: 16": null
   },
   {
     "ID": "3617889",
@@ -1312,7 +1388,8 @@ const ABERTURA_ASA_DATA = [
     "Frente": "143 - FRENTE CASSIO",
     "Responsável": "MABILA HELEN D FIGUEIREDO",
     "Abertura da Asa": "52",
-    "Fazenda": "53201"
+    "Fazenda": "53201",
+    "Unnamed: 16": null
   },
   {
     "ID": "3617890",
@@ -1330,7 +1407,8 @@ const ABERTURA_ASA_DATA = [
     "Frente": "143 - FRENTE CASSIO",
     "Responsável": "MABILA HELEN D FIGUEIREDO",
     "Abertura da Asa": "52",
-    "Fazenda": "53201"
+    "Fazenda": "53201",
+    "Unnamed: 16": null
   },
   {
     "ID": "3618588",
@@ -1348,7 +1426,8 @@ const ABERTURA_ASA_DATA = [
     "Frente": "142 - FRENTE BIDU",
     "Responsável": "GABRIEL HENRIQUE MARTINS PEREIRA",
     "Abertura da Asa": "51",
-    "Fazenda": "53201"
+    "Fazenda": "53201",
+    "Unnamed: 16": null
   },
   {
     "ID": "3618482",
@@ -1366,7 +1445,8 @@ const ABERTURA_ASA_DATA = [
     "Frente": "142 - FRENTE BIDU",
     "Responsável": "GABRIEL HENRIQUE MARTINS PEREIRA",
     "Abertura da Asa": "52",
-    "Fazenda": "53201"
+    "Fazenda": "53201",
+    "Unnamed: 16": null
   },
   {
     "ID": "3618698",
@@ -1384,7 +1464,8 @@ const ABERTURA_ASA_DATA = [
     "Frente": "139 - FRENTE MANEZÃO",
     "Responsável": "MICHELI DE SOUZA SANTOS  ",
     "Abertura da Asa": "49",
-    "Fazenda": "148101"
+    "Fazenda": "148101",
+    "Unnamed: 16": null
   },
   {
     "ID": "3618696",
@@ -1402,7 +1483,8 @@ const ABERTURA_ASA_DATA = [
     "Frente": "139 - FRENTE MANEZÃO",
     "Responsável": "MICHELI DE SOUZA SANTOS  ",
     "Abertura da Asa": "50",
-    "Fazenda": "148101"
+    "Fazenda": "148101",
+    "Unnamed: 16": null
   },
   {
     "ID": "3618693",
@@ -1420,7 +1502,8 @@ const ABERTURA_ASA_DATA = [
     "Frente": "139 - FRENTE MANEZÃO",
     "Responsável": "MICHELI DE SOUZA SANTOS  ",
     "Abertura da Asa": "50",
-    "Fazenda": "148101"
+    "Fazenda": "148101",
+    "Unnamed: 16": null
   },
   {
     "ID": "3618691",
@@ -1438,7 +1521,8 @@ const ABERTURA_ASA_DATA = [
     "Frente": "139 - FRENTE MANEZÃO",
     "Responsável": "MICHELI DE SOUZA SANTOS  ",
     "Abertura da Asa": "50",
-    "Fazenda": "148101"
+    "Fazenda": "148101",
+    "Unnamed: 16": null
   },
   {
     "ID": "3618479",
@@ -1456,7 +1540,8 @@ const ABERTURA_ASA_DATA = [
     "Frente": "142 - FRENTE BIDU",
     "Responsável": "GABRIEL HENRIQUE MARTINS PEREIRA",
     "Abertura da Asa": "52",
-    "Fazenda": "53201"
+    "Fazenda": "53201",
+    "Unnamed: 16": null
   },
   {
     "ID": "3618477",
@@ -1474,7 +1559,8 @@ const ABERTURA_ASA_DATA = [
     "Frente": "142 - FRENTE BIDU",
     "Responsável": "GABRIEL HENRIQUE MARTINS PEREIRA",
     "Abertura da Asa": "52",
-    "Fazenda": "53201"
+    "Fazenda": "53201",
+    "Unnamed: 16": null
   },
   {
     "ID": "3617608",
@@ -1492,7 +1578,8 @@ const ABERTURA_ASA_DATA = [
     "Frente": "261 - FRENTE PRÓPRIA  (EDMILSON)",
     "Responsável": "VITOR AMORIM RAMOS ",
     "Abertura da Asa": "52",
-    "Fazenda": "40101"
+    "Fazenda": "40101",
+    "Unnamed: 16": null
   },
   {
     "ID": "3617609",
@@ -1510,7 +1597,8 @@ const ABERTURA_ASA_DATA = [
     "Frente": "261 - FRENTE PRÓPRIA  (EDMILSON)",
     "Responsável": "VITOR AMORIM RAMOS ",
     "Abertura da Asa": "52",
-    "Fazenda": "40101"
+    "Fazenda": "40101",
+    "Unnamed: 16": null
   },
   {
     "ID": "3617706",
@@ -1528,7 +1616,8 @@ const ABERTURA_ASA_DATA = [
     "Frente": "101 - FRENTE MECANIZADA",
     "Responsável": "FERNANDA DE SOUZA ",
     "Abertura da Asa": "53",
-    "Fazenda": "53201"
+    "Fazenda": "53201",
+    "Unnamed: 16": null
   },
   {
     "ID": "3617705",
@@ -1546,7 +1635,8 @@ const ABERTURA_ASA_DATA = [
     "Frente": "101 - FRENTE MECANIZADA",
     "Responsável": "FERNANDA DE SOUZA ",
     "Abertura da Asa": "53",
-    "Fazenda": "53201"
+    "Fazenda": "53201",
+    "Unnamed: 16": null
   },
   {
     "ID": "3617600",
@@ -1564,7 +1654,8 @@ const ABERTURA_ASA_DATA = [
     "Frente": "261 - FRENTE PRÓPRIA  (EDMILSON)",
     "Responsável": "VITOR AMORIM RAMOS ",
     "Abertura da Asa": "52",
-    "Fazenda": "40101"
+    "Fazenda": "40101",
+    "Unnamed: 16": null
   },
   {
     "ID": "3617599",
@@ -1582,7 +1673,8 @@ const ABERTURA_ASA_DATA = [
     "Frente": "261 - FRENTE PRÓPRIA  (EDMILSON)",
     "Responsável": "VITOR AMORIM RAMOS ",
     "Abertura da Asa": "52",
-    "Fazenda": "40101"
+    "Fazenda": "40101",
+    "Unnamed: 16": null
   },
   {
     "ID": "3618243",
@@ -1600,7 +1692,8 @@ const ABERTURA_ASA_DATA = [
     "Frente": "101 - FRENTE MECANIZADA",
     "Responsável": "NILDA CLAUDINO [2510716]",
     "Abertura da Asa": "69",
-    "Fazenda": "168003"
+    "Fazenda": "168003",
+    "Unnamed: 16": null
   },
   {
     "ID": "3618241",
@@ -1618,7 +1711,8 @@ const ABERTURA_ASA_DATA = [
     "Frente": "101 - FRENTE MECANIZADA",
     "Responsável": "NILDA CLAUDINO [2510716]",
     "Abertura da Asa": "69",
-    "Fazenda": "168003"
+    "Fazenda": "168003",
+    "Unnamed: 16": null
   },
   {
     "ID": "3614280",
@@ -1636,7 +1730,8 @@ const ABERTURA_ASA_DATA = [
     "Frente": "143 - FRENTE CASSIO",
     "Responsável": "MABILA HELEN D FIGUEIREDO",
     "Abertura da Asa": "54",
-    "Fazenda": "40201"
+    "Fazenda": "40201",
+    "Unnamed: 16": null
   },
   {
     "ID": "3614279",
@@ -1654,7 +1749,8 @@ const ABERTURA_ASA_DATA = [
     "Frente": "143 - FRENTE CASSIO",
     "Responsável": "MABILA HELEN D FIGUEIREDO",
     "Abertura da Asa": "53",
-    "Fazenda": "40201"
+    "Fazenda": "40201",
+    "Unnamed: 16": null
   },
   {
     "ID": "3614351",
@@ -1672,7 +1768,8 @@ const ABERTURA_ASA_DATA = [
     "Frente": "142 - FRENTE BIDU",
     "Responsável": "GLEISON FELIPE BORGES DE MATOS",
     "Abertura da Asa": "52",
-    "Fazenda": "204102"
+    "Fazenda": "204102",
+    "Unnamed: 16": null
   },
   {
     "ID": "3614350",
@@ -1690,7 +1787,8 @@ const ABERTURA_ASA_DATA = [
     "Frente": "142 - FRENTE BIDU",
     "Responsável": "GLEISON FELIPE BORGES DE MATOS",
     "Abertura da Asa": "51",
-    "Fazenda": "204102"
+    "Fazenda": "204102",
+    "Unnamed: 16": null
   },
   {
     "ID": "3614277",
@@ -1708,7 +1806,8 @@ const ABERTURA_ASA_DATA = [
     "Frente": "143 - FRENTE CASSIO",
     "Responsável": "MABILA HELEN D FIGUEIREDO",
     "Abertura da Asa": "52",
-    "Fazenda": "40201"
+    "Fazenda": "40201",
+    "Unnamed: 16": null
   },
   {
     "ID": "3614278",
@@ -1726,7 +1825,8 @@ const ABERTURA_ASA_DATA = [
     "Frente": "143 - FRENTE CASSIO",
     "Responsável": "MABILA HELEN D FIGUEIREDO",
     "Abertura da Asa": "52",
-    "Fazenda": "40201"
+    "Fazenda": "40201",
+    "Unnamed: 16": null
   },
   {
     "ID": "3614238",
@@ -1744,7 +1844,8 @@ const ABERTURA_ASA_DATA = [
     "Frente": "105 - FRENTE CASSIO (ZACARIAS)",
     "Responsável": "EDILIANA CARDOSO DA COSTA",
     "Abertura da Asa": "54",
-    "Fazenda": "53201"
+    "Fazenda": "53201",
+    "Unnamed: 16": null
   },
   {
     "ID": "3614237",
@@ -1762,7 +1863,8 @@ const ABERTURA_ASA_DATA = [
     "Frente": "105 - FRENTE CASSIO (ZACARIAS)",
     "Responsável": "EDILIANA CARDOSO DA COSTA",
     "Abertura da Asa": "54",
-    "Fazenda": "53201"
+    "Fazenda": "53201",
+    "Unnamed: 16": null
   },
   {
     "ID": "3613995",
@@ -1780,7 +1882,8 @@ const ABERTURA_ASA_DATA = [
     "Frente": "139 - FRENTE MANEZÃO",
     "Responsável": "MICHELI DE SOUZA SANTOS  ",
     "Abertura da Asa": "50",
-    "Fazenda": "148101"
+    "Fazenda": "148101",
+    "Unnamed: 16": null
   },
   {
     "ID": "3613994",
@@ -1798,7 +1901,8 @@ const ABERTURA_ASA_DATA = [
     "Frente": "139 - FRENTE MANEZÃO",
     "Responsável": "MICHELI DE SOUZA SANTOS  ",
     "Abertura da Asa": "50",
-    "Fazenda": "148101"
+    "Fazenda": "148101",
+    "Unnamed: 16": null
   },
   {
     "ID": "3613992",
@@ -1816,7 +1920,8 @@ const ABERTURA_ASA_DATA = [
     "Frente": "139 - FRENTE MANEZÃO",
     "Responsável": "MICHELI DE SOUZA SANTOS  ",
     "Abertura da Asa": "50",
-    "Fazenda": "148101"
+    "Fazenda": "148101",
+    "Unnamed: 16": null
   },
   {
     "ID": "3613991",
@@ -1834,7 +1939,8 @@ const ABERTURA_ASA_DATA = [
     "Frente": "139 - FRENTE MANEZÃO",
     "Responsável": "MICHELI DE SOUZA SANTOS  ",
     "Abertura da Asa": "49",
-    "Fazenda": "148101"
+    "Fazenda": "148101",
+    "Unnamed: 16": null
   },
   {
     "ID": "3613980",
@@ -1852,7 +1958,8 @@ const ABERTURA_ASA_DATA = [
     "Frente": "261 - FRENTE PRÓPRIA  (EDMILSON)",
     "Responsável": "VITOR AMORIM RAMOS ",
     "Abertura da Asa": "52",
-    "Fazenda": "40101"
+    "Fazenda": "40101",
+    "Unnamed: 16": null
   },
   {
     "ID": "3613979",
@@ -1870,7 +1977,8 @@ const ABERTURA_ASA_DATA = [
     "Frente": "261 - FRENTE PRÓPRIA  (EDMILSON)",
     "Responsável": "VITOR AMORIM RAMOS ",
     "Abertura da Asa": "52",
-    "Fazenda": "40101"
+    "Fazenda": "40101",
+    "Unnamed: 16": null
   },
   {
     "ID": "3611603",
@@ -1888,7 +1996,8 @@ const ABERTURA_ASA_DATA = [
     "Frente": "143 - FRENTE CASSIO",
     "Responsável": "MABILA HELEN D FIGUEIREDO",
     "Abertura da Asa": "52",
-    "Fazenda": "40201"
+    "Fazenda": "40201",
+    "Unnamed: 16": null
   },
   {
     "ID": "3611602",
@@ -1906,7 +2015,8 @@ const ABERTURA_ASA_DATA = [
     "Frente": "143 - FRENTE CASSIO",
     "Responsável": "MABILA HELEN D FIGUEIREDO",
     "Abertura da Asa": "52",
-    "Fazenda": "40201"
+    "Fazenda": "40201",
+    "Unnamed: 16": null
   },
   {
     "ID": "3611625",
@@ -1924,7 +2034,8 @@ const ABERTURA_ASA_DATA = [
     "Frente": "139 - FRENTE MANEZÃO",
     "Responsável": "FERNANDA DE SOUZA ",
     "Abertura da Asa": "50",
-    "Fazenda": "53201"
+    "Fazenda": "53201",
+    "Unnamed: 16": null
   },
   {
     "ID": "3611796",
@@ -1942,7 +2053,8 @@ const ABERTURA_ASA_DATA = [
     "Frente": "105 - FRENTE CASSIO (ZACARIAS)",
     "Responsável": "GABRIEL HENRIQUE MARTINS PEREIRA",
     "Abertura da Asa": "55",
-    "Fazenda": "53201"
+    "Fazenda": "53201",
+    "Unnamed: 16": null
   },
   {
     "ID": "3611619",
@@ -1960,7 +2072,8 @@ const ABERTURA_ASA_DATA = [
     "Frente": "139 - FRENTE MANEZÃO",
     "Responsável": "FERNANDA DE SOUZA ",
     "Abertura da Asa": "50",
-    "Fazenda": "53201"
+    "Fazenda": "53201",
+    "Unnamed: 16": null
   },
   {
     "ID": "3611795",
@@ -1978,7 +2091,8 @@ const ABERTURA_ASA_DATA = [
     "Frente": "105 - FRENTE CASSIO (ZACARIAS)",
     "Responsável": "GABRIEL HENRIQUE MARTINS PEREIRA",
     "Abertura da Asa": "54",
-    "Fazenda": "53201"
+    "Fazenda": "53201",
+    "Unnamed: 16": null
   },
   {
     "ID": "3611618",
@@ -1996,7 +2110,8 @@ const ABERTURA_ASA_DATA = [
     "Frente": "139 - FRENTE MANEZÃO",
     "Responsável": "FERNANDA DE SOUZA ",
     "Abertura da Asa": "50",
-    "Fazenda": "53201"
+    "Fazenda": "53201",
+    "Unnamed: 16": null
   },
   {
     "ID": "3611617",
@@ -2014,7 +2129,8 @@ const ABERTURA_ASA_DATA = [
     "Frente": "139 - FRENTE MANEZÃO",
     "Responsável": "FERNANDA DE SOUZA ",
     "Abertura da Asa": "50",
-    "Fazenda": "53201"
+    "Fazenda": "53201",
+    "Unnamed: 16": null
   },
   {
     "ID": "3611790",
@@ -2032,7 +2148,8 @@ const ABERTURA_ASA_DATA = [
     "Frente": "105 - FRENTE CASSIO (ZACARIAS)",
     "Responsável": "GABRIEL MENEZES DA SILVA [21061]",
     "Abertura da Asa": "53",
-    "Fazenda": "53201"
+    "Fazenda": "53201",
+    "Unnamed: 16": null
   },
   {
     "ID": "3611789",
@@ -2050,7 +2167,8 @@ const ABERTURA_ASA_DATA = [
     "Frente": "105 - FRENTE CASSIO (ZACARIAS)",
     "Responsável": "GABRIEL HENRIQUE MARTINS PEREIRA",
     "Abertura da Asa": "55",
-    "Fazenda": "53201"
+    "Fazenda": "53201",
+    "Unnamed: 16": null
   },
   {
     "ID": "3611547",
@@ -2068,7 +2186,8 @@ const ABERTURA_ASA_DATA = [
     "Frente": "101 - FRENTE MECANIZADA",
     "Responsável": "NILDA CLAUDINO [2510716]",
     "Abertura da Asa": "69",
-    "Fazenda": "168003"
+    "Fazenda": "168003",
+    "Unnamed: 16": null
   },
   {
     "ID": "3611546",
@@ -2086,7 +2205,8 @@ const ABERTURA_ASA_DATA = [
     "Frente": "101 - FRENTE MECANIZADA",
     "Responsável": "NILDA CLAUDINO [2510716]",
     "Abertura da Asa": "69",
-    "Fazenda": "168003"
+    "Fazenda": "168003",
+    "Unnamed: 16": null
   },
   {
     "ID": "3611106",
@@ -2104,7 +2224,8 @@ const ABERTURA_ASA_DATA = [
     "Frente": "143 - FRENTE CASSIO",
     "Responsável": "MABILA HELEN D FIGUEIREDO",
     "Abertura da Asa": "51",
-    "Fazenda": "40201"
+    "Fazenda": "40201",
+    "Unnamed: 16": null
   },
   {
     "ID": "3611172",
@@ -2122,7 +2243,8 @@ const ABERTURA_ASA_DATA = [
     "Frente": "143 - FRENTE CASSIO",
     "Responsável": "MABILA HELEN D FIGUEIREDO",
     "Abertura da Asa": "52",
-    "Fazenda": "40201"
+    "Fazenda": "40201",
+    "Unnamed: 16": null
   },
   {
     "ID": "3611178",
@@ -2140,7 +2262,8 @@ const ABERTURA_ASA_DATA = [
     "Frente": "142 - FRENTE BIDU",
     "Responsável": "REGINALDO DA SILVA GOMES ",
     "Abertura da Asa": "52",
-    "Fazenda": "102704"
+    "Fazenda": "102704",
+    "Unnamed: 16": null
   },
   {
     "ID": "3611180",
@@ -2158,7 +2281,8 @@ const ABERTURA_ASA_DATA = [
     "Frente": "142 - FRENTE BIDU",
     "Responsável": "REGINALDO DA SILVA GOMES ",
     "Abertura da Asa": "52",
-    "Fazenda": "102704"
+    "Fazenda": "102704",
+    "Unnamed: 16": null
   },
   {
     "ID": "3611179",
@@ -2176,7 +2300,8 @@ const ABERTURA_ASA_DATA = [
     "Frente": "142 - FRENTE BIDU",
     "Responsável": "REGINALDO DA SILVA GOMES ",
     "Abertura da Asa": "52",
-    "Fazenda": "102704"
+    "Fazenda": "102704",
+    "Unnamed: 16": null
   },
   {
     "ID": "3611177",
@@ -2194,7 +2319,8 @@ const ABERTURA_ASA_DATA = [
     "Frente": "142 - FRENTE BIDU",
     "Responsável": "REGINALDO DA SILVA GOMES ",
     "Abertura da Asa": "51",
-    "Fazenda": "102704"
+    "Fazenda": "102704",
+    "Unnamed: 16": null
   },
   {
     "ID": "3611249",
@@ -2212,7 +2338,8 @@ const ABERTURA_ASA_DATA = [
     "Frente": "142 - FRENTE BIDU",
     "Responsável": "MICHELI DE SOUZA SANTOS  ",
     "Abertura da Asa": "51",
-    "Fazenda": "102704"
+    "Fazenda": "102704",
+    "Unnamed: 16": null
   },
   {
     "ID": "3611246",
@@ -2230,7 +2357,8 @@ const ABERTURA_ASA_DATA = [
     "Frente": "142 - FRENTE BIDU",
     "Responsável": "MICHELI DE SOUZA SANTOS  ",
     "Abertura da Asa": "51",
-    "Fazenda": "102704"
+    "Fazenda": "102704",
+    "Unnamed: 16": null
   },
   {
     "ID": "3611247",
@@ -2248,7 +2376,8 @@ const ABERTURA_ASA_DATA = [
     "Frente": "142 - FRENTE BIDU",
     "Responsável": "MICHELI DE SOUZA SANTOS  ",
     "Abertura da Asa": "52",
-    "Fazenda": "102704"
+    "Fazenda": "102704",
+    "Unnamed: 16": null
   },
   {
     "ID": "3611248",
@@ -2266,7 +2395,8 @@ const ABERTURA_ASA_DATA = [
     "Frente": "142 - FRENTE BIDU",
     "Responsável": "MICHELI DE SOUZA SANTOS  ",
     "Abertura da Asa": "52",
-    "Fazenda": "102704"
+    "Fazenda": "102704",
+    "Unnamed: 16": null
   },
   {
     "ID": "3610834",
@@ -2284,7 +2414,8 @@ const ABERTURA_ASA_DATA = [
     "Frente": "261 - FRENTE PRÓPRIA  (EDMILSON)",
     "Responsável": "VITOR AMORIM RAMOS ",
     "Abertura da Asa": "52",
-    "Fazenda": "40101"
+    "Fazenda": "40101",
+    "Unnamed: 16": null
   },
   {
     "ID": "3610833",
@@ -2302,7 +2433,8 @@ const ABERTURA_ASA_DATA = [
     "Frente": "261 - FRENTE PRÓPRIA  (EDMILSON)",
     "Responsável": "VITOR AMORIM RAMOS ",
     "Abertura da Asa": "52",
-    "Fazenda": "40101"
+    "Fazenda": "40101",
+    "Unnamed: 16": null
   },
   {
     "ID": "3610828",
@@ -2320,7 +2452,8 @@ const ABERTURA_ASA_DATA = [
     "Frente": "261 - FRENTE PRÓPRIA  (EDMILSON)",
     "Responsável": "VITOR AMORIM RAMOS ",
     "Abertura da Asa": "52",
-    "Fazenda": "40101"
+    "Fazenda": "40101",
+    "Unnamed: 16": null
   },
   {
     "ID": "3610825",
@@ -2338,7 +2471,8 @@ const ABERTURA_ASA_DATA = [
     "Frente": "261 - FRENTE PRÓPRIA  (EDMILSON)",
     "Responsável": "VITOR AMORIM RAMOS ",
     "Abertura da Asa": "52",
-    "Fazenda": "40101"
+    "Fazenda": "40101",
+    "Unnamed: 16": null
   },
   {
     "ID": "3610872",
@@ -2356,7 +2490,8 @@ const ABERTURA_ASA_DATA = [
     "Frente": "142 - FRENTE BIDU",
     "Responsável": "EDILIANA CARDOSO DA COSTA",
     "Abertura da Asa": "52",
-    "Fazenda": "53201"
+    "Fazenda": "53201",
+    "Unnamed: 16": null
   },
   {
     "ID": "3610871",
@@ -2374,7 +2509,8 @@ const ABERTURA_ASA_DATA = [
     "Frente": "142 - FRENTE BIDU",
     "Responsável": "EDILIANA CARDOSO DA COSTA",
     "Abertura da Asa": "52",
-    "Fazenda": "53201"
+    "Fazenda": "53201",
+    "Unnamed: 16": null
   },
   {
     "ID": "3608250",
@@ -2392,7 +2528,8 @@ const ABERTURA_ASA_DATA = [
     "Frente": "101 - FRENTE MECANIZADA",
     "Responsável": "NILDA CLAUDINO [2510716]",
     "Abertura da Asa": "69",
-    "Fazenda": "53201"
+    "Fazenda": "53201",
+    "Unnamed: 16": null
   },
   {
     "ID": "3608249",
@@ -2410,7 +2547,8 @@ const ABERTURA_ASA_DATA = [
     "Frente": "101 - FRENTE MECANIZADA",
     "Responsável": "NILDA CLAUDINO [2510716]",
     "Abertura da Asa": "69",
-    "Fazenda": "53201"
+    "Fazenda": "53201",
+    "Unnamed: 16": null
   },
   {
     "ID": "3607875",
@@ -2428,7 +2566,8 @@ const ABERTURA_ASA_DATA = [
     "Frente": "139 - FRENTE MANEZÃO",
     "Responsável": "MICHELI DE SOUZA SANTOS  ",
     "Abertura da Asa": "49",
-    "Fazenda": "117701"
+    "Fazenda": "117701",
+    "Unnamed: 16": null
   },
   {
     "ID": "3607874",
@@ -2446,7 +2585,8 @@ const ABERTURA_ASA_DATA = [
     "Frente": "139 - FRENTE MANEZÃO",
     "Responsável": "MICHELI DE SOUZA SANTOS  ",
     "Abertura da Asa": "49",
-    "Fazenda": "117701"
+    "Fazenda": "117701",
+    "Unnamed: 16": null
   },
   {
     "ID": "3607871",
@@ -2464,7 +2604,8 @@ const ABERTURA_ASA_DATA = [
     "Frente": "139 - FRENTE MANEZÃO",
     "Responsável": "MICHELI DE SOUZA SANTOS  ",
     "Abertura da Asa": "50",
-    "Fazenda": "117701"
+    "Fazenda": "117701",
+    "Unnamed: 16": null
   },
   {
     "ID": "3607870",
@@ -2482,7 +2623,8 @@ const ABERTURA_ASA_DATA = [
     "Frente": "139 - FRENTE MANEZÃO",
     "Responsável": "MICHELI DE SOUZA SANTOS  ",
     "Abertura da Asa": "50",
-    "Fazenda": "117701"
+    "Fazenda": "117701",
+    "Unnamed: 16": null
   },
   {
     "ID": "3607541",
@@ -2500,7 +2642,8 @@ const ABERTURA_ASA_DATA = [
     "Frente": "261 - FRENTE PRÓPRIA  (EDMILSON)",
     "Responsável": "VITOR AMORIM RAMOS ",
     "Abertura da Asa": "52",
-    "Fazenda": "40101"
+    "Fazenda": "40101",
+    "Unnamed: 16": null
   },
   {
     "ID": "3607540",
@@ -2518,7 +2661,8 @@ const ABERTURA_ASA_DATA = [
     "Frente": "261 - FRENTE PRÓPRIA  (EDMILSON)",
     "Responsável": "VITOR AMORIM RAMOS ",
     "Abertura da Asa": "52",
-    "Fazenda": "40101"
+    "Fazenda": "40101",
+    "Unnamed: 16": null
   },
   {
     "ID": "3607539",
@@ -2536,7 +2680,8 @@ const ABERTURA_ASA_DATA = [
     "Frente": "261 - FRENTE PRÓPRIA  (EDMILSON)",
     "Responsável": "VITOR AMORIM RAMOS ",
     "Abertura da Asa": "52",
-    "Fazenda": "40101"
+    "Fazenda": "40101",
+    "Unnamed: 16": null
   },
   {
     "ID": "3607538",
@@ -2554,7 +2699,8 @@ const ABERTURA_ASA_DATA = [
     "Frente": "261 - FRENTE PRÓPRIA  (EDMILSON)",
     "Responsável": "VITOR AMORIM RAMOS ",
     "Abertura da Asa": "52",
-    "Fazenda": "40101"
+    "Fazenda": "40101",
+    "Unnamed: 16": null
   },
   {
     "ID": "3605434",
@@ -2572,7 +2718,8 @@ const ABERTURA_ASA_DATA = [
     "Frente": "143 - FRENTE CASSIO",
     "Responsável": " Antonio ",
     "Abertura da Asa": "60",
-    "Fazenda": "146201"
+    "Fazenda": "146201",
+    "Unnamed: 16": null
   },
   {
     "ID": "3605433",
@@ -2590,7 +2737,8 @@ const ABERTURA_ASA_DATA = [
     "Frente": "143 - FRENTE CASSIO",
     "Responsável": " Antonio ",
     "Abertura da Asa": "58",
-    "Fazenda": "146201"
+    "Fazenda": "146201",
+    "Unnamed: 16": null
   },
   {
     "ID": "3605432",
@@ -2608,7 +2756,8 @@ const ABERTURA_ASA_DATA = [
     "Frente": "143 - FRENTE CASSIO",
     "Responsável": " Antonio ",
     "Abertura da Asa": "58",
-    "Fazenda": "146201"
+    "Fazenda": "146201",
+    "Unnamed: 16": null
   },
   {
     "ID": "3605431",
@@ -2626,7 +2775,8 @@ const ABERTURA_ASA_DATA = [
     "Frente": "143 - FRENTE CASSIO",
     "Responsável": " Antonio ",
     "Abertura da Asa": "60",
-    "Fazenda": "146201"
+    "Fazenda": "146201",
+    "Unnamed: 16": null
   },
   {
     "ID": "3605081",
@@ -2644,7 +2794,8 @@ const ABERTURA_ASA_DATA = [
     "Frente": "139 - FRENTE MANEZÃO",
     "Responsável": "MICHELI DE SOUZA SANTOS  ",
     "Abertura da Asa": "50",
-    "Fazenda": "117701"
+    "Fazenda": "117701",
+    "Unnamed: 16": null
   },
   {
     "ID": "3605080",
@@ -2662,7 +2813,8 @@ const ABERTURA_ASA_DATA = [
     "Frente": "139 - FRENTE MANEZÃO",
     "Responsável": "MICHELI DE SOUZA SANTOS  ",
     "Abertura da Asa": "50",
-    "Fazenda": "117701"
+    "Fazenda": "117701",
+    "Unnamed: 16": null
   },
   {
     "ID": "3605079",
@@ -2680,7 +2832,8 @@ const ABERTURA_ASA_DATA = [
     "Frente": "139 - FRENTE MANEZÃO",
     "Responsável": "MICHELI DE SOUZA SANTOS  ",
     "Abertura da Asa": "49",
-    "Fazenda": "117701"
+    "Fazenda": "117701",
+    "Unnamed: 16": null
   },
   {
     "ID": "3605078",
@@ -2698,7 +2851,8 @@ const ABERTURA_ASA_DATA = [
     "Frente": "139 - FRENTE MANEZÃO",
     "Responsável": "MICHELI DE SOUZA SANTOS  ",
     "Abertura da Asa": "50",
-    "Fazenda": "117701"
+    "Fazenda": "117701",
+    "Unnamed: 16": null
   },
   {
     "ID": "3604048",
@@ -2716,7 +2870,8 @@ const ABERTURA_ASA_DATA = [
     "Frente": "261 - FRENTE PRÓPRIA  (EDMILSON)",
     "Responsável": "VITOR AMORIM RAMOS ",
     "Abertura da Asa": "52",
-    "Fazenda": "40101"
+    "Fazenda": "40101",
+    "Unnamed: 16": null
   },
   {
     "ID": "3604047",
@@ -2734,7 +2889,8 @@ const ABERTURA_ASA_DATA = [
     "Frente": "261 - FRENTE PRÓPRIA  (EDMILSON)",
     "Responsável": "VITOR AMORIM RAMOS ",
     "Abertura da Asa": "52",
-    "Fazenda": "40101"
+    "Fazenda": "40101",
+    "Unnamed: 16": null
   },
   {
     "ID": "3604046",
@@ -2752,7 +2908,8 @@ const ABERTURA_ASA_DATA = [
     "Frente": "261 - FRENTE PRÓPRIA  (EDMILSON)",
     "Responsável": "VITOR AMORIM RAMOS ",
     "Abertura da Asa": "52",
-    "Fazenda": "40101"
+    "Fazenda": "40101",
+    "Unnamed: 16": null
   },
   {
     "ID": "3603915",
@@ -2770,7 +2927,8 @@ const ABERTURA_ASA_DATA = [
     "Frente": "101 - FRENTE MECANIZADA",
     "Responsável": "NILDA CLAUDINO [2510716]",
     "Abertura da Asa": "69",
-    "Fazenda": "53201"
+    "Fazenda": "53201",
+    "Unnamed: 16": null
   },
   {
     "ID": "3603914",
@@ -2788,7 +2946,8 @@ const ABERTURA_ASA_DATA = [
     "Frente": "101 - FRENTE MECANIZADA",
     "Responsável": "NILDA CLAUDINO [2510716]",
     "Abertura da Asa": "69",
-    "Fazenda": "53201"
+    "Fazenda": "53201",
+    "Unnamed: 16": null
   },
   {
     "ID": "3603964",
@@ -2806,7 +2965,8 @@ const ABERTURA_ASA_DATA = [
     "Frente": "261 - FRENTE PRÓPRIA  (EDMILSON)",
     "Responsável": "VITOR AMORIM RAMOS ",
     "Abertura da Asa": "52",
-    "Fazenda": "40101"
+    "Fazenda": "40101",
+    "Unnamed: 16": null
   },
   {
     "ID": "3602507",
@@ -2824,7 +2984,8 @@ const ABERTURA_ASA_DATA = [
     "Frente": "142 - FRENTE BIDU",
     "Responsável": "Leonardo Ribeiro Teixeira da Silva",
     "Abertura da Asa": "52",
-    "Fazenda": "142601"
+    "Fazenda": "142601",
+    "Unnamed: 16": null
   },
   {
     "ID": "3602506",
@@ -2842,7 +3003,8 @@ const ABERTURA_ASA_DATA = [
     "Frente": "142 - FRENTE BIDU",
     "Responsável": "Leonardo Ribeiro Teixeira da Silva",
     "Abertura da Asa": "52",
-    "Fazenda": "142601"
+    "Fazenda": "142601",
+    "Unnamed: 16": null
   },
   {
     "ID": "3602505",
@@ -2860,7 +3022,8 @@ const ABERTURA_ASA_DATA = [
     "Frente": "142 - FRENTE BIDU",
     "Responsável": "Leonardo Ribeiro Teixeira da Silva",
     "Abertura da Asa": "52",
-    "Fazenda": "142601"
+    "Fazenda": "142601",
+    "Unnamed: 16": null
   },
   {
     "ID": "3602504",
@@ -2878,7 +3041,8 @@ const ABERTURA_ASA_DATA = [
     "Frente": "142 - FRENTE BIDU",
     "Responsável": "Leonardo Ribeiro Teixeira da Silva",
     "Abertura da Asa": "52",
-    "Fazenda": "142601"
+    "Fazenda": "142601",
+    "Unnamed: 16": null
   },
   {
     "ID": "3602339",
@@ -2896,7 +3060,8 @@ const ABERTURA_ASA_DATA = [
     "Frente": "105 - FRENTE CASSIO (ZACARIAS)",
     "Responsável": "FERNANDA DE SOUZA ",
     "Abertura da Asa": "58",
-    "Fazenda": "146201"
+    "Fazenda": "146201",
+    "Unnamed: 16": null
   },
   {
     "ID": "3602338",
@@ -2914,7 +3079,8 @@ const ABERTURA_ASA_DATA = [
     "Frente": "105 - FRENTE CASSIO (ZACARIAS)",
     "Responsável": "FERNANDA DE SOUZA ",
     "Abertura da Asa": "58",
-    "Fazenda": "146201"
+    "Fazenda": "146201",
+    "Unnamed: 16": null
   },
   {
     "ID": "3601425",
@@ -2932,7 +3098,8 @@ const ABERTURA_ASA_DATA = [
     "Frente": "261 - FRENTE PRÓPRIA  (EDMILSON)",
     "Responsável": "VITOR AMORIM RAMOS ",
     "Abertura da Asa": "52",
-    "Fazenda": "40101"
+    "Fazenda": "40101",
+    "Unnamed: 16": null
   },
   {
     "ID": "3601427",
@@ -2950,7 +3117,8 @@ const ABERTURA_ASA_DATA = [
     "Frente": "261 - FRENTE PRÓPRIA  (EDMILSON)",
     "Responsável": "VITOR AMORIM RAMOS ",
     "Abertura da Asa": "52",
-    "Fazenda": "40101"
+    "Fazenda": "40101",
+    "Unnamed: 16": null
   },
   {
     "ID": "3601426",
@@ -2968,7 +3136,8 @@ const ABERTURA_ASA_DATA = [
     "Frente": "261 - FRENTE PRÓPRIA  (EDMILSON)",
     "Responsável": "VITOR AMORIM RAMOS ",
     "Abertura da Asa": "52",
-    "Fazenda": "40101"
+    "Fazenda": "40101",
+    "Unnamed: 16": null
   },
   {
     "ID": "3601424",
@@ -2986,7 +3155,8 @@ const ABERTURA_ASA_DATA = [
     "Frente": "261 - FRENTE PRÓPRIA  (EDMILSON)",
     "Responsável": "VITOR AMORIM RAMOS ",
     "Abertura da Asa": "52",
-    "Fazenda": "40101"
+    "Fazenda": "40101",
+    "Unnamed: 16": null
   },
   {
     "ID": "3602299",
@@ -3004,7 +3174,8 @@ const ABERTURA_ASA_DATA = [
     "Frente": "105 - FRENTE CASSIO (ZACARIAS)",
     "Responsável": "JOYCE RODRIGUES REBOUCAS [22004]",
     "Abertura da Asa": "60",
-    "Fazenda": "146201"
+    "Fazenda": "146201",
+    "Unnamed: 16": null
   },
   {
     "ID": "3602297",
@@ -3022,7 +3193,8 @@ const ABERTURA_ASA_DATA = [
     "Frente": "105 - FRENTE CASSIO (ZACARIAS)",
     "Responsável": "JOYCE RODRIGUES REBOUCAS [22004]",
     "Abertura da Asa": "60",
-    "Fazenda": "146201"
+    "Fazenda": "146201",
+    "Unnamed: 16": null
   },
   {
     "ID": "3601537",
@@ -3040,7 +3212,8 @@ const ABERTURA_ASA_DATA = [
     "Frente": "105 - FRENTE CASSIO (ZACARIAS)",
     "Responsável": " Antonio ",
     "Abertura da Asa": "52",
-    "Fazenda": "47601"
+    "Fazenda": "47601",
+    "Unnamed: 16": null
   },
   {
     "ID": "3601536",
@@ -3058,7 +3231,8 @@ const ABERTURA_ASA_DATA = [
     "Frente": "105 - FRENTE CASSIO (ZACARIAS)",
     "Responsável": " Antonio ",
     "Abertura da Asa": "52",
-    "Fazenda": "47601"
+    "Fazenda": "47601",
+    "Unnamed: 16": null
   },
   {
     "ID": "3601535",
@@ -3076,7 +3250,8 @@ const ABERTURA_ASA_DATA = [
     "Frente": "105 - FRENTE CASSIO (ZACARIAS)",
     "Responsável": " Antonio ",
     "Abertura da Asa": "52",
-    "Fazenda": "47601"
+    "Fazenda": "47601",
+    "Unnamed: 16": null
   },
   {
     "ID": "3601534",
@@ -3094,7 +3269,8 @@ const ABERTURA_ASA_DATA = [
     "Frente": "105 - FRENTE CASSIO (ZACARIAS)",
     "Responsável": " Antonio ",
     "Abertura da Asa": "52",
-    "Fazenda": "47601"
+    "Fazenda": "47601",
+    "Unnamed: 16": null
   },
   {
     "ID": "3601467",
@@ -3112,7 +3288,8 @@ const ABERTURA_ASA_DATA = [
     "Frente": "101 - FRENTE MECANIZADA",
     "Responsável": "NILDA CLAUDINO [2510716]",
     "Abertura da Asa": "69",
-    "Fazenda": "53201"
+    "Fazenda": "53201",
+    "Unnamed: 16": null
   },
   {
     "ID": "3601466",
@@ -3130,7 +3307,8 @@ const ABERTURA_ASA_DATA = [
     "Frente": "101 - FRENTE MECANIZADA",
     "Responsável": "NILDA CLAUDINO [2510716]",
     "Abertura da Asa": "69",
-    "Fazenda": "53201"
+    "Fazenda": "53201",
+    "Unnamed: 16": null
   },
   {
     "ID": "3600535",
@@ -3148,7 +3326,8 @@ const ABERTURA_ASA_DATA = [
     "Frente": "142 - FRENTE BIDU",
     "Responsável": "Leonardo Ribeiro Teixeira da Silva",
     "Abertura da Asa": "53",
-    "Fazenda": "142601"
+    "Fazenda": "142601",
+    "Unnamed: 16": null
   },
   {
     "ID": "3600534",
@@ -3166,7 +3345,8 @@ const ABERTURA_ASA_DATA = [
     "Frente": "142 - FRENTE BIDU",
     "Responsável": "Leonardo Ribeiro Teixeira da Silva",
     "Abertura da Asa": "53",
-    "Fazenda": "142601"
+    "Fazenda": "142601",
+    "Unnamed: 16": null
   },
   {
     "ID": "3600533",
@@ -3184,7 +3364,8 @@ const ABERTURA_ASA_DATA = [
     "Frente": "142 - FRENTE BIDU",
     "Responsável": "Leonardo Ribeiro Teixeira da Silva",
     "Abertura da Asa": "53",
-    "Fazenda": "142601"
+    "Fazenda": "142601",
+    "Unnamed: 16": null
   },
   {
     "ID": "3600532",
@@ -3202,7 +3383,8 @@ const ABERTURA_ASA_DATA = [
     "Frente": "142 - FRENTE BIDU",
     "Responsável": "Leonardo Ribeiro Teixeira da Silva",
     "Abertura da Asa": "53",
-    "Fazenda": "142601"
+    "Fazenda": "142601",
+    "Unnamed: 16": null
   },
   {
     "ID": "3599506",
@@ -3220,7 +3402,8 @@ const ABERTURA_ASA_DATA = [
     "Frente": "139 - FRENTE MANEZÃO",
     "Responsável": "MICHELI DE SOUZA SANTOS  ",
     "Abertura da Asa": "50",
-    "Fazenda": "137701"
+    "Fazenda": "137701",
+    "Unnamed: 16": null
   },
   {
     "ID": "3599505",
@@ -3238,7 +3421,8 @@ const ABERTURA_ASA_DATA = [
     "Frente": "139 - FRENTE MANEZÃO",
     "Responsável": "MICHELI DE SOUZA SANTOS  ",
     "Abertura da Asa": "50",
-    "Fazenda": "137701"
+    "Fazenda": "137701",
+    "Unnamed: 16": null
   },
   {
     "ID": "3599504",
@@ -3256,7 +3440,8 @@ const ABERTURA_ASA_DATA = [
     "Frente": "139 - FRENTE MANEZÃO",
     "Responsável": "MICHELI DE SOUZA SANTOS  ",
     "Abertura da Asa": "51",
-    "Fazenda": "137701"
+    "Fazenda": "137701",
+    "Unnamed: 16": null
   },
   {
     "ID": "3598756",
@@ -3274,7 +3459,8 @@ const ABERTURA_ASA_DATA = [
     "Frente": "261 - FRENTE PRÓPRIA  (EDMILSON)",
     "Responsável": "VITOR AMORIM RAMOS ",
     "Abertura da Asa": "52",
-    "Fazenda": "40101"
+    "Fazenda": "40101",
+    "Unnamed: 16": null
   },
   {
     "ID": "3599503",
@@ -3292,7 +3478,8 @@ const ABERTURA_ASA_DATA = [
     "Frente": "139 - FRENTE MANEZÃO",
     "Responsável": "MICHELI DE SOUZA SANTOS  ",
     "Abertura da Asa": "51",
-    "Fazenda": "137701"
+    "Fazenda": "137701",
+    "Unnamed: 16": null
   },
   {
     "ID": "3598755",
@@ -3310,7 +3497,8 @@ const ABERTURA_ASA_DATA = [
     "Frente": "261 - FRENTE PRÓPRIA  (EDMILSON)",
     "Responsável": "VITOR AMORIM RAMOS ",
     "Abertura da Asa": "52",
-    "Fazenda": "40101"
+    "Fazenda": "40101",
+    "Unnamed: 16": null
   },
   {
     "ID": "3599014",
@@ -3328,7 +3516,8 @@ const ABERTURA_ASA_DATA = [
     "Frente": "105 - FRENTE CASSIO (ZACARIAS)",
     "Responsável": "GABRIEL HENRIQUE MARTINS PEREIRA",
     "Abertura da Asa": "56",
-    "Fazenda": "47601"
+    "Fazenda": "47601",
+    "Unnamed: 16": null
   },
   {
     "ID": "3599248",
@@ -3346,7 +3535,8 @@ const ABERTURA_ASA_DATA = [
     "Frente": "105 - FRENTE CASSIO (ZACARIAS)",
     "Responsável": "GABRIEL HENRIQUE MARTINS PEREIRA",
     "Abertura da Asa": "56",
-    "Fazenda": "47601"
+    "Fazenda": "47601",
+    "Unnamed: 16": null
   },
   {
     "ID": "3599247",
@@ -3364,7 +3554,8 @@ const ABERTURA_ASA_DATA = [
     "Frente": "105 - FRENTE CASSIO (ZACARIAS)",
     "Responsável": "GABRIEL HENRIQUE MARTINS PEREIRA",
     "Abertura da Asa": "56",
-    "Fazenda": "47601"
+    "Fazenda": "47601",
+    "Unnamed: 16": null
   },
   {
     "ID": "3599245",
@@ -3382,7 +3573,8 @@ const ABERTURA_ASA_DATA = [
     "Frente": "105 - FRENTE CASSIO (ZACARIAS)",
     "Responsável": "GABRIEL HENRIQUE MARTINS PEREIRA",
     "Abertura da Asa": "52",
-    "Fazenda": "47601"
+    "Fazenda": "47601",
+    "Unnamed: 16": null
   },
   {
     "ID": "3598201",
@@ -3400,7 +3592,8 @@ const ABERTURA_ASA_DATA = [
     "Frente": "101 - FRENTE MECANIZADA",
     "Responsável": "NILDA CLAUDINO [2510716]",
     "Abertura da Asa": "69",
-    "Fazenda": "53201"
+    "Fazenda": "53201",
+    "Unnamed: 16": null
   },
   {
     "ID": "3598200",
@@ -3418,7 +3611,8 @@ const ABERTURA_ASA_DATA = [
     "Frente": "101 - FRENTE MECANIZADA",
     "Responsável": "NILDA CLAUDINO [2510716]",
     "Abertura da Asa": "69",
-    "Fazenda": "53201"
+    "Fazenda": "53201",
+    "Unnamed: 16": null
   },
   {
     "ID": "3598696",
@@ -3436,7 +3630,8 @@ const ABERTURA_ASA_DATA = [
     "Frente": "261 - FRENTE PRÓPRIA  (EDMILSON)",
     "Responsável": "VITOR AMORIM RAMOS ",
     "Abertura da Asa": "52",
-    "Fazenda": "40101"
+    "Fazenda": "40101",
+    "Unnamed: 16": null
   },
   {
     "ID": "3598695",
@@ -3454,7 +3649,8 @@ const ABERTURA_ASA_DATA = [
     "Frente": "261 - FRENTE PRÓPRIA  (EDMILSON)",
     "Responsável": "VITOR AMORIM RAMOS ",
     "Abertura da Asa": "52",
-    "Fazenda": "40101"
+    "Fazenda": "40101",
+    "Unnamed: 16": null
   },
   {
     "ID": "3596364",
@@ -3472,7 +3668,8 @@ const ABERTURA_ASA_DATA = [
     "Frente": "101 - FRENTE MECANIZADA",
     "Responsável": "NILDA CLAUDINO [2510716]",
     "Abertura da Asa": "69",
-    "Fazenda": "53201"
+    "Fazenda": "53201",
+    "Unnamed: 16": null
   },
   {
     "ID": "3596363",
@@ -3490,7 +3687,8 @@ const ABERTURA_ASA_DATA = [
     "Frente": "101 - FRENTE MECANIZADA",
     "Responsável": "NILDA CLAUDINO [2510716]",
     "Abertura da Asa": "69",
-    "Fazenda": "53201"
+    "Fazenda": "53201",
+    "Unnamed: 16": null
   },
   {
     "ID": "3596354",
@@ -3508,7 +3706,8 @@ const ABERTURA_ASA_DATA = [
     "Frente": "101 - FRENTE MECANIZADA",
     "Responsável": "JOYCE RODRIGUES REBOUCAS [22004]",
     "Abertura da Asa": "69",
-    "Fazenda": "53201"
+    "Fazenda": "53201",
+    "Unnamed: 16": null
   },
   {
     "ID": "3596353",
@@ -3526,7 +3725,8 @@ const ABERTURA_ASA_DATA = [
     "Frente": "101 - FRENTE MECANIZADA",
     "Responsável": "JOYCE RODRIGUES REBOUCAS [22004]",
     "Abertura da Asa": "69",
-    "Fazenda": "53201"
+    "Fazenda": "53201",
+    "Unnamed: 16": null
   },
   {
     "ID": "3595641",
@@ -3544,7 +3744,8 @@ const ABERTURA_ASA_DATA = [
     "Frente": "261 - FRENTE PRÓPRIA  (EDMILSON)",
     "Responsável": "VITOR AMORIM RAMOS ",
     "Abertura da Asa": "52",
-    "Fazenda": "40101"
+    "Fazenda": "40101",
+    "Unnamed: 16": null
   },
   {
     "ID": "3595640",
@@ -3562,7 +3763,8 @@ const ABERTURA_ASA_DATA = [
     "Frente": "261 - FRENTE PRÓPRIA  (EDMILSON)",
     "Responsável": "VITOR AMORIM RAMOS ",
     "Abertura da Asa": "52",
-    "Fazenda": "40101"
+    "Fazenda": "40101",
+    "Unnamed: 16": null
   },
   {
     "ID": "3595639",
@@ -3580,7 +3782,8 @@ const ABERTURA_ASA_DATA = [
     "Frente": "261 - FRENTE PRÓPRIA  (EDMILSON)",
     "Responsável": "VITOR AMORIM RAMOS ",
     "Abertura da Asa": "52",
-    "Fazenda": "40101"
+    "Fazenda": "40101",
+    "Unnamed: 16": null
   },
   {
     "ID": "3595638",
@@ -3598,7 +3801,8 @@ const ABERTURA_ASA_DATA = [
     "Frente": "261 - FRENTE PRÓPRIA  (EDMILSON)",
     "Responsável": "VITOR AMORIM RAMOS ",
     "Abertura da Asa": "52",
-    "Fazenda": "40101"
+    "Fazenda": "40101",
+    "Unnamed: 16": null
   },
   {
     "ID": "3595893",
@@ -3616,7 +3820,8 @@ const ABERTURA_ASA_DATA = [
     "Frente": "105 - FRENTE CASSIO (ZACARIAS)",
     "Responsável": "GABRIEL HENRIQUE MARTINS PEREIRA",
     "Abertura da Asa": "64",
-    "Fazenda": "203602"
+    "Fazenda": "203602",
+    "Unnamed: 16": null
   },
   {
     "ID": "3595892",
@@ -3634,7 +3839,8 @@ const ABERTURA_ASA_DATA = [
     "Frente": "105 - FRENTE CASSIO (ZACARIAS)",
     "Responsável": "GABRIEL HENRIQUE MARTINS PEREIRA",
     "Abertura da Asa": "65",
-    "Fazenda": "203602"
+    "Fazenda": "203602",
+    "Unnamed: 16": null
   },
   {
     "ID": "3595891",
@@ -3652,7 +3858,8 @@ const ABERTURA_ASA_DATA = [
     "Frente": "105 - FRENTE CASSIO (ZACARIAS)",
     "Responsável": "GABRIEL HENRIQUE MARTINS PEREIRA",
     "Abertura da Asa": "63",
-    "Fazenda": "203602"
+    "Fazenda": "203602",
+    "Unnamed: 16": null
   },
   {
     "ID": "3595890",
@@ -3670,7 +3877,8 @@ const ABERTURA_ASA_DATA = [
     "Frente": "105 - FRENTE CASSIO (ZACARIAS)",
     "Responsável": "GABRIEL HENRIQUE MARTINS PEREIRA",
     "Abertura da Asa": "60",
-    "Fazenda": "203602"
+    "Fazenda": "203602",
+    "Unnamed: 16": null
   },
   {
     "ID": "3595688",
@@ -3688,7 +3896,8 @@ const ABERTURA_ASA_DATA = [
     "Frente": "143 - FRENTE CASSIO",
     "Responsável": " Antonio ",
     "Abertura da Asa": "60",
-    "Fazenda": "110101"
+    "Fazenda": "110101",
+    "Unnamed: 16": null
   },
   {
     "ID": "3595687",
@@ -3706,7 +3915,8 @@ const ABERTURA_ASA_DATA = [
     "Frente": "143 - FRENTE CASSIO",
     "Responsável": " Antonio ",
     "Abertura da Asa": "60",
-    "Fazenda": "110101"
+    "Fazenda": "110101",
+    "Unnamed: 16": null
   },
   {
     "ID": "3595686",
@@ -3724,7 +3934,8 @@ const ABERTURA_ASA_DATA = [
     "Frente": "143 - FRENTE CASSIO",
     "Responsável": " Antonio ",
     "Abertura da Asa": "62",
-    "Fazenda": "110101"
+    "Fazenda": "110101",
+    "Unnamed: 16": null
   },
   {
     "ID": "3595685",
@@ -3742,7 +3953,8 @@ const ABERTURA_ASA_DATA = [
     "Frente": "143 - FRENTE CASSIO",
     "Responsável": " Antonio ",
     "Abertura da Asa": "60",
-    "Fazenda": "110101"
+    "Fazenda": "110101",
+    "Unnamed: 16": null
   },
   {
     "ID": "3595216",
@@ -3760,7 +3972,8 @@ const ABERTURA_ASA_DATA = [
     "Frente": "135 - FRENTE PEDRINHO",
     "Responsável": "MARCELO DE OLIVEIRA JUNIOR",
     "Abertura da Asa": "51",
-    "Fazenda": "53201"
+    "Fazenda": "53201",
+    "Unnamed: 16": null
   },
   {
     "ID": "3595215",
@@ -3778,7 +3991,8 @@ const ABERTURA_ASA_DATA = [
     "Frente": "135 - FRENTE PEDRINHO",
     "Responsável": "MARCELO DE OLIVEIRA JUNIOR",
     "Abertura da Asa": "50",
-    "Fazenda": "53201"
+    "Fazenda": "53201",
+    "Unnamed: 16": null
   },
   {
     "ID": "3593931",
@@ -3796,7 +4010,8 @@ const ABERTURA_ASA_DATA = [
     "Frente": "261 - FRENTE PRÓPRIA  (EDMILSON)",
     "Responsável": "REGINALDO DA SILVA GOMES ",
     "Abertura da Asa": "51",
-    "Fazenda": "40101"
+    "Fazenda": "40101",
+    "Unnamed: 16": null
   },
   {
     "ID": "3593930",
@@ -3814,7 +4029,8 @@ const ABERTURA_ASA_DATA = [
     "Frente": "261 - FRENTE PRÓPRIA  (EDMILSON)",
     "Responsável": "REGINALDO DA SILVA GOMES ",
     "Abertura da Asa": "51",
-    "Fazenda": "40101"
+    "Fazenda": "40101",
+    "Unnamed: 16": null
   },
   {
     "ID": "3593928",
@@ -3832,7 +4048,8 @@ const ABERTURA_ASA_DATA = [
     "Frente": "261 - FRENTE PRÓPRIA  (EDMILSON)",
     "Responsável": "REGINALDO DA SILVA GOMES ",
     "Abertura da Asa": "51",
-    "Fazenda": "40101"
+    "Fazenda": "40101",
+    "Unnamed: 16": null
   },
   {
     "ID": "3593929",
@@ -3850,7 +4067,8 @@ const ABERTURA_ASA_DATA = [
     "Frente": "261 - FRENTE PRÓPRIA  (EDMILSON)",
     "Responsável": "REGINALDO DA SILVA GOMES ",
     "Abertura da Asa": "52",
-    "Fazenda": "40101"
+    "Fazenda": "40101",
+    "Unnamed: 16": null
   },
   {
     "ID": "3595190",
@@ -3868,7 +4086,8 @@ const ABERTURA_ASA_DATA = [
     "Frente": "135 - FRENTE PEDRINHO",
     "Responsável": "MARCELO DE OLIVEIRA JUNIOR",
     "Abertura da Asa": "50",
-    "Fazenda": "53201"
+    "Fazenda": "53201",
+    "Unnamed: 16": null
   },
   {
     "ID": "3595189",
@@ -3886,7 +4105,8 @@ const ABERTURA_ASA_DATA = [
     "Frente": "135 - FRENTE PEDRINHO",
     "Responsável": "MARCELO DE OLIVEIRA JUNIOR",
     "Abertura da Asa": "52",
-    "Fazenda": "53201"
+    "Fazenda": "53201",
+    "Unnamed: 16": null
   },
   {
     "ID": "3595285",
@@ -3904,7 +4124,8 @@ const ABERTURA_ASA_DATA = [
     "Frente": "142 - FRENTE BIDU",
     "Responsável": "Leonardo Ribeiro Teixeira da Silva",
     "Abertura da Asa": "53",
-    "Fazenda": "53201"
+    "Fazenda": "53201",
+    "Unnamed: 16": null
   },
   {
     "ID": "3595284",
@@ -3922,7 +4143,8 @@ const ABERTURA_ASA_DATA = [
     "Frente": "142 - FRENTE BIDU",
     "Responsável": "Leonardo Ribeiro Teixeira da Silva",
     "Abertura da Asa": "53",
-    "Fazenda": "53201"
+    "Fazenda": "53201",
+    "Unnamed: 16": null
   },
   {
     "ID": "3594028",
@@ -3940,7 +4162,8 @@ const ABERTURA_ASA_DATA = [
     "Frente": "142 - FRENTE BIDU",
     "Responsável": "Leonardo Ribeiro Teixeira da Silva",
     "Abertura da Asa": "53",
-    "Fazenda": "53201"
+    "Fazenda": "53201",
+    "Unnamed: 16": null
   },
   {
     "ID": "3594027",
@@ -3958,7 +4181,8 @@ const ABERTURA_ASA_DATA = [
     "Frente": "142 - FRENTE BIDU",
     "Responsável": "Leonardo Ribeiro Teixeira da Silva",
     "Abertura da Asa": "53",
-    "Fazenda": "53201"
+    "Fazenda": "53201",
+    "Unnamed: 16": null
   },
   {
     "ID": "3592767",
@@ -3976,7 +4200,8 @@ const ABERTURA_ASA_DATA = [
     "Frente": "143 - FRENTE CASSIO",
     "Responsável": " Antonio ",
     "Abertura da Asa": "62",
-    "Fazenda": "110101"
+    "Fazenda": "110101",
+    "Unnamed: 16": null
   },
   {
     "ID": "3592766",
@@ -3994,7 +4219,8 @@ const ABERTURA_ASA_DATA = [
     "Frente": "143 - FRENTE CASSIO",
     "Responsável": " Antonio ",
     "Abertura da Asa": "60",
-    "Fazenda": "110101"
+    "Fazenda": "110101",
+    "Unnamed: 16": null
   },
   {
     "ID": "3592765",
@@ -4012,7 +4238,8 @@ const ABERTURA_ASA_DATA = [
     "Frente": "143 - FRENTE CASSIO",
     "Responsável": " Antonio ",
     "Abertura da Asa": "61",
-    "Fazenda": "110101"
+    "Fazenda": "110101",
+    "Unnamed: 16": null
   },
   {
     "ID": "3592764",
@@ -4030,7 +4257,8 @@ const ABERTURA_ASA_DATA = [
     "Frente": "143 - FRENTE CASSIO",
     "Responsável": " Antonio ",
     "Abertura da Asa": "61",
-    "Fazenda": "110101"
+    "Fazenda": "110101",
+    "Unnamed: 16": null
   },
   {
     "ID": "3591173",
@@ -4048,7 +4276,8 @@ const ABERTURA_ASA_DATA = [
     "Frente": "261 - FRENTE PRÓPRIA  (EDMILSON)",
     "Responsável": "VITOR AMORIM RAMOS ",
     "Abertura da Asa": "52",
-    "Fazenda": "40101"
+    "Fazenda": "40101",
+    "Unnamed: 16": null
   },
   {
     "ID": "3591172",
@@ -4066,7 +4295,8 @@ const ABERTURA_ASA_DATA = [
     "Frente": "261 - FRENTE PRÓPRIA  (EDMILSON)",
     "Responsável": "VITOR AMORIM RAMOS ",
     "Abertura da Asa": "52",
-    "Fazenda": "40101"
+    "Fazenda": "40101",
+    "Unnamed: 16": null
   },
   {
     "ID": "3591167",
@@ -4084,7 +4314,8 @@ const ABERTURA_ASA_DATA = [
     "Frente": "261 - FRENTE PRÓPRIA  (EDMILSON)",
     "Responsável": "VITOR AMORIM RAMOS ",
     "Abertura da Asa": "52",
-    "Fazenda": "40101"
+    "Fazenda": "40101",
+    "Unnamed: 16": null
   },
   {
     "ID": "3591166",
@@ -4102,7 +4333,8 @@ const ABERTURA_ASA_DATA = [
     "Frente": "261 - FRENTE PRÓPRIA  (EDMILSON)",
     "Responsável": "VITOR AMORIM RAMOS ",
     "Abertura da Asa": "52",
-    "Fazenda": "40101"
+    "Fazenda": "40101",
+    "Unnamed: 16": null
   },
   {
     "ID": "3590586",
@@ -4120,7 +4352,8 @@ const ABERTURA_ASA_DATA = [
     "Frente": "143 - FRENTE CASSIO",
     "Responsável": " Antonio ",
     "Abertura da Asa": "60",
-    "Fazenda": "110101"
+    "Fazenda": "110101",
+    "Unnamed: 16": null
   },
   {
     "ID": "3590585",
@@ -4138,7 +4371,8 @@ const ABERTURA_ASA_DATA = [
     "Frente": "143 - FRENTE CASSIO",
     "Responsável": " Antonio ",
     "Abertura da Asa": "60",
-    "Fazenda": "110101"
+    "Fazenda": "110101",
+    "Unnamed: 16": null
   },
   {
     "ID": "3590961",
@@ -4156,7 +4390,8 @@ const ABERTURA_ASA_DATA = [
     "Frente": "105 - FRENTE CASSIO (ZACARIAS)",
     "Responsável": "FERNANDA DE SOUZA ",
     "Abertura da Asa": "64",
-    "Fazenda": "212901"
+    "Fazenda": "212901",
+    "Unnamed: 16": null
   },
   {
     "ID": "3590960",
@@ -4174,7 +4409,8 @@ const ABERTURA_ASA_DATA = [
     "Frente": "105 - FRENTE CASSIO (ZACARIAS)",
     "Responsável": "FERNANDA DE SOUZA ",
     "Abertura da Asa": "62",
-    "Fazenda": "212901"
+    "Fazenda": "212901",
+    "Unnamed: 16": null
   },
   {
     "ID": "3590959",
@@ -4192,7 +4428,8 @@ const ABERTURA_ASA_DATA = [
     "Frente": "105 - FRENTE CASSIO (ZACARIAS)",
     "Responsável": "FERNANDA DE SOUZA ",
     "Abertura da Asa": "64",
-    "Fazenda": "212901"
+    "Fazenda": "212901",
+    "Unnamed: 16": null
   },
   {
     "ID": "3590958",
@@ -4210,7 +4447,8 @@ const ABERTURA_ASA_DATA = [
     "Frente": "105 - FRENTE CASSIO (ZACARIAS)",
     "Responsável": "FERNANDA DE SOUZA ",
     "Abertura da Asa": "64",
-    "Fazenda": "212901"
+    "Fazenda": "212901",
+    "Unnamed: 16": null
   },
   {
     "ID": "3589920",
@@ -4228,7 +4466,8 @@ const ABERTURA_ASA_DATA = [
     "Frente": "143 - FRENTE CASSIO",
     "Responsável": "GABRIEL HENRIQUE MARTINS PEREIRA",
     "Abertura da Asa": "66",
-    "Fazenda": "110101"
+    "Fazenda": "110101",
+    "Unnamed: 16": null
   },
   {
     "ID": "3589919",
@@ -4246,7 +4485,8 @@ const ABERTURA_ASA_DATA = [
     "Frente": "143 - FRENTE CASSIO",
     "Responsável": "GABRIEL HENRIQUE MARTINS PEREIRA",
     "Abertura da Asa": "63",
-    "Fazenda": "110101"
+    "Fazenda": "110101",
+    "Unnamed: 16": null
   },
   {
     "ID": "3588679",
@@ -4264,7 +4504,8 @@ const ABERTURA_ASA_DATA = [
     "Frente": "135 - FRENTE PEDRINHO",
     "Responsável": "MARCELO DE OLIVEIRA JUNIOR",
     "Abertura da Asa": "50",
-    "Fazenda": "201901"
+    "Fazenda": "201901",
+    "Unnamed: 16": null
   },
   {
     "ID": "3588676",
@@ -4282,7 +4523,8 @@ const ABERTURA_ASA_DATA = [
     "Frente": "135 - FRENTE PEDRINHO",
     "Responsável": "MARCELO DE OLIVEIRA JUNIOR",
     "Abertura da Asa": "51",
-    "Fazenda": "201901"
+    "Fazenda": "201901",
+    "Unnamed: 16": null
   },
   {
     "ID": "3588673",
@@ -4300,7 +4542,8 @@ const ABERTURA_ASA_DATA = [
     "Frente": "135 - FRENTE PEDRINHO",
     "Responsável": "MARCELO DE OLIVEIRA JUNIOR",
     "Abertura da Asa": "52",
-    "Fazenda": "201901"
+    "Fazenda": "201901",
+    "Unnamed: 16": null
   },
   {
     "ID": "3588670",
@@ -4318,7 +4561,8 @@ const ABERTURA_ASA_DATA = [
     "Frente": "135 - FRENTE PEDRINHO",
     "Responsável": "MARCELO DE OLIVEIRA JUNIOR",
     "Abertura da Asa": "50",
-    "Fazenda": "201901"
+    "Fazenda": "201901",
+    "Unnamed: 16": null
   },
   {
     "ID": "3587939",
@@ -4336,7 +4580,8 @@ const ABERTURA_ASA_DATA = [
     "Frente": "142 - FRENTE BIDU",
     "Responsável": "Leonardo Ribeiro Teixeira da Silva",
     "Abertura da Asa": "52",
-    "Fazenda": "118101"
+    "Fazenda": "118101",
+    "Unnamed: 16": null
   },
   {
     "ID": "3587938",
@@ -4354,7 +4599,8 @@ const ABERTURA_ASA_DATA = [
     "Frente": "142 - FRENTE BIDU",
     "Responsável": "Leonardo Ribeiro Teixeira da Silva",
     "Abertura da Asa": "52",
-    "Fazenda": "118101"
+    "Fazenda": "118101",
+    "Unnamed: 16": null
   },
   {
     "ID": "3587723",
@@ -4372,7 +4618,8 @@ const ABERTURA_ASA_DATA = [
     "Frente": "143 - FRENTE CASSIO",
     "Responsável": "GABRIEL HENRIQUE MARTINS PEREIRA",
     "Abertura da Asa": "66",
-    "Fazenda": "110101"
+    "Fazenda": "110101",
+    "Unnamed: 16": null
   },
   {
     "ID": "3587733",
@@ -4390,7 +4637,8 @@ const ABERTURA_ASA_DATA = [
     "Frente": "143 - FRENTE CASSIO",
     "Responsável": "GABRIEL HENRIQUE MARTINS PEREIRA",
     "Abertura da Asa": "65",
-    "Fazenda": "110101"
+    "Fazenda": "110101",
+    "Unnamed: 16": null
   },
   {
     "ID": "3587732",
@@ -4408,7 +4656,8 @@ const ABERTURA_ASA_DATA = [
     "Frente": "143 - FRENTE CASSIO",
     "Responsável": "GABRIEL HENRIQUE MARTINS PEREIRA",
     "Abertura da Asa": "66",
-    "Fazenda": "110101"
+    "Fazenda": "110101",
+    "Unnamed: 16": null
   },
   {
     "ID": "3587731",
@@ -4426,7 +4675,8 @@ const ABERTURA_ASA_DATA = [
     "Frente": "143 - FRENTE CASSIO",
     "Responsável": "GABRIEL HENRIQUE MARTINS PEREIRA",
     "Abertura da Asa": "63",
-    "Fazenda": "110101"
+    "Fazenda": "110101",
+    "Unnamed: 16": null
   },
   {
     "ID": "3587935",
@@ -4444,7 +4694,8 @@ const ABERTURA_ASA_DATA = [
     "Frente": "142 - FRENTE BIDU",
     "Responsável": "Leonardo Ribeiro Teixeira da Silva",
     "Abertura da Asa": "52",
-    "Fazenda": "118101"
+    "Fazenda": "118101",
+    "Unnamed: 16": null
   },
   {
     "ID": "3587934",
@@ -4462,7 +4713,8 @@ const ABERTURA_ASA_DATA = [
     "Frente": "142 - FRENTE BIDU",
     "Responsável": "Leonardo Ribeiro Teixeira da Silva",
     "Abertura da Asa": "52",
-    "Fazenda": "118101"
+    "Fazenda": "118101",
+    "Unnamed: 16": null
   },
   {
     "ID": "3588292",
@@ -4480,7 +4732,8 @@ const ABERTURA_ASA_DATA = [
     "Frente": "135 - PEDRINHO ",
     "Responsável": "REGINALDO DA SILVA GOMES ",
     "Abertura da Asa": "52",
-    "Fazenda": "227203"
+    "Fazenda": "227203",
+    "Unnamed: 16": null
   },
   {
     "ID": "3588293",
@@ -4498,7 +4751,8 @@ const ABERTURA_ASA_DATA = [
     "Frente": "135 - PEDRINHO ",
     "Responsável": "REGINALDO DA SILVA GOMES ",
     "Abertura da Asa": "50",
-    "Fazenda": "227203"
+    "Fazenda": "227203",
+    "Unnamed: 16": null
   },
   {
     "ID": "3588294",
@@ -4516,7 +4770,8 @@ const ABERTURA_ASA_DATA = [
     "Frente": "135 - PEDRINHO ",
     "Responsável": "REGINALDO DA SILVA GOMES ",
     "Abertura da Asa": "51",
-    "Fazenda": "227203"
+    "Fazenda": "227203",
+    "Unnamed: 16": null
   },
   {
     "ID": "3588291",
@@ -4534,7 +4789,8 @@ const ABERTURA_ASA_DATA = [
     "Frente": "135 - PEDRINHO ",
     "Responsável": "REGINALDO DA SILVA GOMES ",
     "Abertura da Asa": "50",
-    "Fazenda": "227203"
+    "Fazenda": "227203",
+    "Unnamed: 16": null
   },
   {
     "ID": "3588493",
@@ -4552,7 +4808,8 @@ const ABERTURA_ASA_DATA = [
     "Frente": "135 - FRENTE PEDRINHO",
     "Responsável": "MARCELO DE OLIVEIRA JUNIOR",
     "Abertura da Asa": "50",
-    "Fazenda": "227203"
+    "Fazenda": "227203",
+    "Unnamed: 16": null
   },
   {
     "ID": "3588492",
@@ -4570,7 +4827,8 @@ const ABERTURA_ASA_DATA = [
     "Frente": "135 - FRENTE PEDRINHO",
     "Responsável": "MARCELO DE OLIVEIRA JUNIOR",
     "Abertura da Asa": "51",
-    "Fazenda": "227203"
+    "Fazenda": "227203",
+    "Unnamed: 16": null
   },
   {
     "ID": "3588491",
@@ -4588,7 +4846,8 @@ const ABERTURA_ASA_DATA = [
     "Frente": "135 - FRENTE PEDRINHO",
     "Responsável": "MARCELO DE OLIVEIRA JUNIOR",
     "Abertura da Asa": "52",
-    "Fazenda": "227203"
+    "Fazenda": "227203",
+    "Unnamed: 16": null
   },
   {
     "ID": "3588490",
@@ -4606,7 +4865,8 @@ const ABERTURA_ASA_DATA = [
     "Frente": "135 - FRENTE PEDRINHO",
     "Responsável": "MARCELO DE OLIVEIRA JUNIOR",
     "Abertura da Asa": "50",
-    "Fazenda": "227203"
+    "Fazenda": "227203",
+    "Unnamed: 16": null
   },
   {
     "ID": "3586990",
@@ -4624,7 +4884,8 @@ const ABERTURA_ASA_DATA = [
     "Frente": "105 - FRENTE CASSIO (ZACARIAS)",
     "Responsável": "NILDA CLAUDINO [2510716]",
     "Abertura da Asa": "65",
-    "Fazenda": "136101"
+    "Fazenda": "136101",
+    "Unnamed: 16": null
   },
   {
     "ID": "3586989",
@@ -4642,7 +4903,8 @@ const ABERTURA_ASA_DATA = [
     "Frente": "105 - FRENTE CASSIO (ZACARIAS)",
     "Responsável": "NILDA CLAUDINO [2510716]",
     "Abertura da Asa": "65",
-    "Fazenda": "136101"
+    "Fazenda": "136101",
+    "Unnamed: 16": null
   },
   {
     "ID": "3586988",
@@ -4660,7 +4922,8 @@ const ABERTURA_ASA_DATA = [
     "Frente": "105 - FRENTE CASSIO (ZACARIAS)",
     "Responsável": "NILDA CLAUDINO [2510716]",
     "Abertura da Asa": "64",
-    "Fazenda": "136101"
+    "Fazenda": "136101",
+    "Unnamed: 16": null
   },
   {
     "ID": "3586987",
@@ -4678,7 +4941,8 @@ const ABERTURA_ASA_DATA = [
     "Frente": "105 - FRENTE CASSIO (ZACARIAS)",
     "Responsável": "NILDA CLAUDINO [2510716]",
     "Abertura da Asa": "61",
-    "Fazenda": "136101"
+    "Fazenda": "136101",
+    "Unnamed: 16": null
   },
   {
     "ID": "3584453",
@@ -4696,7 +4960,8 @@ const ABERTURA_ASA_DATA = [
     "Frente": "105 - FRENTE CASSIO (ZACARIAS)",
     "Responsável": "EDILIANA CARDOSO DA COSTA",
     "Abertura da Asa": "65",
-    "Fazenda": "136101"
+    "Fazenda": "136101",
+    "Unnamed: 16": null
   },
   {
     "ID": "3584451",
@@ -4714,7 +4979,8 @@ const ABERTURA_ASA_DATA = [
     "Frente": "105 - FRENTE CASSIO (ZACARIAS)",
     "Responsável": "EDILIANA CARDOSO DA COSTA",
     "Abertura da Asa": "64",
-    "Fazenda": "136101"
+    "Fazenda": "136101",
+    "Unnamed: 16": null
   },
   {
     "ID": "3584086",
@@ -4732,7 +4998,8 @@ const ABERTURA_ASA_DATA = [
     "Frente": "142 - FRENTE BIDU",
     "Responsável": "Leonardo Ribeiro Teixeira da Silva",
     "Abertura da Asa": "53",
-    "Fazenda": "43001"
+    "Fazenda": "43001",
+    "Unnamed: 16": null
   },
   {
     "ID": "3584085",
@@ -4750,7 +5017,8 @@ const ABERTURA_ASA_DATA = [
     "Frente": "142 - FRENTE BIDU",
     "Responsável": "Leonardo Ribeiro Teixeira da Silva",
     "Abertura da Asa": "53",
-    "Fazenda": "43001"
+    "Fazenda": "43001",
+    "Unnamed: 16": null
   },
   {
     "ID": "3586210",
@@ -4768,7 +5036,8 @@ const ABERTURA_ASA_DATA = [
     "Frente": "139 - FRENTE MANEZÃO",
     "Responsável": "MICHELI DE SOUZA SANTOS  ",
     "Abertura da Asa": "50",
-    "Fazenda": "40101"
+    "Fazenda": "40101",
+    "Unnamed: 16": null
   },
   {
     "ID": "3586209",
@@ -4786,7 +5055,8 @@ const ABERTURA_ASA_DATA = [
     "Frente": "139 - FRENTE MANEZÃO",
     "Responsável": "MICHELI DE SOUZA SANTOS  ",
     "Abertura da Asa": "52",
-    "Fazenda": "40101"
+    "Fazenda": "40101",
+    "Unnamed: 16": null
   },
   {
     "ID": "3586208",
@@ -4804,7 +5074,8 @@ const ABERTURA_ASA_DATA = [
     "Frente": "139 - FRENTE MANEZÃO",
     "Responsável": "MICHELI DE SOUZA SANTOS  ",
     "Abertura da Asa": "51",
-    "Fazenda": "40101"
+    "Fazenda": "40101",
+    "Unnamed: 16": null
   },
   {
     "ID": "3586293",
@@ -4822,7 +5093,8 @@ const ABERTURA_ASA_DATA = [
     "Frente": "139 - FRENTE MANEZÃO",
     "Responsável": "MICHELI DE SOUZA SANTOS  ",
     "Abertura da Asa": "51",
-    "Fazenda": "40101"
+    "Fazenda": "40101",
+    "Unnamed: 16": null
   },
   {
     "ID": "3584069",
@@ -4840,7 +5112,8 @@ const ABERTURA_ASA_DATA = [
     "Frente": "142 - FRENTE BIDU",
     "Responsável": "Leonardo Ribeiro Teixeira da Silva",
     "Abertura da Asa": "53",
-    "Fazenda": "43001"
+    "Fazenda": "43001",
+    "Unnamed: 16": null
   },
   {
     "ID": "3584068",
@@ -4858,7 +5131,8 @@ const ABERTURA_ASA_DATA = [
     "Frente": "142 - FRENTE BIDU",
     "Responsável": "Leonardo Ribeiro Teixeira da Silva",
     "Abertura da Asa": "53",
-    "Fazenda": "43001"
+    "Fazenda": "43001",
+    "Unnamed: 16": null
   },
   {
     "ID": "3585067",
@@ -4876,7 +5150,8 @@ const ABERTURA_ASA_DATA = [
     "Frente": "143 - FRENTE CASSIO",
     "Responsável": "GABRIEL HENRIQUE MARTINS PEREIRA",
     "Abertura da Asa": "58",
-    "Fazenda": "254602"
+    "Fazenda": "254602",
+    "Unnamed: 16": null
   },
   {
     "ID": "3585066",
@@ -4894,7 +5169,8 @@ const ABERTURA_ASA_DATA = [
     "Frente": "143 - FRENTE CASSIO",
     "Responsável": "GABRIEL HENRIQUE MARTINS PEREIRA",
     "Abertura da Asa": "58",
-    "Fazenda": "254602"
+    "Fazenda": "254602",
+    "Unnamed: 16": null
   },
   {
     "ID": "3585045",
@@ -4912,7 +5188,8 @@ const ABERTURA_ASA_DATA = [
     "Frente": "143 - FRENTE CASSIO",
     "Responsável": "GABRIEL HENRIQUE MARTINS PEREIRA",
     "Abertura da Asa": "57",
-    "Fazenda": "254602"
+    "Fazenda": "254602",
+    "Unnamed: 16": null
   },
   {
     "ID": "3585044",
@@ -4930,7 +5207,8 @@ const ABERTURA_ASA_DATA = [
     "Frente": "143 - FRENTE CASSIO",
     "Responsável": "GABRIEL HENRIQUE MARTINS PEREIRA",
     "Abertura da Asa": "55",
-    "Fazenda": "254602"
+    "Fazenda": "254602",
+    "Unnamed: 16": null
   },
   {
     "ID": "3583588",
@@ -4948,7 +5226,8 @@ const ABERTURA_ASA_DATA = [
     "Frente": "139 - FRENTE MANEZÃO",
     "Responsável": "MICHELI DE SOUZA SANTOS  ",
     "Abertura da Asa": "55",
-    "Fazenda": "287101"
+    "Fazenda": "287101",
+    "Unnamed: 16": null
   },
   {
     "ID": "3583587",
@@ -4966,7 +5245,8 @@ const ABERTURA_ASA_DATA = [
     "Frente": "139 - FRENTE MANEZÃO",
     "Responsável": "MICHELI DE SOUZA SANTOS  ",
     "Abertura da Asa": "52",
-    "Fazenda": "287101"
+    "Fazenda": "287101",
+    "Unnamed: 16": null
   },
   {
     "ID": "3581043",
@@ -4984,7 +5264,8 @@ const ABERTURA_ASA_DATA = [
     "Frente": "142 - FRENTE BIDU",
     "Responsável": "Leonardo Ribeiro Teixeira da Silva",
     "Abertura da Asa": "53",
-    "Fazenda": "204608"
+    "Fazenda": "204608",
+    "Unnamed: 16": null
   },
   {
     "ID": "3581042",
@@ -5002,7 +5283,8 @@ const ABERTURA_ASA_DATA = [
     "Frente": "142 - FRENTE BIDU",
     "Responsável": "Leonardo Ribeiro Teixeira da Silva",
     "Abertura da Asa": "53",
-    "Fazenda": "204608"
+    "Fazenda": "204608",
+    "Unnamed: 16": null
   },
   {
     "ID": "3581041",
@@ -5020,7 +5302,8 @@ const ABERTURA_ASA_DATA = [
     "Frente": "142 - FRENTE BIDU",
     "Responsável": "Leonardo Ribeiro Teixeira da Silva",
     "Abertura da Asa": "53",
-    "Fazenda": "204608"
+    "Fazenda": "204608",
+    "Unnamed: 16": null
   },
   {
     "ID": "3581040",
@@ -5038,7 +5321,8 @@ const ABERTURA_ASA_DATA = [
     "Frente": "142 - FRENTE BIDU",
     "Responsável": "Leonardo Ribeiro Teixeira da Silva",
     "Abertura da Asa": "53",
-    "Fazenda": "204608"
+    "Fazenda": "204608",
+    "Unnamed: 16": null
   },
   {
     "ID": "3580987",
@@ -5056,7 +5340,8 @@ const ABERTURA_ASA_DATA = [
     "Frente": "105 - FRENTE CASSIO (ZACARIAS)",
     "Responsável": "NILDA CLAUDINO [2510716]",
     "Abertura da Asa": "65",
-    "Fazenda": "53201"
+    "Fazenda": "53201",
+    "Unnamed: 16": null
   },
   {
     "ID": "3580985",
@@ -5074,7 +5359,8 @@ const ABERTURA_ASA_DATA = [
     "Frente": "105 - FRENTE CASSIO (ZACARIAS)",
     "Responsável": "NILDA CLAUDINO [2510716]",
     "Abertura da Asa": "64",
-    "Fazenda": "53201"
+    "Fazenda": "53201",
+    "Unnamed: 16": null
   },
   {
     "ID": "3580984",
@@ -5092,7 +5378,8 @@ const ABERTURA_ASA_DATA = [
     "Frente": "105 - FRENTE CASSIO (ZACARIAS)",
     "Responsável": "NILDA CLAUDINO [2510716]",
     "Abertura da Asa": "64",
-    "Fazenda": "53201"
+    "Fazenda": "53201",
+    "Unnamed: 16": null
   },
   {
     "ID": "3580986",
@@ -5110,7 +5397,8 @@ const ABERTURA_ASA_DATA = [
     "Frente": "105 - FRENTE CASSIO (ZACARIAS)",
     "Responsável": "NILDA CLAUDINO [2510716]",
     "Abertura da Asa": "63",
-    "Fazenda": "53201"
+    "Fazenda": "53201",
+    "Unnamed: 16": null
   },
   {
     "ID": "3580971",
@@ -5128,7 +5416,8 @@ const ABERTURA_ASA_DATA = [
     "Frente": "261 - FRENTE PRÓPRIA  (EDMILSON)",
     "Responsável": "VITOR AMORIM RAMOS ",
     "Abertura da Asa": "52",
-    "Fazenda": "40101"
+    "Fazenda": "40101",
+    "Unnamed: 16": null
   },
   {
     "ID": "3580970",
@@ -5146,7 +5435,8 @@ const ABERTURA_ASA_DATA = [
     "Frente": "261 - FRENTE PRÓPRIA  (EDMILSON)",
     "Responsável": "VITOR AMORIM RAMOS ",
     "Abertura da Asa": "52",
-    "Fazenda": "40101"
+    "Fazenda": "40101",
+    "Unnamed: 16": null
   },
   {
     "ID": "3580969",
@@ -5164,7 +5454,8 @@ const ABERTURA_ASA_DATA = [
     "Frente": "261 - FRENTE PRÓPRIA  (EDMILSON)",
     "Responsável": "VITOR AMORIM RAMOS ",
     "Abertura da Asa": "52",
-    "Fazenda": "40101"
+    "Fazenda": "40101",
+    "Unnamed: 16": null
   },
   {
     "ID": "3580966",
@@ -5182,7 +5473,8 @@ const ABERTURA_ASA_DATA = [
     "Frente": "261 - FRENTE PRÓPRIA  (EDMILSON)",
     "Responsável": "VITOR AMORIM RAMOS ",
     "Abertura da Asa": "52",
-    "Fazenda": "40101"
+    "Fazenda": "40101",
+    "Unnamed: 16": null
   },
   {
     "ID": "3579069",
@@ -5200,7 +5492,8 @@ const ABERTURA_ASA_DATA = [
     "Frente": "142 - FRENTE BIDU",
     "Responsável": "Leonardo Ribeiro Teixeira da Silva",
     "Abertura da Asa": "53",
-    "Fazenda": "204608"
+    "Fazenda": "204608",
+    "Unnamed: 16": null
   },
   {
     "ID": "3579068",
@@ -5218,7 +5511,8 @@ const ABERTURA_ASA_DATA = [
     "Frente": "142 - FRENTE BIDU",
     "Responsável": "Leonardo Ribeiro Teixeira da Silva",
     "Abertura da Asa": "53",
-    "Fazenda": "204608"
+    "Fazenda": "204608",
+    "Unnamed: 16": null
   },
   {
     "ID": "3579344",
@@ -5236,7 +5530,8 @@ const ABERTURA_ASA_DATA = [
     "Frente": "135 - FRENTE PEDRINHO",
     "Responsável": "MARCELO DE OLIVEIRA JUNIOR",
     "Abertura da Asa": "51",
-    "Fazenda": "53201"
+    "Fazenda": "53201",
+    "Unnamed: 16": null
   },
   {
     "ID": "3579343",
@@ -5254,7 +5549,8 @@ const ABERTURA_ASA_DATA = [
     "Frente": "135 - FRENTE PEDRINHO",
     "Responsável": "MARCELO DE OLIVEIRA JUNIOR",
     "Abertura da Asa": "51",
-    "Fazenda": "53201"
+    "Fazenda": "53201",
+    "Unnamed: 16": null
   },
   {
     "ID": "3578931",
@@ -5272,7 +5568,8 @@ const ABERTURA_ASA_DATA = [
     "Frente": "139 - FRENTE MANEZÃO",
     "Responsável": " Antonio ",
     "Abertura da Asa": "61",
-    "Fazenda": "53201"
+    "Fazenda": "53201",
+    "Unnamed: 16": null
   },
   {
     "ID": "3578930",
@@ -5290,7 +5587,8 @@ const ABERTURA_ASA_DATA = [
     "Frente": "139 - FRENTE MANEZÃO",
     "Responsável": " Antonio ",
     "Abertura da Asa": "61",
-    "Fazenda": "53201"
+    "Fazenda": "53201",
+    "Unnamed: 16": null
   },
   {
     "ID": "3578929",
@@ -5308,7 +5606,8 @@ const ABERTURA_ASA_DATA = [
     "Frente": "139 - FRENTE MANEZÃO",
     "Responsável": " Antonio ",
     "Abertura da Asa": "61",
-    "Fazenda": "53201"
+    "Fazenda": "53201",
+    "Unnamed: 16": null
   },
   {
     "ID": "3578928",
@@ -5326,7 +5625,8 @@ const ABERTURA_ASA_DATA = [
     "Frente": "139 - FRENTE MANEZÃO",
     "Responsável": " Antonio ",
     "Abertura da Asa": "61",
-    "Fazenda": "53201"
+    "Fazenda": "53201",
+    "Unnamed: 16": null
   },
   {
     "ID": "3579339",
@@ -5344,7 +5644,8 @@ const ABERTURA_ASA_DATA = [
     "Frente": "135 - FRENTE PEDRINHO",
     "Responsável": "MARCELO DE OLIVEIRA JUNIOR",
     "Abertura da Asa": "51",
-    "Fazenda": "53201"
+    "Fazenda": "53201",
+    "Unnamed: 16": null
   },
   {
     "ID": "3579338",
@@ -5362,7 +5663,8 @@ const ABERTURA_ASA_DATA = [
     "Frente": "135 - FRENTE PEDRINHO",
     "Responsável": "MARCELO DE OLIVEIRA JUNIOR",
     "Abertura da Asa": "52",
-    "Fazenda": "53201"
+    "Fazenda": "53201",
+    "Unnamed: 16": null
   },
   {
     "ID": "3578770",
@@ -5380,7 +5682,8 @@ const ABERTURA_ASA_DATA = [
     "Frente": "261 - FRENTE PRÓPRIA  (EDMILSON)",
     "Responsável": "VITOR AMORIM RAMOS ",
     "Abertura da Asa": "52",
-    "Fazenda": "40101"
+    "Fazenda": "40101",
+    "Unnamed: 16": null
   },
   {
     "ID": "3578769",
@@ -5398,7 +5701,8 @@ const ABERTURA_ASA_DATA = [
     "Frente": "261 - FRENTE PRÓPRIA  (EDMILSON)",
     "Responsável": "VITOR AMORIM RAMOS ",
     "Abertura da Asa": "52",
-    "Fazenda": "40101"
+    "Fazenda": "40101",
+    "Unnamed: 16": null
   },
   {
     "ID": "3578768",
@@ -5416,7 +5720,8 @@ const ABERTURA_ASA_DATA = [
     "Frente": "261 - FRENTE PRÓPRIA  (EDMILSON)",
     "Responsável": "VITOR AMORIM RAMOS ",
     "Abertura da Asa": "52",
-    "Fazenda": "40101"
+    "Fazenda": "40101",
+    "Unnamed: 16": null
   },
   {
     "ID": "3578767",
@@ -5434,7 +5739,8 @@ const ABERTURA_ASA_DATA = [
     "Frente": "261 - FRENTE PRÓPRIA  (EDMILSON)",
     "Responsável": "VITOR AMORIM RAMOS ",
     "Abertura da Asa": "52",
-    "Fazenda": "40101"
+    "Fazenda": "40101",
+    "Unnamed: 16": null
   },
   {
     "ID": "3579192",
@@ -5452,7 +5758,8 @@ const ABERTURA_ASA_DATA = [
     "Frente": "143 - FRENTE CASSIO",
     "Responsável": "GABRIEL HENRIQUE MARTINS PEREIRA",
     "Abertura da Asa": "57",
-    "Fazenda": "254701"
+    "Fazenda": "254701",
+    "Unnamed: 16": null
   },
   {
     "ID": "3579191",
@@ -5470,7 +5777,8 @@ const ABERTURA_ASA_DATA = [
     "Frente": "143 - FRENTE CASSIO",
     "Responsável": "GABRIEL HENRIQUE MARTINS PEREIRA",
     "Abertura da Asa": "58",
-    "Fazenda": "254701"
+    "Fazenda": "254701",
+    "Unnamed: 16": null
   },
   {
     "ID": "3579190",
@@ -5488,7 +5796,8 @@ const ABERTURA_ASA_DATA = [
     "Frente": "143 - FRENTE CASSIO",
     "Responsável": "GABRIEL HENRIQUE MARTINS PEREIRA",
     "Abertura da Asa": "58",
-    "Fazenda": "254701"
+    "Fazenda": "254701",
+    "Unnamed: 16": null
   },
   {
     "ID": "3579189",
@@ -5506,7 +5815,8 @@ const ABERTURA_ASA_DATA = [
     "Frente": "143 - FRENTE CASSIO",
     "Responsável": "GABRIEL HENRIQUE MARTINS PEREIRA",
     "Abertura da Asa": "56",
-    "Fazenda": "254701"
+    "Fazenda": "254701",
+    "Unnamed: 16": null
   },
   {
     "ID": "3578963",
@@ -5524,7 +5834,8 @@ const ABERTURA_ASA_DATA = [
     "Frente": "105 - FRENTE CASSIO (ZACARIAS)",
     "Responsável": "NILDA CLAUDINO [2510716]",
     "Abertura da Asa": "56",
-    "Fazenda": "53201"
+    "Fazenda": "53201",
+    "Unnamed: 16": null
   },
   {
     "ID": "3578964",
@@ -5542,7 +5853,8 @@ const ABERTURA_ASA_DATA = [
     "Frente": "105 - FRENTE CASSIO (ZACARIAS)",
     "Responsável": "NILDA CLAUDINO [2510716]",
     "Abertura da Asa": "57",
-    "Fazenda": "53201"
+    "Fazenda": "53201",
+    "Unnamed: 16": null
   },
   {
     "ID": "3578960",
@@ -5560,7 +5872,8 @@ const ABERTURA_ASA_DATA = [
     "Frente": "105 - FRENTE CASSIO (ZACARIAS)",
     "Responsável": "NILDA CLAUDINO [2510716]",
     "Abertura da Asa": "56",
-    "Fazenda": "53201"
+    "Fazenda": "53201",
+    "Unnamed: 16": null
   },
   {
     "ID": "3578959",
@@ -5578,7 +5891,8 @@ const ABERTURA_ASA_DATA = [
     "Frente": "105 - FRENTE CASSIO (ZACARIAS)",
     "Responsável": "NILDA CLAUDINO [2510716]",
     "Abertura da Asa": "55",
-    "Fazenda": "53201"
+    "Fazenda": "53201",
+    "Unnamed: 16": null
   },
   {
     "ID": "3577381",
@@ -5596,7 +5910,8 @@ const ABERTURA_ASA_DATA = [
     "Frente": "135 - FRENTE PEDRINHO",
     "Responsável": "MARCELO DE OLIVEIRA JUNIOR",
     "Abertura da Asa": "50",
-    "Fazenda": "53201"
+    "Fazenda": "53201",
+    "Unnamed: 16": null
   },
   {
     "ID": "3577380",
@@ -5614,7 +5929,8 @@ const ABERTURA_ASA_DATA = [
     "Frente": "135 - FRENTE PEDRINHO",
     "Responsável": "MARCELO DE OLIVEIRA JUNIOR",
     "Abertura da Asa": "51",
-    "Fazenda": "53201"
+    "Fazenda": "53201",
+    "Unnamed: 16": null
   },
   {
     "ID": "3576930",
@@ -5632,7 +5948,8 @@ const ABERTURA_ASA_DATA = [
     "Frente": "142 - FRENTE BIDU",
     "Responsável": "Leonardo Ribeiro Teixeira da Silva",
     "Abertura da Asa": "53",
-    "Fazenda": "204608"
+    "Fazenda": "204608",
+    "Unnamed: 16": null
   },
   {
     "ID": "3576929",
@@ -5650,7 +5967,8 @@ const ABERTURA_ASA_DATA = [
     "Frente": "142 - FRENTE BIDU",
     "Responsável": "Leonardo Ribeiro Teixeira da Silva",
     "Abertura da Asa": "53",
-    "Fazenda": "204608"
+    "Fazenda": "204608",
+    "Unnamed: 16": null
   },
   {
     "ID": "3576928",
@@ -5668,7 +5986,8 @@ const ABERTURA_ASA_DATA = [
     "Frente": "142 - FRENTE BIDU",
     "Responsável": "Leonardo Ribeiro Teixeira da Silva",
     "Abertura da Asa": "53",
-    "Fazenda": "204608"
+    "Fazenda": "204608",
+    "Unnamed: 16": null
   },
   {
     "ID": "3576927",
@@ -5686,7 +6005,8 @@ const ABERTURA_ASA_DATA = [
     "Frente": "142 - FRENTE BIDU",
     "Responsável": "Leonardo Ribeiro Teixeira da Silva",
     "Abertura da Asa": "53",
-    "Fazenda": "204608"
+    "Fazenda": "204608",
+    "Unnamed: 16": null
   },
   {
     "ID": "3576273",
@@ -5704,7 +6024,8 @@ const ABERTURA_ASA_DATA = [
     "Frente": "261 - FRENTE PRÓPRIA  (EDMILSON)",
     "Responsável": "VITOR AMORIM RAMOS ",
     "Abertura da Asa": "52",
-    "Fazenda": "40101"
+    "Fazenda": "40101",
+    "Unnamed: 16": null
   },
   {
     "ID": "3576272",
@@ -5722,7 +6043,8 @@ const ABERTURA_ASA_DATA = [
     "Frente": "261 - FRENTE PRÓPRIA  (EDMILSON)",
     "Responsável": "VITOR AMORIM RAMOS ",
     "Abertura da Asa": "52",
-    "Fazenda": "40101"
+    "Fazenda": "40101",
+    "Unnamed: 16": null
   },
   {
     "ID": "3576271",
@@ -5740,7 +6062,8 @@ const ABERTURA_ASA_DATA = [
     "Frente": "261 - FRENTE PRÓPRIA  (EDMILSON)",
     "Responsável": "VITOR AMORIM RAMOS ",
     "Abertura da Asa": "51",
-    "Fazenda": "40101"
+    "Fazenda": "40101",
+    "Unnamed: 16": null
   },
   {
     "ID": "3576270",
@@ -5758,7 +6081,8 @@ const ABERTURA_ASA_DATA = [
     "Frente": "261 - FRENTE PRÓPRIA  (EDMILSON)",
     "Responsável": "VITOR AMORIM RAMOS ",
     "Abertura da Asa": "51",
-    "Fazenda": "40101"
+    "Fazenda": "40101",
+    "Unnamed: 16": null
   },
   {
     "ID": "3577377",
@@ -5776,7 +6100,8 @@ const ABERTURA_ASA_DATA = [
     "Frente": "135 - FRENTE PEDRINHO",
     "Responsável": "MARCELO DE OLIVEIRA JUNIOR",
     "Abertura da Asa": "51",
-    "Fazenda": "53201"
+    "Fazenda": "53201",
+    "Unnamed: 16": null
   },
   {
     "ID": "3577375",
@@ -5794,7 +6119,8 @@ const ABERTURA_ASA_DATA = [
     "Frente": "135 - FRENTE PEDRINHO",
     "Responsável": "MARCELO DE OLIVEIRA JUNIOR",
     "Abertura da Asa": "52",
-    "Fazenda": "53201"
+    "Fazenda": "53201",
+    "Unnamed: 16": null
   },
   {
     "ID": "3576712",
@@ -5812,7 +6138,8 @@ const ABERTURA_ASA_DATA = [
     "Frente": "105 - FRENTE CASSIO (ZACARIAS)",
     "Responsável": "NILDA CLAUDINO [2510716]",
     "Abertura da Asa": "56",
-    "Fazenda": "43401"
+    "Fazenda": "43401",
+    "Unnamed: 16": null
   },
   {
     "ID": "3576711",
@@ -5830,7 +6157,8 @@ const ABERTURA_ASA_DATA = [
     "Frente": "105 - FRENTE CASSIO (ZACARIAS)",
     "Responsável": "NILDA CLAUDINO [2510716]",
     "Abertura da Asa": "55",
-    "Fazenda": "43401"
+    "Fazenda": "43401",
+    "Unnamed: 16": null
   },
   {
     "ID": "3576659",
@@ -5848,7 +6176,8 @@ const ABERTURA_ASA_DATA = [
     "Frente": "143 - FRENTE CASSIO",
     "Responsável": "GABRIEL HENRIQUE MARTINS PEREIRA",
     "Abertura da Asa": "58",
-    "Fazenda": "254602"
+    "Fazenda": "254602",
+    "Unnamed: 16": null
   },
   {
     "ID": "3576658",
@@ -5866,7 +6195,8 @@ const ABERTURA_ASA_DATA = [
     "Frente": "143 - FRENTE CASSIO",
     "Responsável": "GABRIEL HENRIQUE MARTINS PEREIRA",
     "Abertura da Asa": "56",
-    "Fazenda": "254602"
+    "Fazenda": "254602",
+    "Unnamed: 16": null
   },
   {
     "ID": "3576657",
@@ -5884,7 +6214,8 @@ const ABERTURA_ASA_DATA = [
     "Frente": "143 - FRENTE CASSIO",
     "Responsável": "GABRIEL HENRIQUE MARTINS PEREIRA",
     "Abertura da Asa": "58",
-    "Fazenda": "254602"
+    "Fazenda": "254602",
+    "Unnamed: 16": null
   },
   {
     "ID": "3576656",
@@ -5902,7 +6233,8 @@ const ABERTURA_ASA_DATA = [
     "Frente": "143 - FRENTE CASSIO",
     "Responsável": "GABRIEL HENRIQUE MARTINS PEREIRA",
     "Abertura da Asa": "59",
-    "Fazenda": "254602"
+    "Fazenda": "254602",
+    "Unnamed: 16": null
   },
   {
     "ID": "3576212",
@@ -5920,7 +6252,8 @@ const ABERTURA_ASA_DATA = [
     "Frente": "139 - FRENTE MANEZÃO",
     "Responsável": "MICHELI DE SOUZA SANTOS  ",
     "Abertura da Asa": "51",
-    "Fazenda": "46501"
+    "Fazenda": "46501",
+    "Unnamed: 16": null
   },
   {
     "ID": "3576210",
@@ -5938,7 +6271,8 @@ const ABERTURA_ASA_DATA = [
     "Frente": "139 - FRENTE MANEZÃO",
     "Responsável": "MICHELI DE SOUZA SANTOS  ",
     "Abertura da Asa": "52",
-    "Fazenda": "46501"
+    "Fazenda": "46501",
+    "Unnamed: 16": null
   },
   {
     "ID": "3574517",
@@ -5956,7 +6290,8 @@ const ABERTURA_ASA_DATA = [
     "Frente": "105 - FRENTE CASSIO",
     "Responsável": "NILDA CLAUDINO [2510716]",
     "Abertura da Asa": "56",
-    "Fazenda": "43401"
+    "Fazenda": "43401",
+    "Unnamed: 16": null
   },
   {
     "ID": "3574516",
@@ -5974,7 +6309,8 @@ const ABERTURA_ASA_DATA = [
     "Frente": "105 - FRENTE CASSIO",
     "Responsável": "NILDA CLAUDINO [2510716]",
     "Abertura da Asa": "55",
-    "Fazenda": "43401"
+    "Fazenda": "43401",
+    "Unnamed: 16": null
   },
   {
     "ID": "3574515",
@@ -5992,7 +6328,8 @@ const ABERTURA_ASA_DATA = [
     "Frente": "105 - FRENTE CASSIO",
     "Responsável": "NILDA CLAUDINO [2510716]",
     "Abertura da Asa": "56",
-    "Fazenda": "43401"
+    "Fazenda": "43401",
+    "Unnamed: 16": null
   },
   {
     "ID": "3574514",
@@ -6010,7 +6347,8 @@ const ABERTURA_ASA_DATA = [
     "Frente": "105 - FRENTE CASSIO",
     "Responsável": "NILDA CLAUDINO [2510716]",
     "Abertura da Asa": "56",
-    "Fazenda": "43401"
+    "Fazenda": "43401",
+    "Unnamed: 16": null
   },
   {
     "ID": "3569903",
@@ -6028,7 +6366,8 @@ const ABERTURA_ASA_DATA = [
     "Frente": "143 - FRENTE CASSIO",
     "Responsável": " Antonio ",
     "Abertura da Asa": "61",
-    "Fazenda": "285701"
+    "Fazenda": "285701",
+    "Unnamed: 16": null
   },
   {
     "ID": "3574364",
@@ -6046,7 +6385,8 @@ const ABERTURA_ASA_DATA = [
     "Frente": "135 - PEDRINHO ",
     "Responsável": "MARCELO DE OLIVEIRA JUNIOR",
     "Abertura da Asa": "51",
-    "Fazenda": "34802"
+    "Fazenda": "34802",
+    "Unnamed: 16": null
   },
   {
     "ID": "3574363",
@@ -6064,7 +6404,8 @@ const ABERTURA_ASA_DATA = [
     "Frente": "135 - PEDRINHO ",
     "Responsável": "MARCELO DE OLIVEIRA JUNIOR",
     "Abertura da Asa": "52",
-    "Fazenda": "34802"
+    "Fazenda": "34802",
+    "Unnamed: 16": null
   },
   {
     "ID": "3574362",
@@ -6082,7 +6423,8 @@ const ABERTURA_ASA_DATA = [
     "Frente": "135 - PEDRINHO ",
     "Responsável": "MARCELO DE OLIVEIRA JUNIOR",
     "Abertura da Asa": "51",
-    "Fazenda": "34802"
+    "Fazenda": "34802",
+    "Unnamed: 16": null
   },
   {
     "ID": "3574091",
@@ -6100,7 +6442,8 @@ const ABERTURA_ASA_DATA = [
     "Frente": "135 - PEDRINHO ",
     "Responsável": "MARCELO DE OLIVEIRA JUNIOR",
     "Abertura da Asa": "51",
-    "Fazenda": "34802"
+    "Fazenda": "34802",
+    "Unnamed: 16": null
   },
   {
     "ID": "3574379",
@@ -6118,7 +6461,8 @@ const ABERTURA_ASA_DATA = [
     "Frente": "261 - FRENTE PRÓPRIA  (EDMILSON)",
     "Responsável": "VITOR AMORIM RAMOS ",
     "Abertura da Asa": "52",
-    "Fazenda": "53201"
+    "Fazenda": "53201",
+    "Unnamed: 16": null
   },
   {
     "ID": "3574378",
@@ -6136,7 +6480,8 @@ const ABERTURA_ASA_DATA = [
     "Frente": "261 - FRENTE PRÓPRIA  (EDMILSON)",
     "Responsável": "VITOR AMORIM RAMOS ",
     "Abertura da Asa": "52",
-    "Fazenda": "53201"
+    "Fazenda": "53201",
+    "Unnamed: 16": null
   },
   {
     "ID": "3572427",
@@ -6154,7 +6499,8 @@ const ABERTURA_ASA_DATA = [
     "Frente": "105 - FRENTE CASSIO",
     "Responsável": "NILDA CLAUDINO [2510716]",
     "Abertura da Asa": "56",
-    "Fazenda": "43401"
+    "Fazenda": "43401",
+    "Unnamed: 16": null
   },
   {
     "ID": "3572426",
@@ -6172,7 +6518,8 @@ const ABERTURA_ASA_DATA = [
     "Frente": "105 - FRENTE CASSIO",
     "Responsável": "NILDA CLAUDINO [2510716]",
     "Abertura da Asa": "56",
-    "Fazenda": "43401"
+    "Fazenda": "43401",
+    "Unnamed: 16": null
   },
   {
     "ID": "3572420",
@@ -6190,7 +6537,8 @@ const ABERTURA_ASA_DATA = [
     "Frente": "105 - FRENTE CASSIO",
     "Responsável": "NILDA CLAUDINO [2510716]",
     "Abertura da Asa": "56",
-    "Fazenda": "32201"
+    "Fazenda": "32201",
+    "Unnamed: 16": null
   },
   {
     "ID": "3572419",
@@ -6208,7 +6556,8 @@ const ABERTURA_ASA_DATA = [
     "Frente": "105 - FRENTE CASSIO",
     "Responsável": "NILDA CLAUDINO [2510716]",
     "Abertura da Asa": "55",
-    "Fazenda": "32201"
+    "Fazenda": "32201",
+    "Unnamed: 16": null
   },
   {
     "ID": "3572418",
@@ -6226,7 +6575,8 @@ const ABERTURA_ASA_DATA = [
     "Frente": "105 - FRENTE CASSIO",
     "Responsável": "NILDA CLAUDINO [2510716]",
     "Abertura da Asa": "55",
-    "Fazenda": "32201"
+    "Fazenda": "32201",
+    "Unnamed: 16": null
   },
   {
     "ID": "3572417",
@@ -6244,7 +6594,8 @@ const ABERTURA_ASA_DATA = [
     "Frente": "105 - FRENTE CASSIO",
     "Responsável": "NILDA CLAUDINO [2510716]",
     "Abertura da Asa": "56",
-    "Fazenda": "32201"
+    "Fazenda": "32201",
+    "Unnamed: 16": null
   },
   {
     "ID": "3572202",
@@ -6262,7 +6613,8 @@ const ABERTURA_ASA_DATA = [
     "Frente": "261 - FRENTE PRÓPRIA  (EDMILSON)",
     "Responsável": "VITOR AMORIM RAMOS ",
     "Abertura da Asa": "52",
-    "Fazenda": "53201"
+    "Fazenda": "53201",
+    "Unnamed: 16": null
   },
   {
     "ID": "3572203",
@@ -6280,7 +6632,8 @@ const ABERTURA_ASA_DATA = [
     "Frente": "261 - FRENTE PRÓPRIA  (EDMILSON)",
     "Responsável": "VITOR AMORIM RAMOS ",
     "Abertura da Asa": "51",
-    "Fazenda": "53201"
+    "Fazenda": "53201",
+    "Unnamed: 16": null
   },
   {
     "ID": "3572204",
@@ -6298,7 +6651,8 @@ const ABERTURA_ASA_DATA = [
     "Frente": "261 - FRENTE PRÓPRIA  (EDMILSON)",
     "Responsável": "VITOR AMORIM RAMOS ",
     "Abertura da Asa": "52",
-    "Fazenda": "53201"
+    "Fazenda": "53201",
+    "Unnamed: 16": null
   },
   {
     "ID": "3572205",
@@ -6316,7 +6670,8 @@ const ABERTURA_ASA_DATA = [
     "Frente": "261 - FRENTE PRÓPRIA  (EDMILSON)",
     "Responsável": "VITOR AMORIM RAMOS ",
     "Abertura da Asa": "52",
-    "Fazenda": "53201"
+    "Fazenda": "53201",
+    "Unnamed: 16": null
   },
   {
     "ID": "3572388",
@@ -6334,7 +6689,8 @@ const ABERTURA_ASA_DATA = [
     "Frente": "139 - FRENTE MANEZÃO",
     "Responsável": "MABILA HELEN D FIGUEIREDO",
     "Abertura da Asa": "52",
-    "Fazenda": "151502"
+    "Fazenda": "151502",
+    "Unnamed: 16": null
   },
   {
     "ID": "3572387",
@@ -6352,7 +6708,8 @@ const ABERTURA_ASA_DATA = [
     "Frente": "139 - FRENTE MANEZÃO",
     "Responsável": "MABILA HELEN D FIGUEIREDO",
     "Abertura da Asa": "52",
-    "Fazenda": "151502"
+    "Fazenda": "151502",
+    "Unnamed: 16": null
   },
   {
     "ID": "3572382",
@@ -6370,7 +6727,8 @@ const ABERTURA_ASA_DATA = [
     "Frente": "139 - FRENTE MANEZÃO",
     "Responsável": "MABILA HELEN D FIGUEIREDO",
     "Abertura da Asa": "52",
-    "Fazenda": "151502"
+    "Fazenda": "151502",
+    "Unnamed: 16": null
   },
   {
     "ID": "3572381",
@@ -6388,7 +6746,8 @@ const ABERTURA_ASA_DATA = [
     "Frente": "139 - FRENTE MANEZÃO",
     "Responsável": "MABILA HELEN D FIGUEIREDO",
     "Abertura da Asa": "52",
-    "Fazenda": "151502"
+    "Fazenda": "151502",
+    "Unnamed: 16": null
   },
   {
     "ID": "3571001",
@@ -6406,7 +6765,8 @@ const ABERTURA_ASA_DATA = [
     "Frente": "143 - FRENTE CASSIO",
     "Responsável": "FERNANDA DE SOUZA ",
     "Abertura da Asa": "55",
-    "Fazenda": "254602"
+    "Fazenda": "254602",
+    "Unnamed: 16": null
   },
   {
     "ID": "3571000",
@@ -6424,7 +6784,8 @@ const ABERTURA_ASA_DATA = [
     "Frente": "143 - FRENTE CASSIO",
     "Responsável": "FERNANDA DE SOUZA ",
     "Abertura da Asa": "55",
-    "Fazenda": "254602"
+    "Fazenda": "254602",
+    "Unnamed: 16": null
   },
   {
     "ID": "3571055",
@@ -6442,7 +6803,8 @@ const ABERTURA_ASA_DATA = [
     "Frente": "291 - FRENTE PRÓPRIA ",
     "Responsável": "VITOR AMORIM RAMOS ",
     "Abertura da Asa": "51",
-    "Fazenda": "53201"
+    "Fazenda": "53201",
+    "Unnamed: 16": null
   },
   {
     "ID": "3571054",
@@ -6460,7 +6822,8 @@ const ABERTURA_ASA_DATA = [
     "Frente": "291 - FRENTE PRÓPRIA ",
     "Responsável": "VITOR AMORIM RAMOS ",
     "Abertura da Asa": "52",
-    "Fazenda": "53201"
+    "Fazenda": "53201",
+    "Unnamed: 16": null
   },
   {
     "ID": "3571053",
@@ -6478,7 +6841,8 @@ const ABERTURA_ASA_DATA = [
     "Frente": "261 - FRENTE PRÓPRIA  (EDMILSON)",
     "Responsável": "VITOR AMORIM RAMOS ",
     "Abertura da Asa": "51",
-    "Fazenda": "53201"
+    "Fazenda": "53201",
+    "Unnamed: 16": null
   },
   {
     "ID": "3571052",
@@ -6496,7 +6860,8 @@ const ABERTURA_ASA_DATA = [
     "Frente": "261 - FRENTE PRÓPRIA  (EDMILSON)",
     "Responsável": "VITOR AMORIM RAMOS ",
     "Abertura da Asa": "52",
-    "Fazenda": "53201"
+    "Fazenda": "53201",
+    "Unnamed: 16": null
   },
   {
     "ID": "3570148",
@@ -6514,7 +6879,8 @@ const ABERTURA_ASA_DATA = [
     "Frente": "135 - PEDRINHO ",
     "Responsável": "MARCELO DE OLIVEIRA JUNIOR",
     "Abertura da Asa": "51",
-    "Fazenda": "144501"
+    "Fazenda": "144501",
+    "Unnamed: 16": null
   },
   {
     "ID": "3570147",
@@ -6532,7 +6898,8 @@ const ABERTURA_ASA_DATA = [
     "Frente": "135 - PEDRINHO ",
     "Responsável": "MARCELO DE OLIVEIRA JUNIOR",
     "Abertura da Asa": "51",
-    "Fazenda": "144501"
+    "Fazenda": "144501",
+    "Unnamed: 16": null
   },
   {
     "ID": "3572416",
@@ -6550,7 +6917,8 @@ const ABERTURA_ASA_DATA = [
     "Frente": "105 - FRENTE CASSIO",
     "Responsável": "NILDA CLAUDINO [2510716]",
     "Abertura da Asa": "55",
-    "Fazenda": "32201"
+    "Fazenda": "32201",
+    "Unnamed: 16": null
   },
   {
     "ID": "3572415",
@@ -6568,7 +6936,8 @@ const ABERTURA_ASA_DATA = [
     "Frente": "105 - FRENTE CASSIO",
     "Responsável": "NILDA CLAUDINO [2510716]",
     "Abertura da Asa": "55",
-    "Fazenda": "32201"
+    "Fazenda": "32201",
+    "Unnamed: 16": null
   },
   {
     "ID": "3569969",
@@ -6586,7 +6955,8 @@ const ABERTURA_ASA_DATA = [
     "Frente": "142 - FRENTE BIDU",
     "Responsável": "Leonardo Ribeiro Teixeira da Silva",
     "Abertura da Asa": "53",
-    "Fazenda": "204608"
+    "Fazenda": "204608",
+    "Unnamed: 16": null
   },
   {
     "ID": "3569968",
@@ -6604,7 +6974,8 @@ const ABERTURA_ASA_DATA = [
     "Frente": "142 - FRENTE BIDU",
     "Responsável": "Leonardo Ribeiro Teixeira da Silva",
     "Abertura da Asa": "53",
-    "Fazenda": "204608"
+    "Fazenda": "204608",
+    "Unnamed: 16": null
   },
   {
     "ID": "3569963",
@@ -6622,7 +6993,8 @@ const ABERTURA_ASA_DATA = [
     "Frente": "142 - FRENTE BIDU",
     "Responsável": "Leonardo Ribeiro Teixeira da Silva",
     "Abertura da Asa": "53",
-    "Fazenda": "204608"
+    "Fazenda": "204608",
+    "Unnamed: 16": null
   },
   {
     "ID": "3569962",
@@ -6640,7 +7012,8 @@ const ABERTURA_ASA_DATA = [
     "Frente": "142 - FRENTE BIDU",
     "Responsável": "Leonardo Ribeiro Teixeira da Silva",
     "Abertura da Asa": "53",
-    "Fazenda": "204608"
+    "Fazenda": "204608",
+    "Unnamed: 16": null
   },
   {
     "ID": "3570139",
@@ -6658,7 +7031,8 @@ const ABERTURA_ASA_DATA = [
     "Frente": "135 - PEDRINHO ",
     "Responsável": "MARCELO DE OLIVEIRA JUNIOR",
     "Abertura da Asa": "52",
-    "Fazenda": "144501"
+    "Fazenda": "144501",
+    "Unnamed: 16": null
   },
   {
     "ID": "3570138",
@@ -6676,7 +7050,8 @@ const ABERTURA_ASA_DATA = [
     "Frente": "135 - PEDRINHO ",
     "Responsável": "MARCELO DE OLIVEIRA JUNIOR",
     "Abertura da Asa": "52",
-    "Fazenda": "144501"
+    "Fazenda": "144501",
+    "Unnamed: 16": null
   },
   {
     "ID": "3569904",
@@ -6694,7 +7069,8 @@ const ABERTURA_ASA_DATA = [
     "Frente": "143 - FRENTE CASSIO",
     "Responsável": " Antonio ",
     "Abertura da Asa": "61",
-    "Fazenda": "285701"
+    "Fazenda": "285701",
+    "Unnamed: 16": null
   },
   {
     "ID": "3569902",
@@ -6712,7 +7088,8 @@ const ABERTURA_ASA_DATA = [
     "Frente": "143 - FRENTE CASSIO",
     "Responsável": " Antonio ",
     "Abertura da Asa": "60",
-    "Fazenda": "285701"
+    "Fazenda": "285701",
+    "Unnamed: 16": null
   },
   {
     "ID": "3569901",
@@ -6730,7 +7107,8 @@ const ABERTURA_ASA_DATA = [
     "Frente": "143 - FRENTE CASSIO",
     "Responsável": " Antonio ",
     "Abertura da Asa": "60",
-    "Fazenda": "285701"
+    "Fazenda": "285701",
+    "Unnamed: 16": null
   },
   {
     "ID": "3567572",
@@ -6748,7 +7126,8 @@ const ABERTURA_ASA_DATA = [
     "Frente": "142 - FRENTE BIDU",
     "Responsável": "Leonardo Ribeiro Teixeira da Silva",
     "Abertura da Asa": "53",
-    "Fazenda": "204608"
+    "Fazenda": "204608",
+    "Unnamed: 16": null
   },
   {
     "ID": "3567571",
@@ -6766,7 +7145,8 @@ const ABERTURA_ASA_DATA = [
     "Frente": "142 - FRENTE BIDU",
     "Responsável": "Leonardo Ribeiro Teixeira da Silva",
     "Abertura da Asa": "53",
-    "Fazenda": "204608"
+    "Fazenda": "204608",
+    "Unnamed: 16": null
   },
   {
     "ID": "3567570",
@@ -6784,7 +7164,8 @@ const ABERTURA_ASA_DATA = [
     "Frente": "142 - FRENTE BIDU",
     "Responsável": "Leonardo Ribeiro Teixeira da Silva",
     "Abertura da Asa": "53",
-    "Fazenda": "204608"
+    "Fazenda": "204608",
+    "Unnamed: 16": null
   },
   {
     "ID": "3567569",
@@ -6802,7 +7183,8 @@ const ABERTURA_ASA_DATA = [
     "Frente": "142 - FRENTE BIDU",
     "Responsável": "Leonardo Ribeiro Teixeira da Silva",
     "Abertura da Asa": "53",
-    "Fazenda": "204608"
+    "Fazenda": "204608",
+    "Unnamed: 16": null
   },
   {
     "ID": "3567147",
@@ -6820,7 +7202,8 @@ const ABERTURA_ASA_DATA = [
     "Frente": "261 - FRENTE PRÓPRIA  (EDMILSON)",
     "Responsável": "VITOR AMORIM RAMOS ",
     "Abertura da Asa": "51",
-    "Fazenda": "53201"
+    "Fazenda": "53201",
+    "Unnamed: 16": null
   },
   {
     "ID": "3567146",
@@ -6838,7 +7221,8 @@ const ABERTURA_ASA_DATA = [
     "Frente": "261 - FRENTE PRÓPRIA  (EDMILSON)",
     "Responsável": "VITOR AMORIM RAMOS ",
     "Abertura da Asa": "51",
-    "Fazenda": "53201"
+    "Fazenda": "53201",
+    "Unnamed: 16": null
   },
   {
     "ID": "3567145",
@@ -6856,7 +7240,8 @@ const ABERTURA_ASA_DATA = [
     "Frente": "261 - FRENTE PRÓPRIA  (EDMILSON)",
     "Responsável": "VITOR AMORIM RAMOS ",
     "Abertura da Asa": "52",
-    "Fazenda": "53201"
+    "Fazenda": "53201",
+    "Unnamed: 16": null
   },
   {
     "ID": "3567144",
@@ -6874,7 +7259,8 @@ const ABERTURA_ASA_DATA = [
     "Frente": "261 - FRENTE PRÓPRIA  (EDMILSON)",
     "Responsável": "VITOR AMORIM RAMOS ",
     "Abertura da Asa": "51",
-    "Fazenda": "53201"
+    "Fazenda": "53201",
+    "Unnamed: 16": null
   },
   {
     "ID": "3567542",
@@ -6892,7 +7278,8 @@ const ABERTURA_ASA_DATA = [
     "Frente": "143 - FRENTE CASSIO",
     "Responsável": "MICHELI DE SOUZA SANTOS  ",
     "Abertura da Asa": "61",
-    "Fazenda": "285701"
+    "Fazenda": "285701",
+    "Unnamed: 16": null
   },
   {
     "ID": "3567541",
@@ -6910,7 +7297,8 @@ const ABERTURA_ASA_DATA = [
     "Frente": "143 - FRENTE CASSIO",
     "Responsável": "MICHELI DE SOUZA SANTOS  ",
     "Abertura da Asa": "60",
-    "Fazenda": "285701"
+    "Fazenda": "285701",
+    "Unnamed: 16": null
   },
   {
     "ID": "3567540",
@@ -6928,7 +7316,8 @@ const ABERTURA_ASA_DATA = [
     "Frente": "143 - FRENTE CASSIO",
     "Responsável": "MICHELI DE SOUZA SANTOS  ",
     "Abertura da Asa": "59",
-    "Fazenda": "285701"
+    "Fazenda": "285701",
+    "Unnamed: 16": null
   },
   {
     "ID": "3567539",
@@ -6946,7 +7335,8 @@ const ABERTURA_ASA_DATA = [
     "Frente": "143 - FRENTE CASSIO",
     "Responsável": "MICHELI DE SOUZA SANTOS  ",
     "Abertura da Asa": "62",
-    "Fazenda": "285701"
+    "Fazenda": "285701",
+    "Unnamed: 16": null
   },
   {
     "ID": "3565641",
@@ -6964,7 +7354,8 @@ const ABERTURA_ASA_DATA = [
     "Frente": "105 - FRENTE CASSIO",
     "Responsável": "NILDA CLAUDINO [2510716]",
     "Abertura da Asa": "61",
-    "Fazenda": "177012"
+    "Fazenda": "177012",
+    "Unnamed: 16": null
   },
   {
     "ID": "3565619",
@@ -6982,7 +7373,8 @@ const ABERTURA_ASA_DATA = [
     "Frente": "105 - FRENTE CASSIO",
     "Responsável": "NILDA CLAUDINO [2510716]",
     "Abertura da Asa": "61",
-    "Fazenda": "177012"
+    "Fazenda": "177012",
+    "Unnamed: 16": null
   },
   {
     "ID": "3567028",
@@ -7000,7 +7392,8 @@ const ABERTURA_ASA_DATA = [
     "Frente": "143 - FRENTE CASSIO",
     "Responsável": "EDILIANA CARDOSO DA COSTA",
     "Abertura da Asa": "60",
-    "Fazenda": "285701"
+    "Fazenda": "285701",
+    "Unnamed: 16": null
   },
   {
     "ID": "3567029",
@@ -7018,7 +7411,8 @@ const ABERTURA_ASA_DATA = [
     "Frente": "143 - FRENTE CASSIO",
     "Responsável": "EDILIANA CARDOSO DA COSTA",
     "Abertura da Asa": "63",
-    "Fazenda": "285701"
+    "Fazenda": "285701",
+    "Unnamed: 16": null
   },
   {
     "ID": "3567027",
@@ -7036,7 +7430,8 @@ const ABERTURA_ASA_DATA = [
     "Frente": "143 - FRENTE CASSIO",
     "Responsável": "EDILIANA CARDOSO DA COSTA",
     "Abertura da Asa": "62",
-    "Fazenda": "285701"
+    "Fazenda": "285701",
+    "Unnamed: 16": null
   },
   {
     "ID": "3567026",
@@ -7054,7 +7449,8 @@ const ABERTURA_ASA_DATA = [
     "Frente": "143 - FRENTE CASSIO",
     "Responsável": "EDILIANA CARDOSO DA COSTA",
     "Abertura da Asa": "61",
-    "Fazenda": "285701"
+    "Fazenda": "285701",
+    "Unnamed: 16": null
   },
   {
     "ID": "3565540",
@@ -7072,7 +7468,8 @@ const ABERTURA_ASA_DATA = [
     "Frente": "135 - PEDRINHO ",
     "Responsável": "MARCELO DE OLIVEIRA JUNIOR",
     "Abertura da Asa": "50",
-    "Fazenda": "53201"
+    "Fazenda": "53201",
+    "Unnamed: 16": null
   },
   {
     "ID": "3565539",
@@ -7090,7 +7487,8 @@ const ABERTURA_ASA_DATA = [
     "Frente": "135 - PEDRINHO ",
     "Responsável": "MARCELO DE OLIVEIRA JUNIOR",
     "Abertura da Asa": "51",
-    "Fazenda": "53201"
+    "Fazenda": "53201",
+    "Unnamed: 16": null
   },
   {
     "ID": "3567038",
@@ -7108,7 +7506,8 @@ const ABERTURA_ASA_DATA = [
     "Frente": "142 - FRENTE BIDU",
     "Responsável": "MABILA HELEN D FIGUEIREDO",
     "Abertura da Asa": "50",
-    "Fazenda": "38302"
+    "Fazenda": "38302",
+    "Unnamed: 16": null
   },
   {
     "ID": "3567037",
@@ -7126,7 +7525,8 @@ const ABERTURA_ASA_DATA = [
     "Frente": "142 - FRENTE BIDU",
     "Responsável": "MABILA HELEN D FIGUEIREDO",
     "Abertura da Asa": "52",
-    "Fazenda": "38302"
+    "Fazenda": "38302",
+    "Unnamed: 16": null
   },
   {
     "ID": "3567032",
@@ -7144,7 +7544,8 @@ const ABERTURA_ASA_DATA = [
     "Frente": "142 - FRENTE BIDU",
     "Responsável": "MABILA HELEN D FIGUEIREDO",
     "Abertura da Asa": "52",
-    "Fazenda": "38302"
+    "Fazenda": "38302",
+    "Unnamed: 16": null
   },
   {
     "ID": "3567031",
@@ -7162,7 +7563,8 @@ const ABERTURA_ASA_DATA = [
     "Frente": "142 - FRENTE BIDU",
     "Responsável": "MABILA HELEN D FIGUEIREDO",
     "Abertura da Asa": "51",
-    "Fazenda": "38302"
+    "Fazenda": "38302",
+    "Unnamed: 16": null
   },
   {
     "ID": "3565570",
@@ -7180,7 +7582,8 @@ const ABERTURA_ASA_DATA = [
     "Frente": "143 - FRENTE CASSIO",
     "Responsável": "GABRIEL HENRIQUE MARTINS PEREIRA",
     "Abertura da Asa": "61",
-    "Fazenda": "53201"
+    "Fazenda": "53201",
+    "Unnamed: 16": null
   },
   {
     "ID": "3565569",
@@ -7198,7 +7601,8 @@ const ABERTURA_ASA_DATA = [
     "Frente": "143 - FRENTE CASSIO",
     "Responsável": "GABRIEL HENRIQUE MARTINS PEREIRA",
     "Abertura da Asa": "60",
-    "Fazenda": "53201"
+    "Fazenda": "53201",
+    "Unnamed: 16": null
   },
   {
     "ID": "3562930",
@@ -7216,7 +7620,8 @@ const ABERTURA_ASA_DATA = [
     "Frente": "143 - FRENTE CASSIO",
     "Responsável": "GABRIEL HENRIQUE MARTINS PEREIRA",
     "Abertura da Asa": "61",
-    "Fazenda": "53201"
+    "Fazenda": "53201",
+    "Unnamed: 16": null
   },
   {
     "ID": "3562929",
@@ -7234,7 +7639,8 @@ const ABERTURA_ASA_DATA = [
     "Frente": "143 - FRENTE CASSIO",
     "Responsável": "GABRIEL HENRIQUE MARTINS PEREIRA",
     "Abertura da Asa": "62",
-    "Fazenda": "53201"
+    "Fazenda": "53201",
+    "Unnamed: 16": null
   },
   {
     "ID": "3562928",
@@ -7252,7 +7658,8 @@ const ABERTURA_ASA_DATA = [
     "Frente": "143 - FRENTE CASSIO",
     "Responsável": "GABRIEL HENRIQUE MARTINS PEREIRA",
     "Abertura da Asa": "60",
-    "Fazenda": "53201"
+    "Fazenda": "53201",
+    "Unnamed: 16": null
   },
   {
     "ID": "3562927",
@@ -7270,7 +7677,8 @@ const ABERTURA_ASA_DATA = [
     "Frente": "143 - FRENTE CASSIO",
     "Responsável": "GABRIEL HENRIQUE MARTINS PEREIRA",
     "Abertura da Asa": "61",
-    "Fazenda": "53201"
+    "Fazenda": "53201",
+    "Unnamed: 16": null
   },
   {
     "ID": "3560844",
@@ -7288,7 +7696,8 @@ const ABERTURA_ASA_DATA = [
     "Frente": "139 - FRENTE MANEZÃO",
     "Responsável": "MABILA HELEN D FIGUEIREDO",
     "Abertura da Asa": "52",
-    "Fazenda": "53201"
+    "Fazenda": "53201",
+    "Unnamed: 16": null
   },
   {
     "ID": "3560842",
@@ -7306,7 +7715,8 @@ const ABERTURA_ASA_DATA = [
     "Frente": "139 - FRENTE MANEZÃO",
     "Responsável": "MABILA HELEN D FIGUEIREDO",
     "Abertura da Asa": "52",
-    "Fazenda": "53201"
+    "Fazenda": "53201",
+    "Unnamed: 16": null
   },
   {
     "ID": "3558622",
@@ -7324,7 +7734,8 @@ const ABERTURA_ASA_DATA = [
     "Frente": "261 - FRENTE PRÓPRIA  (EDMILSON)",
     "Responsável": "VITOR AMORIM RAMOS ",
     "Abertura da Asa": "52",
-    "Fazenda": "53201"
+    "Fazenda": "53201",
+    "Unnamed: 16": null
   },
   {
     "ID": "3558621",
@@ -7342,7 +7753,8 @@ const ABERTURA_ASA_DATA = [
     "Frente": "261 - FRENTE PRÓPRIA  (EDMILSON)",
     "Responsável": "VITOR AMORIM RAMOS ",
     "Abertura da Asa": "52",
-    "Fazenda": "53201"
+    "Fazenda": "53201",
+    "Unnamed: 16": null
   },
   {
     "ID": "3558620",
@@ -7360,7 +7772,8 @@ const ABERTURA_ASA_DATA = [
     "Frente": "261 - FRENTE PRÓPRIA  (EDMILSON)",
     "Responsável": "VITOR AMORIM RAMOS ",
     "Abertura da Asa": "52",
-    "Fazenda": "53201"
+    "Fazenda": "53201",
+    "Unnamed: 16": null
   },
   {
     "ID": "3558619",
@@ -7378,7 +7791,8 @@ const ABERTURA_ASA_DATA = [
     "Frente": "261 - FRENTE PRÓPRIA  (EDMILSON)",
     "Responsável": "VITOR AMORIM RAMOS ",
     "Abertura da Asa": "51",
-    "Fazenda": "53201"
+    "Fazenda": "53201",
+    "Unnamed: 16": null
   },
   {
     "ID": "3558498",
@@ -7396,7 +7810,8 @@ const ABERTURA_ASA_DATA = [
     "Frente": "142 - FRENTE BIDU",
     "Responsável": "Leonardo Ribeiro Teixeira da Silva",
     "Abertura da Asa": "52",
-    "Fazenda": "204610"
+    "Fazenda": "204610",
+    "Unnamed: 16": null
   },
   {
     "ID": "3558497",
@@ -7414,7 +7829,8 @@ const ABERTURA_ASA_DATA = [
     "Frente": "142 - FRENTE BIDU",
     "Responsável": "Leonardo Ribeiro Teixeira da Silva",
     "Abertura da Asa": "52",
-    "Fazenda": "204610"
+    "Fazenda": "204610",
+    "Unnamed: 16": null
   },
   {
     "ID": "3558496",
@@ -7432,7 +7848,8 @@ const ABERTURA_ASA_DATA = [
     "Frente": "142 - FRENTE BIDU",
     "Responsável": "Leonardo Ribeiro Teixeira da Silva",
     "Abertura da Asa": "52",
-    "Fazenda": "204610"
+    "Fazenda": "204610",
+    "Unnamed: 16": null
   },
   {
     "ID": "3558495",
@@ -7450,7 +7867,8 @@ const ABERTURA_ASA_DATA = [
     "Frente": "142 - FRENTE BIDU",
     "Responsável": "Leonardo Ribeiro Teixeira da Silva",
     "Abertura da Asa": "52",
-    "Fazenda": "204610"
+    "Fazenda": "204610",
+    "Unnamed: 16": null
   },
   {
     "ID": "3558574",
@@ -7468,7 +7886,8 @@ const ABERTURA_ASA_DATA = [
     "Frente": "135 - PEDRINHO ",
     "Responsável": "MARCELO DE OLIVEIRA JUNIOR",
     "Abertura da Asa": "51",
-    "Fazenda": "132901"
+    "Fazenda": "132901",
+    "Unnamed: 16": null
   },
   {
     "ID": "3558573",
@@ -7486,7 +7905,8 @@ const ABERTURA_ASA_DATA = [
     "Frente": "135 - PEDRINHO ",
     "Responsável": "MARCELO DE OLIVEIRA JUNIOR",
     "Abertura da Asa": "50",
-    "Fazenda": "132901"
+    "Fazenda": "132901",
+    "Unnamed: 16": null
   },
   {
     "ID": "3558181",
@@ -7504,7 +7924,8 @@ const ABERTURA_ASA_DATA = [
     "Frente": "142 - FRENTE BIDU",
     "Responsável": "Leonardo Ribeiro Teixeira da Silva",
     "Abertura da Asa": "53",
-    "Fazenda": "190104"
+    "Fazenda": "190104",
+    "Unnamed: 16": null
   },
   {
     "ID": "3558180",
@@ -7522,7 +7943,8 @@ const ABERTURA_ASA_DATA = [
     "Frente": "142 - FRENTE BIDU",
     "Responsável": "Leonardo Ribeiro Teixeira da Silva",
     "Abertura da Asa": "53",
-    "Fazenda": "190104"
+    "Fazenda": "190104",
+    "Unnamed: 16": null
   },
   {
     "ID": "3558568",
@@ -7540,7 +7962,8 @@ const ABERTURA_ASA_DATA = [
     "Frente": "135 - PEDRINHO ",
     "Responsável": "MARCELO DE OLIVEIRA JUNIOR",
     "Abertura da Asa": "51",
-    "Fazenda": "132901"
+    "Fazenda": "132901",
+    "Unnamed: 16": null
   },
   {
     "ID": "3558567",
@@ -7558,7 +7981,8 @@ const ABERTURA_ASA_DATA = [
     "Frente": "135 - PEDRINHO ",
     "Responsável": "MARCELO DE OLIVEIRA JUNIOR",
     "Abertura da Asa": "51",
-    "Fazenda": "132901"
+    "Fazenda": "132901",
+    "Unnamed: 16": null
   },
   {
     "ID": "3558183",
@@ -7576,7 +8000,8 @@ const ABERTURA_ASA_DATA = [
     "Frente": "139 - FRENTE MANEZÃO",
     "Responsável": " Antonio ",
     "Abertura da Asa": "52",
-    "Fazenda": "53201"
+    "Fazenda": "53201",
+    "Unnamed: 16": null
   },
   {
     "ID": "3558182",
@@ -7594,7 +8019,8 @@ const ABERTURA_ASA_DATA = [
     "Frente": "139 - FRENTE MANEZÃO",
     "Responsável": " Antonio ",
     "Abertura da Asa": "52",
-    "Fazenda": "53201"
+    "Fazenda": "53201",
+    "Unnamed: 16": null
   },
   {
     "ID": "3556276",
@@ -7612,7 +8038,8 @@ const ABERTURA_ASA_DATA = [
     "Frente": "135 - PEDRINHO ",
     "Responsável": "MARCELO DE OLIVEIRA JUNIOR",
     "Abertura da Asa": "51",
-    "Fazenda": "213403"
+    "Fazenda": "213403",
+    "Unnamed: 16": null
   },
   {
     "ID": "3556275",
@@ -7630,7 +8057,8 @@ const ABERTURA_ASA_DATA = [
     "Frente": "135 - PEDRINHO ",
     "Responsável": "MARCELO DE OLIVEIRA JUNIOR",
     "Abertura da Asa": "51",
-    "Fazenda": "213403"
+    "Fazenda": "213403",
+    "Unnamed: 16": null
   },
   {
     "ID": "3555657",
@@ -7648,7 +8076,8 @@ const ABERTURA_ASA_DATA = [
     "Frente": "261 - FRENTE PRÓPRIA  (EDMILSON)",
     "Responsável": "VITOR AMORIM RAMOS ",
     "Abertura da Asa": "51",
-    "Fazenda": "220408"
+    "Fazenda": "220408",
+    "Unnamed: 16": null
   },
   {
     "ID": "3555654",
@@ -7666,7 +8095,8 @@ const ABERTURA_ASA_DATA = [
     "Frente": "261 - FRENTE PRÓPRIA  (EDMILSON)",
     "Responsável": "VITOR AMORIM RAMOS ",
     "Abertura da Asa": "51",
-    "Fazenda": "220408"
+    "Fazenda": "220408",
+    "Unnamed: 16": null
   },
   {
     "ID": "3555653",
@@ -7684,7 +8114,8 @@ const ABERTURA_ASA_DATA = [
     "Frente": "261 - FRENTE PRÓPRIA  (EDMILSON)",
     "Responsável": "VITOR AMORIM RAMOS ",
     "Abertura da Asa": "52",
-    "Fazenda": "220408"
+    "Fazenda": "220408",
+    "Unnamed: 16": null
   },
   {
     "ID": "3555652",
@@ -7702,7 +8133,8 @@ const ABERTURA_ASA_DATA = [
     "Frente": "261 - FRENTE PRÓPRIA  (EDMILSON)",
     "Responsável": "VITOR AMORIM RAMOS ",
     "Abertura da Asa": "51",
-    "Fazenda": "220408"
+    "Fazenda": "220408",
+    "Unnamed: 16": null
   },
   {
     "ID": "3556370",
@@ -7720,7 +8152,8 @@ const ABERTURA_ASA_DATA = [
     "Frente": "135 - PEDRINHO ",
     "Responsável": "REGINALDO DA SILVA GOMES ",
     "Abertura da Asa": "51",
-    "Fazenda": "132901"
+    "Fazenda": "132901",
+    "Unnamed: 16": null
   },
   {
     "ID": "3556368",
@@ -7738,7 +8171,8 @@ const ABERTURA_ASA_DATA = [
     "Frente": "135 - PEDRINHO ",
     "Responsável": "REGINALDO DA SILVA GOMES ",
     "Abertura da Asa": "51",
-    "Fazenda": "132901"
+    "Fazenda": "132901",
+    "Unnamed: 16": null
   },
   {
     "ID": "3556367",
@@ -7756,7 +8190,8 @@ const ABERTURA_ASA_DATA = [
     "Frente": "135 - PEDRINHO ",
     "Responsável": "REGINALDO DA SILVA GOMES ",
     "Abertura da Asa": "52",
-    "Fazenda": "132901"
+    "Fazenda": "132901",
+    "Unnamed: 16": null
   },
   {
     "ID": "3556366",
@@ -7774,7 +8209,8 @@ const ABERTURA_ASA_DATA = [
     "Frente": "135 - PEDRINHO ",
     "Responsável": "REGINALDO DA SILVA GOMES ",
     "Abertura da Asa": "51",
-    "Fazenda": "132901"
+    "Fazenda": "132901",
+    "Unnamed: 16": null
   },
   {
     "ID": "3556272",
@@ -7792,7 +8228,8 @@ const ABERTURA_ASA_DATA = [
     "Frente": "135 - PEDRINHO ",
     "Responsável": "MARCELO DE OLIVEIRA JUNIOR",
     "Abertura da Asa": "51",
-    "Fazenda": "132901"
+    "Fazenda": "132901",
+    "Unnamed: 16": null
   },
   {
     "ID": "3556271",
@@ -7810,7 +8247,8 @@ const ABERTURA_ASA_DATA = [
     "Frente": "135 - PEDRINHO ",
     "Responsável": "MARCELO DE OLIVEIRA JUNIOR",
     "Abertura da Asa": "51",
-    "Fazenda": "132901"
+    "Fazenda": "132901",
+    "Unnamed: 16": null
   },
   {
     "ID": "3556270",
@@ -7828,7 +8266,8 @@ const ABERTURA_ASA_DATA = [
     "Frente": "135 - PEDRINHO ",
     "Responsável": "MARCELO DE OLIVEIRA JUNIOR",
     "Abertura da Asa": "52",
-    "Fazenda": "132901"
+    "Fazenda": "132901",
+    "Unnamed: 16": null
   },
   {
     "ID": "3556269",
@@ -7846,7 +8285,8 @@ const ABERTURA_ASA_DATA = [
     "Frente": "135 - PEDRINHO ",
     "Responsável": "MARCELO DE OLIVEIRA JUNIOR",
     "Abertura da Asa": "51",
-    "Fazenda": "132901"
+    "Fazenda": "132901",
+    "Unnamed: 16": null
   },
   {
     "ID": "3556072",
@@ -7864,7 +8304,8 @@ const ABERTURA_ASA_DATA = [
     "Frente": "139 - FRENTE MANEZÃO",
     "Responsável": "MABILA HELEN D FIGUEIREDO",
     "Abertura da Asa": "51",
-    "Fazenda": "53201"
+    "Fazenda": "53201",
+    "Unnamed: 16": null
   },
   {
     "ID": "3556071",
@@ -7882,7 +8323,8 @@ const ABERTURA_ASA_DATA = [
     "Frente": "139 - FRENTE MANEZÃO",
     "Responsável": "MABILA HELEN D FIGUEIREDO",
     "Abertura da Asa": "54",
-    "Fazenda": "53201"
+    "Fazenda": "53201",
+    "Unnamed: 16": null
   },
   {
     "ID": "3556070",
@@ -7900,7 +8342,8 @@ const ABERTURA_ASA_DATA = [
     "Frente": "139 - FRENTE MANEZÃO",
     "Responsável": "MABILA HELEN D FIGUEIREDO",
     "Abertura da Asa": "50",
-    "Fazenda": "53201"
+    "Fazenda": "53201",
+    "Unnamed: 16": null
   },
   {
     "ID": "3556069",
@@ -7918,7 +8361,8 @@ const ABERTURA_ASA_DATA = [
     "Frente": "139 - FRENTE MANEZÃO",
     "Responsável": "MABILA HELEN D FIGUEIREDO",
     "Abertura da Asa": "51",
-    "Fazenda": "53201"
+    "Fazenda": "53201",
+    "Unnamed: 16": null
   },
   {
     "ID": "3555921",
@@ -7936,7 +8380,8 @@ const ABERTURA_ASA_DATA = [
     "Frente": "143 - FRENTE CASSIO",
     "Responsável": "GABRIEL HENRIQUE MARTINS PEREIRA",
     "Abertura da Asa": "60",
-    "Fazenda": "64201"
+    "Fazenda": "64201",
+    "Unnamed: 16": null
   },
   {
     "ID": "3555920",
@@ -7954,7 +8399,8 @@ const ABERTURA_ASA_DATA = [
     "Frente": "143 - FRENTE CASSIO",
     "Responsável": "GABRIEL HENRIQUE MARTINS PEREIRA",
     "Abertura da Asa": "62",
-    "Fazenda": "64201"
+    "Fazenda": "64201",
+    "Unnamed: 16": null
   },
   {
     "ID": "3553701",
@@ -7972,7 +8418,8 @@ const ABERTURA_ASA_DATA = [
     "Frente": "135 - PEDRINHO ",
     "Responsável": "MARCELO DE OLIVEIRA JUNIOR",
     "Abertura da Asa": "51",
-    "Fazenda": "213402"
+    "Fazenda": "213402",
+    "Unnamed: 16": null
   },
   {
     "ID": "3553700",
@@ -7990,7 +8437,8 @@ const ABERTURA_ASA_DATA = [
     "Frente": "135 - PEDRINHO ",
     "Responsável": "MARCELO DE OLIVEIRA JUNIOR",
     "Abertura da Asa": "50",
-    "Fazenda": "213402"
+    "Fazenda": "213402",
+    "Unnamed: 16": null
   },
   {
     "ID": "3553269",
@@ -8008,7 +8456,8 @@ const ABERTURA_ASA_DATA = [
     "Frente": "261 - FRENTE PRÓPRIA  (EDMILSON)",
     "Responsável": "VITOR AMORIM RAMOS ",
     "Abertura da Asa": "52",
-    "Fazenda": "125001"
+    "Fazenda": "125001",
+    "Unnamed: 16": null
   },
   {
     "ID": "3553268",
@@ -8026,7 +8475,8 @@ const ABERTURA_ASA_DATA = [
     "Frente": "261 - FRENTE PRÓPRIA  (EDMILSON)",
     "Responsável": "VITOR AMORIM RAMOS ",
     "Abertura da Asa": "51",
-    "Fazenda": "125001"
+    "Fazenda": "125001",
+    "Unnamed: 16": null
   },
   {
     "ID": "3553267",
@@ -8044,7 +8494,8 @@ const ABERTURA_ASA_DATA = [
     "Frente": "261 - FRENTE PRÓPRIA  (EDMILSON)",
     "Responsável": "VITOR AMORIM RAMOS ",
     "Abertura da Asa": "52",
-    "Fazenda": "125001"
+    "Fazenda": "125001",
+    "Unnamed: 16": null
   },
   {
     "ID": "3553266",
@@ -8062,7 +8513,8 @@ const ABERTURA_ASA_DATA = [
     "Frente": "261 - FRENTE PRÓPRIA  (EDMILSON)",
     "Responsável": "VITOR AMORIM RAMOS ",
     "Abertura da Asa": "51",
-    "Fazenda": "125001"
+    "Fazenda": "125001",
+    "Unnamed: 16": null
   },
   {
     "ID": "3553679",
@@ -8080,7 +8532,8 @@ const ABERTURA_ASA_DATA = [
     "Frente": "135 - PEDRINHO ",
     "Responsável": "MARCELO DE OLIVEIRA JUNIOR",
     "Abertura da Asa": "51",
-    "Fazenda": "213402"
+    "Fazenda": "213402",
+    "Unnamed: 16": null
   },
   {
     "ID": "3553678",
@@ -8098,7 +8551,8 @@ const ABERTURA_ASA_DATA = [
     "Frente": "135 - PEDRINHO ",
     "Responsável": "MARCELO DE OLIVEIRA JUNIOR",
     "Abertura da Asa": "51",
-    "Fazenda": "213402"
+    "Fazenda": "213402",
+    "Unnamed: 16": null
   },
   {
     "ID": "3553051",
@@ -8116,7 +8570,8 @@ const ABERTURA_ASA_DATA = [
     "Frente": "143 - FRENTE CASSIO",
     "Responsável": "GABRIEL HENRIQUE MARTINS PEREIRA",
     "Abertura da Asa": "60",
-    "Fazenda": "64201"
+    "Fazenda": "64201",
+    "Unnamed: 16": null
   },
   {
     "ID": "3553050",
@@ -8134,7 +8589,8 @@ const ABERTURA_ASA_DATA = [
     "Frente": "143 - FRENTE CASSIO",
     "Responsável": "GABRIEL HENRIQUE MARTINS PEREIRA",
     "Abertura da Asa": "62",
-    "Fazenda": "64201"
+    "Fazenda": "64201",
+    "Unnamed: 16": null
   },
   {
     "ID": "3553546",
@@ -8152,7 +8608,8 @@ const ABERTURA_ASA_DATA = [
     "Frente": "139 - FRENTE MANEZÃO",
     "Responsável": "MABILA HELEN D FIGUEIREDO",
     "Abertura da Asa": "51",
-    "Fazenda": "53201"
+    "Fazenda": "53201",
+    "Unnamed: 16": null
   },
   {
     "ID": "3553545",
@@ -8170,7 +8627,8 @@ const ABERTURA_ASA_DATA = [
     "Frente": "139 - FRENTE MANEZÃO",
     "Responsável": "MABILA HELEN D FIGUEIREDO",
     "Abertura da Asa": "50",
-    "Fazenda": "53201"
+    "Fazenda": "53201",
+    "Unnamed: 16": null
   },
   {
     "ID": "3553045",
@@ -8188,7 +8646,8 @@ const ABERTURA_ASA_DATA = [
     "Frente": "143 - FRENTE CASSIO",
     "Responsável": "GABRIEL HENRIQUE MARTINS PEREIRA",
     "Abertura da Asa": "61",
-    "Fazenda": "64301"
+    "Fazenda": "64301",
+    "Unnamed: 16": null
   },
   {
     "ID": "3553044",
@@ -8206,7 +8665,8 @@ const ABERTURA_ASA_DATA = [
     "Frente": "143 - FRENTE CASSIO",
     "Responsável": "GABRIEL HENRIQUE MARTINS PEREIRA",
     "Abertura da Asa": "62",
-    "Fazenda": "64301"
+    "Fazenda": "64301",
+    "Unnamed: 16": null
   },
   {
     "ID": "3553540",
@@ -8224,7 +8684,8 @@ const ABERTURA_ASA_DATA = [
     "Frente": "139 - FRENTE MANEZÃO",
     "Responsável": "MABILA HELEN D FIGUEIREDO",
     "Abertura da Asa": "53",
-    "Fazenda": "53201"
+    "Fazenda": "53201",
+    "Unnamed: 16": null
   },
   {
     "ID": "3553539",
@@ -8242,7 +8703,8 @@ const ABERTURA_ASA_DATA = [
     "Frente": "139 - FRENTE MANEZÃO",
     "Responsável": "MABILA HELEN D FIGUEIREDO",
     "Abertura da Asa": "53",
-    "Fazenda": "53201"
+    "Fazenda": "53201",
+    "Unnamed: 16": null
   },
   {
     "ID": "3551346",
@@ -8260,7 +8722,8 @@ const ABERTURA_ASA_DATA = [
     "Frente": "135 - PEDRINHO ",
     "Responsável": "MARCELO DE OLIVEIRA JUNIOR",
     "Abertura da Asa": "59",
-    "Fazenda": "280901"
+    "Fazenda": "280901",
+    "Unnamed: 16": null
   },
   {
     "ID": "3551345",
@@ -8278,7 +8741,8 @@ const ABERTURA_ASA_DATA = [
     "Frente": "135 - PEDRINHO ",
     "Responsável": "MARCELO DE OLIVEIRA JUNIOR",
     "Abertura da Asa": "59",
-    "Fazenda": "280901"
+    "Fazenda": "280901",
+    "Unnamed: 16": null
   },
   {
     "ID": "3550940",
@@ -8296,7 +8760,8 @@ const ABERTURA_ASA_DATA = [
     "Frente": "143 - FRENTE CASSIO",
     "Responsável": "GABRIEL HENRIQUE MARTINS PEREIRA",
     "Abertura da Asa": "61",
-    "Fazenda": "216303"
+    "Fazenda": "216303",
+    "Unnamed: 16": null
   },
   {
     "ID": "3550939",
@@ -8314,7 +8779,8 @@ const ABERTURA_ASA_DATA = [
     "Frente": "143 - FRENTE CASSIO",
     "Responsável": "GABRIEL HENRIQUE MARTINS PEREIRA",
     "Abertura da Asa": "62",
-    "Fazenda": "216303"
+    "Fazenda": "216303",
+    "Unnamed: 16": null
   },
   {
     "ID": "3551156",
@@ -8332,7 +8798,8 @@ const ABERTURA_ASA_DATA = [
     "Frente": "139 - FRENTE MANEZÃO",
     "Responsável": "MABILA HELEN D FIGUEIREDO",
     "Abertura da Asa": "54",
-    "Fazenda": "53201"
+    "Fazenda": "53201",
+    "Unnamed: 16": null
   },
   {
     "ID": "3551155",
@@ -8350,7 +8817,8 @@ const ABERTURA_ASA_DATA = [
     "Frente": "139 - FRENTE MANEZÃO",
     "Responsável": "MABILA HELEN D FIGUEIREDO",
     "Abertura da Asa": "53",
-    "Fazenda": "53201"
+    "Fazenda": "53201",
+    "Unnamed: 16": null
   },
   {
     "ID": "3551152",
@@ -8368,7 +8836,8 @@ const ABERTURA_ASA_DATA = [
     "Frente": "139 - FRENTE MANEZÃO",
     "Responsável": "MABILA HELEN D FIGUEIREDO",
     "Abertura da Asa": "52",
-    "Fazenda": "53201"
+    "Fazenda": "53201",
+    "Unnamed: 16": null
   },
   {
     "ID": "3551151",
@@ -8386,7 +8855,8 @@ const ABERTURA_ASA_DATA = [
     "Frente": "139 - FRENTE MANEZÃO",
     "Responsável": "MABILA HELEN D FIGUEIREDO",
     "Abertura da Asa": "49",
-    "Fazenda": "53201"
+    "Fazenda": "53201",
+    "Unnamed: 16": null
   },
   {
     "ID": "3551215",
@@ -8404,7 +8874,8 @@ const ABERTURA_ASA_DATA = [
     "Frente": "142 - FRENTE BIDU",
     "Responsável": "Leonardo Ribeiro Teixeira da Silva",
     "Abertura da Asa": "52",
-    "Fazenda": "190101"
+    "Fazenda": "190101",
+    "Unnamed: 16": null
   },
   {
     "ID": "3551214",
@@ -8422,7 +8893,8 @@ const ABERTURA_ASA_DATA = [
     "Frente": "142 - FRENTE BIDU",
     "Responsável": "Leonardo Ribeiro Teixeira da Silva",
     "Abertura da Asa": "52",
-    "Fazenda": "190101"
+    "Fazenda": "190101",
+    "Unnamed: 16": null
   },
   {
     "ID": "3550840",
@@ -8440,7 +8912,8 @@ const ABERTURA_ASA_DATA = [
     "Frente": "261 - FRENTE PRÓPRIA  (EDMILSON)",
     "Responsável": "VITOR AMORIM RAMOS ",
     "Abertura da Asa": "52",
-    "Fazenda": "125001"
+    "Fazenda": "125001",
+    "Unnamed: 16": null
   },
   {
     "ID": "3550839",
@@ -8458,7 +8931,8 @@ const ABERTURA_ASA_DATA = [
     "Frente": "261 - FRENTE PRÓPRIA  (EDMILSON)",
     "Responsável": "VITOR AMORIM RAMOS ",
     "Abertura da Asa": "51",
-    "Fazenda": "125001"
+    "Fazenda": "125001",
+    "Unnamed: 16": null
   },
   {
     "ID": "3550838",
@@ -8476,7 +8950,8 @@ const ABERTURA_ASA_DATA = [
     "Frente": "261 - FRENTE PRÓPRIA  (EDMILSON)",
     "Responsável": "VITOR AMORIM RAMOS ",
     "Abertura da Asa": "52",
-    "Fazenda": "125001"
+    "Fazenda": "125001",
+    "Unnamed: 16": null
   },
   {
     "ID": "3550833",
@@ -8494,7 +8969,8 @@ const ABERTURA_ASA_DATA = [
     "Frente": "261 - FRENTE PRÓPRIA  (EDMILSON)",
     "Responsável": "VITOR AMORIM RAMOS ",
     "Abertura da Asa": "51",
-    "Fazenda": "125001"
+    "Fazenda": "125001",
+    "Unnamed: 16": null
   },
   {
     "ID": "3549644",
@@ -8512,7 +8988,8 @@ const ABERTURA_ASA_DATA = [
     "Frente": "139 - FRENTE MANEZÃO",
     "Responsável": "MICHELI DE SOUZA SANTOS  ",
     "Abertura da Asa": "53",
-    "Fazenda": "53201"
+    "Fazenda": "53201",
+    "Unnamed: 16": null
   },
   {
     "ID": "3549643",
@@ -8530,7 +9007,8 @@ const ABERTURA_ASA_DATA = [
     "Frente": "139 - FRENTE MANEZÃO",
     "Responsável": "MICHELI DE SOUZA SANTOS  ",
     "Abertura da Asa": "49",
-    "Fazenda": "53201"
+    "Fazenda": "53201",
+    "Unnamed: 16": null
   },
   {
     "ID": "3549599",
@@ -8548,7 +9026,8 @@ const ABERTURA_ASA_DATA = [
     "Frente": "261 - FRENTE PRÓPRIA  (EDMILSON)",
     "Responsável": "VITOR AMORIM RAMOS ",
     "Abertura da Asa": "51",
-    "Fazenda": "101201"
+    "Fazenda": "101201",
+    "Unnamed: 16": null
   },
   {
     "ID": "3549598",
@@ -8566,7 +9045,8 @@ const ABERTURA_ASA_DATA = [
     "Frente": "261 - FRENTE PRÓPRIA  (EDMILSON)",
     "Responsável": "VITOR AMORIM RAMOS ",
     "Abertura da Asa": "51",
-    "Fazenda": "101201"
+    "Fazenda": "101201",
+    "Unnamed: 16": null
   },
   {
     "ID": "3549248",
@@ -8584,7 +9064,8 @@ const ABERTURA_ASA_DATA = [
     "Frente": "143 - FRENTE CASSIO",
     "Responsável": "GABRIEL HENRIQUE MARTINS PEREIRA",
     "Abertura da Asa": "60",
-    "Fazenda": "216303"
+    "Fazenda": "216303",
+    "Unnamed: 16": null
   },
   {
     "ID": "3549247",
@@ -8602,7 +9083,8 @@ const ABERTURA_ASA_DATA = [
     "Frente": "143 - FRENTE CASSIO",
     "Responsável": "GABRIEL HENRIQUE MARTINS PEREIRA",
     "Abertura da Asa": "61",
-    "Fazenda": "216303"
+    "Fazenda": "216303",
+    "Unnamed: 16": null
   },
   {
     "ID": "3549246",
@@ -8620,7 +9102,8 @@ const ABERTURA_ASA_DATA = [
     "Frente": "143 - FRENTE CASSIO",
     "Responsável": "GABRIEL HENRIQUE MARTINS PEREIRA",
     "Abertura da Asa": "62",
-    "Fazenda": "216303"
+    "Fazenda": "216303",
+    "Unnamed: 16": null
   },
   {
     "ID": "3549245",
@@ -8638,7 +9121,8 @@ const ABERTURA_ASA_DATA = [
     "Frente": "143 - FRENTE CASSIO",
     "Responsável": "GABRIEL HENRIQUE MARTINS PEREIRA",
     "Abertura da Asa": "62",
-    "Fazenda": "216303"
+    "Fazenda": "216303",
+    "Unnamed: 16": null
   },
   {
     "ID": "3549192",
@@ -8656,7 +9140,8 @@ const ABERTURA_ASA_DATA = [
     "Frente": "142 - FRENTE BIDU",
     "Responsável": "Leonardo Ribeiro Teixeira da Silva",
     "Abertura da Asa": "52",
-    "Fazenda": "190101"
+    "Fazenda": "190101",
+    "Unnamed: 16": null
   },
   {
     "ID": "3549191",
@@ -8674,7 +9159,8 @@ const ABERTURA_ASA_DATA = [
     "Frente": "142 - FRENTE BIDU",
     "Responsável": "Leonardo Ribeiro Teixeira da Silva",
     "Abertura da Asa": "53",
-    "Fazenda": "190101"
+    "Fazenda": "190101",
+    "Unnamed: 16": null
   },
   {
     "ID": "3549539",
@@ -8692,7 +9178,8 @@ const ABERTURA_ASA_DATA = [
     "Frente": "135 - PEDRINHO ",
     "Responsável": "MARCELO DE OLIVEIRA JUNIOR",
     "Abertura da Asa": "59",
-    "Fazenda": "280901"
+    "Fazenda": "280901",
+    "Unnamed: 16": null
   },
   {
     "ID": "3549538",
@@ -8710,7 +9197,8 @@ const ABERTURA_ASA_DATA = [
     "Frente": "135 - PEDRINHO ",
     "Responsável": "MARCELO DE OLIVEIRA JUNIOR",
     "Abertura da Asa": "59",
-    "Fazenda": "280901"
+    "Fazenda": "280901",
+    "Unnamed: 16": null
   },
   {
     "ID": "3549533",
@@ -8728,7 +9216,8 @@ const ABERTURA_ASA_DATA = [
     "Frente": "135 - PEDRINHO ",
     "Responsável": "MARCELO DE OLIVEIRA JUNIOR",
     "Abertura da Asa": "59",
-    "Fazenda": "280901"
+    "Fazenda": "280901",
+    "Unnamed: 16": null
   },
   {
     "ID": "3549531",
@@ -8746,7 +9235,8 @@ const ABERTURA_ASA_DATA = [
     "Frente": "135 - PEDRINHO ",
     "Responsável": "MARCELO DE OLIVEIRA JUNIOR",
     "Abertura da Asa": "59",
-    "Fazenda": "280901"
+    "Fazenda": "280901",
+    "Unnamed: 16": null
   },
   {
     "ID": "3549377",
@@ -8764,7 +9254,8 @@ const ABERTURA_ASA_DATA = [
     "Frente": "105 - FRENTE CASSIO",
     "Responsável": "NILDA CLAUDINO [2510716]",
     "Abertura da Asa": "66",
-    "Fazenda": "151202"
+    "Fazenda": "151202",
+    "Unnamed: 16": null
   },
   {
     "ID": "3549376",
@@ -8782,7 +9273,8 @@ const ABERTURA_ASA_DATA = [
     "Frente": "105 - FRENTE CASSIO",
     "Responsável": "NILDA CLAUDINO [2510716]",
     "Abertura da Asa": "56",
-    "Fazenda": "151202"
+    "Fazenda": "151202",
+    "Unnamed: 16": null
   },
   {
     "ID": "3549375",
@@ -8800,7 +9292,8 @@ const ABERTURA_ASA_DATA = [
     "Frente": "105 - FRENTE CASSIO",
     "Responsável": "NILDA CLAUDINO [2510716]",
     "Abertura da Asa": "60",
-    "Fazenda": "151202"
+    "Fazenda": "151202",
+    "Unnamed: 16": null
   },
   {
     "ID": "3549374",
@@ -8818,7 +9311,8 @@ const ABERTURA_ASA_DATA = [
     "Frente": "105 - FRENTE CASSIO",
     "Responsável": "NILDA CLAUDINO [2510716]",
     "Abertura da Asa": "60",
-    "Fazenda": "151202"
+    "Fazenda": "151202",
+    "Unnamed: 16": null
   },
   {
     "ID": "3548152",
@@ -8836,7 +9330,8 @@ const ABERTURA_ASA_DATA = [
     "Frente": "135 - PEDRINHO ",
     "Responsável": "MARCELO DE OLIVEIRA JUNIOR",
     "Abertura da Asa": "59",
-    "Fazenda": "280901"
+    "Fazenda": "280901",
+    "Unnamed: 16": null
   },
   {
     "ID": "3548151",
@@ -8854,7 +9349,8 @@ const ABERTURA_ASA_DATA = [
     "Frente": "135 - PEDRINHO ",
     "Responsável": "MARCELO DE OLIVEIRA JUNIOR",
     "Abertura da Asa": "59",
-    "Fazenda": "280901"
+    "Fazenda": "280901",
+    "Unnamed: 16": null
   },
   {
     "ID": "3547568",
@@ -8872,7 +9368,8 @@ const ABERTURA_ASA_DATA = [
     "Frente": "139 - FRENTE MANEZÃO",
     "Responsável": "MABILA HELEN D FIGUEIREDO",
     "Abertura da Asa": "52",
-    "Fazenda": "254401"
+    "Fazenda": "254401",
+    "Unnamed: 16": null
   },
   {
     "ID": "3547567",
@@ -8890,7 +9387,8 @@ const ABERTURA_ASA_DATA = [
     "Frente": "139 - FRENTE MANEZÃO",
     "Responsável": "MABILA HELEN D FIGUEIREDO",
     "Abertura da Asa": "50",
-    "Fazenda": "254401"
+    "Fazenda": "254401",
+    "Unnamed: 16": null
   },
   {
     "ID": "3547165",
@@ -8908,7 +9406,8 @@ const ABERTURA_ASA_DATA = [
     "Frente": "261 - FRENTE PRÓPRIA  (EDMILSON)",
     "Responsável": "VITOR AMORIM RAMOS ",
     "Abertura da Asa": "52",
-    "Fazenda": "234001"
+    "Fazenda": "234001",
+    "Unnamed: 16": null
   },
   {
     "ID": "3547164",
@@ -8926,7 +9425,8 @@ const ABERTURA_ASA_DATA = [
     "Frente": "261 - FRENTE PRÓPRIA  (EDMILSON)",
     "Responsável": "VITOR AMORIM RAMOS ",
     "Abertura da Asa": "52",
-    "Fazenda": "234001"
+    "Fazenda": "234001",
+    "Unnamed: 16": null
   },
   {
     "ID": "3547189",
@@ -8944,7 +9444,8 @@ const ABERTURA_ASA_DATA = [
     "Frente": "261 - FRENTE PRÓPRIA  (EDMILSON)",
     "Responsável": "VITOR AMORIM RAMOS ",
     "Abertura da Asa": "52",
-    "Fazenda": "234001"
+    "Fazenda": "234001",
+    "Unnamed: 16": null
   },
   {
     "ID": "3547188",
@@ -8962,7 +9463,8 @@ const ABERTURA_ASA_DATA = [
     "Frente": "261 - FRENTE PRÓPRIA  (EDMILSON)",
     "Responsável": "VITOR AMORIM RAMOS ",
     "Abertura da Asa": "51",
-    "Fazenda": "234001"
+    "Fazenda": "234001",
+    "Unnamed: 16": null
   },
   {
     "ID": "3547083",
@@ -8980,7 +9482,8 @@ const ABERTURA_ASA_DATA = [
     "Frente": "142 - FRENTE BIDU",
     "Responsável": " Antonio ",
     "Abertura da Asa": "52",
-    "Fazenda": "190205"
+    "Fazenda": "190205",
+    "Unnamed: 16": null
   },
   {
     "ID": "3547082",
@@ -8998,7 +9501,8 @@ const ABERTURA_ASA_DATA = [
     "Frente": "142 - FRENTE BIDU",
     "Responsável": " Antonio ",
     "Abertura da Asa": "52",
-    "Fazenda": "190205"
+    "Fazenda": "190205",
+    "Unnamed: 16": null
   },
   {
     "ID": "3547081",
@@ -9016,7 +9520,8 @@ const ABERTURA_ASA_DATA = [
     "Frente": "142 - FRENTE BIDU",
     "Responsável": " Antonio ",
     "Abertura da Asa": "52",
-    "Fazenda": "190205"
+    "Fazenda": "190205",
+    "Unnamed: 16": null
   },
   {
     "ID": "3547080",
@@ -9034,7 +9539,8 @@ const ABERTURA_ASA_DATA = [
     "Frente": "142 - FRENTE BIDU",
     "Responsável": " Antonio ",
     "Abertura da Asa": "52",
-    "Fazenda": "190205"
+    "Fazenda": "190205",
+    "Unnamed: 16": null
   },
   {
     "ID": "3547280",
@@ -9052,7 +9558,8 @@ const ABERTURA_ASA_DATA = [
     "Frente": "143 - FRENTE CASSIO",
     "Responsável": "GABRIEL HENRIQUE MARTINS PEREIRA",
     "Abertura da Asa": "60",
-    "Fazenda": "251502"
+    "Fazenda": "251502",
+    "Unnamed: 16": null
   },
   {
     "ID": "3547279",
@@ -9070,7 +9577,8 @@ const ABERTURA_ASA_DATA = [
     "Frente": "143 - FRENTE CASSIO",
     "Responsável": "GABRIEL HENRIQUE MARTINS PEREIRA",
     "Abertura da Asa": "62",
-    "Fazenda": "251502"
+    "Fazenda": "251502",
+    "Unnamed: 16": null
   },
   {
     "ID": "3544805",
@@ -9088,7 +9596,8 @@ const ABERTURA_ASA_DATA = [
     "Frente": "139 - FRENTE MANEZÃO",
     "Responsável": "MICHELI DE SOUZA SANTOS  ",
     "Abertura da Asa": "49",
-    "Fazenda": "254401"
+    "Fazenda": "254401",
+    "Unnamed: 16": null
   },
   {
     "ID": "3544804",
@@ -9106,7 +9615,8 @@ const ABERTURA_ASA_DATA = [
     "Frente": "139 - FRENTE MANEZÃO",
     "Responsável": "MICHELI DE SOUZA SANTOS  ",
     "Abertura da Asa": "52",
-    "Fazenda": "254401"
+    "Fazenda": "254401",
+    "Unnamed: 16": null
   },
   {
     "ID": "3544920",
@@ -9124,7 +9634,8 @@ const ABERTURA_ASA_DATA = [
     "Frente": "135 - PEDRINHO ",
     "Responsável": "MARCELO DE OLIVEIRA JUNIOR",
     "Abertura da Asa": "50",
-    "Fazenda": "53201"
+    "Fazenda": "53201",
+    "Unnamed: 16": null
   },
   {
     "ID": "3544919",
@@ -9142,7 +9653,8 @@ const ABERTURA_ASA_DATA = [
     "Frente": "135 - PEDRINHO ",
     "Responsável": "MARCELO DE OLIVEIRA JUNIOR",
     "Abertura da Asa": "51",
-    "Fazenda": "53201"
+    "Fazenda": "53201",
+    "Unnamed: 16": null
   },
   {
     "ID": "3545029",
@@ -9160,7 +9672,8 @@ const ABERTURA_ASA_DATA = [
     "Frente": "261 - FRENTE PRÓPRIA  (EDMILSON)",
     "Responsável": "VITOR AMORIM RAMOS ",
     "Abertura da Asa": "52",
-    "Fazenda": "234001"
+    "Fazenda": "234001",
+    "Unnamed: 16": null
   },
   {
     "ID": "3545032",
@@ -9178,7 +9691,8 @@ const ABERTURA_ASA_DATA = [
     "Frente": "261 - FRENTE PRÓPRIA  (EDMILSON)",
     "Responsável": "VITOR AMORIM RAMOS ",
     "Abertura da Asa": "51",
-    "Fazenda": "234001"
+    "Fazenda": "234001",
+    "Unnamed: 16": null
   },
   {
     "ID": "3545031",
@@ -9196,7 +9710,8 @@ const ABERTURA_ASA_DATA = [
     "Frente": "261 - FRENTE PRÓPRIA  (EDMILSON)",
     "Responsável": "VITOR AMORIM RAMOS ",
     "Abertura da Asa": "51",
-    "Fazenda": "234001"
+    "Fazenda": "234001",
+    "Unnamed: 16": null
   },
   {
     "ID": "3545030",
@@ -9214,7 +9729,8 @@ const ABERTURA_ASA_DATA = [
     "Frente": "261 - FRENTE PRÓPRIA  (EDMILSON)",
     "Responsável": "VITOR AMORIM RAMOS ",
     "Abertura da Asa": "52",
-    "Fazenda": "234001"
+    "Fazenda": "234001",
+    "Unnamed: 16": null
   },
   {
     "ID": "3544306",
@@ -9232,7 +9748,8 @@ const ABERTURA_ASA_DATA = [
     "Frente": "105 - FRENTE CASSIO",
     "Responsável": "REGINALDO DA SILVA GOMES ",
     "Abertura da Asa": "60",
-    "Fazenda": "177007"
+    "Fazenda": "177007",
+    "Unnamed: 16": null
   },
   {
     "ID": "3544307",
@@ -9250,7 +9767,8 @@ const ABERTURA_ASA_DATA = [
     "Frente": "105 - FRENTE CASSIO",
     "Responsável": "REGINALDO DA SILVA GOMES ",
     "Abertura da Asa": "56",
-    "Fazenda": "177007"
+    "Fazenda": "177007",
+    "Unnamed: 16": null
   },
   {
     "ID": "3544230",
@@ -9268,7 +9786,8 @@ const ABERTURA_ASA_DATA = [
     "Frente": "105 - FRENTE CASSIO (ZACARIAS)",
     "Responsável": "NILDA CLAUDINO [2510716]",
     "Abertura da Asa": "56",
-    "Fazenda": "177007"
+    "Fazenda": "177007",
+    "Unnamed: 16": null
   },
   {
     "ID": "3544229",
@@ -9286,7 +9805,8 @@ const ABERTURA_ASA_DATA = [
     "Frente": "105 - FRENTE CASSIO",
     "Responsável": "NILDA CLAUDINO [2510716]",
     "Abertura da Asa": "60",
-    "Fazenda": "177007"
+    "Fazenda": "177007",
+    "Unnamed: 16": null
   },
   {
     "ID": "3544305",
@@ -9304,7 +9824,8 @@ const ABERTURA_ASA_DATA = [
     "Frente": "105 - FRENTE CASSIO",
     "Responsável": "REGINALDO DA SILVA GOMES ",
     "Abertura da Asa": "66",
-    "Fazenda": "177007"
+    "Fazenda": "177007",
+    "Unnamed: 16": null
   },
   {
     "ID": "3544304",
@@ -9322,7 +9843,8 @@ const ABERTURA_ASA_DATA = [
     "Frente": "105 - FRENTE CASSIO",
     "Responsável": "REGINALDO DA SILVA GOMES ",
     "Abertura da Asa": "66",
-    "Fazenda": "177007"
+    "Fazenda": "177007",
+    "Unnamed: 16": null
   },
   {
     "ID": "3544220",
@@ -9340,7 +9862,8 @@ const ABERTURA_ASA_DATA = [
     "Frente": "105 - FRENTE CASSIO",
     "Responsável": "NILDA CLAUDINO [2510716]",
     "Abertura da Asa": "66",
-    "Fazenda": "177007"
+    "Fazenda": "177007",
+    "Unnamed: 16": null
   },
   {
     "ID": "3544219",
@@ -9358,7 +9881,8 @@ const ABERTURA_ASA_DATA = [
     "Frente": "105 - FRENTE CASSIO",
     "Responsável": "NILDA CLAUDINO [2510716]",
     "Abertura da Asa": "66",
-    "Fazenda": "177007"
+    "Fazenda": "177007",
+    "Unnamed: 16": null
   },
   {
     "ID": "3544119",
@@ -9376,7 +9900,8 @@ const ABERTURA_ASA_DATA = [
     "Frente": "143 - FRENTE CASSIO",
     "Responsável": "GABRIEL HENRIQUE MARTINS PEREIRA",
     "Abertura da Asa": "62",
-    "Fazenda": "251502"
+    "Fazenda": "251502",
+    "Unnamed: 16": null
   },
   {
     "ID": "3544118",
@@ -9394,7 +9919,8 @@ const ABERTURA_ASA_DATA = [
     "Frente": "143 - FRENTE CASSIO",
     "Responsável": "GABRIEL HENRIQUE MARTINS PEREIRA",
     "Abertura da Asa": "62",
-    "Fazenda": "251502"
+    "Fazenda": "251502",
+    "Unnamed: 16": null
   },
   {
     "ID": "3544117",
@@ -9412,7 +9938,8 @@ const ABERTURA_ASA_DATA = [
     "Frente": "143 - FRENTE CASSIO",
     "Responsável": "GABRIEL HENRIQUE MARTINS PEREIRA",
     "Abertura da Asa": "62",
-    "Fazenda": "251502"
+    "Fazenda": "251502",
+    "Unnamed: 16": null
   },
   {
     "ID": "3544116",
@@ -9430,7 +9957,8 @@ const ABERTURA_ASA_DATA = [
     "Frente": "143 - FRENTE CASSIO",
     "Responsável": "GABRIEL HENRIQUE MARTINS PEREIRA",
     "Abertura da Asa": "61",
-    "Fazenda": "251502"
+    "Fazenda": "251502",
+    "Unnamed: 16": null
   },
   {
     "ID": "3542382",
@@ -9448,7 +9976,8 @@ const ABERTURA_ASA_DATA = [
     "Frente": "139 - FRENTE MANEZÃO",
     "Responsável": "MICHELI DE SOUZA SANTOS  ",
     "Abertura da Asa": "51",
-    "Fazenda": "53201"
+    "Fazenda": "53201",
+    "Unnamed: 16": null
   },
   {
     "ID": "3542381",
@@ -9466,7 +9995,8 @@ const ABERTURA_ASA_DATA = [
     "Frente": "139 - FRENTE MANEZÃO",
     "Responsável": "MICHELI DE SOUZA SANTOS  ",
     "Abertura da Asa": "49",
-    "Fazenda": "53201"
+    "Fazenda": "53201",
+    "Unnamed: 16": null
   },
   {
     "ID": "3542240",
@@ -9484,7 +10014,8 @@ const ABERTURA_ASA_DATA = [
     "Frente": "142 - FRENTE BIDU",
     "Responsável": "Leonardo Ribeiro Teixeira da Silva",
     "Abertura da Asa": "51",
-    "Fazenda": "197201"
+    "Fazenda": "197201",
+    "Unnamed: 16": null
   },
   {
     "ID": "3542193",
@@ -9502,7 +10033,8 @@ const ABERTURA_ASA_DATA = [
     "Frente": "142 - FRENTE BIDU",
     "Responsável": "Leonardo Ribeiro Teixeira da Silva",
     "Abertura da Asa": "53",
-    "Fazenda": "197201"
+    "Fazenda": "197201",
+    "Unnamed: 16": null
   },
   {
     "ID": "3541964",
@@ -9520,7 +10052,8 @@ const ABERTURA_ASA_DATA = [
     "Frente": "261 - FRENTE PRÓPRIA  (EDMILSON)",
     "Responsável": "VITOR AMORIM RAMOS ",
     "Abertura da Asa": "51",
-    "Fazenda": "234001"
+    "Fazenda": "234001",
+    "Unnamed: 16": null
   },
   {
     "ID": "3541963",
@@ -9538,7 +10071,8 @@ const ABERTURA_ASA_DATA = [
     "Frente": "261 - FRENTE PRÓPRIA  (EDMILSON)",
     "Responsável": "VITOR AMORIM RAMOS ",
     "Abertura da Asa": "52",
-    "Fazenda": "234001"
+    "Fazenda": "234001",
+    "Unnamed: 16": null
   },
   {
     "ID": "3541962",
@@ -9556,7 +10090,8 @@ const ABERTURA_ASA_DATA = [
     "Frente": "261 - FRENTE PRÓPRIA  (EDMILSON)",
     "Responsável": "VITOR AMORIM RAMOS ",
     "Abertura da Asa": "51",
-    "Fazenda": "234001"
+    "Fazenda": "234001",
+    "Unnamed: 16": null
   },
   {
     "ID": "3541961",
@@ -9574,7 +10109,8 @@ const ABERTURA_ASA_DATA = [
     "Frente": "261 - FRENTE PRÓPRIA  (EDMILSON)",
     "Responsável": "VITOR AMORIM RAMOS ",
     "Abertura da Asa": "52",
-    "Fazenda": "234001"
+    "Fazenda": "234001",
+    "Unnamed: 16": null
   },
   {
     "ID": "3540035",
@@ -9592,7 +10128,8 @@ const ABERTURA_ASA_DATA = [
     "Frente": "142 - FRENTE BIDU",
     "Responsável": "MICHELI DE SOUZA SANTOS  ",
     "Abertura da Asa": "51",
-    "Fazenda": "224901"
+    "Fazenda": "224901",
+    "Unnamed: 16": null
   },
   {
     "ID": "3540034",
@@ -9610,7 +10147,8 @@ const ABERTURA_ASA_DATA = [
     "Frente": "142 - FRENTE BIDU",
     "Responsável": "MICHELI DE SOUZA SANTOS  ",
     "Abertura da Asa": "52",
-    "Fazenda": "224901"
+    "Fazenda": "224901",
+    "Unnamed: 16": null
   },
   {
     "ID": "3540008",
@@ -9628,7 +10166,8 @@ const ABERTURA_ASA_DATA = [
     "Frente": "139 - FRENTE MANEZÃO",
     "Responsável": "MICHELI DE SOUZA SANTOS  ",
     "Abertura da Asa": "52",
-    "Fazenda": "224701"
+    "Fazenda": "224701",
+    "Unnamed: 16": null
   },
   {
     "ID": "3540007",
@@ -9646,7 +10185,8 @@ const ABERTURA_ASA_DATA = [
     "Frente": "139 - FRENTE MANEZÃO",
     "Responsável": "MICHELI DE SOUZA SANTOS  ",
     "Abertura da Asa": "51",
-    "Fazenda": "224701"
+    "Fazenda": "224701",
+    "Unnamed: 16": null
   },
   {
     "ID": "3540006",
@@ -9664,7 +10204,8 @@ const ABERTURA_ASA_DATA = [
     "Frente": "139 - FRENTE MANEZÃO",
     "Responsável": "MICHELI DE SOUZA SANTOS  ",
     "Abertura da Asa": "49",
-    "Fazenda": "224701"
+    "Fazenda": "224701",
+    "Unnamed: 16": null
   },
   {
     "ID": "3540005",
@@ -9682,7 +10223,8 @@ const ABERTURA_ASA_DATA = [
     "Frente": "139 - FRENTE MANEZÃO",
     "Responsável": "MICHELI DE SOUZA SANTOS  ",
     "Abertura da Asa": "51",
-    "Fazenda": "224701"
+    "Fazenda": "224701",
+    "Unnamed: 16": null
   },
   {
     "ID": "3539983",
@@ -9700,7 +10242,8 @@ const ABERTURA_ASA_DATA = [
     "Frente": "142 - FRENTE BIDU",
     "Responsável": "MICHELI DE SOUZA SANTOS  ",
     "Abertura da Asa": "51",
-    "Fazenda": "224701"
+    "Fazenda": "224701",
+    "Unnamed: 16": null
   },
   {
     "ID": "3539982",
@@ -9718,7 +10261,8 @@ const ABERTURA_ASA_DATA = [
     "Frente": "142 - FRENTE BIDU",
     "Responsável": "MICHELI DE SOUZA SANTOS  ",
     "Abertura da Asa": "51",
-    "Fazenda": "224701"
+    "Fazenda": "224701",
+    "Unnamed: 16": null
   },
   {
     "ID": "3540084",
@@ -9736,7 +10280,8 @@ const ABERTURA_ASA_DATA = [
     "Frente": "105 - FRENTE CASSIO",
     "Responsável": "NILDA CLAUDINO [2510716]",
     "Abertura da Asa": "65",
-    "Fazenda": "151203"
+    "Fazenda": "151203",
+    "Unnamed: 16": null
   },
   {
     "ID": "3540083",
@@ -9754,7 +10299,8 @@ const ABERTURA_ASA_DATA = [
     "Frente": "105 - FRENTE CASSIO",
     "Responsável": "NILDA CLAUDINO [2510716]",
     "Abertura da Asa": "66",
-    "Fazenda": "151203"
+    "Fazenda": "151203",
+    "Unnamed: 16": null
   },
   {
     "ID": "3540113",
@@ -9772,7 +10318,8 @@ const ABERTURA_ASA_DATA = [
     "Frente": "105 - FRENTE CASSIO",
     "Responsável": "NILDA CLAUDINO [2510716]",
     "Abertura da Asa": "60",
-    "Fazenda": "151203"
+    "Fazenda": "151203",
+    "Unnamed: 16": null
   },
   {
     "ID": "3540082",
@@ -9790,7 +10337,8 @@ const ABERTURA_ASA_DATA = [
     "Frente": "105 - FRENTE CASSIO",
     "Responsável": "NILDA CLAUDINO [2510716]",
     "Abertura da Asa": "61",
-    "Fazenda": "151203"
+    "Fazenda": "151203",
+    "Unnamed: 16": null
   },
   {
     "ID": "3539354",
@@ -9808,7 +10356,8 @@ const ABERTURA_ASA_DATA = [
     "Frente": "143 - FRENTE CASSIO",
     "Responsável": "GABRIEL HENRIQUE MARTINS PEREIRA",
     "Abertura da Asa": "61",
-    "Fazenda": "237101"
+    "Fazenda": "237101",
+    "Unnamed: 16": null
   },
   {
     "ID": "3539353",
@@ -9826,7 +10375,8 @@ const ABERTURA_ASA_DATA = [
     "Frente": "143 - FRENTE CASSIO",
     "Responsável": "GABRIEL HENRIQUE MARTINS PEREIRA",
     "Abertura da Asa": "62",
-    "Fazenda": "237101"
+    "Fazenda": "237101",
+    "Unnamed: 16": null
   },
   {
     "ID": "3538838",
@@ -9844,7 +10394,8 @@ const ABERTURA_ASA_DATA = [
     "Frente": "139 - FRENTE MANEZÃO",
     "Responsável": "MICHELI DE SOUZA SANTOS  ",
     "Abertura da Asa": "51",
-    "Fazenda": "224905"
+    "Fazenda": "224905",
+    "Unnamed: 16": null
   },
   {
     "ID": "3538839",
@@ -9862,7 +10413,8 @@ const ABERTURA_ASA_DATA = [
     "Frente": "139 - FRENTE MANEZÃO",
     "Responsável": "MICHELI DE SOUZA SANTOS  ",
     "Abertura da Asa": "51",
-    "Fazenda": "224905"
+    "Fazenda": "224905",
+    "Unnamed: 16": null
   },
   {
     "ID": "3537506",
@@ -9880,7 +10432,8 @@ const ABERTURA_ASA_DATA = [
     "Frente": "143 - FRENTE CASSIO",
     "Responsável": "EDILIANA CARDOSO DA COSTA",
     "Abertura da Asa": "61",
-    "Fazenda": "237101"
+    "Fazenda": "237101",
+    "Unnamed: 16": null
   },
   {
     "ID": "3537505",
@@ -9898,7 +10451,8 @@ const ABERTURA_ASA_DATA = [
     "Frente": "143 - FRENTE CASSIO",
     "Responsável": "EDILIANA CARDOSO DA COSTA",
     "Abertura da Asa": "61",
-    "Fazenda": "237101"
+    "Fazenda": "237101",
+    "Unnamed: 16": null
   },
   {
     "ID": "3537500",
@@ -9916,7 +10470,8 @@ const ABERTURA_ASA_DATA = [
     "Frente": "143 - FRENTE CASSIO",
     "Responsável": "EDILIANA CARDOSO DA COSTA",
     "Abertura da Asa": "61",
-    "Fazenda": "237101"
+    "Fazenda": "237101",
+    "Unnamed: 16": null
   },
   {
     "ID": "3537499",
@@ -9934,7 +10489,8 @@ const ABERTURA_ASA_DATA = [
     "Frente": "143 - FRENTE CASSIO",
     "Responsável": "EDILIANA CARDOSO DA COSTA",
     "Abertura da Asa": "60",
-    "Fazenda": "237101"
+    "Fazenda": "237101",
+    "Unnamed: 16": null
   },
   {
     "ID": "3537402",
@@ -9952,7 +10508,8 @@ const ABERTURA_ASA_DATA = [
     "Frente": "261 - FRENTE PRÓPRIA  (EDMILSON)",
     "Responsável": "VITOR AMORIM RAMOS ",
     "Abertura da Asa": "56",
-    "Fazenda": "53401"
+    "Fazenda": "53401",
+    "Unnamed: 16": null
   },
   {
     "ID": "3537401",
@@ -9970,7 +10527,8 @@ const ABERTURA_ASA_DATA = [
     "Frente": "261 - FRENTE PRÓPRIA  (EDMILSON)",
     "Responsável": "VITOR AMORIM RAMOS ",
     "Abertura da Asa": "56",
-    "Fazenda": "53401"
+    "Fazenda": "53401",
+    "Unnamed: 16": null
   },
   {
     "ID": "3537400",
@@ -9988,7 +10546,8 @@ const ABERTURA_ASA_DATA = [
     "Frente": "261 - FRENTE PRÓPRIA  (EDMILSON)",
     "Responsável": "VITOR AMORIM RAMOS ",
     "Abertura da Asa": "51",
-    "Fazenda": "53401"
+    "Fazenda": "53401",
+    "Unnamed: 16": null
   },
   {
     "ID": "3537399",
@@ -10006,7 +10565,8 @@ const ABERTURA_ASA_DATA = [
     "Frente": "261 - FRENTE PRÓPRIA  (EDMILSON)",
     "Responsável": "VITOR AMORIM RAMOS ",
     "Abertura da Asa": "52",
-    "Fazenda": "53401"
+    "Fazenda": "53401",
+    "Unnamed: 16": null
   },
   {
     "ID": "3537762",
@@ -10024,7 +10584,8 @@ const ABERTURA_ASA_DATA = [
     "Frente": "139 - FRENTE MANEZÃO",
     "Responsável": "MABILA HELEN D FIGUEIREDO",
     "Abertura da Asa": "51",
-    "Fazenda": "224705"
+    "Fazenda": "224705",
+    "Unnamed: 16": null
   },
   {
     "ID": "3537761",
@@ -10042,7 +10603,8 @@ const ABERTURA_ASA_DATA = [
     "Frente": "139 - FRENTE MANEZÃO",
     "Responsável": "MABILA HELEN D FIGUEIREDO",
     "Abertura da Asa": "49",
-    "Fazenda": "224705"
+    "Fazenda": "224705",
+    "Unnamed: 16": null
   },
   {
     "ID": "3537756",
@@ -10060,7 +10622,8 @@ const ABERTURA_ASA_DATA = [
     "Frente": "142 - FRENTE BIDU",
     "Responsável": "MICHELI DE SOUZA SANTOS  ",
     "Abertura da Asa": "51",
-    "Fazenda": "224701"
+    "Fazenda": "224701",
+    "Unnamed: 16": null
   },
   {
     "ID": "3537755",
@@ -10078,7 +10641,8 @@ const ABERTURA_ASA_DATA = [
     "Frente": "142 - FRENTE BIDU",
     "Responsável": "MICHELI DE SOUZA SANTOS  ",
     "Abertura da Asa": "51",
-    "Fazenda": "224701"
+    "Fazenda": "224701",
+    "Unnamed: 16": null
   },
   {
     "ID": "3537281",
@@ -10096,7 +10660,8 @@ const ABERTURA_ASA_DATA = [
     "Frente": "105 - FRENTE CASSIO",
     "Responsável": "NILDA CLAUDINO [2510716]",
     "Abertura da Asa": "55",
-    "Fazenda": "177003"
+    "Fazenda": "177003",
+    "Unnamed: 16": null
   },
   {
     "ID": "3537280",
@@ -10114,7 +10679,8 @@ const ABERTURA_ASA_DATA = [
     "Frente": "105 - FRENTE CASSIO",
     "Responsável": "NILDA CLAUDINO [2510716]",
     "Abertura da Asa": "55",
-    "Fazenda": "177003"
+    "Fazenda": "177003",
+    "Unnamed: 16": null
   },
   {
     "ID": "3537396",
@@ -10132,7 +10698,8 @@ const ABERTURA_ASA_DATA = [
     "Frente": "261 - FRENTE PRÓPRIA  (EDMILSON)",
     "Responsável": "VITOR AMORIM RAMOS ",
     "Abertura da Asa": "51",
-    "Fazenda": "53401"
+    "Fazenda": "53401",
+    "Unnamed: 16": null
   },
   {
     "ID": "3537395",
@@ -10150,7 +10717,8 @@ const ABERTURA_ASA_DATA = [
     "Frente": "261 - FRENTE PRÓPRIA  (EDMILSON)",
     "Responsável": "VITOR AMORIM RAMOS ",
     "Abertura da Asa": "52",
-    "Fazenda": "53401"
+    "Fazenda": "53401",
+    "Unnamed: 16": null
   },
   {
     "ID": "3537394",
@@ -10168,7 +10736,8 @@ const ABERTURA_ASA_DATA = [
     "Frente": "261 - FRENTE PRÓPRIA  (EDMILSON)",
     "Responsável": "VITOR AMORIM RAMOS ",
     "Abertura da Asa": "52",
-    "Fazenda": "53401"
+    "Fazenda": "53401",
+    "Unnamed: 16": null
   },
   {
     "ID": "3537393",
@@ -10186,7 +10755,8 @@ const ABERTURA_ASA_DATA = [
     "Frente": "261 - FRENTE PRÓPRIA  (EDMILSON)",
     "Responsável": "VITOR AMORIM RAMOS ",
     "Abertura da Asa": "51",
-    "Fazenda": "53401"
+    "Fazenda": "53401",
+    "Unnamed: 16": null
   },
   {
     "ID": "3537752",
@@ -10204,7 +10774,8 @@ const ABERTURA_ASA_DATA = [
     "Frente": "142 - FRENTE BIDU",
     "Responsável": "MABILA HELEN D FIGUEIREDO",
     "Abertura da Asa": "51",
-    "Fazenda": "224701"
+    "Fazenda": "224701",
+    "Unnamed: 16": null
   },
   {
     "ID": "3537751",
@@ -10222,7 +10793,8 @@ const ABERTURA_ASA_DATA = [
     "Frente": "142 - FRENTE BIDU",
     "Responsável": "MICHELI DE SOUZA SANTOS  ",
     "Abertura da Asa": "50",
-    "Fazenda": "224701"
+    "Fazenda": "224701",
+    "Unnamed: 16": null
   },
   {
     "ID": "3535759",
@@ -10240,7 +10812,8 @@ const ABERTURA_ASA_DATA = [
     "Frente": "139 - FRENTE MANEZÃO",
     "Responsável": "MICHELI DE SOUZA SANTOS  ",
     "Abertura da Asa": "51",
-    "Fazenda": "224905"
+    "Fazenda": "224905",
+    "Unnamed: 16": null
   },
   {
     "ID": "3535758",
@@ -10258,7 +10831,8 @@ const ABERTURA_ASA_DATA = [
     "Frente": "139 - FRENTE MANEZÃO",
     "Responsável": "MICHELI DE SOUZA SANTOS  ",
     "Abertura da Asa": "52",
-    "Fazenda": "224905"
+    "Fazenda": "224905",
+    "Unnamed: 16": null
   },
   {
     "ID": "3535753",
@@ -10276,7 +10850,8 @@ const ABERTURA_ASA_DATA = [
     "Frente": "139 - FRENTE MANEZÃO",
     "Responsável": "MICHELI DE SOUZA SANTOS  ",
     "Abertura da Asa": "50",
-    "Fazenda": "224905"
+    "Fazenda": "224905",
+    "Unnamed: 16": null
   },
   {
     "ID": "3535752",
@@ -10294,7 +10869,8 @@ const ABERTURA_ASA_DATA = [
     "Frente": "139 - FRENTE MANEZÃO",
     "Responsável": "MICHELI DE SOUZA SANTOS  ",
     "Abertura da Asa": "51",
-    "Fazenda": "224905"
+    "Fazenda": "224905",
+    "Unnamed: 16": null
   },
   {
     "ID": "3535338",
@@ -10312,7 +10888,8 @@ const ABERTURA_ASA_DATA = [
     "Frente": "105 - FRENTE CASSIO",
     "Responsável": "NILDA CLAUDINO [2510716]",
     "Abertura da Asa": "52",
-    "Fazenda": "177003"
+    "Fazenda": "177003",
+    "Unnamed: 16": null
   },
   {
     "ID": "3535337",
@@ -10330,7 +10907,8 @@ const ABERTURA_ASA_DATA = [
     "Frente": "105 - FRENTE CASSIO",
     "Responsável": "NILDA CLAUDINO [2510716]",
     "Abertura da Asa": "56",
-    "Fazenda": "177003"
+    "Fazenda": "177003",
+    "Unnamed: 16": null
   },
   {
     "ID": "3535336",
@@ -10348,7 +10926,8 @@ const ABERTURA_ASA_DATA = [
     "Frente": "105 - FRENTE CASSIO",
     "Responsável": "NILDA CLAUDINO [2510716]",
     "Abertura da Asa": "55",
-    "Fazenda": "177003"
+    "Fazenda": "177003",
+    "Unnamed: 16": null
   },
   {
     "ID": "3535335",
@@ -10366,7 +10945,8 @@ const ABERTURA_ASA_DATA = [
     "Frente": "105 - FRENTE CASSIO",
     "Responsável": "NILDA CLAUDINO [2510716]",
     "Abertura da Asa": "55",
-    "Fazenda": "177003"
+    "Fazenda": "177003",
+    "Unnamed: 16": null
   },
   {
     "ID": "3535742",
@@ -10384,7 +10964,8 @@ const ABERTURA_ASA_DATA = [
     "Frente": "142 - FRENTE BIDU",
     "Responsável": "MICHELI DE SOUZA SANTOS  ",
     "Abertura da Asa": "51",
-    "Fazenda": "224701"
+    "Fazenda": "224701",
+    "Unnamed: 16": null
   },
   {
     "ID": "3535741",
@@ -10402,7 +10983,8 @@ const ABERTURA_ASA_DATA = [
     "Frente": "142 - FRENTE BIDU",
     "Responsável": "MICHELI DE SOUZA SANTOS  ",
     "Abertura da Asa": "51",
-    "Fazenda": "224701"
+    "Fazenda": "224701",
+    "Unnamed: 16": null
   },
   {
     "ID": "3535765",
@@ -10420,7 +11002,8 @@ const ABERTURA_ASA_DATA = [
     "Frente": "105 - FRENTE CASSIO",
     "Responsável": "REGINALDO DA SILVA GOMES ",
     "Abertura da Asa": "52",
-    "Fazenda": "177003"
+    "Fazenda": "177003",
+    "Unnamed: 16": null
   },
   {
     "ID": "3535764",
@@ -10438,7 +11021,8 @@ const ABERTURA_ASA_DATA = [
     "Frente": "105 - FRENTE CASSIO",
     "Responsável": "REGINALDO DA SILVA GOMES ",
     "Abertura da Asa": "55",
-    "Fazenda": "177003"
+    "Fazenda": "177003",
+    "Unnamed: 16": null
   },
   {
     "ID": "3535734",
@@ -10456,7 +11040,8 @@ const ABERTURA_ASA_DATA = [
     "Frente": "142 - FRENTE BIDU",
     "Responsável": "MICHELI DE SOUZA SANTOS  ",
     "Abertura da Asa": "51",
-    "Fazenda": "224701"
+    "Fazenda": "224701",
+    "Unnamed: 16": null
   },
   {
     "ID": "3535733",
@@ -10474,7 +11059,8 @@ const ABERTURA_ASA_DATA = [
     "Frente": "142 - FRENTE BIDU",
     "Responsável": "MICHELI DE SOUZA SANTOS  ",
     "Abertura da Asa": "51",
-    "Fazenda": "224701"
+    "Fazenda": "224701",
+    "Unnamed: 16": null
   },
   {
     "ID": "3534101",
@@ -10492,7 +11078,8 @@ const ABERTURA_ASA_DATA = [
     "Frente": "143 - FRENTE CASSIO",
     "Responsável": "GABRIEL HENRIQUE MARTINS PEREIRA",
     "Abertura da Asa": "53",
-    "Fazenda": "142803"
+    "Fazenda": "142803",
+    "Unnamed: 16": null
   },
   {
     "ID": "3534100",
@@ -10510,7 +11097,8 @@ const ABERTURA_ASA_DATA = [
     "Frente": "143 - FRENTE CASSIO",
     "Responsável": "GABRIEL HENRIQUE MARTINS PEREIRA",
     "Abertura da Asa": "51",
-    "Fazenda": "142803"
+    "Fazenda": "142803",
+    "Unnamed: 16": null
   },
   {
     "ID": "3533630",
@@ -10528,7 +11116,8 @@ const ABERTURA_ASA_DATA = [
     "Frente": "105 - FRENTE CASSIO",
     "Responsável": "NILDA CLAUDINO [2510716]",
     "Abertura da Asa": "55",
-    "Fazenda": "31101"
+    "Fazenda": "31101",
+    "Unnamed: 16": null
   },
   {
     "ID": "3533629",
@@ -10546,7 +11135,8 @@ const ABERTURA_ASA_DATA = [
     "Frente": "105 - FRENTE CASSIO",
     "Responsável": "NILDA CLAUDINO [2510716]",
     "Abertura da Asa": "54",
-    "Fazenda": "31101"
+    "Fazenda": "31101",
+    "Unnamed: 16": null
   },
   {
     "ID": "3533628",
@@ -10564,7 +11154,8 @@ const ABERTURA_ASA_DATA = [
     "Frente": "105 - FRENTE CASSIO",
     "Responsável": "NILDA CLAUDINO [2510716]",
     "Abertura da Asa": "55",
-    "Fazenda": "31101"
+    "Fazenda": "31101",
+    "Unnamed: 16": null
   },
   {
     "ID": "3533627",
@@ -10582,7 +11173,8 @@ const ABERTURA_ASA_DATA = [
     "Frente": "105 - FRENTE CASSIO",
     "Responsável": "NILDA CLAUDINO [2510716]",
     "Abertura da Asa": "55",
-    "Fazenda": "31101"
+    "Fazenda": "31101",
+    "Unnamed: 16": null
   },
   {
     "ID": "3531938",
@@ -10600,7 +11192,8 @@ const ABERTURA_ASA_DATA = [
     "Frente": "143 - FRENTE CASSIO",
     "Responsável": "GABRIEL HENRIQUE MARTINS PEREIRA",
     "Abertura da Asa": "55",
-    "Fazenda": "48401"
+    "Fazenda": "48401",
+    "Unnamed: 16": null
   },
   {
     "ID": "3531937",
@@ -10618,7 +11211,8 @@ const ABERTURA_ASA_DATA = [
     "Frente": "143 - FRENTE CASSIO",
     "Responsável": "GABRIEL HENRIQUE MARTINS PEREIRA",
     "Abertura da Asa": "55",
-    "Fazenda": "48401"
+    "Fazenda": "48401",
+    "Unnamed: 16": null
   },
   {
     "ID": "3531936",
@@ -10636,7 +11230,8 @@ const ABERTURA_ASA_DATA = [
     "Frente": "143 - FRENTE CASSIO",
     "Responsável": "GABRIEL HENRIQUE MARTINS PEREIRA",
     "Abertura da Asa": "53",
-    "Fazenda": "48401"
+    "Fazenda": "48401",
+    "Unnamed: 16": null
   },
   {
     "ID": "3531935",
@@ -10654,7 +11249,8 @@ const ABERTURA_ASA_DATA = [
     "Frente": "143 - FRENTE CASSIO",
     "Responsável": "GABRIEL HENRIQUE MARTINS PEREIRA",
     "Abertura da Asa": "53",
-    "Fazenda": "48401"
+    "Fazenda": "48401",
+    "Unnamed: 16": null
   },
   {
     "ID": "3531771",
@@ -10672,7 +11268,8 @@ const ABERTURA_ASA_DATA = [
     "Frente": "142 - FRENTE BIDU",
     "Responsável": "MICHELI DE SOUZA SANTOS  ",
     "Abertura da Asa": "51",
-    "Fazenda": "224701"
+    "Fazenda": "224701",
+    "Unnamed: 16": null
   },
   {
     "ID": "3531770",
@@ -10690,7 +11287,8 @@ const ABERTURA_ASA_DATA = [
     "Frente": "142 - FRENTE BIDU",
     "Responsável": "MICHELI DE SOUZA SANTOS  ",
     "Abertura da Asa": "51",
-    "Fazenda": "224701"
+    "Fazenda": "224701",
+    "Unnamed: 16": null
   },
   {
     "ID": "3531769",
@@ -10708,7 +11306,8 @@ const ABERTURA_ASA_DATA = [
     "Frente": "142 - FRENTE BIDU",
     "Responsável": "MICHELI DE SOUZA SANTOS  ",
     "Abertura da Asa": "52",
-    "Fazenda": "224701"
+    "Fazenda": "224701",
+    "Unnamed: 16": null
   },
   {
     "ID": "3531768",
@@ -10726,7 +11325,8 @@ const ABERTURA_ASA_DATA = [
     "Frente": "142 - FRENTE BIDU",
     "Responsável": "MICHELI DE SOUZA SANTOS  ",
     "Abertura da Asa": "51",
-    "Fazenda": "224701"
+    "Fazenda": "224701",
+    "Unnamed: 16": null
   },
   {
     "ID": "3531326",
@@ -10744,7 +11344,8 @@ const ABERTURA_ASA_DATA = [
     "Frente": "139 - FRENTE MANEZÃO",
     "Responsável": "MICHELI DE SOUZA SANTOS  ",
     "Abertura da Asa": "52",
-    "Fazenda": "224905"
+    "Fazenda": "224905",
+    "Unnamed: 16": null
   },
   {
     "ID": "3531325",
@@ -10762,7 +11363,8 @@ const ABERTURA_ASA_DATA = [
     "Frente": "139 - FRENTE MANEZÃO",
     "Responsável": "MICHELI DE SOUZA SANTOS  ",
     "Abertura da Asa": "51",
-    "Fazenda": "224905"
+    "Fazenda": "224905",
+    "Unnamed: 16": null
   },
   {
     "ID": "3531324",
@@ -10780,7 +11382,8 @@ const ABERTURA_ASA_DATA = [
     "Frente": "139 - FRENTE MANEZÃO",
     "Responsável": "MICHELI DE SOUZA SANTOS  ",
     "Abertura da Asa": "51",
-    "Fazenda": "224905"
+    "Fazenda": "224905",
+    "Unnamed: 16": null
   },
   {
     "ID": "3531323",
@@ -10798,7 +11401,8 @@ const ABERTURA_ASA_DATA = [
     "Frente": "139 - FRENTE MANEZÃO",
     "Responsável": "MICHELI DE SOUZA SANTOS  ",
     "Abertura da Asa": "51",
-    "Fazenda": "224905"
+    "Fazenda": "224905",
+    "Unnamed: 16": null
   },
   {
     "ID": "3531224",
@@ -10816,7 +11420,8 @@ const ABERTURA_ASA_DATA = [
     "Frente": "105 - FRENTE CASSIO",
     "Responsável": "NILDA CLAUDINO [2510716]",
     "Abertura da Asa": "56",
-    "Fazenda": "31101"
+    "Fazenda": "31101",
+    "Unnamed: 16": null
   },
   {
     "ID": "3531223",
@@ -10834,7 +11439,8 @@ const ABERTURA_ASA_DATA = [
     "Frente": "105 - FRENTE CASSIO",
     "Responsável": "NILDA CLAUDINO [2510716]",
     "Abertura da Asa": "52",
-    "Fazenda": "31101"
+    "Fazenda": "31101",
+    "Unnamed: 16": null
   },
   {
     "ID": "3531222",
@@ -10852,7 +11458,8 @@ const ABERTURA_ASA_DATA = [
     "Frente": "105 - FRENTE CASSIO",
     "Responsável": "NILDA CLAUDINO [2510716]",
     "Abertura da Asa": "56",
-    "Fazenda": "31101"
+    "Fazenda": "31101",
+    "Unnamed: 16": null
   },
   {
     "ID": "3531221",
@@ -10870,7 +11477,8 @@ const ABERTURA_ASA_DATA = [
     "Frente": "105 - FRENTE CASSIO",
     "Responsável": "NILDA CLAUDINO [2510716]",
     "Abertura da Asa": "55",
-    "Fazenda": "31101"
+    "Fazenda": "31101",
+    "Unnamed: 16": null
   },
   {
     "ID": "3530162",
@@ -10888,7 +11496,8 @@ const ABERTURA_ASA_DATA = [
     "Frente": "135 - PEDRINHO ",
     "Responsável": "MARCELO DE OLIVEIRA JUNIOR",
     "Abertura da Asa": "59",
-    "Fazenda": "205301"
+    "Fazenda": "205301",
+    "Unnamed: 16": null
   },
   {
     "ID": "3530161",
@@ -10906,7 +11515,8 @@ const ABERTURA_ASA_DATA = [
     "Frente": "135 - PEDRINHO ",
     "Responsável": "MARCELO DE OLIVEIRA JUNIOR",
     "Abertura da Asa": "59",
-    "Fazenda": "205301"
+    "Fazenda": "205301",
+    "Unnamed: 16": null
   },
   {
     "ID": "3530158",
@@ -10924,7 +11534,8 @@ const ABERTURA_ASA_DATA = [
     "Frente": "135 - PEDRINHO ",
     "Responsável": "MARCELO DE OLIVEIRA JUNIOR",
     "Abertura da Asa": "59",
-    "Fazenda": "205301"
+    "Fazenda": "205301",
+    "Unnamed: 16": null
   },
   {
     "ID": "3530157",
@@ -10942,7 +11553,8 @@ const ABERTURA_ASA_DATA = [
     "Frente": "135 - PEDRINHO ",
     "Responsável": "MARCELO DE OLIVEIRA JUNIOR",
     "Abertura da Asa": "59",
-    "Fazenda": "205301"
+    "Fazenda": "205301",
+    "Unnamed: 16": null
   },
   {
     "ID": "3529696",
@@ -10960,7 +11572,8 @@ const ABERTURA_ASA_DATA = [
     "Frente": "142 - FRENTE BIDU",
     "Responsável": "FERNANDA DE SOUZA ",
     "Abertura da Asa": "52",
-    "Fazenda": "224701"
+    "Fazenda": "224701",
+    "Unnamed: 16": null
   },
   {
     "ID": "3529695",
@@ -10978,7 +11591,8 @@ const ABERTURA_ASA_DATA = [
     "Frente": "142 - FRENTE BIDU",
     "Responsável": "FERNANDA DE SOUZA ",
     "Abertura da Asa": "51",
-    "Fazenda": "224701"
+    "Fazenda": "224701",
+    "Unnamed: 16": null
   },
   {
     "ID": "3529694",
@@ -10996,7 +11610,8 @@ const ABERTURA_ASA_DATA = [
     "Frente": "142 - FRENTE BIDU",
     "Responsável": "FERNANDA DE SOUZA ",
     "Abertura da Asa": "53",
-    "Fazenda": "224701"
+    "Fazenda": "224701",
+    "Unnamed: 16": null
   },
   {
     "ID": "3529693",
@@ -11014,7 +11629,8 @@ const ABERTURA_ASA_DATA = [
     "Frente": "142 - FRENTE BIDU",
     "Responsável": "FERNANDA DE SOUZA ",
     "Abertura da Asa": "52",
-    "Fazenda": "224701"
+    "Fazenda": "224701",
+    "Unnamed: 16": null
   },
   {
     "ID": "3529883",
@@ -11032,7 +11648,8 @@ const ABERTURA_ASA_DATA = [
     "Frente": "291 - FRENTE PRÓPRIA ",
     "Responsável": "VITOR AMORIM RAMOS ",
     "Abertura da Asa": "52",
-    "Fazenda": "53201"
+    "Fazenda": "53201",
+    "Unnamed: 16": null
   },
   {
     "ID": "3529882",
@@ -11050,7 +11667,8 @@ const ABERTURA_ASA_DATA = [
     "Frente": "291 - FRENTE PRÓPRIA ",
     "Responsável": "VITOR AMORIM RAMOS ",
     "Abertura da Asa": "51",
-    "Fazenda": "53201"
+    "Fazenda": "53201",
+    "Unnamed: 16": null
   },
   {
     "ID": "3529881",
@@ -11068,7 +11686,8 @@ const ABERTURA_ASA_DATA = [
     "Frente": "291 - FRENTE PRÓPRIA ",
     "Responsável": "VITOR AMORIM RAMOS ",
     "Abertura da Asa": "52",
-    "Fazenda": "53201"
+    "Fazenda": "53201",
+    "Unnamed: 16": null
   },
   {
     "ID": "3530062",
@@ -11086,7 +11705,8 @@ const ABERTURA_ASA_DATA = [
     "Frente": "291 - FRENTE PRÓPRIA ",
     "Responsável": "VITOR AMORIM RAMOS ",
     "Abertura da Asa": "52",
-    "Fazenda": "53201"
+    "Fazenda": "53201",
+    "Unnamed: 16": null
   },
   {
     "ID": "3530061",
@@ -11104,7 +11724,8 @@ const ABERTURA_ASA_DATA = [
     "Frente": "261 - FRENTE PRÓPRIA  (EDMILSON)",
     "Responsável": "VITOR AMORIM RAMOS ",
     "Abertura da Asa": "51",
-    "Fazenda": "53201"
+    "Fazenda": "53201",
+    "Unnamed: 16": null
   },
   {
     "ID": "3530060",
@@ -11122,7 +11743,8 @@ const ABERTURA_ASA_DATA = [
     "Frente": "261 - FRENTE PRÓPRIA  (EDMILSON)",
     "Responsável": "VITOR AMORIM RAMOS ",
     "Abertura da Asa": "51",
-    "Fazenda": "53201"
+    "Fazenda": "53201",
+    "Unnamed: 16": null
   },
   {
     "ID": "3530059",
@@ -11140,7 +11762,8 @@ const ABERTURA_ASA_DATA = [
     "Frente": "261 - FRENTE PRÓPRIA  (EDMILSON)",
     "Responsável": "VITOR AMORIM RAMOS ",
     "Abertura da Asa": "52",
-    "Fazenda": "53201"
+    "Fazenda": "53201",
+    "Unnamed: 16": null
   },
   {
     "ID": "3530058",
@@ -11158,7 +11781,8 @@ const ABERTURA_ASA_DATA = [
     "Frente": "261 - FRENTE PRÓPRIA  (EDMILSON)",
     "Responsável": "VITOR AMORIM RAMOS ",
     "Abertura da Asa": "52",
-    "Fazenda": "53201"
+    "Fazenda": "53201",
+    "Unnamed: 16": null
   },
   {
     "ID": "3522549",
@@ -11176,7 +11800,8 @@ const ABERTURA_ASA_DATA = [
     "Frente": "135 - PEDRINHO ",
     "Responsável": "MICHELI DE SOUZA SANTOS  ",
     "Abertura da Asa": "50",
-    "Fazenda": "205302"
+    "Fazenda": "205302",
+    "Unnamed: 16": null
   },
   {
     "ID": "3522548",
@@ -11194,7 +11819,8 @@ const ABERTURA_ASA_DATA = [
     "Frente": "135 - PEDRINHO ",
     "Responsável": "MICHELI DE SOUZA SANTOS  ",
     "Abertura da Asa": "51",
-    "Fazenda": "205302"
+    "Fazenda": "205302",
+    "Unnamed: 16": null
   },
   {
     "ID": "3520542",
@@ -11212,7 +11838,8 @@ const ABERTURA_ASA_DATA = [
     "Frente": "142 - FRENTE BIDU",
     "Responsável": "FERNANDA DE SOUZA ",
     "Abertura da Asa": "52",
-    "Fazenda": "224701"
+    "Fazenda": "224701",
+    "Unnamed: 16": null
   },
   {
     "ID": "3520541",
@@ -11230,7 +11857,8 @@ const ABERTURA_ASA_DATA = [
     "Frente": "142 - FRENTE BIDU",
     "Responsável": "FERNANDA DE SOUZA ",
     "Abertura da Asa": "52",
-    "Fazenda": "224701"
+    "Fazenda": "224701",
+    "Unnamed: 16": null
   },
   {
     "ID": "3520671",
@@ -11248,7 +11876,8 @@ const ABERTURA_ASA_DATA = [
     "Frente": "142 - FRENTE BIDU",
     "Responsável": "REGINALDO DA SILVA GOMES ",
     "Abertura da Asa": "52",
-    "Fazenda": "224701"
+    "Fazenda": "224701",
+    "Unnamed: 16": null
   },
   {
     "ID": "3520672",
@@ -11266,7 +11895,8 @@ const ABERTURA_ASA_DATA = [
     "Frente": "142 - FRENTE BIDU",
     "Responsável": "REGINALDO DA SILVA GOMES ",
     "Abertura da Asa": "52",
-    "Fazenda": "224701"
+    "Fazenda": "224701",
+    "Unnamed: 16": null
   },
   {
     "ID": "3520668",
@@ -11284,7 +11914,8 @@ const ABERTURA_ASA_DATA = [
     "Frente": "142 - FRENTE BIDU",
     "Responsável": "REGINALDO DA SILVA GOMES ",
     "Abertura da Asa": "52",
-    "Fazenda": "224701"
+    "Fazenda": "224701",
+    "Unnamed: 16": null
   },
   {
     "ID": "3520667",
@@ -11302,7 +11933,8 @@ const ABERTURA_ASA_DATA = [
     "Frente": "142 - FRENTE BIDU",
     "Responsável": "REGINALDO DA SILVA GOMES ",
     "Abertura da Asa": "52",
-    "Fazenda": "224701"
+    "Fazenda": "224701",
+    "Unnamed: 16": null
   },
   {
     "ID": "3520538",
@@ -11320,7 +11952,8 @@ const ABERTURA_ASA_DATA = [
     "Frente": "142 - FRENTE BIDU",
     "Responsável": "FERNANDA DE SOUZA ",
     "Abertura da Asa": "52",
-    "Fazenda": "224701"
+    "Fazenda": "224701",
+    "Unnamed: 16": null
   },
   {
     "ID": "3520537",
@@ -11338,7 +11971,8 @@ const ABERTURA_ASA_DATA = [
     "Frente": "142 - FRENTE BIDU",
     "Responsável": "FERNANDA DE SOUZA ",
     "Abertura da Asa": "52",
-    "Fazenda": "224701"
+    "Fazenda": "224701",
+    "Unnamed: 16": null
   },
   {
     "ID": "3520180",
@@ -11356,7 +11990,8 @@ const ABERTURA_ASA_DATA = [
     "Frente": "105 - FRENTE CASSIO",
     "Responsável": "NILDA CLAUDINO [2510716]",
     "Abertura da Asa": "55",
-    "Fazenda": "220407"
+    "Fazenda": "220407",
+    "Unnamed: 16": null
   },
   {
     "ID": "3520179",
@@ -11374,7 +12009,8 @@ const ABERTURA_ASA_DATA = [
     "Frente": "105 - FRENTE CASSIO",
     "Responsável": "NILDA CLAUDINO [2510716]",
     "Abertura da Asa": "55",
-    "Fazenda": "220407"
+    "Fazenda": "220407",
+    "Unnamed: 16": null
   },
   {
     "ID": "3520178",
@@ -11392,7 +12028,8 @@ const ABERTURA_ASA_DATA = [
     "Frente": "105 - FRENTE CASSIO",
     "Responsável": "NILDA CLAUDINO [2510716]",
     "Abertura da Asa": "56",
-    "Fazenda": "220407"
+    "Fazenda": "220407",
+    "Unnamed: 16": null
   },
   {
     "ID": "3520177",
@@ -11410,7 +12047,8 @@ const ABERTURA_ASA_DATA = [
     "Frente": "105 - FRENTE CASSIO",
     "Responsável": "NILDA CLAUDINO [2510716]",
     "Abertura da Asa": "55",
-    "Fazenda": "220407"
+    "Fazenda": "220407",
+    "Unnamed: 16": null
   },
   {
     "ID": "3519084",
@@ -11428,7 +12066,8 @@ const ABERTURA_ASA_DATA = [
     "Frente": "135 - PEDRINHO ",
     "Responsável": "MARCELO DE OLIVEIRA JUNIOR",
     "Abertura da Asa": "51",
-    "Fazenda": "41801"
+    "Fazenda": "41801",
+    "Unnamed: 16": null
   },
   {
     "ID": "3518629",
@@ -11446,7 +12085,8 @@ const ABERTURA_ASA_DATA = [
     "Frente": "139 - FRENTE MANEZÃO",
     "Responsável": "MICHELI DE SOUZA SANTOS  ",
     "Abertura da Asa": "53",
-    "Fazenda": "41701"
+    "Fazenda": "41701",
+    "Unnamed: 16": null
   },
   {
     "ID": "3518626",
@@ -11464,7 +12104,8 @@ const ABERTURA_ASA_DATA = [
     "Frente": "139 - FRENTE MANEZÃO",
     "Responsável": "MICHELI DE SOUZA SANTOS  ",
     "Abertura da Asa": "52",
-    "Fazenda": "41701"
+    "Fazenda": "41701",
+    "Unnamed: 16": null
   },
   {
     "ID": "3518990",
@@ -11482,7 +12123,8 @@ const ABERTURA_ASA_DATA = [
     "Frente": "135 - PEDRINHO ",
     "Responsável": "MARCELO DE OLIVEIRA JUNIOR",
     "Abertura da Asa": "51",
-    "Fazenda": "41901"
+    "Fazenda": "41901",
+    "Unnamed: 16": null
   },
   {
     "ID": "3518327",
@@ -11500,7 +12142,8 @@ const ABERTURA_ASA_DATA = [
     "Frente": "261 - FRENTE PRÓPRIA  (EDMILSON)",
     "Responsável": "VITOR AMORIM RAMOS ",
     "Abertura da Asa": "52",
-    "Fazenda": "53201"
+    "Fazenda": "53201",
+    "Unnamed: 16": null
   },
   {
     "ID": "3518326",
@@ -11518,7 +12161,8 @@ const ABERTURA_ASA_DATA = [
     "Frente": "261 - FRENTE PRÓPRIA  (EDMILSON)",
     "Responsável": "VITOR AMORIM RAMOS ",
     "Abertura da Asa": "51",
-    "Fazenda": "53201"
+    "Fazenda": "53201",
+    "Unnamed: 16": null
   },
   {
     "ID": "3518305",
@@ -11536,7 +12180,8 @@ const ABERTURA_ASA_DATA = [
     "Frente": "105 - FRENTE CASSIO",
     "Responsável": "NILDA CLAUDINO [2510716]",
     "Abertura da Asa": "54",
-    "Fazenda": "136901"
+    "Fazenda": "136901",
+    "Unnamed: 16": null
   },
   {
     "ID": "3518304",
@@ -11554,7 +12199,8 @@ const ABERTURA_ASA_DATA = [
     "Frente": "105 - FRENTE CASSIO",
     "Responsável": "NILDA CLAUDINO [2510716]",
     "Abertura da Asa": "55",
-    "Fazenda": "136901"
+    "Fazenda": "136901",
+    "Unnamed: 16": null
   },
   {
     "ID": "3518303",
@@ -11572,7 +12218,8 @@ const ABERTURA_ASA_DATA = [
     "Frente": "105 - FRENTE CASSIO",
     "Responsável": "NILDA CLAUDINO [2510716]",
     "Abertura da Asa": "56",
-    "Fazenda": "136901"
+    "Fazenda": "136901",
+    "Unnamed: 16": null
   },
   {
     "ID": "3518302",
@@ -11590,7 +12237,8 @@ const ABERTURA_ASA_DATA = [
     "Frente": "105 - FRENTE CASSIO",
     "Responsável": "NILDA CLAUDINO [2510716]",
     "Abertura da Asa": "55",
-    "Fazenda": "136901"
+    "Fazenda": "136901",
+    "Unnamed: 16": null
   },
   {
     "ID": "3518092",
@@ -11608,7 +12256,8 @@ const ABERTURA_ASA_DATA = [
     "Frente": "143 - FRENTE CASSIO",
     "Responsável": "GABRIEL HENRIQUE MARTINS PEREIRA",
     "Abertura da Asa": "56",
-    "Fazenda": "202804"
+    "Fazenda": "202804",
+    "Unnamed: 16": null
   },
   {
     "ID": "3518085",
@@ -11626,7 +12275,8 @@ const ABERTURA_ASA_DATA = [
     "Frente": "143 - FRENTE CASSIO",
     "Responsável": "GABRIEL HENRIQUE MARTINS PEREIRA",
     "Abertura da Asa": "53",
-    "Fazenda": "202804"
+    "Fazenda": "202804",
+    "Unnamed: 16": null
   },
   {
     "ID": "3516616",
@@ -11644,7 +12294,8 @@ const ABERTURA_ASA_DATA = [
     "Frente": "135 - PEDRINHO ",
     "Responsável": "MARCELO DE OLIVEIRA JUNIOR",
     "Abertura da Asa": "51",
-    "Fazenda": "41701"
+    "Fazenda": "41701",
+    "Unnamed: 16": null
   },
   {
     "ID": "3516359",
@@ -11662,7 +12313,8 @@ const ABERTURA_ASA_DATA = [
     "Frente": "139 - FRENTE MANEZÃO",
     "Responsável": "MICHELI DE SOUZA SANTOS  ",
     "Abertura da Asa": "52",
-    "Fazenda": "41701"
+    "Fazenda": "41701",
+    "Unnamed: 16": null
   },
   {
     "ID": "3516224",
@@ -11680,7 +12332,8 @@ const ABERTURA_ASA_DATA = [
     "Frente": "143 - FRENTE CASSIO",
     "Responsável": "GABRIEL HENRIQUE MARTINS PEREIRA",
     "Abertura da Asa": "54",
-    "Fazenda": "202804"
+    "Fazenda": "202804",
+    "Unnamed: 16": null
   },
   {
     "ID": "3516358",
@@ -11698,7 +12351,8 @@ const ABERTURA_ASA_DATA = [
     "Frente": "139 - FRENTE MANEZÃO",
     "Responsável": "MICHELI DE SOUZA SANTOS  ",
     "Abertura da Asa": "50",
-    "Fazenda": "41701"
+    "Fazenda": "41701",
+    "Unnamed: 16": null
   },
   {
     "ID": "3516357",
@@ -11716,7 +12370,8 @@ const ABERTURA_ASA_DATA = [
     "Frente": "139 - FRENTE MANEZÃO",
     "Responsável": "MICHELI DE SOUZA SANTOS  ",
     "Abertura da Asa": "52",
-    "Fazenda": "41701"
+    "Fazenda": "41701",
+    "Unnamed: 16": null
   },
   {
     "ID": "3516356",
@@ -11734,7 +12389,8 @@ const ABERTURA_ASA_DATA = [
     "Frente": "139 - FRENTE MANEZÃO",
     "Responsável": "MICHELI DE SOUZA SANTOS  ",
     "Abertura da Asa": "51",
-    "Fazenda": "41701"
+    "Fazenda": "41701",
+    "Unnamed: 16": null
   },
   {
     "ID": "3516223",
@@ -11752,7 +12408,8 @@ const ABERTURA_ASA_DATA = [
     "Frente": "143 - FRENTE CASSIO",
     "Responsável": "GABRIEL HENRIQUE MARTINS PEREIRA",
     "Abertura da Asa": "56",
-    "Fazenda": "202804"
+    "Fazenda": "202804",
+    "Unnamed: 16": null
   },
   {
     "ID": "3516211",
@@ -11770,7 +12427,8 @@ const ABERTURA_ASA_DATA = [
     "Frente": "143 - FRENTE CASSIO",
     "Responsável": "GABRIEL HENRIQUE MARTINS PEREIRA",
     "Abertura da Asa": "52",
-    "Fazenda": "202804"
+    "Fazenda": "202804",
+    "Unnamed: 16": null
   },
   {
     "ID": "3516231",
@@ -11788,7 +12446,8 @@ const ABERTURA_ASA_DATA = [
     "Frente": "143 - FRENTE CASSIO",
     "Responsável": "GABRIEL HENRIQUE MARTINS PEREIRA",
     "Abertura da Asa": "53",
-    "Fazenda": "202804"
+    "Fazenda": "202804",
+    "Unnamed: 16": null
   },
   {
     "ID": "3515821",
@@ -11806,7 +12465,8 @@ const ABERTURA_ASA_DATA = [
     "Frente": "105 - FRENTE CASSIO",
     "Responsável": "REGINALDO DA SILVA GOMES ",
     "Abertura da Asa": "56",
-    "Fazenda": "136901"
+    "Fazenda": "136901",
+    "Unnamed: 16": null
   },
   {
     "ID": "3515820",
@@ -11824,7 +12484,8 @@ const ABERTURA_ASA_DATA = [
     "Frente": "105 - FRENTE CASSIO",
     "Responsável": "REGINALDO DA SILVA GOMES ",
     "Abertura da Asa": "55",
-    "Fazenda": "136901"
+    "Fazenda": "136901",
+    "Unnamed: 16": null
   },
   {
     "ID": "3515819",
@@ -11842,7 +12503,8 @@ const ABERTURA_ASA_DATA = [
     "Frente": "105 - FRENTE CASSIO",
     "Responsável": "REGINALDO DA SILVA GOMES ",
     "Abertura da Asa": "53",
-    "Fazenda": "136901"
+    "Fazenda": "136901",
+    "Unnamed: 16": null
   },
   {
     "ID": "3515818",
@@ -11860,7 +12522,8 @@ const ABERTURA_ASA_DATA = [
     "Frente": "105 - FRENTE CASSIO",
     "Responsável": "REGINALDO DA SILVA GOMES ",
     "Abertura da Asa": "53",
-    "Fazenda": "136901"
+    "Fazenda": "136901",
+    "Unnamed: 16": null
   },
   {
     "ID": "3516555",
@@ -11878,7 +12541,8 @@ const ABERTURA_ASA_DATA = [
     "Frente": "135 - PEDRINHO ",
     "Responsável": "MARCELO DE OLIVEIRA JUNIOR",
     "Abertura da Asa": "51",
-    "Fazenda": "250703"
+    "Fazenda": "250703",
+    "Unnamed: 16": null
   },
   {
     "ID": "3513875",
@@ -11896,7 +12560,8 @@ const ABERTURA_ASA_DATA = [
     "Frente": "139 - FRENTE MANEZÃO",
     "Responsável": "MICHELI DE SOUZA SANTOS  ",
     "Abertura da Asa": "54",
-    "Fazenda": "41701"
+    "Fazenda": "41701",
+    "Unnamed: 16": null
   },
   {
     "ID": "3513874",
@@ -11914,7 +12579,8 @@ const ABERTURA_ASA_DATA = [
     "Frente": "139 - FRENTE MANEZÃO",
     "Responsável": "MICHELI DE SOUZA SANTOS  ",
     "Abertura da Asa": "50",
-    "Fazenda": "41701"
+    "Fazenda": "41701",
+    "Unnamed: 16": null
   },
   {
     "ID": "3513914",
@@ -11932,7 +12598,8 @@ const ABERTURA_ASA_DATA = [
     "Frente": "105 - FRENTE CASSIO",
     "Responsável": "NILDA CLAUDINO [2510716]",
     "Abertura da Asa": "55",
-    "Fazenda": "136901"
+    "Fazenda": "136901",
+    "Unnamed: 16": null
   },
   {
     "ID": "3513918",
@@ -11950,7 +12617,8 @@ const ABERTURA_ASA_DATA = [
     "Frente": "105 - FRENTE CASSIO",
     "Responsável": "NILDA CLAUDINO [2510716]",
     "Abertura da Asa": "54",
-    "Fazenda": "136901"
+    "Fazenda": "136901",
+    "Unnamed: 16": null
   },
   {
     "ID": "3513910",
@@ -11968,7 +12636,8 @@ const ABERTURA_ASA_DATA = [
     "Frente": "105 - FRENTE CASSIO",
     "Responsável": "NILDA CLAUDINO [2510716]",
     "Abertura da Asa": "55",
-    "Fazenda": "136901"
+    "Fazenda": "136901",
+    "Unnamed: 16": null
   },
   {
     "ID": "3513909",
@@ -11986,7 +12655,8 @@ const ABERTURA_ASA_DATA = [
     "Frente": "105 - FRENTE CASSIO (ZACARIAS)",
     "Responsável": "NILDA CLAUDINO [2510716]",
     "Abertura da Asa": "56",
-    "Fazenda": "136901"
+    "Fazenda": "136901",
+    "Unnamed: 16": null
   },
   {
     "ID": "3513631",
@@ -12004,7 +12674,8 @@ const ABERTURA_ASA_DATA = [
     "Frente": "142 - FRENTE BIDU",
     "Responsável": "VITOR AMORIM RAMOS ",
     "Abertura da Asa": "52",
-    "Fazenda": "253611"
+    "Fazenda": "253611",
+    "Unnamed: 16": null
   },
   {
     "ID": "3513630",
@@ -12022,7 +12693,8 @@ const ABERTURA_ASA_DATA = [
     "Frente": "142 - FRENTE BIDU",
     "Responsável": "VITOR AMORIM RAMOS ",
     "Abertura da Asa": "52",
-    "Fazenda": "253611"
+    "Fazenda": "253611",
+    "Unnamed: 16": null
   },
   {
     "ID": "3513629",
@@ -12040,7 +12712,8 @@ const ABERTURA_ASA_DATA = [
     "Frente": "142 - FRENTE BIDU",
     "Responsável": "VITOR AMORIM RAMOS ",
     "Abertura da Asa": "52",
-    "Fazenda": "253611"
+    "Fazenda": "253611",
+    "Unnamed: 16": null
   },
   {
     "ID": "3513628",
@@ -12058,7 +12731,8 @@ const ABERTURA_ASA_DATA = [
     "Frente": "142 - FRENTE BIDU",
     "Responsável": "VITOR AMORIM RAMOS ",
     "Abertura da Asa": "52",
-    "Fazenda": "253611"
+    "Fazenda": "253611",
+    "Unnamed: 16": null
   },
   {
     "ID": "3513532",
@@ -12076,7 +12750,8 @@ const ABERTURA_ASA_DATA = [
     "Frente": "139 - Manezão",
     "Responsável": "MICHELI DE SOUZA SANTOS  ",
     "Abertura da Asa": "51",
-    "Fazenda": "41701"
+    "Fazenda": "41701",
+    "Unnamed: 16": null
   },
   {
     "ID": "3513533",
@@ -12094,7 +12769,8 @@ const ABERTURA_ASA_DATA = [
     "Frente": "139 - FRENTE MANEZÃO",
     "Responsável": "MICHELI DE SOUZA SANTOS  ",
     "Abertura da Asa": "52",
-    "Fazenda": "41701"
+    "Fazenda": "41701",
+    "Unnamed: 16": null
   },
   {
     "ID": "3513459",
@@ -12112,7 +12788,8 @@ const ABERTURA_ASA_DATA = [
     "Frente": "261 - FRENTE PRÓPRIA  (EDMILSON)",
     "Responsável": "FERNANDA DE SOUZA ",
     "Abertura da Asa": "52",
-    "Fazenda": "53201"
+    "Fazenda": "53201",
+    "Unnamed: 16": null
   },
   {
     "ID": "3513458",
@@ -12130,7 +12807,8 @@ const ABERTURA_ASA_DATA = [
     "Frente": "261 - FRENTE PRÓPRIA  (EDMILSON)",
     "Responsável": "FERNANDA DE SOUZA ",
     "Abertura da Asa": "52",
-    "Fazenda": "53201"
+    "Fazenda": "53201",
+    "Unnamed: 16": null
   },
   {
     "ID": "3514178",
@@ -12148,7 +12826,8 @@ const ABERTURA_ASA_DATA = [
     "Frente": "135 - PEDRINHO ",
     "Responsável": "MARCELO DE OLIVEIRA JUNIOR",
     "Abertura da Asa": "51",
-    "Fazenda": "37347"
+    "Fazenda": "37347",
+    "Unnamed: 16": null
   },
   {
     "ID": "3511641",
@@ -12166,7 +12845,8 @@ const ABERTURA_ASA_DATA = [
     "Frente": "139 - FRENTE MANEZÃO",
     "Responsável": "MICHELI DE SOUZA SANTOS  ",
     "Abertura da Asa": "52",
-    "Fazenda": "41701"
+    "Fazenda": "41701",
+    "Unnamed: 16": null
   },
   {
     "ID": "3511638",
@@ -12184,7 +12864,8 @@ const ABERTURA_ASA_DATA = [
     "Frente": "139 - FRENTE MANEZÃO",
     "Responsável": "MICHELI DE SOUZA SANTOS  ",
     "Abertura da Asa": "52",
-    "Fazenda": "41701"
+    "Fazenda": "41701",
+    "Unnamed: 16": null
   },
   {
     "ID": "3511637",
@@ -12202,7 +12883,8 @@ const ABERTURA_ASA_DATA = [
     "Frente": "139 - FRENTE MANEZÃO",
     "Responsável": "MICHELI DE SOUZA SANTOS  ",
     "Abertura da Asa": "54",
-    "Fazenda": "41701"
+    "Fazenda": "41701",
+    "Unnamed: 16": null
   },
   {
     "ID": "3511636",
@@ -12220,7 +12902,8 @@ const ABERTURA_ASA_DATA = [
     "Frente": "139 - FRENTE MANEZÃO",
     "Responsável": "MICHELI DE SOUZA SANTOS  ",
     "Abertura da Asa": "54",
-    "Fazenda": "41701"
+    "Fazenda": "41701",
+    "Unnamed: 16": null
   },
   {
     "ID": "3511684",
@@ -12238,7 +12921,8 @@ const ABERTURA_ASA_DATA = [
     "Frente": "142 - FRENTE BIDU",
     "Responsável": "VITOR AMORIM RAMOS ",
     "Abertura da Asa": "56",
-    "Fazenda": "37340"
+    "Fazenda": "37340",
+    "Unnamed: 16": null
   },
   {
     "ID": "3511683",
@@ -12256,7 +12940,8 @@ const ABERTURA_ASA_DATA = [
     "Frente": "142 - FRENTE BIDU",
     "Responsável": "VITOR AMORIM RAMOS ",
     "Abertura da Asa": "56",
-    "Fazenda": "37340"
+    "Fazenda": "37340",
+    "Unnamed: 16": null
   },
   {
     "ID": "3511682",
@@ -12274,7 +12959,8 @@ const ABERTURA_ASA_DATA = [
     "Frente": "142 - FRENTE BIDU",
     "Responsável": "VITOR AMORIM RAMOS ",
     "Abertura da Asa": "56",
-    "Fazenda": "37341"
+    "Fazenda": "37341",
+    "Unnamed: 16": null
   },
   {
     "ID": "3511681",
@@ -12292,7 +12978,8 @@ const ABERTURA_ASA_DATA = [
     "Frente": "142 - FRENTE BIDU",
     "Responsável": "VITOR AMORIM RAMOS ",
     "Abertura da Asa": "56",
-    "Fazenda": "37341"
+    "Fazenda": "37341",
+    "Unnamed: 16": null
   },
   {
     "ID": "3511680",
@@ -12310,7 +12997,8 @@ const ABERTURA_ASA_DATA = [
     "Frente": "142 - FRENTE BIDU",
     "Responsável": "VITOR AMORIM RAMOS ",
     "Abertura da Asa": "56",
-    "Fazenda": "37339"
+    "Fazenda": "37339",
+    "Unnamed: 16": null
   },
   {
     "ID": "3511679",
@@ -12328,7 +13016,8 @@ const ABERTURA_ASA_DATA = [
     "Frente": "142 - FRENTE BIDU",
     "Responsável": "VITOR AMORIM RAMOS ",
     "Abertura da Asa": "56",
-    "Fazenda": "37339"
+    "Fazenda": "37339",
+    "Unnamed: 16": null
   },
   {
     "ID": "3512305",
@@ -12346,7 +13035,8 @@ const ABERTURA_ASA_DATA = [
     "Frente": "135 - PEDRINHO ",
     "Responsável": "MARCELO DE OLIVEIRA JUNIOR",
     "Abertura da Asa": "51",
-    "Fazenda": "141401"
+    "Fazenda": "141401",
+    "Unnamed: 16": null
   },
   {
     "ID": "3512304",
@@ -12364,7 +13054,8 @@ const ABERTURA_ASA_DATA = [
     "Frente": "135 - PEDRINHO ",
     "Responsável": "MARCELO DE OLIVEIRA JUNIOR",
     "Abertura da Asa": "51",
-    "Fazenda": "141401"
+    "Fazenda": "141401",
+    "Unnamed: 16": null
   },
   {
     "ID": "3511785",
@@ -12382,7 +13073,8 @@ const ABERTURA_ASA_DATA = [
     "Frente": "143 - FRENTE CASSIO",
     "Responsável": "GABRIEL HENRIQUE MARTINS PEREIRA",
     "Abertura da Asa": "53",
-    "Fazenda": "37342"
+    "Fazenda": "37342",
+    "Unnamed: 16": null
   },
   {
     "ID": "3511784",
@@ -12400,7 +13092,8 @@ const ABERTURA_ASA_DATA = [
     "Frente": "143 - FRENTE CASSIO",
     "Responsável": "GABRIEL HENRIQUE MARTINS PEREIRA",
     "Abertura da Asa": "52",
-    "Fazenda": "37342"
+    "Fazenda": "37342",
+    "Unnamed: 16": null
   },
   {
     "ID": "3511783",
@@ -12418,7 +13111,8 @@ const ABERTURA_ASA_DATA = [
     "Frente": "143 - FRENTE CASSIO",
     "Responsável": "GABRIEL HENRIQUE MARTINS PEREIRA",
     "Abertura da Asa": "53",
-    "Fazenda": "37342"
+    "Fazenda": "37342",
+    "Unnamed: 16": null
   },
   {
     "ID": "3511825",
@@ -12436,7 +13130,8 @@ const ABERTURA_ASA_DATA = [
     "Frente": "143 - FRENTE CASSIO",
     "Responsável": "GABRIEL HENRIQUE MARTINS PEREIRA",
     "Abertura da Asa": "52",
-    "Fazenda": "37342"
+    "Fazenda": "37342",
+    "Unnamed: 16": null
   },
   {
     "ID": "3509331",
@@ -12454,7 +13149,8 @@ const ABERTURA_ASA_DATA = [
     "Frente": "105 - FRENTE CASSIO",
     "Responsável": "NILDA CLAUDINO [2510716]",
     "Abertura da Asa": "55",
-    "Fazenda": "71001"
+    "Fazenda": "71001",
+    "Unnamed: 16": null
   },
   {
     "ID": "3509328",
@@ -12472,7 +13168,8 @@ const ABERTURA_ASA_DATA = [
     "Frente": "105 - FRENTE CASSIO (ZACARIAS)",
     "Responsável": "NILDA CLAUDINO [2510716]",
     "Abertura da Asa": "54",
-    "Fazenda": "71001"
+    "Fazenda": "71001",
+    "Unnamed: 16": null
   },
   {
     "ID": "3509329",
@@ -12490,7 +13187,8 @@ const ABERTURA_ASA_DATA = [
     "Frente": "105 - FRENTE CASSIO (ZACARIAS)",
     "Responsável": "NILDA CLAUDINO [2510716]",
     "Abertura da Asa": "56",
-    "Fazenda": "71001"
+    "Fazenda": "71001",
+    "Unnamed: 16": null
   },
   {
     "ID": "3509330",
@@ -12508,7 +13206,8 @@ const ABERTURA_ASA_DATA = [
     "Frente": "105 - FRENTE CASSIO",
     "Responsável": "NILDA CLAUDINO [2510716]",
     "Abertura da Asa": "56",
-    "Fazenda": "71001"
+    "Fazenda": "71001",
+    "Unnamed: 16": null
   },
   {
     "ID": "3509619",
@@ -12526,7 +13225,8 @@ const ABERTURA_ASA_DATA = [
     "Frente": "139 - FRENTE MANEZÃO",
     "Responsável": "FERNANDA DE SOUZA ",
     "Abertura da Asa": "53",
-    "Fazenda": "35001"
+    "Fazenda": "35001",
+    "Unnamed: 16": null
   },
   {
     "ID": "3509618",
@@ -12544,7 +13244,8 @@ const ABERTURA_ASA_DATA = [
     "Frente": "139 - FRENTE MANEZÃO",
     "Responsável": "FERNANDA DE SOUZA ",
     "Abertura da Asa": "53",
-    "Fazenda": "35001"
+    "Fazenda": "35001",
+    "Unnamed: 16": null
   },
   {
     "ID": "3507650",
@@ -12562,7 +13263,8 @@ const ABERTURA_ASA_DATA = [
     "Frente": "135 - PEDRINHO ",
     "Responsável": "MARCELO DE OLIVEIRA JUNIOR",
     "Abertura da Asa": "51",
-    "Fazenda": "37344"
+    "Fazenda": "37344",
+    "Unnamed: 16": null
   },
   {
     "ID": "3507649",
@@ -12580,7 +13282,8 @@ const ABERTURA_ASA_DATA = [
     "Frente": "135 - PEDRINHO ",
     "Responsável": "MARCELO DE OLIVEIRA JUNIOR",
     "Abertura da Asa": "51",
-    "Fazenda": "37344"
+    "Fazenda": "37344",
+    "Unnamed: 16": null
   },
   {
     "ID": "3507648",
@@ -12598,7 +13301,8 @@ const ABERTURA_ASA_DATA = [
     "Frente": "135 - PEDRINHO ",
     "Responsável": "MARCELO DE OLIVEIRA JUNIOR",
     "Abertura da Asa": "51",
-    "Fazenda": "37344"
+    "Fazenda": "37344",
+    "Unnamed: 16": null
   },
   {
     "ID": "3507647",
@@ -12616,7 +13320,8 @@ const ABERTURA_ASA_DATA = [
     "Frente": "135 - PEDRINHO ",
     "Responsável": "MARCELO DE OLIVEIRA JUNIOR",
     "Abertura da Asa": "51",
-    "Fazenda": "37344"
+    "Fazenda": "37344",
+    "Unnamed: 16": null
   },
   {
     "ID": "3507631",
@@ -12634,7 +13339,8 @@ const ABERTURA_ASA_DATA = [
     "Frente": "139 - FRENTE MANEZÃO",
     "Responsável": "FERNANDA DE SOUZA ",
     "Abertura da Asa": "53",
-    "Fazenda": "35001"
+    "Fazenda": "35001",
+    "Unnamed: 16": null
   },
   {
     "ID": "3507632",
@@ -12652,7 +13358,8 @@ const ABERTURA_ASA_DATA = [
     "Frente": "139 - FRENTE MANEZÃO",
     "Responsável": "FERNANDA DE SOUZA ",
     "Abertura da Asa": "53",
-    "Fazenda": "35001"
+    "Fazenda": "35001",
+    "Unnamed: 16": null
   },
   {
     "ID": "3507591",
@@ -12670,7 +13377,8 @@ const ABERTURA_ASA_DATA = [
     "Frente": "105 - FRENTE CASSIO (ZACARIAS)",
     "Responsável": "GABRIEL HENRIQUE MARTINS PEREIRA",
     "Abertura da Asa": "52",
-    "Fazenda": "37359"
+    "Fazenda": "37359",
+    "Unnamed: 16": null
   },
   {
     "ID": "3507606",
@@ -12688,7 +13396,8 @@ const ABERTURA_ASA_DATA = [
     "Frente": "105 - FRENTE CASSIO (ZACARIAS)",
     "Responsável": "GABRIEL HENRIQUE MARTINS PEREIRA",
     "Abertura da Asa": "53",
-    "Fazenda": "37359"
+    "Fazenda": "37359",
+    "Unnamed: 16": null
   },
   {
     "ID": "3507588",
@@ -12706,7 +13415,8 @@ const ABERTURA_ASA_DATA = [
     "Frente": "105 - FRENTE CASSIO (ZACARIAS)",
     "Responsável": "GABRIEL HENRIQUE MARTINS PEREIRA",
     "Abertura da Asa": "52",
-    "Fazenda": "37359"
+    "Fazenda": "37359",
+    "Unnamed: 16": null
   },
   {
     "ID": "3507605",
@@ -12724,7 +13434,8 @@ const ABERTURA_ASA_DATA = [
     "Frente": "105 - FRENTE CASSIO (ZACARIAS)",
     "Responsável": "GABRIEL HENRIQUE MARTINS PEREIRA",
     "Abertura da Asa": "53",
-    "Fazenda": "37359"
+    "Fazenda": "37359",
+    "Unnamed: 16": null
   },
   {
     "ID": "3498671",
@@ -12742,7 +13453,8 @@ const ABERTURA_ASA_DATA = [
     "Frente": "135 - PEDRINHO ",
     "Responsável": "MARCELO DE OLIVEIRA JUNIOR",
     "Abertura da Asa": "51",
-    "Fazenda": "37348"
+    "Fazenda": "37348",
+    "Unnamed: 16": null
   },
   {
     "ID": "3498670",
@@ -12760,7 +13472,8 @@ const ABERTURA_ASA_DATA = [
     "Frente": "135 - PEDRINHO ",
     "Responsável": "MARCELO DE OLIVEIRA JUNIOR",
     "Abertura da Asa": "51",
-    "Fazenda": "37349"
+    "Fazenda": "37349",
+    "Unnamed: 16": null
   },
   {
     "ID": "3498571",
@@ -12778,7 +13491,8 @@ const ABERTURA_ASA_DATA = [
     "Frente": "139 - FRENTE MANEZÃO",
     "Responsável": "FERNANDA DE SOUZA ",
     "Abertura da Asa": "52",
-    "Fazenda": "35001"
+    "Fazenda": "35001",
+    "Unnamed: 16": null
   },
   {
     "ID": "3498570",
@@ -12796,7 +13510,8 @@ const ABERTURA_ASA_DATA = [
     "Frente": "139 - FRENTE MANEZÃO",
     "Responsável": "FERNANDA DE SOUZA ",
     "Abertura da Asa": "52",
-    "Fazenda": "35001"
+    "Fazenda": "35001",
+    "Unnamed: 16": null
   },
   {
     "ID": "3498569",
@@ -12814,7 +13529,8 @@ const ABERTURA_ASA_DATA = [
     "Frente": "139 - FRENTE MANEZÃO",
     "Responsável": "FERNANDA DE SOUZA ",
     "Abertura da Asa": "53",
-    "Fazenda": "35001"
+    "Fazenda": "35001",
+    "Unnamed: 16": null
   },
   {
     "ID": "3498568",
@@ -12832,7 +13548,8 @@ const ABERTURA_ASA_DATA = [
     "Frente": "139 - FRENTE MANEZÃO",
     "Responsável": "FERNANDA DE SOUZA ",
     "Abertura da Asa": "52",
-    "Fazenda": "35001"
+    "Fazenda": "35001",
+    "Unnamed: 16": null
   },
   {
     "ID": "3496818",
@@ -12850,7 +13567,8 @@ const ABERTURA_ASA_DATA = [
     "Frente": "135 - PEDRINHO ",
     "Responsável": "MARCELO DE OLIVEIRA JUNIOR",
     "Abertura da Asa": "51",
-    "Fazenda": "37320"
+    "Fazenda": "37320",
+    "Unnamed: 16": null
   },
   {
     "ID": "3496819",
@@ -12868,7 +13586,8 @@ const ABERTURA_ASA_DATA = [
     "Frente": "135 - PEDRINHO ",
     "Responsável": "MARCELO DE OLIVEIRA JUNIOR",
     "Abertura da Asa": "51",
-    "Fazenda": "37320"
+    "Fazenda": "37320",
+    "Unnamed: 16": null
   },
   {
     "ID": "3496817",
@@ -12886,7 +13605,8 @@ const ABERTURA_ASA_DATA = [
     "Frente": "135 - PEDRINHO ",
     "Responsável": "MARCELO DE OLIVEIRA JUNIOR",
     "Abertura da Asa": "51",
-    "Fazenda": "37320"
+    "Fazenda": "37320",
+    "Unnamed: 16": null
   },
   {
     "ID": "3496816",
@@ -12904,7 +13624,8 @@ const ABERTURA_ASA_DATA = [
     "Frente": "135 - PEDRINHO ",
     "Responsável": "MARCELO DE OLIVEIRA JUNIOR",
     "Abertura da Asa": "51",
-    "Fazenda": "37320"
+    "Fazenda": "37320",
+    "Unnamed: 16": null
   },
   {
     "ID": "3496297",
@@ -12922,7 +13643,8 @@ const ABERTURA_ASA_DATA = [
     "Frente": "142 - FRENTE BIDU",
     "Responsável": "GLEISON FELIPE BORGES DE MATOS",
     "Abertura da Asa": "50",
-    "Fazenda": "37315"
+    "Fazenda": "37315",
+    "Unnamed: 16": null
   },
   {
     "ID": "3496296",
@@ -12940,7 +13662,8 @@ const ABERTURA_ASA_DATA = [
     "Frente": "142 - FRENTE BIDU",
     "Responsável": "GLEISON FELIPE BORGES DE MATOS",
     "Abertura da Asa": "51",
-    "Fazenda": "37315"
+    "Fazenda": "37315",
+    "Unnamed: 16": null
   },
   {
     "ID": "3496678",
@@ -12958,7 +13681,8 @@ const ABERTURA_ASA_DATA = [
     "Frente": "105 - FRENTE CASSIO",
     "Responsável": "FERNANDA DE SOUZA ",
     "Abertura da Asa": "55",
-    "Fazenda": "53201"
+    "Fazenda": "53201",
+    "Unnamed: 16": null
   },
   {
     "ID": "3496677",
@@ -12976,7 +13700,8 @@ const ABERTURA_ASA_DATA = [
     "Frente": "105 - FRENTE CASSIO",
     "Responsável": "FERNANDA DE SOUZA ",
     "Abertura da Asa": "55",
-    "Fazenda": "53201"
+    "Fazenda": "53201",
+    "Unnamed: 16": null
   },
   {
     "ID": "3494504",
@@ -12994,7 +13719,8 @@ const ABERTURA_ASA_DATA = [
     "Frente": "142 - FRENTE BIDU",
     "Responsável": "GLEISON FELIPE BORGES DE MATOS",
     "Abertura da Asa": "51",
-    "Fazenda": "53201"
+    "Fazenda": "53201",
+    "Unnamed: 16": null
   },
   {
     "ID": "3494503",
@@ -13012,7 +13738,8 @@ const ABERTURA_ASA_DATA = [
     "Frente": "142 - FRENTE BIDU",
     "Responsável": "GLEISON FELIPE BORGES DE MATOS",
     "Abertura da Asa": "50",
-    "Fazenda": "53201"
+    "Fazenda": "53201",
+    "Unnamed: 16": null
   },
   {
     "ID": "3494502",
@@ -13030,7 +13757,8 @@ const ABERTURA_ASA_DATA = [
     "Frente": "142 - FRENTE BIDU",
     "Responsável": "GLEISON FELIPE BORGES DE MATOS",
     "Abertura da Asa": "51",
-    "Fazenda": "53201"
+    "Fazenda": "53201",
+    "Unnamed: 16": null
   },
   {
     "ID": "3494501",
@@ -13048,7 +13776,8 @@ const ABERTURA_ASA_DATA = [
     "Frente": "142 - FRENTE BIDU",
     "Responsável": "GLEISON FELIPE BORGES DE MATOS",
     "Abertura da Asa": "51",
-    "Fazenda": "53201"
+    "Fazenda": "53201",
+    "Unnamed: 16": null
   },
   {
     "ID": "3494684",
@@ -13066,7 +13795,8 @@ const ABERTURA_ASA_DATA = [
     "Frente": "143 - FRENTE CASSIO",
     "Responsável": "NILDA CLAUDINO [2510716]",
     "Abertura da Asa": "52",
-    "Fazenda": "53201"
+    "Fazenda": "53201",
+    "Unnamed: 16": null
   },
   {
     "ID": "3494683",
@@ -13084,7 +13814,8 @@ const ABERTURA_ASA_DATA = [
     "Frente": "143 - FRENTE CASSIO",
     "Responsável": "NILDA CLAUDINO [2510716]",
     "Abertura da Asa": "53",
-    "Fazenda": "53201"
+    "Fazenda": "53201",
+    "Unnamed: 16": null
   },
   {
     "ID": "3494642",
@@ -13102,7 +13833,8 @@ const ABERTURA_ASA_DATA = [
     "Frente": "105 - FRENTE CASSIO",
     "Responsável": "FERNANDA DE SOUZA ",
     "Abertura da Asa": "54",
-    "Fazenda": "53201"
+    "Fazenda": "53201",
+    "Unnamed: 16": null
   },
   {
     "ID": "3494641",
@@ -13120,7 +13852,8 @@ const ABERTURA_ASA_DATA = [
     "Frente": "105 - FRENTE CASSIO",
     "Responsável": "FERNANDA DE SOUZA ",
     "Abertura da Asa": "53",
-    "Fazenda": "53201"
+    "Fazenda": "53201",
+    "Unnamed: 16": null
   },
   {
     "ID": "3494640",
@@ -13138,7 +13871,8 @@ const ABERTURA_ASA_DATA = [
     "Frente": "105 - FRENTE CASSIO",
     "Responsável": "FERNANDA DE SOUZA ",
     "Abertura da Asa": "55",
-    "Fazenda": "53201"
+    "Fazenda": "53201",
+    "Unnamed: 16": null
   },
   {
     "ID": "3494639",
@@ -13156,7 +13890,8 @@ const ABERTURA_ASA_DATA = [
     "Frente": "105 - FRENTE CASSIO",
     "Responsável": "FERNANDA DE SOUZA ",
     "Abertura da Asa": "55",
-    "Fazenda": "53201"
+    "Fazenda": "53201",
+    "Unnamed: 16": null
   },
   {
     "ID": "3495194",
@@ -13174,7 +13909,8 @@ const ABERTURA_ASA_DATA = [
     "Frente": "135 - PEDRINHO ",
     "Responsável": "MARCELO DE OLIVEIRA JUNIOR",
     "Abertura da Asa": "51",
-    "Fazenda": "37312"
+    "Fazenda": "37312",
+    "Unnamed: 16": null
   },
   {
     "ID": "3495193",
@@ -13192,7 +13928,8 @@ const ABERTURA_ASA_DATA = [
     "Frente": "135 - PEDRINHO ",
     "Responsável": "MARCELO DE OLIVEIRA JUNIOR",
     "Abertura da Asa": "51",
-    "Fazenda": "37312"
+    "Fazenda": "37312",
+    "Unnamed: 16": null
   },
   {
     "ID": "3495191",
@@ -13210,7 +13947,8 @@ const ABERTURA_ASA_DATA = [
     "Frente": "135 - PEDRINHO ",
     "Responsável": "MARCELO DE OLIVEIRA JUNIOR",
     "Abertura da Asa": "51",
-    "Fazenda": "37312"
+    "Fazenda": "37312",
+    "Unnamed: 16": null
   },
   {
     "ID": "3495190",
@@ -13228,7 +13966,8 @@ const ABERTURA_ASA_DATA = [
     "Frente": "135 - PEDRINHO ",
     "Responsável": "MARCELO DE OLIVEIRA JUNIOR",
     "Abertura da Asa": "51",
-    "Fazenda": "37312"
+    "Fazenda": "37312",
+    "Unnamed: 16": null
   },
   {
     "ID": "3495188",
@@ -13246,7 +13985,8 @@ const ABERTURA_ASA_DATA = [
     "Frente": "135 - PEDRINHO ",
     "Responsável": "MARCELO DE OLIVEIRA JUNIOR",
     "Abertura da Asa": "51",
-    "Fazenda": "37312"
+    "Fazenda": "37312",
+    "Unnamed: 16": null
   },
   {
     "ID": "3495187",
@@ -13264,7 +14004,8 @@ const ABERTURA_ASA_DATA = [
     "Frente": "135 - PEDRINHO ",
     "Responsável": "MARCELO DE OLIVEIRA JUNIOR",
     "Abertura da Asa": "51",
-    "Fazenda": "37312"
+    "Fazenda": "37312",
+    "Unnamed: 16": null
   },
   {
     "ID": "3494340",
@@ -13282,7 +14023,8 @@ const ABERTURA_ASA_DATA = [
     "Frente": "291 - FRENTE PRÓPRIA ",
     "Responsável": "GABRIEL HENRIQUE MARTINS PEREIRA",
     "Abertura da Asa": "52",
-    "Fazenda": "112401"
+    "Fazenda": "112401",
+    "Unnamed: 16": null
   },
   {
     "ID": "3494339",
@@ -13300,7 +14042,8 @@ const ABERTURA_ASA_DATA = [
     "Frente": "291 - FRENTE PRÓPRIA ",
     "Responsável": "GABRIEL HENRIQUE MARTINS PEREIRA",
     "Abertura da Asa": "51",
-    "Fazenda": "112401"
+    "Fazenda": "112401",
+    "Unnamed: 16": null
   },
   {
     "ID": "3493101",
@@ -13318,7 +14061,8 @@ const ABERTURA_ASA_DATA = [
     "Frente": "135 - PEDRINHO ",
     "Responsável": "MARCELO DE OLIVEIRA JUNIOR",
     "Abertura da Asa": "51",
-    "Fazenda": "37312"
+    "Fazenda": "37312",
+    "Unnamed: 16": null
   },
   {
     "ID": "3492280",
@@ -13336,7 +14080,8 @@ const ABERTURA_ASA_DATA = [
     "Frente": "261 - FRENTE PRÓPRIA  (EDMILSON)",
     "Responsável": "EDILIANA CARDOSO DA COSTA",
     "Abertura da Asa": "50",
-    "Fazenda": "112401"
+    "Fazenda": "112401",
+    "Unnamed: 16": null
   },
   {
     "ID": "3492279",
@@ -13354,7 +14099,8 @@ const ABERTURA_ASA_DATA = [
     "Frente": "261 - FRENTE PRÓPRIA  (EDMILSON)",
     "Responsável": "EDILIANA CARDOSO DA COSTA",
     "Abertura da Asa": "52",
-    "Fazenda": "112401"
+    "Fazenda": "112401",
+    "Unnamed: 16": null
   },
   {
     "ID": "3492440",
@@ -13372,7 +14118,8 @@ const ABERTURA_ASA_DATA = [
     "Frente": "143 - FRENTE CASSIO",
     "Responsável": "GABRIEL HENRIQUE MARTINS PEREIRA",
     "Abertura da Asa": "53",
-    "Fazenda": "53201"
+    "Fazenda": "53201",
+    "Unnamed: 16": null
   },
   {
     "ID": "3492439",
@@ -13390,7 +14137,8 @@ const ABERTURA_ASA_DATA = [
     "Frente": "143 - FRENTE CASSIO",
     "Responsável": "GABRIEL HENRIQUE MARTINS PEREIRA",
     "Abertura da Asa": "50",
-    "Fazenda": "53201"
+    "Fazenda": "53201",
+    "Unnamed: 16": null
   },
   {
     "ID": "3492497",
@@ -13408,7 +14156,8 @@ const ABERTURA_ASA_DATA = [
     "Frente": "133 - FRENTE MANÉZÃO",
     "Responsável": "FERNANDA DE SOUZA ",
     "Abertura da Asa": "53",
-    "Fazenda": "53201"
+    "Fazenda": "53201",
+    "Unnamed: 16": null
   },
   {
     "ID": "3492496",
@@ -13426,7 +14175,8 @@ const ABERTURA_ASA_DATA = [
     "Frente": "133 - FRENTE MANÉZÃO",
     "Responsável": "FERNANDA DE SOUZA ",
     "Abertura da Asa": "53",
-    "Fazenda": "53201"
+    "Fazenda": "53201",
+    "Unnamed: 16": null
   },
   {
     "ID": "3492434",
@@ -13444,7 +14194,8 @@ const ABERTURA_ASA_DATA = [
     "Frente": "105 - FRENTE CASSIO (ZACARIAS)",
     "Responsável": "GABRIEL HENRIQUE MARTINS PEREIRA",
     "Abertura da Asa": "54",
-    "Fazenda": "53201"
+    "Fazenda": "53201",
+    "Unnamed: 16": null
   },
   {
     "ID": "3492433",
@@ -13462,7 +14213,8 @@ const ABERTURA_ASA_DATA = [
     "Frente": "105 - FRENTE CASSIO (ZACARIAS)",
     "Responsável": "GABRIEL HENRIQUE MARTINS PEREIRA",
     "Abertura da Asa": "51",
-    "Fazenda": "53201"
+    "Fazenda": "53201",
+    "Unnamed: 16": null
   },
   {
     "ID": "3492432",
@@ -13480,7 +14232,8 @@ const ABERTURA_ASA_DATA = [
     "Frente": "143 - FRENTE CASSIO",
     "Responsável": "GABRIEL HENRIQUE MARTINS PEREIRA",
     "Abertura da Asa": "51",
-    "Fazenda": "53201"
+    "Fazenda": "53201",
+    "Unnamed: 16": null
   },
   {
     "ID": "3492431",
@@ -13498,7 +14251,8 @@ const ABERTURA_ASA_DATA = [
     "Frente": "143 - FRENTE CASSIO",
     "Responsável": "GABRIEL HENRIQUE MARTINS PEREIRA",
     "Abertura da Asa": "51",
-    "Fazenda": "53201"
+    "Fazenda": "53201",
+    "Unnamed: 16": null
   },
   {
     "ID": "3492425",
@@ -13516,7 +14270,8 @@ const ABERTURA_ASA_DATA = [
     "Frente": "105 - FRENTE CASSIO (ZACARIAS)",
     "Responsável": "GABRIEL HENRIQUE MARTINS PEREIRA",
     "Abertura da Asa": "54",
-    "Fazenda": "53201"
+    "Fazenda": "53201",
+    "Unnamed: 16": null
   },
   {
     "ID": "3492426",
@@ -13534,7 +14289,8 @@ const ABERTURA_ASA_DATA = [
     "Frente": "105 - FRENTE CASSIO (ZACARIAS)",
     "Responsável": "GABRIEL HENRIQUE MARTINS PEREIRA",
     "Abertura da Asa": "55",
-    "Fazenda": "53201"
+    "Fazenda": "53201",
+    "Unnamed: 16": null
   },
   {
     "ID": "3491299",
@@ -13552,7 +14308,8 @@ const ABERTURA_ASA_DATA = [
     "Frente": "135 - PEDRINHO ",
     "Responsável": "MARCELO DE OLIVEIRA JUNIOR",
     "Abertura da Asa": "51",
-    "Fazenda": "37317"
+    "Fazenda": "37317",
+    "Unnamed: 16": null
   },
   {
     "ID": "3491298",
@@ -13570,7 +14327,8 @@ const ABERTURA_ASA_DATA = [
     "Frente": "135 - PEDRINHO ",
     "Responsável": "MARCELO DE OLIVEIRA JUNIOR",
     "Abertura da Asa": "51",
-    "Fazenda": "37317"
+    "Fazenda": "37317",
+    "Unnamed: 16": null
   },
   {
     "ID": "3491261",
@@ -13588,7 +14346,8 @@ const ABERTURA_ASA_DATA = [
     "Frente": "135 - PEDRINHO ",
     "Responsável": "MARCELO DE OLIVEIRA JUNIOR",
     "Abertura da Asa": "51",
-    "Fazenda": "37308"
+    "Fazenda": "37308",
+    "Unnamed: 16": null
   },
   {
     "ID": "3491260",
@@ -13606,7 +14365,8 @@ const ABERTURA_ASA_DATA = [
     "Frente": "135 - PEDRINHO ",
     "Responsável": "MARCELO DE OLIVEIRA JUNIOR",
     "Abertura da Asa": "51",
-    "Fazenda": "37308"
+    "Fazenda": "37308",
+    "Unnamed: 16": null
   },
   {
     "ID": "3491251",
@@ -13624,7 +14384,8 @@ const ABERTURA_ASA_DATA = [
     "Frente": "135 - PEDRINHO ",
     "Responsável": "MARCELO DE OLIVEIRA JUNIOR",
     "Abertura da Asa": "51",
-    "Fazenda": "37309"
+    "Fazenda": "37309",
+    "Unnamed: 16": null
   },
   {
     "ID": "3491250",
@@ -13642,7 +14403,8 @@ const ABERTURA_ASA_DATA = [
     "Frente": "135 - PEDRINHO ",
     "Responsável": "MARCELO DE OLIVEIRA JUNIOR",
     "Abertura da Asa": "51",
-    "Fazenda": "37309"
+    "Fazenda": "37309",
+    "Unnamed: 16": null
   },
   {
     "ID": "3491249",
@@ -13660,7 +14422,8 @@ const ABERTURA_ASA_DATA = [
     "Frente": "135 - PEDRINHO ",
     "Responsável": "MARCELO DE OLIVEIRA JUNIOR",
     "Abertura da Asa": "51",
-    "Fazenda": "37308"
+    "Fazenda": "37308",
+    "Unnamed: 16": null
   },
   {
     "ID": "3491248",
@@ -13678,7 +14441,8 @@ const ABERTURA_ASA_DATA = [
     "Frente": "135 - PEDRINHO ",
     "Responsável": "MARCELO DE OLIVEIRA JUNIOR",
     "Abertura da Asa": "51",
-    "Fazenda": "37308"
+    "Fazenda": "37308",
+    "Unnamed: 16": null
   },
   {
     "ID": "3490178",
@@ -13696,7 +14460,8 @@ const ABERTURA_ASA_DATA = [
     "Frente": "133 - FRENTE MANÉZÃO",
     "Responsável": "FERNANDA DE SOUZA ",
     "Abertura da Asa": "52",
-    "Fazenda": "53201"
+    "Fazenda": "53201",
+    "Unnamed: 16": null
   },
   {
     "ID": "3490177",
@@ -13714,7 +14479,8 @@ const ABERTURA_ASA_DATA = [
     "Frente": "133 - FRENTE MANÉZÃO",
     "Responsável": "FERNANDA DE SOUZA ",
     "Abertura da Asa": "51",
-    "Fazenda": "53201"
+    "Fazenda": "53201",
+    "Unnamed: 16": null
   },
   {
     "ID": "3492559",
@@ -13732,7 +14498,8 @@ const ABERTURA_ASA_DATA = [
     "Frente": "142 - FRENTE BIDU",
     "Responsável": "REGINALDO DA SILVA GOMES ",
     "Abertura da Asa": "51",
-    "Fazenda": "53201"
+    "Fazenda": "53201",
+    "Unnamed: 16": null
   },
   {
     "ID": "3492558",
@@ -13750,7 +14517,8 @@ const ABERTURA_ASA_DATA = [
     "Frente": "142 - FRENTE BIDU",
     "Responsável": "REGINALDO DA SILVA GOMES ",
     "Abertura da Asa": "51",
-    "Fazenda": "53201"
+    "Fazenda": "53201",
+    "Unnamed: 16": null
   },
   {
     "ID": "3470076",
@@ -13768,7 +14536,8 @@ const ABERTURA_ASA_DATA = [
     "Frente": "142 - FRENTE BIDU",
     "Responsável": "MICHELI DE SOUZA SANTOS  ",
     "Abertura da Asa": "51",
-    "Fazenda": "53201"
+    "Fazenda": "53201",
+    "Unnamed: 16": null
   },
   {
     "ID": "3470077",
@@ -13786,7 +14555,8 @@ const ABERTURA_ASA_DATA = [
     "Frente": "142 - FRENTE BIDU",
     "Responsável": "MICHELI DE SOUZA SANTOS  ",
     "Abertura da Asa": "51",
-    "Fazenda": "53201"
+    "Fazenda": "53201",
+    "Unnamed: 16": null
   },
   {
     "ID": "3492553",
@@ -13804,7 +14574,8 @@ const ABERTURA_ASA_DATA = [
     "Frente": "142 - FRENTE BIDU",
     "Responsável": "REGINALDO DA SILVA GOMES ",
     "Abertura da Asa": "49",
-    "Fazenda": "53201"
+    "Fazenda": "53201",
+    "Unnamed: 16": null
   },
   {
     "ID": "3492552",
@@ -13822,7 +14593,8 @@ const ABERTURA_ASA_DATA = [
     "Frente": "142 - FRENTE BIDU",
     "Responsável": "REGINALDO DA SILVA GOMES ",
     "Abertura da Asa": "47",
-    "Fazenda": "53201"
+    "Fazenda": "53201",
+    "Unnamed: 16": null
   },
   {
     "ID": "3490335",
@@ -13840,7 +14612,8 @@ const ABERTURA_ASA_DATA = [
     "Frente": "105 - FRENTE CASSIO (ZACARIAS)",
     "Responsável": "GABRIEL HENRIQUE MARTINS PEREIRA",
     "Abertura da Asa": "55",
-    "Fazenda": "53201"
+    "Fazenda": "53201",
+    "Unnamed: 16": null
   },
   {
     "ID": "3490334",
@@ -13858,7 +14631,8 @@ const ABERTURA_ASA_DATA = [
     "Frente": "105 - FRENTE CASSIO (ZACARIAS)",
     "Responsável": "GABRIEL HENRIQUE MARTINS PEREIRA",
     "Abertura da Asa": "54",
-    "Fazenda": "53201"
+    "Fazenda": "53201",
+    "Unnamed: 16": null
   },
   {
     "ID": "3490333",
@@ -13876,7 +14650,8 @@ const ABERTURA_ASA_DATA = [
     "Frente": "105 - FRENTE CASSIO (ZACARIAS)",
     "Responsável": "GABRIEL HENRIQUE MARTINS PEREIRA",
     "Abertura da Asa": "51",
-    "Fazenda": "53201"
+    "Fazenda": "53201",
+    "Unnamed: 16": null
   },
   {
     "ID": "3490332",
@@ -13894,7 +14669,8 @@ const ABERTURA_ASA_DATA = [
     "Frente": "105 - FRENTE CASSIO (ZACARIAS)",
     "Responsável": "GABRIEL HENRIQUE MARTINS PEREIRA",
     "Abertura da Asa": "54",
-    "Fazenda": "53201"
+    "Fazenda": "53201",
+    "Unnamed: 16": null
   },
   {
     "ID": "3470073",
@@ -13912,7 +14688,8 @@ const ABERTURA_ASA_DATA = [
     "Frente": "142 - FRENTE BIDU",
     "Responsável": "MICHELI DE SOUZA SANTOS  ",
     "Abertura da Asa": "49",
-    "Fazenda": "53201"
+    "Fazenda": "53201",
+    "Unnamed: 16": null
   },
   {
     "ID": "3470072",
@@ -13930,7 +14707,8 @@ const ABERTURA_ASA_DATA = [
     "Frente": "142 - FRENTE BIDU",
     "Responsável": "MICHELI DE SOUZA SANTOS  ",
     "Abertura da Asa": "47",
-    "Fazenda": "53201"
+    "Fazenda": "53201",
+    "Unnamed: 16": null
   },
   {
     "ID": "3470069",
@@ -13948,7 +14726,8 @@ const ABERTURA_ASA_DATA = [
     "Frente": "142 - FRENTE BIDU",
     "Responsável": "MICHELI DE SOUZA SANTOS  ",
     "Abertura da Asa": "51",
-    "Fazenda": "53201"
+    "Fazenda": "53201",
+    "Unnamed: 16": null
   },
   {
     "ID": "3470068",
@@ -13966,7 +14745,8 @@ const ABERTURA_ASA_DATA = [
     "Frente": "142 - FRENTE BIDU",
     "Responsável": "MICHELI DE SOUZA SANTOS  ",
     "Abertura da Asa": "51",
-    "Fazenda": "53201"
+    "Fazenda": "53201",
+    "Unnamed: 16": null
   },
   {
     "ID": "3490302",
@@ -13984,7 +14764,8 @@ const ABERTURA_ASA_DATA = [
     "Frente": "143 - FRENTE CASSIO",
     "Responsável": "GABRIEL HENRIQUE MARTINS PEREIRA",
     "Abertura da Asa": "51",
-    "Fazenda": "53201"
+    "Fazenda": "53201",
+    "Unnamed: 16": null
   },
   {
     "ID": "3490301",
@@ -14002,7 +14783,8 @@ const ABERTURA_ASA_DATA = [
     "Frente": "143 - FRENTE CASSIO",
     "Responsável": "GABRIEL HENRIQUE MARTINS PEREIRA",
     "Abertura da Asa": "54",
-    "Fazenda": "53201"
+    "Fazenda": "53201",
+    "Unnamed: 16": null
   },
   {
     "ID": "3490300",
@@ -14020,7 +14802,8 @@ const ABERTURA_ASA_DATA = [
     "Frente": "143 - FRENTE CASSIO",
     "Responsável": "GABRIEL HENRIQUE MARTINS PEREIRA",
     "Abertura da Asa": "51",
-    "Fazenda": "53201"
+    "Fazenda": "53201",
+    "Unnamed: 16": null
   },
   {
     "ID": "3490299",
@@ -14038,7 +14821,8 @@ const ABERTURA_ASA_DATA = [
     "Frente": "143 - FRENTE CASSIO",
     "Responsável": "GABRIEL HENRIQUE MARTINS PEREIRA",
     "Abertura da Asa": "51",
-    "Fazenda": "53201"
+    "Fazenda": "53201",
+    "Unnamed: 16": null
   },
   {
     "ID": "3490160",
@@ -14056,7 +14840,8 @@ const ABERTURA_ASA_DATA = [
     "Frente": "133 - FRENTE MANÉZÃO",
     "Responsável": "FERNANDA DE SOUZA ",
     "Abertura da Asa": "53",
-    "Fazenda": "53201"
+    "Fazenda": "53201",
+    "Unnamed: 16": null
   },
   {
     "ID": "3490159",
@@ -14074,7 +14859,8 @@ const ABERTURA_ASA_DATA = [
     "Frente": "133 - FRENTE MANÉZÃO",
     "Responsável": "FERNANDA DE SOUZA ",
     "Abertura da Asa": "53",
-    "Fazenda": "53201"
+    "Fazenda": "53201",
+    "Unnamed: 16": null
   },
   {
     "ID": "3490158",
@@ -14092,7 +14878,8 @@ const ABERTURA_ASA_DATA = [
     "Frente": "133 - FRENTE MANÉZÃO",
     "Responsável": "FERNANDA DE SOUZA ",
     "Abertura da Asa": "53",
-    "Fazenda": "53201"
+    "Fazenda": "53201",
+    "Unnamed: 16": null
   },
   {
     "ID": "3490157",
@@ -14110,7 +14897,8 @@ const ABERTURA_ASA_DATA = [
     "Frente": "133 - FRENTE MANÉZÃO",
     "Responsável": "FERNANDA DE SOUZA ",
     "Abertura da Asa": "53",
-    "Fazenda": "53201"
+    "Fazenda": "53201",
+    "Unnamed: 16": null
   },
   {
     "ID": "3490326",
@@ -14128,7 +14916,8 @@ const ABERTURA_ASA_DATA = [
     "Frente": "135 - FRENTE PEDRINHO",
     "Responsável": "EDILIANA CARDOSO DA COSTA",
     "Abertura da Asa": "51",
-    "Fazenda": "37308"
+    "Fazenda": "37308",
+    "Unnamed: 16": null
   },
   {
     "ID": "3490325",
@@ -14146,7 +14935,8 @@ const ABERTURA_ASA_DATA = [
     "Frente": "135 - FRENTE PEDRINHO",
     "Responsável": "EDILIANA CARDOSO DA COSTA",
     "Abertura da Asa": "51",
-    "Fazenda": "37308"
+    "Fazenda": "37308",
+    "Unnamed: 16": null
   },
   {
     "ID": "3490324",
@@ -14164,7 +14954,8 @@ const ABERTURA_ASA_DATA = [
     "Frente": "135 - FRENTE PEDRINHO",
     "Responsável": "EDILIANA CARDOSO DA COSTA",
     "Abertura da Asa": "50",
-    "Fazenda": "37308"
+    "Fazenda": "37308",
+    "Unnamed: 16": null
   },
   {
     "ID": "3490323",
@@ -14182,7 +14973,8 @@ const ABERTURA_ASA_DATA = [
     "Frente": "135 - FRENTE PEDRINHO",
     "Responsável": "EDILIANA CARDOSO DA COSTA",
     "Abertura da Asa": "50",
-    "Fazenda": "37308"
+    "Fazenda": "37308",
+    "Unnamed: 16": null
   },
   {
     "ID": "3467547",
@@ -14200,7 +14992,8 @@ const ABERTURA_ASA_DATA = [
     "Frente": "261 - FRENTE PRÓPRIA  (EDMILSON)",
     "Responsável": "EDILIANA CARDOSO DA COSTA",
     "Abertura da Asa": "49",
-    "Fazenda": "53201"
+    "Fazenda": "53201",
+    "Unnamed: 16": null
   },
   {
     "ID": "3467546",
@@ -14218,7 +15011,8 @@ const ABERTURA_ASA_DATA = [
     "Frente": "261 - FRENTE PRÓPRIA  (EDMILSON)",
     "Responsável": "EDILIANA CARDOSO DA COSTA",
     "Abertura da Asa": "49",
-    "Fazenda": "53201"
+    "Fazenda": "53201",
+    "Unnamed: 16": null
   },
   {
     "ID": "3467545",
@@ -14236,7 +15030,8 @@ const ABERTURA_ASA_DATA = [
     "Frente": "261 - FRENTE PRÓPRIA  (EDMILSON)",
     "Responsável": "EDILIANA CARDOSO DA COSTA",
     "Abertura da Asa": "52",
-    "Fazenda": "53201"
+    "Fazenda": "53201",
+    "Unnamed: 16": null
   },
   {
     "ID": "3467544",
@@ -14254,7 +15049,8 @@ const ABERTURA_ASA_DATA = [
     "Frente": "261 - FRENTE PRÓPRIA  (EDMILSON)",
     "Responsável": "EDILIANA CARDOSO DA COSTA",
     "Abertura da Asa": "52",
-    "Fazenda": "53201"
+    "Fazenda": "53201",
+    "Unnamed: 16": null
   },
   {
     "ID": "3467543",
@@ -14272,7 +15068,8 @@ const ABERTURA_ASA_DATA = [
     "Frente": "139 - Manezão",
     "Responsável": "EDILIANA CARDOSO DA COSTA",
     "Abertura da Asa": "55",
-    "Fazenda": "53201"
+    "Fazenda": "53201",
+    "Unnamed: 16": null
   },
   {
     "ID": "3467542",
@@ -14290,7 +15087,8 @@ const ABERTURA_ASA_DATA = [
     "Frente": "139 - Manezão",
     "Responsável": "EDILIANA CARDOSO DA COSTA",
     "Abertura da Asa": "55",
-    "Fazenda": "53201"
+    "Fazenda": "53201",
+    "Unnamed: 16": null
   },
   {
     "ID": "3467719",
@@ -14308,7 +15106,8 @@ const ABERTURA_ASA_DATA = [
     "Frente": "261 - FRENTE PRÓPRIA  (EDMILSON)",
     "Responsável": "VITOR AMORIM RAMOS ",
     "Abertura da Asa": "51",
-    "Fazenda": "53201"
+    "Fazenda": "53201",
+    "Unnamed: 16": null
   },
   {
     "ID": "3467718",
@@ -14326,7 +15125,8 @@ const ABERTURA_ASA_DATA = [
     "Frente": "261 - FRENTE PRÓPRIA  (EDMILSON)",
     "Responsável": "VITOR AMORIM RAMOS ",
     "Abertura da Asa": "51",
-    "Fazenda": "53201"
+    "Fazenda": "53201",
+    "Unnamed: 16": null
   },
   {
     "ID": "3467717",
@@ -14344,7 +15144,8 @@ const ABERTURA_ASA_DATA = [
     "Frente": "291 - FRENTE PRÓPRIA ",
     "Responsável": "VITOR AMORIM RAMOS ",
     "Abertura da Asa": "51",
-    "Fazenda": "53201"
+    "Fazenda": "53201",
+    "Unnamed: 16": null
   },
   {
     "ID": "3467716",
@@ -14362,7 +15163,8 @@ const ABERTURA_ASA_DATA = [
     "Frente": "291 - FRENTE PRÓPRIA ",
     "Responsável": "VITOR AMORIM RAMOS ",
     "Abertura da Asa": "51",
-    "Fazenda": "53201"
+    "Fazenda": "53201",
+    "Unnamed: 16": null
   },
   {
     "ID": "3467533",
@@ -14380,7 +15182,8 @@ const ABERTURA_ASA_DATA = [
     "Frente": "139 - Manezão",
     "Responsável": "EDILIANA CARDOSO DA COSTA",
     "Abertura da Asa": "53",
-    "Fazenda": "53201"
+    "Fazenda": "53201",
+    "Unnamed: 16": null
   },
   {
     "ID": "3467534",
@@ -14398,7 +15201,8 @@ const ABERTURA_ASA_DATA = [
     "Frente": "139 - Manezão",
     "Responsável": "EDILIANA CARDOSO DA COSTA",
     "Abertura da Asa": "55",
-    "Fazenda": "53201"
+    "Fazenda": "53201",
+    "Unnamed: 16": null
   },
   {
     "ID": "3465565",
@@ -14416,7 +15220,8 @@ const ABERTURA_ASA_DATA = [
     "Frente": "291 - FRENTE PRÓPRIA ",
     "Responsável": "VITOR AMORIM RAMOS ",
     "Abertura da Asa": "51",
-    "Fazenda": "53201"
+    "Fazenda": "53201",
+    "Unnamed: 16": null
   },
   {
     "ID": "3465564",
@@ -14434,7 +15239,8 @@ const ABERTURA_ASA_DATA = [
     "Frente": "291 - FRENTE PRÓPRIA ",
     "Responsável": "VITOR AMORIM RAMOS ",
     "Abertura da Asa": "51",
-    "Fazenda": "53201"
+    "Fazenda": "53201",
+    "Unnamed: 16": null
   },
   {
     "ID": "3465795",
@@ -14452,7 +15258,8 @@ const ABERTURA_ASA_DATA = [
     "Frente": "142 - FRENTE BIDU",
     "Responsável": "MICHELI DE SOUZA SANTOS  ",
     "Abertura da Asa": "49",
-    "Fazenda": "53201"
+    "Fazenda": "53201",
+    "Unnamed: 16": null
   },
   {
     "ID": "3465794",
@@ -14470,7 +15277,8 @@ const ABERTURA_ASA_DATA = [
     "Frente": "142 - FRENTE BIDU",
     "Responsável": "MICHELI DE SOUZA SANTOS  ",
     "Abertura da Asa": "50",
-    "Fazenda": "53201"
+    "Fazenda": "53201",
+    "Unnamed: 16": null
   },
   {
     "ID": "3465793",
@@ -14488,7 +15296,8 @@ const ABERTURA_ASA_DATA = [
     "Frente": "142 - FRENTE BIDU",
     "Responsável": "MICHELI DE SOUZA SANTOS  ",
     "Abertura da Asa": "51",
-    "Fazenda": "53201"
+    "Fazenda": "53201",
+    "Unnamed: 16": null
   },
   {
     "ID": "3465790",
@@ -14506,7 +15315,8 @@ const ABERTURA_ASA_DATA = [
     "Frente": "142 - FRENTE BIDU",
     "Responsável": "MICHELI DE SOUZA SANTOS  ",
     "Abertura da Asa": "51",
-    "Fazenda": "53201"
+    "Fazenda": "53201",
+    "Unnamed: 16": null
   },
   {
     "ID": "3465789",
@@ -14524,7 +15334,8 @@ const ABERTURA_ASA_DATA = [
     "Frente": "142 - FRENTE BIDU",
     "Responsável": "MICHELI DE SOUZA SANTOS  ",
     "Abertura da Asa": "51",
-    "Fazenda": "53201"
+    "Fazenda": "53201",
+    "Unnamed: 16": null
   },
   {
     "ID": "3465788",
@@ -14542,7 +15353,8 @@ const ABERTURA_ASA_DATA = [
     "Frente": "142 - FRENTE BIDU",
     "Responsável": "MICHELI DE SOUZA SANTOS  ",
     "Abertura da Asa": "51",
-    "Fazenda": "53201"
+    "Fazenda": "53201",
+    "Unnamed: 16": null
   },
   {
     "ID": "3469364",
@@ -14560,7 +15372,8 @@ const ABERTURA_ASA_DATA = [
     "Frente": "105 - FRENTE CASSIO (ZACARIAS)",
     "Responsável": "GABRIEL HENRIQUE MARTINS PEREIRA",
     "Abertura da Asa": "52",
-    "Fazenda": "53201"
+    "Fazenda": "53201",
+    "Unnamed: 16": null
   },
   {
     "ID": "3465974",
@@ -14578,7 +15391,8 @@ const ABERTURA_ASA_DATA = [
     "Frente": "105 - FRENTE CASSIO (ZACARIAS)",
     "Responsável": "GABRIEL HENRIQUE MARTINS PEREIRA",
     "Abertura da Asa": "53",
-    "Fazenda": "53201"
+    "Fazenda": "53201",
+    "Unnamed: 16": null
   },
   {
     "ID": "3465546",
@@ -14596,7 +15410,8 @@ const ABERTURA_ASA_DATA = [
     "Frente": "291 - FRENTE PRÓPRIA ",
     "Responsável": "VITOR AMORIM RAMOS ",
     "Abertura da Asa": "51",
-    "Fazenda": "53201"
+    "Fazenda": "53201",
+    "Unnamed: 16": null
   },
   {
     "ID": "3465958",
@@ -14614,7 +15429,8 @@ const ABERTURA_ASA_DATA = [
     "Frente": "105 - FRENTE CASSIO (ZACARIAS)",
     "Responsável": "GABRIEL HENRIQUE MARTINS PEREIRA",
     "Abertura da Asa": "55",
-    "Fazenda": "53201"
+    "Fazenda": "53201",
+    "Unnamed: 16": null
   },
   {
     "ID": "3465957",
@@ -14632,7 +15448,8 @@ const ABERTURA_ASA_DATA = [
     "Frente": "105 - FRENTE CASSIO (ZACARIAS)",
     "Responsável": "GABRIEL HENRIQUE MARTINS PEREIRA",
     "Abertura da Asa": "54",
-    "Fazenda": "53201"
+    "Fazenda": "53201",
+    "Unnamed: 16": null
   },
   {
     "ID": "3466682",
@@ -14650,7 +15467,8 @@ const ABERTURA_ASA_DATA = [
     "Frente": "139 - Manezão",
     "Responsável": "MARCELO DE OLIVEIRA JUNIOR",
     "Abertura da Asa": "50",
-    "Fazenda": "53201"
+    "Fazenda": "53201",
+    "Unnamed: 16": null
   },
   {
     "ID": "3466681",
@@ -14668,7 +15486,8 @@ const ABERTURA_ASA_DATA = [
     "Frente": "139 - Manezão",
     "Responsável": "MARCELO DE OLIVEIRA JUNIOR",
     "Abertura da Asa": "53",
-    "Fazenda": "53201"
+    "Fazenda": "53201",
+    "Unnamed: 16": null
   },
   {
     "ID": "3466677",
@@ -14686,7 +15505,8 @@ const ABERTURA_ASA_DATA = [
     "Frente": "139 - Manezão",
     "Responsável": "MARCELO DE OLIVEIRA JUNIOR",
     "Abertura da Asa": "48",
-    "Fazenda": "53201"
+    "Fazenda": "53201",
+    "Unnamed: 16": null
   },
   {
     "ID": "3466674",
@@ -14704,7 +15524,8 @@ const ABERTURA_ASA_DATA = [
     "Frente": "139 - Manezão",
     "Responsável": "MARCELO DE OLIVEIRA JUNIOR",
     "Abertura da Asa": "53",
-    "Fazenda": "53201"
+    "Fazenda": "53201",
+    "Unnamed: 16": null
   },
   {
     "ID": "3465956",
@@ -14722,7 +15543,8 @@ const ABERTURA_ASA_DATA = [
     "Frente": "105 - FRENTE CASSIO (ZACARIAS)",
     "Responsável": "GABRIEL HENRIQUE MARTINS PEREIRA",
     "Abertura da Asa": "54",
-    "Fazenda": "53201"
+    "Fazenda": "53201",
+    "Unnamed: 16": null
   },
   {
     "ID": "3465953",
@@ -14740,7 +15562,8 @@ const ABERTURA_ASA_DATA = [
     "Frente": "105 - FRENTE CASSIO (ZACARIAS)",
     "Responsável": "GABRIEL HENRIQUE MARTINS PEREIRA",
     "Abertura da Asa": "52",
-    "Fazenda": "53201"
+    "Fazenda": "53201",
+    "Unnamed: 16": null
   },
   {
     "ID": "3465952",
@@ -14758,7 +15581,8 @@ const ABERTURA_ASA_DATA = [
     "Frente": "105 - FRENTE CASSIO (ZACARIAS)",
     "Responsável": "GABRIEL HENRIQUE MARTINS PEREIRA",
     "Abertura da Asa": "52",
-    "Fazenda": "53201"
+    "Fazenda": "53201",
+    "Unnamed: 16": null
   },
   {
     "ID": "3465951",
@@ -14776,7 +15600,8 @@ const ABERTURA_ASA_DATA = [
     "Frente": "105 - FRENTE CASSIO (ZACARIAS)",
     "Responsável": "GABRIEL HENRIQUE MARTINS PEREIRA",
     "Abertura da Asa": "52",
-    "Fazenda": "53201"
+    "Fazenda": "53201",
+    "Unnamed: 16": null
   },
   {
     "ID": "3465543",
@@ -14794,7 +15619,8 @@ const ABERTURA_ASA_DATA = [
     "Frente": "291 - FRENTE PRÓPRIA ",
     "Responsável": "VITOR AMORIM RAMOS ",
     "Abertura da Asa": "51",
-    "Fazenda": "53201"
+    "Fazenda": "53201",
+    "Unnamed: 16": null
   },
   {
     "ID": "3464581",
@@ -14812,7 +15638,8 @@ const ABERTURA_ASA_DATA = [
     "Frente": "261 - FRENTE PRÓPRIA  (EDMILSON)",
     "Responsável": "VITOR AMORIM RAMOS ",
     "Abertura da Asa": "51",
-    "Fazenda": "53201"
+    "Fazenda": "53201",
+    "Unnamed: 16": null
   },
   {
     "ID": "3464580",
@@ -14830,7 +15657,8 @@ const ABERTURA_ASA_DATA = [
     "Frente": "261 - FRENTE PRÓPRIA  (EDMILSON)",
     "Responsável": "VITOR AMORIM RAMOS ",
     "Abertura da Asa": "51",
-    "Fazenda": "53201"
+    "Fazenda": "53201",
+    "Unnamed: 16": null
   },
   {
     "ID": "3463415",
@@ -14848,7 +15676,8 @@ const ABERTURA_ASA_DATA = [
     "Frente": "139 - FRENTE MANEZÃO",
     "Responsável": "GLEISON FELIPE BORGES DE MATOS",
     "Abertura da Asa": "53",
-    "Fazenda": "53201"
+    "Fazenda": "53201",
+    "Unnamed: 16": null
   },
   {
     "ID": "3463413",
@@ -14866,7 +15695,8 @@ const ABERTURA_ASA_DATA = [
     "Frente": "139 - FRENTE MANEZÃO",
     "Responsável": "GLEISON FELIPE BORGES DE MATOS",
     "Abertura da Asa": "51",
-    "Fazenda": "53201"
+    "Fazenda": "53201",
+    "Unnamed: 16": null
   },
   {
     "ID": "3463689",
@@ -14884,7 +15714,8 @@ const ABERTURA_ASA_DATA = [
     "Frente": "142 - FRENTE BIDU",
     "Responsável": "MICHELI DE SOUZA SANTOS  ",
     "Abertura da Asa": "51",
-    "Fazenda": "53201"
+    "Fazenda": "53201",
+    "Unnamed: 16": null
   },
   {
     "ID": "3463688",
@@ -14902,7 +15733,8 @@ const ABERTURA_ASA_DATA = [
     "Frente": "142 - FRENTE BIDU",
     "Responsável": "MICHELI DE SOUZA SANTOS  ",
     "Abertura da Asa": "51",
-    "Fazenda": "53201"
+    "Fazenda": "53201",
+    "Unnamed: 16": null
   },
   {
     "ID": "3463465",
@@ -14920,7 +15752,8 @@ const ABERTURA_ASA_DATA = [
     "Frente": "105 - FRENTE CASSIO",
     "Responsável": "NILDA CLAUDINO [2510716]",
     "Abertura da Asa": "55",
-    "Fazenda": "53201"
+    "Fazenda": "53201",
+    "Unnamed: 16": null
   },
   {
     "ID": "3463687",
@@ -14938,7 +15771,8 @@ const ABERTURA_ASA_DATA = [
     "Frente": "142 - FRENTE BIDU",
     "Responsável": "MICHELI DE SOUZA SANTOS  ",
     "Abertura da Asa": "52",
-    "Fazenda": "53201"
+    "Fazenda": "53201",
+    "Unnamed: 16": null
   },
   {
     "ID": "3463685",
@@ -14956,7 +15790,8 @@ const ABERTURA_ASA_DATA = [
     "Frente": "142 - FRENTE BIDU",
     "Responsável": "MICHELI DE SOUZA SANTOS  ",
     "Abertura da Asa": "51",
-    "Fazenda": "53201"
+    "Fazenda": "53201",
+    "Unnamed: 16": null
   },
   {
     "ID": "3463464",
@@ -14974,7 +15809,8 @@ const ABERTURA_ASA_DATA = [
     "Frente": "105 - FRENTE CASSIO",
     "Responsável": "NILDA CLAUDINO [2510716]",
     "Abertura da Asa": "54",
-    "Fazenda": "53201"
+    "Fazenda": "53201",
+    "Unnamed: 16": null
   },
   {
     "ID": "3463463",
@@ -14992,7 +15828,8 @@ const ABERTURA_ASA_DATA = [
     "Frente": "105 - FRENTE CASSIO",
     "Responsável": "NILDA CLAUDINO [2510716]",
     "Abertura da Asa": "54",
-    "Fazenda": "53201"
+    "Fazenda": "53201",
+    "Unnamed: 16": null
   },
   {
     "ID": "3463462",
@@ -15010,7 +15847,8 @@ const ABERTURA_ASA_DATA = [
     "Frente": "105 - FRENTE CASSIO",
     "Responsável": "NILDA CLAUDINO [2510716]",
     "Abertura da Asa": "55",
-    "Fazenda": "53201"
+    "Fazenda": "53201",
+    "Unnamed: 16": null
   },
   {
     "ID": "3463459",
@@ -15028,7 +15866,8 @@ const ABERTURA_ASA_DATA = [
     "Frente": "105 - FRENTE CASSIO",
     "Responsável": "NILDA CLAUDINO [2510716]",
     "Abertura da Asa": "52",
-    "Fazenda": "53201"
+    "Fazenda": "53201",
+    "Unnamed: 16": null
   },
   {
     "ID": "3463449",
@@ -15046,7 +15885,8 @@ const ABERTURA_ASA_DATA = [
     "Frente": "105 - FRENTE CASSIO",
     "Responsável": "NILDA CLAUDINO [2510716]",
     "Abertura da Asa": "54",
-    "Fazenda": "53201"
+    "Fazenda": "53201",
+    "Unnamed: 16": null
   },
   {
     "ID": "3463446",
@@ -15064,7 +15904,8 @@ const ABERTURA_ASA_DATA = [
     "Frente": "105 - FRENTE CASSIO",
     "Responsável": "NILDA CLAUDINO [2510716]",
     "Abertura da Asa": "51",
-    "Fazenda": "53201"
+    "Fazenda": "53201",
+    "Unnamed: 16": null
   },
   {
     "ID": "3463445",
@@ -15082,7 +15923,8 @@ const ABERTURA_ASA_DATA = [
     "Frente": "105 - FRENTE CASSIO",
     "Responsável": "NILDA CLAUDINO [2510716]",
     "Abertura da Asa": "51",
-    "Fazenda": "53201"
+    "Fazenda": "53201",
+    "Unnamed: 16": null
   },
   {
     "ID": "3454997",
@@ -15100,7 +15942,8 @@ const ABERTURA_ASA_DATA = [
     "Frente": "261 - FRENTE PRÓPRIA  (EDMILSON)",
     "Responsável": "VITOR AMORIM RAMOS ",
     "Abertura da Asa": "51",
-    "Fazenda": "53201"
+    "Fazenda": "53201",
+    "Unnamed: 16": null
   },
   {
     "ID": "3454832",
@@ -15118,7 +15961,8 @@ const ABERTURA_ASA_DATA = [
     "Frente": "139 - Manezão",
     "Responsável": "MARCELO DE OLIVEIRA JUNIOR",
     "Abertura da Asa": "51",
-    "Fazenda": "53201"
+    "Fazenda": "53201",
+    "Unnamed: 16": null
   },
   {
     "ID": "3454831",
@@ -15136,7 +15980,8 @@ const ABERTURA_ASA_DATA = [
     "Frente": "139 - Manezão",
     "Responsável": "MARCELO DE OLIVEIRA JUNIOR",
     "Abertura da Asa": "53",
-    "Fazenda": "53201"
+    "Fazenda": "53201",
+    "Unnamed: 16": null
   },
   {
     "ID": "3454996",
@@ -15154,7 +15999,8 @@ const ABERTURA_ASA_DATA = [
     "Frente": "261 - FRENTE PRÓPRIA  (EDMILSON)",
     "Responsável": "VITOR AMORIM RAMOS ",
     "Abertura da Asa": "51",
-    "Fazenda": "53201"
+    "Fazenda": "53201",
+    "Unnamed: 16": null
   },
   {
     "ID": "3454830",
@@ -15172,7 +16018,8 @@ const ABERTURA_ASA_DATA = [
     "Frente": "139 - Manezão",
     "Responsável": "MARCELO DE OLIVEIRA JUNIOR",
     "Abertura da Asa": "51",
-    "Fazenda": "53201"
+    "Fazenda": "53201",
+    "Unnamed: 16": null
   },
   {
     "ID": "3454839",
@@ -15190,7 +16037,8 @@ const ABERTURA_ASA_DATA = [
     "Frente": "139 - Manezão",
     "Responsável": "MARCELO DE OLIVEIRA JUNIOR",
     "Abertura da Asa": "51",
-    "Fazenda": "53201"
+    "Fazenda": "53201",
+    "Unnamed: 16": null
   },
   {
     "ID": "3454876",
@@ -15208,7 +16056,8 @@ const ABERTURA_ASA_DATA = [
     "Frente": "105 - FRENTE CASSIO (ZACARIAS)",
     "Responsável": "GABRIEL HENRIQUE MARTINS PEREIRA",
     "Abertura da Asa": "53",
-    "Fazenda": "53201"
+    "Fazenda": "53201",
+    "Unnamed: 16": null
   },
   {
     "ID": "3454875",
@@ -15226,7 +16075,8 @@ const ABERTURA_ASA_DATA = [
     "Frente": "105 - FRENTE CASSIO (ZACARIAS)",
     "Responsável": "GABRIEL HENRIQUE MARTINS PEREIRA",
     "Abertura da Asa": "54",
-    "Fazenda": "53201"
+    "Fazenda": "53201",
+    "Unnamed: 16": null
   },
   {
     "ID": "3454874",
@@ -15244,7 +16094,8 @@ const ABERTURA_ASA_DATA = [
     "Frente": "105 - FRENTE CASSIO (ZACARIAS)",
     "Responsável": "GABRIEL HENRIQUE MARTINS PEREIRA",
     "Abertura da Asa": "54",
-    "Fazenda": "53201"
+    "Fazenda": "53201",
+    "Unnamed: 16": null
   },
   {
     "ID": "3454873",
@@ -15262,7 +16113,8 @@ const ABERTURA_ASA_DATA = [
     "Frente": "105 - FRENTE CASSIO (ZACARIAS)",
     "Responsável": "GABRIEL HENRIQUE MARTINS PEREIRA",
     "Abertura da Asa": "53",
-    "Fazenda": "53201"
+    "Fazenda": "53201",
+    "Unnamed: 16": null
   },
   {
     "ID": "3454207",
@@ -15280,7 +16132,8 @@ const ABERTURA_ASA_DATA = [
     "Frente": "105 - FRENTE CASSIO",
     "Responsável": "GABRIEL HENRIQUE MARTINS PEREIRA",
     "Abertura da Asa": "52",
-    "Fazenda": "53201"
+    "Fazenda": "53201",
+    "Unnamed: 16": null
   },
   {
     "ID": "3454206",
@@ -15298,7 +16151,8 @@ const ABERTURA_ASA_DATA = [
     "Frente": "105 - FRENTE CASSIO",
     "Responsável": "GABRIEL HENRIQUE MARTINS PEREIRA",
     "Abertura da Asa": "53",
-    "Fazenda": "53201"
+    "Fazenda": "53201",
+    "Unnamed: 16": null
   },
   {
     "ID": "3454205",
@@ -15316,7 +16170,8 @@ const ABERTURA_ASA_DATA = [
     "Frente": "105 - FRENTE CASSIO",
     "Responsável": "GABRIEL HENRIQUE MARTINS PEREIRA",
     "Abertura da Asa": "51",
-    "Fazenda": "53201"
+    "Fazenda": "53201",
+    "Unnamed: 16": null
   },
   {
     "ID": "3454204",
@@ -15334,7 +16189,8 @@ const ABERTURA_ASA_DATA = [
     "Frente": "105 - FRENTE CASSIO",
     "Responsável": "GABRIEL HENRIQUE MARTINS PEREIRA",
     "Abertura da Asa": "52",
-    "Fazenda": "53201"
+    "Fazenda": "53201",
+    "Unnamed: 16": null
   },
   {
     "ID": "3454235",
@@ -15352,7 +16208,8 @@ const ABERTURA_ASA_DATA = [
     "Frente": "142 - FRENTE BIDU",
     "Responsável": "GLEISON FELIPE BORGES DE MATOS",
     "Abertura da Asa": "51",
-    "Fazenda": "53201"
+    "Fazenda": "53201",
+    "Unnamed: 16": null
   },
   {
     "ID": "3454234",
@@ -15370,7 +16227,8 @@ const ABERTURA_ASA_DATA = [
     "Frente": "142 - FRENTE BIDU",
     "Responsável": "GLEISON FELIPE BORGES DE MATOS",
     "Abertura da Asa": "50",
-    "Fazenda": "53201"
+    "Fazenda": "53201",
+    "Unnamed: 16": null
   },
   {
     "ID": "3454233",
@@ -15388,7 +16246,8 @@ const ABERTURA_ASA_DATA = [
     "Frente": "142 - FRENTE BIDU",
     "Responsável": "GLEISON FELIPE BORGES DE MATOS",
     "Abertura da Asa": "51",
-    "Fazenda": "53201"
+    "Fazenda": "53201",
+    "Unnamed: 16": null
   },
   {
     "ID": "3454232",
@@ -15406,7 +16265,8 @@ const ABERTURA_ASA_DATA = [
     "Frente": "142 - FRENTE BIDU",
     "Responsável": "GLEISON FELIPE BORGES DE MATOS",
     "Abertura da Asa": "51",
-    "Fazenda": "53201"
+    "Fazenda": "53201",
+    "Unnamed: 16": null
   },
   {
     "ID": "3451184",
@@ -15424,7 +16284,8 @@ const ABERTURA_ASA_DATA = [
     "Frente": "139 - Manezão",
     "Responsável": "MARCELO DE OLIVEIRA JUNIOR [264820]",
     "Abertura da Asa": "53",
-    "Fazenda": "53201"
+    "Fazenda": "53201",
+    "Unnamed: 16": null
   },
   {
     "ID": "3451185",
@@ -15442,7 +16303,8 @@ const ABERTURA_ASA_DATA = [
     "Frente": "139 - Manezão",
     "Responsável": "MARCELO DE OLIVEIRA JUNIOR [264820]",
     "Abertura da Asa": "52",
-    "Fazenda": "53201"
+    "Fazenda": "53201",
+    "Unnamed: 16": null
   },
   {
     "ID": "3451163",
@@ -15460,7 +16322,8 @@ const ABERTURA_ASA_DATA = [
     "Frente": "139 - Manezão",
     "Responsável": "MARCELO DE OLIVEIRA JUNIOR [264820]",
     "Abertura da Asa": "52",
-    "Fazenda": "53201"
+    "Fazenda": "53201",
+    "Unnamed: 16": null
   },
   {
     "ID": "3451162",
@@ -15478,7 +16341,8 @@ const ABERTURA_ASA_DATA = [
     "Frente": "139 - Manezão",
     "Responsável": "MARCELO DE OLIVEIRA JUNIOR [264820]",
     "Abertura da Asa": "50",
-    "Fazenda": "53201"
+    "Fazenda": "53201",
+    "Unnamed: 16": null
   },
   {
     "ID": "3447519",
@@ -15496,7 +16360,8 @@ const ABERTURA_ASA_DATA = [
     "Frente": "135 - PEDRINHO ",
     "Responsável": "NILDA CLAUDINO [2510716]",
     "Abertura da Asa": "51",
-    "Fazenda": "53201"
+    "Fazenda": "53201",
+    "Unnamed: 16": null
   },
   {
     "ID": "3447518",
@@ -15514,7 +16379,8 @@ const ABERTURA_ASA_DATA = [
     "Frente": "135 - PEDRINHO ",
     "Responsável": "NILDA CLAUDINO [2510716]",
     "Abertura da Asa": "51",
-    "Fazenda": "53201"
+    "Fazenda": "53201",
+    "Unnamed: 16": null
   },
   {
     "ID": "3447516",
@@ -15532,7 +16398,8 @@ const ABERTURA_ASA_DATA = [
     "Frente": "135 - PEDRINHO ",
     "Responsável": "NILDA CLAUDINO [2510716]",
     "Abertura da Asa": "51",
-    "Fazenda": "53201"
+    "Fazenda": "53201",
+    "Unnamed: 16": null
   },
   {
     "ID": "3447517",
@@ -15550,7 +16417,8 @@ const ABERTURA_ASA_DATA = [
     "Frente": "135 - PEDRINHO ",
     "Responsável": "NILDA CLAUDINO [2510716]",
     "Abertura da Asa": "51",
-    "Fazenda": "53201"
+    "Fazenda": "53201",
+    "Unnamed: 16": null
   },
   {
     "ID": "3449682",
@@ -15568,7 +16436,8 @@ const ABERTURA_ASA_DATA = [
     "Frente": "135 - FRENTE PEDRINHO",
     "Responsável": "REGINALDO DA SILVA GOMES ",
     "Abertura da Asa": "51",
-    "Fazenda": "53201"
+    "Fazenda": "53201",
+    "Unnamed: 16": null
   },
   {
     "ID": "3449681",
@@ -15586,7 +16455,8 @@ const ABERTURA_ASA_DATA = [
     "Frente": "135 - FRENTE PEDRINHO",
     "Responsável": "REGINALDO DA SILVA GOMES ",
     "Abertura da Asa": "51",
-    "Fazenda": "53201"
+    "Fazenda": "53201",
+    "Unnamed: 16": null
   },
   {
     "ID": "3449680",
@@ -15604,7 +16474,8 @@ const ABERTURA_ASA_DATA = [
     "Frente": "135 - FRENTE PEDRINHO",
     "Responsável": "REGINALDO DA SILVA GOMES ",
     "Abertura da Asa": "51",
-    "Fazenda": "53201"
+    "Fazenda": "53201",
+    "Unnamed: 16": null
   },
   {
     "ID": "3449679",
@@ -15622,7 +16493,8 @@ const ABERTURA_ASA_DATA = [
     "Frente": "135 - FRENTE PEDRINHO",
     "Responsável": "REGINALDO DA SILVA GOMES ",
     "Abertura da Asa": "51",
-    "Fazenda": "53201"
+    "Fazenda": "53201",
+    "Unnamed: 16": null
   },
   {
     "ID": "3449663",
@@ -15640,7 +16512,8 @@ const ABERTURA_ASA_DATA = [
     "Frente": "105 - FRENTE CASSIO (ZACARIAS)",
     "Responsável": "268680 - GABRIEL HENRIQUE MARTINS PEREIRA ",
     "Abertura da Asa": "55",
-    "Fazenda": "53201"
+    "Fazenda": "53201",
+    "Unnamed: 16": null
   },
   {
     "ID": "3449664",
@@ -15658,7 +16531,8 @@ const ABERTURA_ASA_DATA = [
     "Frente": "105 - FRENTE CASSIO (ZACARIAS)",
     "Responsável": "268680 - GABRIEL HENRIQUE MARTINS PEREIRA ",
     "Abertura da Asa": "56",
-    "Fazenda": "53201"
+    "Fazenda": "53201",
+    "Unnamed: 16": null
   },
   {
     "ID": "3449662",
@@ -15676,7 +16550,8 @@ const ABERTURA_ASA_DATA = [
     "Frente": "105 - FRENTE CASSIO (ZACARIAS)",
     "Responsável": "268680 - GABRIEL HENRIQUE MARTINS PEREIRA ",
     "Abertura da Asa": "56",
-    "Fazenda": "53201"
+    "Fazenda": "53201",
+    "Unnamed: 16": null
   },
   {
     "ID": "3449661",
@@ -15694,7 +16569,8 @@ const ABERTURA_ASA_DATA = [
     "Frente": "105 - FRENTE CASSIO (ZACARIAS)",
     "Responsável": "268680 - GABRIEL HENRIQUE MARTINS PEREIRA ",
     "Abertura da Asa": "54",
-    "Fazenda": "53201"
+    "Fazenda": "53201",
+    "Unnamed: 16": null
   },
   {
     "ID": "3445535",
@@ -15712,7 +16588,8 @@ const ABERTURA_ASA_DATA = [
     "Frente": "142 - FRENTE BIDU",
     "Responsável": "MICHELI DE SOUZA SANTOS  ",
     "Abertura da Asa": "49",
-    "Fazenda": "53201"
+    "Fazenda": "53201",
+    "Unnamed: 16": null
   },
   {
     "ID": "3445531",
@@ -15730,7 +16607,8 @@ const ABERTURA_ASA_DATA = [
     "Frente": "142 - FRENTE BIDU",
     "Responsável": "MICHELI DE SOUZA SANTOS  ",
     "Abertura da Asa": "51",
-    "Fazenda": "53201"
+    "Fazenda": "53201",
+    "Unnamed: 16": null
   },
   {
     "ID": "3445536",
@@ -15748,7 +16626,8 @@ const ABERTURA_ASA_DATA = [
     "Frente": "142 - FRENTE BIDU",
     "Responsável": "MICHELI DE SOUZA SANTOS  ",
     "Abertura da Asa": "49",
-    "Fazenda": "53201"
+    "Fazenda": "53201",
+    "Unnamed: 16": null
   },
   {
     "ID": "3445534",
@@ -15766,7 +16645,8 @@ const ABERTURA_ASA_DATA = [
     "Frente": "142 - FRENTE BIDU",
     "Responsável": "MICHELI DE SOUZA SANTOS  ",
     "Abertura da Asa": "51",
-    "Fazenda": "53201"
+    "Fazenda": "53201",
+    "Unnamed: 16": null
   },
   {
     "ID": "3445533",
@@ -15784,7 +16664,8 @@ const ABERTURA_ASA_DATA = [
     "Frente": "142 - FRENTE BIDU",
     "Responsável": "MICHELI DE SOUZA SANTOS  ",
     "Abertura da Asa": "51",
-    "Fazenda": "53201"
+    "Fazenda": "53201",
+    "Unnamed: 16": null
   },
   {
     "ID": "3445532",
@@ -15802,7 +16683,8 @@ const ABERTURA_ASA_DATA = [
     "Frente": "142 - FRENTE BIDU",
     "Responsável": "MICHELI DE SOUZA SANTOS  ",
     "Abertura da Asa": "51",
-    "Fazenda": "53201"
+    "Fazenda": "53201",
+    "Unnamed: 16": null
   },
   {
     "ID": "3445636",
@@ -15820,7 +16702,8 @@ const ABERTURA_ASA_DATA = [
     "Frente": "135 - PEDRINHO ",
     "Responsável": "NILDA CLAUDINO [2510716]",
     "Abertura da Asa": "51",
-    "Fazenda": "53201"
+    "Fazenda": "53201",
+    "Unnamed: 16": null
   },
   {
     "ID": "3445635",
@@ -15838,7 +16721,8 @@ const ABERTURA_ASA_DATA = [
     "Frente": "135 - PEDRINHO ",
     "Responsável": "NILDA CLAUDINO [2510716]",
     "Abertura da Asa": "51",
-    "Fazenda": "53201"
+    "Fazenda": "53201",
+    "Unnamed: 16": null
   },
   {
     "ID": "3445634",
@@ -15856,7 +16740,8 @@ const ABERTURA_ASA_DATA = [
     "Frente": "135 - PEDRINHO ",
     "Responsável": "NILDA CLAUDINO [2510716]",
     "Abertura da Asa": "51",
-    "Fazenda": "53201"
+    "Fazenda": "53201",
+    "Unnamed: 16": null
   },
   {
     "ID": "3445633",
@@ -15874,7 +16759,8 @@ const ABERTURA_ASA_DATA = [
     "Frente": "135 - PEDRINHO ",
     "Responsável": "NILDA CLAUDINO [2510716]",
     "Abertura da Asa": "51",
-    "Fazenda": "53201"
+    "Fazenda": "53201",
+    "Unnamed: 16": null
   },
   {
     "ID": "3431409",
@@ -15892,7 +16778,8 @@ const ABERTURA_ASA_DATA = [
     "Frente": "105 - FRENTE CASSIO (ZACARIAS)",
     "Responsável": "268680 - GABRIEL HENRIQUE MARTINS PEREIRA ",
     "Abertura da Asa": "51",
-    "Fazenda": "53201"
+    "Fazenda": "53201",
+    "Unnamed: 16": null
   },
   {
     "ID": "3431410",
@@ -15910,7 +16797,8 @@ const ABERTURA_ASA_DATA = [
     "Frente": "105 - FRENTE CASSIO (ZACARIAS)",
     "Responsável": "268680 - GABRIEL HENRIQUE MARTINS PEREIRA ",
     "Abertura da Asa": "52",
-    "Fazenda": "53201"
+    "Fazenda": "53201",
+    "Unnamed: 16": null
   },
   {
     "ID": "3431417",
@@ -15928,7 +16816,8 @@ const ABERTURA_ASA_DATA = [
     "Frente": "105 - FRENTE CASSIO (ZACARIAS)",
     "Responsável": "268680 - GABRIEL HENRIQUE MARTINS PEREIRA ",
     "Abertura da Asa": "47",
-    "Fazenda": "53201"
+    "Fazenda": "53201",
+    "Unnamed: 16": null
   },
   {
     "ID": "3431418",
@@ -15946,7 +16835,8 @@ const ABERTURA_ASA_DATA = [
     "Frente": "105 - FRENTE CASSIO (ZACARIAS)",
     "Responsável": "268680 - GABRIEL HENRIQUE MARTINS PEREIRA ",
     "Abertura da Asa": "48",
-    "Fazenda": "53201"
+    "Fazenda": "53201",
+    "Unnamed: 16": null
   },
   {
     "ID": "3433127",
@@ -15964,7 +16854,8 @@ const ABERTURA_ASA_DATA = [
     "Frente": "105 - FRENTE CASSIO (ZACARIAS)",
     "Responsável": "268680 - GABRIEL HENRIQUE MARTINS PEREIRA ",
     "Abertura da Asa": "49",
-    "Fazenda": "53201"
+    "Fazenda": "53201",
+    "Unnamed: 16": null
   },
   {
     "ID": "3433128",
@@ -15982,7 +16873,8 @@ const ABERTURA_ASA_DATA = [
     "Frente": "105 - FRENTE CASSIO (ZACARIAS)",
     "Responsável": "268680 - GABRIEL HENRIQUE MARTINS PEREIRA ",
     "Abertura da Asa": "47",
-    "Fazenda": "53201"
+    "Fazenda": "53201",
+    "Unnamed: 16": null
   },
   {
     "ID": "3433317",
@@ -16000,7 +16892,8 @@ const ABERTURA_ASA_DATA = [
     "Frente": "261 - FRENTE PRÓPRIA  (EDMILSON)",
     "Responsável": "278400 - Vitor Amorim Ramos ",
     "Abertura da Asa": "51",
-    "Fazenda": "53201"
+    "Fazenda": "53201",
+    "Unnamed: 16": null
   },
   {
     "ID": "3433316",
@@ -16018,7 +16911,8 @@ const ABERTURA_ASA_DATA = [
     "Frente": "261 - FRENTE PRÓPRIA  (EDMILSON)",
     "Responsável": "278400 - Vitor Amorim Ramos ",
     "Abertura da Asa": "51",
-    "Fazenda": "53201"
+    "Fazenda": "53201",
+    "Unnamed: 16": null
   },
   {
     "ID": "3433318",
@@ -16036,7 +16930,8 @@ const ABERTURA_ASA_DATA = [
     "Frente": "261 - FRENTE PRÓPRIA  (EDMILSON)",
     "Responsável": "278400 - Vitor Amorim Ramos ",
     "Abertura da Asa": "51",
-    "Fazenda": "53201"
+    "Fazenda": "53201",
+    "Unnamed: 16": null
   },
   {
     "ID": "3433320",
@@ -16054,7 +16949,8 @@ const ABERTURA_ASA_DATA = [
     "Frente": "261 - FRENTE PRÓPRIA  (EDMILSON)",
     "Responsável": "278400 - Vitor Amorim Ramos ",
     "Abertura da Asa": "51",
-    "Fazenda": "53201"
+    "Fazenda": "53201",
+    "Unnamed: 16": null
   },
   {
     "ID": "3433131",
@@ -16072,7 +16968,8 @@ const ABERTURA_ASA_DATA = [
     "Frente": "105 - FRENTE CASSIO (ZACARIAS)",
     "Responsável": "268680 - GABRIEL HENRIQUE MARTINS PEREIRA ",
     "Abertura da Asa": "53",
-    "Fazenda": "53201"
+    "Fazenda": "53201",
+    "Unnamed: 16": null
   },
   {
     "ID": "3433132",
@@ -16090,7 +16987,8 @@ const ABERTURA_ASA_DATA = [
     "Frente": "105 - FRENTE CASSIO (ZACARIAS)",
     "Responsável": "268680 - GABRIEL HENRIQUE MARTINS PEREIRA ",
     "Abertura da Asa": "51",
-    "Fazenda": "53201"
+    "Fazenda": "53201",
+    "Unnamed: 16": null
   },
   {
     "ID": "3433183",
@@ -16108,7 +17006,8 @@ const ABERTURA_ASA_DATA = [
     "Frente": "135 - FRENTE PEDRINHO",
     "Responsável": "NILDA CLAUDINO [2510716]",
     "Abertura da Asa": "51",
-    "Fazenda": "53201"
+    "Fazenda": "53201",
+    "Unnamed: 16": null
   },
   {
     "ID": "3433184",
@@ -16126,7 +17025,8 @@ const ABERTURA_ASA_DATA = [
     "Frente": "135 - FRENTE PEDRINHO",
     "Responsável": "NILDA CLAUDINO [2510716]",
     "Abertura da Asa": "51",
-    "Fazenda": "53201"
+    "Fazenda": "53201",
+    "Unnamed: 16": null
   },
   {
     "ID": "3433185",
@@ -16144,7 +17044,8 @@ const ABERTURA_ASA_DATA = [
     "Frente": "135 - FRENTE PEDRINHO",
     "Responsável": "NILDA CLAUDINO [2510716]",
     "Abertura da Asa": "51",
-    "Fazenda": "53201"
+    "Fazenda": "53201",
+    "Unnamed: 16": null
   },
   {
     "ID": "3433186",
@@ -16162,7 +17063,8 @@ const ABERTURA_ASA_DATA = [
     "Frente": "135 - FRENTE PEDRINHO",
     "Responsável": "NILDA CLAUDINO [2510716]",
     "Abertura da Asa": "51",
-    "Fazenda": "53201"
+    "Fazenda": "53201",
+    "Unnamed: 16": null
   },
   {
     "ID": "3435668",
@@ -16180,7 +17082,8 @@ const ABERTURA_ASA_DATA = [
     "Frente": "142 - FRENTE BIDU",
     "Responsável": "REGINALDO DA SILVA GOMES [249300]",
     "Abertura da Asa": "47",
-    "Fazenda": "53201"
+    "Fazenda": "53201",
+    "Unnamed: 16": null
   },
   {
     "ID": "3435671",
@@ -16198,7 +17101,8 @@ const ABERTURA_ASA_DATA = [
     "Frente": "142 - FRENTE BIDU",
     "Responsável": "REGINALDO DA SILVA GOMES [249300]",
     "Abertura da Asa": "52",
-    "Fazenda": "53201"
+    "Fazenda": "53201",
+    "Unnamed: 16": null
   },
   {
     "ID": "3435670",
@@ -16216,7 +17120,8 @@ const ABERTURA_ASA_DATA = [
     "Frente": "142 - FRENTE BIDU",
     "Responsável": "REGINALDO DA SILVA GOMES [249300]",
     "Abertura da Asa": "51",
-    "Fazenda": "53201"
+    "Fazenda": "53201",
+    "Unnamed: 16": null
   },
   {
     "ID": "3435669",
@@ -16234,7 +17139,8 @@ const ABERTURA_ASA_DATA = [
     "Frente": "142 - FRENTE BIDU",
     "Responsável": "REGINALDO DA SILVA GOMES [249300]",
     "Abertura da Asa": "48",
-    "Fazenda": "53201"
+    "Fazenda": "53201",
+    "Unnamed: 16": null
   },
   {
     "ID": "3435323",
@@ -16252,7 +17158,8 @@ const ABERTURA_ASA_DATA = [
     "Frente": "142 - FRENTE BIDU",
     "Responsável": "MICHELI DE SOUZA SANTOS  ",
     "Abertura da Asa": "52",
-    "Fazenda": "53201"
+    "Fazenda": "53201",
+    "Unnamed: 16": null
   },
   {
     "ID": "3435324",
@@ -16270,7 +17177,8 @@ const ABERTURA_ASA_DATA = [
     "Frente": "142 - FRENTE BIDU",
     "Responsável": "MICHELI DE SOUZA SANTOS  ",
     "Abertura da Asa": "48",
-    "Fazenda": "53201"
+    "Fazenda": "53201",
+    "Unnamed: 16": null
   },
   {
     "ID": "3435322",
@@ -16288,7 +17196,8 @@ const ABERTURA_ASA_DATA = [
     "Frente": "142 - FRENTE BIDU",
     "Responsável": "MICHELI DE SOUZA SANTOS  ",
     "Abertura da Asa": "51",
-    "Fazenda": "53201"
+    "Fazenda": "53201",
+    "Unnamed: 16": null
   },
   {
     "ID": "3435325",
@@ -16306,7 +17215,8 @@ const ABERTURA_ASA_DATA = [
     "Frente": "142 - FRENTE BIDU",
     "Responsável": "MICHELI DE SOUZA SANTOS  ",
     "Abertura da Asa": "47",
-    "Fazenda": "53201"
+    "Fazenda": "53201",
+    "Unnamed: 16": null
   },
   {
     "ID": "3435602",
@@ -16324,7 +17234,8 @@ const ABERTURA_ASA_DATA = [
     "Frente": "291 - FRENTE PRÓPRIA ",
     "Responsável": "278400 - Vitor Amorim Ramos ",
     "Abertura da Asa": "51",
-    "Fazenda": "53201"
+    "Fazenda": "53201",
+    "Unnamed: 16": null
   },
   {
     "ID": "3435604",
@@ -16342,7 +17253,8 @@ const ABERTURA_ASA_DATA = [
     "Frente": "291 - FRENTE PRÓPRIA ",
     "Responsável": "278400 - Vitor Amorim Ramos ",
     "Abertura da Asa": "51",
-    "Fazenda": "53201"
+    "Fazenda": "53201",
+    "Unnamed: 16": null
   },
   {
     "ID": "3435619",
@@ -16360,7 +17272,8 @@ const ABERTURA_ASA_DATA = [
     "Frente": "291 - FRENTE PRÓPRIA ",
     "Responsável": "278400 - Vitor Amorim Ramos ",
     "Abertura da Asa": "51",
-    "Fazenda": "53201"
+    "Fazenda": "53201",
+    "Unnamed: 16": null
   },
   {
     "ID": "3435620",
@@ -16378,7 +17291,8 @@ const ABERTURA_ASA_DATA = [
     "Frente": "291 - FRENTE PRÓPRIA ",
     "Responsável": "278400 - Vitor Amorim Ramos ",
     "Abertura da Asa": "51",
-    "Fazenda": "53201"
+    "Fazenda": "53201",
+    "Unnamed: 16": null
   },
   {
     "ID": "3433171",
@@ -16396,7 +17310,8 @@ const ABERTURA_ASA_DATA = [
     "Frente": "142 - FRENTE BIDU",
     "Responsável": "MICHELI DE SOUZA SANTOS  ",
     "Abertura da Asa": "51",
-    "Fazenda": "53201"
+    "Fazenda": "53201",
+    "Unnamed: 16": null
   },
   {
     "ID": "3433170",
@@ -16414,7 +17329,8 @@ const ABERTURA_ASA_DATA = [
     "Frente": "142 - FRENTE BIDU",
     "Responsável": "MICHELI DE SOUZA SANTOS  ",
     "Abertura da Asa": "51",
-    "Fazenda": "53201"
+    "Fazenda": "53201",
+    "Unnamed: 16": null
   },
   {
     "ID": "3433169",
@@ -16432,7 +17348,8 @@ const ABERTURA_ASA_DATA = [
     "Frente": "142 - FRENTE BIDU",
     "Responsável": "MICHELI DE SOUZA SANTOS  ",
     "Abertura da Asa": "48",
-    "Fazenda": "53201"
+    "Fazenda": "53201",
+    "Unnamed: 16": null
   },
   {
     "ID": "3433168",
@@ -16450,7 +17367,8 @@ const ABERTURA_ASA_DATA = [
     "Frente": "142 - FRENTE BIDU",
     "Responsável": "MICHELI DE SOUZA SANTOS  ",
     "Abertura da Asa": "48",
-    "Fazenda": "53201"
+    "Fazenda": "53201",
+    "Unnamed: 16": null
   },
   {
     "ID": "3431297",
@@ -16468,7 +17386,8 @@ const ABERTURA_ASA_DATA = [
     "Frente": "142 - FRENTE BIDU",
     "Responsável": "MICHELI DE SOUZA SANTOS  ",
     "Abertura da Asa": "51",
-    "Fazenda": "53201"
+    "Fazenda": "53201",
+    "Unnamed: 16": null
   },
   {
     "ID": "3431296",
@@ -16486,7 +17405,8 @@ const ABERTURA_ASA_DATA = [
     "Frente": "142 - FRENTE BIDU",
     "Responsável": "MICHELI DE SOUZA SANTOS  ",
     "Abertura da Asa": "51",
-    "Fazenda": "53201"
+    "Fazenda": "53201",
+    "Unnamed: 16": null
   },
   {
     "ID": "3431295",
@@ -16504,7 +17424,8 @@ const ABERTURA_ASA_DATA = [
     "Frente": "142 - FRENTE BIDU",
     "Responsável": "MICHELI DE SOUZA SANTOS  ",
     "Abertura da Asa": "49",
-    "Fazenda": "53201"
+    "Fazenda": "53201",
+    "Unnamed: 16": null
   },
   {
     "ID": "3431294",
@@ -16522,7 +17443,8 @@ const ABERTURA_ASA_DATA = [
     "Frente": "142 - FRENTE BIDU",
     "Responsável": "MICHELI DE SOUZA SANTOS  ",
     "Abertura da Asa": "50",
-    "Fazenda": "53201"
+    "Fazenda": "53201",
+    "Unnamed: 16": null
   },
   {
     "ID": "3443432",
@@ -16540,7 +17462,8 @@ const ABERTURA_ASA_DATA = [
     "Frente": "135 - FRENTE PEDRINHO",
     "Responsável": "REGINALDO DA SILVA GOMES [249300]",
     "Abertura da Asa": "51",
-    "Fazenda": "53201"
+    "Fazenda": "53201",
+    "Unnamed: 16": null
   },
   {
     "ID": "3443433",
@@ -16558,7 +17481,8 @@ const ABERTURA_ASA_DATA = [
     "Frente": "135 - FRENTE PEDRINHO",
     "Responsável": "REGINALDO DA SILVA GOMES [249300]",
     "Abertura da Asa": "51",
-    "Fazenda": "53201"
+    "Fazenda": "53201",
+    "Unnamed: 16": null
   },
   {
     "ID": "3443435",
@@ -16576,7 +17500,8 @@ const ABERTURA_ASA_DATA = [
     "Frente": "135 - FRENTE PEDRINHO",
     "Responsável": "REGINALDO DA SILVA GOMES [249300]",
     "Abertura da Asa": "51",
-    "Fazenda": "53201"
+    "Fazenda": "53201",
+    "Unnamed: 16": null
   },
   {
     "ID": "3443434",
@@ -16594,7 +17519,8 @@ const ABERTURA_ASA_DATA = [
     "Frente": "135 - FRENTE PEDRINHO",
     "Responsável": "REGINALDO DA SILVA GOMES [249300]",
     "Abertura da Asa": "51",
-    "Fazenda": "53201"
+    "Fazenda": "53201",
+    "Unnamed: 16": null
   },
   {
     "ID": "3443395",
@@ -16612,7 +17538,8 @@ const ABERTURA_ASA_DATA = [
     "Frente": "135 - PEDRINHO ",
     "Responsável": "NILDA CLAUDINO [2510716]",
     "Abertura da Asa": "51",
-    "Fazenda": "53102"
+    "Fazenda": "53102",
+    "Unnamed: 16": null
   },
   {
     "ID": "3443393",
@@ -16630,7 +17557,8 @@ const ABERTURA_ASA_DATA = [
     "Frente": "135 - PEDRINHO ",
     "Responsável": "NILDA CLAUDINO [2510716]",
     "Abertura da Asa": "51",
-    "Fazenda": "53201"
+    "Fazenda": "53201",
+    "Unnamed: 16": null
   },
   {
     "ID": "3443397",
@@ -16648,7 +17576,8 @@ const ABERTURA_ASA_DATA = [
     "Frente": "135 - PEDRINHO ",
     "Responsável": "NILDA CLAUDINO [2510716]",
     "Abertura da Asa": "51",
-    "Fazenda": "53201"
+    "Fazenda": "53201",
+    "Unnamed: 16": null
   },
   {
     "ID": "3443398",
@@ -16666,7 +17595,8 @@ const ABERTURA_ASA_DATA = [
     "Frente": "135 - PEDRINHO ",
     "Responsável": "NILDA CLAUDINO [2510716]",
     "Abertura da Asa": "51",
-    "Fazenda": "53201"
+    "Fazenda": "53201",
+    "Unnamed: 16": null
   },
   {
     "ID": "3443372",
@@ -16684,7 +17614,8 @@ const ABERTURA_ASA_DATA = [
     "Frente": "142 - FRENTE BIDU",
     "Responsável": "GLEISON FELIPE BORGES DE MATOS [266770]",
     "Abertura da Asa": "51",
-    "Fazenda": "53201"
+    "Fazenda": "53201",
+    "Unnamed: 16": null
   },
   {
     "ID": "3443373",
@@ -16702,7 +17633,8 @@ const ABERTURA_ASA_DATA = [
     "Frente": "142 - FRENTE BIDU",
     "Responsável": "GLEISON FELIPE BORGES DE MATOS [266770]",
     "Abertura da Asa": "51",
-    "Fazenda": "53201"
+    "Fazenda": "53201",
+    "Unnamed: 16": null
   },
   {
     "ID": "3443374",
@@ -16720,7 +17652,8 @@ const ABERTURA_ASA_DATA = [
     "Frente": "142 - FRENTE BIDU",
     "Responsável": "GLEISON FELIPE BORGES DE MATOS [266770]",
     "Abertura da Asa": "51",
-    "Fazenda": "53201"
+    "Fazenda": "53201",
+    "Unnamed: 16": null
   },
   {
     "ID": "3443375",
@@ -16738,7 +17671,8 @@ const ABERTURA_ASA_DATA = [
     "Frente": "142 - FRENTE BIDU",
     "Responsável": "GLEISON FELIPE BORGES DE MATOS [266770]",
     "Abertura da Asa": "51",
-    "Fazenda": "53201"
+    "Fazenda": "53201",
+    "Unnamed: 16": null
   },
   {
     "ID": "3443882",
@@ -16756,7 +17690,8 @@ const ABERTURA_ASA_DATA = [
     "Frente": "142 - FRENTE BIDU",
     "Responsável": "MICHELI DE SOUZA SANTOS  ",
     "Abertura da Asa": "58",
-    "Fazenda": "53201"
+    "Fazenda": "53201",
+    "Unnamed: 16": null
   },
   {
     "ID": "3443883",
@@ -16774,7 +17709,8 @@ const ABERTURA_ASA_DATA = [
     "Frente": "142 - FRENTE BIDU",
     "Responsável": "MICHELI DE SOUZA SANTOS  ",
     "Abertura da Asa": "58",
-    "Fazenda": "53201"
+    "Fazenda": "53201",
+    "Unnamed: 16": null
   },
   {
     "ID": "3431319",
@@ -16792,7 +17728,8 @@ const ABERTURA_ASA_DATA = [
     "Frente": "261 - FRENTE PRÓPRIA  (EDMILSON)",
     "Responsável": "NILDA CLAUDINO [2510716]",
     "Abertura da Asa": "53",
-    "Fazenda": "53201"
+    "Fazenda": "53201",
+    "Unnamed: 16": null
   },
   {
     "ID": "3431318",
@@ -16810,7 +17747,8 @@ const ABERTURA_ASA_DATA = [
     "Frente": "261 - FRENTE PRÓPRIA  (EDMILSON)",
     "Responsável": "NILDA CLAUDINO [2510716]",
     "Abertura da Asa": "51",
-    "Fazenda": "53201"
+    "Fazenda": "53201",
+    "Unnamed: 16": null
   },
   {
     "ID": "3431157",
@@ -16828,7 +17766,8 @@ const ABERTURA_ASA_DATA = [
     "Frente": "142- Bidu",
     "Responsável": "REGINALDO DA SILVA GOMES [249300]",
     "Abertura da Asa": "51",
-    "Fazenda": "53201"
+    "Fazenda": "53201",
+    "Unnamed: 16": null
   },
   {
     "ID": "3431158",
@@ -16846,7 +17785,8 @@ const ABERTURA_ASA_DATA = [
     "Frente": "142- Bidu",
     "Responsável": "REGINALDO DA SILVA GOMES [249300]",
     "Abertura da Asa": "51",
-    "Fazenda": "53201"
+    "Fazenda": "53201",
+    "Unnamed: 16": null
   },
   {
     "ID": "3431159",
@@ -16864,7 +17804,8 @@ const ABERTURA_ASA_DATA = [
     "Frente": "142- Bidu",
     "Responsável": "REGINALDO DA SILVA GOMES [249300]",
     "Abertura da Asa": "49",
-    "Fazenda": "53201"
+    "Fazenda": "53201",
+    "Unnamed: 16": null
   },
   {
     "ID": "3431160",
@@ -16882,7 +17823,8 @@ const ABERTURA_ASA_DATA = [
     "Frente": "142- Bidu",
     "Responsável": "REGINALDO DA SILVA GOMES [249300]",
     "Abertura da Asa": "50",
-    "Fazenda": "53201"
+    "Fazenda": "53201",
+    "Unnamed: 16": null
   },
   {
     "ID": "3431307",
@@ -16900,7 +17842,8 @@ const ABERTURA_ASA_DATA = [
     "Frente": "132 - FRENTE PEDRINHO",
     "Responsável": "MICHELI DE SOUZA SANTOS  ",
     "Abertura da Asa": "51",
-    "Fazenda": "53201"
+    "Fazenda": "53201",
+    "Unnamed: 16": null
   },
   {
     "ID": "3431306",
@@ -16918,7 +17861,8 @@ const ABERTURA_ASA_DATA = [
     "Frente": "132 - FRENTE PEDRINHO",
     "Responsável": "MICHELI DE SOUZA SANTOS  ",
     "Abertura da Asa": "51",
-    "Fazenda": "53201"
+    "Fazenda": "53201",
+    "Unnamed: 16": null
   },
   {
     "ID": "3431305",
@@ -16936,7 +17880,8 @@ const ABERTURA_ASA_DATA = [
     "Frente": "132 - FRENTE PEDRINHO",
     "Responsável": "MICHELI DE SOUZA SANTOS  ",
     "Abertura da Asa": "50",
-    "Fazenda": "53201"
+    "Fazenda": "53201",
+    "Unnamed: 16": null
   },
   {
     "ID": "3431304",
@@ -16954,7 +17899,8 @@ const ABERTURA_ASA_DATA = [
     "Frente": "132 - FRENTE PEDRINHO",
     "Responsável": "MICHELI DE SOUZA SANTOS  ",
     "Abertura da Asa": "50",
-    "Fazenda": "53201"
+    "Fazenda": "53201",
+    "Unnamed: 16": null
   },
   {
     "ID": "3431152",
@@ -16972,7 +17918,8 @@ const ABERTURA_ASA_DATA = [
     "Frente": "135 - FRENTE PEDRINHO",
     "Responsável": "REGINALDO DA SILVA GOMES [249300]",
     "Abertura da Asa": "51",
-    "Fazenda": "53201"
+    "Fazenda": "53201",
+    "Unnamed: 16": null
   },
   {
     "ID": "3431151",
@@ -16990,7 +17937,8 @@ const ABERTURA_ASA_DATA = [
     "Frente": "135 - FRENTE PEDRINHO",
     "Responsável": "REGINALDO DA SILVA GOMES [249300]",
     "Abertura da Asa": "51",
-    "Fazenda": "53201"
+    "Fazenda": "53201",
+    "Unnamed: 16": null
   },
   {
     "ID": "3431150",
@@ -17008,7 +17956,8 @@ const ABERTURA_ASA_DATA = [
     "Frente": "135 - FRENTE PEDRINHO",
     "Responsável": "REGINALDO DA SILVA GOMES [249300]",
     "Abertura da Asa": "50",
-    "Fazenda": "53201"
+    "Fazenda": "53201",
+    "Unnamed: 16": null
   },
   {
     "ID": "3431149",
@@ -17026,7 +17975,8 @@ const ABERTURA_ASA_DATA = [
     "Frente": "135 - FRENTE PEDRINHO",
     "Responsável": "REGINALDO DA SILVA GOMES [249300]",
     "Abertura da Asa": "50",
-    "Fazenda": "53201"
+    "Fazenda": "53201",
+    "Unnamed: 16": null
   },
   {
     "ID": "3428654",
@@ -17044,7 +17994,8 @@ const ABERTURA_ASA_DATA = [
     "Frente": "261 - FRENTE PRÓPRIA  (EDMILSON)",
     "Responsável": "EDILIANA CARDOSO DA COSTA [172390]",
     "Abertura da Asa": "51",
-    "Fazenda": "133803"
+    "Fazenda": "133803",
+    "Unnamed: 16": null
   },
   {
     "ID": "3428653",
@@ -17062,7 +18013,8 @@ const ABERTURA_ASA_DATA = [
     "Frente": "261 - FRENTE PRÓPRIA  (EDMILSON)",
     "Responsável": "EDILIANA CARDOSO DA COSTA [172390]",
     "Abertura da Asa": "51",
-    "Fazenda": "133803"
+    "Fazenda": "133803",
+    "Unnamed: 16": null
   },
   {
     "ID": "3428306",
@@ -17080,7 +18032,8 @@ const ABERTURA_ASA_DATA = [
     "Frente": "122 - Frente  Bidu",
     "Responsável": "REGINALDO DA SILVA GOMES [249300]",
     "Abertura da Asa": "51",
-    "Fazenda": "53201"
+    "Fazenda": "53201",
+    "Unnamed: 16": null
   },
   {
     "ID": "3428305",
@@ -17098,7 +18051,8 @@ const ABERTURA_ASA_DATA = [
     "Frente": "122 - Frente  Bidu",
     "Responsável": "REGINALDO DA SILVA GOMES [249300]",
     "Abertura da Asa": "51",
-    "Fazenda": "53201"
+    "Fazenda": "53201",
+    "Unnamed: 16": null
   },
   {
     "ID": "3429139",
@@ -17116,7 +18070,8 @@ const ABERTURA_ASA_DATA = [
     "Frente": "105 - FRENTE CASSIO (ZACARIAS)",
     "Responsável": "FERNANDA DE SOUZA [127577]",
     "Abertura da Asa": "50",
-    "Fazenda": "53201"
+    "Fazenda": "53201",
+    "Unnamed: 16": null
   },
   {
     "ID": "3429140",
@@ -17134,7 +18089,8 @@ const ABERTURA_ASA_DATA = [
     "Frente": "105 - FRENTE CASSIO (ZACARIAS)",
     "Responsável": "FERNANDA DE SOUZA [127577]",
     "Abertura da Asa": "50",
-    "Fazenda": "53201"
+    "Fazenda": "53201",
+    "Unnamed: 16": null
   },
   {
     "ID": "3428249",
@@ -17152,7 +18108,8 @@ const ABERTURA_ASA_DATA = [
     "Frente": "122 - Frente  Bidu",
     "Responsável": "MICHELI DE SOUZA SANTOS  ",
     "Abertura da Asa": "51",
-    "Fazenda": "53201"
+    "Fazenda": "53201",
+    "Unnamed: 16": null
   },
   {
     "ID": "3428248",
@@ -17170,7 +18127,8 @@ const ABERTURA_ASA_DATA = [
     "Frente": "122 - Frente  Bidu",
     "Responsável": "MICHELI DE SOUZA SANTOS  ",
     "Abertura da Asa": "51",
-    "Fazenda": "53201"
+    "Fazenda": "53201",
+    "Unnamed: 16": null
   },
   {
     "ID": "3428247",
@@ -17188,7 +18146,8 @@ const ABERTURA_ASA_DATA = [
     "Frente": "122 - Frente  Bidu",
     "Responsável": "MICHELI DE SOUZA SANTOS  ",
     "Abertura da Asa": "51",
-    "Fazenda": "53201"
+    "Fazenda": "53201",
+    "Unnamed: 16": null
   },
   {
     "ID": "3428246",
@@ -17206,7 +18165,8 @@ const ABERTURA_ASA_DATA = [
     "Frente": "122 - Frente  Bidu",
     "Responsável": "MICHELI DE SOUZA SANTOS  ",
     "Abertura da Asa": "51",
-    "Fazenda": "53201"
+    "Fazenda": "53201",
+    "Unnamed: 16": null
   },
   {
     "ID": "3426769",
@@ -17224,7 +18184,8 @@ const ABERTURA_ASA_DATA = [
     "Frente": "261 - FRENTE PRÓPRIA  (EDMILSON)",
     "Responsável": "278400 - Vitor Amorim Ramos ",
     "Abertura da Asa": "52",
-    "Fazenda": "53201"
+    "Fazenda": "53201",
+    "Unnamed: 16": null
   },
   {
     "ID": "3426594",
@@ -17242,7 +18203,8 @@ const ABERTURA_ASA_DATA = [
     "Frente": "261 - FRENTE PRÓPRIA  (EDMILSON)",
     "Responsável": "REGINALDO DA SILVA GOMES [249300]",
     "Abertura da Asa": "52",
-    "Fazenda": "53201"
+    "Fazenda": "53201",
+    "Unnamed: 16": null
   },
   {
     "ID": "3426593",
@@ -17260,7 +18222,8 @@ const ABERTURA_ASA_DATA = [
     "Frente": "261 - FRENTE PRÓPRIA  (EDMILSON)",
     "Responsável": "REGINALDO DA SILVA GOMES [249300]",
     "Abertura da Asa": "50",
-    "Fazenda": "53201"
+    "Fazenda": "53201",
+    "Unnamed: 16": null
   },
   {
     "ID": "3426547",
@@ -17278,7 +18241,8 @@ const ABERTURA_ASA_DATA = [
     "Frente": "261 - FRENTE PRÓPRIA  (EDMILSON)",
     "Responsável": "278400 - Vitor Amorim Ramos ",
     "Abertura da Asa": "53",
-    "Fazenda": "53201"
+    "Fazenda": "53201",
+    "Unnamed: 16": null
   },
   {
     "ID": "3426548",
@@ -17296,7 +18260,8 @@ const ABERTURA_ASA_DATA = [
     "Frente": "261 - FRENTE PRÓPRIA  (EDMILSON)",
     "Responsável": "278400 - Vitor Amorim Ramos ",
     "Abertura da Asa": "52",
-    "Fazenda": "53201"
+    "Fazenda": "53201",
+    "Unnamed: 16": null
   },
   {
     "ID": "3423023",
@@ -17314,7 +18279,8 @@ const ABERTURA_ASA_DATA = [
     "Frente": "291 - FRENTE PRÓPRIA ",
     "Responsável": "MICHELI DE SOUZA SANTOS  ",
     "Abertura da Asa": "50",
-    "Fazenda": "53201"
+    "Fazenda": "53201",
+    "Unnamed: 16": null
   },
   {
     "ID": "3423022",
@@ -17332,7 +18298,8 @@ const ABERTURA_ASA_DATA = [
     "Frente": "291 - FRENTE PRÓPRIA ",
     "Responsável": "MICHELI DE SOUZA SANTOS  ",
     "Abertura da Asa": "50",
-    "Fazenda": "53201"
+    "Fazenda": "53201",
+    "Unnamed: 16": null
   },
   {
     "ID": "3422773",
@@ -17350,7 +18317,8 @@ const ABERTURA_ASA_DATA = [
     "Frente": "261 - FRENTE PRÓPRIA  (EDMILSON)",
     "Responsável": "278400 - Vitor Amorim Ramos ",
     "Abertura da Asa": "51",
-    "Fazenda": "53201"
+    "Fazenda": "53201",
+    "Unnamed: 16": null
   },
   {
     "ID": "3422772",
@@ -17368,7 +18336,8 @@ const ABERTURA_ASA_DATA = [
     "Frente": "261 - FRENTE PRÓPRIA  (EDMILSON)",
     "Responsável": "278400 - Vitor Amorim Ramos ",
     "Abertura da Asa": "51",
-    "Fazenda": "53201"
+    "Fazenda": "53201",
+    "Unnamed: 16": null
   },
   {
     "ID": "3421354",
@@ -17386,7 +18355,8 @@ const ABERTURA_ASA_DATA = [
     "Frente": "261 - FRENTE PRÓPRIA  (EDMILSON)",
     "Responsável": "MARCELO DE OLIVEIRA JUNIOR [264820]",
     "Abertura da Asa": "54",
-    "Fazenda": "53201"
+    "Fazenda": "53201",
+    "Unnamed: 16": null
   },
   {
     "ID": "3421353",
@@ -17404,7 +18374,8 @@ const ABERTURA_ASA_DATA = [
     "Frente": "261 - FRENTE PRÓPRIA  (EDMILSON)",
     "Responsável": "MARCELO DE OLIVEIRA JUNIOR [264820]",
     "Abertura da Asa": "54",
-    "Fazenda": "53201"
+    "Fazenda": "53201",
+    "Unnamed: 16": null
   },
   {
     "ID": "3420924",
@@ -17422,7 +18393,8 @@ const ABERTURA_ASA_DATA = [
     "Frente": "261 - FRENTE PRÓPRIA  (EDMILSON)",
     "Responsável": "278400 - Vitor Amorim Ramos ",
     "Abertura da Asa": "51",
-    "Fazenda": "53201"
+    "Fazenda": "53201",
+    "Unnamed: 16": null
   },
   {
     "ID": "3420925",
@@ -17440,7 +18412,8 @@ const ABERTURA_ASA_DATA = [
     "Frente": "261 - FRENTE PRÓPRIA  (EDMILSON)",
     "Responsável": "278400 - Vitor Amorim Ramos ",
     "Abertura da Asa": "51",
-    "Fazenda": "53201"
+    "Fazenda": "53201",
+    "Unnamed: 16": null
   },
   {
     "ID": "3417404",
@@ -17458,7 +18431,8 @@ const ABERTURA_ASA_DATA = [
     "Frente": "261 - FRENTE PRÓPRIA  (EDMILSON)",
     "Responsável": "278400 - Vitor Amorim Ramos ",
     "Abertura da Asa": "51",
-    "Fazenda": "53201"
+    "Fazenda": "53201",
+    "Unnamed: 16": null
   },
   {
     "ID": "3417403",
@@ -17476,7 +18450,8 @@ const ABERTURA_ASA_DATA = [
     "Frente": "261 - FRENTE PRÓPRIA  (EDMILSON)",
     "Responsável": "278400 - Vitor Amorim Ramos ",
     "Abertura da Asa": "51",
-    "Fazenda": "53201"
+    "Fazenda": "53201",
+    "Unnamed: 16": null
   },
   {
     "ID": "3417402",
@@ -17494,7 +18469,8 @@ const ABERTURA_ASA_DATA = [
     "Frente": "261 - FRENTE PRÓPRIA  (EDMILSON)",
     "Responsável": "278400 - Vitor Amorim Ramos ",
     "Abertura da Asa": "51",
-    "Fazenda": "53201"
+    "Fazenda": "53201",
+    "Unnamed: 16": null
   },
   {
     "ID": "3417400",
@@ -17512,7 +18488,8 @@ const ABERTURA_ASA_DATA = [
     "Frente": "261 - FRENTE PRÓPRIA  (EDMILSON)",
     "Responsável": "278400 - Vitor Amorim Ramos ",
     "Abertura da Asa": "51",
-    "Fazenda": "53201"
+    "Fazenda": "53201",
+    "Unnamed: 16": null
   },
   {
     "ID": "3413631",
@@ -17530,7 +18507,8 @@ const ABERTURA_ASA_DATA = [
     "Frente": "261 - FRENTE PRÓPRIA  (EDMILSON)",
     "Responsável": "278400 - Vitor Amorim Ramos ",
     "Abertura da Asa": "51",
-    "Fazenda": "53201"
+    "Fazenda": "53201",
+    "Unnamed: 16": null
   },
   {
     "ID": "3413628",
@@ -17548,7 +18526,8 @@ const ABERTURA_ASA_DATA = [
     "Frente": "261 - FRENTE PRÓPRIA  (EDMILSON)",
     "Responsável": "278400 - Vitor Amorim Ramos ",
     "Abertura da Asa": "51",
-    "Fazenda": "53201"
+    "Fazenda": "53201",
+    "Unnamed: 16": null
   },
   {
     "ID": "3413627",
@@ -17566,7 +18545,8 @@ const ABERTURA_ASA_DATA = [
     "Frente": "261 - FRENTE PRÓPRIA  (EDMILSON)",
     "Responsável": "278400 - Vitor Amorim Ramos ",
     "Abertura da Asa": "51",
-    "Fazenda": "53201"
+    "Fazenda": "53201",
+    "Unnamed: 16": null
   },
   {
     "ID": "3413641",
@@ -17584,7 +18564,8 @@ const ABERTURA_ASA_DATA = [
     "Frente": "261 - FRENTE PRÓPRIA  (EDMILSON)",
     "Responsável": "278400 - Vitor Amorim Ramos ",
     "Abertura da Asa": "51",
-    "Fazenda": "53201"
+    "Fazenda": "53201",
+    "Unnamed: 16": null
   },
   {
     "ID": "3411781",
@@ -17602,7 +18583,8 @@ const ABERTURA_ASA_DATA = [
     "Frente": "261 - FRENTE PRÓPRIA  (EDMILSON)",
     "Responsável": "278400 - Vitor Amorim Ramos ",
     "Abertura da Asa": "53",
-    "Fazenda": "53201"
+    "Fazenda": "53201",
+    "Unnamed: 16": null
   },
   {
     "ID": "3411780",
@@ -17620,7 +18602,8 @@ const ABERTURA_ASA_DATA = [
     "Frente": "261 - FRENTE PRÓPRIA  (EDMILSON)",
     "Responsável": "278400 - Vitor Amorim Ramos ",
     "Abertura da Asa": "53",
-    "Fazenda": "53201"
+    "Fazenda": "53201",
+    "Unnamed: 16": null
   },
   {
     "ID": "3410047",
@@ -17638,7 +18621,8 @@ const ABERTURA_ASA_DATA = [
     "Frente": "261 - FRENTE PRÓPRIA  (EDMILSON)",
     "Responsável": "278400 - Vitor Amorim Ramos ",
     "Abertura da Asa": "53",
-    "Fazenda": "53201"
+    "Fazenda": "53201",
+    "Unnamed: 16": null
   },
   {
     "ID": "3410266",
@@ -17656,7 +18640,8 @@ const ABERTURA_ASA_DATA = [
     "Frente": "261 - FRENTE PRÓPRIA  (EDMILSON)",
     "Responsável": "278400 - Vitor Amorim Ramos ",
     "Abertura da Asa": "53",
-    "Fazenda": "53201"
+    "Fazenda": "53201",
+    "Unnamed: 16": null
   },
   {
     "ID": "3408193",
@@ -17674,7 +18659,8 @@ const ABERTURA_ASA_DATA = [
     "Frente": "261 - FRENTE PRÓPRIA  (EDMILSON)",
     "Responsável": "278400 - Vitor Amorim Ramos ",
     "Abertura da Asa": "53",
-    "Fazenda": "53201"
+    "Fazenda": "53201",
+    "Unnamed: 16": null
   },
   {
     "ID": "3408182",
@@ -17692,7 +18678,8 @@ const ABERTURA_ASA_DATA = [
     "Frente": "261 - FRENTE PRÓPRIA  (EDMILSON)",
     "Responsável": "278400 - Vitor Amorim Ramos ",
     "Abertura da Asa": "53",
-    "Fazenda": "53201"
+    "Fazenda": "53201",
+    "Unnamed: 16": null
   },
   {
     "ID": "4050000",
@@ -17704,13 +18691,14 @@ const ABERTURA_ASA_DATA = [
     "Data Fim": "14/11/2026 10:58",
     "Status": "Open",
     "Score": "0.00",
-    "Data Lançamento": "14/11/2026 00:00",
+    "Data Lançamento": "11/14/2026",
     "Local (Fazenda - Talhão)": "46601",
     "OS": "3745",
     "Frente": "261 - FRENTE PRÓPRIA  (EDMILSON)",
     "Responsável": "EDILIANA CARDOSO DA COSTA",
     "Abertura da Asa": "53",
-    "Fazenda": "46601"
+    "Fazenda": "46601",
+    "Unnamed: 16": null
   },
   {
     "ID": "4049999",
@@ -17722,12 +18710,13 @@ const ABERTURA_ASA_DATA = [
     "Data Fim": "14/11/2026 10:57",
     "Status": "Open",
     "Score": "0.00",
-    "Data Lançamento": "14/11/2026 00:00",
+    "Data Lançamento": "11/14/2026",
     "Local (Fazenda - Talhão)": "46601",
     "OS": "3745",
     "Frente": "261 - FRENTE PRÓPRIA  (EDMILSON)",
     "Responsável": "EDILIANA CARDOSO DA COSTA",
     "Abertura da Asa": "52",
-    "Fazenda": "46601"
+    "Fazenda": "46601",
+    "Unnamed: 16": null
   }
 ];

@@ -1,5 +1,9 @@
-// Auto-gerado em 21/11/2026 07:33:23
-const PARALELISMO_DATA = [
+/**
+ * Dados Consolidados - paralelismo
+ * Total: 2479 registros
+ * Atualizado em: 21/11/2026 07:40
+ */
+window.PARALELISMO_RAW_DATA = [
   {
     "ID": "3407984",
     "Usuário": "anabinatto@usinapitangueiras.com.br",
@@ -16,7 +20,8 @@ const PARALELISMO_DATA = [
     "Frente": "261 - FRENTE PRÓPRIA  (EDMILSON)",
     "Responsável": "278400 - Vitor Amorim Ramos ",
     "Paralelismo": "1,4",
-    "Fazenda": NaN
+    "Fazenda": null,
+    "Unnamed: 16": null
   },
   {
     "ID": "3407981",
@@ -34,7 +39,8 @@ const PARALELISMO_DATA = [
     "Frente": "261 - FRENTE PRÓPRIA  (EDMILSON)",
     "Responsável": "278400 - Vitor Amorim Ramos ",
     "Paralelismo": "1,41",
-    "Fazenda": NaN
+    "Fazenda": null,
+    "Unnamed: 16": null
   },
   {
     "ID": "3407979",
@@ -52,7 +58,8 @@ const PARALELISMO_DATA = [
     "Frente": "261 - FRENTE PRÓPRIA  (EDMILSON)",
     "Responsável": "278400 - Vitor Amorim Ramos ",
     "Paralelismo": "1,4",
-    "Fazenda": NaN
+    "Fazenda": null,
+    "Unnamed: 16": null
   },
   {
     "ID": "3949549",
@@ -70,7 +77,8 @@ const PARALELISMO_DATA = [
     "Frente": "135 - FRENTE PEDRINHO",
     "Responsável": "MABILA HELEN D FIGUEIREDO",
     "Paralelismo": "1.4",
-    "Fazenda": "36813"
+    "Fazenda": "36813",
+    "Unnamed: 16": null
   },
   {
     "ID": "3949547",
@@ -88,7 +96,8 @@ const PARALELISMO_DATA = [
     "Frente": "135 - FRENTE PEDRINHO",
     "Responsável": "MABILA HELEN D FIGUEIREDO",
     "Paralelismo": "1.4",
-    "Fazenda": "36813"
+    "Fazenda": "36813",
+    "Unnamed: 16": null
   },
   {
     "ID": "3949546",
@@ -106,7 +115,8 @@ const PARALELISMO_DATA = [
     "Frente": "135 - FRENTE PEDRINHO",
     "Responsável": "MABILA HELEN D FIGUEIREDO",
     "Paralelismo": "1.4",
-    "Fazenda": "36813"
+    "Fazenda": "36813",
+    "Unnamed: 16": null
   },
   {
     "ID": "3949545",
@@ -124,7 +134,8 @@ const PARALELISMO_DATA = [
     "Frente": "135 - FRENTE PEDRINHO",
     "Responsável": "MABILA HELEN D FIGUEIREDO",
     "Paralelismo": "1.4",
-    "Fazenda": "36813"
+    "Fazenda": "36813",
+    "Unnamed: 16": null
   },
   {
     "ID": "3949543",
@@ -142,7 +153,8 @@ const PARALELISMO_DATA = [
     "Frente": "135 - FRENTE PEDRINHO",
     "Responsável": "MABILA HELEN D FIGUEIREDO",
     "Paralelismo": "1.4",
-    "Fazenda": "36813"
+    "Fazenda": "36813",
+    "Unnamed: 16": null
   },
   {
     "ID": "3949544",
@@ -160,7 +172,8 @@ const PARALELISMO_DATA = [
     "Frente": "135 - FRENTE PEDRINHO",
     "Responsável": "MABILA HELEN D FIGUEIREDO",
     "Paralelismo": "1.4",
-    "Fazenda": "36813"
+    "Fazenda": "36813",
+    "Unnamed: 16": null
   },
   {
     "ID": "3949206",
@@ -178,7 +191,8 @@ const PARALELISMO_DATA = [
     "Frente": "135 - FRENTE PEDRINHO",
     "Responsável": "MABILA HELEN D FIGUEIREDO",
     "Paralelismo": "1.5",
-    "Fazenda": "36813"
+    "Fazenda": "36813",
+    "Unnamed: 16": null
   },
   {
     "ID": "3949201",
@@ -196,7 +210,8 @@ const PARALELISMO_DATA = [
     "Frente": "135 - FRENTE PEDRINHO",
     "Responsável": "MABILA HELEN D FIGUEIREDO",
     "Paralelismo": "1.5",
-    "Fazenda": "36813"
+    "Fazenda": "36813",
+    "Unnamed: 16": null
   },
   {
     "ID": "3949196",
@@ -214,7 +229,8 @@ const PARALELISMO_DATA = [
     "Frente": "135 - FRENTE PEDRINHO",
     "Responsável": "MABILA HELEN D FIGUEIREDO",
     "Paralelismo": "1.5",
-    "Fazenda": "36813"
+    "Fazenda": "36813",
+    "Unnamed: 16": null
   },
   {
     "ID": "3949191",
@@ -232,7 +248,8 @@ const PARALELISMO_DATA = [
     "Frente": "135 - FRENTE PEDRINHO",
     "Responsável": "MABILA HELEN D FIGUEIREDO",
     "Paralelismo": "1.5",
-    "Fazenda": "36813"
+    "Fazenda": "36813",
+    "Unnamed: 16": null
   },
   {
     "ID": "3949184",
@@ -250,7 +267,8 @@ const PARALELISMO_DATA = [
     "Frente": "135 - FRENTE PEDRINHO",
     "Responsável": "MABILA HELEN D FIGUEIREDO",
     "Paralelismo": "1.5",
-    "Fazenda": "36813"
+    "Fazenda": "36813",
+    "Unnamed: 16": null
   },
   {
     "ID": "3949181",
@@ -268,7 +286,8 @@ const PARALELISMO_DATA = [
     "Frente": "135 - FRENTE PEDRINHO",
     "Responsável": "MABILA HELEN D FIGUEIREDO",
     "Paralelismo": "1.5",
-    "Fazenda": "36813"
+    "Fazenda": "36813",
+    "Unnamed: 16": null
   },
   {
     "ID": "3946370",
@@ -286,7 +305,8 @@ const PARALELISMO_DATA = [
     "Frente": "135 - FRENTE PEDRINHO",
     "Responsável": "MABILA HELEN D FIGUEIREDO",
     "Paralelismo": "1.5",
-    "Fazenda": "151901"
+    "Fazenda": "151901",
+    "Unnamed: 16": null
   },
   {
     "ID": "3946366",
@@ -304,7 +324,8 @@ const PARALELISMO_DATA = [
     "Frente": "135 - FRENTE PEDRINHO",
     "Responsável": "MABILA HELEN D FIGUEIREDO",
     "Paralelismo": "1.5",
-    "Fazenda": "151901"
+    "Fazenda": "151901",
+    "Unnamed: 16": null
   },
   {
     "ID": "3946359",
@@ -322,7 +343,8 @@ const PARALELISMO_DATA = [
     "Frente": "135 - FRENTE PEDRINHO",
     "Responsável": "MABILA HELEN D FIGUEIREDO",
     "Paralelismo": "1.5",
-    "Fazenda": "151901"
+    "Fazenda": "151901",
+    "Unnamed: 16": null
   },
   {
     "ID": "3946354",
@@ -340,7 +362,8 @@ const PARALELISMO_DATA = [
     "Frente": "135 - FRENTE PEDRINHO",
     "Responsável": "MABILA HELEN D FIGUEIREDO",
     "Paralelismo": "1.5",
-    "Fazenda": "151901"
+    "Fazenda": "151901",
+    "Unnamed: 16": null
   },
   {
     "ID": "3942437",
@@ -358,7 +381,8 @@ const PARALELISMO_DATA = [
     "Frente": "135 - FRENTE PEDRINHO",
     "Responsável": "MABILA HELEN D FIGUEIREDO",
     "Paralelismo": "1.5",
-    "Fazenda": "151901"
+    "Fazenda": "151901",
+    "Unnamed: 16": null
   },
   {
     "ID": "3942432",
@@ -376,7 +400,8 @@ const PARALELISMO_DATA = [
     "Frente": "135 - FRENTE PEDRINHO",
     "Responsável": "MABILA HELEN D FIGUEIREDO",
     "Paralelismo": "1.5",
-    "Fazenda": "151901"
+    "Fazenda": "151901",
+    "Unnamed: 16": null
   },
   {
     "ID": "3942425",
@@ -394,7 +419,8 @@ const PARALELISMO_DATA = [
     "Frente": "135 - FRENTE PEDRINHO",
     "Responsável": "MABILA HELEN D FIGUEIREDO",
     "Paralelismo": "1.5",
-    "Fazenda": "151901"
+    "Fazenda": "151901",
+    "Unnamed: 16": null
   },
   {
     "ID": "3942411",
@@ -412,7 +438,8 @@ const PARALELISMO_DATA = [
     "Frente": "135 - FRENTE PEDRINHO",
     "Responsável": "MABILA HELEN D FIGUEIREDO",
     "Paralelismo": "1.5",
-    "Fazenda": "151901"
+    "Fazenda": "151901",
+    "Unnamed: 16": null
   },
   {
     "ID": "3942398",
@@ -430,7 +457,8 @@ const PARALELISMO_DATA = [
     "Frente": "135 - FRENTE PEDRINHO",
     "Responsável": "MABILA HELEN D FIGUEIREDO",
     "Paralelismo": "1.5",
-    "Fazenda": "151901"
+    "Fazenda": "151901",
+    "Unnamed: 16": null
   },
   {
     "ID": "3942391",
@@ -448,7 +476,8 @@ const PARALELISMO_DATA = [
     "Frente": "135 - FRENTE PEDRINHO",
     "Responsável": "MABILA HELEN D FIGUEIREDO",
     "Paralelismo": "1.5",
-    "Fazenda": "151901"
+    "Fazenda": "151901",
+    "Unnamed: 16": null
   },
   {
     "ID": "3942387",
@@ -466,7 +495,8 @@ const PARALELISMO_DATA = [
     "Frente": "135 - FRENTE PEDRINHO",
     "Responsável": "MABILA HELEN D FIGUEIREDO",
     "Paralelismo": "1.5",
-    "Fazenda": "151901"
+    "Fazenda": "151901",
+    "Unnamed: 16": null
   },
   {
     "ID": "3942381",
@@ -484,7 +514,8 @@ const PARALELISMO_DATA = [
     "Frente": "135 - FRENTE PEDRINHO",
     "Responsável": "MABILA HELEN D FIGUEIREDO",
     "Paralelismo": "1.5",
-    "Fazenda": "151901"
+    "Fazenda": "151901",
+    "Unnamed: 16": null
   },
   {
     "ID": "3941332",
@@ -502,7 +533,8 @@ const PARALELISMO_DATA = [
     "Frente": "135 - FRENTE PEDRINHO",
     "Responsável": "MABILA HELEN D FIGUEIREDO",
     "Paralelismo": "1.5",
-    "Fazenda": "151901"
+    "Fazenda": "151901",
+    "Unnamed: 16": null
   },
   {
     "ID": "3939555",
@@ -520,7 +552,8 @@ const PARALELISMO_DATA = [
     "Frente": "261 - FRENTE PRÓPRIA  (EDMILSON)",
     "Responsável": "REGINALDO DA SILVA GOMES ",
     "Paralelismo": "1.5",
-    "Fazenda": "177012"
+    "Fazenda": "177012",
+    "Unnamed: 16": null
   },
   {
     "ID": "3939548",
@@ -538,7 +571,8 @@ const PARALELISMO_DATA = [
     "Frente": "261 - FRENTE PRÓPRIA  (EDMILSON)",
     "Responsável": "REGINALDO DA SILVA GOMES ",
     "Paralelismo": "1.52",
-    "Fazenda": "177012"
+    "Fazenda": "177012",
+    "Unnamed: 16": null
   },
   {
     "ID": "3939536",
@@ -556,7 +590,8 @@ const PARALELISMO_DATA = [
     "Frente": "261 - FRENTE PRÓPRIA  (EDMILSON)",
     "Responsável": "REGINALDO DA SILVA GOMES ",
     "Paralelismo": "1.5",
-    "Fazenda": "177012"
+    "Fazenda": "177012",
+    "Unnamed: 16": null
   },
   {
     "ID": "3939135",
@@ -574,7 +609,8 @@ const PARALELISMO_DATA = [
     "Frente": "135 - FRENTE PEDRINHO",
     "Responsável": "MABILA HELEN D FIGUEIREDO",
     "Paralelismo": "1.5",
-    "Fazenda": "151901"
+    "Fazenda": "151901",
+    "Unnamed: 16": null
   },
   {
     "ID": "3939130",
@@ -592,7 +628,8 @@ const PARALELISMO_DATA = [
     "Frente": "135 - FRENTE PEDRINHO",
     "Responsável": "MABILA HELEN D FIGUEIREDO",
     "Paralelismo": "1.5",
-    "Fazenda": "151901"
+    "Fazenda": "151901",
+    "Unnamed: 16": null
   },
   {
     "ID": "3939125",
@@ -610,7 +647,8 @@ const PARALELISMO_DATA = [
     "Frente": "135 - FRENTE PEDRINHO",
     "Responsável": "MABILA HELEN D FIGUEIREDO",
     "Paralelismo": "1.5",
-    "Fazenda": "151901"
+    "Fazenda": "151901",
+    "Unnamed: 16": null
   },
   {
     "ID": "3939120",
@@ -628,7 +666,8 @@ const PARALELISMO_DATA = [
     "Frente": "135 - FRENTE PEDRINHO",
     "Responsável": "MABILA HELEN D FIGUEIREDO",
     "Paralelismo": "1.5",
-    "Fazenda": "151901"
+    "Fazenda": "151901",
+    "Unnamed: 16": null
   },
   {
     "ID": "3939115",
@@ -646,7 +685,8 @@ const PARALELISMO_DATA = [
     "Frente": "135 - FRENTE PEDRINHO",
     "Responsável": "MABILA HELEN D FIGUEIREDO",
     "Paralelismo": "1.5",
-    "Fazenda": "151901"
+    "Fazenda": "151901",
+    "Unnamed: 16": null
   },
   {
     "ID": "3939112",
@@ -664,7 +704,8 @@ const PARALELISMO_DATA = [
     "Frente": "135 - FRENTE PEDRINHO",
     "Responsável": "MABILA HELEN D FIGUEIREDO",
     "Paralelismo": "1.5",
-    "Fazenda": "151901"
+    "Fazenda": "151901",
+    "Unnamed: 16": null
   },
   {
     "ID": "3939104",
@@ -682,7 +723,8 @@ const PARALELISMO_DATA = [
     "Frente": "135 - FRENTE PEDRINHO",
     "Responsável": "MABILA HELEN D FIGUEIREDO",
     "Paralelismo": "1.5",
-    "Fazenda": "151901"
+    "Fazenda": "151901",
+    "Unnamed: 16": null
   },
   {
     "ID": "3939098",
@@ -700,7 +742,8 @@ const PARALELISMO_DATA = [
     "Frente": "135 - FRENTE PEDRINHO",
     "Responsável": "MABILA HELEN D FIGUEIREDO",
     "Paralelismo": "1.5",
-    "Fazenda": "151901"
+    "Fazenda": "151901",
+    "Unnamed: 16": null
   },
   {
     "ID": "3938597",
@@ -718,7 +761,8 @@ const PARALELISMO_DATA = [
     "Frente": "135 - FRENTE PEDRINHO",
     "Responsável": "REGINALDO DA SILVA GOMES ",
     "Paralelismo": "1.5",
-    "Fazenda": "151901"
+    "Fazenda": "151901",
+    "Unnamed: 16": null
   },
   {
     "ID": "3938591",
@@ -736,7 +780,8 @@ const PARALELISMO_DATA = [
     "Frente": "135 - FRENTE PEDRINHO",
     "Responsável": "REGINALDO DA SILVA GOMES ",
     "Paralelismo": "1.5",
-    "Fazenda": "151901"
+    "Fazenda": "151901",
+    "Unnamed: 16": null
   },
   {
     "ID": "3938585",
@@ -754,7 +799,8 @@ const PARALELISMO_DATA = [
     "Frente": "135 - FRENTE PEDRINHO",
     "Responsável": "REGINALDO DA SILVA GOMES ",
     "Paralelismo": "1.47",
-    "Fazenda": "151901"
+    "Fazenda": "151901",
+    "Unnamed: 16": null
   },
   {
     "ID": "3938505",
@@ -772,7 +818,8 @@ const PARALELISMO_DATA = [
     "Frente": "261 - FRENTE PRÓPRIA  (EDMILSON)",
     "Responsável": "VITOR AMORIM RAMOS ",
     "Paralelismo": "1.4",
-    "Fazenda": "177012"
+    "Fazenda": "177012",
+    "Unnamed: 16": null
   },
   {
     "ID": "3936135",
@@ -790,7 +837,8 @@ const PARALELISMO_DATA = [
     "Frente": "135 - FRENTE PEDRINHO",
     "Responsável": "VITOR AMORIM RAMOS ",
     "Paralelismo": "1.5",
-    "Fazenda": "151901"
+    "Fazenda": "151901",
+    "Unnamed: 16": null
   },
   {
     "ID": "3936131",
@@ -808,7 +856,8 @@ const PARALELISMO_DATA = [
     "Frente": "135 - FRENTE PEDRINHO",
     "Responsável": "VITOR AMORIM RAMOS ",
     "Paralelismo": "1.5",
-    "Fazenda": "151901"
+    "Fazenda": "151901",
+    "Unnamed: 16": null
   },
   {
     "ID": "3936126",
@@ -826,7 +875,8 @@ const PARALELISMO_DATA = [
     "Frente": "135 - FRENTE PEDRINHO",
     "Responsável": "VITOR AMORIM RAMOS ",
     "Paralelismo": "1.5",
-    "Fazenda": "151901"
+    "Fazenda": "151901",
+    "Unnamed: 16": null
   },
   {
     "ID": "3936121",
@@ -844,7 +894,8 @@ const PARALELISMO_DATA = [
     "Frente": "135 - FRENTE PEDRINHO",
     "Responsável": "VITOR AMORIM RAMOS ",
     "Paralelismo": "1.5",
-    "Fazenda": "151901"
+    "Fazenda": "151901",
+    "Unnamed: 16": null
   },
   {
     "ID": "3936116",
@@ -862,7 +913,8 @@ const PARALELISMO_DATA = [
     "Frente": "135 - FRENTE PEDRINHO",
     "Responsável": "VITOR AMORIM RAMOS ",
     "Paralelismo": "1.5",
-    "Fazenda": "151901"
+    "Fazenda": "151901",
+    "Unnamed: 16": null
   },
   {
     "ID": "3936105",
@@ -880,7 +932,8 @@ const PARALELISMO_DATA = [
     "Frente": "135 - FRENTE PEDRINHO",
     "Responsável": "VITOR AMORIM RAMOS ",
     "Paralelismo": "1.5",
-    "Fazenda": "151901"
+    "Fazenda": "151901",
+    "Unnamed: 16": null
   },
   {
     "ID": "3936085",
@@ -898,7 +951,8 @@ const PARALELISMO_DATA = [
     "Frente": "135 - FRENTE PEDRINHO",
     "Responsável": "VITOR AMORIM RAMOS ",
     "Paralelismo": "1.5",
-    "Fazenda": "151901"
+    "Fazenda": "151901",
+    "Unnamed: 16": null
   },
   {
     "ID": "3936058",
@@ -916,7 +970,8 @@ const PARALELISMO_DATA = [
     "Frente": "135 - FRENTE PEDRINHO",
     "Responsável": "VITOR AMORIM RAMOS ",
     "Paralelismo": "1.5",
-    "Fazenda": "151901"
+    "Fazenda": "151901",
+    "Unnamed: 16": null
   },
   {
     "ID": "3936046",
@@ -934,7 +989,8 @@ const PARALELISMO_DATA = [
     "Frente": "135 - FRENTE PEDRINHO",
     "Responsável": "VITOR AMORIM RAMOS ",
     "Paralelismo": "1.5",
-    "Fazenda": "151901"
+    "Fazenda": "151901",
+    "Unnamed: 16": null
   },
   {
     "ID": "3936039",
@@ -952,7 +1008,8 @@ const PARALELISMO_DATA = [
     "Frente": "135 - FRENTE PEDRINHO",
     "Responsável": "VITOR AMORIM RAMOS ",
     "Paralelismo": "1.5",
-    "Fazenda": "151901"
+    "Fazenda": "151901",
+    "Unnamed: 16": null
   },
   {
     "ID": "3936034",
@@ -970,7 +1027,8 @@ const PARALELISMO_DATA = [
     "Frente": "135 - FRENTE PEDRINHO",
     "Responsável": "VITOR AMORIM RAMOS ",
     "Paralelismo": "1.5",
-    "Fazenda": "151901"
+    "Fazenda": "151901",
+    "Unnamed: 16": null
   },
   {
     "ID": "3936030",
@@ -988,7 +1046,8 @@ const PARALELISMO_DATA = [
     "Frente": "135 - FRENTE PEDRINHO",
     "Responsável": "VITOR AMORIM RAMOS ",
     "Paralelismo": "1.5",
-    "Fazenda": "151901"
+    "Fazenda": "151901",
+    "Unnamed: 16": null
   },
   {
     "ID": "3936023",
@@ -1006,7 +1065,8 @@ const PARALELISMO_DATA = [
     "Frente": "135 - FRENTE PEDRINHO",
     "Responsável": "VITOR AMORIM RAMOS ",
     "Paralelismo": "1.5",
-    "Fazenda": "151901"
+    "Fazenda": "151901",
+    "Unnamed: 16": null
   },
   {
     "ID": "3928532",
@@ -1024,7 +1084,8 @@ const PARALELISMO_DATA = [
     "Frente": "135 - FRENTE PEDRINHO",
     "Responsável": "284860  - Juliana Aparecida Ferreira De Freitas",
     "Paralelismo": "1.5",
-    "Fazenda": "151901"
+    "Fazenda": "151901",
+    "Unnamed: 16": null
   },
   {
     "ID": "3928527",
@@ -1042,7 +1103,8 @@ const PARALELISMO_DATA = [
     "Frente": "135 - FRENTE PEDRINHO",
     "Responsável": "284860  - Juliana Aparecida Ferreira De Freitas",
     "Paralelismo": "1.5",
-    "Fazenda": "151901"
+    "Fazenda": "151901",
+    "Unnamed: 16": null
   },
   {
     "ID": "3928522",
@@ -1060,7 +1122,8 @@ const PARALELISMO_DATA = [
     "Frente": "135 - FRENTE PEDRINHO",
     "Responsável": "284860  - Juliana Aparecida Ferreira De Freitas",
     "Paralelismo": "1.5",
-    "Fazenda": "151901"
+    "Fazenda": "151901",
+    "Unnamed: 16": null
   },
   {
     "ID": "3928516",
@@ -1078,7 +1141,8 @@ const PARALELISMO_DATA = [
     "Frente": "135 - FRENTE PEDRINHO",
     "Responsável": "284860  - Juliana Aparecida Ferreira De Freitas",
     "Paralelismo": "1.5",
-    "Fazenda": "151901"
+    "Fazenda": "151901",
+    "Unnamed: 16": null
   },
   {
     "ID": "3928511",
@@ -1096,7 +1160,8 @@ const PARALELISMO_DATA = [
     "Frente": "135 - FRENTE PEDRINHO",
     "Responsável": "284860  - Juliana Aparecida Ferreira De Freitas",
     "Paralelismo": "1.5",
-    "Fazenda": "151901"
+    "Fazenda": "151901",
+    "Unnamed: 16": null
   },
   {
     "ID": "3928506",
@@ -1114,7 +1179,8 @@ const PARALELISMO_DATA = [
     "Frente": "135 - FRENTE PEDRINHO",
     "Responsável": "284860  - Juliana Aparecida Ferreira De Freitas",
     "Paralelismo": "1.5",
-    "Fazenda": "151901"
+    "Fazenda": "151901",
+    "Unnamed: 16": null
   },
   {
     "ID": "3928501",
@@ -1132,7 +1198,8 @@ const PARALELISMO_DATA = [
     "Frente": "135 - FRENTE PEDRINHO",
     "Responsável": "284860  - Juliana Aparecida Ferreira De Freitas",
     "Paralelismo": "1.5",
-    "Fazenda": "151901"
+    "Fazenda": "151901",
+    "Unnamed: 16": null
   },
   {
     "ID": "3928496",
@@ -1150,7 +1217,8 @@ const PARALELISMO_DATA = [
     "Frente": "135 - FRENTE PEDRINHO",
     "Responsável": "284860  - Juliana Aparecida Ferreira De Freitas",
     "Paralelismo": "1.5",
-    "Fazenda": "151901"
+    "Fazenda": "151901",
+    "Unnamed: 16": null
   },
   {
     "ID": "3926128",
@@ -1168,7 +1236,8 @@ const PARALELISMO_DATA = [
     "Frente": "135 - FRENTE PEDRINHO",
     "Responsável": "284860  - Juliana Aparecida Ferreira De Freitas",
     "Paralelismo": "1.5",
-    "Fazenda": "177015"
+    "Fazenda": "177015",
+    "Unnamed: 16": null
   },
   {
     "ID": "3926123",
@@ -1186,7 +1255,8 @@ const PARALELISMO_DATA = [
     "Frente": "135 - FRENTE PEDRINHO",
     "Responsável": "284860  - Juliana Aparecida Ferreira De Freitas",
     "Paralelismo": "1.5",
-    "Fazenda": "177015"
+    "Fazenda": "177015",
+    "Unnamed: 16": null
   },
   {
     "ID": "3926118",
@@ -1204,7 +1274,8 @@ const PARALELISMO_DATA = [
     "Frente": "135 - FRENTE PEDRINHO",
     "Responsável": "284860  - Juliana Aparecida Ferreira De Freitas",
     "Paralelismo": "1.5",
-    "Fazenda": "177015"
+    "Fazenda": "177015",
+    "Unnamed: 16": null
   },
   {
     "ID": "3926113",
@@ -1222,7 +1293,8 @@ const PARALELISMO_DATA = [
     "Frente": "135 - FRENTE PEDRINHO",
     "Responsável": "284860  - Juliana Aparecida Ferreira De Freitas",
     "Paralelismo": "1.5",
-    "Fazenda": "177015"
+    "Fazenda": "177015",
+    "Unnamed: 16": null
   },
   {
     "ID": "3926108",
@@ -1240,7 +1312,8 @@ const PARALELISMO_DATA = [
     "Frente": "135 - FRENTE PEDRINHO",
     "Responsável": "284860  - Juliana Aparecida Ferreira De Freitas",
     "Paralelismo": "1.5",
-    "Fazenda": "177015"
+    "Fazenda": "177015",
+    "Unnamed: 16": null
   },
   {
     "ID": "3926103",
@@ -1258,7 +1331,8 @@ const PARALELISMO_DATA = [
     "Frente": "135 - FRENTE PEDRINHO",
     "Responsável": "284860  - Juliana Aparecida Ferreira De Freitas",
     "Paralelismo": "1.5",
-    "Fazenda": "177015"
+    "Fazenda": "177015",
+    "Unnamed: 16": null
   },
   {
     "ID": "3926101",
@@ -1276,7 +1350,8 @@ const PARALELISMO_DATA = [
     "Frente": "135 - FRENTE PEDRINHO",
     "Responsável": "284860  - Juliana Aparecida Ferreira De Freitas",
     "Paralelismo": "1.5",
-    "Fazenda": "177015"
+    "Fazenda": "177015",
+    "Unnamed: 16": null
   },
   {
     "ID": "3926096",
@@ -1294,7 +1369,8 @@ const PARALELISMO_DATA = [
     "Frente": "135 - FRENTE PEDRINHO",
     "Responsável": "284860  - Juliana Aparecida Ferreira De Freitas",
     "Paralelismo": "1.5",
-    "Fazenda": "177015"
+    "Fazenda": "177015",
+    "Unnamed: 16": null
   },
   {
     "ID": "3926076",
@@ -1312,7 +1388,8 @@ const PARALELISMO_DATA = [
     "Frente": "135 - FRENTE PEDRINHO",
     "Responsável": "284860  - Juliana Aparecida Ferreira De Freitas",
     "Paralelismo": "1.5",
-    "Fazenda": "177015"
+    "Fazenda": "177015",
+    "Unnamed: 16": null
   },
   {
     "ID": "3926069",
@@ -1330,7 +1407,8 @@ const PARALELISMO_DATA = [
     "Frente": "135 - FRENTE PEDRINHO",
     "Responsável": "284860  - Juliana Aparecida Ferreira De Freitas",
     "Paralelismo": "1.5",
-    "Fazenda": "177015"
+    "Fazenda": "177015",
+    "Unnamed: 16": null
   },
   {
     "ID": "3923395",
@@ -1348,7 +1426,8 @@ const PARALELISMO_DATA = [
     "Frente": "135 - FRENTE PEDRINHO",
     "Responsável": "284860  - Juliana Aparecida Ferreira De Freitas",
     "Paralelismo": "1.5",
-    "Fazenda": "177015"
+    "Fazenda": "177015",
+    "Unnamed: 16": null
   },
   {
     "ID": "3923377",
@@ -1366,7 +1445,8 @@ const PARALELISMO_DATA = [
     "Frente": "135 - FRENTE PEDRINHO",
     "Responsável": "284860  - Juliana Aparecida Ferreira De Freitas",
     "Paralelismo": "1.5",
-    "Fazenda": "177015"
+    "Fazenda": "177015",
+    "Unnamed: 16": null
   },
   {
     "ID": "3923370",
@@ -1384,7 +1464,8 @@ const PARALELISMO_DATA = [
     "Frente": "135 - FRENTE PEDRINHO",
     "Responsável": "284860  - Juliana Aparecida Ferreira De Freitas",
     "Paralelismo": "1.5",
-    "Fazenda": "177015"
+    "Fazenda": "177015",
+    "Unnamed: 16": null
   },
   {
     "ID": "3923363",
@@ -1402,7 +1483,8 @@ const PARALELISMO_DATA = [
     "Frente": "135 - FRENTE PEDRINHO",
     "Responsável": "284860  - Juliana Aparecida Ferreira De Freitas",
     "Paralelismo": "1.5",
-    "Fazenda": "177015"
+    "Fazenda": "177015",
+    "Unnamed: 16": null
   },
   {
     "ID": "3852420",
@@ -1420,7 +1502,8 @@ const PARALELISMO_DATA = [
     "Frente": "261 - FRENTE PRÓPRIA  (EDMILSON)",
     "Responsável": "MABILA HELEN D FIGUEIREDO",
     "Paralelismo": "1.4",
-    "Fazenda": "70411"
+    "Fazenda": "70411",
+    "Unnamed: 16": null
   },
   {
     "ID": "3852416",
@@ -1438,7 +1521,8 @@ const PARALELISMO_DATA = [
     "Frente": "261 - FRENTE PRÓPRIA  (EDMILSON)",
     "Responsável": "MABILA HELEN D FIGUEIREDO",
     "Paralelismo": "1.4",
-    "Fazenda": "70411"
+    "Fazenda": "70411",
+    "Unnamed: 16": null
   },
   {
     "ID": "3852407",
@@ -1456,7 +1540,8 @@ const PARALELISMO_DATA = [
     "Frente": "261 - FRENTE PRÓPRIA  (EDMILSON)",
     "Responsável": "MABILA HELEN D FIGUEIREDO",
     "Paralelismo": "1.4",
-    "Fazenda": "70411"
+    "Fazenda": "70411",
+    "Unnamed: 16": null
   },
   {
     "ID": "3852402",
@@ -1474,7 +1559,8 @@ const PARALELISMO_DATA = [
     "Frente": "261 - FRENTE PRÓPRIA  (EDMILSON)",
     "Responsável": "MABILA HELEN D FIGUEIREDO",
     "Paralelismo": "1.4",
-    "Fazenda": "70411"
+    "Fazenda": "70411",
+    "Unnamed: 16": null
   },
   {
     "ID": "3852398",
@@ -1492,7 +1578,8 @@ const PARALELISMO_DATA = [
     "Frente": "261 - FRENTE PRÓPRIA  (EDMILSON)",
     "Responsável": "MABILA HELEN D FIGUEIREDO",
     "Paralelismo": "1.4",
-    "Fazenda": "70411"
+    "Fazenda": "70411",
+    "Unnamed: 16": null
   },
   {
     "ID": "3852389",
@@ -1510,7 +1597,8 @@ const PARALELISMO_DATA = [
     "Frente": "261 - FRENTE PRÓPRIA  (EDMILSON)",
     "Responsável": "MABILA HELEN D FIGUEIREDO",
     "Paralelismo": "1.4",
-    "Fazenda": "70411"
+    "Fazenda": "70411",
+    "Unnamed: 16": null
   },
   {
     "ID": "3852384",
@@ -1528,7 +1616,8 @@ const PARALELISMO_DATA = [
     "Frente": "261 - FRENTE PRÓPRIA  (EDMILSON)",
     "Responsável": "MABILA HELEN D FIGUEIREDO",
     "Paralelismo": "1.4",
-    "Fazenda": "70411"
+    "Fazenda": "70411",
+    "Unnamed: 16": null
   },
   {
     "ID": "3852380",
@@ -1546,7 +1635,8 @@ const PARALELISMO_DATA = [
     "Frente": "261 - FRENTE PRÓPRIA  (EDMILSON)",
     "Responsável": "MABILA HELEN D FIGUEIREDO",
     "Paralelismo": "1.4",
-    "Fazenda": "70411"
+    "Fazenda": "70411",
+    "Unnamed: 16": null
   },
   {
     "ID": "3849789",
@@ -1564,7 +1654,8 @@ const PARALELISMO_DATA = [
     "Frente": "261 - FRENTE PRÓPRIA  (EDMILSON)",
     "Responsável": "MABILA HELEN D FIGUEIREDO",
     "Paralelismo": "1.4",
-    "Fazenda": "70411"
+    "Fazenda": "70411",
+    "Unnamed: 16": null
   },
   {
     "ID": "3849784",
@@ -1582,7 +1673,8 @@ const PARALELISMO_DATA = [
     "Frente": "261 - FRENTE PRÓPRIA  (EDMILSON)",
     "Responsável": "MABILA HELEN D FIGUEIREDO",
     "Paralelismo": "1.4",
-    "Fazenda": "70411"
+    "Fazenda": "70411",
+    "Unnamed: 16": null
   },
   {
     "ID": "3849774",
@@ -1600,7 +1692,8 @@ const PARALELISMO_DATA = [
     "Frente": "261 - FRENTE PRÓPRIA  (EDMILSON)",
     "Responsável": "MABILA HELEN D FIGUEIREDO",
     "Paralelismo": "1.4",
-    "Fazenda": "70411"
+    "Fazenda": "70411",
+    "Unnamed: 16": null
   },
   {
     "ID": "3849767",
@@ -1618,7 +1711,8 @@ const PARALELISMO_DATA = [
     "Frente": "261 - FRENTE PRÓPRIA  (EDMILSON)",
     "Responsável": "MABILA HELEN D FIGUEIREDO",
     "Paralelismo": "1.4",
-    "Fazenda": "70411"
+    "Fazenda": "70411",
+    "Unnamed: 16": null
   },
   {
     "ID": "3849765",
@@ -1636,7 +1730,8 @@ const PARALELISMO_DATA = [
     "Frente": "261 - FRENTE PRÓPRIA  (EDMILSON)",
     "Responsável": "MABILA HELEN D FIGUEIREDO",
     "Paralelismo": "1.4",
-    "Fazenda": "70411"
+    "Fazenda": "70411",
+    "Unnamed: 16": null
   },
   {
     "ID": "3849127",
@@ -1654,7 +1749,8 @@ const PARALELISMO_DATA = [
     "Frente": "261 - FRENTE PRÓPRIA  (EDMILSON)",
     "Responsável": "REGINALDO DA SILVA GOMES ",
     "Paralelismo": "1.4",
-    "Fazenda": "70411"
+    "Fazenda": "70411",
+    "Unnamed: 16": null
   },
   {
     "ID": "3849124",
@@ -1672,7 +1768,8 @@ const PARALELISMO_DATA = [
     "Frente": "261 - FRENTE PRÓPRIA  (EDMILSON)",
     "Responsável": "REGINALDO DA SILVA GOMES ",
     "Paralelismo": "1.4",
-    "Fazenda": "70411"
+    "Fazenda": "70411",
+    "Unnamed: 16": null
   },
   {
     "ID": "3849122",
@@ -1690,7 +1787,8 @@ const PARALELISMO_DATA = [
     "Frente": "261 - FRENTE PRÓPRIA  (EDMILSON)",
     "Responsável": "REGINALDO DA SILVA GOMES ",
     "Paralelismo": "1.36",
-    "Fazenda": "70411"
+    "Fazenda": "70411",
+    "Unnamed: 16": null
   },
   {
     "ID": "3846843",
@@ -1708,7 +1806,8 @@ const PARALELISMO_DATA = [
     "Frente": "261 - FRENTE PRÓPRIA  (EDMILSON)",
     "Responsável": "MABILA HELEN D FIGUEIREDO",
     "Paralelismo": "1.4",
-    "Fazenda": "53201"
+    "Fazenda": "53201",
+    "Unnamed: 16": null
   },
   {
     "ID": "3846835",
@@ -1726,7 +1825,8 @@ const PARALELISMO_DATA = [
     "Frente": "261 - FRENTE PRÓPRIA  (EDMILSON)",
     "Responsável": "MABILA HELEN D FIGUEIREDO",
     "Paralelismo": "1.4",
-    "Fazenda": "53201"
+    "Fazenda": "53201",
+    "Unnamed: 16": null
   },
   {
     "ID": "3846827",
@@ -1744,7 +1844,8 @@ const PARALELISMO_DATA = [
     "Frente": "261 - FRENTE PRÓPRIA  (EDMILSON)",
     "Responsável": "MABILA HELEN D FIGUEIREDO",
     "Paralelismo": "1.4",
-    "Fazenda": "53201"
+    "Fazenda": "53201",
+    "Unnamed: 16": null
   },
   {
     "ID": "3846822",
@@ -1762,7 +1863,8 @@ const PARALELISMO_DATA = [
     "Frente": "261 - FRENTE PRÓPRIA  (EDMILSON)",
     "Responsável": "MABILA HELEN D FIGUEIREDO",
     "Paralelismo": "1.4",
-    "Fazenda": "53201"
+    "Fazenda": "53201",
+    "Unnamed: 16": null
   },
   {
     "ID": "3846817",
@@ -1780,7 +1882,8 @@ const PARALELISMO_DATA = [
     "Frente": "261 - FRENTE PRÓPRIA  (EDMILSON)",
     "Responsável": "MABILA HELEN D FIGUEIREDO",
     "Paralelismo": "1.4",
-    "Fazenda": "53201"
+    "Fazenda": "53201",
+    "Unnamed: 16": null
   },
   {
     "ID": "3846812",
@@ -1798,7 +1901,8 @@ const PARALELISMO_DATA = [
     "Frente": "261 - FRENTE PRÓPRIA  (EDMILSON)",
     "Responsável": "MABILA HELEN D FIGUEIREDO",
     "Paralelismo": "1.4",
-    "Fazenda": "53201"
+    "Fazenda": "53201",
+    "Unnamed: 16": null
   },
   {
     "ID": "3846808",
@@ -1816,7 +1920,8 @@ const PARALELISMO_DATA = [
     "Frente": "261 - FRENTE PRÓPRIA  (EDMILSON)",
     "Responsável": "MABILA HELEN D FIGUEIREDO",
     "Paralelismo": "1.4",
-    "Fazenda": "53201"
+    "Fazenda": "53201",
+    "Unnamed: 16": null
   },
   {
     "ID": "3843650",
@@ -1834,7 +1939,8 @@ const PARALELISMO_DATA = [
     "Frente": "261 - FRENTE PRÓPRIA  (EDMILSON)",
     "Responsável": "MABILA HELEN D FIGUEIREDO",
     "Paralelismo": "1.4",
-    "Fazenda": "53201"
+    "Fazenda": "53201",
+    "Unnamed: 16": null
   },
   {
     "ID": "3843645",
@@ -1852,7 +1958,8 @@ const PARALELISMO_DATA = [
     "Frente": "261 - FRENTE PRÓPRIA  (EDMILSON)",
     "Responsável": "MABILA HELEN D FIGUEIREDO",
     "Paralelismo": "1.4",
-    "Fazenda": "53201"
+    "Fazenda": "53201",
+    "Unnamed: 16": null
   },
   {
     "ID": "3843644",
@@ -1870,7 +1977,8 @@ const PARALELISMO_DATA = [
     "Frente": "261 - FRENTE PRÓPRIA  (EDMILSON)",
     "Responsável": "MABILA HELEN D FIGUEIREDO",
     "Paralelismo": "1.4",
-    "Fazenda": "53201"
+    "Fazenda": "53201",
+    "Unnamed: 16": null
   },
   {
     "ID": "3843643",
@@ -1888,7 +1996,8 @@ const PARALELISMO_DATA = [
     "Frente": "261 - FRENTE PRÓPRIA  (EDMILSON)",
     "Responsável": "MABILA HELEN D FIGUEIREDO",
     "Paralelismo": "1.4",
-    "Fazenda": "53201"
+    "Fazenda": "53201",
+    "Unnamed: 16": null
   },
   {
     "ID": "3591034",
@@ -1906,7 +2015,8 @@ const PARALELISMO_DATA = [
     "Frente": "139 - FRENTE MANEZÃO",
     "Responsável": "MICHELI DE SOUZA SANTOS  ",
     "Paralelismo": "1.5",
-    "Fazenda": "281911"
+    "Fazenda": "281911",
+    "Unnamed: 16": null
   },
   {
     "ID": "3591035",
@@ -1924,7 +2034,8 @@ const PARALELISMO_DATA = [
     "Frente": "139 - FRENTE MANEZÃO",
     "Responsável": "MICHELI DE SOUZA SANTOS  ",
     "Paralelismo": "1.5",
-    "Fazenda": "281911"
+    "Fazenda": "281911",
+    "Unnamed: 16": null
   },
   {
     "ID": "3591089",
@@ -1942,7 +2053,8 @@ const PARALELISMO_DATA = [
     "Frente": "139 - FRENTE MANEZÃO",
     "Responsável": "MABILA HELEN D FIGUEIREDO",
     "Paralelismo": "1.5",
-    "Fazenda": "281901"
+    "Fazenda": "281901",
+    "Unnamed: 16": null
   },
   {
     "ID": "3591094",
@@ -1960,7 +2072,8 @@ const PARALELISMO_DATA = [
     "Frente": "139 - FRENTE MANEZÃO",
     "Responsável": "MABILA HELEN D FIGUEIREDO",
     "Paralelismo": "1.5",
-    "Fazenda": "281901"
+    "Fazenda": "281901",
+    "Unnamed: 16": null
   },
   {
     "ID": "3574208",
@@ -1978,7 +2091,8 @@ const PARALELISMO_DATA = [
     "Frente": "139 - FRENTE MANEZÃO",
     "Responsável": "MICHELI DE SOUZA SANTOS  ",
     "Paralelismo": "1.5",
-    "Fazenda": "282415"
+    "Fazenda": "282415",
+    "Unnamed: 16": null
   },
   {
     "ID": "3574209",
@@ -1996,7 +2110,8 @@ const PARALELISMO_DATA = [
     "Frente": "139 - FRENTE MANEZÃO",
     "Responsável": "MICHELI DE SOUZA SANTOS  ",
     "Paralelismo": "1.5",
-    "Fazenda": "282415"
+    "Fazenda": "282415",
+    "Unnamed: 16": null
   },
   {
     "ID": "3574244",
@@ -2014,7 +2129,8 @@ const PARALELISMO_DATA = [
     "Frente": "139 - FRENTE MANEZÃO",
     "Responsável": "MICHELI DE SOUZA SANTOS  ",
     "Paralelismo": "1.48",
-    "Fazenda": "281413"
+    "Fazenda": "281413",
+    "Unnamed: 16": null
   },
   {
     "ID": "3574200",
@@ -2032,7 +2148,8 @@ const PARALELISMO_DATA = [
     "Frente": "139 - FRENTE MANEZÃO",
     "Responsável": "MICHELI DE SOUZA SANTOS  ",
     "Paralelismo": "1.52",
-    "Fazenda": "281413"
+    "Fazenda": "281413",
+    "Unnamed: 16": null
   },
   {
     "ID": "3574329",
@@ -2050,7 +2167,8 @@ const PARALELISMO_DATA = [
     "Frente": "139 - FRENTE MANEZÃO",
     "Responsável": "MICHELI DE SOUZA SANTOS  ",
     "Paralelismo": "1.5",
-    "Fazenda": "281413"
+    "Fazenda": "281413",
+    "Unnamed: 16": null
   },
   {
     "ID": "3641092",
@@ -2068,7 +2186,8 @@ const PARALELISMO_DATA = [
     "Frente": "135 - FRENTE PEDRINHO",
     "Responsável": "MARCELO DE OLIVEIRA JUNIOR",
     "Paralelismo": "1.4",
-    "Fazenda": "53201"
+    "Fazenda": "53201",
+    "Unnamed: 16": null
   },
   {
     "ID": "3641088",
@@ -2086,7 +2205,8 @@ const PARALELISMO_DATA = [
     "Frente": "135 - FRENTE PEDRINHO",
     "Responsável": "MARCELO DE OLIVEIRA JUNIOR",
     "Paralelismo": "1.4",
-    "Fazenda": "53201"
+    "Fazenda": "53201",
+    "Unnamed: 16": null
   },
   {
     "ID": "3641081",
@@ -2104,7 +2224,8 @@ const PARALELISMO_DATA = [
     "Frente": "135 - FRENTE PEDRINHO",
     "Responsável": "MARCELO DE OLIVEIRA JUNIOR",
     "Paralelismo": "1.42",
-    "Fazenda": "53201"
+    "Fazenda": "53201",
+    "Unnamed: 16": null
   },
   {
     "ID": "3641070",
@@ -2122,7 +2243,8 @@ const PARALELISMO_DATA = [
     "Frente": "135 - FRENTE PEDRINHO",
     "Responsável": "MARCELO DE OLIVEIRA JUNIOR",
     "Paralelismo": "1.4",
-    "Fazenda": "53201"
+    "Fazenda": "53201",
+    "Unnamed: 16": null
   },
   {
     "ID": "3638335",
@@ -2140,7 +2262,8 @@ const PARALELISMO_DATA = [
     "Frente": "135 - FRENTE PEDRINHO",
     "Responsável": "NILDA CLAUDINO [2510716]",
     "Paralelismo": "1.4",
-    "Fazenda": "34703"
+    "Fazenda": "34703",
+    "Unnamed: 16": null
   },
   {
     "ID": "3638332",
@@ -2158,7 +2281,8 @@ const PARALELISMO_DATA = [
     "Frente": "135 - FRENTE PEDRINHO",
     "Responsável": "NILDA CLAUDINO [2510716]",
     "Paralelismo": "1.4",
-    "Fazenda": "34703"
+    "Fazenda": "34703",
+    "Unnamed: 16": null
   },
   {
     "ID": "3638328",
@@ -2176,7 +2300,8 @@ const PARALELISMO_DATA = [
     "Frente": "135 - FRENTE PEDRINHO",
     "Responsável": "NILDA CLAUDINO [2510716]",
     "Paralelismo": "1.4",
-    "Fazenda": "34703"
+    "Fazenda": "34703",
+    "Unnamed: 16": null
   },
   {
     "ID": "3638320",
@@ -2194,7 +2319,8 @@ const PARALELISMO_DATA = [
     "Frente": "135 - FRENTE PEDRINHO",
     "Responsável": "NILDA CLAUDINO [2510716]",
     "Paralelismo": "1.4",
-    "Fazenda": "34703"
+    "Fazenda": "34703",
+    "Unnamed: 16": null
   },
   {
     "ID": "3638315",
@@ -2212,7 +2338,8 @@ const PARALELISMO_DATA = [
     "Frente": "135 - FRENTE PEDRINHO",
     "Responsável": "NILDA CLAUDINO [2510716]",
     "Paralelismo": "1.4",
-    "Fazenda": "34703"
+    "Fazenda": "34703",
+    "Unnamed: 16": null
   },
   {
     "ID": "3635343",
@@ -2230,7 +2357,8 @@ const PARALELISMO_DATA = [
     "Frente": "135 - FRENTE PEDRINHO",
     "Responsável": "NILDA CLAUDINO [2510716]",
     "Paralelismo": "1.4",
-    "Fazenda": "34703"
+    "Fazenda": "34703",
+    "Unnamed: 16": null
   },
   {
     "ID": "3635332",
@@ -2248,7 +2376,8 @@ const PARALELISMO_DATA = [
     "Frente": "135 - FRENTE PEDRINHO",
     "Responsável": "NILDA CLAUDINO [2510716]",
     "Paralelismo": "1.4",
-    "Fazenda": "34703"
+    "Fazenda": "34703",
+    "Unnamed: 16": null
   },
   {
     "ID": "3635328",
@@ -2266,7 +2395,8 @@ const PARALELISMO_DATA = [
     "Frente": "135 - FRENTE PEDRINHO",
     "Responsável": "NILDA CLAUDINO [2510716]",
     "Paralelismo": "1.4",
-    "Fazenda": "34703"
+    "Fazenda": "34703",
+    "Unnamed: 16": null
   },
   {
     "ID": "3635313",
@@ -2284,7 +2414,8 @@ const PARALELISMO_DATA = [
     "Frente": "135 - FRENTE PEDRINHO",
     "Responsável": "NILDA CLAUDINO [2510716]",
     "Paralelismo": "1.4",
-    "Fazenda": "34703"
+    "Fazenda": "34703",
+    "Unnamed: 16": null
   },
   {
     "ID": "3636034",
@@ -2302,7 +2433,8 @@ const PARALELISMO_DATA = [
     "Frente": "135 - FRENTE PEDRINHO",
     "Responsável": "MARCELO DE OLIVEIRA JUNIOR",
     "Paralelismo": "1.44",
-    "Fazenda": "53201"
+    "Fazenda": "53201",
+    "Unnamed: 16": null
   },
   {
     "ID": "3636029",
@@ -2320,7 +2452,8 @@ const PARALELISMO_DATA = [
     "Frente": "135 - FRENTE PEDRINHO",
     "Responsável": "MARCELO DE OLIVEIRA JUNIOR",
     "Paralelismo": "1.4",
-    "Fazenda": "53201"
+    "Fazenda": "53201",
+    "Unnamed: 16": null
   },
   {
     "ID": "3635308",
@@ -2338,7 +2471,8 @@ const PARALELISMO_DATA = [
     "Frente": "135 - FRENTE PEDRINHO",
     "Responsável": "NILDA CLAUDINO [2510716]",
     "Paralelismo": "1.4",
-    "Fazenda": "34703"
+    "Fazenda": "34703",
+    "Unnamed: 16": null
   },
   {
     "ID": "3636022",
@@ -2356,7 +2490,8 @@ const PARALELISMO_DATA = [
     "Frente": "135 - FRENTE PEDRINHO",
     "Responsável": "MARCELO DE OLIVEIRA JUNIOR",
     "Paralelismo": "1.42",
-    "Fazenda": "53201"
+    "Fazenda": "53201",
+    "Unnamed: 16": null
   },
   {
     "ID": "3635304",
@@ -2374,7 +2509,8 @@ const PARALELISMO_DATA = [
     "Frente": "135 - FRENTE PEDRINHO",
     "Responsável": "NILDA CLAUDINO [2510716]",
     "Paralelismo": "1.4",
-    "Fazenda": "34703"
+    "Fazenda": "34703",
+    "Unnamed: 16": null
   },
   {
     "ID": "3635300",
@@ -2392,7 +2528,8 @@ const PARALELISMO_DATA = [
     "Frente": "135 - FRENTE PEDRINHO",
     "Responsável": "NILDA CLAUDINO [2510716]",
     "Paralelismo": "1.4",
-    "Fazenda": "34703"
+    "Fazenda": "34703",
+    "Unnamed: 16": null
   },
   {
     "ID": "3635250",
@@ -2410,7 +2547,8 @@ const PARALELISMO_DATA = [
     "Frente": "135 - FRENTE PEDRINHO",
     "Responsável": "NILDA CLAUDINO [2510716]",
     "Paralelismo": "1.4",
-    "Fazenda": "34703"
+    "Fazenda": "34703",
+    "Unnamed: 16": null
   },
   {
     "ID": "3633054",
@@ -2428,7 +2566,8 @@ const PARALELISMO_DATA = [
     "Frente": "143 - FRENTE CASSIO",
     "Responsável": "NILDA CLAUDINO [2510716]",
     "Paralelismo": "1.5",
-    "Fazenda": "48401"
+    "Fazenda": "48401",
+    "Unnamed: 16": null
   },
   {
     "ID": "3633050",
@@ -2446,7 +2585,8 @@ const PARALELISMO_DATA = [
     "Frente": "143 - FRENTE CASSIO",
     "Responsável": "NILDA CLAUDINO [2510716]",
     "Paralelismo": "1.5",
-    "Fazenda": "48401"
+    "Fazenda": "48401",
+    "Unnamed: 16": null
   },
   {
     "ID": "3633041",
@@ -2464,7 +2604,8 @@ const PARALELISMO_DATA = [
     "Frente": "143 - FRENTE CASSIO",
     "Responsável": "NILDA CLAUDINO [2510716]",
     "Paralelismo": "1.5",
-    "Fazenda": "48401"
+    "Fazenda": "48401",
+    "Unnamed: 16": null
   },
   {
     "ID": "3633037",
@@ -2482,7 +2623,8 @@ const PARALELISMO_DATA = [
     "Frente": "143 - FRENTE CASSIO",
     "Responsável": "NILDA CLAUDINO [2510716]",
     "Paralelismo": "1.5",
-    "Fazenda": "48401"
+    "Fazenda": "48401",
+    "Unnamed: 16": null
   },
   {
     "ID": "3633032",
@@ -2500,7 +2642,8 @@ const PARALELISMO_DATA = [
     "Frente": "143 - FRENTE CASSIO",
     "Responsável": "NILDA CLAUDINO [2510716]",
     "Paralelismo": "1.5",
-    "Fazenda": "48401"
+    "Fazenda": "48401",
+    "Unnamed: 16": null
   },
   {
     "ID": "3633028",
@@ -2518,7 +2661,8 @@ const PARALELISMO_DATA = [
     "Frente": "143 - FRENTE CASSIO",
     "Responsável": "NILDA CLAUDINO [2510716]",
     "Paralelismo": "1.5",
-    "Fazenda": "48401"
+    "Fazenda": "48401",
+    "Unnamed: 16": null
   },
   {
     "ID": "3632406",
@@ -2536,7 +2680,8 @@ const PARALELISMO_DATA = [
     "Frente": "135 - FRENTE PEDRINHO",
     "Responsável": "MARCELO DE OLIVEIRA JUNIOR",
     "Paralelismo": "1.41",
-    "Fazenda": "53201"
+    "Fazenda": "53201",
+    "Unnamed: 16": null
   },
   {
     "ID": "3632353",
@@ -2554,7 +2699,8 @@ const PARALELISMO_DATA = [
     "Frente": "135 - FRENTE PEDRINHO",
     "Responsável": "MARCELO DE OLIVEIRA JUNIOR",
     "Paralelismo": "1.43",
-    "Fazenda": "53201"
+    "Fazenda": "53201",
+    "Unnamed: 16": null
   },
   {
     "ID": "3632352",
@@ -2572,7 +2718,8 @@ const PARALELISMO_DATA = [
     "Frente": "135 - FRENTE PEDRINHO",
     "Responsável": "MARCELO DE OLIVEIRA JUNIOR",
     "Paralelismo": "1.4",
-    "Fazenda": "53201"
+    "Fazenda": "53201",
+    "Unnamed: 16": null
   },
   {
     "ID": "3632344",
@@ -2590,7 +2737,8 @@ const PARALELISMO_DATA = [
     "Frente": "135 - FRENTE PEDRINHO",
     "Responsável": "MARCELO DE OLIVEIRA JUNIOR",
     "Paralelismo": "1.42",
-    "Fazenda": "53201"
+    "Fazenda": "53201",
+    "Unnamed: 16": null
   },
   {
     "ID": "3632340",
@@ -2608,7 +2756,8 @@ const PARALELISMO_DATA = [
     "Frente": "135 - FRENTE PEDRINHO",
     "Responsável": "MARCELO DE OLIVEIRA JUNIOR",
     "Paralelismo": "1.4",
-    "Fazenda": "53201"
+    "Fazenda": "53201",
+    "Unnamed: 16": null
   },
   {
     "ID": "3629714",
@@ -2626,7 +2775,8 @@ const PARALELISMO_DATA = [
     "Frente": "105 - FRENTE CASSIO (ZACARIAS)",
     "Responsável": " Antonio ",
     "Paralelismo": "1.4",
-    "Fazenda": "53201"
+    "Fazenda": "53201",
+    "Unnamed: 16": null
   },
   {
     "ID": "3629707",
@@ -2644,7 +2794,8 @@ const PARALELISMO_DATA = [
     "Frente": "105 - FRENTE CASSIO (ZACARIAS)",
     "Responsável": " Antonio ",
     "Paralelismo": "1.4",
-    "Fazenda": "53201"
+    "Fazenda": "53201",
+    "Unnamed: 16": null
   },
   {
     "ID": "3628811",
@@ -2662,7 +2813,8 @@ const PARALELISMO_DATA = [
     "Frente": "101 - FRENTE MECANIZADA",
     "Responsável": "NILDA CLAUDINO [2510716]",
     "Paralelismo": "1.4",
-    "Fazenda": "53201"
+    "Fazenda": "53201",
+    "Unnamed: 16": null
   },
   {
     "ID": "3628805",
@@ -2680,7 +2832,8 @@ const PARALELISMO_DATA = [
     "Frente": "101 - FRENTE MECANIZADA",
     "Responsável": "NILDA CLAUDINO [2510716]",
     "Paralelismo": "1.4",
-    "Fazenda": "53201"
+    "Fazenda": "53201",
+    "Unnamed: 16": null
   },
   {
     "ID": "3628872",
@@ -2698,7 +2851,8 @@ const PARALELISMO_DATA = [
     "Frente": "101 - FRENTE MECANIZADA",
     "Responsável": "NILDA CLAUDINO [2510716]",
     "Paralelismo": "1.4",
-    "Fazenda": "53201"
+    "Fazenda": "53201",
+    "Unnamed: 16": null
   },
   {
     "ID": "3628794",
@@ -2716,7 +2870,8 @@ const PARALELISMO_DATA = [
     "Frente": "101 - FRENTE MECANIZADA",
     "Responsável": "NILDA CLAUDINO [2510716]",
     "Paralelismo": "1.4",
-    "Fazenda": "53201"
+    "Fazenda": "53201",
+    "Unnamed: 16": null
   },
   {
     "ID": "3628789",
@@ -2734,7 +2889,8 @@ const PARALELISMO_DATA = [
     "Frente": "101 - FRENTE MECANIZADA",
     "Responsável": "NILDA CLAUDINO [2510716]",
     "Paralelismo": "1.4",
-    "Fazenda": "53201"
+    "Fazenda": "53201",
+    "Unnamed: 16": null
   },
   {
     "ID": "3628784",
@@ -2752,7 +2908,8 @@ const PARALELISMO_DATA = [
     "Frente": "101 - FRENTE MECANIZADA",
     "Responsável": "NILDA CLAUDINO [2510716]",
     "Paralelismo": "1.4",
-    "Fazenda": "53201"
+    "Fazenda": "53201",
+    "Unnamed: 16": null
   },
   {
     "ID": "3628779",
@@ -2770,7 +2927,8 @@ const PARALELISMO_DATA = [
     "Frente": "101 - FRENTE MECANIZADA",
     "Responsável": "NILDA CLAUDINO [2510716]",
     "Paralelismo": "1.4",
-    "Fazenda": "53201"
+    "Fazenda": "53201",
+    "Unnamed: 16": null
   },
   {
     "ID": "3628775",
@@ -2788,7 +2946,8 @@ const PARALELISMO_DATA = [
     "Frente": "101 - FRENTE MECANIZADA",
     "Responsável": "NILDA CLAUDINO [2510716]",
     "Paralelismo": "1.4",
-    "Fazenda": "53201"
+    "Fazenda": "53201",
+    "Unnamed: 16": null
   },
   {
     "ID": "3628771",
@@ -2806,7 +2965,8 @@ const PARALELISMO_DATA = [
     "Frente": "101 - FRENTE MECANIZADA",
     "Responsável": "NILDA CLAUDINO [2510716]",
     "Paralelismo": "1.4",
-    "Fazenda": "53201"
+    "Fazenda": "53201",
+    "Unnamed: 16": null
   },
   {
     "ID": "3628832",
@@ -2824,7 +2984,8 @@ const PARALELISMO_DATA = [
     "Frente": "143 - FRENTE CASSIO",
     "Responsável": "FERNANDA DE SOUZA ",
     "Paralelismo": "1.4",
-    "Fazenda": "53201"
+    "Fazenda": "53201",
+    "Unnamed: 16": null
   },
   {
     "ID": "3628757",
@@ -2842,7 +3003,8 @@ const PARALELISMO_DATA = [
     "Frente": "101 - FRENTE MECANIZADA",
     "Responsável": "NILDA CLAUDINO [2510716]",
     "Paralelismo": "1.4",
-    "Fazenda": "53201"
+    "Fazenda": "53201",
+    "Unnamed: 16": null
   },
   {
     "ID": "3628829",
@@ -2860,7 +3022,8 @@ const PARALELISMO_DATA = [
     "Frente": "143 - FRENTE CASSIO",
     "Responsável": "FERNANDA DE SOUZA ",
     "Paralelismo": "1.4",
-    "Fazenda": "53201"
+    "Fazenda": "53201",
+    "Unnamed: 16": null
   },
   {
     "ID": "3628827",
@@ -2878,7 +3041,8 @@ const PARALELISMO_DATA = [
     "Frente": "143 - FRENTE CASSIO",
     "Responsável": "FERNANDA DE SOUZA ",
     "Paralelismo": "1.4",
-    "Fazenda": "53201"
+    "Fazenda": "53201",
+    "Unnamed: 16": null
   },
   {
     "ID": "3628753",
@@ -2896,7 +3060,8 @@ const PARALELISMO_DATA = [
     "Frente": "101 - FRENTE MECANIZADA",
     "Responsável": "NILDA CLAUDINO [2510716]",
     "Paralelismo": "1.4",
-    "Fazenda": "53201"
+    "Fazenda": "53201",
+    "Unnamed: 16": null
   },
   {
     "ID": "3628824",
@@ -2914,7 +3079,8 @@ const PARALELISMO_DATA = [
     "Frente": "143 - FRENTE CASSIO",
     "Responsável": "FERNANDA DE SOUZA ",
     "Paralelismo": "1.4",
-    "Fazenda": "53201"
+    "Fazenda": "53201",
+    "Unnamed: 16": null
   },
   {
     "ID": "3628936",
@@ -2932,7 +3098,8 @@ const PARALELISMO_DATA = [
     "Frente": "135 - FRENTE PEDRINHO",
     "Responsável": "MARCELO DE OLIVEIRA JUNIOR",
     "Paralelismo": "1.4",
-    "Fazenda": "53201"
+    "Fazenda": "53201",
+    "Unnamed: 16": null
   },
   {
     "ID": "3628752",
@@ -2950,7 +3117,8 @@ const PARALELISMO_DATA = [
     "Frente": "101 - FRENTE MECANIZADA",
     "Responsável": "NILDA CLAUDINO [2510716]",
     "Paralelismo": "1.4",
-    "Fazenda": "53201"
+    "Fazenda": "53201",
+    "Unnamed: 16": null
   },
   {
     "ID": "3628930",
@@ -2968,7 +3136,8 @@ const PARALELISMO_DATA = [
     "Frente": "135 - FRENTE PEDRINHO",
     "Responsável": "MARCELO DE OLIVEIRA JUNIOR",
     "Paralelismo": "1.42",
-    "Fazenda": "53201"
+    "Fazenda": "53201",
+    "Unnamed: 16": null
   },
   {
     "ID": "3628925",
@@ -2986,7 +3155,8 @@ const PARALELISMO_DATA = [
     "Frente": "135 - FRENTE PEDRINHO",
     "Responsável": "MARCELO DE OLIVEIRA JUNIOR",
     "Paralelismo": "1.39",
-    "Fazenda": "53201"
+    "Fazenda": "53201",
+    "Unnamed: 16": null
   },
   {
     "ID": "3628867",
@@ -3004,7 +3174,8 @@ const PARALELISMO_DATA = [
     "Frente": "143 - FRENTE CASSIO",
     "Responsável": "FERNANDA DE SOUZA ",
     "Paralelismo": "1.41",
-    "Fazenda": "53201"
+    "Fazenda": "53201",
+    "Unnamed: 16": null
   },
   {
     "ID": "3628816",
@@ -3022,7 +3193,8 @@ const PARALELISMO_DATA = [
     "Frente": "143 - FRENTE CASSIO",
     "Responsável": "FERNANDA DE SOUZA ",
     "Paralelismo": "1.4",
-    "Fazenda": "53201"
+    "Fazenda": "53201",
+    "Unnamed: 16": null
   },
   {
     "ID": "3628814",
@@ -3040,7 +3212,8 @@ const PARALELISMO_DATA = [
     "Frente": "143 - FRENTE CASSIO",
     "Responsável": "FERNANDA DE SOUZA ",
     "Paralelismo": "1.4",
-    "Fazenda": "53201"
+    "Fazenda": "53201",
+    "Unnamed: 16": null
   },
   {
     "ID": "3627236",
@@ -3058,7 +3231,8 @@ const PARALELISMO_DATA = [
     "Frente": "101 - FRENTE MECANIZADA",
     "Responsável": "NILDA CLAUDINO [2510716]",
     "Paralelismo": "1.4",
-    "Fazenda": "53201"
+    "Fazenda": "53201",
+    "Unnamed: 16": null
   },
   {
     "ID": "3626952",
@@ -3076,7 +3250,8 @@ const PARALELISMO_DATA = [
     "Frente": "261 - FRENTE PRÓPRIA  (EDMILSON)",
     "Responsável": "VITOR AMORIM RAMOS ",
     "Paralelismo": "1.4",
-    "Fazenda": "53201"
+    "Fazenda": "53201",
+    "Unnamed: 16": null
   },
   {
     "ID": "3626947",
@@ -3094,7 +3269,8 @@ const PARALELISMO_DATA = [
     "Frente": "261 - FRENTE PRÓPRIA  (EDMILSON)",
     "Responsável": "VITOR AMORIM RAMOS ",
     "Paralelismo": "1.4",
-    "Fazenda": "53201"
+    "Fazenda": "53201",
+    "Unnamed: 16": null
   },
   {
     "ID": "3626942",
@@ -3112,7 +3288,8 @@ const PARALELISMO_DATA = [
     "Frente": "261 - FRENTE PRÓPRIA  (EDMILSON)",
     "Responsável": "VITOR AMORIM RAMOS ",
     "Paralelismo": "1.4",
-    "Fazenda": "53201"
+    "Fazenda": "53201",
+    "Unnamed: 16": null
   },
   {
     "ID": "3627053",
@@ -3130,7 +3307,8 @@ const PARALELISMO_DATA = [
     "Frente": "101 - FRENTE MECANIZADA",
     "Responsável": "NILDA CLAUDINO [2510716]",
     "Paralelismo": "1.4",
-    "Fazenda": "53201"
+    "Fazenda": "53201",
+    "Unnamed: 16": null
   },
   {
     "ID": "3627002",
@@ -3148,7 +3326,8 @@ const PARALELISMO_DATA = [
     "Frente": "135 - FRENTE PEDRINHO",
     "Responsável": "MARCELO DE OLIVEIRA JUNIOR",
     "Paralelismo": "1.4",
-    "Fazenda": "53201"
+    "Fazenda": "53201",
+    "Unnamed: 16": null
   },
   {
     "ID": "3626997",
@@ -3166,7 +3345,8 @@ const PARALELISMO_DATA = [
     "Frente": "135 - FRENTE PEDRINHO",
     "Responsável": "MARCELO DE OLIVEIRA JUNIOR",
     "Paralelismo": "1.41",
-    "Fazenda": "53201"
+    "Fazenda": "53201",
+    "Unnamed: 16": null
   },
   {
     "ID": "3627047",
@@ -3184,7 +3364,8 @@ const PARALELISMO_DATA = [
     "Frente": "101 - FRENTE MECANIZADA",
     "Responsável": "NILDA CLAUDINO [2510716]",
     "Paralelismo": "1.4",
-    "Fazenda": "53201"
+    "Fazenda": "53201",
+    "Unnamed: 16": null
   },
   {
     "ID": "3626996",
@@ -3202,7 +3383,8 @@ const PARALELISMO_DATA = [
     "Frente": "135 - FRENTE PEDRINHO",
     "Responsável": "MARCELO DE OLIVEIRA JUNIOR",
     "Paralelismo": "1.43",
-    "Fazenda": "53201"
+    "Fazenda": "53201",
+    "Unnamed: 16": null
   },
   {
     "ID": "3627041",
@@ -3220,7 +3402,8 @@ const PARALELISMO_DATA = [
     "Frente": "101 - FRENTE MECANIZADA",
     "Responsável": "NILDA CLAUDINO [2510716]",
     "Paralelismo": "1.4",
-    "Fazenda": "53201"
+    "Fazenda": "53201",
+    "Unnamed: 16": null
   },
   {
     "ID": "3627036",
@@ -3238,7 +3421,8 @@ const PARALELISMO_DATA = [
     "Frente": "101 - FRENTE MECANIZADA",
     "Responsável": "NILDA CLAUDINO [2510716]",
     "Paralelismo": "1.4",
-    "Fazenda": "53201"
+    "Fazenda": "53201",
+    "Unnamed: 16": null
   },
   {
     "ID": "3627163",
@@ -3256,7 +3440,8 @@ const PARALELISMO_DATA = [
     "Frente": "139 - FRENTE MANEZÃO",
     "Responsável": "MICHELI DE SOUZA SANTOS  ",
     "Paralelismo": "1.4",
-    "Fazenda": "53201"
+    "Fazenda": "53201",
+    "Unnamed: 16": null
   },
   {
     "ID": "3627158",
@@ -3274,7 +3459,8 @@ const PARALELISMO_DATA = [
     "Frente": "139 - FRENTE MANEZÃO",
     "Responsável": "MICHELI DE SOUZA SANTOS  ",
     "Paralelismo": "1.4",
-    "Fazenda": "53201"
+    "Fazenda": "53201",
+    "Unnamed: 16": null
   },
   {
     "ID": "3626414",
@@ -3292,7 +3478,8 @@ const PARALELISMO_DATA = [
     "Frente": "261 - FRENTE PRÓPRIA  (EDMILSON)",
     "Responsável": "VITOR AMORIM RAMOS ",
     "Paralelismo": "1.4",
-    "Fazenda": "53201"
+    "Fazenda": "53201",
+    "Unnamed: 16": null
   },
   {
     "ID": "3627033",
@@ -3310,7 +3497,8 @@ const PARALELISMO_DATA = [
     "Frente": "101 - FRENTE MECANIZADA",
     "Responsável": "NILDA CLAUDINO [2510716]",
     "Paralelismo": "1.4",
-    "Fazenda": "53201"
+    "Fazenda": "53201",
+    "Unnamed: 16": null
   },
   {
     "ID": "3626403",
@@ -3328,7 +3516,8 @@ const PARALELISMO_DATA = [
     "Frente": "261 - FRENTE PRÓPRIA  (EDMILSON)",
     "Responsável": "VITOR AMORIM RAMOS ",
     "Paralelismo": "1.4",
-    "Fazenda": "53201"
+    "Fazenda": "53201",
+    "Unnamed: 16": null
   },
   {
     "ID": "3627026",
@@ -3346,7 +3535,8 @@ const PARALELISMO_DATA = [
     "Frente": "101 - FRENTE MECANIZADA",
     "Responsável": "NILDA CLAUDINO [2510716]",
     "Paralelismo": "1.4",
-    "Fazenda": "53201"
+    "Fazenda": "53201",
+    "Unnamed: 16": null
   },
   {
     "ID": "3626397",
@@ -3364,7 +3554,8 @@ const PARALELISMO_DATA = [
     "Frente": "261 - FRENTE PRÓPRIA  (EDMILSON)",
     "Responsável": "VITOR AMORIM RAMOS ",
     "Paralelismo": "1.4",
-    "Fazenda": "53201"
+    "Fazenda": "53201",
+    "Unnamed: 16": null
   },
   {
     "ID": "3626392",
@@ -3382,7 +3573,8 @@ const PARALELISMO_DATA = [
     "Frente": "261 - FRENTE PRÓPRIA  (EDMILSON)",
     "Responsável": "VITOR AMORIM RAMOS ",
     "Paralelismo": "1.4",
-    "Fazenda": "53201"
+    "Fazenda": "53201",
+    "Unnamed: 16": null
   },
   {
     "ID": "3626388",
@@ -3400,7 +3592,8 @@ const PARALELISMO_DATA = [
     "Frente": "261 - FRENTE PRÓPRIA  (EDMILSON)",
     "Responsável": "VITOR AMORIM RAMOS ",
     "Paralelismo": "1.4",
-    "Fazenda": "53201"
+    "Fazenda": "53201",
+    "Unnamed: 16": null
   },
   {
     "ID": "3627019",
@@ -3418,7 +3611,8 @@ const PARALELISMO_DATA = [
     "Frente": "101 - FRENTE MECANIZADA",
     "Responsável": "NILDA CLAUDINO [2510716]",
     "Paralelismo": "1.4",
-    "Fazenda": "53201"
+    "Fazenda": "53201",
+    "Unnamed: 16": null
   },
   {
     "ID": "3626563",
@@ -3436,7 +3630,8 @@ const PARALELISMO_DATA = [
     "Frente": "143 - FRENTE CASSIO",
     "Responsável": "FERNANDA DE SOUZA ",
     "Paralelismo": "1.4",
-    "Fazenda": "53201"
+    "Fazenda": "53201",
+    "Unnamed: 16": null
   },
   {
     "ID": "3626382",
@@ -3454,7 +3649,8 @@ const PARALELISMO_DATA = [
     "Frente": "261 - FRENTE PRÓPRIA  (EDMILSON)",
     "Responsável": "VITOR AMORIM RAMOS ",
     "Paralelismo": "1.4",
-    "Fazenda": "53201"
+    "Fazenda": "53201",
+    "Unnamed: 16": null
   },
   {
     "ID": "3626562",
@@ -3472,7 +3668,8 @@ const PARALELISMO_DATA = [
     "Frente": "143 - FRENTE CASSIO",
     "Responsável": "FERNANDA DE SOUZA ",
     "Paralelismo": "1.4",
-    "Fazenda": "53201"
+    "Fazenda": "53201",
+    "Unnamed: 16": null
   },
   {
     "ID": "3627177",
@@ -3490,7 +3687,8 @@ const PARALELISMO_DATA = [
     "Frente": "101 - FRENTE MECANIZADA",
     "Responsável": "NILDA CLAUDINO [2510716]",
     "Paralelismo": "1.4",
-    "Fazenda": "53201"
+    "Fazenda": "53201",
+    "Unnamed: 16": null
   },
   {
     "ID": "3626559",
@@ -3508,7 +3706,8 @@ const PARALELISMO_DATA = [
     "Frente": "143 - FRENTE CASSIO",
     "Responsável": "FERNANDA DE SOUZA ",
     "Paralelismo": "1.4",
-    "Fazenda": "53201"
+    "Fazenda": "53201",
+    "Unnamed: 16": null
   },
   {
     "ID": "3626558",
@@ -3526,7 +3725,8 @@ const PARALELISMO_DATA = [
     "Frente": "143 - FRENTE CASSIO",
     "Responsável": "FERNANDA DE SOUZA ",
     "Paralelismo": "1.41",
-    "Fazenda": "53201"
+    "Fazenda": "53201",
+    "Unnamed: 16": null
   },
   {
     "ID": "3627148",
@@ -3544,7 +3744,8 @@ const PARALELISMO_DATA = [
     "Frente": "139 - FRENTE MANEZÃO",
     "Responsável": "MICHELI DE SOUZA SANTOS  ",
     "Paralelismo": "1.4",
-    "Fazenda": "53201"
+    "Fazenda": "53201",
+    "Unnamed: 16": null
   },
   {
     "ID": "3627244",
@@ -3562,7 +3763,8 @@ const PARALELISMO_DATA = [
     "Frente": "101 - FRENTE MECANIZADA",
     "Responsável": "NILDA CLAUDINO [2510716]",
     "Paralelismo": "1.4",
-    "Fazenda": "53201"
+    "Fazenda": "53201",
+    "Unnamed: 16": null
   },
   {
     "ID": "3626555",
@@ -3580,7 +3782,8 @@ const PARALELISMO_DATA = [
     "Frente": "143 - FRENTE CASSIO",
     "Responsável": "FERNANDA DE SOUZA ",
     "Paralelismo": "1.4",
-    "Fazenda": "53201"
+    "Fazenda": "53201",
+    "Unnamed: 16": null
   },
   {
     "ID": "3626553",
@@ -3598,7 +3801,8 @@ const PARALELISMO_DATA = [
     "Frente": "143 - FRENTE CASSIO",
     "Responsável": "FERNANDA DE SOUZA ",
     "Paralelismo": "1.4",
-    "Fazenda": "53201"
+    "Fazenda": "53201",
+    "Unnamed: 16": null
   },
   {
     "ID": "3627142",
@@ -3616,7 +3820,8 @@ const PARALELISMO_DATA = [
     "Frente": "139 - FRENTE MANEZÃO",
     "Responsável": "MICHELI DE SOUZA SANTOS  ",
     "Paralelismo": "1.4",
-    "Fazenda": "53201"
+    "Fazenda": "53201",
+    "Unnamed: 16": null
   },
   {
     "ID": "3627137",
@@ -3634,7 +3839,8 @@ const PARALELISMO_DATA = [
     "Frente": "139 - FRENTE MANEZÃO",
     "Responsável": "MICHELI DE SOUZA SANTOS  ",
     "Paralelismo": "1.4",
-    "Fazenda": "53201"
+    "Fazenda": "53201",
+    "Unnamed: 16": null
   },
   {
     "ID": "3627170",
@@ -3652,7 +3858,8 @@ const PARALELISMO_DATA = [
     "Frente": "101 - FRENTE MECANIZADA",
     "Responsável": "NILDA CLAUDINO [2510716]",
     "Paralelismo": "1.4",
-    "Fazenda": "53201"
+    "Fazenda": "53201",
+    "Unnamed: 16": null
   },
   {
     "ID": "3627132",
@@ -3670,7 +3877,8 @@ const PARALELISMO_DATA = [
     "Frente": "139 - FRENTE MANEZÃO",
     "Responsável": "MICHELI DE SOUZA SANTOS  ",
     "Paralelismo": "1.4",
-    "Fazenda": "53201"
+    "Fazenda": "53201",
+    "Unnamed: 16": null
   },
   {
     "ID": "3624850",
@@ -3688,7 +3896,8 @@ const PARALELISMO_DATA = [
     "Frente": "101 - FRENTE MECANIZADA",
     "Responsável": "NILDA CLAUDINO [2510716]",
     "Paralelismo": "1.4",
-    "Fazenda": "53201"
+    "Fazenda": "53201",
+    "Unnamed: 16": null
   },
   {
     "ID": "3624966",
@@ -3706,7 +3915,8 @@ const PARALELISMO_DATA = [
     "Frente": "105 - FRENTE CASSIO (ZACARIAS)",
     "Responsável": " Antonio ",
     "Paralelismo": "1.4",
-    "Fazenda": "53201"
+    "Fazenda": "53201",
+    "Unnamed: 16": null
   },
   {
     "ID": "3624962",
@@ -3724,7 +3934,8 @@ const PARALELISMO_DATA = [
     "Frente": "105 - FRENTE CASSIO (ZACARIAS)",
     "Responsável": " Antonio ",
     "Paralelismo": "1.4",
-    "Fazenda": "53201"
+    "Fazenda": "53201",
+    "Unnamed: 16": null
   },
   {
     "ID": "3624842",
@@ -3742,7 +3953,8 @@ const PARALELISMO_DATA = [
     "Frente": "101 - FRENTE MECANIZADA",
     "Responsável": "NILDA CLAUDINO [2510716]",
     "Paralelismo": "1.4",
-    "Fazenda": "53201"
+    "Fazenda": "53201",
+    "Unnamed: 16": null
   },
   {
     "ID": "3624825",
@@ -3760,7 +3972,8 @@ const PARALELISMO_DATA = [
     "Frente": "101 - FRENTE MECANIZADA",
     "Responsável": "NILDA CLAUDINO [2510716]",
     "Paralelismo": "1.4",
-    "Fazenda": "53201"
+    "Fazenda": "53201",
+    "Unnamed: 16": null
   },
   {
     "ID": "3627118",
@@ -3778,7 +3991,8 @@ const PARALELISMO_DATA = [
     "Frente": "139 - FRENTE MANEZÃO",
     "Responsável": "MICHELI DE SOUZA SANTOS  ",
     "Paralelismo": "1.4",
-    "Fazenda": "40101"
+    "Fazenda": "40101",
+    "Unnamed: 16": null
   },
   {
     "ID": "3624819",
@@ -3796,7 +4010,8 @@ const PARALELISMO_DATA = [
     "Frente": "101 - FRENTE MECANIZADA",
     "Responsável": "NILDA CLAUDINO [2510716]",
     "Paralelismo": "1.4",
-    "Fazenda": "53201"
+    "Fazenda": "53201",
+    "Unnamed: 16": null
   },
   {
     "ID": "3624809",
@@ -3814,7 +4029,8 @@ const PARALELISMO_DATA = [
     "Frente": "101 - FRENTE MECANIZADA",
     "Responsável": "NILDA CLAUDINO [2510716]",
     "Paralelismo": "1.4",
-    "Fazenda": "53201"
+    "Fazenda": "53201",
+    "Unnamed: 16": null
   },
   {
     "ID": "3627091",
@@ -3832,7 +4048,8 @@ const PARALELISMO_DATA = [
     "Frente": "139 - FRENTE MANEZÃO",
     "Responsável": "MICHELI DE SOUZA SANTOS  ",
     "Paralelismo": "1.4",
-    "Fazenda": "40101"
+    "Fazenda": "40101",
+    "Unnamed: 16": null
   },
   {
     "ID": "3624342",
@@ -3850,7 +4067,8 @@ const PARALELISMO_DATA = [
     "Frente": "143 - FRENTE CASSIO",
     "Responsável": "FERNANDA DE SOUZA ",
     "Paralelismo": "1.4",
-    "Fazenda": "53201"
+    "Fazenda": "53201",
+    "Unnamed: 16": null
   },
   {
     "ID": "3625527",
@@ -3868,7 +4086,8 @@ const PARALELISMO_DATA = [
     "Frente": "139 - FRENTE MANEZÃO",
     "Responsável": "MICHELI DE SOUZA SANTOS  ",
     "Paralelismo": "1.4",
-    "Fazenda": "40101"
+    "Fazenda": "40101",
+    "Unnamed: 16": null
   },
   {
     "ID": "3624779",
@@ -3886,7 +4105,8 @@ const PARALELISMO_DATA = [
     "Frente": "101 - FRENTE MECANIZADA",
     "Responsável": "NILDA CLAUDINO [2510716]",
     "Paralelismo": "1.4",
-    "Fazenda": "53201"
+    "Fazenda": "53201",
+    "Unnamed: 16": null
   },
   {
     "ID": "3625521",
@@ -3904,7 +4124,8 @@ const PARALELISMO_DATA = [
     "Frente": "139 - FRENTE MANEZÃO",
     "Responsável": "MICHELI DE SOUZA SANTOS  ",
     "Paralelismo": "1.4",
-    "Fazenda": "40101"
+    "Fazenda": "40101",
+    "Unnamed: 16": null
   },
   {
     "ID": "3624627",
@@ -3922,7 +4143,8 @@ const PARALELISMO_DATA = [
     "Frente": "261 - FRENTE PRÓPRIA  (EDMILSON)",
     "Responsável": "VITOR AMORIM RAMOS ",
     "Paralelismo": "1.4",
-    "Fazenda": "40101"
+    "Fazenda": "40101",
+    "Unnamed: 16": null
   },
   {
     "ID": "3625513",
@@ -3940,7 +4162,8 @@ const PARALELISMO_DATA = [
     "Frente": "139 - FRENTE MANEZÃO",
     "Responsável": "MICHELI DE SOUZA SANTOS  ",
     "Paralelismo": "1.4",
-    "Fazenda": "40101"
+    "Fazenda": "40101",
+    "Unnamed: 16": null
   },
   {
     "ID": "3624623",
@@ -3958,7 +4181,8 @@ const PARALELISMO_DATA = [
     "Frente": "261 - FRENTE PRÓPRIA  (EDMILSON)",
     "Responsável": "VITOR AMORIM RAMOS ",
     "Paralelismo": "1.4",
-    "Fazenda": "40101"
+    "Fazenda": "40101",
+    "Unnamed: 16": null
   },
   {
     "ID": "3624618",
@@ -3976,7 +4200,8 @@ const PARALELISMO_DATA = [
     "Frente": "261 - FRENTE PRÓPRIA  (EDMILSON)",
     "Responsável": "VITOR AMORIM RAMOS ",
     "Paralelismo": "1.4",
-    "Fazenda": "40101"
+    "Fazenda": "40101",
+    "Unnamed: 16": null
   },
   {
     "ID": "3625465",
@@ -3994,7 +4219,8 @@ const PARALELISMO_DATA = [
     "Frente": "135 - FRENTE PEDRINHO",
     "Responsável": "MARCELO DE OLIVEIRA JUNIOR",
     "Paralelismo": "1.51",
-    "Fazenda": "255301"
+    "Fazenda": "255301",
+    "Unnamed: 16": null
   },
   {
     "ID": "3625461",
@@ -4012,7 +4238,8 @@ const PARALELISMO_DATA = [
     "Frente": "135 - FRENTE PEDRINHO",
     "Responsável": "MARCELO DE OLIVEIRA JUNIOR",
     "Paralelismo": "1.53",
-    "Fazenda": "255301"
+    "Fazenda": "255301",
+    "Unnamed: 16": null
   },
   {
     "ID": "3624613",
@@ -4030,7 +4257,8 @@ const PARALELISMO_DATA = [
     "Frente": "261 - FRENTE PRÓPRIA  (EDMILSON)",
     "Responsável": "VITOR AMORIM RAMOS ",
     "Paralelismo": "1.4",
-    "Fazenda": "40101"
+    "Fazenda": "40101",
+    "Unnamed: 16": null
   },
   {
     "ID": "3624569",
@@ -4048,7 +4276,8 @@ const PARALELISMO_DATA = [
     "Frente": "135 - FRENTE PEDRINHO",
     "Responsável": "MARCELO DE OLIVEIRA JUNIOR",
     "Paralelismo": "1.55",
-    "Fazenda": "255301"
+    "Fazenda": "255301",
+    "Unnamed: 16": null
   },
   {
     "ID": "3625463",
@@ -4066,7 +4295,8 @@ const PARALELISMO_DATA = [
     "Frente": "139 - FRENTE MANEZÃO",
     "Responsável": "MICHELI DE SOUZA SANTOS  ",
     "Paralelismo": "1.4",
-    "Fazenda": "40101"
+    "Fazenda": "40101",
+    "Unnamed: 16": null
   },
   {
     "ID": "3625451",
@@ -4084,7 +4314,8 @@ const PARALELISMO_DATA = [
     "Frente": "139 - FRENTE MANEZÃO",
     "Responsável": "MICHELI DE SOUZA SANTOS  ",
     "Paralelismo": "1.4",
-    "Fazenda": "40101"
+    "Fazenda": "40101",
+    "Unnamed: 16": null
   },
   {
     "ID": "3624314",
@@ -4102,7 +4333,8 @@ const PARALELISMO_DATA = [
     "Frente": "143 - FRENTE CASSIO",
     "Responsável": "FERNANDA DE SOUZA ",
     "Paralelismo": "1.4",
-    "Fazenda": "53201"
+    "Fazenda": "53201",
+    "Unnamed: 16": null
   },
   {
     "ID": "3624017",
@@ -4120,7 +4352,8 @@ const PARALELISMO_DATA = [
     "Frente": "261 - FRENTE PRÓPRIA  (EDMILSON)",
     "Responsável": "VITOR AMORIM RAMOS ",
     "Paralelismo": "1.4",
-    "Fazenda": "40101"
+    "Fazenda": "40101",
+    "Unnamed: 16": null
   },
   {
     "ID": "3624268",
@@ -4138,7 +4371,8 @@ const PARALELISMO_DATA = [
     "Frente": "143 - FRENTE CASSIO",
     "Responsável": "FERNANDA DE SOUZA ",
     "Paralelismo": "1.4",
-    "Fazenda": "53201"
+    "Fazenda": "53201",
+    "Unnamed: 16": null
   },
   {
     "ID": "3625446",
@@ -4156,7 +4390,8 @@ const PARALELISMO_DATA = [
     "Frente": "139 - FRENTE MANEZÃO",
     "Responsável": "MICHELI DE SOUZA SANTOS  ",
     "Paralelismo": "1.4",
-    "Fazenda": "40101"
+    "Fazenda": "40101",
+    "Unnamed: 16": null
   },
   {
     "ID": "3624012",
@@ -4174,7 +4409,8 @@ const PARALELISMO_DATA = [
     "Frente": "261 - FRENTE PRÓPRIA  (EDMILSON)",
     "Responsável": "VITOR AMORIM RAMOS ",
     "Paralelismo": "1.4",
-    "Fazenda": "40101"
+    "Fazenda": "40101",
+    "Unnamed: 16": null
   },
   {
     "ID": "3624223",
@@ -4192,7 +4428,8 @@ const PARALELISMO_DATA = [
     "Frente": "143 - FRENTE CASSIO",
     "Responsável": "FERNANDA DE SOUZA ",
     "Paralelismo": "1.4",
-    "Fazenda": "53201"
+    "Fazenda": "53201",
+    "Unnamed: 16": null
   },
   {
     "ID": "3625418",
@@ -4210,7 +4447,8 @@ const PARALELISMO_DATA = [
     "Frente": "139 - FRENTE MANEZÃO",
     "Responsável": "MICHELI DE SOUZA SANTOS  ",
     "Paralelismo": "1.4",
-    "Fazenda": "40101"
+    "Fazenda": "40101",
+    "Unnamed: 16": null
   },
   {
     "ID": "3624006",
@@ -4228,7 +4466,8 @@ const PARALELISMO_DATA = [
     "Frente": "261 - FRENTE PRÓPRIA  (EDMILSON)",
     "Responsável": "VITOR AMORIM RAMOS ",
     "Paralelismo": "1.4",
-    "Fazenda": "40101"
+    "Fazenda": "40101",
+    "Unnamed: 16": null
   },
   {
     "ID": "3624221",
@@ -4246,7 +4485,8 @@ const PARALELISMO_DATA = [
     "Frente": "143 - FRENTE CASSIO",
     "Responsável": "FERNANDA DE SOUZA ",
     "Paralelismo": "1.4",
-    "Fazenda": "53201"
+    "Fazenda": "53201",
+    "Unnamed: 16": null
   },
   {
     "ID": "3625413",
@@ -4264,7 +4504,8 @@ const PARALELISMO_DATA = [
     "Frente": "139 - FRENTE MANEZÃO",
     "Responsável": "MICHELI DE SOUZA SANTOS  ",
     "Paralelismo": "1.4",
-    "Fazenda": "40101"
+    "Fazenda": "40101",
+    "Unnamed: 16": null
   },
   {
     "ID": "3623992",
@@ -4282,7 +4523,8 @@ const PARALELISMO_DATA = [
     "Frente": "261 - FRENTE PRÓPRIA  (EDMILSON)",
     "Responsável": "VITOR AMORIM RAMOS ",
     "Paralelismo": "1.4",
-    "Fazenda": "40101"
+    "Fazenda": "40101",
+    "Unnamed: 16": null
   },
   {
     "ID": "3624039",
@@ -4300,7 +4542,8 @@ const PARALELISMO_DATA = [
     "Frente": "105 - FRENTE CASSIO (ZACARIAS)",
     "Responsável": " Antonio ",
     "Paralelismo": "1.4",
-    "Fazenda": "53201"
+    "Fazenda": "53201",
+    "Unnamed: 16": null
   },
   {
     "ID": "3625374",
@@ -4318,7 +4561,8 @@ const PARALELISMO_DATA = [
     "Frente": "139 - FRENTE MANEZÃO",
     "Responsável": "MICHELI DE SOUZA SANTOS  ",
     "Paralelismo": "1.4",
-    "Fazenda": "40101"
+    "Fazenda": "40101",
+    "Unnamed: 16": null
   },
   {
     "ID": "3623987",
@@ -4336,7 +4580,8 @@ const PARALELISMO_DATA = [
     "Frente": "261 - FRENTE PRÓPRIA  (EDMILSON)",
     "Responsável": "VITOR AMORIM RAMOS ",
     "Paralelismo": "1.4",
-    "Fazenda": "40101"
+    "Fazenda": "40101",
+    "Unnamed: 16": null
   },
   {
     "ID": "3623975",
@@ -4354,7 +4599,8 @@ const PARALELISMO_DATA = [
     "Frente": "105 - FRENTE CASSIO (ZACARIAS)",
     "Responsável": " Antonio ",
     "Paralelismo": "1.4",
-    "Fazenda": "53201"
+    "Fazenda": "53201",
+    "Unnamed: 16": null
   },
   {
     "ID": "3623982",
@@ -4372,7 +4618,8 @@ const PARALELISMO_DATA = [
     "Frente": "261 - FRENTE PRÓPRIA  (EDMILSON)",
     "Responsável": "VITOR AMORIM RAMOS ",
     "Paralelismo": "1.4",
-    "Fazenda": "40101"
+    "Fazenda": "40101",
+    "Unnamed: 16": null
   },
   {
     "ID": "3625368",
@@ -4390,7 +4637,8 @@ const PARALELISMO_DATA = [
     "Frente": "139 - FRENTE MANEZÃO",
     "Responsável": "MICHELI DE SOUZA SANTOS  ",
     "Paralelismo": "1.4",
-    "Fazenda": "40101"
+    "Fazenda": "40101",
+    "Unnamed: 16": null
   },
   {
     "ID": "3623970",
@@ -4408,7 +4656,8 @@ const PARALELISMO_DATA = [
     "Frente": "261 - FRENTE PRÓPRIA  (EDMILSON)",
     "Responsável": "VITOR AMORIM RAMOS ",
     "Paralelismo": "1.4",
-    "Fazenda": "40101"
+    "Fazenda": "40101",
+    "Unnamed: 16": null
   },
   {
     "ID": "3623962",
@@ -4426,7 +4675,8 @@ const PARALELISMO_DATA = [
     "Frente": "261 - FRENTE PRÓPRIA  (EDMILSON)",
     "Responsável": "VITOR AMORIM RAMOS ",
     "Paralelismo": "1.4",
-    "Fazenda": "40101"
+    "Fazenda": "40101",
+    "Unnamed: 16": null
   },
   {
     "ID": "3625363",
@@ -4444,7 +4694,8 @@ const PARALELISMO_DATA = [
     "Frente": "139 - FRENTE MANEZÃO",
     "Responsável": "MICHELI DE SOUZA SANTOS  ",
     "Paralelismo": "1.39",
-    "Fazenda": "40101"
+    "Fazenda": "40101",
+    "Unnamed: 16": null
   },
   {
     "ID": "3625358",
@@ -4462,7 +4713,8 @@ const PARALELISMO_DATA = [
     "Frente": "139 - FRENTE MANEZÃO",
     "Responsável": "MICHELI DE SOUZA SANTOS  ",
     "Paralelismo": "1.4",
-    "Fazenda": "40101"
+    "Fazenda": "40101",
+    "Unnamed: 16": null
   },
   {
     "ID": "3623954",
@@ -4480,7 +4732,8 @@ const PARALELISMO_DATA = [
     "Frente": "261 - FRENTE PRÓPRIA  (EDMILSON)",
     "Responsável": "VITOR AMORIM RAMOS ",
     "Paralelismo": "1.4",
-    "Fazenda": "40101"
+    "Fazenda": "40101",
+    "Unnamed: 16": null
   },
   {
     "ID": "3625350",
@@ -4498,7 +4751,8 @@ const PARALELISMO_DATA = [
     "Frente": "139 - FRENTE MANEZÃO",
     "Responsável": "MICHELI DE SOUZA SANTOS  ",
     "Paralelismo": "1.42",
-    "Fazenda": "40101"
+    "Fazenda": "40101",
+    "Unnamed: 16": null
   },
   {
     "ID": "3623936",
@@ -4516,7 +4770,8 @@ const PARALELISMO_DATA = [
     "Frente": "261 - FRENTE PRÓPRIA  (EDMILSON)",
     "Responsável": "VITOR AMORIM RAMOS ",
     "Paralelismo": "1.4",
-    "Fazenda": "40101"
+    "Fazenda": "40101",
+    "Unnamed: 16": null
   },
   {
     "ID": "3624607",
@@ -4534,7 +4789,8 @@ const PARALELISMO_DATA = [
     "Frente": "139 - FRENTE MANEZÃO",
     "Responsável": "MICHELI DE SOUZA SANTOS  ",
     "Paralelismo": "1.4",
-    "Fazenda": "40101"
+    "Fazenda": "40101",
+    "Unnamed: 16": null
   },
   {
     "ID": "3623931",
@@ -4552,7 +4808,8 @@ const PARALELISMO_DATA = [
     "Frente": "261 - FRENTE PRÓPRIA  (EDMILSON)",
     "Responsável": "VITOR AMORIM RAMOS ",
     "Paralelismo": "1.4",
-    "Fazenda": "40101"
+    "Fazenda": "40101",
+    "Unnamed: 16": null
   },
   {
     "ID": "3624564",
@@ -4570,7 +4827,8 @@ const PARALELISMO_DATA = [
     "Frente": "135 - FRENTE PEDRINHO",
     "Responsável": "MARCELO DE OLIVEIRA JUNIOR",
     "Paralelismo": "1.52",
-    "Fazenda": "255301"
+    "Fazenda": "255301",
+    "Unnamed: 16": null
   },
   {
     "ID": "3623915",
@@ -4588,7 +4846,8 @@ const PARALELISMO_DATA = [
     "Frente": "261 - FRENTE PRÓPRIA  (EDMILSON)",
     "Responsável": "VITOR AMORIM RAMOS ",
     "Paralelismo": "1.4",
-    "Fazenda": "40101"
+    "Fazenda": "40101",
+    "Unnamed: 16": null
   },
   {
     "ID": "3624559",
@@ -4606,7 +4865,8 @@ const PARALELISMO_DATA = [
     "Frente": "135 - FRENTE PEDRINHO",
     "Responsável": "MARCELO DE OLIVEIRA JUNIOR",
     "Paralelismo": "1.5",
-    "Fazenda": "255301"
+    "Fazenda": "255301",
+    "Unnamed: 16": null
   },
   {
     "ID": "3624554",
@@ -4624,7 +4884,8 @@ const PARALELISMO_DATA = [
     "Frente": "135 - FRENTE PEDRINHO",
     "Responsável": "MARCELO DE OLIVEIRA JUNIOR",
     "Paralelismo": "1.51",
-    "Fazenda": "255301"
+    "Fazenda": "255301",
+    "Unnamed: 16": null
   },
   {
     "ID": "3621612",
@@ -4642,7 +4903,8 @@ const PARALELISMO_DATA = [
     "Frente": "143 - FRENTE CASSIO",
     "Responsável": "MABILA HELEN D FIGUEIREDO",
     "Paralelismo": "1.4",
-    "Fazenda": "53201"
+    "Fazenda": "53201",
+    "Unnamed: 16": null
   },
   {
     "ID": "3621946",
@@ -4660,7 +4922,8 @@ const PARALELISMO_DATA = [
     "Frente": "101 - FRENTE MECANIZADA",
     "Responsável": "NILDA CLAUDINO [2510716]",
     "Paralelismo": "1.4",
-    "Fazenda": "168003"
+    "Fazenda": "168003",
+    "Unnamed: 16": null
   },
   {
     "ID": "3621991",
@@ -4678,7 +4941,8 @@ const PARALELISMO_DATA = [
     "Frente": "261 - FRENTE PRÓPRIA  (EDMILSON)",
     "Responsável": "VITOR AMORIM RAMOS ",
     "Paralelismo": "1.4",
-    "Fazenda": "40101"
+    "Fazenda": "40101",
+    "Unnamed: 16": null
   },
   {
     "ID": "3621656",
@@ -4696,7 +4960,8 @@ const PARALELISMO_DATA = [
     "Frente": "143 - FRENTE CASSIO",
     "Responsável": "MABILA HELEN D FIGUEIREDO",
     "Paralelismo": "1.4",
-    "Fazenda": "53201"
+    "Fazenda": "53201",
+    "Unnamed: 16": null
   },
   {
     "ID": "3621986",
@@ -4714,7 +4979,8 @@ const PARALELISMO_DATA = [
     "Frente": "261 - FRENTE PRÓPRIA  (EDMILSON)",
     "Responsável": "VITOR AMORIM RAMOS ",
     "Paralelismo": "1.4",
-    "Fazenda": "40101"
+    "Fazenda": "40101",
+    "Unnamed: 16": null
   },
   {
     "ID": "3621452",
@@ -4732,7 +4998,8 @@ const PARALELISMO_DATA = [
     "Frente": "101 - FRENTE MECANIZADA",
     "Responsável": "FERNANDA DE SOUZA ",
     "Paralelismo": "1.4",
-    "Fazenda": "53201"
+    "Fazenda": "53201",
+    "Unnamed: 16": null
   },
   {
     "ID": "3621879",
@@ -4750,7 +5017,8 @@ const PARALELISMO_DATA = [
     "Frente": "261 - FRENTE PRÓPRIA  (EDMILSON)",
     "Responsável": "VITOR AMORIM RAMOS ",
     "Paralelismo": "1.4",
-    "Fazenda": "40101"
+    "Fazenda": "40101",
+    "Unnamed: 16": null
   },
   {
     "ID": "3621874",
@@ -4768,7 +5036,8 @@ const PARALELISMO_DATA = [
     "Frente": "261 - FRENTE PRÓPRIA  (EDMILSON)",
     "Responsável": "VITOR AMORIM RAMOS ",
     "Paralelismo": "1.4",
-    "Fazenda": "40101"
+    "Fazenda": "40101",
+    "Unnamed: 16": null
   },
   {
     "ID": "3621937",
@@ -4786,7 +5055,8 @@ const PARALELISMO_DATA = [
     "Frente": "101 - FRENTE MECANIZADA",
     "Responsável": "NILDA CLAUDINO [2510716]",
     "Paralelismo": "1.4",
-    "Fazenda": "168003"
+    "Fazenda": "168003",
+    "Unnamed: 16": null
   },
   {
     "ID": "3621599",
@@ -4804,7 +5074,8 @@ const PARALELISMO_DATA = [
     "Frente": "143 - FRENTE CASSIO",
     "Responsável": "MABILA HELEN D FIGUEIREDO",
     "Paralelismo": "1.4",
-    "Fazenda": "53201"
+    "Fazenda": "53201",
+    "Unnamed: 16": null
   },
   {
     "ID": "3621446",
@@ -4822,7 +5093,8 @@ const PARALELISMO_DATA = [
     "Frente": "101 - FRENTE MECANIZADA",
     "Responsável": "FERNANDA DE SOUZA ",
     "Paralelismo": "1.4",
-    "Fazenda": "53201"
+    "Fazenda": "53201",
+    "Unnamed: 16": null
   },
   {
     "ID": "3621868",
@@ -4840,7 +5112,8 @@ const PARALELISMO_DATA = [
     "Frente": "261 - FRENTE PRÓPRIA  (EDMILSON)",
     "Responsável": "VITOR AMORIM RAMOS ",
     "Paralelismo": "1.4",
-    "Fazenda": "40101"
+    "Fazenda": "40101",
+    "Unnamed: 16": null
   },
   {
     "ID": "3622201",
@@ -4858,7 +5131,8 @@ const PARALELISMO_DATA = [
     "Frente": "135 - FRENTE PEDRINHO",
     "Responsável": "MARCELO DE OLIVEIRA JUNIOR",
     "Paralelismo": "1.5",
-    "Fazenda": "255301"
+    "Fazenda": "255301",
+    "Unnamed: 16": null
   },
   {
     "ID": "3621926",
@@ -4876,7 +5150,8 @@ const PARALELISMO_DATA = [
     "Frente": "101 - FRENTE MECANIZADA",
     "Responsável": "NILDA CLAUDINO [2510716]",
     "Paralelismo": "1.4",
-    "Fazenda": "168003"
+    "Fazenda": "168003",
+    "Unnamed: 16": null
   },
   {
     "ID": "3622197",
@@ -4894,7 +5169,8 @@ const PARALELISMO_DATA = [
     "Frente": "135 - FRENTE PEDRINHO",
     "Responsável": "MARCELO DE OLIVEIRA JUNIOR",
     "Paralelismo": "1.51",
-    "Fazenda": "255301"
+    "Fazenda": "255301",
+    "Unnamed: 16": null
   },
   {
     "ID": "3622190",
@@ -4912,7 +5188,8 @@ const PARALELISMO_DATA = [
     "Frente": "135 - FRENTE PEDRINHO",
     "Responsável": "MARCELO DE OLIVEIRA JUNIOR",
     "Paralelismo": "1.53",
-    "Fazenda": "255301"
+    "Fazenda": "255301",
+    "Unnamed: 16": null
   },
   {
     "ID": "3622185",
@@ -4930,7 +5207,8 @@ const PARALELISMO_DATA = [
     "Frente": "135 - FRENTE PEDRINHO",
     "Responsável": "MARCELO DE OLIVEIRA JUNIOR",
     "Paralelismo": "1.52",
-    "Fazenda": "255301"
+    "Fazenda": "255301",
+    "Unnamed: 16": null
   },
   {
     "ID": "3621593",
@@ -4948,7 +5226,8 @@ const PARALELISMO_DATA = [
     "Frente": "143 - FRENTE CASSIO",
     "Responsável": "MABILA HELEN D FIGUEIREDO",
     "Paralelismo": "1.4",
-    "Fazenda": "53201"
+    "Fazenda": "53201",
+    "Unnamed: 16": null
   },
   {
     "ID": "3621587",
@@ -4966,7 +5245,8 @@ const PARALELISMO_DATA = [
     "Frente": "143 - FRENTE CASSIO",
     "Responsável": "MABILA HELEN D FIGUEIREDO",
     "Paralelismo": "1.4",
-    "Fazenda": "53201"
+    "Fazenda": "53201",
+    "Unnamed: 16": null
   },
   {
     "ID": "3620972",
@@ -4984,7 +5264,8 @@ const PARALELISMO_DATA = [
     "Frente": "101 - FRENTE MECANIZADA",
     "Responsável": "FERNANDA DE SOUZA ",
     "Paralelismo": "1.4",
-    "Fazenda": "53201"
+    "Fazenda": "53201",
+    "Unnamed: 16": null
   },
   {
     "ID": "3621921",
@@ -5002,7 +5283,8 @@ const PARALELISMO_DATA = [
     "Frente": "101 - FRENTE MECANIZADA",
     "Responsável": "NILDA CLAUDINO [2510716]",
     "Paralelismo": "1.4",
-    "Fazenda": "168003"
+    "Fazenda": "168003",
+    "Unnamed: 16": null
   },
   {
     "ID": "3621915",
@@ -5020,7 +5302,8 @@ const PARALELISMO_DATA = [
     "Frente": "101 - FRENTE MECANIZADA",
     "Responsável": "NILDA CLAUDINO [2510716]",
     "Paralelismo": "1.4",
-    "Fazenda": "168003"
+    "Fazenda": "168003",
+    "Unnamed: 16": null
   },
   {
     "ID": "3621912",
@@ -5038,7 +5321,8 @@ const PARALELISMO_DATA = [
     "Frente": "101 - FRENTE MECANIZADA",
     "Responsável": "NILDA CLAUDINO [2510716]",
     "Paralelismo": "1.4",
-    "Fazenda": "168003"
+    "Fazenda": "168003",
+    "Unnamed: 16": null
   },
   {
     "ID": "3620875",
@@ -5056,7 +5340,8 @@ const PARALELISMO_DATA = [
     "Frente": "101 - FRENTE MECANIZADA",
     "Responsável": "FERNANDA DE SOUZA ",
     "Paralelismo": "1.41",
-    "Fazenda": "53201"
+    "Fazenda": "53201",
+    "Unnamed: 16": null
   },
   {
     "ID": "3620873",
@@ -5074,7 +5359,8 @@ const PARALELISMO_DATA = [
     "Frente": "101 - FRENTE MECANIZADA",
     "Responsável": "FERNANDA DE SOUZA ",
     "Paralelismo": "1.4",
-    "Fazenda": "53201"
+    "Fazenda": "53201",
+    "Unnamed: 16": null
   },
   {
     "ID": "3622470",
@@ -5092,7 +5378,8 @@ const PARALELISMO_DATA = [
     "Frente": "139 - FRENTE MANEZÃO",
     "Responsável": "MICHELI DE SOUZA SANTOS  ",
     "Paralelismo": "1.4",
-    "Fazenda": "53201"
+    "Fazenda": "53201",
+    "Unnamed: 16": null
   },
   {
     "ID": "3621907",
@@ -5110,7 +5397,8 @@ const PARALELISMO_DATA = [
     "Frente": "101 - FRENTE MECANIZADA",
     "Responsável": "NILDA CLAUDINO [2510716]",
     "Paralelismo": "1.4",
-    "Fazenda": "168003"
+    "Fazenda": "168003",
+    "Unnamed: 16": null
   },
   {
     "ID": "3622466",
@@ -5128,7 +5416,8 @@ const PARALELISMO_DATA = [
     "Frente": "139 - FRENTE MANEZÃO",
     "Responsável": "MICHELI DE SOUZA SANTOS  ",
     "Paralelismo": "1.4",
-    "Fazenda": "53201"
+    "Fazenda": "53201",
+    "Unnamed: 16": null
   },
   {
     "ID": "3621903",
@@ -5146,7 +5435,8 @@ const PARALELISMO_DATA = [
     "Frente": "101 - FRENTE MECANIZADA",
     "Responsável": "NILDA CLAUDINO [2510716]",
     "Paralelismo": "1.4",
-    "Fazenda": "168003"
+    "Fazenda": "168003",
+    "Unnamed: 16": null
   },
   {
     "ID": "3620942",
@@ -5164,7 +5454,8 @@ const PARALELISMO_DATA = [
     "Frente": "261 - FRENTE PRÓPRIA  (EDMILSON)",
     "Responsável": "VITOR AMORIM RAMOS ",
     "Paralelismo": "1.4",
-    "Fazenda": "40101"
+    "Fazenda": "40101",
+    "Unnamed: 16": null
   },
   {
     "ID": "3622457",
@@ -5182,7 +5473,8 @@ const PARALELISMO_DATA = [
     "Frente": "139 - FRENTE MANEZÃO",
     "Responsável": "MICHELI DE SOUZA SANTOS  ",
     "Paralelismo": "1.4",
-    "Fazenda": "53201"
+    "Fazenda": "53201",
+    "Unnamed: 16": null
   },
   {
     "ID": "3620937",
@@ -5200,7 +5492,8 @@ const PARALELISMO_DATA = [
     "Frente": "261 - FRENTE PRÓPRIA  (EDMILSON)",
     "Responsável": "VITOR AMORIM RAMOS ",
     "Paralelismo": "1.4",
-    "Fazenda": "40101"
+    "Fazenda": "40101",
+    "Unnamed: 16": null
   },
   {
     "ID": "3620932",
@@ -5218,7 +5511,8 @@ const PARALELISMO_DATA = [
     "Frente": "261 - FRENTE PRÓPRIA  (EDMILSON)",
     "Responsável": "VITOR AMORIM RAMOS ",
     "Paralelismo": "1.4",
-    "Fazenda": "40101"
+    "Fazenda": "40101",
+    "Unnamed: 16": null
   },
   {
     "ID": "3620927",
@@ -5236,7 +5530,8 @@ const PARALELISMO_DATA = [
     "Frente": "261 - FRENTE PRÓPRIA  (EDMILSON)",
     "Responsável": "VITOR AMORIM RAMOS ",
     "Paralelismo": "1.4",
-    "Fazenda": "40101"
+    "Fazenda": "40101",
+    "Unnamed: 16": null
   },
   {
     "ID": "3620920",
@@ -5254,7 +5549,8 @@ const PARALELISMO_DATA = [
     "Frente": "261 - FRENTE PRÓPRIA  (EDMILSON)",
     "Responsável": "VITOR AMORIM RAMOS ",
     "Paralelismo": "1.4",
-    "Fazenda": "40101"
+    "Fazenda": "40101",
+    "Unnamed: 16": null
   },
   {
     "ID": "3621170",
@@ -5272,7 +5568,8 @@ const PARALELISMO_DATA = [
     "Frente": "142 - FRENTE BIDU",
     "Responsável": "GABRIEL HENRIQUE MARTINS PEREIRA",
     "Paralelismo": "1.5",
-    "Fazenda": "53201"
+    "Fazenda": "53201",
+    "Unnamed: 16": null
   },
   {
     "ID": "3620910",
@@ -5290,7 +5587,8 @@ const PARALELISMO_DATA = [
     "Frente": "261 - FRENTE PRÓPRIA  (EDMILSON)",
     "Responsável": "VITOR AMORIM RAMOS ",
     "Paralelismo": "1.4",
-    "Fazenda": "40101"
+    "Fazenda": "40101",
+    "Unnamed: 16": null
   },
   {
     "ID": "3622180",
@@ -5308,7 +5606,8 @@ const PARALELISMO_DATA = [
     "Frente": "135 - FRENTE PEDRINHO",
     "Responsável": "MARCELO DE OLIVEIRA JUNIOR",
     "Paralelismo": "1.5",
-    "Fazenda": "255301"
+    "Fazenda": "255301",
+    "Unnamed: 16": null
   },
   {
     "ID": "3621162",
@@ -5326,7 +5625,8 @@ const PARALELISMO_DATA = [
     "Frente": "142 - FRENTE BIDU",
     "Responsável": "GABRIEL HENRIQUE MARTINS PEREIRA",
     "Paralelismo": "1.5",
-    "Fazenda": "53201"
+    "Fazenda": "53201",
+    "Unnamed: 16": null
   },
   {
     "ID": "3620905",
@@ -5344,7 +5644,8 @@ const PARALELISMO_DATA = [
     "Frente": "261 - FRENTE PRÓPRIA  (EDMILSON)",
     "Responsável": "VITOR AMORIM RAMOS ",
     "Paralelismo": "1.4",
-    "Fazenda": "40101"
+    "Fazenda": "40101",
+    "Unnamed: 16": null
   },
   {
     "ID": "3622175",
@@ -5362,7 +5663,8 @@ const PARALELISMO_DATA = [
     "Frente": "135 - FRENTE PEDRINHO",
     "Responsável": "MARCELO DE OLIVEIRA JUNIOR",
     "Paralelismo": "1.52",
-    "Fazenda": "255301"
+    "Fazenda": "255301",
+    "Unnamed: 16": null
   },
   {
     "ID": "3620900",
@@ -5380,7 +5682,8 @@ const PARALELISMO_DATA = [
     "Frente": "261 - FRENTE PRÓPRIA  (EDMILSON)",
     "Responsável": "VITOR AMORIM RAMOS ",
     "Paralelismo": "1.4",
-    "Fazenda": "40101"
+    "Fazenda": "40101",
+    "Unnamed: 16": null
   },
   {
     "ID": "3621152",
@@ -5398,7 +5701,8 @@ const PARALELISMO_DATA = [
     "Frente": "142 - FRENTE BIDU",
     "Responsável": "GABRIEL HENRIQUE MARTINS PEREIRA",
     "Paralelismo": "1.5",
-    "Fazenda": "53201"
+    "Fazenda": "53201",
+    "Unnamed: 16": null
   },
   {
     "ID": "3622169",
@@ -5416,7 +5720,8 @@ const PARALELISMO_DATA = [
     "Frente": "135 - FRENTE PEDRINHO",
     "Responsável": "MARCELO DE OLIVEIRA JUNIOR",
     "Paralelismo": "1.5",
-    "Fazenda": "255301"
+    "Fazenda": "255301",
+    "Unnamed: 16": null
   },
   {
     "ID": "3620895",
@@ -5434,7 +5739,8 @@ const PARALELISMO_DATA = [
     "Frente": "261 - FRENTE PRÓPRIA  (EDMILSON)",
     "Responsável": "VITOR AMORIM RAMOS ",
     "Paralelismo": "1.4",
-    "Fazenda": "40101"
+    "Fazenda": "40101",
+    "Unnamed: 16": null
   },
   {
     "ID": "3621147",
@@ -5452,7 +5758,8 @@ const PARALELISMO_DATA = [
     "Frente": "142 - FRENTE BIDU",
     "Responsável": "Ruan Alexandre Lopes",
     "Paralelismo": "1.5",
-    "Fazenda": "53201"
+    "Fazenda": "53201",
+    "Unnamed: 16": null
   },
   {
     "ID": "3620889",
@@ -5470,7 +5777,8 @@ const PARALELISMO_DATA = [
     "Frente": "261 - FRENTE PRÓPRIA  (EDMILSON)",
     "Responsável": "VITOR AMORIM RAMOS ",
     "Paralelismo": "1.4",
-    "Fazenda": "40101"
+    "Fazenda": "40101",
+    "Unnamed: 16": null
   },
   {
     "ID": "3621141",
@@ -5488,7 +5796,8 @@ const PARALELISMO_DATA = [
     "Frente": "142 - FRENTE BIDU",
     "Responsável": "Ruan Alexandre Lopes",
     "Paralelismo": "1.5",
-    "Fazenda": "53201"
+    "Fazenda": "53201",
+    "Unnamed: 16": null
   },
   {
     "ID": "3622164",
@@ -5506,7 +5815,8 @@ const PARALELISMO_DATA = [
     "Frente": "135 - FRENTE PEDRINHO",
     "Responsável": "MARCELO DE OLIVEIRA JUNIOR",
     "Paralelismo": "1.49",
-    "Fazenda": "255301"
+    "Fazenda": "255301",
+    "Unnamed: 16": null
   },
   {
     "ID": "3621118",
@@ -5524,7 +5834,8 @@ const PARALELISMO_DATA = [
     "Frente": "142 - FRENTE BIDU",
     "Responsável": "Ruan Alexandre Lopes",
     "Paralelismo": "1.5",
-    "Fazenda": "53201"
+    "Fazenda": "53201",
+    "Unnamed: 16": null
   },
   {
     "ID": "3622159",
@@ -5542,7 +5853,8 @@ const PARALELISMO_DATA = [
     "Frente": "135 - FRENTE PEDRINHO",
     "Responsável": "MARCELO DE OLIVEIRA JUNIOR",
     "Paralelismo": "1.5",
-    "Fazenda": "255301"
+    "Fazenda": "255301",
+    "Unnamed: 16": null
   },
   {
     "ID": "3618403",
@@ -5560,7 +5872,8 @@ const PARALELISMO_DATA = [
     "Frente": "105 - FRENTE CASSIO (ZACARIAS)",
     "Responsável": " Antonio ",
     "Paralelismo": "1.4",
-    "Fazenda": "40201"
+    "Fazenda": "40201",
+    "Unnamed: 16": null
   },
   {
     "ID": "3618780",
@@ -5578,7 +5891,8 @@ const PARALELISMO_DATA = [
     "Frente": "139 - FRENTE MANEZÃO",
     "Responsável": "MICHELI DE SOUZA SANTOS  ",
     "Paralelismo": "1.5",
-    "Fazenda": "148101"
+    "Fazenda": "148101",
+    "Unnamed: 16": null
   },
   {
     "ID": "3618396",
@@ -5596,7 +5910,8 @@ const PARALELISMO_DATA = [
     "Frente": "105 - FRENTE CASSIO (ZACARIAS)",
     "Responsável": " Antonio ",
     "Paralelismo": "1.4",
-    "Fazenda": "40201"
+    "Fazenda": "40201",
+    "Unnamed: 16": null
   },
   {
     "ID": "3618391",
@@ -5614,7 +5929,8 @@ const PARALELISMO_DATA = [
     "Frente": "105 - FRENTE CASSIO (ZACARIAS)",
     "Responsável": " Antonio ",
     "Paralelismo": "1.4",
-    "Fazenda": "40201"
+    "Fazenda": "40201",
+    "Unnamed: 16": null
   },
   {
     "ID": "3618452",
@@ -5632,7 +5948,8 @@ const PARALELISMO_DATA = [
     "Frente": "101 - FRENTE MECANIZADA",
     "Responsável": "NILDA CLAUDINO [2510716]",
     "Paralelismo": "1.4",
-    "Fazenda": "168003"
+    "Fazenda": "168003",
+    "Unnamed: 16": null
   },
   {
     "ID": "3618386",
@@ -5650,7 +5967,8 @@ const PARALELISMO_DATA = [
     "Frente": "105 - FRENTE CASSIO (ZACARIAS)",
     "Responsável": " Antonio ",
     "Paralelismo": "1.4",
-    "Fazenda": "40201"
+    "Fazenda": "40201",
+    "Unnamed: 16": null
   },
   {
     "ID": "3618346",
@@ -5668,7 +5986,8 @@ const PARALELISMO_DATA = [
     "Frente": "261 - FRENTE PRÓPRIA  (EDMILSON)",
     "Responsável": "VITOR AMORIM RAMOS ",
     "Paralelismo": "1.4",
-    "Fazenda": "40101"
+    "Fazenda": "40101",
+    "Unnamed: 16": null
   },
   {
     "ID": "3618777",
@@ -5686,7 +6005,8 @@ const PARALELISMO_DATA = [
     "Frente": "139 - FRENTE MANEZÃO",
     "Responsável": "MICHELI DE SOUZA SANTOS  ",
     "Paralelismo": "1.52",
-    "Fazenda": "148101"
+    "Fazenda": "148101",
+    "Unnamed: 16": null
   },
   {
     "ID": "3619778",
@@ -5704,7 +6024,8 @@ const PARALELISMO_DATA = [
     "Frente": "135 - FRENTE PEDRINHO",
     "Responsável": "MARCELO DE OLIVEIRA JUNIOR",
     "Paralelismo": "1.51",
-    "Fazenda": "255301"
+    "Fazenda": "255301",
+    "Unnamed: 16": null
   },
   {
     "ID": "3618341",
@@ -5722,7 +6043,8 @@ const PARALELISMO_DATA = [
     "Frente": "261 - FRENTE PRÓPRIA  (EDMILSON)",
     "Responsável": "VITOR AMORIM RAMOS ",
     "Paralelismo": "1.4",
-    "Fazenda": "40101"
+    "Fazenda": "40101",
+    "Unnamed: 16": null
   },
   {
     "ID": "3618436",
@@ -5740,7 +6062,8 @@ const PARALELISMO_DATA = [
     "Frente": "101 - FRENTE MECANIZADA",
     "Responsável": "NILDA CLAUDINO [2510716]",
     "Paralelismo": "1.4",
-    "Fazenda": "168003"
+    "Fazenda": "168003",
+    "Unnamed: 16": null
   },
   {
     "ID": "3618772",
@@ -5758,7 +6081,8 @@ const PARALELISMO_DATA = [
     "Frente": "139 - FRENTE MANEZÃO",
     "Responsável": "MICHELI DE SOUZA SANTOS  ",
     "Paralelismo": "1.5",
-    "Fazenda": "148101"
+    "Fazenda": "148101",
+    "Unnamed: 16": null
   },
   {
     "ID": "3618335",
@@ -5776,7 +6100,8 @@ const PARALELISMO_DATA = [
     "Frente": "261 - FRENTE PRÓPRIA  (EDMILSON)",
     "Responsável": "VITOR AMORIM RAMOS ",
     "Paralelismo": "1.4",
-    "Fazenda": "40101"
+    "Fazenda": "40101",
+    "Unnamed: 16": null
   },
   {
     "ID": "3619771",
@@ -5794,7 +6119,8 @@ const PARALELISMO_DATA = [
     "Frente": "135 - FRENTE PEDRINHO",
     "Responsável": "MARCELO DE OLIVEIRA JUNIOR",
     "Paralelismo": "1.52",
-    "Fazenda": "255301"
+    "Fazenda": "255301",
+    "Unnamed: 16": null
   },
   {
     "ID": "3618764",
@@ -5812,7 +6138,8 @@ const PARALELISMO_DATA = [
     "Frente": "139 - FRENTE MANEZÃO",
     "Responsável": "MICHELI DE SOUZA SANTOS  ",
     "Paralelismo": "1.5",
-    "Fazenda": "148101"
+    "Fazenda": "148101",
+    "Unnamed: 16": null
   },
   {
     "ID": "3618791",
@@ -5830,7 +6157,8 @@ const PARALELISMO_DATA = [
     "Frente": "101 - FRENTE MECANIZADA",
     "Responsável": "NILDA CLAUDINO [2510716]",
     "Paralelismo": "1.4",
-    "Fazenda": "168003"
+    "Fazenda": "168003",
+    "Unnamed: 16": null
   },
   {
     "ID": "3618330",
@@ -5848,7 +6176,8 @@ const PARALELISMO_DATA = [
     "Frente": "261 - FRENTE PRÓPRIA  (EDMILSON)",
     "Responsável": "VITOR AMORIM RAMOS ",
     "Paralelismo": "1.4",
-    "Fazenda": "40101"
+    "Fazenda": "40101",
+    "Unnamed: 16": null
   },
   {
     "ID": "3619766",
@@ -5866,7 +6195,8 @@ const PARALELISMO_DATA = [
     "Frente": "135 - FRENTE PEDRINHO",
     "Responsável": "MARCELO DE OLIVEIRA JUNIOR",
     "Paralelismo": "1.5",
-    "Fazenda": "255301"
+    "Fazenda": "255301",
+    "Unnamed: 16": null
   },
   {
     "ID": "3617923",
@@ -5884,7 +6214,8 @@ const PARALELISMO_DATA = [
     "Frente": "101 - FRENTE MECANIZADA",
     "Responsável": "Ruan Alexandre Lopes",
     "Paralelismo": "1.4",
-    "Fazenda": "53201"
+    "Fazenda": "53201",
+    "Unnamed: 16": null
   },
   {
     "ID": "3618759",
@@ -5902,7 +6233,8 @@ const PARALELISMO_DATA = [
     "Frente": "139 - FRENTE MANEZÃO",
     "Responsável": "MICHELI DE SOUZA SANTOS  ",
     "Paralelismo": "1.5",
-    "Fazenda": "148101"
+    "Fazenda": "148101",
+    "Unnamed: 16": null
   },
   {
     "ID": "3618302",
@@ -5920,7 +6252,8 @@ const PARALELISMO_DATA = [
     "Frente": "261 - FRENTE PRÓPRIA  (EDMILSON)",
     "Responsável": "VITOR AMORIM RAMOS ",
     "Paralelismo": "1.4",
-    "Fazenda": "40101"
+    "Fazenda": "40101",
+    "Unnamed: 16": null
   },
   {
     "ID": "3618584",
@@ -5938,7 +6271,8 @@ const PARALELISMO_DATA = [
     "Frente": "142 - FRENTE BIDU",
     "Responsável": "GABRIEL HENRIQUE MARTINS PEREIRA",
     "Paralelismo": "1.5",
-    "Fazenda": "53201"
+    "Fazenda": "53201",
+    "Unnamed: 16": null
   },
   {
     "ID": "3619742",
@@ -5956,7 +6290,8 @@ const PARALELISMO_DATA = [
     "Frente": "135 - FRENTE PEDRINHO",
     "Responsável": "MARCELO DE OLIVEIRA JUNIOR",
     "Paralelismo": "1.51",
-    "Fazenda": "255301"
+    "Fazenda": "255301",
+    "Unnamed: 16": null
   },
   {
     "ID": "3618786",
@@ -5974,7 +6309,8 @@ const PARALELISMO_DATA = [
     "Frente": "101 - FRENTE MECANIZADA",
     "Responsável": "NILDA CLAUDINO [2510716]",
     "Paralelismo": "1.4",
-    "Fazenda": "168003"
+    "Fazenda": "168003",
+    "Unnamed: 16": null
   },
   {
     "ID": "3618275",
@@ -5992,7 +6328,8 @@ const PARALELISMO_DATA = [
     "Frente": "261 - FRENTE PRÓPRIA  (EDMILSON)",
     "Responsável": "VITOR AMORIM RAMOS ",
     "Paralelismo": "1.4",
-    "Fazenda": "40101"
+    "Fazenda": "40101",
+    "Unnamed: 16": null
   },
   {
     "ID": "3617917",
@@ -6010,7 +6347,8 @@ const PARALELISMO_DATA = [
     "Frente": "101 - FRENTE MECANIZADA",
     "Responsável": "Ruan Alexandre Lopes",
     "Paralelismo": "1.4",
-    "Fazenda": "53201"
+    "Fazenda": "53201",
+    "Unnamed: 16": null
   },
   {
     "ID": "3618371",
@@ -6028,7 +6366,8 @@ const PARALELISMO_DATA = [
     "Frente": "101 - FRENTE MECANIZADA",
     "Responsável": "NILDA CLAUDINO [2510716]",
     "Paralelismo": "1.4",
-    "Fazenda": "168003"
+    "Fazenda": "168003",
+    "Unnamed: 16": null
   },
   {
     "ID": "3618269",
@@ -6046,7 +6385,8 @@ const PARALELISMO_DATA = [
     "Frente": "261 - FRENTE PRÓPRIA  (EDMILSON)",
     "Responsável": "VITOR AMORIM RAMOS ",
     "Paralelismo": "1.4",
-    "Fazenda": "40101"
+    "Fazenda": "40101",
+    "Unnamed: 16": null
   },
   {
     "ID": "3618579",
@@ -6064,7 +6404,8 @@ const PARALELISMO_DATA = [
     "Frente": "142 - FRENTE BIDU",
     "Responsável": "GABRIEL HENRIQUE MARTINS PEREIRA",
     "Paralelismo": "1.5",
-    "Fazenda": "53201"
+    "Fazenda": "53201",
+    "Unnamed: 16": null
   },
   {
     "ID": "3617911",
@@ -6082,7 +6423,8 @@ const PARALELISMO_DATA = [
     "Frente": "101 - FRENTE MECANIZADA",
     "Responsável": "Ruan Alexandre Lopes",
     "Paralelismo": "1.4",
-    "Fazenda": "53201"
+    "Fazenda": "53201",
+    "Unnamed: 16": null
   },
   {
     "ID": "3618303",
@@ -6100,7 +6442,8 @@ const PARALELISMO_DATA = [
     "Frente": "101 - FRENTE MECANIZADA",
     "Responsável": "NILDA CLAUDINO [2510716]",
     "Paralelismo": "1.4",
-    "Fazenda": "168003"
+    "Fazenda": "168003",
+    "Unnamed: 16": null
   },
   {
     "ID": "3618755",
@@ -6118,7 +6461,8 @@ const PARALELISMO_DATA = [
     "Frente": "139 - FRENTE MANEZÃO",
     "Responsável": "MICHELI DE SOUZA SANTOS  ",
     "Paralelismo": "1.5",
-    "Fazenda": "148101"
+    "Fazenda": "148101",
+    "Unnamed: 16": null
   },
   {
     "ID": "3618742",
@@ -6136,7 +6480,8 @@ const PARALELISMO_DATA = [
     "Frente": "139 - FRENTE MANEZÃO",
     "Responsável": "MICHELI DE SOUZA SANTOS  ",
     "Paralelismo": "1.5",
-    "Fazenda": "148101"
+    "Fazenda": "148101",
+    "Unnamed: 16": null
   },
   {
     "ID": "3618739",
@@ -6154,7 +6499,8 @@ const PARALELISMO_DATA = [
     "Frente": "139 - FRENTE MANEZÃO",
     "Responsável": "MICHELI DE SOUZA SANTOS  ",
     "Paralelismo": "1.5",
-    "Fazenda": "148101"
+    "Fazenda": "148101",
+    "Unnamed: 16": null
   },
   {
     "ID": "3618731",
@@ -6172,7 +6518,8 @@ const PARALELISMO_DATA = [
     "Frente": "139 - FRENTE MANEZÃO",
     "Responsável": "MICHELI DE SOUZA SANTOS  ",
     "Paralelismo": "1.5",
-    "Fazenda": "148101"
+    "Fazenda": "148101",
+    "Unnamed: 16": null
   },
   {
     "ID": "3618728",
@@ -6190,7 +6537,8 @@ const PARALELISMO_DATA = [
     "Frente": "139 - FRENTE MANEZÃO",
     "Responsável": "MICHELI DE SOUZA SANTOS  ",
     "Paralelismo": "1.5",
-    "Fazenda": "148101"
+    "Fazenda": "148101",
+    "Unnamed: 16": null
   },
   {
     "ID": "3618720",
@@ -6208,7 +6556,8 @@ const PARALELISMO_DATA = [
     "Frente": "139 - FRENTE MANEZÃO",
     "Responsável": "MICHELI DE SOUZA SANTOS  ",
     "Paralelismo": "1.5",
-    "Fazenda": "148101"
+    "Fazenda": "148101",
+    "Unnamed: 16": null
   },
   {
     "ID": "3617785",
@@ -6226,7 +6575,8 @@ const PARALELISMO_DATA = [
     "Frente": "261 - FRENTE PRÓPRIA  (EDMILSON)",
     "Responsável": "VITOR AMORIM RAMOS ",
     "Paralelismo": "1.4",
-    "Fazenda": "40101"
+    "Fazenda": "40101",
+    "Unnamed: 16": null
   },
   {
     "ID": "3618572",
@@ -6244,7 +6594,8 @@ const PARALELISMO_DATA = [
     "Frente": "142 - FRENTE BIDU",
     "Responsável": "GABRIEL HENRIQUE MARTINS PEREIRA",
     "Paralelismo": "1.5",
-    "Fazenda": "53201"
+    "Fazenda": "53201",
+    "Unnamed: 16": null
   },
   {
     "ID": "3617780",
@@ -6262,7 +6613,8 @@ const PARALELISMO_DATA = [
     "Frente": "261 - FRENTE PRÓPRIA  (EDMILSON)",
     "Responsável": "VITOR AMORIM RAMOS ",
     "Paralelismo": "1.4",
-    "Fazenda": "40101"
+    "Fazenda": "40101",
+    "Unnamed: 16": null
   },
   {
     "ID": "3618567",
@@ -6280,7 +6632,8 @@ const PARALELISMO_DATA = [
     "Frente": "142 - FRENTE BIDU",
     "Responsável": "GABRIEL HENRIQUE MARTINS PEREIRA",
     "Paralelismo": "1.5",
-    "Fazenda": "53201"
+    "Fazenda": "53201",
+    "Unnamed: 16": null
   },
   {
     "ID": "3617727",
@@ -6298,7 +6651,8 @@ const PARALELISMO_DATA = [
     "Frente": "101 - FRENTE MECANIZADA",
     "Responsável": "Ruan Alexandre Lopes",
     "Paralelismo": "1.4",
-    "Fazenda": "53201"
+    "Fazenda": "53201",
+    "Unnamed: 16": null
   },
   {
     "ID": "3618562",
@@ -6316,7 +6670,8 @@ const PARALELISMO_DATA = [
     "Frente": "142 - FRENTE BIDU",
     "Responsável": "GABRIEL HENRIQUE MARTINS PEREIRA",
     "Paralelismo": "1.5",
-    "Fazenda": "53201"
+    "Fazenda": "53201",
+    "Unnamed: 16": null
   },
   {
     "ID": "3617881",
@@ -6334,7 +6689,8 @@ const PARALELISMO_DATA = [
     "Frente": "143 - FRENTE CASSIO",
     "Responsável": "MABILA HELEN D FIGUEIREDO",
     "Paralelismo": "1.4",
-    "Fazenda": "53201"
+    "Fazenda": "53201",
+    "Unnamed: 16": null
   },
   {
     "ID": "3617775",
@@ -6352,7 +6708,8 @@ const PARALELISMO_DATA = [
     "Frente": "261 - FRENTE PRÓPRIA  (EDMILSON)",
     "Responsável": "VITOR AMORIM RAMOS ",
     "Paralelismo": "1.4",
-    "Fazenda": "40101"
+    "Fazenda": "40101",
+    "Unnamed: 16": null
   },
   {
     "ID": "3618557",
@@ -6370,7 +6727,8 @@ const PARALELISMO_DATA = [
     "Frente": "142 - FRENTE BIDU",
     "Responsável": "GABRIEL HENRIQUE MARTINS PEREIRA",
     "Paralelismo": "1.5",
-    "Fazenda": "53201"
+    "Fazenda": "53201",
+    "Unnamed: 16": null
   },
   {
     "ID": "3617770",
@@ -6388,7 +6746,8 @@ const PARALELISMO_DATA = [
     "Frente": "261 - FRENTE PRÓPRIA  (EDMILSON)",
     "Responsável": "VITOR AMORIM RAMOS ",
     "Paralelismo": "1.4",
-    "Fazenda": "40101"
+    "Fazenda": "40101",
+    "Unnamed: 16": null
   },
   {
     "ID": "3618283",
@@ -6406,7 +6765,8 @@ const PARALELISMO_DATA = [
     "Frente": "101 - FRENTE MECANIZADA",
     "Responsável": "NILDA CLAUDINO [2510716]",
     "Paralelismo": "1.4",
-    "Fazenda": "168003"
+    "Fazenda": "168003",
+    "Unnamed: 16": null
   },
   {
     "ID": "3618552",
@@ -6424,7 +6784,8 @@ const PARALELISMO_DATA = [
     "Frente": "142 - FRENTE BIDU",
     "Responsável": "GABRIEL HENRIQUE MARTINS PEREIRA",
     "Paralelismo": "1.5",
-    "Fazenda": "53201"
+    "Fazenda": "53201",
+    "Unnamed: 16": null
   },
   {
     "ID": "3617718",
@@ -6442,7 +6803,8 @@ const PARALELISMO_DATA = [
     "Frente": "101 - FRENTE MECANIZADA",
     "Responsável": "Ruan Alexandre Lopes",
     "Paralelismo": "1.4",
-    "Fazenda": "53201"
+    "Fazenda": "53201",
+    "Unnamed: 16": null
   },
   {
     "ID": "3618265",
@@ -6460,7 +6822,8 @@ const PARALELISMO_DATA = [
     "Frente": "101 - FRENTE MECANIZADA",
     "Responsável": "NILDA CLAUDINO [2510716]",
     "Paralelismo": "1.4",
-    "Fazenda": "168003"
+    "Fazenda": "168003",
+    "Unnamed: 16": null
   },
   {
     "ID": "3618258",
@@ -6478,7 +6841,8 @@ const PARALELISMO_DATA = [
     "Frente": "101 - FRENTE MECANIZADA",
     "Responsável": "NILDA CLAUDINO [2510716]",
     "Paralelismo": "1.4",
-    "Fazenda": "168003"
+    "Fazenda": "168003",
+    "Unnamed: 16": null
   },
   {
     "ID": "3617891",
@@ -6496,7 +6860,8 @@ const PARALELISMO_DATA = [
     "Frente": "143 - FRENTE CASSIO",
     "Responsável": "MABILA HELEN D FIGUEIREDO",
     "Paralelismo": "1.4",
-    "Fazenda": "53201"
+    "Fazenda": "53201",
+    "Unnamed: 16": null
   },
   {
     "ID": "3618254",
@@ -6514,7 +6879,8 @@ const PARALELISMO_DATA = [
     "Frente": "101 - FRENTE MECANIZADA",
     "Responsável": "NILDA CLAUDINO [2510716]",
     "Paralelismo": "1.4",
-    "Fazenda": "168003"
+    "Fazenda": "168003",
+    "Unnamed: 16": null
   },
   {
     "ID": "3617710",
@@ -6532,7 +6898,8 @@ const PARALELISMO_DATA = [
     "Frente": "101 - FRENTE MECANIZADA",
     "Responsável": "Ruan Alexandre Lopes",
     "Paralelismo": "1.4",
-    "Fazenda": "53201"
+    "Fazenda": "53201",
+    "Unnamed: 16": null
   },
   {
     "ID": "3617867",
@@ -6550,7 +6917,8 @@ const PARALELISMO_DATA = [
     "Frente": "143 - FRENTE CASSIO",
     "Responsável": "MABILA HELEN D FIGUEIREDO",
     "Paralelismo": "1.4",
-    "Fazenda": "53201"
+    "Fazenda": "53201",
+    "Unnamed: 16": null
   },
   {
     "ID": "3618245",
@@ -6568,7 +6936,8 @@ const PARALELISMO_DATA = [
     "Frente": "101 - FRENTE MECANIZADA",
     "Responsável": "NILDA CLAUDINO [2510716]",
     "Paralelismo": "1.4",
-    "Fazenda": "168003"
+    "Fazenda": "168003",
+    "Unnamed: 16": null
   },
   {
     "ID": "3617861",
@@ -6586,7 +6955,8 @@ const PARALELISMO_DATA = [
     "Frente": "143 - FRENTE CASSIO",
     "Responsável": "MABILA HELEN D FIGUEIREDO",
     "Paralelismo": "1.4",
-    "Fazenda": "53201"
+    "Fazenda": "53201",
+    "Unnamed: 16": null
   },
   {
     "ID": "3619734",
@@ -6604,7 +6974,8 @@ const PARALELISMO_DATA = [
     "Frente": "135 - FRENTE PEDRINHO",
     "Responsável": "MARCELO DE OLIVEIRA JUNIOR",
     "Paralelismo": "1.53",
-    "Fazenda": "255301"
+    "Fazenda": "255301",
+    "Unnamed: 16": null
   },
   {
     "ID": "3617565",
@@ -6622,7 +6993,8 @@ const PARALELISMO_DATA = [
     "Frente": "101 - FRENTE MECANIZADA",
     "Responsável": "FERNANDA DE SOUZA ",
     "Paralelismo": "1.42",
-    "Fazenda": "53201"
+    "Fazenda": "53201",
+    "Unnamed: 16": null
   },
   {
     "ID": "3617855",
@@ -6640,7 +7012,8 @@ const PARALELISMO_DATA = [
     "Frente": "143 - FRENTE CASSIO",
     "Responsável": "MABILA HELEN D FIGUEIREDO",
     "Paralelismo": "1.4",
-    "Fazenda": "53201"
+    "Fazenda": "53201",
+    "Unnamed: 16": null
   },
   {
     "ID": "3617558",
@@ -6658,7 +7031,8 @@ const PARALELISMO_DATA = [
     "Frente": "101 - FRENTE MECANIZADA",
     "Responsável": "FERNANDA DE SOUZA ",
     "Paralelismo": "1.4",
-    "Fazenda": "53201"
+    "Fazenda": "53201",
+    "Unnamed: 16": null
   },
   {
     "ID": "3619730",
@@ -6676,7 +7050,8 @@ const PARALELISMO_DATA = [
     "Frente": "135 - FRENTE PEDRINHO",
     "Responsável": "MARCELO DE OLIVEIRA JUNIOR",
     "Paralelismo": "1.49",
-    "Fazenda": "255301"
+    "Fazenda": "255301",
+    "Unnamed: 16": null
   },
   {
     "ID": "3619726",
@@ -6694,7 +7069,8 @@ const PARALELISMO_DATA = [
     "Frente": "135 - FRENTE PEDRINHO",
     "Responsável": "MARCELO DE OLIVEIRA JUNIOR",
     "Paralelismo": "1.5",
-    "Fazenda": "255301"
+    "Fazenda": "255301",
+    "Unnamed: 16": null
   },
   {
     "ID": "3614615",
@@ -6712,7 +7088,8 @@ const PARALELISMO_DATA = [
     "Frente": "101 - FRENTE MECANIZADA",
     "Responsável": "FERNANDA DE SOUZA ",
     "Paralelismo": "1.4",
-    "Fazenda": "53201"
+    "Fazenda": "53201",
+    "Unnamed: 16": null
   },
   {
     "ID": "3614608",
@@ -6730,7 +7107,8 @@ const PARALELISMO_DATA = [
     "Frente": "101 - FRENTE MECANIZADA",
     "Responsável": "FERNANDA DE SOUZA ",
     "Paralelismo": "1.4",
-    "Fazenda": "53201"
+    "Fazenda": "53201",
+    "Unnamed: 16": null
   },
   {
     "ID": "3614599",
@@ -6748,7 +7126,8 @@ const PARALELISMO_DATA = [
     "Frente": "261 - FRENTE PRÓPRIA  (EDMILSON)",
     "Responsável": "VITOR AMORIM RAMOS ",
     "Paralelismo": "1.4",
-    "Fazenda": "40101"
+    "Fazenda": "40101",
+    "Unnamed: 16": null
   },
   {
     "ID": "3614594",
@@ -6766,7 +7145,8 @@ const PARALELISMO_DATA = [
     "Frente": "261 - FRENTE PRÓPRIA  (EDMILSON)",
     "Responsável": "VITOR AMORIM RAMOS ",
     "Paralelismo": "1.4",
-    "Fazenda": "40101"
+    "Fazenda": "40101",
+    "Unnamed: 16": null
   },
   {
     "ID": "3614589",
@@ -6784,7 +7164,8 @@ const PARALELISMO_DATA = [
     "Frente": "261 - FRENTE PRÓPRIA  (EDMILSON)",
     "Responsável": "VITOR AMORIM RAMOS ",
     "Paralelismo": "1.4",
-    "Fazenda": "40101"
+    "Fazenda": "40101",
+    "Unnamed: 16": null
   },
   {
     "ID": "3614681",
@@ -6802,7 +7183,8 @@ const PARALELISMO_DATA = [
     "Frente": "101 - FRENTE MECANIZADA",
     "Responsável": "NILDA CLAUDINO [2510716]",
     "Paralelismo": "1.4",
-    "Fazenda": "168003"
+    "Fazenda": "168003",
+    "Unnamed: 16": null
   },
   {
     "ID": "3614374",
@@ -6820,7 +7202,8 @@ const PARALELISMO_DATA = [
     "Frente": "101 - FRENTE MECANIZADA",
     "Responsável": "FERNANDA DE SOUZA ",
     "Paralelismo": "1.4",
-    "Fazenda": "53201"
+    "Fazenda": "53201",
+    "Unnamed: 16": null
   },
   {
     "ID": "3614584",
@@ -6838,7 +7221,8 @@ const PARALELISMO_DATA = [
     "Frente": "261 - FRENTE PRÓPRIA  (EDMILSON)",
     "Responsável": "VITOR AMORIM RAMOS ",
     "Paralelismo": "1.4",
-    "Fazenda": "40101"
+    "Fazenda": "40101",
+    "Unnamed: 16": null
   },
   {
     "ID": "3614676",
@@ -6856,7 +7240,8 @@ const PARALELISMO_DATA = [
     "Frente": "101 - FRENTE MECANIZADA",
     "Responsável": "NILDA CLAUDINO [2510716]",
     "Paralelismo": "1.4",
-    "Fazenda": "168003"
+    "Fazenda": "168003",
+    "Unnamed: 16": null
   },
   {
     "ID": "3614367",
@@ -6874,7 +7259,8 @@ const PARALELISMO_DATA = [
     "Frente": "101 - FRENTE MECANIZADA",
     "Responsável": "FERNANDA DE SOUZA ",
     "Paralelismo": "1.4",
-    "Fazenda": "53201"
+    "Fazenda": "53201",
+    "Unnamed: 16": null
   },
   {
     "ID": "3614345",
@@ -6892,7 +7278,8 @@ const PARALELISMO_DATA = [
     "Frente": "142 - FRENTE BIDU",
     "Responsável": "GLEISON FELIPE BORGES DE MATOS",
     "Paralelismo": "1.45",
-    "Fazenda": "102704"
+    "Fazenda": "102704",
+    "Unnamed: 16": null
   },
   {
     "ID": "3614291",
@@ -6910,7 +7297,8 @@ const PARALELISMO_DATA = [
     "Frente": "142 - FRENTE BIDU",
     "Responsável": "GLEISON FELIPE BORGES DE MATOS",
     "Paralelismo": "1.4",
-    "Fazenda": "102704"
+    "Fazenda": "102704",
+    "Unnamed: 16": null
   },
   {
     "ID": "3614228",
@@ -6928,7 +7316,8 @@ const PARALELISMO_DATA = [
     "Frente": "101 - FRENTE MECANIZADA",
     "Responsável": "FERNANDA DE SOUZA ",
     "Paralelismo": "1.4",
-    "Fazenda": "53201"
+    "Fazenda": "53201",
+    "Unnamed: 16": null
   },
   {
     "ID": "3614223",
@@ -6946,7 +7335,8 @@ const PARALELISMO_DATA = [
     "Frente": "101 - FRENTE MECANIZADA",
     "Responsável": "FERNANDA DE SOUZA ",
     "Paralelismo": "1.41",
-    "Fazenda": "53201"
+    "Fazenda": "53201",
+    "Unnamed: 16": null
   },
   {
     "ID": "3613970",
@@ -6964,7 +7354,8 @@ const PARALELISMO_DATA = [
     "Frente": "261 - FRENTE PRÓPRIA  (EDMILSON)",
     "Responsável": "VITOR AMORIM RAMOS ",
     "Paralelismo": "1.4",
-    "Fazenda": "40101"
+    "Fazenda": "40101",
+    "Unnamed: 16": null
   },
   {
     "ID": "3614669",
@@ -6982,7 +7373,8 @@ const PARALELISMO_DATA = [
     "Frente": "101 - FRENTE MECANIZADA",
     "Responsável": "NILDA CLAUDINO [2510716]",
     "Paralelismo": "1.4",
-    "Fazenda": "168003"
+    "Fazenda": "168003",
+    "Unnamed: 16": null
   },
   {
     "ID": "3613965",
@@ -7000,7 +7392,8 @@ const PARALELISMO_DATA = [
     "Frente": "261 - FRENTE PRÓPRIA  (EDMILSON)",
     "Responsável": "VITOR AMORIM RAMOS ",
     "Paralelismo": "1.4",
-    "Fazenda": "40101"
+    "Fazenda": "40101",
+    "Unnamed: 16": null
   },
   {
     "ID": "3614226",
@@ -7018,7 +7411,8 @@ const PARALELISMO_DATA = [
     "Frente": "101 - FRENTE MECANIZADA",
     "Responsável": "FERNANDA DE SOUZA ",
     "Paralelismo": "1.4",
-    "Fazenda": "53201"
+    "Fazenda": "53201",
+    "Unnamed: 16": null
   },
   {
     "ID": "3613961",
@@ -7036,7 +7430,8 @@ const PARALELISMO_DATA = [
     "Frente": "261 - FRENTE PRÓPRIA  (EDMILSON)",
     "Responsável": "VITOR AMORIM RAMOS ",
     "Paralelismo": "1.4",
-    "Fazenda": "40101"
+    "Fazenda": "40101",
+    "Unnamed: 16": null
   },
   {
     "ID": "3614662",
@@ -7054,7 +7449,8 @@ const PARALELISMO_DATA = [
     "Frente": "101 - FRENTE MECANIZADA",
     "Responsável": "NILDA CLAUDINO [2510716]",
     "Paralelismo": "1.4",
-    "Fazenda": "168003"
+    "Fazenda": "168003",
+    "Unnamed: 16": null
   },
   {
     "ID": "3613954",
@@ -7072,7 +7468,8 @@ const PARALELISMO_DATA = [
     "Frente": "261 - FRENTE PRÓPRIA  (EDMILSON)",
     "Responsável": "VITOR AMORIM RAMOS ",
     "Paralelismo": "1.4",
-    "Fazenda": "40101"
+    "Fazenda": "40101",
+    "Unnamed: 16": null
   },
   {
     "ID": "3613950",
@@ -7090,7 +7487,8 @@ const PARALELISMO_DATA = [
     "Frente": "261 - FRENTE PRÓPRIA  (EDMILSON)",
     "Responsável": "VITOR AMORIM RAMOS ",
     "Paralelismo": "1.4",
-    "Fazenda": "40101"
+    "Fazenda": "40101",
+    "Unnamed: 16": null
   },
   {
     "ID": "3614656",
@@ -7108,7 +7506,8 @@ const PARALELISMO_DATA = [
     "Frente": "101 - FRENTE MECANIZADA",
     "Responsável": "NILDA CLAUDINO [2510716]",
     "Paralelismo": "1.4",
-    "Fazenda": "168003"
+    "Fazenda": "168003",
+    "Unnamed: 16": null
   },
   {
     "ID": "3614652",
@@ -7126,7 +7525,8 @@ const PARALELISMO_DATA = [
     "Frente": "101 - FRENTE MECANIZADA",
     "Responsável": "NILDA CLAUDINO [2510716]",
     "Paralelismo": "1.4",
-    "Fazenda": "168003"
+    "Fazenda": "168003",
+    "Unnamed: 16": null
   },
   {
     "ID": "3614647",
@@ -7144,7 +7544,8 @@ const PARALELISMO_DATA = [
     "Frente": "101 - FRENTE MECANIZADA",
     "Responsável": "NILDA CLAUDINO [2510716]",
     "Paralelismo": "1.4",
-    "Fazenda": "168003"
+    "Fazenda": "168003",
+    "Unnamed: 16": null
   },
   {
     "ID": "3613809",
@@ -7162,7 +7563,8 @@ const PARALELISMO_DATA = [
     "Frente": "139 - FRENTE MANEZÃO",
     "Responsável": "MICHELI DE SOUZA SANTOS  ",
     "Paralelismo": "1.5",
-    "Fazenda": "226601"
+    "Fazenda": "226601",
+    "Unnamed: 16": null
   },
   {
     "ID": "3614271",
@@ -7180,7 +7582,8 @@ const PARALELISMO_DATA = [
     "Frente": "143 - FRENTE CASSIO",
     "Responsável": "MABILA HELEN D FIGUEIREDO",
     "Paralelismo": "1.4",
-    "Fazenda": "40201"
+    "Fazenda": "40201",
+    "Unnamed: 16": null
   },
   {
     "ID": "3613804",
@@ -7198,7 +7601,8 @@ const PARALELISMO_DATA = [
     "Frente": "139 - FRENTE MANEZÃO",
     "Responsável": "MICHELI DE SOUZA SANTOS  ",
     "Paralelismo": "1.5",
-    "Fazenda": "226601"
+    "Fazenda": "226601",
+    "Unnamed: 16": null
   },
   {
     "ID": "3613944",
@@ -7216,7 +7620,8 @@ const PARALELISMO_DATA = [
     "Frente": "261 - FRENTE PRÓPRIA  (EDMILSON)",
     "Responsável": "VITOR AMORIM RAMOS ",
     "Paralelismo": "1.4",
-    "Fazenda": "40101"
+    "Fazenda": "40101",
+    "Unnamed: 16": null
   },
   {
     "ID": "3613799",
@@ -7234,7 +7639,8 @@ const PARALELISMO_DATA = [
     "Frente": "139 - FRENTE MANEZÃO",
     "Responsável": "MICHELI DE SOUZA SANTOS  ",
     "Paralelismo": "1.5",
-    "Fazenda": "226601"
+    "Fazenda": "226601",
+    "Unnamed: 16": null
   },
   {
     "ID": "3613939",
@@ -7252,7 +7658,8 @@ const PARALELISMO_DATA = [
     "Frente": "261 - FRENTE PRÓPRIA  (EDMILSON)",
     "Responsável": "VITOR AMORIM RAMOS ",
     "Paralelismo": "1.4",
-    "Fazenda": "40101"
+    "Fazenda": "40101",
+    "Unnamed: 16": null
   },
   {
     "ID": "3614268",
@@ -7270,7 +7677,8 @@ const PARALELISMO_DATA = [
     "Frente": "143 - FRENTE CASSIO",
     "Responsável": "MABILA HELEN D FIGUEIREDO",
     "Paralelismo": "1.4",
-    "Fazenda": "40201"
+    "Fazenda": "40201",
+    "Unnamed: 16": null
   },
   {
     "ID": "3614641",
@@ -7288,7 +7696,8 @@ const PARALELISMO_DATA = [
     "Frente": "101 - FRENTE MECANIZADA",
     "Responsável": "NILDA CLAUDINO [2510716]",
     "Paralelismo": "1.4",
-    "Fazenda": "168003"
+    "Fazenda": "168003",
+    "Unnamed: 16": null
   },
   {
     "ID": "3614267",
@@ -7306,7 +7715,8 @@ const PARALELISMO_DATA = [
     "Frente": "143 - FRENTE CASSIO",
     "Responsável": "MABILA HELEN D FIGUEIREDO",
     "Paralelismo": "1.4",
-    "Fazenda": "40201"
+    "Fazenda": "40201",
+    "Unnamed: 16": null
   },
   {
     "ID": "3614265",
@@ -7324,7 +7734,8 @@ const PARALELISMO_DATA = [
     "Frente": "143 - FRENTE CASSIO",
     "Responsável": "MABILA HELEN D FIGUEIREDO",
     "Paralelismo": "1.4",
-    "Fazenda": "40201"
+    "Fazenda": "40201",
+    "Unnamed: 16": null
   },
   {
     "ID": "3613934",
@@ -7342,7 +7753,8 @@ const PARALELISMO_DATA = [
     "Frente": "261 - FRENTE PRÓPRIA  (EDMILSON)",
     "Responsável": "VITOR AMORIM RAMOS ",
     "Paralelismo": "1.4",
-    "Fazenda": "40101"
+    "Fazenda": "40101",
+    "Unnamed: 16": null
   },
   {
     "ID": "3614636",
@@ -7360,7 +7772,8 @@ const PARALELISMO_DATA = [
     "Frente": "101 - FRENTE MECANIZADA",
     "Responsável": "NILDA CLAUDINO [2510716]",
     "Paralelismo": "1.4",
-    "Fazenda": "168003"
+    "Fazenda": "168003",
+    "Unnamed: 16": null
   },
   {
     "ID": "3613929",
@@ -7378,7 +7791,8 @@ const PARALELISMO_DATA = [
     "Frente": "261 - FRENTE PRÓPRIA  (EDMILSON)",
     "Responsável": "VITOR AMORIM RAMOS ",
     "Paralelismo": "1.4",
-    "Fazenda": "40101"
+    "Fazenda": "40101",
+    "Unnamed: 16": null
   },
   {
     "ID": "3614631",
@@ -7396,7 +7810,8 @@ const PARALELISMO_DATA = [
     "Frente": "101 - FRENTE MECANIZADA",
     "Responsável": "NILDA CLAUDINO [2510716]",
     "Paralelismo": "1.4",
-    "Fazenda": "168003"
+    "Fazenda": "168003",
+    "Unnamed: 16": null
   },
   {
     "ID": "3613787",
@@ -7414,7 +7829,8 @@ const PARALELISMO_DATA = [
     "Frente": "139 - FRENTE MANEZÃO",
     "Responsável": "MICHELI DE SOUZA SANTOS  ",
     "Paralelismo": "1.5",
-    "Fazenda": "226601"
+    "Fazenda": "226601",
+    "Unnamed: 16": null
   },
   {
     "ID": "3613917",
@@ -7432,7 +7848,8 @@ const PARALELISMO_DATA = [
     "Frente": "261 - FRENTE PRÓPRIA  (EDMILSON)",
     "Responsável": "VITOR AMORIM RAMOS ",
     "Paralelismo": "1.4",
-    "Fazenda": "40101"
+    "Fazenda": "40101",
+    "Unnamed: 16": null
   },
   {
     "ID": "3611592",
@@ -7450,7 +7867,8 @@ const PARALELISMO_DATA = [
     "Frente": "101 - FRENTE MECANIZADA",
     "Responsável": "NILDA CLAUDINO [2510716]",
     "Paralelismo": "1.4",
-    "Fazenda": "168003"
+    "Fazenda": "168003",
+    "Unnamed: 16": null
   },
   {
     "ID": "3613601",
@@ -7468,7 +7886,8 @@ const PARALELISMO_DATA = [
     "Frente": "135 - FRENTE PEDRINHO",
     "Responsável": "MARCELO DE OLIVEIRA JUNIOR",
     "Paralelismo": "1.53",
-    "Fazenda": "255302"
+    "Fazenda": "255302",
+    "Unnamed: 16": null
   },
   {
     "ID": "3611630",
@@ -7486,7 +7905,8 @@ const PARALELISMO_DATA = [
     "Frente": "142 - FRENTE BIDU",
     "Responsável": "FERNANDA DE SOUZA ",
     "Paralelismo": "1.5",
-    "Fazenda": "102704"
+    "Fazenda": "102704",
+    "Unnamed: 16": null
   },
   {
     "ID": "3612785",
@@ -7504,7 +7924,8 @@ const PARALELISMO_DATA = [
     "Frente": "261 - FRENTE PRÓPRIA  (EDMILSON)",
     "Responsável": "VITOR AMORIM RAMOS ",
     "Paralelismo": "1.4",
-    "Fazenda": "40101"
+    "Fazenda": "40101",
+    "Unnamed: 16": null
   },
   {
     "ID": "3611582",
@@ -7522,7 +7943,8 @@ const PARALELISMO_DATA = [
     "Frente": "101 - FRENTE MECANIZADA",
     "Responsável": "NILDA CLAUDINO [2510716]",
     "Paralelismo": "1.4",
-    "Fazenda": "168003"
+    "Fazenda": "168003",
+    "Unnamed: 16": null
   },
   {
     "ID": "3611629",
@@ -7540,7 +7962,8 @@ const PARALELISMO_DATA = [
     "Frente": "142 - FRENTE BIDU",
     "Responsável": "FERNANDA DE SOUZA ",
     "Paralelismo": "1.5",
-    "Fazenda": "102704"
+    "Fazenda": "102704",
+    "Unnamed: 16": null
   },
   {
     "ID": "3611626",
@@ -7558,7 +7981,8 @@ const PARALELISMO_DATA = [
     "Frente": "142 - FRENTE BIDU",
     "Responsável": "FERNANDA DE SOUZA ",
     "Paralelismo": "1.5",
-    "Fazenda": "102704"
+    "Fazenda": "102704",
+    "Unnamed: 16": null
   },
   {
     "ID": "3612781",
@@ -7576,7 +8000,8 @@ const PARALELISMO_DATA = [
     "Frente": "261 - FRENTE PRÓPRIA  (EDMILSON)",
     "Responsável": "VITOR AMORIM RAMOS ",
     "Paralelismo": "1.4",
-    "Fazenda": "40101"
+    "Fazenda": "40101",
+    "Unnamed: 16": null
   },
   {
     "ID": "3613595",
@@ -7594,7 +8019,8 @@ const PARALELISMO_DATA = [
     "Frente": "135 - FRENTE PEDRINHO",
     "Responsável": "MARCELO DE OLIVEIRA JUNIOR",
     "Paralelismo": "1.53",
-    "Fazenda": "255302"
+    "Fazenda": "255302",
+    "Unnamed: 16": null
   },
   {
     "ID": "3611577",
@@ -7612,7 +8038,8 @@ const PARALELISMO_DATA = [
     "Frente": "101 - FRENTE MECANIZADA",
     "Responsável": "NILDA CLAUDINO [2510716]",
     "Paralelismo": "1.4",
-    "Fazenda": "168003"
+    "Fazenda": "168003",
+    "Unnamed: 16": null
   },
   {
     "ID": "3612776",
@@ -7630,7 +8057,8 @@ const PARALELISMO_DATA = [
     "Frente": "261 - FRENTE PRÓPRIA  (EDMILSON)",
     "Responsável": "VITOR AMORIM RAMOS ",
     "Paralelismo": "1.4",
-    "Fazenda": "40101"
+    "Fazenda": "40101",
+    "Unnamed: 16": null
   },
   {
     "ID": "3613588",
@@ -7648,7 +8076,8 @@ const PARALELISMO_DATA = [
     "Frente": "135 - FRENTE PEDRINHO",
     "Responsável": "MARCELO DE OLIVEIRA JUNIOR",
     "Paralelismo": "1.48",
-    "Fazenda": "255302"
+    "Fazenda": "255302",
+    "Unnamed: 16": null
   },
   {
     "ID": "3611609",
@@ -7666,7 +8095,8 @@ const PARALELISMO_DATA = [
     "Frente": "143 - FRENTE CASSIO",
     "Responsável": "MABILA HELEN D FIGUEIREDO",
     "Paralelismo": "1.4",
-    "Fazenda": "40201"
+    "Fazenda": "40201",
+    "Unnamed: 16": null
   },
   {
     "ID": "3613583",
@@ -7684,7 +8114,8 @@ const PARALELISMO_DATA = [
     "Frente": "135 - FRENTE PEDRINHO",
     "Responsável": "MARCELO DE OLIVEIRA JUNIOR",
     "Paralelismo": "1.5",
-    "Fazenda": "255302"
+    "Fazenda": "255302",
+    "Unnamed: 16": null
   },
   {
     "ID": "3611605",
@@ -7702,7 +8133,8 @@ const PARALELISMO_DATA = [
     "Frente": "143 - FRENTE CASSIO",
     "Responsável": "MABILA HELEN D FIGUEIREDO",
     "Paralelismo": "1.4",
-    "Fazenda": "40201"
+    "Fazenda": "40201",
+    "Unnamed: 16": null
   },
   {
     "ID": "3611571",
@@ -7720,7 +8152,8 @@ const PARALELISMO_DATA = [
     "Frente": "101 - FRENTE MECANIZADA",
     "Responsável": "NILDA CLAUDINO [2510716]",
     "Paralelismo": "1.4",
-    "Fazenda": "168003"
+    "Fazenda": "168003",
+    "Unnamed: 16": null
   },
   {
     "ID": "3611607",
@@ -7738,7 +8171,8 @@ const PARALELISMO_DATA = [
     "Frente": "143 - FRENTE CASSIO",
     "Responsável": "MABILA HELEN D FIGUEIREDO",
     "Paralelismo": "1.4",
-    "Fazenda": "40201"
+    "Fazenda": "40201",
+    "Unnamed: 16": null
   },
   {
     "ID": "3612769",
@@ -7756,7 +8190,8 @@ const PARALELISMO_DATA = [
     "Frente": "261 - FRENTE PRÓPRIA  (EDMILSON)",
     "Responsável": "VITOR AMORIM RAMOS ",
     "Paralelismo": "1.4",
-    "Fazenda": "40101"
+    "Fazenda": "40101",
+    "Unnamed: 16": null
   },
   {
     "ID": "3613576",
@@ -7774,7 +8209,8 @@ const PARALELISMO_DATA = [
     "Frente": "135 - FRENTE PEDRINHO",
     "Responsável": "MARCELO DE OLIVEIRA JUNIOR",
     "Paralelismo": "1.52",
-    "Fazenda": "255302"
+    "Fazenda": "255302",
+    "Unnamed: 16": null
   },
   {
     "ID": "3611566",
@@ -7792,7 +8228,8 @@ const PARALELISMO_DATA = [
     "Frente": "101 - FRENTE MECANIZADA",
     "Responsável": "NILDA CLAUDINO [2510716]",
     "Paralelismo": "1.4",
-    "Fazenda": "168003"
+    "Fazenda": "168003",
+    "Unnamed: 16": null
   },
   {
     "ID": "3612765",
@@ -7810,7 +8247,8 @@ const PARALELISMO_DATA = [
     "Frente": "261 - FRENTE PRÓPRIA  (EDMILSON)",
     "Responsável": "VITOR AMORIM RAMOS ",
     "Paralelismo": "1.4",
-    "Fazenda": "40101"
+    "Fazenda": "40101",
+    "Unnamed: 16": null
   },
   {
     "ID": "3613571",
@@ -7828,7 +8266,8 @@ const PARALELISMO_DATA = [
     "Frente": "135 - FRENTE PEDRINHO",
     "Responsável": "MARCELO DE OLIVEIRA JUNIOR",
     "Paralelismo": "1.52",
-    "Fazenda": "255302"
+    "Fazenda": "255302",
+    "Unnamed: 16": null
   },
   {
     "ID": "3611560",
@@ -7846,7 +8285,8 @@ const PARALELISMO_DATA = [
     "Frente": "101 - FRENTE MECANIZADA",
     "Responsável": "NILDA CLAUDINO [2510716]",
     "Paralelismo": "1.4",
-    "Fazenda": "168003"
+    "Fazenda": "168003",
+    "Unnamed: 16": null
   },
   {
     "ID": "3613565",
@@ -7864,7 +8304,8 @@ const PARALELISMO_DATA = [
     "Frente": "135 - FRENTE PEDRINHO",
     "Responsável": "MARCELO DE OLIVEIRA JUNIOR",
     "Paralelismo": "1.53",
-    "Fazenda": "255302"
+    "Fazenda": "255302",
+    "Unnamed: 16": null
   },
   {
     "ID": "3612760",
@@ -7882,7 +8323,8 @@ const PARALELISMO_DATA = [
     "Frente": "261 - FRENTE PRÓPRIA  (EDMILSON)",
     "Responsável": "VITOR AMORIM RAMOS ",
     "Paralelismo": "1.4",
-    "Fazenda": "40101"
+    "Fazenda": "40101",
+    "Unnamed: 16": null
   },
   {
     "ID": "3613560",
@@ -7900,7 +8342,8 @@ const PARALELISMO_DATA = [
     "Frente": "135 - FRENTE PEDRINHO",
     "Responsável": "MARCELO DE OLIVEIRA JUNIOR",
     "Paralelismo": "1.5",
-    "Fazenda": "255302"
+    "Fazenda": "255302",
+    "Unnamed: 16": null
   },
   {
     "ID": "3612755",
@@ -7918,7 +8361,8 @@ const PARALELISMO_DATA = [
     "Frente": "261 - FRENTE PRÓPRIA  (EDMILSON)",
     "Responsável": "VITOR AMORIM RAMOS ",
     "Paralelismo": "1.4",
-    "Fazenda": "40101"
+    "Fazenda": "40101",
+    "Unnamed: 16": null
   },
   {
     "ID": "3610956",
@@ -7936,7 +8380,8 @@ const PARALELISMO_DATA = [
     "Frente": "261 - FRENTE PRÓPRIA  (EDMILSON)",
     "Responsável": "VITOR AMORIM RAMOS ",
     "Paralelismo": "1.4",
-    "Fazenda": "40101"
+    "Fazenda": "40101",
+    "Unnamed: 16": null
   },
   {
     "ID": "3610955",
@@ -7954,7 +8399,8 @@ const PARALELISMO_DATA = [
     "Frente": "261 - FRENTE PRÓPRIA  (EDMILSON)",
     "Responsável": "VITOR AMORIM RAMOS ",
     "Paralelismo": "1.4",
-    "Fazenda": "40101"
+    "Fazenda": "40101",
+    "Unnamed: 16": null
   },
   {
     "ID": "3610954",
@@ -7972,7 +8418,8 @@ const PARALELISMO_DATA = [
     "Frente": "261 - FRENTE PRÓPRIA  (EDMILSON)",
     "Responsável": "VITOR AMORIM RAMOS ",
     "Paralelismo": "1.4",
-    "Fazenda": "40101"
+    "Fazenda": "40101",
+    "Unnamed: 16": null
   },
   {
     "ID": "3611199",
@@ -7990,7 +8437,8 @@ const PARALELISMO_DATA = [
     "Frente": "142 - FRENTE BIDU",
     "Responsável": "REGINALDO DA SILVA GOMES ",
     "Paralelismo": "1.53",
-    "Fazenda": "102704"
+    "Fazenda": "102704",
+    "Unnamed: 16": null
   },
   {
     "ID": "3610939",
@@ -8008,7 +8456,8 @@ const PARALELISMO_DATA = [
     "Frente": "261 - FRENTE PRÓPRIA  (EDMILSON)",
     "Responsável": "VITOR AMORIM RAMOS ",
     "Paralelismo": "1.4",
-    "Fazenda": "40101"
+    "Fazenda": "40101",
+    "Unnamed: 16": null
   },
   {
     "ID": "3611552",
@@ -8026,7 +8475,8 @@ const PARALELISMO_DATA = [
     "Frente": "101 - FRENTE MECANIZADA",
     "Responsável": "NILDA CLAUDINO [2510716]",
     "Paralelismo": "1.4",
-    "Fazenda": "168003"
+    "Fazenda": "168003",
+    "Unnamed: 16": null
   },
   {
     "ID": "3611194",
@@ -8044,7 +8494,8 @@ const PARALELISMO_DATA = [
     "Frente": "142 - FRENTE BIDU",
     "Responsável": "REGINALDO DA SILVA GOMES ",
     "Paralelismo": "1.5",
-    "Fazenda": "102704"
+    "Fazenda": "102704",
+    "Unnamed: 16": null
   },
   {
     "ID": "3611188",
@@ -8062,7 +8513,8 @@ const PARALELISMO_DATA = [
     "Frente": "142 - FRENTE BIDU",
     "Responsável": "REGINALDO DA SILVA GOMES ",
     "Paralelismo": "1.45",
-    "Fazenda": "102704"
+    "Fazenda": "102704",
+    "Unnamed: 16": null
   },
   {
     "ID": "3611782",
@@ -8080,7 +8532,8 @@ const PARALELISMO_DATA = [
     "Frente": "105 - FRENTE CASSIO (ZACARIAS)",
     "Responsável": "GABRIEL HENRIQUE MARTINS PEREIRA",
     "Paralelismo": "1.4",
-    "Fazenda": "37101"
+    "Fazenda": "37101",
+    "Unnamed: 16": null
   },
   {
     "ID": "3613557",
@@ -8098,7 +8551,8 @@ const PARALELISMO_DATA = [
     "Frente": "135 - FRENTE PEDRINHO",
     "Responsável": "MARCELO DE OLIVEIRA JUNIOR",
     "Paralelismo": "1.53",
-    "Fazenda": "255302"
+    "Fazenda": "255302",
+    "Unnamed: 16": null
   },
   {
     "ID": "3611773",
@@ -8116,7 +8570,8 @@ const PARALELISMO_DATA = [
     "Frente": "105 - FRENTE CASSIO (ZACARIAS)",
     "Responsável": "GABRIEL HENRIQUE MARTINS PEREIRA",
     "Paralelismo": "1.4",
-    "Fazenda": "37101"
+    "Fazenda": "37101",
+    "Unnamed: 16": null
   },
   {
     "ID": "3611541",
@@ -8134,7 +8589,8 @@ const PARALELISMO_DATA = [
     "Frente": "101 - FRENTE MECANIZADA",
     "Responsável": "NILDA CLAUDINO [2510716]",
     "Paralelismo": "1.4",
-    "Fazenda": "168003"
+    "Fazenda": "168003",
+    "Unnamed: 16": null
   },
   {
     "ID": "3611766",
@@ -8152,7 +8608,8 @@ const PARALELISMO_DATA = [
     "Frente": "105 - FRENTE CASSIO (ZACARIAS)",
     "Responsável": "GABRIEL HENRIQUE MARTINS PEREIRA",
     "Paralelismo": "1.4",
-    "Fazenda": "37101"
+    "Fazenda": "37101",
+    "Unnamed: 16": null
   },
   {
     "ID": "3613553",
@@ -8170,7 +8627,8 @@ const PARALELISMO_DATA = [
     "Frente": "135 - FRENTE PEDRINHO",
     "Responsável": "MARCELO DE OLIVEIRA JUNIOR",
     "Paralelismo": "1.52",
-    "Fazenda": "255302"
+    "Fazenda": "255302",
+    "Unnamed: 16": null
   },
   {
     "ID": "3611101",
@@ -8188,7 +8646,8 @@ const PARALELISMO_DATA = [
     "Frente": "101 - FRENTE MECANIZADA",
     "Responsável": "NILDA CLAUDINO [2510716]",
     "Paralelismo": "1.4",
-    "Fazenda": "168003"
+    "Fazenda": "168003",
+    "Unnamed: 16": null
   },
   {
     "ID": "3611759",
@@ -8206,7 +8665,8 @@ const PARALELISMO_DATA = [
     "Frente": "105 - FRENTE CASSIO (ZACARIAS)",
     "Responsável": "GABRIEL HENRIQUE MARTINS PEREIRA",
     "Paralelismo": "1.4",
-    "Fazenda": "37101"
+    "Fazenda": "37101",
+    "Unnamed: 16": null
   },
   {
     "ID": "3613548",
@@ -8224,7 +8684,8 @@ const PARALELISMO_DATA = [
     "Frente": "135 - FRENTE PEDRINHO",
     "Responsável": "MARCELO DE OLIVEIRA JUNIOR",
     "Paralelismo": "1.5",
-    "Fazenda": "255302"
+    "Fazenda": "255302",
+    "Unnamed: 16": null
   },
   {
     "ID": "3611100",
@@ -8242,7 +8703,8 @@ const PARALELISMO_DATA = [
     "Frente": "101 - FRENTE MECANIZADA",
     "Responsável": "NILDA CLAUDINO [2510716]",
     "Paralelismo": "1.4",
-    "Fazenda": "168003"
+    "Fazenda": "168003",
+    "Unnamed: 16": null
   },
   {
     "ID": "3611753",
@@ -8260,7 +8722,8 @@ const PARALELISMO_DATA = [
     "Frente": "105 - FRENTE CASSIO (ZACARIAS)",
     "Responsável": "GABRIEL HENRIQUE MARTINS PEREIRA",
     "Paralelismo": "1.4",
-    "Fazenda": "37101"
+    "Fazenda": "37101",
+    "Unnamed: 16": null
   },
   {
     "ID": "3611741",
@@ -8278,7 +8741,8 @@ const PARALELISMO_DATA = [
     "Frente": "105 - FRENTE CASSIO (ZACARIAS)",
     "Responsável": "GABRIEL HENRIQUE MARTINS PEREIRA",
     "Paralelismo": "1.4",
-    "Fazenda": "37101"
+    "Fazenda": "37101",
+    "Unnamed: 16": null
   },
   {
     "ID": "3611729",
@@ -8296,7 +8760,8 @@ const PARALELISMO_DATA = [
     "Frente": "105 - FRENTE CASSIO (ZACARIAS)",
     "Responsável": "GABRIEL HENRIQUE MARTINS PEREIRA",
     "Paralelismo": "1.4",
-    "Fazenda": "37101"
+    "Fazenda": "37101",
+    "Unnamed: 16": null
   },
   {
     "ID": "3608283",
@@ -8314,7 +8779,8 @@ const PARALELISMO_DATA = [
     "Frente": "101 - FRENTE MECANIZADA",
     "Responsável": "NILDA CLAUDINO [2510716]",
     "Paralelismo": "1.4",
-    "Fazenda": "53201"
+    "Fazenda": "53201",
+    "Unnamed: 16": null
   },
   {
     "ID": "3607900",
@@ -8332,7 +8798,8 @@ const PARALELISMO_DATA = [
     "Frente": "101 - FRENTE MECANIZADA",
     "Responsável": "FERNANDA DE SOUZA ",
     "Paralelismo": "1.4",
-    "Fazenda": "53201"
+    "Fazenda": "53201",
+    "Unnamed: 16": null
   },
   {
     "ID": "3609571",
@@ -8350,7 +8817,8 @@ const PARALELISMO_DATA = [
     "Frente": "139 - FRENTE MANEZÃO",
     "Responsável": "MICHELI DE SOUZA SANTOS  ",
     "Paralelismo": "1.5",
-    "Fazenda": "117701"
+    "Fazenda": "117701",
+    "Unnamed: 16": null
   },
   {
     "ID": "3609564",
@@ -8368,7 +8836,8 @@ const PARALELISMO_DATA = [
     "Frente": "139 - FRENTE MANEZÃO",
     "Responsável": "MICHELI DE SOUZA SANTOS  ",
     "Paralelismo": "1.5",
-    "Fazenda": "117701"
+    "Fazenda": "117701",
+    "Unnamed: 16": null
   },
   {
     "ID": "3607892",
@@ -8386,7 +8855,8 @@ const PARALELISMO_DATA = [
     "Frente": "101 - FRENTE MECANIZADA",
     "Responsável": "FERNANDA DE SOUZA ",
     "Paralelismo": "1.4",
-    "Fazenda": "53201"
+    "Fazenda": "53201",
+    "Unnamed: 16": null
   },
   {
     "ID": "3608554",
@@ -8404,7 +8874,8 @@ const PARALELISMO_DATA = [
     "Frente": "261 - FRENTE PRÓPRIA  (EDMILSON)",
     "Responsável": "VITOR AMORIM RAMOS ",
     "Paralelismo": "1.4",
-    "Fazenda": "40101"
+    "Fazenda": "40101",
+    "Unnamed: 16": null
   },
   {
     "ID": "3608549",
@@ -8422,7 +8893,8 @@ const PARALELISMO_DATA = [
     "Frente": "261 - FRENTE PRÓPRIA  (EDMILSON)",
     "Responsável": "VITOR AMORIM RAMOS ",
     "Paralelismo": "1.4",
-    "Fazenda": "40101"
+    "Fazenda": "40101",
+    "Unnamed: 16": null
   },
   {
     "ID": "3609557",
@@ -8440,7 +8912,8 @@ const PARALELISMO_DATA = [
     "Frente": "139 - FRENTE MANEZÃO",
     "Responsável": "MICHELI DE SOUZA SANTOS  ",
     "Paralelismo": "1.5",
-    "Fazenda": "117701"
+    "Fazenda": "117701",
+    "Unnamed: 16": null
   },
   {
     "ID": "3608544",
@@ -8458,7 +8931,8 @@ const PARALELISMO_DATA = [
     "Frente": "261 - FRENTE PRÓPRIA  (EDMILSON)",
     "Responsável": "VITOR AMORIM RAMOS ",
     "Paralelismo": "1.4",
-    "Fazenda": "40101"
+    "Fazenda": "40101",
+    "Unnamed: 16": null
   },
   {
     "ID": "3608707",
@@ -8476,7 +8950,8 @@ const PARALELISMO_DATA = [
     "Frente": "143 - FRENTE CASSIO",
     "Responsável": "MABILA HELEN D FIGUEIREDO",
     "Paralelismo": "1.5",
-    "Fazenda": "146201"
+    "Fazenda": "146201",
+    "Unnamed: 16": null
   },
   {
     "ID": "3607529",
@@ -8494,7 +8969,8 @@ const PARALELISMO_DATA = [
     "Frente": "101 - FRENTE MECANIZADA",
     "Responsável": "FERNANDA DE SOUZA ",
     "Paralelismo": "1.4",
-    "Fazenda": "53201"
+    "Fazenda": "53201",
+    "Unnamed: 16": null
   },
   {
     "ID": "3608313",
@@ -8512,7 +8988,8 @@ const PARALELISMO_DATA = [
     "Frente": "105 - FRENTE CASSIO (ZACARIAS)",
     "Responsável": "GABRIEL HENRIQUE MARTINS PEREIRA",
     "Paralelismo": "1.4",
-    "Fazenda": "47601"
+    "Fazenda": "47601",
+    "Unnamed: 16": null
   },
   {
     "ID": "3607502",
@@ -8530,7 +9007,8 @@ const PARALELISMO_DATA = [
     "Frente": "143 - FRENTE CASSIO",
     "Responsável": "MABILA HELEN D FIGUEIREDO",
     "Paralelismo": "1.5",
-    "Fazenda": "146201"
+    "Fazenda": "146201",
+    "Unnamed: 16": null
   },
   {
     "ID": "3607514",
@@ -8548,7 +9026,8 @@ const PARALELISMO_DATA = [
     "Frente": "101 - FRENTE MECANIZADA",
     "Responsável": "FERNANDA DE SOUZA ",
     "Paralelismo": "1.4",
-    "Fazenda": "53201"
+    "Fazenda": "53201",
+    "Unnamed: 16": null
   },
   {
     "ID": "3607598",
@@ -8566,7 +9045,8 @@ const PARALELISMO_DATA = [
     "Frente": "261 - FRENTE PRÓPRIA  (EDMILSON)",
     "Responsável": "VITOR AMORIM RAMOS ",
     "Paralelismo": "1.4",
-    "Fazenda": "40101"
+    "Fazenda": "40101",
+    "Unnamed: 16": null
   },
   {
     "ID": "3609537",
@@ -8584,7 +9064,8 @@ const PARALELISMO_DATA = [
     "Frente": "139 - FRENTE MANEZÃO",
     "Responsável": "MICHELI DE SOUZA SANTOS  ",
     "Paralelismo": "1.5",
-    "Fazenda": "117702"
+    "Fazenda": "117702",
+    "Unnamed: 16": null
   },
   {
     "ID": "3608308",
@@ -8602,7 +9083,8 @@ const PARALELISMO_DATA = [
     "Frente": "105 - FRENTE CASSIO (ZACARIAS)",
     "Responsável": "GABRIEL HENRIQUE MARTINS PEREIRA",
     "Paralelismo": "1.4",
-    "Fazenda": "47601"
+    "Fazenda": "47601",
+    "Unnamed: 16": null
   },
   {
     "ID": "3607593",
@@ -8620,7 +9102,8 @@ const PARALELISMO_DATA = [
     "Frente": "261 - FRENTE PRÓPRIA  (EDMILSON)",
     "Responsável": "VITOR AMORIM RAMOS ",
     "Paralelismo": "1.4",
-    "Fazenda": "40101"
+    "Fazenda": "40101",
+    "Unnamed: 16": null
   },
   {
     "ID": "3609532",
@@ -8638,7 +9121,8 @@ const PARALELISMO_DATA = [
     "Frente": "139 - FRENTE MANEZÃO",
     "Responsável": "MICHELI DE SOUZA SANTOS  ",
     "Paralelismo": "1.5",
-    "Fazenda": "117702"
+    "Fazenda": "117702",
+    "Unnamed: 16": null
   },
   {
     "ID": "3607588",
@@ -8656,7 +9140,8 @@ const PARALELISMO_DATA = [
     "Frente": "261 - FRENTE PRÓPRIA  (EDMILSON)",
     "Responsável": "VITOR AMORIM RAMOS ",
     "Paralelismo": "1.4",
-    "Fazenda": "40101"
+    "Fazenda": "40101",
+    "Unnamed: 16": null
   },
   {
     "ID": "3609528",
@@ -8674,7 +9159,8 @@ const PARALELISMO_DATA = [
     "Frente": "139 - FRENTE MANEZÃO",
     "Responsável": "MICHELI DE SOUZA SANTOS  ",
     "Paralelismo": "1.5",
-    "Fazenda": "117702"
+    "Fazenda": "117702",
+    "Unnamed: 16": null
   },
   {
     "ID": "3609641",
@@ -8692,7 +9178,8 @@ const PARALELISMO_DATA = [
     "Frente": "135 - FRENTE PEDRINHO",
     "Responsável": "MARCELO DE OLIVEIRA JUNIOR",
     "Paralelismo": "1.52",
-    "Fazenda": "255302"
+    "Fazenda": "255302",
+    "Unnamed: 16": null
   },
   {
     "ID": "3609521",
@@ -8710,7 +9197,8 @@ const PARALELISMO_DATA = [
     "Frente": "139 - FRENTE MANEZÃO",
     "Responsável": "MICHELI DE SOUZA SANTOS  ",
     "Paralelismo": "1.5",
-    "Fazenda": "117702"
+    "Fazenda": "117702",
+    "Unnamed: 16": null
   },
   {
     "ID": "3607578",
@@ -8728,7 +9216,8 @@ const PARALELISMO_DATA = [
     "Frente": "261 - FRENTE PRÓPRIA  (EDMILSON)",
     "Responsável": "VITOR AMORIM RAMOS ",
     "Paralelismo": "1.4",
-    "Fazenda": "40101"
+    "Fazenda": "40101",
+    "Unnamed: 16": null
   },
   {
     "ID": "3608261",
@@ -8746,7 +9235,8 @@ const PARALELISMO_DATA = [
     "Frente": "101 - FRENTE MECANIZADA",
     "Responsável": "NILDA CLAUDINO [2510716]",
     "Paralelismo": "1.4",
-    "Fazenda": "53201"
+    "Fazenda": "53201",
+    "Unnamed: 16": null
   },
   {
     "ID": "3609516",
@@ -8764,7 +9254,8 @@ const PARALELISMO_DATA = [
     "Frente": "139 - FRENTE MANEZÃO",
     "Responsável": "MICHELI DE SOUZA SANTOS  ",
     "Paralelismo": "1.5",
-    "Fazenda": "117702"
+    "Fazenda": "117702",
+    "Unnamed: 16": null
   },
   {
     "ID": "3609636",
@@ -8782,7 +9273,8 @@ const PARALELISMO_DATA = [
     "Frente": "135 - FRENTE PEDRINHO",
     "Responsável": "MARCELO DE OLIVEIRA JUNIOR",
     "Paralelismo": "1.49",
-    "Fazenda": "255302"
+    "Fazenda": "255302",
+    "Unnamed: 16": null
   },
   {
     "ID": "3608300",
@@ -8800,7 +9292,8 @@ const PARALELISMO_DATA = [
     "Frente": "105 - FRENTE CASSIO (ZACARIAS)",
     "Responsável": "GABRIEL HENRIQUE MARTINS PEREIRA",
     "Paralelismo": "1.4",
-    "Fazenda": "47601"
+    "Fazenda": "47601",
+    "Unnamed: 16": null
   },
   {
     "ID": "3607573",
@@ -8818,7 +9311,8 @@ const PARALELISMO_DATA = [
     "Frente": "261 - FRENTE PRÓPRIA  (EDMILSON)",
     "Responsável": "VITOR AMORIM RAMOS ",
     "Paralelismo": "1.4",
-    "Fazenda": "40101"
+    "Fazenda": "40101",
+    "Unnamed: 16": null
   },
   {
     "ID": "3608257",
@@ -8836,7 +9330,8 @@ const PARALELISMO_DATA = [
     "Frente": "101 - FRENTE MECANIZADA",
     "Responsável": "NILDA CLAUDINO [2510716]",
     "Paralelismo": "1.4",
-    "Fazenda": "53201"
+    "Fazenda": "53201",
+    "Unnamed: 16": null
   },
   {
     "ID": "3609511",
@@ -8854,7 +9349,8 @@ const PARALELISMO_DATA = [
     "Frente": "139 - FRENTE MANEZÃO",
     "Responsável": "MICHELI DE SOUZA SANTOS  ",
     "Paralelismo": "1.5",
-    "Fazenda": "117702"
+    "Fazenda": "117702",
+    "Unnamed: 16": null
   },
   {
     "ID": "3608295",
@@ -8872,7 +9368,8 @@ const PARALELISMO_DATA = [
     "Frente": "105 - FRENTE CASSIO (ZACARIAS)",
     "Responsável": "GABRIEL HENRIQUE MARTINS PEREIRA",
     "Paralelismo": "1.4",
-    "Fazenda": "47601"
+    "Fazenda": "47601",
+    "Unnamed: 16": null
   },
   {
     "ID": "3609632",
@@ -8890,7 +9387,8 @@ const PARALELISMO_DATA = [
     "Frente": "135 - FRENTE PEDRINHO",
     "Responsável": "MARCELO DE OLIVEIRA JUNIOR",
     "Paralelismo": "1.52",
-    "Fazenda": "255302"
+    "Fazenda": "255302",
+    "Unnamed: 16": null
   },
   {
     "ID": "3609506",
@@ -8908,7 +9406,8 @@ const PARALELISMO_DATA = [
     "Frente": "139 - FRENTE MANEZÃO",
     "Responsável": "MICHELI DE SOUZA SANTOS  ",
     "Paralelismo": "1.5",
-    "Fazenda": "117702"
+    "Fazenda": "117702",
+    "Unnamed: 16": null
   },
   {
     "ID": "3607568",
@@ -8926,7 +9425,8 @@ const PARALELISMO_DATA = [
     "Frente": "261 - FRENTE PRÓPRIA  (EDMILSON)",
     "Responsável": "VITOR AMORIM RAMOS ",
     "Paralelismo": "1.4",
-    "Fazenda": "40101"
+    "Fazenda": "40101",
+    "Unnamed: 16": null
   },
   {
     "ID": "3609501",
@@ -8944,7 +9444,8 @@ const PARALELISMO_DATA = [
     "Frente": "139 - FRENTE MANEZÃO",
     "Responsável": "MICHELI DE SOUZA SANTOS  ",
     "Paralelismo": "1.5",
-    "Fazenda": "117702"
+    "Fazenda": "117702",
+    "Unnamed: 16": null
   },
   {
     "ID": "3609626",
@@ -8962,7 +9463,8 @@ const PARALELISMO_DATA = [
     "Frente": "135 - FRENTE PEDRINHO",
     "Responsável": "MARCELO DE OLIVEIRA JUNIOR",
     "Paralelismo": "1.53",
-    "Fazenda": "255302"
+    "Fazenda": "255302",
+    "Unnamed: 16": null
   },
   {
     "ID": "3607563",
@@ -8980,7 +9482,8 @@ const PARALELISMO_DATA = [
     "Frente": "261 - FRENTE PRÓPRIA  (EDMILSON)",
     "Responsável": "VITOR AMORIM RAMOS ",
     "Paralelismo": "1.4",
-    "Fazenda": "40101"
+    "Fazenda": "40101",
+    "Unnamed: 16": null
   },
   {
     "ID": "3608290",
@@ -8998,7 +9501,8 @@ const PARALELISMO_DATA = [
     "Frente": "105 - FRENTE CASSIO (ZACARIAS)",
     "Responsável": "GABRIEL HENRIQUE MARTINS PEREIRA",
     "Paralelismo": "1.4",
-    "Fazenda": "47601"
+    "Fazenda": "47601",
+    "Unnamed: 16": null
   },
   {
     "ID": "3609496",
@@ -9016,7 +9520,8 @@ const PARALELISMO_DATA = [
     "Frente": "139 - FRENTE MANEZÃO",
     "Responsável": "MICHELI DE SOUZA SANTOS  ",
     "Paralelismo": "1.5",
-    "Fazenda": "117702"
+    "Fazenda": "117702",
+    "Unnamed: 16": null
   },
   {
     "ID": "3607558",
@@ -9034,7 +9539,8 @@ const PARALELISMO_DATA = [
     "Frente": "261 - FRENTE PRÓPRIA  (EDMILSON)",
     "Responsável": "VITOR AMORIM RAMOS ",
     "Paralelismo": "1.4",
-    "Fazenda": "40101"
+    "Fazenda": "40101",
+    "Unnamed: 16": null
   },
   {
     "ID": "3608253",
@@ -9052,7 +9558,8 @@ const PARALELISMO_DATA = [
     "Frente": "101 - FRENTE MECANIZADA",
     "Responsável": "NILDA CLAUDINO [2510716]",
     "Paralelismo": "1.4",
-    "Fazenda": "53201"
+    "Fazenda": "53201",
+    "Unnamed: 16": null
   },
   {
     "ID": "3608285",
@@ -9070,7 +9577,8 @@ const PARALELISMO_DATA = [
     "Frente": "105 - FRENTE CASSIO (ZACARIAS)",
     "Responsável": "GABRIEL HENRIQUE MARTINS PEREIRA",
     "Paralelismo": "1.4",
-    "Fazenda": "47601"
+    "Fazenda": "47601",
+    "Unnamed: 16": null
   },
   {
     "ID": "3607440",
@@ -9088,7 +9596,8 @@ const PARALELISMO_DATA = [
     "Frente": "101 - FRENTE MECANIZADA",
     "Responsável": "FERNANDA DE SOUZA ",
     "Paralelismo": "1.41",
-    "Fazenda": "53201"
+    "Fazenda": "53201",
+    "Unnamed: 16": null
   },
   {
     "ID": "3609572",
@@ -9106,7 +9615,8 @@ const PARALELISMO_DATA = [
     "Frente": "139 - FRENTE MANEZÃO",
     "Responsável": "MICHELI DE SOUZA SANTOS  ",
     "Paralelismo": "1.5",
-    "Fazenda": "117702"
+    "Fazenda": "117702",
+    "Unnamed: 16": null
   },
   {
     "ID": "3607553",
@@ -9124,7 +9634,8 @@ const PARALELISMO_DATA = [
     "Frente": "261 - FRENTE PRÓPRIA  (EDMILSON)",
     "Responsável": "VITOR AMORIM RAMOS ",
     "Paralelismo": "1.4",
-    "Fazenda": "40101"
+    "Fazenda": "40101",
+    "Unnamed: 16": null
   },
   {
     "ID": "3608279",
@@ -9142,7 +9653,8 @@ const PARALELISMO_DATA = [
     "Frente": "105 - FRENTE CASSIO (ZACARIAS)",
     "Responsável": "GABRIEL HENRIQUE MARTINS PEREIRA",
     "Paralelismo": "1.4",
-    "Fazenda": "47601"
+    "Fazenda": "47601",
+    "Unnamed: 16": null
   },
   {
     "ID": "3607548",
@@ -9160,7 +9672,8 @@ const PARALELISMO_DATA = [
     "Frente": "261 - FRENTE PRÓPRIA  (EDMILSON)",
     "Responsável": "VITOR AMORIM RAMOS ",
     "Paralelismo": "1.4",
-    "Fazenda": "40101"
+    "Fazenda": "40101",
+    "Unnamed: 16": null
   },
   {
     "ID": "3607497",
@@ -9178,7 +9691,8 @@ const PARALELISMO_DATA = [
     "Frente": "143 - FRENTE CASSIO",
     "Responsável": "MABILA HELEN D FIGUEIREDO",
     "Paralelismo": "1.5",
-    "Fazenda": "146201"
+    "Fazenda": "146201",
+    "Unnamed: 16": null
   },
   {
     "ID": "3607543",
@@ -9196,7 +9710,8 @@ const PARALELISMO_DATA = [
     "Frente": "261 - FRENTE PRÓPRIA  (EDMILSON)",
     "Responsável": "VITOR AMORIM RAMOS ",
     "Paralelismo": "1.4",
-    "Fazenda": "40101"
+    "Fazenda": "40101",
+    "Unnamed: 16": null
   },
   {
     "ID": "3608245",
@@ -9214,7 +9729,8 @@ const PARALELISMO_DATA = [
     "Frente": "101 - FRENTE MECANIZADA",
     "Responsável": "NILDA CLAUDINO [2510716]",
     "Paralelismo": "1.4",
-    "Fazenda": "53201"
+    "Fazenda": "53201",
+    "Unnamed: 16": null
   },
   {
     "ID": "3607424",
@@ -9232,7 +9748,8 @@ const PARALELISMO_DATA = [
     "Frente": "101 - FRENTE MECANIZADA",
     "Responsável": "FERNANDA DE SOUZA ",
     "Paralelismo": "1.4",
-    "Fazenda": "53201"
+    "Fazenda": "53201",
+    "Unnamed: 16": null
   },
   {
     "ID": "3607492",
@@ -9250,7 +9767,8 @@ const PARALELISMO_DATA = [
     "Frente": "143 - FRENTE CASSIO",
     "Responsável": "MABILA HELEN D FIGUEIREDO",
     "Paralelismo": "1.5",
-    "Fazenda": "146201"
+    "Fazenda": "146201",
+    "Unnamed: 16": null
   },
   {
     "ID": "3609622",
@@ -9268,7 +9786,8 @@ const PARALELISMO_DATA = [
     "Frente": "135 - FRENTE PEDRINHO",
     "Responsável": "MARCELO DE OLIVEIRA JUNIOR",
     "Paralelismo": "1.5",
-    "Fazenda": "255302"
+    "Fazenda": "255302",
+    "Unnamed: 16": null
   },
   {
     "ID": "3609616",
@@ -9286,7 +9805,8 @@ const PARALELISMO_DATA = [
     "Frente": "135 - FRENTE PEDRINHO",
     "Responsável": "MARCELO DE OLIVEIRA JUNIOR",
     "Paralelismo": "1.51",
-    "Fazenda": "255302"
+    "Fazenda": "255302",
+    "Unnamed: 16": null
   },
   {
     "ID": "3608239",
@@ -9304,7 +9824,8 @@ const PARALELISMO_DATA = [
     "Frente": "101 - FRENTE MECANIZADA",
     "Responsável": "NILDA CLAUDINO [2510716]",
     "Paralelismo": "1.4",
-    "Fazenda": "53201"
+    "Fazenda": "53201",
+    "Unnamed: 16": null
   },
   {
     "ID": "3608235",
@@ -9322,7 +9843,8 @@ const PARALELISMO_DATA = [
     "Frente": "101 - FRENTE MECANIZADA",
     "Responsável": "NILDA CLAUDINO [2510716]",
     "Paralelismo": "1.4",
-    "Fazenda": "53201"
+    "Fazenda": "53201",
+    "Unnamed: 16": null
   },
   {
     "ID": "3608228",
@@ -9340,7 +9862,8 @@ const PARALELISMO_DATA = [
     "Frente": "101 - FRENTE MECANIZADA",
     "Responsável": "NILDA CLAUDINO [2510716]",
     "Paralelismo": "1.4",
-    "Fazenda": "53201"
+    "Fazenda": "53201",
+    "Unnamed: 16": null
   },
   {
     "ID": "3605441",
@@ -9358,7 +9881,8 @@ const PARALELISMO_DATA = [
     "Frente": "143 - FRENTE CASSIO",
     "Responsável": " Antonio ",
     "Paralelismo": "1.5",
-    "Fazenda": "146201"
+    "Fazenda": "146201",
+    "Unnamed: 16": null
   },
   {
     "ID": "3604928",
@@ -9376,7 +9900,8 @@ const PARALELISMO_DATA = [
     "Frente": "135 - FRENTE PEDRINHO",
     "Responsável": "REGINALDO DA SILVA GOMES ",
     "Paralelismo": "1.51",
-    "Fazenda": "255302"
+    "Fazenda": "255302",
+    "Unnamed: 16": null
   },
   {
     "ID": "3604923",
@@ -9394,7 +9919,8 @@ const PARALELISMO_DATA = [
     "Frente": "135 - FRENTE PEDRINHO",
     "Responsável": "REGINALDO DA SILVA GOMES ",
     "Paralelismo": "1.5",
-    "Fazenda": "255302"
+    "Fazenda": "255302",
+    "Unnamed: 16": null
   },
   {
     "ID": "3604921",
@@ -9412,7 +9938,8 @@ const PARALELISMO_DATA = [
     "Frente": "135 - FRENTE PEDRINHO",
     "Responsável": "REGINALDO DA SILVA GOMES ",
     "Paralelismo": "1.53",
-    "Fazenda": "255302"
+    "Fazenda": "255302",
+    "Unnamed: 16": null
   },
   {
     "ID": "3604663",
@@ -9430,7 +9957,8 @@ const PARALELISMO_DATA = [
     "Frente": "105 - FRENTE CASSIO (ZACARIAS)",
     "Responsável": "GABRIEL HENRIQUE MARTINS PEREIRA",
     "Paralelismo": "1.4",
-    "Fazenda": "47601"
+    "Fazenda": "47601",
+    "Unnamed: 16": null
   },
   {
     "ID": "3604662",
@@ -9448,7 +9976,8 @@ const PARALELISMO_DATA = [
     "Frente": "105 - FRENTE CASSIO (ZACARIAS)",
     "Responsável": "GABRIEL HENRIQUE MARTINS PEREIRA",
     "Paralelismo": "1.4",
-    "Fazenda": "47601"
+    "Fazenda": "47601",
+    "Unnamed: 16": null
   },
   {
     "ID": "3605019",
@@ -9466,7 +9995,8 @@ const PARALELISMO_DATA = [
     "Frente": "101 - FRENTE MECANIZADA",
     "Responsável": "FERNANDA DE SOUZA ",
     "Paralelismo": "1.41",
-    "Fazenda": "53201"
+    "Fazenda": "53201",
+    "Unnamed: 16": null
   },
   {
     "ID": "3605009",
@@ -9484,7 +10014,8 @@ const PARALELISMO_DATA = [
     "Frente": "101 - FRENTE MECANIZADA",
     "Responsável": "FERNANDA DE SOUZA ",
     "Paralelismo": "1.4",
-    "Fazenda": "53201"
+    "Fazenda": "53201",
+    "Unnamed: 16": null
   },
   {
     "ID": "3605174",
@@ -9502,7 +10033,8 @@ const PARALELISMO_DATA = [
     "Frente": "135 - FRENTE PEDRINHO",
     "Responsável": "MARCELO DE OLIVEIRA JUNIOR",
     "Paralelismo": "1.53",
-    "Fazenda": "255302"
+    "Fazenda": "255302",
+    "Unnamed: 16": null
   },
   {
     "ID": "3605167",
@@ -9520,7 +10052,8 @@ const PARALELISMO_DATA = [
     "Frente": "135 - FRENTE PEDRINHO",
     "Responsável": "MARCELO DE OLIVEIRA JUNIOR",
     "Paralelismo": "1.52",
-    "Fazenda": "255302"
+    "Fazenda": "255302",
+    "Unnamed: 16": null
   },
   {
     "ID": "3605161",
@@ -9538,7 +10071,8 @@ const PARALELISMO_DATA = [
     "Frente": "135 - FRENTE PEDRINHO",
     "Responsável": "MARCELO DE OLIVEIRA JUNIOR",
     "Paralelismo": "1.5",
-    "Fazenda": "255302"
+    "Fazenda": "255302",
+    "Unnamed: 16": null
   },
   {
     "ID": "3604491",
@@ -9556,7 +10090,8 @@ const PARALELISMO_DATA = [
     "Frente": "101 - FRENTE MECANIZADA",
     "Responsável": "NILDA CLAUDINO [2510716]",
     "Paralelismo": "1.4",
-    "Fazenda": "53201"
+    "Fazenda": "53201",
+    "Unnamed: 16": null
   },
   {
     "ID": "3605157",
@@ -9574,7 +10109,8 @@ const PARALELISMO_DATA = [
     "Frente": "135 - FRENTE PEDRINHO",
     "Responsável": "MARCELO DE OLIVEIRA JUNIOR",
     "Paralelismo": "1.53",
-    "Fazenda": "255302"
+    "Fazenda": "255302",
+    "Unnamed: 16": null
   },
   {
     "ID": "3604487",
@@ -9592,7 +10128,8 @@ const PARALELISMO_DATA = [
     "Frente": "101 - FRENTE MECANIZADA",
     "Responsável": "NILDA CLAUDINO [2510716]",
     "Paralelismo": "1.4",
-    "Fazenda": "53201"
+    "Fazenda": "53201",
+    "Unnamed: 16": null
   },
   {
     "ID": "3605150",
@@ -9610,7 +10147,8 @@ const PARALELISMO_DATA = [
     "Frente": "135 - FRENTE PEDRINHO",
     "Responsável": "MARCELO DE OLIVEIRA JUNIOR",
     "Paralelismo": "1.51",
-    "Fazenda": "255302"
+    "Fazenda": "255302",
+    "Unnamed: 16": null
   },
   {
     "ID": "3605002",
@@ -9628,7 +10166,8 @@ const PARALELISMO_DATA = [
     "Frente": "101 - FRENTE MECANIZADA",
     "Responsável": "FERNANDA DE SOUZA ",
     "Paralelismo": "1.4",
-    "Fazenda": "53201"
+    "Fazenda": "53201",
+    "Unnamed: 16": null
   },
   {
     "ID": "3605120",
@@ -9646,7 +10185,8 @@ const PARALELISMO_DATA = [
     "Frente": "135 - FRENTE PEDRINHO",
     "Responsável": "MARCELO DE OLIVEIRA JUNIOR",
     "Paralelismo": "1.5",
-    "Fazenda": "255302"
+    "Fazenda": "255302",
+    "Unnamed: 16": null
   },
   {
     "ID": "3604484",
@@ -9664,7 +10204,8 @@ const PARALELISMO_DATA = [
     "Frente": "101 - FRENTE MECANIZADA",
     "Responsável": "NILDA CLAUDINO [2510716]",
     "Paralelismo": "1.4",
-    "Fazenda": "53201"
+    "Fazenda": "53201",
+    "Unnamed: 16": null
   },
   {
     "ID": "3607346",
@@ -9682,7 +10223,8 @@ const PARALELISMO_DATA = [
     "Frente": "261 - FRENTE PRÓPRIA  (EDMILSON)",
     "Responsável": "VITOR AMORIM RAMOS ",
     "Paralelismo": "1.4",
-    "Fazenda": "40101"
+    "Fazenda": "40101",
+    "Unnamed: 16": null
   },
   {
     "ID": "3604479",
@@ -9700,7 +10242,8 @@ const PARALELISMO_DATA = [
     "Frente": "101 - FRENTE MECANIZADA",
     "Responsável": "NILDA CLAUDINO [2510716]",
     "Paralelismo": "1.4",
-    "Fazenda": "53201"
+    "Fazenda": "53201",
+    "Unnamed: 16": null
   },
   {
     "ID": "3607341",
@@ -9718,7 +10261,8 @@ const PARALELISMO_DATA = [
     "Frente": "261 - FRENTE PRÓPRIA  (EDMILSON)",
     "Responsável": "VITOR AMORIM RAMOS ",
     "Paralelismo": "1.4",
-    "Fazenda": "40101"
+    "Fazenda": "40101",
+    "Unnamed: 16": null
   },
   {
     "ID": "3607335",
@@ -9736,7 +10280,8 @@ const PARALELISMO_DATA = [
     "Frente": "261 - FRENTE PRÓPRIA  (EDMILSON)",
     "Responsável": "VITOR AMORIM RAMOS ",
     "Paralelismo": "1.4",
-    "Fazenda": "40101"
+    "Fazenda": "40101",
+    "Unnamed: 16": null
   },
   {
     "ID": "3604165",
@@ -9754,7 +10299,8 @@ const PARALELISMO_DATA = [
     "Frente": "142 - FRENTE BIDU",
     "Responsável": "GLEISON FELIPE BORGES DE MATOS",
     "Paralelismo": "1.43",
-    "Fazenda": "142601"
+    "Fazenda": "142601",
+    "Unnamed: 16": null
   },
   {
     "ID": "3604159",
@@ -9772,7 +10318,8 @@ const PARALELISMO_DATA = [
     "Frente": "142 - FRENTE BIDU",
     "Responsável": "GLEISON FELIPE BORGES DE MATOS",
     "Paralelismo": "1.43",
-    "Fazenda": "142601"
+    "Fazenda": "142601",
+    "Unnamed: 16": null
   },
   {
     "ID": "3604155",
@@ -9790,7 +10337,8 @@ const PARALELISMO_DATA = [
     "Frente": "142 - FRENTE BIDU",
     "Responsável": "GLEISON FELIPE BORGES DE MATOS",
     "Paralelismo": "1.42",
-    "Fazenda": "142601"
+    "Fazenda": "142601",
+    "Unnamed: 16": null
   },
   {
     "ID": "3604150",
@@ -9808,7 +10356,8 @@ const PARALELISMO_DATA = [
     "Frente": "142 - FRENTE BIDU",
     "Responsável": "GLEISON FELIPE BORGES DE MATOS",
     "Paralelismo": "1.43",
-    "Fazenda": "142601"
+    "Fazenda": "142601",
+    "Unnamed: 16": null
   },
   {
     "ID": "3604913",
@@ -9826,7 +10375,8 @@ const PARALELISMO_DATA = [
     "Frente": "261 - FRENTE PRÓPRIA  (EDMILSON)",
     "Responsável": "REGINALDO DA SILVA GOMES ",
     "Paralelismo": "1.4",
-    "Fazenda": "40101"
+    "Fazenda": "40101",
+    "Unnamed: 16": null
   },
   {
     "ID": "3604908",
@@ -9844,7 +10394,8 @@ const PARALELISMO_DATA = [
     "Frente": "261 - FRENTE PRÓPRIA  (EDMILSON)",
     "Responsável": "REGINALDO DA SILVA GOMES ",
     "Paralelismo": "1.38",
-    "Fazenda": "40101"
+    "Fazenda": "40101",
+    "Unnamed: 16": null
   },
   {
     "ID": "3604903",
@@ -9862,7 +10413,8 @@ const PARALELISMO_DATA = [
     "Frente": "261 - FRENTE PRÓPRIA  (EDMILSON)",
     "Responsável": "REGINALDO DA SILVA GOMES ",
     "Paralelismo": "1.4",
-    "Fazenda": "40101"
+    "Fazenda": "40101",
+    "Unnamed: 16": null
   },
   {
     "ID": "3604997",
@@ -9880,7 +10432,8 @@ const PARALELISMO_DATA = [
     "Frente": "101 - FRENTE MECANIZADA",
     "Responsável": "FERNANDA DE SOUZA ",
     "Paralelismo": "1.4",
-    "Fazenda": "53201"
+    "Fazenda": "53201",
+    "Unnamed: 16": null
   },
   {
     "ID": "3604014",
@@ -9898,7 +10451,8 @@ const PARALELISMO_DATA = [
     "Frente": "101 - FRENTE MECANIZADA",
     "Responsável": "NILDA CLAUDINO [2510716]",
     "Paralelismo": "1.4",
-    "Fazenda": "53201"
+    "Fazenda": "53201",
+    "Unnamed: 16": null
   },
   {
     "ID": "3604038",
@@ -9916,7 +10470,8 @@ const PARALELISMO_DATA = [
     "Frente": "261 - FRENTE PRÓPRIA  (EDMILSON)",
     "Responsável": "VITOR AMORIM RAMOS ",
     "Paralelismo": "1.4",
-    "Fazenda": "40101"
+    "Fazenda": "40101",
+    "Unnamed: 16": null
   },
   {
     "ID": "3604995",
@@ -9934,7 +10489,8 @@ const PARALELISMO_DATA = [
     "Frente": "101 - FRENTE MECANIZADA",
     "Responsável": "FERNANDA DE SOUZA ",
     "Paralelismo": "1.4",
-    "Fazenda": "53201"
+    "Fazenda": "53201",
+    "Unnamed: 16": null
   },
   {
     "ID": "3604005",
@@ -9952,7 +10508,8 @@ const PARALELISMO_DATA = [
     "Frente": "101 - FRENTE MECANIZADA",
     "Responsável": "NILDA CLAUDINO [2510716]",
     "Paralelismo": "1.4",
-    "Fazenda": "53201"
+    "Fazenda": "53201",
+    "Unnamed: 16": null
   },
   {
     "ID": "3604033",
@@ -9970,7 +10527,8 @@ const PARALELISMO_DATA = [
     "Frente": "261 - FRENTE PRÓPRIA  (EDMILSON)",
     "Responsável": "VITOR AMORIM RAMOS ",
     "Paralelismo": "1.4",
-    "Fazenda": "40101"
+    "Fazenda": "40101",
+    "Unnamed: 16": null
   },
   {
     "ID": "3604028",
@@ -9988,7 +10546,8 @@ const PARALELISMO_DATA = [
     "Frente": "261 - FRENTE PRÓPRIA  (EDMILSON)",
     "Responsável": "VITOR AMORIM RAMOS ",
     "Paralelismo": "1.4",
-    "Fazenda": "40101"
+    "Fazenda": "40101",
+    "Unnamed: 16": null
   },
   {
     "ID": "3603990",
@@ -10006,7 +10565,8 @@ const PARALELISMO_DATA = [
     "Frente": "101 - FRENTE MECANIZADA",
     "Responsável": "NILDA CLAUDINO [2510716]",
     "Paralelismo": "1.4",
-    "Fazenda": "53201"
+    "Fazenda": "53201",
+    "Unnamed: 16": null
   },
   {
     "ID": "3604023",
@@ -10024,7 +10584,8 @@ const PARALELISMO_DATA = [
     "Frente": "261 - FRENTE PRÓPRIA  (EDMILSON)",
     "Responsável": "VITOR AMORIM RAMOS ",
     "Paralelismo": "1.4",
-    "Fazenda": "40101"
+    "Fazenda": "40101",
+    "Unnamed: 16": null
   },
   {
     "ID": "3604015",
@@ -10042,7 +10603,8 @@ const PARALELISMO_DATA = [
     "Frente": "261 - FRENTE PRÓPRIA  (EDMILSON)",
     "Responsável": "VITOR AMORIM RAMOS ",
     "Paralelismo": "1.4",
-    "Fazenda": "40101"
+    "Fazenda": "40101",
+    "Unnamed: 16": null
   },
   {
     "ID": "3604008",
@@ -10060,7 +10622,8 @@ const PARALELISMO_DATA = [
     "Frente": "261 - FRENTE PRÓPRIA  (EDMILSON)",
     "Responsável": "VITOR AMORIM RAMOS ",
     "Paralelismo": "1.4",
-    "Fazenda": "40101"
+    "Fazenda": "40101",
+    "Unnamed: 16": null
   },
   {
     "ID": "3604989",
@@ -10078,7 +10641,8 @@ const PARALELISMO_DATA = [
     "Frente": "101 - FRENTE MECANIZADA",
     "Responsável": "FERNANDA DE SOUZA ",
     "Paralelismo": "1.4",
-    "Fazenda": "53201"
+    "Fazenda": "53201",
+    "Unnamed: 16": null
   },
   {
     "ID": "3603994",
@@ -10096,7 +10660,8 @@ const PARALELISMO_DATA = [
     "Frente": "261 - FRENTE PRÓPRIA  (EDMILSON)",
     "Responsável": "VITOR AMORIM RAMOS ",
     "Paralelismo": "1.4",
-    "Fazenda": "40101"
+    "Fazenda": "40101",
+    "Unnamed: 16": null
   },
   {
     "ID": "3604201",
@@ -10114,7 +10679,8 @@ const PARALELISMO_DATA = [
     "Frente": "139 - FRENTE MANEZÃO",
     "Responsável": "MICHELI DE SOUZA SANTOS  ",
     "Paralelismo": "1.5",
-    "Fazenda": "253801"
+    "Fazenda": "253801",
+    "Unnamed: 16": null
   },
   {
     "ID": "3603984",
@@ -10132,7 +10698,8 @@ const PARALELISMO_DATA = [
     "Frente": "261 - FRENTE PRÓPRIA  (EDMILSON)",
     "Responsável": "VITOR AMORIM RAMOS ",
     "Paralelismo": "1.4",
-    "Fazenda": "40101"
+    "Fazenda": "40101",
+    "Unnamed: 16": null
   },
   {
     "ID": "3604196",
@@ -10150,7 +10717,8 @@ const PARALELISMO_DATA = [
     "Frente": "139 - FRENTE MANEZÃO",
     "Responsável": "MICHELI DE SOUZA SANTOS  ",
     "Paralelismo": "1.5",
-    "Fazenda": "253801"
+    "Fazenda": "253801",
+    "Unnamed: 16": null
   },
   {
     "ID": "3604900",
@@ -10168,7 +10736,8 @@ const PARALELISMO_DATA = [
     "Frente": "139 - FRENTE MANEZÃO",
     "Responsável": "REGINALDO DA SILVA GOMES ",
     "Paralelismo": "1.5",
-    "Fazenda": "253801"
+    "Fazenda": "253801",
+    "Unnamed: 16": null
   },
   {
     "ID": "3605116",
@@ -10186,7 +10755,8 @@ const PARALELISMO_DATA = [
     "Frente": "135 - FRENTE PEDRINHO",
     "Responsável": "MARCELO DE OLIVEIRA JUNIOR",
     "Paralelismo": "1.53",
-    "Fazenda": "53201"
+    "Fazenda": "53201",
+    "Unnamed: 16": null
   },
   {
     "ID": "3603980",
@@ -10204,7 +10774,8 @@ const PARALELISMO_DATA = [
     "Frente": "261 - FRENTE PRÓPRIA  (EDMILSON)",
     "Responsável": "VITOR AMORIM RAMOS ",
     "Paralelismo": "1.4",
-    "Fazenda": "40101"
+    "Fazenda": "40101",
+    "Unnamed: 16": null
   },
   {
     "ID": "3604191",
@@ -10222,7 +10793,8 @@ const PARALELISMO_DATA = [
     "Frente": "139 - FRENTE MANEZÃO",
     "Responsável": "MICHELI DE SOUZA SANTOS  ",
     "Paralelismo": "1.5",
-    "Fazenda": "253801"
+    "Fazenda": "253801",
+    "Unnamed: 16": null
   },
   {
     "ID": "3604895",
@@ -10240,7 +10812,8 @@ const PARALELISMO_DATA = [
     "Frente": "139 - FRENTE MANEZÃO",
     "Responsável": "REGINALDO DA SILVA GOMES ",
     "Paralelismo": "1.53",
-    "Fazenda": "253801"
+    "Fazenda": "253801",
+    "Unnamed: 16": null
   },
   {
     "ID": "3605110",
@@ -10258,7 +10831,8 @@ const PARALELISMO_DATA = [
     "Frente": "135 - FRENTE PEDRINHO",
     "Responsável": "MARCELO DE OLIVEIRA JUNIOR",
     "Paralelismo": "1.52",
-    "Fazenda": "53201"
+    "Fazenda": "53201",
+    "Unnamed: 16": null
   },
   {
     "ID": "3603974",
@@ -10276,7 +10850,8 @@ const PARALELISMO_DATA = [
     "Frente": "261 - FRENTE PRÓPRIA  (EDMILSON)",
     "Responsável": "VITOR AMORIM RAMOS ",
     "Paralelismo": "1.4",
-    "Fazenda": "40101"
+    "Fazenda": "40101",
+    "Unnamed: 16": null
   },
   {
     "ID": "3604186",
@@ -10294,7 +10869,8 @@ const PARALELISMO_DATA = [
     "Frente": "139 - FRENTE MANEZÃO",
     "Responsável": "MICHELI DE SOUZA SANTOS  ",
     "Paralelismo": "1.5",
-    "Fazenda": "253801"
+    "Fazenda": "253801",
+    "Unnamed: 16": null
   },
   {
     "ID": "3605105",
@@ -10312,7 +10888,8 @@ const PARALELISMO_DATA = [
     "Frente": "135 - FRENTE PEDRINHO",
     "Responsável": "MARCELO DE OLIVEIRA JUNIOR",
     "Paralelismo": "1.5",
-    "Fazenda": "53201"
+    "Fazenda": "53201",
+    "Unnamed: 16": null
   },
   {
     "ID": "3604890",
@@ -10330,7 +10907,8 @@ const PARALELISMO_DATA = [
     "Frente": "139 - FRENTE MANEZÃO",
     "Responsável": "REGINALDO DA SILVA GOMES ",
     "Paralelismo": "1.5",
-    "Fazenda": "253801"
+    "Fazenda": "253801",
+    "Unnamed: 16": null
   },
   {
     "ID": "3603966",
@@ -10348,7 +10926,8 @@ const PARALELISMO_DATA = [
     "Frente": "261 - FRENTE PRÓPRIA  (EDMILSON)",
     "Responsável": "VITOR AMORIM RAMOS ",
     "Paralelismo": "1.4",
-    "Fazenda": "40101"
+    "Fazenda": "40101",
+    "Unnamed: 16": null
   },
   {
     "ID": "3604182",
@@ -10366,7 +10945,8 @@ const PARALELISMO_DATA = [
     "Frente": "139 - FRENTE MANEZÃO",
     "Responsável": "MICHELI DE SOUZA SANTOS  ",
     "Paralelismo": "1.5",
-    "Fazenda": "253801"
+    "Fazenda": "253801",
+    "Unnamed: 16": null
   },
   {
     "ID": "3595305",
@@ -10384,7 +10964,8 @@ const PARALELISMO_DATA = [
     "Frente": "142 - FRENTE BIDU",
     "Responsável": "Leonardo Ribeiro Teixeira da Silva",
     "Paralelismo": "1.4",
-    "Fazenda": "53201"
+    "Fazenda": "53201",
+    "Unnamed: 16": null
   },
   {
     "ID": "3604175",
@@ -10402,7 +10983,8 @@ const PARALELISMO_DATA = [
     "Frente": "139 - FRENTE MANEZÃO",
     "Responsável": "MICHELI DE SOUZA SANTOS  ",
     "Paralelismo": "1.5",
-    "Fazenda": "253801"
+    "Fazenda": "253801",
+    "Unnamed: 16": null
   },
   {
     "ID": "3604171",
@@ -10420,7 +11002,8 @@ const PARALELISMO_DATA = [
     "Frente": "139 - FRENTE MANEZÃO",
     "Responsável": "MICHELI DE SOUZA SANTOS  ",
     "Paralelismo": "1.5",
-    "Fazenda": "253801"
+    "Fazenda": "253801",
+    "Unnamed: 16": null
   },
   {
     "ID": "3602145",
@@ -10438,7 +11021,8 @@ const PARALELISMO_DATA = [
     "Frente": "101 - FRENTE MECANIZADA",
     "Responsável": "NILDA CLAUDINO [2510716]",
     "Paralelismo": "1.4",
-    "Fazenda": "53201"
+    "Fazenda": "53201",
+    "Unnamed: 16": null
   },
   {
     "ID": "3602362",
@@ -10456,7 +11040,8 @@ const PARALELISMO_DATA = [
     "Frente": "101 - FRENTE MECANIZADA",
     "Responsável": "FERNANDA DE SOUZA ",
     "Paralelismo": "1.4",
-    "Fazenda": "53201"
+    "Fazenda": "53201",
+    "Unnamed: 16": null
   },
   {
     "ID": "3602135",
@@ -10474,7 +11059,8 @@ const PARALELISMO_DATA = [
     "Frente": "101 - FRENTE MECANIZADA",
     "Responsável": "NILDA CLAUDINO [2510716]",
     "Paralelismo": "1.4",
-    "Fazenda": "53201"
+    "Fazenda": "53201",
+    "Unnamed: 16": null
   },
   {
     "ID": "3602129",
@@ -10492,7 +11078,8 @@ const PARALELISMO_DATA = [
     "Frente": "101 - FRENTE MECANIZADA",
     "Responsável": "NILDA CLAUDINO [2510716]",
     "Paralelismo": "1.4",
-    "Fazenda": "53201"
+    "Fazenda": "53201",
+    "Unnamed: 16": null
   },
   {
     "ID": "3601796",
@@ -10510,7 +11097,8 @@ const PARALELISMO_DATA = [
     "Frente": "261 - FRENTE PRÓPRIA  (EDMILSON)",
     "Responsável": "VITOR AMORIM RAMOS ",
     "Paralelismo": "1.4",
-    "Fazenda": "40101"
+    "Fazenda": "40101",
+    "Unnamed: 16": null
   },
   {
     "ID": "3602352",
@@ -10528,7 +11116,8 @@ const PARALELISMO_DATA = [
     "Frente": "101 - FRENTE MECANIZADA",
     "Responsável": "FERNANDA DE SOUZA ",
     "Paralelismo": "1.4",
-    "Fazenda": "53201"
+    "Fazenda": "53201",
+    "Unnamed: 16": null
   },
   {
     "ID": "3601791",
@@ -10546,7 +11135,8 @@ const PARALELISMO_DATA = [
     "Frente": "261 - FRENTE PRÓPRIA  (EDMILSON)",
     "Responsável": "VITOR AMORIM RAMOS ",
     "Paralelismo": "1.4",
-    "Fazenda": "40101"
+    "Fazenda": "40101",
+    "Unnamed: 16": null
   },
   {
     "ID": "3602344",
@@ -10564,7 +11154,8 @@ const PARALELISMO_DATA = [
     "Frente": "101 - FRENTE MECANIZADA",
     "Responsável": "FERNANDA DE SOUZA ",
     "Paralelismo": "1.4",
-    "Fazenda": "53201"
+    "Fazenda": "53201",
+    "Unnamed: 16": null
   },
   {
     "ID": "3602291",
@@ -10582,7 +11173,8 @@ const PARALELISMO_DATA = [
     "Frente": "101 - FRENTE MECANIZADA",
     "Responsável": "NILDA CLAUDINO [2510716]",
     "Paralelismo": "1.4",
-    "Fazenda": "53201"
+    "Fazenda": "53201",
+    "Unnamed: 16": null
   },
   {
     "ID": "3601786",
@@ -10600,7 +11192,8 @@ const PARALELISMO_DATA = [
     "Frente": "261 - FRENTE PRÓPRIA  (EDMILSON)",
     "Responsável": "VITOR AMORIM RAMOS ",
     "Paralelismo": "1.4",
-    "Fazenda": "40101"
+    "Fazenda": "40101",
+    "Unnamed: 16": null
   },
   {
     "ID": "3602498",
@@ -10618,7 +11211,8 @@ const PARALELISMO_DATA = [
     "Frente": "142 - FRENTE BIDU",
     "Responsável": "Leonardo Ribeiro Teixeira da Silva",
     "Paralelismo": "1.5",
-    "Fazenda": "142601"
+    "Fazenda": "142601",
+    "Unnamed: 16": null
   },
   {
     "ID": "3601781",
@@ -10636,7 +11230,8 @@ const PARALELISMO_DATA = [
     "Frente": "261 - FRENTE PRÓPRIA  (EDMILSON)",
     "Responsável": "VITOR AMORIM RAMOS ",
     "Paralelismo": "1.4",
-    "Fazenda": "40101"
+    "Fazenda": "40101",
+    "Unnamed: 16": null
   },
   {
     "ID": "3602121",
@@ -10654,7 +11249,8 @@ const PARALELISMO_DATA = [
     "Frente": "101 - FRENTE MECANIZADA",
     "Responsável": "NILDA CLAUDINO [2510716]",
     "Paralelismo": "1.4",
-    "Fazenda": "53201"
+    "Fazenda": "53201",
+    "Unnamed: 16": null
   },
   {
     "ID": "3602216",
@@ -10672,7 +11268,8 @@ const PARALELISMO_DATA = [
     "Frente": "139 - FRENTE MANEZÃO",
     "Responsável": "MICHELI DE SOUZA SANTOS  ",
     "Paralelismo": "1.5",
-    "Fazenda": "137701"
+    "Fazenda": "137701",
+    "Unnamed: 16": null
   },
   {
     "ID": "3601776",
@@ -10690,7 +11287,8 @@ const PARALELISMO_DATA = [
     "Frente": "261 - FRENTE PRÓPRIA  (EDMILSON)",
     "Responsável": "VITOR AMORIM RAMOS ",
     "Paralelismo": "1.4",
-    "Fazenda": "40101"
+    "Fazenda": "40101",
+    "Unnamed: 16": null
   },
   {
     "ID": "3602494",
@@ -10708,7 +11306,8 @@ const PARALELISMO_DATA = [
     "Frente": "142 - FRENTE BIDU",
     "Responsável": "Leonardo Ribeiro Teixeira da Silva",
     "Paralelismo": "1.5",
-    "Fazenda": "142601"
+    "Fazenda": "142601",
+    "Unnamed: 16": null
   },
   {
     "ID": "3602119",
@@ -10726,7 +11325,8 @@ const PARALELISMO_DATA = [
     "Frente": "101 - FRENTE MECANIZADA",
     "Responsável": "NILDA CLAUDINO [2510716]",
     "Paralelismo": "1.4",
-    "Fazenda": "53201"
+    "Fazenda": "53201",
+    "Unnamed: 16": null
   },
   {
     "ID": "3602211",
@@ -10744,7 +11344,8 @@ const PARALELISMO_DATA = [
     "Frente": "139 - FRENTE MANEZÃO",
     "Responsável": "MICHELI DE SOUZA SANTOS  ",
     "Paralelismo": "1.5",
-    "Fazenda": "137701"
+    "Fazenda": "137701",
+    "Unnamed: 16": null
   },
   {
     "ID": "3602488",
@@ -10762,7 +11363,8 @@ const PARALELISMO_DATA = [
     "Frente": "142 - FRENTE BIDU",
     "Responsável": "Leonardo Ribeiro Teixeira da Silva",
     "Paralelismo": "1.5",
-    "Fazenda": "142601"
+    "Fazenda": "142601",
+    "Unnamed: 16": null
   },
   {
     "ID": "3602203",
@@ -10780,7 +11382,8 @@ const PARALELISMO_DATA = [
     "Frente": "139 - FRENTE MANEZÃO",
     "Responsável": "MICHELI DE SOUZA SANTOS  ",
     "Paralelismo": "1.5",
-    "Fazenda": "137701"
+    "Fazenda": "137701",
+    "Unnamed: 16": null
   },
   {
     "ID": "3602200",
@@ -10798,7 +11401,8 @@ const PARALELISMO_DATA = [
     "Frente": "139 - FRENTE MANEZÃO",
     "Responsável": "MICHELI DE SOUZA SANTOS  ",
     "Paralelismo": "1.5",
-    "Fazenda": "137701"
+    "Fazenda": "137701",
+    "Unnamed: 16": null
   },
   {
     "ID": "3602564",
@@ -10816,7 +11420,8 @@ const PARALELISMO_DATA = [
     "Frente": "105 - FRENTE CASSIO (ZACARIAS)",
     "Responsável": "REGINALDO DA SILVA GOMES ",
     "Paralelismo": "1.4",
-    "Fazenda": "47601"
+    "Fazenda": "47601",
+    "Unnamed: 16": null
   },
   {
     "ID": "3602195",
@@ -10834,7 +11439,8 @@ const PARALELISMO_DATA = [
     "Frente": "139 - FRENTE MANEZÃO",
     "Responsável": "MICHELI DE SOUZA SANTOS  ",
     "Paralelismo": "1.5",
-    "Fazenda": "137701"
+    "Fazenda": "137701",
+    "Unnamed: 16": null
   },
   {
     "ID": "3602188",
@@ -10852,7 +11458,8 @@ const PARALELISMO_DATA = [
     "Frente": "139 - FRENTE MANEZÃO",
     "Responsável": "MICHELI DE SOUZA SANTOS  ",
     "Paralelismo": "1.5",
-    "Fazenda": "137701"
+    "Fazenda": "137701",
+    "Unnamed: 16": null
   },
   {
     "ID": "3602558",
@@ -10870,7 +11477,8 @@ const PARALELISMO_DATA = [
     "Frente": "105 - FRENTE CASSIO (ZACARIAS)",
     "Responsável": "REGINALDO DA SILVA GOMES ",
     "Paralelismo": "1.37",
-    "Fazenda": "47601"
+    "Fazenda": "47601",
+    "Unnamed: 16": null
   },
   {
     "ID": "3602183",
@@ -10888,7 +11496,8 @@ const PARALELISMO_DATA = [
     "Frente": "139 - FRENTE MANEZÃO",
     "Responsável": "MICHELI DE SOUZA SANTOS  ",
     "Paralelismo": "1.5",
-    "Fazenda": "137701"
+    "Fazenda": "137701",
+    "Unnamed: 16": null
   },
   {
     "ID": "3602179",
@@ -10906,7 +11515,8 @@ const PARALELISMO_DATA = [
     "Frente": "139 - FRENTE MANEZÃO",
     "Responsável": "MICHELI DE SOUZA SANTOS  ",
     "Paralelismo": "1.5",
-    "Fazenda": "137701"
+    "Fazenda": "137701",
+    "Unnamed: 16": null
   },
   {
     "ID": "3602554",
@@ -10924,7 +11534,8 @@ const PARALELISMO_DATA = [
     "Frente": "105 - FRENTE CASSIO (ZACARIAS)",
     "Responsável": "REGINALDO DA SILVA GOMES ",
     "Paralelismo": "1.36",
-    "Fazenda": "47601"
+    "Fazenda": "47601",
+    "Unnamed: 16": null
   },
   {
     "ID": "3602173",
@@ -10942,7 +11553,8 @@ const PARALELISMO_DATA = [
     "Frente": "139 - FRENTE MANEZÃO",
     "Responsável": "MICHELI DE SOUZA SANTOS  ",
     "Paralelismo": "1.5",
-    "Fazenda": "137701"
+    "Fazenda": "137701",
+    "Unnamed: 16": null
   },
   {
     "ID": "3602548",
@@ -10960,7 +11572,8 @@ const PARALELISMO_DATA = [
     "Frente": "105 - FRENTE CASSIO (ZACARIAS)",
     "Responsável": "REGINALDO DA SILVA GOMES ",
     "Paralelismo": "1.42",
-    "Fazenda": "47601"
+    "Fazenda": "47601",
+    "Unnamed: 16": null
   },
   {
     "ID": "3602170",
@@ -10978,7 +11591,8 @@ const PARALELISMO_DATA = [
     "Frente": "139 - FRENTE MANEZÃO",
     "Responsável": "MICHELI DE SOUZA SANTOS  ",
     "Paralelismo": "1.5",
-    "Fazenda": "137701"
+    "Fazenda": "137701",
+    "Unnamed: 16": null
   },
   {
     "ID": "3602542",
@@ -10996,7 +11610,8 @@ const PARALELISMO_DATA = [
     "Frente": "105 - FRENTE CASSIO (ZACARIAS)",
     "Responsável": "REGINALDO DA SILVA GOMES ",
     "Paralelismo": "1.4",
-    "Fazenda": "47601"
+    "Fazenda": "47601",
+    "Unnamed: 16": null
   },
   {
     "ID": "3602161",
@@ -11014,7 +11629,8 @@ const PARALELISMO_DATA = [
     "Frente": "139 - FRENTE MANEZÃO",
     "Responsável": "MICHELI DE SOUZA SANTOS  ",
     "Paralelismo": "1.5",
-    "Fazenda": "137701"
+    "Fazenda": "137701",
+    "Unnamed: 16": null
   },
   {
     "ID": "3602109",
@@ -11032,7 +11648,8 @@ const PARALELISMO_DATA = [
     "Frente": "139 - FRENTE MANEZÃO",
     "Responsável": "MICHELI DE SOUZA SANTOS  ",
     "Paralelismo": "1.5",
-    "Fazenda": "137701"
+    "Fazenda": "137701",
+    "Unnamed: 16": null
   },
   {
     "ID": "3601972",
@@ -11050,7 +11667,8 @@ const PARALELISMO_DATA = [
     "Frente": "135 - FRENTE PEDRINHO",
     "Responsável": "MARCELO DE OLIVEIRA JUNIOR",
     "Paralelismo": "1.5",
-    "Fazenda": "255302"
+    "Fazenda": "255302",
+    "Unnamed: 16": null
   },
   {
     "ID": "3602332",
@@ -11068,7 +11686,8 @@ const PARALELISMO_DATA = [
     "Frente": "101 - FRENTE MECANIZADA",
     "Responsável": "FERNANDA DE SOUZA ",
     "Paralelismo": "1.41",
-    "Fazenda": "53201"
+    "Fazenda": "53201",
+    "Unnamed: 16": null
   },
   {
     "ID": "3601965",
@@ -11086,7 +11705,8 @@ const PARALELISMO_DATA = [
     "Frente": "135 - FRENTE PEDRINHO",
     "Responsável": "MARCELO DE OLIVEIRA JUNIOR",
     "Paralelismo": "1.53",
-    "Fazenda": "255302"
+    "Fazenda": "255302",
+    "Unnamed: 16": null
   },
   {
     "ID": "3601920",
@@ -11104,7 +11724,8 @@ const PARALELISMO_DATA = [
     "Frente": "135 - FRENTE PEDRINHO",
     "Responsável": "MARCELO DE OLIVEIRA JUNIOR",
     "Paralelismo": "1.52",
-    "Fazenda": "255302"
+    "Fazenda": "255302",
+    "Unnamed: 16": null
   },
   {
     "ID": "3602324",
@@ -11122,7 +11743,8 @@ const PARALELISMO_DATA = [
     "Frente": "101 - FRENTE MECANIZADA",
     "Responsável": "FERNANDA DE SOUZA ",
     "Paralelismo": "1.4",
-    "Fazenda": "53201"
+    "Fazenda": "53201",
+    "Unnamed: 16": null
   },
   {
     "ID": "3601815",
@@ -11140,7 +11762,8 @@ const PARALELISMO_DATA = [
     "Frente": "135 - FRENTE PEDRINHO",
     "Responsável": "MARCELO DE OLIVEIRA JUNIOR",
     "Paralelismo": "1.52",
-    "Fazenda": "255302"
+    "Fazenda": "255302",
+    "Unnamed: 16": null
   },
   {
     "ID": "3602081",
@@ -11158,7 +11781,8 @@ const PARALELISMO_DATA = [
     "Frente": "135 - FRENTE PEDRINHO",
     "Responsável": "MARCELO DE OLIVEIRA JUNIOR",
     "Paralelismo": "1.5",
-    "Fazenda": "255302"
+    "Fazenda": "255302",
+    "Unnamed: 16": null
   },
   {
     "ID": "3602314",
@@ -11176,7 +11800,8 @@ const PARALELISMO_DATA = [
     "Frente": "101 - FRENTE MECANIZADA",
     "Responsável": "FERNANDA DE SOUZA ",
     "Paralelismo": "1.41",
-    "Fazenda": "53201"
+    "Fazenda": "53201",
+    "Unnamed: 16": null
   },
   {
     "ID": "3601402",
@@ -11194,7 +11819,8 @@ const PARALELISMO_DATA = [
     "Frente": "261 - FRENTE PRÓPRIA  (EDMILSON)",
     "Responsável": "VITOR AMORIM RAMOS ",
     "Paralelismo": "1.4",
-    "Fazenda": "40101"
+    "Fazenda": "40101",
+    "Unnamed: 16": null
   },
   {
     "ID": "3601483",
@@ -11212,7 +11838,8 @@ const PARALELISMO_DATA = [
     "Frente": "101 - FRENTE MECANIZADA",
     "Responsável": "NILDA CLAUDINO [2510716]",
     "Paralelismo": "1.4",
-    "Fazenda": "53201"
+    "Fazenda": "53201",
+    "Unnamed: 16": null
   },
   {
     "ID": "3601397",
@@ -11230,7 +11857,8 @@ const PARALELISMO_DATA = [
     "Frente": "261 - FRENTE PRÓPRIA  (EDMILSON)",
     "Responsável": "VITOR AMORIM RAMOS ",
     "Paralelismo": "1.4",
-    "Fazenda": "40101"
+    "Fazenda": "40101",
+    "Unnamed: 16": null
   },
   {
     "ID": "3602537",
@@ -11248,7 +11876,8 @@ const PARALELISMO_DATA = [
     "Frente": "142 - FRENTE BIDU",
     "Responsável": "REGINALDO DA SILVA GOMES ",
     "Paralelismo": "1.5",
-    "Fazenda": "142601"
+    "Fazenda": "142601",
+    "Unnamed: 16": null
   },
   {
     "ID": "3602303",
@@ -11266,7 +11895,8 @@ const PARALELISMO_DATA = [
     "Frente": "101 - FRENTE MECANIZADA",
     "Responsável": "FERNANDA DE SOUZA ",
     "Paralelismo": "1.4",
-    "Fazenda": "53201"
+    "Fazenda": "53201",
+    "Unnamed: 16": null
   },
   {
     "ID": "3601392",
@@ -11284,7 +11914,8 @@ const PARALELISMO_DATA = [
     "Frente": "261 - FRENTE PRÓPRIA  (EDMILSON)",
     "Responsável": "VITOR AMORIM RAMOS ",
     "Paralelismo": "1.4",
-    "Fazenda": "40101"
+    "Fazenda": "40101",
+    "Unnamed: 16": null
   },
   {
     "ID": "3602480",
@@ -11302,7 +11933,8 @@ const PARALELISMO_DATA = [
     "Frente": "142 - FRENTE BIDU",
     "Responsável": "Leonardo Ribeiro Teixeira da Silva",
     "Paralelismo": "1.5",
-    "Fazenda": "142601"
+    "Fazenda": "142601",
+    "Unnamed: 16": null
   },
   {
     "ID": "3601387",
@@ -11320,7 +11952,8 @@ const PARALELISMO_DATA = [
     "Frente": "261 - FRENTE PRÓPRIA  (EDMILSON)",
     "Responsável": "VITOR AMORIM RAMOS ",
     "Paralelismo": "1.4",
-    "Fazenda": "40101"
+    "Fazenda": "40101",
+    "Unnamed: 16": null
   },
   {
     "ID": "3602532",
@@ -11338,7 +11971,8 @@ const PARALELISMO_DATA = [
     "Frente": "142 - FRENTE BIDU",
     "Responsável": "REGINALDO DA SILVA GOMES ",
     "Paralelismo": "1.5",
-    "Fazenda": "142601"
+    "Fazenda": "142601",
+    "Unnamed: 16": null
   },
   {
     "ID": "3602474",
@@ -11356,7 +11990,8 @@ const PARALELISMO_DATA = [
     "Frente": "142 - FRENTE BIDU",
     "Responsável": "Leonardo Ribeiro Teixeira da Silva",
     "Paralelismo": "1.5",
-    "Fazenda": "142601"
+    "Fazenda": "142601",
+    "Unnamed: 16": null
   },
   {
     "ID": "3602527",
@@ -11374,7 +12009,8 @@ const PARALELISMO_DATA = [
     "Frente": "142 - FRENTE BIDU",
     "Responsável": "REGINALDO DA SILVA GOMES ",
     "Paralelismo": "1.5",
-    "Fazenda": "142601"
+    "Fazenda": "142601",
+    "Unnamed: 16": null
   },
   {
     "ID": "3601381",
@@ -11392,7 +12028,8 @@ const PARALELISMO_DATA = [
     "Frente": "261 - FRENTE PRÓPRIA  (EDMILSON)",
     "Responsável": "VITOR AMORIM RAMOS ",
     "Paralelismo": "1.4",
-    "Fazenda": "40101"
+    "Fazenda": "40101",
+    "Unnamed: 16": null
   },
   {
     "ID": "3602469",
@@ -11410,7 +12047,8 @@ const PARALELISMO_DATA = [
     "Frente": "142 - FRENTE BIDU",
     "Responsável": "Leonardo Ribeiro Teixeira da Silva",
     "Paralelismo": "1.5",
-    "Fazenda": "142601"
+    "Fazenda": "142601",
+    "Unnamed: 16": null
   },
   {
     "ID": "3601376",
@@ -11428,7 +12066,8 @@ const PARALELISMO_DATA = [
     "Frente": "261 - FRENTE PRÓPRIA  (EDMILSON)",
     "Responsável": "VITOR AMORIM RAMOS ",
     "Paralelismo": "1.4",
-    "Fazenda": "40101"
+    "Fazenda": "40101",
+    "Unnamed: 16": null
   },
   {
     "ID": "3602522",
@@ -11446,7 +12085,8 @@ const PARALELISMO_DATA = [
     "Frente": "142 - FRENTE BIDU",
     "Responsável": "REGINALDO DA SILVA GOMES ",
     "Paralelismo": "1.52",
-    "Fazenda": "142601"
+    "Fazenda": "142601",
+    "Unnamed: 16": null
   },
   {
     "ID": "3602464",
@@ -11464,7 +12104,8 @@ const PARALELISMO_DATA = [
     "Frente": "142 - FRENTE BIDU",
     "Responsável": "Leonardo Ribeiro Teixeira da Silva",
     "Paralelismo": "1.5",
-    "Fazenda": "142601"
+    "Fazenda": "142601",
+    "Unnamed: 16": null
   },
   {
     "ID": "3602517",
@@ -11482,7 +12123,8 @@ const PARALELISMO_DATA = [
     "Frente": "142 - FRENTE BIDU",
     "Responsável": "REGINALDO DA SILVA GOMES ",
     "Paralelismo": "1.5",
-    "Fazenda": "142601"
+    "Fazenda": "142601",
+    "Unnamed: 16": null
   },
   {
     "ID": "3602459",
@@ -11500,7 +12142,8 @@ const PARALELISMO_DATA = [
     "Frente": "142 - FRENTE BIDU",
     "Responsável": "Leonardo Ribeiro Teixeira da Silva",
     "Paralelismo": "1.5",
-    "Fazenda": "142601"
+    "Fazenda": "142601",
+    "Unnamed: 16": null
   },
   {
     "ID": "3601474",
@@ -11518,7 +12161,8 @@ const PARALELISMO_DATA = [
     "Frente": "101 - FRENTE MECANIZADA",
     "Responsável": "NILDA CLAUDINO [2510716]",
     "Paralelismo": "1.4",
-    "Fazenda": "53201"
+    "Fazenda": "53201",
+    "Unnamed: 16": null
   },
   {
     "ID": "3601468",
@@ -11536,7 +12180,8 @@ const PARALELISMO_DATA = [
     "Frente": "101 - FRENTE MECANIZADA",
     "Responsável": "NILDA CLAUDINO [2510716]",
     "Paralelismo": "1.4",
-    "Fazenda": "53201"
+    "Fazenda": "53201",
+    "Unnamed: 16": null
   },
   {
     "ID": "3601370",
@@ -11554,7 +12199,8 @@ const PARALELISMO_DATA = [
     "Frente": "261 - FRENTE PRÓPRIA  (EDMILSON)",
     "Responsável": "VITOR AMORIM RAMOS ",
     "Paralelismo": "1.4",
-    "Fazenda": "40101"
+    "Fazenda": "40101",
+    "Unnamed: 16": null
   },
   {
     "ID": "3601462",
@@ -11572,7 +12218,8 @@ const PARALELISMO_DATA = [
     "Frente": "101 - FRENTE MECANIZADA",
     "Responsável": "NILDA CLAUDINO [2510716]",
     "Paralelismo": "1.4",
-    "Fazenda": "53201"
+    "Fazenda": "53201",
+    "Unnamed: 16": null
   },
   {
     "ID": "3601364",
@@ -11590,7 +12237,8 @@ const PARALELISMO_DATA = [
     "Frente": "261 - FRENTE PRÓPRIA  (EDMILSON)",
     "Responsável": "VITOR AMORIM RAMOS ",
     "Paralelismo": "1.4",
-    "Fazenda": "40101"
+    "Fazenda": "40101",
+    "Unnamed: 16": null
   },
   {
     "ID": "3601359",
@@ -11608,7 +12256,8 @@ const PARALELISMO_DATA = [
     "Frente": "261 - FRENTE PRÓPRIA  (EDMILSON)",
     "Responsável": "VITOR AMORIM RAMOS ",
     "Paralelismo": "1.4",
-    "Fazenda": "40101"
+    "Fazenda": "40101",
+    "Unnamed: 16": null
   },
   {
     "ID": "3601355",
@@ -11626,7 +12275,8 @@ const PARALELISMO_DATA = [
     "Frente": "261 - FRENTE PRÓPRIA  (EDMILSON)",
     "Responsável": "VITOR AMORIM RAMOS ",
     "Paralelismo": "1.4",
-    "Fazenda": "40101"
+    "Fazenda": "40101",
+    "Unnamed: 16": null
   },
   {
     "ID": "3601350",
@@ -11644,7 +12294,8 @@ const PARALELISMO_DATA = [
     "Frente": "261 - FRENTE PRÓPRIA  (EDMILSON)",
     "Responsável": "VITOR AMORIM RAMOS ",
     "Paralelismo": "1.4",
-    "Fazenda": "40101"
+    "Fazenda": "40101",
+    "Unnamed: 16": null
   },
   {
     "ID": "3599590",
@@ -11662,7 +12313,8 @@ const PARALELISMO_DATA = [
     "Frente": "139 - FRENTE MANEZÃO",
     "Responsável": "MICHELI DE SOUZA SANTOS  ",
     "Paralelismo": "1.5",
-    "Fazenda": "137701"
+    "Fazenda": "137701",
+    "Unnamed: 16": null
   },
   {
     "ID": "3599583",
@@ -11680,7 +12332,8 @@ const PARALELISMO_DATA = [
     "Frente": "139 - FRENTE MANEZÃO",
     "Responsável": "MICHELI DE SOUZA SANTOS  ",
     "Paralelismo": "1.5",
-    "Fazenda": "137701"
+    "Fazenda": "137701",
+    "Unnamed: 16": null
   },
   {
     "ID": "3599578",
@@ -11698,7 +12351,8 @@ const PARALELISMO_DATA = [
     "Frente": "139 - FRENTE MANEZÃO",
     "Responsável": "MICHELI DE SOUZA SANTOS  ",
     "Paralelismo": "1.5",
-    "Fazenda": "137701"
+    "Fazenda": "137701",
+    "Unnamed: 16": null
   },
   {
     "ID": "3599573",
@@ -11716,7 +12370,8 @@ const PARALELISMO_DATA = [
     "Frente": "139 - FRENTE MANEZÃO",
     "Responsável": "MICHELI DE SOUZA SANTOS  ",
     "Paralelismo": "1.5",
-    "Fazenda": "137701"
+    "Fazenda": "137701",
+    "Unnamed: 16": null
   },
   {
     "ID": "3599568",
@@ -11734,7 +12389,8 @@ const PARALELISMO_DATA = [
     "Frente": "139 - FRENTE MANEZÃO",
     "Responsável": "MICHELI DE SOUZA SANTOS  ",
     "Paralelismo": "1.5",
-    "Fazenda": "137701"
+    "Fazenda": "137701",
+    "Unnamed: 16": null
   },
   {
     "ID": "3600529",
@@ -11752,7 +12408,8 @@ const PARALELISMO_DATA = [
     "Frente": "142 - FRENTE BIDU",
     "Responsável": "Leonardo Ribeiro Teixeira da Silva",
     "Paralelismo": "1.5",
-    "Fazenda": "142601"
+    "Fazenda": "142601",
+    "Unnamed: 16": null
   },
   {
     "ID": "3599563",
@@ -11770,7 +12427,8 @@ const PARALELISMO_DATA = [
     "Frente": "139 - FRENTE MANEZÃO",
     "Responsável": "MICHELI DE SOUZA SANTOS  ",
     "Paralelismo": "1.5",
-    "Fazenda": "137701"
+    "Fazenda": "137701",
+    "Unnamed: 16": null
   },
   {
     "ID": "3599415",
@@ -11788,7 +12446,8 @@ const PARALELISMO_DATA = [
     "Frente": "261 - FRENTE PRÓPRIA  (EDMILSON)",
     "Responsável": "REGINALDO DA SILVA GOMES ",
     "Paralelismo": "1.4",
-    "Fazenda": "40101"
+    "Fazenda": "40101",
+    "Unnamed: 16": null
   },
   {
     "ID": "3600528",
@@ -11806,7 +12465,8 @@ const PARALELISMO_DATA = [
     "Frente": "142 - FRENTE BIDU",
     "Responsável": "Leonardo Ribeiro Teixeira da Silva",
     "Paralelismo": "1.5",
-    "Fazenda": "142601"
+    "Fazenda": "142601",
+    "Unnamed: 16": null
   },
   {
     "ID": "3599558",
@@ -11824,7 +12484,8 @@ const PARALELISMO_DATA = [
     "Frente": "139 - FRENTE MANEZÃO",
     "Responsável": "MICHELI DE SOUZA SANTOS  ",
     "Paralelismo": "1.5",
-    "Fazenda": "137701"
+    "Fazenda": "137701",
+    "Unnamed: 16": null
   },
   {
     "ID": "3600527",
@@ -11842,7 +12503,8 @@ const PARALELISMO_DATA = [
     "Frente": "142 - FRENTE BIDU",
     "Responsável": "Leonardo Ribeiro Teixeira da Silva",
     "Paralelismo": "1.5",
-    "Fazenda": "142601"
+    "Fazenda": "142601",
+    "Unnamed: 16": null
   },
   {
     "ID": "3599410",
@@ -11860,7 +12522,8 @@ const PARALELISMO_DATA = [
     "Frente": "261 - FRENTE PRÓPRIA  (EDMILSON)",
     "Responsável": "REGINALDO DA SILVA GOMES ",
     "Paralelismo": "1.42",
-    "Fazenda": "40101"
+    "Fazenda": "40101",
+    "Unnamed: 16": null
   },
   {
     "ID": "3599553",
@@ -11878,7 +12541,8 @@ const PARALELISMO_DATA = [
     "Frente": "139 - FRENTE MANEZÃO",
     "Responsável": "MICHELI DE SOUZA SANTOS  ",
     "Paralelismo": "1.5",
-    "Fazenda": "137701"
+    "Fazenda": "137701",
+    "Unnamed: 16": null
   },
   {
     "ID": "3599392",
@@ -11896,7 +12560,8 @@ const PARALELISMO_DATA = [
     "Frente": "261 - FRENTE PRÓPRIA  (EDMILSON)",
     "Responsável": "REGINALDO DA SILVA GOMES ",
     "Paralelismo": "1.37",
-    "Fazenda": "40101"
+    "Fazenda": "40101",
+    "Unnamed: 16": null
   },
   {
     "ID": "3599384",
@@ -11914,7 +12579,8 @@ const PARALELISMO_DATA = [
     "Frente": "261 - FRENTE PRÓPRIA  (EDMILSON)",
     "Responsável": "REGINALDO DA SILVA GOMES ",
     "Paralelismo": "1.4",
-    "Fazenda": "40101"
+    "Fazenda": "40101",
+    "Unnamed: 16": null
   },
   {
     "ID": "3599379",
@@ -11932,7 +12598,8 @@ const PARALELISMO_DATA = [
     "Frente": "261 - FRENTE PRÓPRIA  (EDMILSON)",
     "Responsável": "REGINALDO DA SILVA GOMES ",
     "Paralelismo": "1.44",
-    "Fazenda": "40101"
+    "Fazenda": "40101",
+    "Unnamed: 16": null
   },
   {
     "ID": "3599123",
@@ -11950,7 +12617,8 @@ const PARALELISMO_DATA = [
     "Frente": "101 - FRENTE MECANIZADA",
     "Responsável": "NILDA CLAUDINO [2510716]",
     "Paralelismo": "1.4",
-    "Fazenda": "53201"
+    "Fazenda": "53201",
+    "Unnamed: 16": null
   },
   {
     "ID": "3599118",
@@ -11968,7 +12636,8 @@ const PARALELISMO_DATA = [
     "Frente": "101 - FRENTE MECANIZADA",
     "Responsável": "NILDA CLAUDINO [2510716]",
     "Paralelismo": "1.4",
-    "Fazenda": "53201"
+    "Fazenda": "53201",
+    "Unnamed: 16": null
   },
   {
     "ID": "3599538",
@@ -11986,7 +12655,8 @@ const PARALELISMO_DATA = [
     "Frente": "139 - FRENTE MANEZÃO",
     "Responsável": "MICHELI DE SOUZA SANTOS  ",
     "Paralelismo": "1.5",
-    "Fazenda": "137701"
+    "Fazenda": "137701",
+    "Unnamed: 16": null
   },
   {
     "ID": "3599114",
@@ -12004,7 +12674,8 @@ const PARALELISMO_DATA = [
     "Frente": "101 - FRENTE MECANIZADA",
     "Responsável": "NILDA CLAUDINO [2510716]",
     "Paralelismo": "1.4",
-    "Fazenda": "53201"
+    "Fazenda": "53201",
+    "Unnamed: 16": null
   },
   {
     "ID": "3600508",
@@ -12022,7 +12693,8 @@ const PARALELISMO_DATA = [
     "Frente": "135 - FRENTE PEDRINHO",
     "Responsável": "MARCELO DE OLIVEIRA JUNIOR",
     "Paralelismo": "1.55",
-    "Fazenda": "53201"
+    "Fazenda": "53201",
+    "Unnamed: 16": null
   },
   {
     "ID": "3599531",
@@ -12040,7 +12712,8 @@ const PARALELISMO_DATA = [
     "Frente": "139 - FRENTE MANEZÃO",
     "Responsável": "MICHELI DE SOUZA SANTOS  ",
     "Paralelismo": "1.5",
-    "Fazenda": "137701"
+    "Fazenda": "137701",
+    "Unnamed: 16": null
   },
   {
     "ID": "3599153",
@@ -12058,7 +12731,8 @@ const PARALELISMO_DATA = [
     "Frente": "261 - FRENTE PRÓPRIA  (EDMILSON)",
     "Responsável": "VITOR AMORIM RAMOS ",
     "Paralelismo": "1.4",
-    "Fazenda": "40101"
+    "Fazenda": "40101",
+    "Unnamed: 16": null
   },
   {
     "ID": "3599110",
@@ -12076,7 +12750,8 @@ const PARALELISMO_DATA = [
     "Frente": "101 - FRENTE MECANIZADA",
     "Responsável": "NILDA CLAUDINO [2510716]",
     "Paralelismo": "1.4",
-    "Fazenda": "53201"
+    "Fazenda": "53201",
+    "Unnamed: 16": null
   },
   {
     "ID": "3600502",
@@ -12094,7 +12769,8 @@ const PARALELISMO_DATA = [
     "Frente": "135 - FRENTE PEDRINHO",
     "Responsável": "MARCELO DE OLIVEIRA JUNIOR",
     "Paralelismo": "1.55",
-    "Fazenda": "53201"
+    "Fazenda": "53201",
+    "Unnamed: 16": null
   },
   {
     "ID": "3599526",
@@ -12112,7 +12788,8 @@ const PARALELISMO_DATA = [
     "Frente": "139 - FRENTE MANEZÃO",
     "Responsável": "MICHELI DE SOUZA SANTOS  ",
     "Paralelismo": "1.5",
-    "Fazenda": "137701"
+    "Fazenda": "137701",
+    "Unnamed: 16": null
   },
   {
     "ID": "3599148",
@@ -12130,7 +12807,8 @@ const PARALELISMO_DATA = [
     "Frente": "261 - FRENTE PRÓPRIA  (EDMILSON)",
     "Responsável": "VITOR AMORIM RAMOS ",
     "Paralelismo": "1.4",
-    "Fazenda": "40101"
+    "Fazenda": "40101",
+    "Unnamed: 16": null
   },
   {
     "ID": "3599520",
@@ -12148,7 +12826,8 @@ const PARALELISMO_DATA = [
     "Frente": "139 - FRENTE MANEZÃO",
     "Responsável": "MICHELI DE SOUZA SANTOS  ",
     "Paralelismo": "1.5",
-    "Fazenda": "137701"
+    "Fazenda": "137701",
+    "Unnamed: 16": null
   },
   {
     "ID": "3599143",
@@ -12166,7 +12845,8 @@ const PARALELISMO_DATA = [
     "Frente": "261 - FRENTE PRÓPRIA  (EDMILSON)",
     "Responsável": "VITOR AMORIM RAMOS ",
     "Paralelismo": "1.4",
-    "Fazenda": "40101"
+    "Fazenda": "40101",
+    "Unnamed: 16": null
   },
   {
     "ID": "3599516",
@@ -12184,7 +12864,8 @@ const PARALELISMO_DATA = [
     "Frente": "139 - FRENTE MANEZÃO",
     "Responsável": "MICHELI DE SOUZA SANTOS  ",
     "Paralelismo": "1.5",
-    "Fazenda": "137701"
+    "Fazenda": "137701",
+    "Unnamed: 16": null
   },
   {
     "ID": "3599138",
@@ -12202,7 +12883,8 @@ const PARALELISMO_DATA = [
     "Frente": "261 - FRENTE PRÓPRIA  (EDMILSON)",
     "Responsável": "VITOR AMORIM RAMOS ",
     "Paralelismo": "1.4",
-    "Fazenda": "40101"
+    "Fazenda": "40101",
+    "Unnamed: 16": null
   },
   {
     "ID": "3599285",
@@ -12220,7 +12902,8 @@ const PARALELISMO_DATA = [
     "Frente": "105 - FRENTE CASSIO (ZACARIAS)",
     "Responsável": "GABRIEL HENRIQUE MARTINS PEREIRA",
     "Paralelismo": "1.4",
-    "Fazenda": "47601"
+    "Fazenda": "47601",
+    "Unnamed: 16": null
   },
   {
     "ID": "3599280",
@@ -12238,7 +12921,8 @@ const PARALELISMO_DATA = [
     "Frente": "105 - FRENTE CASSIO (ZACARIAS)",
     "Responsável": "GABRIEL HENRIQUE MARTINS PEREIRA",
     "Paralelismo": "1.4",
-    "Fazenda": "47601"
+    "Fazenda": "47601",
+    "Unnamed: 16": null
   },
   {
     "ID": "3599275",
@@ -12256,7 +12940,8 @@ const PARALELISMO_DATA = [
     "Frente": "105 - FRENTE CASSIO (ZACARIAS)",
     "Responsável": "GABRIEL HENRIQUE MARTINS PEREIRA",
     "Paralelismo": "1.4",
-    "Fazenda": "47601"
+    "Fazenda": "47601",
+    "Unnamed: 16": null
   },
   {
     "ID": "3599354",
@@ -12274,7 +12959,8 @@ const PARALELISMO_DATA = [
     "Frente": "135 - FRENTE PEDRINHO",
     "Responsável": "REGINALDO DA SILVA GOMES ",
     "Paralelismo": "1.5",
-    "Fazenda": "255302"
+    "Fazenda": "255302",
+    "Unnamed: 16": null
   },
   {
     "ID": "3600497",
@@ -12292,7 +12978,8 @@ const PARALELISMO_DATA = [
     "Frente": "135 - FRENTE PEDRINHO",
     "Responsável": "MARCELO DE OLIVEIRA JUNIOR",
     "Paralelismo": "1.54",
-    "Fazenda": "53201"
+    "Fazenda": "53201",
+    "Unnamed: 16": null
   },
   {
     "ID": "3599350",
@@ -12310,7 +12997,8 @@ const PARALELISMO_DATA = [
     "Frente": "135 - FRENTE PEDRINHO",
     "Responsável": "REGINALDO DA SILVA GOMES ",
     "Paralelismo": "1.47",
-    "Fazenda": "255302"
+    "Fazenda": "255302",
+    "Unnamed: 16": null
   },
   {
     "ID": "3599268",
@@ -12328,7 +13016,8 @@ const PARALELISMO_DATA = [
     "Frente": "105 - FRENTE CASSIO (ZACARIAS)",
     "Responsável": "GABRIEL HENRIQUE MARTINS PEREIRA",
     "Paralelismo": "1.4",
-    "Fazenda": "47601"
+    "Fazenda": "47601",
+    "Unnamed: 16": null
   },
   {
     "ID": "3600495",
@@ -12346,7 +13035,8 @@ const PARALELISMO_DATA = [
     "Frente": "135 - FRENTE PEDRINHO",
     "Responsável": "MARCELO DE OLIVEIRA JUNIOR",
     "Paralelismo": "1.55",
-    "Fazenda": "53201"
+    "Fazenda": "53201",
+    "Unnamed: 16": null
   },
   {
     "ID": "3599097",
@@ -12364,7 +13054,8 @@ const PARALELISMO_DATA = [
     "Frente": "101 - FRENTE MECANIZADA",
     "Responsável": "NILDA CLAUDINO [2510716]",
     "Paralelismo": "1.4",
-    "Fazenda": "53201"
+    "Fazenda": "53201",
+    "Unnamed: 16": null
   },
   {
     "ID": "3599263",
@@ -12382,7 +13073,8 @@ const PARALELISMO_DATA = [
     "Frente": "105 - FRENTE CASSIO (ZACARIAS)",
     "Responsável": "GABRIEL HENRIQUE MARTINS PEREIRA",
     "Paralelismo": "1.4",
-    "Fazenda": "47601"
+    "Fazenda": "47601",
+    "Unnamed: 16": null
   },
   {
     "ID": "3599341",
@@ -12400,7 +13092,8 @@ const PARALELISMO_DATA = [
     "Frente": "135 - FRENTE PEDRINHO",
     "Responsável": "REGINALDO DA SILVA GOMES ",
     "Paralelismo": "1.5",
-    "Fazenda": "255302"
+    "Fazenda": "255302",
+    "Unnamed: 16": null
   },
   {
     "ID": "3599093",
@@ -12418,7 +13111,8 @@ const PARALELISMO_DATA = [
     "Frente": "101 - FRENTE MECANIZADA",
     "Responsável": "NILDA CLAUDINO [2510716]",
     "Paralelismo": "1.4",
-    "Fazenda": "53201"
+    "Fazenda": "53201",
+    "Unnamed: 16": null
   },
   {
     "ID": "3600487",
@@ -12436,7 +13130,8 @@ const PARALELISMO_DATA = [
     "Frente": "135 - FRENTE PEDRINHO",
     "Responsável": "MARCELO DE OLIVEIRA JUNIOR",
     "Paralelismo": "1.48",
-    "Fazenda": "53201"
+    "Fazenda": "53201",
+    "Unnamed: 16": null
   },
   {
     "ID": "3599089",
@@ -12454,7 +13149,8 @@ const PARALELISMO_DATA = [
     "Frente": "101 - FRENTE MECANIZADA",
     "Responsável": "NILDA CLAUDINO [2510716]",
     "Paralelismo": "1.4",
-    "Fazenda": "53201"
+    "Fazenda": "53201",
+    "Unnamed: 16": null
   },
   {
     "ID": "3599336",
@@ -12472,7 +13168,8 @@ const PARALELISMO_DATA = [
     "Frente": "135 - FRENTE PEDRINHO",
     "Responsável": "REGINALDO DA SILVA GOMES ",
     "Paralelismo": "1.48",
-    "Fazenda": "255302"
+    "Fazenda": "255302",
+    "Unnamed: 16": null
   },
   {
     "ID": "3599258",
@@ -12490,7 +13187,8 @@ const PARALELISMO_DATA = [
     "Frente": "105 - FRENTE CASSIO (ZACARIAS)",
     "Responsável": "GABRIEL HENRIQUE MARTINS PEREIRA",
     "Paralelismo": "1.4",
-    "Fazenda": "47601"
+    "Fazenda": "47601",
+    "Unnamed: 16": null
   },
   {
     "ID": "3599253",
@@ -12508,7 +13206,8 @@ const PARALELISMO_DATA = [
     "Frente": "105 - FRENTE CASSIO (ZACARIAS)",
     "Responsável": "GABRIEL HENRIQUE MARTINS PEREIRA",
     "Paralelismo": "1.4",
-    "Fazenda": "47601"
+    "Fazenda": "47601",
+    "Unnamed: 16": null
   },
   {
     "ID": "3599331",
@@ -12526,7 +13225,8 @@ const PARALELISMO_DATA = [
     "Frente": "135 - FRENTE PEDRINHO",
     "Responsável": "REGINALDO DA SILVA GOMES ",
     "Paralelismo": "1.5",
-    "Fazenda": "255302"
+    "Fazenda": "255302",
+    "Unnamed: 16": null
   },
   {
     "ID": "3599136",
@@ -12544,7 +13244,8 @@ const PARALELISMO_DATA = [
     "Frente": "101 - FRENTE MECANIZADA",
     "Responsável": "NILDA CLAUDINO [2510716]",
     "Paralelismo": "1.4",
-    "Fazenda": "53201"
+    "Fazenda": "53201",
+    "Unnamed: 16": null
   },
   {
     "ID": "3598748",
@@ -12562,7 +13263,8 @@ const PARALELISMO_DATA = [
     "Frente": "261 - FRENTE PRÓPRIA  (EDMILSON)",
     "Responsável": "VITOR AMORIM RAMOS ",
     "Paralelismo": "1.4",
-    "Fazenda": "40101"
+    "Fazenda": "40101",
+    "Unnamed: 16": null
   },
   {
     "ID": "3599059",
@@ -12580,7 +13282,8 @@ const PARALELISMO_DATA = [
     "Frente": "101 - FRENTE MECANIZADA",
     "Responsável": "NILDA CLAUDINO [2510716]",
     "Paralelismo": "1.4",
-    "Fazenda": "53201"
+    "Fazenda": "53201",
+    "Unnamed: 16": null
   },
   {
     "ID": "3598743",
@@ -12598,7 +13301,8 @@ const PARALELISMO_DATA = [
     "Frente": "261 - FRENTE PRÓPRIA  (EDMILSON)",
     "Responsável": "VITOR AMORIM RAMOS ",
     "Paralelismo": "1.4",
-    "Fazenda": "40101"
+    "Fazenda": "40101",
+    "Unnamed: 16": null
   },
   {
     "ID": "3599036",
@@ -12616,7 +13320,8 @@ const PARALELISMO_DATA = [
     "Frente": "101 - FRENTE MECANIZADA",
     "Responsável": "NILDA CLAUDINO [2510716]",
     "Paralelismo": "1.4",
-    "Fazenda": "53201"
+    "Fazenda": "53201",
+    "Unnamed: 16": null
   },
   {
     "ID": "3598738",
@@ -12634,7 +13339,8 @@ const PARALELISMO_DATA = [
     "Frente": "261 - FRENTE PRÓPRIA  (EDMILSON)",
     "Responsável": "VITOR AMORIM RAMOS ",
     "Paralelismo": "1.4",
-    "Fazenda": "40101"
+    "Fazenda": "40101",
+    "Unnamed: 16": null
   },
   {
     "ID": "3599499",
@@ -12652,7 +13358,8 @@ const PARALELISMO_DATA = [
     "Frente": "139 - FRENTE MANEZÃO",
     "Responsável": "MICHELI DE SOUZA SANTOS  ",
     "Paralelismo": "1.5",
-    "Fazenda": "137701"
+    "Fazenda": "137701",
+    "Unnamed: 16": null
   },
   {
     "ID": "3599494",
@@ -12670,7 +13377,8 @@ const PARALELISMO_DATA = [
     "Frente": "139 - FRENTE MANEZÃO",
     "Responsável": "MICHELI DE SOUZA SANTOS  ",
     "Paralelismo": "1.48",
-    "Fazenda": "137701"
+    "Fazenda": "137701",
+    "Unnamed: 16": null
   },
   {
     "ID": "3598731",
@@ -12688,7 +13396,8 @@ const PARALELISMO_DATA = [
     "Frente": "261 - FRENTE PRÓPRIA  (EDMILSON)",
     "Responsável": "VITOR AMORIM RAMOS ",
     "Paralelismo": "1.4",
-    "Fazenda": "40101"
+    "Fazenda": "40101",
+    "Unnamed: 16": null
   },
   {
     "ID": "3599315",
@@ -12706,7 +13415,8 @@ const PARALELISMO_DATA = [
     "Frente": "139 - FRENTE MANEZÃO",
     "Responsável": "MICHELI DE SOUZA SANTOS  ",
     "Paralelismo": "1.51",
-    "Fazenda": "137701"
+    "Fazenda": "137701",
+    "Unnamed: 16": null
   },
   {
     "ID": "3598726",
@@ -12724,7 +13434,8 @@ const PARALELISMO_DATA = [
     "Frente": "261 - FRENTE PRÓPRIA  (EDMILSON)",
     "Responsável": "VITOR AMORIM RAMOS ",
     "Paralelismo": "1.4",
-    "Fazenda": "40101"
+    "Fazenda": "40101",
+    "Unnamed: 16": null
   },
   {
     "ID": "3599310",
@@ -12742,7 +13453,8 @@ const PARALELISMO_DATA = [
     "Frente": "139 - FRENTE MANEZÃO",
     "Responsável": "MICHELI DE SOUZA SANTOS  ",
     "Paralelismo": "1.5",
-    "Fazenda": "137701"
+    "Fazenda": "137701",
+    "Unnamed: 16": null
   },
   {
     "ID": "3598719",
@@ -12760,7 +13472,8 @@ const PARALELISMO_DATA = [
     "Frente": "261 - FRENTE PRÓPRIA  (EDMILSON)",
     "Responsável": "VITOR AMORIM RAMOS ",
     "Paralelismo": "1.4",
-    "Fazenda": "40101"
+    "Fazenda": "40101",
+    "Unnamed: 16": null
   },
   {
     "ID": "3599784",
@@ -12778,7 +13491,8 @@ const PARALELISMO_DATA = [
     "Frente": "101 - FRENTE MECANIZADA",
     "Responsável": "FERNANDA DE SOUZA ",
     "Paralelismo": "1.4",
-    "Fazenda": "53201"
+    "Fazenda": "53201",
+    "Unnamed: 16": null
   },
   {
     "ID": "3599303",
@@ -12796,7 +13510,8 @@ const PARALELISMO_DATA = [
     "Frente": "139 - FRENTE MANEZÃO",
     "Responsável": "MICHELI DE SOUZA SANTOS  ",
     "Paralelismo": "1.5",
-    "Fazenda": "137701"
+    "Fazenda": "137701",
+    "Unnamed: 16": null
   },
   {
     "ID": "3598714",
@@ -12814,7 +13529,8 @@ const PARALELISMO_DATA = [
     "Frente": "261 - FRENTE PRÓPRIA  (EDMILSON)",
     "Responsável": "VITOR AMORIM RAMOS ",
     "Paralelismo": "1.4",
-    "Fazenda": "40101"
+    "Fazenda": "40101",
+    "Unnamed: 16": null
   },
   {
     "ID": "3598709",
@@ -12832,7 +13548,8 @@ const PARALELISMO_DATA = [
     "Frente": "261 - FRENTE PRÓPRIA  (EDMILSON)",
     "Responsável": "VITOR AMORIM RAMOS ",
     "Paralelismo": "1.4",
-    "Fazenda": "40101"
+    "Fazenda": "40101",
+    "Unnamed: 16": null
   },
   {
     "ID": "3598703",
@@ -12850,7 +13567,8 @@ const PARALELISMO_DATA = [
     "Frente": "261 - FRENTE PRÓPRIA  (EDMILSON)",
     "Responsável": "VITOR AMORIM RAMOS ",
     "Paralelismo": "1.4",
-    "Fazenda": "40101"
+    "Fazenda": "40101",
+    "Unnamed: 16": null
   },
   {
     "ID": "3598698",
@@ -12868,7 +13586,8 @@ const PARALELISMO_DATA = [
     "Frente": "261 - FRENTE PRÓPRIA  (EDMILSON)",
     "Responsável": "VITOR AMORIM RAMOS ",
     "Paralelismo": "1.4",
-    "Fazenda": "40101"
+    "Fazenda": "40101",
+    "Unnamed: 16": null
   },
   {
     "ID": "3596352",
@@ -12886,7 +13605,8 @@ const PARALELISMO_DATA = [
     "Frente": "101 - FRENTE MECANIZADA",
     "Responsável": "FERNANDA DE SOUZA ",
     "Paralelismo": "1.4",
-    "Fazenda": "53201"
+    "Fazenda": "53201",
+    "Unnamed: 16": null
   },
   {
     "ID": "3596351",
@@ -12904,7 +13624,8 @@ const PARALELISMO_DATA = [
     "Frente": "101 - FRENTE MECANIZADA",
     "Responsável": "FERNANDA DE SOUZA ",
     "Paralelismo": "1.41",
-    "Fazenda": "53201"
+    "Fazenda": "53201",
+    "Unnamed: 16": null
   },
   {
     "ID": "3596350",
@@ -12922,7 +13643,8 @@ const PARALELISMO_DATA = [
     "Frente": "101 - FRENTE MECANIZADA",
     "Responsável": "FERNANDA DE SOUZA ",
     "Paralelismo": "1.4",
-    "Fazenda": "53201"
+    "Fazenda": "53201",
+    "Unnamed: 16": null
   },
   {
     "ID": "3596349",
@@ -12940,7 +13662,8 @@ const PARALELISMO_DATA = [
     "Frente": "101 - FRENTE MECANIZADA",
     "Responsável": "FERNANDA DE SOUZA ",
     "Paralelismo": "1.4",
-    "Fazenda": "53201"
+    "Fazenda": "53201",
+    "Unnamed: 16": null
   },
   {
     "ID": "3596379",
@@ -12958,7 +13681,8 @@ const PARALELISMO_DATA = [
     "Frente": "142 - FRENTE BIDU",
     "Responsável": "Leonardo Ribeiro Teixeira da Silva",
     "Paralelismo": "1.4",
-    "Fazenda": "53201"
+    "Fazenda": "53201",
+    "Unnamed: 16": null
   },
   {
     "ID": "3596528",
@@ -12976,7 +13700,8 @@ const PARALELISMO_DATA = [
     "Frente": "261 - FRENTE PRÓPRIA  (EDMILSON)",
     "Responsável": "VITOR AMORIM RAMOS ",
     "Paralelismo": "1.4",
-    "Fazenda": "40101"
+    "Fazenda": "40101",
+    "Unnamed: 16": null
   },
   {
     "ID": "3596524",
@@ -12994,7 +13719,8 @@ const PARALELISMO_DATA = [
     "Frente": "261 - FRENTE PRÓPRIA  (EDMILSON)",
     "Responsável": "VITOR AMORIM RAMOS ",
     "Paralelismo": "1.4",
-    "Fazenda": "40101"
+    "Fazenda": "40101",
+    "Unnamed: 16": null
   },
   {
     "ID": "3596439",
@@ -13012,7 +13738,8 @@ const PARALELISMO_DATA = [
     "Frente": "142 - FRENTE BIDU",
     "Responsável": "Leonardo Ribeiro Teixeira da Silva",
     "Paralelismo": "1.4",
-    "Fazenda": "53201"
+    "Fazenda": "53201",
+    "Unnamed: 16": null
   },
   {
     "ID": "3596519",
@@ -13030,7 +13757,8 @@ const PARALELISMO_DATA = [
     "Frente": "261 - FRENTE PRÓPRIA  (EDMILSON)",
     "Responsável": "VITOR AMORIM RAMOS ",
     "Paralelismo": "1.4",
-    "Fazenda": "40101"
+    "Fazenda": "40101",
+    "Unnamed: 16": null
   },
   {
     "ID": "3596514",
@@ -13048,7 +13776,8 @@ const PARALELISMO_DATA = [
     "Frente": "261 - FRENTE PRÓPRIA  (EDMILSON)",
     "Responsável": "VITOR AMORIM RAMOS ",
     "Paralelismo": "1.4",
-    "Fazenda": "40101"
+    "Fazenda": "40101",
+    "Unnamed: 16": null
   },
   {
     "ID": "3596434",
@@ -13066,7 +13795,8 @@ const PARALELISMO_DATA = [
     "Frente": "142 - FRENTE BIDU",
     "Responsável": "Leonardo Ribeiro Teixeira da Silva",
     "Paralelismo": "1.4",
-    "Fazenda": "53201"
+    "Fazenda": "53201",
+    "Unnamed: 16": null
   },
   {
     "ID": "3595912",
@@ -13084,7 +13814,8 @@ const PARALELISMO_DATA = [
     "Frente": "105 - FRENTE CASSIO (ZACARIAS)",
     "Responsável": "GABRIEL HENRIQUE MARTINS PEREIRA",
     "Paralelismo": "1.5",
-    "Fazenda": "203602"
+    "Fazenda": "203602",
+    "Unnamed: 16": null
   },
   {
     "ID": "3595907",
@@ -13102,7 +13833,8 @@ const PARALELISMO_DATA = [
     "Frente": "105 - FRENTE CASSIO (ZACARIAS)",
     "Responsável": "GABRIEL HENRIQUE MARTINS PEREIRA",
     "Paralelismo": "1.5",
-    "Fazenda": "203602"
+    "Fazenda": "203602",
+    "Unnamed: 16": null
   },
   {
     "ID": "3596225",
@@ -13120,7 +13852,8 @@ const PARALELISMO_DATA = [
     "Frente": "101 - FRENTE MECANIZADA",
     "Responsável": "NILDA CLAUDINO [2510716]",
     "Paralelismo": "1.4",
-    "Fazenda": "53201"
+    "Fazenda": "53201",
+    "Unnamed: 16": null
   },
   {
     "ID": "3595671",
@@ -13138,7 +13871,8 @@ const PARALELISMO_DATA = [
     "Frente": "261 - FRENTE PRÓPRIA  (EDMILSON)",
     "Responsável": "VITOR AMORIM RAMOS ",
     "Paralelismo": "1.4",
-    "Fazenda": "40101"
+    "Fazenda": "40101",
+    "Unnamed: 16": null
   },
   {
     "ID": "3596217",
@@ -13156,7 +13890,8 @@ const PARALELISMO_DATA = [
     "Frente": "101 - FRENTE MECANIZADA",
     "Responsável": "NILDA CLAUDINO [2510716]",
     "Paralelismo": "1.4",
-    "Fazenda": "53201"
+    "Fazenda": "53201",
+    "Unnamed: 16": null
   },
   {
     "ID": "3596212",
@@ -13174,7 +13909,8 @@ const PARALELISMO_DATA = [
     "Frente": "101 - FRENTE MECANIZADA",
     "Responsável": "NILDA CLAUDINO [2510716]",
     "Paralelismo": "1.4",
-    "Fazenda": "53201"
+    "Fazenda": "53201",
+    "Unnamed: 16": null
   },
   {
     "ID": "3595666",
@@ -13192,7 +13928,8 @@ const PARALELISMO_DATA = [
     "Frente": "261 - FRENTE PRÓPRIA  (EDMILSON)",
     "Responsável": "VITOR AMORIM RAMOS ",
     "Paralelismo": "1.4",
-    "Fazenda": "40101"
+    "Fazenda": "40101",
+    "Unnamed: 16": null
   },
   {
     "ID": "3595661",
@@ -13210,7 +13947,8 @@ const PARALELISMO_DATA = [
     "Frente": "261 - FRENTE PRÓPRIA  (EDMILSON)",
     "Responsável": "VITOR AMORIM RAMOS ",
     "Paralelismo": "1.4",
-    "Fazenda": "40101"
+    "Fazenda": "40101",
+    "Unnamed: 16": null
   },
   {
     "ID": "3596177",
@@ -13228,7 +13966,8 @@ const PARALELISMO_DATA = [
     "Frente": "101 - FRENTE MECANIZADA",
     "Responsável": "NILDA CLAUDINO [2510716]",
     "Paralelismo": "1.4",
-    "Fazenda": "53201"
+    "Fazenda": "53201",
+    "Unnamed: 16": null
   },
   {
     "ID": "3595655",
@@ -13246,7 +13985,8 @@ const PARALELISMO_DATA = [
     "Frente": "261 - FRENTE PRÓPRIA  (EDMILSON)",
     "Responsável": "VITOR AMORIM RAMOS ",
     "Paralelismo": "1.4",
-    "Fazenda": "40101"
+    "Fazenda": "40101",
+    "Unnamed: 16": null
   },
   {
     "ID": "3595709",
@@ -13264,7 +14004,8 @@ const PARALELISMO_DATA = [
     "Frente": "143 - FRENTE CASSIO",
     "Responsável": " Antonio ",
     "Paralelismo": "1.5",
-    "Fazenda": "110101"
+    "Fazenda": "110101",
+    "Unnamed: 16": null
   },
   {
     "ID": "3595650",
@@ -13282,7 +14023,8 @@ const PARALELISMO_DATA = [
     "Frente": "261 - FRENTE PRÓPRIA  (EDMILSON)",
     "Responsável": "VITOR AMORIM RAMOS ",
     "Paralelismo": "1.4",
-    "Fazenda": "40101"
+    "Fazenda": "40101",
+    "Unnamed: 16": null
   },
   {
     "ID": "3596173",
@@ -13300,7 +14042,8 @@ const PARALELISMO_DATA = [
     "Frente": "101 - FRENTE MECANIZADA",
     "Responsável": "NILDA CLAUDINO [2510716]",
     "Paralelismo": "1.4",
-    "Fazenda": "53201"
+    "Fazenda": "53201",
+    "Unnamed: 16": null
   },
   {
     "ID": "3595703",
@@ -13318,7 +14061,8 @@ const PARALELISMO_DATA = [
     "Frente": "143 - FRENTE CASSIO",
     "Responsável": " Antonio ",
     "Paralelismo": "1.5",
-    "Fazenda": "110101"
+    "Fazenda": "110101",
+    "Unnamed: 16": null
   },
   {
     "ID": "3595696",
@@ -13336,7 +14080,8 @@ const PARALELISMO_DATA = [
     "Frente": "143 - FRENTE CASSIO",
     "Responsável": " Antonio ",
     "Paralelismo": "1.5",
-    "Fazenda": "110101"
+    "Fazenda": "110101",
+    "Unnamed: 16": null
   },
   {
     "ID": "3596427",
@@ -13354,7 +14099,8 @@ const PARALELISMO_DATA = [
     "Frente": "142 - FRENTE BIDU",
     "Responsável": "Leonardo Ribeiro Teixeira da Silva",
     "Paralelismo": "1.4",
-    "Fazenda": "53201"
+    "Fazenda": "53201",
+    "Unnamed: 16": null
   },
   {
     "ID": "3596250",
@@ -13372,7 +14118,8 @@ const PARALELISMO_DATA = [
     "Frente": "101 - FRENTE MECANIZADA",
     "Responsável": "NILDA CLAUDINO [2510716]",
     "Paralelismo": "1.4",
-    "Fazenda": "53201"
+    "Fazenda": "53201",
+    "Unnamed: 16": null
   },
   {
     "ID": "3596422",
@@ -13390,7 +14137,8 @@ const PARALELISMO_DATA = [
     "Frente": "142 - FRENTE BIDU",
     "Responsável": "Leonardo Ribeiro Teixeira da Silva",
     "Paralelismo": "1.4",
-    "Fazenda": "53201"
+    "Fazenda": "53201",
+    "Unnamed: 16": null
   },
   {
     "ID": "3596123",
@@ -13408,7 +14156,8 @@ const PARALELISMO_DATA = [
     "Frente": "101 - FRENTE MECANIZADA",
     "Responsável": "NILDA CLAUDINO [2510716]",
     "Paralelismo": "1.4",
-    "Fazenda": "53201"
+    "Fazenda": "53201",
+    "Unnamed: 16": null
   },
   {
     "ID": "3596417",
@@ -13426,7 +14175,8 @@ const PARALELISMO_DATA = [
     "Frente": "142 - FRENTE BIDU",
     "Responsável": "Leonardo Ribeiro Teixeira da Silva",
     "Paralelismo": "1.4",
-    "Fazenda": "53201"
+    "Fazenda": "53201",
+    "Unnamed: 16": null
   },
   {
     "ID": "3596253",
@@ -13444,7 +14194,8 @@ const PARALELISMO_DATA = [
     "Frente": "142 - FRENTE BIDU",
     "Responsável": "Leonardo Ribeiro Teixeira da Silva",
     "Paralelismo": "1.4",
-    "Fazenda": "53201"
+    "Fazenda": "53201",
+    "Unnamed: 16": null
   },
   {
     "ID": "3595633",
@@ -13462,7 +14213,8 @@ const PARALELISMO_DATA = [
     "Frente": "261 - FRENTE PRÓPRIA  (EDMILSON)",
     "Responsável": "VITOR AMORIM RAMOS ",
     "Paralelismo": "1.4",
-    "Fazenda": "40101"
+    "Fazenda": "40101",
+    "Unnamed: 16": null
   },
   {
     "ID": "3595628",
@@ -13480,7 +14232,8 @@ const PARALELISMO_DATA = [
     "Frente": "261 - FRENTE PRÓPRIA  (EDMILSON)",
     "Responsável": "VITOR AMORIM RAMOS ",
     "Paralelismo": "1.4",
-    "Fazenda": "40101"
+    "Fazenda": "40101",
+    "Unnamed: 16": null
   },
   {
     "ID": "3595623",
@@ -13498,7 +14251,8 @@ const PARALELISMO_DATA = [
     "Frente": "261 - FRENTE PRÓPRIA  (EDMILSON)",
     "Responsável": "VITOR AMORIM RAMOS ",
     "Paralelismo": "1.4",
-    "Fazenda": "40101"
+    "Fazenda": "40101",
+    "Unnamed: 16": null
   },
   {
     "ID": "3595885",
@@ -13516,7 +14270,8 @@ const PARALELISMO_DATA = [
     "Frente": "105 - FRENTE CASSIO (ZACARIAS)",
     "Responsável": "GABRIEL HENRIQUE MARTINS PEREIRA",
     "Paralelismo": "1.5",
-    "Fazenda": "135601"
+    "Fazenda": "135601",
+    "Unnamed: 16": null
   },
   {
     "ID": "3595880",
@@ -13534,7 +14289,8 @@ const PARALELISMO_DATA = [
     "Frente": "105 - FRENTE CASSIO (ZACARIAS)",
     "Responsável": "GABRIEL HENRIQUE MARTINS PEREIRA",
     "Paralelismo": "1.5",
-    "Fazenda": "135601"
+    "Fazenda": "135601",
+    "Unnamed: 16": null
   },
   {
     "ID": "3595875",
@@ -13552,7 +14308,8 @@ const PARALELISMO_DATA = [
     "Frente": "105 - FRENTE CASSIO (ZACARIAS)",
     "Responsável": "GABRIEL HENRIQUE MARTINS PEREIRA",
     "Paralelismo": "1.5",
-    "Fazenda": "135601"
+    "Fazenda": "135601",
+    "Unnamed: 16": null
   },
   {
     "ID": "3595870",
@@ -13570,7 +14327,8 @@ const PARALELISMO_DATA = [
     "Frente": "105 - FRENTE CASSIO (ZACARIAS)",
     "Responsável": "GABRIEL HENRIQUE MARTINS PEREIRA",
     "Paralelismo": "1.5",
-    "Fazenda": "135601"
+    "Fazenda": "135601",
+    "Unnamed: 16": null
   },
   {
     "ID": "3595228",
@@ -13588,7 +14346,8 @@ const PARALELISMO_DATA = [
     "Frente": "135 - FRENTE PEDRINHO",
     "Responsável": "MARCELO DE OLIVEIRA JUNIOR",
     "Paralelismo": "1.41",
-    "Fazenda": "53201"
+    "Fazenda": "53201",
+    "Unnamed: 16": null
   },
   {
     "ID": "3595223",
@@ -13606,7 +14365,8 @@ const PARALELISMO_DATA = [
     "Frente": "135 - FRENTE PEDRINHO",
     "Responsável": "MARCELO DE OLIVEIRA JUNIOR",
     "Paralelismo": "1.42",
-    "Fazenda": "53201"
+    "Fazenda": "53201",
+    "Unnamed: 16": null
   },
   {
     "ID": "3594641",
@@ -13624,7 +14384,8 @@ const PARALELISMO_DATA = [
     "Frente": "139 - FRENTE MANEZÃO",
     "Responsável": "MICHELI DE SOUZA SANTOS  ",
     "Paralelismo": "1.5",
-    "Fazenda": "137701"
+    "Fazenda": "137701",
+    "Unnamed: 16": null
   },
   {
     "ID": "3595221",
@@ -13642,7 +14403,8 @@ const PARALELISMO_DATA = [
     "Frente": "135 - FRENTE PEDRINHO",
     "Responsável": "MARCELO DE OLIVEIRA JUNIOR",
     "Paralelismo": "1.38",
-    "Fazenda": "53201"
+    "Fazenda": "53201",
+    "Unnamed: 16": null
   },
   {
     "ID": "3594638",
@@ -13660,7 +14422,8 @@ const PARALELISMO_DATA = [
     "Frente": "139 - FRENTE MANEZÃO",
     "Responsável": "MICHELI DE SOUZA SANTOS  ",
     "Paralelismo": "1.5",
-    "Fazenda": "137701"
+    "Fazenda": "137701",
+    "Unnamed: 16": null
   },
   {
     "ID": "3594628",
@@ -13678,7 +14441,8 @@ const PARALELISMO_DATA = [
     "Frente": "139 - FRENTE MANEZÃO",
     "Responsável": "MICHELI DE SOUZA SANTOS  ",
     "Paralelismo": "1.5",
-    "Fazenda": "137701"
+    "Fazenda": "137701",
+    "Unnamed: 16": null
   },
   {
     "ID": "3594624",
@@ -13696,7 +14460,8 @@ const PARALELISMO_DATA = [
     "Frente": "139 - FRENTE MANEZÃO",
     "Responsável": "MICHELI DE SOUZA SANTOS  ",
     "Paralelismo": "1.5",
-    "Fazenda": "137701"
+    "Fazenda": "137701",
+    "Unnamed: 16": null
   },
   {
     "ID": "3593830",
@@ -13714,7 +14479,8 @@ const PARALELISMO_DATA = [
     "Frente": "143 - FRENTE CASSIO",
     "Responsável": " Antonio ",
     "Paralelismo": "1.5",
-    "Fazenda": "110101"
+    "Fazenda": "110101",
+    "Unnamed: 16": null
   },
   {
     "ID": "3595324",
@@ -13732,7 +14498,8 @@ const PARALELISMO_DATA = [
     "Frente": "142 - FRENTE BIDU",
     "Responsável": "Leonardo Ribeiro Teixeira da Silva",
     "Paralelismo": "1.4",
-    "Fazenda": "53201"
+    "Fazenda": "53201",
+    "Unnamed: 16": null
   },
   {
     "ID": "3594614",
@@ -13750,7 +14517,8 @@ const PARALELISMO_DATA = [
     "Frente": "139 - FRENTE MANEZÃO",
     "Responsável": "MICHELI DE SOUZA SANTOS  ",
     "Paralelismo": "1.48",
-    "Fazenda": "137701"
+    "Fazenda": "137701",
+    "Unnamed: 16": null
   },
   {
     "ID": "3595320",
@@ -13768,7 +14536,8 @@ const PARALELISMO_DATA = [
     "Frente": "142 - FRENTE BIDU",
     "Responsável": "Leonardo Ribeiro Teixeira da Silva",
     "Paralelismo": "1.4",
-    "Fazenda": "53201"
+    "Fazenda": "53201",
+    "Unnamed: 16": null
   },
   {
     "ID": "3594608",
@@ -13786,7 +14555,8 @@ const PARALELISMO_DATA = [
     "Frente": "139 - FRENTE MANEZÃO",
     "Responsável": "MICHELI DE SOUZA SANTOS  ",
     "Paralelismo": "1.5",
-    "Fazenda": "137701"
+    "Fazenda": "137701",
+    "Unnamed: 16": null
   },
   {
     "ID": "3594597",
@@ -13804,7 +14574,8 @@ const PARALELISMO_DATA = [
     "Frente": "139 - FRENTE MANEZÃO",
     "Responsável": "MICHELI DE SOUZA SANTOS  ",
     "Paralelismo": "1.5",
-    "Fazenda": "137701"
+    "Fazenda": "137701",
+    "Unnamed: 16": null
   },
   {
     "ID": "3594972",
@@ -13822,7 +14593,8 @@ const PARALELISMO_DATA = [
     "Frente": "261 - FRENTE PRÓPRIA  (EDMILSON)",
     "Responsável": "VITOR AMORIM RAMOS ",
     "Paralelismo": "1.4",
-    "Fazenda": "40101"
+    "Fazenda": "40101",
+    "Unnamed: 16": null
   },
   {
     "ID": "3595317",
@@ -13840,7 +14612,8 @@ const PARALELISMO_DATA = [
     "Frente": "142 - FRENTE BIDU",
     "Responsável": "Leonardo Ribeiro Teixeira da Silva",
     "Paralelismo": "1.4",
-    "Fazenda": "53201"
+    "Fazenda": "53201",
+    "Unnamed: 16": null
   },
   {
     "ID": "3594594",
@@ -13858,7 +14631,8 @@ const PARALELISMO_DATA = [
     "Frente": "139 - FRENTE MANEZÃO",
     "Responsável": "MICHELI DE SOUZA SANTOS  ",
     "Paralelismo": "1.5",
-    "Fazenda": "137701"
+    "Fazenda": "137701",
+    "Unnamed: 16": null
   },
   {
     "ID": "3594967",
@@ -13876,7 +14650,8 @@ const PARALELISMO_DATA = [
     "Frente": "261 - FRENTE PRÓPRIA  (EDMILSON)",
     "Responsável": "VITOR AMORIM RAMOS ",
     "Paralelismo": "1.4",
-    "Fazenda": "40101"
+    "Fazenda": "40101",
+    "Unnamed: 16": null
   },
   {
     "ID": "3593367",
@@ -13894,7 +14669,8 @@ const PARALELISMO_DATA = [
     "Frente": "105 - FRENTE CASSIO (ZACARIAS)",
     "Responsável": "NILDA CLAUDINO [2510716]",
     "Paralelismo": "1.5",
-    "Fazenda": "212901"
+    "Fazenda": "212901",
+    "Unnamed: 16": null
   },
   {
     "ID": "3594962",
@@ -13912,7 +14688,8 @@ const PARALELISMO_DATA = [
     "Frente": "261 - FRENTE PRÓPRIA  (EDMILSON)",
     "Responsável": "VITOR AMORIM RAMOS ",
     "Paralelismo": "1.4",
-    "Fazenda": "40101"
+    "Fazenda": "40101",
+    "Unnamed: 16": null
   },
   {
     "ID": "3595313",
@@ -13930,7 +14707,8 @@ const PARALELISMO_DATA = [
     "Frente": "142 - FRENTE BIDU",
     "Responsável": "Leonardo Ribeiro Teixeira da Silva",
     "Paralelismo": "1.4",
-    "Fazenda": "53201"
+    "Fazenda": "53201",
+    "Unnamed: 16": null
   },
   {
     "ID": "3593363",
@@ -13948,7 +14726,8 @@ const PARALELISMO_DATA = [
     "Frente": "105 - FRENTE CASSIO (ZACARIAS)",
     "Responsável": "NILDA CLAUDINO [2510716]",
     "Paralelismo": "1.5",
-    "Fazenda": "212901"
+    "Fazenda": "212901",
+    "Unnamed: 16": null
   },
   {
     "ID": "3593359",
@@ -13966,7 +14745,8 @@ const PARALELISMO_DATA = [
     "Frente": "105 - FRENTE CASSIO (ZACARIAS)",
     "Responsável": "NILDA CLAUDINO [2510716]",
     "Paralelismo": "1.5",
-    "Fazenda": "212901"
+    "Fazenda": "212901",
+    "Unnamed: 16": null
   },
   {
     "ID": "3588496",
@@ -13984,7 +14764,8 @@ const PARALELISMO_DATA = [
     "Frente": "135 - FRENTE PEDRINHO",
     "Responsável": "MARCELO DE OLIVEIRA JUNIOR",
     "Paralelismo": "1.38",
-    "Fazenda": "201901"
+    "Fazenda": "201901",
+    "Unnamed: 16": null
   },
   {
     "ID": "3594543",
@@ -14002,7 +14783,8 @@ const PARALELISMO_DATA = [
     "Frente": "139 - FRENTE MANEZÃO",
     "Responsável": "MICHELI DE SOUZA SANTOS  ",
     "Paralelismo": "1.5",
-    "Fazenda": "53201"
+    "Fazenda": "53201",
+    "Unnamed: 16": null
   },
   {
     "ID": "3593004",
@@ -14020,7 +14802,8 @@ const PARALELISMO_DATA = [
     "Frente": "261 - FRENTE PRÓPRIA  (EDMILSON)",
     "Responsável": "VITOR AMORIM RAMOS ",
     "Paralelismo": "1.4",
-    "Fazenda": "40101"
+    "Fazenda": "40101",
+    "Unnamed: 16": null
   },
   {
     "ID": "3594538",
@@ -14038,7 +14821,8 @@ const PARALELISMO_DATA = [
     "Frente": "139 - FRENTE MANEZÃO",
     "Responsável": "MICHELI DE SOUZA SANTOS  ",
     "Paralelismo": "1.5",
-    "Fazenda": "53201"
+    "Fazenda": "53201",
+    "Unnamed: 16": null
   },
   {
     "ID": "3592996",
@@ -14056,7 +14840,8 @@ const PARALELISMO_DATA = [
     "Frente": "261 - FRENTE PRÓPRIA  (EDMILSON)",
     "Responsável": "VITOR AMORIM RAMOS ",
     "Paralelismo": "1.4",
-    "Fazenda": "40101"
+    "Fazenda": "40101",
+    "Unnamed: 16": null
   },
   {
     "ID": "3595207",
@@ -14074,7 +14859,8 @@ const PARALELISMO_DATA = [
     "Frente": "135 - FRENTE PEDRINHO",
     "Responsável": "MARCELO DE OLIVEIRA JUNIOR",
     "Paralelismo": "1.39",
-    "Fazenda": "53201"
+    "Fazenda": "53201",
+    "Unnamed: 16": null
   },
   {
     "ID": "3594500",
@@ -14092,7 +14878,8 @@ const PARALELISMO_DATA = [
     "Frente": "139 - FRENTE MANEZÃO",
     "Responsável": "MICHELI DE SOUZA SANTOS  ",
     "Paralelismo": "1.52",
-    "Fazenda": "53201"
+    "Fazenda": "53201",
+    "Unnamed: 16": null
   },
   {
     "ID": "3595203",
@@ -14110,7 +14897,8 @@ const PARALELISMO_DATA = [
     "Frente": "135 - FRENTE PEDRINHO",
     "Responsável": "MARCELO DE OLIVEIRA JUNIOR",
     "Paralelismo": "1.41",
-    "Fazenda": "53201"
+    "Fazenda": "53201",
+    "Unnamed: 16": null
   },
   {
     "ID": "3594494",
@@ -14128,7 +14916,8 @@ const PARALELISMO_DATA = [
     "Frente": "139 - FRENTE MANEZÃO",
     "Responsável": "MICHELI DE SOUZA SANTOS  ",
     "Paralelismo": "1.48",
-    "Fazenda": "53201"
+    "Fazenda": "53201",
+    "Unnamed: 16": null
   },
   {
     "ID": "3595197",
@@ -14146,7 +14935,8 @@ const PARALELISMO_DATA = [
     "Frente": "135 - FRENTE PEDRINHO",
     "Responsável": "MARCELO DE OLIVEIRA JUNIOR",
     "Paralelismo": "1.4",
-    "Fazenda": "53201"
+    "Fazenda": "53201",
+    "Unnamed: 16": null
   },
   {
     "ID": "3595195",
@@ -14164,7 +14954,8 @@ const PARALELISMO_DATA = [
     "Frente": "135 - FRENTE PEDRINHO",
     "Responsável": "MARCELO DE OLIVEIRA JUNIOR",
     "Paralelismo": "1.43",
-    "Fazenda": "53201"
+    "Fazenda": "53201",
+    "Unnamed: 16": null
   },
   {
     "ID": "3594489",
@@ -14182,7 +14973,8 @@ const PARALELISMO_DATA = [
     "Frente": "139 - FRENTE MANEZÃO",
     "Responsável": "MICHELI DE SOUZA SANTOS  ",
     "Paralelismo": "1.5",
-    "Fazenda": "53201"
+    "Fazenda": "53201",
+    "Unnamed: 16": null
   },
   {
     "ID": "3593346",
@@ -14200,7 +14992,8 @@ const PARALELISMO_DATA = [
     "Frente": "105 - FRENTE CASSIO (ZACARIAS)",
     "Responsável": "NILDA CLAUDINO [2510716]",
     "Paralelismo": "1.5",
-    "Fazenda": "212901"
+    "Fazenda": "212901",
+    "Unnamed: 16": null
   },
   {
     "ID": "3593342",
@@ -14218,7 +15011,8 @@ const PARALELISMO_DATA = [
     "Frente": "105 - FRENTE CASSIO (ZACARIAS)",
     "Responsável": "NILDA CLAUDINO [2510716]",
     "Paralelismo": "1.5",
-    "Fazenda": "212901"
+    "Fazenda": "212901",
+    "Unnamed: 16": null
   },
   {
     "ID": "3595298",
@@ -14236,7 +15030,8 @@ const PARALELISMO_DATA = [
     "Frente": "142 - FRENTE BIDU",
     "Responsável": "Ruan Alexandre Lopes",
     "Paralelismo": "1.4",
-    "Fazenda": "53201"
+    "Fazenda": "53201",
+    "Unnamed: 16": null
   },
   {
     "ID": "3594481",
@@ -14254,7 +15049,8 @@ const PARALELISMO_DATA = [
     "Frente": "139 - FRENTE MANEZÃO",
     "Responsável": "MABILA HELEN D FIGUEIREDO",
     "Paralelismo": "1.5",
-    "Fazenda": "53201"
+    "Fazenda": "53201",
+    "Unnamed: 16": null
   },
   {
     "ID": "3595293",
@@ -14272,7 +15068,8 @@ const PARALELISMO_DATA = [
     "Frente": "142 - FRENTE BIDU",
     "Responsável": "Ruan Alexandre Lopes",
     "Paralelismo": "1.4",
-    "Fazenda": "53201"
+    "Fazenda": "53201",
+    "Unnamed: 16": null
   },
   {
     "ID": "3594476",
@@ -14290,7 +15087,8 @@ const PARALELISMO_DATA = [
     "Frente": "139 - FRENTE MANEZÃO",
     "Responsável": "MABILA HELEN D FIGUEIREDO",
     "Paralelismo": "1.5",
-    "Fazenda": "53201"
+    "Fazenda": "53201",
+    "Unnamed: 16": null
   },
   {
     "ID": "3595288",
@@ -14308,7 +15106,8 @@ const PARALELISMO_DATA = [
     "Frente": "142 - FRENTE BIDU",
     "Responsável": "Leonardo Ribeiro Teixeira da Silva",
     "Paralelismo": "1.4",
-    "Fazenda": "53201"
+    "Fazenda": "53201",
+    "Unnamed: 16": null
   },
   {
     "ID": "3593332",
@@ -14326,7 +15125,8 @@ const PARALELISMO_DATA = [
     "Frente": "105 - FRENTE CASSIO (ZACARIAS)",
     "Responsável": "NILDA CLAUDINO [2510716]",
     "Paralelismo": "1.5",
-    "Fazenda": "212901"
+    "Fazenda": "212901",
+    "Unnamed: 16": null
   },
   {
     "ID": "3592975",
@@ -14344,7 +15144,8 @@ const PARALELISMO_DATA = [
     "Frente": "261 - FRENTE PRÓPRIA  (EDMILSON)",
     "Responsável": "VITOR AMORIM RAMOS ",
     "Paralelismo": "1.4",
-    "Fazenda": "40101"
+    "Fazenda": "40101",
+    "Unnamed: 16": null
   },
   {
     "ID": "3593809",
@@ -14362,7 +15163,8 @@ const PARALELISMO_DATA = [
     "Frente": "143 - FRENTE CASSIO",
     "Responsável": " Antonio ",
     "Paralelismo": "1.5",
-    "Fazenda": "110101"
+    "Fazenda": "110101",
+    "Unnamed: 16": null
   },
   {
     "ID": "3594471",
@@ -14380,7 +15182,8 @@ const PARALELISMO_DATA = [
     "Frente": "139 - FRENTE MANEZÃO",
     "Responsável": "MABILA HELEN D FIGUEIREDO",
     "Paralelismo": "1.5",
-    "Fazenda": "53201"
+    "Fazenda": "53201",
+    "Unnamed: 16": null
   },
   {
     "ID": "3593808",
@@ -14398,7 +15201,8 @@ const PARALELISMO_DATA = [
     "Frente": "143 - FRENTE CASSIO",
     "Responsável": " Antonio ",
     "Paralelismo": "1.5",
-    "Fazenda": "110101"
+    "Fazenda": "110101",
+    "Unnamed: 16": null
   },
   {
     "ID": "3593328",
@@ -14416,7 +15220,8 @@ const PARALELISMO_DATA = [
     "Frente": "105 - FRENTE CASSIO (ZACARIAS)",
     "Responsável": "NILDA CLAUDINO [2510716]",
     "Paralelismo": "1.5",
-    "Fazenda": "212901"
+    "Fazenda": "212901",
+    "Unnamed: 16": null
   },
   {
     "ID": "3592970",
@@ -14434,7 +15239,8 @@ const PARALELISMO_DATA = [
     "Frente": "261 - FRENTE PRÓPRIA  (EDMILSON)",
     "Responsável": "VITOR AMORIM RAMOS ",
     "Paralelismo": "1.4",
-    "Fazenda": "40101"
+    "Fazenda": "40101",
+    "Unnamed: 16": null
   },
   {
     "ID": "3593324",
@@ -14452,7 +15258,8 @@ const PARALELISMO_DATA = [
     "Frente": "105 - FRENTE CASSIO (ZACARIAS)",
     "Responsável": "NILDA CLAUDINO [2510716]",
     "Paralelismo": "1.5",
-    "Fazenda": "212901"
+    "Fazenda": "212901",
+    "Unnamed: 16": null
   },
   {
     "ID": "3595183",
@@ -14470,7 +15277,8 @@ const PARALELISMO_DATA = [
     "Frente": "135 - FRENTE PEDRINHO",
     "Responsável": "MARCELO DE OLIVEIRA JUNIOR",
     "Paralelismo": "1.4",
-    "Fazenda": "53201"
+    "Fazenda": "53201",
+    "Unnamed: 16": null
   },
   {
     "ID": "3593805",
@@ -14488,7 +15296,8 @@ const PARALELISMO_DATA = [
     "Frente": "143 - FRENTE CASSIO",
     "Responsável": " Antonio ",
     "Paralelismo": "1.5",
-    "Fazenda": "110101"
+    "Fazenda": "110101",
+    "Unnamed: 16": null
   },
   {
     "ID": "3595179",
@@ -14506,7 +15315,8 @@ const PARALELISMO_DATA = [
     "Frente": "135 - FRENTE PEDRINHO",
     "Responsável": "MARCELO DE OLIVEIRA JUNIOR",
     "Paralelismo": "1.38",
-    "Fazenda": "53201"
+    "Fazenda": "53201",
+    "Unnamed: 16": null
   },
   {
     "ID": "3592964",
@@ -14524,7 +15334,8 @@ const PARALELISMO_DATA = [
     "Frente": "261 - FRENTE PRÓPRIA  (EDMILSON)",
     "Responsável": "VITOR AMORIM RAMOS ",
     "Paralelismo": "1.4",
-    "Fazenda": "40101"
+    "Fazenda": "40101",
+    "Unnamed: 16": null
   },
   {
     "ID": "3593320",
@@ -14542,7 +15353,8 @@ const PARALELISMO_DATA = [
     "Frente": "105 - FRENTE CASSIO (ZACARIAS)",
     "Responsável": "NILDA CLAUDINO [2510716]",
     "Paralelismo": "1.5",
-    "Fazenda": "212901"
+    "Fazenda": "212901",
+    "Unnamed: 16": null
   },
   {
     "ID": "3592959",
@@ -14560,7 +15372,8 @@ const PARALELISMO_DATA = [
     "Frente": "261 - FRENTE PRÓPRIA  (EDMILSON)",
     "Responsável": "VITOR AMORIM RAMOS ",
     "Paralelismo": "1.4",
-    "Fazenda": "40101"
+    "Fazenda": "40101",
+    "Unnamed: 16": null
   },
   {
     "ID": "3595173",
@@ -14578,7 +15391,8 @@ const PARALELISMO_DATA = [
     "Frente": "135 - FRENTE PEDRINHO",
     "Responsável": "MARCELO DE OLIVEIRA JUNIOR",
     "Paralelismo": "1.42",
-    "Fazenda": "53201"
+    "Fazenda": "53201",
+    "Unnamed: 16": null
   },
   {
     "ID": "3595168",
@@ -14596,7 +15410,8 @@ const PARALELISMO_DATA = [
     "Frente": "135 - FRENTE PEDRINHO",
     "Responsável": "MARCELO DE OLIVEIRA JUNIOR",
     "Paralelismo": "1.4",
-    "Fazenda": "53201"
+    "Fazenda": "53201",
+    "Unnamed: 16": null
   },
   {
     "ID": "3593316",
@@ -14614,7 +15429,8 @@ const PARALELISMO_DATA = [
     "Frente": "105 - FRENTE CASSIO (ZACARIAS)",
     "Responsável": "NILDA CLAUDINO [2510716]",
     "Paralelismo": "1.5",
-    "Fazenda": "212901"
+    "Fazenda": "212901",
+    "Unnamed: 16": null
   },
   {
     "ID": "3592952",
@@ -14632,7 +15448,8 @@ const PARALELISMO_DATA = [
     "Frente": "261 - FRENTE PRÓPRIA  (EDMILSON)",
     "Responsável": "VITOR AMORIM RAMOS ",
     "Paralelismo": "1.4",
-    "Fazenda": "40101"
+    "Fazenda": "40101",
+    "Unnamed: 16": null
   },
   {
     "ID": "3593312",
@@ -14650,7 +15467,8 @@ const PARALELISMO_DATA = [
     "Frente": "105 - FRENTE CASSIO (ZACARIAS)",
     "Responsável": "NILDA CLAUDINO [2510716]",
     "Paralelismo": "1.5",
-    "Fazenda": "212901"
+    "Fazenda": "212901",
+    "Unnamed: 16": null
   },
   {
     "ID": "3592947",
@@ -14668,7 +15486,8 @@ const PARALELISMO_DATA = [
     "Frente": "261 - FRENTE PRÓPRIA  (EDMILSON)",
     "Responsável": "VITOR AMORIM RAMOS ",
     "Paralelismo": "1.4",
-    "Fazenda": "40101"
+    "Fazenda": "40101",
+    "Unnamed: 16": null
   },
   {
     "ID": "3592938",
@@ -14686,7 +15505,8 @@ const PARALELISMO_DATA = [
     "Frente": "261 - FRENTE PRÓPRIA  (EDMILSON)",
     "Responsável": "VITOR AMORIM RAMOS ",
     "Paralelismo": "1.4",
-    "Fazenda": "40101"
+    "Fazenda": "40101",
+    "Unnamed: 16": null
   },
   {
     "ID": "3592933",
@@ -14704,7 +15524,8 @@ const PARALELISMO_DATA = [
     "Frente": "261 - FRENTE PRÓPRIA  (EDMILSON)",
     "Responsável": "VITOR AMORIM RAMOS ",
     "Paralelismo": "1.4",
-    "Fazenda": "40101"
+    "Fazenda": "40101",
+    "Unnamed: 16": null
   },
   {
     "ID": "3592928",
@@ -14722,7 +15543,8 @@ const PARALELISMO_DATA = [
     "Frente": "261 - FRENTE PRÓPRIA  (EDMILSON)",
     "Responsável": "VITOR AMORIM RAMOS ",
     "Paralelismo": "1.4",
-    "Fazenda": "40101"
+    "Fazenda": "40101",
+    "Unnamed: 16": null
   },
   {
     "ID": "3591194",
@@ -14740,7 +15562,8 @@ const PARALELISMO_DATA = [
     "Frente": "261 - FRENTE PRÓPRIA  (EDMILSON)",
     "Responsável": "VITOR AMORIM RAMOS ",
     "Paralelismo": "1.4",
-    "Fazenda": "40101"
+    "Fazenda": "40101",
+    "Unnamed: 16": null
   },
   {
     "ID": "3591189",
@@ -14758,7 +15581,8 @@ const PARALELISMO_DATA = [
     "Frente": "261 - FRENTE PRÓPRIA  (EDMILSON)",
     "Responsável": "VITOR AMORIM RAMOS ",
     "Paralelismo": "1.4",
-    "Fazenda": "40101"
+    "Fazenda": "40101",
+    "Unnamed: 16": null
   },
   {
     "ID": "3591184",
@@ -14776,7 +15600,8 @@ const PARALELISMO_DATA = [
     "Frente": "261 - FRENTE PRÓPRIA  (EDMILSON)",
     "Responsável": "VITOR AMORIM RAMOS ",
     "Paralelismo": "1.4",
-    "Fazenda": "40101"
+    "Fazenda": "40101",
+    "Unnamed: 16": null
   },
   {
     "ID": "3591179",
@@ -14794,7 +15619,8 @@ const PARALELISMO_DATA = [
     "Frente": "261 - FRENTE PRÓPRIA  (EDMILSON)",
     "Responsável": "VITOR AMORIM RAMOS ",
     "Paralelismo": "1.4",
-    "Fazenda": "40101"
+    "Fazenda": "40101",
+    "Unnamed: 16": null
   },
   {
     "ID": "3590605",
@@ -14812,7 +15638,8 @@ const PARALELISMO_DATA = [
     "Frente": "143 - FRENTE CASSIO",
     "Responsável": " Antonio ",
     "Paralelismo": "1.5",
-    "Fazenda": "110101"
+    "Fazenda": "110101",
+    "Unnamed: 16": null
   },
   {
     "ID": "3591174",
@@ -14830,7 +15657,8 @@ const PARALELISMO_DATA = [
     "Frente": "261 - FRENTE PRÓPRIA  (EDMILSON)",
     "Responsável": "VITOR AMORIM RAMOS ",
     "Paralelismo": "1.4",
-    "Fazenda": "40101"
+    "Fazenda": "40101",
+    "Unnamed: 16": null
   },
   {
     "ID": "3590441",
@@ -14848,7 +15676,8 @@ const PARALELISMO_DATA = [
     "Frente": "105 - FRENTE CASSIO",
     "Responsável": "REGINALDO DA SILVA GOMES ",
     "Paralelismo": "1.47",
-    "Fazenda": "136101"
+    "Fazenda": "136101",
+    "Unnamed: 16": null
   },
   {
     "ID": "3590436",
@@ -14866,7 +15695,8 @@ const PARALELISMO_DATA = [
     "Frente": "105 - FRENTE CASSIO",
     "Responsável": "REGINALDO DA SILVA GOMES ",
     "Paralelismo": "1.53",
-    "Fazenda": "136101"
+    "Fazenda": "136101",
+    "Unnamed: 16": null
   },
   {
     "ID": "3590431",
@@ -14884,7 +15714,8 @@ const PARALELISMO_DATA = [
     "Frente": "105 - FRENTE CASSIO",
     "Responsável": "REGINALDO DA SILVA GOMES ",
     "Paralelismo": "1.5",
-    "Fazenda": "136101"
+    "Fazenda": "136101",
+    "Unnamed: 16": null
   },
   {
     "ID": "3590597",
@@ -14902,7 +15733,8 @@ const PARALELISMO_DATA = [
     "Frente": "143 - FRENTE CASSIO",
     "Responsável": " Antonio ",
     "Paralelismo": "1.5",
-    "Fazenda": "110101"
+    "Fazenda": "110101",
+    "Unnamed: 16": null
   },
   {
     "ID": "3590596",
@@ -14920,7 +15752,8 @@ const PARALELISMO_DATA = [
     "Frente": "143 - FRENTE CASSIO",
     "Responsável": " Antonio ",
     "Paralelismo": "1.5",
-    "Fazenda": "110101"
+    "Fazenda": "110101",
+    "Unnamed: 16": null
   },
   {
     "ID": "3590590",
@@ -14938,7 +15771,8 @@ const PARALELISMO_DATA = [
     "Frente": "143 - FRENTE CASSIO",
     "Responsável": " Antonio ",
     "Paralelismo": "1.5",
-    "Fazenda": "110101"
+    "Fazenda": "110101",
+    "Unnamed: 16": null
   },
   {
     "ID": "3590383",
@@ -14956,7 +15790,8 @@ const PARALELISMO_DATA = [
     "Frente": "105 - FRENTE CASSIO (ZACARIAS)",
     "Responsável": "NILDA CLAUDINO [2510716]",
     "Paralelismo": "1.5",
-    "Fazenda": "136101"
+    "Fazenda": "136101",
+    "Unnamed: 16": null
   },
   {
     "ID": "3590377",
@@ -14974,7 +15809,8 @@ const PARALELISMO_DATA = [
     "Frente": "105 - FRENTE CASSIO (ZACARIAS)",
     "Responsável": "NILDA CLAUDINO [2510716]",
     "Paralelismo": "1.5",
-    "Fazenda": "136101"
+    "Fazenda": "136101",
+    "Unnamed: 16": null
   },
   {
     "ID": "3590373",
@@ -14992,7 +15828,8 @@ const PARALELISMO_DATA = [
     "Frente": "105 - FRENTE CASSIO (ZACARIAS)",
     "Responsável": "NILDA CLAUDINO [2510716]",
     "Paralelismo": "1.5",
-    "Fazenda": "136101"
+    "Fazenda": "136101",
+    "Unnamed: 16": null
   },
   {
     "ID": "3590369",
@@ -15010,7 +15847,8 @@ const PARALELISMO_DATA = [
     "Frente": "105 - FRENTE CASSIO (ZACARIAS)",
     "Responsável": "NILDA CLAUDINO [2510716]",
     "Paralelismo": "1.5",
-    "Fazenda": "136101"
+    "Fazenda": "136101",
+    "Unnamed: 16": null
   },
   {
     "ID": "3590426",
@@ -15028,7 +15866,8 @@ const PARALELISMO_DATA = [
     "Frente": "139 - FRENTE MANEZÃO",
     "Responsável": "REGINALDO DA SILVA GOMES ",
     "Paralelismo": "1.53",
-    "Fazenda": "281401"
+    "Fazenda": "281401",
+    "Unnamed: 16": null
   },
   {
     "ID": "3590364",
@@ -15046,7 +15885,8 @@ const PARALELISMO_DATA = [
     "Frente": "105 - FRENTE CASSIO (ZACARIAS)",
     "Responsável": "NILDA CLAUDINO [2510716]",
     "Paralelismo": "1.5",
-    "Fazenda": "136101"
+    "Fazenda": "136101",
+    "Unnamed: 16": null
   },
   {
     "ID": "3590421",
@@ -15064,7 +15904,8 @@ const PARALELISMO_DATA = [
     "Frente": "139 - FRENTE MANEZÃO",
     "Responsável": "REGINALDO DA SILVA GOMES ",
     "Paralelismo": "1.5",
-    "Fazenda": "281401"
+    "Fazenda": "281401",
+    "Unnamed: 16": null
   },
   {
     "ID": "3590360",
@@ -15082,7 +15923,8 @@ const PARALELISMO_DATA = [
     "Frente": "105 - FRENTE CASSIO (ZACARIAS)",
     "Responsável": "NILDA CLAUDINO [2510716]",
     "Paralelismo": "1.5",
-    "Fazenda": "136101"
+    "Fazenda": "136101",
+    "Unnamed: 16": null
   },
   {
     "ID": "3591041",
@@ -15100,7 +15942,8 @@ const PARALELISMO_DATA = [
     "Frente": "139 - FRENTE MANEZÃO",
     "Responsável": "MICHELI DE SOUZA SANTOS  ",
     "Paralelismo": "1.5",
-    "Fazenda": "281401"
+    "Fazenda": "281401",
+    "Unnamed: 16": null
   },
   {
     "ID": "3591040",
@@ -15118,7 +15961,8 @@ const PARALELISMO_DATA = [
     "Frente": "139 - FRENTE MANEZÃO",
     "Responsável": "MICHELI DE SOUZA SANTOS  ",
     "Paralelismo": "1.5",
-    "Fazenda": "281401"
+    "Fazenda": "281401",
+    "Unnamed: 16": null
   },
   {
     "ID": "3591039",
@@ -15136,7 +15980,8 @@ const PARALELISMO_DATA = [
     "Frente": "139 - FRENTE MANEZÃO",
     "Responsável": "MICHELI DE SOUZA SANTOS  ",
     "Paralelismo": "1.5",
-    "Fazenda": "281401"
+    "Fazenda": "281401",
+    "Unnamed: 16": null
   },
   {
     "ID": "3591038",
@@ -15154,7 +15999,8 @@ const PARALELISMO_DATA = [
     "Frente": "139 - FRENTE MANEZÃO",
     "Responsável": "MICHELI DE SOUZA SANTOS  ",
     "Paralelismo": "1.5",
-    "Fazenda": "281401"
+    "Fazenda": "281401",
+    "Unnamed: 16": null
   },
   {
     "ID": "3591037",
@@ -15172,7 +16018,8 @@ const PARALELISMO_DATA = [
     "Frente": "139 - FRENTE MANEZÃO",
     "Responsável": "MICHELI DE SOUZA SANTOS  ",
     "Paralelismo": "1.5",
-    "Fazenda": "281401"
+    "Fazenda": "281401",
+    "Unnamed: 16": null
   },
   {
     "ID": "3591036",
@@ -15190,7 +16037,8 @@ const PARALELISMO_DATA = [
     "Frente": "139 - FRENTE MANEZÃO",
     "Responsável": "MICHELI DE SOUZA SANTOS  ",
     "Paralelismo": "1.5",
-    "Fazenda": "281401"
+    "Fazenda": "281401",
+    "Unnamed: 16": null
   },
   {
     "ID": "3590416",
@@ -15208,7 +16056,8 @@ const PARALELISMO_DATA = [
     "Frente": "139 - FRENTE MANEZÃO",
     "Responsável": "REGINALDO DA SILVA GOMES ",
     "Paralelismo": "1.49",
-    "Fazenda": "281401"
+    "Fazenda": "281401",
+    "Unnamed: 16": null
   },
   {
     "ID": "3590355",
@@ -15226,7 +16075,8 @@ const PARALELISMO_DATA = [
     "Frente": "105 - FRENTE CASSIO (ZACARIAS)",
     "Responsável": "NILDA CLAUDINO [2510716]",
     "Paralelismo": "1.5",
-    "Fazenda": "136101"
+    "Fazenda": "136101",
+    "Unnamed: 16": null
   },
   {
     "ID": "3591146",
@@ -15244,7 +16094,8 @@ const PARALELISMO_DATA = [
     "Frente": "261 - FRENTE PRÓPRIA  (EDMILSON)",
     "Responsável": "VITOR AMORIM RAMOS ",
     "Paralelismo": "1.4",
-    "Fazenda": "40101"
+    "Fazenda": "40101",
+    "Unnamed: 16": null
   },
   {
     "ID": "3590411",
@@ -15262,7 +16113,8 @@ const PARALELISMO_DATA = [
     "Frente": "139 - FRENTE MANEZÃO",
     "Responsável": "REGINALDO DA SILVA GOMES ",
     "Paralelismo": "1.5",
-    "Fazenda": "281401"
+    "Fazenda": "281401",
+    "Unnamed: 16": null
   },
   {
     "ID": "3590351",
@@ -15280,7 +16132,8 @@ const PARALELISMO_DATA = [
     "Frente": "105 - FRENTE CASSIO (ZACARIAS)",
     "Responsável": "NILDA CLAUDINO [2510716]",
     "Paralelismo": "1.5",
-    "Fazenda": "136101"
+    "Fazenda": "136101",
+    "Unnamed: 16": null
   },
   {
     "ID": "3591141",
@@ -15298,7 +16151,8 @@ const PARALELISMO_DATA = [
     "Frente": "261 - FRENTE PRÓPRIA  (EDMILSON)",
     "Responsável": "VITOR AMORIM RAMOS ",
     "Paralelismo": "1.4",
-    "Fazenda": "40101"
+    "Fazenda": "40101",
+    "Unnamed: 16": null
   },
   {
     "ID": "3590347",
@@ -15316,7 +16170,8 @@ const PARALELISMO_DATA = [
     "Frente": "105 - FRENTE CASSIO (ZACARIAS)",
     "Responsável": "NILDA CLAUDINO [2510716]",
     "Paralelismo": "1.5",
-    "Fazenda": "136101"
+    "Fazenda": "136101",
+    "Unnamed: 16": null
   },
   {
     "ID": "3591135",
@@ -15334,7 +16189,8 @@ const PARALELISMO_DATA = [
     "Frente": "261 - FRENTE PRÓPRIA  (EDMILSON)",
     "Responsável": "VITOR AMORIM RAMOS ",
     "Paralelismo": "1.4",
-    "Fazenda": "40101"
+    "Fazenda": "40101",
+    "Unnamed: 16": null
   },
   {
     "ID": "3590406",
@@ -15352,7 +16208,8 @@ const PARALELISMO_DATA = [
     "Frente": "139 - FRENTE MANEZÃO",
     "Responsável": "REGINALDO DA SILVA GOMES ",
     "Paralelismo": "1.5",
-    "Fazenda": "281401"
+    "Fazenda": "281401",
+    "Unnamed: 16": null
   },
   {
     "ID": "3590343",
@@ -15370,7 +16227,8 @@ const PARALELISMO_DATA = [
     "Frente": "105 - FRENTE CASSIO (ZACARIAS)",
     "Responsável": "NILDA CLAUDINO [2510716]",
     "Paralelismo": "1.5",
-    "Fazenda": "136101"
+    "Fazenda": "136101",
+    "Unnamed: 16": null
   },
   {
     "ID": "3591024",
@@ -15388,7 +16246,8 @@ const PARALELISMO_DATA = [
     "Frente": "142 - FRENTE BIDU",
     "Responsável": "Leonardo Ribeiro Teixeira da Silva",
     "Paralelismo": "1.4",
-    "Fazenda": "43001"
+    "Fazenda": "43001",
+    "Unnamed: 16": null
   },
   {
     "ID": "3591023",
@@ -15406,7 +16265,8 @@ const PARALELISMO_DATA = [
     "Frente": "142 - FRENTE BIDU",
     "Responsável": "Leonardo Ribeiro Teixeira da Silva",
     "Paralelismo": "1.4",
-    "Fazenda": "43001"
+    "Fazenda": "43001",
+    "Unnamed: 16": null
   },
   {
     "ID": "3591130",
@@ -15424,7 +16284,8 @@ const PARALELISMO_DATA = [
     "Frente": "261 - FRENTE PRÓPRIA  (EDMILSON)",
     "Responsável": "VITOR AMORIM RAMOS ",
     "Paralelismo": "1.4",
-    "Fazenda": "40101"
+    "Fazenda": "40101",
+    "Unnamed: 16": null
   },
   {
     "ID": "3590402",
@@ -15442,7 +16303,8 @@ const PARALELISMO_DATA = [
     "Frente": "139 - FRENTE MANEZÃO",
     "Responsável": "REGINALDO DA SILVA GOMES ",
     "Paralelismo": "1.51",
-    "Fazenda": "281401"
+    "Fazenda": "281401",
+    "Unnamed: 16": null
   },
   {
     "ID": "3591124",
@@ -15460,7 +16322,8 @@ const PARALELISMO_DATA = [
     "Frente": "261 - FRENTE PRÓPRIA  (EDMILSON)",
     "Responsável": "VITOR AMORIM RAMOS ",
     "Paralelismo": "1.4",
-    "Fazenda": "40101"
+    "Fazenda": "40101",
+    "Unnamed: 16": null
   },
   {
     "ID": "3591119",
@@ -15478,7 +16341,8 @@ const PARALELISMO_DATA = [
     "Frente": "261 - FRENTE PRÓPRIA  (EDMILSON)",
     "Responsável": "VITOR AMORIM RAMOS ",
     "Paralelismo": "1.4",
-    "Fazenda": "40101"
+    "Fazenda": "40101",
+    "Unnamed: 16": null
   },
   {
     "ID": "3591010",
@@ -15496,7 +16360,8 @@ const PARALELISMO_DATA = [
     "Frente": "142 - FRENTE BIDU",
     "Responsável": "Ruan Alexandre Lopes",
     "Paralelismo": "1.4",
-    "Fazenda": "118101"
+    "Fazenda": "118101",
+    "Unnamed: 16": null
   },
   {
     "ID": "3591005",
@@ -15514,7 +16379,8 @@ const PARALELISMO_DATA = [
     "Frente": "142 - FRENTE BIDU",
     "Responsável": "Ruan Alexandre Lopes",
     "Paralelismo": "1.4",
-    "Fazenda": "118101"
+    "Fazenda": "118101",
+    "Unnamed: 16": null
   },
   {
     "ID": "3590999",
@@ -15532,7 +16398,8 @@ const PARALELISMO_DATA = [
     "Frente": "142 - FRENTE BIDU",
     "Responsável": "Ruan Alexandre Lopes",
     "Paralelismo": "1.4",
-    "Fazenda": "118101"
+    "Fazenda": "118101",
+    "Unnamed: 16": null
   },
   {
     "ID": "3590991",
@@ -15550,7 +16417,8 @@ const PARALELISMO_DATA = [
     "Frente": "142 - FRENTE BIDU",
     "Responsável": "Ruan Alexandre Lopes",
     "Paralelismo": "1.4",
-    "Fazenda": "118101"
+    "Fazenda": "118101",
+    "Unnamed: 16": null
   },
   {
     "ID": "3590986",
@@ -15568,7 +16436,8 @@ const PARALELISMO_DATA = [
     "Frente": "142 - FRENTE BIDU",
     "Responsável": "Ruan Alexandre Lopes",
     "Paralelismo": "1.4",
-    "Fazenda": "118101"
+    "Fazenda": "118101",
+    "Unnamed: 16": null
   },
   {
     "ID": "3591112",
@@ -15586,7 +16455,8 @@ const PARALELISMO_DATA = [
     "Frente": "142 - FRENTE BIDU",
     "Responsável": "Leonardo Ribeiro Teixeira da Silva",
     "Paralelismo": "1.4",
-    "Fazenda": "118101"
+    "Fazenda": "118101",
+    "Unnamed: 16": null
   },
   {
     "ID": "3588339",
@@ -15604,7 +16474,8 @@ const PARALELISMO_DATA = [
     "Frente": "261 - FRENTE PRÓPRIA  (EDMILSON)",
     "Responsável": "REGINALDO DA SILVA GOMES ",
     "Paralelismo": "1.38",
-    "Fazenda": "40101"
+    "Fazenda": "40101",
+    "Unnamed: 16": null
   },
   {
     "ID": "3588334",
@@ -15622,7 +16493,8 @@ const PARALELISMO_DATA = [
     "Frente": "261 - FRENTE PRÓPRIA  (EDMILSON)",
     "Responsável": "REGINALDO DA SILVA GOMES ",
     "Paralelismo": "1.4",
-    "Fazenda": "40101"
+    "Fazenda": "40101",
+    "Unnamed: 16": null
   },
   {
     "ID": "3588327",
@@ -15640,7 +16512,8 @@ const PARALELISMO_DATA = [
     "Frente": "261 - FRENTE PRÓPRIA  (EDMILSON)",
     "Responsável": "REGINALDO DA SILVA GOMES ",
     "Paralelismo": "1.4",
-    "Fazenda": "40101"
+    "Fazenda": "40101",
+    "Unnamed: 16": null
   },
   {
     "ID": "3587943",
@@ -15658,7 +16531,8 @@ const PARALELISMO_DATA = [
     "Frente": "142 - FRENTE BIDU",
     "Responsável": "Leonardo Ribeiro Teixeira da Silva",
     "Paralelismo": "1.4",
-    "Fazenda": "118101"
+    "Fazenda": "118101",
+    "Unnamed: 16": null
   },
   {
     "ID": "3587942",
@@ -15676,7 +16550,8 @@ const PARALELISMO_DATA = [
     "Frente": "142 - FRENTE BIDU",
     "Responsável": "Leonardo Ribeiro Teixeira da Silva",
     "Paralelismo": "1.4",
-    "Fazenda": "118101"
+    "Fazenda": "118101",
+    "Unnamed: 16": null
   },
   {
     "ID": "3588598",
@@ -15694,7 +16569,8 @@ const PARALELISMO_DATA = [
     "Frente": "135 - FRENTE PEDRINHO",
     "Responsável": "MARCELO DE OLIVEIRA JUNIOR",
     "Paralelismo": "1.38",
-    "Fazenda": "227203"
+    "Fazenda": "227203",
+    "Unnamed: 16": null
   },
   {
     "ID": "3587855",
@@ -15712,7 +16588,8 @@ const PARALELISMO_DATA = [
     "Frente": "261 - FRENTE PRÓPRIA  (EDMILSON)",
     "Responsável": "VITOR AMORIM RAMOS ",
     "Paralelismo": "1.4",
-    "Fazenda": "40101"
+    "Fazenda": "40101",
+    "Unnamed: 16": null
   },
   {
     "ID": "3588535",
@@ -15730,7 +16607,8 @@ const PARALELISMO_DATA = [
     "Frente": "135 - FRENTE PEDRINHO",
     "Responsável": "MARCELO DE OLIVEIRA JUNIOR",
     "Paralelismo": "1.4",
-    "Fazenda": "227203"
+    "Fazenda": "227203",
+    "Unnamed: 16": null
   },
   {
     "ID": "3587848",
@@ -15748,7 +16626,8 @@ const PARALELISMO_DATA = [
     "Frente": "261 - FRENTE PRÓPRIA  (EDMILSON)",
     "Responsável": "VITOR AMORIM RAMOS ",
     "Paralelismo": "1.4",
-    "Fazenda": "40101"
+    "Fazenda": "40101",
+    "Unnamed: 16": null
   },
   {
     "ID": "3587844",
@@ -15766,7 +16645,8 @@ const PARALELISMO_DATA = [
     "Frente": "261 - FRENTE PRÓPRIA  (EDMILSON)",
     "Responsável": "VITOR AMORIM RAMOS ",
     "Paralelismo": "1.4",
-    "Fazenda": "40101"
+    "Fazenda": "40101",
+    "Unnamed: 16": null
   },
   {
     "ID": "3587839",
@@ -15784,7 +16664,8 @@ const PARALELISMO_DATA = [
     "Frente": "261 - FRENTE PRÓPRIA  (EDMILSON)",
     "Responsável": "VITOR AMORIM RAMOS ",
     "Paralelismo": "1.4",
-    "Fazenda": "40101"
+    "Fazenda": "40101",
+    "Unnamed: 16": null
   },
   {
     "ID": "3587835",
@@ -15802,7 +16683,8 @@ const PARALELISMO_DATA = [
     "Frente": "261 - FRENTE PRÓPRIA  (EDMILSON)",
     "Responsável": "VITOR AMORIM RAMOS ",
     "Paralelismo": "1.4",
-    "Fazenda": "40101"
+    "Fazenda": "40101",
+    "Unnamed: 16": null
   },
   {
     "ID": "3587830",
@@ -15820,7 +16702,8 @@ const PARALELISMO_DATA = [
     "Frente": "261 - FRENTE PRÓPRIA  (EDMILSON)",
     "Responsável": "VITOR AMORIM RAMOS ",
     "Paralelismo": "1.4",
-    "Fazenda": "40101"
+    "Fazenda": "40101",
+    "Unnamed: 16": null
   },
   {
     "ID": "3587825",
@@ -15838,7 +16721,8 @@ const PARALELISMO_DATA = [
     "Frente": "261 - FRENTE PRÓPRIA  (EDMILSON)",
     "Responsável": "VITOR AMORIM RAMOS ",
     "Paralelismo": "1.4",
-    "Fazenda": "40101"
+    "Fazenda": "40101",
+    "Unnamed: 16": null
   },
   {
     "ID": "3587340",
@@ -15856,7 +16740,8 @@ const PARALELISMO_DATA = [
     "Frente": "105 - FRENTE CASSIO (ZACARIAS)",
     "Responsável": "NILDA CLAUDINO [2510716]",
     "Paralelismo": "1.5",
-    "Fazenda": "136101"
+    "Fazenda": "136101",
+    "Unnamed: 16": null
   },
   {
     "ID": "3587338",
@@ -15874,7 +16759,8 @@ const PARALELISMO_DATA = [
     "Frente": "105 - FRENTE CASSIO (ZACARIAS)",
     "Responsável": "NILDA CLAUDINO [2510716]",
     "Paralelismo": "1.5",
-    "Fazenda": "136101"
+    "Fazenda": "136101",
+    "Unnamed: 16": null
   },
   {
     "ID": "3588505",
@@ -15892,7 +16778,8 @@ const PARALELISMO_DATA = [
     "Frente": "135 - FRENTE PEDRINHO",
     "Responsável": "MARCELO DE OLIVEIRA JUNIOR",
     "Paralelismo": "1.42",
-    "Fazenda": "201901"
+    "Fazenda": "201901",
+    "Unnamed: 16": null
   },
   {
     "ID": "3587336",
@@ -15910,7 +16797,8 @@ const PARALELISMO_DATA = [
     "Frente": "105 - FRENTE CASSIO (ZACARIAS)",
     "Responsável": "NILDA CLAUDINO [2510716]",
     "Paralelismo": "1.5",
-    "Fazenda": "136101"
+    "Fazenda": "136101",
+    "Unnamed: 16": null
   },
   {
     "ID": "3588500",
@@ -15928,7 +16816,8 @@ const PARALELISMO_DATA = [
     "Frente": "135 - FRENTE PEDRINHO",
     "Responsável": "MARCELO DE OLIVEIRA JUNIOR",
     "Paralelismo": "1.41",
-    "Fazenda": "201901"
+    "Fazenda": "201901",
+    "Unnamed: 16": null
   },
   {
     "ID": "3587334",
@@ -15946,7 +16835,8 @@ const PARALELISMO_DATA = [
     "Frente": "105 - FRENTE CASSIO (ZACARIAS)",
     "Responsável": "NILDA CLAUDINO [2510716]",
     "Paralelismo": "1.5",
-    "Fazenda": "136101"
+    "Fazenda": "136101",
+    "Unnamed: 16": null
   },
   {
     "ID": "3587332",
@@ -15964,7 +16854,8 @@ const PARALELISMO_DATA = [
     "Frente": "105 - FRENTE CASSIO (ZACARIAS)",
     "Responsável": "NILDA CLAUDINO [2510716]",
     "Paralelismo": "1.5",
-    "Fazenda": "136101"
+    "Fazenda": "136101",
+    "Unnamed: 16": null
   },
   {
     "ID": "3588321",
@@ -15982,7 +16873,8 @@ const PARALELISMO_DATA = [
     "Frente": "135 - PEDRINHO ",
     "Responsável": "REGINALDO DA SILVA GOMES ",
     "Paralelismo": "1.39",
-    "Fazenda": "201901"
+    "Fazenda": "201901",
+    "Unnamed: 16": null
   },
   {
     "ID": "3587233",
@@ -16000,7 +16892,8 @@ const PARALELISMO_DATA = [
     "Frente": "139 - FRENTE MANEZÃO",
     "Responsável": "MICHELI DE SOUZA SANTOS  ",
     "Paralelismo": "1.48",
-    "Fazenda": "150401"
+    "Fazenda": "150401",
+    "Unnamed: 16": null
   },
   {
     "ID": "3588314",
@@ -16018,7 +16911,8 @@ const PARALELISMO_DATA = [
     "Frente": "135 - PEDRINHO ",
     "Responsável": "REGINALDO DA SILVA GOMES ",
     "Paralelismo": "1.38",
-    "Fazenda": "201901"
+    "Fazenda": "201901",
+    "Unnamed: 16": null
   },
   {
     "ID": "3587228",
@@ -16036,7 +16930,8 @@ const PARALELISMO_DATA = [
     "Frente": "139 - FRENTE MANEZÃO",
     "Responsável": "MABILA HELEN D FIGUEIREDO",
     "Paralelismo": "1.51",
-    "Fazenda": "150401"
+    "Fazenda": "150401",
+    "Unnamed: 16": null
   },
   {
     "ID": "3588308",
@@ -16054,7 +16949,8 @@ const PARALELISMO_DATA = [
     "Frente": "135 - PEDRINHO ",
     "Responsável": "REGINALDO DA SILVA GOMES ",
     "Paralelismo": "1.39",
-    "Fazenda": "201901"
+    "Fazenda": "201901",
+    "Unnamed: 16": null
   },
   {
     "ID": "3587219",
@@ -16072,7 +16968,8 @@ const PARALELISMO_DATA = [
     "Frente": "139 - FRENTE MANEZÃO",
     "Responsável": "MABILA HELEN D FIGUEIREDO",
     "Paralelismo": "1.5",
-    "Fazenda": "150401"
+    "Fazenda": "150401",
+    "Unnamed: 16": null
   },
   {
     "ID": "3587214",
@@ -16090,7 +16987,8 @@ const PARALELISMO_DATA = [
     "Frente": "139 - FRENTE MANEZÃO",
     "Responsável": "MABILA HELEN D FIGUEIREDO",
     "Paralelismo": "1.5",
-    "Fazenda": "150401"
+    "Fazenda": "150401",
+    "Unnamed: 16": null
   },
   {
     "ID": "3587212",
@@ -16108,7 +17006,8 @@ const PARALELISMO_DATA = [
     "Frente": "139 - FRENTE MANEZÃO",
     "Responsável": "MABILA HELEN D FIGUEIREDO",
     "Paralelismo": "1.5",
-    "Fazenda": "150401"
+    "Fazenda": "150401",
+    "Unnamed: 16": null
   },
   {
     "ID": "3587208",
@@ -16126,7 +17025,8 @@ const PARALELISMO_DATA = [
     "Frente": "139 - FRENTE MANEZÃO",
     "Responsável": "MABILA HELEN D FIGUEIREDO",
     "Paralelismo": "1.5",
-    "Fazenda": "150401"
+    "Fazenda": "150401",
+    "Unnamed: 16": null
   },
   {
     "ID": "3588304",
@@ -16144,7 +17044,8 @@ const PARALELISMO_DATA = [
     "Frente": "135 - PEDRINHO ",
     "Responsável": "REGINALDO DA SILVA GOMES ",
     "Paralelismo": "1.44",
-    "Fazenda": "227203"
+    "Fazenda": "227203",
+    "Unnamed: 16": null
   },
   {
     "ID": "3588298",
@@ -16162,7 +17063,8 @@ const PARALELISMO_DATA = [
     "Frente": "135 - PEDRINHO ",
     "Responsável": "REGINALDO DA SILVA GOMES ",
     "Paralelismo": "1.4",
-    "Fazenda": "227203"
+    "Fazenda": "227203",
+    "Unnamed: 16": null
   },
   {
     "ID": "3588283",
@@ -16180,7 +17082,8 @@ const PARALELISMO_DATA = [
     "Frente": "135 - PEDRINHO ",
     "Responsável": "REGINALDO DA SILVA GOMES ",
     "Paralelismo": "1.42",
-    "Fazenda": "227203"
+    "Fazenda": "227203",
+    "Unnamed: 16": null
   },
   {
     "ID": "3587330",
@@ -16198,7 +17101,8 @@ const PARALELISMO_DATA = [
     "Frente": "105 - FRENTE CASSIO (ZACARIAS)",
     "Responsável": "NILDA CLAUDINO [2510716]",
     "Paralelismo": "1.5",
-    "Fazenda": "136101"
+    "Fazenda": "136101",
+    "Unnamed: 16": null
   },
   {
     "ID": "3587328",
@@ -16216,7 +17120,8 @@ const PARALELISMO_DATA = [
     "Frente": "105 - FRENTE CASSIO (ZACARIAS)",
     "Responsável": "NILDA CLAUDINO [2510716]",
     "Paralelismo": "1.5",
-    "Fazenda": "136101"
+    "Fazenda": "136101",
+    "Unnamed: 16": null
   },
   {
     "ID": "3588481",
@@ -16234,7 +17139,8 @@ const PARALELISMO_DATA = [
     "Frente": "135 - FRENTE PEDRINHO",
     "Responsável": "MARCELO DE OLIVEIRA JUNIOR",
     "Paralelismo": "1.4",
-    "Fazenda": "201901"
+    "Fazenda": "201901",
+    "Unnamed: 16": null
   },
   {
     "ID": "3588477",
@@ -16252,7 +17158,8 @@ const PARALELISMO_DATA = [
     "Frente": "135 - FRENTE PEDRINHO",
     "Responsável": "MARCELO DE OLIVEIRA JUNIOR",
     "Paralelismo": "1.43",
-    "Fazenda": "201901"
+    "Fazenda": "201901",
+    "Unnamed: 16": null
   },
   {
     "ID": "3587925",
@@ -16270,7 +17177,8 @@ const PARALELISMO_DATA = [
     "Frente": "142 - FRENTE BIDU",
     "Responsável": "Leonardo Ribeiro Teixeira da Silva",
     "Paralelismo": "1.4",
-    "Fazenda": "43001"
+    "Fazenda": "43001",
+    "Unnamed: 16": null
   },
   {
     "ID": "3588472",
@@ -16288,7 +17196,8 @@ const PARALELISMO_DATA = [
     "Frente": "135 - FRENTE PEDRINHO",
     "Responsável": "MARCELO DE OLIVEIRA JUNIOR",
     "Paralelismo": "1.41",
-    "Fazenda": "201901"
+    "Fazenda": "201901",
+    "Unnamed: 16": null
   },
   {
     "ID": "3587919",
@@ -16306,7 +17215,8 @@ const PARALELISMO_DATA = [
     "Frente": "142 - FRENTE BIDU",
     "Responsável": "Leonardo Ribeiro Teixeira da Silva",
     "Paralelismo": "1.4",
-    "Fazenda": "43001"
+    "Fazenda": "43001",
+    "Unnamed: 16": null
   },
   {
     "ID": "3587045",
@@ -16324,7 +17234,8 @@ const PARALELISMO_DATA = [
     "Frente": "261 - FRENTE PRÓPRIA  (EDMILSON)",
     "Responsável": "VITOR AMORIM RAMOS ",
     "Paralelismo": "1.4",
-    "Fazenda": "40101"
+    "Fazenda": "40101",
+    "Unnamed: 16": null
   },
   {
     "ID": "3587200",
@@ -16342,7 +17253,8 @@ const PARALELISMO_DATA = [
     "Frente": "139 - FRENTE MANEZÃO",
     "Responsável": "MICHELI DE SOUZA SANTOS  ",
     "Paralelismo": "1.39",
-    "Fazenda": "287101"
+    "Fazenda": "287101",
+    "Unnamed: 16": null
   },
   {
     "ID": "3587910",
@@ -16360,7 +17272,8 @@ const PARALELISMO_DATA = [
     "Frente": "142 - FRENTE BIDU",
     "Responsável": "Ruan Alexandre Lopes",
     "Paralelismo": "1.4",
-    "Fazenda": "43001"
+    "Fazenda": "43001",
+    "Unnamed: 16": null
   },
   {
     "ID": "3587195",
@@ -16378,7 +17291,8 @@ const PARALELISMO_DATA = [
     "Frente": "139 - FRENTE MANEZÃO",
     "Responsável": "MICHELI DE SOUZA SANTOS  ",
     "Paralelismo": "1.4",
-    "Fazenda": "287101"
+    "Fazenda": "287101",
+    "Unnamed: 16": null
   },
   {
     "ID": "3587040",
@@ -16396,7 +17310,8 @@ const PARALELISMO_DATA = [
     "Frente": "261 - FRENTE PRÓPRIA  (EDMILSON)",
     "Responsável": "VITOR AMORIM RAMOS ",
     "Paralelismo": "1.4",
-    "Fazenda": "40101"
+    "Fazenda": "40101",
+    "Unnamed: 16": null
   },
   {
     "ID": "3587902",
@@ -16414,7 +17329,8 @@ const PARALELISMO_DATA = [
     "Frente": "142 - FRENTE BIDU",
     "Responsável": "Ruan Alexandre Lopes",
     "Paralelismo": "1.4",
-    "Fazenda": "43001"
+    "Fazenda": "43001",
+    "Unnamed: 16": null
   },
   {
     "ID": "3587899",
@@ -16432,7 +17348,8 @@ const PARALELISMO_DATA = [
     "Frente": "142 - FRENTE BIDU",
     "Responsável": "Ruan Alexandre Lopes",
     "Paralelismo": "1.4",
-    "Fazenda": "43001"
+    "Fazenda": "43001",
+    "Unnamed: 16": null
   },
   {
     "ID": "3587189",
@@ -16450,7 +17367,8 @@ const PARALELISMO_DATA = [
     "Frente": "139 - FRENTE MANEZÃO",
     "Responsável": "MICHELI DE SOUZA SANTOS  ",
     "Paralelismo": "1.4",
-    "Fazenda": "287101"
+    "Fazenda": "287101",
+    "Unnamed: 16": null
   },
   {
     "ID": "3587035",
@@ -16468,7 +17386,8 @@ const PARALELISMO_DATA = [
     "Frente": "261 - FRENTE PRÓPRIA  (EDMILSON)",
     "Responsável": "VITOR AMORIM RAMOS ",
     "Paralelismo": "1.4",
-    "Fazenda": "40101"
+    "Fazenda": "40101",
+    "Unnamed: 16": null
   },
   {
     "ID": "3587715",
@@ -16486,7 +17405,8 @@ const PARALELISMO_DATA = [
     "Frente": "143 - FRENTE CASSIO",
     "Responsável": "GABRIEL HENRIQUE MARTINS PEREIRA",
     "Paralelismo": "1.4",
-    "Fazenda": "254602"
+    "Fazenda": "254602",
+    "Unnamed: 16": null
   },
   {
     "ID": "3588458",
@@ -16504,7 +17424,8 @@ const PARALELISMO_DATA = [
     "Frente": "135 - FRENTE PEDRINHO",
     "Responsável": "MARCELO DE OLIVEIRA JUNIOR",
     "Paralelismo": "1.42",
-    "Fazenda": "227203"
+    "Fazenda": "227203",
+    "Unnamed: 16": null
   },
   {
     "ID": "3587030",
@@ -16522,7 +17443,8 @@ const PARALELISMO_DATA = [
     "Frente": "261 - FRENTE PRÓPRIA  (EDMILSON)",
     "Responsável": "VITOR AMORIM RAMOS ",
     "Paralelismo": "1.4",
-    "Fazenda": "40101"
+    "Fazenda": "40101",
+    "Unnamed: 16": null
   },
   {
     "ID": "3587184",
@@ -16540,7 +17462,8 @@ const PARALELISMO_DATA = [
     "Frente": "139 - FRENTE MANEZÃO",
     "Responsável": "MICHELI DE SOUZA SANTOS  ",
     "Paralelismo": "1.4",
-    "Fazenda": "287101"
+    "Fazenda": "287101",
+    "Unnamed: 16": null
   },
   {
     "ID": "3588451",
@@ -16558,7 +17481,8 @@ const PARALELISMO_DATA = [
     "Frente": "135 - FRENTE PEDRINHO",
     "Responsável": "MARCELO DE OLIVEIRA JUNIOR",
     "Paralelismo": "1.39",
-    "Fazenda": "227203"
+    "Fazenda": "227203",
+    "Unnamed: 16": null
   },
   {
     "ID": "3587024",
@@ -16576,7 +17500,8 @@ const PARALELISMO_DATA = [
     "Frente": "261 - FRENTE PRÓPRIA  (EDMILSON)",
     "Responsável": "VITOR AMORIM RAMOS ",
     "Paralelismo": "1.4",
-    "Fazenda": "40101"
+    "Fazenda": "40101",
+    "Unnamed: 16": null
   },
   {
     "ID": "3587179",
@@ -16594,7 +17519,8 @@ const PARALELISMO_DATA = [
     "Frente": "139 - FRENTE MANEZÃO",
     "Responsável": "MICHELI DE SOUZA SANTOS  ",
     "Paralelismo": "1.4",
-    "Fazenda": "287101"
+    "Fazenda": "287101",
+    "Unnamed: 16": null
   },
   {
     "ID": "3587404",
@@ -16612,7 +17538,8 @@ const PARALELISMO_DATA = [
     "Frente": "143 - FRENTE CASSIO",
     "Responsável": "GABRIEL HENRIQUE MARTINS PEREIRA",
     "Paralelismo": "1.4",
-    "Fazenda": "254701"
+    "Fazenda": "254701",
+    "Unnamed: 16": null
   },
   {
     "ID": "3587173",
@@ -16630,7 +17557,8 @@ const PARALELISMO_DATA = [
     "Frente": "139 - FRENTE MANEZÃO",
     "Responsável": "MICHELI DE SOUZA SANTOS  ",
     "Paralelismo": "1.42",
-    "Fazenda": "287101"
+    "Fazenda": "287101",
+    "Unnamed: 16": null
   },
   {
     "ID": "3587399",
@@ -16648,7 +17576,8 @@ const PARALELISMO_DATA = [
     "Frente": "143 - FRENTE CASSIO",
     "Responsável": "GABRIEL HENRIQUE MARTINS PEREIRA",
     "Paralelismo": "1.4",
-    "Fazenda": "254602"
+    "Fazenda": "254602",
+    "Unnamed: 16": null
   },
   {
     "ID": "3588446",
@@ -16666,7 +17595,8 @@ const PARALELISMO_DATA = [
     "Frente": "135 - FRENTE PEDRINHO",
     "Responsável": "MARCELO DE OLIVEIRA JUNIOR",
     "Paralelismo": "1.4",
-    "Fazenda": "227203"
+    "Fazenda": "227203",
+    "Unnamed: 16": null
   },
   {
     "ID": "3587167",
@@ -16684,7 +17614,8 @@ const PARALELISMO_DATA = [
     "Frente": "139 - FRENTE MANEZÃO",
     "Responsável": "MICHELI DE SOUZA SANTOS  ",
     "Paralelismo": "1.4",
-    "Fazenda": "287101"
+    "Fazenda": "287101",
+    "Unnamed: 16": null
   },
   {
     "ID": "3588441",
@@ -16702,7 +17633,8 @@ const PARALELISMO_DATA = [
     "Frente": "135 - FRENTE PEDRINHO",
     "Responsável": "MARCELO DE OLIVEIRA JUNIOR",
     "Paralelismo": "1.4",
-    "Fazenda": "227203"
+    "Fazenda": "227203",
+    "Unnamed: 16": null
   },
   {
     "ID": "3584478",
@@ -16720,7 +17652,8 @@ const PARALELISMO_DATA = [
     "Frente": "143 - FRENTE CASSIO",
     "Responsável": "REGINALDO DA SILVA GOMES ",
     "Paralelismo": "1.38",
-    "Fazenda": "254602"
+    "Fazenda": "254602",
+    "Unnamed: 16": null
   },
   {
     "ID": "3584472",
@@ -16738,7 +17671,8 @@ const PARALELISMO_DATA = [
     "Frente": "143 - FRENTE CASSIO",
     "Responsável": "REGINALDO DA SILVA GOMES ",
     "Paralelismo": "1.4",
-    "Fazenda": "254602"
+    "Fazenda": "254602",
+    "Unnamed: 16": null
   },
   {
     "ID": "3584635",
@@ -16756,7 +17690,8 @@ const PARALELISMO_DATA = [
     "Frente": "142 - FRENTE BIDU",
     "Responsável": "Leonardo Ribeiro Teixeira da Silva",
     "Paralelismo": "1.4",
-    "Fazenda": "43001"
+    "Fazenda": "43001",
+    "Unnamed: 16": null
   },
   {
     "ID": "3584467",
@@ -16774,7 +17709,8 @@ const PARALELISMO_DATA = [
     "Frente": "143 - FRENTE CASSIO",
     "Responsável": "REGINALDO DA SILVA GOMES ",
     "Paralelismo": "1.37",
-    "Fazenda": "254602"
+    "Fazenda": "254602",
+    "Unnamed: 16": null
   },
   {
     "ID": "3584632",
@@ -16792,7 +17728,8 @@ const PARALELISMO_DATA = [
     "Frente": "142 - FRENTE BIDU",
     "Responsável": "Leonardo Ribeiro Teixeira da Silva",
     "Paralelismo": "1.4",
-    "Fazenda": "43001"
+    "Fazenda": "43001",
+    "Unnamed: 16": null
   },
   {
     "ID": "3584630",
@@ -16810,7 +17747,8 @@ const PARALELISMO_DATA = [
     "Frente": "142 - FRENTE BIDU",
     "Responsável": "Leonardo Ribeiro Teixeira da Silva",
     "Paralelismo": "1.4",
-    "Fazenda": "43001"
+    "Fazenda": "43001",
+    "Unnamed: 16": null
   },
   {
     "ID": "3584628",
@@ -16828,7 +17766,8 @@ const PARALELISMO_DATA = [
     "Frente": "142 - FRENTE BIDU",
     "Responsável": "Leonardo Ribeiro Teixeira da Silva",
     "Paralelismo": "1.4",
-    "Fazenda": "43001"
+    "Fazenda": "43001",
+    "Unnamed: 16": null
   },
   {
     "ID": "3584462",
@@ -16846,7 +17785,8 @@ const PARALELISMO_DATA = [
     "Frente": "143 - FRENTE CASSIO",
     "Responsável": "REGINALDO DA SILVA GOMES ",
     "Paralelismo": "1.4",
-    "Fazenda": "254602"
+    "Fazenda": "254602",
+    "Unnamed: 16": null
   },
   {
     "ID": "3584455",
@@ -16864,7 +17804,8 @@ const PARALELISMO_DATA = [
     "Frente": "143 - FRENTE CASSIO",
     "Responsável": "REGINALDO DA SILVA GOMES ",
     "Paralelismo": "1.4",
-    "Fazenda": "254701"
+    "Fazenda": "254701",
+    "Unnamed: 16": null
   },
   {
     "ID": "3585155",
@@ -16882,7 +17823,8 @@ const PARALELISMO_DATA = [
     "Frente": "143 - FRENTE CASSIO",
     "Responsável": "GABRIEL HENRIQUE MARTINS PEREIRA",
     "Paralelismo": "1.4",
-    "Fazenda": "254602"
+    "Fazenda": "254602",
+    "Unnamed: 16": null
   },
   {
     "ID": "3585146",
@@ -16900,7 +17842,8 @@ const PARALELISMO_DATA = [
     "Frente": "143 - FRENTE CASSIO",
     "Responsável": "GABRIEL HENRIQUE MARTINS PEREIRA",
     "Paralelismo": "1.4",
-    "Fazenda": "254602"
+    "Fazenda": "254602",
+    "Unnamed: 16": null
   },
   {
     "ID": "3585173",
@@ -16918,7 +17861,8 @@ const PARALELISMO_DATA = [
     "Frente": "261 - FRENTE PRÓPRIA  (EDMILSON)",
     "Responsável": "VITOR AMORIM RAMOS ",
     "Paralelismo": "1.4",
-    "Fazenda": "40101"
+    "Fazenda": "40101",
+    "Unnamed: 16": null
   },
   {
     "ID": "3584203",
@@ -16936,7 +17880,8 @@ const PARALELISMO_DATA = [
     "Frente": "142 - FRENTE BIDU",
     "Responsável": "Leonardo Ribeiro Teixeira da Silva",
     "Paralelismo": "1.4",
-    "Fazenda": "204608"
+    "Fazenda": "204608",
+    "Unnamed: 16": null
   },
   {
     "ID": "3584202",
@@ -16954,7 +17899,8 @@ const PARALELISMO_DATA = [
     "Frente": "142 - FRENTE BIDU",
     "Responsável": "Leonardo Ribeiro Teixeira da Silva",
     "Paralelismo": "1.4",
-    "Fazenda": "204608"
+    "Fazenda": "204608",
+    "Unnamed: 16": null
   },
   {
     "ID": "3584201",
@@ -16972,7 +17918,8 @@ const PARALELISMO_DATA = [
     "Frente": "142 - FRENTE BIDU",
     "Responsável": "Leonardo Ribeiro Teixeira da Silva",
     "Paralelismo": "1.4",
-    "Fazenda": "204608"
+    "Fazenda": "204608",
+    "Unnamed: 16": null
   },
   {
     "ID": "3584200",
@@ -16990,7 +17937,8 @@ const PARALELISMO_DATA = [
     "Frente": "142 - FRENTE BIDU",
     "Responsável": "Leonardo Ribeiro Teixeira da Silva",
     "Paralelismo": "1.4",
-    "Fazenda": "204608"
+    "Fazenda": "204608",
+    "Unnamed: 16": null
   },
   {
     "ID": "3585161",
@@ -17008,7 +17956,8 @@ const PARALELISMO_DATA = [
     "Frente": "261 - FRENTE PRÓPRIA  (EDMILSON)",
     "Responsável": "VITOR AMORIM RAMOS ",
     "Paralelismo": "1.4",
-    "Fazenda": "40101"
+    "Fazenda": "40101",
+    "Unnamed: 16": null
   },
   {
     "ID": "3585134",
@@ -17026,7 +17975,8 @@ const PARALELISMO_DATA = [
     "Frente": "143 - FRENTE CASSIO",
     "Responsável": "GABRIEL HENRIQUE MARTINS PEREIRA",
     "Paralelismo": "1.4",
-    "Fazenda": "254602"
+    "Fazenda": "254602",
+    "Unnamed: 16": null
   },
   {
     "ID": "3585151",
@@ -17044,7 +17994,8 @@ const PARALELISMO_DATA = [
     "Frente": "261 - FRENTE PRÓPRIA  (EDMILSON)",
     "Responsável": "VITOR AMORIM RAMOS ",
     "Paralelismo": "1.4",
-    "Fazenda": "40101"
+    "Fazenda": "40101",
+    "Unnamed: 16": null
   },
   {
     "ID": "3586268",
@@ -17062,7 +18013,8 @@ const PARALELISMO_DATA = [
     "Frente": "139 - FRENTE MANEZÃO",
     "Responsável": "MICHELI DE SOUZA SANTOS  ",
     "Paralelismo": "1.4",
-    "Fazenda": "40101"
+    "Fazenda": "40101",
+    "Unnamed: 16": null
   },
   {
     "ID": "3586264",
@@ -17080,7 +18032,8 @@ const PARALELISMO_DATA = [
     "Frente": "139 - FRENTE MANEZÃO",
     "Responsável": "MICHELI DE SOUZA SANTOS  ",
     "Paralelismo": "1.4",
-    "Fazenda": "40101"
+    "Fazenda": "40101",
+    "Unnamed: 16": null
   },
   {
     "ID": "3585138",
@@ -17098,7 +18051,8 @@ const PARALELISMO_DATA = [
     "Frente": "261 - FRENTE PRÓPRIA  (EDMILSON)",
     "Responsável": "VITOR AMORIM RAMOS ",
     "Paralelismo": "1.4",
-    "Fazenda": "40101"
+    "Fazenda": "40101",
+    "Unnamed: 16": null
   },
   {
     "ID": "3586259",
@@ -17116,7 +18070,8 @@ const PARALELISMO_DATA = [
     "Frente": "139 - FRENTE MANEZÃO",
     "Responsável": "MICHELI DE SOUZA SANTOS  ",
     "Paralelismo": "1.42",
-    "Fazenda": "40101"
+    "Fazenda": "40101",
+    "Unnamed: 16": null
   },
   {
     "ID": "3586253",
@@ -17134,7 +18089,8 @@ const PARALELISMO_DATA = [
     "Frente": "139 - FRENTE MANEZÃO",
     "Responsável": "MICHELI DE SOUZA SANTOS  ",
     "Paralelismo": "1.4",
-    "Fazenda": "40101"
+    "Fazenda": "40101",
+    "Unnamed: 16": null
   },
   {
     "ID": "3586249",
@@ -17152,7 +18108,8 @@ const PARALELISMO_DATA = [
     "Frente": "139 - FRENTE MANEZÃO",
     "Responsável": "MICHELI DE SOUZA SANTOS  ",
     "Paralelismo": "1.4",
-    "Fazenda": "40101"
+    "Fazenda": "40101",
+    "Unnamed: 16": null
   },
   {
     "ID": "3581873",
@@ -17170,7 +18127,8 @@ const PARALELISMO_DATA = [
     "Frente": "135 - FRENTE PEDRINHO",
     "Responsável": "REGINALDO DA SILVA GOMES ",
     "Paralelismo": "1.39",
-    "Fazenda": "34802"
+    "Fazenda": "34802",
+    "Unnamed: 16": null
   },
   {
     "ID": "3581868",
@@ -17188,7 +18146,8 @@ const PARALELISMO_DATA = [
     "Frente": "135 - FRENTE PEDRINHO",
     "Responsável": "REGINALDO DA SILVA GOMES ",
     "Paralelismo": "1.4",
-    "Fazenda": "34802"
+    "Fazenda": "34802",
+    "Unnamed: 16": null
   },
   {
     "ID": "3581862",
@@ -17206,7 +18165,8 @@ const PARALELISMO_DATA = [
     "Frente": "135 - FRENTE PEDRINHO",
     "Responsável": "REGINALDO DA SILVA GOMES ",
     "Paralelismo": "1.41",
-    "Fazenda": "34802"
+    "Fazenda": "34802",
+    "Unnamed: 16": null
   },
   {
     "ID": "3581857",
@@ -17224,7 +18184,8 @@ const PARALELISMO_DATA = [
     "Frente": "135 - FRENTE PEDRINHO",
     "Responsável": "REGINALDO DA SILVA GOMES ",
     "Paralelismo": "1.42",
-    "Fazenda": "34802"
+    "Fazenda": "34802",
+    "Unnamed: 16": null
   },
   {
     "ID": "3581852",
@@ -17242,7 +18203,8 @@ const PARALELISMO_DATA = [
     "Frente": "135 - FRENTE PEDRINHO",
     "Responsável": "REGINALDO DA SILVA GOMES ",
     "Paralelismo": "1.4",
-    "Fazenda": "34802"
+    "Fazenda": "34802",
+    "Unnamed: 16": null
   },
   {
     "ID": "3581847",
@@ -17260,7 +18222,8 @@ const PARALELISMO_DATA = [
     "Frente": "135 - FRENTE PEDRINHO",
     "Responsável": "REGINALDO DA SILVA GOMES ",
     "Paralelismo": "1.37",
-    "Fazenda": "34802"
+    "Fazenda": "34802",
+    "Unnamed: 16": null
   },
   {
     "ID": "3586243",
@@ -17278,7 +18241,8 @@ const PARALELISMO_DATA = [
     "Frente": "139 - FRENTE MANEZÃO",
     "Responsável": "MICHELI DE SOUZA SANTOS  ",
     "Paralelismo": "1.4",
-    "Fazenda": "40101"
+    "Fazenda": "40101",
+    "Unnamed: 16": null
   },
   {
     "ID": "3586238",
@@ -17296,7 +18260,8 @@ const PARALELISMO_DATA = [
     "Frente": "139 - FRENTE MANEZÃO",
     "Responsável": "MICHELI DE SOUZA SANTOS  ",
     "Paralelismo": "1.38",
-    "Fazenda": "40101"
+    "Fazenda": "40101",
+    "Unnamed: 16": null
   },
   {
     "ID": "3586233",
@@ -17314,7 +18279,8 @@ const PARALELISMO_DATA = [
     "Frente": "139 - FRENTE MANEZÃO",
     "Responsável": "MICHELI DE SOUZA SANTOS  ",
     "Paralelismo": "1.4",
-    "Fazenda": "40101"
+    "Fazenda": "40101",
+    "Unnamed: 16": null
   },
   {
     "ID": "3586228",
@@ -17332,7 +18298,8 @@ const PARALELISMO_DATA = [
     "Frente": "139 - FRENTE MANEZÃO",
     "Responsável": "MICHELI DE SOUZA SANTOS  ",
     "Paralelismo": "1.4",
-    "Fazenda": "40101"
+    "Fazenda": "40101",
+    "Unnamed: 16": null
   },
   {
     "ID": "3586223",
@@ -17350,7 +18317,8 @@ const PARALELISMO_DATA = [
     "Frente": "139 - FRENTE MANEZÃO",
     "Responsável": "MICHELI DE SOUZA SANTOS  ",
     "Paralelismo": "1.4",
-    "Fazenda": "40101"
+    "Fazenda": "40101",
+    "Unnamed: 16": null
   },
   {
     "ID": "3584130",
@@ -17368,7 +18336,8 @@ const PARALELISMO_DATA = [
     "Frente": "261 - FRENTE PRÓPRIA  (EDMILSON)",
     "Responsável": "VITOR AMORIM RAMOS ",
     "Paralelismo": "1.4",
-    "Fazenda": "40101"
+    "Fazenda": "40101",
+    "Unnamed: 16": null
   },
   {
     "ID": "3586218",
@@ -17386,7 +18355,8 @@ const PARALELISMO_DATA = [
     "Frente": "139 - FRENTE MANEZÃO",
     "Responsável": "MICHELI DE SOUZA SANTOS  ",
     "Paralelismo": "1.4",
-    "Fazenda": "40101"
+    "Fazenda": "40101",
+    "Unnamed: 16": null
   },
   {
     "ID": "3584125",
@@ -17404,7 +18374,8 @@ const PARALELISMO_DATA = [
     "Frente": "261 - FRENTE PRÓPRIA  (EDMILSON)",
     "Responsável": "VITOR AMORIM RAMOS ",
     "Paralelismo": "1.4",
-    "Fazenda": "40101"
+    "Fazenda": "40101",
+    "Unnamed: 16": null
   },
   {
     "ID": "3584121",
@@ -17422,7 +18393,8 @@ const PARALELISMO_DATA = [
     "Frente": "261 - FRENTE PRÓPRIA  (EDMILSON)",
     "Responsável": "VITOR AMORIM RAMOS ",
     "Paralelismo": "1.4",
-    "Fazenda": "40101"
+    "Fazenda": "40101",
+    "Unnamed: 16": null
   },
   {
     "ID": "3585068",
@@ -17440,7 +18412,8 @@ const PARALELISMO_DATA = [
     "Frente": "105 - FRENTE CASSIO (ZACARIAS)",
     "Responsável": "NILDA CLAUDINO [2510716]",
     "Paralelismo": "1.5",
-    "Fazenda": "53201"
+    "Fazenda": "53201",
+    "Unnamed: 16": null
   },
   {
     "ID": "3584116",
@@ -17458,7 +18431,8 @@ const PARALELISMO_DATA = [
     "Frente": "261 - FRENTE PRÓPRIA  (EDMILSON)",
     "Responsável": "VITOR AMORIM RAMOS ",
     "Paralelismo": "1.4",
-    "Fazenda": "40101"
+    "Fazenda": "40101",
+    "Unnamed: 16": null
   },
   {
     "ID": "3585059",
@@ -17476,7 +18450,8 @@ const PARALELISMO_DATA = [
     "Frente": "105 - FRENTE CASSIO (ZACARIAS)",
     "Responsável": "NILDA CLAUDINO [2510716]",
     "Paralelismo": "1.5",
-    "Fazenda": "53201"
+    "Fazenda": "53201",
+    "Unnamed: 16": null
   },
   {
     "ID": "3584021",
@@ -17494,7 +18469,8 @@ const PARALELISMO_DATA = [
     "Frente": "261 - FRENTE PRÓPRIA  (EDMILSON)",
     "Responsável": "VITOR AMORIM RAMOS ",
     "Paralelismo": "1.4",
-    "Fazenda": "40101"
+    "Fazenda": "40101",
+    "Unnamed: 16": null
   },
   {
     "ID": "3584073",
@@ -17512,7 +18488,8 @@ const PARALELISMO_DATA = [
     "Frente": "142 - FRENTE BIDU",
     "Responsável": "Leonardo Ribeiro Teixeira da Silva",
     "Paralelismo": "1.4",
-    "Fazenda": "204608"
+    "Fazenda": "204608",
+    "Unnamed: 16": null
   },
   {
     "ID": "3585054",
@@ -17530,7 +18507,8 @@ const PARALELISMO_DATA = [
     "Frente": "105 - FRENTE CASSIO (ZACARIAS)",
     "Responsável": "NILDA CLAUDINO [2510716]",
     "Paralelismo": "1.5",
-    "Fazenda": "53201"
+    "Fazenda": "53201",
+    "Unnamed: 16": null
   },
   {
     "ID": "3584072",
@@ -17548,7 +18526,8 @@ const PARALELISMO_DATA = [
     "Frente": "142 - FRENTE BIDU",
     "Responsável": "Leonardo Ribeiro Teixeira da Silva",
     "Paralelismo": "1.4",
-    "Fazenda": "204608"
+    "Fazenda": "204608",
+    "Unnamed: 16": null
   },
   {
     "ID": "3584017",
@@ -17566,7 +18545,8 @@ const PARALELISMO_DATA = [
     "Frente": "261 - FRENTE PRÓPRIA  (EDMILSON)",
     "Responsável": "VITOR AMORIM RAMOS ",
     "Paralelismo": "1.4",
-    "Fazenda": "40101"
+    "Fazenda": "40101",
+    "Unnamed: 16": null
   },
   {
     "ID": "3585050",
@@ -17584,7 +18564,8 @@ const PARALELISMO_DATA = [
     "Frente": "105 - FRENTE CASSIO (ZACARIAS)",
     "Responsável": "NILDA CLAUDINO [2510716]",
     "Paralelismo": "1.5",
-    "Fazenda": "53201"
+    "Fazenda": "53201",
+    "Unnamed: 16": null
   },
   {
     "ID": "3584010",
@@ -17602,7 +18583,8 @@ const PARALELISMO_DATA = [
     "Frente": "261 - FRENTE PRÓPRIA  (EDMILSON)",
     "Responsável": "VITOR AMORIM RAMOS ",
     "Paralelismo": "1.4",
-    "Fazenda": "40101"
+    "Fazenda": "40101",
+    "Unnamed: 16": null
   },
   {
     "ID": "3584005",
@@ -17620,7 +18602,8 @@ const PARALELISMO_DATA = [
     "Frente": "261 - FRENTE PRÓPRIA  (EDMILSON)",
     "Responsável": "VITOR AMORIM RAMOS ",
     "Paralelismo": "1.4",
-    "Fazenda": "40101"
+    "Fazenda": "40101",
+    "Unnamed: 16": null
   },
   {
     "ID": "3585125",
@@ -17638,7 +18621,8 @@ const PARALELISMO_DATA = [
     "Frente": "143 - FRENTE CASSIO",
     "Responsável": "GABRIEL HENRIQUE MARTINS PEREIRA",
     "Paralelismo": "1.4",
-    "Fazenda": "254602"
+    "Fazenda": "254602",
+    "Unnamed: 16": null
   },
   {
     "ID": "3584448",
@@ -17656,7 +18640,8 @@ const PARALELISMO_DATA = [
     "Frente": "142 - FRENTE BIDU",
     "Responsável": "REGINALDO DA SILVA GOMES ",
     "Paralelismo": "1.4",
-    "Fazenda": "204608"
+    "Fazenda": "204608",
+    "Unnamed: 16": null
   },
   {
     "ID": "3584109",
@@ -17674,7 +18659,8 @@ const PARALELISMO_DATA = [
     "Frente": "261 - FRENTE PRÓPRIA  (EDMILSON)",
     "Responsável": "VITOR AMORIM RAMOS ",
     "Paralelismo": "1.4",
-    "Fazenda": "40101"
+    "Fazenda": "40101",
+    "Unnamed: 16": null
   },
   {
     "ID": "3585122",
@@ -17692,7 +18678,8 @@ const PARALELISMO_DATA = [
     "Frente": "143 - FRENTE CASSIO",
     "Responsável": "GABRIEL HENRIQUE MARTINS PEREIRA",
     "Paralelismo": "1.4",
-    "Fazenda": "254602"
+    "Fazenda": "254602",
+    "Unnamed: 16": null
   },
   {
     "ID": "3585113",
@@ -17710,7 +18697,8 @@ const PARALELISMO_DATA = [
     "Frente": "143 - FRENTE CASSIO",
     "Responsável": "GABRIEL HENRIQUE MARTINS PEREIRA",
     "Paralelismo": "1.4",
-    "Fazenda": "254602"
+    "Fazenda": "254602",
+    "Unnamed: 16": null
   },
   {
     "ID": "3583990",
@@ -17728,7 +18716,8 @@ const PARALELISMO_DATA = [
     "Frente": "261 - FRENTE PRÓPRIA  (EDMILSON)",
     "Responsável": "VITOR AMORIM RAMOS ",
     "Paralelismo": "1.4",
-    "Fazenda": "40101"
+    "Fazenda": "40101",
+    "Unnamed: 16": null
   },
   {
     "ID": "3584441",
@@ -17746,7 +18735,8 @@ const PARALELISMO_DATA = [
     "Frente": "142 - FRENTE BIDU",
     "Responsável": "REGINALDO DA SILVA GOMES ",
     "Paralelismo": "1.4",
-    "Fazenda": "204608"
+    "Fazenda": "204608",
+    "Unnamed: 16": null
   },
   {
     "ID": "3585102",
@@ -17764,7 +18754,8 @@ const PARALELISMO_DATA = [
     "Frente": "143 - FRENTE CASSIO",
     "Responsável": "GABRIEL HENRIQUE MARTINS PEREIRA",
     "Paralelismo": "1.4",
-    "Fazenda": "254602"
+    "Fazenda": "254602",
+    "Unnamed: 16": null
   },
   {
     "ID": "3584435",
@@ -17782,7 +18773,8 @@ const PARALELISMO_DATA = [
     "Frente": "142 - FRENTE BIDU",
     "Responsável": "REGINALDO DA SILVA GOMES ",
     "Paralelismo": "1.43",
-    "Fazenda": "204608"
+    "Fazenda": "204608",
+    "Unnamed: 16": null
   },
   {
     "ID": "3585095",
@@ -17800,7 +18792,8 @@ const PARALELISMO_DATA = [
     "Frente": "143 - FRENTE CASSIO",
     "Responsável": "GABRIEL HENRIQUE MARTINS PEREIRA",
     "Paralelismo": "1.4",
-    "Fazenda": "254602"
+    "Fazenda": "254602",
+    "Unnamed: 16": null
   },
   {
     "ID": "3585085",
@@ -17818,7 +18811,8 @@ const PARALELISMO_DATA = [
     "Frente": "143 - FRENTE CASSIO",
     "Responsável": "GABRIEL HENRIQUE MARTINS PEREIRA",
     "Paralelismo": "1.4",
-    "Fazenda": "254602"
+    "Fazenda": "254602",
+    "Unnamed: 16": null
   },
   {
     "ID": "3584431",
@@ -17836,7 +18830,8 @@ const PARALELISMO_DATA = [
     "Frente": "142 - FRENTE BIDU",
     "Responsável": "REGINALDO DA SILVA GOMES ",
     "Paralelismo": "1.4",
-    "Fazenda": "204608"
+    "Fazenda": "204608",
+    "Unnamed: 16": null
   },
   {
     "ID": "3582023",
@@ -17854,7 +18849,8 @@ const PARALELISMO_DATA = [
     "Frente": "261 - FRENTE PRÓPRIA  (EDMILSON)",
     "Responsável": "REGINALDO DA SILVA GOMES ",
     "Paralelismo": "1.4",
-    "Fazenda": "40101"
+    "Fazenda": "40101",
+    "Unnamed: 16": null
   },
   {
     "ID": "3582019",
@@ -17872,7 +18868,8 @@ const PARALELISMO_DATA = [
     "Frente": "261 - FRENTE PRÓPRIA  (EDMILSON)",
     "Responsável": "REGINALDO DA SILVA GOMES ",
     "Paralelismo": "1.41",
-    "Fazenda": "40101"
+    "Fazenda": "40101",
+    "Unnamed: 16": null
   },
   {
     "ID": "3582015",
@@ -17890,7 +18887,8 @@ const PARALELISMO_DATA = [
     "Frente": "261 - FRENTE PRÓPRIA  (EDMILSON)",
     "Responsável": "REGINALDO DA SILVA GOMES ",
     "Paralelismo": "1.44",
-    "Fazenda": "40101"
+    "Fazenda": "40101",
+    "Unnamed: 16": null
   },
   {
     "ID": "3582010",
@@ -17908,7 +18906,8 @@ const PARALELISMO_DATA = [
     "Frente": "261 - FRENTE PRÓPRIA  (EDMILSON)",
     "Responsável": "REGINALDO DA SILVA GOMES ",
     "Paralelismo": "1.4",
-    "Fazenda": "40101"
+    "Fazenda": "40101",
+    "Unnamed: 16": null
   },
   {
     "ID": "3582005",
@@ -17926,7 +18925,8 @@ const PARALELISMO_DATA = [
     "Frente": "261 - FRENTE PRÓPRIA  (EDMILSON)",
     "Responsável": "REGINALDO DA SILVA GOMES ",
     "Paralelismo": "1.42",
-    "Fazenda": "40101"
+    "Fazenda": "40101",
+    "Unnamed: 16": null
   },
   {
     "ID": "3581879",
@@ -17944,7 +18944,8 @@ const PARALELISMO_DATA = [
     "Frente": "261 - FRENTE PRÓPRIA  (EDMILSON)",
     "Responsável": "REGINALDO DA SILVA GOMES ",
     "Paralelismo": "1.4",
-    "Fazenda": "40101"
+    "Fazenda": "40101",
+    "Unnamed: 16": null
   },
   {
     "ID": "3581946",
@@ -17962,7 +18963,8 @@ const PARALELISMO_DATA = [
     "Frente": "261 - FRENTE PRÓPRIA  (EDMILSON)",
     "Responsável": "VITOR AMORIM RAMOS ",
     "Paralelismo": "1.4",
-    "Fazenda": "40101"
+    "Fazenda": "40101",
+    "Unnamed: 16": null
   },
   {
     "ID": "3581941",
@@ -17980,7 +18982,8 @@ const PARALELISMO_DATA = [
     "Frente": "261 - FRENTE PRÓPRIA  (EDMILSON)",
     "Responsável": "VITOR AMORIM RAMOS ",
     "Paralelismo": "1.4",
-    "Fazenda": "40101"
+    "Fazenda": "40101",
+    "Unnamed: 16": null
   },
   {
     "ID": "3581934",
@@ -17998,7 +19001,8 @@ const PARALELISMO_DATA = [
     "Frente": "261 - FRENTE PRÓPRIA  (EDMILSON)",
     "Responsável": "VITOR AMORIM RAMOS ",
     "Paralelismo": "1.4",
-    "Fazenda": "40101"
+    "Fazenda": "40101",
+    "Unnamed: 16": null
   },
   {
     "ID": "3581970",
@@ -18016,7 +19020,8 @@ const PARALELISMO_DATA = [
     "Frente": "142 - FRENTE BIDU",
     "Responsável": "Leonardo Ribeiro Teixeira da Silva",
     "Paralelismo": "1.4",
-    "Fazenda": "204608"
+    "Fazenda": "204608",
+    "Unnamed: 16": null
   },
   {
     "ID": "3581969",
@@ -18034,7 +19039,8 @@ const PARALELISMO_DATA = [
     "Frente": "142 - FRENTE BIDU",
     "Responsável": "Leonardo Ribeiro Teixeira da Silva",
     "Paralelismo": "1.4",
-    "Fazenda": "204608"
+    "Fazenda": "204608",
+    "Unnamed: 16": null
   },
   {
     "ID": "3581968",
@@ -18052,7 +19058,8 @@ const PARALELISMO_DATA = [
     "Frente": "142 - FRENTE BIDU",
     "Responsável": "Leonardo Ribeiro Teixeira da Silva",
     "Paralelismo": "1.4",
-    "Fazenda": "204608"
+    "Fazenda": "204608",
+    "Unnamed: 16": null
   },
   {
     "ID": "3581967",
@@ -18070,7 +19077,8 @@ const PARALELISMO_DATA = [
     "Frente": "142 - FRENTE BIDU",
     "Responsável": "Leonardo Ribeiro Teixeira da Silva",
     "Paralelismo": "1.4",
-    "Fazenda": "204608"
+    "Fazenda": "204608",
+    "Unnamed: 16": null
   },
   {
     "ID": "3581928",
@@ -18088,7 +19096,8 @@ const PARALELISMO_DATA = [
     "Frente": "261 - FRENTE PRÓPRIA  (EDMILSON)",
     "Responsável": "VITOR AMORIM RAMOS ",
     "Paralelismo": "1.4",
-    "Fazenda": "40101"
+    "Fazenda": "40101",
+    "Unnamed: 16": null
   },
   {
     "ID": "3581922",
@@ -18106,7 +19115,8 @@ const PARALELISMO_DATA = [
     "Frente": "261 - FRENTE PRÓPRIA  (EDMILSON)",
     "Responsável": "VITOR AMORIM RAMOS ",
     "Paralelismo": "1.4",
-    "Fazenda": "40101"
+    "Fazenda": "40101",
+    "Unnamed: 16": null
   },
   {
     "ID": "3581411",
@@ -18124,7 +19134,8 @@ const PARALELISMO_DATA = [
     "Frente": "105 - FRENTE CASSIO (ZACARIAS)",
     "Responsável": "NILDA CLAUDINO [2510716]",
     "Paralelismo": "1.4",
-    "Fazenda": "53201"
+    "Fazenda": "53201",
+    "Unnamed: 16": null
   },
   {
     "ID": "3581802",
@@ -18142,7 +19153,8 @@ const PARALELISMO_DATA = [
     "Frente": "135 - FRENTE PEDRINHO",
     "Responsável": "MARCELO DE OLIVEIRA JUNIOR",
     "Paralelismo": "1.4",
-    "Fazenda": "53201"
+    "Fazenda": "53201",
+    "Unnamed: 16": null
   },
   {
     "ID": "3581796",
@@ -18160,7 +19172,8 @@ const PARALELISMO_DATA = [
     "Frente": "135 - FRENTE PEDRINHO",
     "Responsável": "MARCELO DE OLIVEIRA JUNIOR",
     "Paralelismo": "1.37",
-    "Fazenda": "53201"
+    "Fazenda": "53201",
+    "Unnamed: 16": null
   },
   {
     "ID": "3581407",
@@ -18178,7 +19191,8 @@ const PARALELISMO_DATA = [
     "Frente": "105 - FRENTE CASSIO (ZACARIAS)",
     "Responsável": "NILDA CLAUDINO [2510716]",
     "Paralelismo": "1.4",
-    "Fazenda": "53201"
+    "Fazenda": "53201",
+    "Unnamed: 16": null
   },
   {
     "ID": "3581403",
@@ -18196,7 +19210,8 @@ const PARALELISMO_DATA = [
     "Frente": "105 - FRENTE CASSIO (ZACARIAS)",
     "Responsável": "NILDA CLAUDINO [2510716]",
     "Paralelismo": "1.4",
-    "Fazenda": "53201"
+    "Fazenda": "53201",
+    "Unnamed: 16": null
   },
   {
     "ID": "3581399",
@@ -18214,7 +19229,8 @@ const PARALELISMO_DATA = [
     "Frente": "105 - FRENTE CASSIO (ZACARIAS)",
     "Responsável": "NILDA CLAUDINO [2510716]",
     "Paralelismo": "1.4",
-    "Fazenda": "53201"
+    "Fazenda": "53201",
+    "Unnamed: 16": null
   },
   {
     "ID": "3581788",
@@ -18232,7 +19248,8 @@ const PARALELISMO_DATA = [
     "Frente": "135 - FRENTE PEDRINHO",
     "Responsável": "MARCELO DE OLIVEIRA JUNIOR",
     "Paralelismo": "1.38",
-    "Fazenda": "53201"
+    "Fazenda": "53201",
+    "Unnamed: 16": null
   },
   {
     "ID": "3581208",
@@ -18250,7 +19267,8 @@ const PARALELISMO_DATA = [
     "Frente": "261 - FRENTE PRÓPRIA  (EDMILSON)",
     "Responsável": "VITOR AMORIM RAMOS ",
     "Paralelismo": "1.4",
-    "Fazenda": "40101"
+    "Fazenda": "40101",
+    "Unnamed: 16": null
   },
   {
     "ID": "3581394",
@@ -18268,7 +19286,8 @@ const PARALELISMO_DATA = [
     "Frente": "105 - FRENTE CASSIO (ZACARIAS)",
     "Responsável": "NILDA CLAUDINO [2510716]",
     "Paralelismo": "1.4",
-    "Fazenda": "53201"
+    "Fazenda": "53201",
+    "Unnamed: 16": null
   },
   {
     "ID": "3581781",
@@ -18286,7 +19305,8 @@ const PARALELISMO_DATA = [
     "Frente": "135 - FRENTE PEDRINHO",
     "Responsável": "MARCELO DE OLIVEIRA JUNIOR",
     "Paralelismo": "1.43",
-    "Fazenda": "53201"
+    "Fazenda": "53201",
+    "Unnamed: 16": null
   },
   {
     "ID": "3581101",
@@ -18304,7 +19324,8 @@ const PARALELISMO_DATA = [
     "Frente": "142 - FRENTE BIDU",
     "Responsável": "Leonardo Ribeiro Teixeira da Silva",
     "Paralelismo": "1.4",
-    "Fazenda": "204608"
+    "Fazenda": "204608",
+    "Unnamed: 16": null
   },
   {
     "ID": "3581100",
@@ -18322,7 +19343,8 @@ const PARALELISMO_DATA = [
     "Frente": "142 - FRENTE BIDU",
     "Responsável": "Leonardo Ribeiro Teixeira da Silva",
     "Paralelismo": "1.4",
-    "Fazenda": "204608"
+    "Fazenda": "204608",
+    "Unnamed: 16": null
   },
   {
     "ID": "3581203",
@@ -18340,7 +19362,8 @@ const PARALELISMO_DATA = [
     "Frente": "261 - FRENTE PRÓPRIA  (EDMILSON)",
     "Responsável": "VITOR AMORIM RAMOS ",
     "Paralelismo": "1.4",
-    "Fazenda": "40101"
+    "Fazenda": "40101",
+    "Unnamed: 16": null
   },
   {
     "ID": "3581831",
@@ -18358,7 +19381,8 @@ const PARALELISMO_DATA = [
     "Frente": "143 - FRENTE CASSIO",
     "Responsável": "GABRIEL HENRIQUE MARTINS PEREIRA",
     "Paralelismo": "1.4",
-    "Fazenda": "254701"
+    "Fazenda": "254701",
+    "Unnamed: 16": null
   },
   {
     "ID": "3581198",
@@ -18376,7 +19400,8 @@ const PARALELISMO_DATA = [
     "Frente": "261 - FRENTE PRÓPRIA  (EDMILSON)",
     "Responsável": "VITOR AMORIM RAMOS ",
     "Paralelismo": "1.4",
-    "Fazenda": "40101"
+    "Fazenda": "40101",
+    "Unnamed: 16": null
   },
   {
     "ID": "3581777",
@@ -18394,7 +19419,8 @@ const PARALELISMO_DATA = [
     "Frente": "135 - FRENTE PEDRINHO",
     "Responsável": "MARCELO DE OLIVEIRA JUNIOR",
     "Paralelismo": "1.41",
-    "Fazenda": "53201"
+    "Fazenda": "53201",
+    "Unnamed: 16": null
   },
   {
     "ID": "3581826",
@@ -18412,7 +19438,8 @@ const PARALELISMO_DATA = [
     "Frente": "143 - FRENTE CASSIO",
     "Responsável": "GABRIEL HENRIQUE MARTINS PEREIRA",
     "Paralelismo": "1.4",
-    "Fazenda": "254701"
+    "Fazenda": "254701",
+    "Unnamed: 16": null
   },
   {
     "ID": "3581030",
@@ -18430,7 +19457,8 @@ const PARALELISMO_DATA = [
     "Frente": "139 - FRENTE MANEZÃO",
     "Responsável": "MABILA HELEN D FIGUEIREDO",
     "Paralelismo": "1.4",
-    "Fazenda": "287101"
+    "Fazenda": "287101",
+    "Unnamed: 16": null
   },
   {
     "ID": "3581193",
@@ -18448,7 +19476,8 @@ const PARALELISMO_DATA = [
     "Frente": "261 - FRENTE PRÓPRIA  (EDMILSON)",
     "Responsável": "VITOR AMORIM RAMOS ",
     "Paralelismo": "1.4",
-    "Fazenda": "40101"
+    "Fazenda": "40101",
+    "Unnamed: 16": null
   },
   {
     "ID": "3581810",
@@ -18466,7 +19495,8 @@ const PARALELISMO_DATA = [
     "Frente": "143 - FRENTE CASSIO",
     "Responsável": "GABRIEL HENRIQUE MARTINS PEREIRA",
     "Paralelismo": "1.4",
-    "Fazenda": "254701"
+    "Fazenda": "254701",
+    "Unnamed: 16": null
   },
   {
     "ID": "3581025",
@@ -18484,7 +19514,8 @@ const PARALELISMO_DATA = [
     "Frente": "139 - FRENTE MANEZÃO",
     "Responsável": "MABILA HELEN D FIGUEIREDO",
     "Paralelismo": "1.4",
-    "Fazenda": "287101"
+    "Fazenda": "287101",
+    "Unnamed: 16": null
   },
   {
     "ID": "3581188",
@@ -18502,7 +19533,8 @@ const PARALELISMO_DATA = [
     "Frente": "261 - FRENTE PRÓPRIA  (EDMILSON)",
     "Responsável": "VITOR AMORIM RAMOS ",
     "Paralelismo": "1.4",
-    "Fazenda": "40101"
+    "Fazenda": "40101",
+    "Unnamed: 16": null
   },
   {
     "ID": "3581792",
@@ -18520,7 +19552,8 @@ const PARALELISMO_DATA = [
     "Frente": "143 - FRENTE CASSIO",
     "Responsável": "GABRIEL HENRIQUE MARTINS PEREIRA",
     "Paralelismo": "1.4",
-    "Fazenda": "254602"
+    "Fazenda": "254602",
+    "Unnamed: 16": null
   },
   {
     "ID": "3581771",
@@ -18538,7 +19571,8 @@ const PARALELISMO_DATA = [
     "Frente": "135 - FRENTE PEDRINHO",
     "Responsável": "MARCELO DE OLIVEIRA JUNIOR",
     "Paralelismo": "1.4",
-    "Fazenda": "53201"
+    "Fazenda": "53201",
+    "Unnamed: 16": null
   },
   {
     "ID": "3581183",
@@ -18556,7 +19590,8 @@ const PARALELISMO_DATA = [
     "Frente": "261 - FRENTE PRÓPRIA  (EDMILSON)",
     "Responsável": "VITOR AMORIM RAMOS ",
     "Paralelismo": "1.4",
-    "Fazenda": "40101"
+    "Fazenda": "40101",
+    "Unnamed: 16": null
   },
   {
     "ID": "3581020",
@@ -18574,7 +19609,8 @@ const PARALELISMO_DATA = [
     "Frente": "139 - FRENTE MANEZÃO",
     "Responsável": "MABILA HELEN D FIGUEIREDO",
     "Paralelismo": "1.4",
-    "Fazenda": "287101"
+    "Fazenda": "287101",
+    "Unnamed: 16": null
   },
   {
     "ID": "3581656",
@@ -18592,7 +19628,8 @@ const PARALELISMO_DATA = [
     "Frente": "143 - FRENTE CASSIO",
     "Responsável": "GABRIEL HENRIQUE MARTINS PEREIRA",
     "Paralelismo": "1.4",
-    "Fazenda": "254602"
+    "Fazenda": "254602",
+    "Unnamed: 16": null
   },
   {
     "ID": "3581178",
@@ -18610,7 +19647,8 @@ const PARALELISMO_DATA = [
     "Frente": "261 - FRENTE PRÓPRIA  (EDMILSON)",
     "Responsável": "VITOR AMORIM RAMOS ",
     "Paralelismo": "1.4",
-    "Fazenda": "40101"
+    "Fazenda": "40101",
+    "Unnamed: 16": null
   },
   {
     "ID": "3581173",
@@ -18628,7 +19666,8 @@ const PARALELISMO_DATA = [
     "Frente": "261 - FRENTE PRÓPRIA  (EDMILSON)",
     "Responsável": "VITOR AMORIM RAMOS ",
     "Paralelismo": "1.4",
-    "Fazenda": "40101"
+    "Fazenda": "40101",
+    "Unnamed: 16": null
   },
   {
     "ID": "3581651",
@@ -18646,7 +19685,8 @@ const PARALELISMO_DATA = [
     "Frente": "143 - FRENTE CASSIO",
     "Responsável": "GABRIEL HENRIQUE MARTINS PEREIRA",
     "Paralelismo": "1.4",
-    "Fazenda": "254602"
+    "Fazenda": "254602",
+    "Unnamed: 16": null
   },
   {
     "ID": "3581015",
@@ -18664,7 +19704,8 @@ const PARALELISMO_DATA = [
     "Frente": "139 - FRENTE MANEZÃO",
     "Responsável": "MABILA HELEN D FIGUEIREDO",
     "Paralelismo": "1.4",
-    "Fazenda": "287101"
+    "Fazenda": "287101",
+    "Unnamed: 16": null
   },
   {
     "ID": "3581011",
@@ -18682,7 +19723,8 @@ const PARALELISMO_DATA = [
     "Frente": "139 - FRENTE MANEZÃO",
     "Responsável": "MABILA HELEN D FIGUEIREDO",
     "Paralelismo": "1.4",
-    "Fazenda": "287101"
+    "Fazenda": "287101",
+    "Unnamed: 16": null
   },
   {
     "ID": "3581769",
@@ -18700,7 +19742,8 @@ const PARALELISMO_DATA = [
     "Frente": "135 - FRENTE PEDRINHO",
     "Responsável": "MARCELO DE OLIVEIRA JUNIOR",
     "Paralelismo": "1.38",
-    "Fazenda": "53201"
+    "Fazenda": "53201",
+    "Unnamed: 16": null
   },
   {
     "ID": "3581005",
@@ -18718,7 +19761,8 @@ const PARALELISMO_DATA = [
     "Frente": "139 - FRENTE MANEZÃO",
     "Responsável": "MABILA HELEN D FIGUEIREDO",
     "Paralelismo": "1.4",
-    "Fazenda": "287101"
+    "Fazenda": "287101",
+    "Unnamed: 16": null
   },
   {
     "ID": "3581761",
@@ -18736,7 +19780,8 @@ const PARALELISMO_DATA = [
     "Frente": "135 - FRENTE PEDRINHO",
     "Responsável": "MARCELO DE OLIVEIRA JUNIOR",
     "Paralelismo": "1.4",
-    "Fazenda": "53201"
+    "Fazenda": "53201",
+    "Unnamed: 16": null
   },
   {
     "ID": "3581000",
@@ -18754,7 +19799,8 @@ const PARALELISMO_DATA = [
     "Frente": "139 - FRENTE MANEZÃO",
     "Responsável": "MABILA HELEN D FIGUEIREDO",
     "Paralelismo": "1.4",
-    "Fazenda": "287101"
+    "Fazenda": "287101",
+    "Unnamed: 16": null
   },
   {
     "ID": "3581895",
@@ -18772,7 +19818,8 @@ const PARALELISMO_DATA = [
     "Frente": "135 - FRENTE PEDRINHO",
     "Responsável": "MARCELO DE OLIVEIRA JUNIOR",
     "Paralelismo": "1.4",
-    "Fazenda": "53201"
+    "Fazenda": "53201",
+    "Unnamed: 16": null
   },
   {
     "ID": "3580995",
@@ -18790,7 +19837,8 @@ const PARALELISMO_DATA = [
     "Frente": "139 - FRENTE MANEZÃO",
     "Responsável": "MABILA HELEN D FIGUEIREDO",
     "Paralelismo": "1.4",
-    "Fazenda": "287101"
+    "Fazenda": "287101",
+    "Unnamed: 16": null
   },
   {
     "ID": "3580931",
@@ -18808,7 +19856,8 @@ const PARALELISMO_DATA = [
     "Frente": "139 - FRENTE MANEZÃO",
     "Responsável": "MICHELI DE SOUZA SANTOS  ",
     "Paralelismo": "1.4",
-    "Fazenda": "287101"
+    "Fazenda": "287101",
+    "Unnamed: 16": null
   },
   {
     "ID": "3580926",
@@ -18826,7 +19875,8 @@ const PARALELISMO_DATA = [
     "Frente": "139 - FRENTE MANEZÃO",
     "Responsável": "MICHELI DE SOUZA SANTOS  ",
     "Paralelismo": "1.4",
-    "Fazenda": "287101"
+    "Fazenda": "287101",
+    "Unnamed: 16": null
   },
   {
     "ID": "3580921",
@@ -18844,7 +19894,8 @@ const PARALELISMO_DATA = [
     "Frente": "139 - FRENTE MANEZÃO",
     "Responsável": "MICHELI DE SOUZA SANTOS  ",
     "Paralelismo": "1.4",
-    "Fazenda": "287101"
+    "Fazenda": "287101",
+    "Unnamed: 16": null
   },
   {
     "ID": "3580916",
@@ -18862,7 +19913,8 @@ const PARALELISMO_DATA = [
     "Frente": "139 - FRENTE MANEZÃO",
     "Responsável": "MICHELI DE SOUZA SANTOS  ",
     "Paralelismo": "1.4",
-    "Fazenda": "287101"
+    "Fazenda": "287101",
+    "Unnamed: 16": null
   },
   {
     "ID": "3579052",
@@ -18880,7 +19932,8 @@ const PARALELISMO_DATA = [
     "Frente": "142 - FRENTE BIDU",
     "Responsável": "Leonardo Ribeiro Teixeira da Silva",
     "Paralelismo": "1.4",
-    "Fazenda": "204608"
+    "Fazenda": "204608",
+    "Unnamed: 16": null
   },
   {
     "ID": "3579051",
@@ -18898,7 +19951,8 @@ const PARALELISMO_DATA = [
     "Frente": "142 - FRENTE BIDU",
     "Responsável": "Leonardo Ribeiro Teixeira da Silva",
     "Paralelismo": "1.4",
-    "Fazenda": "204608"
+    "Fazenda": "204608",
+    "Unnamed: 16": null
   },
   {
     "ID": "3579050",
@@ -18916,7 +19970,8 @@ const PARALELISMO_DATA = [
     "Frente": "142 - FRENTE BIDU",
     "Responsável": "Leonardo Ribeiro Teixeira da Silva",
     "Paralelismo": "1.4",
-    "Fazenda": "204608"
+    "Fazenda": "204608",
+    "Unnamed: 16": null
   },
   {
     "ID": "3578976",
@@ -18934,7 +19989,8 @@ const PARALELISMO_DATA = [
     "Frente": "105 - FRENTE CASSIO (ZACARIAS)",
     "Responsável": "NILDA CLAUDINO [2510716]",
     "Paralelismo": "1.4",
-    "Fazenda": "53201"
+    "Fazenda": "53201",
+    "Unnamed: 16": null
   },
   {
     "ID": "3578974",
@@ -18952,7 +20008,8 @@ const PARALELISMO_DATA = [
     "Frente": "105 - FRENTE CASSIO (ZACARIAS)",
     "Responsável": "NILDA CLAUDINO [2510716]",
     "Paralelismo": "1.4",
-    "Fazenda": "53201"
+    "Fazenda": "53201",
+    "Unnamed: 16": null
   },
   {
     "ID": "3578972",
@@ -18970,7 +20027,8 @@ const PARALELISMO_DATA = [
     "Frente": "105 - FRENTE CASSIO (ZACARIAS)",
     "Responsável": "NILDA CLAUDINO [2510716]",
     "Paralelismo": "1.4",
-    "Fazenda": "53201"
+    "Fazenda": "53201",
+    "Unnamed: 16": null
   },
   {
     "ID": "3578969",
@@ -18988,7 +20046,8 @@ const PARALELISMO_DATA = [
     "Frente": "105 - FRENTE CASSIO (ZACARIAS)",
     "Responsável": "NILDA CLAUDINO [2510716]",
     "Paralelismo": "1.4",
-    "Fazenda": "53201"
+    "Fazenda": "53201",
+    "Unnamed: 16": null
   },
   {
     "ID": "3579468",
@@ -19006,7 +20065,8 @@ const PARALELISMO_DATA = [
     "Frente": "261 - FRENTE PRÓPRIA  (EDMILSON)",
     "Responsável": "VITOR AMORIM RAMOS ",
     "Paralelismo": "1.4",
-    "Fazenda": "40101"
+    "Fazenda": "40101",
+    "Unnamed: 16": null
   },
   {
     "ID": "3578967",
@@ -19024,7 +20084,8 @@ const PARALELISMO_DATA = [
     "Frente": "105 - FRENTE CASSIO (ZACARIAS)",
     "Responsável": "NILDA CLAUDINO [2510716]",
     "Paralelismo": "1.4",
-    "Fazenda": "53201"
+    "Fazenda": "53201",
+    "Unnamed: 16": null
   },
   {
     "ID": "3578965",
@@ -19042,7 +20103,8 @@ const PARALELISMO_DATA = [
     "Frente": "105 - FRENTE CASSIO (ZACARIAS)",
     "Responsável": "NILDA CLAUDINO [2510716]",
     "Paralelismo": "1.4",
-    "Fazenda": "53201"
+    "Fazenda": "53201",
+    "Unnamed: 16": null
   },
   {
     "ID": "3579166",
@@ -19060,7 +20122,8 @@ const PARALELISMO_DATA = [
     "Frente": "261 - FRENTE PRÓPRIA  (EDMILSON)",
     "Responsável": "VITOR AMORIM RAMOS ",
     "Paralelismo": "1.4",
-    "Fazenda": "40101"
+    "Fazenda": "40101",
+    "Unnamed: 16": null
   },
   {
     "ID": "3580903",
@@ -19078,7 +20141,8 @@ const PARALELISMO_DATA = [
     "Frente": "139 - FRENTE MANEZÃO",
     "Responsável": "MICHELI DE SOUZA SANTOS  ",
     "Paralelismo": "1.4",
-    "Fazenda": "46501"
+    "Fazenda": "46501",
+    "Unnamed: 16": null
   },
   {
     "ID": "3580894",
@@ -19096,7 +20160,8 @@ const PARALELISMO_DATA = [
     "Frente": "139 - FRENTE MANEZÃO",
     "Responsável": "MICHELI DE SOUZA SANTOS  ",
     "Paralelismo": "1.4",
-    "Fazenda": "46501"
+    "Fazenda": "46501",
+    "Unnamed: 16": null
   },
   {
     "ID": "3580888",
@@ -19114,7 +20179,8 @@ const PARALELISMO_DATA = [
     "Frente": "139 - FRENTE MANEZÃO",
     "Responsável": "MICHELI DE SOUZA SANTOS  ",
     "Paralelismo": "1.4",
-    "Fazenda": "46501"
+    "Fazenda": "46501",
+    "Unnamed: 16": null
   },
   {
     "ID": "3580883",
@@ -19132,7 +20198,8 @@ const PARALELISMO_DATA = [
     "Frente": "139 - FRENTE MANEZÃO",
     "Responsável": "MICHELI DE SOUZA SANTOS  ",
     "Paralelismo": "1.4",
-    "Fazenda": "46501"
+    "Fazenda": "46501",
+    "Unnamed: 16": null
   },
   {
     "ID": "3580877",
@@ -19150,7 +20217,8 @@ const PARALELISMO_DATA = [
     "Frente": "139 - FRENTE MANEZÃO",
     "Responsável": "MICHELI DE SOUZA SANTOS  ",
     "Paralelismo": "1.39",
-    "Fazenda": "46501"
+    "Fazenda": "46501",
+    "Unnamed: 16": null
   },
   {
     "ID": "3578760",
@@ -19168,7 +20236,8 @@ const PARALELISMO_DATA = [
     "Frente": "261 - FRENTE PRÓPRIA  (EDMILSON)",
     "Responsável": "VITOR AMORIM RAMOS ",
     "Paralelismo": "1.4",
-    "Fazenda": "40101"
+    "Fazenda": "40101",
+    "Unnamed: 16": null
   },
   {
     "ID": "3579154",
@@ -19186,7 +20255,8 @@ const PARALELISMO_DATA = [
     "Frente": "139 - FRENTE MANEZÃO",
     "Responsável": "MICHELI DE SOUZA SANTOS  ",
     "Paralelismo": "1.4",
-    "Fazenda": "46501"
+    "Fazenda": "46501",
+    "Unnamed: 16": null
   },
   {
     "ID": "3579039",
@@ -19204,7 +20274,8 @@ const PARALELISMO_DATA = [
     "Frente": "142 - FRENTE BIDU",
     "Responsável": "Leonardo Ribeiro Teixeira da Silva",
     "Paralelismo": "1.4",
-    "Fazenda": "204608"
+    "Fazenda": "204608",
+    "Unnamed: 16": null
   },
   {
     "ID": "3579038",
@@ -19222,7 +20293,8 @@ const PARALELISMO_DATA = [
     "Frente": "142 - FRENTE BIDU",
     "Responsável": "Leonardo Ribeiro Teixeira da Silva",
     "Paralelismo": "1.4",
-    "Fazenda": "204608"
+    "Fazenda": "204608",
+    "Unnamed: 16": null
   },
   {
     "ID": "3578755",
@@ -19240,7 +20312,8 @@ const PARALELISMO_DATA = [
     "Frente": "261 - FRENTE PRÓPRIA  (EDMILSON)",
     "Responsável": "VITOR AMORIM RAMOS ",
     "Paralelismo": "1.4",
-    "Fazenda": "40101"
+    "Fazenda": "40101",
+    "Unnamed: 16": null
   },
   {
     "ID": "3579149",
@@ -19258,7 +20331,8 @@ const PARALELISMO_DATA = [
     "Frente": "139 - FRENTE MANEZÃO",
     "Responsável": "MABILA HELEN D FIGUEIREDO",
     "Paralelismo": "1.4",
-    "Fazenda": "46501"
+    "Fazenda": "46501",
+    "Unnamed: 16": null
   },
   {
     "ID": "3578750",
@@ -19276,7 +20350,8 @@ const PARALELISMO_DATA = [
     "Frente": "261 - FRENTE PRÓPRIA  (EDMILSON)",
     "Responsável": "VITOR AMORIM RAMOS ",
     "Paralelismo": "1.4",
-    "Fazenda": "40101"
+    "Fazenda": "40101",
+    "Unnamed: 16": null
   },
   {
     "ID": "3578745",
@@ -19294,7 +20369,8 @@ const PARALELISMO_DATA = [
     "Frente": "261 - FRENTE PRÓPRIA  (EDMILSON)",
     "Responsável": "VITOR AMORIM RAMOS ",
     "Paralelismo": "1.4",
-    "Fazenda": "40101"
+    "Fazenda": "40101",
+    "Unnamed: 16": null
   },
   {
     "ID": "3579143",
@@ -19312,7 +20388,8 @@ const PARALELISMO_DATA = [
     "Frente": "139 - FRENTE MANEZÃO",
     "Responsável": "MABILA HELEN D FIGUEIREDO",
     "Paralelismo": "1.4",
-    "Fazenda": "46501"
+    "Fazenda": "46501",
+    "Unnamed: 16": null
   },
   {
     "ID": "3578740",
@@ -19330,7 +20407,8 @@ const PARALELISMO_DATA = [
     "Frente": "261 - FRENTE PRÓPRIA  (EDMILSON)",
     "Responsável": "VITOR AMORIM RAMOS ",
     "Paralelismo": "1.4",
-    "Fazenda": "40101"
+    "Fazenda": "40101",
+    "Unnamed: 16": null
   },
   {
     "ID": "3579324",
@@ -19348,7 +20426,8 @@ const PARALELISMO_DATA = [
     "Frente": "135 - FRENTE PEDRINHO",
     "Responsável": "MARCELO DE OLIVEIRA JUNIOR",
     "Paralelismo": "1.4",
-    "Fazenda": "53201"
+    "Fazenda": "53201",
+    "Unnamed: 16": null
   },
   {
     "ID": "3579137",
@@ -19366,7 +20445,8 @@ const PARALELISMO_DATA = [
     "Frente": "139 - FRENTE MANEZÃO",
     "Responsável": "MABILA HELEN D FIGUEIREDO",
     "Paralelismo": "1.4",
-    "Fazenda": "46501"
+    "Fazenda": "46501",
+    "Unnamed: 16": null
   },
   {
     "ID": "3579312",
@@ -19384,7 +20464,8 @@ const PARALELISMO_DATA = [
     "Frente": "135 - FRENTE PEDRINHO",
     "Responsável": "MARCELO DE OLIVEIRA JUNIOR",
     "Paralelismo": "1.41",
-    "Fazenda": "53201"
+    "Fazenda": "53201",
+    "Unnamed: 16": null
   },
   {
     "ID": "3578733",
@@ -19402,7 +20483,8 @@ const PARALELISMO_DATA = [
     "Frente": "261 - FRENTE PRÓPRIA  (EDMILSON)",
     "Responsável": "VITOR AMORIM RAMOS ",
     "Paralelismo": "1.4",
-    "Fazenda": "40101"
+    "Fazenda": "40101",
+    "Unnamed: 16": null
   },
   {
     "ID": "3579286",
@@ -19420,7 +20502,8 @@ const PARALELISMO_DATA = [
     "Frente": "135 - FRENTE PEDRINHO",
     "Responsável": "MARCELO DE OLIVEIRA JUNIOR",
     "Paralelismo": "1.39",
-    "Fazenda": "53201"
+    "Fazenda": "53201",
+    "Unnamed: 16": null
   },
   {
     "ID": "3578729",
@@ -19438,7 +20521,8 @@ const PARALELISMO_DATA = [
     "Frente": "261 - FRENTE PRÓPRIA  (EDMILSON)",
     "Responsável": "VITOR AMORIM RAMOS ",
     "Paralelismo": "1.4",
-    "Fazenda": "40101"
+    "Fazenda": "40101",
+    "Unnamed: 16": null
   },
   {
     "ID": "3579186",
@@ -19456,7 +20540,8 @@ const PARALELISMO_DATA = [
     "Frente": "143 - FRENTE CASSIO",
     "Responsável": "GABRIEL HENRIQUE MARTINS PEREIRA",
     "Paralelismo": "1.4",
-    "Fazenda": "254701"
+    "Fazenda": "254701",
+    "Unnamed: 16": null
   },
   {
     "ID": "3578724",
@@ -19474,7 +20559,8 @@ const PARALELISMO_DATA = [
     "Frente": "261 - FRENTE PRÓPRIA  (EDMILSON)",
     "Responsável": "VITOR AMORIM RAMOS ",
     "Paralelismo": "1.4",
-    "Fazenda": "40101"
+    "Fazenda": "40101",
+    "Unnamed: 16": null
   },
   {
     "ID": "3579181",
@@ -19492,7 +20578,8 @@ const PARALELISMO_DATA = [
     "Frente": "143 - FRENTE CASSIO",
     "Responsável": "GABRIEL HENRIQUE MARTINS PEREIRA",
     "Paralelismo": "1.4",
-    "Fazenda": "254701"
+    "Fazenda": "254701",
+    "Unnamed: 16": null
   },
   {
     "ID": "3578719",
@@ -19510,7 +20597,8 @@ const PARALELISMO_DATA = [
     "Frente": "261 - FRENTE PRÓPRIA  (EDMILSON)",
     "Responsável": "VITOR AMORIM RAMOS ",
     "Paralelismo": "1.4",
-    "Fazenda": "40101"
+    "Fazenda": "40101",
+    "Unnamed: 16": null
   },
   {
     "ID": "3579270",
@@ -19528,7 +20616,8 @@ const PARALELISMO_DATA = [
     "Frente": "135 - FRENTE PEDRINHO",
     "Responsável": "MARCELO DE OLIVEIRA JUNIOR",
     "Paralelismo": "1.4",
-    "Fazenda": "53201"
+    "Fazenda": "53201",
+    "Unnamed: 16": null
   },
   {
     "ID": "3579172",
@@ -19546,7 +20635,8 @@ const PARALELISMO_DATA = [
     "Frente": "143 - FRENTE CASSIO",
     "Responsável": "GABRIEL HENRIQUE MARTINS PEREIRA",
     "Paralelismo": "1.4",
-    "Fazenda": "254602"
+    "Fazenda": "254602",
+    "Unnamed: 16": null
   },
   {
     "ID": "3578714",
@@ -19564,7 +20654,8 @@ const PARALELISMO_DATA = [
     "Frente": "261 - FRENTE PRÓPRIA  (EDMILSON)",
     "Responsável": "VITOR AMORIM RAMOS ",
     "Paralelismo": "1.41",
-    "Fazenda": "40101"
+    "Fazenda": "40101",
+    "Unnamed: 16": null
   },
   {
     "ID": "3579132",
@@ -19582,7 +20673,8 @@ const PARALELISMO_DATA = [
     "Frente": "139 - FRENTE MANEZÃO",
     "Responsável": "MICHELI DE SOUZA SANTOS  ",
     "Paralelismo": "1.4",
-    "Fazenda": "46501"
+    "Fazenda": "46501",
+    "Unnamed: 16": null
   },
   {
     "ID": "3579168",
@@ -19600,7 +20692,8 @@ const PARALELISMO_DATA = [
     "Frente": "143 - FRENTE CASSIO",
     "Responsável": "GABRIEL HENRIQUE MARTINS PEREIRA",
     "Paralelismo": "1.4",
-    "Fazenda": "254602"
+    "Fazenda": "254602",
+    "Unnamed: 16": null
   },
   {
     "ID": "3579257",
@@ -19618,7 +20711,8 @@ const PARALELISMO_DATA = [
     "Frente": "135 - FRENTE PEDRINHO",
     "Responsável": "MARCELO DE OLIVEIRA JUNIOR",
     "Paralelismo": "1.43",
-    "Fazenda": "53201"
+    "Fazenda": "53201",
+    "Unnamed: 16": null
   },
   {
     "ID": "3578710",
@@ -19636,7 +20730,8 @@ const PARALELISMO_DATA = [
     "Frente": "261 - FRENTE PRÓPRIA  (EDMILSON)",
     "Responsável": "VITOR AMORIM RAMOS ",
     "Paralelismo": "1.4",
-    "Fazenda": "40101"
+    "Fazenda": "40101",
+    "Unnamed: 16": null
   },
   {
     "ID": "3579085",
@@ -19654,7 +20749,8 @@ const PARALELISMO_DATA = [
     "Frente": "143 - FRENTE CASSIO",
     "Responsável": "GABRIEL HENRIQUE MARTINS PEREIRA",
     "Paralelismo": "1.4",
-    "Fazenda": "254602"
+    "Fazenda": "254602",
+    "Unnamed: 16": null
   },
   {
     "ID": "3579247",
@@ -19672,7 +20768,8 @@ const PARALELISMO_DATA = [
     "Frente": "135 - FRENTE PEDRINHO",
     "Responsável": "MARCELO DE OLIVEIRA JUNIOR",
     "Paralelismo": "1.4",
-    "Fazenda": "53201"
+    "Fazenda": "53201",
+    "Unnamed: 16": null
   },
   {
     "ID": "3579242",
@@ -19690,7 +20787,8 @@ const PARALELISMO_DATA = [
     "Frente": "135 - FRENTE PEDRINHO",
     "Responsável": "MARCELO DE OLIVEIRA JUNIOR",
     "Paralelismo": "1.4",
-    "Fazenda": "53201"
+    "Fazenda": "53201",
+    "Unnamed: 16": null
   },
   {
     "ID": "3579239",
@@ -19708,7 +20806,8 @@ const PARALELISMO_DATA = [
     "Frente": "135 - FRENTE PEDRINHO",
     "Responsável": "MARCELO DE OLIVEIRA JUNIOR",
     "Paralelismo": "1.39",
-    "Fazenda": "53201"
+    "Fazenda": "53201",
+    "Unnamed: 16": null
   },
   {
     "ID": "3577302",
@@ -19726,7 +20825,8 @@ const PARALELISMO_DATA = [
     "Frente": "135 - FRENTE PEDRINHO",
     "Responsável": "REGINALDO DA SILVA GOMES ",
     "Paralelismo": "1.4",
-    "Fazenda": "34802"
+    "Fazenda": "34802",
+    "Unnamed: 16": null
   },
   {
     "ID": "3577297",
@@ -19744,7 +20844,8 @@ const PARALELISMO_DATA = [
     "Frente": "135 - FRENTE PEDRINHO",
     "Responsável": "REGINALDO DA SILVA GOMES ",
     "Paralelismo": "1.45",
-    "Fazenda": "34802"
+    "Fazenda": "34802",
+    "Unnamed: 16": null
   },
   {
     "ID": "3577279",
@@ -19762,7 +20863,8 @@ const PARALELISMO_DATA = [
     "Frente": "135 - FRENTE PEDRINHO",
     "Responsável": "REGINALDO DA SILVA GOMES ",
     "Paralelismo": "1.4",
-    "Fazenda": "34802"
+    "Fazenda": "34802",
+    "Unnamed: 16": null
   },
   {
     "ID": "3577254",
@@ -19780,7 +20882,8 @@ const PARALELISMO_DATA = [
     "Frente": "135 - FRENTE PEDRINHO",
     "Responsável": "REGINALDO DA SILVA GOMES ",
     "Paralelismo": "1.35",
-    "Fazenda": "34802"
+    "Fazenda": "34802",
+    "Unnamed: 16": null
   },
   {
     "ID": "3576808",
@@ -19798,7 +20901,8 @@ const PARALELISMO_DATA = [
     "Frente": "139 - FRENTE MANEZÃO",
     "Responsável": "MABILA HELEN D FIGUEIREDO",
     "Paralelismo": "1.49",
-    "Fazenda": "112403"
+    "Fazenda": "112403",
+    "Unnamed: 16": null
   },
   {
     "ID": "3576804",
@@ -19816,7 +20920,8 @@ const PARALELISMO_DATA = [
     "Frente": "139 - FRENTE MANEZÃO",
     "Responsável": "MABILA HELEN D FIGUEIREDO",
     "Paralelismo": "1.5",
-    "Fazenda": "112403"
+    "Fazenda": "112403",
+    "Unnamed: 16": null
   },
   {
     "ID": "3576800",
@@ -19834,7 +20939,8 @@ const PARALELISMO_DATA = [
     "Frente": "139 - FRENTE MANEZÃO",
     "Responsável": "MABILA HELEN D FIGUEIREDO",
     "Paralelismo": "1.48",
-    "Fazenda": "112403"
+    "Fazenda": "112403",
+    "Unnamed: 16": null
   },
   {
     "ID": "3577099",
@@ -19852,7 +20958,8 @@ const PARALELISMO_DATA = [
     "Frente": "142 - FRENTE BIDU",
     "Responsável": "Leonardo Ribeiro Teixeira da Silva",
     "Paralelismo": "1.4",
-    "Fazenda": "204608"
+    "Fazenda": "204608",
+    "Unnamed: 16": null
   },
   {
     "ID": "3577098",
@@ -19870,7 +20977,8 @@ const PARALELISMO_DATA = [
     "Frente": "142 - FRENTE BIDU",
     "Responsável": "Leonardo Ribeiro Teixeira da Silva",
     "Paralelismo": "1.4",
-    "Fazenda": "204608"
+    "Fazenda": "204608",
+    "Unnamed: 16": null
   },
   {
     "ID": "3577097",
@@ -19888,7 +20996,8 @@ const PARALELISMO_DATA = [
     "Frente": "142 - FRENTE BIDU",
     "Responsável": "Leonardo Ribeiro Teixeira da Silva",
     "Paralelismo": "1.4",
-    "Fazenda": "204608"
+    "Fazenda": "204608",
+    "Unnamed: 16": null
   },
   {
     "ID": "3576755",
@@ -19906,7 +21015,8 @@ const PARALELISMO_DATA = [
     "Frente": "105 - FRENTE CASSIO (ZACARIAS)",
     "Responsável": "NILDA CLAUDINO [2510716]",
     "Paralelismo": "1.4",
-    "Fazenda": "43401"
+    "Fazenda": "43401",
+    "Unnamed: 16": null
   },
   {
     "ID": "3576793",
@@ -19924,7 +21034,8 @@ const PARALELISMO_DATA = [
     "Frente": "139 - FRENTE MANEZÃO",
     "Responsável": "MABILA HELEN D FIGUEIREDO",
     "Paralelismo": "1.5",
-    "Fazenda": "112403"
+    "Fazenda": "112403",
+    "Unnamed: 16": null
   },
   {
     "ID": "3576746",
@@ -19942,7 +21053,8 @@ const PARALELISMO_DATA = [
     "Frente": "105 - FRENTE CASSIO (ZACARIAS)",
     "Responsável": "NILDA CLAUDINO [2510716]",
     "Paralelismo": "1.4",
-    "Fazenda": "43401"
+    "Fazenda": "43401",
+    "Unnamed: 16": null
   },
   {
     "ID": "3576788",
@@ -19960,7 +21072,8 @@ const PARALELISMO_DATA = [
     "Frente": "139 - FRENTE MANEZÃO",
     "Responsável": "MABILA HELEN D FIGUEIREDO",
     "Paralelismo": "1.5",
-    "Fazenda": "112403"
+    "Fazenda": "112403",
+    "Unnamed: 16": null
   },
   {
     "ID": "3576780",
@@ -19978,7 +21091,8 @@ const PARALELISMO_DATA = [
     "Frente": "139 - FRENTE MANEZÃO",
     "Responsável": "MABILA HELEN D FIGUEIREDO",
     "Paralelismo": "1.5",
-    "Fazenda": "112403"
+    "Fazenda": "112403",
+    "Unnamed: 16": null
   },
   {
     "ID": "3576776",
@@ -19996,7 +21110,8 @@ const PARALELISMO_DATA = [
     "Frente": "139 - FRENTE MANEZÃO",
     "Responsável": "MABILA HELEN D FIGUEIREDO",
     "Paralelismo": "1.5",
-    "Fazenda": "112403"
+    "Fazenda": "112403",
+    "Unnamed: 16": null
   },
   {
     "ID": "3576735",
@@ -20014,7 +21129,8 @@ const PARALELISMO_DATA = [
     "Frente": "105 - FRENTE CASSIO (ZACARIAS)",
     "Responsável": "NILDA CLAUDINO [2510716]",
     "Paralelismo": "1.4",
-    "Fazenda": "43401"
+    "Fazenda": "43401",
+    "Unnamed: 16": null
   },
   {
     "ID": "3576729",
@@ -20032,7 +21148,8 @@ const PARALELISMO_DATA = [
     "Frente": "105 - FRENTE CASSIO (ZACARIAS)",
     "Responsável": "NILDA CLAUDINO [2510716]",
     "Paralelismo": "1.4",
-    "Fazenda": "43401"
+    "Fazenda": "43401",
+    "Unnamed: 16": null
   },
   {
     "ID": "3576936",
@@ -20050,7 +21167,8 @@ const PARALELISMO_DATA = [
     "Frente": "142 - FRENTE BIDU",
     "Responsável": "Leonardo Ribeiro Teixeira da Silva",
     "Paralelismo": "1.4",
-    "Fazenda": "204608"
+    "Fazenda": "204608",
+    "Unnamed: 16": null
   },
   {
     "ID": "3576935",
@@ -20068,7 +21186,8 @@ const PARALELISMO_DATA = [
     "Frente": "142 - FRENTE BIDU",
     "Responsável": "Leonardo Ribeiro Teixeira da Silva",
     "Paralelismo": "1.4",
-    "Fazenda": "204608"
+    "Fazenda": "204608",
+    "Unnamed: 16": null
   },
   {
     "ID": "3576680",
@@ -20086,7 +21205,8 @@ const PARALELISMO_DATA = [
     "Frente": "143 - FRENTE CASSIO",
     "Responsável": "GABRIEL HENRIQUE MARTINS PEREIRA",
     "Paralelismo": "1.4",
-    "Fazenda": "254602"
+    "Fazenda": "254602",
+    "Unnamed: 16": null
   },
   {
     "ID": "3576675",
@@ -20104,7 +21224,8 @@ const PARALELISMO_DATA = [
     "Frente": "143 - FRENTE CASSIO",
     "Responsável": "GABRIEL HENRIQUE MARTINS PEREIRA",
     "Paralelismo": "1.4",
-    "Fazenda": "254602"
+    "Fazenda": "254602",
+    "Unnamed: 16": null
   },
   {
     "ID": "3576723",
@@ -20122,7 +21243,8 @@ const PARALELISMO_DATA = [
     "Frente": "105 - FRENTE CASSIO (ZACARIAS)",
     "Responsável": "NILDA CLAUDINO [2510716]",
     "Paralelismo": "1.4",
-    "Fazenda": "43401"
+    "Fazenda": "43401",
+    "Unnamed: 16": null
   },
   {
     "ID": "3576665",
@@ -20140,7 +21262,8 @@ const PARALELISMO_DATA = [
     "Frente": "143 - FRENTE CASSIO",
     "Responsável": "GABRIEL HENRIQUE MARTINS PEREIRA",
     "Paralelismo": "1.4",
-    "Fazenda": "254602"
+    "Fazenda": "254602",
+    "Unnamed: 16": null
   },
   {
     "ID": "3576690",
@@ -20158,7 +21281,8 @@ const PARALELISMO_DATA = [
     "Frente": "143 - FRENTE CASSIO",
     "Responsável": "GABRIEL HENRIQUE MARTINS PEREIRA",
     "Paralelismo": "1.4",
-    "Fazenda": "254602"
+    "Fazenda": "254602",
+    "Unnamed: 16": null
   },
   {
     "ID": "3576719",
@@ -20176,7 +21300,8 @@ const PARALELISMO_DATA = [
     "Frente": "105 - FRENTE CASSIO (ZACARIAS)",
     "Responsável": "NILDA CLAUDINO [2510716]",
     "Paralelismo": "1.4",
-    "Fazenda": "43401"
+    "Fazenda": "43401",
+    "Unnamed: 16": null
   },
   {
     "ID": "3576715",
@@ -20194,7 +21319,8 @@ const PARALELISMO_DATA = [
     "Frente": "105 - FRENTE CASSIO (ZACARIAS)",
     "Responsável": "NILDA CLAUDINO [2510716]",
     "Paralelismo": "1.4",
-    "Fazenda": "43401"
+    "Fazenda": "43401",
+    "Unnamed: 16": null
   },
   {
     "ID": "3576668",
@@ -20212,7 +21338,8 @@ const PARALELISMO_DATA = [
     "Frente": "143 - FRENTE CASSIO",
     "Responsável": "GABRIEL HENRIQUE MARTINS PEREIRA",
     "Paralelismo": "1.4",
-    "Fazenda": "254602"
+    "Fazenda": "254602",
+    "Unnamed: 16": null
   },
   {
     "ID": "3576662",
@@ -20230,7 +21357,8 @@ const PARALELISMO_DATA = [
     "Frente": "143 - FRENTE CASSIO",
     "Responsável": "GABRIEL HENRIQUE MARTINS PEREIRA",
     "Paralelismo": "1.4",
-    "Fazenda": "254602"
+    "Fazenda": "254602",
+    "Unnamed: 16": null
   },
   {
     "ID": "3577368",
@@ -20248,7 +21376,8 @@ const PARALELISMO_DATA = [
     "Frente": "135 - FRENTE PEDRINHO",
     "Responsável": "MARCELO DE OLIVEIRA JUNIOR",
     "Paralelismo": "1.41",
-    "Fazenda": "53201"
+    "Fazenda": "53201",
+    "Unnamed: 16": null
   },
   {
     "ID": "3577362",
@@ -20266,7 +21395,8 @@ const PARALELISMO_DATA = [
     "Frente": "135 - FRENTE PEDRINHO",
     "Responsável": "MARCELO DE OLIVEIRA JUNIOR",
     "Paralelismo": "1.38",
-    "Fazenda": "53201"
+    "Fazenda": "53201",
+    "Unnamed: 16": null
   },
   {
     "ID": "3577360",
@@ -20284,7 +21414,8 @@ const PARALELISMO_DATA = [
     "Frente": "135 - FRENTE PEDRINHO",
     "Responsável": "MARCELO DE OLIVEIRA JUNIOR",
     "Paralelismo": "1.39",
-    "Fazenda": "53201"
+    "Fazenda": "53201",
+    "Unnamed: 16": null
   },
   {
     "ID": "3577352",
@@ -20302,7 +21433,8 @@ const PARALELISMO_DATA = [
     "Frente": "135 - FRENTE PEDRINHO",
     "Responsável": "MARCELO DE OLIVEIRA JUNIOR",
     "Paralelismo": "1.43",
-    "Fazenda": "53201"
+    "Fazenda": "53201",
+    "Unnamed: 16": null
   },
   {
     "ID": "3577346",
@@ -20320,7 +21452,8 @@ const PARALELISMO_DATA = [
     "Frente": "135 - FRENTE PEDRINHO",
     "Responsável": "MARCELO DE OLIVEIRA JUNIOR",
     "Paralelismo": "1.4",
-    "Fazenda": "53201"
+    "Fazenda": "53201",
+    "Unnamed: 16": null
   },
   {
     "ID": "3577345",
@@ -20338,7 +21471,8 @@ const PARALELISMO_DATA = [
     "Frente": "135 - FRENTE PEDRINHO",
     "Responsável": "MARCELO DE OLIVEIRA JUNIOR",
     "Paralelismo": "1.39",
-    "Fazenda": "53201"
+    "Fazenda": "53201",
+    "Unnamed: 16": null
   },
   {
     "ID": "3577338",
@@ -20356,7 +21490,8 @@ const PARALELISMO_DATA = [
     "Frente": "135 - FRENTE PEDRINHO",
     "Responsável": "MARCELO DE OLIVEIRA JUNIOR",
     "Paralelismo": "1.4",
-    "Fazenda": "53201"
+    "Fazenda": "53201",
+    "Unnamed: 16": null
   },
   {
     "ID": "3577330",
@@ -20374,7 +21509,8 @@ const PARALELISMO_DATA = [
     "Frente": "135 - FRENTE PEDRINHO",
     "Responsável": "MARCELO DE OLIVEIRA JUNIOR",
     "Paralelismo": "1.42",
-    "Fazenda": "53201"
+    "Fazenda": "53201",
+    "Unnamed: 16": null
   },
   {
     "ID": "3577325",
@@ -20392,7 +21528,8 @@ const PARALELISMO_DATA = [
     "Frente": "135 - FRENTE PEDRINHO",
     "Responsável": "MARCELO DE OLIVEIRA JUNIOR",
     "Paralelismo": "1.4",
-    "Fazenda": "53201"
+    "Fazenda": "53201",
+    "Unnamed: 16": null
   },
   {
     "ID": "3574650",
@@ -20410,7 +21547,8 @@ const PARALELISMO_DATA = [
     "Frente": "139 - FRENTE MANEZÃO",
     "Responsável": "MICHELI DE SOUZA SANTOS  ",
     "Paralelismo": "1.5",
-    "Fazenda": "53201"
+    "Fazenda": "53201",
+    "Unnamed: 16": null
   },
   {
     "ID": "3574861",
@@ -20428,7 +21566,8 @@ const PARALELISMO_DATA = [
     "Frente": "135 - FRENTE PEDRINHO",
     "Responsável": "MARCELO DE OLIVEIRA JUNIOR",
     "Paralelismo": "1.4",
-    "Fazenda": "53201"
+    "Fazenda": "53201",
+    "Unnamed: 16": null
   },
   {
     "ID": "3574587",
@@ -20446,7 +21585,8 @@ const PARALELISMO_DATA = [
     "Frente": "139 - FRENTE MANEZÃO",
     "Responsável": "MABILA HELEN D FIGUEIREDO",
     "Paralelismo": "1.5",
-    "Fazenda": "53201"
+    "Fazenda": "53201",
+    "Unnamed: 16": null
   },
   {
     "ID": "3574858",
@@ -20464,7 +21604,8 @@ const PARALELISMO_DATA = [
     "Frente": "132 - FRENTE PEDRINHO",
     "Responsável": "MARCELO DE OLIVEIRA JUNIOR",
     "Paralelismo": "1.4",
-    "Fazenda": "53201"
+    "Fazenda": "53201",
+    "Unnamed: 16": null
   },
   {
     "ID": "3574857",
@@ -20482,7 +21623,8 @@ const PARALELISMO_DATA = [
     "Frente": "135 - FRENTE PEDRINHO",
     "Responsável": "MARCELO DE OLIVEIRA JUNIOR",
     "Paralelismo": "1.42",
-    "Fazenda": "53201"
+    "Fazenda": "53201",
+    "Unnamed: 16": null
   },
   {
     "ID": "3574846",
@@ -20500,7 +21642,8 @@ const PARALELISMO_DATA = [
     "Frente": "135 - FRENTE PEDRINHO",
     "Responsável": "MARCELO DE OLIVEIRA JUNIOR",
     "Paralelismo": "1.39",
-    "Fazenda": "53201"
+    "Fazenda": "53201",
+    "Unnamed: 16": null
   },
   {
     "ID": "3574582",
@@ -20518,7 +21661,8 @@ const PARALELISMO_DATA = [
     "Frente": "139 - FRENTE MANEZÃO",
     "Responsável": "MABILA HELEN D FIGUEIREDO",
     "Paralelismo": "1.5",
-    "Fazenda": "53201"
+    "Fazenda": "53201",
+    "Unnamed: 16": null
   },
   {
     "ID": "3574700",
@@ -20536,7 +21680,8 @@ const PARALELISMO_DATA = [
     "Frente": "142 - FRENTE BIDU",
     "Responsável": "Leonardo Ribeiro Teixeira da Silva",
     "Paralelismo": "1.4",
-    "Fazenda": "204608"
+    "Fazenda": "204608",
+    "Unnamed: 16": null
   },
   {
     "ID": "3574699",
@@ -20554,7 +21699,8 @@ const PARALELISMO_DATA = [
     "Frente": "142 - FRENTE BIDU",
     "Responsável": "Leonardo Ribeiro Teixeira da Silva",
     "Paralelismo": "1.4",
-    "Fazenda": "204608"
+    "Fazenda": "204608",
+    "Unnamed: 16": null
   },
   {
     "ID": "3574698",
@@ -20572,7 +21718,8 @@ const PARALELISMO_DATA = [
     "Frente": "142 - FRENTE BIDU",
     "Responsável": "Ruan Alexandre Lopes",
     "Paralelismo": "1.4",
-    "Fazenda": "204608"
+    "Fazenda": "204608",
+    "Unnamed: 16": null
   },
   {
     "ID": "3574697",
@@ -20590,7 +21737,8 @@ const PARALELISMO_DATA = [
     "Frente": "142 - FRENTE BIDU",
     "Responsável": "Ruan Alexandre Lopes",
     "Paralelismo": "1.4",
-    "Fazenda": "204608"
+    "Fazenda": "204608",
+    "Unnamed: 16": null
   },
   {
     "ID": "3574578",
@@ -20608,7 +21756,8 @@ const PARALELISMO_DATA = [
     "Frente": "139 - FRENTE MANEZÃO",
     "Responsável": "MABILA HELEN D FIGUEIREDO",
     "Paralelismo": "1.5",
-    "Fazenda": "53201"
+    "Fazenda": "53201",
+    "Unnamed: 16": null
   },
   {
     "ID": "3574842",
@@ -20626,7 +21775,8 @@ const PARALELISMO_DATA = [
     "Frente": "135 - FRENTE PEDRINHO",
     "Responsável": "MARCELO DE OLIVEIRA JUNIOR",
     "Paralelismo": "1.4",
-    "Fazenda": "53201"
+    "Fazenda": "53201",
+    "Unnamed: 16": null
   },
   {
     "ID": "3574529",
@@ -20644,7 +21794,8 @@ const PARALELISMO_DATA = [
     "Frente": "105 - FRENTE CASSIO",
     "Responsável": "NILDA CLAUDINO [2510716]",
     "Paralelismo": "1.4",
-    "Fazenda": "43401"
+    "Fazenda": "43401",
+    "Unnamed: 16": null
   },
   {
     "ID": "3574524",
@@ -20662,7 +21813,8 @@ const PARALELISMO_DATA = [
     "Frente": "105 - FRENTE CASSIO",
     "Responsável": "NILDA CLAUDINO [2510716]",
     "Paralelismo": "1.4",
-    "Fazenda": "43401"
+    "Fazenda": "43401",
+    "Unnamed: 16": null
   },
   {
     "ID": "3574265",
@@ -20680,7 +21832,8 @@ const PARALELISMO_DATA = [
     "Frente": "139 - FRENTE MANEZÃO",
     "Responsável": "MICHELI DE SOUZA SANTOS  ",
     "Paralelismo": "1.5",
-    "Fazenda": "281413"
+    "Fazenda": "281413",
+    "Unnamed: 16": null
   },
   {
     "ID": "3574560",
@@ -20698,7 +21851,8 @@ const PARALELISMO_DATA = [
     "Frente": "143 - FRENTE CASSIO",
     "Responsável": "GABRIEL HENRIQUE MARTINS PEREIRA",
     "Paralelismo": "1.4",
-    "Fazenda": "43401"
+    "Fazenda": "43401",
+    "Unnamed: 16": null
   },
   {
     "ID": "3574260",
@@ -20716,7 +21870,8 @@ const PARALELISMO_DATA = [
     "Frente": "139 - FRENTE MANEZÃO",
     "Responsável": "MICHELI DE SOUZA SANTOS  ",
     "Paralelismo": "1.5",
-    "Fazenda": "281413"
+    "Fazenda": "281413",
+    "Unnamed: 16": null
   },
   {
     "ID": "3574554",
@@ -20734,7 +21889,8 @@ const PARALELISMO_DATA = [
     "Frente": "143 - FRENTE CASSIO",
     "Responsável": "GABRIEL HENRIQUE MARTINS PEREIRA",
     "Paralelismo": "1.4",
-    "Fazenda": "43401"
+    "Fazenda": "43401",
+    "Unnamed: 16": null
   },
   {
     "ID": "3574437",
@@ -20752,7 +21908,8 @@ const PARALELISMO_DATA = [
     "Frente": "261 - FRENTE PRÓPRIA  (EDMILSON)",
     "Responsável": "VITOR AMORIM RAMOS ",
     "Paralelismo": "1.4",
-    "Fazenda": "53201"
+    "Fazenda": "53201",
+    "Unnamed: 16": null
   },
   {
     "ID": "3574255",
@@ -20770,7 +21927,8 @@ const PARALELISMO_DATA = [
     "Frente": "139 - FRENTE MANEZÃO",
     "Responsável": "MICHELI DE SOUZA SANTOS  ",
     "Paralelismo": "1.49",
-    "Fazenda": "281413"
+    "Fazenda": "281413",
+    "Unnamed: 16": null
   },
   {
     "ID": "3574250",
@@ -20788,7 +21946,8 @@ const PARALELISMO_DATA = [
     "Frente": "139 - FRENTE MANEZÃO",
     "Responsável": "MICHELI DE SOUZA SANTOS  ",
     "Paralelismo": "1.5",
-    "Fazenda": "281413"
+    "Fazenda": "281413",
+    "Unnamed: 16": null
   },
   {
     "ID": "3574548",
@@ -20806,7 +21965,8 @@ const PARALELISMO_DATA = [
     "Frente": "143 - FRENTE CASSIO",
     "Responsável": "GABRIEL HENRIQUE MARTINS PEREIRA",
     "Paralelismo": "1.4",
-    "Fazenda": "43401"
+    "Fazenda": "43401",
+    "Unnamed: 16": null
   },
   {
     "ID": "3574432",
@@ -20824,7 +21984,8 @@ const PARALELISMO_DATA = [
     "Frente": "261 - FRENTE PRÓPRIA  (EDMILSON)",
     "Responsável": "VITOR AMORIM RAMOS ",
     "Paralelismo": "1.4",
-    "Fazenda": "53201"
+    "Fazenda": "53201",
+    "Unnamed: 16": null
   },
   {
     "ID": "3574430",
@@ -20842,7 +22003,8 @@ const PARALELISMO_DATA = [
     "Frente": "261 - FRENTE PRÓPRIA  (EDMILSON)",
     "Responsável": "VITOR AMORIM RAMOS ",
     "Paralelismo": "1.4",
-    "Fazenda": "53201"
+    "Fazenda": "53201",
+    "Unnamed: 16": null
   },
   {
     "ID": "3574543",
@@ -20860,7 +22022,8 @@ const PARALELISMO_DATA = [
     "Frente": "143 - FRENTE CASSIO",
     "Responsável": "GABRIEL HENRIQUE MARTINS PEREIRA",
     "Paralelismo": "1.4",
-    "Fazenda": "43401"
+    "Fazenda": "43401",
+    "Unnamed: 16": null
   },
   {
     "ID": "3574501",
@@ -20878,7 +22041,8 @@ const PARALELISMO_DATA = [
     "Frente": "105 - FRENTE CASSIO",
     "Responsável": "NILDA CLAUDINO [2510716]",
     "Paralelismo": "1.4",
-    "Fazenda": "32201"
+    "Fazenda": "32201",
+    "Unnamed: 16": null
   },
   {
     "ID": "3574536",
@@ -20896,7 +22060,8 @@ const PARALELISMO_DATA = [
     "Frente": "143 - FRENTE CASSIO",
     "Responsável": "GABRIEL HENRIQUE MARTINS PEREIRA",
     "Paralelismo": "1.4",
-    "Fazenda": "43401"
+    "Fazenda": "43401",
+    "Unnamed: 16": null
   },
   {
     "ID": "3574535",
@@ -20914,7 +22079,8 @@ const PARALELISMO_DATA = [
     "Frente": "143 - FRENTE CASSIO",
     "Responsável": "GABRIEL HENRIQUE MARTINS PEREIRA",
     "Paralelismo": "1.4",
-    "Fazenda": "43401"
+    "Fazenda": "43401",
+    "Unnamed: 16": null
   },
   {
     "ID": "3574498",
@@ -20932,7 +22098,8 @@ const PARALELISMO_DATA = [
     "Frente": "105 - FRENTE CASSIO",
     "Responsável": "NILDA CLAUDINO [2510716]",
     "Paralelismo": "1.4",
-    "Fazenda": "32201"
+    "Fazenda": "32201",
+    "Unnamed: 16": null
   },
   {
     "ID": "3574210",
@@ -20950,7 +22117,8 @@ const PARALELISMO_DATA = [
     "Frente": "139 - FRENTE MANEZÃO",
     "Responsável": "MICHELI DE SOUZA SANTOS  ",
     "Paralelismo": "1.49",
-    "Fazenda": "282415"
+    "Fazenda": "282415",
+    "Unnamed: 16": null
   },
   {
     "ID": "3574207",
@@ -20968,7 +22136,8 @@ const PARALELISMO_DATA = [
     "Frente": "139 - FRENTE MANEZÃO",
     "Responsável": "MICHELI DE SOUZA SANTOS  ",
     "Paralelismo": "1.5",
-    "Fazenda": "282415"
+    "Fazenda": "282415",
+    "Unnamed: 16": null
   },
   {
     "ID": "3574206",
@@ -20986,7 +22155,8 @@ const PARALELISMO_DATA = [
     "Frente": "139 - FRENTE MANEZÃO",
     "Responsável": "MICHELI DE SOUZA SANTOS  ",
     "Paralelismo": "1.5",
-    "Fazenda": "282415"
+    "Fazenda": "282415",
+    "Unnamed: 16": null
   },
   {
     "ID": "3574205",
@@ -21004,7 +22174,8 @@ const PARALELISMO_DATA = [
     "Frente": "139 - FRENTE MANEZÃO",
     "Responsável": "MICHELI DE SOUZA SANTOS  ",
     "Paralelismo": "1.5",
-    "Fazenda": "281413"
+    "Fazenda": "281413",
+    "Unnamed: 16": null
   },
   {
     "ID": "3574204",
@@ -21022,7 +22193,8 @@ const PARALELISMO_DATA = [
     "Frente": "139 - FRENTE MANEZÃO",
     "Responsável": "MICHELI DE SOUZA SANTOS  ",
     "Paralelismo": "1.48",
-    "Fazenda": "281413"
+    "Fazenda": "281413",
+    "Unnamed: 16": null
   },
   {
     "ID": "3574203",
@@ -21040,7 +22212,8 @@ const PARALELISMO_DATA = [
     "Frente": "139 - FRENTE MANEZÃO",
     "Responsável": "MICHELI DE SOUZA SANTOS  ",
     "Paralelismo": "1.5",
-    "Fazenda": "281413"
+    "Fazenda": "281413",
+    "Unnamed: 16": null
   },
   {
     "ID": "3574202",
@@ -21058,7 +22231,8 @@ const PARALELISMO_DATA = [
     "Frente": "139 - FRENTE MANEZÃO",
     "Responsável": "MICHELI DE SOUZA SANTOS  ",
     "Paralelismo": "1.5",
-    "Fazenda": "281413"
+    "Fazenda": "281413",
+    "Unnamed: 16": null
   },
   {
     "ID": "3574201",
@@ -21076,7 +22250,8 @@ const PARALELISMO_DATA = [
     "Frente": "139 - FRENTE MANEZÃO",
     "Responsável": "MICHELI DE SOUZA SANTOS  ",
     "Paralelismo": "1.5",
-    "Fazenda": "281413"
+    "Fazenda": "281413",
+    "Unnamed: 16": null
   },
   {
     "ID": "3574411",
@@ -21094,7 +22269,8 @@ const PARALELISMO_DATA = [
     "Frente": "261 - FRENTE PRÓPRIA  (EDMILSON)",
     "Responsável": "VITOR AMORIM RAMOS ",
     "Paralelismo": "1.4",
-    "Fazenda": "53201"
+    "Fazenda": "53201",
+    "Unnamed: 16": null
   },
   {
     "ID": "3574493",
@@ -21112,7 +22288,8 @@ const PARALELISMO_DATA = [
     "Frente": "105 - FRENTE CASSIO",
     "Responsável": "NILDA CLAUDINO [2510716]",
     "Paralelismo": "1.4",
-    "Fazenda": "32201"
+    "Fazenda": "32201",
+    "Unnamed: 16": null
   },
   {
     "ID": "3574489",
@@ -21130,7 +22307,8 @@ const PARALELISMO_DATA = [
     "Frente": "105 - FRENTE CASSIO",
     "Responsável": "NILDA CLAUDINO [2510716]",
     "Paralelismo": "1.4",
-    "Fazenda": "32201"
+    "Fazenda": "32201",
+    "Unnamed: 16": null
   },
   {
     "ID": "3574406",
@@ -21148,7 +22326,8 @@ const PARALELISMO_DATA = [
     "Frente": "261 - FRENTE PRÓPRIA  (EDMILSON)",
     "Responsável": "VITOR AMORIM RAMOS ",
     "Paralelismo": "1.4",
-    "Fazenda": "53201"
+    "Fazenda": "53201",
+    "Unnamed: 16": null
   },
   {
     "ID": "3574401",
@@ -21166,7 +22345,8 @@ const PARALELISMO_DATA = [
     "Frente": "261 - FRENTE PRÓPRIA  (EDMILSON)",
     "Responsável": "VITOR AMORIM RAMOS ",
     "Paralelismo": "1.4",
-    "Fazenda": "53201"
+    "Fazenda": "53201",
+    "Unnamed: 16": null
   },
   {
     "ID": "3574478",
@@ -21184,7 +22364,8 @@ const PARALELISMO_DATA = [
     "Frente": "105 - FRENTE CASSIO",
     "Responsável": "NILDA CLAUDINO [2510716]",
     "Paralelismo": "1.4",
-    "Fazenda": "32201"
+    "Fazenda": "32201",
+    "Unnamed: 16": null
   },
   {
     "ID": "3574396",
@@ -21202,7 +22383,8 @@ const PARALELISMO_DATA = [
     "Frente": "261 - FRENTE PRÓPRIA  (EDMILSON)",
     "Responsável": "VITOR AMORIM RAMOS ",
     "Paralelismo": "1.4",
-    "Fazenda": "53201"
+    "Fazenda": "53201",
+    "Unnamed: 16": null
   },
   {
     "ID": "3574669",
@@ -21220,7 +22402,8 @@ const PARALELISMO_DATA = [
     "Frente": "142 - FRENTE BIDU",
     "Responsável": "Ruan Alexandre Lopes",
     "Paralelismo": "1.4",
-    "Fazenda": "204608"
+    "Fazenda": "204608",
+    "Unnamed: 16": null
   },
   {
     "ID": "3574474",
@@ -21238,7 +22421,8 @@ const PARALELISMO_DATA = [
     "Frente": "105 - FRENTE CASSIO",
     "Responsável": "NILDA CLAUDINO [2510716]",
     "Paralelismo": "1.4",
-    "Fazenda": "32201"
+    "Fazenda": "32201",
+    "Unnamed: 16": null
   },
   {
     "ID": "3574470",
@@ -21256,7 +22440,8 @@ const PARALELISMO_DATA = [
     "Frente": "105 - FRENTE CASSIO",
     "Responsável": "NILDA CLAUDINO [2510716]",
     "Paralelismo": "1.4",
-    "Fazenda": "32201"
+    "Fazenda": "32201",
+    "Unnamed: 16": null
   },
   {
     "ID": "3574392",
@@ -21274,7 +22459,8 @@ const PARALELISMO_DATA = [
     "Frente": "261 - FRENTE PRÓPRIA  (EDMILSON)",
     "Responsável": "VITOR AMORIM RAMOS ",
     "Paralelismo": "1.4",
-    "Fazenda": "151502"
+    "Fazenda": "151502",
+    "Unnamed: 16": null
   },
   {
     "ID": "3574387",
@@ -21292,7 +22478,8 @@ const PARALELISMO_DATA = [
     "Frente": "261 - FRENTE PRÓPRIA  (EDMILSON)",
     "Responsável": "VITOR AMORIM RAMOS ",
     "Paralelismo": "1.4",
-    "Fazenda": "53201"
+    "Fazenda": "53201",
+    "Unnamed: 16": null
   },
   {
     "ID": "3574382",
@@ -21310,7 +22497,8 @@ const PARALELISMO_DATA = [
     "Frente": "261 - FRENTE PRÓPRIA  (EDMILSON)",
     "Responsável": "VITOR AMORIM RAMOS ",
     "Paralelismo": "1.4",
-    "Fazenda": "53201"
+    "Fazenda": "53201",
+    "Unnamed: 16": null
   },
   {
     "ID": "3572727",
@@ -21328,7 +22516,8 @@ const PARALELISMO_DATA = [
     "Frente": "105 - FRENTE CASSIO",
     "Responsável": "REGINALDO DA SILVA GOMES ",
     "Paralelismo": "1.4",
-    "Fazenda": "32201"
+    "Fazenda": "32201",
+    "Unnamed: 16": null
   },
   {
     "ID": "3572724",
@@ -21346,7 +22535,8 @@ const PARALELISMO_DATA = [
     "Frente": "105 - FRENTE CASSIO",
     "Responsável": "REGINALDO DA SILVA GOMES ",
     "Paralelismo": "1.4",
-    "Fazenda": "32201"
+    "Fazenda": "32201",
+    "Unnamed: 16": null
   },
   {
     "ID": "3572636",
@@ -21364,7 +22554,8 @@ const PARALELISMO_DATA = [
     "Frente": "105 - FRENTE CASSIO",
     "Responsável": "NILDA CLAUDINO [2510716]",
     "Paralelismo": "1.4",
-    "Fazenda": "32201"
+    "Fazenda": "32201",
+    "Unnamed: 16": null
   },
   {
     "ID": "3572762",
@@ -21382,7 +22573,8 @@ const PARALELISMO_DATA = [
     "Frente": "261 - FRENTE PRÓPRIA  (EDMILSON)",
     "Responsável": "VITOR AMORIM RAMOS ",
     "Paralelismo": "1.4",
-    "Fazenda": "53201"
+    "Fazenda": "53201",
+    "Unnamed: 16": null
   },
   {
     "ID": "3572610",
@@ -21400,7 +22592,8 @@ const PARALELISMO_DATA = [
     "Frente": "105 - FRENTE CASSIO",
     "Responsável": "NILDA CLAUDINO [2510716]",
     "Paralelismo": "1.4",
-    "Fazenda": "32201"
+    "Fazenda": "32201",
+    "Unnamed: 16": null
   },
   {
     "ID": "3572719",
@@ -21418,7 +22611,8 @@ const PARALELISMO_DATA = [
     "Frente": "105 - FRENTE CASSIO",
     "Responsável": "REGINALDO DA SILVA GOMES ",
     "Paralelismo": "1.42",
-    "Fazenda": "32201"
+    "Fazenda": "32201",
+    "Unnamed: 16": null
   },
   {
     "ID": "3572757",
@@ -21436,7 +22630,8 @@ const PARALELISMO_DATA = [
     "Frente": "261 - FRENTE PRÓPRIA  (EDMILSON)",
     "Responsável": "VITOR AMORIM RAMOS ",
     "Paralelismo": "1.4",
-    "Fazenda": "53201"
+    "Fazenda": "53201",
+    "Unnamed: 16": null
   },
   {
     "ID": "3572714",
@@ -21454,7 +22649,8 @@ const PARALELISMO_DATA = [
     "Frente": "105 - FRENTE CASSIO",
     "Responsável": "REGINALDO DA SILVA GOMES ",
     "Paralelismo": "1.43",
-    "Fazenda": "32201"
+    "Fazenda": "32201",
+    "Unnamed: 16": null
   },
   {
     "ID": "3572751",
@@ -21472,7 +22668,8 @@ const PARALELISMO_DATA = [
     "Frente": "261 - FRENTE PRÓPRIA  (EDMILSON)",
     "Responsável": "VITOR AMORIM RAMOS ",
     "Paralelismo": "1.4",
-    "Fazenda": "53201"
+    "Fazenda": "53201",
+    "Unnamed: 16": null
   },
   {
     "ID": "3572606",
@@ -21490,7 +22687,8 @@ const PARALELISMO_DATA = [
     "Frente": "105 - FRENTE CASSIO",
     "Responsável": "NILDA CLAUDINO [2510716]",
     "Paralelismo": "1.4",
-    "Fazenda": "32201"
+    "Fazenda": "32201",
+    "Unnamed: 16": null
   },
   {
     "ID": "3572709",
@@ -21508,7 +22706,8 @@ const PARALELISMO_DATA = [
     "Frente": "105 - FRENTE CASSIO",
     "Responsável": "REGINALDO DA SILVA GOMES ",
     "Paralelismo": "1.4",
-    "Fazenda": "32201"
+    "Fazenda": "32201",
+    "Unnamed: 16": null
   },
   {
     "ID": "3572746",
@@ -21526,7 +22725,8 @@ const PARALELISMO_DATA = [
     "Frente": "261 - FRENTE PRÓPRIA  (EDMILSON)",
     "Responsável": "VITOR AMORIM RAMOS ",
     "Paralelismo": "1.4",
-    "Fazenda": "151502"
+    "Fazenda": "151502",
+    "Unnamed: 16": null
   },
   {
     "ID": "3572704",
@@ -21544,7 +22744,8 @@ const PARALELISMO_DATA = [
     "Frente": "105 - FRENTE CASSIO",
     "Responsável": "REGINALDO DA SILVA GOMES ",
     "Paralelismo": "1.36",
-    "Fazenda": "32201"
+    "Fazenda": "32201",
+    "Unnamed: 16": null
   },
   {
     "ID": "3572590",
@@ -21562,7 +22763,8 @@ const PARALELISMO_DATA = [
     "Frente": "135 - PEDRINHO ",
     "Responsável": "MARCELO DE OLIVEIRA JUNIOR",
     "Paralelismo": "1.43",
-    "Fazenda": "144501"
+    "Fazenda": "144501",
+    "Unnamed: 16": null
   },
   {
     "ID": "3572588",
@@ -21580,7 +22782,8 @@ const PARALELISMO_DATA = [
     "Frente": "135 - PEDRINHO ",
     "Responsável": "MARCELO DE OLIVEIRA JUNIOR",
     "Paralelismo": "1.4",
-    "Fazenda": "144501"
+    "Fazenda": "144501",
+    "Unnamed: 16": null
   },
   {
     "ID": "3572496",
@@ -21598,7 +22801,8 @@ const PARALELISMO_DATA = [
     "Frente": "105 - FRENTE CASSIO",
     "Responsável": "NILDA CLAUDINO [2510716]",
     "Paralelismo": "1.4",
-    "Fazenda": "32201"
+    "Fazenda": "32201",
+    "Unnamed: 16": null
   },
   {
     "ID": "3572699",
@@ -21616,7 +22820,8 @@ const PARALELISMO_DATA = [
     "Frente": "135 - PEDRINHO ",
     "Responsável": "REGINALDO DA SILVA GOMES ",
     "Paralelismo": "1.37",
-    "Fazenda": "144501"
+    "Fazenda": "144501",
+    "Unnamed: 16": null
   },
   {
     "ID": "3572694",
@@ -21634,7 +22839,8 @@ const PARALELISMO_DATA = [
     "Frente": "135 - PEDRINHO ",
     "Responsável": "REGINALDO DA SILVA GOMES ",
     "Paralelismo": "1.43",
-    "Fazenda": "144501"
+    "Fazenda": "144501",
+    "Unnamed: 16": null
   },
   {
     "ID": "3572689",
@@ -21652,7 +22858,8 @@ const PARALELISMO_DATA = [
     "Frente": "135 - PEDRINHO ",
     "Responsável": "REGINALDO DA SILVA GOMES ",
     "Paralelismo": "1.4",
-    "Fazenda": "144501"
+    "Fazenda": "144501",
+    "Unnamed: 16": null
   },
   {
     "ID": "3572681",
@@ -21670,7 +22877,8 @@ const PARALELISMO_DATA = [
     "Frente": "135 - PEDRINHO ",
     "Responsável": "REGINALDO DA SILVA GOMES ",
     "Paralelismo": "1.44",
-    "Fazenda": "144501"
+    "Fazenda": "144501",
+    "Unnamed: 16": null
   },
   {
     "ID": "3572676",
@@ -21688,7 +22896,8 @@ const PARALELISMO_DATA = [
     "Frente": "135 - PEDRINHO ",
     "Responsável": "REGINALDO DA SILVA GOMES ",
     "Paralelismo": "1.37",
-    "Fazenda": "144501"
+    "Fazenda": "144501",
+    "Unnamed: 16": null
   },
   {
     "ID": "3572671",
@@ -21706,7 +22915,8 @@ const PARALELISMO_DATA = [
     "Frente": "139 - FRENTE MANEZÃO",
     "Responsável": "REGINALDO DA SILVA GOMES ",
     "Paralelismo": "1.39",
-    "Fazenda": "151502"
+    "Fazenda": "151502",
+    "Unnamed: 16": null
   },
   {
     "ID": "3572666",
@@ -21724,7 +22934,8 @@ const PARALELISMO_DATA = [
     "Frente": "139 - FRENTE MANEZÃO",
     "Responsável": "REGINALDO DA SILVA GOMES ",
     "Paralelismo": "1.4",
-    "Fazenda": "151502"
+    "Fazenda": "151502",
+    "Unnamed: 16": null
   },
   {
     "ID": "3572661",
@@ -21742,7 +22953,8 @@ const PARALELISMO_DATA = [
     "Frente": "139 - FRENTE MANEZÃO",
     "Responsável": "REGINALDO DA SILVA GOMES ",
     "Paralelismo": "1.43",
-    "Fazenda": "151502"
+    "Fazenda": "151502",
+    "Unnamed: 16": null
   },
   {
     "ID": "3572400",
@@ -21760,7 +22972,8 @@ const PARALELISMO_DATA = [
     "Frente": "139 - FRENTE MANEZÃO",
     "Responsável": "MICHELI DE SOUZA SANTOS  ",
     "Paralelismo": "1.4",
-    "Fazenda": "151502"
+    "Fazenda": "151502",
+    "Unnamed: 16": null
   },
   {
     "ID": "3572579",
@@ -21778,7 +22991,8 @@ const PARALELISMO_DATA = [
     "Frente": "135 - PEDRINHO ",
     "Responsável": "MARCELO DE OLIVEIRA JUNIOR",
     "Paralelismo": "1.41",
-    "Fazenda": "144501"
+    "Fazenda": "144501",
+    "Unnamed: 16": null
   },
   {
     "ID": "3572571",
@@ -21796,7 +23010,8 @@ const PARALELISMO_DATA = [
     "Frente": "135 - PEDRINHO ",
     "Responsável": "MARCELO DE OLIVEIRA JUNIOR",
     "Paralelismo": "1.39",
-    "Fazenda": "144501"
+    "Fazenda": "144501",
+    "Unnamed: 16": null
   },
   {
     "ID": "3572656",
@@ -21814,7 +23029,8 @@ const PARALELISMO_DATA = [
     "Frente": "139 - FRENTE MANEZÃO",
     "Responsável": "REGINALDO DA SILVA GOMES ",
     "Paralelismo": "1.4",
-    "Fazenda": "151502"
+    "Fazenda": "151502",
+    "Unnamed: 16": null
   },
   {
     "ID": "3572395",
@@ -21832,7 +23048,8 @@ const PARALELISMO_DATA = [
     "Frente": "139 - FRENTE MANEZÃO",
     "Responsável": "MICHELI DE SOUZA SANTOS  ",
     "Paralelismo": "1.4",
-    "Fazenda": "151502"
+    "Fazenda": "151502",
+    "Unnamed: 16": null
   },
   {
     "ID": "3572651",
@@ -21850,7 +23067,8 @@ const PARALELISMO_DATA = [
     "Frente": "139 - FRENTE MANEZÃO",
     "Responsável": "REGINALDO DA SILVA GOMES ",
     "Paralelismo": "1.38",
-    "Fazenda": "151502"
+    "Fazenda": "151502",
+    "Unnamed: 16": null
   },
   {
     "ID": "3572392",
@@ -21868,7 +23086,8 @@ const PARALELISMO_DATA = [
     "Frente": "139 - FRENTE MANEZÃO",
     "Responsável": "MABILA HELEN D FIGUEIREDO",
     "Paralelismo": "1.4",
-    "Fazenda": "151502"
+    "Fazenda": "151502",
+    "Unnamed: 16": null
   },
   {
     "ID": "3572646",
@@ -21886,7 +23105,8 @@ const PARALELISMO_DATA = [
     "Frente": "261 - FRENTE PRÓPRIA  (EDMILSON)",
     "Responsável": "REGINALDO DA SILVA GOMES ",
     "Paralelismo": "1.41",
-    "Fazenda": "151502"
+    "Fazenda": "151502",
+    "Unnamed: 16": null
   },
   {
     "ID": "3572641",
@@ -21904,7 +23124,8 @@ const PARALELISMO_DATA = [
     "Frente": "261 - FRENTE PRÓPRIA  (EDMILSON)",
     "Responsável": "REGINALDO DA SILVA GOMES ",
     "Paralelismo": "1.37",
-    "Fazenda": "151502"
+    "Fazenda": "151502",
+    "Unnamed: 16": null
   },
   {
     "ID": "3572492",
@@ -21922,7 +23143,8 @@ const PARALELISMO_DATA = [
     "Frente": "261 - FRENTE PRÓPRIA  (EDMILSON)",
     "Responsável": "REGINALDO DA SILVA GOMES ",
     "Paralelismo": "1.4",
-    "Fazenda": "151502"
+    "Fazenda": "151502",
+    "Unnamed: 16": null
   },
   {
     "ID": "3572188",
@@ -21940,7 +23162,8 @@ const PARALELISMO_DATA = [
     "Frente": "261 - FRENTE PRÓPRIA  (EDMILSON)",
     "Responsável": "VITOR AMORIM RAMOS ",
     "Paralelismo": "1.4",
-    "Fazenda": "53201"
+    "Fazenda": "53201",
+    "Unnamed: 16": null
   },
   {
     "ID": "3572486",
@@ -21958,7 +23181,8 @@ const PARALELISMO_DATA = [
     "Frente": "261 - FRENTE PRÓPRIA  (EDMILSON)",
     "Responsável": "REGINALDO DA SILVA GOMES ",
     "Paralelismo": "1.4",
-    "Fazenda": "151502"
+    "Fazenda": "151502",
+    "Unnamed: 16": null
   },
   {
     "ID": "3572183",
@@ -21976,7 +23200,8 @@ const PARALELISMO_DATA = [
     "Frente": "261 - FRENTE PRÓPRIA  (EDMILSON)",
     "Responsável": "VITOR AMORIM RAMOS ",
     "Paralelismo": "1.4",
-    "Fazenda": "53201"
+    "Fazenda": "53201",
+    "Unnamed: 16": null
   },
   {
     "ID": "3572561",
@@ -21994,7 +23219,8 @@ const PARALELISMO_DATA = [
     "Frente": "135 - PEDRINHO ",
     "Responsável": "MARCELO DE OLIVEIRA JUNIOR",
     "Paralelismo": "1.4",
-    "Fazenda": "144501"
+    "Fazenda": "144501",
+    "Unnamed: 16": null
   },
   {
     "ID": "3572178",
@@ -22012,7 +23238,8 @@ const PARALELISMO_DATA = [
     "Frente": "261 - FRENTE PRÓPRIA  (EDMILSON)",
     "Responsável": "VITOR AMORIM RAMOS ",
     "Paralelismo": "1.4",
-    "Fazenda": "53201"
+    "Fazenda": "53201",
+    "Unnamed: 16": null
   },
   {
     "ID": "3572481",
@@ -22030,7 +23257,8 @@ const PARALELISMO_DATA = [
     "Frente": "261 - FRENTE PRÓPRIA  (EDMILSON)",
     "Responsável": "REGINALDO DA SILVA GOMES ",
     "Paralelismo": "1.41",
-    "Fazenda": "151502"
+    "Fazenda": "151502",
+    "Unnamed: 16": null
   },
   {
     "ID": "3572174",
@@ -22048,7 +23276,8 @@ const PARALELISMO_DATA = [
     "Frente": "261 - FRENTE PRÓPRIA  (EDMILSON)",
     "Responsável": "VITOR AMORIM RAMOS ",
     "Paralelismo": "1.4",
-    "Fazenda": "53201"
+    "Fazenda": "53201",
+    "Unnamed: 16": null
   },
   {
     "ID": "3572169",
@@ -22066,7 +23295,8 @@ const PARALELISMO_DATA = [
     "Frente": "261 - FRENTE PRÓPRIA  (EDMILSON)",
     "Responsável": "VITOR AMORIM RAMOS ",
     "Paralelismo": "1.4",
-    "Fazenda": "53201"
+    "Fazenda": "53201",
+    "Unnamed: 16": null
   },
   {
     "ID": "3572545",
@@ -22084,7 +23314,8 @@ const PARALELISMO_DATA = [
     "Frente": "135 - PEDRINHO ",
     "Responsável": "MARCELO DE OLIVEIRA JUNIOR",
     "Paralelismo": "1.42",
-    "Fazenda": "144501"
+    "Fazenda": "144501",
+    "Unnamed: 16": null
   },
   {
     "ID": "3572540",
@@ -22102,7 +23333,8 @@ const PARALELISMO_DATA = [
     "Frente": "135 - PEDRINHO ",
     "Responsável": "MARCELO DE OLIVEIRA JUNIOR",
     "Paralelismo": "1.39",
-    "Fazenda": "144501"
+    "Fazenda": "144501",
+    "Unnamed: 16": null
   },
   {
     "ID": "3572513",
@@ -22120,7 +23352,8 @@ const PARALELISMO_DATA = [
     "Frente": "135 - PEDRINHO ",
     "Responsável": "MARCELO DE OLIVEIRA JUNIOR",
     "Paralelismo": "1.41",
-    "Fazenda": "144501"
+    "Fazenda": "144501",
+    "Unnamed: 16": null
   },
   {
     "ID": "3570287",
@@ -22138,7 +23371,8 @@ const PARALELISMO_DATA = [
     "Frente": "142 - FRENTE BIDU",
     "Responsável": "Leonardo Ribeiro Teixeira da Silva",
     "Paralelismo": "1.4",
-    "Fazenda": "204608"
+    "Fazenda": "204608",
+    "Unnamed: 16": null
   },
   {
     "ID": "3570507",
@@ -22156,7 +23390,8 @@ const PARALELISMO_DATA = [
     "Frente": "142 - FRENTE BIDU",
     "Responsável": "Leonardo Ribeiro Teixeira da Silva",
     "Paralelismo": "1.4",
-    "Fazenda": "204608"
+    "Fazenda": "204608",
+    "Unnamed: 16": null
   },
   {
     "ID": "3570286",
@@ -22174,7 +23409,8 @@ const PARALELISMO_DATA = [
     "Frente": "142 - FRENTE BIDU",
     "Responsável": "Leonardo Ribeiro Teixeira da Silva",
     "Paralelismo": "1.4",
-    "Fazenda": "204608"
+    "Fazenda": "204608",
+    "Unnamed: 16": null
   },
   {
     "ID": "3570505",
@@ -22192,7 +23428,8 @@ const PARALELISMO_DATA = [
     "Frente": "143 - FRENTE CASSIO",
     "Responsável": "REGINALDO DA SILVA GOMES ",
     "Paralelismo": "1.43",
-    "Fazenda": "285701"
+    "Fazenda": "285701",
+    "Unnamed: 16": null
   },
   {
     "ID": "3570497",
@@ -22210,7 +23447,8 @@ const PARALELISMO_DATA = [
     "Frente": "143 - FRENTE CASSIO",
     "Responsável": "REGINALDO DA SILVA GOMES ",
     "Paralelismo": "1.43",
-    "Fazenda": "285701"
+    "Fazenda": "285701",
+    "Unnamed: 16": null
   },
   {
     "ID": "3570495",
@@ -22228,7 +23466,8 @@ const PARALELISMO_DATA = [
     "Frente": "143 - FRENTE CASSIO",
     "Responsável": "REGINALDO DA SILVA GOMES ",
     "Paralelismo": "1.4",
-    "Fazenda": "285701"
+    "Fazenda": "285701",
+    "Unnamed: 16": null
   },
   {
     "ID": "3571038",
@@ -22246,7 +23485,8 @@ const PARALELISMO_DATA = [
     "Frente": "291 - FRENTE PRÓPRIA ",
     "Responsável": "VITOR AMORIM RAMOS ",
     "Paralelismo": "1.4",
-    "Fazenda": "53201"
+    "Fazenda": "53201",
+    "Unnamed: 16": null
   },
   {
     "ID": "3571033",
@@ -22264,7 +23504,8 @@ const PARALELISMO_DATA = [
     "Frente": "291 - FRENTE PRÓPRIA ",
     "Responsável": "VITOR AMORIM RAMOS ",
     "Paralelismo": "1.4",
-    "Fazenda": "53201"
+    "Fazenda": "53201",
+    "Unnamed: 16": null
   },
   {
     "ID": "3569977",
@@ -22282,7 +23523,8 @@ const PARALELISMO_DATA = [
     "Frente": "142 - FRENTE BIDU",
     "Responsável": "Leonardo Ribeiro Teixeira da Silva",
     "Paralelismo": "1.4",
-    "Fazenda": "204608"
+    "Fazenda": "204608",
+    "Unnamed: 16": null
   },
   {
     "ID": "3569976",
@@ -22300,7 +23542,8 @@ const PARALELISMO_DATA = [
     "Frente": "142 - FRENTE BIDU",
     "Responsável": "Leonardo Ribeiro Teixeira da Silva",
     "Paralelismo": "1.4",
-    "Fazenda": "204608"
+    "Fazenda": "204608",
+    "Unnamed: 16": null
   },
   {
     "ID": "3569975",
@@ -22318,7 +23561,8 @@ const PARALELISMO_DATA = [
     "Frente": "142 - FRENTE BIDU",
     "Responsável": "Leonardo Ribeiro Teixeira da Silva",
     "Paralelismo": "1.4",
-    "Fazenda": "204608"
+    "Fazenda": "204608",
+    "Unnamed: 16": null
   },
   {
     "ID": "3570252",
@@ -22336,7 +23580,8 @@ const PARALELISMO_DATA = [
     "Frente": "291 - FRENTE PRÓPRIA ",
     "Responsável": "VITOR AMORIM RAMOS ",
     "Paralelismo": "1.4",
-    "Fazenda": "53201"
+    "Fazenda": "53201",
+    "Unnamed: 16": null
   },
   {
     "ID": "3569924",
@@ -22354,7 +23599,8 @@ const PARALELISMO_DATA = [
     "Frente": "143 - FRENTE CASSIO",
     "Responsável": " Antonio ",
     "Paralelismo": "1.5",
-    "Fazenda": "285701"
+    "Fazenda": "285701",
+    "Unnamed: 16": null
   },
   {
     "ID": "3569918",
@@ -22372,7 +23618,8 @@ const PARALELISMO_DATA = [
     "Frente": "143 - FRENTE CASSIO",
     "Responsável": " Antonio ",
     "Paralelismo": "1.5",
-    "Fazenda": "285701"
+    "Fazenda": "285701",
+    "Unnamed: 16": null
   },
   {
     "ID": "3569913",
@@ -22390,7 +23637,8 @@ const PARALELISMO_DATA = [
     "Frente": "143 - FRENTE CASSIO",
     "Responsável": " Antonio ",
     "Paralelismo": "1.5",
-    "Fazenda": "285701"
+    "Fazenda": "285701",
+    "Unnamed: 16": null
   },
   {
     "ID": "3569867",
@@ -22408,7 +23656,8 @@ const PARALELISMO_DATA = [
     "Frente": "291 - FRENTE PRÓPRIA ",
     "Responsável": "VITOR AMORIM RAMOS ",
     "Paralelismo": "1.4",
-    "Fazenda": "53201"
+    "Fazenda": "53201",
+    "Unnamed: 16": null
   },
   {
     "ID": "3570487",
@@ -22426,7 +23675,8 @@ const PARALELISMO_DATA = [
     "Frente": "142 - FRENTE BIDU",
     "Responsável": "REGINALDO DA SILVA GOMES ",
     "Paralelismo": "1.44",
-    "Fazenda": "204608"
+    "Fazenda": "204608",
+    "Unnamed: 16": null
   },
   {
     "ID": "3570064",
@@ -22444,7 +23694,8 @@ const PARALELISMO_DATA = [
     "Frente": "105 - FRENTE CASSIO",
     "Responsável": "NILDA CLAUDINO [2510716]",
     "Paralelismo": "1.5",
-    "Fazenda": "140002"
+    "Fazenda": "140002",
+    "Unnamed: 16": null
   },
   {
     "ID": "3570484",
@@ -22462,7 +23713,8 @@ const PARALELISMO_DATA = [
     "Frente": "142 - FRENTE BIDU",
     "Responsável": "REGINALDO DA SILVA GOMES ",
     "Paralelismo": "1.4",
-    "Fazenda": "204608"
+    "Fazenda": "204608",
+    "Unnamed: 16": null
   },
   {
     "ID": "3569862",
@@ -22480,7 +23732,8 @@ const PARALELISMO_DATA = [
     "Frente": "291 - FRENTE PRÓPRIA ",
     "Responsável": "VITOR AMORIM RAMOS ",
     "Paralelismo": "1.4",
-    "Fazenda": "53201"
+    "Fazenda": "53201",
+    "Unnamed: 16": null
   },
   {
     "ID": "3570478",
@@ -22498,7 +23751,8 @@ const PARALELISMO_DATA = [
     "Frente": "142 - FRENTE BIDU",
     "Responsável": "REGINALDO DA SILVA GOMES ",
     "Paralelismo": "1.39",
-    "Fazenda": "204608"
+    "Fazenda": "204608",
+    "Unnamed: 16": null
   },
   {
     "ID": "3570057",
@@ -22516,7 +23770,8 @@ const PARALELISMO_DATA = [
     "Frente": "105 - FRENTE CASSIO",
     "Responsável": "NILDA CLAUDINO [2510716]",
     "Paralelismo": "1.5",
-    "Fazenda": "140002"
+    "Fazenda": "140002",
+    "Unnamed: 16": null
   },
   {
     "ID": "3570130",
@@ -22534,7 +23789,8 @@ const PARALELISMO_DATA = [
     "Frente": "135 - PEDRINHO ",
     "Responsável": "MARCELO DE OLIVEIRA JUNIOR",
     "Paralelismo": "1.4",
-    "Fazenda": "144501"
+    "Fazenda": "144501",
+    "Unnamed: 16": null
   },
   {
     "ID": "3569848",
@@ -22552,7 +23808,8 @@ const PARALELISMO_DATA = [
     "Frente": "261 - FRENTE PRÓPRIA  (EDMILSON)",
     "Responsável": "VITOR AMORIM RAMOS ",
     "Paralelismo": "1.4",
-    "Fazenda": "53201"
+    "Fazenda": "53201",
+    "Unnamed: 16": null
   },
   {
     "ID": "3569843",
@@ -22570,7 +23827,8 @@ const PARALELISMO_DATA = [
     "Frente": "261 - FRENTE PRÓPRIA  (EDMILSON)",
     "Responsável": "VITOR AMORIM RAMOS ",
     "Paralelismo": "1.4",
-    "Fazenda": "53201"
+    "Fazenda": "53201",
+    "Unnamed: 16": null
   },
   {
     "ID": "3570125",
@@ -22588,7 +23846,8 @@ const PARALELISMO_DATA = [
     "Frente": "135 - PEDRINHO ",
     "Responsável": "MARCELO DE OLIVEIRA JUNIOR",
     "Paralelismo": "1.4",
-    "Fazenda": "144501"
+    "Fazenda": "144501",
+    "Unnamed: 16": null
   },
   {
     "ID": "3569837",
@@ -22606,7 +23865,8 @@ const PARALELISMO_DATA = [
     "Frente": "261 - FRENTE PRÓPRIA  (EDMILSON)",
     "Responsável": "VITOR AMORIM RAMOS ",
     "Paralelismo": "1.4",
-    "Fazenda": "53201"
+    "Fazenda": "53201",
+    "Unnamed: 16": null
   },
   {
     "ID": "3570047",
@@ -22624,7 +23884,8 @@ const PARALELISMO_DATA = [
     "Frente": "105 - FRENTE CASSIO",
     "Responsável": "NILDA CLAUDINO [2510716]",
     "Paralelismo": "1.5",
-    "Fazenda": "140002"
+    "Fazenda": "140002",
+    "Unnamed: 16": null
   },
   {
     "ID": "3570120",
@@ -22642,7 +23903,8 @@ const PARALELISMO_DATA = [
     "Frente": "135 - PEDRINHO ",
     "Responsável": "MARCELO DE OLIVEIRA JUNIOR",
     "Paralelismo": "1.38",
-    "Fazenda": "144501"
+    "Fazenda": "144501",
+    "Unnamed: 16": null
   },
   {
     "ID": "3569832",
@@ -22660,7 +23922,8 @@ const PARALELISMO_DATA = [
     "Frente": "261 - FRENTE PRÓPRIA  (EDMILSON)",
     "Responsável": "VITOR AMORIM RAMOS ",
     "Paralelismo": "1.4",
-    "Fazenda": "53201"
+    "Fazenda": "53201",
+    "Unnamed: 16": null
   },
   {
     "ID": "3570115",
@@ -22678,7 +23941,8 @@ const PARALELISMO_DATA = [
     "Frente": "135 - PEDRINHO ",
     "Responsável": "MARCELO DE OLIVEIRA JUNIOR",
     "Paralelismo": "1.38",
-    "Fazenda": "144501"
+    "Fazenda": "144501",
+    "Unnamed: 16": null
   },
   {
     "ID": "3570044",
@@ -22696,7 +23960,8 @@ const PARALELISMO_DATA = [
     "Frente": "105 - FRENTE CASSIO",
     "Responsável": "NILDA CLAUDINO [2510716]",
     "Paralelismo": "1.5",
-    "Fazenda": "140002"
+    "Fazenda": "140002",
+    "Unnamed: 16": null
   },
   {
     "ID": "3570109",
@@ -22714,7 +23979,8 @@ const PARALELISMO_DATA = [
     "Frente": "135 - PEDRINHO ",
     "Responsável": "MARCELO DE OLIVEIRA JUNIOR",
     "Paralelismo": "1.42",
-    "Fazenda": "144501"
+    "Fazenda": "144501",
+    "Unnamed: 16": null
   },
   {
     "ID": "3569826",
@@ -22732,7 +23998,8 @@ const PARALELISMO_DATA = [
     "Frente": "261 - FRENTE PRÓPRIA  (EDMILSON)",
     "Responsável": "VITOR AMORIM RAMOS ",
     "Paralelismo": "1.4",
-    "Fazenda": "53201"
+    "Fazenda": "53201",
+    "Unnamed: 16": null
   },
   {
     "ID": "3569821",
@@ -22750,7 +24017,8 @@ const PARALELISMO_DATA = [
     "Frente": "261 - FRENTE PRÓPRIA  (EDMILSON)",
     "Responsável": "VITOR AMORIM RAMOS ",
     "Paralelismo": "1.4",
-    "Fazenda": "53201"
+    "Fazenda": "53201",
+    "Unnamed: 16": null
   },
   {
     "ID": "3569817",
@@ -22768,7 +24036,8 @@ const PARALELISMO_DATA = [
     "Frente": "261 - FRENTE PRÓPRIA  (EDMILSON)",
     "Responsável": "VITOR AMORIM RAMOS ",
     "Paralelismo": "1.4",
-    "Fazenda": "53201"
+    "Fazenda": "53201",
+    "Unnamed: 16": null
   },
   {
     "ID": "3569811",
@@ -22786,7 +24055,8 @@ const PARALELISMO_DATA = [
     "Frente": "261 - FRENTE PRÓPRIA  (EDMILSON)",
     "Responsável": "VITOR AMORIM RAMOS ",
     "Paralelismo": "1.4",
-    "Fazenda": "53201"
+    "Fazenda": "53201",
+    "Unnamed: 16": null
   },
   {
     "ID": "3567578",
@@ -22804,7 +24074,8 @@ const PARALELISMO_DATA = [
     "Frente": "142 - FRENTE BIDU",
     "Responsável": "Leonardo Ribeiro Teixeira da Silva",
     "Paralelismo": "1.4",
-    "Fazenda": "204608"
+    "Fazenda": "204608",
+    "Unnamed: 16": null
   },
   {
     "ID": "3567577",
@@ -22822,7 +24093,8 @@ const PARALELISMO_DATA = [
     "Frente": "142 - FRENTE BIDU",
     "Responsável": "Leonardo Ribeiro Teixeira da Silva",
     "Paralelismo": "1.4",
-    "Fazenda": "204608"
+    "Fazenda": "204608",
+    "Unnamed: 16": null
   },
   {
     "ID": "3568440",
@@ -22840,7 +24112,8 @@ const PARALELISMO_DATA = [
     "Frente": "135 - PEDRINHO ",
     "Responsável": "MARCELO DE OLIVEIRA JUNIOR",
     "Paralelismo": "1.39",
-    "Fazenda": "38302"
+    "Fazenda": "38302",
+    "Unnamed: 16": null
   },
   {
     "ID": "3568435",
@@ -22858,7 +24131,8 @@ const PARALELISMO_DATA = [
     "Frente": "135 - PEDRINHO ",
     "Responsável": "MARCELO DE OLIVEIRA JUNIOR",
     "Paralelismo": "1.42",
-    "Fazenda": "38302"
+    "Fazenda": "38302",
+    "Unnamed: 16": null
   },
   {
     "ID": "3567605",
@@ -22876,7 +24150,8 @@ const PARALELISMO_DATA = [
     "Frente": "261 - FRENTE PRÓPRIA  (EDMILSON)",
     "Responsável": "VITOR AMORIM RAMOS ",
     "Paralelismo": "1.4",
-    "Fazenda": "53201"
+    "Fazenda": "53201",
+    "Unnamed: 16": null
   },
   {
     "ID": "3567600",
@@ -22894,7 +24169,8 @@ const PARALELISMO_DATA = [
     "Frente": "261 - FRENTE PRÓPRIA  (EDMILSON)",
     "Responsável": "VITOR AMORIM RAMOS ",
     "Paralelismo": "1.4",
-    "Fazenda": "53201"
+    "Fazenda": "53201",
+    "Unnamed: 16": null
   },
   {
     "ID": "3567593",
@@ -22912,7 +24188,8 @@ const PARALELISMO_DATA = [
     "Frente": "261 - FRENTE PRÓPRIA  (EDMILSON)",
     "Responsável": "VITOR AMORIM RAMOS ",
     "Paralelismo": "1.4",
-    "Fazenda": "53201"
+    "Fazenda": "53201",
+    "Unnamed: 16": null
   },
   {
     "ID": "3567314",
@@ -22930,7 +24207,8 @@ const PARALELISMO_DATA = [
     "Frente": "142 - FRENTE BIDU",
     "Responsável": "Leonardo Ribeiro Teixeira da Silva",
     "Paralelismo": "1.4",
-    "Fazenda": "38302"
+    "Fazenda": "38302",
+    "Unnamed: 16": null
   },
   {
     "ID": "3567315",
@@ -22948,7 +24226,8 @@ const PARALELISMO_DATA = [
     "Frente": "142 - FRENTE BIDU",
     "Responsável": "Leonardo Ribeiro Teixeira da Silva",
     "Paralelismo": "1.4",
-    "Fazenda": "38302"
+    "Fazenda": "38302",
+    "Unnamed: 16": null
   },
   {
     "ID": "3567308",
@@ -22966,7 +24245,8 @@ const PARALELISMO_DATA = [
     "Frente": "135 - PEDRINHO ",
     "Responsável": "MARCELO DE OLIVEIRA JUNIOR",
     "Paralelismo": "1.42",
-    "Fazenda": "38302"
+    "Fazenda": "38302",
+    "Unnamed: 16": null
   },
   {
     "ID": "3567702",
@@ -22984,7 +24264,8 @@ const PARALELISMO_DATA = [
     "Frente": "135 - PEDRINHO ",
     "Responsável": "REGINALDO DA SILVA GOMES ",
     "Paralelismo": "1.38",
-    "Fazenda": "38302"
+    "Fazenda": "38302",
+    "Unnamed: 16": null
   },
   {
     "ID": "3567306",
@@ -23002,7 +24283,8 @@ const PARALELISMO_DATA = [
     "Frente": "135 - PEDRINHO ",
     "Responsável": "MARCELO DE OLIVEIRA JUNIOR",
     "Paralelismo": "1.4",
-    "Fazenda": "38302"
+    "Fazenda": "38302",
+    "Unnamed: 16": null
   },
   {
     "ID": "3567695",
@@ -23020,7 +24302,8 @@ const PARALELISMO_DATA = [
     "Frente": "135 - PEDRINHO ",
     "Responsável": "REGINALDO DA SILVA GOMES ",
     "Paralelismo": "1.4",
-    "Fazenda": "38302"
+    "Fazenda": "38302",
+    "Unnamed: 16": null
   },
   {
     "ID": "3567727",
@@ -23038,7 +24321,8 @@ const PARALELISMO_DATA = [
     "Frente": "143 - FRENTE CASSIO",
     "Responsável": "MICHELI DE SOUZA SANTOS  ",
     "Paralelismo": "1.5",
-    "Fazenda": "285701"
+    "Fazenda": "285701",
+    "Unnamed: 16": null
   },
   {
     "ID": "3567725",
@@ -23056,7 +24340,8 @@ const PARALELISMO_DATA = [
     "Frente": "143 - FRENTE CASSIO",
     "Responsável": "MICHELI DE SOUZA SANTOS  ",
     "Paralelismo": "1.49",
-    "Fazenda": "285701"
+    "Fazenda": "285701",
+    "Unnamed: 16": null
   },
   {
     "ID": "3567139",
@@ -23074,7 +24359,8 @@ const PARALELISMO_DATA = [
     "Frente": "261 - FRENTE PRÓPRIA  (EDMILSON)",
     "Responsável": "VITOR AMORIM RAMOS ",
     "Paralelismo": "1.4",
-    "Fazenda": "53201"
+    "Fazenda": "53201",
+    "Unnamed: 16": null
   },
   {
     "ID": "3567134",
@@ -23092,7 +24378,8 @@ const PARALELISMO_DATA = [
     "Frente": "261 - FRENTE PRÓPRIA  (EDMILSON)",
     "Responsável": "VITOR AMORIM RAMOS ",
     "Paralelismo": "1.4",
-    "Fazenda": "53201"
+    "Fazenda": "53201",
+    "Unnamed: 16": null
   },
   {
     "ID": "3567548",
@@ -23110,7 +24397,8 @@ const PARALELISMO_DATA = [
     "Frente": "143 - FRENTE CASSIO",
     "Responsável": "MABILA HELEN D FIGUEIREDO",
     "Paralelismo": "1.5",
-    "Fazenda": "285701"
+    "Fazenda": "285701",
+    "Unnamed: 16": null
   },
   {
     "ID": "3567128",
@@ -23128,7 +24416,8 @@ const PARALELISMO_DATA = [
     "Frente": "261 - FRENTE PRÓPRIA  (EDMILSON)",
     "Responsável": "VITOR AMORIM RAMOS ",
     "Paralelismo": "1.4",
-    "Fazenda": "53201"
+    "Fazenda": "53201",
+    "Unnamed: 16": null
   },
   {
     "ID": "3567123",
@@ -23146,7 +24435,8 @@ const PARALELISMO_DATA = [
     "Frente": "261 - FRENTE PRÓPRIA  (EDMILSON)",
     "Responsável": "VITOR AMORIM RAMOS ",
     "Paralelismo": "1.4",
-    "Fazenda": "53201"
+    "Fazenda": "53201",
+    "Unnamed: 16": null
   },
   {
     "ID": "3567691",
@@ -23164,7 +24454,8 @@ const PARALELISMO_DATA = [
     "Frente": "135 - PEDRINHO ",
     "Responsável": "REGINALDO DA SILVA GOMES ",
     "Paralelismo": "1.41",
-    "Fazenda": "38302"
+    "Fazenda": "38302",
+    "Unnamed: 16": null
   },
   {
     "ID": "3567300",
@@ -23182,7 +24473,8 @@ const PARALELISMO_DATA = [
     "Frente": "135 - PEDRINHO ",
     "Responsável": "MARCELO DE OLIVEIRA JUNIOR",
     "Paralelismo": "1.41",
-    "Fazenda": "38302"
+    "Fazenda": "38302",
+    "Unnamed: 16": null
   },
   {
     "ID": "3567115",
@@ -23200,7 +24492,8 @@ const PARALELISMO_DATA = [
     "Frente": "261 - FRENTE PRÓPRIA  (EDMILSON)",
     "Responsável": "VITOR AMORIM RAMOS ",
     "Paralelismo": "1.4",
-    "Fazenda": "53201"
+    "Fazenda": "53201",
+    "Unnamed: 16": null
   },
   {
     "ID": "3567110",
@@ -23218,7 +24511,8 @@ const PARALELISMO_DATA = [
     "Frente": "261 - FRENTE PRÓPRIA  (EDMILSON)",
     "Responsável": "VITOR AMORIM RAMOS ",
     "Paralelismo": "1.4",
-    "Fazenda": "53201"
+    "Fazenda": "53201",
+    "Unnamed: 16": null
   },
   {
     "ID": "3567069",
@@ -23236,7 +24530,8 @@ const PARALELISMO_DATA = [
     "Frente": "105 - FRENTE CASSIO",
     "Responsável": "NILDA CLAUDINO [2510716]",
     "Paralelismo": "1.5",
-    "Fazenda": "177012"
+    "Fazenda": "177012",
+    "Unnamed: 16": null
   },
   {
     "ID": "3567105",
@@ -23254,7 +24549,8 @@ const PARALELISMO_DATA = [
     "Frente": "261 - FRENTE PRÓPRIA  (EDMILSON)",
     "Responsável": "VITOR AMORIM RAMOS ",
     "Paralelismo": "1.4",
-    "Fazenda": "53201"
+    "Fazenda": "53201",
+    "Unnamed: 16": null
   },
   {
     "ID": "3567100",
@@ -23272,7 +24568,8 @@ const PARALELISMO_DATA = [
     "Frente": "261 - FRENTE PRÓPRIA  (EDMILSON)",
     "Responsável": "VITOR AMORIM RAMOS ",
     "Paralelismo": "1.4",
-    "Fazenda": "53201"
+    "Fazenda": "53201",
+    "Unnamed: 16": null
   },
   {
     "ID": "3567062",
@@ -23290,7 +24587,8 @@ const PARALELISMO_DATA = [
     "Frente": "105 - FRENTE CASSIO",
     "Responsável": "NILDA CLAUDINO [2510716]",
     "Paralelismo": "1.5",
-    "Fazenda": "177012"
+    "Fazenda": "177012",
+    "Unnamed: 16": null
   },
   {
     "ID": "3567095",
@@ -23308,7 +24606,8 @@ const PARALELISMO_DATA = [
     "Frente": "261 - FRENTE PRÓPRIA  (EDMILSON)",
     "Responsável": "VITOR AMORIM RAMOS ",
     "Paralelismo": "1.4",
-    "Fazenda": "53201"
+    "Fazenda": "53201",
+    "Unnamed: 16": null
   },
   {
     "ID": "3567058",
@@ -23326,7 +24625,8 @@ const PARALELISMO_DATA = [
     "Frente": "105 - FRENTE CASSIO",
     "Responsável": "NILDA CLAUDINO [2510716]",
     "Paralelismo": "1.5",
-    "Fazenda": "177012"
+    "Fazenda": "177012",
+    "Unnamed: 16": null
   },
   {
     "ID": "3567090",
@@ -23344,7 +24644,8 @@ const PARALELISMO_DATA = [
     "Frente": "261 - FRENTE PRÓPRIA  (EDMILSON)",
     "Responsável": "VITOR AMORIM RAMOS ",
     "Paralelismo": "1.4",
-    "Fazenda": "53201"
+    "Fazenda": "53201",
+    "Unnamed: 16": null
   },
   {
     "ID": "3565535",
@@ -23362,7 +24663,8 @@ const PARALELISMO_DATA = [
     "Frente": "135 - PEDRINHO ",
     "Responsável": "MARCELO DE OLIVEIRA JUNIOR",
     "Paralelismo": "1.39",
-    "Fazenda": "53201"
+    "Fazenda": "53201",
+    "Unnamed: 16": null
   },
   {
     "ID": "3565528",
@@ -23380,7 +24682,8 @@ const PARALELISMO_DATA = [
     "Frente": "135 - PEDRINHO ",
     "Responsável": "MARCELO DE OLIVEIRA JUNIOR",
     "Paralelismo": "1.41",
-    "Fazenda": "53201"
+    "Fazenda": "53201",
+    "Unnamed: 16": null
   },
   {
     "ID": "3565565",
@@ -23398,7 +24701,8 @@ const PARALELISMO_DATA = [
     "Frente": "143 - FRENTE CASSIO",
     "Responsável": "GABRIEL HENRIQUE MARTINS PEREIRA",
     "Paralelismo": "1.5",
-    "Fazenda": "53201"
+    "Fazenda": "53201",
+    "Unnamed: 16": null
   },
   {
     "ID": "3565560",
@@ -23416,7 +24720,8 @@ const PARALELISMO_DATA = [
     "Frente": "143 - FRENTE CASSIO",
     "Responsável": "GABRIEL HENRIQUE MARTINS PEREIRA",
     "Paralelismo": "1.5",
-    "Fazenda": "53201"
+    "Fazenda": "53201",
+    "Unnamed: 16": null
   },
   {
     "ID": "3565555",
@@ -23434,7 +24739,8 @@ const PARALELISMO_DATA = [
     "Frente": "143 - FRENTE CASSIO",
     "Responsável": "GABRIEL HENRIQUE MARTINS PEREIRA",
     "Paralelismo": "1.5",
-    "Fazenda": "53201"
+    "Fazenda": "53201",
+    "Unnamed: 16": null
   },
   {
     "ID": "3565550",
@@ -23452,7 +24758,8 @@ const PARALELISMO_DATA = [
     "Frente": "143 - FRENTE CASSIO",
     "Responsável": "GABRIEL HENRIQUE MARTINS PEREIRA",
     "Paralelismo": "1.5",
-    "Fazenda": "53201"
+    "Fazenda": "53201",
+    "Unnamed: 16": null
   },
   {
     "ID": "3562963",
@@ -23470,7 +24777,8 @@ const PARALELISMO_DATA = [
     "Frente": "143 - FRENTE CASSIO",
     "Responsável": "GABRIEL HENRIQUE MARTINS PEREIRA",
     "Paralelismo": "1.5",
-    "Fazenda": "53201"
+    "Fazenda": "53201",
+    "Unnamed: 16": null
   },
   {
     "ID": "3562958",
@@ -23488,7 +24796,8 @@ const PARALELISMO_DATA = [
     "Frente": "143 - FRENTE CASSIO",
     "Responsável": "GABRIEL HENRIQUE MARTINS PEREIRA",
     "Paralelismo": "1.5",
-    "Fazenda": "53201"
+    "Fazenda": "53201",
+    "Unnamed: 16": null
   },
   {
     "ID": "3562953",
@@ -23506,7 +24815,8 @@ const PARALELISMO_DATA = [
     "Frente": "143 - FRENTE CASSIO",
     "Responsável": "GABRIEL HENRIQUE MARTINS PEREIRA",
     "Paralelismo": "1.5",
-    "Fazenda": "53201"
+    "Fazenda": "53201",
+    "Unnamed: 16": null
   },
   {
     "ID": "3560970",
@@ -23524,7 +24834,8 @@ const PARALELISMO_DATA = [
     "Frente": "261 - FRENTE PRÓPRIA  (EDMILSON)",
     "Responsável": "VITOR AMORIM RAMOS ",
     "Paralelismo": "1.4",
-    "Fazenda": "53201"
+    "Fazenda": "53201",
+    "Unnamed: 16": null
   },
   {
     "ID": "3560963",
@@ -23542,7 +24853,8 @@ const PARALELISMO_DATA = [
     "Frente": "261 - FRENTE PRÓPRIA  (EDMILSON)",
     "Responsável": "VITOR AMORIM RAMOS ",
     "Paralelismo": "1.4",
-    "Fazenda": "53201"
+    "Fazenda": "53201",
+    "Unnamed: 16": null
   },
   {
     "ID": "3560957",
@@ -23560,7 +24872,8 @@ const PARALELISMO_DATA = [
     "Frente": "261 - FRENTE PRÓPRIA  (EDMILSON)",
     "Responsável": "VITOR AMORIM RAMOS ",
     "Paralelismo": "1.4",
-    "Fazenda": "53201"
+    "Fazenda": "53201",
+    "Unnamed: 16": null
   },
   {
     "ID": "3560951",
@@ -23578,7 +24891,8 @@ const PARALELISMO_DATA = [
     "Frente": "261 - FRENTE PRÓPRIA  (EDMILSON)",
     "Responsável": "VITOR AMORIM RAMOS ",
     "Paralelismo": "1.4",
-    "Fazenda": "53201"
+    "Fazenda": "53201",
+    "Unnamed: 16": null
   },
   {
     "ID": "3560946",
@@ -23596,7 +24910,8 @@ const PARALELISMO_DATA = [
     "Frente": "261 - FRENTE PRÓPRIA  (EDMILSON)",
     "Responsável": "VITOR AMORIM RAMOS ",
     "Paralelismo": "1.4",
-    "Fazenda": "53201"
+    "Fazenda": "53201",
+    "Unnamed: 16": null
   },
   {
     "ID": "3560941",
@@ -23614,7 +24929,8 @@ const PARALELISMO_DATA = [
     "Frente": "261 - FRENTE PRÓPRIA  (EDMILSON)",
     "Responsável": "VITOR AMORIM RAMOS ",
     "Paralelismo": "1.4",
-    "Fazenda": "53201"
+    "Fazenda": "53201",
+    "Unnamed: 16": null
   },
   {
     "ID": "3560935",
@@ -23632,7 +24948,8 @@ const PARALELISMO_DATA = [
     "Frente": "261 - FRENTE PRÓPRIA  (EDMILSON)",
     "Responsável": "VITOR AMORIM RAMOS ",
     "Paralelismo": "1.4",
-    "Fazenda": "53201"
+    "Fazenda": "53201",
+    "Unnamed: 16": null
   },
   {
     "ID": "3560851",
@@ -23650,7 +24967,8 @@ const PARALELISMO_DATA = [
     "Frente": "142 - FRENTE BIDU",
     "Responsável": "Leonardo Ribeiro Teixeira da Silva",
     "Paralelismo": "1.4",
-    "Fazenda": "204610"
+    "Fazenda": "204610",
+    "Unnamed: 16": null
   },
   {
     "ID": "3560850",
@@ -23668,7 +24986,8 @@ const PARALELISMO_DATA = [
     "Frente": "142 - FRENTE BIDU",
     "Responsável": "Leonardo Ribeiro Teixeira da Silva",
     "Paralelismo": "1.4",
-    "Fazenda": "204610"
+    "Fazenda": "204610",
+    "Unnamed: 16": null
   },
   {
     "ID": "3560912",
@@ -23686,7 +25005,8 @@ const PARALELISMO_DATA = [
     "Frente": "261 - FRENTE PRÓPRIA  (EDMILSON)",
     "Responsável": "VITOR AMORIM RAMOS ",
     "Paralelismo": "1.4",
-    "Fazenda": "53201"
+    "Fazenda": "53201",
+    "Unnamed: 16": null
   },
   {
     "ID": "3560901",
@@ -23704,7 +25024,8 @@ const PARALELISMO_DATA = [
     "Frente": "261 - FRENTE PRÓPRIA  (EDMILSON)",
     "Responsável": "VITOR AMORIM RAMOS ",
     "Paralelismo": "1.4",
-    "Fazenda": "53201"
+    "Fazenda": "53201",
+    "Unnamed: 16": null
   },
   {
     "ID": "3560828",
@@ -23722,7 +25043,8 @@ const PARALELISMO_DATA = [
     "Frente": "139 - FRENTE MANEZÃO",
     "Responsável": "MICHELI DE SOUZA SANTOS  ",
     "Paralelismo": "1.4",
-    "Fazenda": "53201"
+    "Fazenda": "53201",
+    "Unnamed: 16": null
   },
   {
     "ID": "3560826",
@@ -23740,7 +25062,8 @@ const PARALELISMO_DATA = [
     "Frente": "139 - FRENTE MANEZÃO",
     "Responsável": "MICHELI DE SOUZA SANTOS  ",
     "Paralelismo": "1.39",
-    "Fazenda": "53201"
+    "Fazenda": "53201",
+    "Unnamed: 16": null
   },
   {
     "ID": "3560825",
@@ -23758,7 +25081,8 @@ const PARALELISMO_DATA = [
     "Frente": "139 - FRENTE MANEZÃO",
     "Responsável": "MICHELI DE SOUZA SANTOS  ",
     "Paralelismo": "1.42",
-    "Fazenda": "53201"
+    "Fazenda": "53201",
+    "Unnamed: 16": null
   },
   {
     "ID": "3560896",
@@ -23776,7 +25100,8 @@ const PARALELISMO_DATA = [
     "Frente": "261 - FRENTE PRÓPRIA  (EDMILSON)",
     "Responsável": "VITOR AMORIM RAMOS ",
     "Paralelismo": "1.4",
-    "Fazenda": "53201"
+    "Fazenda": "53201",
+    "Unnamed: 16": null
   },
   {
     "ID": "3560824",
@@ -23794,7 +25119,8 @@ const PARALELISMO_DATA = [
     "Frente": "139 - FRENTE MANEZÃO",
     "Responsável": "MICHELI DE SOUZA SANTOS  ",
     "Paralelismo": "1.4",
-    "Fazenda": "53201"
+    "Fazenda": "53201",
+    "Unnamed: 16": null
   },
   {
     "ID": "3560543",
@@ -23812,7 +25138,8 @@ const PARALELISMO_DATA = [
     "Frente": "142 - FRENTE BIDU",
     "Responsável": "Leonardo Ribeiro Teixeira da Silva",
     "Paralelismo": "1.4",
-    "Fazenda": "190104"
+    "Fazenda": "190104",
+    "Unnamed: 16": null
   },
   {
     "ID": "3560540",
@@ -23830,7 +25157,8 @@ const PARALELISMO_DATA = [
     "Frente": "142 - FRENTE BIDU",
     "Responsável": "Leonardo Ribeiro Teixeira da Silva",
     "Paralelismo": "1.4",
-    "Fazenda": "53201"
+    "Fazenda": "53201",
+    "Unnamed: 16": null
   },
   {
     "ID": "3560542",
@@ -23848,7 +25176,8 @@ const PARALELISMO_DATA = [
     "Frente": "142 - FRENTE BIDU",
     "Responsável": "Leonardo Ribeiro Teixeira da Silva",
     "Paralelismo": "1.4",
-    "Fazenda": "190104"
+    "Fazenda": "190104",
+    "Unnamed: 16": null
   },
   {
     "ID": "3560539",
@@ -23866,7 +25195,8 @@ const PARALELISMO_DATA = [
     "Frente": "142 - FRENTE BIDU",
     "Responsável": "Leonardo Ribeiro Teixeira da Silva",
     "Paralelismo": "1.4",
-    "Fazenda": "53201"
+    "Fazenda": "53201",
+    "Unnamed: 16": null
   },
   {
     "ID": "3560729",
@@ -23884,7 +25214,8 @@ const PARALELISMO_DATA = [
     "Frente": "135 - PEDRINHO ",
     "Responsável": "MARCELO DE OLIVEIRA JUNIOR",
     "Paralelismo": "1.38",
-    "Fazenda": "132901"
+    "Fazenda": "132901",
+    "Unnamed: 16": null
   },
   {
     "ID": "3560500",
@@ -23902,7 +25233,8 @@ const PARALELISMO_DATA = [
     "Frente": "135 - PEDRINHO ",
     "Responsável": "REGINALDO DA SILVA GOMES ",
     "Paralelismo": "1.41",
-    "Fazenda": "132901"
+    "Fazenda": "132901",
+    "Unnamed: 16": null
   },
   {
     "ID": "3560724",
@@ -23920,7 +25252,8 @@ const PARALELISMO_DATA = [
     "Frente": "135 - PEDRINHO ",
     "Responsável": "MARCELO DE OLIVEIRA JUNIOR",
     "Paralelismo": "1.41",
-    "Fazenda": "132901"
+    "Fazenda": "132901",
+    "Unnamed: 16": null
   },
   {
     "ID": "3560495",
@@ -23938,7 +25271,8 @@ const PARALELISMO_DATA = [
     "Frente": "135 - PEDRINHO ",
     "Responsável": "REGINALDO DA SILVA GOMES ",
     "Paralelismo": "1.44",
-    "Fazenda": "132901"
+    "Fazenda": "132901",
+    "Unnamed: 16": null
   },
   {
     "ID": "3560487",
@@ -23956,7 +25290,8 @@ const PARALELISMO_DATA = [
     "Frente": "135 - PEDRINHO ",
     "Responsável": "REGINALDO DA SILVA GOMES ",
     "Paralelismo": "1.4",
-    "Fazenda": "132901"
+    "Fazenda": "132901",
+    "Unnamed: 16": null
   },
   {
     "ID": "3560719",
@@ -23974,7 +25309,8 @@ const PARALELISMO_DATA = [
     "Frente": "135 - PEDRINHO ",
     "Responsável": "MARCELO DE OLIVEIRA JUNIOR",
     "Paralelismo": "1.39",
-    "Fazenda": "132901"
+    "Fazenda": "132901",
+    "Unnamed: 16": null
   },
   {
     "ID": "3560714",
@@ -23992,7 +25328,8 @@ const PARALELISMO_DATA = [
     "Frente": "135 - PEDRINHO ",
     "Responsável": "MARCELO DE OLIVEIRA JUNIOR",
     "Paralelismo": "1.41",
-    "Fazenda": "132901"
+    "Fazenda": "132901",
+    "Unnamed: 16": null
   },
   {
     "ID": "3558527",
@@ -24010,7 +25347,8 @@ const PARALELISMO_DATA = [
     "Frente": "261 - FRENTE PRÓPRIA  (EDMILSON)",
     "Responsável": "VITOR AMORIM RAMOS ",
     "Paralelismo": "1.4",
-    "Fazenda": "53201"
+    "Fazenda": "53201",
+    "Unnamed: 16": null
   },
   {
     "ID": "3558522",
@@ -24028,7 +25366,8 @@ const PARALELISMO_DATA = [
     "Frente": "261 - FRENTE PRÓPRIA  (EDMILSON)",
     "Responsável": "VITOR AMORIM RAMOS ",
     "Paralelismo": "1.4",
-    "Fazenda": "53201"
+    "Fazenda": "53201",
+    "Unnamed: 16": null
   },
   {
     "ID": "3558516",
@@ -24046,7 +25385,8 @@ const PARALELISMO_DATA = [
     "Frente": "261 - FRENTE PRÓPRIA  (EDMILSON)",
     "Responsável": "VITOR AMORIM RAMOS ",
     "Paralelismo": "1.4",
-    "Fazenda": "53201"
+    "Fazenda": "53201",
+    "Unnamed: 16": null
   },
   {
     "ID": "3558511",
@@ -24064,7 +25404,8 @@ const PARALELISMO_DATA = [
     "Frente": "261 - FRENTE PRÓPRIA  (EDMILSON)",
     "Responsável": "VITOR AMORIM RAMOS ",
     "Paralelismo": "1.4",
-    "Fazenda": "53201"
+    "Fazenda": "53201",
+    "Unnamed: 16": null
   },
   {
     "ID": "3558581",
@@ -24082,7 +25423,8 @@ const PARALELISMO_DATA = [
     "Frente": "135 - PEDRINHO ",
     "Responsável": "MARCELO DE OLIVEIRA JUNIOR",
     "Paralelismo": "1.39",
-    "Fazenda": "132901"
+    "Fazenda": "132901",
+    "Unnamed: 16": null
   },
   {
     "ID": "3558506",
@@ -24100,7 +25442,8 @@ const PARALELISMO_DATA = [
     "Frente": "261 - FRENTE PRÓPRIA  (EDMILSON)",
     "Responsável": "VITOR AMORIM RAMOS ",
     "Paralelismo": "1.4",
-    "Fazenda": "53201"
+    "Fazenda": "53201",
+    "Unnamed: 16": null
   },
   {
     "ID": "3558308",
@@ -24118,7 +25461,8 @@ const PARALELISMO_DATA = [
     "Frente": "105 - FRENTE CASSIO",
     "Responsável": "NILDA CLAUDINO [2510716]",
     "Paralelismo": "1.5",
-    "Fazenda": "177012"
+    "Fazenda": "177012",
+    "Unnamed: 16": null
   },
   {
     "ID": "3558501",
@@ -24136,7 +25480,8 @@ const PARALELISMO_DATA = [
     "Frente": "261 - FRENTE PRÓPRIA  (EDMILSON)",
     "Responsável": "VITOR AMORIM RAMOS ",
     "Paralelismo": "1.4",
-    "Fazenda": "151502"
+    "Fazenda": "151502",
+    "Unnamed: 16": null
   },
   {
     "ID": "3558576",
@@ -24154,7 +25499,8 @@ const PARALELISMO_DATA = [
     "Frente": "135 - PEDRINHO ",
     "Responsável": "MARCELO DE OLIVEIRA JUNIOR",
     "Paralelismo": "1.41",
-    "Fazenda": "132901"
+    "Fazenda": "132901",
+    "Unnamed: 16": null
   },
   {
     "ID": "3558304",
@@ -24172,7 +25518,8 @@ const PARALELISMO_DATA = [
     "Frente": "105 - FRENTE CASSIO",
     "Responsável": "NILDA CLAUDINO [2510716]",
     "Paralelismo": "1.5",
-    "Fazenda": "177012"
+    "Fazenda": "177012",
+    "Unnamed: 16": null
   },
   {
     "ID": "3558300",
@@ -24190,7 +25537,8 @@ const PARALELISMO_DATA = [
     "Frente": "105 - FRENTE CASSIO",
     "Responsável": "NILDA CLAUDINO [2510716]",
     "Paralelismo": "1.5",
-    "Fazenda": "177012"
+    "Fazenda": "177012",
+    "Unnamed: 16": null
   },
   {
     "ID": "3558295",
@@ -24208,7 +25556,8 @@ const PARALELISMO_DATA = [
     "Frente": "105 - FRENTE CASSIO",
     "Responsável": "NILDA CLAUDINO [2510716]",
     "Paralelismo": "1.5",
-    "Fazenda": "177012"
+    "Fazenda": "177012",
+    "Unnamed: 16": null
   },
   {
     "ID": "3558261",
@@ -24226,7 +25575,8 @@ const PARALELISMO_DATA = [
     "Frente": "143 - FRENTE CASSIO",
     "Responsável": "GABRIEL HENRIQUE MARTINS PEREIRA",
     "Paralelismo": "1.5",
-    "Fazenda": "53201"
+    "Fazenda": "53201",
+    "Unnamed: 16": null
   },
   {
     "ID": "3558260",
@@ -24244,7 +25594,8 @@ const PARALELISMO_DATA = [
     "Frente": "143 - FRENTE CASSIO",
     "Responsável": "GABRIEL HENRIQUE MARTINS PEREIRA",
     "Paralelismo": "1.5",
-    "Fazenda": "53201"
+    "Fazenda": "53201",
+    "Unnamed: 16": null
   },
   {
     "ID": "3558259",
@@ -24262,7 +25613,8 @@ const PARALELISMO_DATA = [
     "Frente": "143 - FRENTE CASSIO",
     "Responsável": "GABRIEL HENRIQUE MARTINS PEREIRA",
     "Paralelismo": "1.5",
-    "Fazenda": "53201"
+    "Fazenda": "53201",
+    "Unnamed: 16": null
   },
   {
     "ID": "3560485",
@@ -24280,7 +25632,8 @@ const PARALELISMO_DATA = [
     "Frente": "139 - FRENTE MANEZÃO",
     "Responsável": "REGINALDO DA SILVA GOMES ",
     "Paralelismo": "1.38",
-    "Fazenda": "53201"
+    "Fazenda": "53201",
+    "Unnamed: 16": null
   },
   {
     "ID": "3560480",
@@ -24298,7 +25651,8 @@ const PARALELISMO_DATA = [
     "Frente": "139 - FRENTE MANEZÃO",
     "Responsável": "REGINALDO DA SILVA GOMES ",
     "Paralelismo": "1.42",
-    "Fazenda": "53201"
+    "Fazenda": "53201",
+    "Unnamed: 16": null
   },
   {
     "ID": "3560475",
@@ -24316,7 +25670,8 @@ const PARALELISMO_DATA = [
     "Frente": "139 - FRENTE MANEZÃO",
     "Responsável": "REGINALDO DA SILVA GOMES ",
     "Paralelismo": "1.4",
-    "Fazenda": "53201"
+    "Fazenda": "53201",
+    "Unnamed: 16": null
   },
   {
     "ID": "3558240",
@@ -24334,7 +25689,8 @@ const PARALELISMO_DATA = [
     "Frente": "139 - FRENTE MANEZÃO",
     "Responsável": " Antonio ",
     "Paralelismo": "1.4",
-    "Fazenda": "53201"
+    "Fazenda": "53201",
+    "Unnamed: 16": null
   },
   {
     "ID": "3558238",
@@ -24352,7 +25708,8 @@ const PARALELISMO_DATA = [
     "Frente": "139 - FRENTE MANEZÃO",
     "Responsável": " Antonio ",
     "Paralelismo": "1.4",
-    "Fazenda": "53201"
+    "Fazenda": "53201",
+    "Unnamed: 16": null
   },
   {
     "ID": "3558144",
@@ -24370,7 +25727,8 @@ const PARALELISMO_DATA = [
     "Frente": "142 - FRENTE BIDU",
     "Responsável": "Leonardo Ribeiro Teixeira da Silva",
     "Paralelismo": "1.4",
-    "Fazenda": "190102"
+    "Fazenda": "190102",
+    "Unnamed: 16": null
   },
   {
     "ID": "3558236",
@@ -24388,7 +25746,8 @@ const PARALELISMO_DATA = [
     "Frente": "139 - FRENTE MANEZÃO",
     "Responsável": " Antonio ",
     "Paralelismo": "1.4",
-    "Fazenda": "53201"
+    "Fazenda": "53201",
+    "Unnamed: 16": null
   },
   {
     "ID": "3558143",
@@ -24406,7 +25765,8 @@ const PARALELISMO_DATA = [
     "Frente": "142 - FRENTE BIDU",
     "Responsável": "Leonardo Ribeiro Teixeira da Silva",
     "Paralelismo": "1.4",
-    "Fazenda": "190102"
+    "Fazenda": "190102",
+    "Unnamed: 16": null
   },
   {
     "ID": "3558232",
@@ -24424,7 +25784,8 @@ const PARALELISMO_DATA = [
     "Frente": "139 - FRENTE MANEZÃO",
     "Responsável": " Antonio ",
     "Paralelismo": "1.4",
-    "Fazenda": "53201"
+    "Fazenda": "53201",
+    "Unnamed: 16": null
   },
   {
     "ID": "3558563",
@@ -24442,7 +25803,8 @@ const PARALELISMO_DATA = [
     "Frente": "135 - PEDRINHO ",
     "Responsável": "MARCELO DE OLIVEIRA JUNIOR",
     "Paralelismo": "1.42",
-    "Fazenda": "132901"
+    "Fazenda": "132901",
+    "Unnamed: 16": null
   },
   {
     "ID": "3557955",
@@ -24460,7 +25822,8 @@ const PARALELISMO_DATA = [
     "Frente": "261 - FRENTE PRÓPRIA  (EDMILSON)",
     "Responsável": "VITOR AMORIM RAMOS ",
     "Paralelismo": "1.4",
-    "Fazenda": "220408"
+    "Fazenda": "220408",
+    "Unnamed: 16": null
   },
   {
     "ID": "3558556",
@@ -24478,7 +25841,8 @@ const PARALELISMO_DATA = [
     "Frente": "135 - PEDRINHO ",
     "Responsável": "MARCELO DE OLIVEIRA JUNIOR",
     "Paralelismo": "1.4",
-    "Fazenda": "132901"
+    "Fazenda": "132901",
+    "Unnamed: 16": null
   },
   {
     "ID": "3558550",
@@ -24496,7 +25860,8 @@ const PARALELISMO_DATA = [
     "Frente": "135 - PEDRINHO ",
     "Responsável": "MARCELO DE OLIVEIRA JUNIOR",
     "Paralelismo": "1.4",
-    "Fazenda": "132901"
+    "Fazenda": "132901",
+    "Unnamed: 16": null
   },
   {
     "ID": "3557948",
@@ -24514,7 +25879,8 @@ const PARALELISMO_DATA = [
     "Frente": "261 - FRENTE PRÓPRIA  (EDMILSON)",
     "Responsável": "VITOR AMORIM RAMOS ",
     "Paralelismo": "1.4",
-    "Fazenda": "220408"
+    "Fazenda": "220408",
+    "Unnamed: 16": null
   },
   {
     "ID": "3558545",
@@ -24532,7 +25898,8 @@ const PARALELISMO_DATA = [
     "Frente": "135 - PEDRINHO ",
     "Responsável": "MARCELO DE OLIVEIRA JUNIOR",
     "Paralelismo": "1.37",
-    "Fazenda": "132901"
+    "Fazenda": "132901",
+    "Unnamed: 16": null
   },
   {
     "ID": "3557943",
@@ -24550,7 +25917,8 @@ const PARALELISMO_DATA = [
     "Frente": "261 - FRENTE PRÓPRIA  (EDMILSON)",
     "Responsável": "VITOR AMORIM RAMOS ",
     "Paralelismo": "1.4",
-    "Fazenda": "220408"
+    "Fazenda": "220408",
+    "Unnamed: 16": null
   },
   {
     "ID": "3557938",
@@ -24568,7 +25936,8 @@ const PARALELISMO_DATA = [
     "Frente": "261 - FRENTE PRÓPRIA  (EDMILSON)",
     "Responsável": "VITOR AMORIM RAMOS ",
     "Paralelismo": "1.4",
-    "Fazenda": "220408"
+    "Fazenda": "220408",
+    "Unnamed: 16": null
   },
   {
     "ID": "3556220",
@@ -24586,7 +25955,8 @@ const PARALELISMO_DATA = [
     "Frente": "105 - FRENTE CASSIO",
     "Responsável": "NILDA CLAUDINO [2510716]",
     "Paralelismo": "1.5",
-    "Fazenda": "177014"
+    "Fazenda": "177014",
+    "Unnamed: 16": null
   },
   {
     "ID": "3556219",
@@ -24604,7 +25974,8 @@ const PARALELISMO_DATA = [
     "Frente": "105 - FRENTE CASSIO",
     "Responsável": "NILDA CLAUDINO [2510716]",
     "Paralelismo": "1.5",
-    "Fazenda": "177014"
+    "Fazenda": "177014",
+    "Unnamed: 16": null
   },
   {
     "ID": "3556218",
@@ -24622,7 +25993,8 @@ const PARALELISMO_DATA = [
     "Frente": "105 - FRENTE CASSIO",
     "Responsável": "NILDA CLAUDINO [2510716]",
     "Paralelismo": "1.5",
-    "Fazenda": "177014"
+    "Fazenda": "177014",
+    "Unnamed: 16": null
   },
   {
     "ID": "3556216",
@@ -24640,7 +26012,8 @@ const PARALELISMO_DATA = [
     "Frente": "105 - FRENTE CASSIO",
     "Responsável": "NILDA CLAUDINO [2510716]",
     "Paralelismo": "1.5",
-    "Fazenda": "177014"
+    "Fazenda": "177014",
+    "Unnamed: 16": null
   },
   {
     "ID": "3556214",
@@ -24658,7 +26031,8 @@ const PARALELISMO_DATA = [
     "Frente": "105 - FRENTE CASSIO",
     "Responsável": "NILDA CLAUDINO [2510716]",
     "Paralelismo": "1.5",
-    "Fazenda": "177014"
+    "Fazenda": "177014",
+    "Unnamed: 16": null
   },
   {
     "ID": "3556099",
@@ -24676,7 +26050,8 @@ const PARALELISMO_DATA = [
     "Frente": "139 - FRENTE MANEZÃO",
     "Responsável": "MABILA HELEN D FIGUEIREDO",
     "Paralelismo": "1.4",
-    "Fazenda": "53201"
+    "Fazenda": "53201",
+    "Unnamed: 16": null
   },
   {
     "ID": "3556093",
@@ -24694,7 +26069,8 @@ const PARALELISMO_DATA = [
     "Frente": "139 - FRENTE MANEZÃO",
     "Responsável": "MABILA HELEN D FIGUEIREDO",
     "Paralelismo": "1.4",
-    "Fazenda": "53201"
+    "Fazenda": "53201",
+    "Unnamed: 16": null
   },
   {
     "ID": "3556176",
@@ -24712,7 +26088,8 @@ const PARALELISMO_DATA = [
     "Frente": "261 - FRENTE PRÓPRIA  (EDMILSON)",
     "Responsável": "VITOR AMORIM RAMOS ",
     "Paralelismo": "1.4",
-    "Fazenda": "220408"
+    "Fazenda": "220408",
+    "Unnamed: 16": null
   },
   {
     "ID": "3556168",
@@ -24730,7 +26107,8 @@ const PARALELISMO_DATA = [
     "Frente": "261 - FRENTE PRÓPRIA  (EDMILSON)",
     "Responsável": "VITOR AMORIM RAMOS ",
     "Paralelismo": "1.4",
-    "Fazenda": "220408"
+    "Fazenda": "220408",
+    "Unnamed: 16": null
   },
   {
     "ID": "3556288",
@@ -24748,7 +26126,8 @@ const PARALELISMO_DATA = [
     "Frente": "135 - PEDRINHO ",
     "Responsável": "MARCELO DE OLIVEIRA JUNIOR",
     "Paralelismo": "1.42",
-    "Fazenda": "213402"
+    "Fazenda": "213402",
+    "Unnamed: 16": null
   },
   {
     "ID": "3556161",
@@ -24766,7 +26145,8 @@ const PARALELISMO_DATA = [
     "Frente": "261 - FRENTE PRÓPRIA  (EDMILSON)",
     "Responsável": "VITOR AMORIM RAMOS ",
     "Paralelismo": "1.4",
-    "Fazenda": "220408"
+    "Fazenda": "220408",
+    "Unnamed: 16": null
   },
   {
     "ID": "3556282",
@@ -24784,7 +26164,8 @@ const PARALELISMO_DATA = [
     "Frente": "135 - PEDRINHO ",
     "Responsável": "MARCELO DE OLIVEIRA JUNIOR",
     "Paralelismo": "1.4",
-    "Fazenda": "213402"
+    "Fazenda": "213402",
+    "Unnamed: 16": null
   },
   {
     "ID": "3556150",
@@ -24802,7 +26183,8 @@ const PARALELISMO_DATA = [
     "Frente": "261 - FRENTE PRÓPRIA  (EDMILSON)",
     "Responsável": "VITOR AMORIM RAMOS ",
     "Paralelismo": "1.4",
-    "Fazenda": "220408"
+    "Fazenda": "220408",
+    "Unnamed: 16": null
   },
   {
     "ID": "3556082",
@@ -24820,7 +26202,8 @@ const PARALELISMO_DATA = [
     "Frente": "139 - FRENTE MANEZÃO",
     "Responsável": "MICHELI DE SOUZA SANTOS  ",
     "Paralelismo": "1.39",
-    "Fazenda": "53201"
+    "Fazenda": "53201",
+    "Unnamed: 16": null
   },
   {
     "ID": "3555639",
@@ -24838,7 +26221,8 @@ const PARALELISMO_DATA = [
     "Frente": "261 - FRENTE PRÓPRIA  (EDMILSON)",
     "Responsável": "VITOR AMORIM RAMOS ",
     "Paralelismo": "1.4",
-    "Fazenda": "220408"
+    "Fazenda": "220408",
+    "Unnamed: 16": null
   },
   {
     "ID": "3556074",
@@ -24856,7 +26240,8 @@ const PARALELISMO_DATA = [
     "Frente": "139 - FRENTE MANEZÃO",
     "Responsável": "MICHELI DE SOUZA SANTOS  ",
     "Paralelismo": "1.4",
-    "Fazenda": "53201"
+    "Fazenda": "53201",
+    "Unnamed: 16": null
   },
   {
     "ID": "3555631",
@@ -24874,7 +26259,8 @@ const PARALELISMO_DATA = [
     "Frente": "261 - FRENTE PRÓPRIA  (EDMILSON)",
     "Responsável": "VITOR AMORIM RAMOS ",
     "Paralelismo": "1.4",
-    "Fazenda": "220408"
+    "Fazenda": "220408",
+    "Unnamed: 16": null
   },
   {
     "ID": "3555624",
@@ -24892,7 +26278,8 @@ const PARALELISMO_DATA = [
     "Frente": "261 - FRENTE PRÓPRIA  (EDMILSON)",
     "Responsável": "VITOR AMORIM RAMOS ",
     "Paralelismo": "1.4",
-    "Fazenda": "220408"
+    "Fazenda": "220408",
+    "Unnamed: 16": null
   },
   {
     "ID": "3556138",
@@ -24910,7 +26297,8 @@ const PARALELISMO_DATA = [
     "Frente": "142 - FRENTE BIDU",
     "Responsável": "Leonardo Ribeiro Teixeira da Silva",
     "Paralelismo": "1.4",
-    "Fazenda": "197204"
+    "Fazenda": "197204",
+    "Unnamed: 16": null
   },
   {
     "ID": "3555618",
@@ -24928,7 +26316,8 @@ const PARALELISMO_DATA = [
     "Frente": "261 - FRENTE PRÓPRIA  (EDMILSON)",
     "Responsável": "VITOR AMORIM RAMOS ",
     "Paralelismo": "1.4",
-    "Fazenda": "220408"
+    "Fazenda": "220408",
+    "Unnamed: 16": null
   },
   {
     "ID": "3556137",
@@ -24946,7 +26335,8 @@ const PARALELISMO_DATA = [
     "Frente": "142 - FRENTE BIDU",
     "Responsável": "Leonardo Ribeiro Teixeira da Silva",
     "Paralelismo": "1.4",
-    "Fazenda": "197204"
+    "Fazenda": "197204",
+    "Unnamed: 16": null
   },
   {
     "ID": "3556136",
@@ -24964,7 +26354,8 @@ const PARALELISMO_DATA = [
     "Frente": "142 - FRENTE BIDU",
     "Responsável": "Leonardo Ribeiro Teixeira da Silva",
     "Paralelismo": "1.4",
-    "Fazenda": "197204"
+    "Fazenda": "197204",
+    "Unnamed: 16": null
   },
   {
     "ID": "3555612",
@@ -24982,7 +26373,8 @@ const PARALELISMO_DATA = [
     "Frente": "261 - FRENTE PRÓPRIA  (EDMILSON)",
     "Responsável": "VITOR AMORIM RAMOS ",
     "Paralelismo": "1.4",
-    "Fazenda": "220408"
+    "Fazenda": "220408",
+    "Unnamed: 16": null
   },
   {
     "ID": "3555665",
@@ -25000,7 +26392,8 @@ const PARALELISMO_DATA = [
     "Frente": "261 - FRENTE PRÓPRIA  (EDMILSON)",
     "Responsável": "VITOR AMORIM RAMOS ",
     "Paralelismo": "1.4",
-    "Fazenda": "220408"
+    "Fazenda": "220408",
+    "Unnamed: 16": null
   },
   {
     "ID": "3556024",
@@ -25018,7 +26411,8 @@ const PARALELISMO_DATA = [
     "Frente": "135 - FRENTE PEDRINHO",
     "Responsável": "FERNANDA DE SOUZA ",
     "Paralelismo": "1.4",
-    "Fazenda": "40301"
+    "Fazenda": "40301",
+    "Unnamed: 16": null
   },
   {
     "ID": "3556361",
@@ -25036,7 +26430,8 @@ const PARALELISMO_DATA = [
     "Frente": "135 - PEDRINHO ",
     "Responsável": "REGINALDO DA SILVA GOMES ",
     "Paralelismo": "1.4",
-    "Fazenda": "213402"
+    "Fazenda": "213402",
+    "Unnamed: 16": null
   },
   {
     "ID": "3556260",
@@ -25054,7 +26449,8 @@ const PARALELISMO_DATA = [
     "Frente": "135 - PEDRINHO ",
     "Responsável": "MARCELO DE OLIVEIRA JUNIOR",
     "Paralelismo": "1.43",
-    "Fazenda": "213402"
+    "Fazenda": "213402",
+    "Unnamed: 16": null
   },
   {
     "ID": "3556356",
@@ -25072,7 +26468,8 @@ const PARALELISMO_DATA = [
     "Frente": "135 - PEDRINHO ",
     "Responsável": "REGINALDO DA SILVA GOMES ",
     "Paralelismo": "1.4",
-    "Fazenda": "213402"
+    "Fazenda": "213402",
+    "Unnamed: 16": null
   },
   {
     "ID": "3556014",
@@ -25090,7 +26487,8 @@ const PARALELISMO_DATA = [
     "Frente": "135 - PEDRINHO ",
     "Responsável": "FERNANDA DE SOUZA ",
     "Paralelismo": "1.41",
-    "Fazenda": "40301"
+    "Fazenda": "40301",
+    "Unnamed: 16": null
   },
   {
     "ID": "3556255",
@@ -25108,7 +26506,8 @@ const PARALELISMO_DATA = [
     "Frente": "135 - PEDRINHO ",
     "Responsável": "MARCELO DE OLIVEIRA JUNIOR",
     "Paralelismo": "1.4",
-    "Fazenda": "213402"
+    "Fazenda": "213402",
+    "Unnamed: 16": null
   },
   {
     "ID": "3556351",
@@ -25126,7 +26525,8 @@ const PARALELISMO_DATA = [
     "Frente": "135 - PEDRINHO ",
     "Responsável": "REGINALDO DA SILVA GOMES ",
     "Paralelismo": "1.44",
-    "Fazenda": "213402"
+    "Fazenda": "213402",
+    "Unnamed: 16": null
   },
   {
     "ID": "3555942",
@@ -25144,7 +26544,8 @@ const PARALELISMO_DATA = [
     "Frente": "143 - FRENTE CASSIO",
     "Responsável": "GABRIEL HENRIQUE MARTINS PEREIRA",
     "Paralelismo": "1.5",
-    "Fazenda": "64301"
+    "Fazenda": "64301",
+    "Unnamed: 16": null
   },
   {
     "ID": "3555937",
@@ -25162,7 +26563,8 @@ const PARALELISMO_DATA = [
     "Frente": "143 - FRENTE CASSIO",
     "Responsável": "GABRIEL HENRIQUE MARTINS PEREIRA",
     "Paralelismo": "1.5",
-    "Fazenda": "64301"
+    "Fazenda": "64301",
+    "Unnamed: 16": null
   },
   {
     "ID": "3556009",
@@ -25180,7 +26582,8 @@ const PARALELISMO_DATA = [
     "Frente": "135 - FRENTE PEDRINHO",
     "Responsável": "FERNANDA DE SOUZA ",
     "Paralelismo": "1.4",
-    "Fazenda": "213403"
+    "Fazenda": "213403",
+    "Unnamed: 16": null
   },
   {
     "ID": "3556004",
@@ -25198,7 +26601,8 @@ const PARALELISMO_DATA = [
     "Frente": "135 - FRENTE PEDRINHO",
     "Responsável": "FERNANDA DE SOUZA ",
     "Paralelismo": "1.4",
-    "Fazenda": "213403"
+    "Fazenda": "213403",
+    "Unnamed: 16": null
   },
   {
     "ID": "3555927",
@@ -25216,7 +26620,8 @@ const PARALELISMO_DATA = [
     "Frente": "143 - FRENTE CASSIO",
     "Responsável": "GABRIEL HENRIQUE MARTINS PEREIRA",
     "Paralelismo": "1.5",
-    "Fazenda": "64301"
+    "Fazenda": "64301",
+    "Unnamed: 16": null
   },
   {
     "ID": "3555917",
@@ -25234,7 +26639,8 @@ const PARALELISMO_DATA = [
     "Frente": "143 - FRENTE CASSIO",
     "Responsável": "GABRIEL HENRIQUE MARTINS PEREIRA",
     "Paralelismo": "1.5",
-    "Fazenda": "64201"
+    "Fazenda": "64201",
+    "Unnamed: 16": null
   },
   {
     "ID": "3555912",
@@ -25252,7 +26658,8 @@ const PARALELISMO_DATA = [
     "Frente": "143 - FRENTE CASSIO",
     "Responsável": "GABRIEL HENRIQUE MARTINS PEREIRA",
     "Paralelismo": "1.5",
-    "Fazenda": "64201"
+    "Fazenda": "64201",
+    "Unnamed: 16": null
   },
   {
     "ID": "3556250",
@@ -25270,7 +26677,8 @@ const PARALELISMO_DATA = [
     "Frente": "135 - PEDRINHO ",
     "Responsável": "MARCELO DE OLIVEIRA JUNIOR",
     "Paralelismo": "1.4",
-    "Fazenda": "213402"
+    "Fazenda": "213402",
+    "Unnamed: 16": null
   },
   {
     "ID": "3556244",
@@ -25288,7 +26696,8 @@ const PARALELISMO_DATA = [
     "Frente": "135 - PEDRINHO ",
     "Responsável": "MARCELO DE OLIVEIRA JUNIOR",
     "Paralelismo": "1.42",
-    "Fazenda": "213402"
+    "Fazenda": "213402",
+    "Unnamed: 16": null
   },
   {
     "ID": "3556240",
@@ -25306,7 +26715,8 @@ const PARALELISMO_DATA = [
     "Frente": "135 - PEDRINHO ",
     "Responsável": "MARCELO DE OLIVEIRA JUNIOR",
     "Paralelismo": "1.4",
-    "Fazenda": "213402"
+    "Fazenda": "213402",
+    "Unnamed: 16": null
   },
   {
     "ID": "3553696",
@@ -25324,7 +26734,8 @@ const PARALELISMO_DATA = [
     "Frente": "135 - PEDRINHO ",
     "Responsável": "MARCELO DE OLIVEIRA JUNIOR",
     "Paralelismo": "1.4",
-    "Fazenda": "213402"
+    "Fazenda": "213402",
+    "Unnamed: 16": null
   },
   {
     "ID": "3553771",
@@ -25342,7 +26753,8 @@ const PARALELISMO_DATA = [
     "Frente": "101 - FRENTE MECANIZADA",
     "Responsável": "FERNANDA DE SOUZA ",
     "Paralelismo": "1.4",
-    "Fazenda": "151502"
+    "Fazenda": "151502",
+    "Unnamed: 16": null
   },
   {
     "ID": "3553691",
@@ -25360,7 +26772,8 @@ const PARALELISMO_DATA = [
     "Frente": "135 - PEDRINHO ",
     "Responsável": "MARCELO DE OLIVEIRA JUNIOR",
     "Paralelismo": "1.41",
-    "Fazenda": "213402"
+    "Fazenda": "213402",
+    "Unnamed: 16": null
   },
   {
     "ID": "3553720",
@@ -25378,7 +26791,8 @@ const PARALELISMO_DATA = [
     "Frente": "261 - FRENTE PRÓPRIA  (EDMILSON)",
     "Responsável": "VITOR AMORIM RAMOS ",
     "Paralelismo": "1.5",
-    "Fazenda": "280401"
+    "Fazenda": "280401",
+    "Unnamed: 16": null
   },
   {
     "ID": "3553686",
@@ -25396,7 +26810,8 @@ const PARALELISMO_DATA = [
     "Frente": "135 - PEDRINHO ",
     "Responsável": "MARCELO DE OLIVEIRA JUNIOR",
     "Paralelismo": "1.4",
-    "Fazenda": "213402"
+    "Fazenda": "213402",
+    "Unnamed: 16": null
   },
   {
     "ID": "3553715",
@@ -25414,7 +26829,8 @@ const PARALELISMO_DATA = [
     "Frente": "261 - FRENTE PRÓPRIA  (EDMILSON)",
     "Responsável": "VITOR AMORIM RAMOS ",
     "Paralelismo": "1.5",
-    "Fazenda": "280401"
+    "Fazenda": "280401",
+    "Unnamed: 16": null
   },
   {
     "ID": "3553710",
@@ -25432,7 +26848,8 @@ const PARALELISMO_DATA = [
     "Frente": "261 - FRENTE PRÓPRIA  (EDMILSON)",
     "Responsável": "VITOR AMORIM RAMOS ",
     "Paralelismo": "1.5",
-    "Fazenda": "280401"
+    "Fazenda": "280401",
+    "Unnamed: 16": null
   },
   {
     "ID": "3553569",
@@ -25450,7 +26867,8 @@ const PARALELISMO_DATA = [
     "Frente": "139 - FRENTE MANEZÃO",
     "Responsável": "MICHELI DE SOUZA SANTOS  ",
     "Paralelismo": "1.4",
-    "Fazenda": "53201"
+    "Fazenda": "53201",
+    "Unnamed: 16": null
   },
   {
     "ID": "3553665",
@@ -25468,7 +26886,8 @@ const PARALELISMO_DATA = [
     "Frente": "142 - FRENTE BIDU",
     "Responsável": "Leonardo Ribeiro Teixeira da Silva",
     "Paralelismo": "1.4",
-    "Fazenda": "190101"
+    "Fazenda": "190101",
+    "Unnamed: 16": null
   },
   {
     "ID": "3553664",
@@ -25486,7 +26905,8 @@ const PARALELISMO_DATA = [
     "Frente": "142 - FRENTE BIDU",
     "Responsável": "Leonardo Ribeiro Teixeira da Silva",
     "Paralelismo": "1.4",
-    "Fazenda": "190101"
+    "Fazenda": "190101",
+    "Unnamed: 16": null
   },
   {
     "ID": "3553564",
@@ -25504,7 +26924,8 @@ const PARALELISMO_DATA = [
     "Frente": "139 - FRENTE MANEZÃO",
     "Responsável": "MABILA HELEN D FIGUEIREDO",
     "Paralelismo": "1.4",
-    "Fazenda": "53201"
+    "Fazenda": "53201",
+    "Unnamed: 16": null
   },
   {
     "ID": "3553558",
@@ -25522,7 +26943,8 @@ const PARALELISMO_DATA = [
     "Frente": "139 - FRENTE MANEZÃO",
     "Responsável": "MABILA HELEN D FIGUEIREDO",
     "Paralelismo": "1.4",
-    "Fazenda": "53201"
+    "Fazenda": "53201",
+    "Unnamed: 16": null
   },
   {
     "ID": "3553554",
@@ -25540,7 +26962,8 @@ const PARALELISMO_DATA = [
     "Frente": "139 - FRENTE MANEZÃO",
     "Responsável": "MABILA HELEN D FIGUEIREDO",
     "Paralelismo": "1.4",
-    "Fazenda": "53201"
+    "Fazenda": "53201",
+    "Unnamed: 16": null
   },
   {
     "ID": "3553548",
@@ -25558,7 +26981,8 @@ const PARALELISMO_DATA = [
     "Frente": "139 - FRENTE MANEZÃO",
     "Responsável": "MABILA HELEN D FIGUEIREDO",
     "Paralelismo": "1.4",
-    "Fazenda": "53201"
+    "Fazenda": "53201",
+    "Unnamed: 16": null
   },
   {
     "ID": "3553242",
@@ -25576,7 +27000,8 @@ const PARALELISMO_DATA = [
     "Frente": "261 - FRENTE PRÓPRIA  (EDMILSON)",
     "Responsável": "VITOR AMORIM RAMOS ",
     "Paralelismo": "1.4",
-    "Fazenda": "125001"
+    "Fazenda": "125001",
+    "Unnamed: 16": null
   },
   {
     "ID": "3553117",
@@ -25594,7 +27019,8 @@ const PARALELISMO_DATA = [
     "Frente": "143 - FRENTE CASSIO",
     "Responsável": "GABRIEL HENRIQUE MARTINS PEREIRA",
     "Paralelismo": "1.5",
-    "Fazenda": "216301"
+    "Fazenda": "216301",
+    "Unnamed: 16": null
   },
   {
     "ID": "3553116",
@@ -25612,7 +27038,8 @@ const PARALELISMO_DATA = [
     "Frente": "143 - FRENTE CASSIO",
     "Responsável": "GABRIEL HENRIQUE MARTINS PEREIRA",
     "Paralelismo": "1.5",
-    "Fazenda": "216301"
+    "Fazenda": "216301",
+    "Unnamed: 16": null
   },
   {
     "ID": "3553238",
@@ -25630,7 +27057,8 @@ const PARALELISMO_DATA = [
     "Frente": "261 - FRENTE PRÓPRIA  (EDMILSON)",
     "Responsável": "VITOR AMORIM RAMOS ",
     "Paralelismo": "1.4",
-    "Fazenda": "125001"
+    "Fazenda": "125001",
+    "Unnamed: 16": null
   },
   {
     "ID": "3553233",
@@ -25648,7 +27076,8 @@ const PARALELISMO_DATA = [
     "Frente": "261 - FRENTE PRÓPRIA  (EDMILSON)",
     "Responsável": "VITOR AMORIM RAMOS ",
     "Paralelismo": "1.4",
-    "Fazenda": "125001"
+    "Fazenda": "125001",
+    "Unnamed: 16": null
   },
   {
     "ID": "3555379",
@@ -25666,7 +27095,8 @@ const PARALELISMO_DATA = [
     "Frente": "143 - FRENTE CASSIO",
     "Responsável": "REGINALDO DA SILVA GOMES ",
     "Paralelismo": "1.5",
-    "Fazenda": "216301"
+    "Fazenda": "216301",
+    "Unnamed: 16": null
   },
   {
     "ID": "3555374",
@@ -25684,7 +27114,8 @@ const PARALELISMO_DATA = [
     "Frente": "143 - FRENTE CASSIO",
     "Responsável": "REGINALDO DA SILVA GOMES ",
     "Paralelismo": "1.52",
-    "Fazenda": "216301"
+    "Fazenda": "216301",
+    "Unnamed: 16": null
   },
   {
     "ID": "3555369",
@@ -25702,7 +27133,8 @@ const PARALELISMO_DATA = [
     "Frente": "143 - FRENTE CASSIO",
     "Responsável": "REGINALDO DA SILVA GOMES ",
     "Paralelismo": "1.51",
-    "Fazenda": "216301"
+    "Fazenda": "216301",
+    "Unnamed: 16": null
   },
   {
     "ID": "3553677",
@@ -25720,7 +27152,8 @@ const PARALELISMO_DATA = [
     "Frente": "135 - PEDRINHO ",
     "Responsável": "MARCELO DE OLIVEIRA JUNIOR",
     "Paralelismo": "1.42",
-    "Fazenda": "213402"
+    "Fazenda": "213402",
+    "Unnamed: 16": null
   },
   {
     "ID": "3553535",
@@ -25738,7 +27171,8 @@ const PARALELISMO_DATA = [
     "Frente": "105 - FRENTE CASSIO",
     "Responsável": "NILDA CLAUDINO [2510716]",
     "Paralelismo": "1.5",
-    "Fazenda": "138501"
+    "Fazenda": "138501",
+    "Unnamed: 16": null
   },
   {
     "ID": "3553764",
@@ -25756,7 +27190,8 @@ const PARALELISMO_DATA = [
     "Frente": "101 - FRENTE MECANIZADA",
     "Responsável": "FERNANDA DE SOUZA ",
     "Paralelismo": "1.42",
-    "Fazenda": "151502"
+    "Fazenda": "151502",
+    "Unnamed: 16": null
   },
   {
     "ID": "3553532",
@@ -25774,7 +27209,8 @@ const PARALELISMO_DATA = [
     "Frente": "105 - FRENTE CASSIO",
     "Responsável": "NILDA CLAUDINO [2510716]",
     "Paralelismo": "1.5",
-    "Fazenda": "138501"
+    "Fazenda": "138501",
+    "Unnamed: 16": null
   },
   {
     "ID": "3553761",
@@ -25792,7 +27228,8 @@ const PARALELISMO_DATA = [
     "Frente": "101 - FRENTE MECANIZADA",
     "Responsável": "FERNANDA DE SOUZA ",
     "Paralelismo": "1.4",
-    "Fazenda": "151502"
+    "Fazenda": "151502",
+    "Unnamed: 16": null
   },
   {
     "ID": "3553222",
@@ -25810,7 +27247,8 @@ const PARALELISMO_DATA = [
     "Frente": "261 - FRENTE PRÓPRIA  (EDMILSON)",
     "Responsável": "VITOR AMORIM RAMOS ",
     "Paralelismo": "1.4",
-    "Fazenda": "125001"
+    "Fazenda": "125001",
+    "Unnamed: 16": null
   },
   {
     "ID": "3553218",
@@ -25828,7 +27266,8 @@ const PARALELISMO_DATA = [
     "Frente": "261 - FRENTE PRÓPRIA  (EDMILSON)",
     "Responsável": "VITOR AMORIM RAMOS ",
     "Paralelismo": "1.4",
-    "Fazenda": "125001"
+    "Fazenda": "125001",
+    "Unnamed: 16": null
   },
   {
     "ID": "3553214",
@@ -25846,7 +27285,8 @@ const PARALELISMO_DATA = [
     "Frente": "261 - FRENTE PRÓPRIA  (EDMILSON)",
     "Responsável": "VITOR AMORIM RAMOS ",
     "Paralelismo": "1.4",
-    "Fazenda": "125001"
+    "Fazenda": "125001",
+    "Unnamed: 16": null
   },
   {
     "ID": "3553209",
@@ -25864,7 +27304,8 @@ const PARALELISMO_DATA = [
     "Frente": "261 - FRENTE PRÓPRIA  (EDMILSON)",
     "Responsável": "VITOR AMORIM RAMOS ",
     "Paralelismo": "1.4",
-    "Fazenda": "125001"
+    "Fazenda": "125001",
+    "Unnamed: 16": null
   },
   {
     "ID": "3553204",
@@ -25882,7 +27323,8 @@ const PARALELISMO_DATA = [
     "Frente": "261 - FRENTE PRÓPRIA  (EDMILSON)",
     "Responsável": "VITOR AMORIM RAMOS ",
     "Paralelismo": "1.4",
-    "Fazenda": "125001"
+    "Fazenda": "125001",
+    "Unnamed: 16": null
   },
   {
     "ID": "3553519",
@@ -25900,7 +27342,8 @@ const PARALELISMO_DATA = [
     "Frente": "105 - FRENTE CASSIO",
     "Responsável": "NILDA CLAUDINO [2510716]",
     "Paralelismo": "1.5",
-    "Fazenda": "138501"
+    "Fazenda": "138501",
+    "Unnamed: 16": null
   },
   {
     "ID": "3553199",
@@ -25918,7 +27361,8 @@ const PARALELISMO_DATA = [
     "Frente": "261 - FRENTE PRÓPRIA  (EDMILSON)",
     "Responsável": "VITOR AMORIM RAMOS ",
     "Paralelismo": "1.4",
-    "Fazenda": "125001"
+    "Fazenda": "125001",
+    "Unnamed: 16": null
   },
   {
     "ID": "3553515",
@@ -25936,7 +27380,8 @@ const PARALELISMO_DATA = [
     "Frente": "105 - FRENTE CASSIO",
     "Responsável": "NILDA CLAUDINO [2510716]",
     "Paralelismo": "1.5",
-    "Fazenda": "138501"
+    "Fazenda": "138501",
+    "Unnamed: 16": null
   },
   {
     "ID": "3553191",
@@ -25954,7 +27399,8 @@ const PARALELISMO_DATA = [
     "Frente": "261 - FRENTE PRÓPRIA  (EDMILSON)",
     "Responsável": "VITOR AMORIM RAMOS ",
     "Paralelismo": "1.4",
-    "Fazenda": "125001"
+    "Fazenda": "125001",
+    "Unnamed: 16": null
   },
   {
     "ID": "3553507",
@@ -25972,7 +27418,8 @@ const PARALELISMO_DATA = [
     "Frente": "105 - FRENTE CASSIO",
     "Responsável": "NILDA CLAUDINO [2510716]",
     "Paralelismo": "1.5",
-    "Fazenda": "138501"
+    "Fazenda": "138501",
+    "Unnamed: 16": null
   },
   {
     "ID": "3552927",
@@ -25990,7 +27437,8 @@ const PARALELISMO_DATA = [
     "Frente": "143 - FRENTE CASSIO",
     "Responsável": "GABRIEL HENRIQUE MARTINS PEREIRA",
     "Paralelismo": "1.5",
-    "Fazenda": "216303"
+    "Fazenda": "216303",
+    "Unnamed: 16": null
   },
   {
     "ID": "3552922",
@@ -26008,7 +27456,8 @@ const PARALELISMO_DATA = [
     "Frente": "143 - FRENTE CASSIO",
     "Responsável": "GABRIEL HENRIQUE MARTINS PEREIRA",
     "Paralelismo": "1.5",
-    "Fazenda": "216303"
+    "Fazenda": "216303",
+    "Unnamed: 16": null
   },
   {
     "ID": "3551447",
@@ -26026,7 +27475,8 @@ const PARALELISMO_DATA = [
     "Frente": "261 - FRENTE PRÓPRIA  (EDMILSON)",
     "Responsável": "VITOR AMORIM RAMOS ",
     "Paralelismo": "1.4",
-    "Fazenda": "125001"
+    "Fazenda": "125001",
+    "Unnamed: 16": null
   },
   {
     "ID": "3551442",
@@ -26044,7 +27494,8 @@ const PARALELISMO_DATA = [
     "Frente": "261 - FRENTE PRÓPRIA  (EDMILSON)",
     "Responsável": "VITOR AMORIM RAMOS ",
     "Paralelismo": "1.4",
-    "Fazenda": "125001"
+    "Fazenda": "125001",
+    "Unnamed: 16": null
   },
   {
     "ID": "3551437",
@@ -26062,7 +27513,8 @@ const PARALELISMO_DATA = [
     "Frente": "261 - FRENTE PRÓPRIA  (EDMILSON)",
     "Responsável": "VITOR AMORIM RAMOS ",
     "Paralelismo": "1.4",
-    "Fazenda": "125001"
+    "Fazenda": "125001",
+    "Unnamed: 16": null
   },
   {
     "ID": "3551432",
@@ -26080,7 +27532,8 @@ const PARALELISMO_DATA = [
     "Frente": "261 - FRENTE PRÓPRIA  (EDMILSON)",
     "Responsável": "VITOR AMORIM RAMOS ",
     "Paralelismo": "1.4",
-    "Fazenda": "125001"
+    "Fazenda": "125001",
+    "Unnamed: 16": null
   },
   {
     "ID": "3551011",
@@ -26098,7 +27551,8 @@ const PARALELISMO_DATA = [
     "Frente": "261 - FRENTE PRÓPRIA  (EDMILSON)",
     "Responsável": "VITOR AMORIM RAMOS ",
     "Paralelismo": "1.4",
-    "Fazenda": "125001"
+    "Fazenda": "125001",
+    "Unnamed: 16": null
   },
   {
     "ID": "3551388",
@@ -26116,7 +27570,8 @@ const PARALELISMO_DATA = [
     "Frente": "105 - FRENTE CASSIO",
     "Responsável": "NILDA CLAUDINO [2510716]",
     "Paralelismo": "1.5",
-    "Fazenda": "151201"
+    "Fazenda": "151201",
+    "Unnamed: 16": null
   },
   {
     "ID": "3551005",
@@ -26134,7 +27589,8 @@ const PARALELISMO_DATA = [
     "Frente": "261 - FRENTE PRÓPRIA  (EDMILSON)",
     "Responsável": "VITOR AMORIM RAMOS ",
     "Paralelismo": "1.4",
-    "Fazenda": "125001"
+    "Fazenda": "125001",
+    "Unnamed: 16": null
   },
   {
     "ID": "3551382",
@@ -26152,7 +27608,8 @@ const PARALELISMO_DATA = [
     "Frente": "105 - FRENTE CASSIO",
     "Responsável": "NILDA CLAUDINO [2510716]",
     "Paralelismo": "1.5",
-    "Fazenda": "151201"
+    "Fazenda": "151201",
+    "Unnamed: 16": null
   },
   {
     "ID": "3551323",
@@ -26170,7 +27627,8 @@ const PARALELISMO_DATA = [
     "Frente": "135 - PEDRINHO ",
     "Responsável": "MARCELO DE OLIVEIRA JUNIOR",
     "Paralelismo": "1.49",
-    "Fazenda": "280901"
+    "Fazenda": "280901",
+    "Unnamed: 16": null
   },
   {
     "ID": "3550997",
@@ -26188,7 +27646,8 @@ const PARALELISMO_DATA = [
     "Frente": "261 - FRENTE PRÓPRIA  (EDMILSON)",
     "Responsável": "VITOR AMORIM RAMOS ",
     "Paralelismo": "1.4",
-    "Fazenda": "125001"
+    "Fazenda": "125001",
+    "Unnamed: 16": null
   },
   {
     "ID": "3550995",
@@ -26206,7 +27665,8 @@ const PARALELISMO_DATA = [
     "Frente": "261 - FRENTE PRÓPRIA  (EDMILSON)",
     "Responsável": "VITOR AMORIM RAMOS ",
     "Paralelismo": "1.4",
-    "Fazenda": "125001"
+    "Fazenda": "125001",
+    "Unnamed: 16": null
   },
   {
     "ID": "3551318",
@@ -26224,7 +27684,8 @@ const PARALELISMO_DATA = [
     "Frente": "135 - PEDRINHO ",
     "Responsável": "MARCELO DE OLIVEIRA JUNIOR",
     "Paralelismo": "1.53",
-    "Fazenda": "280901"
+    "Fazenda": "280901",
+    "Unnamed: 16": null
   },
   {
     "ID": "3551370",
@@ -26242,7 +27703,8 @@ const PARALELISMO_DATA = [
     "Frente": "105 - FRENTE CASSIO",
     "Responsável": "NILDA CLAUDINO [2510716]",
     "Paralelismo": "1.5",
-    "Fazenda": "138502"
+    "Fazenda": "138502",
+    "Unnamed: 16": null
   },
   {
     "ID": "3550987",
@@ -26260,7 +27722,8 @@ const PARALELISMO_DATA = [
     "Frente": "261 - FRENTE PRÓPRIA  (EDMILSON)",
     "Responsável": "VITOR AMORIM RAMOS ",
     "Paralelismo": "1.4",
-    "Fazenda": "125001"
+    "Fazenda": "125001",
+    "Unnamed: 16": null
   },
   {
     "ID": "3551366",
@@ -26278,7 +27741,8 @@ const PARALELISMO_DATA = [
     "Frente": "105 - FRENTE CASSIO",
     "Responsável": "NILDA CLAUDINO [2510716]",
     "Paralelismo": "1.5",
-    "Fazenda": "138502"
+    "Fazenda": "138502",
+    "Unnamed: 16": null
   },
   {
     "ID": "3550980",
@@ -26296,7 +27760,8 @@ const PARALELISMO_DATA = [
     "Frente": "261 - FRENTE PRÓPRIA  (EDMILSON)",
     "Responsável": "VITOR AMORIM RAMOS ",
     "Paralelismo": "1.4",
-    "Fazenda": "125001"
+    "Fazenda": "125001",
+    "Unnamed: 16": null
   },
   {
     "ID": "3551313",
@@ -26314,7 +27779,8 @@ const PARALELISMO_DATA = [
     "Frente": "135 - PEDRINHO ",
     "Responsável": "MARCELO DE OLIVEIRA JUNIOR",
     "Paralelismo": "1.51",
-    "Fazenda": "280901"
+    "Fazenda": "280901",
+    "Unnamed: 16": null
   },
   {
     "ID": "3550976",
@@ -26332,7 +27798,8 @@ const PARALELISMO_DATA = [
     "Frente": "261 - FRENTE PRÓPRIA  (EDMILSON)",
     "Responsável": "VITOR AMORIM RAMOS ",
     "Paralelismo": "1.4",
-    "Fazenda": "125001"
+    "Fazenda": "125001",
+    "Unnamed: 16": null
   },
   {
     "ID": "3551308",
@@ -26350,7 +27817,8 @@ const PARALELISMO_DATA = [
     "Frente": "135 - PEDRINHO ",
     "Responsável": "MARCELO DE OLIVEIRA JUNIOR",
     "Paralelismo": "1.48",
-    "Fazenda": "280901"
+    "Fazenda": "280901",
+    "Unnamed: 16": null
   },
   {
     "ID": "3551362",
@@ -26368,7 +27836,8 @@ const PARALELISMO_DATA = [
     "Frente": "105 - FRENTE CASSIO",
     "Responsável": "NILDA CLAUDINO [2510716]",
     "Paralelismo": "1.5",
-    "Fazenda": "151201"
+    "Fazenda": "151201",
+    "Unnamed: 16": null
   },
   {
     "ID": "3551303",
@@ -26386,7 +27855,8 @@ const PARALELISMO_DATA = [
     "Frente": "135 - PEDRINHO ",
     "Responsável": "MARCELO DE OLIVEIRA JUNIOR",
     "Paralelismo": "1.52",
-    "Fazenda": "280901"
+    "Fazenda": "280901",
+    "Unnamed: 16": null
   },
   {
     "ID": "3551358",
@@ -26404,7 +27874,8 @@ const PARALELISMO_DATA = [
     "Frente": "105 - FRENTE CASSIO",
     "Responsável": "NILDA CLAUDINO [2510716]",
     "Paralelismo": "1.5",
-    "Fazenda": "151201"
+    "Fazenda": "151201",
+    "Unnamed: 16": null
   },
   {
     "ID": "3551349",
@@ -26422,7 +27893,8 @@ const PARALELISMO_DATA = [
     "Frente": "105 - FRENTE CASSIO",
     "Responsável": "NILDA CLAUDINO [2510716]",
     "Paralelismo": "1.5",
-    "Fazenda": "138502"
+    "Fazenda": "138502",
+    "Unnamed: 16": null
   },
   {
     "ID": "3551342",
@@ -26440,7 +27912,8 @@ const PARALELISMO_DATA = [
     "Frente": "105 - FRENTE CASSIO",
     "Responsável": "NILDA CLAUDINO [2510716]",
     "Paralelismo": "1.5",
-    "Fazenda": "138502"
+    "Fazenda": "138502",
+    "Unnamed: 16": null
   },
   {
     "ID": "3549576",
@@ -26458,7 +27931,8 @@ const PARALELISMO_DATA = [
     "Frente": "135 - PEDRINHO ",
     "Responsável": "MARCELO DE OLIVEIRA JUNIOR",
     "Paralelismo": "1.51",
-    "Fazenda": "280901"
+    "Fazenda": "280901",
+    "Unnamed: 16": null
   },
   {
     "ID": "3549541",
@@ -26476,7 +27950,8 @@ const PARALELISMO_DATA = [
     "Frente": "135 - PEDRINHO ",
     "Responsável": "MARCELO DE OLIVEIRA JUNIOR",
     "Paralelismo": "1.5",
-    "Fazenda": "280901"
+    "Fazenda": "280901",
+    "Unnamed: 16": null
   },
   {
     "ID": "3549407",
@@ -26494,7 +27969,8 @@ const PARALELISMO_DATA = [
     "Frente": "105 - FRENTE CASSIO",
     "Responsável": "NILDA CLAUDINO [2510716]",
     "Paralelismo": "1.5",
-    "Fazenda": "151202"
+    "Fazenda": "151202",
+    "Unnamed: 16": null
   },
   {
     "ID": "3549403",
@@ -26512,7 +27988,8 @@ const PARALELISMO_DATA = [
     "Frente": "105 - FRENTE CASSIO",
     "Responsável": "NILDA CLAUDINO [2510716]",
     "Paralelismo": "1.5",
-    "Fazenda": "151202"
+    "Fazenda": "151202",
+    "Unnamed: 16": null
   },
   {
     "ID": "3549586",
@@ -26530,7 +28007,8 @@ const PARALELISMO_DATA = [
     "Frente": "261 - FRENTE PRÓPRIA  (EDMILSON)",
     "Responsável": "VITOR AMORIM RAMOS ",
     "Paralelismo": "1.5",
-    "Fazenda": "101201"
+    "Fazenda": "101201",
+    "Unnamed: 16": null
   },
   {
     "ID": "3549583",
@@ -26548,7 +28026,8 @@ const PARALELISMO_DATA = [
     "Frente": "261 - FRENTE PRÓPRIA  (EDMILSON)",
     "Responsável": "VITOR AMORIM RAMOS ",
     "Paralelismo": "1.5",
-    "Fazenda": "101201"
+    "Fazenda": "101201",
+    "Unnamed: 16": null
   },
   {
     "ID": "3549567",
@@ -26566,7 +28045,8 @@ const PARALELISMO_DATA = [
     "Frente": "261 - FRENTE PRÓPRIA  (EDMILSON)",
     "Responsável": "VITOR AMORIM RAMOS ",
     "Paralelismo": "1.5",
-    "Fazenda": "101201"
+    "Fazenda": "101201",
+    "Unnamed: 16": null
   },
   {
     "ID": "3549566",
@@ -26584,7 +28064,8 @@ const PARALELISMO_DATA = [
     "Frente": "261 - FRENTE PRÓPRIA  (EDMILSON)",
     "Responsável": "VITOR AMORIM RAMOS ",
     "Paralelismo": "1.5",
-    "Fazenda": "101201"
+    "Fazenda": "101201",
+    "Unnamed: 16": null
   },
   {
     "ID": "3549565",
@@ -26602,7 +28083,8 @@ const PARALELISMO_DATA = [
     "Frente": "261 - FRENTE PRÓPRIA  (EDMILSON)",
     "Responsável": "VITOR AMORIM RAMOS ",
     "Paralelismo": "1.5",
-    "Fazenda": "101201"
+    "Fazenda": "101201",
+    "Unnamed: 16": null
   },
   {
     "ID": "3549563",
@@ -26620,7 +28102,8 @@ const PARALELISMO_DATA = [
     "Frente": "261 - FRENTE PRÓPRIA  (EDMILSON)",
     "Responsável": "VITOR AMORIM RAMOS ",
     "Paralelismo": "1.5",
-    "Fazenda": "101201"
+    "Fazenda": "101201",
+    "Unnamed: 16": null
   },
   {
     "ID": "3549562",
@@ -26638,7 +28121,8 @@ const PARALELISMO_DATA = [
     "Frente": "261 - FRENTE PRÓPRIA  (EDMILSON)",
     "Responsável": "VITOR AMORIM RAMOS ",
     "Paralelismo": "1.5",
-    "Fazenda": "101201"
+    "Fazenda": "101201",
+    "Unnamed: 16": null
   },
   {
     "ID": "3549633",
@@ -26656,7 +28140,8 @@ const PARALELISMO_DATA = [
     "Frente": "139 - FRENTE MANEZÃO",
     "Responsável": "MICHELI DE SOUZA SANTOS  ",
     "Paralelismo": "1.5",
-    "Fazenda": "275502"
+    "Fazenda": "275502",
+    "Unnamed: 16": null
   },
   {
     "ID": "3549628",
@@ -26674,7 +28159,8 @@ const PARALELISMO_DATA = [
     "Frente": "139 - FRENTE MANEZÃO",
     "Responsável": "MICHELI DE SOUZA SANTOS  ",
     "Paralelismo": "1.5",
-    "Fazenda": "275502"
+    "Fazenda": "275502",
+    "Unnamed: 16": null
   },
   {
     "ID": "3549397",
@@ -26692,7 +28178,8 @@ const PARALELISMO_DATA = [
     "Frente": "105 - FRENTE CASSIO",
     "Responsável": "NILDA CLAUDINO [2510716]",
     "Paralelismo": "1.5",
-    "Fazenda": "151202"
+    "Fazenda": "151202",
+    "Unnamed: 16": null
   },
   {
     "ID": "3549393",
@@ -26710,7 +28197,8 @@ const PARALELISMO_DATA = [
     "Frente": "105 - FRENTE CASSIO",
     "Responsável": "NILDA CLAUDINO [2510716]",
     "Paralelismo": "1.5",
-    "Fazenda": "151202"
+    "Fazenda": "151202",
+    "Unnamed: 16": null
   },
   {
     "ID": "3549180",
@@ -26728,7 +28216,8 @@ const PARALELISMO_DATA = [
     "Frente": "142 - FRENTE BIDU",
     "Responsável": "Leonardo Ribeiro Teixeira da Silva",
     "Paralelismo": "1.4",
-    "Fazenda": "190101"
+    "Fazenda": "190101",
+    "Unnamed: 16": null
   },
   {
     "ID": "3549179",
@@ -26746,7 +28235,8 @@ const PARALELISMO_DATA = [
     "Frente": "142 - FRENTE BIDU",
     "Responsável": "Leonardo Ribeiro Teixeira da Silva",
     "Paralelismo": "1.4",
-    "Fazenda": "190101"
+    "Fazenda": "190101",
+    "Unnamed: 16": null
   },
   {
     "ID": "3549389",
@@ -26764,7 +28254,8 @@ const PARALELISMO_DATA = [
     "Frente": "105 - FRENTE CASSIO",
     "Responsável": "NILDA CLAUDINO [2510716]",
     "Paralelismo": "1.5",
-    "Fazenda": "151202"
+    "Fazenda": "151202",
+    "Unnamed: 16": null
   },
   {
     "ID": "3549235",
@@ -26782,7 +28273,8 @@ const PARALELISMO_DATA = [
     "Frente": "261 - FRENTE PRÓPRIA  (EDMILSON)",
     "Responsável": "VITOR AMORIM RAMOS ",
     "Paralelismo": "1.4",
-    "Fazenda": "234001"
+    "Fazenda": "234001",
+    "Unnamed: 16": null
   },
   {
     "ID": "3549621",
@@ -26800,7 +28292,8 @@ const PARALELISMO_DATA = [
     "Frente": "139 - FRENTE MANEZÃO",
     "Responsável": "MICHELI DE SOUZA SANTOS  ",
     "Paralelismo": "1.49",
-    "Fazenda": "254401"
+    "Fazenda": "254401",
+    "Unnamed: 16": null
   },
   {
     "ID": "3549616",
@@ -26818,7 +28311,8 @@ const PARALELISMO_DATA = [
     "Frente": "139 - FRENTE MANEZÃO",
     "Responsável": "MICHELI DE SOUZA SANTOS  ",
     "Paralelismo": "1.5",
-    "Fazenda": "254401"
+    "Fazenda": "254401",
+    "Unnamed: 16": null
   },
   {
     "ID": "3549611",
@@ -26836,7 +28330,8 @@ const PARALELISMO_DATA = [
     "Frente": "139 - FRENTE MANEZÃO",
     "Responsável": "MICHELI DE SOUZA SANTOS  ",
     "Paralelismo": "1.5",
-    "Fazenda": "254401"
+    "Fazenda": "254401",
+    "Unnamed: 16": null
   },
   {
     "ID": "3548156",
@@ -26854,7 +28349,8 @@ const PARALELISMO_DATA = [
     "Frente": "135 - PEDRINHO ",
     "Responsável": "MARCELO DE OLIVEIRA JUNIOR",
     "Paralelismo": "1.5",
-    "Fazenda": "280901"
+    "Fazenda": "280901",
+    "Unnamed: 16": null
   },
   {
     "ID": "3547662",
@@ -26872,7 +28368,8 @@ const PARALELISMO_DATA = [
     "Frente": "261 - FRENTE PRÓPRIA  (EDMILSON)",
     "Responsável": "REGINALDO DA SILVA GOMES ",
     "Paralelismo": "1.5",
-    "Fazenda": "234001"
+    "Fazenda": "234001",
+    "Unnamed: 16": null
   },
   {
     "ID": "3547657",
@@ -26890,7 +28387,8 @@ const PARALELISMO_DATA = [
     "Frente": "261 - FRENTE PRÓPRIA  (EDMILSON)",
     "Responsável": "REGINALDO DA SILVA GOMES ",
     "Paralelismo": "1.52",
-    "Fazenda": "234001"
+    "Fazenda": "234001",
+    "Unnamed: 16": null
   },
   {
     "ID": "3547488",
@@ -26908,7 +28406,8 @@ const PARALELISMO_DATA = [
     "Frente": "142 - FRENTE BIDU",
     "Responsável": "Leonardo Ribeiro Teixeira da Silva",
     "Paralelismo": "1.4",
-    "Fazenda": "190205"
+    "Fazenda": "190205",
+    "Unnamed: 16": null
   },
   {
     "ID": "3547487",
@@ -26926,7 +28425,8 @@ const PARALELISMO_DATA = [
     "Frente": "142 - FRENTE BIDU",
     "Responsável": "Leonardo Ribeiro Teixeira da Silva",
     "Paralelismo": "1.4",
-    "Fazenda": "190205"
+    "Fazenda": "190205",
+    "Unnamed: 16": null
   },
   {
     "ID": "3547652",
@@ -26944,7 +28444,8 @@ const PARALELISMO_DATA = [
     "Frente": "261 - FRENTE PRÓPRIA  (EDMILSON)",
     "Responsável": "REGINALDO DA SILVA GOMES ",
     "Paralelismo": "1.5",
-    "Fazenda": "234001"
+    "Fazenda": "234001",
+    "Unnamed: 16": null
   },
   {
     "ID": "3547647",
@@ -26962,7 +28463,8 @@ const PARALELISMO_DATA = [
     "Frente": "142 - FRENTE BIDU",
     "Responsável": "REGINALDO DA SILVA GOMES ",
     "Paralelismo": "1.38",
-    "Fazenda": "190205"
+    "Fazenda": "190205",
+    "Unnamed: 16": null
   },
   {
     "ID": "3547429",
@@ -26980,7 +28482,8 @@ const PARALELISMO_DATA = [
     "Frente": "105 - FRENTE CASSIO",
     "Responsável": "NILDA CLAUDINO [2510716]",
     "Paralelismo": "1.5",
-    "Fazenda": "177007"
+    "Fazenda": "177007",
+    "Unnamed: 16": null
   },
   {
     "ID": "3547641",
@@ -26998,7 +28501,8 @@ const PARALELISMO_DATA = [
     "Frente": "142 - FRENTE BIDU",
     "Responsável": "REGINALDO DA SILVA GOMES ",
     "Paralelismo": "1.4",
-    "Fazenda": "190205"
+    "Fazenda": "190205",
+    "Unnamed: 16": null
   },
   {
     "ID": "3547532",
@@ -27016,7 +28520,8 @@ const PARALELISMO_DATA = [
     "Frente": "105 - FRENTE CASSIO",
     "Responsável": "NILDA CLAUDINO [2510716]",
     "Paralelismo": "1.5",
-    "Fazenda": "177007"
+    "Fazenda": "177007",
+    "Unnamed: 16": null
   },
   {
     "ID": "3547626",
@@ -27034,7 +28539,8 @@ const PARALELISMO_DATA = [
     "Frente": "142 - FRENTE BIDU",
     "Responsável": "REGINALDO DA SILVA GOMES ",
     "Paralelismo": "1.41",
-    "Fazenda": "190205"
+    "Fazenda": "190205",
+    "Unnamed: 16": null
   },
   {
     "ID": "3547621",
@@ -27052,7 +28558,8 @@ const PARALELISMO_DATA = [
     "Frente": "101 - FRENTE MECANIZADA",
     "Responsável": "REGINALDO DA SILVA GOMES ",
     "Paralelismo": "1.4",
-    "Fazenda": "53201"
+    "Fazenda": "53201",
+    "Unnamed: 16": null
   },
   {
     "ID": "3547044",
@@ -27070,7 +28577,8 @@ const PARALELISMO_DATA = [
     "Frente": "101 - FRENTE MECANIZADA",
     "Responsável": "FERNANDA DE SOUZA ",
     "Paralelismo": "1.42",
-    "Fazenda": "53201"
+    "Fazenda": "53201",
+    "Unnamed: 16": null
   },
   {
     "ID": "3547178",
@@ -27088,7 +28596,8 @@ const PARALELISMO_DATA = [
     "Frente": "261 - FRENTE PRÓPRIA  (EDMILSON)",
     "Responsável": "VITOR AMORIM RAMOS ",
     "Paralelismo": "1.4",
-    "Fazenda": "234001"
+    "Fazenda": "234001",
+    "Unnamed: 16": null
   },
   {
     "ID": "3547174",
@@ -27106,7 +28615,8 @@ const PARALELISMO_DATA = [
     "Frente": "261 - FRENTE PRÓPRIA  (EDMILSON)",
     "Responsável": "VITOR AMORIM RAMOS ",
     "Paralelismo": "1.4",
-    "Fazenda": "234001"
+    "Fazenda": "234001",
+    "Unnamed: 16": null
   },
   {
     "ID": "3547607",
@@ -27124,7 +28634,8 @@ const PARALELISMO_DATA = [
     "Frente": "101 - FRENTE MECANIZADA",
     "Responsável": "REGINALDO DA SILVA GOMES ",
     "Paralelismo": "1.37",
-    "Fazenda": "53201"
+    "Fazenda": "53201",
+    "Unnamed: 16": null
   },
   {
     "ID": "3546937",
@@ -27142,7 +28653,8 @@ const PARALELISMO_DATA = [
     "Frente": "142 - FRENTE BIDU",
     "Responsável": "Leonardo Ribeiro Teixeira da Silva",
     "Paralelismo": "1.4",
-    "Fazenda": "143601"
+    "Fazenda": "143601",
+    "Unnamed: 16": null
   },
   {
     "ID": "3547039",
@@ -27160,7 +28672,8 @@ const PARALELISMO_DATA = [
     "Frente": "101 - FRENTE MECANIZADA",
     "Responsável": "FERNANDA DE SOUZA ",
     "Paralelismo": "1.4",
-    "Fazenda": "53201"
+    "Fazenda": "53201",
+    "Unnamed: 16": null
   },
   {
     "ID": "3546936",
@@ -27178,7 +28691,8 @@ const PARALELISMO_DATA = [
     "Frente": "142 - FRENTE BIDU",
     "Responsável": "Leonardo Ribeiro Teixeira da Silva",
     "Paralelismo": "1.4",
-    "Fazenda": "143601"
+    "Fazenda": "143601",
+    "Unnamed: 16": null
   },
   {
     "ID": "3546935",
@@ -27196,7 +28710,8 @@ const PARALELISMO_DATA = [
     "Frente": "142 - FRENTE BIDU",
     "Responsável": "Leonardo Ribeiro Teixeira da Silva",
     "Paralelismo": "1.4",
-    "Fazenda": "143601"
+    "Fazenda": "143601",
+    "Unnamed: 16": null
   },
   {
     "ID": "3546934",
@@ -27214,7 +28729,8 @@ const PARALELISMO_DATA = [
     "Frente": "142 - FRENTE BIDU",
     "Responsável": "Leonardo Ribeiro Teixeira da Silva",
     "Paralelismo": "1.4",
-    "Fazenda": "143601"
+    "Fazenda": "143601",
+    "Unnamed: 16": null
   },
   {
     "ID": "3547143",
@@ -27232,7 +28748,8 @@ const PARALELISMO_DATA = [
     "Frente": "261 - FRENTE PRÓPRIA  (EDMILSON)",
     "Responsável": "VITOR AMORIM RAMOS ",
     "Paralelismo": "1.4",
-    "Fazenda": "234001"
+    "Fazenda": "234001",
+    "Unnamed: 16": null
   },
   {
     "ID": "3547138",
@@ -27250,7 +28767,8 @@ const PARALELISMO_DATA = [
     "Frente": "261 - FRENTE PRÓPRIA  (EDMILSON)",
     "Responsável": "VITOR AMORIM RAMOS ",
     "Paralelismo": "1.41",
-    "Fazenda": "234001"
+    "Fazenda": "234001",
+    "Unnamed: 16": null
   },
   {
     "ID": "3547029",
@@ -27268,7 +28786,8 @@ const PARALELISMO_DATA = [
     "Frente": "101 - FRENTE MECANIZADA",
     "Responsável": "FERNANDA DE SOUZA ",
     "Paralelismo": "1.4",
-    "Fazenda": "53201"
+    "Fazenda": "53201",
+    "Unnamed: 16": null
   },
   {
     "ID": "3547132",
@@ -27286,7 +28805,8 @@ const PARALELISMO_DATA = [
     "Frente": "261 - FRENTE PRÓPRIA  (EDMILSON)",
     "Responsável": "VITOR AMORIM RAMOS ",
     "Paralelismo": "1.4",
-    "Fazenda": "234001"
+    "Fazenda": "234001",
+    "Unnamed: 16": null
   },
   {
     "ID": "3547128",
@@ -27304,7 +28824,8 @@ const PARALELISMO_DATA = [
     "Frente": "261 - FRENTE PRÓPRIA  (EDMILSON)",
     "Responsável": "VITOR AMORIM RAMOS ",
     "Paralelismo": "1.4",
-    "Fazenda": "234001"
+    "Fazenda": "234001",
+    "Unnamed: 16": null
   },
   {
     "ID": "3547075",
@@ -27322,7 +28843,8 @@ const PARALELISMO_DATA = [
     "Frente": "142 - FRENTE BIDU",
     "Responsável": " Antonio ",
     "Paralelismo": "1.4",
-    "Fazenda": "190205"
+    "Fazenda": "190205",
+    "Unnamed: 16": null
   },
   {
     "ID": "3547122",
@@ -27340,7 +28862,8 @@ const PARALELISMO_DATA = [
     "Frente": "261 - FRENTE PRÓPRIA  (EDMILSON)",
     "Responsável": "VITOR AMORIM RAMOS ",
     "Paralelismo": "1.4",
-    "Fazenda": "234001"
+    "Fazenda": "234001",
+    "Unnamed: 16": null
   },
   {
     "ID": "3547117",
@@ -27358,7 +28881,8 @@ const PARALELISMO_DATA = [
     "Frente": "261 - FRENTE PRÓPRIA  (EDMILSON)",
     "Responsável": "VITOR AMORIM RAMOS ",
     "Paralelismo": "1.4",
-    "Fazenda": "234001"
+    "Fazenda": "234001",
+    "Unnamed: 16": null
   },
   {
     "ID": "3547112",
@@ -27376,7 +28900,8 @@ const PARALELISMO_DATA = [
     "Frente": "261 - FRENTE PRÓPRIA  (EDMILSON)",
     "Responsável": "VITOR AMORIM RAMOS ",
     "Paralelismo": "1.4",
-    "Fazenda": "234001"
+    "Fazenda": "234001",
+    "Unnamed: 16": null
   },
   {
     "ID": "3547107",
@@ -27394,7 +28919,8 @@ const PARALELISMO_DATA = [
     "Frente": "261 - FRENTE PRÓPRIA  (EDMILSON)",
     "Responsável": "VITOR AMORIM RAMOS ",
     "Paralelismo": "1.4",
-    "Fazenda": "234001"
+    "Fazenda": "234001",
+    "Unnamed: 16": null
   },
   {
     "ID": "3547298",
@@ -27412,7 +28938,8 @@ const PARALELISMO_DATA = [
     "Frente": "143 - FRENTE CASSIO",
     "Responsável": "GABRIEL HENRIQUE MARTINS PEREIRA",
     "Paralelismo": "1.5",
-    "Fazenda": "251502"
+    "Fazenda": "251502",
+    "Unnamed: 16": null
   },
   {
     "ID": "3547293",
@@ -27430,7 +28957,8 @@ const PARALELISMO_DATA = [
     "Frente": "143 - FRENTE CASSIO",
     "Responsável": "GABRIEL HENRIQUE MARTINS PEREIRA",
     "Paralelismo": "1.5",
-    "Fazenda": "251502"
+    "Fazenda": "251502",
+    "Unnamed: 16": null
   },
   {
     "ID": "3547287",
@@ -27448,7 +28976,8 @@ const PARALELISMO_DATA = [
     "Frente": "143 - FRENTE CASSIO",
     "Responsável": "GABRIEL HENRIQUE MARTINS PEREIRA",
     "Paralelismo": "1.5",
-    "Fazenda": "251502"
+    "Fazenda": "251502",
+    "Unnamed: 16": null
   },
   {
     "ID": "3547276",
@@ -27466,7 +28995,8 @@ const PARALELISMO_DATA = [
     "Frente": "143 - FRENTE CASSIO",
     "Responsável": "GABRIEL HENRIQUE MARTINS PEREIRA",
     "Paralelismo": "1.5",
-    "Fazenda": "251502"
+    "Fazenda": "251502",
+    "Unnamed: 16": null
   },
   {
     "ID": "3545050",
@@ -27484,7 +29014,8 @@ const PARALELISMO_DATA = [
     "Frente": "261 - FRENTE PRÓPRIA  (EDMILSON)",
     "Responsável": "VITOR AMORIM RAMOS ",
     "Paralelismo": "1.4",
-    "Fazenda": "234001"
+    "Fazenda": "234001",
+    "Unnamed: 16": null
   },
   {
     "ID": "3544768",
@@ -27502,7 +29033,8 @@ const PARALELISMO_DATA = [
     "Frente": "101 - FRENTE MECANIZADA",
     "Responsável": "FERNANDA DE SOUZA ",
     "Paralelismo": "1.42",
-    "Fazenda": "53201"
+    "Fazenda": "53201",
+    "Unnamed: 16": null
   },
   {
     "ID": "3544743",
@@ -27520,7 +29052,8 @@ const PARALELISMO_DATA = [
     "Frente": "101 - FRENTE MECANIZADA",
     "Responsável": "FERNANDA DE SOUZA ",
     "Paralelismo": "1.4",
-    "Fazenda": "53201"
+    "Fazenda": "53201",
+    "Unnamed: 16": null
   },
   {
     "ID": "3544849",
@@ -27538,7 +29071,8 @@ const PARALELISMO_DATA = [
     "Frente": "105 - FRENTE CASSIO",
     "Responsável": "NILDA CLAUDINO [2510716]",
     "Paralelismo": "1.5",
-    "Fazenda": "177007"
+    "Fazenda": "177007",
+    "Unnamed: 16": null
   },
   {
     "ID": "3544719",
@@ -27556,7 +29090,8 @@ const PARALELISMO_DATA = [
     "Frente": "101 - FRENTE MECANIZADA",
     "Responsável": "FERNANDA DE SOUZA ",
     "Paralelismo": "1.4",
-    "Fazenda": "53201"
+    "Fazenda": "53201",
+    "Unnamed: 16": null
   },
   {
     "ID": "3544845",
@@ -27574,7 +29109,8 @@ const PARALELISMO_DATA = [
     "Frente": "105 - FRENTE CASSIO",
     "Responsável": "NILDA CLAUDINO [2510716]",
     "Paralelismo": "1.5",
-    "Fazenda": "177007"
+    "Fazenda": "177007",
+    "Unnamed: 16": null
   },
   {
     "ID": "3544580",
@@ -27592,7 +29128,8 @@ const PARALELISMO_DATA = [
     "Frente": "139 - FRENTE MANEZÃO",
     "Responsável": "MICHELI DE SOUZA SANTOS  ",
     "Paralelismo": "1.51",
-    "Fazenda": "53201"
+    "Fazenda": "53201",
+    "Unnamed: 16": null
   },
   {
     "ID": "3544579",
@@ -27610,7 +29147,8 @@ const PARALELISMO_DATA = [
     "Frente": "139 - FRENTE MANEZÃO",
     "Responsável": "MICHELI DE SOUZA SANTOS  ",
     "Paralelismo": "1.48",
-    "Fazenda": "53201"
+    "Fazenda": "53201",
+    "Unnamed: 16": null
   },
   {
     "ID": "3544578",
@@ -27628,7 +29166,8 @@ const PARALELISMO_DATA = [
     "Frente": "139 - FRENTE MANEZÃO",
     "Responsável": "MICHELI DE SOUZA SANTOS  ",
     "Paralelismo": "1.5",
-    "Fazenda": "53201"
+    "Fazenda": "53201",
+    "Unnamed: 16": null
   },
   {
     "ID": "3544861",
@@ -27646,7 +29185,8 @@ const PARALELISMO_DATA = [
     "Frente": "105 - FRENTE CASSIO",
     "Responsável": "NILDA CLAUDINO [2510716]",
     "Paralelismo": "1.5",
-    "Fazenda": "177007"
+    "Fazenda": "177007",
+    "Unnamed: 16": null
   },
   {
     "ID": "3544320",
@@ -27664,7 +29204,8 @@ const PARALELISMO_DATA = [
     "Frente": "105 - FRENTE CASSIO",
     "Responsável": "REGINALDO DA SILVA GOMES ",
     "Paralelismo": "1.53",
-    "Fazenda": "177007"
+    "Fazenda": "177007",
+    "Unnamed: 16": null
   },
   {
     "ID": "3544857",
@@ -27682,7 +29223,8 @@ const PARALELISMO_DATA = [
     "Frente": "105 - FRENTE CASSIO",
     "Responsável": "NILDA CLAUDINO [2510716]",
     "Paralelismo": "1.5",
-    "Fazenda": "177007"
+    "Fazenda": "177007",
+    "Unnamed: 16": null
   },
   {
     "ID": "3544313",
@@ -27700,7 +29242,8 @@ const PARALELISMO_DATA = [
     "Frente": "105 - FRENTE CASSIO",
     "Responsável": "REGINALDO DA SILVA GOMES ",
     "Paralelismo": "1.5",
-    "Fazenda": "177007"
+    "Fazenda": "177007",
+    "Unnamed: 16": null
   },
   {
     "ID": "3544825",
@@ -27718,7 +29261,8 @@ const PARALELISMO_DATA = [
     "Frente": "105 - FRENTE CASSIO",
     "Responsável": "NILDA CLAUDINO [2510716]",
     "Paralelismo": "1.5",
-    "Fazenda": "177007"
+    "Fazenda": "177007",
+    "Unnamed: 16": null
   },
   {
     "ID": "3545020",
@@ -27736,7 +29280,8 @@ const PARALELISMO_DATA = [
     "Frente": "261 - FRENTE PRÓPRIA  (EDMILSON)",
     "Responsável": "VITOR AMORIM RAMOS ",
     "Paralelismo": "1.4",
-    "Fazenda": "234001"
+    "Fazenda": "234001",
+    "Unnamed: 16": null
   },
   {
     "ID": "3545015",
@@ -27754,7 +29299,8 @@ const PARALELISMO_DATA = [
     "Frente": "261 - FRENTE PRÓPRIA  (EDMILSON)",
     "Responsável": "VITOR AMORIM RAMOS ",
     "Paralelismo": "1.4",
-    "Fazenda": "234001"
+    "Fazenda": "234001",
+    "Unnamed: 16": null
   },
   {
     "ID": "3544429",
@@ -27772,7 +29318,8 @@ const PARALELISMO_DATA = [
     "Frente": "101 - FRENTE MECANIZADA",
     "Responsável": "FERNANDA DE SOUZA ",
     "Paralelismo": "1.4",
-    "Fazenda": "53201"
+    "Fazenda": "53201",
+    "Unnamed: 16": null
   },
   {
     "ID": "3545007",
@@ -27790,7 +29337,8 @@ const PARALELISMO_DATA = [
     "Frente": "261 - FRENTE PRÓPRIA  (EDMILSON)",
     "Responsável": "VITOR AMORIM RAMOS ",
     "Paralelismo": "1.4",
-    "Fazenda": "234001"
+    "Fazenda": "234001",
+    "Unnamed: 16": null
   },
   {
     "ID": "3544428",
@@ -27808,7 +29356,8 @@ const PARALELISMO_DATA = [
     "Frente": "101 - FRENTE MECANIZADA",
     "Responsável": "FERNANDA DE SOUZA ",
     "Paralelismo": "1.4",
-    "Fazenda": "53201"
+    "Fazenda": "53201",
+    "Unnamed: 16": null
   },
   {
     "ID": "3544426",
@@ -27826,7 +29375,8 @@ const PARALELISMO_DATA = [
     "Frente": "101 - FRENTE MECANIZADA",
     "Responsável": "FERNANDA DE SOUZA ",
     "Paralelismo": "1.4",
-    "Fazenda": "53201"
+    "Fazenda": "53201",
+    "Unnamed: 16": null
   },
   {
     "ID": "3544998",
@@ -27844,7 +29394,8 @@ const PARALELISMO_DATA = [
     "Frente": "261 - FRENTE PRÓPRIA  (EDMILSON)",
     "Responsável": "VITOR AMORIM RAMOS ",
     "Paralelismo": "1.4",
-    "Fazenda": "234001"
+    "Fazenda": "234001",
+    "Unnamed: 16": null
   },
   {
     "ID": "3544622",
@@ -27862,7 +29413,8 @@ const PARALELISMO_DATA = [
     "Frente": "143 - FRENTE CASSIO",
     "Responsável": "GABRIEL HENRIQUE MARTINS PEREIRA",
     "Paralelismo": "1.5",
-    "Fazenda": "251502"
+    "Fazenda": "251502",
+    "Unnamed: 16": null
   },
   {
     "ID": "3544993",
@@ -27880,7 +29432,8 @@ const PARALELISMO_DATA = [
     "Frente": "261 - FRENTE PRÓPRIA  (EDMILSON)",
     "Responsável": "VITOR AMORIM RAMOS ",
     "Paralelismo": "1.4",
-    "Fazenda": "234001"
+    "Fazenda": "234001",
+    "Unnamed: 16": null
   },
   {
     "ID": "3544913",
@@ -27898,7 +29451,8 @@ const PARALELISMO_DATA = [
     "Frente": "135 - PEDRINHO ",
     "Responsável": "MARCELO DE OLIVEIRA JUNIOR",
     "Paralelismo": "1.41",
-    "Fazenda": "53201"
+    "Fazenda": "53201",
+    "Unnamed: 16": null
   },
   {
     "ID": "3544277",
@@ -27916,7 +29470,8 @@ const PARALELISMO_DATA = [
     "Frente": "142 - FRENTE BIDU",
     "Responsável": "Leonardo Ribeiro Teixeira da Silva",
     "Paralelismo": "1.4",
-    "Fazenda": "197201"
+    "Fazenda": "197201",
+    "Unnamed: 16": null
   },
   {
     "ID": "3544617",
@@ -27934,7 +29489,8 @@ const PARALELISMO_DATA = [
     "Frente": "143 - FRENTE CASSIO",
     "Responsável": "GABRIEL HENRIQUE MARTINS PEREIRA",
     "Paralelismo": "1.5",
-    "Fazenda": "251502"
+    "Fazenda": "251502",
+    "Unnamed: 16": null
   },
   {
     "ID": "3544276",
@@ -27952,7 +29508,8 @@ const PARALELISMO_DATA = [
     "Frente": "142 - FRENTE BIDU",
     "Responsável": "Leonardo Ribeiro Teixeira da Silva",
     "Paralelismo": "1.4",
-    "Fazenda": "197201"
+    "Fazenda": "197201",
+    "Unnamed: 16": null
   },
   {
     "ID": "3544988",
@@ -27970,7 +29527,8 @@ const PARALELISMO_DATA = [
     "Frente": "261 - FRENTE PRÓPRIA  (EDMILSON)",
     "Responsável": "VITOR AMORIM RAMOS ",
     "Paralelismo": "1.41",
-    "Fazenda": "234001"
+    "Fazenda": "234001",
+    "Unnamed: 16": null
   },
   {
     "ID": "3544983",
@@ -27988,7 +29546,8 @@ const PARALELISMO_DATA = [
     "Frente": "261 - FRENTE PRÓPRIA  (EDMILSON)",
     "Responsável": "VITOR AMORIM RAMOS ",
     "Paralelismo": "1.4",
-    "Fazenda": "234001"
+    "Fazenda": "234001",
+    "Unnamed: 16": null
   },
   {
     "ID": "3544907",
@@ -28006,7 +29565,8 @@ const PARALELISMO_DATA = [
     "Frente": "135 - PEDRINHO ",
     "Responsável": "MARCELO DE OLIVEIRA JUNIOR",
     "Paralelismo": "1.4",
-    "Fazenda": "53201"
+    "Fazenda": "53201",
+    "Unnamed: 16": null
   },
   {
     "ID": "3544610",
@@ -28024,7 +29584,8 @@ const PARALELISMO_DATA = [
     "Frente": "143 - FRENTE CASSIO",
     "Responsável": "GABRIEL HENRIQUE MARTINS PEREIRA",
     "Paralelismo": "1.5",
-    "Fazenda": "251502"
+    "Fazenda": "251502",
+    "Unnamed: 16": null
   },
   {
     "ID": "3544903",
@@ -28042,7 +29603,8 @@ const PARALELISMO_DATA = [
     "Frente": "135 - PEDRINHO ",
     "Responsável": "MARCELO DE OLIVEIRA JUNIOR",
     "Paralelismo": "1.42",
-    "Fazenda": "53201"
+    "Fazenda": "53201",
+    "Unnamed: 16": null
   },
   {
     "ID": "3544978",
@@ -28060,7 +29622,8 @@ const PARALELISMO_DATA = [
     "Frente": "261 - FRENTE PRÓPRIA  (EDMILSON)",
     "Responsável": "VITOR AMORIM RAMOS ",
     "Paralelismo": "1.4",
-    "Fazenda": "234001"
+    "Fazenda": "234001",
+    "Unnamed: 16": null
   },
   {
     "ID": "3544603",
@@ -28078,7 +29641,8 @@ const PARALELISMO_DATA = [
     "Frente": "143 - FRENTE CASSIO",
     "Responsável": "GABRIEL HENRIQUE MARTINS PEREIRA",
     "Paralelismo": "1.5",
-    "Fazenda": "251502"
+    "Fazenda": "251502",
+    "Unnamed: 16": null
   },
   {
     "ID": "3544974",
@@ -28096,7 +29660,8 @@ const PARALELISMO_DATA = [
     "Frente": "261 - FRENTE PRÓPRIA  (EDMILSON)",
     "Responsável": "VITOR AMORIM RAMOS ",
     "Paralelismo": "1.4",
-    "Fazenda": "234001"
+    "Fazenda": "234001",
+    "Unnamed: 16": null
   },
   {
     "ID": "3542374",
@@ -28114,7 +29679,8 @@ const PARALELISMO_DATA = [
     "Frente": "139 - FRENTE MANEZÃO",
     "Responsável": "MICHELI DE SOUZA SANTOS  ",
     "Paralelismo": "1.5",
-    "Fazenda": "224701"
+    "Fazenda": "224701",
+    "Unnamed: 16": null
   },
   {
     "ID": "3542333",
@@ -28132,7 +29698,8 @@ const PARALELISMO_DATA = [
     "Frente": "105 - FRENTE CASSIO",
     "Responsável": "NILDA CLAUDINO [2510716]",
     "Paralelismo": "1.5",
-    "Fazenda": "177007"
+    "Fazenda": "177007",
+    "Unnamed: 16": null
   },
   {
     "ID": "3542328",
@@ -28150,7 +29717,8 @@ const PARALELISMO_DATA = [
     "Frente": "105 - FRENTE CASSIO",
     "Responsável": "NILDA CLAUDINO [2510716]",
     "Paralelismo": "1.5",
-    "Fazenda": "177007"
+    "Fazenda": "177007",
+    "Unnamed: 16": null
   },
   {
     "ID": "3542369",
@@ -28168,7 +29736,8 @@ const PARALELISMO_DATA = [
     "Frente": "139 - FRENTE MANEZÃO",
     "Responsável": "MABILA HELEN D FIGUEIREDO",
     "Paralelismo": "1.5",
-    "Fazenda": "224701"
+    "Fazenda": "224701",
+    "Unnamed: 16": null
   },
   {
     "ID": "3542360",
@@ -28186,7 +29755,8 @@ const PARALELISMO_DATA = [
     "Frente": "139 - FRENTE MANEZÃO",
     "Responsável": "MABILA HELEN D FIGUEIREDO",
     "Paralelismo": "1.5",
-    "Fazenda": "224701"
+    "Fazenda": "224701",
+    "Unnamed: 16": null
   },
   {
     "ID": "3542267",
@@ -28204,7 +29774,8 @@ const PARALELISMO_DATA = [
     "Frente": "135 - PEDRINHO ",
     "Responsável": "MARCELO DE OLIVEIRA JUNIOR",
     "Paralelismo": "1.4",
-    "Fazenda": "39101"
+    "Fazenda": "39101",
+    "Unnamed: 16": null
   },
   {
     "ID": "3542350",
@@ -28222,7 +29793,8 @@ const PARALELISMO_DATA = [
     "Frente": "139 - FRENTE MANEZÃO",
     "Responsável": "MABILA HELEN D FIGUEIREDO",
     "Paralelismo": "1.5",
-    "Fazenda": "224701"
+    "Fazenda": "224701",
+    "Unnamed: 16": null
   },
   {
     "ID": "3541915",
@@ -28240,7 +29812,8 @@ const PARALELISMO_DATA = [
     "Frente": "142 - FRENTE BIDU",
     "Responsável": "Leonardo Ribeiro Teixeira da Silva",
     "Paralelismo": "1.5",
-    "Fazenda": "143601"
+    "Fazenda": "143601",
+    "Unnamed: 16": null
   },
   {
     "ID": "3541914",
@@ -28258,7 +29831,8 @@ const PARALELISMO_DATA = [
     "Frente": "142 - FRENTE BIDU",
     "Responsável": "Leonardo Ribeiro Teixeira da Silva",
     "Paralelismo": "1.5",
-    "Fazenda": "143601"
+    "Fazenda": "143601",
+    "Unnamed: 16": null
   },
   {
     "ID": "3542262",
@@ -28276,7 +29850,8 @@ const PARALELISMO_DATA = [
     "Frente": "135 - PEDRINHO ",
     "Responsável": "MARCELO DE OLIVEIRA JUNIOR",
     "Paralelismo": "1.42",
-    "Fazenda": "39101"
+    "Fazenda": "39101",
+    "Unnamed: 16": null
   },
   {
     "ID": "3542257",
@@ -28294,7 +29869,8 @@ const PARALELISMO_DATA = [
     "Frente": "135 - PEDRINHO ",
     "Responsável": "MARCELO DE OLIVEIRA JUNIOR",
     "Paralelismo": "1.4",
-    "Fazenda": "39101"
+    "Fazenda": "39101",
+    "Unnamed: 16": null
   },
   {
     "ID": "3541902",
@@ -28312,7 +29888,8 @@ const PARALELISMO_DATA = [
     "Frente": "101 - FRENTE MECANIZADA",
     "Responsável": "FERNANDA DE SOUZA ",
     "Paralelismo": "1.4",
-    "Fazenda": "53201"
+    "Fazenda": "53201",
+    "Unnamed: 16": null
   },
   {
     "ID": "3541891",
@@ -28330,7 +29907,8 @@ const PARALELISMO_DATA = [
     "Frente": "101 - FRENTE MECANIZADA",
     "Responsável": "FERNANDA DE SOUZA ",
     "Paralelismo": "1.41",
-    "Fazenda": "53201"
+    "Fazenda": "53201",
+    "Unnamed: 16": null
   },
   {
     "ID": "3541886",
@@ -28348,7 +29926,8 @@ const PARALELISMO_DATA = [
     "Frente": "101 - FRENTE MECANIZADA",
     "Responsável": "FERNANDA DE SOUZA ",
     "Paralelismo": "1.4",
-    "Fazenda": "53201"
+    "Fazenda": "53201",
+    "Unnamed: 16": null
   },
   {
     "ID": "3542315",
@@ -28366,7 +29945,8 @@ const PARALELISMO_DATA = [
     "Frente": "105 - FRENTE CASSIO",
     "Responsável": "NILDA CLAUDINO [2510716]",
     "Paralelismo": "1.5",
-    "Fazenda": "151203"
+    "Fazenda": "151203",
+    "Unnamed: 16": null
   },
   {
     "ID": "3542309",
@@ -28384,7 +29964,8 @@ const PARALELISMO_DATA = [
     "Frente": "105 - FRENTE CASSIO",
     "Responsável": "NILDA CLAUDINO [2510716]",
     "Paralelismo": "1.5",
-    "Fazenda": "151203"
+    "Fazenda": "151203",
+    "Unnamed: 16": null
   },
   {
     "ID": "3542084",
@@ -28402,7 +29983,8 @@ const PARALELISMO_DATA = [
     "Frente": "143 - FRENTE CASSIO",
     "Responsável": "GABRIEL HENRIQUE MARTINS PEREIRA",
     "Paralelismo": "1.5",
-    "Fazenda": "237101"
+    "Fazenda": "237101",
+    "Unnamed: 16": null
   },
   {
     "ID": "3542080",
@@ -28420,7 +30002,8 @@ const PARALELISMO_DATA = [
     "Frente": "143 - FRENTE CASSIO",
     "Responsável": "GABRIEL HENRIQUE MARTINS PEREIRA",
     "Paralelismo": "1.5",
-    "Fazenda": "237101"
+    "Fazenda": "237101",
+    "Unnamed: 16": null
   },
   {
     "ID": "3542075",
@@ -28438,7 +30021,8 @@ const PARALELISMO_DATA = [
     "Frente": "143 - FRENTE CASSIO",
     "Responsável": "GABRIEL HENRIQUE MARTINS PEREIRA",
     "Paralelismo": "1.5",
-    "Fazenda": "237101"
+    "Fazenda": "237101",
+    "Unnamed: 16": null
   },
   {
     "ID": "3542070",
@@ -28456,7 +30040,8 @@ const PARALELISMO_DATA = [
     "Frente": "143 - FRENTE CASSIO",
     "Responsável": "GABRIEL HENRIQUE MARTINS PEREIRA",
     "Paralelismo": "1.5",
-    "Fazenda": "237101"
+    "Fazenda": "237101",
+    "Unnamed: 16": null
   },
   {
     "ID": "3540105",
@@ -28474,7 +30059,8 @@ const PARALELISMO_DATA = [
     "Frente": "105 - FRENTE CASSIO",
     "Responsável": "NILDA CLAUDINO [2510716]",
     "Paralelismo": "1.5",
-    "Fazenda": "151203"
+    "Fazenda": "151203",
+    "Unnamed: 16": null
   },
   {
     "ID": "3540223",
@@ -28492,7 +30078,8 @@ const PARALELISMO_DATA = [
     "Frente": "101 - FRENTE MECANIZADA",
     "Responsável": "FERNANDA DE SOUZA ",
     "Paralelismo": "1.41",
-    "Fazenda": "53201"
+    "Fazenda": "53201",
+    "Unnamed: 16": null
   },
   {
     "ID": "3540659",
@@ -28510,7 +30097,8 @@ const PARALELISMO_DATA = [
     "Frente": "261 - FRENTE PRÓPRIA  (EDMILSON)",
     "Responsável": "VITOR AMORIM RAMOS ",
     "Paralelismo": "1.39",
-    "Fazenda": "53401"
+    "Fazenda": "53401",
+    "Unnamed: 16": null
   },
   {
     "ID": "3540568",
@@ -28528,7 +30116,8 @@ const PARALELISMO_DATA = [
     "Frente": "261 - FRENTE PRÓPRIA  (EDMILSON)",
     "Responsável": "VITOR AMORIM RAMOS ",
     "Paralelismo": "1.4",
-    "Fazenda": "53401"
+    "Fazenda": "53401",
+    "Unnamed: 16": null
   },
   {
     "ID": "3540221",
@@ -28546,7 +30135,8 @@ const PARALELISMO_DATA = [
     "Frente": "101 - FRENTE MECANIZADA",
     "Responsável": "FERNANDA DE SOUZA ",
     "Paralelismo": "1.4",
-    "Fazenda": "53201"
+    "Fazenda": "53201",
+    "Unnamed: 16": null
   },
   {
     "ID": "3540101",
@@ -28564,7 +30154,8 @@ const PARALELISMO_DATA = [
     "Frente": "105 - FRENTE CASSIO",
     "Responsável": "NILDA CLAUDINO [2510716]",
     "Paralelismo": "1.5",
-    "Fazenda": "151203"
+    "Fazenda": "151203",
+    "Unnamed: 16": null
   },
   {
     "ID": "3540373",
@@ -28582,7 +30173,8 @@ const PARALELISMO_DATA = [
     "Frente": "261 - FRENTE PRÓPRIA  (EDMILSON)",
     "Responsável": "VITOR AMORIM RAMOS ",
     "Paralelismo": "1.4",
-    "Fazenda": "53401"
+    "Fazenda": "53401",
+    "Unnamed: 16": null
   },
   {
     "ID": "3540098",
@@ -28600,7 +30192,8 @@ const PARALELISMO_DATA = [
     "Frente": "105 - FRENTE CASSIO",
     "Responsável": "NILDA CLAUDINO [2510716]",
     "Paralelismo": "1.5",
-    "Fazenda": "151203"
+    "Fazenda": "151203",
+    "Unnamed: 16": null
   },
   {
     "ID": "3540285",
@@ -28618,7 +30211,8 @@ const PARALELISMO_DATA = [
     "Frente": "261 - FRENTE PRÓPRIA  (EDMILSON)",
     "Responsável": "VITOR AMORIM RAMOS ",
     "Paralelismo": "1.4",
-    "Fazenda": "53401"
+    "Fazenda": "53401",
+    "Unnamed: 16": null
   },
   {
     "ID": "3540093",
@@ -28636,7 +30230,8 @@ const PARALELISMO_DATA = [
     "Frente": "105 - FRENTE CASSIO",
     "Responsável": "NILDA CLAUDINO [2510716]",
     "Paralelismo": "1.5",
-    "Fazenda": "151203"
+    "Fazenda": "151203",
+    "Unnamed: 16": null
   },
   {
     "ID": "3540282",
@@ -28654,7 +30249,8 @@ const PARALELISMO_DATA = [
     "Frente": "261 - FRENTE PRÓPRIA  (EDMILSON)",
     "Responsável": "VITOR AMORIM RAMOS ",
     "Paralelismo": "1.4",
-    "Fazenda": "53401"
+    "Fazenda": "53401",
+    "Unnamed: 16": null
   },
   {
     "ID": "3540024",
@@ -28672,7 +30268,8 @@ const PARALELISMO_DATA = [
     "Frente": "139 - FRENTE MANEZÃO",
     "Responsável": "MICHELI DE SOUZA SANTOS  ",
     "Paralelismo": "1.5",
-    "Fazenda": "224905"
+    "Fazenda": "224905",
+    "Unnamed: 16": null
   },
   {
     "ID": "3540021",
@@ -28690,7 +30287,8 @@ const PARALELISMO_DATA = [
     "Frente": "139 - FRENTE MANEZÃO",
     "Responsável": "MICHELI DE SOUZA SANTOS  ",
     "Paralelismo": "1.5",
-    "Fazenda": "224905"
+    "Fazenda": "224905",
+    "Unnamed: 16": null
   },
   {
     "ID": "3540014",
@@ -28708,7 +30306,8 @@ const PARALELISMO_DATA = [
     "Frente": "139 - FRENTE MANEZÃO",
     "Responsável": "MICHELI DE SOUZA SANTOS  ",
     "Paralelismo": "1.5",
-    "Fazenda": "224905"
+    "Fazenda": "224905",
+    "Unnamed: 16": null
   },
   {
     "ID": "3540001",
@@ -28726,7 +30325,8 @@ const PARALELISMO_DATA = [
     "Frente": "142 - FRENTE BIDU",
     "Responsável": "MICHELI DE SOUZA SANTOS  ",
     "Paralelismo": "1.48",
-    "Fazenda": "224701"
+    "Fazenda": "224701",
+    "Unnamed: 16": null
   },
   {
     "ID": "3539994",
@@ -28744,7 +30344,8 @@ const PARALELISMO_DATA = [
     "Frente": "142 - FRENTE BIDU",
     "Responsável": "MICHELI DE SOUZA SANTOS  ",
     "Paralelismo": "1.5",
-    "Fazenda": "53201"
+    "Fazenda": "53201",
+    "Unnamed: 16": null
   },
   {
     "ID": "3539985",
@@ -28762,7 +30363,8 @@ const PARALELISMO_DATA = [
     "Frente": "142 - FRENTE BIDU",
     "Responsável": "MICHELI DE SOUZA SANTOS  ",
     "Paralelismo": "1.5",
-    "Fazenda": "224701"
+    "Fazenda": "224701",
+    "Unnamed: 16": null
   },
   {
     "ID": "3540210",
@@ -28780,7 +30382,8 @@ const PARALELISMO_DATA = [
     "Frente": "101 - FRENTE MECANIZADA",
     "Responsável": "FERNANDA DE SOUZA ",
     "Paralelismo": "1.4",
-    "Fazenda": "53201"
+    "Fazenda": "53201",
+    "Unnamed: 16": null
   },
   {
     "ID": "3540203",
@@ -28798,7 +30401,8 @@ const PARALELISMO_DATA = [
     "Frente": "101 - FRENTE MECANIZADA",
     "Responsável": "FERNANDA DE SOUZA ",
     "Paralelismo": "1.4",
-    "Fazenda": "53201"
+    "Fazenda": "53201",
+    "Unnamed: 16": null
   },
   {
     "ID": "3539584",
@@ -28816,7 +30420,8 @@ const PARALELISMO_DATA = [
     "Frente": "261 - FRENTE PRÓPRIA  (EDMILSON)",
     "Responsável": "VITOR AMORIM RAMOS ",
     "Paralelismo": "1.4",
-    "Fazenda": "53401"
+    "Fazenda": "53401",
+    "Unnamed: 16": null
   },
   {
     "ID": "3540197",
@@ -28834,7 +30439,8 @@ const PARALELISMO_DATA = [
     "Frente": "101 - FRENTE MECANIZADA",
     "Responsável": "FERNANDA DE SOUZA ",
     "Paralelismo": "1.4",
-    "Fazenda": "53201"
+    "Fazenda": "53201",
+    "Unnamed: 16": null
   },
   {
     "ID": "3539579",
@@ -28852,7 +30458,8 @@ const PARALELISMO_DATA = [
     "Frente": "261 - FRENTE PRÓPRIA  (EDMILSON)",
     "Responsável": "VITOR AMORIM RAMOS ",
     "Paralelismo": "1.4",
-    "Fazenda": "53401"
+    "Fazenda": "53401",
+    "Unnamed: 16": null
   },
   {
     "ID": "3539381",
@@ -28870,7 +30477,8 @@ const PARALELISMO_DATA = [
     "Frente": "143 - FRENTE CASSIO",
     "Responsável": "GABRIEL HENRIQUE MARTINS PEREIRA",
     "Paralelismo": "1.5",
-    "Fazenda": "237101"
+    "Fazenda": "237101",
+    "Unnamed: 16": null
   },
   {
     "ID": "3539574",
@@ -28888,7 +30496,8 @@ const PARALELISMO_DATA = [
     "Frente": "261 - FRENTE PRÓPRIA  (EDMILSON)",
     "Responsável": "VITOR AMORIM RAMOS ",
     "Paralelismo": "1.4",
-    "Fazenda": "53401"
+    "Fazenda": "53401",
+    "Unnamed: 16": null
   },
   {
     "ID": "3539376",
@@ -28906,7 +30515,8 @@ const PARALELISMO_DATA = [
     "Frente": "143 - FRENTE CASSIO",
     "Responsável": "GABRIEL HENRIQUE MARTINS PEREIRA",
     "Paralelismo": "1.5",
-    "Fazenda": "237101"
+    "Fazenda": "237101",
+    "Unnamed: 16": null
   },
   {
     "ID": "3539567",
@@ -28924,7 +30534,8 @@ const PARALELISMO_DATA = [
     "Frente": "261 - FRENTE PRÓPRIA  (EDMILSON)",
     "Responsável": "VITOR AMORIM RAMOS ",
     "Paralelismo": "1.4",
-    "Fazenda": "53401"
+    "Fazenda": "53401",
+    "Unnamed: 16": null
   },
   {
     "ID": "3539558",
@@ -28942,7 +30553,8 @@ const PARALELISMO_DATA = [
     "Frente": "261 - FRENTE PRÓPRIA  (EDMILSON)",
     "Responsável": "VITOR AMORIM RAMOS ",
     "Paralelismo": "1.4",
-    "Fazenda": "53401"
+    "Fazenda": "53401",
+    "Unnamed: 16": null
   },
   {
     "ID": "3539370",
@@ -28960,7 +30572,8 @@ const PARALELISMO_DATA = [
     "Frente": "143 - FRENTE CASSIO",
     "Responsável": "GABRIEL HENRIQUE MARTINS PEREIRA",
     "Paralelismo": "1.5",
-    "Fazenda": "237101"
+    "Fazenda": "237101",
+    "Unnamed: 16": null
   },
   {
     "ID": "3540767",
@@ -28978,7 +30591,8 @@ const PARALELISMO_DATA = [
     "Frente": "135 - PEDRINHO ",
     "Responsável": "MARCELO DE OLIVEIRA JUNIOR",
     "Paralelismo": "1.54",
-    "Fazenda": "179002"
+    "Fazenda": "179002",
+    "Unnamed: 16": null
   },
   {
     "ID": "3539553",
@@ -28996,7 +30610,8 @@ const PARALELISMO_DATA = [
     "Frente": "261 - FRENTE PRÓPRIA  (EDMILSON)",
     "Responsável": "VITOR AMORIM RAMOS ",
     "Paralelismo": "1.4",
-    "Fazenda": "53401"
+    "Fazenda": "53401",
+    "Unnamed: 16": null
   },
   {
     "ID": "3539365",
@@ -29014,7 +30629,8 @@ const PARALELISMO_DATA = [
     "Frente": "143 - FRENTE CASSIO",
     "Responsável": "GABRIEL HENRIQUE MARTINS PEREIRA",
     "Paralelismo": "1.5",
-    "Fazenda": "237101"
+    "Fazenda": "237101",
+    "Unnamed: 16": null
   },
   {
     "ID": "3540763",
@@ -29032,7 +30648,8 @@ const PARALELISMO_DATA = [
     "Frente": "135 - PEDRINHO ",
     "Responsável": "MARCELO DE OLIVEIRA JUNIOR",
     "Paralelismo": "1.51",
-    "Fazenda": "179002"
+    "Fazenda": "179002",
+    "Unnamed: 16": null
   },
   {
     "ID": "3539548",
@@ -29050,7 +30667,8 @@ const PARALELISMO_DATA = [
     "Frente": "261 - FRENTE PRÓPRIA  (EDMILSON)",
     "Responsável": "VITOR AMORIM RAMOS ",
     "Paralelismo": "1.4",
-    "Fazenda": "53401"
+    "Fazenda": "53401",
+    "Unnamed: 16": null
   },
   {
     "ID": "3540757",
@@ -29068,7 +30686,8 @@ const PARALELISMO_DATA = [
     "Frente": "135 - PEDRINHO ",
     "Responsável": "MARCELO DE OLIVEIRA JUNIOR",
     "Paralelismo": "1.52",
-    "Fazenda": "179002"
+    "Fazenda": "179002",
+    "Unnamed: 16": null
   },
   {
     "ID": "3539544",
@@ -29086,7 +30705,8 @@ const PARALELISMO_DATA = [
     "Frente": "261 - FRENTE PRÓPRIA  (EDMILSON)",
     "Responsável": "VITOR AMORIM RAMOS ",
     "Paralelismo": "1.4",
-    "Fazenda": "53401"
+    "Fazenda": "53401",
+    "Unnamed: 16": null
   },
   {
     "ID": "3540751",
@@ -29104,7 +30724,8 @@ const PARALELISMO_DATA = [
     "Frente": "135 - PEDRINHO ",
     "Responsável": "MARCELO DE OLIVEIRA JUNIOR",
     "Paralelismo": "1.5",
-    "Fazenda": "179002"
+    "Fazenda": "179002",
+    "Unnamed: 16": null
   },
   {
     "ID": "3539611",
@@ -29122,7 +30743,8 @@ const PARALELISMO_DATA = [
     "Frente": "261 - FRENTE PRÓPRIA  (EDMILSON)",
     "Responsável": "VITOR AMORIM RAMOS ",
     "Paralelismo": "1.4",
-    "Fazenda": "53401"
+    "Fazenda": "53401",
+    "Unnamed: 16": null
   },
   {
     "ID": "3539513",
@@ -29140,7 +30762,8 @@ const PARALELISMO_DATA = [
     "Frente": "261 - FRENTE PRÓPRIA  (EDMILSON)",
     "Responsável": "VITOR AMORIM RAMOS ",
     "Paralelismo": "1.4",
-    "Fazenda": "53401"
+    "Fazenda": "53401",
+    "Unnamed: 16": null
   },
   {
     "ID": "3538039",
@@ -29158,7 +30781,8 @@ const PARALELISMO_DATA = [
     "Frente": "261 - FRENTE PRÓPRIA  (EDMILSON)",
     "Responsável": "VITOR AMORIM RAMOS ",
     "Paralelismo": "1.4",
-    "Fazenda": "53401"
+    "Fazenda": "53401",
+    "Unnamed: 16": null
   },
   {
     "ID": "3537605",
@@ -29176,7 +30800,8 @@ const PARALELISMO_DATA = [
     "Frente": "105 - FRENTE CASSIO",
     "Responsável": "NILDA CLAUDINO [2510716]",
     "Paralelismo": "1.5",
-    "Fazenda": "177011"
+    "Fazenda": "177011",
+    "Unnamed: 16": null
   },
   {
     "ID": "3537982",
@@ -29194,7 +30819,8 @@ const PARALELISMO_DATA = [
     "Frente": "261 - FRENTE PRÓPRIA  (EDMILSON)",
     "Responsável": "VITOR AMORIM RAMOS ",
     "Paralelismo": "1.4",
-    "Fazenda": "53401"
+    "Fazenda": "53401",
+    "Unnamed: 16": null
   },
   {
     "ID": "3537597",
@@ -29212,7 +30838,8 @@ const PARALELISMO_DATA = [
     "Frente": "105 - FRENTE CASSIO",
     "Responsável": "NILDA CLAUDINO [2510716]",
     "Paralelismo": "1.5",
-    "Fazenda": "177011"
+    "Fazenda": "177011",
+    "Unnamed: 16": null
   },
   {
     "ID": "3538826",
@@ -29230,7 +30857,8 @@ const PARALELISMO_DATA = [
     "Frente": "142 - FRENTE BIDU",
     "Responsável": "MICHELI DE SOUZA SANTOS  ",
     "Paralelismo": "1.5",
-    "Fazenda": "224701"
+    "Fazenda": "224701",
+    "Unnamed: 16": null
   },
   {
     "ID": "3537962",
@@ -29248,7 +30876,8 @@ const PARALELISMO_DATA = [
     "Frente": "261 - FRENTE PRÓPRIA  (EDMILSON)",
     "Responsável": "VITOR AMORIM RAMOS ",
     "Paralelismo": "1.4",
-    "Fazenda": "53401"
+    "Fazenda": "53401",
+    "Unnamed: 16": null
   },
   {
     "ID": "3538824",
@@ -29266,7 +30895,8 @@ const PARALELISMO_DATA = [
     "Frente": "142 - FRENTE BIDU",
     "Responsável": "MICHELI DE SOUZA SANTOS  ",
     "Paralelismo": "1.53",
-    "Fazenda": "224701"
+    "Fazenda": "224701",
+    "Unnamed: 16": null
   },
   {
     "ID": "3537931",
@@ -29284,7 +30914,8 @@ const PARALELISMO_DATA = [
     "Frente": "261 - FRENTE PRÓPRIA  (EDMILSON)",
     "Responsável": "VITOR AMORIM RAMOS ",
     "Paralelismo": "1.4",
-    "Fazenda": "53401"
+    "Fazenda": "53401",
+    "Unnamed: 16": null
   },
   {
     "ID": "3538818",
@@ -29302,7 +30933,8 @@ const PARALELISMO_DATA = [
     "Frente": "142 - FRENTE BIDU",
     "Responsável": "MICHELI DE SOUZA SANTOS  ",
     "Paralelismo": "1.5",
-    "Fazenda": "224701"
+    "Fazenda": "224701",
+    "Unnamed: 16": null
   },
   {
     "ID": "3537592",
@@ -29320,7 +30952,8 @@ const PARALELISMO_DATA = [
     "Frente": "105 - FRENTE CASSIO",
     "Responsável": "NILDA CLAUDINO [2510716]",
     "Paralelismo": "1.5",
-    "Fazenda": "177011"
+    "Fazenda": "177011",
+    "Unnamed: 16": null
   },
   {
     "ID": "3537911",
@@ -29338,7 +30971,8 @@ const PARALELISMO_DATA = [
     "Frente": "261 - FRENTE PRÓPRIA  (EDMILSON)",
     "Responsável": "VITOR AMORIM RAMOS ",
     "Paralelismo": "1.4",
-    "Fazenda": "53401"
+    "Fazenda": "53401",
+    "Unnamed: 16": null
   },
   {
     "ID": "3537851",
@@ -29356,7 +30990,8 @@ const PARALELISMO_DATA = [
     "Frente": "101 - FRENTE MECANIZADA",
     "Responsável": "FERNANDA DE SOUZA ",
     "Paralelismo": "1.4",
-    "Fazenda": "53201"
+    "Fazenda": "53201",
+    "Unnamed: 16": null
   },
   {
     "ID": "3537906",
@@ -29374,7 +31009,8 @@ const PARALELISMO_DATA = [
     "Frente": "261 - FRENTE PRÓPRIA  (EDMILSON)",
     "Responsável": "VITOR AMORIM RAMOS ",
     "Paralelismo": "1.4",
-    "Fazenda": "53401"
+    "Fazenda": "53401",
+    "Unnamed: 16": null
   },
   {
     "ID": "3538811",
@@ -29392,7 +31028,8 @@ const PARALELISMO_DATA = [
     "Frente": "139 - FRENTE MANEZÃO",
     "Responsável": "MABILA HELEN D FIGUEIREDO",
     "Paralelismo": "1.5",
-    "Fazenda": "224905"
+    "Fazenda": "224905",
+    "Unnamed: 16": null
   },
   {
     "ID": "3537895",
@@ -29410,7 +31047,8 @@ const PARALELISMO_DATA = [
     "Frente": "261 - FRENTE PRÓPRIA  (EDMILSON)",
     "Responsável": "VITOR AMORIM RAMOS ",
     "Paralelismo": "1.4",
-    "Fazenda": "53401"
+    "Fazenda": "53401",
+    "Unnamed: 16": null
   },
   {
     "ID": "3538851",
@@ -29428,7 +31066,8 @@ const PARALELISMO_DATA = [
     "Frente": "139 - FRENTE MANEZÃO",
     "Responsável": "MABILA HELEN D FIGUEIREDO",
     "Paralelismo": "1.5",
-    "Fazenda": "224905"
+    "Fazenda": "224905",
+    "Unnamed: 16": null
   },
   {
     "ID": "3537887",
@@ -29446,7 +31085,8 @@ const PARALELISMO_DATA = [
     "Frente": "261 - FRENTE PRÓPRIA  (EDMILSON)",
     "Responsável": "VITOR AMORIM RAMOS ",
     "Paralelismo": "1.4",
-    "Fazenda": "53401"
+    "Fazenda": "53401",
+    "Unnamed: 16": null
   },
   {
     "ID": "3537766",
@@ -29464,7 +31104,8 @@ const PARALELISMO_DATA = [
     "Frente": "139 - FRENTE MANEZÃO",
     "Responsável": "MABILA HELEN D FIGUEIREDO",
     "Paralelismo": "1.5",
-    "Fazenda": "224905"
+    "Fazenda": "224905",
+    "Unnamed: 16": null
   },
   {
     "ID": "3537873",
@@ -29482,7 +31123,8 @@ const PARALELISMO_DATA = [
     "Frente": "261 - FRENTE PRÓPRIA  (EDMILSON)",
     "Responsável": "VITOR AMORIM RAMOS ",
     "Paralelismo": "1.4",
-    "Fazenda": "53401"
+    "Fazenda": "53401",
+    "Unnamed: 16": null
   },
   {
     "ID": "3537498",
@@ -29500,7 +31142,8 @@ const PARALELISMO_DATA = [
     "Frente": "143 - FRENTE CASSIO",
     "Responsável": "EDILIANA CARDOSO DA COSTA",
     "Paralelismo": "1.5",
-    "Fazenda": "237101"
+    "Fazenda": "237101",
+    "Unnamed: 16": null
   },
   {
     "ID": "3537812",
@@ -29518,7 +31161,8 @@ const PARALELISMO_DATA = [
     "Frente": "101 - FRENTE MECANIZADA",
     "Responsável": "FERNANDA DE SOUZA ",
     "Paralelismo": "1.4",
-    "Fazenda": "53201"
+    "Fazenda": "53201",
+    "Unnamed: 16": null
   },
   {
     "ID": "3537276",
@@ -29536,7 +31180,8 @@ const PARALELISMO_DATA = [
     "Frente": "105 - FRENTE CASSIO",
     "Responsável": "NILDA CLAUDINO [2510716]",
     "Paralelismo": "1.5",
-    "Fazenda": "177003"
+    "Fazenda": "177003",
+    "Unnamed: 16": null
   },
   {
     "ID": "3537272",
@@ -29554,7 +31199,8 @@ const PARALELISMO_DATA = [
     "Frente": "105 - FRENTE CASSIO",
     "Responsável": "NILDA CLAUDINO [2510716]",
     "Paralelismo": "1.5",
-    "Fazenda": "177003"
+    "Fazenda": "177003",
+    "Unnamed: 16": null
   },
   {
     "ID": "3537247",
@@ -29572,7 +31218,8 @@ const PARALELISMO_DATA = [
     "Frente": "135 - PEDRINHO ",
     "Responsável": "MARCELO DE OLIVEIRA JUNIOR",
     "Paralelismo": "1.52",
-    "Fazenda": "179002"
+    "Fazenda": "179002",
+    "Unnamed: 16": null
   },
   {
     "ID": "3537267",
@@ -29590,7 +31237,8 @@ const PARALELISMO_DATA = [
     "Frente": "105 - FRENTE CASSIO",
     "Responsável": "NILDA CLAUDINO [2510716]",
     "Paralelismo": "1.5",
-    "Fazenda": "177003"
+    "Fazenda": "177003",
+    "Unnamed: 16": null
   },
   {
     "ID": "3537242",
@@ -29608,7 +31256,8 @@ const PARALELISMO_DATA = [
     "Frente": "135 - PEDRINHO ",
     "Responsável": "MARCELO DE OLIVEIRA JUNIOR",
     "Paralelismo": "1.51",
-    "Fazenda": "179002"
+    "Fazenda": "179002",
+    "Unnamed: 16": null
   },
   {
     "ID": "3537259",
@@ -29626,7 +31275,8 @@ const PARALELISMO_DATA = [
     "Frente": "105 - FRENTE CASSIO",
     "Responsável": "NILDA CLAUDINO [2510716]",
     "Paralelismo": "1.5",
-    "Fazenda": "177003"
+    "Fazenda": "177003",
+    "Unnamed: 16": null
   },
   {
     "ID": "3537255",
@@ -29644,7 +31294,8 @@ const PARALELISMO_DATA = [
     "Frente": "105 - FRENTE CASSIO",
     "Responsável": "NILDA CLAUDINO [2510716]",
     "Paralelismo": "1.5",
-    "Fazenda": "177003"
+    "Fazenda": "177003",
+    "Unnamed: 16": null
   },
   {
     "ID": "3537236",
@@ -29662,7 +31313,8 @@ const PARALELISMO_DATA = [
     "Frente": "135 - PEDRINHO ",
     "Responsável": "MARCELO DE OLIVEIRA JUNIOR",
     "Paralelismo": "1.53",
-    "Fazenda": "179002"
+    "Fazenda": "179002",
+    "Unnamed: 16": null
   },
   {
     "ID": "3537796",
@@ -29680,7 +31332,8 @@ const PARALELISMO_DATA = [
     "Frente": "101 - FRENTE MECANIZADA",
     "Responsável": "FERNANDA DE SOUZA ",
     "Paralelismo": "1.4",
-    "Fazenda": "53201"
+    "Fazenda": "53201",
+    "Unnamed: 16": null
   },
   {
     "ID": "3537795",
@@ -29698,7 +31351,8 @@ const PARALELISMO_DATA = [
     "Frente": "101 - FRENTE MECANIZADA",
     "Responsável": "FERNANDA DE SOUZA ",
     "Paralelismo": "1.4",
-    "Fazenda": "53201"
+    "Fazenda": "53201",
+    "Unnamed: 16": null
   },
   {
     "ID": "3537231",
@@ -29716,7 +31370,8 @@ const PARALELISMO_DATA = [
     "Frente": "135 - PEDRINHO ",
     "Responsável": "MARCELO DE OLIVEIRA JUNIOR",
     "Paralelismo": "1.51",
-    "Fazenda": "179002"
+    "Fazenda": "179002",
+    "Unnamed: 16": null
   },
   {
     "ID": "3537226",
@@ -29734,7 +31389,8 @@ const PARALELISMO_DATA = [
     "Frente": "135 - PEDRINHO ",
     "Responsável": "MARCELO DE OLIVEIRA JUNIOR",
     "Paralelismo": "1.5",
-    "Fazenda": "179002"
+    "Fazenda": "179002",
+    "Unnamed: 16": null
   },
   {
     "ID": "3537221",
@@ -29752,7 +31408,8 @@ const PARALELISMO_DATA = [
     "Frente": "135 - PEDRINHO ",
     "Responsável": "MARCELO DE OLIVEIRA JUNIOR",
     "Paralelismo": "1.54",
-    "Fazenda": "179002"
+    "Fazenda": "179002",
+    "Unnamed: 16": null
   },
   {
     "ID": "3535668",
@@ -29770,7 +31427,8 @@ const PARALELISMO_DATA = [
     "Frente": "105 - FRENTE CASSIO",
     "Responsável": "NILDA CLAUDINO [2510716]",
     "Paralelismo": "1.5",
-    "Fazenda": "177003"
+    "Fazenda": "177003",
+    "Unnamed: 16": null
   },
   {
     "ID": "3535664",
@@ -29788,7 +31446,8 @@ const PARALELISMO_DATA = [
     "Frente": "105 - FRENTE CASSIO",
     "Responsável": "NILDA CLAUDINO [2510716]",
     "Paralelismo": "1.5",
-    "Fazenda": "177003"
+    "Fazenda": "177003",
+    "Unnamed: 16": null
   },
   {
     "ID": "3536048",
@@ -29806,7 +31465,8 @@ const PARALELISMO_DATA = [
     "Frente": "135 - PEDRINHO ",
     "Responsável": "MARCELO DE OLIVEIRA JUNIOR",
     "Paralelismo": "1.5",
-    "Fazenda": "179002"
+    "Fazenda": "179002",
+    "Unnamed: 16": null
   },
   {
     "ID": "3536042",
@@ -29824,7 +31484,8 @@ const PARALELISMO_DATA = [
     "Frente": "135 - PEDRINHO ",
     "Responsável": "MARCELO DE OLIVEIRA JUNIOR",
     "Paralelismo": "1.53",
-    "Fazenda": "179002"
+    "Fazenda": "179002",
+    "Unnamed: 16": null
   },
   {
     "ID": "3535659",
@@ -29842,7 +31503,8 @@ const PARALELISMO_DATA = [
     "Frente": "105 - FRENTE CASSIO",
     "Responsável": "NILDA CLAUDINO [2510716]",
     "Paralelismo": "1.5",
-    "Fazenda": "177003"
+    "Fazenda": "177003",
+    "Unnamed: 16": null
   },
   {
     "ID": "3536034",
@@ -29860,7 +31522,8 @@ const PARALELISMO_DATA = [
     "Frente": "135 - PEDRINHO ",
     "Responsável": "MARCELO DE OLIVEIRA JUNIOR",
     "Paralelismo": "1.52",
-    "Fazenda": "179002"
+    "Fazenda": "179002",
+    "Unnamed: 16": null
   },
   {
     "ID": "3535674",
@@ -29878,7 +31541,8 @@ const PARALELISMO_DATA = [
     "Frente": "143 - FRENTE CASSIO",
     "Responsável": "GABRIEL HENRIQUE MARTINS PEREIRA",
     "Paralelismo": "1.5",
-    "Fazenda": "142803"
+    "Fazenda": "142803",
+    "Unnamed: 16": null
   },
   {
     "ID": "3536026",
@@ -29896,7 +31560,8 @@ const PARALELISMO_DATA = [
     "Frente": "135 - PEDRINHO ",
     "Responsável": "MARCELO DE OLIVEIRA JUNIOR",
     "Paralelismo": "1.54",
-    "Fazenda": "179002"
+    "Fazenda": "179002",
+    "Unnamed: 16": null
   },
   {
     "ID": "3535653",
@@ -29914,7 +31579,8 @@ const PARALELISMO_DATA = [
     "Frente": "143 - FRENTE CASSIO",
     "Responsável": "GABRIEL HENRIQUE MARTINS PEREIRA",
     "Paralelismo": "1.5",
-    "Fazenda": "142803"
+    "Fazenda": "142803",
+    "Unnamed: 16": null
   },
   {
     "ID": "3536020",
@@ -29932,7 +31598,8 @@ const PARALELISMO_DATA = [
     "Frente": "135 - PEDRINHO ",
     "Responsável": "MARCELO DE OLIVEIRA JUNIOR",
     "Paralelismo": "1.53",
-    "Fazenda": "179002"
+    "Fazenda": "179002",
+    "Unnamed: 16": null
   },
   {
     "ID": "3536013",
@@ -29950,7 +31617,8 @@ const PARALELISMO_DATA = [
     "Frente": "135 - PEDRINHO ",
     "Responsável": "MARCELO DE OLIVEIRA JUNIOR",
     "Paralelismo": "1.51",
-    "Fazenda": "179002"
+    "Fazenda": "179002",
+    "Unnamed: 16": null
   },
   {
     "ID": "3535648",
@@ -29968,7 +31636,8 @@ const PARALELISMO_DATA = [
     "Frente": "143 - FRENTE CASSIO",
     "Responsável": "GABRIEL HENRIQUE MARTINS PEREIRA",
     "Paralelismo": "1.5",
-    "Fazenda": "142803"
+    "Fazenda": "142803",
+    "Unnamed: 16": null
   },
   {
     "ID": "3537137",
@@ -29986,7 +31655,8 @@ const PARALELISMO_DATA = [
     "Frente": "261 - FRENTE PRÓPRIA  (EDMILSON)",
     "Responsável": "VITOR AMORIM RAMOS ",
     "Paralelismo": "1.4",
-    "Fazenda": "53201"
+    "Fazenda": "53201",
+    "Unnamed: 16": null
   },
   {
     "ID": "3537132",
@@ -30004,7 +31674,8 @@ const PARALELISMO_DATA = [
     "Frente": "261 - FRENTE PRÓPRIA  (EDMILSON)",
     "Responsável": "VITOR AMORIM RAMOS ",
     "Paralelismo": "1.4",
-    "Fazenda": "53201"
+    "Fazenda": "53201",
+    "Unnamed: 16": null
   },
   {
     "ID": "3537128",
@@ -30022,7 +31693,8 @@ const PARALELISMO_DATA = [
     "Frente": "261 - FRENTE PRÓPRIA  (EDMILSON)",
     "Responsável": "VITOR AMORIM RAMOS ",
     "Paralelismo": "1.4",
-    "Fazenda": "53201"
+    "Fazenda": "53201",
+    "Unnamed: 16": null
   },
   {
     "ID": "3537102",
@@ -30040,7 +31712,8 @@ const PARALELISMO_DATA = [
     "Frente": "261 - FRENTE PRÓPRIA  (EDMILSON)",
     "Responsável": "VITOR AMORIM RAMOS ",
     "Paralelismo": "1.4",
-    "Fazenda": "53201"
+    "Fazenda": "53201",
+    "Unnamed: 16": null
   },
   {
     "ID": "3537101",
@@ -30058,7 +31731,8 @@ const PARALELISMO_DATA = [
     "Frente": "261 - FRENTE PRÓPRIA  (EDMILSON)",
     "Responsável": "VITOR AMORIM RAMOS ",
     "Paralelismo": "1.4",
-    "Fazenda": "53201"
+    "Fazenda": "53201",
+    "Unnamed: 16": null
   },
   {
     "ID": "3537100",
@@ -30076,7 +31750,8 @@ const PARALELISMO_DATA = [
     "Frente": "261 - FRENTE PRÓPRIA  (EDMILSON)",
     "Responsável": "VITOR AMORIM RAMOS ",
     "Paralelismo": "1.4",
-    "Fazenda": "53201"
+    "Fazenda": "53201",
+    "Unnamed: 16": null
   },
   {
     "ID": "3535397",
@@ -30094,7 +31769,8 @@ const PARALELISMO_DATA = [
     "Frente": "261 - FRENTE PRÓPRIA  (EDMILSON)",
     "Responsável": "VITOR AMORIM RAMOS ",
     "Paralelismo": "1.4",
-    "Fazenda": "53201"
+    "Fazenda": "53201",
+    "Unnamed: 16": null
   },
   {
     "ID": "3537088",
@@ -30112,7 +31788,8 @@ const PARALELISMO_DATA = [
     "Frente": "261 - FRENTE PRÓPRIA  (EDMILSON)",
     "Responsável": "VITOR AMORIM RAMOS ",
     "Paralelismo": "1.4",
-    "Fazenda": "53201"
+    "Fazenda": "53201",
+    "Unnamed: 16": null
   },
   {
     "ID": "3535388",
@@ -30130,7 +31807,8 @@ const PARALELISMO_DATA = [
     "Frente": "261 - FRENTE PRÓPRIA  (EDMILSON)",
     "Responsável": "VITOR AMORIM RAMOS ",
     "Paralelismo": "1.4",
-    "Fazenda": "53201"
+    "Fazenda": "53201",
+    "Unnamed: 16": null
   },
   {
     "ID": "3535383",
@@ -30148,7 +31826,8 @@ const PARALELISMO_DATA = [
     "Frente": "261 - FRENTE PRÓPRIA  (EDMILSON)",
     "Responsável": "VITOR AMORIM RAMOS ",
     "Paralelismo": "1.4",
-    "Fazenda": "53201"
+    "Fazenda": "53201",
+    "Unnamed: 16": null
   },
   {
     "ID": "3534252",
@@ -30166,7 +31845,8 @@ const PARALELISMO_DATA = [
     "Frente": "101 - FRENTE MECANIZADA",
     "Responsável": "FERNANDA DE SOUZA ",
     "Paralelismo": "1.4",
-    "Fazenda": "39001"
+    "Fazenda": "39001",
+    "Unnamed: 16": null
   },
   {
     "ID": "3534448",
@@ -30184,7 +31864,8 @@ const PARALELISMO_DATA = [
     "Frente": "135 - PEDRINHO ",
     "Responsável": "MARCELO DE OLIVEIRA JUNIOR",
     "Paralelismo": "1.53",
-    "Fazenda": "184501"
+    "Fazenda": "184501",
+    "Unnamed: 16": null
   },
   {
     "ID": "3534273",
@@ -30202,7 +31883,8 @@ const PARALELISMO_DATA = [
     "Frente": "135 - PEDRINHO ",
     "Responsável": "MARCELO DE OLIVEIRA JUNIOR",
     "Paralelismo": "1.55",
-    "Fazenda": "184501"
+    "Fazenda": "184501",
+    "Unnamed: 16": null
   },
   {
     "ID": "3534259",
@@ -30220,7 +31902,8 @@ const PARALELISMO_DATA = [
     "Frente": "135 - PEDRINHO ",
     "Responsável": "MARCELO DE OLIVEIRA JUNIOR",
     "Paralelismo": "1.52",
-    "Fazenda": "184501"
+    "Fazenda": "184501",
+    "Unnamed: 16": null
   },
   {
     "ID": "3534122",
@@ -30238,7 +31921,8 @@ const PARALELISMO_DATA = [
     "Frente": "101 - FRENTE MECANIZADA",
     "Responsável": "FERNANDA DE SOUZA ",
     "Paralelismo": "1.4",
-    "Fazenda": "39001"
+    "Fazenda": "39001",
+    "Unnamed: 16": null
   },
   {
     "ID": "3534209",
@@ -30256,7 +31940,8 @@ const PARALELISMO_DATA = [
     "Frente": "105 - FRENTE CASSIO",
     "Responsável": "NILDA CLAUDINO [2510716]",
     "Paralelismo": "1.4",
-    "Fazenda": "53201"
+    "Fazenda": "53201",
+    "Unnamed: 16": null
   },
   {
     "ID": "3534242",
@@ -30274,7 +31959,8 @@ const PARALELISMO_DATA = [
     "Frente": "261 - FRENTE PRÓPRIA  (EDMILSON)",
     "Responsável": "VITOR AMORIM RAMOS ",
     "Paralelismo": "1.4",
-    "Fazenda": "39001"
+    "Fazenda": "39001",
+    "Unnamed: 16": null
   },
   {
     "ID": "3534116",
@@ -30292,7 +31978,8 @@ const PARALELISMO_DATA = [
     "Frente": "101 - FRENTE MECANIZADA",
     "Responsável": "FERNANDA DE SOUZA ",
     "Paralelismo": "1.41",
-    "Fazenda": "39001"
+    "Fazenda": "39001",
+    "Unnamed: 16": null
   },
   {
     "ID": "3534205",
@@ -30310,7 +31997,8 @@ const PARALELISMO_DATA = [
     "Frente": "105 - FRENTE CASSIO",
     "Responsável": "NILDA CLAUDINO [2510716]",
     "Paralelismo": "1.4",
-    "Fazenda": "53201"
+    "Fazenda": "53201",
+    "Unnamed: 16": null
   },
   {
     "ID": "3534237",
@@ -30328,7 +32016,8 @@ const PARALELISMO_DATA = [
     "Frente": "261 - FRENTE PRÓPRIA  (EDMILSON)",
     "Responsável": "VITOR AMORIM RAMOS ",
     "Paralelismo": "1.4",
-    "Fazenda": "39001"
+    "Fazenda": "39001",
+    "Unnamed: 16": null
   },
   {
     "ID": "3534201",
@@ -30346,7 +32035,8 @@ const PARALELISMO_DATA = [
     "Frente": "105 - FRENTE CASSIO",
     "Responsável": "NILDA CLAUDINO [2510716]",
     "Paralelismo": "1.4",
-    "Fazenda": "53201"
+    "Fazenda": "53201",
+    "Unnamed: 16": null
   },
   {
     "ID": "3534232",
@@ -30364,7 +32054,8 @@ const PARALELISMO_DATA = [
     "Frente": "261 - FRENTE PRÓPRIA  (EDMILSON)",
     "Responsável": "VITOR AMORIM RAMOS ",
     "Paralelismo": "1.4",
-    "Fazenda": "39001"
+    "Fazenda": "39001",
+    "Unnamed: 16": null
   },
   {
     "ID": "3533745",
@@ -30382,7 +32073,8 @@ const PARALELISMO_DATA = [
     "Frente": "139 - FRENTE MANEZÃO",
     "Responsável": "MICHELI DE SOUZA SANTOS  ",
     "Paralelismo": "1.5",
-    "Fazenda": "224905"
+    "Fazenda": "224905",
+    "Unnamed: 16": null
   },
   {
     "ID": "3533739",
@@ -30400,7 +32092,8 @@ const PARALELISMO_DATA = [
     "Frente": "139 - FRENTE MANEZÃO",
     "Responsável": "MICHELI DE SOUZA SANTOS  ",
     "Paralelismo": "1.49",
-    "Fazenda": "224905"
+    "Fazenda": "224905",
+    "Unnamed: 16": null
   },
   {
     "ID": "3533808",
@@ -30418,7 +32111,8 @@ const PARALELISMO_DATA = [
     "Frente": "142 - FRENTE BIDU",
     "Responsável": "GABRIEL HENRIQUE MARTINS PEREIRA",
     "Paralelismo": "1.4",
-    "Fazenda": "224701"
+    "Fazenda": "224701",
+    "Unnamed: 16": null
   },
   {
     "ID": "3533807",
@@ -30436,7 +32130,8 @@ const PARALELISMO_DATA = [
     "Frente": "142 - FRENTE BIDU",
     "Responsável": "GABRIEL HENRIQUE MARTINS PEREIRA",
     "Paralelismo": "1.4",
-    "Fazenda": "224701"
+    "Fazenda": "224701",
+    "Unnamed: 16": null
   },
   {
     "ID": "3533805",
@@ -30454,7 +32149,8 @@ const PARALELISMO_DATA = [
     "Frente": "142 - FRENTE BIDU",
     "Responsável": "GABRIEL HENRIQUE MARTINS PEREIRA",
     "Paralelismo": "1.4",
-    "Fazenda": "224701"
+    "Fazenda": "224701",
+    "Unnamed: 16": null
   },
   {
     "ID": "3534105",
@@ -30472,7 +32168,8 @@ const PARALELISMO_DATA = [
     "Frente": "135 - PEDRINHO ",
     "Responsável": "REGINALDO DA SILVA GOMES ",
     "Paralelismo": "1.53",
-    "Fazenda": "184001"
+    "Fazenda": "184001",
+    "Unnamed: 16": null
   },
   {
     "ID": "3533796",
@@ -30490,7 +32187,8 @@ const PARALELISMO_DATA = [
     "Frente": "101 - FRENTE MECANIZADA",
     "Responsável": "FERNANDA DE SOUZA ",
     "Paralelismo": "1.4",
-    "Fazenda": "39001"
+    "Fazenda": "39001",
+    "Unnamed: 16": null
   },
   {
     "ID": "3534190",
@@ -30508,7 +32206,8 @@ const PARALELISMO_DATA = [
     "Frente": "105 - FRENTE CASSIO",
     "Responsável": "NILDA CLAUDINO [2510716]",
     "Paralelismo": "1.4",
-    "Fazenda": "31101"
+    "Fazenda": "31101",
+    "Unnamed: 16": null
   },
   {
     "ID": "3533735",
@@ -30526,7 +32225,8 @@ const PARALELISMO_DATA = [
     "Frente": "139 - FRENTE MANEZÃO",
     "Responsável": "MICHELI DE SOUZA SANTOS  ",
     "Paralelismo": "1.48",
-    "Fazenda": "224905"
+    "Fazenda": "224905",
+    "Unnamed: 16": null
   },
   {
     "ID": "3534351",
@@ -30544,7 +32244,8 @@ const PARALELISMO_DATA = [
     "Frente": "135 - PEDRINHO ",
     "Responsável": "REGINALDO DA SILVA GOMES ",
     "Paralelismo": "1.52",
-    "Fazenda": "184001"
+    "Fazenda": "184001",
+    "Unnamed: 16": null
   },
   {
     "ID": "3534185",
@@ -30562,7 +32263,8 @@ const PARALELISMO_DATA = [
     "Frente": "105 - FRENTE CASSIO",
     "Responsável": "NILDA CLAUDINO [2510716]",
     "Paralelismo": "1.4",
-    "Fazenda": "31101"
+    "Fazenda": "31101",
+    "Unnamed: 16": null
   },
   {
     "ID": "3533729",
@@ -30580,7 +32282,8 @@ const PARALELISMO_DATA = [
     "Frente": "139 - FRENTE MANEZÃO",
     "Responsável": "MICHELI DE SOUZA SANTOS  ",
     "Paralelismo": "1.53",
-    "Fazenda": "224905"
+    "Fazenda": "224905",
+    "Unnamed: 16": null
   },
   {
     "ID": "3533724",
@@ -30598,7 +32301,8 @@ const PARALELISMO_DATA = [
     "Frente": "139 - FRENTE MANEZÃO",
     "Responsável": "MICHELI DE SOUZA SANTOS  ",
     "Paralelismo": "1.49",
-    "Fazenda": "224905"
+    "Fazenda": "224905",
+    "Unnamed: 16": null
   },
   {
     "ID": "3534177",
@@ -30616,7 +32320,8 @@ const PARALELISMO_DATA = [
     "Frente": "105 - FRENTE CASSIO",
     "Responsável": "NILDA CLAUDINO [2510716]",
     "Paralelismo": "1.4",
-    "Fazenda": "31101"
+    "Fazenda": "31101",
+    "Unnamed: 16": null
   },
   {
     "ID": "3534088",
@@ -30634,7 +32339,8 @@ const PARALELISMO_DATA = [
     "Frente": "135 - PEDRINHO ",
     "Responsável": "REGINALDO DA SILVA GOMES ",
     "Paralelismo": "1.49",
-    "Fazenda": "184001"
+    "Fazenda": "184001",
+    "Unnamed: 16": null
   },
   {
     "ID": "3533854",
@@ -30652,7 +32358,8 @@ const PARALELISMO_DATA = [
     "Frente": "261 - FRENTE PRÓPRIA  (EDMILSON)",
     "Responsável": "VITOR AMORIM RAMOS ",
     "Paralelismo": "1.4",
-    "Fazenda": "39001"
+    "Fazenda": "39001",
+    "Unnamed: 16": null
   },
   {
     "ID": "3533786",
@@ -30670,7 +32377,8 @@ const PARALELISMO_DATA = [
     "Frente": "101 - FRENTE MECANIZADA",
     "Responsável": "FERNANDA DE SOUZA ",
     "Paralelismo": "1.4",
-    "Fazenda": "39001"
+    "Fazenda": "39001",
+    "Unnamed: 16": null
   },
   {
     "ID": "3533842",
@@ -30688,7 +32396,8 @@ const PARALELISMO_DATA = [
     "Frente": "261 - FRENTE PRÓPRIA  (EDMILSON)",
     "Responsável": "VITOR AMORIM RAMOS ",
     "Paralelismo": "1.4",
-    "Fazenda": "39001"
+    "Fazenda": "39001",
+    "Unnamed: 16": null
   },
   {
     "ID": "3533837",
@@ -30706,7 +32415,8 @@ const PARALELISMO_DATA = [
     "Frente": "261 - FRENTE PRÓPRIA  (EDMILSON)",
     "Responsável": "VITOR AMORIM RAMOS ",
     "Paralelismo": "1.4",
-    "Fazenda": "39001"
+    "Fazenda": "39001",
+    "Unnamed: 16": null
   },
   {
     "ID": "3533828",
@@ -30724,7 +32434,8 @@ const PARALELISMO_DATA = [
     "Frente": "261 - FRENTE PRÓPRIA  (EDMILSON)",
     "Responsável": "VITOR AMORIM RAMOS ",
     "Paralelismo": "1.4",
-    "Fazenda": "39001"
+    "Fazenda": "39001",
+    "Unnamed: 16": null
   },
   {
     "ID": "3533779",
@@ -30742,7 +32453,8 @@ const PARALELISMO_DATA = [
     "Frente": "101 - FRENTE MECANIZADA",
     "Responsável": "FERNANDA DE SOUZA ",
     "Paralelismo": "1.4",
-    "Fazenda": "39001"
+    "Fazenda": "39001",
+    "Unnamed: 16": null
   },
   {
     "ID": "3533990",
@@ -30760,7 +32472,8 @@ const PARALELISMO_DATA = [
     "Frente": "135 - PEDRINHO ",
     "Responsável": "MARCELO DE OLIVEIRA JUNIOR",
     "Paralelismo": "1.58",
-    "Fazenda": "184001"
+    "Fazenda": "184001",
+    "Unnamed: 16": null
   },
   {
     "ID": "3533823",
@@ -30778,7 +32491,8 @@ const PARALELISMO_DATA = [
     "Frente": "261 - FRENTE PRÓPRIA  (EDMILSON)",
     "Responsável": "VITOR AMORIM RAMOS ",
     "Paralelismo": "1.4",
-    "Fazenda": "39001"
+    "Fazenda": "39001",
+    "Unnamed: 16": null
   },
   {
     "ID": "3533817",
@@ -30796,7 +32510,8 @@ const PARALELISMO_DATA = [
     "Frente": "261 - FRENTE PRÓPRIA  (EDMILSON)",
     "Responsável": "VITOR AMORIM RAMOS ",
     "Paralelismo": "1.4",
-    "Fazenda": "39001"
+    "Fazenda": "39001",
+    "Unnamed: 16": null
   },
   {
     "ID": "3533985",
@@ -30814,7 +32529,8 @@ const PARALELISMO_DATA = [
     "Frente": "135 - PEDRINHO ",
     "Responsável": "MARCELO DE OLIVEIRA JUNIOR",
     "Paralelismo": "1.55",
-    "Fazenda": "184001"
+    "Fazenda": "184001",
+    "Unnamed: 16": null
   },
   {
     "ID": "3533809",
@@ -30832,7 +32548,8 @@ const PARALELISMO_DATA = [
     "Frente": "261 - FRENTE PRÓPRIA  (EDMILSON)",
     "Responsável": "VITOR AMORIM RAMOS ",
     "Paralelismo": "1.4",
-    "Fazenda": "39001"
+    "Fazenda": "39001",
+    "Unnamed: 16": null
   },
   {
     "ID": "3533790",
@@ -30850,7 +32567,8 @@ const PARALELISMO_DATA = [
     "Frente": "261 - FRENTE PRÓPRIA  (EDMILSON)",
     "Responsável": "VITOR AMORIM RAMOS ",
     "Paralelismo": "1.4",
-    "Fazenda": "39001"
+    "Fazenda": "39001",
+    "Unnamed: 16": null
   },
   {
     "ID": "3533980",
@@ -30868,7 +32586,8 @@ const PARALELISMO_DATA = [
     "Frente": "135 - PEDRINHO ",
     "Responsável": "MARCELO DE OLIVEIRA JUNIOR",
     "Paralelismo": "1.49",
-    "Fazenda": "184001"
+    "Fazenda": "184001",
+    "Unnamed: 16": null
   },
   {
     "ID": "3533774",
@@ -30886,7 +32605,8 @@ const PARALELISMO_DATA = [
     "Frente": "261 - FRENTE PRÓPRIA  (EDMILSON)",
     "Responsável": "VITOR AMORIM RAMOS ",
     "Paralelismo": "1.4",
-    "Fazenda": "39001"
+    "Fazenda": "39001",
+    "Unnamed: 16": null
   },
   {
     "ID": "3533764",
@@ -30904,7 +32624,8 @@ const PARALELISMO_DATA = [
     "Frente": "261 - FRENTE PRÓPRIA  (EDMILSON)",
     "Responsável": "VITOR AMORIM RAMOS ",
     "Paralelismo": "1.4",
-    "Fazenda": "39001"
+    "Fazenda": "39001",
+    "Unnamed: 16": null
   },
   {
     "ID": "3533975",
@@ -30922,7 +32643,8 @@ const PARALELISMO_DATA = [
     "Frente": "135 - PEDRINHO ",
     "Responsável": "MARCELO DE OLIVEIRA JUNIOR",
     "Paralelismo": "1.53",
-    "Fazenda": "184001"
+    "Fazenda": "184001",
+    "Unnamed: 16": null
   },
   {
     "ID": "3531884",
@@ -30940,7 +32662,8 @@ const PARALELISMO_DATA = [
     "Frente": "261 - FRENTE PRÓPRIA  (EDMILSON)",
     "Responsável": "VITOR AMORIM RAMOS ",
     "Paralelismo": "1.4",
-    "Fazenda": "39001"
+    "Fazenda": "39001",
+    "Unnamed: 16": null
   },
   {
     "ID": "3531879",
@@ -30958,7 +32681,8 @@ const PARALELISMO_DATA = [
     "Frente": "261 - FRENTE PRÓPRIA  (EDMILSON)",
     "Responsável": "VITOR AMORIM RAMOS ",
     "Paralelismo": "1.4",
-    "Fazenda": "39001"
+    "Fazenda": "39001",
+    "Unnamed: 16": null
   },
   {
     "ID": "3531898",
@@ -30976,7 +32700,8 @@ const PARALELISMO_DATA = [
     "Frente": "101 - FRENTE MECANIZADA",
     "Responsável": "FERNANDA DE SOUZA ",
     "Paralelismo": "1.4",
-    "Fazenda": "39001"
+    "Fazenda": "39001",
+    "Unnamed: 16": null
   },
   {
     "ID": "3531851",
@@ -30994,7 +32719,8 @@ const PARALELISMO_DATA = [
     "Frente": "261 - FRENTE PRÓPRIA  (EDMILSON)",
     "Responsável": "VITOR AMORIM RAMOS ",
     "Paralelismo": "1.4",
-    "Fazenda": "39001"
+    "Fazenda": "39001",
+    "Unnamed: 16": null
   },
   {
     "ID": "3531844",
@@ -31012,7 +32738,8 @@ const PARALELISMO_DATA = [
     "Frente": "261 - FRENTE PRÓPRIA  (EDMILSON)",
     "Responsável": "VITOR AMORIM RAMOS ",
     "Paralelismo": "1.4",
-    "Fazenda": "39001"
+    "Fazenda": "39001",
+    "Unnamed: 16": null
   },
   {
     "ID": "3531691",
@@ -31030,7 +32757,8 @@ const PARALELISMO_DATA = [
     "Frente": "105 - FRENTE CASSIO",
     "Responsável": "NILDA CLAUDINO [2510716]",
     "Paralelismo": "1.4",
-    "Fazenda": "31101"
+    "Fazenda": "31101",
+    "Unnamed: 16": null
   },
   {
     "ID": "3531779",
@@ -31048,7 +32776,8 @@ const PARALELISMO_DATA = [
     "Frente": "142 - FRENTE BIDU",
     "Responsável": "MICHELI DE SOUZA SANTOS  ",
     "Paralelismo": "1.5",
-    "Fazenda": "224701"
+    "Fazenda": "224701",
+    "Unnamed: 16": null
   },
   {
     "ID": "3531683",
@@ -31066,7 +32795,8 @@ const PARALELISMO_DATA = [
     "Frente": "105 - FRENTE CASSIO",
     "Responsável": "NILDA CLAUDINO [2510716]",
     "Paralelismo": "1.4",
-    "Fazenda": "31101"
+    "Fazenda": "31101",
+    "Unnamed: 16": null
   },
   {
     "ID": "3531773",
@@ -31084,7 +32814,8 @@ const PARALELISMO_DATA = [
     "Frente": "142 - FRENTE BIDU",
     "Responsável": "MICHELI DE SOUZA SANTOS  ",
     "Paralelismo": "1.5",
-    "Fazenda": "224701"
+    "Fazenda": "224701",
+    "Unnamed: 16": null
   },
   {
     "ID": "3531502",
@@ -31102,7 +32833,8 @@ const PARALELISMO_DATA = [
     "Frente": "143 - FRENTE CASSIO",
     "Responsável": "REGINALDO DA SILVA GOMES ",
     "Paralelismo": "1.42",
-    "Fazenda": "48401"
+    "Fazenda": "48401",
+    "Unnamed: 16": null
   },
   {
     "ID": "3531496",
@@ -31120,7 +32852,8 @@ const PARALELISMO_DATA = [
     "Frente": "143 - FRENTE CASSIO",
     "Responsável": "REGINALDO DA SILVA GOMES ",
     "Paralelismo": "1.4",
-    "Fazenda": "48401"
+    "Fazenda": "48401",
+    "Unnamed: 16": null
   },
   {
     "ID": "3531867",
@@ -31138,7 +32871,8 @@ const PARALELISMO_DATA = [
     "Frente": "142 - FRENTE BIDU",
     "Responsável": "MICHELI DE SOUZA SANTOS  ",
     "Paralelismo": "1.48",
-    "Fazenda": "224701"
+    "Fazenda": "224701",
+    "Unnamed: 16": null
   },
   {
     "ID": "3531864",
@@ -31156,7 +32890,8 @@ const PARALELISMO_DATA = [
     "Frente": "142 - FRENTE BIDU",
     "Responsável": "MICHELI DE SOUZA SANTOS  ",
     "Paralelismo": "1.5",
-    "Fazenda": "224701"
+    "Fazenda": "224701",
+    "Unnamed: 16": null
   },
   {
     "ID": "3531715",
@@ -31174,7 +32909,8 @@ const PARALELISMO_DATA = [
     "Frente": "291 - FRENTE PRÓPRIA ",
     "Responsável": "VITOR AMORIM RAMOS ",
     "Paralelismo": "1.4",
-    "Fazenda": "53201"
+    "Fazenda": "53201",
+    "Unnamed: 16": null
   },
   {
     "ID": "3531703",
@@ -31192,7 +32928,8 @@ const PARALELISMO_DATA = [
     "Frente": "291 - FRENTE PRÓPRIA ",
     "Responsável": "VITOR AMORIM RAMOS ",
     "Paralelismo": "1.4",
-    "Fazenda": "53201"
+    "Fazenda": "53201",
+    "Unnamed: 16": null
   },
   {
     "ID": "3531700",
@@ -31210,7 +32947,8 @@ const PARALELISMO_DATA = [
     "Frente": "291 - FRENTE PRÓPRIA ",
     "Responsável": "VITOR AMORIM RAMOS ",
     "Paralelismo": "1.4",
-    "Fazenda": "53201"
+    "Fazenda": "53201",
+    "Unnamed: 16": null
   },
   {
     "ID": "3531474",
@@ -31228,7 +32966,8 @@ const PARALELISMO_DATA = [
     "Frente": "101 - FRENTE MECANIZADA",
     "Responsável": "FERNANDA DE SOUZA ",
     "Paralelismo": "1.4",
-    "Fazenda": "53201"
+    "Fazenda": "53201",
+    "Unnamed: 16": null
   },
   {
     "ID": "3531705",
@@ -31246,7 +32985,8 @@ const PARALELISMO_DATA = [
     "Frente": "291 - FRENTE PRÓPRIA ",
     "Responsável": "VITOR AMORIM RAMOS ",
     "Paralelismo": "1.4",
-    "Fazenda": "53201"
+    "Fazenda": "53201",
+    "Unnamed: 16": null
   },
   {
     "ID": "3531672",
@@ -31264,7 +33004,8 @@ const PARALELISMO_DATA = [
     "Frente": "291 - FRENTE PRÓPRIA ",
     "Responsável": "VITOR AMORIM RAMOS ",
     "Paralelismo": "1.4",
-    "Fazenda": "53201"
+    "Fazenda": "53201",
+    "Unnamed: 16": null
   },
   {
     "ID": "3531492",
@@ -31282,7 +33023,8 @@ const PARALELISMO_DATA = [
     "Frente": "143 - FRENTE CASSIO",
     "Responsável": "REGINALDO DA SILVA GOMES ",
     "Paralelismo": "1.4",
-    "Fazenda": "48401"
+    "Fazenda": "48401",
+    "Unnamed: 16": null
   },
   {
     "ID": "3531428",
@@ -31300,7 +33042,8 @@ const PARALELISMO_DATA = [
     "Frente": "101 - FRENTE MECANIZADA",
     "Responsável": "FERNANDA DE SOUZA ",
     "Paralelismo": "1.41",
-    "Fazenda": "53201"
+    "Fazenda": "53201",
+    "Unnamed: 16": null
   },
   {
     "ID": "3531451",
@@ -31318,7 +33061,8 @@ const PARALELISMO_DATA = [
     "Frente": "105 - FRENTE CASSIO",
     "Responsável": "NILDA CLAUDINO [2510716]",
     "Paralelismo": "1.4",
-    "Fazenda": "31101"
+    "Fazenda": "31101",
+    "Unnamed: 16": null
   },
   {
     "ID": "3531444",
@@ -31336,7 +33080,8 @@ const PARALELISMO_DATA = [
     "Frente": "143 - FRENTE CASSIO",
     "Responsável": "REGINALDO DA SILVA GOMES ",
     "Paralelismo": "1.41",
-    "Fazenda": "48401"
+    "Fazenda": "48401",
+    "Unnamed: 16": null
   },
   {
     "ID": "3531447",
@@ -31354,7 +33099,8 @@ const PARALELISMO_DATA = [
     "Frente": "105 - FRENTE CASSIO",
     "Responsável": "NILDA CLAUDINO [2510716]",
     "Paralelismo": "1.4",
-    "Fazenda": "31101"
+    "Fazenda": "31101",
+    "Unnamed: 16": null
   },
   {
     "ID": "3531929",
@@ -31372,7 +33118,8 @@ const PARALELISMO_DATA = [
     "Frente": "143 - FRENTE CASSIO",
     "Responsável": "GABRIEL HENRIQUE MARTINS PEREIRA",
     "Paralelismo": "1.4",
-    "Fazenda": "48401"
+    "Fazenda": "48401",
+    "Unnamed: 16": null
   },
   {
     "ID": "3531940",
@@ -31390,7 +33137,8 @@ const PARALELISMO_DATA = [
     "Frente": "143 - FRENTE CASSIO",
     "Responsável": "GABRIEL HENRIQUE MARTINS PEREIRA",
     "Paralelismo": "1.4",
-    "Fazenda": "48401"
+    "Fazenda": "48401",
+    "Unnamed: 16": null
   },
   {
     "ID": "3531489",
@@ -31408,7 +33156,8 @@ const PARALELISMO_DATA = [
     "Frente": "101 - FRENTE MECANIZADA",
     "Responsável": "FERNANDA DE SOUZA ",
     "Paralelismo": "1.4",
-    "Fazenda": "53201"
+    "Fazenda": "53201",
+    "Unnamed: 16": null
   },
   {
     "ID": "3531667",
@@ -31426,7 +33175,8 @@ const PARALELISMO_DATA = [
     "Frente": "261 - FRENTE PRÓPRIA  (EDMILSON)",
     "Responsável": "VITOR AMORIM RAMOS ",
     "Paralelismo": "1.4",
-    "Fazenda": "53201"
+    "Fazenda": "53201",
+    "Unnamed: 16": null
   },
   {
     "ID": "3531419",
@@ -31444,7 +33194,8 @@ const PARALELISMO_DATA = [
     "Frente": "135 - PEDRINHO ",
     "Responsável": "MARCELO DE OLIVEIRA JUNIOR",
     "Paralelismo": "1.49",
-    "Fazenda": "205301"
+    "Fazenda": "205301",
+    "Unnamed: 16": null
   },
   {
     "ID": "3531414",
@@ -31462,7 +33213,8 @@ const PARALELISMO_DATA = [
     "Frente": "135 - PEDRINHO ",
     "Responsável": "MARCELO DE OLIVEIRA JUNIOR",
     "Paralelismo": "1.52",
-    "Fazenda": "205301"
+    "Fazenda": "205301",
+    "Unnamed: 16": null
   },
   {
     "ID": "3531639",
@@ -31480,7 +33232,8 @@ const PARALELISMO_DATA = [
     "Frente": "261 - FRENTE PRÓPRIA  (EDMILSON)",
     "Responsável": "VITOR AMORIM RAMOS ",
     "Paralelismo": "1.4",
-    "Fazenda": "53201"
+    "Fazenda": "53201",
+    "Unnamed: 16": null
   },
   {
     "ID": "3531408",
@@ -31498,7 +33251,8 @@ const PARALELISMO_DATA = [
     "Frente": "135 - PEDRINHO ",
     "Responsável": "MARCELO DE OLIVEIRA JUNIOR",
     "Paralelismo": "1.5",
-    "Fazenda": "205301"
+    "Fazenda": "205301",
+    "Unnamed: 16": null
   },
   {
     "ID": "3531634",
@@ -31516,7 +33270,8 @@ const PARALELISMO_DATA = [
     "Frente": "261 - FRENTE PRÓPRIA  (EDMILSON)",
     "Responsável": "VITOR AMORIM RAMOS ",
     "Paralelismo": "1.4",
-    "Fazenda": "53201"
+    "Fazenda": "53201",
+    "Unnamed: 16": null
   },
   {
     "ID": "3531557",
@@ -31534,7 +33289,8 @@ const PARALELISMO_DATA = [
     "Frente": "261 - FRENTE PRÓPRIA  (EDMILSON)",
     "Responsável": "VITOR AMORIM RAMOS ",
     "Paralelismo": "1.4",
-    "Fazenda": "53201"
+    "Fazenda": "53201",
+    "Unnamed: 16": null
   },
   {
     "ID": "3531552",
@@ -31552,7 +33308,8 @@ const PARALELISMO_DATA = [
     "Frente": "261 - FRENTE PRÓPRIA  (EDMILSON)",
     "Responsável": "VITOR AMORIM RAMOS ",
     "Paralelismo": "1.4",
-    "Fazenda": "53201"
+    "Fazenda": "53201",
+    "Unnamed: 16": null
   },
   {
     "ID": "3530166",
@@ -31570,7 +33327,8 @@ const PARALELISMO_DATA = [
     "Frente": "135 - PEDRINHO ",
     "Responsável": "MARCELO DE OLIVEIRA JUNIOR",
     "Paralelismo": "1.5",
-    "Fazenda": "205301"
+    "Fazenda": "205301",
+    "Unnamed: 16": null
   },
   {
     "ID": "3530164",
@@ -31588,7 +33346,8 @@ const PARALELISMO_DATA = [
     "Frente": "135 - PEDRINHO ",
     "Responsável": "MARCELO DE OLIVEIRA JUNIOR",
     "Paralelismo": "1.48",
-    "Fazenda": "205301"
+    "Fazenda": "205301",
+    "Unnamed: 16": null
   },
   {
     "ID": "3529634",
@@ -31606,7 +33365,8 @@ const PARALELISMO_DATA = [
     "Frente": "139 - FRENTE MANEZÃO",
     "Responsável": "MICHELI DE SOUZA SANTOS  ",
     "Paralelismo": "1.51",
-    "Fazenda": "224701"
+    "Fazenda": "224701",
+    "Unnamed: 16": null
   },
   {
     "ID": "3529633",
@@ -31624,7 +33384,8 @@ const PARALELISMO_DATA = [
     "Frente": "139 - FRENTE MANEZÃO",
     "Responsável": "MICHELI DE SOUZA SANTOS  ",
     "Paralelismo": "1.5",
-    "Fazenda": "224701"
+    "Fazenda": "224701",
+    "Unnamed: 16": null
   },
   {
     "ID": "3529632",
@@ -31642,7 +33403,8 @@ const PARALELISMO_DATA = [
     "Frente": "139 - FRENTE MANEZÃO",
     "Responsável": "MICHELI DE SOUZA SANTOS  ",
     "Paralelismo": "1.52",
-    "Fazenda": "224701"
+    "Fazenda": "224701",
+    "Unnamed: 16": null
   },
   {
     "ID": "3530151",
@@ -31660,7 +33422,8 @@ const PARALELISMO_DATA = [
     "Frente": "135 - PEDRINHO ",
     "Responsável": "MARCELO DE OLIVEIRA JUNIOR",
     "Paralelismo": "1.5",
-    "Fazenda": "205301"
+    "Fazenda": "205301",
+    "Unnamed: 16": null
   },
   {
     "ID": "3530146",
@@ -31678,7 +33441,8 @@ const PARALELISMO_DATA = [
     "Frente": "135 - PEDRINHO ",
     "Responsável": "MARCELO DE OLIVEIRA JUNIOR",
     "Paralelismo": "1.52",
-    "Fazenda": "205302"
+    "Fazenda": "205302",
+    "Unnamed: 16": null
   },
   {
     "ID": "3529910",
@@ -31696,7 +33460,8 @@ const PARALELISMO_DATA = [
     "Frente": "261 - FRENTE PRÓPRIA  (EDMILSON)",
     "Responsável": "VITOR AMORIM RAMOS ",
     "Paralelismo": "1.4",
-    "Fazenda": "53201"
+    "Fazenda": "53201",
+    "Unnamed: 16": null
   },
   {
     "ID": "3529906",
@@ -31714,7 +33479,8 @@ const PARALELISMO_DATA = [
     "Frente": "261 - FRENTE PRÓPRIA  (EDMILSON)",
     "Responsável": "VITOR AMORIM RAMOS ",
     "Paralelismo": "1.4",
-    "Fazenda": "53201"
+    "Fazenda": "53201",
+    "Unnamed: 16": null
   },
   {
     "ID": "3529688",
@@ -31732,7 +33498,8 @@ const PARALELISMO_DATA = [
     "Frente": "142 - FRENTE BIDU",
     "Responsável": "FERNANDA DE SOUZA ",
     "Paralelismo": "1.5",
-    "Fazenda": "224701"
+    "Fazenda": "224701",
+    "Unnamed: 16": null
   },
   {
     "ID": "3529901",
@@ -31750,7 +33517,8 @@ const PARALELISMO_DATA = [
     "Frente": "261 - FRENTE PRÓPRIA  (EDMILSON)",
     "Responsável": "VITOR AMORIM RAMOS ",
     "Paralelismo": "1.4",
-    "Fazenda": "53201"
+    "Fazenda": "53201",
+    "Unnamed: 16": null
   },
   {
     "ID": "3529674",
@@ -31768,7 +33536,8 @@ const PARALELISMO_DATA = [
     "Frente": "142 - FRENTE BIDU",
     "Responsável": "FERNANDA DE SOUZA ",
     "Paralelismo": "1.51",
-    "Fazenda": "224701"
+    "Fazenda": "224701",
+    "Unnamed: 16": null
   },
   {
     "ID": "3529893",
@@ -31786,7 +33555,8 @@ const PARALELISMO_DATA = [
     "Frente": "261 - FRENTE PRÓPRIA  (EDMILSON)",
     "Responsável": "VITOR AMORIM RAMOS ",
     "Paralelismo": "1.4",
-    "Fazenda": "53201"
+    "Fazenda": "53201",
+    "Unnamed: 16": null
   },
   {
     "ID": "3529521",
@@ -31804,7 +33574,8 @@ const PARALELISMO_DATA = [
     "Frente": "105 - FRENTE CASSIO",
     "Responsável": "NILDA CLAUDINO [2510716]",
     "Paralelismo": "1.4",
-    "Fazenda": "220407"
+    "Fazenda": "220407",
+    "Unnamed: 16": null
   },
   {
     "ID": "3529888",
@@ -31822,7 +33593,8 @@ const PARALELISMO_DATA = [
     "Frente": "261 - FRENTE PRÓPRIA  (EDMILSON)",
     "Responsável": "VITOR AMORIM RAMOS ",
     "Paralelismo": "1.4",
-    "Fazenda": "53201"
+    "Fazenda": "53201",
+    "Unnamed: 16": null
   },
   {
     "ID": "3529664",
@@ -31840,7 +33612,8 @@ const PARALELISMO_DATA = [
     "Frente": "142 - FRENTE BIDU",
     "Responsável": "FERNANDA DE SOUZA ",
     "Paralelismo": "1.5",
-    "Fazenda": "224701"
+    "Fazenda": "224701",
+    "Unnamed: 16": null
   },
   {
     "ID": "3529513",
@@ -31858,7 +33631,8 @@ const PARALELISMO_DATA = [
     "Frente": "105 - FRENTE CASSIO",
     "Responsável": "NILDA CLAUDINO [2510716]",
     "Paralelismo": "1.4",
-    "Fazenda": "220407"
+    "Fazenda": "220407",
+    "Unnamed: 16": null
   },
   {
     "ID": "3529660",
@@ -31876,7 +33650,8 @@ const PARALELISMO_DATA = [
     "Frente": "142 - FRENTE BIDU",
     "Responsável": "FERNANDA DE SOUZA ",
     "Paralelismo": "1.5",
-    "Fazenda": "224701"
+    "Fazenda": "224701",
+    "Unnamed: 16": null
   },
   {
     "ID": "3529656",
@@ -31894,7 +33669,8 @@ const PARALELISMO_DATA = [
     "Frente": "142 - FRENTE BIDU",
     "Responsável": "FERNANDA DE SOUZA ",
     "Paralelismo": "1.5",
-    "Fazenda": "224701"
+    "Fazenda": "224701",
+    "Unnamed: 16": null
   },
   {
     "ID": "3529618",
@@ -31912,7 +33688,8 @@ const PARALELISMO_DATA = [
     "Frente": "139 - FRENTE MANEZÃO",
     "Responsável": "MICHELI DE SOUZA SANTOS  ",
     "Paralelismo": "1.5",
-    "Fazenda": "224701"
+    "Fazenda": "224701",
+    "Unnamed: 16": null
   },
   {
     "ID": "3529509",
@@ -31930,7 +33707,8 @@ const PARALELISMO_DATA = [
     "Frente": "105 - FRENTE CASSIO",
     "Responsável": "NILDA CLAUDINO [2510716]",
     "Paralelismo": "1.4",
-    "Fazenda": "220407"
+    "Fazenda": "220407",
+    "Unnamed: 16": null
   },
   {
     "ID": "3530141",
@@ -31948,7 +33726,8 @@ const PARALELISMO_DATA = [
     "Frente": "135 - PEDRINHO ",
     "Responsável": "MARCELO DE OLIVEIRA JUNIOR",
     "Paralelismo": "1.49",
-    "Fazenda": "205301"
+    "Fazenda": "205301",
+    "Unnamed: 16": null
   },
   {
     "ID": "3529457",
@@ -31966,7 +33745,8 @@ const PARALELISMO_DATA = [
     "Frente": "135 - PEDRINHO ",
     "Responsável": "REGINALDO DA SILVA GOMES ",
     "Paralelismo": "1.5",
-    "Fazenda": "205301"
+    "Fazenda": "205301",
+    "Unnamed: 16": null
   },
   {
     "ID": "3530039",
@@ -31984,7 +33764,8 @@ const PARALELISMO_DATA = [
     "Frente": "291 - FRENTE PRÓPRIA ",
     "Responsável": "VITOR AMORIM RAMOS ",
     "Paralelismo": "1.4",
-    "Fazenda": "53201"
+    "Fazenda": "53201",
+    "Unnamed: 16": null
   },
   {
     "ID": "3529449",
@@ -32002,7 +33783,8 @@ const PARALELISMO_DATA = [
     "Frente": "135 - PEDRINHO ",
     "Responsável": "REGINALDO DA SILVA GOMES ",
     "Paralelismo": "1.48",
-    "Fazenda": "205301"
+    "Fazenda": "205301",
+    "Unnamed: 16": null
   },
   {
     "ID": "3530034",
@@ -32020,7 +33802,8 @@ const PARALELISMO_DATA = [
     "Frente": "291 - FRENTE PRÓPRIA ",
     "Responsável": "VITOR AMORIM RAMOS ",
     "Paralelismo": "1.4",
-    "Fazenda": "53201"
+    "Fazenda": "53201",
+    "Unnamed: 16": null
   },
   {
     "ID": "3529505",
@@ -32038,7 +33821,8 @@ const PARALELISMO_DATA = [
     "Frente": "105 - FRENTE CASSIO",
     "Responsável": "NILDA CLAUDINO [2510716]",
     "Paralelismo": "1.4",
-    "Fazenda": "220407"
+    "Fazenda": "220407",
+    "Unnamed: 16": null
   },
   {
     "ID": "3529444",
@@ -32056,7 +33840,8 @@ const PARALELISMO_DATA = [
     "Frente": "135 - PEDRINHO ",
     "Responsável": "REGINALDO DA SILVA GOMES ",
     "Paralelismo": "1.52",
-    "Fazenda": "205301"
+    "Fazenda": "205301",
+    "Unnamed: 16": null
   },
   {
     "ID": "3530029",
@@ -32074,7 +33859,8 @@ const PARALELISMO_DATA = [
     "Frente": "291 - FRENTE PRÓPRIA ",
     "Responsável": "VITOR AMORIM RAMOS ",
     "Paralelismo": "1.4",
-    "Fazenda": "53201"
+    "Fazenda": "53201",
+    "Unnamed: 16": null
   },
   {
     "ID": "3530024",
@@ -32092,7 +33878,8 @@ const PARALELISMO_DATA = [
     "Frente": "291 - FRENTE PRÓPRIA ",
     "Responsável": "VITOR AMORIM RAMOS ",
     "Paralelismo": "1.4",
-    "Fazenda": "53201"
+    "Fazenda": "53201",
+    "Unnamed: 16": null
   },
   {
     "ID": "3530019",
@@ -32110,7 +33897,8 @@ const PARALELISMO_DATA = [
     "Frente": "261 - FRENTE PRÓPRIA  (EDMILSON)",
     "Responsável": "VITOR AMORIM RAMOS ",
     "Paralelismo": "1.4",
-    "Fazenda": "53201"
+    "Fazenda": "53201",
+    "Unnamed: 16": null
   },
   {
     "ID": "3530014",
@@ -32128,7 +33916,8 @@ const PARALELISMO_DATA = [
     "Frente": "261 - FRENTE PRÓPRIA  (EDMILSON)",
     "Responsável": "VITOR AMORIM RAMOS ",
     "Paralelismo": "1.4",
-    "Fazenda": "53201"
+    "Fazenda": "53201",
+    "Unnamed: 16": null
   },
   {
     "ID": "3530134",
@@ -32146,7 +33935,8 @@ const PARALELISMO_DATA = [
     "Frente": "135 - PEDRINHO ",
     "Responsável": "MARCELO DE OLIVEIRA JUNIOR",
     "Paralelismo": "1.49",
-    "Fazenda": "205302"
+    "Fazenda": "205302",
+    "Unnamed: 16": null
   },
   {
     "ID": "3529589",
@@ -32164,7 +33954,8 @@ const PARALELISMO_DATA = [
     "Frente": "143 - FRENTE CASSIO",
     "Responsável": "GABRIEL HENRIQUE MARTINS PEREIRA",
     "Paralelismo": "1.4",
-    "Fazenda": "202802"
+    "Fazenda": "202802",
+    "Unnamed: 16": null
   },
   {
     "ID": "3529821",
@@ -32182,7 +33973,8 @@ const PARALELISMO_DATA = [
     "Frente": "261 - FRENTE PRÓPRIA  (EDMILSON)",
     "Responsável": "VITOR AMORIM RAMOS ",
     "Paralelismo": "1.4",
-    "Fazenda": "53201"
+    "Fazenda": "53201",
+    "Unnamed: 16": null
   },
   {
     "ID": "3529585",
@@ -32200,7 +33992,8 @@ const PARALELISMO_DATA = [
     "Frente": "143 - FRENTE CASSIO",
     "Responsável": "GABRIEL HENRIQUE MARTINS PEREIRA",
     "Paralelismo": "1.4",
-    "Fazenda": "202802"
+    "Fazenda": "202802",
+    "Unnamed: 16": null
   },
   {
     "ID": "3530129",
@@ -32218,7 +34011,8 @@ const PARALELISMO_DATA = [
     "Frente": "135 - PEDRINHO ",
     "Responsável": "MARCELO DE OLIVEIRA JUNIOR",
     "Paralelismo": "1.5",
-    "Fazenda": "205301"
+    "Fazenda": "205301",
+    "Unnamed: 16": null
   },
   {
     "ID": "3529815",
@@ -32236,7 +34030,8 @@ const PARALELISMO_DATA = [
     "Frente": "261 - FRENTE PRÓPRIA  (EDMILSON)",
     "Responsável": "VITOR AMORIM RAMOS ",
     "Paralelismo": "1.4",
-    "Fazenda": "53201"
+    "Fazenda": "53201",
+    "Unnamed: 16": null
   },
   {
     "ID": "3529579",
@@ -32254,7 +34049,8 @@ const PARALELISMO_DATA = [
     "Frente": "143 - FRENTE CASSIO",
     "Responsável": "GABRIEL HENRIQUE MARTINS PEREIRA",
     "Paralelismo": "1.4",
-    "Fazenda": "202802"
+    "Fazenda": "202802",
+    "Unnamed: 16": null
   },
   {
     "ID": "3529571",
@@ -32272,7 +34068,8 @@ const PARALELISMO_DATA = [
     "Frente": "143 - FRENTE CASSIO",
     "Responsável": "GABRIEL HENRIQUE MARTINS PEREIRA",
     "Paralelismo": "1.4",
-    "Fazenda": "202802"
+    "Fazenda": "202802",
+    "Unnamed: 16": null
   },
   {
     "ID": "3529803",
@@ -32290,7 +34087,8 @@ const PARALELISMO_DATA = [
     "Frente": "261 - FRENTE PRÓPRIA  (EDMILSON)",
     "Responsável": "VITOR AMORIM RAMOS ",
     "Paralelismo": "1.4",
-    "Fazenda": "53201"
+    "Fazenda": "53201",
+    "Unnamed: 16": null
   },
   {
     "ID": "3520557",
@@ -32308,7 +34106,8 @@ const PARALELISMO_DATA = [
     "Frente": "142 - FRENTE BIDU",
     "Responsável": "FERNANDA DE SOUZA ",
     "Paralelismo": "1.5",
-    "Fazenda": "224701"
+    "Fazenda": "224701",
+    "Unnamed: 16": null
   },
   {
     "ID": "3520550",
@@ -32326,7 +34125,8 @@ const PARALELISMO_DATA = [
     "Frente": "142 - FRENTE BIDU",
     "Responsável": "FERNANDA DE SOUZA ",
     "Paralelismo": "1.5",
-    "Fazenda": "224701"
+    "Fazenda": "224701",
+    "Unnamed: 16": null
   },
   {
     "ID": "3520546",
@@ -32344,7 +34144,8 @@ const PARALELISMO_DATA = [
     "Frente": "142 - FRENTE BIDU",
     "Responsável": "FERNANDA DE SOUZA ",
     "Paralelismo": "1.51",
-    "Fazenda": "224701"
+    "Fazenda": "224701",
+    "Unnamed: 16": null
   },
   {
     "ID": "3520692",
@@ -32362,7 +34163,8 @@ const PARALELISMO_DATA = [
     "Frente": "142 - FRENTE BIDU",
     "Responsável": "REGINALDO DA SILVA GOMES ",
     "Paralelismo": "1.5",
-    "Fazenda": "224701"
+    "Fazenda": "224701",
+    "Unnamed: 16": null
   },
   {
     "ID": "3520687",
@@ -32380,7 +34182,8 @@ const PARALELISMO_DATA = [
     "Frente": "142 - FRENTE BIDU",
     "Responsável": "REGINALDO DA SILVA GOMES ",
     "Paralelismo": "1.53",
-    "Fazenda": "224701"
+    "Fazenda": "224701",
+    "Unnamed: 16": null
   },
   {
     "ID": "3520419",
@@ -32398,7 +34201,8 @@ const PARALELISMO_DATA = [
     "Frente": "261 - FRENTE PRÓPRIA  (EDMILSON)",
     "Responsável": "VITOR AMORIM RAMOS ",
     "Paralelismo": "1.4",
-    "Fazenda": "53201"
+    "Fazenda": "53201",
+    "Unnamed: 16": null
   },
   {
     "ID": "3520309",
@@ -32416,7 +34220,8 @@ const PARALELISMO_DATA = [
     "Frente": "105 - FRENTE CASSIO",
     "Responsável": "NILDA CLAUDINO [2510716]",
     "Paralelismo": "1.4",
-    "Fazenda": "220407"
+    "Fazenda": "220407",
+    "Unnamed: 16": null
   },
   {
     "ID": "3520307",
@@ -32434,7 +34239,8 @@ const PARALELISMO_DATA = [
     "Frente": "105 - FRENTE CASSIO",
     "Responsável": "NILDA CLAUDINO [2510716]",
     "Paralelismo": "1.4",
-    "Fazenda": "220407"
+    "Fazenda": "220407",
+    "Unnamed: 16": null
   },
   {
     "ID": "3520682",
@@ -32452,7 +34258,8 @@ const PARALELISMO_DATA = [
     "Frente": "142 - FRENTE BIDU",
     "Responsável": "REGINALDO DA SILVA GOMES ",
     "Paralelismo": "1.5",
-    "Fazenda": "224701"
+    "Fazenda": "224701",
+    "Unnamed: 16": null
   },
   {
     "ID": "3520413",
@@ -32470,7 +34277,8 @@ const PARALELISMO_DATA = [
     "Frente": "261 - FRENTE PRÓPRIA  (EDMILSON)",
     "Responsável": "VITOR AMORIM RAMOS ",
     "Paralelismo": "1.4",
-    "Fazenda": "53201"
+    "Fazenda": "53201",
+    "Unnamed: 16": null
   },
   {
     "ID": "3520311",
@@ -32488,7 +34296,8 @@ const PARALELISMO_DATA = [
     "Frente": "105 - FRENTE CASSIO",
     "Responsável": "NILDA CLAUDINO [2510716]",
     "Paralelismo": "1.4",
-    "Fazenda": "220407"
+    "Fazenda": "220407",
+    "Unnamed: 16": null
   },
   {
     "ID": "3520305",
@@ -32506,7 +34315,8 @@ const PARALELISMO_DATA = [
     "Frente": "105 - FRENTE CASSIO",
     "Responsável": "NILDA CLAUDINO [2510716]",
     "Paralelismo": "1.4",
-    "Fazenda": "220407"
+    "Fazenda": "220407",
+    "Unnamed: 16": null
   },
   {
     "ID": "3520677",
@@ -32524,7 +34334,8 @@ const PARALELISMO_DATA = [
     "Frente": "142 - FRENTE BIDU",
     "Responsável": "REGINALDO DA SILVA GOMES ",
     "Paralelismo": "1.48",
-    "Fazenda": "224701"
+    "Fazenda": "224701",
+    "Unnamed: 16": null
   },
   {
     "ID": "3520392",
@@ -32542,7 +34353,8 @@ const PARALELISMO_DATA = [
     "Frente": "261 - FRENTE PRÓPRIA  (EDMILSON)",
     "Responsável": "VITOR AMORIM RAMOS ",
     "Paralelismo": "1.4",
-    "Fazenda": "53201"
+    "Fazenda": "53201",
+    "Unnamed: 16": null
   },
   {
     "ID": "3520385",
@@ -32560,7 +34372,8 @@ const PARALELISMO_DATA = [
     "Frente": "261 - FRENTE PRÓPRIA  (EDMILSON)",
     "Responsável": "VITOR AMORIM RAMOS ",
     "Paralelismo": "1.4",
-    "Fazenda": "53201"
+    "Fazenda": "53201",
+    "Unnamed: 16": null
   },
   {
     "ID": "3520375",
@@ -32578,7 +34391,8 @@ const PARALELISMO_DATA = [
     "Frente": "261 - FRENTE PRÓPRIA  (EDMILSON)",
     "Responsável": "VITOR AMORIM RAMOS ",
     "Paralelismo": "1.4",
-    "Fazenda": "53201"
+    "Fazenda": "53201",
+    "Unnamed: 16": null
   },
   {
     "ID": "3520576",
@@ -32596,7 +34410,8 @@ const PARALELISMO_DATA = [
     "Frente": "135 - PEDRINHO ",
     "Responsável": "MARCELO DE OLIVEIRA JUNIOR",
     "Paralelismo": "1.43",
-    "Fazenda": "41801"
+    "Fazenda": "41801",
+    "Unnamed: 16": null
   },
   {
     "ID": "3520457",
@@ -32614,7 +34429,8 @@ const PARALELISMO_DATA = [
     "Frente": "143 - FRENTE CASSIO",
     "Responsável": "GABRIEL HENRIQUE MARTINS PEREIRA",
     "Paralelismo": "1.4",
-    "Fazenda": "202804"
+    "Fazenda": "202804",
+    "Unnamed: 16": null
   },
   {
     "ID": "3520370",
@@ -32632,7 +34448,8 @@ const PARALELISMO_DATA = [
     "Frente": "261 - FRENTE PRÓPRIA  (EDMILSON)",
     "Responsável": "VITOR AMORIM RAMOS ",
     "Paralelismo": "1.4",
-    "Fazenda": "53201"
+    "Fazenda": "53201",
+    "Unnamed: 16": null
   },
   {
     "ID": "3520364",
@@ -32650,7 +34467,8 @@ const PARALELISMO_DATA = [
     "Frente": "261 - FRENTE PRÓPRIA  (EDMILSON)",
     "Responsável": "VITOR AMORIM RAMOS ",
     "Paralelismo": "1.4",
-    "Fazenda": "53201"
+    "Fazenda": "53201",
+    "Unnamed: 16": null
   },
   {
     "ID": "3520571",
@@ -32668,7 +34486,8 @@ const PARALELISMO_DATA = [
     "Frente": "135 - PEDRINHO ",
     "Responsável": "MARCELO DE OLIVEIRA JUNIOR",
     "Paralelismo": "1.42",
-    "Fazenda": "41901"
+    "Fazenda": "41901",
+    "Unnamed: 16": null
   },
   {
     "ID": "3520355",
@@ -32686,7 +34505,8 @@ const PARALELISMO_DATA = [
     "Frente": "261 - FRENTE PRÓPRIA  (EDMILSON)",
     "Responsável": "VITOR AMORIM RAMOS ",
     "Paralelismo": "1.4",
-    "Fazenda": "53201"
+    "Fazenda": "53201",
+    "Unnamed: 16": null
   },
   {
     "ID": "3520452",
@@ -32704,7 +34524,8 @@ const PARALELISMO_DATA = [
     "Frente": "143 - FRENTE CASSIO",
     "Responsável": "GABRIEL HENRIQUE MARTINS PEREIRA",
     "Paralelismo": "1.4",
-    "Fazenda": "202804"
+    "Fazenda": "202804",
+    "Unnamed: 16": null
   },
   {
     "ID": "3520350",
@@ -32722,7 +34543,8 @@ const PARALELISMO_DATA = [
     "Frente": "261 - FRENTE PRÓPRIA  (EDMILSON)",
     "Responsável": "VITOR AMORIM RAMOS ",
     "Paralelismo": "1.4",
-    "Fazenda": "53201"
+    "Fazenda": "53201",
+    "Unnamed: 16": null
   },
   {
     "ID": "3520345",
@@ -32740,7 +34562,8 @@ const PARALELISMO_DATA = [
     "Frente": "261 - FRENTE PRÓPRIA  (EDMILSON)",
     "Responsável": "VITOR AMORIM RAMOS ",
     "Paralelismo": "1.4",
-    "Fazenda": "53201"
+    "Fazenda": "53201",
+    "Unnamed: 16": null
   },
   {
     "ID": "3518729",
@@ -32758,7 +34581,8 @@ const PARALELISMO_DATA = [
     "Frente": "143 - FRENTE CASSIO",
     "Responsável": "GABRIEL HENRIQUE MARTINS PEREIRA",
     "Paralelismo": "1.4",
-    "Fazenda": "202804"
+    "Fazenda": "202804",
+    "Unnamed: 16": null
   },
   {
     "ID": "3518725",
@@ -32776,7 +34600,8 @@ const PARALELISMO_DATA = [
     "Frente": "143 - FRENTE CASSIO",
     "Responsável": "GABRIEL HENRIQUE MARTINS PEREIRA",
     "Paralelismo": "1.4",
-    "Fazenda": "202804"
+    "Fazenda": "202804",
+    "Unnamed: 16": null
   },
   {
     "ID": "3518721",
@@ -32794,7 +34619,8 @@ const PARALELISMO_DATA = [
     "Frente": "143 - FRENTE CASSIO",
     "Responsável": "GABRIEL HENRIQUE MARTINS PEREIRA",
     "Paralelismo": "1.4",
-    "Fazenda": "202804"
+    "Fazenda": "202804",
+    "Unnamed: 16": null
   },
   {
     "ID": "3518563",
@@ -32812,7 +34638,8 @@ const PARALELISMO_DATA = [
     "Frente": "105 - FRENTE CASSIO",
     "Responsável": "NILDA CLAUDINO [2510716]",
     "Paralelismo": "1.5",
-    "Fazenda": "136901"
+    "Fazenda": "136901",
+    "Unnamed: 16": null
   },
   {
     "ID": "3518559",
@@ -32830,7 +34657,8 @@ const PARALELISMO_DATA = [
     "Frente": "105 - FRENTE CASSIO",
     "Responsável": "NILDA CLAUDINO [2510716]",
     "Paralelismo": "1.5",
-    "Fazenda": "136901"
+    "Fazenda": "136901",
+    "Unnamed: 16": null
   },
   {
     "ID": "3518675",
@@ -32848,7 +34676,8 @@ const PARALELISMO_DATA = [
     "Frente": "261 - FRENTE PRÓPRIA  (EDMILSON)",
     "Responsável": "VITOR AMORIM RAMOS ",
     "Paralelismo": "1.4",
-    "Fazenda": "53201"
+    "Fazenda": "53201",
+    "Unnamed: 16": null
   },
   {
     "ID": "3518623",
@@ -32866,7 +34695,8 @@ const PARALELISMO_DATA = [
     "Frente": "139 - FRENTE MANEZÃO",
     "Responsável": "MICHELI DE SOUZA SANTOS  ",
     "Paralelismo": "1.4",
-    "Fazenda": "41701"
+    "Fazenda": "41701",
+    "Unnamed: 16": null
   },
   {
     "ID": "3518622",
@@ -32884,7 +34714,8 @@ const PARALELISMO_DATA = [
     "Frente": "139 - FRENTE MANEZÃO",
     "Responsável": "MICHELI DE SOUZA SANTOS  ",
     "Paralelismo": "1.4",
-    "Fazenda": "41701"
+    "Fazenda": "41701",
+    "Unnamed: 16": null
   },
   {
     "ID": "3518670",
@@ -32902,7 +34733,8 @@ const PARALELISMO_DATA = [
     "Frente": "261 - FRENTE PRÓPRIA  (EDMILSON)",
     "Responsável": "VITOR AMORIM RAMOS ",
     "Paralelismo": "1.4",
-    "Fazenda": "53201"
+    "Fazenda": "53201",
+    "Unnamed: 16": null
   },
   {
     "ID": "3519043",
@@ -32920,7 +34752,8 @@ const PARALELISMO_DATA = [
     "Frente": "135 - PEDRINHO ",
     "Responsável": "MARCELO DE OLIVEIRA JUNIOR",
     "Paralelismo": "1.39",
-    "Fazenda": "41801"
+    "Fazenda": "41801",
+    "Unnamed: 16": null
   },
   {
     "ID": "3518662",
@@ -32938,7 +34771,8 @@ const PARALELISMO_DATA = [
     "Frente": "261 - FRENTE PRÓPRIA  (EDMILSON)",
     "Responsável": "VITOR AMORIM RAMOS ",
     "Paralelismo": "1.4",
-    "Fazenda": "151501"
+    "Fazenda": "151501",
+    "Unnamed: 16": null
   },
   {
     "ID": "3519032",
@@ -32956,7 +34790,8 @@ const PARALELISMO_DATA = [
     "Frente": "135 - PEDRINHO ",
     "Responsável": "MARCELO DE OLIVEIRA JUNIOR",
     "Paralelismo": "1.42",
-    "Fazenda": "41701"
+    "Fazenda": "41701",
+    "Unnamed: 16": null
   },
   {
     "ID": "3518657",
@@ -32974,7 +34809,8 @@ const PARALELISMO_DATA = [
     "Frente": "261 - FRENTE PRÓPRIA  (EDMILSON)",
     "Responsável": "VITOR AMORIM RAMOS ",
     "Paralelismo": "1.4",
-    "Fazenda": "53201"
+    "Fazenda": "53201",
+    "Unnamed: 16": null
   },
   {
     "ID": "3518997",
@@ -32992,7 +34828,8 @@ const PARALELISMO_DATA = [
     "Frente": "135 - PEDRINHO ",
     "Responsável": "MARCELO DE OLIVEIRA JUNIOR",
     "Paralelismo": "1.4",
-    "Fazenda": "41901"
+    "Fazenda": "41901",
+    "Unnamed: 16": null
   },
   {
     "ID": "3518992",
@@ -33010,7 +34847,8 @@ const PARALELISMO_DATA = [
     "Frente": "135 - PEDRINHO ",
     "Responsável": "MARCELO DE OLIVEIRA JUNIOR",
     "Paralelismo": "1.41",
-    "Fazenda": "41901"
+    "Fazenda": "41901",
+    "Unnamed: 16": null
   },
   {
     "ID": "3518538",
@@ -33028,7 +34866,8 @@ const PARALELISMO_DATA = [
     "Frente": "139 - FRENTE MANEZÃO",
     "Responsável": "MICHELI DE SOUZA SANTOS  ",
     "Paralelismo": "1.38",
-    "Fazenda": "41701"
+    "Fazenda": "41701",
+    "Unnamed: 16": null
   },
   {
     "ID": "3518533",
@@ -33046,7 +34885,8 @@ const PARALELISMO_DATA = [
     "Frente": "139 - FRENTE MANEZÃO",
     "Responsável": "MICHELI DE SOUZA SANTOS  ",
     "Paralelismo": "1.43",
-    "Fazenda": "41701"
+    "Fazenda": "41701",
+    "Unnamed: 16": null
   },
   {
     "ID": "3518318",
@@ -33064,7 +34904,8 @@ const PARALELISMO_DATA = [
     "Frente": "105 - FRENTE CASSIO",
     "Responsável": "NILDA CLAUDINO [2510716]",
     "Paralelismo": "1.5",
-    "Fazenda": "136901"
+    "Fazenda": "136901",
+    "Unnamed: 16": null
   },
   {
     "ID": "3518312",
@@ -33082,7 +34923,8 @@ const PARALELISMO_DATA = [
     "Frente": "105 - FRENTE CASSIO",
     "Responsável": "NILDA CLAUDINO [2510716]",
     "Paralelismo": "1.5",
-    "Fazenda": "136901"
+    "Fazenda": "136901",
+    "Unnamed: 16": null
   },
   {
     "ID": "3518978",
@@ -33100,7 +34942,8 @@ const PARALELISMO_DATA = [
     "Frente": "135 - PEDRINHO ",
     "Responsável": "MARCELO DE OLIVEIRA JUNIOR",
     "Paralelismo": "1.39",
-    "Fazenda": "41701"
+    "Fazenda": "41701",
+    "Unnamed: 16": null
   },
   {
     "ID": "3518308",
@@ -33118,7 +34961,8 @@ const PARALELISMO_DATA = [
     "Frente": "105 - FRENTE CASSIO",
     "Responsável": "NILDA CLAUDINO [2510716]",
     "Paralelismo": "1.5",
-    "Fazenda": "136901"
+    "Fazenda": "136901",
+    "Unnamed: 16": null
   },
   {
     "ID": "3518967",
@@ -33136,7 +34980,8 @@ const PARALELISMO_DATA = [
     "Frente": "135 - PEDRINHO ",
     "Responsável": "MARCELO DE OLIVEIRA JUNIOR",
     "Paralelismo": "1.43",
-    "Fazenda": "41901"
+    "Fazenda": "41901",
+    "Unnamed: 16": null
   },
   {
     "ID": "3518962",
@@ -33154,7 +34999,8 @@ const PARALELISMO_DATA = [
     "Frente": "135 - PEDRINHO ",
     "Responsável": "MARCELO DE OLIVEIRA JUNIOR",
     "Paralelismo": "1.4",
-    "Fazenda": "41901"
+    "Fazenda": "41901",
+    "Unnamed: 16": null
   },
   {
     "ID": "3518956",
@@ -33172,7 +35018,8 @@ const PARALELISMO_DATA = [
     "Frente": "135 - PEDRINHO ",
     "Responsável": "MARCELO DE OLIVEIRA JUNIOR",
     "Paralelismo": "1.42",
-    "Fazenda": "41901"
+    "Fazenda": "41901",
+    "Unnamed: 16": null
   },
   {
     "ID": "3516467",
@@ -33190,7 +35037,8 @@ const PARALELISMO_DATA = [
     "Frente": "139 - FRENTE MANEZÃO",
     "Responsável": "MICHELI DE SOUZA SANTOS  ",
     "Paralelismo": "1.39",
-    "Fazenda": "41701"
+    "Fazenda": "41701",
+    "Unnamed: 16": null
   },
   {
     "ID": "3516459",
@@ -33208,7 +35056,8 @@ const PARALELISMO_DATA = [
     "Frente": "139 - FRENTE MANEZÃO",
     "Responsável": "MICHELI DE SOUZA SANTOS  ",
     "Paralelismo": "1.38",
-    "Fazenda": "41801"
+    "Fazenda": "41801",
+    "Unnamed: 16": null
   },
   {
     "ID": "3516454",
@@ -33226,7 +35075,8 @@ const PARALELISMO_DATA = [
     "Frente": "139 - FRENTE MANEZÃO",
     "Responsável": "MICHELI DE SOUZA SANTOS  ",
     "Paralelismo": "1.37",
-    "Fazenda": "41801"
+    "Fazenda": "41801",
+    "Unnamed: 16": null
   },
   {
     "ID": "3516451",
@@ -33244,7 +35094,8 @@ const PARALELISMO_DATA = [
     "Frente": "139 - FRENTE MANEZÃO",
     "Responsável": "MICHELI DE SOUZA SANTOS  ",
     "Paralelismo": "1.44",
-    "Fazenda": "41801"
+    "Fazenda": "41801",
+    "Unnamed: 16": null
   },
   {
     "ID": "3516446",
@@ -33262,7 +35113,8 @@ const PARALELISMO_DATA = [
     "Frente": "139 - FRENTE MANEZÃO",
     "Responsável": "MICHELI DE SOUZA SANTOS  ",
     "Paralelismo": "1.41",
-    "Fazenda": "41801"
+    "Fazenda": "41801",
+    "Unnamed: 16": null
   },
   {
     "ID": "3516442",
@@ -33280,7 +35132,8 @@ const PARALELISMO_DATA = [
     "Frente": "139 - FRENTE MANEZÃO",
     "Responsável": "MICHELI DE SOUZA SANTOS  ",
     "Paralelismo": "1.4",
-    "Fazenda": "41801"
+    "Fazenda": "41801",
+    "Unnamed: 16": null
   },
   {
     "ID": "3516424",
@@ -33298,7 +35151,8 @@ const PARALELISMO_DATA = [
     "Frente": "105 - FRENTE CASSIO",
     "Responsável": "NILDA CLAUDINO [2510716]",
     "Paralelismo": "1.5",
-    "Fazenda": "136901"
+    "Fazenda": "136901",
+    "Unnamed: 16": null
   },
   {
     "ID": "3516354",
@@ -33316,7 +35170,8 @@ const PARALELISMO_DATA = [
     "Frente": "139 - FRENTE MANEZÃO",
     "Responsável": "MICHELI DE SOUZA SANTOS  ",
     "Paralelismo": "1.4",
-    "Fazenda": "41701"
+    "Fazenda": "41701",
+    "Unnamed: 16": null
   },
   {
     "ID": "3516420",
@@ -33334,7 +35189,8 @@ const PARALELISMO_DATA = [
     "Frente": "105 - FRENTE CASSIO",
     "Responsável": "NILDA CLAUDINO [2510716]",
     "Paralelismo": "1.5",
-    "Fazenda": "136901"
+    "Fazenda": "136901",
+    "Unnamed: 16": null
   },
   {
     "ID": "3516416",
@@ -33352,7 +35208,8 @@ const PARALELISMO_DATA = [
     "Frente": "105 - FRENTE CASSIO",
     "Responsável": "NILDA CLAUDINO [2510716]",
     "Paralelismo": "1.5",
-    "Fazenda": "136901"
+    "Fazenda": "136901",
+    "Unnamed: 16": null
   },
   {
     "ID": "3516593",
@@ -33370,7 +35227,8 @@ const PARALELISMO_DATA = [
     "Frente": "135 - PEDRINHO ",
     "Responsável": "MARCELO DE OLIVEIRA JUNIOR",
     "Paralelismo": "1.39",
-    "Fazenda": "41901"
+    "Fazenda": "41901",
+    "Unnamed: 16": null
   },
   {
     "ID": "3516588",
@@ -33388,7 +35246,8 @@ const PARALELISMO_DATA = [
     "Frente": "135 - PEDRINHO ",
     "Responsável": "MARCELO DE OLIVEIRA JUNIOR",
     "Paralelismo": "1.4",
-    "Fazenda": "41901"
+    "Fazenda": "41901",
+    "Unnamed: 16": null
   },
   {
     "ID": "3516583",
@@ -33406,7 +35265,8 @@ const PARALELISMO_DATA = [
     "Frente": "135 - PEDRINHO ",
     "Responsável": "MARCELO DE OLIVEIRA JUNIOR",
     "Paralelismo": "1.4",
-    "Fazenda": "41701"
+    "Fazenda": "41701",
+    "Unnamed: 16": null
   },
   {
     "ID": "3516578",
@@ -33424,7 +35284,8 @@ const PARALELISMO_DATA = [
     "Frente": "135 - PEDRINHO ",
     "Responsável": "MARCELO DE OLIVEIRA JUNIOR",
     "Paralelismo": "1.38",
-    "Fazenda": "41701"
+    "Fazenda": "41701",
+    "Unnamed: 16": null
   },
   {
     "ID": "3515985",
@@ -33442,7 +35303,8 @@ const PARALELISMO_DATA = [
     "Frente": "142 - FRENTE BIDU",
     "Responsável": "VITOR AMORIM RAMOS ",
     "Paralelismo": "1.4",
-    "Fazenda": "253611"
+    "Fazenda": "253611",
+    "Unnamed: 16": null
   },
   {
     "ID": "3515980",
@@ -33460,7 +35322,8 @@ const PARALELISMO_DATA = [
     "Frente": "142 - FRENTE BIDU",
     "Responsável": "VITOR AMORIM RAMOS ",
     "Paralelismo": "1.4",
-    "Fazenda": "253611"
+    "Fazenda": "253611",
+    "Unnamed: 16": null
   },
   {
     "ID": "3515975",
@@ -33478,7 +35341,8 @@ const PARALELISMO_DATA = [
     "Frente": "142 - FRENTE BIDU",
     "Responsável": "VITOR AMORIM RAMOS ",
     "Paralelismo": "1.4",
-    "Fazenda": "253611"
+    "Fazenda": "253611",
+    "Unnamed: 16": null
   },
   {
     "ID": "3515970",
@@ -33496,7 +35360,8 @@ const PARALELISMO_DATA = [
     "Frente": "142 - FRENTE BIDU",
     "Responsável": "VITOR AMORIM RAMOS ",
     "Paralelismo": "1.4",
-    "Fazenda": "253611"
+    "Fazenda": "253611",
+    "Unnamed: 16": null
   },
   {
     "ID": "3515965",
@@ -33514,7 +35379,8 @@ const PARALELISMO_DATA = [
     "Frente": "142 - FRENTE BIDU",
     "Responsável": "VITOR AMORIM RAMOS ",
     "Paralelismo": "1.4",
-    "Fazenda": "253611"
+    "Fazenda": "253611",
+    "Unnamed: 16": null
   },
   {
     "ID": "3515960",
@@ -33532,7 +35398,8 @@ const PARALELISMO_DATA = [
     "Frente": "142 - FRENTE BIDU",
     "Responsável": "VITOR AMORIM RAMOS ",
     "Paralelismo": "1.4",
-    "Fazenda": "253611"
+    "Fazenda": "253611",
+    "Unnamed: 16": null
   },
   {
     "ID": "3515955",
@@ -33550,7 +35417,8 @@ const PARALELISMO_DATA = [
     "Frente": "142 - FRENTE BIDU",
     "Responsável": "VITOR AMORIM RAMOS ",
     "Paralelismo": "1.4",
-    "Fazenda": "253611"
+    "Fazenda": "253611",
+    "Unnamed: 16": null
   },
   {
     "ID": "3515920",
@@ -33568,7 +35436,8 @@ const PARALELISMO_DATA = [
     "Frente": "261 - FRENTE PRÓPRIA  (EDMILSON)",
     "Responsável": "EDILIANA CARDOSO DA COSTA",
     "Paralelismo": "1.4",
-    "Fazenda": "53201"
+    "Fazenda": "53201",
+    "Unnamed: 16": null
   },
   {
     "ID": "3515919",
@@ -33586,7 +35455,8 @@ const PARALELISMO_DATA = [
     "Frente": "261 - FRENTE PRÓPRIA  (EDMILSON)",
     "Responsável": "EDILIANA CARDOSO DA COSTA",
     "Paralelismo": "1.4",
-    "Fazenda": "53201"
+    "Fazenda": "53201",
+    "Unnamed: 16": null
   },
   {
     "ID": "3515918",
@@ -33604,7 +35474,8 @@ const PARALELISMO_DATA = [
     "Frente": "261 - FRENTE PRÓPRIA  (EDMILSON)",
     "Responsável": "EDILIANA CARDOSO DA COSTA",
     "Paralelismo": "1.4",
-    "Fazenda": "53201"
+    "Fazenda": "53201",
+    "Unnamed: 16": null
   },
   {
     "ID": "3515917",
@@ -33622,7 +35493,8 @@ const PARALELISMO_DATA = [
     "Frente": "261 - FRENTE PRÓPRIA  (EDMILSON)",
     "Responsável": "EDILIANA CARDOSO DA COSTA",
     "Paralelismo": "1.4",
-    "Fazenda": "53201"
+    "Fazenda": "53201",
+    "Unnamed: 16": null
   },
   {
     "ID": "3515947",
@@ -33640,7 +35512,8 @@ const PARALELISMO_DATA = [
     "Frente": "142 - FRENTE BIDU",
     "Responsável": "VITOR AMORIM RAMOS ",
     "Paralelismo": "1.4",
-    "Fazenda": "253611"
+    "Fazenda": "253611",
+    "Unnamed: 16": null
   },
   {
     "ID": "3515944",
@@ -33658,7 +35531,8 @@ const PARALELISMO_DATA = [
     "Frente": "142 - FRENTE BIDU",
     "Responsável": "VITOR AMORIM RAMOS ",
     "Paralelismo": "1.4",
-    "Fazenda": "253611"
+    "Fazenda": "253611",
+    "Unnamed: 16": null
   },
   {
     "ID": "3515939",
@@ -33676,7 +35550,8 @@ const PARALELISMO_DATA = [
     "Frente": "142 - FRENTE BIDU",
     "Responsável": "VITOR AMORIM RAMOS ",
     "Paralelismo": "1.4",
-    "Fazenda": "253611"
+    "Fazenda": "253611",
+    "Unnamed: 16": null
   },
   {
     "ID": "3515934",
@@ -33694,7 +35569,8 @@ const PARALELISMO_DATA = [
     "Frente": "142 - FRENTE BIDU",
     "Responsável": "VITOR AMORIM RAMOS ",
     "Paralelismo": "1.4",
-    "Fazenda": "253611"
+    "Fazenda": "253611",
+    "Unnamed: 16": null
   },
   {
     "ID": "3516564",
@@ -33712,7 +35588,8 @@ const PARALELISMO_DATA = [
     "Frente": "135 - PEDRINHO ",
     "Responsável": "MARCELO DE OLIVEIRA JUNIOR",
     "Paralelismo": "1.41",
-    "Fazenda": "250703"
+    "Fazenda": "250703",
+    "Unnamed: 16": null
   },
   {
     "ID": "3516558",
@@ -33730,7 +35607,8 @@ const PARALELISMO_DATA = [
     "Frente": "135 - PEDRINHO ",
     "Responsável": "MARCELO DE OLIVEIRA JUNIOR",
     "Paralelismo": "1.4",
-    "Fazenda": "250703"
+    "Fazenda": "250703",
+    "Unnamed: 16": null
   },
   {
     "ID": "3514280",
@@ -33748,7 +35626,8 @@ const PARALELISMO_DATA = [
     "Frente": "142 - FRENTE BIDU",
     "Responsável": "MARCELO DE OLIVEIRA JUNIOR",
     "Paralelismo": "1.4",
-    "Fazenda": "37341"
+    "Fazenda": "37341",
+    "Unnamed: 16": null
   },
   {
     "ID": "3513895",
@@ -33766,7 +35645,8 @@ const PARALELISMO_DATA = [
     "Frente": "139 - FRENTE MANEZÃO",
     "Responsável": "MICHELI DE SOUZA SANTOS  ",
     "Paralelismo": "1.37",
-    "Fazenda": "41701"
+    "Fazenda": "41701",
+    "Unnamed: 16": null
   },
   {
     "ID": "3513890",
@@ -33784,7 +35664,8 @@ const PARALELISMO_DATA = [
     "Frente": "139 - FRENTE MANEZÃO",
     "Responsável": "MICHELI DE SOUZA SANTOS  ",
     "Paralelismo": "1.39",
-    "Fazenda": "41701"
+    "Fazenda": "41701",
+    "Unnamed: 16": null
   },
   {
     "ID": "3514215",
@@ -33802,7 +35683,8 @@ const PARALELISMO_DATA = [
     "Frente": "101 - FRENTE MECANIZADA",
     "Responsável": "FERNANDA DE SOUZA ",
     "Paralelismo": "1.4",
-    "Fazenda": "53201"
+    "Fazenda": "53201",
+    "Unnamed: 16": null
   },
   {
     "ID": "3513882",
@@ -33820,7 +35702,8 @@ const PARALELISMO_DATA = [
     "Frente": "139 - FRENTE MANEZÃO",
     "Responsável": "MICHELI DE SOUZA SANTOS  ",
     "Paralelismo": "1.38",
-    "Fazenda": "41701"
+    "Fazenda": "41701",
+    "Unnamed: 16": null
   },
   {
     "ID": "3514210",
@@ -33838,7 +35721,8 @@ const PARALELISMO_DATA = [
     "Frente": "101 - FRENTE MECANIZADA",
     "Responsável": "FERNANDA DE SOUZA ",
     "Paralelismo": "1.4",
-    "Fazenda": "53201"
+    "Fazenda": "53201",
+    "Unnamed: 16": null
   },
   {
     "ID": "3514206",
@@ -33856,7 +35740,8 @@ const PARALELISMO_DATA = [
     "Frente": "101 - FRENTE MECANIZADA",
     "Responsável": "FERNANDA DE SOUZA ",
     "Paralelismo": "1.4",
-    "Fazenda": "53201"
+    "Fazenda": "53201",
+    "Unnamed: 16": null
   },
   {
     "ID": "3514201",
@@ -33874,7 +35759,8 @@ const PARALELISMO_DATA = [
     "Frente": "101 - FRENTE MECANIZADA",
     "Responsável": "FERNANDA DE SOUZA ",
     "Paralelismo": "1.4",
-    "Fazenda": "53201"
+    "Fazenda": "53201",
+    "Unnamed: 16": null
   },
   {
     "ID": "3514154",
@@ -33892,7 +35778,8 @@ const PARALELISMO_DATA = [
     "Frente": "101 - FRENTE MECANIZADA",
     "Responsável": "FERNANDA DE SOUZA ",
     "Paralelismo": "1.4",
-    "Fazenda": "53201"
+    "Fazenda": "53201",
+    "Unnamed: 16": null
   },
   {
     "ID": "3514166",
@@ -33910,7 +35797,8 @@ const PARALELISMO_DATA = [
     "Frente": "101 - FRENTE MECANIZADA",
     "Responsável": "FERNANDA DE SOUZA ",
     "Paralelismo": "1.4",
-    "Fazenda": "53201"
+    "Fazenda": "53201",
+    "Unnamed: 16": null
   },
   {
     "ID": "3514265",
@@ -33928,7 +35816,8 @@ const PARALELISMO_DATA = [
     "Frente": "135 - PEDRINHO ",
     "Responsável": "MARCELO DE OLIVEIRA JUNIOR",
     "Paralelismo": "1.4",
-    "Fazenda": "141401"
+    "Fazenda": "141401",
+    "Unnamed: 16": null
   },
   {
     "ID": "3514193",
@@ -33946,7 +35835,8 @@ const PARALELISMO_DATA = [
     "Frente": "135 - PEDRINHO ",
     "Responsável": "MARCELO DE OLIVEIRA JUNIOR",
     "Paralelismo": "1.38",
-    "Fazenda": "37347"
+    "Fazenda": "37347",
+    "Unnamed: 16": null
   },
   {
     "ID": "3514192",
@@ -33964,7 +35854,8 @@ const PARALELISMO_DATA = [
     "Frente": "135 - PEDRINHO ",
     "Responsável": "MARCELO DE OLIVEIRA JUNIOR",
     "Paralelismo": "1.4",
-    "Fazenda": "37347"
+    "Fazenda": "37347",
+    "Unnamed: 16": null
   },
   {
     "ID": "3514161",
@@ -33982,7 +35873,8 @@ const PARALELISMO_DATA = [
     "Frente": "135 - PEDRINHO ",
     "Responsável": "MARCELO DE OLIVEIRA JUNIOR",
     "Paralelismo": "1.4",
-    "Fazenda": "141401"
+    "Fazenda": "141401",
+    "Unnamed: 16": null
   },
   {
     "ID": "3514149",
@@ -34000,7 +35892,8 @@ const PARALELISMO_DATA = [
     "Frente": "135 - PEDRINHO ",
     "Responsável": "MARCELO DE OLIVEIRA JUNIOR",
     "Paralelismo": "1.4",
-    "Fazenda": "141401"
+    "Fazenda": "141401",
+    "Unnamed: 16": null
   },
   {
     "ID": "3514142",
@@ -34018,7 +35911,8 @@ const PARALELISMO_DATA = [
     "Frente": "135 - PEDRINHO ",
     "Responsável": "MARCELO DE OLIVEIRA JUNIOR",
     "Paralelismo": "1.38",
-    "Fazenda": "141401"
+    "Fazenda": "141401",
+    "Unnamed: 16": null
   },
   {
     "ID": "3511765",
@@ -34036,7 +35930,8 @@ const PARALELISMO_DATA = [
     "Frente": "101 - FRENTE MECANIZADA",
     "Responsável": "FERNANDA DE SOUZA ",
     "Paralelismo": "1.4",
-    "Fazenda": "53201"
+    "Fazenda": "53201",
+    "Unnamed: 16": null
   },
   {
     "ID": "3511760",
@@ -34054,7 +35949,8 @@ const PARALELISMO_DATA = [
     "Frente": "101 - FRENTE MECANIZADA",
     "Responsável": "FERNANDA DE SOUZA ",
     "Paralelismo": "1.4",
-    "Fazenda": "53201"
+    "Fazenda": "53201",
+    "Unnamed: 16": null
   },
   {
     "ID": "3511701",
@@ -34072,7 +35968,8 @@ const PARALELISMO_DATA = [
     "Frente": "142 - FRENTE BIDU",
     "Responsável": "VITOR AMORIM RAMOS ",
     "Paralelismo": "1.4",
-    "Fazenda": "37339"
+    "Fazenda": "37339",
+    "Unnamed: 16": null
   },
   {
     "ID": "3511696",
@@ -34090,7 +35987,8 @@ const PARALELISMO_DATA = [
     "Frente": "142 - FRENTE BIDU",
     "Responsável": "VITOR AMORIM RAMOS ",
     "Paralelismo": "1.4",
-    "Fazenda": "37339"
+    "Fazenda": "37339",
+    "Unnamed: 16": null
   },
   {
     "ID": "3511691",
@@ -34108,7 +36006,8 @@ const PARALELISMO_DATA = [
     "Frente": "142 - FRENTE BIDU",
     "Responsável": "VITOR AMORIM RAMOS ",
     "Paralelismo": "1.4",
-    "Fazenda": "37339"
+    "Fazenda": "37339",
+    "Unnamed: 16": null
   },
   {
     "ID": "3512315",
@@ -34126,7 +36025,8 @@ const PARALELISMO_DATA = [
     "Frente": "135 - PEDRINHO ",
     "Responsável": "MARCELO DE OLIVEIRA JUNIOR",
     "Paralelismo": "1.41",
-    "Fazenda": "141401"
+    "Fazenda": "141401",
+    "Unnamed: 16": null
   },
   {
     "ID": "3511686",
@@ -34144,7 +36044,8 @@ const PARALELISMO_DATA = [
     "Frente": "142 - FRENTE BIDU",
     "Responsável": "VITOR AMORIM RAMOS ",
     "Paralelismo": "1.4",
-    "Fazenda": "37339"
+    "Fazenda": "37339",
+    "Unnamed: 16": null
   },
   {
     "ID": "3512312",
@@ -34162,7 +36063,8 @@ const PARALELISMO_DATA = [
     "Frente": "135 - PEDRINHO ",
     "Responsável": "MARCELO DE OLIVEIRA JUNIOR",
     "Paralelismo": "1.4",
-    "Fazenda": "141401"
+    "Fazenda": "141401",
+    "Unnamed: 16": null
   },
   {
     "ID": "3512311",
@@ -34180,7 +36082,8 @@ const PARALELISMO_DATA = [
     "Frente": "135 - PEDRINHO ",
     "Responsável": "MARCELO DE OLIVEIRA JUNIOR",
     "Paralelismo": "1.39",
-    "Fazenda": "141401"
+    "Fazenda": "141401",
+    "Unnamed: 16": null
   },
   {
     "ID": "3511670",
@@ -34198,7 +36101,8 @@ const PARALELISMO_DATA = [
     "Frente": "142 - FRENTE BIDU",
     "Responsável": "VITOR AMORIM RAMOS ",
     "Paralelismo": "1.4",
-    "Fazenda": "37340"
+    "Fazenda": "37340",
+    "Unnamed: 16": null
   },
   {
     "ID": "3511788",
@@ -34216,7 +36120,8 @@ const PARALELISMO_DATA = [
     "Frente": "142 - FRENTE BIDU",
     "Responsável": "VITOR AMORIM RAMOS ",
     "Paralelismo": "1.4",
-    "Fazenda": "37340"
+    "Fazenda": "37340",
+    "Unnamed: 16": null
   },
   {
     "ID": "3511812",
@@ -34234,7 +36139,8 @@ const PARALELISMO_DATA = [
     "Frente": "143 - FRENTE CASSIO",
     "Responsável": "GABRIEL HENRIQUE MARTINS PEREIRA",
     "Paralelismo": "1.4",
-    "Fazenda": "37342"
+    "Fazenda": "37342",
+    "Unnamed: 16": null
   },
   {
     "ID": "3511308",
@@ -34252,7 +36158,8 @@ const PARALELISMO_DATA = [
     "Frente": "105 - FRENTE CASSIO",
     "Responsável": "NILDA CLAUDINO [2510716]",
     "Paralelismo": "1.4",
-    "Fazenda": "71001"
+    "Fazenda": "71001",
+    "Unnamed: 16": null
   },
   {
     "ID": "3511304",
@@ -34270,7 +36177,8 @@ const PARALELISMO_DATA = [
     "Frente": "105 - FRENTE CASSIO",
     "Responsável": "NILDA CLAUDINO [2510716]",
     "Paralelismo": "1.4",
-    "Fazenda": "71001"
+    "Fazenda": "71001",
+    "Unnamed: 16": null
   },
   {
     "ID": "3511297",
@@ -34288,7 +36196,8 @@ const PARALELISMO_DATA = [
     "Frente": "105 - FRENTE CASSIO",
     "Responsável": "NILDA CLAUDINO [2510716]",
     "Paralelismo": "1.4",
-    "Fazenda": "71001"
+    "Fazenda": "71001",
+    "Unnamed: 16": null
   },
   {
     "ID": "3511807",
@@ -34306,7 +36215,8 @@ const PARALELISMO_DATA = [
     "Frente": "143 - FRENTE CASSIO",
     "Responsável": "GABRIEL HENRIQUE MARTINS PEREIRA",
     "Paralelismo": "1.4",
-    "Fazenda": "37342"
+    "Fazenda": "37342",
+    "Unnamed: 16": null
   },
   {
     "ID": "3511803",
@@ -34324,7 +36234,8 @@ const PARALELISMO_DATA = [
     "Frente": "143 - FRENTE CASSIO",
     "Responsável": "GABRIEL HENRIQUE MARTINS PEREIRA",
     "Paralelismo": "1.4",
-    "Fazenda": "37342"
+    "Fazenda": "37342",
+    "Unnamed: 16": null
   },
   {
     "ID": "3511798",
@@ -34342,7 +36253,8 @@ const PARALELISMO_DATA = [
     "Frente": "143 - FRENTE CASSIO",
     "Responsável": "GABRIEL HENRIQUE MARTINS PEREIRA",
     "Paralelismo": "1.4",
-    "Fazenda": "37342"
+    "Fazenda": "37342",
+    "Unnamed: 16": null
   },
   {
     "ID": "3511285",
@@ -34360,7 +36272,8 @@ const PARALELISMO_DATA = [
     "Frente": "105 - FRENTE CASSIO",
     "Responsável": "NILDA CLAUDINO [2510716]",
     "Paralelismo": "1.4",
-    "Fazenda": "71001"
+    "Fazenda": "71001",
+    "Unnamed: 16": null
   },
   {
     "ID": "3509456",
@@ -34378,7 +36291,8 @@ const PARALELISMO_DATA = [
     "Frente": "105 - FRENTE CASSIO",
     "Responsável": "NILDA CLAUDINO [2510716]",
     "Paralelismo": "1.4",
-    "Fazenda": "71001"
+    "Fazenda": "71001",
+    "Unnamed: 16": null
   },
   {
     "ID": "3509939",
@@ -34396,7 +36310,8 @@ const PARALELISMO_DATA = [
     "Frente": "143 - FRENTE CASSIO",
     "Responsável": "GABRIEL HENRIQUE MARTINS PEREIRA",
     "Paralelismo": "1.4",
-    "Fazenda": "37359"
+    "Fazenda": "37359",
+    "Unnamed: 16": null
   },
   {
     "ID": "3509452",
@@ -34414,7 +36329,8 @@ const PARALELISMO_DATA = [
     "Frente": "105 - FRENTE CASSIO",
     "Responsável": "NILDA CLAUDINO [2510716]",
     "Paralelismo": "1.4",
-    "Fazenda": "71001"
+    "Fazenda": "71001",
+    "Unnamed: 16": null
   },
   {
     "ID": "3509628",
@@ -34432,7 +36348,8 @@ const PARALELISMO_DATA = [
     "Frente": "139 - FRENTE MANEZÃO",
     "Responsável": "FERNANDA DE SOUZA ",
     "Paralelismo": "1.4",
-    "Fazenda": "35001"
+    "Fazenda": "35001",
+    "Unnamed: 16": null
   },
   {
     "ID": "3509445",
@@ -34450,7 +36367,8 @@ const PARALELISMO_DATA = [
     "Frente": "105 - FRENTE CASSIO (ZACARIAS)",
     "Responsável": "NILDA CLAUDINO [2510716]",
     "Paralelismo": "1.4",
-    "Fazenda": "71001"
+    "Fazenda": "71001",
+    "Unnamed: 16": null
   },
   {
     "ID": "3509627",
@@ -34468,7 +36386,8 @@ const PARALELISMO_DATA = [
     "Frente": "139 - FRENTE MANEZÃO",
     "Responsável": "FERNANDA DE SOUZA ",
     "Paralelismo": "1.4",
-    "Fazenda": "35001"
+    "Fazenda": "35001",
+    "Unnamed: 16": null
   },
   {
     "ID": "3509441",
@@ -34486,7 +36405,8 @@ const PARALELISMO_DATA = [
     "Frente": "105 - FRENTE CASSIO",
     "Responsável": "NILDA CLAUDINO [2510716]",
     "Paralelismo": "1.4",
-    "Fazenda": "71001"
+    "Fazenda": "71001",
+    "Unnamed: 16": null
   },
   {
     "ID": "3509536",
@@ -34504,7 +36424,8 @@ const PARALELISMO_DATA = [
     "Frente": "135 - PEDRINHO ",
     "Responsável": "MARCELO DE OLIVEIRA JUNIOR",
     "Paralelismo": "1.4",
-    "Fazenda": "37344"
+    "Fazenda": "37344",
+    "Unnamed: 16": null
   },
   {
     "ID": "3509284",
@@ -34522,7 +36443,8 @@ const PARALELISMO_DATA = [
     "Frente": "142 - FRENTE BIDU",
     "Responsável": "MICHELI DE SOUZA SANTOS  ",
     "Paralelismo": "1.39",
-    "Fazenda": "37331"
+    "Fazenda": "37331",
+    "Unnamed: 16": null
   },
   {
     "ID": "3509283",
@@ -34540,7 +36462,8 @@ const PARALELISMO_DATA = [
     "Frente": "142 - FRENTE BIDU",
     "Responsável": "MICHELI DE SOUZA SANTOS  ",
     "Paralelismo": "1.38",
-    "Fazenda": "37331"
+    "Fazenda": "37331",
+    "Unnamed: 16": null
   },
   {
     "ID": "3509282",
@@ -34558,7 +36481,8 @@ const PARALELISMO_DATA = [
     "Frente": "142 - FRENTE BIDU",
     "Responsável": "MICHELI DE SOUZA SANTOS  ",
     "Paralelismo": "1.42",
-    "Fazenda": "37331"
+    "Fazenda": "37331",
+    "Unnamed: 16": null
   },
   {
     "ID": "3509281",
@@ -34576,7 +36500,8 @@ const PARALELISMO_DATA = [
     "Frente": "142 - FRENTE BIDU",
     "Responsável": "MICHELI DE SOUZA SANTOS  ",
     "Paralelismo": "1.43",
-    "Fazenda": "37328"
+    "Fazenda": "37328",
+    "Unnamed: 16": null
   },
   {
     "ID": "3509280",
@@ -34594,7 +36519,8 @@ const PARALELISMO_DATA = [
     "Frente": "142 - FRENTE BIDU",
     "Responsável": "MICHELI DE SOUZA SANTOS  ",
     "Paralelismo": "1.42",
-    "Fazenda": "37328"
+    "Fazenda": "37328",
+    "Unnamed: 16": null
   },
   {
     "ID": "3509279",
@@ -34612,7 +36538,8 @@ const PARALELISMO_DATA = [
     "Frente": "142 - FRENTE BIDU",
     "Responsável": "MICHELI DE SOUZA SANTOS  ",
     "Paralelismo": "1.38",
-    "Fazenda": "37328"
+    "Fazenda": "37328",
+    "Unnamed: 16": null
   },
   {
     "ID": "3509513",
@@ -34630,7 +36557,8 @@ const PARALELISMO_DATA = [
     "Frente": "135 - PEDRINHO ",
     "Responsável": "MARCELO DE OLIVEIRA JUNIOR",
     "Paralelismo": "1.4",
-    "Fazenda": "37343"
+    "Fazenda": "37343",
+    "Unnamed: 16": null
   },
   {
     "ID": "3509542",
@@ -34648,7 +36576,8 @@ const PARALELISMO_DATA = [
     "Frente": "143 - FRENTE CASSIO",
     "Responsável": "REGINALDO DA SILVA GOMES ",
     "Paralelismo": "1.37",
-    "Fazenda": "37359"
+    "Fazenda": "37359",
+    "Unnamed: 16": null
   },
   {
     "ID": "3509503",
@@ -34666,7 +36595,8 @@ const PARALELISMO_DATA = [
     "Frente": "135 - PEDRINHO ",
     "Responsável": "MARCELO DE OLIVEIRA JUNIOR",
     "Paralelismo": "1.4",
-    "Fazenda": "37344"
+    "Fazenda": "37344",
+    "Unnamed: 16": null
   },
   {
     "ID": "3509531",
@@ -34684,7 +36614,8 @@ const PARALELISMO_DATA = [
     "Frente": "143 - FRENTE CASSIO",
     "Responsável": "REGINALDO DA SILVA GOMES ",
     "Paralelismo": "1.4",
-    "Fazenda": "37359"
+    "Fazenda": "37359",
+    "Unnamed: 16": null
   },
   {
     "ID": "3509522",
@@ -34702,7 +36633,8 @@ const PARALELISMO_DATA = [
     "Frente": "143 - FRENTE CASSIO",
     "Responsável": "REGINALDO DA SILVA GOMES ",
     "Paralelismo": "1.38",
-    "Fazenda": "37359"
+    "Fazenda": "37359",
+    "Unnamed: 16": null
   },
   {
     "ID": "3509930",
@@ -34720,7 +36652,8 @@ const PARALELISMO_DATA = [
     "Frente": "143 - FRENTE CASSIO",
     "Responsável": "GABRIEL HENRIQUE MARTINS PEREIRA",
     "Paralelismo": "1.4",
-    "Fazenda": "37360"
+    "Fazenda": "37360",
+    "Unnamed: 16": null
   },
   {
     "ID": "3509515",
@@ -34738,7 +36671,8 @@ const PARALELISMO_DATA = [
     "Frente": "142 - FRENTE BIDU",
     "Responsável": "REGINALDO DA SILVA GOMES ",
     "Paralelismo": "1.41",
-    "Fazenda": "37328"
+    "Fazenda": "37328",
+    "Unnamed: 16": null
   },
   {
     "ID": "3509506",
@@ -34756,7 +36690,8 @@ const PARALELISMO_DATA = [
     "Frente": "142 - FRENTE BIDU",
     "Responsável": "REGINALDO DA SILVA GOMES ",
     "Paralelismo": "1.4",
-    "Fazenda": "37328"
+    "Fazenda": "37328",
+    "Unnamed: 16": null
   },
   {
     "ID": "3509495",
@@ -34774,7 +36709,8 @@ const PARALELISMO_DATA = [
     "Frente": "142 - FRENTE BIDU",
     "Responsável": "REGINALDO DA SILVA GOMES ",
     "Paralelismo": "1.35",
-    "Fazenda": "37328"
+    "Fazenda": "37328",
+    "Unnamed: 16": null
   },
   {
     "ID": "3509925",
@@ -34792,7 +36728,8 @@ const PARALELISMO_DATA = [
     "Frente": "143 - FRENTE CASSIO",
     "Responsável": "GABRIEL HENRIQUE MARTINS PEREIRA",
     "Paralelismo": "1.4",
-    "Fazenda": "37360"
+    "Fazenda": "37360",
+    "Unnamed: 16": null
   },
   {
     "ID": "3509607",
@@ -34810,7 +36747,8 @@ const PARALELISMO_DATA = [
     "Frente": "139 - FRENTE MANEZÃO",
     "Responsável": "FERNANDA DE SOUZA ",
     "Paralelismo": "1.4",
-    "Fazenda": "35001"
+    "Fazenda": "35001",
+    "Unnamed: 16": null
   },
   {
     "ID": "3509603",
@@ -34828,7 +36766,8 @@ const PARALELISMO_DATA = [
     "Frente": "139 - FRENTE MANEZÃO",
     "Responsável": "FERNANDA DE SOUZA ",
     "Paralelismo": "1.4",
-    "Fazenda": "35001"
+    "Fazenda": "35001",
+    "Unnamed: 16": null
   },
   {
     "ID": "3509488",
@@ -34846,7 +36785,8 @@ const PARALELISMO_DATA = [
     "Frente": "135 - PEDRINHO ",
     "Responsável": "REGINALDO DA SILVA GOMES ",
     "Paralelismo": "1.43",
-    "Fazenda": "37343"
+    "Fazenda": "37343",
+    "Unnamed: 16": null
   },
   {
     "ID": "3509919",
@@ -34864,7 +36804,8 @@ const PARALELISMO_DATA = [
     "Frente": "143 - FRENTE CASSIO",
     "Responsável": "GABRIEL HENRIQUE MARTINS PEREIRA",
     "Paralelismo": "1.4",
-    "Fazenda": "37359"
+    "Fazenda": "37359",
+    "Unnamed: 16": null
   },
   {
     "ID": "3509481",
@@ -34882,7 +36823,8 @@ const PARALELISMO_DATA = [
     "Frente": "135 - PEDRINHO ",
     "Responsável": "REGINALDO DA SILVA GOMES ",
     "Paralelismo": "1.36",
-    "Fazenda": "37343"
+    "Fazenda": "37343",
+    "Unnamed: 16": null
   },
   {
     "ID": "3509867",
@@ -34900,7 +36842,8 @@ const PARALELISMO_DATA = [
     "Frente": "143 - FRENTE CASSIO",
     "Responsável": "GABRIEL HENRIQUE MARTINS PEREIRA",
     "Paralelismo": "1.4",
-    "Fazenda": "37359"
+    "Fazenda": "37359",
+    "Unnamed: 16": null
   },
   {
     "ID": "3509474",
@@ -34918,7 +36861,8 @@ const PARALELISMO_DATA = [
     "Frente": "135 - PEDRINHO ",
     "Responsável": "REGINALDO DA SILVA GOMES ",
     "Paralelismo": "1.4",
-    "Fazenda": "37343"
+    "Fazenda": "37343",
+    "Unnamed: 16": null
   },
   {
     "ID": "3509850",
@@ -34936,7 +36880,8 @@ const PARALELISMO_DATA = [
     "Frente": "143 - FRENTE CASSIO",
     "Responsável": "GABRIEL HENRIQUE MARTINS PEREIRA",
     "Paralelismo": "1.4",
-    "Fazenda": "37359"
+    "Fazenda": "37359",
+    "Unnamed: 16": null
   },
   {
     "ID": "3509316",
@@ -34954,7 +36899,8 @@ const PARALELISMO_DATA = [
     "Frente": "105 - FRENTE CASSIO (ZACARIAS)",
     "Responsável": "NILDA CLAUDINO [2510716]",
     "Paralelismo": "1.4",
-    "Fazenda": "71001"
+    "Fazenda": "71001",
+    "Unnamed: 16": null
   },
   {
     "ID": "3509749",
@@ -34972,7 +36918,8 @@ const PARALELISMO_DATA = [
     "Frente": "143 - FRENTE CASSIO",
     "Responsável": "GABRIEL HENRIQUE MARTINS PEREIRA",
     "Paralelismo": "1.4",
-    "Fazenda": "37352"
+    "Fazenda": "37352",
+    "Unnamed: 16": null
   },
   {
     "ID": "3509312",
@@ -34990,7 +36937,8 @@ const PARALELISMO_DATA = [
     "Frente": "105 - FRENTE CASSIO (ZACARIAS)",
     "Responsável": "NILDA CLAUDINO [2510716]",
     "Paralelismo": "1.4",
-    "Fazenda": "71001"
+    "Fazenda": "71001",
+    "Unnamed: 16": null
   },
   {
     "ID": "3509483",
@@ -35008,7 +36956,8 @@ const PARALELISMO_DATA = [
     "Frente": "135 - PEDRINHO ",
     "Responsável": "MARCELO DE OLIVEIRA JUNIOR",
     "Paralelismo": "1.38",
-    "Fazenda": "37345"
+    "Fazenda": "37345",
+    "Unnamed: 16": null
   },
   {
     "ID": "3509308",
@@ -35026,7 +36975,8 @@ const PARALELISMO_DATA = [
     "Frente": "105 - FRENTE CASSIO",
     "Responsável": "NILDA CLAUDINO [2510716]",
     "Paralelismo": "1.4",
-    "Fazenda": "71001"
+    "Fazenda": "71001",
+    "Unnamed: 16": null
   },
   {
     "ID": "3509480",
@@ -35044,7 +36994,8 @@ const PARALELISMO_DATA = [
     "Frente": "135 - PEDRINHO ",
     "Responsável": "MARCELO DE OLIVEIRA JUNIOR",
     "Paralelismo": "1.4",
-    "Fazenda": "37345"
+    "Fazenda": "37345",
+    "Unnamed: 16": null
   },
   {
     "ID": "3509305",
@@ -35062,7 +37013,8 @@ const PARALELISMO_DATA = [
     "Frente": "105 - FRENTE CASSIO (ZACARIAS)",
     "Responsável": "NILDA CLAUDINO [2510716]",
     "Paralelismo": "1.4",
-    "Fazenda": "71001"
+    "Fazenda": "71001",
+    "Unnamed: 16": null
   },
   {
     "ID": "3509425",
@@ -35080,7 +37032,8 @@ const PARALELISMO_DATA = [
     "Frente": "135 - PEDRINHO ",
     "Responsável": "MARCELO DE OLIVEIRA JUNIOR",
     "Paralelismo": "1.4",
-    "Fazenda": "37345"
+    "Fazenda": "37345",
+    "Unnamed: 16": null
   },
   {
     "ID": "3507666",
@@ -35098,7 +37051,8 @@ const PARALELISMO_DATA = [
     "Frente": "135 - PEDRINHO ",
     "Responsável": "MARCELO DE OLIVEIRA JUNIOR",
     "Paralelismo": "1.41",
-    "Fazenda": "37344"
+    "Fazenda": "37344",
+    "Unnamed: 16": null
   },
   {
     "ID": "3507663",
@@ -35116,7 +37070,8 @@ const PARALELISMO_DATA = [
     "Frente": "135 - PEDRINHO ",
     "Responsável": "MARCELO DE OLIVEIRA JUNIOR",
     "Paralelismo": "1.38",
-    "Fazenda": "37344"
+    "Fazenda": "37344",
+    "Unnamed: 16": null
   },
   {
     "ID": "3507662",
@@ -35134,7 +37089,8 @@ const PARALELISMO_DATA = [
     "Frente": "135 - PEDRINHO ",
     "Responsável": "MARCELO DE OLIVEIRA JUNIOR",
     "Paralelismo": "1.4",
-    "Fazenda": "37344"
+    "Fazenda": "37344",
+    "Unnamed: 16": null
   },
   {
     "ID": "3507660",
@@ -35152,7 +37108,8 @@ const PARALELISMO_DATA = [
     "Frente": "135 - PEDRINHO ",
     "Responsável": "MARCELO DE OLIVEIRA JUNIOR",
     "Paralelismo": "1.39",
-    "Fazenda": "37344"
+    "Fazenda": "37344",
+    "Unnamed: 16": null
   },
   {
     "ID": "3498744",
@@ -35170,7 +37127,8 @@ const PARALELISMO_DATA = [
     "Frente": "261 - FRENTE PRÓPRIA  (EDMILSON)",
     "Responsável": "VITOR AMORIM RAMOS ",
     "Paralelismo": "1.4",
-    "Fazenda": "143001"
+    "Fazenda": "143001",
+    "Unnamed: 16": null
   },
   {
     "ID": "3498739",
@@ -35188,7 +37146,8 @@ const PARALELISMO_DATA = [
     "Frente": "261 - FRENTE PRÓPRIA  (EDMILSON)",
     "Responsável": "VITOR AMORIM RAMOS ",
     "Paralelismo": "1.4",
-    "Fazenda": "143001"
+    "Fazenda": "143001",
+    "Unnamed: 16": null
   },
   {
     "ID": "3498509",
@@ -35206,7 +37165,8 @@ const PARALELISMO_DATA = [
     "Frente": "135 - PEDRINHO ",
     "Responsável": "NILDA CLAUDINO [2510716]",
     "Paralelismo": "1.4",
-    "Fazenda": "37349"
+    "Fazenda": "37349",
+    "Unnamed: 16": null
   },
   {
     "ID": "3498478",
@@ -35224,7 +37184,8 @@ const PARALELISMO_DATA = [
     "Frente": "142 - FRENTE BIDU",
     "Responsável": "GLEISON FELIPE BORGES DE MATOS",
     "Paralelismo": "1.42",
-    "Fazenda": "37352"
+    "Fazenda": "37352",
+    "Unnamed: 16": null
   },
   {
     "ID": "3498664",
@@ -35242,7 +37203,8 @@ const PARALELISMO_DATA = [
     "Frente": "135 - PEDRINHO ",
     "Responsável": "MARCELO DE OLIVEIRA JUNIOR",
     "Paralelismo": "1.4",
-    "Fazenda": "37348"
+    "Fazenda": "37348",
+    "Unnamed: 16": null
   },
   {
     "ID": "3498505",
@@ -35260,7 +37222,8 @@ const PARALELISMO_DATA = [
     "Frente": "135 - PEDRINHO ",
     "Responsável": "NILDA CLAUDINO [2510716]",
     "Paralelismo": "1.4",
-    "Fazenda": "37349"
+    "Fazenda": "37349",
+    "Unnamed: 16": null
   },
   {
     "ID": "3498659",
@@ -35278,7 +37241,8 @@ const PARALELISMO_DATA = [
     "Frente": "135 - PEDRINHO ",
     "Responsável": "MARCELO DE OLIVEIRA JUNIOR",
     "Paralelismo": "1.41",
-    "Fazenda": "37348"
+    "Fazenda": "37348",
+    "Unnamed: 16": null
   },
   {
     "ID": "3498731",
@@ -35296,7 +37260,8 @@ const PARALELISMO_DATA = [
     "Frente": "261 - FRENTE PRÓPRIA  (EDMILSON)",
     "Responsável": "VITOR AMORIM RAMOS ",
     "Paralelismo": "1.4",
-    "Fazenda": "284701"
+    "Fazenda": "284701",
+    "Unnamed: 16": null
   },
   {
     "ID": "3498500",
@@ -35314,7 +37279,8 @@ const PARALELISMO_DATA = [
     "Frente": "135 - PEDRINHO ",
     "Responsável": "NILDA CLAUDINO [2510716]",
     "Paralelismo": "1.4",
-    "Fazenda": "37349"
+    "Fazenda": "37349",
+    "Unnamed: 16": null
   },
   {
     "ID": "3498654",
@@ -35332,7 +37298,8 @@ const PARALELISMO_DATA = [
     "Frente": "135 - PEDRINHO ",
     "Responsável": "MARCELO DE OLIVEIRA JUNIOR",
     "Paralelismo": "1.39",
-    "Fazenda": "37348"
+    "Fazenda": "37348",
+    "Unnamed: 16": null
   },
   {
     "ID": "3498468",
@@ -35350,7 +37317,8 @@ const PARALELISMO_DATA = [
     "Frente": "142 - FRENTE BIDU",
     "Responsável": "GLEISON FELIPE BORGES DE MATOS",
     "Paralelismo": "1.4",
-    "Fazenda": "37351"
+    "Fazenda": "37351",
+    "Unnamed: 16": null
   },
   {
     "ID": "3498725",
@@ -35368,7 +37336,8 @@ const PARALELISMO_DATA = [
     "Frente": "261 - FRENTE PRÓPRIA  (EDMILSON)",
     "Responsável": "VITOR AMORIM RAMOS ",
     "Paralelismo": "1.4",
-    "Fazenda": "284701"
+    "Fazenda": "284701",
+    "Unnamed: 16": null
   },
   {
     "ID": "3498496",
@@ -35386,7 +37355,8 @@ const PARALELISMO_DATA = [
     "Frente": "135 - PEDRINHO ",
     "Responsável": "NILDA CLAUDINO [2510716]",
     "Paralelismo": "1.4",
-    "Fazenda": "37349"
+    "Fazenda": "37349",
+    "Unnamed: 16": null
   },
   {
     "ID": "3498648",
@@ -35404,7 +37374,8 @@ const PARALELISMO_DATA = [
     "Frente": "135 - PEDRINHO ",
     "Responsável": "MARCELO DE OLIVEIRA JUNIOR",
     "Paralelismo": "1.4",
-    "Fazenda": "37348"
+    "Fazenda": "37348",
+    "Unnamed: 16": null
   },
   {
     "ID": "3498718",
@@ -35422,7 +37393,8 @@ const PARALELISMO_DATA = [
     "Frente": "261 - FRENTE PRÓPRIA  (EDMILSON)",
     "Responsável": "VITOR AMORIM RAMOS ",
     "Paralelismo": "1.4",
-    "Fazenda": "284701"
+    "Fazenda": "284701",
+    "Unnamed: 16": null
   },
   {
     "ID": "3498686",
@@ -35440,7 +37412,8 @@ const PARALELISMO_DATA = [
     "Frente": "261 - FRENTE PRÓPRIA  (EDMILSON)",
     "Responsável": "VITOR AMORIM RAMOS ",
     "Paralelismo": "1.4",
-    "Fazenda": "217801"
+    "Fazenda": "217801",
+    "Unnamed: 16": null
   },
   {
     "ID": "3498566",
@@ -35458,7 +37431,8 @@ const PARALELISMO_DATA = [
     "Frente": "139 - FRENTE MANEZÃO",
     "Responsável": "FERNANDA DE SOUZA ",
     "Paralelismo": "1.4",
-    "Fazenda": "34706"
+    "Fazenda": "34706",
+    "Unnamed: 16": null
   },
   {
     "ID": "3498998",
@@ -35476,7 +37450,8 @@ const PARALELISMO_DATA = [
     "Frente": "139 - FRENTE MANEZÃO",
     "Responsável": "GABRIEL HENRIQUE MARTINS PEREIRA",
     "Paralelismo": "1.4",
-    "Fazenda": "34706"
+    "Fazenda": "34706",
+    "Unnamed: 16": null
   },
   {
     "ID": "3498563",
@@ -35494,7 +37469,8 @@ const PARALELISMO_DATA = [
     "Frente": "139 - Manezão",
     "Responsável": "FERNANDA DE SOUZA ",
     "Paralelismo": "1.4",
-    "Fazenda": "34706"
+    "Fazenda": "34706",
+    "Unnamed: 16": null
   },
   {
     "ID": "3498993",
@@ -35512,7 +37488,8 @@ const PARALELISMO_DATA = [
     "Frente": "139 - FRENTE MANEZÃO",
     "Responsável": "GABRIEL HENRIQUE MARTINS PEREIRA",
     "Paralelismo": "1.4",
-    "Fazenda": "34706"
+    "Fazenda": "34706",
+    "Unnamed: 16": null
   },
   {
     "ID": "3498676",
@@ -35530,7 +37507,8 @@ const PARALELISMO_DATA = [
     "Frente": "261 - FRENTE PRÓPRIA  (EDMILSON)",
     "Responsável": "VITOR AMORIM RAMOS ",
     "Paralelismo": "1.4",
-    "Fazenda": "284701"
+    "Fazenda": "284701",
+    "Unnamed: 16": null
   },
   {
     "ID": "3498989",
@@ -35548,7 +37526,8 @@ const PARALELISMO_DATA = [
     "Frente": "139 - FRENTE MANEZÃO",
     "Responsável": "GABRIEL HENRIQUE MARTINS PEREIRA",
     "Paralelismo": "1.4",
-    "Fazenda": "34706"
+    "Fazenda": "34706",
+    "Unnamed: 16": null
   },
   {
     "ID": "3498554",
@@ -35566,7 +37545,8 @@ const PARALELISMO_DATA = [
     "Frente": "139 - FRENTE MANEZÃO",
     "Responsável": "FERNANDA DE SOUZA ",
     "Paralelismo": "1.4",
-    "Fazenda": "34706"
+    "Fazenda": "34706",
+    "Unnamed: 16": null
   },
   {
     "ID": "3498641",
@@ -35584,7 +37564,8 @@ const PARALELISMO_DATA = [
     "Frente": "261 - FRENTE PRÓPRIA  (EDMILSON)",
     "Responsável": "VITOR AMORIM RAMOS ",
     "Paralelismo": "1.4",
-    "Fazenda": "217801"
+    "Fazenda": "217801",
+    "Unnamed: 16": null
   },
   {
     "ID": "3498982",
@@ -35602,7 +37583,8 @@ const PARALELISMO_DATA = [
     "Frente": "139 - FRENTE MANEZÃO",
     "Responsável": "GABRIEL HENRIQUE MARTINS PEREIRA",
     "Paralelismo": "1.4",
-    "Fazenda": "34706"
+    "Fazenda": "34706",
+    "Unnamed: 16": null
   },
   {
     "ID": "3498624",
@@ -35620,7 +37602,8 @@ const PARALELISMO_DATA = [
     "Frente": "261 - FRENTE PRÓPRIA  (EDMILSON)",
     "Responsável": "VITOR AMORIM RAMOS ",
     "Paralelismo": "1.4",
-    "Fazenda": "284701"
+    "Fazenda": "284701",
+    "Unnamed: 16": null
   },
   {
     "ID": "3498619",
@@ -35638,7 +37621,8 @@ const PARALELISMO_DATA = [
     "Frente": "261 - FRENTE PRÓPRIA  (EDMILSON)",
     "Responsável": "VITOR AMORIM RAMOS ",
     "Paralelismo": "1.4",
-    "Fazenda": "284701"
+    "Fazenda": "284701",
+    "Unnamed: 16": null
   },
   {
     "ID": "3498614",
@@ -35656,7 +37640,8 @@ const PARALELISMO_DATA = [
     "Frente": "261 - FRENTE PRÓPRIA  (EDMILSON)",
     "Responsável": "VITOR AMORIM RAMOS ",
     "Paralelismo": "1.4",
-    "Fazenda": "284701"
+    "Fazenda": "284701",
+    "Unnamed: 16": null
   },
   {
     "ID": "3496796",
@@ -35674,7 +37659,8 @@ const PARALELISMO_DATA = [
     "Frente": "135 - PEDRINHO ",
     "Responsável": "MARCELO DE OLIVEIRA JUNIOR",
     "Paralelismo": "1.4",
-    "Fazenda": "37320"
+    "Fazenda": "37320",
+    "Unnamed: 16": null
   },
   {
     "ID": "3496791",
@@ -35692,7 +37678,8 @@ const PARALELISMO_DATA = [
     "Frente": "135 - PEDRINHO ",
     "Responsável": "MARCELO DE OLIVEIRA JUNIOR",
     "Paralelismo": "1.38",
-    "Fazenda": "37320"
+    "Fazenda": "37320",
+    "Unnamed: 16": null
   },
   {
     "ID": "3496786",
@@ -35710,7 +37697,8 @@ const PARALELISMO_DATA = [
     "Frente": "135 - PEDRINHO ",
     "Responsável": "MARCELO DE OLIVEIRA JUNIOR",
     "Paralelismo": "1.4",
-    "Fazenda": "37320"
+    "Fazenda": "37320",
+    "Unnamed: 16": null
   },
   {
     "ID": "3496781",
@@ -35728,7 +37716,8 @@ const PARALELISMO_DATA = [
     "Frente": "135 - PEDRINHO ",
     "Responsável": "MARCELO DE OLIVEIRA JUNIOR",
     "Paralelismo": "1.4",
-    "Fazenda": "37320"
+    "Fazenda": "37320",
+    "Unnamed: 16": null
   },
   {
     "ID": "3496222",
@@ -35746,7 +37735,8 @@ const PARALELISMO_DATA = [
     "Frente": "142 - FRENTE BIDU",
     "Responsável": "GLEISON FELIPE BORGES DE MATOS",
     "Paralelismo": "1.4",
-    "Fazenda": "37311"
+    "Fazenda": "37311",
+    "Unnamed: 16": null
   },
   {
     "ID": "3496218",
@@ -35764,7 +37754,8 @@ const PARALELISMO_DATA = [
     "Frente": "142 - FRENTE BIDU",
     "Responsável": "GLEISON FELIPE BORGES DE MATOS",
     "Paralelismo": "1.4",
-    "Fazenda": "37311"
+    "Fazenda": "37311",
+    "Unnamed: 16": null
   },
   {
     "ID": "3496674",
@@ -35782,7 +37773,8 @@ const PARALELISMO_DATA = [
     "Frente": "105 - FRENTE CASSIO",
     "Responsável": "FERNANDA DE SOUZA ",
     "Paralelismo": "1.4",
-    "Fazenda": "53201"
+    "Fazenda": "53201",
+    "Unnamed: 16": null
   },
   {
     "ID": "3496673",
@@ -35800,7 +37792,8 @@ const PARALELISMO_DATA = [
     "Frente": "105 - FRENTE CASSIO",
     "Responsável": "FERNANDA DE SOUZA ",
     "Paralelismo": "1.4",
-    "Fazenda": "53201"
+    "Fazenda": "53201",
+    "Unnamed: 16": null
   },
   {
     "ID": "3496671",
@@ -35818,7 +37811,8 @@ const PARALELISMO_DATA = [
     "Frente": "105 - FRENTE CASSIO",
     "Responsável": "FERNANDA DE SOUZA ",
     "Paralelismo": "1.4",
-    "Fazenda": "53201"
+    "Fazenda": "53201",
+    "Unnamed: 16": null
   },
   {
     "ID": "3495213",
@@ -35836,7 +37830,8 @@ const PARALELISMO_DATA = [
     "Frente": "135 - PEDRINHO ",
     "Responsável": "MARCELO DE OLIVEIRA JUNIOR",
     "Paralelismo": "1.4",
-    "Fazenda": "37314"
+    "Fazenda": "37314",
+    "Unnamed: 16": null
   },
   {
     "ID": "3495206",
@@ -35854,7 +37849,8 @@ const PARALELISMO_DATA = [
     "Frente": "135 - PEDRINHO ",
     "Responsável": "MARCELO DE OLIVEIRA JUNIOR",
     "Paralelismo": "1.4",
-    "Fazenda": "37314"
+    "Fazenda": "37314",
+    "Unnamed: 16": null
   },
   {
     "ID": "3495203",
@@ -35872,7 +37868,8 @@ const PARALELISMO_DATA = [
     "Frente": "135 - PEDRINHO ",
     "Responsável": "MARCELO DE OLIVEIRA JUNIOR",
     "Paralelismo": "1.4",
-    "Fazenda": "37313"
+    "Fazenda": "37313",
+    "Unnamed: 16": null
   },
   {
     "ID": "3495197",
@@ -35890,7 +37887,8 @@ const PARALELISMO_DATA = [
     "Frente": "135 - PEDRINHO ",
     "Responsável": "MARCELO DE OLIVEIRA JUNIOR",
     "Paralelismo": "1.41",
-    "Fazenda": "37313"
+    "Fazenda": "37313",
+    "Unnamed: 16": null
   },
   {
     "ID": "3494376",
@@ -35908,7 +37906,8 @@ const PARALELISMO_DATA = [
     "Frente": "291 - FRENTE PRÓPRIA ",
     "Responsável": "GABRIEL HENRIQUE MARTINS PEREIRA",
     "Paralelismo": "1.4",
-    "Fazenda": "112401"
+    "Fazenda": "112401",
+    "Unnamed: 16": null
   },
   {
     "ID": "3494646",
@@ -35926,7 +37925,8 @@ const PARALELISMO_DATA = [
     "Frente": "105 - FRENTE CASSIO",
     "Responsável": "FERNANDA DE SOUZA ",
     "Paralelismo": "1.4",
-    "Fazenda": "53201"
+    "Fazenda": "53201",
+    "Unnamed: 16": null
   },
   {
     "ID": "3494371",
@@ -35944,7 +37944,8 @@ const PARALELISMO_DATA = [
     "Frente": "291 - FRENTE PRÓPRIA ",
     "Responsável": "GABRIEL HENRIQUE MARTINS PEREIRA",
     "Paralelismo": "1.4",
-    "Fazenda": "112401"
+    "Fazenda": "112401",
+    "Unnamed: 16": null
   },
   {
     "ID": "3494634",
@@ -35962,7 +37963,8 @@ const PARALELISMO_DATA = [
     "Frente": "105 - FRENTE CASSIO",
     "Responsável": "FERNANDA DE SOUZA ",
     "Paralelismo": "1.4",
-    "Fazenda": "53201"
+    "Fazenda": "53201",
+    "Unnamed: 16": null
   },
   {
     "ID": "3494366",
@@ -35980,7 +37982,8 @@ const PARALELISMO_DATA = [
     "Frente": "291 - FRENTE PRÓPRIA ",
     "Responsável": "GABRIEL HENRIQUE MARTINS PEREIRA",
     "Paralelismo": "1.4",
-    "Fazenda": "112401"
+    "Fazenda": "112401",
+    "Unnamed: 16": null
   },
   {
     "ID": "3494356",
@@ -35998,7 +38001,8 @@ const PARALELISMO_DATA = [
     "Frente": "291 - FRENTE PRÓPRIA ",
     "Responsável": "GABRIEL HENRIQUE MARTINS PEREIRA",
     "Paralelismo": "1.4",
-    "Fazenda": "112401"
+    "Fazenda": "112401",
+    "Unnamed: 16": null
   },
   {
     "ID": "3494669",
@@ -36016,7 +38020,8 @@ const PARALELISMO_DATA = [
     "Frente": "143 - FRENTE CASSIO",
     "Responsável": "NILDA CLAUDINO [2510716]",
     "Paralelismo": "1.4",
-    "Fazenda": "53201"
+    "Fazenda": "53201",
+    "Unnamed: 16": null
   },
   {
     "ID": "3494351",
@@ -36034,7 +38039,8 @@ const PARALELISMO_DATA = [
     "Frente": "291 - FRENTE PRÓPRIA ",
     "Responsável": "GABRIEL HENRIQUE MARTINS PEREIRA",
     "Paralelismo": "1.4",
-    "Fazenda": "112401"
+    "Fazenda": "112401",
+    "Unnamed: 16": null
   },
   {
     "ID": "3494665",
@@ -36052,7 +38058,8 @@ const PARALELISMO_DATA = [
     "Frente": "143 - FRENTE CASSIO",
     "Responsável": "NILDA CLAUDINO [2510716]",
     "Paralelismo": "1.4",
-    "Fazenda": "53201"
+    "Fazenda": "53201",
+    "Unnamed: 16": null
   },
   {
     "ID": "3494661",
@@ -36070,7 +38077,8 @@ const PARALELISMO_DATA = [
     "Frente": "143 - FRENTE CASSIO",
     "Responsável": "NILDA CLAUDINO [2510716]",
     "Paralelismo": "1.4",
-    "Fazenda": "53201"
+    "Fazenda": "53201",
+    "Unnamed: 16": null
   },
   {
     "ID": "3494657",
@@ -36088,7 +38096,8 @@ const PARALELISMO_DATA = [
     "Frente": "143 - FRENTE CASSIO",
     "Responsável": "NILDA CLAUDINO [2510716]",
     "Paralelismo": "1.4",
-    "Fazenda": "53201"
+    "Fazenda": "53201",
+    "Unnamed: 16": null
   },
   {
     "ID": "3494655",
@@ -36106,7 +38115,8 @@ const PARALELISMO_DATA = [
     "Frente": "143 - FRENTE CASSIO",
     "Responsável": "NILDA CLAUDINO [2510716]",
     "Paralelismo": "1.4",
-    "Fazenda": "53201"
+    "Fazenda": "53201",
+    "Unnamed: 16": null
   },
   {
     "ID": "3495173",
@@ -36124,7 +38134,8 @@ const PARALELISMO_DATA = [
     "Frente": "135 - PEDRINHO ",
     "Responsável": "MARCELO DE OLIVEIRA JUNIOR",
     "Paralelismo": "1.4",
-    "Fazenda": "37312"
+    "Fazenda": "37312",
+    "Unnamed: 16": null
   },
   {
     "ID": "3495164",
@@ -36142,7 +38153,8 @@ const PARALELISMO_DATA = [
     "Frente": "135 - PEDRINHO ",
     "Responsável": "MARCELO DE OLIVEIRA JUNIOR",
     "Paralelismo": "1.41",
-    "Fazenda": "37312"
+    "Fazenda": "37312",
+    "Unnamed: 16": null
   },
   {
     "ID": "3495160",
@@ -36160,7 +38172,8 @@ const PARALELISMO_DATA = [
     "Frente": "135 - PEDRINHO ",
     "Responsável": "MARCELO DE OLIVEIRA JUNIOR",
     "Paralelismo": "1.4",
-    "Fazenda": "37312"
+    "Fazenda": "37312",
+    "Unnamed: 16": null
   },
   {
     "ID": "3495154",
@@ -36178,7 +38191,8 @@ const PARALELISMO_DATA = [
     "Frente": "135 - PEDRINHO ",
     "Responsável": "MARCELO DE OLIVEIRA JUNIOR",
     "Paralelismo": "1.39",
-    "Fazenda": "37312"
+    "Fazenda": "37312",
+    "Unnamed: 16": null
   },
   {
     "ID": "3492629",
@@ -36196,7 +38210,8 @@ const PARALELISMO_DATA = [
     "Frente": "261 - FRENTE PRÓPRIA  (EDMILSON)",
     "Responsável": "VITOR AMORIM RAMOS ",
     "Paralelismo": "1.4",
-    "Fazenda": "53201"
+    "Fazenda": "53201",
+    "Unnamed: 16": null
   },
   {
     "ID": "3492628",
@@ -36214,7 +38229,8 @@ const PARALELISMO_DATA = [
     "Frente": "261 - FRENTE PRÓPRIA  (EDMILSON)",
     "Responsável": "VITOR AMORIM RAMOS ",
     "Paralelismo": "1.4",
-    "Fazenda": "53201"
+    "Fazenda": "53201",
+    "Unnamed: 16": null
   },
   {
     "ID": "3492627",
@@ -36232,7 +38248,8 @@ const PARALELISMO_DATA = [
     "Frente": "261 - FRENTE PRÓPRIA  (EDMILSON)",
     "Responsável": "VITOR AMORIM RAMOS ",
     "Paralelismo": "1.4",
-    "Fazenda": "53201"
+    "Fazenda": "53201",
+    "Unnamed: 16": null
   },
   {
     "ID": "3492607",
@@ -36250,7 +38267,8 @@ const PARALELISMO_DATA = [
     "Frente": "261 - FRENTE PRÓPRIA  (EDMILSON)",
     "Responsável": "VITOR AMORIM RAMOS ",
     "Paralelismo": "1.4",
-    "Fazenda": "53201"
+    "Fazenda": "53201",
+    "Unnamed: 16": null
   },
   {
     "ID": "3492526",
@@ -36268,7 +38286,8 @@ const PARALELISMO_DATA = [
     "Frente": "139 - FRENTE MANEZÃO",
     "Responsável": "FERNANDA DE SOUZA ",
     "Paralelismo": "1.41",
-    "Fazenda": "53201"
+    "Fazenda": "53201",
+    "Unnamed: 16": null
   },
   {
     "ID": "3492598",
@@ -36286,7 +38305,8 @@ const PARALELISMO_DATA = [
     "Frente": "261 - FRENTE PRÓPRIA  (EDMILSON)",
     "Responsável": "VITOR AMORIM RAMOS ",
     "Paralelismo": "1.4",
-    "Fazenda": "53201"
+    "Fazenda": "53201",
+    "Unnamed: 16": null
   },
   {
     "ID": "3492596",
@@ -36304,7 +38324,8 @@ const PARALELISMO_DATA = [
     "Frente": "261 - FRENTE PRÓPRIA  (EDMILSON)",
     "Responsável": "VITOR AMORIM RAMOS ",
     "Paralelismo": "1.4",
-    "Fazenda": "53201"
+    "Fazenda": "53201",
+    "Unnamed: 16": null
   },
   {
     "ID": "3492284",
@@ -36322,7 +38343,8 @@ const PARALELISMO_DATA = [
     "Frente": "261 - FRENTE PRÓPRIA  (EDMILSON)",
     "Responsável": "EDILIANA CARDOSO DA COSTA",
     "Paralelismo": "1.4",
-    "Fazenda": "112401"
+    "Fazenda": "112401",
+    "Unnamed: 16": null
   },
   {
     "ID": "3492283",
@@ -36340,7 +38362,8 @@ const PARALELISMO_DATA = [
     "Frente": "261 - FRENTE PRÓPRIA  (EDMILSON)",
     "Responsável": "EDILIANA CARDOSO DA COSTA",
     "Paralelismo": "1.4",
-    "Fazenda": "112401"
+    "Fazenda": "112401",
+    "Unnamed: 16": null
   },
   {
     "ID": "3493090",
@@ -36358,7 +38381,8 @@ const PARALELISMO_DATA = [
     "Frente": "135 - PEDRINHO ",
     "Responsável": "MARCELO DE OLIVEIRA JUNIOR",
     "Paralelismo": "1.4",
-    "Fazenda": "37317"
+    "Fazenda": "37317",
+    "Unnamed: 16": null
   },
   {
     "ID": "3492516",
@@ -36376,7 +38400,8 @@ const PARALELISMO_DATA = [
     "Frente": "139 - FRENTE MANEZÃO",
     "Responsável": "FERNANDA DE SOUZA ",
     "Paralelismo": "1.4",
-    "Fazenda": "53201"
+    "Fazenda": "53201",
+    "Unnamed: 16": null
   },
   {
     "ID": "3493085",
@@ -36394,7 +38419,8 @@ const PARALELISMO_DATA = [
     "Frente": "135 - PEDRINHO ",
     "Responsável": "MARCELO DE OLIVEIRA JUNIOR",
     "Paralelismo": "1.4",
-    "Fazenda": "37317"
+    "Fazenda": "37317",
+    "Unnamed: 16": null
   },
   {
     "ID": "3492221",
@@ -36412,7 +38438,8 @@ const PARALELISMO_DATA = [
     "Frente": "142 - FRENTE BIDU",
     "Responsável": "MICHELI DE SOUZA SANTOS  ",
     "Paralelismo": "1.39",
-    "Fazenda": "53201"
+    "Fazenda": "53201",
+    "Unnamed: 16": null
   },
   {
     "ID": "3493080",
@@ -36430,7 +38457,8 @@ const PARALELISMO_DATA = [
     "Frente": "135 - PEDRINHO ",
     "Responsável": "MARCELO DE OLIVEIRA JUNIOR",
     "Paralelismo": "1.41",
-    "Fazenda": "37317"
+    "Fazenda": "37317",
+    "Unnamed: 16": null
   },
   {
     "ID": "3492213",
@@ -36448,7 +38476,8 @@ const PARALELISMO_DATA = [
     "Frente": "142 - FRENTE BIDU",
     "Responsável": "MICHELI DE SOUZA SANTOS  ",
     "Paralelismo": "1.39",
-    "Fazenda": "53201"
+    "Fazenda": "53201",
+    "Unnamed: 16": null
   },
   {
     "ID": "3492510",
@@ -36466,7 +38495,8 @@ const PARALELISMO_DATA = [
     "Frente": "139 - FRENTE MANEZÃO",
     "Responsável": "FERNANDA DE SOUZA ",
     "Paralelismo": "1.4",
-    "Fazenda": "53201"
+    "Fazenda": "53201",
+    "Unnamed: 16": null
   },
   {
     "ID": "3492508",
@@ -36484,7 +38514,8 @@ const PARALELISMO_DATA = [
     "Frente": "139 - FRENTE MANEZÃO",
     "Responsável": "FERNANDA DE SOUZA ",
     "Paralelismo": "1.4",
-    "Fazenda": "53201"
+    "Fazenda": "53201",
+    "Unnamed: 16": null
   },
   {
     "ID": "3492467",
@@ -36502,7 +38533,8 @@ const PARALELISMO_DATA = [
     "Frente": "105 - FRENTE CASSIO (ZACARIAS)",
     "Responsável": "GABRIEL HENRIQUE MARTINS PEREIRA",
     "Paralelismo": "1.4",
-    "Fazenda": "53201"
+    "Fazenda": "53201",
+    "Unnamed: 16": null
   },
   {
     "ID": "3492463",
@@ -36520,7 +38552,8 @@ const PARALELISMO_DATA = [
     "Frente": "105 - FRENTE CASSIO (ZACARIAS)",
     "Responsável": "GABRIEL HENRIQUE MARTINS PEREIRA",
     "Paralelismo": "1.4",
-    "Fazenda": "53201"
+    "Fazenda": "53201",
+    "Unnamed: 16": null
   },
   {
     "ID": "3492078",
@@ -36538,7 +38571,8 @@ const PARALELISMO_DATA = [
     "Frente": "142 - FRENTE BIDU",
     "Responsável": "GLEISON FELIPE BORGES DE MATOS",
     "Paralelismo": "1.42",
-    "Fazenda": "53201"
+    "Fazenda": "53201",
+    "Unnamed: 16": null
   },
   {
     "ID": "3492459",
@@ -36556,7 +38590,8 @@ const PARALELISMO_DATA = [
     "Frente": "105 - FRENTE CASSIO (ZACARIAS)",
     "Responsável": "GABRIEL HENRIQUE MARTINS PEREIRA",
     "Paralelismo": "1.4",
-    "Fazenda": "53201"
+    "Fazenda": "53201",
+    "Unnamed: 16": null
   },
   {
     "ID": "3492073",
@@ -36574,7 +38609,8 @@ const PARALELISMO_DATA = [
     "Frente": "142 - FRENTE BIDU",
     "Responsável": "GLEISON FELIPE BORGES DE MATOS",
     "Paralelismo": "1.4",
-    "Fazenda": "53201"
+    "Fazenda": "53201",
+    "Unnamed: 16": null
   },
   {
     "ID": "3492455",
@@ -36592,7 +38628,8 @@ const PARALELISMO_DATA = [
     "Frente": "105 - FRENTE CASSIO (ZACARIAS)",
     "Responsável": "GABRIEL HENRIQUE MARTINS PEREIRA",
     "Paralelismo": "1.4",
-    "Fazenda": "53201"
+    "Fazenda": "53201",
+    "Unnamed: 16": null
   },
   {
     "ID": "3492451",
@@ -36610,7 +38647,8 @@ const PARALELISMO_DATA = [
     "Frente": "105 - FRENTE CASSIO (ZACARIAS)",
     "Responsável": "GABRIEL HENRIQUE MARTINS PEREIRA",
     "Paralelismo": "1.4",
-    "Fazenda": "53201"
+    "Fazenda": "53201",
+    "Unnamed: 16": null
   },
   {
     "ID": "3493071",
@@ -36628,7 +38666,8 @@ const PARALELISMO_DATA = [
     "Frente": "135 - PEDRINHO ",
     "Responsável": "MARCELO DE OLIVEIRA JUNIOR",
     "Paralelismo": "1.4",
-    "Fazenda": "37309"
+    "Fazenda": "37309",
+    "Unnamed: 16": null
   },
   {
     "ID": "3492591",
@@ -36646,7 +38685,8 @@ const PARALELISMO_DATA = [
     "Frente": "135 - PEDRINHO ",
     "Responsável": "REGINALDO DA SILVA GOMES ",
     "Paralelismo": "1.39",
-    "Fazenda": "37309"
+    "Fazenda": "37309",
+    "Unnamed: 16": null
   },
   {
     "ID": "3492387",
@@ -36664,7 +38704,8 @@ const PARALELISMO_DATA = [
     "Frente": "143 - FRENTE CASSIO",
     "Responsável": "NILDA CLAUDINO [2510716]",
     "Paralelismo": "1.4",
-    "Fazenda": "53201"
+    "Fazenda": "53201",
+    "Unnamed: 16": null
   },
   {
     "ID": "3493065",
@@ -36682,7 +38723,8 @@ const PARALELISMO_DATA = [
     "Frente": "135 - PEDRINHO ",
     "Responsável": "MARCELO DE OLIVEIRA JUNIOR",
     "Paralelismo": "1.39",
-    "Fazenda": "37309"
+    "Fazenda": "37309",
+    "Unnamed: 16": null
   },
   {
     "ID": "3492586",
@@ -36700,7 +38742,8 @@ const PARALELISMO_DATA = [
     "Frente": "135 - PEDRINHO ",
     "Responsável": "REGINALDO DA SILVA GOMES ",
     "Paralelismo": "1.41",
-    "Fazenda": "37309"
+    "Fazenda": "37309",
+    "Unnamed: 16": null
   },
   {
     "ID": "3493062",
@@ -36718,7 +38761,8 @@ const PARALELISMO_DATA = [
     "Frente": "135 - PEDRINHO ",
     "Responsável": "MARCELO DE OLIVEIRA JUNIOR",
     "Paralelismo": "1.4",
-    "Fazenda": "37309"
+    "Fazenda": "37309",
+    "Unnamed: 16": null
   },
   {
     "ID": "3492383",
@@ -36736,7 +38780,8 @@ const PARALELISMO_DATA = [
     "Frente": "143 - FRENTE CASSIO",
     "Responsável": "NILDA CLAUDINO [2510716]",
     "Paralelismo": "1.4",
-    "Fazenda": "53201"
+    "Fazenda": "53201",
+    "Unnamed: 16": null
   },
   {
     "ID": "3492580",
@@ -36754,7 +38799,8 @@ const PARALELISMO_DATA = [
     "Frente": "135 - PEDRINHO ",
     "Responsável": "REGINALDO DA SILVA GOMES ",
     "Paralelismo": "1.42",
-    "Fazenda": "37309"
+    "Fazenda": "37309",
+    "Unnamed: 16": null
   },
   {
     "ID": "3492379",
@@ -36772,7 +38818,8 @@ const PARALELISMO_DATA = [
     "Frente": "143 - FRENTE CASSIO",
     "Responsável": "NILDA CLAUDINO [2510716]",
     "Paralelismo": "1.4",
-    "Fazenda": "53201"
+    "Fazenda": "53201",
+    "Unnamed: 16": null
   },
   {
     "ID": "3492361",
@@ -36790,7 +38837,8 @@ const PARALELISMO_DATA = [
     "Frente": "143 - FRENTE CASSIO",
     "Responsável": "NILDA CLAUDINO [2510716]",
     "Paralelismo": "1.4",
-    "Fazenda": "53201"
+    "Fazenda": "53201",
+    "Unnamed: 16": null
   },
   {
     "ID": "3492357",
@@ -36808,7 +38856,8 @@ const PARALELISMO_DATA = [
     "Frente": "143 - FRENTE CASSIO",
     "Responsável": "NILDA CLAUDINO [2510716]",
     "Paralelismo": "1.4",
-    "Fazenda": "53201"
+    "Fazenda": "53201",
+    "Unnamed: 16": null
   },
   {
     "ID": "3492353",
@@ -36826,7 +38875,8 @@ const PARALELISMO_DATA = [
     "Frente": "143 - FRENTE CASSIO",
     "Responsável": "NILDA CLAUDINO [2510716]",
     "Paralelismo": "1.4",
-    "Fazenda": "53201"
+    "Fazenda": "53201",
+    "Unnamed: 16": null
   },
   {
     "ID": "3491303",
@@ -36844,7 +38894,8 @@ const PARALELISMO_DATA = [
     "Frente": "135 - PEDRINHO ",
     "Responsável": "MARCELO DE OLIVEIRA JUNIOR",
     "Paralelismo": "1.4",
-    "Fazenda": "37317"
+    "Fazenda": "37317",
+    "Unnamed: 16": null
   },
   {
     "ID": "3491300",
@@ -36862,7 +38913,8 @@ const PARALELISMO_DATA = [
     "Frente": "135 - PEDRINHO ",
     "Responsável": "MARCELO DE OLIVEIRA JUNIOR",
     "Paralelismo": "1.4",
-    "Fazenda": "37309"
+    "Fazenda": "37309",
+    "Unnamed: 16": null
   },
   {
     "ID": "3490292",
@@ -36880,7 +38932,8 @@ const PARALELISMO_DATA = [
     "Frente": "142 - FRENTE BIDU",
     "Responsável": "GLEISON FELIPE BORGES DE MATOS",
     "Paralelismo": "1.4",
-    "Fazenda": "53201"
+    "Fazenda": "53201",
+    "Unnamed: 16": null
   },
   {
     "ID": "3491273",
@@ -36898,7 +38951,8 @@ const PARALELISMO_DATA = [
     "Frente": "135 - PEDRINHO ",
     "Responsável": "MARCELO DE OLIVEIRA JUNIOR",
     "Paralelismo": "1.4",
-    "Fazenda": "37308"
+    "Fazenda": "37308",
+    "Unnamed: 16": null
   },
   {
     "ID": "3491269",
@@ -36916,7 +38970,8 @@ const PARALELISMO_DATA = [
     "Frente": "135 - PEDRINHO ",
     "Responsável": "MARCELO DE OLIVEIRA JUNIOR",
     "Paralelismo": "1.4",
-    "Fazenda": "37308"
+    "Fazenda": "37308",
+    "Unnamed: 16": null
   },
   {
     "ID": "3491263",
@@ -36934,7 +38989,8 @@ const PARALELISMO_DATA = [
     "Frente": "135 - PEDRINHO ",
     "Responsável": "MARCELO DE OLIVEIRA JUNIOR",
     "Paralelismo": "1.38",
-    "Fazenda": "37308"
+    "Fazenda": "37308",
+    "Unnamed: 16": null
   },
   {
     "ID": "3492576",
@@ -36952,7 +39008,8 @@ const PARALELISMO_DATA = [
     "Frente": "142 - FRENTE BIDU",
     "Responsável": "REGINALDO DA SILVA GOMES ",
     "Paralelismo": "1.36",
-    "Fazenda": "53201"
+    "Fazenda": "53201",
+    "Unnamed: 16": null
   },
   {
     "ID": "3492571",
@@ -36970,7 +39027,8 @@ const PARALELISMO_DATA = [
     "Frente": "142 - FRENTE BIDU",
     "Responsável": "REGINALDO DA SILVA GOMES ",
     "Paralelismo": "1.37",
-    "Fazenda": "53201"
+    "Fazenda": "53201",
+    "Unnamed: 16": null
   },
   {
     "ID": "3470087",
@@ -36988,7 +39046,8 @@ const PARALELISMO_DATA = [
     "Frente": "142 - FRENTE BIDU",
     "Responsável": "GLEISON FELIPE BORGES DE MATOS",
     "Paralelismo": "1.4",
-    "Fazenda": "53201"
+    "Fazenda": "53201",
+    "Unnamed: 16": null
   },
   {
     "ID": "3492566",
@@ -37006,7 +39065,8 @@ const PARALELISMO_DATA = [
     "Frente": "142 - FRENTE BIDU",
     "Responsável": "REGINALDO DA SILVA GOMES ",
     "Paralelismo": "1.4",
-    "Fazenda": "53201"
+    "Fazenda": "53201",
+    "Unnamed: 16": null
   },
   {
     "ID": "3470084",
@@ -37024,7 +39084,8 @@ const PARALELISMO_DATA = [
     "Frente": "142 - FRENTE BIDU",
     "Responsável": "GLEISON FELIPE BORGES DE MATOS",
     "Paralelismo": "1.4",
-    "Fazenda": "53201"
+    "Fazenda": "53201",
+    "Unnamed: 16": null
   },
   {
     "ID": "3490378",
@@ -37042,7 +39103,8 @@ const PARALELISMO_DATA = [
     "Frente": "143 - FRENTE CASSIO",
     "Responsável": "GABRIEL HENRIQUE MARTINS PEREIRA",
     "Paralelismo": "1.4",
-    "Fazenda": "53201"
+    "Fazenda": "53201",
+    "Unnamed: 16": null
   },
   {
     "ID": "3490373",
@@ -37060,7 +39122,8 @@ const PARALELISMO_DATA = [
     "Frente": "143 - FRENTE CASSIO",
     "Responsável": "GABRIEL HENRIQUE MARTINS PEREIRA",
     "Paralelismo": "1.4",
-    "Fazenda": "53201"
+    "Fazenda": "53201",
+    "Unnamed: 16": null
   },
   {
     "ID": "3470033",
@@ -37078,7 +39141,8 @@ const PARALELISMO_DATA = [
     "Frente": "261 - FRENTE PRÓPRIA  (EDMILSON)",
     "Responsável": "VITOR AMORIM RAMOS ",
     "Paralelismo": "1.4",
-    "Fazenda": "53201"
+    "Fazenda": "53201",
+    "Unnamed: 16": null
   },
   {
     "ID": "3490348",
@@ -37096,7 +39160,8 @@ const PARALELISMO_DATA = [
     "Frente": "143 - FRENTE CASSIO",
     "Responsável": "GABRIEL HENRIQUE MARTINS PEREIRA",
     "Paralelismo": "1.4",
-    "Fazenda": "53201"
+    "Fazenda": "53201",
+    "Unnamed: 16": null
   },
   {
     "ID": "3490345",
@@ -37114,7 +39179,8 @@ const PARALELISMO_DATA = [
     "Frente": "143 - FRENTE CASSIO",
     "Responsável": "GABRIEL HENRIQUE MARTINS PEREIRA",
     "Paralelismo": "1.4",
-    "Fazenda": "53201"
+    "Fazenda": "53201",
+    "Unnamed: 16": null
   },
   {
     "ID": "3470028",
@@ -37132,7 +39198,8 @@ const PARALELISMO_DATA = [
     "Frente": "261 - FRENTE PRÓPRIA  (EDMILSON)",
     "Responsável": "VITOR AMORIM RAMOS ",
     "Paralelismo": "1.4",
-    "Fazenda": "53201"
+    "Fazenda": "53201",
+    "Unnamed: 16": null
   },
   {
     "ID": "3490341",
@@ -37150,7 +39217,8 @@ const PARALELISMO_DATA = [
     "Frente": "143 - FRENTE CASSIO",
     "Responsável": "GABRIEL HENRIQUE MARTINS PEREIRA",
     "Paralelismo": "1.4",
-    "Fazenda": "53201"
+    "Fazenda": "53201",
+    "Unnamed: 16": null
   },
   {
     "ID": "3491240",
@@ -37168,7 +39236,8 @@ const PARALELISMO_DATA = [
     "Frente": "135 - PEDRINHO ",
     "Responsável": "MARCELO DE OLIVEIRA JUNIOR",
     "Paralelismo": "1.39",
-    "Fazenda": "37316"
+    "Fazenda": "37316",
+    "Unnamed: 16": null
   },
   {
     "ID": "3470023",
@@ -37186,7 +39255,8 @@ const PARALELISMO_DATA = [
     "Frente": "261 - FRENTE PRÓPRIA  (EDMILSON)",
     "Responsável": "VITOR AMORIM RAMOS ",
     "Paralelismo": "1.4",
-    "Fazenda": "53201"
+    "Fazenda": "53201",
+    "Unnamed: 16": null
   },
   {
     "ID": "3490174",
@@ -37204,7 +39274,8 @@ const PARALELISMO_DATA = [
     "Frente": "133 - FRENTE MANÉZÃO",
     "Responsável": "FERNANDA DE SOUZA ",
     "Paralelismo": "1.4",
-    "Fazenda": "53201"
+    "Fazenda": "53201",
+    "Unnamed: 16": null
   },
   {
     "ID": "3470018",
@@ -37222,7 +39293,8 @@ const PARALELISMO_DATA = [
     "Frente": "261 - FRENTE PRÓPRIA  (EDMILSON)",
     "Responsável": "VITOR AMORIM RAMOS ",
     "Paralelismo": "1.4",
-    "Fazenda": "53201"
+    "Fazenda": "53201",
+    "Unnamed: 16": null
   },
   {
     "ID": "3491235",
@@ -37240,7 +39312,8 @@ const PARALELISMO_DATA = [
     "Frente": "135 - PEDRINHO ",
     "Responsável": "MARCELO DE OLIVEIRA JUNIOR",
     "Paralelismo": "1.4",
-    "Fazenda": "37316"
+    "Fazenda": "37316",
+    "Unnamed: 16": null
   },
   {
     "ID": "3490169",
@@ -37258,7 +39331,8 @@ const PARALELISMO_DATA = [
     "Frente": "133 - FRENTE MANÉZÃO",
     "Responsável": "FERNANDA DE SOUZA ",
     "Paralelismo": "1.4",
-    "Fazenda": "53201"
+    "Fazenda": "53201",
+    "Unnamed: 16": null
   },
   {
     "ID": "3491230",
@@ -37276,7 +39350,8 @@ const PARALELISMO_DATA = [
     "Frente": "135 - PEDRINHO ",
     "Responsável": "MARCELO DE OLIVEIRA JUNIOR",
     "Paralelismo": "1.4",
-    "Fazenda": "37316"
+    "Fazenda": "37316",
+    "Unnamed: 16": null
   },
   {
     "ID": "3491225",
@@ -37294,7 +39369,8 @@ const PARALELISMO_DATA = [
     "Frente": "135 - PEDRINHO ",
     "Responsável": "MARCELO DE OLIVEIRA JUNIOR",
     "Paralelismo": "1.38",
-    "Fazenda": "37316"
+    "Fazenda": "37316",
+    "Unnamed: 16": null
   },
   {
     "ID": "3470013",
@@ -37312,7 +39388,8 @@ const PARALELISMO_DATA = [
     "Frente": "261 - FRENTE PRÓPRIA  (EDMILSON)",
     "Responsável": "VITOR AMORIM RAMOS ",
     "Paralelismo": "1.4",
-    "Fazenda": "53201"
+    "Fazenda": "53201",
+    "Unnamed: 16": null
   },
   {
     "ID": "3491221",
@@ -37330,7 +39407,8 @@ const PARALELISMO_DATA = [
     "Frente": "135 - PEDRINHO ",
     "Responsável": "MARCELO DE OLIVEIRA JUNIOR",
     "Paralelismo": "1.4",
-    "Fazenda": "37308"
+    "Fazenda": "37308",
+    "Unnamed: 16": null
   },
   {
     "ID": "3490164",
@@ -37348,7 +39426,8 @@ const PARALELISMO_DATA = [
     "Frente": "133 - FRENTE MANÉZÃO",
     "Responsável": "FERNANDA DE SOUZA ",
     "Paralelismo": "1.4",
-    "Fazenda": "53201"
+    "Fazenda": "53201",
+    "Unnamed: 16": null
   },
   {
     "ID": "3469972",
@@ -37366,7 +39445,8 @@ const PARALELISMO_DATA = [
     "Frente": "261 - FRENTE PRÓPRIA  (EDMILSON)",
     "Responsável": "VITOR AMORIM RAMOS ",
     "Paralelismo": "1.4",
-    "Fazenda": "53201"
+    "Fazenda": "53201",
+    "Unnamed: 16": null
   },
   {
     "ID": "3469965",
@@ -37384,7 +39464,8 @@ const PARALELISMO_DATA = [
     "Frente": "261 - FRENTE PRÓPRIA  (EDMILSON)",
     "Responsável": "VITOR AMORIM RAMOS ",
     "Paralelismo": "1.4",
-    "Fazenda": "53201"
+    "Fazenda": "53201",
+    "Unnamed: 16": null
   },
   {
     "ID": "3469960",
@@ -37402,7 +39483,8 @@ const PARALELISMO_DATA = [
     "Frente": "261 - FRENTE PRÓPRIA  (EDMILSON)",
     "Responsável": "VITOR AMORIM RAMOS ",
     "Paralelismo": "1.4",
-    "Fazenda": "53201"
+    "Fazenda": "53201",
+    "Unnamed: 16": null
   },
   {
     "ID": "3469954",
@@ -37420,7 +39502,8 @@ const PARALELISMO_DATA = [
     "Frente": "261 - FRENTE PRÓPRIA  (EDMILSON)",
     "Responsável": "VITOR AMORIM RAMOS ",
     "Paralelismo": "1.4",
-    "Fazenda": "53201"
+    "Fazenda": "53201",
+    "Unnamed: 16": null
   },
   {
     "ID": "3468236",
@@ -37438,7 +39521,8 @@ const PARALELISMO_DATA = [
     "Frente": "139 - Manezão",
     "Responsável": "MARCELO DE OLIVEIRA JUNIOR",
     "Paralelismo": "1.4",
-    "Fazenda": "53201"
+    "Fazenda": "53201",
+    "Unnamed: 16": null
   },
   {
     "ID": "3468197",
@@ -37456,7 +39540,8 @@ const PARALELISMO_DATA = [
     "Frente": "139 - FRENTE MANEZÃO",
     "Responsável": "FERNANDA DE SOUZA ",
     "Paralelismo": "1.4",
-    "Fazenda": "53201"
+    "Fazenda": "53201",
+    "Unnamed: 16": null
   },
   {
     "ID": "3468078",
@@ -37474,7 +39559,8 @@ const PARALELISMO_DATA = [
     "Frente": "261 - FRENTE PRÓPRIA  (EDMILSON)",
     "Responsável": "VITOR AMORIM RAMOS ",
     "Paralelismo": "1.4",
-    "Fazenda": "53201"
+    "Fazenda": "53201",
+    "Unnamed: 16": null
   },
   {
     "ID": "3468072",
@@ -37492,7 +39578,8 @@ const PARALELISMO_DATA = [
     "Frente": "261 - FRENTE PRÓPRIA  (EDMILSON)",
     "Responsável": "VITOR AMORIM RAMOS ",
     "Paralelismo": "1.4",
-    "Fazenda": "53201"
+    "Fazenda": "53201",
+    "Unnamed: 16": null
   },
   {
     "ID": "3468037",
@@ -37510,7 +39597,8 @@ const PARALELISMO_DATA = [
     "Frente": "261 - FRENTE PRÓPRIA  (EDMILSON)",
     "Responsável": "VITOR AMORIM RAMOS ",
     "Paralelismo": "1.4",
-    "Fazenda": "53201"
+    "Fazenda": "53201",
+    "Unnamed: 16": null
   },
   {
     "ID": "3468032",
@@ -37528,7 +39616,8 @@ const PARALELISMO_DATA = [
     "Frente": "261 - FRENTE PRÓPRIA  (EDMILSON)",
     "Responsável": "VITOR AMORIM RAMOS ",
     "Paralelismo": "1.4",
-    "Fazenda": "53201"
+    "Fazenda": "53201",
+    "Unnamed: 16": null
   },
   {
     "ID": "3468004",
@@ -37546,7 +39635,8 @@ const PARALELISMO_DATA = [
     "Frente": "101 - FRENTE MECANIZADA",
     "Responsável": "FERNANDA DE SOUZA ",
     "Paralelismo": "1.4",
-    "Fazenda": "53201"
+    "Fazenda": "53201",
+    "Unnamed: 16": null
   },
   {
     "ID": "3468025",
@@ -37564,7 +39654,8 @@ const PARALELISMO_DATA = [
     "Frente": "261 - FRENTE PRÓPRIA  (EDMILSON)",
     "Responsável": "VITOR AMORIM RAMOS ",
     "Paralelismo": "1.4",
-    "Fazenda": "53201"
+    "Fazenda": "53201",
+    "Unnamed: 16": null
   },
   {
     "ID": "3468001",
@@ -37582,7 +39673,8 @@ const PARALELISMO_DATA = [
     "Frente": "101 - FRENTE MECANIZADA",
     "Responsável": "FERNANDA DE SOUZA ",
     "Paralelismo": "1.4",
-    "Fazenda": "53201"
+    "Fazenda": "53201",
+    "Unnamed: 16": null
   },
   {
     "ID": "3467731",
@@ -37600,7 +39692,8 @@ const PARALELISMO_DATA = [
     "Frente": "261 - FRENTE PRÓPRIA  (EDMILSON)",
     "Responsável": "VITOR AMORIM RAMOS ",
     "Paralelismo": "1.4",
-    "Fazenda": "53201"
+    "Fazenda": "53201",
+    "Unnamed: 16": null
   },
   {
     "ID": "3467726",
@@ -37618,7 +39711,8 @@ const PARALELISMO_DATA = [
     "Frente": "261 - FRENTE PRÓPRIA  (EDMILSON)",
     "Responsável": "VITOR AMORIM RAMOS ",
     "Paralelismo": "1.4",
-    "Fazenda": "53201"
+    "Fazenda": "53201",
+    "Unnamed: 16": null
   },
   {
     "ID": "3467721",
@@ -37636,7 +39730,8 @@ const PARALELISMO_DATA = [
     "Frente": "261 - FRENTE PRÓPRIA  (EDMILSON)",
     "Responsável": "VITOR AMORIM RAMOS ",
     "Paralelismo": "1.4",
-    "Fazenda": "53201"
+    "Fazenda": "53201",
+    "Unnamed: 16": null
   },
   {
     "ID": "3467665",
@@ -37654,7 +39749,8 @@ const PARALELISMO_DATA = [
     "Frente": "101 - FRENTE MECANIZADA",
     "Responsável": "FERNANDA DE SOUZA ",
     "Paralelismo": "1.4",
-    "Fazenda": "53201"
+    "Fazenda": "53201",
+    "Unnamed: 16": null
   },
   {
     "ID": "3468127",
@@ -37672,7 +39768,8 @@ const PARALELISMO_DATA = [
     "Frente": "143 - FRENTE CASSIO",
     "Responsável": "NILDA CLAUDINO [2510716]",
     "Paralelismo": "1.4",
-    "Fazenda": "53201"
+    "Fazenda": "53201",
+    "Unnamed: 16": null
   },
   {
     "ID": "3467609",
@@ -37690,7 +39787,8 @@ const PARALELISMO_DATA = [
     "Frente": "139 - Manezão",
     "Responsável": "REGINALDO DA SILVA GOMES ",
     "Paralelismo": "1.41",
-    "Fazenda": "53201"
+    "Fazenda": "53201",
+    "Unnamed: 16": null
   },
   {
     "ID": "3468123",
@@ -37708,7 +39806,8 @@ const PARALELISMO_DATA = [
     "Frente": "143 - FRENTE CASSIO",
     "Responsável": "NILDA CLAUDINO [2510716]",
     "Paralelismo": "1.4",
-    "Fazenda": "53201"
+    "Fazenda": "53201",
+    "Unnamed: 16": null
   },
   {
     "ID": "3467604",
@@ -37726,7 +39825,8 @@ const PARALELISMO_DATA = [
     "Frente": "139 - Manezão",
     "Responsável": "REGINALDO DA SILVA GOMES ",
     "Paralelismo": "1.38",
-    "Fazenda": "53201"
+    "Fazenda": "53201",
+    "Unnamed: 16": null
   },
   {
     "ID": "3468118",
@@ -37744,7 +39844,8 @@ const PARALELISMO_DATA = [
     "Frente": "143 - FRENTE CASSIO",
     "Responsável": "NILDA CLAUDINO [2510716]",
     "Paralelismo": "1.4",
-    "Fazenda": "53201"
+    "Fazenda": "53201",
+    "Unnamed: 16": null
   },
   {
     "ID": "3467599",
@@ -37762,7 +39863,8 @@ const PARALELISMO_DATA = [
     "Frente": "139 - Manezão",
     "Responsável": "REGINALDO DA SILVA GOMES ",
     "Paralelismo": "1.4",
-    "Fazenda": "53201"
+    "Fazenda": "53201",
+    "Unnamed: 16": null
   },
   {
     "ID": "3468113",
@@ -37780,7 +39882,8 @@ const PARALELISMO_DATA = [
     "Frente": "143 - FRENTE CASSIO",
     "Responsável": "NILDA CLAUDINO [2510716]",
     "Paralelismo": "1.4",
-    "Fazenda": "53201"
+    "Fazenda": "53201",
+    "Unnamed: 16": null
   },
   {
     "ID": "3468170",
@@ -37798,7 +39901,8 @@ const PARALELISMO_DATA = [
     "Frente": "105 - FRENTE CASSIO (ZACARIAS)",
     "Responsável": "GABRIEL HENRIQUE MARTINS PEREIRA",
     "Paralelismo": "1.4",
-    "Fazenda": "53201"
+    "Fazenda": "53201",
+    "Unnamed: 16": null
   },
   {
     "ID": "3468165",
@@ -37816,7 +39920,8 @@ const PARALELISMO_DATA = [
     "Frente": "105 - FRENTE CASSIO (ZACARIAS)",
     "Responsável": "GABRIEL HENRIQUE MARTINS PEREIRA",
     "Paralelismo": "1.4",
-    "Fazenda": "53201"
+    "Fazenda": "53201",
+    "Unnamed: 16": null
   },
   {
     "ID": "3468107",
@@ -37834,7 +39939,8 @@ const PARALELISMO_DATA = [
     "Frente": "143 - FRENTE CASSIO",
     "Responsável": "NILDA CLAUDINO [2510716]",
     "Paralelismo": "1.4",
-    "Fazenda": "53201"
+    "Fazenda": "53201",
+    "Unnamed: 16": null
   },
   {
     "ID": "3468161",
@@ -37852,7 +39958,8 @@ const PARALELISMO_DATA = [
     "Frente": "105 - FRENTE CASSIO (ZACARIAS)",
     "Responsável": "GABRIEL HENRIQUE MARTINS PEREIRA",
     "Paralelismo": "1.4",
-    "Fazenda": "53201"
+    "Fazenda": "53201",
+    "Unnamed: 16": null
   },
   {
     "ID": "3468060",
@@ -37870,7 +39977,8 @@ const PARALELISMO_DATA = [
     "Frente": "142 - FRENTE BIDU",
     "Responsável": "MICHELI DE SOUZA SANTOS  ",
     "Paralelismo": "1.4",
-    "Fazenda": "53201"
+    "Fazenda": "53201",
+    "Unnamed: 16": null
   },
   {
     "ID": "3468102",
@@ -37888,7 +39996,8 @@ const PARALELISMO_DATA = [
     "Frente": "143 - FRENTE CASSIO",
     "Responsável": "NILDA CLAUDINO [2510716]",
     "Paralelismo": "1.4",
-    "Fazenda": "53201"
+    "Fazenda": "53201",
+    "Unnamed: 16": null
   },
   {
     "ID": "3468056",
@@ -37906,7 +40015,8 @@ const PARALELISMO_DATA = [
     "Frente": "142 - FRENTE BIDU",
     "Responsável": "MICHELI DE SOUZA SANTOS  ",
     "Paralelismo": "1.38",
-    "Fazenda": "53201"
+    "Fazenda": "53201",
+    "Unnamed: 16": null
   },
   {
     "ID": "3468157",
@@ -37924,7 +40034,8 @@ const PARALELISMO_DATA = [
     "Frente": "105 - FRENTE CASSIO (ZACARIAS)",
     "Responsável": "GABRIEL HENRIQUE MARTINS PEREIRA",
     "Paralelismo": "1.4",
-    "Fazenda": "53201"
+    "Fazenda": "53201",
+    "Unnamed: 16": null
   },
   {
     "ID": "3467704",
@@ -37942,7 +40053,8 @@ const PARALELISMO_DATA = [
     "Frente": "291 - FRENTE PRÓPRIA ",
     "Responsável": "VITOR AMORIM RAMOS ",
     "Paralelismo": "1.4",
-    "Fazenda": "53201"
+    "Fazenda": "53201",
+    "Unnamed: 16": null
   },
   {
     "ID": "3467585",
@@ -37960,7 +40072,8 @@ const PARALELISMO_DATA = [
     "Frente": "139 - Manezão",
     "Responsável": "MARCELO DE OLIVEIRA JUNIOR",
     "Paralelismo": "1.44",
-    "Fazenda": "53201"
+    "Fazenda": "53201",
+    "Unnamed: 16": null
   },
   {
     "ID": "3468153",
@@ -37978,7 +40091,8 @@ const PARALELISMO_DATA = [
     "Frente": "105 - FRENTE CASSIO (ZACARIAS)",
     "Responsável": "GABRIEL HENRIQUE MARTINS PEREIRA",
     "Paralelismo": "1.4",
-    "Fazenda": "53201"
+    "Fazenda": "53201",
+    "Unnamed: 16": null
   },
   {
     "ID": "3468049",
@@ -37996,7 +40110,8 @@ const PARALELISMO_DATA = [
     "Frente": "142 - FRENTE BIDU",
     "Responsável": "MICHELI DE SOUZA SANTOS  ",
     "Paralelismo": "1.38",
-    "Fazenda": "53201"
+    "Fazenda": "53201",
+    "Unnamed: 16": null
   },
   {
     "ID": "3467654",
@@ -38014,7 +40129,8 @@ const PARALELISMO_DATA = [
     "Frente": "101 - FRENTE MECANIZADA",
     "Responsável": "FERNANDA DE SOUZA ",
     "Paralelismo": "1.4",
-    "Fazenda": "53201"
+    "Fazenda": "53201",
+    "Unnamed: 16": null
   },
   {
     "ID": "3468023",
@@ -38032,7 +40148,8 @@ const PARALELISMO_DATA = [
     "Frente": "291 - FRENTE PRÓPRIA ",
     "Responsável": "VITOR AMORIM RAMOS ",
     "Paralelismo": "1.4",
-    "Fazenda": "53201"
+    "Fazenda": "53201",
+    "Unnamed: 16": null
   },
   {
     "ID": "3467578",
@@ -38050,7 +40167,8 @@ const PARALELISMO_DATA = [
     "Frente": "139 - Manezão",
     "Responsável": "MARCELO DE OLIVEIRA JUNIOR",
     "Paralelismo": "1.4",
-    "Fazenda": "53201"
+    "Fazenda": "53201",
+    "Unnamed: 16": null
   },
   {
     "ID": "3468044",
@@ -38068,7 +40186,8 @@ const PARALELISMO_DATA = [
     "Frente": "142 - FRENTE BIDU",
     "Responsável": "MICHELI DE SOUZA SANTOS  ",
     "Paralelismo": "1.41",
-    "Fazenda": "53201"
+    "Fazenda": "53201",
+    "Unnamed: 16": null
   },
   {
     "ID": "3467689",
@@ -38086,7 +40205,8 @@ const PARALELISMO_DATA = [
     "Frente": "291 - FRENTE PRÓPRIA ",
     "Responsável": "VITOR AMORIM RAMOS ",
     "Paralelismo": "1.4",
-    "Fazenda": "53201"
+    "Fazenda": "53201",
+    "Unnamed: 16": null
   },
   {
     "ID": "3467652",
@@ -38104,7 +40224,8 @@ const PARALELISMO_DATA = [
     "Frente": "101 - FRENTE MECANIZADA",
     "Responsável": "FERNANDA DE SOUZA ",
     "Paralelismo": "1.4",
-    "Fazenda": "53201"
+    "Fazenda": "53201",
+    "Unnamed: 16": null
   },
   {
     "ID": "3467575",
@@ -38122,7 +40243,8 @@ const PARALELISMO_DATA = [
     "Frente": "139 - Manezão",
     "Responsável": "MARCELO DE OLIVEIRA JUNIOR",
     "Paralelismo": "1.4",
-    "Fazenda": "53201"
+    "Fazenda": "53201",
+    "Unnamed: 16": null
   },
   {
     "ID": "3467639",
@@ -38140,7 +40262,8 @@ const PARALELISMO_DATA = [
     "Frente": "142 - FRENTE BIDU",
     "Responsável": "MICHELI DE SOUZA SANTOS  ",
     "Paralelismo": "1.4",
-    "Fazenda": "53201"
+    "Fazenda": "53201",
+    "Unnamed: 16": null
   },
   {
     "ID": "3467679",
@@ -38158,7 +40281,8 @@ const PARALELISMO_DATA = [
     "Frente": "291 - FRENTE PRÓPRIA ",
     "Responsável": "VITOR AMORIM RAMOS ",
     "Paralelismo": "1.4",
-    "Fazenda": "53201"
+    "Fazenda": "53201",
+    "Unnamed: 16": null
   },
   {
     "ID": "3467568",
@@ -38176,7 +40300,8 @@ const PARALELISMO_DATA = [
     "Frente": "139 - Manezão",
     "Responsável": "MARCELO DE OLIVEIRA JUNIOR",
     "Paralelismo": "1.4",
-    "Fazenda": "53201"
+    "Fazenda": "53201",
+    "Unnamed: 16": null
   },
   {
     "ID": "3467613",
@@ -38194,7 +40319,8 @@ const PARALELISMO_DATA = [
     "Frente": "291 - FRENTE PRÓPRIA ",
     "Responsável": "VITOR AMORIM RAMOS ",
     "Paralelismo": "1.4",
-    "Fazenda": "53201"
+    "Fazenda": "53201",
+    "Unnamed: 16": null
   },
   {
     "ID": "3467563",
@@ -38212,7 +40338,8 @@ const PARALELISMO_DATA = [
     "Frente": "139 - Manezão",
     "Responsável": "MARCELO DE OLIVEIRA JUNIOR",
     "Paralelismo": "1.43",
-    "Fazenda": "53201"
+    "Fazenda": "53201",
+    "Unnamed: 16": null
   },
   {
     "ID": "3466073",
@@ -38230,7 +40357,8 @@ const PARALELISMO_DATA = [
     "Frente": "291 - FRENTE PRÓPRIA ",
     "Responsável": "VITOR AMORIM RAMOS ",
     "Paralelismo": "1.4",
-    "Fazenda": "53201"
+    "Fazenda": "53201",
+    "Unnamed: 16": null
   },
   {
     "ID": "3465979",
@@ -38248,7 +40376,8 @@ const PARALELISMO_DATA = [
     "Frente": "101 - FRENTE MECANIZADA",
     "Responsável": "FERNANDA DE SOUZA ",
     "Paralelismo": "1.4",
-    "Fazenda": "53201"
+    "Fazenda": "53201",
+    "Unnamed: 16": null
   },
   {
     "ID": "3466064",
@@ -38266,7 +40395,8 @@ const PARALELISMO_DATA = [
     "Frente": "291 - FRENTE PRÓPRIA ",
     "Responsável": "VITOR AMORIM RAMOS ",
     "Paralelismo": "1.4",
-    "Fazenda": "53201"
+    "Fazenda": "53201",
+    "Unnamed: 16": null
   },
   {
     "ID": "3466058",
@@ -38284,7 +40414,8 @@ const PARALELISMO_DATA = [
     "Frente": "291 - FRENTE PRÓPRIA ",
     "Responsável": "VITOR AMORIM RAMOS ",
     "Paralelismo": "1.4",
-    "Fazenda": "53201"
+    "Fazenda": "53201",
+    "Unnamed: 16": null
   },
   {
     "ID": "3465972",
@@ -38302,7 +40433,8 @@ const PARALELISMO_DATA = [
     "Frente": "101 - FRENTE MECANIZADA",
     "Responsável": "FERNANDA DE SOUZA ",
     "Paralelismo": "1.4",
-    "Fazenda": "53201"
+    "Fazenda": "53201",
+    "Unnamed: 16": null
   },
   {
     "ID": "3466053",
@@ -38320,7 +40452,8 @@ const PARALELISMO_DATA = [
     "Frente": "291 - FRENTE PRÓPRIA ",
     "Responsável": "VITOR AMORIM RAMOS ",
     "Paralelismo": "1.4",
-    "Fazenda": "53201"
+    "Fazenda": "53201",
+    "Unnamed: 16": null
   },
   {
     "ID": "3465833",
@@ -38338,7 +40471,8 @@ const PARALELISMO_DATA = [
     "Frente": "142 - FRENTE BIDU",
     "Responsável": "MICHELI DE SOUZA SANTOS  ",
     "Paralelismo": "1.4",
-    "Fazenda": "53201"
+    "Fazenda": "53201",
+    "Unnamed: 16": null
   },
   {
     "ID": "3465832",
@@ -38356,7 +40490,8 @@ const PARALELISMO_DATA = [
     "Frente": "142 - FRENTE BIDU",
     "Responsável": "MICHELI DE SOUZA SANTOS  ",
     "Paralelismo": "1.39",
-    "Fazenda": "53201"
+    "Fazenda": "53201",
+    "Unnamed: 16": null
   },
   {
     "ID": "3465831",
@@ -38374,7 +40509,8 @@ const PARALELISMO_DATA = [
     "Frente": "142 - FRENTE BIDU",
     "Responsável": "MICHELI DE SOUZA SANTOS  ",
     "Paralelismo": "1.42",
-    "Fazenda": "53201"
+    "Fazenda": "53201",
+    "Unnamed: 16": null
   },
   {
     "ID": "3465830",
@@ -38392,7 +40528,8 @@ const PARALELISMO_DATA = [
     "Frente": "142 - FRENTE BIDU",
     "Responsável": "MICHELI DE SOUZA SANTOS  ",
     "Paralelismo": "1.4",
-    "Fazenda": "53201"
+    "Fazenda": "53201",
+    "Unnamed: 16": null
   },
   {
     "ID": "3465829",
@@ -38410,7 +40547,8 @@ const PARALELISMO_DATA = [
     "Frente": "142 - FRENTE BIDU",
     "Responsável": "MICHELI DE SOUZA SANTOS  ",
     "Paralelismo": "1.4",
-    "Fazenda": "53201"
+    "Fazenda": "53201",
+    "Unnamed: 16": null
   },
   {
     "ID": "3466046",
@@ -38428,7 +40566,8 @@ const PARALELISMO_DATA = [
     "Frente": "291 - FRENTE PRÓPRIA ",
     "Responsável": "VITOR AMORIM RAMOS ",
     "Paralelismo": "1.4",
-    "Fazenda": "53201"
+    "Fazenda": "53201",
+    "Unnamed: 16": null
   },
   {
     "ID": "3466091",
@@ -38446,7 +40585,8 @@ const PARALELISMO_DATA = [
     "Frente": "291 - FRENTE PRÓPRIA ",
     "Responsável": "VITOR AMORIM RAMOS ",
     "Paralelismo": "1.4",
-    "Fazenda": "53201"
+    "Fazenda": "53201",
+    "Unnamed: 16": null
   },
   {
     "ID": "3466089",
@@ -38464,7 +40604,8 @@ const PARALELISMO_DATA = [
     "Frente": "291 - FRENTE PRÓPRIA ",
     "Responsável": "VITOR AMORIM RAMOS ",
     "Paralelismo": "1.4",
-    "Fazenda": "53201"
+    "Fazenda": "53201",
+    "Unnamed: 16": null
   },
   {
     "ID": "3465557",
@@ -38482,7 +40623,8 @@ const PARALELISMO_DATA = [
     "Frente": "291 - FRENTE PRÓPRIA ",
     "Responsável": "VITOR AMORIM RAMOS ",
     "Paralelismo": "1.4",
-    "Fazenda": "53201"
+    "Fazenda": "53201",
+    "Unnamed: 16": null
   },
   {
     "ID": "3469389",
@@ -38500,7 +40642,8 @@ const PARALELISMO_DATA = [
     "Frente": "105 - FRENTE CASSIO (ZACARIAS)",
     "Responsável": "GABRIEL HENRIQUE MARTINS PEREIRA",
     "Paralelismo": "1.4",
-    "Fazenda": "53201"
+    "Fazenda": "53201",
+    "Unnamed: 16": null
   },
   {
     "ID": "3465552",
@@ -38518,7 +40661,8 @@ const PARALELISMO_DATA = [
     "Frente": "291 - FRENTE PRÓPRIA ",
     "Responsável": "VITOR AMORIM RAMOS ",
     "Paralelismo": "1.4",
-    "Fazenda": "53201"
+    "Fazenda": "53201",
+    "Unnamed: 16": null
   },
   {
     "ID": "3465683",
@@ -38536,7 +40680,8 @@ const PARALELISMO_DATA = [
     "Frente": "105 - FRENTE CASSIO",
     "Responsável": "NILDA CLAUDINO [2510716]",
     "Paralelismo": "1.4",
-    "Fazenda": "53201"
+    "Fazenda": "53201",
+    "Unnamed: 16": null
   },
   {
     "ID": "3466700",
@@ -38554,7 +40699,8 @@ const PARALELISMO_DATA = [
     "Frente": "139 - Manezão",
     "Responsável": "MARCELO DE OLIVEIRA JUNIOR",
     "Paralelismo": "1.41",
-    "Fazenda": "53201"
+    "Fazenda": "53201",
+    "Unnamed: 16": null
   },
   {
     "ID": "3465547",
@@ -38572,7 +40718,8 @@ const PARALELISMO_DATA = [
     "Frente": "291 - FRENTE PRÓPRIA ",
     "Responsável": "VITOR AMORIM RAMOS ",
     "Paralelismo": "1.4",
-    "Fazenda": "53201"
+    "Fazenda": "53201",
+    "Unnamed: 16": null
   },
   {
     "ID": "3466694",
@@ -38590,7 +40737,8 @@ const PARALELISMO_DATA = [
     "Frente": "139 - Manezão",
     "Responsável": "MARCELO DE OLIVEIRA JUNIOR",
     "Paralelismo": "1.39",
-    "Fazenda": "53201"
+    "Fazenda": "53201",
+    "Unnamed: 16": null
   },
   {
     "ID": "3469384",
@@ -38608,7 +40756,8 @@ const PARALELISMO_DATA = [
     "Frente": "105 - FRENTE CASSIO (ZACARIAS)",
     "Responsável": "GABRIEL HENRIQUE MARTINS PEREIRA",
     "Paralelismo": "1.4",
-    "Fazenda": "53201"
+    "Fazenda": "53201",
+    "Unnamed: 16": null
   },
   {
     "ID": "3465679",
@@ -38626,7 +40775,8 @@ const PARALELISMO_DATA = [
     "Frente": "105 - FRENTE CASSIO",
     "Responsável": "NILDA CLAUDINO [2510716]",
     "Paralelismo": "1.4",
-    "Fazenda": "53201"
+    "Fazenda": "53201",
+    "Unnamed: 16": null
   },
   {
     "ID": "3466689",
@@ -38644,7 +40794,8 @@ const PARALELISMO_DATA = [
     "Frente": "139 - Manezão",
     "Responsável": "MARCELO DE OLIVEIRA JUNIOR",
     "Paralelismo": "1.43",
-    "Fazenda": "53201"
+    "Fazenda": "53201",
+    "Unnamed: 16": null
   },
   {
     "ID": "3469379",
@@ -38662,7 +40813,8 @@ const PARALELISMO_DATA = [
     "Frente": "105 - FRENTE CASSIO (ZACARIAS)",
     "Responsável": "GABRIEL HENRIQUE MARTINS PEREIRA",
     "Paralelismo": "1.4",
-    "Fazenda": "53201"
+    "Fazenda": "53201",
+    "Unnamed: 16": null
   },
   {
     "ID": "3465620",
@@ -38680,7 +40832,8 @@ const PARALELISMO_DATA = [
     "Frente": "105 - FRENTE CASSIO",
     "Responsável": "NILDA CLAUDINO [2510716]",
     "Paralelismo": "1.4",
-    "Fazenda": "53201"
+    "Fazenda": "53201",
+    "Unnamed: 16": null
   },
   {
     "ID": "3466683",
@@ -38698,7 +40851,8 @@ const PARALELISMO_DATA = [
     "Frente": "139 - Manezão",
     "Responsável": "MARCELO DE OLIVEIRA JUNIOR",
     "Paralelismo": "1.4",
-    "Fazenda": "53201"
+    "Fazenda": "53201",
+    "Unnamed: 16": null
   },
   {
     "ID": "3469374",
@@ -38716,7 +40870,8 @@ const PARALELISMO_DATA = [
     "Frente": "105 - FRENTE CASSIO (ZACARIAS)",
     "Responsável": "GABRIEL HENRIQUE MARTINS PEREIRA",
     "Paralelismo": "1.4",
-    "Fazenda": "53201"
+    "Fazenda": "53201",
+    "Unnamed: 16": null
   },
   {
     "ID": "3465616",
@@ -38734,7 +40889,8 @@ const PARALELISMO_DATA = [
     "Frente": "105 - FRENTE CASSIO",
     "Responsável": "NILDA CLAUDINO [2510716]",
     "Paralelismo": "1.4",
-    "Fazenda": "53201"
+    "Fazenda": "53201",
+    "Unnamed: 16": null
   },
   {
     "ID": "3469370",
@@ -38752,7 +40908,8 @@ const PARALELISMO_DATA = [
     "Frente": "105 - FRENTE CASSIO (ZACARIAS)",
     "Responsável": "GABRIEL HENRIQUE MARTINS PEREIRA",
     "Paralelismo": "1.4",
-    "Fazenda": "53201"
+    "Fazenda": "53201",
+    "Unnamed: 16": null
   },
   {
     "ID": "3465612",
@@ -38770,7 +40927,8 @@ const PARALELISMO_DATA = [
     "Frente": "105 - FRENTE CASSIO",
     "Responsável": "NILDA CLAUDINO [2510716]",
     "Paralelismo": "1.4",
-    "Fazenda": "53201"
+    "Fazenda": "53201",
+    "Unnamed: 16": null
   },
   {
     "ID": "3465509",
@@ -38788,7 +40946,8 @@ const PARALELISMO_DATA = [
     "Frente": "101 - FRENTE MECANIZADA",
     "Responsável": "FERNANDA DE SOUZA ",
     "Paralelismo": "1.4",
-    "Fazenda": "53201"
+    "Fazenda": "53201",
+    "Unnamed: 16": null
   },
   {
     "ID": "3465506",
@@ -38806,7 +40965,8 @@ const PARALELISMO_DATA = [
     "Frente": "101 - FRENTE MECANIZADA",
     "Responsável": "FERNANDA DE SOUZA ",
     "Paralelismo": "1.4",
-    "Fazenda": "53201"
+    "Fazenda": "53201",
+    "Unnamed: 16": null
   },
   {
     "ID": "3463699",
@@ -38824,7 +40984,8 @@ const PARALELISMO_DATA = [
     "Frente": "142 - FRENTE BIDU",
     "Responsável": "MICHELI DE SOUZA SANTOS  ",
     "Paralelismo": "1.41",
-    "Fazenda": "146201"
+    "Fazenda": "146201",
+    "Unnamed: 16": null
   },
   {
     "ID": "3463862",
@@ -38842,7 +41003,8 @@ const PARALELISMO_DATA = [
     "Frente": "261 - FRENTE PRÓPRIA  (EDMILSON)",
     "Responsável": "VITOR AMORIM RAMOS ",
     "Paralelismo": "1.4",
-    "Fazenda": "53201"
+    "Fazenda": "53201",
+    "Unnamed: 16": null
   },
   {
     "ID": "3463698",
@@ -38860,7 +41022,8 @@ const PARALELISMO_DATA = [
     "Frente": "142 - FRENTE BIDU",
     "Responsável": "MICHELI DE SOUZA SANTOS  ",
     "Paralelismo": "1.4",
-    "Fazenda": "53201"
+    "Fazenda": "53201",
+    "Unnamed: 16": null
   },
   {
     "ID": "3463697",
@@ -38878,7 +41041,8 @@ const PARALELISMO_DATA = [
     "Frente": "142 - FRENTE BIDU",
     "Responsável": "MICHELI DE SOUZA SANTOS  ",
     "Paralelismo": "1.4",
-    "Fazenda": "53201"
+    "Fazenda": "53201",
+    "Unnamed: 16": null
   },
   {
     "ID": "3463849",
@@ -38896,7 +41060,8 @@ const PARALELISMO_DATA = [
     "Frente": "261 - FRENTE PRÓPRIA  (EDMILSON)",
     "Responsável": "VITOR AMORIM RAMOS ",
     "Paralelismo": "1.4",
-    "Fazenda": "53201"
+    "Fazenda": "53201",
+    "Unnamed: 16": null
   },
   {
     "ID": "3463829",
@@ -38914,7 +41079,8 @@ const PARALELISMO_DATA = [
     "Frente": "261 - FRENTE PRÓPRIA  (EDMILSON)",
     "Responsável": "VITOR AMORIM RAMOS ",
     "Paralelismo": "1.4",
-    "Fazenda": "53201"
+    "Fazenda": "53201",
+    "Unnamed: 16": null
   },
   {
     "ID": "3463821",
@@ -38932,7 +41098,8 @@ const PARALELISMO_DATA = [
     "Frente": "261 - FRENTE PRÓPRIA  (EDMILSON)",
     "Responsável": "VITOR AMORIM RAMOS ",
     "Paralelismo": "1.4",
-    "Fazenda": "53201"
+    "Fazenda": "53201",
+    "Unnamed: 16": null
   },
   {
     "ID": "3463765",
@@ -38950,7 +41117,8 @@ const PARALELISMO_DATA = [
     "Frente": "105 - FRENTE CASSIO (ZACARIAS)",
     "Responsável": "GABRIEL HENRIQUE MARTINS PEREIRA",
     "Paralelismo": "1.4",
-    "Fazenda": "53201"
+    "Fazenda": "53201",
+    "Unnamed: 16": null
   },
   {
     "ID": "3464588",
@@ -38968,7 +41136,8 @@ const PARALELISMO_DATA = [
     "Frente": "261 - FRENTE PRÓPRIA  (EDMILSON)",
     "Responsável": "VITOR AMORIM RAMOS ",
     "Paralelismo": "1.4",
-    "Fazenda": "53201"
+    "Fazenda": "53201",
+    "Unnamed: 16": null
   },
   {
     "ID": "3463760",
@@ -38986,7 +41155,8 @@ const PARALELISMO_DATA = [
     "Frente": "105 - FRENTE CASSIO (ZACARIAS)",
     "Responsável": "GABRIEL HENRIQUE MARTINS PEREIRA",
     "Paralelismo": "1.4",
-    "Fazenda": "53201"
+    "Fazenda": "53201",
+    "Unnamed: 16": null
   },
   {
     "ID": "3464583",
@@ -39004,7 +41174,8 @@ const PARALELISMO_DATA = [
     "Frente": "291 - FRENTE PRÓPRIA ",
     "Responsável": "VITOR AMORIM RAMOS ",
     "Paralelismo": "1.4",
-    "Fazenda": "53201"
+    "Fazenda": "53201",
+    "Unnamed: 16": null
   },
   {
     "ID": "3463755",
@@ -39022,7 +41193,8 @@ const PARALELISMO_DATA = [
     "Frente": "105 - FRENTE CASSIO (ZACARIAS)",
     "Responsável": "GABRIEL HENRIQUE MARTINS PEREIRA",
     "Paralelismo": "1.4",
-    "Fazenda": "53201"
+    "Fazenda": "53201",
+    "Unnamed: 16": null
   },
   {
     "ID": "3463746",
@@ -39040,7 +41212,8 @@ const PARALELISMO_DATA = [
     "Frente": "105 - FRENTE CASSIO (ZACARIAS)",
     "Responsável": "GABRIEL HENRIQUE MARTINS PEREIRA",
     "Paralelismo": "1.4",
-    "Fazenda": "53201"
+    "Fazenda": "53201",
+    "Unnamed: 16": null
   },
   {
     "ID": "3463741",
@@ -39058,7 +41231,8 @@ const PARALELISMO_DATA = [
     "Frente": "105 - FRENTE CASSIO (ZACARIAS)",
     "Responsável": "GABRIEL HENRIQUE MARTINS PEREIRA",
     "Paralelismo": "1.4",
-    "Fazenda": "53201"
+    "Fazenda": "53201",
+    "Unnamed: 16": null
   },
   {
     "ID": "3463736",
@@ -39076,7 +41250,8 @@ const PARALELISMO_DATA = [
     "Frente": "105 - FRENTE CASSIO (ZACARIAS)",
     "Responsável": "GABRIEL HENRIQUE MARTINS PEREIRA",
     "Paralelismo": "1.4",
-    "Fazenda": "53201"
+    "Fazenda": "53201",
+    "Unnamed: 16": null
   },
   {
     "ID": "3463733",
@@ -39094,7 +41269,8 @@ const PARALELISMO_DATA = [
     "Frente": "105 - FRENTE CASSIO (ZACARIAS)",
     "Responsável": "GABRIEL HENRIQUE MARTINS PEREIRA",
     "Paralelismo": "1.4",
-    "Fazenda": "53201"
+    "Fazenda": "53201",
+    "Unnamed: 16": null
   },
   {
     "ID": "3463684",
@@ -39112,7 +41288,8 @@ const PARALELISMO_DATA = [
     "Frente": "105 - FRENTE CASSIO (ZACARIAS)",
     "Responsável": "GABRIEL HENRIQUE MARTINS PEREIRA",
     "Paralelismo": "1.4",
-    "Fazenda": "53201"
+    "Fazenda": "53201",
+    "Unnamed: 16": null
   },
   {
     "ID": "3463839",
@@ -39130,7 +41307,8 @@ const PARALELISMO_DATA = [
     "Frente": "101 - FRENTE MECANIZADA",
     "Responsável": "FERNANDA DE SOUZA ",
     "Paralelismo": "1.4",
-    "Fazenda": "53201"
+    "Fazenda": "53201",
+    "Unnamed: 16": null
   },
   {
     "ID": "3463835",
@@ -39148,7 +41326,8 @@ const PARALELISMO_DATA = [
     "Frente": "101 - FRENTE MECANIZADA",
     "Responsável": "FERNANDA DE SOUZA ",
     "Paralelismo": "1.4",
-    "Fazenda": "53201"
+    "Fazenda": "53201",
+    "Unnamed: 16": null
   },
   {
     "ID": "3463444",
@@ -39166,7 +41345,8 @@ const PARALELISMO_DATA = [
     "Frente": "105 - FRENTE CASSIO",
     "Responsável": "NILDA CLAUDINO [2510716]",
     "Paralelismo": "1.4",
-    "Fazenda": "53201"
+    "Fazenda": "53201",
+    "Unnamed: 16": null
   },
   {
     "ID": "3463340",
@@ -39184,7 +41364,8 @@ const PARALELISMO_DATA = [
     "Frente": "139 - FRENTE MANEZÃO",
     "Responsável": "GLEISON FELIPE BORGES DE MATOS",
     "Paralelismo": "1.4",
-    "Fazenda": "53201"
+    "Fazenda": "53201",
+    "Unnamed: 16": null
   },
   {
     "ID": "3463334",
@@ -39202,7 +41383,8 @@ const PARALELISMO_DATA = [
     "Frente": "139 - FRENTE MANEZÃO",
     "Responsável": "GLEISON FELIPE BORGES DE MATOS",
     "Paralelismo": "1.4",
-    "Fazenda": "53201"
+    "Fazenda": "53201",
+    "Unnamed: 16": null
   },
   {
     "ID": "3463328",
@@ -39220,7 +41402,8 @@ const PARALELISMO_DATA = [
     "Frente": "139 - FRENTE MANEZÃO",
     "Responsável": "GLEISON FELIPE BORGES DE MATOS",
     "Paralelismo": "1.4",
-    "Fazenda": "53201"
+    "Fazenda": "53201",
+    "Unnamed: 16": null
   },
   {
     "ID": "3461780",
@@ -39238,7 +41421,8 @@ const PARALELISMO_DATA = [
     "Frente": "261 - FRENTE PRÓPRIA  (EDMILSON)",
     "Responsável": "VITOR AMORIM RAMOS ",
     "Paralelismo": "1.4",
-    "Fazenda": "53201"
+    "Fazenda": "53201",
+    "Unnamed: 16": null
   },
   {
     "ID": "3461771",
@@ -39256,7 +41440,8 @@ const PARALELISMO_DATA = [
     "Frente": "261 - FRENTE PRÓPRIA  (EDMILSON)",
     "Responsável": "VITOR AMORIM RAMOS ",
     "Paralelismo": "1.4",
-    "Fazenda": "53201"
+    "Fazenda": "53201",
+    "Unnamed: 16": null
   },
   {
     "ID": "3461766",
@@ -39274,7 +41459,8 @@ const PARALELISMO_DATA = [
     "Frente": "261 - FRENTE PRÓPRIA  (EDMILSON)",
     "Responsável": "VITOR AMORIM RAMOS ",
     "Paralelismo": "1.4",
-    "Fazenda": "53201"
+    "Fazenda": "53201",
+    "Unnamed: 16": null
   },
   {
     "ID": "3461632",
@@ -39292,7 +41478,8 @@ const PARALELISMO_DATA = [
     "Frente": "261 - FRENTE PRÓPRIA  (EDMILSON)",
     "Responsável": "278400 - Vitor Amorim Ramos ",
     "Paralelismo": "1.4",
-    "Fazenda": "53201"
+    "Fazenda": "53201",
+    "Unnamed: 16": null
   },
   {
     "ID": "3461616",
@@ -39310,7 +41497,8 @@ const PARALELISMO_DATA = [
     "Frente": "261 - FRENTE PRÓPRIA  (EDMILSON)",
     "Responsável": "278400 - Vitor Amorim Ramos ",
     "Paralelismo": "1.4",
-    "Fazenda": "53201"
+    "Fazenda": "53201",
+    "Unnamed: 16": null
   },
   {
     "ID": "3461608",
@@ -39328,7 +41516,8 @@ const PARALELISMO_DATA = [
     "Frente": "261 - FRENTE PRÓPRIA  (EDMILSON)",
     "Responsável": "278400 - Vitor Amorim Ramos ",
     "Paralelismo": "1.4",
-    "Fazenda": "53201"
+    "Fazenda": "53201",
+    "Unnamed: 16": null
   },
   {
     "ID": "3461598",
@@ -39346,7 +41535,8 @@ const PARALELISMO_DATA = [
     "Frente": "261 - FRENTE PRÓPRIA  (EDMILSON)",
     "Responsável": "278400 - Vitor Amorim Ramos ",
     "Paralelismo": "1.41",
-    "Fazenda": "53201"
+    "Fazenda": "53201",
+    "Unnamed: 16": null
   },
   {
     "ID": "3461593",
@@ -39364,7 +41554,8 @@ const PARALELISMO_DATA = [
     "Frente": "261 - FRENTE PRÓPRIA  (EDMILSON)",
     "Responsável": "278400 - Vitor Amorim Ramos ",
     "Paralelismo": "1.4",
-    "Fazenda": "53201"
+    "Fazenda": "53201",
+    "Unnamed: 16": null
   },
   {
     "ID": "3461589",
@@ -39382,7 +41573,8 @@ const PARALELISMO_DATA = [
     "Frente": "261 - FRENTE PRÓPRIA  (EDMILSON)",
     "Responsável": "278400 - Vitor Amorim Ramos ",
     "Paralelismo": "1.4",
-    "Fazenda": "53201"
+    "Fazenda": "53201",
+    "Unnamed: 16": null
   },
   {
     "ID": "3461584",
@@ -39400,7 +41592,8 @@ const PARALELISMO_DATA = [
     "Frente": "261 - FRENTE PRÓPRIA  (EDMILSON)",
     "Responsável": "278400 - Vitor Amorim Ramos ",
     "Paralelismo": "1.41",
-    "Fazenda": "53201"
+    "Fazenda": "53201",
+    "Unnamed: 16": null
   },
   {
     "ID": "3461560",
@@ -39418,7 +41611,8 @@ const PARALELISMO_DATA = [
     "Frente": "261 - FRENTE PRÓPRIA  (EDMILSON)",
     "Responsável": "278400 - Vitor Amorim Ramos ",
     "Paralelismo": "1.4",
-    "Fazenda": "53201"
+    "Fazenda": "53201",
+    "Unnamed: 16": null
   },
   {
     "ID": "3455028",
@@ -39436,7 +41630,8 @@ const PARALELISMO_DATA = [
     "Frente": "261 - FRENTE PRÓPRIA  (EDMILSON)",
     "Responsável": "VITOR AMORIM RAMOS ",
     "Paralelismo": "1.4",
-    "Fazenda": "53201"
+    "Fazenda": "53201",
+    "Unnamed: 16": null
   },
   {
     "ID": "3455023",
@@ -39454,7 +41649,8 @@ const PARALELISMO_DATA = [
     "Frente": "261 - FRENTE PRÓPRIA  (EDMILSON)",
     "Responsável": "VITOR AMORIM RAMOS ",
     "Paralelismo": "1.4",
-    "Fazenda": "53201"
+    "Fazenda": "53201",
+    "Unnamed: 16": null
   },
   {
     "ID": "3455018",
@@ -39472,7 +41668,8 @@ const PARALELISMO_DATA = [
     "Frente": "261 - FRENTE PRÓPRIA  (EDMILSON)",
     "Responsável": "VITOR AMORIM RAMOS ",
     "Paralelismo": "1.4",
-    "Fazenda": "53201"
+    "Fazenda": "53201",
+    "Unnamed: 16": null
   },
   {
     "ID": "3454930",
@@ -39490,7 +41687,8 @@ const PARALELISMO_DATA = [
     "Frente": "101 - FRENTE MECANIZADA",
     "Responsável": "FERNANDA DE SOUZA ",
     "Paralelismo": "1.4",
-    "Fazenda": "53201"
+    "Fazenda": "53201",
+    "Unnamed: 16": null
   },
   {
     "ID": "3455013",
@@ -39508,7 +41706,8 @@ const PARALELISMO_DATA = [
     "Frente": "261 - FRENTE PRÓPRIA  (EDMILSON)",
     "Responsável": "VITOR AMORIM RAMOS ",
     "Paralelismo": "1.4",
-    "Fazenda": "53201"
+    "Fazenda": "53201",
+    "Unnamed: 16": null
   },
   {
     "ID": "3454835",
@@ -39526,7 +41725,8 @@ const PARALELISMO_DATA = [
     "Frente": "139 - Manezão",
     "Responsável": "MARCELO DE OLIVEIRA JUNIOR",
     "Paralelismo": "1.42",
-    "Fazenda": "53201"
+    "Fazenda": "53201",
+    "Unnamed: 16": null
   },
   {
     "ID": "3455005",
@@ -39544,7 +41744,8 @@ const PARALELISMO_DATA = [
     "Frente": "261 - FRENTE PRÓPRIA  (EDMILSON)",
     "Responsável": "VITOR AMORIM RAMOS ",
     "Paralelismo": "1.4",
-    "Fazenda": "53201"
+    "Fazenda": "53201",
+    "Unnamed: 16": null
   },
   {
     "ID": "3454834",
@@ -39562,7 +41763,8 @@ const PARALELISMO_DATA = [
     "Frente": "139 - Manezão",
     "Responsável": "MARCELO DE OLIVEIRA JUNIOR",
     "Paralelismo": "1.4",
-    "Fazenda": "53201"
+    "Fazenda": "53201",
+    "Unnamed: 16": null
   },
   {
     "ID": "3454887",
@@ -39580,7 +41782,8 @@ const PARALELISMO_DATA = [
     "Frente": "105 - FRENTE CASSIO (ZACARIAS)",
     "Responsável": "GABRIEL HENRIQUE MARTINS PEREIRA",
     "Paralelismo": "1.4",
-    "Fazenda": "53201"
+    "Fazenda": "53201",
+    "Unnamed: 16": null
   },
   {
     "ID": "3454999",
@@ -39598,7 +41801,8 @@ const PARALELISMO_DATA = [
     "Frente": "261 - FRENTE PRÓPRIA  (EDMILSON)",
     "Responsável": "VITOR AMORIM RAMOS ",
     "Paralelismo": "1.4",
-    "Fazenda": "53201"
+    "Fazenda": "53201",
+    "Unnamed: 16": null
   },
   {
     "ID": "3454920",
@@ -39616,7 +41820,8 @@ const PARALELISMO_DATA = [
     "Frente": "101 - FRENTE MECANIZADA",
     "Responsável": "FERNANDA DE SOUZA ",
     "Paralelismo": "1.42",
-    "Fazenda": "53201"
+    "Fazenda": "53201",
+    "Unnamed: 16": null
   },
   {
     "ID": "3454917",
@@ -39634,7 +41839,8 @@ const PARALELISMO_DATA = [
     "Frente": "101 - FRENTE MECANIZADA",
     "Responsável": "FERNANDA DE SOUZA ",
     "Paralelismo": "1.4",
-    "Fazenda": "53201"
+    "Fazenda": "53201",
+    "Unnamed: 16": null
   },
   {
     "ID": "3454882",
@@ -39652,7 +41858,8 @@ const PARALELISMO_DATA = [
     "Frente": "105 - FRENTE CASSIO (ZACARIAS)",
     "Responsável": "GABRIEL HENRIQUE MARTINS PEREIRA",
     "Paralelismo": "1.4",
-    "Fazenda": "53201"
+    "Fazenda": "53201",
+    "Unnamed: 16": null
   },
   {
     "ID": "3454870",
@@ -39670,7 +41877,8 @@ const PARALELISMO_DATA = [
     "Frente": "105 - FRENTE CASSIO (ZACARIAS)",
     "Responsável": "GABRIEL HENRIQUE MARTINS PEREIRA",
     "Paralelismo": "1.4",
-    "Fazenda": "53201"
+    "Fazenda": "53201",
+    "Unnamed: 16": null
   },
   {
     "ID": "3454865",
@@ -39688,7 +41896,8 @@ const PARALELISMO_DATA = [
     "Frente": "105 - FRENTE CASSIO (ZACARIAS)",
     "Responsável": "GABRIEL HENRIQUE MARTINS PEREIRA",
     "Paralelismo": "1.4",
-    "Fazenda": "53201"
+    "Fazenda": "53201",
+    "Unnamed: 16": null
   },
   {
     "ID": "3454271",
@@ -39706,7 +41915,8 @@ const PARALELISMO_DATA = [
     "Frente": "135 - PEDRINHO ",
     "Responsável": "NILDA CLAUDINO [2510716]",
     "Paralelismo": "1.4",
-    "Fazenda": "53201"
+    "Fazenda": "53201",
+    "Unnamed: 16": null
   },
   {
     "ID": "3454269",
@@ -39724,7 +41934,8 @@ const PARALELISMO_DATA = [
     "Frente": "135 - PEDRINHO ",
     "Responsável": "NILDA CLAUDINO [2510716]",
     "Paralelismo": "1.4",
-    "Fazenda": "53201"
+    "Fazenda": "53201",
+    "Unnamed: 16": null
   },
   {
     "ID": "3454229",
@@ -39742,7 +41953,8 @@ const PARALELISMO_DATA = [
     "Frente": "142 - FRENTE BIDU",
     "Responsável": "GLEISON FELIPE BORGES DE MATOS",
     "Paralelismo": "1.38",
-    "Fazenda": "53201"
+    "Fazenda": "53201",
+    "Unnamed: 16": null
   },
   {
     "ID": "3454225",
@@ -39760,7 +41972,8 @@ const PARALELISMO_DATA = [
     "Frente": "142 - FRENTE BIDU",
     "Responsável": "GLEISON FELIPE BORGES DE MATOS",
     "Paralelismo": "1.4",
-    "Fazenda": "53201"
+    "Fazenda": "53201",
+    "Unnamed: 16": null
   },
   {
     "ID": "3454217",
@@ -39778,7 +41991,8 @@ const PARALELISMO_DATA = [
     "Frente": "142 - FRENTE BIDU",
     "Responsável": "GLEISON FELIPE BORGES DE MATOS",
     "Paralelismo": "1.4",
-    "Fazenda": "53201"
+    "Fazenda": "53201",
+    "Unnamed: 16": null
   },
   {
     "ID": "3454254",
@@ -39796,7 +42010,8 @@ const PARALELISMO_DATA = [
     "Frente": "135 - PEDRINHO ",
     "Responsável": "NILDA CLAUDINO [2510716]",
     "Paralelismo": "1.4",
-    "Fazenda": "53201"
+    "Fazenda": "53201",
+    "Unnamed: 16": null
   },
   {
     "ID": "3454250",
@@ -39814,7 +42029,8 @@ const PARALELISMO_DATA = [
     "Frente": "135 - PEDRINHO ",
     "Responsável": "NILDA CLAUDINO [2510716]",
     "Paralelismo": "1.4",
-    "Fazenda": "53201"
+    "Fazenda": "53201",
+    "Unnamed: 16": null
   },
   {
     "ID": "3449577",
@@ -39832,7 +42048,8 @@ const PARALELISMO_DATA = [
     "Frente": "135 - PEDRINHO ",
     "Responsável": "NILDA CLAUDINO [2510716]",
     "Paralelismo": "1.4",
-    "Fazenda": "53201"
+    "Fazenda": "53201",
+    "Unnamed: 16": null
   },
   {
     "ID": "3449759",
@@ -39850,7 +42067,8 @@ const PARALELISMO_DATA = [
     "Frente": "105 - FRENTE CASSIO (ZACARIAS)",
     "Responsável": "268680 - GABRIEL HENRIQUE MARTINS PEREIRA ",
     "Paralelismo": "1.4",
-    "Fazenda": "53201"
+    "Fazenda": "53201",
+    "Unnamed: 16": null
   },
   {
     "ID": "3449753",
@@ -39868,7 +42086,8 @@ const PARALELISMO_DATA = [
     "Frente": "105 - FRENTE CASSIO (ZACARIAS)",
     "Responsável": "268680 - GABRIEL HENRIQUE MARTINS PEREIRA ",
     "Paralelismo": "1.4",
-    "Fazenda": "53201"
+    "Fazenda": "53201",
+    "Unnamed: 16": null
   },
   {
     "ID": "3449749",
@@ -39886,7 +42105,8 @@ const PARALELISMO_DATA = [
     "Frente": "105 - FRENTE CASSIO (ZACARIAS)",
     "Responsável": "268680 - GABRIEL HENRIQUE MARTINS PEREIRA ",
     "Paralelismo": "1.4",
-    "Fazenda": "53201"
+    "Fazenda": "53201",
+    "Unnamed: 16": null
   },
   {
     "ID": "3449744",
@@ -39904,7 +42124,8 @@ const PARALELISMO_DATA = [
     "Frente": "105 - FRENTE CASSIO (ZACARIAS)",
     "Responsável": "268680 - GABRIEL HENRIQUE MARTINS PEREIRA ",
     "Paralelismo": "1.4",
-    "Fazenda": "53201"
+    "Fazenda": "53201",
+    "Unnamed: 16": null
   },
   {
     "ID": "3447520",
@@ -39922,7 +42143,8 @@ const PARALELISMO_DATA = [
     "Frente": "135 - PEDRINHO ",
     "Responsável": "NILDA CLAUDINO [2510716]",
     "Paralelismo": "1.4",
-    "Fazenda": "53201"
+    "Fazenda": "53201",
+    "Unnamed: 16": null
   },
   {
     "ID": "3449678",
@@ -39940,7 +42162,8 @@ const PARALELISMO_DATA = [
     "Frente": "135 - FRENTE PEDRINHO",
     "Responsável": "REGINALDO DA SILVA GOMES ",
     "Paralelismo": "1.44",
-    "Fazenda": "53201"
+    "Fazenda": "53201",
+    "Unnamed: 16": null
   },
   {
     "ID": "3447502",
@@ -39958,7 +42181,8 @@ const PARALELISMO_DATA = [
     "Frente": "135 - PEDRINHO ",
     "Responsável": "NILDA CLAUDINO [2510716]",
     "Paralelismo": "1.4",
-    "Fazenda": "53201"
+    "Fazenda": "53201",
+    "Unnamed: 16": null
   },
   {
     "ID": "3449673",
@@ -39976,7 +42200,8 @@ const PARALELISMO_DATA = [
     "Frente": "135 - FRENTE PEDRINHO",
     "Responsável": "REGINALDO DA SILVA GOMES ",
     "Paralelismo": "1.43",
-    "Fazenda": "53201"
+    "Fazenda": "53201",
+    "Unnamed: 16": null
   },
   {
     "ID": "3447498",
@@ -39994,7 +42219,8 @@ const PARALELISMO_DATA = [
     "Frente": "135 - PEDRINHO ",
     "Responsável": "NILDA CLAUDINO [2510716]",
     "Paralelismo": "1.4",
-    "Fazenda": "53201"
+    "Fazenda": "53201",
+    "Unnamed: 16": null
   },
   {
     "ID": "3449668",
@@ -40012,7 +42238,8 @@ const PARALELISMO_DATA = [
     "Frente": "135 - FRENTE PEDRINHO",
     "Responsável": "REGINALDO DA SILVA GOMES ",
     "Paralelismo": "1.36",
-    "Fazenda": "53201"
+    "Fazenda": "53201",
+    "Unnamed: 16": null
   },
   {
     "ID": "3447494",
@@ -40030,7 +42257,8 @@ const PARALELISMO_DATA = [
     "Frente": "135 - PEDRINHO ",
     "Responsável": "NILDA CLAUDINO [2510716]",
     "Paralelismo": "1.4",
-    "Fazenda": "53201"
+    "Fazenda": "53201",
+    "Unnamed: 16": null
   },
   {
     "ID": "3445795",
@@ -40048,7 +42276,8 @@ const PARALELISMO_DATA = [
     "Frente": "135 - PEDRINHO ",
     "Responsável": "NILDA CLAUDINO [2510716]",
     "Paralelismo": "1.4",
-    "Fazenda": "53201"
+    "Fazenda": "53201",
+    "Unnamed: 16": null
   },
   {
     "ID": "3445789",
@@ -40066,7 +42295,8 @@ const PARALELISMO_DATA = [
     "Frente": "135 - PEDRINHO ",
     "Responsável": "NILDA CLAUDINO [2510716]",
     "Paralelismo": "1.4",
-    "Fazenda": "53201"
+    "Fazenda": "53201",
+    "Unnamed: 16": null
   },
   {
     "ID": "3445676",
@@ -40084,7 +42314,8 @@ const PARALELISMO_DATA = [
     "Frente": "142 - FRENTE BIDU",
     "Responsável": "GLEISON FELIPE BORGES DE MATOS",
     "Paralelismo": "1.42",
-    "Fazenda": "53201"
+    "Fazenda": "53201",
+    "Unnamed: 16": null
   },
   {
     "ID": "3445783",
@@ -40102,7 +42333,8 @@ const PARALELISMO_DATA = [
     "Frente": "135 - PEDRINHO ",
     "Responsável": "NILDA CLAUDINO [2510716]",
     "Paralelismo": "1.4",
-    "Fazenda": "53201"
+    "Fazenda": "53201",
+    "Unnamed: 16": null
   },
   {
     "ID": "3445779",
@@ -40120,7 +42352,8 @@ const PARALELISMO_DATA = [
     "Frente": "135 - PEDRINHO ",
     "Responsável": "NILDA CLAUDINO [2510716]",
     "Paralelismo": "1.4",
-    "Fazenda": "53201"
+    "Fazenda": "53201",
+    "Unnamed: 16": null
   },
   {
     "ID": "3445556",
@@ -40138,7 +42371,8 @@ const PARALELISMO_DATA = [
     "Frente": "101 - FRENTE MECANIZADA",
     "Responsável": "FERNANDA DE SOUZA ",
     "Paralelismo": "1.4",
-    "Fazenda": "53201"
+    "Fazenda": "53201",
+    "Unnamed: 16": null
   },
   {
     "ID": "3445555",
@@ -40156,7 +42390,8 @@ const PARALELISMO_DATA = [
     "Frente": "101 - FRENTE MECANIZADA",
     "Responsável": "FERNANDA DE SOUZA ",
     "Paralelismo": "1.4",
-    "Fazenda": "53201"
+    "Fazenda": "53201",
+    "Unnamed: 16": null
   },
   {
     "ID": "3435681",
@@ -40174,7 +42409,8 @@ const PARALELISMO_DATA = [
     "Frente": "135 - FRENTE PEDRINHO",
     "Responsável": "REGINALDO DA SILVA GOMES [249300]",
     "Paralelismo": "1.4",
-    "Fazenda": "53201"
+    "Fazenda": "53201",
+    "Unnamed: 16": null
   },
   {
     "ID": "3435486",
@@ -40192,7 +42428,8 @@ const PARALELISMO_DATA = [
     "Frente": "142 - FRENTE BIDU",
     "Responsável": "GLEISON FELIPE BORGES DE MATOS [266770]",
     "Paralelismo": "1.43",
-    "Fazenda": "53201"
+    "Fazenda": "53201",
+    "Unnamed: 16": null
   },
   {
     "ID": "3435686",
@@ -40210,7 +42447,8 @@ const PARALELISMO_DATA = [
     "Frente": "135 - FRENTE PEDRINHO",
     "Responsável": "REGINALDO DA SILVA GOMES [249300]",
     "Paralelismo": "1.38",
-    "Fazenda": "53201"
+    "Fazenda": "53201",
+    "Unnamed: 16": null
   },
   {
     "ID": "3435519",
@@ -40228,7 +42466,8 @@ const PARALELISMO_DATA = [
     "Frente": "142 - FRENTE BIDU",
     "Responsável": "GLEISON FELIPE BORGES DE MATOS [266770]",
     "Paralelismo": "1.4",
-    "Fazenda": "53201"
+    "Fazenda": "53201",
+    "Unnamed: 16": null
   },
   {
     "ID": "3437722",
@@ -40246,7 +42485,8 @@ const PARALELISMO_DATA = [
     "Frente": "142 - FRENTE BIDU",
     "Responsável": "GLEISON FELIPE BORGES DE MATOS [266770]",
     "Paralelismo": "1.4",
-    "Fazenda": "53201"
+    "Fazenda": "53201",
+    "Unnamed: 16": null
   },
   {
     "ID": "3437727",
@@ -40264,7 +42504,8 @@ const PARALELISMO_DATA = [
     "Frente": "142 - FRENTE BIDU",
     "Responsável": "GLEISON FELIPE BORGES DE MATOS [266770]",
     "Paralelismo": "1.4",
-    "Fazenda": "53201"
+    "Fazenda": "53201",
+    "Unnamed: 16": null
   },
   {
     "ID": "3437732",
@@ -40282,7 +42523,8 @@ const PARALELISMO_DATA = [
     "Frente": "142 - FRENTE BIDU",
     "Responsável": "GLEISON FELIPE BORGES DE MATOS [266770]",
     "Paralelismo": "1.4",
-    "Fazenda": "53201"
+    "Fazenda": "53201",
+    "Unnamed: 16": null
   },
   {
     "ID": "3437739",
@@ -40300,7 +42542,8 @@ const PARALELISMO_DATA = [
     "Frente": "142 - FRENTE BIDU",
     "Responsável": "GLEISON FELIPE BORGES DE MATOS [266770]",
     "Paralelismo": "1.4",
-    "Fazenda": "53201"
+    "Fazenda": "53201",
+    "Unnamed: 16": null
   },
   {
     "ID": "3437744",
@@ -40318,7 +42561,8 @@ const PARALELISMO_DATA = [
     "Frente": "142 - FRENTE BIDU",
     "Responsável": "GLEISON FELIPE BORGES DE MATOS [266770]",
     "Paralelismo": "1.4",
-    "Fazenda": "53201"
+    "Fazenda": "53201",
+    "Unnamed: 16": null
   },
   {
     "ID": "3433767",
@@ -40336,7 +42580,8 @@ const PARALELISMO_DATA = [
     "Frente": "142 - FRENTE BIDU",
     "Responsável": "MICHELI DE SOUZA SANTOS  ",
     "Paralelismo": "1.4",
-    "Fazenda": "53201"
+    "Fazenda": "53201",
+    "Unnamed: 16": null
   },
   {
     "ID": "3433470",
@@ -40354,7 +42599,8 @@ const PARALELISMO_DATA = [
     "Frente": "142 - FRENTE BIDU",
     "Responsável": "MICHELI DE SOUZA SANTOS  ",
     "Paralelismo": "1.4",
-    "Fazenda": "53201"
+    "Fazenda": "53201",
+    "Unnamed: 16": null
   },
   {
     "ID": "3433424",
@@ -40372,7 +42618,8 @@ const PARALELISMO_DATA = [
     "Frente": "142 - FRENTE BIDU",
     "Responsável": "GLEISON FELIPE BORGES DE MATOS [266770]",
     "Paralelismo": "1.41",
-    "Fazenda": "53201"
+    "Fazenda": "53201",
+    "Unnamed: 16": null
   },
   {
     "ID": "3443321",
@@ -40390,7 +42637,8 @@ const PARALELISMO_DATA = [
     "Frente": "142 - FRENTE BIDU",
     "Responsável": "GLEISON FELIPE BORGES DE MATOS [266770]",
     "Paralelismo": "1.42",
-    "Fazenda": "53201"
+    "Fazenda": "53201",
+    "Unnamed: 16": null
   },
   {
     "ID": "3443399",
@@ -40408,7 +42656,8 @@ const PARALELISMO_DATA = [
     "Frente": "135 - PEDRINHO ",
     "Responsável": "NILDA CLAUDINO [2510716]",
     "Paralelismo": "1.4",
-    "Fazenda": "53201"
+    "Fazenda": "53201",
+    "Unnamed: 16": null
   },
   {
     "ID": "3443401",
@@ -40426,7 +42675,8 @@ const PARALELISMO_DATA = [
     "Frente": "135 - PEDRINHO ",
     "Responsável": "NILDA CLAUDINO [2510716]",
     "Paralelismo": "1.4",
-    "Fazenda": "53201"
+    "Fazenda": "53201",
+    "Unnamed: 16": null
   },
   {
     "ID": "3443403",
@@ -40444,7 +42694,8 @@ const PARALELISMO_DATA = [
     "Frente": "135 - PEDRINHO ",
     "Responsável": "NILDA CLAUDINO [2510716]",
     "Paralelismo": "1.4",
-    "Fazenda": "53201"
+    "Fazenda": "53201",
+    "Unnamed: 16": null
   },
   {
     "ID": "3443455",
@@ -40462,7 +42713,8 @@ const PARALELISMO_DATA = [
     "Frente": "101 - FRENTE MECANIZADA",
     "Responsável": "FERNANDA DE SOUZA [127577]",
     "Paralelismo": "1.4",
-    "Fazenda": "53201"
+    "Fazenda": "53201",
+    "Unnamed: 16": null
   },
   {
     "ID": "3443405",
@@ -40480,7 +42732,8 @@ const PARALELISMO_DATA = [
     "Frente": "135 - PEDRINHO ",
     "Responsável": "NILDA CLAUDINO [2510716]",
     "Paralelismo": "1.4",
-    "Fazenda": "53201"
+    "Fazenda": "53201",
+    "Unnamed: 16": null
   },
   {
     "ID": "3443465",
@@ -40498,7 +42751,8 @@ const PARALELISMO_DATA = [
     "Frente": "101 - FRENTE MECANIZADA",
     "Responsável": "FERNANDA DE SOUZA [127577]",
     "Paralelismo": "1.4",
-    "Fazenda": "53201"
+    "Fazenda": "53201",
+    "Unnamed: 16": null
   },
   {
     "ID": "3443442",
@@ -40516,7 +42770,8 @@ const PARALELISMO_DATA = [
     "Frente": "101 - FRENTE MECANIZADA",
     "Responsável": "REGINALDO DA SILVA GOMES [249300]",
     "Paralelismo": "1.4",
-    "Fazenda": "53201"
+    "Fazenda": "53201",
+    "Unnamed: 16": null
   },
   {
     "ID": "3443857",
@@ -40534,7 +42789,8 @@ const PARALELISMO_DATA = [
     "Frente": "101 - FRENTE MECANIZADA",
     "Responsável": "FERNANDA DE SOUZA ",
     "Paralelismo": "1.41",
-    "Fazenda": "53201"
+    "Fazenda": "53201",
+    "Unnamed: 16": null
   },
   {
     "ID": "3435675",
@@ -40552,7 +42808,8 @@ const PARALELISMO_DATA = [
     "Frente": "135 - FRENTE PEDRINHO",
     "Responsável": "REGINALDO DA SILVA GOMES [249300]",
     "Paralelismo": "1.37",
-    "Fazenda": "53201"
+    "Fazenda": "53201",
+    "Unnamed: 16": null
   },
   {
     "ID": "3435475",
@@ -40570,7 +42827,8 @@ const PARALELISMO_DATA = [
     "Frente": "142 - FRENTE BIDU",
     "Responsável": "GLEISON FELIPE BORGES DE MATOS [266770]",
     "Paralelismo": "1.4",
-    "Fazenda": "53201"
+    "Fazenda": "53201",
+    "Unnamed: 16": null
   },
   {
     "ID": "3435464",
@@ -40588,7 +42846,8 @@ const PARALELISMO_DATA = [
     "Frente": "135 - FRENTE PEDRINHO",
     "Responsável": "NILDA CLAUDINO [2510716]",
     "Paralelismo": "1.4",
-    "Fazenda": "53201"
+    "Fazenda": "53201",
+    "Unnamed: 16": null
   },
   {
     "ID": "3435478",
@@ -40606,7 +42865,8 @@ const PARALELISMO_DATA = [
     "Frente": "101 - FRENTE MECANIZADA",
     "Responsável": "FERNANDA DE SOUZA [127577]",
     "Paralelismo": "1.4",
-    "Fazenda": "53201"
+    "Fazenda": "53201",
+    "Unnamed: 16": null
   },
   {
     "ID": "3435772",
@@ -40624,7 +42884,8 @@ const PARALELISMO_DATA = [
     "Frente": "105 - FRENTE CASSIO",
     "Responsável": "268680 - GABRIEL HENRIQUE MARTINS PEREIRA ",
     "Paralelismo": "1.4",
-    "Fazenda": "53201"
+    "Fazenda": "53201",
+    "Unnamed: 16": null
   },
   {
     "ID": "3435767",
@@ -40642,7 +42903,8 @@ const PARALELISMO_DATA = [
     "Frente": "105 - FRENTE CASSIO",
     "Responsável": "268680 - GABRIEL HENRIQUE MARTINS PEREIRA ",
     "Paralelismo": "1.4",
-    "Fazenda": "53201"
+    "Fazenda": "53201",
+    "Unnamed: 16": null
   },
   {
     "ID": "3435762",
@@ -40660,7 +42922,8 @@ const PARALELISMO_DATA = [
     "Frente": "105 - FRENTE CASSIO",
     "Responsável": "268680 - GABRIEL HENRIQUE MARTINS PEREIRA ",
     "Paralelismo": "1.4",
-    "Fazenda": "53201"
+    "Fazenda": "53201",
+    "Unnamed: 16": null
   },
   {
     "ID": "3435757",
@@ -40678,7 +42941,8 @@ const PARALELISMO_DATA = [
     "Frente": "105 - FRENTE CASSIO",
     "Responsável": "268680 - GABRIEL HENRIQUE MARTINS PEREIRA ",
     "Paralelismo": "1.4",
-    "Fazenda": "53201"
+    "Fazenda": "53201",
+    "Unnamed: 16": null
   },
   {
     "ID": "3435710",
@@ -40696,7 +42960,8 @@ const PARALELISMO_DATA = [
     "Frente": "105 - FRENTE CASSIO",
     "Responsável": "268680 - GABRIEL HENRIQUE MARTINS PEREIRA ",
     "Paralelismo": "1.4",
-    "Fazenda": "53201"
+    "Fazenda": "53201",
+    "Unnamed: 16": null
   },
   {
     "ID": "3435395",
@@ -40714,7 +42979,8 @@ const PARALELISMO_DATA = [
     "Frente": "291 - FRENTE PRÓPRIA ",
     "Responsável": "278400 - Vitor Amorim Ramos ",
     "Paralelismo": "1.4",
-    "Fazenda": "53201"
+    "Fazenda": "53201",
+    "Unnamed: 16": null
   },
   {
     "ID": "3435290",
@@ -40732,7 +42998,8 @@ const PARALELISMO_DATA = [
     "Frente": "101 - FRENTE MECANIZADA",
     "Responsável": "FERNANDA DE SOUZA [127577]",
     "Paralelismo": "1.4",
-    "Fazenda": "53201"
+    "Fazenda": "53201",
+    "Unnamed: 16": null
   },
   {
     "ID": "3435446",
@@ -40750,7 +43017,8 @@ const PARALELISMO_DATA = [
     "Frente": "135 - FRENTE PEDRINHO",
     "Responsável": "NILDA CLAUDINO [2510716]",
     "Paralelismo": "1.4",
-    "Fazenda": "53201"
+    "Fazenda": "53201",
+    "Unnamed: 16": null
   },
   {
     "ID": "3435442",
@@ -40768,7 +43036,8 @@ const PARALELISMO_DATA = [
     "Frente": "135 - FRENTE PEDRINHO",
     "Responsável": "NILDA CLAUDINO [2510716]",
     "Paralelismo": "1.4",
-    "Fazenda": "53201"
+    "Fazenda": "53201",
+    "Unnamed: 16": null
   },
   {
     "ID": "3435389",
@@ -40786,7 +43055,8 @@ const PARALELISMO_DATA = [
     "Frente": "291 - FRENTE PRÓPRIA ",
     "Responsável": "278400 - Vitor Amorim Ramos ",
     "Paralelismo": "1.4",
-    "Fazenda": "53201"
+    "Fazenda": "53201",
+    "Unnamed: 16": null
   },
   {
     "ID": "3435438",
@@ -40804,7 +43074,8 @@ const PARALELISMO_DATA = [
     "Frente": "135 - PEDRINHO ",
     "Responsável": "NILDA CLAUDINO [2510716]",
     "Paralelismo": "1.4",
-    "Fazenda": "53201"
+    "Fazenda": "53201",
+    "Unnamed: 16": null
   },
   {
     "ID": "3435279",
@@ -40822,7 +43093,8 @@ const PARALELISMO_DATA = [
     "Frente": "101 - FRENTE MECANIZADA",
     "Responsável": "FERNANDA DE SOUZA [127577]",
     "Paralelismo": "1.4",
-    "Fazenda": "53201"
+    "Fazenda": "53201",
+    "Unnamed: 16": null
   },
   {
     "ID": "3435384",
@@ -40840,7 +43112,8 @@ const PARALELISMO_DATA = [
     "Frente": "291 - FRENTE PRÓPRIA ",
     "Responsável": "278400 - Vitor Amorim Ramos ",
     "Paralelismo": "1.4",
-    "Fazenda": "53201"
+    "Fazenda": "53201",
+    "Unnamed: 16": null
   },
   {
     "ID": "3435379",
@@ -40858,7 +43131,8 @@ const PARALELISMO_DATA = [
     "Frente": "291 - FRENTE PRÓPRIA ",
     "Responsável": "278400 - Vitor Amorim Ramos ",
     "Paralelismo": "1.4",
-    "Fazenda": "53201"
+    "Fazenda": "53201",
+    "Unnamed: 16": null
   },
   {
     "ID": "3435375",
@@ -40876,7 +43150,8 @@ const PARALELISMO_DATA = [
     "Frente": "291 - FRENTE PRÓPRIA ",
     "Responsável": "278400 - Vitor Amorim Ramos ",
     "Paralelismo": "1.4",
-    "Fazenda": "53201"
+    "Fazenda": "53201",
+    "Unnamed: 16": null
   },
   {
     "ID": "3435370",
@@ -40894,7 +43169,8 @@ const PARALELISMO_DATA = [
     "Frente": "291 - FRENTE PRÓPRIA ",
     "Responsável": "278400 - Vitor Amorim Ramos ",
     "Paralelismo": "1.4",
-    "Fazenda": "53201"
+    "Fazenda": "53201",
+    "Unnamed: 16": null
   },
   {
     "ID": "3435357",
@@ -40912,7 +43188,8 @@ const PARALELISMO_DATA = [
     "Frente": "291 - FRENTE PRÓPRIA ",
     "Responsável": "278400 - Vitor Amorim Ramos ",
     "Paralelismo": "1.4",
-    "Fazenda": "53201"
+    "Fazenda": "53201",
+    "Unnamed: 16": null
   },
   {
     "ID": "3435352",
@@ -40930,7 +43207,8 @@ const PARALELISMO_DATA = [
     "Frente": "291 - FRENTE PRÓPRIA ",
     "Responsável": "278400 - Vitor Amorim Ramos ",
     "Paralelismo": "1.4",
-    "Fazenda": "53201"
+    "Fazenda": "53201",
+    "Unnamed: 16": null
   },
   {
     "ID": "3435347",
@@ -40948,7 +43226,8 @@ const PARALELISMO_DATA = [
     "Frente": "291 - FRENTE PRÓPRIA ",
     "Responsável": "278400 - Vitor Amorim Ramos ",
     "Paralelismo": "1.4",
-    "Fazenda": "53201"
+    "Fazenda": "53201",
+    "Unnamed: 16": null
   },
   {
     "ID": "3433585",
@@ -40966,7 +43245,8 @@ const PARALELISMO_DATA = [
     "Frente": "135 - FRENTE PEDRINHO",
     "Responsável": "NILDA CLAUDINO [2510716]",
     "Paralelismo": "1.4",
-    "Fazenda": "53201"
+    "Fazenda": "53201",
+    "Unnamed: 16": null
   },
   {
     "ID": "3433581",
@@ -40984,7 +43264,8 @@ const PARALELISMO_DATA = [
     "Frente": "135 - FRENTE PEDRINHO",
     "Responsável": "NILDA CLAUDINO [2510716]",
     "Paralelismo": "1.4",
-    "Fazenda": "53201"
+    "Fazenda": "53201",
+    "Unnamed: 16": null
   },
   {
     "ID": "3433654",
@@ -41002,7 +43283,8 @@ const PARALELISMO_DATA = [
     "Frente": "105 - FRENTE CASSIO (ZACARIAS)",
     "Responsável": "268680 - GABRIEL HENRIQUE MARTINS PEREIRA ",
     "Paralelismo": "1.4",
-    "Fazenda": "53201"
+    "Fazenda": "53201",
+    "Unnamed: 16": null
   },
   {
     "ID": "3433710",
@@ -41020,7 +43302,8 @@ const PARALELISMO_DATA = [
     "Frente": "101 - FRENTE MECANIZADA",
     "Responsável": "FERNANDA DE SOUZA [127577]",
     "Paralelismo": "1.4",
-    "Fazenda": "53201"
+    "Fazenda": "53201",
+    "Unnamed: 16": null
   },
   {
     "ID": "3433753",
@@ -41038,7 +43321,8 @@ const PARALELISMO_DATA = [
     "Frente": "101 - FRENTE MECANIZADA",
     "Responsável": "REGINALDO DA SILVA GOMES [249300]",
     "Paralelismo": "1.4",
-    "Fazenda": "53201"
+    "Fazenda": "53201",
+    "Unnamed: 16": null
   },
   {
     "ID": "3433649",
@@ -41056,7 +43340,8 @@ const PARALELISMO_DATA = [
     "Frente": "105 - FRENTE CASSIO (ZACARIAS)",
     "Responsável": "268680 - GABRIEL HENRIQUE MARTINS PEREIRA ",
     "Paralelismo": "1.4",
-    "Fazenda": "53201"
+    "Fazenda": "53201",
+    "Unnamed: 16": null
   },
   {
     "ID": "3433631",
@@ -41074,7 +43359,8 @@ const PARALELISMO_DATA = [
     "Frente": "105 - FRENTE CASSIO (ZACARIAS)",
     "Responsável": "268680 - GABRIEL HENRIQUE MARTINS PEREIRA ",
     "Paralelismo": "1.4",
-    "Fazenda": "53201"
+    "Fazenda": "53201",
+    "Unnamed: 16": null
   },
   {
     "ID": "3433705",
@@ -41092,7 +43378,8 @@ const PARALELISMO_DATA = [
     "Frente": "101 - FRENTE MECANIZADA",
     "Responsável": "FERNANDA DE SOUZA [127577]",
     "Paralelismo": "1.4",
-    "Fazenda": "53201"
+    "Fazenda": "53201",
+    "Unnamed: 16": null
   },
   {
     "ID": "3433299",
@@ -41110,7 +43397,8 @@ const PARALELISMO_DATA = [
     "Frente": "135 - FRENTE PEDRINHO",
     "Responsável": "EDILIANA CARDOSO DA COSTA [172390]",
     "Paralelismo": "1.4",
-    "Fazenda": "53201"
+    "Fazenda": "53201",
+    "Unnamed: 16": null
   },
   {
     "ID": "3433748",
@@ -41128,7 +43416,8 @@ const PARALELISMO_DATA = [
     "Frente": "105 - FRENTE CASSIO (ZACARIAS)",
     "Responsável": "REGINALDO DA SILVA GOMES [249300]",
     "Paralelismo": "1.44",
-    "Fazenda": "53201"
+    "Fazenda": "53201",
+    "Unnamed: 16": null
   },
   {
     "ID": "3433565",
@@ -41146,7 +43435,8 @@ const PARALELISMO_DATA = [
     "Frente": "135 - FRENTE PEDRINHO",
     "Responsável": "NILDA CLAUDINO [2510716]",
     "Paralelismo": "1.4",
-    "Fazenda": "53201"
+    "Fazenda": "53201",
+    "Unnamed: 16": null
   },
   {
     "ID": "3433298",
@@ -41164,7 +43454,8 @@ const PARALELISMO_DATA = [
     "Frente": "135 - FRENTE PEDRINHO",
     "Responsável": "EDILIANA CARDOSO DA COSTA [172390]",
     "Paralelismo": "1.4",
-    "Fazenda": "53201"
+    "Fazenda": "53201",
+    "Unnamed: 16": null
   },
   {
     "ID": "3433379",
@@ -41182,7 +43473,8 @@ const PARALELISMO_DATA = [
     "Frente": "261 - FRENTE PRÓPRIA  (EDMILSON)",
     "Responsável": "278400 - Vitor Amorim Ramos ",
     "Paralelismo": "1.4",
-    "Fazenda": "53201"
+    "Fazenda": "53201",
+    "Unnamed: 16": null
   },
   {
     "ID": "3433297",
@@ -41200,7 +43492,8 @@ const PARALELISMO_DATA = [
     "Frente": "135 - FRENTE PEDRINHO",
     "Responsável": "EDILIANA CARDOSO DA COSTA [172390]",
     "Paralelismo": "1.4",
-    "Fazenda": "53201"
+    "Fazenda": "53201",
+    "Unnamed: 16": null
   },
   {
     "ID": "3433744",
@@ -41218,7 +43511,8 @@ const PARALELISMO_DATA = [
     "Frente": "105 - FRENTE CASSIO (ZACARIAS)",
     "Responsável": "REGINALDO DA SILVA GOMES [249300]",
     "Paralelismo": "1.38",
-    "Fazenda": "53201"
+    "Fazenda": "53201",
+    "Unnamed: 16": null
   },
   {
     "ID": "3433375",
@@ -41236,7 +43530,8 @@ const PARALELISMO_DATA = [
     "Frente": "261 - FRENTE PRÓPRIA  (EDMILSON)",
     "Responsável": "278400 - Vitor Amorim Ramos ",
     "Paralelismo": "1.4",
-    "Fazenda": "53201"
+    "Fazenda": "53201",
+    "Unnamed: 16": null
   },
   {
     "ID": "3433561",
@@ -41254,7 +43549,8 @@ const PARALELISMO_DATA = [
     "Frente": "135 - FRENTE PEDRINHO",
     "Responsável": "NILDA CLAUDINO [2510716]",
     "Paralelismo": "1.4",
-    "Fazenda": "53201"
+    "Fazenda": "53201",
+    "Unnamed: 16": null
   },
   {
     "ID": "3433417",
@@ -41272,7 +43568,8 @@ const PARALELISMO_DATA = [
     "Frente": "141- BIDU ",
     "Responsável": "GLEISON FELIPE BORGES DE MATOS [266770]",
     "Paralelismo": "1.43",
-    "Fazenda": "53201"
+    "Fazenda": "53201",
+    "Unnamed: 16": null
   },
   {
     "ID": "3433739",
@@ -41290,7 +43587,8 @@ const PARALELISMO_DATA = [
     "Frente": "105 - FRENTE CASSIO (ZACARIAS)",
     "Responsável": "REGINALDO DA SILVA GOMES [249300]",
     "Paralelismo": "1.36",
-    "Fazenda": "53201"
+    "Fazenda": "53201",
+    "Unnamed: 16": null
   },
   {
     "ID": "3433622",
@@ -41308,7 +43606,8 @@ const PARALELISMO_DATA = [
     "Frente": "105 - FRENTE CASSIO (ZACARIAS)",
     "Responsável": "268680 - GABRIEL HENRIQUE MARTINS PEREIRA ",
     "Paralelismo": "1.4",
-    "Fazenda": "53201"
+    "Fazenda": "53201",
+    "Unnamed: 16": null
   },
   {
     "ID": "3433413",
@@ -41326,7 +43625,8 @@ const PARALELISMO_DATA = [
     "Frente": "141- BIDU ",
     "Responsável": "GLEISON FELIPE BORGES DE MATOS [266770]",
     "Paralelismo": "1.4",
-    "Fazenda": "53201"
+    "Fazenda": "53201",
+    "Unnamed: 16": null
   },
   {
     "ID": "3433557",
@@ -41344,7 +43644,8 @@ const PARALELISMO_DATA = [
     "Frente": "135 - PEDRINHO ",
     "Responsável": "NILDA CLAUDINO [2510716]",
     "Paralelismo": "1.4",
-    "Fazenda": "53201"
+    "Fazenda": "53201",
+    "Unnamed: 16": null
   },
   {
     "ID": "3433364",
@@ -41362,7 +43663,8 @@ const PARALELISMO_DATA = [
     "Frente": "261 - FRENTE PRÓPRIA  (EDMILSON)",
     "Responsável": "278400 - Vitor Amorim Ramos ",
     "Paralelismo": "1.4",
-    "Fazenda": "53201"
+    "Fazenda": "53201",
+    "Unnamed: 16": null
   },
   {
     "ID": "3433408",
@@ -41380,7 +43682,8 @@ const PARALELISMO_DATA = [
     "Frente": "141- BIDU ",
     "Responsável": "GLEISON FELIPE BORGES DE MATOS [266770]",
     "Paralelismo": "1.43",
-    "Fazenda": "53201"
+    "Fazenda": "53201",
+    "Unnamed: 16": null
   },
   {
     "ID": "3433360",
@@ -41398,7 +43701,8 @@ const PARALELISMO_DATA = [
     "Frente": "261 - FRENTE PRÓPRIA  (EDMILSON)",
     "Responsável": "278400 - Vitor Amorim Ramos ",
     "Paralelismo": "1.4",
-    "Fazenda": "53201"
+    "Fazenda": "53201",
+    "Unnamed: 16": null
   },
   {
     "ID": "3433617",
@@ -41416,7 +43720,8 @@ const PARALELISMO_DATA = [
     "Frente": "105 - FRENTE CASSIO (ZACARIAS)",
     "Responsável": "268680 - GABRIEL HENRIQUE MARTINS PEREIRA ",
     "Paralelismo": "1.4",
-    "Fazenda": "53201"
+    "Fazenda": "53201",
+    "Unnamed: 16": null
   },
   {
     "ID": "3433701",
@@ -41434,7 +43739,8 @@ const PARALELISMO_DATA = [
     "Frente": "101 - FRENTE MECANIZADA",
     "Responsável": "FERNANDA DE SOUZA [127577]",
     "Paralelismo": "1.4",
-    "Fazenda": "53201"
+    "Fazenda": "53201",
+    "Unnamed: 16": null
   },
   {
     "ID": "3433355",
@@ -41452,7 +43758,8 @@ const PARALELISMO_DATA = [
     "Frente": "261 - FRENTE PRÓPRIA  (EDMILSON)",
     "Responsável": "278400 - Vitor Amorim Ramos ",
     "Paralelismo": "1.4",
-    "Fazenda": "53201"
+    "Fazenda": "53201",
+    "Unnamed: 16": null
   },
   {
     "ID": "3433612",
@@ -41470,7 +43777,8 @@ const PARALELISMO_DATA = [
     "Frente": "105 - FRENTE CASSIO (ZACARIAS)",
     "Responsável": "268680 - GABRIEL HENRIQUE MARTINS PEREIRA ",
     "Paralelismo": "1.4",
-    "Fazenda": "53201"
+    "Fazenda": "53201",
+    "Unnamed: 16": null
   },
   {
     "ID": "3433339",
@@ -41488,7 +43796,8 @@ const PARALELISMO_DATA = [
     "Frente": "261 - FRENTE PRÓPRIA  (EDMILSON)",
     "Responsável": "278400 - Vitor Amorim Ramos ",
     "Paralelismo": "1.4",
-    "Fazenda": "53201"
+    "Fazenda": "53201",
+    "Unnamed: 16": null
   },
   {
     "ID": "3433607",
@@ -41506,7 +43815,8 @@ const PARALELISMO_DATA = [
     "Frente": "105 - FRENTE CASSIO (ZACARIAS)",
     "Responsável": "268680 - GABRIEL HENRIQUE MARTINS PEREIRA ",
     "Paralelismo": "1.4",
-    "Fazenda": "53201"
+    "Fazenda": "53201",
+    "Unnamed: 16": null
   },
   {
     "ID": "3433333",
@@ -41524,7 +43834,8 @@ const PARALELISMO_DATA = [
     "Frente": "261 - FRENTE PRÓPRIA  (EDMILSON)",
     "Responsável": "278400 - Vitor Amorim Ramos ",
     "Paralelismo": "1.4",
-    "Fazenda": "53201"
+    "Fazenda": "53201",
+    "Unnamed: 16": null
   },
   {
     "ID": "3433602",
@@ -41542,7 +43853,8 @@ const PARALELISMO_DATA = [
     "Frente": "105 - FRENTE CASSIO (ZACARIAS)",
     "Responsável": "268680 - GABRIEL HENRIQUE MARTINS PEREIRA ",
     "Paralelismo": "1.4",
-    "Fazenda": "53201"
+    "Fazenda": "53201",
+    "Unnamed: 16": null
   },
   {
     "ID": "3433328",
@@ -41560,7 +43872,8 @@ const PARALELISMO_DATA = [
     "Frente": "261 - FRENTE PRÓPRIA  (EDMILSON)",
     "Responsável": "278400 - Vitor Amorim Ramos ",
     "Paralelismo": "1.4",
-    "Fazenda": "53201"
+    "Fazenda": "53201",
+    "Unnamed: 16": null
   },
   {
     "ID": "3433596",
@@ -41578,7 +43891,8 @@ const PARALELISMO_DATA = [
     "Frente": "105 - FRENTE CASSIO (ZACARIAS)",
     "Responsável": "268680 - GABRIEL HENRIQUE MARTINS PEREIRA ",
     "Paralelismo": "1.4",
-    "Fazenda": "53201"
+    "Fazenda": "53201",
+    "Unnamed: 16": null
   },
   {
     "ID": "3431415",
@@ -41596,7 +43910,8 @@ const PARALELISMO_DATA = [
     "Frente": "105 - FRENTE CASSIO (ZACARIAS)",
     "Responsável": "268680 - GABRIEL HENRIQUE MARTINS PEREIRA ",
     "Paralelismo": "1.4",
-    "Fazenda": "53201"
+    "Fazenda": "53201",
+    "Unnamed: 16": null
   },
   {
     "ID": "3431414",
@@ -41614,7 +43929,8 @@ const PARALELISMO_DATA = [
     "Frente": "105 - FRENTE CASSIO (ZACARIAS)",
     "Responsável": "268680 - GABRIEL HENRIQUE MARTINS PEREIRA ",
     "Paralelismo": "1.4",
-    "Fazenda": "53201"
+    "Fazenda": "53201",
+    "Unnamed: 16": null
   },
   {
     "ID": "3431533",
@@ -41632,7 +43948,8 @@ const PARALELISMO_DATA = [
     "Frente": "261 - FRENTE PRÓPRIA  (EDMILSON)",
     "Responsável": "278400 - Vitor Amorim Ramos ",
     "Paralelismo": "1.4",
-    "Fazenda": "133803"
+    "Fazenda": "133803",
+    "Unnamed: 16": null
   },
   {
     "ID": "3431605",
@@ -41650,7 +43967,8 @@ const PARALELISMO_DATA = [
     "Frente": "141- BIDU ",
     "Responsável": "GLEISON FELIPE BORGES DE MATOS [266770]",
     "Paralelismo": "1.42",
-    "Fazenda": "53201"
+    "Fazenda": "53201",
+    "Unnamed: 16": null
   },
   {
     "ID": "3431528",
@@ -41668,7 +43986,8 @@ const PARALELISMO_DATA = [
     "Frente": "261 - FRENTE PRÓPRIA  (EDMILSON)",
     "Responsável": "278400 - Vitor Amorim Ramos ",
     "Paralelismo": "1.4",
-    "Fazenda": "133803"
+    "Fazenda": "133803",
+    "Unnamed: 16": null
   },
   {
     "ID": "3431601",
@@ -41686,7 +44005,8 @@ const PARALELISMO_DATA = [
     "Frente": "141- BIDU ",
     "Responsável": "GLEISON FELIPE BORGES DE MATOS [266770]",
     "Paralelismo": "1.4",
-    "Fazenda": "53201"
+    "Fazenda": "53201",
+    "Unnamed: 16": null
   },
   {
     "ID": "3431513",
@@ -41704,7 +44024,8 @@ const PARALELISMO_DATA = [
     "Frente": "261 - FRENTE PRÓPRIA  (EDMILSON)",
     "Responsável": "278400 - Vitor Amorim Ramos ",
     "Paralelismo": "1.4",
-    "Fazenda": "133803"
+    "Fazenda": "133803",
+    "Unnamed: 16": null
   },
   {
     "ID": "3431595",
@@ -41722,7 +44043,8 @@ const PARALELISMO_DATA = [
     "Frente": "122 - Frente  Bidu",
     "Responsável": "MICHELI DE SOUZA SANTOS  ",
     "Paralelismo": "1.41",
-    "Fazenda": "53201"
+    "Fazenda": "53201",
+    "Unnamed: 16": null
   },
   {
     "ID": "3431508",
@@ -41740,7 +44062,8 @@ const PARALELISMO_DATA = [
     "Frente": "261 - FRENTE PRÓPRIA  (EDMILSON)",
     "Responsável": "278400 - Vitor Amorim Ramos ",
     "Paralelismo": "1.4",
-    "Fazenda": "133803"
+    "Fazenda": "133803",
+    "Unnamed: 16": null
   },
   {
     "ID": "3431591",
@@ -41758,7 +44081,8 @@ const PARALELISMO_DATA = [
     "Frente": "122 - Frente  Bidu",
     "Responsável": "MICHELI DE SOUZA SANTOS  ",
     "Paralelismo": "1.39",
-    "Fazenda": "53201"
+    "Fazenda": "53201",
+    "Unnamed: 16": null
   },
   {
     "ID": "3431169",
@@ -41776,7 +44100,8 @@ const PARALELISMO_DATA = [
     "Frente": "142- Bidu",
     "Responsável": "REGINALDO DA SILVA GOMES [249300]",
     "Paralelismo": "1.41",
-    "Fazenda": "53201"
+    "Fazenda": "53201",
+    "Unnamed: 16": null
   },
   {
     "ID": "3431174",
@@ -41794,7 +44119,8 @@ const PARALELISMO_DATA = [
     "Frente": "142- Bidu",
     "Responsável": "REGINALDO DA SILVA GOMES [249300]",
     "Paralelismo": "1.4",
-    "Fazenda": "53201"
+    "Fazenda": "53201",
+    "Unnamed: 16": null
   },
   {
     "ID": "3431179",
@@ -41812,7 +44138,8 @@ const PARALELISMO_DATA = [
     "Frente": "142- Bidu",
     "Responsável": "REGINALDO DA SILVA GOMES [249300]",
     "Paralelismo": "1.37",
-    "Fazenda": "53201"
+    "Fazenda": "53201",
+    "Unnamed: 16": null
   },
   {
     "ID": "3428845",
@@ -41830,7 +44157,8 @@ const PARALELISMO_DATA = [
     "Frente": "291 - FRENTE PRÓPRIA ",
     "Responsável": "REGINALDO DA SILVA GOMES [249300]",
     "Paralelismo": "1.4",
-    "Fazenda": "53201"
+    "Fazenda": "53201",
+    "Unnamed: 16": null
   },
   {
     "ID": "3428826",
@@ -41848,7 +44176,8 @@ const PARALELISMO_DATA = [
     "Frente": "122 - Frente  Bidu",
     "Responsável": "MICHELI DE SOUZA SANTOS  ",
     "Paralelismo": "1.42",
-    "Fazenda": "53201"
+    "Fazenda": "53201",
+    "Unnamed: 16": null
   },
   {
     "ID": "3428840",
@@ -41866,7 +44195,8 @@ const PARALELISMO_DATA = [
     "Frente": "291 - FRENTE PRÓPRIA ",
     "Responsável": "REGINALDO DA SILVA GOMES [249300]",
     "Paralelismo": "1.38",
-    "Fazenda": "53201"
+    "Fazenda": "53201",
+    "Unnamed: 16": null
   },
   {
     "ID": "3428835",
@@ -41884,7 +44214,8 @@ const PARALELISMO_DATA = [
     "Frente": "291 - FRENTE PRÓPRIA ",
     "Responsável": "REGINALDO DA SILVA GOMES [249300]",
     "Paralelismo": "1.36",
-    "Fazenda": "53201"
+    "Fazenda": "53201",
+    "Unnamed: 16": null
   },
   {
     "ID": "3428821",
@@ -41902,7 +44233,8 @@ const PARALELISMO_DATA = [
     "Frente": "122 - Frente  Bidu",
     "Responsável": "MICHELI DE SOUZA SANTOS  ",
     "Paralelismo": "1.4",
-    "Fazenda": "53201"
+    "Fazenda": "53201",
+    "Unnamed: 16": null
   },
   {
     "ID": "3428696",
@@ -41920,7 +44252,8 @@ const PARALELISMO_DATA = [
     "Frente": "291 - FRENTE PRÓPRIA ",
     "Responsável": "268680 - GABRIEL HENRIQUE MARTINS PEREIRA ",
     "Paralelismo": "1.4",
-    "Fazenda": "53201"
+    "Fazenda": "53201",
+    "Unnamed: 16": null
   },
   {
     "ID": "3428280",
@@ -41938,7 +44271,8 @@ const PARALELISMO_DATA = [
     "Frente": "122 - Frente  Bidu",
     "Responsável": "MICHELI DE SOUZA SANTOS  ",
     "Paralelismo": "1.43",
-    "Fazenda": "53201"
+    "Fazenda": "53201",
+    "Unnamed: 16": null
   },
   {
     "ID": "3428275",
@@ -41956,7 +44290,8 @@ const PARALELISMO_DATA = [
     "Frente": "122 - Frente  Bidu",
     "Responsável": "MICHELI DE SOUZA SANTOS  ",
     "Paralelismo": "1.39",
-    "Fazenda": "53201"
+    "Fazenda": "53201",
+    "Unnamed: 16": null
   },
   {
     "ID": "3428691",
@@ -41974,7 +44309,8 @@ const PARALELISMO_DATA = [
     "Frente": "291 - FRENTE PRÓPRIA ",
     "Responsável": "268680 - GABRIEL HENRIQUE MARTINS PEREIRA ",
     "Paralelismo": "1.4",
-    "Fazenda": "53201"
+    "Fazenda": "53201",
+    "Unnamed: 16": null
   },
   {
     "ID": "3428304",
@@ -41992,7 +44328,8 @@ const PARALELISMO_DATA = [
     "Frente": "122 - Frente  Bidu",
     "Responsável": "REGINALDO DA SILVA GOMES [249300]",
     "Paralelismo": "1.38",
-    "Fazenda": "53201"
+    "Fazenda": "53201",
+    "Unnamed: 16": null
   },
   {
     "ID": "3428401",
@@ -42010,7 +44347,8 @@ const PARALELISMO_DATA = [
     "Frente": "261 - FRENTE PRÓPRIA  (EDMILSON)",
     "Responsável": "278400 - Vitor Amorim Ramos ",
     "Paralelismo": "1.4",
-    "Fazenda": "53201"
+    "Fazenda": "53201",
+    "Unnamed: 16": null
   },
   {
     "ID": "3428269",
@@ -42028,7 +44366,8 @@ const PARALELISMO_DATA = [
     "Frente": "122 - Frente  Bidu",
     "Responsável": "MICHELI DE SOUZA SANTOS  ",
     "Paralelismo": "1.41",
-    "Fazenda": "53201"
+    "Fazenda": "53201",
+    "Unnamed: 16": null
   },
   {
     "ID": "3428299",
@@ -42046,7 +44385,8 @@ const PARALELISMO_DATA = [
     "Frente": "122 - Frente  Bidu",
     "Responsável": "REGINALDO DA SILVA GOMES [249300]",
     "Paralelismo": "1.43",
-    "Fazenda": "53201"
+    "Fazenda": "53201",
+    "Unnamed: 16": null
   },
   {
     "ID": "3428384",
@@ -42064,7 +44404,8 @@ const PARALELISMO_DATA = [
     "Frente": "261 - FRENTE PRÓPRIA  (EDMILSON)",
     "Responsável": "278400 - Vitor Amorim Ramos ",
     "Paralelismo": "1.4",
-    "Fazenda": "53201"
+    "Fazenda": "53201",
+    "Unnamed: 16": null
   },
   {
     "ID": "3428684",
@@ -42082,7 +44423,8 @@ const PARALELISMO_DATA = [
     "Frente": "291 - FRENTE PRÓPRIA ",
     "Responsável": "268680 - GABRIEL HENRIQUE MARTINS PEREIRA ",
     "Paralelismo": "1.4",
-    "Fazenda": "53201"
+    "Fazenda": "53201",
+    "Unnamed: 16": null
   },
   {
     "ID": "3428264",
@@ -42100,7 +44442,8 @@ const PARALELISMO_DATA = [
     "Frente": "122 - Frente  Bidu",
     "Responsável": "MICHELI DE SOUZA SANTOS  ",
     "Paralelismo": "1.41",
-    "Fazenda": "53201"
+    "Fazenda": "53201",
+    "Unnamed: 16": null
   },
   {
     "ID": "3428294",
@@ -42118,7 +44461,8 @@ const PARALELISMO_DATA = [
     "Frente": "122 - Frente  Bidu",
     "Responsável": "REGINALDO DA SILVA GOMES [249300]",
     "Paralelismo": "1.39",
-    "Fazenda": "53201"
+    "Fazenda": "53201",
+    "Unnamed: 16": null
   },
   {
     "ID": "3428259",
@@ -42136,7 +44480,8 @@ const PARALELISMO_DATA = [
     "Frente": "122 - Frente  Bidu",
     "Responsável": "MICHELI DE SOUZA SANTOS  ",
     "Paralelismo": "1.4",
-    "Fazenda": "53201"
+    "Fazenda": "53201",
+    "Unnamed: 16": null
   },
   {
     "ID": "3428373",
@@ -42154,7 +44499,8 @@ const PARALELISMO_DATA = [
     "Frente": "261 - FRENTE PRÓPRIA  (EDMILSON)",
     "Responsável": "278400 - Vitor Amorim Ramos ",
     "Paralelismo": "1.4",
-    "Fazenda": "53201"
+    "Fazenda": "53201",
+    "Unnamed: 16": null
   },
   {
     "ID": "3428679",
@@ -42172,7 +44518,8 @@ const PARALELISMO_DATA = [
     "Frente": "291 - FRENTE PRÓPRIA ",
     "Responsável": "268680 - GABRIEL HENRIQUE MARTINS PEREIRA ",
     "Paralelismo": "1.4",
-    "Fazenda": "53201"
+    "Fazenda": "53201",
+    "Unnamed: 16": null
   },
   {
     "ID": "3428368",
@@ -42190,7 +44537,8 @@ const PARALELISMO_DATA = [
     "Frente": "261 - FRENTE PRÓPRIA  (EDMILSON)",
     "Responsável": "278400 - Vitor Amorim Ramos ",
     "Paralelismo": "1.4",
-    "Fazenda": "53201"
+    "Fazenda": "53201",
+    "Unnamed: 16": null
   },
   {
     "ID": "3428674",
@@ -42208,7 +44556,8 @@ const PARALELISMO_DATA = [
     "Frente": "291 - FRENTE PRÓPRIA ",
     "Responsável": "268680 - GABRIEL HENRIQUE MARTINS PEREIRA ",
     "Paralelismo": "1.4",
-    "Fazenda": "53201"
+    "Fazenda": "53201",
+    "Unnamed: 16": null
   },
   {
     "ID": "3428360",
@@ -42226,7 +44575,8 @@ const PARALELISMO_DATA = [
     "Frente": "261 - FRENTE PRÓPRIA  (EDMILSON)",
     "Responsável": "278400 - Vitor Amorim Ramos ",
     "Paralelismo": "1.4",
-    "Fazenda": "53201"
+    "Fazenda": "53201",
+    "Unnamed: 16": null
   },
   {
     "ID": "3428669",
@@ -42244,7 +44594,8 @@ const PARALELISMO_DATA = [
     "Frente": "291 - FRENTE PRÓPRIA ",
     "Responsável": "268680 - GABRIEL HENRIQUE MARTINS PEREIRA ",
     "Paralelismo": "1.4",
-    "Fazenda": "53201"
+    "Fazenda": "53201",
+    "Unnamed: 16": null
   },
   {
     "ID": "3428355",
@@ -42262,7 +44613,8 @@ const PARALELISMO_DATA = [
     "Frente": "261 - FRENTE PRÓPRIA  (EDMILSON)",
     "Responsável": "278400 - Vitor Amorim Ramos ",
     "Paralelismo": "1.4",
-    "Fazenda": "53201"
+    "Fazenda": "53201",
+    "Unnamed: 16": null
   },
   {
     "ID": "3428664",
@@ -42280,7 +44632,8 @@ const PARALELISMO_DATA = [
     "Frente": "291 - FRENTE PRÓPRIA ",
     "Responsável": "268680 - GABRIEL HENRIQUE MARTINS PEREIRA ",
     "Paralelismo": "1.4",
-    "Fazenda": "53201"
+    "Fazenda": "53201",
+    "Unnamed: 16": null
   },
   {
     "ID": "3428350",
@@ -42298,7 +44651,8 @@ const PARALELISMO_DATA = [
     "Frente": "261 - FRENTE PRÓPRIA  (EDMILSON)",
     "Responsável": "278400 - Vitor Amorim Ramos ",
     "Paralelismo": "1.4",
-    "Fazenda": "53201"
+    "Fazenda": "53201",
+    "Unnamed: 16": null
   },
   {
     "ID": "3428344",
@@ -42316,7 +44670,8 @@ const PARALELISMO_DATA = [
     "Frente": "261 - FRENTE PRÓPRIA  (EDMILSON)",
     "Responsável": "278400 - Vitor Amorim Ramos ",
     "Paralelismo": "1.4",
-    "Fazenda": "53201"
+    "Fazenda": "53201",
+    "Unnamed: 16": null
   },
   {
     "ID": "3428333",
@@ -42334,7 +44689,8 @@ const PARALELISMO_DATA = [
     "Frente": "261 - FRENTE PRÓPRIA  (EDMILSON)",
     "Responsável": "278400 - Vitor Amorim Ramos ",
     "Paralelismo": "1.4",
-    "Fazenda": "53201"
+    "Fazenda": "53201",
+    "Unnamed: 16": null
   },
   {
     "ID": "3428319",
@@ -42352,7 +44708,8 @@ const PARALELISMO_DATA = [
     "Frente": "261 - FRENTE PRÓPRIA  (EDMILSON)",
     "Responsável": "278400 - Vitor Amorim Ramos ",
     "Paralelismo": "1.4",
-    "Fazenda": "53201"
+    "Fazenda": "53201",
+    "Unnamed: 16": null
   },
   {
     "ID": "3428314",
@@ -42370,7 +44727,8 @@ const PARALELISMO_DATA = [
     "Frente": "261 - FRENTE PRÓPRIA  (EDMILSON)",
     "Responsável": "278400 - Vitor Amorim Ramos ",
     "Paralelismo": "1.4",
-    "Fazenda": "53201"
+    "Fazenda": "53201",
+    "Unnamed: 16": null
   },
   {
     "ID": "3426540",
@@ -42388,7 +44746,8 @@ const PARALELISMO_DATA = [
     "Frente": "261 - FRENTE PRÓPRIA  (EDMILSON)",
     "Responsável": "278400 - Vitor Amorim Ramos ",
     "Paralelismo": "1.4",
-    "Fazenda": "53201"
+    "Fazenda": "53201",
+    "Unnamed: 16": null
   },
   {
     "ID": "3426535",
@@ -42406,7 +44765,8 @@ const PARALELISMO_DATA = [
     "Frente": "261 - FRENTE PRÓPRIA  (EDMILSON)",
     "Responsável": "278400 - Vitor Amorim Ramos ",
     "Paralelismo": "1.4",
-    "Fazenda": "53201"
+    "Fazenda": "53201",
+    "Unnamed: 16": null
   },
   {
     "ID": "3426530",
@@ -42424,7 +44784,8 @@ const PARALELISMO_DATA = [
     "Frente": "261 - FRENTE PRÓPRIA  (EDMILSON)",
     "Responsável": "278400 - Vitor Amorim Ramos ",
     "Paralelismo": "1.4",
-    "Fazenda": "53201"
+    "Fazenda": "53201",
+    "Unnamed: 16": null
   },
   {
     "ID": "3426523",
@@ -42442,7 +44803,8 @@ const PARALELISMO_DATA = [
     "Frente": "261 - FRENTE PRÓPRIA  (EDMILSON)",
     "Responsável": "278400 - Vitor Amorim Ramos ",
     "Paralelismo": "1.4",
-    "Fazenda": "53201"
+    "Fazenda": "53201",
+    "Unnamed: 16": null
   },
   {
     "ID": "3426515",
@@ -42460,7 +44822,8 @@ const PARALELISMO_DATA = [
     "Frente": "261 - FRENTE PRÓPRIA  (EDMILSON)",
     "Responsável": "278400 - Vitor Amorim Ramos ",
     "Paralelismo": "1.4",
-    "Fazenda": "53201"
+    "Fazenda": "53201",
+    "Unnamed: 16": null
   },
   {
     "ID": "3424998",
@@ -42478,7 +44841,8 @@ const PARALELISMO_DATA = [
     "Frente": "261 - FRENTE PRÓPRIA  (EDMILSON)",
     "Responsável": "278400 - Vitor Amorim Ramos ",
     "Paralelismo": "1.4",
-    "Fazenda": "53201"
+    "Fazenda": "53201",
+    "Unnamed: 16": null
   },
   {
     "ID": "3425028",
@@ -42496,7 +44860,8 @@ const PARALELISMO_DATA = [
     "Frente": "261 - FRENTE PRÓPRIA  (EDMILSON)",
     "Responsável": "278400 - Vitor Amorim Ramos ",
     "Paralelismo": "1.4",
-    "Fazenda": "53201"
+    "Fazenda": "53201",
+    "Unnamed: 16": null
   },
   {
     "ID": "3425010",
@@ -42514,7 +44879,8 @@ const PARALELISMO_DATA = [
     "Frente": "261 - FRENTE PRÓPRIA  (EDMILSON)",
     "Responsável": "278400 - Vitor Amorim Ramos ",
     "Paralelismo": "1.4",
-    "Fazenda": "53201"
+    "Fazenda": "53201",
+    "Unnamed: 16": null
   },
   {
     "ID": "3425006",
@@ -42532,7 +44898,8 @@ const PARALELISMO_DATA = [
     "Frente": "261 - FRENTE PRÓPRIA  (EDMILSON)",
     "Responsável": "278400 - Vitor Amorim Ramos ",
     "Paralelismo": "1.4",
-    "Fazenda": "53201"
+    "Fazenda": "53201",
+    "Unnamed: 16": null
   },
   {
     "ID": "3424976",
@@ -42550,7 +44917,8 @@ const PARALELISMO_DATA = [
     "Frente": "261 - FRENTE PRÓPRIA  (EDMILSON)",
     "Responsável": "278400 - Vitor Amorim Ramos ",
     "Paralelismo": "1.38",
-    "Fazenda": "53201"
+    "Fazenda": "53201",
+    "Unnamed: 16": null
   },
   {
     "ID": "3424973",
@@ -42568,7 +44936,8 @@ const PARALELISMO_DATA = [
     "Frente": "261 - FRENTE PRÓPRIA  (EDMILSON)",
     "Responsável": "278400 - Vitor Amorim Ramos ",
     "Paralelismo": "1.4",
-    "Fazenda": "53201"
+    "Fazenda": "53201",
+    "Unnamed: 16": null
   },
   {
     "ID": "3423175",
@@ -42586,7 +44955,8 @@ const PARALELISMO_DATA = [
     "Frente": "261 - FRENTE PRÓPRIA  (EDMILSON)",
     "Responsável": "278400 - Vitor Amorim Ramos ",
     "Paralelismo": "1.4",
-    "Fazenda": "53201"
+    "Fazenda": "53201",
+    "Unnamed: 16": null
   },
   {
     "ID": "3423171",
@@ -42604,7 +44974,8 @@ const PARALELISMO_DATA = [
     "Frente": "261 - FRENTE PRÓPRIA  (EDMILSON)",
     "Responsável": "278400 - Vitor Amorim Ramos ",
     "Paralelismo": "1.4",
-    "Fazenda": "53201"
+    "Fazenda": "53201",
+    "Unnamed: 16": null
   },
   {
     "ID": "3423006",
@@ -42622,7 +44993,8 @@ const PARALELISMO_DATA = [
     "Frente": "291 - FRENTE PRÓPRIA ",
     "Responsável": "MICHELI DE SOUZA SANTOS  ",
     "Paralelismo": "1.4",
-    "Fazenda": "53201"
+    "Fazenda": "53201",
+    "Unnamed: 16": null
   },
   {
     "ID": "3423160",
@@ -42640,7 +45012,8 @@ const PARALELISMO_DATA = [
     "Frente": "261 - FRENTE PRÓPRIA  (EDMILSON)",
     "Responsável": "278400 - Vitor Amorim Ramos ",
     "Paralelismo": "1.4",
-    "Fazenda": "53201"
+    "Fazenda": "53201",
+    "Unnamed: 16": null
   },
   {
     "ID": "3422748",
@@ -42658,7 +45031,8 @@ const PARALELISMO_DATA = [
     "Frente": "261 - FRENTE PRÓPRIA  (EDMILSON)",
     "Responsável": "REGINALDO DA SILVA GOMES [249300]",
     "Paralelismo": "1.36",
-    "Fazenda": "53201"
+    "Fazenda": "53201",
+    "Unnamed: 16": null
   },
   {
     "ID": "3423155",
@@ -42676,7 +45050,8 @@ const PARALELISMO_DATA = [
     "Frente": "261 - FRENTE PRÓPRIA  (EDMILSON)",
     "Responsável": "278400 - Vitor Amorim Ramos ",
     "Paralelismo": "1.4",
-    "Fazenda": "53201"
+    "Fazenda": "53201",
+    "Unnamed: 16": null
   },
   {
     "ID": "3422743",
@@ -42694,7 +45069,8 @@ const PARALELISMO_DATA = [
     "Frente": "261 - FRENTE PRÓPRIA  (EDMILSON)",
     "Responsável": "REGINALDO DA SILVA GOMES [249300]",
     "Paralelismo": "1.4",
-    "Fazenda": "53201"
+    "Fazenda": "53201",
+    "Unnamed: 16": null
   },
   {
     "ID": "3422805",
@@ -42712,7 +45088,8 @@ const PARALELISMO_DATA = [
     "Frente": "261 - FRENTE PRÓPRIA  (EDMILSON)",
     "Responsável": "278400 - Vitor Amorim Ramos ",
     "Paralelismo": "1.4",
-    "Fazenda": "53201"
+    "Fazenda": "53201",
+    "Unnamed: 16": null
   },
   {
     "ID": "3422738",
@@ -42730,7 +45107,8 @@ const PARALELISMO_DATA = [
     "Frente": "261 - FRENTE PRÓPRIA  (EDMILSON)",
     "Responsável": "REGINALDO DA SILVA GOMES [249300]",
     "Paralelismo": "1.37",
-    "Fazenda": "53201"
+    "Fazenda": "53201",
+    "Unnamed: 16": null
   },
   {
     "ID": "3422799",
@@ -42748,7 +45126,8 @@ const PARALELISMO_DATA = [
     "Frente": "261 - FRENTE PRÓPRIA  (EDMILSON)",
     "Responsável": "278400 - Vitor Amorim Ramos ",
     "Paralelismo": "1.4",
-    "Fazenda": "53201"
+    "Fazenda": "53201",
+    "Unnamed: 16": null
   },
   {
     "ID": "3422769",
@@ -42766,7 +45145,8 @@ const PARALELISMO_DATA = [
     "Frente": "261 - FRENTE PRÓPRIA  (EDMILSON)",
     "Responsável": "278400 - Vitor Amorim Ramos ",
     "Paralelismo": "1.4",
-    "Fazenda": "53201"
+    "Fazenda": "53201",
+    "Unnamed: 16": null
   },
   {
     "ID": "3422757",
@@ -42784,7 +45164,8 @@ const PARALELISMO_DATA = [
     "Frente": "261 - FRENTE PRÓPRIA  (EDMILSON)",
     "Responsável": "278400 - Vitor Amorim Ramos ",
     "Paralelismo": "1.4",
-    "Fazenda": "53201"
+    "Fazenda": "53201",
+    "Unnamed: 16": null
   },
   {
     "ID": "3422754",
@@ -42802,7 +45183,8 @@ const PARALELISMO_DATA = [
     "Frente": "261 - FRENTE PRÓPRIA  (EDMILSON)",
     "Responsável": "278400 - Vitor Amorim Ramos ",
     "Paralelismo": "1.4",
-    "Fazenda": "53201"
+    "Fazenda": "53201",
+    "Unnamed: 16": null
   },
   {
     "ID": "3421350",
@@ -42820,7 +45202,8 @@ const PARALELISMO_DATA = [
     "Frente": "261 - FRENTE PRÓPRIA  (EDMILSON)",
     "Responsável": "MARCELO DE OLIVEIRA JUNIOR [264820]",
     "Paralelismo": "1.4",
-    "Fazenda": "53201"
+    "Fazenda": "53201",
+    "Unnamed: 16": null
   },
   {
     "ID": "3421180",
@@ -42838,7 +45221,8 @@ const PARALELISMO_DATA = [
     "Frente": "261 - FRENTE PRÓPRIA  (EDMILSON)",
     "Responsável": "278400 - Vitor Amorim Ramos ",
     "Paralelismo": "1.4",
-    "Fazenda": "53201"
+    "Fazenda": "53201",
+    "Unnamed: 16": null
   },
   {
     "ID": "3421133",
@@ -42856,7 +45240,8 @@ const PARALELISMO_DATA = [
     "Frente": "261 - FRENTE PRÓPRIA  (EDMILSON)",
     "Responsável": "278400 - Vitor Amorim Ramos ",
     "Paralelismo": "1.4",
-    "Fazenda": "53201"
+    "Fazenda": "53201",
+    "Unnamed: 16": null
   },
   {
     "ID": "3421175",
@@ -42874,7 +45259,8 @@ const PARALELISMO_DATA = [
     "Frente": "261 - FRENTE PRÓPRIA  (EDMILSON)",
     "Responsável": "278400 - Vitor Amorim Ramos ",
     "Paralelismo": "1.4",
-    "Fazenda": "53201"
+    "Fazenda": "53201",
+    "Unnamed: 16": null
   },
   {
     "ID": "3421126",
@@ -42892,7 +45278,8 @@ const PARALELISMO_DATA = [
     "Frente": "261 - FRENTE PRÓPRIA  (EDMILSON)",
     "Responsável": "278400 - Vitor Amorim Ramos ",
     "Paralelismo": "1.4",
-    "Fazenda": "53201"
+    "Fazenda": "53201",
+    "Unnamed: 16": null
   },
   {
     "ID": "3421122",
@@ -42910,7 +45297,8 @@ const PARALELISMO_DATA = [
     "Frente": "261 - FRENTE PRÓPRIA  (EDMILSON)",
     "Responsável": "278400 - Vitor Amorim Ramos ",
     "Paralelismo": "1.4",
-    "Fazenda": "53201"
+    "Fazenda": "53201",
+    "Unnamed: 16": null
   },
   {
     "ID": "3421166",
@@ -42928,7 +45316,8 @@ const PARALELISMO_DATA = [
     "Frente": "261 - FRENTE PRÓPRIA  (EDMILSON)",
     "Responsável": "278400 - Vitor Amorim Ramos ",
     "Paralelismo": "1.4",
-    "Fazenda": "53201"
+    "Fazenda": "53201",
+    "Unnamed: 16": null
   },
   {
     "ID": "3421163",
@@ -42946,7 +45335,8 @@ const PARALELISMO_DATA = [
     "Frente": "261 - FRENTE PRÓPRIA  (EDMILSON)",
     "Responsável": "278400 - Vitor Amorim Ramos ",
     "Paralelismo": "1.4",
-    "Fazenda": "53201"
+    "Fazenda": "53201",
+    "Unnamed: 16": null
   },
   {
     "ID": "3417432",
@@ -42964,7 +45354,8 @@ const PARALELISMO_DATA = [
     "Frente": "261 - FRENTE PRÓPRIA  (EDMILSON)",
     "Responsável": "278400 - Vitor Amorim Ramos ",
     "Paralelismo": "1.4",
-    "Fazenda": "53201"
+    "Fazenda": "53201",
+    "Unnamed: 16": null
   },
   {
     "ID": "3417427",
@@ -42982,7 +45373,8 @@ const PARALELISMO_DATA = [
     "Frente": "261 - FRENTE PRÓPRIA  (EDMILSON)",
     "Responsável": "278400 - Vitor Amorim Ramos ",
     "Paralelismo": "1.4",
-    "Fazenda": "53201"
+    "Fazenda": "53201",
+    "Unnamed: 16": null
   },
   {
     "ID": "3417453",
@@ -43000,7 +45392,8 @@ const PARALELISMO_DATA = [
     "Frente": "261 - FRENTE PRÓPRIA  (EDMILSON)",
     "Responsável": "278400 - Vitor Amorim Ramos ",
     "Paralelismo": "1.4",
-    "Fazenda": "53201"
+    "Fazenda": "53201",
+    "Unnamed: 16": null
   },
   {
     "ID": "3417418",
@@ -43018,7 +45411,8 @@ const PARALELISMO_DATA = [
     "Frente": "261 - FRENTE PRÓPRIA  (EDMILSON)",
     "Responsável": "278400 - Vitor Amorim Ramos ",
     "Paralelismo": "1.4",
-    "Fazenda": "53201"
+    "Fazenda": "53201",
+    "Unnamed: 16": null
   },
   {
     "ID": "3417413",
@@ -43036,7 +45430,8 @@ const PARALELISMO_DATA = [
     "Frente": "261 - FRENTE PRÓPRIA  (EDMILSON)",
     "Responsável": "278400 - Vitor Amorim Ramos ",
     "Paralelismo": "1.4",
-    "Fazenda": "53201"
+    "Fazenda": "53201",
+    "Unnamed: 16": null
   },
   {
     "ID": "3417408",
@@ -43054,7 +45449,8 @@ const PARALELISMO_DATA = [
     "Frente": "261 - FRENTE PRÓPRIA  (EDMILSON)",
     "Responsável": "278400 - Vitor Amorim Ramos ",
     "Paralelismo": "1.4",
-    "Fazenda": "53201"
+    "Fazenda": "53201",
+    "Unnamed: 16": null
   },
   {
     "ID": "3416397",
@@ -43072,7 +45468,8 @@ const PARALELISMO_DATA = [
     "Frente": "261 - FRENTE PRÓPRIA  (EDMILSON)",
     "Responsável": "278400 - Vitor Amorim Ramos ",
     "Paralelismo": "1.4",
-    "Fazenda": "53201"
+    "Fazenda": "53201",
+    "Unnamed: 16": null
   },
   {
     "ID": "3416388",
@@ -43090,7 +45487,8 @@ const PARALELISMO_DATA = [
     "Frente": "261 - FRENTE PRÓPRIA  (EDMILSON)",
     "Responsável": "278400 - Vitor Amorim Ramos ",
     "Paralelismo": "1.4",
-    "Fazenda": "53201"
+    "Fazenda": "53201",
+    "Unnamed: 16": null
   },
   {
     "ID": "3416382",
@@ -43108,7 +45506,8 @@ const PARALELISMO_DATA = [
     "Frente": "261 - FRENTE PRÓPRIA  (EDMILSON)",
     "Responsável": "278400 - Vitor Amorim Ramos ",
     "Paralelismo": "1.4",
-    "Fazenda": "53201"
+    "Fazenda": "53201",
+    "Unnamed: 16": null
   },
   {
     "ID": "3416377",
@@ -43126,7 +45525,8 @@ const PARALELISMO_DATA = [
     "Frente": "261 - FRENTE PRÓPRIA  (EDMILSON)",
     "Responsável": "278400 - Vitor Amorim Ramos ",
     "Paralelismo": "1.4",
-    "Fazenda": "53201"
+    "Fazenda": "53201",
+    "Unnamed: 16": null
   },
   {
     "ID": "3416372",
@@ -43144,7 +45544,8 @@ const PARALELISMO_DATA = [
     "Frente": "261 - FRENTE PRÓPRIA  (EDMILSON)",
     "Responsável": "278400 - Vitor Amorim Ramos ",
     "Paralelismo": "1.4",
-    "Fazenda": "53201"
+    "Fazenda": "53201",
+    "Unnamed: 16": null
   },
   {
     "ID": "3415085",
@@ -43162,7 +45563,8 @@ const PARALELISMO_DATA = [
     "Frente": "261 - FRENTE PRÓPRIA  (EDMILSON)",
     "Responsável": "278400 - Vitor Amorim Ramos ",
     "Paralelismo": "1.4",
-    "Fazenda": "53201"
+    "Fazenda": "53201",
+    "Unnamed: 16": null
   },
   {
     "ID": "3415078",
@@ -43180,7 +45582,8 @@ const PARALELISMO_DATA = [
     "Frente": "261 - FRENTE PRÓPRIA  (EDMILSON)",
     "Responsável": "278400 - Vitor Amorim Ramos ",
     "Paralelismo": "1.4",
-    "Fazenda": "53201"
+    "Fazenda": "53201",
+    "Unnamed: 16": null
   },
   {
     "ID": "3415073",
@@ -43198,7 +45601,8 @@ const PARALELISMO_DATA = [
     "Frente": "261 - FRENTE PRÓPRIA  (EDMILSON)",
     "Responsável": "278400 - Vitor Amorim Ramos ",
     "Paralelismo": "1.4",
-    "Fazenda": "53201"
+    "Fazenda": "53201",
+    "Unnamed: 16": null
   },
   {
     "ID": "3415067",
@@ -43216,7 +45620,8 @@ const PARALELISMO_DATA = [
     "Frente": "261 - FRENTE PRÓPRIA  (EDMILSON)",
     "Responsável": "278400 - Vitor Amorim Ramos ",
     "Paralelismo": "1.4",
-    "Fazenda": "53201"
+    "Fazenda": "53201",
+    "Unnamed: 16": null
   },
   {
     "ID": "3414949",
@@ -43234,7 +45639,8 @@ const PARALELISMO_DATA = [
     "Frente": "261 - FRENTE PRÓPRIA  (EDMILSON)",
     "Responsável": "278400 - Vitor Amorim Ramos ",
     "Paralelismo": "1.4",
-    "Fazenda": "53201"
+    "Fazenda": "53201",
+    "Unnamed: 16": null
   },
   {
     "ID": "3414945",
@@ -43252,7 +45658,8 @@ const PARALELISMO_DATA = [
     "Frente": "261 - FRENTE PRÓPRIA  (EDMILSON)",
     "Responsável": "278400 - Vitor Amorim Ramos ",
     "Paralelismo": "1.4",
-    "Fazenda": "53201"
+    "Fazenda": "53201",
+    "Unnamed: 16": null
   },
   {
     "ID": "3414938",
@@ -43270,7 +45677,8 @@ const PARALELISMO_DATA = [
     "Frente": "261 - FRENTE PRÓPRIA  (EDMILSON)",
     "Responsável": "278400 - Vitor Amorim Ramos ",
     "Paralelismo": "1.4",
-    "Fazenda": "53201"
+    "Fazenda": "53201",
+    "Unnamed: 16": null
   },
   {
     "ID": "3414930",
@@ -43288,7 +45696,8 @@ const PARALELISMO_DATA = [
     "Frente": "261 - FRENTE PRÓPRIA  (EDMILSON)",
     "Responsável": "278400 - Vitor Amorim Ramos ",
     "Paralelismo": "1.4",
-    "Fazenda": "53201"
+    "Fazenda": "53201",
+    "Unnamed: 16": null
   },
   {
     "ID": "3414913",
@@ -43306,7 +45715,8 @@ const PARALELISMO_DATA = [
     "Frente": "261 - FRENTE PRÓPRIA  (EDMILSON)",
     "Responsável": "278400 - Vitor Amorim Ramos ",
     "Paralelismo": "1.4",
-    "Fazenda": "53201"
+    "Fazenda": "53201",
+    "Unnamed: 16": null
   },
   {
     "ID": "3414900",
@@ -43324,7 +45734,8 @@ const PARALELISMO_DATA = [
     "Frente": "261 - FRENTE PRÓPRIA  (EDMILSON)",
     "Responsável": "278400 - Vitor Amorim Ramos ",
     "Paralelismo": "1.4",
-    "Fazenda": "53201"
+    "Fazenda": "53201",
+    "Unnamed: 16": null
   },
   {
     "ID": "3414888",
@@ -43342,7 +45753,8 @@ const PARALELISMO_DATA = [
     "Frente": "261 - FRENTE PRÓPRIA  (EDMILSON)",
     "Responsável": "278400 - Vitor Amorim Ramos ",
     "Paralelismo": "1.4",
-    "Fazenda": "53201"
+    "Fazenda": "53201",
+    "Unnamed: 16": null
   },
   {
     "ID": "3414883",
@@ -43360,7 +45772,8 @@ const PARALELISMO_DATA = [
     "Frente": "261 - FRENTE PRÓPRIA  (EDMILSON)",
     "Responsável": "278400 - Vitor Amorim Ramos ",
     "Paralelismo": "1.4",
-    "Fazenda": "53201"
+    "Fazenda": "53201",
+    "Unnamed: 16": null
   },
   {
     "ID": "3414878",
@@ -43378,7 +45791,8 @@ const PARALELISMO_DATA = [
     "Frente": "261 - FRENTE PRÓPRIA  (EDMILSON)",
     "Responsável": "278400 - Vitor Amorim Ramos ",
     "Paralelismo": "1.4",
-    "Fazenda": "53201"
+    "Fazenda": "53201",
+    "Unnamed: 16": null
   },
   {
     "ID": "3414872",
@@ -43396,7 +45810,8 @@ const PARALELISMO_DATA = [
     "Frente": "261 - FRENTE PRÓPRIA  (EDMILSON)",
     "Responsável": "ERASMO VITOR DE SOUZA [22306]",
     "Paralelismo": "1.4",
-    "Fazenda": "53201"
+    "Fazenda": "53201",
+    "Unnamed: 16": null
   },
   {
     "ID": "3413430",
@@ -43414,7 +45829,8 @@ const PARALELISMO_DATA = [
     "Frente": "261 - FRENTE PRÓPRIA  (EDMILSON)",
     "Responsável": "278400 - Vitor Amorim Ramos ",
     "Paralelismo": "1.41",
-    "Fazenda": "53201"
+    "Fazenda": "53201",
+    "Unnamed: 16": null
   },
   {
     "ID": "3413425",
@@ -43432,7 +45848,8 @@ const PARALELISMO_DATA = [
     "Frente": "261 - FRENTE PRÓPRIA  (EDMILSON)",
     "Responsável": "278400 - Vitor Amorim Ramos ",
     "Paralelismo": "1.4",
-    "Fazenda": "53201"
+    "Fazenda": "53201",
+    "Unnamed: 16": null
   },
   {
     "ID": "3413418",
@@ -43450,7 +45867,8 @@ const PARALELISMO_DATA = [
     "Frente": "261 - FRENTE PRÓPRIA  (EDMILSON)",
     "Responsável": "278400 - Vitor Amorim Ramos ",
     "Paralelismo": "1.4",
-    "Fazenda": "53201"
+    "Fazenda": "53201",
+    "Unnamed: 16": null
   },
   {
     "ID": "3413412",
@@ -43468,7 +45886,8 @@ const PARALELISMO_DATA = [
     "Frente": "261 - FRENTE PRÓPRIA  (EDMILSON)",
     "Responsável": "278400 - Vitor Amorim Ramos ",
     "Paralelismo": "1.4",
-    "Fazenda": "53201"
+    "Fazenda": "53201",
+    "Unnamed: 16": null
   },
   {
     "ID": "3413408",
@@ -43486,7 +45905,8 @@ const PARALELISMO_DATA = [
     "Frente": "261 - FRENTE PRÓPRIA  (EDMILSON)",
     "Responsável": "278400 - Vitor Amorim Ramos ",
     "Paralelismo": "1.4",
-    "Fazenda": "53201"
+    "Fazenda": "53201",
+    "Unnamed: 16": null
   },
   {
     "ID": "3413406",
@@ -43504,7 +45924,8 @@ const PARALELISMO_DATA = [
     "Frente": "261 - FRENTE PRÓPRIA  (EDMILSON)",
     "Responsável": "278400 - Vitor Amorim Ramos ",
     "Paralelismo": "1.4",
-    "Fazenda": "53201"
+    "Fazenda": "53201",
+    "Unnamed: 16": null
   },
   {
     "ID": "3413399",
@@ -43522,7 +45943,8 @@ const PARALELISMO_DATA = [
     "Frente": "261 - FRENTE PRÓPRIA  (EDMILSON)",
     "Responsável": "278400 - Vitor Amorim Ramos ",
     "Paralelismo": "1.4",
-    "Fazenda": "53201"
+    "Fazenda": "53201",
+    "Unnamed: 16": null
   },
   {
     "ID": "3413395",
@@ -43540,7 +45962,8 @@ const PARALELISMO_DATA = [
     "Frente": "261 - FRENTE PRÓPRIA  (EDMILSON)",
     "Responsável": "278400 - Vitor Amorim Ramos ",
     "Paralelismo": "1.4",
-    "Fazenda": "53201"
+    "Fazenda": "53201",
+    "Unnamed: 16": null
   },
   {
     "ID": "3413389",
@@ -43558,7 +45981,8 @@ const PARALELISMO_DATA = [
     "Frente": "261 - FRENTE PRÓPRIA  (EDMILSON)",
     "Responsável": "278400 - Vitor Amorim Ramos ",
     "Paralelismo": "1.4",
-    "Fazenda": "53201"
+    "Fazenda": "53201",
+    "Unnamed: 16": null
   },
   {
     "ID": "3413385",
@@ -43576,7 +46000,8 @@ const PARALELISMO_DATA = [
     "Frente": "261 - FRENTE PRÓPRIA  (EDMILSON)",
     "Responsável": "278400 - Vitor Amorim Ramos ",
     "Paralelismo": "1.4",
-    "Fazenda": "53201"
+    "Fazenda": "53201",
+    "Unnamed: 16": null
   },
   {
     "ID": "3411794",
@@ -43594,7 +46019,8 @@ const PARALELISMO_DATA = [
     "Frente": "261 - FRENTE PRÓPRIA  (EDMILSON)",
     "Responsável": "278400 - Vitor Amorim Ramos ",
     "Paralelismo": "1.4",
-    "Fazenda": "53201"
+    "Fazenda": "53201",
+    "Unnamed: 16": null
   },
   {
     "ID": "3411789",
@@ -43612,7 +46038,8 @@ const PARALELISMO_DATA = [
     "Frente": "261 - FRENTE PRÓPRIA  (EDMILSON)",
     "Responsável": "278400 - Vitor Amorim Ramos ",
     "Paralelismo": "1.4",
-    "Fazenda": "53201"
+    "Fazenda": "53201",
+    "Unnamed: 16": null
   },
   {
     "ID": "3411784",
@@ -43630,7 +46057,8 @@ const PARALELISMO_DATA = [
     "Frente": "261 - FRENTE PRÓPRIA  (EDMILSON)",
     "Responsável": "278400 - Vitor Amorim Ramos ",
     "Paralelismo": "1.4",
-    "Fazenda": "53201"
+    "Fazenda": "53201",
+    "Unnamed: 16": null
   },
   {
     "ID": "3411626",
@@ -43648,7 +46076,8 @@ const PARALELISMO_DATA = [
     "Frente": "261 - FRENTE PRÓPRIA  (EDMILSON)",
     "Responsável": "278400 - Vitor Amorim Ramos ",
     "Paralelismo": "1.4",
-    "Fazenda": "53201"
+    "Fazenda": "53201",
+    "Unnamed: 16": null
   },
   {
     "ID": "3411620",
@@ -43666,7 +46095,8 @@ const PARALELISMO_DATA = [
     "Frente": "261 - FRENTE PRÓPRIA  (EDMILSON)",
     "Responsável": "278400 - Vitor Amorim Ramos ",
     "Paralelismo": "1.4",
-    "Fazenda": "53201"
+    "Fazenda": "53201",
+    "Unnamed: 16": null
   },
   {
     "ID": "3411615",
@@ -43684,7 +46114,8 @@ const PARALELISMO_DATA = [
     "Frente": "261 - FRENTE PRÓPRIA  (EDMILSON)",
     "Responsável": "278400 - Vitor Amorim Ramos ",
     "Paralelismo": "1.4",
-    "Fazenda": "53201"
+    "Fazenda": "53201",
+    "Unnamed: 16": null
   },
   {
     "ID": "3411610",
@@ -43702,7 +46133,8 @@ const PARALELISMO_DATA = [
     "Frente": "261 - FRENTE PRÓPRIA  (EDMILSON)",
     "Responsável": "278400 - Vitor Amorim Ramos ",
     "Paralelismo": "1.4",
-    "Fazenda": "53201"
+    "Fazenda": "53201",
+    "Unnamed: 16": null
   },
   {
     "ID": "3411602",
@@ -43720,7 +46152,8 @@ const PARALELISMO_DATA = [
     "Frente": "261 - FRENTE PRÓPRIA  (EDMILSON)",
     "Responsável": "278400 - Vitor Amorim Ramos ",
     "Paralelismo": "1.4",
-    "Fazenda": "53201"
+    "Fazenda": "53201",
+    "Unnamed: 16": null
   },
   {
     "ID": "3411597",
@@ -43738,7 +46171,8 @@ const PARALELISMO_DATA = [
     "Frente": "261 - FRENTE PRÓPRIA  (EDMILSON)",
     "Responsável": "278400 - Vitor Amorim Ramos ",
     "Paralelismo": "1.4",
-    "Fazenda": "53201"
+    "Fazenda": "53201",
+    "Unnamed: 16": null
   },
   {
     "ID": "3411593",
@@ -43756,7 +46190,8 @@ const PARALELISMO_DATA = [
     "Frente": "261 - FRENTE PRÓPRIA  (EDMILSON)",
     "Responsável": "278400 - Vitor Amorim Ramos ",
     "Paralelismo": "1.4",
-    "Fazenda": "53201"
+    "Fazenda": "53201",
+    "Unnamed: 16": null
   },
   {
     "ID": "3411586",
@@ -43774,7 +46209,8 @@ const PARALELISMO_DATA = [
     "Frente": "261 - FRENTE PRÓPRIA  (EDMILSON)",
     "Responsável": "278400 - Vitor Amorim Ramos ",
     "Paralelismo": "1.4",
-    "Fazenda": "53201"
+    "Fazenda": "53201",
+    "Unnamed: 16": null
   },
   {
     "ID": "3411584",
@@ -43792,7 +46228,8 @@ const PARALELISMO_DATA = [
     "Frente": "261 - FRENTE PRÓPRIA  (EDMILSON)",
     "Responsável": "278400 - Vitor Amorim Ramos ",
     "Paralelismo": "1.4",
-    "Fazenda": "53201"
+    "Fazenda": "53201",
+    "Unnamed: 16": null
   },
   {
     "ID": "3411575",
@@ -43810,7 +46247,8 @@ const PARALELISMO_DATA = [
     "Frente": "261 - FRENTE PRÓPRIA  (EDMILSON)",
     "Responsável": "278400 - Vitor Amorim Ramos ",
     "Paralelismo": "1.4",
-    "Fazenda": "53201"
+    "Fazenda": "53201",
+    "Unnamed: 16": null
   },
   {
     "ID": "3410246",
@@ -43828,7 +46266,8 @@ const PARALELISMO_DATA = [
     "Frente": "261 - FRENTE PRÓPRIA  (EDMILSON)",
     "Responsável": "278400 - Vitor Amorim Ramos ",
     "Paralelismo": "1.4",
-    "Fazenda": "53201"
+    "Fazenda": "53201",
+    "Unnamed: 16": null
   },
   {
     "ID": "3410283",
@@ -43846,7 +46285,8 @@ const PARALELISMO_DATA = [
     "Frente": "261 - FRENTE PRÓPRIA  (EDMILSON)",
     "Responsável": "278400 - Vitor Amorim Ramos ",
     "Paralelismo": "1.4",
-    "Fazenda": "53201"
+    "Fazenda": "53201",
+    "Unnamed: 16": null
   },
   {
     "ID": "3410238",
@@ -43864,7 +46304,8 @@ const PARALELISMO_DATA = [
     "Frente": "261 - FRENTE PRÓPRIA  (EDMILSON)",
     "Responsável": "278400 - Vitor Amorim Ramos ",
     "Paralelismo": "1.4",
-    "Fazenda": "53201"
+    "Fazenda": "53201",
+    "Unnamed: 16": null
   },
   {
     "ID": "3410235",
@@ -43882,7 +46323,8 @@ const PARALELISMO_DATA = [
     "Frente": "261 - FRENTE PRÓPRIA  (EDMILSON)",
     "Responsável": "278400 - Vitor Amorim Ramos ",
     "Paralelismo": "1.4",
-    "Fazenda": "53201"
+    "Fazenda": "53201",
+    "Unnamed: 16": null
   },
   {
     "ID": "3410089",
@@ -43900,7 +46342,8 @@ const PARALELISMO_DATA = [
     "Frente": "261 - FRENTE PRÓPRIA  (EDMILSON)",
     "Responsável": "278400 - Vitor Amorim Ramos ",
     "Paralelismo": "1.4",
-    "Fazenda": "53201"
+    "Fazenda": "53201",
+    "Unnamed: 16": null
   },
   {
     "ID": "3410033",
@@ -43918,7 +46361,8 @@ const PARALELISMO_DATA = [
     "Frente": "261 - FRENTE PRÓPRIA  (EDMILSON)",
     "Responsável": "278400 - Vitor Amorim Ramos ",
     "Paralelismo": "1.4",
-    "Fazenda": "53201"
+    "Fazenda": "53201",
+    "Unnamed: 16": null
   },
   {
     "ID": "3410024",
@@ -43936,7 +46380,8 @@ const PARALELISMO_DATA = [
     "Frente": "261 - FRENTE PRÓPRIA  (EDMILSON)",
     "Responsável": "278400 - Vitor Amorim Ramos ",
     "Paralelismo": "1.4",
-    "Fazenda": "53201"
+    "Fazenda": "53201",
+    "Unnamed: 16": null
   },
   {
     "ID": "3410019",
@@ -43954,7 +46399,8 @@ const PARALELISMO_DATA = [
     "Frente": "261 - FRENTE PRÓPRIA  (EDMILSON)",
     "Responsável": "278400 - Vitor Amorim Ramos ",
     "Paralelismo": "1.4",
-    "Fazenda": "53201"
+    "Fazenda": "53201",
+    "Unnamed: 16": null
   },
   {
     "ID": "3410003",
@@ -43972,7 +46418,8 @@ const PARALELISMO_DATA = [
     "Frente": "261 - FRENTE PRÓPRIA  (EDMILSON)",
     "Responsável": "278400 - Vitor Amorim Ramos ",
     "Paralelismo": "1.4",
-    "Fazenda": "53201"
+    "Fazenda": "53201",
+    "Unnamed: 16": null
   },
   {
     "ID": "3409996",
@@ -43990,7 +46437,8 @@ const PARALELISMO_DATA = [
     "Frente": "261 - FRENTE PRÓPRIA  (EDMILSON)",
     "Responsável": "278400 - Vitor Amorim Ramos ",
     "Paralelismo": "1.4",
-    "Fazenda": "53201"
+    "Fazenda": "53201",
+    "Unnamed: 16": null
   },
   {
     "ID": "3408569",
@@ -44008,7 +46456,8 @@ const PARALELISMO_DATA = [
     "Frente": "261 - FRENTE PRÓPRIA  (EDMILSON)",
     "Responsável": "278400 - Vitor Amorim Ramos ",
     "Paralelismo": "1.4",
-    "Fazenda": "53201"
+    "Fazenda": "53201",
+    "Unnamed: 16": null
   },
   {
     "ID": "3408564",
@@ -44026,7 +46475,8 @@ const PARALELISMO_DATA = [
     "Frente": "261 - FRENTE PRÓPRIA  (EDMILSON)",
     "Responsável": "278400 - Vitor Amorim Ramos ",
     "Paralelismo": "1.4",
-    "Fazenda": "53201"
+    "Fazenda": "53201",
+    "Unnamed: 16": null
   },
   {
     "ID": "3408556",
@@ -44044,7 +46494,8 @@ const PARALELISMO_DATA = [
     "Frente": "261 - FRENTE PRÓPRIA  (EDMILSON)",
     "Responsável": "278400 - Vitor Amorim Ramos ",
     "Paralelismo": "1.4",
-    "Fazenda": "53201"
+    "Fazenda": "53201",
+    "Unnamed: 16": null
   },
   {
     "ID": "3408551",
@@ -44062,7 +46513,8 @@ const PARALELISMO_DATA = [
     "Frente": "261 - FRENTE PRÓPRIA  (EDMILSON)",
     "Responsável": "278400 - Vitor Amorim Ramos ",
     "Paralelismo": "1.4",
-    "Fazenda": "53201"
+    "Fazenda": "53201",
+    "Unnamed: 16": null
   },
   {
     "ID": "3408546",
@@ -44080,7 +46532,8 @@ const PARALELISMO_DATA = [
     "Frente": "261 - FRENTE PRÓPRIA  (EDMILSON)",
     "Responsável": "278400 - Vitor Amorim Ramos ",
     "Paralelismo": "1.4",
-    "Fazenda": "53201"
+    "Fazenda": "53201",
+    "Unnamed: 16": null
   },
   {
     "ID": "3408149",
@@ -44098,7 +46551,8 @@ const PARALELISMO_DATA = [
     "Frente": "261 - FRENTE PRÓPRIA  (EDMILSON)",
     "Responsável": "278400 - Vitor Amorim Ramos ",
     "Paralelismo": "1.4",
-    "Fazenda": "53201"
+    "Fazenda": "53201",
+    "Unnamed: 16": null
   },
   {
     "ID": "3408144",
@@ -44116,7 +46570,8 @@ const PARALELISMO_DATA = [
     "Frente": "261 - FRENTE PRÓPRIA  (EDMILSON)",
     "Responsável": "278400 - Vitor Amorim Ramos ",
     "Paralelismo": "1.4",
-    "Fazenda": "53201"
+    "Fazenda": "53201",
+    "Unnamed: 16": null
   },
   {
     "ID": "3408136",
@@ -44134,7 +46589,8 @@ const PARALELISMO_DATA = [
     "Frente": "261 - FRENTE PRÓPRIA  (EDMILSON)",
     "Responsável": "278400 - Vitor Amorim Ramos ",
     "Paralelismo": "1.4",
-    "Fazenda": "53201"
+    "Fazenda": "53201",
+    "Unnamed: 16": null
   },
   {
     "ID": "3408120",
@@ -44152,7 +46608,8 @@ const PARALELISMO_DATA = [
     "Frente": "261 - FRENTE PRÓPRIA  (EDMILSON)",
     "Responsável": "278400 - Vitor Amorim Ramos ",
     "Paralelismo": "1.4",
-    "Fazenda": "53201"
+    "Fazenda": "53201",
+    "Unnamed: 16": null
   },
   {
     "ID": "4038384",
@@ -44170,7 +46627,8 @@ const PARALELISMO_DATA = [
     "Frente": "261 - FRENTE PRÓPRIA  (EDMILSON)",
     "Responsável": "284860  - Juliana Aparecida Ferreira De Freitas",
     "Paralelismo": "1.4",
-    "Fazenda": "50301"
+    "Fazenda": "50301",
+    "Unnamed: 16": null
   },
   {
     "ID": "4037937",
@@ -44188,7 +46646,8 @@ const PARALELISMO_DATA = [
     "Frente": "261 - FRENTE PRÓPRIA  (EDMILSON)",
     "Responsável": "284860  - Juliana Aparecida Ferreira De Freitas",
     "Paralelismo": "1.4",
-    "Fazenda": "50301"
+    "Fazenda": "50301",
+    "Unnamed: 16": null
   },
   {
     "ID": "4037932",
@@ -44206,7 +46665,8 @@ const PARALELISMO_DATA = [
     "Frente": "261 - FRENTE PRÓPRIA  (EDMILSON)",
     "Responsável": "284860  - Juliana Aparecida Ferreira De Freitas",
     "Paralelismo": "1.4",
-    "Fazenda": "50301"
+    "Fazenda": "50301",
+    "Unnamed: 16": null
   },
   {
     "ID": "4037655",
@@ -44224,7 +46684,8 @@ const PARALELISMO_DATA = [
     "Frente": "261 - FRENTE PRÓPRIA  (EDMILSON)",
     "Responsável": "REGINALDO DA SILVA GOMES ",
     "Paralelismo": "1.4",
-    "Fazenda": "50301"
+    "Fazenda": "50301",
+    "Unnamed: 16": null
   },
   {
     "ID": "4037657",
@@ -44242,7 +46703,8 @@ const PARALELISMO_DATA = [
     "Frente": "261 - FRENTE PRÓPRIA  (EDMILSON)",
     "Responsável": "REGINALDO DA SILVA GOMES ",
     "Paralelismo": "1.4",
-    "Fazenda": "50301"
+    "Fazenda": "50301",
+    "Unnamed: 16": null
   },
   {
     "ID": "4037927",
@@ -44260,7 +46722,8 @@ const PARALELISMO_DATA = [
     "Frente": "261 - FRENTE PRÓPRIA  (EDMILSON)",
     "Responsável": "284860  - Juliana Aparecida Ferreira De Freitas",
     "Paralelismo": "1.4",
-    "Fazenda": "50301"
+    "Fazenda": "50301",
+    "Unnamed: 16": null
   },
   {
     "ID": "4037922",
@@ -44278,7 +46741,8 @@ const PARALELISMO_DATA = [
     "Frente": "261 - FRENTE PRÓPRIA  (EDMILSON)",
     "Responsável": "284860  - Juliana Aparecida Ferreira De Freitas",
     "Paralelismo": "1.4",
-    "Fazenda": "50301"
+    "Fazenda": "50301",
+    "Unnamed: 16": null
   },
   {
     "ID": "4037650",
@@ -44296,7 +46760,8 @@ const PARALELISMO_DATA = [
     "Frente": "261 - FRENTE PRÓPRIA  (EDMILSON)",
     "Responsável": "REGINALDO DA SILVA GOMES ",
     "Paralelismo": "1.44",
-    "Fazenda": "50301"
+    "Fazenda": "50301",
+    "Unnamed: 16": null
   },
   {
     "ID": "4037913",
@@ -44314,7 +46779,8 @@ const PARALELISMO_DATA = [
     "Frente": "261 - FRENTE PRÓPRIA  (EDMILSON)",
     "Responsável": "284860  - Juliana Aparecida Ferreira De Freitas",
     "Paralelismo": "1.4",
-    "Fazenda": "50301"
+    "Fazenda": "50301",
+    "Unnamed: 16": null
   },
   {
     "ID": "4050432",
@@ -44332,7 +46798,8 @@ const PARALELISMO_DATA = [
     "Frente": "261 - FRENTE PRÓPRIA  (EDMILSON)",
     "Responsável": "EDILIANA CARDOSO DA COSTA",
     "Paralelismo": "1.5",
-    "Fazenda": "46601"
+    "Fazenda": "46601",
+    "Unnamed: 16": null
   },
   {
     "ID": "4050425",
@@ -44350,7 +46817,8 @@ const PARALELISMO_DATA = [
     "Frente": "261 - FRENTE PRÓPRIA  (EDMILSON)",
     "Responsável": "EDILIANA CARDOSO DA COSTA",
     "Paralelismo": "1.5",
-    "Fazenda": "46601"
+    "Fazenda": "46601",
+    "Unnamed: 16": null
   },
   {
     "ID": "4050407",
@@ -44368,7 +46836,8 @@ const PARALELISMO_DATA = [
     "Frente": "261 - FRENTE PRÓPRIA  (EDMILSON)",
     "Responsável": "EDILIANA CARDOSO DA COSTA",
     "Paralelismo": "1.5",
-    "Fazenda": "46601"
+    "Fazenda": "46601",
+    "Unnamed: 16": null
   },
   {
     "ID": "4050406",
@@ -44386,7 +46855,8 @@ const PARALELISMO_DATA = [
     "Frente": "261 - FRENTE PRÓPRIA  (EDMILSON)",
     "Responsável": "EDILIANA CARDOSO DA COSTA",
     "Paralelismo": "1.5",
-    "Fazenda": "46601"
+    "Fazenda": "46601",
+    "Unnamed: 16": null
   },
   {
     "ID": "4050405",
@@ -44404,7 +46874,8 @@ const PARALELISMO_DATA = [
     "Frente": "261 - FRENTE PRÓPRIA  (EDMILSON)",
     "Responsável": "EDILIANA CARDOSO DA COSTA",
     "Paralelismo": "1.5",
-    "Fazenda": "46601"
+    "Fazenda": "46601",
+    "Unnamed: 16": null
   },
   {
     "ID": "4058579",
@@ -44422,7 +46893,8 @@ const PARALELISMO_DATA = [
     "Frente": "261 - FRENTE PRÓPRIA  (EDMILSON)",
     "Responsável": "EDILIANA CARDOSO DA COSTA",
     "Paralelismo": "1.4",
-    "Fazenda": "53501"
+    "Fazenda": "53501",
+    "Unnamed: 16": null
   },
   {
     "ID": "4058578",
@@ -44440,7 +46912,8 @@ const PARALELISMO_DATA = [
     "Frente": "261 - FRENTE PRÓPRIA  (EDMILSON)",
     "Responsável": "EDILIANA CARDOSO DA COSTA",
     "Paralelismo": "1.4",
-    "Fazenda": "53501"
+    "Fazenda": "53501",
+    "Unnamed: 16": null
   },
   {
     "ID": "4058576",
@@ -44458,7 +46931,8 @@ const PARALELISMO_DATA = [
     "Frente": "261 - FRENTE PRÓPRIA  (EDMILSON)",
     "Responsável": "EDILIANA CARDOSO DA COSTA",
     "Paralelismo": "1.4",
-    "Fazenda": "53501"
+    "Fazenda": "53501",
+    "Unnamed: 16": null
   },
   {
     "ID": "4060955",
@@ -44470,13 +46944,14 @@ const PARALELISMO_DATA = [
     "Data Fim": "19/11/2026 14:23",
     "Status": "Open",
     "Score": "0.00",
-    "Data Lançamento": "19/11/2026 00:00",
+    "Data Lançamento": "11/19/2026",
     "Local (Fazenda - Talhão)": "53501",
     "OS": "3840",
     "Frente": "261 - FRENTE PRÓPRIA  (EDMILSON)",
     "Responsável": "284860  - Juliana Aparecida Ferreira De Freitas",
     "Paralelismo": "1.4",
-    "Fazenda": "53501"
+    "Fazenda": "53501",
+    "Unnamed: 16": null
   },
   {
     "ID": "4060950",
@@ -44488,13 +46963,14 @@ const PARALELISMO_DATA = [
     "Data Fim": "19/11/2026 13:58",
     "Status": "Open",
     "Score": "0.00",
-    "Data Lançamento": "19/11/2026 00:00",
+    "Data Lançamento": "11/19/2026",
     "Local (Fazenda - Talhão)": "53501",
     "OS": "3840",
     "Frente": "261 - FRENTE PRÓPRIA  (EDMILSON)",
     "Responsável": "284860  - Juliana Aparecida Ferreira De Freitas",
     "Paralelismo": "1.4",
-    "Fazenda": "53501"
+    "Fazenda": "53501",
+    "Unnamed: 16": null
   },
   {
     "ID": "4060948",
@@ -44506,13 +46982,14 @@ const PARALELISMO_DATA = [
     "Data Fim": "19/11/2026 13:50",
     "Status": "Open",
     "Score": "0.00",
-    "Data Lançamento": "19/11/2026 00:00",
+    "Data Lançamento": "11/19/2026",
     "Local (Fazenda - Talhão)": "53501",
     "OS": "3840",
     "Frente": "261 - FRENTE PRÓPRIA  (EDMILSON)",
     "Responsável": "284860  - Juliana Aparecida Ferreira De Freitas",
     "Paralelismo": "1.4",
-    "Fazenda": "53501"
+    "Fazenda": "53501",
+    "Unnamed: 16": null
   },
   {
     "ID": "4060940",
@@ -44524,13 +47001,14 @@ const PARALELISMO_DATA = [
     "Data Fim": "19/11/2026 10:32",
     "Status": "Open",
     "Score": "0.00",
-    "Data Lançamento": "19/11/2026 00:00",
+    "Data Lançamento": "11/19/2026",
     "Local (Fazenda - Talhão)": "53501",
     "OS": "3840",
     "Frente": "261 - FRENTE PRÓPRIA  (EDMILSON)",
     "Responsável": "284860  - Juliana Aparecida Ferreira De Freitas",
     "Paralelismo": "1.5",
-    "Fazenda": "53501"
+    "Fazenda": "53501",
+    "Unnamed: 16": null
   },
   {
     "ID": "4060938",
@@ -44542,13 +47020,14 @@ const PARALELISMO_DATA = [
     "Data Fim": "19/11/2026 10:19",
     "Status": "Open",
     "Score": "0.00",
-    "Data Lançamento": "19/11/2026 00:00",
+    "Data Lançamento": "11/19/2026",
     "Local (Fazenda - Talhão)": "53501",
     "OS": "3840",
     "Frente": "261 - FRENTE PRÓPRIA  (EDMILSON)",
     "Responsável": "284860  - Juliana Aparecida Ferreira De Freitas",
     "Paralelismo": "1.4",
-    "Fazenda": "53501"
+    "Fazenda": "53501",
+    "Unnamed: 16": null
   },
   {
     "ID": "4060936",
@@ -44560,13 +47039,14 @@ const PARALELISMO_DATA = [
     "Data Fim": "19/11/2026 10:10",
     "Status": "Open",
     "Score": "0.00",
-    "Data Lançamento": "19/11/2026 00:00",
+    "Data Lançamento": "11/19/2026",
     "Local (Fazenda - Talhão)": "53501",
     "OS": "3840",
     "Frente": "261 - FRENTE PRÓPRIA  (EDMILSON)",
     "Responsável": "284860  - Juliana Aparecida Ferreira De Freitas",
     "Paralelismo": "1.47",
-    "Fazenda": "53501"
+    "Fazenda": "53501",
+    "Unnamed: 16": null
   },
   {
     "ID": "4060360",
@@ -44578,13 +47058,14 @@ const PARALELISMO_DATA = [
     "Data Fim": "19/11/2026 10:09",
     "Status": "Open",
     "Score": "0.00",
-    "Data Lançamento": "19/11/2026 00:00",
+    "Data Lançamento": "11/19/2026",
     "Local (Fazenda - Talhão)": "53501",
     "OS": "3840",
     "Frente": "261 - FRENTE PRÓPRIA  (EDMILSON)",
     "Responsável": "REGINALDO DA SILVA GOMES ",
     "Paralelismo": "1.61",
-    "Fazenda": "53501"
+    "Fazenda": "53501",
+    "Unnamed: 16": null
   },
   {
     "ID": "4060354",
@@ -44596,13 +47077,14 @@ const PARALELISMO_DATA = [
     "Data Fim": "19/11/2026 10:01",
     "Status": "Open",
     "Score": "0.00",
-    "Data Lançamento": "19/11/2026 00:00",
+    "Data Lançamento": "11/19/2026",
     "Local (Fazenda - Talhão)": "53501",
     "OS": "3840",
     "Frente": "261 - FRENTE PRÓPRIA  (EDMILSON)",
     "Responsável": "REGINALDO DA SILVA GOMES ",
     "Paralelismo": "1.59",
-    "Fazenda": "53501"
+    "Fazenda": "53501",
+    "Unnamed: 16": null
   },
   {
     "ID": "4060350",
@@ -44614,12 +47096,13 @@ const PARALELISMO_DATA = [
     "Data Fim": "19/11/2026 09:54",
     "Status": "Open",
     "Score": "0.00",
-    "Data Lançamento": "19/11/2026 00:00",
+    "Data Lançamento": "11/19/2026",
     "Local (Fazenda - Talhão)": "53501",
     "OS": "3840",
     "Frente": "261 - FRENTE PRÓPRIA  (EDMILSON)",
     "Responsável": "REGINALDO DA SILVA GOMES ",
     "Paralelismo": "1.7",
-    "Fazenda": "53501"
+    "Fazenda": "53501",
+    "Unnamed: 16": null
   }
 ];

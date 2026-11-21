@@ -1,5 +1,9 @@
-// Auto-gerado em 21/11/2026 07:33:22
-const SUBSOLAGEM_DATA = [
+/**
+ * Dados Consolidados - subsolagem
+ * Total: 367 registros
+ * Atualizado em: 21/11/2026 07:40
+ */
+window.RAW_SUBSOLAGEM = [
   {
     "ID": "3405808",
     "Usuário": "anabinatto@usinapitangueiras.com.br",
@@ -18,7 +22,7 @@ const SUBSOLAGEM_DATA = [
     "Frente": "261 - FRENTE PRÓPRIA  (EDMILSON)",
     "Responsável": "278400 - Vitor Amorim Ramos ",
     "Subsolagem": "38",
-    "Fazenda": NaN
+    "Fazenda": null
   },
   {
     "ID": "3405807",
@@ -38,7 +42,7 @@ const SUBSOLAGEM_DATA = [
     "Frente": "261 - FRENTE PRÓPRIA  (EDMILSON)",
     "Responsável": "278400 - Vitor Amorim Ramos ",
     "Subsolagem": "37",
-    "Fazenda": NaN
+    "Fazenda": null
   },
   {
     "ID": "3405806",
@@ -58,7 +62,7 @@ const SUBSOLAGEM_DATA = [
     "Frente": "261 - FRENTE PRÓPRIA  (EDMILSON)",
     "Responsável": "278400 - Vitor Amorim Ramos ",
     "Subsolagem": "37",
-    "Fazenda": NaN
+    "Fazenda": null
   },
   {
     "ID": "3405805",
@@ -78,7 +82,7 @@ const SUBSOLAGEM_DATA = [
     "Frente": "261 - FRENTE PRÓPRIA  (EDMILSON)",
     "Responsável": "278400 - Vitor Amorim Ramos ",
     "Subsolagem": "38",
-    "Fazenda": NaN
+    "Fazenda": null
   },
   {
     "ID": "3405803",
@@ -98,7 +102,7 @@ const SUBSOLAGEM_DATA = [
     "Frente": "261 - FRENTE PRÓPRIA  (EDMILSON)",
     "Responsável": "278400 - Vitor Amorim Ramos ",
     "Subsolagem": "39",
-    "Fazenda": NaN
+    "Fazenda": null
   },
   {
     "ID": "3405489",
@@ -118,7 +122,7 @@ const SUBSOLAGEM_DATA = [
     "Frente": " 53",
     "Responsável": "278400 - Vitor Amorim Ramos ",
     "Subsolagem": "38",
-    "Fazenda": NaN
+    "Fazenda": null
   },
   {
     "ID": "3405487",
@@ -138,7 +142,7 @@ const SUBSOLAGEM_DATA = [
     "Frente": " 53",
     "Responsável": "278400 - Vitor Amorim Ramos ",
     "Subsolagem": "39",
-    "Fazenda": NaN
+    "Fazenda": null
   },
   {
     "ID": "3405486",
@@ -158,7 +162,7 @@ const SUBSOLAGEM_DATA = [
     "Frente": " 53",
     "Responsável": "278400 - Vitor Amorim Ramos ",
     "Subsolagem": "38",
-    "Fazenda": NaN
+    "Fazenda": null
   },
   {
     "ID": "3575288",

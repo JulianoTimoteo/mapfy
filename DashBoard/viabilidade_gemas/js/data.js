@@ -1,5 +1,9 @@
-// Auto-gerado em 21/11/2026 07:33:23
-const VIABILIDADE_GEMAS_DATA = [
+/**
+ * Dados Consolidados - viabilidade_gemas
+ * Total: 2742 registros
+ * Atualizado em: 21/11/2026 07:40
+ */
+window.VIABILIDADE_GEMAS_DATA = [
   {
     "ID": "3913069",
     "Usuário": "qualidade3@usinapitangueiras.com.br",
@@ -20,7 +24,8 @@ const VIABILIDADE_GEMAS_DATA = [
     "Quantidade de Gemas Total": "60",
     "Quantidade de Gemas Viáveis": "60",
     "Quantidade de Gemas Inviáveis": "0",
-    "Fazenda": NaN
+    "Fazenda": null,
+    "Unnamed: 20": null
   },
   {
     "ID": "3913065",
@@ -42,7 +47,8 @@ const VIABILIDADE_GEMAS_DATA = [
     "Quantidade de Gemas Total": "58",
     "Quantidade de Gemas Viáveis": "58",
     "Quantidade de Gemas Inviáveis": "0",
-    "Fazenda": NaN
+    "Fazenda": null,
+    "Unnamed: 20": null
   },
   {
     "ID": "3913061",
@@ -64,7 +70,8 @@ const VIABILIDADE_GEMAS_DATA = [
     "Quantidade de Gemas Total": "60",
     "Quantidade de Gemas Viáveis": "60",
     "Quantidade de Gemas Inviáveis": "0",
-    "Fazenda": NaN
+    "Fazenda": null,
+    "Unnamed: 20": null
   },
   {
     "ID": "3913052",
@@ -86,7 +93,8 @@ const VIABILIDADE_GEMAS_DATA = [
     "Quantidade de Gemas Total": "58",
     "Quantidade de Gemas Viáveis": "58",
     "Quantidade de Gemas Inviáveis": "0",
-    "Fazenda": NaN
+    "Fazenda": null,
+    "Unnamed: 20": null
   },
   {
     "ID": "3913048",
@@ -108,7 +116,8 @@ const VIABILIDADE_GEMAS_DATA = [
     "Quantidade de Gemas Total": "59",
     "Quantidade de Gemas Viáveis": "59",
     "Quantidade de Gemas Inviáveis": "0",
-    "Fazenda": NaN
+    "Fazenda": null,
+    "Unnamed: 20": null
   },
   {
     "ID": "3913043",
@@ -130,7 +139,8 @@ const VIABILIDADE_GEMAS_DATA = [
     "Quantidade de Gemas Total": "59",
     "Quantidade de Gemas Viáveis": "59",
     "Quantidade de Gemas Inviáveis": "0",
-    "Fazenda": NaN
+    "Fazenda": null,
+    "Unnamed: 20": null
   },
   {
     "ID": "3913036",
@@ -152,7 +162,8 @@ const VIABILIDADE_GEMAS_DATA = [
     "Quantidade de Gemas Total": "59",
     "Quantidade de Gemas Viáveis": "59",
     "Quantidade de Gemas Inviáveis": "0",
-    "Fazenda": NaN
+    "Fazenda": null,
+    "Unnamed: 20": null
   },
   {
     "ID": "3909665",
@@ -174,7 +185,8 @@ const VIABILIDADE_GEMAS_DATA = [
     "Quantidade de Gemas Total": "60",
     "Quantidade de Gemas Viáveis": "60",
     "Quantidade de Gemas Inviáveis": "0",
-    "Fazenda": NaN
+    "Fazenda": null,
+    "Unnamed: 20": null
   },
   {
     "ID": "3907170",
@@ -196,7 +208,8 @@ const VIABILIDADE_GEMAS_DATA = [
     "Quantidade de Gemas Total": "60",
     "Quantidade de Gemas Viáveis": "60",
     "Quantidade de Gemas Inviáveis": "0",
-    "Fazenda": NaN
+    "Fazenda": null,
+    "Unnamed: 20": null
   },
   {
     "ID": "3907161",
@@ -218,7 +231,8 @@ const VIABILIDADE_GEMAS_DATA = [
     "Quantidade de Gemas Total": "60",
     "Quantidade de Gemas Viáveis": "60",
     "Quantidade de Gemas Inviáveis": "0",
-    "Fazenda": NaN
+    "Fazenda": null,
+    "Unnamed: 20": null
   },
   {
     "ID": "3907157",
@@ -240,7 +254,8 @@ const VIABILIDADE_GEMAS_DATA = [
     "Quantidade de Gemas Total": "60",
     "Quantidade de Gemas Viáveis": "60",
     "Quantidade de Gemas Inviáveis": "0",
-    "Fazenda": NaN
+    "Fazenda": null,
+    "Unnamed: 20": null
   },
   {
     "ID": "3907153",
@@ -262,7 +277,8 @@ const VIABILIDADE_GEMAS_DATA = [
     "Quantidade de Gemas Total": "59",
     "Quantidade de Gemas Viáveis": "59",
     "Quantidade de Gemas Inviáveis": "0",
-    "Fazenda": NaN
+    "Fazenda": null,
+    "Unnamed: 20": null
   },
   {
     "ID": "3906870",
@@ -284,7 +300,8 @@ const VIABILIDADE_GEMAS_DATA = [
     "Quantidade de Gemas Total": "60",
     "Quantidade de Gemas Viáveis": "57",
     "Quantidade de Gemas Inviáveis": "3",
-    "Fazenda": NaN
+    "Fazenda": null,
+    "Unnamed: 20": null
   },
   {
     "ID": "3906866",
@@ -306,7 +323,8 @@ const VIABILIDADE_GEMAS_DATA = [
     "Quantidade de Gemas Total": "60",
     "Quantidade de Gemas Viáveis": "60",
     "Quantidade de Gemas Inviáveis": "0",
-    "Fazenda": NaN
+    "Fazenda": null,
+    "Unnamed: 20": null
   },
   {
     "ID": "3906862",
@@ -328,7 +346,8 @@ const VIABILIDADE_GEMAS_DATA = [
     "Quantidade de Gemas Total": "58",
     "Quantidade de Gemas Viáveis": "58",
     "Quantidade de Gemas Inviáveis": "0",
-    "Fazenda": NaN
+    "Fazenda": null,
+    "Unnamed: 20": null
   },
   {
     "ID": "3906859",
@@ -350,7 +369,8 @@ const VIABILIDADE_GEMAS_DATA = [
     "Quantidade de Gemas Total": "58",
     "Quantidade de Gemas Viáveis": "58",
     "Quantidade de Gemas Inviáveis": "0",
-    "Fazenda": NaN
+    "Fazenda": null,
+    "Unnamed: 20": null
   },
   {
     "ID": "3906854",
@@ -372,7 +392,8 @@ const VIABILIDADE_GEMAS_DATA = [
     "Quantidade de Gemas Total": "60",
     "Quantidade de Gemas Viáveis": "60",
     "Quantidade de Gemas Inviáveis": "0",
-    "Fazenda": NaN
+    "Fazenda": null,
+    "Unnamed: 20": null
   },
   {
     "ID": "3906850",
@@ -394,7 +415,8 @@ const VIABILIDADE_GEMAS_DATA = [
     "Quantidade de Gemas Total": "60",
     "Quantidade de Gemas Viáveis": "60",
     "Quantidade de Gemas Inviáveis": "0",
-    "Fazenda": NaN
+    "Fazenda": null,
+    "Unnamed: 20": null
   },
   {
     "ID": "3904471",
@@ -416,7 +438,8 @@ const VIABILIDADE_GEMAS_DATA = [
     "Quantidade de Gemas Total": "60",
     "Quantidade de Gemas Viáveis": "57",
     "Quantidade de Gemas Inviáveis": "3",
-    "Fazenda": NaN
+    "Fazenda": null,
+    "Unnamed: 20": null
   },
   {
     "ID": "3904467",
@@ -438,7 +461,8 @@ const VIABILIDADE_GEMAS_DATA = [
     "Quantidade de Gemas Total": "60",
     "Quantidade de Gemas Viáveis": "60",
     "Quantidade de Gemas Inviáveis": "0",
-    "Fazenda": NaN
+    "Fazenda": null,
+    "Unnamed: 20": null
   },
   {
     "ID": "3904463",
@@ -460,7 +484,8 @@ const VIABILIDADE_GEMAS_DATA = [
     "Quantidade de Gemas Total": "60",
     "Quantidade de Gemas Viáveis": "60",
     "Quantidade de Gemas Inviáveis": "0",
-    "Fazenda": NaN
+    "Fazenda": null,
+    "Unnamed: 20": null
   },
   {
     "ID": "3904459",
@@ -482,7 +507,8 @@ const VIABILIDADE_GEMAS_DATA = [
     "Quantidade de Gemas Total": "58",
     "Quantidade de Gemas Viáveis": "58",
     "Quantidade de Gemas Inviáveis": "0",
-    "Fazenda": NaN
+    "Fazenda": null,
+    "Unnamed: 20": null
   },
   {
     "ID": "3904455",
@@ -504,7 +530,8 @@ const VIABILIDADE_GEMAS_DATA = [
     "Quantidade de Gemas Total": "59",
     "Quantidade de Gemas Viáveis": "59",
     "Quantidade de Gemas Inviáveis": "0",
-    "Fazenda": NaN
+    "Fazenda": null,
+    "Unnamed: 20": null
   },
   {
     "ID": "3904421",
@@ -526,7 +553,8 @@ const VIABILIDADE_GEMAS_DATA = [
     "Quantidade de Gemas Total": "60",
     "Quantidade de Gemas Viáveis": "60",
     "Quantidade de Gemas Inviáveis": "0",
-    "Fazenda": NaN
+    "Fazenda": null,
+    "Unnamed: 20": null
   },
   {
     "ID": "3904417",
@@ -548,7 +576,8 @@ const VIABILIDADE_GEMAS_DATA = [
     "Quantidade de Gemas Total": "59",
     "Quantidade de Gemas Viáveis": "59",
     "Quantidade de Gemas Inviáveis": "0",
-    "Fazenda": NaN
+    "Fazenda": null,
+    "Unnamed: 20": null
   },
   {
     "ID": "3902252",
@@ -570,7 +599,8 @@ const VIABILIDADE_GEMAS_DATA = [
     "Quantidade de Gemas Total": "58",
     "Quantidade de Gemas Viáveis": "58",
     "Quantidade de Gemas Inviáveis": "0",
-    "Fazenda": NaN
+    "Fazenda": null,
+    "Unnamed: 20": null
   },
   {
     "ID": "3902246",
@@ -592,7 +622,8 @@ const VIABILIDADE_GEMAS_DATA = [
     "Quantidade de Gemas Total": "60",
     "Quantidade de Gemas Viáveis": "57",
     "Quantidade de Gemas Inviáveis": "3",
-    "Fazenda": NaN
+    "Fazenda": null,
+    "Unnamed: 20": null
   },
   {
     "ID": "3902205",
@@ -614,7 +645,8 @@ const VIABILIDADE_GEMAS_DATA = [
     "Quantidade de Gemas Total": "59",
     "Quantidade de Gemas Viáveis": "59",
     "Quantidade de Gemas Inviáveis": "0",
-    "Fazenda": NaN
+    "Fazenda": null,
+    "Unnamed: 20": null
   },
   {
     "ID": "3902201",
@@ -636,7 +668,8 @@ const VIABILIDADE_GEMAS_DATA = [
     "Quantidade de Gemas Total": "60",
     "Quantidade de Gemas Viáveis": "60",
     "Quantidade de Gemas Inviáveis": "0",
-    "Fazenda": NaN
+    "Fazenda": null,
+    "Unnamed: 20": null
   },
   {
     "ID": "3902194",
@@ -658,7 +691,8 @@ const VIABILIDADE_GEMAS_DATA = [
     "Quantidade de Gemas Total": "60",
     "Quantidade de Gemas Viáveis": "60",
     "Quantidade de Gemas Inviáveis": "0",
-    "Fazenda": NaN
+    "Fazenda": null,
+    "Unnamed: 20": null
   },
   {
     "ID": "3902169",
@@ -680,7 +714,8 @@ const VIABILIDADE_GEMAS_DATA = [
     "Quantidade de Gemas Total": "59",
     "Quantidade de Gemas Viáveis": "59",
     "Quantidade de Gemas Inviáveis": "0",
-    "Fazenda": NaN
+    "Fazenda": null,
+    "Unnamed: 20": null
   },
   {
     "ID": "3902165",
@@ -702,7 +737,8 @@ const VIABILIDADE_GEMAS_DATA = [
     "Quantidade de Gemas Total": "60",
     "Quantidade de Gemas Viáveis": "60",
     "Quantidade de Gemas Inviáveis": "0",
-    "Fazenda": NaN
+    "Fazenda": null,
+    "Unnamed: 20": null
   },
   {
     "ID": "3902161",
@@ -724,7 +760,8 @@ const VIABILIDADE_GEMAS_DATA = [
     "Quantidade de Gemas Total": "58",
     "Quantidade de Gemas Viáveis": "58",
     "Quantidade de Gemas Inviáveis": "0",
-    "Fazenda": NaN
+    "Fazenda": null,
+    "Unnamed: 20": null
   },
   {
     "ID": "3902157",
@@ -746,7 +783,8 @@ const VIABILIDADE_GEMAS_DATA = [
     "Quantidade de Gemas Total": "59",
     "Quantidade de Gemas Viáveis": "59",
     "Quantidade de Gemas Inviáveis": "0",
-    "Fazenda": NaN
+    "Fazenda": null,
+    "Unnamed: 20": null
   },
   {
     "ID": "3901767",
@@ -768,7 +806,8 @@ const VIABILIDADE_GEMAS_DATA = [
     "Quantidade de Gemas Total": "60",
     "Quantidade de Gemas Viáveis": "60",
     "Quantidade de Gemas Inviáveis": "0",
-    "Fazenda": NaN
+    "Fazenda": null,
+    "Unnamed: 20": null
   },
   {
     "ID": "3899149",
@@ -790,7 +829,8 @@ const VIABILIDADE_GEMAS_DATA = [
     "Quantidade de Gemas Total": "60",
     "Quantidade de Gemas Viáveis": "57",
     "Quantidade de Gemas Inviáveis": "3",
-    "Fazenda": NaN
+    "Fazenda": null,
+    "Unnamed: 20": null
   },
   {
     "ID": "3899143",
@@ -812,7 +852,8 @@ const VIABILIDADE_GEMAS_DATA = [
     "Quantidade de Gemas Total": "60",
     "Quantidade de Gemas Viáveis": "60",
     "Quantidade de Gemas Inviáveis": "0",
-    "Fazenda": NaN
+    "Fazenda": null,
+    "Unnamed: 20": null
   },
   {
     "ID": "3899011",
@@ -834,7 +875,8 @@ const VIABILIDADE_GEMAS_DATA = [
     "Quantidade de Gemas Total": "59",
     "Quantidade de Gemas Viáveis": "59",
     "Quantidade de Gemas Inviáveis": "0",
-    "Fazenda": NaN
+    "Fazenda": null,
+    "Unnamed: 20": null
   },
   {
     "ID": "3899007",
@@ -856,7 +898,8 @@ const VIABILIDADE_GEMAS_DATA = [
     "Quantidade de Gemas Total": "58",
     "Quantidade de Gemas Viáveis": "58",
     "Quantidade de Gemas Inviáveis": "0",
-    "Fazenda": NaN
+    "Fazenda": null,
+    "Unnamed: 20": null
   },
   {
     "ID": "3899001",
@@ -878,7 +921,8 @@ const VIABILIDADE_GEMAS_DATA = [
     "Quantidade de Gemas Total": "60",
     "Quantidade de Gemas Viáveis": "57",
     "Quantidade de Gemas Inviáveis": "3",
-    "Fazenda": NaN
+    "Fazenda": null,
+    "Unnamed: 20": null
   },
   {
     "ID": "3898998",
@@ -900,7 +944,8 @@ const VIABILIDADE_GEMAS_DATA = [
     "Quantidade de Gemas Total": "59",
     "Quantidade de Gemas Viáveis": "59",
     "Quantidade de Gemas Inviáveis": "0",
-    "Fazenda": NaN
+    "Fazenda": null,
+    "Unnamed: 20": null
   },
   {
     "ID": "3898987",
@@ -922,7 +967,8 @@ const VIABILIDADE_GEMAS_DATA = [
     "Quantidade de Gemas Total": "60",
     "Quantidade de Gemas Viáveis": "60",
     "Quantidade de Gemas Inviáveis": "0",
-    "Fazenda": NaN
+    "Fazenda": null,
+    "Unnamed: 20": null
   },
   {
     "ID": "3898984",
@@ -944,7 +990,8 @@ const VIABILIDADE_GEMAS_DATA = [
     "Quantidade de Gemas Total": "58",
     "Quantidade de Gemas Viáveis": "58",
     "Quantidade de Gemas Inviáveis": "0",
-    "Fazenda": NaN
+    "Fazenda": null,
+    "Unnamed: 20": null
   },
   {
     "ID": "3898980",
@@ -966,7 +1013,8 @@ const VIABILIDADE_GEMAS_DATA = [
     "Quantidade de Gemas Total": "59",
     "Quantidade de Gemas Viáveis": "59",
     "Quantidade de Gemas Inviáveis": "0",
-    "Fazenda": NaN
+    "Fazenda": null,
+    "Unnamed: 20": null
   },
   {
     "ID": "3898973",
@@ -988,7 +1036,8 @@ const VIABILIDADE_GEMAS_DATA = [
     "Quantidade de Gemas Total": "60",
     "Quantidade de Gemas Viáveis": "60",
     "Quantidade de Gemas Inviáveis": "0",
-    "Fazenda": NaN
+    "Fazenda": null,
+    "Unnamed: 20": null
   },
   {
     "ID": "3896727",
@@ -1010,7 +1059,8 @@ const VIABILIDADE_GEMAS_DATA = [
     "Quantidade de Gemas Total": "60",
     "Quantidade de Gemas Viáveis": "60",
     "Quantidade de Gemas Inviáveis": "0",
-    "Fazenda": NaN
+    "Fazenda": null,
+    "Unnamed: 20": null
   },
   {
     "ID": "3896724",
@@ -1032,7 +1082,8 @@ const VIABILIDADE_GEMAS_DATA = [
     "Quantidade de Gemas Total": "59",
     "Quantidade de Gemas Viáveis": "59",
     "Quantidade de Gemas Inviáveis": "0",
-    "Fazenda": NaN
+    "Fazenda": null,
+    "Unnamed: 20": null
   },
   {
     "ID": "3896716",
@@ -1054,7 +1105,8 @@ const VIABILIDADE_GEMAS_DATA = [
     "Quantidade de Gemas Total": "57",
     "Quantidade de Gemas Viáveis": "57",
     "Quantidade de Gemas Inviáveis": "0",
-    "Fazenda": NaN
+    "Fazenda": null,
+    "Unnamed: 20": null
   },
   {
     "ID": "3896713",
@@ -1076,7 +1128,8 @@ const VIABILIDADE_GEMAS_DATA = [
     "Quantidade de Gemas Total": "60",
     "Quantidade de Gemas Viáveis": "56",
     "Quantidade de Gemas Inviáveis": "4",
-    "Fazenda": NaN
+    "Fazenda": null,
+    "Unnamed: 20": null
   },
   {
     "ID": "3896709",
@@ -1098,7 +1151,8 @@ const VIABILIDADE_GEMAS_DATA = [
     "Quantidade de Gemas Total": "49",
     "Quantidade de Gemas Viáveis": "49",
     "Quantidade de Gemas Inviáveis": "0",
-    "Fazenda": NaN
+    "Fazenda": null,
+    "Unnamed: 20": null
   },
   {
     "ID": "3896705",
@@ -1120,7 +1174,8 @@ const VIABILIDADE_GEMAS_DATA = [
     "Quantidade de Gemas Total": "60",
     "Quantidade de Gemas Viáveis": "60",
     "Quantidade de Gemas Inviáveis": "0",
-    "Fazenda": NaN
+    "Fazenda": null,
+    "Unnamed: 20": null
   },
   {
     "ID": "3896274",
@@ -1142,7 +1197,8 @@ const VIABILIDADE_GEMAS_DATA = [
     "Quantidade de Gemas Total": "60",
     "Quantidade de Gemas Viáveis": "60",
     "Quantidade de Gemas Inviáveis": "0",
-    "Fazenda": NaN
+    "Fazenda": null,
+    "Unnamed: 20": null
   },
   {
     "ID": "3896268",
@@ -1164,7 +1220,8 @@ const VIABILIDADE_GEMAS_DATA = [
     "Quantidade de Gemas Total": "59",
     "Quantidade de Gemas Viáveis": "59",
     "Quantidade de Gemas Inviáveis": "0",
-    "Fazenda": NaN
+    "Fazenda": null,
+    "Unnamed: 20": null
   },
   {
     "ID": "3896129",
@@ -1186,7 +1243,8 @@ const VIABILIDADE_GEMAS_DATA = [
     "Quantidade de Gemas Total": "52",
     "Quantidade de Gemas Viáveis": "52",
     "Quantidade de Gemas Inviáveis": "0",
-    "Fazenda": NaN
+    "Fazenda": null,
+    "Unnamed: 20": null
   },
   {
     "ID": "3896252",
@@ -1208,7 +1266,8 @@ const VIABILIDADE_GEMAS_DATA = [
     "Quantidade de Gemas Total": "60",
     "Quantidade de Gemas Viáveis": "60",
     "Quantidade de Gemas Inviáveis": "0",
-    "Fazenda": NaN
+    "Fazenda": null,
+    "Unnamed: 20": null
   },
   {
     "ID": "3896126",
@@ -1230,7 +1289,8 @@ const VIABILIDADE_GEMAS_DATA = [
     "Quantidade de Gemas Total": "64",
     "Quantidade de Gemas Viáveis": "58",
     "Quantidade de Gemas Inviáveis": "6",
-    "Fazenda": NaN
+    "Fazenda": null,
+    "Unnamed: 20": null
   },
   {
     "ID": "3896248",
@@ -1252,7 +1312,8 @@ const VIABILIDADE_GEMAS_DATA = [
     "Quantidade de Gemas Total": "59",
     "Quantidade de Gemas Viáveis": "59",
     "Quantidade de Gemas Inviáveis": "0",
-    "Fazenda": NaN
+    "Fazenda": null,
+    "Unnamed: 20": null
   },
   {
     "ID": "3896121",
@@ -1274,7 +1335,8 @@ const VIABILIDADE_GEMAS_DATA = [
     "Quantidade de Gemas Total": "68",
     "Quantidade de Gemas Viáveis": "63",
     "Quantidade de Gemas Inviáveis": "5",
-    "Fazenda": NaN
+    "Fazenda": null,
+    "Unnamed: 20": null
   },
   {
     "ID": "3893910",
@@ -1296,7 +1358,8 @@ const VIABILIDADE_GEMAS_DATA = [
     "Quantidade de Gemas Total": "58",
     "Quantidade de Gemas Viáveis": "58",
     "Quantidade de Gemas Inviáveis": "0",
-    "Fazenda": NaN
+    "Fazenda": null,
+    "Unnamed: 20": null
   },
   {
     "ID": "3893907",
@@ -1318,7 +1381,8 @@ const VIABILIDADE_GEMAS_DATA = [
     "Quantidade de Gemas Total": "60",
     "Quantidade de Gemas Viáveis": "60",
     "Quantidade de Gemas Inviáveis": "0",
-    "Fazenda": NaN
+    "Fazenda": null,
+    "Unnamed: 20": null
   },
   {
     "ID": "3893902",
@@ -1340,7 +1404,8 @@ const VIABILIDADE_GEMAS_DATA = [
     "Quantidade de Gemas Total": "57",
     "Quantidade de Gemas Viáveis": "57",
     "Quantidade de Gemas Inviáveis": "0",
-    "Fazenda": NaN
+    "Fazenda": null,
+    "Unnamed: 20": null
   },
   {
     "ID": "3893889",
@@ -1362,7 +1427,8 @@ const VIABILIDADE_GEMAS_DATA = [
     "Quantidade de Gemas Total": "60",
     "Quantidade de Gemas Viáveis": "60",
     "Quantidade de Gemas Inviáveis": "0",
-    "Fazenda": NaN
+    "Fazenda": null,
+    "Unnamed: 20": null
   },
   {
     "ID": "3893885",
@@ -1384,7 +1450,8 @@ const VIABILIDADE_GEMAS_DATA = [
     "Quantidade de Gemas Total": "58",
     "Quantidade de Gemas Viáveis": "58",
     "Quantidade de Gemas Inviáveis": "0",
-    "Fazenda": NaN
+    "Fazenda": null,
+    "Unnamed: 20": null
   },
   {
     "ID": "3893882",
@@ -1406,7 +1473,8 @@ const VIABILIDADE_GEMAS_DATA = [
     "Quantidade de Gemas Total": "58",
     "Quantidade de Gemas Viáveis": "58",
     "Quantidade de Gemas Inviáveis": "0",
-    "Fazenda": NaN
+    "Fazenda": null,
+    "Unnamed: 20": null
   },
   {
     "ID": "3893877",
@@ -1428,7 +1496,8 @@ const VIABILIDADE_GEMAS_DATA = [
     "Quantidade de Gemas Total": "59",
     "Quantidade de Gemas Viáveis": "59",
     "Quantidade de Gemas Inviáveis": "0",
-    "Fazenda": NaN
+    "Fazenda": null,
+    "Unnamed: 20": null
   },
   {
     "ID": "3893873",
@@ -1450,7 +1519,8 @@ const VIABILIDADE_GEMAS_DATA = [
     "Quantidade de Gemas Total": "60",
     "Quantidade de Gemas Viáveis": "60",
     "Quantidade de Gemas Inviáveis": "0",
-    "Fazenda": NaN
+    "Fazenda": null,
+    "Unnamed: 20": null
   },
   {
     "ID": "3887004",
@@ -1472,7 +1542,8 @@ const VIABILIDADE_GEMAS_DATA = [
     "Quantidade de Gemas Total": "58",
     "Quantidade de Gemas Viáveis": "58",
     "Quantidade de Gemas Inviáveis": "0",
-    "Fazenda": NaN
+    "Fazenda": null,
+    "Unnamed: 20": null
   },
   {
     "ID": "3886999",
@@ -1494,7 +1565,8 @@ const VIABILIDADE_GEMAS_DATA = [
     "Quantidade de Gemas Total": "59",
     "Quantidade de Gemas Viáveis": "59",
     "Quantidade de Gemas Inviáveis": "0",
-    "Fazenda": NaN
+    "Fazenda": null,
+    "Unnamed: 20": null
   },
   {
     "ID": "3886996",
@@ -1516,7 +1588,8 @@ const VIABILIDADE_GEMAS_DATA = [
     "Quantidade de Gemas Total": "60",
     "Quantidade de Gemas Viáveis": "60",
     "Quantidade de Gemas Inviáveis": "0",
-    "Fazenda": NaN
+    "Fazenda": null,
+    "Unnamed: 20": null
   },
   {
     "ID": "3886990",
@@ -1538,7 +1611,8 @@ const VIABILIDADE_GEMAS_DATA = [
     "Quantidade de Gemas Total": "60",
     "Quantidade de Gemas Viáveis": "60",
     "Quantidade de Gemas Inviáveis": "0",
-    "Fazenda": NaN
+    "Fazenda": null,
+    "Unnamed: 20": null
   },
   {
     "ID": "3886986",
@@ -1560,7 +1634,8 @@ const VIABILIDADE_GEMAS_DATA = [
     "Quantidade de Gemas Total": "59",
     "Quantidade de Gemas Viáveis": "59",
     "Quantidade de Gemas Inviáveis": "0",
-    "Fazenda": NaN
+    "Fazenda": null,
+    "Unnamed: 20": null
   },
   {
     "ID": "3886978",
@@ -1582,7 +1657,8 @@ const VIABILIDADE_GEMAS_DATA = [
     "Quantidade de Gemas Total": "60",
     "Quantidade de Gemas Viáveis": "60",
     "Quantidade de Gemas Inviáveis": "0",
-    "Fazenda": NaN
+    "Fazenda": null,
+    "Unnamed: 20": null
   },
   {
     "ID": "3886972",
@@ -1604,7 +1680,8 @@ const VIABILIDADE_GEMAS_DATA = [
     "Quantidade de Gemas Total": "58",
     "Quantidade de Gemas Viáveis": "58",
     "Quantidade de Gemas Inviáveis": "0",
-    "Fazenda": NaN
+    "Fazenda": null,
+    "Unnamed: 20": null
   },
   {
     "ID": "3886961",
@@ -1626,7 +1703,8 @@ const VIABILIDADE_GEMAS_DATA = [
     "Quantidade de Gemas Total": "60",
     "Quantidade de Gemas Viáveis": "60",
     "Quantidade de Gemas Inviáveis": "0",
-    "Fazenda": NaN
+    "Fazenda": null,
+    "Unnamed: 20": null
   },
   {
     "ID": "3887086",
@@ -1648,7 +1726,8 @@ const VIABILIDADE_GEMAS_DATA = [
     "Quantidade de Gemas Total": "60",
     "Quantidade de Gemas Viáveis": "60",
     "Quantidade de Gemas Inviáveis": "0",
-    "Fazenda": NaN
+    "Fazenda": null,
+    "Unnamed: 20": null
   },
   {
     "ID": "3886948",
@@ -1670,7 +1749,8 @@ const VIABILIDADE_GEMAS_DATA = [
     "Quantidade de Gemas Total": "58",
     "Quantidade de Gemas Viáveis": "58",
     "Quantidade de Gemas Inviáveis": "0",
-    "Fazenda": NaN
+    "Fazenda": null,
+    "Unnamed: 20": null
   },
   {
     "ID": "3887088",
@@ -1692,7 +1772,8 @@ const VIABILIDADE_GEMAS_DATA = [
     "Quantidade de Gemas Total": "58",
     "Quantidade de Gemas Viáveis": "58",
     "Quantidade de Gemas Inviáveis": "0",
-    "Fazenda": NaN
+    "Fazenda": null,
+    "Unnamed: 20": null
   },
   {
     "ID": "3884074",
@@ -1714,7 +1795,8 @@ const VIABILIDADE_GEMAS_DATA = [
     "Quantidade de Gemas Total": "58",
     "Quantidade de Gemas Viáveis": "58",
     "Quantidade de Gemas Inviáveis": "0",
-    "Fazenda": NaN
+    "Fazenda": null,
+    "Unnamed: 20": null
   },
   {
     "ID": "3884069",
@@ -1736,7 +1818,8 @@ const VIABILIDADE_GEMAS_DATA = [
     "Quantidade de Gemas Total": "59",
     "Quantidade de Gemas Viáveis": "59",
     "Quantidade de Gemas Inviáveis": "0",
-    "Fazenda": NaN
+    "Fazenda": null,
+    "Unnamed: 20": null
   },
   {
     "ID": "3884064",
@@ -1758,7 +1841,8 @@ const VIABILIDADE_GEMAS_DATA = [
     "Quantidade de Gemas Total": "60",
     "Quantidade de Gemas Viáveis": "60",
     "Quantidade de Gemas Inviáveis": "0",
-    "Fazenda": NaN
+    "Fazenda": null,
+    "Unnamed: 20": null
   },
   {
     "ID": "3884062",
@@ -1780,7 +1864,8 @@ const VIABILIDADE_GEMAS_DATA = [
     "Quantidade de Gemas Total": "58",
     "Quantidade de Gemas Viáveis": "58",
     "Quantidade de Gemas Inviáveis": "0",
-    "Fazenda": NaN
+    "Fazenda": null,
+    "Unnamed: 20": null
   },
   {
     "ID": "3884058",
@@ -1802,7 +1887,8 @@ const VIABILIDADE_GEMAS_DATA = [
     "Quantidade de Gemas Total": "60",
     "Quantidade de Gemas Viáveis": "60",
     "Quantidade de Gemas Inviáveis": "0",
-    "Fazenda": NaN
+    "Fazenda": null,
+    "Unnamed: 20": null
   },
   {
     "ID": "3880984",
@@ -1824,7 +1910,8 @@ const VIABILIDADE_GEMAS_DATA = [
     "Quantidade de Gemas Total": "59",
     "Quantidade de Gemas Viáveis": "59",
     "Quantidade de Gemas Inviáveis": "0",
-    "Fazenda": NaN
+    "Fazenda": null,
+    "Unnamed: 20": null
   },
   {
     "ID": "3880976",
@@ -1846,7 +1933,8 @@ const VIABILIDADE_GEMAS_DATA = [
     "Quantidade de Gemas Total": "60",
     "Quantidade de Gemas Viáveis": "60",
     "Quantidade de Gemas Inviáveis": "0",
-    "Fazenda": NaN
+    "Fazenda": null,
+    "Unnamed: 20": null
   },
   {
     "ID": "3880972",
@@ -1868,7 +1956,8 @@ const VIABILIDADE_GEMAS_DATA = [
     "Quantidade de Gemas Total": "59",
     "Quantidade de Gemas Viáveis": "59",
     "Quantidade de Gemas Inviáveis": "0",
-    "Fazenda": NaN
+    "Fazenda": null,
+    "Unnamed: 20": null
   },
   {
     "ID": "3880968",
@@ -1890,7 +1979,8 @@ const VIABILIDADE_GEMAS_DATA = [
     "Quantidade de Gemas Total": "60",
     "Quantidade de Gemas Viáveis": "56",
     "Quantidade de Gemas Inviáveis": "4",
-    "Fazenda": NaN
+    "Fazenda": null,
+    "Unnamed: 20": null
   },
   {
     "ID": "3880992",
@@ -1912,7 +2002,8 @@ const VIABILIDADE_GEMAS_DATA = [
     "Quantidade de Gemas Total": "60",
     "Quantidade de Gemas Viáveis": "60",
     "Quantidade de Gemas Inviáveis": "0",
-    "Fazenda": NaN
+    "Fazenda": null,
+    "Unnamed: 20": null
   },
   {
     "ID": "3880916",
@@ -1934,7 +2025,8 @@ const VIABILIDADE_GEMAS_DATA = [
     "Quantidade de Gemas Total": "60",
     "Quantidade de Gemas Viáveis": "60",
     "Quantidade de Gemas Inviáveis": "0",
-    "Fazenda": NaN
+    "Fazenda": null,
+    "Unnamed: 20": null
   },
   {
     "ID": "3880912",
@@ -1956,7 +2048,8 @@ const VIABILIDADE_GEMAS_DATA = [
     "Quantidade de Gemas Total": "59",
     "Quantidade de Gemas Viáveis": "59",
     "Quantidade de Gemas Inviáveis": "0",
-    "Fazenda": NaN
+    "Fazenda": null,
+    "Unnamed: 20": null
   },
   {
     "ID": "3880908",
@@ -1978,7 +2071,8 @@ const VIABILIDADE_GEMAS_DATA = [
     "Quantidade de Gemas Total": "58",
     "Quantidade de Gemas Viáveis": "58",
     "Quantidade de Gemas Inviáveis": "0",
-    "Fazenda": NaN
+    "Fazenda": null,
+    "Unnamed: 20": null
   },
   {
     "ID": "3880904",
@@ -2000,7 +2094,8 @@ const VIABILIDADE_GEMAS_DATA = [
     "Quantidade de Gemas Total": "49",
     "Quantidade de Gemas Viáveis": "49",
     "Quantidade de Gemas Inviáveis": "0",
-    "Fazenda": NaN
+    "Fazenda": null,
+    "Unnamed: 20": null
   },
   {
     "ID": "3880899",
@@ -2022,7 +2117,8 @@ const VIABILIDADE_GEMAS_DATA = [
     "Quantidade de Gemas Total": "60",
     "Quantidade de Gemas Viáveis": "60",
     "Quantidade de Gemas Inviáveis": "0",
-    "Fazenda": NaN
+    "Fazenda": null,
+    "Unnamed: 20": null
   },
   {
     "ID": "3878191",
@@ -2044,7 +2140,8 @@ const VIABILIDADE_GEMAS_DATA = [
     "Quantidade de Gemas Total": "59",
     "Quantidade de Gemas Viáveis": "59",
     "Quantidade de Gemas Inviáveis": "0",
-    "Fazenda": NaN
+    "Fazenda": null,
+    "Unnamed: 20": null
   },
   {
     "ID": "3878188",
@@ -2066,7 +2163,8 @@ const VIABILIDADE_GEMAS_DATA = [
     "Quantidade de Gemas Total": "59",
     "Quantidade de Gemas Viáveis": "59",
     "Quantidade de Gemas Inviáveis": "0",
-    "Fazenda": NaN
+    "Fazenda": null,
+    "Unnamed: 20": null
   },
   {
     "ID": "3877799",
@@ -2088,7 +2186,8 @@ const VIABILIDADE_GEMAS_DATA = [
     "Quantidade de Gemas Total": "60",
     "Quantidade de Gemas Viáveis": "60",
     "Quantidade de Gemas Inviáveis": "0",
-    "Fazenda": NaN
+    "Fazenda": null,
+    "Unnamed: 20": null
   },
   {
     "ID": "3877796",
@@ -2110,7 +2209,8 @@ const VIABILIDADE_GEMAS_DATA = [
     "Quantidade de Gemas Total": "60",
     "Quantidade de Gemas Viáveis": "60",
     "Quantidade de Gemas Inviáveis": "0",
-    "Fazenda": NaN
+    "Fazenda": null,
+    "Unnamed: 20": null
   },
   {
     "ID": "3877792",
@@ -2132,7 +2232,8 @@ const VIABILIDADE_GEMAS_DATA = [
     "Quantidade de Gemas Total": "57",
     "Quantidade de Gemas Viáveis": "57",
     "Quantidade de Gemas Inviáveis": "0",
-    "Fazenda": NaN
+    "Fazenda": null,
+    "Unnamed: 20": null
   },
   {
     "ID": "3877787",
@@ -2154,7 +2255,8 @@ const VIABILIDADE_GEMAS_DATA = [
     "Quantidade de Gemas Total": "60",
     "Quantidade de Gemas Viáveis": "60",
     "Quantidade de Gemas Inviáveis": "0",
-    "Fazenda": NaN
+    "Fazenda": null,
+    "Unnamed: 20": null
   },
   {
     "ID": "3877784",
@@ -2176,7 +2278,8 @@ const VIABILIDADE_GEMAS_DATA = [
     "Quantidade de Gemas Total": "57",
     "Quantidade de Gemas Viáveis": "57",
     "Quantidade de Gemas Inviáveis": "0",
-    "Fazenda": NaN
+    "Fazenda": null,
+    "Unnamed: 20": null
   },
   {
     "ID": "3877779",
@@ -2198,7 +2301,8 @@ const VIABILIDADE_GEMAS_DATA = [
     "Quantidade de Gemas Total": "60",
     "Quantidade de Gemas Viáveis": "60",
     "Quantidade de Gemas Inviáveis": "0",
-    "Fazenda": NaN
+    "Fazenda": null,
+    "Unnamed: 20": null
   },
   {
     "ID": "3877770",
@@ -2220,7 +2324,8 @@ const VIABILIDADE_GEMAS_DATA = [
     "Quantidade de Gemas Total": "58",
     "Quantidade de Gemas Viáveis": "58",
     "Quantidade de Gemas Inviáveis": "0",
-    "Fazenda": NaN
+    "Fazenda": null,
+    "Unnamed: 20": null
   },
   {
     "ID": "3877758",
@@ -2242,7 +2347,8 @@ const VIABILIDADE_GEMAS_DATA = [
     "Quantidade de Gemas Total": "60",
     "Quantidade de Gemas Viáveis": "60",
     "Quantidade de Gemas Inviáveis": "0",
-    "Fazenda": NaN
+    "Fazenda": null,
+    "Unnamed: 20": null
   },
   {
     "ID": "3877751",
@@ -2264,7 +2370,8 @@ const VIABILIDADE_GEMAS_DATA = [
     "Quantidade de Gemas Total": "59",
     "Quantidade de Gemas Viáveis": "59",
     "Quantidade de Gemas Inviáveis": "0",
-    "Fazenda": NaN
+    "Fazenda": null,
+    "Unnamed: 20": null
   },
   {
     "ID": "3874796",
@@ -2286,7 +2393,8 @@ const VIABILIDADE_GEMAS_DATA = [
     "Quantidade de Gemas Total": "60",
     "Quantidade de Gemas Viáveis": "60",
     "Quantidade de Gemas Inviáveis": "0",
-    "Fazenda": NaN
+    "Fazenda": null,
+    "Unnamed: 20": null
   },
   {
     "ID": "3874789",
@@ -2308,7 +2416,8 @@ const VIABILIDADE_GEMAS_DATA = [
     "Quantidade de Gemas Total": "59",
     "Quantidade de Gemas Viáveis": "59",
     "Quantidade de Gemas Inviáveis": "0",
-    "Fazenda": NaN
+    "Fazenda": null,
+    "Unnamed: 20": null
   },
   {
     "ID": "3874785",
@@ -2330,7 +2439,8 @@ const VIABILIDADE_GEMAS_DATA = [
     "Quantidade de Gemas Total": "58",
     "Quantidade de Gemas Viáveis": "58",
     "Quantidade de Gemas Inviáveis": "0",
-    "Fazenda": NaN
+    "Fazenda": null,
+    "Unnamed: 20": null
   },
   {
     "ID": "3874782",
@@ -2352,7 +2462,8 @@ const VIABILIDADE_GEMAS_DATA = [
     "Quantidade de Gemas Total": "59",
     "Quantidade de Gemas Viáveis": "59",
     "Quantidade de Gemas Inviáveis": "0",
-    "Fazenda": NaN
+    "Fazenda": null,
+    "Unnamed: 20": null
   },
   {
     "ID": "3874778",
@@ -2374,7 +2485,8 @@ const VIABILIDADE_GEMAS_DATA = [
     "Quantidade de Gemas Total": "60",
     "Quantidade de Gemas Viáveis": "60",
     "Quantidade de Gemas Inviáveis": "0",
-    "Fazenda": NaN
+    "Fazenda": null,
+    "Unnamed: 20": null
   },
   {
     "ID": "3872799",
@@ -2396,7 +2508,8 @@ const VIABILIDADE_GEMAS_DATA = [
     "Quantidade de Gemas Total": "58",
     "Quantidade de Gemas Viáveis": "58",
     "Quantidade de Gemas Inviáveis": "0",
-    "Fazenda": NaN
+    "Fazenda": null,
+    "Unnamed: 20": null
   },
   {
     "ID": "3872792",
@@ -2418,7 +2531,8 @@ const VIABILIDADE_GEMAS_DATA = [
     "Quantidade de Gemas Total": "60",
     "Quantidade de Gemas Viáveis": "57",
     "Quantidade de Gemas Inviáveis": "3",
-    "Fazenda": NaN
+    "Fazenda": null,
+    "Unnamed: 20": null
   },
   {
     "ID": "3872788",
@@ -2440,7 +2554,8 @@ const VIABILIDADE_GEMAS_DATA = [
     "Quantidade de Gemas Total": "58",
     "Quantidade de Gemas Viáveis": "58",
     "Quantidade de Gemas Inviáveis": "0",
-    "Fazenda": NaN
+    "Fazenda": null,
+    "Unnamed: 20": null
   },
   {
     "ID": "3872785",
@@ -2462,7 +2577,8 @@ const VIABILIDADE_GEMAS_DATA = [
     "Quantidade de Gemas Total": "60",
     "Quantidade de Gemas Viáveis": "60",
     "Quantidade de Gemas Inviáveis": "0",
-    "Fazenda": NaN
+    "Fazenda": null,
+    "Unnamed: 20": null
   },
   {
     "ID": "3872776",
@@ -2484,7 +2600,8 @@ const VIABILIDADE_GEMAS_DATA = [
     "Quantidade de Gemas Total": "60",
     "Quantidade de Gemas Viáveis": "57",
     "Quantidade de Gemas Inviáveis": "0",
-    "Fazenda": NaN
+    "Fazenda": null,
+    "Unnamed: 20": null
   },
   {
     "ID": "3872773",
@@ -2506,7 +2623,8 @@ const VIABILIDADE_GEMAS_DATA = [
     "Quantidade de Gemas Total": "59",
     "Quantidade de Gemas Viáveis": "59",
     "Quantidade de Gemas Inviáveis": "0",
-    "Fazenda": NaN
+    "Fazenda": null,
+    "Unnamed: 20": null
   },
   {
     "ID": "3872768",
@@ -2528,7 +2646,8 @@ const VIABILIDADE_GEMAS_DATA = [
     "Quantidade de Gemas Total": "60",
     "Quantidade de Gemas Viáveis": "58",
     "Quantidade de Gemas Inviáveis": "2",
-    "Fazenda": NaN
+    "Fazenda": null,
+    "Unnamed: 20": null
   },
   {
     "ID": "3872762",
@@ -2550,7 +2669,8 @@ const VIABILIDADE_GEMAS_DATA = [
     "Quantidade de Gemas Total": "58",
     "Quantidade de Gemas Viáveis": "58",
     "Quantidade de Gemas Inviáveis": "0",
-    "Fazenda": NaN
+    "Fazenda": null,
+    "Unnamed: 20": null
   },
   {
     "ID": "3872725",
@@ -2572,7 +2692,8 @@ const VIABILIDADE_GEMAS_DATA = [
     "Quantidade de Gemas Total": "58",
     "Quantidade de Gemas Viáveis": "58",
     "Quantidade de Gemas Inviáveis": "0",
-    "Fazenda": NaN
+    "Fazenda": null,
+    "Unnamed: 20": null
   },
   {
     "ID": "3872722",
@@ -2594,7 +2715,8 @@ const VIABILIDADE_GEMAS_DATA = [
     "Quantidade de Gemas Total": "58",
     "Quantidade de Gemas Viáveis": "58",
     "Quantidade de Gemas Inviáveis": "0",
-    "Fazenda": NaN
+    "Fazenda": null,
+    "Unnamed: 20": null
   },
   {
     "ID": "3872716",
@@ -2616,7 +2738,8 @@ const VIABILIDADE_GEMAS_DATA = [
     "Quantidade de Gemas Total": "59",
     "Quantidade de Gemas Viáveis": "59",
     "Quantidade de Gemas Inviáveis": "0",
-    "Fazenda": NaN
+    "Fazenda": null,
+    "Unnamed: 20": null
   },
   {
     "ID": "3872710",
@@ -2638,7 +2761,8 @@ const VIABILIDADE_GEMAS_DATA = [
     "Quantidade de Gemas Total": "60",
     "Quantidade de Gemas Viáveis": "60",
     "Quantidade de Gemas Inviáveis": "0",
-    "Fazenda": NaN
+    "Fazenda": null,
+    "Unnamed: 20": null
   },
   {
     "ID": "3872704",
@@ -2660,7 +2784,8 @@ const VIABILIDADE_GEMAS_DATA = [
     "Quantidade de Gemas Total": "60",
     "Quantidade de Gemas Viáveis": "60",
     "Quantidade de Gemas Inviáveis": "0",
-    "Fazenda": NaN
+    "Fazenda": null,
+    "Unnamed: 20": null
   },
   {
     "ID": "3872280",
@@ -2682,7 +2807,8 @@ const VIABILIDADE_GEMAS_DATA = [
     "Quantidade de Gemas Total": "56",
     "Quantidade de Gemas Viáveis": "52",
     "Quantidade de Gemas Inviáveis": "4",
-    "Fazenda": NaN
+    "Fazenda": null,
+    "Unnamed: 20": null
   },
   {
     "ID": "3872694",
@@ -2704,7 +2830,8 @@ const VIABILIDADE_GEMAS_DATA = [
     "Quantidade de Gemas Total": "58",
     "Quantidade de Gemas Viáveis": "58",
     "Quantidade de Gemas Inviáveis": "0",
-    "Fazenda": NaN
+    "Fazenda": null,
+    "Unnamed: 20": null
   },
   {
     "ID": "3872266",
@@ -2726,7 +2853,8 @@ const VIABILIDADE_GEMAS_DATA = [
     "Quantidade de Gemas Total": "58",
     "Quantidade de Gemas Viáveis": "53",
     "Quantidade de Gemas Inviáveis": "5",
-    "Fazenda": NaN
+    "Fazenda": null,
+    "Unnamed: 20": null
   },
   {
     "ID": "3872273",
@@ -2748,7 +2876,8 @@ const VIABILIDADE_GEMAS_DATA = [
     "Quantidade de Gemas Total": "60",
     "Quantidade de Gemas Viáveis": "55",
     "Quantidade de Gemas Inviáveis": "5",
-    "Fazenda": NaN
+    "Fazenda": null,
+    "Unnamed: 20": null
   },
   {
     "ID": "3872685",
@@ -2770,7 +2899,8 @@ const VIABILIDADE_GEMAS_DATA = [
     "Quantidade de Gemas Total": "59",
     "Quantidade de Gemas Viáveis": "59",
     "Quantidade de Gemas Inviáveis": "0",
-    "Fazenda": NaN
+    "Fazenda": null,
+    "Unnamed: 20": null
   },
   {
     "ID": "3870282",
@@ -2792,7 +2922,8 @@ const VIABILIDADE_GEMAS_DATA = [
     "Quantidade de Gemas Total": "59",
     "Quantidade de Gemas Viáveis": "59",
     "Quantidade de Gemas Inviáveis": "0",
-    "Fazenda": NaN
+    "Fazenda": null,
+    "Unnamed: 20": null
   },
   {
     "ID": "3870274",
@@ -2814,7 +2945,8 @@ const VIABILIDADE_GEMAS_DATA = [
     "Quantidade de Gemas Total": "58",
     "Quantidade de Gemas Viáveis": "58",
     "Quantidade de Gemas Inviáveis": "0",
-    "Fazenda": NaN
+    "Fazenda": null,
+    "Unnamed: 20": null
   },
   {
     "ID": "3870269",
@@ -2836,7 +2968,8 @@ const VIABILIDADE_GEMAS_DATA = [
     "Quantidade de Gemas Total": "60",
     "Quantidade de Gemas Viáveis": "60",
     "Quantidade de Gemas Inviáveis": "0",
-    "Fazenda": NaN
+    "Fazenda": null,
+    "Unnamed: 20": null
   },
   {
     "ID": "3870263",
@@ -2858,7 +2991,8 @@ const VIABILIDADE_GEMAS_DATA = [
     "Quantidade de Gemas Total": "58",
     "Quantidade de Gemas Viáveis": "58",
     "Quantidade de Gemas Inviáveis": "0",
-    "Fazenda": NaN
+    "Fazenda": null,
+    "Unnamed: 20": null
   },
   {
     "ID": "3870259",
@@ -2880,7 +3014,8 @@ const VIABILIDADE_GEMAS_DATA = [
     "Quantidade de Gemas Total": "49",
     "Quantidade de Gemas Viáveis": "49",
     "Quantidade de Gemas Inviáveis": "0",
-    "Fazenda": NaN
+    "Fazenda": null,
+    "Unnamed: 20": null
   },
   {
     "ID": "3870127",
@@ -2902,7 +3037,8 @@ const VIABILIDADE_GEMAS_DATA = [
     "Quantidade de Gemas Total": "58",
     "Quantidade de Gemas Viáveis": "58",
     "Quantidade de Gemas Inviáveis": "0",
-    "Fazenda": NaN
+    "Fazenda": null,
+    "Unnamed: 20": null
   },
   {
     "ID": "3870118",
@@ -2924,7 +3060,8 @@ const VIABILIDADE_GEMAS_DATA = [
     "Quantidade de Gemas Total": "60",
     "Quantidade de Gemas Viáveis": "60",
     "Quantidade de Gemas Inviáveis": "0",
-    "Fazenda": NaN
+    "Fazenda": null,
+    "Unnamed: 20": null
   },
   {
     "ID": "3870106",
@@ -2946,7 +3083,8 @@ const VIABILIDADE_GEMAS_DATA = [
     "Quantidade de Gemas Total": "60",
     "Quantidade de Gemas Viáveis": "58",
     "Quantidade de Gemas Inviáveis": "2",
-    "Fazenda": NaN
+    "Fazenda": null,
+    "Unnamed: 20": null
   },
   {
     "ID": "3870096",
@@ -2968,7 +3106,8 @@ const VIABILIDADE_GEMAS_DATA = [
     "Quantidade de Gemas Total": "59",
     "Quantidade de Gemas Viáveis": "59",
     "Quantidade de Gemas Inviáveis": "0",
-    "Fazenda": NaN
+    "Fazenda": null,
+    "Unnamed: 20": null
   },
   {
     "ID": "3867376",
@@ -2990,7 +3129,8 @@ const VIABILIDADE_GEMAS_DATA = [
     "Quantidade de Gemas Total": "59",
     "Quantidade de Gemas Viáveis": "59",
     "Quantidade de Gemas Inviáveis": "0",
-    "Fazenda": NaN
+    "Fazenda": null,
+    "Unnamed: 20": null
   },
   {
     "ID": "3867371",
@@ -3012,7 +3152,8 @@ const VIABILIDADE_GEMAS_DATA = [
     "Quantidade de Gemas Total": "60",
     "Quantidade de Gemas Viáveis": "60",
     "Quantidade de Gemas Inviáveis": "0",
-    "Fazenda": NaN
+    "Fazenda": null,
+    "Unnamed: 20": null
   },
   {
     "ID": "3867366",
@@ -3034,7 +3175,8 @@ const VIABILIDADE_GEMAS_DATA = [
     "Quantidade de Gemas Total": "53",
     "Quantidade de Gemas Viáveis": "50",
     "Quantidade de Gemas Inviáveis": "3",
-    "Fazenda": NaN
+    "Fazenda": null,
+    "Unnamed: 20": null
   },
   {
     "ID": "3867361",
@@ -3056,7 +3198,8 @@ const VIABILIDADE_GEMAS_DATA = [
     "Quantidade de Gemas Total": "60",
     "Quantidade de Gemas Viáveis": "60",
     "Quantidade de Gemas Inviáveis": "0",
-    "Fazenda": NaN
+    "Fazenda": null,
+    "Unnamed: 20": null
   },
   {
     "ID": "3867355",
@@ -3078,7 +3221,8 @@ const VIABILIDADE_GEMAS_DATA = [
     "Quantidade de Gemas Total": "60",
     "Quantidade de Gemas Viáveis": "59",
     "Quantidade de Gemas Inviáveis": "1",
-    "Fazenda": NaN
+    "Fazenda": null,
+    "Unnamed: 20": null
   },
   {
     "ID": "3867350",
@@ -3100,7 +3244,8 @@ const VIABILIDADE_GEMAS_DATA = [
     "Quantidade de Gemas Total": "59",
     "Quantidade de Gemas Viáveis": "59",
     "Quantidade de Gemas Inviáveis": "0",
-    "Fazenda": NaN
+    "Fazenda": null,
+    "Unnamed: 20": null
   },
   {
     "ID": "3867326",
@@ -3122,7 +3267,8 @@ const VIABILIDADE_GEMAS_DATA = [
     "Quantidade de Gemas Total": "59",
     "Quantidade de Gemas Viáveis": "59",
     "Quantidade de Gemas Inviáveis": "0",
-    "Fazenda": NaN
+    "Fazenda": null,
+    "Unnamed: 20": null
   },
   {
     "ID": "3867124",
@@ -3144,7 +3290,8 @@ const VIABILIDADE_GEMAS_DATA = [
     "Quantidade de Gemas Total": "50",
     "Quantidade de Gemas Viáveis": "50",
     "Quantidade de Gemas Inviáveis": "0",
-    "Fazenda": NaN
+    "Fazenda": null,
+    "Unnamed: 20": null
   },
   {
     "ID": "3867324",
@@ -3166,7 +3313,8 @@ const VIABILIDADE_GEMAS_DATA = [
     "Quantidade de Gemas Total": "59",
     "Quantidade de Gemas Viáveis": "59",
     "Quantidade de Gemas Inviáveis": "0",
-    "Fazenda": NaN
+    "Fazenda": null,
+    "Unnamed: 20": null
   },
   {
     "ID": "3867320",
@@ -3188,7 +3336,8 @@ const VIABILIDADE_GEMAS_DATA = [
     "Quantidade de Gemas Total": "60",
     "Quantidade de Gemas Viáveis": "60",
     "Quantidade de Gemas Inviáveis": "0",
-    "Fazenda": NaN
+    "Fazenda": null,
+    "Unnamed: 20": null
   },
   {
     "ID": "3867121",
@@ -3210,7 +3359,8 @@ const VIABILIDADE_GEMAS_DATA = [
     "Quantidade de Gemas Total": "68",
     "Quantidade de Gemas Viáveis": "61",
     "Quantidade de Gemas Inviáveis": "7",
-    "Fazenda": NaN
+    "Fazenda": null,
+    "Unnamed: 20": null
   },
   {
     "ID": "3867118",
@@ -3232,7 +3382,8 @@ const VIABILIDADE_GEMAS_DATA = [
     "Quantidade de Gemas Total": "65",
     "Quantidade de Gemas Viáveis": "58",
     "Quantidade de Gemas Inviáveis": "7",
-    "Fazenda": NaN
+    "Fazenda": null,
+    "Unnamed: 20": null
   },
   {
     "ID": "3867314",
@@ -3254,7 +3405,8 @@ const VIABILIDADE_GEMAS_DATA = [
     "Quantidade de Gemas Total": "60",
     "Quantidade de Gemas Viáveis": "60",
     "Quantidade de Gemas Inviáveis": "0",
-    "Fazenda": NaN
+    "Fazenda": null,
+    "Unnamed: 20": null
   },
   {
     "ID": "3867116",
@@ -3276,7 +3428,8 @@ const VIABILIDADE_GEMAS_DATA = [
     "Quantidade de Gemas Total": "56",
     "Quantidade de Gemas Viáveis": "52",
     "Quantidade de Gemas Inviáveis": "4",
-    "Fazenda": NaN
+    "Fazenda": null,
+    "Unnamed: 20": null
   },
   {
     "ID": "3867383",
@@ -3298,7 +3451,8 @@ const VIABILIDADE_GEMAS_DATA = [
     "Quantidade de Gemas Total": "60",
     "Quantidade de Gemas Viáveis": "60",
     "Quantidade de Gemas Inviáveis": "0",
-    "Fazenda": NaN
+    "Fazenda": null,
+    "Unnamed: 20": null
   },
   {
     "ID": "3867380",
@@ -3320,7 +3474,8 @@ const VIABILIDADE_GEMAS_DATA = [
     "Quantidade de Gemas Total": "59",
     "Quantidade de Gemas Viáveis": "59",
     "Quantidade de Gemas Inviáveis": "0",
-    "Fazenda": NaN
+    "Fazenda": null,
+    "Unnamed: 20": null
   },
   {
     "ID": "3867113",
@@ -3342,7 +3497,8 @@ const VIABILIDADE_GEMAS_DATA = [
     "Quantidade de Gemas Total": "67",
     "Quantidade de Gemas Viáveis": "60",
     "Quantidade de Gemas Inviáveis": "7",
-    "Fazenda": NaN
+    "Fazenda": null,
+    "Unnamed: 20": null
   },
   {
     "ID": "3864197",
@@ -3364,7 +3520,8 @@ const VIABILIDADE_GEMAS_DATA = [
     "Quantidade de Gemas Total": "60",
     "Quantidade de Gemas Viáveis": "60",
     "Quantidade de Gemas Inviáveis": "0",
-    "Fazenda": NaN
+    "Fazenda": null,
+    "Unnamed: 20": null
   },
   {
     "ID": "3864193",
@@ -3386,7 +3543,8 @@ const VIABILIDADE_GEMAS_DATA = [
     "Quantidade de Gemas Total": "59",
     "Quantidade de Gemas Viáveis": "59",
     "Quantidade de Gemas Inviáveis": "0",
-    "Fazenda": NaN
+    "Fazenda": null,
+    "Unnamed: 20": null
   },
   {
     "ID": "3864188",
@@ -3408,7 +3566,8 @@ const VIABILIDADE_GEMAS_DATA = [
     "Quantidade de Gemas Total": "60",
     "Quantidade de Gemas Viáveis": "60",
     "Quantidade de Gemas Inviáveis": "0",
-    "Fazenda": NaN
+    "Fazenda": null,
+    "Unnamed: 20": null
   },
   {
     "ID": "3864179",
@@ -3430,7 +3589,8 @@ const VIABILIDADE_GEMAS_DATA = [
     "Quantidade de Gemas Total": "57",
     "Quantidade de Gemas Viáveis": "57",
     "Quantidade de Gemas Inviáveis": "0",
-    "Fazenda": NaN
+    "Fazenda": null,
+    "Unnamed: 20": null
   },
   {
     "ID": "3864175",
@@ -3452,7 +3612,8 @@ const VIABILIDADE_GEMAS_DATA = [
     "Quantidade de Gemas Total": "58",
     "Quantidade de Gemas Viáveis": "58",
     "Quantidade de Gemas Inviáveis": "0",
-    "Fazenda": NaN
+    "Fazenda": null,
+    "Unnamed: 20": null
   },
   {
     "ID": "3864172",
@@ -3474,7 +3635,8 @@ const VIABILIDADE_GEMAS_DATA = [
     "Quantidade de Gemas Total": "60",
     "Quantidade de Gemas Viáveis": "58",
     "Quantidade de Gemas Inviáveis": "3",
-    "Fazenda": NaN
+    "Fazenda": null,
+    "Unnamed: 20": null
   },
   {
     "ID": "3864164",
@@ -3496,7 +3658,8 @@ const VIABILIDADE_GEMAS_DATA = [
     "Quantidade de Gemas Total": "59",
     "Quantidade de Gemas Viáveis": "59",
     "Quantidade de Gemas Inviáveis": "0",
-    "Fazenda": NaN
+    "Fazenda": null,
+    "Unnamed: 20": null
   },
   {
     "ID": "3861942",
@@ -3518,7 +3681,8 @@ const VIABILIDADE_GEMAS_DATA = [
     "Quantidade de Gemas Total": "60",
     "Quantidade de Gemas Viáveis": "60",
     "Quantidade de Gemas Inviáveis": "0",
-    "Fazenda": NaN
+    "Fazenda": null,
+    "Unnamed: 20": null
   },
   {
     "ID": "3861937",
@@ -3540,7 +3704,8 @@ const VIABILIDADE_GEMAS_DATA = [
     "Quantidade de Gemas Total": "50",
     "Quantidade de Gemas Viáveis": "50",
     "Quantidade de Gemas Inviáveis": "0",
-    "Fazenda": NaN
+    "Fazenda": null,
+    "Unnamed: 20": null
   },
   {
     "ID": "3861934",
@@ -3562,7 +3727,8 @@ const VIABILIDADE_GEMAS_DATA = [
     "Quantidade de Gemas Total": "58",
     "Quantidade de Gemas Viáveis": "58",
     "Quantidade de Gemas Inviáveis": "0",
-    "Fazenda": NaN
+    "Fazenda": null,
+    "Unnamed: 20": null
   },
   {
     "ID": "3861930",
@@ -3584,7 +3750,8 @@ const VIABILIDADE_GEMAS_DATA = [
     "Quantidade de Gemas Total": "59",
     "Quantidade de Gemas Viáveis": "59",
     "Quantidade de Gemas Inviáveis": "0",
-    "Fazenda": NaN
+    "Fazenda": null,
+    "Unnamed: 20": null
   },
   {
     "ID": "3861927",
@@ -3606,7 +3773,8 @@ const VIABILIDADE_GEMAS_DATA = [
     "Quantidade de Gemas Total": "60",
     "Quantidade de Gemas Viáveis": "60",
     "Quantidade de Gemas Inviáveis": "0",
-    "Fazenda": NaN
+    "Fazenda": null,
+    "Unnamed: 20": null
   },
   {
     "ID": "3861909",
@@ -3628,7 +3796,8 @@ const VIABILIDADE_GEMAS_DATA = [
     "Quantidade de Gemas Total": "60",
     "Quantidade de Gemas Viáveis": "56",
     "Quantidade de Gemas Inviáveis": "4",
-    "Fazenda": NaN
+    "Fazenda": null,
+    "Unnamed: 20": null
   },
   {
     "ID": "3861901",
@@ -3650,7 +3819,8 @@ const VIABILIDADE_GEMAS_DATA = [
     "Quantidade de Gemas Total": "60",
     "Quantidade de Gemas Viáveis": "60",
     "Quantidade de Gemas Inviáveis": "0",
-    "Fazenda": NaN
+    "Fazenda": null,
+    "Unnamed: 20": null
   },
   {
     "ID": "3861899",
@@ -3672,7 +3842,8 @@ const VIABILIDADE_GEMAS_DATA = [
     "Quantidade de Gemas Total": "58",
     "Quantidade de Gemas Viáveis": "58",
     "Quantidade de Gemas Inviáveis": "0",
-    "Fazenda": NaN
+    "Fazenda": null,
+    "Unnamed: 20": null
   },
   {
     "ID": "3861895",
@@ -3694,7 +3865,8 @@ const VIABILIDADE_GEMAS_DATA = [
     "Quantidade de Gemas Total": "56",
     "Quantidade de Gemas Viáveis": "56",
     "Quantidade de Gemas Inviáveis": "4",
-    "Fazenda": NaN
+    "Fazenda": null,
+    "Unnamed: 20": null
   },
   {
     "ID": "3861890",
@@ -3716,7 +3888,8 @@ const VIABILIDADE_GEMAS_DATA = [
     "Quantidade de Gemas Total": "59",
     "Quantidade de Gemas Viáveis": "59",
     "Quantidade de Gemas Inviáveis": "0",
-    "Fazenda": NaN
+    "Fazenda": null,
+    "Unnamed: 20": null
   },
   {
     "ID": "3861967",
@@ -3738,7 +3911,8 @@ const VIABILIDADE_GEMAS_DATA = [
     "Quantidade de Gemas Total": "54",
     "Quantidade de Gemas Viáveis": "54",
     "Quantidade de Gemas Inviáveis": "0",
-    "Fazenda": NaN
+    "Fazenda": null,
+    "Unnamed: 20": null
   },
   {
     "ID": "3861173",
@@ -3760,7 +3934,8 @@ const VIABILIDADE_GEMAS_DATA = [
     "Quantidade de Gemas Total": "60",
     "Quantidade de Gemas Viáveis": "60",
     "Quantidade de Gemas Inviáveis": "0",
-    "Fazenda": NaN
+    "Fazenda": null,
+    "Unnamed: 20": null
   },
   {
     "ID": "3859029",
@@ -3782,7 +3957,8 @@ const VIABILIDADE_GEMAS_DATA = [
     "Quantidade de Gemas Total": "60",
     "Quantidade de Gemas Viáveis": "60",
     "Quantidade de Gemas Inviáveis": "0",
-    "Fazenda": NaN
+    "Fazenda": null,
+    "Unnamed: 20": null
   },
   {
     "ID": "3859026",
@@ -3804,7 +3980,8 @@ const VIABILIDADE_GEMAS_DATA = [
     "Quantidade de Gemas Total": "59",
     "Quantidade de Gemas Viáveis": "59",
     "Quantidade de Gemas Inviáveis": "0",
-    "Fazenda": NaN
+    "Fazenda": null,
+    "Unnamed: 20": null
   },
   {
     "ID": "3859023",
@@ -3826,7 +4003,8 @@ const VIABILIDADE_GEMAS_DATA = [
     "Quantidade de Gemas Total": "59",
     "Quantidade de Gemas Viáveis": "59",
     "Quantidade de Gemas Inviáveis": "0",
-    "Fazenda": NaN
+    "Fazenda": null,
+    "Unnamed: 20": null
   },
   {
     "ID": "3859019",
@@ -3848,7 +4026,8 @@ const VIABILIDADE_GEMAS_DATA = [
     "Quantidade de Gemas Total": "60",
     "Quantidade de Gemas Viáveis": "60",
     "Quantidade de Gemas Inviáveis": "0",
-    "Fazenda": NaN
+    "Fazenda": null,
+    "Unnamed: 20": null
   },
   {
     "ID": "3846846",
@@ -3870,7 +4049,8 @@ const VIABILIDADE_GEMAS_DATA = [
     "Quantidade de Gemas Total": "60",
     "Quantidade de Gemas Viáveis": "58",
     "Quantidade de Gemas Inviáveis": "2",
-    "Fazenda": NaN
+    "Fazenda": null,
+    "Unnamed: 20": null
   },
   {
     "ID": "3859016",
@@ -3892,7 +4072,8 @@ const VIABILIDADE_GEMAS_DATA = [
     "Quantidade de Gemas Total": "60",
     "Quantidade de Gemas Viáveis": "54",
     "Quantidade de Gemas Inviáveis": "6",
-    "Fazenda": NaN
+    "Fazenda": null,
+    "Unnamed: 20": null
   },
   {
     "ID": "3849763",
@@ -3914,7 +4095,8 @@ const VIABILIDADE_GEMAS_DATA = [
     "Quantidade de Gemas Total": "60",
     "Quantidade de Gemas Viáveis": "59",
     "Quantidade de Gemas Inviáveis": "1",
-    "Fazenda": NaN
+    "Fazenda": null,
+    "Unnamed: 20": null
   },
   {
     "ID": "3859005",
@@ -3936,7 +4118,8 @@ const VIABILIDADE_GEMAS_DATA = [
     "Quantidade de Gemas Total": "59",
     "Quantidade de Gemas Viáveis": "59",
     "Quantidade de Gemas Inviáveis": "0",
-    "Fazenda": NaN
+    "Fazenda": null,
+    "Unnamed: 20": null
   },
   {
     "ID": "3859003",
@@ -3958,7 +4141,8 @@ const VIABILIDADE_GEMAS_DATA = [
     "Quantidade de Gemas Total": "59",
     "Quantidade de Gemas Viáveis": "59",
     "Quantidade de Gemas Inviáveis": "0",
-    "Fazenda": NaN
+    "Fazenda": null,
+    "Unnamed: 20": null
   },
   {
     "ID": "3858997",
@@ -3980,7 +4164,8 @@ const VIABILIDADE_GEMAS_DATA = [
     "Quantidade de Gemas Total": "60",
     "Quantidade de Gemas Viáveis": "60",
     "Quantidade de Gemas Inviáveis": "0",
-    "Fazenda": NaN
+    "Fazenda": null,
+    "Unnamed: 20": null
   },
   {
     "ID": "3858992",
@@ -4002,7 +4187,8 @@ const VIABILIDADE_GEMAS_DATA = [
     "Quantidade de Gemas Total": "56",
     "Quantidade de Gemas Viáveis": "56",
     "Quantidade de Gemas Inviáveis": "0",
-    "Fazenda": NaN
+    "Fazenda": null,
+    "Unnamed: 20": null
   },
   {
     "ID": "3858989",
@@ -4024,7 +4210,8 @@ const VIABILIDADE_GEMAS_DATA = [
     "Quantidade de Gemas Total": "48",
     "Quantidade de Gemas Viáveis": "48",
     "Quantidade de Gemas Inviáveis": "0",
-    "Fazenda": NaN
+    "Fazenda": null,
+    "Unnamed: 20": null
   },
   {
     "ID": "3855176",
@@ -4046,7 +4233,8 @@ const VIABILIDADE_GEMAS_DATA = [
     "Quantidade de Gemas Total": "59",
     "Quantidade de Gemas Viáveis": "59",
     "Quantidade de Gemas Inviáveis": "0",
-    "Fazenda": NaN
+    "Fazenda": null,
+    "Unnamed: 20": null
   },
   {
     "ID": "3855170",
@@ -4068,7 +4256,8 @@ const VIABILIDADE_GEMAS_DATA = [
     "Quantidade de Gemas Total": "60",
     "Quantidade de Gemas Viáveis": "60",
     "Quantidade de Gemas Inviáveis": "0",
-    "Fazenda": NaN
+    "Fazenda": null,
+    "Unnamed: 20": null
   },
   {
     "ID": "3855167",
@@ -4090,7 +4279,8 @@ const VIABILIDADE_GEMAS_DATA = [
     "Quantidade de Gemas Total": "58",
     "Quantidade de Gemas Viáveis": "58",
     "Quantidade de Gemas Inviáveis": "0",
-    "Fazenda": NaN
+    "Fazenda": null,
+    "Unnamed: 20": null
   },
   {
     "ID": "3855162",
@@ -4112,7 +4302,8 @@ const VIABILIDADE_GEMAS_DATA = [
     "Quantidade de Gemas Total": "58",
     "Quantidade de Gemas Viáveis": "58",
     "Quantidade de Gemas Inviáveis": "0",
-    "Fazenda": NaN
+    "Fazenda": null,
+    "Unnamed: 20": null
   },
   {
     "ID": "3855157",
@@ -4134,7 +4325,8 @@ const VIABILIDADE_GEMAS_DATA = [
     "Quantidade de Gemas Total": "60",
     "Quantidade de Gemas Viáveis": "60",
     "Quantidade de Gemas Inviáveis": "0",
-    "Fazenda": NaN
+    "Fazenda": null,
+    "Unnamed: 20": null
   },
   {
     "ID": "3855147",
@@ -4156,7 +4348,8 @@ const VIABILIDADE_GEMAS_DATA = [
     "Quantidade de Gemas Total": "60",
     "Quantidade de Gemas Viáveis": "60",
     "Quantidade de Gemas Inviáveis": "0",
-    "Fazenda": NaN
+    "Fazenda": null,
+    "Unnamed: 20": null
   },
   {
     "ID": "3854882",
@@ -4178,7 +4371,8 @@ const VIABILIDADE_GEMAS_DATA = [
     "Quantidade de Gemas Total": "60",
     "Quantidade de Gemas Viáveis": "60",
     "Quantidade de Gemas Inviáveis": "0",
-    "Fazenda": NaN
+    "Fazenda": null,
+    "Unnamed: 20": null
   },
   {
     "ID": "3854878",
@@ -4200,7 +4394,8 @@ const VIABILIDADE_GEMAS_DATA = [
     "Quantidade de Gemas Total": "60",
     "Quantidade de Gemas Viáveis": "60",
     "Quantidade de Gemas Inviáveis": "0",
-    "Fazenda": NaN
+    "Fazenda": null,
+    "Unnamed: 20": null
   },
   {
     "ID": "3854875",
@@ -4222,7 +4417,8 @@ const VIABILIDADE_GEMAS_DATA = [
     "Quantidade de Gemas Total": "59",
     "Quantidade de Gemas Viáveis": "59",
     "Quantidade de Gemas Inviáveis": "0",
-    "Fazenda": NaN
+    "Fazenda": null,
+    "Unnamed: 20": null
   },
   {
     "ID": "3854870",
@@ -4244,7 +4440,8 @@ const VIABILIDADE_GEMAS_DATA = [
     "Quantidade de Gemas Total": "59",
     "Quantidade de Gemas Viáveis": "59",
     "Quantidade de Gemas Inviáveis": "0",
-    "Fazenda": NaN
+    "Fazenda": null,
+    "Unnamed: 20": null
   },
   {
     "ID": "3854867",
@@ -4266,7 +4463,8 @@ const VIABILIDADE_GEMAS_DATA = [
     "Quantidade de Gemas Total": "60",
     "Quantidade de Gemas Viáveis": "60",
     "Quantidade de Gemas Inviáveis": "0",
-    "Fazenda": NaN
+    "Fazenda": null,
+    "Unnamed: 20": null
   },
   {
     "ID": "3852419",
@@ -4288,7 +4486,8 @@ const VIABILIDADE_GEMAS_DATA = [
     "Quantidade de Gemas Total": "58",
     "Quantidade de Gemas Viáveis": "54",
     "Quantidade de Gemas Inviáveis": "4",
-    "Fazenda": NaN
+    "Fazenda": null,
+    "Unnamed: 20": null
   },
   {
     "ID": "3852415",
@@ -4310,7 +4509,8 @@ const VIABILIDADE_GEMAS_DATA = [
     "Quantidade de Gemas Total": "60",
     "Quantidade de Gemas Viáveis": "57",
     "Quantidade de Gemas Inviáveis": "3",
-    "Fazenda": NaN
+    "Fazenda": null,
+    "Unnamed: 20": null
   },
   {
     "ID": "3852409",
@@ -4332,7 +4532,8 @@ const VIABILIDADE_GEMAS_DATA = [
     "Quantidade de Gemas Total": "60",
     "Quantidade de Gemas Viáveis": "60",
     "Quantidade de Gemas Inviáveis": "0",
-    "Fazenda": NaN
+    "Fazenda": null,
+    "Unnamed: 20": null
   },
   {
     "ID": "3852404",
@@ -4354,7 +4555,8 @@ const VIABILIDADE_GEMAS_DATA = [
     "Quantidade de Gemas Total": "60",
     "Quantidade de Gemas Viáveis": "58",
     "Quantidade de Gemas Inviáveis": "2",
-    "Fazenda": NaN
+    "Fazenda": null,
+    "Unnamed: 20": null
   },
   {
     "ID": "3852396",
@@ -4376,7 +4578,8 @@ const VIABILIDADE_GEMAS_DATA = [
     "Quantidade de Gemas Total": "60",
     "Quantidade de Gemas Viáveis": "59",
     "Quantidade de Gemas Inviáveis": "1",
-    "Fazenda": NaN
+    "Fazenda": null,
+    "Unnamed: 20": null
   },
   {
     "ID": "3852391",
@@ -4398,7 +4601,8 @@ const VIABILIDADE_GEMAS_DATA = [
     "Quantidade de Gemas Total": "60",
     "Quantidade de Gemas Viáveis": "58",
     "Quantidade de Gemas Inviáveis": "2",
-    "Fazenda": NaN
+    "Fazenda": null,
+    "Unnamed: 20": null
   },
   {
     "ID": "3852386",
@@ -4420,7 +4624,8 @@ const VIABILIDADE_GEMAS_DATA = [
     "Quantidade de Gemas Total": "62",
     "Quantidade de Gemas Viáveis": "60",
     "Quantidade de Gemas Inviáveis": "2",
-    "Fazenda": NaN
+    "Fazenda": null,
+    "Unnamed: 20": null
   },
   {
     "ID": "3852381",
@@ -4442,7 +4647,8 @@ const VIABILIDADE_GEMAS_DATA = [
     "Quantidade de Gemas Total": "60",
     "Quantidade de Gemas Viáveis": "59",
     "Quantidade de Gemas Inviáveis": "1",
-    "Fazenda": NaN
+    "Fazenda": null,
+    "Unnamed: 20": null
   },
   {
     "ID": "3849788",
@@ -4464,7 +4670,8 @@ const VIABILIDADE_GEMAS_DATA = [
     "Quantidade de Gemas Total": "60",
     "Quantidade de Gemas Viáveis": "60",
     "Quantidade de Gemas Inviáveis": "0",
-    "Fazenda": NaN
+    "Fazenda": null,
+    "Unnamed: 20": null
   },
   {
     "ID": "3849782",
@@ -4486,7 +4693,8 @@ const VIABILIDADE_GEMAS_DATA = [
     "Quantidade de Gemas Total": "59",
     "Quantidade de Gemas Viáveis": "59",
     "Quantidade de Gemas Inviáveis": "0",
-    "Fazenda": NaN
+    "Fazenda": null,
+    "Unnamed: 20": null
   },
   {
     "ID": "3849773",
@@ -4508,7 +4716,8 @@ const VIABILIDADE_GEMAS_DATA = [
     "Quantidade de Gemas Total": "60",
     "Quantidade de Gemas Viáveis": "57",
     "Quantidade de Gemas Inviáveis": "3",
-    "Fazenda": NaN
+    "Fazenda": null,
+    "Unnamed: 20": null
   },
   {
     "ID": "3849769",
@@ -4530,7 +4739,8 @@ const VIABILIDADE_GEMAS_DATA = [
     "Quantidade de Gemas Total": "60",
     "Quantidade de Gemas Viáveis": "59",
     "Quantidade de Gemas Inviáveis": "1",
-    "Fazenda": NaN
+    "Fazenda": null,
+    "Unnamed: 20": null
   },
   {
     "ID": "3846840",
@@ -4552,7 +4762,8 @@ const VIABILIDADE_GEMAS_DATA = [
     "Quantidade de Gemas Total": "62",
     "Quantidade de Gemas Viáveis": "60",
     "Quantidade de Gemas Inviáveis": "2",
-    "Fazenda": NaN
+    "Fazenda": null,
+    "Unnamed: 20": null
   },
   {
     "ID": "3846831",
@@ -4574,7 +4785,8 @@ const VIABILIDADE_GEMAS_DATA = [
     "Quantidade de Gemas Total": "60",
     "Quantidade de Gemas Viáveis": "58",
     "Quantidade de Gemas Inviáveis": "2",
-    "Fazenda": NaN
+    "Fazenda": null,
+    "Unnamed: 20": null
   },
   {
     "ID": "3846824",
@@ -4596,7 +4808,8 @@ const VIABILIDADE_GEMAS_DATA = [
     "Quantidade de Gemas Total": "60",
     "Quantidade de Gemas Viáveis": "58",
     "Quantidade de Gemas Inviáveis": "2",
-    "Fazenda": NaN
+    "Fazenda": null,
+    "Unnamed: 20": null
   },
   {
     "ID": "3846819",
@@ -4618,7 +4831,8 @@ const VIABILIDADE_GEMAS_DATA = [
     "Quantidade de Gemas Total": "62",
     "Quantidade de Gemas Viáveis": "60",
     "Quantidade de Gemas Inviáveis": "2",
-    "Fazenda": NaN
+    "Fazenda": null,
+    "Unnamed: 20": null
   },
   {
     "ID": "3846814",
@@ -4640,7 +4854,8 @@ const VIABILIDADE_GEMAS_DATA = [
     "Quantidade de Gemas Total": "62",
     "Quantidade de Gemas Viáveis": "60",
     "Quantidade de Gemas Inviáveis": "2",
-    "Fazenda": NaN
+    "Fazenda": null,
+    "Unnamed: 20": null
   },
   {
     "ID": "3846810",
@@ -4662,7 +4877,8 @@ const VIABILIDADE_GEMAS_DATA = [
     "Quantidade de Gemas Total": "61",
     "Quantidade de Gemas Viáveis": "59",
     "Quantidade de Gemas Inviáveis": "2",
-    "Fazenda": NaN
+    "Fazenda": null,
+    "Unnamed: 20": null
   },
   {
     "ID": "3843652",
@@ -4684,7 +4900,8 @@ const VIABILIDADE_GEMAS_DATA = [
     "Quantidade de Gemas Total": "61",
     "Quantidade de Gemas Viáveis": "58",
     "Quantidade de Gemas Inviáveis": "3",
-    "Fazenda": NaN
+    "Fazenda": null,
+    "Unnamed: 20": null
   },
   {
     "ID": "3843648",
@@ -4706,7 +4923,8 @@ const VIABILIDADE_GEMAS_DATA = [
     "Quantidade de Gemas Total": "61",
     "Quantidade de Gemas Viáveis": "60",
     "Quantidade de Gemas Inviáveis": "1",
-    "Fazenda": NaN
+    "Fazenda": null,
+    "Unnamed: 20": null
   },
   {
     "ID": "3591090",
@@ -4728,7 +4946,8 @@ const VIABILIDADE_GEMAS_DATA = [
     "Quantidade de Gemas Total": "49",
     "Quantidade de Gemas Viáveis": "49",
     "Quantidade de Gemas Inviáveis": "0",
-    "Fazenda": NaN
+    "Fazenda": null,
+    "Unnamed: 20": null
   },
   {
     "ID": "3591097",
@@ -4750,7 +4969,8 @@ const VIABILIDADE_GEMAS_DATA = [
     "Quantidade de Gemas Total": "56",
     "Quantidade de Gemas Viáveis": "56",
     "Quantidade de Gemas Inviáveis": "0",
-    "Fazenda": NaN
+    "Fazenda": null,
+    "Unnamed: 20": null
   },
   {
     "ID": "3591074",
@@ -4772,7 +4992,8 @@ const VIABILIDADE_GEMAS_DATA = [
     "Quantidade de Gemas Total": "58",
     "Quantidade de Gemas Viáveis": "57",
     "Quantidade de Gemas Inviáveis": "1",
-    "Fazenda": NaN
+    "Fazenda": null,
+    "Unnamed: 20": null
   },
   {
     "ID": "3590423",
@@ -4794,7 +5015,8 @@ const VIABILIDADE_GEMAS_DATA = [
     "Quantidade de Gemas Total": "53",
     "Quantidade de Gemas Viáveis": "53",
     "Quantidade de Gemas Inviáveis": "0",
-    "Fazenda": NaN
+    "Fazenda": null,
+    "Unnamed: 20": null
   },
   {
     "ID": "3574219",
@@ -4816,7 +5038,8 @@ const VIABILIDADE_GEMAS_DATA = [
     "Quantidade de Gemas Total": "57",
     "Quantidade de Gemas Viáveis": "57",
     "Quantidade de Gemas Inviáveis": "0",
-    "Fazenda": NaN
+    "Fazenda": null,
+    "Unnamed: 20": null
   },
   {
     "ID": "3574221",
@@ -4838,7 +5061,8 @@ const VIABILIDADE_GEMAS_DATA = [
     "Quantidade de Gemas Total": "55",
     "Quantidade de Gemas Viáveis": "55",
     "Quantidade de Gemas Inviáveis": "0",
-    "Fazenda": NaN
+    "Fazenda": null,
+    "Unnamed: 20": null
   },
   {
     "ID": "3641094",
@@ -4860,7 +5084,8 @@ const VIABILIDADE_GEMAS_DATA = [
     "Quantidade de Gemas Total": "58",
     "Quantidade de Gemas Viáveis": "58",
     "Quantidade de Gemas Inviáveis": "0",
-    "Fazenda": NaN
+    "Fazenda": null,
+    "Unnamed: 20": null
   },
   {
     "ID": "3641086",
@@ -4882,7 +5107,8 @@ const VIABILIDADE_GEMAS_DATA = [
     "Quantidade de Gemas Total": "51",
     "Quantidade de Gemas Viáveis": "51",
     "Quantidade de Gemas Inviáveis": "0",
-    "Fazenda": NaN
+    "Fazenda": null,
+    "Unnamed: 20": null
   },
   {
     "ID": "3641083",
@@ -4904,7 +5130,8 @@ const VIABILIDADE_GEMAS_DATA = [
     "Quantidade de Gemas Total": "57",
     "Quantidade de Gemas Viáveis": "56",
     "Quantidade de Gemas Inviáveis": "1",
-    "Fazenda": NaN
+    "Fazenda": null,
+    "Unnamed: 20": null
   },
   {
     "ID": "3641076",
@@ -4926,7 +5153,8 @@ const VIABILIDADE_GEMAS_DATA = [
     "Quantidade de Gemas Total": "53",
     "Quantidade de Gemas Viáveis": "53",
     "Quantidade de Gemas Inviáveis": "0",
-    "Fazenda": NaN
+    "Fazenda": null,
+    "Unnamed: 20": null
   },
   {
     "ID": "3638337",
@@ -4948,7 +5176,8 @@ const VIABILIDADE_GEMAS_DATA = [
     "Quantidade de Gemas Total": "52",
     "Quantidade de Gemas Viáveis": "50",
     "Quantidade de Gemas Inviáveis": "2",
-    "Fazenda": NaN
+    "Fazenda": null,
+    "Unnamed: 20": null
   },
   {
     "ID": "3638333",
@@ -4970,7 +5199,8 @@ const VIABILIDADE_GEMAS_DATA = [
     "Quantidade de Gemas Total": "51",
     "Quantidade de Gemas Viáveis": "51",
     "Quantidade de Gemas Inviáveis": "0",
-    "Fazenda": NaN
+    "Fazenda": null,
+    "Unnamed: 20": null
   },
   {
     "ID": "3638329",
@@ -4992,7 +5222,8 @@ const VIABILIDADE_GEMAS_DATA = [
     "Quantidade de Gemas Total": "53",
     "Quantidade de Gemas Viáveis": "50",
     "Quantidade de Gemas Inviáveis": "3",
-    "Fazenda": NaN
+    "Fazenda": null,
+    "Unnamed: 20": null
   },
   {
     "ID": "3638321",
@@ -5014,7 +5245,8 @@ const VIABILIDADE_GEMAS_DATA = [
     "Quantidade de Gemas Total": "56",
     "Quantidade de Gemas Viáveis": "56",
     "Quantidade de Gemas Inviáveis": "0",
-    "Fazenda": NaN
+    "Fazenda": null,
+    "Unnamed: 20": null
   },
   {
     "ID": "3638317",
@@ -5036,7 +5268,8 @@ const VIABILIDADE_GEMAS_DATA = [
     "Quantidade de Gemas Total": "55",
     "Quantidade de Gemas Viáveis": "53",
     "Quantidade de Gemas Inviáveis": "2",
-    "Fazenda": NaN
+    "Fazenda": null,
+    "Unnamed: 20": null
   },
   {
     "ID": "3635341",
@@ -5058,7 +5291,8 @@ const VIABILIDADE_GEMAS_DATA = [
     "Quantidade de Gemas Total": "52",
     "Quantidade de Gemas Viáveis": "50",
     "Quantidade de Gemas Inviáveis": "2",
-    "Fazenda": NaN
+    "Fazenda": null,
+    "Unnamed: 20": null
   },
   {
     "ID": "3635330",
@@ -5080,7 +5314,8 @@ const VIABILIDADE_GEMAS_DATA = [
     "Quantidade de Gemas Total": "48",
     "Quantidade de Gemas Viáveis": "48",
     "Quantidade de Gemas Inviáveis": "0",
-    "Fazenda": NaN
+    "Fazenda": null,
+    "Unnamed: 20": null
   },
   {
     "ID": "3635315",
@@ -5102,7 +5337,8 @@ const VIABILIDADE_GEMAS_DATA = [
     "Quantidade de Gemas Total": "60",
     "Quantidade de Gemas Viáveis": "56",
     "Quantidade de Gemas Inviáveis": "4",
-    "Fazenda": NaN
+    "Fazenda": null,
+    "Unnamed: 20": null
   },
   {
     "ID": "3635311",
@@ -5124,7 +5360,8 @@ const VIABILIDADE_GEMAS_DATA = [
     "Quantidade de Gemas Total": "60",
     "Quantidade de Gemas Viáveis": "54",
     "Quantidade de Gemas Inviáveis": "6",
-    "Fazenda": NaN
+    "Fazenda": null,
+    "Unnamed: 20": null
   },
   {
     "ID": "3636031",
@@ -5146,7 +5383,8 @@ const VIABILIDADE_GEMAS_DATA = [
     "Quantidade de Gemas Total": "55",
     "Quantidade de Gemas Viáveis": "55",
     "Quantidade de Gemas Inviáveis": "0",
-    "Fazenda": NaN
+    "Fazenda": null,
+    "Unnamed: 20": null
   },
   {
     "ID": "3636028",
@@ -5168,7 +5406,8 @@ const VIABILIDADE_GEMAS_DATA = [
     "Quantidade de Gemas Total": "57",
     "Quantidade de Gemas Viáveis": "57",
     "Quantidade de Gemas Inviáveis": "0",
-    "Fazenda": NaN
+    "Fazenda": null,
+    "Unnamed: 20": null
   },
   {
     "ID": "3635306",
@@ -5190,7 +5429,8 @@ const VIABILIDADE_GEMAS_DATA = [
     "Quantidade de Gemas Total": "60",
     "Quantidade de Gemas Viáveis": "56",
     "Quantidade de Gemas Inviáveis": "4",
-    "Fazenda": NaN
+    "Fazenda": null,
+    "Unnamed: 20": null
   },
   {
     "ID": "3636024",
@@ -5212,7 +5452,8 @@ const VIABILIDADE_GEMAS_DATA = [
     "Quantidade de Gemas Total": "54",
     "Quantidade de Gemas Viáveis": "54",
     "Quantidade de Gemas Inviáveis": "0",
-    "Fazenda": NaN
+    "Fazenda": null,
+    "Unnamed: 20": null
   },
   {
     "ID": "3635302",
@@ -5234,7 +5475,8 @@ const VIABILIDADE_GEMAS_DATA = [
     "Quantidade de Gemas Total": "62",
     "Quantidade de Gemas Viáveis": "56",
     "Quantidade de Gemas Inviáveis": "6",
-    "Fazenda": NaN
+    "Fazenda": null,
+    "Unnamed: 20": null
   },
   {
     "ID": "3635298",
@@ -5256,7 +5498,8 @@ const VIABILIDADE_GEMAS_DATA = [
     "Quantidade de Gemas Total": "58",
     "Quantidade de Gemas Viáveis": "53",
     "Quantidade de Gemas Inviáveis": "5",
-    "Fazenda": NaN
+    "Fazenda": null,
+    "Unnamed: 20": null
   },
   {
     "ID": "3635247",
@@ -5278,7 +5521,8 @@ const VIABILIDADE_GEMAS_DATA = [
     "Quantidade de Gemas Total": "63",
     "Quantidade de Gemas Viáveis": "59",
     "Quantidade de Gemas Inviáveis": "4",
-    "Fazenda": NaN
+    "Fazenda": null,
+    "Unnamed: 20": null
   },
   {
     "ID": "3633052",
@@ -5300,7 +5544,8 @@ const VIABILIDADE_GEMAS_DATA = [
     "Quantidade de Gemas Total": "51",
     "Quantidade de Gemas Viáveis": "51",
     "Quantidade de Gemas Inviáveis": "0",
-    "Fazenda": NaN
+    "Fazenda": null,
+    "Unnamed: 20": null
   },
   {
     "ID": "3633048",
@@ -5322,7 +5567,8 @@ const VIABILIDADE_GEMAS_DATA = [
     "Quantidade de Gemas Total": "59",
     "Quantidade de Gemas Viáveis": "55",
     "Quantidade de Gemas Inviáveis": "4",
-    "Fazenda": NaN
+    "Fazenda": null,
+    "Unnamed: 20": null
   },
   {
     "ID": "3633039",
@@ -5344,7 +5590,8 @@ const VIABILIDADE_GEMAS_DATA = [
     "Quantidade de Gemas Total": "56",
     "Quantidade de Gemas Viáveis": "53",
     "Quantidade de Gemas Inviáveis": "3",
-    "Fazenda": NaN
+    "Fazenda": null,
+    "Unnamed: 20": null
   },
   {
     "ID": "3633035",
@@ -5366,7 +5613,8 @@ const VIABILIDADE_GEMAS_DATA = [
     "Quantidade de Gemas Total": "58",
     "Quantidade de Gemas Viáveis": "53",
     "Quantidade de Gemas Inviáveis": "5",
-    "Fazenda": NaN
+    "Fazenda": null,
+    "Unnamed: 20": null
   },
   {
     "ID": "3633030",
@@ -5388,7 +5636,8 @@ const VIABILIDADE_GEMAS_DATA = [
     "Quantidade de Gemas Total": "55",
     "Quantidade de Gemas Viáveis": "51",
     "Quantidade de Gemas Inviáveis": "4",
-    "Fazenda": NaN
+    "Fazenda": null,
+    "Unnamed: 20": null
   },
   {
     "ID": "3633026",
@@ -5410,7 +5659,8 @@ const VIABILIDADE_GEMAS_DATA = [
     "Quantidade de Gemas Total": "60",
     "Quantidade de Gemas Viáveis": "57",
     "Quantidade de Gemas Inviáveis": "3",
-    "Fazenda": NaN
+    "Fazenda": null,
+    "Unnamed: 20": null
   },
   {
     "ID": "3632408",
@@ -5432,7 +5682,8 @@ const VIABILIDADE_GEMAS_DATA = [
     "Quantidade de Gemas Total": "55",
     "Quantidade de Gemas Viáveis": "53",
     "Quantidade de Gemas Inviáveis": "2",
-    "Fazenda": NaN
+    "Fazenda": null,
+    "Unnamed: 20": null
   },
   {
     "ID": "3632356",
@@ -5454,7 +5705,8 @@ const VIABILIDADE_GEMAS_DATA = [
     "Quantidade de Gemas Total": "58",
     "Quantidade de Gemas Viáveis": "57",
     "Quantidade de Gemas Inviáveis": "1",
-    "Fazenda": NaN
+    "Fazenda": null,
+    "Unnamed: 20": null
   },
   {
     "ID": "3632349",
@@ -5476,7 +5728,8 @@ const VIABILIDADE_GEMAS_DATA = [
     "Quantidade de Gemas Total": "59",
     "Quantidade de Gemas Viáveis": "56",
     "Quantidade de Gemas Inviáveis": "3",
-    "Fazenda": NaN
+    "Fazenda": null,
+    "Unnamed: 20": null
   },
   {
     "ID": "3632346",
@@ -5498,7 +5751,8 @@ const VIABILIDADE_GEMAS_DATA = [
     "Quantidade de Gemas Total": "54",
     "Quantidade de Gemas Viáveis": "54",
     "Quantidade de Gemas Inviáveis": "0",
-    "Fazenda": NaN
+    "Fazenda": null,
+    "Unnamed: 20": null
   },
   {
     "ID": "3632341",
@@ -5520,7 +5774,8 @@ const VIABILIDADE_GEMAS_DATA = [
     "Quantidade de Gemas Total": "57",
     "Quantidade de Gemas Viáveis": "57",
     "Quantidade de Gemas Inviáveis": "0",
-    "Fazenda": NaN
+    "Fazenda": null,
+    "Unnamed: 20": null
   },
   {
     "ID": "3628861",
@@ -5542,7 +5797,8 @@ const VIABILIDADE_GEMAS_DATA = [
     "Quantidade de Gemas Total": "58",
     "Quantidade de Gemas Viáveis": "58",
     "Quantidade de Gemas Inviáveis": "0",
-    "Fazenda": NaN
+    "Fazenda": null,
+    "Unnamed: 20": null
   },
   {
     "ID": "3628859",
@@ -5564,7 +5820,8 @@ const VIABILIDADE_GEMAS_DATA = [
     "Quantidade de Gemas Total": "62",
     "Quantidade de Gemas Viáveis": "62",
     "Quantidade de Gemas Inviáveis": "0",
-    "Fazenda": NaN
+    "Fazenda": null,
+    "Unnamed: 20": null
   },
   {
     "ID": "3629712",
@@ -5586,7 +5843,8 @@ const VIABILIDADE_GEMAS_DATA = [
     "Quantidade de Gemas Total": "58",
     "Quantidade de Gemas Viáveis": "58",
     "Quantidade de Gemas Inviáveis": "0",
-    "Fazenda": NaN
+    "Fazenda": null,
+    "Unnamed: 20": null
   },
   {
     "ID": "3628815",
@@ -5608,7 +5866,8 @@ const VIABILIDADE_GEMAS_DATA = [
     "Quantidade de Gemas Total": "70",
     "Quantidade de Gemas Viáveis": "66",
     "Quantidade de Gemas Inviáveis": "4",
-    "Fazenda": NaN
+    "Fazenda": null,
+    "Unnamed: 20": null
   },
   {
     "ID": "3628852",
@@ -5630,7 +5889,8 @@ const VIABILIDADE_GEMAS_DATA = [
     "Quantidade de Gemas Total": "60",
     "Quantidade de Gemas Viáveis": "60",
     "Quantidade de Gemas Inviáveis": "0",
-    "Fazenda": NaN
+    "Fazenda": null,
+    "Unnamed: 20": null
   },
   {
     "ID": "3629705",
@@ -5652,7 +5912,8 @@ const VIABILIDADE_GEMAS_DATA = [
     "Quantidade de Gemas Total": "59",
     "Quantidade de Gemas Viáveis": "59",
     "Quantidade de Gemas Inviáveis": "0",
-    "Fazenda": NaN
+    "Fazenda": null,
+    "Unnamed: 20": null
   },
   {
     "ID": "3628881",
@@ -5674,7 +5935,8 @@ const VIABILIDADE_GEMAS_DATA = [
     "Quantidade de Gemas Total": "76",
     "Quantidade de Gemas Viáveis": "73",
     "Quantidade de Gemas Inviáveis": "3",
-    "Fazenda": NaN
+    "Fazenda": null,
+    "Unnamed: 20": null
   },
   {
     "ID": "3628849",
@@ -5696,7 +5958,8 @@ const VIABILIDADE_GEMAS_DATA = [
     "Quantidade de Gemas Total": "60",
     "Quantidade de Gemas Viáveis": "60",
     "Quantidade de Gemas Inviáveis": "0",
-    "Fazenda": NaN
+    "Fazenda": null,
+    "Unnamed: 20": null
   },
   {
     "ID": "3628846",
@@ -5718,7 +5981,8 @@ const VIABILIDADE_GEMAS_DATA = [
     "Quantidade de Gemas Total": "60",
     "Quantidade de Gemas Viáveis": "59",
     "Quantidade de Gemas Inviáveis": "1",
-    "Fazenda": NaN
+    "Fazenda": null,
+    "Unnamed: 20": null
   },
   {
     "ID": "3628874",
@@ -5740,7 +6004,8 @@ const VIABILIDADE_GEMAS_DATA = [
     "Quantidade de Gemas Total": "80",
     "Quantidade de Gemas Viáveis": "76",
     "Quantidade de Gemas Inviáveis": "4",
-    "Fazenda": NaN
+    "Fazenda": null,
+    "Unnamed: 20": null
   },
   {
     "ID": "3628869",
@@ -5762,7 +6027,8 @@ const VIABILIDADE_GEMAS_DATA = [
     "Quantidade de Gemas Total": "75",
     "Quantidade de Gemas Viáveis": "71",
     "Quantidade de Gemas Inviáveis": "4",
-    "Fazenda": NaN
+    "Fazenda": null,
+    "Unnamed: 20": null
   },
   {
     "ID": "3628841",
@@ -5784,7 +6050,8 @@ const VIABILIDADE_GEMAS_DATA = [
     "Quantidade de Gemas Total": "58",
     "Quantidade de Gemas Viáveis": "58",
     "Quantidade de Gemas Inviáveis": "0",
-    "Fazenda": NaN
+    "Fazenda": null,
+    "Unnamed: 20": null
   },
   {
     "ID": "3628791",
@@ -5806,7 +6073,8 @@ const VIABILIDADE_GEMAS_DATA = [
     "Quantidade de Gemas Total": "71",
     "Quantidade de Gemas Viáveis": "68",
     "Quantidade de Gemas Inviáveis": "3",
-    "Fazenda": NaN
+    "Fazenda": null,
+    "Unnamed: 20": null
   },
   {
     "ID": "3628838",
@@ -5828,7 +6096,8 @@ const VIABILIDADE_GEMAS_DATA = [
     "Quantidade de Gemas Total": "60",
     "Quantidade de Gemas Viáveis": "60",
     "Quantidade de Gemas Inviáveis": "0",
-    "Fazenda": NaN
+    "Fazenda": null,
+    "Unnamed: 20": null
   },
   {
     "ID": "3628786",
@@ -5850,7 +6119,8 @@ const VIABILIDADE_GEMAS_DATA = [
     "Quantidade de Gemas Total": "79",
     "Quantidade de Gemas Viáveis": "76",
     "Quantidade de Gemas Inviáveis": "3",
-    "Fazenda": NaN
+    "Fazenda": null,
+    "Unnamed: 20": null
   },
   {
     "ID": "3628781",
@@ -5872,7 +6142,8 @@ const VIABILIDADE_GEMAS_DATA = [
     "Quantidade de Gemas Total": "63",
     "Quantidade de Gemas Viáveis": "60",
     "Quantidade de Gemas Inviáveis": "3",
-    "Fazenda": NaN
+    "Fazenda": null,
+    "Unnamed: 20": null
   },
   {
     "ID": "3628777",
@@ -5894,7 +6165,8 @@ const VIABILIDADE_GEMAS_DATA = [
     "Quantidade de Gemas Total": "80",
     "Quantidade de Gemas Viáveis": "76",
     "Quantidade de Gemas Inviáveis": "4",
-    "Fazenda": NaN
+    "Fazenda": null,
+    "Unnamed: 20": null
   },
   {
     "ID": "3628773",
@@ -5916,7 +6188,8 @@ const VIABILIDADE_GEMAS_DATA = [
     "Quantidade de Gemas Total": "78",
     "Quantidade de Gemas Viáveis": "74",
     "Quantidade de Gemas Inviáveis": "4",
-    "Fazenda": NaN
+    "Fazenda": null,
+    "Unnamed: 20": null
   },
   {
     "ID": "3628760",
@@ -5938,7 +6211,8 @@ const VIABILIDADE_GEMAS_DATA = [
     "Quantidade de Gemas Total": "84",
     "Quantidade de Gemas Viáveis": "80",
     "Quantidade de Gemas Inviáveis": "4",
-    "Fazenda": NaN
+    "Fazenda": null,
+    "Unnamed: 20": null
   },
   {
     "ID": "3628755",
@@ -5960,7 +6234,8 @@ const VIABILIDADE_GEMAS_DATA = [
     "Quantidade de Gemas Total": "78",
     "Quantidade de Gemas Viáveis": "75",
     "Quantidade de Gemas Inviáveis": "3",
-    "Fazenda": NaN
+    "Fazenda": null,
+    "Unnamed: 20": null
   },
   {
     "ID": "3628938",
@@ -5982,7 +6257,8 @@ const VIABILIDADE_GEMAS_DATA = [
     "Quantidade de Gemas Total": "57",
     "Quantidade de Gemas Viáveis": "57",
     "Quantidade de Gemas Inviáveis": "0",
-    "Fazenda": NaN
+    "Fazenda": null,
+    "Unnamed: 20": null
   },
   {
     "ID": "3628750",
@@ -6004,7 +6280,8 @@ const VIABILIDADE_GEMAS_DATA = [
     "Quantidade de Gemas Total": "74",
     "Quantidade de Gemas Viáveis": "69",
     "Quantidade de Gemas Inviáveis": "5",
-    "Fazenda": NaN
+    "Fazenda": null,
+    "Unnamed: 20": null
   },
   {
     "ID": "3628932",
@@ -6026,7 +6303,8 @@ const VIABILIDADE_GEMAS_DATA = [
     "Quantidade de Gemas Total": "59",
     "Quantidade de Gemas Viáveis": "57",
     "Quantidade de Gemas Inviáveis": "2",
-    "Fazenda": NaN
+    "Fazenda": null,
+    "Unnamed: 20": null
   },
   {
     "ID": "3628927",
@@ -6048,7 +6326,8 @@ const VIABILIDADE_GEMAS_DATA = [
     "Quantidade de Gemas Total": "56",
     "Quantidade de Gemas Viáveis": "56",
     "Quantidade de Gemas Inviáveis": "0",
-    "Fazenda": NaN
+    "Fazenda": null,
+    "Unnamed: 20": null
   },
   {
     "ID": "3627238",
@@ -6070,7 +6349,8 @@ const VIABILIDADE_GEMAS_DATA = [
     "Quantidade de Gemas Total": "79",
     "Quantidade de Gemas Viáveis": "75",
     "Quantidade de Gemas Inviáveis": "4",
-    "Fazenda": NaN
+    "Fazenda": null,
+    "Unnamed: 20": null
   },
   {
     "ID": "3626956",
@@ -6092,7 +6372,8 @@ const VIABILIDADE_GEMAS_DATA = [
     "Quantidade de Gemas Total": "55",
     "Quantidade de Gemas Viáveis": "55",
     "Quantidade de Gemas Inviáveis": "0",
-    "Fazenda": NaN
+    "Fazenda": null,
+    "Unnamed: 20": null
   },
   {
     "ID": "3626949",
@@ -6114,7 +6395,8 @@ const VIABILIDADE_GEMAS_DATA = [
     "Quantidade de Gemas Total": "60",
     "Quantidade de Gemas Viáveis": "60",
     "Quantidade de Gemas Inviáveis": "0",
-    "Fazenda": NaN
+    "Fazenda": null,
+    "Unnamed: 20": null
   },
   {
     "ID": "3626944",
@@ -6136,7 +6418,8 @@ const VIABILIDADE_GEMAS_DATA = [
     "Quantidade de Gemas Total": "59",
     "Quantidade de Gemas Viáveis": "59",
     "Quantidade de Gemas Inviáveis": "0",
-    "Fazenda": NaN
+    "Fazenda": null,
+    "Unnamed: 20": null
   },
   {
     "ID": "3627057",
@@ -6158,7 +6441,8 @@ const VIABILIDADE_GEMAS_DATA = [
     "Quantidade de Gemas Total": "82",
     "Quantidade de Gemas Viáveis": "79",
     "Quantidade de Gemas Inviáveis": "4",
-    "Fazenda": NaN
+    "Fazenda": null,
+    "Unnamed: 20": null
   },
   {
     "ID": "3627049",
@@ -6180,7 +6464,8 @@ const VIABILIDADE_GEMAS_DATA = [
     "Quantidade de Gemas Total": "79",
     "Quantidade de Gemas Viáveis": "74",
     "Quantidade de Gemas Inviáveis": "5",
-    "Fazenda": NaN
+    "Fazenda": null,
+    "Unnamed: 20": null
   },
   {
     "ID": "3627043",
@@ -6202,7 +6487,8 @@ const VIABILIDADE_GEMAS_DATA = [
     "Quantidade de Gemas Total": "80",
     "Quantidade de Gemas Viáveis": "80",
     "Quantidade de Gemas Inviáveis": "0",
-    "Fazenda": NaN
+    "Fazenda": null,
+    "Unnamed: 20": null
   },
   {
     "ID": "3626581",
@@ -6224,7 +6510,8 @@ const VIABILIDADE_GEMAS_DATA = [
     "Quantidade de Gemas Total": "54",
     "Quantidade de Gemas Viáveis": "54",
     "Quantidade de Gemas Inviáveis": "0",
-    "Fazenda": NaN
+    "Fazenda": null,
+    "Unnamed: 20": null
   },
   {
     "ID": "3626580",
@@ -6246,7 +6533,8 @@ const VIABILIDADE_GEMAS_DATA = [
     "Quantidade de Gemas Total": "60",
     "Quantidade de Gemas Viáveis": "60",
     "Quantidade de Gemas Inviáveis": "0",
-    "Fazenda": NaN
+    "Fazenda": null,
+    "Unnamed: 20": null
   },
   {
     "ID": "3627038",
@@ -6268,7 +6556,8 @@ const VIABILIDADE_GEMAS_DATA = [
     "Quantidade de Gemas Total": "69",
     "Quantidade de Gemas Viáveis": "67",
     "Quantidade de Gemas Inviáveis": "2",
-    "Fazenda": NaN
+    "Fazenda": null,
+    "Unnamed: 20": null
   },
   {
     "ID": "3626578",
@@ -6290,7 +6579,8 @@ const VIABILIDADE_GEMAS_DATA = [
     "Quantidade de Gemas Total": "59",
     "Quantidade de Gemas Viáveis": "59",
     "Quantidade de Gemas Inviáveis": "0",
-    "Fazenda": NaN
+    "Fazenda": null,
+    "Unnamed: 20": null
   },
   {
     "ID": "3627164",
@@ -6312,7 +6602,8 @@ const VIABILIDADE_GEMAS_DATA = [
     "Quantidade de Gemas Total": "51",
     "Quantidade de Gemas Viáveis": "51",
     "Quantidade de Gemas Inviáveis": "0",
-    "Fazenda": NaN
+    "Fazenda": null,
+    "Unnamed: 20": null
   },
   {
     "ID": "3627156",
@@ -6334,7 +6625,8 @@ const VIABILIDADE_GEMAS_DATA = [
     "Quantidade de Gemas Total": "49",
     "Quantidade de Gemas Viáveis": "49",
     "Quantidade de Gemas Inviáveis": "0",
-    "Fazenda": NaN
+    "Fazenda": null,
+    "Unnamed: 20": null
   },
   {
     "ID": "3626416",
@@ -6356,7 +6648,8 @@ const VIABILIDADE_GEMAS_DATA = [
     "Quantidade de Gemas Total": "56",
     "Quantidade de Gemas Viáveis": "56",
     "Quantidade de Gemas Inviáveis": "0",
-    "Fazenda": NaN
+    "Fazenda": null,
+    "Unnamed: 20": null
   },
   {
     "ID": "3626575",
@@ -6378,7 +6671,8 @@ const VIABILIDADE_GEMAS_DATA = [
     "Quantidade de Gemas Total": "57",
     "Quantidade de Gemas Viáveis": "57",
     "Quantidade de Gemas Inviáveis": "0",
-    "Fazenda": NaN
+    "Fazenda": null,
+    "Unnamed: 20": null
   },
   {
     "ID": "3627030",
@@ -6400,7 +6694,8 @@ const VIABILIDADE_GEMAS_DATA = [
     "Quantidade de Gemas Total": "70",
     "Quantidade de Gemas Viáveis": "67",
     "Quantidade de Gemas Inviáveis": "3",
-    "Fazenda": NaN
+    "Fazenda": null,
+    "Unnamed: 20": null
   },
   {
     "ID": "3626574",
@@ -6422,7 +6717,8 @@ const VIABILIDADE_GEMAS_DATA = [
     "Quantidade de Gemas Total": "60",
     "Quantidade de Gemas Viáveis": "60",
     "Quantidade de Gemas Inviáveis": "0",
-    "Fazenda": NaN
+    "Fazenda": null,
+    "Unnamed: 20": null
   },
   {
     "ID": "3626405",
@@ -6444,7 +6740,8 @@ const VIABILIDADE_GEMAS_DATA = [
     "Quantidade de Gemas Total": "60",
     "Quantidade de Gemas Viáveis": "60",
     "Quantidade de Gemas Inviáveis": "0",
-    "Fazenda": NaN
+    "Fazenda": null,
+    "Unnamed: 20": null
   },
   {
     "ID": "3627027",
@@ -6466,7 +6763,8 @@ const VIABILIDADE_GEMAS_DATA = [
     "Quantidade de Gemas Total": "66",
     "Quantidade de Gemas Viáveis": "64",
     "Quantidade de Gemas Inviáveis": "2",
-    "Fazenda": NaN
+    "Fazenda": null,
+    "Unnamed: 20": null
   },
   {
     "ID": "3626572",
@@ -6488,7 +6786,8 @@ const VIABILIDADE_GEMAS_DATA = [
     "Quantidade de Gemas Total": "55",
     "Quantidade de Gemas Viáveis": "55",
     "Quantidade de Gemas Inviáveis": "0",
-    "Fazenda": NaN
+    "Fazenda": null,
+    "Unnamed: 20": null
   },
   {
     "ID": "3626399",
@@ -6510,7 +6809,8 @@ const VIABILIDADE_GEMAS_DATA = [
     "Quantidade de Gemas Total": "59",
     "Quantidade de Gemas Viáveis": "59",
     "Quantidade de Gemas Inviáveis": "0",
-    "Fazenda": NaN
+    "Fazenda": null,
+    "Unnamed: 20": null
   },
   {
     "ID": "3626394",
@@ -6532,7 +6832,8 @@ const VIABILIDADE_GEMAS_DATA = [
     "Quantidade de Gemas Total": "55",
     "Quantidade de Gemas Viáveis": "55",
     "Quantidade de Gemas Inviáveis": "0",
-    "Fazenda": NaN
+    "Fazenda": null,
+    "Unnamed: 20": null
   },
   {
     "ID": "3626389",
@@ -6554,7 +6855,8 @@ const VIABILIDADE_GEMAS_DATA = [
     "Quantidade de Gemas Total": "56",
     "Quantidade de Gemas Viáveis": "56",
     "Quantidade de Gemas Inviáveis": "0",
-    "Fazenda": NaN
+    "Fazenda": null,
+    "Unnamed: 20": null
   },
   {
     "ID": "3627021",
@@ -6576,7 +6878,8 @@ const VIABILIDADE_GEMAS_DATA = [
     "Quantidade de Gemas Total": "73",
     "Quantidade de Gemas Viáveis": "68",
     "Quantidade de Gemas Inviáveis": "5",
-    "Fazenda": NaN
+    "Fazenda": null,
+    "Unnamed: 20": null
   },
   {
     "ID": "3626384",
@@ -6598,7 +6901,8 @@ const VIABILIDADE_GEMAS_DATA = [
     "Quantidade de Gemas Total": "54",
     "Quantidade de Gemas Viáveis": "54",
     "Quantidade de Gemas Inviáveis": "0",
-    "Fazenda": NaN
+    "Fazenda": null,
+    "Unnamed: 20": null
   },
   {
     "ID": "3627179",
@@ -6620,7 +6924,8 @@ const VIABILIDADE_GEMAS_DATA = [
     "Quantidade de Gemas Total": "79",
     "Quantidade de Gemas Viáveis": "75",
     "Quantidade de Gemas Inviáveis": "4",
-    "Fazenda": NaN
+    "Fazenda": null,
+    "Unnamed: 20": null
   },
   {
     "ID": "3627175",
@@ -6642,7 +6947,8 @@ const VIABILIDADE_GEMAS_DATA = [
     "Quantidade de Gemas Total": "80",
     "Quantidade de Gemas Viáveis": "77",
     "Quantidade de Gemas Inviáveis": "3",
-    "Fazenda": NaN
+    "Fazenda": null,
+    "Unnamed: 20": null
   },
   {
     "ID": "3627146",
@@ -6664,7 +6970,8 @@ const VIABILIDADE_GEMAS_DATA = [
     "Quantidade de Gemas Total": "56",
     "Quantidade de Gemas Viáveis": "56",
     "Quantidade de Gemas Inviáveis": "0",
-    "Fazenda": NaN
+    "Fazenda": null,
+    "Unnamed: 20": null
   },
   {
     "ID": "3627143",
@@ -6686,7 +6993,8 @@ const VIABILIDADE_GEMAS_DATA = [
     "Quantidade de Gemas Total": "53",
     "Quantidade de Gemas Viáveis": "53",
     "Quantidade de Gemas Inviáveis": "0",
-    "Fazenda": NaN
+    "Fazenda": null,
+    "Unnamed: 20": null
   },
   {
     "ID": "3627138",
@@ -6708,7 +7016,8 @@ const VIABILIDADE_GEMAS_DATA = [
     "Quantidade de Gemas Total": "60",
     "Quantidade de Gemas Viáveis": "60",
     "Quantidade de Gemas Inviáveis": "0",
-    "Fazenda": NaN
+    "Fazenda": null,
+    "Unnamed: 20": null
   },
   {
     "ID": "3627001",
@@ -6730,7 +7039,8 @@ const VIABILIDADE_GEMAS_DATA = [
     "Quantidade de Gemas Total": "76",
     "Quantidade de Gemas Viáveis": "74",
     "Quantidade de Gemas Inviáveis": "2",
-    "Fazenda": NaN
+    "Fazenda": null,
+    "Unnamed: 20": null
   },
   {
     "ID": "3627133",
@@ -6752,7 +7062,8 @@ const VIABILIDADE_GEMAS_DATA = [
     "Quantidade de Gemas Total": "53",
     "Quantidade de Gemas Viáveis": "53",
     "Quantidade de Gemas Inviáveis": "0",
-    "Fazenda": NaN
+    "Fazenda": null,
+    "Unnamed: 20": null
   },
   {
     "ID": "3624969",
@@ -6774,7 +7085,8 @@ const VIABILIDADE_GEMAS_DATA = [
     "Quantidade de Gemas Total": "56",
     "Quantidade de Gemas Viáveis": "56",
     "Quantidade de Gemas Inviáveis": "0",
-    "Fazenda": NaN
+    "Fazenda": null,
+    "Unnamed: 20": null
   },
   {
     "ID": "3624845",
@@ -6796,7 +7108,8 @@ const VIABILIDADE_GEMAS_DATA = [
     "Quantidade de Gemas Total": "88",
     "Quantidade de Gemas Viáveis": "84",
     "Quantidade de Gemas Inviáveis": "4",
-    "Fazenda": NaN
+    "Fazenda": null,
+    "Unnamed: 20": null
   },
   {
     "ID": "3624957",
@@ -6818,7 +7131,8 @@ const VIABILIDADE_GEMAS_DATA = [
     "Quantidade de Gemas Total": "59",
     "Quantidade de Gemas Viáveis": "59",
     "Quantidade de Gemas Inviáveis": "0",
-    "Fazenda": NaN
+    "Fazenda": null,
+    "Unnamed: 20": null
   },
   {
     "ID": "3624837",
@@ -6840,7 +7154,8 @@ const VIABILIDADE_GEMAS_DATA = [
     "Quantidade de Gemas Total": "90",
     "Quantidade de Gemas Viáveis": "85",
     "Quantidade de Gemas Inviáveis": "5",
-    "Fazenda": NaN
+    "Fazenda": null,
+    "Unnamed: 20": null
   },
   {
     "ID": "3624822",
@@ -6862,7 +7177,8 @@ const VIABILIDADE_GEMAS_DATA = [
     "Quantidade de Gemas Total": "70",
     "Quantidade de Gemas Viáveis": "70",
     "Quantidade de Gemas Inviáveis": "0",
-    "Fazenda": NaN
+    "Fazenda": null,
+    "Unnamed: 20": null
   },
   {
     "ID": "3627107",
@@ -6884,7 +7200,8 @@ const VIABILIDADE_GEMAS_DATA = [
     "Quantidade de Gemas Total": "49",
     "Quantidade de Gemas Viáveis": "49",
     "Quantidade de Gemas Inviáveis": "0",
-    "Fazenda": NaN
+    "Fazenda": null,
+    "Unnamed: 20": null
   },
   {
     "ID": "3624816",
@@ -6906,7 +7223,8 @@ const VIABILIDADE_GEMAS_DATA = [
     "Quantidade de Gemas Total": "66",
     "Quantidade de Gemas Viáveis": "63",
     "Quantidade de Gemas Inviáveis": "3",
-    "Fazenda": NaN
+    "Fazenda": null,
+    "Unnamed: 20": null
   },
   {
     "ID": "3627096",
@@ -6928,7 +7246,8 @@ const VIABILIDADE_GEMAS_DATA = [
     "Quantidade de Gemas Total": "54",
     "Quantidade de Gemas Viáveis": "54",
     "Quantidade de Gemas Inviáveis": "0",
-    "Fazenda": NaN
+    "Fazenda": null,
+    "Unnamed: 20": null
   },
   {
     "ID": "3624804",
@@ -6950,7 +7269,8 @@ const VIABILIDADE_GEMAS_DATA = [
     "Quantidade de Gemas Total": "78",
     "Quantidade de Gemas Viáveis": "76",
     "Quantidade de Gemas Inviáveis": "2",
-    "Fazenda": NaN
+    "Fazenda": null,
+    "Unnamed: 20": null
   },
   {
     "ID": "3627077",
@@ -6972,7 +7292,8 @@ const VIABILIDADE_GEMAS_DATA = [
     "Quantidade de Gemas Total": "54",
     "Quantidade de Gemas Viáveis": "54",
     "Quantidade de Gemas Inviáveis": "0",
-    "Fazenda": NaN
+    "Fazenda": null,
+    "Unnamed: 20": null
   },
   {
     "ID": "3624801",
@@ -6994,7 +7315,8 @@ const VIABILIDADE_GEMAS_DATA = [
     "Quantidade de Gemas Total": "95",
     "Quantidade de Gemas Viáveis": "90",
     "Quantidade de Gemas Inviáveis": "5",
-    "Fazenda": NaN
+    "Fazenda": null,
+    "Unnamed: 20": null
   },
   {
     "ID": "3624341",
@@ -7016,7 +7338,8 @@ const VIABILIDADE_GEMAS_DATA = [
     "Quantidade de Gemas Total": "58",
     "Quantidade de Gemas Viáveis": "58",
     "Quantidade de Gemas Inviáveis": "0",
-    "Fazenda": NaN
+    "Fazenda": null,
+    "Unnamed: 20": null
   },
   {
     "ID": "3625522",
@@ -7038,7 +7361,8 @@ const VIABILIDADE_GEMAS_DATA = [
     "Quantidade de Gemas Total": "50",
     "Quantidade de Gemas Viáveis": "50",
     "Quantidade de Gemas Inviáveis": "0",
-    "Fazenda": NaN
+    "Fazenda": null,
+    "Unnamed: 20": null
   },
   {
     "ID": "3624629",
@@ -7060,7 +7384,8 @@ const VIABILIDADE_GEMAS_DATA = [
     "Quantidade de Gemas Total": "60",
     "Quantidade de Gemas Viáveis": "60",
     "Quantidade de Gemas Inviáveis": "0",
-    "Fazenda": NaN
+    "Fazenda": null,
+    "Unnamed: 20": null
   },
   {
     "ID": "3625515",
@@ -7082,7 +7407,8 @@ const VIABILIDADE_GEMAS_DATA = [
     "Quantidade de Gemas Total": "51",
     "Quantidade de Gemas Viáveis": "51",
     "Quantidade de Gemas Inviáveis": "0",
-    "Fazenda": NaN
+    "Fazenda": null,
+    "Unnamed: 20": null
   },
   {
     "ID": "3624625",
@@ -7104,7 +7430,8 @@ const VIABILIDADE_GEMAS_DATA = [
     "Quantidade de Gemas Total": "59",
     "Quantidade de Gemas Viáveis": "59",
     "Quantidade de Gemas Inviáveis": "0",
-    "Fazenda": NaN
+    "Fazenda": null,
+    "Unnamed: 20": null
   },
   {
     "ID": "3624621",
@@ -7126,7 +7453,8 @@ const VIABILIDADE_GEMAS_DATA = [
     "Quantidade de Gemas Total": "55",
     "Quantidade de Gemas Viáveis": "55",
     "Quantidade de Gemas Inviáveis": "0",
-    "Fazenda": NaN
+    "Fazenda": null,
+    "Unnamed: 20": null
   },
   {
     "ID": "3625467",
@@ -7148,7 +7476,8 @@ const VIABILIDADE_GEMAS_DATA = [
     "Quantidade de Gemas Total": "68",
     "Quantidade de Gemas Viáveis": "68",
     "Quantidade de Gemas Inviáveis": "0",
-    "Fazenda": NaN
+    "Fazenda": null,
+    "Unnamed: 20": null
   },
   {
     "ID": "3625457",
@@ -7170,7 +7499,8 @@ const VIABILIDADE_GEMAS_DATA = [
     "Quantidade de Gemas Total": "65",
     "Quantidade de Gemas Viáveis": "65",
     "Quantidade de Gemas Inviáveis": "0",
-    "Fazenda": NaN
+    "Fazenda": null,
+    "Unnamed: 20": null
   },
   {
     "ID": "3624615",
@@ -7192,7 +7522,8 @@ const VIABILIDADE_GEMAS_DATA = [
     "Quantidade de Gemas Total": "56",
     "Quantidade de Gemas Viáveis": "56",
     "Quantidade de Gemas Inviáveis": "0",
-    "Fazenda": NaN
+    "Fazenda": null,
+    "Unnamed: 20": null
   },
   {
     "ID": "3625458",
@@ -7214,7 +7545,8 @@ const VIABILIDADE_GEMAS_DATA = [
     "Quantidade de Gemas Total": "57",
     "Quantidade de Gemas Viáveis": "57",
     "Quantidade de Gemas Inviáveis": "0",
-    "Fazenda": NaN
+    "Fazenda": null,
+    "Unnamed: 20": null
   },
   {
     "ID": "3625476",
@@ -7236,7 +7568,8 @@ const VIABILIDADE_GEMAS_DATA = [
     "Quantidade de Gemas Total": "60",
     "Quantidade de Gemas Viáveis": "60",
     "Quantidade de Gemas Inviáveis": "0",
-    "Fazenda": NaN
+    "Fazenda": null,
+    "Unnamed: 20": null
   },
   {
     "ID": "3624316",
@@ -7258,7 +7591,8 @@ const VIABILIDADE_GEMAS_DATA = [
     "Quantidade de Gemas Total": "56",
     "Quantidade de Gemas Viáveis": "56",
     "Quantidade de Gemas Inviáveis": "0",
-    "Fazenda": NaN
+    "Fazenda": null,
+    "Unnamed: 20": null
   },
   {
     "ID": "3625452",
@@ -7280,7 +7614,8 @@ const VIABILIDADE_GEMAS_DATA = [
     "Quantidade de Gemas Total": "50",
     "Quantidade de Gemas Viáveis": "50",
     "Quantidade de Gemas Inviáveis": "0",
-    "Fazenda": NaN
+    "Fazenda": null,
+    "Unnamed: 20": null
   },
   {
     "ID": "3624312",
@@ -7302,7 +7637,8 @@ const VIABILIDADE_GEMAS_DATA = [
     "Quantidade de Gemas Total": "60",
     "Quantidade de Gemas Viáveis": "60",
     "Quantidade de Gemas Inviáveis": "0",
-    "Fazenda": NaN
+    "Fazenda": null,
+    "Unnamed: 20": null
   },
   {
     "ID": "3624019",
@@ -7324,7 +7660,8 @@ const VIABILIDADE_GEMAS_DATA = [
     "Quantidade de Gemas Total": "54",
     "Quantidade de Gemas Viáveis": "54",
     "Quantidade de Gemas Inviáveis": "0",
-    "Fazenda": NaN
+    "Fazenda": null,
+    "Unnamed: 20": null
   },
   {
     "ID": "3625447",
@@ -7346,7 +7683,8 @@ const VIABILIDADE_GEMAS_DATA = [
     "Quantidade de Gemas Total": "49",
     "Quantidade de Gemas Viáveis": "49",
     "Quantidade de Gemas Inviáveis": "0",
-    "Fazenda": NaN
+    "Fazenda": null,
+    "Unnamed: 20": null
   },
   {
     "ID": "3624014",
@@ -7368,7 +7706,8 @@ const VIABILIDADE_GEMAS_DATA = [
     "Quantidade de Gemas Total": "60",
     "Quantidade de Gemas Viáveis": "60",
     "Quantidade de Gemas Inviáveis": "0",
-    "Fazenda": NaN
+    "Fazenda": null,
+    "Unnamed: 20": null
   },
   {
     "ID": "3624262",
@@ -7390,7 +7729,8 @@ const VIABILIDADE_GEMAS_DATA = [
     "Quantidade de Gemas Total": "57",
     "Quantidade de Gemas Viáveis": "57",
     "Quantidade de Gemas Inviáveis": "0",
-    "Fazenda": NaN
+    "Fazenda": null,
+    "Unnamed: 20": null
   },
   {
     "ID": "3625419",
@@ -7412,7 +7752,8 @@ const VIABILIDADE_GEMAS_DATA = [
     "Quantidade de Gemas Total": "53",
     "Quantidade de Gemas Viáveis": "53",
     "Quantidade de Gemas Inviáveis": "0",
-    "Fazenda": NaN
+    "Fazenda": null,
+    "Unnamed: 20": null
   },
   {
     "ID": "3624008",
@@ -7434,7 +7775,8 @@ const VIABILIDADE_GEMAS_DATA = [
     "Quantidade de Gemas Total": "56",
     "Quantidade de Gemas Viáveis": "56",
     "Quantidade de Gemas Inviáveis": "0",
-    "Fazenda": NaN
+    "Fazenda": null,
+    "Unnamed: 20": null
   },
   {
     "ID": "3624220",
@@ -7456,7 +7798,8 @@ const VIABILIDADE_GEMAS_DATA = [
     "Quantidade de Gemas Total": "60",
     "Quantidade de Gemas Viáveis": "60",
     "Quantidade de Gemas Inviáveis": "0",
-    "Fazenda": NaN
+    "Fazenda": null,
+    "Unnamed: 20": null
   },
   {
     "ID": "3625414",
@@ -7478,7 +7821,8 @@ const VIABILIDADE_GEMAS_DATA = [
     "Quantidade de Gemas Total": "52",
     "Quantidade de Gemas Viáveis": "52",
     "Quantidade de Gemas Inviáveis": "0",
-    "Fazenda": NaN
+    "Fazenda": null,
+    "Unnamed: 20": null
   },
   {
     "ID": "3623994",
@@ -7500,7 +7844,8 @@ const VIABILIDADE_GEMAS_DATA = [
     "Quantidade de Gemas Total": "57",
     "Quantidade de Gemas Viáveis": "57",
     "Quantidade de Gemas Inviáveis": "0",
-    "Fazenda": NaN
+    "Fazenda": null,
+    "Unnamed: 20": null
   },
   {
     "ID": "3625375",
@@ -7522,7 +7867,8 @@ const VIABILIDADE_GEMAS_DATA = [
     "Quantidade de Gemas Total": "51",
     "Quantidade de Gemas Viáveis": "51",
     "Quantidade de Gemas Inviáveis": "0",
-    "Fazenda": NaN
+    "Fazenda": null,
+    "Unnamed: 20": null
   },
   {
     "ID": "3623989",
@@ -7544,7 +7890,8 @@ const VIABILIDADE_GEMAS_DATA = [
     "Quantidade de Gemas Total": "59",
     "Quantidade de Gemas Viáveis": "59",
     "Quantidade de Gemas Inviáveis": "0",
-    "Fazenda": NaN
+    "Fazenda": null,
+    "Unnamed: 20": null
   },
   {
     "ID": "3624010",
@@ -7566,7 +7913,8 @@ const VIABILIDADE_GEMAS_DATA = [
     "Quantidade de Gemas Total": "56",
     "Quantidade de Gemas Viáveis": "56",
     "Quantidade de Gemas Inviáveis": "0",
-    "Fazenda": NaN
+    "Fazenda": null,
+    "Unnamed: 20": null
   },
   {
     "ID": "3623978",
@@ -7588,7 +7936,8 @@ const VIABILIDADE_GEMAS_DATA = [
     "Quantidade de Gemas Total": "58",
     "Quantidade de Gemas Viáveis": "58",
     "Quantidade de Gemas Inviáveis": "0",
-    "Fazenda": NaN
+    "Fazenda": null,
+    "Unnamed: 20": null
   },
   {
     "ID": "3623984",
@@ -7610,7 +7959,8 @@ const VIABILIDADE_GEMAS_DATA = [
     "Quantidade de Gemas Total": "60",
     "Quantidade de Gemas Viáveis": "60",
     "Quantidade de Gemas Inviáveis": "0",
-    "Fazenda": NaN
+    "Fazenda": null,
+    "Unnamed: 20": null
   },
   {
     "ID": "3625369",
@@ -7632,7 +7982,8 @@ const VIABILIDADE_GEMAS_DATA = [
     "Quantidade de Gemas Total": "55",
     "Quantidade de Gemas Viáveis": "55",
     "Quantidade de Gemas Inviáveis": "0",
-    "Fazenda": NaN
+    "Fazenda": null,
+    "Unnamed: 20": null
   },
   {
     "ID": "3623972",
@@ -7654,7 +8005,8 @@ const VIABILIDADE_GEMAS_DATA = [
     "Quantidade de Gemas Total": "59",
     "Quantidade de Gemas Viáveis": "59",
     "Quantidade de Gemas Inviáveis": "0",
-    "Fazenda": NaN
+    "Fazenda": null,
+    "Unnamed: 20": null
   },
   {
     "ID": "3623964",
@@ -7676,7 +8028,8 @@ const VIABILIDADE_GEMAS_DATA = [
     "Quantidade de Gemas Total": "57",
     "Quantidade de Gemas Viáveis": "57",
     "Quantidade de Gemas Inviáveis": "0",
-    "Fazenda": NaN
+    "Fazenda": null,
+    "Unnamed: 20": null
   },
   {
     "ID": "3625364",
@@ -7698,7 +8051,8 @@ const VIABILIDADE_GEMAS_DATA = [
     "Quantidade de Gemas Total": "60",
     "Quantidade de Gemas Viáveis": "60",
     "Quantidade de Gemas Inviáveis": "0",
-    "Fazenda": NaN
+    "Fazenda": null,
+    "Unnamed: 20": null
   },
   {
     "ID": "3625359",
@@ -7720,7 +8074,8 @@ const VIABILIDADE_GEMAS_DATA = [
     "Quantidade de Gemas Total": "53",
     "Quantidade de Gemas Viáveis": "53",
     "Quantidade de Gemas Inviáveis": "0",
-    "Fazenda": NaN
+    "Fazenda": null,
+    "Unnamed: 20": null
   },
   {
     "ID": "3623957",
@@ -7742,7 +8097,8 @@ const VIABILIDADE_GEMAS_DATA = [
     "Quantidade de Gemas Total": "57",
     "Quantidade de Gemas Viáveis": "57",
     "Quantidade de Gemas Inviáveis": "0",
-    "Fazenda": NaN
+    "Fazenda": null,
+    "Unnamed: 20": null
   },
   {
     "ID": "3625351",
@@ -7764,7 +8120,8 @@ const VIABILIDADE_GEMAS_DATA = [
     "Quantidade de Gemas Total": "50",
     "Quantidade de Gemas Viáveis": "50",
     "Quantidade de Gemas Inviáveis": "0",
-    "Fazenda": NaN
+    "Fazenda": null,
+    "Unnamed: 20": null
   },
   {
     "ID": "3623938",
@@ -7786,7 +8143,8 @@ const VIABILIDADE_GEMAS_DATA = [
     "Quantidade de Gemas Total": "60",
     "Quantidade de Gemas Viáveis": "60",
     "Quantidade de Gemas Inviáveis": "0",
-    "Fazenda": NaN
+    "Fazenda": null,
+    "Unnamed: 20": null
   },
   {
     "ID": "3624608",
@@ -7808,7 +8166,8 @@ const VIABILIDADE_GEMAS_DATA = [
     "Quantidade de Gemas Total": "57",
     "Quantidade de Gemas Viáveis": "57",
     "Quantidade de Gemas Inviáveis": "0",
-    "Fazenda": NaN
+    "Fazenda": null,
+    "Unnamed: 20": null
   },
   {
     "ID": "3623933",
@@ -7830,7 +8189,8 @@ const VIABILIDADE_GEMAS_DATA = [
     "Quantidade de Gemas Total": "54",
     "Quantidade de Gemas Viáveis": "54",
     "Quantidade de Gemas Inviáveis": "0",
-    "Fazenda": NaN
+    "Fazenda": null,
+    "Unnamed: 20": null
   },
   {
     "ID": "3624566",
@@ -7852,7 +8212,8 @@ const VIABILIDADE_GEMAS_DATA = [
     "Quantidade de Gemas Total": "55",
     "Quantidade de Gemas Viáveis": "55",
     "Quantidade de Gemas Inviáveis": "0",
-    "Fazenda": NaN
+    "Fazenda": null,
+    "Unnamed: 20": null
   },
   {
     "ID": "3623928",
@@ -7874,7 +8235,8 @@ const VIABILIDADE_GEMAS_DATA = [
     "Quantidade de Gemas Total": "59",
     "Quantidade de Gemas Viáveis": "59",
     "Quantidade de Gemas Inviáveis": "0",
-    "Fazenda": NaN
+    "Fazenda": null,
+    "Unnamed: 20": null
   },
   {
     "ID": "3624561",
@@ -7896,7 +8258,8 @@ const VIABILIDADE_GEMAS_DATA = [
     "Quantidade de Gemas Total": "58",
     "Quantidade de Gemas Viáveis": "58",
     "Quantidade de Gemas Inviáveis": "0",
-    "Fazenda": NaN
+    "Fazenda": null,
+    "Unnamed: 20": null
   },
   {
     "ID": "3624556",
@@ -7918,7 +8281,8 @@ const VIABILIDADE_GEMAS_DATA = [
     "Quantidade de Gemas Total": "63",
     "Quantidade de Gemas Viáveis": "63",
     "Quantidade de Gemas Inviáveis": "0",
-    "Fazenda": NaN
+    "Fazenda": null,
+    "Unnamed: 20": null
   },
   {
     "ID": "3621944",
@@ -7940,7 +8304,8 @@ const VIABILIDADE_GEMAS_DATA = [
     "Quantidade de Gemas Total": "88",
     "Quantidade de Gemas Viáveis": "84",
     "Quantidade de Gemas Inviáveis": "4",
-    "Fazenda": NaN
+    "Fazenda": null,
+    "Unnamed: 20": null
   },
   {
     "ID": "3621668",
@@ -7962,7 +8327,8 @@ const VIABILIDADE_GEMAS_DATA = [
     "Quantidade de Gemas Total": "56",
     "Quantidade de Gemas Viáveis": "55",
     "Quantidade de Gemas Inviáveis": "1",
-    "Fazenda": NaN
+    "Fazenda": null,
+    "Unnamed: 20": null
   },
   {
     "ID": "3621993",
@@ -7984,7 +8350,8 @@ const VIABILIDADE_GEMAS_DATA = [
     "Quantidade de Gemas Total": "59",
     "Quantidade de Gemas Viáveis": "59",
     "Quantidade de Gemas Inviáveis": "0",
-    "Fazenda": NaN
+    "Fazenda": null,
+    "Unnamed: 20": null
   },
   {
     "ID": "3621607",
@@ -8006,7 +8373,8 @@ const VIABILIDADE_GEMAS_DATA = [
     "Quantidade de Gemas Total": "60",
     "Quantidade de Gemas Viáveis": "60",
     "Quantidade de Gemas Inviáveis": "0",
-    "Fazenda": NaN
+    "Fazenda": null,
+    "Unnamed: 20": null
   },
   {
     "ID": "3621988",
@@ -8028,7 +8396,8 @@ const VIABILIDADE_GEMAS_DATA = [
     "Quantidade de Gemas Total": "56",
     "Quantidade de Gemas Viáveis": "56",
     "Quantidade de Gemas Inviáveis": "0",
-    "Fazenda": NaN
+    "Fazenda": null,
+    "Unnamed: 20": null
   },
   {
     "ID": "3621455",
@@ -8050,7 +8419,8 @@ const VIABILIDADE_GEMAS_DATA = [
     "Quantidade de Gemas Total": "75",
     "Quantidade de Gemas Viáveis": "75",
     "Quantidade de Gemas Inviáveis": "0",
-    "Fazenda": NaN
+    "Fazenda": null,
+    "Unnamed: 20": null
   },
   {
     "ID": "3621979",
@@ -8072,7 +8442,8 @@ const VIABILIDADE_GEMAS_DATA = [
     "Quantidade de Gemas Total": "56",
     "Quantidade de Gemas Viáveis": "56",
     "Quantidade de Gemas Inviáveis": "0",
-    "Fazenda": NaN
+    "Fazenda": null,
+    "Unnamed: 20": null
   },
   {
     "ID": "3621877",
@@ -8094,7 +8465,8 @@ const VIABILIDADE_GEMAS_DATA = [
     "Quantidade de Gemas Total": "60",
     "Quantidade de Gemas Viáveis": "60",
     "Quantidade de Gemas Inviáveis": "0",
-    "Fazenda": NaN
+    "Fazenda": null,
+    "Unnamed: 20": null
   },
   {
     "ID": "3621449",
@@ -8116,7 +8488,8 @@ const VIABILIDADE_GEMAS_DATA = [
     "Quantidade de Gemas Total": "92",
     "Quantidade de Gemas Viáveis": "90",
     "Quantidade de Gemas Inviáveis": "2",
-    "Fazenda": NaN
+    "Fazenda": null,
+    "Unnamed: 20": null
   },
   {
     "ID": "3621601",
@@ -8138,7 +8511,8 @@ const VIABILIDADE_GEMAS_DATA = [
     "Quantidade de Gemas Total": "58",
     "Quantidade de Gemas Viáveis": "58",
     "Quantidade de Gemas Inviáveis": "0",
-    "Fazenda": NaN
+    "Fazenda": null,
+    "Unnamed: 20": null
   },
   {
     "ID": "3621935",
@@ -8160,7 +8534,8 @@ const VIABILIDADE_GEMAS_DATA = [
     "Quantidade de Gemas Total": "88",
     "Quantidade de Gemas Viáveis": "85",
     "Quantidade de Gemas Inviáveis": "3",
-    "Fazenda": NaN
+    "Fazenda": null,
+    "Unnamed: 20": null
   },
   {
     "ID": "3621870",
@@ -8182,7 +8557,8 @@ const VIABILIDADE_GEMAS_DATA = [
     "Quantidade de Gemas Total": "60",
     "Quantidade de Gemas Viáveis": "60",
     "Quantidade de Gemas Inviáveis": "0",
-    "Fazenda": NaN
+    "Fazenda": null,
+    "Unnamed: 20": null
   },
   {
     "ID": "3622203",
@@ -8204,7 +8580,8 @@ const VIABILIDADE_GEMAS_DATA = [
     "Quantidade de Gemas Total": "68",
     "Quantidade de Gemas Viáveis": "68",
     "Quantidade de Gemas Inviáveis": "0",
-    "Fazenda": NaN
+    "Fazenda": null,
+    "Unnamed: 20": null
   },
   {
     "ID": "3621924",
@@ -8226,7 +8603,8 @@ const VIABILIDADE_GEMAS_DATA = [
     "Quantidade de Gemas Total": "90",
     "Quantidade de Gemas Viáveis": "86",
     "Quantidade de Gemas Inviáveis": "4",
-    "Fazenda": NaN
+    "Fazenda": null,
+    "Unnamed: 20": null
   },
   {
     "ID": "3622194",
@@ -8248,7 +8626,8 @@ const VIABILIDADE_GEMAS_DATA = [
     "Quantidade de Gemas Total": "61",
     "Quantidade de Gemas Viáveis": "60",
     "Quantidade de Gemas Inviáveis": "1",
-    "Fazenda": NaN
+    "Fazenda": null,
+    "Unnamed: 20": null
   },
   {
     "ID": "3622192",
@@ -8270,7 +8649,8 @@ const VIABILIDADE_GEMAS_DATA = [
     "Quantidade de Gemas Total": "57",
     "Quantidade de Gemas Viáveis": "57",
     "Quantidade de Gemas Inviáveis": "0",
-    "Fazenda": NaN
+    "Fazenda": null,
+    "Unnamed: 20": null
   },
   {
     "ID": "3622187",
@@ -8292,7 +8672,8 @@ const VIABILIDADE_GEMAS_DATA = [
     "Quantidade de Gemas Total": "63",
     "Quantidade de Gemas Viáveis": "63",
     "Quantidade de Gemas Inviáveis": "0",
-    "Fazenda": NaN
+    "Fazenda": null,
+    "Unnamed: 20": null
   },
   {
     "ID": "3621595",
@@ -8314,7 +8695,8 @@ const VIABILIDADE_GEMAS_DATA = [
     "Quantidade de Gemas Total": "58",
     "Quantidade de Gemas Viáveis": "58",
     "Quantidade de Gemas Inviáveis": "2",
-    "Fazenda": NaN
+    "Fazenda": null,
+    "Unnamed: 20": null
   },
   {
     "ID": "3621590",
@@ -8336,7 +8718,8 @@ const VIABILIDADE_GEMAS_DATA = [
     "Quantidade de Gemas Total": "58",
     "Quantidade de Gemas Viáveis": "58",
     "Quantidade de Gemas Inviáveis": "0",
-    "Fazenda": NaN
+    "Fazenda": null,
+    "Unnamed: 20": null
   },
   {
     "ID": "3620974",
@@ -8358,7 +8741,8 @@ const VIABILIDADE_GEMAS_DATA = [
     "Quantidade de Gemas Total": "68",
     "Quantidade de Gemas Viáveis": "68",
     "Quantidade de Gemas Inviáveis": "0",
-    "Fazenda": NaN
+    "Fazenda": null,
+    "Unnamed: 20": null
   },
   {
     "ID": "3621917",
@@ -8380,7 +8764,8 @@ const VIABILIDADE_GEMAS_DATA = [
     "Quantidade de Gemas Total": "80",
     "Quantidade de Gemas Viáveis": "80",
     "Quantidade de Gemas Inviáveis": "0",
-    "Fazenda": NaN
+    "Fazenda": null,
+    "Unnamed: 20": null
   },
   {
     "ID": "3620968",
@@ -8402,7 +8787,8 @@ const VIABILIDADE_GEMAS_DATA = [
     "Quantidade de Gemas Total": "83",
     "Quantidade de Gemas Viáveis": "83",
     "Quantidade de Gemas Inviáveis": "0",
-    "Fazenda": NaN
+    "Fazenda": null,
+    "Unnamed: 20": null
   },
   {
     "ID": "3621913",
@@ -8424,7 +8810,8 @@ const VIABILIDADE_GEMAS_DATA = [
     "Quantidade de Gemas Total": "77",
     "Quantidade de Gemas Viáveis": "75",
     "Quantidade de Gemas Inviáveis": "2",
-    "Fazenda": NaN
+    "Fazenda": null,
+    "Unnamed: 20": null
   },
   {
     "ID": "3620965",
@@ -8446,7 +8833,8 @@ const VIABILIDADE_GEMAS_DATA = [
     "Quantidade de Gemas Total": "78",
     "Quantidade de Gemas Viáveis": "78",
     "Quantidade de Gemas Inviáveis": "0",
-    "Fazenda": NaN
+    "Fazenda": null,
+    "Unnamed: 20": null
   },
   {
     "ID": "3621909",
@@ -8468,7 +8856,8 @@ const VIABILIDADE_GEMAS_DATA = [
     "Quantidade de Gemas Total": "66",
     "Quantidade de Gemas Viáveis": "62",
     "Quantidade de Gemas Inviáveis": "4",
-    "Fazenda": NaN
+    "Fazenda": null,
+    "Unnamed: 20": null
   },
   {
     "ID": "3622483",
@@ -8490,7 +8879,8 @@ const VIABILIDADE_GEMAS_DATA = [
     "Quantidade de Gemas Total": "50",
     "Quantidade de Gemas Viáveis": "50",
     "Quantidade de Gemas Inviáveis": "0",
-    "Fazenda": NaN
+    "Fazenda": null,
+    "Unnamed: 20": null
   },
   {
     "ID": "3621905",
@@ -8512,7 +8902,8 @@ const VIABILIDADE_GEMAS_DATA = [
     "Quantidade de Gemas Total": "78",
     "Quantidade de Gemas Viáveis": "74",
     "Quantidade de Gemas Inviáveis": "4",
-    "Fazenda": NaN
+    "Fazenda": null,
+    "Unnamed: 20": null
   },
   {
     "ID": "3622467",
@@ -8534,7 +8925,8 @@ const VIABILIDADE_GEMAS_DATA = [
     "Quantidade de Gemas Total": "49",
     "Quantidade de Gemas Viáveis": "49",
     "Quantidade de Gemas Inviáveis": "0",
-    "Fazenda": NaN
+    "Fazenda": null,
+    "Unnamed: 20": null
   },
   {
     "ID": "3620944",
@@ -8556,7 +8948,8 @@ const VIABILIDADE_GEMAS_DATA = [
     "Quantidade de Gemas Total": "57",
     "Quantidade de Gemas Viáveis": "57",
     "Quantidade de Gemas Inviáveis": "0",
-    "Fazenda": NaN
+    "Fazenda": null,
+    "Unnamed: 20": null
   },
   {
     "ID": "3622461",
@@ -8578,7 +8971,8 @@ const VIABILIDADE_GEMAS_DATA = [
     "Quantidade de Gemas Total": "48",
     "Quantidade de Gemas Viáveis": "48",
     "Quantidade de Gemas Inviáveis": "0",
-    "Fazenda": NaN
+    "Fazenda": null,
+    "Unnamed: 20": null
   },
   {
     "ID": "3621899",
@@ -8600,7 +8994,8 @@ const VIABILIDADE_GEMAS_DATA = [
     "Quantidade de Gemas Total": "86",
     "Quantidade de Gemas Viáveis": "82",
     "Quantidade de Gemas Inviáveis": "4",
-    "Fazenda": NaN
+    "Fazenda": null,
+    "Unnamed: 20": null
   },
   {
     "ID": "3620939",
@@ -8622,7 +9017,8 @@ const VIABILIDADE_GEMAS_DATA = [
     "Quantidade de Gemas Total": "54",
     "Quantidade de Gemas Viáveis": "54",
     "Quantidade de Gemas Inviáveis": "0",
-    "Fazenda": NaN
+    "Fazenda": null,
+    "Unnamed: 20": null
   },
   {
     "ID": "3620934",
@@ -8644,7 +9040,8 @@ const VIABILIDADE_GEMAS_DATA = [
     "Quantidade de Gemas Total": "58",
     "Quantidade de Gemas Viáveis": "58",
     "Quantidade de Gemas Inviáveis": "0",
-    "Fazenda": NaN
+    "Fazenda": null,
+    "Unnamed: 20": null
   },
   {
     "ID": "3620930",
@@ -8666,7 +9063,8 @@ const VIABILIDADE_GEMAS_DATA = [
     "Quantidade de Gemas Total": "60",
     "Quantidade de Gemas Viáveis": "60",
     "Quantidade de Gemas Inviáveis": "0",
-    "Fazenda": NaN
+    "Fazenda": null,
+    "Unnamed: 20": null
   },
   {
     "ID": "3620922",
@@ -8688,7 +9086,8 @@ const VIABILIDADE_GEMAS_DATA = [
     "Quantidade de Gemas Total": "54",
     "Quantidade de Gemas Viáveis": "54",
     "Quantidade de Gemas Inviáveis": "0",
-    "Fazenda": NaN
+    "Fazenda": null,
+    "Unnamed: 20": null
   },
   {
     "ID": "3620912",
@@ -8710,7 +9109,8 @@ const VIABILIDADE_GEMAS_DATA = [
     "Quantidade de Gemas Total": "54",
     "Quantidade de Gemas Viáveis": "54",
     "Quantidade de Gemas Inviáveis": "0",
-    "Fazenda": NaN
+    "Fazenda": null,
+    "Unnamed: 20": null
   },
   {
     "ID": "3621171",
@@ -8732,7 +9132,8 @@ const VIABILIDADE_GEMAS_DATA = [
     "Quantidade de Gemas Total": "55",
     "Quantidade de Gemas Viáveis": "55",
     "Quantidade de Gemas Inviáveis": "0",
-    "Fazenda": NaN
+    "Fazenda": null,
+    "Unnamed: 20": null
   },
   {
     "ID": "3622182",
@@ -8754,7 +9155,8 @@ const VIABILIDADE_GEMAS_DATA = [
     "Quantidade de Gemas Total": "56",
     "Quantidade de Gemas Viáveis": "55",
     "Quantidade de Gemas Inviáveis": "1",
-    "Fazenda": NaN
+    "Fazenda": null,
+    "Unnamed: 20": null
   },
   {
     "ID": "3620907",
@@ -8776,7 +9178,8 @@ const VIABILIDADE_GEMAS_DATA = [
     "Quantidade de Gemas Total": "56",
     "Quantidade de Gemas Viáveis": "56",
     "Quantidade de Gemas Inviáveis": "0",
-    "Fazenda": NaN
+    "Fazenda": null,
+    "Unnamed: 20": null
   },
   {
     "ID": "3621163",
@@ -8798,7 +9201,8 @@ const VIABILIDADE_GEMAS_DATA = [
     "Quantidade de Gemas Total": "60",
     "Quantidade de Gemas Viáveis": "60",
     "Quantidade de Gemas Inviáveis": "0",
-    "Fazenda": NaN
+    "Fazenda": null,
+    "Unnamed: 20": null
   },
   {
     "ID": "3622176",
@@ -8820,7 +9224,8 @@ const VIABILIDADE_GEMAS_DATA = [
     "Quantidade de Gemas Total": "59",
     "Quantidade de Gemas Viáveis": "59",
     "Quantidade de Gemas Inviáveis": "0",
-    "Fazenda": NaN
+    "Fazenda": null,
+    "Unnamed: 20": null
   },
   {
     "ID": "3620902",
@@ -8842,7 +9247,8 @@ const VIABILIDADE_GEMAS_DATA = [
     "Quantidade de Gemas Total": "60",
     "Quantidade de Gemas Viáveis": "60",
     "Quantidade de Gemas Inviáveis": "0",
-    "Fazenda": NaN
+    "Fazenda": null,
+    "Unnamed: 20": null
   },
   {
     "ID": "3621153",
@@ -8864,7 +9270,8 @@ const VIABILIDADE_GEMAS_DATA = [
     "Quantidade de Gemas Total": "60",
     "Quantidade de Gemas Viáveis": "58",
     "Quantidade de Gemas Inviáveis": "2",
-    "Fazenda": NaN
+    "Fazenda": null,
+    "Unnamed: 20": null
   },
   {
     "ID": "3620898",
@@ -8886,7 +9293,8 @@ const VIABILIDADE_GEMAS_DATA = [
     "Quantidade de Gemas Total": "54",
     "Quantidade de Gemas Viáveis": "54",
     "Quantidade de Gemas Inviáveis": "0",
-    "Fazenda": NaN
+    "Fazenda": null,
+    "Unnamed: 20": null
   },
   {
     "ID": "3622171",
@@ -8908,7 +9316,8 @@ const VIABILIDADE_GEMAS_DATA = [
     "Quantidade de Gemas Total": "64",
     "Quantidade de Gemas Viáveis": "64",
     "Quantidade de Gemas Inviáveis": "0",
-    "Fazenda": NaN
+    "Fazenda": null,
+    "Unnamed: 20": null
   },
   {
     "ID": "3621148",
@@ -8930,7 +9339,8 @@ const VIABILIDADE_GEMAS_DATA = [
     "Quantidade de Gemas Total": "58",
     "Quantidade de Gemas Viáveis": "58",
     "Quantidade de Gemas Inviáveis": "0",
-    "Fazenda": NaN
+    "Fazenda": null,
+    "Unnamed: 20": null
   },
   {
     "ID": "3620891",
@@ -8952,7 +9362,8 @@ const VIABILIDADE_GEMAS_DATA = [
     "Quantidade de Gemas Total": "59",
     "Quantidade de Gemas Viáveis": "59",
     "Quantidade de Gemas Inviáveis": "0",
-    "Fazenda": NaN
+    "Fazenda": null,
+    "Unnamed: 20": null
   },
   {
     "ID": "3621143",
@@ -8974,7 +9385,8 @@ const VIABILIDADE_GEMAS_DATA = [
     "Quantidade de Gemas Total": "57",
     "Quantidade de Gemas Viáveis": "57",
     "Quantidade de Gemas Inviáveis": "0",
-    "Fazenda": NaN
+    "Fazenda": null,
+    "Unnamed: 20": null
   },
   {
     "ID": "3622166",
@@ -8996,7 +9408,8 @@ const VIABILIDADE_GEMAS_DATA = [
     "Quantidade de Gemas Total": "56",
     "Quantidade de Gemas Viáveis": "56",
     "Quantidade de Gemas Inviáveis": "0",
-    "Fazenda": NaN
+    "Fazenda": null,
+    "Unnamed: 20": null
   },
   {
     "ID": "3621138",
@@ -9018,7 +9431,8 @@ const VIABILIDADE_GEMAS_DATA = [
     "Quantidade de Gemas Total": "52",
     "Quantidade de Gemas Viáveis": "52",
     "Quantidade de Gemas Inviáveis": "0",
-    "Fazenda": NaN
+    "Fazenda": null,
+    "Unnamed: 20": null
   },
   {
     "ID": "3622161",
@@ -9040,7 +9454,8 @@ const VIABILIDADE_GEMAS_DATA = [
     "Quantidade de Gemas Total": "61",
     "Quantidade de Gemas Viáveis": "61",
     "Quantidade de Gemas Inviáveis": "0",
-    "Fazenda": NaN
+    "Fazenda": null,
+    "Unnamed: 20": null
   },
   {
     "ID": "3618781",
@@ -9062,7 +9477,8 @@ const VIABILIDADE_GEMAS_DATA = [
     "Quantidade de Gemas Total": "50",
     "Quantidade de Gemas Viáveis": "50",
     "Quantidade de Gemas Inviáveis": "0",
-    "Fazenda": NaN
+    "Fazenda": null,
+    "Unnamed: 20": null
   },
   {
     "ID": "3618401",
@@ -9084,7 +9500,8 @@ const VIABILIDADE_GEMAS_DATA = [
     "Quantidade de Gemas Total": "58",
     "Quantidade de Gemas Viáveis": "58",
     "Quantidade de Gemas Inviáveis": "0",
-    "Fazenda": NaN
+    "Fazenda": null,
+    "Unnamed: 20": null
   },
   {
     "ID": "3618394",
@@ -9106,7 +9523,8 @@ const VIABILIDADE_GEMAS_DATA = [
     "Quantidade de Gemas Total": "59",
     "Quantidade de Gemas Viáveis": "59",
     "Quantidade de Gemas Inviáveis": "0",
-    "Fazenda": NaN
+    "Fazenda": null,
+    "Unnamed: 20": null
   },
   {
     "ID": "3618389",
@@ -9128,7 +9546,8 @@ const VIABILIDADE_GEMAS_DATA = [
     "Quantidade de Gemas Total": "57",
     "Quantidade de Gemas Viáveis": "57",
     "Quantidade de Gemas Inviáveis": "0",
-    "Fazenda": NaN
+    "Fazenda": null,
+    "Unnamed: 20": null
   },
   {
     "ID": "3618462",
@@ -9150,7 +9569,8 @@ const VIABILIDADE_GEMAS_DATA = [
     "Quantidade de Gemas Total": "80",
     "Quantidade de Gemas Viáveis": "75",
     "Quantidade de Gemas Inviáveis": "5",
-    "Fazenda": NaN
+    "Fazenda": null,
+    "Unnamed: 20": null
   },
   {
     "ID": "3618383",
@@ -9172,7 +9592,8 @@ const VIABILIDADE_GEMAS_DATA = [
     "Quantidade de Gemas Total": "56",
     "Quantidade de Gemas Viáveis": "56",
     "Quantidade de Gemas Inviáveis": "0",
-    "Fazenda": NaN
+    "Fazenda": null,
+    "Unnamed: 20": null
   },
   {
     "ID": "3618349",
@@ -9194,7 +9615,8 @@ const VIABILIDADE_GEMAS_DATA = [
     "Quantidade de Gemas Total": "60",
     "Quantidade de Gemas Viáveis": "60",
     "Quantidade de Gemas Inviáveis": "0",
-    "Fazenda": NaN
+    "Fazenda": null,
+    "Unnamed: 20": null
   },
   {
     "ID": "3618344",
@@ -9216,7 +9638,8 @@ const VIABILIDADE_GEMAS_DATA = [
     "Quantidade de Gemas Total": "58",
     "Quantidade de Gemas Viáveis": "58",
     "Quantidade de Gemas Inviáveis": "0",
-    "Fazenda": NaN
+    "Fazenda": null,
+    "Unnamed: 20": null
   },
   {
     "ID": "3618797",
@@ -9238,7 +9661,8 @@ const VIABILIDADE_GEMAS_DATA = [
     "Quantidade de Gemas Total": "75",
     "Quantidade de Gemas Viáveis": "72",
     "Quantidade de Gemas Inviáveis": "3",
-    "Fazenda": NaN
+    "Fazenda": null,
+    "Unnamed: 20": null
   },
   {
     "ID": "3618774",
@@ -9260,7 +9684,8 @@ const VIABILIDADE_GEMAS_DATA = [
     "Quantidade de Gemas Total": "55",
     "Quantidade de Gemas Viáveis": "55",
     "Quantidade de Gemas Inviáveis": "0",
-    "Fazenda": NaN
+    "Fazenda": null,
+    "Unnamed: 20": null
   },
   {
     "ID": "3619775",
@@ -9282,7 +9707,8 @@ const VIABILIDADE_GEMAS_DATA = [
     "Quantidade de Gemas Total": "66",
     "Quantidade de Gemas Viáveis": "66",
     "Quantidade de Gemas Inviáveis": "0",
-    "Fazenda": NaN
+    "Fazenda": null,
+    "Unnamed: 20": null
   },
   {
     "ID": "3618337",
@@ -9304,7 +9730,8 @@ const VIABILIDADE_GEMAS_DATA = [
     "Quantidade de Gemas Total": "54",
     "Quantidade de Gemas Viáveis": "54",
     "Quantidade de Gemas Inviáveis": "0",
-    "Fazenda": NaN
+    "Fazenda": null,
+    "Unnamed: 20": null
   },
   {
     "ID": "3618769",
@@ -9326,7 +9753,8 @@ const VIABILIDADE_GEMAS_DATA = [
     "Quantidade de Gemas Total": "49",
     "Quantidade de Gemas Viáveis": "49",
     "Quantidade de Gemas Inviáveis": "0",
-    "Fazenda": NaN
+    "Fazenda": null,
+    "Unnamed: 20": null
   },
   {
     "ID": "3619773",
@@ -9348,7 +9776,8 @@ const VIABILIDADE_GEMAS_DATA = [
     "Quantidade de Gemas Total": "57",
     "Quantidade de Gemas Viáveis": "57",
     "Quantidade de Gemas Inviáveis": "0",
-    "Fazenda": NaN
+    "Fazenda": null,
+    "Unnamed: 20": null
   },
   {
     "ID": "3618793",
@@ -9370,7 +9799,8 @@ const VIABILIDADE_GEMAS_DATA = [
     "Quantidade de Gemas Total": "75",
     "Quantidade de Gemas Viáveis": "73",
     "Quantidade de Gemas Inviáveis": "2",
-    "Fazenda": NaN
+    "Fazenda": null,
+    "Unnamed: 20": null
   },
   {
     "ID": "3618765",
@@ -9392,7 +9822,8 @@ const VIABILIDADE_GEMAS_DATA = [
     "Quantidade de Gemas Total": "51",
     "Quantidade de Gemas Viáveis": "51",
     "Quantidade de Gemas Inviáveis": "0",
-    "Fazenda": NaN
+    "Fazenda": null,
+    "Unnamed: 20": null
   },
   {
     "ID": "3617925",
@@ -9414,7 +9845,8 @@ const VIABILIDADE_GEMAS_DATA = [
     "Quantidade de Gemas Total": "84",
     "Quantidade de Gemas Viáveis": "84",
     "Quantidade de Gemas Inviáveis": "0",
-    "Fazenda": NaN
+    "Fazenda": null,
+    "Unnamed: 20": null
   },
   {
     "ID": "3618332",
@@ -9436,7 +9868,8 @@ const VIABILIDADE_GEMAS_DATA = [
     "Quantidade de Gemas Total": "54",
     "Quantidade de Gemas Viáveis": "54",
     "Quantidade de Gemas Inviáveis": "0",
-    "Fazenda": NaN
+    "Fazenda": null,
+    "Unnamed: 20": null
   },
   {
     "ID": "3619768",
@@ -9458,7 +9891,8 @@ const VIABILIDADE_GEMAS_DATA = [
     "Quantidade de Gemas Total": "63",
     "Quantidade de Gemas Viáveis": "63",
     "Quantidade de Gemas Inviáveis": "0",
-    "Fazenda": NaN
+    "Fazenda": null,
+    "Unnamed: 20": null
   },
   {
     "ID": "3618760",
@@ -9480,7 +9914,8 @@ const VIABILIDADE_GEMAS_DATA = [
     "Quantidade de Gemas Total": "50",
     "Quantidade de Gemas Viáveis": "50",
     "Quantidade de Gemas Inviáveis": "0",
-    "Fazenda": NaN
+    "Fazenda": null,
+    "Unnamed: 20": null
   },
   {
     "ID": "3618321",
@@ -9502,7 +9937,8 @@ const VIABILIDADE_GEMAS_DATA = [
     "Quantidade de Gemas Total": "56",
     "Quantidade de Gemas Viáveis": "56",
     "Quantidade de Gemas Inviáveis": "0",
-    "Fazenda": NaN
+    "Fazenda": null,
+    "Unnamed: 20": null
   },
   {
     "ID": "3618787",
@@ -9524,7 +9960,8 @@ const VIABILIDADE_GEMAS_DATA = [
     "Quantidade de Gemas Total": "85",
     "Quantidade de Gemas Viáveis": "80",
     "Quantidade de Gemas Inviáveis": "5",
-    "Fazenda": NaN
+    "Fazenda": null,
+    "Unnamed: 20": null
   },
   {
     "ID": "3618585",
@@ -9546,7 +9983,8 @@ const VIABILIDADE_GEMAS_DATA = [
     "Quantidade de Gemas Total": "50",
     "Quantidade de Gemas Viáveis": "50",
     "Quantidade de Gemas Inviáveis": "0",
-    "Fazenda": NaN
+    "Fazenda": null,
+    "Unnamed: 20": null
   },
   {
     "ID": "3619744",
@@ -9568,7 +10006,8 @@ const VIABILIDADE_GEMAS_DATA = [
     "Quantidade de Gemas Total": "59",
     "Quantidade de Gemas Viáveis": "57",
     "Quantidade de Gemas Inviáveis": "2",
-    "Fazenda": NaN
+    "Fazenda": null,
+    "Unnamed: 20": null
   },
   {
     "ID": "3617919",
@@ -9590,7 +10029,8 @@ const VIABILIDADE_GEMAS_DATA = [
     "Quantidade de Gemas Total": "77",
     "Quantidade de Gemas Viáveis": "77",
     "Quantidade de Gemas Inviáveis": "0",
-    "Fazenda": NaN
+    "Fazenda": null,
+    "Unnamed: 20": null
   },
   {
     "ID": "3618278",
@@ -9612,7 +10052,8 @@ const VIABILIDADE_GEMAS_DATA = [
     "Quantidade de Gemas Total": "60",
     "Quantidade de Gemas Viáveis": "60",
     "Quantidade de Gemas Inviáveis": "0",
-    "Fazenda": NaN
+    "Fazenda": null,
+    "Unnamed: 20": null
   },
   {
     "ID": "3618373",
@@ -9634,7 +10075,8 @@ const VIABILIDADE_GEMAS_DATA = [
     "Quantidade de Gemas Total": "68",
     "Quantidade de Gemas Viáveis": "64",
     "Quantidade de Gemas Inviáveis": "4",
-    "Fazenda": NaN
+    "Fazenda": null,
+    "Unnamed: 20": null
   },
   {
     "ID": "3618272",
@@ -9656,7 +10098,8 @@ const VIABILIDADE_GEMAS_DATA = [
     "Quantidade de Gemas Total": "59",
     "Quantidade de Gemas Viáveis": "59",
     "Quantidade de Gemas Inviáveis": "0",
-    "Fazenda": NaN
+    "Fazenda": null,
+    "Unnamed: 20": null
   },
   {
     "ID": "3617913",
@@ -9678,7 +10121,8 @@ const VIABILIDADE_GEMAS_DATA = [
     "Quantidade de Gemas Total": "82",
     "Quantidade de Gemas Viáveis": "82",
     "Quantidade de Gemas Inviáveis": "0",
-    "Fazenda": NaN
+    "Fazenda": null,
+    "Unnamed: 20": null
   },
   {
     "ID": "3618580",
@@ -9700,7 +10144,8 @@ const VIABILIDADE_GEMAS_DATA = [
     "Quantidade de Gemas Total": "53",
     "Quantidade de Gemas Viáveis": "53",
     "Quantidade de Gemas Inviáveis": "0",
-    "Fazenda": NaN
+    "Fazenda": null,
+    "Unnamed: 20": null
   },
   {
     "ID": "3618338",
@@ -9722,7 +10167,8 @@ const VIABILIDADE_GEMAS_DATA = [
     "Quantidade de Gemas Total": "85",
     "Quantidade de Gemas Viáveis": "82",
     "Quantidade de Gemas Inviáveis": "3",
-    "Fazenda": NaN
+    "Fazenda": null,
+    "Unnamed: 20": null
   },
   {
     "ID": "3618753",
@@ -9744,7 +10190,8 @@ const VIABILIDADE_GEMAS_DATA = [
     "Quantidade de Gemas Total": "49",
     "Quantidade de Gemas Viáveis": "49",
     "Quantidade de Gemas Inviáveis": "0",
-    "Fazenda": NaN
+    "Fazenda": null,
+    "Unnamed: 20": null
   },
   {
     "ID": "3618743",
@@ -9766,7 +10213,8 @@ const VIABILIDADE_GEMAS_DATA = [
     "Quantidade de Gemas Total": "54",
     "Quantidade de Gemas Viáveis": "54",
     "Quantidade de Gemas Inviáveis": "0",
-    "Fazenda": NaN
+    "Fazenda": null,
+    "Unnamed: 20": null
   },
   {
     "ID": "3618736",
@@ -9788,7 +10236,8 @@ const VIABILIDADE_GEMAS_DATA = [
     "Quantidade de Gemas Total": "49",
     "Quantidade de Gemas Viáveis": "49",
     "Quantidade de Gemas Inviáveis": "0",
-    "Fazenda": NaN
+    "Fazenda": null,
+    "Unnamed: 20": null
   },
   {
     "ID": "3618733",
@@ -9810,7 +10259,8 @@ const VIABILIDADE_GEMAS_DATA = [
     "Quantidade de Gemas Total": "53",
     "Quantidade de Gemas Viáveis": "53",
     "Quantidade de Gemas Inviáveis": "0",
-    "Fazenda": NaN
+    "Fazenda": null,
+    "Unnamed: 20": null
   },
   {
     "ID": "3618725",
@@ -9832,7 +10282,8 @@ const VIABILIDADE_GEMAS_DATA = [
     "Quantidade de Gemas Total": "57",
     "Quantidade de Gemas Viáveis": "57",
     "Quantidade de Gemas Inviáveis": "0",
-    "Fazenda": NaN
+    "Fazenda": null,
+    "Unnamed: 20": null
   },
   {
     "ID": "3618721",
@@ -9854,7 +10305,8 @@ const VIABILIDADE_GEMAS_DATA = [
     "Quantidade de Gemas Total": "60",
     "Quantidade de Gemas Viáveis": "60",
     "Quantidade de Gemas Inviáveis": "0",
-    "Fazenda": NaN
+    "Fazenda": null,
+    "Unnamed: 20": null
   },
   {
     "ID": "3617788",
@@ -9876,7 +10328,8 @@ const VIABILIDADE_GEMAS_DATA = [
     "Quantidade de Gemas Total": "55",
     "Quantidade de Gemas Viáveis": "55",
     "Quantidade de Gemas Inviáveis": "0",
-    "Fazenda": NaN
+    "Fazenda": null,
+    "Unnamed: 20": null
   },
   {
     "ID": "3618573",
@@ -9898,7 +10351,8 @@ const VIABILIDADE_GEMAS_DATA = [
     "Quantidade de Gemas Total": "60",
     "Quantidade de Gemas Viáveis": "58",
     "Quantidade de Gemas Inviáveis": "2",
-    "Fazenda": NaN
+    "Fazenda": null,
+    "Unnamed: 20": null
   },
   {
     "ID": "3617782",
@@ -9920,7 +10374,8 @@ const VIABILIDADE_GEMAS_DATA = [
     "Quantidade de Gemas Total": "60",
     "Quantidade de Gemas Viáveis": "60",
     "Quantidade de Gemas Inviáveis": "0",
-    "Fazenda": NaN
+    "Fazenda": null,
+    "Unnamed: 20": null
   },
   {
     "ID": "3618568",
@@ -9942,7 +10397,8 @@ const VIABILIDADE_GEMAS_DATA = [
     "Quantidade de Gemas Total": "54",
     "Quantidade de Gemas Viáveis": "50",
     "Quantidade de Gemas Inviáveis": "4",
-    "Fazenda": NaN
+    "Fazenda": null,
+    "Unnamed: 20": null
   },
   {
     "ID": "3617884",
@@ -9964,7 +10420,8 @@ const VIABILIDADE_GEMAS_DATA = [
     "Quantidade de Gemas Total": "59",
     "Quantidade de Gemas Viáveis": "59",
     "Quantidade de Gemas Inviáveis": "0",
-    "Fazenda": NaN
+    "Fazenda": null,
+    "Unnamed: 20": null
   },
   {
     "ID": "3618563",
@@ -9986,7 +10443,8 @@ const VIABILIDADE_GEMAS_DATA = [
     "Quantidade de Gemas Total": "53",
     "Quantidade de Gemas Viáveis": "50",
     "Quantidade de Gemas Inviáveis": "3",
-    "Fazenda": NaN
+    "Fazenda": null,
+    "Unnamed: 20": null
   },
   {
     "ID": "3617777",
@@ -10008,7 +10466,8 @@ const VIABILIDADE_GEMAS_DATA = [
     "Quantidade de Gemas Total": "57",
     "Quantidade de Gemas Viáveis": "57",
     "Quantidade de Gemas Inviáveis": "0",
-    "Fazenda": NaN
+    "Fazenda": null,
+    "Unnamed: 20": null
   },
   {
     "ID": "3617744",
@@ -10030,7 +10489,8 @@ const VIABILIDADE_GEMAS_DATA = [
     "Quantidade de Gemas Total": "94",
     "Quantidade de Gemas Viáveis": "94",
     "Quantidade de Gemas Inviáveis": "0",
-    "Fazenda": NaN
+    "Fazenda": null,
+    "Unnamed: 20": null
   },
   {
     "ID": "3618558",
@@ -10052,7 +10512,8 @@ const VIABILIDADE_GEMAS_DATA = [
     "Quantidade de Gemas Total": "57",
     "Quantidade de Gemas Viáveis": "55",
     "Quantidade de Gemas Inviáveis": "2",
-    "Fazenda": NaN
+    "Fazenda": null,
+    "Unnamed: 20": null
   },
   {
     "ID": "3617772",
@@ -10074,7 +10535,8 @@ const VIABILIDADE_GEMAS_DATA = [
     "Quantidade de Gemas Total": "54",
     "Quantidade de Gemas Viáveis": "54",
     "Quantidade de Gemas Inviáveis": "0",
-    "Fazenda": NaN
+    "Fazenda": null,
+    "Unnamed: 20": null
   },
   {
     "ID": "3618285",
@@ -10096,7 +10558,8 @@ const VIABILIDADE_GEMAS_DATA = [
     "Quantidade de Gemas Total": "80",
     "Quantidade de Gemas Viáveis": "75",
     "Quantidade de Gemas Inviáveis": "5",
-    "Fazenda": NaN
+    "Fazenda": null,
+    "Unnamed: 20": null
   },
   {
     "ID": "3618553",
@@ -10118,7 +10581,8 @@ const VIABILIDADE_GEMAS_DATA = [
     "Quantidade de Gemas Total": "50",
     "Quantidade de Gemas Viáveis": "50",
     "Quantidade de Gemas Inviáveis": "0",
-    "Fazenda": NaN
+    "Fazenda": null,
+    "Unnamed: 20": null
   },
   {
     "ID": "3617719",
@@ -10140,7 +10604,8 @@ const VIABILIDADE_GEMAS_DATA = [
     "Quantidade de Gemas Total": "92",
     "Quantidade de Gemas Viáveis": "92",
     "Quantidade de Gemas Inviáveis": "0",
-    "Fazenda": NaN
+    "Fazenda": null,
+    "Unnamed: 20": null
   },
   {
     "ID": "3618271",
@@ -10162,7 +10627,8 @@ const VIABILIDADE_GEMAS_DATA = [
     "Quantidade de Gemas Total": "88",
     "Quantidade de Gemas Viáveis": "84",
     "Quantidade de Gemas Inviáveis": "4",
-    "Fazenda": NaN
+    "Fazenda": null,
+    "Unnamed: 20": null
   },
   {
     "ID": "3618261",
@@ -10184,7 +10650,8 @@ const VIABILIDADE_GEMAS_DATA = [
     "Quantidade de Gemas Total": "78",
     "Quantidade de Gemas Viáveis": "75",
     "Quantidade de Gemas Inviáveis": "3",
-    "Fazenda": NaN
+    "Fazenda": null,
+    "Unnamed: 20": null
   },
   {
     "ID": "3617878",
@@ -10206,7 +10673,8 @@ const VIABILIDADE_GEMAS_DATA = [
     "Quantidade de Gemas Total": "60",
     "Quantidade de Gemas Viáveis": "60",
     "Quantidade de Gemas Inviáveis": "0",
-    "Fazenda": NaN
+    "Fazenda": null,
+    "Unnamed: 20": null
   },
   {
     "ID": "3617712",
@@ -10228,7 +10696,8 @@ const VIABILIDADE_GEMAS_DATA = [
     "Quantidade de Gemas Total": "85",
     "Quantidade de Gemas Viáveis": "85",
     "Quantidade de Gemas Inviáveis": "0",
-    "Fazenda": NaN
+    "Fazenda": null,
+    "Unnamed: 20": null
   },
   {
     "ID": "3618256",
@@ -10250,7 +10719,8 @@ const VIABILIDADE_GEMAS_DATA = [
     "Quantidade de Gemas Total": "85",
     "Quantidade de Gemas Viáveis": "80",
     "Quantidade de Gemas Inviáveis": "5",
-    "Fazenda": NaN
+    "Fazenda": null,
+    "Unnamed: 20": null
   },
   {
     "ID": "3617871",
@@ -10272,7 +10742,8 @@ const VIABILIDADE_GEMAS_DATA = [
     "Quantidade de Gemas Total": "59",
     "Quantidade de Gemas Viáveis": "59",
     "Quantidade de Gemas Inviáveis": "0",
-    "Fazenda": NaN
+    "Fazenda": null,
+    "Unnamed: 20": null
   },
   {
     "ID": "3618250",
@@ -10294,7 +10765,8 @@ const VIABILIDADE_GEMAS_DATA = [
     "Quantidade de Gemas Total": "68",
     "Quantidade de Gemas Viáveis": "65",
     "Quantidade de Gemas Inviáveis": "3",
-    "Fazenda": NaN
+    "Fazenda": null,
+    "Unnamed: 20": null
   },
   {
     "ID": "3617865",
@@ -10316,7 +10788,8 @@ const VIABILIDADE_GEMAS_DATA = [
     "Quantidade de Gemas Total": "59",
     "Quantidade de Gemas Viáveis": "59",
     "Quantidade de Gemas Inviáveis": "0",
-    "Fazenda": NaN
+    "Fazenda": null,
+    "Unnamed: 20": null
   },
   {
     "ID": "3619736",
@@ -10338,7 +10811,8 @@ const VIABILIDADE_GEMAS_DATA = [
     "Quantidade de Gemas Total": "58",
     "Quantidade de Gemas Viáveis": "58",
     "Quantidade de Gemas Inviáveis": "0",
-    "Fazenda": NaN
+    "Fazenda": null,
+    "Unnamed: 20": null
   },
   {
     "ID": "3617568",
@@ -10360,7 +10834,8 @@ const VIABILIDADE_GEMAS_DATA = [
     "Quantidade de Gemas Total": "92",
     "Quantidade de Gemas Viáveis": "92",
     "Quantidade de Gemas Inviáveis": "0",
-    "Fazenda": NaN
+    "Fazenda": null,
+    "Unnamed: 20": null
   },
   {
     "ID": "3617858",
@@ -10382,7 +10857,8 @@ const VIABILIDADE_GEMAS_DATA = [
     "Quantidade de Gemas Total": "60",
     "Quantidade de Gemas Viáveis": "60",
     "Quantidade de Gemas Inviáveis": "0",
-    "Fazenda": NaN
+    "Fazenda": null,
+    "Unnamed: 20": null
   },
   {
     "ID": "3617561",
@@ -10404,7 +10880,8 @@ const VIABILIDADE_GEMAS_DATA = [
     "Quantidade de Gemas Total": "83",
     "Quantidade de Gemas Viáveis": "83",
     "Quantidade de Gemas Inviáveis": "0",
-    "Fazenda": NaN
+    "Fazenda": null,
+    "Unnamed: 20": null
   },
   {
     "ID": "3619732",
@@ -10426,7 +10903,8 @@ const VIABILIDADE_GEMAS_DATA = [
     "Quantidade de Gemas Total": "62",
     "Quantidade de Gemas Viáveis": "59",
     "Quantidade de Gemas Inviáveis": "3",
-    "Fazenda": NaN
+    "Fazenda": null,
+    "Unnamed: 20": null
   },
   {
     "ID": "3619724",
@@ -10448,7 +10926,8 @@ const VIABILIDADE_GEMAS_DATA = [
     "Quantidade de Gemas Total": "52",
     "Quantidade de Gemas Viáveis": "52",
     "Quantidade de Gemas Inviáveis": "0",
-    "Fazenda": NaN
+    "Fazenda": null,
+    "Unnamed: 20": null
   },
   {
     "ID": "3614618",
@@ -10470,7 +10949,8 @@ const VIABILIDADE_GEMAS_DATA = [
     "Quantidade de Gemas Total": "68",
     "Quantidade de Gemas Viáveis": "68",
     "Quantidade de Gemas Inviáveis": "0",
-    "Fazenda": NaN
+    "Fazenda": null,
+    "Unnamed: 20": null
   },
   {
     "ID": "3614611",
@@ -10492,7 +10972,8 @@ const VIABILIDADE_GEMAS_DATA = [
     "Quantidade de Gemas Total": "90",
     "Quantidade de Gemas Viáveis": "88",
     "Quantidade de Gemas Inviáveis": "2",
-    "Fazenda": NaN
+    "Fazenda": null,
+    "Unnamed: 20": null
   },
   {
     "ID": "3614601",
@@ -10514,7 +10995,8 @@ const VIABILIDADE_GEMAS_DATA = [
     "Quantidade de Gemas Total": "56",
     "Quantidade de Gemas Viáveis": "56",
     "Quantidade de Gemas Inviáveis": "0",
-    "Fazenda": NaN
+    "Fazenda": null,
+    "Unnamed: 20": null
   },
   {
     "ID": "3614596",
@@ -10536,7 +11018,8 @@ const VIABILIDADE_GEMAS_DATA = [
     "Quantidade de Gemas Total": "58",
     "Quantidade de Gemas Viáveis": "58",
     "Quantidade de Gemas Inviáveis": "0",
-    "Fazenda": NaN
+    "Fazenda": null,
+    "Unnamed: 20": null
   },
   {
     "ID": "3614591",
@@ -10558,7 +11041,8 @@ const VIABILIDADE_GEMAS_DATA = [
     "Quantidade de Gemas Total": "60",
     "Quantidade de Gemas Viáveis": "60",
     "Quantidade de Gemas Inviáveis": "0",
-    "Fazenda": NaN
+    "Fazenda": null,
+    "Unnamed: 20": null
   },
   {
     "ID": "3614377",
@@ -10580,7 +11064,8 @@ const VIABILIDADE_GEMAS_DATA = [
     "Quantidade de Gemas Total": "75",
     "Quantidade de Gemas Viáveis": "75",
     "Quantidade de Gemas Inviáveis": "0",
-    "Fazenda": NaN
+    "Fazenda": null,
+    "Unnamed: 20": null
   },
   {
     "ID": "3614683",
@@ -10602,7 +11087,8 @@ const VIABILIDADE_GEMAS_DATA = [
     "Quantidade de Gemas Total": "65",
     "Quantidade de Gemas Viáveis": "61",
     "Quantidade de Gemas Inviáveis": "4",
-    "Fazenda": NaN
+    "Fazenda": null,
+    "Unnamed: 20": null
   },
   {
     "ID": "3614586",
@@ -10624,7 +11110,8 @@ const VIABILIDADE_GEMAS_DATA = [
     "Quantidade de Gemas Total": "54",
     "Quantidade de Gemas Viáveis": "54",
     "Quantidade de Gemas Inviáveis": "0",
-    "Fazenda": NaN
+    "Fazenda": null,
+    "Unnamed: 20": null
   },
   {
     "ID": "3614371",
@@ -10646,7 +11133,8 @@ const VIABILIDADE_GEMAS_DATA = [
     "Quantidade de Gemas Total": "92",
     "Quantidade de Gemas Viáveis": "92",
     "Quantidade de Gemas Inviáveis": "0",
-    "Fazenda": NaN
+    "Fazenda": null,
+    "Unnamed: 20": null
   },
   {
     "ID": "3614679",
@@ -10668,7 +11156,8 @@ const VIABILIDADE_GEMAS_DATA = [
     "Quantidade de Gemas Total": "60",
     "Quantidade de Gemas Viáveis": "55",
     "Quantidade de Gemas Inviáveis": "5",
-    "Fazenda": NaN
+    "Fazenda": null,
+    "Unnamed: 20": null
   },
   {
     "ID": "3614342",
@@ -10690,7 +11179,8 @@ const VIABILIDADE_GEMAS_DATA = [
     "Quantidade de Gemas Total": "60",
     "Quantidade de Gemas Viáveis": "57",
     "Quantidade de Gemas Inviáveis": "3",
-    "Fazenda": NaN
+    "Fazenda": null,
+    "Unnamed: 20": null
   },
   {
     "ID": "3614289",
@@ -10712,7 +11202,8 @@ const VIABILIDADE_GEMAS_DATA = [
     "Quantidade de Gemas Total": "58",
     "Quantidade de Gemas Viáveis": "56",
     "Quantidade de Gemas Inviáveis": "2",
-    "Fazenda": NaN
+    "Fazenda": null,
+    "Unnamed: 20": null
   },
   {
     "ID": "3614363",
@@ -10734,7 +11225,8 @@ const VIABILIDADE_GEMAS_DATA = [
     "Quantidade de Gemas Total": "83",
     "Quantidade de Gemas Viáveis": "83",
     "Quantidade de Gemas Inviáveis": "0",
-    "Fazenda": NaN
+    "Fazenda": null,
+    "Unnamed: 20": null
   },
   {
     "ID": "3614359",
@@ -10756,7 +11248,8 @@ const VIABILIDADE_GEMAS_DATA = [
     "Quantidade de Gemas Total": "76",
     "Quantidade de Gemas Viáveis": "76",
     "Quantidade de Gemas Inviáveis": "0",
-    "Fazenda": NaN
+    "Fazenda": null,
+    "Unnamed: 20": null
   },
   {
     "ID": "3613972",
@@ -10778,7 +11271,8 @@ const VIABILIDADE_GEMAS_DATA = [
     "Quantidade de Gemas Total": "54",
     "Quantidade de Gemas Viáveis": "54",
     "Quantidade de Gemas Inviáveis": "0",
-    "Fazenda": NaN
+    "Fazenda": null,
+    "Unnamed: 20": null
   },
   {
     "ID": "3614671",
@@ -10800,7 +11294,8 @@ const VIABILIDADE_GEMAS_DATA = [
     "Quantidade de Gemas Total": "66",
     "Quantidade de Gemas Viáveis": "60",
     "Quantidade de Gemas Inviáveis": "6",
-    "Fazenda": NaN
+    "Fazenda": null,
+    "Unnamed: 20": null
   },
   {
     "ID": "3614196",
@@ -10822,7 +11317,8 @@ const VIABILIDADE_GEMAS_DATA = [
     "Quantidade de Gemas Total": "88",
     "Quantidade de Gemas Viáveis": "88",
     "Quantidade de Gemas Inviáveis": "0",
-    "Fazenda": NaN
+    "Fazenda": null,
+    "Unnamed: 20": null
   },
   {
     "ID": "3613967",
@@ -10844,7 +11340,8 @@ const VIABILIDADE_GEMAS_DATA = [
     "Quantidade de Gemas Total": "59",
     "Quantidade de Gemas Viáveis": "59",
     "Quantidade de Gemas Inviáveis": "0",
-    "Fazenda": NaN
+    "Fazenda": null,
+    "Unnamed: 20": null
   },
   {
     "ID": "3614664",
@@ -10866,7 +11363,8 @@ const VIABILIDADE_GEMAS_DATA = [
     "Quantidade de Gemas Total": "77",
     "Quantidade de Gemas Viáveis": "73",
     "Quantidade de Gemas Inviáveis": "4",
-    "Fazenda": NaN
+    "Fazenda": null,
+    "Unnamed: 20": null
   },
   {
     "ID": "3613962",
@@ -10888,7 +11386,8 @@ const VIABILIDADE_GEMAS_DATA = [
     "Quantidade de Gemas Total": "58",
     "Quantidade de Gemas Viáveis": "58",
     "Quantidade de Gemas Inviáveis": "0",
-    "Fazenda": NaN
+    "Fazenda": null,
+    "Unnamed: 20": null
   },
   {
     "ID": "3613956",
@@ -10910,7 +11409,8 @@ const VIABILIDADE_GEMAS_DATA = [
     "Quantidade de Gemas Total": "54",
     "Quantidade de Gemas Viáveis": "54",
     "Quantidade de Gemas Inviáveis": "0",
-    "Fazenda": NaN
+    "Fazenda": null,
+    "Unnamed: 20": null
   },
   {
     "ID": "3613952",
@@ -10932,7 +11432,8 @@ const VIABILIDADE_GEMAS_DATA = [
     "Quantidade de Gemas Total": "54",
     "Quantidade de Gemas Viáveis": "54",
     "Quantidade de Gemas Inviáveis": "0",
-    "Fazenda": NaN
+    "Fazenda": null,
+    "Unnamed: 20": null
   },
   {
     "ID": "3614658",
@@ -10954,7 +11455,8 @@ const VIABILIDADE_GEMAS_DATA = [
     "Quantidade de Gemas Total": "61",
     "Quantidade de Gemas Viáveis": "58",
     "Quantidade de Gemas Inviáveis": "3",
-    "Fazenda": NaN
+    "Fazenda": null,
+    "Unnamed: 20": null
   },
   {
     "ID": "3614654",
@@ -10976,7 +11478,8 @@ const VIABILIDADE_GEMAS_DATA = [
     "Quantidade de Gemas Total": "75",
     "Quantidade de Gemas Viáveis": "70",
     "Quantidade de Gemas Inviáveis": "5",
-    "Fazenda": NaN
+    "Fazenda": null,
+    "Unnamed: 20": null
   },
   {
     "ID": "3614649",
@@ -10998,7 +11501,8 @@ const VIABILIDADE_GEMAS_DATA = [
     "Quantidade de Gemas Total": "86",
     "Quantidade de Gemas Viáveis": "80",
     "Quantidade de Gemas Inviáveis": "6",
-    "Fazenda": NaN
+    "Fazenda": null,
+    "Unnamed: 20": null
   },
   {
     "ID": "3613810",
@@ -11020,7 +11524,8 @@ const VIABILIDADE_GEMAS_DATA = [
     "Quantidade de Gemas Total": "52",
     "Quantidade de Gemas Viáveis": "52",
     "Quantidade de Gemas Inviáveis": "0",
-    "Fazenda": NaN
+    "Fazenda": null,
+    "Unnamed: 20": null
   },
   {
     "ID": "3613946",
@@ -11042,7 +11547,8 @@ const VIABILIDADE_GEMAS_DATA = [
     "Quantidade de Gemas Total": "56",
     "Quantidade de Gemas Viáveis": "56",
     "Quantidade de Gemas Inviáveis": "0",
-    "Fazenda": NaN
+    "Fazenda": null,
+    "Unnamed: 20": null
   },
   {
     "ID": "3613801",
@@ -11064,7 +11570,8 @@ const VIABILIDADE_GEMAS_DATA = [
     "Quantidade de Gemas Total": "52",
     "Quantidade de Gemas Viáveis": "52",
     "Quantidade de Gemas Inviáveis": "0",
-    "Fazenda": NaN
+    "Fazenda": null,
+    "Unnamed: 20": null
   },
   {
     "ID": "3613941",
@@ -11086,7 +11593,8 @@ const VIABILIDADE_GEMAS_DATA = [
     "Quantidade de Gemas Total": "60",
     "Quantidade de Gemas Viáveis": "60",
     "Quantidade de Gemas Inviáveis": "0",
-    "Fazenda": NaN
+    "Fazenda": null,
+    "Unnamed: 20": null
   },
   {
     "ID": "3613796",
@@ -11108,7 +11616,8 @@ const VIABILIDADE_GEMAS_DATA = [
     "Quantidade de Gemas Total": "48",
     "Quantidade de Gemas Viáveis": "48",
     "Quantidade de Gemas Inviáveis": "0",
-    "Fazenda": NaN
+    "Fazenda": null,
+    "Unnamed: 20": null
   },
   {
     "ID": "3614643",
@@ -11130,7 +11639,8 @@ const VIABILIDADE_GEMAS_DATA = [
     "Quantidade de Gemas Total": "78",
     "Quantidade de Gemas Viáveis": "75",
     "Quantidade de Gemas Inviáveis": "3",
-    "Fazenda": NaN
+    "Fazenda": null,
+    "Unnamed: 20": null
   },
   {
     "ID": "3613936",
@@ -11152,7 +11662,8 @@ const VIABILIDADE_GEMAS_DATA = [
     "Quantidade de Gemas Total": "56",
     "Quantidade de Gemas Viáveis": "56",
     "Quantidade de Gemas Inviáveis": "0",
-    "Fazenda": NaN
+    "Fazenda": null,
+    "Unnamed: 20": null
   },
   {
     "ID": "3614638",
@@ -11174,7 +11685,8 @@ const VIABILIDADE_GEMAS_DATA = [
     "Quantidade de Gemas Total": "81",
     "Quantidade de Gemas Viáveis": "78",
     "Quantidade de Gemas Inviáveis": "3",
-    "Fazenda": NaN
+    "Fazenda": null,
+    "Unnamed: 20": null
   },
   {
     "ID": "3613931",
@@ -11196,7 +11708,8 @@ const VIABILIDADE_GEMAS_DATA = [
     "Quantidade de Gemas Total": "59",
     "Quantidade de Gemas Viáveis": "59",
     "Quantidade de Gemas Inviáveis": "0",
-    "Fazenda": NaN
+    "Fazenda": null,
+    "Unnamed: 20": null
   },
   {
     "ID": "3614633",
@@ -11218,7 +11731,8 @@ const VIABILIDADE_GEMAS_DATA = [
     "Quantidade de Gemas Total": "78",
     "Quantidade de Gemas Viáveis": "73",
     "Quantidade de Gemas Inviáveis": "5",
-    "Fazenda": NaN
+    "Fazenda": null,
+    "Unnamed: 20": null
   },
   {
     "ID": "3613788",
@@ -11240,7 +11754,8 @@ const VIABILIDADE_GEMAS_DATA = [
     "Quantidade de Gemas Total": "55",
     "Quantidade de Gemas Viáveis": "55",
     "Quantidade de Gemas Inviáveis": "0",
-    "Fazenda": NaN
+    "Fazenda": null,
+    "Unnamed: 20": null
   },
   {
     "ID": "3613926",
@@ -11262,7 +11777,8 @@ const VIABILIDADE_GEMAS_DATA = [
     "Quantidade de Gemas Total": "60",
     "Quantidade de Gemas Viáveis": "60",
     "Quantidade de Gemas Inviáveis": "0",
-    "Fazenda": NaN
+    "Fazenda": null,
+    "Unnamed: 20": null
   },
   {
     "ID": "3611593",
@@ -11284,7 +11800,8 @@ const VIABILIDADE_GEMAS_DATA = [
     "Quantidade de Gemas Total": "85",
     "Quantidade de Gemas Viáveis": "80",
     "Quantidade de Gemas Inviáveis": "5",
-    "Fazenda": NaN
+    "Fazenda": null,
+    "Unnamed: 20": null
   },
   {
     "ID": "3611640",
@@ -11306,7 +11823,8 @@ const VIABILIDADE_GEMAS_DATA = [
     "Quantidade de Gemas Total": "60",
     "Quantidade de Gemas Viáveis": "60",
     "Quantidade de Gemas Inviáveis": "0",
-    "Fazenda": NaN
+    "Fazenda": null,
+    "Unnamed: 20": null
   },
   {
     "ID": "3611637",
@@ -11328,7 +11846,8 @@ const VIABILIDADE_GEMAS_DATA = [
     "Quantidade de Gemas Total": "55",
     "Quantidade de Gemas Viáveis": "55",
     "Quantidade de Gemas Inviáveis": "0",
-    "Fazenda": NaN
+    "Fazenda": null,
+    "Unnamed: 20": null
   },
   {
     "ID": "3613603",
@@ -11350,7 +11869,8 @@ const VIABILIDADE_GEMAS_DATA = [
     "Quantidade de Gemas Total": "50",
     "Quantidade de Gemas Viáveis": "48",
     "Quantidade de Gemas Inviáveis": "2",
-    "Fazenda": NaN
+    "Fazenda": null,
+    "Unnamed: 20": null
   },
   {
     "ID": "3611636",
@@ -11372,7 +11892,8 @@ const VIABILIDADE_GEMAS_DATA = [
     "Quantidade de Gemas Total": "52",
     "Quantidade de Gemas Viáveis": "52",
     "Quantidade de Gemas Inviáveis": "0",
-    "Fazenda": NaN
+    "Fazenda": null,
+    "Unnamed: 20": null
   },
   {
     "ID": "3612787",
@@ -11394,7 +11915,8 @@ const VIABILIDADE_GEMAS_DATA = [
     "Quantidade de Gemas Total": "60",
     "Quantidade de Gemas Viáveis": "60",
     "Quantidade de Gemas Inviáveis": "0",
-    "Fazenda": NaN
+    "Fazenda": null,
+    "Unnamed: 20": null
   },
   {
     "ID": "3611583",
@@ -11416,7 +11938,8 @@ const VIABILIDADE_GEMAS_DATA = [
     "Quantidade de Gemas Total": "89",
     "Quantidade de Gemas Viáveis": "85",
     "Quantidade de Gemas Inviáveis": "4",
-    "Fazenda": NaN
+    "Fazenda": null,
+    "Unnamed: 20": null
   },
   {
     "ID": "3612782",
@@ -11438,7 +11961,8 @@ const VIABILIDADE_GEMAS_DATA = [
     "Quantidade de Gemas Total": "56",
     "Quantidade de Gemas Viáveis": "56",
     "Quantidade de Gemas Inviáveis": "0",
-    "Fazenda": NaN
+    "Fazenda": null,
+    "Unnamed: 20": null
   },
   {
     "ID": "3613597",
@@ -11460,7 +11984,8 @@ const VIABILIDADE_GEMAS_DATA = [
     "Quantidade de Gemas Total": "55",
     "Quantidade de Gemas Viáveis": "54",
     "Quantidade de Gemas Inviáveis": "1",
-    "Fazenda": NaN
+    "Fazenda": null,
+    "Unnamed: 20": null
   },
   {
     "ID": "3611578",
@@ -11482,7 +12007,8 @@ const VIABILIDADE_GEMAS_DATA = [
     "Quantidade de Gemas Total": "88",
     "Quantidade de Gemas Viáveis": "84",
     "Quantidade de Gemas Inviáveis": "4",
-    "Fazenda": NaN
+    "Fazenda": null,
+    "Unnamed: 20": null
   },
   {
     "ID": "3612778",
@@ -11504,7 +12030,8 @@ const VIABILIDADE_GEMAS_DATA = [
     "Quantidade de Gemas Total": "58",
     "Quantidade de Gemas Viáveis": "58",
     "Quantidade de Gemas Inviáveis": "0",
-    "Fazenda": NaN
+    "Fazenda": null,
+    "Unnamed: 20": null
   },
   {
     "ID": "3613590",
@@ -11526,7 +12053,8 @@ const VIABILIDADE_GEMAS_DATA = [
     "Quantidade de Gemas Total": "53",
     "Quantidade de Gemas Viáveis": "51",
     "Quantidade de Gemas Inviáveis": "2",
-    "Fazenda": NaN
+    "Fazenda": null,
+    "Unnamed: 20": null
   },
   {
     "ID": "3613585",
@@ -11548,7 +12076,8 @@ const VIABILIDADE_GEMAS_DATA = [
     "Quantidade de Gemas Total": "61",
     "Quantidade de Gemas Viáveis": "60",
     "Quantidade de Gemas Inviáveis": "1",
-    "Fazenda": NaN
+    "Fazenda": null,
+    "Unnamed: 20": null
   },
   {
     "ID": "3612770",
@@ -11570,7 +12099,8 @@ const VIABILIDADE_GEMAS_DATA = [
     "Quantidade de Gemas Total": "57",
     "Quantidade de Gemas Viáveis": "57",
     "Quantidade de Gemas Inviáveis": "0",
-    "Fazenda": NaN
+    "Fazenda": null,
+    "Unnamed: 20": null
   },
   {
     "ID": "3611572",
@@ -11592,7 +12122,8 @@ const VIABILIDADE_GEMAS_DATA = [
     "Quantidade de Gemas Total": "76",
     "Quantidade de Gemas Viáveis": "72",
     "Quantidade de Gemas Inviáveis": "4",
-    "Fazenda": NaN
+    "Fazenda": null,
+    "Unnamed: 20": null
   },
   {
     "ID": "3613580",
@@ -11614,7 +12145,8 @@ const VIABILIDADE_GEMAS_DATA = [
     "Quantidade de Gemas Total": "49",
     "Quantidade de Gemas Viáveis": "49",
     "Quantidade de Gemas Inviáveis": "0",
-    "Fazenda": NaN
+    "Fazenda": null,
+    "Unnamed: 20": null
   },
   {
     "ID": "3612768",
@@ -11636,7 +12168,8 @@ const VIABILIDADE_GEMAS_DATA = [
     "Quantidade de Gemas Total": "55",
     "Quantidade de Gemas Viáveis": "55",
     "Quantidade de Gemas Inviáveis": "0",
-    "Fazenda": NaN
+    "Fazenda": null,
+    "Unnamed: 20": null
   },
   {
     "ID": "3611567",
@@ -11658,7 +12191,8 @@ const VIABILIDADE_GEMAS_DATA = [
     "Quantidade de Gemas Total": "77",
     "Quantidade de Gemas Viáveis": "73",
     "Quantidade de Gemas Inviáveis": "4",
-    "Fazenda": NaN
+    "Fazenda": null,
+    "Unnamed: 20": null
   },
   {
     "ID": "3613573",
@@ -11680,7 +12214,8 @@ const VIABILIDADE_GEMAS_DATA = [
     "Quantidade de Gemas Total": "52",
     "Quantidade de Gemas Viáveis": "51",
     "Quantidade de Gemas Inviáveis": "1",
-    "Fazenda": NaN
+    "Fazenda": null,
+    "Unnamed: 20": null
   },
   {
     "ID": "3611562",
@@ -11702,7 +12237,8 @@ const VIABILIDADE_GEMAS_DATA = [
     "Quantidade de Gemas Total": "86",
     "Quantidade de Gemas Viáveis": "80",
     "Quantidade de Gemas Inviáveis": "6",
-    "Fazenda": NaN
+    "Fazenda": null,
+    "Unnamed: 20": null
   },
   {
     "ID": "3612762",
@@ -11724,7 +12260,8 @@ const VIABILIDADE_GEMAS_DATA = [
     "Quantidade de Gemas Total": "59",
     "Quantidade de Gemas Viáveis": "59",
     "Quantidade de Gemas Inviáveis": "0",
-    "Fazenda": NaN
+    "Fazenda": null,
+    "Unnamed: 20": null
   },
   {
     "ID": "3613567",
@@ -11746,7 +12283,8 @@ const VIABILIDADE_GEMAS_DATA = [
     "Quantidade de Gemas Total": "54",
     "Quantidade de Gemas Viáveis": "54",
     "Quantidade de Gemas Inviáveis": "0",
-    "Fazenda": NaN
+    "Fazenda": null,
+    "Unnamed: 20": null
   },
   {
     "ID": "3612757",
@@ -11768,7 +12306,8 @@ const VIABILIDADE_GEMAS_DATA = [
     "Quantidade de Gemas Total": "60",
     "Quantidade de Gemas Viáveis": "60",
     "Quantidade de Gemas Inviáveis": "0",
-    "Fazenda": NaN
+    "Fazenda": null,
+    "Unnamed: 20": null
   },
   {
     "ID": "3613562",
@@ -11790,7 +12329,8 @@ const VIABILIDADE_GEMAS_DATA = [
     "Quantidade de Gemas Total": "48",
     "Quantidade de Gemas Viáveis": "48",
     "Quantidade de Gemas Inviáveis": "0",
-    "Fazenda": NaN
+    "Fazenda": null,
+    "Unnamed: 20": null
   },
   {
     "ID": "3610962",
@@ -11812,7 +12352,8 @@ const VIABILIDADE_GEMAS_DATA = [
     "Quantidade de Gemas Total": "59",
     "Quantidade de Gemas Viáveis": "59",
     "Quantidade de Gemas Inviáveis": "0",
-    "Fazenda": NaN
+    "Fazenda": null,
+    "Unnamed: 20": null
   },
   {
     "ID": "3610961",
@@ -11834,7 +12375,8 @@ const VIABILIDADE_GEMAS_DATA = [
     "Quantidade de Gemas Total": "56",
     "Quantidade de Gemas Viáveis": "56",
     "Quantidade de Gemas Inviáveis": "0",
-    "Fazenda": NaN
+    "Fazenda": null,
+    "Unnamed: 20": null
   },
   {
     "ID": "3610960",
@@ -11856,7 +12398,8 @@ const VIABILIDADE_GEMAS_DATA = [
     "Quantidade de Gemas Total": "60",
     "Quantidade de Gemas Viáveis": "60",
     "Quantidade de Gemas Inviáveis": "0",
-    "Fazenda": NaN
+    "Fazenda": null,
+    "Unnamed: 20": null
   },
   {
     "ID": "3610944",
@@ -11878,7 +12421,8 @@ const VIABILIDADE_GEMAS_DATA = [
     "Quantidade de Gemas Total": "57",
     "Quantidade de Gemas Viáveis": "57",
     "Quantidade de Gemas Inviáveis": "0",
-    "Fazenda": NaN
+    "Fazenda": null,
+    "Unnamed: 20": null
   },
   {
     "ID": "3610941",
@@ -11900,7 +12444,8 @@ const VIABILIDADE_GEMAS_DATA = [
     "Quantidade de Gemas Total": "55",
     "Quantidade de Gemas Viáveis": "55",
     "Quantidade de Gemas Inviáveis": "0",
-    "Fazenda": NaN
+    "Fazenda": null,
+    "Unnamed: 20": null
   },
   {
     "ID": "3611196",
@@ -11922,7 +12467,8 @@ const VIABILIDADE_GEMAS_DATA = [
     "Quantidade de Gemas Total": "61",
     "Quantidade de Gemas Viáveis": "61",
     "Quantidade de Gemas Inviáveis": "0",
-    "Fazenda": NaN
+    "Fazenda": null,
+    "Unnamed: 20": null
   },
   {
     "ID": "3611553",
@@ -11944,7 +12490,8 @@ const VIABILIDADE_GEMAS_DATA = [
     "Quantidade de Gemas Total": "90",
     "Quantidade de Gemas Viáveis": "87",
     "Quantidade de Gemas Inviáveis": "3",
-    "Fazenda": NaN
+    "Fazenda": null,
+    "Unnamed: 20": null
   },
   {
     "ID": "3611191",
@@ -11966,7 +12513,8 @@ const VIABILIDADE_GEMAS_DATA = [
     "Quantidade de Gemas Total": "64",
     "Quantidade de Gemas Viáveis": "63",
     "Quantidade de Gemas Inviáveis": "1",
-    "Fazenda": NaN
+    "Fazenda": null,
+    "Unnamed: 20": null
   },
   {
     "ID": "3611185",
@@ -11988,7 +12536,8 @@ const VIABILIDADE_GEMAS_DATA = [
     "Quantidade de Gemas Total": "54",
     "Quantidade de Gemas Viáveis": "54",
     "Quantidade de Gemas Inviáveis": "0",
-    "Fazenda": NaN
+    "Fazenda": null,
+    "Unnamed: 20": null
   },
   {
     "ID": "3611784",
@@ -12010,7 +12559,8 @@ const VIABILIDADE_GEMAS_DATA = [
     "Quantidade de Gemas Total": "55",
     "Quantidade de Gemas Viáveis": "55",
     "Quantidade de Gemas Inviáveis": "0",
-    "Fazenda": NaN
+    "Fazenda": null,
+    "Unnamed: 20": null
   },
   {
     "ID": "3611777",
@@ -12032,7 +12582,8 @@ const VIABILIDADE_GEMAS_DATA = [
     "Quantidade de Gemas Total": "54",
     "Quantidade de Gemas Viáveis": "53",
     "Quantidade de Gemas Inviáveis": "1",
-    "Fazenda": NaN
+    "Fazenda": null,
+    "Unnamed: 20": null
   },
   {
     "ID": "3613556",
@@ -12054,7 +12605,8 @@ const VIABILIDADE_GEMAS_DATA = [
     "Quantidade de Gemas Total": "54",
     "Quantidade de Gemas Viáveis": "54",
     "Quantidade de Gemas Inviáveis": "0",
-    "Fazenda": NaN
+    "Fazenda": null,
+    "Unnamed: 20": null
   },
   {
     "ID": "3611542",
@@ -12076,7 +12628,8 @@ const VIABILIDADE_GEMAS_DATA = [
     "Quantidade de Gemas Total": "80",
     "Quantidade de Gemas Viáveis": "75",
     "Quantidade de Gemas Inviáveis": "5",
-    "Fazenda": NaN
+    "Fazenda": null,
+    "Unnamed: 20": null
   },
   {
     "ID": "3611768",
@@ -12098,7 +12651,8 @@ const VIABILIDADE_GEMAS_DATA = [
     "Quantidade de Gemas Total": "53",
     "Quantidade de Gemas Viáveis": "52",
     "Quantidade de Gemas Inviáveis": "1",
-    "Fazenda": NaN
+    "Fazenda": null,
+    "Unnamed: 20": null
   },
   {
     "ID": "3613551",
@@ -12120,7 +12674,8 @@ const VIABILIDADE_GEMAS_DATA = [
     "Quantidade de Gemas Total": "62",
     "Quantidade de Gemas Viáveis": "60",
     "Quantidade de Gemas Inviáveis": "2",
-    "Fazenda": NaN
+    "Fazenda": null,
+    "Unnamed: 20": null
   },
   {
     "ID": "3611536",
@@ -12142,7 +12697,8 @@ const VIABILIDADE_GEMAS_DATA = [
     "Quantidade de Gemas Total": "65",
     "Quantidade de Gemas Viáveis": "60",
     "Quantidade de Gemas Inviáveis": "5",
-    "Fazenda": NaN
+    "Fazenda": null,
+    "Unnamed: 20": null
   },
   {
     "ID": "3613545",
@@ -12164,7 +12720,8 @@ const VIABILIDADE_GEMAS_DATA = [
     "Quantidade de Gemas Total": "59",
     "Quantidade de Gemas Viáveis": "58",
     "Quantidade de Gemas Inviáveis": "1",
-    "Fazenda": NaN
+    "Fazenda": null,
+    "Unnamed: 20": null
   },
   {
     "ID": "3611750",
@@ -12186,7 +12743,8 @@ const VIABILIDADE_GEMAS_DATA = [
     "Quantidade de Gemas Total": "57",
     "Quantidade de Gemas Viáveis": "57",
     "Quantidade de Gemas Inviáveis": "0",
-    "Fazenda": NaN
+    "Fazenda": null,
+    "Unnamed: 20": null
   },
   {
     "ID": "3611737",
@@ -12208,7 +12766,8 @@ const VIABILIDADE_GEMAS_DATA = [
     "Quantidade de Gemas Total": "55",
     "Quantidade de Gemas Viáveis": "55",
     "Quantidade de Gemas Inviáveis": "0",
-    "Fazenda": NaN
+    "Fazenda": null,
+    "Unnamed: 20": null
   },
   {
     "ID": "3611730",
@@ -12230,7 +12789,8 @@ const VIABILIDADE_GEMAS_DATA = [
     "Quantidade de Gemas Total": "60",
     "Quantidade de Gemas Viáveis": "60",
     "Quantidade de Gemas Inviáveis": "0",
-    "Fazenda": NaN
+    "Fazenda": null,
+    "Unnamed: 20": null
   },
   {
     "ID": "3611097",
@@ -12252,7 +12812,8 @@ const VIABILIDADE_GEMAS_DATA = [
     "Quantidade de Gemas Total": "90",
     "Quantidade de Gemas Viáveis": "82",
     "Quantidade de Gemas Inviáveis": "8",
-    "Fazenda": NaN
+    "Fazenda": null,
+    "Unnamed: 20": null
   },
   {
     "ID": "3608273",
@@ -12274,7 +12835,8 @@ const VIABILIDADE_GEMAS_DATA = [
     "Quantidade de Gemas Total": "82",
     "Quantidade de Gemas Viáveis": "75",
     "Quantidade de Gemas Inviáveis": "7",
-    "Fazenda": NaN
+    "Fazenda": null,
+    "Unnamed: 20": null
   },
   {
     "ID": "3607897",
@@ -12296,7 +12858,8 @@ const VIABILIDADE_GEMAS_DATA = [
     "Quantidade de Gemas Total": "67",
     "Quantidade de Gemas Viáveis": "67",
     "Quantidade de Gemas Inviáveis": "0",
-    "Fazenda": NaN
+    "Fazenda": null,
+    "Unnamed: 20": null
   },
   {
     "ID": "3609568",
@@ -12318,7 +12881,8 @@ const VIABILIDADE_GEMAS_DATA = [
     "Quantidade de Gemas Total": "50",
     "Quantidade de Gemas Viáveis": "50",
     "Quantidade de Gemas Inviáveis": "0",
-    "Fazenda": NaN
+    "Fazenda": null,
+    "Unnamed: 20": null
   },
   {
     "ID": "3609565",
@@ -12340,7 +12904,8 @@ const VIABILIDADE_GEMAS_DATA = [
     "Quantidade de Gemas Total": "52",
     "Quantidade de Gemas Viáveis": "52",
     "Quantidade de Gemas Inviáveis": "0",
-    "Fazenda": NaN
+    "Fazenda": null,
+    "Unnamed: 20": null
   },
   {
     "ID": "3607894",
@@ -12362,7 +12927,8 @@ const VIABILIDADE_GEMAS_DATA = [
     "Quantidade de Gemas Total": "83",
     "Quantidade de Gemas Viáveis": "83",
     "Quantidade de Gemas Inviáveis": "0",
-    "Fazenda": NaN
+    "Fazenda": null,
+    "Unnamed: 20": null
   },
   {
     "ID": "3608556",
@@ -12384,7 +12950,8 @@ const VIABILIDADE_GEMAS_DATA = [
     "Quantidade de Gemas Total": "60",
     "Quantidade de Gemas Viáveis": "60",
     "Quantidade de Gemas Inviáveis": "0",
-    "Fazenda": NaN
+    "Fazenda": null,
+    "Unnamed: 20": null
   },
   {
     "ID": "3608551",
@@ -12406,7 +12973,8 @@ const VIABILIDADE_GEMAS_DATA = [
     "Quantidade de Gemas Total": "59",
     "Quantidade de Gemas Viáveis": "59",
     "Quantidade de Gemas Inviáveis": "0",
-    "Fazenda": NaN
+    "Fazenda": null,
+    "Unnamed: 20": null
   },
   {
     "ID": "3609558",
@@ -12428,7 +12996,8 @@ const VIABILIDADE_GEMAS_DATA = [
     "Quantidade de Gemas Total": "60",
     "Quantidade de Gemas Viáveis": "60",
     "Quantidade de Gemas Inviáveis": "0",
-    "Fazenda": NaN
+    "Fazenda": null,
+    "Unnamed: 20": null
   },
   {
     "ID": "3608546",
@@ -12450,7 +13019,8 @@ const VIABILIDADE_GEMAS_DATA = [
     "Quantidade de Gemas Total": "56",
     "Quantidade de Gemas Viáveis": "56",
     "Quantidade de Gemas Inviáveis": "0",
-    "Fazenda": NaN
+    "Fazenda": null,
+    "Unnamed: 20": null
   },
   {
     "ID": "3608709",
@@ -12472,7 +13042,8 @@ const VIABILIDADE_GEMAS_DATA = [
     "Quantidade de Gemas Total": "50",
     "Quantidade de Gemas Viáveis": "50",
     "Quantidade de Gemas Inviáveis": "0",
-    "Fazenda": NaN
+    "Fazenda": null,
+    "Unnamed: 20": null
   },
   {
     "ID": "3607612",
@@ -12494,7 +13065,8 @@ const VIABILIDADE_GEMAS_DATA = [
     "Quantidade de Gemas Total": "76",
     "Quantidade de Gemas Viáveis": "76",
     "Quantidade de Gemas Inviáveis": "0",
-    "Fazenda": NaN
+    "Fazenda": null,
+    "Unnamed: 20": null
   },
   {
     "ID": "3607518",
@@ -12516,7 +13088,8 @@ const VIABILIDADE_GEMAS_DATA = [
     "Quantidade de Gemas Total": "88",
     "Quantidade de Gemas Viáveis": "88",
     "Quantidade de Gemas Inviáveis": "0",
-    "Fazenda": NaN
+    "Fazenda": null,
+    "Unnamed: 20": null
   },
   {
     "ID": "3608314",
@@ -12538,7 +13111,8 @@ const VIABILIDADE_GEMAS_DATA = [
     "Quantidade de Gemas Total": "52",
     "Quantidade de Gemas Viáveis": "52",
     "Quantidade de Gemas Inviáveis": "0",
-    "Fazenda": NaN
+    "Fazenda": null,
+    "Unnamed: 20": null
   },
   {
     "ID": "3607507",
@@ -12560,7 +13134,8 @@ const VIABILIDADE_GEMAS_DATA = [
     "Quantidade de Gemas Total": "59",
     "Quantidade de Gemas Viáveis": "59",
     "Quantidade de Gemas Inviáveis": "0",
-    "Fazenda": NaN
+    "Fazenda": null,
+    "Unnamed: 20": null
   },
   {
     "ID": "3607600",
@@ -12582,7 +13157,8 @@ const VIABILIDADE_GEMAS_DATA = [
     "Quantidade de Gemas Total": "54",
     "Quantidade de Gemas Viáveis": "54",
     "Quantidade de Gemas Inviáveis": "0",
-    "Fazenda": NaN
+    "Fazenda": null,
+    "Unnamed: 20": null
   },
   {
     "ID": "3607505",
@@ -12604,7 +13180,8 @@ const VIABILIDADE_GEMAS_DATA = [
     "Quantidade de Gemas Total": "55",
     "Quantidade de Gemas Viáveis": "55",
     "Quantidade de Gemas Inviáveis": "0",
-    "Fazenda": NaN
+    "Fazenda": null,
+    "Unnamed: 20": null
   },
   {
     "ID": "3609538",
@@ -12626,7 +13203,8 @@ const VIABILIDADE_GEMAS_DATA = [
     "Quantidade de Gemas Total": "60",
     "Quantidade de Gemas Viáveis": "58",
     "Quantidade de Gemas Inviáveis": "2",
-    "Fazenda": NaN
+    "Fazenda": null,
+    "Unnamed: 20": null
   },
   {
     "ID": "3608309",
@@ -12648,7 +13226,8 @@ const VIABILIDADE_GEMAS_DATA = [
     "Quantidade de Gemas Total": "58",
     "Quantidade de Gemas Viáveis": "55",
     "Quantidade de Gemas Inviáveis": "3",
-    "Fazenda": NaN
+    "Fazenda": null,
+    "Unnamed: 20": null
   },
   {
     "ID": "3607595",
@@ -12670,7 +13249,8 @@ const VIABILIDADE_GEMAS_DATA = [
     "Quantidade de Gemas Total": "56",
     "Quantidade de Gemas Viáveis": "56",
     "Quantidade de Gemas Inviáveis": "0",
-    "Fazenda": NaN
+    "Fazenda": null,
+    "Unnamed: 20": null
   },
   {
     "ID": "3609533",
@@ -12692,7 +13272,8 @@ const VIABILIDADE_GEMAS_DATA = [
     "Quantidade de Gemas Total": "49",
     "Quantidade de Gemas Viáveis": "49",
     "Quantidade de Gemas Inviáveis": "0",
-    "Fazenda": NaN
+    "Fazenda": null,
+    "Unnamed: 20": null
   },
   {
     "ID": "3607590",
@@ -12714,7 +13295,8 @@ const VIABILIDADE_GEMAS_DATA = [
     "Quantidade de Gemas Total": "59",
     "Quantidade de Gemas Viáveis": "59",
     "Quantidade de Gemas Inviáveis": "0",
-    "Fazenda": NaN
+    "Fazenda": null,
+    "Unnamed: 20": null
   },
   {
     "ID": "3609525",
@@ -12736,7 +13318,8 @@ const VIABILIDADE_GEMAS_DATA = [
     "Quantidade de Gemas Total": "49",
     "Quantidade de Gemas Viáveis": "49",
     "Quantidade de Gemas Inviáveis": "0",
-    "Fazenda": NaN
+    "Fazenda": null,
+    "Unnamed: 20": null
   },
   {
     "ID": "3609522",
@@ -12758,7 +13341,8 @@ const VIABILIDADE_GEMAS_DATA = [
     "Quantidade de Gemas Total": "60",
     "Quantidade de Gemas Viáveis": "60",
     "Quantidade de Gemas Inviáveis": "0",
-    "Fazenda": NaN
+    "Fazenda": null,
+    "Unnamed: 20": null
   },
   {
     "ID": "3607580",
@@ -12780,7 +13364,8 @@ const VIABILIDADE_GEMAS_DATA = [
     "Quantidade de Gemas Total": "54",
     "Quantidade de Gemas Viáveis": "54",
     "Quantidade de Gemas Inviáveis": "0",
-    "Fazenda": NaN
+    "Fazenda": null,
+    "Unnamed: 20": null
   },
   {
     "ID": "3609640",
@@ -12802,7 +13387,8 @@ const VIABILIDADE_GEMAS_DATA = [
     "Quantidade de Gemas Total": "63",
     "Quantidade de Gemas Viáveis": "62",
     "Quantidade de Gemas Inviáveis": "1",
-    "Fazenda": NaN
+    "Fazenda": null,
+    "Unnamed: 20": null
   },
   {
     "ID": "3608262",
@@ -12824,7 +13410,8 @@ const VIABILIDADE_GEMAS_DATA = [
     "Quantidade de Gemas Total": "68",
     "Quantidade de Gemas Viáveis": "64",
     "Quantidade de Gemas Inviáveis": "4",
-    "Fazenda": NaN
+    "Fazenda": null,
+    "Unnamed: 20": null
   },
   {
     "ID": "3608301",
@@ -12846,7 +13433,8 @@ const VIABILIDADE_GEMAS_DATA = [
     "Quantidade de Gemas Total": "54",
     "Quantidade de Gemas Viáveis": "52",
     "Quantidade de Gemas Inviáveis": "2",
-    "Fazenda": NaN
+    "Fazenda": null,
+    "Unnamed: 20": null
   },
   {
     "ID": "3609517",
@@ -12868,7 +13456,8 @@ const VIABILIDADE_GEMAS_DATA = [
     "Quantidade de Gemas Total": "57",
     "Quantidade de Gemas Viáveis": "57",
     "Quantidade de Gemas Inviáveis": "0",
-    "Fazenda": NaN
+    "Fazenda": null,
+    "Unnamed: 20": null
   },
   {
     "ID": "3607575",
@@ -12890,7 +13479,8 @@ const VIABILIDADE_GEMAS_DATA = [
     "Quantidade de Gemas Total": "60",
     "Quantidade de Gemas Viáveis": "60",
     "Quantidade de Gemas Inviáveis": "0",
-    "Fazenda": NaN
+    "Fazenda": null,
+    "Unnamed: 20": null
   },
   {
     "ID": "3609635",
@@ -12912,7 +13502,8 @@ const VIABILIDADE_GEMAS_DATA = [
     "Quantidade de Gemas Total": "59",
     "Quantidade de Gemas Viáveis": "59",
     "Quantidade de Gemas Inviáveis": "0",
-    "Fazenda": NaN
+    "Fazenda": null,
+    "Unnamed: 20": null
   },
   {
     "ID": "3608258",
@@ -12934,7 +13525,8 @@ const VIABILIDADE_GEMAS_DATA = [
     "Quantidade de Gemas Total": "56",
     "Quantidade de Gemas Viáveis": "54",
     "Quantidade de Gemas Inviáveis": "2",
-    "Fazenda": NaN
+    "Fazenda": null,
+    "Unnamed: 20": null
   },
   {
     "ID": "3609512",
@@ -12956,7 +13548,8 @@ const VIABILIDADE_GEMAS_DATA = [
     "Quantidade de Gemas Total": "60",
     "Quantidade de Gemas Viáveis": "60",
     "Quantidade de Gemas Inviáveis": "0",
-    "Fazenda": NaN
+    "Fazenda": null,
+    "Unnamed: 20": null
   },
   {
     "ID": "3608296",
@@ -12978,7 +13571,8 @@ const VIABILIDADE_GEMAS_DATA = [
     "Quantidade de Gemas Total": "53",
     "Quantidade de Gemas Viáveis": "53",
     "Quantidade de Gemas Inviáveis": "0",
-    "Fazenda": NaN
+    "Fazenda": null,
+    "Unnamed: 20": null
   },
   {
     "ID": "3607570",
@@ -13000,7 +13594,8 @@ const VIABILIDADE_GEMAS_DATA = [
     "Quantidade de Gemas Total": "58",
     "Quantidade de Gemas Viáveis": "58",
     "Quantidade de Gemas Inviáveis": "0",
-    "Fazenda": NaN
+    "Fazenda": null,
+    "Unnamed: 20": null
   },
   {
     "ID": "3609507",
@@ -13022,7 +13617,8 @@ const VIABILIDADE_GEMAS_DATA = [
     "Quantidade de Gemas Total": "51",
     "Quantidade de Gemas Viáveis": "51",
     "Quantidade de Gemas Inviáveis": "0",
-    "Fazenda": NaN
+    "Fazenda": null,
+    "Unnamed: 20": null
   },
   {
     "ID": "3609629",
@@ -13044,7 +13640,8 @@ const VIABILIDADE_GEMAS_DATA = [
     "Quantidade de Gemas Total": "68",
     "Quantidade de Gemas Viáveis": "66",
     "Quantidade de Gemas Inviáveis": "2",
-    "Fazenda": NaN
+    "Fazenda": null,
+    "Unnamed: 20": null
   },
   {
     "ID": "3608291",
@@ -13066,7 +13663,8 @@ const VIABILIDADE_GEMAS_DATA = [
     "Quantidade de Gemas Total": "51",
     "Quantidade de Gemas Viáveis": "51",
     "Quantidade de Gemas Inviáveis": "0",
-    "Fazenda": NaN
+    "Fazenda": null,
+    "Unnamed: 20": null
   },
   {
     "ID": "3607565",
@@ -13088,7 +13686,8 @@ const VIABILIDADE_GEMAS_DATA = [
     "Quantidade de Gemas Total": "56",
     "Quantidade de Gemas Viáveis": "56",
     "Quantidade de Gemas Inviáveis": "0",
-    "Fazenda": NaN
+    "Fazenda": null,
+    "Unnamed: 20": null
   },
   {
     "ID": "3609502",
@@ -13110,7 +13709,8 @@ const VIABILIDADE_GEMAS_DATA = [
     "Quantidade de Gemas Total": "48",
     "Quantidade de Gemas Viáveis": "48",
     "Quantidade de Gemas Inviáveis": "0",
-    "Fazenda": NaN
+    "Fazenda": null,
+    "Unnamed: 20": null
   },
   {
     "ID": "3607443",
@@ -13132,7 +13732,8 @@ const VIABILIDADE_GEMAS_DATA = [
     "Quantidade de Gemas Total": "98",
     "Quantidade de Gemas Viáveis": "98",
     "Quantidade de Gemas Inviáveis": "0",
-    "Fazenda": NaN
+    "Fazenda": null,
+    "Unnamed: 20": null
   },
   {
     "ID": "3609624",
@@ -13154,7 +13755,8 @@ const VIABILIDADE_GEMAS_DATA = [
     "Quantidade de Gemas Total": "62",
     "Quantidade de Gemas Viáveis": "61",
     "Quantidade de Gemas Inviáveis": "1",
-    "Fazenda": NaN
+    "Fazenda": null,
+    "Unnamed: 20": null
   },
   {
     "ID": "3609497",
@@ -13176,7 +13778,8 @@ const VIABILIDADE_GEMAS_DATA = [
     "Quantidade de Gemas Total": "60",
     "Quantidade de Gemas Viáveis": "60",
     "Quantidade de Gemas Inviáveis": "0",
-    "Fazenda": NaN
+    "Fazenda": null,
+    "Unnamed: 20": null
   },
   {
     "ID": "3607560",
@@ -13198,7 +13801,8 @@ const VIABILIDADE_GEMAS_DATA = [
     "Quantidade de Gemas Total": "54",
     "Quantidade de Gemas Viáveis": "54",
     "Quantidade de Gemas Inviáveis": "0",
-    "Fazenda": NaN
+    "Fazenda": null,
+    "Unnamed: 20": null
   },
   {
     "ID": "3608286",
@@ -13220,7 +13824,8 @@ const VIABILIDADE_GEMAS_DATA = [
     "Quantidade de Gemas Total": "58",
     "Quantidade de Gemas Viáveis": "58",
     "Quantidade de Gemas Inviáveis": "0",
-    "Fazenda": NaN
+    "Fazenda": null,
+    "Unnamed: 20": null
   },
   {
     "ID": "3608254",
@@ -13242,7 +13847,8 @@ const VIABILIDADE_GEMAS_DATA = [
     "Quantidade de Gemas Total": "63",
     "Quantidade de Gemas Viáveis": "60",
     "Quantidade de Gemas Inviáveis": "3",
-    "Fazenda": NaN
+    "Fazenda": null,
+    "Unnamed: 20": null
   },
   {
     "ID": "3609573",
@@ -13264,7 +13870,8 @@ const VIABILIDADE_GEMAS_DATA = [
     "Quantidade de Gemas Total": "60",
     "Quantidade de Gemas Viáveis": "60",
     "Quantidade de Gemas Inviáveis": "0",
-    "Fazenda": NaN
+    "Fazenda": null,
+    "Unnamed: 20": null
   },
   {
     "ID": "3607555",
@@ -13286,7 +13893,8 @@ const VIABILIDADE_GEMAS_DATA = [
     "Quantidade de Gemas Total": "54",
     "Quantidade de Gemas Viáveis": "54",
     "Quantidade de Gemas Inviáveis": "0",
-    "Fazenda": NaN
+    "Fazenda": null,
+    "Unnamed: 20": null
   },
   {
     "ID": "3608280",
@@ -13308,7 +13916,8 @@ const VIABILIDADE_GEMAS_DATA = [
     "Quantidade de Gemas Total": "60",
     "Quantidade de Gemas Viáveis": "58",
     "Quantidade de Gemas Inviáveis": "2",
-    "Fazenda": NaN
+    "Fazenda": null,
+    "Unnamed: 20": null
   },
   {
     "ID": "3607550",
@@ -13330,7 +13939,8 @@ const VIABILIDADE_GEMAS_DATA = [
     "Quantidade de Gemas Total": "58",
     "Quantidade de Gemas Viáveis": "58",
     "Quantidade de Gemas Inviáveis": "0",
-    "Fazenda": NaN
+    "Fazenda": null,
+    "Unnamed: 20": null
   },
   {
     "ID": "3607427",
@@ -13352,7 +13962,8 @@ const VIABILIDADE_GEMAS_DATA = [
     "Quantidade de Gemas Total": "86",
     "Quantidade de Gemas Viáveis": "86",
     "Quantidade de Gemas Inviáveis": "0",
-    "Fazenda": NaN
+    "Fazenda": null,
+    "Unnamed: 20": null
   },
   {
     "ID": "3607545",
@@ -13374,7 +13985,8 @@ const VIABILIDADE_GEMAS_DATA = [
     "Quantidade de Gemas Total": "59",
     "Quantidade de Gemas Viáveis": "59",
     "Quantidade de Gemas Inviáveis": "0",
-    "Fazenda": NaN
+    "Fazenda": null,
+    "Unnamed: 20": null
   },
   {
     "ID": "3608246",
@@ -13396,7 +14008,8 @@ const VIABILIDADE_GEMAS_DATA = [
     "Quantidade de Gemas Total": "69",
     "Quantidade de Gemas Viáveis": "66",
     "Quantidade de Gemas Inviáveis": "3",
-    "Fazenda": NaN
+    "Fazenda": null,
+    "Unnamed: 20": null
   },
   {
     "ID": "3607495",
@@ -13418,7 +14031,8 @@ const VIABILIDADE_GEMAS_DATA = [
     "Quantidade de Gemas Total": "58",
     "Quantidade de Gemas Viáveis": "58",
     "Quantidade de Gemas Inviáveis": "0",
-    "Fazenda": NaN
+    "Fazenda": null,
+    "Unnamed: 20": null
   },
   {
     "ID": "3609618",
@@ -13440,7 +14054,8 @@ const VIABILIDADE_GEMAS_DATA = [
     "Quantidade de Gemas Total": "56",
     "Quantidade de Gemas Viáveis": "54",
     "Quantidade de Gemas Inviáveis": "2",
-    "Fazenda": NaN
+    "Fazenda": null,
+    "Unnamed: 20": null
   },
   {
     "ID": "3609614",
@@ -13462,7 +14077,8 @@ const VIABILIDADE_GEMAS_DATA = [
     "Quantidade de Gemas Total": "53",
     "Quantidade de Gemas Viáveis": "53",
     "Quantidade de Gemas Inviáveis": "0",
-    "Fazenda": NaN
+    "Fazenda": null,
+    "Unnamed: 20": null
   },
   {
     "ID": "3608237",
@@ -13484,7 +14100,8 @@ const VIABILIDADE_GEMAS_DATA = [
     "Quantidade de Gemas Total": "95",
     "Quantidade de Gemas Viáveis": "90",
     "Quantidade de Gemas Inviáveis": "5",
-    "Fazenda": NaN
+    "Fazenda": null,
+    "Unnamed: 20": null
   },
   {
     "ID": "3608232",
@@ -13506,7 +14123,8 @@ const VIABILIDADE_GEMAS_DATA = [
     "Quantidade de Gemas Total": "66",
     "Quantidade de Gemas Viáveis": "63",
     "Quantidade de Gemas Inviáveis": "3",
-    "Fazenda": NaN
+    "Fazenda": null,
+    "Unnamed: 20": null
   },
   {
     "ID": "3608224",
@@ -13528,7 +14146,8 @@ const VIABILIDADE_GEMAS_DATA = [
     "Quantidade de Gemas Total": "90",
     "Quantidade de Gemas Viáveis": "8",
     "Quantidade de Gemas Inviáveis": "5",
-    "Fazenda": NaN
+    "Fazenda": null,
+    "Unnamed: 20": null
   },
   {
     "ID": "3605440",
@@ -13550,7 +14169,8 @@ const VIABILIDADE_GEMAS_DATA = [
     "Quantidade de Gemas Total": "58",
     "Quantidade de Gemas Viáveis": "58",
     "Quantidade de Gemas Inviáveis": "0",
-    "Fazenda": NaN
+    "Fazenda": null,
+    "Unnamed: 20": null
   },
   {
     "ID": "3604929",
@@ -13572,7 +14192,8 @@ const VIABILIDADE_GEMAS_DATA = [
     "Quantidade de Gemas Total": "59",
     "Quantidade de Gemas Viáveis": "59",
     "Quantidade de Gemas Inviáveis": "0",
-    "Fazenda": NaN
+    "Fazenda": null,
+    "Unnamed: 20": null
   },
   {
     "ID": "3604925",
@@ -13594,7 +14215,8 @@ const VIABILIDADE_GEMAS_DATA = [
     "Quantidade de Gemas Total": "58",
     "Quantidade de Gemas Viáveis": "58",
     "Quantidade de Gemas Inviáveis": "0",
-    "Fazenda": NaN
+    "Fazenda": null,
+    "Unnamed: 20": null
   },
   {
     "ID": "3604918",
@@ -13616,7 +14238,8 @@ const VIABILIDADE_GEMAS_DATA = [
     "Quantidade de Gemas Total": "65",
     "Quantidade de Gemas Viáveis": "61",
     "Quantidade de Gemas Inviáveis": "4",
-    "Fazenda": NaN
+    "Fazenda": null,
+    "Unnamed: 20": null
   },
   {
     "ID": "3605017",
@@ -13638,7 +14261,8 @@ const VIABILIDADE_GEMAS_DATA = [
     "Quantidade de Gemas Total": "68",
     "Quantidade de Gemas Viáveis": "68",
     "Quantidade de Gemas Inviáveis": "0",
-    "Fazenda": NaN
+    "Fazenda": null,
+    "Unnamed: 20": null
   },
   {
     "ID": "3605012",
@@ -13660,7 +14284,8 @@ const VIABILIDADE_GEMAS_DATA = [
     "Quantidade de Gemas Total": "92",
     "Quantidade de Gemas Viáveis": "92",
     "Quantidade de Gemas Inviáveis": "0",
-    "Fazenda": NaN
+    "Fazenda": null,
+    "Unnamed: 20": null
   },
   {
     "ID": "3605172",
@@ -13682,7 +14307,8 @@ const VIABILIDADE_GEMAS_DATA = [
     "Quantidade de Gemas Total": "64",
     "Quantidade de Gemas Viáveis": "61",
     "Quantidade de Gemas Inviáveis": "3",
-    "Fazenda": NaN
+    "Fazenda": null,
+    "Unnamed: 20": null
   },
   {
     "ID": "3605166",
@@ -13704,7 +14330,8 @@ const VIABILIDADE_GEMAS_DATA = [
     "Quantidade de Gemas Total": "66",
     "Quantidade de Gemas Viáveis": "65",
     "Quantidade de Gemas Inviáveis": "1",
-    "Fazenda": NaN
+    "Fazenda": null,
+    "Unnamed: 20": null
   },
   {
     "ID": "3605160",
@@ -13726,7 +14353,8 @@ const VIABILIDADE_GEMAS_DATA = [
     "Quantidade de Gemas Total": "61",
     "Quantidade de Gemas Viáveis": "57",
     "Quantidade de Gemas Inviáveis": "4",
-    "Fazenda": NaN
+    "Fazenda": null,
+    "Unnamed: 20": null
   },
   {
     "ID": "3605155",
@@ -13748,7 +14376,8 @@ const VIABILIDADE_GEMAS_DATA = [
     "Quantidade de Gemas Total": "59",
     "Quantidade de Gemas Viáveis": "57",
     "Quantidade de Gemas Inviáveis": "2",
-    "Fazenda": NaN
+    "Fazenda": null,
+    "Unnamed: 20": null
   },
   {
     "ID": "3604489",
@@ -13770,7 +14399,8 @@ const VIABILIDADE_GEMAS_DATA = [
     "Quantidade de Gemas Total": "68",
     "Quantidade de Gemas Viáveis": "64",
     "Quantidade de Gemas Inviáveis": "4",
-    "Fazenda": NaN
+    "Fazenda": null,
+    "Unnamed: 20": null
   },
   {
     "ID": "3605006",
@@ -13792,7 +14422,8 @@ const VIABILIDADE_GEMAS_DATA = [
     "Quantidade de Gemas Total": "89",
     "Quantidade de Gemas Viáveis": "85",
     "Quantidade de Gemas Inviáveis": "4",
-    "Fazenda": NaN
+    "Fazenda": null,
+    "Unnamed: 20": null
   },
   {
     "ID": "3605152",
@@ -13814,7 +14445,8 @@ const VIABILIDADE_GEMAS_DATA = [
     "Quantidade de Gemas Total": "58",
     "Quantidade de Gemas Viáveis": "58",
     "Quantidade de Gemas Inviáveis": "0",
-    "Fazenda": NaN
+    "Fazenda": null,
+    "Unnamed: 20": null
   },
   {
     "ID": "3605147",
@@ -13836,7 +14468,8 @@ const VIABILIDADE_GEMAS_DATA = [
     "Quantidade de Gemas Total": "61",
     "Quantidade de Gemas Viáveis": "61",
     "Quantidade de Gemas Inviáveis": "0",
-    "Fazenda": NaN
+    "Fazenda": null,
+    "Unnamed: 20": null
   },
   {
     "ID": "3604485",
@@ -13858,7 +14491,8 @@ const VIABILIDADE_GEMAS_DATA = [
     "Quantidade de Gemas Total": "59",
     "Quantidade de Gemas Viáveis": "57",
     "Quantidade de Gemas Inviáveis": "2",
-    "Fazenda": NaN
+    "Fazenda": null,
+    "Unnamed: 20": null
   },
   {
     "ID": "3607348",
@@ -13880,7 +14514,8 @@ const VIABILIDADE_GEMAS_DATA = [
     "Quantidade de Gemas Total": "60",
     "Quantidade de Gemas Viáveis": "60",
     "Quantidade de Gemas Inviáveis": "0",
-    "Fazenda": NaN
+    "Fazenda": null,
+    "Unnamed: 20": null
   },
   {
     "ID": "3604481",
@@ -13902,7 +14537,8 @@ const VIABILIDADE_GEMAS_DATA = [
     "Quantidade de Gemas Total": "87",
     "Quantidade de Gemas Viáveis": "82",
     "Quantidade de Gemas Inviáveis": "5",
-    "Fazenda": NaN
+    "Fazenda": null,
+    "Unnamed: 20": null
   },
   {
     "ID": "3607343",
@@ -13924,7 +14560,8 @@ const VIABILIDADE_GEMAS_DATA = [
     "Quantidade de Gemas Total": "59",
     "Quantidade de Gemas Viáveis": "59",
     "Quantidade de Gemas Inviáveis": "0",
-    "Fazenda": NaN
+    "Fazenda": null,
+    "Unnamed: 20": null
   },
   {
     "ID": "3604477",
@@ -13946,7 +14583,8 @@ const VIABILIDADE_GEMAS_DATA = [
     "Quantidade de Gemas Total": "90",
     "Quantidade de Gemas Viáveis": "85",
     "Quantidade de Gemas Inviáveis": "5",
-    "Fazenda": NaN
+    "Fazenda": null,
+    "Unnamed: 20": null
   },
   {
     "ID": "3607338",
@@ -13968,7 +14606,8 @@ const VIABILIDADE_GEMAS_DATA = [
     "Quantidade de Gemas Total": "60",
     "Quantidade de Gemas Viáveis": "60",
     "Quantidade de Gemas Inviáveis": "0",
-    "Fazenda": NaN
+    "Fazenda": null,
+    "Unnamed: 20": null
   },
   {
     "ID": "3604656",
@@ -13990,7 +14629,8 @@ const VIABILIDADE_GEMAS_DATA = [
     "Quantidade de Gemas Total": "50",
     "Quantidade de Gemas Viáveis": "50",
     "Quantidade de Gemas Inviáveis": "0",
-    "Fazenda": NaN
+    "Fazenda": null,
+    "Unnamed: 20": null
   },
   {
     "ID": "3604652",
@@ -14012,7 +14652,8 @@ const VIABILIDADE_GEMAS_DATA = [
     "Quantidade de Gemas Total": "52",
     "Quantidade de Gemas Viáveis": "52",
     "Quantidade de Gemas Inviáveis": "0",
-    "Fazenda": NaN
+    "Fazenda": null,
+    "Unnamed: 20": null
   },
   {
     "ID": "3604164",
@@ -14034,7 +14675,8 @@ const VIABILIDADE_GEMAS_DATA = [
     "Quantidade de Gemas Total": "60",
     "Quantidade de Gemas Viáveis": "57",
     "Quantidade de Gemas Inviáveis": "3",
-    "Fazenda": NaN
+    "Fazenda": null,
+    "Unnamed: 20": null
   },
   {
     "ID": "3604156",
@@ -14056,7 +14698,8 @@ const VIABILIDADE_GEMAS_DATA = [
     "Quantidade de Gemas Total": "59",
     "Quantidade de Gemas Viáveis": "59",
     "Quantidade de Gemas Inviáveis": "0",
-    "Fazenda": NaN
+    "Fazenda": null,
+    "Unnamed: 20": null
   },
   {
     "ID": "3604151",
@@ -14078,7 +14721,8 @@ const VIABILIDADE_GEMAS_DATA = [
     "Quantidade de Gemas Total": "60",
     "Quantidade de Gemas Viáveis": "60",
     "Quantidade de Gemas Inviáveis": "0",
-    "Fazenda": NaN
+    "Fazenda": null,
+    "Unnamed: 20": null
   },
   {
     "ID": "3604915",
@@ -14100,7 +14744,8 @@ const VIABILIDADE_GEMAS_DATA = [
     "Quantidade de Gemas Total": "63",
     "Quantidade de Gemas Viáveis": "63",
     "Quantidade de Gemas Inviáveis": "0",
-    "Fazenda": NaN
+    "Fazenda": null,
+    "Unnamed: 20": null
   },
   {
     "ID": "3604911",
@@ -14122,7 +14767,8 @@ const VIABILIDADE_GEMAS_DATA = [
     "Quantidade de Gemas Total": "54",
     "Quantidade de Gemas Viáveis": "54",
     "Quantidade de Gemas Inviáveis": "0",
-    "Fazenda": NaN
+    "Fazenda": null,
+    "Unnamed: 20": null
   },
   {
     "ID": "3604905",
@@ -14144,7 +14790,8 @@ const VIABILIDADE_GEMAS_DATA = [
     "Quantidade de Gemas Total": "61",
     "Quantidade de Gemas Viáveis": "61",
     "Quantidade de Gemas Inviáveis": "0",
-    "Fazenda": NaN
+    "Fazenda": null,
+    "Unnamed: 20": null
   },
   {
     "ID": "3605000",
@@ -14166,7 +14813,8 @@ const VIABILIDADE_GEMAS_DATA = [
     "Quantidade de Gemas Total": "78",
     "Quantidade de Gemas Viáveis": "78",
     "Quantidade de Gemas Inviáveis": "0",
-    "Fazenda": NaN
+    "Fazenda": null,
+    "Unnamed: 20": null
   },
   {
     "ID": "3604017",
@@ -14188,7 +14836,8 @@ const VIABILIDADE_GEMAS_DATA = [
     "Quantidade de Gemas Total": "59",
     "Quantidade de Gemas Viáveis": "57",
     "Quantidade de Gemas Inviáveis": "2",
-    "Fazenda": NaN
+    "Fazenda": null,
+    "Unnamed: 20": null
   },
   {
     "ID": "3604040",
@@ -14210,7 +14859,8 @@ const VIABILIDADE_GEMAS_DATA = [
     "Quantidade de Gemas Total": "58",
     "Quantidade de Gemas Viáveis": "58",
     "Quantidade de Gemas Inviáveis": "0",
-    "Fazenda": NaN
+    "Fazenda": null,
+    "Unnamed: 20": null
   },
   {
     "ID": "3604035",
@@ -14232,7 +14882,8 @@ const VIABILIDADE_GEMAS_DATA = [
     "Quantidade de Gemas Total": "54",
     "Quantidade de Gemas Viáveis": "54",
     "Quantidade de Gemas Inviáveis": "0",
-    "Fazenda": NaN
+    "Fazenda": null,
+    "Unnamed: 20": null
   },
   {
     "ID": "3604992",
@@ -14254,7 +14905,8 @@ const VIABILIDADE_GEMAS_DATA = [
     "Quantidade de Gemas Total": "85",
     "Quantidade de Gemas Viáveis": "83",
     "Quantidade de Gemas Inviáveis": "2",
-    "Fazenda": NaN
+    "Fazenda": null,
+    "Unnamed: 20": null
   },
   {
     "ID": "3604001",
@@ -14276,7 +14928,8 @@ const VIABILIDADE_GEMAS_DATA = [
     "Quantidade de Gemas Total": "86",
     "Quantidade de Gemas Viáveis": "81",
     "Quantidade de Gemas Inviáveis": "5",
-    "Fazenda": NaN
+    "Fazenda": null,
+    "Unnamed: 20": null
   },
   {
     "ID": "3604030",
@@ -14298,7 +14951,8 @@ const VIABILIDADE_GEMAS_DATA = [
     "Quantidade de Gemas Total": "59",
     "Quantidade de Gemas Viáveis": "59",
     "Quantidade de Gemas Inviáveis": "0",
-    "Fazenda": NaN
+    "Fazenda": null,
+    "Unnamed: 20": null
   },
   {
     "ID": "3603995",
@@ -14320,7 +14974,8 @@ const VIABILIDADE_GEMAS_DATA = [
     "Quantidade de Gemas Total": "74",
     "Quantidade de Gemas Viáveis": "70",
     "Quantidade de Gemas Inviáveis": "4",
-    "Fazenda": NaN
+    "Fazenda": null,
+    "Unnamed: 20": null
   },
   {
     "ID": "3604026",
@@ -14342,7 +14997,8 @@ const VIABILIDADE_GEMAS_DATA = [
     "Quantidade de Gemas Total": "60",
     "Quantidade de Gemas Viáveis": "60",
     "Quantidade de Gemas Inviáveis": "0",
-    "Fazenda": NaN
+    "Fazenda": null,
+    "Unnamed: 20": null
   },
   {
     "ID": "3598700",
@@ -14364,7 +15020,8 @@ const VIABILIDADE_GEMAS_DATA = [
     "Quantidade de Gemas Total": "56",
     "Quantidade de Gemas Viáveis": "56",
     "Quantidade de Gemas Inviáveis": "0",
-    "Fazenda": NaN
+    "Fazenda": null,
+    "Unnamed: 20": null
   },
   {
     "ID": "3604018",
@@ -14386,7 +15043,8 @@ const VIABILIDADE_GEMAS_DATA = [
     "Quantidade de Gemas Total": "55",
     "Quantidade de Gemas Viáveis": "55",
     "Quantidade de Gemas Inviáveis": "0",
-    "Fazenda": NaN
+    "Fazenda": null,
+    "Unnamed: 20": null
   },
   {
     "ID": "3604013",
@@ -14408,7 +15066,8 @@ const VIABILIDADE_GEMAS_DATA = [
     "Quantidade de Gemas Total": "57",
     "Quantidade de Gemas Viáveis": "57",
     "Quantidade de Gemas Inviáveis": "0",
-    "Fazenda": NaN
+    "Fazenda": null,
+    "Unnamed: 20": null
   },
   {
     "ID": "3598705",
@@ -14430,7 +15089,8 @@ const VIABILIDADE_GEMAS_DATA = [
     "Quantidade de Gemas Total": "60",
     "Quantidade de Gemas Viáveis": "60",
     "Quantidade de Gemas Inviáveis": "0",
-    "Fazenda": NaN
+    "Fazenda": null,
+    "Unnamed: 20": null
   },
   {
     "ID": "3603998",
@@ -14452,7 +15112,8 @@ const VIABILIDADE_GEMAS_DATA = [
     "Quantidade de Gemas Total": "58",
     "Quantidade de Gemas Viáveis": "58",
     "Quantidade de Gemas Inviáveis": "0",
-    "Fazenda": NaN
+    "Fazenda": null,
+    "Unnamed: 20": null
   },
   {
     "ID": "3603991",
@@ -14474,7 +15135,8 @@ const VIABILIDADE_GEMAS_DATA = [
     "Quantidade de Gemas Total": "59",
     "Quantidade de Gemas Viáveis": "59",
     "Quantidade de Gemas Inviáveis": "0",
-    "Fazenda": NaN
+    "Fazenda": null,
+    "Unnamed: 20": null
   },
   {
     "ID": "3604202",
@@ -14496,7 +15158,8 @@ const VIABILIDADE_GEMAS_DATA = [
     "Quantidade de Gemas Total": "48",
     "Quantidade de Gemas Viáveis": "48",
     "Quantidade de Gemas Inviáveis": "0",
-    "Fazenda": NaN
+    "Fazenda": null,
+    "Unnamed: 20": null
   },
   {
     "ID": "3604986",
@@ -14518,7 +15181,8 @@ const VIABILIDADE_GEMAS_DATA = [
     "Quantidade de Gemas Total": "85",
     "Quantidade de Gemas Viáveis": "85",
     "Quantidade de Gemas Inviáveis": "0",
-    "Fazenda": NaN
+    "Fazenda": null,
+    "Unnamed: 20": null
   },
   {
     "ID": "3604197",
@@ -14540,7 +15204,8 @@ const VIABILIDADE_GEMAS_DATA = [
     "Quantidade de Gemas Total": "55",
     "Quantidade de Gemas Viáveis": "55",
     "Quantidade de Gemas Inviáveis": "0",
-    "Fazenda": NaN
+    "Fazenda": null,
+    "Unnamed: 20": null
   },
   {
     "ID": "3605118",
@@ -14562,7 +15227,8 @@ const VIABILIDADE_GEMAS_DATA = [
     "Quantidade de Gemas Total": "55",
     "Quantidade de Gemas Viáveis": "54",
     "Quantidade de Gemas Inviáveis": "1",
-    "Fazenda": NaN
+    "Fazenda": null,
+    "Unnamed: 20": null
   },
   {
     "ID": "3603982",
@@ -14584,7 +15250,8 @@ const VIABILIDADE_GEMAS_DATA = [
     "Quantidade de Gemas Total": "60",
     "Quantidade de Gemas Viáveis": "60",
     "Quantidade de Gemas Inviáveis": "0",
-    "Fazenda": NaN
+    "Fazenda": null,
+    "Unnamed: 20": null
   },
   {
     "ID": "3604897",
@@ -14606,7 +15273,8 @@ const VIABILIDADE_GEMAS_DATA = [
     "Quantidade de Gemas Total": "51",
     "Quantidade de Gemas Viáveis": "51",
     "Quantidade de Gemas Inviáveis": "0",
-    "Fazenda": NaN
+    "Fazenda": null,
+    "Unnamed: 20": null
   },
   {
     "ID": "3604192",
@@ -14628,7 +15296,8 @@ const VIABILIDADE_GEMAS_DATA = [
     "Quantidade de Gemas Total": "53",
     "Quantidade de Gemas Viáveis": "53",
     "Quantidade de Gemas Inviáveis": "0",
-    "Fazenda": NaN
+    "Fazenda": null,
+    "Unnamed: 20": null
   },
   {
     "ID": "3605113",
@@ -14650,7 +15319,8 @@ const VIABILIDADE_GEMAS_DATA = [
     "Quantidade de Gemas Total": "56",
     "Quantidade de Gemas Viáveis": "54",
     "Quantidade de Gemas Inviáveis": "2",
-    "Fazenda": NaN
+    "Fazenda": null,
+    "Unnamed: 20": null
   },
   {
     "ID": "3603977",
@@ -14672,7 +15342,8 @@ const VIABILIDADE_GEMAS_DATA = [
     "Quantidade de Gemas Total": "54",
     "Quantidade de Gemas Viáveis": "54",
     "Quantidade de Gemas Inviáveis": "0",
-    "Fazenda": NaN
+    "Fazenda": null,
+    "Unnamed: 20": null
   },
   {
     "ID": "3604892",
@@ -14694,7 +15365,8 @@ const VIABILIDADE_GEMAS_DATA = [
     "Quantidade de Gemas Total": "57",
     "Quantidade de Gemas Viáveis": "57",
     "Quantidade de Gemas Inviáveis": "0",
-    "Fazenda": NaN
+    "Fazenda": null,
+    "Unnamed: 20": null
   },
   {
     "ID": "3604187",
@@ -14716,7 +15388,8 @@ const VIABILIDADE_GEMAS_DATA = [
     "Quantidade de Gemas Total": "60",
     "Quantidade de Gemas Viáveis": "60",
     "Quantidade de Gemas Inviáveis": "0",
-    "Fazenda": NaN
+    "Fazenda": null,
+    "Unnamed: 20": null
   },
   {
     "ID": "3605107",
@@ -14738,7 +15411,8 @@ const VIABILIDADE_GEMAS_DATA = [
     "Quantidade de Gemas Total": "59",
     "Quantidade de Gemas Viáveis": "58",
     "Quantidade de Gemas Inviáveis": "1",
-    "Fazenda": NaN
+    "Fazenda": null,
+    "Unnamed: 20": null
   },
   {
     "ID": "3603968",
@@ -14760,7 +15434,8 @@ const VIABILIDADE_GEMAS_DATA = [
     "Quantidade de Gemas Total": "56",
     "Quantidade de Gemas Viáveis": "56",
     "Quantidade de Gemas Inviáveis": "0",
-    "Fazenda": NaN
+    "Fazenda": null,
+    "Unnamed: 20": null
   },
   {
     "ID": "3604887",
@@ -14782,7 +15457,8 @@ const VIABILIDADE_GEMAS_DATA = [
     "Quantidade de Gemas Total": "62",
     "Quantidade de Gemas Viáveis": "60",
     "Quantidade de Gemas Inviáveis": "2",
-    "Fazenda": NaN
+    "Fazenda": null,
+    "Unnamed: 20": null
   },
   {
     "ID": "3604180",
@@ -14804,7 +15480,8 @@ const VIABILIDADE_GEMAS_DATA = [
     "Quantidade de Gemas Total": "48",
     "Quantidade de Gemas Viáveis": "48",
     "Quantidade de Gemas Inviáveis": "0",
-    "Fazenda": NaN
+    "Fazenda": null,
+    "Unnamed: 20": null
   },
   {
     "ID": "3604177",
@@ -14826,7 +15503,8 @@ const VIABILIDADE_GEMAS_DATA = [
     "Quantidade de Gemas Total": "48",
     "Quantidade de Gemas Viáveis": "48",
     "Quantidade de Gemas Inviáveis": "0",
-    "Fazenda": NaN
+    "Fazenda": null,
+    "Unnamed: 20": null
   },
   {
     "ID": "3604172",
@@ -14848,7 +15526,8 @@ const VIABILIDADE_GEMAS_DATA = [
     "Quantidade de Gemas Total": "48",
     "Quantidade de Gemas Viáveis": "48",
     "Quantidade de Gemas Inviáveis": "0",
-    "Fazenda": NaN
+    "Fazenda": null,
+    "Unnamed: 20": null
   },
   {
     "ID": "3602147",
@@ -14870,7 +15549,8 @@ const VIABILIDADE_GEMAS_DATA = [
     "Quantidade de Gemas Total": "80",
     "Quantidade de Gemas Viáveis": "75",
     "Quantidade de Gemas Inviáveis": "5",
-    "Fazenda": NaN
+    "Fazenda": null,
+    "Unnamed: 20": null
   },
   {
     "ID": "3602358",
@@ -14892,7 +15572,8 @@ const VIABILIDADE_GEMAS_DATA = [
     "Quantidade de Gemas Total": "82",
     "Quantidade de Gemas Viáveis": "82",
     "Quantidade de Gemas Inviáveis": "0",
-    "Fazenda": NaN
+    "Fazenda": null,
+    "Unnamed: 20": null
   },
   {
     "ID": "3602137",
@@ -14914,7 +15595,8 @@ const VIABILIDADE_GEMAS_DATA = [
     "Quantidade de Gemas Total": "60",
     "Quantidade de Gemas Viáveis": "56",
     "Quantidade de Gemas Inviáveis": "4",
-    "Fazenda": NaN
+    "Fazenda": null,
+    "Unnamed: 20": null
   },
   {
     "ID": "3602355",
@@ -14936,7 +15618,8 @@ const VIABILIDADE_GEMAS_DATA = [
     "Quantidade de Gemas Total": "69",
     "Quantidade de Gemas Viáveis": "69",
     "Quantidade de Gemas Inviáveis": "0",
-    "Fazenda": NaN
+    "Fazenda": null,
+    "Unnamed: 20": null
   },
   {
     "ID": "3602131",
@@ -14958,7 +15641,8 @@ const VIABILIDADE_GEMAS_DATA = [
     "Quantidade de Gemas Total": "90",
     "Quantidade de Gemas Viáveis": "84",
     "Quantidade de Gemas Inviáveis": "6",
-    "Fazenda": NaN
+    "Fazenda": null,
+    "Unnamed: 20": null
   },
   {
     "ID": "3601798",
@@ -14980,7 +15664,8 @@ const VIABILIDADE_GEMAS_DATA = [
     "Quantidade de Gemas Total": "60",
     "Quantidade de Gemas Viáveis": "60",
     "Quantidade de Gemas Inviáveis": "0",
-    "Fazenda": NaN
+    "Fazenda": null,
+    "Unnamed: 20": null
   },
   {
     "ID": "3601793",
@@ -15002,7 +15687,8 @@ const VIABILIDADE_GEMAS_DATA = [
     "Quantidade de Gemas Total": "59",
     "Quantidade de Gemas Viáveis": "59",
     "Quantidade de Gemas Inviáveis": "0",
-    "Fazenda": NaN
+    "Fazenda": null,
+    "Unnamed: 20": null
   },
   {
     "ID": "3602347",
@@ -15024,7 +15710,8 @@ const VIABILIDADE_GEMAS_DATA = [
     "Quantidade de Gemas Total": "85",
     "Quantidade de Gemas Viáveis": "85",
     "Quantidade de Gemas Inviáveis": "0",
-    "Fazenda": NaN
+    "Fazenda": null,
+    "Unnamed: 20": null
   },
   {
     "ID": "3601788",
@@ -15046,7 +15733,8 @@ const VIABILIDADE_GEMAS_DATA = [
     "Quantidade de Gemas Total": "56",
     "Quantidade de Gemas Viáveis": "56",
     "Quantidade de Gemas Inviáveis": "0",
-    "Fazenda": NaN
+    "Fazenda": null,
+    "Unnamed: 20": null
   },
   {
     "ID": "3602292",
@@ -15068,7 +15756,8 @@ const VIABILIDADE_GEMAS_DATA = [
     "Quantidade de Gemas Total": "89",
     "Quantidade de Gemas Viáveis": "85",
     "Quantidade de Gemas Inviáveis": "4",
-    "Fazenda": NaN
+    "Fazenda": null,
+    "Unnamed: 20": null
   },
   {
     "ID": "3601783",
@@ -15090,7 +15779,8 @@ const VIABILIDADE_GEMAS_DATA = [
     "Quantidade de Gemas Total": "56",
     "Quantidade de Gemas Viáveis": "56",
     "Quantidade de Gemas Inviáveis": "0",
-    "Fazenda": NaN
+    "Fazenda": null,
+    "Unnamed: 20": null
   },
   {
     "ID": "3602122",
@@ -15112,7 +15802,8 @@ const VIABILIDADE_GEMAS_DATA = [
     "Quantidade de Gemas Total": "60",
     "Quantidade de Gemas Viáveis": "56",
     "Quantidade de Gemas Inviáveis": "4",
-    "Fazenda": NaN
+    "Fazenda": null,
+    "Unnamed: 20": null
   },
   {
     "ID": "3602496",
@@ -15134,7 +15825,8 @@ const VIABILIDADE_GEMAS_DATA = [
     "Quantidade de Gemas Total": "56",
     "Quantidade de Gemas Viáveis": "56",
     "Quantidade de Gemas Inviáveis": "0",
-    "Fazenda": NaN
+    "Fazenda": null,
+    "Unnamed: 20": null
   },
   {
     "ID": "3601778",
@@ -15156,7 +15848,8 @@ const VIABILIDADE_GEMAS_DATA = [
     "Quantidade de Gemas Total": "55",
     "Quantidade de Gemas Viáveis": "55",
     "Quantidade de Gemas Inviáveis": "0",
-    "Fazenda": NaN
+    "Fazenda": null,
+    "Unnamed: 20": null
   },
   {
     "ID": "3602213",
@@ -15178,7 +15871,8 @@ const VIABILIDADE_GEMAS_DATA = [
     "Quantidade de Gemas Total": "53",
     "Quantidade de Gemas Viáveis": "53",
     "Quantidade de Gemas Inviáveis": "0",
-    "Fazenda": NaN
+    "Fazenda": null,
+    "Unnamed: 20": null
   },
   {
     "ID": "3602114",
@@ -15200,7 +15894,8 @@ const VIABILIDADE_GEMAS_DATA = [
     "Quantidade de Gemas Total": "78",
     "Quantidade de Gemas Viáveis": "74",
     "Quantidade de Gemas Inviáveis": "4",
-    "Fazenda": NaN
+    "Fazenda": null,
+    "Unnamed: 20": null
   },
   {
     "ID": "3602208",
@@ -15222,7 +15917,8 @@ const VIABILIDADE_GEMAS_DATA = [
     "Quantidade de Gemas Total": "49",
     "Quantidade de Gemas Viáveis": "49",
     "Quantidade de Gemas Inviáveis": "0",
-    "Fazenda": NaN
+    "Fazenda": null,
+    "Unnamed: 20": null
   },
   {
     "ID": "3602491",
@@ -15244,7 +15940,8 @@ const VIABILIDADE_GEMAS_DATA = [
     "Quantidade de Gemas Total": "58",
     "Quantidade de Gemas Viáveis": "58",
     "Quantidade de Gemas Inviáveis": "0",
-    "Fazenda": NaN
+    "Fazenda": null,
+    "Unnamed: 20": null
   },
   {
     "ID": "3602204",
@@ -15266,7 +15963,8 @@ const VIABILIDADE_GEMAS_DATA = [
     "Quantidade de Gemas Total": "57",
     "Quantidade de Gemas Viáveis": "57",
     "Quantidade de Gemas Inviáveis": "0",
-    "Fazenda": NaN
+    "Fazenda": null,
+    "Unnamed: 20": null
   },
   {
     "ID": "3602486",
@@ -15288,7 +15986,8 @@ const VIABILIDADE_GEMAS_DATA = [
     "Quantidade de Gemas Total": "60",
     "Quantidade de Gemas Viáveis": "58",
     "Quantidade de Gemas Inviáveis": "2",
-    "Fazenda": NaN
+    "Fazenda": null,
+    "Unnamed: 20": null
   },
   {
     "ID": "3602197",
@@ -15310,7 +16009,8 @@ const VIABILIDADE_GEMAS_DATA = [
     "Quantidade de Gemas Total": "52",
     "Quantidade de Gemas Viáveis": "52",
     "Quantidade de Gemas Inviáveis": "0",
-    "Fazenda": NaN
+    "Fazenda": null,
+    "Unnamed: 20": null
   },
   {
     "ID": "3602560",
@@ -15332,7 +16032,8 @@ const VIABILIDADE_GEMAS_DATA = [
     "Quantidade de Gemas Total": "60",
     "Quantidade de Gemas Viáveis": "60",
     "Quantidade de Gemas Inviáveis": "0",
-    "Fazenda": NaN
+    "Fazenda": null,
+    "Unnamed: 20": null
   },
   {
     "ID": "3602192",
@@ -15354,7 +16055,8 @@ const VIABILIDADE_GEMAS_DATA = [
     "Quantidade de Gemas Total": "48",
     "Quantidade de Gemas Viáveis": "48",
     "Quantidade de Gemas Inviáveis": "0",
-    "Fazenda": NaN
+    "Fazenda": null,
+    "Unnamed: 20": null
   },
   {
     "ID": "3602189",
@@ -15376,7 +16078,8 @@ const VIABILIDADE_GEMAS_DATA = [
     "Quantidade de Gemas Total": "51",
     "Quantidade de Gemas Viáveis": "51",
     "Quantidade de Gemas Inviáveis": "0",
-    "Fazenda": NaN
+    "Fazenda": null,
+    "Unnamed: 20": null
   },
   {
     "ID": "3602555",
@@ -15398,7 +16101,8 @@ const VIABILIDADE_GEMAS_DATA = [
     "Quantidade de Gemas Total": "49",
     "Quantidade de Gemas Viáveis": "49",
     "Quantidade de Gemas Inviáveis": "0",
-    "Fazenda": NaN
+    "Fazenda": null,
+    "Unnamed: 20": null
   },
   {
     "ID": "3602184",
@@ -15420,7 +16124,8 @@ const VIABILIDADE_GEMAS_DATA = [
     "Quantidade de Gemas Total": "50",
     "Quantidade de Gemas Viáveis": "50",
     "Quantidade de Gemas Inviáveis": "0",
-    "Fazenda": NaN
+    "Fazenda": null,
+    "Unnamed: 20": null
   },
   {
     "ID": "3602176",
@@ -15442,7 +16147,8 @@ const VIABILIDADE_GEMAS_DATA = [
     "Quantidade de Gemas Total": "49",
     "Quantidade de Gemas Viáveis": "49",
     "Quantidade de Gemas Inviáveis": "0",
-    "Fazenda": NaN
+    "Fazenda": null,
+    "Unnamed: 20": null
   },
   {
     "ID": "3602550",
@@ -15464,7 +16170,8 @@ const VIABILIDADE_GEMAS_DATA = [
     "Quantidade de Gemas Total": "61",
     "Quantidade de Gemas Viáveis": "61",
     "Quantidade de Gemas Inviáveis": "0",
-    "Fazenda": NaN
+    "Fazenda": null,
+    "Unnamed: 20": null
   },
   {
     "ID": "3602174",
@@ -15486,7 +16193,8 @@ const VIABILIDADE_GEMAS_DATA = [
     "Quantidade de Gemas Total": "53",
     "Quantidade de Gemas Viáveis": "53",
     "Quantidade de Gemas Inviáveis": "0",
-    "Fazenda": NaN
+    "Fazenda": null,
+    "Unnamed: 20": null
   },
   {
     "ID": "3602169",
@@ -15508,7 +16216,8 @@ const VIABILIDADE_GEMAS_DATA = [
     "Quantidade de Gemas Total": "52",
     "Quantidade de Gemas Viáveis": "50",
     "Quantidade de Gemas Inviáveis": "2",
-    "Fazenda": NaN
+    "Fazenda": null,
+    "Unnamed: 20": null
   },
   {
     "ID": "3602545",
@@ -15530,7 +16239,8 @@ const VIABILIDADE_GEMAS_DATA = [
     "Quantidade de Gemas Total": "62",
     "Quantidade de Gemas Viáveis": "62",
     "Quantidade de Gemas Inviáveis": "0",
-    "Fazenda": NaN
+    "Fazenda": null,
+    "Unnamed: 20": null
   },
   {
     "ID": "3602539",
@@ -15552,7 +16262,8 @@ const VIABILIDADE_GEMAS_DATA = [
     "Quantidade de Gemas Total": "56",
     "Quantidade de Gemas Viáveis": "56",
     "Quantidade de Gemas Inviáveis": "0",
-    "Fazenda": NaN
+    "Fazenda": null,
+    "Unnamed: 20": null
   },
   {
     "ID": "3602162",
@@ -15574,7 +16285,8 @@ const VIABILIDADE_GEMAS_DATA = [
     "Quantidade de Gemas Total": "54",
     "Quantidade de Gemas Viáveis": "54",
     "Quantidade de Gemas Inviáveis": "0",
-    "Fazenda": NaN
+    "Fazenda": null,
+    "Unnamed: 20": null
   },
   {
     "ID": "3602106",
@@ -15596,7 +16308,8 @@ const VIABILIDADE_GEMAS_DATA = [
     "Quantidade de Gemas Total": "60",
     "Quantidade de Gemas Viáveis": "60",
     "Quantidade de Gemas Inviáveis": "0",
-    "Fazenda": NaN
+    "Fazenda": null,
+    "Unnamed: 20": null
   },
   {
     "ID": "3602334",
@@ -15618,7 +16331,8 @@ const VIABILIDADE_GEMAS_DATA = [
     "Quantidade de Gemas Total": "79",
     "Quantidade de Gemas Viáveis": "79",
     "Quantidade de Gemas Inviáveis": "0",
-    "Fazenda": NaN
+    "Fazenda": null,
+    "Unnamed: 20": null
   },
   {
     "ID": "3601969",
@@ -15640,7 +16354,8 @@ const VIABILIDADE_GEMAS_DATA = [
     "Quantidade de Gemas Total": "59",
     "Quantidade de Gemas Viáveis": "57",
     "Quantidade de Gemas Inviáveis": "2",
-    "Fazenda": NaN
+    "Fazenda": null,
+    "Unnamed: 20": null
   },
   {
     "ID": "3601967",
@@ -15662,7 +16377,8 @@ const VIABILIDADE_GEMAS_DATA = [
     "Quantidade de Gemas Total": "63",
     "Quantidade de Gemas Viáveis": "63",
     "Quantidade de Gemas Inviáveis": "0",
-    "Fazenda": NaN
+    "Fazenda": null,
+    "Unnamed: 20": null
   },
   {
     "ID": "3602327",
@@ -15684,7 +16400,8 @@ const VIABILIDADE_GEMAS_DATA = [
     "Quantidade de Gemas Total": "94",
     "Quantidade de Gemas Viáveis": "91",
     "Quantidade de Gemas Inviáveis": "3",
-    "Fazenda": NaN
+    "Fazenda": null,
+    "Unnamed: 20": null
   },
   {
     "ID": "3601962",
@@ -15706,7 +16423,8 @@ const VIABILIDADE_GEMAS_DATA = [
     "Quantidade de Gemas Total": "67",
     "Quantidade de Gemas Viáveis": "67",
     "Quantidade de Gemas Inviáveis": "0",
-    "Fazenda": NaN
+    "Fazenda": null,
+    "Unnamed: 20": null
   },
   {
     "ID": "3602317",
@@ -15728,7 +16446,8 @@ const VIABILIDADE_GEMAS_DATA = [
     "Quantidade de Gemas Total": "80",
     "Quantidade de Gemas Viáveis": "80",
     "Quantidade de Gemas Inviáveis": "0",
-    "Fazenda": NaN
+    "Fazenda": null,
+    "Unnamed: 20": null
   },
   {
     "ID": "3601917",
@@ -15750,7 +16469,8 @@ const VIABILIDADE_GEMAS_DATA = [
     "Quantidade de Gemas Total": "60",
     "Quantidade de Gemas Viáveis": "60",
     "Quantidade de Gemas Inviáveis": "0",
-    "Fazenda": NaN
+    "Fazenda": null,
+    "Unnamed: 20": null
   },
   {
     "ID": "3601809",
@@ -15772,7 +16492,8 @@ const VIABILIDADE_GEMAS_DATA = [
     "Quantidade de Gemas Total": "66",
     "Quantidade de Gemas Viáveis": "65",
     "Quantidade de Gemas Inviáveis": "1",
-    "Fazenda": NaN
+    "Fazenda": null,
+    "Unnamed: 20": null
   },
   {
     "ID": "3601405",
@@ -15794,7 +16515,8 @@ const VIABILIDADE_GEMAS_DATA = [
     "Quantidade de Gemas Total": "59",
     "Quantidade de Gemas Viáveis": "59",
     "Quantidade de Gemas Inviáveis": "0",
-    "Fazenda": NaN
+    "Fazenda": null,
+    "Unnamed: 20": null
   },
   {
     "ID": "3601399",
@@ -15816,7 +16538,8 @@ const VIABILIDADE_GEMAS_DATA = [
     "Quantidade de Gemas Total": "60",
     "Quantidade de Gemas Viáveis": "60",
     "Quantidade de Gemas Inviáveis": "0",
-    "Fazenda": NaN
+    "Fazenda": null,
+    "Unnamed: 20": null
   },
   {
     "ID": "3602306",
@@ -15838,7 +16561,8 @@ const VIABILIDADE_GEMAS_DATA = [
     "Quantidade de Gemas Total": "86",
     "Quantidade de Gemas Viáveis": "86",
     "Quantidade de Gemas Inviáveis": "0",
-    "Fazenda": NaN
+    "Fazenda": null,
+    "Unnamed: 20": null
   },
   {
     "ID": "3601481",
@@ -15860,7 +16584,8 @@ const VIABILIDADE_GEMAS_DATA = [
     "Quantidade de Gemas Total": "84",
     "Quantidade de Gemas Viáveis": "82",
     "Quantidade de Gemas Inviáveis": "2",
-    "Fazenda": NaN
+    "Fazenda": null,
+    "Unnamed: 20": null
   },
   {
     "ID": "3601394",
@@ -15882,7 +16607,8 @@ const VIABILIDADE_GEMAS_DATA = [
     "Quantidade de Gemas Total": "54",
     "Quantidade de Gemas Viáveis": "54",
     "Quantidade de Gemas Inviáveis": "0",
-    "Fazenda": NaN
+    "Fazenda": null,
+    "Unnamed: 20": null
   },
   {
     "ID": "3602534",
@@ -15904,7 +16630,8 @@ const VIABILIDADE_GEMAS_DATA = [
     "Quantidade de Gemas Total": "63",
     "Quantidade de Gemas Viáveis": "63",
     "Quantidade de Gemas Inviáveis": "0",
-    "Fazenda": NaN
+    "Fazenda": null,
+    "Unnamed: 20": null
   },
   {
     "ID": "3601389",
@@ -15926,7 +16653,8 @@ const VIABILIDADE_GEMAS_DATA = [
     "Quantidade de Gemas Total": "54",
     "Quantidade de Gemas Viáveis": "54",
     "Quantidade de Gemas Inviáveis": "0",
-    "Fazenda": NaN
+    "Fazenda": null,
+    "Unnamed: 20": null
   },
   {
     "ID": "3602478",
@@ -15948,7 +16676,8 @@ const VIABILIDADE_GEMAS_DATA = [
     "Quantidade de Gemas Total": "59",
     "Quantidade de Gemas Viáveis": "56",
     "Quantidade de Gemas Inviáveis": "3",
-    "Fazenda": NaN
+    "Fazenda": null,
+    "Unnamed: 20": null
   },
   {
     "ID": "3602529",
@@ -15970,7 +16699,8 @@ const VIABILIDADE_GEMAS_DATA = [
     "Quantidade de Gemas Total": "50",
     "Quantidade de Gemas Viáveis": "50",
     "Quantidade de Gemas Inviáveis": "0",
-    "Fazenda": NaN
+    "Fazenda": null,
+    "Unnamed: 20": null
   },
   {
     "ID": "3601383",
@@ -15992,7 +16722,8 @@ const VIABILIDADE_GEMAS_DATA = [
     "Quantidade de Gemas Total": "55",
     "Quantidade de Gemas Viáveis": "55",
     "Quantidade de Gemas Inviáveis": "0",
-    "Fazenda": NaN
+    "Fazenda": null,
+    "Unnamed: 20": null
   },
   {
     "ID": "3602472",
@@ -16014,7 +16745,8 @@ const VIABILIDADE_GEMAS_DATA = [
     "Quantidade de Gemas Total": "56",
     "Quantidade de Gemas Viáveis": "54",
     "Quantidade de Gemas Inviáveis": "2",
-    "Fazenda": NaN
+    "Fazenda": null,
+    "Unnamed: 20": null
   },
   {
     "ID": "3602524",
@@ -16036,7 +16768,8 @@ const VIABILIDADE_GEMAS_DATA = [
     "Quantidade de Gemas Total": "48",
     "Quantidade de Gemas Viáveis": "48",
     "Quantidade de Gemas Inviáveis": "0",
-    "Fazenda": NaN
+    "Fazenda": null,
+    "Unnamed: 20": null
   },
   {
     "ID": "3601378",
@@ -16058,7 +16791,8 @@ const VIABILIDADE_GEMAS_DATA = [
     "Quantidade de Gemas Total": "59",
     "Quantidade de Gemas Viáveis": "59",
     "Quantidade de Gemas Inviáveis": "0",
-    "Fazenda": NaN
+    "Fazenda": null,
+    "Unnamed: 20": null
   },
   {
     "ID": "3602467",
@@ -16080,7 +16814,8 @@ const VIABILIDADE_GEMAS_DATA = [
     "Quantidade de Gemas Total": "59",
     "Quantidade de Gemas Viáveis": "56",
     "Quantidade de Gemas Inviáveis": "3",
-    "Fazenda": NaN
+    "Fazenda": null,
+    "Unnamed: 20": null
   },
   {
     "ID": "3602519",
@@ -16102,7 +16837,8 @@ const VIABILIDADE_GEMAS_DATA = [
     "Quantidade de Gemas Total": "55",
     "Quantidade de Gemas Viáveis": "55",
     "Quantidade de Gemas Inviáveis": "0",
-    "Fazenda": NaN
+    "Fazenda": null,
+    "Unnamed: 20": null
   },
   {
     "ID": "3602462",
@@ -16124,7 +16860,8 @@ const VIABILIDADE_GEMAS_DATA = [
     "Quantidade de Gemas Total": "56",
     "Quantidade de Gemas Viáveis": "53",
     "Quantidade de Gemas Inviáveis": "3",
-    "Fazenda": NaN
+    "Fazenda": null,
+    "Unnamed: 20": null
   },
   {
     "ID": "3602514",
@@ -16146,7 +16883,8 @@ const VIABILIDADE_GEMAS_DATA = [
     "Quantidade de Gemas Total": "52",
     "Quantidade de Gemas Viáveis": "52",
     "Quantidade de Gemas Inviáveis": "0",
-    "Fazenda": NaN
+    "Fazenda": null,
+    "Unnamed: 20": null
   },
   {
     "ID": "3602457",
@@ -16168,7 +16906,8 @@ const VIABILIDADE_GEMAS_DATA = [
     "Quantidade de Gemas Total": "53",
     "Quantidade de Gemas Viáveis": "51",
     "Quantidade de Gemas Inviáveis": "2",
-    "Fazenda": NaN
+    "Fazenda": null,
+    "Unnamed: 20": null
   },
   {
     "ID": "3601472",
@@ -16190,7 +16929,8 @@ const VIABILIDADE_GEMAS_DATA = [
     "Quantidade de Gemas Total": "89",
     "Quantidade de Gemas Viáveis": "84",
     "Quantidade de Gemas Inviáveis": "5",
-    "Fazenda": NaN
+    "Fazenda": null,
+    "Unnamed: 20": null
   },
   {
     "ID": "3601469",
@@ -16212,7 +16952,8 @@ const VIABILIDADE_GEMAS_DATA = [
     "Quantidade de Gemas Total": "90",
     "Quantidade de Gemas Viáveis": "85",
     "Quantidade de Gemas Inviáveis": "5",
-    "Fazenda": NaN
+    "Fazenda": null,
+    "Unnamed: 20": null
   },
   {
     "ID": "3601372",
@@ -16234,7 +16975,8 @@ const VIABILIDADE_GEMAS_DATA = [
     "Quantidade de Gemas Total": "57",
     "Quantidade de Gemas Viáveis": "57",
     "Quantidade de Gemas Inviáveis": "0",
-    "Fazenda": NaN
+    "Fazenda": null,
+    "Unnamed: 20": null
   },
   {
     "ID": "3601460",
@@ -16256,7 +16998,8 @@ const VIABILIDADE_GEMAS_DATA = [
     "Quantidade de Gemas Total": "71",
     "Quantidade de Gemas Viáveis": "64",
     "Quantidade de Gemas Inviáveis": "7",
-    "Fazenda": NaN
+    "Fazenda": null,
+    "Unnamed: 20": null
   },
   {
     "ID": "3601366",
@@ -16278,7 +17021,8 @@ const VIABILIDADE_GEMAS_DATA = [
     "Quantidade de Gemas Total": "58",
     "Quantidade de Gemas Viáveis": "58",
     "Quantidade de Gemas Inviáveis": "0",
-    "Fazenda": NaN
+    "Fazenda": null,
+    "Unnamed: 20": null
   },
   {
     "ID": "3601361",
@@ -16300,7 +17044,8 @@ const VIABILIDADE_GEMAS_DATA = [
     "Quantidade de Gemas Total": "60",
     "Quantidade de Gemas Viáveis": "60",
     "Quantidade de Gemas Inviáveis": "0",
-    "Fazenda": NaN
+    "Fazenda": null,
+    "Unnamed: 20": null
   },
   {
     "ID": "3601357",
@@ -16322,7 +17067,8 @@ const VIABILIDADE_GEMAS_DATA = [
     "Quantidade de Gemas Total": "57",
     "Quantidade de Gemas Viáveis": "57",
     "Quantidade de Gemas Inviáveis": "0",
-    "Fazenda": NaN
+    "Fazenda": null,
+    "Unnamed: 20": null
   },
   {
     "ID": "3601352",
@@ -16344,7 +17090,8 @@ const VIABILIDADE_GEMAS_DATA = [
     "Quantidade de Gemas Total": "54",
     "Quantidade de Gemas Viáveis": "54",
     "Quantidade de Gemas Inviáveis": "0",
-    "Fazenda": NaN
+    "Fazenda": null,
+    "Unnamed: 20": null
   },
   {
     "ID": "3599587",
@@ -16366,7 +17113,8 @@ const VIABILIDADE_GEMAS_DATA = [
     "Quantidade de Gemas Total": "55",
     "Quantidade de Gemas Viáveis": "55",
     "Quantidade de Gemas Inviáveis": "0",
-    "Fazenda": NaN
+    "Fazenda": null,
+    "Unnamed: 20": null
   },
   {
     "ID": "3599584",
@@ -16388,7 +17136,8 @@ const VIABILIDADE_GEMAS_DATA = [
     "Quantidade de Gemas Total": "49",
     "Quantidade de Gemas Viáveis": "49",
     "Quantidade de Gemas Inviáveis": "0",
-    "Fazenda": NaN
+    "Fazenda": null,
+    "Unnamed: 20": null
   },
   {
     "ID": "3599579",
@@ -16410,7 +17159,8 @@ const VIABILIDADE_GEMAS_DATA = [
     "Quantidade de Gemas Total": "53",
     "Quantidade de Gemas Viáveis": "53",
     "Quantidade de Gemas Inviáveis": "0",
-    "Fazenda": NaN
+    "Fazenda": null,
+    "Unnamed: 20": null
   },
   {
     "ID": "3599574",
@@ -16432,7 +17182,8 @@ const VIABILIDADE_GEMAS_DATA = [
     "Quantidade de Gemas Total": "54",
     "Quantidade de Gemas Viáveis": "54",
     "Quantidade de Gemas Inviáveis": "0",
-    "Fazenda": NaN
+    "Fazenda": null,
+    "Unnamed: 20": null
   },
   {
     "ID": "3599569",
@@ -16454,7 +17205,8 @@ const VIABILIDADE_GEMAS_DATA = [
     "Quantidade de Gemas Total": "52",
     "Quantidade de Gemas Viáveis": "52",
     "Quantidade de Gemas Inviáveis": "0",
-    "Fazenda": NaN
+    "Fazenda": null,
+    "Unnamed: 20": null
   },
   {
     "ID": "3599417",
@@ -16476,7 +17228,8 @@ const VIABILIDADE_GEMAS_DATA = [
     "Quantidade de Gemas Total": "64",
     "Quantidade de Gemas Viáveis": "64",
     "Quantidade de Gemas Inviáveis": "0",
-    "Fazenda": NaN
+    "Fazenda": null,
+    "Unnamed: 20": null
   },
   {
     "ID": "3599564",
@@ -16498,7 +17251,8 @@ const VIABILIDADE_GEMAS_DATA = [
     "Quantidade de Gemas Total": "56",
     "Quantidade de Gemas Viáveis": "56",
     "Quantidade de Gemas Inviáveis": "0",
-    "Fazenda": NaN
+    "Fazenda": null,
+    "Unnamed: 20": null
   },
   {
     "ID": "3599559",
@@ -16520,7 +17274,8 @@ const VIABILIDADE_GEMAS_DATA = [
     "Quantidade de Gemas Total": "50",
     "Quantidade de Gemas Viáveis": "50",
     "Quantidade de Gemas Inviáveis": "0",
-    "Fazenda": NaN
+    "Fazenda": null,
+    "Unnamed: 20": null
   },
   {
     "ID": "3599412",
@@ -16542,7 +17297,8 @@ const VIABILIDADE_GEMAS_DATA = [
     "Quantidade de Gemas Total": "48",
     "Quantidade de Gemas Viáveis": "48",
     "Quantidade de Gemas Inviáveis": "0",
-    "Fazenda": NaN
+    "Fazenda": null,
+    "Unnamed: 20": null
   },
   {
     "ID": "3599554",
@@ -16564,7 +17320,8 @@ const VIABILIDADE_GEMAS_DATA = [
     "Quantidade de Gemas Total": "60",
     "Quantidade de Gemas Viáveis": "60",
     "Quantidade de Gemas Inviáveis": "0",
-    "Fazenda": NaN
+    "Fazenda": null,
+    "Unnamed: 20": null
   },
   {
     "ID": "3599401",
@@ -16586,7 +17343,8 @@ const VIABILIDADE_GEMAS_DATA = [
     "Quantidade de Gemas Total": "51",
     "Quantidade de Gemas Viáveis": "51",
     "Quantidade de Gemas Inviáveis": "0",
-    "Fazenda": NaN
+    "Fazenda": null,
+    "Unnamed: 20": null
   },
   {
     "ID": "3599385",
@@ -16608,7 +17366,8 @@ const VIABILIDADE_GEMAS_DATA = [
     "Quantidade de Gemas Total": "50",
     "Quantidade de Gemas Viáveis": "50",
     "Quantidade de Gemas Inviáveis": "0",
-    "Fazenda": NaN
+    "Fazenda": null,
+    "Unnamed: 20": null
   },
   {
     "ID": "3599376",
@@ -16630,7 +17389,8 @@ const VIABILIDADE_GEMAS_DATA = [
     "Quantidade de Gemas Total": "56",
     "Quantidade de Gemas Viáveis": "56",
     "Quantidade de Gemas Inviáveis": "0",
-    "Fazenda": NaN
+    "Fazenda": null,
+    "Unnamed: 20": null
   },
   {
     "ID": "3599121",
@@ -16652,7 +17412,8 @@ const VIABILIDADE_GEMAS_DATA = [
     "Quantidade de Gemas Total": "80",
     "Quantidade de Gemas Viáveis": "71",
     "Quantidade de Gemas Inviáveis": "9",
-    "Fazenda": NaN
+    "Fazenda": null,
+    "Unnamed: 20": null
   },
   {
     "ID": "3599116",
@@ -16674,7 +17435,8 @@ const VIABILIDADE_GEMAS_DATA = [
     "Quantidade de Gemas Total": "88",
     "Quantidade de Gemas Viáveis": "82",
     "Quantidade de Gemas Inviáveis": "6",
-    "Fazenda": NaN
+    "Fazenda": null,
+    "Unnamed: 20": null
   },
   {
     "ID": "3599539",
@@ -16696,7 +17458,8 @@ const VIABILIDADE_GEMAS_DATA = [
     "Quantidade de Gemas Total": "48",
     "Quantidade de Gemas Viáveis": "48",
     "Quantidade de Gemas Inviáveis": "0",
-    "Fazenda": NaN
+    "Fazenda": null,
+    "Unnamed: 20": null
   },
   {
     "ID": "3599112",
@@ -16718,7 +17481,8 @@ const VIABILIDADE_GEMAS_DATA = [
     "Quantidade de Gemas Total": "80",
     "Quantidade de Gemas Viáveis": "73",
     "Quantidade de Gemas Inviáveis": "7",
-    "Fazenda": NaN
+    "Fazenda": null,
+    "Unnamed: 20": null
   },
   {
     "ID": "3599155",
@@ -16740,7 +17504,8 @@ const VIABILIDADE_GEMAS_DATA = [
     "Quantidade de Gemas Total": "55",
     "Quantidade de Gemas Viáveis": "55",
     "Quantidade de Gemas Inviáveis": "2",
-    "Fazenda": NaN
+    "Fazenda": null,
+    "Unnamed: 20": null
   },
   {
     "ID": "3600510",
@@ -16762,7 +17527,8 @@ const VIABILIDADE_GEMAS_DATA = [
     "Quantidade de Gemas Total": "63",
     "Quantidade de Gemas Viáveis": "61",
     "Quantidade de Gemas Inviáveis": "2",
-    "Fazenda": NaN
+    "Fazenda": null,
+    "Unnamed: 20": null
   },
   {
     "ID": "3599532",
@@ -16784,7 +17550,8 @@ const VIABILIDADE_GEMAS_DATA = [
     "Quantidade de Gemas Total": "53",
     "Quantidade de Gemas Viáveis": "53",
     "Quantidade de Gemas Inviáveis": "0",
-    "Fazenda": NaN
+    "Fazenda": null,
+    "Unnamed: 20": null
   },
   {
     "ID": "3599150",
@@ -16806,7 +17573,8 @@ const VIABILIDADE_GEMAS_DATA = [
     "Quantidade de Gemas Total": "60",
     "Quantidade de Gemas Viáveis": "60",
     "Quantidade de Gemas Inviáveis": "0",
-    "Fazenda": NaN
+    "Fazenda": null,
+    "Unnamed: 20": null
   },
   {
     "ID": "3599527",
@@ -16828,7 +17596,8 @@ const VIABILIDADE_GEMAS_DATA = [
     "Quantidade de Gemas Total": "57",
     "Quantidade de Gemas Viáveis": "57",
     "Quantidade de Gemas Inviáveis": "0",
-    "Fazenda": NaN
+    "Fazenda": null,
+    "Unnamed: 20": null
   },
   {
     "ID": "3600504",
@@ -16850,7 +17619,8 @@ const VIABILIDADE_GEMAS_DATA = [
     "Quantidade de Gemas Total": "58",
     "Quantidade de Gemas Viáveis": "57",
     "Quantidade de Gemas Inviáveis": "1",
-    "Fazenda": NaN
+    "Fazenda": null,
+    "Unnamed: 20": null
   },
   {
     "ID": "3599108",
@@ -16872,7 +17642,8 @@ const VIABILIDADE_GEMAS_DATA = [
     "Quantidade de Gemas Total": "81",
     "Quantidade de Gemas Viáveis": "75",
     "Quantidade de Gemas Inviáveis": "6",
-    "Fazenda": NaN
+    "Fazenda": null,
+    "Unnamed: 20": null
   },
   {
     "ID": "3599145",
@@ -16894,7 +17665,8 @@ const VIABILIDADE_GEMAS_DATA = [
     "Quantidade de Gemas Total": "60",
     "Quantidade de Gemas Viáveis": "60",
     "Quantidade de Gemas Inviáveis": "0",
-    "Fazenda": NaN
+    "Fazenda": null,
+    "Unnamed: 20": null
   },
   {
     "ID": "3599522",
@@ -16916,7 +17688,8 @@ const VIABILIDADE_GEMAS_DATA = [
     "Quantidade de Gemas Total": "52",
     "Quantidade de Gemas Viáveis": "52",
     "Quantidade de Gemas Inviáveis": "0",
-    "Fazenda": NaN
+    "Fazenda": null,
+    "Unnamed: 20": null
   },
   {
     "ID": "3599517",
@@ -16938,7 +17711,8 @@ const VIABILIDADE_GEMAS_DATA = [
     "Quantidade de Gemas Total": "59",
     "Quantidade de Gemas Viáveis": "58",
     "Quantidade de Gemas Inviáveis": "1",
-    "Fazenda": NaN
+    "Fazenda": null,
+    "Unnamed: 20": null
   },
   {
     "ID": "3599140",
@@ -16960,7 +17734,8 @@ const VIABILIDADE_GEMAS_DATA = [
     "Quantidade de Gemas Total": "55",
     "Quantidade de Gemas Viáveis": "55",
     "Quantidade de Gemas Inviáveis": "0",
-    "Fazenda": NaN
+    "Fazenda": null,
+    "Unnamed: 20": null
   },
   {
     "ID": "3599286",
@@ -16982,7 +17757,8 @@ const VIABILIDADE_GEMAS_DATA = [
     "Quantidade de Gemas Total": "50",
     "Quantidade de Gemas Viáveis": "50",
     "Quantidade de Gemas Inviáveis": "0",
-    "Fazenda": NaN
+    "Fazenda": null,
+    "Unnamed: 20": null
   },
   {
     "ID": "3599281",
@@ -17004,7 +17780,8 @@ const VIABILIDADE_GEMAS_DATA = [
     "Quantidade de Gemas Total": "53",
     "Quantidade de Gemas Viáveis": "53",
     "Quantidade de Gemas Inviáveis": "0",
-    "Fazenda": NaN
+    "Fazenda": null,
+    "Unnamed: 20": null
   },
   {
     "ID": "3599276",
@@ -17026,7 +17803,8 @@ const VIABILIDADE_GEMAS_DATA = [
     "Quantidade de Gemas Total": "60",
     "Quantidade de Gemas Viáveis": "60",
     "Quantidade de Gemas Inviáveis": "0",
-    "Fazenda": NaN
+    "Fazenda": null,
+    "Unnamed: 20": null
   },
   {
     "ID": "3599372",
@@ -17048,7 +17826,8 @@ const VIABILIDADE_GEMAS_DATA = [
     "Quantidade de Gemas Total": "58",
     "Quantidade de Gemas Viáveis": "54",
     "Quantidade de Gemas Inviáveis": "0",
-    "Fazenda": NaN
+    "Fazenda": null,
+    "Unnamed: 20": null
   },
   {
     "ID": "3600499",
@@ -17070,7 +17849,8 @@ const VIABILIDADE_GEMAS_DATA = [
     "Quantidade de Gemas Total": "61",
     "Quantidade de Gemas Viáveis": "60",
     "Quantidade de Gemas Inviáveis": "1",
-    "Fazenda": NaN
+    "Fazenda": null,
+    "Unnamed: 20": null
   },
   {
     "ID": "3599269",
@@ -17092,7 +17872,8 @@ const VIABILIDADE_GEMAS_DATA = [
     "Quantidade de Gemas Total": "55",
     "Quantidade de Gemas Viáveis": "55",
     "Quantidade de Gemas Inviáveis": "0",
-    "Fazenda": NaN
+    "Fazenda": null,
+    "Unnamed: 20": null
   },
   {
     "ID": "3599343",
@@ -17114,7 +17895,8 @@ const VIABILIDADE_GEMAS_DATA = [
     "Quantidade de Gemas Total": "62",
     "Quantidade de Gemas Viáveis": "62",
     "Quantidade de Gemas Inviáveis": "0",
-    "Fazenda": NaN
+    "Fazenda": null,
+    "Unnamed: 20": null
   },
   {
     "ID": "3599264",
@@ -17136,7 +17918,8 @@ const VIABILIDADE_GEMAS_DATA = [
     "Quantidade de Gemas Total": "57",
     "Quantidade de Gemas Viáveis": "57",
     "Quantidade de Gemas Inviáveis": "0",
-    "Fazenda": NaN
+    "Fazenda": null,
+    "Unnamed: 20": null
   },
   {
     "ID": "3600493",
@@ -17158,7 +17941,8 @@ const VIABILIDADE_GEMAS_DATA = [
     "Quantidade de Gemas Total": "57",
     "Quantidade de Gemas Viáveis": "55",
     "Quantidade de Gemas Inviáveis": "2",
-    "Fazenda": NaN
+    "Fazenda": null,
+    "Unnamed: 20": null
   },
   {
     "ID": "3599095",
@@ -17180,7 +17964,8 @@ const VIABILIDADE_GEMAS_DATA = [
     "Quantidade de Gemas Total": "57",
     "Quantidade de Gemas Viáveis": "54",
     "Quantidade de Gemas Inviáveis": "3",
-    "Fazenda": NaN
+    "Fazenda": null,
+    "Unnamed: 20": null
   },
   {
     "ID": "3599339",
@@ -17202,7 +17987,8 @@ const VIABILIDADE_GEMAS_DATA = [
     "Quantidade de Gemas Total": "58",
     "Quantidade de Gemas Viáveis": "55",
     "Quantidade de Gemas Inviáveis": "3",
-    "Fazenda": NaN
+    "Fazenda": null,
+    "Unnamed: 20": null
   },
   {
     "ID": "3599091",
@@ -17224,7 +18010,8 @@ const VIABILIDADE_GEMAS_DATA = [
     "Quantidade de Gemas Total": "85",
     "Quantidade de Gemas Viáveis": "80",
     "Quantidade de Gemas Inviáveis": "5",
-    "Fazenda": NaN
+    "Fazenda": null,
+    "Unnamed: 20": null
   },
   {
     "ID": "3599259",
@@ -17246,7 +18033,8 @@ const VIABILIDADE_GEMAS_DATA = [
     "Quantidade de Gemas Total": "59",
     "Quantidade de Gemas Viáveis": "59",
     "Quantidade de Gemas Inviáveis": "0",
-    "Fazenda": NaN
+    "Fazenda": null,
+    "Unnamed: 20": null
   },
   {
     "ID": "3600489",
@@ -17268,7 +18056,8 @@ const VIABILIDADE_GEMAS_DATA = [
     "Quantidade de Gemas Total": "54",
     "Quantidade de Gemas Viáveis": "52",
     "Quantidade de Gemas Inviáveis": "2",
-    "Fazenda": NaN
+    "Fazenda": null,
+    "Unnamed: 20": null
   },
   {
     "ID": "3599087",
@@ -17290,7 +18079,8 @@ const VIABILIDADE_GEMAS_DATA = [
     "Quantidade de Gemas Total": "80",
     "Quantidade de Gemas Viáveis": "75",
     "Quantidade de Gemas Inviáveis": "5",
-    "Fazenda": NaN
+    "Fazenda": null,
+    "Unnamed: 20": null
   },
   {
     "ID": "3599334",
@@ -17312,7 +18102,8 @@ const VIABILIDADE_GEMAS_DATA = [
     "Quantidade de Gemas Total": "52",
     "Quantidade de Gemas Viáveis": "51",
     "Quantidade de Gemas Inviáveis": "1",
-    "Fazenda": NaN
+    "Fazenda": null,
+    "Unnamed: 20": null
   },
   {
     "ID": "3599254",
@@ -17334,7 +18125,8 @@ const VIABILIDADE_GEMAS_DATA = [
     "Quantidade de Gemas Total": "50",
     "Quantidade de Gemas Viáveis": "50",
     "Quantidade de Gemas Inviáveis": "0",
-    "Fazenda": NaN
+    "Fazenda": null,
+    "Unnamed: 20": null
   },
   {
     "ID": "3599327",
@@ -17356,7 +18148,8 @@ const VIABILIDADE_GEMAS_DATA = [
     "Quantidade de Gemas Total": "53",
     "Quantidade de Gemas Viáveis": "49",
     "Quantidade de Gemas Inviáveis": "4",
-    "Fazenda": NaN
+    "Fazenda": null,
+    "Unnamed: 20": null
   },
   {
     "ID": "3599077",
@@ -17378,7 +18171,8 @@ const VIABILIDADE_GEMAS_DATA = [
     "Quantidade de Gemas Total": "76",
     "Quantidade de Gemas Viáveis": "70",
     "Quantidade de Gemas Inviáveis": "6",
-    "Fazenda": NaN
+    "Fazenda": null,
+    "Unnamed: 20": null
   },
   {
     "ID": "3598750",
@@ -17400,7 +18194,8 @@ const VIABILIDADE_GEMAS_DATA = [
     "Quantidade de Gemas Total": "55",
     "Quantidade de Gemas Viáveis": "55",
     "Quantidade de Gemas Inviáveis": "0",
-    "Fazenda": NaN
+    "Fazenda": null,
+    "Unnamed: 20": null
   },
   {
     "ID": "3598746",
@@ -17422,7 +18217,8 @@ const VIABILIDADE_GEMAS_DATA = [
     "Quantidade de Gemas Total": "56",
     "Quantidade de Gemas Viáveis": "56",
     "Quantidade de Gemas Inviáveis": "0",
-    "Fazenda": NaN
+    "Fazenda": null,
+    "Unnamed: 20": null
   },
   {
     "ID": "3599038",
@@ -17444,7 +18240,8 @@ const VIABILIDADE_GEMAS_DATA = [
     "Quantidade de Gemas Total": "67",
     "Quantidade de Gemas Viáveis": "63",
     "Quantidade de Gemas Inviáveis": "4",
-    "Fazenda": NaN
+    "Fazenda": null,
+    "Unnamed: 20": null
   },
   {
     "ID": "3598741",
@@ -17466,7 +18263,8 @@ const VIABILIDADE_GEMAS_DATA = [
     "Quantidade de Gemas Total": "59",
     "Quantidade de Gemas Viáveis": "59",
     "Quantidade de Gemas Inviáveis": "0",
-    "Fazenda": NaN
+    "Fazenda": null,
+    "Unnamed: 20": null
   },
   {
     "ID": "3599500",
@@ -17488,7 +18286,8 @@ const VIABILIDADE_GEMAS_DATA = [
     "Quantidade de Gemas Total": "49",
     "Quantidade de Gemas Viáveis": "49",
     "Quantidade de Gemas Inviáveis": "0",
-    "Fazenda": NaN
+    "Fazenda": null,
+    "Unnamed: 20": null
   },
   {
     "ID": "3599034",
@@ -17510,7 +18309,8 @@ const VIABILIDADE_GEMAS_DATA = [
     "Quantidade de Gemas Total": "68",
     "Quantidade de Gemas Viáveis": "65",
     "Quantidade de Gemas Inviáveis": "3",
-    "Fazenda": NaN
+    "Fazenda": null,
+    "Unnamed: 20": null
   },
   {
     "ID": "3599495",
@@ -17532,7 +18332,8 @@ const VIABILIDADE_GEMAS_DATA = [
     "Quantidade de Gemas Total": "51",
     "Quantidade de Gemas Viáveis": "51",
     "Quantidade de Gemas Inviáveis": "0",
-    "Fazenda": NaN
+    "Fazenda": null,
+    "Unnamed: 20": null
   },
   {
     "ID": "3598733",
@@ -17554,7 +18355,8 @@ const VIABILIDADE_GEMAS_DATA = [
     "Quantidade de Gemas Total": "56",
     "Quantidade de Gemas Viáveis": "56",
     "Quantidade de Gemas Inviáveis": "0",
-    "Fazenda": NaN
+    "Fazenda": null,
+    "Unnamed: 20": null
   },
   {
     "ID": "3599316",
@@ -17576,7 +18378,8 @@ const VIABILIDADE_GEMAS_DATA = [
     "Quantidade de Gemas Total": "60",
     "Quantidade de Gemas Viáveis": "60",
     "Quantidade de Gemas Inviáveis": "0",
-    "Fazenda": NaN
+    "Fazenda": null,
+    "Unnamed: 20": null
   },
   {
     "ID": "3598728",
@@ -17598,7 +18401,8 @@ const VIABILIDADE_GEMAS_DATA = [
     "Quantidade de Gemas Total": "60",
     "Quantidade de Gemas Viáveis": "60",
     "Quantidade de Gemas Inviáveis": "0",
-    "Fazenda": NaN
+    "Fazenda": null,
+    "Unnamed: 20": null
   },
   {
     "ID": "3599787",
@@ -17620,7 +18424,8 @@ const VIABILIDADE_GEMAS_DATA = [
     "Quantidade de Gemas Total": "59",
     "Quantidade de Gemas Viáveis": "59",
     "Quantidade de Gemas Inviáveis": "0",
-    "Fazenda": NaN
+    "Fazenda": null,
+    "Unnamed: 20": null
   },
   {
     "ID": "3599311",
@@ -17642,7 +18447,8 @@ const VIABILIDADE_GEMAS_DATA = [
     "Quantidade de Gemas Total": "50",
     "Quantidade de Gemas Viáveis": "50",
     "Quantidade de Gemas Inviáveis": "0",
-    "Fazenda": NaN
+    "Fazenda": null,
+    "Unnamed: 20": null
   },
   {
     "ID": "3598721",
@@ -17664,7 +18470,8 @@ const VIABILIDADE_GEMAS_DATA = [
     "Quantidade de Gemas Total": "56",
     "Quantidade de Gemas Viáveis": "56",
     "Quantidade de Gemas Inviáveis": "0",
-    "Fazenda": NaN
+    "Fazenda": null,
+    "Unnamed: 20": null
   },
   {
     "ID": "3599306",
@@ -17686,7 +18493,8 @@ const VIABILIDADE_GEMAS_DATA = [
     "Quantidade de Gemas Total": "54",
     "Quantidade de Gemas Viáveis": "54",
     "Quantidade de Gemas Inviáveis": "0",
-    "Fazenda": NaN
+    "Fazenda": null,
+    "Unnamed: 20": null
   },
   {
     "ID": "3598716",
@@ -17708,7 +18516,8 @@ const VIABILIDADE_GEMAS_DATA = [
     "Quantidade de Gemas Total": "58",
     "Quantidade de Gemas Viáveis": "58",
     "Quantidade de Gemas Inviáveis": "0",
-    "Fazenda": NaN
+    "Fazenda": null,
+    "Unnamed: 20": null
   },
   {
     "ID": "3598711",
@@ -17730,7 +18539,8 @@ const VIABILIDADE_GEMAS_DATA = [
     "Quantidade de Gemas Total": "54",
     "Quantidade de Gemas Viáveis": "54",
     "Quantidade de Gemas Inviáveis": "0",
-    "Fazenda": NaN
+    "Fazenda": null,
+    "Unnamed: 20": null
   },
   {
     "ID": "3596387",
@@ -17752,7 +18562,8 @@ const VIABILIDADE_GEMAS_DATA = [
     "Quantidade de Gemas Total": "59",
     "Quantidade de Gemas Viáveis": "58",
     "Quantidade de Gemas Inviáveis": "1",
-    "Fazenda": NaN
+    "Fazenda": null,
+    "Unnamed: 20": null
   },
   {
     "ID": "3596530",
@@ -17774,7 +18585,8 @@ const VIABILIDADE_GEMAS_DATA = [
     "Quantidade de Gemas Total": "56",
     "Quantidade de Gemas Viáveis": "56",
     "Quantidade de Gemas Inviáveis": "0",
-    "Fazenda": NaN
+    "Fazenda": null,
+    "Unnamed: 20": null
   },
   {
     "ID": "3596526",
@@ -17796,7 +18608,8 @@ const VIABILIDADE_GEMAS_DATA = [
     "Quantidade de Gemas Total": "58",
     "Quantidade de Gemas Viáveis": "58",
     "Quantidade de Gemas Inviáveis": "0",
-    "Fazenda": NaN
+    "Fazenda": null,
+    "Unnamed: 20": null
   },
   {
     "ID": "3596521",
@@ -17818,7 +18631,8 @@ const VIABILIDADE_GEMAS_DATA = [
     "Quantidade de Gemas Total": "60",
     "Quantidade de Gemas Viáveis": "60",
     "Quantidade de Gemas Inviáveis": "0",
-    "Fazenda": NaN
+    "Fazenda": null,
+    "Unnamed: 20": null
   },
   {
     "ID": "3596437",
@@ -17840,7 +18654,8 @@ const VIABILIDADE_GEMAS_DATA = [
     "Quantidade de Gemas Total": "58",
     "Quantidade de Gemas Viáveis": "58",
     "Quantidade de Gemas Inviáveis": "0",
-    "Fazenda": NaN
+    "Fazenda": null,
+    "Unnamed: 20": null
   },
   {
     "ID": "3596516",
@@ -17862,7 +18677,8 @@ const VIABILIDADE_GEMAS_DATA = [
     "Quantidade de Gemas Total": "54",
     "Quantidade de Gemas Viáveis": "54",
     "Quantidade de Gemas Inviáveis": "0",
-    "Fazenda": NaN
+    "Fazenda": null,
+    "Unnamed: 20": null
   },
   {
     "ID": "3596432",
@@ -17884,7 +18700,8 @@ const VIABILIDADE_GEMAS_DATA = [
     "Quantidade de Gemas Total": "56",
     "Quantidade de Gemas Viáveis": "55",
     "Quantidade de Gemas Inviáveis": "1",
-    "Fazenda": NaN
+    "Fazenda": null,
+    "Unnamed: 20": null
   },
   {
     "ID": "3595913",
@@ -17906,7 +18723,8 @@ const VIABILIDADE_GEMAS_DATA = [
     "Quantidade de Gemas Total": "60",
     "Quantidade de Gemas Viáveis": "60",
     "Quantidade de Gemas Inviáveis": "0",
-    "Fazenda": NaN
+    "Fazenda": null,
+    "Unnamed: 20": null
   },
   {
     "ID": "3595908",
@@ -17928,7 +18746,8 @@ const VIABILIDADE_GEMAS_DATA = [
     "Quantidade de Gemas Total": "60",
     "Quantidade de Gemas Viáveis": "57",
     "Quantidade de Gemas Inviáveis": "3",
-    "Fazenda": NaN
+    "Fazenda": null,
+    "Unnamed: 20": null
   },
   {
     "ID": "3595673",
@@ -17950,7 +18769,8 @@ const VIABILIDADE_GEMAS_DATA = [
     "Quantidade de Gemas Total": "59",
     "Quantidade de Gemas Viáveis": "59",
     "Quantidade de Gemas Inviáveis": "0",
-    "Fazenda": NaN
+    "Fazenda": null,
+    "Unnamed: 20": null
   },
   {
     "ID": "3596214",
@@ -17972,7 +18792,8 @@ const VIABILIDADE_GEMAS_DATA = [
     "Quantidade de Gemas Total": "67",
     "Quantidade de Gemas Viáveis": "65",
     "Quantidade de Gemas Inviáveis": "2",
-    "Fazenda": NaN
+    "Fazenda": null,
+    "Unnamed: 20": null
   },
   {
     "ID": "3595668",
@@ -17994,7 +18815,8 @@ const VIABILIDADE_GEMAS_DATA = [
     "Quantidade de Gemas Total": "57",
     "Quantidade de Gemas Viáveis": "57",
     "Quantidade de Gemas Inviáveis": "0",
-    "Fazenda": NaN
+    "Fazenda": null,
+    "Unnamed: 20": null
   },
   {
     "ID": "3596180",
@@ -18016,7 +18838,8 @@ const VIABILIDADE_GEMAS_DATA = [
     "Quantidade de Gemas Total": "82",
     "Quantidade de Gemas Viáveis": "74",
     "Quantidade de Gemas Inviáveis": "8",
-    "Fazenda": NaN
+    "Fazenda": null,
+    "Unnamed: 20": null
   },
   {
     "ID": "3595664",
@@ -18038,7 +18861,8 @@ const VIABILIDADE_GEMAS_DATA = [
     "Quantidade de Gemas Total": "60",
     "Quantidade de Gemas Viáveis": "60",
     "Quantidade de Gemas Inviáveis": "0",
-    "Fazenda": NaN
+    "Fazenda": null,
+    "Unnamed: 20": null
   },
   {
     "ID": "3595658",
@@ -18060,7 +18884,8 @@ const VIABILIDADE_GEMAS_DATA = [
     "Quantidade de Gemas Total": "54",
     "Quantidade de Gemas Viáveis": "54",
     "Quantidade de Gemas Inviáveis": "0",
-    "Fazenda": NaN
+    "Fazenda": null,
+    "Unnamed: 20": null
   },
   {
     "ID": "3596175",
@@ -18082,7 +18907,8 @@ const VIABILIDADE_GEMAS_DATA = [
     "Quantidade de Gemas Total": "64",
     "Quantidade de Gemas Viáveis": "61",
     "Quantidade de Gemas Inviáveis": "3",
-    "Fazenda": NaN
+    "Fazenda": null,
+    "Unnamed: 20": null
   },
   {
     "ID": "3595707",
@@ -18104,7 +18930,8 @@ const VIABILIDADE_GEMAS_DATA = [
     "Quantidade de Gemas Total": "56",
     "Quantidade de Gemas Viáveis": "56",
     "Quantidade de Gemas Inviáveis": "0",
-    "Fazenda": NaN
+    "Fazenda": null,
+    "Unnamed: 20": null
   },
   {
     "ID": "3595653",
@@ -18126,7 +18953,8 @@ const VIABILIDADE_GEMAS_DATA = [
     "Quantidade de Gemas Total": "58",
     "Quantidade de Gemas Viáveis": "58",
     "Quantidade de Gemas Inviáveis": "0",
-    "Fazenda": NaN
+    "Fazenda": null,
+    "Unnamed: 20": null
   },
   {
     "ID": "3596171",
@@ -18148,7 +18976,8 @@ const VIABILIDADE_GEMAS_DATA = [
     "Quantidade de Gemas Total": "66",
     "Quantidade de Gemas Viáveis": "61",
     "Quantidade de Gemas Inviáveis": "5",
-    "Fazenda": NaN
+    "Fazenda": null,
+    "Unnamed: 20": null
   },
   {
     "ID": "3595700",
@@ -18170,7 +18999,8 @@ const VIABILIDADE_GEMAS_DATA = [
     "Quantidade de Gemas Total": "59",
     "Quantidade de Gemas Viáveis": "58",
     "Quantidade de Gemas Inviáveis": "1",
-    "Fazenda": NaN
+    "Fazenda": null,
+    "Unnamed: 20": null
   },
   {
     "ID": "3596425",
@@ -18192,7 +19022,8 @@ const VIABILIDADE_GEMAS_DATA = [
     "Quantidade de Gemas Total": "57",
     "Quantidade de Gemas Viáveis": "56",
     "Quantidade de Gemas Inviáveis": "1",
-    "Fazenda": NaN
+    "Fazenda": null,
+    "Unnamed: 20": null
   },
   {
     "ID": "3596247",
@@ -18214,7 +19045,8 @@ const VIABILIDADE_GEMAS_DATA = [
     "Quantidade de Gemas Total": "75",
     "Quantidade de Gemas Viáveis": "72",
     "Quantidade de Gemas Inviáveis": "3",
-    "Fazenda": NaN
+    "Fazenda": null,
+    "Unnamed: 20": null
   },
   {
     "ID": "3596420",
@@ -18236,7 +19068,8 @@ const VIABILIDADE_GEMAS_DATA = [
     "Quantidade de Gemas Total": "59",
     "Quantidade de Gemas Viáveis": "58",
     "Quantidade de Gemas Inviáveis": "1",
-    "Fazenda": NaN
+    "Fazenda": null,
+    "Unnamed: 20": null
   },
   {
     "ID": "3596109",
@@ -18258,7 +19091,8 @@ const VIABILIDADE_GEMAS_DATA = [
     "Quantidade de Gemas Total": "69",
     "Quantidade de Gemas Viáveis": "66",
     "Quantidade de Gemas Inviáveis": "3",
-    "Fazenda": NaN
+    "Fazenda": null,
+    "Unnamed: 20": null
   },
   {
     "ID": "3596341",
@@ -18280,7 +19114,8 @@ const VIABILIDADE_GEMAS_DATA = [
     "Quantidade de Gemas Total": "55",
     "Quantidade de Gemas Viáveis": "55",
     "Quantidade de Gemas Inviáveis": "0",
-    "Fazenda": NaN
+    "Fazenda": null,
+    "Unnamed: 20": null
   },
   {
     "ID": "3596104",
@@ -18302,7 +19137,8 @@ const VIABILIDADE_GEMAS_DATA = [
     "Quantidade de Gemas Total": "62",
     "Quantidade de Gemas Viáveis": "54",
     "Quantidade de Gemas Inviáveis": "8",
-    "Fazenda": NaN
+    "Fazenda": null,
+    "Unnamed: 20": null
   },
   {
     "ID": "3596255",
@@ -18324,7 +19160,8 @@ const VIABILIDADE_GEMAS_DATA = [
     "Quantidade de Gemas Total": "56",
     "Quantidade de Gemas Viáveis": "56",
     "Quantidade de Gemas Inviáveis": "0",
-    "Fazenda": NaN
+    "Fazenda": null,
+    "Unnamed: 20": null
   },
   {
     "ID": "3595695",
@@ -18346,7 +19183,8 @@ const VIABILIDADE_GEMAS_DATA = [
     "Quantidade de Gemas Total": "58",
     "Quantidade de Gemas Viáveis": "58",
     "Quantidade de Gemas Inviáveis": "0",
-    "Fazenda": NaN
+    "Fazenda": null,
+    "Unnamed: 20": null
   },
   {
     "ID": "3595635",
@@ -18368,7 +19206,8 @@ const VIABILIDADE_GEMAS_DATA = [
     "Quantidade de Gemas Total": "55",
     "Quantidade de Gemas Viáveis": "55",
     "Quantidade de Gemas Inviáveis": "0",
-    "Fazenda": NaN
+    "Fazenda": null,
+    "Unnamed: 20": null
   },
   {
     "ID": "3595630",
@@ -18390,7 +19229,8 @@ const VIABILIDADE_GEMAS_DATA = [
     "Quantidade de Gemas Total": "56",
     "Quantidade de Gemas Viáveis": "56",
     "Quantidade de Gemas Inviáveis": "0",
-    "Fazenda": NaN
+    "Fazenda": null,
+    "Unnamed: 20": null
   },
   {
     "ID": "3595625",
@@ -18412,7 +19252,8 @@ const VIABILIDADE_GEMAS_DATA = [
     "Quantidade de Gemas Total": "59",
     "Quantidade de Gemas Viáveis": "59",
     "Quantidade de Gemas Inviáveis": "0",
-    "Fazenda": NaN
+    "Fazenda": null,
+    "Unnamed: 20": null
   },
   {
     "ID": "3595886",
@@ -18434,7 +19275,8 @@ const VIABILIDADE_GEMAS_DATA = [
     "Quantidade de Gemas Total": "55",
     "Quantidade de Gemas Viáveis": "52",
     "Quantidade de Gemas Inviáveis": "3",
-    "Fazenda": NaN
+    "Fazenda": null,
+    "Unnamed: 20": null
   },
   {
     "ID": "3595881",
@@ -18456,7 +19298,8 @@ const VIABILIDADE_GEMAS_DATA = [
     "Quantidade de Gemas Total": "60",
     "Quantidade de Gemas Viáveis": "55",
     "Quantidade de Gemas Inviáveis": "5",
-    "Fazenda": NaN
+    "Fazenda": null,
+    "Unnamed: 20": null
   },
   {
     "ID": "3595876",
@@ -18478,7 +19321,8 @@ const VIABILIDADE_GEMAS_DATA = [
     "Quantidade de Gemas Total": "59",
     "Quantidade de Gemas Viáveis": "59",
     "Quantidade de Gemas Inviáveis": "0",
-    "Fazenda": NaN
+    "Fazenda": null,
+    "Unnamed: 20": null
   },
   {
     "ID": "3595871",
@@ -18500,7 +19344,8 @@ const VIABILIDADE_GEMAS_DATA = [
     "Quantidade de Gemas Total": "52",
     "Quantidade de Gemas Viáveis": "51",
     "Quantidade de Gemas Inviáveis": "1",
-    "Fazenda": NaN
+    "Fazenda": null,
+    "Unnamed: 20": null
   },
   {
     "ID": "3595230",
@@ -18522,7 +19367,8 @@ const VIABILIDADE_GEMAS_DATA = [
     "Quantidade de Gemas Total": "58",
     "Quantidade de Gemas Viáveis": "58",
     "Quantidade de Gemas Inviáveis": "0",
-    "Fazenda": NaN
+    "Fazenda": null,
+    "Unnamed: 20": null
   },
   {
     "ID": "3595225",
@@ -18544,7 +19390,8 @@ const VIABILIDADE_GEMAS_DATA = [
     "Quantidade de Gemas Total": "66",
     "Quantidade de Gemas Viáveis": "62",
     "Quantidade de Gemas Inviáveis": "4",
-    "Fazenda": NaN
+    "Fazenda": null,
+    "Unnamed: 20": null
   },
   {
     "ID": "3594644",
@@ -18566,7 +19413,8 @@ const VIABILIDADE_GEMAS_DATA = [
     "Quantidade de Gemas Total": "60",
     "Quantidade de Gemas Viáveis": "60",
     "Quantidade de Gemas Inviáveis": "0",
-    "Fazenda": NaN
+    "Fazenda": null,
+    "Unnamed: 20": null
   },
   {
     "ID": "3595219",
@@ -18588,7 +19436,8 @@ const VIABILIDADE_GEMAS_DATA = [
     "Quantidade de Gemas Total": "58",
     "Quantidade de Gemas Viáveis": "56",
     "Quantidade de Gemas Inviáveis": "2",
-    "Fazenda": NaN
+    "Fazenda": null,
+    "Unnamed: 20": null
   },
   {
     "ID": "3594635",
@@ -18610,7 +19459,8 @@ const VIABILIDADE_GEMAS_DATA = [
     "Quantidade de Gemas Total": "53",
     "Quantidade de Gemas Viáveis": "53",
     "Quantidade de Gemas Inviáveis": "0",
-    "Fazenda": NaN
+    "Fazenda": null,
+    "Unnamed: 20": null
   },
   {
     "ID": "3594631",
@@ -18632,7 +19482,8 @@ const VIABILIDADE_GEMAS_DATA = [
     "Quantidade de Gemas Total": "49",
     "Quantidade de Gemas Viáveis": "49",
     "Quantidade de Gemas Inviáveis": "0",
-    "Fazenda": NaN
+    "Fazenda": null,
+    "Unnamed: 20": null
   },
   {
     "ID": "3594622",
@@ -18654,7 +19505,8 @@ const VIABILIDADE_GEMAS_DATA = [
     "Quantidade de Gemas Total": "50",
     "Quantidade de Gemas Viáveis": "50",
     "Quantidade de Gemas Inviáveis": "0",
-    "Fazenda": NaN
+    "Fazenda": null,
+    "Unnamed: 20": null
   },
   {
     "ID": "3593828",
@@ -18676,7 +19528,8 @@ const VIABILIDADE_GEMAS_DATA = [
     "Quantidade de Gemas Total": "58",
     "Quantidade de Gemas Viáveis": "58",
     "Quantidade de Gemas Inviáveis": "0",
-    "Fazenda": NaN
+    "Fazenda": null,
+    "Unnamed: 20": null
   },
   {
     "ID": "3595327",
@@ -18698,7 +19551,8 @@ const VIABILIDADE_GEMAS_DATA = [
     "Quantidade de Gemas Total": "59",
     "Quantidade de Gemas Viáveis": "59",
     "Quantidade de Gemas Inviáveis": "0",
-    "Fazenda": NaN
+    "Fazenda": null,
+    "Unnamed: 20": null
   },
   {
     "ID": "3594616",
@@ -18720,7 +19574,8 @@ const VIABILIDADE_GEMAS_DATA = [
     "Quantidade de Gemas Total": "57",
     "Quantidade de Gemas Viáveis": "57",
     "Quantidade de Gemas Inviáveis": "0",
-    "Fazenda": NaN
+    "Fazenda": null,
+    "Unnamed: 20": null
   },
   {
     "ID": "3595322",
@@ -18742,7 +19597,8 @@ const VIABILIDADE_GEMAS_DATA = [
     "Quantidade de Gemas Total": "56",
     "Quantidade de Gemas Viáveis": "55",
     "Quantidade de Gemas Inviáveis": "1",
-    "Fazenda": NaN
+    "Fazenda": null,
+    "Unnamed: 20": null
   },
   {
     "ID": "3594610",
@@ -18764,7 +19620,8 @@ const VIABILIDADE_GEMAS_DATA = [
     "Quantidade de Gemas Total": "56",
     "Quantidade de Gemas Viáveis": "54",
     "Quantidade de Gemas Inviáveis": "2",
-    "Fazenda": NaN
+    "Fazenda": null,
+    "Unnamed: 20": null
   },
   {
     "ID": "3594603",
@@ -18786,7 +19643,8 @@ const VIABILIDADE_GEMAS_DATA = [
     "Quantidade de Gemas Total": "52",
     "Quantidade de Gemas Viáveis": "52",
     "Quantidade de Gemas Inviáveis": "0",
-    "Fazenda": NaN
+    "Fazenda": null,
+    "Unnamed: 20": null
   },
   {
     "ID": "3594974",
@@ -18808,7 +19666,8 @@ const VIABILIDADE_GEMAS_DATA = [
     "Quantidade de Gemas Total": "56",
     "Quantidade de Gemas Viáveis": "56",
     "Quantidade de Gemas Inviáveis": "0",
-    "Fazenda": NaN
+    "Fazenda": null,
+    "Unnamed: 20": null
   },
   {
     "ID": "3594595",
@@ -18830,7 +19689,8 @@ const VIABILIDADE_GEMAS_DATA = [
     "Quantidade de Gemas Total": "53",
     "Quantidade de Gemas Viáveis": "53",
     "Quantidade de Gemas Inviáveis": "0",
-    "Fazenda": NaN
+    "Fazenda": null,
+    "Unnamed: 20": null
   },
   {
     "ID": "3593820",
@@ -18852,7 +19712,8 @@ const VIABILIDADE_GEMAS_DATA = [
     "Quantidade de Gemas Total": "57",
     "Quantidade de Gemas Viáveis": "57",
     "Quantidade de Gemas Inviáveis": "0",
-    "Fazenda": NaN
+    "Fazenda": null,
+    "Unnamed: 20": null
   },
   {
     "ID": "3593817",
@@ -18874,7 +19735,8 @@ const VIABILIDADE_GEMAS_DATA = [
     "Quantidade de Gemas Total": "57",
     "Quantidade de Gemas Viáveis": "57",
     "Quantidade de Gemas Inviáveis": "0",
-    "Fazenda": NaN
+    "Fazenda": null,
+    "Unnamed: 20": null
   },
   {
     "ID": "3594969",
@@ -18896,7 +19758,8 @@ const VIABILIDADE_GEMAS_DATA = [
     "Quantidade de Gemas Total": "55",
     "Quantidade de Gemas Viáveis": "55",
     "Quantidade de Gemas Inviáveis": "0",
-    "Fazenda": NaN
+    "Fazenda": null,
+    "Unnamed: 20": null
   },
   {
     "ID": "3595315",
@@ -18918,7 +19781,8 @@ const VIABILIDADE_GEMAS_DATA = [
     "Quantidade de Gemas Total": "57",
     "Quantidade de Gemas Viáveis": "56",
     "Quantidade de Gemas Inviáveis": "1",
-    "Fazenda": NaN
+    "Fazenda": null,
+    "Unnamed: 20": null
   },
   {
     "ID": "3593814",
@@ -18940,7 +19804,8 @@ const VIABILIDADE_GEMAS_DATA = [
     "Quantidade de Gemas Total": "58",
     "Quantidade de Gemas Viáveis": "58",
     "Quantidade de Gemas Inviáveis": "0",
-    "Fazenda": NaN
+    "Fazenda": null,
+    "Unnamed: 20": null
   },
   {
     "ID": "3594964",
@@ -18962,7 +19827,8 @@ const VIABILIDADE_GEMAS_DATA = [
     "Quantidade de Gemas Total": "60",
     "Quantidade de Gemas Viáveis": "60",
     "Quantidade de Gemas Inviáveis": "0",
-    "Fazenda": NaN
+    "Fazenda": null,
+    "Unnamed: 20": null
   },
   {
     "ID": "3593365",
@@ -18984,7 +19850,8 @@ const VIABILIDADE_GEMAS_DATA = [
     "Quantidade de Gemas Total": "54",
     "Quantidade de Gemas Viáveis": "54",
     "Quantidade de Gemas Inviáveis": "0",
-    "Fazenda": NaN
+    "Fazenda": null,
+    "Unnamed: 20": null
   },
   {
     "ID": "3595308",
@@ -19006,7 +19873,8 @@ const VIABILIDADE_GEMAS_DATA = [
     "Quantidade de Gemas Total": "59",
     "Quantidade de Gemas Viáveis": "59",
     "Quantidade de Gemas Inviáveis": "0",
-    "Fazenda": NaN
+    "Fazenda": null,
+    "Unnamed: 20": null
   },
   {
     "ID": "3593361",
@@ -19028,7 +19896,8 @@ const VIABILIDADE_GEMAS_DATA = [
     "Quantidade de Gemas Total": "59",
     "Quantidade de Gemas Viáveis": "56",
     "Quantidade de Gemas Inviáveis": "3",
-    "Fazenda": NaN
+    "Fazenda": null,
+    "Unnamed: 20": null
   },
   {
     "ID": "3593357",
@@ -19050,7 +19919,8 @@ const VIABILIDADE_GEMAS_DATA = [
     "Quantidade de Gemas Total": "55",
     "Quantidade de Gemas Viáveis": "54",
     "Quantidade de Gemas Inviáveis": "1",
-    "Fazenda": NaN
+    "Fazenda": null,
+    "Unnamed: 20": null
   },
   {
     "ID": "3587226",
@@ -19072,7 +19942,8 @@ const VIABILIDADE_GEMAS_DATA = [
     "Quantidade de Gemas Total": "51",
     "Quantidade de Gemas Viáveis": "51",
     "Quantidade de Gemas Inviáveis": "0",
-    "Fazenda": NaN
+    "Fazenda": null,
+    "Unnamed: 20": null
   },
   {
     "ID": "3594544",
@@ -19094,7 +19965,8 @@ const VIABILIDADE_GEMAS_DATA = [
     "Quantidade de Gemas Total": "50",
     "Quantidade de Gemas Viáveis": "50",
     "Quantidade de Gemas Inviáveis": "0",
-    "Fazenda": NaN
+    "Fazenda": null,
+    "Unnamed: 20": null
   },
   {
     "ID": "3593009",
@@ -19116,7 +19988,8 @@ const VIABILIDADE_GEMAS_DATA = [
     "Quantidade de Gemas Total": "54",
     "Quantidade de Gemas Viáveis": "54",
     "Quantidade de Gemas Inviáveis": "0",
-    "Fazenda": NaN
+    "Fazenda": null,
+    "Unnamed: 20": null
   },
   {
     "ID": "3594539",
@@ -19138,7 +20011,8 @@ const VIABILIDADE_GEMAS_DATA = [
     "Quantidade de Gemas Total": "53",
     "Quantidade de Gemas Viáveis": "53",
     "Quantidade de Gemas Inviáveis": "0",
-    "Fazenda": NaN
+    "Fazenda": null,
+    "Unnamed: 20": null
   },
   {
     "ID": "3593001",
@@ -19160,7 +20034,8 @@ const VIABILIDADE_GEMAS_DATA = [
     "Quantidade de Gemas Total": "58",
     "Quantidade de Gemas Viáveis": "58",
     "Quantidade de Gemas Inviáveis": "0",
-    "Fazenda": NaN
+    "Fazenda": null,
+    "Unnamed: 20": null
   },
   {
     "ID": "3595209",
@@ -19182,7 +20057,8 @@ const VIABILIDADE_GEMAS_DATA = [
     "Quantidade de Gemas Total": "61",
     "Quantidade de Gemas Viáveis": "61",
     "Quantidade de Gemas Inviáveis": "0",
-    "Fazenda": NaN
+    "Fazenda": null,
+    "Unnamed: 20": null
   },
   {
     "ID": "3594534",
@@ -19204,7 +20080,8 @@ const VIABILIDADE_GEMAS_DATA = [
     "Quantidade de Gemas Total": "58",
     "Quantidade de Gemas Viáveis": "58",
     "Quantidade de Gemas Inviáveis": "0",
-    "Fazenda": NaN
+    "Fazenda": null,
+    "Unnamed: 20": null
   },
   {
     "ID": "3595302",
@@ -19226,7 +20103,8 @@ const VIABILIDADE_GEMAS_DATA = [
     "Quantidade de Gemas Total": "56",
     "Quantidade de Gemas Viáveis": "56",
     "Quantidade de Gemas Inviáveis": "0",
-    "Fazenda": NaN
+    "Fazenda": null,
+    "Unnamed: 20": null
   },
   {
     "ID": "3595204",
@@ -19248,7 +20126,8 @@ const VIABILIDADE_GEMAS_DATA = [
     "Quantidade de Gemas Total": "54",
     "Quantidade de Gemas Viáveis": "54",
     "Quantidade de Gemas Inviáveis": "0",
-    "Fazenda": NaN
+    "Fazenda": null,
+    "Unnamed: 20": null
   },
   {
     "ID": "3594495",
@@ -19270,7 +20149,8 @@ const VIABILIDADE_GEMAS_DATA = [
     "Quantidade de Gemas Total": "49",
     "Quantidade de Gemas Viáveis": "49",
     "Quantidade de Gemas Inviáveis": "0",
-    "Fazenda": NaN
+    "Fazenda": null,
+    "Unnamed: 20": null
   },
   {
     "ID": "3595199",
@@ -19292,7 +20172,8 @@ const VIABILIDADE_GEMAS_DATA = [
     "Quantidade de Gemas Total": "59",
     "Quantidade de Gemas Viáveis": "57",
     "Quantidade de Gemas Inviáveis": "2",
-    "Fazenda": NaN
+    "Fazenda": null,
+    "Unnamed: 20": null
   },
   {
     "ID": "3594490",
@@ -19314,7 +20195,8 @@ const VIABILIDADE_GEMAS_DATA = [
     "Quantidade de Gemas Total": "52",
     "Quantidade de Gemas Viáveis": "52",
     "Quantidade de Gemas Inviáveis": "0",
-    "Fazenda": NaN
+    "Fazenda": null,
+    "Unnamed: 20": null
   },
   {
     "ID": "3595193",
@@ -19336,7 +20218,8 @@ const VIABILIDADE_GEMAS_DATA = [
     "Quantidade de Gemas Total": "58",
     "Quantidade de Gemas Viáveis": "56",
     "Quantidade de Gemas Inviáveis": "2",
-    "Fazenda": NaN
+    "Fazenda": null,
+    "Unnamed: 20": null
   },
   {
     "ID": "3593344",
@@ -19358,7 +20241,8 @@ const VIABILIDADE_GEMAS_DATA = [
     "Quantidade de Gemas Total": "57",
     "Quantidade de Gemas Viáveis": "57",
     "Quantidade de Gemas Inviáveis": "0",
-    "Fazenda": NaN
+    "Fazenda": null,
+    "Unnamed: 20": null
   },
   {
     "ID": "3593340",
@@ -19380,7 +20264,8 @@ const VIABILIDADE_GEMAS_DATA = [
     "Quantidade de Gemas Total": "60",
     "Quantidade de Gemas Viáveis": "58",
     "Quantidade de Gemas Inviáveis": "2",
-    "Fazenda": NaN
+    "Fazenda": null,
+    "Unnamed: 20": null
   },
   {
     "ID": "3595295",
@@ -19402,7 +20287,8 @@ const VIABILIDADE_GEMAS_DATA = [
     "Quantidade de Gemas Total": "57",
     "Quantidade de Gemas Viáveis": "57",
     "Quantidade de Gemas Inviáveis": "0",
-    "Fazenda": NaN
+    "Fazenda": null,
+    "Unnamed: 20": null
   },
   {
     "ID": "3594482",
@@ -19424,7 +20310,8 @@ const VIABILIDADE_GEMAS_DATA = [
     "Quantidade de Gemas Total": "58",
     "Quantidade de Gemas Viáveis": "58",
     "Quantidade de Gemas Inviáveis": "0",
-    "Fazenda": NaN
+    "Fazenda": null,
+    "Unnamed: 20": null
   },
   {
     "ID": "3595290",
@@ -19446,7 +20333,8 @@ const VIABILIDADE_GEMAS_DATA = [
     "Quantidade de Gemas Total": "59",
     "Quantidade de Gemas Viáveis": "59",
     "Quantidade de Gemas Inviáveis": "0",
-    "Fazenda": NaN
+    "Fazenda": null,
+    "Unnamed: 20": null
   },
   {
     "ID": "3594043",
@@ -19468,7 +20356,8 @@ const VIABILIDADE_GEMAS_DATA = [
     "Quantidade de Gemas Total": "57",
     "Quantidade de Gemas Viáveis": "57",
     "Quantidade de Gemas Inviáveis": "0",
-    "Fazenda": NaN
+    "Fazenda": null,
+    "Unnamed: 20": null
   },
   {
     "ID": "3594478",
@@ -19490,7 +20379,8 @@ const VIABILIDADE_GEMAS_DATA = [
     "Quantidade de Gemas Total": "55",
     "Quantidade de Gemas Viáveis": "55",
     "Quantidade de Gemas Inviáveis": "0",
-    "Fazenda": NaN
+    "Fazenda": null,
+    "Unnamed: 20": null
   },
   {
     "ID": "3592977",
@@ -19512,7 +20402,8 @@ const VIABILIDADE_GEMAS_DATA = [
     "Quantidade de Gemas Total": "56",
     "Quantidade de Gemas Viáveis": "56",
     "Quantidade de Gemas Inviáveis": "0",
-    "Fazenda": NaN
+    "Fazenda": null,
+    "Unnamed: 20": null
   },
   {
     "ID": "3593330",
@@ -19534,7 +20425,8 @@ const VIABILIDADE_GEMAS_DATA = [
     "Quantidade de Gemas Total": "60",
     "Quantidade de Gemas Viáveis": "59",
     "Quantidade de Gemas Inviáveis": "1",
-    "Fazenda": NaN
+    "Fazenda": null,
+    "Unnamed: 20": null
   },
   {
     "ID": "3594472",
@@ -19556,7 +20448,8 @@ const VIABILIDADE_GEMAS_DATA = [
     "Quantidade de Gemas Total": "60",
     "Quantidade de Gemas Viáveis": "60",
     "Quantidade de Gemas Inviáveis": "0",
-    "Fazenda": NaN
+    "Fazenda": null,
+    "Unnamed: 20": null
   },
   {
     "ID": "3592972",
@@ -19578,7 +20471,8 @@ const VIABILIDADE_GEMAS_DATA = [
     "Quantidade de Gemas Total": "57",
     "Quantidade de Gemas Viáveis": "57",
     "Quantidade de Gemas Inviáveis": "0",
-    "Fazenda": NaN
+    "Fazenda": null,
+    "Unnamed: 20": null
   },
   {
     "ID": "3593326",
@@ -19600,7 +20494,8 @@ const VIABILIDADE_GEMAS_DATA = [
     "Quantidade de Gemas Total": "59",
     "Quantidade de Gemas Viáveis": "59",
     "Quantidade de Gemas Inviáveis": "0",
-    "Fazenda": NaN
+    "Fazenda": null,
+    "Unnamed: 20": null
   },
   {
     "ID": "3595185",
@@ -19622,7 +20517,8 @@ const VIABILIDADE_GEMAS_DATA = [
     "Quantidade de Gemas Total": "60",
     "Quantidade de Gemas Viáveis": "60",
     "Quantidade de Gemas Inviáveis": "0",
-    "Fazenda": NaN
+    "Fazenda": null,
+    "Unnamed: 20": null
   },
   {
     "ID": "3593322",
@@ -19644,7 +20540,8 @@ const VIABILIDADE_GEMAS_DATA = [
     "Quantidade de Gemas Total": "60",
     "Quantidade de Gemas Viáveis": "57",
     "Quantidade de Gemas Inviáveis": "3",
-    "Fazenda": NaN
+    "Fazenda": null,
+    "Unnamed: 20": null
   },
   {
     "ID": "3595181",
@@ -19666,7 +20563,8 @@ const VIABILIDADE_GEMAS_DATA = [
     "Quantidade de Gemas Total": "64",
     "Quantidade de Gemas Viáveis": "64",
     "Quantidade de Gemas Inviáveis": "0",
-    "Fazenda": NaN
+    "Fazenda": null,
+    "Unnamed: 20": null
   },
   {
     "ID": "3592966",
@@ -19688,7 +20586,8 @@ const VIABILIDADE_GEMAS_DATA = [
     "Quantidade de Gemas Total": "57",
     "Quantidade de Gemas Viáveis": "57",
     "Quantidade de Gemas Inviáveis": "0",
-    "Fazenda": NaN
+    "Fazenda": null,
+    "Unnamed: 20": null
   },
   {
     "ID": "3592961",
@@ -19710,7 +20609,8 @@ const VIABILIDADE_GEMAS_DATA = [
     "Quantidade de Gemas Total": "60",
     "Quantidade de Gemas Viáveis": "60",
     "Quantidade de Gemas Inviáveis": "0",
-    "Fazenda": NaN
+    "Fazenda": null,
+    "Unnamed: 20": null
   },
   {
     "ID": "3595175",
@@ -19732,7 +20632,8 @@ const VIABILIDADE_GEMAS_DATA = [
     "Quantidade de Gemas Total": "58",
     "Quantidade de Gemas Viáveis": "57",
     "Quantidade de Gemas Inviáveis": "1",
-    "Fazenda": NaN
+    "Fazenda": null,
+    "Unnamed: 20": null
   },
   {
     "ID": "3593318",
@@ -19754,7 +20655,8 @@ const VIABILIDADE_GEMAS_DATA = [
     "Quantidade de Gemas Total": "54",
     "Quantidade de Gemas Viáveis": "52",
     "Quantidade de Gemas Inviáveis": "2",
-    "Fazenda": NaN
+    "Fazenda": null,
+    "Unnamed: 20": null
   },
   {
     "ID": "3595170",
@@ -19776,7 +20678,8 @@ const VIABILIDADE_GEMAS_DATA = [
     "Quantidade de Gemas Total": "62",
     "Quantidade de Gemas Viáveis": "60",
     "Quantidade de Gemas Inviáveis": "2",
-    "Fazenda": NaN
+    "Fazenda": null,
+    "Unnamed: 20": null
   },
   {
     "ID": "3592954",
@@ -19798,7 +20701,8 @@ const VIABILIDADE_GEMAS_DATA = [
     "Quantidade de Gemas Total": "59",
     "Quantidade de Gemas Viáveis": "59",
     "Quantidade de Gemas Inviáveis": "0",
-    "Fazenda": NaN
+    "Fazenda": null,
+    "Unnamed: 20": null
   },
   {
     "ID": "3593314",
@@ -19820,7 +20724,8 @@ const VIABILIDADE_GEMAS_DATA = [
     "Quantidade de Gemas Total": "62",
     "Quantidade de Gemas Viáveis": "60",
     "Quantidade de Gemas Inviáveis": "2",
-    "Fazenda": NaN
+    "Fazenda": null,
+    "Unnamed: 20": null
   },
   {
     "ID": "3592949",
@@ -19842,7 +20747,8 @@ const VIABILIDADE_GEMAS_DATA = [
     "Quantidade de Gemas Total": "58",
     "Quantidade de Gemas Viáveis": "58",
     "Quantidade de Gemas Inviáveis": "0",
-    "Fazenda": NaN
+    "Fazenda": null,
+    "Unnamed: 20": null
   },
   {
     "ID": "3593310",
@@ -19864,7 +20770,8 @@ const VIABILIDADE_GEMAS_DATA = [
     "Quantidade de Gemas Total": "63",
     "Quantidade de Gemas Viáveis": "61",
     "Quantidade de Gemas Inviáveis": "2",
-    "Fazenda": NaN
+    "Fazenda": null,
+    "Unnamed: 20": null
   },
   {
     "ID": "3592940",
@@ -19886,7 +20793,8 @@ const VIABILIDADE_GEMAS_DATA = [
     "Quantidade de Gemas Total": "60",
     "Quantidade de Gemas Viáveis": "60",
     "Quantidade de Gemas Inviáveis": "0",
-    "Fazenda": NaN
+    "Fazenda": null,
+    "Unnamed: 20": null
   },
   {
     "ID": "3592935",
@@ -19908,7 +20816,8 @@ const VIABILIDADE_GEMAS_DATA = [
     "Quantidade de Gemas Total": "57",
     "Quantidade de Gemas Viáveis": "57",
     "Quantidade de Gemas Inviáveis": "0",
-    "Fazenda": NaN
+    "Fazenda": null,
+    "Unnamed: 20": null
   },
   {
     "ID": "3592930",
@@ -19930,7 +20839,8 @@ const VIABILIDADE_GEMAS_DATA = [
     "Quantidade de Gemas Total": "54",
     "Quantidade de Gemas Viáveis": "54",
     "Quantidade de Gemas Inviáveis": "0",
-    "Fazenda": NaN
+    "Fazenda": null,
+    "Unnamed: 20": null
   },
   {
     "ID": "3591196",
@@ -19952,7 +20862,8 @@ const VIABILIDADE_GEMAS_DATA = [
     "Quantidade de Gemas Total": "54",
     "Quantidade de Gemas Viáveis": "54",
     "Quantidade de Gemas Inviáveis": "0",
-    "Fazenda": NaN
+    "Fazenda": null,
+    "Unnamed: 20": null
   },
   {
     "ID": "3591191",
@@ -19974,7 +20885,8 @@ const VIABILIDADE_GEMAS_DATA = [
     "Quantidade de Gemas Total": "59",
     "Quantidade de Gemas Viáveis": "59",
     "Quantidade de Gemas Inviáveis": "0",
-    "Fazenda": NaN
+    "Fazenda": null,
+    "Unnamed: 20": null
   },
   {
     "ID": "3591186",
@@ -19996,7 +20908,8 @@ const VIABILIDADE_GEMAS_DATA = [
     "Quantidade de Gemas Total": "56",
     "Quantidade de Gemas Viáveis": "56",
     "Quantidade de Gemas Inviáveis": "0",
-    "Fazenda": NaN
+    "Fazenda": null,
+    "Unnamed: 20": null
   },
   {
     "ID": "3591181",
@@ -20018,7 +20931,8 @@ const VIABILIDADE_GEMAS_DATA = [
     "Quantidade de Gemas Total": "60",
     "Quantidade de Gemas Viáveis": "60",
     "Quantidade de Gemas Inviáveis": "0",
-    "Fazenda": NaN
+    "Fazenda": null,
+    "Unnamed: 20": null
   },
   {
     "ID": "3590603",
@@ -20040,7 +20954,8 @@ const VIABILIDADE_GEMAS_DATA = [
     "Quantidade de Gemas Total": "58",
     "Quantidade de Gemas Viáveis": "58",
     "Quantidade de Gemas Inviáveis": "0",
-    "Fazenda": NaN
+    "Fazenda": null,
+    "Unnamed: 20": null
   },
   {
     "ID": "3591176",
@@ -20062,7 +20977,8 @@ const VIABILIDADE_GEMAS_DATA = [
     "Quantidade de Gemas Total": "57",
     "Quantidade de Gemas Viáveis": "57",
     "Quantidade de Gemas Inviáveis": "0",
-    "Fazenda": NaN
+    "Fazenda": null,
+    "Unnamed: 20": null
   },
   {
     "ID": "3590438",
@@ -20084,7 +21000,8 @@ const VIABILIDADE_GEMAS_DATA = [
     "Quantidade de Gemas Total": "53",
     "Quantidade de Gemas Viáveis": "53",
     "Quantidade de Gemas Inviáveis": "0",
-    "Fazenda": NaN
+    "Fazenda": null,
+    "Unnamed: 20": null
   },
   {
     "ID": "3590433",
@@ -20106,7 +21023,8 @@ const VIABILIDADE_GEMAS_DATA = [
     "Quantidade de Gemas Total": "48",
     "Quantidade de Gemas Viáveis": "48",
     "Quantidade de Gemas Inviáveis": "0",
-    "Fazenda": NaN
+    "Fazenda": null,
+    "Unnamed: 20": null
   },
   {
     "ID": "3590601",
@@ -20128,7 +21046,8 @@ const VIABILIDADE_GEMAS_DATA = [
     "Quantidade de Gemas Total": "59",
     "Quantidade de Gemas Viáveis": "59",
     "Quantidade de Gemas Inviáveis": "0",
-    "Fazenda": NaN
+    "Fazenda": null,
+    "Unnamed: 20": null
   },
   {
     "ID": "3590428",
@@ -20150,7 +21069,8 @@ const VIABILIDADE_GEMAS_DATA = [
     "Quantidade de Gemas Total": "61",
     "Quantidade de Gemas Viáveis": "61",
     "Quantidade de Gemas Inviáveis": "0",
-    "Fazenda": NaN
+    "Fazenda": null,
+    "Unnamed: 20": null
   },
   {
     "ID": "3590593",
@@ -20172,7 +21092,8 @@ const VIABILIDADE_GEMAS_DATA = [
     "Quantidade de Gemas Total": "57",
     "Quantidade de Gemas Viáveis": "57",
     "Quantidade de Gemas Inviáveis": "0",
-    "Fazenda": NaN
+    "Fazenda": null,
+    "Unnamed: 20": null
   },
   {
     "ID": "3590381",
@@ -20194,7 +21115,8 @@ const VIABILIDADE_GEMAS_DATA = [
     "Quantidade de Gemas Total": "65",
     "Quantidade de Gemas Viáveis": "61",
     "Quantidade de Gemas Inviáveis": "4",
-    "Fazenda": NaN
+    "Fazenda": null,
+    "Unnamed: 20": null
   },
   {
     "ID": "3590588",
@@ -20216,7 +21138,8 @@ const VIABILIDADE_GEMAS_DATA = [
     "Quantidade de Gemas Total": "58",
     "Quantidade de Gemas Viáveis": "58",
     "Quantidade de Gemas Inviáveis": "0",
-    "Fazenda": NaN
+    "Fazenda": null,
+    "Unnamed: 20": null
   },
   {
     "ID": "3590375",
@@ -20238,7 +21161,8 @@ const VIABILIDADE_GEMAS_DATA = [
     "Quantidade de Gemas Total": "59",
     "Quantidade de Gemas Viáveis": "59",
     "Quantidade de Gemas Inviáveis": "0",
-    "Fazenda": NaN
+    "Fazenda": null,
+    "Unnamed: 20": null
   },
   {
     "ID": "3590371",
@@ -20260,7 +21184,8 @@ const VIABILIDADE_GEMAS_DATA = [
     "Quantidade de Gemas Total": "65",
     "Quantidade de Gemas Viáveis": "61",
     "Quantidade de Gemas Inviáveis": "4",
-    "Fazenda": NaN
+    "Fazenda": null,
+    "Unnamed: 20": null
   },
   {
     "ID": "3590366",
@@ -20282,7 +21207,8 @@ const VIABILIDADE_GEMAS_DATA = [
     "Quantidade de Gemas Total": "64",
     "Quantidade de Gemas Viáveis": "60",
     "Quantidade de Gemas Inviáveis": "4",
-    "Fazenda": NaN
+    "Fazenda": null,
+    "Unnamed: 20": null
   },
   {
     "ID": "3590362",
@@ -20304,7 +21230,8 @@ const VIABILIDADE_GEMAS_DATA = [
     "Quantidade de Gemas Total": "59",
     "Quantidade de Gemas Viáveis": "59",
     "Quantidade de Gemas Inviáveis": "0",
-    "Fazenda": NaN
+    "Fazenda": null,
+    "Unnamed: 20": null
   },
   {
     "ID": "3591073",
@@ -20326,7 +21253,8 @@ const VIABILIDADE_GEMAS_DATA = [
     "Quantidade de Gemas Total": "60",
     "Quantidade de Gemas Viáveis": "60",
     "Quantidade de Gemas Inviáveis": "0",
-    "Fazenda": NaN
+    "Fazenda": null,
+    "Unnamed: 20": null
   },
   {
     "ID": "3591072",
@@ -20348,7 +21276,8 @@ const VIABILIDADE_GEMAS_DATA = [
     "Quantidade de Gemas Total": "50",
     "Quantidade de Gemas Viáveis": "50",
     "Quantidade de Gemas Inviáveis": "0",
-    "Fazenda": NaN
+    "Fazenda": null,
+    "Unnamed: 20": null
   },
   {
     "ID": "3591071",
@@ -20370,7 +21299,8 @@ const VIABILIDADE_GEMAS_DATA = [
     "Quantidade de Gemas Total": "60",
     "Quantidade de Gemas Viáveis": "60",
     "Quantidade de Gemas Inviáveis": "0",
-    "Fazenda": NaN
+    "Fazenda": null,
+    "Unnamed: 20": null
   },
   {
     "ID": "3591070",
@@ -20392,7 +21322,8 @@ const VIABILIDADE_GEMAS_DATA = [
     "Quantidade de Gemas Total": "52",
     "Quantidade de Gemas Viáveis": "52",
     "Quantidade de Gemas Inviáveis": "0",
-    "Fazenda": NaN
+    "Fazenda": null,
+    "Unnamed: 20": null
   },
   {
     "ID": "3591069",
@@ -20414,7 +21345,8 @@ const VIABILIDADE_GEMAS_DATA = [
     "Quantidade de Gemas Total": "49",
     "Quantidade de Gemas Viáveis": "49",
     "Quantidade de Gemas Inviáveis": "0",
-    "Fazenda": NaN
+    "Fazenda": null,
+    "Unnamed: 20": null
   },
   {
     "ID": "3591068",
@@ -20436,7 +21368,8 @@ const VIABILIDADE_GEMAS_DATA = [
     "Quantidade de Gemas Total": "60",
     "Quantidade de Gemas Viáveis": "60",
     "Quantidade de Gemas Inviáveis": "0",
-    "Fazenda": NaN
+    "Fazenda": null,
+    "Unnamed: 20": null
   },
   {
     "ID": "3591067",
@@ -20458,7 +21391,8 @@ const VIABILIDADE_GEMAS_DATA = [
     "Quantidade de Gemas Total": "48",
     "Quantidade de Gemas Viáveis": "48",
     "Quantidade de Gemas Inviáveis": "0",
-    "Fazenda": NaN
+    "Fazenda": null,
+    "Unnamed: 20": null
   },
   {
     "ID": "3590418",
@@ -20480,7 +21414,8 @@ const VIABILIDADE_GEMAS_DATA = [
     "Quantidade de Gemas Total": "49",
     "Quantidade de Gemas Viáveis": "49",
     "Quantidade de Gemas Inviáveis": "0",
-    "Fazenda": NaN
+    "Fazenda": null,
+    "Unnamed: 20": null
   },
   {
     "ID": "3590358",
@@ -20502,7 +21437,8 @@ const VIABILIDADE_GEMAS_DATA = [
     "Quantidade de Gemas Total": "61",
     "Quantidade de Gemas Viáveis": "58",
     "Quantidade de Gemas Inviáveis": "3",
-    "Fazenda": NaN
+    "Fazenda": null,
+    "Unnamed: 20": null
   },
   {
     "ID": "3590413",
@@ -20524,7 +21460,8 @@ const VIABILIDADE_GEMAS_DATA = [
     "Quantidade de Gemas Total": "50",
     "Quantidade de Gemas Viáveis": "50",
     "Quantidade de Gemas Inviáveis": "0",
-    "Fazenda": NaN
+    "Fazenda": null,
+    "Unnamed: 20": null
   },
   {
     "ID": "3591152",
@@ -20546,7 +21483,8 @@ const VIABILIDADE_GEMAS_DATA = [
     "Quantidade de Gemas Total": "59",
     "Quantidade de Gemas Viáveis": "59",
     "Quantidade de Gemas Inviáveis": "0",
-    "Fazenda": NaN
+    "Fazenda": null,
+    "Unnamed: 20": null
   },
   {
     "ID": "3590353",
@@ -20568,7 +21506,8 @@ const VIABILIDADE_GEMAS_DATA = [
     "Quantidade de Gemas Total": "64",
     "Quantidade de Gemas Viáveis": "60",
     "Quantidade de Gemas Inviáveis": "4",
-    "Fazenda": NaN
+    "Fazenda": null,
+    "Unnamed: 20": null
   },
   {
     "ID": "3591143",
@@ -20590,7 +21529,8 @@ const VIABILIDADE_GEMAS_DATA = [
     "Quantidade de Gemas Total": "57",
     "Quantidade de Gemas Viáveis": "57",
     "Quantidade de Gemas Inviáveis": "0",
-    "Fazenda": NaN
+    "Fazenda": null,
+    "Unnamed: 20": null
   },
   {
     "ID": "3590408",
@@ -20612,7 +21552,8 @@ const VIABILIDADE_GEMAS_DATA = [
     "Quantidade de Gemas Total": "60",
     "Quantidade de Gemas Viáveis": "60",
     "Quantidade de Gemas Inviáveis": "0",
-    "Fazenda": NaN
+    "Fazenda": null,
+    "Unnamed: 20": null
   },
   {
     "ID": "3590349",
@@ -20634,7 +21575,8 @@ const VIABILIDADE_GEMAS_DATA = [
     "Quantidade de Gemas Total": "54",
     "Quantidade de Gemas Viáveis": "51",
     "Quantidade de Gemas Inviáveis": "3",
-    "Fazenda": NaN
+    "Fazenda": null,
+    "Unnamed: 20": null
   },
   {
     "ID": "3591137",
@@ -20656,7 +21598,8 @@ const VIABILIDADE_GEMAS_DATA = [
     "Quantidade de Gemas Total": "55",
     "Quantidade de Gemas Viáveis": "55",
     "Quantidade de Gemas Inviáveis": "0",
-    "Fazenda": NaN
+    "Fazenda": null,
+    "Unnamed: 20": null
   },
   {
     "ID": "3590345",
@@ -20678,7 +21621,8 @@ const VIABILIDADE_GEMAS_DATA = [
     "Quantidade de Gemas Total": "60",
     "Quantidade de Gemas Viáveis": "57",
     "Quantidade de Gemas Inviáveis": "3",
-    "Fazenda": NaN
+    "Fazenda": null,
+    "Unnamed: 20": null
   },
   {
     "ID": "3590403",
@@ -20700,7 +21644,8 @@ const VIABILIDADE_GEMAS_DATA = [
     "Quantidade de Gemas Total": "63",
     "Quantidade de Gemas Viáveis": "59",
     "Quantidade de Gemas Inviáveis": "4",
-    "Fazenda": NaN
+    "Fazenda": null,
+    "Unnamed: 20": null
   },
   {
     "ID": "3591132",
@@ -20722,7 +21667,8 @@ const VIABILIDADE_GEMAS_DATA = [
     "Quantidade de Gemas Total": "54",
     "Quantidade de Gemas Viáveis": "54",
     "Quantidade de Gemas Inviáveis": "0",
-    "Fazenda": NaN
+    "Fazenda": null,
+    "Unnamed: 20": null
   },
   {
     "ID": "3591103",
@@ -20744,7 +21690,8 @@ const VIABILIDADE_GEMAS_DATA = [
     "Quantidade de Gemas Total": "57",
     "Quantidade de Gemas Viáveis": "57",
     "Quantidade de Gemas Inviáveis": "0",
-    "Fazenda": NaN
+    "Fazenda": null,
+    "Unnamed: 20": null
   },
   {
     "ID": "3591102",
@@ -20766,7 +21713,8 @@ const VIABILIDADE_GEMAS_DATA = [
     "Quantidade de Gemas Total": "56",
     "Quantidade de Gemas Viáveis": "56",
     "Quantidade de Gemas Inviáveis": "0",
-    "Fazenda": NaN
+    "Fazenda": null,
+    "Unnamed: 20": null
   },
   {
     "ID": "3590341",
@@ -20788,7 +21736,8 @@ const VIABILIDADE_GEMAS_DATA = [
     "Quantidade de Gemas Total": "63",
     "Quantidade de Gemas Viáveis": "60",
     "Quantidade de Gemas Inviáveis": "3",
-    "Fazenda": NaN
+    "Fazenda": null,
+    "Unnamed: 20": null
   },
   {
     "ID": "3590398",
@@ -20810,7 +21759,8 @@ const VIABILIDADE_GEMAS_DATA = [
     "Quantidade de Gemas Total": "49",
     "Quantidade de Gemas Viáveis": "49",
     "Quantidade de Gemas Inviáveis": "0",
-    "Fazenda": NaN
+    "Fazenda": null,
+    "Unnamed: 20": null
   },
   {
     "ID": "3591126",
@@ -20832,7 +21782,8 @@ const VIABILIDADE_GEMAS_DATA = [
     "Quantidade de Gemas Total": "60",
     "Quantidade de Gemas Viáveis": "60",
     "Quantidade de Gemas Inviáveis": "0",
-    "Fazenda": NaN
+    "Fazenda": null,
+    "Unnamed: 20": null
   },
   {
     "ID": "3591121",
@@ -20854,7 +21805,8 @@ const VIABILIDADE_GEMAS_DATA = [
     "Quantidade de Gemas Total": "59",
     "Quantidade de Gemas Viáveis": "59",
     "Quantidade de Gemas Inviáveis": "0",
-    "Fazenda": NaN
+    "Fazenda": null,
+    "Unnamed: 20": null
   },
   {
     "ID": "3591012",
@@ -20876,7 +21828,8 @@ const VIABILIDADE_GEMAS_DATA = [
     "Quantidade de Gemas Total": "58",
     "Quantidade de Gemas Viáveis": "58",
     "Quantidade de Gemas Inviáveis": "0",
-    "Fazenda": NaN
+    "Fazenda": null,
+    "Unnamed: 20": null
   },
   {
     "ID": "3591007",
@@ -20898,7 +21851,8 @@ const VIABILIDADE_GEMAS_DATA = [
     "Quantidade de Gemas Total": "60",
     "Quantidade de Gemas Viáveis": "60",
     "Quantidade de Gemas Inviáveis": "0",
-    "Fazenda": NaN
+    "Fazenda": null,
+    "Unnamed: 20": null
   },
   {
     "ID": "3591002",
@@ -20920,7 +21874,8 @@ const VIABILIDADE_GEMAS_DATA = [
     "Quantidade de Gemas Total": "54",
     "Quantidade de Gemas Viáveis": "54",
     "Quantidade de Gemas Inviáveis": "0",
-    "Fazenda": NaN
+    "Fazenda": null,
+    "Unnamed: 20": null
   },
   {
     "ID": "3590993",
@@ -20942,7 +21897,8 @@ const VIABILIDADE_GEMAS_DATA = [
     "Quantidade de Gemas Total": "56",
     "Quantidade de Gemas Viáveis": "56",
     "Quantidade de Gemas Inviáveis": "0",
-    "Fazenda": NaN
+    "Fazenda": null,
+    "Unnamed: 20": null
   },
   {
     "ID": "3590989",
@@ -20964,7 +21920,8 @@ const VIABILIDADE_GEMAS_DATA = [
     "Quantidade de Gemas Total": "57",
     "Quantidade de Gemas Viáveis": "57",
     "Quantidade de Gemas Inviáveis": "0",
-    "Fazenda": NaN
+    "Fazenda": null,
+    "Unnamed: 20": null
   },
   {
     "ID": "3590982",
@@ -20986,7 +21943,8 @@ const VIABILIDADE_GEMAS_DATA = [
     "Quantidade de Gemas Total": "59",
     "Quantidade de Gemas Viáveis": "58",
     "Quantidade de Gemas Inviáveis": "1",
-    "Fazenda": NaN
+    "Fazenda": null,
+    "Unnamed: 20": null
   },
   {
     "ID": "3588335",
@@ -21008,7 +21966,8 @@ const VIABILIDADE_GEMAS_DATA = [
     "Quantidade de Gemas Total": "63",
     "Quantidade de Gemas Viáveis": "63",
     "Quantidade de Gemas Inviáveis": "0",
-    "Fazenda": NaN
+    "Fazenda": null,
+    "Unnamed: 20": null
   },
   {
     "ID": "3588329",
@@ -21030,7 +21989,8 @@ const VIABILIDADE_GEMAS_DATA = [
     "Quantidade de Gemas Total": "48",
     "Quantidade de Gemas Viáveis": "48",
     "Quantidade de Gemas Inviáveis": "0",
-    "Fazenda": NaN
+    "Fazenda": null,
+    "Unnamed: 20": null
   },
   {
     "ID": "3588324",
@@ -21052,7 +22012,8 @@ const VIABILIDADE_GEMAS_DATA = [
     "Quantidade de Gemas Total": "54",
     "Quantidade de Gemas Viáveis": "54",
     "Quantidade de Gemas Inviáveis": "0",
-    "Fazenda": NaN
+    "Fazenda": null,
+    "Unnamed: 20": null
   },
   {
     "ID": "3587857",
@@ -21074,7 +22035,8 @@ const VIABILIDADE_GEMAS_DATA = [
     "Quantidade de Gemas Total": "57",
     "Quantidade de Gemas Viáveis": "57",
     "Quantidade de Gemas Inviáveis": "0",
-    "Fazenda": NaN
+    "Fazenda": null,
+    "Unnamed: 20": null
   },
   {
     "ID": "3588587",
@@ -21096,7 +22058,8 @@ const VIABILIDADE_GEMAS_DATA = [
     "Quantidade de Gemas Total": "72",
     "Quantidade de Gemas Viáveis": "72",
     "Quantidade de Gemas Inviáveis": "0",
-    "Fazenda": NaN
+    "Fazenda": null,
+    "Unnamed: 20": null
   },
   {
     "ID": "3587851",
@@ -21118,7 +22081,8 @@ const VIABILIDADE_GEMAS_DATA = [
     "Quantidade de Gemas Total": "55",
     "Quantidade de Gemas Viáveis": "55",
     "Quantidade de Gemas Inviáveis": "0",
-    "Fazenda": NaN
+    "Fazenda": null,
+    "Unnamed: 20": null
   },
   {
     "ID": "3588520",
@@ -21140,7 +22104,8 @@ const VIABILIDADE_GEMAS_DATA = [
     "Quantidade de Gemas Total": "78",
     "Quantidade de Gemas Viáveis": "77",
     "Quantidade de Gemas Inviáveis": "1",
-    "Fazenda": NaN
+    "Fazenda": null,
+    "Unnamed: 20": null
   },
   {
     "ID": "3587846",
@@ -21162,7 +22127,8 @@ const VIABILIDADE_GEMAS_DATA = [
     "Quantidade de Gemas Total": "54",
     "Quantidade de Gemas Viáveis": "54",
     "Quantidade de Gemas Inviáveis": "0",
-    "Fazenda": NaN
+    "Fazenda": null,
+    "Unnamed: 20": null
   },
   {
     "ID": "3587841",
@@ -21184,7 +22150,8 @@ const VIABILIDADE_GEMAS_DATA = [
     "Quantidade de Gemas Total": "57",
     "Quantidade de Gemas Viáveis": "57",
     "Quantidade de Gemas Inviáveis": "0",
-    "Fazenda": NaN
+    "Fazenda": null,
+    "Unnamed: 20": null
   },
   {
     "ID": "3587837",
@@ -21206,7 +22173,8 @@ const VIABILIDADE_GEMAS_DATA = [
     "Quantidade de Gemas Total": "60",
     "Quantidade de Gemas Viáveis": "60",
     "Quantidade de Gemas Inviáveis": "0",
-    "Fazenda": NaN
+    "Fazenda": null,
+    "Unnamed: 20": null
   },
   {
     "ID": "3587832",
@@ -21228,7 +22196,8 @@ const VIABILIDADE_GEMAS_DATA = [
     "Quantidade de Gemas Total": "59",
     "Quantidade de Gemas Viáveis": "59",
     "Quantidade de Gemas Inviáveis": "0",
-    "Fazenda": NaN
+    "Fazenda": null,
+    "Unnamed: 20": null
   },
   {
     "ID": "3587827",
@@ -21250,7 +22219,8 @@ const VIABILIDADE_GEMAS_DATA = [
     "Quantidade de Gemas Total": "54",
     "Quantidade de Gemas Viáveis": "54",
     "Quantidade de Gemas Inviáveis": "0",
-    "Fazenda": NaN
+    "Fazenda": null,
+    "Unnamed: 20": null
   },
   {
     "ID": "3588507",
@@ -21272,7 +22242,8 @@ const VIABILIDADE_GEMAS_DATA = [
     "Quantidade de Gemas Total": "67",
     "Quantidade de Gemas Viáveis": "65",
     "Quantidade de Gemas Inviáveis": "2",
-    "Fazenda": NaN
+    "Fazenda": null,
+    "Unnamed: 20": null
   },
   {
     "ID": "3588502",
@@ -21294,7 +22265,8 @@ const VIABILIDADE_GEMAS_DATA = [
     "Quantidade de Gemas Total": "79",
     "Quantidade de Gemas Viáveis": "78",
     "Quantidade de Gemas Inviáveis": "1",
-    "Fazenda": NaN
+    "Fazenda": null,
+    "Unnamed: 20": null
   },
   {
     "ID": "3588498",
@@ -21316,7 +22288,8 @@ const VIABILIDADE_GEMAS_DATA = [
     "Quantidade de Gemas Total": "89",
     "Quantidade de Gemas Viáveis": "89",
     "Quantidade de Gemas Inviáveis": "0",
-    "Fazenda": NaN
+    "Fazenda": null,
+    "Unnamed: 20": null
   },
   {
     "ID": "3588318",
@@ -21338,7 +22311,8 @@ const VIABILIDADE_GEMAS_DATA = [
     "Quantidade de Gemas Total": "71",
     "Quantidade de Gemas Viáveis": "71",
     "Quantidade de Gemas Inviáveis": "0",
-    "Fazenda": NaN
+    "Fazenda": null,
+    "Unnamed: 20": null
   },
   {
     "ID": "3588312",
@@ -21360,7 +22334,8 @@ const VIABILIDADE_GEMAS_DATA = [
     "Quantidade de Gemas Total": "74",
     "Quantidade de Gemas Viáveis": "72",
     "Quantidade de Gemas Inviáveis": "2",
-    "Fazenda": NaN
+    "Fazenda": null,
+    "Unnamed: 20": null
   },
   {
     "ID": "3587234",
@@ -21382,7 +22357,8 @@ const VIABILIDADE_GEMAS_DATA = [
     "Quantidade de Gemas Total": "50",
     "Quantidade de Gemas Viáveis": "50",
     "Quantidade de Gemas Inviáveis": "0",
-    "Fazenda": NaN
+    "Fazenda": null,
+    "Unnamed: 20": null
   },
   {
     "ID": "3588306",
@@ -21404,7 +22380,8 @@ const VIABILIDADE_GEMAS_DATA = [
     "Quantidade de Gemas Total": "62",
     "Quantidade de Gemas Viáveis": "58",
     "Quantidade de Gemas Inviáveis": "4",
-    "Fazenda": NaN
+    "Fazenda": null,
+    "Unnamed: 20": null
   },
   {
     "ID": "3587223",
@@ -21426,7 +22403,8 @@ const VIABILIDADE_GEMAS_DATA = [
     "Quantidade de Gemas Total": "57",
     "Quantidade de Gemas Viáveis": "57",
     "Quantidade de Gemas Inviáveis": "0",
-    "Fazenda": NaN
+    "Fazenda": null,
+    "Unnamed: 20": null
   },
   {
     "ID": "3587217",
@@ -21448,7 +22426,8 @@ const VIABILIDADE_GEMAS_DATA = [
     "Quantidade de Gemas Total": "60",
     "Quantidade de Gemas Viáveis": "60",
     "Quantidade de Gemas Inviáveis": "0",
-    "Fazenda": NaN
+    "Fazenda": null,
+    "Unnamed: 20": null
   },
   {
     "ID": "3587211",
@@ -21470,7 +22449,8 @@ const VIABILIDADE_GEMAS_DATA = [
     "Quantidade de Gemas Total": "56",
     "Quantidade de Gemas Viáveis": "56",
     "Quantidade de Gemas Inviáveis": "0",
-    "Fazenda": NaN
+    "Fazenda": null,
+    "Unnamed: 20": null
   },
   {
     "ID": "3587205",
@@ -21492,7 +22472,8 @@ const VIABILIDADE_GEMAS_DATA = [
     "Quantidade de Gemas Total": "48",
     "Quantidade de Gemas Viáveis": "48",
     "Quantidade de Gemas Inviáveis": "0",
-    "Fazenda": NaN
+    "Fazenda": null,
+    "Unnamed: 20": null
   },
   {
     "ID": "3588303",
@@ -21514,7 +22495,8 @@ const VIABILIDADE_GEMAS_DATA = [
     "Quantidade de Gemas Total": "79",
     "Quantidade de Gemas Viáveis": "78",
     "Quantidade de Gemas Inviáveis": "1",
-    "Fazenda": NaN
+    "Fazenda": null,
+    "Unnamed: 20": null
   },
   {
     "ID": "3588299",
@@ -21536,7 +22518,8 @@ const VIABILIDADE_GEMAS_DATA = [
     "Quantidade de Gemas Total": "74",
     "Quantidade de Gemas Viáveis": "74",
     "Quantidade de Gemas Inviáveis": "0",
-    "Fazenda": NaN
+    "Fazenda": null,
+    "Unnamed: 20": null
   },
   {
     "ID": "3588285",
@@ -21558,7 +22541,8 @@ const VIABILIDADE_GEMAS_DATA = [
     "Quantidade de Gemas Total": "83",
     "Quantidade de Gemas Viáveis": "83",
     "Quantidade de Gemas Inviáveis": "0",
-    "Fazenda": NaN
+    "Fazenda": null,
+    "Unnamed: 20": null
   },
   {
     "ID": "3588483",
@@ -21580,7 +22564,8 @@ const VIABILIDADE_GEMAS_DATA = [
     "Quantidade de Gemas Total": "81",
     "Quantidade de Gemas Viáveis": "80",
     "Quantidade de Gemas Inviáveis": "1",
-    "Fazenda": NaN
+    "Fazenda": null,
+    "Unnamed: 20": null
   },
   {
     "ID": "3588479",
@@ -21602,7 +22587,8 @@ const VIABILIDADE_GEMAS_DATA = [
     "Quantidade de Gemas Total": "79",
     "Quantidade de Gemas Viáveis": "79",
     "Quantidade de Gemas Inviáveis": "0",
-    "Fazenda": NaN
+    "Fazenda": null,
+    "Unnamed: 20": null
   },
   {
     "ID": "3587927",
@@ -21624,7 +22610,8 @@ const VIABILIDADE_GEMAS_DATA = [
     "Quantidade de Gemas Total": "61",
     "Quantidade de Gemas Viáveis": "61",
     "Quantidade de Gemas Inviáveis": "0",
-    "Fazenda": NaN
+    "Fazenda": null,
+    "Unnamed: 20": null
   },
   {
     "ID": "3588473",
@@ -21646,7 +22633,8 @@ const VIABILIDADE_GEMAS_DATA = [
     "Quantidade de Gemas Total": "84",
     "Quantidade de Gemas Viáveis": "84",
     "Quantidade de Gemas Inviáveis": "0",
-    "Fazenda": NaN
+    "Fazenda": null,
+    "Unnamed: 20": null
   },
   {
     "ID": "3587921",
@@ -21668,7 +22656,8 @@ const VIABILIDADE_GEMAS_DATA = [
     "Quantidade de Gemas Total": "60",
     "Quantidade de Gemas Viáveis": "59",
     "Quantidade de Gemas Inviáveis": "1",
-    "Fazenda": NaN
+    "Fazenda": null,
+    "Unnamed: 20": null
   },
   {
     "ID": "3587048",
@@ -21690,7 +22679,8 @@ const VIABILIDADE_GEMAS_DATA = [
     "Quantidade de Gemas Total": "54",
     "Quantidade de Gemas Viáveis": "54",
     "Quantidade de Gemas Inviáveis": "0",
-    "Fazenda": NaN
+    "Fazenda": null,
+    "Unnamed: 20": null
   },
   {
     "ID": "3587201",
@@ -21712,7 +22702,8 @@ const VIABILIDADE_GEMAS_DATA = [
     "Quantidade de Gemas Total": "51",
     "Quantidade de Gemas Viáveis": "51",
     "Quantidade de Gemas Inviáveis": "0",
-    "Fazenda": NaN
+    "Fazenda": null,
+    "Unnamed: 20": null
   },
   {
     "ID": "3587911",
@@ -21734,7 +22725,8 @@ const VIABILIDADE_GEMAS_DATA = [
     "Quantidade de Gemas Total": "60",
     "Quantidade de Gemas Viáveis": "60",
     "Quantidade de Gemas Inviáveis": "0",
-    "Fazenda": NaN
+    "Fazenda": null,
+    "Unnamed: 20": null
   },
   {
     "ID": "3587196",
@@ -21756,7 +22748,8 @@ const VIABILIDADE_GEMAS_DATA = [
     "Quantidade de Gemas Total": "49",
     "Quantidade de Gemas Viáveis": "49",
     "Quantidade de Gemas Inviáveis": "0",
-    "Fazenda": NaN
+    "Fazenda": null,
+    "Unnamed: 20": null
   },
   {
     "ID": "3587042",
@@ -21778,7 +22771,8 @@ const VIABILIDADE_GEMAS_DATA = [
     "Quantidade de Gemas Total": "58",
     "Quantidade de Gemas Viáveis": "58",
     "Quantidade de Gemas Inviáveis": "0",
-    "Fazenda": NaN
+    "Fazenda": null,
+    "Unnamed: 20": null
   },
   {
     "ID": "3587906",
@@ -21800,7 +22794,8 @@ const VIABILIDADE_GEMAS_DATA = [
     "Quantidade de Gemas Total": "54",
     "Quantidade de Gemas Viáveis": "54",
     "Quantidade de Gemas Inviáveis": "0",
-    "Fazenda": NaN
+    "Fazenda": null,
+    "Unnamed: 20": null
   },
   {
     "ID": "3587191",
@@ -21822,7 +22817,8 @@ const VIABILIDADE_GEMAS_DATA = [
     "Quantidade de Gemas Total": "52",
     "Quantidade de Gemas Viáveis": "52",
     "Quantidade de Gemas Inviáveis": "0",
-    "Fazenda": NaN
+    "Fazenda": null,
+    "Unnamed: 20": null
   },
   {
     "ID": "3587037",
@@ -21844,7 +22840,8 @@ const VIABILIDADE_GEMAS_DATA = [
     "Quantidade de Gemas Total": "60",
     "Quantidade de Gemas Viáveis": "60",
     "Quantidade de Gemas Inviáveis": "0",
-    "Fazenda": NaN
+    "Fazenda": null,
+    "Unnamed: 20": null
   },
   {
     "ID": "3587716",
@@ -21866,7 +22863,8 @@ const VIABILIDADE_GEMAS_DATA = [
     "Quantidade de Gemas Total": "55",
     "Quantidade de Gemas Viáveis": "55",
     "Quantidade de Gemas Inviáveis": "0",
-    "Fazenda": NaN
+    "Fazenda": null,
+    "Unnamed: 20": null
   },
   {
     "ID": "3587898",
@@ -21888,7 +22886,8 @@ const VIABILIDADE_GEMAS_DATA = [
     "Quantidade de Gemas Total": "57",
     "Quantidade de Gemas Viáveis": "57",
     "Quantidade de Gemas Inviáveis": "0",
-    "Fazenda": NaN
+    "Fazenda": null,
+    "Unnamed: 20": null
   },
   {
     "ID": "3588460",
@@ -21910,7 +22909,8 @@ const VIABILIDADE_GEMAS_DATA = [
     "Quantidade de Gemas Total": "88",
     "Quantidade de Gemas Viáveis": "88",
     "Quantidade de Gemas Inviáveis": "0",
-    "Fazenda": NaN
+    "Fazenda": null,
+    "Unnamed: 20": null
   },
   {
     "ID": "3587032",
@@ -21932,7 +22932,8 @@ const VIABILIDADE_GEMAS_DATA = [
     "Quantidade de Gemas Total": "54",
     "Quantidade de Gemas Viáveis": "54",
     "Quantidade de Gemas Inviáveis": "0",
-    "Fazenda": NaN
+    "Fazenda": null,
+    "Unnamed: 20": null
   },
   {
     "ID": "3587185",
@@ -21954,7 +22955,8 @@ const VIABILIDADE_GEMAS_DATA = [
     "Quantidade de Gemas Total": "58",
     "Quantidade de Gemas Viáveis": "58",
     "Quantidade de Gemas Inviáveis": "0",
-    "Fazenda": NaN
+    "Fazenda": null,
+    "Unnamed: 20": null
   },
   {
     "ID": "3588453",
@@ -21976,7 +22978,8 @@ const VIABILIDADE_GEMAS_DATA = [
     "Quantidade de Gemas Total": "93",
     "Quantidade de Gemas Viáveis": "92",
     "Quantidade de Gemas Inviáveis": "1",
-    "Fazenda": NaN
+    "Fazenda": null,
+    "Unnamed: 20": null
   },
   {
     "ID": "3587405",
@@ -21998,7 +23001,8 @@ const VIABILIDADE_GEMAS_DATA = [
     "Quantidade de Gemas Total": "60",
     "Quantidade de Gemas Viáveis": "58",
     "Quantidade de Gemas Inviáveis": "2",
-    "Fazenda": NaN
+    "Fazenda": null,
+    "Unnamed: 20": null
   },
   {
     "ID": "3587026",
@@ -22020,7 +23024,8 @@ const VIABILIDADE_GEMAS_DATA = [
     "Quantidade de Gemas Total": "57",
     "Quantidade de Gemas Viáveis": "57",
     "Quantidade de Gemas Inviáveis": "0",
-    "Fazenda": NaN
+    "Fazenda": null,
+    "Unnamed: 20": null
   },
   {
     "ID": "3587180",
@@ -22042,7 +23047,8 @@ const VIABILIDADE_GEMAS_DATA = [
     "Quantidade de Gemas Total": "48",
     "Quantidade de Gemas Viáveis": "48",
     "Quantidade de Gemas Inviáveis": "0",
-    "Fazenda": NaN
+    "Fazenda": null,
+    "Unnamed: 20": null
   },
   {
     "ID": "3587400",
@@ -22064,7 +23070,8 @@ const VIABILIDADE_GEMAS_DATA = [
     "Quantidade de Gemas Total": "60",
     "Quantidade de Gemas Viáveis": "60",
     "Quantidade de Gemas Inviáveis": "0",
-    "Fazenda": NaN
+    "Fazenda": null,
+    "Unnamed: 20": null
   },
   {
     "ID": "3587174",
@@ -22086,7 +23093,8 @@ const VIABILIDADE_GEMAS_DATA = [
     "Quantidade de Gemas Total": "53",
     "Quantidade de Gemas Viáveis": "53",
     "Quantidade de Gemas Inviáveis": "0",
-    "Fazenda": NaN
+    "Fazenda": null,
+    "Unnamed: 20": null
   },
   {
     "ID": "3588448",
@@ -22108,7 +23116,8 @@ const VIABILIDADE_GEMAS_DATA = [
     "Quantidade de Gemas Total": "78",
     "Quantidade de Gemas Viáveis": "78",
     "Quantidade de Gemas Inviáveis": "0",
-    "Fazenda": NaN
+    "Fazenda": null,
+    "Unnamed: 20": null
   },
   {
     "ID": "3587169",
@@ -22130,7 +23139,8 @@ const VIABILIDADE_GEMAS_DATA = [
     "Quantidade de Gemas Total": "48",
     "Quantidade de Gemas Viáveis": "48",
     "Quantidade de Gemas Inviáveis": "0",
-    "Fazenda": NaN
+    "Fazenda": null,
+    "Unnamed: 20": null
   },
   {
     "ID": "3588443",
@@ -22152,7 +23162,8 @@ const VIABILIDADE_GEMAS_DATA = [
     "Quantidade de Gemas Total": "82",
     "Quantidade de Gemas Viáveis": "80",
     "Quantidade de Gemas Inviáveis": "2",
-    "Fazenda": NaN
+    "Fazenda": null,
+    "Unnamed: 20": null
   },
   {
     "ID": "3584475",
@@ -22174,7 +23185,8 @@ const VIABILIDADE_GEMAS_DATA = [
     "Quantidade de Gemas Total": "54",
     "Quantidade de Gemas Viáveis": "54",
     "Quantidade de Gemas Inviáveis": "0",
-    "Fazenda": NaN
+    "Fazenda": null,
+    "Unnamed: 20": null
   },
   {
     "ID": "3584470",
@@ -22196,7 +23208,8 @@ const VIABILIDADE_GEMAS_DATA = [
     "Quantidade de Gemas Total": "51",
     "Quantidade de Gemas Viáveis": "51",
     "Quantidade de Gemas Inviáveis": "0",
-    "Fazenda": NaN
+    "Fazenda": null,
+    "Unnamed: 20": null
   },
   {
     "ID": "3584463",
@@ -22218,7 +23231,8 @@ const VIABILIDADE_GEMAS_DATA = [
     "Quantidade de Gemas Total": "48",
     "Quantidade de Gemas Viáveis": "48",
     "Quantidade de Gemas Inviáveis": "0",
-    "Fazenda": NaN
+    "Fazenda": null,
+    "Unnamed: 20": null
   },
   {
     "ID": "3584458",
@@ -22240,7 +23254,8 @@ const VIABILIDADE_GEMAS_DATA = [
     "Quantidade de Gemas Total": "58",
     "Quantidade de Gemas Viáveis": "58",
     "Quantidade de Gemas Inviáveis": "0",
-    "Fazenda": NaN
+    "Fazenda": null,
+    "Unnamed: 20": null
   },
   {
     "ID": "3584450",
@@ -22262,7 +23277,8 @@ const VIABILIDADE_GEMAS_DATA = [
     "Quantidade de Gemas Total": "55",
     "Quantidade de Gemas Viáveis": "55",
     "Quantidade de Gemas Inviáveis": "0",
-    "Fazenda": NaN
+    "Fazenda": null,
+    "Unnamed: 20": null
   },
   {
     "ID": "3585159",
@@ -22284,7 +23300,8 @@ const VIABILIDADE_GEMAS_DATA = [
     "Quantidade de Gemas Total": "55",
     "Quantidade de Gemas Viáveis": "55",
     "Quantidade de Gemas Inviáveis": "0",
-    "Fazenda": NaN
+    "Fazenda": null,
+    "Unnamed: 20": null
   },
   {
     "ID": "3585147",
@@ -22306,7 +23323,8 @@ const VIABILIDADE_GEMAS_DATA = [
     "Quantidade de Gemas Total": "59",
     "Quantidade de Gemas Viáveis": "55",
     "Quantidade de Gemas Inviáveis": "4",
-    "Fazenda": NaN
+    "Fazenda": null,
+    "Unnamed: 20": null
   },
   {
     "ID": "3584214",
@@ -22328,7 +23346,8 @@ const VIABILIDADE_GEMAS_DATA = [
     "Quantidade de Gemas Total": "62",
     "Quantidade de Gemas Viáveis": "59",
     "Quantidade de Gemas Inviáveis": "3",
-    "Fazenda": NaN
+    "Fazenda": null,
+    "Unnamed: 20": null
   },
   {
     "ID": "3584213",
@@ -22350,7 +23369,8 @@ const VIABILIDADE_GEMAS_DATA = [
     "Quantidade de Gemas Total": "57",
     "Quantidade de Gemas Viáveis": "57",
     "Quantidade de Gemas Inviáveis": "0",
-    "Fazenda": NaN
+    "Fazenda": null,
+    "Unnamed: 20": null
   },
   {
     "ID": "3584212",
@@ -22372,7 +23392,8 @@ const VIABILIDADE_GEMAS_DATA = [
     "Quantidade de Gemas Total": "61",
     "Quantidade de Gemas Viáveis": "60",
     "Quantidade de Gemas Inviáveis": "1",
-    "Fazenda": NaN
+    "Fazenda": null,
+    "Unnamed: 20": null
   },
   {
     "ID": "3584211",
@@ -22394,7 +23415,8 @@ const VIABILIDADE_GEMAS_DATA = [
     "Quantidade de Gemas Total": "59",
     "Quantidade de Gemas Viáveis": "59",
     "Quantidade de Gemas Inviáveis": "0",
-    "Fazenda": NaN
+    "Fazenda": null,
+    "Unnamed: 20": null
   },
   {
     "ID": "3585174",
@@ -22416,7 +23438,8 @@ const VIABILIDADE_GEMAS_DATA = [
     "Quantidade de Gemas Total": "60",
     "Quantidade de Gemas Viáveis": "60",
     "Quantidade de Gemas Inviáveis": "0",
-    "Fazenda": NaN
+    "Fazenda": null,
+    "Unnamed: 20": null
   },
   {
     "ID": "3585135",
@@ -22438,7 +23461,8 @@ const VIABILIDADE_GEMAS_DATA = [
     "Quantidade de Gemas Total": "60",
     "Quantidade de Gemas Viáveis": "60",
     "Quantidade de Gemas Inviáveis": "0",
-    "Fazenda": NaN
+    "Fazenda": null,
+    "Unnamed: 20": null
   },
   {
     "ID": "3585166",
@@ -22460,7 +23484,8 @@ const VIABILIDADE_GEMAS_DATA = [
     "Quantidade de Gemas Total": "60",
     "Quantidade de Gemas Viáveis": "60",
     "Quantidade de Gemas Inviáveis": "0",
-    "Fazenda": NaN
+    "Fazenda": null,
+    "Unnamed: 20": null
   },
   {
     "ID": "3585156",
@@ -22482,7 +23507,8 @@ const VIABILIDADE_GEMAS_DATA = [
     "Quantidade de Gemas Total": "58",
     "Quantidade de Gemas Viáveis": "58",
     "Quantidade de Gemas Inviáveis": "0",
-    "Fazenda": NaN
+    "Fazenda": null,
+    "Unnamed: 20": null
   },
   {
     "ID": "3586270",
@@ -22504,7 +23530,8 @@ const VIABILIDADE_GEMAS_DATA = [
     "Quantidade de Gemas Total": "49",
     "Quantidade de Gemas Viáveis": "49",
     "Quantidade de Gemas Inviáveis": "0",
-    "Fazenda": NaN
+    "Fazenda": null,
+    "Unnamed: 20": null
   },
   {
     "ID": "3586265",
@@ -22526,7 +23553,8 @@ const VIABILIDADE_GEMAS_DATA = [
     "Quantidade de Gemas Total": "53",
     "Quantidade de Gemas Viáveis": "53",
     "Quantidade de Gemas Inviáveis": "0",
-    "Fazenda": NaN
+    "Fazenda": null,
+    "Unnamed: 20": null
   },
   {
     "ID": "3585142",
@@ -22548,7 +23576,8 @@ const VIABILIDADE_GEMAS_DATA = [
     "Quantidade de Gemas Total": "55",
     "Quantidade de Gemas Viáveis": "55",
     "Quantidade de Gemas Inviáveis": "0",
-    "Fazenda": NaN
+    "Fazenda": null,
+    "Unnamed: 20": null
   },
   {
     "ID": "3586260",
@@ -22570,7 +23599,8 @@ const VIABILIDADE_GEMAS_DATA = [
     "Quantidade de Gemas Total": "56",
     "Quantidade de Gemas Viáveis": "56",
     "Quantidade de Gemas Inviáveis": "0",
-    "Fazenda": NaN
+    "Fazenda": null,
+    "Unnamed: 20": null
   },
   {
     "ID": "3586255",
@@ -22592,7 +23622,8 @@ const VIABILIDADE_GEMAS_DATA = [
     "Quantidade de Gemas Total": "55",
     "Quantidade de Gemas Viáveis": "55",
     "Quantidade de Gemas Inviáveis": "0",
-    "Fazenda": NaN
+    "Fazenda": null,
+    "Unnamed: 20": null
   },
   {
     "ID": "3586251",
@@ -22614,7 +23645,8 @@ const VIABILIDADE_GEMAS_DATA = [
     "Quantidade de Gemas Total": "50",
     "Quantidade de Gemas Viáveis": "50",
     "Quantidade de Gemas Inviáveis": "0",
-    "Fazenda": NaN
+    "Fazenda": null,
+    "Unnamed: 20": null
   },
   {
     "ID": "3581871",
@@ -22636,7 +23668,8 @@ const VIABILIDADE_GEMAS_DATA = [
     "Quantidade de Gemas Total": "54",
     "Quantidade de Gemas Viáveis": "54",
     "Quantidade de Gemas Inviáveis": "0",
-    "Fazenda": NaN
+    "Fazenda": null,
+    "Unnamed: 20": null
   },
   {
     "ID": "3581844",
@@ -22658,7 +23691,8 @@ const VIABILIDADE_GEMAS_DATA = [
     "Quantidade de Gemas Total": "50",
     "Quantidade de Gemas Viáveis": "48",
     "Quantidade de Gemas Inviáveis": "0",
-    "Fazenda": NaN
+    "Fazenda": null,
+    "Unnamed: 20": null
   },
   {
     "ID": "3586244",
@@ -22680,7 +23714,8 @@ const VIABILIDADE_GEMAS_DATA = [
     "Quantidade de Gemas Total": "48",
     "Quantidade de Gemas Viáveis": "48",
     "Quantidade de Gemas Inviáveis": "0",
-    "Fazenda": NaN
+    "Fazenda": null,
+    "Unnamed: 20": null
   },
   {
     "ID": "3586239",
@@ -22702,7 +23737,8 @@ const VIABILIDADE_GEMAS_DATA = [
     "Quantidade de Gemas Total": "48",
     "Quantidade de Gemas Viáveis": "48",
     "Quantidade de Gemas Inviáveis": "0",
-    "Fazenda": NaN
+    "Fazenda": null,
+    "Unnamed: 20": null
   },
   {
     "ID": "3586234",
@@ -22724,7 +23760,8 @@ const VIABILIDADE_GEMAS_DATA = [
     "Quantidade de Gemas Total": "48",
     "Quantidade de Gemas Viáveis": "48",
     "Quantidade de Gemas Inviáveis": "0",
-    "Fazenda": NaN
+    "Fazenda": null,
+    "Unnamed: 20": null
   },
   {
     "ID": "3586230",
@@ -22746,7 +23783,8 @@ const VIABILIDADE_GEMAS_DATA = [
     "Quantidade de Gemas Total": "54",
     "Quantidade de Gemas Viáveis": "54",
     "Quantidade de Gemas Inviáveis": "0",
-    "Fazenda": NaN
+    "Fazenda": null,
+    "Unnamed: 20": null
   },
   {
     "ID": "3586225",
@@ -22768,7 +23806,8 @@ const VIABILIDADE_GEMAS_DATA = [
     "Quantidade de Gemas Total": "57",
     "Quantidade de Gemas Viáveis": "57",
     "Quantidade de Gemas Inviáveis": "0",
-    "Fazenda": NaN
+    "Fazenda": null,
+    "Unnamed: 20": null
   },
   {
     "ID": "3584133",
@@ -22790,7 +23829,8 @@ const VIABILIDADE_GEMAS_DATA = [
     "Quantidade de Gemas Total": "54",
     "Quantidade de Gemas Viáveis": "54",
     "Quantidade de Gemas Inviáveis": "0",
-    "Fazenda": NaN
+    "Fazenda": null,
+    "Unnamed: 20": null
   },
   {
     "ID": "3586219",
@@ -22812,7 +23852,8 @@ const VIABILIDADE_GEMAS_DATA = [
     "Quantidade de Gemas Total": "55",
     "Quantidade de Gemas Viáveis": "55",
     "Quantidade de Gemas Inviáveis": "0",
-    "Fazenda": NaN
+    "Fazenda": null,
+    "Unnamed: 20": null
   },
   {
     "ID": "3584127",
@@ -22834,7 +23875,8 @@ const VIABILIDADE_GEMAS_DATA = [
     "Quantidade de Gemas Total": "55",
     "Quantidade de Gemas Viáveis": "55",
     "Quantidade de Gemas Inviáveis": "0",
-    "Fazenda": NaN
+    "Fazenda": null,
+    "Unnamed: 20": null
   },
   {
     "ID": "3584122",
@@ -22856,7 +23898,8 @@ const VIABILIDADE_GEMAS_DATA = [
     "Quantidade de Gemas Total": "59",
     "Quantidade de Gemas Viáveis": "59",
     "Quantidade de Gemas Inviáveis": "0",
-    "Fazenda": NaN
+    "Fazenda": null,
+    "Unnamed: 20": null
   },
   {
     "ID": "3584118",
@@ -22878,7 +23921,8 @@ const VIABILIDADE_GEMAS_DATA = [
     "Quantidade de Gemas Total": "58",
     "Quantidade de Gemas Viáveis": "58",
     "Quantidade de Gemas Inviáveis": "0",
-    "Fazenda": NaN
+    "Fazenda": null,
+    "Unnamed: 20": null
   },
   {
     "ID": "3585064",
@@ -22900,7 +23944,8 @@ const VIABILIDADE_GEMAS_DATA = [
     "Quantidade de Gemas Total": "48",
     "Quantidade de Gemas Viáveis": "48",
     "Quantidade de Gemas Inviáveis": "0",
-    "Fazenda": NaN
+    "Fazenda": null,
+    "Unnamed: 20": null
   },
   {
     "ID": "3584077",
@@ -22922,7 +23967,8 @@ const VIABILIDADE_GEMAS_DATA = [
     "Quantidade de Gemas Total": "62",
     "Quantidade de Gemas Viáveis": "59",
     "Quantidade de Gemas Inviáveis": "3",
-    "Fazenda": NaN
+    "Fazenda": null,
+    "Unnamed: 20": null
   },
   {
     "ID": "3584023",
@@ -22944,7 +23990,8 @@ const VIABILIDADE_GEMAS_DATA = [
     "Quantidade de Gemas Total": "54",
     "Quantidade de Gemas Viáveis": "54",
     "Quantidade de Gemas Inviáveis": "0",
-    "Fazenda": NaN
+    "Fazenda": null,
+    "Unnamed: 20": null
   },
   {
     "ID": "3584076",
@@ -22966,7 +24013,8 @@ const VIABILIDADE_GEMAS_DATA = [
     "Quantidade de Gemas Total": "59",
     "Quantidade de Gemas Viáveis": "59",
     "Quantidade de Gemas Inviáveis": "0",
-    "Fazenda": NaN
+    "Fazenda": null,
+    "Unnamed: 20": null
   },
   {
     "ID": "3585056",
@@ -22988,7 +24036,8 @@ const VIABILIDADE_GEMAS_DATA = [
     "Quantidade de Gemas Total": "48",
     "Quantidade de Gemas Viáveis": "48",
     "Quantidade de Gemas Inviáveis": "0",
-    "Fazenda": NaN
+    "Fazenda": null,
+    "Unnamed: 20": null
   },
   {
     "ID": "3584019",
@@ -23010,7 +24059,8 @@ const VIABILIDADE_GEMAS_DATA = [
     "Quantidade de Gemas Total": "60",
     "Quantidade de Gemas Viáveis": "60",
     "Quantidade de Gemas Inviáveis": "0",
-    "Fazenda": NaN
+    "Fazenda": null,
+    "Unnamed: 20": null
   },
   {
     "ID": "3585052",
@@ -23032,7 +24082,8 @@ const VIABILIDADE_GEMAS_DATA = [
     "Quantidade de Gemas Total": "51",
     "Quantidade de Gemas Viáveis": "51",
     "Quantidade de Gemas Inviáveis": "0",
-    "Fazenda": NaN
+    "Fazenda": null,
+    "Unnamed: 20": null
   },
   {
     "ID": "3585048",
@@ -23054,7 +24105,8 @@ const VIABILIDADE_GEMAS_DATA = [
     "Quantidade de Gemas Total": "54",
     "Quantidade de Gemas Viáveis": "54",
     "Quantidade de Gemas Inviáveis": "0",
-    "Fazenda": NaN
+    "Fazenda": null,
+    "Unnamed: 20": null
   },
   {
     "ID": "3584012",
@@ -23076,7 +24128,8 @@ const VIABILIDADE_GEMAS_DATA = [
     "Quantidade de Gemas Total": "58",
     "Quantidade de Gemas Viáveis": "58",
     "Quantidade de Gemas Inviáveis": "0",
-    "Fazenda": NaN
+    "Fazenda": null,
+    "Unnamed: 20": null
   },
   {
     "ID": "3585126",
@@ -23098,7 +24151,8 @@ const VIABILIDADE_GEMAS_DATA = [
     "Quantidade de Gemas Total": "58",
     "Quantidade de Gemas Viáveis": "58",
     "Quantidade de Gemas Inviáveis": "0",
-    "Fazenda": NaN
+    "Fazenda": null,
+    "Unnamed: 20": null
   },
   {
     "ID": "3584007",
@@ -23120,7 +24174,8 @@ const VIABILIDADE_GEMAS_DATA = [
     "Quantidade de Gemas Total": "54",
     "Quantidade de Gemas Viáveis": "54",
     "Quantidade de Gemas Inviáveis": "0",
-    "Fazenda": NaN
+    "Fazenda": null,
+    "Unnamed: 20": null
   },
   {
     "ID": "3585189",
@@ -23142,7 +24197,8 @@ const VIABILIDADE_GEMAS_DATA = [
     "Quantidade de Gemas Total": "55",
     "Quantidade de Gemas Viáveis": "55",
     "Quantidade de Gemas Inviáveis": "0",
-    "Fazenda": NaN
+    "Fazenda": null,
+    "Unnamed: 20": null
   },
   {
     "ID": "3584111",
@@ -23164,7 +24220,8 @@ const VIABILIDADE_GEMAS_DATA = [
     "Quantidade de Gemas Total": "59",
     "Quantidade de Gemas Viáveis": "59",
     "Quantidade de Gemas Inviáveis": "0",
-    "Fazenda": NaN
+    "Fazenda": null,
+    "Unnamed: 20": null
   },
   {
     "ID": "3584442",
@@ -23186,7 +24243,8 @@ const VIABILIDADE_GEMAS_DATA = [
     "Quantidade de Gemas Total": "54",
     "Quantidade de Gemas Viáveis": "54",
     "Quantidade de Gemas Inviáveis": "0",
-    "Fazenda": NaN
+    "Fazenda": null,
+    "Unnamed: 20": null
   },
   {
     "ID": "3585117",
@@ -23208,7 +24266,8 @@ const VIABILIDADE_GEMAS_DATA = [
     "Quantidade de Gemas Total": "60",
     "Quantidade de Gemas Viáveis": "60",
     "Quantidade de Gemas Inviáveis": "0",
-    "Fazenda": NaN
+    "Fazenda": null,
+    "Unnamed: 20": null
   },
   {
     "ID": "3583991",
@@ -23230,7 +24289,8 @@ const VIABILIDADE_GEMAS_DATA = [
     "Quantidade de Gemas Total": "57",
     "Quantidade de Gemas Viáveis": "57",
     "Quantidade de Gemas Inviáveis": "0",
-    "Fazenda": NaN
+    "Fazenda": null,
+    "Unnamed: 20": null
   },
   {
     "ID": "3584437",
@@ -23252,7 +24312,8 @@ const VIABILIDADE_GEMAS_DATA = [
     "Quantidade de Gemas Total": "48",
     "Quantidade de Gemas Viáveis": "48",
     "Quantidade de Gemas Inviáveis": "0",
-    "Fazenda": NaN
+    "Fazenda": null,
+    "Unnamed: 20": null
   },
   {
     "ID": "3585105",
@@ -23274,7 +24335,8 @@ const VIABILIDADE_GEMAS_DATA = [
     "Quantidade de Gemas Total": "60",
     "Quantidade de Gemas Viáveis": "59",
     "Quantidade de Gemas Inviáveis": "1",
-    "Fazenda": NaN
+    "Fazenda": null,
+    "Unnamed: 20": null
   },
   {
     "ID": "3585096",
@@ -23296,7 +24358,8 @@ const VIABILIDADE_GEMAS_DATA = [
     "Quantidade de Gemas Total": "60",
     "Quantidade de Gemas Viáveis": "60",
     "Quantidade de Gemas Inviáveis": "0",
-    "Fazenda": NaN
+    "Fazenda": null,
+    "Unnamed: 20": null
   },
   {
     "ID": "3584432",
@@ -23318,7 +24381,8 @@ const VIABILIDADE_GEMAS_DATA = [
     "Quantidade de Gemas Total": "52",
     "Quantidade de Gemas Viáveis": "52",
     "Quantidade de Gemas Inviáveis": "0",
-    "Fazenda": NaN
+    "Fazenda": null,
+    "Unnamed: 20": null
   },
   {
     "ID": "3585088",
@@ -23340,7 +24404,8 @@ const VIABILIDADE_GEMAS_DATA = [
     "Quantidade de Gemas Total": "60",
     "Quantidade de Gemas Viáveis": "57",
     "Quantidade de Gemas Inviáveis": "3",
-    "Fazenda": NaN
+    "Fazenda": null,
+    "Unnamed: 20": null
   },
   {
     "ID": "3584427",
@@ -23362,7 +24427,8 @@ const VIABILIDADE_GEMAS_DATA = [
     "Quantidade de Gemas Total": "60",
     "Quantidade de Gemas Viáveis": "60",
     "Quantidade de Gemas Inviáveis": "0",
-    "Fazenda": NaN
+    "Fazenda": null,
+    "Unnamed: 20": null
   },
   {
     "ID": "3581990",
@@ -23384,7 +24450,8 @@ const VIABILIDADE_GEMAS_DATA = [
     "Quantidade de Gemas Total": "50",
     "Quantidade de Gemas Viáveis": "50",
     "Quantidade de Gemas Inviáveis": "0",
-    "Fazenda": NaN
+    "Fazenda": null,
+    "Unnamed: 20": null
   },
   {
     "ID": "3582016",
@@ -23406,7 +24473,8 @@ const VIABILIDADE_GEMAS_DATA = [
     "Quantidade de Gemas Total": "63",
     "Quantidade de Gemas Viáveis": "63",
     "Quantidade de Gemas Inviáveis": "0",
-    "Fazenda": NaN
+    "Fazenda": null,
+    "Unnamed: 20": null
   },
   {
     "ID": "3582011",
@@ -23428,7 +24496,8 @@ const VIABILIDADE_GEMAS_DATA = [
     "Quantidade de Gemas Total": "52",
     "Quantidade de Gemas Viáveis": "52",
     "Quantidade de Gemas Inviáveis": "0",
-    "Fazenda": NaN
+    "Fazenda": null,
+    "Unnamed: 20": null
   },
   {
     "ID": "3582006",
@@ -23450,7 +24519,8 @@ const VIABILIDADE_GEMAS_DATA = [
     "Quantidade de Gemas Total": "50",
     "Quantidade de Gemas Viáveis": "50",
     "Quantidade de Gemas Inviáveis": "0",
-    "Fazenda": NaN
+    "Fazenda": null,
+    "Unnamed: 20": null
   },
   {
     "ID": "3581881",
@@ -23472,7 +24542,8 @@ const VIABILIDADE_GEMAS_DATA = [
     "Quantidade de Gemas Total": "54",
     "Quantidade de Gemas Viáveis": "54",
     "Quantidade de Gemas Inviáveis": "0",
-    "Fazenda": NaN
+    "Fazenda": null,
+    "Unnamed: 20": null
   },
   {
     "ID": "3581874",
@@ -23494,7 +24565,8 @@ const VIABILIDADE_GEMAS_DATA = [
     "Quantidade de Gemas Total": "48",
     "Quantidade de Gemas Viáveis": "48",
     "Quantidade de Gemas Inviáveis": "0",
-    "Fazenda": NaN
+    "Fazenda": null,
+    "Unnamed: 20": null
   },
   {
     "ID": "3581984",
@@ -23516,7 +24588,8 @@ const VIABILIDADE_GEMAS_DATA = [
     "Quantidade de Gemas Total": "59",
     "Quantidade de Gemas Viáveis": "59",
     "Quantidade de Gemas Inviáveis": "0",
-    "Fazenda": NaN
+    "Fazenda": null,
+    "Unnamed: 20": null
   },
   {
     "ID": "3581982",
@@ -23538,7 +24611,8 @@ const VIABILIDADE_GEMAS_DATA = [
     "Quantidade de Gemas Total": "56",
     "Quantidade de Gemas Viáveis": "56",
     "Quantidade de Gemas Inviáveis": "0",
-    "Fazenda": NaN
+    "Fazenda": null,
+    "Unnamed: 20": null
   },
   {
     "ID": "3581948",
@@ -23560,7 +24634,8 @@ const VIABILIDADE_GEMAS_DATA = [
     "Quantidade de Gemas Total": "60",
     "Quantidade de Gemas Viáveis": "60",
     "Quantidade de Gemas Inviáveis": "0",
-    "Fazenda": NaN
+    "Fazenda": null,
+    "Unnamed: 20": null
   },
   {
     "ID": "3581981",
@@ -23582,7 +24657,8 @@ const VIABILIDADE_GEMAS_DATA = [
     "Quantidade de Gemas Total": "61",
     "Quantidade de Gemas Viáveis": "60",
     "Quantidade de Gemas Inviáveis": "1",
-    "Fazenda": NaN
+    "Fazenda": null,
+    "Unnamed: 20": null
   },
   {
     "ID": "3581976",
@@ -23604,7 +24680,8 @@ const VIABILIDADE_GEMAS_DATA = [
     "Quantidade de Gemas Total": "59",
     "Quantidade de Gemas Viáveis": "58",
     "Quantidade de Gemas Inviáveis": "1",
-    "Fazenda": NaN
+    "Fazenda": null,
+    "Unnamed: 20": null
   },
   {
     "ID": "3581943",
@@ -23626,7 +24703,8 @@ const VIABILIDADE_GEMAS_DATA = [
     "Quantidade de Gemas Total": "59",
     "Quantidade de Gemas Viáveis": "59",
     "Quantidade de Gemas Inviáveis": "0",
-    "Fazenda": NaN
+    "Fazenda": null,
+    "Unnamed: 20": null
   },
   {
     "ID": "3581939",
@@ -23648,7 +24726,8 @@ const VIABILIDADE_GEMAS_DATA = [
     "Quantidade de Gemas Total": "58",
     "Quantidade de Gemas Viáveis": "58",
     "Quantidade de Gemas Inviáveis": "0",
-    "Fazenda": NaN
+    "Fazenda": null,
+    "Unnamed: 20": null
   },
   {
     "ID": "3581930",
@@ -23670,7 +24749,8 @@ const VIABILIDADE_GEMAS_DATA = [
     "Quantidade de Gemas Total": "54",
     "Quantidade de Gemas Viáveis": "54",
     "Quantidade de Gemas Inviáveis": "0",
-    "Fazenda": NaN
+    "Fazenda": null,
+    "Unnamed: 20": null
   },
   {
     "ID": "3581926",
@@ -23692,7 +24772,8 @@ const VIABILIDADE_GEMAS_DATA = [
     "Quantidade de Gemas Total": "57",
     "Quantidade de Gemas Viáveis": "57",
     "Quantidade de Gemas Inviáveis": "0",
-    "Fazenda": NaN
+    "Fazenda": null,
+    "Unnamed: 20": null
   },
   {
     "ID": "3581409",
@@ -23714,7 +24795,8 @@ const VIABILIDADE_GEMAS_DATA = [
     "Quantidade de Gemas Total": "50",
     "Quantidade de Gemas Viáveis": "50",
     "Quantidade de Gemas Inviáveis": "0",
-    "Fazenda": NaN
+    "Fazenda": null,
+    "Unnamed: 20": null
   },
   {
     "ID": "3581804",
@@ -23736,7 +24818,8 @@ const VIABILIDADE_GEMAS_DATA = [
     "Quantidade de Gemas Total": "57",
     "Quantidade de Gemas Viáveis": "57",
     "Quantidade de Gemas Inviáveis": "0",
-    "Fazenda": NaN
+    "Fazenda": null,
+    "Unnamed: 20": null
   },
   {
     "ID": "3581799",
@@ -23758,7 +24841,8 @@ const VIABILIDADE_GEMAS_DATA = [
     "Quantidade de Gemas Total": "60",
     "Quantidade de Gemas Viáveis": "60",
     "Quantidade de Gemas Inviáveis": "0",
-    "Fazenda": NaN
+    "Fazenda": null,
+    "Unnamed: 20": null
   },
   {
     "ID": "3581405",
@@ -23780,7 +24864,8 @@ const VIABILIDADE_GEMAS_DATA = [
     "Quantidade de Gemas Total": "52",
     "Quantidade de Gemas Viáveis": "50",
     "Quantidade de Gemas Inviáveis": "2",
-    "Fazenda": NaN
+    "Fazenda": null,
+    "Unnamed: 20": null
   },
   {
     "ID": "3581401",
@@ -23802,7 +24887,8 @@ const VIABILIDADE_GEMAS_DATA = [
     "Quantidade de Gemas Total": "56",
     "Quantidade de Gemas Viáveis": "56",
     "Quantidade de Gemas Inviáveis": "0",
-    "Fazenda": NaN
+    "Fazenda": null,
+    "Unnamed: 20": null
   },
   {
     "ID": "3581791",
@@ -23824,7 +24910,8 @@ const VIABILIDADE_GEMAS_DATA = [
     "Quantidade de Gemas Total": "56",
     "Quantidade de Gemas Viáveis": "54",
     "Quantidade de Gemas Inviáveis": "2",
-    "Fazenda": NaN
+    "Fazenda": null,
+    "Unnamed: 20": null
   },
   {
     "ID": "3581211",
@@ -23846,7 +24933,8 @@ const VIABILIDADE_GEMAS_DATA = [
     "Quantidade de Gemas Total": "59",
     "Quantidade de Gemas Viáveis": "59",
     "Quantidade de Gemas Inviáveis": "0",
-    "Fazenda": NaN
+    "Fazenda": null,
+    "Unnamed: 20": null
   },
   {
     "ID": "3581397",
@@ -23868,7 +24956,8 @@ const VIABILIDADE_GEMAS_DATA = [
     "Quantidade de Gemas Total": "54",
     "Quantidade de Gemas Viáveis": "54",
     "Quantidade de Gemas Inviáveis": "0",
-    "Fazenda": NaN
+    "Fazenda": null,
+    "Unnamed: 20": null
   },
   {
     "ID": "3581106",
@@ -23890,7 +24979,8 @@ const VIABILIDADE_GEMAS_DATA = [
     "Quantidade de Gemas Total": "60",
     "Quantidade de Gemas Viáveis": "58",
     "Quantidade de Gemas Inviáveis": "2",
-    "Fazenda": NaN
+    "Fazenda": null,
+    "Unnamed: 20": null
   },
   {
     "ID": "3581105",
@@ -23912,7 +25002,8 @@ const VIABILIDADE_GEMAS_DATA = [
     "Quantidade de Gemas Total": "57",
     "Quantidade de Gemas Viáveis": "56",
     "Quantidade de Gemas Inviáveis": "1",
-    "Fazenda": NaN
+    "Fazenda": null,
+    "Unnamed: 20": null
   },
   {
     "ID": "3581783",
@@ -23934,7 +25025,8 @@ const VIABILIDADE_GEMAS_DATA = [
     "Quantidade de Gemas Total": "61",
     "Quantidade de Gemas Viáveis": "61",
     "Quantidade de Gemas Inviáveis": "0",
-    "Fazenda": NaN
+    "Fazenda": null,
+    "Unnamed: 20": null
   },
   {
     "ID": "3581866",
@@ -23956,7 +25048,8 @@ const VIABILIDADE_GEMAS_DATA = [
     "Quantidade de Gemas Total": "60",
     "Quantidade de Gemas Viáveis": "57",
     "Quantidade de Gemas Inviáveis": "3",
-    "Fazenda": NaN
+    "Fazenda": null,
+    "Unnamed: 20": null
   },
   {
     "ID": "3581205",
@@ -23978,7 +25071,8 @@ const VIABILIDADE_GEMAS_DATA = [
     "Quantidade de Gemas Total": "54",
     "Quantidade de Gemas Viáveis": "54",
     "Quantidade de Gemas Inviáveis": "0",
-    "Fazenda": NaN
+    "Fazenda": null,
+    "Unnamed: 20": null
   },
   {
     "ID": "3581392",
@@ -24000,7 +25094,8 @@ const VIABILIDADE_GEMAS_DATA = [
     "Quantidade de Gemas Total": "58",
     "Quantidade de Gemas Viáveis": "56",
     "Quantidade de Gemas Inviáveis": "2",
-    "Fazenda": NaN
+    "Fazenda": null,
+    "Unnamed: 20": null
   },
   {
     "ID": "3581832",
@@ -24022,7 +25117,8 @@ const VIABILIDADE_GEMAS_DATA = [
     "Quantidade de Gemas Total": "60",
     "Quantidade de Gemas Viáveis": "60",
     "Quantidade de Gemas Inviáveis": "0",
-    "Fazenda": NaN
+    "Fazenda": null,
+    "Unnamed: 20": null
   },
   {
     "ID": "3581200",
@@ -24044,7 +25140,8 @@ const VIABILIDADE_GEMAS_DATA = [
     "Quantidade de Gemas Total": "55",
     "Quantidade de Gemas Viáveis": "55",
     "Quantidade de Gemas Inviáveis": "0",
-    "Fazenda": NaN
+    "Fazenda": null,
+    "Unnamed: 20": null
   },
   {
     "ID": "3581859",
@@ -24066,7 +25163,8 @@ const VIABILIDADE_GEMAS_DATA = [
     "Quantidade de Gemas Total": "63",
     "Quantidade de Gemas Viáveis": "63",
     "Quantidade de Gemas Inviáveis": "0",
-    "Fazenda": NaN
+    "Fazenda": null,
+    "Unnamed: 20": null
   },
   {
     "ID": "3581195",
@@ -24088,7 +25186,8 @@ const VIABILIDADE_GEMAS_DATA = [
     "Quantidade de Gemas Total": "59",
     "Quantidade de Gemas Viáveis": "59",
     "Quantidade de Gemas Inviáveis": "0",
-    "Fazenda": NaN
+    "Fazenda": null,
+    "Unnamed: 20": null
   },
   {
     "ID": "3581778",
@@ -24110,7 +25209,8 @@ const VIABILIDADE_GEMAS_DATA = [
     "Quantidade de Gemas Total": "63",
     "Quantidade de Gemas Viáveis": "63",
     "Quantidade de Gemas Inviáveis": "0",
-    "Fazenda": NaN
+    "Fazenda": null,
+    "Unnamed: 20": null
   },
   {
     "ID": "3581827",
@@ -24132,7 +25232,8 @@ const VIABILIDADE_GEMAS_DATA = [
     "Quantidade de Gemas Total": "52",
     "Quantidade de Gemas Viáveis": "52",
     "Quantidade de Gemas Inviáveis": "0",
-    "Fazenda": NaN
+    "Fazenda": null,
+    "Unnamed: 20": null
   },
   {
     "ID": "3581032",
@@ -24154,7 +25255,8 @@ const VIABILIDADE_GEMAS_DATA = [
     "Quantidade de Gemas Total": "51",
     "Quantidade de Gemas Viáveis": "51",
     "Quantidade de Gemas Inviáveis": "0",
-    "Fazenda": NaN
+    "Fazenda": null,
+    "Unnamed: 20": null
   },
   {
     "ID": "3581793",
@@ -24176,7 +25278,8 @@ const VIABILIDADE_GEMAS_DATA = [
     "Quantidade de Gemas Total": "51",
     "Quantidade de Gemas Viáveis": "50",
     "Quantidade de Gemas Inviáveis": "1",
-    "Fazenda": NaN
+    "Fazenda": null,
+    "Unnamed: 20": null
   },
   {
     "ID": "3581821",
@@ -24198,7 +25301,8 @@ const VIABILIDADE_GEMAS_DATA = [
     "Quantidade de Gemas Total": "53",
     "Quantidade de Gemas Viáveis": "50",
     "Quantidade de Gemas Inviáveis": "3",
-    "Fazenda": NaN
+    "Fazenda": null,
+    "Unnamed: 20": null
   },
   {
     "ID": "3581190",
@@ -24220,7 +25324,8 @@ const VIABILIDADE_GEMAS_DATA = [
     "Quantidade de Gemas Total": "56",
     "Quantidade de Gemas Viáveis": "56",
     "Quantidade de Gemas Inviáveis": "0",
-    "Fazenda": NaN
+    "Fazenda": null,
+    "Unnamed: 20": null
   },
   {
     "ID": "3581026",
@@ -24242,7 +25347,8 @@ const VIABILIDADE_GEMAS_DATA = [
     "Quantidade de Gemas Total": "58",
     "Quantidade de Gemas Viáveis": "58",
     "Quantidade de Gemas Inviáveis": "0",
-    "Fazenda": NaN
+    "Fazenda": null,
+    "Unnamed: 20": null
   },
   {
     "ID": "3581855",
@@ -24264,7 +25370,8 @@ const VIABILIDADE_GEMAS_DATA = [
     "Quantidade de Gemas Total": "51",
     "Quantidade de Gemas Viáveis": "51",
     "Quantidade de Gemas Inviáveis": "0",
-    "Fazenda": NaN
+    "Fazenda": null,
+    "Unnamed: 20": null
   },
   {
     "ID": "3581185",
@@ -24286,7 +25393,8 @@ const VIABILIDADE_GEMAS_DATA = [
     "Quantidade de Gemas Total": "59",
     "Quantidade de Gemas Viáveis": "59",
     "Quantidade de Gemas Inviáveis": "0",
-    "Fazenda": NaN
+    "Fazenda": null,
+    "Unnamed: 20": null
   },
   {
     "ID": "3581774",
@@ -24308,7 +25416,8 @@ const VIABILIDADE_GEMAS_DATA = [
     "Quantidade de Gemas Total": "55",
     "Quantidade de Gemas Viáveis": "55",
     "Quantidade de Gemas Inviáveis": "0",
-    "Fazenda": NaN
+    "Fazenda": null,
+    "Unnamed: 20": null
   },
   {
     "ID": "3581890",
@@ -24330,7 +25439,8 @@ const VIABILIDADE_GEMAS_DATA = [
     "Quantidade de Gemas Total": "60",
     "Quantidade de Gemas Viáveis": "60",
     "Quantidade de Gemas Inviáveis": "0",
-    "Fazenda": NaN
+    "Fazenda": null,
+    "Unnamed: 20": null
   },
   {
     "ID": "3581180",
@@ -24352,7 +25462,8 @@ const VIABILIDADE_GEMAS_DATA = [
     "Quantidade de Gemas Total": "54",
     "Quantidade de Gemas Viáveis": "54",
     "Quantidade de Gemas Inviáveis": "0",
-    "Fazenda": NaN
+    "Fazenda": null,
+    "Unnamed: 20": null
   },
   {
     "ID": "3581021",
@@ -24374,7 +25485,8 @@ const VIABILIDADE_GEMAS_DATA = [
     "Quantidade de Gemas Total": "60",
     "Quantidade de Gemas Viáveis": "60",
     "Quantidade de Gemas Inviáveis": "0",
-    "Fazenda": NaN
+    "Fazenda": null,
+    "Unnamed: 20": null
   },
   {
     "ID": "3581849",
@@ -24396,7 +25508,8 @@ const VIABILIDADE_GEMAS_DATA = [
     "Quantidade de Gemas Total": "52",
     "Quantidade de Gemas Viáveis": "50",
     "Quantidade de Gemas Inviáveis": "2",
-    "Fazenda": NaN
+    "Fazenda": null,
+    "Unnamed: 20": null
   },
   {
     "ID": "3581175",
@@ -24418,7 +25531,8 @@ const VIABILIDADE_GEMAS_DATA = [
     "Quantidade de Gemas Total": "60",
     "Quantidade de Gemas Viáveis": "60",
     "Quantidade de Gemas Inviáveis": "0",
-    "Fazenda": NaN
+    "Fazenda": null,
+    "Unnamed: 20": null
   },
   {
     "ID": "3581652",
@@ -24440,7 +25554,8 @@ const VIABILIDADE_GEMAS_DATA = [
     "Quantidade de Gemas Total": "52",
     "Quantidade de Gemas Viáveis": "52",
     "Quantidade de Gemas Inviáveis": "0",
-    "Fazenda": NaN
+    "Fazenda": null,
+    "Unnamed: 20": null
   },
   {
     "ID": "3581017",
@@ -24462,7 +25577,8 @@ const VIABILIDADE_GEMAS_DATA = [
     "Quantidade de Gemas Total": "49",
     "Quantidade de Gemas Viáveis": "49",
     "Quantidade de Gemas Inviáveis": "0",
-    "Fazenda": NaN
+    "Fazenda": null,
+    "Unnamed: 20": null
   },
   {
     "ID": "3581012",
@@ -24484,7 +25600,8 @@ const VIABILIDADE_GEMAS_DATA = [
     "Quantidade de Gemas Total": "60",
     "Quantidade de Gemas Viáveis": "60",
     "Quantidade de Gemas Inviáveis": "0",
-    "Fazenda": NaN
+    "Fazenda": null,
+    "Unnamed: 20": null
   },
   {
     "ID": "3581007",
@@ -24506,7 +25623,8 @@ const VIABILIDADE_GEMAS_DATA = [
     "Quantidade de Gemas Total": "57",
     "Quantidade de Gemas Viáveis": "55",
     "Quantidade de Gemas Inviáveis": "2",
-    "Fazenda": NaN
+    "Fazenda": null,
+    "Unnamed: 20": null
   },
   {
     "ID": "3581766",
@@ -24528,7 +25646,8 @@ const VIABILIDADE_GEMAS_DATA = [
     "Quantidade de Gemas Total": "58",
     "Quantidade de Gemas Viáveis": "58",
     "Quantidade de Gemas Inviáveis": "0",
-    "Fazenda": NaN
+    "Fazenda": null,
+    "Unnamed: 20": null
   },
   {
     "ID": "3581764",
@@ -24550,7 +25669,8 @@ const VIABILIDADE_GEMAS_DATA = [
     "Quantidade de Gemas Total": "63",
     "Quantidade de Gemas Viáveis": "62",
     "Quantidade de Gemas Inviáveis": "1",
-    "Fazenda": NaN
+    "Fazenda": null,
+    "Unnamed: 20": null
   },
   {
     "ID": "3581002",
@@ -24572,7 +25692,8 @@ const VIABILIDADE_GEMAS_DATA = [
     "Quantidade de Gemas Total": "53",
     "Quantidade de Gemas Viáveis": "53",
     "Quantidade de Gemas Inviáveis": "0",
-    "Fazenda": NaN
+    "Fazenda": null,
+    "Unnamed: 20": null
   },
   {
     "ID": "3581917",
@@ -24594,7 +25715,8 @@ const VIABILIDADE_GEMAS_DATA = [
     "Quantidade de Gemas Total": "59",
     "Quantidade de Gemas Viáveis": "57",
     "Quantidade de Gemas Inviáveis": "2",
-    "Fazenda": NaN
+    "Fazenda": null,
+    "Unnamed: 20": null
   },
   {
     "ID": "3580996",
@@ -24616,7 +25738,8 @@ const VIABILIDADE_GEMAS_DATA = [
     "Quantidade de Gemas Total": "55",
     "Quantidade de Gemas Viáveis": "55",
     "Quantidade de Gemas Inviáveis": "0",
-    "Fazenda": NaN
+    "Fazenda": null,
+    "Unnamed: 20": null
   },
   {
     "ID": "3580933",
@@ -24638,7 +25761,8 @@ const VIABILIDADE_GEMAS_DATA = [
     "Quantidade de Gemas Total": "49",
     "Quantidade de Gemas Viáveis": "49",
     "Quantidade de Gemas Inviáveis": "0",
-    "Fazenda": NaN
+    "Fazenda": null,
+    "Unnamed: 20": null
   },
   {
     "ID": "3580927",
@@ -24660,7 +25784,8 @@ const VIABILIDADE_GEMAS_DATA = [
     "Quantidade de Gemas Total": "50",
     "Quantidade de Gemas Viáveis": "50",
     "Quantidade de Gemas Inviáveis": "0",
-    "Fazenda": NaN
+    "Fazenda": null,
+    "Unnamed: 20": null
   },
   {
     "ID": "3580922",
@@ -24682,7 +25807,8 @@ const VIABILIDADE_GEMAS_DATA = [
     "Quantidade de Gemas Total": "49",
     "Quantidade de Gemas Viáveis": "49",
     "Quantidade de Gemas Inviáveis": "0",
-    "Fazenda": NaN
+    "Fazenda": null,
+    "Unnamed: 20": null
   },
   {
     "ID": "3580918",
@@ -24704,7 +25830,8 @@ const VIABILIDADE_GEMAS_DATA = [
     "Quantidade de Gemas Total": "48",
     "Quantidade de Gemas Viáveis": "48",
     "Quantidade de Gemas Inviáveis": "0",
-    "Fazenda": NaN
+    "Fazenda": null,
+    "Unnamed: 20": null
   },
   {
     "ID": "3579058",
@@ -24726,7 +25853,8 @@ const VIABILIDADE_GEMAS_DATA = [
     "Quantidade de Gemas Total": "60",
     "Quantidade de Gemas Viáveis": "58",
     "Quantidade de Gemas Inviáveis": "2",
-    "Fazenda": NaN
+    "Fazenda": null,
+    "Unnamed: 20": null
   },
   {
     "ID": "3579057",
@@ -24748,7 +25876,8 @@ const VIABILIDADE_GEMAS_DATA = [
     "Quantidade de Gemas Total": "62",
     "Quantidade de Gemas Viáveis": "61",
     "Quantidade de Gemas Inviáveis": "1",
-    "Fazenda": NaN
+    "Fazenda": null,
+    "Unnamed: 20": null
   },
   {
     "ID": "3579056",
@@ -24770,7 +25899,8 @@ const VIABILIDADE_GEMAS_DATA = [
     "Quantidade de Gemas Total": "59",
     "Quantidade de Gemas Viáveis": "58",
     "Quantidade de Gemas Inviáveis": "1",
-    "Fazenda": NaN
+    "Fazenda": null,
+    "Unnamed: 20": null
   },
   {
     "ID": "3579471",
@@ -24792,7 +25922,8 @@ const VIABILIDADE_GEMAS_DATA = [
     "Quantidade de Gemas Total": "55",
     "Quantidade de Gemas Viáveis": "55",
     "Quantidade de Gemas Inviáveis": "0",
-    "Fazenda": NaN
+    "Fazenda": null,
+    "Unnamed: 20": null
   },
   {
     "ID": "3579464",
@@ -24814,7 +25945,8 @@ const VIABILIDADE_GEMAS_DATA = [
     "Quantidade de Gemas Total": "59",
     "Quantidade de Gemas Viáveis": "59",
     "Quantidade de Gemas Inviáveis": "0",
-    "Fazenda": NaN
+    "Fazenda": null,
+    "Unnamed: 20": null
   },
   {
     "ID": "3580904",
@@ -24836,7 +25968,8 @@ const VIABILIDADE_GEMAS_DATA = [
     "Quantidade de Gemas Total": "48",
     "Quantidade de Gemas Viáveis": "48",
     "Quantidade de Gemas Inviáveis": "0",
-    "Fazenda": NaN
+    "Fazenda": null,
+    "Unnamed: 20": null
   },
   {
     "ID": "3580895",
@@ -24858,7 +25991,8 @@ const VIABILIDADE_GEMAS_DATA = [
     "Quantidade de Gemas Total": "55",
     "Quantidade de Gemas Viáveis": "55",
     "Quantidade de Gemas Inviáveis": "0",
-    "Fazenda": NaN
+    "Fazenda": null,
+    "Unnamed: 20": null
   },
   {
     "ID": "3580890",
@@ -24880,7 +26014,8 @@ const VIABILIDADE_GEMAS_DATA = [
     "Quantidade de Gemas Total": "50",
     "Quantidade de Gemas Viáveis": "50",
     "Quantidade de Gemas Inviáveis": "0",
-    "Fazenda": NaN
+    "Fazenda": null,
+    "Unnamed: 20": null
   },
   {
     "ID": "3580884",
@@ -24902,7 +26037,8 @@ const VIABILIDADE_GEMAS_DATA = [
     "Quantidade de Gemas Total": "57",
     "Quantidade de Gemas Viáveis": "57",
     "Quantidade de Gemas Inviáveis": "0",
-    "Fazenda": NaN
+    "Fazenda": null,
+    "Unnamed: 20": null
   },
   {
     "ID": "3580879",
@@ -24924,7 +26060,8 @@ const VIABILIDADE_GEMAS_DATA = [
     "Quantidade de Gemas Total": "48",
     "Quantidade de Gemas Viáveis": "48",
     "Quantidade de Gemas Inviáveis": "0",
-    "Fazenda": NaN
+    "Fazenda": null,
+    "Unnamed: 20": null
   },
   {
     "ID": "3578762",
@@ -24946,7 +26083,8 @@ const VIABILIDADE_GEMAS_DATA = [
     "Quantidade de Gemas Total": "59",
     "Quantidade de Gemas Viáveis": "59",
     "Quantidade de Gemas Inviáveis": "0",
-    "Fazenda": NaN
+    "Fazenda": null,
+    "Unnamed: 20": null
   },
   {
     "ID": "3579155",
@@ -24968,7 +26106,8 @@ const VIABILIDADE_GEMAS_DATA = [
     "Quantidade de Gemas Total": "53",
     "Quantidade de Gemas Viáveis": "53",
     "Quantidade de Gemas Inviáveis": "0",
-    "Fazenda": NaN
+    "Fazenda": null,
+    "Unnamed: 20": null
   },
   {
     "ID": "3579043",
@@ -24990,7 +26129,8 @@ const VIABILIDADE_GEMAS_DATA = [
     "Quantidade de Gemas Total": "60",
     "Quantidade de Gemas Viáveis": "58",
     "Quantidade de Gemas Inviáveis": "2",
-    "Fazenda": NaN
+    "Fazenda": null,
+    "Unnamed: 20": null
   },
   {
     "ID": "3578759",
@@ -25012,7 +26152,8 @@ const VIABILIDADE_GEMAS_DATA = [
     "Quantidade de Gemas Total": "56",
     "Quantidade de Gemas Viáveis": "56",
     "Quantidade de Gemas Inviáveis": "0",
-    "Fazenda": NaN
+    "Fazenda": null,
+    "Unnamed: 20": null
   },
   {
     "ID": "3579042",
@@ -25034,7 +26175,8 @@ const VIABILIDADE_GEMAS_DATA = [
     "Quantidade de Gemas Total": "58",
     "Quantidade de Gemas Viáveis": "58",
     "Quantidade de Gemas Inviáveis": "0",
-    "Fazenda": NaN
+    "Fazenda": null,
+    "Unnamed: 20": null
   },
   {
     "ID": "3578752",
@@ -25056,7 +26198,8 @@ const VIABILIDADE_GEMAS_DATA = [
     "Quantidade de Gemas Total": "56",
     "Quantidade de Gemas Viáveis": "56",
     "Quantidade de Gemas Inviáveis": "0",
-    "Fazenda": NaN
+    "Fazenda": null,
+    "Unnamed: 20": null
   },
   {
     "ID": "3579147",
@@ -25078,7 +26221,8 @@ const VIABILIDADE_GEMAS_DATA = [
     "Quantidade de Gemas Total": "56",
     "Quantidade de Gemas Viáveis": "56",
     "Quantidade de Gemas Inviáveis": "0",
-    "Fazenda": NaN
+    "Fazenda": null,
+    "Unnamed: 20": null
   },
   {
     "ID": "3578747",
@@ -25100,7 +26244,8 @@ const VIABILIDADE_GEMAS_DATA = [
     "Quantidade de Gemas Total": "54",
     "Quantidade de Gemas Viáveis": "54",
     "Quantidade de Gemas Inviáveis": "0",
-    "Fazenda": NaN
+    "Fazenda": null,
+    "Unnamed: 20": null
   },
   {
     "ID": "3578742",
@@ -25122,7 +26267,8 @@ const VIABILIDADE_GEMAS_DATA = [
     "Quantidade de Gemas Total": "58",
     "Quantidade de Gemas Viáveis": "58",
     "Quantidade de Gemas Inviáveis": "0",
-    "Fazenda": NaN
+    "Fazenda": null,
+    "Unnamed: 20": null
   },
   {
     "ID": "3579142",
@@ -25144,7 +26290,8 @@ const VIABILIDADE_GEMAS_DATA = [
     "Quantidade de Gemas Total": "50",
     "Quantidade de Gemas Viáveis": "50",
     "Quantidade de Gemas Inviáveis": "0",
-    "Fazenda": NaN
+    "Fazenda": null,
+    "Unnamed: 20": null
   },
   {
     "ID": "3579332",
@@ -25166,7 +26313,8 @@ const VIABILIDADE_GEMAS_DATA = [
     "Quantidade de Gemas Total": "58",
     "Quantidade de Gemas Viáveis": "57",
     "Quantidade de Gemas Inviáveis": "1",
-    "Fazenda": NaN
+    "Fazenda": null,
+    "Unnamed: 20": null
   },
   {
     "ID": "3579139",
@@ -25188,7 +26336,8 @@ const VIABILIDADE_GEMAS_DATA = [
     "Quantidade de Gemas Total": "51",
     "Quantidade de Gemas Viáveis": "51",
     "Quantidade de Gemas Inviáveis": "0",
-    "Fazenda": NaN
+    "Fazenda": null,
+    "Unnamed: 20": null
   },
   {
     "ID": "3578735",
@@ -25210,7 +26359,8 @@ const VIABILIDADE_GEMAS_DATA = [
     "Quantidade de Gemas Total": "54",
     "Quantidade de Gemas Viáveis": "54",
     "Quantidade de Gemas Inviáveis": "0",
-    "Fazenda": NaN
+    "Fazenda": null,
+    "Unnamed: 20": null
   },
   {
     "ID": "3579309",
@@ -25232,7 +26382,8 @@ const VIABILIDADE_GEMAS_DATA = [
     "Quantidade de Gemas Total": "63",
     "Quantidade de Gemas Viáveis": "59",
     "Quantidade de Gemas Inviáveis": "4",
-    "Fazenda": NaN
+    "Fazenda": null,
+    "Unnamed: 20": null
   },
   {
     "ID": "3578731",
@@ -25254,7 +26405,8 @@ const VIABILIDADE_GEMAS_DATA = [
     "Quantidade de Gemas Total": "55",
     "Quantidade de Gemas Viáveis": "55",
     "Quantidade de Gemas Inviáveis": "0",
-    "Fazenda": NaN
+    "Fazenda": null,
+    "Unnamed: 20": null
   },
   {
     "ID": "3579292",
@@ -25276,7 +26428,8 @@ const VIABILIDADE_GEMAS_DATA = [
     "Quantidade de Gemas Total": "67",
     "Quantidade de Gemas Viáveis": "65",
     "Quantidade de Gemas Inviáveis": "2",
-    "Fazenda": NaN
+    "Fazenda": null,
+    "Unnamed: 20": null
   },
   {
     "ID": "3579187",
@@ -25298,7 +26451,8 @@ const VIABILIDADE_GEMAS_DATA = [
     "Quantidade de Gemas Total": "54",
     "Quantidade de Gemas Viáveis": "52",
     "Quantidade de Gemas Inviáveis": "2",
-    "Fazenda": NaN
+    "Fazenda": null,
+    "Unnamed: 20": null
   },
   {
     "ID": "3578726",
@@ -25320,7 +26474,8 @@ const VIABILIDADE_GEMAS_DATA = [
     "Quantidade de Gemas Total": "54",
     "Quantidade de Gemas Viáveis": "54",
     "Quantidade de Gemas Inviáveis": "0",
-    "Fazenda": NaN
+    "Fazenda": null,
+    "Unnamed: 20": null
   },
   {
     "ID": "3579182",
@@ -25342,7 +26497,8 @@ const VIABILIDADE_GEMAS_DATA = [
     "Quantidade de Gemas Total": "60",
     "Quantidade de Gemas Viáveis": "60",
     "Quantidade de Gemas Inviáveis": "0",
-    "Fazenda": NaN
+    "Fazenda": null,
+    "Unnamed: 20": null
   },
   {
     "ID": "3578721",
@@ -25364,7 +26520,8 @@ const VIABILIDADE_GEMAS_DATA = [
     "Quantidade de Gemas Total": "58",
     "Quantidade de Gemas Viáveis": "58",
     "Quantidade de Gemas Inviáveis": "0",
-    "Fazenda": NaN
+    "Fazenda": null,
+    "Unnamed: 20": null
   },
   {
     "ID": "3579277",
@@ -25386,7 +26543,8 @@ const VIABILIDADE_GEMAS_DATA = [
     "Quantidade de Gemas Total": "59",
     "Quantidade de Gemas Viáveis": "59",
     "Quantidade de Gemas Inviáveis": "0",
-    "Fazenda": NaN
+    "Fazenda": null,
+    "Unnamed: 20": null
   },
   {
     "ID": "3579174",
@@ -25408,7 +26566,8 @@ const VIABILIDADE_GEMAS_DATA = [
     "Quantidade de Gemas Total": "53",
     "Quantidade de Gemas Viáveis": "50",
     "Quantidade de Gemas Inviáveis": "3",
-    "Fazenda": NaN
+    "Fazenda": null,
+    "Unnamed: 20": null
   },
   {
     "ID": "3578716",
@@ -25430,7 +26589,8 @@ const VIABILIDADE_GEMAS_DATA = [
     "Quantidade de Gemas Total": "60",
     "Quantidade de Gemas Viáveis": "60",
     "Quantidade de Gemas Inviáveis": "0",
-    "Fazenda": NaN
+    "Fazenda": null,
+    "Unnamed: 20": null
   },
   {
     "ID": "3579169",
@@ -25452,7 +26612,8 @@ const VIABILIDADE_GEMAS_DATA = [
     "Quantidade de Gemas Total": "60",
     "Quantidade de Gemas Viáveis": "59",
     "Quantidade de Gemas Inviáveis": "1",
-    "Fazenda": NaN
+    "Fazenda": null,
+    "Unnamed: 20": null
   },
   {
     "ID": "3579133",
@@ -25474,7 +26635,8 @@ const VIABILIDADE_GEMAS_DATA = [
     "Quantidade de Gemas Total": "57",
     "Quantidade de Gemas Viáveis": "57",
     "Quantidade de Gemas Inviáveis": "0",
-    "Fazenda": NaN
+    "Fazenda": null,
+    "Unnamed: 20": null
   },
   {
     "ID": "3579263",
@@ -25496,7 +26658,8 @@ const VIABILIDADE_GEMAS_DATA = [
     "Quantidade de Gemas Total": "64",
     "Quantidade de Gemas Viáveis": "63",
     "Quantidade de Gemas Inviáveis": "1",
-    "Fazenda": NaN
+    "Fazenda": null,
+    "Unnamed: 20": null
   },
   {
     "ID": "3579086",
@@ -25518,7 +26681,8 @@ const VIABILIDADE_GEMAS_DATA = [
     "Quantidade de Gemas Total": "58",
     "Quantidade de Gemas Viáveis": "58",
     "Quantidade de Gemas Inviáveis": "0",
-    "Fazenda": NaN
+    "Fazenda": null,
+    "Unnamed: 20": null
   },
   {
     "ID": "3578708",
@@ -25540,7 +26704,8 @@ const VIABILIDADE_GEMAS_DATA = [
     "Quantidade de Gemas Total": "58",
     "Quantidade de Gemas Viáveis": "58",
     "Quantidade de Gemas Inviáveis": "0",
-    "Fazenda": NaN
+    "Fazenda": null,
+    "Unnamed: 20": null
   },
   {
     "ID": "3579250",
@@ -25562,7 +26727,8 @@ const VIABILIDADE_GEMAS_DATA = [
     "Quantidade de Gemas Total": "66",
     "Quantidade de Gemas Viáveis": "61",
     "Quantidade de Gemas Inviáveis": "5",
-    "Fazenda": NaN
+    "Fazenda": null,
+    "Unnamed: 20": null
   },
   {
     "ID": "3579244",
@@ -25584,7 +26750,8 @@ const VIABILIDADE_GEMAS_DATA = [
     "Quantidade de Gemas Total": "64",
     "Quantidade de Gemas Viáveis": "62",
     "Quantidade de Gemas Inviáveis": "2",
-    "Fazenda": NaN
+    "Fazenda": null,
+    "Unnamed: 20": null
   },
   {
     "ID": "3579237",
@@ -25606,7 +26773,8 @@ const VIABILIDADE_GEMAS_DATA = [
     "Quantidade de Gemas Total": "58",
     "Quantidade de Gemas Viáveis": "58",
     "Quantidade de Gemas Inviáveis": "0",
-    "Fazenda": NaN
+    "Fazenda": null,
+    "Unnamed: 20": null
   },
   {
     "ID": "3577299",
@@ -25628,7 +26796,8 @@ const VIABILIDADE_GEMAS_DATA = [
     "Quantidade de Gemas Total": "62",
     "Quantidade de Gemas Viáveis": "60",
     "Quantidade de Gemas Inviáveis": "2",
-    "Fazenda": NaN
+    "Fazenda": null,
+    "Unnamed: 20": null
   },
   {
     "ID": "3577290",
@@ -25650,7 +26819,8 @@ const VIABILIDADE_GEMAS_DATA = [
     "Quantidade de Gemas Total": "55",
     "Quantidade de Gemas Viáveis": "55",
     "Quantidade de Gemas Inviáveis": "0",
-    "Fazenda": NaN
+    "Fazenda": null,
+    "Unnamed: 20": null
   },
   {
     "ID": "3577269",
@@ -25672,7 +26842,8 @@ const VIABILIDADE_GEMAS_DATA = [
     "Quantidade de Gemas Total": "48",
     "Quantidade de Gemas Viáveis": "48",
     "Quantidade de Gemas Inviáveis": "0",
-    "Fazenda": NaN
+    "Fazenda": null,
+    "Unnamed: 20": null
   },
   {
     "ID": "3577248",
@@ -25694,7 +26865,8 @@ const VIABILIDADE_GEMAS_DATA = [
     "Quantidade de Gemas Total": "63",
     "Quantidade de Gemas Viáveis": "63",
     "Quantidade de Gemas Inviáveis": "0",
-    "Fazenda": NaN
+    "Fazenda": null,
+    "Unnamed: 20": null
   },
   {
     "ID": "3576810",
@@ -25716,7 +26888,8 @@ const VIABILIDADE_GEMAS_DATA = [
     "Quantidade de Gemas Total": "60",
     "Quantidade de Gemas Viáveis": "60",
     "Quantidade de Gemas Inviáveis": "0",
-    "Fazenda": NaN
+    "Fazenda": null,
+    "Unnamed: 20": null
   },
   {
     "ID": "3576805",
@@ -25738,7 +26911,8 @@ const VIABILIDADE_GEMAS_DATA = [
     "Quantidade de Gemas Total": "48",
     "Quantidade de Gemas Viáveis": "48",
     "Quantidade de Gemas Inviáveis": "0",
-    "Fazenda": NaN
+    "Fazenda": null,
+    "Unnamed: 20": null
   },
   {
     "ID": "3576798",
@@ -25760,7 +26934,8 @@ const VIABILIDADE_GEMAS_DATA = [
     "Quantidade de Gemas Total": "50",
     "Quantidade de Gemas Viáveis": "50",
     "Quantidade de Gemas Inviáveis": "0",
-    "Fazenda": NaN
+    "Fazenda": null,
+    "Unnamed: 20": null
   },
   {
     "ID": "3577106",
@@ -25782,7 +26957,8 @@ const VIABILIDADE_GEMAS_DATA = [
     "Quantidade de Gemas Total": "60",
     "Quantidade de Gemas Viáveis": "58",
     "Quantidade de Gemas Inviáveis": "2",
-    "Fazenda": NaN
+    "Fazenda": null,
+    "Unnamed: 20": null
   },
   {
     "ID": "3577105",
@@ -25804,7 +26980,8 @@ const VIABILIDADE_GEMAS_DATA = [
     "Quantidade de Gemas Total": "59",
     "Quantidade de Gemas Viáveis": "58",
     "Quantidade de Gemas Inviáveis": "1",
-    "Fazenda": NaN
+    "Fazenda": null,
+    "Unnamed: 20": null
   },
   {
     "ID": "3577104",
@@ -25826,7 +27003,8 @@ const VIABILIDADE_GEMAS_DATA = [
     "Quantidade de Gemas Total": "57",
     "Quantidade de Gemas Viáveis": "57",
     "Quantidade de Gemas Inviáveis": "0",
-    "Fazenda": NaN
+    "Fazenda": null,
+    "Unnamed: 20": null
   },
   {
     "ID": "3576794",
@@ -25848,7 +27026,8 @@ const VIABILIDADE_GEMAS_DATA = [
     "Quantidade de Gemas Total": "60",
     "Quantidade de Gemas Viáveis": "60",
     "Quantidade de Gemas Inviáveis": "0",
-    "Fazenda": NaN
+    "Fazenda": null,
+    "Unnamed: 20": null
   },
   {
     "ID": "3576748",
@@ -25870,7 +27049,8 @@ const VIABILIDADE_GEMAS_DATA = [
     "Quantidade de Gemas Total": "58",
     "Quantidade de Gemas Viáveis": "58",
     "Quantidade de Gemas Inviáveis": "0",
-    "Fazenda": NaN
+    "Fazenda": null,
+    "Unnamed: 20": null
   },
   {
     "ID": "3576744",
@@ -25892,7 +27072,8 @@ const VIABILIDADE_GEMAS_DATA = [
     "Quantidade de Gemas Total": "60",
     "Quantidade de Gemas Viáveis": "60",
     "Quantidade de Gemas Inviáveis": "0",
-    "Fazenda": NaN
+    "Fazenda": null,
+    "Unnamed: 20": null
   },
   {
     "ID": "3576789",
@@ -25914,7 +27095,8 @@ const VIABILIDADE_GEMAS_DATA = [
     "Quantidade de Gemas Total": "58",
     "Quantidade de Gemas Viáveis": "58",
     "Quantidade de Gemas Inviáveis": "0",
-    "Fazenda": NaN
+    "Fazenda": null,
+    "Unnamed: 20": null
   },
   {
     "ID": "3576782",
@@ -25936,7 +27118,8 @@ const VIABILIDADE_GEMAS_DATA = [
     "Quantidade de Gemas Total": "60",
     "Quantidade de Gemas Viáveis": "60",
     "Quantidade de Gemas Inviáveis": "0",
-    "Fazenda": NaN
+    "Fazenda": null,
+    "Unnamed: 20": null
   },
   {
     "ID": "3576778",
@@ -25958,7 +27141,8 @@ const VIABILIDADE_GEMAS_DATA = [
     "Quantidade de Gemas Total": "60",
     "Quantidade de Gemas Viáveis": "60",
     "Quantidade de Gemas Inviáveis": "0",
-    "Fazenda": NaN
+    "Fazenda": null,
+    "Unnamed: 20": null
   },
   {
     "ID": "3576732",
@@ -25980,7 +27164,8 @@ const VIABILIDADE_GEMAS_DATA = [
     "Quantidade de Gemas Total": "62",
     "Quantidade de Gemas Viáveis": "60",
     "Quantidade de Gemas Inviáveis": "2",
-    "Fazenda": NaN
+    "Fazenda": null,
+    "Unnamed: 20": null
   },
   {
     "ID": "3576980",
@@ -26002,7 +27187,8 @@ const VIABILIDADE_GEMAS_DATA = [
     "Quantidade de Gemas Total": "61",
     "Quantidade de Gemas Viáveis": "60",
     "Quantidade de Gemas Inviáveis": "1",
-    "Fazenda": NaN
+    "Fazenda": null,
+    "Unnamed: 20": null
   },
   {
     "ID": "3576939",
@@ -26024,7 +27210,8 @@ const VIABILIDADE_GEMAS_DATA = [
     "Quantidade de Gemas Total": "59",
     "Quantidade de Gemas Viáveis": "59",
     "Quantidade de Gemas Inviáveis": "0",
-    "Fazenda": NaN
+    "Fazenda": null,
+    "Unnamed: 20": null
   },
   {
     "ID": "3576727",
@@ -26046,7 +27233,8 @@ const VIABILIDADE_GEMAS_DATA = [
     "Quantidade de Gemas Total": "58",
     "Quantidade de Gemas Viáveis": "58",
     "Quantidade de Gemas Inviáveis": "0",
-    "Fazenda": NaN
+    "Fazenda": null,
+    "Unnamed: 20": null
   },
   {
     "ID": "3576681",
@@ -26068,7 +27256,8 @@ const VIABILIDADE_GEMAS_DATA = [
     "Quantidade de Gemas Total": "60",
     "Quantidade de Gemas Viáveis": "60",
     "Quantidade de Gemas Inviáveis": "0",
-    "Fazenda": NaN
+    "Fazenda": null,
+    "Unnamed: 20": null
   },
   {
     "ID": "3574556",
@@ -26090,7 +27279,8 @@ const VIABILIDADE_GEMAS_DATA = [
     "Quantidade de Gemas Total": "60",
     "Quantidade de Gemas Viáveis": "57",
     "Quantidade de Gemas Inviáveis": "3",
-    "Fazenda": NaN
+    "Fazenda": null,
+    "Unnamed: 20": null
   },
   {
     "ID": "3576676",
@@ -26112,7 +27302,8 @@ const VIABILIDADE_GEMAS_DATA = [
     "Quantidade de Gemas Total": "55",
     "Quantidade de Gemas Viáveis": "55",
     "Quantidade de Gemas Inviáveis": "0",
-    "Fazenda": NaN
+    "Fazenda": null,
+    "Unnamed: 20": null
   },
   {
     "ID": "3576721",
@@ -26134,7 +27325,8 @@ const VIABILIDADE_GEMAS_DATA = [
     "Quantidade de Gemas Total": "59",
     "Quantidade de Gemas Viáveis": "59",
     "Quantidade de Gemas Inviáveis": "0",
-    "Fazenda": NaN
+    "Fazenda": null,
+    "Unnamed: 20": null
   },
   {
     "ID": "3576670",
@@ -26156,7 +27348,8 @@ const VIABILIDADE_GEMAS_DATA = [
     "Quantidade de Gemas Total": "60",
     "Quantidade de Gemas Viáveis": "58",
     "Quantidade de Gemas Inviáveis": "2",
-    "Fazenda": NaN
+    "Fazenda": null,
+    "Unnamed: 20": null
   },
   {
     "ID": "3576688",
@@ -26178,7 +27371,8 @@ const VIABILIDADE_GEMAS_DATA = [
     "Quantidade de Gemas Total": "57",
     "Quantidade de Gemas Viáveis": "57",
     "Quantidade de Gemas Inviáveis": "0",
-    "Fazenda": NaN
+    "Fazenda": null,
+    "Unnamed: 20": null
   },
   {
     "ID": "3576717",
@@ -26200,7 +27394,8 @@ const VIABILIDADE_GEMAS_DATA = [
     "Quantidade de Gemas Total": "61",
     "Quantidade de Gemas Viáveis": "61",
     "Quantidade de Gemas Inviáveis": "0",
-    "Fazenda": NaN
+    "Fazenda": null,
+    "Unnamed: 20": null
   },
   {
     "ID": "3576671",
@@ -26222,7 +27417,8 @@ const VIABILIDADE_GEMAS_DATA = [
     "Quantidade de Gemas Total": "53",
     "Quantidade de Gemas Viáveis": "50",
     "Quantidade de Gemas Inviáveis": "3",
-    "Fazenda": NaN
+    "Fazenda": null,
+    "Unnamed: 20": null
   },
   {
     "ID": "3576713",
@@ -26244,7 +27440,8 @@ const VIABILIDADE_GEMAS_DATA = [
     "Quantidade de Gemas Total": "60",
     "Quantidade de Gemas Viáveis": "60",
     "Quantidade de Gemas Inviáveis": "0",
-    "Fazenda": NaN
+    "Fazenda": null,
+    "Unnamed: 20": null
   },
   {
     "ID": "3576664",
@@ -26266,7 +27463,8 @@ const VIABILIDADE_GEMAS_DATA = [
     "Quantidade de Gemas Total": "60",
     "Quantidade de Gemas Viáveis": "57",
     "Quantidade de Gemas Inviáveis": "3",
-    "Fazenda": NaN
+    "Fazenda": null,
+    "Unnamed: 20": null
   },
   {
     "ID": "3577369",
@@ -26288,7 +27486,8 @@ const VIABILIDADE_GEMAS_DATA = [
     "Quantidade de Gemas Total": "57",
     "Quantidade de Gemas Viáveis": "57",
     "Quantidade de Gemas Inviáveis": "0",
-    "Fazenda": NaN
+    "Fazenda": null,
+    "Unnamed: 20": null
   },
   {
     "ID": "3577364",
@@ -26310,7 +27509,8 @@ const VIABILIDADE_GEMAS_DATA = [
     "Quantidade de Gemas Total": "59",
     "Quantidade de Gemas Viáveis": "59",
     "Quantidade de Gemas Inviáveis": "0",
-    "Fazenda": NaN
+    "Fazenda": null,
+    "Unnamed: 20": null
   },
   {
     "ID": "3577357",
@@ -26332,7 +27532,8 @@ const VIABILIDADE_GEMAS_DATA = [
     "Quantidade de Gemas Total": "65",
     "Quantidade de Gemas Viáveis": "65",
     "Quantidade de Gemas Inviáveis": "0",
-    "Fazenda": NaN
+    "Fazenda": null,
+    "Unnamed: 20": null
   },
   {
     "ID": "3577354",
@@ -26354,7 +27555,8 @@ const VIABILIDADE_GEMAS_DATA = [
     "Quantidade de Gemas Total": "59",
     "Quantidade de Gemas Viáveis": "58",
     "Quantidade de Gemas Inviáveis": "1",
-    "Fazenda": NaN
+    "Fazenda": null,
+    "Unnamed: 20": null
   },
   {
     "ID": "3577350",
@@ -26376,7 +27578,8 @@ const VIABILIDADE_GEMAS_DATA = [
     "Quantidade de Gemas Total": "56",
     "Quantidade de Gemas Viáveis": "56",
     "Quantidade de Gemas Inviáveis": "0",
-    "Fazenda": NaN
+    "Fazenda": null,
+    "Unnamed: 20": null
   },
   {
     "ID": "3577343",
@@ -26398,7 +27601,8 @@ const VIABILIDADE_GEMAS_DATA = [
     "Quantidade de Gemas Total": "61",
     "Quantidade de Gemas Viáveis": "61",
     "Quantidade de Gemas Inviáveis": "0",
-    "Fazenda": NaN
+    "Fazenda": null,
+    "Unnamed: 20": null
   },
   {
     "ID": "3577340",
@@ -26420,7 +27624,8 @@ const VIABILIDADE_GEMAS_DATA = [
     "Quantidade de Gemas Total": "58",
     "Quantidade de Gemas Viáveis": "58",
     "Quantidade de Gemas Inviáveis": "0",
-    "Fazenda": NaN
+    "Fazenda": null,
+    "Unnamed: 20": null
   },
   {
     "ID": "3577334",
@@ -26442,7 +27647,8 @@ const VIABILIDADE_GEMAS_DATA = [
     "Quantidade de Gemas Total": "60",
     "Quantidade de Gemas Viáveis": "60",
     "Quantidade de Gemas Inviáveis": "0",
-    "Fazenda": NaN
+    "Fazenda": null,
+    "Unnamed: 20": null
   },
   {
     "ID": "3577327",
@@ -26464,7 +27670,8 @@ const VIABILIDADE_GEMAS_DATA = [
     "Quantidade de Gemas Total": "63",
     "Quantidade de Gemas Viáveis": "63",
     "Quantidade de Gemas Inviáveis": "0",
-    "Fazenda": NaN
+    "Fazenda": null,
+    "Unnamed: 20": null
   },
   {
     "ID": "3574656",
@@ -26486,7 +27693,8 @@ const VIABILIDADE_GEMAS_DATA = [
     "Quantidade de Gemas Total": "58",
     "Quantidade de Gemas Viáveis": "58",
     "Quantidade de Gemas Inviáveis": "0",
-    "Fazenda": NaN
+    "Fazenda": null,
+    "Unnamed: 20": null
   },
   {
     "ID": "3574591",
@@ -26508,7 +27716,8 @@ const VIABILIDADE_GEMAS_DATA = [
     "Quantidade de Gemas Total": "52",
     "Quantidade de Gemas Viáveis": "52",
     "Quantidade de Gemas Inviáveis": "0",
-    "Fazenda": NaN
+    "Fazenda": null,
+    "Unnamed: 20": null
   },
   {
     "ID": "3574584",
@@ -26530,7 +27739,8 @@ const VIABILIDADE_GEMAS_DATA = [
     "Quantidade de Gemas Total": "56",
     "Quantidade de Gemas Viáveis": "56",
     "Quantidade de Gemas Inviáveis": "0",
-    "Fazenda": NaN
+    "Fazenda": null,
+    "Unnamed: 20": null
   },
   {
     "ID": "3574703",
@@ -26552,7 +27762,8 @@ const VIABILIDADE_GEMAS_DATA = [
     "Quantidade de Gemas Total": "59",
     "Quantidade de Gemas Viáveis": "58",
     "Quantidade de Gemas Inviáveis": "1",
-    "Fazenda": NaN
+    "Fazenda": null,
+    "Unnamed: 20": null
   },
   {
     "ID": "3574704",
@@ -26574,7 +27785,8 @@ const VIABILIDADE_GEMAS_DATA = [
     "Quantidade de Gemas Total": "60",
     "Quantidade de Gemas Viáveis": "60",
     "Quantidade de Gemas Inviáveis": "0",
-    "Fazenda": NaN
+    "Fazenda": null,
+    "Unnamed: 20": null
   },
   {
     "ID": "3574702",
@@ -26596,7 +27808,8 @@ const VIABILIDADE_GEMAS_DATA = [
     "Quantidade de Gemas Total": "59",
     "Quantidade de Gemas Viáveis": "59",
     "Quantidade de Gemas Inviáveis": "0",
-    "Fazenda": NaN
+    "Fazenda": null,
+    "Unnamed: 20": null
   },
   {
     "ID": "3574701",
@@ -26618,7 +27831,8 @@ const VIABILIDADE_GEMAS_DATA = [
     "Quantidade de Gemas Total": "60",
     "Quantidade de Gemas Viáveis": "58",
     "Quantidade de Gemas Inviáveis": "2",
-    "Fazenda": NaN
+    "Fazenda": null,
+    "Unnamed: 20": null
   },
   {
     "ID": "3574579",
@@ -26640,7 +27854,8 @@ const VIABILIDADE_GEMAS_DATA = [
     "Quantidade de Gemas Total": "60",
     "Quantidade de Gemas Viáveis": "60",
     "Quantidade de Gemas Inviáveis": "0",
-    "Fazenda": NaN
+    "Fazenda": null,
+    "Unnamed: 20": null
   },
   {
     "ID": "3574527",
@@ -26662,7 +27877,8 @@ const VIABILIDADE_GEMAS_DATA = [
     "Quantidade de Gemas Total": "52",
     "Quantidade de Gemas Viáveis": "52",
     "Quantidade de Gemas Inviáveis": "0",
-    "Fazenda": NaN
+    "Fazenda": null,
+    "Unnamed: 20": null
   },
   {
     "ID": "3574522",
@@ -26684,7 +27900,8 @@ const VIABILIDADE_GEMAS_DATA = [
     "Quantidade de Gemas Total": "60",
     "Quantidade de Gemas Viáveis": "60",
     "Quantidade de Gemas Inviáveis": "0",
-    "Fazenda": NaN
+    "Fazenda": null,
+    "Unnamed: 20": null
   },
   {
     "ID": "3574330",
@@ -26706,7 +27923,8 @@ const VIABILIDADE_GEMAS_DATA = [
     "Quantidade de Gemas Total": "50",
     "Quantidade de Gemas Viáveis": "50",
     "Quantidade de Gemas Inviáveis": "0",
-    "Fazenda": NaN
+    "Fazenda": null,
+    "Unnamed: 20": null
   },
   {
     "ID": "3574268",
@@ -26728,7 +27946,8 @@ const VIABILIDADE_GEMAS_DATA = [
     "Quantidade de Gemas Total": "56",
     "Quantidade de Gemas Viáveis": "56",
     "Quantidade de Gemas Inviáveis": "0",
-    "Fazenda": NaN
+    "Fazenda": null,
+    "Unnamed: 20": null
   },
   {
     "ID": "3574561",
@@ -26750,7 +27969,8 @@ const VIABILIDADE_GEMAS_DATA = [
     "Quantidade de Gemas Total": "60",
     "Quantidade de Gemas Viáveis": "60",
     "Quantidade de Gemas Inviáveis": "0",
-    "Fazenda": NaN
+    "Fazenda": null,
+    "Unnamed: 20": null
   },
   {
     "ID": "3574262",
@@ -26772,7 +27992,8 @@ const VIABILIDADE_GEMAS_DATA = [
     "Quantidade de Gemas Total": "50",
     "Quantidade de Gemas Viáveis": "50",
     "Quantidade de Gemas Inviáveis": "0",
-    "Fazenda": NaN
+    "Fazenda": null,
+    "Unnamed: 20": null
   },
   {
     "ID": "3574442",
@@ -26794,7 +28015,8 @@ const VIABILIDADE_GEMAS_DATA = [
     "Quantidade de Gemas Total": "60",
     "Quantidade de Gemas Viáveis": "60",
     "Quantidade de Gemas Inviáveis": "0",
-    "Fazenda": NaN
+    "Fazenda": null,
+    "Unnamed: 20": null
   },
   {
     "ID": "3574257",
@@ -26816,7 +28038,8 @@ const VIABILIDADE_GEMAS_DATA = [
     "Quantidade de Gemas Total": "54",
     "Quantidade de Gemas Viáveis": "54",
     "Quantidade de Gemas Inviáveis": "0",
-    "Fazenda": NaN
+    "Fazenda": null,
+    "Unnamed: 20": null
   },
   {
     "ID": "3574439",
@@ -26838,7 +28061,8 @@ const VIABILIDADE_GEMAS_DATA = [
     "Quantidade de Gemas Total": "60",
     "Quantidade de Gemas Viáveis": "60",
     "Quantidade de Gemas Inviáveis": "0",
-    "Fazenda": NaN
+    "Fazenda": null,
+    "Unnamed: 20": null
   },
   {
     "ID": "3574549",
@@ -26860,7 +28084,8 @@ const VIABILIDADE_GEMAS_DATA = [
     "Quantidade de Gemas Total": "60",
     "Quantidade de Gemas Viáveis": "60",
     "Quantidade de Gemas Inviáveis": "0",
-    "Fazenda": NaN
+    "Fazenda": null,
+    "Unnamed: 20": null
   },
   {
     "ID": "3574252",
@@ -26882,7 +28107,8 @@ const VIABILIDADE_GEMAS_DATA = [
     "Quantidade de Gemas Total": "53",
     "Quantidade de Gemas Viáveis": "52",
     "Quantidade de Gemas Inviáveis": "1",
-    "Fazenda": NaN
+    "Fazenda": null,
+    "Unnamed: 20": null
   },
   {
     "ID": "3574433",
@@ -26904,7 +28130,8 @@ const VIABILIDADE_GEMAS_DATA = [
     "Quantidade de Gemas Total": "58",
     "Quantidade de Gemas Viáveis": "58",
     "Quantidade de Gemas Inviáveis": "0",
-    "Fazenda": NaN
+    "Fazenda": null,
+    "Unnamed: 20": null
   },
   {
     "ID": "3574544",
@@ -26926,7 +28153,8 @@ const VIABILIDADE_GEMAS_DATA = [
     "Quantidade de Gemas Total": "60",
     "Quantidade de Gemas Viáveis": "60",
     "Quantidade de Gemas Inviáveis": "0",
-    "Fazenda": NaN
+    "Fazenda": null,
+    "Unnamed: 20": null
   },
   {
     "ID": "3574247",
@@ -26948,7 +28176,8 @@ const VIABILIDADE_GEMAS_DATA = [
     "Quantidade de Gemas Total": "48",
     "Quantidade de Gemas Viáveis": "48",
     "Quantidade de Gemas Inviáveis": "0",
-    "Fazenda": NaN
+    "Fazenda": null,
+    "Unnamed: 20": null
   },
   {
     "ID": "3574428",
@@ -26970,7 +28199,8 @@ const VIABILIDADE_GEMAS_DATA = [
     "Quantidade de Gemas Total": "57",
     "Quantidade de Gemas Viáveis": "57",
     "Quantidade de Gemas Inviáveis": "0",
-    "Fazenda": NaN
+    "Fazenda": null,
+    "Unnamed: 20": null
   },
   {
     "ID": "3574532",
@@ -26992,7 +28222,8 @@ const VIABILIDADE_GEMAS_DATA = [
     "Quantidade de Gemas Total": "60",
     "Quantidade de Gemas Viáveis": "58",
     "Quantidade de Gemas Inviáveis": "2",
-    "Fazenda": NaN
+    "Fazenda": null,
+    "Unnamed: 20": null
   },
   {
     "ID": "3574499",
@@ -27014,7 +28245,8 @@ const VIABILIDADE_GEMAS_DATA = [
     "Quantidade de Gemas Total": "51",
     "Quantidade de Gemas Viáveis": "50",
     "Quantidade de Gemas Inviáveis": "1",
-    "Fazenda": NaN
+    "Fazenda": null,
+    "Unnamed: 20": null
   },
   {
     "ID": "3574723",
@@ -27036,7 +28268,8 @@ const VIABILIDADE_GEMAS_DATA = [
     "Quantidade de Gemas Total": "60",
     "Quantidade de Gemas Viáveis": "60",
     "Quantidade de Gemas Inviáveis": "0",
-    "Fazenda": NaN
+    "Fazenda": null,
+    "Unnamed: 20": null
   },
   {
     "ID": "3574220",
@@ -27058,7 +28291,8 @@ const VIABILIDADE_GEMAS_DATA = [
     "Quantidade de Gemas Total": "54",
     "Quantidade de Gemas Viáveis": "54",
     "Quantidade de Gemas Inviáveis": "0",
-    "Fazenda": NaN
+    "Fazenda": null,
+    "Unnamed: 20": null
   },
   {
     "ID": "3574218",
@@ -27080,7 +28314,8 @@ const VIABILIDADE_GEMAS_DATA = [
     "Quantidade de Gemas Total": "48",
     "Quantidade de Gemas Viáveis": "48",
     "Quantidade de Gemas Inviáveis": "0",
-    "Fazenda": NaN
+    "Fazenda": null,
+    "Unnamed: 20": null
   },
   {
     "ID": "3574217",
@@ -27102,7 +28337,8 @@ const VIABILIDADE_GEMAS_DATA = [
     "Quantidade de Gemas Total": "60",
     "Quantidade de Gemas Viáveis": "60",
     "Quantidade de Gemas Inviáveis": "0",
-    "Fazenda": NaN
+    "Fazenda": null,
+    "Unnamed: 20": null
   },
   {
     "ID": "3574216",
@@ -27124,7 +28360,8 @@ const VIABILIDADE_GEMAS_DATA = [
     "Quantidade de Gemas Total": "60",
     "Quantidade de Gemas Viáveis": "60",
     "Quantidade de Gemas Inviáveis": "0",
-    "Fazenda": NaN
+    "Fazenda": null,
+    "Unnamed: 20": null
   },
   {
     "ID": "3574215",
@@ -27146,7 +28383,8 @@ const VIABILIDADE_GEMAS_DATA = [
     "Quantidade de Gemas Total": "54",
     "Quantidade de Gemas Viáveis": "54",
     "Quantidade de Gemas Inviáveis": "0",
-    "Fazenda": NaN
+    "Fazenda": null,
+    "Unnamed: 20": null
   },
   {
     "ID": "3574214",
@@ -27168,7 +28406,8 @@ const VIABILIDADE_GEMAS_DATA = [
     "Quantidade de Gemas Total": "48",
     "Quantidade de Gemas Viáveis": "48",
     "Quantidade de Gemas Inviáveis": "0",
-    "Fazenda": NaN
+    "Fazenda": null,
+    "Unnamed: 20": null
   },
   {
     "ID": "3574213",
@@ -27190,7 +28429,8 @@ const VIABILIDADE_GEMAS_DATA = [
     "Quantidade de Gemas Total": "57",
     "Quantidade de Gemas Viáveis": "57",
     "Quantidade de Gemas Inviáveis": "0",
-    "Fazenda": NaN
+    "Fazenda": null,
+    "Unnamed: 20": null
   },
   {
     "ID": "3574212",
@@ -27212,7 +28452,8 @@ const VIABILIDADE_GEMAS_DATA = [
     "Quantidade de Gemas Total": "59",
     "Quantidade de Gemas Viáveis": "58",
     "Quantidade de Gemas Inviáveis": "1",
-    "Fazenda": NaN
+    "Fazenda": null,
+    "Unnamed: 20": null
   },
   {
     "ID": "3574211",
@@ -27234,7 +28475,8 @@ const VIABILIDADE_GEMAS_DATA = [
     "Quantidade de Gemas Total": "53",
     "Quantidade de Gemas Viáveis": "53",
     "Quantidade de Gemas Inviáveis": "0",
-    "Fazenda": NaN
+    "Fazenda": null,
+    "Unnamed: 20": null
   },
   {
     "ID": "3574495",
@@ -27256,7 +28498,8 @@ const VIABILIDADE_GEMAS_DATA = [
     "Quantidade de Gemas Total": "49",
     "Quantidade de Gemas Viáveis": "49",
     "Quantidade de Gemas Inviáveis": "0",
-    "Fazenda": NaN
+    "Fazenda": null,
+    "Unnamed: 20": null
   },
   {
     "ID": "3574422",
@@ -27278,7 +28521,8 @@ const VIABILIDADE_GEMAS_DATA = [
     "Quantidade de Gemas Total": "54",
     "Quantidade de Gemas Viáveis": "54",
     "Quantidade de Gemas Inviáveis": "0",
-    "Fazenda": NaN
+    "Fazenda": null,
+    "Unnamed: 20": null
   },
   {
     "ID": "3574491",
@@ -27300,7 +28544,8 @@ const VIABILIDADE_GEMAS_DATA = [
     "Quantidade de Gemas Total": "49",
     "Quantidade de Gemas Viáveis": "48",
     "Quantidade de Gemas Inviáveis": "1",
-    "Fazenda": NaN
+    "Fazenda": null,
+    "Unnamed: 20": null
   },
   {
     "ID": "3574408",
@@ -27322,7 +28567,8 @@ const VIABILIDADE_GEMAS_DATA = [
     "Quantidade de Gemas Total": "57",
     "Quantidade de Gemas Viáveis": "57",
     "Quantidade de Gemas Inviáveis": "0",
-    "Fazenda": NaN
+    "Fazenda": null,
+    "Unnamed: 20": null
   },
   {
     "ID": "3574487",
@@ -27344,7 +28590,8 @@ const VIABILIDADE_GEMAS_DATA = [
     "Quantidade de Gemas Total": "48",
     "Quantidade de Gemas Viáveis": "48",
     "Quantidade de Gemas Inviáveis": "0",
-    "Fazenda": NaN
+    "Fazenda": null,
+    "Unnamed: 20": null
   },
   {
     "ID": "3574403",
@@ -27366,7 +28613,8 @@ const VIABILIDADE_GEMAS_DATA = [
     "Quantidade de Gemas Total": "55",
     "Quantidade de Gemas Viáveis": "55",
     "Quantidade de Gemas Inviáveis": "0",
-    "Fazenda": NaN
+    "Fazenda": null,
+    "Unnamed: 20": null
   },
   {
     "ID": "3574398",
@@ -27388,7 +28636,8 @@ const VIABILIDADE_GEMAS_DATA = [
     "Quantidade de Gemas Total": "55",
     "Quantidade de Gemas Viáveis": "55",
     "Quantidade de Gemas Inviáveis": "0",
-    "Fazenda": NaN
+    "Fazenda": null,
+    "Unnamed: 20": null
   },
   {
     "ID": "3574476",
@@ -27410,7 +28659,8 @@ const VIABILIDADE_GEMAS_DATA = [
     "Quantidade de Gemas Total": "53",
     "Quantidade de Gemas Viáveis": "52",
     "Quantidade de Gemas Inviáveis": "1",
-    "Fazenda": NaN
+    "Fazenda": null,
+    "Unnamed: 20": null
   },
   {
     "ID": "3574680",
@@ -27432,7 +28682,8 @@ const VIABILIDADE_GEMAS_DATA = [
     "Quantidade de Gemas Total": "57",
     "Quantidade de Gemas Viáveis": "57",
     "Quantidade de Gemas Inviáveis": "0",
-    "Fazenda": NaN
+    "Fazenda": null,
+    "Unnamed: 20": null
   },
   {
     "ID": "3574472",
@@ -27454,7 +28705,8 @@ const VIABILIDADE_GEMAS_DATA = [
     "Quantidade de Gemas Total": "51",
     "Quantidade de Gemas Viáveis": "50",
     "Quantidade de Gemas Inviáveis": "1",
-    "Fazenda": NaN
+    "Fazenda": null,
+    "Unnamed: 20": null
   },
   {
     "ID": "3574468",
@@ -27476,7 +28728,8 @@ const VIABILIDADE_GEMAS_DATA = [
     "Quantidade de Gemas Total": "51",
     "Quantidade de Gemas Viáveis": "48",
     "Quantidade de Gemas Inviáveis": "3",
-    "Fazenda": NaN
+    "Fazenda": null,
+    "Unnamed: 20": null
   },
   {
     "ID": "3574389",
@@ -27498,7 +28751,8 @@ const VIABILIDADE_GEMAS_DATA = [
     "Quantidade de Gemas Total": "58",
     "Quantidade de Gemas Viáveis": "58",
     "Quantidade de Gemas Inviáveis": "0",
-    "Fazenda": NaN
+    "Fazenda": null,
+    "Unnamed: 20": null
   },
   {
     "ID": "3574384",
@@ -27520,7 +28774,8 @@ const VIABILIDADE_GEMAS_DATA = [
     "Quantidade de Gemas Total": "60",
     "Quantidade de Gemas Viáveis": "60",
     "Quantidade de Gemas Inviáveis": "0",
-    "Fazenda": NaN
+    "Fazenda": null,
+    "Unnamed: 20": null
   },
   {
     "ID": "3572728",
@@ -27542,7 +28797,8 @@ const VIABILIDADE_GEMAS_DATA = [
     "Quantidade de Gemas Total": "61",
     "Quantidade de Gemas Viáveis": "61",
     "Quantidade de Gemas Inviáveis": "0",
-    "Fazenda": NaN
+    "Fazenda": null,
+    "Unnamed: 20": null
   },
   {
     "ID": "3572722",
@@ -27564,7 +28820,8 @@ const VIABILIDADE_GEMAS_DATA = [
     "Quantidade de Gemas Total": "52",
     "Quantidade de Gemas Viáveis": "52",
     "Quantidade de Gemas Inviáveis": "0",
-    "Fazenda": NaN
+    "Fazenda": null,
+    "Unnamed: 20": null
   },
   {
     "ID": "3572764",
@@ -27586,7 +28843,8 @@ const VIABILIDADE_GEMAS_DATA = [
     "Quantidade de Gemas Total": "55",
     "Quantidade de Gemas Viáveis": "55",
     "Quantidade de Gemas Inviáveis": "0",
-    "Fazenda": NaN
+    "Fazenda": null,
+    "Unnamed: 20": null
   },
   {
     "ID": "3572634",
@@ -27608,7 +28866,8 @@ const VIABILIDADE_GEMAS_DATA = [
     "Quantidade de Gemas Total": "56",
     "Quantidade de Gemas Viáveis": "54",
     "Quantidade de Gemas Inviáveis": "2",
-    "Fazenda": NaN
+    "Fazenda": null,
+    "Unnamed: 20": null
   },
   {
     "ID": "3572759",
@@ -27630,7 +28889,8 @@ const VIABILIDADE_GEMAS_DATA = [
     "Quantidade de Gemas Total": "56",
     "Quantidade de Gemas Viáveis": "56",
     "Quantidade de Gemas Inviáveis": "0",
-    "Fazenda": NaN
+    "Fazenda": null,
+    "Unnamed: 20": null
   },
   {
     "ID": "3572608",
@@ -27652,7 +28912,8 @@ const VIABILIDADE_GEMAS_DATA = [
     "Quantidade de Gemas Total": "53",
     "Quantidade de Gemas Viáveis": "53",
     "Quantidade de Gemas Inviáveis": "0",
-    "Fazenda": NaN
+    "Fazenda": null,
+    "Unnamed: 20": null
   },
   {
     "ID": "3572717",
@@ -27674,7 +28935,8 @@ const VIABILIDADE_GEMAS_DATA = [
     "Quantidade de Gemas Total": "63",
     "Quantidade de Gemas Viáveis": "63",
     "Quantidade de Gemas Inviáveis": "0",
-    "Fazenda": NaN
+    "Fazenda": null,
+    "Unnamed: 20": null
   },
   {
     "ID": "3572712",
@@ -27696,7 +28958,8 @@ const VIABILIDADE_GEMAS_DATA = [
     "Quantidade de Gemas Total": "51",
     "Quantidade de Gemas Viáveis": "51",
     "Quantidade de Gemas Inviáveis": "0",
-    "Fazenda": NaN
+    "Fazenda": null,
+    "Unnamed: 20": null
   },
   {
     "ID": "3572753",
@@ -27718,7 +28981,8 @@ const VIABILIDADE_GEMAS_DATA = [
     "Quantidade de Gemas Total": "59",
     "Quantidade de Gemas Viáveis": "59",
     "Quantidade de Gemas Inviáveis": "0",
-    "Fazenda": NaN
+    "Fazenda": null,
+    "Unnamed: 20": null
   },
   {
     "ID": "3572604",
@@ -27740,7 +29004,8 @@ const VIABILIDADE_GEMAS_DATA = [
     "Quantidade de Gemas Total": "57",
     "Quantidade de Gemas Viáveis": "54",
     "Quantidade de Gemas Inviáveis": "3",
-    "Fazenda": NaN
+    "Fazenda": null,
+    "Unnamed: 20": null
   },
   {
     "ID": "3572748",
@@ -27762,7 +29027,8 @@ const VIABILIDADE_GEMAS_DATA = [
     "Quantidade de Gemas Total": "56",
     "Quantidade de Gemas Viáveis": "56",
     "Quantidade de Gemas Inviáveis": "0",
-    "Fazenda": NaN
+    "Fazenda": null,
+    "Unnamed: 20": null
   },
   {
     "ID": "3572707",
@@ -27784,7 +29050,8 @@ const VIABILIDADE_GEMAS_DATA = [
     "Quantidade de Gemas Total": "51",
     "Quantidade de Gemas Viáveis": "51",
     "Quantidade de Gemas Inviáveis": "0",
-    "Fazenda": NaN
+    "Fazenda": null,
+    "Unnamed: 20": null
   },
   {
     "ID": "3572592",
@@ -27806,7 +29073,8 @@ const VIABILIDADE_GEMAS_DATA = [
     "Quantidade de Gemas Total": "59",
     "Quantidade de Gemas Viáveis": "59",
     "Quantidade de Gemas Inviáveis": "0",
-    "Fazenda": NaN
+    "Fazenda": null,
+    "Unnamed: 20": null
   },
   {
     "ID": "3572702",
@@ -27828,7 +29096,8 @@ const VIABILIDADE_GEMAS_DATA = [
     "Quantidade de Gemas Total": "49",
     "Quantidade de Gemas Viáveis": "49",
     "Quantidade de Gemas Inviáveis": "0",
-    "Fazenda": NaN
+    "Fazenda": null,
+    "Unnamed: 20": null
   },
   {
     "ID": "3572586",
@@ -27850,7 +29119,8 @@ const VIABILIDADE_GEMAS_DATA = [
     "Quantidade de Gemas Total": "56",
     "Quantidade de Gemas Viáveis": "56",
     "Quantidade de Gemas Inviáveis": "0",
-    "Fazenda": NaN
+    "Fazenda": null,
+    "Unnamed: 20": null
   },
   {
     "ID": "3572494",
@@ -27872,7 +29142,8 @@ const VIABILIDADE_GEMAS_DATA = [
     "Quantidade de Gemas Total": "48",
     "Quantidade de Gemas Viáveis": "48",
     "Quantidade de Gemas Inviáveis": "0",
-    "Fazenda": NaN
+    "Fazenda": null,
+    "Unnamed: 20": null
   },
   {
     "ID": "3572697",
@@ -27894,7 +29165,8 @@ const VIABILIDADE_GEMAS_DATA = [
     "Quantidade de Gemas Total": "50",
     "Quantidade de Gemas Viáveis": "50",
     "Quantidade de Gemas Inviáveis": "0",
-    "Fazenda": NaN
+    "Fazenda": null,
+    "Unnamed: 20": null
   },
   {
     "ID": "3572691",
@@ -27916,7 +29188,8 @@ const VIABILIDADE_GEMAS_DATA = [
     "Quantidade de Gemas Total": "59",
     "Quantidade de Gemas Viáveis": "59",
     "Quantidade de Gemas Inviáveis": "0",
-    "Fazenda": NaN
+    "Fazenda": null,
+    "Unnamed: 20": null
   },
   {
     "ID": "3572686",
@@ -27938,7 +29211,8 @@ const VIABILIDADE_GEMAS_DATA = [
     "Quantidade de Gemas Total": "54",
     "Quantidade de Gemas Viáveis": "54",
     "Quantidade de Gemas Inviáveis": "0",
-    "Fazenda": NaN
+    "Fazenda": null,
+    "Unnamed: 20": null
   },
   {
     "ID": "3572682",
@@ -27960,7 +29234,8 @@ const VIABILIDADE_GEMAS_DATA = [
     "Quantidade de Gemas Total": "48",
     "Quantidade de Gemas Viáveis": "48",
     "Quantidade de Gemas Inviáveis": "0",
-    "Fazenda": NaN
+    "Fazenda": null,
+    "Unnamed: 20": null
   },
   {
     "ID": "3572678",
@@ -27982,7 +29257,8 @@ const VIABILIDADE_GEMAS_DATA = [
     "Quantidade de Gemas Total": "52",
     "Quantidade de Gemas Viáveis": "52",
     "Quantidade de Gemas Inviáveis": "0",
-    "Fazenda": NaN
+    "Fazenda": null,
+    "Unnamed: 20": null
   },
   {
     "ID": "3572674",
@@ -28004,7 +29280,8 @@ const VIABILIDADE_GEMAS_DATA = [
     "Quantidade de Gemas Total": "53",
     "Quantidade de Gemas Viáveis": "53",
     "Quantidade de Gemas Inviáveis": "0",
-    "Fazenda": NaN
+    "Fazenda": null,
+    "Unnamed: 20": null
   },
   {
     "ID": "3572669",
@@ -28026,7 +29303,8 @@ const VIABILIDADE_GEMAS_DATA = [
     "Quantidade de Gemas Total": "52",
     "Quantidade de Gemas Viáveis": "52",
     "Quantidade de Gemas Inviáveis": "0",
-    "Fazenda": NaN
+    "Fazenda": null,
+    "Unnamed: 20": null
   },
   {
     "ID": "3572664",
@@ -28048,7 +29326,8 @@ const VIABILIDADE_GEMAS_DATA = [
     "Quantidade de Gemas Total": "49",
     "Quantidade de Gemas Viáveis": "49",
     "Quantidade de Gemas Inviáveis": "0",
-    "Fazenda": NaN
+    "Fazenda": null,
+    "Unnamed: 20": null
   },
   {
     "ID": "3572403",
@@ -28070,7 +29349,8 @@ const VIABILIDADE_GEMAS_DATA = [
     "Quantidade de Gemas Total": "53",
     "Quantidade de Gemas Viáveis": "53",
     "Quantidade de Gemas Inviáveis": "0",
-    "Fazenda": NaN
+    "Fazenda": null,
+    "Unnamed: 20": null
   },
   {
     "ID": "3572577",
@@ -28092,7 +29372,8 @@ const VIABILIDADE_GEMAS_DATA = [
     "Quantidade de Gemas Total": "58",
     "Quantidade de Gemas Viáveis": "58",
     "Quantidade de Gemas Inviáveis": "0",
-    "Fazenda": NaN
+    "Fazenda": null,
+    "Unnamed: 20": null
   },
   {
     "ID": "3572573",
@@ -28114,7 +29395,8 @@ const VIABILIDADE_GEMAS_DATA = [
     "Quantidade de Gemas Total": "60",
     "Quantidade de Gemas Viáveis": "60",
     "Quantidade de Gemas Inviáveis": "0",
-    "Fazenda": NaN
+    "Fazenda": null,
+    "Unnamed: 20": null
   },
   {
     "ID": "3572658",
@@ -28136,7 +29418,8 @@ const VIABILIDADE_GEMAS_DATA = [
     "Quantidade de Gemas Total": "60",
     "Quantidade de Gemas Viáveis": "60",
     "Quantidade de Gemas Inviáveis": "0",
-    "Fazenda": NaN
+    "Fazenda": null,
+    "Unnamed: 20": null
   },
   {
     "ID": "3572397",
@@ -28158,7 +29441,8 @@ const VIABILIDADE_GEMAS_DATA = [
     "Quantidade de Gemas Total": "51",
     "Quantidade de Gemas Viáveis": "51",
     "Quantidade de Gemas Inviáveis": "0",
-    "Fazenda": NaN
+    "Fazenda": null,
+    "Unnamed: 20": null
   },
   {
     "ID": "3572653",
@@ -28180,7 +29464,8 @@ const VIABILIDADE_GEMAS_DATA = [
     "Quantidade de Gemas Total": "63",
     "Quantidade de Gemas Viáveis": "63",
     "Quantidade de Gemas Inviáveis": "0",
-    "Fazenda": NaN
+    "Fazenda": null,
+    "Unnamed: 20": null
   },
   {
     "ID": "3572648",
@@ -28202,7 +29487,8 @@ const VIABILIDADE_GEMAS_DATA = [
     "Quantidade de Gemas Total": "61",
     "Quantidade de Gemas Viáveis": "61",
     "Quantidade de Gemas Inviáveis": "0",
-    "Fazenda": NaN
+    "Fazenda": null,
+    "Unnamed: 20": null
   },
   {
     "ID": "3572390",
@@ -28224,7 +29510,8 @@ const VIABILIDADE_GEMAS_DATA = [
     "Quantidade de Gemas Total": "53",
     "Quantidade de Gemas Viáveis": "53",
     "Quantidade de Gemas Inviáveis": "0",
-    "Fazenda": NaN
+    "Fazenda": null,
+    "Unnamed: 20": null
   },
   {
     "ID": "3572639",
@@ -28246,7 +29533,8 @@ const VIABILIDADE_GEMAS_DATA = [
     "Quantidade de Gemas Total": "59",
     "Quantidade de Gemas Viáveis": "59",
     "Quantidade de Gemas Inviáveis": "0",
-    "Fazenda": NaN
+    "Fazenda": null,
+    "Unnamed: 20": null
   },
   {
     "ID": "3572643",
@@ -28268,7 +29556,8 @@ const VIABILIDADE_GEMAS_DATA = [
     "Quantidade de Gemas Total": "55",
     "Quantidade de Gemas Viáveis": "55",
     "Quantidade de Gemas Inviáveis": "0",
-    "Fazenda": NaN
+    "Fazenda": null,
+    "Unnamed: 20": null
   },
   {
     "ID": "3572190",
@@ -28290,7 +29579,8 @@ const VIABILIDADE_GEMAS_DATA = [
     "Quantidade de Gemas Total": "58",
     "Quantidade de Gemas Viáveis": "58",
     "Quantidade de Gemas Inviáveis": "0",
-    "Fazenda": NaN
+    "Fazenda": null,
+    "Unnamed: 20": null
   },
   {
     "ID": "3572488",
@@ -28312,7 +29602,8 @@ const VIABILIDADE_GEMAS_DATA = [
     "Quantidade de Gemas Total": "63",
     "Quantidade de Gemas Viáveis": "63",
     "Quantidade de Gemas Inviáveis": "0",
-    "Fazenda": NaN
+    "Fazenda": null,
+    "Unnamed: 20": null
   },
   {
     "ID": "3572185",
@@ -28334,7 +29625,8 @@ const VIABILIDADE_GEMAS_DATA = [
     "Quantidade de Gemas Total": "60",
     "Quantidade de Gemas Viáveis": "60",
     "Quantidade de Gemas Inviáveis": "0",
-    "Fazenda": NaN
+    "Fazenda": null,
+    "Unnamed: 20": null
   },
   {
     "ID": "3572566",
@@ -28356,7 +29648,8 @@ const VIABILIDADE_GEMAS_DATA = [
     "Quantidade de Gemas Total": "61",
     "Quantidade de Gemas Viáveis": "61",
     "Quantidade de Gemas Inviáveis": "0",
-    "Fazenda": NaN
+    "Fazenda": null,
+    "Unnamed: 20": null
   },
   {
     "ID": "3572180",
@@ -28378,7 +29671,8 @@ const VIABILIDADE_GEMAS_DATA = [
     "Quantidade de Gemas Total": "56",
     "Quantidade de Gemas Viáveis": "56",
     "Quantidade de Gemas Inviáveis": "0",
-    "Fazenda": NaN
+    "Fazenda": null,
+    "Unnamed: 20": null
   },
   {
     "ID": "3572483",
@@ -28400,7 +29694,8 @@ const VIABILIDADE_GEMAS_DATA = [
     "Quantidade de Gemas Total": "48",
     "Quantidade de Gemas Viáveis": "48",
     "Quantidade de Gemas Inviáveis": "0",
-    "Fazenda": NaN
+    "Fazenda": null,
+    "Unnamed: 20": null
   },
   {
     "ID": "3572176",
@@ -28422,7 +29717,8 @@ const VIABILIDADE_GEMAS_DATA = [
     "Quantidade de Gemas Total": "58",
     "Quantidade de Gemas Viáveis": "58",
     "Quantidade de Gemas Inviáveis": "0",
-    "Fazenda": NaN
+    "Fazenda": null,
+    "Unnamed: 20": null
   },
   {
     "ID": "3572171",
@@ -28444,7 +29740,8 @@ const VIABILIDADE_GEMAS_DATA = [
     "Quantidade de Gemas Total": "55",
     "Quantidade de Gemas Viáveis": "55",
     "Quantidade de Gemas Inviáveis": "0",
-    "Fazenda": NaN
+    "Fazenda": null,
+    "Unnamed: 20": null
   },
   {
     "ID": "3572552",
@@ -28466,7 +29763,8 @@ const VIABILIDADE_GEMAS_DATA = [
     "Quantidade de Gemas Total": "63",
     "Quantidade de Gemas Viáveis": "63",
     "Quantidade de Gemas Inviáveis": "0",
-    "Fazenda": NaN
+    "Fazenda": null,
+    "Unnamed: 20": null
   },
   {
     "ID": "3572535",
@@ -28488,7 +29786,8 @@ const VIABILIDADE_GEMAS_DATA = [
     "Quantidade de Gemas Total": "57",
     "Quantidade de Gemas Viáveis": "57",
     "Quantidade de Gemas Inviáveis": "0",
-    "Fazenda": NaN
+    "Fazenda": null,
+    "Unnamed: 20": null
   },
   {
     "ID": "3572522",
@@ -28510,7 +29809,8 @@ const VIABILIDADE_GEMAS_DATA = [
     "Quantidade de Gemas Total": "54",
     "Quantidade de Gemas Viáveis": "53",
     "Quantidade de Gemas Inviáveis": "1",
-    "Fazenda": NaN
+    "Fazenda": null,
+    "Unnamed: 20": null
   },
   {
     "ID": "3570508",
@@ -28532,7 +29832,8 @@ const VIABILIDADE_GEMAS_DATA = [
     "Quantidade de Gemas Total": "58",
     "Quantidade de Gemas Viáveis": "57",
     "Quantidade de Gemas Inviáveis": "1",
-    "Fazenda": NaN
+    "Fazenda": null,
+    "Unnamed: 20": null
   },
   {
     "ID": "3570292",
@@ -28554,7 +29855,8 @@ const VIABILIDADE_GEMAS_DATA = [
     "Quantidade de Gemas Total": "59",
     "Quantidade de Gemas Viáveis": "59",
     "Quantidade de Gemas Inviáveis": "0",
-    "Fazenda": NaN
+    "Fazenda": null,
+    "Unnamed: 20": null
   },
   {
     "ID": "3570291",
@@ -28576,7 +29878,8 @@ const VIABILIDADE_GEMAS_DATA = [
     "Quantidade de Gemas Total": "61",
     "Quantidade de Gemas Viáveis": "60",
     "Quantidade de Gemas Inviáveis": "1",
-    "Fazenda": NaN
+    "Fazenda": null,
+    "Unnamed: 20": null
   },
   {
     "ID": "3570503",
@@ -28598,7 +29901,8 @@ const VIABILIDADE_GEMAS_DATA = [
     "Quantidade de Gemas Total": "50",
     "Quantidade de Gemas Viáveis": "50",
     "Quantidade de Gemas Inviáveis": "0",
-    "Fazenda": NaN
+    "Fazenda": null,
+    "Unnamed: 20": null
   },
   {
     "ID": "3570498",
@@ -28620,7 +29924,8 @@ const VIABILIDADE_GEMAS_DATA = [
     "Quantidade de Gemas Total": "48",
     "Quantidade de Gemas Viáveis": "48",
     "Quantidade de Gemas Inviáveis": "0",
-    "Fazenda": NaN
+    "Fazenda": null,
+    "Unnamed: 20": null
   },
   {
     "ID": "3570494",
@@ -28642,7 +29947,8 @@ const VIABILIDADE_GEMAS_DATA = [
     "Quantidade de Gemas Total": "63",
     "Quantidade de Gemas Viáveis": "63",
     "Quantidade de Gemas Inviáveis": "0",
-    "Fazenda": NaN
+    "Fazenda": null,
+    "Unnamed: 20": null
   },
   {
     "ID": "3571040",
@@ -28664,7 +29970,8 @@ const VIABILIDADE_GEMAS_DATA = [
     "Quantidade de Gemas Total": "58",
     "Quantidade de Gemas Viáveis": "58",
     "Quantidade de Gemas Inviáveis": "0",
-    "Fazenda": NaN
+    "Fazenda": null,
+    "Unnamed: 20": null
   },
   {
     "ID": "3571035",
@@ -28686,7 +29993,8 @@ const VIABILIDADE_GEMAS_DATA = [
     "Quantidade de Gemas Total": "56",
     "Quantidade de Gemas Viáveis": "56",
     "Quantidade de Gemas Inviáveis": "0",
-    "Fazenda": NaN
+    "Fazenda": null,
+    "Unnamed: 20": null
   },
   {
     "ID": "3569988",
@@ -28708,7 +30016,8 @@ const VIABILIDADE_GEMAS_DATA = [
     "Quantidade de Gemas Total": "57",
     "Quantidade de Gemas Viáveis": "57",
     "Quantidade de Gemas Inviáveis": "0",
-    "Fazenda": NaN
+    "Fazenda": null,
+    "Unnamed: 20": null
   },
   {
     "ID": "3569987",
@@ -28730,7 +30039,8 @@ const VIABILIDADE_GEMAS_DATA = [
     "Quantidade de Gemas Total": "59",
     "Quantidade de Gemas Viáveis": "58",
     "Quantidade de Gemas Inviáveis": "1",
-    "Fazenda": NaN
+    "Fazenda": null,
+    "Unnamed: 20": null
   },
   {
     "ID": "3569986",
@@ -28752,7 +30062,8 @@ const VIABILIDADE_GEMAS_DATA = [
     "Quantidade de Gemas Total": "56",
     "Quantidade de Gemas Viáveis": "56",
     "Quantidade de Gemas Inviáveis": "0",
-    "Fazenda": NaN
+    "Fazenda": null,
+    "Unnamed: 20": null
   },
   {
     "ID": "3570254",
@@ -28774,7 +30085,8 @@ const VIABILIDADE_GEMAS_DATA = [
     "Quantidade de Gemas Total": "59",
     "Quantidade de Gemas Viáveis": "59",
     "Quantidade de Gemas Inviáveis": "0",
-    "Fazenda": NaN
+    "Fazenda": null,
+    "Unnamed: 20": null
   },
   {
     "ID": "3569922",
@@ -28796,7 +30108,8 @@ const VIABILIDADE_GEMAS_DATA = [
     "Quantidade de Gemas Total": "56",
     "Quantidade de Gemas Viáveis": "56",
     "Quantidade de Gemas Inviáveis": "0",
-    "Fazenda": NaN
+    "Fazenda": null,
+    "Unnamed: 20": null
   },
   {
     "ID": "3569919",
@@ -28818,7 +30131,8 @@ const VIABILIDADE_GEMAS_DATA = [
     "Quantidade de Gemas Total": "59",
     "Quantidade de Gemas Viáveis": "59",
     "Quantidade de Gemas Inviáveis": "0",
-    "Fazenda": NaN
+    "Fazenda": null,
+    "Unnamed: 20": null
   },
   {
     "ID": "3569915",
@@ -28840,7 +30154,8 @@ const VIABILIDADE_GEMAS_DATA = [
     "Quantidade de Gemas Total": "57",
     "Quantidade de Gemas Viáveis": "57",
     "Quantidade de Gemas Inviáveis": "0",
-    "Fazenda": NaN
+    "Fazenda": null,
+    "Unnamed: 20": null
   },
   {
     "ID": "3569869",
@@ -28862,7 +30177,8 @@ const VIABILIDADE_GEMAS_DATA = [
     "Quantidade de Gemas Total": "58",
     "Quantidade de Gemas Viáveis": "58",
     "Quantidade de Gemas Inviáveis": "0",
-    "Fazenda": NaN
+    "Fazenda": null,
+    "Unnamed: 20": null
   },
   {
     "ID": "3570489",
@@ -28884,7 +30200,8 @@ const VIABILIDADE_GEMAS_DATA = [
     "Quantidade de Gemas Total": "50",
     "Quantidade de Gemas Viáveis": "50",
     "Quantidade de Gemas Inviáveis": "0",
-    "Fazenda": NaN
+    "Fazenda": null,
+    "Unnamed: 20": null
   },
   {
     "ID": "3570062",
@@ -28906,7 +30223,8 @@ const VIABILIDADE_GEMAS_DATA = [
     "Quantidade de Gemas Total": "59",
     "Quantidade de Gemas Viáveis": "59",
     "Quantidade de Gemas Inviáveis": "0",
-    "Fazenda": NaN
+    "Fazenda": null,
+    "Unnamed: 20": null
   },
   {
     "ID": "3569864",
@@ -28928,7 +30246,8 @@ const VIABILIDADE_GEMAS_DATA = [
     "Quantidade de Gemas Total": "56",
     "Quantidade de Gemas Viáveis": "56",
     "Quantidade de Gemas Inviáveis": "0",
-    "Fazenda": NaN
+    "Fazenda": null,
+    "Unnamed: 20": null
   },
   {
     "ID": "3570482",
@@ -28950,7 +30269,8 @@ const VIABILIDADE_GEMAS_DATA = [
     "Quantidade de Gemas Total": "58",
     "Quantidade de Gemas Viáveis": "58",
     "Quantidade de Gemas Inviáveis": "0",
-    "Fazenda": NaN
+    "Fazenda": null,
+    "Unnamed: 20": null
   },
   {
     "ID": "3570060",
@@ -28972,7 +30292,8 @@ const VIABILIDADE_GEMAS_DATA = [
     "Quantidade de Gemas Total": "60",
     "Quantidade de Gemas Viáveis": "58",
     "Quantidade de Gemas Inviáveis": "2",
-    "Fazenda": NaN
+    "Fazenda": null,
+    "Unnamed: 20": null
   },
   {
     "ID": "3570476",
@@ -28994,7 +30315,8 @@ const VIABILIDADE_GEMAS_DATA = [
     "Quantidade de Gemas Total": "48",
     "Quantidade de Gemas Viáveis": "48",
     "Quantidade de Gemas Inviáveis": "0",
-    "Fazenda": NaN
+    "Fazenda": null,
+    "Unnamed: 20": null
   },
   {
     "ID": "3570054",
@@ -29016,7 +30338,8 @@ const VIABILIDADE_GEMAS_DATA = [
     "Quantidade de Gemas Total": "64",
     "Quantidade de Gemas Viáveis": "60",
     "Quantidade de Gemas Inviáveis": "4",
-    "Fazenda": NaN
+    "Fazenda": null,
+    "Unnamed: 20": null
   },
   {
     "ID": "3570132",
@@ -29038,7 +30361,8 @@ const VIABILIDADE_GEMAS_DATA = [
     "Quantidade de Gemas Total": "58",
     "Quantidade de Gemas Viáveis": "58",
     "Quantidade de Gemas Inviáveis": "0",
-    "Fazenda": NaN
+    "Fazenda": null,
+    "Unnamed: 20": null
   },
   {
     "ID": "3569850",
@@ -29060,7 +30384,8 @@ const VIABILIDADE_GEMAS_DATA = [
     "Quantidade de Gemas Total": "54",
     "Quantidade de Gemas Viáveis": "54",
     "Quantidade de Gemas Inviáveis": "0",
-    "Fazenda": NaN
+    "Fazenda": null,
+    "Unnamed: 20": null
   },
   {
     "ID": "3569845",
@@ -29082,7 +30407,8 @@ const VIABILIDADE_GEMAS_DATA = [
     "Quantidade de Gemas Total": "58",
     "Quantidade de Gemas Viáveis": "58",
     "Quantidade de Gemas Inviáveis": "0",
-    "Fazenda": NaN
+    "Fazenda": null,
+    "Unnamed: 20": null
   },
   {
     "ID": "3570127",
@@ -29104,7 +30430,8 @@ const VIABILIDADE_GEMAS_DATA = [
     "Quantidade de Gemas Total": "59",
     "Quantidade de Gemas Viáveis": "59",
     "Quantidade de Gemas Inviáveis": "0",
-    "Fazenda": NaN
+    "Fazenda": null,
+    "Unnamed: 20": null
   },
   {
     "ID": "3569839",
@@ -29126,7 +30453,8 @@ const VIABILIDADE_GEMAS_DATA = [
     "Quantidade de Gemas Total": "57",
     "Quantidade de Gemas Viáveis": "57",
     "Quantidade de Gemas Inviáveis": "0",
-    "Fazenda": NaN
+    "Fazenda": null,
+    "Unnamed: 20": null
   },
   {
     "ID": "3570122",
@@ -29148,7 +30476,8 @@ const VIABILIDADE_GEMAS_DATA = [
     "Quantidade de Gemas Total": "64",
     "Quantidade de Gemas Viáveis": "64",
     "Quantidade de Gemas Inviáveis": "0",
-    "Fazenda": NaN
+    "Fazenda": null,
+    "Unnamed: 20": null
   },
   {
     "ID": "3569835",
@@ -29170,7 +30499,8 @@ const VIABILIDADE_GEMAS_DATA = [
     "Quantidade de Gemas Total": "54",
     "Quantidade de Gemas Viáveis": "54",
     "Quantidade de Gemas Inviáveis": "0",
-    "Fazenda": NaN
+    "Fazenda": null,
+    "Unnamed: 20": null
   },
   {
     "ID": "3570117",
@@ -29192,7 +30522,8 @@ const VIABILIDADE_GEMAS_DATA = [
     "Quantidade de Gemas Total": "60",
     "Quantidade de Gemas Viáveis": "60",
     "Quantidade de Gemas Inviáveis": "0",
-    "Fazenda": NaN
+    "Fazenda": null,
+    "Unnamed: 20": null
   },
   {
     "ID": "3570042",
@@ -29214,7 +30545,8 @@ const VIABILIDADE_GEMAS_DATA = [
     "Quantidade de Gemas Total": "63",
     "Quantidade de Gemas Viáveis": "60",
     "Quantidade de Gemas Inviáveis": "3",
-    "Fazenda": NaN
+    "Fazenda": null,
+    "Unnamed: 20": null
   },
   {
     "ID": "3569828",
@@ -29236,7 +30568,8 @@ const VIABILIDADE_GEMAS_DATA = [
     "Quantidade de Gemas Total": "60",
     "Quantidade de Gemas Viáveis": "60",
     "Quantidade de Gemas Inviáveis": "0",
-    "Fazenda": NaN
+    "Fazenda": null,
+    "Unnamed: 20": null
   },
   {
     "ID": "3570112",
@@ -29258,7 +30591,8 @@ const VIABILIDADE_GEMAS_DATA = [
     "Quantidade de Gemas Total": "56",
     "Quantidade de Gemas Viáveis": "55",
     "Quantidade de Gemas Inviáveis": "1",
-    "Fazenda": NaN
+    "Fazenda": null,
+    "Unnamed: 20": null
   },
   {
     "ID": "3569823",
@@ -29280,7 +30614,8 @@ const VIABILIDADE_GEMAS_DATA = [
     "Quantidade de Gemas Total": "56",
     "Quantidade de Gemas Viáveis": "56",
     "Quantidade de Gemas Inviáveis": "0",
-    "Fazenda": NaN
+    "Fazenda": null,
+    "Unnamed: 20": null
   },
   {
     "ID": "3569819",
@@ -29302,7 +30637,8 @@ const VIABILIDADE_GEMAS_DATA = [
     "Quantidade de Gemas Total": "58",
     "Quantidade de Gemas Viáveis": "58",
     "Quantidade de Gemas Inviáveis": "0",
-    "Fazenda": NaN
+    "Fazenda": null,
+    "Unnamed: 20": null
   },
   {
     "ID": "3569813",
@@ -29324,7 +30660,8 @@ const VIABILIDADE_GEMAS_DATA = [
     "Quantidade de Gemas Total": "55",
     "Quantidade de Gemas Viáveis": "55",
     "Quantidade de Gemas Inviáveis": "0",
-    "Fazenda": NaN
+    "Fazenda": null,
+    "Unnamed: 20": null
   },
   {
     "ID": "3567582",
@@ -29346,7 +30683,8 @@ const VIABILIDADE_GEMAS_DATA = [
     "Quantidade de Gemas Total": "62",
     "Quantidade de Gemas Viáveis": "60",
     "Quantidade de Gemas Inviáveis": "2",
-    "Fazenda": NaN
+    "Fazenda": null,
+    "Unnamed: 20": null
   },
   {
     "ID": "3567581",
@@ -29368,7 +30706,8 @@ const VIABILIDADE_GEMAS_DATA = [
     "Quantidade de Gemas Total": "59",
     "Quantidade de Gemas Viáveis": "58",
     "Quantidade de Gemas Inviáveis": "1",
-    "Fazenda": NaN
+    "Fazenda": null,
+    "Unnamed: 20": null
   },
   {
     "ID": "3568442",
@@ -29390,7 +30729,8 @@ const VIABILIDADE_GEMAS_DATA = [
     "Quantidade de Gemas Total": "65",
     "Quantidade de Gemas Viáveis": "65",
     "Quantidade de Gemas Inviáveis": "0",
-    "Fazenda": NaN
+    "Fazenda": null,
+    "Unnamed: 20": null
   },
   {
     "ID": "3568437",
@@ -29412,7 +30752,8 @@ const VIABILIDADE_GEMAS_DATA = [
     "Quantidade de Gemas Total": "63",
     "Quantidade de Gemas Viáveis": "63",
     "Quantidade de Gemas Inviáveis": "0",
-    "Fazenda": NaN
+    "Fazenda": null,
+    "Unnamed: 20": null
   },
   {
     "ID": "3567607",
@@ -29434,7 +30775,8 @@ const VIABILIDADE_GEMAS_DATA = [
     "Quantidade de Gemas Total": "55",
     "Quantidade de Gemas Viáveis": "55",
     "Quantidade de Gemas Inviáveis": "0",
-    "Fazenda": NaN
+    "Fazenda": null,
+    "Unnamed: 20": null
   },
   {
     "ID": "3567604",
@@ -29456,7 +30798,8 @@ const VIABILIDADE_GEMAS_DATA = [
     "Quantidade de Gemas Total": "58",
     "Quantidade de Gemas Viáveis": "58",
     "Quantidade de Gemas Inviáveis": "0",
-    "Fazenda": NaN
+    "Fazenda": null,
+    "Unnamed: 20": null
   },
   {
     "ID": "3567596",
@@ -29478,7 +30821,8 @@ const VIABILIDADE_GEMAS_DATA = [
     "Quantidade de Gemas Total": "56",
     "Quantidade de Gemas Viáveis": "56",
     "Quantidade de Gemas Inviáveis": "0",
-    "Fazenda": NaN
+    "Fazenda": null,
+    "Unnamed: 20": null
   },
   {
     "ID": "3567318",
@@ -29500,7 +30844,8 @@ const VIABILIDADE_GEMAS_DATA = [
     "Quantidade de Gemas Total": "62",
     "Quantidade de Gemas Viáveis": "61",
     "Quantidade de Gemas Inviáveis": "1",
-    "Fazenda": NaN
+    "Fazenda": null,
+    "Unnamed: 20": null
   },
   {
     "ID": "3567362",
@@ -29522,7 +30867,8 @@ const VIABILIDADE_GEMAS_DATA = [
     "Quantidade de Gemas Total": "64",
     "Quantidade de Gemas Viáveis": "60",
     "Quantidade de Gemas Inviáveis": "4",
-    "Fazenda": NaN
+    "Fazenda": null,
+    "Unnamed: 20": null
   },
   {
     "ID": "3567310",
@@ -29544,7 +30890,8 @@ const VIABILIDADE_GEMAS_DATA = [
     "Quantidade de Gemas Total": "60",
     "Quantidade de Gemas Viáveis": "60",
     "Quantidade de Gemas Inviáveis": "0",
-    "Fazenda": NaN
+    "Fazenda": null,
+    "Unnamed: 20": null
   },
   {
     "ID": "3567703",
@@ -29566,7 +30913,8 @@ const VIABILIDADE_GEMAS_DATA = [
     "Quantidade de Gemas Total": "51",
     "Quantidade de Gemas Viáveis": "51",
     "Quantidade de Gemas Inviáveis": "0",
-    "Fazenda": NaN
+    "Fazenda": null,
+    "Unnamed: 20": null
   },
   {
     "ID": "3567304",
@@ -29588,7 +30936,8 @@ const VIABILIDADE_GEMAS_DATA = [
     "Quantidade de Gemas Total": "57",
     "Quantidade de Gemas Viáveis": "57",
     "Quantidade de Gemas Inviáveis": "0",
-    "Fazenda": NaN
+    "Fazenda": null,
+    "Unnamed: 20": null
   },
   {
     "ID": "3567697",
@@ -29610,7 +30959,8 @@ const VIABILIDADE_GEMAS_DATA = [
     "Quantidade de Gemas Total": "49",
     "Quantidade de Gemas Viáveis": "49",
     "Quantidade de Gemas Inviáveis": "0",
-    "Fazenda": NaN
+    "Fazenda": null,
+    "Unnamed: 20": null
   },
   {
     "ID": "3567730",
@@ -29632,7 +30982,8 @@ const VIABILIDADE_GEMAS_DATA = [
     "Quantidade de Gemas Total": "54",
     "Quantidade de Gemas Viáveis": "54",
     "Quantidade de Gemas Inviáveis": "0",
-    "Fazenda": NaN
+    "Fazenda": null,
+    "Unnamed: 20": null
   },
   {
     "ID": "3567142",
@@ -29654,7 +31005,8 @@ const VIABILIDADE_GEMAS_DATA = [
     "Quantidade de Gemas Total": "60",
     "Quantidade de Gemas Viáveis": "60",
     "Quantidade de Gemas Inviáveis": "0",
-    "Fazenda": NaN
+    "Fazenda": null,
+    "Unnamed: 20": null
   },
   {
     "ID": "3567722",
@@ -29676,7 +31028,8 @@ const VIABILIDADE_GEMAS_DATA = [
     "Quantidade de Gemas Total": "52",
     "Quantidade de Gemas Viáveis": "52",
     "Quantidade de Gemas Inviáveis": "0",
-    "Fazenda": NaN
+    "Fazenda": null,
+    "Unnamed: 20": null
   },
   {
     "ID": "3567136",
@@ -29698,7 +31051,8 @@ const VIABILIDADE_GEMAS_DATA = [
     "Quantidade de Gemas Total": "59",
     "Quantidade de Gemas Viáveis": "59",
     "Quantidade de Gemas Inviáveis": "0",
-    "Fazenda": NaN
+    "Fazenda": null,
+    "Unnamed: 20": null
   },
   {
     "ID": "3567550",
@@ -29720,7 +31074,8 @@ const VIABILIDADE_GEMAS_DATA = [
     "Quantidade de Gemas Total": "56",
     "Quantidade de Gemas Viáveis": "56",
     "Quantidade de Gemas Inviáveis": "0",
-    "Fazenda": NaN
+    "Fazenda": null,
+    "Unnamed: 20": null
   },
   {
     "ID": "3567130",
@@ -29742,7 +31097,8 @@ const VIABILIDADE_GEMAS_DATA = [
     "Quantidade de Gemas Total": "54",
     "Quantidade de Gemas Viáveis": "54",
     "Quantidade de Gemas Inviáveis": "0",
-    "Fazenda": NaN
+    "Fazenda": null,
+    "Unnamed: 20": null
   },
   {
     "ID": "3567125",
@@ -29764,7 +31120,8 @@ const VIABILIDADE_GEMAS_DATA = [
     "Quantidade de Gemas Total": "56",
     "Quantidade de Gemas Viáveis": "56",
     "Quantidade de Gemas Inviáveis": "0",
-    "Fazenda": NaN
+    "Fazenda": null,
+    "Unnamed: 20": null
   },
   {
     "ID": "3567117",
@@ -29786,7 +31143,8 @@ const VIABILIDADE_GEMAS_DATA = [
     "Quantidade de Gemas Total": "55",
     "Quantidade de Gemas Viáveis": "55",
     "Quantidade de Gemas Inviáveis": "0",
-    "Fazenda": NaN
+    "Fazenda": null,
+    "Unnamed: 20": null
   },
   {
     "ID": "3567298",
@@ -29808,7 +31166,8 @@ const VIABILIDADE_GEMAS_DATA = [
     "Quantidade de Gemas Total": "64",
     "Quantidade de Gemas Viáveis": "64",
     "Quantidade de Gemas Inviáveis": "0",
-    "Fazenda": NaN
+    "Fazenda": null,
+    "Unnamed: 20": null
   },
   {
     "ID": "3567688",
@@ -29830,7 +31189,8 @@ const VIABILIDADE_GEMAS_DATA = [
     "Quantidade de Gemas Total": "62",
     "Quantidade de Gemas Viáveis": "62",
     "Quantidade de Gemas Inviáveis": "0",
-    "Fazenda": NaN
+    "Fazenda": null,
+    "Unnamed: 20": null
   },
   {
     "ID": "3567112",
@@ -29852,7 +31212,8 @@ const VIABILIDADE_GEMAS_DATA = [
     "Quantidade de Gemas Total": "57",
     "Quantidade de Gemas Viáveis": "57",
     "Quantidade de Gemas Inviáveis": "0",
-    "Fazenda": NaN
+    "Fazenda": null,
+    "Unnamed: 20": null
   },
   {
     "ID": "3567107",
@@ -29874,7 +31235,8 @@ const VIABILIDADE_GEMAS_DATA = [
     "Quantidade de Gemas Total": "56",
     "Quantidade de Gemas Viáveis": "56",
     "Quantidade de Gemas Inviáveis": "0",
-    "Fazenda": NaN
+    "Fazenda": null,
+    "Unnamed: 20": null
   },
   {
     "ID": "3567067",
@@ -29896,7 +31258,8 @@ const VIABILIDADE_GEMAS_DATA = [
     "Quantidade de Gemas Total": "60",
     "Quantidade de Gemas Viáveis": "58",
     "Quantidade de Gemas Inviáveis": "2",
-    "Fazenda": NaN
+    "Fazenda": null,
+    "Unnamed: 20": null
   },
   {
     "ID": "3567102",
@@ -29918,7 +31281,8 @@ const VIABILIDADE_GEMAS_DATA = [
     "Quantidade de Gemas Total": "56",
     "Quantidade de Gemas Viáveis": "56",
     "Quantidade de Gemas Inviáveis": "0",
-    "Fazenda": NaN
+    "Fazenda": null,
+    "Unnamed: 20": null
   },
   {
     "ID": "3567060",
@@ -29940,7 +31304,8 @@ const VIABILIDADE_GEMAS_DATA = [
     "Quantidade de Gemas Total": "64",
     "Quantidade de Gemas Viáveis": "61",
     "Quantidade de Gemas Inviáveis": "3",
-    "Fazenda": NaN
+    "Fazenda": null,
+    "Unnamed: 20": null
   },
   {
     "ID": "3567097",
@@ -29962,7 +31327,8 @@ const VIABILIDADE_GEMAS_DATA = [
     "Quantidade de Gemas Total": "58",
     "Quantidade de Gemas Viáveis": "58",
     "Quantidade de Gemas Inviáveis": "0",
-    "Fazenda": NaN
+    "Fazenda": null,
+    "Unnamed: 20": null
   },
   {
     "ID": "3567056",
@@ -29984,7 +31350,8 @@ const VIABILIDADE_GEMAS_DATA = [
     "Quantidade de Gemas Total": "65",
     "Quantidade de Gemas Viáveis": "60",
     "Quantidade de Gemas Inviáveis": "5",
-    "Fazenda": NaN
+    "Fazenda": null,
+    "Unnamed: 20": null
   },
   {
     "ID": "3567092",
@@ -30006,7 +31373,8 @@ const VIABILIDADE_GEMAS_DATA = [
     "Quantidade de Gemas Total": "54",
     "Quantidade de Gemas Viáveis": "54",
     "Quantidade de Gemas Inviáveis": "0",
-    "Fazenda": NaN
+    "Fazenda": null,
+    "Unnamed: 20": null
   },
   {
     "ID": "3565533",
@@ -30028,7 +31396,8 @@ const VIABILIDADE_GEMAS_DATA = [
     "Quantidade de Gemas Total": "62",
     "Quantidade de Gemas Viáveis": "62",
     "Quantidade de Gemas Inviáveis": "0",
-    "Fazenda": NaN
+    "Fazenda": null,
+    "Unnamed: 20": null
   },
   {
     "ID": "3565530",
@@ -30050,7 +31419,8 @@ const VIABILIDADE_GEMAS_DATA = [
     "Quantidade de Gemas Total": "59",
     "Quantidade de Gemas Viáveis": "59",
     "Quantidade de Gemas Inviáveis": "0",
-    "Fazenda": NaN
+    "Fazenda": null,
+    "Unnamed: 20": null
   },
   {
     "ID": "3565566",
@@ -30072,7 +31442,8 @@ const VIABILIDADE_GEMAS_DATA = [
     "Quantidade de Gemas Total": "60",
     "Quantidade de Gemas Viáveis": "60",
     "Quantidade de Gemas Inviáveis": "0",
-    "Fazenda": NaN
+    "Fazenda": null,
+    "Unnamed: 20": null
   },
   {
     "ID": "3565561",
@@ -30094,7 +31465,8 @@ const VIABILIDADE_GEMAS_DATA = [
     "Quantidade de Gemas Total": "55",
     "Quantidade de Gemas Viáveis": "52",
     "Quantidade de Gemas Inviáveis": "3",
-    "Fazenda": NaN
+    "Fazenda": null,
+    "Unnamed: 20": null
   },
   {
     "ID": "3565556",
@@ -30116,7 +31488,8 @@ const VIABILIDADE_GEMAS_DATA = [
     "Quantidade de Gemas Total": "55",
     "Quantidade de Gemas Viáveis": "52",
     "Quantidade de Gemas Inviáveis": "3",
-    "Fazenda": NaN
+    "Fazenda": null,
+    "Unnamed: 20": null
   },
   {
     "ID": "3565551",
@@ -30138,7 +31511,8 @@ const VIABILIDADE_GEMAS_DATA = [
     "Quantidade de Gemas Total": "51",
     "Quantidade de Gemas Viáveis": "50",
     "Quantidade de Gemas Inviáveis": "1",
-    "Fazenda": NaN
+    "Fazenda": null,
+    "Unnamed: 20": null
   },
   {
     "ID": "3562964",
@@ -30160,7 +31534,8 @@ const VIABILIDADE_GEMAS_DATA = [
     "Quantidade de Gemas Total": "60",
     "Quantidade de Gemas Viáveis": "58",
     "Quantidade de Gemas Inviáveis": "2",
-    "Fazenda": NaN
+    "Fazenda": null,
+    "Unnamed: 20": null
   },
   {
     "ID": "3562959",
@@ -30182,7 +31557,8 @@ const VIABILIDADE_GEMAS_DATA = [
     "Quantidade de Gemas Total": "60",
     "Quantidade de Gemas Viáveis": "57",
     "Quantidade de Gemas Inviáveis": "3",
-    "Fazenda": NaN
+    "Fazenda": null,
+    "Unnamed: 20": null
   },
   {
     "ID": "3562954",
@@ -30204,7 +31580,8 @@ const VIABILIDADE_GEMAS_DATA = [
     "Quantidade de Gemas Total": "59",
     "Quantidade de Gemas Viáveis": "56",
     "Quantidade de Gemas Inviáveis": "3",
-    "Fazenda": NaN
+    "Fazenda": null,
+    "Unnamed: 20": null
   },
   {
     "ID": "3560972",
@@ -30226,7 +31603,8 @@ const VIABILIDADE_GEMAS_DATA = [
     "Quantidade de Gemas Total": "59",
     "Quantidade de Gemas Viáveis": "59",
     "Quantidade de Gemas Inviáveis": "0",
-    "Fazenda": NaN
+    "Fazenda": null,
+    "Unnamed: 20": null
   },
   {
     "ID": "3560965",
@@ -30248,7 +31626,8 @@ const VIABILIDADE_GEMAS_DATA = [
     "Quantidade de Gemas Total": "54",
     "Quantidade de Gemas Viáveis": "54",
     "Quantidade de Gemas Inviáveis": "0",
-    "Fazenda": NaN
+    "Fazenda": null,
+    "Unnamed: 20": null
   },
   {
     "ID": "3560960",
@@ -30270,7 +31649,8 @@ const VIABILIDADE_GEMAS_DATA = [
     "Quantidade de Gemas Total": "54",
     "Quantidade de Gemas Viáveis": "54",
     "Quantidade de Gemas Inviáveis": "0",
-    "Fazenda": NaN
+    "Fazenda": null,
+    "Unnamed: 20": null
   },
   {
     "ID": "3560954",
@@ -30292,7 +31672,8 @@ const VIABILIDADE_GEMAS_DATA = [
     "Quantidade de Gemas Total": "55",
     "Quantidade de Gemas Viáveis": "55",
     "Quantidade de Gemas Inviáveis": "0",
-    "Fazenda": NaN
+    "Fazenda": null,
+    "Unnamed: 20": null
   },
   {
     "ID": "3560948",
@@ -30314,7 +31695,8 @@ const VIABILIDADE_GEMAS_DATA = [
     "Quantidade de Gemas Total": "58",
     "Quantidade de Gemas Viáveis": "58",
     "Quantidade de Gemas Inviáveis": "0",
-    "Fazenda": NaN
+    "Fazenda": null,
+    "Unnamed: 20": null
   },
   {
     "ID": "3560943",
@@ -30336,7 +31718,8 @@ const VIABILIDADE_GEMAS_DATA = [
     "Quantidade de Gemas Total": "57",
     "Quantidade de Gemas Viáveis": "57",
     "Quantidade de Gemas Inviáveis": "0",
-    "Fazenda": NaN
+    "Fazenda": null,
+    "Unnamed: 20": null
   },
   {
     "ID": "3560938",
@@ -30358,7 +31741,8 @@ const VIABILIDADE_GEMAS_DATA = [
     "Quantidade de Gemas Total": "54",
     "Quantidade de Gemas Viáveis": "54",
     "Quantidade de Gemas Inviáveis": "0",
-    "Fazenda": NaN
+    "Fazenda": null,
+    "Unnamed: 20": null
   },
   {
     "ID": "3560856",
@@ -30380,7 +31764,8 @@ const VIABILIDADE_GEMAS_DATA = [
     "Quantidade de Gemas Total": "60",
     "Quantidade de Gemas Viáveis": "59",
     "Quantidade de Gemas Inviáveis": "1",
-    "Fazenda": NaN
+    "Fazenda": null,
+    "Unnamed: 20": null
   },
   {
     "ID": "3560855",
@@ -30402,7 +31787,8 @@ const VIABILIDADE_GEMAS_DATA = [
     "Quantidade de Gemas Total": "59",
     "Quantidade de Gemas Viáveis": "58",
     "Quantidade de Gemas Inviáveis": "1",
-    "Fazenda": NaN
+    "Fazenda": null,
+    "Unnamed: 20": null
   },
   {
     "ID": "3560925",
@@ -30424,7 +31810,8 @@ const VIABILIDADE_GEMAS_DATA = [
     "Quantidade de Gemas Total": "54",
     "Quantidade de Gemas Viáveis": "54",
     "Quantidade de Gemas Inviáveis": "0",
-    "Fazenda": NaN
+    "Fazenda": null,
+    "Unnamed: 20": null
   },
   {
     "ID": "3560841",
@@ -30446,7 +31833,8 @@ const VIABILIDADE_GEMAS_DATA = [
     "Quantidade de Gemas Total": "52",
     "Quantidade de Gemas Viáveis": "52",
     "Quantidade de Gemas Inviáveis": "0",
-    "Fazenda": NaN
+    "Fazenda": null,
+    "Unnamed: 20": null
   },
   {
     "ID": "3560839",
@@ -30468,7 +31856,8 @@ const VIABILIDADE_GEMAS_DATA = [
     "Quantidade de Gemas Total": "54",
     "Quantidade de Gemas Viáveis": "54",
     "Quantidade de Gemas Inviáveis": "0",
-    "Fazenda": NaN
+    "Fazenda": null,
+    "Unnamed: 20": null
   },
   {
     "ID": "3560903",
@@ -30490,7 +31879,8 @@ const VIABILIDADE_GEMAS_DATA = [
     "Quantidade de Gemas Total": "60",
     "Quantidade de Gemas Viáveis": "60",
     "Quantidade de Gemas Inviáveis": "0",
-    "Fazenda": NaN
+    "Fazenda": null,
+    "Unnamed: 20": null
   },
   {
     "ID": "3560838",
@@ -30512,7 +31902,8 @@ const VIABILIDADE_GEMAS_DATA = [
     "Quantidade de Gemas Total": "50",
     "Quantidade de Gemas Viáveis": "50",
     "Quantidade de Gemas Inviáveis": "0",
-    "Fazenda": NaN
+    "Fazenda": null,
+    "Unnamed: 20": null
   },
   {
     "ID": "3560837",
@@ -30534,7 +31925,8 @@ const VIABILIDADE_GEMAS_DATA = [
     "Quantidade de Gemas Total": "48",
     "Quantidade de Gemas Viáveis": "48",
     "Quantidade de Gemas Inviáveis": "0",
-    "Fazenda": NaN
+    "Fazenda": null,
+    "Unnamed: 20": null
   },
   {
     "ID": "3560898",
@@ -30556,7 +31948,8 @@ const VIABILIDADE_GEMAS_DATA = [
     "Quantidade de Gemas Total": "59",
     "Quantidade de Gemas Viáveis": "59",
     "Quantidade de Gemas Inviáveis": "0",
-    "Fazenda": NaN
+    "Fazenda": null,
+    "Unnamed: 20": null
   },
   {
     "ID": "3560737",
@@ -30578,7 +31971,8 @@ const VIABILIDADE_GEMAS_DATA = [
     "Quantidade de Gemas Total": "54",
     "Quantidade de Gemas Viáveis": "54",
     "Quantidade de Gemas Inviáveis": "0",
-    "Fazenda": NaN
+    "Fazenda": null,
+    "Unnamed: 20": null
   },
   {
     "ID": "3560498",
@@ -30600,7 +31994,8 @@ const VIABILIDADE_GEMAS_DATA = [
     "Quantidade de Gemas Total": "49",
     "Quantidade de Gemas Viáveis": "48",
     "Quantidade de Gemas Inviáveis": "1",
-    "Fazenda": NaN
+    "Fazenda": null,
+    "Unnamed: 20": null
   },
   {
     "ID": "3560726",
@@ -30622,7 +32017,8 @@ const VIABILIDADE_GEMAS_DATA = [
     "Quantidade de Gemas Total": "58",
     "Quantidade de Gemas Viáveis": "58",
     "Quantidade de Gemas Inviáveis": "0",
-    "Fazenda": NaN
+    "Fazenda": null,
+    "Unnamed: 20": null
   },
   {
     "ID": "3560493",
@@ -30644,7 +32040,8 @@ const VIABILIDADE_GEMAS_DATA = [
     "Quantidade de Gemas Total": "50",
     "Quantidade de Gemas Viáveis": "50",
     "Quantidade de Gemas Inviáveis": "0",
-    "Fazenda": NaN
+    "Fazenda": null,
+    "Unnamed: 20": null
   },
   {
     "ID": "3560488",
@@ -30666,7 +32063,8 @@ const VIABILIDADE_GEMAS_DATA = [
     "Quantidade de Gemas Total": "48",
     "Quantidade de Gemas Viáveis": "48",
     "Quantidade de Gemas Inviáveis": "0",
-    "Fazenda": NaN
+    "Fazenda": null,
+    "Unnamed: 20": null
   },
   {
     "ID": "3560721",
@@ -30688,7 +32086,8 @@ const VIABILIDADE_GEMAS_DATA = [
     "Quantidade de Gemas Total": "55",
     "Quantidade de Gemas Viáveis": "55",
     "Quantidade de Gemas Inviáveis": "0",
-    "Fazenda": NaN
+    "Fazenda": null,
+    "Unnamed: 20": null
   },
   {
     "ID": "3560716",
@@ -30710,7 +32109,8 @@ const VIABILIDADE_GEMAS_DATA = [
     "Quantidade de Gemas Total": "57",
     "Quantidade de Gemas Viáveis": "57",
     "Quantidade de Gemas Inviáveis": "0",
-    "Fazenda": NaN
+    "Fazenda": null,
+    "Unnamed: 20": null
   },
   {
     "ID": "3558531",
@@ -30732,7 +32132,8 @@ const VIABILIDADE_GEMAS_DATA = [
     "Quantidade de Gemas Total": "54",
     "Quantidade de Gemas Viáveis": "54",
     "Quantidade de Gemas Inviáveis": "0",
-    "Fazenda": NaN
+    "Fazenda": null,
+    "Unnamed: 20": null
   },
   {
     "ID": "3558524",
@@ -30754,7 +32155,8 @@ const VIABILIDADE_GEMAS_DATA = [
     "Quantidade de Gemas Total": "60",
     "Quantidade de Gemas Viáveis": "60",
     "Quantidade de Gemas Inviáveis": "0",
-    "Fazenda": NaN
+    "Fazenda": null,
+    "Unnamed: 20": null
   },
   {
     "ID": "3558518",
@@ -30776,7 +32178,8 @@ const VIABILIDADE_GEMAS_DATA = [
     "Quantidade de Gemas Total": "54",
     "Quantidade de Gemas Viáveis": "54",
     "Quantidade de Gemas Inviáveis": "0",
-    "Fazenda": NaN
+    "Fazenda": null,
+    "Unnamed: 20": null
   },
   {
     "ID": "3558513",
@@ -30798,7 +32201,8 @@ const VIABILIDADE_GEMAS_DATA = [
     "Quantidade de Gemas Total": "58",
     "Quantidade de Gemas Viáveis": "58",
     "Quantidade de Gemas Inviáveis": "0",
-    "Fazenda": NaN
+    "Fazenda": null,
+    "Unnamed: 20": null
   },
   {
     "ID": "3558583",
@@ -30820,7 +32224,8 @@ const VIABILIDADE_GEMAS_DATA = [
     "Quantidade de Gemas Total": "57",
     "Quantidade de Gemas Viáveis": "56",
     "Quantidade de Gemas Inviáveis": "1",
-    "Fazenda": NaN
+    "Fazenda": null,
+    "Unnamed: 20": null
   },
   {
     "ID": "3558509",
@@ -30842,7 +32247,8 @@ const VIABILIDADE_GEMAS_DATA = [
     "Quantidade de Gemas Total": "54",
     "Quantidade de Gemas Viáveis": "54",
     "Quantidade de Gemas Inviáveis": "0",
-    "Fazenda": NaN
+    "Fazenda": null,
+    "Unnamed: 20": null
   },
   {
     "ID": "3558306",
@@ -30864,7 +32270,8 @@ const VIABILIDADE_GEMAS_DATA = [
     "Quantidade de Gemas Total": "60",
     "Quantidade de Gemas Viáveis": "58",
     "Quantidade de Gemas Inviáveis": "2",
-    "Fazenda": NaN
+    "Fazenda": null,
+    "Unnamed: 20": null
   },
   {
     "ID": "3558503",
@@ -30886,7 +32293,8 @@ const VIABILIDADE_GEMAS_DATA = [
     "Quantidade de Gemas Total": "56",
     "Quantidade de Gemas Viáveis": "56",
     "Quantidade de Gemas Inviáveis": "0",
-    "Fazenda": NaN
+    "Fazenda": null,
+    "Unnamed: 20": null
   },
   {
     "ID": "3558578",
@@ -30908,7 +32316,8 @@ const VIABILIDADE_GEMAS_DATA = [
     "Quantidade de Gemas Total": "59",
     "Quantidade de Gemas Viáveis": "59",
     "Quantidade de Gemas Inviáveis": "0",
-    "Fazenda": NaN
+    "Fazenda": null,
+    "Unnamed: 20": null
   },
   {
     "ID": "3558302",
@@ -30930,7 +32339,8 @@ const VIABILIDADE_GEMAS_DATA = [
     "Quantidade de Gemas Total": "64",
     "Quantidade de Gemas Viáveis": "61",
     "Quantidade de Gemas Inviáveis": "3",
-    "Fazenda": NaN
+    "Fazenda": null,
+    "Unnamed: 20": null
   },
   {
     "ID": "3558298",
@@ -30952,7 +32362,8 @@ const VIABILIDADE_GEMAS_DATA = [
     "Quantidade de Gemas Total": "66",
     "Quantidade de Gemas Viáveis": "61",
     "Quantidade de Gemas Inviáveis": "5",
-    "Fazenda": NaN
+    "Fazenda": null,
+    "Unnamed: 20": null
   },
   {
     "ID": "3558293",
@@ -30974,7 +32385,8 @@ const VIABILIDADE_GEMAS_DATA = [
     "Quantidade de Gemas Total": "64",
     "Quantidade de Gemas Viáveis": "60",
     "Quantidade de Gemas Inviáveis": "4",
-    "Fazenda": NaN
+    "Fazenda": null,
+    "Unnamed: 20": null
   },
   {
     "ID": "3558252",
@@ -30996,7 +32408,8 @@ const VIABILIDADE_GEMAS_DATA = [
     "Quantidade de Gemas Total": "53",
     "Quantidade de Gemas Viáveis": "53",
     "Quantidade de Gemas Inviáveis": "0",
-    "Fazenda": NaN
+    "Fazenda": null,
+    "Unnamed: 20": null
   },
   {
     "ID": "3558251",
@@ -31018,7 +32431,8 @@ const VIABILIDADE_GEMAS_DATA = [
     "Quantidade de Gemas Total": "50",
     "Quantidade de Gemas Viáveis": "50",
     "Quantidade de Gemas Inviáveis": "0",
-    "Fazenda": NaN
+    "Fazenda": null,
+    "Unnamed: 20": null
   },
   {
     "ID": "3558250",
@@ -31040,7 +32454,8 @@ const VIABILIDADE_GEMAS_DATA = [
     "Quantidade de Gemas Total": "55",
     "Quantidade de Gemas Viáveis": "55",
     "Quantidade de Gemas Inviáveis": "0",
-    "Fazenda": NaN
+    "Fazenda": null,
+    "Unnamed: 20": null
   },
   {
     "ID": "3560483",
@@ -31062,7 +32477,8 @@ const VIABILIDADE_GEMAS_DATA = [
     "Quantidade de Gemas Total": "48",
     "Quantidade de Gemas Viáveis": "48",
     "Quantidade de Gemas Inviáveis": "0",
-    "Fazenda": NaN
+    "Fazenda": null,
+    "Unnamed: 20": null
   },
   {
     "ID": "3560478",
@@ -31084,7 +32500,8 @@ const VIABILIDADE_GEMAS_DATA = [
     "Quantidade de Gemas Total": "63",
     "Quantidade de Gemas Viáveis": "63",
     "Quantidade de Gemas Inviáveis": "0",
-    "Fazenda": NaN
+    "Fazenda": null,
+    "Unnamed: 20": null
   },
   {
     "ID": "3560473",
@@ -31106,7 +32523,8 @@ const VIABILIDADE_GEMAS_DATA = [
     "Quantidade de Gemas Total": "49",
     "Quantidade de Gemas Viáveis": "49",
     "Quantidade de Gemas Inviáveis": "0",
-    "Fazenda": NaN
+    "Fazenda": null,
+    "Unnamed: 20": null
   },
   {
     "ID": "3558199",
@@ -31128,7 +32546,8 @@ const VIABILIDADE_GEMAS_DATA = [
     "Quantidade de Gemas Total": "55",
     "Quantidade de Gemas Viáveis": "51",
     "Quantidade de Gemas Inviáveis": "4",
-    "Fazenda": NaN
+    "Fazenda": null,
+    "Unnamed: 20": null
   },
   {
     "ID": "3558198",
@@ -31150,7 +32569,8 @@ const VIABILIDADE_GEMAS_DATA = [
     "Quantidade de Gemas Total": "51",
     "Quantidade de Gemas Viáveis": "51",
     "Quantidade de Gemas Inviáveis": "0",
-    "Fazenda": NaN
+    "Fazenda": null,
+    "Unnamed: 20": null
   },
   {
     "ID": "3558147",
@@ -31172,7 +32592,8 @@ const VIABILIDADE_GEMAS_DATA = [
     "Quantidade de Gemas Total": "58",
     "Quantidade de Gemas Viáveis": "56",
     "Quantidade de Gemas Inviáveis": "2",
-    "Fazenda": NaN
+    "Fazenda": null,
+    "Unnamed: 20": null
   },
   {
     "ID": "3558148",
@@ -31194,7 +32615,8 @@ const VIABILIDADE_GEMAS_DATA = [
     "Quantidade de Gemas Total": "61",
     "Quantidade de Gemas Viáveis": "60",
     "Quantidade de Gemas Inviáveis": "1",
-    "Fazenda": NaN
+    "Fazenda": null,
+    "Unnamed: 20": null
   },
   {
     "ID": "3558189",
@@ -31216,7 +32638,8 @@ const VIABILIDADE_GEMAS_DATA = [
     "Quantidade de Gemas Total": "50",
     "Quantidade de Gemas Viáveis": "48",
     "Quantidade de Gemas Inviáveis": "2",
-    "Fazenda": NaN
+    "Fazenda": null,
+    "Unnamed: 20": null
   },
   {
     "ID": "3558187",
@@ -31238,7 +32661,8 @@ const VIABILIDADE_GEMAS_DATA = [
     "Quantidade de Gemas Total": "54",
     "Quantidade de Gemas Viáveis": "54",
     "Quantidade de Gemas Inviáveis": "0",
-    "Fazenda": NaN
+    "Fazenda": null,
+    "Unnamed: 20": null
   },
   {
     "ID": "3558565",
@@ -31260,7 +32684,8 @@ const VIABILIDADE_GEMAS_DATA = [
     "Quantidade de Gemas Total": "59",
     "Quantidade de Gemas Viáveis": "59",
     "Quantidade de Gemas Inviáveis": "0",
-    "Fazenda": NaN
+    "Fazenda": null,
+    "Unnamed: 20": null
   },
   {
     "ID": "3557965",
@@ -31282,7 +32707,8 @@ const VIABILIDADE_GEMAS_DATA = [
     "Quantidade de Gemas Total": "56",
     "Quantidade de Gemas Viáveis": "56",
     "Quantidade de Gemas Inviáveis": "0",
-    "Fazenda": NaN
+    "Fazenda": null,
+    "Unnamed: 20": null
   },
   {
     "ID": "3558560",
@@ -31304,7 +32730,8 @@ const VIABILIDADE_GEMAS_DATA = [
     "Quantidade de Gemas Total": "61",
     "Quantidade de Gemas Viáveis": "61",
     "Quantidade de Gemas Inviáveis": "0",
-    "Fazenda": NaN
+    "Fazenda": null,
+    "Unnamed: 20": null
   },
   {
     "ID": "3557950",
@@ -31326,7 +32753,8 @@ const VIABILIDADE_GEMAS_DATA = [
     "Quantidade de Gemas Total": "55",
     "Quantidade de Gemas Viáveis": "55",
     "Quantidade de Gemas Inviáveis": "0",
-    "Fazenda": NaN
+    "Fazenda": null,
+    "Unnamed: 20": null
   },
   {
     "ID": "3558552",
@@ -31348,7 +32776,8 @@ const VIABILIDADE_GEMAS_DATA = [
     "Quantidade de Gemas Total": "54",
     "Quantidade de Gemas Viáveis": "54",
     "Quantidade de Gemas Inviáveis": "0",
-    "Fazenda": NaN
+    "Fazenda": null,
+    "Unnamed: 20": null
   },
   {
     "ID": "3557945",
@@ -31370,7 +32799,8 @@ const VIABILIDADE_GEMAS_DATA = [
     "Quantidade de Gemas Total": "58",
     "Quantidade de Gemas Viáveis": "58",
     "Quantidade de Gemas Inviáveis": "0",
-    "Fazenda": NaN
+    "Fazenda": null,
+    "Unnamed: 20": null
   },
   {
     "ID": "3558547",
@@ -31392,7 +32822,8 @@ const VIABILIDADE_GEMAS_DATA = [
     "Quantidade de Gemas Total": "56",
     "Quantidade de Gemas Viáveis": "56",
     "Quantidade de Gemas Inviáveis": "0",
-    "Fazenda": NaN
+    "Fazenda": null,
+    "Unnamed: 20": null
   },
   {
     "ID": "3557940",
@@ -31414,7 +32845,8 @@ const VIABILIDADE_GEMAS_DATA = [
     "Quantidade de Gemas Total": "55",
     "Quantidade de Gemas Viáveis": "55",
     "Quantidade de Gemas Inviáveis": "0",
-    "Fazenda": NaN
+    "Fazenda": null,
+    "Unnamed: 20": null
   },
   {
     "ID": "3556208",
@@ -31436,7 +32868,8 @@ const VIABILIDADE_GEMAS_DATA = [
     "Quantidade de Gemas Total": "59",
     "Quantidade de Gemas Viáveis": "56",
     "Quantidade de Gemas Inviáveis": "3",
-    "Fazenda": NaN
+    "Fazenda": null,
+    "Unnamed: 20": null
   },
   {
     "ID": "3556207",
@@ -31458,7 +32891,8 @@ const VIABILIDADE_GEMAS_DATA = [
     "Quantidade de Gemas Total": "60",
     "Quantidade de Gemas Viáveis": "56",
     "Quantidade de Gemas Inviáveis": "4",
-    "Fazenda": NaN
+    "Fazenda": null,
+    "Unnamed: 20": null
   },
   {
     "ID": "3556206",
@@ -31480,7 +32914,8 @@ const VIABILIDADE_GEMAS_DATA = [
     "Quantidade de Gemas Total": "62",
     "Quantidade de Gemas Viáveis": "59",
     "Quantidade de Gemas Inviáveis": "3",
-    "Fazenda": NaN
+    "Fazenda": null,
+    "Unnamed: 20": null
   },
   {
     "ID": "3556205",
@@ -31502,7 +32937,8 @@ const VIABILIDADE_GEMAS_DATA = [
     "Quantidade de Gemas Total": "54",
     "Quantidade de Gemas Viáveis": "51",
     "Quantidade de Gemas Inviáveis": "3",
-    "Fazenda": NaN
+    "Fazenda": null,
+    "Unnamed: 20": null
   },
   {
     "ID": "3556204",
@@ -31524,7 +32960,8 @@ const VIABILIDADE_GEMAS_DATA = [
     "Quantidade de Gemas Total": "63",
     "Quantidade de Gemas Viáveis": "60",
     "Quantidade de Gemas Inviáveis": "3",
-    "Fazenda": NaN
+    "Fazenda": null,
+    "Unnamed: 20": null
   },
   {
     "ID": "3556102",
@@ -31546,7 +32983,8 @@ const VIABILIDADE_GEMAS_DATA = [
     "Quantidade de Gemas Total": "60",
     "Quantidade de Gemas Viáveis": "60",
     "Quantidade de Gemas Inviáveis": "0",
-    "Fazenda": NaN
+    "Fazenda": null,
+    "Unnamed: 20": null
   },
   {
     "ID": "3556094",
@@ -31568,7 +33006,8 @@ const VIABILIDADE_GEMAS_DATA = [
     "Quantidade de Gemas Total": "58",
     "Quantidade de Gemas Viáveis": "56",
     "Quantidade de Gemas Inviáveis": "2",
-    "Fazenda": NaN
+    "Fazenda": null,
+    "Unnamed: 20": null
   },
   {
     "ID": "3556178",
@@ -31590,7 +33029,8 @@ const VIABILIDADE_GEMAS_DATA = [
     "Quantidade de Gemas Total": "60",
     "Quantidade de Gemas Viáveis": "60",
     "Quantidade de Gemas Inviáveis": "0",
-    "Fazenda": NaN
+    "Fazenda": null,
+    "Unnamed: 20": null
   },
   {
     "ID": "3556171",
@@ -31612,7 +33052,8 @@ const VIABILIDADE_GEMAS_DATA = [
     "Quantidade de Gemas Total": "59",
     "Quantidade de Gemas Viáveis": "59",
     "Quantidade de Gemas Inviáveis": "0",
-    "Fazenda": NaN
+    "Fazenda": null,
+    "Unnamed: 20": null
   },
   {
     "ID": "3556286",
@@ -31634,7 +33075,8 @@ const VIABILIDADE_GEMAS_DATA = [
     "Quantidade de Gemas Total": "58",
     "Quantidade de Gemas Viáveis": "58",
     "Quantidade de Gemas Inviáveis": "0",
-    "Fazenda": NaN
+    "Fazenda": null,
+    "Unnamed: 20": null
   },
   {
     "ID": "3556165",
@@ -31656,7 +33098,8 @@ const VIABILIDADE_GEMAS_DATA = [
     "Quantidade de Gemas Total": "56",
     "Quantidade de Gemas Viáveis": "56",
     "Quantidade de Gemas Inviáveis": "0",
-    "Fazenda": NaN
+    "Fazenda": null,
+    "Unnamed: 20": null
   },
   {
     "ID": "3556155",
@@ -31678,7 +33121,8 @@ const VIABILIDADE_GEMAS_DATA = [
     "Quantidade de Gemas Total": "55",
     "Quantidade de Gemas Viáveis": "55",
     "Quantidade de Gemas Inviáveis": "0",
-    "Fazenda": NaN
+    "Fazenda": null,
+    "Unnamed: 20": null
   },
   {
     "ID": "3556279",
@@ -31700,7 +33144,8 @@ const VIABILIDADE_GEMAS_DATA = [
     "Quantidade de Gemas Total": "61",
     "Quantidade de Gemas Viáveis": "61",
     "Quantidade de Gemas Inviáveis": "0",
-    "Fazenda": NaN
+    "Fazenda": null,
+    "Unnamed: 20": null
   },
   {
     "ID": "3555644",
@@ -31722,7 +33167,8 @@ const VIABILIDADE_GEMAS_DATA = [
     "Quantidade de Gemas Total": "60",
     "Quantidade de Gemas Viáveis": "60",
     "Quantidade de Gemas Inviáveis": "0",
-    "Fazenda": NaN
+    "Fazenda": null,
+    "Unnamed: 20": null
   },
   {
     "ID": "3556080",
@@ -31744,7 +33190,8 @@ const VIABILIDADE_GEMAS_DATA = [
     "Quantidade de Gemas Total": "48",
     "Quantidade de Gemas Viáveis": "48",
     "Quantidade de Gemas Inviáveis": "0",
-    "Fazenda": NaN
+    "Fazenda": null,
+    "Unnamed: 20": null
   },
   {
     "ID": "3556075",
@@ -31766,7 +33213,8 @@ const VIABILIDADE_GEMAS_DATA = [
     "Quantidade de Gemas Total": "50",
     "Quantidade de Gemas Viáveis": "50",
     "Quantidade de Gemas Inviáveis": "0",
-    "Fazenda": NaN
+    "Fazenda": null,
+    "Unnamed: 20": null
   },
   {
     "ID": "3555634",
@@ -31788,7 +33236,8 @@ const VIABILIDADE_GEMAS_DATA = [
     "Quantidade de Gemas Total": "55",
     "Quantidade de Gemas Viáveis": "55",
     "Quantidade de Gemas Inviáveis": "0",
-    "Fazenda": NaN
+    "Fazenda": null,
+    "Unnamed: 20": null
   },
   {
     "ID": "3556172",
@@ -31810,7 +33259,8 @@ const VIABILIDADE_GEMAS_DATA = [
     "Quantidade de Gemas Total": "60",
     "Quantidade de Gemas Viáveis": "59",
     "Quantidade de Gemas Inviáveis": "1",
-    "Fazenda": NaN
+    "Fazenda": null,
+    "Unnamed: 20": null
   },
   {
     "ID": "3556166",
@@ -31832,7 +33282,8 @@ const VIABILIDADE_GEMAS_DATA = [
     "Quantidade de Gemas Total": "59",
     "Quantidade de Gemas Viáveis": "58",
     "Quantidade de Gemas Inviáveis": "1",
-    "Fazenda": NaN
+    "Fazenda": null,
+    "Unnamed: 20": null
   },
   {
     "ID": "3555628",
@@ -31854,7 +33305,8 @@ const VIABILIDADE_GEMAS_DATA = [
     "Quantidade de Gemas Total": "58",
     "Quantidade de Gemas Viáveis": "58",
     "Quantidade de Gemas Inviáveis": "0",
-    "Fazenda": NaN
+    "Fazenda": null,
+    "Unnamed: 20": null
   },
   {
     "ID": "3556163",
@@ -31876,7 +33328,8 @@ const VIABILIDADE_GEMAS_DATA = [
     "Quantidade de Gemas Total": "56",
     "Quantidade de Gemas Viáveis": "56",
     "Quantidade de Gemas Inviáveis": "0",
-    "Fazenda": NaN
+    "Fazenda": null,
+    "Unnamed: 20": null
   },
   {
     "ID": "3555620",
@@ -31898,7 +33351,8 @@ const VIABILIDADE_GEMAS_DATA = [
     "Quantidade de Gemas Total": "55",
     "Quantidade de Gemas Viáveis": "55",
     "Quantidade de Gemas Inviáveis": "0",
-    "Fazenda": NaN
+    "Fazenda": null,
+    "Unnamed: 20": null
   },
   {
     "ID": "3555614",
@@ -31920,7 +33374,8 @@ const VIABILIDADE_GEMAS_DATA = [
     "Quantidade de Gemas Total": "54",
     "Quantidade de Gemas Viáveis": "54",
     "Quantidade de Gemas Inviáveis": "0",
-    "Fazenda": NaN
+    "Fazenda": null,
+    "Unnamed: 20": null
   },
   {
     "ID": "3555606",
@@ -31942,7 +33397,8 @@ const VIABILIDADE_GEMAS_DATA = [
     "Quantidade de Gemas Total": "58",
     "Quantidade de Gemas Viáveis": "58",
     "Quantidade de Gemas Inviáveis": "0",
-    "Fazenda": NaN
+    "Fazenda": null,
+    "Unnamed: 20": null
   },
   {
     "ID": "3556021",
@@ -31964,7 +33420,8 @@ const VIABILIDADE_GEMAS_DATA = [
     "Quantidade de Gemas Total": "58",
     "Quantidade de Gemas Viáveis": "58",
     "Quantidade de Gemas Inviáveis": "0",
-    "Fazenda": NaN
+    "Fazenda": null,
+    "Unnamed: 20": null
   },
   {
     "ID": "3556358",
@@ -31986,7 +33443,8 @@ const VIABILIDADE_GEMAS_DATA = [
     "Quantidade de Gemas Total": "55",
     "Quantidade de Gemas Viáveis": "55",
     "Quantidade de Gemas Inviáveis": "0",
-    "Fazenda": NaN
+    "Fazenda": null,
+    "Unnamed: 20": null
   },
   {
     "ID": "3556262",
@@ -32008,7 +33466,8 @@ const VIABILIDADE_GEMAS_DATA = [
     "Quantidade de Gemas Total": "59",
     "Quantidade de Gemas Viáveis": "59",
     "Quantidade de Gemas Inviáveis": "0",
-    "Fazenda": NaN
+    "Fazenda": null,
+    "Unnamed: 20": null
   },
   {
     "ID": "3556354",
@@ -32030,7 +33489,8 @@ const VIABILIDADE_GEMAS_DATA = [
     "Quantidade de Gemas Total": "49",
     "Quantidade de Gemas Viáveis": "48",
     "Quantidade de Gemas Inviáveis": "1",
-    "Fazenda": NaN
+    "Fazenda": null,
+    "Unnamed: 20": null
   },
   {
     "ID": "3556257",
@@ -32052,7 +33512,8 @@ const VIABILIDADE_GEMAS_DATA = [
     "Quantidade de Gemas Total": "63",
     "Quantidade de Gemas Viáveis": "63",
     "Quantidade de Gemas Inviáveis": "0",
-    "Fazenda": NaN
+    "Fazenda": null,
+    "Unnamed: 20": null
   },
   {
     "ID": "3556011",
@@ -32074,7 +33535,8 @@ const VIABILIDADE_GEMAS_DATA = [
     "Quantidade de Gemas Total": "57",
     "Quantidade de Gemas Viáveis": "57",
     "Quantidade de Gemas Inviáveis": "0",
-    "Fazenda": NaN
+    "Fazenda": null,
+    "Unnamed: 20": null
   },
   {
     "ID": "3555945",
@@ -32096,7 +33558,8 @@ const VIABILIDADE_GEMAS_DATA = [
     "Quantidade de Gemas Total": "51",
     "Quantidade de Gemas Viáveis": "51",
     "Quantidade de Gemas Inviáveis": "0",
-    "Fazenda": NaN
+    "Fazenda": null,
+    "Unnamed: 20": null
   },
   {
     "ID": "3556348",
@@ -32118,7 +33581,8 @@ const VIABILIDADE_GEMAS_DATA = [
     "Quantidade de Gemas Total": "63",
     "Quantidade de Gemas Viáveis": "61",
     "Quantidade de Gemas Inviáveis": "2",
-    "Fazenda": NaN
+    "Fazenda": null,
+    "Unnamed: 20": null
   },
   {
     "ID": "3555938",
@@ -32140,7 +33604,8 @@ const VIABILIDADE_GEMAS_DATA = [
     "Quantidade de Gemas Total": "56",
     "Quantidade de Gemas Viáveis": "56",
     "Quantidade de Gemas Inviáveis": "0",
-    "Fazenda": NaN
+    "Fazenda": null,
+    "Unnamed: 20": null
   },
   {
     "ID": "3556006",
@@ -32162,7 +33627,8 @@ const VIABILIDADE_GEMAS_DATA = [
     "Quantidade de Gemas Total": "60",
     "Quantidade de Gemas Viáveis": "60",
     "Quantidade de Gemas Inviáveis": "0",
-    "Fazenda": NaN
+    "Fazenda": null,
+    "Unnamed: 20": null
   },
   {
     "ID": "3555930",
@@ -32184,7 +33650,8 @@ const VIABILIDADE_GEMAS_DATA = [
     "Quantidade de Gemas Total": "60",
     "Quantidade de Gemas Viáveis": "60",
     "Quantidade de Gemas Inviáveis": "0",
-    "Fazenda": NaN
+    "Fazenda": null,
+    "Unnamed: 20": null
   },
   {
     "ID": "3556001",
@@ -32206,7 +33673,8 @@ const VIABILIDADE_GEMAS_DATA = [
     "Quantidade de Gemas Total": "58",
     "Quantidade de Gemas Viáveis": "58",
     "Quantidade de Gemas Inviáveis": "0",
-    "Fazenda": NaN
+    "Fazenda": null,
+    "Unnamed: 20": null
   },
   {
     "ID": "3555918",
@@ -32228,7 +33696,8 @@ const VIABILIDADE_GEMAS_DATA = [
     "Quantidade de Gemas Total": "60",
     "Quantidade de Gemas Viáveis": "57",
     "Quantidade de Gemas Inviáveis": "3",
-    "Fazenda": NaN
+    "Fazenda": null,
+    "Unnamed: 20": null
   },
   {
     "ID": "3555913",
@@ -32250,7 +33719,8 @@ const VIABILIDADE_GEMAS_DATA = [
     "Quantidade de Gemas Total": "52",
     "Quantidade de Gemas Viáveis": "50",
     "Quantidade de Gemas Inviáveis": "2",
-    "Fazenda": NaN
+    "Fazenda": null,
+    "Unnamed: 20": null
   },
   {
     "ID": "3556252",
@@ -32272,7 +33742,8 @@ const VIABILIDADE_GEMAS_DATA = [
     "Quantidade de Gemas Total": "60",
     "Quantidade de Gemas Viáveis": "60",
     "Quantidade de Gemas Inviáveis": "0",
-    "Fazenda": NaN
+    "Fazenda": null,
+    "Unnamed: 20": null
   },
   {
     "ID": "3556246",
@@ -32294,7 +33765,8 @@ const VIABILIDADE_GEMAS_DATA = [
     "Quantidade de Gemas Total": "56",
     "Quantidade de Gemas Viáveis": "56",
     "Quantidade de Gemas Inviáveis": "0",
-    "Fazenda": NaN
+    "Fazenda": null,
+    "Unnamed: 20": null
   },
   {
     "ID": "3556242",
@@ -32316,7 +33788,8 @@ const VIABILIDADE_GEMAS_DATA = [
     "Quantidade de Gemas Total": "58",
     "Quantidade de Gemas Viáveis": "58",
     "Quantidade de Gemas Inviáveis": "0",
-    "Fazenda": NaN
+    "Fazenda": null,
+    "Unnamed: 20": null
   },
   {
     "ID": "3553698",
@@ -32338,7 +33811,8 @@ const VIABILIDADE_GEMAS_DATA = [
     "Quantidade de Gemas Total": "58",
     "Quantidade de Gemas Viáveis": "58",
     "Quantidade de Gemas Inviáveis": "0",
-    "Fazenda": NaN
+    "Fazenda": null,
+    "Unnamed: 20": null
   },
   {
     "ID": "3553774",
@@ -32360,7 +33834,8 @@ const VIABILIDADE_GEMAS_DATA = [
     "Quantidade de Gemas Total": "85",
     "Quantidade de Gemas Viáveis": "85",
     "Quantidade de Gemas Inviáveis": "0",
-    "Fazenda": NaN
+    "Fazenda": null,
+    "Unnamed: 20": null
   },
   {
     "ID": "3553693",
@@ -32382,7 +33857,8 @@ const VIABILIDADE_GEMAS_DATA = [
     "Quantidade de Gemas Total": "62",
     "Quantidade de Gemas Viáveis": "60",
     "Quantidade de Gemas Inviáveis": "2",
-    "Fazenda": NaN
+    "Fazenda": null,
+    "Unnamed: 20": null
   },
   {
     "ID": "3553722",
@@ -32404,7 +33880,8 @@ const VIABILIDADE_GEMAS_DATA = [
     "Quantidade de Gemas Total": "60",
     "Quantidade de Gemas Viáveis": "60",
     "Quantidade de Gemas Inviáveis": "0",
-    "Fazenda": NaN
+    "Fazenda": null,
+    "Unnamed: 20": null
   },
   {
     "ID": "3553688",
@@ -32426,7 +33903,8 @@ const VIABILIDADE_GEMAS_DATA = [
     "Quantidade de Gemas Total": "56",
     "Quantidade de Gemas Viáveis": "55",
     "Quantidade de Gemas Inviáveis": "1",
-    "Fazenda": NaN
+    "Fazenda": null,
+    "Unnamed: 20": null
   },
   {
     "ID": "3553717",
@@ -32448,7 +33926,8 @@ const VIABILIDADE_GEMAS_DATA = [
     "Quantidade de Gemas Total": "60",
     "Quantidade de Gemas Viáveis": "60",
     "Quantidade de Gemas Inviáveis": "0",
-    "Fazenda": NaN
+    "Fazenda": null,
+    "Unnamed: 20": null
   },
   {
     "ID": "3553712",
@@ -32470,7 +33949,8 @@ const VIABILIDADE_GEMAS_DATA = [
     "Quantidade de Gemas Total": "58",
     "Quantidade de Gemas Viáveis": "58",
     "Quantidade de Gemas Inviáveis": "0",
-    "Fazenda": NaN
+    "Fazenda": null,
+    "Unnamed: 20": null
   },
   {
     "ID": "3553571",
@@ -32492,7 +33972,8 @@ const VIABILIDADE_GEMAS_DATA = [
     "Quantidade de Gemas Total": "54",
     "Quantidade de Gemas Viáveis": "49",
     "Quantidade de Gemas Inviáveis": "5",
-    "Fazenda": NaN
+    "Fazenda": null,
+    "Unnamed: 20": null
   },
   {
     "ID": "3553566",
@@ -32514,7 +33995,8 @@ const VIABILIDADE_GEMAS_DATA = [
     "Quantidade de Gemas Total": "53",
     "Quantidade de Gemas Viáveis": "53",
     "Quantidade de Gemas Inviáveis": "0",
-    "Fazenda": NaN
+    "Fazenda": null,
+    "Unnamed: 20": null
   },
   {
     "ID": "3553659",
@@ -32536,7 +34018,8 @@ const VIABILIDADE_GEMAS_DATA = [
     "Quantidade de Gemas Total": "56",
     "Quantidade de Gemas Viáveis": "55",
     "Quantidade de Gemas Inviáveis": "1",
-    "Fazenda": NaN
+    "Fazenda": null,
+    "Unnamed: 20": null
   },
   {
     "ID": "3553658",
@@ -32558,7 +34041,8 @@ const VIABILIDADE_GEMAS_DATA = [
     "Quantidade de Gemas Total": "58",
     "Quantidade de Gemas Viáveis": "56",
     "Quantidade de Gemas Inviáveis": "2",
-    "Fazenda": NaN
+    "Fazenda": null,
+    "Unnamed: 20": null
   },
   {
     "ID": "3553561",
@@ -32580,7 +34064,8 @@ const VIABILIDADE_GEMAS_DATA = [
     "Quantidade de Gemas Total": "48",
     "Quantidade de Gemas Viáveis": "48",
     "Quantidade de Gemas Inviáveis": "0",
-    "Fazenda": NaN
+    "Fazenda": null,
+    "Unnamed: 20": null
   },
   {
     "ID": "3553555",
@@ -32602,7 +34087,8 @@ const VIABILIDADE_GEMAS_DATA = [
     "Quantidade de Gemas Total": "51",
     "Quantidade de Gemas Viáveis": "51",
     "Quantidade de Gemas Inviáveis": "0",
-    "Fazenda": NaN
+    "Fazenda": null,
+    "Unnamed: 20": null
   },
   {
     "ID": "3553551",
@@ -32624,7 +34110,8 @@ const VIABILIDADE_GEMAS_DATA = [
     "Quantidade de Gemas Total": "49",
     "Quantidade de Gemas Viáveis": "49",
     "Quantidade de Gemas Inviáveis": "0",
-    "Fazenda": NaN
+    "Fazenda": null,
+    "Unnamed: 20": null
   },
   {
     "ID": "3553257",
@@ -32646,7 +34133,8 @@ const VIABILIDADE_GEMAS_DATA = [
     "Quantidade de Gemas Total": "58",
     "Quantidade de Gemas Viáveis": "58",
     "Quantidade de Gemas Inviáveis": "0",
-    "Fazenda": NaN
+    "Fazenda": null,
+    "Unnamed: 20": null
   },
   {
     "ID": "3553115",
@@ -32668,7 +34156,8 @@ const VIABILIDADE_GEMAS_DATA = [
     "Quantidade de Gemas Total": "50",
     "Quantidade de Gemas Viáveis": "50",
     "Quantidade de Gemas Inviáveis": "0",
-    "Fazenda": NaN
+    "Fazenda": null,
+    "Unnamed: 20": null
   },
   {
     "ID": "3553114",
@@ -32690,7 +34179,8 @@ const VIABILIDADE_GEMAS_DATA = [
     "Quantidade de Gemas Total": "60",
     "Quantidade de Gemas Viáveis": "55",
     "Quantidade de Gemas Inviáveis": "5",
-    "Fazenda": NaN
+    "Fazenda": null,
+    "Unnamed: 20": null
   },
   {
     "ID": "3553240",
@@ -32712,7 +34202,8 @@ const VIABILIDADE_GEMAS_DATA = [
     "Quantidade de Gemas Total": "54",
     "Quantidade de Gemas Viáveis": "54",
     "Quantidade de Gemas Inviáveis": "0",
-    "Fazenda": NaN
+    "Fazenda": null,
+    "Unnamed: 20": null
   },
   {
     "ID": "3553236",
@@ -32734,7 +34225,8 @@ const VIABILIDADE_GEMAS_DATA = [
     "Quantidade de Gemas Total": "56",
     "Quantidade de Gemas Viáveis": "56",
     "Quantidade de Gemas Inviáveis": "0",
-    "Fazenda": NaN
+    "Fazenda": null,
+    "Unnamed: 20": null
   },
   {
     "ID": "3555377",
@@ -32756,7 +34248,8 @@ const VIABILIDADE_GEMAS_DATA = [
     "Quantidade de Gemas Total": "48",
     "Quantidade de Gemas Viáveis": "48",
     "Quantidade de Gemas Inviáveis": "0",
-    "Fazenda": NaN
+    "Fazenda": null,
+    "Unnamed: 20": null
   },
   {
     "ID": "3555372",
@@ -32778,7 +34271,8 @@ const VIABILIDADE_GEMAS_DATA = [
     "Quantidade de Gemas Total": "63",
     "Quantidade de Gemas Viáveis": "63",
     "Quantidade de Gemas Inviáveis": "0",
-    "Fazenda": NaN
+    "Fazenda": null,
+    "Unnamed: 20": null
   },
   {
     "ID": "3555367",
@@ -32800,7 +34294,8 @@ const VIABILIDADE_GEMAS_DATA = [
     "Quantidade de Gemas Total": "61",
     "Quantidade de Gemas Viáveis": "60",
     "Quantidade de Gemas Inviáveis": "1",
-    "Fazenda": NaN
+    "Fazenda": null,
+    "Unnamed: 20": null
   },
   {
     "ID": "3553533",
@@ -32822,7 +34317,8 @@ const VIABILIDADE_GEMAS_DATA = [
     "Quantidade de Gemas Total": "58",
     "Quantidade de Gemas Viáveis": "58",
     "Quantidade de Gemas Inviáveis": "0",
-    "Fazenda": NaN
+    "Fazenda": null,
+    "Unnamed: 20": null
   },
   {
     "ID": "3553767",
@@ -32844,7 +34340,8 @@ const VIABILIDADE_GEMAS_DATA = [
     "Quantidade de Gemas Total": "83",
     "Quantidade de Gemas Viáveis": "83",
     "Quantidade de Gemas Inviáveis": "0",
-    "Fazenda": NaN
+    "Fazenda": null,
+    "Unnamed: 20": null
   },
   {
     "ID": "3553529",
@@ -32866,7 +34363,8 @@ const VIABILIDADE_GEMAS_DATA = [
     "Quantidade de Gemas Total": "65",
     "Quantidade de Gemas Viáveis": "61",
     "Quantidade de Gemas Inviáveis": "4",
-    "Fazenda": NaN
+    "Fazenda": null,
+    "Unnamed: 20": null
   },
   {
     "ID": "3553759",
@@ -32888,7 +34386,8 @@ const VIABILIDADE_GEMAS_DATA = [
     "Quantidade de Gemas Total": "79",
     "Quantidade de Gemas Viáveis": "79",
     "Quantidade de Gemas Inviáveis": "0",
-    "Fazenda": NaN
+    "Fazenda": null,
+    "Unnamed: 20": null
   },
   {
     "ID": "3553224",
@@ -32910,7 +34409,8 @@ const VIABILIDADE_GEMAS_DATA = [
     "Quantidade de Gemas Total": "54",
     "Quantidade de Gemas Viáveis": "54",
     "Quantidade de Gemas Inviáveis": "0",
-    "Fazenda": NaN
+    "Fazenda": null,
+    "Unnamed: 20": null
   },
   {
     "ID": "3553221",
@@ -32932,7 +34432,8 @@ const VIABILIDADE_GEMAS_DATA = [
     "Quantidade de Gemas Total": "56",
     "Quantidade de Gemas Viáveis": "56",
     "Quantidade de Gemas Inviáveis": "0",
-    "Fazenda": NaN
+    "Fazenda": null,
+    "Unnamed: 20": null
   },
   {
     "ID": "3553216",
@@ -32954,7 +34455,8 @@ const VIABILIDADE_GEMAS_DATA = [
     "Quantidade de Gemas Total": "56",
     "Quantidade de Gemas Viáveis": "56",
     "Quantidade de Gemas Inviáveis": "0",
-    "Fazenda": NaN
+    "Fazenda": null,
+    "Unnamed: 20": null
   },
   {
     "ID": "3553211",
@@ -32976,7 +34478,8 @@ const VIABILIDADE_GEMAS_DATA = [
     "Quantidade de Gemas Total": "58",
     "Quantidade de Gemas Viáveis": "58",
     "Quantidade de Gemas Inviáveis": "0",
-    "Fazenda": NaN
+    "Fazenda": null,
+    "Unnamed: 20": null
   },
   {
     "ID": "3553206",
@@ -32998,7 +34501,8 @@ const VIABILIDADE_GEMAS_DATA = [
     "Quantidade de Gemas Total": "54",
     "Quantidade de Gemas Viáveis": "54",
     "Quantidade de Gemas Inviáveis": "0",
-    "Fazenda": NaN
+    "Fazenda": null,
+    "Unnamed: 20": null
   },
   {
     "ID": "3553517",
@@ -33020,7 +34524,8 @@ const VIABILIDADE_GEMAS_DATA = [
     "Quantidade de Gemas Total": "62",
     "Quantidade de Gemas Viáveis": "60",
     "Quantidade de Gemas Inviáveis": "2",
-    "Fazenda": NaN
+    "Fazenda": null,
+    "Unnamed: 20": null
   },
   {
     "ID": "3553201",
@@ -33042,7 +34547,8 @@ const VIABILIDADE_GEMAS_DATA = [
     "Quantidade de Gemas Total": "56",
     "Quantidade de Gemas Viáveis": "56",
     "Quantidade de Gemas Inviáveis": "0",
-    "Fazenda": NaN
+    "Fazenda": null,
+    "Unnamed: 20": null
   },
   {
     "ID": "3553513",
@@ -33064,7 +34570,8 @@ const VIABILIDADE_GEMAS_DATA = [
     "Quantidade de Gemas Total": "64",
     "Quantidade de Gemas Viáveis": "60",
     "Quantidade de Gemas Inviáveis": "4",
-    "Fazenda": NaN
+    "Fazenda": null,
+    "Unnamed: 20": null
   },
   {
     "ID": "3553197",
@@ -33086,7 +34593,8 @@ const VIABILIDADE_GEMAS_DATA = [
     "Quantidade de Gemas Total": "58",
     "Quantidade de Gemas Viáveis": "58",
     "Quantidade de Gemas Inviáveis": "0",
-    "Fazenda": NaN
+    "Fazenda": null,
+    "Unnamed: 20": null
   },
   {
     "ID": "3553505",
@@ -33108,7 +34616,8 @@ const VIABILIDADE_GEMAS_DATA = [
     "Quantidade de Gemas Total": "61",
     "Quantidade de Gemas Viáveis": "59",
     "Quantidade de Gemas Inviáveis": "2",
-    "Fazenda": NaN
+    "Fazenda": null,
+    "Unnamed: 20": null
   },
   {
     "ID": "3552928",
@@ -33130,7 +34639,8 @@ const VIABILIDADE_GEMAS_DATA = [
     "Quantidade de Gemas Total": "60",
     "Quantidade de Gemas Viáveis": "58",
     "Quantidade de Gemas Inviáveis": "2",
-    "Fazenda": NaN
+    "Fazenda": null,
+    "Unnamed: 20": null
   },
   {
     "ID": "3552923",
@@ -33152,7 +34662,8 @@ const VIABILIDADE_GEMAS_DATA = [
     "Quantidade de Gemas Total": "59",
     "Quantidade de Gemas Viáveis": "55",
     "Quantidade de Gemas Inviáveis": "4",
-    "Fazenda": NaN
+    "Fazenda": null,
+    "Unnamed: 20": null
   },
   {
     "ID": "3551450",
@@ -33174,7 +34685,8 @@ const VIABILIDADE_GEMAS_DATA = [
     "Quantidade de Gemas Total": "58",
     "Quantidade de Gemas Viáveis": "58",
     "Quantidade de Gemas Inviáveis": "0",
-    "Fazenda": NaN
+    "Fazenda": null,
+    "Unnamed: 20": null
   },
   {
     "ID": "3551444",
@@ -33196,7 +34708,8 @@ const VIABILIDADE_GEMAS_DATA = [
     "Quantidade de Gemas Total": "54",
     "Quantidade de Gemas Viáveis": "54",
     "Quantidade de Gemas Inviáveis": "0",
-    "Fazenda": NaN
+    "Fazenda": null,
+    "Unnamed: 20": null
   },
   {
     "ID": "3551440",
@@ -33218,7 +34731,8 @@ const VIABILIDADE_GEMAS_DATA = [
     "Quantidade de Gemas Total": "59",
     "Quantidade de Gemas Viáveis": "59",
     "Quantidade de Gemas Inviáveis": "0",
-    "Fazenda": NaN
+    "Fazenda": null,
+    "Unnamed: 20": null
   },
   {
     "ID": "3551434",
@@ -33240,7 +34754,8 @@ const VIABILIDADE_GEMAS_DATA = [
     "Quantidade de Gemas Total": "57",
     "Quantidade de Gemas Viáveis": "57",
     "Quantidade de Gemas Inviáveis": "0",
-    "Fazenda": NaN
+    "Fazenda": null,
+    "Unnamed: 20": null
   },
   {
     "ID": "3551013",
@@ -33262,7 +34777,8 @@ const VIABILIDADE_GEMAS_DATA = [
     "Quantidade de Gemas Total": "58",
     "Quantidade de Gemas Viáveis": "58",
     "Quantidade de Gemas Inviáveis": "0",
-    "Fazenda": NaN
+    "Fazenda": null,
+    "Unnamed: 20": null
   },
   {
     "ID": "3551008",
@@ -33284,7 +34800,8 @@ const VIABILIDADE_GEMAS_DATA = [
     "Quantidade de Gemas Total": "54",
     "Quantidade de Gemas Viáveis": "54",
     "Quantidade de Gemas Inviáveis": "0",
-    "Fazenda": NaN
+    "Fazenda": null,
+    "Unnamed: 20": null
   },
   {
     "ID": "3551385",
@@ -33306,7 +34823,8 @@ const VIABILIDADE_GEMAS_DATA = [
     "Quantidade de Gemas Total": "63",
     "Quantidade de Gemas Viáveis": "61",
     "Quantidade de Gemas Inviáveis": "2",
-    "Fazenda": NaN
+    "Fazenda": null,
+    "Unnamed: 20": null
   },
   {
     "ID": "3551380",
@@ -33328,7 +34846,8 @@ const VIABILIDADE_GEMAS_DATA = [
     "Quantidade de Gemas Total": "64",
     "Quantidade de Gemas Viáveis": "61",
     "Quantidade de Gemas Inviáveis": "3",
-    "Fazenda": NaN
+    "Fazenda": null,
+    "Unnamed: 20": null
   },
   {
     "ID": "3551000",
@@ -33350,7 +34869,8 @@ const VIABILIDADE_GEMAS_DATA = [
     "Quantidade de Gemas Total": "59",
     "Quantidade de Gemas Viáveis": "59",
     "Quantidade de Gemas Inviáveis": "0",
-    "Fazenda": NaN
+    "Fazenda": null,
+    "Unnamed: 20": null
   },
   {
     "ID": "3551325",
@@ -33372,7 +34892,8 @@ const VIABILIDADE_GEMAS_DATA = [
     "Quantidade de Gemas Total": "54",
     "Quantidade de Gemas Viáveis": "54",
     "Quantidade de Gemas Inviáveis": "0",
-    "Fazenda": NaN
+    "Fazenda": null,
+    "Unnamed: 20": null
   },
   {
     "ID": "3551320",
@@ -33394,7 +34915,8 @@ const VIABILIDADE_GEMAS_DATA = [
     "Quantidade de Gemas Total": "58",
     "Quantidade de Gemas Viáveis": "58",
     "Quantidade de Gemas Inviáveis": "0",
-    "Fazenda": NaN
+    "Fazenda": null,
+    "Unnamed: 20": null
   },
   {
     "ID": "3550991",
@@ -33416,7 +34938,8 @@ const VIABILIDADE_GEMAS_DATA = [
     "Quantidade de Gemas Total": "59",
     "Quantidade de Gemas Viáveis": "59",
     "Quantidade de Gemas Inviáveis": "0",
-    "Fazenda": NaN
+    "Fazenda": null,
+    "Unnamed: 20": null
   },
   {
     "ID": "3550989",
@@ -33438,7 +34961,8 @@ const VIABILIDADE_GEMAS_DATA = [
     "Quantidade de Gemas Total": "54",
     "Quantidade de Gemas Viáveis": "54",
     "Quantidade de Gemas Inviáveis": "0",
-    "Fazenda": NaN
+    "Fazenda": null,
+    "Unnamed: 20": null
   },
   {
     "ID": "3551368",
@@ -33460,7 +34984,8 @@ const VIABILIDADE_GEMAS_DATA = [
     "Quantidade de Gemas Total": "59",
     "Quantidade de Gemas Viáveis": "59",
     "Quantidade de Gemas Inviáveis": "0",
-    "Fazenda": NaN
+    "Fazenda": null,
+    "Unnamed: 20": null
   },
   {
     "ID": "3551364",
@@ -33482,7 +35007,8 @@ const VIABILIDADE_GEMAS_DATA = [
     "Quantidade de Gemas Total": "60",
     "Quantidade de Gemas Viáveis": "60",
     "Quantidade de Gemas Inviáveis": "0",
-    "Fazenda": NaN
+    "Fazenda": null,
+    "Unnamed: 20": null
   },
   {
     "ID": "3550982",
@@ -33504,7 +35030,8 @@ const VIABILIDADE_GEMAS_DATA = [
     "Quantidade de Gemas Total": "58",
     "Quantidade de Gemas Viáveis": "58",
     "Quantidade de Gemas Inviáveis": "0",
-    "Fazenda": NaN
+    "Fazenda": null,
+    "Unnamed: 20": null
   },
   {
     "ID": "3551315",
@@ -33526,7 +35053,8 @@ const VIABILIDADE_GEMAS_DATA = [
     "Quantidade de Gemas Total": "55",
     "Quantidade de Gemas Viáveis": "55",
     "Quantidade de Gemas Inviáveis": "0",
-    "Fazenda": NaN
+    "Fazenda": null,
+    "Unnamed: 20": null
   },
   {
     "ID": "3550978",
@@ -33548,7 +35076,8 @@ const VIABILIDADE_GEMAS_DATA = [
     "Quantidade de Gemas Total": "57",
     "Quantidade de Gemas Viáveis": "57",
     "Quantidade de Gemas Inviáveis": "0",
-    "Fazenda": NaN
+    "Fazenda": null,
+    "Unnamed: 20": null
   },
   {
     "ID": "3551310",
@@ -33570,7 +35099,8 @@ const VIABILIDADE_GEMAS_DATA = [
     "Quantidade de Gemas Total": "57",
     "Quantidade de Gemas Viáveis": "57",
     "Quantidade de Gemas Inviáveis": "0",
-    "Fazenda": NaN
+    "Fazenda": null,
+    "Unnamed: 20": null
   },
   {
     "ID": "3551360",
@@ -33592,7 +35122,8 @@ const VIABILIDADE_GEMAS_DATA = [
     "Quantidade de Gemas Total": "58",
     "Quantidade de Gemas Viáveis": "55",
     "Quantidade de Gemas Inviáveis": "3",
-    "Fazenda": NaN
+    "Fazenda": null,
+    "Unnamed: 20": null
   },
   {
     "ID": "3551305",
@@ -33614,7 +35145,8 @@ const VIABILIDADE_GEMAS_DATA = [
     "Quantidade de Gemas Total": "62",
     "Quantidade de Gemas Viáveis": "62",
     "Quantidade de Gemas Inviáveis": "0",
-    "Fazenda": NaN
+    "Fazenda": null,
+    "Unnamed: 20": null
   },
   {
     "ID": "3551356",
@@ -33636,7 +35168,8 @@ const VIABILIDADE_GEMAS_DATA = [
     "Quantidade de Gemas Total": "64",
     "Quantidade de Gemas Viáveis": "60",
     "Quantidade de Gemas Inviáveis": "4",
-    "Fazenda": NaN
+    "Fazenda": null,
+    "Unnamed: 20": null
   },
   {
     "ID": "3551347",
@@ -33658,7 +35191,8 @@ const VIABILIDADE_GEMAS_DATA = [
     "Quantidade de Gemas Total": "63",
     "Quantidade de Gemas Viáveis": "60",
     "Quantidade de Gemas Inviáveis": "3",
-    "Fazenda": NaN
+    "Fazenda": null,
+    "Unnamed: 20": null
   },
   {
     "ID": "3551338",
@@ -33680,7 +35214,8 @@ const VIABILIDADE_GEMAS_DATA = [
     "Quantidade de Gemas Total": "57",
     "Quantidade de Gemas Viáveis": "55",
     "Quantidade de Gemas Inviáveis": "2",
-    "Fazenda": NaN
+    "Fazenda": null,
+    "Unnamed: 20": null
   },
   {
     "ID": "3549555",
@@ -33702,7 +35237,8 @@ const VIABILIDADE_GEMAS_DATA = [
     "Quantidade de Gemas Total": "61",
     "Quantidade de Gemas Viáveis": "61",
     "Quantidade de Gemas Inviáveis": "0",
-    "Fazenda": NaN
+    "Fazenda": null,
+    "Unnamed: 20": null
   },
   {
     "ID": "3549544",
@@ -33724,7 +35260,8 @@ const VIABILIDADE_GEMAS_DATA = [
     "Quantidade de Gemas Total": "58",
     "Quantidade de Gemas Viáveis": "58",
     "Quantidade de Gemas Inviáveis": "0",
-    "Fazenda": NaN
+    "Fazenda": null,
+    "Unnamed: 20": null
   },
   {
     "ID": "3549405",
@@ -33746,7 +35283,8 @@ const VIABILIDADE_GEMAS_DATA = [
     "Quantidade de Gemas Total": "63",
     "Quantidade de Gemas Viáveis": "60",
     "Quantidade de Gemas Inviáveis": "3",
-    "Fazenda": NaN
+    "Fazenda": null,
+    "Unnamed: 20": null
   },
   {
     "ID": "3549401",
@@ -33768,7 +35306,8 @@ const VIABILIDADE_GEMAS_DATA = [
     "Quantidade de Gemas Total": "65",
     "Quantidade de Gemas Viáveis": "60",
     "Quantidade de Gemas Inviáveis": "5",
-    "Fazenda": NaN
+    "Fazenda": null,
+    "Unnamed: 20": null
   },
   {
     "ID": "3549589",
@@ -33790,7 +35329,8 @@ const VIABILIDADE_GEMAS_DATA = [
     "Quantidade de Gemas Total": "58",
     "Quantidade de Gemas Viáveis": "58",
     "Quantidade de Gemas Inviáveis": "0",
-    "Fazenda": NaN
+    "Fazenda": null,
+    "Unnamed: 20": null
   },
   {
     "ID": "3549585",
@@ -33812,7 +35352,8 @@ const VIABILIDADE_GEMAS_DATA = [
     "Quantidade de Gemas Total": "54",
     "Quantidade de Gemas Viáveis": "54",
     "Quantidade de Gemas Inviáveis": "0",
-    "Fazenda": NaN
+    "Fazenda": null,
+    "Unnamed: 20": null
   },
   {
     "ID": "3549578",
@@ -33834,7 +35375,8 @@ const VIABILIDADE_GEMAS_DATA = [
     "Quantidade de Gemas Total": "54",
     "Quantidade de Gemas Viáveis": "54",
     "Quantidade de Gemas Inviáveis": "0",
-    "Fazenda": NaN
+    "Fazenda": null,
+    "Unnamed: 20": null
   },
   {
     "ID": "3549577",
@@ -33856,7 +35398,8 @@ const VIABILIDADE_GEMAS_DATA = [
     "Quantidade de Gemas Total": "56",
     "Quantidade de Gemas Viáveis": "56",
     "Quantidade de Gemas Inviáveis": "0",
-    "Fazenda": NaN
+    "Fazenda": null,
+    "Unnamed: 20": null
   },
   {
     "ID": "3549575",
@@ -33878,7 +35421,8 @@ const VIABILIDADE_GEMAS_DATA = [
     "Quantidade de Gemas Total": "54",
     "Quantidade de Gemas Viáveis": "54",
     "Quantidade de Gemas Inviáveis": "0",
-    "Fazenda": NaN
+    "Fazenda": null,
+    "Unnamed: 20": null
   },
   {
     "ID": "3549574",
@@ -33900,7 +35444,8 @@ const VIABILIDADE_GEMAS_DATA = [
     "Quantidade de Gemas Total": "54",
     "Quantidade de Gemas Viáveis": "54",
     "Quantidade de Gemas Inviáveis": "0",
-    "Fazenda": NaN
+    "Fazenda": null,
+    "Unnamed: 20": null
   },
   {
     "ID": "3549636",
@@ -33922,7 +35467,8 @@ const VIABILIDADE_GEMAS_DATA = [
     "Quantidade de Gemas Total": "57",
     "Quantidade de Gemas Viáveis": "57",
     "Quantidade de Gemas Inviáveis": "0",
-    "Fazenda": NaN
+    "Fazenda": null,
+    "Unnamed: 20": null
   },
   {
     "ID": "3549630",
@@ -33944,7 +35490,8 @@ const VIABILIDADE_GEMAS_DATA = [
     "Quantidade de Gemas Total": "49",
     "Quantidade de Gemas Viáveis": "49",
     "Quantidade de Gemas Inviáveis": "0",
-    "Fazenda": NaN
+    "Fazenda": null,
+    "Unnamed: 20": null
   },
   {
     "ID": "3549394",
@@ -33966,7 +35513,8 @@ const VIABILIDADE_GEMAS_DATA = [
     "Quantidade de Gemas Total": "65",
     "Quantidade de Gemas Viáveis": "60",
     "Quantidade de Gemas Inviáveis": "5",
-    "Fazenda": NaN
+    "Fazenda": null,
+    "Unnamed: 20": null
   },
   {
     "ID": "3549184",
@@ -33988,7 +35536,8 @@ const VIABILIDADE_GEMAS_DATA = [
     "Quantidade de Gemas Total": "61",
     "Quantidade de Gemas Viáveis": "59",
     "Quantidade de Gemas Inviáveis": "2",
-    "Fazenda": NaN
+    "Fazenda": null,
+    "Unnamed: 20": null
   },
   {
     "ID": "3549183",
@@ -34010,7 +35559,8 @@ const VIABILIDADE_GEMAS_DATA = [
     "Quantidade de Gemas Total": "57",
     "Quantidade de Gemas Viáveis": "56",
     "Quantidade de Gemas Inviáveis": "1",
-    "Fazenda": NaN
+    "Fazenda": null,
+    "Unnamed: 20": null
   },
   {
     "ID": "3549390",
@@ -34032,7 +35582,8 @@ const VIABILIDADE_GEMAS_DATA = [
     "Quantidade de Gemas Total": "64",
     "Quantidade de Gemas Viáveis": "61",
     "Quantidade de Gemas Inviáveis": "3",
-    "Fazenda": NaN
+    "Fazenda": null,
+    "Unnamed: 20": null
   },
   {
     "ID": "3549386",
@@ -34054,7 +35605,8 @@ const VIABILIDADE_GEMAS_DATA = [
     "Quantidade de Gemas Total": "64",
     "Quantidade de Gemas Viáveis": "60",
     "Quantidade de Gemas Inviáveis": "4",
-    "Fazenda": NaN
+    "Fazenda": null,
+    "Unnamed: 20": null
   },
   {
     "ID": "3549545",
@@ -34076,7 +35628,8 @@ const VIABILIDADE_GEMAS_DATA = [
     "Quantidade de Gemas Total": "56",
     "Quantidade de Gemas Viáveis": "56",
     "Quantidade de Gemas Inviáveis": "0",
-    "Fazenda": NaN
+    "Fazenda": null,
+    "Unnamed: 20": null
   },
   {
     "ID": "3549625",
@@ -34098,7 +35651,8 @@ const VIABILIDADE_GEMAS_DATA = [
     "Quantidade de Gemas Total": "50",
     "Quantidade de Gemas Viáveis": "48",
     "Quantidade de Gemas Inviáveis": "2",
-    "Fazenda": NaN
+    "Fazenda": null,
+    "Unnamed: 20": null
   },
   {
     "ID": "3549618",
@@ -34120,7 +35674,8 @@ const VIABILIDADE_GEMAS_DATA = [
     "Quantidade de Gemas Total": "56",
     "Quantidade de Gemas Viáveis": "56",
     "Quantidade de Gemas Inviáveis": "0",
-    "Fazenda": NaN
+    "Fazenda": null,
+    "Unnamed: 20": null
   },
   {
     "ID": "3549613",
@@ -34142,7 +35697,8 @@ const VIABILIDADE_GEMAS_DATA = [
     "Quantidade de Gemas Total": "60",
     "Quantidade de Gemas Viáveis": "56",
     "Quantidade de Gemas Inviáveis": "4",
-    "Fazenda": NaN
+    "Fazenda": null,
+    "Unnamed: 20": null
   },
   {
     "ID": "3547660",
@@ -34164,7 +35720,8 @@ const VIABILIDADE_GEMAS_DATA = [
     "Quantidade de Gemas Total": "60",
     "Quantidade de Gemas Viáveis": "60",
     "Quantidade de Gemas Inviáveis": "0",
-    "Fazenda": NaN
+    "Fazenda": null,
+    "Unnamed: 20": null
   },
   {
     "ID": "3547492",
@@ -34186,7 +35743,8 @@ const VIABILIDADE_GEMAS_DATA = [
     "Quantidade de Gemas Total": "54",
     "Quantidade de Gemas Viáveis": "53",
     "Quantidade de Gemas Inviáveis": "1",
-    "Fazenda": NaN
+    "Fazenda": null,
+    "Unnamed: 20": null
   },
   {
     "ID": "3547491",
@@ -34208,7 +35766,8 @@ const VIABILIDADE_GEMAS_DATA = [
     "Quantidade de Gemas Total": "62",
     "Quantidade de Gemas Viáveis": "60",
     "Quantidade de Gemas Inviáveis": "2",
-    "Fazenda": NaN
+    "Fazenda": null,
+    "Unnamed: 20": null
   },
   {
     "ID": "3547655",
@@ -34230,7 +35789,8 @@ const VIABILIDADE_GEMAS_DATA = [
     "Quantidade de Gemas Total": "54",
     "Quantidade de Gemas Viáveis": "54",
     "Quantidade de Gemas Inviáveis": "0",
-    "Fazenda": NaN
+    "Fazenda": null,
+    "Unnamed: 20": null
   },
   {
     "ID": "3547649",
@@ -34252,7 +35812,8 @@ const VIABILIDADE_GEMAS_DATA = [
     "Quantidade de Gemas Total": "62",
     "Quantidade de Gemas Viáveis": "62",
     "Quantidade de Gemas Inviáveis": "0",
-    "Fazenda": NaN
+    "Fazenda": null,
+    "Unnamed: 20": null
   },
   {
     "ID": "3547644",
@@ -34274,7 +35835,8 @@ const VIABILIDADE_GEMAS_DATA = [
     "Quantidade de Gemas Total": "54",
     "Quantidade de Gemas Viáveis": "54",
     "Quantidade de Gemas Inviáveis": "0",
-    "Fazenda": NaN
+    "Fazenda": null,
+    "Unnamed: 20": null
   },
   {
     "ID": "3547427",
@@ -34296,7 +35858,8 @@ const VIABILIDADE_GEMAS_DATA = [
     "Quantidade de Gemas Total": "62",
     "Quantidade de Gemas Viáveis": "60",
     "Quantidade de Gemas Inviáveis": "2",
-    "Fazenda": NaN
+    "Fazenda": null,
+    "Unnamed: 20": null
   },
   {
     "ID": "3547639",
@@ -34318,7 +35881,8 @@ const VIABILIDADE_GEMAS_DATA = [
     "Quantidade de Gemas Total": "62",
     "Quantidade de Gemas Viáveis": "62",
     "Quantidade de Gemas Inviáveis": "0",
-    "Fazenda": NaN
+    "Fazenda": null,
+    "Unnamed: 20": null
   },
   {
     "ID": "3547422",
@@ -34340,7 +35904,8 @@ const VIABILIDADE_GEMAS_DATA = [
     "Quantidade de Gemas Total": "61",
     "Quantidade de Gemas Viáveis": "60",
     "Quantidade de Gemas Inviáveis": "1",
-    "Fazenda": NaN
+    "Fazenda": null,
+    "Unnamed: 20": null
   },
   {
     "ID": "3547624",
@@ -34362,7 +35927,8 @@ const VIABILIDADE_GEMAS_DATA = [
     "Quantidade de Gemas Total": "49",
     "Quantidade de Gemas Viáveis": "49",
     "Quantidade de Gemas Inviáveis": "0",
-    "Fazenda": NaN
+    "Fazenda": null,
+    "Unnamed: 20": null
   },
   {
     "ID": "3547619",
@@ -34384,7 +35950,8 @@ const VIABILIDADE_GEMAS_DATA = [
     "Quantidade de Gemas Total": "72",
     "Quantidade de Gemas Viáveis": "72",
     "Quantidade de Gemas Inviáveis": "0",
-    "Fazenda": NaN
+    "Fazenda": null,
+    "Unnamed: 20": null
   },
   {
     "ID": "3547180",
@@ -34406,7 +35973,8 @@ const VIABILIDADE_GEMAS_DATA = [
     "Quantidade de Gemas Total": "54",
     "Quantidade de Gemas Viáveis": "54",
     "Quantidade de Gemas Inviáveis": "0",
-    "Fazenda": NaN
+    "Fazenda": null,
+    "Unnamed: 20": null
   },
   {
     "ID": "3547041",
@@ -34428,7 +35996,8 @@ const VIABILIDADE_GEMAS_DATA = [
     "Quantidade de Gemas Total": "78",
     "Quantidade de Gemas Viáveis": "78",
     "Quantidade de Gemas Inviáveis": "0",
-    "Fazenda": NaN
+    "Fazenda": null,
+    "Unnamed: 20": null
   },
   {
     "ID": "3547176",
@@ -34450,7 +36019,8 @@ const VIABILIDADE_GEMAS_DATA = [
     "Quantidade de Gemas Total": "57",
     "Quantidade de Gemas Viáveis": "57",
     "Quantidade de Gemas Inviáveis": "0",
-    "Fazenda": NaN
+    "Fazenda": null,
+    "Unnamed: 20": null
   },
   {
     "ID": "3547609",
@@ -34472,7 +36042,8 @@ const VIABILIDADE_GEMAS_DATA = [
     "Quantidade de Gemas Total": "81",
     "Quantidade de Gemas Viáveis": "81",
     "Quantidade de Gemas Inviáveis": "0",
-    "Fazenda": NaN
+    "Fazenda": null,
+    "Unnamed: 20": null
   },
   {
     "ID": "3547145",
@@ -34494,7 +36065,8 @@ const VIABILIDADE_GEMAS_DATA = [
     "Quantidade de Gemas Total": "60",
     "Quantidade de Gemas Viáveis": "60",
     "Quantidade de Gemas Inviáveis": "0",
-    "Fazenda": NaN
+    "Fazenda": null,
+    "Unnamed: 20": null
   },
   {
     "ID": "3547037",
@@ -34516,7 +36088,8 @@ const VIABILIDADE_GEMAS_DATA = [
     "Quantidade de Gemas Total": "82",
     "Quantidade de Gemas Viáveis": "82",
     "Quantidade de Gemas Inviáveis": "0",
-    "Fazenda": NaN
+    "Fazenda": null,
+    "Unnamed: 20": null
   },
   {
     "ID": "3546927",
@@ -34538,7 +36111,8 @@ const VIABILIDADE_GEMAS_DATA = [
     "Quantidade de Gemas Total": "61",
     "Quantidade de Gemas Viáveis": "59",
     "Quantidade de Gemas Inviáveis": "2",
-    "Fazenda": NaN
+    "Fazenda": null,
+    "Unnamed: 20": null
   },
   {
     "ID": "3546926",
@@ -34560,7 +36134,8 @@ const VIABILIDADE_GEMAS_DATA = [
     "Quantidade de Gemas Total": "58",
     "Quantidade de Gemas Viáveis": "58",
     "Quantidade de Gemas Inviáveis": "0",
-    "Fazenda": NaN
+    "Fazenda": null,
+    "Unnamed: 20": null
   },
   {
     "ID": "3546925",
@@ -34582,7 +36157,8 @@ const VIABILIDADE_GEMAS_DATA = [
     "Quantidade de Gemas Total": "56",
     "Quantidade de Gemas Viáveis": "55",
     "Quantidade de Gemas Inviáveis": "1",
-    "Fazenda": NaN
+    "Fazenda": null,
+    "Unnamed: 20": null
   },
   {
     "ID": "3547140",
@@ -34604,7 +36180,8 @@ const VIABILIDADE_GEMAS_DATA = [
     "Quantidade de Gemas Total": "59",
     "Quantidade de Gemas Viáveis": "59",
     "Quantidade de Gemas Inviáveis": "0",
-    "Fazenda": NaN
+    "Fazenda": null,
+    "Unnamed: 20": null
   },
   {
     "ID": "3546924",
@@ -34626,7 +36203,8 @@ const VIABILIDADE_GEMAS_DATA = [
     "Quantidade de Gemas Total": "62",
     "Quantidade de Gemas Viáveis": "58",
     "Quantidade de Gemas Inviáveis": "4",
-    "Fazenda": NaN
+    "Fazenda": null,
+    "Unnamed: 20": null
   },
   {
     "ID": "3547031",
@@ -34648,7 +36226,8 @@ const VIABILIDADE_GEMAS_DATA = [
     "Quantidade de Gemas Total": "95",
     "Quantidade de Gemas Viáveis": "95",
     "Quantidade de Gemas Inviáveis": "0",
-    "Fazenda": NaN
+    "Fazenda": null,
+    "Unnamed: 20": null
   },
   {
     "ID": "3547134",
@@ -34670,7 +36249,8 @@ const VIABILIDADE_GEMAS_DATA = [
     "Quantidade de Gemas Total": "58",
     "Quantidade de Gemas Viáveis": "58",
     "Quantidade de Gemas Inviáveis": "0",
-    "Fazenda": NaN
+    "Fazenda": null,
+    "Unnamed: 20": null
   },
   {
     "ID": "3547130",
@@ -34692,7 +36272,8 @@ const VIABILIDADE_GEMAS_DATA = [
     "Quantidade de Gemas Total": "54",
     "Quantidade de Gemas Viáveis": "54",
     "Quantidade de Gemas Inviáveis": "0",
-    "Fazenda": NaN
+    "Fazenda": null,
+    "Unnamed: 20": null
   },
   {
     "ID": "3547125",
@@ -34714,7 +36295,8 @@ const VIABILIDADE_GEMAS_DATA = [
     "Quantidade de Gemas Total": "57",
     "Quantidade de Gemas Viáveis": "57",
     "Quantidade de Gemas Inviáveis": "0",
-    "Fazenda": NaN
+    "Fazenda": null,
+    "Unnamed: 20": null
   },
   {
     "ID": "3547119",
@@ -34736,7 +36318,8 @@ const VIABILIDADE_GEMAS_DATA = [
     "Quantidade de Gemas Total": "58",
     "Quantidade de Gemas Viáveis": "58",
     "Quantidade de Gemas Inviáveis": "0",
-    "Fazenda": NaN
+    "Fazenda": null,
+    "Unnamed: 20": null
   },
   {
     "ID": "3547114",
@@ -34758,7 +36341,8 @@ const VIABILIDADE_GEMAS_DATA = [
     "Quantidade de Gemas Total": "54",
     "Quantidade de Gemas Viáveis": "54",
     "Quantidade de Gemas Inviáveis": "0",
-    "Fazenda": NaN
+    "Fazenda": null,
+    "Unnamed: 20": null
   },
   {
     "ID": "3547109",
@@ -34780,7 +36364,8 @@ const VIABILIDADE_GEMAS_DATA = [
     "Quantidade de Gemas Total": "60",
     "Quantidade de Gemas Viáveis": "60",
     "Quantidade de Gemas Inviáveis": "0",
-    "Fazenda": NaN
+    "Fazenda": null,
+    "Unnamed: 20": null
   },
   {
     "ID": "3547299",
@@ -34802,7 +36387,8 @@ const VIABILIDADE_GEMAS_DATA = [
     "Quantidade de Gemas Total": "60",
     "Quantidade de Gemas Viáveis": "60",
     "Quantidade de Gemas Inviáveis": "0",
-    "Fazenda": NaN
+    "Fazenda": null,
+    "Unnamed: 20": null
   },
   {
     "ID": "3547294",
@@ -34824,7 +36410,8 @@ const VIABILIDADE_GEMAS_DATA = [
     "Quantidade de Gemas Total": "60",
     "Quantidade de Gemas Viáveis": "58",
     "Quantidade de Gemas Inviáveis": "2",
-    "Fazenda": NaN
+    "Fazenda": null,
+    "Unnamed: 20": null
   },
   {
     "ID": "3547288",
@@ -34846,7 +36433,8 @@ const VIABILIDADE_GEMAS_DATA = [
     "Quantidade de Gemas Total": "60",
     "Quantidade de Gemas Viáveis": "60",
     "Quantidade de Gemas Inviáveis": "0",
-    "Fazenda": NaN
+    "Fazenda": null,
+    "Unnamed: 20": null
   },
   {
     "ID": "3547277",
@@ -34868,7 +36456,8 @@ const VIABILIDADE_GEMAS_DATA = [
     "Quantidade de Gemas Total": "58",
     "Quantidade de Gemas Viáveis": "57",
     "Quantidade de Gemas Inviáveis": "1",
-    "Fazenda": NaN
+    "Fazenda": null,
+    "Unnamed: 20": null
   },
   {
     "ID": "3545052",
@@ -34890,7 +36479,8 @@ const VIABILIDADE_GEMAS_DATA = [
     "Quantidade de Gemas Total": "56",
     "Quantidade de Gemas Viáveis": "56",
     "Quantidade de Gemas Inviáveis": "0",
-    "Fazenda": NaN
+    "Fazenda": null,
+    "Unnamed: 20": null
   },
   {
     "ID": "3544777",
@@ -34912,7 +36502,8 @@ const VIABILIDADE_GEMAS_DATA = [
     "Quantidade de Gemas Total": "76",
     "Quantidade de Gemas Viáveis": "76",
     "Quantidade de Gemas Inviáveis": "0",
-    "Fazenda": NaN
+    "Fazenda": null,
+    "Unnamed: 20": null
   },
   {
     "ID": "3544727",
@@ -34934,7 +36525,8 @@ const VIABILIDADE_GEMAS_DATA = [
     "Quantidade de Gemas Total": "88",
     "Quantidade de Gemas Viáveis": "88",
     "Quantidade de Gemas Inviáveis": "0",
-    "Fazenda": NaN
+    "Fazenda": null,
+    "Unnamed: 20": null
   },
   {
     "ID": "3544850",
@@ -34956,7 +36548,8 @@ const VIABILIDADE_GEMAS_DATA = [
     "Quantidade de Gemas Total": "62",
     "Quantidade de Gemas Viáveis": "60",
     "Quantidade de Gemas Inviáveis": "2",
-    "Fazenda": NaN
+    "Fazenda": null,
+    "Unnamed: 20": null
   },
   {
     "ID": "3544723",
@@ -34978,7 +36571,8 @@ const VIABILIDADE_GEMAS_DATA = [
     "Quantidade de Gemas Total": "92",
     "Quantidade de Gemas Viáveis": "92",
     "Quantidade de Gemas Inviáveis": "0",
-    "Fazenda": NaN
+    "Fazenda": null,
+    "Unnamed: 20": null
   },
   {
     "ID": "3544846",
@@ -35000,7 +36594,8 @@ const VIABILIDADE_GEMAS_DATA = [
     "Quantidade de Gemas Total": "60",
     "Quantidade de Gemas Viáveis": "60",
     "Quantidade de Gemas Inviáveis": "0",
-    "Fazenda": NaN
+    "Fazenda": null,
+    "Unnamed: 20": null
   },
   {
     "ID": "3544574",
@@ -35022,7 +36617,8 @@ const VIABILIDADE_GEMAS_DATA = [
     "Quantidade de Gemas Total": "53",
     "Quantidade de Gemas Viáveis": "53",
     "Quantidade de Gemas Inviáveis": "0",
-    "Fazenda": NaN
+    "Fazenda": null,
+    "Unnamed: 20": null
   },
   {
     "ID": "3544573",
@@ -35044,7 +36640,8 @@ const VIABILIDADE_GEMAS_DATA = [
     "Quantidade de Gemas Total": "50",
     "Quantidade de Gemas Viáveis": "50",
     "Quantidade de Gemas Inviáveis": "0",
-    "Fazenda": NaN
+    "Fazenda": null,
+    "Unnamed: 20": null
   },
   {
     "ID": "3544572",
@@ -35066,7 +36663,8 @@ const VIABILIDADE_GEMAS_DATA = [
     "Quantidade de Gemas Total": "54",
     "Quantidade de Gemas Viáveis": "54",
     "Quantidade de Gemas Inviáveis": "0",
-    "Fazenda": NaN
+    "Fazenda": null,
+    "Unnamed: 20": null
   },
   {
     "ID": "3544446",
@@ -35088,7 +36686,8 @@ const VIABILIDADE_GEMAS_DATA = [
     "Quantidade de Gemas Total": "91",
     "Quantidade de Gemas Viáveis": "91",
     "Quantidade de Gemas Inviáveis": "0",
-    "Fazenda": NaN
+    "Fazenda": null,
+    "Unnamed: 20": null
   },
   {
     "ID": "3544441",
@@ -35110,7 +36709,8 @@ const VIABILIDADE_GEMAS_DATA = [
     "Quantidade de Gemas Total": "79",
     "Quantidade de Gemas Viáveis": "79",
     "Quantidade de Gemas Inviáveis": "0",
-    "Fazenda": NaN
+    "Fazenda": null,
+    "Unnamed: 20": null
   },
   {
     "ID": "3544838",
@@ -35132,7 +36732,8 @@ const VIABILIDADE_GEMAS_DATA = [
     "Quantidade de Gemas Total": "61",
     "Quantidade de Gemas Viáveis": "61",
     "Quantidade de Gemas Inviáveis": "0",
-    "Fazenda": NaN
+    "Fazenda": null,
+    "Unnamed: 20": null
   },
   {
     "ID": "3544318",
@@ -35154,7 +36755,8 @@ const VIABILIDADE_GEMAS_DATA = [
     "Quantidade de Gemas Total": "60",
     "Quantidade de Gemas Viáveis": "60",
     "Quantidade de Gemas Inviáveis": "0",
-    "Fazenda": NaN
+    "Fazenda": null,
+    "Unnamed: 20": null
   },
   {
     "ID": "3544858",
@@ -35176,7 +36778,8 @@ const VIABILIDADE_GEMAS_DATA = [
     "Quantidade de Gemas Total": "59",
     "Quantidade de Gemas Viáveis": "59",
     "Quantidade de Gemas Inviáveis": "0",
-    "Fazenda": NaN
+    "Fazenda": null,
+    "Unnamed: 20": null
   },
   {
     "ID": "3544314",
@@ -35198,7 +36801,8 @@ const VIABILIDADE_GEMAS_DATA = [
     "Quantidade de Gemas Total": "62",
     "Quantidade de Gemas Viáveis": "62",
     "Quantidade de Gemas Inviáveis": "0",
-    "Fazenda": NaN
+    "Fazenda": null,
+    "Unnamed: 20": null
   },
   {
     "ID": "3544826",
@@ -35220,7 +36824,8 @@ const VIABILIDADE_GEMAS_DATA = [
     "Quantidade de Gemas Total": "61",
     "Quantidade de Gemas Viáveis": "60",
     "Quantidade de Gemas Inviáveis": "1",
-    "Fazenda": NaN
+    "Fazenda": null,
+    "Unnamed: 20": null
   },
   {
     "ID": "3544433",
@@ -35242,7 +36847,8 @@ const VIABILIDADE_GEMAS_DATA = [
     "Quantidade de Gemas Total": "85",
     "Quantidade de Gemas Viáveis": "85",
     "Quantidade de Gemas Inviáveis": "0",
-    "Fazenda": NaN
+    "Fazenda": null,
+    "Unnamed: 20": null
   },
   {
     "ID": "3545022",
@@ -35264,7 +36870,8 @@ const VIABILIDADE_GEMAS_DATA = [
     "Quantidade de Gemas Total": "55",
     "Quantidade de Gemas Viáveis": "55",
     "Quantidade de Gemas Inviáveis": "0",
-    "Fazenda": NaN
+    "Fazenda": null,
+    "Unnamed: 20": null
   },
   {
     "ID": "3545017",
@@ -35286,7 +36893,8 @@ const VIABILIDADE_GEMAS_DATA = [
     "Quantidade de Gemas Total": "54",
     "Quantidade de Gemas Viáveis": "54",
     "Quantidade de Gemas Inviáveis": "0",
-    "Fazenda": NaN
+    "Fazenda": null,
+    "Unnamed: 20": null
   },
   {
     "ID": "3545012",
@@ -35308,7 +36916,8 @@ const VIABILIDADE_GEMAS_DATA = [
     "Quantidade de Gemas Total": "57",
     "Quantidade de Gemas Viáveis": "57",
     "Quantidade de Gemas Inviáveis": "0",
-    "Fazenda": NaN
+    "Fazenda": null,
+    "Unnamed: 20": null
   },
   {
     "ID": "3545001",
@@ -35330,7 +36939,8 @@ const VIABILIDADE_GEMAS_DATA = [
     "Quantidade de Gemas Total": "54",
     "Quantidade de Gemas Viáveis": "54",
     "Quantidade de Gemas Inviáveis": "0",
-    "Fazenda": NaN
+    "Fazenda": null,
+    "Unnamed: 20": null
   },
   {
     "ID": "3544623",
@@ -35352,7 +36962,8 @@ const VIABILIDADE_GEMAS_DATA = [
     "Quantidade de Gemas Total": "60",
     "Quantidade de Gemas Viáveis": "60",
     "Quantidade de Gemas Inviáveis": "0",
-    "Fazenda": NaN
+    "Fazenda": null,
+    "Unnamed: 20": null
   },
   {
     "ID": "3544995",
@@ -35374,7 +36985,8 @@ const VIABILIDADE_GEMAS_DATA = [
     "Quantidade de Gemas Total": "58",
     "Quantidade de Gemas Viáveis": "58",
     "Quantidade de Gemas Inviáveis": "0",
-    "Fazenda": NaN
+    "Fazenda": null,
+    "Unnamed: 20": null
   },
   {
     "ID": "3544284",
@@ -35396,7 +37008,8 @@ const VIABILIDADE_GEMAS_DATA = [
     "Quantidade de Gemas Total": "62",
     "Quantidade de Gemas Viáveis": "55",
     "Quantidade de Gemas Inviáveis": "7",
-    "Fazenda": NaN
+    "Fazenda": null,
+    "Unnamed: 20": null
   },
   {
     "ID": "3544283",
@@ -35418,7 +37031,8 @@ const VIABILIDADE_GEMAS_DATA = [
     "Quantidade de Gemas Total": "60",
     "Quantidade de Gemas Viáveis": "55",
     "Quantidade de Gemas Inviáveis": "5",
-    "Fazenda": NaN
+    "Fazenda": null,
+    "Unnamed: 20": null
   },
   {
     "ID": "3544915",
@@ -35440,7 +37054,8 @@ const VIABILIDADE_GEMAS_DATA = [
     "Quantidade de Gemas Total": "65",
     "Quantidade de Gemas Viáveis": "64",
     "Quantidade de Gemas Inviáveis": "1",
-    "Fazenda": NaN
+    "Fazenda": null,
+    "Unnamed: 20": null
   },
   {
     "ID": "3544618",
@@ -35462,7 +37077,8 @@ const VIABILIDADE_GEMAS_DATA = [
     "Quantidade de Gemas Total": "60",
     "Quantidade de Gemas Viáveis": "58",
     "Quantidade de Gemas Inviáveis": "2",
-    "Fazenda": NaN
+    "Fazenda": null,
+    "Unnamed: 20": null
   },
   {
     "ID": "3544990",
@@ -35484,7 +37100,8 @@ const VIABILIDADE_GEMAS_DATA = [
     "Quantidade de Gemas Total": "54",
     "Quantidade de Gemas Viáveis": "54",
     "Quantidade de Gemas Inviáveis": "0",
-    "Fazenda": NaN
+    "Fazenda": null,
+    "Unnamed: 20": null
   },
   {
     "ID": "3544910",
@@ -35506,7 +37123,8 @@ const VIABILIDADE_GEMAS_DATA = [
     "Quantidade de Gemas Total": "67",
     "Quantidade de Gemas Viáveis": "65",
     "Quantidade de Gemas Inviáveis": "2",
-    "Fazenda": NaN
+    "Fazenda": null,
+    "Unnamed: 20": null
   },
   {
     "ID": "3544985",
@@ -35528,7 +37146,8 @@ const VIABILIDADE_GEMAS_DATA = [
     "Quantidade de Gemas Total": "55",
     "Quantidade de Gemas Viáveis": "55",
     "Quantidade de Gemas Inviáveis": "0",
-    "Fazenda": NaN
+    "Fazenda": null,
+    "Unnamed: 20": null
   },
   {
     "ID": "3544611",
@@ -35550,7 +37169,8 @@ const VIABILIDADE_GEMAS_DATA = [
     "Quantidade de Gemas Total": "60",
     "Quantidade de Gemas Viáveis": "55",
     "Quantidade de Gemas Inviáveis": "5",
-    "Fazenda": NaN
+    "Fazenda": null,
+    "Unnamed: 20": null
   },
   {
     "ID": "3544905",
@@ -35572,7 +37192,8 @@ const VIABILIDADE_GEMAS_DATA = [
     "Quantidade de Gemas Total": "65",
     "Quantidade de Gemas Viáveis": "64",
     "Quantidade de Gemas Inviáveis": "1",
-    "Fazenda": NaN
+    "Fazenda": null,
+    "Unnamed: 20": null
   },
   {
     "ID": "3544982",
@@ -35594,7 +37215,8 @@ const VIABILIDADE_GEMAS_DATA = [
     "Quantidade de Gemas Total": "57",
     "Quantidade de Gemas Viáveis": "57",
     "Quantidade de Gemas Inviáveis": "0",
-    "Fazenda": NaN
+    "Fazenda": null,
+    "Unnamed: 20": null
   },
   {
     "ID": "3544630",
@@ -35616,7 +37238,8 @@ const VIABILIDADE_GEMAS_DATA = [
     "Quantidade de Gemas Total": "60",
     "Quantidade de Gemas Viáveis": "58",
     "Quantidade de Gemas Inviáveis": "2",
-    "Fazenda": NaN
+    "Fazenda": null,
+    "Unnamed: 20": null
   },
   {
     "ID": "3544854",
@@ -35638,7 +37261,8 @@ const VIABILIDADE_GEMAS_DATA = [
     "Quantidade de Gemas Total": "60",
     "Quantidade de Gemas Viáveis": "60",
     "Quantidade de Gemas Inviáveis": "0",
-    "Fazenda": NaN
+    "Fazenda": null,
+    "Unnamed: 20": null
   },
   {
     "ID": "3542376",
@@ -35660,7 +37284,8 @@ const VIABILIDADE_GEMAS_DATA = [
     "Quantidade de Gemas Total": "51",
     "Quantidade de Gemas Viáveis": "51",
     "Quantidade de Gemas Inviáveis": "0",
-    "Fazenda": NaN
+    "Fazenda": null,
+    "Unnamed: 20": null
   },
   {
     "ID": "3542334",
@@ -35682,7 +37307,8 @@ const VIABILIDADE_GEMAS_DATA = [
     "Quantidade de Gemas Total": "63",
     "Quantidade de Gemas Viáveis": "60",
     "Quantidade de Gemas Inviáveis": "3",
-    "Fazenda": NaN
+    "Fazenda": null,
+    "Unnamed: 20": null
   },
   {
     "ID": "3542330",
@@ -35704,7 +37330,8 @@ const VIABILIDADE_GEMAS_DATA = [
     "Quantidade de Gemas Total": "58",
     "Quantidade de Gemas Viáveis": "57",
     "Quantidade de Gemas Inviáveis": "1",
-    "Fazenda": NaN
+    "Fazenda": null,
+    "Unnamed: 20": null
   },
   {
     "ID": "3542365",
@@ -35726,7 +37353,8 @@ const VIABILIDADE_GEMAS_DATA = [
     "Quantidade de Gemas Total": "53",
     "Quantidade de Gemas Viáveis": "53",
     "Quantidade de Gemas Inviáveis": "0",
-    "Fazenda": NaN
+    "Fazenda": null,
+    "Unnamed: 20": null
   },
   {
     "ID": "3542355",
@@ -35748,7 +37376,8 @@ const VIABILIDADE_GEMAS_DATA = [
     "Quantidade de Gemas Total": "56",
     "Quantidade de Gemas Viáveis": "56",
     "Quantidade de Gemas Inviáveis": "0",
-    "Fazenda": NaN
+    "Fazenda": null,
+    "Unnamed: 20": null
   },
   {
     "ID": "3542269",
@@ -35770,7 +37399,8 @@ const VIABILIDADE_GEMAS_DATA = [
     "Quantidade de Gemas Total": "61",
     "Quantidade de Gemas Viáveis": "61",
     "Quantidade de Gemas Inviáveis": "0",
-    "Fazenda": NaN
+    "Fazenda": null,
+    "Unnamed: 20": null
   },
   {
     "ID": "3542351",
@@ -35792,7 +37422,8 @@ const VIABILIDADE_GEMAS_DATA = [
     "Quantidade de Gemas Total": "52",
     "Quantidade de Gemas Viáveis": "52",
     "Quantidade de Gemas Inviáveis": "0",
-    "Fazenda": NaN
+    "Fazenda": null,
+    "Unnamed: 20": null
   },
   {
     "ID": "3542264",
@@ -35814,7 +37445,8 @@ const VIABILIDADE_GEMAS_DATA = [
     "Quantidade de Gemas Total": "56",
     "Quantidade de Gemas Viáveis": "56",
     "Quantidade de Gemas Inviáveis": "0",
-    "Fazenda": NaN
+    "Fazenda": null,
+    "Unnamed: 20": null
   },
   {
     "ID": "3542259",
@@ -35836,7 +37468,8 @@ const VIABILIDADE_GEMAS_DATA = [
     "Quantidade de Gemas Total": "58",
     "Quantidade de Gemas Viáveis": "58",
     "Quantidade de Gemas Inviáveis": "0",
-    "Fazenda": NaN
+    "Fazenda": null,
+    "Unnamed: 20": null
   },
   {
     "ID": "3541909",
@@ -35858,7 +37491,8 @@ const VIABILIDADE_GEMAS_DATA = [
     "Quantidade de Gemas Total": "57",
     "Quantidade de Gemas Viáveis": "57",
     "Quantidade de Gemas Inviáveis": "0",
-    "Fazenda": NaN
+    "Fazenda": null,
+    "Unnamed: 20": null
   },
   {
     "ID": "3541907",
@@ -35880,7 +37514,8 @@ const VIABILIDADE_GEMAS_DATA = [
     "Quantidade de Gemas Total": "60",
     "Quantidade de Gemas Viáveis": "58",
     "Quantidade de Gemas Inviáveis": "2",
-    "Fazenda": NaN
+    "Fazenda": null,
+    "Unnamed: 20": null
   },
   {
     "ID": "3541897",
@@ -35902,7 +37537,8 @@ const VIABILIDADE_GEMAS_DATA = [
     "Quantidade de Gemas Total": "87",
     "Quantidade de Gemas Viáveis": "87",
     "Quantidade de Gemas Inviáveis": "0",
-    "Fazenda": NaN
+    "Fazenda": null,
+    "Unnamed: 20": null
   },
   {
     "ID": "3541893",
@@ -35924,7 +37560,8 @@ const VIABILIDADE_GEMAS_DATA = [
     "Quantidade de Gemas Total": "79",
     "Quantidade de Gemas Viáveis": "79",
     "Quantidade de Gemas Inviáveis": "0",
-    "Fazenda": NaN
+    "Fazenda": null,
+    "Unnamed: 20": null
   },
   {
     "ID": "3541888",
@@ -35946,7 +37583,8 @@ const VIABILIDADE_GEMAS_DATA = [
     "Quantidade de Gemas Total": "83",
     "Quantidade de Gemas Viáveis": "83",
     "Quantidade de Gemas Inviáveis": "0",
-    "Fazenda": NaN
+    "Fazenda": null,
+    "Unnamed: 20": null
   },
   {
     "ID": "3542316",
@@ -35968,7 +37606,8 @@ const VIABILIDADE_GEMAS_DATA = [
     "Quantidade de Gemas Total": "67",
     "Quantidade de Gemas Viáveis": "60",
     "Quantidade de Gemas Inviáveis": "7",
-    "Fazenda": NaN
+    "Fazenda": null,
+    "Unnamed: 20": null
   },
   {
     "ID": "3542085",
@@ -35990,7 +37629,8 @@ const VIABILIDADE_GEMAS_DATA = [
     "Quantidade de Gemas Total": "49",
     "Quantidade de Gemas Viáveis": "49",
     "Quantidade de Gemas Inviáveis": "0",
-    "Fazenda": NaN
+    "Fazenda": null,
+    "Unnamed: 20": null
   },
   {
     "ID": "3542310",
@@ -36012,7 +37652,8 @@ const VIABILIDADE_GEMAS_DATA = [
     "Quantidade de Gemas Total": "60",
     "Quantidade de Gemas Viáveis": "60",
     "Quantidade de Gemas Inviáveis": "0",
-    "Fazenda": NaN
+    "Fazenda": null,
+    "Unnamed: 20": null
   },
   {
     "ID": "3542081",
@@ -36034,7 +37675,8 @@ const VIABILIDADE_GEMAS_DATA = [
     "Quantidade de Gemas Total": "54",
     "Quantidade de Gemas Viáveis": "52",
     "Quantidade de Gemas Inviáveis": "2",
-    "Fazenda": NaN
+    "Fazenda": null,
+    "Unnamed: 20": null
   },
   {
     "ID": "3542076",
@@ -36056,7 +37698,8 @@ const VIABILIDADE_GEMAS_DATA = [
     "Quantidade de Gemas Total": "58",
     "Quantidade de Gemas Viáveis": "55",
     "Quantidade de Gemas Inviáveis": "3",
-    "Fazenda": NaN
+    "Fazenda": null,
+    "Unnamed: 20": null
   },
   {
     "ID": "3542071",
@@ -36078,7 +37721,8 @@ const VIABILIDADE_GEMAS_DATA = [
     "Quantidade de Gemas Total": "53",
     "Quantidade de Gemas Viáveis": "53",
     "Quantidade de Gemas Inviáveis": "0",
-    "Fazenda": NaN
+    "Fazenda": null,
+    "Unnamed: 20": null
   },
   {
     "ID": "3540106",
@@ -36100,7 +37744,8 @@ const VIABILIDADE_GEMAS_DATA = [
     "Quantidade de Gemas Total": "64",
     "Quantidade de Gemas Viáveis": "60",
     "Quantidade de Gemas Inviáveis": "4",
-    "Fazenda": NaN
+    "Fazenda": null,
+    "Unnamed: 20": null
   },
   {
     "ID": "3540663",
@@ -36122,7 +37767,8 @@ const VIABILIDADE_GEMAS_DATA = [
     "Quantidade de Gemas Total": "56",
     "Quantidade de Gemas Viáveis": "56",
     "Quantidade de Gemas Inviáveis": "0",
-    "Fazenda": NaN
+    "Fazenda": null,
+    "Unnamed: 20": null
   },
   {
     "ID": "3540620",
@@ -36144,7 +37790,8 @@ const VIABILIDADE_GEMAS_DATA = [
     "Quantidade de Gemas Total": "60",
     "Quantidade de Gemas Viáveis": "60",
     "Quantidade de Gemas Inviáveis": "0",
-    "Fazenda": NaN
+    "Fazenda": null,
+    "Unnamed: 20": null
   },
   {
     "ID": "3540102",
@@ -36166,7 +37813,8 @@ const VIABILIDADE_GEMAS_DATA = [
     "Quantidade de Gemas Total": "62",
     "Quantidade de Gemas Viáveis": "61",
     "Quantidade de Gemas Inviáveis": "1",
-    "Fazenda": NaN
+    "Fazenda": null,
+    "Unnamed: 20": null
   },
   {
     "ID": "3540431",
@@ -36188,7 +37836,8 @@ const VIABILIDADE_GEMAS_DATA = [
     "Quantidade de Gemas Total": "54",
     "Quantidade de Gemas Viáveis": "54",
     "Quantidade de Gemas Inviáveis": "0",
-    "Fazenda": NaN
+    "Fazenda": null,
+    "Unnamed: 20": null
   },
   {
     "ID": "3540217",
@@ -36210,7 +37859,8 @@ const VIABILIDADE_GEMAS_DATA = [
     "Quantidade de Gemas Total": "80",
     "Quantidade de Gemas Viáveis": "80",
     "Quantidade de Gemas Inviáveis": "0",
-    "Fazenda": NaN
+    "Fazenda": null,
+    "Unnamed: 20": null
   },
   {
     "ID": "3540097",
@@ -36232,7 +37882,8 @@ const VIABILIDADE_GEMAS_DATA = [
     "Quantidade de Gemas Total": "60",
     "Quantidade de Gemas Viáveis": "60",
     "Quantidade de Gemas Inviáveis": "0",
-    "Fazenda": NaN
+    "Fazenda": null,
+    "Unnamed: 20": null
   },
   {
     "ID": "3540309",
@@ -36254,7 +37905,8 @@ const VIABILIDADE_GEMAS_DATA = [
     "Quantidade de Gemas Total": "59",
     "Quantidade de Gemas Viáveis": "59",
     "Quantidade de Gemas Inviáveis": "0",
-    "Fazenda": NaN
+    "Fazenda": null,
+    "Unnamed: 20": null
   },
   {
     "ID": "3540096",
@@ -36276,7 +37928,8 @@ const VIABILIDADE_GEMAS_DATA = [
     "Quantidade de Gemas Total": "61",
     "Quantidade de Gemas Viáveis": "61",
     "Quantidade de Gemas Inviáveis": "0",
-    "Fazenda": NaN
+    "Fazenda": null,
+    "Unnamed: 20": null
   },
   {
     "ID": "3540284",
@@ -36298,7 +37951,8 @@ const VIABILIDADE_GEMAS_DATA = [
     "Quantidade de Gemas Total": "55",
     "Quantidade de Gemas Viáveis": "55",
     "Quantidade de Gemas Inviáveis": "0",
-    "Fazenda": NaN
+    "Fazenda": null,
+    "Unnamed: 20": null
   },
   {
     "ID": "3540026",
@@ -36320,7 +37974,8 @@ const VIABILIDADE_GEMAS_DATA = [
     "Quantidade de Gemas Total": "53",
     "Quantidade de Gemas Viáveis": "53",
     "Quantidade de Gemas Inviáveis": "0",
-    "Fazenda": NaN
+    "Fazenda": null,
+    "Unnamed: 20": null
   },
   {
     "ID": "3540020",
@@ -36342,7 +37997,8 @@ const VIABILIDADE_GEMAS_DATA = [
     "Quantidade de Gemas Total": "53",
     "Quantidade de Gemas Viáveis": "53",
     "Quantidade de Gemas Inviáveis": "0",
-    "Fazenda": NaN
+    "Fazenda": null,
+    "Unnamed: 20": null
   },
   {
     "ID": "3540016",
@@ -36364,7 +38020,8 @@ const VIABILIDADE_GEMAS_DATA = [
     "Quantidade de Gemas Total": "54",
     "Quantidade de Gemas Viáveis": "54",
     "Quantidade de Gemas Inviáveis": "0",
-    "Fazenda": NaN
+    "Fazenda": null,
+    "Unnamed: 20": null
   },
   {
     "ID": "3540004",
@@ -36386,7 +38043,8 @@ const VIABILIDADE_GEMAS_DATA = [
     "Quantidade de Gemas Total": "54",
     "Quantidade de Gemas Viáveis": "54",
     "Quantidade de Gemas Inviáveis": "0",
-    "Fazenda": NaN
+    "Fazenda": null,
+    "Unnamed: 20": null
   },
   {
     "ID": "3539996",
@@ -36408,7 +38066,8 @@ const VIABILIDADE_GEMAS_DATA = [
     "Quantidade de Gemas Total": "55",
     "Quantidade de Gemas Viáveis": "55",
     "Quantidade de Gemas Inviáveis": "0",
-    "Fazenda": NaN
+    "Fazenda": null,
+    "Unnamed: 20": null
   },
   {
     "ID": "3539988",
@@ -36430,7 +38089,8 @@ const VIABILIDADE_GEMAS_DATA = [
     "Quantidade de Gemas Total": "49",
     "Quantidade de Gemas Viáveis": "48",
     "Quantidade de Gemas Inviáveis": "1",
-    "Fazenda": NaN
+    "Fazenda": null,
+    "Unnamed: 20": null
   },
   {
     "ID": "3540212",
@@ -36452,7 +38112,8 @@ const VIABILIDADE_GEMAS_DATA = [
     "Quantidade de Gemas Total": "78",
     "Quantidade de Gemas Viáveis": "78",
     "Quantidade de Gemas Inviáveis": "0",
-    "Fazenda": NaN
+    "Fazenda": null,
+    "Unnamed: 20": null
   },
   {
     "ID": "3540205",
@@ -36474,7 +38135,8 @@ const VIABILIDADE_GEMAS_DATA = [
     "Quantidade de Gemas Total": "86",
     "Quantidade de Gemas Viáveis": "86",
     "Quantidade de Gemas Inviáveis": "0",
-    "Fazenda": NaN
+    "Fazenda": null,
+    "Unnamed: 20": null
   },
   {
     "ID": "3539585",
@@ -36496,7 +38158,8 @@ const VIABILIDADE_GEMAS_DATA = [
     "Quantidade de Gemas Total": "57",
     "Quantidade de Gemas Viáveis": "57",
     "Quantidade de Gemas Inviáveis": "0",
-    "Fazenda": NaN
+    "Fazenda": null,
+    "Unnamed: 20": null
   },
   {
     "ID": "3540199",
@@ -36518,7 +38181,8 @@ const VIABILIDADE_GEMAS_DATA = [
     "Quantidade de Gemas Total": "82",
     "Quantidade de Gemas Viáveis": "82",
     "Quantidade de Gemas Inviáveis": "0",
-    "Fazenda": NaN
+    "Fazenda": null,
+    "Unnamed: 20": null
   },
   {
     "ID": "3539582",
@@ -36540,7 +38204,8 @@ const VIABILIDADE_GEMAS_DATA = [
     "Quantidade de Gemas Total": "54",
     "Quantidade de Gemas Viáveis": "54",
     "Quantidade de Gemas Inviáveis": "0",
-    "Fazenda": NaN
+    "Fazenda": null,
+    "Unnamed: 20": null
   },
   {
     "ID": "3539382",
@@ -36562,7 +38227,8 @@ const VIABILIDADE_GEMAS_DATA = [
     "Quantidade de Gemas Total": "60",
     "Quantidade de Gemas Viáveis": "55",
     "Quantidade de Gemas Inviáveis": "5",
-    "Fazenda": NaN
+    "Fazenda": null,
+    "Unnamed: 20": null
   },
   {
     "ID": "3539576",
@@ -36584,7 +38250,8 @@ const VIABILIDADE_GEMAS_DATA = [
     "Quantidade de Gemas Total": "60",
     "Quantidade de Gemas Viáveis": "60",
     "Quantidade de Gemas Inviáveis": "0",
-    "Fazenda": NaN
+    "Fazenda": null,
+    "Unnamed: 20": null
   },
   {
     "ID": "3539377",
@@ -36606,7 +38273,8 @@ const VIABILIDADE_GEMAS_DATA = [
     "Quantidade de Gemas Total": "54",
     "Quantidade de Gemas Viáveis": "54",
     "Quantidade de Gemas Inviáveis": "0",
-    "Fazenda": NaN
+    "Fazenda": null,
+    "Unnamed: 20": null
   },
   {
     "ID": "3539569",
@@ -36628,7 +38296,8 @@ const VIABILIDADE_GEMAS_DATA = [
     "Quantidade de Gemas Total": "57",
     "Quantidade de Gemas Viáveis": "57",
     "Quantidade de Gemas Inviáveis": "0",
-    "Fazenda": NaN
+    "Fazenda": null,
+    "Unnamed: 20": null
   },
   {
     "ID": "3539564",
@@ -36650,7 +38319,8 @@ const VIABILIDADE_GEMAS_DATA = [
     "Quantidade de Gemas Total": "59",
     "Quantidade de Gemas Viáveis": "59",
     "Quantidade de Gemas Inviáveis": "0",
-    "Fazenda": NaN
+    "Fazenda": null,
+    "Unnamed: 20": null
   },
   {
     "ID": "3539371",
@@ -36672,7 +38342,8 @@ const VIABILIDADE_GEMAS_DATA = [
     "Quantidade de Gemas Total": "55",
     "Quantidade de Gemas Viáveis": "52",
     "Quantidade de Gemas Inviáveis": "3",
-    "Fazenda": NaN
+    "Fazenda": null,
+    "Unnamed: 20": null
   },
   {
     "ID": "3540769",
@@ -36694,7 +38365,8 @@ const VIABILIDADE_GEMAS_DATA = [
     "Quantidade de Gemas Total": "56",
     "Quantidade de Gemas Viáveis": "55",
     "Quantidade de Gemas Inviáveis": "1",
-    "Fazenda": NaN
+    "Fazenda": null,
+    "Unnamed: 20": null
   },
   {
     "ID": "3539556",
@@ -36716,7 +38388,8 @@ const VIABILIDADE_GEMAS_DATA = [
     "Quantidade de Gemas Total": "54",
     "Quantidade de Gemas Viáveis": "54",
     "Quantidade de Gemas Inviáveis": "0",
-    "Fazenda": NaN
+    "Fazenda": null,
+    "Unnamed: 20": null
   },
   {
     "ID": "3539366",
@@ -36738,7 +38411,8 @@ const VIABILIDADE_GEMAS_DATA = [
     "Quantidade de Gemas Total": "51",
     "Quantidade de Gemas Viáveis": "51",
     "Quantidade de Gemas Inviáveis": "0",
-    "Fazenda": NaN
+    "Fazenda": null,
+    "Unnamed: 20": null
   },
   {
     "ID": "3540765",
@@ -36760,7 +38434,8 @@ const VIABILIDADE_GEMAS_DATA = [
     "Quantidade de Gemas Total": "52",
     "Quantidade de Gemas Viáveis": "52",
     "Quantidade de Gemas Inviáveis": "0",
-    "Fazenda": NaN
+    "Fazenda": null,
+    "Unnamed: 20": null
   },
   {
     "ID": "3539550",
@@ -36782,7 +38457,8 @@ const VIABILIDADE_GEMAS_DATA = [
     "Quantidade de Gemas Total": "56",
     "Quantidade de Gemas Viáveis": "56",
     "Quantidade de Gemas Inviáveis": "0",
-    "Fazenda": NaN
+    "Fazenda": null,
+    "Unnamed: 20": null
   },
   {
     "ID": "3539545",
@@ -36804,7 +38480,8 @@ const VIABILIDADE_GEMAS_DATA = [
     "Quantidade de Gemas Total": "60",
     "Quantidade de Gemas Viáveis": "60",
     "Quantidade de Gemas Inviáveis": "0",
-    "Fazenda": NaN
+    "Fazenda": null,
+    "Unnamed: 20": null
   },
   {
     "ID": "3540759",
@@ -36826,7 +38503,8 @@ const VIABILIDADE_GEMAS_DATA = [
     "Quantidade de Gemas Total": "54",
     "Quantidade de Gemas Viáveis": "54",
     "Quantidade de Gemas Inviáveis": "0",
-    "Fazenda": NaN
+    "Fazenda": null,
+    "Unnamed: 20": null
   },
   {
     "ID": "3540754",
@@ -36848,7 +38526,8 @@ const VIABILIDADE_GEMAS_DATA = [
     "Quantidade de Gemas Total": "57",
     "Quantidade de Gemas Viáveis": "57",
     "Quantidade de Gemas Inviáveis": "0",
-    "Fazenda": NaN
+    "Fazenda": null,
+    "Unnamed: 20": null
   },
   {
     "ID": "3539539",
@@ -36870,7 +38549,8 @@ const VIABILIDADE_GEMAS_DATA = [
     "Quantidade de Gemas Total": "58",
     "Quantidade de Gemas Viáveis": "58",
     "Quantidade de Gemas Inviáveis": "0",
-    "Fazenda": NaN
+    "Fazenda": null,
+    "Unnamed: 20": null
   },
   {
     "ID": "3539608",
@@ -36892,7 +38572,8 @@ const VIABILIDADE_GEMAS_DATA = [
     "Quantidade de Gemas Total": "56",
     "Quantidade de Gemas Viáveis": "56",
     "Quantidade de Gemas Inviáveis": "0",
-    "Fazenda": NaN
+    "Fazenda": null,
+    "Unnamed: 20": null
   },
   {
     "ID": "3538766",
@@ -36914,7 +38595,8 @@ const VIABILIDADE_GEMAS_DATA = [
     "Quantidade de Gemas Total": "56",
     "Quantidade de Gemas Viáveis": "56",
     "Quantidade de Gemas Inviáveis": "0",
-    "Fazenda": NaN
+    "Fazenda": null,
+    "Unnamed: 20": null
   },
   {
     "ID": "3537607",
@@ -36936,7 +38618,8 @@ const VIABILIDADE_GEMAS_DATA = [
     "Quantidade de Gemas Total": "60",
     "Quantidade de Gemas Viáveis": "60",
     "Quantidade de Gemas Inviáveis": "0",
-    "Fazenda": NaN
+    "Fazenda": null,
+    "Unnamed: 20": null
   },
   {
     "ID": "3537984",
@@ -36958,7 +38641,8 @@ const VIABILIDADE_GEMAS_DATA = [
     "Quantidade de Gemas Total": "54",
     "Quantidade de Gemas Viáveis": "54",
     "Quantidade de Gemas Inviáveis": "0",
-    "Fazenda": NaN
+    "Fazenda": null,
+    "Unnamed: 20": null
   },
   {
     "ID": "3538829",
@@ -36980,7 +38664,8 @@ const VIABILIDADE_GEMAS_DATA = [
     "Quantidade de Gemas Total": "52",
     "Quantidade de Gemas Viáveis": "52",
     "Quantidade de Gemas Inviáveis": "0",
-    "Fazenda": NaN
+    "Fazenda": null,
+    "Unnamed: 20": null
   },
   {
     "ID": "3537603",
@@ -37002,7 +38687,8 @@ const VIABILIDADE_GEMAS_DATA = [
     "Quantidade de Gemas Total": "54",
     "Quantidade de Gemas Viáveis": "54",
     "Quantidade de Gemas Inviáveis": "0",
-    "Fazenda": NaN
+    "Fazenda": null,
+    "Unnamed: 20": null
   },
   {
     "ID": "3537970",
@@ -37024,7 +38710,8 @@ const VIABILIDADE_GEMAS_DATA = [
     "Quantidade de Gemas Total": "56",
     "Quantidade de Gemas Viáveis": "56",
     "Quantidade de Gemas Inviáveis": "0",
-    "Fazenda": NaN
+    "Fazenda": null,
+    "Unnamed: 20": null
   },
   {
     "ID": "3538822",
@@ -37046,7 +38733,8 @@ const VIABILIDADE_GEMAS_DATA = [
     "Quantidade de Gemas Total": "52",
     "Quantidade de Gemas Viáveis": "52",
     "Quantidade de Gemas Inviáveis": "0",
-    "Fazenda": NaN
+    "Fazenda": null,
+    "Unnamed: 20": null
   },
   {
     "ID": "3537941",
@@ -37068,7 +38756,8 @@ const VIABILIDADE_GEMAS_DATA = [
     "Quantidade de Gemas Total": "54",
     "Quantidade de Gemas Viáveis": "54",
     "Quantidade de Gemas Inviáveis": "0",
-    "Fazenda": NaN
+    "Fazenda": null,
+    "Unnamed: 20": null
   },
   {
     "ID": "3537593",
@@ -37090,7 +38779,8 @@ const VIABILIDADE_GEMAS_DATA = [
     "Quantidade de Gemas Total": "60",
     "Quantidade de Gemas Viáveis": "60",
     "Quantidade de Gemas Inviáveis": "0",
-    "Fazenda": NaN
+    "Fazenda": null,
+    "Unnamed: 20": null
   },
   {
     "ID": "3538816",
@@ -37112,7 +38802,8 @@ const VIABILIDADE_GEMAS_DATA = [
     "Quantidade de Gemas Total": "49",
     "Quantidade de Gemas Viáveis": "49",
     "Quantidade de Gemas Inviáveis": "0",
-    "Fazenda": NaN
+    "Fazenda": null,
+    "Unnamed: 20": null
   },
   {
     "ID": "3537913",
@@ -37134,7 +38825,8 @@ const VIABILIDADE_GEMAS_DATA = [
     "Quantidade de Gemas Total": "58",
     "Quantidade de Gemas Viáveis": "58",
     "Quantidade de Gemas Inviáveis": "0",
-    "Fazenda": NaN
+    "Fazenda": null,
+    "Unnamed: 20": null
   },
   {
     "ID": "3537854",
@@ -37156,7 +38848,8 @@ const VIABILIDADE_GEMAS_DATA = [
     "Quantidade de Gemas Total": "84",
     "Quantidade de Gemas Viáveis": "84",
     "Quantidade de Gemas Inviáveis": "0",
-    "Fazenda": NaN
+    "Fazenda": null,
+    "Unnamed: 20": null
   },
   {
     "ID": "3537908",
@@ -37178,7 +38871,8 @@ const VIABILIDADE_GEMAS_DATA = [
     "Quantidade de Gemas Total": "60",
     "Quantidade de Gemas Viáveis": "60",
     "Quantidade de Gemas Inviáveis": "0",
-    "Fazenda": NaN
+    "Fazenda": null,
+    "Unnamed: 20": null
   },
   {
     "ID": "3538813",
@@ -37200,7 +38894,8 @@ const VIABILIDADE_GEMAS_DATA = [
     "Quantidade de Gemas Total": "54",
     "Quantidade de Gemas Viáveis": "54",
     "Quantidade de Gemas Inviáveis": "0",
-    "Fazenda": NaN
+    "Fazenda": null,
+    "Unnamed: 20": null
   },
   {
     "ID": "3537897",
@@ -37222,7 +38917,8 @@ const VIABILIDADE_GEMAS_DATA = [
     "Quantidade de Gemas Total": "58",
     "Quantidade de Gemas Viáveis": "58",
     "Quantidade de Gemas Inviáveis": "0",
-    "Fazenda": NaN
+    "Fazenda": null,
+    "Unnamed: 20": null
   },
   {
     "ID": "3538809",
@@ -37244,7 +38940,8 @@ const VIABILIDADE_GEMAS_DATA = [
     "Quantidade de Gemas Total": "48",
     "Quantidade de Gemas Viáveis": "48",
     "Quantidade de Gemas Inviáveis": "0",
-    "Fazenda": NaN
+    "Fazenda": null,
+    "Unnamed: 20": null
   },
   {
     "ID": "3537830",
@@ -37266,7 +38963,8 @@ const VIABILIDADE_GEMAS_DATA = [
     "Quantidade de Gemas Total": "85",
     "Quantidade de Gemas Viáveis": "85",
     "Quantidade de Gemas Inviáveis": "0",
-    "Fazenda": NaN
+    "Fazenda": null,
+    "Unnamed: 20": null
   },
   {
     "ID": "3537891",
@@ -37288,7 +38986,8 @@ const VIABILIDADE_GEMAS_DATA = [
     "Quantidade de Gemas Total": "54",
     "Quantidade de Gemas Viáveis": "54",
     "Quantidade de Gemas Inviáveis": "0",
-    "Fazenda": NaN
+    "Fazenda": null,
+    "Unnamed: 20": null
   },
   {
     "ID": "3537768",
@@ -37310,7 +39009,8 @@ const VIABILIDADE_GEMAS_DATA = [
     "Quantidade de Gemas Total": "53",
     "Quantidade de Gemas Viáveis": "53",
     "Quantidade de Gemas Inviáveis": "0",
-    "Fazenda": NaN
+    "Fazenda": null,
+    "Unnamed: 20": null
   },
   {
     "ID": "3537875",
@@ -37332,7 +39032,8 @@ const VIABILIDADE_GEMAS_DATA = [
     "Quantidade de Gemas Total": "56",
     "Quantidade de Gemas Viáveis": "56",
     "Quantidade de Gemas Inviáveis": "0",
-    "Fazenda": NaN
+    "Fazenda": null,
+    "Unnamed: 20": null
   },
   {
     "ID": "3537277",
@@ -37354,7 +39055,8 @@ const VIABILIDADE_GEMAS_DATA = [
     "Quantidade de Gemas Total": "56",
     "Quantidade de Gemas Viáveis": "56",
     "Quantidade de Gemas Inviáveis": "0",
-    "Fazenda": NaN
+    "Fazenda": null,
+    "Unnamed: 20": null
   },
   {
     "ID": "3537803",
@@ -37376,7 +39078,8 @@ const VIABILIDADE_GEMAS_DATA = [
     "Quantidade de Gemas Total": "79",
     "Quantidade de Gemas Viáveis": "79",
     "Quantidade de Gemas Inviáveis": "0",
-    "Fazenda": NaN
+    "Fazenda": null,
+    "Unnamed: 20": null
   },
   {
     "ID": "3537273",
@@ -37398,7 +39101,8 @@ const VIABILIDADE_GEMAS_DATA = [
     "Quantidade de Gemas Total": "62",
     "Quantidade de Gemas Viáveis": "60",
     "Quantidade de Gemas Inviáveis": "2",
-    "Fazenda": NaN
+    "Fazenda": null,
+    "Unnamed: 20": null
   },
   {
     "ID": "3537249",
@@ -37420,7 +39124,8 @@ const VIABILIDADE_GEMAS_DATA = [
     "Quantidade de Gemas Total": "66",
     "Quantidade de Gemas Viáveis": "64",
     "Quantidade de Gemas Inviáveis": "2",
-    "Fazenda": NaN
+    "Fazenda": null,
+    "Unnamed: 20": null
   },
   {
     "ID": "3537268",
@@ -37442,7 +39147,8 @@ const VIABILIDADE_GEMAS_DATA = [
     "Quantidade de Gemas Total": "60",
     "Quantidade de Gemas Viáveis": "60",
     "Quantidade de Gemas Inviáveis": "0",
-    "Fazenda": NaN
+    "Fazenda": null,
+    "Unnamed: 20": null
   },
   {
     "ID": "3537260",
@@ -37464,7 +39170,8 @@ const VIABILIDADE_GEMAS_DATA = [
     "Quantidade de Gemas Total": "61",
     "Quantidade de Gemas Viáveis": "61",
     "Quantidade de Gemas Inviáveis": "0",
-    "Fazenda": NaN
+    "Fazenda": null,
+    "Unnamed: 20": null
   },
   {
     "ID": "3537244",
@@ -37486,7 +39193,8 @@ const VIABILIDADE_GEMAS_DATA = [
     "Quantidade de Gemas Total": "64",
     "Quantidade de Gemas Viáveis": "64",
     "Quantidade de Gemas Inviáveis": "0",
-    "Fazenda": NaN
+    "Fazenda": null,
+    "Unnamed: 20": null
   },
   {
     "ID": "3537256",
@@ -37508,7 +39216,8 @@ const VIABILIDADE_GEMAS_DATA = [
     "Quantidade de Gemas Total": "63",
     "Quantidade de Gemas Viáveis": "60",
     "Quantidade de Gemas Inviáveis": "3",
-    "Fazenda": NaN
+    "Fazenda": null,
+    "Unnamed: 20": null
   },
   {
     "ID": "3537799",
@@ -37530,7 +39239,8 @@ const VIABILIDADE_GEMAS_DATA = [
     "Quantidade de Gemas Total": "80",
     "Quantidade de Gemas Viáveis": "80",
     "Quantidade de Gemas Inviáveis": "0",
-    "Fazenda": NaN
+    "Fazenda": null,
+    "Unnamed: 20": null
   },
   {
     "ID": "3537239",
@@ -37552,7 +39262,8 @@ const VIABILIDADE_GEMAS_DATA = [
     "Quantidade de Gemas Total": "61",
     "Quantidade de Gemas Viáveis": "61",
     "Quantidade de Gemas Inviáveis": "0",
-    "Fazenda": NaN
+    "Fazenda": null,
+    "Unnamed: 20": null
   },
   {
     "ID": "3537233",
@@ -37574,7 +39285,8 @@ const VIABILIDADE_GEMAS_DATA = [
     "Quantidade de Gemas Total": "59",
     "Quantidade de Gemas Viáveis": "59",
     "Quantidade de Gemas Inviáveis": "0",
-    "Fazenda": NaN
+    "Fazenda": null,
+    "Unnamed: 20": null
   },
   {
     "ID": "3537228",
@@ -37596,7 +39308,8 @@ const VIABILIDADE_GEMAS_DATA = [
     "Quantidade de Gemas Total": "63",
     "Quantidade de Gemas Viáveis": "63",
     "Quantidade de Gemas Inviáveis": "0",
-    "Fazenda": NaN
+    "Fazenda": null,
+    "Unnamed: 20": null
   },
   {
     "ID": "3537223",
@@ -37618,7 +39331,8 @@ const VIABILIDADE_GEMAS_DATA = [
     "Quantidade de Gemas Total": "61",
     "Quantidade de Gemas Viáveis": "61",
     "Quantidade de Gemas Inviáveis": "0",
-    "Fazenda": NaN
+    "Fazenda": null,
+    "Unnamed: 20": null
   },
   {
     "ID": "3535669",
@@ -37640,7 +39354,8 @@ const VIABILIDADE_GEMAS_DATA = [
     "Quantidade de Gemas Total": "62",
     "Quantidade de Gemas Viáveis": "60",
     "Quantidade de Gemas Inviáveis": "2",
-    "Fazenda": NaN
+    "Fazenda": null,
+    "Unnamed: 20": null
   },
   {
     "ID": "3535665",
@@ -37662,7 +39377,8 @@ const VIABILIDADE_GEMAS_DATA = [
     "Quantidade de Gemas Total": "58",
     "Quantidade de Gemas Viáveis": "57",
     "Quantidade de Gemas Inviáveis": "1",
-    "Fazenda": NaN
+    "Fazenda": null,
+    "Unnamed: 20": null
   },
   {
     "ID": "3536050",
@@ -37684,7 +39400,8 @@ const VIABILIDADE_GEMAS_DATA = [
     "Quantidade de Gemas Total": "60",
     "Quantidade de Gemas Viáveis": "60",
     "Quantidade de Gemas Inviáveis": "0",
-    "Fazenda": NaN
+    "Fazenda": null,
+    "Unnamed: 20": null
   },
   {
     "ID": "3536044",
@@ -37706,7 +39423,8 @@ const VIABILIDADE_GEMAS_DATA = [
     "Quantidade de Gemas Total": "62",
     "Quantidade de Gemas Viáveis": "62",
     "Quantidade de Gemas Inviáveis": "0",
-    "Fazenda": NaN
+    "Fazenda": null,
+    "Unnamed: 20": null
   },
   {
     "ID": "3535660",
@@ -37728,7 +39446,8 @@ const VIABILIDADE_GEMAS_DATA = [
     "Quantidade de Gemas Total": "60",
     "Quantidade de Gemas Viáveis": "60",
     "Quantidade de Gemas Inviáveis": "0",
-    "Fazenda": NaN
+    "Fazenda": null,
+    "Unnamed: 20": null
   },
   {
     "ID": "3536036",
@@ -37750,7 +39469,8 @@ const VIABILIDADE_GEMAS_DATA = [
     "Quantidade de Gemas Total": "57",
     "Quantidade de Gemas Viáveis": "57",
     "Quantidade de Gemas Inviáveis": "0",
-    "Fazenda": NaN
+    "Fazenda": null,
+    "Unnamed: 20": null
   },
   {
     "ID": "3535675",
@@ -37772,7 +39492,8 @@ const VIABILIDADE_GEMAS_DATA = [
     "Quantidade de Gemas Total": "58",
     "Quantidade de Gemas Viáveis": "54",
     "Quantidade de Gemas Inviáveis": "4",
-    "Fazenda": NaN
+    "Fazenda": null,
+    "Unnamed: 20": null
   },
   {
     "ID": "3536031",
@@ -37794,7 +39515,8 @@ const VIABILIDADE_GEMAS_DATA = [
     "Quantidade de Gemas Total": "55",
     "Quantidade de Gemas Viáveis": "55",
     "Quantidade de Gemas Inviáveis": "0",
-    "Fazenda": NaN
+    "Fazenda": null,
+    "Unnamed: 20": null
   },
   {
     "ID": "3535657",
@@ -37816,7 +39538,8 @@ const VIABILIDADE_GEMAS_DATA = [
     "Quantidade de Gemas Total": "58",
     "Quantidade de Gemas Viáveis": "56",
     "Quantidade de Gemas Inviáveis": "2",
-    "Fazenda": NaN
+    "Fazenda": null,
+    "Unnamed: 20": null
   },
   {
     "ID": "3536022",
@@ -37838,7 +39561,8 @@ const VIABILIDADE_GEMAS_DATA = [
     "Quantidade de Gemas Total": "61",
     "Quantidade de Gemas Viáveis": "61",
     "Quantidade de Gemas Inviáveis": "0",
-    "Fazenda": NaN
+    "Fazenda": null,
+    "Unnamed: 20": null
   },
   {
     "ID": "3536016",
@@ -37860,7 +39584,8 @@ const VIABILIDADE_GEMAS_DATA = [
     "Quantidade de Gemas Total": "57",
     "Quantidade de Gemas Viáveis": "57",
     "Quantidade de Gemas Inviáveis": "0",
-    "Fazenda": NaN
+    "Fazenda": null,
+    "Unnamed: 20": null
   },
   {
     "ID": "3535649",
@@ -37882,7 +39607,8 @@ const VIABILIDADE_GEMAS_DATA = [
     "Quantidade de Gemas Total": "50",
     "Quantidade de Gemas Viáveis": "50",
     "Quantidade de Gemas Inviáveis": "0",
-    "Fazenda": NaN
+    "Fazenda": null,
+    "Unnamed: 20": null
   },
   {
     "ID": "3537138",
@@ -37904,7 +39630,8 @@ const VIABILIDADE_GEMAS_DATA = [
     "Quantidade de Gemas Total": "55",
     "Quantidade de Gemas Viáveis": "55",
     "Quantidade de Gemas Inviáveis": "55",
-    "Fazenda": NaN
+    "Fazenda": null,
+    "Unnamed: 20": null
   },
   {
     "ID": "3537134",
@@ -37926,7 +39653,8 @@ const VIABILIDADE_GEMAS_DATA = [
     "Quantidade de Gemas Total": "56",
     "Quantidade de Gemas Viáveis": "56",
     "Quantidade de Gemas Inviáveis": "0",
-    "Fazenda": NaN
+    "Fazenda": null,
+    "Unnamed: 20": null
   },
   {
     "ID": "3537130",
@@ -37948,7 +39676,8 @@ const VIABILIDADE_GEMAS_DATA = [
     "Quantidade de Gemas Total": "60",
     "Quantidade de Gemas Viáveis": "60",
     "Quantidade de Gemas Inviáveis": "0",
-    "Fazenda": NaN
+    "Fazenda": null,
+    "Unnamed: 20": null
   },
   {
     "ID": "3537116",
@@ -37970,7 +39699,8 @@ const VIABILIDADE_GEMAS_DATA = [
     "Quantidade de Gemas Total": "57",
     "Quantidade de Gemas Viáveis": "57",
     "Quantidade de Gemas Inviáveis": "0",
-    "Fazenda": NaN
+    "Fazenda": null,
+    "Unnamed: 20": null
   },
   {
     "ID": "3537115",
@@ -37992,7 +39722,8 @@ const VIABILIDADE_GEMAS_DATA = [
     "Quantidade de Gemas Total": "60",
     "Quantidade de Gemas Viáveis": "60",
     "Quantidade de Gemas Inviáveis": "0",
-    "Fazenda": NaN
+    "Fazenda": null,
+    "Unnamed: 20": null
   },
   {
     "ID": "3537110",
@@ -38014,7 +39745,8 @@ const VIABILIDADE_GEMAS_DATA = [
     "Quantidade de Gemas Total": "59",
     "Quantidade de Gemas Viáveis": "59",
     "Quantidade de Gemas Inviáveis": "0",
-    "Fazenda": NaN
+    "Fazenda": null,
+    "Unnamed: 20": null
   },
   {
     "ID": "3535399",
@@ -38036,7 +39768,8 @@ const VIABILIDADE_GEMAS_DATA = [
     "Quantidade de Gemas Total": "54",
     "Quantidade de Gemas Viáveis": "54",
     "Quantidade de Gemas Inviáveis": "0",
-    "Fazenda": NaN
+    "Fazenda": null,
+    "Unnamed: 20": null
   },
   {
     "ID": "3537090",
@@ -38058,7 +39791,8 @@ const VIABILIDADE_GEMAS_DATA = [
     "Quantidade de Gemas Total": "56",
     "Quantidade de Gemas Viáveis": "56",
     "Quantidade de Gemas Inviáveis": "0",
-    "Fazenda": NaN
+    "Fazenda": null,
+    "Unnamed: 20": null
   },
   {
     "ID": "3535391",
@@ -38080,7 +39814,8 @@ const VIABILIDADE_GEMAS_DATA = [
     "Quantidade de Gemas Total": "56",
     "Quantidade de Gemas Viáveis": "56",
     "Quantidade de Gemas Inviáveis": "0",
-    "Fazenda": NaN
+    "Fazenda": null,
+    "Unnamed: 20": null
   },
   {
     "ID": "3535385",
@@ -38102,7 +39837,8 @@ const VIABILIDADE_GEMAS_DATA = [
     "Quantidade de Gemas Total": "59",
     "Quantidade de Gemas Viáveis": "59",
     "Quantidade de Gemas Inviáveis": "0",
-    "Fazenda": NaN
+    "Fazenda": null,
+    "Unnamed: 20": null
   },
   {
     "ID": "3534249",
@@ -38124,7 +39860,8 @@ const VIABILIDADE_GEMAS_DATA = [
     "Quantidade de Gemas Total": "85",
     "Quantidade de Gemas Viáveis": "83",
     "Quantidade de Gemas Inviáveis": "2",
-    "Fazenda": NaN
+    "Fazenda": null,
+    "Unnamed: 20": null
   },
   {
     "ID": "3534450",
@@ -38146,7 +39883,8 @@ const VIABILIDADE_GEMAS_DATA = [
     "Quantidade de Gemas Total": "63",
     "Quantidade de Gemas Viáveis": "63",
     "Quantidade de Gemas Inviáveis": "0",
-    "Fazenda": NaN
+    "Fazenda": null,
+    "Unnamed: 20": null
   },
   {
     "ID": "3534445",
@@ -38168,7 +39906,8 @@ const VIABILIDADE_GEMAS_DATA = [
     "Quantidade de Gemas Total": "61",
     "Quantidade de Gemas Viáveis": "61",
     "Quantidade de Gemas Inviáveis": "0",
-    "Fazenda": NaN
+    "Fazenda": null,
+    "Unnamed: 20": null
   },
   {
     "ID": "3534124",
@@ -38190,7 +39929,8 @@ const VIABILIDADE_GEMAS_DATA = [
     "Quantidade de Gemas Total": "79",
     "Quantidade de Gemas Viáveis": "79",
     "Quantidade de Gemas Inviáveis": "0",
-    "Fazenda": NaN
+    "Fazenda": null,
+    "Unnamed: 20": null
   },
   {
     "ID": "3534260",
@@ -38212,7 +39952,8 @@ const VIABILIDADE_GEMAS_DATA = [
     "Quantidade de Gemas Total": "60",
     "Quantidade de Gemas Viáveis": "59",
     "Quantidade de Gemas Inviáveis": "1",
-    "Fazenda": NaN
+    "Fazenda": null,
+    "Unnamed: 20": null
   },
   {
     "ID": "3534210",
@@ -38234,7 +39975,8 @@ const VIABILIDADE_GEMAS_DATA = [
     "Quantidade de Gemas Total": "62",
     "Quantidade de Gemas Viáveis": "60",
     "Quantidade de Gemas Inviáveis": "2",
-    "Fazenda": NaN
+    "Fazenda": null,
+    "Unnamed: 20": null
   },
   {
     "ID": "3534118",
@@ -38256,7 +39998,8 @@ const VIABILIDADE_GEMAS_DATA = [
     "Quantidade de Gemas Total": "82",
     "Quantidade de Gemas Viáveis": "82",
     "Quantidade de Gemas Inviáveis": "0",
-    "Fazenda": NaN
+    "Fazenda": null,
+    "Unnamed: 20": null
   },
   {
     "ID": "3534244",
@@ -38278,7 +40021,8 @@ const VIABILIDADE_GEMAS_DATA = [
     "Quantidade de Gemas Total": "59",
     "Quantidade de Gemas Viáveis": "59",
     "Quantidade de Gemas Inviáveis": "0",
-    "Fazenda": NaN
+    "Fazenda": null,
+    "Unnamed: 20": null
   },
   {
     "ID": "3534206",
@@ -38300,7 +40044,8 @@ const VIABILIDADE_GEMAS_DATA = [
     "Quantidade de Gemas Total": "53",
     "Quantidade de Gemas Viáveis": "51",
     "Quantidade de Gemas Inviáveis": "2",
-    "Fazenda": NaN
+    "Fazenda": null,
+    "Unnamed: 20": null
   },
   {
     "ID": "3534239",
@@ -38322,7 +40067,8 @@ const VIABILIDADE_GEMAS_DATA = [
     "Quantidade de Gemas Total": "58",
     "Quantidade de Gemas Viáveis": "58",
     "Quantidade de Gemas Inviáveis": "0",
-    "Fazenda": NaN
+    "Fazenda": null,
+    "Unnamed: 20": null
   },
   {
     "ID": "3534202",
@@ -38344,7 +40090,8 @@ const VIABILIDADE_GEMAS_DATA = [
     "Quantidade de Gemas Total": "52",
     "Quantidade de Gemas Viáveis": "51",
     "Quantidade de Gemas Inviáveis": "1",
-    "Fazenda": NaN
+    "Fazenda": null,
+    "Unnamed: 20": null
   },
   {
     "ID": "3534234",
@@ -38366,7 +40113,8 @@ const VIABILIDADE_GEMAS_DATA = [
     "Quantidade de Gemas Total": "54",
     "Quantidade de Gemas Viáveis": "54",
     "Quantidade de Gemas Inviáveis": "0",
-    "Fazenda": NaN
+    "Fazenda": null,
+    "Unnamed: 20": null
   },
   {
     "ID": "3533747",
@@ -38388,7 +40136,8 @@ const VIABILIDADE_GEMAS_DATA = [
     "Quantidade de Gemas Total": "56",
     "Quantidade de Gemas Viáveis": "56",
     "Quantidade de Gemas Inviáveis": "0",
-    "Fazenda": NaN
+    "Fazenda": null,
+    "Unnamed: 20": null
   },
   {
     "ID": "3533742",
@@ -38410,7 +40159,8 @@ const VIABILIDADE_GEMAS_DATA = [
     "Quantidade de Gemas Total": "52",
     "Quantidade de Gemas Viáveis": "52",
     "Quantidade de Gemas Inviáveis": "0",
-    "Fazenda": NaN
+    "Fazenda": null,
+    "Unnamed: 20": null
   },
   {
     "ID": "3534021",
@@ -38432,7 +40182,8 @@ const VIABILIDADE_GEMAS_DATA = [
     "Quantidade de Gemas Total": "50",
     "Quantidade de Gemas Viáveis": "50",
     "Quantidade de Gemas Inviáveis": "0",
-    "Fazenda": NaN
+    "Fazenda": null,
+    "Unnamed: 20": null
   },
   {
     "ID": "3533776",
@@ -38454,7 +40205,8 @@ const VIABILIDADE_GEMAS_DATA = [
     "Quantidade de Gemas Total": "51",
     "Quantidade de Gemas Viáveis": "50",
     "Quantidade de Gemas Inviáveis": "1",
-    "Fazenda": NaN
+    "Fazenda": null,
+    "Unnamed: 20": null
   },
   {
     "ID": "3533771",
@@ -38476,7 +40228,8 @@ const VIABILIDADE_GEMAS_DATA = [
     "Quantidade de Gemas Total": "57",
     "Quantidade de Gemas Viáveis": "54",
     "Quantidade de Gemas Inviáveis": "3",
-    "Fazenda": NaN
+    "Fazenda": null,
+    "Unnamed: 20": null
   },
   {
     "ID": "3534191",
@@ -38498,7 +40251,8 @@ const VIABILIDADE_GEMAS_DATA = [
     "Quantidade de Gemas Total": "60",
     "Quantidade de Gemas Viáveis": "60",
     "Quantidade de Gemas Inviáveis": "0",
-    "Fazenda": NaN
+    "Fazenda": null,
+    "Unnamed: 20": null
   },
   {
     "ID": "3534099",
@@ -38520,7 +40274,8 @@ const VIABILIDADE_GEMAS_DATA = [
     "Quantidade de Gemas Total": "61",
     "Quantidade de Gemas Viáveis": "55",
     "Quantidade de Gemas Inviáveis": "6",
-    "Fazenda": NaN
+    "Fazenda": null,
+    "Unnamed: 20": null
   },
   {
     "ID": "3533737",
@@ -38542,7 +40297,8 @@ const VIABILIDADE_GEMAS_DATA = [
     "Quantidade de Gemas Total": "54",
     "Quantidade de Gemas Viáveis": "54",
     "Quantidade de Gemas Inviáveis": "0",
-    "Fazenda": NaN
+    "Fazenda": null,
+    "Unnamed: 20": null
   },
   {
     "ID": "3533794",
@@ -38564,7 +40320,8 @@ const VIABILIDADE_GEMAS_DATA = [
     "Quantidade de Gemas Total": "73",
     "Quantidade de Gemas Viáveis": "73",
     "Quantidade de Gemas Inviáveis": "0",
-    "Fazenda": NaN
+    "Fazenda": null,
+    "Unnamed: 20": null
   },
   {
     "ID": "3533732",
@@ -38586,7 +40343,8 @@ const VIABILIDADE_GEMAS_DATA = [
     "Quantidade de Gemas Total": "56",
     "Quantidade de Gemas Viáveis": "54",
     "Quantidade de Gemas Inviáveis": "2",
-    "Fazenda": NaN
+    "Fazenda": null,
+    "Unnamed: 20": null
   },
   {
     "ID": "3534186",
@@ -38608,7 +40366,8 @@ const VIABILIDADE_GEMAS_DATA = [
     "Quantidade de Gemas Total": "60",
     "Quantidade de Gemas Viáveis": "60",
     "Quantidade de Gemas Inviáveis": "0",
-    "Fazenda": NaN
+    "Fazenda": null,
+    "Unnamed: 20": null
   },
   {
     "ID": "3534092",
@@ -38630,7 +40389,8 @@ const VIABILIDADE_GEMAS_DATA = [
     "Quantidade de Gemas Total": "58",
     "Quantidade de Gemas Viáveis": "58",
     "Quantidade de Gemas Inviáveis": "0",
-    "Fazenda": NaN
+    "Fazenda": null,
+    "Unnamed: 20": null
   },
   {
     "ID": "3533727",
@@ -38652,7 +40412,8 @@ const VIABILIDADE_GEMAS_DATA = [
     "Quantidade de Gemas Total": "54",
     "Quantidade de Gemas Viáveis": "52",
     "Quantidade de Gemas Inviáveis": "0",
-    "Fazenda": NaN
+    "Fazenda": null,
+    "Unnamed: 20": null
   },
   {
     "ID": "3534178",
@@ -38674,7 +40435,8 @@ const VIABILIDADE_GEMAS_DATA = [
     "Quantidade de Gemas Total": "56",
     "Quantidade de Gemas Viáveis": "56",
     "Quantidade de Gemas Inviáveis": "0",
-    "Fazenda": NaN
+    "Fazenda": null,
+    "Unnamed: 20": null
   },
   {
     "ID": "3533791",
@@ -38696,7 +40458,8 @@ const VIABILIDADE_GEMAS_DATA = [
     "Quantidade de Gemas Total": "94",
     "Quantidade de Gemas Viáveis": "94",
     "Quantidade de Gemas Inviáveis": "0",
-    "Fazenda": NaN
+    "Fazenda": null,
+    "Unnamed: 20": null
   },
   {
     "ID": "3533857",
@@ -38718,7 +40481,8 @@ const VIABILIDADE_GEMAS_DATA = [
     "Quantidade de Gemas Total": "56",
     "Quantidade de Gemas Viáveis": "56",
     "Quantidade de Gemas Inviáveis": "0",
-    "Fazenda": NaN
+    "Fazenda": null,
+    "Unnamed: 20": null
   },
   {
     "ID": "3534349",
@@ -38740,7 +40504,8 @@ const VIABILIDADE_GEMAS_DATA = [
     "Quantidade de Gemas Total": "62",
     "Quantidade de Gemas Viáveis": "62",
     "Quantidade de Gemas Inviáveis": "0",
-    "Fazenda": NaN
+    "Fazenda": null,
+    "Unnamed: 20": null
   },
   {
     "ID": "3533852",
@@ -38762,7 +40527,8 @@ const VIABILIDADE_GEMAS_DATA = [
     "Quantidade de Gemas Total": "54",
     "Quantidade de Gemas Viáveis": "54",
     "Quantidade de Gemas Inviáveis": "0",
-    "Fazenda": NaN
+    "Fazenda": null,
+    "Unnamed: 20": null
   },
   {
     "ID": "3533783",
@@ -38784,7 +40550,8 @@ const VIABILIDADE_GEMAS_DATA = [
     "Quantidade de Gemas Total": "68",
     "Quantidade de Gemas Viáveis": "68",
     "Quantidade de Gemas Inviáveis": "0",
-    "Fazenda": NaN
+    "Fazenda": null,
+    "Unnamed: 20": null
   },
   {
     "ID": "3533839",
@@ -38806,7 +40573,8 @@ const VIABILIDADE_GEMAS_DATA = [
     "Quantidade de Gemas Total": "58",
     "Quantidade de Gemas Viáveis": "58",
     "Quantidade de Gemas Inviáveis": "0",
-    "Fazenda": NaN
+    "Fazenda": null,
+    "Unnamed: 20": null
   },
   {
     "ID": "3533830",
@@ -38828,7 +40596,8 @@ const VIABILIDADE_GEMAS_DATA = [
     "Quantidade de Gemas Total": "57",
     "Quantidade de Gemas Viáveis": "57",
     "Quantidade de Gemas Inviáveis": "0",
-    "Fazenda": NaN
+    "Fazenda": null,
+    "Unnamed: 20": null
   },
   {
     "ID": "3533992",
@@ -38850,7 +40619,8 @@ const VIABILIDADE_GEMAS_DATA = [
     "Quantidade de Gemas Total": "64",
     "Quantidade de Gemas Viáveis": "63",
     "Quantidade de Gemas Inviáveis": "1",
-    "Fazenda": NaN
+    "Fazenda": null,
+    "Unnamed: 20": null
   },
   {
     "ID": "3533825",
@@ -38872,7 +40642,8 @@ const VIABILIDADE_GEMAS_DATA = [
     "Quantidade de Gemas Total": "54",
     "Quantidade de Gemas Viáveis": "54",
     "Quantidade de Gemas Inviáveis": "0",
-    "Fazenda": NaN
+    "Fazenda": null,
+    "Unnamed: 20": null
   },
   {
     "ID": "3533819",
@@ -38894,7 +40665,8 @@ const VIABILIDADE_GEMAS_DATA = [
     "Quantidade de Gemas Total": "56",
     "Quantidade de Gemas Viáveis": "56",
     "Quantidade de Gemas Inviáveis": "0",
-    "Fazenda": NaN
+    "Fazenda": null,
+    "Unnamed: 20": null
   },
   {
     "ID": "3533987",
@@ -38916,7 +40688,8 @@ const VIABILIDADE_GEMAS_DATA = [
     "Quantidade de Gemas Total": "67",
     "Quantidade de Gemas Viáveis": "63",
     "Quantidade de Gemas Inviáveis": "4",
-    "Fazenda": NaN
+    "Fazenda": null,
+    "Unnamed: 20": null
   },
   {
     "ID": "3533816",
@@ -38938,7 +40711,8 @@ const VIABILIDADE_GEMAS_DATA = [
     "Quantidade de Gemas Total": "59",
     "Quantidade de Gemas Viáveis": "59",
     "Quantidade de Gemas Inviáveis": "0",
-    "Fazenda": NaN
+    "Fazenda": null,
+    "Unnamed: 20": null
   },
   {
     "ID": "3533801",
@@ -38960,7 +40734,8 @@ const VIABILIDADE_GEMAS_DATA = [
     "Quantidade de Gemas Total": "55",
     "Quantidade de Gemas Viáveis": "55",
     "Quantidade de Gemas Inviáveis": "0",
-    "Fazenda": NaN
+    "Fazenda": null,
+    "Unnamed: 20": null
   },
   {
     "ID": "3533982",
@@ -38982,7 +40757,8 @@ const VIABILIDADE_GEMAS_DATA = [
     "Quantidade de Gemas Total": "64",
     "Quantidade de Gemas Viáveis": "59",
     "Quantidade de Gemas Inviáveis": "5",
-    "Fazenda": NaN
+    "Fazenda": null,
+    "Unnamed: 20": null
   },
   {
     "ID": "3533777",
@@ -39004,7 +40780,8 @@ const VIABILIDADE_GEMAS_DATA = [
     "Quantidade de Gemas Total": "60",
     "Quantidade de Gemas Viáveis": "60",
     "Quantidade de Gemas Inviáveis": "0",
-    "Fazenda": NaN
+    "Fazenda": null,
+    "Unnamed: 20": null
   },
   {
     "ID": "3533767",
@@ -39026,7 +40803,8 @@ const VIABILIDADE_GEMAS_DATA = [
     "Quantidade de Gemas Total": "57",
     "Quantidade de Gemas Viáveis": "57",
     "Quantidade de Gemas Inviáveis": "0",
-    "Fazenda": NaN
+    "Fazenda": null,
+    "Unnamed: 20": null
   },
   {
     "ID": "3533977",
@@ -39048,7 +40826,8 @@ const VIABILIDADE_GEMAS_DATA = [
     "Quantidade de Gemas Total": "57",
     "Quantidade de Gemas Viáveis": "57",
     "Quantidade de Gemas Inviáveis": "0",
-    "Fazenda": NaN
+    "Fazenda": null,
+    "Unnamed: 20": null
   },
   {
     "ID": "3531886",
@@ -39070,7 +40849,8 @@ const VIABILIDADE_GEMAS_DATA = [
     "Quantidade de Gemas Total": "60",
     "Quantidade de Gemas Viáveis": "60",
     "Quantidade de Gemas Inviáveis": "0",
-    "Fazenda": NaN
+    "Fazenda": null,
+    "Unnamed: 20": null
   },
   {
     "ID": "3531881",
@@ -39092,7 +40872,8 @@ const VIABILIDADE_GEMAS_DATA = [
     "Quantidade de Gemas Total": "57",
     "Quantidade de Gemas Viáveis": "57",
     "Quantidade de Gemas Inviáveis": "0",
-    "Fazenda": NaN
+    "Fazenda": null,
+    "Unnamed: 20": null
   },
   {
     "ID": "3531856",
@@ -39114,7 +40895,8 @@ const VIABILIDADE_GEMAS_DATA = [
     "Quantidade de Gemas Total": "59",
     "Quantidade de Gemas Viáveis": "59",
     "Quantidade de Gemas Inviáveis": "0",
-    "Fazenda": NaN
+    "Fazenda": null,
+    "Unnamed: 20": null
   },
   {
     "ID": "3531896",
@@ -39136,7 +40918,8 @@ const VIABILIDADE_GEMAS_DATA = [
     "Quantidade de Gemas Total": "89",
     "Quantidade de Gemas Viáveis": "89",
     "Quantidade de Gemas Inviáveis": "0",
-    "Fazenda": NaN
+    "Fazenda": null,
+    "Unnamed: 20": null
   },
   {
     "ID": "3531848",
@@ -39158,7 +40941,8 @@ const VIABILIDADE_GEMAS_DATA = [
     "Quantidade de Gemas Total": "57",
     "Quantidade de Gemas Viáveis": "57",
     "Quantidade de Gemas Inviáveis": "0",
-    "Fazenda": NaN
+    "Fazenda": null,
+    "Unnamed: 20": null
   },
   {
     "ID": "3531692",
@@ -39180,7 +40964,8 @@ const VIABILIDADE_GEMAS_DATA = [
     "Quantidade de Gemas Total": "61",
     "Quantidade de Gemas Viáveis": "59",
     "Quantidade de Gemas Inviáveis": "2",
-    "Fazenda": NaN
+    "Fazenda": null,
+    "Unnamed: 20": null
   },
   {
     "ID": "3531778",
@@ -39202,7 +40987,8 @@ const VIABILIDADE_GEMAS_DATA = [
     "Quantidade de Gemas Total": "51",
     "Quantidade de Gemas Viáveis": "51",
     "Quantidade de Gemas Inviáveis": "0",
-    "Fazenda": NaN
+    "Fazenda": null,
+    "Unnamed: 20": null
   },
   {
     "ID": "3531776",
@@ -39224,7 +41010,8 @@ const VIABILIDADE_GEMAS_DATA = [
     "Quantidade de Gemas Total": "49",
     "Quantidade de Gemas Viáveis": "49",
     "Quantidade de Gemas Inviáveis": "0",
-    "Fazenda": NaN
+    "Fazenda": null,
+    "Unnamed: 20": null
   },
   {
     "ID": "3531684",
@@ -39246,7 +41033,8 @@ const VIABILIDADE_GEMAS_DATA = [
     "Quantidade de Gemas Total": "54",
     "Quantidade de Gemas Viáveis": "54",
     "Quantidade de Gemas Inviáveis": "0",
-    "Fazenda": NaN
+    "Fazenda": null,
+    "Unnamed: 20": null
   },
   {
     "ID": "3531499",
@@ -39268,7 +41056,8 @@ const VIABILIDADE_GEMAS_DATA = [
     "Quantidade de Gemas Total": "62",
     "Quantidade de Gemas Viáveis": "62",
     "Quantidade de Gemas Inviáveis": "0",
-    "Fazenda": NaN
+    "Fazenda": null,
+    "Unnamed: 20": null
   },
   {
     "ID": "3531494",
@@ -39290,7 +41079,8 @@ const VIABILIDADE_GEMAS_DATA = [
     "Quantidade de Gemas Total": "50",
     "Quantidade de Gemas Viáveis": "50",
     "Quantidade de Gemas Inviáveis": "0",
-    "Fazenda": NaN
+    "Fazenda": null,
+    "Unnamed: 20": null
   },
   {
     "ID": "3531868",
@@ -39312,7 +41102,8 @@ const VIABILIDADE_GEMAS_DATA = [
     "Quantidade de Gemas Total": "53",
     "Quantidade de Gemas Viáveis": "51",
     "Quantidade de Gemas Inviáveis": "2",
-    "Fazenda": NaN
+    "Fazenda": null,
+    "Unnamed: 20": null
   },
   {
     "ID": "3531717",
@@ -39334,7 +41125,8 @@ const VIABILIDADE_GEMAS_DATA = [
     "Quantidade de Gemas Total": "59",
     "Quantidade de Gemas Viáveis": "59",
     "Quantidade de Gemas Inviáveis": "59",
-    "Fazenda": NaN
+    "Fazenda": null,
+    "Unnamed: 20": null
   },
   {
     "ID": "3531863",
@@ -39356,7 +41148,8 @@ const VIABILIDADE_GEMAS_DATA = [
     "Quantidade de Gemas Total": "52",
     "Quantidade de Gemas Viáveis": "50",
     "Quantidade de Gemas Inviáveis": "2",
-    "Fazenda": NaN
+    "Fazenda": null,
+    "Unnamed: 20": null
   },
   {
     "ID": "3531712",
@@ -39378,7 +41171,8 @@ const VIABILIDADE_GEMAS_DATA = [
     "Quantidade de Gemas Total": "54",
     "Quantidade de Gemas Viáveis": "54",
     "Quantidade de Gemas Inviáveis": "54",
-    "Fazenda": NaN
+    "Fazenda": null,
+    "Unnamed: 20": null
   },
   {
     "ID": "3531701",
@@ -39400,7 +41194,8 @@ const VIABILIDADE_GEMAS_DATA = [
     "Quantidade de Gemas Total": "56",
     "Quantidade de Gemas Viáveis": "56",
     "Quantidade de Gemas Inviáveis": "0",
-    "Fazenda": NaN
+    "Fazenda": null,
+    "Unnamed: 20": null
   },
   {
     "ID": "3531439",
@@ -39422,7 +41217,8 @@ const VIABILIDADE_GEMAS_DATA = [
     "Quantidade de Gemas Total": "95",
     "Quantidade de Gemas Viáveis": "95",
     "Quantidade de Gemas Inviáveis": "0",
-    "Fazenda": NaN
+    "Fazenda": null,
+    "Unnamed: 20": null
   },
   {
     "ID": "3531706",
@@ -39444,7 +41240,8 @@ const VIABILIDADE_GEMAS_DATA = [
     "Quantidade de Gemas Total": "54",
     "Quantidade de Gemas Viáveis": "54",
     "Quantidade de Gemas Inviáveis": "0",
-    "Fazenda": NaN
+    "Fazenda": null,
+    "Unnamed: 20": null
   },
   {
     "ID": "3531680",
@@ -39466,7 +41263,8 @@ const VIABILIDADE_GEMAS_DATA = [
     "Quantidade de Gemas Total": "57",
     "Quantidade de Gemas Viáveis": "57",
     "Quantidade de Gemas Inviáveis": "0",
-    "Fazenda": NaN
+    "Fazenda": null,
+    "Unnamed: 20": null
   },
   {
     "ID": "3531452",
@@ -39488,7 +41286,8 @@ const VIABILIDADE_GEMAS_DATA = [
     "Quantidade de Gemas Total": "63",
     "Quantidade de Gemas Viáveis": "60",
     "Quantidade de Gemas Inviáveis": "3",
-    "Fazenda": NaN
+    "Fazenda": null,
+    "Unnamed: 20": null
   },
   {
     "ID": "3531446",
@@ -39510,7 +41309,8 @@ const VIABILIDADE_GEMAS_DATA = [
     "Quantidade de Gemas Total": "51",
     "Quantidade de Gemas Viáveis": "51",
     "Quantidade de Gemas Inviáveis": "0",
-    "Fazenda": NaN
+    "Fazenda": null,
+    "Unnamed: 20": null
   },
   {
     "ID": "3531420",
@@ -39532,7 +41332,8 @@ const VIABILIDADE_GEMAS_DATA = [
     "Quantidade de Gemas Total": "76",
     "Quantidade de Gemas Viáveis": "76",
     "Quantidade de Gemas Inviáveis": "0",
-    "Fazenda": NaN
+    "Fazenda": null,
+    "Unnamed: 20": null
   },
   {
     "ID": "3531448",
@@ -39554,7 +41355,8 @@ const VIABILIDADE_GEMAS_DATA = [
     "Quantidade de Gemas Total": "62",
     "Quantidade de Gemas Viáveis": "60",
     "Quantidade de Gemas Inviáveis": "2",
-    "Fazenda": NaN
+    "Fazenda": null,
+    "Unnamed: 20": null
   },
   {
     "ID": "3531437",
@@ -39576,7 +41378,8 @@ const VIABILIDADE_GEMAS_DATA = [
     "Quantidade de Gemas Total": "48",
     "Quantidade de Gemas Viáveis": "48",
     "Quantidade de Gemas Inviáveis": "0",
-    "Fazenda": NaN
+    "Fazenda": null,
+    "Unnamed: 20": null
   },
   {
     "ID": "3531469",
@@ -39598,7 +41401,8 @@ const VIABILIDADE_GEMAS_DATA = [
     "Quantidade de Gemas Total": "86",
     "Quantidade de Gemas Viáveis": "86",
     "Quantidade de Gemas Inviáveis": "0",
-    "Fazenda": NaN
+    "Fazenda": null,
+    "Unnamed: 20": null
   },
   {
     "ID": "3531930",
@@ -39620,7 +41424,8 @@ const VIABILIDADE_GEMAS_DATA = [
     "Quantidade de Gemas Total": "56",
     "Quantidade de Gemas Viáveis": "53",
     "Quantidade de Gemas Inviáveis": "3",
-    "Fazenda": NaN
+    "Fazenda": null,
+    "Unnamed: 20": null
   },
   {
     "ID": "3531925",
@@ -39642,7 +41447,8 @@ const VIABILIDADE_GEMAS_DATA = [
     "Quantidade de Gemas Total": "52",
     "Quantidade de Gemas Viáveis": "52",
     "Quantidade de Gemas Inviáveis": "0",
-    "Fazenda": NaN
+    "Fazenda": null,
+    "Unnamed: 20": null
   },
   {
     "ID": "3531669",
@@ -39664,7 +41470,8 @@ const VIABILIDADE_GEMAS_DATA = [
     "Quantidade de Gemas Total": "59",
     "Quantidade de Gemas Viáveis": "59",
     "Quantidade de Gemas Inviáveis": "0",
-    "Fazenda": NaN
+    "Fazenda": null,
+    "Unnamed: 20": null
   },
   {
     "ID": "3531424",
@@ -39686,7 +41493,8 @@ const VIABILIDADE_GEMAS_DATA = [
     "Quantidade de Gemas Total": "54",
     "Quantidade de Gemas Viáveis": "54",
     "Quantidade de Gemas Inviáveis": "0",
-    "Fazenda": NaN
+    "Fazenda": null,
+    "Unnamed: 20": null
   },
   {
     "ID": "3531416",
@@ -39708,7 +41516,8 @@ const VIABILIDADE_GEMAS_DATA = [
     "Quantidade de Gemas Total": "58",
     "Quantidade de Gemas Viáveis": "58",
     "Quantidade de Gemas Inviáveis": "0",
-    "Fazenda": NaN
+    "Fazenda": null,
+    "Unnamed: 20": null
   },
   {
     "ID": "3531644",
@@ -39730,7 +41539,8 @@ const VIABILIDADE_GEMAS_DATA = [
     "Quantidade de Gemas Total": "54",
     "Quantidade de Gemas Viáveis": "54",
     "Quantidade de Gemas Inviáveis": "0",
-    "Fazenda": NaN
+    "Fazenda": null,
+    "Unnamed: 20": null
   },
   {
     "ID": "3531410",
@@ -39752,7 +41562,8 @@ const VIABILIDADE_GEMAS_DATA = [
     "Quantidade de Gemas Total": "51",
     "Quantidade de Gemas Viáveis": "51",
     "Quantidade de Gemas Inviáveis": "0",
-    "Fazenda": NaN
+    "Fazenda": null,
+    "Unnamed: 20": null
   },
   {
     "ID": "3531636",
@@ -39774,7 +41585,8 @@ const VIABILIDADE_GEMAS_DATA = [
     "Quantidade de Gemas Total": "57",
     "Quantidade de Gemas Viáveis": "57",
     "Quantidade de Gemas Inviáveis": "0",
-    "Fazenda": NaN
+    "Fazenda": null,
+    "Unnamed: 20": null
   },
   {
     "ID": "3531630",
@@ -39796,7 +41608,8 @@ const VIABILIDADE_GEMAS_DATA = [
     "Quantidade de Gemas Total": "58",
     "Quantidade de Gemas Viáveis": "58",
     "Quantidade de Gemas Inviáveis": "0",
-    "Fazenda": NaN
+    "Fazenda": null,
+    "Unnamed: 20": null
   },
   {
     "ID": "3531554",
@@ -39818,7 +41631,8 @@ const VIABILIDADE_GEMAS_DATA = [
     "Quantidade de Gemas Total": "54",
     "Quantidade de Gemas Viáveis": "54",
     "Quantidade de Gemas Inviáveis": "0",
-    "Fazenda": NaN
+    "Fazenda": null,
+    "Unnamed: 20": null
   },
   {
     "ID": "3529639",
@@ -39840,7 +41654,8 @@ const VIABILIDADE_GEMAS_DATA = [
     "Quantidade de Gemas Total": "50",
     "Quantidade de Gemas Viáveis": "50",
     "Quantidade de Gemas Inviáveis": "0",
-    "Fazenda": NaN
+    "Fazenda": null,
+    "Unnamed: 20": null
   },
   {
     "ID": "3529638",
@@ -39862,7 +41677,8 @@ const VIABILIDADE_GEMAS_DATA = [
     "Quantidade de Gemas Total": "51",
     "Quantidade de Gemas Viáveis": "51",
     "Quantidade de Gemas Inviáveis": "0",
-    "Fazenda": NaN
+    "Fazenda": null,
+    "Unnamed: 20": null
   },
   {
     "ID": "3529637",
@@ -39884,7 +41700,8 @@ const VIABILIDADE_GEMAS_DATA = [
     "Quantidade de Gemas Total": "49",
     "Quantidade de Gemas Viáveis": "49",
     "Quantidade de Gemas Inviáveis": "0",
-    "Fazenda": NaN
+    "Fazenda": null,
+    "Unnamed: 20": null
   },
   {
     "ID": "3530153",
@@ -39906,7 +41723,8 @@ const VIABILIDADE_GEMAS_DATA = [
     "Quantidade de Gemas Total": "58",
     "Quantidade de Gemas Viáveis": "58",
     "Quantidade de Gemas Inviáveis": "0",
-    "Fazenda": NaN
+    "Fazenda": null,
+    "Unnamed: 20": null
   },
   {
     "ID": "3530148",
@@ -39928,7 +41746,8 @@ const VIABILIDADE_GEMAS_DATA = [
     "Quantidade de Gemas Total": "56",
     "Quantidade de Gemas Viáveis": "56",
     "Quantidade de Gemas Inviáveis": "0",
-    "Fazenda": NaN
+    "Fazenda": null,
+    "Unnamed: 20": null
   },
   {
     "ID": "3529912",
@@ -39950,7 +41769,8 @@ const VIABILIDADE_GEMAS_DATA = [
     "Quantidade de Gemas Total": "58",
     "Quantidade de Gemas Viáveis": "58",
     "Quantidade de Gemas Inviáveis": "0",
-    "Fazenda": NaN
+    "Fazenda": null,
+    "Unnamed: 20": null
   },
   {
     "ID": "3529691",
@@ -39972,7 +41792,8 @@ const VIABILIDADE_GEMAS_DATA = [
     "Quantidade de Gemas Total": "62",
     "Quantidade de Gemas Viáveis": "62",
     "Quantidade de Gemas Inviáveis": "0",
-    "Fazenda": NaN
+    "Fazenda": null,
+    "Unnamed: 20": null
   },
   {
     "ID": "3529903",
@@ -39994,7 +41815,8 @@ const VIABILIDADE_GEMAS_DATA = [
     "Quantidade de Gemas Total": "54",
     "Quantidade de Gemas Viáveis": "54",
     "Quantidade de Gemas Inviáveis": "0",
-    "Fazenda": NaN
+    "Fazenda": null,
+    "Unnamed: 20": null
   },
   {
     "ID": "3529895",
@@ -40016,7 +41838,8 @@ const VIABILIDADE_GEMAS_DATA = [
     "Quantidade de Gemas Total": "56",
     "Quantidade de Gemas Viáveis": "56",
     "Quantidade de Gemas Inviáveis": "0",
-    "Fazenda": NaN
+    "Fazenda": null,
+    "Unnamed: 20": null
   },
   {
     "ID": "3529673",
@@ -40038,7 +41861,8 @@ const VIABILIDADE_GEMAS_DATA = [
     "Quantidade de Gemas Total": "60",
     "Quantidade de Gemas Viáveis": "60",
     "Quantidade de Gemas Inviáveis": "0",
-    "Fazenda": NaN
+    "Fazenda": null,
+    "Unnamed: 20": null
   },
   {
     "ID": "3529890",
@@ -40060,7 +41884,8 @@ const VIABILIDADE_GEMAS_DATA = [
     "Quantidade de Gemas Total": "54",
     "Quantidade de Gemas Viáveis": "54",
     "Quantidade de Gemas Inviáveis": "0",
-    "Fazenda": NaN
+    "Fazenda": null,
+    "Unnamed: 20": null
   },
   {
     "ID": "3529522",
@@ -40082,7 +41907,8 @@ const VIABILIDADE_GEMAS_DATA = [
     "Quantidade de Gemas Total": "54",
     "Quantidade de Gemas Viáveis": "51",
     "Quantidade de Gemas Inviáveis": "3",
-    "Fazenda": NaN
+    "Fazenda": null,
+    "Unnamed: 20": null
   },
   {
     "ID": "3529668",
@@ -40104,7 +41930,8 @@ const VIABILIDADE_GEMAS_DATA = [
     "Quantidade de Gemas Total": "54",
     "Quantidade de Gemas Viáveis": "53",
     "Quantidade de Gemas Inviáveis": "1",
-    "Fazenda": NaN
+    "Fazenda": null,
+    "Unnamed: 20": null
   },
   {
     "ID": "3529666",
@@ -40126,7 +41953,8 @@ const VIABILIDADE_GEMAS_DATA = [
     "Quantidade de Gemas Total": "65",
     "Quantidade de Gemas Viáveis": "63",
     "Quantidade de Gemas Inviáveis": "2",
-    "Fazenda": NaN
+    "Fazenda": null,
+    "Unnamed: 20": null
   },
   {
     "ID": "3529621",
@@ -40148,7 +41976,8 @@ const VIABILIDADE_GEMAS_DATA = [
     "Quantidade de Gemas Total": "48",
     "Quantidade de Gemas Viáveis": "48",
     "Quantidade de Gemas Inviáveis": "0",
-    "Fazenda": NaN
+    "Fazenda": null,
+    "Unnamed: 20": null
   },
   {
     "ID": "3529662",
@@ -40170,7 +41999,8 @@ const VIABILIDADE_GEMAS_DATA = [
     "Quantidade de Gemas Total": "63",
     "Quantidade de Gemas Viáveis": "63",
     "Quantidade de Gemas Inviáveis": "0",
-    "Fazenda": NaN
+    "Fazenda": null,
+    "Unnamed: 20": null
   },
   {
     "ID": "3529514",
@@ -40192,7 +42022,8 @@ const VIABILIDADE_GEMAS_DATA = [
     "Quantidade de Gemas Total": "57",
     "Quantidade de Gemas Viáveis": "54",
     "Quantidade de Gemas Inviáveis": "3",
-    "Fazenda": NaN
+    "Fazenda": null,
+    "Unnamed: 20": null
   },
   {
     "ID": "3529510",
@@ -40214,7 +42045,8 @@ const VIABILIDADE_GEMAS_DATA = [
     "Quantidade de Gemas Total": "53",
     "Quantidade de Gemas Viáveis": "50",
     "Quantidade de Gemas Inviáveis": "3",
-    "Fazenda": NaN
+    "Fazenda": null,
+    "Unnamed: 20": null
   },
   {
     "ID": "3530143",
@@ -40236,7 +42068,8 @@ const VIABILIDADE_GEMAS_DATA = [
     "Quantidade de Gemas Total": "53",
     "Quantidade de Gemas Viáveis": "53",
     "Quantidade de Gemas Inviáveis": "0",
-    "Fazenda": NaN
+    "Fazenda": null,
+    "Unnamed: 20": null
   },
   {
     "ID": "3530041",
@@ -40258,7 +42091,8 @@ const VIABILIDADE_GEMAS_DATA = [
     "Quantidade de Gemas Total": "54",
     "Quantidade de Gemas Viáveis": "54",
     "Quantidade de Gemas Inviáveis": "0",
-    "Fazenda": NaN
+    "Fazenda": null,
+    "Unnamed: 20": null
   },
   {
     "ID": "3529451",
@@ -40280,7 +42114,8 @@ const VIABILIDADE_GEMAS_DATA = [
     "Quantidade de Gemas Total": "56",
     "Quantidade de Gemas Viáveis": "56",
     "Quantidade de Gemas Inviáveis": "0",
-    "Fazenda": NaN
+    "Fazenda": null,
+    "Unnamed: 20": null
   },
   {
     "ID": "3530036",
@@ -40302,7 +42137,8 @@ const VIABILIDADE_GEMAS_DATA = [
     "Quantidade de Gemas Total": "55",
     "Quantidade de Gemas Viáveis": "55",
     "Quantidade de Gemas Inviáveis": "0",
-    "Fazenda": NaN
+    "Fazenda": null,
+    "Unnamed: 20": null
   },
   {
     "ID": "3529446",
@@ -40324,7 +42160,8 @@ const VIABILIDADE_GEMAS_DATA = [
     "Quantidade de Gemas Total": "48",
     "Quantidade de Gemas Viáveis": "48",
     "Quantidade de Gemas Inviáveis": "0",
-    "Fazenda": NaN
+    "Fazenda": null,
+    "Unnamed: 20": null
   },
   {
     "ID": "3529506",
@@ -40346,7 +42183,8 @@ const VIABILIDADE_GEMAS_DATA = [
     "Quantidade de Gemas Total": "56",
     "Quantidade de Gemas Viáveis": "53",
     "Quantidade de Gemas Inviáveis": "3",
-    "Fazenda": NaN
+    "Fazenda": null,
+    "Unnamed: 20": null
   },
   {
     "ID": "3530031",
@@ -40368,7 +42206,8 @@ const VIABILIDADE_GEMAS_DATA = [
     "Quantidade de Gemas Total": "60",
     "Quantidade de Gemas Viáveis": "60",
     "Quantidade de Gemas Inviáveis": "0",
-    "Fazenda": NaN
+    "Fazenda": null,
+    "Unnamed: 20": null
   },
   {
     "ID": "3529433",
@@ -40390,7 +42229,8 @@ const VIABILIDADE_GEMAS_DATA = [
     "Quantidade de Gemas Total": "53",
     "Quantidade de Gemas Viáveis": "53",
     "Quantidade de Gemas Inviáveis": "0",
-    "Fazenda": NaN
+    "Fazenda": null,
+    "Unnamed: 20": null
   },
   {
     "ID": "3530026",
@@ -40412,7 +42252,8 @@ const VIABILIDADE_GEMAS_DATA = [
     "Quantidade de Gemas Total": "59",
     "Quantidade de Gemas Viáveis": "59",
     "Quantidade de Gemas Inviáveis": "0",
-    "Fazenda": NaN
+    "Fazenda": null,
+    "Unnamed: 20": null
   },
   {
     "ID": "3530021",
@@ -40434,7 +42275,8 @@ const VIABILIDADE_GEMAS_DATA = [
     "Quantidade de Gemas Total": "58",
     "Quantidade de Gemas Viáveis": "58",
     "Quantidade de Gemas Inviáveis": "0",
-    "Fazenda": NaN
+    "Fazenda": null,
+    "Unnamed: 20": null
   },
   {
     "ID": "3530016",
@@ -40456,7 +42298,8 @@ const VIABILIDADE_GEMAS_DATA = [
     "Quantidade de Gemas Total": "56",
     "Quantidade de Gemas Viáveis": "56",
     "Quantidade de Gemas Inviáveis": "0",
-    "Fazenda": NaN
+    "Fazenda": null,
+    "Unnamed: 20": null
   },
   {
     "ID": "3530136",
@@ -40478,7 +42321,8 @@ const VIABILIDADE_GEMAS_DATA = [
     "Quantidade de Gemas Total": "52",
     "Quantidade de Gemas Viáveis": "52",
     "Quantidade de Gemas Inviáveis": "0",
-    "Fazenda": NaN
+    "Fazenda": null,
+    "Unnamed: 20": null
   },
   {
     "ID": "3529590",
@@ -40500,7 +42344,8 @@ const VIABILIDADE_GEMAS_DATA = [
     "Quantidade de Gemas Total": "50",
     "Quantidade de Gemas Viáveis": "50",
     "Quantidade de Gemas Inviáveis": "0",
-    "Fazenda": NaN
+    "Fazenda": null,
+    "Unnamed: 20": null
   },
   {
     "ID": "3530012",
@@ -40522,7 +42367,8 @@ const VIABILIDADE_GEMAS_DATA = [
     "Quantidade de Gemas Total": "58",
     "Quantidade de Gemas Viáveis": "58",
     "Quantidade de Gemas Inviáveis": "0",
-    "Fazenda": NaN
+    "Fazenda": null,
+    "Unnamed: 20": null
   },
   {
     "ID": "3529586",
@@ -40544,7 +42390,8 @@ const VIABILIDADE_GEMAS_DATA = [
     "Quantidade de Gemas Total": "55",
     "Quantidade de Gemas Viáveis": "54",
     "Quantidade de Gemas Inviáveis": "1",
-    "Fazenda": NaN
+    "Fazenda": null,
+    "Unnamed: 20": null
   },
   {
     "ID": "3530131",
@@ -40566,7 +42413,8 @@ const VIABILIDADE_GEMAS_DATA = [
     "Quantidade de Gemas Total": "54",
     "Quantidade de Gemas Viáveis": "53",
     "Quantidade de Gemas Inviáveis": "1",
-    "Fazenda": NaN
+    "Fazenda": null,
+    "Unnamed: 20": null
   },
   {
     "ID": "3529818",
@@ -40588,7 +42436,8 @@ const VIABILIDADE_GEMAS_DATA = [
     "Quantidade de Gemas Total": "55",
     "Quantidade de Gemas Viáveis": "55",
     "Quantidade de Gemas Inviáveis": "0",
-    "Fazenda": NaN
+    "Fazenda": null,
+    "Unnamed: 20": null
   },
   {
     "ID": "3529581",
@@ -40610,7 +42459,8 @@ const VIABILIDADE_GEMAS_DATA = [
     "Quantidade de Gemas Total": "57",
     "Quantidade de Gemas Viáveis": "53",
     "Quantidade de Gemas Inviáveis": "4",
-    "Fazenda": NaN
+    "Fazenda": null,
+    "Unnamed: 20": null
   },
   {
     "ID": "3529573",
@@ -40632,7 +42482,8 @@ const VIABILIDADE_GEMAS_DATA = [
     "Quantidade de Gemas Total": "60",
     "Quantidade de Gemas Viáveis": "57",
     "Quantidade de Gemas Inviáveis": "3",
-    "Fazenda": NaN
+    "Fazenda": null,
+    "Unnamed: 20": null
   },
   {
     "ID": "3529807",
@@ -40654,7 +42505,8 @@ const VIABILIDADE_GEMAS_DATA = [
     "Quantidade de Gemas Total": "54",
     "Quantidade de Gemas Viáveis": "54",
     "Quantidade de Gemas Inviáveis": "0",
-    "Fazenda": NaN
+    "Fazenda": null,
+    "Unnamed: 20": null
   },
   {
     "ID": "3520555",
@@ -40676,7 +42528,8 @@ const VIABILIDADE_GEMAS_DATA = [
     "Quantidade de Gemas Total": "61",
     "Quantidade de Gemas Viáveis": "61",
     "Quantidade de Gemas Inviáveis": "0",
-    "Fazenda": NaN
+    "Fazenda": null,
+    "Unnamed: 20": null
   },
   {
     "ID": "3520548",
@@ -40698,7 +42551,8 @@ const VIABILIDADE_GEMAS_DATA = [
     "Quantidade de Gemas Total": "57",
     "Quantidade de Gemas Viáveis": "57",
     "Quantidade de Gemas Inviáveis": "0",
-    "Fazenda": NaN
+    "Fazenda": null,
+    "Unnamed: 20": null
   },
   {
     "ID": "3520544",
@@ -40720,7 +42574,8 @@ const VIABILIDADE_GEMAS_DATA = [
     "Quantidade de Gemas Total": "60",
     "Quantidade de Gemas Viáveis": "60",
     "Quantidade de Gemas Inviáveis": "0",
-    "Fazenda": NaN
+    "Fazenda": null,
+    "Unnamed: 20": null
   },
   {
     "ID": "3520690",
@@ -40742,7 +42597,8 @@ const VIABILIDADE_GEMAS_DATA = [
     "Quantidade de Gemas Total": "56",
     "Quantidade de Gemas Viáveis": "56",
     "Quantidade de Gemas Inviáveis": "0",
-    "Fazenda": NaN
+    "Fazenda": null,
+    "Unnamed: 20": null
   },
   {
     "ID": "3520422",
@@ -40764,7 +42620,8 @@ const VIABILIDADE_GEMAS_DATA = [
     "Quantidade de Gemas Total": "57",
     "Quantidade de Gemas Viáveis": "57",
     "Quantidade de Gemas Inviáveis": "0",
-    "Fazenda": NaN
+    "Fazenda": null,
+    "Unnamed: 20": null
   },
   {
     "ID": "3520685",
@@ -40786,7 +42643,8 @@ const VIABILIDADE_GEMAS_DATA = [
     "Quantidade de Gemas Total": "60",
     "Quantidade de Gemas Viáveis": "60",
     "Quantidade de Gemas Inviáveis": "0",
-    "Fazenda": NaN
+    "Fazenda": null,
+    "Unnamed: 20": null
   },
   {
     "ID": "3520415",
@@ -40808,7 +42666,8 @@ const VIABILIDADE_GEMAS_DATA = [
     "Quantidade de Gemas Total": "54",
     "Quantidade de Gemas Viáveis": "54",
     "Quantidade de Gemas Inviáveis": "0",
-    "Fazenda": NaN
+    "Fazenda": null,
+    "Unnamed: 20": null
   },
   {
     "ID": "3520680",
@@ -40830,7 +42689,8 @@ const VIABILIDADE_GEMAS_DATA = [
     "Quantidade de Gemas Total": "59",
     "Quantidade de Gemas Viáveis": "59",
     "Quantidade de Gemas Inviáveis": "0",
-    "Fazenda": NaN
+    "Fazenda": null,
+    "Unnamed: 20": null
   },
   {
     "ID": "3520676",
@@ -40852,7 +42712,8 @@ const VIABILIDADE_GEMAS_DATA = [
     "Quantidade de Gemas Total": "62",
     "Quantidade de Gemas Viáveis": "62",
     "Quantidade de Gemas Inviáveis": "0",
-    "Fazenda": NaN
+    "Fazenda": null,
+    "Unnamed: 20": null
   },
   {
     "ID": "3520394",
@@ -40874,7 +42735,8 @@ const VIABILIDADE_GEMAS_DATA = [
     "Quantidade de Gemas Total": "54",
     "Quantidade de Gemas Viáveis": "54",
     "Quantidade de Gemas Inviáveis": "0",
-    "Fazenda": NaN
+    "Fazenda": null,
+    "Unnamed: 20": null
   },
   {
     "ID": "3520387",
@@ -40896,7 +42758,8 @@ const VIABILIDADE_GEMAS_DATA = [
     "Quantidade de Gemas Total": "59",
     "Quantidade de Gemas Viáveis": "59",
     "Quantidade de Gemas Inviáveis": "0",
-    "Fazenda": NaN
+    "Fazenda": null,
+    "Unnamed: 20": null
   },
   {
     "ID": "3520382",
@@ -40918,7 +42781,8 @@ const VIABILIDADE_GEMAS_DATA = [
     "Quantidade de Gemas Total": "54",
     "Quantidade de Gemas Viáveis": "54",
     "Quantidade de Gemas Inviáveis": "0",
-    "Fazenda": NaN
+    "Fazenda": null,
+    "Unnamed: 20": null
   },
   {
     "ID": "3520578",
@@ -40940,7 +42804,8 @@ const VIABILIDADE_GEMAS_DATA = [
     "Quantidade de Gemas Total": "58",
     "Quantidade de Gemas Viáveis": "58",
     "Quantidade de Gemas Inviáveis": "0",
-    "Fazenda": NaN
+    "Fazenda": null,
+    "Unnamed: 20": null
   },
   {
     "ID": "3520458",
@@ -40962,7 +42827,8 @@ const VIABILIDADE_GEMAS_DATA = [
     "Quantidade de Gemas Total": "53",
     "Quantidade de Gemas Viáveis": "53",
     "Quantidade de Gemas Inviáveis": "0",
-    "Fazenda": NaN
+    "Fazenda": null,
+    "Unnamed: 20": null
   },
   {
     "ID": "3520372",
@@ -40984,7 +42850,8 @@ const VIABILIDADE_GEMAS_DATA = [
     "Quantidade de Gemas Total": "56",
     "Quantidade de Gemas Viáveis": "56",
     "Quantidade de Gemas Inviáveis": "0",
-    "Fazenda": NaN
+    "Fazenda": null,
+    "Unnamed: 20": null
   },
   {
     "ID": "3520366",
@@ -41006,7 +42873,8 @@ const VIABILIDADE_GEMAS_DATA = [
     "Quantidade de Gemas Total": "58",
     "Quantidade de Gemas Viáveis": "58",
     "Quantidade de Gemas Inviáveis": "0",
-    "Fazenda": NaN
+    "Fazenda": null,
+    "Unnamed: 20": null
   },
   {
     "ID": "3520573",
@@ -41028,7 +42896,8 @@ const VIABILIDADE_GEMAS_DATA = [
     "Quantidade de Gemas Total": "53",
     "Quantidade de Gemas Viáveis": "53",
     "Quantidade de Gemas Inviáveis": "0",
-    "Fazenda": NaN
+    "Fazenda": null,
+    "Unnamed: 20": null
   },
   {
     "ID": "3520357",
@@ -41050,7 +42919,8 @@ const VIABILIDADE_GEMAS_DATA = [
     "Quantidade de Gemas Total": "54",
     "Quantidade de Gemas Viáveis": "54",
     "Quantidade de Gemas Inviáveis": "0",
-    "Fazenda": NaN
+    "Fazenda": null,
+    "Unnamed: 20": null
   },
   {
     "ID": "3520453",
@@ -41072,7 +42942,8 @@ const VIABILIDADE_GEMAS_DATA = [
     "Quantidade de Gemas Total": "60",
     "Quantidade de Gemas Viáveis": "60",
     "Quantidade de Gemas Inviáveis": "0",
-    "Fazenda": NaN
+    "Fazenda": null,
+    "Unnamed: 20": null
   },
   {
     "ID": "3520352",
@@ -41094,7 +42965,8 @@ const VIABILIDADE_GEMAS_DATA = [
     "Quantidade de Gemas Total": "57",
     "Quantidade de Gemas Viáveis": "57",
     "Quantidade de Gemas Inviáveis": "0",
-    "Fazenda": NaN
+    "Fazenda": null,
+    "Unnamed: 20": null
   },
   {
     "ID": "3520347",
@@ -41116,7 +42988,8 @@ const VIABILIDADE_GEMAS_DATA = [
     "Quantidade de Gemas Total": "54",
     "Quantidade de Gemas Viáveis": "54",
     "Quantidade de Gemas Inviáveis": "0",
-    "Fazenda": NaN
+    "Fazenda": null,
+    "Unnamed: 20": null
   },
   {
     "ID": "3518730",
@@ -41138,7 +43011,8 @@ const VIABILIDADE_GEMAS_DATA = [
     "Quantidade de Gemas Total": "49",
     "Quantidade de Gemas Viáveis": "49",
     "Quantidade de Gemas Inviáveis": "0",
-    "Fazenda": NaN
+    "Fazenda": null,
+    "Unnamed: 20": null
   },
   {
     "ID": "3518726",
@@ -41160,7 +43034,8 @@ const VIABILIDADE_GEMAS_DATA = [
     "Quantidade de Gemas Total": "54",
     "Quantidade de Gemas Viáveis": "54",
     "Quantidade de Gemas Inviáveis": "0",
-    "Fazenda": NaN
+    "Fazenda": null,
+    "Unnamed: 20": null
   },
   {
     "ID": "3518722",
@@ -41182,7 +43057,8 @@ const VIABILIDADE_GEMAS_DATA = [
     "Quantidade de Gemas Total": "50",
     "Quantidade de Gemas Viáveis": "50",
     "Quantidade de Gemas Inviáveis": "0",
-    "Fazenda": NaN
+    "Fazenda": null,
+    "Unnamed: 20": null
   },
   {
     "ID": "3518564",
@@ -41204,7 +43080,8 @@ const VIABILIDADE_GEMAS_DATA = [
     "Quantidade de Gemas Total": "58",
     "Quantidade de Gemas Viáveis": "57",
     "Quantidade de Gemas Inviáveis": "1",
-    "Fazenda": NaN
+    "Fazenda": null,
+    "Unnamed: 20": null
   },
   {
     "ID": "3518560",
@@ -41226,7 +43103,8 @@ const VIABILIDADE_GEMAS_DATA = [
     "Quantidade de Gemas Total": "51",
     "Quantidade de Gemas Viáveis": "51",
     "Quantidade de Gemas Inviáveis": "0",
-    "Fazenda": NaN
+    "Fazenda": null,
+    "Unnamed: 20": null
   },
   {
     "ID": "3518677",
@@ -41248,7 +43126,8 @@ const VIABILIDADE_GEMAS_DATA = [
     "Quantidade de Gemas Total": "58",
     "Quantidade de Gemas Viáveis": "58",
     "Quantidade de Gemas Inviáveis": "0",
-    "Fazenda": NaN
+    "Fazenda": null,
+    "Unnamed: 20": null
   },
   {
     "ID": "3518672",
@@ -41270,7 +43149,8 @@ const VIABILIDADE_GEMAS_DATA = [
     "Quantidade de Gemas Total": "58",
     "Quantidade de Gemas Viáveis": "58",
     "Quantidade de Gemas Inviáveis": "0",
-    "Fazenda": NaN
+    "Fazenda": null,
+    "Unnamed: 20": null
   },
   {
     "ID": "3519045",
@@ -41292,7 +43172,8 @@ const VIABILIDADE_GEMAS_DATA = [
     "Quantidade de Gemas Total": "57",
     "Quantidade de Gemas Viáveis": "57",
     "Quantidade de Gemas Inviáveis": "0",
-    "Fazenda": NaN
+    "Fazenda": null,
+    "Unnamed: 20": null
   },
   {
     "ID": "3518555",
@@ -41314,7 +43195,8 @@ const VIABILIDADE_GEMAS_DATA = [
     "Quantidade de Gemas Total": "51",
     "Quantidade de Gemas Viáveis": "51",
     "Quantidade de Gemas Inviáveis": "0",
-    "Fazenda": NaN
+    "Fazenda": null,
+    "Unnamed: 20": null
   },
   {
     "ID": "3518665",
@@ -41336,7 +43218,8 @@ const VIABILIDADE_GEMAS_DATA = [
     "Quantidade de Gemas Total": "55",
     "Quantidade de Gemas Viáveis": "55",
     "Quantidade de Gemas Inviáveis": "0",
-    "Fazenda": NaN
+    "Fazenda": null,
+    "Unnamed: 20": null
   },
   {
     "ID": "3518554",
@@ -41358,7 +43241,8 @@ const VIABILIDADE_GEMAS_DATA = [
     "Quantidade de Gemas Total": "52",
     "Quantidade de Gemas Viáveis": "52",
     "Quantidade de Gemas Inviáveis": "0",
-    "Fazenda": NaN
+    "Fazenda": null,
+    "Unnamed: 20": null
   },
   {
     "ID": "3518553",
@@ -41380,7 +43264,8 @@ const VIABILIDADE_GEMAS_DATA = [
     "Quantidade de Gemas Total": "58",
     "Quantidade de Gemas Viáveis": "58",
     "Quantidade de Gemas Inviáveis": "0",
-    "Fazenda": NaN
+    "Fazenda": null,
+    "Unnamed: 20": null
   },
   {
     "ID": "3519034",
@@ -41402,7 +43287,8 @@ const VIABILIDADE_GEMAS_DATA = [
     "Quantidade de Gemas Total": "65",
     "Quantidade de Gemas Viáveis": "65",
     "Quantidade de Gemas Inviáveis": "0",
-    "Fazenda": NaN
+    "Fazenda": null,
+    "Unnamed: 20": null
   },
   {
     "ID": "3518659",
@@ -41424,7 +43310,8 @@ const VIABILIDADE_GEMAS_DATA = [
     "Quantidade de Gemas Total": "54",
     "Quantidade de Gemas Viáveis": "54",
     "Quantidade de Gemas Inviáveis": "0",
-    "Fazenda": NaN
+    "Fazenda": null,
+    "Unnamed: 20": null
   },
   {
     "ID": "3518999",
@@ -41446,7 +43333,8 @@ const VIABILIDADE_GEMAS_DATA = [
     "Quantidade de Gemas Total": "61",
     "Quantidade de Gemas Viáveis": "61",
     "Quantidade de Gemas Inviáveis": "0",
-    "Fazenda": NaN
+    "Fazenda": null,
+    "Unnamed: 20": null
   },
   {
     "ID": "3518994",
@@ -41468,7 +43356,8 @@ const VIABILIDADE_GEMAS_DATA = [
     "Quantidade de Gemas Total": "59",
     "Quantidade de Gemas Viáveis": "59",
     "Quantidade de Gemas Inviáveis": "0",
-    "Fazenda": NaN
+    "Fazenda": null,
+    "Unnamed: 20": null
   },
   {
     "ID": "3518536",
@@ -41490,7 +43379,8 @@ const VIABILIDADE_GEMAS_DATA = [
     "Quantidade de Gemas Total": "51",
     "Quantidade de Gemas Viáveis": "51",
     "Quantidade de Gemas Inviáveis": "0",
-    "Fazenda": NaN
+    "Fazenda": null,
+    "Unnamed: 20": null
   },
   {
     "ID": "3518319",
@@ -41512,7 +43402,8 @@ const VIABILIDADE_GEMAS_DATA = [
     "Quantidade de Gemas Total": "55",
     "Quantidade de Gemas Viáveis": "53",
     "Quantidade de Gemas Inviáveis": "2",
-    "Fazenda": NaN
+    "Fazenda": null,
+    "Unnamed: 20": null
   },
   {
     "ID": "3518313",
@@ -41534,7 +43425,8 @@ const VIABILIDADE_GEMAS_DATA = [
     "Quantidade de Gemas Total": "59",
     "Quantidade de Gemas Viáveis": "57",
     "Quantidade de Gemas Inviáveis": "2",
-    "Fazenda": NaN
+    "Fazenda": null,
+    "Unnamed: 20": null
   },
   {
     "ID": "3518984",
@@ -41556,7 +43448,8 @@ const VIABILIDADE_GEMAS_DATA = [
     "Quantidade de Gemas Total": "62",
     "Quantidade de Gemas Viáveis": "62",
     "Quantidade de Gemas Inviáveis": "0",
-    "Fazenda": NaN
+    "Fazenda": null,
+    "Unnamed: 20": null
   },
   {
     "ID": "3518309",
@@ -41578,7 +43471,8 @@ const VIABILIDADE_GEMAS_DATA = [
     "Quantidade de Gemas Total": "51",
     "Quantidade de Gemas Viáveis": "49",
     "Quantidade de Gemas Inviáveis": "2",
-    "Fazenda": NaN
+    "Fazenda": null,
+    "Unnamed: 20": null
   },
   {
     "ID": "3518971",
@@ -41600,7 +43494,8 @@ const VIABILIDADE_GEMAS_DATA = [
     "Quantidade de Gemas Total": "59",
     "Quantidade de Gemas Viáveis": "59",
     "Quantidade de Gemas Inviáveis": "0",
-    "Fazenda": NaN
+    "Fazenda": null,
+    "Unnamed: 20": null
   },
   {
     "ID": "3518964",
@@ -41622,7 +43517,8 @@ const VIABILIDADE_GEMAS_DATA = [
     "Quantidade de Gemas Total": "60",
     "Quantidade de Gemas Viáveis": "60",
     "Quantidade de Gemas Inviáveis": "0",
-    "Fazenda": NaN
+    "Fazenda": null,
+    "Unnamed: 20": null
   },
   {
     "ID": "3518959",
@@ -41644,7 +43540,8 @@ const VIABILIDADE_GEMAS_DATA = [
     "Quantidade de Gemas Total": "63",
     "Quantidade de Gemas Viáveis": "63",
     "Quantidade de Gemas Inviáveis": "0",
-    "Fazenda": NaN
+    "Fazenda": null,
+    "Unnamed: 20": null
   },
   {
     "ID": "3516465",
@@ -41666,7 +43563,8 @@ const VIABILIDADE_GEMAS_DATA = [
     "Quantidade de Gemas Total": "51",
     "Quantidade de Gemas Viáveis": "51",
     "Quantidade de Gemas Inviáveis": "0",
-    "Fazenda": NaN
+    "Fazenda": null,
+    "Unnamed: 20": null
   },
   {
     "ID": "3516462",
@@ -41688,7 +43586,8 @@ const VIABILIDADE_GEMAS_DATA = [
     "Quantidade de Gemas Total": "54",
     "Quantidade de Gemas Viáveis": "54",
     "Quantidade de Gemas Inviáveis": "0",
-    "Fazenda": NaN
+    "Fazenda": null,
+    "Unnamed: 20": null
   },
   {
     "ID": "3516456",
@@ -41710,7 +43609,8 @@ const VIABILIDADE_GEMAS_DATA = [
     "Quantidade de Gemas Total": "48",
     "Quantidade de Gemas Viáveis": "48",
     "Quantidade de Gemas Inviáveis": "0",
-    "Fazenda": NaN
+    "Fazenda": null,
+    "Unnamed: 20": null
   },
   {
     "ID": "3516449",
@@ -41732,7 +43632,8 @@ const VIABILIDADE_GEMAS_DATA = [
     "Quantidade de Gemas Total": "48",
     "Quantidade de Gemas Viáveis": "48",
     "Quantidade de Gemas Inviáveis": "0",
-    "Fazenda": NaN
+    "Fazenda": null,
+    "Unnamed: 20": null
   },
   {
     "ID": "3516444",
@@ -41754,7 +43655,8 @@ const VIABILIDADE_GEMAS_DATA = [
     "Quantidade de Gemas Total": "52",
     "Quantidade de Gemas Viáveis": "52",
     "Quantidade de Gemas Inviáveis": "0",
-    "Fazenda": NaN
+    "Fazenda": null,
+    "Unnamed: 20": null
   },
   {
     "ID": "3516478",
@@ -41776,7 +43678,8 @@ const VIABILIDADE_GEMAS_DATA = [
     "Quantidade de Gemas Total": "49",
     "Quantidade de Gemas Viáveis": "49",
     "Quantidade de Gemas Inviáveis": "0",
-    "Fazenda": NaN
+    "Fazenda": null,
+    "Unnamed: 20": null
   },
   {
     "ID": "3516375",
@@ -41798,7 +43701,8 @@ const VIABILIDADE_GEMAS_DATA = [
     "Quantidade de Gemas Total": "51",
     "Quantidade de Gemas Viáveis": "51",
     "Quantidade de Gemas Inviáveis": "0",
-    "Fazenda": NaN
+    "Fazenda": null,
+    "Unnamed: 20": null
   },
   {
     "ID": "3516425",
@@ -41820,7 +43724,8 @@ const VIABILIDADE_GEMAS_DATA = [
     "Quantidade de Gemas Total": "55",
     "Quantidade de Gemas Viáveis": "54",
     "Quantidade de Gemas Inviáveis": "1",
-    "Fazenda": NaN
+    "Fazenda": null,
+    "Unnamed: 20": null
   },
   {
     "ID": "3516421",
@@ -41842,7 +43747,8 @@ const VIABILIDADE_GEMAS_DATA = [
     "Quantidade de Gemas Total": "51",
     "Quantidade de Gemas Viáveis": "51",
     "Quantidade de Gemas Inviáveis": "0",
-    "Fazenda": NaN
+    "Fazenda": null,
+    "Unnamed: 20": null
   },
   {
     "ID": "3516417",
@@ -41864,7 +43770,8 @@ const VIABILIDADE_GEMAS_DATA = [
     "Quantidade de Gemas Total": "57",
     "Quantidade de Gemas Viáveis": "56",
     "Quantidade de Gemas Inviáveis": "1",
-    "Fazenda": NaN
+    "Fazenda": null,
+    "Unnamed: 20": null
   },
   {
     "ID": "3516606",
@@ -41886,7 +43793,8 @@ const VIABILIDADE_GEMAS_DATA = [
     "Quantidade de Gemas Total": "54",
     "Quantidade de Gemas Viáveis": "52",
     "Quantidade de Gemas Inviáveis": "2",
-    "Fazenda": NaN
+    "Fazenda": null,
+    "Unnamed: 20": null
   },
   {
     "ID": "3516590",
@@ -41908,7 +43816,8 @@ const VIABILIDADE_GEMAS_DATA = [
     "Quantidade de Gemas Total": "61",
     "Quantidade de Gemas Viáveis": "60",
     "Quantidade de Gemas Inviáveis": "1",
-    "Fazenda": NaN
+    "Fazenda": null,
+    "Unnamed: 20": null
   },
   {
     "ID": "3516585",
@@ -41930,7 +43839,8 @@ const VIABILIDADE_GEMAS_DATA = [
     "Quantidade de Gemas Total": "52",
     "Quantidade de Gemas Viáveis": "52",
     "Quantidade de Gemas Inviáveis": "0",
-    "Fazenda": NaN
+    "Fazenda": null,
+    "Unnamed: 20": null
   },
   {
     "ID": "3516580",
@@ -41952,7 +43862,8 @@ const VIABILIDADE_GEMAS_DATA = [
     "Quantidade de Gemas Total": "57",
     "Quantidade de Gemas Viáveis": "57",
     "Quantidade de Gemas Inviáveis": "0",
-    "Fazenda": NaN
+    "Fazenda": null,
+    "Unnamed: 20": null
   },
   {
     "ID": "3515987",
@@ -41974,7 +43885,8 @@ const VIABILIDADE_GEMAS_DATA = [
     "Quantidade de Gemas Total": "54",
     "Quantidade de Gemas Viáveis": "54",
     "Quantidade de Gemas Inviáveis": "0",
-    "Fazenda": NaN
+    "Fazenda": null,
+    "Unnamed: 20": null
   },
   {
     "ID": "3515982",
@@ -41996,7 +43908,8 @@ const VIABILIDADE_GEMAS_DATA = [
     "Quantidade de Gemas Total": "59",
     "Quantidade de Gemas Viáveis": "59",
     "Quantidade de Gemas Inviáveis": "0",
-    "Fazenda": NaN
+    "Fazenda": null,
+    "Unnamed: 20": null
   },
   {
     "ID": "3515977",
@@ -42018,7 +43931,8 @@ const VIABILIDADE_GEMAS_DATA = [
     "Quantidade de Gemas Total": "60",
     "Quantidade de Gemas Viáveis": "60",
     "Quantidade de Gemas Inviáveis": "0",
-    "Fazenda": NaN
+    "Fazenda": null,
+    "Unnamed: 20": null
   },
   {
     "ID": "3515972",
@@ -42040,7 +43954,8 @@ const VIABILIDADE_GEMAS_DATA = [
     "Quantidade de Gemas Total": "59",
     "Quantidade de Gemas Viáveis": "59",
     "Quantidade de Gemas Inviáveis": "0",
-    "Fazenda": NaN
+    "Fazenda": null,
+    "Unnamed: 20": null
   },
   {
     "ID": "3515967",
@@ -42062,7 +43977,8 @@ const VIABILIDADE_GEMAS_DATA = [
     "Quantidade de Gemas Total": "54",
     "Quantidade de Gemas Viáveis": "54",
     "Quantidade de Gemas Inviáveis": "0",
-    "Fazenda": NaN
+    "Fazenda": null,
+    "Unnamed: 20": null
   },
   {
     "ID": "3515962",
@@ -42084,7 +44000,8 @@ const VIABILIDADE_GEMAS_DATA = [
     "Quantidade de Gemas Total": "58",
     "Quantidade de Gemas Viáveis": "58",
     "Quantidade de Gemas Inviáveis": "0",
-    "Fazenda": NaN
+    "Fazenda": null,
+    "Unnamed: 20": null
   },
   {
     "ID": "3515932",
@@ -42106,7 +44023,8 @@ const VIABILIDADE_GEMAS_DATA = [
     "Quantidade de Gemas Total": "60",
     "Quantidade de Gemas Viáveis": "56",
     "Quantidade de Gemas Inviáveis": "4",
-    "Fazenda": NaN
+    "Fazenda": null,
+    "Unnamed: 20": null
   },
   {
     "ID": "3515927",
@@ -42128,7 +44046,8 @@ const VIABILIDADE_GEMAS_DATA = [
     "Quantidade de Gemas Total": "59",
     "Quantidade de Gemas Viáveis": "59",
     "Quantidade de Gemas Inviáveis": "0",
-    "Fazenda": NaN
+    "Fazenda": null,
+    "Unnamed: 20": null
   },
   {
     "ID": "3515957",
@@ -42150,7 +44069,8 @@ const VIABILIDADE_GEMAS_DATA = [
     "Quantidade de Gemas Total": "59",
     "Quantidade de Gemas Viáveis": "59",
     "Quantidade de Gemas Inviáveis": "0",
-    "Fazenda": NaN
+    "Fazenda": null,
+    "Unnamed: 20": null
   },
   {
     "ID": "3515926",
@@ -42172,7 +44092,8 @@ const VIABILIDADE_GEMAS_DATA = [
     "Quantidade de Gemas Total": "57",
     "Quantidade de Gemas Viáveis": "57",
     "Quantidade de Gemas Inviáveis": "0",
-    "Fazenda": NaN
+    "Fazenda": null,
+    "Unnamed: 20": null
   },
   {
     "ID": "3515925",
@@ -42194,7 +44115,8 @@ const VIABILIDADE_GEMAS_DATA = [
     "Quantidade de Gemas Total": "60",
     "Quantidade de Gemas Viáveis": "60",
     "Quantidade de Gemas Inviáveis": "0",
-    "Fazenda": NaN
+    "Fazenda": null,
+    "Unnamed: 20": null
   },
   {
     "ID": "3515952",
@@ -42216,7 +44138,8 @@ const VIABILIDADE_GEMAS_DATA = [
     "Quantidade de Gemas Total": "55",
     "Quantidade de Gemas Viáveis": "55",
     "Quantidade de Gemas Inviáveis": "0",
-    "Fazenda": NaN
+    "Fazenda": null,
+    "Unnamed: 20": null
   },
   {
     "ID": "3515949",
@@ -42238,7 +44161,8 @@ const VIABILIDADE_GEMAS_DATA = [
     "Quantidade de Gemas Total": "54",
     "Quantidade de Gemas Viáveis": "54",
     "Quantidade de Gemas Inviáveis": "0",
-    "Fazenda": NaN
+    "Fazenda": null,
+    "Unnamed: 20": null
   },
   {
     "ID": "3515941",
@@ -42260,7 +44184,8 @@ const VIABILIDADE_GEMAS_DATA = [
     "Quantidade de Gemas Total": "60",
     "Quantidade de Gemas Viáveis": "60",
     "Quantidade de Gemas Inviáveis": "0",
-    "Fazenda": NaN
+    "Fazenda": null,
+    "Unnamed: 20": null
   },
   {
     "ID": "3515936",
@@ -42282,7 +44207,8 @@ const VIABILIDADE_GEMAS_DATA = [
     "Quantidade de Gemas Total": "55",
     "Quantidade de Gemas Viáveis": "55",
     "Quantidade de Gemas Inviáveis": "0",
-    "Fazenda": NaN
+    "Fazenda": null,
+    "Unnamed: 20": null
   },
   {
     "ID": "3516567",
@@ -42304,7 +44230,8 @@ const VIABILIDADE_GEMAS_DATA = [
     "Quantidade de Gemas Total": "62",
     "Quantidade de Gemas Viáveis": "62",
     "Quantidade de Gemas Inviáveis": "0",
-    "Fazenda": NaN
+    "Fazenda": null,
+    "Unnamed: 20": null
   },
   {
     "ID": "3516561",
@@ -42326,7 +44253,8 @@ const VIABILIDADE_GEMAS_DATA = [
     "Quantidade de Gemas Total": "59",
     "Quantidade de Gemas Viáveis": "59",
     "Quantidade de Gemas Inviáveis": "0",
-    "Fazenda": NaN
+    "Fazenda": null,
+    "Unnamed: 20": null
   },
   {
     "ID": "3514276",
@@ -42348,7 +44276,8 @@ const VIABILIDADE_GEMAS_DATA = [
     "Quantidade de Gemas Total": "62",
     "Quantidade de Gemas Viáveis": "62",
     "Quantidade de Gemas Inviáveis": "0",
-    "Fazenda": NaN
+    "Fazenda": null,
+    "Unnamed: 20": null
   },
   {
     "ID": "3513893",
@@ -42370,7 +44299,8 @@ const VIABILIDADE_GEMAS_DATA = [
     "Quantidade de Gemas Total": "50",
     "Quantidade de Gemas Viáveis": "50",
     "Quantidade de Gemas Inviáveis": "0",
-    "Fazenda": NaN
+    "Fazenda": null,
+    "Unnamed: 20": null
   },
   {
     "ID": "3513888",
@@ -42392,7 +44322,8 @@ const VIABILIDADE_GEMAS_DATA = [
     "Quantidade de Gemas Total": "51",
     "Quantidade de Gemas Viáveis": "51",
     "Quantidade de Gemas Inviáveis": "0",
-    "Fazenda": NaN
+    "Fazenda": null,
+    "Unnamed: 20": null
   },
   {
     "ID": "3514218",
@@ -42414,7 +44345,8 @@ const VIABILIDADE_GEMAS_DATA = [
     "Quantidade de Gemas Total": "93",
     "Quantidade de Gemas Viáveis": "93",
     "Quantidade de Gemas Inviáveis": "0",
-    "Fazenda": NaN
+    "Fazenda": null,
+    "Unnamed: 20": null
   },
   {
     "ID": "3513885",
@@ -42436,7 +44368,8 @@ const VIABILIDADE_GEMAS_DATA = [
     "Quantidade de Gemas Total": "48",
     "Quantidade de Gemas Viáveis": "48",
     "Quantidade de Gemas Inviáveis": "0",
-    "Fazenda": NaN
+    "Fazenda": null,
+    "Unnamed: 20": null
   },
   {
     "ID": "3514212",
@@ -42458,7 +44391,8 @@ const VIABILIDADE_GEMAS_DATA = [
     "Quantidade de Gemas Total": "84",
     "Quantidade de Gemas Viáveis": "84",
     "Quantidade de Gemas Inviáveis": "0",
-    "Fazenda": NaN
+    "Fazenda": null,
+    "Unnamed: 20": null
   },
   {
     "ID": "3514203",
@@ -42480,7 +44414,8 @@ const VIABILIDADE_GEMAS_DATA = [
     "Quantidade de Gemas Total": "94",
     "Quantidade de Gemas Viáveis": "94",
     "Quantidade de Gemas Inviáveis": "0",
-    "Fazenda": NaN
+    "Fazenda": null,
+    "Unnamed: 20": null
   },
   {
     "ID": "3514197",
@@ -42502,7 +44437,8 @@ const VIABILIDADE_GEMAS_DATA = [
     "Quantidade de Gemas Total": "92",
     "Quantidade de Gemas Viáveis": "90",
     "Quantidade de Gemas Inviáveis": "2",
-    "Fazenda": NaN
+    "Fazenda": null,
+    "Unnamed: 20": null
   },
   {
     "ID": "3514170",
@@ -42524,7 +44460,8 @@ const VIABILIDADE_GEMAS_DATA = [
     "Quantidade de Gemas Total": "81",
     "Quantidade de Gemas Viáveis": "80",
     "Quantidade de Gemas Inviáveis": "1",
-    "Fazenda": NaN
+    "Fazenda": null,
+    "Unnamed: 20": null
   },
   {
     "ID": "3514137",
@@ -42546,7 +44483,8 @@ const VIABILIDADE_GEMAS_DATA = [
     "Quantidade de Gemas Total": "76",
     "Quantidade de Gemas Viáveis": "74",
     "Quantidade de Gemas Inviáveis": "2",
-    "Fazenda": NaN
+    "Fazenda": null,
+    "Unnamed: 20": null
   },
   {
     "ID": "3514271",
@@ -42568,7 +44506,8 @@ const VIABILIDADE_GEMAS_DATA = [
     "Quantidade de Gemas Total": "55",
     "Quantidade de Gemas Viáveis": "55",
     "Quantidade de Gemas Inviáveis": "0",
-    "Fazenda": NaN
+    "Fazenda": null,
+    "Unnamed: 20": null
   },
   {
     "ID": "3514187",
@@ -42590,7 +44529,8 @@ const VIABILIDADE_GEMAS_DATA = [
     "Quantidade de Gemas Total": "58",
     "Quantidade de Gemas Viáveis": "58",
     "Quantidade de Gemas Inviáveis": "0",
-    "Fazenda": NaN
+    "Fazenda": null,
+    "Unnamed: 20": null
   },
   {
     "ID": "3514185",
@@ -42612,7 +44552,8 @@ const VIABILIDADE_GEMAS_DATA = [
     "Quantidade de Gemas Total": "54",
     "Quantidade de Gemas Viáveis": "54",
     "Quantidade de Gemas Inviáveis": "0",
-    "Fazenda": NaN
+    "Fazenda": null,
+    "Unnamed: 20": null
   },
   {
     "ID": "3514171",
@@ -42634,7 +44575,8 @@ const VIABILIDADE_GEMAS_DATA = [
     "Quantidade de Gemas Total": "61",
     "Quantidade de Gemas Viáveis": "61",
     "Quantidade de Gemas Inviáveis": "0",
-    "Fazenda": NaN
+    "Fazenda": null,
+    "Unnamed: 20": null
   },
   {
     "ID": "3514152",
@@ -42656,7 +44598,8 @@ const VIABILIDADE_GEMAS_DATA = [
     "Quantidade de Gemas Total": "54",
     "Quantidade de Gemas Viáveis": "54",
     "Quantidade de Gemas Inviáveis": "0",
-    "Fazenda": NaN
+    "Fazenda": null,
+    "Unnamed: 20": null
   },
   {
     "ID": "3514144",
@@ -42678,7 +44621,8 @@ const VIABILIDADE_GEMAS_DATA = [
     "Quantidade de Gemas Total": "57",
     "Quantidade de Gemas Viáveis": "57",
     "Quantidade de Gemas Inviáveis": "0",
-    "Fazenda": NaN
+    "Fazenda": null,
+    "Unnamed: 20": null
   },
   {
     "ID": "3511767",
@@ -42700,7 +44644,8 @@ const VIABILIDADE_GEMAS_DATA = [
     "Quantidade de Gemas Total": "90",
     "Quantidade de Gemas Viáveis": "90",
     "Quantidade de Gemas Inviáveis": "0",
-    "Fazenda": NaN
+    "Fazenda": null,
+    "Unnamed: 20": null
   },
   {
     "ID": "3511762",
@@ -42722,7 +44667,8 @@ const VIABILIDADE_GEMAS_DATA = [
     "Quantidade de Gemas Total": "86",
     "Quantidade de Gemas Viáveis": "86",
     "Quantidade de Gemas Inviáveis": "0",
-    "Fazenda": NaN
+    "Fazenda": null,
+    "Unnamed: 20": null
   },
   {
     "ID": "3511703",
@@ -42744,7 +44690,8 @@ const VIABILIDADE_GEMAS_DATA = [
     "Quantidade de Gemas Total": "58",
     "Quantidade de Gemas Viáveis": "58",
     "Quantidade de Gemas Inviáveis": "0",
-    "Fazenda": NaN
+    "Fazenda": null,
+    "Unnamed: 20": null
   },
   {
     "ID": "3511698",
@@ -42766,7 +44713,8 @@ const VIABILIDADE_GEMAS_DATA = [
     "Quantidade de Gemas Total": "54",
     "Quantidade de Gemas Viáveis": "54",
     "Quantidade de Gemas Inviáveis": "0",
-    "Fazenda": NaN
+    "Fazenda": null,
+    "Unnamed: 20": null
   },
   {
     "ID": "3511693",
@@ -42788,7 +44736,8 @@ const VIABILIDADE_GEMAS_DATA = [
     "Quantidade de Gemas Total": "55",
     "Quantidade de Gemas Viáveis": "55",
     "Quantidade de Gemas Inviáveis": "0",
-    "Fazenda": NaN
+    "Fazenda": null,
+    "Unnamed: 20": null
   },
   {
     "ID": "3511688",
@@ -42810,7 +44759,8 @@ const VIABILIDADE_GEMAS_DATA = [
     "Quantidade de Gemas Total": "57",
     "Quantidade de Gemas Viáveis": "57",
     "Quantidade de Gemas Inviáveis": "0",
-    "Fazenda": NaN
+    "Fazenda": null,
+    "Unnamed: 20": null
   },
   {
     "ID": "3511671",
@@ -42832,7 +44782,8 @@ const VIABILIDADE_GEMAS_DATA = [
     "Quantidade de Gemas Total": "59",
     "Quantidade de Gemas Viáveis": "59",
     "Quantidade de Gemas Inviáveis": "0",
-    "Fazenda": NaN
+    "Fazenda": null,
+    "Unnamed: 20": null
   },
   {
     "ID": "3511667",
@@ -42854,7 +44805,8 @@ const VIABILIDADE_GEMAS_DATA = [
     "Quantidade de Gemas Total": "56",
     "Quantidade de Gemas Viáveis": "56",
     "Quantidade de Gemas Inviáveis": "0",
-    "Fazenda": NaN
+    "Fazenda": null,
+    "Unnamed: 20": null
   },
   {
     "ID": "3511813",
@@ -42876,7 +44828,8 @@ const VIABILIDADE_GEMAS_DATA = [
     "Quantidade de Gemas Total": "55",
     "Quantidade de Gemas Viáveis": "55",
     "Quantidade de Gemas Inviáveis": "0",
-    "Fazenda": NaN
+    "Fazenda": null,
+    "Unnamed: 20": null
   },
   {
     "ID": "3511309",
@@ -42898,7 +44851,8 @@ const VIABILIDADE_GEMAS_DATA = [
     "Quantidade de Gemas Total": "57",
     "Quantidade de Gemas Viáveis": "57",
     "Quantidade de Gemas Inviáveis": "0",
-    "Fazenda": NaN
+    "Fazenda": null,
+    "Unnamed: 20": null
   },
   {
     "ID": "3511305",
@@ -42920,7 +44874,8 @@ const VIABILIDADE_GEMAS_DATA = [
     "Quantidade de Gemas Total": "60",
     "Quantidade de Gemas Viáveis": "58",
     "Quantidade de Gemas Inviáveis": "2",
-    "Fazenda": NaN
+    "Fazenda": null,
+    "Unnamed: 20": null
   },
   {
     "ID": "3511298",
@@ -42942,7 +44897,8 @@ const VIABILIDADE_GEMAS_DATA = [
     "Quantidade de Gemas Total": "53",
     "Quantidade de Gemas Viáveis": "53",
     "Quantidade de Gemas Inviáveis": "0",
-    "Fazenda": NaN
+    "Fazenda": null,
+    "Unnamed: 20": null
   },
   {
     "ID": "3511808",
@@ -42964,7 +44920,8 @@ const VIABILIDADE_GEMAS_DATA = [
     "Quantidade de Gemas Total": "55",
     "Quantidade de Gemas Viáveis": "53",
     "Quantidade de Gemas Inviáveis": "2",
-    "Fazenda": NaN
+    "Fazenda": null,
+    "Unnamed: 20": null
   },
   {
     "ID": "3511804",
@@ -42986,7 +44943,8 @@ const VIABILIDADE_GEMAS_DATA = [
     "Quantidade de Gemas Total": "52",
     "Quantidade de Gemas Viáveis": "51",
     "Quantidade de Gemas Inviáveis": "1",
-    "Fazenda": NaN
+    "Fazenda": null,
+    "Unnamed: 20": null
   },
   {
     "ID": "3511799",
@@ -43008,7 +44966,8 @@ const VIABILIDADE_GEMAS_DATA = [
     "Quantidade de Gemas Total": "50",
     "Quantidade de Gemas Viáveis": "50",
     "Quantidade de Gemas Inviáveis": "0",
-    "Fazenda": NaN
+    "Fazenda": null,
+    "Unnamed: 20": null
   },
   {
     "ID": "3511286",
@@ -43030,7 +44989,8 @@ const VIABILIDADE_GEMAS_DATA = [
     "Quantidade de Gemas Total": "51",
     "Quantidade de Gemas Viáveis": "51",
     "Quantidade de Gemas Inviáveis": "0",
-    "Fazenda": NaN
+    "Fazenda": null,
+    "Unnamed: 20": null
   },
   {
     "ID": "3509457",
@@ -43052,7 +45012,8 @@ const VIABILIDADE_GEMAS_DATA = [
     "Quantidade de Gemas Total": "51",
     "Quantidade de Gemas Viáveis": "51",
     "Quantidade de Gemas Inviáveis": "0",
-    "Fazenda": NaN
+    "Fazenda": null,
+    "Unnamed: 20": null
   },
   {
     "ID": "3509940",
@@ -43074,7 +45035,8 @@ const VIABILIDADE_GEMAS_DATA = [
     "Quantidade de Gemas Total": "59",
     "Quantidade de Gemas Viáveis": "59",
     "Quantidade de Gemas Inviáveis": "0",
-    "Fazenda": NaN
+    "Fazenda": null,
+    "Unnamed: 20": null
   },
   {
     "ID": "3509453",
@@ -43096,7 +45058,8 @@ const VIABILIDADE_GEMAS_DATA = [
     "Quantidade de Gemas Total": "52",
     "Quantidade de Gemas Viáveis": "52",
     "Quantidade de Gemas Inviáveis": "0",
-    "Fazenda": NaN
+    "Fazenda": null,
+    "Unnamed: 20": null
   },
   {
     "ID": "3509631",
@@ -43118,7 +45081,8 @@ const VIABILIDADE_GEMAS_DATA = [
     "Quantidade de Gemas Total": "62",
     "Quantidade de Gemas Viáveis": "62",
     "Quantidade de Gemas Inviáveis": "0",
-    "Fazenda": NaN
+    "Fazenda": null,
+    "Unnamed: 20": null
   },
   {
     "ID": "3509446",
@@ -43140,7 +45104,8 @@ const VIABILIDADE_GEMAS_DATA = [
     "Quantidade de Gemas Total": "60",
     "Quantidade de Gemas Viáveis": "60",
     "Quantidade de Gemas Inviáveis": "0",
-    "Fazenda": NaN
+    "Fazenda": null,
+    "Unnamed: 20": null
   },
   {
     "ID": "3509625",
@@ -43162,7 +45127,8 @@ const VIABILIDADE_GEMAS_DATA = [
     "Quantidade de Gemas Total": "58",
     "Quantidade de Gemas Viáveis": "58",
     "Quantidade de Gemas Inviáveis": "0",
-    "Fazenda": NaN
+    "Fazenda": null,
+    "Unnamed: 20": null
   },
   {
     "ID": "3509442",
@@ -43184,7 +45150,8 @@ const VIABILIDADE_GEMAS_DATA = [
     "Quantidade de Gemas Total": "59",
     "Quantidade de Gemas Viáveis": "56",
     "Quantidade de Gemas Inviáveis": "3",
-    "Fazenda": NaN
+    "Fazenda": null,
+    "Unnamed: 20": null
   },
   {
     "ID": "3509540",
@@ -43206,7 +45173,8 @@ const VIABILIDADE_GEMAS_DATA = [
     "Quantidade de Gemas Total": "56",
     "Quantidade de Gemas Viáveis": "56",
     "Quantidade de Gemas Inviáveis": "0",
-    "Fazenda": NaN
+    "Fazenda": null,
+    "Unnamed: 20": null
   },
   {
     "ID": "3509519",
@@ -43228,7 +45196,8 @@ const VIABILIDADE_GEMAS_DATA = [
     "Quantidade de Gemas Total": "54",
     "Quantidade de Gemas Viáveis": "54",
     "Quantidade de Gemas Inviáveis": "0",
-    "Fazenda": NaN
+    "Fazenda": null,
+    "Unnamed: 20": null
   },
   {
     "ID": "3509274",
@@ -43250,7 +45219,8 @@ const VIABILIDADE_GEMAS_DATA = [
     "Quantidade de Gemas Total": "51",
     "Quantidade de Gemas Viáveis": "51",
     "Quantidade de Gemas Inviáveis": "0",
-    "Fazenda": NaN
+    "Fazenda": null,
+    "Unnamed: 20": null
   },
   {
     "ID": "3509273",
@@ -43272,7 +45242,8 @@ const VIABILIDADE_GEMAS_DATA = [
     "Quantidade de Gemas Total": "54",
     "Quantidade de Gemas Viáveis": "54",
     "Quantidade de Gemas Inviáveis": "0",
-    "Fazenda": NaN
+    "Fazenda": null,
+    "Unnamed: 20": null
   },
   {
     "ID": "3509272",
@@ -43294,7 +45265,8 @@ const VIABILIDADE_GEMAS_DATA = [
     "Quantidade de Gemas Total": "53",
     "Quantidade de Gemas Viáveis": "53",
     "Quantidade de Gemas Inviáveis": "0",
-    "Fazenda": NaN
+    "Fazenda": null,
+    "Unnamed: 20": null
   },
   {
     "ID": "3509269",
@@ -43316,7 +45288,8 @@ const VIABILIDADE_GEMAS_DATA = [
     "Quantidade de Gemas Total": "56",
     "Quantidade de Gemas Viáveis": "56",
     "Quantidade de Gemas Inviáveis": "0",
-    "Fazenda": NaN
+    "Fazenda": null,
+    "Unnamed: 20": null
   },
   {
     "ID": "3509270",
@@ -43338,7 +45311,8 @@ const VIABILIDADE_GEMAS_DATA = [
     "Quantidade de Gemas Total": "56",
     "Quantidade de Gemas Viáveis": "56",
     "Quantidade de Gemas Inviáveis": "0",
-    "Fazenda": NaN
+    "Fazenda": null,
+    "Unnamed: 20": null
   },
   {
     "ID": "3509271",
@@ -43360,7 +45334,8 @@ const VIABILIDADE_GEMAS_DATA = [
     "Quantidade de Gemas Total": "54",
     "Quantidade de Gemas Viáveis": "54",
     "Quantidade de Gemas Inviáveis": "0",
-    "Fazenda": NaN
+    "Fazenda": null,
+    "Unnamed: 20": null
   },
   {
     "ID": "3509507",
@@ -43382,7 +45357,8 @@ const VIABILIDADE_GEMAS_DATA = [
     "Quantidade de Gemas Total": "51",
     "Quantidade de Gemas Viáveis": "51",
     "Quantidade de Gemas Inviáveis": "0",
-    "Fazenda": NaN
+    "Fazenda": null,
+    "Unnamed: 20": null
   },
   {
     "ID": "3509539",
@@ -43404,7 +45380,8 @@ const VIABILIDADE_GEMAS_DATA = [
     "Quantidade de Gemas Total": "56",
     "Quantidade de Gemas Viáveis": "56",
     "Quantidade de Gemas Inviáveis": "0",
-    "Fazenda": NaN
+    "Fazenda": null,
+    "Unnamed: 20": null
   },
   {
     "ID": "3509528",
@@ -43426,7 +45403,8 @@ const VIABILIDADE_GEMAS_DATA = [
     "Quantidade de Gemas Total": "48",
     "Quantidade de Gemas Viáveis": "48",
     "Quantidade de Gemas Inviáveis": "0",
-    "Fazenda": NaN
+    "Fazenda": null,
+    "Unnamed: 20": null
   },
   {
     "ID": "3509520",
@@ -43448,7 +45426,8 @@ const VIABILIDADE_GEMAS_DATA = [
     "Quantidade de Gemas Total": "52",
     "Quantidade de Gemas Viáveis": "52",
     "Quantidade de Gemas Inviáveis": "0",
-    "Fazenda": NaN
+    "Fazenda": null,
+    "Unnamed: 20": null
   },
   {
     "ID": "3509931",
@@ -43470,7 +45449,8 @@ const VIABILIDADE_GEMAS_DATA = [
     "Quantidade de Gemas Total": "59",
     "Quantidade de Gemas Viáveis": "54",
     "Quantidade de Gemas Inviáveis": "5",
-    "Fazenda": NaN
+    "Fazenda": null,
+    "Unnamed: 20": null
   },
   {
     "ID": "3509511",
@@ -43492,7 +45472,8 @@ const VIABILIDADE_GEMAS_DATA = [
     "Quantidade de Gemas Total": "50",
     "Quantidade de Gemas Viáveis": "50",
     "Quantidade de Gemas Inviáveis": "0",
-    "Fazenda": NaN
+    "Fazenda": null,
+    "Unnamed: 20": null
   },
   {
     "ID": "3509502",
@@ -43514,7 +45495,8 @@ const VIABILIDADE_GEMAS_DATA = [
     "Quantidade de Gemas Total": "49",
     "Quantidade de Gemas Viáveis": "49",
     "Quantidade de Gemas Inviáveis": "0",
-    "Fazenda": NaN
+    "Fazenda": null,
+    "Unnamed: 20": null
   },
   {
     "ID": "3509493",
@@ -43536,7 +45518,8 @@ const VIABILIDADE_GEMAS_DATA = [
     "Quantidade de Gemas Total": "56",
     "Quantidade de Gemas Viáveis": "56",
     "Quantidade de Gemas Inviáveis": "0",
-    "Fazenda": NaN
+    "Fazenda": null,
+    "Unnamed: 20": null
   },
   {
     "ID": "3509614",
@@ -43558,7 +45541,8 @@ const VIABILIDADE_GEMAS_DATA = [
     "Quantidade de Gemas Total": "57",
     "Quantidade de Gemas Viáveis": "57",
     "Quantidade de Gemas Inviáveis": "0",
-    "Fazenda": NaN
+    "Fazenda": null,
+    "Unnamed: 20": null
   },
   {
     "ID": "3509612",
@@ -43580,7 +45564,8 @@ const VIABILIDADE_GEMAS_DATA = [
     "Quantidade de Gemas Total": "60",
     "Quantidade de Gemas Viáveis": "60",
     "Quantidade de Gemas Inviáveis": "0",
-    "Fazenda": NaN
+    "Fazenda": null,
+    "Unnamed: 20": null
   },
   {
     "ID": "3509926",
@@ -43602,7 +45587,8 @@ const VIABILIDADE_GEMAS_DATA = [
     "Quantidade de Gemas Total": "60",
     "Quantidade de Gemas Viáveis": "56",
     "Quantidade de Gemas Inviáveis": "4",
-    "Fazenda": NaN
+    "Fazenda": null,
+    "Unnamed: 20": null
   },
   {
     "ID": "3509920",
@@ -43624,7 +45610,8 @@ const VIABILIDADE_GEMAS_DATA = [
     "Quantidade de Gemas Total": "59",
     "Quantidade de Gemas Viáveis": "56",
     "Quantidade de Gemas Inviáveis": "3",
-    "Fazenda": NaN
+    "Fazenda": null,
+    "Unnamed: 20": null
   },
   {
     "ID": "3509485",
@@ -43646,7 +45633,8 @@ const VIABILIDADE_GEMAS_DATA = [
     "Quantidade de Gemas Total": "60",
     "Quantidade de Gemas Viáveis": "60",
     "Quantidade de Gemas Inviáveis": "0",
-    "Fazenda": NaN
+    "Fazenda": null,
+    "Unnamed: 20": null
   },
   {
     "ID": "3509882",
@@ -43668,7 +45656,8 @@ const VIABILIDADE_GEMAS_DATA = [
     "Quantidade de Gemas Total": "60",
     "Quantidade de Gemas Viáveis": "56",
     "Quantidade de Gemas Inviáveis": "4",
-    "Fazenda": NaN
+    "Fazenda": null,
+    "Unnamed: 20": null
   },
   {
     "ID": "3509476",
@@ -43690,7 +45679,8 @@ const VIABILIDADE_GEMAS_DATA = [
     "Quantidade de Gemas Total": "48",
     "Quantidade de Gemas Viáveis": "48",
     "Quantidade de Gemas Inviáveis": "0",
-    "Fazenda": NaN
+    "Fazenda": null,
+    "Unnamed: 20": null
   },
   {
     "ID": "3509470",
@@ -43712,7 +45702,8 @@ const VIABILIDADE_GEMAS_DATA = [
     "Quantidade de Gemas Total": "62",
     "Quantidade de Gemas Viáveis": "60",
     "Quantidade de Gemas Inviáveis": "2",
-    "Fazenda": NaN
+    "Fazenda": null,
+    "Unnamed: 20": null
   },
   {
     "ID": "3509851",
@@ -43734,7 +45725,8 @@ const VIABILIDADE_GEMAS_DATA = [
     "Quantidade de Gemas Total": "50",
     "Quantidade de Gemas Viáveis": "50",
     "Quantidade de Gemas Inviáveis": "0",
-    "Fazenda": NaN
+    "Fazenda": null,
+    "Unnamed: 20": null
   },
   {
     "ID": "3509317",
@@ -43756,7 +45748,8 @@ const VIABILIDADE_GEMAS_DATA = [
     "Quantidade de Gemas Total": "56",
     "Quantidade de Gemas Viáveis": "56",
     "Quantidade de Gemas Inviáveis": "0",
-    "Fazenda": NaN
+    "Fazenda": null,
+    "Unnamed: 20": null
   },
   {
     "ID": "3509750",
@@ -43778,7 +45771,8 @@ const VIABILIDADE_GEMAS_DATA = [
     "Quantidade de Gemas Total": "59",
     "Quantidade de Gemas Viáveis": "59",
     "Quantidade de Gemas Inviáveis": "0",
-    "Fazenda": NaN
+    "Fazenda": null,
+    "Unnamed: 20": null
   },
   {
     "ID": "3509313",
@@ -43800,7 +45794,8 @@ const VIABILIDADE_GEMAS_DATA = [
     "Quantidade de Gemas Total": "58",
     "Quantidade de Gemas Viáveis": "57",
     "Quantidade de Gemas Inviáveis": "1",
-    "Fazenda": NaN
+    "Fazenda": null,
+    "Unnamed: 20": null
   },
   {
     "ID": "3509492",
@@ -43822,7 +45817,8 @@ const VIABILIDADE_GEMAS_DATA = [
     "Quantidade de Gemas Total": "63",
     "Quantidade de Gemas Viáveis": "63",
     "Quantidade de Gemas Inviáveis": "0",
-    "Fazenda": NaN
+    "Fazenda": null,
+    "Unnamed: 20": null
   },
   {
     "ID": "3509309",
@@ -43844,7 +45840,8 @@ const VIABILIDADE_GEMAS_DATA = [
     "Quantidade de Gemas Total": "51",
     "Quantidade de Gemas Viáveis": "49",
     "Quantidade de Gemas Inviáveis": "2",
-    "Fazenda": NaN
+    "Fazenda": null,
+    "Unnamed: 20": null
   },
   {
     "ID": "3509473",
@@ -43866,7 +45863,8 @@ const VIABILIDADE_GEMAS_DATA = [
     "Quantidade de Gemas Total": "60",
     "Quantidade de Gemas Viáveis": "60",
     "Quantidade de Gemas Inviáveis": "0",
-    "Fazenda": NaN
+    "Fazenda": null,
+    "Unnamed: 20": null
   },
   {
     "ID": "3509304",
@@ -43888,7 +45886,8 @@ const VIABILIDADE_GEMAS_DATA = [
     "Quantidade de Gemas Total": "56",
     "Quantidade de Gemas Viáveis": "56",
     "Quantidade de Gemas Inviáveis": "0",
-    "Fazenda": NaN
+    "Fazenda": null,
+    "Unnamed: 20": null
   },
   {
     "ID": "3509427",
@@ -43910,7 +45909,8 @@ const VIABILIDADE_GEMAS_DATA = [
     "Quantidade de Gemas Total": "57",
     "Quantidade de Gemas Viáveis": "57",
     "Quantidade de Gemas Inviáveis": "0",
-    "Fazenda": NaN
+    "Fazenda": null,
+    "Unnamed: 20": null
   },
   {
     "ID": "3498749",
@@ -43932,7 +45932,8 @@ const VIABILIDADE_GEMAS_DATA = [
     "Quantidade de Gemas Total": "54",
     "Quantidade de Gemas Viáveis": "54",
     "Quantidade de Gemas Inviáveis": "0",
-    "Fazenda": NaN
+    "Fazenda": null,
+    "Unnamed: 20": null
   },
   {
     "ID": "3498484",
@@ -43954,7 +45955,8 @@ const VIABILIDADE_GEMAS_DATA = [
     "Quantidade de Gemas Total": "55",
     "Quantidade de Gemas Viáveis": "52",
     "Quantidade de Gemas Inviáveis": "3",
-    "Fazenda": NaN
+    "Fazenda": null,
+    "Unnamed: 20": null
   },
   {
     "ID": "3498741",
@@ -43976,7 +45978,8 @@ const VIABILIDADE_GEMAS_DATA = [
     "Quantidade de Gemas Total": "60",
     "Quantidade de Gemas Viáveis": "60",
     "Quantidade de Gemas Inviáveis": "0",
-    "Fazenda": NaN
+    "Fazenda": null,
+    "Unnamed: 20": null
   },
   {
     "ID": "3498510",
@@ -43998,7 +46001,8 @@ const VIABILIDADE_GEMAS_DATA = [
     "Quantidade de Gemas Total": "50",
     "Quantidade de Gemas Viáveis": "48",
     "Quantidade de Gemas Inviáveis": "2",
-    "Fazenda": NaN
+    "Fazenda": null,
+    "Unnamed: 20": null
   },
   {
     "ID": "3498477",
@@ -44020,7 +46024,8 @@ const VIABILIDADE_GEMAS_DATA = [
     "Quantidade de Gemas Total": "56",
     "Quantidade de Gemas Viáveis": "56",
     "Quantidade de Gemas Inviáveis": "0",
-    "Fazenda": NaN
+    "Fazenda": null,
+    "Unnamed: 20": null
   },
   {
     "ID": "3498506",
@@ -44042,7 +46047,8 @@ const VIABILIDADE_GEMAS_DATA = [
     "Quantidade de Gemas Total": "49",
     "Quantidade de Gemas Viáveis": "49",
     "Quantidade de Gemas Inviáveis": "0",
-    "Fazenda": NaN
+    "Fazenda": null,
+    "Unnamed: 20": null
   },
   {
     "ID": "3498666",
@@ -44064,7 +46070,8 @@ const VIABILIDADE_GEMAS_DATA = [
     "Quantidade de Gemas Total": "60",
     "Quantidade de Gemas Viáveis": "60",
     "Quantidade de Gemas Inviáveis": "0",
-    "Fazenda": NaN
+    "Fazenda": null,
+    "Unnamed: 20": null
   },
   {
     "ID": "3498474",
@@ -44086,7 +46093,8 @@ const VIABILIDADE_GEMAS_DATA = [
     "Quantidade de Gemas Total": "53",
     "Quantidade de Gemas Viáveis": "50",
     "Quantidade de Gemas Inviáveis": "3",
-    "Fazenda": NaN
+    "Fazenda": null,
+    "Unnamed: 20": null
   },
   {
     "ID": "3498734",
@@ -44108,7 +46116,8 @@ const VIABILIDADE_GEMAS_DATA = [
     "Quantidade de Gemas Total": "55",
     "Quantidade de Gemas Viáveis": "55",
     "Quantidade de Gemas Inviáveis": "0",
-    "Fazenda": NaN
+    "Fazenda": null,
+    "Unnamed: 20": null
   },
   {
     "ID": "3498661",
@@ -44130,7 +46139,8 @@ const VIABILIDADE_GEMAS_DATA = [
     "Quantidade de Gemas Total": "59",
     "Quantidade de Gemas Viáveis": "59",
     "Quantidade de Gemas Inviáveis": "0",
-    "Fazenda": NaN
+    "Fazenda": null,
+    "Unnamed: 20": null
   },
   {
     "ID": "3498501",
@@ -44152,7 +46162,8 @@ const VIABILIDADE_GEMAS_DATA = [
     "Quantidade de Gemas Total": "53",
     "Quantidade de Gemas Viáveis": "51",
     "Quantidade de Gemas Inviáveis": "2",
-    "Fazenda": NaN
+    "Fazenda": null,
+    "Unnamed: 20": null
   },
   {
     "ID": "3498470",
@@ -44174,7 +46185,8 @@ const VIABILIDADE_GEMAS_DATA = [
     "Quantidade de Gemas Total": "55",
     "Quantidade de Gemas Viáveis": "55",
     "Quantidade de Gemas Inviáveis": "0",
-    "Fazenda": NaN
+    "Fazenda": null,
+    "Unnamed: 20": null
   },
   {
     "ID": "3498656",
@@ -44196,7 +46208,8 @@ const VIABILIDADE_GEMAS_DATA = [
     "Quantidade de Gemas Total": "61",
     "Quantidade de Gemas Viáveis": "61",
     "Quantidade de Gemas Inviáveis": "0",
-    "Fazenda": NaN
+    "Fazenda": null,
+    "Unnamed: 20": null
   },
   {
     "ID": "3498728",
@@ -44218,7 +46231,8 @@ const VIABILIDADE_GEMAS_DATA = [
     "Quantidade de Gemas Total": "54",
     "Quantidade de Gemas Viáveis": "54",
     "Quantidade de Gemas Inviáveis": "0",
-    "Fazenda": NaN
+    "Fazenda": null,
+    "Unnamed: 20": null
   },
   {
     "ID": "3498497",
@@ -44240,7 +46254,8 @@ const VIABILIDADE_GEMAS_DATA = [
     "Quantidade de Gemas Total": "51",
     "Quantidade de Gemas Viáveis": "51",
     "Quantidade de Gemas Inviáveis": "0",
-    "Fazenda": NaN
+    "Fazenda": null,
+    "Unnamed: 20": null
   },
   {
     "ID": "3498649",
@@ -44262,7 +46277,8 @@ const VIABILIDADE_GEMAS_DATA = [
     "Quantidade de Gemas Total": "57",
     "Quantidade de Gemas Viáveis": "57",
     "Quantidade de Gemas Inviáveis": "0",
-    "Fazenda": NaN
+    "Fazenda": null,
+    "Unnamed: 20": null
   },
   {
     "ID": "3498720",
@@ -44284,7 +46300,8 @@ const VIABILIDADE_GEMAS_DATA = [
     "Quantidade de Gemas Total": "56",
     "Quantidade de Gemas Viáveis": "56",
     "Quantidade de Gemas Inviáveis": "0",
-    "Fazenda": NaN
+    "Fazenda": null,
+    "Unnamed: 20": null
   },
   {
     "ID": "3498689",
@@ -44306,7 +46323,8 @@ const VIABILIDADE_GEMAS_DATA = [
     "Quantidade de Gemas Total": "58",
     "Quantidade de Gemas Viáveis": "58",
     "Quantidade de Gemas Inviáveis": "0",
-    "Fazenda": NaN
+    "Fazenda": null,
+    "Unnamed: 20": null
   },
   {
     "ID": "3498564",
@@ -44328,7 +46346,8 @@ const VIABILIDADE_GEMAS_DATA = [
     "Quantidade de Gemas Total": "58",
     "Quantidade de Gemas Viáveis": "58",
     "Quantidade de Gemas Inviáveis": "0",
-    "Fazenda": NaN
+    "Fazenda": null,
+    "Unnamed: 20": null
   },
   {
     "ID": "3498999",
@@ -44350,7 +46369,8 @@ const VIABILIDADE_GEMAS_DATA = [
     "Quantidade de Gemas Total": "60",
     "Quantidade de Gemas Viáveis": "60",
     "Quantidade de Gemas Inviáveis": "0",
-    "Fazenda": NaN
+    "Fazenda": null,
+    "Unnamed: 20": null
   },
   {
     "ID": "3498994",
@@ -44372,7 +46392,8 @@ const VIABILIDADE_GEMAS_DATA = [
     "Quantidade de Gemas Total": "59",
     "Quantidade de Gemas Viáveis": "56",
     "Quantidade de Gemas Inviáveis": "3",
-    "Fazenda": NaN
+    "Fazenda": null,
+    "Unnamed: 20": null
   },
   {
     "ID": "3498561",
@@ -44394,7 +46415,8 @@ const VIABILIDADE_GEMAS_DATA = [
     "Quantidade de Gemas Total": "62",
     "Quantidade de Gemas Viáveis": "62",
     "Quantidade de Gemas Inviáveis": "1",
-    "Fazenda": NaN
+    "Fazenda": null,
+    "Unnamed: 20": null
   },
   {
     "ID": "3498678",
@@ -44416,7 +46438,8 @@ const VIABILIDADE_GEMAS_DATA = [
     "Quantidade de Gemas Total": "57",
     "Quantidade de Gemas Viáveis": "57",
     "Quantidade de Gemas Inviáveis": "0",
-    "Fazenda": NaN
+    "Fazenda": null,
+    "Unnamed: 20": null
   },
   {
     "ID": "3498990",
@@ -44438,7 +46461,8 @@ const VIABILIDADE_GEMAS_DATA = [
     "Quantidade de Gemas Total": "60",
     "Quantidade de Gemas Viáveis": "56",
     "Quantidade de Gemas Inviáveis": "4",
-    "Fazenda": NaN
+    "Fazenda": null,
+    "Unnamed: 20": null
   },
   {
     "ID": "3498556",
@@ -44460,7 +46484,8 @@ const VIABILIDADE_GEMAS_DATA = [
     "Quantidade de Gemas Total": "59",
     "Quantidade de Gemas Viáveis": "59",
     "Quantidade de Gemas Inviáveis": "0",
-    "Fazenda": NaN
+    "Fazenda": null,
+    "Unnamed: 20": null
   },
   {
     "ID": "3498643",
@@ -44482,7 +46507,8 @@ const VIABILIDADE_GEMAS_DATA = [
     "Quantidade de Gemas Total": "54",
     "Quantidade de Gemas Viáveis": "54",
     "Quantidade de Gemas Inviáveis": "0",
-    "Fazenda": NaN
+    "Fazenda": null,
+    "Unnamed: 20": null
   },
   {
     "ID": "3498983",
@@ -44504,7 +46530,8 @@ const VIABILIDADE_GEMAS_DATA = [
     "Quantidade de Gemas Total": "59",
     "Quantidade de Gemas Viáveis": "59",
     "Quantidade de Gemas Inviáveis": "0",
-    "Fazenda": NaN
+    "Fazenda": null,
+    "Unnamed: 20": null
   },
   {
     "ID": "3498626",
@@ -44526,7 +46553,8 @@ const VIABILIDADE_GEMAS_DATA = [
     "Quantidade de Gemas Total": "56",
     "Quantidade de Gemas Viáveis": "56",
     "Quantidade de Gemas Inviáveis": "0",
-    "Fazenda": NaN
+    "Fazenda": null,
+    "Unnamed: 20": null
   },
   {
     "ID": "3498621",
@@ -44548,7 +46576,8 @@ const VIABILIDADE_GEMAS_DATA = [
     "Quantidade de Gemas Total": "58",
     "Quantidade de Gemas Viáveis": "58",
     "Quantidade de Gemas Inviáveis": "0",
-    "Fazenda": NaN
+    "Fazenda": null,
+    "Unnamed: 20": null
   },
   {
     "ID": "3498616",
@@ -44570,7 +46599,8 @@ const VIABILIDADE_GEMAS_DATA = [
     "Quantidade de Gemas Total": "54",
     "Quantidade de Gemas Viáveis": "54",
     "Quantidade de Gemas Inviáveis": "0",
-    "Fazenda": NaN
+    "Fazenda": null,
+    "Unnamed: 20": null
   },
   {
     "ID": "3496798",
@@ -44592,7 +46622,8 @@ const VIABILIDADE_GEMAS_DATA = [
     "Quantidade de Gemas Total": "58",
     "Quantidade de Gemas Viáveis": "58",
     "Quantidade de Gemas Inviáveis": "0",
-    "Fazenda": NaN
+    "Fazenda": null,
+    "Unnamed: 20": null
   },
   {
     "ID": "3496793",
@@ -44614,7 +46645,8 @@ const VIABILIDADE_GEMAS_DATA = [
     "Quantidade de Gemas Total": "58",
     "Quantidade de Gemas Viáveis": "58",
     "Quantidade de Gemas Inviáveis": "0",
-    "Fazenda": NaN
+    "Fazenda": null,
+    "Unnamed: 20": null
   },
   {
     "ID": "3496788",
@@ -44636,7 +46668,8 @@ const VIABILIDADE_GEMAS_DATA = [
     "Quantidade de Gemas Total": "60",
     "Quantidade de Gemas Viáveis": "60",
     "Quantidade de Gemas Inviáveis": "0",
-    "Fazenda": NaN
+    "Fazenda": null,
+    "Unnamed: 20": null
   },
   {
     "ID": "3496783",
@@ -44658,7 +46691,8 @@ const VIABILIDADE_GEMAS_DATA = [
     "Quantidade de Gemas Total": "57",
     "Quantidade de Gemas Viáveis": "57",
     "Quantidade de Gemas Inviáveis": "0",
-    "Fazenda": NaN
+    "Fazenda": null,
+    "Unnamed: 20": null
   },
   {
     "ID": "3496691",
@@ -44680,7 +46714,8 @@ const VIABILIDADE_GEMAS_DATA = [
     "Quantidade de Gemas Total": "60",
     "Quantidade de Gemas Viáveis": "60",
     "Quantidade de Gemas Inviáveis": "0",
-    "Fazenda": NaN
+    "Fazenda": null,
+    "Unnamed: 20": null
   },
   {
     "ID": "3496689",
@@ -44702,7 +46737,8 @@ const VIABILIDADE_GEMAS_DATA = [
     "Quantidade de Gemas Total": "65",
     "Quantidade de Gemas Viáveis": "65",
     "Quantidade de Gemas Inviáveis": "0",
-    "Fazenda": NaN
+    "Fazenda": null,
+    "Unnamed: 20": null
   },
   {
     "ID": "3496686",
@@ -44724,7 +46760,8 @@ const VIABILIDADE_GEMAS_DATA = [
     "Quantidade de Gemas Total": "54",
     "Quantidade de Gemas Viáveis": "54",
     "Quantidade de Gemas Inviáveis": "0",
-    "Fazenda": NaN
+    "Fazenda": null,
+    "Unnamed: 20": null
   },
   {
     "ID": "3496228",
@@ -44746,7 +46783,8 @@ const VIABILIDADE_GEMAS_DATA = [
     "Quantidade de Gemas Total": "55",
     "Quantidade de Gemas Viáveis": "52",
     "Quantidade de Gemas Inviáveis": "3",
-    "Fazenda": NaN
+    "Fazenda": null,
+    "Unnamed: 20": null
   },
   {
     "ID": "3496227",
@@ -44768,7 +46806,8 @@ const VIABILIDADE_GEMAS_DATA = [
     "Quantidade de Gemas Total": "51",
     "Quantidade de Gemas Viáveis": "51",
     "Quantidade de Gemas Inviáveis": "0",
-    "Fazenda": NaN
+    "Fazenda": null,
+    "Unnamed: 20": null
   },
   {
     "ID": "3496224",
@@ -44790,7 +46829,8 @@ const VIABILIDADE_GEMAS_DATA = [
     "Quantidade de Gemas Total": "54",
     "Quantidade de Gemas Viáveis": "53",
     "Quantidade de Gemas Inviáveis": "1",
-    "Fazenda": NaN
+    "Fazenda": null,
+    "Unnamed: 20": null
   },
   {
     "ID": "3496220",
@@ -44812,7 +46852,8 @@ const VIABILIDADE_GEMAS_DATA = [
     "Quantidade de Gemas Total": "48",
     "Quantidade de Gemas Viáveis": "48",
     "Quantidade de Gemas Inviáveis": "0",
-    "Fazenda": NaN
+    "Fazenda": null,
+    "Unnamed: 20": null
   },
   {
     "ID": "3495215",
@@ -44834,7 +46875,8 @@ const VIABILIDADE_GEMAS_DATA = [
     "Quantidade de Gemas Total": "55",
     "Quantidade de Gemas Viáveis": "55",
     "Quantidade de Gemas Inviáveis": "0",
-    "Fazenda": NaN
+    "Fazenda": null,
+    "Unnamed: 20": null
   },
   {
     "ID": "3495209",
@@ -44856,7 +46898,8 @@ const VIABILIDADE_GEMAS_DATA = [
     "Quantidade de Gemas Total": "54",
     "Quantidade de Gemas Viáveis": "54",
     "Quantidade de Gemas Inviáveis": "0",
-    "Fazenda": NaN
+    "Fazenda": null,
+    "Unnamed: 20": null
   },
   {
     "ID": "3495204",
@@ -44878,7 +46921,8 @@ const VIABILIDADE_GEMAS_DATA = [
     "Quantidade de Gemas Total": "57",
     "Quantidade de Gemas Viáveis": "57",
     "Quantidade de Gemas Inviáveis": "0",
-    "Fazenda": NaN
+    "Fazenda": null,
+    "Unnamed: 20": null
   },
   {
     "ID": "3495199",
@@ -44900,7 +46944,8 @@ const VIABILIDADE_GEMAS_DATA = [
     "Quantidade de Gemas Total": "58",
     "Quantidade de Gemas Viáveis": "58",
     "Quantidade de Gemas Inviáveis": "0",
-    "Fazenda": NaN
+    "Fazenda": null,
+    "Unnamed: 20": null
   },
   {
     "ID": "3494377",
@@ -44922,7 +46967,8 @@ const VIABILIDADE_GEMAS_DATA = [
     "Quantidade de Gemas Total": "60",
     "Quantidade de Gemas Viáveis": "60",
     "Quantidade de Gemas Inviáveis": "0",
-    "Fazenda": NaN
+    "Fazenda": null,
+    "Unnamed: 20": null
   },
   {
     "ID": "3494644",
@@ -44944,7 +46990,8 @@ const VIABILIDADE_GEMAS_DATA = [
     "Quantidade de Gemas Total": "53",
     "Quantidade de Gemas Viáveis": "53",
     "Quantidade de Gemas Inviáveis": "0",
-    "Fazenda": NaN
+    "Fazenda": null,
+    "Unnamed: 20": null
   },
   {
     "ID": "3494636",
@@ -44966,7 +47013,8 @@ const VIABILIDADE_GEMAS_DATA = [
     "Quantidade de Gemas Total": "59",
     "Quantidade de Gemas Viáveis": "59",
     "Quantidade de Gemas Inviáveis": "0",
-    "Fazenda": NaN
+    "Fazenda": null,
+    "Unnamed: 20": null
   },
   {
     "ID": "3494372",
@@ -44988,7 +47036,8 @@ const VIABILIDADE_GEMAS_DATA = [
     "Quantidade de Gemas Total": "60",
     "Quantidade de Gemas Viáveis": "60",
     "Quantidade de Gemas Inviáveis": "0",
-    "Fazenda": NaN
+    "Fazenda": null,
+    "Unnamed: 20": null
   },
   {
     "ID": "3494367",
@@ -45010,7 +47059,8 @@ const VIABILIDADE_GEMAS_DATA = [
     "Quantidade de Gemas Total": "59",
     "Quantidade de Gemas Viáveis": "55",
     "Quantidade de Gemas Inviáveis": "4",
-    "Fazenda": NaN
+    "Fazenda": null,
+    "Unnamed: 20": null
   },
   {
     "ID": "3494670",
@@ -45032,7 +47082,8 @@ const VIABILIDADE_GEMAS_DATA = [
     "Quantidade de Gemas Total": "51",
     "Quantidade de Gemas Viáveis": "48",
     "Quantidade de Gemas Inviáveis": "3",
-    "Fazenda": NaN
+    "Fazenda": null,
+    "Unnamed: 20": null
   },
   {
     "ID": "3494357",
@@ -45054,7 +47105,8 @@ const VIABILIDADE_GEMAS_DATA = [
     "Quantidade de Gemas Total": "60",
     "Quantidade de Gemas Viáveis": "55",
     "Quantidade de Gemas Inviáveis": "5",
-    "Fazenda": NaN
+    "Fazenda": null,
+    "Unnamed: 20": null
   },
   {
     "ID": "3494352",
@@ -45076,7 +47128,8 @@ const VIABILIDADE_GEMAS_DATA = [
     "Quantidade de Gemas Total": "60",
     "Quantidade de Gemas Viáveis": "60",
     "Quantidade de Gemas Inviáveis": "0",
-    "Fazenda": NaN
+    "Fazenda": null,
+    "Unnamed: 20": null
   },
   {
     "ID": "3494666",
@@ -45098,7 +47151,8 @@ const VIABILIDADE_GEMAS_DATA = [
     "Quantidade de Gemas Total": "57",
     "Quantidade de Gemas Viáveis": "54",
     "Quantidade de Gemas Inviáveis": "3",
-    "Fazenda": NaN
+    "Fazenda": null,
+    "Unnamed: 20": null
   },
   {
     "ID": "3494662",
@@ -45120,7 +47174,8 @@ const VIABILIDADE_GEMAS_DATA = [
     "Quantidade de Gemas Total": "51",
     "Quantidade de Gemas Viáveis": "49",
     "Quantidade de Gemas Inviáveis": "1",
-    "Fazenda": NaN
+    "Fazenda": null,
+    "Unnamed: 20": null
   },
   {
     "ID": "3494658",
@@ -45142,7 +47197,8 @@ const VIABILIDADE_GEMAS_DATA = [
     "Quantidade de Gemas Total": "50",
     "Quantidade de Gemas Viáveis": "48",
     "Quantidade de Gemas Inviáveis": "2",
-    "Fazenda": NaN
+    "Fazenda": null,
+    "Unnamed: 20": null
   },
   {
     "ID": "3494653",
@@ -45164,7 +47220,8 @@ const VIABILIDADE_GEMAS_DATA = [
     "Quantidade de Gemas Total": "55",
     "Quantidade de Gemas Viáveis": "55",
     "Quantidade de Gemas Inviáveis": "0",
-    "Fazenda": NaN
+    "Fazenda": null,
+    "Unnamed: 20": null
   },
   {
     "ID": "3495171",
@@ -45186,7 +47243,8 @@ const VIABILIDADE_GEMAS_DATA = [
     "Quantidade de Gemas Total": "58",
     "Quantidade de Gemas Viáveis": "58",
     "Quantidade de Gemas Inviáveis": "0",
-    "Fazenda": NaN
+    "Fazenda": null,
+    "Unnamed: 20": null
   },
   {
     "ID": "3495167",
@@ -45208,7 +47266,8 @@ const VIABILIDADE_GEMAS_DATA = [
     "Quantidade de Gemas Total": "56",
     "Quantidade de Gemas Viáveis": "56",
     "Quantidade de Gemas Inviáveis": "0",
-    "Fazenda": NaN
+    "Fazenda": null,
+    "Unnamed: 20": null
   },
   {
     "ID": "3495158",
@@ -45230,7 +47289,8 @@ const VIABILIDADE_GEMAS_DATA = [
     "Quantidade de Gemas Total": "54",
     "Quantidade de Gemas Viáveis": "52",
     "Quantidade de Gemas Inviáveis": "2",
-    "Fazenda": NaN
+    "Fazenda": null,
+    "Unnamed: 20": null
   },
   {
     "ID": "3495156",
@@ -45252,7 +47312,8 @@ const VIABILIDADE_GEMAS_DATA = [
     "Quantidade de Gemas Total": "52",
     "Quantidade de Gemas Viáveis": "52",
     "Quantidade de Gemas Inviáveis": "0",
-    "Fazenda": NaN
+    "Fazenda": null,
+    "Unnamed: 20": null
   },
   {
     "ID": "3492656",
@@ -45274,7 +47335,8 @@ const VIABILIDADE_GEMAS_DATA = [
     "Quantidade de Gemas Total": "58",
     "Quantidade de Gemas Viáveis": "58",
     "Quantidade de Gemas Inviáveis": "0",
-    "Fazenda": NaN
+    "Fazenda": null,
+    "Unnamed: 20": null
   },
   {
     "ID": "3492655",
@@ -45296,7 +47358,8 @@ const VIABILIDADE_GEMAS_DATA = [
     "Quantidade de Gemas Total": "54",
     "Quantidade de Gemas Viáveis": "54",
     "Quantidade de Gemas Inviáveis": "0",
-    "Fazenda": NaN
+    "Fazenda": null,
+    "Unnamed: 20": null
   },
   {
     "ID": "3492654",
@@ -45318,7 +47381,8 @@ const VIABILIDADE_GEMAS_DATA = [
     "Quantidade de Gemas Total": "55",
     "Quantidade de Gemas Viáveis": "55",
     "Quantidade de Gemas Inviáveis": "0",
-    "Fazenda": NaN
+    "Fazenda": null,
+    "Unnamed: 20": null
   },
   {
     "ID": "3492653",
@@ -45340,7 +47404,8 @@ const VIABILIDADE_GEMAS_DATA = [
     "Quantidade de Gemas Total": "54",
     "Quantidade de Gemas Viáveis": "54",
     "Quantidade de Gemas Inviáveis": "0",
-    "Fazenda": NaN
+    "Fazenda": null,
+    "Unnamed: 20": null
   },
   {
     "ID": "3492618",
@@ -45362,7 +47427,8 @@ const VIABILIDADE_GEMAS_DATA = [
     "Quantidade de Gemas Total": "58",
     "Quantidade de Gemas Viáveis": "58",
     "Quantidade de Gemas Inviáveis": "0",
-    "Fazenda": NaN
+    "Fazenda": null,
+    "Unnamed: 20": null
   },
   {
     "ID": "3492617",
@@ -45384,7 +47450,8 @@ const VIABILIDADE_GEMAS_DATA = [
     "Quantidade de Gemas Total": "54",
     "Quantidade de Gemas Viáveis": "54",
     "Quantidade de Gemas Inviáveis": "0",
-    "Fazenda": NaN
+    "Fazenda": null,
+    "Unnamed: 20": null
   },
   {
     "ID": "3492649",
@@ -45406,7 +47473,8 @@ const VIABILIDADE_GEMAS_DATA = [
     "Quantidade de Gemas Total": "57",
     "Quantidade de Gemas Viáveis": "57",
     "Quantidade de Gemas Inviáveis": "0",
-    "Fazenda": NaN
+    "Fazenda": null,
+    "Unnamed: 20": null
   },
   {
     "ID": "3492524",
@@ -45428,7 +47496,8 @@ const VIABILIDADE_GEMAS_DATA = [
     "Quantidade de Gemas Total": "57",
     "Quantidade de Gemas Viáveis": "57",
     "Quantidade de Gemas Inviáveis": "0",
-    "Fazenda": NaN
+    "Fazenda": null,
+    "Unnamed: 20": null
   },
   {
     "ID": "3493092",
@@ -45450,7 +47519,8 @@ const VIABILIDADE_GEMAS_DATA = [
     "Quantidade de Gemas Total": "58",
     "Quantidade de Gemas Viáveis": "58",
     "Quantidade de Gemas Inviáveis": "0",
-    "Fazenda": NaN
+    "Fazenda": null,
+    "Unnamed: 20": null
   },
   {
     "ID": "3492514",
@@ -45472,7 +47542,8 @@ const VIABILIDADE_GEMAS_DATA = [
     "Quantidade de Gemas Total": "60",
     "Quantidade de Gemas Viáveis": "60",
     "Quantidade de Gemas Inviáveis": "0",
-    "Fazenda": NaN
+    "Fazenda": null,
+    "Unnamed: 20": null
   },
   {
     "ID": "3493087",
@@ -45494,7 +47565,8 @@ const VIABILIDADE_GEMAS_DATA = [
     "Quantidade de Gemas Total": "51",
     "Quantidade de Gemas Viáveis": "51",
     "Quantidade de Gemas Inviáveis": "0",
-    "Fazenda": NaN
+    "Fazenda": null,
+    "Unnamed: 20": null
   },
   {
     "ID": "3492216",
@@ -45516,7 +47588,8 @@ const VIABILIDADE_GEMAS_DATA = [
     "Quantidade de Gemas Total": "50",
     "Quantidade de Gemas Viáveis": "48",
     "Quantidade de Gemas Inviáveis": "2",
-    "Fazenda": NaN
+    "Fazenda": null,
+    "Unnamed: 20": null
   },
   {
     "ID": "3492220",
@@ -45538,7 +47611,8 @@ const VIABILIDADE_GEMAS_DATA = [
     "Quantidade de Gemas Total": "49",
     "Quantidade de Gemas Viáveis": "49",
     "Quantidade de Gemas Inviáveis": "0",
-    "Fazenda": NaN
+    "Fazenda": null,
+    "Unnamed: 20": null
   },
   {
     "ID": "3493082",
@@ -45560,7 +47634,8 @@ const VIABILIDADE_GEMAS_DATA = [
     "Quantidade de Gemas Total": "56",
     "Quantidade de Gemas Viáveis": "56",
     "Quantidade de Gemas Inviáveis": "0",
-    "Fazenda": NaN
+    "Fazenda": null,
+    "Unnamed: 20": null
   },
   {
     "ID": "3492512",
@@ -45582,7 +47657,8 @@ const VIABILIDADE_GEMAS_DATA = [
     "Quantidade de Gemas Total": "58",
     "Quantidade de Gemas Viáveis": "58",
     "Quantidade de Gemas Inviáveis": "0",
-    "Fazenda": NaN
+    "Fazenda": null,
+    "Unnamed: 20": null
   },
   {
     "ID": "3492506",
@@ -45604,7 +47680,8 @@ const VIABILIDADE_GEMAS_DATA = [
     "Quantidade de Gemas Total": "62",
     "Quantidade de Gemas Viáveis": "62",
     "Quantidade de Gemas Inviáveis": "0",
-    "Fazenda": NaN
+    "Fazenda": null,
+    "Unnamed: 20": null
   },
   {
     "ID": "3492468",
@@ -45626,7 +47703,8 @@ const VIABILIDADE_GEMAS_DATA = [
     "Quantidade de Gemas Total": "60",
     "Quantidade de Gemas Viáveis": "60",
     "Quantidade de Gemas Inviáveis": "0",
-    "Fazenda": NaN
+    "Fazenda": null,
+    "Unnamed: 20": null
   },
   {
     "ID": "3492464",
@@ -45648,7 +47726,8 @@ const VIABILIDADE_GEMAS_DATA = [
     "Quantidade de Gemas Total": "59",
     "Quantidade de Gemas Viáveis": "59",
     "Quantidade de Gemas Inviáveis": "0",
-    "Fazenda": NaN
+    "Fazenda": null,
+    "Unnamed: 20": null
   },
   {
     "ID": "3492081",
@@ -45670,7 +47749,8 @@ const VIABILIDADE_GEMAS_DATA = [
     "Quantidade de Gemas Total": "52",
     "Quantidade de Gemas Viáveis": "52",
     "Quantidade de Gemas Inviáveis": "0",
-    "Fazenda": NaN
+    "Fazenda": null,
+    "Unnamed: 20": null
   },
   {
     "ID": "3492076",
@@ -45692,7 +47772,8 @@ const VIABILIDADE_GEMAS_DATA = [
     "Quantidade de Gemas Total": "49",
     "Quantidade de Gemas Viáveis": "49",
     "Quantidade de Gemas Inviáveis": "0",
-    "Fazenda": NaN
+    "Fazenda": null,
+    "Unnamed: 20": null
   },
   {
     "ID": "3492460",
@@ -45714,7 +47795,8 @@ const VIABILIDADE_GEMAS_DATA = [
     "Quantidade de Gemas Total": "60",
     "Quantidade de Gemas Viáveis": "56",
     "Quantidade de Gemas Inviáveis": "4",
-    "Fazenda": NaN
+    "Fazenda": null,
+    "Unnamed: 20": null
   },
   {
     "ID": "3492456",
@@ -45736,7 +47818,8 @@ const VIABILIDADE_GEMAS_DATA = [
     "Quantidade de Gemas Total": "60",
     "Quantidade de Gemas Viáveis": "56",
     "Quantidade de Gemas Inviáveis": "4",
-    "Fazenda": NaN
+    "Fazenda": null,
+    "Unnamed: 20": null
   },
   {
     "ID": "3492452",
@@ -45758,7 +47841,8 @@ const VIABILIDADE_GEMAS_DATA = [
     "Quantidade de Gemas Total": "59",
     "Quantidade de Gemas Viáveis": "59",
     "Quantidade de Gemas Inviáveis": "0",
-    "Fazenda": NaN
+    "Fazenda": null,
+    "Unnamed: 20": null
   },
   {
     "ID": "3493072",
@@ -45780,7 +47864,8 @@ const VIABILIDADE_GEMAS_DATA = [
     "Quantidade de Gemas Total": "56",
     "Quantidade de Gemas Viáveis": "56",
     "Quantidade de Gemas Inviáveis": "0",
-    "Fazenda": NaN
+    "Fazenda": null,
+    "Unnamed: 20": null
   },
   {
     "ID": "3492388",
@@ -45802,7 +47887,8 @@ const VIABILIDADE_GEMAS_DATA = [
     "Quantidade de Gemas Total": "58",
     "Quantidade de Gemas Viáveis": "58",
     "Quantidade de Gemas Inviáveis": "0",
-    "Fazenda": NaN
+    "Fazenda": null,
+    "Unnamed: 20": null
   },
   {
     "ID": "3492589",
@@ -45824,7 +47910,8 @@ const VIABILIDADE_GEMAS_DATA = [
     "Quantidade de Gemas Total": "52",
     "Quantidade de Gemas Viáveis": "52",
     "Quantidade de Gemas Inviáveis": "0",
-    "Fazenda": NaN
+    "Fazenda": null,
+    "Unnamed: 20": null
   },
   {
     "ID": "3493067",
@@ -45846,7 +47933,8 @@ const VIABILIDADE_GEMAS_DATA = [
     "Quantidade de Gemas Total": "52",
     "Quantidade de Gemas Viáveis": "52",
     "Quantidade de Gemas Inviáveis": "0",
-    "Fazenda": NaN
+    "Fazenda": null,
+    "Unnamed: 20": null
   },
   {
     "ID": "3492584",
@@ -45868,7 +47956,8 @@ const VIABILIDADE_GEMAS_DATA = [
     "Quantidade de Gemas Total": "50",
     "Quantidade de Gemas Viáveis": "50",
     "Quantidade de Gemas Inviáveis": "0",
-    "Fazenda": NaN
+    "Fazenda": null,
+    "Unnamed: 20": null
   },
   {
     "ID": "3493060",
@@ -45890,7 +47979,8 @@ const VIABILIDADE_GEMAS_DATA = [
     "Quantidade de Gemas Total": "56",
     "Quantidade de Gemas Viáveis": "56",
     "Quantidade de Gemas Inviáveis": "0",
-    "Fazenda": NaN
+    "Fazenda": null,
+    "Unnamed: 20": null
   },
   {
     "ID": "3492384",
@@ -45912,7 +48002,8 @@ const VIABILIDADE_GEMAS_DATA = [
     "Quantidade de Gemas Total": "60",
     "Quantidade de Gemas Viáveis": "60",
     "Quantidade de Gemas Inviáveis": "0",
-    "Fazenda": NaN
+    "Fazenda": null,
+    "Unnamed: 20": null
   },
   {
     "ID": "3492578",
@@ -45934,7 +48025,8 @@ const VIABILIDADE_GEMAS_DATA = [
     "Quantidade de Gemas Total": "48",
     "Quantidade de Gemas Viáveis": "48",
     "Quantidade de Gemas Inviáveis": "0",
-    "Fazenda": NaN
+    "Fazenda": null,
+    "Unnamed: 20": null
   },
   {
     "ID": "3492380",
@@ -45956,7 +48048,8 @@ const VIABILIDADE_GEMAS_DATA = [
     "Quantidade de Gemas Total": "54",
     "Quantidade de Gemas Viáveis": "54",
     "Quantidade de Gemas Inviáveis": "0",
-    "Fazenda": NaN
+    "Fazenda": null,
+    "Unnamed: 20": null
   },
   {
     "ID": "3492362",
@@ -45978,7 +48071,8 @@ const VIABILIDADE_GEMAS_DATA = [
     "Quantidade de Gemas Total": "56",
     "Quantidade de Gemas Viáveis": "55",
     "Quantidade de Gemas Inviáveis": "1",
-    "Fazenda": NaN
+    "Fazenda": null,
+    "Unnamed: 20": null
   },
   {
     "ID": "3492358",
@@ -46000,7 +48094,8 @@ const VIABILIDADE_GEMAS_DATA = [
     "Quantidade de Gemas Total": "60",
     "Quantidade de Gemas Viáveis": "60",
     "Quantidade de Gemas Inviáveis": "0",
-    "Fazenda": NaN
+    "Fazenda": null,
+    "Unnamed: 20": null
   },
   {
     "ID": "3492354",
@@ -46022,7 +48117,8 @@ const VIABILIDADE_GEMAS_DATA = [
     "Quantidade de Gemas Total": "56",
     "Quantidade de Gemas Viáveis": "54",
     "Quantidade de Gemas Inviáveis": "2",
-    "Fazenda": NaN
+    "Fazenda": null,
+    "Unnamed: 20": null
   },
   {
     "ID": "3490424",
@@ -46044,7 +48140,8 @@ const VIABILIDADE_GEMAS_DATA = [
     "Quantidade de Gemas Total": "60",
     "Quantidade de Gemas Viáveis": "60",
     "Quantidade de Gemas Inviáveis": "0",
-    "Fazenda": NaN
+    "Fazenda": null,
+    "Unnamed: 20": null
   },
   {
     "ID": "3490291",
@@ -46066,7 +48163,8 @@ const VIABILIDADE_GEMAS_DATA = [
     "Quantidade de Gemas Total": "49",
     "Quantidade de Gemas Viáveis": "49",
     "Quantidade de Gemas Inviáveis": "1",
-    "Fazenda": NaN
+    "Fazenda": null,
+    "Unnamed: 20": null
   },
   {
     "ID": "3490288",
@@ -46088,7 +48186,8 @@ const VIABILIDADE_GEMAS_DATA = [
     "Quantidade de Gemas Total": "55",
     "Quantidade de Gemas Viáveis": "53",
     "Quantidade de Gemas Inviáveis": "2",
-    "Fazenda": NaN
+    "Fazenda": null,
+    "Unnamed: 20": null
   },
   {
     "ID": "3491275",
@@ -46110,7 +48209,8 @@ const VIABILIDADE_GEMAS_DATA = [
     "Quantidade de Gemas Total": "53",
     "Quantidade de Gemas Viáveis": "53",
     "Quantidade de Gemas Inviáveis": "0",
-    "Fazenda": NaN
+    "Fazenda": null,
+    "Unnamed: 20": null
   },
   {
     "ID": "3491271",
@@ -46132,7 +48232,8 @@ const VIABILIDADE_GEMAS_DATA = [
     "Quantidade de Gemas Total": "58",
     "Quantidade de Gemas Viáveis": "58",
     "Quantidade de Gemas Inviáveis": "0",
-    "Fazenda": NaN
+    "Fazenda": null,
+    "Unnamed: 20": null
   },
   {
     "ID": "3491265",
@@ -46154,7 +48255,8 @@ const VIABILIDADE_GEMAS_DATA = [
     "Quantidade de Gemas Total": "55",
     "Quantidade de Gemas Viáveis": "55",
     "Quantidade de Gemas Inviáveis": "0",
-    "Fazenda": NaN
+    "Fazenda": null,
+    "Unnamed: 20": null
   },
   {
     "ID": "3492574",
@@ -46176,7 +48278,8 @@ const VIABILIDADE_GEMAS_DATA = [
     "Quantidade de Gemas Total": "59",
     "Quantidade de Gemas Viáveis": "57",
     "Quantidade de Gemas Inviáveis": "2",
-    "Fazenda": NaN
+    "Fazenda": null,
+    "Unnamed: 20": null
   },
   {
     "ID": "3492569",
@@ -46198,7 +48301,8 @@ const VIABILIDADE_GEMAS_DATA = [
     "Quantidade de Gemas Total": "58",
     "Quantidade de Gemas Viáveis": "58",
     "Quantidade de Gemas Inviáveis": "0",
-    "Fazenda": NaN
+    "Fazenda": null,
+    "Unnamed: 20": null
   },
   {
     "ID": "3470088",
@@ -46220,7 +48324,8 @@ const VIABILIDADE_GEMAS_DATA = [
     "Quantidade de Gemas Total": "55",
     "Quantidade de Gemas Viáveis": "55",
     "Quantidade de Gemas Inviáveis": "0",
-    "Fazenda": NaN
+    "Fazenda": null,
+    "Unnamed: 20": null
   },
   {
     "ID": "3492563",
@@ -46242,7 +48347,8 @@ const VIABILIDADE_GEMAS_DATA = [
     "Quantidade de Gemas Total": "61",
     "Quantidade de Gemas Viáveis": "61",
     "Quantidade de Gemas Inviáveis": "0",
-    "Fazenda": NaN
+    "Fazenda": null,
+    "Unnamed: 20": null
   },
   {
     "ID": "3490379",
@@ -46264,7 +48370,8 @@ const VIABILIDADE_GEMAS_DATA = [
     "Quantidade de Gemas Total": "59",
     "Quantidade de Gemas Viáveis": "54",
     "Quantidade de Gemas Inviáveis": "5",
-    "Fazenda": NaN
+    "Fazenda": null,
+    "Unnamed: 20": null
   },
   {
     "ID": "3490375",
@@ -46286,7 +48393,8 @@ const VIABILIDADE_GEMAS_DATA = [
     "Quantidade de Gemas Total": "60",
     "Quantidade de Gemas Viáveis": "56",
     "Quantidade de Gemas Inviáveis": "4",
-    "Fazenda": NaN
+    "Fazenda": null,
+    "Unnamed: 20": null
   },
   {
     "ID": "3470035",
@@ -46308,7 +48416,8 @@ const VIABILIDADE_GEMAS_DATA = [
     "Quantidade de Gemas Total": "60",
     "Quantidade de Gemas Viáveis": "60",
     "Quantidade de Gemas Inviáveis": "0",
-    "Fazenda": NaN
+    "Fazenda": null,
+    "Unnamed: 20": null
   },
   {
     "ID": "3490369",
@@ -46330,7 +48439,8 @@ const VIABILIDADE_GEMAS_DATA = [
     "Quantidade de Gemas Total": "59",
     "Quantidade de Gemas Viáveis": "55",
     "Quantidade de Gemas Inviáveis": "4",
-    "Fazenda": NaN
+    "Fazenda": null,
+    "Unnamed: 20": null
   },
   {
     "ID": "3490346",
@@ -46352,7 +48462,8 @@ const VIABILIDADE_GEMAS_DATA = [
     "Quantidade de Gemas Total": "60",
     "Quantidade de Gemas Viáveis": "56",
     "Quantidade de Gemas Inviáveis": "4",
-    "Fazenda": NaN
+    "Fazenda": null,
+    "Unnamed: 20": null
   },
   {
     "ID": "3470030",
@@ -46374,7 +48485,8 @@ const VIABILIDADE_GEMAS_DATA = [
     "Quantidade de Gemas Total": "58",
     "Quantidade de Gemas Viáveis": "58",
     "Quantidade de Gemas Inviáveis": "0",
-    "Fazenda": NaN
+    "Fazenda": null,
+    "Unnamed: 20": null
   },
   {
     "ID": "3490342",
@@ -46396,7 +48508,8 @@ const VIABILIDADE_GEMAS_DATA = [
     "Quantidade de Gemas Total": "59",
     "Quantidade de Gemas Viáveis": "59",
     "Quantidade de Gemas Inviáveis": "0",
-    "Fazenda": NaN
+    "Fazenda": null,
+    "Unnamed: 20": null
   },
   {
     "ID": "3470025",
@@ -46418,7 +48531,8 @@ const VIABILIDADE_GEMAS_DATA = [
     "Quantidade de Gemas Total": "55",
     "Quantidade de Gemas Viáveis": "55",
     "Quantidade de Gemas Inviáveis": "0",
-    "Fazenda": NaN
+    "Fazenda": null,
+    "Unnamed: 20": null
   },
   {
     "ID": "3491242",
@@ -46440,7 +48554,8 @@ const VIABILIDADE_GEMAS_DATA = [
     "Quantidade de Gemas Total": "58",
     "Quantidade de Gemas Viáveis": "58",
     "Quantidade de Gemas Inviáveis": "0",
-    "Fazenda": NaN
+    "Fazenda": null,
+    "Unnamed: 20": null
   },
   {
     "ID": "3470020",
@@ -46462,7 +48577,8 @@ const VIABILIDADE_GEMAS_DATA = [
     "Quantidade de Gemas Total": "54",
     "Quantidade de Gemas Viáveis": "54",
     "Quantidade de Gemas Inviáveis": "0",
-    "Fazenda": NaN
+    "Fazenda": null,
+    "Unnamed: 20": null
   },
   {
     "ID": "3490173",
@@ -46484,7 +48600,8 @@ const VIABILIDADE_GEMAS_DATA = [
     "Quantidade de Gemas Total": "56",
     "Quantidade de Gemas Viáveis": "56",
     "Quantidade de Gemas Inviáveis": "0",
-    "Fazenda": NaN
+    "Fazenda": null,
+    "Unnamed: 20": null
   },
   {
     "ID": "3491237",
@@ -46506,7 +48623,8 @@ const VIABILIDADE_GEMAS_DATA = [
     "Quantidade de Gemas Total": "54",
     "Quantidade de Gemas Viáveis": "54",
     "Quantidade de Gemas Inviáveis": "0",
-    "Fazenda": NaN
+    "Fazenda": null,
+    "Unnamed: 20": null
   },
   {
     "ID": "3491232",
@@ -46528,7 +48646,8 @@ const VIABILIDADE_GEMAS_DATA = [
     "Quantidade de Gemas Total": "56",
     "Quantidade de Gemas Viáveis": "56",
     "Quantidade de Gemas Inviáveis": "0",
-    "Fazenda": NaN
+    "Fazenda": null,
+    "Unnamed: 20": null
   },
   {
     "ID": "3491227",
@@ -46550,7 +48669,8 @@ const VIABILIDADE_GEMAS_DATA = [
     "Quantidade de Gemas Total": "60",
     "Quantidade de Gemas Viáveis": "60",
     "Quantidade de Gemas Inviáveis": "0",
-    "Fazenda": NaN
+    "Fazenda": null,
+    "Unnamed: 20": null
   },
   {
     "ID": "3470015",
@@ -46572,7 +48692,8 @@ const VIABILIDADE_GEMAS_DATA = [
     "Quantidade de Gemas Total": "55",
     "Quantidade de Gemas Viáveis": "55",
     "Quantidade de Gemas Inviáveis": "0",
-    "Fazenda": NaN
+    "Fazenda": null,
+    "Unnamed: 20": null
   },
   {
     "ID": "3491223",
@@ -46594,7 +48715,8 @@ const VIABILIDADE_GEMAS_DATA = [
     "Quantidade de Gemas Total": "57",
     "Quantidade de Gemas Viáveis": "57",
     "Quantidade de Gemas Inviáveis": "0",
-    "Fazenda": NaN
+    "Fazenda": null,
+    "Unnamed: 20": null
   },
   {
     "ID": "3490167",
@@ -46616,7 +48738,8 @@ const VIABILIDADE_GEMAS_DATA = [
     "Quantidade de Gemas Total": "58",
     "Quantidade de Gemas Viáveis": "58",
     "Quantidade de Gemas Inviáveis": "0",
-    "Fazenda": NaN
+    "Fazenda": null,
+    "Unnamed: 20": null
   },
   {
     "ID": "3469975",
@@ -46638,7 +48761,8 @@ const VIABILIDADE_GEMAS_DATA = [
     "Quantidade de Gemas Total": "60",
     "Quantidade de Gemas Viáveis": "60",
     "Quantidade de Gemas Inviáveis": "0",
-    "Fazenda": NaN
+    "Fazenda": null,
+    "Unnamed: 20": null
   },
   {
     "ID": "3469969",
@@ -46660,7 +48784,8 @@ const VIABILIDADE_GEMAS_DATA = [
     "Quantidade de Gemas Total": "55",
     "Quantidade de Gemas Viáveis": "55",
     "Quantidade de Gemas Inviáveis": "0",
-    "Fazenda": NaN
+    "Fazenda": null,
+    "Unnamed: 20": null
   },
   {
     "ID": "3469962",
@@ -46682,7 +48807,8 @@ const VIABILIDADE_GEMAS_DATA = [
     "Quantidade de Gemas Total": "58",
     "Quantidade de Gemas Viáveis": "58",
     "Quantidade de Gemas Inviáveis": "0",
-    "Fazenda": NaN
+    "Fazenda": null,
+    "Unnamed: 20": null
   },
   {
     "ID": "3469957",
@@ -46704,7 +48830,8 @@ const VIABILIDADE_GEMAS_DATA = [
     "Quantidade de Gemas Total": "60",
     "Quantidade de Gemas Viáveis": "60",
     "Quantidade de Gemas Inviáveis": "0",
-    "Fazenda": NaN
+    "Fazenda": null,
+    "Unnamed: 20": null
   },
   {
     "ID": "3468238",
@@ -46726,7 +48853,8 @@ const VIABILIDADE_GEMAS_DATA = [
     "Quantidade de Gemas Total": "57",
     "Quantidade de Gemas Viáveis": "55",
     "Quantidade de Gemas Inviáveis": "2",
-    "Fazenda": NaN
+    "Fazenda": null,
+    "Unnamed: 20": null
   },
   {
     "ID": "3468190",
@@ -46748,7 +48876,8 @@ const VIABILIDADE_GEMAS_DATA = [
     "Quantidade de Gemas Total": "60",
     "Quantidade de Gemas Viáveis": "60",
     "Quantidade de Gemas Inviáveis": "0",
-    "Fazenda": NaN
+    "Fazenda": null,
+    "Unnamed: 20": null
   },
   {
     "ID": "3468109",
@@ -46770,7 +48899,8 @@ const VIABILIDADE_GEMAS_DATA = [
     "Quantidade de Gemas Total": "60",
     "Quantidade de Gemas Viáveis": "60",
     "Quantidade de Gemas Inviáveis": "0",
-    "Fazenda": NaN
+    "Fazenda": null,
+    "Unnamed: 20": null
   },
   {
     "ID": "3468010",
@@ -46792,7 +48922,8 @@ const VIABILIDADE_GEMAS_DATA = [
     "Quantidade de Gemas Total": "87",
     "Quantidade de Gemas Viáveis": "87",
     "Quantidade de Gemas Inviáveis": "0",
-    "Fazenda": NaN
+    "Fazenda": null,
+    "Unnamed: 20": null
   },
   {
     "ID": "3468074",
@@ -46814,7 +48945,8 @@ const VIABILIDADE_GEMAS_DATA = [
     "Quantidade de Gemas Total": "60",
     "Quantidade de Gemas Viáveis": "60",
     "Quantidade de Gemas Inviáveis": "0",
-    "Fazenda": NaN
+    "Fazenda": null,
+    "Unnamed: 20": null
   },
   {
     "ID": "3468042",
@@ -46836,7 +48968,8 @@ const VIABILIDADE_GEMAS_DATA = [
     "Quantidade de Gemas Total": "56",
     "Quantidade de Gemas Viáveis": "56",
     "Quantidade de Gemas Inviáveis": "0",
-    "Fazenda": NaN
+    "Fazenda": null,
+    "Unnamed: 20": null
   },
   {
     "ID": "3468005",
@@ -46858,7 +48991,8 @@ const VIABILIDADE_GEMAS_DATA = [
     "Quantidade de Gemas Total": "98",
     "Quantidade de Gemas Viáveis": "96",
     "Quantidade de Gemas Inviáveis": "2",
-    "Fazenda": NaN
+    "Fazenda": null,
+    "Unnamed: 20": null
   },
   {
     "ID": "3468034",
@@ -46880,7 +49014,8 @@ const VIABILIDADE_GEMAS_DATA = [
     "Quantidade de Gemas Total": "58",
     "Quantidade de Gemas Viáveis": "58",
     "Quantidade de Gemas Inviáveis": "0",
-    "Fazenda": NaN
+    "Fazenda": null,
+    "Unnamed: 20": null
   },
   {
     "ID": "3468027",
@@ -46902,7 +49037,8 @@ const VIABILIDADE_GEMAS_DATA = [
     "Quantidade de Gemas Total": "56",
     "Quantidade de Gemas Viáveis": "56",
     "Quantidade de Gemas Inviáveis": "0",
-    "Fazenda": NaN
+    "Fazenda": null,
+    "Unnamed: 20": null
   },
   {
     "ID": "3467733",
@@ -46924,7 +49060,8 @@ const VIABILIDADE_GEMAS_DATA = [
     "Quantidade de Gemas Total": "60",
     "Quantidade de Gemas Viáveis": "60",
     "Quantidade de Gemas Inviáveis": "0",
-    "Fazenda": NaN
+    "Fazenda": null,
+    "Unnamed: 20": null
   },
   {
     "ID": "3467728",
@@ -46946,7 +49083,8 @@ const VIABILIDADE_GEMAS_DATA = [
     "Quantidade de Gemas Total": "60",
     "Quantidade de Gemas Viáveis": "60",
     "Quantidade de Gemas Inviáveis": "0",
-    "Fazenda": NaN
+    "Fazenda": null,
+    "Unnamed: 20": null
   },
   {
     "ID": "3467723",
@@ -46968,7 +49106,8 @@ const VIABILIDADE_GEMAS_DATA = [
     "Quantidade de Gemas Total": "56",
     "Quantidade de Gemas Viáveis": "56",
     "Quantidade de Gemas Inviáveis": "0",
-    "Fazenda": NaN
+    "Fazenda": null,
+    "Unnamed: 20": null
   },
   {
     "ID": "3468128",
@@ -46990,7 +49129,8 @@ const VIABILIDADE_GEMAS_DATA = [
     "Quantidade de Gemas Total": "57",
     "Quantidade de Gemas Viáveis": "51",
     "Quantidade de Gemas Inviáveis": "6",
-    "Fazenda": NaN
+    "Fazenda": null,
+    "Unnamed: 20": null
   },
   {
     "ID": "3467662",
@@ -47012,7 +49152,8 @@ const VIABILIDADE_GEMAS_DATA = [
     "Quantidade de Gemas Total": "73",
     "Quantidade de Gemas Viáveis": "73",
     "Quantidade de Gemas Inviáveis": "0",
-    "Fazenda": NaN
+    "Fazenda": null,
+    "Unnamed: 20": null
   },
   {
     "ID": "3467606",
@@ -47034,7 +49175,8 @@ const VIABILIDADE_GEMAS_DATA = [
     "Quantidade de Gemas Total": "54",
     "Quantidade de Gemas Viáveis": "54",
     "Quantidade de Gemas Inviáveis": "0",
-    "Fazenda": NaN
+    "Fazenda": null,
+    "Unnamed: 20": null
   },
   {
     "ID": "3468124",
@@ -47056,7 +49198,8 @@ const VIABILIDADE_GEMAS_DATA = [
     "Quantidade de Gemas Total": "55",
     "Quantidade de Gemas Viáveis": "53",
     "Quantidade de Gemas Inviáveis": "2",
-    "Fazenda": NaN
+    "Fazenda": null,
+    "Unnamed: 20": null
   },
   {
     "ID": "3468119",
@@ -47078,7 +49221,8 @@ const VIABILIDADE_GEMAS_DATA = [
     "Quantidade de Gemas Total": "56",
     "Quantidade de Gemas Viáveis": "52",
     "Quantidade de Gemas Inviáveis": "4",
-    "Fazenda": NaN
+    "Fazenda": null,
+    "Unnamed: 20": null
   },
   {
     "ID": "3467601",
@@ -47100,7 +49244,8 @@ const VIABILIDADE_GEMAS_DATA = [
     "Quantidade de Gemas Total": "55",
     "Quantidade de Gemas Viáveis": "55",
     "Quantidade de Gemas Inviáveis": "0",
-    "Fazenda": NaN
+    "Fazenda": null,
+    "Unnamed: 20": null
   },
   {
     "ID": "3468171",
@@ -47122,7 +49267,8 @@ const VIABILIDADE_GEMAS_DATA = [
     "Quantidade de Gemas Total": "59",
     "Quantidade de Gemas Viáveis": "55",
     "Quantidade de Gemas Inviáveis": "4",
-    "Fazenda": NaN
+    "Fazenda": null,
+    "Unnamed: 20": null
   },
   {
     "ID": "3468115",
@@ -47144,7 +49290,8 @@ const VIABILIDADE_GEMAS_DATA = [
     "Quantidade de Gemas Total": "48",
     "Quantidade de Gemas Viáveis": "48",
     "Quantidade de Gemas Inviáveis": "0",
-    "Fazenda": NaN
+    "Fazenda": null,
+    "Unnamed: 20": null
   },
   {
     "ID": "3467596",
@@ -47166,7 +49313,8 @@ const VIABILIDADE_GEMAS_DATA = [
     "Quantidade de Gemas Total": "48",
     "Quantidade de Gemas Viáveis": "48",
     "Quantidade de Gemas Inviáveis": "0",
-    "Fazenda": NaN
+    "Fazenda": null,
+    "Unnamed: 20": null
   },
   {
     "ID": "3468166",
@@ -47188,7 +49336,8 @@ const VIABILIDADE_GEMAS_DATA = [
     "Quantidade de Gemas Total": "60",
     "Quantidade de Gemas Viáveis": "55",
     "Quantidade de Gemas Inviáveis": "5",
-    "Fazenda": NaN
+    "Fazenda": null,
+    "Unnamed: 20": null
   },
   {
     "ID": "3468108",
@@ -47210,7 +49359,8 @@ const VIABILIDADE_GEMAS_DATA = [
     "Quantidade de Gemas Total": "57",
     "Quantidade de Gemas Viáveis": "53",
     "Quantidade de Gemas Inviáveis": "4",
-    "Fazenda": NaN
+    "Fazenda": null,
+    "Unnamed: 20": null
   },
   {
     "ID": "3468063",
@@ -47232,7 +49382,8 @@ const VIABILIDADE_GEMAS_DATA = [
     "Quantidade de Gemas Total": "51",
     "Quantidade de Gemas Viáveis": "51",
     "Quantidade de Gemas Inviáveis": "0",
-    "Fazenda": NaN
+    "Fazenda": null,
+    "Unnamed: 20": null
   },
   {
     "ID": "3468162",
@@ -47254,7 +49405,8 @@ const VIABILIDADE_GEMAS_DATA = [
     "Quantidade de Gemas Total": "59",
     "Quantidade de Gemas Viáveis": "54",
     "Quantidade de Gemas Inviáveis": "5",
-    "Fazenda": NaN
+    "Fazenda": null,
+    "Unnamed: 20": null
   },
   {
     "ID": "3468103",
@@ -47276,7 +49428,8 @@ const VIABILIDADE_GEMAS_DATA = [
     "Quantidade de Gemas Total": "56",
     "Quantidade de Gemas Viáveis": "54",
     "Quantidade de Gemas Inviáveis": "2",
-    "Fazenda": NaN
+    "Fazenda": null,
+    "Unnamed: 20": null
   },
   {
     "ID": "3468158",
@@ -47298,7 +49451,8 @@ const VIABILIDADE_GEMAS_DATA = [
     "Quantidade de Gemas Total": "60",
     "Quantidade de Gemas Viáveis": "60",
     "Quantidade de Gemas Inviáveis": "0",
-    "Fazenda": NaN
+    "Fazenda": null,
+    "Unnamed: 20": null
   },
   {
     "ID": "3468054",
@@ -47320,7 +49474,8 @@ const VIABILIDADE_GEMAS_DATA = [
     "Quantidade de Gemas Total": "52",
     "Quantidade de Gemas Viáveis": "52",
     "Quantidade de Gemas Inviáveis": "0",
-    "Fazenda": NaN
+    "Fazenda": null,
+    "Unnamed: 20": null
   },
   {
     "ID": "3467707",
@@ -47342,7 +49497,8 @@ const VIABILIDADE_GEMAS_DATA = [
     "Quantidade de Gemas Total": "60",
     "Quantidade de Gemas Viáveis": "60",
     "Quantidade de Gemas Inviáveis": "0",
-    "Fazenda": NaN
+    "Fazenda": null,
+    "Unnamed: 20": null
   },
   {
     "ID": "3468052",
@@ -47364,7 +49520,8 @@ const VIABILIDADE_GEMAS_DATA = [
     "Quantidade de Gemas Total": "48",
     "Quantidade de Gemas Viáveis": "48",
     "Quantidade de Gemas Inviáveis": "0",
-    "Fazenda": NaN
+    "Fazenda": null,
+    "Unnamed: 20": null
   },
   {
     "ID": "3467592",
@@ -47386,7 +49543,8 @@ const VIABILIDADE_GEMAS_DATA = [
     "Quantidade de Gemas Total": "64",
     "Quantidade de Gemas Viáveis": "61",
     "Quantidade de Gemas Inviáveis": "3",
-    "Fazenda": NaN
+    "Fazenda": null,
+    "Unnamed: 20": null
   },
   {
     "ID": "3467656",
@@ -47408,7 +49566,8 @@ const VIABILIDADE_GEMAS_DATA = [
     "Quantidade de Gemas Total": "72",
     "Quantidade de Gemas Viáveis": "71",
     "Quantidade de Gemas Inviáveis": "1",
-    "Fazenda": NaN
+    "Fazenda": null,
+    "Unnamed: 20": null
   },
   {
     "ID": "3468154",
@@ -47430,7 +49589,8 @@ const VIABILIDADE_GEMAS_DATA = [
     "Quantidade de Gemas Total": "59",
     "Quantidade de Gemas Viáveis": "59",
     "Quantidade de Gemas Inviáveis": "0",
-    "Fazenda": NaN
+    "Fazenda": null,
+    "Unnamed: 20": null
   },
   {
     "ID": "3467755",
@@ -47452,7 +49612,8 @@ const VIABILIDADE_GEMAS_DATA = [
     "Quantidade de Gemas Total": "54",
     "Quantidade de Gemas Viáveis": "54",
     "Quantidade de Gemas Inviáveis": "0",
-    "Fazenda": NaN
+    "Fazenda": null,
+    "Unnamed: 20": null
   },
   {
     "ID": "3468047",
@@ -47474,7 +49635,8 @@ const VIABILIDADE_GEMAS_DATA = [
     "Quantidade de Gemas Total": "50",
     "Quantidade de Gemas Viáveis": "48",
     "Quantidade de Gemas Inviáveis": "2",
-    "Fazenda": NaN
+    "Fazenda": null,
+    "Unnamed: 20": null
   },
   {
     "ID": "3467580",
@@ -47496,7 +49658,8 @@ const VIABILIDADE_GEMAS_DATA = [
     "Quantidade de Gemas Total": "62",
     "Quantidade de Gemas Viáveis": "62",
     "Quantidade de Gemas Inviáveis": "0",
-    "Fazenda": NaN
+    "Fazenda": null,
+    "Unnamed: 20": null
   },
   {
     "ID": "3467749",
@@ -47518,7 +49681,8 @@ const VIABILIDADE_GEMAS_DATA = [
     "Quantidade de Gemas Total": "60",
     "Quantidade de Gemas Viáveis": "60",
     "Quantidade de Gemas Inviáveis": "0",
-    "Fazenda": NaN
+    "Fazenda": null,
+    "Unnamed: 20": null
   },
   {
     "ID": "3468043",
@@ -47540,7 +49704,8 @@ const VIABILIDADE_GEMAS_DATA = [
     "Quantidade de Gemas Total": "51",
     "Quantidade de Gemas Viáveis": "51",
     "Quantidade de Gemas Inviáveis": "0",
-    "Fazenda": NaN
+    "Fazenda": null,
+    "Unnamed: 20": null
   },
   {
     "ID": "3467748",
@@ -47562,7 +49727,8 @@ const VIABILIDADE_GEMAS_DATA = [
     "Quantidade de Gemas Total": "58",
     "Quantidade de Gemas Viáveis": "58",
     "Quantidade de Gemas Inviáveis": "0",
-    "Fazenda": NaN
+    "Fazenda": null,
+    "Unnamed: 20": null
   },
   {
     "ID": "3467573",
@@ -47584,7 +49750,8 @@ const VIABILIDADE_GEMAS_DATA = [
     "Quantidade de Gemas Total": "57",
     "Quantidade de Gemas Viáveis": "57",
     "Quantidade de Gemas Inviáveis": "0",
-    "Fazenda": NaN
+    "Fazenda": null,
+    "Unnamed: 20": null
   },
   {
     "ID": "3467649",
@@ -47606,7 +49773,8 @@ const VIABILIDADE_GEMAS_DATA = [
     "Quantidade de Gemas Total": "78",
     "Quantidade de Gemas Viáveis": "78",
     "Quantidade de Gemas Inviáveis": "0",
-    "Fazenda": NaN
+    "Fazenda": null,
+    "Unnamed: 20": null
   },
   {
     "ID": "3467676",
@@ -47628,7 +49796,8 @@ const VIABILIDADE_GEMAS_DATA = [
     "Quantidade de Gemas Total": "55",
     "Quantidade de Gemas Viáveis": "55",
     "Quantidade de Gemas Inviáveis": "0",
-    "Fazenda": NaN
+    "Fazenda": null,
+    "Unnamed: 20": null
   },
   {
     "ID": "3467570",
@@ -47650,7 +49819,8 @@ const VIABILIDADE_GEMAS_DATA = [
     "Quantidade de Gemas Total": "58",
     "Quantidade de Gemas Viáveis": "58",
     "Quantidade de Gemas Inviáveis": "0",
-    "Fazenda": NaN
+    "Fazenda": null,
+    "Unnamed: 20": null
   },
   {
     "ID": "3467565",
@@ -47672,7 +49842,8 @@ const VIABILIDADE_GEMAS_DATA = [
     "Quantidade de Gemas Total": "60",
     "Quantidade de Gemas Viáveis": "60",
     "Quantidade de Gemas Inviáveis": "0",
-    "Fazenda": NaN
+    "Fazenda": null,
+    "Unnamed: 20": null
   },
   {
     "ID": "3466075",
@@ -47694,7 +49865,8 @@ const VIABILIDADE_GEMAS_DATA = [
     "Quantidade de Gemas Total": "55",
     "Quantidade de Gemas Viáveis": "55",
     "Quantidade de Gemas Inviáveis": "0",
-    "Fazenda": NaN
+    "Fazenda": null,
+    "Unnamed: 20": null
   },
   {
     "ID": "3466068",
@@ -47716,7 +49888,8 @@ const VIABILIDADE_GEMAS_DATA = [
     "Quantidade de Gemas Total": "55",
     "Quantidade de Gemas Viáveis": "55",
     "Quantidade de Gemas Inviáveis": "0",
-    "Fazenda": NaN
+    "Fazenda": null,
+    "Unnamed: 20": null
   },
   {
     "ID": "3465976",
@@ -47738,7 +49911,8 @@ const VIABILIDADE_GEMAS_DATA = [
     "Quantidade de Gemas Total": "75",
     "Quantidade de Gemas Viáveis": "75",
     "Quantidade de Gemas Inviáveis": "0",
-    "Fazenda": NaN
+    "Fazenda": null,
+    "Unnamed: 20": null
   },
   {
     "ID": "3466060",
@@ -47760,7 +49934,8 @@ const VIABILIDADE_GEMAS_DATA = [
     "Quantidade de Gemas Total": "58",
     "Quantidade de Gemas Viáveis": "58",
     "Quantidade de Gemas Inviáveis": "0",
-    "Fazenda": NaN
+    "Fazenda": null,
+    "Unnamed: 20": null
   },
   {
     "ID": "3466055",
@@ -47782,7 +49957,8 @@ const VIABILIDADE_GEMAS_DATA = [
     "Quantidade de Gemas Total": "54",
     "Quantidade de Gemas Viáveis": "54",
     "Quantidade de Gemas Inviáveis": "0",
-    "Fazenda": NaN
+    "Fazenda": null,
+    "Unnamed: 20": null
   },
   {
     "ID": "3465970",
@@ -47804,7 +49980,8 @@ const VIABILIDADE_GEMAS_DATA = [
     "Quantidade de Gemas Total": "68",
     "Quantidade de Gemas Viáveis": "68",
     "Quantidade de Gemas Inviáveis": "0",
-    "Fazenda": NaN
+    "Fazenda": null,
+    "Unnamed: 20": null
   },
   {
     "ID": "3466049",
@@ -47826,7 +50003,8 @@ const VIABILIDADE_GEMAS_DATA = [
     "Quantidade de Gemas Total": "55",
     "Quantidade de Gemas Viáveis": "55",
     "Quantidade de Gemas Inviáveis": "0",
-    "Fazenda": NaN
+    "Fazenda": null,
+    "Unnamed: 20": null
   },
   {
     "ID": "3466093",
@@ -47848,7 +50026,8 @@ const VIABILIDADE_GEMAS_DATA = [
     "Quantidade de Gemas Total": "58",
     "Quantidade de Gemas Viáveis": "58",
     "Quantidade de Gemas Inviáveis": "0",
-    "Fazenda": NaN
+    "Fazenda": null,
+    "Unnamed: 20": null
   },
   {
     "ID": "3466007",
@@ -47870,7 +50049,8 @@ const VIABILIDADE_GEMAS_DATA = [
     "Quantidade de Gemas Total": "55",
     "Quantidade de Gemas Viáveis": "55",
     "Quantidade de Gemas Inviáveis": "0",
-    "Fazenda": NaN
+    "Fazenda": null,
+    "Unnamed: 20": null
   },
   {
     "ID": "3465818",
@@ -47892,7 +50072,8 @@ const VIABILIDADE_GEMAS_DATA = [
     "Quantidade de Gemas Total": "51",
     "Quantidade de Gemas Viáveis": "49",
     "Quantidade de Gemas Inviáveis": "2",
-    "Fazenda": NaN
+    "Fazenda": null,
+    "Unnamed: 20": null
   },
   {
     "ID": "3465817",
@@ -47914,7 +50095,8 @@ const VIABILIDADE_GEMAS_DATA = [
     "Quantidade de Gemas Total": "54",
     "Quantidade de Gemas Viáveis": "54",
     "Quantidade de Gemas Inviáveis": "0",
-    "Fazenda": NaN
+    "Fazenda": null,
+    "Unnamed: 20": null
   },
   {
     "ID": "3465816",
@@ -47936,7 +50118,8 @@ const VIABILIDADE_GEMAS_DATA = [
     "Quantidade de Gemas Total": "49",
     "Quantidade de Gemas Viáveis": "49",
     "Quantidade de Gemas Inviáveis": "0",
-    "Fazenda": NaN
+    "Fazenda": null,
+    "Unnamed: 20": null
   },
   {
     "ID": "3465815",
@@ -47958,7 +50141,8 @@ const VIABILIDADE_GEMAS_DATA = [
     "Quantidade de Gemas Total": "51",
     "Quantidade de Gemas Viáveis": "51",
     "Quantidade de Gemas Inviáveis": "0",
-    "Fazenda": NaN
+    "Fazenda": null,
+    "Unnamed: 20": null
   },
   {
     "ID": "3465814",
@@ -47980,7 +50164,8 @@ const VIABILIDADE_GEMAS_DATA = [
     "Quantidade de Gemas Total": "53",
     "Quantidade de Gemas Viáveis": "53",
     "Quantidade de Gemas Inviáveis": "0",
-    "Fazenda": NaN
+    "Fazenda": null,
+    "Unnamed: 20": null
   },
   {
     "ID": "3465559",
@@ -48002,7 +50187,8 @@ const VIABILIDADE_GEMAS_DATA = [
     "Quantidade de Gemas Total": "55",
     "Quantidade de Gemas Viáveis": "55",
     "Quantidade de Gemas Inviáveis": "0",
-    "Fazenda": NaN
+    "Fazenda": null,
+    "Unnamed: 20": null
   },
   {
     "ID": "3469390",
@@ -48024,7 +50210,8 @@ const VIABILIDADE_GEMAS_DATA = [
     "Quantidade de Gemas Total": "60",
     "Quantidade de Gemas Viáveis": "55",
     "Quantidade de Gemas Inviáveis": "5",
-    "Fazenda": NaN
+    "Fazenda": null,
+    "Unnamed: 20": null
   },
   {
     "ID": "3465554",
@@ -48046,7 +50233,8 @@ const VIABILIDADE_GEMAS_DATA = [
     "Quantidade de Gemas Total": "60",
     "Quantidade de Gemas Viáveis": "60",
     "Quantidade de Gemas Inviáveis": "0",
-    "Fazenda": NaN
+    "Fazenda": null,
+    "Unnamed: 20": null
   },
   {
     "ID": "3465684",
@@ -48068,7 +50256,8 @@ const VIABILIDADE_GEMAS_DATA = [
     "Quantidade de Gemas Total": "54",
     "Quantidade de Gemas Viáveis": "51",
     "Quantidade de Gemas Inviáveis": "3",
-    "Fazenda": NaN
+    "Fazenda": null,
+    "Unnamed: 20": null
   },
   {
     "ID": "3466703",
@@ -48090,7 +50279,8 @@ const VIABILIDADE_GEMAS_DATA = [
     "Quantidade de Gemas Total": "63",
     "Quantidade de Gemas Viáveis": "63",
     "Quantidade de Gemas Inviáveis": "0",
-    "Fazenda": NaN
+    "Fazenda": null,
+    "Unnamed: 20": null
   },
   {
     "ID": "3465549",
@@ -48112,7 +50302,8 @@ const VIABILIDADE_GEMAS_DATA = [
     "Quantidade de Gemas Total": "54",
     "Quantidade de Gemas Viáveis": "54",
     "Quantidade de Gemas Inviáveis": "0",
-    "Fazenda": NaN
+    "Fazenda": null,
+    "Unnamed: 20": null
   },
   {
     "ID": "3466697",
@@ -48134,7 +50325,8 @@ const VIABILIDADE_GEMAS_DATA = [
     "Quantidade de Gemas Total": "61",
     "Quantidade de Gemas Viáveis": "60",
     "Quantidade de Gemas Inviáveis": "1",
-    "Fazenda": NaN
+    "Fazenda": null,
+    "Unnamed: 20": null
   },
   {
     "ID": "3469385",
@@ -48156,7 +50348,8 @@ const VIABILIDADE_GEMAS_DATA = [
     "Quantidade de Gemas Total": "59",
     "Quantidade de Gemas Viáveis": "59",
     "Quantidade de Gemas Inviáveis": "0",
-    "Fazenda": NaN
+    "Fazenda": null,
+    "Unnamed: 20": null
   },
   {
     "ID": "3465680",
@@ -48178,7 +50371,8 @@ const VIABILIDADE_GEMAS_DATA = [
     "Quantidade de Gemas Total": "50",
     "Quantidade de Gemas Viáveis": "50",
     "Quantidade de Gemas Inviáveis": "0",
-    "Fazenda": NaN
+    "Fazenda": null,
+    "Unnamed: 20": null
   },
   {
     "ID": "3466691",
@@ -48200,7 +50394,8 @@ const VIABILIDADE_GEMAS_DATA = [
     "Quantidade de Gemas Total": "66",
     "Quantidade de Gemas Viáveis": "61",
     "Quantidade de Gemas Inviáveis": "5",
-    "Fazenda": NaN
+    "Fazenda": null,
+    "Unnamed: 20": null
   },
   {
     "ID": "3469380",
@@ -48222,7 +50417,8 @@ const VIABILIDADE_GEMAS_DATA = [
     "Quantidade de Gemas Total": "60",
     "Quantidade de Gemas Viáveis": "56",
     "Quantidade de Gemas Inviáveis": "4",
-    "Fazenda": NaN
+    "Fazenda": null,
+    "Unnamed: 20": null
   },
   {
     "ID": "3465676",
@@ -48244,7 +50440,8 @@ const VIABILIDADE_GEMAS_DATA = [
     "Quantidade de Gemas Total": "53",
     "Quantidade de Gemas Viáveis": "53",
     "Quantidade de Gemas Inviáveis": "0",
-    "Fazenda": NaN
+    "Fazenda": null,
+    "Unnamed: 20": null
   },
   {
     "ID": "3466685",
@@ -48266,7 +50463,8 @@ const VIABILIDADE_GEMAS_DATA = [
     "Quantidade de Gemas Total": "64",
     "Quantidade de Gemas Viáveis": "60",
     "Quantidade de Gemas Inviáveis": "4",
-    "Fazenda": NaN
+    "Fazenda": null,
+    "Unnamed: 20": null
   },
   {
     "ID": "3469375",
@@ -48288,7 +50486,8 @@ const VIABILIDADE_GEMAS_DATA = [
     "Quantidade de Gemas Total": "60",
     "Quantidade de Gemas Viáveis": "55",
     "Quantidade de Gemas Inviáveis": "5",
-    "Fazenda": NaN
+    "Fazenda": null,
+    "Unnamed: 20": null
   },
   {
     "ID": "3465617",
@@ -48310,7 +50509,8 @@ const VIABILIDADE_GEMAS_DATA = [
     "Quantidade de Gemas Total": "51",
     "Quantidade de Gemas Viáveis": "51",
     "Quantidade de Gemas Inviáveis": "0",
-    "Fazenda": NaN
+    "Fazenda": null,
+    "Unnamed: 20": null
   },
   {
     "ID": "3465519",
@@ -48332,7 +50532,8 @@ const VIABILIDADE_GEMAS_DATA = [
     "Quantidade de Gemas Total": "84",
     "Quantidade de Gemas Viáveis": "84",
     "Quantidade de Gemas Inviáveis": "0",
-    "Fazenda": NaN
+    "Fazenda": null,
+    "Unnamed: 20": null
   },
   {
     "ID": "3469371",
@@ -48354,7 +50555,8 @@ const VIABILIDADE_GEMAS_DATA = [
     "Quantidade de Gemas Total": "60",
     "Quantidade de Gemas Viáveis": "60",
     "Quantidade de Gemas Inviáveis": "0",
-    "Fazenda": NaN
+    "Fazenda": null,
+    "Unnamed: 20": null
   },
   {
     "ID": "3465613",
@@ -48376,7 +50578,8 @@ const VIABILIDADE_GEMAS_DATA = [
     "Quantidade de Gemas Total": "56",
     "Quantidade de Gemas Viáveis": "54",
     "Quantidade de Gemas Inviáveis": "2",
-    "Fazenda": NaN
+    "Fazenda": null,
+    "Unnamed: 20": null
   },
   {
     "ID": "3465514",
@@ -48398,7 +50601,8 @@ const VIABILIDADE_GEMAS_DATA = [
     "Quantidade de Gemas Total": "87",
     "Quantidade de Gemas Viáveis": "87",
     "Quantidade de Gemas Inviáveis": "0",
-    "Fazenda": NaN
+    "Fazenda": null,
+    "Unnamed: 20": null
   },
   {
     "ID": "3465502",
@@ -48420,7 +50624,8 @@ const VIABILIDADE_GEMAS_DATA = [
     "Quantidade de Gemas Total": "98",
     "Quantidade de Gemas Viáveis": "98",
     "Quantidade de Gemas Inviáveis": "0",
-    "Fazenda": NaN
+    "Fazenda": null,
+    "Unnamed: 20": null
   },
   {
     "ID": "3463864",
@@ -48442,7 +50647,8 @@ const VIABILIDADE_GEMAS_DATA = [
     "Quantidade de Gemas Total": "58",
     "Quantidade de Gemas Viáveis": "58",
     "Quantidade de Gemas Inviáveis": "0",
-    "Fazenda": NaN
+    "Fazenda": null,
+    "Unnamed: 20": null
   },
   {
     "ID": "3463858",
@@ -48464,7 +50670,8 @@ const VIABILIDADE_GEMAS_DATA = [
     "Quantidade de Gemas Total": "58",
     "Quantidade de Gemas Viáveis": "58",
     "Quantidade de Gemas Inviáveis": "0",
-    "Fazenda": NaN
+    "Fazenda": null,
+    "Unnamed: 20": null
   },
   {
     "ID": "3463831",
@@ -48486,7 +50693,8 @@ const VIABILIDADE_GEMAS_DATA = [
     "Quantidade de Gemas Total": "53",
     "Quantidade de Gemas Viáveis": "53",
     "Quantidade de Gemas Inviáveis": "0",
-    "Fazenda": NaN
+    "Fazenda": null,
+    "Unnamed: 20": null
   },
   {
     "ID": "3463823",
@@ -48508,7 +50716,8 @@ const VIABILIDADE_GEMAS_DATA = [
     "Quantidade de Gemas Total": "56",
     "Quantidade de Gemas Viáveis": "56",
     "Quantidade de Gemas Inviáveis": "0",
-    "Fazenda": NaN
+    "Fazenda": null,
+    "Unnamed: 20": null
   },
   {
     "ID": "3463767",
@@ -48530,7 +50739,8 @@ const VIABILIDADE_GEMAS_DATA = [
     "Quantidade de Gemas Total": "57",
     "Quantidade de Gemas Viáveis": "52",
     "Quantidade de Gemas Inviáveis": "5",
-    "Fazenda": NaN
+    "Fazenda": null,
+    "Unnamed: 20": null
   },
   {
     "ID": "3464590",
@@ -48552,7 +50762,8 @@ const VIABILIDADE_GEMAS_DATA = [
     "Quantidade de Gemas Total": "55",
     "Quantidade de Gemas Viáveis": "55",
     "Quantidade de Gemas Inviáveis": "0",
-    "Fazenda": NaN
+    "Fazenda": null,
+    "Unnamed: 20": null
   },
   {
     "ID": "3463762",
@@ -48574,7 +50785,8 @@ const VIABILIDADE_GEMAS_DATA = [
     "Quantidade de Gemas Total": "60",
     "Quantidade de Gemas Viáveis": "55",
     "Quantidade de Gemas Inviáveis": "5",
-    "Fazenda": NaN
+    "Fazenda": null,
+    "Unnamed: 20": null
   },
   {
     "ID": "3464585",
@@ -48596,7 +50808,8 @@ const VIABILIDADE_GEMAS_DATA = [
     "Quantidade de Gemas Total": "60",
     "Quantidade de Gemas Viáveis": "60",
     "Quantidade de Gemas Inviáveis": "0",
-    "Fazenda": NaN
+    "Fazenda": null,
+    "Unnamed: 20": null
   },
   {
     "ID": "3463756",
@@ -48618,7 +50831,8 @@ const VIABILIDADE_GEMAS_DATA = [
     "Quantidade de Gemas Total": "59",
     "Quantidade de Gemas Viáveis": "59",
     "Quantidade de Gemas Inviáveis": "0",
-    "Fazenda": NaN
+    "Fazenda": null,
+    "Unnamed: 20": null
   },
   {
     "ID": "3463747",
@@ -48640,7 +50854,8 @@ const VIABILIDADE_GEMAS_DATA = [
     "Quantidade de Gemas Total": "59",
     "Quantidade de Gemas Viáveis": "59",
     "Quantidade de Gemas Inviáveis": "0",
-    "Fazenda": NaN
+    "Fazenda": null,
+    "Unnamed: 20": null
   },
   {
     "ID": "3463742",
@@ -48662,7 +50877,8 @@ const VIABILIDADE_GEMAS_DATA = [
     "Quantidade de Gemas Total": "60",
     "Quantidade de Gemas Viáveis": "55",
     "Quantidade de Gemas Inviáveis": "5",
-    "Fazenda": NaN
+    "Fazenda": null,
+    "Unnamed: 20": null
   },
   {
     "ID": "3463847",
@@ -48684,7 +50900,8 @@ const VIABILIDADE_GEMAS_DATA = [
     "Quantidade de Gemas Total": "82",
     "Quantidade de Gemas Viáveis": "89",
     "Quantidade de Gemas Inviáveis": "3",
-    "Fazenda": NaN
+    "Fazenda": null,
+    "Unnamed: 20": null
   },
   {
     "ID": "3463737",
@@ -48706,7 +50923,8 @@ const VIABILIDADE_GEMAS_DATA = [
     "Quantidade de Gemas Total": "59",
     "Quantidade de Gemas Viáveis": "55",
     "Quantidade de Gemas Inviáveis": "4",
-    "Fazenda": NaN
+    "Fazenda": null,
+    "Unnamed: 20": null
   },
   {
     "ID": "3463843",
@@ -48728,7 +50946,8 @@ const VIABILIDADE_GEMAS_DATA = [
     "Quantidade de Gemas Total": "98",
     "Quantidade de Gemas Viáveis": "95",
     "Quantidade de Gemas Inviáveis": "3",
-    "Fazenda": NaN
+    "Fazenda": null,
+    "Unnamed: 20": null
   },
   {
     "ID": "3463731",
@@ -48750,7 +50969,8 @@ const VIABILIDADE_GEMAS_DATA = [
     "Quantidade de Gemas Total": "55",
     "Quantidade de Gemas Viáveis": "55",
     "Quantidade de Gemas Inviáveis": "0",
-    "Fazenda": NaN
+    "Fazenda": null,
+    "Unnamed: 20": null
   },
   {
     "ID": "3463686",
@@ -48772,7 +50992,8 @@ const VIABILIDADE_GEMAS_DATA = [
     "Quantidade de Gemas Total": "50",
     "Quantidade de Gemas Viáveis": "50",
     "Quantidade de Gemas Inviáveis": "0",
-    "Fazenda": NaN
+    "Fazenda": null,
+    "Unnamed: 20": null
   },
   {
     "ID": "3463338",
@@ -48794,7 +51015,8 @@ const VIABILIDADE_GEMAS_DATA = [
     "Quantidade de Gemas Total": "60",
     "Quantidade de Gemas Viáveis": "58",
     "Quantidade de Gemas Inviáveis": "2",
-    "Fazenda": NaN
+    "Fazenda": null,
+    "Unnamed: 20": null
   },
   {
     "ID": "3463332",
@@ -48816,7 +51038,8 @@ const VIABILIDADE_GEMAS_DATA = [
     "Quantidade de Gemas Total": "52",
     "Quantidade de Gemas Viáveis": "51",
     "Quantidade de Gemas Inviáveis": "1",
-    "Fazenda": NaN
+    "Fazenda": null,
+    "Unnamed: 20": null
   },
   {
     "ID": "3463326",
@@ -48838,7 +51061,8 @@ const VIABILIDADE_GEMAS_DATA = [
     "Quantidade de Gemas Total": "50",
     "Quantidade de Gemas Viáveis": "50",
     "Quantidade de Gemas Inviáveis": "0",
-    "Fazenda": NaN
+    "Fazenda": null,
+    "Unnamed: 20": null
   },
   {
     "ID": "3461784",
@@ -48860,7 +51084,8 @@ const VIABILIDADE_GEMAS_DATA = [
     "Quantidade de Gemas Total": "60",
     "Quantidade de Gemas Viáveis": "60",
     "Quantidade de Gemas Inviáveis": "0",
-    "Fazenda": NaN
+    "Fazenda": null,
+    "Unnamed: 20": null
   },
   {
     "ID": "3461772",
@@ -48882,7 +51107,8 @@ const VIABILIDADE_GEMAS_DATA = [
     "Quantidade de Gemas Total": "55",
     "Quantidade de Gemas Viáveis": "55",
     "Quantidade de Gemas Inviáveis": "0",
-    "Fazenda": NaN
+    "Fazenda": null,
+    "Unnamed: 20": null
   },
   {
     "ID": "3461769",
@@ -48904,7 +51130,8 @@ const VIABILIDADE_GEMAS_DATA = [
     "Quantidade de Gemas Total": "58",
     "Quantidade de Gemas Viáveis": "58",
     "Quantidade de Gemas Inviáveis": "0",
-    "Fazenda": NaN
+    "Fazenda": null,
+    "Unnamed: 20": null
   },
   {
     "ID": "3461634",
@@ -48926,7 +51153,8 @@ const VIABILIDADE_GEMAS_DATA = [
     "Quantidade de Gemas Total": "58",
     "Quantidade de Gemas Viáveis": "58",
     "Quantidade de Gemas Inviáveis": "0",
-    "Fazenda": NaN
+    "Fazenda": null,
+    "Unnamed: 20": null
   },
   {
     "ID": "3461623",
@@ -48948,7 +51176,8 @@ const VIABILIDADE_GEMAS_DATA = [
     "Quantidade de Gemas Total": "55",
     "Quantidade de Gemas Viáveis": "55",
     "Quantidade de Gemas Inviáveis": "0",
-    "Fazenda": NaN
+    "Fazenda": null,
+    "Unnamed: 20": null
   },
   {
     "ID": "3461613",
@@ -48970,7 +51199,8 @@ const VIABILIDADE_GEMAS_DATA = [
     "Quantidade de Gemas Total": "60",
     "Quantidade de Gemas Viáveis": "60",
     "Quantidade de Gemas Inviáveis": "0",
-    "Fazenda": NaN
+    "Fazenda": null,
+    "Unnamed: 20": null
   },
   {
     "ID": "3461600",
@@ -48992,7 +51222,8 @@ const VIABILIDADE_GEMAS_DATA = [
     "Quantidade de Gemas Total": "57",
     "Quantidade de Gemas Viáveis": "57",
     "Quantidade de Gemas Inviáveis": "0",
-    "Fazenda": NaN
+    "Fazenda": null,
+    "Unnamed: 20": null
   },
   {
     "ID": "3461595",
@@ -49014,7 +51245,8 @@ const VIABILIDADE_GEMAS_DATA = [
     "Quantidade de Gemas Total": "55",
     "Quantidade de Gemas Viáveis": "55",
     "Quantidade de Gemas Inviáveis": "0",
-    "Fazenda": NaN
+    "Fazenda": null,
+    "Unnamed: 20": null
   },
   {
     "ID": "3461591",
@@ -49036,7 +51268,8 @@ const VIABILIDADE_GEMAS_DATA = [
     "Quantidade de Gemas Total": "58",
     "Quantidade de Gemas Viáveis": "58",
     "Quantidade de Gemas Inviáveis": "0",
-    "Fazenda": NaN
+    "Fazenda": null,
+    "Unnamed: 20": null
   },
   {
     "ID": "3461586",
@@ -49058,7 +51291,8 @@ const VIABILIDADE_GEMAS_DATA = [
     "Quantidade de Gemas Total": "54",
     "Quantidade de Gemas Viáveis": "54",
     "Quantidade de Gemas Inviáveis": "0",
-    "Fazenda": NaN
+    "Fazenda": null,
+    "Unnamed: 20": null
   },
   {
     "ID": "3461582",
@@ -49080,7 +51314,8 @@ const VIABILIDADE_GEMAS_DATA = [
     "Quantidade de Gemas Total": "60",
     "Quantidade de Gemas Viáveis": "60",
     "Quantidade de Gemas Inviáveis": "0",
-    "Fazenda": NaN
+    "Fazenda": null,
+    "Unnamed: 20": null
   },
   {
     "ID": "3455030",
@@ -49102,7 +51337,8 @@ const VIABILIDADE_GEMAS_DATA = [
     "Quantidade de Gemas Total": "55",
     "Quantidade de Gemas Viáveis": "55",
     "Quantidade de Gemas Inviáveis": "0",
-    "Fazenda": NaN
+    "Fazenda": null,
+    "Unnamed: 20": null
   },
   {
     "ID": "3455025",
@@ -49124,7 +51360,8 @@ const VIABILIDADE_GEMAS_DATA = [
     "Quantidade de Gemas Total": "60",
     "Quantidade de Gemas Viáveis": "60",
     "Quantidade de Gemas Inviáveis": "0",
-    "Fazenda": NaN
+    "Fazenda": null,
+    "Unnamed: 20": null
   },
   {
     "ID": "3454934",
@@ -49146,7 +51383,8 @@ const VIABILIDADE_GEMAS_DATA = [
     "Quantidade de Gemas Total": "96",
     "Quantidade de Gemas Viáveis": "94",
     "Quantidade de Gemas Inviáveis": "2",
-    "Fazenda": NaN
+    "Fazenda": null,
+    "Unnamed: 20": null
   },
   {
     "ID": "3455020",
@@ -49168,7 +51406,8 @@ const VIABILIDADE_GEMAS_DATA = [
     "Quantidade de Gemas Total": "59",
     "Quantidade de Gemas Viáveis": "59",
     "Quantidade de Gemas Inviáveis": "0",
-    "Fazenda": NaN
+    "Fazenda": null,
+    "Unnamed: 20": null
   },
   {
     "ID": "3455015",
@@ -49190,7 +51429,8 @@ const VIABILIDADE_GEMAS_DATA = [
     "Quantidade de Gemas Total": "60",
     "Quantidade de Gemas Viáveis": "60",
     "Quantidade de Gemas Inviáveis": "0",
-    "Fazenda": NaN
+    "Fazenda": null,
+    "Unnamed: 20": null
   },
   {
     "ID": "3455007",
@@ -49212,7 +51452,8 @@ const VIABILIDADE_GEMAS_DATA = [
     "Quantidade de Gemas Total": "58",
     "Quantidade de Gemas Viáveis": "58",
     "Quantidade de Gemas Inviáveis": "0",
-    "Fazenda": NaN
+    "Fazenda": null,
+    "Unnamed: 20": null
   },
   {
     "ID": "3454888",
@@ -49234,7 +51475,8 @@ const VIABILIDADE_GEMAS_DATA = [
     "Quantidade de Gemas Total": "60",
     "Quantidade de Gemas Viáveis": "60",
     "Quantidade de Gemas Inviáveis": "0",
-    "Fazenda": NaN
+    "Fazenda": null,
+    "Unnamed: 20": null
   },
   {
     "ID": "3455001",
@@ -49256,7 +51498,8 @@ const VIABILIDADE_GEMAS_DATA = [
     "Quantidade de Gemas Total": "54",
     "Quantidade de Gemas Viáveis": "54",
     "Quantidade de Gemas Inviáveis": "0",
-    "Fazenda": NaN
+    "Fazenda": null,
+    "Unnamed: 20": null
   },
   {
     "ID": "3454926",
@@ -49278,7 +51521,8 @@ const VIABILIDADE_GEMAS_DATA = [
     "Quantidade de Gemas Total": "84",
     "Quantidade de Gemas Viáveis": "84",
     "Quantidade de Gemas Inviáveis": "0",
-    "Fazenda": NaN
+    "Fazenda": null,
+    "Unnamed: 20": null
   },
   {
     "ID": "3454923",
@@ -49300,7 +51544,8 @@ const VIABILIDADE_GEMAS_DATA = [
     "Quantidade de Gemas Total": "95",
     "Quantidade de Gemas Viáveis": "95",
     "Quantidade de Gemas Inviáveis": "0",
-    "Fazenda": NaN
+    "Fazenda": null,
+    "Unnamed: 20": null
   },
   {
     "ID": "3454883",
@@ -49322,7 +51567,8 @@ const VIABILIDADE_GEMAS_DATA = [
     "Quantidade de Gemas Total": "59",
     "Quantidade de Gemas Viáveis": "59",
     "Quantidade de Gemas Inviáveis": "0",
-    "Fazenda": NaN
+    "Fazenda": null,
+    "Unnamed: 20": null
   },
   {
     "ID": "3454871",
@@ -49344,7 +51590,8 @@ const VIABILIDADE_GEMAS_DATA = [
     "Quantidade de Gemas Total": "60",
     "Quantidade de Gemas Viáveis": "55",
     "Quantidade de Gemas Inviáveis": "5",
-    "Fazenda": NaN
+    "Fazenda": null,
+    "Unnamed: 20": null
   },
   {
     "ID": "3454866",
@@ -49366,7 +51613,8 @@ const VIABILIDADE_GEMAS_DATA = [
     "Quantidade de Gemas Total": "58",
     "Quantidade de Gemas Viáveis": "58",
     "Quantidade de Gemas Inviáveis": "0",
-    "Fazenda": NaN
+    "Fazenda": null,
+    "Unnamed: 20": null
   },
   {
     "ID": "3454272",
@@ -49388,7 +51636,8 @@ const VIABILIDADE_GEMAS_DATA = [
     "Quantidade de Gemas Total": "57",
     "Quantidade de Gemas Viáveis": "55",
     "Quantidade de Gemas Inviáveis": "2",
-    "Fazenda": NaN
+    "Fazenda": null,
+    "Unnamed: 20": null
   },
   {
     "ID": "3454267",
@@ -49410,7 +51659,8 @@ const VIABILIDADE_GEMAS_DATA = [
     "Quantidade de Gemas Total": "55",
     "Quantidade de Gemas Viáveis": "53",
     "Quantidade de Gemas Inviáveis": "2",
-    "Fazenda": NaN
+    "Fazenda": null,
+    "Unnamed: 20": null
   },
   {
     "ID": "3454228",
@@ -49432,7 +51682,8 @@ const VIABILIDADE_GEMAS_DATA = [
     "Quantidade de Gemas Total": "50",
     "Quantidade de Gemas Viáveis": "50",
     "Quantidade de Gemas Inviáveis": "0",
-    "Fazenda": NaN
+    "Fazenda": null,
+    "Unnamed: 20": null
   },
   {
     "ID": "3454223",
@@ -49454,7 +51705,8 @@ const VIABILIDADE_GEMAS_DATA = [
     "Quantidade de Gemas Total": "55",
     "Quantidade de Gemas Viáveis": "55",
     "Quantidade de Gemas Inviáveis": "0",
-    "Fazenda": NaN
+    "Fazenda": null,
+    "Unnamed: 20": null
   },
   {
     "ID": "3454219",
@@ -49476,7 +51728,8 @@ const VIABILIDADE_GEMAS_DATA = [
     "Quantidade de Gemas Total": "52",
     "Quantidade de Gemas Viáveis": "52",
     "Quantidade de Gemas Inviáveis": "0",
-    "Fazenda": NaN
+    "Fazenda": null,
+    "Unnamed: 20": null
   },
   {
     "ID": "3454255",
@@ -49498,7 +51751,8 @@ const VIABILIDADE_GEMAS_DATA = [
     "Quantidade de Gemas Total": "49",
     "Quantidade de Gemas Viáveis": "49",
     "Quantidade de Gemas Inviáveis": "0",
-    "Fazenda": NaN
+    "Fazenda": null,
+    "Unnamed: 20": null
   },
   {
     "ID": "3454251",
@@ -49520,7 +51774,8 @@ const VIABILIDADE_GEMAS_DATA = [
     "Quantidade de Gemas Total": "50",
     "Quantidade de Gemas Viáveis": "50",
     "Quantidade de Gemas Inviáveis": "0",
-    "Fazenda": NaN
+    "Fazenda": null,
+    "Unnamed: 20": null
   },
   {
     "ID": "3449578",
@@ -49542,7 +51797,8 @@ const VIABILIDADE_GEMAS_DATA = [
     "Quantidade de Gemas Total": "53",
     "Quantidade de Gemas Viáveis": "51",
     "Quantidade de Gemas Inviáveis": "2",
-    "Fazenda": NaN
+    "Fazenda": null,
+    "Unnamed: 20": null
   },
   {
     "ID": "3449760",
@@ -49564,7 +51820,8 @@ const VIABILIDADE_GEMAS_DATA = [
     "Quantidade de Gemas Total": "56",
     "Quantidade de Gemas Viáveis": "56",
     "Quantidade de Gemas Inviáveis": "0",
-    "Fazenda": NaN
+    "Fazenda": null,
+    "Unnamed: 20": null
   },
   {
     "ID": "3449756",
@@ -49586,7 +51843,8 @@ const VIABILIDADE_GEMAS_DATA = [
     "Quantidade de Gemas Total": "60",
     "Quantidade de Gemas Viáveis": "57",
     "Quantidade de Gemas Inviáveis": "3",
-    "Fazenda": NaN
+    "Fazenda": null,
+    "Unnamed: 20": null
   },
   {
     "ID": "3449750",
@@ -49608,7 +51866,8 @@ const VIABILIDADE_GEMAS_DATA = [
     "Quantidade de Gemas Total": "60",
     "Quantidade de Gemas Viáveis": "55",
     "Quantidade de Gemas Inviáveis": "5",
-    "Fazenda": NaN
+    "Fazenda": null,
+    "Unnamed: 20": null
   },
   {
     "ID": "3449745",
@@ -49630,7 +51889,8 @@ const VIABILIDADE_GEMAS_DATA = [
     "Quantidade de Gemas Total": "60",
     "Quantidade de Gemas Viáveis": "60",
     "Quantidade de Gemas Inviáveis": "0",
-    "Fazenda": NaN
+    "Fazenda": null,
+    "Unnamed: 20": null
   },
   {
     "ID": "3447522",
@@ -49652,7 +51912,8 @@ const VIABILIDADE_GEMAS_DATA = [
     "Quantidade de Gemas Total": "52",
     "Quantidade de Gemas Viáveis": "51",
     "Quantidade de Gemas Inviáveis": "1",
-    "Fazenda": NaN
+    "Fazenda": null,
+    "Unnamed: 20": null
   },
   {
     "ID": "3449676",
@@ -49674,7 +51935,8 @@ const VIABILIDADE_GEMAS_DATA = [
     "Quantidade de Gemas Total": "52",
     "Quantidade de Gemas Viáveis": "52",
     "Quantidade de Gemas Inviáveis": "0",
-    "Fazenda": NaN
+    "Fazenda": null,
+    "Unnamed: 20": null
   },
   {
     "ID": "3447503",
@@ -49696,7 +51958,8 @@ const VIABILIDADE_GEMAS_DATA = [
     "Quantidade de Gemas Total": "56",
     "Quantidade de Gemas Viáveis": "53",
     "Quantidade de Gemas Inviáveis": "3",
-    "Fazenda": NaN
+    "Fazenda": null,
+    "Unnamed: 20": null
   },
   {
     "ID": "3447499",
@@ -49718,7 +51981,8 @@ const VIABILIDADE_GEMAS_DATA = [
     "Quantidade de Gemas Total": "55",
     "Quantidade de Gemas Viáveis": "53",
     "Quantidade de Gemas Inviáveis": "2",
-    "Fazenda": NaN
+    "Fazenda": null,
+    "Unnamed: 20": null
   },
   {
     "ID": "3449670",
@@ -49740,7 +52004,8 @@ const VIABILIDADE_GEMAS_DATA = [
     "Quantidade de Gemas Total": "50",
     "Quantidade de Gemas Viáveis": "49",
     "Quantidade de Gemas Inviáveis": "1",
-    "Fazenda": NaN
+    "Fazenda": null,
+    "Unnamed: 20": null
   },
   {
     "ID": "3449690",
@@ -49762,7 +52027,8 @@ const VIABILIDADE_GEMAS_DATA = [
     "Quantidade de Gemas Total": "48",
     "Quantidade de Gemas Viáveis": "48",
     "Quantidade de Gemas Inviáveis": "0",
-    "Fazenda": NaN
+    "Fazenda": null,
+    "Unnamed: 20": null
   },
   {
     "ID": "3447495",
@@ -49784,7 +52050,8 @@ const VIABILIDADE_GEMAS_DATA = [
     "Quantidade de Gemas Total": "54",
     "Quantidade de Gemas Viáveis": "50",
     "Quantidade de Gemas Inviáveis": "4",
-    "Fazenda": NaN
+    "Fazenda": null,
+    "Unnamed: 20": null
   },
   {
     "ID": "3445796",
@@ -49806,7 +52073,8 @@ const VIABILIDADE_GEMAS_DATA = [
     "Quantidade de Gemas Total": "54",
     "Quantidade de Gemas Viáveis": "51",
     "Quantidade de Gemas Inviáveis": "3",
-    "Fazenda": NaN
+    "Fazenda": null,
+    "Unnamed: 20": null
   },
   {
     "ID": "3445678",
@@ -49828,7 +52096,8 @@ const VIABILIDADE_GEMAS_DATA = [
     "Quantidade de Gemas Total": "52",
     "Quantidade de Gemas Viáveis": "51",
     "Quantidade de Gemas Inviáveis": "1",
-    "Fazenda": NaN
+    "Fazenda": null,
+    "Unnamed: 20": null
   },
   {
     "ID": "3445790",
@@ -49850,7 +52119,8 @@ const VIABILIDADE_GEMAS_DATA = [
     "Quantidade de Gemas Total": "53",
     "Quantidade de Gemas Viáveis": "50",
     "Quantidade de Gemas Inviáveis": "3",
-    "Fazenda": NaN
+    "Fazenda": null,
+    "Unnamed: 20": null
   },
   {
     "ID": "3445674",
@@ -49872,7 +52142,8 @@ const VIABILIDADE_GEMAS_DATA = [
     "Quantidade de Gemas Total": "60",
     "Quantidade de Gemas Viáveis": "60",
     "Quantidade de Gemas Inviáveis": "0",
-    "Fazenda": NaN
+    "Fazenda": null,
+    "Unnamed: 20": null
   },
   {
     "ID": "3445784",
@@ -49894,7 +52165,8 @@ const VIABILIDADE_GEMAS_DATA = [
     "Quantidade de Gemas Total": "56",
     "Quantidade de Gemas Viáveis": "55",
     "Quantidade de Gemas Inviáveis": "1",
-    "Fazenda": NaN
+    "Fazenda": null,
+    "Unnamed: 20": null
   },
   {
     "ID": "3445780",
@@ -49916,7 +52188,8 @@ const VIABILIDADE_GEMAS_DATA = [
     "Quantidade de Gemas Total": "57",
     "Quantidade de Gemas Viáveis": "54",
     "Quantidade de Gemas Inviáveis": "3",
-    "Fazenda": NaN
+    "Fazenda": null,
+    "Unnamed: 20": null
   },
   {
     "ID": "3445567",
@@ -49938,7 +52211,8 @@ const VIABILIDADE_GEMAS_DATA = [
     "Quantidade de Gemas Total": "94",
     "Quantidade de Gemas Viáveis": "94",
     "Quantidade de Gemas Inviáveis": "0",
-    "Fazenda": NaN
+    "Fazenda": null,
+    "Unnamed: 20": null
   },
   {
     "ID": "3445563",
@@ -49960,7 +52234,8 @@ const VIABILIDADE_GEMAS_DATA = [
     "Quantidade de Gemas Total": "87",
     "Quantidade de Gemas Viáveis": "87",
     "Quantidade de Gemas Inviáveis": "0",
-    "Fazenda": NaN
+    "Fazenda": null,
+    "Unnamed: 20": null
   },
   {
     "ID": "3443860",
@@ -49982,7 +52257,8 @@ const VIABILIDADE_GEMAS_DATA = [
     "Quantidade de Gemas Total": "62",
     "Quantidade de Gemas Viáveis": "62",
     "Quantidade de Gemas Inviáveis": "0",
-    "Fazenda": NaN
+    "Fazenda": null,
+    "Unnamed: 20": null
   },
   {
     "ID": "3435684",
@@ -50004,7 +52280,8 @@ const VIABILIDADE_GEMAS_DATA = [
     "Quantidade de Gemas Total": "49",
     "Quantidade de Gemas Viáveis": "49",
     "Quantidade de Gemas Inviáveis": "0",
-    "Fazenda": NaN
+    "Fazenda": null,
+    "Unnamed: 20": null
   },
   {
     "ID": "3435521",
@@ -50026,7 +52303,8 @@ const VIABILIDADE_GEMAS_DATA = [
     "Quantidade de Gemas Total": "51",
     "Quantidade de Gemas Viáveis": "51",
     "Quantidade de Gemas Inviáveis": "0",
-    "Fazenda": NaN
+    "Fazenda": null,
+    "Unnamed: 20": null
   },
   {
     "ID": "3437723",
@@ -50048,7 +52326,8 @@ const VIABILIDADE_GEMAS_DATA = [
     "Quantidade de Gemas Total": "52",
     "Quantidade de Gemas Viáveis": "49",
     "Quantidade de Gemas Inviáveis": "3",
-    "Fazenda": NaN
+    "Fazenda": null,
+    "Unnamed: 20": null
   },
   {
     "ID": "3437728",
@@ -50070,7 +52349,8 @@ const VIABILIDADE_GEMAS_DATA = [
     "Quantidade de Gemas Total": "55",
     "Quantidade de Gemas Viáveis": "52",
     "Quantidade de Gemas Inviáveis": "3",
-    "Fazenda": NaN
+    "Fazenda": null,
+    "Unnamed: 20": null
   },
   {
     "ID": "3437734",
@@ -50092,7 +52372,8 @@ const VIABILIDADE_GEMAS_DATA = [
     "Quantidade de Gemas Total": "52",
     "Quantidade de Gemas Viáveis": "50",
     "Quantidade de Gemas Inviáveis": "2",
-    "Fazenda": NaN
+    "Fazenda": null,
+    "Unnamed: 20": null
   },
   {
     "ID": "3437738",
@@ -50114,7 +52395,8 @@ const VIABILIDADE_GEMAS_DATA = [
     "Quantidade de Gemas Total": "51",
     "Quantidade de Gemas Viáveis": "48",
     "Quantidade de Gemas Inviáveis": "3",
-    "Fazenda": NaN
+    "Fazenda": null,
+    "Unnamed: 20": null
   },
   {
     "ID": "3443319",
@@ -50136,7 +52418,8 @@ const VIABILIDADE_GEMAS_DATA = [
     "Quantidade de Gemas Total": "49",
     "Quantidade de Gemas Viáveis": "49",
     "Quantidade de Gemas Inviáveis": "0",
-    "Fazenda": NaN
+    "Fazenda": null,
+    "Unnamed: 20": null
   },
   {
     "ID": "3443459",
@@ -50158,7 +52441,8 @@ const VIABILIDADE_GEMAS_DATA = [
     "Quantidade de Gemas Total": "56",
     "Quantidade de Gemas Viáveis": "56",
     "Quantidade de Gemas Inviáveis": "0",
-    "Fazenda": NaN
+    "Fazenda": null,
+    "Unnamed: 20": null
   },
   {
     "ID": "3443463",
@@ -50180,7 +52464,8 @@ const VIABILIDADE_GEMAS_DATA = [
     "Quantidade de Gemas Total": "89",
     "Quantidade de Gemas Viáveis": "89",
     "Quantidade de Gemas Inviáveis": "0",
-    "Fazenda": NaN
+    "Fazenda": null,
+    "Unnamed: 20": null
   },
   {
     "ID": "3443440",
@@ -50202,7 +52487,8 @@ const VIABILIDADE_GEMAS_DATA = [
     "Quantidade de Gemas Total": "89",
     "Quantidade de Gemas Viáveis": "89",
     "Quantidade de Gemas Inviáveis": "1",
-    "Fazenda": NaN
+    "Fazenda": null,
+    "Unnamed: 20": null
   },
   {
     "ID": "3435499",
@@ -50224,7 +52510,8 @@ const VIABILIDADE_GEMAS_DATA = [
     "Quantidade de Gemas Total": "51",
     "Quantidade de Gemas Viáveis": "50",
     "Quantidade de Gemas Inviáveis": "1",
-    "Fazenda": NaN
+    "Fazenda": null,
+    "Unnamed: 20": null
   },
   {
     "ID": "3435678",
@@ -50246,7 +52533,8 @@ const VIABILIDADE_GEMAS_DATA = [
     "Quantidade de Gemas Total": "50",
     "Quantidade de Gemas Viáveis": "50",
     "Quantidade de Gemas Inviáveis": "0",
-    "Fazenda": NaN
+    "Fazenda": null,
+    "Unnamed: 20": null
   },
   {
     "ID": "3435484",
@@ -50268,7 +52556,8 @@ const VIABILIDADE_GEMAS_DATA = [
     "Quantidade de Gemas Total": "48",
     "Quantidade de Gemas Viáveis": "0",
     "Quantidade de Gemas Inviáveis": "0",
-    "Fazenda": NaN
+    "Fazenda": null,
+    "Unnamed: 20": null
   },
   {
     "ID": "3435673",
@@ -50290,7 +52579,8 @@ const VIABILIDADE_GEMAS_DATA = [
     "Quantidade de Gemas Total": "48",
     "Quantidade de Gemas Viáveis": "48",
     "Quantidade de Gemas Inviáveis": "0",
-    "Fazenda": NaN
+    "Fazenda": null,
+    "Unnamed: 20": null
   },
   {
     "ID": "3435465",
@@ -50312,7 +52602,8 @@ const VIABILIDADE_GEMAS_DATA = [
     "Quantidade de Gemas Total": "57",
     "Quantidade de Gemas Viáveis": "53",
     "Quantidade de Gemas Inviáveis": "4",
-    "Fazenda": NaN
+    "Fazenda": null,
+    "Unnamed: 20": null
   },
   {
     "ID": "3435481",
@@ -50334,7 +52625,8 @@ const VIABILIDADE_GEMAS_DATA = [
     "Quantidade de Gemas Total": "84",
     "Quantidade de Gemas Viáveis": "84",
     "Quantidade de Gemas Inviáveis": "0",
-    "Fazenda": NaN
+    "Fazenda": null,
+    "Unnamed: 20": null
   },
   {
     "ID": "3435773",
@@ -50356,7 +52648,8 @@ const VIABILIDADE_GEMAS_DATA = [
     "Quantidade de Gemas Total": "55",
     "Quantidade de Gemas Viáveis": "55",
     "Quantidade de Gemas Inviáveis": "0",
-    "Fazenda": NaN
+    "Fazenda": null,
+    "Unnamed: 20": null
   },
   {
     "ID": "3435768",
@@ -50378,7 +52671,8 @@ const VIABILIDADE_GEMAS_DATA = [
     "Quantidade de Gemas Total": "60",
     "Quantidade de Gemas Viáveis": "56",
     "Quantidade de Gemas Inviáveis": "4",
-    "Fazenda": NaN
+    "Fazenda": null,
+    "Unnamed: 20": null
   },
   {
     "ID": "3435763",
@@ -50400,7 +52694,8 @@ const VIABILIDADE_GEMAS_DATA = [
     "Quantidade de Gemas Total": "59",
     "Quantidade de Gemas Viáveis": "56",
     "Quantidade de Gemas Inviáveis": "3",
-    "Fazenda": NaN
+    "Fazenda": null,
+    "Unnamed: 20": null
   },
   {
     "ID": "3435758",
@@ -50422,7 +52717,8 @@ const VIABILIDADE_GEMAS_DATA = [
     "Quantidade de Gemas Total": "52",
     "Quantidade de Gemas Viáveis": "52",
     "Quantidade de Gemas Inviáveis": "0",
-    "Fazenda": NaN
+    "Fazenda": null,
+    "Unnamed: 20": null
   },
   {
     "ID": "3435712",
@@ -50444,7 +52740,8 @@ const VIABILIDADE_GEMAS_DATA = [
     "Quantidade de Gemas Total": "60",
     "Quantidade de Gemas Viáveis": "60",
     "Quantidade de Gemas Inviáveis": "0",
-    "Fazenda": NaN
+    "Fazenda": null,
+    "Unnamed: 20": null
   },
   {
     "ID": "3435396",
@@ -50466,7 +52763,8 @@ const VIABILIDADE_GEMAS_DATA = [
     "Quantidade de Gemas Total": "54",
     "Quantidade de Gemas Viáveis": "54",
     "Quantidade de Gemas Inviáveis": "0",
-    "Fazenda": NaN
+    "Fazenda": null,
+    "Unnamed: 20": null
   },
   {
     "ID": "3435447",
@@ -50488,7 +52786,8 @@ const VIABILIDADE_GEMAS_DATA = [
     "Quantidade de Gemas Total": "53",
     "Quantidade de Gemas Viáveis": "48",
     "Quantidade de Gemas Inviáveis": "4",
-    "Fazenda": NaN
+    "Fazenda": null,
+    "Unnamed: 20": null
   },
   {
     "ID": "3435287",
@@ -50510,7 +52809,8 @@ const VIABILIDADE_GEMAS_DATA = [
     "Quantidade de Gemas Total": "79",
     "Quantidade de Gemas Viáveis": "79",
     "Quantidade de Gemas Inviáveis": "0",
-    "Fazenda": NaN
+    "Fazenda": null,
+    "Unnamed: 20": null
   },
   {
     "ID": "3435443",
@@ -50532,7 +52832,8 @@ const VIABILIDADE_GEMAS_DATA = [
     "Quantidade de Gemas Total": "57",
     "Quantidade de Gemas Viáveis": "53",
     "Quantidade de Gemas Inviáveis": "4",
-    "Fazenda": NaN
+    "Fazenda": null,
+    "Unnamed: 20": null
   },
   {
     "ID": "3435281",
@@ -50554,7 +52855,8 @@ const VIABILIDADE_GEMAS_DATA = [
     "Quantidade de Gemas Total": "85",
     "Quantidade de Gemas Viáveis": "85",
     "Quantidade de Gemas Inviáveis": "0",
-    "Fazenda": NaN
+    "Fazenda": null,
+    "Unnamed: 20": null
   },
   {
     "ID": "3435391",
@@ -50576,7 +52878,8 @@ const VIABILIDADE_GEMAS_DATA = [
     "Quantidade de Gemas Total": "54",
     "Quantidade de Gemas Viáveis": "54",
     "Quantidade de Gemas Inviáveis": "0",
-    "Fazenda": NaN
+    "Fazenda": null,
+    "Unnamed: 20": null
   },
   {
     "ID": "3435439",
@@ -50598,7 +52901,8 @@ const VIABILIDADE_GEMAS_DATA = [
     "Quantidade de Gemas Total": "55",
     "Quantidade de Gemas Viáveis": "55",
     "Quantidade de Gemas Inviáveis": "0",
-    "Fazenda": NaN
+    "Fazenda": null,
+    "Unnamed: 20": null
   },
   {
     "ID": "3435386",
@@ -50620,7 +52924,8 @@ const VIABILIDADE_GEMAS_DATA = [
     "Quantidade de Gemas Total": "54",
     "Quantidade de Gemas Viáveis": "54",
     "Quantidade de Gemas Inviáveis": "0",
-    "Fazenda": NaN
+    "Fazenda": null,
+    "Unnamed: 20": null
   },
   {
     "ID": "3435381",
@@ -50642,7 +52947,8 @@ const VIABILIDADE_GEMAS_DATA = [
     "Quantidade de Gemas Total": "60",
     "Quantidade de Gemas Viáveis": "60",
     "Quantidade de Gemas Inviáveis": "0",
-    "Fazenda": NaN
+    "Fazenda": null,
+    "Unnamed: 20": null
   },
   {
     "ID": "3435372",
@@ -50664,7 +52970,8 @@ const VIABILIDADE_GEMAS_DATA = [
     "Quantidade de Gemas Total": "58",
     "Quantidade de Gemas Viáveis": "58",
     "Quantidade de Gemas Inviáveis": "0",
-    "Fazenda": NaN
+    "Fazenda": null,
+    "Unnamed: 20": null
   },
   {
     "ID": "3435360",
@@ -50686,7 +52993,8 @@ const VIABILIDADE_GEMAS_DATA = [
     "Quantidade de Gemas Total": "60",
     "Quantidade de Gemas Viáveis": "60",
     "Quantidade de Gemas Inviáveis": "0",
-    "Fazenda": NaN
+    "Fazenda": null,
+    "Unnamed: 20": null
   },
   {
     "ID": "3435354",
@@ -50708,7 +53016,8 @@ const VIABILIDADE_GEMAS_DATA = [
     "Quantidade de Gemas Total": "57",
     "Quantidade de Gemas Viáveis": "57",
     "Quantidade de Gemas Inviáveis": "0",
-    "Fazenda": NaN
+    "Fazenda": null,
+    "Unnamed: 20": null
   },
   {
     "ID": "3435349",
@@ -50730,7 +53039,8 @@ const VIABILIDADE_GEMAS_DATA = [
     "Quantidade de Gemas Total": "60",
     "Quantidade de Gemas Viáveis": "60",
     "Quantidade de Gemas Inviáveis": "0",
-    "Fazenda": NaN
+    "Fazenda": null,
+    "Unnamed: 20": null
   },
   {
     "ID": "3433770",
@@ -50752,7 +53062,8 @@ const VIABILIDADE_GEMAS_DATA = [
     "Quantidade de Gemas Total": "57",
     "Quantidade de Gemas Viáveis": "57",
     "Quantidade de Gemas Inviáveis": "0",
-    "Fazenda": NaN
+    "Fazenda": null,
+    "Unnamed: 20": null
   },
   {
     "ID": "3433587",
@@ -50774,7 +53085,8 @@ const VIABILIDADE_GEMAS_DATA = [
     "Quantidade de Gemas Total": "52",
     "Quantidade de Gemas Viáveis": "50",
     "Quantidade de Gemas Inviáveis": "2",
-    "Fazenda": NaN
+    "Fazenda": null,
+    "Unnamed: 20": null
   },
   {
     "ID": "3433583",
@@ -50796,7 +53108,8 @@ const VIABILIDADE_GEMAS_DATA = [
     "Quantidade de Gemas Total": "60",
     "Quantidade de Gemas Viáveis": "57",
     "Quantidade de Gemas Inviáveis": "3",
-    "Fazenda": NaN
+    "Fazenda": null,
+    "Unnamed: 20": null
   },
   {
     "ID": "3433655",
@@ -50818,7 +53131,8 @@ const VIABILIDADE_GEMAS_DATA = [
     "Quantidade de Gemas Total": "60",
     "Quantidade de Gemas Viáveis": "56",
     "Quantidade de Gemas Inviáveis": "4",
-    "Fazenda": NaN
+    "Fazenda": null,
+    "Unnamed: 20": null
   },
   {
     "ID": "3433473",
@@ -50840,7 +53154,8 @@ const VIABILIDADE_GEMAS_DATA = [
     "Quantidade de Gemas Total": "48",
     "Quantidade de Gemas Viáveis": "48",
     "Quantidade de Gemas Inviáveis": "0",
-    "Fazenda": NaN
+    "Fazenda": null,
+    "Unnamed: 20": null
   },
   {
     "ID": "3433650",
@@ -50862,7 +53177,8 @@ const VIABILIDADE_GEMAS_DATA = [
     "Quantidade de Gemas Total": "55",
     "Quantidade de Gemas Viáveis": "55",
     "Quantidade de Gemas Inviáveis": "0",
-    "Fazenda": NaN
+    "Fazenda": null,
+    "Unnamed: 20": null
   },
   {
     "ID": "3433750",
@@ -50884,7 +53200,8 @@ const VIABILIDADE_GEMAS_DATA = [
     "Quantidade de Gemas Total": "78",
     "Quantidade de Gemas Viáveis": "78",
     "Quantidade de Gemas Inviáveis": "0",
-    "Fazenda": NaN
+    "Fazenda": null,
+    "Unnamed: 20": null
   },
   {
     "ID": "3433707",
@@ -50906,7 +53223,8 @@ const VIABILIDADE_GEMAS_DATA = [
     "Quantidade de Gemas Total": "78",
     "Quantidade de Gemas Viáveis": "78",
     "Quantidade de Gemas Inviáveis": "0",
-    "Fazenda": NaN
+    "Fazenda": null,
+    "Unnamed: 20": null
   },
   {
     "ID": "3433632",
@@ -50928,7 +53246,8 @@ const VIABILIDADE_GEMAS_DATA = [
     "Quantidade de Gemas Total": "60",
     "Quantidade de Gemas Viáveis": "56",
     "Quantidade de Gemas Inviáveis": "4",
-    "Fazenda": NaN
+    "Fazenda": null,
+    "Unnamed: 20": null
   },
   {
     "ID": "3433703",
@@ -50950,7 +53269,8 @@ const VIABILIDADE_GEMAS_DATA = [
     "Quantidade de Gemas Total": "100",
     "Quantidade de Gemas Viáveis": "100",
     "Quantidade de Gemas Inviáveis": "0",
-    "Fazenda": NaN
+    "Fazenda": null,
+    "Unnamed: 20": null
   },
   {
     "ID": "3433381",
@@ -50972,7 +53292,8 @@ const VIABILIDADE_GEMAS_DATA = [
     "Quantidade de Gemas Total": "56",
     "Quantidade de Gemas Viáveis": "56",
     "Quantidade de Gemas Inviáveis": "0",
-    "Fazenda": NaN
+    "Fazenda": null,
+    "Unnamed: 20": null
   },
   {
     "ID": "3433566",
@@ -50994,7 +53315,8 @@ const VIABILIDADE_GEMAS_DATA = [
     "Quantidade de Gemas Total": "57",
     "Quantidade de Gemas Viáveis": "57",
     "Quantidade de Gemas Inviáveis": "0",
-    "Fazenda": NaN
+    "Fazenda": null,
+    "Unnamed: 20": null
   },
   {
     "ID": "3433746",
@@ -51016,7 +53338,8 @@ const VIABILIDADE_GEMAS_DATA = [
     "Quantidade de Gemas Total": "54",
     "Quantidade de Gemas Viáveis": "54",
     "Quantidade de Gemas Inviáveis": "0",
-    "Fazenda": NaN
+    "Fazenda": null,
+    "Unnamed: 20": null
   },
   {
     "ID": "3433425",
@@ -51038,7 +53361,8 @@ const VIABILIDADE_GEMAS_DATA = [
     "Quantidade de Gemas Total": "49",
     "Quantidade de Gemas Viáveis": "49",
     "Quantidade de Gemas Inviáveis": "0",
-    "Fazenda": NaN
+    "Fazenda": null,
+    "Unnamed: 20": null
   },
   {
     "ID": "3433377",
@@ -51060,7 +53384,8 @@ const VIABILIDADE_GEMAS_DATA = [
     "Quantidade de Gemas Total": "55",
     "Quantidade de Gemas Viáveis": "55",
     "Quantidade de Gemas Inviáveis": "0",
-    "Fazenda": NaN
+    "Fazenda": null,
+    "Unnamed: 20": null
   },
   {
     "ID": "3433562",
@@ -51082,7 +53407,8 @@ const VIABILIDADE_GEMAS_DATA = [
     "Quantidade de Gemas Total": "52",
     "Quantidade de Gemas Viáveis": "52",
     "Quantidade de Gemas Inviáveis": "0",
-    "Fazenda": NaN
+    "Fazenda": null,
+    "Unnamed: 20": null
   },
   {
     "ID": "3433742",
@@ -51104,7 +53430,8 @@ const VIABILIDADE_GEMAS_DATA = [
     "Quantidade de Gemas Total": "53",
     "Quantidade de Gemas Viáveis": "51",
     "Quantidade de Gemas Inviáveis": "2",
-    "Fazenda": NaN
+    "Fazenda": null,
+    "Unnamed: 20": null
   },
   {
     "ID": "3433420",
@@ -51126,7 +53453,8 @@ const VIABILIDADE_GEMAS_DATA = [
     "Quantidade de Gemas Total": "53",
     "Quantidade de Gemas Viáveis": "53",
     "Quantidade de Gemas Inviáveis": "0",
-    "Fazenda": NaN
+    "Fazenda": null,
+    "Unnamed: 20": null
   },
   {
     "ID": "3433623",
@@ -51148,7 +53476,8 @@ const VIABILIDADE_GEMAS_DATA = [
     "Quantidade de Gemas Total": "60",
     "Quantidade de Gemas Viáveis": "55",
     "Quantidade de Gemas Inviáveis": "5",
-    "Fazenda": NaN
+    "Fazenda": null,
+    "Unnamed: 20": null
   },
   {
     "ID": "3433415",
@@ -51170,7 +53499,8 @@ const VIABILIDADE_GEMAS_DATA = [
     "Quantidade de Gemas Total": "48",
     "Quantidade de Gemas Viáveis": "48",
     "Quantidade de Gemas Inviáveis": "0",
-    "Fazenda": NaN
+    "Fazenda": null,
+    "Unnamed: 20": null
   },
   {
     "ID": "3433366",
@@ -51192,7 +53522,8 @@ const VIABILIDADE_GEMAS_DATA = [
     "Quantidade de Gemas Total": "60",
     "Quantidade de Gemas Viáveis": "60",
     "Quantidade de Gemas Inviáveis": "0",
-    "Fazenda": NaN
+    "Fazenda": null,
+    "Unnamed: 20": null
   },
   {
     "ID": "3433558",
@@ -51214,7 +53545,8 @@ const VIABILIDADE_GEMAS_DATA = [
     "Quantidade de Gemas Total": "49",
     "Quantidade de Gemas Viáveis": "48",
     "Quantidade de Gemas Inviáveis": "1",
-    "Fazenda": NaN
+    "Fazenda": null,
+    "Unnamed: 20": null
   },
   {
     "ID": "3433411",
@@ -51236,7 +53568,8 @@ const VIABILIDADE_GEMAS_DATA = [
     "Quantidade de Gemas Total": "54",
     "Quantidade de Gemas Viáveis": "54",
     "Quantidade de Gemas Inviáveis": "0",
-    "Fazenda": NaN
+    "Fazenda": null,
+    "Unnamed: 20": null
   },
   {
     "ID": "3433736",
@@ -51258,7 +53591,8 @@ const VIABILIDADE_GEMAS_DATA = [
     "Quantidade de Gemas Total": "48",
     "Quantidade de Gemas Viáveis": "48",
     "Quantidade de Gemas Inviáveis": "0",
-    "Fazenda": NaN
+    "Fazenda": null,
+    "Unnamed: 20": null
   },
   {
     "ID": "3433362",
@@ -51280,7 +53614,8 @@ const VIABILIDADE_GEMAS_DATA = [
     "Quantidade de Gemas Total": "57",
     "Quantidade de Gemas Viáveis": "57",
     "Quantidade de Gemas Inviáveis": "0",
-    "Fazenda": NaN
+    "Fazenda": null,
+    "Unnamed: 20": null
   },
   {
     "ID": "3433618",
@@ -51302,7 +53637,8 @@ const VIABILIDADE_GEMAS_DATA = [
     "Quantidade de Gemas Total": "50",
     "Quantidade de Gemas Viáveis": "50",
     "Quantidade de Gemas Inviáveis": "0",
-    "Fazenda": NaN
+    "Fazenda": null,
+    "Unnamed: 20": null
   },
   {
     "ID": "3433357",
@@ -51324,7 +53660,8 @@ const VIABILIDADE_GEMAS_DATA = [
     "Quantidade de Gemas Total": "54",
     "Quantidade de Gemas Viáveis": "54",
     "Quantidade de Gemas Inviáveis": "0",
-    "Fazenda": NaN
+    "Fazenda": null,
+    "Unnamed: 20": null
   },
   {
     "ID": "3433613",
@@ -51346,7 +53683,8 @@ const VIABILIDADE_GEMAS_DATA = [
     "Quantidade de Gemas Total": "60",
     "Quantidade de Gemas Viáveis": "60",
     "Quantidade de Gemas Inviáveis": "0",
-    "Fazenda": NaN
+    "Fazenda": null,
+    "Unnamed: 20": null
   },
   {
     "ID": "3433344",
@@ -51368,7 +53706,8 @@ const VIABILIDADE_GEMAS_DATA = [
     "Quantidade de Gemas Total": "60",
     "Quantidade de Gemas Viáveis": "60",
     "Quantidade de Gemas Inviáveis": "0",
-    "Fazenda": NaN
+    "Fazenda": null,
+    "Unnamed: 20": null
   },
   {
     "ID": "3433608",
@@ -51390,7 +53729,8 @@ const VIABILIDADE_GEMAS_DATA = [
     "Quantidade de Gemas Total": "60",
     "Quantidade de Gemas Viáveis": "60",
     "Quantidade de Gemas Inviáveis": "0",
-    "Fazenda": NaN
+    "Fazenda": null,
+    "Unnamed: 20": null
   },
   {
     "ID": "3433335",
@@ -51412,7 +53752,8 @@ const VIABILIDADE_GEMAS_DATA = [
     "Quantidade de Gemas Total": "59",
     "Quantidade de Gemas Viáveis": "59",
     "Quantidade de Gemas Inviáveis": "0",
-    "Fazenda": NaN
+    "Fazenda": null,
+    "Unnamed: 20": null
   },
   {
     "ID": "3433603",
@@ -51434,7 +53775,8 @@ const VIABILIDADE_GEMAS_DATA = [
     "Quantidade de Gemas Total": "59",
     "Quantidade de Gemas Viáveis": "55",
     "Quantidade de Gemas Inviáveis": "4",
-    "Fazenda": NaN
+    "Fazenda": null,
+    "Unnamed: 20": null
   },
   {
     "ID": "3433330",
@@ -51456,7 +53798,8 @@ const VIABILIDADE_GEMAS_DATA = [
     "Quantidade de Gemas Total": "54",
     "Quantidade de Gemas Viáveis": "54",
     "Quantidade de Gemas Inviáveis": "0",
-    "Fazenda": NaN
+    "Fazenda": null,
+    "Unnamed: 20": null
   },
   {
     "ID": "3433598",
@@ -51478,7 +53821,8 @@ const VIABILIDADE_GEMAS_DATA = [
     "Quantidade de Gemas Total": "60",
     "Quantidade de Gemas Viáveis": "60",
     "Quantidade de Gemas Inviáveis": "0",
-    "Fazenda": NaN
+    "Fazenda": null,
+    "Unnamed: 20": null
   },
   {
     "ID": "3431566",
@@ -51500,7 +53844,8 @@ const VIABILIDADE_GEMAS_DATA = [
     "Quantidade de Gemas Total": "55",
     "Quantidade de Gemas Viáveis": "55",
     "Quantidade de Gemas Inviáveis": "0",
-    "Fazenda": NaN
+    "Fazenda": null,
+    "Unnamed: 20": null
   },
   {
     "ID": "3431607",
@@ -51522,7 +53867,8 @@ const VIABILIDADE_GEMAS_DATA = [
     "Quantidade de Gemas Total": "52",
     "Quantidade de Gemas Viáveis": "51",
     "Quantidade de Gemas Inviáveis": "1",
-    "Fazenda": NaN
+    "Fazenda": null,
+    "Unnamed: 20": null
   },
   {
     "ID": "3431530",
@@ -51544,7 +53890,8 @@ const VIABILIDADE_GEMAS_DATA = [
     "Quantidade de Gemas Total": "60",
     "Quantidade de Gemas Viáveis": "60",
     "Quantidade de Gemas Inviáveis": "0",
-    "Fazenda": NaN
+    "Fazenda": null,
+    "Unnamed: 20": null
   },
   {
     "ID": "3431602",
@@ -51566,7 +53913,8 @@ const VIABILIDADE_GEMAS_DATA = [
     "Quantidade de Gemas Total": "50",
     "Quantidade de Gemas Viáveis": "49",
     "Quantidade de Gemas Inviáveis": "1",
-    "Fazenda": NaN
+    "Fazenda": null,
+    "Unnamed: 20": null
   },
   {
     "ID": "3431525",
@@ -51588,7 +53936,8 @@ const VIABILIDADE_GEMAS_DATA = [
     "Quantidade de Gemas Total": "58",
     "Quantidade de Gemas Viáveis": "58",
     "Quantidade de Gemas Inviáveis": "0",
-    "Fazenda": NaN
+    "Fazenda": null,
+    "Unnamed: 20": null
   },
   {
     "ID": "3431597",
@@ -51610,7 +53959,8 @@ const VIABILIDADE_GEMAS_DATA = [
     "Quantidade de Gemas Total": "58",
     "Quantidade de Gemas Viáveis": "57",
     "Quantidade de Gemas Inviáveis": "1",
-    "Fazenda": NaN
+    "Fazenda": null,
+    "Unnamed: 20": null
   },
   {
     "ID": "3431510",
@@ -51632,7 +53982,8 @@ const VIABILIDADE_GEMAS_DATA = [
     "Quantidade de Gemas Total": "55",
     "Quantidade de Gemas Viáveis": "55",
     "Quantidade de Gemas Inviáveis": "0",
-    "Fazenda": NaN
+    "Fazenda": null,
+    "Unnamed: 20": null
   },
   {
     "ID": "3431593",
@@ -51654,7 +54005,8 @@ const VIABILIDADE_GEMAS_DATA = [
     "Quantidade de Gemas Total": "55",
     "Quantidade de Gemas Viáveis": "55",
     "Quantidade de Gemas Inviáveis": "0",
-    "Fazenda": NaN
+    "Fazenda": null,
+    "Unnamed: 20": null
   },
   {
     "ID": "3431177",
@@ -51676,7 +54028,8 @@ const VIABILIDADE_GEMAS_DATA = [
     "Quantidade de Gemas Total": "61",
     "Quantidade de Gemas Viáveis": "61",
     "Quantidade de Gemas Inviáveis": "0",
-    "Fazenda": NaN
+    "Fazenda": null,
+    "Unnamed: 20": null
   },
   {
     "ID": "3431171",
@@ -51698,7 +54051,8 @@ const VIABILIDADE_GEMAS_DATA = [
     "Quantidade de Gemas Total": "50",
     "Quantidade de Gemas Viáveis": "50",
     "Quantidade de Gemas Inviáveis": "0",
-    "Fazenda": NaN
+    "Fazenda": null,
+    "Unnamed: 20": null
   },
   {
     "ID": "3431166",
@@ -51720,7 +54074,8 @@ const VIABILIDADE_GEMAS_DATA = [
     "Quantidade de Gemas Total": "48",
     "Quantidade de Gemas Viáveis": "48",
     "Quantidade de Gemas Inviáveis": "0",
-    "Fazenda": NaN
+    "Fazenda": null,
+    "Unnamed: 20": null
   },
   {
     "ID": "3428843",
@@ -51742,7 +54097,8 @@ const VIABILIDADE_GEMAS_DATA = [
     "Quantidade de Gemas Total": "48",
     "Quantidade de Gemas Viáveis": "48",
     "Quantidade de Gemas Inviáveis": "0",
-    "Fazenda": NaN
+    "Fazenda": null,
+    "Unnamed: 20": null
   },
   {
     "ID": "3428829",
@@ -51764,7 +54120,8 @@ const VIABILIDADE_GEMAS_DATA = [
     "Quantidade de Gemas Total": "59",
     "Quantidade de Gemas Viáveis": "58",
     "Quantidade de Gemas Inviáveis": "1",
-    "Fazenda": NaN
+    "Fazenda": null,
+    "Unnamed: 20": null
   },
   {
     "ID": "3428838",
@@ -51786,7 +54143,8 @@ const VIABILIDADE_GEMAS_DATA = [
     "Quantidade de Gemas Total": "59",
     "Quantidade de Gemas Viáveis": "57",
     "Quantidade de Gemas Inviáveis": "2",
-    "Fazenda": NaN
+    "Fazenda": null,
+    "Unnamed: 20": null
   },
   {
     "ID": "3428824",
@@ -51808,7 +54166,8 @@ const VIABILIDADE_GEMAS_DATA = [
     "Quantidade de Gemas Total": "60",
     "Quantidade de Gemas Viáveis": "60",
     "Quantidade de Gemas Inviáveis": "0",
-    "Fazenda": NaN
+    "Fazenda": null,
+    "Unnamed: 20": null
   },
   {
     "ID": "3428833",
@@ -51830,7 +54189,8 @@ const VIABILIDADE_GEMAS_DATA = [
     "Quantidade de Gemas Total": "60",
     "Quantidade de Gemas Viáveis": "56",
     "Quantidade de Gemas Inviáveis": "4",
-    "Fazenda": NaN
+    "Fazenda": null,
+    "Unnamed: 20": null
   },
   {
     "ID": "3428698",
@@ -51852,7 +54212,8 @@ const VIABILIDADE_GEMAS_DATA = [
     "Quantidade de Gemas Total": "60",
     "Quantidade de Gemas Viáveis": "60",
     "Quantidade de Gemas Inviáveis": "0",
-    "Fazenda": NaN
+    "Fazenda": null,
+    "Unnamed: 20": null
   },
   {
     "ID": "3428289",
@@ -51874,7 +54235,8 @@ const VIABILIDADE_GEMAS_DATA = [
     "Quantidade de Gemas Total": "53",
     "Quantidade de Gemas Viáveis": "53",
     "Quantidade de Gemas Inviáveis": "0",
-    "Fazenda": NaN
+    "Fazenda": null,
+    "Unnamed: 20": null
   },
   {
     "ID": "3428278",
@@ -51896,7 +54258,8 @@ const VIABILIDADE_GEMAS_DATA = [
     "Quantidade de Gemas Total": "58",
     "Quantidade de Gemas Viáveis": "58",
     "Quantidade de Gemas Inviáveis": "0",
-    "Fazenda": NaN
+    "Fazenda": null,
+    "Unnamed: 20": null
   },
   {
     "ID": "3428692",
@@ -51918,7 +54281,8 @@ const VIABILIDADE_GEMAS_DATA = [
     "Quantidade de Gemas Total": "59",
     "Quantidade de Gemas Viáveis": "56",
     "Quantidade de Gemas Inviáveis": "3",
-    "Fazenda": NaN
+    "Fazenda": null,
+    "Unnamed: 20": null
   },
   {
     "ID": "3428403",
@@ -51940,7 +54304,8 @@ const VIABILIDADE_GEMAS_DATA = [
     "Quantidade de Gemas Total": "60",
     "Quantidade de Gemas Viáveis": "60",
     "Quantidade de Gemas Inviáveis": "0",
-    "Fazenda": NaN
+    "Fazenda": null,
+    "Unnamed: 20": null
   },
   {
     "ID": "3428302",
@@ -51962,7 +54327,8 @@ const VIABILIDADE_GEMAS_DATA = [
     "Quantidade de Gemas Total": "62",
     "Quantidade de Gemas Viáveis": "60",
     "Quantidade de Gemas Inviáveis": "2",
-    "Fazenda": NaN
+    "Fazenda": null,
+    "Unnamed: 20": null
   },
   {
     "ID": "3428272",
@@ -51984,7 +54350,8 @@ const VIABILIDADE_GEMAS_DATA = [
     "Quantidade de Gemas Total": "58",
     "Quantidade de Gemas Viáveis": "58",
     "Quantidade de Gemas Inviáveis": "0",
-    "Fazenda": NaN
+    "Fazenda": null,
+    "Unnamed: 20": null
   },
   {
     "ID": "3428297",
@@ -52006,7 +54373,8 @@ const VIABILIDADE_GEMAS_DATA = [
     "Quantidade de Gemas Total": "52",
     "Quantidade de Gemas Viáveis": "51",
     "Quantidade de Gemas Inviáveis": "1",
-    "Fazenda": NaN
+    "Fazenda": null,
+    "Unnamed: 20": null
   },
   {
     "ID": "3428386",
@@ -52028,7 +54396,8 @@ const VIABILIDADE_GEMAS_DATA = [
     "Quantidade de Gemas Total": "56",
     "Quantidade de Gemas Viáveis": "56",
     "Quantidade de Gemas Inviáveis": "0",
-    "Fazenda": NaN
+    "Fazenda": null,
+    "Unnamed: 20": null
   },
   {
     "ID": "3428685",
@@ -52050,7 +54419,8 @@ const VIABILIDADE_GEMAS_DATA = [
     "Quantidade de Gemas Total": "60",
     "Quantidade de Gemas Viáveis": "55",
     "Quantidade de Gemas Inviáveis": "5",
-    "Fazenda": NaN
+    "Fazenda": null,
+    "Unnamed: 20": null
   },
   {
     "ID": "3428267",
@@ -52072,7 +54442,8 @@ const VIABILIDADE_GEMAS_DATA = [
     "Quantidade de Gemas Total": "58",
     "Quantidade de Gemas Viáveis": "55",
     "Quantidade de Gemas Inviáveis": "3",
-    "Fazenda": NaN
+    "Fazenda": null,
+    "Unnamed: 20": null
   },
   {
     "ID": "3428381",
@@ -52094,7 +54465,8 @@ const VIABILIDADE_GEMAS_DATA = [
     "Quantidade de Gemas Total": "58",
     "Quantidade de Gemas Viáveis": "58",
     "Quantidade de Gemas Inviáveis": "0",
-    "Fazenda": NaN
+    "Fazenda": null,
+    "Unnamed: 20": null
   },
   {
     "ID": "3428262",
@@ -52116,7 +54488,8 @@ const VIABILIDADE_GEMAS_DATA = [
     "Quantidade de Gemas Total": "60",
     "Quantidade de Gemas Viáveis": "60",
     "Quantidade de Gemas Inviáveis": "0",
-    "Fazenda": NaN
+    "Fazenda": null,
+    "Unnamed: 20": null
   },
   {
     "ID": "3428291",
@@ -52138,7 +54511,8 @@ const VIABILIDADE_GEMAS_DATA = [
     "Quantidade de Gemas Total": "48",
     "Quantidade de Gemas Viáveis": "48",
     "Quantidade de Gemas Inviáveis": "0",
-    "Fazenda": NaN
+    "Fazenda": null,
+    "Unnamed: 20": null
   },
   {
     "ID": "3428680",
@@ -52160,7 +54534,8 @@ const VIABILIDADE_GEMAS_DATA = [
     "Quantidade de Gemas Total": "60",
     "Quantidade de Gemas Viáveis": "57",
     "Quantidade de Gemas Inviáveis": "3",
-    "Fazenda": NaN
+    "Fazenda": null,
+    "Unnamed: 20": null
   },
   {
     "ID": "3428370",
@@ -52182,7 +54557,8 @@ const VIABILIDADE_GEMAS_DATA = [
     "Quantidade de Gemas Total": "54",
     "Quantidade de Gemas Viáveis": "54",
     "Quantidade de Gemas Inviáveis": "0",
-    "Fazenda": NaN
+    "Fazenda": null,
+    "Unnamed: 20": null
   },
   {
     "ID": "3428675",
@@ -52204,7 +54580,8 @@ const VIABILIDADE_GEMAS_DATA = [
     "Quantidade de Gemas Total": "60",
     "Quantidade de Gemas Viáveis": "58",
     "Quantidade de Gemas Inviáveis": "2",
-    "Fazenda": NaN
+    "Fazenda": null,
+    "Unnamed: 20": null
   },
   {
     "ID": "3428362",
@@ -52226,7 +54603,8 @@ const VIABILIDADE_GEMAS_DATA = [
     "Quantidade de Gemas Total": "56",
     "Quantidade de Gemas Viáveis": "56",
     "Quantidade de Gemas Inviáveis": "0",
-    "Fazenda": NaN
+    "Fazenda": null,
+    "Unnamed: 20": null
   },
   {
     "ID": "3428670",
@@ -52248,7 +54626,8 @@ const VIABILIDADE_GEMAS_DATA = [
     "Quantidade de Gemas Total": "60",
     "Quantidade de Gemas Viáveis": "55",
     "Quantidade de Gemas Inviáveis": "5",
-    "Fazenda": NaN
+    "Fazenda": null,
+    "Unnamed: 20": null
   },
   {
     "ID": "3428357",
@@ -52270,7 +54649,8 @@ const VIABILIDADE_GEMAS_DATA = [
     "Quantidade de Gemas Total": "58",
     "Quantidade de Gemas Viáveis": "58",
     "Quantidade de Gemas Inviáveis": "0",
-    "Fazenda": NaN
+    "Fazenda": null,
+    "Unnamed: 20": null
   },
   {
     "ID": "3428352",
@@ -52292,7 +54672,8 @@ const VIABILIDADE_GEMAS_DATA = [
     "Quantidade de Gemas Total": "55",
     "Quantidade de Gemas Viáveis": "55",
     "Quantidade de Gemas Inviáveis": "0",
-    "Fazenda": NaN
+    "Fazenda": null,
+    "Unnamed: 20": null
   },
   {
     "ID": "3428665",
@@ -52314,7 +54695,8 @@ const VIABILIDADE_GEMAS_DATA = [
     "Quantidade de Gemas Total": "52",
     "Quantidade de Gemas Viáveis": "49",
     "Quantidade de Gemas Inviáveis": "3",
-    "Fazenda": NaN
+    "Fazenda": null,
+    "Unnamed: 20": null
   },
   {
     "ID": "3428346",
@@ -52336,7 +54718,8 @@ const VIABILIDADE_GEMAS_DATA = [
     "Quantidade de Gemas Total": "56",
     "Quantidade de Gemas Viáveis": "56",
     "Quantidade de Gemas Inviáveis": "0",
-    "Fazenda": NaN
+    "Fazenda": null,
+    "Unnamed: 20": null
   },
   {
     "ID": "3428335",
@@ -52358,7 +54741,8 @@ const VIABILIDADE_GEMAS_DATA = [
     "Quantidade de Gemas Total": "60",
     "Quantidade de Gemas Viáveis": "60",
     "Quantidade de Gemas Inviáveis": "0",
-    "Fazenda": NaN
+    "Fazenda": null,
+    "Unnamed: 20": null
   },
   {
     "ID": "3428323",
@@ -52380,7 +54764,8 @@ const VIABILIDADE_GEMAS_DATA = [
     "Quantidade de Gemas Total": "58",
     "Quantidade de Gemas Viáveis": "58",
     "Quantidade de Gemas Inviáveis": "0",
-    "Fazenda": NaN
+    "Fazenda": null,
+    "Unnamed: 20": null
   },
   {
     "ID": "3428316",
@@ -52402,7 +54787,8 @@ const VIABILIDADE_GEMAS_DATA = [
     "Quantidade de Gemas Total": "54",
     "Quantidade de Gemas Viáveis": "54",
     "Quantidade de Gemas Inviáveis": "0",
-    "Fazenda": NaN
+    "Fazenda": null,
+    "Unnamed: 20": null
   },
   {
     "ID": "3426542",
@@ -52424,7 +54810,8 @@ const VIABILIDADE_GEMAS_DATA = [
     "Quantidade de Gemas Total": "56",
     "Quantidade de Gemas Viáveis": "56",
     "Quantidade de Gemas Inviáveis": "0",
-    "Fazenda": NaN
+    "Fazenda": null,
+    "Unnamed: 20": null
   },
   {
     "ID": "3426537",
@@ -52446,7 +54833,8 @@ const VIABILIDADE_GEMAS_DATA = [
     "Quantidade de Gemas Total": "56",
     "Quantidade de Gemas Viáveis": "56",
     "Quantidade de Gemas Inviáveis": "0",
-    "Fazenda": NaN
+    "Fazenda": null,
+    "Unnamed: 20": null
   },
   {
     "ID": "3426532",
@@ -52468,7 +54856,8 @@ const VIABILIDADE_GEMAS_DATA = [
     "Quantidade de Gemas Total": "58",
     "Quantidade de Gemas Viáveis": "58",
     "Quantidade de Gemas Inviáveis": "0",
-    "Fazenda": NaN
+    "Fazenda": null,
+    "Unnamed: 20": null
   },
   {
     "ID": "3426527",
@@ -52490,7 +54879,8 @@ const VIABILIDADE_GEMAS_DATA = [
     "Quantidade de Gemas Total": "57",
     "Quantidade de Gemas Viáveis": "57",
     "Quantidade de Gemas Inviáveis": "0",
-    "Fazenda": NaN
+    "Fazenda": null,
+    "Unnamed: 20": null
   },
   {
     "ID": "3426517",
@@ -52512,7 +54902,8 @@ const VIABILIDADE_GEMAS_DATA = [
     "Quantidade de Gemas Total": "54",
     "Quantidade de Gemas Viáveis": "54",
     "Quantidade de Gemas Inviáveis": "0",
-    "Fazenda": NaN
+    "Fazenda": null,
+    "Unnamed: 20": null
   },
   {
     "ID": "3425038",
@@ -52534,7 +54925,8 @@ const VIABILIDADE_GEMAS_DATA = [
     "Quantidade de Gemas Total": "59",
     "Quantidade de Gemas Viáveis": "59",
     "Quantidade de Gemas Inviáveis": "0",
-    "Fazenda": NaN
+    "Fazenda": null,
+    "Unnamed: 20": null
   },
   {
     "ID": "3425035",
@@ -52556,7 +54948,8 @@ const VIABILIDADE_GEMAS_DATA = [
     "Quantidade de Gemas Total": "55",
     "Quantidade de Gemas Viáveis": "55",
     "Quantidade de Gemas Inviáveis": "0",
-    "Fazenda": NaN
+    "Fazenda": null,
+    "Unnamed: 20": null
   },
   {
     "ID": "3425012",
@@ -52578,7 +54971,8 @@ const VIABILIDADE_GEMAS_DATA = [
     "Quantidade de Gemas Total": "58",
     "Quantidade de Gemas Viáveis": "58",
     "Quantidade de Gemas Inviáveis": "0",
-    "Fazenda": NaN
+    "Fazenda": null,
+    "Unnamed: 20": null
   },
   {
     "ID": "3425008",
@@ -52600,7 +54994,8 @@ const VIABILIDADE_GEMAS_DATA = [
     "Quantidade de Gemas Total": "59",
     "Quantidade de Gemas Viáveis": "59",
     "Quantidade de Gemas Inviáveis": "0",
-    "Fazenda": NaN
+    "Fazenda": null,
+    "Unnamed: 20": null
   },
   {
     "ID": "3424978",
@@ -52622,7 +55017,8 @@ const VIABILIDADE_GEMAS_DATA = [
     "Quantidade de Gemas Total": "60",
     "Quantidade de Gemas Viáveis": "60",
     "Quantidade de Gemas Inviáveis": "0",
-    "Fazenda": NaN
+    "Fazenda": null,
+    "Unnamed: 20": null
   },
   {
     "ID": "3424970",
@@ -52644,7 +55040,8 @@ const VIABILIDADE_GEMAS_DATA = [
     "Quantidade de Gemas Total": "60",
     "Quantidade de Gemas Viáveis": "60",
     "Quantidade de Gemas Inviáveis": "0",
-    "Fazenda": NaN
+    "Fazenda": null,
+    "Unnamed: 20": null
   },
   {
     "ID": "3423177",
@@ -52666,7 +55063,8 @@ const VIABILIDADE_GEMAS_DATA = [
     "Quantidade de Gemas Total": "57",
     "Quantidade de Gemas Viáveis": "57",
     "Quantidade de Gemas Inviáveis": "0",
-    "Fazenda": NaN
+    "Fazenda": null,
+    "Unnamed: 20": null
   },
   {
     "ID": "3423173",
@@ -52688,7 +55086,8 @@ const VIABILIDADE_GEMAS_DATA = [
     "Quantidade de Gemas Total": "58",
     "Quantidade de Gemas Viáveis": "58",
     "Quantidade de Gemas Inviáveis": "0",
-    "Fazenda": NaN
+    "Fazenda": null,
+    "Unnamed: 20": null
   },
   {
     "ID": "3423021",
@@ -52710,7 +55109,8 @@ const VIABILIDADE_GEMAS_DATA = [
     "Quantidade de Gemas Total": "60",
     "Quantidade de Gemas Viáveis": "58",
     "Quantidade de Gemas Inviáveis": "2",
-    "Fazenda": NaN
+    "Fazenda": null,
+    "Unnamed: 20": null
   },
   {
     "ID": "3423162",
@@ -52732,7 +55132,8 @@ const VIABILIDADE_GEMAS_DATA = [
     "Quantidade de Gemas Total": "58",
     "Quantidade de Gemas Viáveis": "58",
     "Quantidade de Gemas Inviáveis": "0",
-    "Fazenda": NaN
+    "Fazenda": null,
+    "Unnamed: 20": null
   },
   {
     "ID": "3422747",
@@ -52754,7 +55155,8 @@ const VIABILIDADE_GEMAS_DATA = [
     "Quantidade de Gemas Total": "48",
     "Quantidade de Gemas Viáveis": "48",
     "Quantidade de Gemas Inviáveis": "0",
-    "Fazenda": NaN
+    "Fazenda": null,
+    "Unnamed: 20": null
   },
   {
     "ID": "3423157",
@@ -52776,7 +55178,8 @@ const VIABILIDADE_GEMAS_DATA = [
     "Quantidade de Gemas Total": "54",
     "Quantidade de Gemas Viáveis": "54",
     "Quantidade de Gemas Inviáveis": "0",
-    "Fazenda": NaN
+    "Fazenda": null,
+    "Unnamed: 20": null
   },
   {
     "ID": "3422741",
@@ -52798,7 +55201,8 @@ const VIABILIDADE_GEMAS_DATA = [
     "Quantidade de Gemas Total": "59",
     "Quantidade de Gemas Viáveis": "59",
     "Quantidade de Gemas Inviáveis": "0",
-    "Fazenda": NaN
+    "Fazenda": null,
+    "Unnamed: 20": null
   },
   {
     "ID": "3423152",
@@ -52820,7 +55224,8 @@ const VIABILIDADE_GEMAS_DATA = [
     "Quantidade de Gemas Total": "55",
     "Quantidade de Gemas Viáveis": "55",
     "Quantidade de Gemas Inviáveis": "0",
-    "Fazenda": NaN
+    "Fazenda": null,
+    "Unnamed: 20": null
   },
   {
     "ID": "3422736",
@@ -52842,7 +55247,8 @@ const VIABILIDADE_GEMAS_DATA = [
     "Quantidade de Gemas Total": "61",
     "Quantidade de Gemas Viáveis": "60",
     "Quantidade de Gemas Inviáveis": "1",
-    "Fazenda": NaN
+    "Fazenda": null,
+    "Unnamed: 20": null
   },
   {
     "ID": "3422802",
@@ -52864,7 +55270,8 @@ const VIABILIDADE_GEMAS_DATA = [
     "Quantidade de Gemas Total": "58",
     "Quantidade de Gemas Viáveis": "58",
     "Quantidade de Gemas Inviáveis": "0",
-    "Fazenda": NaN
+    "Fazenda": null,
+    "Unnamed: 20": null
   },
   {
     "ID": "3422767",
@@ -52886,7 +55293,8 @@ const VIABILIDADE_GEMAS_DATA = [
     "Quantidade de Gemas Total": "55",
     "Quantidade de Gemas Viáveis": "55",
     "Quantidade de Gemas Inviáveis": "0",
-    "Fazenda": NaN
+    "Fazenda": null,
+    "Unnamed: 20": null
   },
   {
     "ID": "3422755",
@@ -52908,7 +55316,8 @@ const VIABILIDADE_GEMAS_DATA = [
     "Quantidade de Gemas Total": "59",
     "Quantidade de Gemas Viáveis": "59",
     "Quantidade de Gemas Inviáveis": "0",
-    "Fazenda": NaN
+    "Fazenda": null,
+    "Unnamed: 20": null
   },
   {
     "ID": "3422934",
@@ -52930,7 +55339,8 @@ const VIABILIDADE_GEMAS_DATA = [
     "Quantidade de Gemas Total": "58",
     "Quantidade de Gemas Viáveis": "58",
     "Quantidade de Gemas Inviáveis": "0",
-    "Fazenda": NaN
+    "Fazenda": null,
+    "Unnamed: 20": null
   },
   {
     "ID": "3421342",
@@ -52952,7 +55362,8 @@ const VIABILIDADE_GEMAS_DATA = [
     "Quantidade de Gemas Total": "60",
     "Quantidade de Gemas Viáveis": "60",
     "Quantidade de Gemas Inviáveis": "0",
-    "Fazenda": NaN
+    "Fazenda": null,
+    "Unnamed: 20": null
   },
   {
     "ID": "3421184",
@@ -52974,7 +55385,8 @@ const VIABILIDADE_GEMAS_DATA = [
     "Quantidade de Gemas Total": "55",
     "Quantidade de Gemas Viáveis": "55",
     "Quantidade de Gemas Inviáveis": "0",
-    "Fazenda": NaN
+    "Fazenda": null,
+    "Unnamed: 20": null
   },
   {
     "ID": "3421177",
@@ -52996,7 +55408,8 @@ const VIABILIDADE_GEMAS_DATA = [
     "Quantidade de Gemas Total": "60",
     "Quantidade de Gemas Viáveis": "60",
     "Quantidade de Gemas Inviáveis": "0",
-    "Fazenda": NaN
+    "Fazenda": null,
+    "Unnamed: 20": null
   },
   {
     "ID": "3421130",
@@ -53018,7 +55431,8 @@ const VIABILIDADE_GEMAS_DATA = [
     "Quantidade de Gemas Total": "55",
     "Quantidade de Gemas Viáveis": "55",
     "Quantidade de Gemas Inviáveis": "0",
-    "Fazenda": NaN
+    "Fazenda": null,
+    "Unnamed: 20": null
   },
   {
     "ID": "3421172",
@@ -53040,7 +55454,8 @@ const VIABILIDADE_GEMAS_DATA = [
     "Quantidade de Gemas Total": "55",
     "Quantidade de Gemas Viáveis": "55",
     "Quantidade de Gemas Inviáveis": "0",
-    "Fazenda": NaN
+    "Fazenda": null,
+    "Unnamed: 20": null
   },
   {
     "ID": "3421171",
@@ -53062,7 +55477,8 @@ const VIABILIDADE_GEMAS_DATA = [
     "Quantidade de Gemas Total": "56",
     "Quantidade de Gemas Viáveis": "56",
     "Quantidade de Gemas Inviáveis": "0",
-    "Fazenda": NaN
+    "Fazenda": null,
+    "Unnamed: 20": null
   },
   {
     "ID": "3421170",
@@ -53084,7 +55500,8 @@ const VIABILIDADE_GEMAS_DATA = [
     "Quantidade de Gemas Total": "58",
     "Quantidade de Gemas Viáveis": "58",
     "Quantidade de Gemas Inviáveis": "0",
-    "Fazenda": NaN
+    "Fazenda": null,
+    "Unnamed: 20": null
   },
   {
     "ID": "3421164",
@@ -53106,7 +55523,8 @@ const VIABILIDADE_GEMAS_DATA = [
     "Quantidade de Gemas Total": "54",
     "Quantidade de Gemas Viáveis": "54",
     "Quantidade de Gemas Inviáveis": "0",
-    "Fazenda": NaN
+    "Fazenda": null,
+    "Unnamed: 20": null
   },
   {
     "ID": "3417434",
@@ -53128,7 +55546,8 @@ const VIABILIDADE_GEMAS_DATA = [
     "Quantidade de Gemas Total": "58",
     "Quantidade de Gemas Viáveis": "58",
     "Quantidade de Gemas Inviáveis": "0",
-    "Fazenda": NaN
+    "Fazenda": null,
+    "Unnamed: 20": null
   },
   {
     "ID": "3417429",
@@ -53150,7 +55569,8 @@ const VIABILIDADE_GEMAS_DATA = [
     "Quantidade de Gemas Total": "55",
     "Quantidade de Gemas Viáveis": "55",
     "Quantidade de Gemas Inviáveis": "0",
-    "Fazenda": NaN
+    "Fazenda": null,
+    "Unnamed: 20": null
   },
   {
     "ID": "3417424",
@@ -53172,7 +55592,8 @@ const VIABILIDADE_GEMAS_DATA = [
     "Quantidade de Gemas Total": "55",
     "Quantidade de Gemas Viáveis": "55",
     "Quantidade de Gemas Inviáveis": "0",
-    "Fazenda": NaN
+    "Fazenda": null,
+    "Unnamed: 20": null
   },
   {
     "ID": "3417420",
@@ -53194,7 +55615,8 @@ const VIABILIDADE_GEMAS_DATA = [
     "Quantidade de Gemas Total": "60",
     "Quantidade de Gemas Viáveis": "60",
     "Quantidade de Gemas Inviáveis": "0",
-    "Fazenda": NaN
+    "Fazenda": null,
+    "Unnamed: 20": null
   },
   {
     "ID": "3417415",
@@ -53216,7 +55638,8 @@ const VIABILIDADE_GEMAS_DATA = [
     "Quantidade de Gemas Total": "59",
     "Quantidade de Gemas Viáveis": "59",
     "Quantidade de Gemas Inviáveis": "0",
-    "Fazenda": NaN
+    "Fazenda": null,
+    "Unnamed: 20": null
   },
   {
     "ID": "3417410",
@@ -53238,7 +55661,8 @@ const VIABILIDADE_GEMAS_DATA = [
     "Quantidade de Gemas Total": "56",
     "Quantidade de Gemas Viáveis": "56",
     "Quantidade de Gemas Inviáveis": "0",
-    "Fazenda": NaN
+    "Fazenda": null,
+    "Unnamed: 20": null
   },
   {
     "ID": "3416395",
@@ -53260,7 +55684,8 @@ const VIABILIDADE_GEMAS_DATA = [
     "Quantidade de Gemas Total": "58",
     "Quantidade de Gemas Viáveis": "58",
     "Quantidade de Gemas Inviáveis": "0",
-    "Fazenda": NaN
+    "Fazenda": null,
+    "Unnamed: 20": null
   },
   {
     "ID": "3416390",
@@ -53282,7 +55707,8 @@ const VIABILIDADE_GEMAS_DATA = [
     "Quantidade de Gemas Total": "54",
     "Quantidade de Gemas Viáveis": "54",
     "Quantidade de Gemas Inviáveis": "0",
-    "Fazenda": NaN
+    "Fazenda": null,
+    "Unnamed: 20": null
   },
   {
     "ID": "3416386",
@@ -53304,7 +55730,8 @@ const VIABILIDADE_GEMAS_DATA = [
     "Quantidade de Gemas Total": "60",
     "Quantidade de Gemas Viáveis": "60",
     "Quantidade de Gemas Inviáveis": "0",
-    "Fazenda": NaN
+    "Fazenda": null,
+    "Unnamed: 20": null
   },
   {
     "ID": "3416379",
@@ -53326,7 +55753,8 @@ const VIABILIDADE_GEMAS_DATA = [
     "Quantidade de Gemas Total": "55",
     "Quantidade de Gemas Viáveis": "55",
     "Quantidade de Gemas Inviáveis": "0",
-    "Fazenda": NaN
+    "Fazenda": null,
+    "Unnamed: 20": null
   },
   {
     "ID": "3416374",
@@ -53348,7 +55776,8 @@ const VIABILIDADE_GEMAS_DATA = [
     "Quantidade de Gemas Total": "60",
     "Quantidade de Gemas Viáveis": "60",
     "Quantidade de Gemas Inviáveis": "0",
-    "Fazenda": NaN
+    "Fazenda": null,
+    "Unnamed: 20": null
   },
   {
     "ID": "3415087",
@@ -53370,7 +55799,8 @@ const VIABILIDADE_GEMAS_DATA = [
     "Quantidade de Gemas Total": "58",
     "Quantidade de Gemas Viáveis": "58",
     "Quantidade de Gemas Inviáveis": "0",
-    "Fazenda": NaN
+    "Fazenda": null,
+    "Unnamed: 20": null
   },
   {
     "ID": "3415082",
@@ -53392,7 +55822,8 @@ const VIABILIDADE_GEMAS_DATA = [
     "Quantidade de Gemas Total": "54",
     "Quantidade de Gemas Viáveis": "54",
     "Quantidade de Gemas Inviáveis": "0",
-    "Fazenda": NaN
+    "Fazenda": null,
+    "Unnamed: 20": null
   },
   {
     "ID": "3415075",
@@ -53414,7 +55845,8 @@ const VIABILIDADE_GEMAS_DATA = [
     "Quantidade de Gemas Total": "58",
     "Quantidade de Gemas Viáveis": "58",
     "Quantidade de Gemas Inviáveis": "0",
-    "Fazenda": NaN
+    "Fazenda": null,
+    "Unnamed: 20": null
   },
   {
     "ID": "3415070",
@@ -53436,7 +55868,8 @@ const VIABILIDADE_GEMAS_DATA = [
     "Quantidade de Gemas Total": "55",
     "Quantidade de Gemas Viáveis": "55",
     "Quantidade de Gemas Inviáveis": "0",
-    "Fazenda": NaN
+    "Fazenda": null,
+    "Unnamed: 20": null
   },
   {
     "ID": "3414951",
@@ -53458,7 +55891,8 @@ const VIABILIDADE_GEMAS_DATA = [
     "Quantidade de Gemas Total": "56",
     "Quantidade de Gemas Viáveis": "56",
     "Quantidade de Gemas Inviáveis": "0",
-    "Fazenda": NaN
+    "Fazenda": null,
+    "Unnamed: 20": null
   },
   {
     "ID": "3414947",
@@ -53480,7 +55914,8 @@ const VIABILIDADE_GEMAS_DATA = [
     "Quantidade de Gemas Total": "60",
     "Quantidade de Gemas Viáveis": "60",
     "Quantidade de Gemas Inviáveis": "0",
-    "Fazenda": NaN
+    "Fazenda": null,
+    "Unnamed: 20": null
   },
   {
     "ID": "3414940",
@@ -53502,7 +55937,8 @@ const VIABILIDADE_GEMAS_DATA = [
     "Quantidade de Gemas Total": "61",
     "Quantidade de Gemas Viáveis": "61",
     "Quantidade de Gemas Inviáveis": "0",
-    "Fazenda": NaN
+    "Fazenda": null,
+    "Unnamed: 20": null
   },
   {
     "ID": "3414932",
@@ -53524,7 +55960,8 @@ const VIABILIDADE_GEMAS_DATA = [
     "Quantidade de Gemas Total": "61",
     "Quantidade de Gemas Viáveis": "61",
     "Quantidade de Gemas Inviáveis": "0",
-    "Fazenda": NaN
+    "Fazenda": null,
+    "Unnamed: 20": null
   },
   {
     "ID": "3414915",
@@ -53546,7 +55983,8 @@ const VIABILIDADE_GEMAS_DATA = [
     "Quantidade de Gemas Total": "55",
     "Quantidade de Gemas Viáveis": "55",
     "Quantidade de Gemas Inviáveis": "0",
-    "Fazenda": NaN
+    "Fazenda": null,
+    "Unnamed: 20": null
   },
   {
     "ID": "3414902",
@@ -53568,7 +56006,8 @@ const VIABILIDADE_GEMAS_DATA = [
     "Quantidade de Gemas Total": "60",
     "Quantidade de Gemas Viáveis": "60",
     "Quantidade de Gemas Inviáveis": "0",
-    "Fazenda": NaN
+    "Fazenda": null,
+    "Unnamed: 20": null
   },
   {
     "ID": "3414895",
@@ -53590,7 +56029,8 @@ const VIABILIDADE_GEMAS_DATA = [
     "Quantidade de Gemas Total": "54",
     "Quantidade de Gemas Viáveis": "54",
     "Quantidade de Gemas Inviáveis": "0",
-    "Fazenda": NaN
+    "Fazenda": null,
+    "Unnamed: 20": null
   },
   {
     "ID": "3414885",
@@ -53612,7 +56052,8 @@ const VIABILIDADE_GEMAS_DATA = [
     "Quantidade de Gemas Total": "56",
     "Quantidade de Gemas Viáveis": "56",
     "Quantidade de Gemas Inviáveis": "0",
-    "Fazenda": NaN
+    "Fazenda": null,
+    "Unnamed: 20": null
   },
   {
     "ID": "3414880",
@@ -53634,7 +56075,8 @@ const VIABILIDADE_GEMAS_DATA = [
     "Quantidade de Gemas Total": "59",
     "Quantidade de Gemas Viáveis": "59",
     "Quantidade de Gemas Inviáveis": "0",
-    "Fazenda": NaN
+    "Fazenda": null,
+    "Unnamed: 20": null
   },
   {
     "ID": "3414875",
@@ -53656,7 +56098,8 @@ const VIABILIDADE_GEMAS_DATA = [
     "Quantidade de Gemas Total": "55",
     "Quantidade de Gemas Viáveis": "55",
     "Quantidade de Gemas Inviáveis": "0",
-    "Fazenda": NaN
+    "Fazenda": null,
+    "Unnamed: 20": null
   },
   {
     "ID": "3413432",
@@ -53678,7 +56121,8 @@ const VIABILIDADE_GEMAS_DATA = [
     "Quantidade de Gemas Total": "60",
     "Quantidade de Gemas Viáveis": "60",
     "Quantidade de Gemas Inviáveis": "0",
-    "Fazenda": NaN
+    "Fazenda": null,
+    "Unnamed: 20": null
   },
   {
     "ID": "3413427",
@@ -53700,7 +56144,8 @@ const VIABILIDADE_GEMAS_DATA = [
     "Quantidade de Gemas Total": "58",
     "Quantidade de Gemas Viáveis": "58",
     "Quantidade de Gemas Inviáveis": "0",
-    "Fazenda": NaN
+    "Fazenda": null,
+    "Unnamed: 20": null
   },
   {
     "ID": "3413421",
@@ -53722,7 +56167,8 @@ const VIABILIDADE_GEMAS_DATA = [
     "Quantidade de Gemas Total": "55",
     "Quantidade de Gemas Viáveis": "55",
     "Quantidade de Gemas Inviáveis": "0",
-    "Fazenda": NaN
+    "Fazenda": null,
+    "Unnamed: 20": null
   },
   {
     "ID": "3413415",
@@ -53744,7 +56190,8 @@ const VIABILIDADE_GEMAS_DATA = [
     "Quantidade de Gemas Total": "55",
     "Quantidade de Gemas Viáveis": "55",
     "Quantidade de Gemas Inviáveis": "0",
-    "Fazenda": NaN
+    "Fazenda": null,
+    "Unnamed: 20": null
   },
   {
     "ID": "3413409",
@@ -53766,7 +56213,8 @@ const VIABILIDADE_GEMAS_DATA = [
     "Quantidade de Gemas Total": "58",
     "Quantidade de Gemas Viáveis": "58",
     "Quantidade de Gemas Inviáveis": "0",
-    "Fazenda": NaN
+    "Fazenda": null,
+    "Unnamed: 20": null
   },
   {
     "ID": "3413401",
@@ -53788,7 +56236,8 @@ const VIABILIDADE_GEMAS_DATA = [
     "Quantidade de Gemas Total": "60",
     "Quantidade de Gemas Viáveis": "60",
     "Quantidade de Gemas Inviáveis": "0",
-    "Fazenda": NaN
+    "Fazenda": null,
+    "Unnamed: 20": null
   },
   {
     "ID": "3413449",
@@ -53810,7 +56259,8 @@ const VIABILIDADE_GEMAS_DATA = [
     "Quantidade de Gemas Total": "56",
     "Quantidade de Gemas Viáveis": "56",
     "Quantidade de Gemas Inviáveis": "0",
-    "Fazenda": NaN
+    "Fazenda": null,
+    "Unnamed: 20": null
   },
   {
     "ID": "3413391",
@@ -53832,7 +56282,8 @@ const VIABILIDADE_GEMAS_DATA = [
     "Quantidade de Gemas Total": "60",
     "Quantidade de Gemas Viáveis": "60",
     "Quantidade de Gemas Inviáveis": "0",
-    "Fazenda": NaN
+    "Fazenda": null,
+    "Unnamed: 20": null
   },
   {
     "ID": "3413386",
@@ -53854,7 +56305,8 @@ const VIABILIDADE_GEMAS_DATA = [
     "Quantidade de Gemas Total": "58",
     "Quantidade de Gemas Viáveis": "58",
     "Quantidade de Gemas Inviáveis": "0",
-    "Fazenda": NaN
+    "Fazenda": null,
+    "Unnamed: 20": null
   },
   {
     "ID": "3413382",
@@ -53876,7 +56328,8 @@ const VIABILIDADE_GEMAS_DATA = [
     "Quantidade de Gemas Total": "54",
     "Quantidade de Gemas Viáveis": "54",
     "Quantidade de Gemas Inviáveis": "0",
-    "Fazenda": NaN
+    "Fazenda": null,
+    "Unnamed: 20": null
   },
   {
     "ID": "3411796",
@@ -53898,7 +56351,8 @@ const VIABILIDADE_GEMAS_DATA = [
     "Quantidade de Gemas Total": "60",
     "Quantidade de Gemas Viáveis": "60",
     "Quantidade de Gemas Inviáveis": "0",
-    "Fazenda": NaN
+    "Fazenda": null,
+    "Unnamed: 20": null
   },
   {
     "ID": "3411791",
@@ -53920,7 +56374,8 @@ const VIABILIDADE_GEMAS_DATA = [
     "Quantidade de Gemas Total": "57",
     "Quantidade de Gemas Viáveis": "57",
     "Quantidade de Gemas Inviáveis": "0",
-    "Fazenda": NaN
+    "Fazenda": null,
+    "Unnamed: 20": null
   },
   {
     "ID": "3411786",
@@ -53942,7 +56397,8 @@ const VIABILIDADE_GEMAS_DATA = [
     "Quantidade de Gemas Total": "55",
     "Quantidade de Gemas Viáveis": "55",
     "Quantidade de Gemas Inviáveis": "0",
-    "Fazenda": NaN
+    "Fazenda": null,
+    "Unnamed: 20": null
   },
   {
     "ID": "3411628",
@@ -53964,7 +56420,8 @@ const VIABILIDADE_GEMAS_DATA = [
     "Quantidade de Gemas Total": "60",
     "Quantidade de Gemas Viáveis": "60",
     "Quantidade de Gemas Inviáveis": "0",
-    "Fazenda": NaN
+    "Fazenda": null,
+    "Unnamed: 20": null
   },
   {
     "ID": "3411622",
@@ -53986,7 +56443,8 @@ const VIABILIDADE_GEMAS_DATA = [
     "Quantidade de Gemas Total": "59",
     "Quantidade de Gemas Viáveis": "59",
     "Quantidade de Gemas Inviáveis": "0",
-    "Fazenda": NaN
+    "Fazenda": null,
+    "Unnamed: 20": null
   },
   {
     "ID": "3411617",
@@ -54008,7 +56466,8 @@ const VIABILIDADE_GEMAS_DATA = [
     "Quantidade de Gemas Total": "60",
     "Quantidade de Gemas Viáveis": "60",
     "Quantidade de Gemas Inviáveis": "0",
-    "Fazenda": NaN
+    "Fazenda": null,
+    "Unnamed: 20": null
   },
   {
     "ID": "3411612",
@@ -54030,7 +56489,8 @@ const VIABILIDADE_GEMAS_DATA = [
     "Quantidade de Gemas Total": "55",
     "Quantidade de Gemas Viáveis": "55",
     "Quantidade de Gemas Inviáveis": "0",
-    "Fazenda": NaN
+    "Fazenda": null,
+    "Unnamed: 20": null
   },
   {
     "ID": "3411604",
@@ -54052,7 +56512,8 @@ const VIABILIDADE_GEMAS_DATA = [
     "Quantidade de Gemas Total": "56",
     "Quantidade de Gemas Viáveis": "56",
     "Quantidade de Gemas Inviáveis": "0",
-    "Fazenda": NaN
+    "Fazenda": null,
+    "Unnamed: 20": null
   },
   {
     "ID": "3411599",
@@ -54074,7 +56535,8 @@ const VIABILIDADE_GEMAS_DATA = [
     "Quantidade de Gemas Total": "60",
     "Quantidade de Gemas Viáveis": "60",
     "Quantidade de Gemas Inviáveis": "0",
-    "Fazenda": NaN
+    "Fazenda": null,
+    "Unnamed: 20": null
   },
   {
     "ID": "3411595",
@@ -54096,7 +56558,8 @@ const VIABILIDADE_GEMAS_DATA = [
     "Quantidade de Gemas Total": "54",
     "Quantidade de Gemas Viáveis": "54",
     "Quantidade de Gemas Inviáveis": "0",
-    "Fazenda": NaN
+    "Fazenda": null,
+    "Unnamed: 20": null
   },
   {
     "ID": "3411859",
@@ -54118,7 +56581,8 @@ const VIABILIDADE_GEMAS_DATA = [
     "Quantidade de Gemas Total": "58",
     "Quantidade de Gemas Viáveis": "58",
     "Quantidade de Gemas Inviáveis": "0",
-    "Fazenda": NaN
+    "Fazenda": null,
+    "Unnamed: 20": null
   },
   {
     "ID": "3411773",
@@ -54140,7 +56604,8 @@ const VIABILIDADE_GEMAS_DATA = [
     "Quantidade de Gemas Total": "57",
     "Quantidade de Gemas Viáveis": "57",
     "Quantidade de Gemas Inviáveis": "0",
-    "Fazenda": NaN
+    "Fazenda": null,
+    "Unnamed: 20": null
   },
   {
     "ID": "3411577",
@@ -54162,7 +56627,8 @@ const VIABILIDADE_GEMAS_DATA = [
     "Quantidade de Gemas Total": "60",
     "Quantidade de Gemas Viáveis": "60",
     "Quantidade de Gemas Inviáveis": "0",
-    "Fazenda": NaN
+    "Fazenda": null,
+    "Unnamed: 20": null
   },
   {
     "ID": "3410285",
@@ -54184,7 +56650,8 @@ const VIABILIDADE_GEMAS_DATA = [
     "Quantidade de Gemas Total": "59",
     "Quantidade de Gemas Viáveis": "59",
     "Quantidade de Gemas Inviáveis": "0",
-    "Fazenda": NaN
+    "Fazenda": null,
+    "Unnamed: 20": null
   },
   {
     "ID": "3410284",
@@ -54206,7 +56673,8 @@ const VIABILIDADE_GEMAS_DATA = [
     "Quantidade de Gemas Total": "60",
     "Quantidade de Gemas Viáveis": "60",
     "Quantidade de Gemas Inviáveis": "0",
-    "Fazenda": NaN
+    "Fazenda": null,
+    "Unnamed: 20": null
   },
   {
     "ID": "3410262",
@@ -54228,7 +56696,8 @@ const VIABILIDADE_GEMAS_DATA = [
     "Quantidade de Gemas Total": "59",
     "Quantidade de Gemas Viáveis": "59",
     "Quantidade de Gemas Inviáveis": "0",
-    "Fazenda": NaN
+    "Fazenda": null,
+    "Unnamed: 20": null
   },
   {
     "ID": "3410045",
@@ -54250,7 +56719,8 @@ const VIABILIDADE_GEMAS_DATA = [
     "Quantidade de Gemas Total": "55",
     "Quantidade de Gemas Viáveis": "55",
     "Quantidade de Gemas Inviáveis": "0",
-    "Fazenda": NaN
+    "Fazenda": null,
+    "Unnamed: 20": null
   },
   {
     "ID": "3410037",
@@ -54272,7 +56742,8 @@ const VIABILIDADE_GEMAS_DATA = [
     "Quantidade de Gemas Total": "60",
     "Quantidade de Gemas Viáveis": "60",
     "Quantidade de Gemas Inviáveis": "0",
-    "Fazenda": NaN
+    "Fazenda": null,
+    "Unnamed: 20": null
   },
   {
     "ID": "3410233",
@@ -54294,7 +56765,8 @@ const VIABILIDADE_GEMAS_DATA = [
     "Quantidade de Gemas Total": "60",
     "Quantidade de Gemas Viáveis": "60",
     "Quantidade de Gemas Inviáveis": "0",
-    "Fazenda": NaN
+    "Fazenda": null,
+    "Unnamed: 20": null
   },
   {
     "ID": "3410030",
@@ -54316,7 +56788,8 @@ const VIABILIDADE_GEMAS_DATA = [
     "Quantidade de Gemas Total": "58",
     "Quantidade de Gemas Viáveis": "58",
     "Quantidade de Gemas Inviáveis": "0",
-    "Fazenda": NaN
+    "Fazenda": null,
+    "Unnamed: 20": null
   },
   {
     "ID": "3410022",
@@ -54338,7 +56811,8 @@ const VIABILIDADE_GEMAS_DATA = [
     "Quantidade de Gemas Total": "56",
     "Quantidade de Gemas Viáveis": "56",
     "Quantidade de Gemas Inviáveis": "0",
-    "Fazenda": NaN
+    "Fazenda": null,
+    "Unnamed: 20": null
   },
   {
     "ID": "3410017",
@@ -54360,7 +56834,8 @@ const VIABILIDADE_GEMAS_DATA = [
     "Quantidade de Gemas Total": "60",
     "Quantidade de Gemas Viáveis": "60",
     "Quantidade de Gemas Inviáveis": "0",
-    "Fazenda": NaN
+    "Fazenda": null,
+    "Unnamed: 20": null
   },
   {
     "ID": "3409998",
@@ -54382,7 +56857,8 @@ const VIABILIDADE_GEMAS_DATA = [
     "Quantidade de Gemas Total": "56",
     "Quantidade de Gemas Viáveis": "56",
     "Quantidade de Gemas Inviáveis": "0",
-    "Fazenda": NaN
+    "Fazenda": null,
+    "Unnamed: 20": null
   },
   {
     "ID": "3408570",
@@ -54404,7 +56880,8 @@ const VIABILIDADE_GEMAS_DATA = [
     "Quantidade de Gemas Total": "56",
     "Quantidade de Gemas Viáveis": "56",
     "Quantidade de Gemas Inviáveis": "0",
-    "Fazenda": NaN
+    "Fazenda": null,
+    "Unnamed: 20": null
   },
   {
     "ID": "3408565",
@@ -54426,7 +56903,8 @@ const VIABILIDADE_GEMAS_DATA = [
     "Quantidade de Gemas Total": "59",
     "Quantidade de Gemas Viáveis": "59",
     "Quantidade de Gemas Inviáveis": "0",
-    "Fazenda": NaN
+    "Fazenda": null,
+    "Unnamed: 20": null
   },
   {
     "ID": "3408558",
@@ -54448,7 +56926,8 @@ const VIABILIDADE_GEMAS_DATA = [
     "Quantidade de Gemas Total": "60",
     "Quantidade de Gemas Viáveis": "60",
     "Quantidade de Gemas Inviáveis": "0",
-    "Fazenda": NaN
+    "Fazenda": null,
+    "Unnamed: 20": null
   },
   {
     "ID": "3408553",
@@ -54470,7 +56949,8 @@ const VIABILIDADE_GEMAS_DATA = [
     "Quantidade de Gemas Total": "60",
     "Quantidade de Gemas Viáveis": "60",
     "Quantidade de Gemas Inviáveis": "0",
-    "Fazenda": NaN
+    "Fazenda": null,
+    "Unnamed: 20": null
   },
   {
     "ID": "3408547",
@@ -54492,7 +56972,8 @@ const VIABILIDADE_GEMAS_DATA = [
     "Quantidade de Gemas Total": "58",
     "Quantidade de Gemas Viáveis": "58",
     "Quantidade de Gemas Inviáveis": "0",
-    "Fazenda": NaN
+    "Fazenda": null,
+    "Unnamed: 20": null
   },
   {
     "ID": "3408150",
@@ -54514,7 +56995,8 @@ const VIABILIDADE_GEMAS_DATA = [
     "Quantidade de Gemas Total": "54",
     "Quantidade de Gemas Viáveis": "54",
     "Quantidade de Gemas Inviáveis": "0",
-    "Fazenda": NaN
+    "Fazenda": null,
+    "Unnamed: 20": null
   },
   {
     "ID": "3408147",
@@ -54536,7 +57018,8 @@ const VIABILIDADE_GEMAS_DATA = [
     "Quantidade de Gemas Total": "60",
     "Quantidade de Gemas Viáveis": "60",
     "Quantidade de Gemas Inviáveis": "0",
-    "Fazenda": NaN
+    "Fazenda": null,
+    "Unnamed: 20": null
   },
   {
     "ID": "3408138",
@@ -54558,7 +57041,8 @@ const VIABILIDADE_GEMAS_DATA = [
     "Quantidade de Gemas Total": "59",
     "Quantidade de Gemas Viáveis": "59",
     "Quantidade de Gemas Inviáveis": "0",
-    "Fazenda": NaN
+    "Fazenda": null,
+    "Unnamed: 20": null
   },
   {
     "ID": "3408121",
@@ -54580,7 +57064,8 @@ const VIABILIDADE_GEMAS_DATA = [
     "Quantidade de Gemas Total": "54",
     "Quantidade de Gemas Viáveis": "54",
     "Quantidade de Gemas Inviáveis": "0",
-    "Fazenda": NaN
+    "Fazenda": null,
+    "Unnamed: 20": null
   },
   {
     "ID": "3408112",
@@ -54602,7 +57087,8 @@ const VIABILIDADE_GEMAS_DATA = [
     "Quantidade de Gemas Total": "59",
     "Quantidade de Gemas Viáveis": "59",
     "Quantidade de Gemas Inviáveis": "0",
-    "Fazenda": NaN
+    "Fazenda": null,
+    "Unnamed: 20": null
   },
   {
     "ID": "3408110",
@@ -54624,7 +57110,8 @@ const VIABILIDADE_GEMAS_DATA = [
     "Quantidade de Gemas Total": "58",
     "Quantidade de Gemas Viáveis": "58",
     "Quantidade de Gemas Inviáveis": "0",
-    "Fazenda": NaN
+    "Fazenda": null,
+    "Unnamed: 20": null
   },
   {
     "ID": "3407989",
@@ -54646,7 +57133,8 @@ const VIABILIDADE_GEMAS_DATA = [
     "Quantidade de Gemas Total": "55",
     "Quantidade de Gemas Viáveis": "55",
     "Quantidade de Gemas Inviáveis": "0",
-    "Fazenda": NaN
+    "Fazenda": null,
+    "Unnamed: 20": null
   },
   {
     "ID": "4026569",
@@ -54668,7 +57156,8 @@ const VIABILIDADE_GEMAS_DATA = [
     "Quantidade de Gemas Total": "59",
     "Quantidade de Gemas Viáveis": "59",
     "Quantidade de Gemas Inviáveis": "0",
-    "Fazenda": "33302"
+    "Fazenda": "33302",
+    "Unnamed: 20": null
   },
   {
     "ID": "4026557",
@@ -54690,7 +57179,8 @@ const VIABILIDADE_GEMAS_DATA = [
     "Quantidade de Gemas Total": "58",
     "Quantidade de Gemas Viáveis": "58",
     "Quantidade de Gemas Inviáveis": "0",
-    "Fazenda": "33302"
+    "Fazenda": "33302",
+    "Unnamed: 20": null
   },
   {
     "ID": "4026552",
@@ -54712,7 +57202,8 @@ const VIABILIDADE_GEMAS_DATA = [
     "Quantidade de Gemas Total": "60",
     "Quantidade de Gemas Viáveis": "60",
     "Quantidade de Gemas Inviáveis": "0",
-    "Fazenda": "33302"
+    "Fazenda": "33302",
+    "Unnamed: 20": null
   },
   {
     "ID": "4026484",
@@ -54734,7 +57225,8 @@ const VIABILIDADE_GEMAS_DATA = [
     "Quantidade de Gemas Total": "59",
     "Quantidade de Gemas Viáveis": "59",
     "Quantidade de Gemas Inviáveis": "0",
-    "Fazenda": "33302"
+    "Fazenda": "33302",
+    "Unnamed: 20": null
   },
   {
     "ID": "4026480",
@@ -54756,7 +57248,8 @@ const VIABILIDADE_GEMAS_DATA = [
     "Quantidade de Gemas Total": "59",
     "Quantidade de Gemas Viáveis": "59",
     "Quantidade de Gemas Inviáveis": "0",
-    "Fazenda": "33302"
+    "Fazenda": "33302",
+    "Unnamed: 20": null
   },
   {
     "ID": "4026461",
@@ -54778,7 +57271,8 @@ const VIABILIDADE_GEMAS_DATA = [
     "Quantidade de Gemas Total": "60",
     "Quantidade de Gemas Viáveis": "60",
     "Quantidade de Gemas Inviáveis": "0",
-    "Fazenda": "33302"
+    "Fazenda": "33302",
+    "Unnamed: 20": null
   },
   {
     "ID": "4026455",
@@ -54800,7 +57294,8 @@ const VIABILIDADE_GEMAS_DATA = [
     "Quantidade de Gemas Total": "58",
     "Quantidade de Gemas Viáveis": "58",
     "Quantidade de Gemas Inviáveis": "0",
-    "Fazenda": "33302"
+    "Fazenda": "33302",
+    "Unnamed: 20": null
   },
   {
     "ID": "4026449",
@@ -54822,7 +57317,8 @@ const VIABILIDADE_GEMAS_DATA = [
     "Quantidade de Gemas Total": "59",
     "Quantidade de Gemas Viáveis": "59",
     "Quantidade de Gemas Inviáveis": "0",
-    "Fazenda": "33302"
+    "Fazenda": "33302",
+    "Unnamed: 20": null
   },
   {
     "ID": "4026274",
@@ -54844,7 +57340,8 @@ const VIABILIDADE_GEMAS_DATA = [
     "Quantidade de Gemas Total": "60",
     "Quantidade de Gemas Viáveis": "60",
     "Quantidade de Gemas Inviáveis": "0",
-    "Fazenda": "33302"
+    "Fazenda": "33302",
+    "Unnamed: 20": null
   },
   {
     "ID": "4018223",
@@ -54866,7 +57363,8 @@ const VIABILIDADE_GEMAS_DATA = [
     "Quantidade de Gemas Total": "59",
     "Quantidade de Gemas Viáveis": "59",
     "Quantidade de Gemas Inviáveis": "0",
-    "Fazenda": "70426"
+    "Fazenda": "70426",
+    "Unnamed: 20": null
   },
   {
     "ID": "4018222",
@@ -54888,7 +57386,8 @@ const VIABILIDADE_GEMAS_DATA = [
     "Quantidade de Gemas Total": "57",
     "Quantidade de Gemas Viáveis": "57",
     "Quantidade de Gemas Inviáveis": "0",
-    "Fazenda": "70426"
+    "Fazenda": "70426",
+    "Unnamed: 20": null
   },
   {
     "ID": "4018217",
@@ -54910,7 +57409,8 @@ const VIABILIDADE_GEMAS_DATA = [
     "Quantidade de Gemas Total": "59",
     "Quantidade de Gemas Viáveis": "59",
     "Quantidade de Gemas Inviáveis": "0",
-    "Fazenda": "70426"
+    "Fazenda": "70426",
+    "Unnamed: 20": null
   },
   {
     "ID": "4018213",
@@ -54932,7 +57432,8 @@ const VIABILIDADE_GEMAS_DATA = [
     "Quantidade de Gemas Total": "60",
     "Quantidade de Gemas Viáveis": "60",
     "Quantidade de Gemas Inviáveis": "0",
-    "Fazenda": "70426"
+    "Fazenda": "70426",
+    "Unnamed: 20": null
   },
   {
     "ID": "4018209",
@@ -54954,7 +57455,8 @@ const VIABILIDADE_GEMAS_DATA = [
     "Quantidade de Gemas Total": "57",
     "Quantidade de Gemas Viáveis": "57",
     "Quantidade de Gemas Inviáveis": "0",
-    "Fazenda": "70426"
+    "Fazenda": "70426",
+    "Unnamed: 20": null
   },
   {
     "ID": "4018205",
@@ -54976,7 +57478,8 @@ const VIABILIDADE_GEMAS_DATA = [
     "Quantidade de Gemas Total": "58",
     "Quantidade de Gemas Viáveis": "58",
     "Quantidade de Gemas Inviáveis": "0",
-    "Fazenda": "70426"
+    "Fazenda": "70426",
+    "Unnamed: 20": null
   },
   {
     "ID": "4018201",
@@ -54998,7 +57501,8 @@ const VIABILIDADE_GEMAS_DATA = [
     "Quantidade de Gemas Total": "59",
     "Quantidade de Gemas Viáveis": "59",
     "Quantidade de Gemas Inviáveis": "0",
-    "Fazenda": "70426"
+    "Fazenda": "70426",
+    "Unnamed: 20": null
   },
   {
     "ID": "4018197",
@@ -55020,7 +57524,8 @@ const VIABILIDADE_GEMAS_DATA = [
     "Quantidade de Gemas Total": "60",
     "Quantidade de Gemas Viáveis": "60",
     "Quantidade de Gemas Inviáveis": "0",
-    "Fazenda": "70426"
+    "Fazenda": "70426",
+    "Unnamed: 20": null
   },
   {
     "ID": "4018193",
@@ -55042,7 +57547,8 @@ const VIABILIDADE_GEMAS_DATA = [
     "Quantidade de Gemas Total": "57",
     "Quantidade de Gemas Viáveis": "57",
     "Quantidade de Gemas Inviáveis": "0",
-    "Fazenda": "70426"
+    "Fazenda": "70426",
+    "Unnamed: 20": null
   },
   {
     "ID": "4018189",
@@ -55064,7 +57570,8 @@ const VIABILIDADE_GEMAS_DATA = [
     "Quantidade de Gemas Total": "58",
     "Quantidade de Gemas Viáveis": "58",
     "Quantidade de Gemas Inviáveis": "0",
-    "Fazenda": "70426"
+    "Fazenda": "70426",
+    "Unnamed: 20": null
   },
   {
     "ID": "4018185",
@@ -55086,7 +57593,8 @@ const VIABILIDADE_GEMAS_DATA = [
     "Quantidade de Gemas Total": "59",
     "Quantidade de Gemas Viáveis": "59",
     "Quantidade de Gemas Inviáveis": "0",
-    "Fazenda": "70426"
+    "Fazenda": "70426",
+    "Unnamed: 20": null
   },
   {
     "ID": "4018181",
@@ -55108,7 +57616,8 @@ const VIABILIDADE_GEMAS_DATA = [
     "Quantidade de Gemas Total": "60",
     "Quantidade de Gemas Viáveis": "60",
     "Quantidade de Gemas Inviáveis": "0",
-    "Fazenda": "70426"
+    "Fazenda": "70426",
+    "Unnamed: 20": null
   },
   {
     "ID": "4013471",
@@ -55130,7 +57639,8 @@ const VIABILIDADE_GEMAS_DATA = [
     "Quantidade de Gemas Total": "60",
     "Quantidade de Gemas Viáveis": "60",
     "Quantidade de Gemas Inviáveis": "0",
-    "Fazenda": "70301"
+    "Fazenda": "70301",
+    "Unnamed: 20": null
   },
   {
     "ID": "4013467",
@@ -55152,7 +57662,8 @@ const VIABILIDADE_GEMAS_DATA = [
     "Quantidade de Gemas Total": "58",
     "Quantidade de Gemas Viáveis": "58",
     "Quantidade de Gemas Inviáveis": "0",
-    "Fazenda": "70301"
+    "Fazenda": "70301",
+    "Unnamed: 20": null
   },
   {
     "ID": "4013462",
@@ -55174,7 +57685,8 @@ const VIABILIDADE_GEMAS_DATA = [
     "Quantidade de Gemas Total": "59",
     "Quantidade de Gemas Viáveis": "59",
     "Quantidade de Gemas Inviáveis": "0",
-    "Fazenda": "70301"
+    "Fazenda": "70301",
+    "Unnamed: 20": null
   },
   {
     "ID": "4013458",
@@ -55196,7 +57708,8 @@ const VIABILIDADE_GEMAS_DATA = [
     "Quantidade de Gemas Total": "60",
     "Quantidade de Gemas Viáveis": "60",
     "Quantidade de Gemas Inviáveis": "0",
-    "Fazenda": "70301"
+    "Fazenda": "70301",
+    "Unnamed: 20": null
   },
   {
     "ID": "4013454",
@@ -55218,7 +57731,8 @@ const VIABILIDADE_GEMAS_DATA = [
     "Quantidade de Gemas Total": "57",
     "Quantidade de Gemas Viáveis": "57",
     "Quantidade de Gemas Inviáveis": "2",
-    "Fazenda": "70301"
+    "Fazenda": "70301",
+    "Unnamed: 20": null
   },
   {
     "ID": "4013449",
@@ -55240,7 +57754,8 @@ const VIABILIDADE_GEMAS_DATA = [
     "Quantidade de Gemas Total": "59",
     "Quantidade de Gemas Viáveis": "59",
     "Quantidade de Gemas Inviáveis": "0",
-    "Fazenda": "70301"
+    "Fazenda": "70301",
+    "Unnamed: 20": null
   },
   {
     "ID": "4013445",
@@ -55262,7 +57777,8 @@ const VIABILIDADE_GEMAS_DATA = [
     "Quantidade de Gemas Total": "60",
     "Quantidade de Gemas Viáveis": "60",
     "Quantidade de Gemas Inviáveis": "0",
-    "Fazenda": "70301"
+    "Fazenda": "70301",
+    "Unnamed: 20": null
   },
   {
     "ID": "4013441",
@@ -55284,7 +57800,8 @@ const VIABILIDADE_GEMAS_DATA = [
     "Quantidade de Gemas Total": "58",
     "Quantidade de Gemas Viáveis": "58",
     "Quantidade de Gemas Inviáveis": "0",
-    "Fazenda": "70301"
+    "Fazenda": "70301",
+    "Unnamed: 20": null
   },
   {
     "ID": "4013437",
@@ -55306,7 +57823,8 @@ const VIABILIDADE_GEMAS_DATA = [
     "Quantidade de Gemas Total": "60",
     "Quantidade de Gemas Viáveis": "60",
     "Quantidade de Gemas Inviáveis": "0",
-    "Fazenda": "70301"
+    "Fazenda": "70301",
+    "Unnamed: 20": null
   },
   {
     "ID": "4013433",
@@ -55328,7 +57846,8 @@ const VIABILIDADE_GEMAS_DATA = [
     "Quantidade de Gemas Total": "59",
     "Quantidade de Gemas Viáveis": "59",
     "Quantidade de Gemas Inviáveis": "0",
-    "Fazenda": "70301"
+    "Fazenda": "70301",
+    "Unnamed: 20": null
   },
   {
     "ID": "4013428",
@@ -55350,7 +57869,8 @@ const VIABILIDADE_GEMAS_DATA = [
     "Quantidade de Gemas Total": "57",
     "Quantidade de Gemas Viáveis": "57",
     "Quantidade de Gemas Inviáveis": "3",
-    "Fazenda": "70301"
+    "Fazenda": "70301",
+    "Unnamed: 20": null
   },
   {
     "ID": "4010644",
@@ -55372,7 +57892,8 @@ const VIABILIDADE_GEMAS_DATA = [
     "Quantidade de Gemas Total": "60",
     "Quantidade de Gemas Viáveis": "60",
     "Quantidade de Gemas Inviáveis": "0",
-    "Fazenda": "70301"
+    "Fazenda": "70301",
+    "Unnamed: 20": null
   },
   {
     "ID": "4010637",
@@ -55394,7 +57915,8 @@ const VIABILIDADE_GEMAS_DATA = [
     "Quantidade de Gemas Total": "58",
     "Quantidade de Gemas Viáveis": "58",
     "Quantidade de Gemas Inviáveis": "0",
-    "Fazenda": "70301"
+    "Fazenda": "70301",
+    "Unnamed: 20": null
   },
   {
     "ID": "4010632",
@@ -55416,7 +57938,8 @@ const VIABILIDADE_GEMAS_DATA = [
     "Quantidade de Gemas Total": "60",
     "Quantidade de Gemas Viáveis": "60",
     "Quantidade de Gemas Inviáveis": "0",
-    "Fazenda": "70301"
+    "Fazenda": "70301",
+    "Unnamed: 20": null
   },
   {
     "ID": "4010628",
@@ -55438,7 +57961,8 @@ const VIABILIDADE_GEMAS_DATA = [
     "Quantidade de Gemas Total": "58",
     "Quantidade de Gemas Viáveis": "58",
     "Quantidade de Gemas Inviáveis": "0",
-    "Fazenda": "70301"
+    "Fazenda": "70301",
+    "Unnamed: 20": null
   },
   {
     "ID": "4010624",
@@ -55460,7 +57984,8 @@ const VIABILIDADE_GEMAS_DATA = [
     "Quantidade de Gemas Total": "57",
     "Quantidade de Gemas Viáveis": "57",
     "Quantidade de Gemas Inviáveis": "0",
-    "Fazenda": "70301"
+    "Fazenda": "70301",
+    "Unnamed: 20": null
   },
   {
     "ID": "4010620",
@@ -55482,7 +58007,8 @@ const VIABILIDADE_GEMAS_DATA = [
     "Quantidade de Gemas Total": "59",
     "Quantidade de Gemas Viáveis": "59",
     "Quantidade de Gemas Inviáveis": "0",
-    "Fazenda": "70301"
+    "Fazenda": "70301",
+    "Unnamed: 20": null
   },
   {
     "ID": "4010616",
@@ -55504,7 +58030,8 @@ const VIABILIDADE_GEMAS_DATA = [
     "Quantidade de Gemas Total": "58",
     "Quantidade de Gemas Viáveis": "58",
     "Quantidade de Gemas Inviáveis": "0",
-    "Fazenda": "70301"
+    "Fazenda": "70301",
+    "Unnamed: 20": null
   },
   {
     "ID": "4010612",
@@ -55526,7 +58053,8 @@ const VIABILIDADE_GEMAS_DATA = [
     "Quantidade de Gemas Total": "60",
     "Quantidade de Gemas Viáveis": "60",
     "Quantidade de Gemas Inviáveis": "0",
-    "Fazenda": "70301"
+    "Fazenda": "70301",
+    "Unnamed: 20": null
   },
   {
     "ID": "4006543",
@@ -55548,7 +58076,8 @@ const VIABILIDADE_GEMAS_DATA = [
     "Quantidade de Gemas Total": "59",
     "Quantidade de Gemas Viáveis": "59",
     "Quantidade de Gemas Inviáveis": "0",
-    "Fazenda": "70431"
+    "Fazenda": "70431",
+    "Unnamed: 20": null
   },
   {
     "ID": "4006539",
@@ -55570,7 +58099,8 @@ const VIABILIDADE_GEMAS_DATA = [
     "Quantidade de Gemas Total": "60",
     "Quantidade de Gemas Viáveis": "60",
     "Quantidade de Gemas Inviáveis": "0",
-    "Fazenda": "70431"
+    "Fazenda": "70431",
+    "Unnamed: 20": null
   },
   {
     "ID": "4006534",
@@ -55592,7 +58122,8 @@ const VIABILIDADE_GEMAS_DATA = [
     "Quantidade de Gemas Total": "57",
     "Quantidade de Gemas Viáveis": "57",
     "Quantidade de Gemas Inviáveis": "2",
-    "Fazenda": "70431"
+    "Fazenda": "70431",
+    "Unnamed: 20": null
   },
   {
     "ID": "4006519",
@@ -55614,7 +58145,8 @@ const VIABILIDADE_GEMAS_DATA = [
     "Quantidade de Gemas Total": "57",
     "Quantidade de Gemas Viáveis": "57",
     "Quantidade de Gemas Inviáveis": "0",
-    "Fazenda": "70431"
+    "Fazenda": "70431",
+    "Unnamed: 20": null
   },
   {
     "ID": "4006515",
@@ -55636,7 +58168,8 @@ const VIABILIDADE_GEMAS_DATA = [
     "Quantidade de Gemas Total": "60",
     "Quantidade de Gemas Viáveis": "60",
     "Quantidade de Gemas Inviáveis": "0",
-    "Fazenda": "70431"
+    "Fazenda": "70431",
+    "Unnamed: 20": null
   },
   {
     "ID": "4006511",
@@ -55658,7 +58191,8 @@ const VIABILIDADE_GEMAS_DATA = [
     "Quantidade de Gemas Total": "58",
     "Quantidade de Gemas Viáveis": "58",
     "Quantidade de Gemas Inviáveis": "0",
-    "Fazenda": "70431"
+    "Fazenda": "70431",
+    "Unnamed: 20": null
   },
   {
     "ID": "4006245",
@@ -55680,7 +58214,8 @@ const VIABILIDADE_GEMAS_DATA = [
     "Quantidade de Gemas Total": "58",
     "Quantidade de Gemas Viáveis": "52",
     "Quantidade de Gemas Inviáveis": "6",
-    "Fazenda": "70431"
+    "Fazenda": "70431",
+    "Unnamed: 20": null
   },
   {
     "ID": "4006507",
@@ -55702,7 +58237,8 @@ const VIABILIDADE_GEMAS_DATA = [
     "Quantidade de Gemas Total": "60",
     "Quantidade de Gemas Viáveis": "60",
     "Quantidade de Gemas Inviáveis": "0",
-    "Fazenda": "70431"
+    "Fazenda": "70431",
+    "Unnamed: 20": null
   },
   {
     "ID": "4006503",
@@ -55724,7 +58260,8 @@ const VIABILIDADE_GEMAS_DATA = [
     "Quantidade de Gemas Total": "59",
     "Quantidade de Gemas Viáveis": "59",
     "Quantidade de Gemas Inviáveis": "0",
-    "Fazenda": "70431"
+    "Fazenda": "70431",
+    "Unnamed: 20": null
   },
   {
     "ID": "4006499",
@@ -55746,7 +58283,8 @@ const VIABILIDADE_GEMAS_DATA = [
     "Quantidade de Gemas Total": "59",
     "Quantidade de Gemas Viáveis": "59",
     "Quantidade de Gemas Inviáveis": "0",
-    "Fazenda": "70431"
+    "Fazenda": "70431",
+    "Unnamed: 20": null
   },
   {
     "ID": "4006241",
@@ -55768,7 +58306,8 @@ const VIABILIDADE_GEMAS_DATA = [
     "Quantidade de Gemas Total": "70",
     "Quantidade de Gemas Viáveis": "62",
     "Quantidade de Gemas Inviáveis": "8",
-    "Fazenda": "70431"
+    "Fazenda": "70431",
+    "Unnamed: 20": null
   },
   {
     "ID": "4006495",
@@ -55790,7 +58329,8 @@ const VIABILIDADE_GEMAS_DATA = [
     "Quantidade de Gemas Total": "60",
     "Quantidade de Gemas Viáveis": "60",
     "Quantidade de Gemas Inviáveis": "0",
-    "Fazenda": "70431"
+    "Fazenda": "70431",
+    "Unnamed: 20": null
   },
   {
     "ID": "4006491",
@@ -55812,7 +58352,8 @@ const VIABILIDADE_GEMAS_DATA = [
     "Quantidade de Gemas Total": "58",
     "Quantidade de Gemas Viáveis": "58",
     "Quantidade de Gemas Inviáveis": "0",
-    "Fazenda": "70431"
+    "Fazenda": "70431",
+    "Unnamed: 20": null
   },
   {
     "ID": "4006237",
@@ -55834,7 +58375,8 @@ const VIABILIDADE_GEMAS_DATA = [
     "Quantidade de Gemas Total": "59",
     "Quantidade de Gemas Viáveis": "54",
     "Quantidade de Gemas Inviáveis": "5",
-    "Fazenda": "70431"
+    "Fazenda": "70431",
+    "Unnamed: 20": null
   },
   {
     "ID": "4006485",
@@ -55856,7 +58398,8 @@ const VIABILIDADE_GEMAS_DATA = [
     "Quantidade de Gemas Total": "60",
     "Quantidade de Gemas Viáveis": "60",
     "Quantidade de Gemas Inviáveis": "0",
-    "Fazenda": "70431"
+    "Fazenda": "70431",
+    "Unnamed: 20": null
   },
   {
     "ID": "4004107",
@@ -55878,7 +58421,8 @@ const VIABILIDADE_GEMAS_DATA = [
     "Quantidade de Gemas Total": "59",
     "Quantidade de Gemas Viáveis": "59",
     "Quantidade de Gemas Inviáveis": "0",
-    "Fazenda": "70431"
+    "Fazenda": "70431",
+    "Unnamed: 20": null
   },
   {
     "ID": "4004102",
@@ -55900,7 +58444,8 @@ const VIABILIDADE_GEMAS_DATA = [
     "Quantidade de Gemas Total": "57",
     "Quantidade de Gemas Viáveis": "57",
     "Quantidade de Gemas Inviáveis": "3",
-    "Fazenda": "70431"
+    "Fazenda": "70431",
+    "Unnamed: 20": null
   },
   {
     "ID": "4004100",
@@ -55922,7 +58467,8 @@ const VIABILIDADE_GEMAS_DATA = [
     "Quantidade de Gemas Total": "60",
     "Quantidade de Gemas Viáveis": "60",
     "Quantidade de Gemas Inviáveis": "0",
-    "Fazenda": "70431"
+    "Fazenda": "70431",
+    "Unnamed: 20": null
   },
   {
     "ID": "4004085",
@@ -55944,7 +58490,8 @@ const VIABILIDADE_GEMAS_DATA = [
     "Quantidade de Gemas Total": "59",
     "Quantidade de Gemas Viáveis": "59",
     "Quantidade de Gemas Inviáveis": "0",
-    "Fazenda": "70431"
+    "Fazenda": "70431",
+    "Unnamed: 20": null
   },
   {
     "ID": "4004081",
@@ -55966,7 +58513,8 @@ const VIABILIDADE_GEMAS_DATA = [
     "Quantidade de Gemas Total": "59",
     "Quantidade de Gemas Viáveis": "59",
     "Quantidade de Gemas Inviáveis": "0",
-    "Fazenda": "70431"
+    "Fazenda": "70431",
+    "Unnamed: 20": null
   },
   {
     "ID": "4004077",
@@ -55988,7 +58536,8 @@ const VIABILIDADE_GEMAS_DATA = [
     "Quantidade de Gemas Total": "58",
     "Quantidade de Gemas Viáveis": "58",
     "Quantidade de Gemas Inviáveis": "0",
-    "Fazenda": "70431"
+    "Fazenda": "70431",
+    "Unnamed: 20": null
   },
   {
     "ID": "4004071",
@@ -56010,7 +58559,8 @@ const VIABILIDADE_GEMAS_DATA = [
     "Quantidade de Gemas Total": "60",
     "Quantidade de Gemas Viáveis": "60",
     "Quantidade de Gemas Inviáveis": "0",
-    "Fazenda": "70431"
+    "Fazenda": "70431",
+    "Unnamed: 20": null
   },
   {
     "ID": "4004067",
@@ -56032,7 +58582,8 @@ const VIABILIDADE_GEMAS_DATA = [
     "Quantidade de Gemas Total": "59",
     "Quantidade de Gemas Viáveis": "59",
     "Quantidade de Gemas Inviáveis": "0",
-    "Fazenda": "70431"
+    "Fazenda": "70431",
+    "Unnamed: 20": null
   },
   {
     "ID": "4004061",
@@ -56054,7 +58605,8 @@ const VIABILIDADE_GEMAS_DATA = [
     "Quantidade de Gemas Total": "58",
     "Quantidade de Gemas Viáveis": "58",
     "Quantidade de Gemas Inviáveis": "0",
-    "Fazenda": "70431"
+    "Fazenda": "70431",
+    "Unnamed: 20": null
   },
   {
     "ID": "4004057",
@@ -56076,7 +58628,8 @@ const VIABILIDADE_GEMAS_DATA = [
     "Quantidade de Gemas Total": "60",
     "Quantidade de Gemas Viáveis": "60",
     "Quantidade de Gemas Inviáveis": "0",
-    "Fazenda": "70431"
+    "Fazenda": "70431",
+    "Unnamed: 20": null
   },
   {
     "ID": "3998481",
@@ -56098,7 +58651,8 @@ const VIABILIDADE_GEMAS_DATA = [
     "Quantidade de Gemas Total": "56",
     "Quantidade de Gemas Viáveis": "56",
     "Quantidade de Gemas Inviáveis": "3",
-    "Fazenda": "199802"
+    "Fazenda": "199802",
+    "Unnamed: 20": null
   },
   {
     "ID": "3998477",
@@ -56120,7 +58674,8 @@ const VIABILIDADE_GEMAS_DATA = [
     "Quantidade de Gemas Total": "58",
     "Quantidade de Gemas Viáveis": "58",
     "Quantidade de Gemas Inviáveis": "0",
-    "Fazenda": "199802"
+    "Fazenda": "199802",
+    "Unnamed: 20": null
   },
   {
     "ID": "3998474",
@@ -56142,7 +58697,8 @@ const VIABILIDADE_GEMAS_DATA = [
     "Quantidade de Gemas Total": "60",
     "Quantidade de Gemas Viáveis": "60",
     "Quantidade de Gemas Inviáveis": "0",
-    "Fazenda": "199802"
+    "Fazenda": "199802",
+    "Unnamed: 20": null
   },
   {
     "ID": "3998468",
@@ -56164,7 +58720,8 @@ const VIABILIDADE_GEMAS_DATA = [
     "Quantidade de Gemas Total": "59",
     "Quantidade de Gemas Viáveis": "59",
     "Quantidade de Gemas Inviáveis": "0",
-    "Fazenda": "199802"
+    "Fazenda": "199802",
+    "Unnamed: 20": null
   },
   {
     "ID": "3998464",
@@ -56186,7 +58743,8 @@ const VIABILIDADE_GEMAS_DATA = [
     "Quantidade de Gemas Total": "60",
     "Quantidade de Gemas Viáveis": "60",
     "Quantidade de Gemas Inviáveis": "0",
-    "Fazenda": "199802"
+    "Fazenda": "199802",
+    "Unnamed: 20": null
   },
   {
     "ID": "3998461",
@@ -56208,7 +58766,8 @@ const VIABILIDADE_GEMAS_DATA = [
     "Quantidade de Gemas Total": "58",
     "Quantidade de Gemas Viáveis": "58",
     "Quantidade de Gemas Inviáveis": "0",
-    "Fazenda": "199802"
+    "Fazenda": "199802",
+    "Unnamed: 20": null
   },
   {
     "ID": "3998457",
@@ -56230,7 +58789,8 @@ const VIABILIDADE_GEMAS_DATA = [
     "Quantidade de Gemas Total": "60",
     "Quantidade de Gemas Viáveis": "60",
     "Quantidade de Gemas Inviáveis": "0",
-    "Fazenda": "199802"
+    "Fazenda": "199802",
+    "Unnamed: 20": null
   },
   {
     "ID": "3998452",
@@ -56252,7 +58812,8 @@ const VIABILIDADE_GEMAS_DATA = [
     "Quantidade de Gemas Total": "59",
     "Quantidade de Gemas Viáveis": "59",
     "Quantidade de Gemas Inviáveis": "0",
-    "Fazenda": "199802"
+    "Fazenda": "199802",
+    "Unnamed: 20": null
   },
   {
     "ID": "3949208",
@@ -56274,7 +58835,8 @@ const VIABILIDADE_GEMAS_DATA = [
     "Quantidade de Gemas Total": "59",
     "Quantidade de Gemas Viáveis": "59",
     "Quantidade de Gemas Inviáveis": "0",
-    "Fazenda": "36813"
+    "Fazenda": "36813",
+    "Unnamed: 20": null
   },
   {
     "ID": "3949203",
@@ -56296,7 +58858,8 @@ const VIABILIDADE_GEMAS_DATA = [
     "Quantidade de Gemas Total": "60",
     "Quantidade de Gemas Viáveis": "60",
     "Quantidade de Gemas Inviáveis": "0",
-    "Fazenda": "36813"
+    "Fazenda": "36813",
+    "Unnamed: 20": null
   },
   {
     "ID": "3949198",
@@ -56318,7 +58881,8 @@ const VIABILIDADE_GEMAS_DATA = [
     "Quantidade de Gemas Total": "58",
     "Quantidade de Gemas Viáveis": "58",
     "Quantidade de Gemas Inviáveis": "0",
-    "Fazenda": "36813"
+    "Fazenda": "36813",
+    "Unnamed: 20": null
   },
   {
     "ID": "3949193",
@@ -56340,7 +58904,8 @@ const VIABILIDADE_GEMAS_DATA = [
     "Quantidade de Gemas Total": "60",
     "Quantidade de Gemas Viáveis": "60",
     "Quantidade de Gemas Inviáveis": "0",
-    "Fazenda": "36813"
+    "Fazenda": "36813",
+    "Unnamed: 20": null
   },
   {
     "ID": "3949188",
@@ -56362,7 +58927,8 @@ const VIABILIDADE_GEMAS_DATA = [
     "Quantidade de Gemas Total": "59",
     "Quantidade de Gemas Viáveis": "59",
     "Quantidade de Gemas Inviáveis": "0",
-    "Fazenda": "36813"
+    "Fazenda": "36813",
+    "Unnamed: 20": null
   },
   {
     "ID": "3949187",
@@ -56384,7 +58950,8 @@ const VIABILIDADE_GEMAS_DATA = [
     "Quantidade de Gemas Total": "60",
     "Quantidade de Gemas Viáveis": "60",
     "Quantidade de Gemas Inviáveis": "0",
-    "Fazenda": "36813"
+    "Fazenda": "36813",
+    "Unnamed: 20": null
   },
   {
     "ID": "3946372",
@@ -56406,7 +58973,8 @@ const VIABILIDADE_GEMAS_DATA = [
     "Quantidade de Gemas Total": "60",
     "Quantidade de Gemas Viáveis": "60",
     "Quantidade de Gemas Inviáveis": "0",
-    "Fazenda": "151901"
+    "Fazenda": "151901",
+    "Unnamed: 20": null
   },
   {
     "ID": "3946368",
@@ -56428,7 +58996,8 @@ const VIABILIDADE_GEMAS_DATA = [
     "Quantidade de Gemas Total": "59",
     "Quantidade de Gemas Viáveis": "59",
     "Quantidade de Gemas Inviáveis": "0",
-    "Fazenda": "151901"
+    "Fazenda": "151901",
+    "Unnamed: 20": null
   },
   {
     "ID": "3946361",
@@ -56450,7 +59019,8 @@ const VIABILIDADE_GEMAS_DATA = [
     "Quantidade de Gemas Total": "60",
     "Quantidade de Gemas Viáveis": "60",
     "Quantidade de Gemas Inviáveis": "0",
-    "Fazenda": "151901"
+    "Fazenda": "151901",
+    "Unnamed: 20": null
   },
   {
     "ID": "3946356",
@@ -56472,7 +59042,8 @@ const VIABILIDADE_GEMAS_DATA = [
     "Quantidade de Gemas Total": "59",
     "Quantidade de Gemas Viáveis": "59",
     "Quantidade de Gemas Inviáveis": "0",
-    "Fazenda": "151901"
+    "Fazenda": "151901",
+    "Unnamed: 20": null
   },
   {
     "ID": "3942439",
@@ -56494,7 +59065,8 @@ const VIABILIDADE_GEMAS_DATA = [
     "Quantidade de Gemas Total": "59",
     "Quantidade de Gemas Viáveis": "59",
     "Quantidade de Gemas Inviáveis": "0",
-    "Fazenda": "151901"
+    "Fazenda": "151901",
+    "Unnamed: 20": null
   },
   {
     "ID": "3942435",
@@ -56516,7 +59088,8 @@ const VIABILIDADE_GEMAS_DATA = [
     "Quantidade de Gemas Total": "60",
     "Quantidade de Gemas Viáveis": "60",
     "Quantidade de Gemas Inviáveis": "0",
-    "Fazenda": "151901"
+    "Fazenda": "151901",
+    "Unnamed: 20": null
   },
   {
     "ID": "3942427",
@@ -56538,7 +59111,8 @@ const VIABILIDADE_GEMAS_DATA = [
     "Quantidade de Gemas Total": "59",
     "Quantidade de Gemas Viáveis": "59",
     "Quantidade de Gemas Inviáveis": "0",
-    "Fazenda": "151901"
+    "Fazenda": "151901",
+    "Unnamed: 20": null
   },
   {
     "ID": "3942414",
@@ -56560,7 +59134,8 @@ const VIABILIDADE_GEMAS_DATA = [
     "Quantidade de Gemas Total": "60",
     "Quantidade de Gemas Viáveis": "60",
     "Quantidade de Gemas Inviáveis": "0",
-    "Fazenda": "151901"
+    "Fazenda": "151901",
+    "Unnamed: 20": null
   },
   {
     "ID": "3942399",
@@ -56582,7 +59157,8 @@ const VIABILIDADE_GEMAS_DATA = [
     "Quantidade de Gemas Total": "60",
     "Quantidade de Gemas Viáveis": "60",
     "Quantidade de Gemas Inviáveis": "0",
-    "Fazenda": "151901"
+    "Fazenda": "151901",
+    "Unnamed: 20": null
   },
   {
     "ID": "3942394",
@@ -56604,7 +59180,8 @@ const VIABILIDADE_GEMAS_DATA = [
     "Quantidade de Gemas Total": "59",
     "Quantidade de Gemas Viáveis": "59",
     "Quantidade de Gemas Inviáveis": "0",
-    "Fazenda": "151901"
+    "Fazenda": "151901",
+    "Unnamed: 20": null
   },
   {
     "ID": "3942389",
@@ -56626,7 +59203,8 @@ const VIABILIDADE_GEMAS_DATA = [
     "Quantidade de Gemas Total": "58",
     "Quantidade de Gemas Viáveis": "58",
     "Quantidade de Gemas Inviáveis": "0",
-    "Fazenda": "151901"
+    "Fazenda": "151901",
+    "Unnamed: 20": null
   },
   {
     "ID": "3942383",
@@ -56648,7 +59226,8 @@ const VIABILIDADE_GEMAS_DATA = [
     "Quantidade de Gemas Total": "59",
     "Quantidade de Gemas Viáveis": "59",
     "Quantidade de Gemas Inviáveis": "0",
-    "Fazenda": "151901"
+    "Fazenda": "151901",
+    "Unnamed: 20": null
   },
   {
     "ID": "3941331",
@@ -56670,7 +59249,8 @@ const VIABILIDADE_GEMAS_DATA = [
     "Quantidade de Gemas Total": "58",
     "Quantidade de Gemas Viáveis": "58",
     "Quantidade de Gemas Inviáveis": "0",
-    "Fazenda": "151901"
+    "Fazenda": "151901",
+    "Unnamed: 20": null
   },
   {
     "ID": "3939137",
@@ -56692,7 +59272,8 @@ const VIABILIDADE_GEMAS_DATA = [
     "Quantidade de Gemas Total": "60",
     "Quantidade de Gemas Viáveis": "60",
     "Quantidade de Gemas Inviáveis": "0",
-    "Fazenda": "151901"
+    "Fazenda": "151901",
+    "Unnamed: 20": null
   },
   {
     "ID": "3939362",
@@ -56714,7 +59295,8 @@ const VIABILIDADE_GEMAS_DATA = [
     "Quantidade de Gemas Total": "57",
     "Quantidade de Gemas Viáveis": "57",
     "Quantidade de Gemas Inviáveis": "0",
-    "Fazenda": "177012"
+    "Fazenda": "177012",
+    "Unnamed: 20": null
   },
   {
     "ID": "3939132",
@@ -56736,7 +59318,8 @@ const VIABILIDADE_GEMAS_DATA = [
     "Quantidade de Gemas Total": "59",
     "Quantidade de Gemas Viáveis": "59",
     "Quantidade de Gemas Inviáveis": "0",
-    "Fazenda": "151901"
+    "Fazenda": "151901",
+    "Unnamed: 20": null
   },
   {
     "ID": "3939127",
@@ -56758,7 +59341,8 @@ const VIABILIDADE_GEMAS_DATA = [
     "Quantidade de Gemas Total": "60",
     "Quantidade de Gemas Viáveis": "60",
     "Quantidade de Gemas Inviáveis": "0",
-    "Fazenda": "151901"
+    "Fazenda": "151901",
+    "Unnamed: 20": null
   },
   {
     "ID": "3939122",
@@ -56780,7 +59364,8 @@ const VIABILIDADE_GEMAS_DATA = [
     "Quantidade de Gemas Total": "59",
     "Quantidade de Gemas Viáveis": "59",
     "Quantidade de Gemas Inviáveis": "0",
-    "Fazenda": "151901"
+    "Fazenda": "151901",
+    "Unnamed: 20": null
   },
   {
     "ID": "3939355",
@@ -56802,7 +59387,8 @@ const VIABILIDADE_GEMAS_DATA = [
     "Quantidade de Gemas Total": "59",
     "Quantidade de Gemas Viáveis": "59",
     "Quantidade de Gemas Inviáveis": "0",
-    "Fazenda": "177012"
+    "Fazenda": "177012",
+    "Unnamed: 20": null
   },
   {
     "ID": "3939117",
@@ -56824,7 +59410,8 @@ const VIABILIDADE_GEMAS_DATA = [
     "Quantidade de Gemas Total": "60",
     "Quantidade de Gemas Viáveis": "60",
     "Quantidade de Gemas Inviáveis": "0",
-    "Fazenda": "151901"
+    "Fazenda": "151901",
+    "Unnamed: 20": null
   },
   {
     "ID": "3939340",
@@ -56846,7 +59433,8 @@ const VIABILIDADE_GEMAS_DATA = [
     "Quantidade de Gemas Total": "60",
     "Quantidade de Gemas Viáveis": "60",
     "Quantidade de Gemas Inviáveis": "0",
-    "Fazenda": "177012"
+    "Fazenda": "177012",
+    "Unnamed: 20": null
   },
   {
     "ID": "3939110",
@@ -56868,7 +59456,8 @@ const VIABILIDADE_GEMAS_DATA = [
     "Quantidade de Gemas Total": "60",
     "Quantidade de Gemas Viáveis": "60",
     "Quantidade de Gemas Inviáveis": "0",
-    "Fazenda": "151901"
+    "Fazenda": "151901",
+    "Unnamed: 20": null
   },
   {
     "ID": "3939108",
@@ -56890,7 +59479,8 @@ const VIABILIDADE_GEMAS_DATA = [
     "Quantidade de Gemas Total": "60",
     "Quantidade de Gemas Viáveis": "57",
     "Quantidade de Gemas Inviáveis": "3",
-    "Fazenda": "151901"
+    "Fazenda": "151901",
+    "Unnamed: 20": null
   },
   {
     "ID": "3939100",
@@ -56912,7 +59502,8 @@ const VIABILIDADE_GEMAS_DATA = [
     "Quantidade de Gemas Total": "59",
     "Quantidade de Gemas Viáveis": "57",
     "Quantidade de Gemas Inviáveis": "2",
-    "Fazenda": "151901"
+    "Fazenda": "151901",
+    "Unnamed: 20": null
   },
   {
     "ID": "3939447",
@@ -56934,7 +59525,8 @@ const VIABILIDADE_GEMAS_DATA = [
     "Quantidade de Gemas Total": "58",
     "Quantidade de Gemas Viáveis": "58",
     "Quantidade de Gemas Inviáveis": "0",
-    "Fazenda": "177012"
+    "Fazenda": "177012",
+    "Unnamed: 20": null
   },
   {
     "ID": "3938595",
@@ -56956,7 +59548,8 @@ const VIABILIDADE_GEMAS_DATA = [
     "Quantidade de Gemas Total": "60",
     "Quantidade de Gemas Viáveis": "54",
     "Quantidade de Gemas Inviáveis": "6",
-    "Fazenda": "151901"
+    "Fazenda": "151901",
+    "Unnamed: 20": null
   },
   {
     "ID": "3938588",
@@ -56978,7 +59571,8 @@ const VIABILIDADE_GEMAS_DATA = [
     "Quantidade de Gemas Total": "63",
     "Quantidade de Gemas Viáveis": "57",
     "Quantidade de Gemas Inviáveis": "6",
-    "Fazenda": "151901"
+    "Fazenda": "151901",
+    "Unnamed: 20": null
   },
   {
     "ID": "3938582",
@@ -57000,7 +59594,8 @@ const VIABILIDADE_GEMAS_DATA = [
     "Quantidade de Gemas Total": "53",
     "Quantidade de Gemas Viáveis": "50",
     "Quantidade de Gemas Inviáveis": "3",
-    "Fazenda": "151901"
+    "Fazenda": "151901",
+    "Unnamed: 20": null
   },
   {
     "ID": "3938508",
@@ -57022,7 +59617,8 @@ const VIABILIDADE_GEMAS_DATA = [
     "Quantidade de Gemas Total": "60",
     "Quantidade de Gemas Viáveis": "60",
     "Quantidade de Gemas Inviáveis": "0",
-    "Fazenda": "177012"
+    "Fazenda": "177012",
+    "Unnamed: 20": null
   },
   {
     "ID": "3936137",
@@ -57044,7 +59640,8 @@ const VIABILIDADE_GEMAS_DATA = [
     "Quantidade de Gemas Total": "60",
     "Quantidade de Gemas Viáveis": "60",
     "Quantidade de Gemas Inviáveis": "0",
-    "Fazenda": "151901"
+    "Fazenda": "151901",
+    "Unnamed: 20": null
   },
   {
     "ID": "3936133",
@@ -57066,7 +59663,8 @@ const VIABILIDADE_GEMAS_DATA = [
     "Quantidade de Gemas Total": "60",
     "Quantidade de Gemas Viáveis": "60",
     "Quantidade de Gemas Inviáveis": "0",
-    "Fazenda": "151901"
+    "Fazenda": "151901",
+    "Unnamed: 20": null
   },
   {
     "ID": "3936129",
@@ -57088,7 +59686,8 @@ const VIABILIDADE_GEMAS_DATA = [
     "Quantidade de Gemas Total": "58",
     "Quantidade de Gemas Viáveis": "58",
     "Quantidade de Gemas Inviáveis": "0",
-    "Fazenda": "151901"
+    "Fazenda": "151901",
+    "Unnamed: 20": null
   },
   {
     "ID": "3936123",
@@ -57110,7 +59709,8 @@ const VIABILIDADE_GEMAS_DATA = [
     "Quantidade de Gemas Total": "58",
     "Quantidade de Gemas Viáveis": "58",
     "Quantidade de Gemas Inviáveis": "0",
-    "Fazenda": "151901"
+    "Fazenda": "151901",
+    "Unnamed: 20": null
   },
   {
     "ID": "3936119",
@@ -57132,7 +59732,8 @@ const VIABILIDADE_GEMAS_DATA = [
     "Quantidade de Gemas Total": "55",
     "Quantidade de Gemas Viáveis": "55",
     "Quantidade de Gemas Inviáveis": "0",
-    "Fazenda": "151901"
+    "Fazenda": "151901",
+    "Unnamed: 20": null
   },
   {
     "ID": "3936113",
@@ -57154,7 +59755,8 @@ const VIABILIDADE_GEMAS_DATA = [
     "Quantidade de Gemas Total": "60",
     "Quantidade de Gemas Viáveis": "60",
     "Quantidade de Gemas Inviáveis": "0",
-    "Fazenda": "151901"
+    "Fazenda": "151901",
+    "Unnamed: 20": null
   },
   {
     "ID": "3936108",
@@ -57176,7 +59778,8 @@ const VIABILIDADE_GEMAS_DATA = [
     "Quantidade de Gemas Total": "57",
     "Quantidade de Gemas Viáveis": "57",
     "Quantidade de Gemas Inviáveis": "0",
-    "Fazenda": "151901"
+    "Fazenda": "151901",
+    "Unnamed: 20": null
   },
   {
     "ID": "3936103",
@@ -57198,7 +59801,8 @@ const VIABILIDADE_GEMAS_DATA = [
     "Quantidade de Gemas Total": "60",
     "Quantidade de Gemas Viáveis": "60",
     "Quantidade de Gemas Inviáveis": "0",
-    "Fazenda": "151901"
+    "Fazenda": "151901",
+    "Unnamed: 20": null
   },
   {
     "ID": "3936083",
@@ -57220,7 +59824,8 @@ const VIABILIDADE_GEMAS_DATA = [
     "Quantidade de Gemas Total": "60",
     "Quantidade de Gemas Viáveis": "60",
     "Quantidade de Gemas Inviáveis": "0",
-    "Fazenda": "151901"
+    "Fazenda": "151901",
+    "Unnamed: 20": null
   },
   {
     "ID": "3936054",
@@ -57242,7 +59847,8 @@ const VIABILIDADE_GEMAS_DATA = [
     "Quantidade de Gemas Total": "57",
     "Quantidade de Gemas Viáveis": "56",
     "Quantidade de Gemas Inviáveis": "1",
-    "Fazenda": "151901"
+    "Fazenda": "151901",
+    "Unnamed: 20": null
   },
   {
     "ID": "3936042",
@@ -57264,7 +59870,8 @@ const VIABILIDADE_GEMAS_DATA = [
     "Quantidade de Gemas Total": "60",
     "Quantidade de Gemas Viáveis": "60",
     "Quantidade de Gemas Inviáveis": "0",
-    "Fazenda": "151901"
+    "Fazenda": "151901",
+    "Unnamed: 20": null
   },
   {
     "ID": "3936037",
@@ -57286,7 +59893,8 @@ const VIABILIDADE_GEMAS_DATA = [
     "Quantidade de Gemas Total": "60",
     "Quantidade de Gemas Viáveis": "59",
     "Quantidade de Gemas Inviáveis": "0",
-    "Fazenda": "151901"
+    "Fazenda": "151901",
+    "Unnamed: 20": null
   },
   {
     "ID": "3936032",
@@ -57308,7 +59916,8 @@ const VIABILIDADE_GEMAS_DATA = [
     "Quantidade de Gemas Total": "59",
     "Quantidade de Gemas Viáveis": "59",
     "Quantidade de Gemas Inviáveis": "0",
-    "Fazenda": "151901"
+    "Fazenda": "151901",
+    "Unnamed: 20": null
   },
   {
     "ID": "3936028",
@@ -57330,7 +59939,8 @@ const VIABILIDADE_GEMAS_DATA = [
     "Quantidade de Gemas Total": "60",
     "Quantidade de Gemas Viáveis": "60",
     "Quantidade de Gemas Inviáveis": "0",
-    "Fazenda": "151901"
+    "Fazenda": "151901",
+    "Unnamed: 20": null
   },
   {
     "ID": "3931254",
@@ -57352,7 +59962,8 @@ const VIABILIDADE_GEMAS_DATA = [
     "Quantidade de Gemas Total": "59",
     "Quantidade de Gemas Viáveis": "59",
     "Quantidade de Gemas Inviáveis": "0",
-    "Fazenda": "67901"
+    "Fazenda": "67901",
+    "Unnamed: 20": null
   },
   {
     "ID": "3931251",
@@ -57374,7 +59985,8 @@ const VIABILIDADE_GEMAS_DATA = [
     "Quantidade de Gemas Total": "60",
     "Quantidade de Gemas Viáveis": "60",
     "Quantidade de Gemas Inviáveis": "0",
-    "Fazenda": "67901"
+    "Fazenda": "67901",
+    "Unnamed: 20": null
   },
   {
     "ID": "3931241",
@@ -57396,7 +60008,8 @@ const VIABILIDADE_GEMAS_DATA = [
     "Quantidade de Gemas Total": "59",
     "Quantidade de Gemas Viáveis": "59",
     "Quantidade de Gemas Inviáveis": "0",
-    "Fazenda": "67901"
+    "Fazenda": "67901",
+    "Unnamed: 20": null
   },
   {
     "ID": "3928759",
@@ -57418,7 +60031,8 @@ const VIABILIDADE_GEMAS_DATA = [
     "Quantidade de Gemas Total": "58",
     "Quantidade de Gemas Viáveis": "58",
     "Quantidade de Gemas Inviáveis": "0",
-    "Fazenda": "67901"
+    "Fazenda": "67901",
+    "Unnamed: 20": null
   },
   {
     "ID": "3928752",
@@ -57440,7 +60054,8 @@ const VIABILIDADE_GEMAS_DATA = [
     "Quantidade de Gemas Total": "59",
     "Quantidade de Gemas Viáveis": "59",
     "Quantidade de Gemas Inviáveis": "0",
-    "Fazenda": "67901"
+    "Fazenda": "67901",
+    "Unnamed: 20": null
   },
   {
     "ID": "3928749",
@@ -57462,7 +60077,8 @@ const VIABILIDADE_GEMAS_DATA = [
     "Quantidade de Gemas Total": "60",
     "Quantidade de Gemas Viáveis": "60",
     "Quantidade de Gemas Inviáveis": "0",
-    "Fazenda": "67901"
+    "Fazenda": "67901",
+    "Unnamed: 20": null
   },
   {
     "ID": "3928534",
@@ -57484,7 +60100,8 @@ const VIABILIDADE_GEMAS_DATA = [
     "Quantidade de Gemas Total": "57",
     "Quantidade de Gemas Viáveis": "57",
     "Quantidade de Gemas Inviáveis": "0",
-    "Fazenda": "151901"
+    "Fazenda": "151901",
+    "Unnamed: 20": null
   },
   {
     "ID": "3928741",
@@ -57506,7 +60123,8 @@ const VIABILIDADE_GEMAS_DATA = [
     "Quantidade de Gemas Total": "59",
     "Quantidade de Gemas Viáveis": "59",
     "Quantidade de Gemas Inviáveis": "0",
-    "Fazenda": "67901"
+    "Fazenda": "67901",
+    "Unnamed: 20": null
   },
   {
     "ID": "3928529",
@@ -57528,7 +60146,8 @@ const VIABILIDADE_GEMAS_DATA = [
     "Quantidade de Gemas Total": "60",
     "Quantidade de Gemas Viáveis": "60",
     "Quantidade de Gemas Inviáveis": "0",
-    "Fazenda": "151901"
+    "Fazenda": "151901",
+    "Unnamed: 20": null
   },
   {
     "ID": "3928738",
@@ -57550,7 +60169,8 @@ const VIABILIDADE_GEMAS_DATA = [
     "Quantidade de Gemas Total": "60",
     "Quantidade de Gemas Viáveis": "60",
     "Quantidade de Gemas Inviáveis": "0",
-    "Fazenda": "67901"
+    "Fazenda": "67901",
+    "Unnamed: 20": null
   },
   {
     "ID": "3928524",
@@ -57572,7 +60192,8 @@ const VIABILIDADE_GEMAS_DATA = [
     "Quantidade de Gemas Total": "59",
     "Quantidade de Gemas Viáveis": "59",
     "Quantidade de Gemas Inviáveis": "0",
-    "Fazenda": "151901"
+    "Fazenda": "151901",
+    "Unnamed: 20": null
   },
   {
     "ID": "3928734",
@@ -57594,7 +60215,8 @@ const VIABILIDADE_GEMAS_DATA = [
     "Quantidade de Gemas Total": "60",
     "Quantidade de Gemas Viáveis": "57",
     "Quantidade de Gemas Inviáveis": "3",
-    "Fazenda": "67901"
+    "Fazenda": "67901",
+    "Unnamed: 20": null
   },
   {
     "ID": "3928730",
@@ -57616,7 +60238,8 @@ const VIABILIDADE_GEMAS_DATA = [
     "Quantidade de Gemas Total": "60",
     "Quantidade de Gemas Viáveis": "60",
     "Quantidade de Gemas Inviáveis": "0",
-    "Fazenda": "67901"
+    "Fazenda": "67901",
+    "Unnamed: 20": null
   },
   {
     "ID": "3928519",
@@ -57638,7 +60261,8 @@ const VIABILIDADE_GEMAS_DATA = [
     "Quantidade de Gemas Total": "58",
     "Quantidade de Gemas Viáveis": "58",
     "Quantidade de Gemas Inviáveis": "0",
-    "Fazenda": "151901"
+    "Fazenda": "151901",
+    "Unnamed: 20": null
   },
   {
     "ID": "3928513",
@@ -57660,7 +60284,8 @@ const VIABILIDADE_GEMAS_DATA = [
     "Quantidade de Gemas Total": "57",
     "Quantidade de Gemas Viáveis": "57",
     "Quantidade de Gemas Inviáveis": "2",
-    "Fazenda": "151901"
+    "Fazenda": "151901",
+    "Unnamed: 20": null
   },
   {
     "ID": "3928508",
@@ -57682,7 +60307,8 @@ const VIABILIDADE_GEMAS_DATA = [
     "Quantidade de Gemas Total": "56",
     "Quantidade de Gemas Viáveis": "56",
     "Quantidade de Gemas Inviáveis": "3",
-    "Fazenda": "151901"
+    "Fazenda": "151901",
+    "Unnamed: 20": null
   },
   {
     "ID": "3928720",
@@ -57704,7 +60330,8 @@ const VIABILIDADE_GEMAS_DATA = [
     "Quantidade de Gemas Total": "58",
     "Quantidade de Gemas Viáveis": "58",
     "Quantidade de Gemas Inviáveis": "0",
-    "Fazenda": "67901"
+    "Fazenda": "67901",
+    "Unnamed: 20": null
   },
   {
     "ID": "3928717",
@@ -57726,7 +60353,8 @@ const VIABILIDADE_GEMAS_DATA = [
     "Quantidade de Gemas Total": "58",
     "Quantidade de Gemas Viáveis": "58",
     "Quantidade de Gemas Inviáveis": "0",
-    "Fazenda": "67901"
+    "Fazenda": "67901",
+    "Unnamed: 20": null
   },
   {
     "ID": "3928503",
@@ -57748,7 +60376,8 @@ const VIABILIDADE_GEMAS_DATA = [
     "Quantidade de Gemas Total": "58",
     "Quantidade de Gemas Viáveis": "58",
     "Quantidade de Gemas Inviáveis": "0",
-    "Fazenda": "151901"
+    "Fazenda": "151901",
+    "Unnamed: 20": null
   },
   {
     "ID": "3928713",
@@ -57770,7 +60399,8 @@ const VIABILIDADE_GEMAS_DATA = [
     "Quantidade de Gemas Total": "59",
     "Quantidade de Gemas Viáveis": "59",
     "Quantidade de Gemas Inviáveis": "0",
-    "Fazenda": "67901"
+    "Fazenda": "67901",
+    "Unnamed: 20": null
   },
   {
     "ID": "3928497",
@@ -57792,7 +60422,8 @@ const VIABILIDADE_GEMAS_DATA = [
     "Quantidade de Gemas Total": "60",
     "Quantidade de Gemas Viáveis": "60",
     "Quantidade de Gemas Inviáveis": "0",
-    "Fazenda": "151901"
+    "Fazenda": "151901",
+    "Unnamed: 20": null
   },
   {
     "ID": "3928709",
@@ -57814,7 +60445,8 @@ const VIABILIDADE_GEMAS_DATA = [
     "Quantidade de Gemas Total": "60",
     "Quantidade de Gemas Viáveis": "60",
     "Quantidade de Gemas Inviáveis": "0",
-    "Fazenda": "67901"
+    "Fazenda": "67901",
+    "Unnamed: 20": null
   },
   {
     "ID": "3928977",
@@ -57836,7 +60468,8 @@ const VIABILIDADE_GEMAS_DATA = [
     "Quantidade de Gemas Total": "59",
     "Quantidade de Gemas Viáveis": "59",
     "Quantidade de Gemas Inviáveis": "0",
-    "Fazenda": "67901"
+    "Fazenda": "67901",
+    "Unnamed: 20": null
   },
   {
     "ID": "3928971",
@@ -57858,7 +60491,8 @@ const VIABILIDADE_GEMAS_DATA = [
     "Quantidade de Gemas Total": "58",
     "Quantidade de Gemas Viáveis": "58",
     "Quantidade de Gemas Inviáveis": "0",
-    "Fazenda": "67901"
+    "Fazenda": "67901",
+    "Unnamed: 20": null
   },
   {
     "ID": "3928293",
@@ -57880,7 +60514,8 @@ const VIABILIDADE_GEMAS_DATA = [
     "Quantidade de Gemas Total": "59",
     "Quantidade de Gemas Viáveis": "59",
     "Quantidade de Gemas Inviáveis": "0",
-    "Fazenda": "67901"
+    "Fazenda": "67901",
+    "Unnamed: 20": null
   },
   {
     "ID": "3928915",
@@ -57902,7 +60537,8 @@ const VIABILIDADE_GEMAS_DATA = [
     "Quantidade de Gemas Total": "60",
     "Quantidade de Gemas Viáveis": "60",
     "Quantidade de Gemas Inviáveis": "0",
-    "Fazenda": "67901"
+    "Fazenda": "67901",
+    "Unnamed: 20": null
   },
   {
     "ID": "3926130",
@@ -57924,7 +60560,8 @@ const VIABILIDADE_GEMAS_DATA = [
     "Quantidade de Gemas Total": "60",
     "Quantidade de Gemas Viáveis": "60",
     "Quantidade de Gemas Inviáveis": "0",
-    "Fazenda": "177015"
+    "Fazenda": "177015",
+    "Unnamed: 20": null
   },
   {
     "ID": "3926125",
@@ -57946,7 +60583,8 @@ const VIABILIDADE_GEMAS_DATA = [
     "Quantidade de Gemas Total": "57",
     "Quantidade de Gemas Viáveis": "57",
     "Quantidade de Gemas Inviáveis": "2",
-    "Fazenda": "177015"
+    "Fazenda": "177015",
+    "Unnamed: 20": null
   },
   {
     "ID": "3926120",
@@ -57968,7 +60606,8 @@ const VIABILIDADE_GEMAS_DATA = [
     "Quantidade de Gemas Total": "60",
     "Quantidade de Gemas Viáveis": "60",
     "Quantidade de Gemas Inviáveis": "0",
-    "Fazenda": "177015"
+    "Fazenda": "177015",
+    "Unnamed: 20": null
   },
   {
     "ID": "3926115",
@@ -57990,7 +60629,8 @@ const VIABILIDADE_GEMAS_DATA = [
     "Quantidade de Gemas Total": "59",
     "Quantidade de Gemas Viáveis": "59",
     "Quantidade de Gemas Inviáveis": "0",
-    "Fazenda": "177015"
+    "Fazenda": "177015",
+    "Unnamed: 20": null
   },
   {
     "ID": "3926110",
@@ -58012,7 +60652,8 @@ const VIABILIDADE_GEMAS_DATA = [
     "Quantidade de Gemas Total": "58",
     "Quantidade de Gemas Viáveis": "58",
     "Quantidade de Gemas Inviáveis": "0",
-    "Fazenda": "177015"
+    "Fazenda": "177015",
+    "Unnamed: 20": null
   },
   {
     "ID": "3926105",
@@ -58034,7 +60675,8 @@ const VIABILIDADE_GEMAS_DATA = [
     "Quantidade de Gemas Total": "57",
     "Quantidade de Gemas Viáveis": "57",
     "Quantidade de Gemas Inviáveis": "2",
-    "Fazenda": "177015"
+    "Fazenda": "177015",
+    "Unnamed: 20": null
   },
   {
     "ID": "3926099",
@@ -58056,7 +60698,8 @@ const VIABILIDADE_GEMAS_DATA = [
     "Quantidade de Gemas Total": "57",
     "Quantidade de Gemas Viáveis": "57",
     "Quantidade de Gemas Inviáveis": "2",
-    "Fazenda": "177015"
+    "Fazenda": "177015",
+    "Unnamed: 20": null
   },
   {
     "ID": "3926094",
@@ -58078,7 +60721,8 @@ const VIABILIDADE_GEMAS_DATA = [
     "Quantidade de Gemas Total": "60",
     "Quantidade de Gemas Viáveis": "60",
     "Quantidade de Gemas Inviáveis": "0",
-    "Fazenda": "177015"
+    "Fazenda": "177015",
+    "Unnamed: 20": null
   },
   {
     "ID": "3926078",
@@ -58100,7 +60744,8 @@ const VIABILIDADE_GEMAS_DATA = [
     "Quantidade de Gemas Total": "57",
     "Quantidade de Gemas Viáveis": "57",
     "Quantidade de Gemas Inviáveis": "2",
-    "Fazenda": "177015"
+    "Fazenda": "177015",
+    "Unnamed: 20": null
   },
   {
     "ID": "3926071",
@@ -58122,7 +60767,8 @@ const VIABILIDADE_GEMAS_DATA = [
     "Quantidade de Gemas Total": "60",
     "Quantidade de Gemas Viáveis": "60",
     "Quantidade de Gemas Inviáveis": "0",
-    "Fazenda": "177015"
+    "Fazenda": "177015",
+    "Unnamed: 20": null
   },
   {
     "ID": "3923397",
@@ -58144,7 +60790,8 @@ const VIABILIDADE_GEMAS_DATA = [
     "Quantidade de Gemas Total": "56",
     "Quantidade de Gemas Viáveis": "56",
     "Quantidade de Gemas Inviáveis": "0",
-    "Fazenda": "177015"
+    "Fazenda": "177015",
+    "Unnamed: 20": null
   },
   {
     "ID": "3923386",
@@ -58166,7 +60813,8 @@ const VIABILIDADE_GEMAS_DATA = [
     "Quantidade de Gemas Total": "60",
     "Quantidade de Gemas Viáveis": "60",
     "Quantidade de Gemas Inviáveis": "0",
-    "Fazenda": "177015"
+    "Fazenda": "177015",
+    "Unnamed: 20": null
   },
   {
     "ID": "3923372",
@@ -58188,7 +60836,8 @@ const VIABILIDADE_GEMAS_DATA = [
     "Quantidade de Gemas Total": "59",
     "Quantidade de Gemas Viáveis": "59",
     "Quantidade de Gemas Inviáveis": "0",
-    "Fazenda": "177015"
+    "Fazenda": "177015",
+    "Unnamed: 20": null
   },
   {
     "ID": "3923366",
@@ -58210,7 +60859,8 @@ const VIABILIDADE_GEMAS_DATA = [
     "Quantidade de Gemas Total": "54",
     "Quantidade de Gemas Viáveis": "54",
     "Quantidade de Gemas Inviáveis": "2",
-    "Fazenda": "177015"
+    "Fazenda": "177015",
+    "Unnamed: 20": null
   },
   {
     "ID": "3922720",
@@ -58232,7 +60882,8 @@ const VIABILIDADE_GEMAS_DATA = [
     "Quantidade de Gemas Total": "60",
     "Quantidade de Gemas Viáveis": "60",
     "Quantidade de Gemas Inviáveis": "0",
-    "Fazenda": "111201"
+    "Fazenda": "111201",
+    "Unnamed: 20": null
   },
   {
     "ID": "3922715",
@@ -58254,7 +60905,8 @@ const VIABILIDADE_GEMAS_DATA = [
     "Quantidade de Gemas Total": "58",
     "Quantidade de Gemas Viáveis": "58",
     "Quantidade de Gemas Inviáveis": "0",
-    "Fazenda": "111201"
+    "Fazenda": "111201",
+    "Unnamed: 20": null
   },
   {
     "ID": "3922711",
@@ -58276,7 +60928,8 @@ const VIABILIDADE_GEMAS_DATA = [
     "Quantidade de Gemas Total": "59",
     "Quantidade de Gemas Viáveis": "59",
     "Quantidade de Gemas Inviáveis": "0",
-    "Fazenda": "111201"
+    "Fazenda": "111201",
+    "Unnamed: 20": null
   },
   {
     "ID": "3923354",
@@ -58298,7 +60951,8 @@ const VIABILIDADE_GEMAS_DATA = [
     "Quantidade de Gemas Total": "58",
     "Quantidade de Gemas Viáveis": "58",
     "Quantidade de Gemas Inviáveis": "0",
-    "Fazenda": "146301"
+    "Fazenda": "146301",
+    "Unnamed: 20": null
   },
   {
     "ID": "3923347",
@@ -58320,7 +60974,8 @@ const VIABILIDADE_GEMAS_DATA = [
     "Quantidade de Gemas Total": "60",
     "Quantidade de Gemas Viáveis": "60",
     "Quantidade de Gemas Inviáveis": "0",
-    "Fazenda": "146301"
+    "Fazenda": "146301",
+    "Unnamed: 20": null
   },
   {
     "ID": "3922660",
@@ -58342,7 +60997,8 @@ const VIABILIDADE_GEMAS_DATA = [
     "Quantidade de Gemas Total": "58",
     "Quantidade de Gemas Viáveis": "53",
     "Quantidade de Gemas Inviáveis": "5",
-    "Fazenda": "111201"
+    "Fazenda": "111201",
+    "Unnamed: 20": null
   },
   {
     "ID": "3922657",
@@ -58364,7 +61020,8 @@ const VIABILIDADE_GEMAS_DATA = [
     "Quantidade de Gemas Total": "69",
     "Quantidade de Gemas Viáveis": "62",
     "Quantidade de Gemas Inviáveis": "7",
-    "Fazenda": "111201"
+    "Fazenda": "111201",
+    "Unnamed: 20": null
   },
   {
     "ID": "3922653",
@@ -58386,7 +61043,8 @@ const VIABILIDADE_GEMAS_DATA = [
     "Quantidade de Gemas Total": "50",
     "Quantidade de Gemas Viáveis": "50",
     "Quantidade de Gemas Inviáveis": "0",
-    "Fazenda": "111201"
+    "Fazenda": "111201",
+    "Unnamed: 20": null
   },
   {
     "ID": "3923336",
@@ -58408,7 +61066,8 @@ const VIABILIDADE_GEMAS_DATA = [
     "Quantidade de Gemas Total": "59",
     "Quantidade de Gemas Viáveis": "59",
     "Quantidade de Gemas Inviáveis": "0",
-    "Fazenda": "146301"
+    "Fazenda": "146301",
+    "Unnamed: 20": null
   },
   {
     "ID": "3922705",
@@ -58430,7 +61089,8 @@ const VIABILIDADE_GEMAS_DATA = [
     "Quantidade de Gemas Total": "59",
     "Quantidade de Gemas Viáveis": "59",
     "Quantidade de Gemas Inviáveis": "0",
-    "Fazenda": "111201"
+    "Fazenda": "111201",
+    "Unnamed: 20": null
   },
   {
     "ID": "3922648",
@@ -58452,7 +61112,8 @@ const VIABILIDADE_GEMAS_DATA = [
     "Quantidade de Gemas Total": "74",
     "Quantidade de Gemas Viáveis": "68",
     "Quantidade de Gemas Inviáveis": "6",
-    "Fazenda": "111201"
+    "Fazenda": "111201",
+    "Unnamed: 20": null
   },
   {
     "ID": "3922701",
@@ -58474,7 +61135,8 @@ const VIABILIDADE_GEMAS_DATA = [
     "Quantidade de Gemas Total": "60",
     "Quantidade de Gemas Viáveis": "60",
     "Quantidade de Gemas Inviáveis": "0",
-    "Fazenda": "111201"
+    "Fazenda": "111201",
+    "Unnamed: 20": null
   },
   {
     "ID": "3922640",
@@ -58496,7 +61158,8 @@ const VIABILIDADE_GEMAS_DATA = [
     "Quantidade de Gemas Total": "73",
     "Quantidade de Gemas Viáveis": "68",
     "Quantidade de Gemas Inviáveis": "5",
-    "Fazenda": "111201"
+    "Fazenda": "111201",
+    "Unnamed: 20": null
   },
   {
     "ID": "3923332",
@@ -58518,7 +61181,8 @@ const VIABILIDADE_GEMAS_DATA = [
     "Quantidade de Gemas Total": "58",
     "Quantidade de Gemas Viáveis": "58",
     "Quantidade de Gemas Inviáveis": "2",
-    "Fazenda": "146301"
+    "Fazenda": "146301",
+    "Unnamed: 20": null
   },
   {
     "ID": "3922697",
@@ -58540,7 +61204,8 @@ const VIABILIDADE_GEMAS_DATA = [
     "Quantidade de Gemas Total": "59",
     "Quantidade de Gemas Viáveis": "59",
     "Quantidade de Gemas Inviáveis": "0",
-    "Fazenda": "111201"
+    "Fazenda": "111201",
+    "Unnamed: 20": null
   },
   {
     "ID": "3923321",
@@ -58562,7 +61227,8 @@ const VIABILIDADE_GEMAS_DATA = [
     "Quantidade de Gemas Total": "58",
     "Quantidade de Gemas Viáveis": "58",
     "Quantidade de Gemas Inviáveis": "0",
-    "Fazenda": "146301"
+    "Fazenda": "146301",
+    "Unnamed: 20": null
   },
   {
     "ID": "3923315",
@@ -58584,7 +61250,8 @@ const VIABILIDADE_GEMAS_DATA = [
     "Quantidade de Gemas Total": "59",
     "Quantidade de Gemas Viáveis": "59",
     "Quantidade de Gemas Inviáveis": "0",
-    "Fazenda": "146301"
+    "Fazenda": "146301",
+    "Unnamed: 20": null
   },
   {
     "ID": "3923403",
@@ -58606,7 +61273,8 @@ const VIABILIDADE_GEMAS_DATA = [
     "Quantidade de Gemas Total": "57",
     "Quantidade de Gemas Viáveis": "57",
     "Quantidade de Gemas Inviáveis": "3",
-    "Fazenda": "146301"
+    "Fazenda": "146301",
+    "Unnamed: 20": null
   },
   {
     "ID": "3923305",
@@ -58628,7 +61296,8 @@ const VIABILIDADE_GEMAS_DATA = [
     "Quantidade de Gemas Total": "54",
     "Quantidade de Gemas Viáveis": "54",
     "Quantidade de Gemas Inviáveis": "2",
-    "Fazenda": "146301"
+    "Fazenda": "146301",
+    "Unnamed: 20": null
   },
   {
     "ID": "3920400",
@@ -58650,7 +61319,8 @@ const VIABILIDADE_GEMAS_DATA = [
     "Quantidade de Gemas Total": "59",
     "Quantidade de Gemas Viáveis": "59",
     "Quantidade de Gemas Inviáveis": "0",
-    "Fazenda": "146301"
+    "Fazenda": "146301",
+    "Unnamed: 20": null
   },
   {
     "ID": "3920395",
@@ -58672,7 +61342,8 @@ const VIABILIDADE_GEMAS_DATA = [
     "Quantidade de Gemas Total": "56",
     "Quantidade de Gemas Viáveis": "56",
     "Quantidade de Gemas Inviáveis": "0",
-    "Fazenda": "146301"
+    "Fazenda": "146301",
+    "Unnamed: 20": null
   },
   {
     "ID": "3920306",
@@ -58694,7 +61365,8 @@ const VIABILIDADE_GEMAS_DATA = [
     "Quantidade de Gemas Total": "59",
     "Quantidade de Gemas Viáveis": "59",
     "Quantidade de Gemas Inviáveis": "0",
-    "Fazenda": "142201"
+    "Fazenda": "142201",
+    "Unnamed: 20": null
   },
   {
     "ID": "3920302",
@@ -58716,7 +61388,8 @@ const VIABILIDADE_GEMAS_DATA = [
     "Quantidade de Gemas Total": "59",
     "Quantidade de Gemas Viáveis": "59",
     "Quantidade de Gemas Inviáveis": "0",
-    "Fazenda": "142201"
+    "Fazenda": "142201",
+    "Unnamed: 20": null
   },
   {
     "ID": "3920298",
@@ -58738,7 +61411,8 @@ const VIABILIDADE_GEMAS_DATA = [
     "Quantidade de Gemas Total": "59",
     "Quantidade de Gemas Viáveis": "59",
     "Quantidade de Gemas Inviáveis": "0",
-    "Fazenda": "142201"
+    "Fazenda": "142201",
+    "Unnamed: 20": null
   },
   {
     "ID": "3920389",
@@ -58760,7 +61434,8 @@ const VIABILIDADE_GEMAS_DATA = [
     "Quantidade de Gemas Total": "56",
     "Quantidade de Gemas Viáveis": "56",
     "Quantidade de Gemas Inviáveis": "3",
-    "Fazenda": "146301"
+    "Fazenda": "146301",
+    "Unnamed: 20": null
   },
   {
     "ID": "3920292",
@@ -58782,7 +61457,8 @@ const VIABILIDADE_GEMAS_DATA = [
     "Quantidade de Gemas Total": "60",
     "Quantidade de Gemas Viáveis": "60",
     "Quantidade de Gemas Inviáveis": "0",
-    "Fazenda": "142201"
+    "Fazenda": "142201",
+    "Unnamed: 20": null
   },
   {
     "ID": "3920385",
@@ -58804,7 +61480,8 @@ const VIABILIDADE_GEMAS_DATA = [
     "Quantidade de Gemas Total": "53",
     "Quantidade de Gemas Viáveis": "53",
     "Quantidade de Gemas Inviáveis": "3",
-    "Fazenda": "146301"
+    "Fazenda": "146301",
+    "Unnamed: 20": null
   },
   {
     "ID": "3920291",
@@ -58826,7 +61503,8 @@ const VIABILIDADE_GEMAS_DATA = [
     "Quantidade de Gemas Total": "59",
     "Quantidade de Gemas Viáveis": "59",
     "Quantidade de Gemas Inviáveis": "0",
-    "Fazenda": "142201"
+    "Fazenda": "142201",
+    "Unnamed: 20": null
   },
   {
     "ID": "3920284",
@@ -58848,7 +61526,8 @@ const VIABILIDADE_GEMAS_DATA = [
     "Quantidade de Gemas Total": "60",
     "Quantidade de Gemas Viáveis": "60",
     "Quantidade de Gemas Inviáveis": "0",
-    "Fazenda": "142201"
+    "Fazenda": "142201",
+    "Unnamed: 20": null
   },
   {
     "ID": "3920281",
@@ -58870,7 +61549,8 @@ const VIABILIDADE_GEMAS_DATA = [
     "Quantidade de Gemas Total": "59",
     "Quantidade de Gemas Viáveis": "59",
     "Quantidade de Gemas Inviáveis": "0",
-    "Fazenda": "142201"
+    "Fazenda": "142201",
+    "Unnamed: 20": null
   },
   {
     "ID": "3920379",
@@ -58892,7 +61572,8 @@ const VIABILIDADE_GEMAS_DATA = [
     "Quantidade de Gemas Total": "57",
     "Quantidade de Gemas Viáveis": "57",
     "Quantidade de Gemas Inviáveis": "2",
-    "Fazenda": "146301"
+    "Fazenda": "146301",
+    "Unnamed: 20": null
   },
   {
     "ID": "3920278",
@@ -58914,7 +61595,8 @@ const VIABILIDADE_GEMAS_DATA = [
     "Quantidade de Gemas Total": "49",
     "Quantidade de Gemas Viáveis": "49",
     "Quantidade de Gemas Inviáveis": "0",
-    "Fazenda": "142201"
+    "Fazenda": "142201",
+    "Unnamed: 20": null
   },
   {
     "ID": "3920375",
@@ -58936,7 +61618,8 @@ const VIABILIDADE_GEMAS_DATA = [
     "Quantidade de Gemas Total": "55",
     "Quantidade de Gemas Viáveis": "55",
     "Quantidade de Gemas Inviáveis": "3",
-    "Fazenda": "146301"
+    "Fazenda": "146301",
+    "Unnamed: 20": null
   },
   {
     "ID": "3920364",
@@ -58958,7 +61641,8 @@ const VIABILIDADE_GEMAS_DATA = [
     "Quantidade de Gemas Total": "54",
     "Quantidade de Gemas Viáveis": "54",
     "Quantidade de Gemas Inviáveis": "5",
-    "Fazenda": "146301"
+    "Fazenda": "146301",
+    "Unnamed: 20": null
   },
   {
     "ID": "3919831",
@@ -58980,7 +61664,8 @@ const VIABILIDADE_GEMAS_DATA = [
     "Quantidade de Gemas Total": "59",
     "Quantidade de Gemas Viáveis": "59",
     "Quantidade de Gemas Inviáveis": "0",
-    "Fazenda": "146301"
+    "Fazenda": "146301",
+    "Unnamed: 20": null
   },
   {
     "ID": "3920360",
@@ -59002,7 +61687,8 @@ const VIABILIDADE_GEMAS_DATA = [
     "Quantidade de Gemas Total": "56",
     "Quantidade de Gemas Viáveis": "56",
     "Quantidade de Gemas Inviáveis": "3",
-    "Fazenda": "146301"
+    "Fazenda": "146301",
+    "Unnamed: 20": null
   },
   {
     "ID": "3919827",
@@ -59024,7 +61710,8 @@ const VIABILIDADE_GEMAS_DATA = [
     "Quantidade de Gemas Total": "69",
     "Quantidade de Gemas Viáveis": "62",
     "Quantidade de Gemas Inviáveis": "7",
-    "Fazenda": "146301"
+    "Fazenda": "146301",
+    "Unnamed: 20": null
   },
   {
     "ID": "3920356",
@@ -59046,7 +61733,8 @@ const VIABILIDADE_GEMAS_DATA = [
     "Quantidade de Gemas Total": "55",
     "Quantidade de Gemas Viáveis": "55",
     "Quantidade de Gemas Inviáveis": "3",
-    "Fazenda": "146301"
+    "Fazenda": "146301",
+    "Unnamed: 20": null
   },
   {
     "ID": "3919824",
@@ -59068,7 +61756,8 @@ const VIABILIDADE_GEMAS_DATA = [
     "Quantidade de Gemas Total": "75",
     "Quantidade de Gemas Viáveis": "69",
     "Quantidade de Gemas Inviáveis": "6",
-    "Fazenda": "146301"
+    "Fazenda": "146301",
+    "Unnamed: 20": null
   },
   {
     "ID": "3919820",
@@ -59090,7 +61779,8 @@ const VIABILIDADE_GEMAS_DATA = [
     "Quantidade de Gemas Total": "75",
     "Quantidade de Gemas Viáveis": "72",
     "Quantidade de Gemas Inviáveis": "3",
-    "Fazenda": "146301"
+    "Fazenda": "146301",
+    "Unnamed: 20": null
   },
   {
     "ID": "3920349",
@@ -59112,7 +61802,8 @@ const VIABILIDADE_GEMAS_DATA = [
     "Quantidade de Gemas Total": "51",
     "Quantidade de Gemas Viáveis": "51",
     "Quantidade de Gemas Inviáveis": "2",
-    "Fazenda": "146301"
+    "Fazenda": "146301",
+    "Unnamed: 20": null
   },
   {
     "ID": "3920344",
@@ -59134,7 +61825,8 @@ const VIABILIDADE_GEMAS_DATA = [
     "Quantidade de Gemas Total": "55",
     "Quantidade de Gemas Viáveis": "55",
     "Quantidade de Gemas Inviáveis": "3",
-    "Fazenda": "146301"
+    "Fazenda": "146301",
+    "Unnamed: 20": null
   },
   {
     "ID": "3920341",
@@ -59156,7 +61848,8 @@ const VIABILIDADE_GEMAS_DATA = [
     "Quantidade de Gemas Total": "59",
     "Quantidade de Gemas Viáveis": "59",
     "Quantidade de Gemas Inviáveis": "0",
-    "Fazenda": "146301"
+    "Fazenda": "146301",
+    "Unnamed: 20": null
   },
   {
     "ID": "3920335",
@@ -59178,7 +61871,8 @@ const VIABILIDADE_GEMAS_DATA = [
     "Quantidade de Gemas Total": "52",
     "Quantidade de Gemas Viáveis": "52",
     "Quantidade de Gemas Inviáveis": "3",
-    "Fazenda": "146301"
+    "Fazenda": "146301",
+    "Unnamed: 20": null
   },
   {
     "ID": "3917515",
@@ -59200,7 +61894,8 @@ const VIABILIDADE_GEMAS_DATA = [
     "Quantidade de Gemas Total": "60",
     "Quantidade de Gemas Viáveis": "60",
     "Quantidade de Gemas Inviáveis": "0",
-    "Fazenda": "70408"
+    "Fazenda": "70408",
+    "Unnamed: 20": null
   },
   {
     "ID": "3917508",
@@ -59222,7 +61917,8 @@ const VIABILIDADE_GEMAS_DATA = [
     "Quantidade de Gemas Total": "60",
     "Quantidade de Gemas Viáveis": "60",
     "Quantidade de Gemas Inviáveis": "0",
-    "Fazenda": "70408"
+    "Fazenda": "70408",
+    "Unnamed: 20": null
   },
   {
     "ID": "3917502",
@@ -59244,7 +61940,8 @@ const VIABILIDADE_GEMAS_DATA = [
     "Quantidade de Gemas Total": "60",
     "Quantidade de Gemas Viáveis": "60",
     "Quantidade de Gemas Inviáveis": "0",
-    "Fazenda": "70408"
+    "Fazenda": "70408",
+    "Unnamed: 20": null
   },
   {
     "ID": "3917498",
@@ -59266,7 +61963,8 @@ const VIABILIDADE_GEMAS_DATA = [
     "Quantidade de Gemas Total": "60",
     "Quantidade de Gemas Viáveis": "60",
     "Quantidade de Gemas Inviáveis": "0",
-    "Fazenda": "70408"
+    "Fazenda": "70408",
+    "Unnamed: 20": null
   },
   {
     "ID": "3917494",
@@ -59288,7 +61986,8 @@ const VIABILIDADE_GEMAS_DATA = [
     "Quantidade de Gemas Total": "60",
     "Quantidade de Gemas Viáveis": "60",
     "Quantidade de Gemas Inviáveis": "0",
-    "Fazenda": "70408"
+    "Fazenda": "70408",
+    "Unnamed: 20": null
   },
   {
     "ID": "3917472",
@@ -59310,7 +62009,8 @@ const VIABILIDADE_GEMAS_DATA = [
     "Quantidade de Gemas Total": "59",
     "Quantidade de Gemas Viáveis": "59",
     "Quantidade de Gemas Inviáveis": "0",
-    "Fazenda": "70408"
+    "Fazenda": "70408",
+    "Unnamed: 20": null
   },
   {
     "ID": "3915772",
@@ -59332,7 +62032,8 @@ const VIABILIDADE_GEMAS_DATA = [
     "Quantidade de Gemas Total": "60",
     "Quantidade de Gemas Viáveis": "60",
     "Quantidade de Gemas Inviáveis": "0",
-    "Fazenda": "70408"
+    "Fazenda": "70408",
+    "Unnamed: 20": null
   },
   {
     "ID": "3915767",
@@ -59354,7 +62055,8 @@ const VIABILIDADE_GEMAS_DATA = [
     "Quantidade de Gemas Total": "58",
     "Quantidade de Gemas Viáveis": "58",
     "Quantidade de Gemas Inviáveis": "0",
-    "Fazenda": "70408"
+    "Fazenda": "70408",
+    "Unnamed: 20": null
   },
   {
     "ID": "3915745",
@@ -59376,7 +62078,8 @@ const VIABILIDADE_GEMAS_DATA = [
     "Quantidade de Gemas Total": "59",
     "Quantidade de Gemas Viáveis": "59",
     "Quantidade de Gemas Inviáveis": "0",
-    "Fazenda": "70408"
+    "Fazenda": "70408",
+    "Unnamed: 20": null
   },
   {
     "ID": "3915740",
@@ -59398,7 +62101,8 @@ const VIABILIDADE_GEMAS_DATA = [
     "Quantidade de Gemas Total": "60",
     "Quantidade de Gemas Viáveis": "60",
     "Quantidade de Gemas Inviáveis": "0",
-    "Fazenda": "70408"
+    "Fazenda": "70408",
+    "Unnamed: 20": null
   },
   {
     "ID": "3915737",
@@ -59420,7 +62124,8 @@ const VIABILIDADE_GEMAS_DATA = [
     "Quantidade de Gemas Total": "59",
     "Quantidade de Gemas Viáveis": "59",
     "Quantidade de Gemas Inviáveis": "0",
-    "Fazenda": "70408"
+    "Fazenda": "70408",
+    "Unnamed: 20": null
   },
   {
     "ID": "3915733",
@@ -59442,7 +62147,8 @@ const VIABILIDADE_GEMAS_DATA = [
     "Quantidade de Gemas Total": "57",
     "Quantidade de Gemas Viáveis": "57",
     "Quantidade de Gemas Inviáveis": "0",
-    "Fazenda": "70408"
+    "Fazenda": "70408",
+    "Unnamed: 20": null
   },
   {
     "ID": "3915729",
@@ -59464,7 +62170,8 @@ const VIABILIDADE_GEMAS_DATA = [
     "Quantidade de Gemas Total": "58",
     "Quantidade de Gemas Viáveis": "58",
     "Quantidade de Gemas Inviáveis": "0",
-    "Fazenda": "70408"
+    "Fazenda": "70408",
+    "Unnamed: 20": null
   },
   {
     "ID": "3915724",
@@ -59486,7 +62193,8 @@ const VIABILIDADE_GEMAS_DATA = [
     "Quantidade de Gemas Total": "59",
     "Quantidade de Gemas Viáveis": "59",
     "Quantidade de Gemas Inviáveis": "0",
-    "Fazenda": "70408"
+    "Fazenda": "70408",
+    "Unnamed: 20": null
   },
   {
     "ID": "3915718",
@@ -59508,7 +62216,8 @@ const VIABILIDADE_GEMAS_DATA = [
     "Quantidade de Gemas Total": "60",
     "Quantidade de Gemas Viáveis": "60",
     "Quantidade de Gemas Inviáveis": "0",
-    "Fazenda": "70408"
+    "Fazenda": "70408",
+    "Unnamed: 20": null
   },
   {
     "ID": "3913557",
@@ -59530,7 +62239,8 @@ const VIABILIDADE_GEMAS_DATA = [
     "Quantidade de Gemas Total": "60",
     "Quantidade de Gemas Viáveis": "60",
     "Quantidade de Gemas Inviáveis": "0",
-    "Fazenda": "70408"
+    "Fazenda": "70408",
+    "Unnamed: 20": null
   },
   {
     "ID": "3913552",
@@ -59552,7 +62262,8 @@ const VIABILIDADE_GEMAS_DATA = [
     "Quantidade de Gemas Total": "59",
     "Quantidade de Gemas Viáveis": "59",
     "Quantidade de Gemas Inviáveis": "0",
-    "Fazenda": "70408"
+    "Fazenda": "70408",
+    "Unnamed: 20": null
   },
   {
     "ID": "3913542",
@@ -59574,7 +62285,8 @@ const VIABILIDADE_GEMAS_DATA = [
     "Quantidade de Gemas Total": "58",
     "Quantidade de Gemas Viáveis": "58",
     "Quantidade de Gemas Inviáveis": "0",
-    "Fazenda": "70408"
+    "Fazenda": "70408",
+    "Unnamed: 20": null
   },
   {
     "ID": "3913538",
@@ -59596,7 +62308,8 @@ const VIABILIDADE_GEMAS_DATA = [
     "Quantidade de Gemas Total": "59",
     "Quantidade de Gemas Viáveis": "59",
     "Quantidade de Gemas Inviáveis": "0",
-    "Fazenda": "70408"
+    "Fazenda": "70408",
+    "Unnamed: 20": null
   },
   {
     "ID": "3913390",
@@ -59618,7 +62331,8 @@ const VIABILIDADE_GEMAS_DATA = [
     "Quantidade de Gemas Total": "59",
     "Quantidade de Gemas Viáveis": "59",
     "Quantidade de Gemas Inviáveis": "0",
-    "Fazenda": "70408"
+    "Fazenda": "70408",
+    "Unnamed: 20": null
   },
   {
     "ID": "3913386",
@@ -59640,7 +62354,8 @@ const VIABILIDADE_GEMAS_DATA = [
     "Quantidade de Gemas Total": "60",
     "Quantidade de Gemas Viáveis": "60",
     "Quantidade de Gemas Inviáveis": "0",
-    "Fazenda": "70408"
+    "Fazenda": "70408",
+    "Unnamed: 20": null
   },
   {
     "ID": "3913381",
@@ -59662,7 +62377,8 @@ const VIABILIDADE_GEMAS_DATA = [
     "Quantidade de Gemas Total": "59",
     "Quantidade de Gemas Viáveis": "59",
     "Quantidade de Gemas Inviáveis": "0",
-    "Fazenda": "70408"
+    "Fazenda": "70408",
+    "Unnamed: 20": null
   },
   {
     "ID": "3913377",
@@ -59684,7 +62400,8 @@ const VIABILIDADE_GEMAS_DATA = [
     "Quantidade de Gemas Total": "60",
     "Quantidade de Gemas Viáveis": "60",
     "Quantidade de Gemas Inviáveis": "0",
-    "Fazenda": "70408"
+    "Fazenda": "70408",
+    "Unnamed: 20": null
   },
   {
     "ID": "3913370",
@@ -59706,7 +62423,8 @@ const VIABILIDADE_GEMAS_DATA = [
     "Quantidade de Gemas Total": "59",
     "Quantidade de Gemas Viáveis": "59",
     "Quantidade de Gemas Inviáveis": "0",
-    "Fazenda": "70408"
+    "Fazenda": "70408",
+    "Unnamed: 20": null
   },
   {
     "ID": "3911946",
@@ -59728,7 +62446,8 @@ const VIABILIDADE_GEMAS_DATA = [
     "Quantidade de Gemas Total": "58",
     "Quantidade de Gemas Viáveis": "58",
     "Quantidade de Gemas Inviáveis": "0",
-    "Fazenda": "70408"
+    "Fazenda": "70408",
+    "Unnamed: 20": null
   },
   {
     "ID": "3912009",
@@ -59750,7 +62469,8 @@ const VIABILIDADE_GEMAS_DATA = [
     "Quantidade de Gemas Total": "71",
     "Quantidade de Gemas Viáveis": "65",
     "Quantidade de Gemas Inviáveis": "6",
-    "Fazenda": "70408"
+    "Fazenda": "70408",
+    "Unnamed: 20": null
   },
   {
     "ID": "3911942",
@@ -59772,7 +62492,8 @@ const VIABILIDADE_GEMAS_DATA = [
     "Quantidade de Gemas Total": "58",
     "Quantidade de Gemas Viáveis": "58",
     "Quantidade de Gemas Inviáveis": "1",
-    "Fazenda": "70408"
+    "Fazenda": "70408",
+    "Unnamed: 20": null
   },
   {
     "ID": "3912005",
@@ -59794,7 +62515,8 @@ const VIABILIDADE_GEMAS_DATA = [
     "Quantidade de Gemas Total": "73",
     "Quantidade de Gemas Viáveis": "67",
     "Quantidade de Gemas Inviáveis": "6",
-    "Fazenda": "70408"
+    "Fazenda": "70408",
+    "Unnamed: 20": null
   },
   {
     "ID": "3911939",
@@ -59816,7 +62538,8 @@ const VIABILIDADE_GEMAS_DATA = [
     "Quantidade de Gemas Total": "57",
     "Quantidade de Gemas Viáveis": "57",
     "Quantidade de Gemas Inviáveis": "3",
-    "Fazenda": "70408"
+    "Fazenda": "70408",
+    "Unnamed: 20": null
   },
   {
     "ID": "3912001",
@@ -59838,7 +62561,8 @@ const VIABILIDADE_GEMAS_DATA = [
     "Quantidade de Gemas Total": "53",
     "Quantidade de Gemas Viáveis": "48",
     "Quantidade de Gemas Inviáveis": "5",
-    "Fazenda": "70408"
+    "Fazenda": "70408",
+    "Unnamed: 20": null
   },
   {
     "ID": "3911997",
@@ -59860,7 +62584,8 @@ const VIABILIDADE_GEMAS_DATA = [
     "Quantidade de Gemas Total": "79",
     "Quantidade de Gemas Viáveis": "74",
     "Quantidade de Gemas Inviáveis": "5",
-    "Fazenda": "70408"
+    "Fazenda": "70408",
+    "Unnamed: 20": null
   },
   {
     "ID": "3911925",
@@ -59882,7 +62607,8 @@ const VIABILIDADE_GEMAS_DATA = [
     "Quantidade de Gemas Total": "59",
     "Quantidade de Gemas Viáveis": "59",
     "Quantidade de Gemas Inviáveis": "0",
-    "Fazenda": "70408"
+    "Fazenda": "70408",
+    "Unnamed: 20": null
   },
   {
     "ID": "3911993",
@@ -59904,7 +62630,8 @@ const VIABILIDADE_GEMAS_DATA = [
     "Quantidade de Gemas Total": "67",
     "Quantidade de Gemas Viáveis": "61",
     "Quantidade de Gemas Inviáveis": "6",
-    "Fazenda": "70408"
+    "Fazenda": "70408",
+    "Unnamed: 20": null
   },
   {
     "ID": "3911921",
@@ -59926,7 +62653,8 @@ const VIABILIDADE_GEMAS_DATA = [
     "Quantidade de Gemas Total": "57",
     "Quantidade de Gemas Viáveis": "57",
     "Quantidade de Gemas Inviáveis": "3",
-    "Fazenda": "70408"
+    "Fazenda": "70408",
+    "Unnamed: 20": null
   },
   {
     "ID": "3911916",
@@ -59948,7 +62676,8 @@ const VIABILIDADE_GEMAS_DATA = [
     "Quantidade de Gemas Total": "58",
     "Quantidade de Gemas Viáveis": "58",
     "Quantidade de Gemas Inviáveis": "0",
-    "Fazenda": "70408"
+    "Fazenda": "70408",
+    "Unnamed: 20": null
   },
   {
     "ID": "3911913",
@@ -59970,7 +62699,8 @@ const VIABILIDADE_GEMAS_DATA = [
     "Quantidade de Gemas Total": "59",
     "Quantidade de Gemas Viáveis": "59",
     "Quantidade de Gemas Inviáveis": "0",
-    "Fazenda": "70408"
+    "Fazenda": "70408",
+    "Unnamed: 20": null
   },
   {
     "ID": "3911904",
@@ -59992,7 +62722,8 @@ const VIABILIDADE_GEMAS_DATA = [
     "Quantidade de Gemas Total": "59",
     "Quantidade de Gemas Viáveis": "59",
     "Quantidade de Gemas Inviáveis": "0",
-    "Fazenda": "70408"
+    "Fazenda": "70408",
+    "Unnamed: 20": null
   },
   {
     "ID": "3911908",
@@ -60014,7 +62745,8 @@ const VIABILIDADE_GEMAS_DATA = [
     "Quantidade de Gemas Total": "58",
     "Quantidade de Gemas Viáveis": "58",
     "Quantidade de Gemas Inviáveis": "0",
-    "Fazenda": "70408"
+    "Fazenda": "70408",
+    "Unnamed: 20": null
   },
   {
     "ID": "3911900",
@@ -60036,7 +62768,8 @@ const VIABILIDADE_GEMAS_DATA = [
     "Quantidade de Gemas Total": "60",
     "Quantidade de Gemas Viáveis": "60",
     "Quantidade de Gemas Inviáveis": "0",
-    "Fazenda": "70408"
+    "Fazenda": "70408",
+    "Unnamed: 20": null
   },
   {
     "ID": "4037934",
@@ -60058,7 +62791,8 @@ const VIABILIDADE_GEMAS_DATA = [
     "Quantidade de Gemas Total": "59",
     "Quantidade de Gemas Viáveis": "59",
     "Quantidade de Gemas Inviáveis": "0",
-    "Fazenda": "50301"
+    "Fazenda": "50301",
+    "Unnamed: 20": null
   },
   {
     "ID": "4037658",
@@ -60080,7 +62814,8 @@ const VIABILIDADE_GEMAS_DATA = [
     "Quantidade de Gemas Total": "59",
     "Quantidade de Gemas Viáveis": "55",
     "Quantidade de Gemas Inviáveis": "4",
-    "Fazenda": "50301"
+    "Fazenda": "50301",
+    "Unnamed: 20": null
   },
   {
     "ID": "4037929",
@@ -60102,7 +62837,8 @@ const VIABILIDADE_GEMAS_DATA = [
     "Quantidade de Gemas Total": "57",
     "Quantidade de Gemas Viáveis": "57",
     "Quantidade de Gemas Inviáveis": "3",
-    "Fazenda": "50301"
+    "Fazenda": "50301",
+    "Unnamed: 20": null
   },
   {
     "ID": "4037924",
@@ -60124,7 +62860,8 @@ const VIABILIDADE_GEMAS_DATA = [
     "Quantidade de Gemas Total": "60",
     "Quantidade de Gemas Viáveis": "60",
     "Quantidade de Gemas Inviáveis": "0",
-    "Fazenda": "50301"
+    "Fazenda": "50301",
+    "Unnamed: 20": null
   },
   {
     "ID": "4037653",
@@ -60146,7 +62883,8 @@ const VIABILIDADE_GEMAS_DATA = [
     "Quantidade de Gemas Total": "62",
     "Quantidade de Gemas Viáveis": "62",
     "Quantidade de Gemas Inviáveis": "0",
-    "Fazenda": "50301"
+    "Fazenda": "50301",
+    "Unnamed: 20": null
   },
   {
     "ID": "4037919",
@@ -60168,7 +62906,8 @@ const VIABILIDADE_GEMAS_DATA = [
     "Quantidade de Gemas Total": "59",
     "Quantidade de Gemas Viáveis": "59",
     "Quantidade de Gemas Inviáveis": "0",
-    "Fazenda": "50301"
+    "Fazenda": "50301",
+    "Unnamed: 20": null
   },
   {
     "ID": "4037647",
@@ -60190,7 +62929,8 @@ const VIABILIDADE_GEMAS_DATA = [
     "Quantidade de Gemas Total": "57",
     "Quantidade de Gemas Viáveis": "57",
     "Quantidade de Gemas Inviáveis": "0",
-    "Fazenda": "50301"
+    "Fazenda": "50301",
+    "Unnamed: 20": null
   },
   {
     "ID": "4037915",
@@ -60212,7 +62952,8 @@ const VIABILIDADE_GEMAS_DATA = [
     "Quantidade de Gemas Total": "58",
     "Quantidade de Gemas Viáveis": "58",
     "Quantidade de Gemas Inviáveis": "0",
-    "Fazenda": "50301"
+    "Fazenda": "50301",
+    "Unnamed: 20": null
   },
   {
     "ID": "4050433",
@@ -60234,7 +62975,8 @@ const VIABILIDADE_GEMAS_DATA = [
     "Quantidade de Gemas Total": "60",
     "Quantidade de Gemas Viáveis": "60",
     "Quantidade de Gemas Inviáveis": "0",
-    "Fazenda": "46601"
+    "Fazenda": "46601",
+    "Unnamed: 20": null
   },
   {
     "ID": "4050427",
@@ -60256,7 +62998,8 @@ const VIABILIDADE_GEMAS_DATA = [
     "Quantidade de Gemas Total": "58",
     "Quantidade de Gemas Viáveis": "58",
     "Quantidade de Gemas Inviáveis": "0",
-    "Fazenda": "46601"
+    "Fazenda": "46601",
+    "Unnamed: 20": null
   },
   {
     "ID": "4050422",
@@ -60278,7 +63021,8 @@ const VIABILIDADE_GEMAS_DATA = [
     "Quantidade de Gemas Total": "57",
     "Quantidade de Gemas Viáveis": "57",
     "Quantidade de Gemas Inviáveis": "0",
-    "Fazenda": "46601"
+    "Fazenda": "46601",
+    "Unnamed: 20": null
   },
   {
     "ID": "4050413",
@@ -60300,7 +63044,8 @@ const VIABILIDADE_GEMAS_DATA = [
     "Quantidade de Gemas Total": "58",
     "Quantidade de Gemas Viáveis": "58",
     "Quantidade de Gemas Inviáveis": "0",
-    "Fazenda": "46601"
+    "Fazenda": "46601",
+    "Unnamed: 20": null
   },
   {
     "ID": "4050409",
@@ -60322,6 +63067,7 @@ const VIABILIDADE_GEMAS_DATA = [
     "Quantidade de Gemas Total": "60",
     "Quantidade de Gemas Viáveis": "58",
     "Quantidade de Gemas Inviáveis": "2",
-    "Fazenda": "46601"
+    "Fazenda": "46601",
+    "Unnamed: 20": null
   }
 ];

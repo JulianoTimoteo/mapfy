@@ -1,5 +1,9 @@
-// Auto-gerado em 21/11/2026 07:33:24
-const DOSAGEM_COBRICAO_DATA = [
+/**
+ * Dados Consolidados - dosagem_cobricao
+ * Total: 937 registros
+ * Atualizado em: 21/11/2026 07:40
+ */
+window.DOSAGEM_COBRICAO_DATA = [
   {
     "ID": "3906846",
     "Usuário": "qualidade3@usinapitangueiras.com.br",
@@ -16,7 +20,8 @@ const DOSAGEM_COBRICAO_DATA = [
     "Frente": "261 - FRENTE PRÓPRIA  (EDMILSON)",
     "Responsável": "MABILA HELEN D FIGUEIREDO",
     "Dosagem de Produto - Cobrição": "1,02",
-    "Fazenda": NaN
+    "Fazenda": null,
+    "Unnamed: 16": null
   },
   {
     "ID": "3906845",
@@ -34,7 +39,8 @@ const DOSAGEM_COBRICAO_DATA = [
     "Frente": "261 - FRENTE PRÓPRIA  (EDMILSON)",
     "Responsável": "MABILA HELEN D FIGUEIREDO",
     "Dosagem de Produto - Cobrição": "1",
-    "Fazenda": NaN
+    "Fazenda": null,
+    "Unnamed: 16": null
   },
   {
     "ID": "3904492",
@@ -52,7 +58,8 @@ const DOSAGEM_COBRICAO_DATA = [
     "Frente": "261 - FRENTE PRÓPRIA  (EDMILSON)",
     "Responsável": "MABILA HELEN D FIGUEIREDO",
     "Dosagem de Produto - Cobrição": "1,08",
-    "Fazenda": NaN
+    "Fazenda": null,
+    "Unnamed: 16": null
   },
   {
     "ID": "3904491",
@@ -70,7 +77,8 @@ const DOSAGEM_COBRICAO_DATA = [
     "Frente": "261 - FRENTE PRÓPRIA  (EDMILSON)",
     "Responsável": "MABILA HELEN D FIGUEIREDO",
     "Dosagem de Produto - Cobrição": "1,1",
-    "Fazenda": NaN
+    "Fazenda": null,
+    "Unnamed: 16": null
   },
   {
     "ID": "3901773",
@@ -88,7 +96,8 @@ const DOSAGEM_COBRICAO_DATA = [
     "Frente": "261 - FRENTE PRÓPRIA  (EDMILSON)",
     "Responsável": "MABILA HELEN D FIGUEIREDO",
     "Dosagem de Produto - Cobrição": "1,08",
-    "Fazenda": NaN
+    "Fazenda": null,
+    "Unnamed: 16": null
   },
   {
     "ID": "3901772",
@@ -106,7 +115,8 @@ const DOSAGEM_COBRICAO_DATA = [
     "Frente": "261 - FRENTE PRÓPRIA  (EDMILSON)",
     "Responsável": "MABILA HELEN D FIGUEIREDO",
     "Dosagem de Produto - Cobrição": "1,06",
-    "Fazenda": NaN
+    "Fazenda": null,
+    "Unnamed: 16": null
   },
   {
     "ID": "3898966",
@@ -124,7 +134,8 @@ const DOSAGEM_COBRICAO_DATA = [
     "Frente": "261 - FRENTE PRÓPRIA  (EDMILSON)",
     "Responsável": "MABILA HELEN D FIGUEIREDO",
     "Dosagem de Produto - Cobrição": "1,02",
-    "Fazenda": NaN
+    "Fazenda": null,
+    "Unnamed: 16": null
   },
   {
     "ID": "3898965",
@@ -142,7 +153,8 @@ const DOSAGEM_COBRICAO_DATA = [
     "Frente": "261 - FRENTE PRÓPRIA  (EDMILSON)",
     "Responsável": "MABILA HELEN D FIGUEIREDO",
     "Dosagem de Produto - Cobrição": "1,1",
-    "Fazenda": NaN
+    "Fazenda": null,
+    "Unnamed: 16": null
   },
   {
     "ID": "3896119",
@@ -160,7 +172,8 @@ const DOSAGEM_COBRICAO_DATA = [
     "Frente": "261 - FRENTE PRÓPRIA  (EDMILSON)",
     "Responsável": "REGINALDO DA SILVA GOMES ",
     "Dosagem de Produto - Cobrição": "1,08",
-    "Fazenda": NaN
+    "Fazenda": null,
+    "Unnamed: 16": null
   },
   {
     "ID": "3896118",
@@ -178,7 +191,8 @@ const DOSAGEM_COBRICAO_DATA = [
     "Frente": "261 - FRENTE PRÓPRIA  (EDMILSON)",
     "Responsável": "REGINALDO DA SILVA GOMES ",
     "Dosagem de Produto - Cobrição": "1,04",
-    "Fazenda": NaN
+    "Fazenda": null,
+    "Unnamed: 16": null
   },
   {
     "ID": "3896245",
@@ -196,7 +210,8 @@ const DOSAGEM_COBRICAO_DATA = [
     "Frente": "261 - FRENTE PRÓPRIA  (EDMILSON)",
     "Responsável": "MABILA HELEN D FIGUEIREDO",
     "Dosagem de Produto - Cobrição": "1,08",
-    "Fazenda": NaN
+    "Fazenda": null,
+    "Unnamed: 16": null
   },
   {
     "ID": "3896244",
@@ -214,7 +229,8 @@ const DOSAGEM_COBRICAO_DATA = [
     "Frente": "261 - FRENTE PRÓPRIA  (EDMILSON)",
     "Responsável": "MABILA HELEN D FIGUEIREDO",
     "Dosagem de Produto - Cobrição": "1,06",
-    "Fazenda": NaN
+    "Fazenda": null,
+    "Unnamed: 16": null
   },
   {
     "ID": "3893598",
@@ -232,7 +248,8 @@ const DOSAGEM_COBRICAO_DATA = [
     "Frente": "261 - FRENTE PRÓPRIA  (EDMILSON)",
     "Responsável": "MABILA HELEN D FIGUEIREDO",
     "Dosagem de Produto - Cobrição": "1",
-    "Fazenda": NaN
+    "Fazenda": null,
+    "Unnamed: 16": null
   },
   {
     "ID": "3893597",
@@ -250,7 +267,8 @@ const DOSAGEM_COBRICAO_DATA = [
     "Frente": "261 - FRENTE PRÓPRIA  (EDMILSON)",
     "Responsável": "MABILA HELEN D FIGUEIREDO",
     "Dosagem de Produto - Cobrição": "1,06",
-    "Fazenda": NaN
+    "Fazenda": null,
+    "Unnamed: 16": null
   },
   {
     "ID": "3889486",
@@ -268,7 +286,8 @@ const DOSAGEM_COBRICAO_DATA = [
     "Frente": "261 - FRENTE PRÓPRIA  (EDMILSON)",
     "Responsável": "REGINALDO DA SILVA GOMES ",
     "Dosagem de Produto - Cobrição": "1,04",
-    "Fazenda": NaN
+    "Fazenda": null,
+    "Unnamed: 16": null
   },
   {
     "ID": "3889485",
@@ -286,7 +305,8 @@ const DOSAGEM_COBRICAO_DATA = [
     "Frente": "261 - FRENTE PRÓPRIA  (EDMILSON)",
     "Responsável": "REGINALDO DA SILVA GOMES ",
     "Dosagem de Produto - Cobrição": "1",
-    "Fazenda": NaN
+    "Fazenda": null,
+    "Unnamed: 16": null
   },
   {
     "ID": "3889201",
@@ -304,7 +324,8 @@ const DOSAGEM_COBRICAO_DATA = [
     "Frente": "261 - FRENTE PRÓPRIA  (EDMILSON)",
     "Responsável": "MABILA HELEN D FIGUEIREDO",
     "Dosagem de Produto - Cobrição": "1,06",
-    "Fazenda": NaN
+    "Fazenda": null,
+    "Unnamed: 16": null
   },
   {
     "ID": "3889200",
@@ -322,7 +343,8 @@ const DOSAGEM_COBRICAO_DATA = [
     "Frente": "261 - FRENTE PRÓPRIA  (EDMILSON)",
     "Responsável": "MABILA HELEN D FIGUEIREDO",
     "Dosagem de Produto - Cobrição": "1,04",
-    "Fazenda": NaN
+    "Fazenda": null,
+    "Unnamed: 16": null
   },
   {
     "ID": "3886981",
@@ -340,7 +362,8 @@ const DOSAGEM_COBRICAO_DATA = [
     "Frente": "261 - FRENTE PRÓPRIA  (EDMILSON)",
     "Responsável": "MABILA HELEN D FIGUEIREDO",
     "Dosagem de Produto - Cobrição": "1,06",
-    "Fazenda": NaN
+    "Fazenda": null,
+    "Unnamed: 16": null
   },
   {
     "ID": "3886980",
@@ -358,7 +381,8 @@ const DOSAGEM_COBRICAO_DATA = [
     "Frente": "261 - FRENTE PRÓPRIA  (EDMILSON)",
     "Responsável": "MABILA HELEN D FIGUEIREDO",
     "Dosagem de Produto - Cobrição": "1,1",
-    "Fazenda": NaN
+    "Fazenda": null,
+    "Unnamed: 16": null
   },
   {
     "ID": "3883376",
@@ -376,7 +400,8 @@ const DOSAGEM_COBRICAO_DATA = [
     "Frente": "261 - FRENTE PRÓPRIA  (EDMILSON)",
     "Responsável": "MABILA HELEN D FIGUEIREDO",
     "Dosagem de Produto - Cobrição": "1,04",
-    "Fazenda": NaN
+    "Fazenda": null,
+    "Unnamed: 16": null
   },
   {
     "ID": "3883374",
@@ -394,7 +419,8 @@ const DOSAGEM_COBRICAO_DATA = [
     "Frente": "261 - FRENTE PRÓPRIA  (EDMILSON)",
     "Responsável": "MABILA HELEN D FIGUEIREDO",
     "Dosagem de Produto - Cobrição": "1,04",
-    "Fazenda": NaN
+    "Fazenda": null,
+    "Unnamed: 16": null
   },
   {
     "ID": "3880416",
@@ -412,7 +438,8 @@ const DOSAGEM_COBRICAO_DATA = [
     "Frente": "261 - FRENTE PRÓPRIA  (EDMILSON)",
     "Responsável": "MABILA HELEN D FIGUEIREDO",
     "Dosagem de Produto - Cobrição": "1,06",
-    "Fazenda": NaN
+    "Fazenda": null,
+    "Unnamed: 16": null
   },
   {
     "ID": "3880415",
@@ -430,7 +457,8 @@ const DOSAGEM_COBRICAO_DATA = [
     "Frente": "261 - FRENTE PRÓPRIA  (EDMILSON)",
     "Responsável": "MABILA HELEN D FIGUEIREDO",
     "Dosagem de Produto - Cobrição": "1",
-    "Fazenda": NaN
+    "Fazenda": null,
+    "Unnamed: 16": null
   },
   {
     "ID": "3877803",
@@ -448,7 +476,8 @@ const DOSAGEM_COBRICAO_DATA = [
     "Frente": "261 - FRENTE PRÓPRIA  (EDMILSON)",
     "Responsável": "MABILA HELEN D FIGUEIREDO",
     "Dosagem de Produto - Cobrição": "1,04",
-    "Fazenda": NaN
+    "Fazenda": null,
+    "Unnamed: 16": null
   },
   {
     "ID": "3877802",
@@ -466,7 +495,8 @@ const DOSAGEM_COBRICAO_DATA = [
     "Frente": "261 - FRENTE PRÓPRIA  (EDMILSON)",
     "Responsável": "MABILA HELEN D FIGUEIREDO",
     "Dosagem de Produto - Cobrição": "1,02",
-    "Fazenda": NaN
+    "Fazenda": null,
+    "Unnamed: 16": null
   },
   {
     "ID": "3874801",
@@ -484,7 +514,8 @@ const DOSAGEM_COBRICAO_DATA = [
     "Frente": "261 - FRENTE PRÓPRIA  (EDMILSON)",
     "Responsável": "EDILIANA CARDOSO DA COSTA",
     "Dosagem de Produto - Cobrição": "1,06",
-    "Fazenda": NaN
+    "Fazenda": null,
+    "Unnamed: 16": null
   },
   {
     "ID": "3874800",
@@ -502,7 +533,8 @@ const DOSAGEM_COBRICAO_DATA = [
     "Frente": "261 - FRENTE PRÓPRIA  (EDMILSON)",
     "Responsável": "EDILIANA CARDOSO DA COSTA",
     "Dosagem de Produto - Cobrição": "1,04",
-    "Fazenda": NaN
+    "Fazenda": null,
+    "Unnamed: 16": null
   },
   {
     "ID": "3872173",
@@ -520,7 +552,8 @@ const DOSAGEM_COBRICAO_DATA = [
     "Frente": "261 - FRENTE PRÓPRIA  (EDMILSON)",
     "Responsável": "MABILA HELEN D FIGUEIREDO",
     "Dosagem de Produto - Cobrição": "1,04",
-    "Fazenda": NaN
+    "Fazenda": null,
+    "Unnamed: 16": null
   },
   {
     "ID": "3872172",
@@ -538,7 +571,8 @@ const DOSAGEM_COBRICAO_DATA = [
     "Frente": "261 - FRENTE PRÓPRIA  (EDMILSON)",
     "Responsável": "MABILA HELEN D FIGUEIREDO",
     "Dosagem de Produto - Cobrição": "1,08",
-    "Fazenda": NaN
+    "Fazenda": null,
+    "Unnamed: 16": null
   },
   {
     "ID": "3872260",
@@ -556,7 +590,8 @@ const DOSAGEM_COBRICAO_DATA = [
     "Frente": "261 - FRENTE PRÓPRIA  (EDMILSON)",
     "Responsável": "REGINALDO DA SILVA GOMES ",
     "Dosagem de Produto - Cobrição": "1,04",
-    "Fazenda": NaN
+    "Fazenda": null,
+    "Unnamed: 16": null
   },
   {
     "ID": "3872259",
@@ -574,7 +609,8 @@ const DOSAGEM_COBRICAO_DATA = [
     "Frente": "261 - FRENTE PRÓPRIA  (EDMILSON)",
     "Responsável": "REGINALDO DA SILVA GOMES ",
     "Dosagem de Produto - Cobrição": "1,08",
-    "Fazenda": NaN
+    "Fazenda": null,
+    "Unnamed: 16": null
   },
   {
     "ID": "3870124",
@@ -592,7 +628,8 @@ const DOSAGEM_COBRICAO_DATA = [
     "Frente": "261 - FRENTE PRÓPRIA  (EDMILSON)",
     "Responsável": "MABILA HELEN D FIGUEIREDO",
     "Dosagem de Produto - Cobrição": "1,04",
-    "Fazenda": NaN
+    "Fazenda": null,
+    "Unnamed: 16": null
   },
   {
     "ID": "3870123",
@@ -610,7 +647,8 @@ const DOSAGEM_COBRICAO_DATA = [
     "Frente": "261 - FRENTE PRÓPRIA  (EDMILSON)",
     "Responsável": "MABILA HELEN D FIGUEIREDO",
     "Dosagem de Produto - Cobrição": "1",
-    "Fazenda": NaN
+    "Fazenda": null,
+    "Unnamed: 16": null
   },
   {
     "ID": "3866567",
@@ -628,7 +666,8 @@ const DOSAGEM_COBRICAO_DATA = [
     "Frente": "261 - FRENTE PRÓPRIA  (EDMILSON)",
     "Responsável": "MABILA HELEN D FIGUEIREDO",
     "Dosagem de Produto - Cobrição": "1",
-    "Fazenda": NaN
+    "Fazenda": null,
+    "Unnamed: 16": null
   },
   {
     "ID": "3866565",
@@ -646,7 +685,8 @@ const DOSAGEM_COBRICAO_DATA = [
     "Frente": "261 - FRENTE PRÓPRIA  (EDMILSON)",
     "Responsável": "MABILA HELEN D FIGUEIREDO",
     "Dosagem de Produto - Cobrição": "1,02",
-    "Fazenda": NaN
+    "Fazenda": null,
+    "Unnamed: 16": null
   },
   {
     "ID": "3867112",
@@ -664,7 +704,8 @@ const DOSAGEM_COBRICAO_DATA = [
     "Frente": "261 - FRENTE PRÓPRIA  (EDMILSON)",
     "Responsável": "WILLIAM ROBERTO DALLA COSTA [254120]",
     "Dosagem de Produto - Cobrição": "1,02",
-    "Fazenda": NaN
+    "Fazenda": null,
+    "Unnamed: 16": null
   },
   {
     "ID": "3867111",
@@ -682,7 +723,8 @@ const DOSAGEM_COBRICAO_DATA = [
     "Frente": "261 - FRENTE PRÓPRIA  (EDMILSON)",
     "Responsável": "WILLIAM ROBERTO DALLA COSTA [254120]",
     "Dosagem de Produto - Cobrição": "1",
-    "Fazenda": NaN
+    "Fazenda": null,
+    "Unnamed: 16": null
   },
   {
     "ID": "3864726",
@@ -700,7 +742,8 @@ const DOSAGEM_COBRICAO_DATA = [
     "Frente": "261 - FRENTE PRÓPRIA  (EDMILSON)",
     "Responsável": "EDILIANA CARDOSO DA COSTA",
     "Dosagem de Produto - Cobrição": "1,1",
-    "Fazenda": NaN
+    "Fazenda": null,
+    "Unnamed: 16": null
   },
   {
     "ID": "3864725",
@@ -718,7 +761,8 @@ const DOSAGEM_COBRICAO_DATA = [
     "Frente": "261 - FRENTE PRÓPRIA  (EDMILSON)",
     "Responsável": "EDILIANA CARDOSO DA COSTA",
     "Dosagem de Produto - Cobrição": "1,1",
-    "Fazenda": NaN
+    "Fazenda": null,
+    "Unnamed: 16": null
   },
   {
     "ID": "3864166",
@@ -736,7 +780,8 @@ const DOSAGEM_COBRICAO_DATA = [
     "Frente": "261 - FRENTE PRÓPRIA  (EDMILSON)",
     "Responsável": "MABILA HELEN D FIGUEIREDO",
     "Dosagem de Produto - Cobrição": "1,08",
-    "Fazenda": NaN
+    "Fazenda": null,
+    "Unnamed: 16": null
   },
   {
     "ID": "3864165",
@@ -754,7 +799,8 @@ const DOSAGEM_COBRICAO_DATA = [
     "Frente": "261 - FRENTE PRÓPRIA  (EDMILSON)",
     "Responsável": "MABILA HELEN D FIGUEIREDO",
     "Dosagem de Produto - Cobrição": "1,06",
-    "Fazenda": NaN
+    "Fazenda": null,
+    "Unnamed: 16": null
   },
   {
     "ID": "3861176",
@@ -772,7 +818,8 @@ const DOSAGEM_COBRICAO_DATA = [
     "Frente": "261 - FRENTE PRÓPRIA  (EDMILSON)",
     "Responsável": "MABILA HELEN D FIGUEIREDO",
     "Dosagem de Produto - Cobrição": "1,04",
-    "Fazenda": NaN
+    "Fazenda": null,
+    "Unnamed: 16": null
   },
   {
     "ID": "3861175",
@@ -790,7 +837,8 @@ const DOSAGEM_COBRICAO_DATA = [
     "Frente": "261 - FRENTE PRÓPRIA  (EDMILSON)",
     "Responsável": "MABILA HELEN D FIGUEIREDO",
     "Dosagem de Produto - Cobrição": "1",
-    "Fazenda": NaN
+    "Fazenda": null,
+    "Unnamed: 16": null
   },
   {
     "ID": "3855182",
@@ -808,7 +856,8 @@ const DOSAGEM_COBRICAO_DATA = [
     "Frente": "261 - FRENTE PRÓPRIA  (EDMILSON)",
     "Responsável": "MABILA HELEN D FIGUEIREDO",
     "Dosagem de Produto - Cobrição": "1,1",
-    "Fazenda": NaN
+    "Fazenda": null,
+    "Unnamed: 16": null
   },
   {
     "ID": "3855181",
@@ -826,7 +875,8 @@ const DOSAGEM_COBRICAO_DATA = [
     "Frente": "261 - FRENTE PRÓPRIA  (EDMILSON)",
     "Responsável": "MABILA HELEN D FIGUEIREDO",
     "Dosagem de Produto - Cobrição": "1,02",
-    "Fazenda": NaN
+    "Fazenda": null,
+    "Unnamed: 16": null
   },
   {
     "ID": "3854885",
@@ -844,7 +894,8 @@ const DOSAGEM_COBRICAO_DATA = [
     "Frente": "261 - FRENTE PRÓPRIA  (EDMILSON)",
     "Responsável": "MABILA HELEN D FIGUEIREDO",
     "Dosagem de Produto - Cobrição": "1,06",
-    "Fazenda": NaN
+    "Fazenda": null,
+    "Unnamed: 16": null
   },
   {
     "ID": "3854884",
@@ -862,7 +913,8 @@ const DOSAGEM_COBRICAO_DATA = [
     "Frente": "261 - FRENTE PRÓPRIA  (EDMILSON)",
     "Responsável": "MABILA HELEN D FIGUEIREDO",
     "Dosagem de Produto - Cobrição": "1,04",
-    "Fazenda": NaN
+    "Fazenda": null,
+    "Unnamed: 16": null
   },
   {
     "ID": "3851701",
@@ -880,7 +932,8 @@ const DOSAGEM_COBRICAO_DATA = [
     "Frente": "261 - FRENTE PRÓPRIA  (EDMILSON)",
     "Responsável": "MABILA HELEN D FIGUEIREDO",
     "Dosagem de Produto - Cobrição": "1",
-    "Fazenda": NaN
+    "Fazenda": null,
+    "Unnamed: 16": null
   },
   {
     "ID": "3851700",
@@ -898,7 +951,8 @@ const DOSAGEM_COBRICAO_DATA = [
     "Frente": "261 - FRENTE PRÓPRIA  (EDMILSON)",
     "Responsável": "MABILA HELEN D FIGUEIREDO",
     "Dosagem de Produto - Cobrição": "1",
-    "Fazenda": NaN
+    "Fazenda": null,
+    "Unnamed: 16": null
   },
   {
     "ID": "3849793",
@@ -916,7 +970,8 @@ const DOSAGEM_COBRICAO_DATA = [
     "Frente": "261 - FRENTE PRÓPRIA  (EDMILSON)",
     "Responsável": "MABILA HELEN D FIGUEIREDO",
     "Dosagem de Produto - Cobrição": "1",
-    "Fazenda": NaN
+    "Fazenda": null,
+    "Unnamed: 16": null
   },
   {
     "ID": "3849792",
@@ -934,7 +989,8 @@ const DOSAGEM_COBRICAO_DATA = [
     "Frente": "261 - FRENTE PRÓPRIA  (EDMILSON)",
     "Responsável": "MABILA HELEN D FIGUEIREDO",
     "Dosagem de Produto - Cobrição": "1,02",
-    "Fazenda": NaN
+    "Fazenda": null,
+    "Unnamed: 16": null
   },
   {
     "ID": "3846858",
@@ -952,7 +1008,8 @@ const DOSAGEM_COBRICAO_DATA = [
     "Frente": "261 - FRENTE PRÓPRIA  (EDMILSON)",
     "Responsável": "MABILA HELEN D FIGUEIREDO",
     "Dosagem de Produto - Cobrição": "1,12",
-    "Fazenda": NaN
+    "Fazenda": null,
+    "Unnamed: 16": null
   },
   {
     "ID": "3846860",
@@ -970,7 +1027,8 @@ const DOSAGEM_COBRICAO_DATA = [
     "Frente": "261 - FRENTE PRÓPRIA  (EDMILSON)",
     "Responsável": "MABILA HELEN D FIGUEIREDO",
     "Dosagem de Produto - Cobrição": "1,12",
-    "Fazenda": NaN
+    "Fazenda": null,
+    "Unnamed: 16": null
   },
   {
     "ID": "3641096",
@@ -988,7 +1046,8 @@ const DOSAGEM_COBRICAO_DATA = [
     "Frente": "135 - FRENTE PEDRINHO",
     "Responsável": "MARCELO DE OLIVEIRA JUNIOR",
     "Dosagem de Produto - Cobrição": "1,12",
-    "Fazenda": NaN
+    "Fazenda": null,
+    "Unnamed: 16": null
   },
   {
     "ID": "3641095",
@@ -1006,7 +1065,8 @@ const DOSAGEM_COBRICAO_DATA = [
     "Frente": "135 - FRENTE PEDRINHO",
     "Responsável": "MARCELO DE OLIVEIRA JUNIOR",
     "Dosagem de Produto - Cobrição": "1,06",
-    "Fazenda": NaN
+    "Fazenda": null,
+    "Unnamed: 16": null
   },
   {
     "ID": "3639887",
@@ -1024,7 +1084,8 @@ const DOSAGEM_COBRICAO_DATA = [
     "Frente": "135 - FRENTE PEDRINHO",
     "Responsável": "MARCELO DE OLIVEIRA JUNIOR",
     "Dosagem de Produto - Cobrição": "1,04",
-    "Fazenda": NaN
+    "Fazenda": null,
+    "Unnamed: 16": null
   },
   {
     "ID": "3639886",
@@ -1042,7 +1103,8 @@ const DOSAGEM_COBRICAO_DATA = [
     "Frente": "135 - FRENTE PEDRINHO",
     "Responsável": "MARCELO DE OLIVEIRA JUNIOR",
     "Dosagem de Produto - Cobrição": "1,1",
-    "Fazenda": NaN
+    "Fazenda": null,
+    "Unnamed: 16": null
   },
   {
     "ID": "3636040",
@@ -1060,7 +1122,8 @@ const DOSAGEM_COBRICAO_DATA = [
     "Frente": "135 - FRENTE PEDRINHO",
     "Responsável": "MARCELO DE OLIVEIRA JUNIOR",
     "Dosagem de Produto - Cobrição": "1,06",
-    "Fazenda": NaN
+    "Fazenda": null,
+    "Unnamed: 16": null
   },
   {
     "ID": "3636039",
@@ -1078,7 +1141,8 @@ const DOSAGEM_COBRICAO_DATA = [
     "Frente": "135 - FRENTE PEDRINHO",
     "Responsável": "MARCELO DE OLIVEIRA JUNIOR",
     "Dosagem de Produto - Cobrição": "1,1",
-    "Fazenda": NaN
+    "Fazenda": null,
+    "Unnamed: 16": null
   },
   {
     "ID": "3636038",
@@ -1096,7 +1160,8 @@ const DOSAGEM_COBRICAO_DATA = [
     "Frente": "135 - FRENTE PEDRINHO",
     "Responsável": "MARCELO DE OLIVEIRA JUNIOR",
     "Dosagem de Produto - Cobrição": "1,08",
-    "Fazenda": NaN
+    "Fazenda": null,
+    "Unnamed: 16": null
   },
   {
     "ID": "3636037",
@@ -1114,7 +1179,8 @@ const DOSAGEM_COBRICAO_DATA = [
     "Frente": "135 - FRENTE PEDRINHO",
     "Responsável": "MARCELO DE OLIVEIRA JUNIOR",
     "Dosagem de Produto - Cobrição": "1,06",
-    "Fazenda": NaN
+    "Fazenda": null,
+    "Unnamed: 16": null
   },
   {
     "ID": "3632416",
@@ -1132,7 +1198,8 @@ const DOSAGEM_COBRICAO_DATA = [
     "Frente": "135 - FRENTE PEDRINHO",
     "Responsável": "MARCELO DE OLIVEIRA JUNIOR",
     "Dosagem de Produto - Cobrição": "1,1",
-    "Fazenda": NaN
+    "Fazenda": null,
+    "Unnamed: 16": null
   },
   {
     "ID": "3632415",
@@ -1150,7 +1217,8 @@ const DOSAGEM_COBRICAO_DATA = [
     "Frente": "135 - FRENTE PEDRINHO",
     "Responsável": "MARCELO DE OLIVEIRA JUNIOR",
     "Dosagem de Produto - Cobrição": "1,06",
-    "Fazenda": NaN
+    "Fazenda": null,
+    "Unnamed: 16": null
   },
   {
     "ID": "3629716",
@@ -1168,7 +1236,8 @@ const DOSAGEM_COBRICAO_DATA = [
     "Frente": "105 - FRENTE CASSIO (ZACARIAS)",
     "Responsável": " Antonio ",
     "Dosagem de Produto - Cobrição": "1,1",
-    "Fazenda": NaN
+    "Fazenda": null,
+    "Unnamed: 16": null
   },
   {
     "ID": "3629715",
@@ -1186,7 +1255,8 @@ const DOSAGEM_COBRICAO_DATA = [
     "Frente": "105 - FRENTE CASSIO (ZACARIAS)",
     "Responsável": " Antonio ",
     "Dosagem de Produto - Cobrição": "1,1",
-    "Fazenda": NaN
+    "Fazenda": null,
+    "Unnamed: 16": null
   },
   {
     "ID": "3629703",
@@ -1204,7 +1274,8 @@ const DOSAGEM_COBRICAO_DATA = [
     "Frente": "105 - FRENTE CASSIO (ZACARIAS)",
     "Responsável": " Antonio ",
     "Dosagem de Produto - Cobrição": "1,1",
-    "Fazenda": NaN
+    "Fazenda": null,
+    "Unnamed: 16": null
   },
   {
     "ID": "3629702",
@@ -1222,7 +1293,8 @@ const DOSAGEM_COBRICAO_DATA = [
     "Frente": "105 - FRENTE CASSIO (ZACARIAS)",
     "Responsável": " Antonio ",
     "Dosagem de Produto - Cobrição": "1,1",
-    "Fazenda": NaN
+    "Fazenda": null,
+    "Unnamed: 16": null
   },
   {
     "ID": "3628945",
@@ -1240,7 +1312,8 @@ const DOSAGEM_COBRICAO_DATA = [
     "Frente": "135 - FRENTE PEDRINHO",
     "Responsável": "MARCELO DE OLIVEIRA JUNIOR",
     "Dosagem de Produto - Cobrição": "1,08",
-    "Fazenda": NaN
+    "Fazenda": null,
+    "Unnamed: 16": null
   },
   {
     "ID": "3628944",
@@ -1258,7 +1331,8 @@ const DOSAGEM_COBRICAO_DATA = [
     "Frente": "135 - FRENTE PEDRINHO",
     "Responsável": "MARCELO DE OLIVEIRA JUNIOR",
     "Dosagem de Produto - Cobrição": "1,04",
-    "Fazenda": NaN
+    "Fazenda": null,
+    "Unnamed: 16": null
   },
   {
     "ID": "3628768",
@@ -1276,7 +1350,8 @@ const DOSAGEM_COBRICAO_DATA = [
     "Frente": "101 - FRENTE MECANIZADA",
     "Responsável": "NILDA CLAUDINO [2510716]",
     "Dosagem de Produto - Cobrição": "1,02",
-    "Fazenda": NaN
+    "Fazenda": null,
+    "Unnamed: 16": null
   },
   {
     "ID": "3628767",
@@ -1294,7 +1369,8 @@ const DOSAGEM_COBRICAO_DATA = [
     "Frente": "101 - FRENTE MECANIZADA",
     "Responsável": "NILDA CLAUDINO [2510716]",
     "Dosagem de Produto - Cobrição": "1,02",
-    "Fazenda": NaN
+    "Fazenda": null,
+    "Unnamed: 16": null
   },
   {
     "ID": "3626609",
@@ -1312,7 +1388,8 @@ const DOSAGEM_COBRICAO_DATA = [
     "Frente": "105 - FRENTE CASSIO (ZACARIAS)",
     "Responsável": "GLEISON FELIPE BORGES DE MATOS",
     "Dosagem de Produto - Cobrição": "1,1",
-    "Fazenda": NaN
+    "Fazenda": null,
+    "Unnamed: 16": null
   },
   {
     "ID": "3626607",
@@ -1330,7 +1407,8 @@ const DOSAGEM_COBRICAO_DATA = [
     "Frente": "105 - FRENTE CASSIO (ZACARIAS)",
     "Responsável": "GLEISON FELIPE BORGES DE MATOS",
     "Dosagem de Produto - Cobrição": "1,08",
-    "Fazenda": NaN
+    "Fazenda": null,
+    "Unnamed: 16": null
   },
   {
     "ID": "3626464",
@@ -1348,7 +1426,8 @@ const DOSAGEM_COBRICAO_DATA = [
     "Frente": "105 - FRENTE CASSIO (ZACARIAS)",
     "Responsável": "GLEISON FELIPE BORGES DE MATOS",
     "Dosagem de Produto - Cobrição": "1,1",
-    "Fazenda": NaN
+    "Fazenda": null,
+    "Unnamed: 16": null
   },
   {
     "ID": "3626463",
@@ -1366,7 +1445,8 @@ const DOSAGEM_COBRICAO_DATA = [
     "Frente": "105 - FRENTE CASSIO (ZACARIAS)",
     "Responsável": "GLEISON FELIPE BORGES DE MATOS",
     "Dosagem de Produto - Cobrição": "1,1",
-    "Fazenda": NaN
+    "Fazenda": null,
+    "Unnamed: 16": null
   },
   {
     "ID": "3627152",
@@ -1384,7 +1464,8 @@ const DOSAGEM_COBRICAO_DATA = [
     "Frente": "139 - FRENTE MANEZÃO",
     "Responsável": "MICHELI DE SOUZA SANTOS  ",
     "Dosagem de Produto - Cobrição": "1,1",
-    "Fazenda": NaN
+    "Fazenda": null,
+    "Unnamed: 16": null
   },
   {
     "ID": "3627151",
@@ -1402,7 +1483,8 @@ const DOSAGEM_COBRICAO_DATA = [
     "Frente": "139 - FRENTE MANEZÃO",
     "Responsável": "MICHELI DE SOUZA SANTOS  ",
     "Dosagem de Produto - Cobrição": "1,1",
-    "Fazenda": NaN
+    "Fazenda": null,
+    "Unnamed: 16": null
   },
   {
     "ID": "3627150",
@@ -1420,7 +1502,8 @@ const DOSAGEM_COBRICAO_DATA = [
     "Frente": "139 - FRENTE MANEZÃO",
     "Responsável": "MICHELI DE SOUZA SANTOS  ",
     "Dosagem de Produto - Cobrição": "1,1",
-    "Fazenda": NaN
+    "Fazenda": null,
+    "Unnamed: 16": null
   },
   {
     "ID": "3627149",
@@ -1438,7 +1521,8 @@ const DOSAGEM_COBRICAO_DATA = [
     "Frente": "139 - FRENTE MANEZÃO",
     "Responsável": "MICHELI DE SOUZA SANTOS  ",
     "Dosagem de Produto - Cobrição": "1,125",
-    "Fazenda": NaN
+    "Fazenda": null,
+    "Unnamed: 16": null
   },
   {
     "ID": "3627204",
@@ -1456,7 +1540,8 @@ const DOSAGEM_COBRICAO_DATA = [
     "Frente": "101 - FRENTE MECANIZADA",
     "Responsável": "NILDA CLAUDINO [2510716]",
     "Dosagem de Produto - Cobrição": "1,02",
-    "Fazenda": NaN
+    "Fazenda": null,
+    "Unnamed: 16": null
   },
   {
     "ID": "3627199",
@@ -1474,7 +1559,8 @@ const DOSAGEM_COBRICAO_DATA = [
     "Frente": "101 - FRENTE MECANIZADA",
     "Responsável": "NILDA CLAUDINO [2510716]",
     "Dosagem de Produto - Cobrição": "1",
-    "Fazenda": NaN
+    "Fazenda": null,
+    "Unnamed: 16": null
   },
   {
     "ID": "3626540",
@@ -1492,7 +1578,8 @@ const DOSAGEM_COBRICAO_DATA = [
     "Frente": "143 - FRENTE CASSIO",
     "Responsável": "FERNANDA DE SOUZA ",
     "Dosagem de Produto - Cobrição": "1,1",
-    "Fazenda": NaN
+    "Fazenda": null,
+    "Unnamed: 16": null
   },
   {
     "ID": "3626539",
@@ -1510,7 +1597,8 @@ const DOSAGEM_COBRICAO_DATA = [
     "Frente": "143 - FRENTE CASSIO",
     "Responsável": "FERNANDA DE SOUZA ",
     "Dosagem de Produto - Cobrição": "1,1",
-    "Fazenda": NaN
+    "Fazenda": null,
+    "Unnamed: 16": null
   },
   {
     "ID": "3624835",
@@ -1528,7 +1616,8 @@ const DOSAGEM_COBRICAO_DATA = [
     "Frente": "101 - FRENTE MECANIZADA",
     "Responsável": "NILDA CLAUDINO [2510716]",
     "Dosagem de Produto - Cobrição": "1",
-    "Fazenda": NaN
+    "Fazenda": null,
+    "Unnamed: 16": null
   },
   {
     "ID": "3624833",
@@ -1546,7 +1635,8 @@ const DOSAGEM_COBRICAO_DATA = [
     "Frente": "101 - FRENTE MECANIZADA",
     "Responsável": "NILDA CLAUDINO [2510716]",
     "Dosagem de Produto - Cobrição": "1",
-    "Fazenda": NaN
+    "Fazenda": null,
+    "Unnamed: 16": null
   },
   {
     "ID": "3624038",
@@ -1564,7 +1654,8 @@ const DOSAGEM_COBRICAO_DATA = [
     "Frente": "261 - FRENTE PRÓPRIA  (EDMILSON)",
     "Responsável": "VITOR AMORIM RAMOS ",
     "Dosagem de Produto - Cobrição": "1",
-    "Fazenda": NaN
+    "Fazenda": null,
+    "Unnamed: 16": null
   },
   {
     "ID": "3624037",
@@ -1582,7 +1673,8 @@ const DOSAGEM_COBRICAO_DATA = [
     "Frente": "261 - FRENTE PRÓPRIA  (EDMILSON)",
     "Responsável": "VITOR AMORIM RAMOS ",
     "Dosagem de Produto - Cobrição": "1,06",
-    "Fazenda": NaN
+    "Fazenda": null,
+    "Unnamed: 16": null
   },
   {
     "ID": "3624036",
@@ -1600,7 +1692,8 @@ const DOSAGEM_COBRICAO_DATA = [
     "Frente": "261 - FRENTE PRÓPRIA  (EDMILSON)",
     "Responsável": "VITOR AMORIM RAMOS ",
     "Dosagem de Produto - Cobrição": "1,1",
-    "Fazenda": NaN
+    "Fazenda": null,
+    "Unnamed: 16": null
   },
   {
     "ID": "3624035",
@@ -1618,7 +1711,8 @@ const DOSAGEM_COBRICAO_DATA = [
     "Frente": "261 - FRENTE PRÓPRIA  (EDMILSON)",
     "Responsável": "VITOR AMORIM RAMOS ",
     "Dosagem de Produto - Cobrição": "1",
-    "Fazenda": NaN
+    "Fazenda": null,
+    "Unnamed: 16": null
   },
   {
     "ID": "3624319",
@@ -1636,7 +1730,8 @@ const DOSAGEM_COBRICAO_DATA = [
     "Frente": "143 - FRENTE CASSIO",
     "Responsável": "FERNANDA DE SOUZA ",
     "Dosagem de Produto - Cobrição": "1,1",
-    "Fazenda": NaN
+    "Fazenda": null,
+    "Unnamed: 16": null
   },
   {
     "ID": "3624318",
@@ -1654,7 +1749,8 @@ const DOSAGEM_COBRICAO_DATA = [
     "Frente": "143 - FRENTE CASSIO",
     "Responsável": "FERNANDA DE SOUZA ",
     "Dosagem de Produto - Cobrição": "1,1",
-    "Fazenda": NaN
+    "Fazenda": null,
+    "Unnamed: 16": null
   },
   {
     "ID": "3624049",
@@ -1672,7 +1768,8 @@ const DOSAGEM_COBRICAO_DATA = [
     "Frente": "143 - FRENTE CASSIO",
     "Responsável": " Antonio ",
     "Dosagem de Produto - Cobrição": "1,1",
-    "Fazenda": NaN
+    "Fazenda": null,
+    "Unnamed: 16": null
   },
   {
     "ID": "3624048",
@@ -1690,7 +1787,8 @@ const DOSAGEM_COBRICAO_DATA = [
     "Frente": "143 - FRENTE CASSIO",
     "Responsável": " Antonio ",
     "Dosagem de Produto - Cobrição": "1,1",
-    "Fazenda": NaN
+    "Fazenda": null,
+    "Unnamed: 16": null
   },
   {
     "ID": "3624047",
@@ -1708,7 +1806,8 @@ const DOSAGEM_COBRICAO_DATA = [
     "Frente": "105 - FRENTE CASSIO (ZACARIAS)",
     "Responsável": " Antonio ",
     "Dosagem de Produto - Cobrição": "1,1",
-    "Fazenda": NaN
+    "Fazenda": null,
+    "Unnamed: 16": null
   },
   {
     "ID": "3624046",
@@ -1726,7 +1825,8 @@ const DOSAGEM_COBRICAO_DATA = [
     "Frente": "105 - FRENTE CASSIO (ZACARIAS)",
     "Responsável": " Antonio ",
     "Dosagem de Produto - Cobrição": "1,1",
-    "Fazenda": NaN
+    "Fazenda": null,
+    "Unnamed: 16": null
   },
   {
     "ID": "3625424",
@@ -1744,7 +1844,8 @@ const DOSAGEM_COBRICAO_DATA = [
     "Frente": "139 - FRENTE MANEZÃO",
     "Responsável": "MICHELI DE SOUZA SANTOS  ",
     "Dosagem de Produto - Cobrição": "1,125",
-    "Fazenda": NaN
+    "Fazenda": null,
+    "Unnamed: 16": null
   },
   {
     "ID": "3625423",
@@ -1762,7 +1863,8 @@ const DOSAGEM_COBRICAO_DATA = [
     "Frente": "139 - FRENTE MANEZÃO",
     "Responsável": "MICHELI DE SOUZA SANTOS  ",
     "Dosagem de Produto - Cobrição": "1,1",
-    "Fazenda": NaN
+    "Fazenda": null,
+    "Unnamed: 16": null
   },
   {
     "ID": "3625422",
@@ -1780,7 +1882,8 @@ const DOSAGEM_COBRICAO_DATA = [
     "Frente": "139 - FRENTE MANEZÃO",
     "Responsável": "MICHELI DE SOUZA SANTOS  ",
     "Dosagem de Produto - Cobrição": "1,08",
-    "Fazenda": NaN
+    "Fazenda": null,
+    "Unnamed: 16": null
   },
   {
     "ID": "3625421",
@@ -1798,7 +1901,8 @@ const DOSAGEM_COBRICAO_DATA = [
     "Frente": "139 - FRENTE MANEZÃO",
     "Responsável": "MICHELI DE SOUZA SANTOS  ",
     "Dosagem de Produto - Cobrição": "1,1",
-    "Fazenda": NaN
+    "Fazenda": null,
+    "Unnamed: 16": null
   },
   {
     "ID": "3621605",
@@ -1816,7 +1920,8 @@ const DOSAGEM_COBRICAO_DATA = [
     "Frente": "143 - FRENTE CASSIO",
     "Responsável": "GLEISON FELIPE BORGES DE MATOS",
     "Dosagem de Produto - Cobrição": "1,1",
-    "Fazenda": NaN
+    "Fazenda": null,
+    "Unnamed: 16": null
   },
   {
     "ID": "3621604",
@@ -1834,7 +1939,8 @@ const DOSAGEM_COBRICAO_DATA = [
     "Frente": "143 - FRENTE CASSIO",
     "Responsável": "GLEISON FELIPE BORGES DE MATOS",
     "Dosagem de Produto - Cobrição": "1,08",
-    "Fazenda": NaN
+    "Fazenda": null,
+    "Unnamed: 16": null
   },
   {
     "ID": "3621931",
@@ -1852,7 +1958,8 @@ const DOSAGEM_COBRICAO_DATA = [
     "Frente": "101 - FRENTE MECANIZADA",
     "Responsável": "NILDA CLAUDINO [2510716]",
     "Dosagem de Produto - Cobrição": "1",
-    "Fazenda": NaN
+    "Fazenda": null,
+    "Unnamed: 16": null
   },
   {
     "ID": "3621930",
@@ -1870,7 +1977,8 @@ const DOSAGEM_COBRICAO_DATA = [
     "Frente": "101 - FRENTE MECANIZADA",
     "Responsável": "NILDA CLAUDINO [2510716]",
     "Dosagem de Produto - Cobrição": "1",
-    "Fazenda": NaN
+    "Fazenda": null,
+    "Unnamed: 16": null
   },
   {
     "ID": "3620953",
@@ -1888,7 +1996,8 @@ const DOSAGEM_COBRICAO_DATA = [
     "Frente": "261 - FRENTE PRÓPRIA  (EDMILSON)",
     "Responsável": "VITOR AMORIM RAMOS ",
     "Dosagem de Produto - Cobrição": "1,1",
-    "Fazenda": NaN
+    "Fazenda": null,
+    "Unnamed: 16": null
   },
   {
     "ID": "3620952",
@@ -1906,7 +2015,8 @@ const DOSAGEM_COBRICAO_DATA = [
     "Frente": "261 - FRENTE PRÓPRIA  (EDMILSON)",
     "Responsável": "VITOR AMORIM RAMOS ",
     "Dosagem de Produto - Cobrição": "1,12",
-    "Fazenda": NaN
+    "Fazenda": null,
+    "Unnamed: 16": null
   },
   {
     "ID": "3620813",
@@ -1924,7 +2034,8 @@ const DOSAGEM_COBRICAO_DATA = [
     "Frente": "101 - FRENTE MECANIZADA",
     "Responsável": "FERNANDA DE SOUZA ",
     "Dosagem de Produto - Cobrição": "1,1",
-    "Fazenda": NaN
+    "Fazenda": null,
+    "Unnamed: 16": null
   },
   {
     "ID": "3620811",
@@ -1942,7 +2053,8 @@ const DOSAGEM_COBRICAO_DATA = [
     "Frente": "101 - FRENTE MECANIZADA",
     "Responsável": "FERNANDA DE SOUZA ",
     "Dosagem de Produto - Cobrição": "1,1",
-    "Fazenda": NaN
+    "Fazenda": null,
+    "Unnamed: 16": null
   },
   {
     "ID": "3622454",
@@ -1960,7 +2072,8 @@ const DOSAGEM_COBRICAO_DATA = [
     "Frente": "139 - FRENTE MANEZÃO",
     "Responsável": "MICHELI DE SOUZA SANTOS  ",
     "Dosagem de Produto - Cobrição": "1,1",
-    "Fazenda": NaN
+    "Fazenda": null,
+    "Unnamed: 16": null
   },
   {
     "ID": "3622452",
@@ -1978,7 +2091,8 @@ const DOSAGEM_COBRICAO_DATA = [
     "Frente": "139 - FRENTE MANEZÃO",
     "Responsável": "MICHELI DE SOUZA SANTOS  ",
     "Dosagem de Produto - Cobrição": "1,1",
-    "Fazenda": NaN
+    "Fazenda": null,
+    "Unnamed: 16": null
   },
   {
     "ID": "3621177",
@@ -1996,7 +2110,8 @@ const DOSAGEM_COBRICAO_DATA = [
     "Frente": "142 - FRENTE BIDU",
     "Responsável": "GABRIEL HENRIQUE MARTINS PEREIRA",
     "Dosagem de Produto - Cobrição": "1,12",
-    "Fazenda": NaN
+    "Fazenda": null,
+    "Unnamed: 16": null
   },
   {
     "ID": "3621176",
@@ -2014,7 +2129,8 @@ const DOSAGEM_COBRICAO_DATA = [
     "Frente": "142 - FRENTE BIDU",
     "Responsável": "GABRIEL HENRIQUE MARTINS PEREIRA",
     "Dosagem de Produto - Cobrição": "1,1",
-    "Fazenda": NaN
+    "Fazenda": null,
+    "Unnamed: 16": null
   },
   {
     "ID": "3620887",
@@ -2032,7 +2148,8 @@ const DOSAGEM_COBRICAO_DATA = [
     "Frente": "261 - FRENTE PRÓPRIA  (EDMILSON)",
     "Responsável": "VITOR AMORIM RAMOS ",
     "Dosagem de Produto - Cobrição": "1",
-    "Fazenda": NaN
+    "Fazenda": null,
+    "Unnamed: 16": null
   },
   {
     "ID": "3620886",
@@ -2050,7 +2167,8 @@ const DOSAGEM_COBRICAO_DATA = [
     "Frente": "261 - FRENTE PRÓPRIA  (EDMILSON)",
     "Responsável": "VITOR AMORIM RAMOS ",
     "Dosagem de Produto - Cobrição": "1",
-    "Fazenda": NaN
+    "Fazenda": null,
+    "Unnamed: 16": null
   },
   {
     "ID": "3618878",
@@ -2068,7 +2186,8 @@ const DOSAGEM_COBRICAO_DATA = [
     "Frente": "261 - FRENTE PRÓPRIA  (EDMILSON)",
     "Responsável": "VITOR AMORIM RAMOS ",
     "Dosagem de Produto - Cobrição": "1",
-    "Fazenda": NaN
+    "Fazenda": null,
+    "Unnamed: 16": null
   },
   {
     "ID": "3618877",
@@ -2086,7 +2205,8 @@ const DOSAGEM_COBRICAO_DATA = [
     "Frente": "261 - FRENTE PRÓPRIA  (EDMILSON)",
     "Responsável": "VITOR AMORIM RAMOS ",
     "Dosagem de Produto - Cobrição": "1,1",
-    "Fazenda": NaN
+    "Fazenda": null,
+    "Unnamed: 16": null
   },
   {
     "ID": "3618152",
@@ -2104,7 +2224,8 @@ const DOSAGEM_COBRICAO_DATA = [
     "Frente": "143 - FRENTE CASSIO",
     "Responsável": "MABILA HELEN D FIGUEIREDO",
     "Dosagem de Produto - Cobrição": "1,12",
-    "Fazenda": NaN
+    "Fazenda": null,
+    "Unnamed: 16": null
   },
   {
     "ID": "3618151",
@@ -2122,7 +2243,8 @@ const DOSAGEM_COBRICAO_DATA = [
     "Frente": "143 - FRENTE CASSIO",
     "Responsável": "MABILA HELEN D FIGUEIREDO",
     "Dosagem de Produto - Cobrição": "1,12",
-    "Fazenda": NaN
+    "Fazenda": null,
+    "Unnamed: 16": null
   },
   {
     "ID": "3618150",
@@ -2140,7 +2262,8 @@ const DOSAGEM_COBRICAO_DATA = [
     "Frente": "143 - FRENTE CASSIO",
     "Responsável": "MABILA HELEN D FIGUEIREDO",
     "Dosagem de Produto - Cobrição": "1,1",
-    "Fazenda": NaN
+    "Fazenda": null,
+    "Unnamed: 16": null
   },
   {
     "ID": "3618149",
@@ -2158,7 +2281,8 @@ const DOSAGEM_COBRICAO_DATA = [
     "Frente": "143 - FRENTE CASSIO",
     "Responsável": "MABILA HELEN D FIGUEIREDO",
     "Dosagem de Produto - Cobrição": "1,12",
-    "Fazenda": NaN
+    "Fazenda": null,
+    "Unnamed: 16": null
   },
   {
     "ID": "3618379",
@@ -2176,7 +2300,8 @@ const DOSAGEM_COBRICAO_DATA = [
     "Frente": "105 - FRENTE CASSIO (ZACARIAS)",
     "Responsável": " Antonio ",
     "Dosagem de Produto - Cobrição": "1,1",
-    "Fazenda": NaN
+    "Fazenda": null,
+    "Unnamed: 16": null
   },
   {
     "ID": "3618378",
@@ -2194,7 +2319,8 @@ const DOSAGEM_COBRICAO_DATA = [
     "Frente": "105 - FRENTE CASSIO (ZACARIAS)",
     "Responsável": " Antonio ",
     "Dosagem de Produto - Cobrição": "1,1",
-    "Fazenda": NaN
+    "Fazenda": null,
+    "Unnamed: 16": null
   },
   {
     "ID": "3618688",
@@ -2212,7 +2338,8 @@ const DOSAGEM_COBRICAO_DATA = [
     "Frente": "139 - FRENTE MANEZÃO",
     "Responsável": "MICHELI DE SOUZA SANTOS  ",
     "Dosagem de Produto - Cobrição": "1,1",
-    "Fazenda": NaN
+    "Fazenda": null,
+    "Unnamed: 16": null
   },
   {
     "ID": "3618686",
@@ -2230,7 +2357,8 @@ const DOSAGEM_COBRICAO_DATA = [
     "Frente": "139 - FRENTE MANEZÃO",
     "Responsável": "MICHELI DE SOUZA SANTOS  ",
     "Dosagem de Produto - Cobrição": "1,125",
-    "Fazenda": NaN
+    "Fazenda": null,
+    "Unnamed: 16": null
   },
   {
     "ID": "3618684",
@@ -2248,7 +2376,8 @@ const DOSAGEM_COBRICAO_DATA = [
     "Frente": "139 - FRENTE MANEZÃO",
     "Responsável": "MICHELI DE SOUZA SANTOS  ",
     "Dosagem de Produto - Cobrição": "1,125",
-    "Fazenda": NaN
+    "Fazenda": null,
+    "Unnamed: 16": null
   },
   {
     "ID": "3618682",
@@ -2266,7 +2395,8 @@ const DOSAGEM_COBRICAO_DATA = [
     "Frente": "139 - FRENTE MANEZÃO",
     "Responsável": "MICHELI DE SOUZA SANTOS  ",
     "Dosagem de Produto - Cobrição": "1,1",
-    "Fazenda": NaN
+    "Fazenda": null,
+    "Unnamed: 16": null
   },
   {
     "ID": "3618239",
@@ -2284,7 +2414,8 @@ const DOSAGEM_COBRICAO_DATA = [
     "Frente": "101 - FRENTE MECANIZADA",
     "Responsável": "NILDA CLAUDINO [2510716]",
     "Dosagem de Produto - Cobrição": "1",
-    "Fazenda": NaN
+    "Fazenda": null,
+    "Unnamed: 16": null
   },
   {
     "ID": "3618237",
@@ -2302,7 +2433,8 @@ const DOSAGEM_COBRICAO_DATA = [
     "Frente": "101 - FRENTE MECANIZADA",
     "Responsável": "NILDA CLAUDINO [2510716]",
     "Dosagem de Produto - Cobrição": "1",
-    "Fazenda": NaN
+    "Fazenda": null,
+    "Unnamed: 16": null
   },
   {
     "ID": "3617554",
@@ -2320,7 +2452,8 @@ const DOSAGEM_COBRICAO_DATA = [
     "Frente": "101 - FRENTE MECANIZADA",
     "Responsável": "FERNANDA DE SOUZA ",
     "Dosagem de Produto - Cobrição": "1,1",
-    "Fazenda": NaN
+    "Fazenda": null,
+    "Unnamed: 16": null
   },
   {
     "ID": "3617553",
@@ -2338,7 +2471,8 @@ const DOSAGEM_COBRICAO_DATA = [
     "Frente": "101 - FRENTE MECANIZADA",
     "Responsável": "FERNANDA DE SOUZA ",
     "Dosagem de Produto - Cobrição": "1,1",
-    "Fazenda": NaN
+    "Fazenda": null,
+    "Unnamed: 16": null
   },
   {
     "ID": "3614352",
@@ -2356,7 +2490,8 @@ const DOSAGEM_COBRICAO_DATA = [
     "Frente": "142 - FRENTE BIDU",
     "Responsável": "GLEISON FELIPE BORGES DE MATOS",
     "Dosagem de Produto - Cobrição": "1,1",
-    "Fazenda": NaN
+    "Fazenda": null,
+    "Unnamed: 16": null
   },
   {
     "ID": "3613978",
@@ -2374,7 +2509,8 @@ const DOSAGEM_COBRICAO_DATA = [
     "Frente": "261 - FRENTE PRÓPRIA  (EDMILSON)",
     "Responsável": "VITOR AMORIM RAMOS ",
     "Dosagem de Produto - Cobrição": "1,04",
-    "Fazenda": NaN
+    "Fazenda": null,
+    "Unnamed: 16": null
   },
   {
     "ID": "3613977",
@@ -2392,7 +2528,8 @@ const DOSAGEM_COBRICAO_DATA = [
     "Frente": "261 - FRENTE PRÓPRIA  (EDMILSON)",
     "Responsável": "VITOR AMORIM RAMOS ",
     "Dosagem de Produto - Cobrição": "1,06",
-    "Fazenda": NaN
+    "Fazenda": null,
+    "Unnamed: 16": null
   },
   {
     "ID": "3613976",
@@ -2410,7 +2547,8 @@ const DOSAGEM_COBRICAO_DATA = [
     "Frente": "261 - FRENTE PRÓPRIA  (EDMILSON)",
     "Responsável": "VITOR AMORIM RAMOS ",
     "Dosagem de Produto - Cobrição": "1",
-    "Fazenda": NaN
+    "Fazenda": null,
+    "Unnamed: 16": null
   },
   {
     "ID": "3613975",
@@ -2428,7 +2566,8 @@ const DOSAGEM_COBRICAO_DATA = [
     "Frente": "261 - FRENTE PRÓPRIA  (EDMILSON)",
     "Responsável": "VITOR AMORIM RAMOS ",
     "Dosagem de Produto - Cobrição": "1",
-    "Fazenda": NaN
+    "Fazenda": null,
+    "Unnamed: 16": null
   },
   {
     "ID": "3613793",
@@ -2446,7 +2585,8 @@ const DOSAGEM_COBRICAO_DATA = [
     "Frente": "139 - FRENTE MANEZÃO",
     "Responsável": "MICHELI DE SOUZA SANTOS  ",
     "Dosagem de Produto - Cobrição": "1,1",
-    "Fazenda": NaN
+    "Fazenda": null,
+    "Unnamed: 16": null
   },
   {
     "ID": "3613792",
@@ -2464,7 +2604,8 @@ const DOSAGEM_COBRICAO_DATA = [
     "Frente": "139 - FRENTE MANEZÃO",
     "Responsável": "MICHELI DE SOUZA SANTOS  ",
     "Dosagem de Produto - Cobrição": "1,1",
-    "Fazenda": NaN
+    "Fazenda": null,
+    "Unnamed: 16": null
   },
   {
     "ID": "3613840",
@@ -2482,7 +2623,8 @@ const DOSAGEM_COBRICAO_DATA = [
     "Frente": "105 - FRENTE CASSIO (ZACARIAS)",
     "Responsável": "GABRIEL HENRIQUE MARTINS PEREIRA",
     "Dosagem de Produto - Cobrição": "1,12",
-    "Fazenda": NaN
+    "Fazenda": null,
+    "Unnamed: 16": null
   },
   {
     "ID": "3613791",
@@ -2500,7 +2642,8 @@ const DOSAGEM_COBRICAO_DATA = [
     "Frente": "139 - FRENTE MANEZÃO",
     "Responsável": "MICHELI DE SOUZA SANTOS  ",
     "Dosagem de Produto - Cobrição": "1,1",
-    "Fazenda": NaN
+    "Fazenda": null,
+    "Unnamed: 16": null
   },
   {
     "ID": "3613790",
@@ -2518,7 +2661,8 @@ const DOSAGEM_COBRICAO_DATA = [
     "Frente": "139 - FRENTE MANEZÃO",
     "Responsável": "MICHELI DE SOUZA SANTOS  ",
     "Dosagem de Produto - Cobrição": "1,1",
-    "Fazenda": NaN
+    "Fazenda": null,
+    "Unnamed: 16": null
   },
   {
     "ID": "3613839",
@@ -2536,7 +2680,8 @@ const DOSAGEM_COBRICAO_DATA = [
     "Frente": "105 - FRENTE CASSIO (ZACARIAS)",
     "Responsável": "GABRIEL HENRIQUE MARTINS PEREIRA",
     "Dosagem de Produto - Cobrição": "1,1",
-    "Fazenda": NaN
+    "Fazenda": null,
+    "Unnamed: 16": null
   },
   {
     "ID": "3613751",
@@ -2554,7 +2699,8 @@ const DOSAGEM_COBRICAO_DATA = [
     "Frente": "101 - FRENTE MECANIZADA",
     "Responsável": "FERNANDA DE SOUZA ",
     "Dosagem de Produto - Cobrição": "1,1",
-    "Fazenda": NaN
+    "Fazenda": null,
+    "Unnamed: 16": null
   },
   {
     "ID": "3613750",
@@ -2572,7 +2718,8 @@ const DOSAGEM_COBRICAO_DATA = [
     "Frente": "101 - FRENTE MECANIZADA",
     "Responsável": "FERNANDA DE SOUZA ",
     "Dosagem de Produto - Cobrição": "1,1",
-    "Fazenda": NaN
+    "Fazenda": null,
+    "Unnamed: 16": null
   },
   {
     "ID": "3613838",
@@ -2590,7 +2737,8 @@ const DOSAGEM_COBRICAO_DATA = [
     "Frente": "105 - FRENTE CASSIO (ZACARIAS)",
     "Responsável": "GABRIEL HENRIQUE MARTINS PEREIRA",
     "Dosagem de Produto - Cobrição": "1,1",
-    "Fazenda": NaN
+    "Fazenda": null,
+    "Unnamed: 16": null
   },
   {
     "ID": "3613837",
@@ -2608,7 +2756,8 @@ const DOSAGEM_COBRICAO_DATA = [
     "Frente": "105 - FRENTE CASSIO (ZACARIAS)",
     "Responsável": "GABRIEL HENRIQUE MARTINS PEREIRA",
     "Dosagem de Produto - Cobrição": "1,1",
-    "Fazenda": NaN
+    "Fazenda": null,
+    "Unnamed: 16": null
   },
   {
     "ID": "3614630",
@@ -2626,7 +2775,8 @@ const DOSAGEM_COBRICAO_DATA = [
     "Frente": "101 - FRENTE MECANIZADA",
     "Responsável": "NILDA CLAUDINO [2510716]",
     "Dosagem de Produto - Cobrição": "1",
-    "Fazenda": NaN
+    "Fazenda": null,
+    "Unnamed: 16": null
   },
   {
     "ID": "3614629",
@@ -2644,7 +2794,8 @@ const DOSAGEM_COBRICAO_DATA = [
     "Frente": "101 - FRENTE MECANIZADA",
     "Responsável": "NILDA CLAUDINO [2510716]",
     "Dosagem de Produto - Cobrição": "1",
-    "Fazenda": NaN
+    "Fazenda": null,
+    "Unnamed: 16": null
   },
   {
     "ID": "3611649",
@@ -2662,7 +2813,8 @@ const DOSAGEM_COBRICAO_DATA = [
     "Frente": "142 - FRENTE BIDU",
     "Responsável": "FERNANDA DE SOUZA ",
     "Dosagem de Produto - Cobrição": "1,1",
-    "Fazenda": NaN
+    "Fazenda": null,
+    "Unnamed: 16": null
   },
   {
     "ID": "3611648",
@@ -2680,7 +2832,8 @@ const DOSAGEM_COBRICAO_DATA = [
     "Frente": "142 - FRENTE BIDU",
     "Responsável": "FERNANDA DE SOUZA ",
     "Dosagem de Produto - Cobrição": "1,1",
-    "Fazenda": NaN
+    "Fazenda": null,
+    "Unnamed: 16": null
   },
   {
     "ID": "3611647",
@@ -2698,7 +2851,8 @@ const DOSAGEM_COBRICAO_DATA = [
     "Frente": "142 - FRENTE BIDU",
     "Responsável": "FERNANDA DE SOUZA ",
     "Dosagem de Produto - Cobrição": "1,1",
-    "Fazenda": NaN
+    "Fazenda": null,
+    "Unnamed: 16": null
   },
   {
     "ID": "3611646",
@@ -2716,7 +2870,8 @@ const DOSAGEM_COBRICAO_DATA = [
     "Frente": "142 - FRENTE BIDU",
     "Responsável": "FERNANDA DE SOUZA ",
     "Dosagem de Produto - Cobrição": "1,1",
-    "Fazenda": NaN
+    "Fazenda": null,
+    "Unnamed: 16": null
   },
   {
     "ID": "3611800",
@@ -2734,7 +2889,8 @@ const DOSAGEM_COBRICAO_DATA = [
     "Frente": "105 - FRENTE CASSIO (ZACARIAS)",
     "Responsável": "GABRIEL HENRIQUE MARTINS PEREIRA",
     "Dosagem de Produto - Cobrição": "1,12",
-    "Fazenda": NaN
+    "Fazenda": null,
+    "Unnamed: 16": null
   },
   {
     "ID": "3611799",
@@ -2752,7 +2908,8 @@ const DOSAGEM_COBRICAO_DATA = [
     "Frente": "105 - FRENTE CASSIO (ZACARIAS)",
     "Responsável": "GABRIEL HENRIQUE MARTINS PEREIRA",
     "Dosagem de Produto - Cobrição": "1,1",
-    "Fazenda": NaN
+    "Fazenda": null,
+    "Unnamed: 16": null
   },
   {
     "ID": "3611798",
@@ -2770,7 +2927,8 @@ const DOSAGEM_COBRICAO_DATA = [
     "Frente": "105 - FRENTE CASSIO (ZACARIAS)",
     "Responsável": "GABRIEL HENRIQUE MARTINS PEREIRA",
     "Dosagem de Produto - Cobrição": "1,1",
-    "Fazenda": NaN
+    "Fazenda": null,
+    "Unnamed: 16": null
   },
   {
     "ID": "3611797",
@@ -2788,7 +2946,8 @@ const DOSAGEM_COBRICAO_DATA = [
     "Frente": "105 - FRENTE CASSIO (ZACARIAS)",
     "Responsável": "GABRIEL HENRIQUE MARTINS PEREIRA",
     "Dosagem de Produto - Cobrição": "1,1",
-    "Fazenda": NaN
+    "Fazenda": null,
+    "Unnamed: 16": null
   },
   {
     "ID": "3610949",
@@ -2806,7 +2965,8 @@ const DOSAGEM_COBRICAO_DATA = [
     "Frente": "261 - FRENTE PRÓPRIA  (EDMILSON)",
     "Responsável": "VITOR AMORIM RAMOS ",
     "Dosagem de Produto - Cobrição": "1,1",
-    "Fazenda": NaN
+    "Fazenda": null,
+    "Unnamed: 16": null
   },
   {
     "ID": "3610948",
@@ -2824,7 +2984,8 @@ const DOSAGEM_COBRICAO_DATA = [
     "Frente": "261 - FRENTE PRÓPRIA  (EDMILSON)",
     "Responsável": "VITOR AMORIM RAMOS ",
     "Dosagem de Produto - Cobrição": "1",
-    "Fazenda": NaN
+    "Fazenda": null,
+    "Unnamed: 16": null
   },
   {
     "ID": "3610947",
@@ -2842,7 +3003,8 @@ const DOSAGEM_COBRICAO_DATA = [
     "Frente": "261 - FRENTE PRÓPRIA  (EDMILSON)",
     "Responsável": "VITOR AMORIM RAMOS ",
     "Dosagem de Produto - Cobrição": "1,1",
-    "Fazenda": NaN
+    "Fazenda": null,
+    "Unnamed: 16": null
   },
   {
     "ID": "3610946",
@@ -2860,7 +3022,8 @@ const DOSAGEM_COBRICAO_DATA = [
     "Frente": "261 - FRENTE PRÓPRIA  (EDMILSON)",
     "Responsável": "VITOR AMORIM RAMOS ",
     "Dosagem de Produto - Cobrição": "1",
-    "Fazenda": NaN
+    "Fazenda": null,
+    "Unnamed: 16": null
   },
   {
     "ID": "3611092",
@@ -2878,7 +3041,8 @@ const DOSAGEM_COBRICAO_DATA = [
     "Frente": "101 - FRENTE MECANIZADA",
     "Responsável": "NILDA CLAUDINO [2510716]",
     "Dosagem de Produto - Cobrição": "1,1",
-    "Fazenda": NaN
+    "Fazenda": null,
+    "Unnamed: 16": null
   },
   {
     "ID": "3611091",
@@ -2896,7 +3060,8 @@ const DOSAGEM_COBRICAO_DATA = [
     "Frente": "101 - FRENTE MECANIZADA",
     "Responsável": "NILDA CLAUDINO [2510716]",
     "Dosagem de Produto - Cobrição": "1,09",
-    "Fazenda": NaN
+    "Fazenda": null,
+    "Unnamed: 16": null
   },
   {
     "ID": "3608712",
@@ -2914,7 +3079,8 @@ const DOSAGEM_COBRICAO_DATA = [
     "Frente": "143 - FRENTE CASSIO",
     "Responsável": "MABILA HELEN D FIGUEIREDO",
     "Dosagem de Produto - Cobrição": "1,1",
-    "Fazenda": NaN
+    "Fazenda": null,
+    "Unnamed: 16": null
   },
   {
     "ID": "3608711",
@@ -2932,7 +3098,8 @@ const DOSAGEM_COBRICAO_DATA = [
     "Frente": "143 - FRENTE CASSIO",
     "Responsável": " Antonio ",
     "Dosagem de Produto - Cobrição": "1,1",
-    "Fazenda": NaN
+    "Fazenda": null,
+    "Unnamed: 16": null
   },
   {
     "ID": "3609543",
@@ -2950,7 +3117,8 @@ const DOSAGEM_COBRICAO_DATA = [
     "Frente": "139 - FRENTE MANEZÃO",
     "Responsável": "MICHELI DE SOUZA SANTOS  ",
     "Dosagem de Produto - Cobrição": "1,1",
-    "Fazenda": NaN
+    "Fazenda": null,
+    "Unnamed: 16": null
   },
   {
     "ID": "3609542",
@@ -2968,7 +3136,8 @@ const DOSAGEM_COBRICAO_DATA = [
     "Frente": "139 - FRENTE MANEZÃO",
     "Responsável": "MICHELI DE SOUZA SANTOS  ",
     "Dosagem de Produto - Cobrição": "1,1",
-    "Fazenda": NaN
+    "Fazenda": null,
+    "Unnamed: 16": null
   },
   {
     "ID": "3609541",
@@ -2986,7 +3155,8 @@ const DOSAGEM_COBRICAO_DATA = [
     "Frente": "139 - FRENTE MANEZÃO",
     "Responsável": "MICHELI DE SOUZA SANTOS  ",
     "Dosagem de Produto - Cobrição": "1,1",
-    "Fazenda": NaN
+    "Fazenda": null,
+    "Unnamed: 16": null
   },
   {
     "ID": "3609540",
@@ -3004,7 +3174,8 @@ const DOSAGEM_COBRICAO_DATA = [
     "Frente": "139 - FRENTE MANEZÃO",
     "Responsável": "MICHELI DE SOUZA SANTOS  ",
     "Dosagem de Produto - Cobrição": "1,1",
-    "Fazenda": NaN
+    "Fazenda": null,
+    "Unnamed: 16": null
   },
   {
     "ID": "3608316",
@@ -3022,7 +3193,8 @@ const DOSAGEM_COBRICAO_DATA = [
     "Frente": "105 - FRENTE CASSIO (ZACARIAS)",
     "Responsável": "GABRIEL HENRIQUE MARTINS PEREIRA",
     "Dosagem de Produto - Cobrição": "1,1",
-    "Fazenda": NaN
+    "Fazenda": null,
+    "Unnamed: 16": null
   },
   {
     "ID": "3608317",
@@ -3040,7 +3212,8 @@ const DOSAGEM_COBRICAO_DATA = [
     "Frente": "105 - FRENTE CASSIO (ZACARIAS)",
     "Responsável": "GABRIEL HENRIQUE MARTINS PEREIRA",
     "Dosagem de Produto - Cobrição": "1,1",
-    "Fazenda": NaN
+    "Fazenda": null,
+    "Unnamed: 16": null
   },
   {
     "ID": "3607610",
@@ -3058,7 +3231,8 @@ const DOSAGEM_COBRICAO_DATA = [
     "Frente": "261 - FRENTE PRÓPRIA  (EDMILSON)",
     "Responsável": "VITOR AMORIM RAMOS ",
     "Dosagem de Produto - Cobrição": "1,1",
-    "Fazenda": NaN
+    "Fazenda": null,
+    "Unnamed: 16": null
   },
   {
     "ID": "3607609",
@@ -3076,7 +3250,8 @@ const DOSAGEM_COBRICAO_DATA = [
     "Frente": "261 - FRENTE PRÓPRIA  (EDMILSON)",
     "Responsável": "VITOR AMORIM RAMOS ",
     "Dosagem de Produto - Cobrição": "1,06",
-    "Fazenda": NaN
+    "Fazenda": null,
+    "Unnamed: 16": null
   },
   {
     "ID": "3607608",
@@ -3094,7 +3269,8 @@ const DOSAGEM_COBRICAO_DATA = [
     "Frente": "261 - FRENTE PRÓPRIA  (EDMILSON)",
     "Responsável": "VITOR AMORIM RAMOS ",
     "Dosagem de Produto - Cobrição": "1,06",
-    "Fazenda": NaN
+    "Fazenda": null,
+    "Unnamed: 16": null
   },
   {
     "ID": "3607607",
@@ -3112,7 +3288,8 @@ const DOSAGEM_COBRICAO_DATA = [
     "Frente": "261 - FRENTE PRÓPRIA  (EDMILSON)",
     "Responsável": "VITOR AMORIM RAMOS ",
     "Dosagem de Produto - Cobrição": "1",
-    "Fazenda": NaN
+    "Fazenda": null,
+    "Unnamed: 16": null
   },
   {
     "ID": "3587695",
@@ -3130,7 +3307,8 @@ const DOSAGEM_COBRICAO_DATA = [
     "Frente": "142 - FRENTE BIDU",
     "Responsável": " Antonio ",
     "Dosagem de Produto - Cobrição": "1,1",
-    "Fazenda": NaN
+    "Fazenda": null,
+    "Unnamed: 16": null
   },
   {
     "ID": "3607422",
@@ -3148,7 +3326,8 @@ const DOSAGEM_COBRICAO_DATA = [
     "Frente": "101 - FRENTE MECANIZADA",
     "Responsável": "FERNANDA DE SOUZA ",
     "Dosagem de Produto - Cobrição": "1,1",
-    "Fazenda": NaN
+    "Fazenda": null,
+    "Unnamed: 16": null
   },
   {
     "ID": "3607421",
@@ -3166,7 +3345,8 @@ const DOSAGEM_COBRICAO_DATA = [
     "Frente": "101 - FRENTE MECANIZADA",
     "Responsável": "FERNANDA DE SOUZA ",
     "Dosagem de Produto - Cobrição": "1,1",
-    "Fazenda": NaN
+    "Fazenda": null,
+    "Unnamed: 16": null
   },
   {
     "ID": "3608243",
@@ -3184,7 +3364,8 @@ const DOSAGEM_COBRICAO_DATA = [
     "Frente": "101 - FRENTE MECANIZADA",
     "Responsável": "NILDA CLAUDINO [2510716]",
     "Dosagem de Produto - Cobrição": "1",
-    "Fazenda": NaN
+    "Fazenda": null,
+    "Unnamed: 16": null
   },
   {
     "ID": "3608242",
@@ -3202,7 +3383,8 @@ const DOSAGEM_COBRICAO_DATA = [
     "Frente": "101 - FRENTE MECANIZADA",
     "Responsável": "NILDA CLAUDINO [2510716]",
     "Dosagem de Produto - Cobrição": "1",
-    "Fazenda": NaN
+    "Fazenda": null,
+    "Unnamed: 16": null
   },
   {
     "ID": "3605436",
@@ -3220,7 +3402,8 @@ const DOSAGEM_COBRICAO_DATA = [
     "Frente": "143 - FRENTE CASSIO",
     "Responsável": " Antonio ",
     "Dosagem de Produto - Cobrição": "1,1",
-    "Fazenda": NaN
+    "Fazenda": null,
+    "Unnamed: 16": null
   },
   {
     "ID": "3605435",
@@ -3238,7 +3421,8 @@ const DOSAGEM_COBRICAO_DATA = [
     "Frente": "143 - FRENTE CASSIO",
     "Responsável": " Antonio ",
     "Dosagem de Produto - Cobrição": "1,1",
-    "Fazenda": NaN
+    "Fazenda": null,
+    "Unnamed: 16": null
   },
   {
     "ID": "3607367",
@@ -3256,7 +3440,8 @@ const DOSAGEM_COBRICAO_DATA = [
     "Frente": "261 - FRENTE PRÓPRIA  (EDMILSON)",
     "Responsável": "VITOR AMORIM RAMOS ",
     "Dosagem de Produto - Cobrição": "1",
-    "Fazenda": NaN
+    "Fazenda": null,
+    "Unnamed: 16": null
   },
   {
     "ID": "3607366",
@@ -3274,7 +3459,8 @@ const DOSAGEM_COBRICAO_DATA = [
     "Frente": "261 - FRENTE PRÓPRIA  (EDMILSON)",
     "Responsável": "VITOR AMORIM RAMOS ",
     "Dosagem de Produto - Cobrição": "1,1",
-    "Fazenda": NaN
+    "Fazenda": null,
+    "Unnamed: 16": null
   },
   {
     "ID": "3604577",
@@ -3292,7 +3478,8 @@ const DOSAGEM_COBRICAO_DATA = [
     "Frente": "142 - FRENTE BIDU",
     "Responsável": "GLEISON FELIPE BORGES DE MATOS",
     "Dosagem de Produto - Cobrição": "1,1",
-    "Fazenda": NaN
+    "Fazenda": null,
+    "Unnamed: 16": null
   },
   {
     "ID": "3604054",
@@ -3310,7 +3497,8 @@ const DOSAGEM_COBRICAO_DATA = [
     "Frente": "261 - FRENTE PRÓPRIA  (EDMILSON)",
     "Responsável": "VITOR AMORIM RAMOS ",
     "Dosagem de Produto - Cobrição": "1",
-    "Fazenda": NaN
+    "Fazenda": null,
+    "Unnamed: 16": null
   },
   {
     "ID": "3604053",
@@ -3328,7 +3516,8 @@ const DOSAGEM_COBRICAO_DATA = [
     "Frente": "261 - FRENTE PRÓPRIA  (EDMILSON)",
     "Responsável": "VITOR AMORIM RAMOS ",
     "Dosagem de Produto - Cobrição": "1,1",
-    "Fazenda": NaN
+    "Fazenda": null,
+    "Unnamed: 16": null
   },
   {
     "ID": "3604649",
@@ -3346,7 +3535,8 @@ const DOSAGEM_COBRICAO_DATA = [
     "Frente": "105 - FRENTE CASSIO (ZACARIAS)",
     "Responsável": "GABRIEL HENRIQUE MARTINS PEREIRA",
     "Dosagem de Produto - Cobrição": "1,1",
-    "Fazenda": NaN
+    "Fazenda": null,
+    "Unnamed: 16": null
   },
   {
     "ID": "3604648",
@@ -3364,7 +3554,8 @@ const DOSAGEM_COBRICAO_DATA = [
     "Frente": "105 - FRENTE CASSIO (ZACARIAS)",
     "Responsável": "GABRIEL HENRIQUE MARTINS PEREIRA",
     "Dosagem de Produto - Cobrição": "1,1",
-    "Fazenda": NaN
+    "Fazenda": null,
+    "Unnamed: 16": null
   },
   {
     "ID": "3604205",
@@ -3382,7 +3573,8 @@ const DOSAGEM_COBRICAO_DATA = [
     "Frente": "139 - FRENTE MANEZÃO",
     "Responsável": "MICHELI DE SOUZA SANTOS  ",
     "Dosagem de Produto - Cobrição": "1,08",
-    "Fazenda": NaN
+    "Fazenda": null,
+    "Unnamed: 16": null
   },
   {
     "ID": "3604204",
@@ -3400,7 +3592,8 @@ const DOSAGEM_COBRICAO_DATA = [
     "Frente": "139 - FRENTE MANEZÃO",
     "Responsável": "MICHELI DE SOUZA SANTOS  ",
     "Dosagem de Produto - Cobrição": "1,08",
-    "Fazenda": NaN
+    "Fazenda": null,
+    "Unnamed: 16": null
   },
   {
     "ID": "3603985",
@@ -3418,7 +3611,8 @@ const DOSAGEM_COBRICAO_DATA = [
     "Frente": "101 - FRENTE MECANIZADA",
     "Responsável": "NILDA CLAUDINO [2510716]",
     "Dosagem de Produto - Cobrição": "1",
-    "Fazenda": NaN
+    "Fazenda": null,
+    "Unnamed: 16": null
   },
   {
     "ID": "3603913",
@@ -3436,7 +3630,8 @@ const DOSAGEM_COBRICAO_DATA = [
     "Frente": "101 - FRENTE MECANIZADA",
     "Responsável": "NILDA CLAUDINO [2510716]",
     "Dosagem de Produto - Cobrição": "1,02",
-    "Fazenda": NaN
+    "Fazenda": null,
+    "Unnamed: 16": null
   },
   {
     "ID": "3602512",
@@ -3454,7 +3649,8 @@ const DOSAGEM_COBRICAO_DATA = [
     "Frente": "142 - FRENTE BIDU",
     "Responsável": "Leonardo Ribeiro Teixeira da Silva",
     "Dosagem de Produto - Cobrição": "1,1",
-    "Fazenda": NaN
+    "Fazenda": null,
+    "Unnamed: 16": null
   },
   {
     "ID": "3602511",
@@ -3472,7 +3668,8 @@ const DOSAGEM_COBRICAO_DATA = [
     "Frente": "142 - FRENTE BIDU",
     "Responsável": "Leonardo Ribeiro Teixeira da Silva",
     "Dosagem de Produto - Cobrição": "1,1",
-    "Fazenda": NaN
+    "Fazenda": null,
+    "Unnamed: 16": null
   },
   {
     "ID": "3601423",
@@ -3490,7 +3687,8 @@ const DOSAGEM_COBRICAO_DATA = [
     "Frente": "261 - FRENTE PRÓPRIA  (EDMILSON)",
     "Responsável": "VITOR AMORIM RAMOS ",
     "Dosagem de Produto - Cobrição": "1,1",
-    "Fazenda": NaN
+    "Fazenda": null,
+    "Unnamed: 16": null
   },
   {
     "ID": "3601487",
@@ -3508,7 +3706,8 @@ const DOSAGEM_COBRICAO_DATA = [
     "Frente": "101 - FRENTE MECANIZADA",
     "Responsável": "NILDA CLAUDINO [2510716]",
     "Dosagem de Produto - Cobrição": "1",
-    "Fazenda": NaN
+    "Fazenda": null,
+    "Unnamed: 16": null
   },
   {
     "ID": "3601422",
@@ -3526,7 +3725,8 @@ const DOSAGEM_COBRICAO_DATA = [
     "Frente": "261 - FRENTE PRÓPRIA  (EDMILSON)",
     "Responsável": "VITOR AMORIM RAMOS ",
     "Dosagem de Produto - Cobrição": "1",
-    "Fazenda": NaN
+    "Fazenda": null,
+    "Unnamed: 16": null
   },
   {
     "ID": "3601486",
@@ -3544,7 +3744,8 @@ const DOSAGEM_COBRICAO_DATA = [
     "Frente": "101 - FRENTE MECANIZADA",
     "Responsável": "NILDA CLAUDINO [2510716]",
     "Dosagem de Produto - Cobrição": "1",
-    "Fazenda": NaN
+    "Fazenda": null,
+    "Unnamed: 16": null
   },
   {
     "ID": "3601421",
@@ -3562,7 +3763,8 @@ const DOSAGEM_COBRICAO_DATA = [
     "Frente": "261 - FRENTE PRÓPRIA  (EDMILSON)",
     "Responsável": "VITOR AMORIM RAMOS ",
     "Dosagem de Produto - Cobrição": "1,1",
-    "Fazenda": NaN
+    "Fazenda": null,
+    "Unnamed: 16": null
   },
   {
     "ID": "3601420",
@@ -3580,7 +3782,8 @@ const DOSAGEM_COBRICAO_DATA = [
     "Frente": "261 - FRENTE PRÓPRIA  (EDMILSON)",
     "Responsável": "VITOR AMORIM RAMOS ",
     "Dosagem de Produto - Cobrição": "1,06",
-    "Fazenda": NaN
+    "Fazenda": null,
+    "Unnamed: 16": null
   },
   {
     "ID": "3602104",
@@ -3598,7 +3801,8 @@ const DOSAGEM_COBRICAO_DATA = [
     "Frente": "139 - FRENTE MANEZÃO",
     "Responsável": "MICHELI DE SOUZA SANTOS  ",
     "Dosagem de Produto - Cobrição": "1,1",
-    "Fazenda": NaN
+    "Fazenda": null,
+    "Unnamed: 16": null
   },
   {
     "ID": "3602103",
@@ -3616,7 +3820,8 @@ const DOSAGEM_COBRICAO_DATA = [
     "Frente": "139 - FRENTE MANEZÃO",
     "Responsável": "MICHELI DE SOUZA SANTOS  ",
     "Dosagem de Produto - Cobrição": "1,1",
-    "Fazenda": NaN
+    "Fazenda": null,
+    "Unnamed: 16": null
   },
   {
     "ID": "3601543",
@@ -3634,7 +3839,8 @@ const DOSAGEM_COBRICAO_DATA = [
     "Frente": "105 - FRENTE CASSIO (ZACARIAS)",
     "Responsável": " Antonio ",
     "Dosagem de Produto - Cobrição": "1,1",
-    "Fazenda": NaN
+    "Fazenda": null,
+    "Unnamed: 16": null
   },
   {
     "ID": "3601542",
@@ -3652,7 +3858,8 @@ const DOSAGEM_COBRICAO_DATA = [
     "Frente": "105 - FRENTE CASSIO (ZACARIAS)",
     "Responsável": " Antonio ",
     "Dosagem de Produto - Cobrição": "1,1",
-    "Fazenda": NaN
+    "Fazenda": null,
+    "Unnamed: 16": null
   },
   {
     "ID": "3602087",
@@ -3670,7 +3877,8 @@ const DOSAGEM_COBRICAO_DATA = [
     "Frente": "139 - FRENTE MANEZÃO",
     "Responsável": "MICHELI DE SOUZA SANTOS  ",
     "Dosagem de Produto - Cobrição": "1,1",
-    "Fazenda": NaN
+    "Fazenda": null,
+    "Unnamed: 16": null
   },
   {
     "ID": "3602086",
@@ -3688,7 +3896,8 @@ const DOSAGEM_COBRICAO_DATA = [
     "Frente": "139 - FRENTE MANEZÃO",
     "Responsável": "MICHELI DE SOUZA SANTOS  ",
     "Dosagem de Produto - Cobrição": "1,08",
-    "Fazenda": NaN
+    "Fazenda": null,
+    "Unnamed: 16": null
   },
   {
     "ID": "3602296",
@@ -3706,7 +3915,8 @@ const DOSAGEM_COBRICAO_DATA = [
     "Frente": "101 - FRENTE MECANIZADA",
     "Responsável": "FERNANDA DE SOUZA ",
     "Dosagem de Produto - Cobrição": "1,1",
-    "Fazenda": NaN
+    "Fazenda": null,
+    "Unnamed: 16": null
   },
   {
     "ID": "3602295",
@@ -3724,7 +3934,8 @@ const DOSAGEM_COBRICAO_DATA = [
     "Frente": "101 - FRENTE MECANIZADA",
     "Responsável": "FERNANDA DE SOUZA ",
     "Dosagem de Produto - Cobrição": "1,1",
-    "Fazenda": NaN
+    "Fazenda": null,
+    "Unnamed: 16": null
   },
   {
     "ID": "3599177",
@@ -3742,7 +3953,8 @@ const DOSAGEM_COBRICAO_DATA = [
     "Frente": "261 - FRENTE PRÓPRIA  (EDMILSON)",
     "Responsável": "VITOR AMORIM RAMOS ",
     "Dosagem de Produto - Cobrição": "1,06",
-    "Fazenda": NaN
+    "Fazenda": null,
+    "Unnamed: 16": null
   },
   {
     "ID": "3599175",
@@ -3760,7 +3972,8 @@ const DOSAGEM_COBRICAO_DATA = [
     "Frente": "261 - FRENTE PRÓPRIA  (EDMILSON)",
     "Responsável": "VITOR AMORIM RAMOS ",
     "Dosagem de Produto - Cobrição": "1,1",
-    "Fazenda": NaN
+    "Fazenda": null,
+    "Unnamed: 16": null
   },
   {
     "ID": "3599548",
@@ -3778,7 +3991,8 @@ const DOSAGEM_COBRICAO_DATA = [
     "Frente": "139 - FRENTE MANEZÃO",
     "Responsável": "MICHELI DE SOUZA SANTOS  ",
     "Dosagem de Produto - Cobrição": "1,1",
-    "Fazenda": NaN
+    "Fazenda": null,
+    "Unnamed: 16": null
   },
   {
     "ID": "3599549",
@@ -3796,7 +4010,8 @@ const DOSAGEM_COBRICAO_DATA = [
     "Frente": "139 - FRENTE MANEZÃO",
     "Responsável": "MICHELI DE SOUZA SANTOS  ",
     "Dosagem de Produto - Cobrição": "1,1",
-    "Fazenda": NaN
+    "Fazenda": null,
+    "Unnamed: 16": null
   },
   {
     "ID": "3599512",
@@ -3814,7 +4029,8 @@ const DOSAGEM_COBRICAO_DATA = [
     "Frente": "139 - FRENTE MANEZÃO",
     "Responsável": "MICHELI DE SOUZA SANTOS  ",
     "Dosagem de Produto - Cobrição": "1,1",
-    "Fazenda": NaN
+    "Fazenda": null,
+    "Unnamed: 16": null
   },
   {
     "ID": "3599511",
@@ -3832,7 +4048,8 @@ const DOSAGEM_COBRICAO_DATA = [
     "Frente": "139 - FRENTE MANEZÃO",
     "Responsável": "MICHELI DE SOUZA SANTOS  ",
     "Dosagem de Produto - Cobrição": "1,1",
-    "Fazenda": NaN
+    "Fazenda": null,
+    "Unnamed: 16": null
   },
   {
     "ID": "3598199",
@@ -3850,7 +4067,8 @@ const DOSAGEM_COBRICAO_DATA = [
     "Frente": "101 - FRENTE MECANIZADA",
     "Responsável": "NILDA CLAUDINO [2510716]",
     "Dosagem de Produto - Cobrição": "1,12",
-    "Fazenda": NaN
+    "Fazenda": null,
+    "Unnamed: 16": null
   },
   {
     "ID": "3598198",
@@ -3868,7 +4086,8 @@ const DOSAGEM_COBRICAO_DATA = [
     "Frente": "101 - FRENTE MECANIZADA",
     "Responsável": "NILDA CLAUDINO [2510716]",
     "Dosagem de Produto - Cobrição": "1,14",
-    "Fazenda": NaN
+    "Fazenda": null,
+    "Unnamed: 16": null
   },
   {
     "ID": "3599783",
@@ -3886,7 +4105,8 @@ const DOSAGEM_COBRICAO_DATA = [
     "Frente": "101 - FRENTE MECANIZADA",
     "Responsável": "FERNANDA DE SOUZA ",
     "Dosagem de Produto - Cobrição": "1,1",
-    "Fazenda": NaN
+    "Fazenda": null,
+    "Unnamed: 16": null
   },
   {
     "ID": "3599782",
@@ -3904,7 +4124,8 @@ const DOSAGEM_COBRICAO_DATA = [
     "Frente": "101 - FRENTE MECANIZADA",
     "Responsável": "FERNANDA DE SOUZA ",
     "Dosagem de Produto - Cobrição": "1,1",
-    "Fazenda": NaN
+    "Fazenda": null,
+    "Unnamed: 16": null
   },
   {
     "ID": "3596448",
@@ -3922,7 +4143,8 @@ const DOSAGEM_COBRICAO_DATA = [
     "Frente": "142 - FRENTE BIDU",
     "Responsável": "Leonardo Ribeiro Teixeira da Silva",
     "Dosagem de Produto - Cobrição": "1,1",
-    "Fazenda": NaN
+    "Fazenda": null,
+    "Unnamed: 16": null
   },
   {
     "ID": "3596447",
@@ -3940,7 +4162,8 @@ const DOSAGEM_COBRICAO_DATA = [
     "Frente": "142 - FRENTE BIDU",
     "Responsável": "Leonardo Ribeiro Teixeira da Silva",
     "Dosagem de Produto - Cobrição": "1,1",
-    "Fazenda": NaN
+    "Fazenda": null,
+    "Unnamed: 16": null
   },
   {
     "ID": "3595677",
@@ -3958,7 +4181,8 @@ const DOSAGEM_COBRICAO_DATA = [
     "Frente": "261 - FRENTE PRÓPRIA  (EDMILSON)",
     "Responsável": "VITOR AMORIM RAMOS ",
     "Dosagem de Produto - Cobrição": "1",
-    "Fazenda": NaN
+    "Fazenda": null,
+    "Unnamed: 16": null
   },
   {
     "ID": "3596224",
@@ -3976,7 +4200,8 @@ const DOSAGEM_COBRICAO_DATA = [
     "Frente": "101 - FRENTE MECANIZADA",
     "Responsável": "NILDA CLAUDINO [2510716]",
     "Dosagem de Produto - Cobrição": "1,08",
-    "Fazenda": NaN
+    "Fazenda": null,
+    "Unnamed: 16": null
   },
   {
     "ID": "3595676",
@@ -3994,7 +4219,8 @@ const DOSAGEM_COBRICAO_DATA = [
     "Frente": "261 - FRENTE PRÓPRIA  (EDMILSON)",
     "Responsável": "VITOR AMORIM RAMOS ",
     "Dosagem de Produto - Cobrição": "1,1",
-    "Fazenda": NaN
+    "Fazenda": null,
+    "Unnamed: 16": null
   },
   {
     "ID": "3596222",
@@ -4012,7 +4238,8 @@ const DOSAGEM_COBRICAO_DATA = [
     "Frente": "101 - FRENTE MECANIZADA",
     "Responsável": "NILDA CLAUDINO [2510716]",
     "Dosagem de Produto - Cobrição": "1,06",
-    "Fazenda": NaN
+    "Fazenda": null,
+    "Unnamed: 16": null
   },
   {
     "ID": "3595899",
@@ -4030,7 +4257,8 @@ const DOSAGEM_COBRICAO_DATA = [
     "Frente": "105 - FRENTE CASSIO (ZACARIAS)",
     "Responsável": "GABRIEL HENRIQUE MARTINS PEREIRA",
     "Dosagem de Produto - Cobrição": "1,1",
-    "Fazenda": NaN
+    "Fazenda": null,
+    "Unnamed: 16": null
   },
   {
     "ID": "3595898",
@@ -4048,7 +4276,8 @@ const DOSAGEM_COBRICAO_DATA = [
     "Frente": "105 - FRENTE CASSIO (ZACARIAS)",
     "Responsável": "GABRIEL HENRIQUE MARTINS PEREIRA",
     "Dosagem de Produto - Cobrição": "1,1",
-    "Fazenda": NaN
+    "Fazenda": null,
+    "Unnamed: 16": null
   },
   {
     "ID": "3595649",
@@ -4066,7 +4295,8 @@ const DOSAGEM_COBRICAO_DATA = [
     "Frente": "261 - FRENTE PRÓPRIA  (EDMILSON)",
     "Responsável": "VITOR AMORIM RAMOS ",
     "Dosagem de Produto - Cobrição": "1,1",
-    "Fazenda": NaN
+    "Fazenda": null,
+    "Unnamed: 16": null
   },
   {
     "ID": "3595648",
@@ -4084,7 +4314,8 @@ const DOSAGEM_COBRICAO_DATA = [
     "Frente": "261 - FRENTE PRÓPRIA  (EDMILSON)",
     "Responsável": "VITOR AMORIM RAMOS ",
     "Dosagem de Produto - Cobrição": "1",
-    "Fazenda": NaN
+    "Fazenda": null,
+    "Unnamed: 16": null
   },
   {
     "ID": "3595693",
@@ -4102,7 +4333,8 @@ const DOSAGEM_COBRICAO_DATA = [
     "Frente": "143 - FRENTE CASSIO",
     "Responsável": " Antonio ",
     "Dosagem de Produto - Cobrição": "1,1",
-    "Fazenda": NaN
+    "Fazenda": null,
+    "Unnamed: 16": null
   },
   {
     "ID": "3595692",
@@ -4120,7 +4352,8 @@ const DOSAGEM_COBRICAO_DATA = [
     "Frente": "143 - FRENTE CASSIO",
     "Responsável": " Antonio ",
     "Dosagem de Produto - Cobrição": "1,1",
-    "Fazenda": NaN
+    "Fazenda": null,
+    "Unnamed: 16": null
   },
   {
     "ID": "3595691",
@@ -4138,7 +4371,8 @@ const DOSAGEM_COBRICAO_DATA = [
     "Frente": "143 - FRENTE CASSIO",
     "Responsável": " Antonio ",
     "Dosagem de Produto - Cobrição": "1,1",
-    "Fazenda": NaN
+    "Fazenda": null,
+    "Unnamed: 16": null
   },
   {
     "ID": "3595690",
@@ -4156,7 +4390,8 @@ const DOSAGEM_COBRICAO_DATA = [
     "Frente": "143 - FRENTE CASSIO",
     "Responsável": " Antonio ",
     "Dosagem de Produto - Cobrição": "1,1",
-    "Fazenda": NaN
+    "Fazenda": null,
+    "Unnamed: 16": null
   },
   {
     "ID": "3595333",
@@ -4174,7 +4409,8 @@ const DOSAGEM_COBRICAO_DATA = [
     "Frente": "142 - FRENTE BIDU",
     "Responsável": "Leonardo Ribeiro Teixeira da Silva",
     "Dosagem de Produto - Cobrição": "1,1",
-    "Fazenda": NaN
+    "Fazenda": null,
+    "Unnamed: 16": null
   },
   {
     "ID": "3595332",
@@ -4192,7 +4428,8 @@ const DOSAGEM_COBRICAO_DATA = [
     "Frente": "142 - FRENTE BIDU",
     "Responsável": "Leonardo Ribeiro Teixeira da Silva",
     "Dosagem de Produto - Cobrição": "1,1",
-    "Fazenda": NaN
+    "Fazenda": null,
+    "Unnamed: 16": null
   },
   {
     "ID": "3594648",
@@ -4210,7 +4447,8 @@ const DOSAGEM_COBRICAO_DATA = [
     "Frente": "139 - FRENTE MANEZÃO",
     "Responsável": "MICHELI DE SOUZA SANTOS  ",
     "Dosagem de Produto - Cobrição": "1,1",
-    "Fazenda": NaN
+    "Fazenda": null,
+    "Unnamed: 16": null
   },
   {
     "ID": "3594646",
@@ -4228,7 +4466,8 @@ const DOSAGEM_COBRICAO_DATA = [
     "Frente": "139 - FRENTE MANEZÃO",
     "Responsável": "MICHELI DE SOUZA SANTOS  ",
     "Dosagem de Produto - Cobrição": "1,125",
-    "Fazenda": NaN
+    "Fazenda": null,
+    "Unnamed: 16": null
   },
   {
     "ID": "3593827",
@@ -4246,7 +4485,8 @@ const DOSAGEM_COBRICAO_DATA = [
     "Frente": "143 - FRENTE CASSIO",
     "Responsável": " Antonio ",
     "Dosagem de Produto - Cobrição": "1,1",
-    "Fazenda": NaN
+    "Fazenda": null,
+    "Unnamed: 16": null
   },
   {
     "ID": "3593826",
@@ -4264,7 +4504,8 @@ const DOSAGEM_COBRICAO_DATA = [
     "Frente": "143 - FRENTE CASSIO",
     "Responsável": " Antonio ",
     "Dosagem de Produto - Cobrição": "1,1",
-    "Fazenda": NaN
+    "Fazenda": null,
+    "Unnamed: 16": null
   },
   {
     "ID": "3593825",
@@ -4282,7 +4523,8 @@ const DOSAGEM_COBRICAO_DATA = [
     "Frente": "143 - FRENTE CASSIO",
     "Responsável": " Antonio ",
     "Dosagem de Produto - Cobrição": "1,1",
-    "Fazenda": NaN
+    "Fazenda": null,
+    "Unnamed: 16": null
   },
   {
     "ID": "3593824",
@@ -4300,7 +4542,8 @@ const DOSAGEM_COBRICAO_DATA = [
     "Frente": "143 - FRENTE CASSIO",
     "Responsável": " Antonio ",
     "Dosagem de Produto - Cobrição": "1,1",
-    "Fazenda": NaN
+    "Fazenda": null,
+    "Unnamed: 16": null
   },
   {
     "ID": "3593020",
@@ -4318,7 +4561,8 @@ const DOSAGEM_COBRICAO_DATA = [
     "Frente": "261 - FRENTE PRÓPRIA  (EDMILSON)",
     "Responsável": "VITOR AMORIM RAMOS ",
     "Dosagem de Produto - Cobrição": "1,06",
-    "Fazenda": NaN
+    "Fazenda": null,
+    "Unnamed: 16": null
   },
   {
     "ID": "3593017",
@@ -4336,7 +4580,8 @@ const DOSAGEM_COBRICAO_DATA = [
     "Frente": "261 - FRENTE PRÓPRIA  (EDMILSON)",
     "Responsável": "VITOR AMORIM RAMOS ",
     "Dosagem de Produto - Cobrição": "1,1",
-    "Fazenda": NaN
+    "Fazenda": null,
+    "Unnamed: 16": null
   },
   {
     "ID": "3593339",
@@ -4354,7 +4599,8 @@ const DOSAGEM_COBRICAO_DATA = [
     "Frente": "105 - FRENTE CASSIO (ZACARIAS)",
     "Responsável": "NILDA CLAUDINO [2510716]",
     "Dosagem de Produto - Cobrição": "1,1",
-    "Fazenda": NaN
+    "Fazenda": null,
+    "Unnamed: 16": null
   },
   {
     "ID": "3593338",
@@ -4372,7 +4618,8 @@ const DOSAGEM_COBRICAO_DATA = [
     "Frente": "105 - FRENTE CASSIO (ZACARIAS)",
     "Responsável": "NILDA CLAUDINO [2510716]",
     "Dosagem de Produto - Cobrição": "1,12",
-    "Fazenda": NaN
+    "Fazenda": null,
+    "Unnamed: 16": null
   },
   {
     "ID": "3590380",
@@ -4390,7 +4637,8 @@ const DOSAGEM_COBRICAO_DATA = [
     "Frente": "105 - FRENTE CASSIO (ZACARIAS)",
     "Responsável": "NILDA CLAUDINO [2510716]",
     "Dosagem de Produto - Cobrição": "1,14",
-    "Fazenda": NaN
+    "Fazenda": null,
+    "Unnamed: 16": null
   },
   {
     "ID": "3590379",
@@ -4408,7 +4656,8 @@ const DOSAGEM_COBRICAO_DATA = [
     "Frente": "105 - FRENTE CASSIO (ZACARIAS)",
     "Responsável": "NILDA CLAUDINO [2510716]",
     "Dosagem de Produto - Cobrição": "1,12",
-    "Fazenda": NaN
+    "Fazenda": null,
+    "Unnamed: 16": null
   },
   {
     "ID": "3591164",
@@ -4426,7 +4675,8 @@ const DOSAGEM_COBRICAO_DATA = [
     "Frente": "261 - FRENTE PRÓPRIA  (EDMILSON)",
     "Responsável": "VITOR AMORIM RAMOS ",
     "Dosagem de Produto - Cobrição": "1,06",
-    "Fazenda": NaN
+    "Fazenda": null,
+    "Unnamed: 16": null
   },
   {
     "ID": "3591163",
@@ -4444,7 +4694,8 @@ const DOSAGEM_COBRICAO_DATA = [
     "Frente": "261 - FRENTE PRÓPRIA  (EDMILSON)",
     "Responsável": "VITOR AMORIM RAMOS ",
     "Dosagem de Produto - Cobrição": "1",
-    "Fazenda": NaN
+    "Fazenda": null,
+    "Unnamed: 16": null
   },
   {
     "ID": "3592506",
@@ -4462,7 +4713,8 @@ const DOSAGEM_COBRICAO_DATA = [
     "Frente": "135 - FRENTE PEDRINHO",
     "Responsável": "MARCELO DE OLIVEIRA JUNIOR",
     "Dosagem de Produto - Cobrição": "1,08",
-    "Fazenda": NaN
+    "Fazenda": null,
+    "Unnamed: 16": null
   },
   {
     "ID": "3592505",
@@ -4480,7 +4732,8 @@ const DOSAGEM_COBRICAO_DATA = [
     "Frente": "135 - FRENTE PEDRINHO",
     "Responsável": "MARCELO DE OLIVEIRA JUNIOR",
     "Dosagem de Produto - Cobrição": "1,04",
-    "Fazenda": NaN
+    "Fazenda": null,
+    "Unnamed: 16": null
   },
   {
     "ID": "3590340",
@@ -4498,7 +4751,8 @@ const DOSAGEM_COBRICAO_DATA = [
     "Frente": "105 - FRENTE CASSIO (ZACARIAS)",
     "Responsável": "NILDA CLAUDINO [2510716]",
     "Dosagem de Produto - Cobrição": "1,1",
-    "Fazenda": NaN
+    "Fazenda": null,
+    "Unnamed: 16": null
   },
   {
     "ID": "3590339",
@@ -4516,7 +4770,8 @@ const DOSAGEM_COBRICAO_DATA = [
     "Frente": "105 - FRENTE CASSIO (ZACARIAS)",
     "Responsável": "NILDA CLAUDINO [2510716]",
     "Dosagem de Produto - Cobrição": "1,12",
-    "Fazenda": NaN
+    "Fazenda": null,
+    "Unnamed: 16": null
   },
   {
     "ID": "3591020",
@@ -4534,7 +4789,8 @@ const DOSAGEM_COBRICAO_DATA = [
     "Frente": "142 - FRENTE BIDU",
     "Responsável": "Leonardo Ribeiro Teixeira da Silva",
     "Dosagem de Produto - Cobrição": "1,1",
-    "Fazenda": NaN
+    "Fazenda": null,
+    "Unnamed: 16": null
   },
   {
     "ID": "3591019",
@@ -4552,7 +4808,8 @@ const DOSAGEM_COBRICAO_DATA = [
     "Frente": "142 - FRENTE BIDU",
     "Responsável": "Leonardo Ribeiro Teixeira da Silva",
     "Dosagem de Produto - Cobrição": "1,1",
-    "Fazenda": NaN
+    "Fazenda": null,
+    "Unnamed: 16": null
   },
   {
     "ID": "3591018",
@@ -4570,7 +4827,8 @@ const DOSAGEM_COBRICAO_DATA = [
     "Frente": "142 - FRENTE BIDU",
     "Responsável": "Leonardo Ribeiro Teixeira da Silva",
     "Dosagem de Produto - Cobrição": "1,1",
-    "Fazenda": NaN
+    "Fazenda": null,
+    "Unnamed: 16": null
   },
   {
     "ID": "3591017",
@@ -4588,7 +4846,8 @@ const DOSAGEM_COBRICAO_DATA = [
     "Frente": "142 - FRENTE BIDU",
     "Responsável": "Leonardo Ribeiro Teixeira da Silva",
     "Dosagem de Produto - Cobrição": "1,1",
-    "Fazenda": NaN
+    "Fazenda": null,
+    "Unnamed: 16": null
   },
   {
     "ID": "3587863",
@@ -4606,7 +4865,8 @@ const DOSAGEM_COBRICAO_DATA = [
     "Frente": "261 - FRENTE PRÓPRIA  (EDMILSON)",
     "Responsável": "VITOR AMORIM RAMOS ",
     "Dosagem de Produto - Cobrição": "1",
-    "Fazenda": NaN
+    "Fazenda": null,
+    "Unnamed: 16": null
   },
   {
     "ID": "3587862",
@@ -4624,7 +4884,8 @@ const DOSAGEM_COBRICAO_DATA = [
     "Frente": "261 - FRENTE PRÓPRIA  (EDMILSON)",
     "Responsável": "VITOR AMORIM RAMOS ",
     "Dosagem de Produto - Cobrição": "1",
-    "Fazenda": NaN
+    "Fazenda": null,
+    "Unnamed: 16": null
   },
   {
     "ID": "3587861",
@@ -4642,7 +4903,8 @@ const DOSAGEM_COBRICAO_DATA = [
     "Frente": "261 - FRENTE PRÓPRIA  (EDMILSON)",
     "Responsável": "VITOR AMORIM RAMOS ",
     "Dosagem de Produto - Cobrição": "1",
-    "Fazenda": NaN
+    "Fazenda": null,
+    "Unnamed: 16": null
   },
   {
     "ID": "3587860",
@@ -4660,7 +4922,8 @@ const DOSAGEM_COBRICAO_DATA = [
     "Frente": "261 - FRENTE PRÓPRIA  (EDMILSON)",
     "Responsável": "VITOR AMORIM RAMOS ",
     "Dosagem de Produto - Cobrição": "1",
-    "Fazenda": NaN
+    "Fazenda": null,
+    "Unnamed: 16": null
   },
   {
     "ID": "3587694",
@@ -4678,7 +4941,8 @@ const DOSAGEM_COBRICAO_DATA = [
     "Frente": "142 - FRENTE BIDU",
     "Responsável": " Antonio ",
     "Dosagem de Produto - Cobrição": "1,1",
-    "Fazenda": NaN
+    "Fazenda": null,
+    "Unnamed: 16": null
   },
   {
     "ID": "3587693",
@@ -4696,7 +4960,8 @@ const DOSAGEM_COBRICAO_DATA = [
     "Frente": "142 - FRENTE BIDU",
     "Responsável": " Antonio ",
     "Dosagem de Produto - Cobrição": "1,1",
-    "Fazenda": NaN
+    "Fazenda": null,
+    "Unnamed: 16": null
   },
   {
     "ID": "3587692",
@@ -4714,7 +4979,8 @@ const DOSAGEM_COBRICAO_DATA = [
     "Frente": "142 - FRENTE BIDU",
     "Responsável": " Antonio ",
     "Dosagem de Produto - Cobrição": "1,1",
-    "Fazenda": NaN
+    "Fazenda": null,
+    "Unnamed: 16": null
   },
   {
     "ID": "3588323",
@@ -4732,7 +4998,8 @@ const DOSAGEM_COBRICAO_DATA = [
     "Frente": "135 - PEDRINHO ",
     "Responsável": "REGINALDO DA SILVA GOMES ",
     "Dosagem de Produto - Cobrição": "1,1",
-    "Fazenda": NaN
+    "Fazenda": null,
+    "Unnamed: 16": null
   },
   {
     "ID": "3588322",
@@ -4750,7 +5017,8 @@ const DOSAGEM_COBRICAO_DATA = [
     "Frente": "135 - PEDRINHO ",
     "Responsável": "REGINALDO DA SILVA GOMES ",
     "Dosagem de Produto - Cobrição": "1,04",
-    "Fazenda": NaN
+    "Fazenda": null,
+    "Unnamed: 16": null
   },
   {
     "ID": "3588514",
@@ -4768,7 +5036,8 @@ const DOSAGEM_COBRICAO_DATA = [
     "Frente": "135 - FRENTE PEDRINHO",
     "Responsável": "MARCELO DE OLIVEIRA JUNIOR",
     "Dosagem de Produto - Cobrição": "1,04",
-    "Fazenda": NaN
+    "Fazenda": null,
+    "Unnamed: 16": null
   },
   {
     "ID": "3588699",
@@ -4786,7 +5055,8 @@ const DOSAGEM_COBRICAO_DATA = [
     "Frente": "135 - FRENTE PEDRINHO",
     "Responsável": "MARCELO DE OLIVEIRA JUNIOR",
     "Dosagem de Produto - Cobrição": "1,1",
-    "Fazenda": NaN
+    "Fazenda": null,
+    "Unnamed: 16": null
   },
   {
     "ID": "3587719",
@@ -4804,7 +5074,8 @@ const DOSAGEM_COBRICAO_DATA = [
     "Frente": "143 - FRENTE CASSIO",
     "Responsável": "GABRIEL HENRIQUE MARTINS PEREIRA",
     "Dosagem de Produto - Cobrição": "1,12",
-    "Fazenda": NaN
+    "Fazenda": null,
+    "Unnamed: 16": null
   },
   {
     "ID": "3587718",
@@ -4822,7 +5093,8 @@ const DOSAGEM_COBRICAO_DATA = [
     "Frente": "143 - FRENTE CASSIO",
     "Responsável": "GABRIEL HENRIQUE MARTINS PEREIRA",
     "Dosagem de Produto - Cobrição": "1,12",
-    "Fazenda": NaN
+    "Fazenda": null,
+    "Unnamed: 16": null
   },
   {
     "ID": "3586292",
@@ -4840,7 +5112,8 @@ const DOSAGEM_COBRICAO_DATA = [
     "Frente": "139 - FRENTE MANEZÃO",
     "Responsável": "MICHELI DE SOUZA SANTOS  ",
     "Dosagem de Produto - Cobrição": "1,1",
-    "Fazenda": NaN
+    "Fazenda": null,
+    "Unnamed: 16": null
   },
   {
     "ID": "3586291",
@@ -4858,7 +5131,8 @@ const DOSAGEM_COBRICAO_DATA = [
     "Frente": "139 - FRENTE MANEZÃO",
     "Responsável": "MICHELI DE SOUZA SANTOS  ",
     "Dosagem de Produto - Cobrição": "1,1",
-    "Fazenda": NaN
+    "Fazenda": null,
+    "Unnamed: 16": null
   },
   {
     "ID": "3585075",
@@ -4876,7 +5150,8 @@ const DOSAGEM_COBRICAO_DATA = [
     "Frente": "105 - FRENTE CASSIO (ZACARIAS)",
     "Responsável": "NILDA CLAUDINO [2510716]",
     "Dosagem de Produto - Cobrição": "1,1",
-    "Fazenda": NaN
+    "Fazenda": null,
+    "Unnamed: 16": null
   },
   {
     "ID": "3585073",
@@ -4894,7 +5169,8 @@ const DOSAGEM_COBRICAO_DATA = [
     "Frente": "105 - FRENTE CASSIO (ZACARIAS)",
     "Responsável": "NILDA CLAUDINO [2510716]",
     "Dosagem de Produto - Cobrição": "1,12",
-    "Fazenda": NaN
+    "Fazenda": null,
+    "Unnamed: 16": null
   },
   {
     "ID": "3579198",
@@ -4912,7 +5188,8 @@ const DOSAGEM_COBRICAO_DATA = [
     "Frente": "143 - FRENTE CASSIO",
     "Responsável": "GABRIEL HENRIQUE MARTINS PEREIRA",
     "Dosagem de Produto - Cobrição": "1,1",
-    "Fazenda": NaN
+    "Fazenda": null,
+    "Unnamed: 16": null
   },
   {
     "ID": "3585131",
@@ -4930,7 +5207,8 @@ const DOSAGEM_COBRICAO_DATA = [
     "Frente": "143 - FRENTE CASSIO",
     "Responsável": "GABRIEL HENRIQUE MARTINS PEREIRA",
     "Dosagem de Produto - Cobrição": "1,1",
-    "Fazenda": NaN
+    "Fazenda": null,
+    "Unnamed: 16": null
   },
   {
     "ID": "3585130",
@@ -4948,7 +5226,8 @@ const DOSAGEM_COBRICAO_DATA = [
     "Frente": "143 - FRENTE CASSIO",
     "Responsável": "GABRIEL HENRIQUE MARTINS PEREIRA",
     "Dosagem de Produto - Cobrição": "1,12",
-    "Fazenda": NaN
+    "Fazenda": null,
+    "Unnamed: 16": null
   },
   {
     "ID": "3585129",
@@ -4966,7 +5245,8 @@ const DOSAGEM_COBRICAO_DATA = [
     "Frente": "143 - FRENTE CASSIO",
     "Responsável": "GABRIEL HENRIQUE MARTINS PEREIRA",
     "Dosagem de Produto - Cobrição": "1,1",
-    "Fazenda": NaN
+    "Fazenda": null,
+    "Unnamed: 16": null
   },
   {
     "ID": "3585128",
@@ -4984,7 +5264,8 @@ const DOSAGEM_COBRICAO_DATA = [
     "Frente": "143 - FRENTE CASSIO",
     "Responsável": "GABRIEL HENRIQUE MARTINS PEREIRA",
     "Dosagem de Produto - Cobrição": "1,12",
-    "Fazenda": NaN
+    "Fazenda": null,
+    "Unnamed: 16": null
   },
   {
     "ID": "3584084",
@@ -5002,7 +5283,8 @@ const DOSAGEM_COBRICAO_DATA = [
     "Frente": "142 - FRENTE BIDU",
     "Responsável": "Leonardo Ribeiro Teixeira da Silva",
     "Dosagem de Produto - Cobrição": "1,1",
-    "Fazenda": NaN
+    "Fazenda": null,
+    "Unnamed: 16": null
   },
   {
     "ID": "3584083",
@@ -5020,7 +5302,8 @@ const DOSAGEM_COBRICAO_DATA = [
     "Frente": "142 - FRENTE BIDU",
     "Responsável": "Leonardo Ribeiro Teixeira da Silva",
     "Dosagem de Produto - Cobrição": "1,1",
-    "Fazenda": NaN
+    "Fazenda": null,
+    "Unnamed: 16": null
   },
   {
     "ID": "3584424",
@@ -5038,7 +5321,8 @@ const DOSAGEM_COBRICAO_DATA = [
     "Frente": "139 - FRENTE MANEZÃO",
     "Responsável": "MICHELI DE SOUZA SANTOS  ",
     "Dosagem de Produto - Cobrição": "1,125",
-    "Fazenda": NaN
+    "Fazenda": null,
+    "Unnamed: 16": null
   },
   {
     "ID": "3584423",
@@ -5056,7 +5340,8 @@ const DOSAGEM_COBRICAO_DATA = [
     "Frente": "139 - FRENTE MANEZÃO",
     "Responsável": "MICHELI DE SOUZA SANTOS  ",
     "Dosagem de Produto - Cobrição": "1,125",
-    "Fazenda": NaN
+    "Fazenda": null,
+    "Unnamed: 16": null
   },
   {
     "ID": "3581811",
@@ -5074,7 +5359,8 @@ const DOSAGEM_COBRICAO_DATA = [
     "Frente": "135 - FRENTE PEDRINHO",
     "Responsável": "MARCELO DE OLIVEIRA JUNIOR",
     "Dosagem de Produto - Cobrição": "1,08",
-    "Fazenda": NaN
+    "Fazenda": null,
+    "Unnamed: 16": null
   },
   {
     "ID": "3581809",
@@ -5092,7 +5378,8 @@ const DOSAGEM_COBRICAO_DATA = [
     "Frente": "135 - FRENTE PEDRINHO",
     "Responsável": "MARCELO DE OLIVEIRA JUNIOR",
     "Dosagem de Produto - Cobrição": "1,04",
-    "Fazenda": NaN
+    "Fazenda": null,
+    "Unnamed: 16": null
   },
   {
     "ID": "3581414",
@@ -5110,7 +5397,8 @@ const DOSAGEM_COBRICAO_DATA = [
     "Frente": "105 - FRENTE CASSIO (ZACARIAS)",
     "Responsável": "NILDA CLAUDINO [2510716]",
     "Dosagem de Produto - Cobrição": "1,1",
-    "Fazenda": NaN
+    "Fazenda": null,
+    "Unnamed: 16": null
   },
   {
     "ID": "3581413",
@@ -5128,7 +5416,8 @@ const DOSAGEM_COBRICAO_DATA = [
     "Frente": "105 - FRENTE CASSIO (ZACARIAS)",
     "Responsável": "NILDA CLAUDINO [2510716]",
     "Dosagem de Produto - Cobrição": "1,1",
-    "Fazenda": NaN
+    "Fazenda": null,
+    "Unnamed: 16": null
   },
   {
     "ID": "3581842",
@@ -5146,7 +5435,8 @@ const DOSAGEM_COBRICAO_DATA = [
     "Frente": "143 - FRENTE CASSIO",
     "Responsável": "GABRIEL HENRIQUE MARTINS PEREIRA",
     "Dosagem de Produto - Cobrição": "1,1",
-    "Fazenda": NaN
+    "Fazenda": null,
+    "Unnamed: 16": null
   },
   {
     "ID": "3581841",
@@ -5164,7 +5454,8 @@ const DOSAGEM_COBRICAO_DATA = [
     "Frente": "143 - FRENTE CASSIO",
     "Responsável": "GABRIEL HENRIQUE MARTINS PEREIRA",
     "Dosagem de Produto - Cobrição": "1,1",
-    "Fazenda": NaN
+    "Fazenda": null,
+    "Unnamed: 16": null
   },
   {
     "ID": "3581227",
@@ -5182,7 +5473,8 @@ const DOSAGEM_COBRICAO_DATA = [
     "Frente": "261 - FRENTE PRÓPRIA  (EDMILSON)",
     "Responsável": "VITOR AMORIM RAMOS ",
     "Dosagem de Produto - Cobrição": "1",
-    "Fazenda": NaN
+    "Fazenda": null,
+    "Unnamed: 16": null
   },
   {
     "ID": "3581226",
@@ -5200,7 +5492,8 @@ const DOSAGEM_COBRICAO_DATA = [
     "Frente": "261 - FRENTE PRÓPRIA  (EDMILSON)",
     "Responsável": "VITOR AMORIM RAMOS ",
     "Dosagem de Produto - Cobrição": "1,1",
-    "Fazenda": NaN
+    "Fazenda": null,
+    "Unnamed: 16": null
   },
   {
     "ID": "3583586",
@@ -5218,7 +5511,8 @@ const DOSAGEM_COBRICAO_DATA = [
     "Frente": "139 - FRENTE MANEZÃO",
     "Responsável": "MICHELI DE SOUZA SANTOS  ",
     "Dosagem de Produto - Cobrição": "1,1",
-    "Fazenda": NaN
+    "Fazenda": null,
+    "Unnamed: 16": null
   },
   {
     "ID": "3583585",
@@ -5236,7 +5530,8 @@ const DOSAGEM_COBRICAO_DATA = [
     "Frente": "139 - FRENTE MANEZÃO",
     "Responsável": "MICHELI DE SOUZA SANTOS  ",
     "Dosagem de Produto - Cobrição": "1,1",
-    "Fazenda": NaN
+    "Fazenda": null,
+    "Unnamed: 16": null
   },
   {
     "ID": "3581045",
@@ -5254,7 +5549,8 @@ const DOSAGEM_COBRICAO_DATA = [
     "Frente": "142 - FRENTE BIDU",
     "Responsável": "Leonardo Ribeiro Teixeira da Silva",
     "Dosagem de Produto - Cobrição": "1,1",
-    "Fazenda": NaN
+    "Fazenda": null,
+    "Unnamed: 16": null
   },
   {
     "ID": "3581044",
@@ -5272,7 +5568,8 @@ const DOSAGEM_COBRICAO_DATA = [
     "Frente": "142 - FRENTE BIDU",
     "Responsável": "Leonardo Ribeiro Teixeira da Silva",
     "Dosagem de Produto - Cobrição": "1,1",
-    "Fazenda": NaN
+    "Fazenda": null,
+    "Unnamed: 16": null
   },
   {
     "ID": "3579067",
@@ -5290,7 +5587,8 @@ const DOSAGEM_COBRICAO_DATA = [
     "Frente": "142 - FRENTE BIDU",
     "Responsável": "Leonardo Ribeiro Teixeira da Silva",
     "Dosagem de Produto - Cobrição": "1,1",
-    "Fazenda": NaN
+    "Fazenda": null,
+    "Unnamed: 16": null
   },
   {
     "ID": "3579066",
@@ -5308,7 +5606,8 @@ const DOSAGEM_COBRICAO_DATA = [
     "Frente": "142 - FRENTE BIDU",
     "Responsável": "Leonardo Ribeiro Teixeira da Silva",
     "Dosagem de Produto - Cobrição": "1,1",
-    "Fazenda": NaN
+    "Fazenda": null,
+    "Unnamed: 16": null
   },
   {
     "ID": "3579197",
@@ -5326,7 +5625,8 @@ const DOSAGEM_COBRICAO_DATA = [
     "Frente": "143 - FRENTE CASSIO",
     "Responsável": "GABRIEL HENRIQUE MARTINS PEREIRA",
     "Dosagem de Produto - Cobrição": "1,1",
-    "Fazenda": NaN
+    "Fazenda": null,
+    "Unnamed: 16": null
   },
   {
     "ID": "3579341",
@@ -5344,7 +5644,8 @@ const DOSAGEM_COBRICAO_DATA = [
     "Frente": "135 - FRENTE PEDRINHO",
     "Responsável": "MARCELO DE OLIVEIRA JUNIOR",
     "Dosagem de Produto - Cobrição": "1,04",
-    "Fazenda": NaN
+    "Fazenda": null,
+    "Unnamed: 16": null
   },
   {
     "ID": "3579340",
@@ -5362,7 +5663,8 @@ const DOSAGEM_COBRICAO_DATA = [
     "Frente": "135 - FRENTE PEDRINHO",
     "Responsável": "MARCELO DE OLIVEIRA JUNIOR",
     "Dosagem de Produto - Cobrição": "1,06",
-    "Fazenda": NaN
+    "Fazenda": null,
+    "Unnamed: 16": null
   },
   {
     "ID": "3580909",
@@ -5380,7 +5682,8 @@ const DOSAGEM_COBRICAO_DATA = [
     "Frente": "139 - FRENTE MANEZÃO",
     "Responsável": "MICHELI DE SOUZA SANTOS  ",
     "Dosagem de Produto - Cobrição": "1,08",
-    "Fazenda": NaN
+    "Fazenda": null,
+    "Unnamed: 16": null
   },
   {
     "ID": "3580908",
@@ -5398,7 +5701,8 @@ const DOSAGEM_COBRICAO_DATA = [
     "Frente": "139 - FRENTE MANEZÃO",
     "Responsável": "MICHELI DE SOUZA SANTOS  ",
     "Dosagem de Produto - Cobrição": "1,125",
-    "Fazenda": NaN
+    "Fazenda": null,
+    "Unnamed: 16": null
   },
   {
     "ID": "3580907",
@@ -5416,7 +5720,8 @@ const DOSAGEM_COBRICAO_DATA = [
     "Frente": "139 - FRENTE MANEZÃO",
     "Responsável": "MICHELI DE SOUZA SANTOS  ",
     "Dosagem de Produto - Cobrição": "1,08",
-    "Fazenda": NaN
+    "Fazenda": null,
+    "Unnamed: 16": null
   },
   {
     "ID": "3580906",
@@ -5434,7 +5739,8 @@ const DOSAGEM_COBRICAO_DATA = [
     "Frente": "139 - FRENTE MANEZÃO",
     "Responsável": "MICHELI DE SOUZA SANTOS  ",
     "Dosagem de Produto - Cobrição": "1,1",
-    "Fazenda": NaN
+    "Fazenda": null,
+    "Unnamed: 16": null
   },
   {
     "ID": "3576693",
@@ -5452,7 +5758,8 @@ const DOSAGEM_COBRICAO_DATA = [
     "Frente": "143 - FRENTE CASSIO",
     "Responsável": "GABRIEL HENRIQUE MARTINS PEREIRA",
     "Dosagem de Produto - Cobrição": "1,14",
-    "Fazenda": NaN
+    "Fazenda": null,
+    "Unnamed: 16": null
   },
   {
     "ID": "3576692",
@@ -5470,7 +5777,8 @@ const DOSAGEM_COBRICAO_DATA = [
     "Frente": "143 - FRENTE CASSIO",
     "Responsável": "GABRIEL HENRIQUE MARTINS PEREIRA",
     "Dosagem de Produto - Cobrição": "1,1",
-    "Fazenda": NaN
+    "Fazenda": null,
+    "Unnamed: 16": null
   },
   {
     "ID": "3577385",
@@ -5488,7 +5796,8 @@ const DOSAGEM_COBRICAO_DATA = [
     "Frente": "135 - FRENTE PEDRINHO",
     "Responsável": "MARCELO DE OLIVEIRA JUNIOR",
     "Dosagem de Produto - Cobrição": "1,04",
-    "Fazenda": NaN
+    "Fazenda": null,
+    "Unnamed: 16": null
   },
   {
     "ID": "3577384",
@@ -5506,7 +5815,8 @@ const DOSAGEM_COBRICAO_DATA = [
     "Frente": "135 - FRENTE PEDRINHO",
     "Responsável": "MARCELO DE OLIVEIRA JUNIOR",
     "Dosagem de Produto - Cobrição": "1,08",
-    "Fazenda": NaN
+    "Fazenda": null,
+    "Unnamed: 16": null
   },
   {
     "ID": "3577383",
@@ -5524,7 +5834,8 @@ const DOSAGEM_COBRICAO_DATA = [
     "Frente": "135 - FRENTE PEDRINHO",
     "Responsável": "MARCELO DE OLIVEIRA JUNIOR",
     "Dosagem de Produto - Cobrição": "1,06",
-    "Fazenda": NaN
+    "Fazenda": null,
+    "Unnamed: 16": null
   },
   {
     "ID": "3577382",
@@ -5542,7 +5853,8 @@ const DOSAGEM_COBRICAO_DATA = [
     "Frente": "135 - FRENTE PEDRINHO",
     "Responsável": "MARCELO DE OLIVEIRA JUNIOR",
     "Dosagem de Produto - Cobrição": "1,1",
-    "Fazenda": NaN
+    "Fazenda": null,
+    "Unnamed: 16": null
   },
   {
     "ID": "3576932",
@@ -5560,7 +5872,8 @@ const DOSAGEM_COBRICAO_DATA = [
     "Frente": "142 - FRENTE BIDU",
     "Responsável": "Leonardo Ribeiro Teixeira da Silva",
     "Dosagem de Produto - Cobrição": "1,1",
-    "Fazenda": NaN
+    "Fazenda": null,
+    "Unnamed: 16": null
   },
   {
     "ID": "3576931",
@@ -5578,7 +5891,8 @@ const DOSAGEM_COBRICAO_DATA = [
     "Frente": "142 - FRENTE BIDU",
     "Responsável": "Leonardo Ribeiro Teixeira da Silva",
     "Dosagem de Produto - Cobrição": "1,1",
-    "Fazenda": NaN
+    "Fazenda": null,
+    "Unnamed: 16": null
   },
   {
     "ID": "3574689",
@@ -5596,7 +5910,8 @@ const DOSAGEM_COBRICAO_DATA = [
     "Frente": "142 - FRENTE BIDU",
     "Responsável": "Leonardo Ribeiro Teixeira da Silva",
     "Dosagem de Produto - Cobrição": "1,1",
-    "Fazenda": NaN
+    "Fazenda": null,
+    "Unnamed: 16": null
   },
   {
     "ID": "3574688",
@@ -5614,7 +5929,8 @@ const DOSAGEM_COBRICAO_DATA = [
     "Frente": "142 - FRENTE BIDU",
     "Responsável": "Leonardo Ribeiro Teixeira da Silva",
     "Dosagem de Produto - Cobrição": "1,1",
-    "Fazenda": NaN
+    "Fazenda": null,
+    "Unnamed: 16": null
   },
   {
     "ID": "3574565",
@@ -5632,7 +5948,8 @@ const DOSAGEM_COBRICAO_DATA = [
     "Frente": "143 - FRENTE CASSIO",
     "Responsável": "GABRIEL HENRIQUE MARTINS PEREIRA",
     "Dosagem de Produto - Cobrição": "1,12",
-    "Fazenda": NaN
+    "Fazenda": null,
+    "Unnamed: 16": null
   },
   {
     "ID": "3574776",
@@ -5650,7 +5967,8 @@ const DOSAGEM_COBRICAO_DATA = [
     "Frente": "143 - FRENTE CASSIO",
     "Responsável": "GABRIEL HENRIQUE MARTINS PEREIRA",
     "Dosagem de Produto - Cobrição": "1,1",
-    "Fazenda": NaN
+    "Fazenda": null,
+    "Unnamed: 16": null
   },
   {
     "ID": "3574445",
@@ -5668,7 +5986,8 @@ const DOSAGEM_COBRICAO_DATA = [
     "Frente": "261 - FRENTE PRÓPRIA  (EDMILSON)",
     "Responsável": "VITOR AMORIM RAMOS ",
     "Dosagem de Produto - Cobrição": "1,06",
-    "Fazenda": NaN
+    "Fazenda": null,
+    "Unnamed: 16": null
   },
   {
     "ID": "3574444",
@@ -5686,7 +6005,8 @@ const DOSAGEM_COBRICAO_DATA = [
     "Frente": "261 - FRENTE PRÓPRIA  (EDMILSON)",
     "Responsável": "VITOR AMORIM RAMOS ",
     "Dosagem de Produto - Cobrição": "1,12",
-    "Fazenda": NaN
+    "Fazenda": null,
+    "Unnamed: 16": null
   },
   {
     "ID": "3574486",
@@ -5704,7 +6024,8 @@ const DOSAGEM_COBRICAO_DATA = [
     "Frente": "105 - FRENTE CASSIO",
     "Responsável": "NILDA CLAUDINO [2510716]",
     "Dosagem de Produto - Cobrição": "1,12",
-    "Fazenda": NaN
+    "Fazenda": null,
+    "Unnamed: 16": null
   },
   {
     "ID": "3574485",
@@ -5722,7 +6043,8 @@ const DOSAGEM_COBRICAO_DATA = [
     "Frente": "105 - FRENTE CASSIO",
     "Responsável": "NILDA CLAUDINO [2510716]",
     "Dosagem de Produto - Cobrição": "1,12",
-    "Fazenda": NaN
+    "Fazenda": null,
+    "Unnamed: 16": null
   },
   {
     "ID": "3572479",
@@ -5740,7 +6062,8 @@ const DOSAGEM_COBRICAO_DATA = [
     "Frente": "139 - FRENTE MANEZÃO",
     "Responsável": "MICHELI DE SOUZA SANTOS  ",
     "Dosagem de Produto - Cobrição": "1,08",
-    "Fazenda": NaN
+    "Fazenda": null,
+    "Unnamed: 16": null
   },
   {
     "ID": "3572478",
@@ -5758,7 +6081,8 @@ const DOSAGEM_COBRICAO_DATA = [
     "Frente": "139 - FRENTE MANEZÃO",
     "Responsável": "MICHELI DE SOUZA SANTOS  ",
     "Dosagem de Produto - Cobrição": "1,125",
-    "Fazenda": NaN
+    "Fazenda": null,
+    "Unnamed: 16": null
   },
   {
     "ID": "3572211",
@@ -5776,7 +6100,8 @@ const DOSAGEM_COBRICAO_DATA = [
     "Frente": "261 - FRENTE PRÓPRIA  (EDMILSON)",
     "Responsável": "VITOR AMORIM RAMOS ",
     "Dosagem de Produto - Cobrição": "1,1",
-    "Fazenda": NaN
+    "Fazenda": null,
+    "Unnamed: 16": null
   },
   {
     "ID": "3572210",
@@ -5794,7 +6119,8 @@ const DOSAGEM_COBRICAO_DATA = [
     "Frente": "261 - FRENTE PRÓPRIA  (EDMILSON)",
     "Responsável": "VITOR AMORIM RAMOS ",
     "Dosagem de Produto - Cobrição": "1,12",
-    "Fazenda": NaN
+    "Fazenda": null,
+    "Unnamed: 16": null
   },
   {
     "ID": "3572583",
@@ -5812,7 +6138,8 @@ const DOSAGEM_COBRICAO_DATA = [
     "Frente": "135 - PEDRINHO ",
     "Responsável": "MARCELO DE OLIVEIRA JUNIOR",
     "Dosagem de Produto - Cobrição": "1,1",
-    "Fazenda": NaN
+    "Fazenda": null,
+    "Unnamed: 16": null
   },
   {
     "ID": "3572582",
@@ -5830,7 +6157,8 @@ const DOSAGEM_COBRICAO_DATA = [
     "Frente": "135 - PEDRINHO ",
     "Responsável": "MARCELO DE OLIVEIRA JUNIOR",
     "Dosagem de Produto - Cobrição": "1,04",
-    "Fazenda": NaN
+    "Fazenda": null,
+    "Unnamed: 16": null
   },
   {
     "ID": "3572581",
@@ -5848,7 +6176,8 @@ const DOSAGEM_COBRICAO_DATA = [
     "Frente": "135 - PEDRINHO ",
     "Responsável": "MARCELO DE OLIVEIRA JUNIOR",
     "Dosagem de Produto - Cobrição": "1,1",
-    "Fazenda": NaN
+    "Fazenda": null,
+    "Unnamed: 16": null
   },
   {
     "ID": "3572580",
@@ -5866,7 +6195,8 @@ const DOSAGEM_COBRICAO_DATA = [
     "Frente": "135 - PEDRINHO ",
     "Responsável": "MARCELO DE OLIVEIRA JUNIOR",
     "Dosagem de Produto - Cobrição": "1",
-    "Fazenda": NaN
+    "Fazenda": null,
+    "Unnamed: 16": null
   },
   {
     "ID": "3569971",
@@ -5884,7 +6214,8 @@ const DOSAGEM_COBRICAO_DATA = [
     "Frente": "142 - FRENTE BIDU",
     "Responsável": "Leonardo Ribeiro Teixeira da Silva",
     "Dosagem de Produto - Cobrição": "1,1",
-    "Fazenda": NaN
+    "Fazenda": null,
+    "Unnamed: 16": null
   },
   {
     "ID": "3569970",
@@ -5902,7 +6233,8 @@ const DOSAGEM_COBRICAO_DATA = [
     "Frente": "142 - FRENTE BIDU",
     "Responsável": "Leonardo Ribeiro Teixeira da Silva",
     "Dosagem de Produto - Cobrição": "1,1",
-    "Fazenda": NaN
+    "Fazenda": null,
+    "Unnamed: 16": null
   },
   {
     "ID": "3569875",
@@ -5920,7 +6252,8 @@ const DOSAGEM_COBRICAO_DATA = [
     "Frente": "291 - FRENTE PRÓPRIA ",
     "Responsável": "VITOR AMORIM RAMOS ",
     "Dosagem de Produto - Cobrição": "1,1",
-    "Fazenda": NaN
+    "Fazenda": null,
+    "Unnamed: 16": null
   },
   {
     "ID": "3569874",
@@ -5938,7 +6271,8 @@ const DOSAGEM_COBRICAO_DATA = [
     "Frente": "291 - FRENTE PRÓPRIA ",
     "Responsável": "VITOR AMORIM RAMOS ",
     "Dosagem de Produto - Cobrição": "1,12",
-    "Fazenda": NaN
+    "Fazenda": null,
+    "Unnamed: 16": null
   },
   {
     "ID": "3569873",
@@ -5956,7 +6290,8 @@ const DOSAGEM_COBRICAO_DATA = [
     "Frente": "261 - FRENTE PRÓPRIA  (EDMILSON)",
     "Responsável": "VITOR AMORIM RAMOS ",
     "Dosagem de Produto - Cobrição": "1,12",
-    "Fazenda": NaN
+    "Fazenda": null,
+    "Unnamed: 16": null
   },
   {
     "ID": "3569872",
@@ -5974,7 +6309,8 @@ const DOSAGEM_COBRICAO_DATA = [
     "Frente": "261 - FRENTE PRÓPRIA  (EDMILSON)",
     "Responsável": "VITOR AMORIM RAMOS ",
     "Dosagem de Produto - Cobrição": "1,1",
-    "Fazenda": NaN
+    "Fazenda": null,
+    "Unnamed: 16": null
   },
   {
     "ID": "3570067",
@@ -5992,7 +6328,8 @@ const DOSAGEM_COBRICAO_DATA = [
     "Frente": "105 - FRENTE CASSIO",
     "Responsável": "NILDA CLAUDINO [2510716]",
     "Dosagem de Produto - Cobrição": "1,1",
-    "Fazenda": NaN
+    "Fazenda": null,
+    "Unnamed: 16": null
   },
   {
     "ID": "3570065",
@@ -6010,7 +6347,8 @@ const DOSAGEM_COBRICAO_DATA = [
     "Frente": "105 - FRENTE CASSIO",
     "Responsável": "NILDA CLAUDINO [2510716]",
     "Dosagem de Produto - Cobrição": "1,1",
-    "Fazenda": NaN
+    "Fazenda": null,
+    "Unnamed: 16": null
   },
   {
     "ID": "3570135",
@@ -6028,7 +6366,8 @@ const DOSAGEM_COBRICAO_DATA = [
     "Frente": "135 - PEDRINHO ",
     "Responsável": "MARCELO DE OLIVEIRA JUNIOR",
     "Dosagem de Produto - Cobrição": "1,06",
-    "Fazenda": NaN
+    "Fazenda": null,
+    "Unnamed: 16": null
   },
   {
     "ID": "3570134",
@@ -6046,7 +6385,8 @@ const DOSAGEM_COBRICAO_DATA = [
     "Frente": "135 - PEDRINHO ",
     "Responsável": "MARCELO DE OLIVEIRA JUNIOR",
     "Dosagem de Produto - Cobrição": "1,1",
-    "Fazenda": NaN
+    "Fazenda": null,
+    "Unnamed: 16": null
   },
   {
     "ID": "3569908",
@@ -6064,7 +6404,8 @@ const DOSAGEM_COBRICAO_DATA = [
     "Frente": "143 - FRENTE CASSIO",
     "Responsável": " Antonio ",
     "Dosagem de Produto - Cobrição": "1,1",
-    "Fazenda": NaN
+    "Fazenda": null,
+    "Unnamed: 16": null
   },
   {
     "ID": "3569907",
@@ -6082,7 +6423,8 @@ const DOSAGEM_COBRICAO_DATA = [
     "Frente": "143 - FRENTE CASSIO",
     "Responsável": " Antonio ",
     "Dosagem de Produto - Cobrição": "1,15",
-    "Fazenda": NaN
+    "Fazenda": null,
+    "Unnamed: 16": null
   },
   {
     "ID": "3569906",
@@ -6100,7 +6442,8 @@ const DOSAGEM_COBRICAO_DATA = [
     "Frente": "143 - FRENTE CASSIO",
     "Responsável": " Antonio ",
     "Dosagem de Produto - Cobrição": "1,1",
-    "Fazenda": NaN
+    "Fazenda": null,
+    "Unnamed: 16": null
   },
   {
     "ID": "3569905",
@@ -6118,7 +6461,8 @@ const DOSAGEM_COBRICAO_DATA = [
     "Frente": "143 - FRENTE CASSIO",
     "Responsável": " Antonio ",
     "Dosagem de Produto - Cobrição": "1,1",
-    "Fazenda": NaN
+    "Fazenda": null,
+    "Unnamed: 16": null
   },
   {
     "ID": "3567763",
@@ -6136,7 +6480,8 @@ const DOSAGEM_COBRICAO_DATA = [
     "Frente": "142 - FRENTE BIDU",
     "Responsável": "Leonardo Ribeiro Teixeira da Silva",
     "Dosagem de Produto - Cobrição": "1,1",
-    "Fazenda": NaN
+    "Fazenda": null,
+    "Unnamed: 16": null
   },
   {
     "ID": "3567762",
@@ -6154,7 +6499,8 @@ const DOSAGEM_COBRICAO_DATA = [
     "Frente": "142 - FRENTE BIDU",
     "Responsável": "Leonardo Ribeiro Teixeira da Silva",
     "Dosagem de Produto - Cobrição": "1,1",
-    "Fazenda": NaN
+    "Fazenda": null,
+    "Unnamed: 16": null
   },
   {
     "ID": "3567716",
@@ -6172,7 +6518,8 @@ const DOSAGEM_COBRICAO_DATA = [
     "Frente": "135 - PEDRINHO ",
     "Responsável": "MARCELO DE OLIVEIRA JUNIOR",
     "Dosagem de Produto - Cobrição": "1,08",
-    "Fazenda": NaN
+    "Fazenda": null,
+    "Unnamed: 16": null
   },
   {
     "ID": "3567715",
@@ -6190,7 +6537,8 @@ const DOSAGEM_COBRICAO_DATA = [
     "Frente": "135 - PEDRINHO ",
     "Responsável": "MARCELO DE OLIVEIRA JUNIOR",
     "Dosagem de Produto - Cobrição": "1",
-    "Fazenda": NaN
+    "Fazenda": null,
+    "Unnamed: 16": null
   },
   {
     "ID": "3567734",
@@ -6208,7 +6556,8 @@ const DOSAGEM_COBRICAO_DATA = [
     "Frente": "143 - FRENTE CASSIO",
     "Responsável": "MABILA HELEN D FIGUEIREDO",
     "Dosagem de Produto - Cobrição": "1,1",
-    "Fazenda": NaN
+    "Fazenda": null,
+    "Unnamed: 16": null
   },
   {
     "ID": "3567733",
@@ -6226,7 +6575,8 @@ const DOSAGEM_COBRICAO_DATA = [
     "Frente": "143 - FRENTE CASSIO",
     "Responsável": "MABILA HELEN D FIGUEIREDO",
     "Dosagem de Produto - Cobrição": "1,125",
-    "Fazenda": NaN
+    "Fazenda": null,
+    "Unnamed: 16": null
   },
   {
     "ID": "3567732",
@@ -6244,7 +6594,8 @@ const DOSAGEM_COBRICAO_DATA = [
     "Frente": "143 - FRENTE CASSIO",
     "Responsável": "MABILA HELEN D FIGUEIREDO",
     "Dosagem de Produto - Cobrição": "1,1",
-    "Fazenda": NaN
+    "Fazenda": null,
+    "Unnamed: 16": null
   },
   {
     "ID": "3567731",
@@ -6262,7 +6613,8 @@ const DOSAGEM_COBRICAO_DATA = [
     "Frente": "143 - FRENTE CASSIO",
     "Responsável": "MABILA HELEN D FIGUEIREDO",
     "Dosagem de Produto - Cobrição": "1,1",
-    "Fazenda": NaN
+    "Fazenda": null,
+    "Unnamed: 16": null
   },
   {
     "ID": "3567075",
@@ -6280,7 +6632,8 @@ const DOSAGEM_COBRICAO_DATA = [
     "Frente": "105 - FRENTE CASSIO",
     "Responsável": "NILDA CLAUDINO [2510716]",
     "Dosagem de Produto - Cobrição": "1,1",
-    "Fazenda": NaN
+    "Fazenda": null,
+    "Unnamed: 16": null
   },
   {
     "ID": "3567074",
@@ -6298,7 +6651,8 @@ const DOSAGEM_COBRICAO_DATA = [
     "Frente": "105 - FRENTE CASSIO",
     "Responsável": "NILDA CLAUDINO [2510716]",
     "Dosagem de Produto - Cobrição": "1,1",
-    "Fazenda": NaN
+    "Fazenda": null,
+    "Unnamed: 16": null
   },
   {
     "ID": "3567073",
@@ -6316,7 +6670,8 @@ const DOSAGEM_COBRICAO_DATA = [
     "Frente": "105 - FRENTE CASSIO",
     "Responsável": "NILDA CLAUDINO [2510716]",
     "Dosagem de Produto - Cobrição": "1,06",
-    "Fazenda": NaN
+    "Fazenda": null,
+    "Unnamed: 16": null
   },
   {
     "ID": "3567072",
@@ -6334,7 +6689,8 @@ const DOSAGEM_COBRICAO_DATA = [
     "Frente": "105 - FRENTE CASSIO",
     "Responsável": "NILDA CLAUDINO [2510716]",
     "Dosagem de Produto - Cobrição": "1,04",
-    "Fazenda": NaN
+    "Fazenda": null,
+    "Unnamed: 16": null
   },
   {
     "ID": "3567693",
@@ -6352,7 +6708,8 @@ const DOSAGEM_COBRICAO_DATA = [
     "Frente": "135 - PEDRINHO ",
     "Responsável": "REGINALDO DA SILVA GOMES ",
     "Dosagem de Produto - Cobrição": "1,08",
-    "Fazenda": NaN
+    "Fazenda": null,
+    "Unnamed: 16": null
   },
   {
     "ID": "3567692",
@@ -6370,7 +6727,8 @@ const DOSAGEM_COBRICAO_DATA = [
     "Frente": "135 - PEDRINHO ",
     "Responsável": "REGINALDO DA SILVA GOMES ",
     "Dosagem de Produto - Cobrição": "1",
-    "Fazenda": NaN
+    "Fazenda": null,
+    "Unnamed: 16": null
   },
   {
     "ID": "3565618",
@@ -6388,7 +6746,8 @@ const DOSAGEM_COBRICAO_DATA = [
     "Frente": "105 - FRENTE CASSIO",
     "Responsável": "NILDA CLAUDINO [2510716]",
     "Dosagem de Produto - Cobrição": "1,09",
-    "Fazenda": NaN
+    "Fazenda": null,
+    "Unnamed: 16": null
   },
   {
     "ID": "3565617",
@@ -6406,7 +6765,8 @@ const DOSAGEM_COBRICAO_DATA = [
     "Frente": "105 - FRENTE CASSIO",
     "Responsável": "NILDA CLAUDINO [2510716]",
     "Dosagem de Produto - Cobrição": "1,08",
-    "Fazenda": NaN
+    "Fazenda": null,
+    "Unnamed: 16": null
   },
   {
     "ID": "3565616",
@@ -6424,7 +6784,8 @@ const DOSAGEM_COBRICAO_DATA = [
     "Frente": "105 - FRENTE CASSIO",
     "Responsável": "NILDA CLAUDINO [2510716]",
     "Dosagem de Produto - Cobrição": "1,1",
-    "Fazenda": NaN
+    "Fazenda": null,
+    "Unnamed: 16": null
   },
   {
     "ID": "3565615",
@@ -6442,7 +6803,8 @@ const DOSAGEM_COBRICAO_DATA = [
     "Frente": "105 - FRENTE CASSIO",
     "Responsável": "NILDA CLAUDINO [2510716]",
     "Dosagem de Produto - Cobrição": "1,08",
-    "Fazenda": NaN
+    "Fazenda": null,
+    "Unnamed: 16": null
   },
   {
     "ID": "3565574",
@@ -6460,7 +6822,8 @@ const DOSAGEM_COBRICAO_DATA = [
     "Frente": "143 - FRENTE CASSIO",
     "Responsável": "GABRIEL HENRIQUE MARTINS PEREIRA",
     "Dosagem de Produto - Cobrição": "1,1",
-    "Fazenda": NaN
+    "Fazenda": null,
+    "Unnamed: 16": null
   },
   {
     "ID": "3565573",
@@ -6478,7 +6841,8 @@ const DOSAGEM_COBRICAO_DATA = [
     "Frente": "143 - FRENTE CASSIO",
     "Responsável": "GABRIEL HENRIQUE MARTINS PEREIRA",
     "Dosagem de Produto - Cobrição": "1,1",
-    "Fazenda": NaN
+    "Fazenda": null,
+    "Unnamed: 16": null
   },
   {
     "ID": "3560766",
@@ -6496,7 +6860,8 @@ const DOSAGEM_COBRICAO_DATA = [
     "Frente": "135 - PEDRINHO ",
     "Responsável": "MARCELO DE OLIVEIRA JUNIOR",
     "Dosagem de Produto - Cobrição": "1,04",
-    "Fazenda": NaN
+    "Fazenda": null,
+    "Unnamed: 16": null
   },
   {
     "ID": "3560765",
@@ -6514,7 +6879,8 @@ const DOSAGEM_COBRICAO_DATA = [
     "Frente": "135 - PEDRINHO ",
     "Responsável": "MARCELO DE OLIVEIRA JUNIOR",
     "Dosagem de Produto - Cobrição": "1,08",
-    "Fazenda": NaN
+    "Fazenda": null,
+    "Unnamed: 16": null
   },
   {
     "ID": "3560502",
@@ -6532,7 +6898,8 @@ const DOSAGEM_COBRICAO_DATA = [
     "Frente": "135 - PEDRINHO ",
     "Responsável": "REGINALDO DA SILVA GOMES ",
     "Dosagem de Produto - Cobrição": "1,04",
-    "Fazenda": NaN
+    "Fazenda": null,
+    "Unnamed: 16": null
   },
   {
     "ID": "3560501",
@@ -6550,7 +6917,8 @@ const DOSAGEM_COBRICAO_DATA = [
     "Frente": "135 - PEDRINHO ",
     "Responsável": "REGINALDO DA SILVA GOMES ",
     "Dosagem de Produto - Cobrição": "1,08",
-    "Fazenda": NaN
+    "Fazenda": null,
+    "Unnamed: 16": null
   },
   {
     "ID": "3558228",
@@ -6568,7 +6936,8 @@ const DOSAGEM_COBRICAO_DATA = [
     "Frente": "139 - FRENTE MANEZÃO",
     "Responsável": "MICHELI DE SOUZA SANTOS  ",
     "Dosagem de Produto - Cobrição": "1,1",
-    "Fazenda": NaN
+    "Fazenda": null,
+    "Unnamed: 16": null
   },
   {
     "ID": "3558227",
@@ -6586,7 +6955,8 @@ const DOSAGEM_COBRICAO_DATA = [
     "Frente": "139 - FRENTE MANEZÃO",
     "Responsável": "MICHELI DE SOUZA SANTOS  ",
     "Dosagem de Produto - Cobrição": "1,1",
-    "Fazenda": NaN
+    "Fazenda": null,
+    "Unnamed: 16": null
   },
   {
     "ID": "3558268",
@@ -6604,7 +6974,8 @@ const DOSAGEM_COBRICAO_DATA = [
     "Frente": "143 - FRENTE CASSIO",
     "Responsável": "GABRIEL HENRIQUE MARTINS PEREIRA",
     "Dosagem de Produto - Cobrição": "1,1",
-    "Fazenda": NaN
+    "Fazenda": null,
+    "Unnamed: 16": null
   },
   {
     "ID": "3558267",
@@ -6622,7 +6993,8 @@ const DOSAGEM_COBRICAO_DATA = [
     "Frente": "143 - FRENTE CASSIO",
     "Responsável": "GABRIEL HENRIQUE MARTINS PEREIRA",
     "Dosagem de Produto - Cobrição": "1,1",
-    "Fazenda": NaN
+    "Fazenda": null,
+    "Unnamed: 16": null
   },
   {
     "ID": "3558179",
@@ -6640,7 +7012,8 @@ const DOSAGEM_COBRICAO_DATA = [
     "Frente": "142 - FRENTE BIDU",
     "Responsável": "Leonardo Ribeiro Teixeira da Silva",
     "Dosagem de Produto - Cobrição": "1,1",
-    "Fazenda": NaN
+    "Fazenda": null,
+    "Unnamed: 16": null
   },
   {
     "ID": "3557983",
@@ -6658,7 +7031,8 @@ const DOSAGEM_COBRICAO_DATA = [
     "Frente": "261 - FRENTE PRÓPRIA  (EDMILSON)",
     "Responsável": "VITOR AMORIM RAMOS ",
     "Dosagem de Produto - Cobrição": "1,14",
-    "Fazenda": NaN
+    "Fazenda": null,
+    "Unnamed: 16": null
   },
   {
     "ID": "3557982",
@@ -6676,7 +7050,8 @@ const DOSAGEM_COBRICAO_DATA = [
     "Frente": "261 - FRENTE PRÓPRIA  (EDMILSON)",
     "Responsável": "VITOR AMORIM RAMOS ",
     "Dosagem de Produto - Cobrição": "1,16",
-    "Fazenda": NaN
+    "Fazenda": null,
+    "Unnamed: 16": null
   },
   {
     "ID": "3558543",
@@ -6694,7 +7069,8 @@ const DOSAGEM_COBRICAO_DATA = [
     "Frente": "135 - PEDRINHO ",
     "Responsável": "MARCELO DE OLIVEIRA JUNIOR",
     "Dosagem de Produto - Cobrição": "1,1",
-    "Fazenda": NaN
+    "Fazenda": null,
+    "Unnamed: 16": null
   },
   {
     "ID": "3558542",
@@ -6712,7 +7088,8 @@ const DOSAGEM_COBRICAO_DATA = [
     "Frente": "135 - PEDRINHO ",
     "Responsável": "MARCELO DE OLIVEIRA JUNIOR",
     "Dosagem de Produto - Cobrição": "1,06",
-    "Fazenda": NaN
+    "Fazenda": null,
+    "Unnamed: 16": null
   },
   {
     "ID": "3556299",
@@ -6730,7 +7107,8 @@ const DOSAGEM_COBRICAO_DATA = [
     "Frente": "105 - FRENTE CASSIO",
     "Responsável": "NILDA CLAUDINO [2510716]",
     "Dosagem de Produto - Cobrição": "1,1",
-    "Fazenda": NaN
+    "Fazenda": null,
+    "Unnamed: 16": null
   },
   {
     "ID": "3556293",
@@ -6748,7 +7126,8 @@ const DOSAGEM_COBRICAO_DATA = [
     "Frente": "105 - FRENTE CASSIO",
     "Responsável": "NILDA CLAUDINO [2510716]",
     "Dosagem de Produto - Cobrição": "1,1",
-    "Fazenda": NaN
+    "Fazenda": null,
+    "Unnamed: 16": null
   },
   {
     "ID": "3556289",
@@ -6766,7 +7145,8 @@ const DOSAGEM_COBRICAO_DATA = [
     "Frente": "105 - FRENTE CASSIO",
     "Responsável": "NILDA CLAUDINO [2510716]",
     "Dosagem de Produto - Cobrição": "1,12",
-    "Fazenda": NaN
+    "Fazenda": null,
+    "Unnamed: 16": null
   },
   {
     "ID": "3556285",
@@ -6784,7 +7164,8 @@ const DOSAGEM_COBRICAO_DATA = [
     "Frente": "105 - FRENTE CASSIO",
     "Responsável": "NILDA CLAUDINO [2510716]",
     "Dosagem de Produto - Cobrição": "1,12",
-    "Fazenda": NaN
+    "Fazenda": null,
+    "Unnamed: 16": null
   },
   {
     "ID": "3556300",
@@ -6802,7 +7183,8 @@ const DOSAGEM_COBRICAO_DATA = [
     "Frente": "135 - PEDRINHO ",
     "Responsável": "MARCELO DE OLIVEIRA JUNIOR",
     "Dosagem de Produto - Cobrição": "1,05",
-    "Fazenda": NaN
+    "Fazenda": null,
+    "Unnamed: 16": null
   },
   {
     "ID": "3556298",
@@ -6820,7 +7202,8 @@ const DOSAGEM_COBRICAO_DATA = [
     "Frente": "135 - PEDRINHO ",
     "Responsável": "MARCELO DE OLIVEIRA JUNIOR",
     "Dosagem de Produto - Cobrição": "1,08",
-    "Fazenda": NaN
+    "Fazenda": null,
+    "Unnamed: 16": null
   },
   {
     "ID": "3556297",
@@ -6838,7 +7221,8 @@ const DOSAGEM_COBRICAO_DATA = [
     "Frente": "135 - PEDRINHO ",
     "Responsável": "MARCELO DE OLIVEIRA JUNIOR",
     "Dosagem de Produto - Cobrição": "1,05",
-    "Fazenda": NaN
+    "Fazenda": null,
+    "Unnamed: 16": null
   },
   {
     "ID": "3556296",
@@ -6856,7 +7240,8 @@ const DOSAGEM_COBRICAO_DATA = [
     "Frente": "135 - PEDRINHO ",
     "Responsável": "MARCELO DE OLIVEIRA JUNIOR",
     "Dosagem de Produto - Cobrição": "1,08",
-    "Fazenda": NaN
+    "Fazenda": null,
+    "Unnamed: 16": null
   },
   {
     "ID": "3556086",
@@ -6874,7 +7259,8 @@ const DOSAGEM_COBRICAO_DATA = [
     "Frente": "139 - FRENTE MANEZÃO",
     "Responsável": "MICHELI DE SOUZA SANTOS  ",
     "Dosagem de Produto - Cobrição": "1,1",
-    "Fazenda": NaN
+    "Fazenda": null,
+    "Unnamed: 16": null
   },
   {
     "ID": "3556085",
@@ -6892,7 +7278,8 @@ const DOSAGEM_COBRICAO_DATA = [
     "Frente": "139 - FRENTE MANEZÃO",
     "Responsável": "MICHELI DE SOUZA SANTOS  ",
     "Dosagem de Produto - Cobrição": "1,1",
-    "Fazenda": NaN
+    "Fazenda": null,
+    "Unnamed: 16": null
   },
   {
     "ID": "3555955",
@@ -6910,7 +7297,8 @@ const DOSAGEM_COBRICAO_DATA = [
     "Frente": "143 - FRENTE CASSIO",
     "Responsável": "GABRIEL HENRIQUE MARTINS PEREIRA",
     "Dosagem de Produto - Cobrição": "1,1",
-    "Fazenda": NaN
+    "Fazenda": null,
+    "Unnamed: 16": null
   },
   {
     "ID": "3555954",
@@ -6928,7 +7316,8 @@ const DOSAGEM_COBRICAO_DATA = [
     "Frente": "143 - FRENTE CASSIO",
     "Responsável": "GABRIEL HENRIQUE MARTINS PEREIRA",
     "Dosagem de Produto - Cobrição": "1,1",
-    "Fazenda": NaN
+    "Fazenda": null,
+    "Unnamed: 16": null
   },
   {
     "ID": "3555949",
@@ -6946,7 +7335,8 @@ const DOSAGEM_COBRICAO_DATA = [
     "Frente": "143 - FRENTE CASSIO",
     "Responsável": "GABRIEL HENRIQUE MARTINS PEREIRA",
     "Dosagem de Produto - Cobrição": "1,1",
-    "Fazenda": NaN
+    "Fazenda": null,
+    "Unnamed: 16": null
   },
   {
     "ID": "3555948",
@@ -6964,7 +7354,8 @@ const DOSAGEM_COBRICAO_DATA = [
     "Frente": "143 - FRENTE CASSIO",
     "Responsável": "GABRIEL HENRIQUE MARTINS PEREIRA",
     "Dosagem de Produto - Cobrição": "1,1",
-    "Fazenda": NaN
+    "Fazenda": null,
+    "Unnamed: 16": null
   },
   {
     "ID": "3555651",
@@ -6982,7 +7373,8 @@ const DOSAGEM_COBRICAO_DATA = [
     "Frente": "261 - FRENTE PRÓPRIA  (EDMILSON)",
     "Responsável": "VITOR AMORIM RAMOS ",
     "Dosagem de Produto - Cobrição": "1,1",
-    "Fazenda": NaN
+    "Fazenda": null,
+    "Unnamed: 16": null
   },
   {
     "ID": "3555650",
@@ -7000,7 +7392,8 @@ const DOSAGEM_COBRICAO_DATA = [
     "Frente": "261 - FRENTE PRÓPRIA  (EDMILSON)",
     "Responsável": "VITOR AMORIM RAMOS ",
     "Dosagem de Produto - Cobrição": "1,12",
-    "Fazenda": NaN
+    "Fazenda": null,
+    "Unnamed: 16": null
   },
   {
     "ID": "3553811",
@@ -7018,7 +7411,8 @@ const DOSAGEM_COBRICAO_DATA = [
     "Frente": "135 - PEDRINHO ",
     "Responsável": "MARCELO DE OLIVEIRA JUNIOR",
     "Dosagem de Produto - Cobrição": "1,1",
-    "Fazenda": NaN
+    "Fazenda": null,
+    "Unnamed: 16": null
   },
   {
     "ID": "3553810",
@@ -7036,7 +7430,8 @@ const DOSAGEM_COBRICAO_DATA = [
     "Frente": "135 - PEDRINHO ",
     "Responsável": "MARCELO DE OLIVEIRA JUNIOR",
     "Dosagem de Produto - Cobrição": "1,04",
-    "Fazenda": NaN
+    "Fazenda": null,
+    "Unnamed: 16": null
   },
   {
     "ID": "3553588",
@@ -7054,7 +7449,8 @@ const DOSAGEM_COBRICAO_DATA = [
     "Frente": "139 - FRENTE MANEZÃO",
     "Responsável": "MICHELI DE SOUZA SANTOS  ",
     "Dosagem de Produto - Cobrição": "1,125",
-    "Fazenda": NaN
+    "Fazenda": null,
+    "Unnamed: 16": null
   },
   {
     "ID": "3553587",
@@ -7072,7 +7468,8 @@ const DOSAGEM_COBRICAO_DATA = [
     "Frente": "139 - FRENTE MANEZÃO",
     "Responsável": "MICHELI DE SOUZA SANTOS  ",
     "Dosagem de Produto - Cobrição": "1,1",
-    "Fazenda": NaN
+    "Fazenda": null,
+    "Unnamed: 16": null
   },
   {
     "ID": "3553657",
@@ -7090,7 +7487,8 @@ const DOSAGEM_COBRICAO_DATA = [
     "Frente": "142 - FRENTE BIDU",
     "Responsável": "Leonardo Ribeiro Teixeira da Silva",
     "Dosagem de Produto - Cobrição": "1,1",
-    "Fazenda": NaN
+    "Fazenda": null,
+    "Unnamed: 16": null
   },
   {
     "ID": "3553311",
@@ -7108,7 +7506,8 @@ const DOSAGEM_COBRICAO_DATA = [
     "Frente": "261 - FRENTE PRÓPRIA  (EDMILSON)",
     "Responsável": "VITOR AMORIM RAMOS ",
     "Dosagem de Produto - Cobrição": "1,12",
-    "Fazenda": NaN
+    "Fazenda": null,
+    "Unnamed: 16": null
   },
   {
     "ID": "3553274",
@@ -7126,7 +7525,8 @@ const DOSAGEM_COBRICAO_DATA = [
     "Frente": "261 - FRENTE PRÓPRIA  (EDMILSON)",
     "Responsável": "VITOR AMORIM RAMOS ",
     "Dosagem de Produto - Cobrição": "1,1",
-    "Fazenda": NaN
+    "Fazenda": null,
+    "Unnamed: 16": null
   },
   {
     "ID": "3553121",
@@ -7144,7 +7544,8 @@ const DOSAGEM_COBRICAO_DATA = [
     "Frente": "143 - FRENTE CASSIO",
     "Responsável": "GABRIEL HENRIQUE MARTINS PEREIRA",
     "Dosagem de Produto - Cobrição": "1,1",
-    "Fazenda": NaN
+    "Fazenda": null,
+    "Unnamed: 16": null
   },
   {
     "ID": "3553120",
@@ -7162,7 +7563,8 @@ const DOSAGEM_COBRICAO_DATA = [
     "Frente": "143 - FRENTE CASSIO",
     "Responsável": "GABRIEL HENRIQUE MARTINS PEREIRA",
     "Dosagem de Produto - Cobrição": "1,1",
-    "Fazenda": NaN
+    "Fazenda": null,
+    "Unnamed: 16": null
   },
   {
     "ID": "3553754",
@@ -7180,7 +7582,8 @@ const DOSAGEM_COBRICAO_DATA = [
     "Frente": "101 - FRENTE MECANIZADA",
     "Responsável": "FERNANDA DE SOUZA ",
     "Dosagem de Produto - Cobrição": "1,1",
-    "Fazenda": NaN
+    "Fazenda": null,
+    "Unnamed: 16": null
   },
   {
     "ID": "3553753",
@@ -7198,7 +7601,8 @@ const DOSAGEM_COBRICAO_DATA = [
     "Frente": "101 - FRENTE MECANIZADA",
     "Responsável": "FERNANDA DE SOUZA ",
     "Dosagem de Produto - Cobrição": "1,1",
-    "Fazenda": NaN
+    "Fazenda": null,
+    "Unnamed: 16": null
   },
   {
     "ID": "3553509",
@@ -7216,7 +7620,8 @@ const DOSAGEM_COBRICAO_DATA = [
     "Frente": "105 - FRENTE CASSIO",
     "Responsável": "NILDA CLAUDINO [2510716]",
     "Dosagem de Produto - Cobrição": "1,04",
-    "Fazenda": NaN
+    "Fazenda": null,
+    "Unnamed: 16": null
   },
   {
     "ID": "3553512",
@@ -7234,7 +7639,8 @@ const DOSAGEM_COBRICAO_DATA = [
     "Frente": "105 - FRENTE CASSIO",
     "Responsável": "NILDA CLAUDINO [2510716]",
     "Dosagem de Produto - Cobrição": "1,12",
-    "Fazenda": NaN
+    "Fazenda": null,
+    "Unnamed: 16": null
   },
   {
     "ID": "3553511",
@@ -7252,7 +7658,8 @@ const DOSAGEM_COBRICAO_DATA = [
     "Frente": "105 - FRENTE CASSIO",
     "Responsável": "NILDA CLAUDINO [2510716]",
     "Dosagem de Produto - Cobrição": "1,1",
-    "Fazenda": NaN
+    "Fazenda": null,
+    "Unnamed: 16": null
   },
   {
     "ID": "3553510",
@@ -7270,7 +7677,8 @@ const DOSAGEM_COBRICAO_DATA = [
     "Frente": "105 - FRENTE CASSIO",
     "Responsável": "NILDA CLAUDINO [2510716]",
     "Dosagem de Produto - Cobrição": "1,1",
-    "Fazenda": NaN
+    "Fazenda": null,
+    "Unnamed: 16": null
   },
   {
     "ID": "3551379",
@@ -7288,7 +7696,8 @@ const DOSAGEM_COBRICAO_DATA = [
     "Frente": "101 - FRENTE MECANIZADA",
     "Responsável": "FERNANDA DE SOUZA ",
     "Dosagem de Produto - Cobrição": "1,1",
-    "Fazenda": NaN
+    "Fazenda": null,
+    "Unnamed: 16": null
   },
   {
     "ID": "3551374",
@@ -7306,7 +7715,8 @@ const DOSAGEM_COBRICAO_DATA = [
     "Frente": "101 - FRENTE MECANIZADA",
     "Responsável": "FERNANDA DE SOUZA ",
     "Dosagem de Produto - Cobrição": "1,1",
-    "Fazenda": NaN
+    "Fazenda": null,
+    "Unnamed: 16": null
   },
   {
     "ID": "3551336",
@@ -7324,7 +7734,8 @@ const DOSAGEM_COBRICAO_DATA = [
     "Frente": "135 - PEDRINHO ",
     "Responsável": "MARCELO DE OLIVEIRA JUNIOR",
     "Dosagem de Produto - Cobrição": "1,1",
-    "Fazenda": NaN
+    "Fazenda": null,
+    "Unnamed: 16": null
   },
   {
     "ID": "3551333",
@@ -7342,7 +7753,8 @@ const DOSAGEM_COBRICAO_DATA = [
     "Frente": "135 - PEDRINHO ",
     "Responsável": "MARCELO DE OLIVEIRA JUNIOR",
     "Dosagem de Produto - Cobrição": "1,04",
-    "Fazenda": NaN
+    "Fazenda": null,
+    "Unnamed: 16": null
   },
   {
     "ID": "3551043",
@@ -7360,7 +7772,8 @@ const DOSAGEM_COBRICAO_DATA = [
     "Frente": "261 - FRENTE PRÓPRIA  (EDMILSON)",
     "Responsável": "VITOR AMORIM RAMOS ",
     "Dosagem de Produto - Cobrição": "1,1",
-    "Fazenda": NaN
+    "Fazenda": null,
+    "Unnamed: 16": null
   },
   {
     "ID": "3551042",
@@ -7378,7 +7791,8 @@ const DOSAGEM_COBRICAO_DATA = [
     "Frente": "261 - FRENTE PRÓPRIA  (EDMILSON)",
     "Responsável": "VITOR AMORIM RAMOS ",
     "Dosagem de Produto - Cobrição": "1,12",
-    "Fazenda": NaN
+    "Fazenda": null,
+    "Unnamed: 16": null
   },
   {
     "ID": "3551335",
@@ -7396,7 +7810,8 @@ const DOSAGEM_COBRICAO_DATA = [
     "Frente": "105 - FRENTE CASSIO",
     "Responsável": "NILDA CLAUDINO [2510716]",
     "Dosagem de Produto - Cobrição": "1,09",
-    "Fazenda": NaN
+    "Fazenda": null,
+    "Unnamed: 16": null
   },
   {
     "ID": "3551334",
@@ -7414,7 +7829,8 @@ const DOSAGEM_COBRICAO_DATA = [
     "Frente": "105 - FRENTE CASSIO",
     "Responsável": "NILDA CLAUDINO [2510716]",
     "Dosagem de Produto - Cobrição": "1,1",
-    "Fazenda": NaN
+    "Fazenda": null,
+    "Unnamed: 16": null
   },
   {
     "ID": "3551332",
@@ -7432,7 +7848,8 @@ const DOSAGEM_COBRICAO_DATA = [
     "Frente": "105 - FRENTE CASSIO",
     "Responsável": "NILDA CLAUDINO [2510716]",
     "Dosagem de Produto - Cobrição": "1,1",
-    "Fazenda": NaN
+    "Fazenda": null,
+    "Unnamed: 16": null
   },
   {
     "ID": "3551330",
@@ -7450,7 +7867,8 @@ const DOSAGEM_COBRICAO_DATA = [
     "Frente": "105 - FRENTE CASSIO",
     "Responsável": "NILDA CLAUDINO [2510716]",
     "Dosagem de Produto - Cobrição": "1,06",
-    "Fazenda": NaN
+    "Fazenda": null,
+    "Unnamed: 16": null
   },
   {
     "ID": "3549640",
@@ -7468,7 +7886,8 @@ const DOSAGEM_COBRICAO_DATA = [
     "Frente": "139 - FRENTE MANEZÃO",
     "Responsável": "MICHELI DE SOUZA SANTOS  ",
     "Dosagem de Produto - Cobrição": "1,1",
-    "Fazenda": NaN
+    "Fazenda": null,
+    "Unnamed: 16": null
   },
   {
     "ID": "3549639",
@@ -7486,7 +7905,8 @@ const DOSAGEM_COBRICAO_DATA = [
     "Frente": "139 - FRENTE MANEZÃO",
     "Responsável": "MICHELI DE SOUZA SANTOS  ",
     "Dosagem de Produto - Cobrição": "1,1",
-    "Fazenda": NaN
+    "Fazenda": null,
+    "Unnamed: 16": null
   },
   {
     "ID": "3549602",
@@ -7504,7 +7924,8 @@ const DOSAGEM_COBRICAO_DATA = [
     "Frente": "135 - PEDRINHO ",
     "Responsável": "MARCELO DE OLIVEIRA JUNIOR",
     "Dosagem de Produto - Cobrição": "1,1",
-    "Fazenda": NaN
+    "Fazenda": null,
+    "Unnamed: 16": null
   },
   {
     "ID": "3549714",
@@ -7522,7 +7943,8 @@ const DOSAGEM_COBRICAO_DATA = [
     "Frente": "135 - PEDRINHO ",
     "Responsável": "MARCELO DE OLIVEIRA JUNIOR",
     "Dosagem de Produto - Cobrição": "1,08",
-    "Fazenda": NaN
+    "Fazenda": null,
+    "Unnamed: 16": null
   },
   {
     "ID": "3549590",
@@ -7540,7 +7962,8 @@ const DOSAGEM_COBRICAO_DATA = [
     "Frente": "135 - PEDRINHO ",
     "Responsável": "MARCELO DE OLIVEIRA JUNIOR",
     "Dosagem de Produto - Cobrição": "1,05",
-    "Fazenda": NaN
+    "Fazenda": null,
+    "Unnamed: 16": null
   },
   {
     "ID": "3549579",
@@ -7558,7 +7981,8 @@ const DOSAGEM_COBRICAO_DATA = [
     "Frente": "135 - PEDRINHO ",
     "Responsável": "MARCELO DE OLIVEIRA JUNIOR",
     "Dosagem de Produto - Cobrição": "1,08",
-    "Fazenda": NaN
+    "Fazenda": null,
+    "Unnamed: 16": null
   },
   {
     "ID": "3549311",
@@ -7576,7 +8000,8 @@ const DOSAGEM_COBRICAO_DATA = [
     "Frente": "101 - FRENTE MECANIZADA",
     "Responsável": "FERNANDA DE SOUZA ",
     "Dosagem de Produto - Cobrição": "1,1",
-    "Fazenda": NaN
+    "Fazenda": null,
+    "Unnamed: 16": null
   },
   {
     "ID": "3549310",
@@ -7594,7 +8019,8 @@ const DOSAGEM_COBRICAO_DATA = [
     "Frente": "101 - FRENTE MECANIZADA",
     "Responsável": "FERNANDA DE SOUZA ",
     "Dosagem de Produto - Cobrição": "1,1",
-    "Fazenda": NaN
+    "Fazenda": null,
+    "Unnamed: 16": null
   },
   {
     "ID": "3549190",
@@ -7612,7 +8038,8 @@ const DOSAGEM_COBRICAO_DATA = [
     "Frente": "142 - FRENTE BIDU",
     "Responsável": "Leonardo Ribeiro Teixeira da Silva",
     "Dosagem de Produto - Cobrição": "1,1",
-    "Fazenda": NaN
+    "Fazenda": null,
+    "Unnamed: 16": null
   },
   {
     "ID": "3549189",
@@ -7630,7 +8057,8 @@ const DOSAGEM_COBRICAO_DATA = [
     "Frente": "142 - FRENTE BIDU",
     "Responsável": "Leonardo Ribeiro Teixeira da Silva",
     "Dosagem de Produto - Cobrição": "1,1",
-    "Fazenda": NaN
+    "Fazenda": null,
+    "Unnamed: 16": null
   },
   {
     "ID": "3549384",
@@ -7648,7 +8076,8 @@ const DOSAGEM_COBRICAO_DATA = [
     "Frente": "105 - FRENTE CASSIO",
     "Responsável": "NILDA CLAUDINO [2510716]",
     "Dosagem de Produto - Cobrição": "1,04",
-    "Fazenda": NaN
+    "Fazenda": null,
+    "Unnamed: 16": null
   },
   {
     "ID": "3549383",
@@ -7666,7 +8095,8 @@ const DOSAGEM_COBRICAO_DATA = [
     "Frente": "105 - FRENTE CASSIO",
     "Responsável": "NILDA CLAUDINO [2510716]",
     "Dosagem de Produto - Cobrição": "1,02",
-    "Fazenda": NaN
+    "Fazenda": null,
+    "Unnamed: 16": null
   },
   {
     "ID": "3549382",
@@ -7684,7 +8114,8 @@ const DOSAGEM_COBRICAO_DATA = [
     "Frente": "105 - FRENTE CASSIO",
     "Responsável": "NILDA CLAUDINO [2510716]",
     "Dosagem de Produto - Cobrição": "1,12",
-    "Fazenda": NaN
+    "Fazenda": null,
+    "Unnamed: 16": null
   },
   {
     "ID": "3549381",
@@ -7702,7 +8133,8 @@ const DOSAGEM_COBRICAO_DATA = [
     "Frente": "105 - FRENTE CASSIO",
     "Responsável": "NILDA CLAUDINO [2510716]",
     "Dosagem de Produto - Cobrição": "1,1",
-    "Fazenda": NaN
+    "Fazenda": null,
+    "Unnamed: 16": null
   },
   {
     "ID": "3547521",
@@ -7720,7 +8152,8 @@ const DOSAGEM_COBRICAO_DATA = [
     "Frente": "261 - FRENTE PRÓPRIA  (EDMILSON)",
     "Responsável": "VITOR AMORIM RAMOS ",
     "Dosagem de Produto - Cobrição": "1,12",
-    "Fazenda": NaN
+    "Fazenda": null,
+    "Unnamed: 16": null
   },
   {
     "ID": "3547527",
@@ -7738,7 +8171,8 @@ const DOSAGEM_COBRICAO_DATA = [
     "Frente": "261 - FRENTE PRÓPRIA  (EDMILSON)",
     "Responsável": "VITOR AMORIM RAMOS ",
     "Dosagem de Produto - Cobrição": "1,14",
-    "Fazenda": NaN
+    "Fazenda": null,
+    "Unnamed: 16": null
   },
   {
     "ID": "3547434",
@@ -7756,7 +8190,8 @@ const DOSAGEM_COBRICAO_DATA = [
     "Frente": "105 - FRENTE CASSIO",
     "Responsável": "NILDA CLAUDINO [2510716]",
     "Dosagem de Produto - Cobrição": "1,04",
-    "Fazenda": NaN
+    "Fazenda": null,
+    "Unnamed: 16": null
   },
   {
     "ID": "3547433",
@@ -7774,7 +8209,8 @@ const DOSAGEM_COBRICAO_DATA = [
     "Frente": "105 - FRENTE CASSIO",
     "Responsável": "NILDA CLAUDINO [2510716]",
     "Dosagem de Produto - Cobrição": "1,08",
-    "Fazenda": NaN
+    "Fazenda": null,
+    "Unnamed: 16": null
   },
   {
     "ID": "3547432",
@@ -7792,7 +8228,8 @@ const DOSAGEM_COBRICAO_DATA = [
     "Frente": "105 - FRENTE CASSIO",
     "Responsável": "NILDA CLAUDINO [2510716]",
     "Dosagem de Produto - Cobrição": "0,001",
-    "Fazenda": NaN
+    "Fazenda": null,
+    "Unnamed: 16": null
   },
   {
     "ID": "3547431",
@@ -7810,7 +8247,8 @@ const DOSAGEM_COBRICAO_DATA = [
     "Frente": "105 - FRENTE CASSIO",
     "Responsável": "NILDA CLAUDINO [2510716]",
     "Dosagem de Produto - Cobrição": "1,09",
-    "Fazenda": NaN
+    "Fazenda": null,
+    "Unnamed: 16": null
   },
   {
     "ID": "3547613",
@@ -7828,7 +8266,8 @@ const DOSAGEM_COBRICAO_DATA = [
     "Frente": "101 - FRENTE MECANIZADA",
     "Responsável": "REGINALDO DA SILVA GOMES ",
     "Dosagem de Produto - Cobrição": "1,1",
-    "Fazenda": NaN
+    "Fazenda": null,
+    "Unnamed: 16": null
   },
   {
     "ID": "3547612",
@@ -7846,7 +8285,8 @@ const DOSAGEM_COBRICAO_DATA = [
     "Frente": "101 - FRENTE MECANIZADA",
     "Responsável": "REGINALDO DA SILVA GOMES ",
     "Dosagem de Produto - Cobrição": "1,1",
-    "Fazenda": NaN
+    "Fazenda": null,
+    "Unnamed: 16": null
   },
   {
     "ID": "3546985",
@@ -7864,7 +8304,8 @@ const DOSAGEM_COBRICAO_DATA = [
     "Frente": "101 - FRENTE MECANIZADA",
     "Responsável": "FERNANDA DE SOUZA ",
     "Dosagem de Produto - Cobrição": "1,1",
-    "Fazenda": NaN
+    "Fazenda": null,
+    "Unnamed: 16": null
   },
   {
     "ID": "3546984",
@@ -7882,7 +8323,8 @@ const DOSAGEM_COBRICAO_DATA = [
     "Frente": "101 - FRENTE MECANIZADA",
     "Responsável": "FERNANDA DE SOUZA ",
     "Dosagem de Produto - Cobrição": "1,1",
-    "Fazenda": NaN
+    "Fazenda": null,
+    "Unnamed: 16": null
   },
   {
     "ID": "3546919",
@@ -7900,7 +8342,8 @@ const DOSAGEM_COBRICAO_DATA = [
     "Frente": "142 - FRENTE BIDU",
     "Responsável": "Leonardo Ribeiro Teixeira da Silva",
     "Dosagem de Produto - Cobrição": "1,1",
-    "Fazenda": NaN
+    "Fazenda": null,
+    "Unnamed: 16": null
   },
   {
     "ID": "3546918",
@@ -7918,7 +8361,8 @@ const DOSAGEM_COBRICAO_DATA = [
     "Frente": "142 - FRENTE BIDU",
     "Responsável": "Leonardo Ribeiro Teixeira da Silva",
     "Dosagem de Produto - Cobrição": "1,1",
-    "Fazenda": NaN
+    "Fazenda": null,
+    "Unnamed: 16": null
   },
   {
     "ID": "3547284",
@@ -7936,7 +8380,8 @@ const DOSAGEM_COBRICAO_DATA = [
     "Frente": "143 - FRENTE CASSIO",
     "Responsável": "GABRIEL HENRIQUE MARTINS PEREIRA",
     "Dosagem de Produto - Cobrição": "1,1",
-    "Fazenda": NaN
+    "Fazenda": null,
+    "Unnamed: 16": null
   },
   {
     "ID": "3547283",
@@ -7954,7 +8399,8 @@ const DOSAGEM_COBRICAO_DATA = [
     "Frente": "143 - FRENTE CASSIO",
     "Responsável": "GABRIEL HENRIQUE MARTINS PEREIRA",
     "Dosagem de Produto - Cobrição": "1,1",
-    "Fazenda": NaN
+    "Fazenda": null,
+    "Unnamed: 16": null
   },
   {
     "ID": "3545056",
@@ -7972,7 +8418,8 @@ const DOSAGEM_COBRICAO_DATA = [
     "Frente": "261 - FRENTE PRÓPRIA  (EDMILSON)",
     "Responsável": "VITOR AMORIM RAMOS ",
     "Dosagem de Produto - Cobrição": "1,1",
-    "Fazenda": NaN
+    "Fazenda": null,
+    "Unnamed: 16": null
   },
   {
     "ID": "3545055",
@@ -7990,7 +8437,8 @@ const DOSAGEM_COBRICAO_DATA = [
     "Frente": "261 - FRENTE PRÓPRIA  (EDMILSON)",
     "Responsável": "VITOR AMORIM RAMOS ",
     "Dosagem de Produto - Cobrição": "1,15",
-    "Fazenda": NaN
+    "Fazenda": null,
+    "Unnamed: 16": null
   },
   {
     "ID": "3544918",
@@ -8008,7 +8456,8 @@ const DOSAGEM_COBRICAO_DATA = [
     "Frente": "135 - PEDRINHO ",
     "Responsável": "MARCELO DE OLIVEIRA JUNIOR",
     "Dosagem de Produto - Cobrição": "3,47",
-    "Fazenda": NaN
+    "Fazenda": null,
+    "Unnamed: 16": null
   },
   {
     "ID": "3544917",
@@ -8026,7 +8475,8 @@ const DOSAGEM_COBRICAO_DATA = [
     "Frente": "135 - PEDRINHO ",
     "Responsável": "MARCELO DE OLIVEIRA JUNIOR",
     "Dosagem de Produto - Cobrição": "3,415",
-    "Fazenda": NaN
+    "Fazenda": null,
+    "Unnamed: 16": null
   },
   {
     "ID": "3544436",
@@ -8044,7 +8494,8 @@ const DOSAGEM_COBRICAO_DATA = [
     "Frente": "101 - FRENTE MECANIZADA",
     "Responsável": "FERNANDA DE SOUZA ",
     "Dosagem de Produto - Cobrição": "1,1",
-    "Fazenda": NaN
+    "Fazenda": null,
+    "Unnamed: 16": null
   },
   {
     "ID": "3544435",
@@ -8062,7 +8513,8 @@ const DOSAGEM_COBRICAO_DATA = [
     "Frente": "101 - FRENTE MECANIZADA",
     "Responsável": "FERNANDA DE SOUZA ",
     "Dosagem de Produto - Cobrição": "1,1",
-    "Fazenda": NaN
+    "Fazenda": null,
+    "Unnamed: 16": null
   },
   {
     "ID": "3544290",
@@ -8080,7 +8532,8 @@ const DOSAGEM_COBRICAO_DATA = [
     "Frente": "142 - FRENTE BIDU",
     "Responsável": "Leonardo Ribeiro Teixeira da Silva",
     "Dosagem de Produto - Cobrição": "1,1",
-    "Fazenda": NaN
+    "Fazenda": null,
+    "Unnamed: 16": null
   },
   {
     "ID": "3544289",
@@ -8098,7 +8551,8 @@ const DOSAGEM_COBRICAO_DATA = [
     "Frente": "142 - FRENTE BIDU",
     "Responsável": "Leonardo Ribeiro Teixeira da Silva",
     "Dosagem de Produto - Cobrição": "1,1",
-    "Fazenda": NaN
+    "Fazenda": null,
+    "Unnamed: 16": null
   },
   {
     "ID": "3544565",
@@ -8116,7 +8570,8 @@ const DOSAGEM_COBRICAO_DATA = [
     "Frente": "139 - FRENTE MANEZÃO",
     "Responsável": "MICHELI DE SOUZA SANTOS  ",
     "Dosagem de Produto - Cobrição": "1,1",
-    "Fazenda": NaN
+    "Fazenda": null,
+    "Unnamed: 16": null
   },
   {
     "ID": "3544564",
@@ -8134,7 +8589,8 @@ const DOSAGEM_COBRICAO_DATA = [
     "Frente": "139 - FRENTE MANEZÃO",
     "Responsável": "MICHELI DE SOUZA SANTOS  ",
     "Dosagem de Produto - Cobrição": "1,1",
-    "Fazenda": NaN
+    "Fazenda": null,
+    "Unnamed: 16": null
   },
   {
     "ID": "3544222",
@@ -8152,7 +8608,8 @@ const DOSAGEM_COBRICAO_DATA = [
     "Frente": "105 - FRENTE CASSIO (ZACARIAS)",
     "Responsável": "NILDA CLAUDINO [2510716]",
     "Dosagem de Produto - Cobrição": "1,12",
-    "Fazenda": NaN
+    "Fazenda": null,
+    "Unnamed: 16": null
   },
   {
     "ID": "3544300",
@@ -8170,7 +8627,8 @@ const DOSAGEM_COBRICAO_DATA = [
     "Frente": "105 - FRENTE CASSIO",
     "Responsável": "REGINALDO DA SILVA GOMES ",
     "Dosagem de Produto - Cobrição": "1,02",
-    "Fazenda": NaN
+    "Fazenda": null,
+    "Unnamed: 16": null
   },
   {
     "ID": "3544221",
@@ -8188,7 +8646,8 @@ const DOSAGEM_COBRICAO_DATA = [
     "Frente": "105 - FRENTE CASSIO",
     "Responsável": "NILDA CLAUDINO [2510716]",
     "Dosagem de Produto - Cobrição": "1,14",
-    "Fazenda": NaN
+    "Fazenda": null,
+    "Unnamed: 16": null
   },
   {
     "ID": "3544299",
@@ -8206,7 +8665,8 @@ const DOSAGEM_COBRICAO_DATA = [
     "Frente": "105 - FRENTE CASSIO",
     "Responsável": "REGINALDO DA SILVA GOMES ",
     "Dosagem de Produto - Cobrição": "1,14",
-    "Fazenda": NaN
+    "Fazenda": null,
+    "Unnamed: 16": null
   },
   {
     "ID": "3544218",
@@ -8224,7 +8684,8 @@ const DOSAGEM_COBRICAO_DATA = [
     "Frente": "105 - FRENTE CASSIO",
     "Responsável": "NILDA CLAUDINO [2510716]",
     "Dosagem de Produto - Cobrição": "1,1",
-    "Fazenda": NaN
+    "Fazenda": null,
+    "Unnamed: 16": null
   },
   {
     "ID": "3544298",
@@ -8242,7 +8703,8 @@ const DOSAGEM_COBRICAO_DATA = [
     "Frente": "105 - FRENTE CASSIO",
     "Responsável": "REGINALDO DA SILVA GOMES ",
     "Dosagem de Produto - Cobrição": "1,06",
-    "Fazenda": NaN
+    "Fazenda": null,
+    "Unnamed: 16": null
   },
   {
     "ID": "3544297",
@@ -8260,7 +8722,8 @@ const DOSAGEM_COBRICAO_DATA = [
     "Frente": "105 - FRENTE CASSIO",
     "Responsável": "REGINALDO DA SILVA GOMES ",
     "Dosagem de Produto - Cobrição": "1,1",
-    "Fazenda": NaN
+    "Fazenda": null,
+    "Unnamed: 16": null
   },
   {
     "ID": "3544217",
@@ -8278,7 +8741,8 @@ const DOSAGEM_COBRICAO_DATA = [
     "Frente": "105 - FRENTE CASSIO",
     "Responsável": "NILDA CLAUDINO [2510716]",
     "Dosagem de Produto - Cobrição": "1,06",
-    "Fazenda": NaN
+    "Fazenda": null,
+    "Unnamed: 16": null
   },
   {
     "ID": "3544125",
@@ -8296,7 +8760,8 @@ const DOSAGEM_COBRICAO_DATA = [
     "Frente": "143 - FRENTE CASSIO",
     "Responsável": "GABRIEL HENRIQUE MARTINS PEREIRA",
     "Dosagem de Produto - Cobrição": "1,1",
-    "Fazenda": NaN
+    "Fazenda": null,
+    "Unnamed: 16": null
   },
   {
     "ID": "3544124",
@@ -8314,7 +8779,8 @@ const DOSAGEM_COBRICAO_DATA = [
     "Frente": "143 - FRENTE CASSIO",
     "Responsável": "GABRIEL HENRIQUE MARTINS PEREIRA",
     "Dosagem de Produto - Cobrição": "1,1",
-    "Fazenda": NaN
+    "Fazenda": null,
+    "Unnamed: 16": null
   },
   {
     "ID": "3542344",
@@ -8332,7 +8798,8 @@ const DOSAGEM_COBRICAO_DATA = [
     "Frente": "105 - FRENTE CASSIO",
     "Responsável": "NILDA CLAUDINO [2510716]",
     "Dosagem de Produto - Cobrição": "1,08",
-    "Fazenda": NaN
+    "Fazenda": null,
+    "Unnamed: 16": null
   },
   {
     "ID": "3542343",
@@ -8350,7 +8817,8 @@ const DOSAGEM_COBRICAO_DATA = [
     "Frente": "105 - FRENTE CASSIO",
     "Responsável": "NILDA CLAUDINO [2510716]",
     "Dosagem de Produto - Cobrição": "1,1",
-    "Fazenda": NaN
+    "Fazenda": null,
+    "Unnamed: 16": null
   },
   {
     "ID": "3542342",
@@ -8368,7 +8836,8 @@ const DOSAGEM_COBRICAO_DATA = [
     "Frente": "105 - FRENTE CASSIO",
     "Responsável": "NILDA CLAUDINO [2510716]",
     "Dosagem de Produto - Cobrição": "19,09",
-    "Fazenda": NaN
+    "Fazenda": null,
+    "Unnamed: 16": null
   },
   {
     "ID": "3542341",
@@ -8386,7 +8855,8 @@ const DOSAGEM_COBRICAO_DATA = [
     "Frente": "105 - FRENTE CASSIO",
     "Responsável": "NILDA CLAUDINO [2510716]",
     "Dosagem de Produto - Cobrição": "1,1",
-    "Fazenda": NaN
+    "Fazenda": null,
+    "Unnamed: 16": null
   },
   {
     "ID": "3542378",
@@ -8404,7 +8874,8 @@ const DOSAGEM_COBRICAO_DATA = [
     "Frente": "139 - FRENTE MANEZÃO",
     "Responsável": "MICHELI DE SOUZA SANTOS  ",
     "Dosagem de Produto - Cobrição": "1,08",
-    "Fazenda": NaN
+    "Fazenda": null,
+    "Unnamed: 16": null
   },
   {
     "ID": "3542377",
@@ -8422,7 +8893,8 @@ const DOSAGEM_COBRICAO_DATA = [
     "Frente": "139 - FRENTE MANEZÃO",
     "Responsável": "MICHELI DE SOUZA SANTOS  ",
     "Dosagem de Produto - Cobrição": "1,1",
-    "Fazenda": NaN
+    "Fazenda": null,
+    "Unnamed: 16": null
   },
   {
     "ID": "3541922",
@@ -8440,7 +8912,8 @@ const DOSAGEM_COBRICAO_DATA = [
     "Frente": "142 - FRENTE BIDU",
     "Responsável": "Leonardo Ribeiro Teixeira da Silva",
     "Dosagem de Produto - Cobrição": "1,09",
-    "Fazenda": NaN
+    "Fazenda": null,
+    "Unnamed: 16": null
   },
   {
     "ID": "3541921",
@@ -8458,7 +8931,8 @@ const DOSAGEM_COBRICAO_DATA = [
     "Frente": "142 - FRENTE BIDU",
     "Responsável": "Leonardo Ribeiro Teixeira da Silva",
     "Dosagem de Produto - Cobrição": "1,1",
-    "Fazenda": NaN
+    "Fazenda": null,
+    "Unnamed: 16": null
   },
   {
     "ID": "3542272",
@@ -8476,7 +8950,8 @@ const DOSAGEM_COBRICAO_DATA = [
     "Frente": "135 - PEDRINHO ",
     "Responsável": "MARCELO DE OLIVEIRA JUNIOR",
     "Dosagem de Produto - Cobrição": "1,06",
-    "Fazenda": NaN
+    "Fazenda": null,
+    "Unnamed: 16": null
   },
   {
     "ID": "3542271",
@@ -8494,7 +8969,8 @@ const DOSAGEM_COBRICAO_DATA = [
     "Frente": "135 - PEDRINHO ",
     "Responsável": "MARCELO DE OLIVEIRA JUNIOR",
     "Dosagem de Produto - Cobrição": "1,1",
-    "Fazenda": NaN
+    "Fazenda": null,
+    "Unnamed: 16": null
   },
   {
     "ID": "3542092",
@@ -8512,7 +8988,8 @@ const DOSAGEM_COBRICAO_DATA = [
     "Frente": "143 - FRENTE CASSIO",
     "Responsável": "GABRIEL HENRIQUE MARTINS PEREIRA",
     "Dosagem de Produto - Cobrição": "1,1",
-    "Fazenda": NaN
+    "Fazenda": null,
+    "Unnamed: 16": null
   },
   {
     "ID": "3542091",
@@ -8530,7 +9007,8 @@ const DOSAGEM_COBRICAO_DATA = [
     "Frente": "143 - FRENTE CASSIO",
     "Responsável": "GABRIEL HENRIQUE MARTINS PEREIRA",
     "Dosagem de Produto - Cobrição": "1,1",
-    "Fazenda": NaN
+    "Fazenda": null,
+    "Unnamed: 16": null
   },
   {
     "ID": "3542323",
@@ -8548,7 +9026,8 @@ const DOSAGEM_COBRICAO_DATA = [
     "Frente": "105 - FRENTE CASSIO",
     "Responsável": "NILDA CLAUDINO [2510716]",
     "Dosagem de Produto - Cobrição": "1,1",
-    "Fazenda": NaN
+    "Fazenda": null,
+    "Unnamed: 16": null
   },
   {
     "ID": "3542322",
@@ -8566,7 +9045,8 @@ const DOSAGEM_COBRICAO_DATA = [
     "Frente": "105 - FRENTE CASSIO",
     "Responsável": "NILDA CLAUDINO [2510716]",
     "Dosagem de Produto - Cobrição": "1,08",
-    "Fazenda": NaN
+    "Fazenda": null,
+    "Unnamed: 16": null
   },
   {
     "ID": "3542321",
@@ -8584,7 +9064,8 @@ const DOSAGEM_COBRICAO_DATA = [
     "Frente": "105 - FRENTE CASSIO",
     "Responsável": "NILDA CLAUDINO [2510716]",
     "Dosagem de Produto - Cobrição": "1,12",
-    "Fazenda": NaN
+    "Fazenda": null,
+    "Unnamed: 16": null
   },
   {
     "ID": "3542320",
@@ -8602,7 +9083,8 @@ const DOSAGEM_COBRICAO_DATA = [
     "Frente": "105 - FRENTE CASSIO",
     "Responsável": "NILDA CLAUDINO [2510716]",
     "Dosagem de Produto - Cobrição": "1,08",
-    "Fazenda": NaN
+    "Fazenda": null,
+    "Unnamed: 16": null
   },
   {
     "ID": "3541882",
@@ -8620,7 +9102,8 @@ const DOSAGEM_COBRICAO_DATA = [
     "Frente": "101 - FRENTE MECANIZADA",
     "Responsável": "FERNANDA DE SOUZA ",
     "Dosagem de Produto - Cobrição": "1,1",
-    "Fazenda": NaN
+    "Fazenda": null,
+    "Unnamed: 16": null
   },
   {
     "ID": "3541881",
@@ -8638,7 +9121,8 @@ const DOSAGEM_COBRICAO_DATA = [
     "Frente": "101 - FRENTE MECANIZADA",
     "Responsável": "FERNANDA DE SOUZA ",
     "Dosagem de Produto - Cobrição": "1,1",
-    "Fazenda": NaN
+    "Fazenda": null,
+    "Unnamed: 16": null
   },
   {
     "ID": "3540112",
@@ -8656,7 +9140,8 @@ const DOSAGEM_COBRICAO_DATA = [
     "Frente": "105 - FRENTE CASSIO",
     "Responsável": "NILDA CLAUDINO [2510716]",
     "Dosagem de Produto - Cobrição": "1,04",
-    "Fazenda": NaN
+    "Fazenda": null,
+    "Unnamed: 16": null
   },
   {
     "ID": "3540111",
@@ -8674,7 +9159,8 @@ const DOSAGEM_COBRICAO_DATA = [
     "Frente": "105 - FRENTE CASSIO",
     "Responsável": "NILDA CLAUDINO [2510716]",
     "Dosagem de Produto - Cobrição": "1,08",
-    "Fazenda": NaN
+    "Fazenda": null,
+    "Unnamed: 16": null
   },
   {
     "ID": "3540110",
@@ -8692,7 +9178,8 @@ const DOSAGEM_COBRICAO_DATA = [
     "Frente": "105 - FRENTE CASSIO",
     "Responsável": "NILDA CLAUDINO [2510716]",
     "Dosagem de Produto - Cobrição": "1,02",
-    "Fazenda": NaN
+    "Fazenda": null,
+    "Unnamed: 16": null
   },
   {
     "ID": "3540109",
@@ -8710,7 +9197,8 @@ const DOSAGEM_COBRICAO_DATA = [
     "Frente": "105 - FRENTE CASSIO",
     "Responsável": "NILDA CLAUDINO [2510716]",
     "Dosagem de Produto - Cobrição": "1,04",
-    "Fazenda": NaN
+    "Fazenda": null,
+    "Unnamed: 16": null
   },
   {
     "ID": "3540033",
@@ -8728,7 +9216,8 @@ const DOSAGEM_COBRICAO_DATA = [
     "Frente": "139 - FRENTE MANEZÃO",
     "Responsável": "MICHELI DE SOUZA SANTOS  ",
     "Dosagem de Produto - Cobrição": "1,14",
-    "Fazenda": NaN
+    "Fazenda": null,
+    "Unnamed: 16": null
   },
   {
     "ID": "3540031",
@@ -8746,7 +9235,8 @@ const DOSAGEM_COBRICAO_DATA = [
     "Frente": "139 - FRENTE MANEZÃO",
     "Responsável": "MICHELI DE SOUZA SANTOS  ",
     "Dosagem de Produto - Cobrição": "1,16",
-    "Fazenda": NaN
+    "Fazenda": null,
+    "Unnamed: 16": null
   },
   {
     "ID": "3539606",
@@ -8764,7 +9254,8 @@ const DOSAGEM_COBRICAO_DATA = [
     "Frente": "261 - FRENTE PRÓPRIA  (EDMILSON)",
     "Responsável": "VITOR AMORIM RAMOS ",
     "Dosagem de Produto - Cobrição": "1,1",
-    "Fazenda": NaN
+    "Fazenda": null,
+    "Unnamed: 16": null
   },
   {
     "ID": "3539605",
@@ -8782,7 +9273,8 @@ const DOSAGEM_COBRICAO_DATA = [
     "Frente": "261 - FRENTE PRÓPRIA  (EDMILSON)",
     "Responsável": "VITOR AMORIM RAMOS ",
     "Dosagem de Produto - Cobrição": "1,1",
-    "Fazenda": NaN
+    "Fazenda": null,
+    "Unnamed: 16": null
   },
   {
     "ID": "3539990",
@@ -8800,7 +9292,8 @@ const DOSAGEM_COBRICAO_DATA = [
     "Frente": "142 - FRENTE BIDU",
     "Responsável": "MICHELI DE SOUZA SANTOS  ",
     "Dosagem de Produto - Cobrição": "1,12",
-    "Fazenda": NaN
+    "Fazenda": null,
+    "Unnamed: 16": null
   },
   {
     "ID": "3539989",
@@ -8818,7 +9311,8 @@ const DOSAGEM_COBRICAO_DATA = [
     "Frente": "142 - FRENTE BIDU",
     "Responsável": "MICHELI DE SOUZA SANTOS  ",
     "Dosagem de Produto - Cobrição": "1,16",
-    "Fazenda": NaN
+    "Fazenda": null,
+    "Unnamed: 16": null
   },
   {
     "ID": "3540190",
@@ -8836,7 +9330,8 @@ const DOSAGEM_COBRICAO_DATA = [
     "Frente": "101 - FRENTE MECANIZADA",
     "Responsável": "FERNANDA DE SOUZA ",
     "Dosagem de Produto - Cobrição": "1,1",
-    "Fazenda": NaN
+    "Fazenda": null,
+    "Unnamed: 16": null
   },
   {
     "ID": "3540238",
@@ -8854,7 +9349,8 @@ const DOSAGEM_COBRICAO_DATA = [
     "Frente": "101 - FRENTE MECANIZADA",
     "Responsável": "FERNANDA DE SOUZA ",
     "Dosagem de Produto - Cobrição": "1,1",
-    "Fazenda": NaN
+    "Fazenda": null,
+    "Unnamed: 16": null
   },
   {
     "ID": "3538836",
@@ -8872,7 +9368,8 @@ const DOSAGEM_COBRICAO_DATA = [
     "Frente": "139 - FRENTE MANEZÃO",
     "Responsável": "MICHELI DE SOUZA SANTOS  ",
     "Dosagem de Produto - Cobrição": "1,12",
-    "Fazenda": NaN
+    "Fazenda": null,
+    "Unnamed: 16": null
   },
   {
     "ID": "3538835",
@@ -8890,7 +9387,8 @@ const DOSAGEM_COBRICAO_DATA = [
     "Frente": "139 - FRENTE MANEZÃO",
     "Responsável": "MICHELI DE SOUZA SANTOS  ",
     "Dosagem de Produto - Cobrição": "1,1",
-    "Fazenda": NaN
+    "Fazenda": null,
+    "Unnamed: 16": null
   },
   {
     "ID": "3537760",
@@ -8908,7 +9406,8 @@ const DOSAGEM_COBRICAO_DATA = [
     "Frente": "142 - FRENTE BIDU",
     "Responsável": "MICHELI DE SOUZA SANTOS  ",
     "Dosagem de Produto - Cobrição": "1,1",
-    "Fazenda": NaN
+    "Fazenda": null,
+    "Unnamed: 16": null
   },
   {
     "ID": "3537759",
@@ -8926,7 +9425,8 @@ const DOSAGEM_COBRICAO_DATA = [
     "Frente": "142 - FRENTE BIDU",
     "Responsável": "MICHELI DE SOUZA SANTOS  ",
     "Dosagem de Produto - Cobrição": "1,14",
-    "Fazenda": NaN
+    "Fazenda": null,
+    "Unnamed: 16": null
   },
   {
     "ID": "3537758",
@@ -8944,7 +9444,8 @@ const DOSAGEM_COBRICAO_DATA = [
     "Frente": "142 - FRENTE BIDU",
     "Responsável": "MICHELI DE SOUZA SANTOS  ",
     "Dosagem de Produto - Cobrição": "1,1",
-    "Fazenda": NaN
+    "Fazenda": null,
+    "Unnamed: 16": null
   },
   {
     "ID": "3537757",
@@ -8962,7 +9463,8 @@ const DOSAGEM_COBRICAO_DATA = [
     "Frente": "142 - FRENTE BIDU",
     "Responsável": "MICHELI DE SOUZA SANTOS  ",
     "Dosagem de Produto - Cobrição": "1,14",
-    "Fazenda": NaN
+    "Fazenda": null,
+    "Unnamed: 16": null
   },
   {
     "ID": "3537392",
@@ -8980,7 +9482,8 @@ const DOSAGEM_COBRICAO_DATA = [
     "Frente": "261 - FRENTE PRÓPRIA  (EDMILSON)",
     "Responsável": "VITOR AMORIM RAMOS ",
     "Dosagem de Produto - Cobrição": "1,12",
-    "Fazenda": NaN
+    "Fazenda": null,
+    "Unnamed: 16": null
   },
   {
     "ID": "3537391",
@@ -8998,7 +9501,8 @@ const DOSAGEM_COBRICAO_DATA = [
     "Frente": "261 - FRENTE PRÓPRIA  (EDMILSON)",
     "Responsável": "VITOR AMORIM RAMOS ",
     "Dosagem de Produto - Cobrição": "1,1",
-    "Fazenda": NaN
+    "Fazenda": null,
+    "Unnamed: 16": null
   },
   {
     "ID": "3537254",
@@ -9016,7 +9520,8 @@ const DOSAGEM_COBRICAO_DATA = [
     "Frente": "105 - FRENTE CASSIO",
     "Responsável": "NILDA CLAUDINO [2510716]",
     "Dosagem de Produto - Cobrição": "1,02",
-    "Fazenda": NaN
+    "Fazenda": null,
+    "Unnamed: 16": null
   },
   {
     "ID": "3537253",
@@ -9034,7 +9539,8 @@ const DOSAGEM_COBRICAO_DATA = [
     "Frente": "105 - FRENTE CASSIO",
     "Responsável": "NILDA CLAUDINO [2510716]",
     "Dosagem de Produto - Cobrição": "1,1",
-    "Fazenda": NaN
+    "Fazenda": null,
+    "Unnamed: 16": null
   },
   {
     "ID": "3537171",
@@ -9052,7 +9558,8 @@ const DOSAGEM_COBRICAO_DATA = [
     "Frente": "101 - FRENTE MECANIZADA",
     "Responsável": "FERNANDA DE SOUZA ",
     "Dosagem de Produto - Cobrição": "1,1",
-    "Fazenda": NaN
+    "Fazenda": null,
+    "Unnamed: 16": null
   },
   {
     "ID": "3537170",
@@ -9070,7 +9577,8 @@ const DOSAGEM_COBRICAO_DATA = [
     "Frente": "101 - FRENTE MECANIZADA",
     "Responsável": "FERNANDA DE SOUZA ",
     "Dosagem de Produto - Cobrição": "1,1",
-    "Fazenda": NaN
+    "Fazenda": null,
+    "Unnamed: 16": null
   },
   {
     "ID": "3537179",
@@ -9088,7 +9596,8 @@ const DOSAGEM_COBRICAO_DATA = [
     "Frente": "143 - FRENTE CASSIO",
     "Responsável": "GABRIEL HENRIQUE MARTINS PEREIRA",
     "Dosagem de Produto - Cobrição": "1,12",
-    "Fazenda": NaN
+    "Fazenda": null,
+    "Unnamed: 16": null
   },
   {
     "ID": "3537178",
@@ -9106,7 +9615,8 @@ const DOSAGEM_COBRICAO_DATA = [
     "Frente": "143 - FRENTE CASSIO",
     "Responsável": "GABRIEL HENRIQUE MARTINS PEREIRA",
     "Dosagem de Produto - Cobrição": "1,1",
-    "Fazenda": NaN
+    "Fazenda": null,
+    "Unnamed: 16": null
   },
   {
     "ID": "3535781",
@@ -9124,7 +9634,8 @@ const DOSAGEM_COBRICAO_DATA = [
     "Frente": "101 - FRENTE MECANIZADA",
     "Responsável": "FERNANDA DE SOUZA ",
     "Dosagem de Produto - Cobrição": "1,1",
-    "Fazenda": NaN
+    "Fazenda": null,
+    "Unnamed: 16": null
   },
   {
     "ID": "3535782",
@@ -9142,7 +9653,8 @@ const DOSAGEM_COBRICAO_DATA = [
     "Frente": "101 - FRENTE MECANIZADA",
     "Responsável": "FERNANDA DE SOUZA ",
     "Dosagem de Produto - Cobrição": "1,1",
-    "Fazenda": NaN
+    "Fazenda": null,
+    "Unnamed: 16": null
   },
   {
     "ID": "3535678",
@@ -9160,7 +9672,8 @@ const DOSAGEM_COBRICAO_DATA = [
     "Frente": "143 - FRENTE CASSIO",
     "Responsável": "GABRIEL HENRIQUE MARTINS PEREIRA",
     "Dosagem de Produto - Cobrição": "1,1",
-    "Fazenda": NaN
+    "Fazenda": null,
+    "Unnamed: 16": null
   },
   {
     "ID": "3535677",
@@ -9178,7 +9691,8 @@ const DOSAGEM_COBRICAO_DATA = [
     "Frente": "143 - FRENTE CASSIO",
     "Responsável": "GABRIEL HENRIQUE MARTINS PEREIRA",
     "Dosagem de Produto - Cobrição": "1,1",
-    "Fazenda": NaN
+    "Fazenda": null,
+    "Unnamed: 16": null
   },
   {
     "ID": "3535751",
@@ -9196,7 +9710,8 @@ const DOSAGEM_COBRICAO_DATA = [
     "Frente": "139 - FRENTE MANEZÃO",
     "Responsável": "MICHELI DE SOUZA SANTOS  ",
     "Dosagem de Produto - Cobrição": "1,12",
-    "Fazenda": NaN
+    "Fazenda": null,
+    "Unnamed: 16": null
   },
   {
     "ID": "3535750",
@@ -9214,7 +9729,8 @@ const DOSAGEM_COBRICAO_DATA = [
     "Frente": "139 - FRENTE MANEZÃO",
     "Responsável": "MICHELI DE SOUZA SANTOS  ",
     "Dosagem de Produto - Cobrição": "1,1",
-    "Fazenda": NaN
+    "Fazenda": null,
+    "Unnamed: 16": null
   },
   {
     "ID": "3537144",
@@ -9232,7 +9748,8 @@ const DOSAGEM_COBRICAO_DATA = [
     "Frente": "261 - FRENTE PRÓPRIA  (EDMILSON)",
     "Responsável": "VITOR AMORIM RAMOS ",
     "Dosagem de Produto - Cobrição": "1,1",
-    "Fazenda": NaN
+    "Fazenda": null,
+    "Unnamed: 16": null
   },
   {
     "ID": "3537143",
@@ -9250,7 +9767,8 @@ const DOSAGEM_COBRICAO_DATA = [
     "Frente": "261 - FRENTE PRÓPRIA  (EDMILSON)",
     "Responsável": "VITOR AMORIM RAMOS ",
     "Dosagem de Produto - Cobrição": "1,1",
-    "Fazenda": NaN
+    "Fazenda": null,
+    "Unnamed: 16": null
   },
   {
     "ID": "3535740",
@@ -9268,7 +9786,8 @@ const DOSAGEM_COBRICAO_DATA = [
     "Frente": "142 - FRENTE BIDU",
     "Responsável": "MICHELI DE SOUZA SANTOS  ",
     "Dosagem de Produto - Cobrição": "1,1",
-    "Fazenda": NaN
+    "Fazenda": null,
+    "Unnamed: 16": null
   },
   {
     "ID": "3535739",
@@ -9286,7 +9805,8 @@ const DOSAGEM_COBRICAO_DATA = [
     "Frente": "142 - FRENTE BIDU",
     "Responsável": "MICHELI DE SOUZA SANTOS  ",
     "Dosagem de Produto - Cobrição": "1,1",
-    "Fazenda": NaN
+    "Fazenda": null,
+    "Unnamed: 16": null
   },
   {
     "ID": "3535738",
@@ -9304,7 +9824,8 @@ const DOSAGEM_COBRICAO_DATA = [
     "Frente": "142 - FRENTE BIDU",
     "Responsável": "MICHELI DE SOUZA SANTOS  ",
     "Dosagem de Produto - Cobrição": "1,12",
-    "Fazenda": NaN
+    "Fazenda": null,
+    "Unnamed: 16": null
   },
   {
     "ID": "3535737",
@@ -9322,7 +9843,8 @@ const DOSAGEM_COBRICAO_DATA = [
     "Frente": "142 - FRENTE BIDU",
     "Responsável": "MICHELI DE SOUZA SANTOS  ",
     "Dosagem de Produto - Cobrição": "1,12",
-    "Fazenda": NaN
+    "Fazenda": null,
+    "Unnamed: 16": null
   },
   {
     "ID": "3535330",
@@ -9340,7 +9862,8 @@ const DOSAGEM_COBRICAO_DATA = [
     "Frente": "105 - FRENTE CASSIO",
     "Responsável": "NILDA CLAUDINO [2510716]",
     "Dosagem de Produto - Cobrição": "1,04",
-    "Fazenda": NaN
+    "Fazenda": null,
+    "Unnamed: 16": null
   },
   {
     "ID": "3535329",
@@ -9358,7 +9881,8 @@ const DOSAGEM_COBRICAO_DATA = [
     "Frente": "105 - FRENTE CASSIO",
     "Responsável": "NILDA CLAUDINO [2510716]",
     "Dosagem de Produto - Cobrição": "1,02",
-    "Fazenda": NaN
+    "Fazenda": null,
+    "Unnamed: 16": null
   },
   {
     "ID": "3535328",
@@ -9376,7 +9900,8 @@ const DOSAGEM_COBRICAO_DATA = [
     "Frente": "105 - FRENTE CASSIO",
     "Responsável": "NILDA CLAUDINO [2510716]",
     "Dosagem de Produto - Cobrição": "1,04",
-    "Fazenda": NaN
+    "Fazenda": null,
+    "Unnamed: 16": null
   },
   {
     "ID": "3535327",
@@ -9394,7 +9919,8 @@ const DOSAGEM_COBRICAO_DATA = [
     "Frente": "105 - FRENTE CASSIO",
     "Responsável": "NILDA CLAUDINO [2510716]",
     "Dosagem de Produto - Cobrição": "1,09",
-    "Fazenda": NaN
+    "Fazenda": null,
+    "Unnamed: 16": null
   },
   {
     "ID": "3533912",
@@ -9412,7 +9938,8 @@ const DOSAGEM_COBRICAO_DATA = [
     "Frente": "261 - FRENTE PRÓPRIA  (EDMILSON)",
     "Responsável": "VITOR AMORIM RAMOS ",
     "Dosagem de Produto - Cobrição": "1,1",
-    "Fazenda": NaN
+    "Fazenda": null,
+    "Unnamed: 16": null
   },
   {
     "ID": "3533911",
@@ -9430,7 +9957,8 @@ const DOSAGEM_COBRICAO_DATA = [
     "Frente": "261 - FRENTE PRÓPRIA  (EDMILSON)",
     "Responsável": "VITOR AMORIM RAMOS ",
     "Dosagem de Produto - Cobrição": "1,1",
-    "Fazenda": NaN
+    "Fazenda": null,
+    "Unnamed: 16": null
   },
   {
     "ID": "3533611",
@@ -9448,7 +9976,8 @@ const DOSAGEM_COBRICAO_DATA = [
     "Frente": "105 - FRENTE CASSIO",
     "Responsável": "NILDA CLAUDINO [2510716]",
     "Dosagem de Produto - Cobrição": "1,12",
-    "Fazenda": NaN
+    "Fazenda": null,
+    "Unnamed: 16": null
   },
   {
     "ID": "3533610",
@@ -9466,7 +9995,8 @@ const DOSAGEM_COBRICAO_DATA = [
     "Frente": "105 - FRENTE CASSIO",
     "Responsável": "NILDA CLAUDINO [2510716]",
     "Dosagem de Produto - Cobrição": "0,001",
-    "Fazenda": NaN
+    "Fazenda": null,
+    "Unnamed: 16": null
   },
   {
     "ID": "3533609",
@@ -9484,7 +10014,8 @@ const DOSAGEM_COBRICAO_DATA = [
     "Frente": "105 - FRENTE CASSIO",
     "Responsável": "NILDA CLAUDINO [2510716]",
     "Dosagem de Produto - Cobrição": "1,04",
-    "Fazenda": NaN
+    "Fazenda": null,
+    "Unnamed: 16": null
   },
   {
     "ID": "3533608",
@@ -9502,7 +10033,8 @@ const DOSAGEM_COBRICAO_DATA = [
     "Frente": "105 - FRENTE CASSIO",
     "Responsável": "NILDA CLAUDINO [2510716]",
     "Dosagem de Produto - Cobrição": "1,13",
-    "Fazenda": NaN
+    "Fazenda": null,
+    "Unnamed: 16": null
   },
   {
     "ID": "3533600",
@@ -9520,7 +10052,8 @@ const DOSAGEM_COBRICAO_DATA = [
     "Frente": "101 - FRENTE MECANIZADA",
     "Responsável": "FERNANDA DE SOUZA ",
     "Dosagem de Produto - Cobrição": "1,1",
-    "Fazenda": NaN
+    "Fazenda": null,
+    "Unnamed: 16": null
   },
   {
     "ID": "3533599",
@@ -9538,7 +10071,8 @@ const DOSAGEM_COBRICAO_DATA = [
     "Frente": "101 - FRENTE MECANIZADA",
     "Responsável": "FERNANDA DE SOUZA ",
     "Dosagem de Produto - Cobrição": "1,1",
-    "Fazenda": NaN
+    "Fazenda": null,
+    "Unnamed: 16": null
   },
   {
     "ID": "3531876",
@@ -9556,7 +10090,8 @@ const DOSAGEM_COBRICAO_DATA = [
     "Frente": "142 - FRENTE BIDU",
     "Responsável": "MICHELI DE SOUZA SANTOS  ",
     "Dosagem de Produto - Cobrição": "1,02",
-    "Fazenda": NaN
+    "Fazenda": null,
+    "Unnamed: 16": null
   },
   {
     "ID": "3531875",
@@ -9574,7 +10109,8 @@ const DOSAGEM_COBRICAO_DATA = [
     "Frente": "142 - FRENTE BIDU",
     "Responsável": "MICHELI DE SOUZA SANTOS  ",
     "Dosagem de Produto - Cobrição": "1",
-    "Fazenda": NaN
+    "Fazenda": null,
+    "Unnamed: 16": null
   },
   {
     "ID": "3531891",
@@ -9592,7 +10128,8 @@ const DOSAGEM_COBRICAO_DATA = [
     "Frente": "101 - FRENTE MECANIZADA",
     "Responsável": "FERNANDA DE SOUZA ",
     "Dosagem de Produto - Cobrição": "1,1",
-    "Fazenda": NaN
+    "Fazenda": null,
+    "Unnamed: 16": null
   },
   {
     "ID": "3531890",
@@ -9610,7 +10147,8 @@ const DOSAGEM_COBRICAO_DATA = [
     "Frente": "101 - FRENTE MECANIZADA",
     "Responsável": "FERNANDA DE SOUZA ",
     "Dosagem de Produto - Cobrição": "1,1",
-    "Fazenda": NaN
+    "Fazenda": null,
+    "Unnamed: 16": null
   },
   {
     "ID": "3531722",
@@ -9628,7 +10166,8 @@ const DOSAGEM_COBRICAO_DATA = [
     "Frente": "261 - FRENTE PRÓPRIA  (EDMILSON)",
     "Responsável": "VITOR AMORIM RAMOS ",
     "Dosagem de Produto - Cobrição": "1",
-    "Fazenda": NaN
+    "Fazenda": null,
+    "Unnamed: 16": null
   },
   {
     "ID": "3531724",
@@ -9646,7 +10185,8 @@ const DOSAGEM_COBRICAO_DATA = [
     "Frente": "291 - FRENTE PRÓPRIA ",
     "Responsável": "VITOR AMORIM RAMOS ",
     "Dosagem de Produto - Cobrição": "1",
-    "Fazenda": NaN
+    "Fazenda": null,
+    "Unnamed: 16": null
   },
   {
     "ID": "3531723",
@@ -9664,7 +10204,8 @@ const DOSAGEM_COBRICAO_DATA = [
     "Frente": "291 - FRENTE PRÓPRIA ",
     "Responsável": "VITOR AMORIM RAMOS ",
     "Dosagem de Produto - Cobrição": "1",
-    "Fazenda": NaN
+    "Fazenda": null,
+    "Unnamed: 16": null
   },
   {
     "ID": "3531721",
@@ -9682,7 +10223,8 @@ const DOSAGEM_COBRICAO_DATA = [
     "Frente": "261 - FRENTE PRÓPRIA  (EDMILSON)",
     "Responsável": "VITOR AMORIM RAMOS ",
     "Dosagem de Produto - Cobrição": "1",
-    "Fazenda": NaN
+    "Fazenda": null,
+    "Unnamed: 16": null
   },
   {
     "ID": "3531946",
@@ -9700,7 +10242,8 @@ const DOSAGEM_COBRICAO_DATA = [
     "Frente": "143 - FRENTE CASSIO",
     "Responsável": "GABRIEL HENRIQUE MARTINS PEREIRA",
     "Dosagem de Produto - Cobrição": "1",
-    "Fazenda": NaN
+    "Fazenda": null,
+    "Unnamed: 16": null
   },
   {
     "ID": "3531945",
@@ -9718,7 +10261,8 @@ const DOSAGEM_COBRICAO_DATA = [
     "Frente": "143 - FRENTE CASSIO",
     "Responsável": "GABRIEL HENRIQUE MARTINS PEREIRA",
     "Dosagem de Produto - Cobrição": "1",
-    "Fazenda": NaN
+    "Fazenda": null,
+    "Unnamed: 16": null
   },
   {
     "ID": "3531461",
@@ -9736,7 +10280,8 @@ const DOSAGEM_COBRICAO_DATA = [
     "Frente": "105 - FRENTE CASSIO",
     "Responsável": "NILDA CLAUDINO [2510716]",
     "Dosagem de Produto - Cobrição": "1,02",
-    "Fazenda": NaN
+    "Fazenda": null,
+    "Unnamed: 16": null
   },
   {
     "ID": "3531460",
@@ -9754,7 +10299,8 @@ const DOSAGEM_COBRICAO_DATA = [
     "Frente": "105 - FRENTE CASSIO",
     "Responsável": "NILDA CLAUDINO [2510716]",
     "Dosagem de Produto - Cobrição": "1,08",
-    "Fazenda": NaN
+    "Fazenda": null,
+    "Unnamed: 16": null
   },
   {
     "ID": "3531459",
@@ -9772,7 +10318,8 @@ const DOSAGEM_COBRICAO_DATA = [
     "Frente": "105 - FRENTE CASSIO",
     "Responsável": "NILDA CLAUDINO [2510716]",
     "Dosagem de Produto - Cobrição": "1,08",
-    "Fazenda": NaN
+    "Fazenda": null,
+    "Unnamed: 16": null
   },
   {
     "ID": "3531458",
@@ -9790,7 +10337,8 @@ const DOSAGEM_COBRICAO_DATA = [
     "Frente": "105 - FRENTE CASSIO",
     "Responsável": "NILDA CLAUDINO [2510716]",
     "Dosagem de Produto - Cobrição": "1,1",
-    "Fazenda": NaN
+    "Fazenda": null,
+    "Unnamed: 16": null
   },
   {
     "ID": "3531429",
@@ -9808,7 +10356,8 @@ const DOSAGEM_COBRICAO_DATA = [
     "Frente": "135 - PEDRINHO ",
     "Responsável": "MARCELO DE OLIVEIRA JUNIOR",
     "Dosagem de Produto - Cobrição": "1,08",
-    "Fazenda": NaN
+    "Fazenda": null,
+    "Unnamed: 16": null
   },
   {
     "ID": "3531427",
@@ -9826,7 +10375,8 @@ const DOSAGEM_COBRICAO_DATA = [
     "Frente": "135 - PEDRINHO ",
     "Responsável": "MARCELO DE OLIVEIRA JUNIOR",
     "Dosagem de Produto - Cobrição": "1,04",
-    "Fazenda": NaN
+    "Fazenda": null,
+    "Unnamed: 16": null
   },
   {
     "ID": "3531463",
@@ -9844,7 +10394,8 @@ const DOSAGEM_COBRICAO_DATA = [
     "Frente": "101 - FRENTE MECANIZADA",
     "Responsável": "FERNANDA DE SOUZA ",
     "Dosagem de Produto - Cobrição": "1",
-    "Fazenda": NaN
+    "Fazenda": null,
+    "Unnamed: 16": null
   },
   {
     "ID": "3531462",
@@ -9862,7 +10413,8 @@ const DOSAGEM_COBRICAO_DATA = [
     "Frente": "101 - FRENTE MECANIZADA",
     "Responsável": "FERNANDA DE SOUZA ",
     "Dosagem de Produto - Cobrição": "1,06",
-    "Fazenda": NaN
+    "Fazenda": null,
+    "Unnamed: 16": null
   },
   {
     "ID": "3530168",
@@ -9880,7 +10432,8 @@ const DOSAGEM_COBRICAO_DATA = [
     "Frente": "135 - PEDRINHO ",
     "Responsável": "MARCELO DE OLIVEIRA JUNIOR",
     "Dosagem de Produto - Cobrição": "1,06",
-    "Fazenda": NaN
+    "Fazenda": null,
+    "Unnamed: 16": null
   },
   {
     "ID": "3530167",
@@ -9898,7 +10451,8 @@ const DOSAGEM_COBRICAO_DATA = [
     "Frente": "135 - PEDRINHO ",
     "Responsável": "MARCELO DE OLIVEIRA JUNIOR",
     "Dosagem de Produto - Cobrição": "1,04",
-    "Fazenda": NaN
+    "Fazenda": null,
+    "Unnamed: 16": null
   },
   {
     "ID": "3529624",
@@ -9916,7 +10470,8 @@ const DOSAGEM_COBRICAO_DATA = [
     "Frente": "139 - FRENTE MANEZÃO",
     "Responsável": "MICHELI DE SOUZA SANTOS  ",
     "Dosagem de Produto - Cobrição": "1,14",
-    "Fazenda": NaN
+    "Fazenda": null,
+    "Unnamed: 16": null
   },
   {
     "ID": "3529623",
@@ -9934,7 +10489,8 @@ const DOSAGEM_COBRICAO_DATA = [
     "Frente": "139 - FRENTE MANEZÃO",
     "Responsável": "MICHELI DE SOUZA SANTOS  ",
     "Dosagem de Produto - Cobrição": "1,14",
-    "Fazenda": NaN
+    "Fazenda": null,
+    "Unnamed: 16": null
   },
   {
     "ID": "3529533",
@@ -9952,7 +10508,8 @@ const DOSAGEM_COBRICAO_DATA = [
     "Frente": "105 - FRENTE CASSIO",
     "Responsável": "NILDA CLAUDINO [2510716]",
     "Dosagem de Produto - Cobrição": "1,08",
-    "Fazenda": NaN
+    "Fazenda": null,
+    "Unnamed: 16": null
   },
   {
     "ID": "3529532",
@@ -9970,7 +10527,8 @@ const DOSAGEM_COBRICAO_DATA = [
     "Frente": "105 - FRENTE CASSIO",
     "Responsável": "NILDA CLAUDINO [2510716]",
     "Dosagem de Produto - Cobrição": "1,1",
-    "Fazenda": NaN
+    "Fazenda": null,
+    "Unnamed: 16": null
   },
   {
     "ID": "3529531",
@@ -9988,7 +10546,8 @@ const DOSAGEM_COBRICAO_DATA = [
     "Frente": "105 - FRENTE CASSIO",
     "Responsável": "NILDA CLAUDINO [2510716]",
     "Dosagem de Produto - Cobrição": "1,06",
-    "Fazenda": NaN
+    "Fazenda": null,
+    "Unnamed: 16": null
   },
   {
     "ID": "3529530",
@@ -10006,7 +10565,8 @@ const DOSAGEM_COBRICAO_DATA = [
     "Frente": "105 - FRENTE CASSIO",
     "Responsável": "NILDA CLAUDINO [2510716]",
     "Dosagem de Produto - Cobrição": "1,04",
-    "Fazenda": NaN
+    "Fazenda": null,
+    "Unnamed: 16": null
   },
   {
     "ID": "3529887",
@@ -10024,7 +10584,8 @@ const DOSAGEM_COBRICAO_DATA = [
     "Frente": "291 - FRENTE PRÓPRIA ",
     "Responsável": "VITOR AMORIM RAMOS ",
     "Dosagem de Produto - Cobrição": "1,1",
-    "Fazenda": NaN
+    "Fazenda": null,
+    "Unnamed: 16": null
   },
   {
     "ID": "3529886",
@@ -10042,7 +10603,8 @@ const DOSAGEM_COBRICAO_DATA = [
     "Frente": "291 - FRENTE PRÓPRIA ",
     "Responsável": "VITOR AMORIM RAMOS ",
     "Dosagem de Produto - Cobrição": "1",
-    "Fazenda": NaN
+    "Fazenda": null,
+    "Unnamed: 16": null
   },
   {
     "ID": "3529885",
@@ -10060,7 +10622,8 @@ const DOSAGEM_COBRICAO_DATA = [
     "Frente": "261 - FRENTE PRÓPRIA  (EDMILSON)",
     "Responsável": "VITOR AMORIM RAMOS ",
     "Dosagem de Produto - Cobrição": "1,1",
-    "Fazenda": NaN
+    "Fazenda": null,
+    "Unnamed: 16": null
   },
   {
     "ID": "3529884",
@@ -10078,7 +10641,8 @@ const DOSAGEM_COBRICAO_DATA = [
     "Frente": "261 - FRENTE PRÓPRIA  (EDMILSON)",
     "Responsável": "VITOR AMORIM RAMOS ",
     "Dosagem de Produto - Cobrição": "1",
-    "Fazenda": NaN
+    "Fazenda": null,
+    "Unnamed: 16": null
   },
   {
     "ID": "3529648",
@@ -10096,7 +10660,8 @@ const DOSAGEM_COBRICAO_DATA = [
     "Frente": "142 - FRENTE BIDU",
     "Responsável": "FERNANDA DE SOUZA ",
     "Dosagem de Produto - Cobrição": "1,14",
-    "Fazenda": NaN
+    "Fazenda": null,
+    "Unnamed: 16": null
   },
   {
     "ID": "3529647",
@@ -10114,7 +10679,8 @@ const DOSAGEM_COBRICAO_DATA = [
     "Frente": "142 - FRENTE BIDU",
     "Responsável": "FERNANDA DE SOUZA ",
     "Dosagem de Produto - Cobrição": "1,14",
-    "Fazenda": NaN
+    "Fazenda": null,
+    "Unnamed: 16": null
   },
   {
     "ID": "3529477",
@@ -10132,7 +10698,8 @@ const DOSAGEM_COBRICAO_DATA = [
     "Frente": "143 - FRENTE CASSIO",
     "Responsável": "GABRIEL HENRIQUE MARTINS PEREIRA",
     "Dosagem de Produto - Cobrição": "1,02",
-    "Fazenda": NaN
+    "Fazenda": null,
+    "Unnamed: 16": null
   },
   {
     "ID": "3529476",
@@ -10150,7 +10717,8 @@ const DOSAGEM_COBRICAO_DATA = [
     "Frente": "143 - FRENTE CASSIO",
     "Responsável": "GABRIEL HENRIQUE MARTINS PEREIRA",
     "Dosagem de Produto - Cobrição": "1",
-    "Fazenda": NaN
+    "Fazenda": null,
+    "Unnamed: 16": null
   },
   {
     "ID": "3520559",
@@ -10168,7 +10736,8 @@ const DOSAGEM_COBRICAO_DATA = [
     "Frente": "142 - FRENTE BIDU",
     "Responsável": "FERNANDA DE SOUZA ",
     "Dosagem de Produto - Cobrição": "1,16",
-    "Fazenda": NaN
+    "Fazenda": null,
+    "Unnamed: 16": null
   },
   {
     "ID": "3520558",
@@ -10186,7 +10755,8 @@ const DOSAGEM_COBRICAO_DATA = [
     "Frente": "142 - FRENTE BIDU",
     "Responsável": "FERNANDA DE SOUZA ",
     "Dosagem de Produto - Cobrição": "1,1",
-    "Fazenda": NaN
+    "Fazenda": null,
+    "Unnamed: 16": null
   },
   {
     "ID": "3520188",
@@ -10204,7 +10774,8 @@ const DOSAGEM_COBRICAO_DATA = [
     "Frente": "105 - FRENTE CASSIO",
     "Responsável": "NILDA CLAUDINO [2510716]",
     "Dosagem de Produto - Cobrição": "1,02",
-    "Fazenda": NaN
+    "Fazenda": null,
+    "Unnamed: 16": null
   },
   {
     "ID": "3520187",
@@ -10222,7 +10793,8 @@ const DOSAGEM_COBRICAO_DATA = [
     "Frente": "105 - FRENTE CASSIO",
     "Responsável": "NILDA CLAUDINO [2510716]",
     "Dosagem de Produto - Cobrição": "1,03",
-    "Fazenda": NaN
+    "Fazenda": null,
+    "Unnamed: 16": null
   },
   {
     "ID": "3520186",
@@ -10240,7 +10812,8 @@ const DOSAGEM_COBRICAO_DATA = [
     "Frente": "105 - FRENTE CASSIO",
     "Responsável": "NILDA CLAUDINO [2510716]",
     "Dosagem de Produto - Cobrição": "1,04",
-    "Fazenda": NaN
+    "Fazenda": null,
+    "Unnamed: 16": null
   },
   {
     "ID": "3520185",
@@ -10258,7 +10831,8 @@ const DOSAGEM_COBRICAO_DATA = [
     "Frente": "105 - FRENTE CASSIO",
     "Responsável": "NILDA CLAUDINO [2510716]",
     "Dosagem de Produto - Cobrição": "1,02",
-    "Fazenda": NaN
+    "Fazenda": null,
+    "Unnamed: 16": null
   },
   {
     "ID": "3520362",
@@ -10276,7 +10850,8 @@ const DOSAGEM_COBRICAO_DATA = [
     "Frente": "261 - FRENTE PRÓPRIA  (EDMILSON)",
     "Responsável": "VITOR AMORIM RAMOS ",
     "Dosagem de Produto - Cobrição": "1",
-    "Fazenda": NaN
+    "Fazenda": null,
+    "Unnamed: 16": null
   },
   {
     "ID": "3520361",
@@ -10294,7 +10869,8 @@ const DOSAGEM_COBRICAO_DATA = [
     "Frente": "261 - FRENTE PRÓPRIA  (EDMILSON)",
     "Responsável": "VITOR AMORIM RAMOS ",
     "Dosagem de Produto - Cobrição": "1,1",
-    "Fazenda": NaN
+    "Fazenda": null,
+    "Unnamed: 16": null
   },
   {
     "ID": "3520448",
@@ -10312,7 +10888,8 @@ const DOSAGEM_COBRICAO_DATA = [
     "Frente": "143 - FRENTE CASSIO",
     "Responsável": "GABRIEL HENRIQUE MARTINS PEREIRA",
     "Dosagem de Produto - Cobrição": "1,02",
-    "Fazenda": NaN
+    "Fazenda": null,
+    "Unnamed: 16": null
   },
   {
     "ID": "3520447",
@@ -10330,7 +10907,8 @@ const DOSAGEM_COBRICAO_DATA = [
     "Frente": "143 - FRENTE CASSIO",
     "Responsável": "GABRIEL HENRIQUE MARTINS PEREIRA",
     "Dosagem de Produto - Cobrição": "1",
-    "Fazenda": NaN
+    "Fazenda": null,
+    "Unnamed: 16": null
   },
   {
     "ID": "3520446",
@@ -10348,7 +10926,8 @@ const DOSAGEM_COBRICAO_DATA = [
     "Frente": "143 - FRENTE CASSIO",
     "Responsável": "GABRIEL HENRIQUE MARTINS PEREIRA",
     "Dosagem de Produto - Cobrição": "1,06",
-    "Fazenda": NaN
+    "Fazenda": null,
+    "Unnamed: 16": null
   },
   {
     "ID": "3520445",
@@ -10366,7 +10945,8 @@ const DOSAGEM_COBRICAO_DATA = [
     "Frente": "143 - FRENTE CASSIO",
     "Responsável": "GABRIEL HENRIQUE MARTINS PEREIRA",
     "Dosagem de Produto - Cobrição": "1,04",
-    "Fazenda": NaN
+    "Fazenda": null,
+    "Unnamed: 16": null
   },
   {
     "ID": "3519088",
@@ -10384,7 +10964,8 @@ const DOSAGEM_COBRICAO_DATA = [
     "Frente": "135 - PEDRINHO ",
     "Responsável": "MARCELO DE OLIVEIRA JUNIOR",
     "Dosagem de Produto - Cobrição": "1,04",
-    "Fazenda": NaN
+    "Fazenda": null,
+    "Unnamed: 16": null
   },
   {
     "ID": "3519087",
@@ -10402,7 +10983,8 @@ const DOSAGEM_COBRICAO_DATA = [
     "Frente": "135 - PEDRINHO ",
     "Responsável": "MARCELO DE OLIVEIRA JUNIOR",
     "Dosagem de Produto - Cobrição": "1,06",
-    "Fazenda": NaN
+    "Fazenda": null,
+    "Unnamed: 16": null
   },
   {
     "ID": "3519072",
@@ -10420,7 +11002,8 @@ const DOSAGEM_COBRICAO_DATA = [
     "Frente": "135 - PEDRINHO ",
     "Responsável": "MARCELO DE OLIVEIRA JUNIOR",
     "Dosagem de Produto - Cobrição": "1,06",
-    "Fazenda": NaN
+    "Fazenda": null,
+    "Unnamed: 16": null
   },
   {
     "ID": "3519056",
@@ -10438,7 +11021,8 @@ const DOSAGEM_COBRICAO_DATA = [
     "Frente": "135 - PEDRINHO ",
     "Responsável": "MARCELO DE OLIVEIRA JUNIOR",
     "Dosagem de Produto - Cobrição": "1,04",
-    "Fazenda": NaN
+    "Fazenda": null,
+    "Unnamed: 16": null
   },
   {
     "ID": "3518688",
@@ -10456,7 +11040,8 @@ const DOSAGEM_COBRICAO_DATA = [
     "Frente": "261 - FRENTE PRÓPRIA  (EDMILSON)",
     "Responsável": "VITOR AMORIM RAMOS ",
     "Dosagem de Produto - Cobrição": "1",
-    "Fazenda": NaN
+    "Fazenda": null,
+    "Unnamed: 16": null
   },
   {
     "ID": "3518687",
@@ -10474,7 +11059,8 @@ const DOSAGEM_COBRICAO_DATA = [
     "Frente": "261 - FRENTE PRÓPRIA  (EDMILSON)",
     "Responsável": "VITOR AMORIM RAMOS ",
     "Dosagem de Produto - Cobrição": "1",
-    "Fazenda": NaN
+    "Fazenda": null,
+    "Unnamed: 16": null
   },
   {
     "ID": "3518638",
@@ -10492,7 +11078,8 @@ const DOSAGEM_COBRICAO_DATA = [
     "Frente": "139 - FRENTE MANEZÃO",
     "Responsável": "MICHELI DE SOUZA SANTOS  ",
     "Dosagem de Produto - Cobrição": "1",
-    "Fazenda": NaN
+    "Fazenda": null,
+    "Unnamed: 16": null
   },
   {
     "ID": "3518632",
@@ -10510,7 +11097,8 @@ const DOSAGEM_COBRICAO_DATA = [
     "Frente": "139 - FRENTE MANEZÃO",
     "Responsável": "MICHELI DE SOUZA SANTOS  ",
     "Dosagem de Produto - Cobrição": "1",
-    "Fazenda": NaN
+    "Fazenda": null,
+    "Unnamed: 16": null
   },
   {
     "ID": "3518714",
@@ -10528,7 +11116,8 @@ const DOSAGEM_COBRICAO_DATA = [
     "Frente": "143 - FRENTE CASSIO",
     "Responsável": "GABRIEL HENRIQUE MARTINS PEREIRA",
     "Dosagem de Produto - Cobrição": "1,08",
-    "Fazenda": NaN
+    "Fazenda": null,
+    "Unnamed: 16": null
   },
   {
     "ID": "3518716",
@@ -10546,7 +11135,8 @@ const DOSAGEM_COBRICAO_DATA = [
     "Frente": "143 - FRENTE CASSIO",
     "Responsável": "GABRIEL HENRIQUE MARTINS PEREIRA",
     "Dosagem de Produto - Cobrição": "1,08",
-    "Fazenda": NaN
+    "Fazenda": null,
+    "Unnamed: 16": null
   },
   {
     "ID": "3518301",
@@ -10564,7 +11154,8 @@ const DOSAGEM_COBRICAO_DATA = [
     "Frente": "105 - FRENTE CASSIO",
     "Responsável": "NILDA CLAUDINO [2510716]",
     "Dosagem de Produto - Cobrição": "1,04",
-    "Fazenda": NaN
+    "Fazenda": null,
+    "Unnamed: 16": null
   },
   {
     "ID": "3518300",
@@ -10582,7 +11173,8 @@ const DOSAGEM_COBRICAO_DATA = [
     "Frente": "105 - FRENTE CASSIO",
     "Responsável": "NILDA CLAUDINO [2510716]",
     "Dosagem de Produto - Cobrição": "1,02",
-    "Fazenda": NaN
+    "Fazenda": null,
+    "Unnamed: 16": null
   },
   {
     "ID": "3518299",
@@ -10600,7 +11192,8 @@ const DOSAGEM_COBRICAO_DATA = [
     "Frente": "105 - FRENTE CASSIO (ZACARIAS)",
     "Responsável": "NILDA CLAUDINO [2510716]",
     "Dosagem de Produto - Cobrição": "1,02",
-    "Fazenda": NaN
+    "Fazenda": null,
+    "Unnamed: 16": null
   },
   {
     "ID": "3518298",
@@ -10618,7 +11211,8 @@ const DOSAGEM_COBRICAO_DATA = [
     "Frente": "105 - FRENTE CASSIO",
     "Responsável": "NILDA CLAUDINO [2510716]",
     "Dosagem de Produto - Cobrição": "1,02",
-    "Fazenda": NaN
+    "Fazenda": null,
+    "Unnamed: 16": null
   },
   {
     "ID": "3516429",
@@ -10636,7 +11230,8 @@ const DOSAGEM_COBRICAO_DATA = [
     "Frente": "105 - FRENTE CASSIO",
     "Responsável": "NILDA CLAUDINO [2510716]",
     "Dosagem de Produto - Cobrição": "1,12",
-    "Fazenda": NaN
+    "Fazenda": null,
+    "Unnamed: 16": null
   },
   {
     "ID": "3516430",
@@ -10654,7 +11249,8 @@ const DOSAGEM_COBRICAO_DATA = [
     "Frente": "105 - FRENTE CASSIO",
     "Responsável": "NILDA CLAUDINO [2510716]",
     "Dosagem de Produto - Cobrição": "1,1",
-    "Fazenda": NaN
+    "Fazenda": null,
+    "Unnamed: 16": null
   },
   {
     "ID": "3516431",
@@ -10672,7 +11268,8 @@ const DOSAGEM_COBRICAO_DATA = [
     "Frente": "105 - FRENTE CASSIO",
     "Responsável": "NILDA CLAUDINO [2510716]",
     "Dosagem de Produto - Cobrição": "1,09",
-    "Fazenda": NaN
+    "Fazenda": null,
+    "Unnamed: 16": null
   },
   {
     "ID": "3516428",
@@ -10690,7 +11287,8 @@ const DOSAGEM_COBRICAO_DATA = [
     "Frente": "105 - FRENTE CASSIO",
     "Responsável": "NILDA CLAUDINO [2510716]",
     "Dosagem de Produto - Cobrição": "1,1",
-    "Fazenda": NaN
+    "Fazenda": null,
+    "Unnamed: 16": null
   },
   {
     "ID": "3516283",
@@ -10708,7 +11306,8 @@ const DOSAGEM_COBRICAO_DATA = [
     "Frente": "142 - FRENTE BIDU",
     "Responsável": "VITOR AMORIM RAMOS ",
     "Dosagem de Produto - Cobrição": "0,9",
-    "Fazenda": NaN
+    "Fazenda": null,
+    "Unnamed: 16": null
   },
   {
     "ID": "3516284",
@@ -10726,7 +11325,8 @@ const DOSAGEM_COBRICAO_DATA = [
     "Frente": "142 - FRENTE BIDU",
     "Responsável": "VITOR AMORIM RAMOS ",
     "Dosagem de Produto - Cobrição": "0,92",
-    "Fazenda": NaN
+    "Fazenda": null,
+    "Unnamed: 16": null
   },
   {
     "ID": "3516609",
@@ -10744,7 +11344,8 @@ const DOSAGEM_COBRICAO_DATA = [
     "Frente": "135 - PEDRINHO ",
     "Responsável": "MARCELO DE OLIVEIRA JUNIOR",
     "Dosagem de Produto - Cobrição": "1,1",
-    "Fazenda": NaN
+    "Fazenda": null,
+    "Unnamed: 16": null
   },
   {
     "ID": "3516608",
@@ -10762,7 +11363,8 @@ const DOSAGEM_COBRICAO_DATA = [
     "Frente": "135 - PEDRINHO ",
     "Responsável": "MARCELO DE OLIVEIRA JUNIOR",
     "Dosagem de Produto - Cobrição": "1,04",
-    "Fazenda": NaN
+    "Fazenda": null,
+    "Unnamed: 16": null
   },
   {
     "ID": "3516625",
@@ -10780,7 +11382,8 @@ const DOSAGEM_COBRICAO_DATA = [
     "Frente": "261 - FRENTE PRÓPRIA  (EDMILSON)",
     "Responsável": "FERNANDA DE SOUZA ",
     "Dosagem de Produto - Cobrição": "1",
-    "Fazenda": NaN
+    "Fazenda": null,
+    "Unnamed: 16": null
   },
   {
     "ID": "3516624",
@@ -10798,7 +11401,8 @@ const DOSAGEM_COBRICAO_DATA = [
     "Frente": "261 - FRENTE PRÓPRIA  (EDMILSON)",
     "Responsável": "FERNANDA DE SOUZA ",
     "Dosagem de Produto - Cobrição": "1",
-    "Fazenda": NaN
+    "Fazenda": null,
+    "Unnamed: 16": null
   },
   {
     "ID": "3516622",
@@ -10816,7 +11420,8 @@ const DOSAGEM_COBRICAO_DATA = [
     "Frente": "101 - FRENTE MECANIZADA",
     "Responsável": "FERNANDA DE SOUZA ",
     "Dosagem de Produto - Cobrição": "1",
-    "Fazenda": NaN
+    "Fazenda": null,
+    "Unnamed: 16": null
   },
   {
     "ID": "3516623",
@@ -10834,7 +11439,8 @@ const DOSAGEM_COBRICAO_DATA = [
     "Frente": "101 - FRENTE MECANIZADA",
     "Responsável": "FERNANDA DE SOUZA ",
     "Dosagem de Produto - Cobrição": "1",
-    "Fazenda": NaN
+    "Fazenda": null,
+    "Unnamed: 16": null
   },
   {
     "ID": "3516571",
@@ -10852,7 +11458,8 @@ const DOSAGEM_COBRICAO_DATA = [
     "Frente": "135 - PEDRINHO ",
     "Responsável": "MARCELO DE OLIVEIRA JUNIOR",
     "Dosagem de Produto - Cobrição": "1,08",
-    "Fazenda": NaN
+    "Fazenda": null,
+    "Unnamed: 16": null
   },
   {
     "ID": "3516570",
@@ -10870,7 +11477,8 @@ const DOSAGEM_COBRICAO_DATA = [
     "Frente": "135 - PEDRINHO ",
     "Responsável": "MARCELO DE OLIVEIRA JUNIOR",
     "Dosagem de Produto - Cobrição": "1,12",
-    "Fazenda": NaN
+    "Fazenda": null,
+    "Unnamed: 16": null
   },
   {
     "ID": "3514283",
@@ -10888,7 +11496,8 @@ const DOSAGEM_COBRICAO_DATA = [
     "Frente": "142 - FRENTE BIDU",
     "Responsável": "MARCELO DE OLIVEIRA JUNIOR",
     "Dosagem de Produto - Cobrição": "1,08",
-    "Fazenda": NaN
+    "Fazenda": null,
+    "Unnamed: 16": null
   },
   {
     "ID": "3514282",
@@ -10906,7 +11515,8 @@ const DOSAGEM_COBRICAO_DATA = [
     "Frente": "142 - FRENTE BIDU",
     "Responsável": "MARCELO DE OLIVEIRA JUNIOR",
     "Dosagem de Produto - Cobrição": "1,1",
-    "Fazenda": NaN
+    "Fazenda": null,
+    "Unnamed: 16": null
   },
   {
     "ID": "3513549",
@@ -10924,7 +11534,8 @@ const DOSAGEM_COBRICAO_DATA = [
     "Frente": "139 - FRENTE MANEZÃO",
     "Responsável": "MICHELI DE SOUZA SANTOS  ",
     "Dosagem de Produto - Cobrição": "1,08",
-    "Fazenda": NaN
+    "Fazenda": null,
+    "Unnamed: 16": null
   },
   {
     "ID": "3513548",
@@ -10942,7 +11553,8 @@ const DOSAGEM_COBRICAO_DATA = [
     "Frente": "139 - FRENTE MANEZÃO",
     "Responsável": "MICHELI DE SOUZA SANTOS  ",
     "Dosagem de Produto - Cobrição": "1,08",
-    "Fazenda": NaN
+    "Fazenda": null,
+    "Unnamed: 16": null
   },
   {
     "ID": "3513455",
@@ -10960,7 +11572,8 @@ const DOSAGEM_COBRICAO_DATA = [
     "Frente": "101 - FRENTE MECANIZADA",
     "Responsável": "FERNANDA DE SOUZA ",
     "Dosagem de Produto - Cobrição": "1",
-    "Fazenda": NaN
+    "Fazenda": null,
+    "Unnamed: 16": null
   },
   {
     "ID": "3513454",
@@ -10978,7 +11591,8 @@ const DOSAGEM_COBRICAO_DATA = [
     "Frente": "101 - FRENTE MECANIZADA",
     "Responsável": "FERNANDA DE SOUZA ",
     "Dosagem de Produto - Cobrição": "1,1",
-    "Fazenda": NaN
+    "Fazenda": null,
+    "Unnamed: 16": null
   },
   {
     "ID": "3514180",
@@ -10996,7 +11610,8 @@ const DOSAGEM_COBRICAO_DATA = [
     "Frente": "135 - PEDRINHO ",
     "Responsável": "MARCELO DE OLIVEIRA JUNIOR",
     "Dosagem de Produto - Cobrição": "1",
-    "Fazenda": NaN
+    "Fazenda": null,
+    "Unnamed: 16": null
   },
   {
     "ID": "3514179",
@@ -11014,7 +11629,8 @@ const DOSAGEM_COBRICAO_DATA = [
     "Frente": "135 - PEDRINHO ",
     "Responsável": "MARCELO DE OLIVEIRA JUNIOR",
     "Dosagem de Produto - Cobrição": "1,06",
-    "Fazenda": NaN
+    "Fazenda": null,
+    "Unnamed: 16": null
   },
   {
     "ID": "3513351",
@@ -11032,7 +11648,8 @@ const DOSAGEM_COBRICAO_DATA = [
     "Frente": "105 - FRENTE CASSIO (ZACARIAS)",
     "Responsável": "NILDA CLAUDINO [2510716]",
     "Dosagem de Produto - Cobrição": "1,11",
-    "Fazenda": NaN
+    "Fazenda": null,
+    "Unnamed: 16": null
   },
   {
     "ID": "3513350",
@@ -11050,7 +11667,8 @@ const DOSAGEM_COBRICAO_DATA = [
     "Frente": "105 - FRENTE CASSIO (ZACARIAS)",
     "Responsável": "NILDA CLAUDINO [2510716]",
     "Dosagem de Produto - Cobrição": "1,12",
-    "Fazenda": NaN
+    "Fazenda": null,
+    "Unnamed: 16": null
   },
   {
     "ID": "3513354",
@@ -11068,7 +11686,8 @@ const DOSAGEM_COBRICAO_DATA = [
     "Frente": "105 - FRENTE CASSIO (ZACARIAS)",
     "Responsável": "NILDA CLAUDINO [2510716]",
     "Dosagem de Produto - Cobrição": "1,1",
-    "Fazenda": NaN
+    "Fazenda": null,
+    "Unnamed: 16": null
   },
   {
     "ID": "3513349",
@@ -11086,7 +11705,8 @@ const DOSAGEM_COBRICAO_DATA = [
     "Frente": "105 - FRENTE CASSIO (ZACARIAS)",
     "Responsável": "NILDA CLAUDINO [2510716]",
     "Dosagem de Produto - Cobrição": "1,1",
-    "Fazenda": NaN
+    "Fazenda": null,
+    "Unnamed: 16": null
   },
   {
     "ID": "3513347",
@@ -11104,7 +11724,8 @@ const DOSAGEM_COBRICAO_DATA = [
     "Frente": "105 - FRENTE CASSIO (ZACARIAS)",
     "Responsável": "NILDA CLAUDINO [2510716]",
     "Dosagem de Produto - Cobrição": "1,1",
-    "Fazenda": NaN
+    "Fazenda": null,
+    "Unnamed: 16": null
   },
   {
     "ID": "3513342",
@@ -11122,7 +11743,8 @@ const DOSAGEM_COBRICAO_DATA = [
     "Frente": "105 - FRENTE CASSIO (ZACARIAS)",
     "Responsável": "NILDA CLAUDINO [2510716]",
     "Dosagem de Produto - Cobrição": "1,1",
-    "Fazenda": NaN
+    "Fazenda": null,
+    "Unnamed: 16": null
   },
   {
     "ID": "3511758",
@@ -11140,7 +11762,8 @@ const DOSAGEM_COBRICAO_DATA = [
     "Frente": "101 - FRENTE MECANIZADA",
     "Responsável": "FERNANDA DE SOUZA ",
     "Dosagem de Produto - Cobrição": "1",
-    "Fazenda": NaN
+    "Fazenda": null,
+    "Unnamed: 16": null
   },
   {
     "ID": "3511757",
@@ -11158,7 +11781,8 @@ const DOSAGEM_COBRICAO_DATA = [
     "Frente": "101 - FRENTE MECANIZADA",
     "Responsável": "FERNANDA DE SOUZA ",
     "Dosagem de Produto - Cobrição": "1",
-    "Fazenda": NaN
+    "Fazenda": null,
+    "Unnamed: 16": null
   },
   {
     "ID": "3511721",
@@ -11176,7 +11800,8 @@ const DOSAGEM_COBRICAO_DATA = [
     "Frente": "142 - FRENTE BIDU",
     "Responsável": "VITOR AMORIM RAMOS ",
     "Dosagem de Produto - Cobrição": "1",
-    "Fazenda": NaN
+    "Fazenda": null,
+    "Unnamed: 16": null
   },
   {
     "ID": "3511722",
@@ -11194,7 +11819,8 @@ const DOSAGEM_COBRICAO_DATA = [
     "Frente": "142 - FRENTE BIDU",
     "Responsável": "VITOR AMORIM RAMOS ",
     "Dosagem de Produto - Cobrição": "1",
-    "Fazenda": NaN
+    "Fazenda": null,
+    "Unnamed: 16": null
   },
   {
     "ID": "3511720",
@@ -11212,7 +11838,8 @@ const DOSAGEM_COBRICAO_DATA = [
     "Frente": "142 - FRENTE BIDU",
     "Responsável": "VITOR AMORIM RAMOS ",
     "Dosagem de Produto - Cobrição": "1",
-    "Fazenda": NaN
+    "Fazenda": null,
+    "Unnamed: 16": null
   },
   {
     "ID": "3511719",
@@ -11230,7 +11857,8 @@ const DOSAGEM_COBRICAO_DATA = [
     "Frente": "142 - FRENTE BIDU",
     "Responsável": "VITOR AMORIM RAMOS ",
     "Dosagem de Produto - Cobrição": "1,1",
-    "Fazenda": NaN
+    "Fazenda": null,
+    "Unnamed: 16": null
   },
   {
     "ID": "3511718",
@@ -11248,7 +11876,8 @@ const DOSAGEM_COBRICAO_DATA = [
     "Frente": "142 - FRENTE BIDU",
     "Responsável": "VITOR AMORIM RAMOS ",
     "Dosagem de Produto - Cobrição": "1",
-    "Fazenda": NaN
+    "Fazenda": null,
+    "Unnamed: 16": null
   },
   {
     "ID": "3511717",
@@ -11266,7 +11895,8 @@ const DOSAGEM_COBRICAO_DATA = [
     "Frente": "142 - FRENTE BIDU",
     "Responsável": "VITOR AMORIM RAMOS ",
     "Dosagem de Produto - Cobrição": "1",
-    "Fazenda": NaN
+    "Fazenda": null,
+    "Unnamed: 16": null
   },
   {
     "ID": "3511716",
@@ -11284,7 +11914,8 @@ const DOSAGEM_COBRICAO_DATA = [
     "Frente": "142 - FRENTE BIDU",
     "Responsável": "VITOR AMORIM RAMOS ",
     "Dosagem de Produto - Cobrição": "1",
-    "Fazenda": NaN
+    "Fazenda": null,
+    "Unnamed: 16": null
   },
   {
     "ID": "3511715",
@@ -11302,7 +11933,8 @@ const DOSAGEM_COBRICAO_DATA = [
     "Frente": "142 - FRENTE BIDU",
     "Responsável": "VITOR AMORIM RAMOS ",
     "Dosagem de Produto - Cobrição": "1",
-    "Fazenda": NaN
+    "Fazenda": null,
+    "Unnamed: 16": null
   },
   {
     "ID": "3511819",
@@ -11320,7 +11952,8 @@ const DOSAGEM_COBRICAO_DATA = [
     "Frente": "143 - FRENTE CASSIO",
     "Responsável": "GABRIEL HENRIQUE MARTINS PEREIRA",
     "Dosagem de Produto - Cobrição": "1,1",
-    "Fazenda": NaN
+    "Fazenda": null,
+    "Unnamed: 16": null
   },
   {
     "ID": "3511817",
@@ -11338,7 +11971,8 @@ const DOSAGEM_COBRICAO_DATA = [
     "Frente": "143 - FRENTE CASSIO",
     "Responsável": "GABRIEL HENRIQUE MARTINS PEREIRA",
     "Dosagem de Produto - Cobrição": "1,1",
-    "Fazenda": NaN
+    "Fazenda": null,
+    "Unnamed: 16": null
   },
   {
     "ID": "3511816",
@@ -11356,7 +11990,8 @@ const DOSAGEM_COBRICAO_DATA = [
     "Frente": "143 - FRENTE CASSIO",
     "Responsável": "GABRIEL HENRIQUE MARTINS PEREIRA",
     "Dosagem de Produto - Cobrição": "1",
-    "Fazenda": NaN
+    "Fazenda": null,
+    "Unnamed: 16": null
   },
   {
     "ID": "3511815",
@@ -11374,7 +12009,8 @@ const DOSAGEM_COBRICAO_DATA = [
     "Frente": "143 - FRENTE CASSIO",
     "Responsável": "GABRIEL HENRIQUE MARTINS PEREIRA",
     "Dosagem de Produto - Cobrição": "1,02",
-    "Fazenda": NaN
+    "Fazenda": null,
+    "Unnamed: 16": null
   },
   {
     "ID": "3511676",
@@ -11392,7 +12028,8 @@ const DOSAGEM_COBRICAO_DATA = [
     "Frente": "142 - FRENTE BIDU",
     "Responsável": "VITOR AMORIM RAMOS ",
     "Dosagem de Produto - Cobrição": "1,1",
-    "Fazenda": NaN
+    "Fazenda": null,
+    "Unnamed: 16": null
   },
   {
     "ID": "3511675",
@@ -11410,7 +12047,8 @@ const DOSAGEM_COBRICAO_DATA = [
     "Frente": "142 - FRENTE BIDU",
     "Responsável": "VITOR AMORIM RAMOS ",
     "Dosagem de Produto - Cobrição": "1",
-    "Fazenda": NaN
+    "Fazenda": null,
+    "Unnamed: 16": null
   },
   {
     "ID": "3511664",
@@ -11428,7 +12066,8 @@ const DOSAGEM_COBRICAO_DATA = [
     "Frente": "142 - FRENTE BIDU",
     "Responsável": "VITOR AMORIM RAMOS ",
     "Dosagem de Produto - Cobrição": "1",
-    "Fazenda": NaN
+    "Fazenda": null,
+    "Unnamed: 16": null
   },
   {
     "ID": "3511662",
@@ -11446,7 +12085,8 @@ const DOSAGEM_COBRICAO_DATA = [
     "Frente": "142 - FRENTE BIDU",
     "Responsável": "VITOR AMORIM RAMOS ",
     "Dosagem de Produto - Cobrição": "1,1",
-    "Fazenda": NaN
+    "Fazenda": null,
+    "Unnamed: 16": null
   },
   {
     "ID": "3511292",
@@ -11464,7 +12104,8 @@ const DOSAGEM_COBRICAO_DATA = [
     "Frente": "105 - FRENTE CASSIO",
     "Responsável": "NILDA CLAUDINO [2510716]",
     "Dosagem de Produto - Cobrição": "0,11",
-    "Fazenda": NaN
+    "Fazenda": null,
+    "Unnamed: 16": null
   },
   {
     "ID": "3511291",
@@ -11482,7 +12123,8 @@ const DOSAGEM_COBRICAO_DATA = [
     "Frente": "105 - FRENTE CASSIO (ZACARIAS)",
     "Responsável": "NILDA CLAUDINO [2510716]",
     "Dosagem de Produto - Cobrição": "0,12",
-    "Fazenda": NaN
+    "Fazenda": null,
+    "Unnamed: 16": null
   },
   {
     "ID": "3511290",
@@ -11500,7 +12142,8 @@ const DOSAGEM_COBRICAO_DATA = [
     "Frente": "105 - FRENTE CASSIO (ZACARIAS)",
     "Responsável": "NILDA CLAUDINO [2510716]",
     "Dosagem de Produto - Cobrição": "1,1",
-    "Fazenda": NaN
+    "Fazenda": null,
+    "Unnamed: 16": null
   },
   {
     "ID": "3511289",
@@ -11518,7 +12161,8 @@ const DOSAGEM_COBRICAO_DATA = [
     "Frente": "105 - FRENTE CASSIO",
     "Responsável": "NILDA CLAUDINO [2510716]",
     "Dosagem de Produto - Cobrição": "0,11",
-    "Fazenda": NaN
+    "Fazenda": null,
+    "Unnamed: 16": null
   },
   {
     "ID": "3511284",
@@ -11536,7 +12180,8 @@ const DOSAGEM_COBRICAO_DATA = [
     "Frente": "105 - FRENTE CASSIO",
     "Responsável": "NILDA CLAUDINO [2510716]",
     "Dosagem de Produto - Cobrição": "0,12",
-    "Fazenda": NaN
+    "Fazenda": null,
+    "Unnamed: 16": null
   },
   {
     "ID": "3511283",
@@ -11554,7 +12199,8 @@ const DOSAGEM_COBRICAO_DATA = [
     "Frente": "105 - FRENTE CASSIO",
     "Responsável": "NILDA CLAUDINO [2510716]",
     "Dosagem de Produto - Cobrição": "0,12",
-    "Fazenda": NaN
+    "Fazenda": null,
+    "Unnamed: 16": null
   },
   {
     "ID": "3509551",
@@ -11572,7 +12218,8 @@ const DOSAGEM_COBRICAO_DATA = [
     "Frente": "135 - PEDRINHO ",
     "Responsável": "MARCELO DE OLIVEIRA JUNIOR",
     "Dosagem de Produto - Cobrição": "1,06",
-    "Fazenda": NaN
+    "Fazenda": null,
+    "Unnamed: 16": null
   },
   {
     "ID": "3509550",
@@ -11590,7 +12237,8 @@ const DOSAGEM_COBRICAO_DATA = [
     "Frente": "135 - PEDRINHO ",
     "Responsável": "MARCELO DE OLIVEIRA JUNIOR",
     "Dosagem de Produto - Cobrição": "1,04",
-    "Fazenda": NaN
+    "Fazenda": null,
+    "Unnamed: 16": null
   },
   {
     "ID": "3509546",
@@ -11608,7 +12256,8 @@ const DOSAGEM_COBRICAO_DATA = [
     "Frente": "135 - PEDRINHO ",
     "Responsável": "MARCELO DE OLIVEIRA JUNIOR",
     "Dosagem de Produto - Cobrição": "1,06",
-    "Fazenda": NaN
+    "Fazenda": null,
+    "Unnamed: 16": null
   },
   {
     "ID": "3509545",
@@ -11626,7 +12275,8 @@ const DOSAGEM_COBRICAO_DATA = [
     "Frente": "135 - PEDRINHO ",
     "Responsável": "MARCELO DE OLIVEIRA JUNIOR",
     "Dosagem de Produto - Cobrição": "1,04",
-    "Fazenda": NaN
+    "Fazenda": null,
+    "Unnamed: 16": null
   },
   {
     "ID": "3509544",
@@ -11644,7 +12294,8 @@ const DOSAGEM_COBRICAO_DATA = [
     "Frente": "135 - PEDRINHO ",
     "Responsável": "MARCELO DE OLIVEIRA JUNIOR",
     "Dosagem de Produto - Cobrição": "1,06",
-    "Fazenda": NaN
+    "Fazenda": null,
+    "Unnamed: 16": null
   },
   {
     "ID": "3509543",
@@ -11662,7 +12313,8 @@ const DOSAGEM_COBRICAO_DATA = [
     "Frente": "135 - PEDRINHO ",
     "Responsável": "MARCELO DE OLIVEIRA JUNIOR",
     "Dosagem de Produto - Cobrição": "1,04",
-    "Fazenda": NaN
+    "Fazenda": null,
+    "Unnamed: 16": null
   },
   {
     "ID": "3509255",
@@ -11680,7 +12332,8 @@ const DOSAGEM_COBRICAO_DATA = [
     "Frente": "142 - FRENTE BIDU",
     "Responsável": "MICHELI DE SOUZA SANTOS  ",
     "Dosagem de Produto - Cobrição": "1",
-    "Fazenda": NaN
+    "Fazenda": null,
+    "Unnamed: 16": null
   },
   {
     "ID": "3509254",
@@ -11698,7 +12351,8 @@ const DOSAGEM_COBRICAO_DATA = [
     "Frente": "142 - FRENTE BIDU",
     "Responsável": "MICHELI DE SOUZA SANTOS  ",
     "Dosagem de Produto - Cobrição": "1",
-    "Fazenda": NaN
+    "Fazenda": null,
+    "Unnamed: 16": null
   },
   {
     "ID": "3509327",
@@ -11716,7 +12370,8 @@ const DOSAGEM_COBRICAO_DATA = [
     "Frente": "105 - FRENTE CASSIO",
     "Responsável": "NILDA CLAUDINO [2510716]",
     "Dosagem de Produto - Cobrição": "0,14",
-    "Fazenda": NaN
+    "Fazenda": null,
+    "Unnamed: 16": null
   },
   {
     "ID": "3509326",
@@ -11734,7 +12389,8 @@ const DOSAGEM_COBRICAO_DATA = [
     "Frente": "105 - FRENTE CASSIO (ZACARIAS)",
     "Responsável": "NILDA CLAUDINO [2510716]",
     "Dosagem de Produto - Cobrição": "0,19",
-    "Fazenda": NaN
+    "Fazenda": null,
+    "Unnamed: 16": null
   },
   {
     "ID": "3509602",
@@ -11752,7 +12408,8 @@ const DOSAGEM_COBRICAO_DATA = [
     "Frente": "139 - FRENTE MANEZÃO",
     "Responsável": "FERNANDA DE SOUZA ",
     "Dosagem de Produto - Cobrição": "1,1",
-    "Fazenda": NaN
+    "Fazenda": null,
+    "Unnamed: 16": null
   },
   {
     "ID": "3509601",
@@ -11770,7 +12427,8 @@ const DOSAGEM_COBRICAO_DATA = [
     "Frente": "139 - FRENTE MANEZÃO",
     "Responsável": "FERNANDA DE SOUZA ",
     "Dosagem de Produto - Cobrição": "1,1",
-    "Fazenda": NaN
+    "Fazenda": null,
+    "Unnamed: 16": null
   },
   {
     "ID": "3509325",
@@ -11788,7 +12446,8 @@ const DOSAGEM_COBRICAO_DATA = [
     "Frente": "105 - FRENTE CASSIO (ZACARIAS)",
     "Responsável": "NILDA CLAUDINO [2510716]",
     "Dosagem de Produto - Cobrição": "0,9",
-    "Fazenda": NaN
+    "Fazenda": null,
+    "Unnamed: 16": null
   },
   {
     "ID": "3509324",
@@ -11806,7 +12465,8 @@ const DOSAGEM_COBRICAO_DATA = [
     "Frente": "105 - FRENTE CASSIO",
     "Responsável": "NILDA CLAUDINO [2510716]",
     "Dosagem de Produto - Cobrição": "1,1",
-    "Fazenda": NaN
+    "Fazenda": null,
+    "Unnamed: 16": null
   },
   {
     "ID": "3498717",
@@ -11824,7 +12484,8 @@ const DOSAGEM_COBRICAO_DATA = [
     "Frente": "261 - FRENTE PRÓPRIA  (EDMILSON)",
     "Responsável": "VITOR AMORIM RAMOS ",
     "Dosagem de Produto - Cobrição": "1,1",
-    "Fazenda": NaN
+    "Fazenda": null,
+    "Unnamed: 16": null
   },
   {
     "ID": "3498716",
@@ -11842,7 +12503,8 @@ const DOSAGEM_COBRICAO_DATA = [
     "Frente": "261 - FRENTE PRÓPRIA  (EDMILSON)",
     "Responsável": "VITOR AMORIM RAMOS ",
     "Dosagem de Produto - Cobrição": "1,1",
-    "Fazenda": NaN
+    "Fazenda": null,
+    "Unnamed: 16": null
   },
   {
     "ID": "3498714",
@@ -11860,7 +12522,8 @@ const DOSAGEM_COBRICAO_DATA = [
     "Frente": "261 - FRENTE PRÓPRIA  (EDMILSON)",
     "Responsável": "VITOR AMORIM RAMOS ",
     "Dosagem de Produto - Cobrição": "1,1",
-    "Fazenda": NaN
+    "Fazenda": null,
+    "Unnamed: 16": null
   },
   {
     "ID": "3498713",
@@ -11878,7 +12541,8 @@ const DOSAGEM_COBRICAO_DATA = [
     "Frente": "261 - FRENTE PRÓPRIA  (EDMILSON)",
     "Responsável": "VITOR AMORIM RAMOS ",
     "Dosagem de Produto - Cobrição": "1,1",
-    "Fazenda": NaN
+    "Fazenda": null,
+    "Unnamed: 16": null
   },
   {
     "ID": "3498712",
@@ -11896,7 +12560,8 @@ const DOSAGEM_COBRICAO_DATA = [
     "Frente": "261 - FRENTE PRÓPRIA  (EDMILSON)",
     "Responsável": "VITOR AMORIM RAMOS ",
     "Dosagem de Produto - Cobrição": "1,1",
-    "Fazenda": NaN
+    "Fazenda": null,
+    "Unnamed: 16": null
   },
   {
     "ID": "3498711",
@@ -11914,7 +12579,8 @@ const DOSAGEM_COBRICAO_DATA = [
     "Frente": "261 - FRENTE PRÓPRIA  (EDMILSON)",
     "Responsável": "VITOR AMORIM RAMOS ",
     "Dosagem de Produto - Cobrição": "1,1",
-    "Fazenda": NaN
+    "Fazenda": null,
+    "Unnamed: 16": null
   },
   {
     "ID": "3498551",
@@ -11932,7 +12598,8 @@ const DOSAGEM_COBRICAO_DATA = [
     "Frente": "139 - FRENTE MANEZÃO",
     "Responsável": "FERNANDA DE SOUZA ",
     "Dosagem de Produto - Cobrição": "1,1",
-    "Fazenda": NaN
+    "Fazenda": null,
+    "Unnamed: 16": null
   },
   {
     "ID": "3498550",
@@ -11950,7 +12617,8 @@ const DOSAGEM_COBRICAO_DATA = [
     "Frente": "139 - FRENTE MANEZÃO",
     "Responsável": "FERNANDA DE SOUZA ",
     "Dosagem de Produto - Cobrição": "1,1",
-    "Fazenda": NaN
+    "Fazenda": null,
+    "Unnamed: 16": null
   },
   {
     "ID": "3498035",
@@ -11968,7 +12636,8 @@ const DOSAGEM_COBRICAO_DATA = [
     "Frente": "142 - FRENTE BIDU",
     "Responsável": "GLEISON FELIPE BORGES DE MATOS",
     "Dosagem de Produto - Cobrição": "1,12",
-    "Fazenda": NaN
+    "Fazenda": null,
+    "Unnamed: 16": null
   },
   {
     "ID": "3498034",
@@ -11986,7 +12655,8 @@ const DOSAGEM_COBRICAO_DATA = [
     "Frente": "142 - FRENTE BIDU",
     "Responsável": "GLEISON FELIPE BORGES DE MATOS",
     "Dosagem de Produto - Cobrição": "1,11",
-    "Fazenda": NaN
+    "Fazenda": null,
+    "Unnamed: 16": null
   },
   {
     "ID": "3498033",
@@ -12004,7 +12674,8 @@ const DOSAGEM_COBRICAO_DATA = [
     "Frente": "142 - FRENTE BIDU",
     "Responsável": "GLEISON FELIPE BORGES DE MATOS",
     "Dosagem de Produto - Cobrição": "1,1",
-    "Fazenda": NaN
+    "Fazenda": null,
+    "Unnamed: 16": null
   },
   {
     "ID": "3498032",
@@ -12022,7 +12693,8 @@ const DOSAGEM_COBRICAO_DATA = [
     "Frente": "142 - FRENTE BIDU",
     "Responsável": "GLEISON FELIPE BORGES DE MATOS",
     "Dosagem de Produto - Cobrição": "1,08",
-    "Fazenda": NaN
+    "Fazenda": null,
+    "Unnamed: 16": null
   },
   {
     "ID": "3496807",
@@ -12040,7 +12712,8 @@ const DOSAGEM_COBRICAO_DATA = [
     "Frente": "135 - PEDRINHO ",
     "Responsável": "MARCELO DE OLIVEIRA JUNIOR",
     "Dosagem de Produto - Cobrição": "1",
-    "Fazenda": NaN
+    "Fazenda": null,
+    "Unnamed: 16": null
   },
   {
     "ID": "3496806",
@@ -12058,7 +12731,8 @@ const DOSAGEM_COBRICAO_DATA = [
     "Frente": "135 - PEDRINHO ",
     "Responsável": "MARCELO DE OLIVEIRA JUNIOR",
     "Dosagem de Produto - Cobrição": "1,06",
-    "Fazenda": NaN
+    "Fazenda": null,
+    "Unnamed: 16": null
   },
   {
     "ID": "3496805",
@@ -12076,7 +12750,8 @@ const DOSAGEM_COBRICAO_DATA = [
     "Frente": "135 - PEDRINHO ",
     "Responsável": "MARCELO DE OLIVEIRA JUNIOR",
     "Dosagem de Produto - Cobrição": "1,04",
-    "Fazenda": NaN
+    "Fazenda": null,
+    "Unnamed: 16": null
   },
   {
     "ID": "3496804",
@@ -12094,7 +12769,8 @@ const DOSAGEM_COBRICAO_DATA = [
     "Frente": "135 - PEDRINHO ",
     "Responsável": "MARCELO DE OLIVEIRA JUNIOR",
     "Dosagem de Produto - Cobrição": "1,06",
-    "Fazenda": NaN
+    "Fazenda": null,
+    "Unnamed: 16": null
   },
   {
     "ID": "3496803",
@@ -12112,7 +12788,8 @@ const DOSAGEM_COBRICAO_DATA = [
     "Frente": "135 - PEDRINHO ",
     "Responsável": "MARCELO DE OLIVEIRA JUNIOR",
     "Dosagem de Produto - Cobrição": "1",
-    "Fazenda": NaN
+    "Fazenda": null,
+    "Unnamed: 16": null
   },
   {
     "ID": "3496802",
@@ -12130,7 +12807,8 @@ const DOSAGEM_COBRICAO_DATA = [
     "Frente": "135 - PEDRINHO ",
     "Responsável": "MARCELO DE OLIVEIRA JUNIOR",
     "Dosagem de Produto - Cobrição": "1,06",
-    "Fazenda": NaN
+    "Fazenda": null,
+    "Unnamed: 16": null
   },
   {
     "ID": "3496801",
@@ -12148,7 +12826,8 @@ const DOSAGEM_COBRICAO_DATA = [
     "Frente": "135 - PEDRINHO ",
     "Responsável": "MARCELO DE OLIVEIRA JUNIOR",
     "Dosagem de Produto - Cobrição": "1,04",
-    "Fazenda": NaN
+    "Fazenda": null,
+    "Unnamed: 16": null
   },
   {
     "ID": "3496800",
@@ -12166,7 +12845,8 @@ const DOSAGEM_COBRICAO_DATA = [
     "Frente": "135 - PEDRINHO ",
     "Responsável": "MARCELO DE OLIVEIRA JUNIOR",
     "Dosagem de Produto - Cobrição": "1,06",
-    "Fazenda": NaN
+    "Fazenda": null,
+    "Unnamed: 16": null
   },
   {
     "ID": "3496216",
@@ -12184,7 +12864,8 @@ const DOSAGEM_COBRICAO_DATA = [
     "Frente": "142 - FRENTE BIDU",
     "Responsável": "GLEISON FELIPE BORGES DE MATOS",
     "Dosagem de Produto - Cobrição": "1,14",
-    "Fazenda": NaN
+    "Fazenda": null,
+    "Unnamed: 16": null
   },
   {
     "ID": "3496215",
@@ -12202,7 +12883,8 @@ const DOSAGEM_COBRICAO_DATA = [
     "Frente": "142 - FRENTE BIDU",
     "Responsável": "GLEISON FELIPE BORGES DE MATOS",
     "Dosagem de Produto - Cobrição": "1,1",
-    "Fazenda": NaN
+    "Fazenda": null,
+    "Unnamed: 16": null
   },
   {
     "ID": "3496664",
@@ -12220,7 +12902,8 @@ const DOSAGEM_COBRICAO_DATA = [
     "Frente": "105 - FRENTE CASSIO",
     "Responsável": "FERNANDA DE SOUZA ",
     "Dosagem de Produto - Cobrição": "1,1",
-    "Fazenda": NaN
+    "Fazenda": null,
+    "Unnamed: 16": null
   },
   {
     "ID": "3496663",
@@ -12238,7 +12921,8 @@ const DOSAGEM_COBRICAO_DATA = [
     "Frente": "105 - FRENTE CASSIO",
     "Responsável": "FERNANDA DE SOUZA ",
     "Dosagem de Produto - Cobrição": "1,1",
-    "Fazenda": NaN
+    "Fazenda": null,
+    "Unnamed: 16": null
   },
   {
     "ID": "3495232",
@@ -12256,7 +12940,8 @@ const DOSAGEM_COBRICAO_DATA = [
     "Frente": "135 - PEDRINHO ",
     "Responsável": "MARCELO DE OLIVEIRA JUNIOR",
     "Dosagem de Produto - Cobrição": "1,1",
-    "Fazenda": NaN
+    "Fazenda": null,
+    "Unnamed: 16": null
   },
   {
     "ID": "3495231",
@@ -12274,7 +12959,8 @@ const DOSAGEM_COBRICAO_DATA = [
     "Frente": "135 - PEDRINHO ",
     "Responsável": "MARCELO DE OLIVEIRA JUNIOR",
     "Dosagem de Produto - Cobrição": "1,06",
-    "Fazenda": NaN
+    "Fazenda": null,
+    "Unnamed: 16": null
   },
   {
     "ID": "3495230",
@@ -12292,7 +12978,8 @@ const DOSAGEM_COBRICAO_DATA = [
     "Frente": "135 - PEDRINHO ",
     "Responsável": "MARCELO DE OLIVEIRA JUNIOR",
     "Dosagem de Produto - Cobrição": "1,1",
-    "Fazenda": NaN
+    "Fazenda": null,
+    "Unnamed: 16": null
   },
   {
     "ID": "3495229",
@@ -12310,7 +12997,8 @@ const DOSAGEM_COBRICAO_DATA = [
     "Frente": "135 - PEDRINHO ",
     "Responsável": "MARCELO DE OLIVEIRA JUNIOR",
     "Dosagem de Produto - Cobrição": "1,06",
-    "Fazenda": NaN
+    "Fazenda": null,
+    "Unnamed: 16": null
   },
   {
     "ID": "3495228",
@@ -12328,7 +13016,8 @@ const DOSAGEM_COBRICAO_DATA = [
     "Frente": "135 - PEDRINHO ",
     "Responsável": "MARCELO DE OLIVEIRA JUNIOR",
     "Dosagem de Produto - Cobrição": "1,1",
-    "Fazenda": NaN
+    "Fazenda": null,
+    "Unnamed: 16": null
   },
   {
     "ID": "3495227",
@@ -12346,7 +13035,8 @@ const DOSAGEM_COBRICAO_DATA = [
     "Frente": "135 - PEDRINHO ",
     "Responsável": "MARCELO DE OLIVEIRA JUNIOR",
     "Dosagem de Produto - Cobrição": "1,06",
-    "Fazenda": NaN
+    "Fazenda": null,
+    "Unnamed: 16": null
   },
   {
     "ID": "3494676",
@@ -12364,7 +13054,8 @@ const DOSAGEM_COBRICAO_DATA = [
     "Frente": "143 - FRENTE CASSIO",
     "Responsável": "NILDA CLAUDINO [2510716]",
     "Dosagem de Produto - Cobrição": "1,125",
-    "Fazenda": NaN
+    "Fazenda": null,
+    "Unnamed: 16": null
   },
   {
     "ID": "3494675",
@@ -12382,7 +13073,8 @@ const DOSAGEM_COBRICAO_DATA = [
     "Frente": "143 - FRENTE CASSIO",
     "Responsável": "NILDA CLAUDINO [2510716]",
     "Dosagem de Produto - Cobrição": "1,1",
-    "Fazenda": NaN
+    "Fazenda": null,
+    "Unnamed: 16": null
   },
   {
     "ID": "3494348",
@@ -12400,7 +13092,8 @@ const DOSAGEM_COBRICAO_DATA = [
     "Frente": "291 - FRENTE PRÓPRIA ",
     "Responsável": "GABRIEL HENRIQUE MARTINS PEREIRA",
     "Dosagem de Produto - Cobrição": "1,02",
-    "Fazenda": NaN
+    "Fazenda": null,
+    "Unnamed: 16": null
   },
   {
     "ID": "3494347",
@@ -12418,7 +13111,8 @@ const DOSAGEM_COBRICAO_DATA = [
     "Frente": "291 - FRENTE PRÓPRIA ",
     "Responsável": "GABRIEL HENRIQUE MARTINS PEREIRA",
     "Dosagem de Produto - Cobrição": "1",
-    "Fazenda": NaN
+    "Fazenda": null,
+    "Unnamed: 16": null
   },
   {
     "ID": "3494624",
@@ -12436,7 +13130,8 @@ const DOSAGEM_COBRICAO_DATA = [
     "Frente": "105 - FRENTE CASSIO",
     "Responsável": "FERNANDA DE SOUZA ",
     "Dosagem de Produto - Cobrição": "1,1",
-    "Fazenda": NaN
+    "Fazenda": null,
+    "Unnamed: 16": null
   },
   {
     "ID": "3494623",
@@ -12454,7 +13149,8 @@ const DOSAGEM_COBRICAO_DATA = [
     "Frente": "105 - FRENTE CASSIO",
     "Responsável": "FERNANDA DE SOUZA ",
     "Dosagem de Produto - Cobrição": "1,1",
-    "Fazenda": NaN
+    "Fazenda": null,
+    "Unnamed: 16": null
   },
   {
     "ID": "3494622",
@@ -12472,7 +13168,8 @@ const DOSAGEM_COBRICAO_DATA = [
     "Frente": "105 - FRENTE CASSIO",
     "Responsável": "FERNANDA DE SOUZA ",
     "Dosagem de Produto - Cobrição": "1,1",
-    "Fazenda": NaN
+    "Fazenda": null,
+    "Unnamed: 16": null
   },
   {
     "ID": "3494621",
@@ -12490,7 +13187,8 @@ const DOSAGEM_COBRICAO_DATA = [
     "Frente": "105 - FRENTE CASSIO",
     "Responsável": "FERNANDA DE SOUZA ",
     "Dosagem de Produto - Cobrição": "1,1",
-    "Fazenda": NaN
+    "Fazenda": null,
+    "Unnamed: 16": null
   },
   {
     "ID": "3494650",
@@ -12508,7 +13206,8 @@ const DOSAGEM_COBRICAO_DATA = [
     "Frente": "143 - FRENTE CASSIO",
     "Responsável": "NILDA CLAUDINO [2510716]",
     "Dosagem de Produto - Cobrição": "1,125",
-    "Fazenda": NaN
+    "Fazenda": null,
+    "Unnamed: 16": null
   },
   {
     "ID": "3494649",
@@ -12526,7 +13225,8 @@ const DOSAGEM_COBRICAO_DATA = [
     "Frente": "143 - FRENTE CASSIO",
     "Responsável": "NILDA CLAUDINO [2510716]",
     "Dosagem de Produto - Cobrição": "1,1",
-    "Fazenda": NaN
+    "Fazenda": null,
+    "Unnamed: 16": null
   },
   {
     "ID": "3492352",
@@ -12544,7 +13244,8 @@ const DOSAGEM_COBRICAO_DATA = [
     "Frente": "143 - FRENTE CASSIO",
     "Responsável": "NILDA CLAUDINO [2510716]",
     "Dosagem de Produto - Cobrição": "1,1",
-    "Fazenda": NaN
+    "Fazenda": null,
+    "Unnamed: 16": null
   },
   {
     "ID": "3493095",
@@ -12562,7 +13263,8 @@ const DOSAGEM_COBRICAO_DATA = [
     "Frente": "135 - PEDRINHO ",
     "Responsável": "MARCELO DE OLIVEIRA JUNIOR",
     "Dosagem de Produto - Cobrição": "1,04",
-    "Fazenda": NaN
+    "Fazenda": null,
+    "Unnamed: 16": null
   },
   {
     "ID": "3493094",
@@ -12580,7 +13282,8 @@ const DOSAGEM_COBRICAO_DATA = [
     "Frente": "135 - PEDRINHO ",
     "Responsável": "MARCELO DE OLIVEIRA JUNIOR",
     "Dosagem de Produto - Cobrição": "1,02",
-    "Fazenda": NaN
+    "Fazenda": null,
+    "Unnamed: 16": null
   },
   {
     "ID": "3492475",
@@ -12598,7 +13301,8 @@ const DOSAGEM_COBRICAO_DATA = [
     "Frente": "105 - FRENTE CASSIO (ZACARIAS)",
     "Responsável": "GABRIEL HENRIQUE MARTINS PEREIRA",
     "Dosagem de Produto - Cobrição": "1",
-    "Fazenda": NaN
+    "Fazenda": null,
+    "Unnamed: 16": null
   },
   {
     "ID": "3492476",
@@ -12616,7 +13320,8 @@ const DOSAGEM_COBRICAO_DATA = [
     "Frente": "105 - FRENTE CASSIO (ZACARIAS)",
     "Responsável": "GABRIEL HENRIQUE MARTINS PEREIRA",
     "Dosagem de Produto - Cobrição": "1",
-    "Fazenda": NaN
+    "Fazenda": null,
+    "Unnamed: 16": null
   },
   {
     "ID": "3492085",
@@ -12634,7 +13339,8 @@ const DOSAGEM_COBRICAO_DATA = [
     "Frente": "142 - FRENTE BIDU",
     "Responsável": "GLEISON FELIPE BORGES DE MATOS",
     "Dosagem de Produto - Cobrição": "1,1",
-    "Fazenda": NaN
+    "Fazenda": null,
+    "Unnamed: 16": null
   },
   {
     "ID": "3492084",
@@ -12652,7 +13358,8 @@ const DOSAGEM_COBRICAO_DATA = [
     "Frente": "142 - FRENTE BIDU",
     "Responsável": "GLEISON FELIPE BORGES DE MATOS",
     "Dosagem de Produto - Cobrição": "1,1",
-    "Fazenda": NaN
+    "Fazenda": null,
+    "Unnamed: 16": null
   },
   {
     "ID": "3493075",
@@ -12670,7 +13377,8 @@ const DOSAGEM_COBRICAO_DATA = [
     "Frente": "135 - PEDRINHO ",
     "Responsável": "MARCELO DE OLIVEIRA JUNIOR",
     "Dosagem de Produto - Cobrição": "1,04",
-    "Fazenda": NaN
+    "Fazenda": null,
+    "Unnamed: 16": null
   },
   {
     "ID": "3493074",
@@ -12688,7 +13396,8 @@ const DOSAGEM_COBRICAO_DATA = [
     "Frente": "135 - PEDRINHO ",
     "Responsável": "MARCELO DE OLIVEIRA JUNIOR",
     "Dosagem de Produto - Cobrição": "1,02",
-    "Fazenda": NaN
+    "Fazenda": null,
+    "Unnamed: 16": null
   },
   {
     "ID": "3492501",
@@ -12706,7 +13415,8 @@ const DOSAGEM_COBRICAO_DATA = [
     "Frente": "133 - FRENTE MANÉZÃO",
     "Responsável": "FERNANDA DE SOUZA ",
     "Dosagem de Produto - Cobrição": "1,1",
-    "Fazenda": NaN
+    "Fazenda": null,
+    "Unnamed: 16": null
   },
   {
     "ID": "3492500",
@@ -12724,7 +13434,8 @@ const DOSAGEM_COBRICAO_DATA = [
     "Frente": "133 - FRENTE MANÉZÃO",
     "Responsável": "FERNANDA DE SOUZA ",
     "Dosagem de Produto - Cobrição": "1,1",
-    "Fazenda": NaN
+    "Fazenda": null,
+    "Unnamed: 16": null
   },
   {
     "ID": "3492593",
@@ -12742,7 +13453,8 @@ const DOSAGEM_COBRICAO_DATA = [
     "Frente": "261 - FRENTE PRÓPRIA  (EDMILSON)",
     "Responsável": "VITOR AMORIM RAMOS ",
     "Dosagem de Produto - Cobrição": "1,12",
-    "Fazenda": NaN
+    "Fazenda": null,
+    "Unnamed: 16": null
   },
   {
     "ID": "3492592",
@@ -12760,7 +13472,8 @@ const DOSAGEM_COBRICAO_DATA = [
     "Frente": "261 - FRENTE PRÓPRIA  (EDMILSON)",
     "Responsável": "VITOR AMORIM RAMOS ",
     "Dosagem de Produto - Cobrição": "1,1",
-    "Fazenda": NaN
+    "Fazenda": null,
+    "Unnamed: 16": null
   },
   {
     "ID": "3492494",
@@ -12778,7 +13491,8 @@ const DOSAGEM_COBRICAO_DATA = [
     "Frente": "133 - FRENTE MANÉZÃO",
     "Responsável": "FERNANDA DE SOUZA ",
     "Dosagem de Produto - Cobrição": "1,1",
-    "Fazenda": NaN
+    "Fazenda": null,
+    "Unnamed: 16": null
   },
   {
     "ID": "3492493",
@@ -12796,7 +13510,8 @@ const DOSAGEM_COBRICAO_DATA = [
     "Frente": "133 - FRENTE MANÉZÃO",
     "Responsável": "FERNANDA DE SOUZA ",
     "Dosagem de Produto - Cobrição": "1,1",
-    "Fazenda": NaN
+    "Fazenda": null,
+    "Unnamed: 16": null
   },
   {
     "ID": "3492376",
@@ -12814,7 +13529,8 @@ const DOSAGEM_COBRICAO_DATA = [
     "Frente": "143 - FRENTE CASSIO",
     "Responsável": "NILDA CLAUDINO [2510716]",
     "Dosagem de Produto - Cobrição": "1,1",
-    "Fazenda": NaN
+    "Fazenda": null,
+    "Unnamed: 16": null
   },
   {
     "ID": "3491291",
@@ -12832,7 +13548,8 @@ const DOSAGEM_COBRICAO_DATA = [
     "Frente": "135 - PEDRINHO ",
     "Responsável": "MARCELO DE OLIVEIRA JUNIOR",
     "Dosagem de Produto - Cobrição": "1,05",
-    "Fazenda": NaN
+    "Fazenda": null,
+    "Unnamed: 16": null
   },
   {
     "ID": "3491290",
@@ -12850,7 +13567,8 @@ const DOSAGEM_COBRICAO_DATA = [
     "Frente": "135 - PEDRINHO ",
     "Responsável": "MARCELO DE OLIVEIRA JUNIOR",
     "Dosagem de Produto - Cobrição": "1",
-    "Fazenda": NaN
+    "Fazenda": null,
+    "Unnamed: 16": null
   },
   {
     "ID": "3491289",
@@ -12868,7 +13586,8 @@ const DOSAGEM_COBRICAO_DATA = [
     "Frente": "135 - PEDRINHO ",
     "Responsável": "MARCELO DE OLIVEIRA JUNIOR",
     "Dosagem de Produto - Cobrição": "1,04",
-    "Fazenda": NaN
+    "Fazenda": null,
+    "Unnamed: 16": null
   },
   {
     "ID": "3491288",
@@ -12886,7 +13605,8 @@ const DOSAGEM_COBRICAO_DATA = [
     "Frente": "135 - PEDRINHO ",
     "Responsável": "MARCELO DE OLIVEIRA JUNIOR",
     "Dosagem de Produto - Cobrição": "1,06",
-    "Fazenda": NaN
+    "Fazenda": null,
+    "Unnamed: 16": null
   },
   {
     "ID": "3491282",
@@ -12904,7 +13624,8 @@ const DOSAGEM_COBRICAO_DATA = [
     "Frente": "135 - PEDRINHO ",
     "Responsável": "MARCELO DE OLIVEIRA JUNIOR",
     "Dosagem de Produto - Cobrição": "1,05",
-    "Fazenda": NaN
+    "Fazenda": null,
+    "Unnamed: 16": null
   },
   {
     "ID": "3491281",
@@ -12922,7 +13643,8 @@ const DOSAGEM_COBRICAO_DATA = [
     "Frente": "135 - PEDRINHO ",
     "Responsável": "MARCELO DE OLIVEIRA JUNIOR",
     "Dosagem de Produto - Cobrição": "1",
-    "Fazenda": NaN
+    "Fazenda": null,
+    "Unnamed: 16": null
   },
   {
     "ID": "3491280",
@@ -12940,7 +13662,8 @@ const DOSAGEM_COBRICAO_DATA = [
     "Frente": "135 - PEDRINHO ",
     "Responsável": "MARCELO DE OLIVEIRA JUNIOR",
     "Dosagem de Produto - Cobrição": "1,04",
-    "Fazenda": NaN
+    "Fazenda": null,
+    "Unnamed: 16": null
   },
   {
     "ID": "3491279",
@@ -12958,7 +13681,8 @@ const DOSAGEM_COBRICAO_DATA = [
     "Frente": "135 - PEDRINHO ",
     "Responsável": "MARCELO DE OLIVEIRA JUNIOR",
     "Dosagem de Produto - Cobrição": "1,06",
-    "Fazenda": NaN
+    "Fazenda": null,
+    "Unnamed: 16": null
   },
   {
     "ID": "3490419",
@@ -12976,7 +13700,8 @@ const DOSAGEM_COBRICAO_DATA = [
     "Frente": "133 - FRENTE MANÉZÃO",
     "Responsável": "FERNANDA DE SOUZA ",
     "Dosagem de Produto - Cobrição": "1,1",
-    "Fazenda": NaN
+    "Fazenda": null,
+    "Unnamed: 16": null
   },
   {
     "ID": "3490418",
@@ -12994,7 +13719,8 @@ const DOSAGEM_COBRICAO_DATA = [
     "Frente": "133 - FRENTE MANÉZÃO",
     "Responsável": "FERNANDA DE SOUZA ",
     "Dosagem de Produto - Cobrição": "1,1",
-    "Fazenda": NaN
+    "Fazenda": null,
+    "Unnamed: 16": null
   },
   {
     "ID": "3490417",
@@ -13012,7 +13738,8 @@ const DOSAGEM_COBRICAO_DATA = [
     "Frente": "133 - FRENTE MANÉZÃO",
     "Responsável": "FERNANDA DE SOUZA ",
     "Dosagem de Produto - Cobrição": "1,1",
-    "Fazenda": NaN
+    "Fazenda": null,
+    "Unnamed: 16": null
   },
   {
     "ID": "3490416",
@@ -13030,7 +13757,8 @@ const DOSAGEM_COBRICAO_DATA = [
     "Frente": "133 - FRENTE MANÉZÃO",
     "Responsável": "FERNANDA DE SOUZA ",
     "Dosagem de Produto - Cobrição": "1,1",
-    "Fazenda": NaN
+    "Fazenda": null,
+    "Unnamed: 16": null
   },
   {
     "ID": "3490282",
@@ -13048,7 +13776,8 @@ const DOSAGEM_COBRICAO_DATA = [
     "Frente": "142 - FRENTE BIDU",
     "Responsável": "MICHELI DE SOUZA SANTOS  ",
     "Dosagem de Produto - Cobrição": "1,08",
-    "Fazenda": NaN
+    "Fazenda": null,
+    "Unnamed: 16": null
   },
   {
     "ID": "3490281",
@@ -13066,7 +13795,8 @@ const DOSAGEM_COBRICAO_DATA = [
     "Frente": "142 - FRENTE BIDU",
     "Responsável": "MICHELI DE SOUZA SANTOS  ",
     "Dosagem de Produto - Cobrição": "1,08",
-    "Fazenda": NaN
+    "Fazenda": null,
+    "Unnamed: 16": null
   },
   {
     "ID": "3490280",
@@ -13084,7 +13814,8 @@ const DOSAGEM_COBRICAO_DATA = [
     "Frente": "142 - FRENTE BIDU",
     "Responsável": "MICHELI DE SOUZA SANTOS  ",
     "Dosagem de Produto - Cobrição": "1,12",
-    "Fazenda": NaN
+    "Fazenda": null,
+    "Unnamed: 16": null
   },
   {
     "ID": "3490279",
@@ -13102,7 +13833,8 @@ const DOSAGEM_COBRICAO_DATA = [
     "Frente": "142 - FRENTE BIDU",
     "Responsável": "MICHELI DE SOUZA SANTOS  ",
     "Dosagem de Produto - Cobrição": "1,08",
-    "Fazenda": NaN
+    "Fazenda": null,
+    "Unnamed: 16": null
   },
   {
     "ID": "3490312",
@@ -13120,7 +13852,8 @@ const DOSAGEM_COBRICAO_DATA = [
     "Frente": "143 - FRENTE CASSIO",
     "Responsável": "GABRIEL HENRIQUE MARTINS PEREIRA",
     "Dosagem de Produto - Cobrição": "1,04",
-    "Fazenda": NaN
+    "Fazenda": null,
+    "Unnamed: 16": null
   },
   {
     "ID": "3490311",
@@ -13138,7 +13871,8 @@ const DOSAGEM_COBRICAO_DATA = [
     "Frente": "143 - FRENTE CASSIO",
     "Responsável": "GABRIEL HENRIQUE MARTINS PEREIRA",
     "Dosagem de Produto - Cobrição": "1,06",
-    "Fazenda": NaN
+    "Fazenda": null,
+    "Unnamed: 16": null
   },
   {
     "ID": "3490310",
@@ -13156,7 +13890,8 @@ const DOSAGEM_COBRICAO_DATA = [
     "Frente": "143 - FRENTE CASSIO",
     "Responsável": "GABRIEL HENRIQUE MARTINS PEREIRA",
     "Dosagem de Produto - Cobrição": "1",
-    "Fazenda": NaN
+    "Fazenda": null,
+    "Unnamed: 16": null
   },
   {
     "ID": "3490309",
@@ -13174,7 +13909,8 @@ const DOSAGEM_COBRICAO_DATA = [
     "Frente": "143 - FRENTE CASSIO",
     "Responsável": "GABRIEL HENRIQUE MARTINS PEREIRA",
     "Dosagem de Produto - Cobrição": "1,02",
-    "Fazenda": NaN
+    "Fazenda": null,
+    "Unnamed: 16": null
   },
   {
     "ID": "3468228",
@@ -13192,7 +13928,8 @@ const DOSAGEM_COBRICAO_DATA = [
     "Frente": "139 - Manezão",
     "Responsável": "MARCELO DE OLIVEIRA JUNIOR",
     "Dosagem de Produto - Cobrição": "1,09",
-    "Fazenda": NaN
+    "Fazenda": null,
+    "Unnamed: 16": null
   },
   {
     "ID": "3468227",
@@ -13210,7 +13947,8 @@ const DOSAGEM_COBRICAO_DATA = [
     "Frente": "139 - Manezão",
     "Responsável": "MARCELO DE OLIVEIRA JUNIOR",
     "Dosagem de Produto - Cobrição": "1,11",
-    "Fazenda": NaN
+    "Fazenda": null,
+    "Unnamed: 16": null
   },
   {
     "ID": "3467739",
@@ -13228,7 +13966,8 @@ const DOSAGEM_COBRICAO_DATA = [
     "Frente": "291 - FRENTE PRÓPRIA ",
     "Responsável": "VITOR AMORIM RAMOS ",
     "Dosagem de Produto - Cobrição": "1,1",
-    "Fazenda": NaN
+    "Fazenda": null,
+    "Unnamed: 16": null
   },
   {
     "ID": "3467738",
@@ -13246,7 +13985,8 @@ const DOSAGEM_COBRICAO_DATA = [
     "Frente": "291 - FRENTE PRÓPRIA ",
     "Responsável": "VITOR AMORIM RAMOS ",
     "Dosagem de Produto - Cobrição": "1,12",
-    "Fazenda": NaN
+    "Fazenda": null,
+    "Unnamed: 16": null
   },
   {
     "ID": "3467736",
@@ -13264,7 +14004,8 @@ const DOSAGEM_COBRICAO_DATA = [
     "Frente": "261 - FRENTE PRÓPRIA  (EDMILSON)",
     "Responsável": "VITOR AMORIM RAMOS ",
     "Dosagem de Produto - Cobrição": "1,12",
-    "Fazenda": NaN
+    "Fazenda": null,
+    "Unnamed: 16": null
   },
   {
     "ID": "3467737",
@@ -13282,7 +14023,8 @@ const DOSAGEM_COBRICAO_DATA = [
     "Frente": "261 - FRENTE PRÓPRIA  (EDMILSON)",
     "Responsável": "VITOR AMORIM RAMOS ",
     "Dosagem de Produto - Cobrição": "1,1",
-    "Fazenda": NaN
+    "Fazenda": null,
+    "Unnamed: 16": null
   },
   {
     "ID": "3468146",
@@ -13300,7 +14042,8 @@ const DOSAGEM_COBRICAO_DATA = [
     "Frente": "105 - FRENTE CASSIO (ZACARIAS)",
     "Responsável": "GABRIEL HENRIQUE MARTINS PEREIRA",
     "Dosagem de Produto - Cobrição": "1,04",
-    "Fazenda": NaN
+    "Fazenda": null,
+    "Unnamed: 16": null
   },
   {
     "ID": "3468147",
@@ -13318,7 +14061,8 @@ const DOSAGEM_COBRICAO_DATA = [
     "Frente": "105 - FRENTE CASSIO (ZACARIAS)",
     "Responsável": "GABRIEL HENRIQUE MARTINS PEREIRA",
     "Dosagem de Produto - Cobrição": "1,02",
-    "Fazenda": NaN
+    "Fazenda": null,
+    "Unnamed: 16": null
   },
   {
     "ID": "3468145",
@@ -13336,7 +14080,8 @@ const DOSAGEM_COBRICAO_DATA = [
     "Frente": "105 - FRENTE CASSIO (ZACARIAS)",
     "Responsável": "GABRIEL HENRIQUE MARTINS PEREIRA",
     "Dosagem de Produto - Cobrição": "1,1",
-    "Fazenda": NaN
+    "Fazenda": null,
+    "Unnamed: 16": null
   },
   {
     "ID": "3468144",
@@ -13354,7 +14099,8 @@ const DOSAGEM_COBRICAO_DATA = [
     "Frente": "105 - FRENTE CASSIO (ZACARIAS)",
     "Responsável": "GABRIEL HENRIQUE MARTINS PEREIRA",
     "Dosagem de Produto - Cobrição": "1",
-    "Fazenda": NaN
+    "Fazenda": null,
+    "Unnamed: 16": null
   },
   {
     "ID": "3468098",
@@ -13372,7 +14118,8 @@ const DOSAGEM_COBRICAO_DATA = [
     "Frente": "143 - FRENTE CASSIO",
     "Responsável": "NILDA CLAUDINO [2510716]",
     "Dosagem de Produto - Cobrição": "1,125",
-    "Fazenda": NaN
+    "Fazenda": null,
+    "Unnamed: 16": null
   },
   {
     "ID": "3468097",
@@ -13390,7 +14137,8 @@ const DOSAGEM_COBRICAO_DATA = [
     "Frente": "143 - FRENTE CASSIO",
     "Responsável": "NILDA CLAUDINO [2510716]",
     "Dosagem de Produto - Cobrição": "1,1",
-    "Fazenda": NaN
+    "Fazenda": null,
+    "Unnamed: 16": null
   },
   {
     "ID": "3467636",
@@ -13408,7 +14156,8 @@ const DOSAGEM_COBRICAO_DATA = [
     "Frente": "142 - FRENTE BIDU",
     "Responsável": "MICHELI DE SOUZA SANTOS  ",
     "Dosagem de Produto - Cobrição": "1,08",
-    "Fazenda": NaN
+    "Fazenda": null,
+    "Unnamed: 16": null
   },
   {
     "ID": "3467635",
@@ -13426,7 +14175,8 @@ const DOSAGEM_COBRICAO_DATA = [
     "Frente": "142 - FRENTE BIDU",
     "Responsável": "MICHELI DE SOUZA SANTOS  ",
     "Dosagem de Produto - Cobrição": "1,12",
-    "Fazenda": NaN
+    "Fazenda": null,
+    "Unnamed: 16": null
   },
   {
     "ID": "3467634",
@@ -13444,7 +14194,8 @@ const DOSAGEM_COBRICAO_DATA = [
     "Frente": "142 - FRENTE BIDU",
     "Responsável": "MICHELI DE SOUZA SANTOS  ",
     "Dosagem de Produto - Cobrição": "1,1",
-    "Fazenda": NaN
+    "Fazenda": null,
+    "Unnamed: 16": null
   },
   {
     "ID": "3467633",
@@ -13462,7 +14213,8 @@ const DOSAGEM_COBRICAO_DATA = [
     "Frente": "142 - FRENTE BIDU",
     "Responsável": "MICHELI DE SOUZA SANTOS  ",
     "Dosagem de Produto - Cobrição": "1,1",
-    "Fazenda": NaN
+    "Fazenda": null,
+    "Unnamed: 16": null
   },
   {
     "ID": "3467643",
@@ -13480,7 +14232,8 @@ const DOSAGEM_COBRICAO_DATA = [
     "Frente": "101 - FRENTE MECANIZADA",
     "Responsável": "FERNANDA DE SOUZA ",
     "Dosagem de Produto - Cobrição": "1,1",
-    "Fazenda": NaN
+    "Fazenda": null,
+    "Unnamed: 16": null
   },
   {
     "ID": "3467644",
@@ -13498,7 +14251,8 @@ const DOSAGEM_COBRICAO_DATA = [
     "Frente": "101 - FRENTE MECANIZADA",
     "Responsável": "FERNANDA DE SOUZA ",
     "Dosagem de Produto - Cobrição": "1,1",
-    "Fazenda": NaN
+    "Fazenda": null,
+    "Unnamed: 16": null
   },
   {
     "ID": "3466705",
@@ -13516,7 +14270,8 @@ const DOSAGEM_COBRICAO_DATA = [
     "Frente": "139 - Manezão",
     "Responsável": "MARCELO DE OLIVEIRA JUNIOR",
     "Dosagem de Produto - Cobrição": "1,11",
-    "Fazenda": NaN
+    "Fazenda": null,
+    "Unnamed: 16": null
   },
   {
     "ID": "3466704",
@@ -13534,7 +14289,8 @@ const DOSAGEM_COBRICAO_DATA = [
     "Frente": "139 - Manezão",
     "Responsável": "MARCELO DE OLIVEIRA JUNIOR",
     "Dosagem de Produto - Cobrição": "1,12",
-    "Fazenda": NaN
+    "Fazenda": null,
+    "Unnamed: 16": null
   },
   {
     "ID": "3465786",
@@ -13552,7 +14308,8 @@ const DOSAGEM_COBRICAO_DATA = [
     "Frente": "142 - FRENTE BIDU",
     "Responsável": "MICHELI DE SOUZA SANTOS  ",
     "Dosagem de Produto - Cobrição": "1,1",
-    "Fazenda": NaN
+    "Fazenda": null,
+    "Unnamed: 16": null
   },
   {
     "ID": "3465785",
@@ -13570,7 +14327,8 @@ const DOSAGEM_COBRICAO_DATA = [
     "Frente": "142 - FRENTE BIDU",
     "Responsável": "MICHELI DE SOUZA SANTOS  ",
     "Dosagem de Produto - Cobrição": "1,1",
-    "Fazenda": NaN
+    "Fazenda": null,
+    "Unnamed: 16": null
   },
   {
     "ID": "3465784",
@@ -13588,7 +14346,8 @@ const DOSAGEM_COBRICAO_DATA = [
     "Frente": "142 - FRENTE BIDU",
     "Responsável": "MICHELI DE SOUZA SANTOS  ",
     "Dosagem de Produto - Cobrição": "1,11",
-    "Fazenda": NaN
+    "Fazenda": null,
+    "Unnamed: 16": null
   },
   {
     "ID": "3465787",
@@ -13606,7 +14365,8 @@ const DOSAGEM_COBRICAO_DATA = [
     "Frente": "142 - FRENTE BIDU",
     "Responsável": "MICHELI DE SOUZA SANTOS  ",
     "Dosagem de Produto - Cobrição": "1,1",
-    "Fazenda": NaN
+    "Fazenda": null,
+    "Unnamed: 16": null
   },
   {
     "ID": "3465498",
@@ -13624,7 +14384,8 @@ const DOSAGEM_COBRICAO_DATA = [
     "Frente": "101 - FRENTE MECANIZADA",
     "Responsável": "FERNANDA DE SOUZA ",
     "Dosagem de Produto - Cobrição": "1,1",
-    "Fazenda": NaN
+    "Fazenda": null,
+    "Unnamed: 16": null
   },
   {
     "ID": "3465497",
@@ -13642,7 +14403,8 @@ const DOSAGEM_COBRICAO_DATA = [
     "Frente": "101 - FRENTE MECANIZADA",
     "Responsável": "FERNANDA DE SOUZA ",
     "Dosagem de Produto - Cobrição": "1,1",
-    "Fazenda": NaN
+    "Fazenda": null,
+    "Unnamed: 16": null
   },
   {
     "ID": "3465950",
@@ -13660,7 +14422,8 @@ const DOSAGEM_COBRICAO_DATA = [
     "Frente": "105 - FRENTE CASSIO (ZACARIAS)",
     "Responsável": "GABRIEL HENRIQUE MARTINS PEREIRA",
     "Dosagem de Produto - Cobrição": "1,1",
-    "Fazenda": NaN
+    "Fazenda": null,
+    "Unnamed: 16": null
   },
   {
     "ID": "3465949",
@@ -13678,7 +14441,8 @@ const DOSAGEM_COBRICAO_DATA = [
     "Frente": "105 - FRENTE CASSIO (ZACARIAS)",
     "Responsável": "GABRIEL HENRIQUE MARTINS PEREIRA",
     "Dosagem de Produto - Cobrição": "1,1",
-    "Fazenda": NaN
+    "Fazenda": null,
+    "Unnamed: 16": null
   },
   {
     "ID": "3465948",
@@ -13696,7 +14460,8 @@ const DOSAGEM_COBRICAO_DATA = [
     "Frente": "105 - FRENTE CASSIO (ZACARIAS)",
     "Responsável": "GABRIEL HENRIQUE MARTINS PEREIRA",
     "Dosagem de Produto - Cobrição": "1,06",
-    "Fazenda": NaN
+    "Fazenda": null,
+    "Unnamed: 16": null
   },
   {
     "ID": "3465947",
@@ -13714,7 +14479,8 @@ const DOSAGEM_COBRICAO_DATA = [
     "Frente": "105 - FRENTE CASSIO (ZACARIAS)",
     "Responsável": "GABRIEL HENRIQUE MARTINS PEREIRA",
     "Dosagem de Produto - Cobrição": "1,04",
-    "Fazenda": NaN
+    "Fazenda": null,
+    "Unnamed: 16": null
   },
   {
     "ID": "3463857",
@@ -13732,7 +14498,8 @@ const DOSAGEM_COBRICAO_DATA = [
     "Frente": "101 - FRENTE MECANIZADA",
     "Responsável": "FERNANDA DE SOUZA ",
     "Dosagem de Produto - Cobrição": "1,1",
-    "Fazenda": NaN
+    "Fazenda": null,
+    "Unnamed: 16": null
   },
   {
     "ID": "3463856",
@@ -13750,7 +14517,8 @@ const DOSAGEM_COBRICAO_DATA = [
     "Frente": "101 - FRENTE MECANIZADA",
     "Responsável": "FERNANDA DE SOUZA ",
     "Dosagem de Produto - Cobrição": "1,1",
-    "Fazenda": NaN
+    "Fazenda": null,
+    "Unnamed: 16": null
   },
   {
     "ID": "3463343",
@@ -13768,7 +14536,8 @@ const DOSAGEM_COBRICAO_DATA = [
     "Frente": "139 - FRENTE MANEZÃO",
     "Responsável": "GLEISON FELIPE BORGES DE MATOS",
     "Dosagem de Produto - Cobrição": "1,11",
-    "Fazenda": NaN
+    "Fazenda": null,
+    "Unnamed: 16": null
   },
   {
     "ID": "3463342",
@@ -13786,7 +14555,8 @@ const DOSAGEM_COBRICAO_DATA = [
     "Frente": "139 - FRENTE MANEZÃO",
     "Responsável": "GLEISON FELIPE BORGES DE MATOS",
     "Dosagem de Produto - Cobrição": "1,1",
-    "Fazenda": NaN
+    "Fazenda": null,
+    "Unnamed: 16": null
   },
   {
     "ID": "3463674",
@@ -13804,7 +14574,8 @@ const DOSAGEM_COBRICAO_DATA = [
     "Frente": "105 - FRENTE CASSIO (ZACARIAS)",
     "Responsável": "GABRIEL HENRIQUE MARTINS PEREIRA",
     "Dosagem de Produto - Cobrição": "1,06",
-    "Fazenda": NaN
+    "Fazenda": null,
+    "Unnamed: 16": null
   },
   {
     "ID": "3463673",
@@ -13822,7 +14593,8 @@ const DOSAGEM_COBRICAO_DATA = [
     "Frente": "105 - FRENTE CASSIO (ZACARIAS)",
     "Responsável": "GABRIEL HENRIQUE MARTINS PEREIRA",
     "Dosagem de Produto - Cobrição": "1,04",
-    "Fazenda": NaN
+    "Fazenda": null,
+    "Unnamed: 16": null
   },
   {
     "ID": "3464579",
@@ -13840,7 +14612,8 @@ const DOSAGEM_COBRICAO_DATA = [
     "Frente": "261 - FRENTE PRÓPRIA  (EDMILSON)",
     "Responsável": "VITOR AMORIM RAMOS ",
     "Dosagem de Produto - Cobrição": "1,1",
-    "Fazenda": NaN
+    "Fazenda": null,
+    "Unnamed: 16": null
   },
   {
     "ID": "3464578",
@@ -13858,7 +14631,8 @@ const DOSAGEM_COBRICAO_DATA = [
     "Frente": "261 - FRENTE PRÓPRIA  (EDMILSON)",
     "Responsável": "VITOR AMORIM RAMOS ",
     "Dosagem de Produto - Cobrição": "1,05",
-    "Fazenda": NaN
+    "Fazenda": null,
+    "Unnamed: 16": null
   },
   {
     "ID": "3463672",
@@ -13876,7 +14650,8 @@ const DOSAGEM_COBRICAO_DATA = [
     "Frente": "105 - FRENTE CASSIO (ZACARIAS)",
     "Responsável": "GABRIEL HENRIQUE MARTINS PEREIRA",
     "Dosagem de Produto - Cobrição": "1",
-    "Fazenda": NaN
+    "Fazenda": null,
+    "Unnamed: 16": null
   },
   {
     "ID": "3463671",
@@ -13894,7 +14669,8 @@ const DOSAGEM_COBRICAO_DATA = [
     "Frente": "105 - FRENTE CASSIO (ZACARIAS)",
     "Responsável": "GABRIEL HENRIQUE MARTINS PEREIRA",
     "Dosagem de Produto - Cobrição": "1",
-    "Fazenda": NaN
+    "Fazenda": null,
+    "Unnamed: 16": null
   },
   {
     "ID": "3461969",
@@ -13912,7 +14688,8 @@ const DOSAGEM_COBRICAO_DATA = [
     "Frente": "261 - FRENTE PRÓPRIA  (EDMILSON)",
     "Responsável": "VITOR AMORIM RAMOS ",
     "Dosagem de Produto - Cobrição": "1,1",
-    "Fazenda": NaN
+    "Fazenda": null,
+    "Unnamed: 16": null
   },
   {
     "ID": "3461968",
@@ -13930,7 +14707,8 @@ const DOSAGEM_COBRICAO_DATA = [
     "Frente": "261 - FRENTE PRÓPRIA  (EDMILSON)",
     "Responsável": "VITOR AMORIM RAMOS ",
     "Dosagem de Produto - Cobrição": "1,1",
-    "Fazenda": NaN
+    "Fazenda": null,
+    "Unnamed: 16": null
   },
   {
     "ID": "3454895",
@@ -13948,7 +14726,8 @@ const DOSAGEM_COBRICAO_DATA = [
     "Frente": "105 - FRENTE CASSIO (ZACARIAS)",
     "Responsável": "GABRIEL HENRIQUE MARTINS PEREIRA",
     "Dosagem de Produto - Cobrição": "1,06",
-    "Fazenda": NaN
+    "Fazenda": null,
+    "Unnamed: 16": null
   },
   {
     "ID": "3454894",
@@ -13966,7 +14745,8 @@ const DOSAGEM_COBRICAO_DATA = [
     "Frente": "105 - FRENTE CASSIO (ZACARIAS)",
     "Responsável": "GABRIEL HENRIQUE MARTINS PEREIRA",
     "Dosagem de Produto - Cobrição": "1,06",
-    "Fazenda": NaN
+    "Fazenda": null,
+    "Unnamed: 16": null
   },
   {
     "ID": "3454810",
@@ -13984,7 +14764,8 @@ const DOSAGEM_COBRICAO_DATA = [
     "Frente": "142 - FRENTE BIDU",
     "Responsável": "MICHELI DE SOUZA SANTOS  ",
     "Dosagem de Produto - Cobrição": "1,1",
-    "Fazenda": NaN
+    "Fazenda": null,
+    "Unnamed: 16": null
   },
   {
     "ID": "3454809",
@@ -14002,7 +14783,8 @@ const DOSAGEM_COBRICAO_DATA = [
     "Frente": "142 - FRENTE BIDU",
     "Responsável": "MICHELI DE SOUZA SANTOS  ",
     "Dosagem de Produto - Cobrição": "1,08",
-    "Fazenda": NaN
+    "Fazenda": null,
+    "Unnamed: 16": null
   },
   {
     "ID": "3454936",
@@ -14020,7 +14802,8 @@ const DOSAGEM_COBRICAO_DATA = [
     "Frente": "101 - FRENTE MECANIZADA",
     "Responsável": "FERNANDA DE SOUZA ",
     "Dosagem de Produto - Cobrição": "1,1",
-    "Fazenda": NaN
+    "Fazenda": null,
+    "Unnamed: 16": null
   },
   {
     "ID": "3454914",
@@ -14038,7 +14821,8 @@ const DOSAGEM_COBRICAO_DATA = [
     "Frente": "101 - FRENTE MECANIZADA",
     "Responsável": "FERNANDA DE SOUZA ",
     "Dosagem de Produto - Cobrição": "1,1",
-    "Fazenda": NaN
+    "Fazenda": null,
+    "Unnamed: 16": null
   },
   {
     "ID": "3454266",
@@ -14056,7 +14840,8 @@ const DOSAGEM_COBRICAO_DATA = [
     "Frente": "135 - PEDRINHO ",
     "Responsável": "NILDA CLAUDINO [2510716]",
     "Dosagem de Produto - Cobrição": "1,1",
-    "Fazenda": NaN
+    "Fazenda": null,
+    "Unnamed: 16": null
   },
   {
     "ID": "3454265",
@@ -14074,7 +14859,8 @@ const DOSAGEM_COBRICAO_DATA = [
     "Frente": "135 - PEDRINHO ",
     "Responsável": "NILDA CLAUDINO [2510716]",
     "Dosagem de Produto - Cobrição": "1,125",
-    "Fazenda": NaN
+    "Fazenda": null,
+    "Unnamed: 16": null
   },
   {
     "ID": "3454264",
@@ -14092,7 +14878,8 @@ const DOSAGEM_COBRICAO_DATA = [
     "Frente": "135 - PEDRINHO ",
     "Responsável": "NILDA CLAUDINO [2510716]",
     "Dosagem de Produto - Cobrição": "1,125",
-    "Fazenda": NaN
+    "Fazenda": null,
+    "Unnamed: 16": null
   },
   {
     "ID": "3454263",
@@ -14110,7 +14897,8 @@ const DOSAGEM_COBRICAO_DATA = [
     "Frente": "135 - PEDRINHO ",
     "Responsável": "NILDA CLAUDINO [2510716]",
     "Dosagem de Produto - Cobrição": "1,12",
-    "Fazenda": NaN
+    "Fazenda": null,
+    "Unnamed: 16": null
   },
   {
     "ID": "3455035",
@@ -14128,7 +14916,8 @@ const DOSAGEM_COBRICAO_DATA = [
     "Frente": "261 - FRENTE PRÓPRIA  (EDMILSON)",
     "Responsável": "VITOR AMORIM RAMOS ",
     "Dosagem de Produto - Cobrição": "1,12",
-    "Fazenda": NaN
+    "Fazenda": null,
+    "Unnamed: 16": null
   },
   {
     "ID": "3454986",
@@ -14146,7 +14935,8 @@ const DOSAGEM_COBRICAO_DATA = [
     "Frente": "261 - FRENTE PRÓPRIA  (EDMILSON)",
     "Responsável": "VITOR AMORIM RAMOS ",
     "Dosagem de Produto - Cobrição": "1,1",
-    "Fazenda": NaN
+    "Fazenda": null,
+    "Unnamed: 16": null
   },
   {
     "ID": "3454215",
@@ -14164,7 +14954,8 @@ const DOSAGEM_COBRICAO_DATA = [
     "Frente": "142 - FRENTE BIDU",
     "Responsável": "GLEISON FELIPE BORGES DE MATOS",
     "Dosagem de Produto - Cobrição": "1,1",
-    "Fazenda": NaN
+    "Fazenda": null,
+    "Unnamed: 16": null
   },
   {
     "ID": "3454214",
@@ -14182,7 +14973,8 @@ const DOSAGEM_COBRICAO_DATA = [
     "Frente": "142 - FRENTE BIDU",
     "Responsável": "GLEISON FELIPE BORGES DE MATOS",
     "Dosagem de Produto - Cobrição": "1,1",
-    "Fazenda": NaN
+    "Fazenda": null,
+    "Unnamed: 16": null
   },
   {
     "ID": "3449763",
@@ -14200,7 +14992,8 @@ const DOSAGEM_COBRICAO_DATA = [
     "Frente": "105 - FRENTE CASSIO (ZACARIAS)",
     "Responsável": "268680 - GABRIEL HENRIQUE MARTINS PEREIRA ",
     "Dosagem de Produto - Cobrição": "1,04",
-    "Fazenda": NaN
+    "Fazenda": null,
+    "Unnamed: 16": null
   },
   {
     "ID": "3449762",
@@ -14218,7 +15011,8 @@ const DOSAGEM_COBRICAO_DATA = [
     "Frente": "105 - FRENTE CASSIO (ZACARIAS)",
     "Responsável": "268680 - GABRIEL HENRIQUE MARTINS PEREIRA ",
     "Dosagem de Produto - Cobrição": "1,06",
-    "Fazenda": NaN
+    "Fazenda": null,
+    "Unnamed: 16": null
   },
   {
     "ID": "3449576",
@@ -14236,7 +15030,8 @@ const DOSAGEM_COBRICAO_DATA = [
     "Frente": "135 - PEDRINHO ",
     "Responsável": "NILDA CLAUDINO [2510716]",
     "Dosagem de Produto - Cobrição": "1,125",
-    "Fazenda": NaN
+    "Fazenda": null,
+    "Unnamed: 16": null
   },
   {
     "ID": "3449575",
@@ -14254,7 +15049,8 @@ const DOSAGEM_COBRICAO_DATA = [
     "Frente": "135 - PEDRINHO ",
     "Responsável": "NILDA CLAUDINO [2510716]",
     "Dosagem de Produto - Cobrição": "1,125",
-    "Fazenda": NaN
+    "Fazenda": null,
+    "Unnamed: 16": null
   },
   {
     "ID": "3449574",
@@ -14272,7 +15068,8 @@ const DOSAGEM_COBRICAO_DATA = [
     "Frente": "135 - PEDRINHO ",
     "Responsável": "NILDA CLAUDINO [2510716]",
     "Dosagem de Produto - Cobrição": "1,125",
-    "Fazenda": NaN
+    "Fazenda": null,
+    "Unnamed: 16": null
   },
   {
     "ID": "3449573",
@@ -14290,7 +15087,8 @@ const DOSAGEM_COBRICAO_DATA = [
     "Frente": "135 - PEDRINHO ",
     "Responsável": "NILDA CLAUDINO [2510716]",
     "Dosagem de Produto - Cobrição": "1,125",
-    "Fazenda": NaN
+    "Fazenda": null,
+    "Unnamed: 16": null
   },
   {
     "ID": "3449564",
@@ -14308,7 +15106,8 @@ const DOSAGEM_COBRICAO_DATA = [
     "Frente": "101 - FRENTE MECANIZADA",
     "Responsável": "FERNANDA DE SOUZA ",
     "Dosagem de Produto - Cobrição": "1,1",
-    "Fazenda": NaN
+    "Fazenda": null,
+    "Unnamed: 16": null
   },
   {
     "ID": "3449562",
@@ -14326,7 +15125,8 @@ const DOSAGEM_COBRICAO_DATA = [
     "Frente": "101 - FRENTE MECANIZADA",
     "Responsável": "FERNANDA DE SOUZA ",
     "Dosagem de Produto - Cobrição": "1,1",
-    "Fazenda": NaN
+    "Fazenda": null,
+    "Unnamed: 16": null
   },
   {
     "ID": "3445638",
@@ -14344,7 +15144,8 @@ const DOSAGEM_COBRICAO_DATA = [
     "Frente": "135 - PEDRINHO ",
     "Responsável": "NILDA CLAUDINO [2510716]",
     "Dosagem de Produto - Cobrição": "1,1",
-    "Fazenda": NaN
+    "Fazenda": null,
+    "Unnamed: 16": null
   },
   {
     "ID": "3445637",
@@ -14362,7 +15163,8 @@ const DOSAGEM_COBRICAO_DATA = [
     "Frente": "135 - PEDRINHO ",
     "Responsável": "NILDA CLAUDINO [2510716]",
     "Dosagem de Produto - Cobrição": "1,125",
-    "Fazenda": NaN
+    "Fazenda": null,
+    "Unnamed: 16": null
   },
   {
     "ID": "3445524",
@@ -14380,7 +15182,8 @@ const DOSAGEM_COBRICAO_DATA = [
     "Frente": "142 - FRENTE BIDU",
     "Responsável": "MICHELI DE SOUZA SANTOS  ",
     "Dosagem de Produto - Cobrição": "1,1",
-    "Fazenda": NaN
+    "Fazenda": null,
+    "Unnamed: 16": null
   },
   {
     "ID": "3445523",
@@ -14398,7 +15201,8 @@ const DOSAGEM_COBRICAO_DATA = [
     "Frente": "142 - FRENTE BIDU",
     "Responsável": "MICHELI DE SOUZA SANTOS  ",
     "Dosagem de Produto - Cobrição": "1,1",
-    "Fazenda": NaN
+    "Fazenda": null,
+    "Unnamed: 16": null
   },
   {
     "ID": "3445558",
@@ -14416,7 +15220,8 @@ const DOSAGEM_COBRICAO_DATA = [
     "Frente": "101 - FRENTE MECANIZADA",
     "Responsável": "FERNANDA DE SOUZA ",
     "Dosagem de Produto - Cobrição": "1,1",
-    "Fazenda": NaN
+    "Fazenda": null,
+    "Unnamed: 16": null
   },
   {
     "ID": "3445557",
@@ -14434,7 +15239,8 @@ const DOSAGEM_COBRICAO_DATA = [
     "Frente": "101 - FRENTE MECANIZADA",
     "Responsável": "FERNANDA DE SOUZA ",
     "Dosagem de Produto - Cobrição": "1,1",
-    "Fazenda": NaN
+    "Fazenda": null,
+    "Unnamed: 16": null
   },
   {
     "ID": "3422995",
@@ -14452,7 +15258,8 @@ const DOSAGEM_COBRICAO_DATA = [
     "Frente": "291 - FRENTE PRÓPRIA ",
     "Responsável": "MICHELI DE SOUZA SANTOS  ",
     "Dosagem de Produto - Cobrição": "1,08",
-    "Fazenda": NaN
+    "Fazenda": null,
+    "Unnamed: 16": null
   },
   {
     "ID": "3422730",
@@ -14470,7 +15277,8 @@ const DOSAGEM_COBRICAO_DATA = [
     "Frente": "261 - FRENTE PRÓPRIA  (EDMILSON)",
     "Responsável": "REGINALDO DA SILVA GOMES [249300]",
     "Dosagem de Produto - Cobrição": "1,08",
-    "Fazenda": NaN
+    "Fazenda": null,
+    "Unnamed: 16": null
   },
   {
     "ID": "3422731",
@@ -14488,7 +15296,8 @@ const DOSAGEM_COBRICAO_DATA = [
     "Frente": "261 - FRENTE PRÓPRIA  (EDMILSON)",
     "Responsável": "REGINALDO DA SILVA GOMES [249300]",
     "Dosagem de Produto - Cobrição": "1,1",
-    "Fazenda": NaN
+    "Fazenda": null,
+    "Unnamed: 16": null
   },
   {
     "ID": "3428876",
@@ -14506,7 +15315,8 @@ const DOSAGEM_COBRICAO_DATA = [
     "Frente": "291 - FRENTE PRÓPRIA ",
     "Responsável": "268680 - GABRIEL HENRIQUE MARTINS PEREIRA ",
     "Dosagem de Produto - Cobrição": "1,1",
-    "Fazenda": NaN
+    "Fazenda": null,
+    "Unnamed: 16": null
   },
   {
     "ID": "3428877",
@@ -14524,7 +15334,8 @@ const DOSAGEM_COBRICAO_DATA = [
     "Frente": "291 - FRENTE PRÓPRIA ",
     "Responsável": "268680 - GABRIEL HENRIQUE MARTINS PEREIRA ",
     "Dosagem de Produto - Cobrição": "1,14",
-    "Fazenda": NaN
+    "Fazenda": null,
+    "Unnamed: 16": null
   },
   {
     "ID": "3431065",
@@ -14542,7 +15353,8 @@ const DOSAGEM_COBRICAO_DATA = [
     "Frente": "261 - FRENTE PRÓPRIA  (EDMILSON)",
     "Responsável": "278400 - Vitor Amorim Ramos ",
     "Dosagem de Produto - Cobrição": "1,1",
-    "Fazenda": NaN
+    "Fazenda": null,
+    "Unnamed: 16": null
   },
   {
     "ID": "3431066",
@@ -14560,7 +15372,8 @@ const DOSAGEM_COBRICAO_DATA = [
     "Frente": "261 - FRENTE PRÓPRIA  (EDMILSON)",
     "Responsável": "278400 - Vitor Amorim Ramos ",
     "Dosagem de Produto - Cobrição": "1,12",
-    "Fazenda": NaN
+    "Fazenda": null,
+    "Unnamed: 16": null
   },
   {
     "ID": "3431610",
@@ -14578,7 +15391,8 @@ const DOSAGEM_COBRICAO_DATA = [
     "Frente": "142- Bidu",
     "Responsável": "GLEISON FELIPE BORGES DE MATOS [266770]",
     "Dosagem de Produto - Cobrição": "1,1",
-    "Fazenda": NaN
+    "Fazenda": null,
+    "Unnamed: 16": null
   },
   {
     "ID": "3433326",
@@ -14596,7 +15410,8 @@ const DOSAGEM_COBRICAO_DATA = [
     "Frente": "261 - FRENTE PRÓPRIA  (EDMILSON)",
     "Responsável": "278400 - Vitor Amorim Ramos ",
     "Dosagem de Produto - Cobrição": "1,12",
-    "Fazenda": NaN
+    "Fazenda": null,
+    "Unnamed: 16": null
   },
   {
     "ID": "3433393",
@@ -14614,7 +15429,8 @@ const DOSAGEM_COBRICAO_DATA = [
     "Frente": "261 - FRENTE PRÓPRIA  (EDMILSON)",
     "Responsável": "278400 - Vitor Amorim Ramos ",
     "Dosagem de Produto - Cobrição": "1,1",
-    "Fazenda": NaN
+    "Fazenda": null,
+    "Unnamed: 16": null
   },
   {
     "ID": "3433695",
@@ -14632,7 +15448,8 @@ const DOSAGEM_COBRICAO_DATA = [
     "Frente": "101 - FRENTE MECANIZADA",
     "Responsável": "FERNANDA DE SOUZA [127577]",
     "Dosagem de Produto - Cobrição": "1,1",
-    "Fazenda": NaN
+    "Fazenda": null,
+    "Unnamed: 16": null
   },
   {
     "ID": "3433696",
@@ -14650,7 +15467,8 @@ const DOSAGEM_COBRICAO_DATA = [
     "Frente": "101 - FRENTE MECANIZADA",
     "Responsável": "FERNANDA DE SOUZA [127577]",
     "Dosagem de Produto - Cobrição": "1,09",
-    "Fazenda": NaN
+    "Fazenda": null,
+    "Unnamed: 16": null
   },
   {
     "ID": "3433574",
@@ -14668,7 +15486,8 @@ const DOSAGEM_COBRICAO_DATA = [
     "Frente": "135 - FRENTE PEDRINHO",
     "Responsável": "NILDA CLAUDINO [2510716]",
     "Dosagem de Produto - Cobrição": "1,125",
-    "Fazenda": NaN
+    "Fazenda": null,
+    "Unnamed: 16": null
   },
   {
     "ID": "3433575",
@@ -14686,7 +15505,8 @@ const DOSAGEM_COBRICAO_DATA = [
     "Frente": "135 - FRENTE PEDRINHO",
     "Responsável": "NILDA CLAUDINO [2510716]",
     "Dosagem de Produto - Cobrição": "1,125",
-    "Fazenda": NaN
+    "Fazenda": null,
+    "Unnamed: 16": null
   },
   {
     "ID": "3435276",
@@ -14704,7 +15524,8 @@ const DOSAGEM_COBRICAO_DATA = [
     "Frente": "101 - FRENTE MECANIZADA",
     "Responsável": "FERNANDA DE SOUZA [127577]",
     "Dosagem de Produto - Cobrição": "1,1",
-    "Fazenda": NaN
+    "Fazenda": null,
+    "Unnamed: 16": null
   },
   {
     "ID": "3435275",
@@ -14722,7 +15543,8 @@ const DOSAGEM_COBRICAO_DATA = [
     "Frente": "101 - FRENTE MECANIZADA",
     "Responsável": "FERNANDA DE SOUZA [127577]",
     "Dosagem de Produto - Cobrição": "1,06",
-    "Fazenda": NaN
+    "Fazenda": null,
+    "Unnamed: 16": null
   },
   {
     "ID": "3435436",
@@ -14740,7 +15562,8 @@ const DOSAGEM_COBRICAO_DATA = [
     "Frente": "135 - FRENTE PEDRINHO",
     "Responsável": "NILDA CLAUDINO [2510716]",
     "Dosagem de Produto - Cobrição": "1,125",
-    "Fazenda": NaN
+    "Fazenda": null,
+    "Unnamed: 16": null
   },
   {
     "ID": "3435437",
@@ -14758,7 +15581,8 @@ const DOSAGEM_COBRICAO_DATA = [
     "Frente": "135 - FRENTE PEDRINHO",
     "Responsável": "NILDA CLAUDINO [2510716]",
     "Dosagem de Produto - Cobrição": "1,125",
-    "Fazenda": NaN
+    "Fazenda": null,
+    "Unnamed: 16": null
   },
   {
     "ID": "3435393",
@@ -14776,7 +15600,8 @@ const DOSAGEM_COBRICAO_DATA = [
     "Frente": "291 - FRENTE PRÓPRIA ",
     "Responsável": "278400 - Vitor Amorim Ramos ",
     "Dosagem de Produto - Cobrição": "1,1",
-    "Fazenda": NaN
+    "Fazenda": null,
+    "Unnamed: 16": null
   },
   {
     "ID": "3435394",
@@ -14794,7 +15619,8 @@ const DOSAGEM_COBRICAO_DATA = [
     "Frente": "291 - FRENTE PRÓPRIA ",
     "Responsável": "278400 - Vitor Amorim Ramos ",
     "Dosagem de Produto - Cobrição": "1,12",
-    "Fazenda": NaN
+    "Fazenda": null,
+    "Unnamed: 16": null
   },
   {
     "ID": "3435309",
@@ -14812,7 +15638,8 @@ const DOSAGEM_COBRICAO_DATA = [
     "Frente": "142 - FRENTE BIDU",
     "Responsável": "MICHELI DE SOUZA SANTOS  ",
     "Dosagem de Produto - Cobrição": "1,12",
-    "Fazenda": NaN
+    "Fazenda": null,
+    "Unnamed: 16": null
   },
   {
     "ID": "3435315",
@@ -14830,7 +15657,8 @@ const DOSAGEM_COBRICAO_DATA = [
     "Frente": "142 - FRENTE BIDU",
     "Responsável": "MICHELI DE SOUZA SANTOS  ",
     "Dosagem de Produto - Cobrição": "1,06",
-    "Fazenda": NaN
+    "Fazenda": null,
+    "Unnamed: 16": null
   },
   {
     "ID": "3435316",
@@ -14848,7 +15676,8 @@ const DOSAGEM_COBRICAO_DATA = [
     "Frente": "142 - FRENTE BIDU",
     "Responsável": "MICHELI DE SOUZA SANTOS  ",
     "Dosagem de Produto - Cobrição": "1,06",
-    "Fazenda": NaN
+    "Fazenda": null,
+    "Unnamed: 16": null
   },
   {
     "ID": "3435317",
@@ -14866,7 +15695,8 @@ const DOSAGEM_COBRICAO_DATA = [
     "Frente": "142 - FRENTE BIDU",
     "Responsável": "MICHELI DE SOUZA SANTOS  ",
     "Dosagem de Produto - Cobrição": "1,08",
-    "Fazenda": NaN
+    "Fazenda": null,
+    "Unnamed: 16": null
   },
   {
     "ID": "3433167",
@@ -14884,7 +15714,8 @@ const DOSAGEM_COBRICAO_DATA = [
     "Frente": "142 - FRENTE BIDU",
     "Responsável": "MICHELI DE SOUZA SANTOS  ",
     "Dosagem de Produto - Cobrição": "1,02",
-    "Fazenda": NaN
+    "Fazenda": null,
+    "Unnamed: 16": null
   },
   {
     "ID": "3433197",
@@ -14902,7 +15733,8 @@ const DOSAGEM_COBRICAO_DATA = [
     "Frente": "142 - FRENTE BIDU",
     "Responsável": "MICHELI DE SOUZA SANTOS  ",
     "Dosagem de Produto - Cobrição": "1,04",
-    "Fazenda": NaN
+    "Fazenda": null,
+    "Unnamed: 16": null
   },
   {
     "ID": "3433196",
@@ -14920,7 +15752,8 @@ const DOSAGEM_COBRICAO_DATA = [
     "Frente": "142 - FRENTE BIDU",
     "Responsável": "MICHELI DE SOUZA SANTOS  ",
     "Dosagem de Produto - Cobrição": "1,06",
-    "Fazenda": NaN
+    "Fazenda": null,
+    "Unnamed: 16": null
   },
   {
     "ID": "3433166",
@@ -14938,7 +15771,8 @@ const DOSAGEM_COBRICAO_DATA = [
     "Frente": "142 - FRENTE BIDU",
     "Responsável": "MICHELI DE SOUZA SANTOS  ",
     "Dosagem de Produto - Cobrição": "1,08",
-    "Fazenda": NaN
+    "Fazenda": null,
+    "Unnamed: 16": null
   },
   {
     "ID": "3431291",
@@ -14956,7 +15790,8 @@ const DOSAGEM_COBRICAO_DATA = [
     "Frente": "142 - FRENTE BIDU",
     "Responsável": "MICHELI DE SOUZA SANTOS  ",
     "Dosagem de Produto - Cobrição": "1,1",
-    "Fazenda": NaN
+    "Fazenda": null,
+    "Unnamed: 16": null
   },
   {
     "ID": "3431290",
@@ -14974,7 +15809,8 @@ const DOSAGEM_COBRICAO_DATA = [
     "Frente": "142 - FRENTE BIDU",
     "Responsável": "MICHELI DE SOUZA SANTOS  ",
     "Dosagem de Produto - Cobrição": "1,08",
-    "Fazenda": NaN
+    "Fazenda": null,
+    "Unnamed: 16": null
   },
   {
     "ID": "3431289",
@@ -14992,7 +15828,8 @@ const DOSAGEM_COBRICAO_DATA = [
     "Frente": "142 - FRENTE BIDU",
     "Responsável": "MICHELI DE SOUZA SANTOS  ",
     "Dosagem de Produto - Cobrição": "1,02",
-    "Fazenda": NaN
+    "Fazenda": null,
+    "Unnamed: 16": null
   },
   {
     "ID": "3431288",
@@ -15010,7 +15847,8 @@ const DOSAGEM_COBRICAO_DATA = [
     "Frente": "142 - FRENTE BIDU",
     "Responsável": "MICHELI DE SOUZA SANTOS  ",
     "Dosagem de Produto - Cobrição": "1",
-    "Fazenda": NaN
+    "Fazenda": null,
+    "Unnamed: 16": null
   },
   {
     "ID": "3431611",
@@ -15028,7 +15866,8 @@ const DOSAGEM_COBRICAO_DATA = [
     "Frente": "142 - FRENTE BIDU",
     "Responsável": "GLEISON FELIPE BORGES DE MATOS [266770]",
     "Dosagem de Produto - Cobrição": "1,12",
-    "Fazenda": NaN
+    "Fazenda": null,
+    "Unnamed: 16": null
   },
   {
     "ID": "3428312",
@@ -15046,7 +15885,8 @@ const DOSAGEM_COBRICAO_DATA = [
     "Frente": "142 - FRENTE BIDU",
     "Responsável": "REGINALDO DA SILVA GOMES [249300]",
     "Dosagem de Produto - Cobrição": "1",
-    "Fazenda": NaN
+    "Fazenda": null,
+    "Unnamed: 16": null
   },
   {
     "ID": "3428311",
@@ -15064,7 +15904,8 @@ const DOSAGEM_COBRICAO_DATA = [
     "Frente": "142 - FRENTE BIDU",
     "Responsável": "REGINALDO DA SILVA GOMES [249300]",
     "Dosagem de Produto - Cobrição": "1,02",
-    "Fazenda": NaN
+    "Fazenda": null,
+    "Unnamed: 16": null
   },
   {
     "ID": "3428310",
@@ -15082,7 +15923,8 @@ const DOSAGEM_COBRICAO_DATA = [
     "Frente": "142 - FRENTE BIDU",
     "Responsável": "REGINALDO DA SILVA GOMES [249300]",
     "Dosagem de Produto - Cobrição": "1,1",
-    "Fazenda": NaN
+    "Fazenda": null,
+    "Unnamed: 16": null
   },
   {
     "ID": "3428309",
@@ -15100,7 +15942,8 @@ const DOSAGEM_COBRICAO_DATA = [
     "Frente": "142 - FRENTE BIDU",
     "Responsável": "REGINALDO DA SILVA GOMES [249300]",
     "Dosagem de Produto - Cobrição": "1,02",
-    "Fazenda": NaN
+    "Fazenda": null,
+    "Unnamed: 16": null
   },
   {
     "ID": "3428253",
@@ -15118,7 +15961,8 @@ const DOSAGEM_COBRICAO_DATA = [
     "Frente": "142 - FRENTE BIDU",
     "Responsável": "MICHELI DE SOUZA SANTOS  ",
     "Dosagem de Produto - Cobrição": "1",
-    "Fazenda": NaN
+    "Fazenda": null,
+    "Unnamed: 16": null
   },
   {
     "ID": "3428254",
@@ -15136,7 +15980,8 @@ const DOSAGEM_COBRICAO_DATA = [
     "Frente": "142 - FRENTE BIDU",
     "Responsável": "MICHELI DE SOUZA SANTOS  ",
     "Dosagem de Produto - Cobrição": "1,02",
-    "Fazenda": NaN
+    "Fazenda": null,
+    "Unnamed: 16": null
   },
   {
     "ID": "3428255",
@@ -15154,7 +15999,8 @@ const DOSAGEM_COBRICAO_DATA = [
     "Frente": "142 - FRENTE BIDU",
     "Responsável": "MICHELI DE SOUZA SANTOS  ",
     "Dosagem de Produto - Cobrição": "1,1",
-    "Fazenda": NaN
+    "Fazenda": null,
+    "Unnamed: 16": null
   },
   {
     "ID": "3428256",
@@ -15172,7 +16018,8 @@ const DOSAGEM_COBRICAO_DATA = [
     "Frente": "142 - FRENTE BIDU",
     "Responsável": "MICHELI DE SOUZA SANTOS  ",
     "Dosagem de Produto - Cobrição": "1,02",
-    "Fazenda": NaN
+    "Fazenda": null,
+    "Unnamed: 16": null
   },
   {
     "ID": "3443313",
@@ -15190,7 +16037,8 @@ const DOSAGEM_COBRICAO_DATA = [
     "Frente": "142 - FRENTE BIDU",
     "Responsável": "GLEISON FELIPE BORGES DE MATOS [266770]",
     "Dosagem de Produto - Cobrição": "1,1",
-    "Fazenda": NaN
+    "Fazenda": null,
+    "Unnamed: 16": null
   },
   {
     "ID": "3443314",
@@ -15208,7 +16056,8 @@ const DOSAGEM_COBRICAO_DATA = [
     "Frente": "142 - FRENTE BIDU",
     "Responsável": "GLEISON FELIPE BORGES DE MATOS [266770]",
     "Dosagem de Produto - Cobrição": "1,1",
-    "Fazenda": NaN
+    "Fazenda": null,
+    "Unnamed: 16": null
   },
   {
     "ID": "3443315",
@@ -15226,7 +16075,8 @@ const DOSAGEM_COBRICAO_DATA = [
     "Frente": "142 - FRENTE BIDU",
     "Responsável": "GLEISON FELIPE BORGES DE MATOS [266770]",
     "Dosagem de Produto - Cobrição": "1,069",
-    "Fazenda": NaN
+    "Fazenda": null,
+    "Unnamed: 16": null
   },
   {
     "ID": "3443467",
@@ -15244,7 +16094,8 @@ const DOSAGEM_COBRICAO_DATA = [
     "Frente": "101 - FRENTE MECANIZADA",
     "Responsável": "FERNANDA DE SOUZA [127577]",
     "Dosagem de Produto - Cobrição": "1",
-    "Fazenda": NaN
+    "Fazenda": null,
+    "Unnamed: 16": null
   },
   {
     "ID": "3443444",
@@ -15262,7 +16113,8 @@ const DOSAGEM_COBRICAO_DATA = [
     "Frente": "101 - FRENTE MECANIZADA",
     "Responsável": "REGINALDO DA SILVA GOMES [249300]",
     "Dosagem de Produto - Cobrição": "1",
-    "Fazenda": NaN
+    "Fazenda": null,
+    "Unnamed: 16": null
   },
   {
     "ID": "3443445",
@@ -15280,7 +16132,8 @@ const DOSAGEM_COBRICAO_DATA = [
     "Frente": "101 - FRENTE MECANIZADA",
     "Responsável": "REGINALDO DA SILVA GOMES [249300]",
     "Dosagem de Produto - Cobrição": "1",
-    "Fazenda": NaN
+    "Fazenda": null,
+    "Unnamed: 16": null
   },
   {
     "ID": "3443468",
@@ -15298,7 +16151,8 @@ const DOSAGEM_COBRICAO_DATA = [
     "Frente": "101 - FRENTE MECANIZADA",
     "Responsável": "FERNANDA DE SOUZA [127577]",
     "Dosagem de Produto - Cobrição": "1",
-    "Fazenda": NaN
+    "Fazenda": null,
+    "Unnamed: 16": null
   },
   {
     "ID": "3431562",
@@ -15316,7 +16170,8 @@ const DOSAGEM_COBRICAO_DATA = [
     "Frente": "261 - FRENTE PRÓPRIA  (EDMILSON)",
     "Responsável": "278400 - Vitor Amorim Ramos ",
     "Dosagem de Produto - Cobrição": "1,12",
-    "Fazenda": NaN
+    "Fazenda": null,
+    "Unnamed: 16": null
   },
   {
     "ID": "3431561",
@@ -15334,7 +16189,8 @@ const DOSAGEM_COBRICAO_DATA = [
     "Frente": "261 - FRENTE PRÓPRIA  (EDMILSON)",
     "Responsável": "278400 - Vitor Amorim Ramos ",
     "Dosagem de Produto - Cobrição": "1,1",
-    "Fazenda": NaN
+    "Fazenda": null,
+    "Unnamed: 16": null
   },
   {
     "ID": "3422994",
@@ -15352,7 +16208,8 @@ const DOSAGEM_COBRICAO_DATA = [
     "Frente": "291 - FRENTE PRÓPRIA ",
     "Responsável": "MICHELI DE SOUZA SANTOS  ",
     "Dosagem de Produto - Cobrição": "1,1",
-    "Fazenda": NaN
+    "Fazenda": null,
+    "Unnamed: 16": null
   },
   {
     "ID": "3422777",
@@ -15370,7 +16227,8 @@ const DOSAGEM_COBRICAO_DATA = [
     "Frente": "261 - FRENTE PRÓPRIA  (EDMILSON)",
     "Responsável": "278400 - Vitor Amorim Ramos ",
     "Dosagem de Produto - Cobrição": "1,1",
-    "Fazenda": NaN
+    "Fazenda": null,
+    "Unnamed: 16": null
   },
   {
     "ID": "3422776",
@@ -15388,7 +16246,8 @@ const DOSAGEM_COBRICAO_DATA = [
     "Frente": "261 - FRENTE PRÓPRIA  (EDMILSON)",
     "Responsável": "278400 - Vitor Amorim Ramos ",
     "Dosagem de Produto - Cobrição": "1,08",
-    "Fazenda": NaN
+    "Fazenda": null,
+    "Unnamed: 16": null
   },
   {
     "ID": "3421347",
@@ -15406,7 +16265,8 @@ const DOSAGEM_COBRICAO_DATA = [
     "Frente": "261 - FRENTE PRÓPRIA  (EDMILSON)",
     "Responsável": "MARCELO DE OLIVEIRA JUNIOR [264820]",
     "Dosagem de Produto - Cobrição": "1,14",
-    "Fazenda": NaN
+    "Fazenda": null,
+    "Unnamed: 16": null
   },
   {
     "ID": "3421341",
@@ -15424,7 +16284,8 @@ const DOSAGEM_COBRICAO_DATA = [
     "Frente": "261 - FRENTE PRÓPRIA  (EDMILSON)",
     "Responsável": "MARCELO DE OLIVEIRA JUNIOR [264820]",
     "Dosagem de Produto - Cobrição": "1,1",
-    "Fazenda": NaN
+    "Fazenda": null,
+    "Unnamed: 16": null
   },
   {
     "ID": "3421212",
@@ -15442,7 +16303,8 @@ const DOSAGEM_COBRICAO_DATA = [
     "Frente": "261 - FRENTE PRÓPRIA  (EDMILSON)",
     "Responsável": "EDILIANA CARDOSO DA COSTA [172390]",
     "Dosagem de Produto - Cobrição": "1,12",
-    "Fazenda": NaN
+    "Fazenda": null,
+    "Unnamed: 16": null
   },
   {
     "ID": "3421211",
@@ -15460,7 +16322,8 @@ const DOSAGEM_COBRICAO_DATA = [
     "Frente": "261 - FRENTE PRÓPRIA  (EDMILSON)",
     "Responsável": "EDILIANA CARDOSO DA COSTA [172390]",
     "Dosagem de Produto - Cobrição": "1,12",
-    "Fazenda": NaN
+    "Fazenda": null,
+    "Unnamed: 16": null
   },
   {
     "ID": "3417405",
@@ -15478,7 +16341,8 @@ const DOSAGEM_COBRICAO_DATA = [
     "Frente": "261 - FRENTE PRÓPRIA  (EDMILSON)",
     "Responsável": "278400 - Vitor Amorim Ramos ",
     "Dosagem de Produto - Cobrição": "1,1",
-    "Fazenda": NaN
+    "Fazenda": null,
+    "Unnamed: 16": null
   },
   {
     "ID": "3417440",
@@ -15496,7 +16360,8 @@ const DOSAGEM_COBRICAO_DATA = [
     "Frente": "261 - FRENTE PRÓPRIA  (EDMILSON)",
     "Responsável": "278400 - Vitor Amorim Ramos ",
     "Dosagem de Produto - Cobrição": "1,1",
-    "Fazenda": NaN
+    "Fazenda": null,
+    "Unnamed: 16": null
   },
   {
     "ID": "3413581",
@@ -15514,7 +16379,8 @@ const DOSAGEM_COBRICAO_DATA = [
     "Frente": "261 - FRENTE PRÓPRIA  (EDMILSON)",
     "Responsável": "278400 - Vitor Amorim Ramos ",
     "Dosagem de Produto - Cobrição": "1,1",
-    "Fazenda": NaN
+    "Fazenda": null,
+    "Unnamed: 16": null
   },
   {
     "ID": "3413582",
@@ -15532,7 +16398,8 @@ const DOSAGEM_COBRICAO_DATA = [
     "Frente": "261 - FRENTE PRÓPRIA  (EDMILSON)",
     "Responsável": "278400 - Vitor Amorim Ramos ",
     "Dosagem de Produto - Cobrição": "1,1",
-    "Fazenda": NaN
+    "Fazenda": null,
+    "Unnamed: 16": null
   },
   {
     "ID": "3410277",
@@ -15550,7 +16417,8 @@ const DOSAGEM_COBRICAO_DATA = [
     "Frente": "261 - FRENTE PRÓPRIA  (EDMILSON)",
     "Responsável": "278400 - Vitor Amorim Ramos ",
     "Dosagem de Produto - Cobrição": "1,1",
-    "Fazenda": NaN
+    "Fazenda": null,
+    "Unnamed: 16": null
   },
   {
     "ID": "3410276",
@@ -15568,7 +16436,8 @@ const DOSAGEM_COBRICAO_DATA = [
     "Frente": "261 - FRENTE PRÓPRIA  (EDMILSON)",
     "Responsável": "278400 - Vitor Amorim Ramos ",
     "Dosagem de Produto - Cobrição": "1,1",
-    "Fazenda": NaN
+    "Fazenda": null,
+    "Unnamed: 16": null
   },
   {
     "ID": "3408520",
@@ -15586,7 +16455,8 @@ const DOSAGEM_COBRICAO_DATA = [
     "Frente": "261 - FRENTE PRÓPRIA  (EDMILSON)",
     "Responsável": "278400 - Vitor Amorim Ramos ",
     "Dosagem de Produto - Cobrição": "1,1",
-    "Fazenda": NaN
+    "Fazenda": null,
+    "Unnamed: 16": null
   },
   {
     "ID": "3408517",
@@ -15604,7 +16474,8 @@ const DOSAGEM_COBRICAO_DATA = [
     "Frente": "261 - FRENTE PRÓPRIA  (EDMILSON)",
     "Responsável": "278400 - Vitor Amorim Ramos ",
     "Dosagem de Produto - Cobrição": "1,1",
-    "Fazenda": NaN
+    "Fazenda": null,
+    "Unnamed: 16": null
   },
   {
     "ID": "4026270",
@@ -15622,7 +16493,8 @@ const DOSAGEM_COBRICAO_DATA = [
     "Frente": "135 - FRENTE PEDRINHO",
     "Responsável": "285410",
     "Dosagem de Produto - Cobrição": "1.06",
-    "Fazenda": "33302"
+    "Fazenda": "33302",
+    "Unnamed: 16": null
   },
   {
     "ID": "4026269",
@@ -15640,7 +16512,8 @@ const DOSAGEM_COBRICAO_DATA = [
     "Frente": "135 - FRENTE PEDRINHO",
     "Responsável": "285410",
     "Dosagem de Produto - Cobrição": "1.08",
-    "Fazenda": "33302"
+    "Fazenda": "33302",
+    "Unnamed: 16": null
   },
   {
     "ID": "4020650",
@@ -15658,7 +16531,8 @@ const DOSAGEM_COBRICAO_DATA = [
     "Frente": "135 - FRENTE PEDRINHO",
     "Responsável": "284860  - Juliana Aparecida Ferreira De Freitas",
     "Dosagem de Produto - Cobrição": "1.06",
-    "Fazenda": "70426"
+    "Fazenda": "70426",
+    "Unnamed: 16": null
   },
   {
     "ID": "4020651",
@@ -15676,7 +16550,8 @@ const DOSAGEM_COBRICAO_DATA = [
     "Frente": "135 - FRENTE PEDRINHO",
     "Responsável": "284860  - Juliana Aparecida Ferreira De Freitas",
     "Dosagem de Produto - Cobrição": "1.02",
-    "Fazenda": "70426"
+    "Fazenda": "70426",
+    "Unnamed: 16": null
   },
   {
     "ID": "4013423",
@@ -15694,7 +16569,8 @@ const DOSAGEM_COBRICAO_DATA = [
     "Frente": "135 - FRENTE PEDRINHO",
     "Responsável": "284860  - Juliana Aparecida Ferreira De Freitas",
     "Dosagem de Produto - Cobrição": "1.06",
-    "Fazenda": "70301"
+    "Fazenda": "70301",
+    "Unnamed: 16": null
   },
   {
     "ID": "4013422",
@@ -15712,7 +16588,8 @@ const DOSAGEM_COBRICAO_DATA = [
     "Frente": "135 - FRENTE PEDRINHO",
     "Responsável": "284860  - Juliana Aparecida Ferreira De Freitas",
     "Dosagem de Produto - Cobrição": "1.04",
-    "Fazenda": "70301"
+    "Fazenda": "70301",
+    "Unnamed: 16": null
   },
   {
     "ID": "4010649",
@@ -15730,7 +16607,8 @@ const DOSAGEM_COBRICAO_DATA = [
     "Frente": "135 - FRENTE PEDRINHO",
     "Responsável": "284860  - Juliana Aparecida Ferreira De Freitas",
     "Dosagem de Produto - Cobrição": "1.1",
-    "Fazenda": "70301"
+    "Fazenda": "70301",
+    "Unnamed: 16": null
   },
   {
     "ID": "4010647",
@@ -15748,7 +16626,8 @@ const DOSAGEM_COBRICAO_DATA = [
     "Frente": "135 - FRENTE PEDRINHO",
     "Responsável": "284860  - Juliana Aparecida Ferreira De Freitas",
     "Dosagem de Produto - Cobrição": "1.12",
-    "Fazenda": "70301"
+    "Fazenda": "70301",
+    "Unnamed: 16": null
   },
   {
     "ID": "4006522",
@@ -15766,7 +16645,8 @@ const DOSAGEM_COBRICAO_DATA = [
     "Frente": "135 - FRENTE PEDRINHO",
     "Responsável": "284860  - Juliana Aparecida Ferreira De Freitas",
     "Dosagem de Produto - Cobrição": "1.02",
-    "Fazenda": "70431"
+    "Fazenda": "70431",
+    "Unnamed: 16": null
   },
   {
     "ID": "4006252",
@@ -15784,7 +16664,8 @@ const DOSAGEM_COBRICAO_DATA = [
     "Frente": "135 - FRENTE PEDRINHO",
     "Responsável": "REGINALDO DA SILVA GOMES ",
     "Dosagem de Produto - Cobrição": "1.02",
-    "Fazenda": "70431"
+    "Fazenda": "70431",
+    "Unnamed: 16": null
   },
   {
     "ID": "4006521",
@@ -15802,7 +16683,8 @@ const DOSAGEM_COBRICAO_DATA = [
     "Frente": "135 - FRENTE PEDRINHO",
     "Responsável": "284860  - Juliana Aparecida Ferreira De Freitas",
     "Dosagem de Produto - Cobrição": "1",
-    "Fazenda": "70431"
+    "Fazenda": "70431",
+    "Unnamed: 16": null
   },
   {
     "ID": "4006251",
@@ -15820,7 +16702,8 @@ const DOSAGEM_COBRICAO_DATA = [
     "Frente": "135 - FRENTE PEDRINHO",
     "Responsável": "REGINALDO DA SILVA GOMES ",
     "Dosagem de Produto - Cobrição": "1",
-    "Fazenda": "70431"
+    "Fazenda": "70431",
+    "Unnamed: 16": null
   },
   {
     "ID": "4004087",
@@ -15838,7 +16721,8 @@ const DOSAGEM_COBRICAO_DATA = [
     "Frente": "135 - FRENTE PEDRINHO",
     "Responsável": "285410",
     "Dosagem de Produto - Cobrição": "1.14",
-    "Fazenda": "70431"
+    "Fazenda": "70431",
+    "Unnamed: 16": null
   },
   {
     "ID": "4004086",
@@ -15856,7 +16740,8 @@ const DOSAGEM_COBRICAO_DATA = [
     "Frente": "135 - FRENTE PEDRINHO",
     "Responsável": "285410",
     "Dosagem de Produto - Cobrição": "1.12",
-    "Fazenda": "70431"
+    "Fazenda": "70431",
+    "Unnamed: 16": null
   },
   {
     "ID": "3997616",
@@ -15874,7 +16759,8 @@ const DOSAGEM_COBRICAO_DATA = [
     "Frente": "135 - FRENTE PEDRINHO",
     "Responsável": "284860  - Juliana Aparecida Ferreira De Freitas",
     "Dosagem de Produto - Cobrição": "1.12",
-    "Fazenda": "199802"
+    "Fazenda": "199802",
+    "Unnamed: 16": null
   },
   {
     "ID": "3997765",
@@ -15892,7 +16778,8 @@ const DOSAGEM_COBRICAO_DATA = [
     "Frente": "135 - FRENTE PEDRINHO",
     "Responsável": "REGINALDO DA SILVA GOMES ",
     "Dosagem de Produto - Cobrição": "1.12",
-    "Fazenda": "199802"
+    "Fazenda": "199802",
+    "Unnamed: 16": null
   },
   {
     "ID": "3997615",
@@ -15910,7 +16797,8 @@ const DOSAGEM_COBRICAO_DATA = [
     "Frente": "135 - FRENTE PEDRINHO",
     "Responsável": "284860  - Juliana Aparecida Ferreira De Freitas",
     "Dosagem de Produto - Cobrição": "1.1",
-    "Fazenda": "199802"
+    "Fazenda": "199802",
+    "Unnamed: 16": null
   },
   {
     "ID": "3997764",
@@ -15928,7 +16816,8 @@ const DOSAGEM_COBRICAO_DATA = [
     "Frente": "135 - FRENTE PEDRINHO",
     "Responsável": "REGINALDO DA SILVA GOMES ",
     "Dosagem de Produto - Cobrição": "1.1",
-    "Fazenda": "199802"
+    "Fazenda": "199802",
+    "Unnamed: 16": null
   },
   {
     "ID": "3949211",
@@ -15946,7 +16835,8 @@ const DOSAGEM_COBRICAO_DATA = [
     "Frente": "135 - FRENTE PEDRINHO",
     "Responsável": "MABILA HELEN D FIGUEIREDO",
     "Dosagem de Produto - Cobrição": "1.1",
-    "Fazenda": "36813"
+    "Fazenda": "36813",
+    "Unnamed: 16": null
   },
   {
     "ID": "3949210",
@@ -15964,7 +16854,8 @@ const DOSAGEM_COBRICAO_DATA = [
     "Frente": "135 - FRENTE PEDRINHO",
     "Responsável": "MABILA HELEN D FIGUEIREDO",
     "Dosagem de Produto - Cobrição": "1.16",
-    "Fazenda": "36813"
+    "Fazenda": "36813",
+    "Unnamed: 16": null
   },
   {
     "ID": "3945452",
@@ -15982,7 +16873,8 @@ const DOSAGEM_COBRICAO_DATA = [
     "Frente": "135 - FRENTE PEDRINHO",
     "Responsável": "284860  - Juliana Aparecida Ferreira De Freitas",
     "Dosagem de Produto - Cobrição": "1.04",
-    "Fazenda": "151901"
+    "Fazenda": "151901",
+    "Unnamed: 16": null
   },
   {
     "ID": "3945438",
@@ -16000,7 +16892,8 @@ const DOSAGEM_COBRICAO_DATA = [
     "Frente": "135 - FRENTE PEDRINHO",
     "Responsável": "284860  - Juliana Aparecida Ferreira De Freitas",
     "Dosagem de Produto - Cobrição": "1.02",
-    "Fazenda": "151901"
+    "Fazenda": "151901",
+    "Unnamed: 16": null
   },
   {
     "ID": "3942442",
@@ -16018,7 +16911,8 @@ const DOSAGEM_COBRICAO_DATA = [
     "Frente": "135 - FRENTE PEDRINHO",
     "Responsável": "MABILA HELEN D FIGUEIREDO",
     "Dosagem de Produto - Cobrição": "1.14",
-    "Fazenda": "151901"
+    "Fazenda": "151901",
+    "Unnamed: 16": null
   },
   {
     "ID": "3941328",
@@ -16036,7 +16930,8 @@ const DOSAGEM_COBRICAO_DATA = [
     "Frente": "135 - FRENTE PEDRINHO",
     "Responsável": "MABILA HELEN D FIGUEIREDO",
     "Dosagem de Produto - Cobrição": "1.12",
-    "Fazenda": "151901"
+    "Fazenda": "151901",
+    "Unnamed: 16": null
   },
   {
     "ID": "3942588",
@@ -16054,7 +16949,8 @@ const DOSAGEM_COBRICAO_DATA = [
     "Frente": "135 - FRENTE PEDRINHO",
     "Responsável": "MABILA HELEN D FIGUEIREDO",
     "Dosagem de Produto - Cobrição": "1.1",
-    "Fazenda": "151901"
+    "Fazenda": "151901",
+    "Unnamed: 16": null
   },
   {
     "ID": "3938495",
@@ -16072,7 +16968,8 @@ const DOSAGEM_COBRICAO_DATA = [
     "Frente": "261 - FRENTE PRÓPRIA  (EDMILSON)",
     "Responsável": "VITOR AMORIM RAMOS ",
     "Dosagem de Produto - Cobrição": "1.1",
-    "Fazenda": "177012"
+    "Fazenda": "177012",
+    "Unnamed: 16": null
   },
   {
     "ID": "3938494",
@@ -16090,7 +16987,8 @@ const DOSAGEM_COBRICAO_DATA = [
     "Frente": "261 - FRENTE PRÓPRIA  (EDMILSON)",
     "Responsável": "VITOR AMORIM RAMOS ",
     "Dosagem de Produto - Cobrição": "1",
-    "Fazenda": "177012"
+    "Fazenda": "177012",
+    "Unnamed: 16": null
   },
   {
     "ID": "3938535",
@@ -16108,7 +17006,8 @@ const DOSAGEM_COBRICAO_DATA = [
     "Frente": "135 - FRENTE PEDRINHO",
     "Responsável": "MABILA HELEN D FIGUEIREDO",
     "Dosagem de Produto - Cobrição": "1.12",
-    "Fazenda": "151901"
+    "Fazenda": "151901",
+    "Unnamed: 16": null
   },
   {
     "ID": "3938534",
@@ -16126,7 +17025,8 @@ const DOSAGEM_COBRICAO_DATA = [
     "Frente": "135 - FRENTE PEDRINHO",
     "Responsável": "MABILA HELEN D FIGUEIREDO",
     "Dosagem de Produto - Cobrição": "1.1",
-    "Fazenda": "151901"
+    "Fazenda": "151901",
+    "Unnamed: 16": null
   },
   {
     "ID": "3938562",
@@ -16144,7 +17044,8 @@ const DOSAGEM_COBRICAO_DATA = [
     "Frente": "135 - FRENTE PEDRINHO",
     "Responsável": "REGINALDO DA SILVA GOMES ",
     "Dosagem de Produto - Cobrição": "1.1",
-    "Fazenda": "151901"
+    "Fazenda": "151901",
+    "Unnamed: 16": null
   },
   {
     "ID": "3938561",
@@ -16162,7 +17063,8 @@ const DOSAGEM_COBRICAO_DATA = [
     "Frente": "135 - FRENTE PEDRINHO",
     "Responsável": "REGINALDO DA SILVA GOMES ",
     "Dosagem de Produto - Cobrição": "1.12",
-    "Fazenda": "151901"
+    "Fazenda": "151901",
+    "Unnamed: 16": null
   },
   {
     "ID": "3936115",
@@ -16180,7 +17082,8 @@ const DOSAGEM_COBRICAO_DATA = [
     "Frente": "135 - FRENTE PEDRINHO",
     "Responsável": "VITOR AMORIM RAMOS ",
     "Dosagem de Produto - Cobrição": "1.12",
-    "Fazenda": "151901"
+    "Fazenda": "151901",
+    "Unnamed: 16": null
   },
   {
     "ID": "3936114",
@@ -16198,7 +17101,8 @@ const DOSAGEM_COBRICAO_DATA = [
     "Frente": "135 - FRENTE PEDRINHO",
     "Responsável": "VITOR AMORIM RAMOS ",
     "Dosagem de Produto - Cobrição": "1.145",
-    "Fazenda": "151901"
+    "Fazenda": "151901",
+    "Unnamed: 16": null
   },
   {
     "ID": "3931263",
@@ -16216,7 +17120,8 @@ const DOSAGEM_COBRICAO_DATA = [
     "Frente": "261 - FRENTE PRÓPRIA  (EDMILSON)",
     "Responsável": "VITOR AMORIM RAMOS ",
     "Dosagem de Produto - Cobrição": "1.1",
-    "Fazenda": "67901"
+    "Fazenda": "67901",
+    "Unnamed: 16": null
   },
   {
     "ID": "3917517",
@@ -16234,7 +17139,8 @@ const DOSAGEM_COBRICAO_DATA = [
     "Frente": "261 - FRENTE PRÓPRIA  (EDMILSON)",
     "Responsável": "MABILA HELEN D FIGUEIREDO",
     "Dosagem de Produto - Cobrição": "1.08",
-    "Fazenda": "70408"
+    "Fazenda": "70408",
+    "Unnamed: 16": null
   },
   {
     "ID": "3928198",
@@ -16252,7 +17158,8 @@ const DOSAGEM_COBRICAO_DATA = [
     "Frente": "261 - FRENTE PRÓPRIA  (EDMILSON)",
     "Responsável": "VITOR AMORIM RAMOS ",
     "Dosagem de Produto - Cobrição": "1.1",
-    "Fazenda": "67901"
+    "Fazenda": "67901",
+    "Unnamed: 16": null
   },
   {
     "ID": "3928193",
@@ -16270,7 +17177,8 @@ const DOSAGEM_COBRICAO_DATA = [
     "Frente": "261 - FRENTE PRÓPRIA  (EDMILSON)",
     "Responsável": "VITOR AMORIM RAMOS ",
     "Dosagem de Produto - Cobrição": "1",
-    "Fazenda": "67901"
+    "Fazenda": "67901",
+    "Unnamed: 16": null
   },
   {
     "ID": "3925099",
@@ -16288,7 +17196,8 @@ const DOSAGEM_COBRICAO_DATA = [
     "Frente": "261 - FRENTE PRÓPRIA  (EDMILSON)",
     "Responsável": "MABILA HELEN D FIGUEIREDO",
     "Dosagem de Produto - Cobrição": "1.06",
-    "Fazenda": "67901"
+    "Fazenda": "67901",
+    "Unnamed: 16": null
   },
   {
     "ID": "3926081",
@@ -16306,7 +17215,8 @@ const DOSAGEM_COBRICAO_DATA = [
     "Frente": "135 - FRENTE PEDRINHO",
     "Responsável": "284860  - Juliana Aparecida Ferreira De Freitas",
     "Dosagem de Produto - Cobrição": "1.1",
-    "Fazenda": "177015"
+    "Fazenda": "177015",
+    "Unnamed: 16": null
   },
   {
     "ID": "3925098",
@@ -16324,7 +17234,8 @@ const DOSAGEM_COBRICAO_DATA = [
     "Frente": "261 - FRENTE PRÓPRIA  (EDMILSON)",
     "Responsável": "MABILA HELEN D FIGUEIREDO",
     "Dosagem de Produto - Cobrição": "1.04",
-    "Fazenda": "67901"
+    "Fazenda": "67901",
+    "Unnamed: 16": null
   },
   {
     "ID": "3926080",
@@ -16342,7 +17253,8 @@ const DOSAGEM_COBRICAO_DATA = [
     "Frente": "135 - FRENTE PEDRINHO",
     "Responsável": "284860  - Juliana Aparecida Ferreira De Freitas",
     "Dosagem de Produto - Cobrição": "1.08",
-    "Fazenda": "177015"
+    "Fazenda": "177015",
+    "Unnamed: 16": null
   },
   {
     "ID": "3922201",
@@ -16360,7 +17272,8 @@ const DOSAGEM_COBRICAO_DATA = [
     "Frente": "261 - FRENTE PRÓPRIA  (EDMILSON)",
     "Responsável": "MABILA HELEN D FIGUEIREDO",
     "Dosagem de Produto - Cobrição": "1.14",
-    "Fazenda": "111201"
+    "Fazenda": "111201",
+    "Unnamed: 16": null
   },
   {
     "ID": "3922199",
@@ -16378,7 +17291,8 @@ const DOSAGEM_COBRICAO_DATA = [
     "Frente": "261 - FRENTE PRÓPRIA  (EDMILSON)",
     "Responsável": "MABILA HELEN D FIGUEIREDO",
     "Dosagem de Produto - Cobrição": "1.16",
-    "Fazenda": "111201"
+    "Fazenda": "111201",
+    "Unnamed: 16": null
   },
   {
     "ID": "3922582",
@@ -16396,7 +17310,8 @@ const DOSAGEM_COBRICAO_DATA = [
     "Frente": "261 - FRENTE PRÓPRIA  (EDMILSON)",
     "Responsável": "REGINALDO DA SILVA GOMES ",
     "Dosagem de Produto - Cobrição": "1.1",
-    "Fazenda": "111201"
+    "Fazenda": "111201",
+    "Unnamed: 16": null
   },
   {
     "ID": "3922581",
@@ -16414,7 +17329,8 @@ const DOSAGEM_COBRICAO_DATA = [
     "Frente": "261 - FRENTE PRÓPRIA  (EDMILSON)",
     "Responsável": "REGINALDO DA SILVA GOMES ",
     "Dosagem de Produto - Cobrição": "1.16",
-    "Fazenda": "111201"
+    "Fazenda": "111201",
+    "Unnamed: 16": null
   },
   {
     "ID": "3923318",
@@ -16432,7 +17348,8 @@ const DOSAGEM_COBRICAO_DATA = [
     "Frente": "135 - FRENTE PEDRINHO",
     "Responsável": "284860  - Juliana Aparecida Ferreira De Freitas",
     "Dosagem de Produto - Cobrição": "1.12",
-    "Fazenda": "146301"
+    "Fazenda": "146301",
+    "Unnamed: 16": null
   },
   {
     "ID": "3923317",
@@ -16450,7 +17367,8 @@ const DOSAGEM_COBRICAO_DATA = [
     "Frente": "135 - FRENTE PEDRINHO",
     "Responsável": "284860  - Juliana Aparecida Ferreira De Freitas",
     "Dosagem de Produto - Cobrição": "1.1",
-    "Fazenda": "146301"
+    "Fazenda": "146301",
+    "Unnamed: 16": null
   },
   {
     "ID": "3920295",
@@ -16468,7 +17386,8 @@ const DOSAGEM_COBRICAO_DATA = [
     "Frente": "261 - FRENTE PRÓPRIA  (EDMILSON)",
     "Responsável": "MABILA HELEN D FIGUEIREDO",
     "Dosagem de Produto - Cobrição": "1.16",
-    "Fazenda": "142201"
+    "Fazenda": "142201",
+    "Unnamed: 16": null
   },
   {
     "ID": "3920294",
@@ -16486,7 +17405,8 @@ const DOSAGEM_COBRICAO_DATA = [
     "Frente": "261 - FRENTE PRÓPRIA  (EDMILSON)",
     "Responsável": "MABILA HELEN D FIGUEIREDO",
     "Dosagem de Produto - Cobrição": "1.12",
-    "Fazenda": "142201"
+    "Fazenda": "142201",
+    "Unnamed: 16": null
   },
   {
     "ID": "3920353",
@@ -16504,7 +17424,8 @@ const DOSAGEM_COBRICAO_DATA = [
     "Frente": "135 - FRENTE PEDRINHO",
     "Responsável": "284860  - Juliana Aparecida Ferreira De Freitas",
     "Dosagem de Produto - Cobrição": "1.1",
-    "Fazenda": "146301"
+    "Fazenda": "146301",
+    "Unnamed: 16": null
   },
   {
     "ID": "3920352",
@@ -16522,7 +17443,8 @@ const DOSAGEM_COBRICAO_DATA = [
     "Frente": "135 - FRENTE PEDRINHO",
     "Responsável": "284860  - Juliana Aparecida Ferreira De Freitas",
     "Dosagem de Produto - Cobrição": "1.12",
-    "Fazenda": "146301"
+    "Fazenda": "146301",
+    "Unnamed: 16": null
   },
   {
     "ID": "3919816",
@@ -16540,7 +17462,8 @@ const DOSAGEM_COBRICAO_DATA = [
     "Frente": "135 - FRENTE PEDRINHO",
     "Responsável": "REGINALDO DA SILVA GOMES ",
     "Dosagem de Produto - Cobrição": "1.12",
-    "Fazenda": "146301"
+    "Fazenda": "146301",
+    "Unnamed: 16": null
   },
   {
     "ID": "3919817",
@@ -16558,7 +17481,8 @@ const DOSAGEM_COBRICAO_DATA = [
     "Frente": "135 - FRENTE PEDRINHO",
     "Responsável": "REGINALDO DA SILVA GOMES ",
     "Dosagem de Produto - Cobrição": "1.1",
-    "Fazenda": "146301"
+    "Fazenda": "146301",
+    "Unnamed: 16": null
   },
   {
     "ID": "3917518",
@@ -16576,7 +17500,8 @@ const DOSAGEM_COBRICAO_DATA = [
     "Frente": "261 - FRENTE PRÓPRIA  (EDMILSON)",
     "Responsável": "MABILA HELEN D FIGUEIREDO",
     "Dosagem de Produto - Cobrição": "1.04",
-    "Fazenda": "70408"
+    "Fazenda": "70408",
+    "Unnamed: 16": null
   },
   {
     "ID": "3914848",
@@ -16594,7 +17519,8 @@ const DOSAGEM_COBRICAO_DATA = [
     "Frente": "261 - FRENTE PRÓPRIA  (EDMILSON)",
     "Responsável": "284860  - Juliana Aparecida Ferreira De Freitas",
     "Dosagem de Produto - Cobrição": "1.04",
-    "Fazenda": "70408"
+    "Fazenda": "70408",
+    "Unnamed: 16": null
   },
   {
     "ID": "3914847",
@@ -16612,7 +17538,8 @@ const DOSAGEM_COBRICAO_DATA = [
     "Frente": "261 - FRENTE PRÓPRIA  (EDMILSON)",
     "Responsável": "284860  - Juliana Aparecida Ferreira De Freitas",
     "Dosagem de Produto - Cobrição": "1.02",
-    "Fazenda": "70408"
+    "Fazenda": "70408",
+    "Unnamed: 16": null
   },
   {
     "ID": "3913372",
@@ -16630,7 +17557,8 @@ const DOSAGEM_COBRICAO_DATA = [
     "Frente": "261 - FRENTE PRÓPRIA  (EDMILSON)",
     "Responsável": "MABILA HELEN D FIGUEIREDO",
     "Dosagem de Produto - Cobrição": "1.08",
-    "Fazenda": "70408"
+    "Fazenda": "70408",
+    "Unnamed: 16": null
   },
   {
     "ID": "3913371",
@@ -16648,7 +17576,8 @@ const DOSAGEM_COBRICAO_DATA = [
     "Frente": "261 - FRENTE PRÓPRIA  (EDMILSON)",
     "Responsável": "MABILA HELEN D FIGUEIREDO",
     "Dosagem de Produto - Cobrição": "1.06",
-    "Fazenda": "70408"
+    "Fazenda": "70408",
+    "Unnamed: 16": null
   },
   {
     "ID": "3911349",
@@ -16666,7 +17595,8 @@ const DOSAGEM_COBRICAO_DATA = [
     "Frente": "261 - FRENTE PRÓPRIA  (EDMILSON)",
     "Responsável": "284860  - Juliana Aparecida Ferreira De Freitas",
     "Dosagem de Produto - Cobrição": "1.04",
-    "Fazenda": "70408"
+    "Fazenda": "70408",
+    "Unnamed: 16": null
   },
   {
     "ID": "3911348",
@@ -16684,7 +17614,8 @@ const DOSAGEM_COBRICAO_DATA = [
     "Frente": "261 - FRENTE PRÓPRIA  (EDMILSON)",
     "Responsável": "284860  - Juliana Aparecida Ferreira De Freitas",
     "Dosagem de Produto - Cobrição": "1.02",
-    "Fazenda": "70408"
+    "Fazenda": "70408",
+    "Unnamed: 16": null
   },
   {
     "ID": "3911968",
@@ -16702,7 +17633,8 @@ const DOSAGEM_COBRICAO_DATA = [
     "Frente": "261 - FRENTE PRÓPRIA  (EDMILSON)",
     "Responsável": "REGINALDO DA SILVA GOMES ",
     "Dosagem de Produto - Cobrição": "1.02",
-    "Fazenda": "70408"
+    "Fazenda": "70408",
+    "Unnamed: 16": null
   },
   {
     "ID": "3911967",
@@ -16720,7 +17652,8 @@ const DOSAGEM_COBRICAO_DATA = [
     "Frente": "261 - FRENTE PRÓPRIA  (EDMILSON)",
     "Responsável": "REGINALDO DA SILVA GOMES ",
     "Dosagem de Produto - Cobrição": "1.04",
-    "Fazenda": "70408"
+    "Fazenda": "70408",
+    "Unnamed: 16": null
   },
   {
     "ID": "4038386",
@@ -16738,7 +17671,8 @@ const DOSAGEM_COBRICAO_DATA = [
     "Frente": "261 - FRENTE PRÓPRIA  (EDMILSON)",
     "Responsável": "284860  - Juliana Aparecida Ferreira De Freitas",
     "Dosagem de Produto - Cobrição": "1.12",
-    "Fazenda": "50301"
+    "Fazenda": "50301",
+    "Unnamed: 16": null
   },
   {
     "ID": "4038385",
@@ -16756,7 +17690,8 @@ const DOSAGEM_COBRICAO_DATA = [
     "Frente": "261 - FRENTE PRÓPRIA  (EDMILSON)",
     "Responsável": "284860  - Juliana Aparecida Ferreira De Freitas",
     "Dosagem de Produto - Cobrição": "1.1",
-    "Fazenda": "50301"
+    "Fazenda": "50301",
+    "Unnamed: 16": null
   },
   {
     "ID": "4050436",
@@ -16774,7 +17709,8 @@ const DOSAGEM_COBRICAO_DATA = [
     "Frente": "261 - FRENTE PRÓPRIA  (EDMILSON)",
     "Responsável": "EDILIANA CARDOSO DA COSTA",
     "Dosagem de Produto - Cobrição": "1.1",
-    "Fazenda": "46601"
+    "Fazenda": "46601",
+    "Unnamed: 16": null
   },
   {
     "ID": "4050435",
@@ -16792,7 +17728,8 @@ const DOSAGEM_COBRICAO_DATA = [
     "Frente": "261 - FRENTE PRÓPRIA  (EDMILSON)",
     "Responsável": "EDILIANA CARDOSO DA COSTA",
     "Dosagem de Produto - Cobrição": "1.09",
-    "Fazenda": "46601"
+    "Fazenda": "46601",
+    "Unnamed: 16": null
   },
   {
     "ID": "4060348",
@@ -16804,13 +17741,14 @@ const DOSAGEM_COBRICAO_DATA = [
     "Data Fim": "19/11/2026 09:38",
     "Status": "Open",
     "Score": "0.00",
-    "Data Lançamento": "19/11/2026 00:00",
+    "Data Lançamento": "11/19/2026",
     "Local (Fazenda - Talhão)": "53501",
     "OS": "3840",
     "Frente": "261 - FRENTE PRÓPRIA  (EDMILSON)",
     "Responsável": "REGINALDO DA SILVA GOMES ",
     "Dosagem de Produto - Cobrição": "1.1",
-    "Fazenda": "53501"
+    "Fazenda": "53501",
+    "Unnamed: 16": null
   },
   {
     "ID": "4060347",
@@ -16822,13 +17760,14 @@ const DOSAGEM_COBRICAO_DATA = [
     "Data Fim": "19/11/2026 09:38",
     "Status": "Open",
     "Score": "0.00",
-    "Data Lançamento": "19/11/2026 00:00",
+    "Data Lançamento": "11/19/2026",
     "Local (Fazenda - Talhão)": "53501",
     "OS": "3840",
     "Frente": "261 - FRENTE PRÓPRIA  (EDMILSON)",
     "Responsável": "REGINALDO DA SILVA GOMES ",
     "Dosagem de Produto - Cobrição": "1.08",
-    "Fazenda": "53501"
+    "Fazenda": "53501",
+    "Unnamed: 16": null
   },
   {
     "ID": "4060102",
@@ -16840,13 +17779,14 @@ const DOSAGEM_COBRICAO_DATA = [
     "Data Fim": "19/11/2026 09:37",
     "Status": "Open",
     "Score": "0.00",
-    "Data Lançamento": "19/11/2026 00:00",
+    "Data Lançamento": "11/19/2026",
     "Local (Fazenda - Talhão)": "53501",
     "OS": "3840",
     "Frente": "261 - FRENTE PRÓPRIA  (EDMILSON)",
     "Responsável": "284860  - Juliana Aparecida Ferreira De Freitas",
     "Dosagem de Produto - Cobrição": "1.1",
-    "Fazenda": "53501"
+    "Fazenda": "53501",
+    "Unnamed: 16": null
   },
   {
     "ID": "4060101",
@@ -16858,12 +17798,13 @@ const DOSAGEM_COBRICAO_DATA = [
     "Data Fim": "19/11/2026 09:35",
     "Status": "Open",
     "Score": "0.00",
-    "Data Lançamento": "19/11/2026 00:00",
+    "Data Lançamento": "11/19/2026",
     "Local (Fazenda - Talhão)": "53501",
     "OS": "3840",
     "Frente": "261 - FRENTE PRÓPRIA  (EDMILSON)",
     "Responsável": "284860  - Juliana Aparecida Ferreira De Freitas",
     "Dosagem de Produto - Cobrição": "1.08",
-    "Fazenda": "53501"
+    "Fazenda": "53501",
+    "Unnamed: 16": null
   }
 ];

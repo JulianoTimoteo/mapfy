@@ -1,5 +1,9 @@
-// Auto-gerado em 21/11/2026 07:33:22
-const SULCACAO_DATA = [
+/**
+ * Dados Consolidados - sulcacao
+ * Total: 2869 registros
+ * Atualizado em: 21/11/2026 07:40
+ */
+window.SULCACAO_RAW_DATA = [
   {
     "ID": "3913067",
     "Usuário": "qualidade3@usinapitangueiras.com.br",
@@ -16,7 +20,8 @@ const SULCACAO_DATA = [
     "OS": "2707",
     "Frente": "261 - FRENTE PRÓPRIA  (EDMILSON)",
     "Profundidade do Sulco": "37",
-    "Fazenda": NaN
+    "Fazenda": null,
+    "Unnamed: 16": null
   },
   {
     "ID": "3913063",
@@ -34,7 +39,8 @@ const SULCACAO_DATA = [
     "OS": "2707",
     "Frente": "261 - FRENTE PRÓPRIA  (EDMILSON)",
     "Profundidade do Sulco": "38",
-    "Fazenda": NaN
+    "Fazenda": null,
+    "Unnamed: 16": null
   },
   {
     "ID": "3913060",
@@ -52,7 +58,8 @@ const SULCACAO_DATA = [
     "OS": "2707",
     "Frente": "261 - FRENTE PRÓPRIA  (EDMILSON)",
     "Profundidade do Sulco": "38",
-    "Fazenda": NaN
+    "Fazenda": null,
+    "Unnamed: 16": null
   },
   {
     "ID": "3913050",
@@ -70,7 +77,8 @@ const SULCACAO_DATA = [
     "OS": "2707",
     "Frente": "261 - FRENTE PRÓPRIA  (EDMILSON)",
     "Profundidade do Sulco": "37",
-    "Fazenda": NaN
+    "Fazenda": null,
+    "Unnamed: 16": null
   },
   {
     "ID": "3913046",
@@ -88,7 +96,8 @@ const SULCACAO_DATA = [
     "OS": "2707",
     "Frente": "261 - FRENTE PRÓPRIA  (EDMILSON)",
     "Profundidade do Sulco": "38",
-    "Fazenda": NaN
+    "Fazenda": null,
+    "Unnamed: 16": null
   },
   {
     "ID": "3913040",
@@ -106,7 +115,8 @@ const SULCACAO_DATA = [
     "OS": "2707",
     "Frente": "261 - FRENTE PRÓPRIA  (EDMILSON)",
     "Profundidade do Sulco": "37",
-    "Fazenda": NaN
+    "Fazenda": null,
+    "Unnamed: 16": null
   },
   {
     "ID": "3909667",
@@ -124,7 +134,8 @@ const SULCACAO_DATA = [
     "OS": "2707",
     "Frente": "261 - FRENTE PRÓPRIA  (EDMILSON)",
     "Profundidade do Sulco": "37",
-    "Fazenda": NaN
+    "Fazenda": null,
+    "Unnamed: 16": null
   },
   {
     "ID": "3909661",
@@ -142,7 +153,8 @@ const SULCACAO_DATA = [
     "OS": "2707",
     "Frente": "261 - FRENTE PRÓPRIA  (EDMILSON)",
     "Profundidade do Sulco": "38",
-    "Fazenda": NaN
+    "Fazenda": null,
+    "Unnamed: 16": null
   },
   {
     "ID": "3907167",
@@ -160,7 +172,8 @@ const SULCACAO_DATA = [
     "OS": "2707",
     "Frente": "261 - FRENTE PRÓPRIA  (EDMILSON)",
     "Profundidade do Sulco": "37",
-    "Fazenda": NaN
+    "Fazenda": null,
+    "Unnamed: 16": null
   },
   {
     "ID": "3907159",
@@ -178,7 +191,8 @@ const SULCACAO_DATA = [
     "OS": "2707",
     "Frente": "261 - FRENTE PRÓPRIA  (EDMILSON)",
     "Profundidade do Sulco": "38",
-    "Fazenda": NaN
+    "Fazenda": null,
+    "Unnamed: 16": null
   },
   {
     "ID": "3907155",
@@ -196,7 +210,8 @@ const SULCACAO_DATA = [
     "OS": "2707",
     "Frente": "261 - FRENTE PRÓPRIA  (EDMILSON)",
     "Profundidade do Sulco": "37",
-    "Fazenda": NaN
+    "Fazenda": null,
+    "Unnamed: 16": null
   },
   {
     "ID": "3907151",
@@ -214,7 +229,8 @@ const SULCACAO_DATA = [
     "OS": "2707",
     "Frente": "261 - FRENTE PRÓPRIA  (EDMILSON)",
     "Profundidade do Sulco": "38",
-    "Fazenda": NaN
+    "Fazenda": null,
+    "Unnamed: 16": null
   },
   {
     "ID": "3906868",
@@ -232,7 +248,8 @@ const SULCACAO_DATA = [
     "OS": "2707",
     "Frente": "261 - FRENTE PRÓPRIA  (EDMILSON)",
     "Profundidade do Sulco": "37",
-    "Fazenda": NaN
+    "Fazenda": null,
+    "Unnamed: 16": null
   },
   {
     "ID": "3906864",
@@ -250,7 +267,8 @@ const SULCACAO_DATA = [
     "OS": "2707",
     "Frente": "261 - FRENTE PRÓPRIA  (EDMILSON)",
     "Profundidade do Sulco": "37",
-    "Fazenda": NaN
+    "Fazenda": null,
+    "Unnamed: 16": null
   },
   {
     "ID": "3906860",
@@ -268,7 +286,8 @@ const SULCACAO_DATA = [
     "OS": "2707",
     "Frente": "261 - FRENTE PRÓPRIA  (EDMILSON)",
     "Profundidade do Sulco": "38",
-    "Fazenda": NaN
+    "Fazenda": null,
+    "Unnamed: 16": null
   },
   {
     "ID": "3906856",
@@ -286,7 +305,8 @@ const SULCACAO_DATA = [
     "OS": "2707",
     "Frente": "261 - FRENTE PRÓPRIA  (EDMILSON)",
     "Profundidade do Sulco": "38",
-    "Fazenda": NaN
+    "Fazenda": null,
+    "Unnamed: 16": null
   },
   {
     "ID": "3906852",
@@ -304,7 +324,8 @@ const SULCACAO_DATA = [
     "OS": "2707",
     "Frente": "261 - FRENTE PRÓPRIA  (EDMILSON)",
     "Profundidade do Sulco": "38",
-    "Fazenda": NaN
+    "Fazenda": null,
+    "Unnamed: 16": null
   },
   {
     "ID": "3906847",
@@ -322,7 +343,8 @@ const SULCACAO_DATA = [
     "OS": "2707",
     "Frente": "261 - FRENTE PRÓPRIA  (EDMILSON)",
     "Profundidade do Sulco": "38",
-    "Fazenda": NaN
+    "Fazenda": null,
+    "Unnamed: 16": null
   },
   {
     "ID": "3904469",
@@ -340,7 +362,8 @@ const SULCACAO_DATA = [
     "OS": "2708",
     "Frente": "261 - FRENTE PRÓPRIA  (EDMILSON)",
     "Profundidade do Sulco": "37",
-    "Fazenda": NaN
+    "Fazenda": null,
+    "Unnamed: 16": null
   },
   {
     "ID": "3904465",
@@ -358,7 +381,8 @@ const SULCACAO_DATA = [
     "OS": "2707 ",
     "Frente": "261 - FRENTE PRÓPRIA  (EDMILSON)",
     "Profundidade do Sulco": "37",
-    "Fazenda": NaN
+    "Fazenda": null,
+    "Unnamed: 16": null
   },
   {
     "ID": "3904461",
@@ -376,7 +400,8 @@ const SULCACAO_DATA = [
     "OS": "2707",
     "Frente": "261 - FRENTE PRÓPRIA  (EDMILSON)",
     "Profundidade do Sulco": "38",
-    "Fazenda": NaN
+    "Fazenda": null,
+    "Unnamed: 16": null
   },
   {
     "ID": "3904457",
@@ -394,7 +419,8 @@ const SULCACAO_DATA = [
     "OS": "2707",
     "Frente": "261 - FRENTE PRÓPRIA  (EDMILSON)",
     "Profundidade do Sulco": "38",
-    "Fazenda": NaN
+    "Fazenda": null,
+    "Unnamed: 16": null
   },
   {
     "ID": "3904423",
@@ -412,7 +438,8 @@ const SULCACAO_DATA = [
     "OS": "2707",
     "Frente": "261 - FRENTE PRÓPRIA  (EDMILSON)",
     "Profundidade do Sulco": "38",
-    "Fazenda": NaN
+    "Fazenda": null,
+    "Unnamed: 16": null
   },
   {
     "ID": "3904419",
@@ -430,7 +457,8 @@ const SULCACAO_DATA = [
     "OS": "2707",
     "Frente": "261 - FRENTE PRÓPRIA  (EDMILSON)",
     "Profundidade do Sulco": "38",
-    "Fazenda": NaN
+    "Fazenda": null,
+    "Unnamed: 16": null
   },
   {
     "ID": "3904415",
@@ -448,7 +476,8 @@ const SULCACAO_DATA = [
     "OS": "2707",
     "Frente": "261 - FRENTE PRÓPRIA  (EDMILSON)",
     "Profundidade do Sulco": "38",
-    "Fazenda": NaN
+    "Fazenda": null,
+    "Unnamed: 16": null
   },
   {
     "ID": "3902250",
@@ -466,7 +495,8 @@ const SULCACAO_DATA = [
     "OS": "2707",
     "Frente": "261 - FRENTE PRÓPRIA  (EDMILSON)",
     "Profundidade do Sulco": "38",
-    "Fazenda": NaN
+    "Fazenda": null,
+    "Unnamed: 16": null
   },
   {
     "ID": "3902247",
@@ -484,7 +514,8 @@ const SULCACAO_DATA = [
     "OS": "2707",
     "Frente": "261 - FRENTE PRÓPRIA  (EDMILSON)",
     "Profundidade do Sulco": "38",
-    "Fazenda": NaN
+    "Fazenda": null,
+    "Unnamed: 16": null
   },
   {
     "ID": "3902203",
@@ -502,7 +533,8 @@ const SULCACAO_DATA = [
     "OS": "2707",
     "Frente": "261 - FRENTE PRÓPRIA  (EDMILSON)",
     "Profundidade do Sulco": "38",
-    "Fazenda": NaN
+    "Fazenda": null,
+    "Unnamed: 16": null
   },
   {
     "ID": "3902198",
@@ -520,7 +552,8 @@ const SULCACAO_DATA = [
     "OS": "2707",
     "Frente": "261 - FRENTE PRÓPRIA  (EDMILSON)",
     "Profundidade do Sulco": "37",
-    "Fazenda": NaN
+    "Fazenda": null,
+    "Unnamed: 16": null
   },
   {
     "ID": "3902192",
@@ -538,7 +571,8 @@ const SULCACAO_DATA = [
     "OS": "2707",
     "Frente": "261 - FRENTE PRÓPRIA  (EDMILSON)",
     "Profundidade do Sulco": "38",
-    "Fazenda": NaN
+    "Fazenda": null,
+    "Unnamed: 16": null
   },
   {
     "ID": "3902167",
@@ -556,7 +590,8 @@ const SULCACAO_DATA = [
     "OS": "2707",
     "Frente": "261 - FRENTE PRÓPRIA  (EDMILSON)",
     "Profundidade do Sulco": "37",
-    "Fazenda": NaN
+    "Fazenda": null,
+    "Unnamed: 16": null
   },
   {
     "ID": "3902163",
@@ -574,7 +609,8 @@ const SULCACAO_DATA = [
     "OS": "2707",
     "Frente": "261 - FRENTE PRÓPRIA  (EDMILSON)",
     "Profundidade do Sulco": "37",
-    "Fazenda": NaN
+    "Fazenda": null,
+    "Unnamed: 16": null
   },
   {
     "ID": "3902159",
@@ -592,7 +628,8 @@ const SULCACAO_DATA = [
     "OS": "2707",
     "Frente": "261 - FRENTE PRÓPRIA  (EDMILSON)",
     "Profundidade do Sulco": "38",
-    "Fazenda": NaN
+    "Fazenda": null,
+    "Unnamed: 16": null
   },
   {
     "ID": "3902155",
@@ -610,7 +647,8 @@ const SULCACAO_DATA = [
     "OS": "2708",
     "Frente": "261 - FRENTE PRÓPRIA  (EDMILSON)",
     "Profundidade do Sulco": "38",
-    "Fazenda": NaN
+    "Fazenda": null,
+    "Unnamed: 16": null
   },
   {
     "ID": "3901766",
@@ -628,7 +666,8 @@ const SULCACAO_DATA = [
     "OS": "2707",
     "Frente": "261 - FRENTE PRÓPRIA  (EDMILSON)",
     "Profundidade do Sulco": "38",
-    "Fazenda": NaN
+    "Fazenda": null,
+    "Unnamed: 16": null
   },
   {
     "ID": "3900459",
@@ -646,7 +685,8 @@ const SULCACAO_DATA = [
     "OS": "2707",
     "Frente": "261 - FRENTE PRÓPRIA  (EDMILSON)",
     "Profundidade do Sulco": "40",
-    "Fazenda": NaN
+    "Fazenda": null,
+    "Unnamed: 16": null
   },
   {
     "ID": "3900458",
@@ -664,7 +704,8 @@ const SULCACAO_DATA = [
     "OS": "2707",
     "Frente": "261 - FRENTE PRÓPRIA  (EDMILSON)",
     "Profundidade do Sulco": "35",
-    "Fazenda": NaN
+    "Fazenda": null,
+    "Unnamed: 16": null
   },
   {
     "ID": "3900457",
@@ -682,7 +723,8 @@ const SULCACAO_DATA = [
     "OS": "2707",
     "Frente": "261 - FRENTE PRÓPRIA  (EDMILSON)",
     "Profundidade do Sulco": "39",
-    "Fazenda": NaN
+    "Fazenda": null,
+    "Unnamed: 16": null
   },
   {
     "ID": "3900456",
@@ -700,7 +742,8 @@ const SULCACAO_DATA = [
     "OS": "2707",
     "Frente": "261 - FRENTE PRÓPRIA  (EDMILSON)",
     "Profundidade do Sulco": "37",
-    "Fazenda": NaN
+    "Fazenda": null,
+    "Unnamed: 16": null
   },
   {
     "ID": "3900455",
@@ -718,7 +761,8 @@ const SULCACAO_DATA = [
     "OS": "2707",
     "Frente": "261 - FRENTE PRÓPRIA  (EDMILSON)",
     "Profundidade do Sulco": "38",
-    "Fazenda": NaN
+    "Fazenda": null,
+    "Unnamed: 16": null
   },
   {
     "ID": "3899147",
@@ -736,7 +780,8 @@ const SULCACAO_DATA = [
     "OS": "2598",
     "Frente": "261 - FRENTE PRÓPRIA  (EDMILSON)",
     "Profundidade do Sulco": "38",
-    "Fazenda": NaN
+    "Fazenda": null,
+    "Unnamed: 16": null
   },
   {
     "ID": "3899145",
@@ -754,7 +799,8 @@ const SULCACAO_DATA = [
     "OS": "2598",
     "Frente": "261 - FRENTE PRÓPRIA  (EDMILSON)",
     "Profundidade do Sulco": "37",
-    "Fazenda": NaN
+    "Fazenda": null,
+    "Unnamed: 16": null
   },
   {
     "ID": "3899009",
@@ -772,7 +818,8 @@ const SULCACAO_DATA = [
     "OS": "2598",
     "Frente": "261 - FRENTE PRÓPRIA  (EDMILSON)",
     "Profundidade do Sulco": "37",
-    "Fazenda": NaN
+    "Fazenda": null,
+    "Unnamed: 16": null
   },
   {
     "ID": "3899005",
@@ -790,7 +837,8 @@ const SULCACAO_DATA = [
     "OS": "2598",
     "Frente": "261 - FRENTE PRÓPRIA  (EDMILSON)",
     "Profundidade do Sulco": "38",
-    "Fazenda": NaN
+    "Fazenda": null,
+    "Unnamed: 16": null
   },
   {
     "ID": "3899000",
@@ -808,7 +856,8 @@ const SULCACAO_DATA = [
     "OS": "2598",
     "Frente": "261 - FRENTE PRÓPRIA  (EDMILSON)",
     "Profundidade do Sulco": "38",
-    "Fazenda": NaN
+    "Fazenda": null,
+    "Unnamed: 16": null
   },
   {
     "ID": "3898996",
@@ -826,7 +875,8 @@ const SULCACAO_DATA = [
     "OS": "2598",
     "Frente": "261 - FRENTE PRÓPRIA  (EDMILSON)",
     "Profundidade do Sulco": "37",
-    "Fazenda": NaN
+    "Fazenda": null,
+    "Unnamed: 16": null
   },
   {
     "ID": "3898985",
@@ -844,7 +894,8 @@ const SULCACAO_DATA = [
     "OS": "2598",
     "Frente": "261 - FRENTE PRÓPRIA  (EDMILSON)",
     "Profundidade do Sulco": "38",
-    "Fazenda": NaN
+    "Fazenda": null,
+    "Unnamed: 16": null
   },
   {
     "ID": "3898982",
@@ -862,7 +913,8 @@ const SULCACAO_DATA = [
     "OS": "2598",
     "Frente": "261 - FRENTE PRÓPRIA  (EDMILSON)",
     "Profundidade do Sulco": "38",
-    "Fazenda": NaN
+    "Fazenda": null,
+    "Unnamed: 16": null
   },
   {
     "ID": "3898978",
@@ -880,7 +932,8 @@ const SULCACAO_DATA = [
     "OS": "2598",
     "Frente": "261 - FRENTE PRÓPRIA  (EDMILSON)",
     "Profundidade do Sulco": "38",
-    "Fazenda": NaN
+    "Fazenda": null,
+    "Unnamed: 16": null
   },
   {
     "ID": "3898968",
@@ -898,7 +951,8 @@ const SULCACAO_DATA = [
     "OS": "2598",
     "Frente": "261 - FRENTE PRÓPRIA  (EDMILSON)",
     "Profundidade do Sulco": "38",
-    "Fazenda": NaN
+    "Fazenda": null,
+    "Unnamed: 16": null
   },
   {
     "ID": "3896730",
@@ -916,7 +970,8 @@ const SULCACAO_DATA = [
     "OS": "2598",
     "Frente": "261 - FRENTE PRÓPRIA  (EDMILSON)",
     "Profundidade do Sulco": "37",
-    "Fazenda": NaN
+    "Fazenda": null,
+    "Unnamed: 16": null
   },
   {
     "ID": "3896729",
@@ -934,7 +989,8 @@ const SULCACAO_DATA = [
     "OS": "2598",
     "Frente": "261 - FRENTE PRÓPRIA  (EDMILSON)",
     "Profundidade do Sulco": "38",
-    "Fazenda": NaN
+    "Fazenda": null,
+    "Unnamed: 16": null
   },
   {
     "ID": "3896715",
@@ -952,7 +1008,8 @@ const SULCACAO_DATA = [
     "OS": "2598",
     "Frente": "261 - FRENTE PRÓPRIA  (EDMILSON)",
     "Profundidade do Sulco": "37",
-    "Fazenda": NaN
+    "Fazenda": null,
+    "Unnamed: 16": null
   },
   {
     "ID": "3896711",
@@ -970,7 +1027,8 @@ const SULCACAO_DATA = [
     "OS": "2598",
     "Frente": "261 - FRENTE PRÓPRIA  (EDMILSON)",
     "Profundidade do Sulco": "38",
-    "Fazenda": NaN
+    "Fazenda": null,
+    "Unnamed: 16": null
   },
   {
     "ID": "3896707",
@@ -988,7 +1046,8 @@ const SULCACAO_DATA = [
     "OS": "2598",
     "Frente": "261 - FRENTE PRÓPRIA  (EDMILSON)",
     "Profundidade do Sulco": "37",
-    "Fazenda": NaN
+    "Fazenda": null,
+    "Unnamed: 16": null
   },
   {
     "ID": "3896703",
@@ -1006,7 +1065,8 @@ const SULCACAO_DATA = [
     "OS": "2598",
     "Frente": "261 - FRENTE PRÓPRIA  (EDMILSON)",
     "Profundidade do Sulco": "37",
-    "Fazenda": NaN
+    "Fazenda": null,
+    "Unnamed: 16": null
   },
   {
     "ID": "3896271",
@@ -1024,7 +1084,8 @@ const SULCACAO_DATA = [
     "OS": "2598",
     "Frente": "261 - FRENTE PRÓPRIA  (EDMILSON)",
     "Profundidade do Sulco": "38",
-    "Fazenda": NaN
+    "Fazenda": null,
+    "Unnamed: 16": null
   },
   {
     "ID": "3896266",
@@ -1042,7 +1103,8 @@ const SULCACAO_DATA = [
     "OS": "2598",
     "Frente": "261 - FRENTE PRÓPRIA  (EDMILSON)",
     "Profundidade do Sulco": "37",
-    "Fazenda": NaN
+    "Fazenda": null,
+    "Unnamed: 16": null
   },
   {
     "ID": "3896128",
@@ -1060,7 +1122,8 @@ const SULCACAO_DATA = [
     "OS": "2598",
     "Frente": "261 - FRENTE PRÓPRIA  (EDMILSON)",
     "Profundidade do Sulco": "36",
-    "Fazenda": NaN
+    "Fazenda": null,
+    "Unnamed: 16": null
   },
   {
     "ID": "3896250",
@@ -1078,7 +1141,8 @@ const SULCACAO_DATA = [
     "OS": "2598",
     "Frente": "261 - FRENTE PRÓPRIA  (EDMILSON)",
     "Profundidade do Sulco": "38",
-    "Fazenda": NaN
+    "Fazenda": null,
+    "Unnamed: 16": null
   },
   {
     "ID": "3896124",
@@ -1096,7 +1160,8 @@ const SULCACAO_DATA = [
     "OS": "2598",
     "Frente": "261 - FRENTE PRÓPRIA  (EDMILSON)",
     "Profundidade do Sulco": "39",
-    "Fazenda": NaN
+    "Fazenda": null,
+    "Unnamed: 16": null
   },
   {
     "ID": "3896246",
@@ -1114,7 +1179,8 @@ const SULCACAO_DATA = [
     "OS": "2598",
     "Frente": "261 - FRENTE PRÓPRIA  (EDMILSON)",
     "Profundidade do Sulco": "38",
-    "Fazenda": NaN
+    "Fazenda": null,
+    "Unnamed: 16": null
   },
   {
     "ID": "3896120",
@@ -1132,7 +1198,8 @@ const SULCACAO_DATA = [
     "OS": "2598",
     "Frente": "261 - FRENTE PRÓPRIA  (EDMILSON)",
     "Profundidade do Sulco": "38",
-    "Fazenda": NaN
+    "Fazenda": null,
+    "Unnamed: 16": null
   },
   {
     "ID": "3893908",
@@ -1150,7 +1217,8 @@ const SULCACAO_DATA = [
     "OS": "2598",
     "Frente": "261 - FRENTE PRÓPRIA  (EDMILSON)",
     "Profundidade do Sulco": "37",
-    "Fazenda": NaN
+    "Fazenda": null,
+    "Unnamed: 16": null
   },
   {
     "ID": "3893905",
@@ -1168,7 +1236,8 @@ const SULCACAO_DATA = [
     "OS": "2598",
     "Frente": "261 - FRENTE PRÓPRIA  (EDMILSON)",
     "Profundidade do Sulco": "37",
-    "Fazenda": NaN
+    "Fazenda": null,
+    "Unnamed: 16": null
   },
   {
     "ID": "3893900",
@@ -1186,7 +1255,8 @@ const SULCACAO_DATA = [
     "OS": "2598",
     "Frente": "261 - FRENTE PRÓPRIA  (EDMILSON)",
     "Profundidade do Sulco": "37",
-    "Fazenda": NaN
+    "Fazenda": null,
+    "Unnamed: 16": null
   },
   {
     "ID": "3893887",
@@ -1204,7 +1274,8 @@ const SULCACAO_DATA = [
     "OS": "2598",
     "Frente": "261 - FRENTE PRÓPRIA  (EDMILSON)",
     "Profundidade do Sulco": "38",
-    "Fazenda": NaN
+    "Fazenda": null,
+    "Unnamed: 16": null
   },
   {
     "ID": "3893883",
@@ -1222,7 +1293,8 @@ const SULCACAO_DATA = [
     "OS": "2598",
     "Frente": "261 - FRENTE PRÓPRIA  (EDMILSON)",
     "Profundidade do Sulco": "37",
-    "Fazenda": NaN
+    "Fazenda": null,
+    "Unnamed: 16": null
   },
   {
     "ID": "3893879",
@@ -1240,7 +1312,8 @@ const SULCACAO_DATA = [
     "OS": "2598",
     "Frente": "261 - FRENTE PRÓPRIA  (EDMILSON)",
     "Profundidade do Sulco": "38",
-    "Fazenda": NaN
+    "Fazenda": null,
+    "Unnamed: 16": null
   },
   {
     "ID": "3893875",
@@ -1258,7 +1331,8 @@ const SULCACAO_DATA = [
     "OS": "2598",
     "Frente": "261 - FRENTE PRÓPRIA  (EDMILSON)",
     "Profundidade do Sulco": "38",
-    "Fazenda": NaN
+    "Fazenda": null,
+    "Unnamed: 16": null
   },
   {
     "ID": "3893871",
@@ -1276,7 +1350,8 @@ const SULCACAO_DATA = [
     "OS": "2598",
     "Frente": "261 - FRENTE PRÓPRIA  (EDMILSON)",
     "Profundidade do Sulco": "37",
-    "Fazenda": NaN
+    "Fazenda": null,
+    "Unnamed: 16": null
   },
   {
     "ID": "3878185",
@@ -1294,7 +1369,8 @@ const SULCACAO_DATA = [
     "OS": "2557",
     "Frente": "261 - FRENTE PRÓPRIA  (EDMILSON)",
     "Profundidade do Sulco": "37",
-    "Fazenda": NaN
+    "Fazenda": null,
+    "Unnamed: 16": null
   },
   {
     "ID": "3887002",
@@ -1312,7 +1388,8 @@ const SULCACAO_DATA = [
     "OS": "2255",
     "Frente": "261 - FRENTE PRÓPRIA  (EDMILSON)",
     "Profundidade do Sulco": "37",
-    "Fazenda": NaN
+    "Fazenda": null,
+    "Unnamed: 16": null
   },
   {
     "ID": "3887001",
@@ -1330,7 +1407,8 @@ const SULCACAO_DATA = [
     "OS": "2255",
     "Frente": "261 - FRENTE PRÓPRIA  (EDMILSON)",
     "Profundidade do Sulco": "37",
-    "Fazenda": NaN
+    "Fazenda": null,
+    "Unnamed: 16": null
   },
   {
     "ID": "3886994",
@@ -1348,7 +1426,8 @@ const SULCACAO_DATA = [
     "OS": "2255",
     "Frente": "261 - FRENTE PRÓPRIA  (EDMILSON)",
     "Profundidade do Sulco": "38",
-    "Fazenda": NaN
+    "Fazenda": null,
+    "Unnamed: 16": null
   },
   {
     "ID": "3886988",
@@ -1366,7 +1445,8 @@ const SULCACAO_DATA = [
     "OS": "2255",
     "Frente": "261 - FRENTE PRÓPRIA  (EDMILSON)",
     "Profundidade do Sulco": "38",
-    "Fazenda": NaN
+    "Fazenda": null,
+    "Unnamed: 16": null
   },
   {
     "ID": "3886983",
@@ -1384,7 +1464,8 @@ const SULCACAO_DATA = [
     "OS": "2255",
     "Frente": "261 - FRENTE PRÓPRIA  (EDMILSON)",
     "Profundidade do Sulco": "37",
-    "Fazenda": NaN
+    "Fazenda": null,
+    "Unnamed: 16": null
   },
   {
     "ID": "3886974",
@@ -1402,7 +1483,8 @@ const SULCACAO_DATA = [
     "OS": "2255",
     "Frente": "261 - FRENTE PRÓPRIA  (EDMILSON)",
     "Profundidade do Sulco": "37",
-    "Fazenda": NaN
+    "Fazenda": null,
+    "Unnamed: 16": null
   },
   {
     "ID": "3886969",
@@ -1420,7 +1502,8 @@ const SULCACAO_DATA = [
     "OS": "2255",
     "Frente": "261 - FRENTE PRÓPRIA  (EDMILSON)",
     "Profundidade do Sulco": "37",
-    "Fazenda": NaN
+    "Fazenda": null,
+    "Unnamed: 16": null
   },
   {
     "ID": "3887084",
@@ -1438,7 +1521,8 @@ const SULCACAO_DATA = [
     "OS": "2255",
     "Frente": "261 - FRENTE PRÓPRIA  (EDMILSON)",
     "Profundidade do Sulco": "37",
-    "Fazenda": NaN
+    "Fazenda": null,
+    "Unnamed: 16": null
   },
   {
     "ID": "3887090",
@@ -1456,7 +1540,8 @@ const SULCACAO_DATA = [
     "OS": "2255",
     "Frente": "261 - FRENTE PRÓPRIA  (EDMILSON)",
     "Profundidade do Sulco": "38",
-    "Fazenda": NaN
+    "Fazenda": null,
+    "Unnamed: 16": null
   },
   {
     "ID": "3887074",
@@ -1474,7 +1559,8 @@ const SULCACAO_DATA = [
     "OS": "2255",
     "Frente": "261 - FRENTE PRÓPRIA  (EDMILSON)",
     "Profundidade do Sulco": "37",
-    "Fazenda": NaN
+    "Fazenda": null,
+    "Unnamed: 16": null
   },
   {
     "ID": "3884075",
@@ -1492,7 +1578,8 @@ const SULCACAO_DATA = [
     "OS": "2557",
     "Frente": "261 - FRENTE PRÓPRIA  (EDMILSON)",
     "Profundidade do Sulco": "38",
-    "Fazenda": NaN
+    "Fazenda": null,
+    "Unnamed: 16": null
   },
   {
     "ID": "3884071",
@@ -1510,7 +1597,8 @@ const SULCACAO_DATA = [
     "OS": "2557",
     "Frente": "261 - FRENTE PRÓPRIA  (EDMILSON)",
     "Profundidade do Sulco": "38",
-    "Fazenda": NaN
+    "Fazenda": null,
+    "Unnamed: 16": null
   },
   {
     "ID": "3884065",
@@ -1528,7 +1616,8 @@ const SULCACAO_DATA = [
     "OS": "2557",
     "Frente": "261 - FRENTE PRÓPRIA  (EDMILSON)",
     "Profundidade do Sulco": "37",
-    "Fazenda": NaN
+    "Fazenda": null,
+    "Unnamed: 16": null
   },
   {
     "ID": "3884060",
@@ -1546,7 +1635,8 @@ const SULCACAO_DATA = [
     "OS": "2557",
     "Frente": "261 - FRENTE PRÓPRIA  (EDMILSON)",
     "Profundidade do Sulco": "38",
-    "Fazenda": NaN
+    "Fazenda": null,
+    "Unnamed: 16": null
   },
   {
     "ID": "3884057",
@@ -1564,7 +1654,8 @@ const SULCACAO_DATA = [
     "OS": "2557",
     "Frente": "261 - FRENTE PRÓPRIA  (EDMILSON)",
     "Profundidade do Sulco": "38",
-    "Fazenda": NaN
+    "Fazenda": null,
+    "Unnamed: 16": null
   },
   {
     "ID": "3880986",
@@ -1582,7 +1673,8 @@ const SULCACAO_DATA = [
     "OS": "2557",
     "Frente": "261 - FRENTE PRÓPRIA  (EDMILSON)",
     "Profundidade do Sulco": "38",
-    "Fazenda": NaN
+    "Fazenda": null,
+    "Unnamed: 16": null
   },
   {
     "ID": "3880974",
@@ -1600,7 +1692,8 @@ const SULCACAO_DATA = [
     "OS": "2557",
     "Frente": "261 - FRENTE PRÓPRIA  (EDMILSON)",
     "Profundidade do Sulco": "38",
-    "Fazenda": NaN
+    "Fazenda": null,
+    "Unnamed: 16": null
   },
   {
     "ID": "3880971",
@@ -1618,7 +1711,8 @@ const SULCACAO_DATA = [
     "OS": "2557",
     "Frente": "261 - FRENTE PRÓPRIA  (EDMILSON)",
     "Profundidade do Sulco": "38",
-    "Fazenda": NaN
+    "Fazenda": null,
+    "Unnamed: 16": null
   },
   {
     "ID": "3880966",
@@ -1636,7 +1730,8 @@ const SULCACAO_DATA = [
     "OS": "2557",
     "Frente": "261 - FRENTE PRÓPRIA  (EDMILSON)",
     "Profundidade do Sulco": "37",
-    "Fazenda": NaN
+    "Fazenda": null,
+    "Unnamed: 16": null
   },
   {
     "ID": "3880927",
@@ -1654,7 +1749,8 @@ const SULCACAO_DATA = [
     "OS": "2557",
     "Frente": "261 - FRENTE PRÓPRIA  (EDMILSON)",
     "Profundidade do Sulco": "38",
-    "Fazenda": NaN
+    "Fazenda": null,
+    "Unnamed: 16": null
   },
   {
     "ID": "3880914",
@@ -1672,7 +1768,8 @@ const SULCACAO_DATA = [
     "OS": "2557",
     "Frente": "261 - FRENTE PRÓPRIA  (EDMILSON)",
     "Profundidade do Sulco": "38",
-    "Fazenda": NaN
+    "Fazenda": null,
+    "Unnamed: 16": null
   },
   {
     "ID": "3880910",
@@ -1690,7 +1787,8 @@ const SULCACAO_DATA = [
     "OS": "2557",
     "Frente": "261 - FRENTE PRÓPRIA  (EDMILSON)",
     "Profundidade do Sulco": "38",
-    "Fazenda": NaN
+    "Fazenda": null,
+    "Unnamed: 16": null
   },
   {
     "ID": "3880906",
@@ -1708,7 +1806,8 @@ const SULCACAO_DATA = [
     "OS": "2557",
     "Frente": "261 - FRENTE PRÓPRIA  (EDMILSON)",
     "Profundidade do Sulco": "38",
-    "Fazenda": NaN
+    "Fazenda": null,
+    "Unnamed: 16": null
   },
   {
     "ID": "3880902",
@@ -1726,7 +1825,8 @@ const SULCACAO_DATA = [
     "OS": "2557",
     "Frente": "261 - FRENTE PRÓPRIA  (EDMILSON)",
     "Profundidade do Sulco": "38",
-    "Fazenda": NaN
+    "Fazenda": null,
+    "Unnamed: 16": null
   },
   {
     "ID": "3880897",
@@ -1744,7 +1844,8 @@ const SULCACAO_DATA = [
     "OS": "2557",
     "Frente": "261 - FRENTE PRÓPRIA  (EDMILSON)",
     "Profundidade do Sulco": "37",
-    "Fazenda": NaN
+    "Fazenda": null,
+    "Unnamed: 16": null
   },
   {
     "ID": "3878189",
@@ -1762,7 +1863,8 @@ const SULCACAO_DATA = [
     "OS": "2557",
     "Frente": "261 - FRENTE PRÓPRIA  (EDMILSON)",
     "Profundidade do Sulco": "38",
-    "Fazenda": NaN
+    "Fazenda": null,
+    "Unnamed: 16": null
   },
   {
     "ID": "3877801",
@@ -1780,7 +1882,8 @@ const SULCACAO_DATA = [
     "OS": "2557",
     "Frente": "261 - FRENTE PRÓPRIA  (EDMILSON)",
     "Profundidade do Sulco": "38",
-    "Fazenda": NaN
+    "Fazenda": null,
+    "Unnamed: 16": null
   },
   {
     "ID": "3877794",
@@ -1798,7 +1901,8 @@ const SULCACAO_DATA = [
     "OS": "2557",
     "Frente": "261 - FRENTE PRÓPRIA  (EDMILSON)",
     "Profundidade do Sulco": "38",
-    "Fazenda": NaN
+    "Fazenda": null,
+    "Unnamed: 16": null
   },
   {
     "ID": "3877790",
@@ -1816,7 +1920,8 @@ const SULCACAO_DATA = [
     "OS": "2557",
     "Frente": "261 - FRENTE PRÓPRIA  (EDMILSON)",
     "Profundidade do Sulco": "38",
-    "Fazenda": NaN
+    "Fazenda": null,
+    "Unnamed: 16": null
   },
   {
     "ID": "3877789",
@@ -1834,7 +1939,8 @@ const SULCACAO_DATA = [
     "OS": "2557",
     "Frente": "261 - FRENTE PRÓPRIA  (EDMILSON)",
     "Profundidade do Sulco": "38",
-    "Fazenda": NaN
+    "Fazenda": null,
+    "Unnamed: 16": null
   },
   {
     "ID": "3877782",
@@ -1852,7 +1958,8 @@ const SULCACAO_DATA = [
     "OS": "2557",
     "Frente": "261 - FRENTE PRÓPRIA  (EDMILSON)",
     "Profundidade do Sulco": "37",
-    "Fazenda": NaN
+    "Fazenda": null,
+    "Unnamed: 16": null
   },
   {
     "ID": "3877781",
@@ -1870,7 +1977,8 @@ const SULCACAO_DATA = [
     "OS": "2557",
     "Frente": "261 - FRENTE PRÓPRIA  (EDMILSON)",
     "Profundidade do Sulco": "38",
-    "Fazenda": NaN
+    "Fazenda": null,
+    "Unnamed: 16": null
   },
   {
     "ID": "3877760",
@@ -1888,7 +1996,8 @@ const SULCACAO_DATA = [
     "OS": "2557",
     "Frente": "261 - FRENTE PRÓPRIA  (EDMILSON)",
     "Profundidade do Sulco": "37",
-    "Fazenda": NaN
+    "Fazenda": null,
+    "Unnamed: 16": null
   },
   {
     "ID": "3877755",
@@ -1906,7 +2015,8 @@ const SULCACAO_DATA = [
     "OS": "2557",
     "Frente": "261 - FRENTE PRÓPRIA  (EDMILSON)",
     "Profundidade do Sulco": "38",
-    "Fazenda": NaN
+    "Fazenda": null,
+    "Unnamed: 16": null
   },
   {
     "ID": "3877753",
@@ -1924,7 +2034,8 @@ const SULCACAO_DATA = [
     "OS": "2557",
     "Frente": "261 - FRENTE PRÓPRIA  (EDMILSON)",
     "Profundidade do Sulco": "38",
-    "Fazenda": NaN
+    "Fazenda": null,
+    "Unnamed: 16": null
   },
   {
     "ID": "3874795",
@@ -1942,7 +2053,8 @@ const SULCACAO_DATA = [
     "OS": "2532",
     "Frente": "261 - FRENTE PRÓPRIA  (EDMILSON)",
     "Profundidade do Sulco": "37",
-    "Fazenda": NaN
+    "Fazenda": null,
+    "Unnamed: 16": null
   },
   {
     "ID": "3874787",
@@ -1960,7 +2072,8 @@ const SULCACAO_DATA = [
     "OS": "2532",
     "Frente": "261 - FRENTE PRÓPRIA  (EDMILSON)",
     "Profundidade do Sulco": "37",
-    "Fazenda": NaN
+    "Fazenda": null,
+    "Unnamed: 16": null
   },
   {
     "ID": "3874783",
@@ -1978,7 +2091,8 @@ const SULCACAO_DATA = [
     "OS": "2532",
     "Frente": "261 - FRENTE PRÓPRIA  (EDMILSON)",
     "Profundidade do Sulco": "37",
-    "Fazenda": NaN
+    "Fazenda": null,
+    "Unnamed: 16": null
   },
   {
     "ID": "3874779",
@@ -1996,7 +2110,8 @@ const SULCACAO_DATA = [
     "OS": "2532",
     "Frente": "261 - FRENTE PRÓPRIA  (EDMILSON)",
     "Profundidade do Sulco": "38",
-    "Fazenda": NaN
+    "Fazenda": null,
+    "Unnamed: 16": null
   },
   {
     "ID": "3874776",
@@ -2014,7 +2129,8 @@ const SULCACAO_DATA = [
     "OS": "253253201",
     "Frente": "261 - FRENTE PRÓPRIA  (EDMILSON)",
     "Profundidade do Sulco": "38",
-    "Fazenda": NaN
+    "Fazenda": null,
+    "Unnamed: 16": null
   },
   {
     "ID": "3872801",
@@ -2032,7 +2148,8 @@ const SULCACAO_DATA = [
     "OS": "2532",
     "Frente": "261 - FRENTE PRÓPRIA  (EDMILSON)",
     "Profundidade do Sulco": "8",
-    "Fazenda": NaN
+    "Fazenda": null,
+    "Unnamed: 16": null
   },
   {
     "ID": "3872790",
@@ -2050,7 +2167,8 @@ const SULCACAO_DATA = [
     "OS": "2532",
     "Frente": "261 - FRENTE PRÓPRIA  (EDMILSON)",
     "Profundidade do Sulco": "38",
-    "Fazenda": NaN
+    "Fazenda": null,
+    "Unnamed: 16": null
   },
   {
     "ID": "3872786",
@@ -2068,7 +2186,8 @@ const SULCACAO_DATA = [
     "OS": "2532",
     "Frente": "261 - FRENTE PRÓPRIA  (EDMILSON)",
     "Profundidade do Sulco": "38",
-    "Fazenda": NaN
+    "Fazenda": null,
+    "Unnamed: 16": null
   },
   {
     "ID": "3872782",
@@ -2086,7 +2205,8 @@ const SULCACAO_DATA = [
     "OS": "2532",
     "Frente": "261 - FRENTE PRÓPRIA  (EDMILSON)",
     "Profundidade do Sulco": "39",
-    "Fazenda": NaN
+    "Fazenda": null,
+    "Unnamed: 16": null
   },
   {
     "ID": "3872775",
@@ -2104,7 +2224,8 @@ const SULCACAO_DATA = [
     "OS": "2532",
     "Frente": "261 - FRENTE PRÓPRIA  (EDMILSON)",
     "Profundidade do Sulco": "38",
-    "Fazenda": NaN
+    "Fazenda": null,
+    "Unnamed: 16": null
   },
   {
     "ID": "3872771",
@@ -2122,7 +2243,8 @@ const SULCACAO_DATA = [
     "OS": "2532",
     "Frente": "261 - FRENTE PRÓPRIA  (EDMILSON)",
     "Profundidade do Sulco": "38",
-    "Fazenda": NaN
+    "Fazenda": null,
+    "Unnamed: 16": null
   },
   {
     "ID": "3872765",
@@ -2140,7 +2262,8 @@ const SULCACAO_DATA = [
     "OS": "2532",
     "Frente": "261 - FRENTE PRÓPRIA  (EDMILSON)",
     "Profundidade do Sulco": "7",
-    "Fazenda": NaN
+    "Fazenda": null,
+    "Unnamed: 16": null
   },
   {
     "ID": "3872760",
@@ -2158,7 +2281,8 @@ const SULCACAO_DATA = [
     "OS": "2532",
     "Frente": "261 - FRENTE PRÓPRIA  (EDMILSON)",
     "Profundidade do Sulco": "37",
-    "Fazenda": NaN
+    "Fazenda": null,
+    "Unnamed: 16": null
   },
   {
     "ID": "3872723",
@@ -2176,7 +2300,8 @@ const SULCACAO_DATA = [
     "OS": "2532",
     "Frente": "261 - FRENTE PRÓPRIA  (EDMILSON)",
     "Profundidade do Sulco": "37",
-    "Fazenda": NaN
+    "Fazenda": null,
+    "Unnamed: 16": null
   },
   {
     "ID": "3872718",
@@ -2194,7 +2319,8 @@ const SULCACAO_DATA = [
     "OS": "2532",
     "Frente": "261 - FRENTE PRÓPRIA  (EDMILSON)",
     "Profundidade do Sulco": "38",
-    "Fazenda": NaN
+    "Fazenda": null,
+    "Unnamed: 16": null
   },
   {
     "ID": "3872713",
@@ -2212,7 +2338,8 @@ const SULCACAO_DATA = [
     "OS": "2532",
     "Frente": "261 - FRENTE PRÓPRIA  (EDMILSON)",
     "Profundidade do Sulco": "38",
-    "Fazenda": NaN
+    "Fazenda": null,
+    "Unnamed: 16": null
   },
   {
     "ID": "3872706",
@@ -2230,7 +2357,8 @@ const SULCACAO_DATA = [
     "OS": "2532",
     "Frente": "261 - FRENTE PRÓPRIA  (EDMILSON)",
     "Profundidade do Sulco": "38",
-    "Fazenda": NaN
+    "Fazenda": null,
+    "Unnamed: 16": null
   },
   {
     "ID": "3872699",
@@ -2248,7 +2376,8 @@ const SULCACAO_DATA = [
     "OS": "2532",
     "Frente": "261 - FRENTE PRÓPRIA  (EDMILSON)",
     "Profundidade do Sulco": "38",
-    "Fazenda": NaN
+    "Fazenda": null,
+    "Unnamed: 16": null
   },
   {
     "ID": "3872278",
@@ -2266,7 +2395,8 @@ const SULCACAO_DATA = [
     "OS": "2532",
     "Frente": "261 - FRENTE PRÓPRIA  (EDMILSON)",
     "Profundidade do Sulco": "35",
-    "Fazenda": NaN
+    "Fazenda": null,
+    "Unnamed: 16": null
   },
   {
     "ID": "3872689",
@@ -2284,7 +2414,8 @@ const SULCACAO_DATA = [
     "OS": "2532",
     "Frente": "261 - FRENTE PRÓPRIA  (EDMILSON)",
     "Profundidade do Sulco": "37",
-    "Fazenda": NaN
+    "Fazenda": null,
+    "Unnamed: 16": null
   },
   {
     "ID": "3872272",
@@ -2302,7 +2433,8 @@ const SULCACAO_DATA = [
     "OS": "2532",
     "Frente": "261 - FRENTE PRÓPRIA  (EDMILSON)",
     "Profundidade do Sulco": "36",
-    "Fazenda": NaN
+    "Fazenda": null,
+    "Unnamed: 16": null
   },
   {
     "ID": "3872682",
@@ -2320,7 +2452,8 @@ const SULCACAO_DATA = [
     "OS": "2532",
     "Frente": "261 - FRENTE PRÓPRIA  (EDMILSON)",
     "Profundidade do Sulco": "38",
-    "Fazenda": NaN
+    "Fazenda": null,
+    "Unnamed: 16": null
   },
   {
     "ID": "3872265",
@@ -2338,7 +2471,8 @@ const SULCACAO_DATA = [
     "OS": "2532",
     "Frente": "261 - FRENTE PRÓPRIA  (EDMILSON)",
     "Profundidade do Sulco": "35",
-    "Fazenda": NaN
+    "Fazenda": null,
+    "Unnamed: 16": null
   },
   {
     "ID": "3870279",
@@ -2356,7 +2490,8 @@ const SULCACAO_DATA = [
     "OS": "2532",
     "Frente": "261 - FRENTE PRÓPRIA  (EDMILSON)",
     "Profundidade do Sulco": "37",
-    "Fazenda": NaN
+    "Fazenda": null,
+    "Unnamed: 16": null
   },
   {
     "ID": "3870272",
@@ -2374,7 +2509,8 @@ const SULCACAO_DATA = [
     "OS": "2532",
     "Frente": "261 - FRENTE PRÓPRIA  (EDMILSON)",
     "Profundidade do Sulco": "38",
-    "Fazenda": NaN
+    "Fazenda": null,
+    "Unnamed: 16": null
   },
   {
     "ID": "3870270",
@@ -2392,7 +2528,8 @@ const SULCACAO_DATA = [
     "OS": "2532",
     "Frente": "261 - FRENTE PRÓPRIA  (EDMILSON)",
     "Profundidade do Sulco": "37",
-    "Fazenda": NaN
+    "Fazenda": null,
+    "Unnamed: 16": null
   },
   {
     "ID": "3870261",
@@ -2410,7 +2547,8 @@ const SULCACAO_DATA = [
     "OS": "2532",
     "Frente": "261 - FRENTE PRÓPRIA  (EDMILSON)",
     "Profundidade do Sulco": "38",
-    "Fazenda": NaN
+    "Fazenda": null,
+    "Unnamed: 16": null
   },
   {
     "ID": "3870257",
@@ -2428,7 +2566,8 @@ const SULCACAO_DATA = [
     "OS": "2532",
     "Frente": "261 - FRENTE PRÓPRIA  (EDMILSON)",
     "Profundidade do Sulco": "38",
-    "Fazenda": NaN
+    "Fazenda": null,
+    "Unnamed: 16": null
   },
   {
     "ID": "3870125",
@@ -2446,7 +2585,8 @@ const SULCACAO_DATA = [
     "OS": "2532",
     "Frente": "261 - FRENTE PRÓPRIA  (EDMILSON)",
     "Profundidade do Sulco": "38",
-    "Fazenda": NaN
+    "Fazenda": null,
+    "Unnamed: 16": null
   },
   {
     "ID": "3870113",
@@ -2464,7 +2604,8 @@ const SULCACAO_DATA = [
     "OS": "2532",
     "Frente": "261 - FRENTE PRÓPRIA  (EDMILSON)",
     "Profundidade do Sulco": "37",
-    "Fazenda": NaN
+    "Fazenda": null,
+    "Unnamed: 16": null
   },
   {
     "ID": "3870103",
@@ -2482,7 +2623,8 @@ const SULCACAO_DATA = [
     "OS": "2532",
     "Frente": "261 - FRENTE PRÓPRIA  (EDMILSON)",
     "Profundidade do Sulco": "38",
-    "Fazenda": NaN
+    "Fazenda": null,
+    "Unnamed: 16": null
   },
   {
     "ID": "3870094",
@@ -2500,7 +2642,8 @@ const SULCACAO_DATA = [
     "OS": "2532",
     "Frente": "261 - FRENTE PRÓPRIA  (EDMILSON)",
     "Profundidade do Sulco": "38",
-    "Fazenda": NaN
+    "Fazenda": null,
+    "Unnamed: 16": null
   },
   {
     "ID": "3867374",
@@ -2518,7 +2661,8 @@ const SULCACAO_DATA = [
     "OS": "2532",
     "Frente": "261 - FRENTE PRÓPRIA  (EDMILSON)",
     "Profundidade do Sulco": "37",
-    "Fazenda": NaN
+    "Fazenda": null,
+    "Unnamed: 16": null
   },
   {
     "ID": "3867369",
@@ -2536,7 +2680,8 @@ const SULCACAO_DATA = [
     "OS": "2532",
     "Frente": "261 - FRENTE PRÓPRIA  (EDMILSON)",
     "Profundidade do Sulco": "38",
-    "Fazenda": NaN
+    "Fazenda": null,
+    "Unnamed: 16": null
   },
   {
     "ID": "3867364",
@@ -2554,7 +2699,8 @@ const SULCACAO_DATA = [
     "OS": "2532",
     "Frente": "261 - FRENTE PRÓPRIA  (EDMILSON)",
     "Profundidade do Sulco": "39",
-    "Fazenda": NaN
+    "Fazenda": null,
+    "Unnamed: 16": null
   },
   {
     "ID": "3867359",
@@ -2572,7 +2718,8 @@ const SULCACAO_DATA = [
     "OS": "2532",
     "Frente": "261 - FRENTE PRÓPRIA  (EDMILSON)",
     "Profundidade do Sulco": "38",
-    "Fazenda": NaN
+    "Fazenda": null,
+    "Unnamed: 16": null
   },
   {
     "ID": "3867353",
@@ -2590,7 +2737,8 @@ const SULCACAO_DATA = [
     "OS": "2532",
     "Frente": "261 - FRENTE PRÓPRIA  (EDMILSON)",
     "Profundidade do Sulco": "39",
-    "Fazenda": NaN
+    "Fazenda": null,
+    "Unnamed: 16": null
   },
   {
     "ID": "3867352",
@@ -2608,7 +2756,8 @@ const SULCACAO_DATA = [
     "OS": "2532",
     "Frente": "261 - FRENTE PRÓPRIA  (EDMILSON)",
     "Profundidade do Sulco": "37",
-    "Fazenda": NaN
+    "Fazenda": null,
+    "Unnamed: 16": null
   },
   {
     "ID": "3867348",
@@ -2626,7 +2775,8 @@ const SULCACAO_DATA = [
     "OS": "2532",
     "Frente": "261 - FRENTE PRÓPRIA  (EDMILSON)",
     "Profundidade do Sulco": "37",
-    "Fazenda": NaN
+    "Fazenda": null,
+    "Unnamed: 16": null
   },
   {
     "ID": "3867127",
@@ -2644,7 +2794,8 @@ const SULCACAO_DATA = [
     "OS": "2532",
     "Frente": "261 - FRENTE PRÓPRIA  (EDMILSON)",
     "Profundidade do Sulco": "36",
-    "Fazenda": NaN
+    "Fazenda": null,
+    "Unnamed: 16": null
   },
   {
     "ID": "3867323",
@@ -2662,7 +2813,8 @@ const SULCACAO_DATA = [
     "OS": "2532",
     "Frente": "261 - FRENTE PRÓPRIA  (EDMILSON)",
     "Profundidade do Sulco": "38",
-    "Fazenda": NaN
+    "Fazenda": null,
+    "Unnamed: 16": null
   },
   {
     "ID": "3867122",
@@ -2680,7 +2832,8 @@ const SULCACAO_DATA = [
     "OS": "2532",
     "Frente": "261 - FRENTE PRÓPRIA  (EDMILSON)",
     "Profundidade do Sulco": "37",
-    "Fazenda": NaN
+    "Fazenda": null,
+    "Unnamed: 16": null
   },
   {
     "ID": "3867319",
@@ -2698,7 +2851,8 @@ const SULCACAO_DATA = [
     "OS": "2532",
     "Frente": "261 - FRENTE PRÓPRIA  (EDMILSON)",
     "Profundidade do Sulco": "38",
-    "Fazenda": NaN
+    "Fazenda": null,
+    "Unnamed: 16": null
   },
   {
     "ID": "3867120",
@@ -2716,7 +2870,8 @@ const SULCACAO_DATA = [
     "OS": "2532",
     "Frente": "261 - FRENTE PRÓPRIA  (EDMILSON)",
     "Profundidade do Sulco": "37",
-    "Fazenda": NaN
+    "Fazenda": null,
+    "Unnamed: 16": null
   },
   {
     "ID": "3867312",
@@ -2734,7 +2889,8 @@ const SULCACAO_DATA = [
     "OS": "2532",
     "Frente": "261 - FRENTE PRÓPRIA  (EDMILSON)",
     "Profundidade do Sulco": "38",
-    "Fazenda": NaN
+    "Fazenda": null,
+    "Unnamed: 16": null
   },
   {
     "ID": "3867117",
@@ -2752,7 +2908,8 @@ const SULCACAO_DATA = [
     "OS": "2532",
     "Frente": "261 - FRENTE PRÓPRIA  (EDMILSON)",
     "Profundidade do Sulco": "37",
-    "Fazenda": NaN
+    "Fazenda": null,
+    "Unnamed: 16": null
   },
   {
     "ID": "3867307",
@@ -2770,7 +2927,8 @@ const SULCACAO_DATA = [
     "OS": "2532",
     "Frente": "261 - FRENTE PRÓPRIA  (EDMILSON)",
     "Profundidade do Sulco": "37",
-    "Fazenda": NaN
+    "Fazenda": null,
+    "Unnamed: 16": null
   },
   {
     "ID": "3867379",
@@ -2788,7 +2946,8 @@ const SULCACAO_DATA = [
     "OS": "2532",
     "Frente": "261 - FRENTE PRÓPRIA  (EDMILSON)",
     "Profundidade do Sulco": "37",
-    "Fazenda": NaN
+    "Fazenda": null,
+    "Unnamed: 16": null
   },
   {
     "ID": "3867114",
@@ -2806,7 +2965,8 @@ const SULCACAO_DATA = [
     "OS": "2532",
     "Frente": "261 - FRENTE PRÓPRIA  (EDMILSON)",
     "Profundidade do Sulco": "36",
-    "Fazenda": NaN
+    "Fazenda": null,
+    "Unnamed: 16": null
   },
   {
     "ID": "3864724",
@@ -2824,7 +2984,8 @@ const SULCACAO_DATA = [
     "OS": "2532",
     "Frente": "261 - FRENTE PRÓPRIA  (EDMILSON)",
     "Profundidade do Sulco": "37",
-    "Fazenda": NaN
+    "Fazenda": null,
+    "Unnamed: 16": null
   },
   {
     "ID": "3864723",
@@ -2842,7 +3003,8 @@ const SULCACAO_DATA = [
     "OS": "2532",
     "Frente": "261 - FRENTE PRÓPRIA  (EDMILSON)",
     "Profundidade do Sulco": "36",
-    "Fazenda": NaN
+    "Fazenda": null,
+    "Unnamed: 16": null
   },
   {
     "ID": "3864722",
@@ -2860,7 +3022,8 @@ const SULCACAO_DATA = [
     "OS": "2532",
     "Frente": "261 - FRENTE PRÓPRIA  (EDMILSON)",
     "Profundidade do Sulco": "39",
-    "Fazenda": NaN
+    "Fazenda": null,
+    "Unnamed: 16": null
   },
   {
     "ID": "3864721",
@@ -2878,7 +3041,8 @@ const SULCACAO_DATA = [
     "OS": "2532",
     "Frente": "261 - FRENTE PRÓPRIA  (EDMILSON)",
     "Profundidade do Sulco": "37",
-    "Fazenda": NaN
+    "Fazenda": null,
+    "Unnamed: 16": null
   },
   {
     "ID": "3864720",
@@ -2896,7 +3060,8 @@ const SULCACAO_DATA = [
     "OS": "2532",
     "Frente": "261 - FRENTE PRÓPRIA  (EDMILSON)",
     "Profundidade do Sulco": "39",
-    "Fazenda": NaN
+    "Fazenda": null,
+    "Unnamed: 16": null
   },
   {
     "ID": "3864719",
@@ -2914,7 +3079,8 @@ const SULCACAO_DATA = [
     "OS": "2532",
     "Frente": "261 - FRENTE PRÓPRIA  (EDMILSON)",
     "Profundidade do Sulco": "37",
-    "Fazenda": NaN
+    "Fazenda": null,
+    "Unnamed: 16": null
   },
   {
     "ID": "3864718",
@@ -2932,7 +3098,8 @@ const SULCACAO_DATA = [
     "OS": "2532",
     "Frente": "261 - FRENTE PRÓPRIA  (EDMILSON)",
     "Profundidade do Sulco": "39",
-    "Fazenda": NaN
+    "Fazenda": null,
+    "Unnamed: 16": null
   },
   {
     "ID": "3864717",
@@ -2950,7 +3117,8 @@ const SULCACAO_DATA = [
     "OS": "2532",
     "Frente": "261 - FRENTE PRÓPRIA  (EDMILSON)",
     "Profundidade do Sulco": "35",
-    "Fazenda": NaN
+    "Fazenda": null,
+    "Unnamed: 16": null
   },
   {
     "ID": "3864716",
@@ -2968,7 +3136,8 @@ const SULCACAO_DATA = [
     "OS": "2532",
     "Frente": "261 - FRENTE PRÓPRIA  (EDMILSON)",
     "Profundidade do Sulco": "39",
-    "Fazenda": NaN
+    "Fazenda": null,
+    "Unnamed: 16": null
   },
   {
     "ID": "3864715",
@@ -2986,7 +3155,8 @@ const SULCACAO_DATA = [
     "OS": "2532",
     "Frente": "261 - FRENTE PRÓPRIA  (EDMILSON)",
     "Profundidade do Sulco": "36",
-    "Fazenda": NaN
+    "Fazenda": null,
+    "Unnamed: 16": null
   },
   {
     "ID": "3864714",
@@ -3004,7 +3174,8 @@ const SULCACAO_DATA = [
     "OS": "2532",
     "Frente": "261 - FRENTE PRÓPRIA  (EDMILSON)",
     "Profundidade do Sulco": "38",
-    "Fazenda": NaN
+    "Fazenda": null,
+    "Unnamed: 16": null
   },
   {
     "ID": "3864711",
@@ -3022,7 +3193,8 @@ const SULCACAO_DATA = [
     "OS": "2532",
     "Frente": "261 - FRENTE PRÓPRIA  (EDMILSON)",
     "Profundidade do Sulco": "36",
-    "Fazenda": NaN
+    "Fazenda": null,
+    "Unnamed: 16": null
   },
   {
     "ID": "3864194",
@@ -3040,7 +3212,8 @@ const SULCACAO_DATA = [
     "OS": "9742",
     "Frente": "261 - FRENTE PRÓPRIA  (EDMILSON)",
     "Profundidade do Sulco": "38",
-    "Fazenda": NaN
+    "Fazenda": null,
+    "Unnamed: 16": null
   },
   {
     "ID": "3864190",
@@ -3058,7 +3231,8 @@ const SULCACAO_DATA = [
     "OS": "9742",
     "Frente": "261 - FRENTE PRÓPRIA  (EDMILSON)",
     "Profundidade do Sulco": "37",
-    "Fazenda": NaN
+    "Fazenda": null,
+    "Unnamed: 16": null
   },
   {
     "ID": "3864186",
@@ -3076,7 +3250,8 @@ const SULCACAO_DATA = [
     "OS": "9742",
     "Frente": "261 - FRENTE PRÓPRIA  (EDMILSON)",
     "Profundidade do Sulco": "37",
-    "Fazenda": NaN
+    "Fazenda": null,
+    "Unnamed: 16": null
   },
   {
     "ID": "3864178",
@@ -3094,7 +3269,8 @@ const SULCACAO_DATA = [
     "OS": "9742",
     "Frente": "261 - FRENTE PRÓPRIA  (EDMILSON)",
     "Profundidade do Sulco": "37",
-    "Fazenda": NaN
+    "Fazenda": null,
+    "Unnamed: 16": null
   },
   {
     "ID": "3864173",
@@ -3112,7 +3288,8 @@ const SULCACAO_DATA = [
     "OS": "9742",
     "Frente": "261 - FRENTE PRÓPRIA  (EDMILSON)",
     "Profundidade do Sulco": "38",
-    "Fazenda": NaN
+    "Fazenda": null,
+    "Unnamed: 16": null
   },
   {
     "ID": "3864169",
@@ -3130,7 +3307,8 @@ const SULCACAO_DATA = [
     "OS": "9742",
     "Frente": "261 - FRENTE PRÓPRIA  (EDMILSON)",
     "Profundidade do Sulco": "36",
-    "Fazenda": NaN
+    "Fazenda": null,
+    "Unnamed: 16": null
   },
   {
     "ID": "3864160",
@@ -3148,7 +3326,8 @@ const SULCACAO_DATA = [
     "OS": "9742",
     "Frente": "261 - FRENTE PRÓPRIA  (EDMILSON)",
     "Profundidade do Sulco": "37",
-    "Fazenda": NaN
+    "Fazenda": null,
+    "Unnamed: 16": null
   },
   {
     "ID": "3861941",
@@ -3166,7 +3345,8 @@ const SULCACAO_DATA = [
     "OS": "9742",
     "Frente": "261 - FRENTE PRÓPRIA  (EDMILSON)",
     "Profundidade do Sulco": "38",
-    "Fazenda": NaN
+    "Fazenda": null,
+    "Unnamed: 16": null
   },
   {
     "ID": "3861939",
@@ -3184,7 +3364,8 @@ const SULCACAO_DATA = [
     "OS": "9742",
     "Frente": "261 - FRENTE PRÓPRIA  (EDMILSON)",
     "Profundidade do Sulco": "38",
-    "Fazenda": NaN
+    "Fazenda": null,
+    "Unnamed: 16": null
   },
   {
     "ID": "3861936",
@@ -3202,7 +3383,8 @@ const SULCACAO_DATA = [
     "OS": "9742",
     "Frente": "261 - FRENTE PRÓPRIA  (EDMILSON)",
     "Profundidade do Sulco": "38",
-    "Fazenda": NaN
+    "Fazenda": null,
+    "Unnamed: 16": null
   },
   {
     "ID": "3861929",
@@ -3220,7 +3402,8 @@ const SULCACAO_DATA = [
     "OS": "9742",
     "Frente": "261 - FRENTE PRÓPRIA  (EDMILSON)",
     "Profundidade do Sulco": "37",
-    "Fazenda": NaN
+    "Fazenda": null,
+    "Unnamed: 16": null
   },
   {
     "ID": "3861926",
@@ -3238,7 +3421,8 @@ const SULCACAO_DATA = [
     "OS": "9742",
     "Frente": "261 - FRENTE PRÓPRIA  (EDMILSON)",
     "Profundidade do Sulco": "37",
-    "Fazenda": NaN
+    "Fazenda": null,
+    "Unnamed: 16": null
   },
   {
     "ID": "3861907",
@@ -3256,7 +3440,8 @@ const SULCACAO_DATA = [
     "OS": "9742",
     "Frente": "261 - FRENTE PRÓPRIA  (EDMILSON)",
     "Profundidade do Sulco": "37",
-    "Fazenda": NaN
+    "Fazenda": null,
+    "Unnamed: 16": null
   },
   {
     "ID": "3861900",
@@ -3274,7 +3459,8 @@ const SULCACAO_DATA = [
     "OS": "9742",
     "Frente": "261 - FRENTE PRÓPRIA  (EDMILSON)",
     "Profundidade do Sulco": "37",
-    "Fazenda": NaN
+    "Fazenda": null,
+    "Unnamed: 16": null
   },
   {
     "ID": "3861896",
@@ -3292,7 +3478,8 @@ const SULCACAO_DATA = [
     "OS": "9742",
     "Frente": "261 - FRENTE PRÓPRIA  (EDMILSON)",
     "Profundidade do Sulco": "37",
-    "Fazenda": NaN
+    "Fazenda": null,
+    "Unnamed: 16": null
   },
   {
     "ID": "3861893",
@@ -3310,7 +3497,8 @@ const SULCACAO_DATA = [
     "OS": "9742",
     "Frente": "261 - FRENTE PRÓPRIA  (EDMILSON)",
     "Profundidade do Sulco": "38",
-    "Fazenda": NaN
+    "Fazenda": null,
+    "Unnamed: 16": null
   },
   {
     "ID": "3861888",
@@ -3328,7 +3516,8 @@ const SULCACAO_DATA = [
     "OS": "9742",
     "Frente": "261 - FRENTE PRÓPRIA  (EDMILSON)",
     "Profundidade do Sulco": "37",
-    "Fazenda": NaN
+    "Fazenda": null,
+    "Unnamed: 16": null
   },
   {
     "ID": "3861969",
@@ -3346,7 +3535,8 @@ const SULCACAO_DATA = [
     "OS": "9742",
     "Frente": "261 - FRENTE PRÓPRIA  (EDMILSON)",
     "Profundidade do Sulco": "37",
-    "Fazenda": NaN
+    "Fazenda": null,
+    "Unnamed: 16": null
   },
   {
     "ID": "3861172",
@@ -3364,7 +3554,8 @@ const SULCACAO_DATA = [
     "OS": "9742",
     "Frente": "261 - FRENTE PRÓPRIA  (EDMILSON)",
     "Profundidade do Sulco": "37",
-    "Fazenda": NaN
+    "Fazenda": null,
+    "Unnamed: 16": null
   },
   {
     "ID": "3859030",
@@ -3382,7 +3573,8 @@ const SULCACAO_DATA = [
     "OS": "9742",
     "Frente": "261 - FRENTE PRÓPRIA  (EDMILSON)",
     "Profundidade do Sulco": "38",
-    "Fazenda": NaN
+    "Fazenda": null,
+    "Unnamed: 16": null
   },
   {
     "ID": "3859028",
@@ -3400,7 +3592,8 @@ const SULCACAO_DATA = [
     "OS": "9742",
     "Frente": "261 - FRENTE PRÓPRIA  (EDMILSON)",
     "Profundidade do Sulco": "38",
-    "Fazenda": NaN
+    "Fazenda": null,
+    "Unnamed: 16": null
   },
   {
     "ID": "3859021",
@@ -3418,7 +3611,8 @@ const SULCACAO_DATA = [
     "OS": "9742",
     "Frente": "261 - FRENTE PRÓPRIA  (EDMILSON)",
     "Profundidade do Sulco": "37",
-    "Fazenda": NaN
+    "Fazenda": null,
+    "Unnamed: 16": null
   },
   {
     "ID": "3859018",
@@ -3436,7 +3630,8 @@ const SULCACAO_DATA = [
     "OS": "9742",
     "Frente": "261 - FRENTE PRÓPRIA  (EDMILSON)",
     "Profundidade do Sulco": "37",
-    "Fazenda": NaN
+    "Fazenda": null,
+    "Unnamed: 16": null
   },
   {
     "ID": "3859014",
@@ -3454,7 +3649,8 @@ const SULCACAO_DATA = [
     "OS": "9742",
     "Frente": "261 - FRENTE PRÓPRIA  (EDMILSON)",
     "Profundidade do Sulco": "37",
-    "Fazenda": NaN
+    "Fazenda": null,
+    "Unnamed: 16": null
   },
   {
     "ID": "3859004",
@@ -3472,7 +3668,8 @@ const SULCACAO_DATA = [
     "OS": "9742",
     "Frente": "261 - FRENTE PRÓPRIA  (EDMILSON)",
     "Profundidade do Sulco": "37",
-    "Fazenda": NaN
+    "Fazenda": null,
+    "Unnamed: 16": null
   },
   {
     "ID": "3859001",
@@ -3490,7 +3687,8 @@ const SULCACAO_DATA = [
     "OS": "9742",
     "Frente": "261 - FRENTE PRÓPRIA  (EDMILSON)",
     "Profundidade do Sulco": "37",
-    "Fazenda": NaN
+    "Fazenda": null,
+    "Unnamed: 16": null
   },
   {
     "ID": "3858996",
@@ -3508,7 +3706,8 @@ const SULCACAO_DATA = [
     "OS": "9742",
     "Frente": "261 - FRENTE PRÓPRIA  (EDMILSON)",
     "Profundidade do Sulco": "36",
-    "Fazenda": NaN
+    "Fazenda": null,
+    "Unnamed: 16": null
   },
   {
     "ID": "3858991",
@@ -3526,7 +3725,8 @@ const SULCACAO_DATA = [
     "OS": "9742",
     "Frente": "261 - FRENTE PRÓPRIA  (EDMILSON)",
     "Profundidade do Sulco": "37",
-    "Fazenda": NaN
+    "Fazenda": null,
+    "Unnamed: 16": null
   },
   {
     "ID": "3858987",
@@ -3544,7 +3744,8 @@ const SULCACAO_DATA = [
     "OS": "9742",
     "Frente": "261 - FRENTE PRÓPRIA  (EDMILSON)",
     "Profundidade do Sulco": "37",
-    "Fazenda": NaN
+    "Fazenda": null,
+    "Unnamed: 16": null
   },
   {
     "ID": "3852417",
@@ -3562,7 +3763,8 @@ const SULCACAO_DATA = [
     "OS": "2350",
     "Frente": "261 - FRENTE PRÓPRIA  (EDMILSON)",
     "Profundidade do Sulco": "37",
-    "Fazenda": NaN
+    "Fazenda": null,
+    "Unnamed: 16": null
   },
   {
     "ID": "3855174",
@@ -3580,7 +3782,8 @@ const SULCACAO_DATA = [
     "OS": "2348",
     "Frente": "261 - FRENTE PRÓPRIA  (EDMILSON)",
     "Profundidade do Sulco": "37",
-    "Fazenda": NaN
+    "Fazenda": null,
+    "Unnamed: 16": null
   },
   {
     "ID": "3855171",
@@ -3598,7 +3801,8 @@ const SULCACAO_DATA = [
     "OS": "2348",
     "Frente": "261 - FRENTE PRÓPRIA  (EDMILSON)",
     "Profundidade do Sulco": "38",
-    "Fazenda": NaN
+    "Fazenda": null,
+    "Unnamed: 16": null
   },
   {
     "ID": "3855165",
@@ -3616,7 +3820,8 @@ const SULCACAO_DATA = [
     "OS": "2348",
     "Frente": "261 - FRENTE PRÓPRIA  (EDMILSON)",
     "Profundidade do Sulco": "37",
-    "Fazenda": NaN
+    "Fazenda": null,
+    "Unnamed: 16": null
   },
   {
     "ID": "3855163",
@@ -3634,7 +3839,8 @@ const SULCACAO_DATA = [
     "OS": "2348",
     "Frente": "261 - FRENTE PRÓPRIA  (EDMILSON)",
     "Profundidade do Sulco": "37",
-    "Fazenda": NaN
+    "Fazenda": null,
+    "Unnamed: 16": null
   },
   {
     "ID": "3855158",
@@ -3652,7 +3858,8 @@ const SULCACAO_DATA = [
     "OS": "2348",
     "Frente": "261 - FRENTE PRÓPRIA  (EDMILSON)",
     "Profundidade do Sulco": "37",
-    "Fazenda": NaN
+    "Fazenda": null,
+    "Unnamed: 16": null
   },
   {
     "ID": "3855145",
@@ -3670,7 +3877,8 @@ const SULCACAO_DATA = [
     "OS": "2348",
     "Frente": "261 - FRENTE PRÓPRIA  (EDMILSON)",
     "Profundidade do Sulco": "38",
-    "Fazenda": NaN
+    "Fazenda": null,
+    "Unnamed: 16": null
   },
   {
     "ID": "3854607",
@@ -3688,7 +3896,8 @@ const SULCACAO_DATA = [
     "OS": "9742",
     "Frente": "261 - FRENTE PRÓPRIA  (EDMILSON)",
     "Profundidade do Sulco": "39",
-    "Fazenda": NaN
+    "Fazenda": null,
+    "Unnamed: 16": null
   },
   {
     "ID": "3854606",
@@ -3706,7 +3915,8 @@ const SULCACAO_DATA = [
     "OS": "9742",
     "Frente": "261 - FRENTE PRÓPRIA  (EDMILSON)",
     "Profundidade do Sulco": "38",
-    "Fazenda": NaN
+    "Fazenda": null,
+    "Unnamed: 16": null
   },
   {
     "ID": "3854605",
@@ -3724,7 +3934,8 @@ const SULCACAO_DATA = [
     "OS": "9742",
     "Frente": "261 - FRENTE PRÓPRIA  (EDMILSON)",
     "Profundidade do Sulco": "36",
-    "Fazenda": NaN
+    "Fazenda": null,
+    "Unnamed: 16": null
   },
   {
     "ID": "3854880",
@@ -3742,7 +3953,8 @@ const SULCACAO_DATA = [
     "OS": "2350",
     "Frente": "261 - FRENTE PRÓPRIA  (EDMILSON)",
     "Profundidade do Sulco": "37",
-    "Fazenda": NaN
+    "Fazenda": null,
+    "Unnamed: 16": null
   },
   {
     "ID": "3854876",
@@ -3760,7 +3972,8 @@ const SULCACAO_DATA = [
     "OS": "2350",
     "Frente": "261 - FRENTE PRÓPRIA  (EDMILSON)",
     "Profundidade do Sulco": "37",
-    "Fazenda": NaN
+    "Fazenda": null,
+    "Unnamed: 16": null
   },
   {
     "ID": "3854872",
@@ -3778,7 +3991,8 @@ const SULCACAO_DATA = [
     "OS": "2350",
     "Frente": "261 - FRENTE PRÓPRIA  (EDMILSON)",
     "Profundidade do Sulco": "38",
-    "Fazenda": NaN
+    "Fazenda": null,
+    "Unnamed: 16": null
   },
   {
     "ID": "3854868",
@@ -3796,7 +4010,8 @@ const SULCACAO_DATA = [
     "OS": "2350",
     "Frente": "261 - FRENTE PRÓPRIA  (EDMILSON)",
     "Profundidade do Sulco": "37",
-    "Fazenda": NaN
+    "Fazenda": null,
+    "Unnamed: 16": null
   },
   {
     "ID": "3854864",
@@ -3814,7 +4029,8 @@ const SULCACAO_DATA = [
     "OS": "2350",
     "Frente": "261 - FRENTE PRÓPRIA  (EDMILSON)",
     "Profundidade do Sulco": "38",
-    "Fazenda": NaN
+    "Fazenda": null,
+    "Unnamed: 16": null
   },
   {
     "ID": "3852422",
@@ -3832,7 +4048,8 @@ const SULCACAO_DATA = [
     "OS": "2350",
     "Frente": "261 - FRENTE PRÓPRIA  (EDMILSON)",
     "Profundidade do Sulco": "37",
-    "Fazenda": NaN
+    "Fazenda": null,
+    "Unnamed: 16": null
   },
   {
     "ID": "3852410",
@@ -3850,7 +4067,8 @@ const SULCACAO_DATA = [
     "OS": "2350",
     "Frente": "261 - FRENTE PRÓPRIA  (EDMILSON)",
     "Profundidade do Sulco": "37",
-    "Fazenda": NaN
+    "Fazenda": null,
+    "Unnamed: 16": null
   },
   {
     "ID": "3852405",
@@ -3868,7 +4086,8 @@ const SULCACAO_DATA = [
     "OS": "2350",
     "Frente": "261 - FRENTE PRÓPRIA  (EDMILSON)",
     "Profundidade do Sulco": "37",
-    "Fazenda": NaN
+    "Fazenda": null,
+    "Unnamed: 16": null
   },
   {
     "ID": "3852399",
@@ -3886,7 +4105,8 @@ const SULCACAO_DATA = [
     "OS": "2350",
     "Frente": "261 - FRENTE PRÓPRIA  (EDMILSON)",
     "Profundidade do Sulco": "37",
-    "Fazenda": NaN
+    "Fazenda": null,
+    "Unnamed: 16": null
   },
   {
     "ID": "3852392",
@@ -3904,7 +4124,8 @@ const SULCACAO_DATA = [
     "OS": "2350",
     "Frente": "261 - FRENTE PRÓPRIA  (EDMILSON)",
     "Profundidade do Sulco": "37",
-    "Fazenda": NaN
+    "Fazenda": null,
+    "Unnamed: 16": null
   },
   {
     "ID": "3852387",
@@ -3922,7 +4143,8 @@ const SULCACAO_DATA = [
     "OS": "2350",
     "Frente": "261 - FRENTE PRÓPRIA  (EDMILSON)",
     "Profundidade do Sulco": "38",
-    "Fazenda": NaN
+    "Fazenda": null,
+    "Unnamed: 16": null
   },
   {
     "ID": "3852383",
@@ -3940,7 +4162,8 @@ const SULCACAO_DATA = [
     "OS": "2350",
     "Frente": "261 - FRENTE PRÓPRIA  (EDMILSON)",
     "Profundidade do Sulco": "37",
-    "Fazenda": NaN
+    "Fazenda": null,
+    "Unnamed: 16": null
   },
   {
     "ID": "3849791",
@@ -3958,7 +4181,8 @@ const SULCACAO_DATA = [
     "OS": "2350",
     "Frente": "261 - FRENTE PRÓPRIA  (EDMILSON)",
     "Profundidade do Sulco": "38",
-    "Fazenda": NaN
+    "Fazenda": null,
+    "Unnamed: 16": null
   },
   {
     "ID": "3849785",
@@ -3976,7 +4200,8 @@ const SULCACAO_DATA = [
     "OS": "2350",
     "Frente": "261 - FRENTE PRÓPRIA  (EDMILSON)",
     "Profundidade do Sulco": "37",
-    "Fazenda": NaN
+    "Fazenda": null,
+    "Unnamed: 16": null
   },
   {
     "ID": "3849775",
@@ -3994,7 +4219,8 @@ const SULCACAO_DATA = [
     "OS": "2350",
     "Frente": "261 - FRENTE PRÓPRIA  (EDMILSON)",
     "Profundidade do Sulco": "38",
-    "Fazenda": NaN
+    "Fazenda": null,
+    "Unnamed: 16": null
   },
   {
     "ID": "3849770",
@@ -4012,7 +4238,8 @@ const SULCACAO_DATA = [
     "OS": "2350",
     "Frente": "261 - FRENTE PRÓPRIA  (EDMILSON)",
     "Profundidade do Sulco": "37",
-    "Fazenda": NaN
+    "Fazenda": null,
+    "Unnamed: 16": null
   },
   {
     "ID": "3849766",
@@ -4030,7 +4257,8 @@ const SULCACAO_DATA = [
     "OS": "2350",
     "Frente": "261 - FRENTE PRÓPRIA  (EDMILSON)",
     "Profundidade do Sulco": "37",
-    "Fazenda": NaN
+    "Fazenda": null,
+    "Unnamed: 16": null
   },
   {
     "ID": "3849125",
@@ -4048,7 +4276,8 @@ const SULCACAO_DATA = [
     "OS": "2350",
     "Frente": "261 - FRENTE PRÓPRIA  (EDMILSON)",
     "Profundidade do Sulco": "36",
-    "Fazenda": NaN
+    "Fazenda": null,
+    "Unnamed: 16": null
   },
   {
     "ID": "3849121",
@@ -4066,7 +4295,8 @@ const SULCACAO_DATA = [
     "OS": "2350",
     "Frente": "261 - FRENTE PRÓPRIA  (EDMILSON)",
     "Profundidade do Sulco": "43",
-    "Fazenda": NaN
+    "Fazenda": null,
+    "Unnamed: 16": null
   },
   {
     "ID": "3849123",
@@ -4084,7 +4314,8 @@ const SULCACAO_DATA = [
     "OS": "2350",
     "Frente": "261 - FRENTE PRÓPRIA  (EDMILSON)",
     "Profundidade do Sulco": "35",
-    "Fazenda": NaN
+    "Fazenda": null,
+    "Unnamed: 16": null
   },
   {
     "ID": "3846842",
@@ -4102,7 +4333,8 @@ const SULCACAO_DATA = [
     "OS": "2350",
     "Frente": "261 - FRENTE PRÓPRIA  (EDMILSON)",
     "Profundidade do Sulco": "38",
-    "Fazenda": NaN
+    "Fazenda": null,
+    "Unnamed: 16": null
   },
   {
     "ID": "3846837",
@@ -4120,7 +4352,8 @@ const SULCACAO_DATA = [
     "OS": "2350",
     "Frente": "261 - FRENTE PRÓPRIA  (EDMILSON)",
     "Profundidade do Sulco": "38",
-    "Fazenda": NaN
+    "Fazenda": null,
+    "Unnamed: 16": null
   },
   {
     "ID": "3846828",
@@ -4138,7 +4371,8 @@ const SULCACAO_DATA = [
     "OS": "2350",
     "Frente": "261 - FRENTE PRÓPRIA  (EDMILSON)",
     "Profundidade do Sulco": "37",
-    "Fazenda": NaN
+    "Fazenda": null,
+    "Unnamed: 16": null
   },
   {
     "ID": "3846826",
@@ -4156,7 +4390,8 @@ const SULCACAO_DATA = [
     "OS": "2350",
     "Frente": "261 - FRENTE PRÓPRIA  (EDMILSON)",
     "Profundidade do Sulco": "38",
-    "Fazenda": NaN
+    "Fazenda": null,
+    "Unnamed: 16": null
   },
   {
     "ID": "3846821",
@@ -4174,7 +4409,8 @@ const SULCACAO_DATA = [
     "OS": "2350",
     "Frente": "261 - FRENTE PRÓPRIA  (EDMILSON)",
     "Profundidade do Sulco": "37",
-    "Fazenda": NaN
+    "Fazenda": null,
+    "Unnamed: 16": null
   },
   {
     "ID": "3846820",
@@ -4192,7 +4428,8 @@ const SULCACAO_DATA = [
     "OS": "2350",
     "Frente": "261 - FRENTE PRÓPRIA  (EDMILSON)",
     "Profundidade do Sulco": "38",
-    "Fazenda": NaN
+    "Fazenda": null,
+    "Unnamed: 16": null
   },
   {
     "ID": "3846815",
@@ -4210,7 +4447,8 @@ const SULCACAO_DATA = [
     "OS": "2350",
     "Frente": "261 - FRENTE PRÓPRIA  (EDMILSON)",
     "Profundidade do Sulco": "38",
-    "Fazenda": NaN
+    "Fazenda": null,
+    "Unnamed: 16": null
   },
   {
     "ID": "3843654",
@@ -4228,7 +4466,8 @@ const SULCACAO_DATA = [
     "OS": "2350",
     "Frente": "261 - FRENTE PRÓPRIA  (EDMILSON)",
     "Profundidade do Sulco": "38",
-    "Fazenda": NaN
+    "Fazenda": null,
+    "Unnamed: 16": null
   },
   {
     "ID": "3843649",
@@ -4246,7 +4485,8 @@ const SULCACAO_DATA = [
     "OS": "2350",
     "Frente": "261 - FRENTE PRÓPRIA  (EDMILSON)",
     "Profundidade do Sulco": "37",
-    "Fazenda": NaN
+    "Fazenda": null,
+    "Unnamed: 16": null
   },
   {
     "ID": "3574328",
@@ -4264,7 +4504,8 @@ const SULCACAO_DATA = [
     "OS": "260",
     "Frente": "139 - FRENTE MANEZÃO",
     "Profundidade do Sulco": "38",
-    "Fazenda": NaN
+    "Fazenda": null,
+    "Unnamed: 16": null
   },
   {
     "ID": "3574190",
@@ -4282,7 +4523,8 @@ const SULCACAO_DATA = [
     "OS": "260",
     "Frente": "139 - FRENTE MANEZÃO",
     "Profundidade do Sulco": "40",
-    "Fazenda": NaN
+    "Fazenda": null,
+    "Unnamed: 16": null
   },
   {
     "ID": "3591026",
@@ -4300,7 +4542,8 @@ const SULCACAO_DATA = [
     "OS": "444",
     "Frente": "139 - FRENTE MANEZÃO",
     "Profundidade do Sulco": "39",
-    "Fazenda": NaN
+    "Fazenda": null,
+    "Unnamed: 16": null
   },
   {
     "ID": "3591027",
@@ -4318,7 +4561,8 @@ const SULCACAO_DATA = [
     "OS": "444",
     "Frente": "139 - FRENTE MANEZÃO",
     "Profundidade do Sulco": "40",
-    "Fazenda": NaN
+    "Fazenda": null,
+    "Unnamed: 16": null
   },
   {
     "ID": "3591088",
@@ -4336,7 +4580,8 @@ const SULCACAO_DATA = [
     "OS": "443",
     "Frente": "139 - FRENTE MANEZÃO",
     "Profundidade do Sulco": "38",
-    "Fazenda": NaN
+    "Fazenda": null,
+    "Unnamed: 16": null
   },
   {
     "ID": "3591093",
@@ -4354,7 +4599,8 @@ const SULCACAO_DATA = [
     "OS": "443",
     "Frente": "139 - FRENTE MANEZÃO",
     "Profundidade do Sulco": "39",
-    "Fazenda": NaN
+    "Fazenda": null,
+    "Unnamed: 16": null
   },
   {
     "ID": "3591032",
@@ -4372,7 +4618,8 @@ const SULCACAO_DATA = [
     "OS": "442",
     "Frente": "139 - FRENTE MANEZÃO",
     "Profundidade do Sulco": "40",
-    "Fazenda": NaN
+    "Fazenda": null,
+    "Unnamed: 16": null
   },
   {
     "ID": "3590425",
@@ -4390,7 +4637,8 @@ const SULCACAO_DATA = [
     "OS": "442",
     "Frente": "139 - FRENTE MANEZÃO",
     "Profundidade do Sulco": "37",
-    "Fazenda": NaN
+    "Fazenda": null,
+    "Unnamed: 16": null
   },
   {
     "ID": "3574195",
@@ -4408,7 +4656,8 @@ const SULCACAO_DATA = [
     "OS": "420",
     "Frente": "139 - FRENTE MANEZÃO",
     "Profundidade do Sulco": "40",
-    "Fazenda": NaN
+    "Fazenda": null,
+    "Unnamed: 16": null
   },
   {
     "ID": "3574196",
@@ -4426,7 +4675,8 @@ const SULCACAO_DATA = [
     "OS": "420",
     "Frente": "139 - FRENTE MANEZÃO",
     "Profundidade do Sulco": "40",
-    "Fazenda": NaN
+    "Fazenda": null,
+    "Unnamed: 16": null
   },
   {
     "ID": "3574197",
@@ -4444,7 +4694,8 @@ const SULCACAO_DATA = [
     "OS": "420",
     "Frente": "139 - FRENTE MANEZÃO",
     "Profundidade do Sulco": "40",
-    "Fazenda": NaN
+    "Fazenda": null,
+    "Unnamed: 16": null
   },
   {
     "ID": "3574198",
@@ -4462,7 +4713,8 @@ const SULCACAO_DATA = [
     "OS": "420",
     "Frente": "139 - FRENTE MANEZÃO",
     "Profundidade do Sulco": "39",
-    "Fazenda": NaN
+    "Fazenda": null,
+    "Unnamed: 16": null
   },
   {
     "ID": "3574199",
@@ -4480,7 +4732,8 @@ const SULCACAO_DATA = [
     "OS": "420",
     "Frente": "139 - FRENTE MANEZÃO",
     "Profundidade do Sulco": "40",
-    "Fazenda": NaN
+    "Fazenda": null,
+    "Unnamed: 16": null
   },
   {
     "ID": "3641091",
@@ -4498,7 +4751,8 @@ const SULCACAO_DATA = [
     "OS": "578",
     "Frente": "135 - FRENTE PEDRINHO",
     "Profundidade do Sulco": "38",
-    "Fazenda": NaN
+    "Fazenda": null,
+    "Unnamed: 16": null
   },
   {
     "ID": "3641089",
@@ -4516,7 +4770,8 @@ const SULCACAO_DATA = [
     "OS": "578",
     "Frente": "135 - FRENTE PEDRINHO",
     "Profundidade do Sulco": "35",
-    "Fazenda": NaN
+    "Fazenda": null,
+    "Unnamed: 16": null
   },
   {
     "ID": "3641080",
@@ -4534,7 +4789,8 @@ const SULCACAO_DATA = [
     "OS": "578",
     "Frente": "135 - FRENTE PEDRINHO",
     "Profundidade do Sulco": "35",
-    "Fazenda": NaN
+    "Fazenda": null,
+    "Unnamed: 16": null
   },
   {
     "ID": "3641069",
@@ -4552,7 +4808,8 @@ const SULCACAO_DATA = [
     "OS": "578",
     "Frente": "135 - FRENTE PEDRINHO",
     "Profundidade do Sulco": "35",
-    "Fazenda": NaN
+    "Fazenda": null,
+    "Unnamed: 16": null
   },
   {
     "ID": "3638336",
@@ -4570,7 +4827,8 @@ const SULCACAO_DATA = [
     "OS": "578",
     "Frente": "135 - FRENTE PEDRINHO",
     "Profundidade do Sulco": "36",
-    "Fazenda": NaN
+    "Fazenda": null,
+    "Unnamed: 16": null
   },
   {
     "ID": "3638331",
@@ -4588,7 +4846,8 @@ const SULCACAO_DATA = [
     "OS": "578",
     "Frente": "135 - FRENTE PEDRINHO",
     "Profundidade do Sulco": "36",
-    "Fazenda": NaN
+    "Fazenda": null,
+    "Unnamed: 16": null
   },
   {
     "ID": "3638327",
@@ -4606,7 +4865,8 @@ const SULCACAO_DATA = [
     "OS": "578",
     "Frente": "135 - FRENTE PEDRINHO",
     "Profundidade do Sulco": "36",
-    "Fazenda": NaN
+    "Fazenda": null,
+    "Unnamed: 16": null
   },
   {
     "ID": "3638319",
@@ -4624,7 +4884,8 @@ const SULCACAO_DATA = [
     "OS": "578",
     "Frente": "135 - FRENTE PEDRINHO",
     "Profundidade do Sulco": "37",
-    "Fazenda": NaN
+    "Fazenda": null,
+    "Unnamed: 16": null
   },
   {
     "ID": "3638316",
@@ -4642,7 +4903,8 @@ const SULCACAO_DATA = [
     "OS": "578",
     "Frente": "135 - FRENTE PEDRINHO",
     "Profundidade do Sulco": "38",
-    "Fazenda": NaN
+    "Fazenda": null,
+    "Unnamed: 16": null
   },
   {
     "ID": "3635345",
@@ -4660,7 +4922,8 @@ const SULCACAO_DATA = [
     "OS": "578",
     "Frente": "135 - FRENTE PEDRINHO",
     "Profundidade do Sulco": "35",
-    "Fazenda": NaN
+    "Fazenda": null,
+    "Unnamed: 16": null
   },
   {
     "ID": "3635333",
@@ -4678,7 +4941,8 @@ const SULCACAO_DATA = [
     "OS": "578",
     "Frente": "135 - FRENTE PEDRINHO",
     "Profundidade do Sulco": "37",
-    "Fazenda": NaN
+    "Fazenda": null,
+    "Unnamed: 16": null
   },
   {
     "ID": "3635329",
@@ -4696,7 +4960,8 @@ const SULCACAO_DATA = [
     "OS": "578",
     "Frente": "135 - FRENTE PEDRINHO",
     "Profundidade do Sulco": "37",
-    "Fazenda": NaN
+    "Fazenda": null,
+    "Unnamed: 16": null
   },
   {
     "ID": "3635314",
@@ -4714,7 +4979,8 @@ const SULCACAO_DATA = [
     "OS": "578",
     "Frente": "135 - FRENTE PEDRINHO",
     "Profundidade do Sulco": "36",
-    "Fazenda": NaN
+    "Fazenda": null,
+    "Unnamed: 16": null
   },
   {
     "ID": "3636033",
@@ -4732,7 +4998,8 @@ const SULCACAO_DATA = [
     "OS": "578",
     "Frente": "135 - FRENTE PEDRINHO",
     "Profundidade do Sulco": "36",
-    "Fazenda": NaN
+    "Fazenda": null,
+    "Unnamed: 16": null
   },
   {
     "ID": "3635309",
@@ -4750,7 +5017,8 @@ const SULCACAO_DATA = [
     "OS": "578",
     "Frente": "135 - FRENTE PEDRINHO",
     "Profundidade do Sulco": "36",
-    "Fazenda": NaN
+    "Fazenda": null,
+    "Unnamed: 16": null
   },
   {
     "ID": "3636026",
@@ -4768,7 +5036,8 @@ const SULCACAO_DATA = [
     "OS": "578",
     "Frente": "135 - FRENTE PEDRINHO",
     "Profundidade do Sulco": "35",
-    "Fazenda": NaN
+    "Fazenda": null,
+    "Unnamed: 16": null
   },
   {
     "ID": "3636021",
@@ -4786,7 +5055,8 @@ const SULCACAO_DATA = [
     "OS": "578",
     "Frente": "135 - FRENTE PEDRINHO",
     "Profundidade do Sulco": "35",
-    "Fazenda": NaN
+    "Fazenda": null,
+    "Unnamed: 16": null
   },
   {
     "ID": "3635305",
@@ -4804,7 +5074,8 @@ const SULCACAO_DATA = [
     "OS": "578",
     "Frente": "135 - FRENTE PEDRINHO",
     "Profundidade do Sulco": "39",
-    "Fazenda": NaN
+    "Fazenda": null,
+    "Unnamed: 16": null
   },
   {
     "ID": "3635301",
@@ -4822,7 +5093,8 @@ const SULCACAO_DATA = [
     "OS": "578",
     "Frente": "136 - FRENTE MIURA",
     "Profundidade do Sulco": "36",
-    "Fazenda": NaN
+    "Fazenda": null,
+    "Unnamed: 16": null
   },
   {
     "ID": "3635251",
@@ -4840,7 +5112,8 @@ const SULCACAO_DATA = [
     "OS": "578",
     "Frente": "135 - FRENTE PEDRINHO",
     "Profundidade do Sulco": "37",
-    "Fazenda": NaN
+    "Fazenda": null,
+    "Unnamed: 16": null
   },
   {
     "ID": "3633055",
@@ -4858,7 +5131,8 @@ const SULCACAO_DATA = [
     "OS": "9480",
     "Frente": "143 - FRENTE CASSIO",
     "Profundidade do Sulco": "36",
-    "Fazenda": NaN
+    "Fazenda": null,
+    "Unnamed: 16": null
   },
   {
     "ID": "3633051",
@@ -4876,7 +5150,8 @@ const SULCACAO_DATA = [
     "OS": "9480",
     "Frente": "143 - FRENTE CASSIO",
     "Profundidade do Sulco": "37",
-    "Fazenda": NaN
+    "Fazenda": null,
+    "Unnamed: 16": null
   },
   {
     "ID": "3633042",
@@ -4894,7 +5169,8 @@ const SULCACAO_DATA = [
     "OS": "9480",
     "Frente": "143 - FRENTE CASSIO",
     "Profundidade do Sulco": "37",
-    "Fazenda": NaN
+    "Fazenda": null,
+    "Unnamed: 16": null
   },
   {
     "ID": "3633038",
@@ -4912,7 +5188,8 @@ const SULCACAO_DATA = [
     "OS": "9480",
     "Frente": "143 - FRENTE CASSIO",
     "Profundidade do Sulco": "35",
-    "Fazenda": NaN
+    "Fazenda": null,
+    "Unnamed: 16": null
   },
   {
     "ID": "3633033",
@@ -4930,7 +5207,8 @@ const SULCACAO_DATA = [
     "OS": "9480",
     "Frente": "143 - FRENTE CASSIO",
     "Profundidade do Sulco": "37",
-    "Fazenda": NaN
+    "Fazenda": null,
+    "Unnamed: 16": null
   },
   {
     "ID": "3633029",
@@ -4948,7 +5226,8 @@ const SULCACAO_DATA = [
     "OS": "9480",
     "Frente": "143 - FRENTE CASSIO",
     "Profundidade do Sulco": "36",
-    "Fazenda": NaN
+    "Fazenda": null,
+    "Unnamed: 16": null
   },
   {
     "ID": "3632405",
@@ -4966,7 +5245,8 @@ const SULCACAO_DATA = [
     "OS": "576",
     "Frente": "135 - FRENTE PEDRINHO",
     "Profundidade do Sulco": "36",
-    "Fazenda": NaN
+    "Fazenda": null,
+    "Unnamed: 16": null
   },
   {
     "ID": "3632354",
@@ -4984,7 +5264,8 @@ const SULCACAO_DATA = [
     "OS": "576",
     "Frente": "132 - FRENTE PEDRINHO",
     "Profundidade do Sulco": "30",
-    "Fazenda": NaN
+    "Fazenda": null,
+    "Unnamed: 16": null
   },
   {
     "ID": "3632351",
@@ -5002,7 +5283,8 @@ const SULCACAO_DATA = [
     "OS": "576",
     "Frente": "135 - FRENTE PEDRINHO",
     "Profundidade do Sulco": "35",
-    "Fazenda": NaN
+    "Fazenda": null,
+    "Unnamed: 16": null
   },
   {
     "ID": "3632343",
@@ -5020,7 +5302,8 @@ const SULCACAO_DATA = [
     "OS": "576",
     "Frente": "135 - FRENTE PEDRINHO",
     "Profundidade do Sulco": "36",
-    "Fazenda": NaN
+    "Fazenda": null,
+    "Unnamed: 16": null
   },
   {
     "ID": "3629719",
@@ -5038,7 +5321,8 @@ const SULCACAO_DATA = [
     "OS": "441",
     "Frente": "105 - FRENTE CASSIO (ZACARIAS)",
     "Profundidade do Sulco": "6",
-    "Fazenda": NaN
+    "Fazenda": null,
+    "Unnamed: 16": null
   },
   {
     "ID": "3632339",
@@ -5056,7 +5340,8 @@ const SULCACAO_DATA = [
     "OS": "576",
     "Frente": "135 - FRENTE PEDRINHO",
     "Profundidade do Sulco": "38",
-    "Fazenda": NaN
+    "Fazenda": null,
+    "Unnamed: 16": null
   },
   {
     "ID": "3628812",
@@ -5074,7 +5359,8 @@ const SULCACAO_DATA = [
     "OS": "441",
     "Frente": "101 - FRENTE MECANIZADA",
     "Profundidade do Sulco": "38",
-    "Fazenda": NaN
+    "Fazenda": null,
+    "Unnamed: 16": null
   },
   {
     "ID": "3629708",
@@ -5092,7 +5378,8 @@ const SULCACAO_DATA = [
     "OS": "441",
     "Frente": "105 - FRENTE CASSIO (ZACARIAS)",
     "Profundidade do Sulco": "38",
-    "Fazenda": NaN
+    "Fazenda": null,
+    "Unnamed: 16": null
   },
   {
     "ID": "3628807",
@@ -5110,7 +5397,8 @@ const SULCACAO_DATA = [
     "OS": "441",
     "Frente": "101 - FRENTE MECANIZADA",
     "Profundidade do Sulco": "36",
-    "Fazenda": NaN
+    "Fazenda": null,
+    "Unnamed: 16": null
   },
   {
     "ID": "3628873",
@@ -5128,7 +5416,8 @@ const SULCACAO_DATA = [
     "OS": "441",
     "Frente": "101 - FRENTE MECANIZADA",
     "Profundidade do Sulco": "38",
-    "Fazenda": NaN
+    "Fazenda": null,
+    "Unnamed: 16": null
   },
   {
     "ID": "3628868",
@@ -5146,7 +5435,8 @@ const SULCACAO_DATA = [
     "OS": "441",
     "Frente": "101 - FRENTE MECANIZADA",
     "Profundidade do Sulco": "35",
-    "Fazenda": NaN
+    "Fazenda": null,
+    "Unnamed: 16": null
   },
   {
     "ID": "3628790",
@@ -5164,7 +5454,8 @@ const SULCACAO_DATA = [
     "OS": "441",
     "Frente": "101 - FRENTE MECANIZADA",
     "Profundidade do Sulco": "39",
-    "Fazenda": NaN
+    "Fazenda": null,
+    "Unnamed: 16": null
   },
   {
     "ID": "3628785",
@@ -5182,7 +5473,8 @@ const SULCACAO_DATA = [
     "OS": "441",
     "Frente": "101 - FRENTE MECANIZADA",
     "Profundidade do Sulco": "36",
-    "Fazenda": NaN
+    "Fazenda": null,
+    "Unnamed: 16": null
   },
   {
     "ID": "3628780",
@@ -5200,7 +5492,8 @@ const SULCACAO_DATA = [
     "OS": "441",
     "Frente": "101 - FRENTE MECANIZADA",
     "Profundidade do Sulco": "37",
-    "Fazenda": NaN
+    "Fazenda": null,
+    "Unnamed: 16": null
   },
   {
     "ID": "3628776",
@@ -5218,7 +5511,8 @@ const SULCACAO_DATA = [
     "OS": "441",
     "Frente": "101 - FRENTE MECANIZADA",
     "Profundidade do Sulco": "38",
-    "Fazenda": NaN
+    "Fazenda": null,
+    "Unnamed: 16": null
   },
   {
     "ID": "3628772",
@@ -5236,7 +5530,8 @@ const SULCACAO_DATA = [
     "OS": "441",
     "Frente": "101 - FRENTE MECANIZADA",
     "Profundidade do Sulco": "36",
-    "Fazenda": NaN
+    "Fazenda": null,
+    "Unnamed: 16": null
   },
   {
     "ID": "3628831",
@@ -5254,7 +5549,8 @@ const SULCACAO_DATA = [
     "OS": "441",
     "Frente": "143 - FRENTE CASSIO",
     "Profundidade do Sulco": "38",
-    "Fazenda": NaN
+    "Fazenda": null,
+    "Unnamed: 16": null
   },
   {
     "ID": "3628758",
@@ -5272,7 +5568,8 @@ const SULCACAO_DATA = [
     "OS": "441",
     "Frente": "101 - FRENTE MECANIZADA",
     "Profundidade do Sulco": "36",
-    "Fazenda": NaN
+    "Fazenda": null,
+    "Unnamed: 16": null
   },
   {
     "ID": "3628830",
@@ -5290,7 +5587,8 @@ const SULCACAO_DATA = [
     "OS": "441",
     "Frente": "143 - FRENTE CASSIO",
     "Profundidade do Sulco": "38",
-    "Fazenda": NaN
+    "Fazenda": null,
+    "Unnamed: 16": null
   },
   {
     "ID": "3628826",
@@ -5308,7 +5606,8 @@ const SULCACAO_DATA = [
     "OS": "441",
     "Frente": "143 - FRENTE CASSIO",
     "Profundidade do Sulco": "39",
-    "Fazenda": NaN
+    "Fazenda": null,
+    "Unnamed: 16": null
   },
   {
     "ID": "3628754",
@@ -5326,7 +5625,8 @@ const SULCACAO_DATA = [
     "OS": "441",
     "Frente": "101 - FRENTE MECANIZADA",
     "Profundidade do Sulco": "36",
-    "Fazenda": NaN
+    "Fazenda": null,
+    "Unnamed: 16": null
   },
   {
     "ID": "3628825",
@@ -5344,7 +5644,8 @@ const SULCACAO_DATA = [
     "OS": "441",
     "Frente": "143 - FRENTE CASSIO",
     "Profundidade do Sulco": "38",
-    "Fazenda": NaN
+    "Fazenda": null,
+    "Unnamed: 16": null
   },
   {
     "ID": "3628935",
@@ -5362,7 +5663,8 @@ const SULCACAO_DATA = [
     "OS": "576",
     "Frente": "135 - FRENTE PEDRINHO",
     "Profundidade do Sulco": "36",
-    "Fazenda": NaN
+    "Fazenda": null,
+    "Unnamed: 16": null
   },
   {
     "ID": "3628749",
@@ -5380,7 +5682,8 @@ const SULCACAO_DATA = [
     "OS": "441",
     "Frente": "101 - FRENTE MECANIZADA",
     "Profundidade do Sulco": "36",
-    "Fazenda": NaN
+    "Fazenda": null,
+    "Unnamed: 16": null
   },
   {
     "ID": "3628929",
@@ -5398,7 +5701,8 @@ const SULCACAO_DATA = [
     "OS": "576",
     "Frente": "135 - FRENTE PEDRINHO",
     "Profundidade do Sulco": "38",
-    "Fazenda": NaN
+    "Fazenda": null,
+    "Unnamed: 16": null
   },
   {
     "ID": "3628924",
@@ -5416,7 +5720,8 @@ const SULCACAO_DATA = [
     "OS": "576",
     "Frente": "135 - FRENTE PEDRINHO",
     "Profundidade do Sulco": "37",
-    "Fazenda": NaN
+    "Fazenda": null,
+    "Unnamed: 16": null
   },
   {
     "ID": "3628866",
@@ -5434,7 +5739,8 @@ const SULCACAO_DATA = [
     "OS": "441",
     "Frente": "143 - FRENTE CASSIO",
     "Profundidade do Sulco": "40",
-    "Fazenda": NaN
+    "Fazenda": null,
+    "Unnamed: 16": null
   },
   {
     "ID": "3628817",
@@ -5452,7 +5758,8 @@ const SULCACAO_DATA = [
     "OS": "441",
     "Frente": "143 - FRENTE CASSIO",
     "Profundidade do Sulco": "38",
-    "Fazenda": NaN
+    "Fazenda": null,
+    "Unnamed: 16": null
   },
   {
     "ID": "3628813",
@@ -5470,7 +5777,8 @@ const SULCACAO_DATA = [
     "OS": "441",
     "Frente": "143 - FRENTE CASSIO",
     "Profundidade do Sulco": "38",
-    "Fazenda": NaN
+    "Fazenda": null,
+    "Unnamed: 16": null
   },
   {
     "ID": "3627237",
@@ -5488,7 +5796,8 @@ const SULCACAO_DATA = [
     "OS": "441",
     "Frente": "101 - FRENTE MECANIZADA",
     "Profundidade do Sulco": "38",
-    "Fazenda": NaN
+    "Fazenda": null,
+    "Unnamed: 16": null
   },
   {
     "ID": "3626953",
@@ -5506,7 +5815,8 @@ const SULCACAO_DATA = [
     "OS": "441",
     "Frente": "261 - FRENTE PRÓPRIA  (EDMILSON)",
     "Profundidade do Sulco": "38",
-    "Fazenda": NaN
+    "Fazenda": null,
+    "Unnamed: 16": null
   },
   {
     "ID": "3626948",
@@ -5524,7 +5834,8 @@ const SULCACAO_DATA = [
     "OS": "441",
     "Frente": "261 - FRENTE PRÓPRIA  (EDMILSON)",
     "Profundidade do Sulco": "39",
-    "Fazenda": NaN
+    "Fazenda": null,
+    "Unnamed: 16": null
   },
   {
     "ID": "3626943",
@@ -5542,7 +5853,8 @@ const SULCACAO_DATA = [
     "OS": "441",
     "Frente": "261 - FRENTE PRÓPRIA  (EDMILSON)",
     "Profundidade do Sulco": "38",
-    "Fazenda": NaN
+    "Fazenda": null,
+    "Unnamed: 16": null
   },
   {
     "ID": "3627054",
@@ -5560,7 +5872,8 @@ const SULCACAO_DATA = [
     "OS": "441",
     "Frente": "101 - FRENTE MECANIZADA",
     "Profundidade do Sulco": "38",
-    "Fazenda": NaN
+    "Fazenda": null,
+    "Unnamed: 16": null
   },
   {
     "ID": "3627000",
@@ -5578,7 +5891,8 @@ const SULCACAO_DATA = [
     "OS": "9477",
     "Frente": "135 - FRENTE PEDRINHO",
     "Profundidade do Sulco": "40",
-    "Fazenda": NaN
+    "Fazenda": null,
+    "Unnamed: 16": null
   },
   {
     "ID": "3626998",
@@ -5596,7 +5910,8 @@ const SULCACAO_DATA = [
     "OS": "9477",
     "Frente": "135 - FRENTE PEDRINHO",
     "Profundidade do Sulco": "38",
-    "Fazenda": NaN
+    "Fazenda": null,
+    "Unnamed: 16": null
   },
   {
     "ID": "3627048",
@@ -5614,7 +5929,8 @@ const SULCACAO_DATA = [
     "OS": "441",
     "Frente": "101 - FRENTE MECANIZADA",
     "Profundidade do Sulco": "38",
-    "Fazenda": NaN
+    "Fazenda": null,
+    "Unnamed: 16": null
   },
   {
     "ID": "3626992",
@@ -5632,7 +5948,8 @@ const SULCACAO_DATA = [
     "OS": "9477",
     "Frente": "135 - FRENTE PEDRINHO",
     "Profundidade do Sulco": "40",
-    "Fazenda": NaN
+    "Fazenda": null,
+    "Unnamed: 16": null
   },
   {
     "ID": "3627042",
@@ -5650,7 +5967,8 @@ const SULCACAO_DATA = [
     "OS": "441",
     "Frente": "101 - FRENTE MECANIZADA",
     "Profundidade do Sulco": "36",
-    "Fazenda": NaN
+    "Fazenda": null,
+    "Unnamed: 16": null
   },
   {
     "ID": "3627037",
@@ -5668,7 +5986,8 @@ const SULCACAO_DATA = [
     "OS": "441",
     "Frente": "101 - FRENTE MECANIZADA",
     "Profundidade do Sulco": "37",
-    "Fazenda": NaN
+    "Fazenda": null,
+    "Unnamed: 16": null
   },
   {
     "ID": "3627162",
@@ -5686,7 +6005,8 @@ const SULCACAO_DATA = [
     "OS": "576",
     "Frente": "139 - FRENTE MANEZÃO",
     "Profundidade do Sulco": "39",
-    "Fazenda": NaN
+    "Fazenda": null,
+    "Unnamed: 16": null
   },
   {
     "ID": "3627157",
@@ -5704,7 +6024,8 @@ const SULCACAO_DATA = [
     "OS": "576",
     "Frente": "139 - FRENTE MANEZÃO",
     "Profundidade do Sulco": "38",
-    "Fazenda": NaN
+    "Fazenda": null,
+    "Unnamed: 16": null
   },
   {
     "ID": "3626415",
@@ -5722,7 +6043,8 @@ const SULCACAO_DATA = [
     "OS": "440",
     "Frente": "261 - FRENTE PRÓPRIA  (EDMILSON)",
     "Profundidade do Sulco": "39",
-    "Fazenda": NaN
+    "Fazenda": null,
+    "Unnamed: 16": null
   },
   {
     "ID": "3627032",
@@ -5740,7 +6062,8 @@ const SULCACAO_DATA = [
     "OS": "441",
     "Frente": "101 - FRENTE MECANIZADA",
     "Profundidade do Sulco": "36",
-    "Fazenda": NaN
+    "Fazenda": null,
+    "Unnamed: 16": null
   },
   {
     "ID": "3626404",
@@ -5758,7 +6081,8 @@ const SULCACAO_DATA = [
     "OS": "440",
     "Frente": "261 - FRENTE PRÓPRIA  (EDMILSON)",
     "Profundidade do Sulco": "39",
-    "Fazenda": NaN
+    "Fazenda": null,
+    "Unnamed: 16": null
   },
   {
     "ID": "3627025",
@@ -5776,7 +6100,8 @@ const SULCACAO_DATA = [
     "OS": "441",
     "Frente": "101 - FRENTE MECANIZADA",
     "Profundidade do Sulco": "38",
-    "Fazenda": NaN
+    "Fazenda": null,
+    "Unnamed: 16": null
   },
   {
     "ID": "3626398",
@@ -5794,7 +6119,8 @@ const SULCACAO_DATA = [
     "OS": "440",
     "Frente": "261 - FRENTE PRÓPRIA  (EDMILSON)",
     "Profundidade do Sulco": "38",
-    "Fazenda": NaN
+    "Fazenda": null,
+    "Unnamed: 16": null
   },
   {
     "ID": "3626393",
@@ -5812,7 +6138,8 @@ const SULCACAO_DATA = [
     "OS": "440",
     "Frente": "261 - FRENTE PRÓPRIA  (EDMILSON)",
     "Profundidade do Sulco": "37",
-    "Fazenda": NaN
+    "Fazenda": null,
+    "Unnamed: 16": null
   },
   {
     "ID": "3626387",
@@ -5830,7 +6157,8 @@ const SULCACAO_DATA = [
     "OS": "440",
     "Frente": "261 - FRENTE PRÓPRIA  (EDMILSON)",
     "Profundidade do Sulco": "37",
-    "Fazenda": NaN
+    "Fazenda": null,
+    "Unnamed: 16": null
   },
   {
     "ID": "3627020",
@@ -5848,7 +6176,8 @@ const SULCACAO_DATA = [
     "OS": "441",
     "Frente": "101 - FRENTE MECANIZADA",
     "Profundidade do Sulco": "9",
-    "Fazenda": NaN
+    "Fazenda": null,
+    "Unnamed: 16": null
   },
   {
     "ID": "3626564",
@@ -5866,7 +6195,8 @@ const SULCACAO_DATA = [
     "OS": "440",
     "Frente": "143 - FRENTE CASSIO",
     "Profundidade do Sulco": "38",
-    "Fazenda": NaN
+    "Fazenda": null,
+    "Unnamed: 16": null
   },
   {
     "ID": "3626383",
@@ -5884,7 +6214,8 @@ const SULCACAO_DATA = [
     "OS": "440",
     "Frente": "261 - FRENTE PRÓPRIA  (EDMILSON)",
     "Profundidade do Sulco": "38",
-    "Fazenda": NaN
+    "Fazenda": null,
+    "Unnamed: 16": null
   },
   {
     "ID": "3627178",
@@ -5902,7 +6233,8 @@ const SULCACAO_DATA = [
     "OS": "441",
     "Frente": "101 - FRENTE MECANIZADA",
     "Profundidade do Sulco": "37",
-    "Fazenda": NaN
+    "Fazenda": null,
+    "Unnamed: 16": null
   },
   {
     "ID": "3626561",
@@ -5920,7 +6252,8 @@ const SULCACAO_DATA = [
     "OS": "440",
     "Frente": "143 - FRENTE CASSIO",
     "Profundidade do Sulco": "40",
-    "Fazenda": NaN
+    "Fazenda": null,
+    "Unnamed: 16": null
   },
   {
     "ID": "3626560",
@@ -5938,7 +6271,8 @@ const SULCACAO_DATA = [
     "OS": "440",
     "Frente": "143 - FRENTE CASSIO",
     "Profundidade do Sulco": "37",
-    "Fazenda": NaN
+    "Fazenda": null,
+    "Unnamed: 16": null
   },
   {
     "ID": "3627245",
@@ -5956,7 +6290,8 @@ const SULCACAO_DATA = [
     "OS": "441",
     "Frente": "101 - FRENTE MECANIZADA",
     "Profundidade do Sulco": "39",
-    "Fazenda": NaN
+    "Fazenda": null,
+    "Unnamed: 16": null
   },
   {
     "ID": "3627147",
@@ -5974,7 +6309,8 @@ const SULCACAO_DATA = [
     "OS": "576",
     "Frente": "139 - FRENTE MANEZÃO",
     "Profundidade do Sulco": "36",
-    "Fazenda": NaN
+    "Fazenda": null,
+    "Unnamed: 16": null
   },
   {
     "ID": "3626557",
@@ -5992,7 +6328,8 @@ const SULCACAO_DATA = [
     "OS": "440",
     "Frente": "143 - FRENTE CASSIO",
     "Profundidade do Sulco": "38",
-    "Fazenda": NaN
+    "Fazenda": null,
+    "Unnamed: 16": null
   },
   {
     "ID": "3626556",
@@ -6010,7 +6347,8 @@ const SULCACAO_DATA = [
     "OS": "440",
     "Frente": "143 - FRENTE CASSIO",
     "Profundidade do Sulco": "37",
-    "Fazenda": NaN
+    "Fazenda": null,
+    "Unnamed: 16": null
   },
   {
     "ID": "3626554",
@@ -6028,7 +6366,8 @@ const SULCACAO_DATA = [
     "OS": "440",
     "Frente": "143 - FRENTE CASSIO",
     "Profundidade do Sulco": "39",
-    "Fazenda": NaN
+    "Fazenda": null,
+    "Unnamed: 16": null
   },
   {
     "ID": "3627141",
@@ -6046,7 +6385,8 @@ const SULCACAO_DATA = [
     "OS": "576",
     "Frente": "139 - FRENTE MANEZÃO",
     "Profundidade do Sulco": "37",
-    "Fazenda": NaN
+    "Fazenda": null,
+    "Unnamed: 16": null
   },
   {
     "ID": "3627136",
@@ -6064,7 +6404,8 @@ const SULCACAO_DATA = [
     "OS": "576",
     "Frente": "139 - FRENTE MANEZÃO",
     "Profundidade do Sulco": "37",
-    "Fazenda": NaN
+    "Fazenda": null,
+    "Unnamed: 16": null
   },
   {
     "ID": "3626999",
@@ -6082,7 +6423,8 @@ const SULCACAO_DATA = [
     "OS": "441",
     "Frente": "101 - FRENTE MECANIZADA",
     "Profundidade do Sulco": "37",
-    "Fazenda": NaN
+    "Fazenda": null,
+    "Unnamed: 16": null
   },
   {
     "ID": "3627131",
@@ -6100,7 +6442,8 @@ const SULCACAO_DATA = [
     "OS": "576",
     "Frente": "139 - FRENTE MANEZÃO",
     "Profundidade do Sulco": "36",
-    "Fazenda": NaN
+    "Fazenda": null,
+    "Unnamed: 16": null
   },
   {
     "ID": "3624970",
@@ -6118,7 +6461,8 @@ const SULCACAO_DATA = [
     "OS": "441",
     "Frente": "105 - FRENTE CASSIO (ZACARIAS)",
     "Profundidade do Sulco": "37",
-    "Fazenda": NaN
+    "Fazenda": null,
+    "Unnamed: 16": null
   },
   {
     "ID": "3624971",
@@ -6136,7 +6480,8 @@ const SULCACAO_DATA = [
     "OS": "441",
     "Frente": "105 - FRENTE CASSIO (ZACARIAS)",
     "Profundidade do Sulco": "36",
-    "Fazenda": NaN
+    "Fazenda": null,
+    "Unnamed: 16": null
   },
   {
     "ID": "3624849",
@@ -6154,7 +6499,8 @@ const SULCACAO_DATA = [
     "OS": "441",
     "Frente": "101 - FRENTE MECANIZADA",
     "Profundidade do Sulco": "36",
-    "Fazenda": NaN
+    "Fazenda": null,
+    "Unnamed: 16": null
   },
   {
     "ID": "3624963",
@@ -6172,7 +6518,8 @@ const SULCACAO_DATA = [
     "OS": "441",
     "Frente": "105 - FRENTE CASSIO (ZACARIAS)",
     "Profundidade do Sulco": "37",
-    "Fazenda": NaN
+    "Fazenda": null,
+    "Unnamed: 16": null
   },
   {
     "ID": "3624841",
@@ -6190,7 +6537,8 @@ const SULCACAO_DATA = [
     "OS": "441",
     "Frente": "101 - FRENTE MECANIZADA",
     "Profundidade do Sulco": "38",
-    "Fazenda": NaN
+    "Fazenda": null,
+    "Unnamed: 16": null
   },
   {
     "ID": "3624823",
@@ -6208,7 +6556,8 @@ const SULCACAO_DATA = [
     "OS": "441",
     "Frente": "101 - FRENTE MECANIZADA",
     "Profundidade do Sulco": "37",
-    "Fazenda": NaN
+    "Fazenda": null,
+    "Unnamed: 16": null
   },
   {
     "ID": "3627114",
@@ -6226,7 +6575,8 @@ const SULCACAO_DATA = [
     "OS": "521",
     "Frente": "139 - FRENTE MANEZÃO",
     "Profundidade do Sulco": "39",
-    "Fazenda": NaN
+    "Fazenda": null,
+    "Unnamed: 16": null
   },
   {
     "ID": "3624818",
@@ -6244,7 +6594,8 @@ const SULCACAO_DATA = [
     "OS": "441",
     "Frente": "101 - FRENTE MECANIZADA",
     "Profundidade do Sulco": "37",
-    "Fazenda": NaN
+    "Fazenda": null,
+    "Unnamed: 16": null
   },
   {
     "ID": "3627087",
@@ -6262,7 +6613,8 @@ const SULCACAO_DATA = [
     "OS": "521",
     "Frente": "139 - FRENTE MANEZÃO",
     "Profundidade do Sulco": "39",
-    "Fazenda": NaN
+    "Fazenda": null,
+    "Unnamed: 16": null
   },
   {
     "ID": "3624808",
@@ -6280,7 +6632,8 @@ const SULCACAO_DATA = [
     "OS": "441",
     "Frente": "101 - FRENTE MECANIZADA",
     "Profundidade do Sulco": "35",
-    "Fazenda": NaN
+    "Fazenda": null,
+    "Unnamed: 16": null
   },
   {
     "ID": "3624343",
@@ -6298,7 +6651,8 @@ const SULCACAO_DATA = [
     "OS": "440",
     "Frente": "143 - FRENTE CASSIO",
     "Profundidade do Sulco": "38",
-    "Fazenda": NaN
+    "Fazenda": null,
+    "Unnamed: 16": null
   },
   {
     "ID": "3624797",
@@ -6316,7 +6670,8 @@ const SULCACAO_DATA = [
     "OS": "441",
     "Frente": "101 - FRENTE MECANIZADA",
     "Profundidade do Sulco": "38",
-    "Fazenda": NaN
+    "Fazenda": null,
+    "Unnamed: 16": null
   },
   {
     "ID": "3625526",
@@ -6334,7 +6689,8 @@ const SULCACAO_DATA = [
     "OS": "521",
     "Frente": "139 - FRENTE MANEZÃO",
     "Profundidade do Sulco": "39",
-    "Fazenda": NaN
+    "Fazenda": null,
+    "Unnamed: 16": null
   },
   {
     "ID": "3625520",
@@ -6352,7 +6708,8 @@ const SULCACAO_DATA = [
     "OS": "521",
     "Frente": "139 - FRENTE MANEZÃO",
     "Profundidade do Sulco": "36",
-    "Fazenda": NaN
+    "Fazenda": null,
+    "Unnamed: 16": null
   },
   {
     "ID": "3624628",
@@ -6370,7 +6727,8 @@ const SULCACAO_DATA = [
     "OS": "521",
     "Frente": "261 - FRENTE PRÓPRIA  (EDMILSON)",
     "Profundidade do Sulco": "37",
-    "Fazenda": NaN
+    "Fazenda": null,
+    "Unnamed: 16": null
   },
   {
     "ID": "3625512",
@@ -6388,7 +6746,8 @@ const SULCACAO_DATA = [
     "OS": "521",
     "Frente": "139 - FRENTE MANEZÃO",
     "Profundidade do Sulco": "37",
-    "Fazenda": NaN
+    "Fazenda": null,
+    "Unnamed: 16": null
   },
   {
     "ID": "3624624",
@@ -6406,7 +6765,8 @@ const SULCACAO_DATA = [
     "OS": "521",
     "Frente": "261 - FRENTE PRÓPRIA  (EDMILSON)",
     "Profundidade do Sulco": "39",
-    "Fazenda": NaN
+    "Fazenda": null,
+    "Unnamed: 16": null
   },
   {
     "ID": "3624619",
@@ -6424,7 +6784,8 @@ const SULCACAO_DATA = [
     "OS": "521",
     "Frente": "261 - FRENTE PRÓPRIA  (EDMILSON)",
     "Profundidade do Sulco": "38",
-    "Fazenda": NaN
+    "Fazenda": null,
+    "Unnamed: 16": null
   },
   {
     "ID": "3625464",
@@ -6442,7 +6803,8 @@ const SULCACAO_DATA = [
     "OS": "575",
     "Frente": "135 - FRENTE PEDRINHO",
     "Profundidade do Sulco": "39",
-    "Fazenda": NaN
+    "Fazenda": null,
+    "Unnamed: 16": null
   },
   {
     "ID": "3625460",
@@ -6460,7 +6822,8 @@ const SULCACAO_DATA = [
     "OS": "575",
     "Frente": "135 - FRENTE PEDRINHO",
     "Profundidade do Sulco": "42",
-    "Fazenda": NaN
+    "Fazenda": null,
+    "Unnamed: 16": null
   },
   {
     "ID": "3624614",
@@ -6478,7 +6841,8 @@ const SULCACAO_DATA = [
     "OS": "521",
     "Frente": "261 - FRENTE PRÓPRIA  (EDMILSON)",
     "Profundidade do Sulco": "39",
-    "Fazenda": NaN
+    "Fazenda": null,
+    "Unnamed: 16": null
   },
   {
     "ID": "3624568",
@@ -6496,7 +6860,8 @@ const SULCACAO_DATA = [
     "OS": "575",
     "Frente": "135 - FRENTE PEDRINHO",
     "Profundidade do Sulco": "43",
-    "Fazenda": NaN
+    "Fazenda": null,
+    "Unnamed: 16": null
   },
   {
     "ID": "3625455",
@@ -6514,7 +6879,8 @@ const SULCACAO_DATA = [
     "OS": "521",
     "Frente": "139 - FRENTE MANEZÃO",
     "Profundidade do Sulco": "38",
-    "Fazenda": NaN
+    "Fazenda": null,
+    "Unnamed: 16": null
   },
   {
     "ID": "3625450",
@@ -6532,7 +6898,8 @@ const SULCACAO_DATA = [
     "OS": "521",
     "Frente": "139 - FRENTE MANEZÃO",
     "Profundidade do Sulco": "36",
-    "Fazenda": NaN
+    "Fazenda": null,
+    "Unnamed: 16": null
   },
   {
     "ID": "3624313",
@@ -6550,7 +6917,8 @@ const SULCACAO_DATA = [
     "OS": "440",
     "Frente": "143 - FRENTE CASSIO",
     "Profundidade do Sulco": "39",
-    "Fazenda": NaN
+    "Fazenda": null,
+    "Unnamed: 16": null
   },
   {
     "ID": "3624018",
@@ -6568,7 +6936,8 @@ const SULCACAO_DATA = [
     "OS": "521",
     "Frente": "261 - FRENTE PRÓPRIA  (EDMILSON)",
     "Profundidade do Sulco": "38",
-    "Fazenda": NaN
+    "Fazenda": null,
+    "Unnamed: 16": null
   },
   {
     "ID": "3624269",
@@ -6586,7 +6955,8 @@ const SULCACAO_DATA = [
     "OS": "440",
     "Frente": "143 - FRENTE CASSIO",
     "Profundidade do Sulco": "40",
-    "Fazenda": NaN
+    "Fazenda": null,
+    "Unnamed: 16": null
   },
   {
     "ID": "3625445",
@@ -6604,7 +6974,8 @@ const SULCACAO_DATA = [
     "OS": "521",
     "Frente": "139 - FRENTE MANEZÃO",
     "Profundidade do Sulco": "38",
-    "Fazenda": NaN
+    "Fazenda": null,
+    "Unnamed: 16": null
   },
   {
     "ID": "3624013",
@@ -6622,7 +6993,8 @@ const SULCACAO_DATA = [
     "OS": "521",
     "Frente": "261 - FRENTE PRÓPRIA  (EDMILSON)",
     "Profundidade do Sulco": "38",
-    "Fazenda": NaN
+    "Fazenda": null,
+    "Unnamed: 16": null
   },
   {
     "ID": "3624224",
@@ -6640,7 +7012,8 @@ const SULCACAO_DATA = [
     "OS": "440",
     "Frente": "143 - FRENTE CASSIO",
     "Profundidade do Sulco": "38",
-    "Fazenda": NaN
+    "Fazenda": null,
+    "Unnamed: 16": null
   },
   {
     "ID": "3624007",
@@ -6658,7 +7031,8 @@ const SULCACAO_DATA = [
     "OS": "521",
     "Frente": "261 - FRENTE PRÓPRIA  (EDMILSON)",
     "Profundidade do Sulco": "39",
-    "Fazenda": NaN
+    "Fazenda": null,
+    "Unnamed: 16": null
   },
   {
     "ID": "3625417",
@@ -6676,7 +7050,8 @@ const SULCACAO_DATA = [
     "OS": "521",
     "Frente": "139 - FRENTE MANEZÃO",
     "Profundidade do Sulco": "37",
-    "Fazenda": NaN
+    "Fazenda": null,
+    "Unnamed: 16": null
   },
   {
     "ID": "3624222",
@@ -6694,7 +7069,8 @@ const SULCACAO_DATA = [
     "OS": "440",
     "Frente": "143 - FRENTE CASSIO",
     "Profundidade do Sulco": "37",
-    "Fazenda": NaN
+    "Fazenda": null,
+    "Unnamed: 16": null
   },
   {
     "ID": "3623993",
@@ -6712,7 +7088,8 @@ const SULCACAO_DATA = [
     "OS": "521",
     "Frente": "261 - FRENTE PRÓPRIA  (EDMILSON)",
     "Profundidade do Sulco": "38",
-    "Fazenda": NaN
+    "Fazenda": null,
+    "Unnamed: 16": null
   },
   {
     "ID": "3625399",
@@ -6730,7 +7107,8 @@ const SULCACAO_DATA = [
     "OS": "521",
     "Frente": "139 - FRENTE MANEZÃO",
     "Profundidade do Sulco": "39",
-    "Fazenda": NaN
+    "Fazenda": null,
+    "Unnamed: 16": null
   },
   {
     "ID": "3623988",
@@ -6748,7 +7126,8 @@ const SULCACAO_DATA = [
     "OS": "521",
     "Frente": "261 - FRENTE PRÓPRIA  (EDMILSON)",
     "Profundidade do Sulco": "39",
-    "Fazenda": NaN
+    "Fazenda": null,
+    "Unnamed: 16": null
   },
   {
     "ID": "3625373",
@@ -6766,7 +7145,8 @@ const SULCACAO_DATA = [
     "OS": "521",
     "Frente": "139 - FRENTE MANEZÃO",
     "Profundidade do Sulco": "39",
-    "Fazenda": NaN
+    "Fazenda": null,
+    "Unnamed: 16": null
   },
   {
     "ID": "3623998",
@@ -6784,7 +7164,8 @@ const SULCACAO_DATA = [
     "OS": "441",
     "Frente": "105 - FRENTE CASSIO (ZACARIAS)",
     "Profundidade do Sulco": "37",
-    "Fazenda": NaN
+    "Fazenda": null,
+    "Unnamed: 16": null
   },
   {
     "ID": "3623983",
@@ -6802,7 +7183,8 @@ const SULCACAO_DATA = [
     "OS": "521",
     "Frente": "261 - FRENTE PRÓPRIA  (EDMILSON)",
     "Profundidade do Sulco": "39",
-    "Fazenda": NaN
+    "Fazenda": null,
+    "Unnamed: 16": null
   },
   {
     "ID": "3623974",
@@ -6820,7 +7202,8 @@ const SULCACAO_DATA = [
     "OS": "441",
     "Frente": "105 - FRENTE CASSIO (ZACARIAS)",
     "Profundidade do Sulco": "38",
-    "Fazenda": NaN
+    "Fazenda": null,
+    "Unnamed: 16": null
   },
   {
     "ID": "3625367",
@@ -6838,7 +7221,8 @@ const SULCACAO_DATA = [
     "OS": "521",
     "Frente": "139 - FRENTE MANEZÃO",
     "Profundidade do Sulco": "36",
-    "Fazenda": NaN
+    "Fazenda": null,
+    "Unnamed: 16": null
   },
   {
     "ID": "3623971",
@@ -6856,7 +7240,8 @@ const SULCACAO_DATA = [
     "OS": "521",
     "Frente": "261 - FRENTE PRÓPRIA  (EDMILSON)",
     "Profundidade do Sulco": "38",
-    "Fazenda": NaN
+    "Fazenda": null,
+    "Unnamed: 16": null
   },
   {
     "ID": "3623963",
@@ -6874,7 +7259,8 @@ const SULCACAO_DATA = [
     "OS": "521",
     "Frente": "261 - FRENTE PRÓPRIA  (EDMILSON)",
     "Profundidade do Sulco": "38",
-    "Fazenda": NaN
+    "Fazenda": null,
+    "Unnamed: 16": null
   },
   {
     "ID": "3625362",
@@ -6892,7 +7278,8 @@ const SULCACAO_DATA = [
     "OS": "521",
     "Frente": "139 - FRENTE MANEZÃO",
     "Profundidade do Sulco": "38",
-    "Fazenda": NaN
+    "Fazenda": null,
+    "Unnamed: 16": null
   },
   {
     "ID": "3625356",
@@ -6910,7 +7297,8 @@ const SULCACAO_DATA = [
     "OS": "521",
     "Frente": "139 - FRENTE MANEZÃO",
     "Profundidade do Sulco": "40",
-    "Fazenda": NaN
+    "Fazenda": null,
+    "Unnamed: 16": null
   },
   {
     "ID": "3623956",
@@ -6928,7 +7316,8 @@ const SULCACAO_DATA = [
     "OS": "521",
     "Frente": "261 - FRENTE PRÓPRIA  (EDMILSON)",
     "Profundidade do Sulco": "37",
-    "Fazenda": NaN
+    "Fazenda": null,
+    "Unnamed: 16": null
   },
   {
     "ID": "3625349",
@@ -6946,7 +7335,8 @@ const SULCACAO_DATA = [
     "OS": "521",
     "Frente": "139 - FRENTE MANEZÃO",
     "Profundidade do Sulco": "37",
-    "Fazenda": NaN
+    "Fazenda": null,
+    "Unnamed: 16": null
   },
   {
     "ID": "3623937",
@@ -6964,7 +7354,8 @@ const SULCACAO_DATA = [
     "OS": "521",
     "Frente": "261 - FRENTE PRÓPRIA  (EDMILSON)",
     "Profundidade do Sulco": "39",
-    "Fazenda": NaN
+    "Fazenda": null,
+    "Unnamed: 16": null
   },
   {
     "ID": "3624606",
@@ -6982,7 +7373,8 @@ const SULCACAO_DATA = [
     "OS": "521",
     "Frente": "139 - FRENTE MANEZÃO",
     "Profundidade do Sulco": "38",
-    "Fazenda": NaN
+    "Fazenda": null,
+    "Unnamed: 16": null
   },
   {
     "ID": "3623932",
@@ -7000,7 +7392,8 @@ const SULCACAO_DATA = [
     "OS": "521",
     "Frente": "261 - FRENTE PRÓPRIA  (EDMILSON)",
     "Profundidade do Sulco": "39",
-    "Fazenda": NaN
+    "Fazenda": null,
+    "Unnamed: 16": null
   },
   {
     "ID": "3624565",
@@ -7018,7 +7411,8 @@ const SULCACAO_DATA = [
     "OS": "575",
     "Frente": "135 - FRENTE PEDRINHO",
     "Profundidade do Sulco": "40",
-    "Fazenda": NaN
+    "Fazenda": null,
+    "Unnamed: 16": null
   },
   {
     "ID": "3623925",
@@ -7036,7 +7430,8 @@ const SULCACAO_DATA = [
     "OS": "521",
     "Frente": "261 - FRENTE PRÓPRIA  (EDMILSON)",
     "Profundidade do Sulco": "37",
-    "Fazenda": NaN
+    "Fazenda": null,
+    "Unnamed: 16": null
   },
   {
     "ID": "3624558",
@@ -7054,7 +7449,8 @@ const SULCACAO_DATA = [
     "OS": "575",
     "Frente": "135 - FRENTE PEDRINHO",
     "Profundidade do Sulco": "41",
-    "Fazenda": NaN
+    "Fazenda": null,
+    "Unnamed: 16": null
   },
   {
     "ID": "3624553",
@@ -7072,7 +7468,8 @@ const SULCACAO_DATA = [
     "OS": "575",
     "Frente": "135 - FRENTE PEDRINHO",
     "Profundidade do Sulco": "39",
-    "Fazenda": NaN
+    "Fazenda": null,
+    "Unnamed: 16": null
   },
   {
     "ID": "3621663",
@@ -7090,7 +7487,8 @@ const SULCACAO_DATA = [
     "OS": "440",
     "Frente": "143 - FRENTE CASSIO",
     "Profundidade do Sulco": "39",
-    "Fazenda": NaN
+    "Fazenda": null,
+    "Unnamed: 16": null
   },
   {
     "ID": "3621945",
@@ -7108,7 +7506,8 @@ const SULCACAO_DATA = [
     "OS": "519",
     "Frente": "101 - FRENTE MECANIZADA",
     "Profundidade do Sulco": "36",
-    "Fazenda": NaN
+    "Fazenda": null,
+    "Unnamed: 16": null
   },
   {
     "ID": "3621992",
@@ -7126,7 +7525,8 @@ const SULCACAO_DATA = [
     "OS": "521",
     "Frente": "261 - FRENTE PRÓPRIA  (EDMILSON)",
     "Profundidade do Sulco": "37",
-    "Fazenda": NaN
+    "Fazenda": null,
+    "Unnamed: 16": null
   },
   {
     "ID": "3621606",
@@ -7144,7 +7544,8 @@ const SULCACAO_DATA = [
     "OS": "440",
     "Frente": "143 - FRENTE CASSIO",
     "Profundidade do Sulco": "37",
-    "Fazenda": NaN
+    "Fazenda": null,
+    "Unnamed: 16": null
   },
   {
     "ID": "3621987",
@@ -7162,7 +7563,8 @@ const SULCACAO_DATA = [
     "OS": "521",
     "Frente": "261 - FRENTE PRÓPRIA  (EDMILSON)",
     "Profundidade do Sulco": "38",
-    "Fazenda": NaN
+    "Fazenda": null,
+    "Unnamed: 16": null
   },
   {
     "ID": "3621453",
@@ -7180,7 +7582,8 @@ const SULCACAO_DATA = [
     "OS": "441",
     "Frente": "101 - FRENTE MECANIZADA",
     "Profundidade do Sulco": "40",
-    "Fazenda": NaN
+    "Fazenda": null,
+    "Unnamed: 16": null
   },
   {
     "ID": "3621978",
@@ -7198,7 +7601,8 @@ const SULCACAO_DATA = [
     "OS": "521",
     "Frente": "261 - FRENTE PRÓPRIA  (EDMILSON)",
     "Profundidade do Sulco": "37",
-    "Fazenda": NaN
+    "Fazenda": null,
+    "Unnamed: 16": null
   },
   {
     "ID": "3621875",
@@ -7216,7 +7620,8 @@ const SULCACAO_DATA = [
     "OS": "521",
     "Frente": "261 - FRENTE PRÓPRIA  (EDMILSON)",
     "Profundidade do Sulco": "39",
-    "Fazenda": NaN
+    "Fazenda": null,
+    "Unnamed: 16": null
   },
   {
     "ID": "3621938",
@@ -7234,7 +7639,8 @@ const SULCACAO_DATA = [
     "OS": "519",
     "Frente": "101 - FRENTE MECANIZADA",
     "Profundidade do Sulco": "38",
-    "Fazenda": NaN
+    "Fazenda": null,
+    "Unnamed: 16": null
   },
   {
     "ID": "3621600",
@@ -7252,7 +7658,8 @@ const SULCACAO_DATA = [
     "OS": "440",
     "Frente": "143 - FRENTE CASSIO",
     "Profundidade do Sulco": "39",
-    "Fazenda": NaN
+    "Fazenda": null,
+    "Unnamed: 16": null
   },
   {
     "ID": "3621447",
@@ -7270,7 +7677,8 @@ const SULCACAO_DATA = [
     "OS": "441",
     "Frente": "101 - FRENTE MECANIZADA",
     "Profundidade do Sulco": "38",
-    "Fazenda": NaN
+    "Fazenda": null,
+    "Unnamed: 16": null
   },
   {
     "ID": "3621869",
@@ -7288,7 +7696,8 @@ const SULCACAO_DATA = [
     "OS": "521",
     "Frente": "261 - FRENTE PRÓPRIA  (EDMILSON)",
     "Profundidade do Sulco": "37",
-    "Fazenda": NaN
+    "Fazenda": null,
+    "Unnamed: 16": null
   },
   {
     "ID": "3622200",
@@ -7306,7 +7715,8 @@ const SULCACAO_DATA = [
     "OS": "575",
     "Frente": "135 - FRENTE PEDRINHO",
     "Profundidade do Sulco": "44",
-    "Fazenda": NaN
+    "Fazenda": null,
+    "Unnamed: 16": null
   },
   {
     "ID": "3621927",
@@ -7324,7 +7734,8 @@ const SULCACAO_DATA = [
     "OS": "519",
     "Frente": "101 - FRENTE MECANIZADA",
     "Profundidade do Sulco": "36",
-    "Fazenda": NaN
+    "Fazenda": null,
+    "Unnamed: 16": null
   },
   {
     "ID": "3622196",
@@ -7342,7 +7753,8 @@ const SULCACAO_DATA = [
     "OS": "575",
     "Frente": "135 - FRENTE PEDRINHO",
     "Profundidade do Sulco": "41",
-    "Fazenda": NaN
+    "Fazenda": null,
+    "Unnamed: 16": null
   },
   {
     "ID": "3622189",
@@ -7360,7 +7772,8 @@ const SULCACAO_DATA = [
     "OS": "575",
     "Frente": "135 - FRENTE PEDRINHO",
     "Profundidade do Sulco": "42",
-    "Fazenda": NaN
+    "Fazenda": null,
+    "Unnamed: 16": null
   },
   {
     "ID": "3622183",
@@ -7378,7 +7791,8 @@ const SULCACAO_DATA = [
     "OS": "575",
     "Frente": "135 - FRENTE PEDRINHO",
     "Profundidade do Sulco": "40",
-    "Fazenda": NaN
+    "Fazenda": null,
+    "Unnamed: 16": null
   },
   {
     "ID": "3621592",
@@ -7396,7 +7810,8 @@ const SULCACAO_DATA = [
     "OS": "440",
     "Frente": "143 - FRENTE CASSIO",
     "Profundidade do Sulco": "38",
-    "Fazenda": NaN
+    "Fazenda": null,
+    "Unnamed: 16": null
   },
   {
     "ID": "3621588",
@@ -7414,7 +7829,8 @@ const SULCACAO_DATA = [
     "OS": "440",
     "Frente": "143 - FRENTE CASSIO",
     "Profundidade do Sulco": "36",
-    "Fazenda": NaN
+    "Fazenda": null,
+    "Unnamed: 16": null
   },
   {
     "ID": "3620975",
@@ -7432,7 +7848,8 @@ const SULCACAO_DATA = [
     "OS": "441",
     "Frente": "101 - FRENTE MECANIZADA",
     "Profundidade do Sulco": "38",
-    "Fazenda": NaN
+    "Fazenda": null,
+    "Unnamed: 16": null
   },
   {
     "ID": "3621922",
@@ -7450,7 +7867,8 @@ const SULCACAO_DATA = [
     "OS": "519",
     "Frente": "101 - FRENTE MECANIZADA",
     "Profundidade do Sulco": "35",
-    "Fazenda": NaN
+    "Fazenda": null,
+    "Unnamed: 16": null
   },
   {
     "ID": "3620969",
@@ -7468,7 +7886,8 @@ const SULCACAO_DATA = [
     "OS": "441",
     "Frente": "101 - FRENTE MECANIZADA",
     "Profundidade do Sulco": "37",
-    "Fazenda": NaN
+    "Fazenda": null,
+    "Unnamed: 16": null
   },
   {
     "ID": "3621916",
@@ -7486,7 +7905,8 @@ const SULCACAO_DATA = [
     "OS": "519",
     "Frente": "101 - FRENTE MECANIZADA",
     "Profundidade do Sulco": "38",
-    "Fazenda": NaN
+    "Fazenda": null,
+    "Unnamed: 16": null
   },
   {
     "ID": "3620963",
@@ -7504,7 +7924,8 @@ const SULCACAO_DATA = [
     "OS": "441",
     "Frente": "101 - FRENTE MECANIZADA",
     "Profundidade do Sulco": "38",
-    "Fazenda": NaN
+    "Fazenda": null,
+    "Unnamed: 16": null
   },
   {
     "ID": "3621911",
@@ -7522,7 +7943,8 @@ const SULCACAO_DATA = [
     "OS": "519",
     "Frente": "101 - FRENTE MECANIZADA",
     "Profundidade do Sulco": "39",
-    "Fazenda": NaN
+    "Fazenda": null,
+    "Unnamed: 16": null
   },
   {
     "ID": "3622469",
@@ -7540,7 +7962,8 @@ const SULCACAO_DATA = [
     "OS": "570",
     "Frente": "139 - FRENTE MANEZÃO",
     "Profundidade do Sulco": "39",
-    "Fazenda": NaN
+    "Fazenda": null,
+    "Unnamed: 16": null
   },
   {
     "ID": "3621908",
@@ -7558,7 +7981,8 @@ const SULCACAO_DATA = [
     "OS": "519",
     "Frente": "101 - FRENTE MECANIZADA",
     "Profundidade do Sulco": "36",
-    "Fazenda": NaN
+    "Fazenda": null,
+    "Unnamed: 16": null
   },
   {
     "ID": "3622465",
@@ -7576,7 +8000,8 @@ const SULCACAO_DATA = [
     "OS": "570",
     "Frente": "139 - FRENTE MANEZÃO",
     "Profundidade do Sulco": "37",
-    "Fazenda": NaN
+    "Fazenda": null,
+    "Unnamed: 16": null
   },
   {
     "ID": "3620943",
@@ -7594,7 +8019,8 @@ const SULCACAO_DATA = [
     "OS": "521",
     "Frente": "261 - FRENTE PRÓPRIA  (EDMILSON)",
     "Profundidade do Sulco": "39",
-    "Fazenda": NaN
+    "Fazenda": null,
+    "Unnamed: 16": null
   },
   {
     "ID": "3621902",
@@ -7612,7 +8038,8 @@ const SULCACAO_DATA = [
     "OS": "519",
     "Frente": "101 - FRENTE MECANIZADA",
     "Profundidade do Sulco": "37",
-    "Fazenda": NaN
+    "Fazenda": null,
+    "Unnamed: 16": null
   },
   {
     "ID": "3620938",
@@ -7630,7 +8057,8 @@ const SULCACAO_DATA = [
     "OS": "521",
     "Frente": "261 - FRENTE PRÓPRIA  (EDMILSON)",
     "Profundidade do Sulco": "39",
-    "Fazenda": NaN
+    "Fazenda": null,
+    "Unnamed: 16": null
   },
   {
     "ID": "3622455",
@@ -7648,7 +8076,8 @@ const SULCACAO_DATA = [
     "OS": "570",
     "Frente": "139 - FRENTE MANEZÃO",
     "Profundidade do Sulco": "37",
-    "Fazenda": NaN
+    "Fazenda": null,
+    "Unnamed: 16": null
   },
   {
     "ID": "3620933",
@@ -7666,7 +8095,8 @@ const SULCACAO_DATA = [
     "OS": "521",
     "Frente": "261 - FRENTE PRÓPRIA  (EDMILSON)",
     "Profundidade do Sulco": "37",
-    "Fazenda": NaN
+    "Fazenda": null,
+    "Unnamed: 16": null
   },
   {
     "ID": "3620928",
@@ -7684,7 +8114,8 @@ const SULCACAO_DATA = [
     "OS": "521",
     "Frente": "261 - FRENTE PRÓPRIA  (EDMILSON)",
     "Profundidade do Sulco": "38",
-    "Fazenda": NaN
+    "Fazenda": null,
+    "Unnamed: 16": null
   },
   {
     "ID": "3620921",
@@ -7702,7 +8133,8 @@ const SULCACAO_DATA = [
     "OS": "521",
     "Frente": "261 - FRENTE PRÓPRIA  (EDMILSON)",
     "Profundidade do Sulco": "38",
-    "Fazenda": NaN
+    "Fazenda": null,
+    "Unnamed: 16": null
   },
   {
     "ID": "3620911",
@@ -7720,7 +8152,8 @@ const SULCACAO_DATA = [
     "OS": "521",
     "Frente": "261 - FRENTE PRÓPRIA  (EDMILSON)",
     "Profundidade do Sulco": "39",
-    "Fazenda": NaN
+    "Fazenda": null,
+    "Unnamed: 16": null
   },
   {
     "ID": "3621168",
@@ -7738,7 +8171,8 @@ const SULCACAO_DATA = [
     "OS": "510",
     "Frente": "142 - FRENTE BIDU",
     "Profundidade do Sulco": "40",
-    "Fazenda": NaN
+    "Fazenda": null,
+    "Unnamed: 16": null
   },
   {
     "ID": "3622178",
@@ -7756,7 +8190,8 @@ const SULCACAO_DATA = [
     "OS": "575",
     "Frente": "135 - FRENTE PEDRINHO",
     "Profundidade do Sulco": "43",
-    "Fazenda": NaN
+    "Fazenda": null,
+    "Unnamed: 16": null
   },
   {
     "ID": "3620906",
@@ -7774,7 +8209,8 @@ const SULCACAO_DATA = [
     "OS": "521",
     "Frente": "261 - FRENTE PRÓPRIA  (EDMILSON)",
     "Profundidade do Sulco": "38",
-    "Fazenda": NaN
+    "Fazenda": null,
+    "Unnamed: 16": null
   },
   {
     "ID": "3621157",
@@ -7792,7 +8228,8 @@ const SULCACAO_DATA = [
     "OS": "510",
     "Frente": "142 - FRENTE BIDU",
     "Profundidade do Sulco": "39",
-    "Fazenda": NaN
+    "Fazenda": null,
+    "Unnamed: 16": null
   },
   {
     "ID": "3620901",
@@ -7810,7 +8247,8 @@ const SULCACAO_DATA = [
     "OS": "521",
     "Frente": "261 - FRENTE PRÓPRIA  (EDMILSON)",
     "Profundidade do Sulco": "39",
-    "Fazenda": NaN
+    "Fazenda": null,
+    "Unnamed: 16": null
   },
   {
     "ID": "3622173",
@@ -7828,7 +8266,8 @@ const SULCACAO_DATA = [
     "OS": "575",
     "Frente": "135 - FRENTE PEDRINHO",
     "Profundidade do Sulco": "39",
-    "Fazenda": NaN
+    "Fazenda": null,
+    "Unnamed: 16": null
   },
   {
     "ID": "3621151",
@@ -7846,7 +8285,8 @@ const SULCACAO_DATA = [
     "OS": "510",
     "Frente": "142 - FRENTE BIDU",
     "Profundidade do Sulco": "40",
-    "Fazenda": NaN
+    "Fazenda": null,
+    "Unnamed: 16": null
   },
   {
     "ID": "3620896",
@@ -7864,7 +8304,8 @@ const SULCACAO_DATA = [
     "OS": "521",
     "Frente": "261 - FRENTE PRÓPRIA  (EDMILSON)",
     "Profundidade do Sulco": "39",
-    "Fazenda": NaN
+    "Fazenda": null,
+    "Unnamed: 16": null
   },
   {
     "ID": "3622168",
@@ -7882,7 +8323,8 @@ const SULCACAO_DATA = [
     "OS": "575",
     "Frente": "135 - FRENTE PEDRINHO",
     "Profundidade do Sulco": "44",
-    "Fazenda": NaN
+    "Fazenda": null,
+    "Unnamed: 16": null
   },
   {
     "ID": "3621146",
@@ -7900,7 +8342,8 @@ const SULCACAO_DATA = [
     "OS": "510",
     "Frente": "142 - FRENTE BIDU",
     "Profundidade do Sulco": "40",
-    "Fazenda": NaN
+    "Fazenda": null,
+    "Unnamed: 16": null
   },
   {
     "ID": "3620890",
@@ -7918,7 +8361,8 @@ const SULCACAO_DATA = [
     "OS": "521",
     "Frente": "261 - FRENTE PRÓPRIA  (EDMILSON)",
     "Profundidade do Sulco": "38",
-    "Fazenda": NaN
+    "Fazenda": null,
+    "Unnamed: 16": null
   },
   {
     "ID": "3621142",
@@ -7936,7 +8380,8 @@ const SULCACAO_DATA = [
     "OS": "510",
     "Frente": "142 - FRENTE BIDU",
     "Profundidade do Sulco": "38",
-    "Fazenda": NaN
+    "Fazenda": null,
+    "Unnamed: 16": null
   },
   {
     "ID": "3622163",
@@ -7954,7 +8399,8 @@ const SULCACAO_DATA = [
     "OS": "575",
     "Frente": "135 - FRENTE PEDRINHO",
     "Profundidade do Sulco": "42",
-    "Fazenda": NaN
+    "Fazenda": null,
+    "Unnamed: 16": null
   },
   {
     "ID": "3621133",
@@ -7972,7 +8418,8 @@ const SULCACAO_DATA = [
     "OS": "510",
     "Frente": "142 - FRENTE BIDU",
     "Profundidade do Sulco": "40",
-    "Fazenda": NaN
+    "Fazenda": null,
+    "Unnamed: 16": null
   },
   {
     "ID": "3622158",
@@ -7990,7 +8437,8 @@ const SULCACAO_DATA = [
     "OS": "575",
     "Frente": "135 - FRENTE PEDRINHO",
     "Profundidade do Sulco": "41",
-    "Fazenda": NaN
+    "Fazenda": null,
+    "Unnamed: 16": null
   },
   {
     "ID": "3618404",
@@ -8008,7 +8456,8 @@ const SULCACAO_DATA = [
     "OS": "503",
     "Frente": "105 - FRENTE CASSIO (ZACARIAS)",
     "Profundidade do Sulco": "38",
-    "Fazenda": NaN
+    "Fazenda": null,
+    "Unnamed: 16": null
   },
   {
     "ID": "3618779",
@@ -8026,7 +8475,8 @@ const SULCACAO_DATA = [
     "OS": "498",
     "Frente": "139 - FRENTE MANEZÃO",
     "Profundidade do Sulco": "37",
-    "Fazenda": NaN
+    "Fazenda": null,
+    "Unnamed: 16": null
   },
   {
     "ID": "3618397",
@@ -8044,7 +8494,8 @@ const SULCACAO_DATA = [
     "OS": "503",
     "Frente": "105 - FRENTE CASSIO (ZACARIAS)",
     "Profundidade do Sulco": "36",
-    "Fazenda": NaN
+    "Fazenda": null,
+    "Unnamed: 16": null
   },
   {
     "ID": "3618392",
@@ -8062,7 +8513,8 @@ const SULCACAO_DATA = [
     "OS": "503",
     "Frente": "105 - FRENTE CASSIO (ZACARIAS)",
     "Profundidade do Sulco": "38",
-    "Fazenda": NaN
+    "Fazenda": null,
+    "Unnamed: 16": null
   },
   {
     "ID": "3618458",
@@ -8080,7 +8532,8 @@ const SULCACAO_DATA = [
     "OS": "519",
     "Frente": "101 - FRENTE MECANIZADA",
     "Profundidade do Sulco": "39",
-    "Fazenda": NaN
+    "Fazenda": null,
+    "Unnamed: 16": null
   },
   {
     "ID": "3618385",
@@ -8098,7 +8551,8 @@ const SULCACAO_DATA = [
     "OS": "503",
     "Frente": "105 - FRENTE CASSIO (ZACARIAS)",
     "Profundidade do Sulco": "38",
-    "Fazenda": NaN
+    "Fazenda": null,
+    "Unnamed: 16": null
   },
   {
     "ID": "3618348",
@@ -8116,7 +8570,8 @@ const SULCACAO_DATA = [
     "OS": "521",
     "Frente": "261 - FRENTE PRÓPRIA  (EDMILSON)",
     "Profundidade do Sulco": "37",
-    "Fazenda": NaN
+    "Fazenda": null,
+    "Unnamed: 16": null
   },
   {
     "ID": "3619779",
@@ -8134,7 +8589,8 @@ const SULCACAO_DATA = [
     "OS": "575",
     "Frente": "135 - FRENTE PEDRINHO",
     "Profundidade do Sulco": "40",
-    "Fazenda": NaN
+    "Fazenda": null,
+    "Unnamed: 16": null
   },
   {
     "ID": "3618342",
@@ -8152,7 +8608,8 @@ const SULCACAO_DATA = [
     "OS": "521",
     "Frente": "261 - FRENTE PRÓPRIA  (EDMILSON)",
     "Profundidade do Sulco": "39",
-    "Fazenda": NaN
+    "Fazenda": null,
+    "Unnamed: 16": null
   },
   {
     "ID": "3618776",
@@ -8170,7 +8627,8 @@ const SULCACAO_DATA = [
     "OS": "498",
     "Frente": "139 - FRENTE MANEZÃO",
     "Profundidade do Sulco": "36",
-    "Fazenda": NaN
+    "Fazenda": null,
+    "Unnamed: 16": null
   },
   {
     "ID": "3618437",
@@ -8188,7 +8646,8 @@ const SULCACAO_DATA = [
     "OS": "519",
     "Frente": "101 - FRENTE MECANIZADA",
     "Profundidade do Sulco": "38",
-    "Fazenda": NaN
+    "Fazenda": null,
+    "Unnamed: 16": null
   },
   {
     "ID": "3618771",
@@ -8206,7 +8665,8 @@ const SULCACAO_DATA = [
     "OS": "498",
     "Frente": "139 - FRENTE MANEZÃO",
     "Profundidade do Sulco": "40",
-    "Fazenda": NaN
+    "Fazenda": null,
+    "Unnamed: 16": null
   },
   {
     "ID": "3618336",
@@ -8224,7 +8684,8 @@ const SULCACAO_DATA = [
     "OS": "521",
     "Frente": "261 - FRENTE PRÓPRIA  (EDMILSON)",
     "Profundidade do Sulco": "39",
-    "Fazenda": NaN
+    "Fazenda": null,
+    "Unnamed: 16": null
   },
   {
     "ID": "3619770",
@@ -8242,7 +8703,8 @@ const SULCACAO_DATA = [
     "OS": "575",
     "Frente": "135 - FRENTE PEDRINHO",
     "Profundidade do Sulco": "38",
-    "Fazenda": NaN
+    "Fazenda": null,
+    "Unnamed: 16": null
   },
   {
     "ID": "3618792",
@@ -8260,7 +8722,8 @@ const SULCACAO_DATA = [
     "OS": "519",
     "Frente": "101 - FRENTE MECANIZADA",
     "Profundidade do Sulco": "37",
-    "Fazenda": NaN
+    "Fazenda": null,
+    "Unnamed: 16": null
   },
   {
     "ID": "3618763",
@@ -8278,7 +8741,8 @@ const SULCACAO_DATA = [
     "OS": "498",
     "Frente": "139 - FRENTE MANEZÃO",
     "Profundidade do Sulco": "39",
-    "Fazenda": NaN
+    "Fazenda": null,
+    "Unnamed: 16": null
   },
   {
     "ID": "3618331",
@@ -8296,7 +8760,8 @@ const SULCACAO_DATA = [
     "OS": "521",
     "Frente": "261 - FRENTE PRÓPRIA  (EDMILSON)",
     "Profundidade do Sulco": "38",
-    "Fazenda": NaN
+    "Fazenda": null,
+    "Unnamed: 16": null
   },
   {
     "ID": "3617924",
@@ -8314,7 +8779,8 @@ const SULCACAO_DATA = [
     "OS": "441",
     "Frente": "101 - FRENTE MECANIZADA",
     "Profundidade do Sulco": "38",
-    "Fazenda": NaN
+    "Fazenda": null,
+    "Unnamed: 16": null
   },
   {
     "ID": "3619765",
@@ -8332,7 +8798,8 @@ const SULCACAO_DATA = [
     "OS": "575",
     "Frente": "135 - FRENTE PEDRINHO",
     "Profundidade do Sulco": "45",
-    "Fazenda": NaN
+    "Fazenda": null,
+    "Unnamed: 16": null
   },
   {
     "ID": "3618758",
@@ -8350,7 +8817,8 @@ const SULCACAO_DATA = [
     "OS": "498",
     "Frente": "139 - FRENTE MANEZÃO",
     "Profundidade do Sulco": "37",
-    "Fazenda": NaN
+    "Fazenda": null,
+    "Unnamed: 16": null
   },
   {
     "ID": "3618314",
@@ -8368,7 +8836,8 @@ const SULCACAO_DATA = [
     "OS": "521",
     "Frente": "261 - FRENTE PRÓPRIA  (EDMILSON)",
     "Profundidade do Sulco": "39",
-    "Fazenda": NaN
+    "Fazenda": null,
+    "Unnamed: 16": null
   },
   {
     "ID": "3618409",
@@ -8386,7 +8855,8 @@ const SULCACAO_DATA = [
     "OS": "519",
     "Frente": "101 - FRENTE MECANIZADA",
     "Profundidade do Sulco": "39",
-    "Fazenda": NaN
+    "Fazenda": null,
+    "Unnamed: 16": null
   },
   {
     "ID": "3619741",
@@ -8404,7 +8874,8 @@ const SULCACAO_DATA = [
     "OS": "575",
     "Frente": "135 - FRENTE PEDRINHO",
     "Profundidade do Sulco": "40",
-    "Fazenda": NaN
+    "Fazenda": null,
+    "Unnamed: 16": null
   },
   {
     "ID": "3618583",
@@ -8422,7 +8893,8 @@ const SULCACAO_DATA = [
     "OS": "510",
     "Frente": "142 - FRENTE BIDU",
     "Profundidade do Sulco": "37",
-    "Fazenda": NaN
+    "Fazenda": null,
+    "Unnamed: 16": null
   },
   {
     "ID": "3617918",
@@ -8440,7 +8912,8 @@ const SULCACAO_DATA = [
     "OS": "441",
     "Frente": "101 - FRENTE MECANIZADA",
     "Profundidade do Sulco": "40",
-    "Fazenda": NaN
+    "Fazenda": null,
+    "Unnamed: 16": null
   },
   {
     "ID": "3618276",
@@ -8458,7 +8931,8 @@ const SULCACAO_DATA = [
     "OS": "521",
     "Frente": "261 - FRENTE PRÓPRIA  (EDMILSON)",
     "Profundidade do Sulco": "38",
-    "Fazenda": NaN
+    "Fazenda": null,
+    "Unnamed: 16": null
   },
   {
     "ID": "3618372",
@@ -8476,7 +8950,8 @@ const SULCACAO_DATA = [
     "OS": "519",
     "Frente": "101 - FRENTE MECANIZADA",
     "Profundidade do Sulco": "35",
-    "Fazenda": NaN
+    "Fazenda": null,
+    "Unnamed: 16": null
   },
   {
     "ID": "3618270",
@@ -8494,7 +8969,8 @@ const SULCACAO_DATA = [
     "OS": "521",
     "Frente": "261 - FRENTE PRÓPRIA  (EDMILSON)",
     "Profundidade do Sulco": "39",
-    "Fazenda": NaN
+    "Fazenda": null,
+    "Unnamed: 16": null
   },
   {
     "ID": "3617912",
@@ -8512,7 +8988,8 @@ const SULCACAO_DATA = [
     "OS": "441",
     "Frente": "101 - FRENTE MECANIZADA",
     "Profundidade do Sulco": "38",
-    "Fazenda": NaN
+    "Fazenda": null,
+    "Unnamed: 16": null
   },
   {
     "ID": "3618578",
@@ -8530,7 +9007,8 @@ const SULCACAO_DATA = [
     "OS": "510",
     "Frente": "142 - FRENTE BIDU",
     "Profundidade do Sulco": "39",
-    "Fazenda": NaN
+    "Fazenda": null,
+    "Unnamed: 16": null
   },
   {
     "ID": "3618316",
@@ -8548,7 +9026,8 @@ const SULCACAO_DATA = [
     "OS": "519",
     "Frente": "101 - FRENTE MECANIZADA",
     "Profundidade do Sulco": "38",
-    "Fazenda": NaN
+    "Fazenda": null,
+    "Unnamed: 16": null
   },
   {
     "ID": "3618756",
@@ -8566,7 +9045,8 @@ const SULCACAO_DATA = [
     "OS": "498",
     "Frente": "139 - FRENTE MANEZÃO",
     "Profundidade do Sulco": "36",
-    "Fazenda": NaN
+    "Fazenda": null,
+    "Unnamed: 16": null
   },
   {
     "ID": "3618741",
@@ -8584,7 +9064,8 @@ const SULCACAO_DATA = [
     "OS": "498",
     "Frente": "139 - FRENTE MANEZÃO",
     "Profundidade do Sulco": "40",
-    "Fazenda": NaN
+    "Fazenda": null,
+    "Unnamed: 16": null
   },
   {
     "ID": "3618738",
@@ -8602,7 +9083,8 @@ const SULCACAO_DATA = [
     "OS": "498",
     "Frente": "139 - FRENTE MANEZÃO",
     "Profundidade do Sulco": "36",
-    "Fazenda": NaN
+    "Fazenda": null,
+    "Unnamed: 16": null
   },
   {
     "ID": "3618732",
@@ -8620,7 +9102,8 @@ const SULCACAO_DATA = [
     "OS": "498",
     "Frente": "139 - FRENTE MANEZÃO",
     "Profundidade do Sulco": "39",
-    "Fazenda": NaN
+    "Fazenda": null,
+    "Unnamed: 16": null
   },
   {
     "ID": "3618727",
@@ -8638,7 +9121,8 @@ const SULCACAO_DATA = [
     "OS": "498",
     "Frente": "139 - FRENTE MANEZÃO",
     "Profundidade do Sulco": "38",
-    "Fazenda": NaN
+    "Fazenda": null,
+    "Unnamed: 16": null
   },
   {
     "ID": "3617786",
@@ -8656,7 +9140,8 @@ const SULCACAO_DATA = [
     "OS": "521",
     "Frente": "261 - FRENTE PRÓPRIA  (EDMILSON)",
     "Profundidade do Sulco": "38",
-    "Fazenda": NaN
+    "Fazenda": null,
+    "Unnamed: 16": null
   },
   {
     "ID": "3618719",
@@ -8674,7 +9159,8 @@ const SULCACAO_DATA = [
     "OS": "498",
     "Frente": "139 - FRENTE MANEZÃO",
     "Profundidade do Sulco": "38",
-    "Fazenda": NaN
+    "Fazenda": null,
+    "Unnamed: 16": null
   },
   {
     "ID": "3618571",
@@ -8692,7 +9178,8 @@ const SULCACAO_DATA = [
     "OS": "510",
     "Frente": "142 - FRENTE BIDU",
     "Profundidade do Sulco": "39",
-    "Fazenda": NaN
+    "Fazenda": null,
+    "Unnamed: 16": null
   },
   {
     "ID": "3617781",
@@ -8710,7 +9197,8 @@ const SULCACAO_DATA = [
     "OS": "521",
     "Frente": "261 - FRENTE PRÓPRIA  (EDMILSON)",
     "Profundidade do Sulco": "38",
-    "Fazenda": NaN
+    "Fazenda": null,
+    "Unnamed: 16": null
   },
   {
     "ID": "3618566",
@@ -8728,7 +9216,8 @@ const SULCACAO_DATA = [
     "OS": "510",
     "Frente": "142 - FRENTE BIDU",
     "Profundidade do Sulco": "40",
-    "Fazenda": NaN
+    "Fazenda": null,
+    "Unnamed: 16": null
   },
   {
     "ID": "3617882",
@@ -8746,7 +9235,8 @@ const SULCACAO_DATA = [
     "OS": "440",
     "Frente": "143 - FRENTE CASSIO",
     "Profundidade do Sulco": "37",
-    "Fazenda": NaN
+    "Fazenda": null,
+    "Unnamed: 16": null
   },
   {
     "ID": "3617776",
@@ -8764,7 +9254,8 @@ const SULCACAO_DATA = [
     "OS": "521",
     "Frente": "261 - FRENTE PRÓPRIA  (EDMILSON)",
     "Profundidade do Sulco": "39",
-    "Fazenda": NaN
+    "Fazenda": null,
+    "Unnamed: 16": null
   },
   {
     "ID": "3618561",
@@ -8782,7 +9273,8 @@ const SULCACAO_DATA = [
     "OS": "510",
     "Frente": "142 - FRENTE BIDU",
     "Profundidade do Sulco": "42",
-    "Fazenda": NaN
+    "Fazenda": null,
+    "Unnamed: 16": null
   },
   {
     "ID": "3617743",
@@ -8800,7 +9292,8 @@ const SULCACAO_DATA = [
     "OS": "441",
     "Frente": "101 - FRENTE MECANIZADA",
     "Profundidade do Sulco": "38",
-    "Fazenda": NaN
+    "Fazenda": null,
+    "Unnamed: 16": null
   },
   {
     "ID": "3618556",
@@ -8818,7 +9311,8 @@ const SULCACAO_DATA = [
     "OS": "510",
     "Frente": "142 - FRENTE BIDU",
     "Profundidade do Sulco": "40",
-    "Fazenda": NaN
+    "Fazenda": null,
+    "Unnamed: 16": null
   },
   {
     "ID": "3617771",
@@ -8836,7 +9330,8 @@ const SULCACAO_DATA = [
     "OS": "521",
     "Frente": "261 - FRENTE PRÓPRIA  (EDMILSON)",
     "Profundidade do Sulco": "39",
-    "Fazenda": NaN
+    "Fazenda": null,
+    "Unnamed: 16": null
   },
   {
     "ID": "3618284",
@@ -8854,7 +9349,8 @@ const SULCACAO_DATA = [
     "OS": "519",
     "Frente": "101 - FRENTE MECANIZADA",
     "Profundidade do Sulco": "39",
-    "Fazenda": NaN
+    "Fazenda": null,
+    "Unnamed: 16": null
   },
   {
     "ID": "3618551",
@@ -8872,7 +9368,8 @@ const SULCACAO_DATA = [
     "OS": "510",
     "Frente": "142 - FRENTE BIDU",
     "Profundidade do Sulco": "39",
-    "Fazenda": NaN
+    "Fazenda": null,
+    "Unnamed: 16": null
   },
   {
     "ID": "3618267",
@@ -8890,7 +9387,8 @@ const SULCACAO_DATA = [
     "OS": "519",
     "Frente": "101 - FRENTE MECANIZADA",
     "Profundidade do Sulco": "36",
-    "Fazenda": NaN
+    "Fazenda": null,
+    "Unnamed: 16": null
   },
   {
     "ID": "3617717",
@@ -8908,7 +9406,8 @@ const SULCACAO_DATA = [
     "OS": "441",
     "Frente": "101 - FRENTE MECANIZADA",
     "Profundidade do Sulco": "40",
-    "Fazenda": NaN
+    "Fazenda": null,
+    "Unnamed: 16": null
   },
   {
     "ID": "3618260",
@@ -8926,7 +9425,8 @@ const SULCACAO_DATA = [
     "OS": "519",
     "Frente": "101 - FRENTE MECANIZADA",
     "Profundidade do Sulco": "38",
-    "Fazenda": NaN
+    "Fazenda": null,
+    "Unnamed: 16": null
   },
   {
     "ID": "3617876",
@@ -8944,7 +9444,8 @@ const SULCACAO_DATA = [
     "OS": "440",
     "Frente": "143 - FRENTE CASSIO",
     "Profundidade do Sulco": "37",
-    "Fazenda": NaN
+    "Fazenda": null,
+    "Unnamed: 16": null
   },
   {
     "ID": "3618255",
@@ -8962,7 +9463,8 @@ const SULCACAO_DATA = [
     "OS": "519",
     "Frente": "101 - FRENTE MECANIZADA",
     "Profundidade do Sulco": "37",
-    "Fazenda": NaN
+    "Fazenda": null,
+    "Unnamed: 16": null
   },
   {
     "ID": "3617711",
@@ -8980,7 +9482,8 @@ const SULCACAO_DATA = [
     "OS": "441",
     "Frente": "101 - FRENTE MECANIZADA",
     "Profundidade do Sulco": "39",
-    "Fazenda": NaN
+    "Fazenda": null,
+    "Unnamed: 16": null
   },
   {
     "ID": "3617869",
@@ -8998,7 +9501,8 @@ const SULCACAO_DATA = [
     "OS": "440",
     "Frente": "143 - FRENTE CASSIO",
     "Profundidade do Sulco": "38",
-    "Fazenda": NaN
+    "Fazenda": null,
+    "Unnamed: 16": null
   },
   {
     "ID": "3618252",
@@ -9016,7 +9520,8 @@ const SULCACAO_DATA = [
     "OS": "519",
     "Frente": "101 - FRENTE MECANIZADA",
     "Profundidade do Sulco": "37",
-    "Fazenda": NaN
+    "Fazenda": null,
+    "Unnamed: 16": null
   },
   {
     "ID": "3617863",
@@ -9034,7 +9539,8 @@ const SULCACAO_DATA = [
     "OS": "440",
     "Frente": "143 - FRENTE CASSIO",
     "Profundidade do Sulco": "38",
-    "Fazenda": NaN
+    "Fazenda": null,
+    "Unnamed: 16": null
   },
   {
     "ID": "3619735",
@@ -9052,7 +9558,8 @@ const SULCACAO_DATA = [
     "OS": "575",
     "Frente": "135 - FRENTE PEDRINHO",
     "Profundidade do Sulco": "40",
-    "Fazenda": NaN
+    "Fazenda": null,
+    "Unnamed: 16": null
   },
   {
     "ID": "3617566",
@@ -9070,7 +9577,8 @@ const SULCACAO_DATA = [
     "OS": "441",
     "Frente": "101 - FRENTE MECANIZADA",
     "Profundidade do Sulco": "39",
-    "Fazenda": NaN
+    "Fazenda": null,
+    "Unnamed: 16": null
   },
   {
     "ID": "3617856",
@@ -9088,7 +9596,8 @@ const SULCACAO_DATA = [
     "OS": "440",
     "Frente": "143 - FRENTE CASSIO",
     "Profundidade do Sulco": "37",
-    "Fazenda": NaN
+    "Fazenda": null,
+    "Unnamed: 16": null
   },
   {
     "ID": "3617559",
@@ -9106,7 +9615,8 @@ const SULCACAO_DATA = [
     "OS": "441",
     "Frente": "101 - FRENTE MECANIZADA",
     "Profundidade do Sulco": "37",
-    "Fazenda": NaN
+    "Fazenda": null,
+    "Unnamed: 16": null
   },
   {
     "ID": "3619729",
@@ -9124,7 +9634,8 @@ const SULCACAO_DATA = [
     "OS": "575",
     "Frente": "135 - FRENTE PEDRINHO",
     "Profundidade do Sulco": "40",
-    "Fazenda": NaN
+    "Fazenda": null,
+    "Unnamed: 16": null
   },
   {
     "ID": "3619727",
@@ -9142,7 +9653,8 @@ const SULCACAO_DATA = [
     "OS": "575",
     "Frente": "135 - FRENTE PEDRINHO",
     "Profundidade do Sulco": "44",
-    "Fazenda": NaN
+    "Fazenda": null,
+    "Unnamed: 16": null
   },
   {
     "ID": "3614616",
@@ -9160,7 +9672,8 @@ const SULCACAO_DATA = [
     "OS": "441",
     "Frente": "101 - FRENTE MECANIZADA",
     "Profundidade do Sulco": "38",
-    "Fazenda": NaN
+    "Fazenda": null,
+    "Unnamed: 16": null
   },
   {
     "ID": "3614607",
@@ -9178,7 +9691,8 @@ const SULCACAO_DATA = [
     "OS": "441",
     "Frente": "101 - FRENTE MECANIZADA",
     "Profundidade do Sulco": "38",
-    "Fazenda": NaN
+    "Fazenda": null,
+    "Unnamed: 16": null
   },
   {
     "ID": "3614600",
@@ -9196,7 +9710,8 @@ const SULCACAO_DATA = [
     "OS": "521",
     "Frente": "261 - FRENTE PRÓPRIA  (EDMILSON)",
     "Profundidade do Sulco": "39",
-    "Fazenda": NaN
+    "Fazenda": null,
+    "Unnamed: 16": null
   },
   {
     "ID": "3614595",
@@ -9214,7 +9729,8 @@ const SULCACAO_DATA = [
     "OS": "521",
     "Frente": "261 - FRENTE PRÓPRIA  (EDMILSON)",
     "Profundidade do Sulco": "38",
-    "Fazenda": NaN
+    "Fazenda": null,
+    "Unnamed: 16": null
   },
   {
     "ID": "3614590",
@@ -9232,7 +9748,8 @@ const SULCACAO_DATA = [
     "OS": "521",
     "Frente": "261 - FRENTE PRÓPRIA  (EDMILSON)",
     "Profundidade do Sulco": "39",
-    "Fazenda": NaN
+    "Fazenda": null,
+    "Unnamed: 16": null
   },
   {
     "ID": "3614682",
@@ -9250,7 +9767,8 @@ const SULCACAO_DATA = [
     "OS": "519",
     "Frente": "101 - FRENTE MECANIZADA",
     "Profundidade do Sulco": "38",
-    "Fazenda": NaN
+    "Fazenda": null,
+    "Unnamed: 16": null
   },
   {
     "ID": "3614375",
@@ -9268,7 +9786,8 @@ const SULCACAO_DATA = [
     "OS": "441",
     "Frente": "101 - FRENTE MECANIZADA",
     "Profundidade do Sulco": "40",
-    "Fazenda": NaN
+    "Fazenda": null,
+    "Unnamed: 16": null
   },
   {
     "ID": "3614585",
@@ -9286,7 +9805,8 @@ const SULCACAO_DATA = [
     "OS": "521",
     "Frente": "261 - FRENTE PRÓPRIA  (EDMILSON)",
     "Profundidade do Sulco": "38",
-    "Fazenda": NaN
+    "Fazenda": null,
+    "Unnamed: 16": null
   },
   {
     "ID": "3614678",
@@ -9304,7 +9824,8 @@ const SULCACAO_DATA = [
     "OS": "519",
     "Frente": "101 - FRENTE MECANIZADA",
     "Profundidade do Sulco": "38",
-    "Fazenda": NaN
+    "Fazenda": null,
+    "Unnamed: 16": null
   },
   {
     "ID": "3614368",
@@ -9322,7 +9843,8 @@ const SULCACAO_DATA = [
     "OS": "441",
     "Frente": "101 - FRENTE MECANIZADA",
     "Profundidade do Sulco": "39",
-    "Fazenda": NaN
+    "Fazenda": null,
+    "Unnamed: 16": null
   },
   {
     "ID": "3614344",
@@ -9340,7 +9862,8 @@ const SULCACAO_DATA = [
     "OS": "509",
     "Frente": "142 - FRENTE BIDU",
     "Profundidade do Sulco": "37",
-    "Fazenda": NaN
+    "Fazenda": null,
+    "Unnamed: 16": null
   },
   {
     "ID": "3614290",
@@ -9358,7 +9881,8 @@ const SULCACAO_DATA = [
     "OS": "509",
     "Frente": "142 - FRENTE BIDU",
     "Profundidade do Sulco": "36",
-    "Fazenda": NaN
+    "Fazenda": null,
+    "Unnamed: 16": null
   },
   {
     "ID": "3614361",
@@ -9376,7 +9900,8 @@ const SULCACAO_DATA = [
     "OS": "441",
     "Frente": "101 - FRENTE MECANIZADA",
     "Profundidade do Sulco": "40",
-    "Fazenda": NaN
+    "Fazenda": null,
+    "Unnamed: 16": null
   },
   {
     "ID": "3614380",
@@ -9394,7 +9919,8 @@ const SULCACAO_DATA = [
     "OS": "441",
     "Frente": "101 - FRENTE MECANIZADA",
     "Profundidade do Sulco": "39",
-    "Fazenda": NaN
+    "Fazenda": null,
+    "Unnamed: 16": null
   },
   {
     "ID": "3613971",
@@ -9412,7 +9938,8 @@ const SULCACAO_DATA = [
     "OS": "521",
     "Frente": "261 - FRENTE PRÓPRIA  (EDMILSON)",
     "Profundidade do Sulco": "38",
-    "Fazenda": NaN
+    "Fazenda": null,
+    "Unnamed: 16": null
   },
   {
     "ID": "3614670",
@@ -9430,7 +9957,8 @@ const SULCACAO_DATA = [
     "OS": "519",
     "Frente": "101 - FRENTE MECANIZADA",
     "Profundidade do Sulco": "36",
-    "Fazenda": NaN
+    "Fazenda": null,
+    "Unnamed: 16": null
   },
   {
     "ID": "3613966",
@@ -9448,7 +9976,8 @@ const SULCACAO_DATA = [
     "OS": "521",
     "Frente": "261 - FRENTE PRÓPRIA  (EDMILSON)",
     "Profundidade do Sulco": "39",
-    "Fazenda": NaN
+    "Fazenda": null,
+    "Unnamed: 16": null
   },
   {
     "ID": "3614177",
@@ -9466,7 +9995,8 @@ const SULCACAO_DATA = [
     "OS": "441",
     "Frente": "101 - FRENTE MECANIZADA",
     "Profundidade do Sulco": "39",
-    "Fazenda": NaN
+    "Fazenda": null,
+    "Unnamed: 16": null
   },
   {
     "ID": "3614691",
@@ -9484,7 +10014,8 @@ const SULCACAO_DATA = [
     "OS": "519",
     "Frente": "101 - FRENTE MECANIZADA",
     "Profundidade do Sulco": "38",
-    "Fazenda": NaN
+    "Fazenda": null,
+    "Unnamed: 16": null
   },
   {
     "ID": "3613960",
@@ -9502,7 +10033,8 @@ const SULCACAO_DATA = [
     "OS": "521",
     "Frente": "261 - FRENTE PRÓPRIA  (EDMILSON)",
     "Profundidade do Sulco": "39",
-    "Fazenda": NaN
+    "Fazenda": null,
+    "Unnamed: 16": null
   },
   {
     "ID": "3613955",
@@ -9520,7 +10052,8 @@ const SULCACAO_DATA = [
     "OS": "521",
     "Frente": "261 - FRENTE PRÓPRIA  (EDMILSON)",
     "Profundidade do Sulco": "38",
-    "Fazenda": NaN
+    "Fazenda": null,
+    "Unnamed: 16": null
   },
   {
     "ID": "3613951",
@@ -9538,7 +10071,8 @@ const SULCACAO_DATA = [
     "OS": "521",
     "Frente": "261 - FRENTE PRÓPRIA  (EDMILSON)",
     "Profundidade do Sulco": "39",
-    "Fazenda": NaN
+    "Fazenda": null,
+    "Unnamed: 16": null
   },
   {
     "ID": "3614657",
@@ -9556,7 +10090,8 @@ const SULCACAO_DATA = [
     "OS": "519",
     "Frente": "101 - FRENTE MECANIZADA",
     "Profundidade do Sulco": "36",
-    "Fazenda": NaN
+    "Fazenda": null,
+    "Unnamed: 16": null
   },
   {
     "ID": "3614653",
@@ -9574,7 +10109,8 @@ const SULCACAO_DATA = [
     "OS": "519",
     "Frente": "101 - FRENTE MECANIZADA",
     "Profundidade do Sulco": "36",
-    "Fazenda": NaN
+    "Fazenda": null,
+    "Unnamed: 16": null
   },
   {
     "ID": "3614648",
@@ -9592,7 +10128,8 @@ const SULCACAO_DATA = [
     "OS": "519",
     "Frente": "101 - FRENTE MECANIZADA",
     "Profundidade do Sulco": "37",
-    "Fazenda": NaN
+    "Fazenda": null,
+    "Unnamed: 16": null
   },
   {
     "ID": "3613808",
@@ -9610,7 +10147,8 @@ const SULCACAO_DATA = [
     "OS": "501",
     "Frente": "139 - FRENTE MANEZÃO",
     "Profundidade do Sulco": "38",
-    "Fazenda": NaN
+    "Fazenda": null,
+    "Unnamed: 16": null
   },
   {
     "ID": "3613945",
@@ -9628,7 +10166,8 @@ const SULCACAO_DATA = [
     "OS": "521",
     "Frente": "261 - FRENTE PRÓPRIA  (EDMILSON)",
     "Profundidade do Sulco": "39",
-    "Fazenda": NaN
+    "Fazenda": null,
+    "Unnamed: 16": null
   },
   {
     "ID": "3613803",
@@ -9646,7 +10185,8 @@ const SULCACAO_DATA = [
     "OS": "501",
     "Frente": "139 - FRENTE MANEZÃO",
     "Profundidade do Sulco": "36",
-    "Fazenda": NaN
+    "Fazenda": null,
+    "Unnamed: 16": null
   },
   {
     "ID": "3614270",
@@ -9664,7 +10204,8 @@ const SULCACAO_DATA = [
     "OS": "503",
     "Frente": "143 - FRENTE CASSIO",
     "Profundidade do Sulco": "37",
-    "Fazenda": NaN
+    "Fazenda": null,
+    "Unnamed: 16": null
   },
   {
     "ID": "3614269",
@@ -9682,7 +10223,8 @@ const SULCACAO_DATA = [
     "OS": "503",
     "Frente": "143 - FRENTE CASSIO",
     "Profundidade do Sulco": "38",
-    "Fazenda": NaN
+    "Fazenda": null,
+    "Unnamed: 16": null
   },
   {
     "ID": "3613798",
@@ -9700,7 +10242,8 @@ const SULCACAO_DATA = [
     "OS": "501",
     "Frente": "139 - FRENTE MANEZÃO",
     "Profundidade do Sulco": "39",
-    "Fazenda": NaN
+    "Fazenda": null,
+    "Unnamed: 16": null
   },
   {
     "ID": "3613940",
@@ -9718,7 +10261,8 @@ const SULCACAO_DATA = [
     "OS": "521",
     "Frente": "261 - FRENTE PRÓPRIA  (EDMILSON)",
     "Profundidade do Sulco": "38",
-    "Fazenda": NaN
+    "Fazenda": null,
+    "Unnamed: 16": null
   },
   {
     "ID": "3614642",
@@ -9736,7 +10280,8 @@ const SULCACAO_DATA = [
     "OS": "519",
     "Frente": "101 - FRENTE MECANIZADA",
     "Profundidade do Sulco": "38",
-    "Fazenda": NaN
+    "Fazenda": null,
+    "Unnamed: 16": null
   },
   {
     "ID": "3614266",
@@ -9754,7 +10299,8 @@ const SULCACAO_DATA = [
     "OS": "503",
     "Frente": "143 - FRENTE CASSIO",
     "Profundidade do Sulco": "38",
-    "Fazenda": NaN
+    "Fazenda": null,
+    "Unnamed: 16": null
   },
   {
     "ID": "3613935",
@@ -9772,7 +10318,8 @@ const SULCACAO_DATA = [
     "OS": "521",
     "Frente": "261 - FRENTE PRÓPRIA  (EDMILSON)",
     "Profundidade do Sulco": "38",
-    "Fazenda": NaN
+    "Fazenda": null,
+    "Unnamed: 16": null
   },
   {
     "ID": "3614637",
@@ -9790,7 +10337,8 @@ const SULCACAO_DATA = [
     "OS": "519",
     "Frente": "101 - FRENTE MECANIZADA",
     "Profundidade do Sulco": "38",
-    "Fazenda": NaN
+    "Fazenda": null,
+    "Unnamed: 16": null
   },
   {
     "ID": "3614264",
@@ -9808,7 +10356,8 @@ const SULCACAO_DATA = [
     "OS": "503",
     "Frente": "143 - FRENTE CASSIO",
     "Profundidade do Sulco": "39",
-    "Fazenda": NaN
+    "Fazenda": null,
+    "Unnamed: 16": null
   },
   {
     "ID": "3613930",
@@ -9826,7 +10375,8 @@ const SULCACAO_DATA = [
     "OS": "521",
     "Frente": "261 - FRENTE PRÓPRIA  (EDMILSON)",
     "Profundidade do Sulco": "38",
-    "Fazenda": NaN
+    "Fazenda": null,
+    "Unnamed: 16": null
   },
   {
     "ID": "3614632",
@@ -9844,7 +10394,8 @@ const SULCACAO_DATA = [
     "OS": "519",
     "Frente": "101 - FRENTE MECANIZADA",
     "Profundidade do Sulco": "39",
-    "Fazenda": NaN
+    "Fazenda": null,
+    "Unnamed: 16": null
   },
   {
     "ID": "3613786",
@@ -9862,7 +10413,8 @@ const SULCACAO_DATA = [
     "OS": "501",
     "Frente": "139 - FRENTE MANEZÃO",
     "Profundidade do Sulco": "37",
-    "Fazenda": NaN
+    "Fazenda": null,
+    "Unnamed: 16": null
   },
   {
     "ID": "3613918",
@@ -9880,7 +10432,8 @@ const SULCACAO_DATA = [
     "OS": "521",
     "Frente": "261 - FRENTE PRÓPRIA  (EDMILSON)",
     "Profundidade do Sulco": "39",
-    "Fazenda": NaN
+    "Fazenda": null,
+    "Unnamed: 16": null
   },
   {
     "ID": "3611595",
@@ -9898,7 +10451,8 @@ const SULCACAO_DATA = [
     "OS": "519",
     "Frente": "101 - FRENTE MECANIZADA",
     "Profundidade do Sulco": "36",
-    "Fazenda": NaN
+    "Fazenda": null,
+    "Unnamed: 16": null
   },
   {
     "ID": "3613598",
@@ -9916,7 +10470,8 @@ const SULCACAO_DATA = [
     "OS": "480",
     "Frente": "135 - FRENTE PEDRINHO",
     "Profundidade do Sulco": "22",
-    "Fazenda": NaN
+    "Fazenda": null,
+    "Unnamed: 16": null
   },
   {
     "ID": "3612791",
@@ -9934,7 +10489,8 @@ const SULCACAO_DATA = [
     "OS": "521",
     "Frente": "261 - FRENTE PRÓPRIA  (EDMILSON)",
     "Profundidade do Sulco": "38",
-    "Fazenda": NaN
+    "Fazenda": null,
+    "Unnamed: 16": null
   },
   {
     "ID": "3611631",
@@ -9952,7 +10508,8 @@ const SULCACAO_DATA = [
     "OS": "509",
     "Frente": "142 - FRENTE BIDU",
     "Profundidade do Sulco": "40",
-    "Fazenda": NaN
+    "Fazenda": null,
+    "Unnamed: 16": null
   },
   {
     "ID": "3612786",
@@ -9970,7 +10527,8 @@ const SULCACAO_DATA = [
     "OS": "521",
     "Frente": "261 - FRENTE PRÓPRIA  (EDMILSON)",
     "Profundidade do Sulco": "38",
-    "Fazenda": NaN
+    "Fazenda": null,
+    "Unnamed: 16": null
   },
   {
     "ID": "3611589",
@@ -9988,7 +10546,8 @@ const SULCACAO_DATA = [
     "OS": "519",
     "Frente": "101 - FRENTE MECANIZADA",
     "Profundidade do Sulco": "37",
-    "Fazenda": NaN
+    "Fazenda": null,
+    "Unnamed: 16": null
   },
   {
     "ID": "3611628",
@@ -10006,7 +10565,8 @@ const SULCACAO_DATA = [
     "OS": "509",
     "Frente": "142 - FRENTE BIDU",
     "Profundidade do Sulco": "37",
-    "Fazenda": NaN
+    "Fazenda": null,
+    "Unnamed: 16": null
   },
   {
     "ID": "3611627",
@@ -10024,7 +10584,8 @@ const SULCACAO_DATA = [
     "OS": "509",
     "Frente": "142 - FRENTE BIDU",
     "Profundidade do Sulco": "39",
-    "Fazenda": NaN
+    "Fazenda": null,
+    "Unnamed: 16": null
   },
   {
     "ID": "3611580",
@@ -10042,7 +10603,8 @@ const SULCACAO_DATA = [
     "OS": "519",
     "Frente": "101 - FRENTE MECANIZADA",
     "Profundidade do Sulco": "37",
-    "Fazenda": NaN
+    "Fazenda": null,
+    "Unnamed: 16": null
   },
   {
     "ID": "3613594",
@@ -10060,7 +10622,8 @@ const SULCACAO_DATA = [
     "OS": "480",
     "Frente": "135 - FRENTE PEDRINHO",
     "Profundidade do Sulco": "30",
-    "Fazenda": NaN
+    "Fazenda": null,
+    "Unnamed: 16": null
   },
   {
     "ID": "3612777",
@@ -10078,7 +10641,8 @@ const SULCACAO_DATA = [
     "OS": "521",
     "Frente": "261 - FRENTE PRÓPRIA  (EDMILSON)",
     "Profundidade do Sulco": "39",
-    "Fazenda": NaN
+    "Fazenda": null,
+    "Unnamed: 16": null
   },
   {
     "ID": "3613587",
@@ -10096,7 +10660,8 @@ const SULCACAO_DATA = [
     "OS": "480",
     "Frente": "135 - FRENTE PEDRINHO",
     "Profundidade do Sulco": "23",
-    "Fazenda": NaN
+    "Fazenda": null,
+    "Unnamed: 16": null
   },
   {
     "ID": "3612774",
@@ -10114,7 +10679,8 @@ const SULCACAO_DATA = [
     "OS": "521",
     "Frente": "261 - FRENTE PRÓPRIA  (EDMILSON)",
     "Profundidade do Sulco": "38",
-    "Fazenda": NaN
+    "Fazenda": null,
+    "Unnamed: 16": null
   },
   {
     "ID": "3613581",
@@ -10132,7 +10698,8 @@ const SULCACAO_DATA = [
     "OS": "480",
     "Frente": "135 - FRENTE PEDRINHO",
     "Profundidade do Sulco": "38",
-    "Fazenda": NaN
+    "Fazenda": null,
+    "Unnamed: 16": null
   },
   {
     "ID": "3611608",
@@ -10150,7 +10717,8 @@ const SULCACAO_DATA = [
     "OS": "503",
     "Frente": "143 - FRENTE CASSIO",
     "Profundidade do Sulco": "37",
-    "Fazenda": NaN
+    "Fazenda": null,
+    "Unnamed: 16": null
   },
   {
     "ID": "3611574",
@@ -10168,7 +10736,8 @@ const SULCACAO_DATA = [
     "OS": "519",
     "Frente": "101 - FRENTE MECANIZADA",
     "Profundidade do Sulco": "35",
-    "Fazenda": NaN
+    "Fazenda": null,
+    "Unnamed: 16": null
   },
   {
     "ID": "3611606",
@@ -10186,7 +10755,8 @@ const SULCACAO_DATA = [
     "OS": "503",
     "Frente": "143 - FRENTE CASSIO",
     "Profundidade do Sulco": "38",
-    "Fazenda": NaN
+    "Fazenda": null,
+    "Unnamed: 16": null
   },
   {
     "ID": "3613575",
@@ -10204,7 +10774,8 @@ const SULCACAO_DATA = [
     "OS": "480",
     "Frente": "135 - FRENTE PEDRINHO",
     "Profundidade do Sulco": "40",
-    "Fazenda": NaN
+    "Fazenda": null,
+    "Unnamed: 16": null
   },
   {
     "ID": "3611569",
@@ -10222,7 +10793,8 @@ const SULCACAO_DATA = [
     "OS": "519",
     "Frente": "101 - FRENTE MECANIZADA",
     "Profundidade do Sulco": "36",
-    "Fazenda": NaN
+    "Fazenda": null,
+    "Unnamed: 16": null
   },
   {
     "ID": "3611604",
@@ -10240,7 +10812,8 @@ const SULCACAO_DATA = [
     "OS": "503",
     "Frente": "143 - FRENTE CASSIO",
     "Profundidade do Sulco": "36",
-    "Fazenda": NaN
+    "Fazenda": null,
+    "Unnamed: 16": null
   },
   {
     "ID": "3612766",
@@ -10258,7 +10831,8 @@ const SULCACAO_DATA = [
     "OS": "521",
     "Frente": "261 - FRENTE PRÓPRIA  (EDMILSON)",
     "Profundidade do Sulco": "39",
-    "Fazenda": NaN
+    "Fazenda": null,
+    "Unnamed: 16": null
   },
   {
     "ID": "3613570",
@@ -10276,7 +10850,8 @@ const SULCACAO_DATA = [
     "OS": "480",
     "Frente": "135 - FRENTE PEDRINHO",
     "Profundidade do Sulco": "37",
-    "Fazenda": NaN
+    "Fazenda": null,
+    "Unnamed: 16": null
   },
   {
     "ID": "3611564",
@@ -10294,7 +10869,8 @@ const SULCACAO_DATA = [
     "OS": "519",
     "Frente": "101 - FRENTE MECANIZADA",
     "Profundidade do Sulco": "36",
-    "Fazenda": NaN
+    "Fazenda": null,
+    "Unnamed: 16": null
   },
   {
     "ID": "3612761",
@@ -10312,7 +10888,8 @@ const SULCACAO_DATA = [
     "OS": "521",
     "Frente": "261 - FRENTE PRÓPRIA  (EDMILSON)",
     "Profundidade do Sulco": "38",
-    "Fazenda": NaN
+    "Fazenda": null,
+    "Unnamed: 16": null
   },
   {
     "ID": "3613564",
@@ -10330,7 +10907,8 @@ const SULCACAO_DATA = [
     "OS": "480",
     "Frente": "135 - FRENTE PEDRINHO",
     "Profundidade do Sulco": "20",
-    "Fazenda": NaN
+    "Fazenda": null,
+    "Unnamed: 16": null
   },
   {
     "ID": "3612756",
@@ -10348,7 +10926,8 @@ const SULCACAO_DATA = [
     "OS": "521",
     "Frente": "261 - FRENTE PRÓPRIA  (EDMILSON)",
     "Profundidade do Sulco": "38",
-    "Fazenda": NaN
+    "Fazenda": null,
+    "Unnamed: 16": null
   },
   {
     "ID": "3613559",
@@ -10366,7 +10945,8 @@ const SULCACAO_DATA = [
     "OS": "480",
     "Frente": "135 - FRENTE PEDRINHO",
     "Profundidade do Sulco": "25",
-    "Fazenda": NaN
+    "Fazenda": null,
+    "Unnamed: 16": null
   },
   {
     "ID": "3610953",
@@ -10384,7 +10964,8 @@ const SULCACAO_DATA = [
     "OS": "521",
     "Frente": "261 - FRENTE PRÓPRIA  (EDMILSON)",
     "Profundidade do Sulco": "37",
-    "Fazenda": NaN
+    "Fazenda": null,
+    "Unnamed: 16": null
   },
   {
     "ID": "3610952",
@@ -10402,7 +10983,8 @@ const SULCACAO_DATA = [
     "OS": "521",
     "Frente": "261 - FRENTE PRÓPRIA  (EDMILSON)",
     "Profundidade do Sulco": "38",
-    "Fazenda": NaN
+    "Fazenda": null,
+    "Unnamed: 16": null
   },
   {
     "ID": "3610951",
@@ -10420,7 +11002,8 @@ const SULCACAO_DATA = [
     "OS": "521",
     "Frente": "261 - FRENTE PRÓPRIA  (EDMILSON)",
     "Profundidade do Sulco": "39",
-    "Fazenda": NaN
+    "Fazenda": null,
+    "Unnamed: 16": null
   },
   {
     "ID": "3610950",
@@ -10438,7 +11021,8 @@ const SULCACAO_DATA = [
     "OS": "521",
     "Frente": "261 - FRENTE PRÓPRIA  (EDMILSON)",
     "Profundidade do Sulco": "39",
-    "Fazenda": NaN
+    "Fazenda": null,
+    "Unnamed: 16": null
   },
   {
     "ID": "3610940",
@@ -10456,7 +11040,8 @@ const SULCACAO_DATA = [
     "OS": "521",
     "Frente": "261 - FRENTE PRÓPRIA  (EDMILSON)",
     "Profundidade do Sulco": "38",
-    "Fazenda": NaN
+    "Fazenda": null,
+    "Unnamed: 16": null
   },
   {
     "ID": "3611198",
@@ -10474,7 +11059,8 @@ const SULCACAO_DATA = [
     "OS": "509",
     "Frente": "142 - FRENTE BIDU",
     "Profundidade do Sulco": "35",
-    "Fazenda": NaN
+    "Fazenda": null,
+    "Unnamed: 16": null
   },
   {
     "ID": "3611586",
@@ -10492,7 +11078,8 @@ const SULCACAO_DATA = [
     "OS": "519",
     "Frente": "101 - FRENTE MECANIZADA",
     "Profundidade do Sulco": "37",
-    "Fazenda": NaN
+    "Fazenda": null,
+    "Unnamed: 16": null
   },
   {
     "ID": "3611193",
@@ -10510,7 +11097,8 @@ const SULCACAO_DATA = [
     "OS": "509",
     "Frente": "142 - FRENTE BIDU",
     "Profundidade do Sulco": "37",
-    "Fazenda": NaN
+    "Fazenda": null,
+    "Unnamed: 16": null
   },
   {
     "ID": "3611187",
@@ -10528,7 +11116,8 @@ const SULCACAO_DATA = [
     "OS": "509",
     "Frente": "142 - FRENTE BIDU",
     "Profundidade do Sulco": "43",
-    "Fazenda": NaN
+    "Fazenda": null,
+    "Unnamed: 16": null
   },
   {
     "ID": "3611781",
@@ -10546,7 +11135,8 @@ const SULCACAO_DATA = [
     "OS": "275",
     "Frente": "105 - FRENTE CASSIO (ZACARIAS)",
     "Profundidade do Sulco": "41",
-    "Fazenda": NaN
+    "Fazenda": null,
+    "Unnamed: 16": null
   },
   {
     "ID": "3613558",
@@ -10564,7 +11154,8 @@ const SULCACAO_DATA = [
     "OS": "480",
     "Frente": "135 - FRENTE PEDRINHO",
     "Profundidade do Sulco": "43",
-    "Fazenda": NaN
+    "Fazenda": null,
+    "Unnamed: 16": null
   },
   {
     "ID": "3611544",
@@ -10582,7 +11173,8 @@ const SULCACAO_DATA = [
     "OS": "519",
     "Frente": "101 - FRENTE MECANIZADA",
     "Profundidade do Sulco": "36",
-    "Fazenda": NaN
+    "Fazenda": null,
+    "Unnamed: 16": null
   },
   {
     "ID": "3611775",
@@ -10600,7 +11192,8 @@ const SULCACAO_DATA = [
     "OS": "275",
     "Frente": "105 - FRENTE CASSIO (ZACARIAS)",
     "Profundidade do Sulco": "43",
-    "Fazenda": NaN
+    "Fazenda": null,
+    "Unnamed: 16": null
   },
   {
     "ID": "3611765",
@@ -10618,7 +11211,8 @@ const SULCACAO_DATA = [
     "OS": "275",
     "Frente": "105 - FRENTE CASSIO (ZACARIAS)",
     "Profundidade do Sulco": "40",
-    "Fazenda": NaN
+    "Fazenda": null,
+    "Unnamed: 16": null
   },
   {
     "ID": "3613552",
@@ -10636,7 +11230,8 @@ const SULCACAO_DATA = [
     "OS": "480",
     "Frente": "135 - FRENTE PEDRINHO",
     "Profundidade do Sulco": "44",
-    "Fazenda": NaN
+    "Fazenda": null,
+    "Unnamed: 16": null
   },
   {
     "ID": "3611539",
@@ -10654,7 +11249,8 @@ const SULCACAO_DATA = [
     "OS": "519",
     "Frente": "101 - FRENTE MECANIZADA",
     "Profundidade do Sulco": "36",
-    "Fazenda": NaN
+    "Fazenda": null,
+    "Unnamed: 16": null
   },
   {
     "ID": "3611757",
@@ -10672,7 +11268,8 @@ const SULCACAO_DATA = [
     "OS": "275",
     "Frente": "105 - FRENTE CASSIO (ZACARIAS)",
     "Profundidade do Sulco": "43",
-    "Fazenda": NaN
+    "Fazenda": null,
+    "Unnamed: 16": null
   },
   {
     "ID": "3613547",
@@ -10690,7 +11287,8 @@ const SULCACAO_DATA = [
     "OS": "480",
     "Frente": "135 - FRENTE PEDRINHO",
     "Profundidade do Sulco": "42",
-    "Fazenda": NaN
+    "Fazenda": null,
+    "Unnamed: 16": null
   },
   {
     "ID": "3611747",
@@ -10708,7 +11306,8 @@ const SULCACAO_DATA = [
     "OS": "275",
     "Frente": "105 - FRENTE CASSIO (ZACARIAS)",
     "Profundidade do Sulco": "40",
-    "Fazenda": NaN
+    "Fazenda": null,
+    "Unnamed: 16": null
   },
   {
     "ID": "3611734",
@@ -10726,7 +11325,8 @@ const SULCACAO_DATA = [
     "OS": "275",
     "Frente": "105 - FRENTE CASSIO (ZACARIAS)",
     "Profundidade do Sulco": "41",
-    "Fazenda": NaN
+    "Fazenda": null,
+    "Unnamed: 16": null
   },
   {
     "ID": "3611099",
@@ -10744,7 +11344,8 @@ const SULCACAO_DATA = [
     "OS": "519",
     "Frente": "101 - FRENTE MECANIZADA",
     "Profundidade do Sulco": "36",
-    "Fazenda": NaN
+    "Fazenda": null,
+    "Unnamed: 16": null
   },
   {
     "ID": "3611727",
@@ -10762,7 +11363,8 @@ const SULCACAO_DATA = [
     "OS": "275",
     "Frente": "105 - FRENTE CASSIO (ZACARIAS)",
     "Profundidade do Sulco": "41",
-    "Fazenda": NaN
+    "Fazenda": null,
+    "Unnamed: 16": null
   },
   {
     "ID": "3608275",
@@ -10780,7 +11382,8 @@ const SULCACAO_DATA = [
     "OS": "440",
     "Frente": "101 - FRENTE MECANIZADA",
     "Profundidade do Sulco": "36",
-    "Fazenda": NaN
+    "Fazenda": null,
+    "Unnamed: 16": null
   },
   {
     "ID": "3607902",
@@ -10798,7 +11401,8 @@ const SULCACAO_DATA = [
     "OS": "441",
     "Frente": "101 - FRENTE MECANIZADA",
     "Profundidade do Sulco": "40",
-    "Fazenda": NaN
+    "Fazenda": null,
+    "Unnamed: 16": null
   },
   {
     "ID": "3609570",
@@ -10816,7 +11420,8 @@ const SULCACAO_DATA = [
     "OS": "499",
     "Frente": "139 - FRENTE MANEZÃO",
     "Profundidade do Sulco": "38",
-    "Fazenda": NaN
+    "Fazenda": null,
+    "Unnamed: 16": null
   },
   {
     "ID": "3607896",
@@ -10834,7 +11439,8 @@ const SULCACAO_DATA = [
     "OS": "441",
     "Frente": "101 - FRENTE MECANIZADA",
     "Profundidade do Sulco": "39",
-    "Fazenda": NaN
+    "Fazenda": null,
+    "Unnamed: 16": null
   },
   {
     "ID": "3609563",
@@ -10852,7 +11458,8 @@ const SULCACAO_DATA = [
     "OS": "499",
     "Frente": "139 - FRENTE MANEZÃO",
     "Profundidade do Sulco": "40",
-    "Fazenda": NaN
+    "Fazenda": null,
+    "Unnamed: 16": null
   },
   {
     "ID": "3608555",
@@ -10870,7 +11477,8 @@ const SULCACAO_DATA = [
     "OS": "211",
     "Frente": "261 - FRENTE PRÓPRIA  (EDMILSON)",
     "Profundidade do Sulco": "39",
-    "Fazenda": NaN
+    "Fazenda": null,
+    "Unnamed: 16": null
   },
   {
     "ID": "3608550",
@@ -10888,7 +11496,8 @@ const SULCACAO_DATA = [
     "OS": "211",
     "Frente": "261 - FRENTE PRÓPRIA  (EDMILSON)",
     "Profundidade do Sulco": "37",
-    "Fazenda": NaN
+    "Fazenda": null,
+    "Unnamed: 16": null
   },
   {
     "ID": "3609556",
@@ -10906,7 +11515,8 @@ const SULCACAO_DATA = [
     "OS": "499",
     "Frente": "139 - FRENTE MANEZÃO",
     "Profundidade do Sulco": "37",
-    "Fazenda": NaN
+    "Fazenda": null,
+    "Unnamed: 16": null
   },
   {
     "ID": "3608545",
@@ -10924,7 +11534,8 @@ const SULCACAO_DATA = [
     "OS": "211",
     "Frente": "261 - FRENTE PRÓPRIA  (EDMILSON)",
     "Profundidade do Sulco": "38",
-    "Fazenda": NaN
+    "Fazenda": null,
+    "Unnamed: 16": null
   },
   {
     "ID": "3608706",
@@ -10942,7 +11553,8 @@ const SULCACAO_DATA = [
     "OS": "484",
     "Frente": "143 - FRENTE CASSIO",
     "Profundidade do Sulco": "38",
-    "Fazenda": NaN
+    "Fazenda": null,
+    "Unnamed: 16": null
   },
   {
     "ID": "3607614",
@@ -10960,7 +11572,8 @@ const SULCACAO_DATA = [
     "OS": "441",
     "Frente": "101 - FRENTE MECANIZADA",
     "Profundidade do Sulco": "39",
-    "Fazenda": NaN
+    "Fazenda": null,
+    "Unnamed: 16": null
   },
   {
     "ID": "3607515",
@@ -10978,7 +11591,8 @@ const SULCACAO_DATA = [
     "OS": "441",
     "Frente": "101 - FRENTE MECANIZADA",
     "Profundidade do Sulco": "38",
-    "Fazenda": NaN
+    "Fazenda": null,
+    "Unnamed: 16": null
   },
   {
     "ID": "3608312",
@@ -10996,7 +11610,8 @@ const SULCACAO_DATA = [
     "OS": "270",
     "Frente": "105 - FRENTE CASSIO (ZACARIAS)",
     "Profundidade do Sulco": "44",
-    "Fazenda": NaN
+    "Fazenda": null,
+    "Unnamed: 16": null
   },
   {
     "ID": "3607599",
@@ -11014,7 +11629,8 @@ const SULCACAO_DATA = [
     "OS": "211",
     "Frente": "261 - FRENTE PRÓPRIA  (EDMILSON)",
     "Profundidade do Sulco": "38",
-    "Fazenda": NaN
+    "Fazenda": null,
+    "Unnamed: 16": null
   },
   {
     "ID": "3607501",
@@ -11032,7 +11648,8 @@ const SULCACAO_DATA = [
     "OS": "484",
     "Frente": "143 - FRENTE CASSIO",
     "Profundidade do Sulco": "38",
-    "Fazenda": NaN
+    "Fazenda": null,
+    "Unnamed: 16": null
   },
   {
     "ID": "3609536",
@@ -11050,7 +11667,8 @@ const SULCACAO_DATA = [
     "OS": "500",
     "Frente": "139 - FRENTE MANEZÃO",
     "Profundidade do Sulco": "38",
-    "Fazenda": NaN
+    "Fazenda": null,
+    "Unnamed: 16": null
   },
   {
     "ID": "3608307",
@@ -11068,7 +11686,8 @@ const SULCACAO_DATA = [
     "OS": "270",
     "Frente": "105 - FRENTE CASSIO (ZACARIAS)",
     "Profundidade do Sulco": "39",
-    "Fazenda": NaN
+    "Fazenda": null,
+    "Unnamed: 16": null
   },
   {
     "ID": "3607594",
@@ -11086,7 +11705,8 @@ const SULCACAO_DATA = [
     "OS": "211",
     "Frente": "261 - FRENTE PRÓPRIA  (EDMILSON)",
     "Profundidade do Sulco": "38",
-    "Fazenda": NaN
+    "Fazenda": null,
+    "Unnamed: 16": null
   },
   {
     "ID": "3609531",
@@ -11104,7 +11724,8 @@ const SULCACAO_DATA = [
     "OS": "500",
     "Frente": "139 - FRENTE MANEZÃO",
     "Profundidade do Sulco": "40",
-    "Fazenda": NaN
+    "Fazenda": null,
+    "Unnamed: 16": null
   },
   {
     "ID": "3607589",
@@ -11122,7 +11743,8 @@ const SULCACAO_DATA = [
     "OS": "211",
     "Frente": "261 - FRENTE PRÓPRIA  (EDMILSON)",
     "Profundidade do Sulco": "39",
-    "Fazenda": NaN
+    "Fazenda": null,
+    "Unnamed: 16": null
   },
   {
     "ID": "3609527",
@@ -11140,7 +11762,8 @@ const SULCACAO_DATA = [
     "OS": "500",
     "Frente": "139 - FRENTE MANEZÃO",
     "Profundidade do Sulco": "40",
-    "Fazenda": NaN
+    "Fazenda": null,
+    "Unnamed: 16": null
   },
   {
     "ID": "3609642",
@@ -11158,7 +11781,8 @@ const SULCACAO_DATA = [
     "OS": "480",
     "Frente": "135 - FRENTE PEDRINHO",
     "Profundidade do Sulco": "39",
-    "Fazenda": NaN
+    "Fazenda": null,
+    "Unnamed: 16": null
   },
   {
     "ID": "3607579",
@@ -11176,7 +11800,8 @@ const SULCACAO_DATA = [
     "OS": "211",
     "Frente": "261 - FRENTE PRÓPRIA  (EDMILSON)",
     "Profundidade do Sulco": "39",
-    "Fazenda": NaN
+    "Fazenda": null,
+    "Unnamed: 16": null
   },
   {
     "ID": "3609520",
@@ -11194,7 +11819,8 @@ const SULCACAO_DATA = [
     "OS": "500",
     "Frente": "139 - FRENTE MANEZÃO",
     "Profundidade do Sulco": "38",
-    "Fazenda": NaN
+    "Fazenda": null,
+    "Unnamed: 16": null
   },
   {
     "ID": "3608263",
@@ -11212,7 +11838,8 @@ const SULCACAO_DATA = [
     "OS": "440",
     "Frente": "101 - FRENTE MECANIZADA",
     "Profundidade do Sulco": "35",
-    "Fazenda": NaN
+    "Fazenda": null,
+    "Unnamed: 16": null
   },
   {
     "ID": "3609637",
@@ -11230,7 +11857,8 @@ const SULCACAO_DATA = [
     "OS": "480",
     "Frente": "135 - FRENTE PEDRINHO",
     "Profundidade do Sulco": "40",
-    "Fazenda": NaN
+    "Fazenda": null,
+    "Unnamed: 16": null
   },
   {
     "ID": "3609515",
@@ -11248,7 +11876,8 @@ const SULCACAO_DATA = [
     "OS": "500",
     "Frente": "139 - FRENTE MANEZÃO",
     "Profundidade do Sulco": "39",
-    "Fazenda": NaN
+    "Fazenda": null,
+    "Unnamed: 16": null
   },
   {
     "ID": "3608260",
@@ -11266,7 +11895,8 @@ const SULCACAO_DATA = [
     "OS": "440",
     "Frente": "101 - FRENTE MECANIZADA",
     "Profundidade do Sulco": "36",
-    "Fazenda": NaN
+    "Fazenda": null,
+    "Unnamed: 16": null
   },
   {
     "ID": "3608299",
@@ -11284,7 +11914,8 @@ const SULCACAO_DATA = [
     "OS": "270",
     "Frente": "105 - FRENTE CASSIO (ZACARIAS)",
     "Profundidade do Sulco": "40",
-    "Fazenda": NaN
+    "Fazenda": null,
+    "Unnamed: 16": null
   },
   {
     "ID": "3607574",
@@ -11302,7 +11933,8 @@ const SULCACAO_DATA = [
     "OS": "211",
     "Frente": "261 - FRENTE PRÓPRIA  (EDMILSON)",
     "Profundidade do Sulco": "39",
-    "Fazenda": NaN
+    "Fazenda": null,
+    "Unnamed: 16": null
   },
   {
     "ID": "3609510",
@@ -11320,7 +11952,8 @@ const SULCACAO_DATA = [
     "OS": "500",
     "Frente": "139 - FRENTE MANEZÃO",
     "Profundidade do Sulco": "40",
-    "Fazenda": NaN
+    "Fazenda": null,
+    "Unnamed: 16": null
   },
   {
     "ID": "3607569",
@@ -11338,7 +11971,8 @@ const SULCACAO_DATA = [
     "OS": "211",
     "Frente": "261 - FRENTE PRÓPRIA  (EDMILSON)",
     "Profundidade do Sulco": "39",
-    "Fazenda": NaN
+    "Fazenda": null,
+    "Unnamed: 16": null
   },
   {
     "ID": "3608294",
@@ -11356,7 +11990,8 @@ const SULCACAO_DATA = [
     "OS": "270",
     "Frente": "105 - FRENTE CASSIO (ZACARIAS)",
     "Profundidade do Sulco": "41",
-    "Fazenda": NaN
+    "Fazenda": null,
+    "Unnamed: 16": null
   },
   {
     "ID": "3609631",
@@ -11374,7 +12009,8 @@ const SULCACAO_DATA = [
     "OS": "480",
     "Frente": "135 - FRENTE PEDRINHO",
     "Profundidade do Sulco": "40",
-    "Fazenda": NaN
+    "Fazenda": null,
+    "Unnamed: 16": null
   },
   {
     "ID": "3609505",
@@ -11392,7 +12028,8 @@ const SULCACAO_DATA = [
     "OS": "500",
     "Frente": "139 - FRENTE MANEZÃO",
     "Profundidade do Sulco": "40",
-    "Fazenda": NaN
+    "Fazenda": null,
+    "Unnamed: 16": null
   },
   {
     "ID": "3607564",
@@ -11410,7 +12047,8 @@ const SULCACAO_DATA = [
     "OS": "211",
     "Frente": "261 - FRENTE PRÓPRIA  (EDMILSON)",
     "Profundidade do Sulco": "38",
-    "Fazenda": NaN
+    "Fazenda": null,
+    "Unnamed: 16": null
   },
   {
     "ID": "3609500",
@@ -11428,7 +12066,8 @@ const SULCACAO_DATA = [
     "OS": "500",
     "Frente": "139 - FRENTE MANEZÃO",
     "Profundidade do Sulco": "39",
-    "Fazenda": NaN
+    "Fazenda": null,
+    "Unnamed: 16": null
   },
   {
     "ID": "3609625",
@@ -11446,7 +12085,8 @@ const SULCACAO_DATA = [
     "OS": "480",
     "Frente": "135 - FRENTE PEDRINHO",
     "Profundidade do Sulco": "39",
-    "Fazenda": NaN
+    "Fazenda": null,
+    "Unnamed: 16": null
   },
   {
     "ID": "3608289",
@@ -11464,7 +12104,8 @@ const SULCACAO_DATA = [
     "OS": "270",
     "Frente": "105 - FRENTE CASSIO (ZACARIAS)",
     "Profundidade do Sulco": "40",
-    "Fazenda": NaN
+    "Fazenda": null,
+    "Unnamed: 16": null
   },
   {
     "ID": "3607441",
@@ -11482,7 +12123,8 @@ const SULCACAO_DATA = [
     "OS": "441",
     "Frente": "101 - FRENTE MECANIZADA",
     "Profundidade do Sulco": "37",
-    "Fazenda": NaN
+    "Fazenda": null,
+    "Unnamed: 16": null
   },
   {
     "ID": "3608256",
@@ -11500,7 +12142,8 @@ const SULCACAO_DATA = [
     "OS": "440",
     "Frente": "101 - FRENTE MECANIZADA",
     "Profundidade do Sulco": "35",
-    "Fazenda": NaN
+    "Fazenda": null,
+    "Unnamed: 16": null
   },
   {
     "ID": "3609495",
@@ -11518,7 +12161,8 @@ const SULCACAO_DATA = [
     "OS": "500",
     "Frente": "139 - FRENTE MANEZÃO",
     "Profundidade do Sulco": "40",
-    "Fazenda": NaN
+    "Fazenda": null,
+    "Unnamed: 16": null
   },
   {
     "ID": "3607559",
@@ -11536,7 +12180,8 @@ const SULCACAO_DATA = [
     "OS": "211",
     "Frente": "261 - FRENTE PRÓPRIA  (EDMILSON)",
     "Profundidade do Sulco": "38",
-    "Fazenda": NaN
+    "Fazenda": null,
+    "Unnamed: 16": null
   },
   {
     "ID": "3608284",
@@ -11554,7 +12199,8 @@ const SULCACAO_DATA = [
     "OS": "270",
     "Frente": "105 - FRENTE CASSIO (ZACARIAS)",
     "Profundidade do Sulco": "42",
-    "Fazenda": NaN
+    "Fazenda": null,
+    "Unnamed: 16": null
   },
   {
     "ID": "3607878",
@@ -11572,7 +12218,8 @@ const SULCACAO_DATA = [
     "OS": "500",
     "Frente": "139 - FRENTE MANEZÃO",
     "Profundidade do Sulco": "39",
-    "Fazenda": NaN
+    "Fazenda": null,
+    "Unnamed: 16": null
   },
   {
     "ID": "3607554",
@@ -11590,7 +12237,8 @@ const SULCACAO_DATA = [
     "OS": "211",
     "Frente": "261 - FRENTE PRÓPRIA  (EDMILSON)",
     "Profundidade do Sulco": "38",
-    "Fazenda": NaN
+    "Fazenda": null,
+    "Unnamed: 16": null
   },
   {
     "ID": "3608278",
@@ -11608,7 +12256,8 @@ const SULCACAO_DATA = [
     "OS": "270",
     "Frente": "105 - FRENTE CASSIO (ZACARIAS)",
     "Profundidade do Sulco": "41",
-    "Fazenda": NaN
+    "Fazenda": null,
+    "Unnamed: 16": null
   },
   {
     "ID": "3607549",
@@ -11626,7 +12275,8 @@ const SULCACAO_DATA = [
     "OS": "211",
     "Frente": "261 - FRENTE PRÓPRIA  (EDMILSON)",
     "Profundidade do Sulco": "38",
-    "Fazenda": NaN
+    "Fazenda": null,
+    "Unnamed: 16": null
   },
   {
     "ID": "3607499",
@@ -11644,7 +12294,8 @@ const SULCACAO_DATA = [
     "OS": "484",
     "Frente": "143 - FRENTE CASSIO",
     "Profundidade do Sulco": "37",
-    "Fazenda": NaN
+    "Fazenda": null,
+    "Unnamed: 16": null
   },
   {
     "ID": "3607425",
@@ -11662,7 +12313,8 @@ const SULCACAO_DATA = [
     "OS": "441",
     "Frente": "101 - FRENTE MECANIZADA",
     "Profundidade do Sulco": "39",
-    "Fazenda": NaN
+    "Fazenda": null,
+    "Unnamed: 16": null
   },
   {
     "ID": "3608248",
@@ -11680,7 +12332,8 @@ const SULCACAO_DATA = [
     "OS": "440",
     "Frente": "101 - FRENTE MECANIZADA",
     "Profundidade do Sulco": "36",
-    "Fazenda": NaN
+    "Fazenda": null,
+    "Unnamed: 16": null
   },
   {
     "ID": "3607544",
@@ -11698,7 +12351,8 @@ const SULCACAO_DATA = [
     "OS": "211",
     "Frente": "261 - FRENTE PRÓPRIA  (EDMILSON)",
     "Profundidade do Sulco": "37",
-    "Fazenda": NaN
+    "Fazenda": null,
+    "Unnamed: 16": null
   },
   {
     "ID": "3607493",
@@ -11716,7 +12370,8 @@ const SULCACAO_DATA = [
     "OS": "484",
     "Frente": "143 - FRENTE CASSIO",
     "Profundidade do Sulco": "38",
-    "Fazenda": NaN
+    "Fazenda": null,
+    "Unnamed: 16": null
   },
   {
     "ID": "3609621",
@@ -11734,7 +12389,8 @@ const SULCACAO_DATA = [
     "OS": "480",
     "Frente": "135 - FRENTE PEDRINHO",
     "Profundidade do Sulco": "41",
-    "Fazenda": NaN
+    "Fazenda": null,
+    "Unnamed: 16": null
   },
   {
     "ID": "3609617",
@@ -11752,7 +12408,8 @@ const SULCACAO_DATA = [
     "OS": "480",
     "Frente": "135 - FRENTE PEDRINHO",
     "Profundidade do Sulco": "39",
-    "Fazenda": NaN
+    "Fazenda": null,
+    "Unnamed: 16": null
   },
   {
     "ID": "3608240",
@@ -11770,7 +12427,8 @@ const SULCACAO_DATA = [
     "OS": "440",
     "Frente": "101 - FRENTE MECANIZADA",
     "Profundidade do Sulco": "37",
-    "Fazenda": NaN
+    "Fazenda": null,
+    "Unnamed: 16": null
   },
   {
     "ID": "3608236",
@@ -11788,7 +12446,8 @@ const SULCACAO_DATA = [
     "OS": "440",
     "Frente": "101 - FRENTE MECANIZADA",
     "Profundidade do Sulco": "35",
-    "Fazenda": NaN
+    "Fazenda": null,
+    "Unnamed: 16": null
   },
   {
     "ID": "3608229",
@@ -11806,7 +12465,8 @@ const SULCACAO_DATA = [
     "OS": "440",
     "Frente": "101 - FRENTE MECANIZADA",
     "Profundidade do Sulco": "37",
-    "Fazenda": NaN
+    "Fazenda": null,
+    "Unnamed: 16": null
   },
   {
     "ID": "3605437",
@@ -11824,7 +12484,8 @@ const SULCACAO_DATA = [
     "OS": "484",
     "Frente": "143 - FRENTE CASSIO",
     "Profundidade do Sulco": "36",
-    "Fazenda": NaN
+    "Fazenda": null,
+    "Unnamed: 16": null
   },
   {
     "ID": "3604927",
@@ -11842,7 +12503,8 @@ const SULCACAO_DATA = [
     "OS": "480",
     "Frente": "135 - FRENTE PEDRINHO",
     "Profundidade do Sulco": "39",
-    "Fazenda": NaN
+    "Fazenda": null,
+    "Unnamed: 16": null
   },
   {
     "ID": "3604922",
@@ -11860,7 +12522,8 @@ const SULCACAO_DATA = [
     "OS": "480",
     "Frente": "135 - FRENTE PEDRINHO",
     "Profundidade do Sulco": "37",
-    "Fazenda": NaN
+    "Fazenda": null,
+    "Unnamed: 16": null
   },
   {
     "ID": "3604917",
@@ -11878,7 +12541,8 @@ const SULCACAO_DATA = [
     "OS": "480",
     "Frente": "135 - FRENTE PEDRINHO",
     "Profundidade do Sulco": "35",
-    "Fazenda": NaN
+    "Fazenda": null,
+    "Unnamed: 16": null
   },
   {
     "ID": "3605020",
@@ -11896,7 +12560,8 @@ const SULCACAO_DATA = [
     "OS": "441",
     "Frente": "101 - FRENTE MECANIZADA",
     "Profundidade do Sulco": "39",
-    "Fazenda": NaN
+    "Fazenda": null,
+    "Unnamed: 16": null
   },
   {
     "ID": "3605010",
@@ -11914,7 +12579,8 @@ const SULCACAO_DATA = [
     "OS": "441",
     "Frente": "101 - FRENTE MECANIZADA",
     "Profundidade do Sulco": "39",
-    "Fazenda": NaN
+    "Fazenda": null,
+    "Unnamed: 16": null
   },
   {
     "ID": "3605173",
@@ -11932,7 +12598,8 @@ const SULCACAO_DATA = [
     "OS": "480",
     "Frente": "135 - FRENTE PEDRINHO",
     "Profundidade do Sulco": "41",
-    "Fazenda": NaN
+    "Fazenda": null,
+    "Unnamed: 16": null
   },
   {
     "ID": "3605168",
@@ -11950,7 +12617,8 @@ const SULCACAO_DATA = [
     "OS": "480",
     "Frente": "135 - FRENTE PEDRINHO",
     "Profundidade do Sulco": "38",
-    "Fazenda": NaN
+    "Fazenda": null,
+    "Unnamed: 16": null
   },
   {
     "ID": "3605162",
@@ -11968,7 +12636,8 @@ const SULCACAO_DATA = [
     "OS": "480",
     "Frente": "135 - FRENTE PEDRINHO",
     "Profundidade do Sulco": "42",
-    "Fazenda": NaN
+    "Fazenda": null,
+    "Unnamed: 16": null
   },
   {
     "ID": "3604492",
@@ -11986,7 +12655,8 @@ const SULCACAO_DATA = [
     "OS": "440",
     "Frente": "101 - FRENTE MECANIZADA",
     "Profundidade do Sulco": "38",
-    "Fazenda": NaN
+    "Fazenda": null,
+    "Unnamed: 16": null
   },
   {
     "ID": "3605156",
@@ -12004,7 +12674,8 @@ const SULCACAO_DATA = [
     "OS": "480",
     "Frente": "135 - FRENTE PEDRINHO",
     "Profundidade do Sulco": "40",
-    "Fazenda": NaN
+    "Fazenda": null,
+    "Unnamed: 16": null
   },
   {
     "ID": "3605004",
@@ -12022,7 +12693,8 @@ const SULCACAO_DATA = [
     "OS": "441",
     "Frente": "101 - FRENTE MECANIZADA",
     "Profundidade do Sulco": "39",
-    "Fazenda": NaN
+    "Fazenda": null,
+    "Unnamed: 16": null
   },
   {
     "ID": "3605149",
@@ -12040,7 +12712,8 @@ const SULCACAO_DATA = [
     "OS": "480",
     "Frente": "135 - FRENTE PEDRINHO",
     "Profundidade do Sulco": "38",
-    "Fazenda": NaN
+    "Fazenda": null,
+    "Unnamed: 16": null
   },
   {
     "ID": "3604488",
@@ -12058,7 +12731,8 @@ const SULCACAO_DATA = [
     "OS": "440",
     "Frente": "101 - FRENTE MECANIZADA",
     "Profundidade do Sulco": "36",
-    "Fazenda": NaN
+    "Fazenda": null,
+    "Unnamed: 16": null
   },
   {
     "ID": "3605119",
@@ -12076,7 +12750,8 @@ const SULCACAO_DATA = [
     "OS": "480",
     "Frente": "135 - FRENTE PEDRINHO",
     "Profundidade do Sulco": "37",
-    "Fazenda": NaN
+    "Fazenda": null,
+    "Unnamed: 16": null
   },
   {
     "ID": "3604483",
@@ -12094,7 +12769,8 @@ const SULCACAO_DATA = [
     "OS": "440",
     "Frente": "101 - FRENTE MECANIZADA",
     "Profundidade do Sulco": "35",
-    "Fazenda": NaN
+    "Fazenda": null,
+    "Unnamed: 16": null
   },
   {
     "ID": "3607347",
@@ -12112,7 +12788,8 @@ const SULCACAO_DATA = [
     "OS": "211",
     "Frente": "261 - FRENTE PRÓPRIA  (EDMILSON)",
     "Profundidade do Sulco": "38",
-    "Fazenda": NaN
+    "Fazenda": null,
+    "Unnamed: 16": null
   },
   {
     "ID": "3604480",
@@ -12130,7 +12807,8 @@ const SULCACAO_DATA = [
     "OS": "440",
     "Frente": "101 - FRENTE MECANIZADA",
     "Profundidade do Sulco": "39",
-    "Fazenda": NaN
+    "Fazenda": null,
+    "Unnamed: 16": null
   },
   {
     "ID": "3607342",
@@ -12148,7 +12826,8 @@ const SULCACAO_DATA = [
     "OS": "211",
     "Frente": "261 - FRENTE PRÓPRIA  (EDMILSON)",
     "Profundidade do Sulco": "39",
-    "Fazenda": NaN
+    "Fazenda": null,
+    "Unnamed: 16": null
   },
   {
     "ID": "3607336",
@@ -12166,7 +12845,8 @@ const SULCACAO_DATA = [
     "OS": "211",
     "Frente": "261 - FRENTE PRÓPRIA  (EDMILSON)",
     "Profundidade do Sulco": "38",
-    "Fazenda": NaN
+    "Fazenda": null,
+    "Unnamed: 16": null
   },
   {
     "ID": "3604655",
@@ -12184,7 +12864,8 @@ const SULCACAO_DATA = [
     "OS": "270",
     "Frente": "105 - FRENTE CASSIO (ZACARIAS)",
     "Profundidade do Sulco": "39",
-    "Fazenda": NaN
+    "Fazenda": null,
+    "Unnamed: 16": null
   },
   {
     "ID": "3604651",
@@ -12202,7 +12883,8 @@ const SULCACAO_DATA = [
     "OS": "270",
     "Frente": "105 - FRENTE CASSIO (ZACARIAS)",
     "Profundidade do Sulco": "42",
-    "Fazenda": NaN
+    "Fazenda": null,
+    "Unnamed: 16": null
   },
   {
     "ID": "3604162",
@@ -12220,7 +12902,8 @@ const SULCACAO_DATA = [
     "OS": "481",
     "Frente": "142 - FRENTE BIDU",
     "Profundidade do Sulco": "37",
-    "Fazenda": NaN
+    "Fazenda": null,
+    "Unnamed: 16": null
   },
   {
     "ID": "3604158",
@@ -12238,7 +12921,8 @@ const SULCACAO_DATA = [
     "OS": "481",
     "Frente": "142 - FRENTE BIDU",
     "Profundidade do Sulco": "38",
-    "Fazenda": NaN
+    "Fazenda": null,
+    "Unnamed: 16": null
   },
   {
     "ID": "3604154",
@@ -12256,7 +12940,8 @@ const SULCACAO_DATA = [
     "OS": "481",
     "Frente": "142 - FRENTE BIDU",
     "Profundidade do Sulco": "37",
-    "Fazenda": NaN
+    "Fazenda": null,
+    "Unnamed: 16": null
   },
   {
     "ID": "3604149",
@@ -12274,7 +12959,8 @@ const SULCACAO_DATA = [
     "OS": "481",
     "Frente": "142 - FRENTE BIDU",
     "Profundidade do Sulco": "36",
-    "Fazenda": NaN
+    "Fazenda": null,
+    "Unnamed: 16": null
   },
   {
     "ID": "3604912",
@@ -12292,7 +12978,8 @@ const SULCACAO_DATA = [
     "OS": "211",
     "Frente": "261 - FRENTE PRÓPRIA  (EDMILSON)",
     "Profundidade do Sulco": "40",
-    "Fazenda": NaN
+    "Fazenda": null,
+    "Unnamed: 16": null
   },
   {
     "ID": "3604907",
@@ -12310,7 +12997,8 @@ const SULCACAO_DATA = [
     "OS": "211",
     "Frente": "261 - FRENTE PRÓPRIA  (EDMILSON)",
     "Profundidade do Sulco": "37",
-    "Fazenda": NaN
+    "Fazenda": null,
+    "Unnamed: 16": null
   },
   {
     "ID": "3604902",
@@ -12328,7 +13016,8 @@ const SULCACAO_DATA = [
     "OS": "211",
     "Frente": "261 - FRENTE PRÓPRIA  (EDMILSON)",
     "Profundidade do Sulco": "37",
-    "Fazenda": NaN
+    "Fazenda": null,
+    "Unnamed: 16": null
   },
   {
     "ID": "3604998",
@@ -12346,7 +13035,8 @@ const SULCACAO_DATA = [
     "OS": "441",
     "Frente": "101 - FRENTE MECANIZADA",
     "Profundidade do Sulco": "38",
-    "Fazenda": NaN
+    "Fazenda": null,
+    "Unnamed: 16": null
   },
   {
     "ID": "3604012",
@@ -12364,7 +13054,8 @@ const SULCACAO_DATA = [
     "OS": "440",
     "Frente": "101 - FRENTE MECANIZADA",
     "Profundidade do Sulco": "36",
-    "Fazenda": NaN
+    "Fazenda": null,
+    "Unnamed: 16": null
   },
   {
     "ID": "3604039",
@@ -12382,7 +13073,8 @@ const SULCACAO_DATA = [
     "OS": "211",
     "Frente": "261 - FRENTE PRÓPRIA  (EDMILSON)",
     "Profundidade do Sulco": "37",
-    "Fazenda": NaN
+    "Fazenda": null,
+    "Unnamed: 16": null
   },
   {
     "ID": "3604034",
@@ -12400,7 +13092,8 @@ const SULCACAO_DATA = [
     "OS": "211",
     "Frente": "261 - FRENTE PRÓPRIA  (EDMILSON)",
     "Profundidade do Sulco": "39",
-    "Fazenda": NaN
+    "Fazenda": null,
+    "Unnamed: 16": null
   },
   {
     "ID": "3604004",
@@ -12418,7 +13111,8 @@ const SULCACAO_DATA = [
     "OS": "440",
     "Frente": "101 - FRENTE MECANIZADA",
     "Profundidade do Sulco": "37",
-    "Fazenda": NaN
+    "Fazenda": null,
+    "Unnamed: 16": null
   },
   {
     "ID": "3604990",
@@ -12436,7 +13130,8 @@ const SULCACAO_DATA = [
     "OS": "441",
     "Frente": "101 - FRENTE MECANIZADA",
     "Profundidade do Sulco": "40",
-    "Fazenda": NaN
+    "Fazenda": null,
+    "Unnamed: 16": null
   },
   {
     "ID": "3604029",
@@ -12454,7 +13149,8 @@ const SULCACAO_DATA = [
     "OS": "211",
     "Frente": "261 - FRENTE PRÓPRIA  (EDMILSON)",
     "Profundidade do Sulco": "38",
-    "Fazenda": NaN
+    "Fazenda": null,
+    "Unnamed: 16": null
   },
   {
     "ID": "3603992",
@@ -12472,7 +13168,8 @@ const SULCACAO_DATA = [
     "OS": "440",
     "Frente": "101 - FRENTE MECANIZADA",
     "Profundidade do Sulco": "37",
-    "Fazenda": NaN
+    "Fazenda": null,
+    "Unnamed: 16": null
   },
   {
     "ID": "3604024",
@@ -12490,7 +13187,8 @@ const SULCACAO_DATA = [
     "OS": "211",
     "Frente": "261 - FRENTE PRÓPRIA  (EDMILSON)",
     "Profundidade do Sulco": "38",
-    "Fazenda": NaN
+    "Fazenda": null,
+    "Unnamed: 16": null
   },
   {
     "ID": "3604016",
@@ -12508,7 +13206,8 @@ const SULCACAO_DATA = [
     "OS": "211",
     "Frente": "261 - FRENTE PRÓPRIA  (EDMILSON)",
     "Profundidade do Sulco": "37",
-    "Fazenda": NaN
+    "Fazenda": null,
+    "Unnamed: 16": null
   },
   {
     "ID": "3604009",
@@ -12526,7 +13225,8 @@ const SULCACAO_DATA = [
     "OS": "211",
     "Frente": "261 - FRENTE PRÓPRIA  (EDMILSON)",
     "Profundidade do Sulco": "38",
-    "Fazenda": NaN
+    "Fazenda": null,
+    "Unnamed: 16": null
   },
   {
     "ID": "3603996",
@@ -12544,7 +13244,8 @@ const SULCACAO_DATA = [
     "OS": "211",
     "Frente": "261 - FRENTE PRÓPRIA  (EDMILSON)",
     "Profundidade do Sulco": "39",
-    "Fazenda": NaN
+    "Fazenda": null,
+    "Unnamed: 16": null
   },
   {
     "ID": "3604987",
@@ -12562,7 +13263,8 @@ const SULCACAO_DATA = [
     "OS": "441",
     "Frente": "101 - FRENTE MECANIZADA",
     "Profundidade do Sulco": "39",
-    "Fazenda": NaN
+    "Fazenda": null,
+    "Unnamed: 16": null
   },
   {
     "ID": "3603987",
@@ -12580,7 +13282,8 @@ const SULCACAO_DATA = [
     "OS": "211",
     "Frente": "261 - FRENTE PRÓPRIA  (EDMILSON)",
     "Profundidade do Sulco": "39",
-    "Fazenda": NaN
+    "Fazenda": null,
+    "Unnamed: 16": null
   },
   {
     "ID": "3604200",
@@ -12598,7 +13301,8 @@ const SULCACAO_DATA = [
     "OS": "482",
     "Frente": "139 - FRENTE MANEZÃO",
     "Profundidade do Sulco": "38",
-    "Fazenda": NaN
+    "Fazenda": null,
+    "Unnamed: 16": null
   },
   {
     "ID": "3604195",
@@ -12616,7 +13320,8 @@ const SULCACAO_DATA = [
     "OS": "482",
     "Frente": "139 - FRENTE MANEZÃO",
     "Profundidade do Sulco": "37",
-    "Fazenda": NaN
+    "Fazenda": null,
+    "Unnamed: 16": null
   },
   {
     "ID": "3605115",
@@ -12634,7 +13339,8 @@ const SULCACAO_DATA = [
     "OS": "480",
     "Frente": "135 - FRENTE PEDRINHO",
     "Profundidade do Sulco": "41",
-    "Fazenda": NaN
+    "Fazenda": null,
+    "Unnamed: 16": null
   },
   {
     "ID": "3604899",
@@ -12652,7 +13358,8 @@ const SULCACAO_DATA = [
     "OS": "482",
     "Frente": "139 - FRENTE MANEZÃO",
     "Profundidade do Sulco": "40",
-    "Fazenda": NaN
+    "Fazenda": null,
+    "Unnamed: 16": null
   },
   {
     "ID": "3603981",
@@ -12670,7 +13377,8 @@ const SULCACAO_DATA = [
     "OS": "211",
     "Frente": "261 - FRENTE PRÓPRIA  (EDMILSON)",
     "Profundidade do Sulco": "39",
-    "Fazenda": NaN
+    "Fazenda": null,
+    "Unnamed: 16": null
   },
   {
     "ID": "3604190",
@@ -12688,7 +13396,8 @@ const SULCACAO_DATA = [
     "OS": "482",
     "Frente": "139 - FRENTE MANEZÃO",
     "Profundidade do Sulco": "36",
-    "Fazenda": NaN
+    "Fazenda": null,
+    "Unnamed: 16": null
   },
   {
     "ID": "3603976",
@@ -12706,7 +13415,8 @@ const SULCACAO_DATA = [
     "OS": "211",
     "Frente": "261 - FRENTE PRÓPRIA  (EDMILSON)",
     "Profundidade do Sulco": "38",
-    "Fazenda": NaN
+    "Fazenda": null,
+    "Unnamed: 16": null
   },
   {
     "ID": "3605109",
@@ -12724,7 +13434,8 @@ const SULCACAO_DATA = [
     "OS": "480",
     "Frente": "135 - FRENTE PEDRINHO",
     "Profundidade do Sulco": "40",
-    "Fazenda": NaN
+    "Fazenda": null,
+    "Unnamed: 16": null
   },
   {
     "ID": "3604894",
@@ -12742,7 +13453,8 @@ const SULCACAO_DATA = [
     "OS": "482",
     "Frente": "139 - FRENTE MANEZÃO",
     "Profundidade do Sulco": "35",
-    "Fazenda": NaN
+    "Fazenda": null,
+    "Unnamed: 16": null
   },
   {
     "ID": "3604185",
@@ -12760,7 +13472,8 @@ const SULCACAO_DATA = [
     "OS": "482",
     "Frente": "139 - FRENTE MANEZÃO",
     "Profundidade do Sulco": "37",
-    "Fazenda": NaN
+    "Fazenda": null,
+    "Unnamed: 16": null
   },
   {
     "ID": "3604948",
@@ -12778,7 +13491,8 @@ const SULCACAO_DATA = [
     "OS": "480",
     "Frente": "135 - FRENTE PEDRINHO",
     "Profundidade do Sulco": "40",
-    "Fazenda": NaN
+    "Fazenda": null,
+    "Unnamed: 16": null
   },
   {
     "ID": "3603967",
@@ -12796,7 +13510,8 @@ const SULCACAO_DATA = [
     "OS": "211",
     "Frente": "261 - FRENTE PRÓPRIA  (EDMILSON)",
     "Profundidade do Sulco": "38",
-    "Fazenda": NaN
+    "Fazenda": null,
+    "Unnamed: 16": null
   },
   {
     "ID": "3604889",
@@ -12814,7 +13529,8 @@ const SULCACAO_DATA = [
     "OS": "482",
     "Frente": "139 - FRENTE MANEZÃO",
     "Profundidade do Sulco": "36",
-    "Fazenda": NaN
+    "Fazenda": null,
+    "Unnamed: 16": null
   },
   {
     "ID": "3604183",
@@ -12832,7 +13548,8 @@ const SULCACAO_DATA = [
     "OS": "482",
     "Frente": "139 - FRENTE MANEZÃO",
     "Profundidade do Sulco": "37",
-    "Fazenda": NaN
+    "Fazenda": null,
+    "Unnamed: 16": null
   },
   {
     "ID": "3604174",
@@ -12850,7 +13567,8 @@ const SULCACAO_DATA = [
     "OS": "482",
     "Frente": "139 - FRENTE MANEZÃO",
     "Profundidade do Sulco": "38",
-    "Fazenda": NaN
+    "Fazenda": null,
+    "Unnamed: 16": null
   },
   {
     "ID": "3604170",
@@ -12868,7 +13586,8 @@ const SULCACAO_DATA = [
     "OS": "482",
     "Frente": "139 - FRENTE MANEZÃO",
     "Profundidade do Sulco": "38",
-    "Fazenda": NaN
+    "Fazenda": null,
+    "Unnamed: 16": null
   },
   {
     "ID": "3602146",
@@ -12886,7 +13605,8 @@ const SULCACAO_DATA = [
     "OS": "440",
     "Frente": "101 - FRENTE MECANIZADA",
     "Profundidade do Sulco": "36",
-    "Fazenda": NaN
+    "Fazenda": null,
+    "Unnamed: 16": null
   },
   {
     "ID": "3602359",
@@ -12904,7 +13624,8 @@ const SULCACAO_DATA = [
     "OS": "441",
     "Frente": "101 - FRENTE MECANIZADA",
     "Profundidade do Sulco": "38",
-    "Fazenda": NaN
+    "Fazenda": null,
+    "Unnamed: 16": null
   },
   {
     "ID": "3602136",
@@ -12922,7 +13643,8 @@ const SULCACAO_DATA = [
     "OS": "440",
     "Frente": "101 - FRENTE MECANIZADA",
     "Profundidade do Sulco": "37",
-    "Fazenda": NaN
+    "Fazenda": null,
+    "Unnamed: 16": null
   },
   {
     "ID": "3602130",
@@ -12940,7 +13662,8 @@ const SULCACAO_DATA = [
     "OS": "440",
     "Frente": "101 - FRENTE MECANIZADA",
     "Profundidade do Sulco": "36",
-    "Fazenda": NaN
+    "Fazenda": null,
+    "Unnamed: 16": null
   },
   {
     "ID": "3602353",
@@ -12958,7 +13681,8 @@ const SULCACAO_DATA = [
     "OS": "441",
     "Frente": "101 - FRENTE MECANIZADA",
     "Profundidade do Sulco": "40",
-    "Fazenda": NaN
+    "Fazenda": null,
+    "Unnamed: 16": null
   },
   {
     "ID": "3601797",
@@ -12976,7 +13700,8 @@ const SULCACAO_DATA = [
     "OS": "211",
     "Frente": "261 - FRENTE PRÓPRIA  (EDMILSON)",
     "Profundidade do Sulco": "39",
-    "Fazenda": NaN
+    "Fazenda": null,
+    "Unnamed: 16": null
   },
   {
     "ID": "3601792",
@@ -12994,7 +13719,8 @@ const SULCACAO_DATA = [
     "OS": "211",
     "Frente": "261 - FRENTE PRÓPRIA  (EDMILSON)",
     "Profundidade do Sulco": "39",
-    "Fazenda": NaN
+    "Fazenda": null,
+    "Unnamed: 16": null
   },
   {
     "ID": "3602127",
@@ -13012,7 +13738,8 @@ const SULCACAO_DATA = [
     "OS": "440",
     "Frente": "101 - FRENTE MECANIZADA",
     "Profundidade do Sulco": "36",
-    "Fazenda": NaN
+    "Fazenda": null,
+    "Unnamed: 16": null
   },
   {
     "ID": "3602345",
@@ -13030,7 +13757,8 @@ const SULCACAO_DATA = [
     "OS": "441",
     "Frente": "101 - FRENTE MECANIZADA",
     "Profundidade do Sulco": "39",
-    "Fazenda": NaN
+    "Fazenda": null,
+    "Unnamed: 16": null
   },
   {
     "ID": "3601787",
@@ -13048,7 +13776,8 @@ const SULCACAO_DATA = [
     "OS": "211",
     "Frente": "261 - FRENTE PRÓPRIA  (EDMILSON)",
     "Profundidade do Sulco": "37",
-    "Fazenda": NaN
+    "Fazenda": null,
+    "Unnamed: 16": null
   },
   {
     "ID": "3601782",
@@ -13066,7 +13795,8 @@ const SULCACAO_DATA = [
     "OS": "211",
     "Frente": "261 - FRENTE PRÓPRIA  (EDMILSON)",
     "Profundidade do Sulco": "39",
-    "Fazenda": NaN
+    "Fazenda": null,
+    "Unnamed: 16": null
   },
   {
     "ID": "3602290",
@@ -13084,7 +13814,8 @@ const SULCACAO_DATA = [
     "OS": "440",
     "Frente": "101 - FRENTE MECANIZADA",
     "Profundidade do Sulco": "35",
-    "Fazenda": NaN
+    "Fazenda": null,
+    "Unnamed: 16": null
   },
   {
     "ID": "3602497",
@@ -13102,7 +13833,8 @@ const SULCACAO_DATA = [
     "OS": "481",
     "Frente": "142 - FRENTE BIDU",
     "Profundidade do Sulco": "40",
-    "Fazenda": NaN
+    "Fazenda": null,
+    "Unnamed: 16": null
   },
   {
     "ID": "3601777",
@@ -13120,7 +13852,8 @@ const SULCACAO_DATA = [
     "OS": "211",
     "Frente": "261 - FRENTE PRÓPRIA  (EDMILSON)",
     "Profundidade do Sulco": "37",
-    "Fazenda": NaN
+    "Fazenda": null,
+    "Unnamed: 16": null
   },
   {
     "ID": "3602215",
@@ -13138,7 +13871,8 @@ const SULCACAO_DATA = [
     "OS": "419",
     "Frente": "139 - FRENTE MANEZÃO",
     "Profundidade do Sulco": "38",
-    "Fazenda": NaN
+    "Fazenda": null,
+    "Unnamed: 16": null
   },
   {
     "ID": "3602120",
@@ -13156,7 +13890,8 @@ const SULCACAO_DATA = [
     "OS": "440",
     "Frente": "101 - FRENTE MECANIZADA",
     "Profundidade do Sulco": "37",
-    "Fazenda": NaN
+    "Fazenda": null,
+    "Unnamed: 16": null
   },
   {
     "ID": "3602210",
@@ -13174,7 +13909,8 @@ const SULCACAO_DATA = [
     "OS": "419",
     "Frente": "139 - FRENTE MANEZÃO",
     "Profundidade do Sulco": "38",
-    "Fazenda": NaN
+    "Fazenda": null,
+    "Unnamed: 16": null
   },
   {
     "ID": "3602492",
@@ -13192,7 +13928,8 @@ const SULCACAO_DATA = [
     "OS": "481",
     "Frente": "142 - FRENTE BIDU",
     "Profundidade do Sulco": "41",
-    "Fazenda": NaN
+    "Fazenda": null,
+    "Unnamed: 16": null
   },
   {
     "ID": "3602487",
@@ -13210,7 +13947,8 @@ const SULCACAO_DATA = [
     "OS": "481",
     "Frente": "142 - FRENTE BIDU",
     "Profundidade do Sulco": "40",
-    "Fazenda": NaN
+    "Fazenda": null,
+    "Unnamed: 16": null
   },
   {
     "ID": "3602202",
@@ -13228,7 +13966,8 @@ const SULCACAO_DATA = [
     "OS": "419",
     "Frente": "139 - FRENTE MANEZÃO",
     "Profundidade do Sulco": "40",
-    "Fazenda": NaN
+    "Fazenda": null,
+    "Unnamed: 16": null
   },
   {
     "ID": "3602199",
@@ -13246,7 +13985,8 @@ const SULCACAO_DATA = [
     "OS": "419",
     "Frente": "139 - FRENTE MANEZÃO",
     "Profundidade do Sulco": "40",
-    "Fazenda": NaN
+    "Fazenda": null,
+    "Unnamed: 16": null
   },
   {
     "ID": "3602562",
@@ -13264,7 +14004,8 @@ const SULCACAO_DATA = [
     "OS": "270",
     "Frente": "105 - FRENTE CASSIO (ZACARIAS)",
     "Profundidade do Sulco": "39",
-    "Fazenda": NaN
+    "Fazenda": null,
+    "Unnamed: 16": null
   },
   {
     "ID": "3602194",
@@ -13282,7 +14023,8 @@ const SULCACAO_DATA = [
     "OS": "419",
     "Frente": "139 - FRENTE MANEZÃO",
     "Profundidade do Sulco": "38",
-    "Fazenda": NaN
+    "Fazenda": null,
+    "Unnamed: 16": null
   },
   {
     "ID": "3602187",
@@ -13300,7 +14042,8 @@ const SULCACAO_DATA = [
     "OS": "419",
     "Frente": "139 - FRENTE MANEZÃO",
     "Profundidade do Sulco": "40",
-    "Fazenda": NaN
+    "Fazenda": null,
+    "Unnamed: 16": null
   },
   {
     "ID": "3602557",
@@ -13318,7 +14061,8 @@ const SULCACAO_DATA = [
     "OS": "270",
     "Frente": "105 - FRENTE CASSIO (ZACARIAS)",
     "Profundidade do Sulco": "36",
-    "Fazenda": NaN
+    "Fazenda": null,
+    "Unnamed: 16": null
   },
   {
     "ID": "3602182",
@@ -13336,7 +14080,8 @@ const SULCACAO_DATA = [
     "OS": "419",
     "Frente": "139 - FRENTE MANEZÃO",
     "Profundidade do Sulco": "36",
-    "Fazenda": NaN
+    "Fazenda": null,
+    "Unnamed: 16": null
   },
   {
     "ID": "3602178",
@@ -13354,7 +14099,8 @@ const SULCACAO_DATA = [
     "OS": "419",
     "Frente": "139 - FRENTE MANEZÃO",
     "Profundidade do Sulco": "39",
-    "Fazenda": NaN
+    "Fazenda": null,
+    "Unnamed: 16": null
   },
   {
     "ID": "3602552",
@@ -13372,7 +14118,8 @@ const SULCACAO_DATA = [
     "OS": "270",
     "Frente": "105 - FRENTE CASSIO (ZACARIAS)",
     "Profundidade do Sulco": "37",
-    "Fazenda": NaN
+    "Fazenda": null,
+    "Unnamed: 16": null
   },
   {
     "ID": "3602172",
@@ -13390,7 +14137,8 @@ const SULCACAO_DATA = [
     "OS": "419",
     "Frente": "139 - FRENTE MANEZÃO",
     "Profundidade do Sulco": "40",
-    "Fazenda": NaN
+    "Fazenda": null,
+    "Unnamed: 16": null
   },
   {
     "ID": "3602547",
@@ -13408,7 +14156,8 @@ const SULCACAO_DATA = [
     "OS": "270",
     "Frente": "105 - FRENTE CASSIO (ZACARIAS)",
     "Profundidade do Sulco": "37",
-    "Fazenda": NaN
+    "Fazenda": null,
+    "Unnamed: 16": null
   },
   {
     "ID": "3602165",
@@ -13426,7 +14175,8 @@ const SULCACAO_DATA = [
     "OS": "419",
     "Frente": "139 - FRENTE MANEZÃO",
     "Profundidade do Sulco": "37",
-    "Fazenda": NaN
+    "Fazenda": null,
+    "Unnamed: 16": null
   },
   {
     "ID": "3602541",
@@ -13444,7 +14194,8 @@ const SULCACAO_DATA = [
     "OS": "270",
     "Frente": "105 - FRENTE CASSIO (ZACARIAS)",
     "Profundidade do Sulco": "44",
-    "Fazenda": NaN
+    "Fazenda": null,
+    "Unnamed: 16": null
   },
   {
     "ID": "3602112",
@@ -13462,7 +14213,8 @@ const SULCACAO_DATA = [
     "OS": "419",
     "Frente": "139 - FRENTE MANEZÃO",
     "Profundidade do Sulco": "37",
-    "Fazenda": NaN
+    "Fazenda": null,
+    "Unnamed: 16": null
   },
   {
     "ID": "3602108",
@@ -13480,7 +14232,8 @@ const SULCACAO_DATA = [
     "OS": "419",
     "Frente": "139 - FRENTE MANEZÃO",
     "Profundidade do Sulco": "39",
-    "Fazenda": NaN
+    "Fazenda": null,
+    "Unnamed: 16": null
   },
   {
     "ID": "3602335",
@@ -13498,7 +14251,8 @@ const SULCACAO_DATA = [
     "OS": "441",
     "Frente": "101 - FRENTE MECANIZADA",
     "Profundidade do Sulco": "39",
-    "Fazenda": NaN
+    "Fazenda": null,
+    "Unnamed: 16": null
   },
   {
     "ID": "3602085",
@@ -13516,7 +14270,8 @@ const SULCACAO_DATA = [
     "OS": "480",
     "Frente": "135 - FRENTE PEDRINHO",
     "Profundidade do Sulco": "40",
-    "Fazenda": NaN
+    "Fazenda": null,
+    "Unnamed: 16": null
   },
   {
     "ID": "3601964",
@@ -13534,7 +14289,8 @@ const SULCACAO_DATA = [
     "OS": "480",
     "Frente": "135 - FRENTE PEDRINHO",
     "Profundidade do Sulco": "38",
-    "Fazenda": NaN
+    "Fazenda": null,
+    "Unnamed: 16": null
   },
   {
     "ID": "3602325",
@@ -13552,7 +14308,8 @@ const SULCACAO_DATA = [
     "OS": "441",
     "Frente": "101 - FRENTE MECANIZADA",
     "Profundidade do Sulco": "38",
-    "Fazenda": NaN
+    "Fazenda": null,
+    "Unnamed: 16": null
   },
   {
     "ID": "3601919",
@@ -13570,7 +14327,8 @@ const SULCACAO_DATA = [
     "OS": "480",
     "Frente": "135 - FRENTE PEDRINHO",
     "Profundidade do Sulco": "45",
-    "Fazenda": NaN
+    "Fazenda": null,
+    "Unnamed: 16": null
   },
   {
     "ID": "3602082",
@@ -13588,7 +14346,8 @@ const SULCACAO_DATA = [
     "OS": "480",
     "Frente": "135 - FRENTE PEDRINHO",
     "Profundidade do Sulco": "42",
-    "Fazenda": NaN
+    "Fazenda": null,
+    "Unnamed: 16": null
   },
   {
     "ID": "3602315",
@@ -13606,7 +14365,8 @@ const SULCACAO_DATA = [
     "OS": "441",
     "Frente": "101 - FRENTE MECANIZADA",
     "Profundidade do Sulco": "38",
-    "Fazenda": NaN
+    "Fazenda": null,
+    "Unnamed: 16": null
   },
   {
     "ID": "3601807",
@@ -13624,7 +14384,8 @@ const SULCACAO_DATA = [
     "OS": "480",
     "Frente": "135 - FRENTE PEDRINHO",
     "Profundidade do Sulco": "43",
-    "Fazenda": NaN
+    "Fazenda": null,
+    "Unnamed: 16": null
   },
   {
     "ID": "3601403",
@@ -13642,7 +14403,8 @@ const SULCACAO_DATA = [
     "OS": "211",
     "Frente": "261 - FRENTE PRÓPRIA  (EDMILSON)",
     "Profundidade do Sulco": "37",
-    "Fazenda": NaN
+    "Fazenda": null,
+    "Unnamed: 16": null
   },
   {
     "ID": "3601484",
@@ -13660,7 +14422,8 @@ const SULCACAO_DATA = [
     "OS": "440",
     "Frente": "101 - FRENTE MECANIZADA",
     "Profundidade do Sulco": "36",
-    "Fazenda": NaN
+    "Fazenda": null,
+    "Unnamed: 16": null
   },
   {
     "ID": "3601398",
@@ -13678,7 +14441,8 @@ const SULCACAO_DATA = [
     "OS": "211",
     "Frente": "261 - FRENTE PRÓPRIA  (EDMILSON)",
     "Profundidade do Sulco": "38",
-    "Fazenda": NaN
+    "Fazenda": null,
+    "Unnamed: 16": null
   },
   {
     "ID": "3602304",
@@ -13696,7 +14460,8 @@ const SULCACAO_DATA = [
     "OS": "441",
     "Frente": "101 - FRENTE MECANIZADA",
     "Profundidade do Sulco": "39",
-    "Fazenda": NaN
+    "Fazenda": null,
+    "Unnamed: 16": null
   },
   {
     "ID": "3601393",
@@ -13714,7 +14479,8 @@ const SULCACAO_DATA = [
     "OS": "211",
     "Frente": "261 - FRENTE PRÓPRIA  (EDMILSON)",
     "Profundidade do Sulco": "39",
-    "Fazenda": NaN
+    "Fazenda": null,
+    "Unnamed: 16": null
   },
   {
     "ID": "3602536",
@@ -13732,7 +14498,8 @@ const SULCACAO_DATA = [
     "OS": "481",
     "Frente": "142 - FRENTE BIDU",
     "Profundidade do Sulco": "38",
-    "Fazenda": NaN
+    "Fazenda": null,
+    "Unnamed: 16": null
   },
   {
     "ID": "3602479",
@@ -13750,7 +14517,8 @@ const SULCACAO_DATA = [
     "OS": "481",
     "Frente": "142 - FRENTE BIDU",
     "Profundidade do Sulco": "40",
-    "Fazenda": NaN
+    "Fazenda": null,
+    "Unnamed: 16": null
   },
   {
     "ID": "3601388",
@@ -13768,7 +14536,8 @@ const SULCACAO_DATA = [
     "OS": "211",
     "Frente": "261 - FRENTE PRÓPRIA  (EDMILSON)",
     "Profundidade do Sulco": "38",
-    "Fazenda": NaN
+    "Fazenda": null,
+    "Unnamed: 16": null
   },
   {
     "ID": "3602531",
@@ -13786,7 +14555,8 @@ const SULCACAO_DATA = [
     "OS": "481",
     "Frente": "142 - FRENTE BIDU",
     "Profundidade do Sulco": "38",
-    "Fazenda": NaN
+    "Fazenda": null,
+    "Unnamed: 16": null
   },
   {
     "ID": "3601382",
@@ -13804,7 +14574,8 @@ const SULCACAO_DATA = [
     "OS": "211",
     "Frente": "261 - FRENTE PRÓPRIA  (EDMILSON)",
     "Profundidade do Sulco": "37",
-    "Fazenda": NaN
+    "Fazenda": null,
+    "Unnamed: 16": null
   },
   {
     "ID": "3602473",
@@ -13822,7 +14593,8 @@ const SULCACAO_DATA = [
     "OS": "481",
     "Frente": "142 - FRENTE BIDU",
     "Profundidade do Sulco": "40",
-    "Fazenda": NaN
+    "Fazenda": null,
+    "Unnamed: 16": null
   },
   {
     "ID": "3602526",
@@ -13840,7 +14612,8 @@ const SULCACAO_DATA = [
     "OS": "481",
     "Frente": "142 - FRENTE BIDU",
     "Profundidade do Sulco": "40",
-    "Fazenda": NaN
+    "Fazenda": null,
+    "Unnamed: 16": null
   },
   {
     "ID": "3602468",
@@ -13858,7 +14631,8 @@ const SULCACAO_DATA = [
     "OS": "481",
     "Frente": "142 - FRENTE BIDU",
     "Profundidade do Sulco": "41",
-    "Fazenda": NaN
+    "Fazenda": null,
+    "Unnamed: 16": null
   },
   {
     "ID": "3601377",
@@ -13876,7 +14650,8 @@ const SULCACAO_DATA = [
     "OS": "211",
     "Frente": "261 - FRENTE PRÓPRIA  (EDMILSON)",
     "Profundidade do Sulco": "38",
-    "Fazenda": NaN
+    "Fazenda": null,
+    "Unnamed: 16": null
   },
   {
     "ID": "3602521",
@@ -13894,7 +14669,8 @@ const SULCACAO_DATA = [
     "OS": "481",
     "Frente": "142 - FRENTE BIDU",
     "Profundidade do Sulco": "38",
-    "Fazenda": NaN
+    "Fazenda": null,
+    "Unnamed: 16": null
   },
   {
     "ID": "3602463",
@@ -13912,7 +14688,8 @@ const SULCACAO_DATA = [
     "OS": "481",
     "Frente": "142 - FRENTE BIDU",
     "Profundidade do Sulco": "40",
-    "Fazenda": NaN
+    "Fazenda": null,
+    "Unnamed: 16": null
   },
   {
     "ID": "3602516",
@@ -13930,7 +14707,8 @@ const SULCACAO_DATA = [
     "OS": "481",
     "Frente": "142 - FRENTE BIDU",
     "Profundidade do Sulco": "43",
-    "Fazenda": NaN
+    "Fazenda": null,
+    "Unnamed: 16": null
   },
   {
     "ID": "3602458",
@@ -13948,7 +14726,8 @@ const SULCACAO_DATA = [
     "OS": "481",
     "Frente": "142 - FRENTE BIDU",
     "Profundidade do Sulco": "40",
-    "Fazenda": NaN
+    "Fazenda": null,
+    "Unnamed: 16": null
   },
   {
     "ID": "3601475",
@@ -13966,7 +14745,8 @@ const SULCACAO_DATA = [
     "OS": "440",
     "Frente": "101 - FRENTE MECANIZADA",
     "Profundidade do Sulco": "35",
-    "Fazenda": NaN
+    "Fazenda": null,
+    "Unnamed: 16": null
   },
   {
     "ID": "3601471",
@@ -13984,7 +14764,8 @@ const SULCACAO_DATA = [
     "OS": "440",
     "Frente": "101 - FRENTE MECANIZADA",
     "Profundidade do Sulco": "37",
-    "Fazenda": NaN
+    "Fazenda": null,
+    "Unnamed: 16": null
   },
   {
     "ID": "3601371",
@@ -14002,7 +14783,8 @@ const SULCACAO_DATA = [
     "OS": "211",
     "Frente": "261 - FRENTE PRÓPRIA  (EDMILSON)",
     "Profundidade do Sulco": "39",
-    "Fazenda": NaN
+    "Fazenda": null,
+    "Unnamed: 16": null
   },
   {
     "ID": "3601463",
@@ -14020,7 +14802,8 @@ const SULCACAO_DATA = [
     "OS": "440",
     "Frente": "101 - FRENTE MECANIZADA",
     "Profundidade do Sulco": "36",
-    "Fazenda": NaN
+    "Fazenda": null,
+    "Unnamed: 16": null
   },
   {
     "ID": "3601365",
@@ -14038,7 +14821,8 @@ const SULCACAO_DATA = [
     "OS": "211",
     "Frente": "261 - FRENTE PRÓPRIA  (EDMILSON)",
     "Profundidade do Sulco": "39",
-    "Fazenda": NaN
+    "Fazenda": null,
+    "Unnamed: 16": null
   },
   {
     "ID": "3601360",
@@ -14056,7 +14840,8 @@ const SULCACAO_DATA = [
     "OS": "211",
     "Frente": "261 - FRENTE PRÓPRIA  (EDMILSON)",
     "Profundidade do Sulco": "39",
-    "Fazenda": NaN
+    "Fazenda": null,
+    "Unnamed: 16": null
   },
   {
     "ID": "3601356",
@@ -14074,7 +14859,8 @@ const SULCACAO_DATA = [
     "OS": "211",
     "Frente": "261 - FRENTE PRÓPRIA  (EDMILSON)",
     "Profundidade do Sulco": "38",
-    "Fazenda": NaN
+    "Fazenda": null,
+    "Unnamed: 16": null
   },
   {
     "ID": "3601351",
@@ -14092,7 +14878,8 @@ const SULCACAO_DATA = [
     "OS": "211",
     "Frente": "261 - FRENTE PRÓPRIA  (EDMILSON)",
     "Profundidade do Sulco": "38",
-    "Fazenda": NaN
+    "Fazenda": null,
+    "Unnamed: 16": null
   },
   {
     "ID": "3599589",
@@ -14110,7 +14897,8 @@ const SULCACAO_DATA = [
     "OS": "419",
     "Frente": "139 - FRENTE MANEZÃO",
     "Profundidade do Sulco": "37",
-    "Fazenda": NaN
+    "Fazenda": null,
+    "Unnamed: 16": null
   },
   {
     "ID": "3599582",
@@ -14128,7 +14916,8 @@ const SULCACAO_DATA = [
     "OS": "419",
     "Frente": "139 - FRENTE MANEZÃO",
     "Profundidade do Sulco": "39",
-    "Fazenda": NaN
+    "Fazenda": null,
+    "Unnamed: 16": null
   },
   {
     "ID": "3599577",
@@ -14146,7 +14935,8 @@ const SULCACAO_DATA = [
     "OS": "419",
     "Frente": "139 - FRENTE MANEZÃO",
     "Profundidade do Sulco": "39",
-    "Fazenda": NaN
+    "Fazenda": null,
+    "Unnamed: 16": null
   },
   {
     "ID": "3599572",
@@ -14164,7 +14954,8 @@ const SULCACAO_DATA = [
     "OS": "419",
     "Frente": "139 - FRENTE MANEZÃO",
     "Profundidade do Sulco": "37",
-    "Fazenda": NaN
+    "Fazenda": null,
+    "Unnamed: 16": null
   },
   {
     "ID": "3599567",
@@ -14182,7 +14973,8 @@ const SULCACAO_DATA = [
     "OS": "419",
     "Frente": "139 - FRENTE MANEZÃO",
     "Profundidade do Sulco": "38",
-    "Fazenda": NaN
+    "Fazenda": null,
+    "Unnamed: 16": null
   },
   {
     "ID": "3599562",
@@ -14200,7 +14992,8 @@ const SULCACAO_DATA = [
     "OS": "419",
     "Frente": "139 - FRENTE MANEZÃO",
     "Profundidade do Sulco": "39",
-    "Fazenda": NaN
+    "Fazenda": null,
+    "Unnamed: 16": null
   },
   {
     "ID": "3599414",
@@ -14218,7 +15011,8 @@ const SULCACAO_DATA = [
     "OS": "211",
     "Frente": "261 - FRENTE PRÓPRIA  (EDMILSON)",
     "Profundidade do Sulco": "36",
-    "Fazenda": NaN
+    "Fazenda": null,
+    "Unnamed: 16": null
   },
   {
     "ID": "3599557",
@@ -14236,7 +15030,8 @@ const SULCACAO_DATA = [
     "OS": "419",
     "Frente": "139 - FRENTE MANEZÃO",
     "Profundidade do Sulco": "39",
-    "Fazenda": NaN
+    "Fazenda": null,
+    "Unnamed: 16": null
   },
   {
     "ID": "3600526",
@@ -14254,7 +15049,8 @@ const SULCACAO_DATA = [
     "OS": "481",
     "Frente": "142 - FRENTE BIDU",
     "Profundidade do Sulco": "41",
-    "Fazenda": NaN
+    "Fazenda": null,
+    "Unnamed: 16": null
   },
   {
     "ID": "3599407",
@@ -14272,7 +15068,8 @@ const SULCACAO_DATA = [
     "OS": "211",
     "Frente": "261 - FRENTE PRÓPRIA  (EDMILSON)",
     "Profundidade do Sulco": "36",
-    "Fazenda": NaN
+    "Fazenda": null,
+    "Unnamed: 16": null
   },
   {
     "ID": "3599552",
@@ -14290,7 +15087,8 @@ const SULCACAO_DATA = [
     "OS": "419",
     "Frente": "139 - FRENTE MANEZÃO",
     "Profundidade do Sulco": "37",
-    "Fazenda": NaN
+    "Fazenda": null,
+    "Unnamed: 16": null
   },
   {
     "ID": "3599390",
@@ -14308,7 +15106,8 @@ const SULCACAO_DATA = [
     "OS": "211",
     "Frente": "261 - FRENTE PRÓPRIA  (EDMILSON)",
     "Profundidade do Sulco": "41",
-    "Fazenda": NaN
+    "Fazenda": null,
+    "Unnamed: 16": null
   },
   {
     "ID": "3600525",
@@ -14326,7 +15125,8 @@ const SULCACAO_DATA = [
     "OS": "481",
     "Frente": "142 - FRENTE BIDU",
     "Profundidade do Sulco": "38",
-    "Fazenda": NaN
+    "Fazenda": null,
+    "Unnamed: 16": null
   },
   {
     "ID": "3599382",
@@ -14344,7 +15144,8 @@ const SULCACAO_DATA = [
     "OS": "211",
     "Frente": "261 - FRENTE PRÓPRIA  (EDMILSON)",
     "Profundidade do Sulco": "38",
-    "Fazenda": NaN
+    "Fazenda": null,
+    "Unnamed: 16": null
   },
   {
     "ID": "3600524",
@@ -14362,7 +15163,8 @@ const SULCACAO_DATA = [
     "OS": "481",
     "Frente": "142 - FRENTE BIDU",
     "Profundidade do Sulco": "40",
-    "Fazenda": NaN
+    "Fazenda": null,
+    "Unnamed: 16": null
   },
   {
     "ID": "3599378",
@@ -14380,7 +15182,8 @@ const SULCACAO_DATA = [
     "OS": "211",
     "Frente": "261 - FRENTE PRÓPRIA  (EDMILSON)",
     "Profundidade do Sulco": "39",
-    "Fazenda": NaN
+    "Fazenda": null,
+    "Unnamed: 16": null
   },
   {
     "ID": "3599124",
@@ -14398,7 +15201,8 @@ const SULCACAO_DATA = [
     "OS": "440",
     "Frente": "101 - FRENTE MECANIZADA",
     "Profundidade do Sulco": "36",
-    "Fazenda": NaN
+    "Fazenda": null,
+    "Unnamed: 16": null
   },
   {
     "ID": "3599119",
@@ -14416,7 +15220,8 @@ const SULCACAO_DATA = [
     "OS": "440",
     "Frente": "101 - FRENTE MECANIZADA",
     "Profundidade do Sulco": "36",
-    "Fazenda": NaN
+    "Fazenda": null,
+    "Unnamed: 16": null
   },
   {
     "ID": "3599115",
@@ -14434,7 +15239,8 @@ const SULCACAO_DATA = [
     "OS": "440",
     "Frente": "101 - FRENTE MECANIZADA",
     "Profundidade do Sulco": "35",
-    "Fazenda": NaN
+    "Fazenda": null,
+    "Unnamed: 16": null
   },
   {
     "ID": "3599537",
@@ -14452,7 +15258,8 @@ const SULCACAO_DATA = [
     "OS": "419",
     "Frente": "139 - FRENTE MANEZÃO",
     "Profundidade do Sulco": "38",
-    "Fazenda": NaN
+    "Fazenda": null,
+    "Unnamed: 16": null
   },
   {
     "ID": "3599154",
@@ -14470,7 +15277,8 @@ const SULCACAO_DATA = [
     "OS": "211",
     "Frente": "261 - FRENTE PRÓPRIA  (EDMILSON)",
     "Profundidade do Sulco": "38",
-    "Fazenda": NaN
+    "Fazenda": null,
+    "Unnamed: 16": null
   },
   {
     "ID": "3599530",
@@ -14488,7 +15296,8 @@ const SULCACAO_DATA = [
     "OS": "419",
     "Frente": "139 - FRENTE MANEZÃO",
     "Profundidade do Sulco": "40",
-    "Fazenda": NaN
+    "Fazenda": null,
+    "Unnamed: 16": null
   },
   {
     "ID": "3600507",
@@ -14506,7 +15315,8 @@ const SULCACAO_DATA = [
     "OS": "480",
     "Frente": "135 - FRENTE PEDRINHO",
     "Profundidade do Sulco": "40",
-    "Fazenda": NaN
+    "Fazenda": null,
+    "Unnamed: 16": null
   },
   {
     "ID": "3599111",
@@ -14524,7 +15334,8 @@ const SULCACAO_DATA = [
     "OS": "440",
     "Frente": "101 - FRENTE MECANIZADA",
     "Profundidade do Sulco": "35",
-    "Fazenda": NaN
+    "Fazenda": null,
+    "Unnamed: 16": null
   },
   {
     "ID": "3599149",
@@ -14542,7 +15353,8 @@ const SULCACAO_DATA = [
     "OS": "211",
     "Frente": "261 - FRENTE PRÓPRIA  (EDMILSON)",
     "Profundidade do Sulco": "38",
-    "Fazenda": NaN
+    "Fazenda": null,
+    "Unnamed: 16": null
   },
   {
     "ID": "3600501",
@@ -14560,7 +15372,8 @@ const SULCACAO_DATA = [
     "OS": "480",
     "Frente": "135 - FRENTE PEDRINHO",
     "Profundidade do Sulco": "40",
-    "Fazenda": NaN
+    "Fazenda": null,
+    "Unnamed: 16": null
   },
   {
     "ID": "3599525",
@@ -14578,7 +15391,8 @@ const SULCACAO_DATA = [
     "OS": "419",
     "Frente": "139 - FRENTE MANEZÃO",
     "Profundidade do Sulco": "36",
-    "Fazenda": NaN
+    "Fazenda": null,
+    "Unnamed: 16": null
   },
   {
     "ID": "3599144",
@@ -14596,7 +15410,8 @@ const SULCACAO_DATA = [
     "OS": "211",
     "Frente": "261 - FRENTE PRÓPRIA  (EDMILSON)",
     "Profundidade do Sulco": "38",
-    "Fazenda": NaN
+    "Fazenda": null,
+    "Unnamed: 16": null
   },
   {
     "ID": "3599521",
@@ -14614,7 +15429,8 @@ const SULCACAO_DATA = [
     "OS": "419",
     "Frente": "139 - FRENTE MANEZÃO",
     "Profundidade do Sulco": "37",
-    "Fazenda": NaN
+    "Fazenda": null,
+    "Unnamed: 16": null
   },
   {
     "ID": "3599515",
@@ -14632,7 +15448,8 @@ const SULCACAO_DATA = [
     "OS": "419",
     "Frente": "139 - FRENTE MANEZÃO",
     "Profundidade do Sulco": "40",
-    "Fazenda": NaN
+    "Fazenda": null,
+    "Unnamed: 16": null
   },
   {
     "ID": "3599139",
@@ -14650,7 +15467,8 @@ const SULCACAO_DATA = [
     "OS": "211",
     "Frente": "261 - FRENTE PRÓPRIA  (EDMILSON)",
     "Profundidade do Sulco": "39",
-    "Fazenda": NaN
+    "Fazenda": null,
+    "Unnamed: 16": null
   },
   {
     "ID": "3599284",
@@ -14668,7 +15486,8 @@ const SULCACAO_DATA = [
     "OS": "270",
     "Frente": "105 - FRENTE CASSIO (ZACARIAS)",
     "Profundidade do Sulco": "40",
-    "Fazenda": NaN
+    "Fazenda": null,
+    "Unnamed: 16": null
   },
   {
     "ID": "3599279",
@@ -14686,7 +15505,8 @@ const SULCACAO_DATA = [
     "OS": "270",
     "Frente": "105 - FRENTE CASSIO (ZACARIAS)",
     "Profundidade do Sulco": "40",
-    "Fazenda": NaN
+    "Fazenda": null,
+    "Unnamed: 16": null
   },
   {
     "ID": "3599274",
@@ -14704,7 +15524,8 @@ const SULCACAO_DATA = [
     "OS": "270",
     "Frente": "105 - FRENTE CASSIO (ZACARIAS)",
     "Profundidade do Sulco": "40",
-    "Fazenda": NaN
+    "Fazenda": null,
+    "Unnamed: 16": null
   },
   {
     "ID": "3599353",
@@ -14722,7 +15543,8 @@ const SULCACAO_DATA = [
     "OS": "480",
     "Frente": "135 - FRENTE PEDRINHO",
     "Profundidade do Sulco": "43",
-    "Fazenda": NaN
+    "Fazenda": null,
+    "Unnamed: 16": null
   },
   {
     "ID": "3600496",
@@ -14740,7 +15562,8 @@ const SULCACAO_DATA = [
     "OS": "480",
     "Frente": "135 - FRENTE PEDRINHO",
     "Profundidade do Sulco": "41",
-    "Fazenda": NaN
+    "Fazenda": null,
+    "Unnamed: 16": null
   },
   {
     "ID": "3599351",
@@ -14758,7 +15581,8 @@ const SULCACAO_DATA = [
     "OS": "480",
     "Frente": "135 - FRENTE PEDRINHO",
     "Profundidade do Sulco": "36",
-    "Fazenda": NaN
+    "Fazenda": null,
+    "Unnamed: 16": null
   },
   {
     "ID": "3599267",
@@ -14776,7 +15600,8 @@ const SULCACAO_DATA = [
     "OS": "270",
     "Frente": "105 - FRENTE CASSIO (ZACARIAS)",
     "Profundidade do Sulco": "41",
-    "Fazenda": NaN
+    "Fazenda": null,
+    "Unnamed: 16": null
   },
   {
     "ID": "3599098",
@@ -14794,7 +15619,8 @@ const SULCACAO_DATA = [
     "OS": "440",
     "Frente": "101 - FRENTE MECANIZADA",
     "Profundidade do Sulco": "35",
-    "Fazenda": NaN
+    "Fazenda": null,
+    "Unnamed: 16": null
   },
   {
     "ID": "3600491",
@@ -14812,7 +15638,8 @@ const SULCACAO_DATA = [
     "OS": "480",
     "Frente": "135 - FRENTE PEDRINHO",
     "Profundidade do Sulco": "41",
-    "Fazenda": NaN
+    "Fazenda": null,
+    "Unnamed: 16": null
   },
   {
     "ID": "3599262",
@@ -14830,7 +15657,8 @@ const SULCACAO_DATA = [
     "OS": "270",
     "Frente": "105 - FRENTE CASSIO (ZACARIAS)",
     "Profundidade do Sulco": "40",
-    "Fazenda": NaN
+    "Fazenda": null,
+    "Unnamed: 16": null
   },
   {
     "ID": "3599094",
@@ -14848,7 +15676,8 @@ const SULCACAO_DATA = [
     "OS": "440",
     "Frente": "101 - FRENTE MECANIZADA",
     "Profundidade do Sulco": "35",
-    "Fazenda": NaN
+    "Fazenda": null,
+    "Unnamed: 16": null
   },
   {
     "ID": "3599338",
@@ -14866,7 +15695,8 @@ const SULCACAO_DATA = [
     "OS": "480",
     "Frente": "135 - FRENTE PEDRINHO",
     "Profundidade do Sulco": "35",
-    "Fazenda": NaN
+    "Fazenda": null,
+    "Unnamed: 16": null
   },
   {
     "ID": "3599090",
@@ -14884,7 +15714,8 @@ const SULCACAO_DATA = [
     "OS": "440",
     "Frente": "101 - FRENTE MECANIZADA",
     "Profundidade do Sulco": "35",
-    "Fazenda": NaN
+    "Fazenda": null,
+    "Unnamed: 16": null
   },
   {
     "ID": "3600486",
@@ -14902,7 +15733,8 @@ const SULCACAO_DATA = [
     "OS": "480",
     "Frente": "135 - FRENTE PEDRINHO",
     "Profundidade do Sulco": "43",
-    "Fazenda": NaN
+    "Fazenda": null,
+    "Unnamed: 16": null
   },
   {
     "ID": "3599257",
@@ -14920,7 +15752,8 @@ const SULCACAO_DATA = [
     "OS": "270",
     "Frente": "105 - FRENTE CASSIO (ZACARIAS)",
     "Profundidade do Sulco": "42",
-    "Fazenda": NaN
+    "Fazenda": null,
+    "Unnamed: 16": null
   },
   {
     "ID": "3599333",
@@ -14938,7 +15771,8 @@ const SULCACAO_DATA = [
     "OS": "480",
     "Frente": "135 - FRENTE PEDRINHO",
     "Profundidade do Sulco": "40",
-    "Fazenda": NaN
+    "Fazenda": null,
+    "Unnamed: 16": null
   },
   {
     "ID": "3599252",
@@ -14956,7 +15790,8 @@ const SULCACAO_DATA = [
     "OS": "270",
     "Frente": "105 - FRENTE CASSIO (ZACARIAS)",
     "Profundidade do Sulco": "41",
-    "Fazenda": NaN
+    "Fazenda": null,
+    "Unnamed: 16": null
   },
   {
     "ID": "3599330",
@@ -14974,7 +15809,8 @@ const SULCACAO_DATA = [
     "OS": "480",
     "Frente": "135 - FRENTE PEDRINHO",
     "Profundidade do Sulco": "39",
-    "Fazenda": NaN
+    "Fazenda": null,
+    "Unnamed: 16": null
   },
   {
     "ID": "3599084",
@@ -14992,7 +15828,8 @@ const SULCACAO_DATA = [
     "OS": "440",
     "Frente": "101 - FRENTE MECANIZADA",
     "Profundidade do Sulco": "36",
-    "Fazenda": NaN
+    "Fazenda": null,
+    "Unnamed: 16": null
   },
   {
     "ID": "3598749",
@@ -15010,7 +15847,8 @@ const SULCACAO_DATA = [
     "OS": "211",
     "Frente": "261 - FRENTE PRÓPRIA  (EDMILSON)",
     "Profundidade do Sulco": "39",
-    "Fazenda": NaN
+    "Fazenda": null,
+    "Unnamed: 16": null
   },
   {
     "ID": "3599061",
@@ -15028,7 +15866,8 @@ const SULCACAO_DATA = [
     "OS": "440",
     "Frente": "101 - FRENTE MECANIZADA",
     "Profundidade do Sulco": "37",
-    "Fazenda": NaN
+    "Fazenda": null,
+    "Unnamed: 16": null
   },
   {
     "ID": "3598744",
@@ -15046,7 +15885,8 @@ const SULCACAO_DATA = [
     "OS": "211",
     "Frente": "261 - FRENTE PRÓPRIA  (EDMILSON)",
     "Profundidade do Sulco": "37",
-    "Fazenda": NaN
+    "Fazenda": null,
+    "Unnamed: 16": null
   },
   {
     "ID": "3599037",
@@ -15064,7 +15904,8 @@ const SULCACAO_DATA = [
     "OS": "440",
     "Frente": "101 - FRENTE MECANIZADA",
     "Profundidade do Sulco": "37",
-    "Fazenda": NaN
+    "Fazenda": null,
+    "Unnamed: 16": null
   },
   {
     "ID": "3598739",
@@ -15082,7 +15923,8 @@ const SULCACAO_DATA = [
     "OS": "211",
     "Frente": "261 - FRENTE PRÓPRIA  (EDMILSON)",
     "Profundidade do Sulco": "38",
-    "Fazenda": NaN
+    "Fazenda": null,
+    "Unnamed: 16": null
   },
   {
     "ID": "3599498",
@@ -15100,7 +15942,8 @@ const SULCACAO_DATA = [
     "OS": "419",
     "Frente": "139 - FRENTE MANEZÃO",
     "Profundidade do Sulco": "37",
-    "Fazenda": NaN
+    "Fazenda": null,
+    "Unnamed: 16": null
   },
   {
     "ID": "3599493",
@@ -15118,7 +15961,8 @@ const SULCACAO_DATA = [
     "OS": "419",
     "Frente": "139 - FRENTE MANEZÃO",
     "Profundidade do Sulco": "39",
-    "Fazenda": NaN
+    "Fazenda": null,
+    "Unnamed: 16": null
   },
   {
     "ID": "3598732",
@@ -15136,7 +15980,8 @@ const SULCACAO_DATA = [
     "OS": "211",
     "Frente": "261 - FRENTE PRÓPRIA  (EDMILSON)",
     "Profundidade do Sulco": "39",
-    "Fazenda": NaN
+    "Fazenda": null,
+    "Unnamed: 16": null
   },
   {
     "ID": "3598727",
@@ -15154,7 +15999,8 @@ const SULCACAO_DATA = [
     "OS": "211",
     "Frente": "261 - FRENTE PRÓPRIA  (EDMILSON)",
     "Profundidade do Sulco": "37",
-    "Fazenda": NaN
+    "Fazenda": null,
+    "Unnamed: 16": null
   },
   {
     "ID": "3599314",
@@ -15172,7 +16018,8 @@ const SULCACAO_DATA = [
     "OS": "419",
     "Frente": "139 - FRENTE MANEZÃO",
     "Profundidade do Sulco": "38",
-    "Fazenda": NaN
+    "Fazenda": null,
+    "Unnamed: 16": null
   },
   {
     "ID": "3599788",
@@ -15190,7 +16037,8 @@ const SULCACAO_DATA = [
     "OS": "441",
     "Frente": "101 - FRENTE MECANIZADA",
     "Profundidade do Sulco": "39",
-    "Fazenda": NaN
+    "Fazenda": null,
+    "Unnamed: 16": null
   },
   {
     "ID": "3599309",
@@ -15208,7 +16056,8 @@ const SULCACAO_DATA = [
     "OS": "419",
     "Frente": "139 - FRENTE MANEZÃO",
     "Profundidade do Sulco": "39",
-    "Fazenda": NaN
+    "Fazenda": null,
+    "Unnamed: 16": null
   },
   {
     "ID": "3598720",
@@ -15226,7 +16075,8 @@ const SULCACAO_DATA = [
     "OS": "211",
     "Frente": "261 - FRENTE PRÓPRIA  (EDMILSON)",
     "Profundidade do Sulco": "37",
-    "Fazenda": NaN
+    "Fazenda": null,
+    "Unnamed: 16": null
   },
   {
     "ID": "3599304",
@@ -15244,7 +16094,8 @@ const SULCACAO_DATA = [
     "OS": "419",
     "Frente": "139 - FRENTE MANEZÃO",
     "Profundidade do Sulco": "39",
-    "Fazenda": NaN
+    "Fazenda": null,
+    "Unnamed: 16": null
   },
   {
     "ID": "3598715",
@@ -15262,7 +16113,8 @@ const SULCACAO_DATA = [
     "OS": "211",
     "Frente": "261 - FRENTE PRÓPRIA  (EDMILSON)",
     "Profundidade do Sulco": "39",
-    "Fazenda": NaN
+    "Fazenda": null,
+    "Unnamed: 16": null
   },
   {
     "ID": "3598710",
@@ -15280,7 +16132,8 @@ const SULCACAO_DATA = [
     "OS": "211",
     "Frente": "261 - FRENTE PRÓPRIA  (EDMILSON)",
     "Profundidade do Sulco": "38",
-    "Fazenda": NaN
+    "Fazenda": null,
+    "Unnamed: 16": null
   },
   {
     "ID": "3598704",
@@ -15298,7 +16151,8 @@ const SULCACAO_DATA = [
     "OS": "211",
     "Frente": "261 - FRENTE PRÓPRIA  (EDMILSON)",
     "Profundidade do Sulco": "39",
-    "Fazenda": NaN
+    "Fazenda": null,
+    "Unnamed: 16": null
   },
   {
     "ID": "3598699",
@@ -15316,7 +16170,8 @@ const SULCACAO_DATA = [
     "OS": "211",
     "Frente": "261 - FRENTE PRÓPRIA  (EDMILSON)",
     "Profundidade do Sulco": "38",
-    "Fazenda": NaN
+    "Fazenda": null,
+    "Unnamed: 16": null
   },
   {
     "ID": "3596358",
@@ -15334,7 +16189,8 @@ const SULCACAO_DATA = [
     "OS": "440",
     "Frente": "101 - FRENTE MECANIZADA",
     "Profundidade do Sulco": "40",
-    "Fazenda": NaN
+    "Fazenda": null,
+    "Unnamed: 16": null
   },
   {
     "ID": "3596357",
@@ -15352,7 +16208,8 @@ const SULCACAO_DATA = [
     "OS": "440",
     "Frente": "101 - FRENTE MECANIZADA",
     "Profundidade do Sulco": "39",
-    "Fazenda": NaN
+    "Fazenda": null,
+    "Unnamed: 16": null
   },
   {
     "ID": "3596356",
@@ -15370,7 +16227,8 @@ const SULCACAO_DATA = [
     "OS": "440",
     "Frente": "101 - FRENTE MECANIZADA",
     "Profundidade do Sulco": "38",
-    "Fazenda": NaN
+    "Fazenda": null,
+    "Unnamed: 16": null
   },
   {
     "ID": "3596355",
@@ -15388,7 +16246,8 @@ const SULCACAO_DATA = [
     "OS": "440",
     "Frente": "101 - FRENTE MECANIZADA",
     "Profundidade do Sulco": "40",
-    "Fazenda": NaN
+    "Fazenda": null,
+    "Unnamed: 16": null
   },
   {
     "ID": "3596441",
@@ -15406,7 +16265,8 @@ const SULCACAO_DATA = [
     "OS": "377",
     "Frente": "142 - FRENTE BIDU",
     "Profundidade do Sulco": "40",
-    "Fazenda": NaN
+    "Fazenda": null,
+    "Unnamed: 16": null
   },
   {
     "ID": "3596529",
@@ -15424,7 +16284,8 @@ const SULCACAO_DATA = [
     "OS": "274",
     "Frente": "261 - FRENTE PRÓPRIA  (EDMILSON)",
     "Profundidade do Sulco": "38",
-    "Fazenda": NaN
+    "Fazenda": null,
+    "Unnamed: 16": null
   },
   {
     "ID": "3596525",
@@ -15442,7 +16303,8 @@ const SULCACAO_DATA = [
     "OS": "274",
     "Frente": "261 - FRENTE PRÓPRIA  (EDMILSON)",
     "Profundidade do Sulco": "37",
-    "Fazenda": NaN
+    "Fazenda": null,
+    "Unnamed: 16": null
   },
   {
     "ID": "3596438",
@@ -15460,7 +16322,8 @@ const SULCACAO_DATA = [
     "OS": "377",
     "Frente": "142 - FRENTE BIDU",
     "Profundidade do Sulco": "41",
-    "Fazenda": NaN
+    "Fazenda": null,
+    "Unnamed: 16": null
   },
   {
     "ID": "3596520",
@@ -15478,7 +16341,8 @@ const SULCACAO_DATA = [
     "OS": "274",
     "Frente": "261 - FRENTE PRÓPRIA  (EDMILSON)",
     "Profundidade do Sulco": "38",
-    "Fazenda": NaN
+    "Fazenda": null,
+    "Unnamed: 16": null
   },
   {
     "ID": "3596515",
@@ -15496,7 +16360,8 @@ const SULCACAO_DATA = [
     "OS": "274",
     "Frente": "261 - FRENTE PRÓPRIA  (EDMILSON)",
     "Profundidade do Sulco": "38",
-    "Fazenda": NaN
+    "Fazenda": null,
+    "Unnamed: 16": null
   },
   {
     "ID": "3596433",
@@ -15514,7 +16379,8 @@ const SULCACAO_DATA = [
     "OS": "377",
     "Frente": "142 - FRENTE BIDU",
     "Profundidade do Sulco": "38",
-    "Fazenda": NaN
+    "Fazenda": null,
+    "Unnamed: 16": null
   },
   {
     "ID": "3595911",
@@ -15532,7 +16398,8 @@ const SULCACAO_DATA = [
     "OS": "415",
     "Frente": "105 - FRENTE CASSIO (ZACARIAS)",
     "Profundidade do Sulco": "42",
-    "Fazenda": NaN
+    "Fazenda": null,
+    "Unnamed: 16": null
   },
   {
     "ID": "3595906",
@@ -15550,7 +16417,8 @@ const SULCACAO_DATA = [
     "OS": "415",
     "Frente": "105 - FRENTE CASSIO (ZACARIAS)",
     "Profundidade do Sulco": "40",
-    "Fazenda": NaN
+    "Fazenda": null,
+    "Unnamed: 16": null
   },
   {
     "ID": "3595672",
@@ -15568,7 +16436,8 @@ const SULCACAO_DATA = [
     "OS": "274",
     "Frente": "261 - FRENTE PRÓPRIA  (EDMILSON)",
     "Profundidade do Sulco": "38",
-    "Fazenda": NaN
+    "Fazenda": null,
+    "Unnamed: 16": null
   },
   {
     "ID": "3596219",
@@ -15586,7 +16455,8 @@ const SULCACAO_DATA = [
     "OS": "440",
     "Frente": "101 - FRENTE MECANIZADA",
     "Profundidade do Sulco": "36",
-    "Fazenda": NaN
+    "Fazenda": null,
+    "Unnamed: 16": null
   },
   {
     "ID": "3596213",
@@ -15604,7 +16474,8 @@ const SULCACAO_DATA = [
     "OS": "440",
     "Frente": "101 - FRENTE MECANIZADA",
     "Profundidade do Sulco": "35",
-    "Fazenda": NaN
+    "Fazenda": null,
+    "Unnamed: 16": null
   },
   {
     "ID": "3595667",
@@ -15622,7 +16493,8 @@ const SULCACAO_DATA = [
     "OS": "274",
     "Frente": "261 - FRENTE PRÓPRIA  (EDMILSON)",
     "Profundidade do Sulco": "38",
-    "Fazenda": NaN
+    "Fazenda": null,
+    "Unnamed: 16": null
   },
   {
     "ID": "3595662",
@@ -15640,7 +16512,8 @@ const SULCACAO_DATA = [
     "OS": "274",
     "Frente": "261 - FRENTE PRÓPRIA  (EDMILSON)",
     "Profundidade do Sulco": "39",
-    "Fazenda": NaN
+    "Fazenda": null,
+    "Unnamed: 16": null
   },
   {
     "ID": "3596178",
@@ -15658,7 +16531,8 @@ const SULCACAO_DATA = [
     "OS": "440",
     "Frente": "101 - FRENTE MECANIZADA",
     "Profundidade do Sulco": "37",
-    "Fazenda": NaN
+    "Fazenda": null,
+    "Unnamed: 16": null
   },
   {
     "ID": "3595656",
@@ -15676,7 +16550,8 @@ const SULCACAO_DATA = [
     "OS": "274",
     "Frente": "261 - FRENTE PRÓPRIA  (EDMILSON)",
     "Profundidade do Sulco": "37",
-    "Fazenda": NaN
+    "Fazenda": null,
+    "Unnamed: 16": null
   },
   {
     "ID": "3595710",
@@ -15694,7 +16569,8 @@ const SULCACAO_DATA = [
     "OS": "373",
     "Frente": "143 - FRENTE CASSIO",
     "Profundidade do Sulco": "38",
-    "Fazenda": NaN
+    "Fazenda": null,
+    "Unnamed: 16": null
   },
   {
     "ID": "3595651",
@@ -15712,7 +16588,8 @@ const SULCACAO_DATA = [
     "OS": "274",
     "Frente": "261 - FRENTE PRÓPRIA  (EDMILSON)",
     "Profundidade do Sulco": "37",
-    "Fazenda": NaN
+    "Fazenda": null,
+    "Unnamed: 16": null
   },
   {
     "ID": "3596174",
@@ -15730,7 +16607,8 @@ const SULCACAO_DATA = [
     "OS": "440",
     "Frente": "101 - FRENTE MECANIZADA",
     "Profundidade do Sulco": "36",
-    "Fazenda": NaN
+    "Fazenda": null,
+    "Unnamed: 16": null
   },
   {
     "ID": "3595702",
@@ -15748,7 +16626,8 @@ const SULCACAO_DATA = [
     "OS": "373",
     "Frente": "143 - FRENTE CASSIO",
     "Profundidade do Sulco": "38",
-    "Fazenda": NaN
+    "Fazenda": null,
+    "Unnamed: 16": null
   },
   {
     "ID": "3595698",
@@ -15766,7 +16645,8 @@ const SULCACAO_DATA = [
     "OS": "373",
     "Frente": "143 - FRENTE CASSIO",
     "Profundidade do Sulco": "38",
-    "Fazenda": NaN
+    "Fazenda": null,
+    "Unnamed: 16": null
   },
   {
     "ID": "3596426",
@@ -15784,7 +16664,8 @@ const SULCACAO_DATA = [
     "OS": "377",
     "Frente": "142 - FRENTE BIDU",
     "Profundidade do Sulco": "40",
-    "Fazenda": NaN
+    "Fazenda": null,
+    "Unnamed: 16": null
   },
   {
     "ID": "3596170",
@@ -15802,7 +16683,8 @@ const SULCACAO_DATA = [
     "OS": "440",
     "Frente": "101 - FRENTE MECANIZADA",
     "Profundidade do Sulco": "36",
-    "Fazenda": NaN
+    "Fazenda": null,
+    "Unnamed: 16": null
   },
   {
     "ID": "3596421",
@@ -15820,7 +16702,8 @@ const SULCACAO_DATA = [
     "OS": "377",
     "Frente": "142 - FRENTE BIDU",
     "Profundidade do Sulco": "39",
-    "Fazenda": NaN
+    "Fazenda": null,
+    "Unnamed: 16": null
   },
   {
     "ID": "3596244",
@@ -15838,7 +16721,8 @@ const SULCACAO_DATA = [
     "OS": "440",
     "Frente": "101 - FRENTE MECANIZADA",
     "Profundidade do Sulco": "35",
-    "Fazenda": NaN
+    "Fazenda": null,
+    "Unnamed: 16": null
   },
   {
     "ID": "3596108",
@@ -15856,7 +16740,8 @@ const SULCACAO_DATA = [
     "OS": "440",
     "Frente": "101 - FRENTE MECANIZADA",
     "Profundidade do Sulco": "35",
-    "Fazenda": NaN
+    "Fazenda": null,
+    "Unnamed: 16": null
   },
   {
     "ID": "3596342",
@@ -15874,7 +16759,8 @@ const SULCACAO_DATA = [
     "OS": "377",
     "Frente": "142 - FRENTE BIDU",
     "Profundidade do Sulco": "40",
-    "Fazenda": NaN
+    "Fazenda": null,
+    "Unnamed: 16": null
   },
   {
     "ID": "3596252",
@@ -15892,7 +16778,8 @@ const SULCACAO_DATA = [
     "OS": "377",
     "Frente": "142 - FRENTE BIDU",
     "Profundidade do Sulco": "39",
-    "Fazenda": NaN
+    "Fazenda": null,
+    "Unnamed: 16": null
   },
   {
     "ID": "3595634",
@@ -15910,7 +16797,8 @@ const SULCACAO_DATA = [
     "OS": "274",
     "Frente": "261 - FRENTE PRÓPRIA  (EDMILSON)",
     "Profundidade do Sulco": "39",
-    "Fazenda": NaN
+    "Fazenda": null,
+    "Unnamed: 16": null
   },
   {
     "ID": "3595629",
@@ -15928,7 +16816,8 @@ const SULCACAO_DATA = [
     "OS": "274",
     "Frente": "261 - FRENTE PRÓPRIA  (EDMILSON)",
     "Profundidade do Sulco": "39",
-    "Fazenda": NaN
+    "Fazenda": null,
+    "Unnamed: 16": null
   },
   {
     "ID": "3595624",
@@ -15946,7 +16835,8 @@ const SULCACAO_DATA = [
     "OS": "274",
     "Frente": "261 - FRENTE PRÓPRIA  (EDMILSON)",
     "Profundidade do Sulco": "39",
-    "Fazenda": NaN
+    "Fazenda": null,
+    "Unnamed: 16": null
   },
   {
     "ID": "3595884",
@@ -15964,7 +16854,8 @@ const SULCACAO_DATA = [
     "OS": "416",
     "Frente": "105 - FRENTE CASSIO (ZACARIAS)",
     "Profundidade do Sulco": "39",
-    "Fazenda": NaN
+    "Fazenda": null,
+    "Unnamed: 16": null
   },
   {
     "ID": "3595879",
@@ -15982,7 +16873,8 @@ const SULCACAO_DATA = [
     "OS": "416",
     "Frente": "105 - FRENTE CASSIO (ZACARIAS)",
     "Profundidade do Sulco": "41",
-    "Fazenda": NaN
+    "Fazenda": null,
+    "Unnamed: 16": null
   },
   {
     "ID": "3595874",
@@ -16000,7 +16892,8 @@ const SULCACAO_DATA = [
     "OS": "416",
     "Frente": "105 - FRENTE CASSIO (ZACARIAS)",
     "Profundidade do Sulco": "39",
-    "Fazenda": NaN
+    "Fazenda": null,
+    "Unnamed: 16": null
   },
   {
     "ID": "3595869",
@@ -16018,7 +16911,8 @@ const SULCACAO_DATA = [
     "OS": "416",
     "Frente": "105 - FRENTE CASSIO (ZACARIAS)",
     "Profundidade do Sulco": "40",
-    "Fazenda": NaN
+    "Fazenda": null,
+    "Unnamed: 16": null
   },
   {
     "ID": "3595227",
@@ -16036,7 +16930,8 @@ const SULCACAO_DATA = [
     "OS": "200",
     "Frente": "135 - FRENTE PEDRINHO",
     "Profundidade do Sulco": "39",
-    "Fazenda": NaN
+    "Fazenda": null,
+    "Unnamed: 16": null
   },
   {
     "ID": "3595222",
@@ -16054,7 +16949,8 @@ const SULCACAO_DATA = [
     "OS": "200",
     "Frente": "135 - FRENTE PEDRINHO",
     "Profundidade do Sulco": "36",
-    "Fazenda": NaN
+    "Fazenda": null,
+    "Unnamed: 16": null
   },
   {
     "ID": "3594640",
@@ -16072,7 +16968,8 @@ const SULCACAO_DATA = [
     "OS": "419",
     "Frente": "139 - FRENTE MANEZÃO",
     "Profundidade do Sulco": "38",
-    "Fazenda": NaN
+    "Fazenda": null,
+    "Unnamed: 16": null
   },
   {
     "ID": "3595217",
@@ -16090,7 +16987,8 @@ const SULCACAO_DATA = [
     "OS": "200",
     "Frente": "135 - FRENTE PEDRINHO",
     "Profundidade do Sulco": "41",
-    "Fazenda": NaN
+    "Fazenda": null,
+    "Unnamed: 16": null
   },
   {
     "ID": "3594637",
@@ -16108,7 +17006,8 @@ const SULCACAO_DATA = [
     "OS": "419",
     "Frente": "139 - FRENTE MANEZÃO",
     "Profundidade do Sulco": "40",
-    "Fazenda": NaN
+    "Fazenda": null,
+    "Unnamed: 16": null
   },
   {
     "ID": "3594629",
@@ -16126,7 +17025,8 @@ const SULCACAO_DATA = [
     "OS": "419",
     "Frente": "139 - FRENTE MANEZÃO",
     "Profundidade do Sulco": "38",
-    "Fazenda": NaN
+    "Fazenda": null,
+    "Unnamed: 16": null
   },
   {
     "ID": "3594623",
@@ -16144,7 +17044,8 @@ const SULCACAO_DATA = [
     "OS": "419",
     "Frente": "139 - FRENTE MANEZÃO",
     "Profundidade do Sulco": "36",
-    "Fazenda": NaN
+    "Fazenda": null,
+    "Unnamed: 16": null
   },
   {
     "ID": "3595323",
@@ -16162,7 +17063,8 @@ const SULCACAO_DATA = [
     "OS": "377",
     "Frente": "142 - FRENTE BIDU",
     "Profundidade do Sulco": "39",
-    "Fazenda": NaN
+    "Fazenda": null,
+    "Unnamed: 16": null
   },
   {
     "ID": "3594613",
@@ -16180,7 +17082,8 @@ const SULCACAO_DATA = [
     "OS": "419",
     "Frente": "139 - FRENTE MANEZÃO",
     "Profundidade do Sulco": "37",
-    "Fazenda": NaN
+    "Fazenda": null,
+    "Unnamed: 16": null
   },
   {
     "ID": "3595319",
@@ -16198,7 +17101,8 @@ const SULCACAO_DATA = [
     "OS": "377",
     "Frente": "142 - FRENTE BIDU",
     "Profundidade do Sulco": "41",
-    "Fazenda": NaN
+    "Fazenda": null,
+    "Unnamed: 16": null
   },
   {
     "ID": "3594607",
@@ -16216,7 +17120,8 @@ const SULCACAO_DATA = [
     "OS": "419",
     "Frente": "139 - FRENTE MANEZÃO",
     "Profundidade do Sulco": "36",
-    "Fazenda": NaN
+    "Fazenda": null,
+    "Unnamed: 16": null
   },
   {
     "ID": "3594601",
@@ -16234,7 +17139,8 @@ const SULCACAO_DATA = [
     "OS": "419",
     "Frente": "139 - FRENTE MANEZÃO",
     "Profundidade do Sulco": "37",
-    "Fazenda": NaN
+    "Fazenda": null,
+    "Unnamed: 16": null
   },
   {
     "ID": "3594973",
@@ -16252,7 +17158,8 @@ const SULCACAO_DATA = [
     "OS": "274",
     "Frente": "261 - FRENTE PRÓPRIA  (EDMILSON)",
     "Profundidade do Sulco": "38",
-    "Fazenda": NaN
+    "Fazenda": null,
+    "Unnamed: 16": null
   },
   {
     "ID": "3594554",
@@ -16270,7 +17177,8 @@ const SULCACAO_DATA = [
     "OS": "419",
     "Frente": "139 - FRENTE MANEZÃO",
     "Profundidade do Sulco": "37",
-    "Fazenda": NaN
+    "Fazenda": null,
+    "Unnamed: 16": null
   },
   {
     "ID": "3595316",
@@ -16288,7 +17196,8 @@ const SULCACAO_DATA = [
     "OS": "377",
     "Frente": "142 - FRENTE BIDU",
     "Profundidade do Sulco": "39",
-    "Fazenda": NaN
+    "Fazenda": null,
+    "Unnamed: 16": null
   },
   {
     "ID": "3594968",
@@ -16306,7 +17215,8 @@ const SULCACAO_DATA = [
     "OS": "274",
     "Frente": "261 - FRENTE PRÓPRIA  (EDMILSON)",
     "Profundidade do Sulco": "38",
-    "Fazenda": NaN
+    "Fazenda": null,
+    "Unnamed: 16": null
   },
   {
     "ID": "3593368",
@@ -16324,7 +17234,8 @@ const SULCACAO_DATA = [
     "OS": "391",
     "Frente": "105 - FRENTE CASSIO (ZACARIAS)",
     "Profundidade do Sulco": "36",
-    "Fazenda": NaN
+    "Fazenda": null,
+    "Unnamed: 16": null
   },
   {
     "ID": "3594963",
@@ -16342,7 +17253,8 @@ const SULCACAO_DATA = [
     "OS": "274",
     "Frente": "261 - FRENTE PRÓPRIA  (EDMILSON)",
     "Profundidade do Sulco": "39",
-    "Fazenda": NaN
+    "Fazenda": null,
+    "Unnamed: 16": null
   },
   {
     "ID": "3595312",
@@ -16360,7 +17272,8 @@ const SULCACAO_DATA = [
     "OS": "377",
     "Frente": "142 - FRENTE BIDU",
     "Profundidade do Sulco": "39",
-    "Fazenda": NaN
+    "Fazenda": null,
+    "Unnamed: 16": null
   },
   {
     "ID": "3593364",
@@ -16378,7 +17291,8 @@ const SULCACAO_DATA = [
     "OS": "391",
     "Frente": "105 - FRENTE CASSIO (ZACARIAS)",
     "Profundidade do Sulco": "37",
-    "Fazenda": NaN
+    "Fazenda": null,
+    "Unnamed: 16": null
   },
   {
     "ID": "3593360",
@@ -16396,7 +17310,8 @@ const SULCACAO_DATA = [
     "OS": "391",
     "Frente": "105 - FRENTE CASSIO (ZACARIAS)",
     "Profundidade do Sulco": "36",
-    "Fazenda": NaN
+    "Fazenda": null,
+    "Unnamed: 16": null
   },
   {
     "ID": "3594542",
@@ -16414,7 +17329,8 @@ const SULCACAO_DATA = [
     "OS": "1111",
     "Frente": "139 - FRENTE MANEZÃO",
     "Profundidade do Sulco": "40",
-    "Fazenda": NaN
+    "Fazenda": null,
+    "Unnamed: 16": null
   },
   {
     "ID": "3593006",
@@ -16432,7 +17348,8 @@ const SULCACAO_DATA = [
     "OS": "274",
     "Frente": "261 - FRENTE PRÓPRIA  (EDMILSON)",
     "Profundidade do Sulco": "38",
-    "Fazenda": NaN
+    "Fazenda": null,
+    "Unnamed: 16": null
   },
   {
     "ID": "3594537",
@@ -16450,7 +17367,8 @@ const SULCACAO_DATA = [
     "OS": "1111",
     "Frente": "139 - FRENTE MANEZÃO",
     "Profundidade do Sulco": "39",
-    "Fazenda": NaN
+    "Fazenda": null,
+    "Unnamed: 16": null
   },
   {
     "ID": "3592999",
@@ -16468,7 +17386,8 @@ const SULCACAO_DATA = [
     "OS": "274",
     "Frente": "261 - FRENTE PRÓPRIA  (EDMILSON)",
     "Profundidade do Sulco": "38",
-    "Fazenda": NaN
+    "Fazenda": null,
+    "Unnamed: 16": null
   },
   {
     "ID": "3595206",
@@ -16486,7 +17405,8 @@ const SULCACAO_DATA = [
     "OS": "200",
     "Frente": "135 - FRENTE PEDRINHO",
     "Profundidade do Sulco": "39",
-    "Fazenda": NaN
+    "Fazenda": null,
+    "Unnamed: 16": null
   },
   {
     "ID": "3595303",
@@ -16504,7 +17424,8 @@ const SULCACAO_DATA = [
     "OS": "377",
     "Frente": "142 - FRENTE BIDU",
     "Profundidade do Sulco": "40",
-    "Fazenda": NaN
+    "Fazenda": null,
+    "Unnamed: 16": null
   },
   {
     "ID": "3594499",
@@ -16522,7 +17443,8 @@ const SULCACAO_DATA = [
     "OS": "1111",
     "Frente": "139 - FRENTE MANEZÃO",
     "Profundidade do Sulco": "40",
-    "Fazenda": NaN
+    "Fazenda": null,
+    "Unnamed: 16": null
   },
   {
     "ID": "3587041",
@@ -16540,7 +17462,8 @@ const SULCACAO_DATA = [
     "OS": "274",
     "Frente": "261 - FRENTE PRÓPRIA  (EDMILSON)",
     "Profundidade do Sulco": "38",
-    "Fazenda": NaN
+    "Fazenda": null,
+    "Unnamed: 16": null
   },
   {
     "ID": "3595202",
@@ -16558,7 +17481,8 @@ const SULCACAO_DATA = [
     "OS": "200",
     "Frente": "135 - FRENTE PEDRINHO",
     "Profundidade do Sulco": "39",
-    "Fazenda": NaN
+    "Fazenda": null,
+    "Unnamed: 16": null
   },
   {
     "ID": "3594493",
@@ -16576,7 +17500,8 @@ const SULCACAO_DATA = [
     "OS": "1111",
     "Frente": "139 - FRENTE MANEZÃO",
     "Profundidade do Sulco": "37",
-    "Fazenda": NaN
+    "Fazenda": null,
+    "Unnamed: 16": null
   },
   {
     "ID": "3595196",
@@ -16594,7 +17519,8 @@ const SULCACAO_DATA = [
     "OS": "200",
     "Frente": "135 - FRENTE PEDRINHO",
     "Profundidade do Sulco": "36",
-    "Fazenda": NaN
+    "Fazenda": null,
+    "Unnamed: 16": null
   },
   {
     "ID": "3595191",
@@ -16612,7 +17538,8 @@ const SULCACAO_DATA = [
     "OS": "200",
     "Frente": "135 - FRENTE PEDRINHO",
     "Profundidade do Sulco": "40",
-    "Fazenda": NaN
+    "Fazenda": null,
+    "Unnamed: 16": null
   },
   {
     "ID": "3594488",
@@ -16630,7 +17557,8 @@ const SULCACAO_DATA = [
     "OS": "1111",
     "Frente": "139 - FRENTE MANEZÃO",
     "Profundidade do Sulco": "40",
-    "Fazenda": NaN
+    "Fazenda": null,
+    "Unnamed: 16": null
   },
   {
     "ID": "3593347",
@@ -16648,7 +17576,8 @@ const SULCACAO_DATA = [
     "OS": "391",
     "Frente": "105 - FRENTE CASSIO (ZACARIAS)",
     "Profundidade do Sulco": "36",
-    "Fazenda": NaN
+    "Fazenda": null,
+    "Unnamed: 16": null
   },
   {
     "ID": "3593343",
@@ -16666,7 +17595,8 @@ const SULCACAO_DATA = [
     "OS": "391",
     "Frente": "105 - FRENTE CASSIO (ZACARIAS)",
     "Profundidade do Sulco": "35",
-    "Fazenda": NaN
+    "Fazenda": null,
+    "Unnamed: 16": null
   },
   {
     "ID": "3595297",
@@ -16684,7 +17614,8 @@ const SULCACAO_DATA = [
     "OS": "377",
     "Frente": "142 - FRENTE BIDU",
     "Profundidade do Sulco": "40",
-    "Fazenda": NaN
+    "Fazenda": null,
+    "Unnamed: 16": null
   },
   {
     "ID": "3594480",
@@ -16702,7 +17633,8 @@ const SULCACAO_DATA = [
     "OS": "1111",
     "Frente": "139 - FRENTE MANEZÃO",
     "Profundidade do Sulco": "39",
-    "Fazenda": NaN
+    "Fazenda": null,
+    "Unnamed: 16": null
   },
   {
     "ID": "3595292",
@@ -16720,7 +17652,8 @@ const SULCACAO_DATA = [
     "OS": "377",
     "Frente": "142 - FRENTE BIDU",
     "Profundidade do Sulco": "40",
-    "Fazenda": NaN
+    "Fazenda": null,
+    "Unnamed: 16": null
   },
   {
     "ID": "3594040",
@@ -16738,7 +17671,8 @@ const SULCACAO_DATA = [
     "OS": "377",
     "Frente": "142 - FRENTE BIDU",
     "Profundidade do Sulco": "41",
-    "Fazenda": NaN
+    "Fazenda": null,
+    "Unnamed: 16": null
   },
   {
     "ID": "3594475",
@@ -16756,7 +17690,8 @@ const SULCACAO_DATA = [
     "OS": "1111",
     "Frente": "139 - FRENTE MANEZÃO",
     "Profundidade do Sulco": "36",
-    "Fazenda": NaN
+    "Fazenda": null,
+    "Unnamed: 16": null
   },
   {
     "ID": "3593333",
@@ -16774,7 +17709,8 @@ const SULCACAO_DATA = [
     "OS": "391",
     "Frente": "105 - FRENTE CASSIO (ZACARIAS)",
     "Profundidade do Sulco": "37",
-    "Fazenda": NaN
+    "Fazenda": null,
+    "Unnamed: 16": null
   },
   {
     "ID": "3592976",
@@ -16792,7 +17728,8 @@ const SULCACAO_DATA = [
     "OS": "274",
     "Frente": "261 - FRENTE PRÓPRIA  (EDMILSON)",
     "Profundidade do Sulco": "38",
-    "Fazenda": NaN
+    "Fazenda": null,
+    "Unnamed: 16": null
   },
   {
     "ID": "3593810",
@@ -16810,7 +17747,8 @@ const SULCACAO_DATA = [
     "OS": "373",
     "Frente": "143 - FRENTE CASSIO",
     "Profundidade do Sulco": "38",
-    "Fazenda": NaN
+    "Fazenda": null,
+    "Unnamed: 16": null
   },
   {
     "ID": "3593329",
@@ -16828,7 +17766,8 @@ const SULCACAO_DATA = [
     "OS": "391",
     "Frente": "105 - FRENTE CASSIO (ZACARIAS)",
     "Profundidade do Sulco": "35",
-    "Fazenda": NaN
+    "Fazenda": null,
+    "Unnamed: 16": null
   },
   {
     "ID": "3593807",
@@ -16846,7 +17785,8 @@ const SULCACAO_DATA = [
     "OS": "373",
     "Frente": "143 - FRENTE CASSIO",
     "Profundidade do Sulco": "37",
-    "Fazenda": NaN
+    "Fazenda": null,
+    "Unnamed: 16": null
   },
   {
     "ID": "3592971",
@@ -16864,7 +17804,8 @@ const SULCACAO_DATA = [
     "OS": "274",
     "Frente": "261 - FRENTE PRÓPRIA  (EDMILSON)",
     "Profundidade do Sulco": "39",
-    "Fazenda": NaN
+    "Fazenda": null,
+    "Unnamed: 16": null
   },
   {
     "ID": "3594470",
@@ -16882,7 +17823,8 @@ const SULCACAO_DATA = [
     "OS": "1111",
     "Frente": "139 - FRENTE MANEZÃO",
     "Profundidade do Sulco": "39",
-    "Fazenda": NaN
+    "Fazenda": null,
+    "Unnamed: 16": null
   },
   {
     "ID": "3593806",
@@ -16900,7 +17842,8 @@ const SULCACAO_DATA = [
     "OS": "373",
     "Frente": "143 - FRENTE CASSIO",
     "Profundidade do Sulco": "38",
-    "Fazenda": NaN
+    "Fazenda": null,
+    "Unnamed: 16": null
   },
   {
     "ID": "3593325",
@@ -16918,7 +17861,8 @@ const SULCACAO_DATA = [
     "OS": "391",
     "Frente": "105 - FRENTE CASSIO (ZACARIAS)",
     "Profundidade do Sulco": "37",
-    "Fazenda": NaN
+    "Fazenda": null,
+    "Unnamed: 16": null
   },
   {
     "ID": "3595182",
@@ -16936,7 +17880,8 @@ const SULCACAO_DATA = [
     "OS": "200",
     "Frente": "135 - FRENTE PEDRINHO",
     "Profundidade do Sulco": "37",
-    "Fazenda": NaN
+    "Fazenda": null,
+    "Unnamed: 16": null
   },
   {
     "ID": "3593804",
@@ -16954,7 +17899,8 @@ const SULCACAO_DATA = [
     "OS": "373",
     "Frente": "143 - FRENTE CASSIO",
     "Profundidade do Sulco": "37",
-    "Fazenda": NaN
+    "Fazenda": null,
+    "Unnamed: 16": null
   },
   {
     "ID": "3595178",
@@ -16972,7 +17918,8 @@ const SULCACAO_DATA = [
     "OS": "200",
     "Frente": "135 - FRENTE PEDRINHO",
     "Profundidade do Sulco": "41",
-    "Fazenda": NaN
+    "Fazenda": null,
+    "Unnamed: 16": null
   },
   {
     "ID": "3592965",
@@ -16990,7 +17937,8 @@ const SULCACAO_DATA = [
     "OS": "274",
     "Frente": "261 - FRENTE PRÓPRIA  (EDMILSON)",
     "Profundidade do Sulco": "38",
-    "Fazenda": NaN
+    "Fazenda": null,
+    "Unnamed: 16": null
   },
   {
     "ID": "3593321",
@@ -17008,7 +17956,8 @@ const SULCACAO_DATA = [
     "OS": "391",
     "Frente": "105 - FRENTE CASSIO (ZACARIAS)",
     "Profundidade do Sulco": "36",
-    "Fazenda": NaN
+    "Fazenda": null,
+    "Unnamed: 16": null
   },
   {
     "ID": "3592960",
@@ -17026,7 +17975,8 @@ const SULCACAO_DATA = [
     "OS": "274",
     "Frente": "261 - FRENTE PRÓPRIA  (EDMILSON)",
     "Profundidade do Sulco": "39",
-    "Fazenda": NaN
+    "Fazenda": null,
+    "Unnamed: 16": null
   },
   {
     "ID": "3595172",
@@ -17044,7 +17994,8 @@ const SULCACAO_DATA = [
     "OS": "200",
     "Frente": "135 - FRENTE PEDRINHO",
     "Profundidade do Sulco": "40",
-    "Fazenda": NaN
+    "Fazenda": null,
+    "Unnamed: 16": null
   },
   {
     "ID": "3595167",
@@ -17062,7 +18013,8 @@ const SULCACAO_DATA = [
     "OS": "200",
     "Frente": "135 - FRENTE PEDRINHO",
     "Profundidade do Sulco": "37",
-    "Fazenda": NaN
+    "Fazenda": null,
+    "Unnamed: 16": null
   },
   {
     "ID": "3593317",
@@ -17080,7 +18032,8 @@ const SULCACAO_DATA = [
     "OS": "391",
     "Frente": "105 - FRENTE CASSIO (ZACARIAS)",
     "Profundidade do Sulco": "36",
-    "Fazenda": NaN
+    "Fazenda": null,
+    "Unnamed: 16": null
   },
   {
     "ID": "3592953",
@@ -17098,7 +18051,8 @@ const SULCACAO_DATA = [
     "OS": "274",
     "Frente": "261 - FRENTE PRÓPRIA  (EDMILSON)",
     "Profundidade do Sulco": "38",
-    "Fazenda": NaN
+    "Fazenda": null,
+    "Unnamed: 16": null
   },
   {
     "ID": "3593313",
@@ -17116,7 +18070,8 @@ const SULCACAO_DATA = [
     "OS": "391",
     "Frente": "105 - FRENTE CASSIO (ZACARIAS)",
     "Profundidade do Sulco": "37",
-    "Fazenda": NaN
+    "Fazenda": null,
+    "Unnamed: 16": null
   },
   {
     "ID": "3592948",
@@ -17134,7 +18089,8 @@ const SULCACAO_DATA = [
     "OS": "274",
     "Frente": "261 - FRENTE PRÓPRIA  (EDMILSON)",
     "Profundidade do Sulco": "38",
-    "Fazenda": NaN
+    "Fazenda": null,
+    "Unnamed: 16": null
   },
   {
     "ID": "3592939",
@@ -17152,7 +18108,8 @@ const SULCACAO_DATA = [
     "OS": "274",
     "Frente": "261 - FRENTE PRÓPRIA  (EDMILSON)",
     "Profundidade do Sulco": "38",
-    "Fazenda": NaN
+    "Fazenda": null,
+    "Unnamed: 16": null
   },
   {
     "ID": "3592934",
@@ -17170,7 +18127,8 @@ const SULCACAO_DATA = [
     "OS": "274",
     "Frente": "261 - FRENTE PRÓPRIA  (EDMILSON)",
     "Profundidade do Sulco": "38",
-    "Fazenda": NaN
+    "Fazenda": null,
+    "Unnamed: 16": null
   },
   {
     "ID": "3592929",
@@ -17188,7 +18146,8 @@ const SULCACAO_DATA = [
     "OS": "274",
     "Frente": "261 - FRENTE PRÓPRIA  (EDMILSON)",
     "Profundidade do Sulco": "38",
-    "Fazenda": NaN
+    "Fazenda": null,
+    "Unnamed: 16": null
   },
   {
     "ID": "3591195",
@@ -17206,7 +18165,8 @@ const SULCACAO_DATA = [
     "OS": "274",
     "Frente": "261 - FRENTE PRÓPRIA  (EDMILSON)",
     "Profundidade do Sulco": "38",
-    "Fazenda": NaN
+    "Fazenda": null,
+    "Unnamed: 16": null
   },
   {
     "ID": "3591190",
@@ -17224,7 +18184,8 @@ const SULCACAO_DATA = [
     "OS": "274",
     "Frente": "261 - FRENTE PRÓPRIA  (EDMILSON)",
     "Profundidade do Sulco": "39",
-    "Fazenda": NaN
+    "Fazenda": null,
+    "Unnamed: 16": null
   },
   {
     "ID": "3591185",
@@ -17242,7 +18203,8 @@ const SULCACAO_DATA = [
     "OS": "274",
     "Frente": "261 - FRENTE PRÓPRIA  (EDMILSON)",
     "Profundidade do Sulco": "38",
-    "Fazenda": NaN
+    "Fazenda": null,
+    "Unnamed: 16": null
   },
   {
     "ID": "3591180",
@@ -17260,7 +18222,8 @@ const SULCACAO_DATA = [
     "OS": "274",
     "Frente": "261 - FRENTE PRÓPRIA  (EDMILSON)",
     "Profundidade do Sulco": "38",
-    "Fazenda": NaN
+    "Fazenda": null,
+    "Unnamed: 16": null
   },
   {
     "ID": "3590606",
@@ -17278,7 +18241,8 @@ const SULCACAO_DATA = [
     "OS": "373",
     "Frente": "143 - FRENTE CASSIO",
     "Profundidade do Sulco": "37",
-    "Fazenda": NaN
+    "Fazenda": null,
+    "Unnamed: 16": null
   },
   {
     "ID": "3591175",
@@ -17296,7 +18260,8 @@ const SULCACAO_DATA = [
     "OS": "274",
     "Frente": "261 - FRENTE PRÓPRIA  (EDMILSON)",
     "Profundidade do Sulco": "38",
-    "Fazenda": NaN
+    "Fazenda": null,
+    "Unnamed: 16": null
   },
   {
     "ID": "3590440",
@@ -17314,7 +18279,8 @@ const SULCACAO_DATA = [
     "OS": "269",
     "Frente": "105 - FRENTE CASSIO",
     "Profundidade do Sulco": "36",
-    "Fazenda": NaN
+    "Fazenda": null,
+    "Unnamed: 16": null
   },
   {
     "ID": "3590435",
@@ -17332,7 +18298,8 @@ const SULCACAO_DATA = [
     "OS": "269",
     "Frente": "105 - FRENTE CASSIO",
     "Profundidade do Sulco": "35",
-    "Fazenda": NaN
+    "Fazenda": null,
+    "Unnamed: 16": null
   },
   {
     "ID": "3590430",
@@ -17350,7 +18317,8 @@ const SULCACAO_DATA = [
     "OS": "269",
     "Frente": "105 - FRENTE CASSIO",
     "Profundidade do Sulco": "36",
-    "Fazenda": NaN
+    "Fazenda": null,
+    "Unnamed: 16": null
   },
   {
     "ID": "3590599",
@@ -17368,7 +18336,8 @@ const SULCACAO_DATA = [
     "OS": "373",
     "Frente": "143 - FRENTE CASSIO",
     "Profundidade do Sulco": "38",
-    "Fazenda": NaN
+    "Fazenda": null,
+    "Unnamed: 16": null
   },
   {
     "ID": "3590595",
@@ -17386,7 +18355,8 @@ const SULCACAO_DATA = [
     "OS": "373",
     "Frente": "143 - FRENTE CASSIO",
     "Profundidade do Sulco": "37",
-    "Fazenda": NaN
+    "Fazenda": null,
+    "Unnamed: 16": null
   },
   {
     "ID": "3590591",
@@ -17404,7 +18374,8 @@ const SULCACAO_DATA = [
     "OS": "373",
     "Frente": "143 - FRENTE CASSIO",
     "Profundidade do Sulco": "38",
-    "Fazenda": NaN
+    "Fazenda": null,
+    "Unnamed: 16": null
   },
   {
     "ID": "3590384",
@@ -17422,7 +18393,8 @@ const SULCACAO_DATA = [
     "OS": "269",
     "Frente": "105 - FRENTE CASSIO (ZACARIAS)",
     "Profundidade do Sulco": "36",
-    "Fazenda": NaN
+    "Fazenda": null,
+    "Unnamed: 16": null
   },
   {
     "ID": "3590378",
@@ -17440,7 +18412,8 @@ const SULCACAO_DATA = [
     "OS": "269",
     "Frente": "105 - FRENTE CASSIO (ZACARIAS)",
     "Profundidade do Sulco": "35",
-    "Fazenda": NaN
+    "Fazenda": null,
+    "Unnamed: 16": null
   },
   {
     "ID": "3590374",
@@ -17458,7 +18431,8 @@ const SULCACAO_DATA = [
     "OS": "269",
     "Frente": "105 - FRENTE CASSIO (ZACARIAS)",
     "Profundidade do Sulco": "37",
-    "Fazenda": NaN
+    "Fazenda": null,
+    "Unnamed: 16": null
   },
   {
     "ID": "3590370",
@@ -17476,7 +18450,8 @@ const SULCACAO_DATA = [
     "OS": "269",
     "Frente": "105 - FRENTE CASSIO (ZACARIAS)",
     "Profundidade do Sulco": "36",
-    "Fazenda": NaN
+    "Fazenda": null,
+    "Unnamed: 16": null
   },
   {
     "ID": "3590365",
@@ -17494,7 +18469,8 @@ const SULCACAO_DATA = [
     "OS": "269",
     "Frente": "105 - FRENTE CASSIO (ZACARIAS)",
     "Profundidade do Sulco": "36",
-    "Fazenda": NaN
+    "Fazenda": null,
+    "Unnamed: 16": null
   },
   {
     "ID": "3590420",
@@ -17512,7 +18488,8 @@ const SULCACAO_DATA = [
     "OS": "1111",
     "Frente": "139 - FRENTE MANEZÃO",
     "Profundidade do Sulco": "37",
-    "Fazenda": NaN
+    "Fazenda": null,
+    "Unnamed: 16": null
   },
   {
     "ID": "3590361",
@@ -17530,7 +18507,8 @@ const SULCACAO_DATA = [
     "OS": "269",
     "Frente": "105 - FRENTE CASSIO (ZACARIAS)",
     "Profundidade do Sulco": "35",
-    "Fazenda": NaN
+    "Fazenda": null,
+    "Unnamed: 16": null
   },
   {
     "ID": "3591033",
@@ -17548,7 +18526,8 @@ const SULCACAO_DATA = [
     "OS": "1111",
     "Frente": "139 - FRENTE MANEZÃO",
     "Profundidade do Sulco": "40",
-    "Fazenda": NaN
+    "Fazenda": null,
+    "Unnamed: 16": null
   },
   {
     "ID": "3591031",
@@ -17566,7 +18545,8 @@ const SULCACAO_DATA = [
     "OS": "1111",
     "Frente": "139 - FRENTE MANEZÃO",
     "Profundidade do Sulco": "39",
-    "Fazenda": NaN
+    "Fazenda": null,
+    "Unnamed: 16": null
   },
   {
     "ID": "3591030",
@@ -17584,7 +18564,8 @@ const SULCACAO_DATA = [
     "OS": "1111",
     "Frente": "139 - FRENTE MANEZÃO",
     "Profundidade do Sulco": "40",
-    "Fazenda": NaN
+    "Fazenda": null,
+    "Unnamed: 16": null
   },
   {
     "ID": "3591029",
@@ -17602,7 +18583,8 @@ const SULCACAO_DATA = [
     "OS": "1111",
     "Frente": "139 - FRENTE MANEZÃO",
     "Profundidade do Sulco": "40",
-    "Fazenda": NaN
+    "Fazenda": null,
+    "Unnamed: 16": null
   },
   {
     "ID": "3591028",
@@ -17620,7 +18602,8 @@ const SULCACAO_DATA = [
     "OS": "1111",
     "Frente": "139 - FRENTE MANEZÃO",
     "Profundidade do Sulco": "38",
-    "Fazenda": NaN
+    "Fazenda": null,
+    "Unnamed: 16": null
   },
   {
     "ID": "3590415",
@@ -17638,7 +18621,8 @@ const SULCACAO_DATA = [
     "OS": "1111",
     "Frente": "139 - FRENTE MANEZÃO",
     "Profundidade do Sulco": "42",
-    "Fazenda": NaN
+    "Fazenda": null,
+    "Unnamed: 16": null
   },
   {
     "ID": "3590356",
@@ -17656,7 +18640,8 @@ const SULCACAO_DATA = [
     "OS": "269",
     "Frente": "105 - FRENTE CASSIO (ZACARIAS)",
     "Profundidade do Sulco": "36",
-    "Fazenda": NaN
+    "Fazenda": null,
+    "Unnamed: 16": null
   },
   {
     "ID": "3591151",
@@ -17674,7 +18659,8 @@ const SULCACAO_DATA = [
     "OS": "274",
     "Frente": "261 - FRENTE PRÓPRIA  (EDMILSON)",
     "Profundidade do Sulco": "39",
-    "Fazenda": NaN
+    "Fazenda": null,
+    "Unnamed: 16": null
   },
   {
     "ID": "3590352",
@@ -17692,7 +18678,8 @@ const SULCACAO_DATA = [
     "OS": "269",
     "Frente": "105 - FRENTE CASSIO (ZACARIAS)",
     "Profundidade do Sulco": "37",
-    "Fazenda": NaN
+    "Fazenda": null,
+    "Unnamed: 16": null
   },
   {
     "ID": "3591142",
@@ -17710,7 +18697,8 @@ const SULCACAO_DATA = [
     "OS": "274",
     "Frente": "261 - FRENTE PRÓPRIA  (EDMILSON)",
     "Profundidade do Sulco": "38",
-    "Fazenda": NaN
+    "Fazenda": null,
+    "Unnamed: 16": null
   },
   {
     "ID": "3590410",
@@ -17728,7 +18716,8 @@ const SULCACAO_DATA = [
     "OS": "1111",
     "Frente": "139 - FRENTE MANEZÃO",
     "Profundidade do Sulco": "40",
-    "Fazenda": NaN
+    "Fazenda": null,
+    "Unnamed: 16": null
   },
   {
     "ID": "3590348",
@@ -17746,7 +18735,8 @@ const SULCACAO_DATA = [
     "OS": "269",
     "Frente": "105 - FRENTE CASSIO (ZACARIAS)",
     "Profundidade do Sulco": "35",
-    "Fazenda": NaN
+    "Fazenda": null,
+    "Unnamed: 16": null
   },
   {
     "ID": "3591136",
@@ -17764,7 +18754,8 @@ const SULCACAO_DATA = [
     "OS": "274",
     "Frente": "261 - FRENTE PRÓPRIA  (EDMILSON)",
     "Profundidade do Sulco": "38",
-    "Fazenda": NaN
+    "Fazenda": null,
+    "Unnamed: 16": null
   },
   {
     "ID": "3590405",
@@ -17782,7 +18773,8 @@ const SULCACAO_DATA = [
     "OS": "1111",
     "Frente": "139 - FRENTE MANEZÃO",
     "Profundidade do Sulco": "36",
-    "Fazenda": NaN
+    "Fazenda": null,
+    "Unnamed: 16": null
   },
   {
     "ID": "3590344",
@@ -17800,7 +18792,8 @@ const SULCACAO_DATA = [
     "OS": "269",
     "Frente": "105 - FRENTE CASSIO (ZACARIAS)",
     "Profundidade do Sulco": "35",
-    "Fazenda": NaN
+    "Fazenda": null,
+    "Unnamed: 16": null
   },
   {
     "ID": "3591131",
@@ -17818,7 +18811,8 @@ const SULCACAO_DATA = [
     "OS": "274",
     "Frente": "261 - FRENTE PRÓPRIA  (EDMILSON)",
     "Profundidade do Sulco": "39",
-    "Fazenda": NaN
+    "Fazenda": null,
+    "Unnamed: 16": null
   },
   {
     "ID": "3591021",
@@ -17836,7 +18830,8 @@ const SULCACAO_DATA = [
     "OS": "1111",
     "Frente": "142 - FRENTE BIDU",
     "Profundidade do Sulco": "38",
-    "Fazenda": NaN
+    "Fazenda": null,
+    "Unnamed: 16": null
   },
   {
     "ID": "3591022",
@@ -17854,7 +18849,8 @@ const SULCACAO_DATA = [
     "OS": "1111",
     "Frente": "142 - FRENTE BIDU",
     "Profundidade do Sulco": "41",
-    "Fazenda": NaN
+    "Fazenda": null,
+    "Unnamed: 16": null
   },
   {
     "ID": "3590401",
@@ -17872,7 +18868,8 @@ const SULCACAO_DATA = [
     "OS": "1111",
     "Frente": "139 - FRENTE MANEZÃO",
     "Profundidade do Sulco": "41",
-    "Fazenda": NaN
+    "Fazenda": null,
+    "Unnamed: 16": null
   },
   {
     "ID": "3591125",
@@ -17890,7 +18887,8 @@ const SULCACAO_DATA = [
     "OS": "274",
     "Frente": "261 - FRENTE PRÓPRIA  (EDMILSON)",
     "Profundidade do Sulco": "38",
-    "Fazenda": NaN
+    "Fazenda": null,
+    "Unnamed: 16": null
   },
   {
     "ID": "3591120",
@@ -17908,7 +18906,8 @@ const SULCACAO_DATA = [
     "OS": "274",
     "Frente": "261 - FRENTE PRÓPRIA  (EDMILSON)",
     "Profundidade do Sulco": "38",
-    "Fazenda": NaN
+    "Fazenda": null,
+    "Unnamed: 16": null
   },
   {
     "ID": "3591011",
@@ -17926,7 +18925,8 @@ const SULCACAO_DATA = [
     "OS": "338",
     "Frente": "142 - FRENTE BIDU",
     "Profundidade do Sulco": "40",
-    "Fazenda": NaN
+    "Fazenda": null,
+    "Unnamed: 16": null
   },
   {
     "ID": "3591006",
@@ -17944,7 +18944,8 @@ const SULCACAO_DATA = [
     "OS": "338",
     "Frente": "142 - FRENTE BIDU",
     "Profundidade do Sulco": "40",
-    "Fazenda": NaN
+    "Fazenda": null,
+    "Unnamed: 16": null
   },
   {
     "ID": "3591099",
@@ -17962,7 +18963,8 @@ const SULCACAO_DATA = [
     "OS": "338",
     "Frente": "142 - FRENTE BIDU",
     "Profundidade do Sulco": "40",
-    "Fazenda": NaN
+    "Fazenda": null,
+    "Unnamed: 16": null
   },
   {
     "ID": "3590992",
@@ -17980,7 +18982,8 @@ const SULCACAO_DATA = [
     "OS": "338",
     "Frente": "142 - FRENTE BIDU",
     "Profundidade do Sulco": "40",
-    "Fazenda": NaN
+    "Fazenda": null,
+    "Unnamed: 16": null
   },
   {
     "ID": "3590987",
@@ -17998,7 +19001,8 @@ const SULCACAO_DATA = [
     "OS": "338",
     "Frente": "142 - FRENTE BIDU",
     "Profundidade do Sulco": "40",
-    "Fazenda": NaN
+    "Fazenda": null,
+    "Unnamed: 16": null
   },
   {
     "ID": "3590980",
@@ -18016,7 +19020,8 @@ const SULCACAO_DATA = [
     "OS": "338",
     "Frente": "142 - FRENTE BIDU",
     "Profundidade do Sulco": "39",
-    "Fazenda": NaN
+    "Fazenda": null,
+    "Unnamed: 16": null
   },
   {
     "ID": "3588338",
@@ -18034,7 +19039,8 @@ const SULCACAO_DATA = [
     "OS": "274",
     "Frente": "261 - FRENTE PRÓPRIA  (EDMILSON)",
     "Profundidade do Sulco": "36",
-    "Fazenda": NaN
+    "Fazenda": null,
+    "Unnamed: 16": null
   },
   {
     "ID": "3588333",
@@ -18052,7 +19058,8 @@ const SULCACAO_DATA = [
     "OS": "274",
     "Frente": "261 - FRENTE PRÓPRIA  (EDMILSON)",
     "Profundidade do Sulco": "38",
-    "Fazenda": NaN
+    "Fazenda": null,
+    "Unnamed: 16": null
   },
   {
     "ID": "3588328",
@@ -18070,7 +19077,8 @@ const SULCACAO_DATA = [
     "OS": "274",
     "Frente": "261 - FRENTE PRÓPRIA  (EDMILSON)",
     "Profundidade do Sulco": "38",
-    "Fazenda": NaN
+    "Fazenda": null,
+    "Unnamed: 16": null
   },
   {
     "ID": "3587944",
@@ -18088,7 +19096,8 @@ const SULCACAO_DATA = [
     "OS": "338",
     "Frente": "142 - FRENTE BIDU",
     "Profundidade do Sulco": "39",
-    "Fazenda": NaN
+    "Fazenda": null,
+    "Unnamed: 16": null
   },
   {
     "ID": "3587941",
@@ -18106,7 +19115,8 @@ const SULCACAO_DATA = [
     "OS": "338",
     "Frente": "142 - FRENTE BIDU",
     "Profundidade do Sulco": "40",
-    "Fazenda": NaN
+    "Fazenda": null,
+    "Unnamed: 16": null
   },
   {
     "ID": "3587856",
@@ -18124,7 +19134,8 @@ const SULCACAO_DATA = [
     "OS": "274",
     "Frente": "261 - FRENTE PRÓPRIA  (EDMILSON)",
     "Profundidade do Sulco": "38",
-    "Fazenda": NaN
+    "Fazenda": null,
+    "Unnamed: 16": null
   },
   {
     "ID": "3588592",
@@ -18142,7 +19153,8 @@ const SULCACAO_DATA = [
     "OS": "273",
     "Frente": "135 - FRENTE PEDRINHO",
     "Profundidade do Sulco": "41",
-    "Fazenda": NaN
+    "Fazenda": null,
+    "Unnamed: 16": null
   },
   {
     "ID": "3587849",
@@ -18160,7 +19172,8 @@ const SULCACAO_DATA = [
     "OS": "274",
     "Frente": "261 - FRENTE PRÓPRIA  (EDMILSON)",
     "Profundidade do Sulco": "39",
-    "Fazenda": NaN
+    "Fazenda": null,
+    "Unnamed: 16": null
   },
   {
     "ID": "3588528",
@@ -18178,7 +19191,8 @@ const SULCACAO_DATA = [
     "OS": "273",
     "Frente": "135 - FRENTE PEDRINHO",
     "Profundidade do Sulco": "41",
-    "Fazenda": NaN
+    "Fazenda": null,
+    "Unnamed: 16": null
   },
   {
     "ID": "3587845",
@@ -18196,7 +19210,8 @@ const SULCACAO_DATA = [
     "OS": "274",
     "Frente": "261 - FRENTE PRÓPRIA  (EDMILSON)",
     "Profundidade do Sulco": "38",
-    "Fazenda": NaN
+    "Fazenda": null,
+    "Unnamed: 16": null
   },
   {
     "ID": "3587840",
@@ -18214,7 +19229,8 @@ const SULCACAO_DATA = [
     "OS": "274",
     "Frente": "261 - FRENTE PRÓPRIA  (EDMILSON)",
     "Profundidade do Sulco": "38",
-    "Fazenda": NaN
+    "Fazenda": null,
+    "Unnamed: 16": null
   },
   {
     "ID": "3587836",
@@ -18232,7 +19248,8 @@ const SULCACAO_DATA = [
     "OS": "274",
     "Frente": "261 - FRENTE PRÓPRIA  (EDMILSON)",
     "Profundidade do Sulco": "38",
-    "Fazenda": NaN
+    "Fazenda": null,
+    "Unnamed: 16": null
   },
   {
     "ID": "3587831",
@@ -18250,7 +19267,8 @@ const SULCACAO_DATA = [
     "OS": "274",
     "Frente": "261 - FRENTE PRÓPRIA  (EDMILSON)",
     "Profundidade do Sulco": "37",
-    "Fazenda": NaN
+    "Fazenda": null,
+    "Unnamed: 16": null
   },
   {
     "ID": "3587826",
@@ -18268,7 +19286,8 @@ const SULCACAO_DATA = [
     "OS": "274",
     "Frente": "261 - FRENTE PRÓPRIA  (EDMILSON)",
     "Profundidade do Sulco": "38",
-    "Fazenda": NaN
+    "Fazenda": null,
+    "Unnamed: 16": null
   },
   {
     "ID": "3587341",
@@ -18286,7 +19305,8 @@ const SULCACAO_DATA = [
     "OS": "269",
     "Frente": "105 - FRENTE CASSIO (ZACARIAS)",
     "Profundidade do Sulco": "37",
-    "Fazenda": NaN
+    "Fazenda": null,
+    "Unnamed: 16": null
   },
   {
     "ID": "3587339",
@@ -18304,7 +19324,8 @@ const SULCACAO_DATA = [
     "OS": "269",
     "Frente": "105 - FRENTE CASSIO (ZACARIAS)",
     "Profundidade do Sulco": "36",
-    "Fazenda": NaN
+    "Fazenda": null,
+    "Unnamed: 16": null
   },
   {
     "ID": "3587337",
@@ -18322,7 +19343,8 @@ const SULCACAO_DATA = [
     "OS": "269",
     "Frente": "105 - FRENTE CASSIO (ZACARIAS)",
     "Profundidade do Sulco": "37",
-    "Fazenda": NaN
+    "Fazenda": null,
+    "Unnamed: 16": null
   },
   {
     "ID": "3588504",
@@ -18340,7 +19362,8 @@ const SULCACAO_DATA = [
     "OS": "300",
     "Frente": "135 - FRENTE PEDRINHO",
     "Profundidade do Sulco": "37",
-    "Fazenda": NaN
+    "Fazenda": null,
+    "Unnamed: 16": null
   },
   {
     "ID": "3588499",
@@ -18358,7 +19381,8 @@ const SULCACAO_DATA = [
     "OS": "300",
     "Frente": "135 - FRENTE PEDRINHO",
     "Profundidade do Sulco": "40",
-    "Fazenda": NaN
+    "Fazenda": null,
+    "Unnamed: 16": null
   },
   {
     "ID": "3587335",
@@ -18376,7 +19400,8 @@ const SULCACAO_DATA = [
     "OS": "269",
     "Frente": "105 - FRENTE CASSIO (ZACARIAS)",
     "Profundidade do Sulco": "34",
-    "Fazenda": NaN
+    "Fazenda": null,
+    "Unnamed: 16": null
   },
   {
     "ID": "3587333",
@@ -18394,7 +19419,8 @@ const SULCACAO_DATA = [
     "OS": "269",
     "Frente": "105 - FRENTE CASSIO (ZACARIAS)",
     "Profundidade do Sulco": "35",
-    "Fazenda": NaN
+    "Fazenda": null,
+    "Unnamed: 16": null
   },
   {
     "ID": "3588494",
@@ -18412,7 +19438,8 @@ const SULCACAO_DATA = [
     "OS": "300",
     "Frente": "135 - FRENTE PEDRINHO",
     "Profundidade do Sulco": "38",
-    "Fazenda": NaN
+    "Fazenda": null,
+    "Unnamed: 16": null
   },
   {
     "ID": "3588315",
@@ -18430,7 +19457,8 @@ const SULCACAO_DATA = [
     "OS": "300",
     "Frente": "135 - PEDRINHO ",
     "Profundidade do Sulco": "37",
-    "Fazenda": NaN
+    "Fazenda": null,
+    "Unnamed: 16": null
   },
   {
     "ID": "3587232",
@@ -18448,7 +19476,8 @@ const SULCACAO_DATA = [
     "OS": "295",
     "Frente": "139 - FRENTE MANEZÃO",
     "Profundidade do Sulco": "40",
-    "Fazenda": NaN
+    "Fazenda": null,
+    "Unnamed: 16": null
   },
   {
     "ID": "3588310",
@@ -18466,7 +19495,8 @@ const SULCACAO_DATA = [
     "OS": "300",
     "Frente": "135 - PEDRINHO ",
     "Profundidade do Sulco": "42",
-    "Fazenda": NaN
+    "Fazenda": null,
+    "Unnamed: 16": null
   },
   {
     "ID": "3587227",
@@ -18484,7 +19514,8 @@ const SULCACAO_DATA = [
     "OS": "295",
     "Frente": "139 - FRENTE MANEZÃO",
     "Profundidade do Sulco": "39",
-    "Fazenda": NaN
+    "Fazenda": null,
+    "Unnamed: 16": null
   },
   {
     "ID": "3588305",
@@ -18502,7 +19533,8 @@ const SULCACAO_DATA = [
     "OS": "300",
     "Frente": "135 - PEDRINHO ",
     "Profundidade do Sulco": "37",
-    "Fazenda": NaN
+    "Fazenda": null,
+    "Unnamed: 16": null
   },
   {
     "ID": "3587220",
@@ -18520,7 +19552,8 @@ const SULCACAO_DATA = [
     "OS": "295",
     "Frente": "139 - FRENTE MANEZÃO",
     "Profundidade do Sulco": "38",
-    "Fazenda": NaN
+    "Fazenda": null,
+    "Unnamed: 16": null
   },
   {
     "ID": "3587215",
@@ -18538,7 +19571,8 @@ const SULCACAO_DATA = [
     "OS": "295",
     "Frente": "139 - FRENTE MANEZÃO",
     "Profundidade do Sulco": "36",
-    "Fazenda": NaN
+    "Fazenda": null,
+    "Unnamed: 16": null
   },
   {
     "ID": "3587209",
@@ -18556,7 +19590,8 @@ const SULCACAO_DATA = [
     "OS": "295",
     "Frente": "139 - FRENTE MANEZÃO",
     "Profundidade do Sulco": "38",
-    "Fazenda": NaN
+    "Fazenda": null,
+    "Unnamed: 16": null
   },
   {
     "ID": "3587206",
@@ -18574,7 +19609,8 @@ const SULCACAO_DATA = [
     "OS": "295",
     "Frente": "139 - FRENTE MANEZÃO",
     "Profundidade do Sulco": "39",
-    "Fazenda": NaN
+    "Fazenda": null,
+    "Unnamed: 16": null
   },
   {
     "ID": "3588300",
@@ -18592,7 +19628,8 @@ const SULCACAO_DATA = [
     "OS": "273",
     "Frente": "135 - PEDRINHO ",
     "Profundidade do Sulco": "38",
-    "Fazenda": NaN
+    "Fazenda": null,
+    "Unnamed: 16": null
   },
   {
     "ID": "3588295",
@@ -18610,7 +19647,8 @@ const SULCACAO_DATA = [
     "OS": "273",
     "Frente": "135 - PEDRINHO ",
     "Profundidade do Sulco": "36",
-    "Fazenda": NaN
+    "Fazenda": null,
+    "Unnamed: 16": null
   },
   {
     "ID": "3588286",
@@ -18628,7 +19666,8 @@ const SULCACAO_DATA = [
     "OS": "273",
     "Frente": "135 - PEDRINHO ",
     "Profundidade do Sulco": "38",
-    "Fazenda": NaN
+    "Fazenda": null,
+    "Unnamed: 16": null
   },
   {
     "ID": "3587331",
@@ -18646,7 +19685,8 @@ const SULCACAO_DATA = [
     "OS": "269",
     "Frente": "105 - FRENTE CASSIO (ZACARIAS)",
     "Profundidade do Sulco": "37",
-    "Fazenda": NaN
+    "Fazenda": null,
+    "Unnamed: 16": null
   },
   {
     "ID": "3587329",
@@ -18664,7 +19704,8 @@ const SULCACAO_DATA = [
     "OS": "269",
     "Frente": "105 - FRENTE CASSIO (ZACARIAS)",
     "Profundidade do Sulco": "38",
-    "Fazenda": NaN
+    "Fazenda": null,
+    "Unnamed: 16": null
   },
   {
     "ID": "3588480",
@@ -18682,7 +19723,8 @@ const SULCACAO_DATA = [
     "OS": "300",
     "Frente": "135 - FRENTE PEDRINHO",
     "Profundidade do Sulco": "41",
-    "Fazenda": NaN
+    "Fazenda": null,
+    "Unnamed: 16": null
   },
   {
     "ID": "3588475",
@@ -18700,7 +19742,8 @@ const SULCACAO_DATA = [
     "OS": "300",
     "Frente": "135 - FRENTE PEDRINHO",
     "Profundidade do Sulco": "38",
-    "Fazenda": NaN
+    "Fazenda": null,
+    "Unnamed: 16": null
   },
   {
     "ID": "3587924",
@@ -18718,7 +19761,8 @@ const SULCACAO_DATA = [
     "OS": "301",
     "Frente": "142 - FRENTE BIDU",
     "Profundidade do Sulco": "40",
-    "Fazenda": NaN
+    "Fazenda": null,
+    "Unnamed: 16": null
   },
   {
     "ID": "3588471",
@@ -18736,7 +19780,8 @@ const SULCACAO_DATA = [
     "OS": "300",
     "Frente": "135 - FRENTE PEDRINHO",
     "Profundidade do Sulco": "38",
-    "Fazenda": NaN
+    "Fazenda": null,
+    "Unnamed: 16": null
   },
   {
     "ID": "3587918",
@@ -18754,7 +19799,8 @@ const SULCACAO_DATA = [
     "OS": "301",
     "Frente": "142 - FRENTE BIDU",
     "Profundidade do Sulco": "39",
-    "Fazenda": NaN
+    "Fazenda": null,
+    "Unnamed: 16": null
   },
   {
     "ID": "3587046",
@@ -18772,7 +19818,8 @@ const SULCACAO_DATA = [
     "OS": "274",
     "Frente": "261 - FRENTE PRÓPRIA  (EDMILSON)",
     "Profundidade do Sulco": "38",
-    "Fazenda": NaN
+    "Fazenda": null,
+    "Unnamed: 16": null
   },
   {
     "ID": "3587913",
@@ -18790,7 +19837,8 @@ const SULCACAO_DATA = [
     "OS": "301",
     "Frente": "142 - FRENTE BIDU",
     "Profundidade do Sulco": "40",
-    "Fazenda": NaN
+    "Fazenda": null,
+    "Unnamed: 16": null
   },
   {
     "ID": "3587199",
@@ -18808,7 +19856,8 @@ const SULCACAO_DATA = [
     "OS": "212",
     "Frente": "139 - FRENTE MANEZÃO",
     "Profundidade do Sulco": "40",
-    "Fazenda": NaN
+    "Fazenda": null,
+    "Unnamed: 16": null
   },
   {
     "ID": "3587194",
@@ -18826,7 +19875,8 @@ const SULCACAO_DATA = [
     "OS": "212",
     "Frente": "139 - FRENTE MANEZÃO",
     "Profundidade do Sulco": "39",
-    "Fazenda": NaN
+    "Fazenda": null,
+    "Unnamed: 16": null
   },
   {
     "ID": "3587904",
@@ -18844,7 +19894,8 @@ const SULCACAO_DATA = [
     "OS": "301",
     "Frente": "142 - FRENTE BIDU",
     "Profundidade do Sulco": "40",
-    "Fazenda": NaN
+    "Fazenda": null,
+    "Unnamed: 16": null
   },
   {
     "ID": "3587036",
@@ -18862,7 +19913,8 @@ const SULCACAO_DATA = [
     "OS": "274",
     "Frente": "261 - FRENTE PRÓPRIA  (EDMILSON)",
     "Profundidade do Sulco": "39",
-    "Fazenda": NaN
+    "Fazenda": null,
+    "Unnamed: 16": null
   },
   {
     "ID": "3587188",
@@ -18880,7 +19932,8 @@ const SULCACAO_DATA = [
     "OS": "212",
     "Frente": "139 - FRENTE MANEZÃO",
     "Profundidade do Sulco": "36",
-    "Fazenda": NaN
+    "Fazenda": null,
+    "Unnamed: 16": null
   },
   {
     "ID": "3587896",
@@ -18898,7 +19951,8 @@ const SULCACAO_DATA = [
     "OS": "301",
     "Frente": "142 - FRENTE BIDU",
     "Profundidade do Sulco": "39",
-    "Fazenda": NaN
+    "Fazenda": null,
+    "Unnamed: 16": null
   },
   {
     "ID": "3587714",
@@ -18916,7 +19970,8 @@ const SULCACAO_DATA = [
     "OS": "175",
     "Frente": "143 - FRENTE CASSIO",
     "Profundidade do Sulco": "43",
-    "Fazenda": NaN
+    "Fazenda": null,
+    "Unnamed: 16": null
   },
   {
     "ID": "3588455",
@@ -18934,7 +19989,8 @@ const SULCACAO_DATA = [
     "OS": "273",
     "Frente": "135 - FRENTE PEDRINHO",
     "Profundidade do Sulco": "39",
-    "Fazenda": NaN
+    "Fazenda": null,
+    "Unnamed: 16": null
   },
   {
     "ID": "3587031",
@@ -18952,7 +20008,8 @@ const SULCACAO_DATA = [
     "OS": "274",
     "Frente": "261 - FRENTE PRÓPRIA  (EDMILSON)",
     "Profundidade do Sulco": "39",
-    "Fazenda": NaN
+    "Fazenda": null,
+    "Unnamed: 16": null
   },
   {
     "ID": "3587183",
@@ -18970,7 +20027,8 @@ const SULCACAO_DATA = [
     "OS": "212",
     "Frente": "139 - FRENTE MANEZÃO",
     "Profundidade do Sulco": "39",
-    "Fazenda": NaN
+    "Fazenda": null,
+    "Unnamed: 16": null
   },
   {
     "ID": "3588450",
@@ -18988,7 +20046,8 @@ const SULCACAO_DATA = [
     "OS": "273",
     "Frente": "135 - FRENTE PEDRINHO",
     "Profundidade do Sulco": "38",
-    "Fazenda": NaN
+    "Fazenda": null,
+    "Unnamed: 16": null
   },
   {
     "ID": "3587025",
@@ -19006,7 +20065,8 @@ const SULCACAO_DATA = [
     "OS": "274",
     "Frente": "261 - FRENTE PRÓPRIA  (EDMILSON)",
     "Profundidade do Sulco": "37",
-    "Fazenda": NaN
+    "Fazenda": null,
+    "Unnamed: 16": null
   },
   {
     "ID": "3587178",
@@ -19024,7 +20084,8 @@ const SULCACAO_DATA = [
     "OS": "212",
     "Frente": "139 - FRENTE MANEZÃO",
     "Profundidade do Sulco": "40",
-    "Fazenda": NaN
+    "Fazenda": null,
+    "Unnamed: 16": null
   },
   {
     "ID": "3587403",
@@ -19042,7 +20103,8 @@ const SULCACAO_DATA = [
     "OS": "175",
     "Frente": "143 - FRENTE CASSIO",
     "Profundidade do Sulco": "43",
-    "Fazenda": NaN
+    "Fazenda": null,
+    "Unnamed: 16": null
   },
   {
     "ID": "3587172",
@@ -19060,7 +20122,8 @@ const SULCACAO_DATA = [
     "OS": "212",
     "Frente": "139 - FRENTE MANEZÃO",
     "Profundidade do Sulco": "39",
-    "Fazenda": NaN
+    "Fazenda": null,
+    "Unnamed: 16": null
   },
   {
     "ID": "3587398",
@@ -19078,7 +20141,8 @@ const SULCACAO_DATA = [
     "OS": "175",
     "Frente": "143 - FRENTE CASSIO",
     "Profundidade do Sulco": "42",
-    "Fazenda": NaN
+    "Fazenda": null,
+    "Unnamed: 16": null
   },
   {
     "ID": "3588440",
@@ -19096,7 +20160,8 @@ const SULCACAO_DATA = [
     "OS": "273",
     "Frente": "135 - FRENTE PEDRINHO",
     "Profundidade do Sulco": "40",
-    "Fazenda": NaN
+    "Fazenda": null,
+    "Unnamed: 16": null
   },
   {
     "ID": "3588445",
@@ -19114,7 +20179,8 @@ const SULCACAO_DATA = [
     "OS": "273",
     "Frente": "135 - FRENTE PEDRINHO",
     "Profundidade do Sulco": "39",
-    "Fazenda": NaN
+    "Fazenda": null,
+    "Unnamed: 16": null
   },
   {
     "ID": "3587168",
@@ -19132,7 +20198,8 @@ const SULCACAO_DATA = [
     "OS": "212",
     "Frente": "139 - FRENTE MANEZÃO",
     "Profundidade do Sulco": "40",
-    "Fazenda": NaN
+    "Fazenda": null,
+    "Unnamed: 16": null
   },
   {
     "ID": "3584479",
@@ -19150,7 +20217,8 @@ const SULCACAO_DATA = [
     "OS": "175",
     "Frente": "143 - FRENTE CASSIO",
     "Profundidade do Sulco": "40",
-    "Fazenda": NaN
+    "Fazenda": null,
+    "Unnamed: 16": null
   },
   {
     "ID": "3584474",
@@ -19168,7 +20236,8 @@ const SULCACAO_DATA = [
     "OS": "175",
     "Frente": "143 - FRENTE CASSIO",
     "Profundidade do Sulco": "42",
-    "Fazenda": NaN
+    "Fazenda": null,
+    "Unnamed: 16": null
   },
   {
     "ID": "3584633",
@@ -19186,7 +20255,8 @@ const SULCACAO_DATA = [
     "OS": "301",
     "Frente": "142 - FRENTE BIDU",
     "Profundidade do Sulco": "41",
-    "Fazenda": NaN
+    "Fazenda": null,
+    "Unnamed: 16": null
   },
   {
     "ID": "3584469",
@@ -19204,7 +20274,8 @@ const SULCACAO_DATA = [
     "OS": "175",
     "Frente": "143 - FRENTE CASSIO",
     "Profundidade do Sulco": "35",
-    "Fazenda": NaN
+    "Fazenda": null,
+    "Unnamed: 16": null
   },
   {
     "ID": "3584631",
@@ -19222,7 +20293,8 @@ const SULCACAO_DATA = [
     "OS": "301",
     "Frente": "142 - FRENTE BIDU",
     "Profundidade do Sulco": "40",
-    "Fazenda": NaN
+    "Fazenda": null,
+    "Unnamed: 16": null
   },
   {
     "ID": "3584629",
@@ -19240,7 +20312,8 @@ const SULCACAO_DATA = [
     "OS": "301",
     "Frente": "142 - FRENTE BIDU",
     "Profundidade do Sulco": "40",
-    "Fazenda": NaN
+    "Fazenda": null,
+    "Unnamed: 16": null
   },
   {
     "ID": "3584627",
@@ -19258,7 +20331,8 @@ const SULCACAO_DATA = [
     "OS": "301",
     "Frente": "142 - FRENTE BIDU",
     "Profundidade do Sulco": "39",
-    "Fazenda": NaN
+    "Fazenda": null,
+    "Unnamed: 16": null
   },
   {
     "ID": "3584460",
@@ -19276,7 +20350,8 @@ const SULCACAO_DATA = [
     "OS": "175",
     "Frente": "143 - FRENTE CASSIO",
     "Profundidade do Sulco": "39",
-    "Fazenda": NaN
+    "Fazenda": null,
+    "Unnamed: 16": null
   },
   {
     "ID": "3584454",
@@ -19294,7 +20369,8 @@ const SULCACAO_DATA = [
     "OS": "175",
     "Frente": "143 - FRENTE CASSIO",
     "Profundidade do Sulco": "36",
-    "Fazenda": NaN
+    "Fazenda": null,
+    "Unnamed: 16": null
   },
   {
     "ID": "3585154",
@@ -19312,7 +20388,8 @@ const SULCACAO_DATA = [
     "OS": "175",
     "Frente": "143 - FRENTE CASSIO",
     "Profundidade do Sulco": "38",
-    "Fazenda": NaN
+    "Fazenda": null,
+    "Unnamed: 16": null
   },
   {
     "ID": "3585144",
@@ -19330,7 +20407,8 @@ const SULCACAO_DATA = [
     "OS": "175",
     "Frente": "143 - FRENTE CASSIO",
     "Profundidade do Sulco": "42",
-    "Fazenda": NaN
+    "Fazenda": null,
+    "Unnamed: 16": null
   },
   {
     "ID": "3584199",
@@ -19348,7 +20426,8 @@ const SULCACAO_DATA = [
     "OS": "33",
     "Frente": "142 - FRENTE BIDU",
     "Profundidade do Sulco": "39",
-    "Fazenda": NaN
+    "Fazenda": null,
+    "Unnamed: 16": null
   },
   {
     "ID": "3585163",
@@ -19366,7 +20445,8 @@ const SULCACAO_DATA = [
     "OS": "274",
     "Frente": "261 - FRENTE PRÓPRIA  (EDMILSON)",
     "Profundidade do Sulco": "37",
-    "Fazenda": NaN
+    "Fazenda": null,
+    "Unnamed: 16": null
   },
   {
     "ID": "3584198",
@@ -19384,7 +20464,8 @@ const SULCACAO_DATA = [
     "OS": "33",
     "Frente": "142 - FRENTE BIDU",
     "Profundidade do Sulco": "39",
-    "Fazenda": NaN
+    "Fazenda": null,
+    "Unnamed: 16": null
   },
   {
     "ID": "3584197",
@@ -19402,7 +20483,8 @@ const SULCACAO_DATA = [
     "OS": "33",
     "Frente": "142 - FRENTE BIDU",
     "Profundidade do Sulco": "41",
-    "Fazenda": NaN
+    "Fazenda": null,
+    "Unnamed: 16": null
   },
   {
     "ID": "3584196",
@@ -19420,7 +20502,8 @@ const SULCACAO_DATA = [
     "OS": "33",
     "Frente": "142 - FRENTE BIDU",
     "Profundidade do Sulco": "40",
-    "Fazenda": NaN
+    "Fazenda": null,
+    "Unnamed: 16": null
   },
   {
     "ID": "3585133",
@@ -19438,7 +20521,8 @@ const SULCACAO_DATA = [
     "OS": "175",
     "Frente": "143 - FRENTE CASSIO",
     "Profundidade do Sulco": "40",
-    "Fazenda": NaN
+    "Fazenda": null,
+    "Unnamed: 16": null
   },
   {
     "ID": "3585153",
@@ -19456,7 +20540,8 @@ const SULCACAO_DATA = [
     "OS": "274",
     "Frente": "261 - FRENTE PRÓPRIA  (EDMILSON)",
     "Profundidade do Sulco": "38",
-    "Fazenda": NaN
+    "Fazenda": null,
+    "Unnamed: 16": null
   },
   {
     "ID": "3586269",
@@ -19474,7 +20559,8 @@ const SULCACAO_DATA = [
     "OS": "274",
     "Frente": "139 - FRENTE MANEZÃO",
     "Profundidade do Sulco": "38",
-    "Fazenda": NaN
+    "Fazenda": null,
+    "Unnamed: 16": null
   },
   {
     "ID": "3585139",
@@ -19492,7 +20578,8 @@ const SULCACAO_DATA = [
     "OS": "274",
     "Frente": "261 - FRENTE PRÓPRIA  (EDMILSON)",
     "Profundidade do Sulco": "39",
-    "Fazenda": NaN
+    "Fazenda": null,
+    "Unnamed: 16": null
   },
   {
     "ID": "3586263",
@@ -19510,7 +20597,8 @@ const SULCACAO_DATA = [
     "OS": "274",
     "Frente": "139 - FRENTE MANEZÃO",
     "Profundidade do Sulco": "37",
-    "Fazenda": NaN
+    "Fazenda": null,
+    "Unnamed: 16": null
   },
   {
     "ID": "3586258",
@@ -19528,7 +20616,8 @@ const SULCACAO_DATA = [
     "OS": "274",
     "Frente": "139 - FRENTE MANEZÃO",
     "Profundidade do Sulco": "40",
-    "Fazenda": NaN
+    "Fazenda": null,
+    "Unnamed: 16": null
   },
   {
     "ID": "3586254",
@@ -19546,7 +20635,8 @@ const SULCACAO_DATA = [
     "OS": "274",
     "Frente": "139 - FRENTE MANEZÃO",
     "Profundidade do Sulco": "41",
-    "Fazenda": NaN
+    "Fazenda": null,
+    "Unnamed: 16": null
   },
   {
     "ID": "3586248",
@@ -19564,7 +20654,8 @@ const SULCACAO_DATA = [
     "OS": "274",
     "Frente": "139 - FRENTE MANEZÃO",
     "Profundidade do Sulco": "38",
-    "Fazenda": NaN
+    "Fazenda": null,
+    "Unnamed: 16": null
   },
   {
     "ID": "3586242",
@@ -19582,7 +20673,8 @@ const SULCACAO_DATA = [
     "OS": "274",
     "Frente": "139 - FRENTE MANEZÃO",
     "Profundidade do Sulco": "38",
-    "Fazenda": NaN
+    "Fazenda": null,
+    "Unnamed: 16": null
   },
   {
     "ID": "3586237",
@@ -19600,7 +20692,8 @@ const SULCACAO_DATA = [
     "OS": "274",
     "Frente": "139 - FRENTE MANEZÃO",
     "Profundidade do Sulco": "37",
-    "Fazenda": NaN
+    "Fazenda": null,
+    "Unnamed: 16": null
   },
   {
     "ID": "3586232",
@@ -19618,7 +20711,8 @@ const SULCACAO_DATA = [
     "OS": "274",
     "Frente": "139 - FRENTE MANEZÃO",
     "Profundidade do Sulco": "40",
-    "Fazenda": NaN
+    "Fazenda": null,
+    "Unnamed: 16": null
   },
   {
     "ID": "3581861",
@@ -19636,7 +20730,8 @@ const SULCACAO_DATA = [
     "OS": "200",
     "Frente": "135 - FRENTE PEDRINHO",
     "Profundidade do Sulco": "40",
-    "Fazenda": NaN
+    "Fazenda": null,
+    "Unnamed: 16": null
   },
   {
     "ID": "3581863",
@@ -19654,7 +20749,8 @@ const SULCACAO_DATA = [
     "OS": "200",
     "Frente": "135 - FRENTE PEDRINHO",
     "Profundidade do Sulco": "37",
-    "Fazenda": NaN
+    "Fazenda": null,
+    "Unnamed: 16": null
   },
   {
     "ID": "3581853",
@@ -19672,7 +20768,8 @@ const SULCACAO_DATA = [
     "OS": "200",
     "Frente": "135 - FRENTE PEDRINHO",
     "Profundidade do Sulco": "36",
-    "Fazenda": NaN
+    "Fazenda": null,
+    "Unnamed: 16": null
   },
   {
     "ID": "3581848",
@@ -19690,7 +20787,8 @@ const SULCACAO_DATA = [
     "OS": "200",
     "Frente": "135 - FRENTE PEDRINHO",
     "Profundidade do Sulco": "35",
-    "Fazenda": NaN
+    "Fazenda": null,
+    "Unnamed: 16": null
   },
   {
     "ID": "3581843",
@@ -19708,7 +20806,8 @@ const SULCACAO_DATA = [
     "OS": "200",
     "Frente": "135 - FRENTE PEDRINHO",
     "Profundidade do Sulco": "38",
-    "Fazenda": NaN
+    "Fazenda": null,
+    "Unnamed: 16": null
   },
   {
     "ID": "3581869",
@@ -19726,7 +20825,8 @@ const SULCACAO_DATA = [
     "OS": "200",
     "Frente": "135 - FRENTE PEDRINHO",
     "Profundidade do Sulco": "36",
-    "Fazenda": NaN
+    "Fazenda": null,
+    "Unnamed: 16": null
   },
   {
     "ID": "3586227",
@@ -19744,7 +20844,8 @@ const SULCACAO_DATA = [
     "OS": "274",
     "Frente": "139 - FRENTE MANEZÃO",
     "Profundidade do Sulco": "38",
-    "Fazenda": NaN
+    "Fazenda": null,
+    "Unnamed: 16": null
   },
   {
     "ID": "3586222",
@@ -19762,7 +20863,8 @@ const SULCACAO_DATA = [
     "OS": "274",
     "Frente": "139 - FRENTE MANEZÃO",
     "Profundidade do Sulco": "38",
-    "Fazenda": NaN
+    "Fazenda": null,
+    "Unnamed: 16": null
   },
   {
     "ID": "3584131",
@@ -19780,7 +20882,8 @@ const SULCACAO_DATA = [
     "OS": "274",
     "Frente": "261 - FRENTE PRÓPRIA  (EDMILSON)",
     "Profundidade do Sulco": "39",
-    "Fazenda": NaN
+    "Fazenda": null,
+    "Unnamed: 16": null
   },
   {
     "ID": "3584126",
@@ -19798,7 +20901,8 @@ const SULCACAO_DATA = [
     "OS": "274",
     "Frente": "261 - FRENTE PRÓPRIA  (EDMILSON)",
     "Profundidade do Sulco": "38",
-    "Fazenda": NaN
+    "Fazenda": null,
+    "Unnamed: 16": null
   },
   {
     "ID": "3586217",
@@ -19816,7 +20920,8 @@ const SULCACAO_DATA = [
     "OS": "274",
     "Frente": "139 - FRENTE MANEZÃO",
     "Profundidade do Sulco": "40",
-    "Fazenda": NaN
+    "Fazenda": null,
+    "Unnamed: 16": null
   },
   {
     "ID": "3585136",
@@ -19834,7 +20939,8 @@ const SULCACAO_DATA = [
     "OS": "274",
     "Frente": "261 - FRENTE PRÓPRIA  (EDMILSON)",
     "Profundidade do Sulco": "39",
-    "Fazenda": NaN
+    "Fazenda": null,
+    "Unnamed: 16": null
   },
   {
     "ID": "3585069",
@@ -19852,7 +20958,8 @@ const SULCACAO_DATA = [
     "OS": "271",
     "Frente": "105 - FRENTE CASSIO (ZACARIAS)",
     "Profundidade do Sulco": "35",
-    "Fazenda": NaN
+    "Fazenda": null,
+    "Unnamed: 16": null
   },
   {
     "ID": "3584117",
@@ -19870,7 +20977,8 @@ const SULCACAO_DATA = [
     "OS": "274",
     "Frente": "261 - FRENTE PRÓPRIA  (EDMILSON)",
     "Profundidade do Sulco": "37",
-    "Fazenda": NaN
+    "Fazenda": null,
+    "Unnamed: 16": null
   },
   {
     "ID": "3585060",
@@ -19888,7 +20996,8 @@ const SULCACAO_DATA = [
     "OS": "271",
     "Frente": "105 - FRENTE CASSIO (ZACARIAS)",
     "Profundidade do Sulco": "37",
-    "Fazenda": NaN
+    "Fazenda": null,
+    "Unnamed: 16": null
   },
   {
     "ID": "3584022",
@@ -19906,7 +21015,8 @@ const SULCACAO_DATA = [
     "OS": "274",
     "Frente": "261 - FRENTE PRÓPRIA  (EDMILSON)",
     "Profundidade do Sulco": "39",
-    "Fazenda": NaN
+    "Fazenda": null,
+    "Unnamed: 16": null
   },
   {
     "ID": "3585055",
@@ -19924,7 +21034,8 @@ const SULCACAO_DATA = [
     "OS": "271",
     "Frente": "105 - FRENTE CASSIO (ZACARIAS)",
     "Profundidade do Sulco": "37",
-    "Fazenda": NaN
+    "Fazenda": null,
+    "Unnamed: 16": null
   },
   {
     "ID": "3584071",
@@ -19942,7 +21053,8 @@ const SULCACAO_DATA = [
     "OS": "33",
     "Frente": "142 - FRENTE BIDU",
     "Profundidade do Sulco": "41",
-    "Fazenda": NaN
+    "Fazenda": null,
+    "Unnamed: 16": null
   },
   {
     "ID": "3584070",
@@ -19960,7 +21072,8 @@ const SULCACAO_DATA = [
     "OS": "33",
     "Frente": "142 - FRENTE BIDU",
     "Profundidade do Sulco": "37",
-    "Fazenda": NaN
+    "Fazenda": null,
+    "Unnamed: 16": null
   },
   {
     "ID": "3584018",
@@ -19978,7 +21091,8 @@ const SULCACAO_DATA = [
     "OS": "274",
     "Frente": "261 - FRENTE PRÓPRIA  (EDMILSON)",
     "Profundidade do Sulco": "39",
-    "Fazenda": NaN
+    "Fazenda": null,
+    "Unnamed: 16": null
   },
   {
     "ID": "3585051",
@@ -19996,7 +21110,8 @@ const SULCACAO_DATA = [
     "OS": "271",
     "Frente": "105 - FRENTE CASSIO (ZACARIAS)",
     "Profundidade do Sulco": "36",
-    "Fazenda": NaN
+    "Fazenda": null,
+    "Unnamed: 16": null
   },
   {
     "ID": "3584011",
@@ -20014,7 +21129,8 @@ const SULCACAO_DATA = [
     "OS": "274",
     "Frente": "261 - FRENTE PRÓPRIA  (EDMILSON)",
     "Profundidade do Sulco": "38",
-    "Fazenda": NaN
+    "Fazenda": null,
+    "Unnamed: 16": null
   },
   {
     "ID": "3584006",
@@ -20032,7 +21148,8 @@ const SULCACAO_DATA = [
     "OS": "274",
     "Frente": "261 - FRENTE PRÓPRIA  (EDMILSON)",
     "Profundidade do Sulco": "38",
-    "Fazenda": NaN
+    "Fazenda": null,
+    "Unnamed: 16": null
   },
   {
     "ID": "3585124",
@@ -20050,7 +21167,8 @@ const SULCACAO_DATA = [
     "OS": "175",
     "Frente": "143 - FRENTE CASSIO",
     "Profundidade do Sulco": "38",
-    "Fazenda": NaN
+    "Fazenda": null,
+    "Unnamed: 16": null
   },
   {
     "ID": "3584447",
@@ -20068,7 +21186,8 @@ const SULCACAO_DATA = [
     "OS": "33",
     "Frente": "142 - FRENTE BIDU",
     "Profundidade do Sulco": "35",
-    "Fazenda": NaN
+    "Fazenda": null,
+    "Unnamed: 16": null
   },
   {
     "ID": "3584110",
@@ -20086,7 +21205,8 @@ const SULCACAO_DATA = [
     "OS": "274",
     "Frente": "261 - FRENTE PRÓPRIA  (EDMILSON)",
     "Profundidade do Sulco": "38",
-    "Fazenda": NaN
+    "Fazenda": null,
+    "Unnamed: 16": null
   },
   {
     "ID": "3585121",
@@ -20104,7 +21224,8 @@ const SULCACAO_DATA = [
     "OS": "175",
     "Frente": "143 - FRENTE CASSIO",
     "Profundidade do Sulco": "43",
-    "Fazenda": NaN
+    "Fazenda": null,
+    "Unnamed: 16": null
   },
   {
     "ID": "3584107",
@@ -20122,7 +21243,8 @@ const SULCACAO_DATA = [
     "OS": "274",
     "Frente": "261 - FRENTE PRÓPRIA  (EDMILSON)",
     "Profundidade do Sulco": "38",
-    "Fazenda": NaN
+    "Fazenda": null,
+    "Unnamed: 16": null
   },
   {
     "ID": "3585110",
@@ -20140,7 +21262,8 @@ const SULCACAO_DATA = [
     "OS": "175",
     "Frente": "143 - FRENTE CASSIO",
     "Profundidade do Sulco": "41",
-    "Fazenda": NaN
+    "Fazenda": null,
+    "Unnamed: 16": null
   },
   {
     "ID": "3584440",
@@ -20158,7 +21281,8 @@ const SULCACAO_DATA = [
     "OS": "33",
     "Frente": "142 - FRENTE BIDU",
     "Profundidade do Sulco": "39",
-    "Fazenda": NaN
+    "Fazenda": null,
+    "Unnamed: 16": null
   },
   {
     "ID": "3585100",
@@ -20176,7 +21300,8 @@ const SULCACAO_DATA = [
     "OS": "175",
     "Frente": "143 - FRENTE CASSIO",
     "Profundidade do Sulco": "40",
-    "Fazenda": NaN
+    "Fazenda": null,
+    "Unnamed: 16": null
   },
   {
     "ID": "3584434",
@@ -20194,7 +21319,8 @@ const SULCACAO_DATA = [
     "OS": "33",
     "Frente": "142 - FRENTE BIDU",
     "Profundidade do Sulco": "38",
-    "Fazenda": NaN
+    "Fazenda": null,
+    "Unnamed: 16": null
   },
   {
     "ID": "3585094",
@@ -20212,7 +21338,8 @@ const SULCACAO_DATA = [
     "OS": "175",
     "Frente": "143 - FRENTE CASSIO",
     "Profundidade do Sulco": "40",
-    "Fazenda": NaN
+    "Fazenda": null,
+    "Unnamed: 16": null
   },
   {
     "ID": "3585082",
@@ -20230,7 +21357,8 @@ const SULCACAO_DATA = [
     "OS": "175",
     "Frente": "143 - FRENTE CASSIO",
     "Profundidade do Sulco": "43",
-    "Fazenda": NaN
+    "Fazenda": null,
+    "Unnamed: 16": null
   },
   {
     "ID": "3584430",
@@ -20248,7 +21376,8 @@ const SULCACAO_DATA = [
     "OS": "33",
     "Frente": "142 - FRENTE BIDU",
     "Profundidade do Sulco": "40",
-    "Fazenda": NaN
+    "Fazenda": null,
+    "Unnamed: 16": null
   },
   {
     "ID": "3582022",
@@ -20266,7 +21395,8 @@ const SULCACAO_DATA = [
     "OS": "211",
     "Frente": "261 - FRENTE PRÓPRIA  (EDMILSON)",
     "Profundidade do Sulco": "35",
-    "Fazenda": NaN
+    "Fazenda": null,
+    "Unnamed: 16": null
   },
   {
     "ID": "3582018",
@@ -20284,7 +21414,8 @@ const SULCACAO_DATA = [
     "OS": "211",
     "Frente": "261 - FRENTE PRÓPRIA  (EDMILSON)",
     "Profundidade do Sulco": "35",
-    "Fazenda": NaN
+    "Fazenda": null,
+    "Unnamed: 16": null
   },
   {
     "ID": "3582013",
@@ -20302,7 +21433,8 @@ const SULCACAO_DATA = [
     "OS": "211",
     "Frente": "261 - FRENTE PRÓPRIA  (EDMILSON)",
     "Profundidade do Sulco": "37",
-    "Fazenda": NaN
+    "Fazenda": null,
+    "Unnamed: 16": null
   },
   {
     "ID": "3582009",
@@ -20320,7 +21452,8 @@ const SULCACAO_DATA = [
     "OS": "211",
     "Frente": "261 - FRENTE PRÓPRIA  (EDMILSON)",
     "Profundidade do Sulco": "35",
-    "Fazenda": NaN
+    "Fazenda": null,
+    "Unnamed: 16": null
   },
   {
     "ID": "3582003",
@@ -20338,7 +21471,8 @@ const SULCACAO_DATA = [
     "OS": "211",
     "Frente": "261 - FRENTE PRÓPRIA  (EDMILSON)",
     "Profundidade do Sulco": "37",
-    "Fazenda": NaN
+    "Fazenda": null,
+    "Unnamed: 16": null
   },
   {
     "ID": "3581877",
@@ -20356,7 +21490,8 @@ const SULCACAO_DATA = [
     "OS": "211",
     "Frente": "261 - FRENTE PRÓPRIA  (EDMILSON)",
     "Profundidade do Sulco": "37",
-    "Fazenda": NaN
+    "Fazenda": null,
+    "Unnamed: 16": null
   },
   {
     "ID": "3581947",
@@ -20374,7 +21509,8 @@ const SULCACAO_DATA = [
     "OS": "211",
     "Frente": "261 - FRENTE PRÓPRIA  (EDMILSON)",
     "Profundidade do Sulco": "39",
-    "Fazenda": NaN
+    "Fazenda": null,
+    "Unnamed: 16": null
   },
   {
     "ID": "3581942",
@@ -20392,7 +21528,8 @@ const SULCACAO_DATA = [
     "OS": "211",
     "Frente": "261 - FRENTE PRÓPRIA  (EDMILSON)",
     "Profundidade do Sulco": "38",
-    "Fazenda": NaN
+    "Fazenda": null,
+    "Unnamed: 16": null
   },
   {
     "ID": "3581936",
@@ -20410,7 +21547,8 @@ const SULCACAO_DATA = [
     "OS": "211",
     "Frente": "261 - FRENTE PRÓPRIA  (EDMILSON)",
     "Profundidade do Sulco": "37",
-    "Fazenda": NaN
+    "Fazenda": null,
+    "Unnamed: 16": null
   },
   {
     "ID": "3581965",
@@ -20428,7 +21566,8 @@ const SULCACAO_DATA = [
     "OS": "33",
     "Frente": "142 - FRENTE BIDU",
     "Profundidade do Sulco": "38",
-    "Fazenda": NaN
+    "Fazenda": null,
+    "Unnamed: 16": null
   },
   {
     "ID": "3581964",
@@ -20446,7 +21585,8 @@ const SULCACAO_DATA = [
     "OS": "33",
     "Frente": "142 - FRENTE BIDU",
     "Profundidade do Sulco": "39",
-    "Fazenda": NaN
+    "Fazenda": null,
+    "Unnamed: 16": null
   },
   {
     "ID": "3581963",
@@ -20464,7 +21604,8 @@ const SULCACAO_DATA = [
     "OS": "33",
     "Frente": "142 - FRENTE BIDU",
     "Profundidade do Sulco": "38",
-    "Fazenda": NaN
+    "Fazenda": null,
+    "Unnamed: 16": null
   },
   {
     "ID": "3581962",
@@ -20482,7 +21623,8 @@ const SULCACAO_DATA = [
     "OS": "33",
     "Frente": "142 - FRENTE BIDU",
     "Profundidade do Sulco": "40",
-    "Fazenda": NaN
+    "Fazenda": null,
+    "Unnamed: 16": null
   },
   {
     "ID": "3581929",
@@ -20500,7 +21642,8 @@ const SULCACAO_DATA = [
     "OS": "211",
     "Frente": "261 - FRENTE PRÓPRIA  (EDMILSON)",
     "Profundidade do Sulco": "37",
-    "Fazenda": NaN
+    "Fazenda": null,
+    "Unnamed: 16": null
   },
   {
     "ID": "3581924",
@@ -20518,7 +21661,8 @@ const SULCACAO_DATA = [
     "OS": "211",
     "Frente": "261 - FRENTE PRÓPRIA  (EDMILSON)",
     "Profundidade do Sulco": "39",
-    "Fazenda": NaN
+    "Fazenda": null,
+    "Unnamed: 16": null
   },
   {
     "ID": "3581412",
@@ -20536,7 +21680,8 @@ const SULCACAO_DATA = [
     "OS": "143",
     "Frente": "105 - FRENTE CASSIO (ZACARIAS)",
     "Profundidade do Sulco": "35",
-    "Fazenda": NaN
+    "Fazenda": null,
+    "Unnamed: 16": null
   },
   {
     "ID": "3581801",
@@ -20554,7 +21699,8 @@ const SULCACAO_DATA = [
     "OS": "200",
     "Frente": "135 - FRENTE PEDRINHO",
     "Profundidade do Sulco": "40",
-    "Fazenda": NaN
+    "Fazenda": null,
+    "Unnamed: 16": null
   },
   {
     "ID": "3581795",
@@ -20572,7 +21718,8 @@ const SULCACAO_DATA = [
     "OS": "200",
     "Frente": "135 - FRENTE PEDRINHO",
     "Profundidade do Sulco": "39",
-    "Fazenda": NaN
+    "Fazenda": null,
+    "Unnamed: 16": null
   },
   {
     "ID": "3581404",
@@ -20590,7 +21737,8 @@ const SULCACAO_DATA = [
     "OS": "143",
     "Frente": "105 - FRENTE CASSIO (ZACARIAS)",
     "Profundidade do Sulco": "37",
-    "Fazenda": NaN
+    "Fazenda": null,
+    "Unnamed: 16": null
   },
   {
     "ID": "3581408",
@@ -20608,7 +21756,8 @@ const SULCACAO_DATA = [
     "OS": "143",
     "Frente": "105 - FRENTE CASSIO (ZACARIAS)",
     "Profundidade do Sulco": "35",
-    "Fazenda": NaN
+    "Fazenda": null,
+    "Unnamed: 16": null
   },
   {
     "ID": "3581400",
@@ -20626,7 +21775,8 @@ const SULCACAO_DATA = [
     "OS": "143",
     "Frente": "105 - FRENTE CASSIO (ZACARIAS)",
     "Profundidade do Sulco": "38",
-    "Fazenda": NaN
+    "Fazenda": null,
+    "Unnamed: 16": null
   },
   {
     "ID": "3581786",
@@ -20644,7 +21794,8 @@ const SULCACAO_DATA = [
     "OS": "200",
     "Frente": "135 - FRENTE PEDRINHO",
     "Profundidade do Sulco": "42",
-    "Fazenda": NaN
+    "Fazenda": null,
+    "Unnamed: 16": null
   },
   {
     "ID": "3581210",
@@ -20662,7 +21813,8 @@ const SULCACAO_DATA = [
     "OS": "211",
     "Frente": "261 - FRENTE PRÓPRIA  (EDMILSON)",
     "Profundidade do Sulco": "39",
-    "Fazenda": NaN
+    "Fazenda": null,
+    "Unnamed: 16": null
   },
   {
     "ID": "3581395",
@@ -20680,7 +21832,8 @@ const SULCACAO_DATA = [
     "OS": "143",
     "Frente": "105 - FRENTE CASSIO (ZACARIAS)",
     "Profundidade do Sulco": "36",
-    "Fazenda": NaN
+    "Fazenda": null,
+    "Unnamed: 16": null
   },
   {
     "ID": "3581780",
@@ -20698,7 +21851,8 @@ const SULCACAO_DATA = [
     "OS": "200",
     "Frente": "135 - FRENTE PEDRINHO",
     "Profundidade do Sulco": "41",
-    "Fazenda": NaN
+    "Fazenda": null,
+    "Unnamed: 16": null
   },
   {
     "ID": "3581204",
@@ -20716,7 +21870,8 @@ const SULCACAO_DATA = [
     "OS": "211",
     "Frente": "261 - FRENTE PRÓPRIA  (EDMILSON)",
     "Profundidade do Sulco": "38",
-    "Fazenda": NaN
+    "Fazenda": null,
+    "Unnamed: 16": null
   },
   {
     "ID": "3581099",
@@ -20734,7 +21889,8 @@ const SULCACAO_DATA = [
     "OS": "33",
     "Frente": "142 - FRENTE BIDU",
     "Profundidade do Sulco": "40",
-    "Fazenda": NaN
+    "Fazenda": null,
+    "Unnamed: 16": null
   },
   {
     "ID": "3581098",
@@ -20752,7 +21908,8 @@ const SULCACAO_DATA = [
     "OS": "33",
     "Frente": "142 - FRENTE BIDU",
     "Profundidade do Sulco": "39",
-    "Fazenda": NaN
+    "Fazenda": null,
+    "Unnamed: 16": null
   },
   {
     "ID": "3581830",
@@ -20770,7 +21927,8 @@ const SULCACAO_DATA = [
     "OS": "174",
     "Frente": "143 - FRENTE CASSIO",
     "Profundidade do Sulco": "40",
-    "Fazenda": NaN
+    "Fazenda": null,
+    "Unnamed: 16": null
   },
   {
     "ID": "3581199",
@@ -20788,7 +21946,8 @@ const SULCACAO_DATA = [
     "OS": "211",
     "Frente": "261 - FRENTE PRÓPRIA  (EDMILSON)",
     "Profundidade do Sulco": "38",
-    "Fazenda": NaN
+    "Fazenda": null,
+    "Unnamed: 16": null
   },
   {
     "ID": "3581776",
@@ -20806,7 +21965,8 @@ const SULCACAO_DATA = [
     "OS": "200",
     "Frente": "135 - FRENTE PEDRINHO",
     "Profundidade do Sulco": "40",
-    "Fazenda": NaN
+    "Fazenda": null,
+    "Unnamed: 16": null
   },
   {
     "ID": "3581825",
@@ -20824,7 +21984,8 @@ const SULCACAO_DATA = [
     "OS": "174",
     "Frente": "143 - FRENTE CASSIO",
     "Profundidade do Sulco": "42",
-    "Fazenda": NaN
+    "Fazenda": null,
+    "Unnamed: 16": null
   },
   {
     "ID": "3581194",
@@ -20842,7 +22003,8 @@ const SULCACAO_DATA = [
     "OS": "211",
     "Frente": "261 - FRENTE PRÓPRIA  (EDMILSON)",
     "Profundidade do Sulco": "38",
-    "Fazenda": NaN
+    "Fazenda": null,
+    "Unnamed: 16": null
   },
   {
     "ID": "3581029",
@@ -20860,7 +22022,8 @@ const SULCACAO_DATA = [
     "OS": "212",
     "Frente": "139 - FRENTE MANEZÃO",
     "Profundidade do Sulco": "37",
-    "Fazenda": NaN
+    "Fazenda": null,
+    "Unnamed: 16": null
   },
   {
     "ID": "3581808",
@@ -20878,7 +22041,8 @@ const SULCACAO_DATA = [
     "OS": "174",
     "Frente": "143 - FRENTE CASSIO",
     "Profundidade do Sulco": "39",
-    "Fazenda": NaN
+    "Fazenda": null,
+    "Unnamed: 16": null
   },
   {
     "ID": "3581189",
@@ -20896,7 +22060,8 @@ const SULCACAO_DATA = [
     "OS": "211",
     "Frente": "261 - FRENTE PRÓPRIA  (EDMILSON)",
     "Profundidade do Sulco": "39",
-    "Fazenda": NaN
+    "Fazenda": null,
+    "Unnamed: 16": null
   },
   {
     "ID": "3581024",
@@ -20914,7 +22079,8 @@ const SULCACAO_DATA = [
     "OS": "212",
     "Frente": "139 - FRENTE MANEZÃO",
     "Profundidade do Sulco": "37",
-    "Fazenda": NaN
+    "Fazenda": null,
+    "Unnamed: 16": null
   },
   {
     "ID": "3581184",
@@ -20932,7 +22098,8 @@ const SULCACAO_DATA = [
     "OS": "211",
     "Frente": "261 - FRENTE PRÓPRIA  (EDMILSON)",
     "Profundidade do Sulco": "39",
-    "Fazenda": NaN
+    "Fazenda": null,
+    "Unnamed: 16": null
   },
   {
     "ID": "3581789",
@@ -20950,7 +22117,8 @@ const SULCACAO_DATA = [
     "OS": "175",
     "Frente": "143 - FRENTE CASSIO",
     "Profundidade do Sulco": "40",
-    "Fazenda": NaN
+    "Fazenda": null,
+    "Unnamed: 16": null
   },
   {
     "ID": "3581770",
@@ -20968,7 +22136,8 @@ const SULCACAO_DATA = [
     "OS": "200",
     "Frente": "135 - FRENTE PEDRINHO",
     "Profundidade do Sulco": "38",
-    "Fazenda": NaN
+    "Fazenda": null,
+    "Unnamed: 16": null
   },
   {
     "ID": "3581179",
@@ -20986,7 +22155,8 @@ const SULCACAO_DATA = [
     "OS": "211",
     "Frente": "261 - FRENTE PRÓPRIA  (EDMILSON)",
     "Profundidade do Sulco": "38",
-    "Fazenda": NaN
+    "Fazenda": null,
+    "Unnamed: 16": null
   },
   {
     "ID": "3581655",
@@ -21004,7 +22174,8 @@ const SULCACAO_DATA = [
     "OS": "175",
     "Frente": "143 - FRENTE CASSIO",
     "Profundidade do Sulco": "38",
-    "Fazenda": NaN
+    "Fazenda": null,
+    "Unnamed: 16": null
   },
   {
     "ID": "3581019",
@@ -21022,7 +22193,8 @@ const SULCACAO_DATA = [
     "OS": "212",
     "Frente": "139 - FRENTE MANEZÃO",
     "Profundidade do Sulco": "36",
-    "Fazenda": NaN
+    "Fazenda": null,
+    "Unnamed: 16": null
   },
   {
     "ID": "3581174",
@@ -21040,7 +22212,8 @@ const SULCACAO_DATA = [
     "OS": "211",
     "Frente": "261 - FRENTE PRÓPRIA  (EDMILSON)",
     "Profundidade do Sulco": "39",
-    "Fazenda": NaN
+    "Fazenda": null,
+    "Unnamed: 16": null
   },
   {
     "ID": "3581649",
@@ -21058,7 +22231,8 @@ const SULCACAO_DATA = [
     "OS": "175",
     "Frente": "143 - FRENTE CASSIO",
     "Profundidade do Sulco": "43",
-    "Fazenda": NaN
+    "Fazenda": null,
+    "Unnamed: 16": null
   },
   {
     "ID": "3581014",
@@ -21076,7 +22250,8 @@ const SULCACAO_DATA = [
     "OS": "212",
     "Frente": "139 - FRENTE MANEZÃO",
     "Profundidade do Sulco": "37",
-    "Fazenda": NaN
+    "Fazenda": null,
+    "Unnamed: 16": null
   },
   {
     "ID": "3581010",
@@ -21094,7 +22269,8 @@ const SULCACAO_DATA = [
     "OS": "212",
     "Frente": "139 - FRENTE MANEZÃO",
     "Profundidade do Sulco": "38",
-    "Fazenda": NaN
+    "Fazenda": null,
+    "Unnamed: 16": null
   },
   {
     "ID": "3581768",
@@ -21112,7 +22288,8 @@ const SULCACAO_DATA = [
     "OS": "200",
     "Frente": "135 - FRENTE PEDRINHO",
     "Profundidade do Sulco": "39",
-    "Fazenda": NaN
+    "Fazenda": null,
+    "Unnamed: 16": null
   },
   {
     "ID": "3581004",
@@ -21130,7 +22307,8 @@ const SULCACAO_DATA = [
     "OS": "212",
     "Frente": "139 - FRENTE MANEZÃO",
     "Profundidade do Sulco": "37",
-    "Fazenda": NaN
+    "Fazenda": null,
+    "Unnamed: 16": null
   },
   {
     "ID": "3581760",
@@ -21148,7 +22326,8 @@ const SULCACAO_DATA = [
     "OS": "200",
     "Frente": "135 - FRENTE PEDRINHO",
     "Profundidade do Sulco": "39",
-    "Fazenda": NaN
+    "Fazenda": null,
+    "Unnamed: 16": null
   },
   {
     "ID": "3580999",
@@ -21166,7 +22345,8 @@ const SULCACAO_DATA = [
     "OS": "212",
     "Frente": "139 - FRENTE MANEZÃO",
     "Profundidade do Sulco": "39",
-    "Fazenda": NaN
+    "Fazenda": null,
+    "Unnamed: 16": null
   },
   {
     "ID": "3581864",
@@ -21184,7 +22364,8 @@ const SULCACAO_DATA = [
     "OS": "200",
     "Frente": "135 - FRENTE PEDRINHO",
     "Profundidade do Sulco": "41",
-    "Fazenda": NaN
+    "Fazenda": null,
+    "Unnamed: 16": null
   },
   {
     "ID": "3580994",
@@ -21202,7 +22383,8 @@ const SULCACAO_DATA = [
     "OS": "212",
     "Frente": "139 - FRENTE MANEZÃO",
     "Profundidade do Sulco": "38",
-    "Fazenda": NaN
+    "Fazenda": null,
+    "Unnamed: 16": null
   },
   {
     "ID": "3580930",
@@ -21220,7 +22402,8 @@ const SULCACAO_DATA = [
     "OS": "212",
     "Frente": "139 - FRENTE MANEZÃO",
     "Profundidade do Sulco": "39",
-    "Fazenda": NaN
+    "Fazenda": null,
+    "Unnamed: 16": null
   },
   {
     "ID": "3580925",
@@ -21238,7 +22421,8 @@ const SULCACAO_DATA = [
     "OS": "212",
     "Frente": "139 - FRENTE MANEZÃO",
     "Profundidade do Sulco": "40",
-    "Fazenda": NaN
+    "Fazenda": null,
+    "Unnamed: 16": null
   },
   {
     "ID": "3580920",
@@ -21256,7 +22440,8 @@ const SULCACAO_DATA = [
     "OS": "212",
     "Frente": "139 - FRENTE MANEZÃO",
     "Profundidade do Sulco": "40",
-    "Fazenda": NaN
+    "Fazenda": null,
+    "Unnamed: 16": null
   },
   {
     "ID": "3580915",
@@ -21274,7 +22459,8 @@ const SULCACAO_DATA = [
     "OS": "212",
     "Frente": "139 - FRENTE MANEZÃO",
     "Profundidade do Sulco": "39",
-    "Fazenda": NaN
+    "Fazenda": null,
+    "Unnamed: 16": null
   },
   {
     "ID": "3579049",
@@ -21292,7 +22478,8 @@ const SULCACAO_DATA = [
     "OS": "33",
     "Frente": "142 - FRENTE BIDU",
     "Profundidade do Sulco": "40",
-    "Fazenda": NaN
+    "Fazenda": null,
+    "Unnamed: 16": null
   },
   {
     "ID": "3579048",
@@ -21310,7 +22497,8 @@ const SULCACAO_DATA = [
     "OS": "33",
     "Frente": "142 - FRENTE BIDU",
     "Profundidade do Sulco": "40",
-    "Fazenda": NaN
+    "Fazenda": null,
+    "Unnamed: 16": null
   },
   {
     "ID": "3579047",
@@ -21328,7 +22516,8 @@ const SULCACAO_DATA = [
     "OS": "33",
     "Frente": "142 - FRENTE BIDU",
     "Profundidade do Sulco": "39",
-    "Fazenda": NaN
+    "Fazenda": null,
+    "Unnamed: 16": null
   },
   {
     "ID": "3578977",
@@ -21346,7 +22535,8 @@ const SULCACAO_DATA = [
     "OS": "143",
     "Frente": "105 - FRENTE CASSIO (ZACARIAS)",
     "Profundidade do Sulco": "37",
-    "Fazenda": NaN
+    "Fazenda": null,
+    "Unnamed: 16": null
   },
   {
     "ID": "3578975",
@@ -21364,7 +22554,8 @@ const SULCACAO_DATA = [
     "OS": "143",
     "Frente": "105 - FRENTE CASSIO (ZACARIAS)",
     "Profundidade do Sulco": "36",
-    "Fazenda": NaN
+    "Fazenda": null,
+    "Unnamed: 16": null
   },
   {
     "ID": "3578973",
@@ -21382,7 +22573,8 @@ const SULCACAO_DATA = [
     "OS": "143",
     "Frente": "105 - FRENTE CASSIO (ZACARIAS)",
     "Profundidade do Sulco": "36",
-    "Fazenda": NaN
+    "Fazenda": null,
+    "Unnamed: 16": null
   },
   {
     "ID": "3578971",
@@ -21400,7 +22592,8 @@ const SULCACAO_DATA = [
     "OS": "143",
     "Frente": "105 - FRENTE CASSIO (ZACARIAS)",
     "Profundidade do Sulco": "38",
-    "Fazenda": NaN
+    "Fazenda": null,
+    "Unnamed: 16": null
   },
   {
     "ID": "3579469",
@@ -21418,7 +22611,8 @@ const SULCACAO_DATA = [
     "OS": "211",
     "Frente": "261 - FRENTE PRÓPRIA  (EDMILSON)",
     "Profundidade do Sulco": "39",
-    "Fazenda": NaN
+    "Fazenda": null,
+    "Unnamed: 16": null
   },
   {
     "ID": "3578968",
@@ -21436,7 +22630,8 @@ const SULCACAO_DATA = [
     "OS": "143",
     "Frente": "105 - FRENTE CASSIO (ZACARIAS)",
     "Profundidade do Sulco": "35",
-    "Fazenda": NaN
+    "Fazenda": null,
+    "Unnamed: 16": null
   },
   {
     "ID": "3578966",
@@ -21454,7 +22649,8 @@ const SULCACAO_DATA = [
     "OS": "143",
     "Frente": "105 - FRENTE CASSIO (ZACARIAS)",
     "Profundidade do Sulco": "38",
-    "Fazenda": NaN
+    "Fazenda": null,
+    "Unnamed: 16": null
   },
   {
     "ID": "3579463",
@@ -21472,7 +22668,8 @@ const SULCACAO_DATA = [
     "OS": "211",
     "Frente": "261 - FRENTE PRÓPRIA  (EDMILSON)",
     "Profundidade do Sulco": "37",
-    "Fazenda": NaN
+    "Fazenda": null,
+    "Unnamed: 16": null
   },
   {
     "ID": "3580900",
@@ -21490,7 +22687,8 @@ const SULCACAO_DATA = [
     "OS": "213",
     "Frente": "139 - FRENTE MANEZÃO",
     "Profundidade do Sulco": "37",
-    "Fazenda": NaN
+    "Fazenda": null,
+    "Unnamed: 16": null
   },
   {
     "ID": "3580893",
@@ -21508,7 +22706,8 @@ const SULCACAO_DATA = [
     "OS": "213",
     "Frente": "139 - FRENTE MANEZÃO",
     "Profundidade do Sulco": "40",
-    "Fazenda": NaN
+    "Fazenda": null,
+    "Unnamed: 16": null
   },
   {
     "ID": "3580887",
@@ -21526,7 +22725,8 @@ const SULCACAO_DATA = [
     "OS": "213",
     "Frente": "139 - FRENTE MANEZÃO",
     "Profundidade do Sulco": "36",
-    "Fazenda": NaN
+    "Fazenda": null,
+    "Unnamed: 16": null
   },
   {
     "ID": "3580882",
@@ -21544,7 +22744,8 @@ const SULCACAO_DATA = [
     "OS": "213",
     "Frente": "139 - FRENTE MANEZÃO",
     "Profundidade do Sulco": "40",
-    "Fazenda": NaN
+    "Fazenda": null,
+    "Unnamed: 16": null
   },
   {
     "ID": "3580878",
@@ -21562,7 +22763,8 @@ const SULCACAO_DATA = [
     "OS": "213",
     "Frente": "139 - FRENTE MANEZÃO",
     "Profundidade do Sulco": "40",
-    "Fazenda": NaN
+    "Fazenda": null,
+    "Unnamed: 16": null
   },
   {
     "ID": "3578761",
@@ -21580,7 +22782,8 @@ const SULCACAO_DATA = [
     "OS": "211",
     "Frente": "261 - FRENTE PRÓPRIA  (EDMILSON)",
     "Profundidade do Sulco": "38",
-    "Fazenda": NaN
+    "Fazenda": null,
+    "Unnamed: 16": null
   },
   {
     "ID": "3579153",
@@ -21598,7 +22801,8 @@ const SULCACAO_DATA = [
     "OS": "213",
     "Frente": "139 - FRENTE MANEZÃO",
     "Profundidade do Sulco": "38",
-    "Fazenda": NaN
+    "Fazenda": null,
+    "Unnamed: 16": null
   },
   {
     "ID": "3579037",
@@ -21616,7 +22820,8 @@ const SULCACAO_DATA = [
     "OS": "33",
     "Frente": "142 - FRENTE BIDU",
     "Profundidade do Sulco": "37",
-    "Fazenda": NaN
+    "Fazenda": null,
+    "Unnamed: 16": null
   },
   {
     "ID": "3578756",
@@ -21634,7 +22839,8 @@ const SULCACAO_DATA = [
     "OS": "211",
     "Frente": "261 - FRENTE PRÓPRIA  (EDMILSON)",
     "Profundidade do Sulco": "38",
-    "Fazenda": NaN
+    "Fazenda": null,
+    "Unnamed: 16": null
   },
   {
     "ID": "3579036",
@@ -21652,7 +22858,8 @@ const SULCACAO_DATA = [
     "OS": "33",
     "Frente": "142 - FRENTE BIDU",
     "Profundidade do Sulco": "40",
-    "Fazenda": NaN
+    "Fazenda": null,
+    "Unnamed: 16": null
   },
   {
     "ID": "3578751",
@@ -21670,7 +22877,8 @@ const SULCACAO_DATA = [
     "OS": "211",
     "Frente": "261 - FRENTE PRÓPRIA  (EDMILSON)",
     "Profundidade do Sulco": "38",
-    "Fazenda": NaN
+    "Fazenda": null,
+    "Unnamed: 16": null
   },
   {
     "ID": "3579148",
@@ -21688,7 +22896,8 @@ const SULCACAO_DATA = [
     "OS": "213",
     "Frente": "139 - FRENTE MANEZÃO",
     "Profundidade do Sulco": "38",
-    "Fazenda": NaN
+    "Fazenda": null,
+    "Unnamed: 16": null
   },
   {
     "ID": "3578746",
@@ -21706,7 +22915,8 @@ const SULCACAO_DATA = [
     "OS": "211",
     "Frente": "261 - FRENTE PRÓPRIA  (EDMILSON)",
     "Profundidade do Sulco": "38",
-    "Fazenda": NaN
+    "Fazenda": null,
+    "Unnamed: 16": null
   },
   {
     "ID": "3579144",
@@ -21724,7 +22934,8 @@ const SULCACAO_DATA = [
     "OS": "213",
     "Frente": "139 - FRENTE MANEZÃO",
     "Profundidade do Sulco": "40",
-    "Fazenda": NaN
+    "Fazenda": null,
+    "Unnamed: 16": null
   },
   {
     "ID": "3578741",
@@ -21742,7 +22953,8 @@ const SULCACAO_DATA = [
     "OS": "211",
     "Frente": "261 - FRENTE PRÓPRIA  (EDMILSON)",
     "Profundidade do Sulco": "37",
-    "Fazenda": NaN
+    "Fazenda": null,
+    "Unnamed: 16": null
   },
   {
     "ID": "3579317",
@@ -21760,7 +22972,8 @@ const SULCACAO_DATA = [
     "OS": "200",
     "Frente": "135 - FRENTE PEDRINHO",
     "Profundidade do Sulco": "43",
-    "Fazenda": NaN
+    "Fazenda": null,
+    "Unnamed: 16": null
   },
   {
     "ID": "3579136",
@@ -21778,7 +22991,8 @@ const SULCACAO_DATA = [
     "OS": "213",
     "Frente": "139 - FRENTE MANEZÃO",
     "Profundidade do Sulco": "36",
-    "Fazenda": NaN
+    "Fazenda": null,
+    "Unnamed: 16": null
   },
   {
     "ID": "3578734",
@@ -21796,7 +23010,8 @@ const SULCACAO_DATA = [
     "OS": "211",
     "Frente": "261 - FRENTE PRÓPRIA  (EDMILSON)",
     "Profundidade do Sulco": "38",
-    "Fazenda": NaN
+    "Fazenda": null,
+    "Unnamed: 16": null
   },
   {
     "ID": "3579301",
@@ -21814,7 +23029,8 @@ const SULCACAO_DATA = [
     "OS": "200",
     "Frente": "135 - FRENTE PEDRINHO",
     "Profundidade do Sulco": "41",
-    "Fazenda": NaN
+    "Fazenda": null,
+    "Unnamed: 16": null
   },
   {
     "ID": "3578730",
@@ -21832,7 +23048,8 @@ const SULCACAO_DATA = [
     "OS": "211",
     "Frente": "261 - FRENTE PRÓPRIA  (EDMILSON)",
     "Profundidade do Sulco": "37",
-    "Fazenda": NaN
+    "Fazenda": null,
+    "Unnamed: 16": null
   },
   {
     "ID": "3579283",
@@ -21850,7 +23067,8 @@ const SULCACAO_DATA = [
     "OS": "200",
     "Frente": "135 - FRENTE PEDRINHO",
     "Profundidade do Sulco": "39",
-    "Fazenda": NaN
+    "Fazenda": null,
+    "Unnamed: 16": null
   },
   {
     "ID": "3579185",
@@ -21868,7 +23086,8 @@ const SULCACAO_DATA = [
     "OS": "174",
     "Frente": "143 - FRENTE CASSIO",
     "Profundidade do Sulco": "42",
-    "Fazenda": NaN
+    "Fazenda": null,
+    "Unnamed: 16": null
   },
   {
     "ID": "3578725",
@@ -21886,7 +23105,8 @@ const SULCACAO_DATA = [
     "OS": "211",
     "Frente": "261 - FRENTE PRÓPRIA  (EDMILSON)",
     "Profundidade do Sulco": "37",
-    "Fazenda": NaN
+    "Fazenda": null,
+    "Unnamed: 16": null
   },
   {
     "ID": "3579180",
@@ -21904,7 +23124,8 @@ const SULCACAO_DATA = [
     "OS": "174",
     "Frente": "143 - FRENTE CASSIO",
     "Profundidade do Sulco": "39",
-    "Fazenda": NaN
+    "Fazenda": null,
+    "Unnamed: 16": null
   },
   {
     "ID": "3578720",
@@ -21922,7 +23143,8 @@ const SULCACAO_DATA = [
     "OS": "211",
     "Frente": "261 - FRENTE PRÓPRIA  (EDMILSON)",
     "Profundidade do Sulco": "38",
-    "Fazenda": NaN
+    "Fazenda": null,
+    "Unnamed: 16": null
   },
   {
     "ID": "3579266",
@@ -21940,7 +23162,8 @@ const SULCACAO_DATA = [
     "OS": "200",
     "Frente": "135 - FRENTE PEDRINHO",
     "Profundidade do Sulco": "43",
-    "Fazenda": NaN
+    "Fazenda": null,
+    "Unnamed: 16": null
   },
   {
     "ID": "3578715",
@@ -21958,7 +23181,8 @@ const SULCACAO_DATA = [
     "OS": "211",
     "Frente": "261 - FRENTE PRÓPRIA  (EDMILSON)",
     "Profundidade do Sulco": "39",
-    "Fazenda": NaN
+    "Fazenda": null,
+    "Unnamed: 16": null
   },
   {
     "ID": "3579173",
@@ -21976,7 +23200,8 @@ const SULCACAO_DATA = [
     "OS": "175",
     "Frente": "143 - FRENTE CASSIO",
     "Profundidade do Sulco": "40",
-    "Fazenda": NaN
+    "Fazenda": null,
+    "Unnamed: 16": null
   },
   {
     "ID": "3578711",
@@ -21994,7 +23219,8 @@ const SULCACAO_DATA = [
     "OS": "211",
     "Frente": "261 - FRENTE PRÓPRIA  (EDMILSON)",
     "Profundidade do Sulco": "39",
-    "Fazenda": NaN
+    "Fazenda": null,
+    "Unnamed: 16": null
   },
   {
     "ID": "3579131",
@@ -22012,7 +23238,8 @@ const SULCACAO_DATA = [
     "OS": "213",
     "Frente": "139 - FRENTE MANEZÃO",
     "Profundidade do Sulco": "36",
-    "Fazenda": NaN
+    "Fazenda": null,
+    "Unnamed: 16": null
   },
   {
     "ID": "3579167",
@@ -22030,7 +23257,8 @@ const SULCACAO_DATA = [
     "OS": "175",
     "Frente": "143 - FRENTE CASSIO",
     "Profundidade do Sulco": "43",
-    "Fazenda": NaN
+    "Fazenda": null,
+    "Unnamed: 16": null
   },
   {
     "ID": "3579253",
@@ -22048,7 +23276,8 @@ const SULCACAO_DATA = [
     "OS": "200",
     "Frente": "135 - FRENTE PEDRINHO",
     "Profundidade do Sulco": "40",
-    "Fazenda": NaN
+    "Fazenda": null,
+    "Unnamed: 16": null
   },
   {
     "ID": "3579084",
@@ -22066,7 +23295,8 @@ const SULCACAO_DATA = [
     "OS": "175",
     "Frente": "143 - FRENTE CASSIO",
     "Profundidade do Sulco": "42",
-    "Fazenda": NaN
+    "Fazenda": null,
+    "Unnamed: 16": null
   },
   {
     "ID": "3579245",
@@ -22084,7 +23314,8 @@ const SULCACAO_DATA = [
     "OS": "200",
     "Frente": "135 - FRENTE PEDRINHO",
     "Profundidade do Sulco": "42",
-    "Fazenda": NaN
+    "Fazenda": null,
+    "Unnamed: 16": null
   },
   {
     "ID": "3579240",
@@ -22102,7 +23333,8 @@ const SULCACAO_DATA = [
     "OS": "200",
     "Frente": "135 - FRENTE PEDRINHO",
     "Profundidade do Sulco": "44",
-    "Fazenda": NaN
+    "Fazenda": null,
+    "Unnamed: 16": null
   },
   {
     "ID": "3579235",
@@ -22120,7 +23352,8 @@ const SULCACAO_DATA = [
     "OS": "200",
     "Frente": "135 - FRENTE PEDRINHO",
     "Profundidade do Sulco": "42",
-    "Fazenda": NaN
+    "Fazenda": null,
+    "Unnamed: 16": null
   },
   {
     "ID": "3577306",
@@ -22138,7 +23371,8 @@ const SULCACAO_DATA = [
     "OS": "200",
     "Frente": "135 - FRENTE PEDRINHO",
     "Profundidade do Sulco": "35",
-    "Fazenda": NaN
+    "Fazenda": null,
+    "Unnamed: 16": null
   },
   {
     "ID": "3577305",
@@ -22156,7 +23390,8 @@ const SULCACAO_DATA = [
     "OS": "200",
     "Frente": "135 - FRENTE PEDRINHO",
     "Profundidade do Sulco": "37",
-    "Fazenda": NaN
+    "Fazenda": null,
+    "Unnamed: 16": null
   },
   {
     "ID": "3577304",
@@ -22174,7 +23409,8 @@ const SULCACAO_DATA = [
     "OS": "200",
     "Frente": "135 - FRENTE PEDRINHO",
     "Profundidade do Sulco": "41",
-    "Fazenda": NaN
+    "Fazenda": null,
+    "Unnamed: 16": null
   },
   {
     "ID": "3577303",
@@ -22192,7 +23428,8 @@ const SULCACAO_DATA = [
     "OS": "200",
     "Frente": "135 - FRENTE PEDRINHO",
     "Profundidade do Sulco": "36",
-    "Fazenda": NaN
+    "Fazenda": null,
+    "Unnamed: 16": null
   },
   {
     "ID": "3577298",
@@ -22210,7 +23447,8 @@ const SULCACAO_DATA = [
     "OS": "200",
     "Frente": "135 - FRENTE PEDRINHO",
     "Profundidade do Sulco": "35",
-    "Fazenda": NaN
+    "Fazenda": null,
+    "Unnamed: 16": null
   },
   {
     "ID": "3577285",
@@ -22228,7 +23466,8 @@ const SULCACAO_DATA = [
     "OS": "200",
     "Frente": "135 - FRENTE PEDRINHO",
     "Profundidade do Sulco": "36",
-    "Fazenda": NaN
+    "Fazenda": null,
+    "Unnamed: 16": null
   },
   {
     "ID": "3577266",
@@ -22246,7 +23485,8 @@ const SULCACAO_DATA = [
     "OS": "200",
     "Frente": "135 - FRENTE PEDRINHO",
     "Profundidade do Sulco": "35",
-    "Fazenda": NaN
+    "Fazenda": null,
+    "Unnamed: 16": null
   },
   {
     "ID": "3577246",
@@ -22264,7 +23504,8 @@ const SULCACAO_DATA = [
     "OS": "200",
     "Frente": "135 - FRENTE PEDRINHO",
     "Profundidade do Sulco": "36",
-    "Fazenda": NaN
+    "Fazenda": null,
+    "Unnamed: 16": null
   },
   {
     "ID": "3576807",
@@ -22282,7 +23523,8 @@ const SULCACAO_DATA = [
     "OS": "1111",
     "Frente": "139 - FRENTE MANEZÃO",
     "Profundidade do Sulco": "38",
-    "Fazenda": NaN
+    "Fazenda": null,
+    "Unnamed: 16": null
   },
   {
     "ID": "3576803",
@@ -22300,7 +23542,8 @@ const SULCACAO_DATA = [
     "OS": "1111",
     "Frente": "139 - FRENTE MANEZÃO",
     "Profundidade do Sulco": "38",
-    "Fazenda": NaN
+    "Fazenda": null,
+    "Unnamed: 16": null
   },
   {
     "ID": "3576799",
@@ -22318,7 +23561,8 @@ const SULCACAO_DATA = [
     "OS": "1111",
     "Frente": "139 - FRENTE MANEZÃO",
     "Profundidade do Sulco": "41",
-    "Fazenda": NaN
+    "Fazenda": null,
+    "Unnamed: 16": null
   },
   {
     "ID": "3577096",
@@ -22336,7 +23580,8 @@ const SULCACAO_DATA = [
     "OS": "33",
     "Frente": "142 - FRENTE BIDU",
     "Profundidade do Sulco": "39",
-    "Fazenda": NaN
+    "Fazenda": null,
+    "Unnamed: 16": null
   },
   {
     "ID": "3577094",
@@ -22354,7 +23599,8 @@ const SULCACAO_DATA = [
     "OS": "33",
     "Frente": "142 - FRENTE BIDU",
     "Profundidade do Sulco": "41",
-    "Fazenda": NaN
+    "Fazenda": null,
+    "Unnamed: 16": null
   },
   {
     "ID": "3577093",
@@ -22372,7 +23618,8 @@ const SULCACAO_DATA = [
     "OS": "33",
     "Frente": "142 - FRENTE BIDU",
     "Profundidade do Sulco": "38",
-    "Fazenda": NaN
+    "Fazenda": null,
+    "Unnamed: 16": null
   },
   {
     "ID": "3576756",
@@ -22390,7 +23637,8 @@ const SULCACAO_DATA = [
     "OS": "168",
     "Frente": "105 - FRENTE CASSIO (ZACARIAS)",
     "Profundidade do Sulco": "37",
-    "Fazenda": NaN
+    "Fazenda": null,
+    "Unnamed: 16": null
   },
   {
     "ID": "3576792",
@@ -22408,7 +23656,8 @@ const SULCACAO_DATA = [
     "OS": "1111",
     "Frente": "139 - FRENTE MANEZÃO",
     "Profundidade do Sulco": "38",
-    "Fazenda": NaN
+    "Fazenda": null,
+    "Unnamed: 16": null
   },
   {
     "ID": "3576747",
@@ -22426,7 +23675,8 @@ const SULCACAO_DATA = [
     "OS": "168",
     "Frente": "105 - FRENTE CASSIO (ZACARIAS)",
     "Profundidade do Sulco": "37",
-    "Fazenda": NaN
+    "Fazenda": null,
+    "Unnamed: 16": null
   },
   {
     "ID": "3576787",
@@ -22444,7 +23694,8 @@ const SULCACAO_DATA = [
     "OS": "1111",
     "Frente": "139 - FRENTE MANEZÃO",
     "Profundidade do Sulco": "39",
-    "Fazenda": NaN
+    "Fazenda": null,
+    "Unnamed: 16": null
   },
   {
     "ID": "3576783",
@@ -22462,7 +23713,8 @@ const SULCACAO_DATA = [
     "OS": "1111",
     "Frente": "139 - FRENTE MANEZÃO",
     "Profundidade do Sulco": "37",
-    "Fazenda": NaN
+    "Fazenda": null,
+    "Unnamed: 16": null
   },
   {
     "ID": "3576777",
@@ -22480,7 +23732,8 @@ const SULCACAO_DATA = [
     "OS": "1111",
     "Frente": "139 - FRENTE MANEZÃO",
     "Profundidade do Sulco": "39",
-    "Fazenda": NaN
+    "Fazenda": null,
+    "Unnamed: 16": null
   },
   {
     "ID": "3576736",
@@ -22498,7 +23751,8 @@ const SULCACAO_DATA = [
     "OS": "168",
     "Frente": "105 - FRENTE CASSIO (ZACARIAS)",
     "Profundidade do Sulco": "37",
-    "Fazenda": NaN
+    "Fazenda": null,
+    "Unnamed: 16": null
   },
   {
     "ID": "3576730",
@@ -22516,7 +23770,8 @@ const SULCACAO_DATA = [
     "OS": "168",
     "Frente": "105 - FRENTE CASSIO (ZACARIAS)",
     "Profundidade do Sulco": "35",
-    "Fazenda": NaN
+    "Fazenda": null,
+    "Unnamed: 16": null
   },
   {
     "ID": "3576934",
@@ -22534,7 +23789,8 @@ const SULCACAO_DATA = [
     "OS": "33",
     "Frente": "142 - FRENTE BIDU",
     "Profundidade do Sulco": "40",
-    "Fazenda": NaN
+    "Fazenda": null,
+    "Unnamed: 16": null
   },
   {
     "ID": "3576933",
@@ -22552,7 +23808,8 @@ const SULCACAO_DATA = [
     "OS": "33",
     "Frente": "142 - FRENTE BIDU",
     "Profundidade do Sulco": "41",
-    "Fazenda": NaN
+    "Fazenda": null,
+    "Unnamed: 16": null
   },
   {
     "ID": "3576679",
@@ -22570,7 +23827,8 @@ const SULCACAO_DATA = [
     "OS": "175",
     "Frente": "143 - FRENTE CASSIO",
     "Profundidade do Sulco": "43",
-    "Fazenda": NaN
+    "Fazenda": null,
+    "Unnamed: 16": null
   },
   {
     "ID": "3576674",
@@ -22588,7 +23846,8 @@ const SULCACAO_DATA = [
     "OS": "175",
     "Frente": "143 - FRENTE CASSIO",
     "Profundidade do Sulco": "42",
-    "Fazenda": NaN
+    "Fazenda": null,
+    "Unnamed: 16": null
   },
   {
     "ID": "3576724",
@@ -22606,7 +23865,8 @@ const SULCACAO_DATA = [
     "OS": "168",
     "Frente": "105 - FRENTE CASSIO (ZACARIAS)",
     "Profundidade do Sulco": "38",
-    "Fazenda": NaN
+    "Fazenda": null,
+    "Unnamed: 16": null
   },
   {
     "ID": "3576720",
@@ -22624,7 +23884,8 @@ const SULCACAO_DATA = [
     "OS": "168",
     "Frente": "105 - FRENTE CASSIO (ZACARIAS)",
     "Profundidade do Sulco": "36",
-    "Fazenda": NaN
+    "Fazenda": null,
+    "Unnamed: 16": null
   },
   {
     "ID": "3576663",
@@ -22642,7 +23903,8 @@ const SULCACAO_DATA = [
     "OS": "175",
     "Frente": "143 - FRENTE CASSIO",
     "Profundidade do Sulco": "40",
-    "Fazenda": NaN
+    "Fazenda": null,
+    "Unnamed: 16": null
   },
   {
     "ID": "3576686",
@@ -22660,7 +23922,8 @@ const SULCACAO_DATA = [
     "OS": "175",
     "Frente": "143 - FRENTE CASSIO",
     "Profundidade do Sulco": "41",
-    "Fazenda": NaN
+    "Fazenda": null,
+    "Unnamed: 16": null
   },
   {
     "ID": "3576716",
@@ -22678,7 +23941,8 @@ const SULCACAO_DATA = [
     "OS": "168",
     "Frente": "105 - FRENTE CASSIO (ZACARIAS)",
     "Profundidade do Sulco": "35",
-    "Fazenda": NaN
+    "Fazenda": null,
+    "Unnamed: 16": null
   },
   {
     "ID": "3576669",
@@ -22696,7 +23960,8 @@ const SULCACAO_DATA = [
     "OS": "175",
     "Frente": "143 - FRENTE CASSIO",
     "Profundidade do Sulco": "42",
-    "Fazenda": NaN
+    "Fazenda": null,
+    "Unnamed: 16": null
   },
   {
     "ID": "3576661",
@@ -22714,7 +23979,8 @@ const SULCACAO_DATA = [
     "OS": "175",
     "Frente": "143 - FRENTE CASSIO",
     "Profundidade do Sulco": "40",
-    "Fazenda": NaN
+    "Fazenda": null,
+    "Unnamed: 16": null
   },
   {
     "ID": "3577367",
@@ -22732,7 +23998,8 @@ const SULCACAO_DATA = [
     "OS": "200",
     "Frente": "135 - FRENTE PEDRINHO",
     "Profundidade do Sulco": "40",
-    "Fazenda": NaN
+    "Fazenda": null,
+    "Unnamed: 16": null
   },
   {
     "ID": "3577361",
@@ -22750,7 +24017,8 @@ const SULCACAO_DATA = [
     "OS": "200",
     "Frente": "135 - FRENTE PEDRINHO",
     "Profundidade do Sulco": "37",
-    "Fazenda": NaN
+    "Fazenda": null,
+    "Unnamed: 16": null
   },
   {
     "ID": "3577359",
@@ -22768,7 +24036,8 @@ const SULCACAO_DATA = [
     "OS": "200",
     "Frente": "135 - FRENTE PEDRINHO",
     "Profundidade do Sulco": "38",
-    "Fazenda": NaN
+    "Fazenda": null,
+    "Unnamed: 16": null
   },
   {
     "ID": "3577351",
@@ -22786,7 +24055,8 @@ const SULCACAO_DATA = [
     "OS": "200",
     "Frente": "135 - FRENTE PEDRINHO",
     "Profundidade do Sulco": "42",
-    "Fazenda": NaN
+    "Fazenda": null,
+    "Unnamed: 16": null
   },
   {
     "ID": "3577347",
@@ -22804,7 +24074,8 @@ const SULCACAO_DATA = [
     "OS": "200",
     "Frente": "135 - FRENTE PEDRINHO",
     "Profundidade do Sulco": "38",
-    "Fazenda": NaN
+    "Fazenda": null,
+    "Unnamed: 16": null
   },
   {
     "ID": "3577341",
@@ -22822,7 +24093,8 @@ const SULCACAO_DATA = [
     "OS": "200",
     "Frente": "135 - FRENTE PEDRINHO",
     "Profundidade do Sulco": "41",
-    "Fazenda": NaN
+    "Fazenda": null,
+    "Unnamed: 16": null
   },
   {
     "ID": "3577337",
@@ -22840,7 +24112,8 @@ const SULCACAO_DATA = [
     "OS": "200",
     "Frente": "135 - FRENTE PEDRINHO",
     "Profundidade do Sulco": "41",
-    "Fazenda": NaN
+    "Fazenda": null,
+    "Unnamed: 16": null
   },
   {
     "ID": "3577329",
@@ -22858,7 +24131,8 @@ const SULCACAO_DATA = [
     "OS": "200",
     "Frente": "135 - FRENTE PEDRINHO",
     "Profundidade do Sulco": "37",
-    "Fazenda": NaN
+    "Fazenda": null,
+    "Unnamed: 16": null
   },
   {
     "ID": "3577324",
@@ -22876,7 +24150,8 @@ const SULCACAO_DATA = [
     "OS": "200",
     "Frente": "135 - FRENTE PEDRINHO",
     "Profundidade do Sulco": "40",
-    "Fazenda": NaN
+    "Fazenda": null,
+    "Unnamed: 16": null
   },
   {
     "ID": "3574649",
@@ -22894,7 +24169,8 @@ const SULCACAO_DATA = [
     "OS": "1111",
     "Frente": "139 - FRENTE MANEZÃO",
     "Profundidade do Sulco": "37",
-    "Fazenda": NaN
+    "Fazenda": null,
+    "Unnamed: 16": null
   },
   {
     "ID": "3574860",
@@ -22912,7 +24188,8 @@ const SULCACAO_DATA = [
     "OS": "200",
     "Frente": "135 - FRENTE PEDRINHO",
     "Profundidade do Sulco": "38",
-    "Fazenda": NaN
+    "Fazenda": null,
+    "Unnamed: 16": null
   },
   {
     "ID": "3574589",
@@ -22930,7 +24207,8 @@ const SULCACAO_DATA = [
     "OS": "1111",
     "Frente": "139 - FRENTE MANEZÃO",
     "Profundidade do Sulco": "38",
-    "Fazenda": NaN
+    "Fazenda": null,
+    "Unnamed: 16": null
   },
   {
     "ID": "3574859",
@@ -22948,7 +24226,8 @@ const SULCACAO_DATA = [
     "OS": "200",
     "Frente": "135 - FRENTE PEDRINHO",
     "Profundidade do Sulco": "42",
-    "Fazenda": NaN
+    "Fazenda": null,
+    "Unnamed: 16": null
   },
   {
     "ID": "3574585",
@@ -22966,7 +24245,8 @@ const SULCACAO_DATA = [
     "OS": "1111",
     "Frente": "139 - FRENTE MANEZÃO",
     "Profundidade do Sulco": "39",
-    "Fazenda": NaN
+    "Fazenda": null,
+    "Unnamed: 16": null
   },
   {
     "ID": "3574853",
@@ -22984,7 +24264,8 @@ const SULCACAO_DATA = [
     "OS": "200",
     "Frente": "135 - FRENTE PEDRINHO",
     "Profundidade do Sulco": "44",
-    "Fazenda": NaN
+    "Fazenda": null,
+    "Unnamed: 16": null
   },
   {
     "ID": "3574710",
@@ -23002,7 +24283,8 @@ const SULCACAO_DATA = [
     "OS": "33",
     "Frente": "142 - FRENTE BIDU",
     "Profundidade do Sulco": "41",
-    "Fazenda": NaN
+    "Fazenda": null,
+    "Unnamed: 16": null
   },
   {
     "ID": "3574709",
@@ -23020,7 +24302,8 @@ const SULCACAO_DATA = [
     "OS": "33",
     "Frente": "142 - FRENTE BIDU",
     "Profundidade do Sulco": "40",
-    "Fazenda": NaN
+    "Fazenda": null,
+    "Unnamed: 16": null
   },
   {
     "ID": "3574850",
@@ -23038,7 +24321,8 @@ const SULCACAO_DATA = [
     "OS": "200",
     "Frente": "135 - FRENTE PEDRINHO",
     "Profundidade do Sulco": "40",
-    "Fazenda": NaN
+    "Fazenda": null,
+    "Unnamed: 16": null
   },
   {
     "ID": "3574581",
@@ -23056,7 +24340,8 @@ const SULCACAO_DATA = [
     "OS": "1111",
     "Frente": "139 - FRENTE MANEZÃO",
     "Profundidade do Sulco": "38",
-    "Fazenda": NaN
+    "Fazenda": null,
+    "Unnamed: 16": null
   },
   {
     "ID": "3574838",
@@ -23074,7 +24359,8 @@ const SULCACAO_DATA = [
     "OS": "200",
     "Frente": "135 - FRENTE PEDRINHO",
     "Profundidade do Sulco": "39",
-    "Fazenda": NaN
+    "Fazenda": null,
+    "Unnamed: 16": null
   },
   {
     "ID": "3574530",
@@ -23092,7 +24378,8 @@ const SULCACAO_DATA = [
     "OS": "168",
     "Frente": "105 - FRENTE CASSIO",
     "Profundidade do Sulco": "37",
-    "Fazenda": NaN
+    "Fazenda": null,
+    "Unnamed: 16": null
   },
   {
     "ID": "3574523",
@@ -23110,7 +24397,8 @@ const SULCACAO_DATA = [
     "OS": "168",
     "Frente": "105 - FRENTE CASSIO",
     "Profundidade do Sulco": "36",
-    "Fazenda": NaN
+    "Fazenda": null,
+    "Unnamed: 16": null
   },
   {
     "ID": "3574266",
@@ -23128,7 +24416,8 @@ const SULCACAO_DATA = [
     "OS": "1111",
     "Frente": "139 - FRENTE MANEZÃO",
     "Profundidade do Sulco": "40",
-    "Fazenda": NaN
+    "Fazenda": null,
+    "Unnamed: 16": null
   },
   {
     "ID": "3574559",
@@ -23146,7 +24435,8 @@ const SULCACAO_DATA = [
     "OS": "168",
     "Frente": "143 - FRENTE CASSIO",
     "Profundidade do Sulco": "45",
-    "Fazenda": NaN
+    "Fazenda": null,
+    "Unnamed: 16": null
   },
   {
     "ID": "3574259",
@@ -23164,7 +24454,8 @@ const SULCACAO_DATA = [
     "OS": "1111",
     "Frente": "139 - FRENTE MANEZÃO",
     "Profundidade do Sulco": "40",
-    "Fazenda": NaN
+    "Fazenda": null,
+    "Unnamed: 16": null
   },
   {
     "ID": "3569910",
@@ -23182,7 +24473,8 @@ const SULCACAO_DATA = [
     "OS": "43",
     "Frente": "143 - FRENTE CASSIO",
     "Profundidade do Sulco": "38",
-    "Fazenda": NaN
+    "Fazenda": null,
+    "Unnamed: 16": null
   },
   {
     "ID": "3574552",
@@ -23200,7 +24492,8 @@ const SULCACAO_DATA = [
     "OS": "168",
     "Frente": "143 - FRENTE CASSIO",
     "Profundidade do Sulco": "44",
-    "Fazenda": NaN
+    "Fazenda": null,
+    "Unnamed: 16": null
   },
   {
     "ID": "3574438",
@@ -23218,7 +24511,8 @@ const SULCACAO_DATA = [
     "OS": "64",
     "Frente": "261 - FRENTE PRÓPRIA  (EDMILSON)",
     "Profundidade do Sulco": "38",
-    "Fazenda": NaN
+    "Fazenda": null,
+    "Unnamed: 16": null
   },
   {
     "ID": "3574684",
@@ -23236,7 +24530,8 @@ const SULCACAO_DATA = [
     "OS": "33",
     "Frente": "142 - FRENTE BIDU",
     "Profundidade do Sulco": "37",
-    "Fazenda": NaN
+    "Fazenda": null,
+    "Unnamed: 16": null
   },
   {
     "ID": "3574254",
@@ -23254,7 +24549,8 @@ const SULCACAO_DATA = [
     "OS": "1111",
     "Frente": "139 - FRENTE MANEZÃO",
     "Profundidade do Sulco": "38",
-    "Fazenda": NaN
+    "Fazenda": null,
+    "Unnamed: 16": null
   },
   {
     "ID": "3574683",
@@ -23272,7 +24568,8 @@ const SULCACAO_DATA = [
     "OS": "33",
     "Frente": "142 - FRENTE BIDU",
     "Profundidade do Sulco": "40",
-    "Fazenda": NaN
+    "Fazenda": null,
+    "Unnamed: 16": null
   },
   {
     "ID": "3574435",
@@ -23290,7 +24587,8 @@ const SULCACAO_DATA = [
     "OS": "64",
     "Frente": "261 - FRENTE PRÓPRIA  (EDMILSON)",
     "Profundidade do Sulco": "38",
-    "Fazenda": NaN
+    "Fazenda": null,
+    "Unnamed: 16": null
   },
   {
     "ID": "3574249",
@@ -23308,7 +24606,8 @@ const SULCACAO_DATA = [
     "OS": "1111",
     "Frente": "139 - FRENTE MANEZÃO",
     "Profundidade do Sulco": "38",
-    "Fazenda": NaN
+    "Fazenda": null,
+    "Unnamed: 16": null
   },
   {
     "ID": "3574547",
@@ -23326,7 +24625,8 @@ const SULCACAO_DATA = [
     "OS": "168",
     "Frente": "143 - FRENTE CASSIO",
     "Profundidade do Sulco": "43",
-    "Fazenda": NaN
+    "Fazenda": null,
+    "Unnamed: 16": null
   },
   {
     "ID": "3574245",
@@ -23344,7 +24644,8 @@ const SULCACAO_DATA = [
     "OS": "1111",
     "Frente": "139 - FRENTE MANEZÃO",
     "Profundidade do Sulco": "40",
-    "Fazenda": NaN
+    "Fazenda": null,
+    "Unnamed: 16": null
   },
   {
     "ID": "3574427",
@@ -23362,7 +24663,8 @@ const SULCACAO_DATA = [
     "OS": "64",
     "Frente": "261 - FRENTE PRÓPRIA  (EDMILSON)",
     "Profundidade do Sulco": "39",
-    "Fazenda": NaN
+    "Fazenda": null,
+    "Unnamed: 16": null
   },
   {
     "ID": "3574542",
@@ -23380,7 +24682,8 @@ const SULCACAO_DATA = [
     "OS": "168",
     "Frente": "143 - FRENTE CASSIO",
     "Profundidade do Sulco": "44",
-    "Fazenda": NaN
+    "Fazenda": null,
+    "Unnamed: 16": null
   },
   {
     "ID": "3574502",
@@ -23398,7 +24701,8 @@ const SULCACAO_DATA = [
     "OS": "167",
     "Frente": "105 - FRENTE CASSIO",
     "Profundidade do Sulco": "36",
-    "Fazenda": NaN
+    "Fazenda": null,
+    "Unnamed: 16": null
   },
   {
     "ID": "3574538",
@@ -23416,7 +24720,8 @@ const SULCACAO_DATA = [
     "OS": "168",
     "Frente": "143 - FRENTE CASSIO",
     "Profundidade do Sulco": "43",
-    "Fazenda": NaN
+    "Fazenda": null,
+    "Unnamed: 16": null
   },
   {
     "ID": "3574537",
@@ -23434,7 +24739,8 @@ const SULCACAO_DATA = [
     "OS": "168",
     "Frente": "143 - FRENTE CASSIO",
     "Profundidade do Sulco": "40",
-    "Fazenda": NaN
+    "Fazenda": null,
+    "Unnamed: 16": null
   },
   {
     "ID": "3574497",
@@ -23452,7 +24758,8 @@ const SULCACAO_DATA = [
     "OS": "167",
     "Frente": "105 - FRENTE CASSIO",
     "Profundidade do Sulco": "35",
-    "Fazenda": NaN
+    "Fazenda": null,
+    "Unnamed: 16": null
   },
   {
     "ID": "3574194",
@@ -23470,7 +24777,8 @@ const SULCACAO_DATA = [
     "OS": "1111",
     "Frente": "139 - FRENTE MANEZÃO",
     "Profundidade do Sulco": "40",
-    "Fazenda": NaN
+    "Fazenda": null,
+    "Unnamed: 16": null
   },
   {
     "ID": "3574193",
@@ -23488,7 +24796,8 @@ const SULCACAO_DATA = [
     "OS": "1111",
     "Frente": "139 - FRENTE MANEZÃO",
     "Profundidade do Sulco": "39",
-    "Fazenda": NaN
+    "Fazenda": null,
+    "Unnamed: 16": null
   },
   {
     "ID": "3574192",
@@ -23506,7 +24815,8 @@ const SULCACAO_DATA = [
     "OS": "1111",
     "Frente": "139 - FRENTE MANEZÃO",
     "Profundidade do Sulco": "42",
-    "Fazenda": NaN
+    "Fazenda": null,
+    "Unnamed: 16": null
   },
   {
     "ID": "3574191",
@@ -23524,7 +24834,8 @@ const SULCACAO_DATA = [
     "OS": "1111",
     "Frente": "139 - FRENTE MANEZÃO",
     "Profundidade do Sulco": "39",
-    "Fazenda": NaN
+    "Fazenda": null,
+    "Unnamed: 16": null
   },
   {
     "ID": "3574189",
@@ -23542,7 +24853,8 @@ const SULCACAO_DATA = [
     "OS": "1111",
     "Frente": "139 - FRENTE MANEZÃO",
     "Profundidade do Sulco": "41",
-    "Fazenda": NaN
+    "Fazenda": null,
+    "Unnamed: 16": null
   },
   {
     "ID": "3574412",
@@ -23560,7 +24872,8 @@ const SULCACAO_DATA = [
     "OS": "64",
     "Frente": "261 - FRENTE PRÓPRIA  (EDMILSON)",
     "Profundidade do Sulco": "38",
-    "Fazenda": NaN
+    "Fazenda": null,
+    "Unnamed: 16": null
   },
   {
     "ID": "3574494",
@@ -23578,7 +24891,8 @@ const SULCACAO_DATA = [
     "OS": "167",
     "Frente": "105 - FRENTE CASSIO",
     "Profundidade do Sulco": "36",
-    "Fazenda": NaN
+    "Fazenda": null,
+    "Unnamed: 16": null
   },
   {
     "ID": "3574407",
@@ -23596,7 +24910,8 @@ const SULCACAO_DATA = [
     "OS": "64",
     "Frente": "261 - FRENTE PRÓPRIA  (EDMILSON)",
     "Profundidade do Sulco": "39",
-    "Fazenda": NaN
+    "Fazenda": null,
+    "Unnamed: 16": null
   },
   {
     "ID": "3574490",
@@ -23614,7 +24929,8 @@ const SULCACAO_DATA = [
     "OS": "167",
     "Frente": "105 - FRENTE CASSIO",
     "Profundidade do Sulco": "35",
-    "Fazenda": NaN
+    "Fazenda": null,
+    "Unnamed: 16": null
   },
   {
     "ID": "3574402",
@@ -23632,7 +24948,8 @@ const SULCACAO_DATA = [
     "OS": "64",
     "Frente": "261 - FRENTE PRÓPRIA  (EDMILSON)",
     "Profundidade do Sulco": "38",
-    "Fazenda": NaN
+    "Fazenda": null,
+    "Unnamed: 16": null
   },
   {
     "ID": "3574479",
@@ -23650,7 +24967,8 @@ const SULCACAO_DATA = [
     "OS": "167",
     "Frente": "105 - FRENTE CASSIO",
     "Profundidade do Sulco": "37",
-    "Fazenda": NaN
+    "Fazenda": null,
+    "Unnamed: 16": null
   },
   {
     "ID": "3574397",
@@ -23668,7 +24986,8 @@ const SULCACAO_DATA = [
     "OS": "64",
     "Frente": "261 - FRENTE PRÓPRIA  (EDMILSON)",
     "Profundidade do Sulco": "39",
-    "Fazenda": NaN
+    "Fazenda": null,
+    "Unnamed: 16": null
   },
   {
     "ID": "3574681",
@@ -23686,7 +25005,8 @@ const SULCACAO_DATA = [
     "OS": "33",
     "Frente": "142 - FRENTE BIDU",
     "Profundidade do Sulco": "40",
-    "Fazenda": NaN
+    "Fazenda": null,
+    "Unnamed: 16": null
   },
   {
     "ID": "3574475",
@@ -23704,7 +25024,8 @@ const SULCACAO_DATA = [
     "OS": "167",
     "Frente": "105 - FRENTE CASSIO",
     "Profundidade do Sulco": "36",
-    "Fazenda": NaN
+    "Fazenda": null,
+    "Unnamed: 16": null
   },
   {
     "ID": "3574393",
@@ -23722,7 +25043,8 @@ const SULCACAO_DATA = [
     "OS": "64",
     "Frente": "261 - FRENTE PRÓPRIA  (EDMILSON)",
     "Profundidade do Sulco": "39",
-    "Fazenda": NaN
+    "Fazenda": null,
+    "Unnamed: 16": null
   },
   {
     "ID": "3574471",
@@ -23740,7 +25062,8 @@ const SULCACAO_DATA = [
     "OS": "167",
     "Frente": "105 - FRENTE CASSIO",
     "Profundidade do Sulco": "35",
-    "Fazenda": NaN
+    "Fazenda": null,
+    "Unnamed: 16": null
   },
   {
     "ID": "3574388",
@@ -23758,7 +25081,8 @@ const SULCACAO_DATA = [
     "OS": "64",
     "Frente": "261 - FRENTE PRÓPRIA  (EDMILSON)",
     "Profundidade do Sulco": "38",
-    "Fazenda": NaN
+    "Fazenda": null,
+    "Unnamed: 16": null
   },
   {
     "ID": "3574383",
@@ -23776,7 +25100,8 @@ const SULCACAO_DATA = [
     "OS": "64",
     "Frente": "261 - FRENTE PRÓPRIA  (EDMILSON)",
     "Profundidade do Sulco": "37",
-    "Fazenda": NaN
+    "Fazenda": null,
+    "Unnamed: 16": null
   },
   {
     "ID": "3572725",
@@ -23794,7 +25119,8 @@ const SULCACAO_DATA = [
     "OS": "167",
     "Frente": "105 - FRENTE CASSIO",
     "Profundidade do Sulco": "41",
-    "Fazenda": NaN
+    "Fazenda": null,
+    "Unnamed: 16": null
   },
   {
     "ID": "3572720",
@@ -23812,7 +25138,8 @@ const SULCACAO_DATA = [
     "OS": "167",
     "Frente": "105 - FRENTE CASSIO",
     "Profundidade do Sulco": "36",
-    "Fazenda": NaN
+    "Fazenda": null,
+    "Unnamed: 16": null
   },
   {
     "ID": "3572637",
@@ -23830,7 +25157,8 @@ const SULCACAO_DATA = [
     "OS": "167",
     "Frente": "105 - FRENTE CASSIO",
     "Profundidade do Sulco": "36",
-    "Fazenda": NaN
+    "Fazenda": null,
+    "Unnamed: 16": null
   },
   {
     "ID": "3572763",
@@ -23848,7 +25176,8 @@ const SULCACAO_DATA = [
     "OS": "64",
     "Frente": "261 - FRENTE PRÓPRIA  (EDMILSON)",
     "Profundidade do Sulco": "38",
-    "Fazenda": NaN
+    "Fazenda": null,
+    "Unnamed: 16": null
   },
   {
     "ID": "3572633",
@@ -23866,7 +25195,8 @@ const SULCACAO_DATA = [
     "OS": "167",
     "Frente": "105 - FRENTE CASSIO",
     "Profundidade do Sulco": "37",
-    "Fazenda": NaN
+    "Fazenda": null,
+    "Unnamed: 16": null
   },
   {
     "ID": "3572758",
@@ -23884,7 +25214,8 @@ const SULCACAO_DATA = [
     "OS": "64",
     "Frente": "261 - FRENTE PRÓPRIA  (EDMILSON)",
     "Profundidade do Sulco": "38",
-    "Fazenda": NaN
+    "Fazenda": null,
+    "Unnamed: 16": null
   },
   {
     "ID": "3572715",
@@ -23902,7 +25233,8 @@ const SULCACAO_DATA = [
     "OS": "167",
     "Frente": "105 - FRENTE CASSIO",
     "Profundidade do Sulco": "42",
-    "Fazenda": NaN
+    "Fazenda": null,
+    "Unnamed: 16": null
   },
   {
     "ID": "3572710",
@@ -23920,7 +25252,8 @@ const SULCACAO_DATA = [
     "OS": "167",
     "Frente": "105 - FRENTE CASSIO",
     "Profundidade do Sulco": "39",
-    "Fazenda": NaN
+    "Fazenda": null,
+    "Unnamed: 16": null
   },
   {
     "ID": "3572752",
@@ -23938,7 +25271,8 @@ const SULCACAO_DATA = [
     "OS": "64",
     "Frente": "261 - FRENTE PRÓPRIA  (EDMILSON)",
     "Profundidade do Sulco": "38",
-    "Fazenda": NaN
+    "Fazenda": null,
+    "Unnamed: 16": null
   },
   {
     "ID": "3572607",
@@ -23956,7 +25290,8 @@ const SULCACAO_DATA = [
     "OS": "167",
     "Frente": "105 - FRENTE CASSIO",
     "Profundidade do Sulco": "35",
-    "Fazenda": NaN
+    "Fazenda": null,
+    "Unnamed: 16": null
   },
   {
     "ID": "3572747",
@@ -23974,7 +25309,8 @@ const SULCACAO_DATA = [
     "OS": "64",
     "Frente": "261 - FRENTE PRÓPRIA  (EDMILSON)",
     "Profundidade do Sulco": "39",
-    "Fazenda": NaN
+    "Fazenda": null,
+    "Unnamed: 16": null
   },
   {
     "ID": "3572705",
@@ -23992,7 +25328,8 @@ const SULCACAO_DATA = [
     "OS": "167",
     "Frente": "105 - FRENTE CASSIO",
     "Profundidade do Sulco": "37",
-    "Fazenda": NaN
+    "Fazenda": null,
+    "Unnamed: 16": null
   },
   {
     "ID": "3572589",
@@ -24010,7 +25347,8 @@ const SULCACAO_DATA = [
     "OS": "30",
     "Frente": "135 - PEDRINHO ",
     "Profundidade do Sulco": "38",
-    "Fazenda": NaN
+    "Fazenda": null,
+    "Unnamed: 16": null
   },
   {
     "ID": "3572700",
@@ -24028,7 +25366,8 @@ const SULCACAO_DATA = [
     "OS": "167",
     "Frente": "105 - FRENTE CASSIO",
     "Profundidade do Sulco": "36",
-    "Fazenda": NaN
+    "Fazenda": null,
+    "Unnamed: 16": null
   },
   {
     "ID": "3572584",
@@ -24046,7 +25385,8 @@ const SULCACAO_DATA = [
     "OS": "30",
     "Frente": "135 - PEDRINHO ",
     "Profundidade do Sulco": "36",
-    "Fazenda": NaN
+    "Fazenda": null,
+    "Unnamed: 16": null
   },
   {
     "ID": "3572497",
@@ -24064,7 +25404,8 @@ const SULCACAO_DATA = [
     "OS": "167",
     "Frente": "105 - FRENTE CASSIO",
     "Profundidade do Sulco": "36",
-    "Fazenda": NaN
+    "Fazenda": null,
+    "Unnamed: 16": null
   },
   {
     "ID": "3572695",
@@ -24082,7 +25423,8 @@ const SULCACAO_DATA = [
     "OS": "30",
     "Frente": "135 - PEDRINHO ",
     "Profundidade do Sulco": "40",
-    "Fazenda": NaN
+    "Fazenda": null,
+    "Unnamed: 16": null
   },
   {
     "ID": "3572690",
@@ -24100,7 +25442,8 @@ const SULCACAO_DATA = [
     "OS": "30",
     "Frente": "135 - PEDRINHO ",
     "Profundidade do Sulco": "37",
-    "Fazenda": NaN
+    "Fazenda": null,
+    "Unnamed: 16": null
   },
   {
     "ID": "3572685",
@@ -24118,7 +25461,8 @@ const SULCACAO_DATA = [
     "OS": "30",
     "Frente": "135 - PEDRINHO ",
     "Profundidade do Sulco": "37",
-    "Fazenda": NaN
+    "Fazenda": null,
+    "Unnamed: 16": null
   },
   {
     "ID": "3572680",
@@ -24136,7 +25480,8 @@ const SULCACAO_DATA = [
     "OS": "30",
     "Frente": "135 - PEDRINHO ",
     "Profundidade do Sulco": "35",
-    "Fazenda": NaN
+    "Fazenda": null,
+    "Unnamed: 16": null
   },
   {
     "ID": "3572675",
@@ -24154,7 +25499,8 @@ const SULCACAO_DATA = [
     "OS": "30",
     "Frente": "135 - PEDRINHO ",
     "Profundidade do Sulco": "36",
-    "Fazenda": NaN
+    "Fazenda": null,
+    "Unnamed: 16": null
   },
   {
     "ID": "3572670",
@@ -24172,7 +25518,8 @@ const SULCACAO_DATA = [
     "OS": "73",
     "Frente": "139 - FRENTE MANEZÃO",
     "Profundidade do Sulco": "40",
-    "Fazenda": NaN
+    "Fazenda": null,
+    "Unnamed: 16": null
   },
   {
     "ID": "3572665",
@@ -24190,7 +25537,8 @@ const SULCACAO_DATA = [
     "OS": "73",
     "Frente": "139 - FRENTE MANEZÃO",
     "Profundidade do Sulco": "37",
-    "Fazenda": NaN
+    "Fazenda": null,
+    "Unnamed: 16": null
   },
   {
     "ID": "3572660",
@@ -24208,7 +25556,8 @@ const SULCACAO_DATA = [
     "OS": "73",
     "Frente": "139 - FRENTE MANEZÃO",
     "Profundidade do Sulco": "38",
-    "Fazenda": NaN
+    "Fazenda": null,
+    "Unnamed: 16": null
   },
   {
     "ID": "3572399",
@@ -24226,7 +25575,8 @@ const SULCACAO_DATA = [
     "OS": "73",
     "Frente": "139 - FRENTE MANEZÃO",
     "Profundidade do Sulco": "38",
-    "Fazenda": NaN
+    "Fazenda": null,
+    "Unnamed: 16": null
   },
   {
     "ID": "3572575",
@@ -24244,7 +25594,8 @@ const SULCACAO_DATA = [
     "OS": "30",
     "Frente": "135 - PEDRINHO ",
     "Profundidade do Sulco": "39",
-    "Fazenda": NaN
+    "Fazenda": null,
+    "Unnamed: 16": null
   },
   {
     "ID": "3572570",
@@ -24262,7 +25613,8 @@ const SULCACAO_DATA = [
     "OS": "30",
     "Frente": "135 - PEDRINHO ",
     "Profundidade do Sulco": "40",
-    "Fazenda": NaN
+    "Fazenda": null,
+    "Unnamed: 16": null
   },
   {
     "ID": "3572655",
@@ -24280,7 +25632,8 @@ const SULCACAO_DATA = [
     "OS": "73",
     "Frente": "139 - FRENTE MANEZÃO",
     "Profundidade do Sulco": "37",
-    "Fazenda": NaN
+    "Fazenda": null,
+    "Unnamed: 16": null
   },
   {
     "ID": "3572394",
@@ -24298,7 +25651,8 @@ const SULCACAO_DATA = [
     "OS": "73",
     "Frente": "139 - FRENTE MANEZÃO",
     "Profundidade do Sulco": "40",
-    "Fazenda": NaN
+    "Fazenda": null,
+    "Unnamed: 16": null
   },
   {
     "ID": "3572393",
@@ -24316,7 +25670,8 @@ const SULCACAO_DATA = [
     "OS": "73",
     "Frente": "139 - FRENTE MANEZÃO",
     "Profundidade do Sulco": "40",
-    "Fazenda": NaN
+    "Fazenda": null,
+    "Unnamed: 16": null
   },
   {
     "ID": "3572650",
@@ -24334,7 +25689,8 @@ const SULCACAO_DATA = [
     "OS": "73",
     "Frente": "139 - FRENTE MANEZÃO",
     "Profundidade do Sulco": "35",
-    "Fazenda": NaN
+    "Fazenda": null,
+    "Unnamed: 16": null
   },
   {
     "ID": "3572645",
@@ -24352,7 +25708,8 @@ const SULCACAO_DATA = [
     "OS": "64",
     "Frente": "261 - FRENTE PRÓPRIA  (EDMILSON)",
     "Profundidade do Sulco": "37",
-    "Fazenda": NaN
+    "Fazenda": null,
+    "Unnamed: 16": null
   },
   {
     "ID": "3572640",
@@ -24370,7 +25727,8 @@ const SULCACAO_DATA = [
     "OS": "64",
     "Frente": "261 - FRENTE PRÓPRIA  (EDMILSON)",
     "Profundidade do Sulco": "37",
-    "Fazenda": NaN
+    "Fazenda": null,
+    "Unnamed: 16": null
   },
   {
     "ID": "3572189",
@@ -24388,7 +25746,8 @@ const SULCACAO_DATA = [
     "OS": "64",
     "Frente": "261 - FRENTE PRÓPRIA  (EDMILSON)",
     "Profundidade do Sulco": "37",
-    "Fazenda": NaN
+    "Fazenda": null,
+    "Unnamed: 16": null
   },
   {
     "ID": "3572490",
@@ -24406,7 +25765,8 @@ const SULCACAO_DATA = [
     "OS": "64",
     "Frente": "261 - FRENTE PRÓPRIA  (EDMILSON)",
     "Profundidade do Sulco": "40",
-    "Fazenda": NaN
+    "Fazenda": null,
+    "Unnamed: 16": null
   },
   {
     "ID": "3572184",
@@ -24424,7 +25784,8 @@ const SULCACAO_DATA = [
     "OS": "64",
     "Frente": "261 - FRENTE PRÓPRIA  (EDMILSON)",
     "Profundidade do Sulco": "38",
-    "Fazenda": NaN
+    "Fazenda": null,
+    "Unnamed: 16": null
   },
   {
     "ID": "3572485",
@@ -24442,7 +25803,8 @@ const SULCACAO_DATA = [
     "OS": "64",
     "Frente": "261 - FRENTE PRÓPRIA  (EDMILSON)",
     "Profundidade do Sulco": "35",
-    "Fazenda": NaN
+    "Fazenda": null,
+    "Unnamed: 16": null
   },
   {
     "ID": "3572558",
@@ -24460,7 +25822,8 @@ const SULCACAO_DATA = [
     "OS": "30",
     "Frente": "135 - PEDRINHO ",
     "Profundidade do Sulco": "41",
-    "Fazenda": NaN
+    "Fazenda": null,
+    "Unnamed: 16": null
   },
   {
     "ID": "3572179",
@@ -24478,7 +25841,8 @@ const SULCACAO_DATA = [
     "OS": "64",
     "Frente": "261 - FRENTE PRÓPRIA  (EDMILSON)",
     "Profundidade do Sulco": "37",
-    "Fazenda": NaN
+    "Fazenda": null,
+    "Unnamed: 16": null
   },
   {
     "ID": "3572480",
@@ -24496,7 +25860,8 @@ const SULCACAO_DATA = [
     "OS": "64",
     "Frente": "261 - FRENTE PRÓPRIA  (EDMILSON)",
     "Profundidade do Sulco": "39",
-    "Fazenda": NaN
+    "Fazenda": null,
+    "Unnamed: 16": null
   },
   {
     "ID": "3572175",
@@ -24514,7 +25879,8 @@ const SULCACAO_DATA = [
     "OS": "64",
     "Frente": "261 - FRENTE PRÓPRIA  (EDMILSON)",
     "Profundidade do Sulco": "38",
-    "Fazenda": NaN
+    "Fazenda": null,
+    "Unnamed: 16": null
   },
   {
     "ID": "3572170",
@@ -24532,7 +25898,8 @@ const SULCACAO_DATA = [
     "OS": "64",
     "Frente": "261 - FRENTE PRÓPRIA  (EDMILSON)",
     "Profundidade do Sulco": "37",
-    "Fazenda": NaN
+    "Fazenda": null,
+    "Unnamed: 16": null
   },
   {
     "ID": "3572542",
@@ -24550,7 +25917,8 @@ const SULCACAO_DATA = [
     "OS": "30",
     "Frente": "135 - PEDRINHO ",
     "Profundidade do Sulco": "38",
-    "Fazenda": NaN
+    "Fazenda": null,
+    "Unnamed: 16": null
   },
   {
     "ID": "3572529",
@@ -24568,7 +25936,8 @@ const SULCACAO_DATA = [
     "OS": "30",
     "Frente": "135 - PEDRINHO ",
     "Profundidade do Sulco": "42",
-    "Fazenda": NaN
+    "Fazenda": null,
+    "Unnamed: 16": null
   },
   {
     "ID": "3572510",
@@ -24586,7 +25955,8 @@ const SULCACAO_DATA = [
     "OS": "30",
     "Frente": "135 - PEDRINHO ",
     "Profundidade do Sulco": "38",
-    "Fazenda": NaN
+    "Fazenda": null,
+    "Unnamed: 16": null
   },
   {
     "ID": "3570285",
@@ -24604,7 +25974,8 @@ const SULCACAO_DATA = [
     "OS": "33",
     "Frente": "142 - FRENTE BIDU",
     "Profundidade do Sulco": "41",
-    "Fazenda": NaN
+    "Fazenda": null,
+    "Unnamed: 16": null
   },
   {
     "ID": "3570284",
@@ -24622,7 +25993,8 @@ const SULCACAO_DATA = [
     "OS": "33",
     "Frente": "142 - FRENTE BIDU",
     "Profundidade do Sulco": "39",
-    "Fazenda": NaN
+    "Fazenda": null,
+    "Unnamed: 16": null
   },
   {
     "ID": "3570283",
@@ -24640,7 +26012,8 @@ const SULCACAO_DATA = [
     "OS": "33",
     "Frente": "142 - FRENTE BIDU",
     "Profundidade do Sulco": "40",
-    "Fazenda": NaN
+    "Fazenda": null,
+    "Unnamed: 16": null
   },
   {
     "ID": "3570501",
@@ -24658,7 +26031,8 @@ const SULCACAO_DATA = [
     "OS": "43",
     "Frente": "143 - FRENTE CASSIO",
     "Profundidade do Sulco": "37",
-    "Fazenda": NaN
+    "Fazenda": null,
+    "Unnamed: 16": null
   },
   {
     "ID": "3570496",
@@ -24676,7 +26050,8 @@ const SULCACAO_DATA = [
     "OS": "43",
     "Frente": "143 - FRENTE CASSIO",
     "Profundidade do Sulco": "36",
-    "Fazenda": NaN
+    "Fazenda": null,
+    "Unnamed: 16": null
   },
   {
     "ID": "3570491",
@@ -24694,7 +26069,8 @@ const SULCACAO_DATA = [
     "OS": "43",
     "Frente": "143 - FRENTE CASSIO",
     "Profundidade do Sulco": "38",
-    "Fazenda": NaN
+    "Fazenda": null,
+    "Unnamed: 16": null
   },
   {
     "ID": "3571039",
@@ -24712,7 +26088,8 @@ const SULCACAO_DATA = [
     "OS": "9652",
     "Frente": "291 - FRENTE PRÓPRIA ",
     "Profundidade do Sulco": "38",
-    "Fazenda": NaN
+    "Fazenda": null,
+    "Unnamed: 16": null
   },
   {
     "ID": "3571034",
@@ -24730,7 +26107,8 @@ const SULCACAO_DATA = [
     "OS": "9652",
     "Frente": "261 - FRENTE PRÓPRIA  (EDMILSON)",
     "Profundidade do Sulco": "37",
-    "Fazenda": NaN
+    "Fazenda": null,
+    "Unnamed: 16": null
   },
   {
     "ID": "3570253",
@@ -24748,7 +26126,8 @@ const SULCACAO_DATA = [
     "OS": "9652",
     "Frente": "291 - FRENTE PRÓPRIA ",
     "Profundidade do Sulco": "39",
-    "Fazenda": NaN
+    "Fazenda": null,
+    "Unnamed: 16": null
   },
   {
     "ID": "3569974",
@@ -24766,7 +26145,8 @@ const SULCACAO_DATA = [
     "OS": "33",
     "Frente": "142 - FRENTE BIDU",
     "Profundidade do Sulco": "41",
-    "Fazenda": NaN
+    "Fazenda": null,
+    "Unnamed: 16": null
   },
   {
     "ID": "3569973",
@@ -24784,7 +26164,8 @@ const SULCACAO_DATA = [
     "OS": "33",
     "Frente": "142 - FRENTE BIDU",
     "Profundidade do Sulco": "38",
-    "Fazenda": NaN
+    "Fazenda": null,
+    "Unnamed: 16": null
   },
   {
     "ID": "3569972",
@@ -24802,7 +26183,8 @@ const SULCACAO_DATA = [
     "OS": "33",
     "Frente": "142 - FRENTE BIDU",
     "Profundidade do Sulco": "41",
-    "Fazenda": NaN
+    "Fazenda": null,
+    "Unnamed: 16": null
   },
   {
     "ID": "3569925",
@@ -24820,7 +26202,8 @@ const SULCACAO_DATA = [
     "OS": "43",
     "Frente": "143 - FRENTE CASSIO",
     "Profundidade do Sulco": "37",
-    "Fazenda": NaN
+    "Fazenda": null,
+    "Unnamed: 16": null
   },
   {
     "ID": "3569868",
@@ -24838,7 +26221,8 @@ const SULCACAO_DATA = [
     "OS": "9652",
     "Frente": "291 - FRENTE PRÓPRIA ",
     "Profundidade do Sulco": "39",
-    "Fazenda": NaN
+    "Fazenda": null,
+    "Unnamed: 16": null
   },
   {
     "ID": "3570486",
@@ -24856,7 +26240,8 @@ const SULCACAO_DATA = [
     "OS": "33",
     "Frente": "142 - FRENTE BIDU",
     "Profundidade do Sulco": "37",
-    "Fazenda": NaN
+    "Fazenda": null,
+    "Unnamed: 16": null
   },
   {
     "ID": "3569863",
@@ -24874,7 +26259,8 @@ const SULCACAO_DATA = [
     "OS": "9652",
     "Frente": "291 - FRENTE PRÓPRIA ",
     "Profundidade do Sulco": "38",
-    "Fazenda": NaN
+    "Fazenda": null,
+    "Unnamed: 16": null
   },
   {
     "ID": "3570480",
@@ -24892,7 +26278,8 @@ const SULCACAO_DATA = [
     "OS": "33",
     "Frente": "142 - FRENTE BIDU",
     "Profundidade do Sulco": "35",
-    "Fazenda": NaN
+    "Fazenda": null,
+    "Unnamed: 16": null
   },
   {
     "ID": "3570059",
@@ -24910,7 +26297,8 @@ const SULCACAO_DATA = [
     "OS": "42",
     "Frente": "105 - FRENTE CASSIO",
     "Profundidade do Sulco": "37",
-    "Fazenda": NaN
+    "Fazenda": null,
+    "Unnamed: 16": null
   },
   {
     "ID": "3570475",
@@ -24928,7 +26316,8 @@ const SULCACAO_DATA = [
     "OS": "33",
     "Frente": "142 - FRENTE BIDU",
     "Profundidade do Sulco": "37",
-    "Fazenda": NaN
+    "Fazenda": null,
+    "Unnamed: 16": null
   },
   {
     "ID": "3570129",
@@ -24946,7 +26335,8 @@ const SULCACAO_DATA = [
     "OS": "30",
     "Frente": "135 - PEDRINHO ",
     "Profundidade do Sulco": "36",
-    "Fazenda": NaN
+    "Fazenda": null,
+    "Unnamed: 16": null
   },
   {
     "ID": "3569849",
@@ -24964,7 +26354,8 @@ const SULCACAO_DATA = [
     "OS": "9652",
     "Frente": "261 - FRENTE PRÓPRIA  (EDMILSON)",
     "Profundidade do Sulco": "38",
-    "Fazenda": NaN
+    "Fazenda": null,
+    "Unnamed: 16": null
   },
   {
     "ID": "3569844",
@@ -24982,7 +26373,8 @@ const SULCACAO_DATA = [
     "OS": "9652",
     "Frente": "261 - FRENTE PRÓPRIA  (EDMILSON)",
     "Profundidade do Sulco": "38",
-    "Fazenda": NaN
+    "Fazenda": null,
+    "Unnamed: 16": null
   },
   {
     "ID": "3570124",
@@ -25000,7 +26392,8 @@ const SULCACAO_DATA = [
     "OS": "30",
     "Frente": "135 - PEDRINHO ",
     "Profundidade do Sulco": "39",
-    "Fazenda": NaN
+    "Fazenda": null,
+    "Unnamed: 16": null
   },
   {
     "ID": "3569838",
@@ -25018,7 +26411,8 @@ const SULCACAO_DATA = [
     "OS": "9652",
     "Frente": "261 - FRENTE PRÓPRIA  (EDMILSON)",
     "Profundidade do Sulco": "39",
-    "Fazenda": NaN
+    "Fazenda": null,
+    "Unnamed: 16": null
   },
   {
     "ID": "3570048",
@@ -25036,7 +26430,8 @@ const SULCACAO_DATA = [
     "OS": "42",
     "Frente": "105 - FRENTE CASSIO",
     "Profundidade do Sulco": "37",
-    "Fazenda": NaN
+    "Fazenda": null,
+    "Unnamed: 16": null
   },
   {
     "ID": "3570119",
@@ -25054,7 +26449,8 @@ const SULCACAO_DATA = [
     "OS": "30",
     "Frente": "135 - PEDRINHO ",
     "Profundidade do Sulco": "40",
-    "Fazenda": NaN
+    "Fazenda": null,
+    "Unnamed: 16": null
   },
   {
     "ID": "3569833",
@@ -25072,7 +26468,8 @@ const SULCACAO_DATA = [
     "OS": "9652",
     "Frente": "261 - FRENTE PRÓPRIA  (EDMILSON)",
     "Profundidade do Sulco": "39",
-    "Fazenda": NaN
+    "Fazenda": null,
+    "Unnamed: 16": null
   },
   {
     "ID": "3570114",
@@ -25090,7 +26487,8 @@ const SULCACAO_DATA = [
     "OS": "30",
     "Frente": "135 - PEDRINHO ",
     "Profundidade do Sulco": "38",
-    "Fazenda": NaN
+    "Fazenda": null,
+    "Unnamed: 16": null
   },
   {
     "ID": "3570045",
@@ -25108,7 +26506,8 @@ const SULCACAO_DATA = [
     "OS": "42",
     "Frente": "105 - FRENTE CASSIO",
     "Profundidade do Sulco": "37",
-    "Fazenda": NaN
+    "Fazenda": null,
+    "Unnamed: 16": null
   },
   {
     "ID": "3569827",
@@ -25126,7 +26525,8 @@ const SULCACAO_DATA = [
     "OS": "9652",
     "Frente": "261 - FRENTE PRÓPRIA  (EDMILSON)",
     "Profundidade do Sulco": "38",
-    "Fazenda": NaN
+    "Fazenda": null,
+    "Unnamed: 16": null
   },
   {
     "ID": "3570108",
@@ -25144,7 +26544,8 @@ const SULCACAO_DATA = [
     "OS": "30",
     "Frente": "135 - PEDRINHO ",
     "Profundidade do Sulco": "40",
-    "Fazenda": NaN
+    "Fazenda": null,
+    "Unnamed: 16": null
   },
   {
     "ID": "3569822",
@@ -25162,7 +26563,8 @@ const SULCACAO_DATA = [
     "OS": "9652",
     "Frente": "261 - FRENTE PRÓPRIA  (EDMILSON)",
     "Profundidade do Sulco": "37",
-    "Fazenda": NaN
+    "Fazenda": null,
+    "Unnamed: 16": null
   },
   {
     "ID": "3569818",
@@ -25180,7 +26582,8 @@ const SULCACAO_DATA = [
     "OS": "9652",
     "Frente": "261 - FRENTE PRÓPRIA  (EDMILSON)",
     "Profundidade do Sulco": "39",
-    "Fazenda": NaN
+    "Fazenda": null,
+    "Unnamed: 16": null
   },
   {
     "ID": "3569912",
@@ -25198,7 +26601,8 @@ const SULCACAO_DATA = [
     "OS": "43",
     "Frente": "143 - FRENTE CASSIO",
     "Profundidade do Sulco": "37",
-    "Fazenda": NaN
+    "Fazenda": null,
+    "Unnamed: 16": null
   },
   {
     "ID": "3569812",
@@ -25216,7 +26620,8 @@ const SULCACAO_DATA = [
     "OS": "9652",
     "Frente": "261 - FRENTE PRÓPRIA  (EDMILSON)",
     "Profundidade do Sulco": "38",
-    "Fazenda": NaN
+    "Fazenda": null,
+    "Unnamed: 16": null
   },
   {
     "ID": "3567586",
@@ -25234,7 +26639,8 @@ const SULCACAO_DATA = [
     "OS": "33",
     "Frente": "142 - FRENTE BIDU",
     "Profundidade do Sulco": "38",
-    "Fazenda": NaN
+    "Fazenda": null,
+    "Unnamed: 16": null
   },
   {
     "ID": "3567585",
@@ -25252,7 +26658,8 @@ const SULCACAO_DATA = [
     "OS": "33",
     "Frente": "142 - FRENTE BIDU",
     "Profundidade do Sulco": "39",
-    "Fazenda": NaN
+    "Fazenda": null,
+    "Unnamed: 16": null
   },
   {
     "ID": "3568439",
@@ -25270,7 +26677,8 @@ const SULCACAO_DATA = [
     "OS": "128",
     "Frente": "135 - PEDRINHO ",
     "Profundidade do Sulco": "38",
-    "Fazenda": NaN
+    "Fazenda": null,
+    "Unnamed: 16": null
   },
   {
     "ID": "3567721",
@@ -25288,7 +26696,8 @@ const SULCACAO_DATA = [
     "OS": "128",
     "Frente": "135 - PEDRINHO ",
     "Profundidade do Sulco": "36",
-    "Fazenda": NaN
+    "Fazenda": null,
+    "Unnamed: 16": null
   },
   {
     "ID": "3567606",
@@ -25306,7 +26715,8 @@ const SULCACAO_DATA = [
     "OS": "9652",
     "Frente": "261 - FRENTE PRÓPRIA  (EDMILSON)",
     "Profundidade do Sulco": "38",
-    "Fazenda": NaN
+    "Fazenda": null,
+    "Unnamed: 16": null
   },
   {
     "ID": "3567601",
@@ -25324,7 +26734,8 @@ const SULCACAO_DATA = [
     "OS": "9652",
     "Frente": "261 - FRENTE PRÓPRIA  (EDMILSON)",
     "Profundidade do Sulco": "38",
-    "Fazenda": NaN
+    "Fazenda": null,
+    "Unnamed: 16": null
   },
   {
     "ID": "3567594",
@@ -25342,7 +26753,8 @@ const SULCACAO_DATA = [
     "OS": "9652",
     "Frente": "261 - FRENTE PRÓPRIA  (EDMILSON)",
     "Profundidade do Sulco": "38",
-    "Fazenda": NaN
+    "Fazenda": null,
+    "Unnamed: 16": null
   },
   {
     "ID": "3567312",
@@ -25360,7 +26772,8 @@ const SULCACAO_DATA = [
     "OS": "128",
     "Frente": "142 - FRENTE BIDU",
     "Profundidade do Sulco": "40",
-    "Fazenda": NaN
+    "Fazenda": null,
+    "Unnamed: 16": null
   },
   {
     "ID": "3567313",
@@ -25378,7 +26791,8 @@ const SULCACAO_DATA = [
     "OS": "128",
     "Frente": "142 - FRENTE BIDU",
     "Profundidade do Sulco": "41",
-    "Fazenda": NaN
+    "Fazenda": null,
+    "Unnamed: 16": null
   },
   {
     "ID": "3567307",
@@ -25396,7 +26810,8 @@ const SULCACAO_DATA = [
     "OS": "128",
     "Frente": "135 - PEDRINHO ",
     "Profundidade do Sulco": "41",
-    "Fazenda": NaN
+    "Fazenda": null,
+    "Unnamed: 16": null
   },
   {
     "ID": "3567699",
@@ -25414,7 +26829,8 @@ const SULCACAO_DATA = [
     "OS": "128",
     "Frente": "135 - PEDRINHO ",
     "Profundidade do Sulco": "41",
-    "Fazenda": NaN
+    "Fazenda": null,
+    "Unnamed: 16": null
   },
   {
     "ID": "3567302",
@@ -25432,7 +26848,8 @@ const SULCACAO_DATA = [
     "OS": "128",
     "Frente": "135 - PEDRINHO ",
     "Profundidade do Sulco": "38",
-    "Fazenda": NaN
+    "Fazenda": null,
+    "Unnamed: 16": null
   },
   {
     "ID": "3567694",
@@ -25450,7 +26867,8 @@ const SULCACAO_DATA = [
     "OS": "128",
     "Frente": "135 - PEDRINHO ",
     "Profundidade do Sulco": "38",
-    "Fazenda": NaN
+    "Fazenda": null,
+    "Unnamed: 16": null
   },
   {
     "ID": "3567726",
@@ -25468,7 +26886,8 @@ const SULCACAO_DATA = [
     "OS": "43",
     "Frente": "143 - FRENTE CASSIO",
     "Profundidade do Sulco": "40",
-    "Fazenda": NaN
+    "Fazenda": null,
+    "Unnamed: 16": null
   },
   {
     "ID": "3567724",
@@ -25486,7 +26905,8 @@ const SULCACAO_DATA = [
     "OS": "43",
     "Frente": "143 - FRENTE CASSIO",
     "Profundidade do Sulco": "39",
-    "Fazenda": NaN
+    "Fazenda": null,
+    "Unnamed: 16": null
   },
   {
     "ID": "3567140",
@@ -25504,7 +26924,8 @@ const SULCACAO_DATA = [
     "OS": "9652",
     "Frente": "261 - FRENTE PRÓPRIA  (EDMILSON)",
     "Profundidade do Sulco": "39",
-    "Fazenda": NaN
+    "Fazenda": null,
+    "Unnamed: 16": null
   },
   {
     "ID": "3567135",
@@ -25522,7 +26943,8 @@ const SULCACAO_DATA = [
     "OS": "9652",
     "Frente": "261 - FRENTE PRÓPRIA  (EDMILSON)",
     "Profundidade do Sulco": "39",
-    "Fazenda": NaN
+    "Fazenda": null,
+    "Unnamed: 16": null
   },
   {
     "ID": "3567552",
@@ -25540,7 +26962,8 @@ const SULCACAO_DATA = [
     "OS": "43",
     "Frente": "143 - FRENTE CASSIO",
     "Profundidade do Sulco": "39",
-    "Fazenda": NaN
+    "Fazenda": null,
+    "Unnamed: 16": null
   },
   {
     "ID": "3567129",
@@ -25558,7 +26981,8 @@ const SULCACAO_DATA = [
     "OS": "9652",
     "Frente": "261 - FRENTE PRÓPRIA  (EDMILSON)",
     "Profundidade do Sulco": "37",
-    "Fazenda": NaN
+    "Fazenda": null,
+    "Unnamed: 16": null
   },
   {
     "ID": "3567124",
@@ -25576,7 +27000,8 @@ const SULCACAO_DATA = [
     "OS": "9652",
     "Frente": "261 - FRENTE PRÓPRIA  (EDMILSON)",
     "Profundidade do Sulco": "39",
-    "Fazenda": NaN
+    "Fazenda": null,
+    "Unnamed: 16": null
   },
   {
     "ID": "3567116",
@@ -25594,7 +27019,8 @@ const SULCACAO_DATA = [
     "OS": "9652",
     "Frente": "261 - FRENTE PRÓPRIA  (EDMILSON)",
     "Profundidade do Sulco": "39",
-    "Fazenda": NaN
+    "Fazenda": null,
+    "Unnamed: 16": null
   },
   {
     "ID": "3567296",
@@ -25612,7 +27038,8 @@ const SULCACAO_DATA = [
     "OS": "128",
     "Frente": "135 - PEDRINHO ",
     "Profundidade do Sulco": "43",
-    "Fazenda": NaN
+    "Fazenda": null,
+    "Unnamed: 16": null
   },
   {
     "ID": "3567111",
@@ -25630,7 +27057,8 @@ const SULCACAO_DATA = [
     "OS": "9652",
     "Frente": "261 - FRENTE PRÓPRIA  (EDMILSON)",
     "Profundidade do Sulco": "39",
-    "Fazenda": NaN
+    "Fazenda": null,
+    "Unnamed: 16": null
   },
   {
     "ID": "3567687",
@@ -25648,7 +27076,8 @@ const SULCACAO_DATA = [
     "OS": "128",
     "Frente": "135 - PEDRINHO ",
     "Profundidade do Sulco": "43",
-    "Fazenda": NaN
+    "Fazenda": null,
+    "Unnamed: 16": null
   },
   {
     "ID": "3567070",
@@ -25666,7 +27095,8 @@ const SULCACAO_DATA = [
     "OS": "9735",
     "Frente": "105 - FRENTE CASSIO",
     "Profundidade do Sulco": "36",
-    "Fazenda": NaN
+    "Fazenda": null,
+    "Unnamed: 16": null
   },
   {
     "ID": "3567106",
@@ -25684,7 +27114,8 @@ const SULCACAO_DATA = [
     "OS": "9652",
     "Frente": "261 - FRENTE PRÓPRIA  (EDMILSON)",
     "Profundidade do Sulco": "37",
-    "Fazenda": NaN
+    "Fazenda": null,
+    "Unnamed: 16": null
   },
   {
     "ID": "3567101",
@@ -25702,7 +27133,8 @@ const SULCACAO_DATA = [
     "OS": "9652",
     "Frente": "261 - FRENTE PRÓPRIA  (EDMILSON)",
     "Profundidade do Sulco": "39",
-    "Fazenda": NaN
+    "Fazenda": null,
+    "Unnamed: 16": null
   },
   {
     "ID": "3567063",
@@ -25720,7 +27152,8 @@ const SULCACAO_DATA = [
     "OS": "9735",
     "Frente": "105 - FRENTE CASSIO",
     "Profundidade do Sulco": "38",
-    "Fazenda": NaN
+    "Fazenda": null,
+    "Unnamed: 16": null
   },
   {
     "ID": "3567096",
@@ -25738,7 +27171,8 @@ const SULCACAO_DATA = [
     "OS": "9652",
     "Frente": "261 - FRENTE PRÓPRIA  (EDMILSON)",
     "Profundidade do Sulco": "39",
-    "Fazenda": NaN
+    "Fazenda": null,
+    "Unnamed: 16": null
   },
   {
     "ID": "3567059",
@@ -25756,7 +27190,8 @@ const SULCACAO_DATA = [
     "OS": "9735",
     "Frente": "105 - FRENTE CASSIO",
     "Profundidade do Sulco": "35",
-    "Fazenda": NaN
+    "Fazenda": null,
+    "Unnamed: 16": null
   },
   {
     "ID": "3567091",
@@ -25774,7 +27209,8 @@ const SULCACAO_DATA = [
     "OS": "9652",
     "Frente": "261 - FRENTE PRÓPRIA  (EDMILSON)",
     "Profundidade do Sulco": "39",
-    "Fazenda": NaN
+    "Fazenda": null,
+    "Unnamed: 16": null
   },
   {
     "ID": "3565536",
@@ -25792,7 +27228,8 @@ const SULCACAO_DATA = [
     "OS": "9583",
     "Frente": "135 - PEDRINHO ",
     "Profundidade do Sulco": "39",
-    "Fazenda": NaN
+    "Fazenda": null,
+    "Unnamed: 16": null
   },
   {
     "ID": "3565527",
@@ -25810,7 +27247,8 @@ const SULCACAO_DATA = [
     "OS": "9583",
     "Frente": "135 - PEDRINHO ",
     "Profundidade do Sulco": "37",
-    "Fazenda": NaN
+    "Fazenda": null,
+    "Unnamed: 16": null
   },
   {
     "ID": "3565564",
@@ -25828,7 +27266,8 @@ const SULCACAO_DATA = [
     "OS": "9710",
     "Frente": "143 - FRENTE CASSIO",
     "Profundidade do Sulco": "44",
-    "Fazenda": NaN
+    "Fazenda": null,
+    "Unnamed: 16": null
   },
   {
     "ID": "3565559",
@@ -25846,7 +27285,8 @@ const SULCACAO_DATA = [
     "OS": "9710",
     "Frente": "143 - FRENTE CASSIO",
     "Profundidade do Sulco": "43",
-    "Fazenda": NaN
+    "Fazenda": null,
+    "Unnamed: 16": null
   },
   {
     "ID": "3565554",
@@ -25864,7 +27304,8 @@ const SULCACAO_DATA = [
     "OS": "9710",
     "Frente": "143 - FRENTE CASSIO",
     "Profundidade do Sulco": "40",
-    "Fazenda": NaN
+    "Fazenda": null,
+    "Unnamed: 16": null
   },
   {
     "ID": "3565549",
@@ -25882,7 +27323,8 @@ const SULCACAO_DATA = [
     "OS": "9710",
     "Frente": "143 - FRENTE CASSIO",
     "Profundidade do Sulco": "40",
-    "Fazenda": NaN
+    "Fazenda": null,
+    "Unnamed: 16": null
   },
   {
     "ID": "3562962",
@@ -25900,7 +27342,8 @@ const SULCACAO_DATA = [
     "OS": "9710",
     "Frente": "143 - FRENTE CASSIO",
     "Profundidade do Sulco": "43",
-    "Fazenda": NaN
+    "Fazenda": null,
+    "Unnamed: 16": null
   },
   {
     "ID": "3562957",
@@ -25918,7 +27361,8 @@ const SULCACAO_DATA = [
     "OS": "9710",
     "Frente": "143 - FRENTE CASSIO",
     "Profundidade do Sulco": "40",
-    "Fazenda": NaN
+    "Fazenda": null,
+    "Unnamed: 16": null
   },
   {
     "ID": "3562952",
@@ -25936,7 +27380,8 @@ const SULCACAO_DATA = [
     "OS": "9710",
     "Frente": "143 - FRENTE CASSIO",
     "Profundidade do Sulco": "43",
-    "Fazenda": NaN
+    "Fazenda": null,
+    "Unnamed: 16": null
   },
   {
     "ID": "3560971",
@@ -25954,7 +27399,8 @@ const SULCACAO_DATA = [
     "OS": "9652",
     "Frente": "261 - FRENTE PRÓPRIA  (EDMILSON)",
     "Profundidade do Sulco": "39",
-    "Fazenda": NaN
+    "Fazenda": null,
+    "Unnamed: 16": null
   },
   {
     "ID": "3560964",
@@ -25972,7 +27418,8 @@ const SULCACAO_DATA = [
     "OS": "9652",
     "Frente": "261 - FRENTE PRÓPRIA  (EDMILSON)",
     "Profundidade do Sulco": "38",
-    "Fazenda": NaN
+    "Fazenda": null,
+    "Unnamed: 16": null
   },
   {
     "ID": "3560959",
@@ -25990,7 +27437,8 @@ const SULCACAO_DATA = [
     "OS": "9652",
     "Frente": "261 - FRENTE PRÓPRIA  (EDMILSON)",
     "Profundidade do Sulco": "39",
-    "Fazenda": NaN
+    "Fazenda": null,
+    "Unnamed: 16": null
   },
   {
     "ID": "3560952",
@@ -26008,7 +27456,8 @@ const SULCACAO_DATA = [
     "OS": "9652",
     "Frente": "261 - FRENTE PRÓPRIA  (EDMILSON)",
     "Profundidade do Sulco": "38",
-    "Fazenda": NaN
+    "Fazenda": null,
+    "Unnamed: 16": null
   },
   {
     "ID": "3560947",
@@ -26026,7 +27475,8 @@ const SULCACAO_DATA = [
     "OS": "9652",
     "Frente": "261 - FRENTE PRÓPRIA  (EDMILSON)",
     "Profundidade do Sulco": "38",
-    "Fazenda": NaN
+    "Fazenda": null,
+    "Unnamed: 16": null
   },
   {
     "ID": "3560942",
@@ -26044,7 +27494,8 @@ const SULCACAO_DATA = [
     "OS": "9652",
     "Frente": "261 - FRENTE PRÓPRIA  (EDMILSON)",
     "Profundidade do Sulco": "39",
-    "Fazenda": NaN
+    "Fazenda": null,
+    "Unnamed: 16": null
   },
   {
     "ID": "3560936",
@@ -26062,7 +27513,8 @@ const SULCACAO_DATA = [
     "OS": "9652",
     "Frente": "261 - FRENTE PRÓPRIA  (EDMILSON)",
     "Profundidade do Sulco": "38",
-    "Fazenda": NaN
+    "Fazenda": null,
+    "Unnamed: 16": null
   },
   {
     "ID": "3560917",
@@ -26080,7 +27532,8 @@ const SULCACAO_DATA = [
     "OS": "9652",
     "Frente": "261 - FRENTE PRÓPRIA  (EDMILSON)",
     "Profundidade do Sulco": "39",
-    "Fazenda": NaN
+    "Fazenda": null,
+    "Unnamed: 16": null
   },
   {
     "ID": "3560902",
@@ -26098,7 +27551,8 @@ const SULCACAO_DATA = [
     "OS": "9652",
     "Frente": "261 - FRENTE PRÓPRIA  (EDMILSON)",
     "Profundidade do Sulco": "39",
-    "Fazenda": NaN
+    "Fazenda": null,
+    "Unnamed: 16": null
   },
   {
     "ID": "3560849",
@@ -26116,7 +27570,8 @@ const SULCACAO_DATA = [
     "OS": "40",
     "Frente": "142 - FRENTE BIDU",
     "Profundidade do Sulco": "39",
-    "Fazenda": NaN
+    "Fazenda": null,
+    "Unnamed: 16": null
   },
   {
     "ID": "3560897",
@@ -26134,7 +27589,8 @@ const SULCACAO_DATA = [
     "OS": "9652",
     "Frente": "261 - FRENTE PRÓPRIA  (EDMILSON)",
     "Profundidade do Sulco": "38",
-    "Fazenda": NaN
+    "Fazenda": null,
+    "Unnamed: 16": null
   },
   {
     "ID": "3560848",
@@ -26152,7 +27608,8 @@ const SULCACAO_DATA = [
     "OS": "40",
     "Frente": "142 - FRENTE BIDU",
     "Profundidade do Sulco": "39",
-    "Fazenda": NaN
+    "Fazenda": null,
+    "Unnamed: 16": null
   },
   {
     "ID": "3560802",
@@ -26170,7 +27627,8 @@ const SULCACAO_DATA = [
     "OS": "9655",
     "Frente": "139 - FRENTE MANEZÃO",
     "Profundidade do Sulco": "40",
-    "Fazenda": NaN
+    "Fazenda": null,
+    "Unnamed: 16": null
   },
   {
     "ID": "3560801",
@@ -26188,7 +27646,8 @@ const SULCACAO_DATA = [
     "OS": "9655",
     "Frente": "139 - FRENTE MANEZÃO",
     "Profundidade do Sulco": "38",
-    "Fazenda": NaN
+    "Fazenda": null,
+    "Unnamed: 16": null
   },
   {
     "ID": "3560800",
@@ -26206,7 +27665,8 @@ const SULCACAO_DATA = [
     "OS": "9655",
     "Frente": "139 - FRENTE MANEZÃO",
     "Profundidade do Sulco": "40",
-    "Fazenda": NaN
+    "Fazenda": null,
+    "Unnamed: 16": null
   },
   {
     "ID": "3560799",
@@ -26224,7 +27684,8 @@ const SULCACAO_DATA = [
     "OS": "9655",
     "Frente": "139 - FRENTE MANEZÃO",
     "Profundidade do Sulco": "39",
-    "Fazenda": NaN
+    "Fazenda": null,
+    "Unnamed: 16": null
   },
   {
     "ID": "3560728",
@@ -26242,7 +27703,8 @@ const SULCACAO_DATA = [
     "OS": "9701",
     "Frente": "135 - PEDRINHO ",
     "Profundidade do Sulco": "35",
-    "Fazenda": NaN
+    "Fazenda": null,
+    "Unnamed: 16": null
   },
   {
     "ID": "3560496",
@@ -26260,7 +27722,8 @@ const SULCACAO_DATA = [
     "OS": "9701",
     "Frente": "135 - PEDRINHO ",
     "Profundidade do Sulco": "36",
-    "Fazenda": NaN
+    "Fazenda": null,
+    "Unnamed: 16": null
   },
   {
     "ID": "3560723",
@@ -26278,7 +27741,8 @@ const SULCACAO_DATA = [
     "OS": "9701",
     "Frente": "135 - PEDRINHO ",
     "Profundidade do Sulco": "38",
-    "Fazenda": NaN
+    "Fazenda": null,
+    "Unnamed: 16": null
   },
   {
     "ID": "3560491",
@@ -26296,7 +27760,8 @@ const SULCACAO_DATA = [
     "OS": "9701",
     "Frente": "135 - PEDRINHO ",
     "Profundidade do Sulco": "35",
-    "Fazenda": NaN
+    "Fazenda": null,
+    "Unnamed: 16": null
   },
   {
     "ID": "3560486",
@@ -26314,7 +27779,8 @@ const SULCACAO_DATA = [
     "OS": "9701",
     "Frente": "135 - PEDRINHO ",
     "Profundidade do Sulco": "36",
-    "Fazenda": NaN
+    "Fazenda": null,
+    "Unnamed: 16": null
   },
   {
     "ID": "3560718",
@@ -26332,7 +27798,8 @@ const SULCACAO_DATA = [
     "OS": "9701",
     "Frente": "135 - PEDRINHO ",
     "Profundidade do Sulco": "36",
-    "Fazenda": NaN
+    "Fazenda": null,
+    "Unnamed: 16": null
   },
   {
     "ID": "3560713",
@@ -26350,7 +27817,8 @@ const SULCACAO_DATA = [
     "OS": "9701",
     "Frente": "135 - PEDRINHO ",
     "Profundidade do Sulco": "39",
-    "Fazenda": NaN
+    "Fazenda": null,
+    "Unnamed: 16": null
   },
   {
     "ID": "3558528",
@@ -26368,7 +27836,8 @@ const SULCACAO_DATA = [
     "OS": "9652",
     "Frente": "261 - FRENTE PRÓPRIA  (EDMILSON)",
     "Profundidade do Sulco": "38",
-    "Fazenda": NaN
+    "Fazenda": null,
+    "Unnamed: 16": null
   },
   {
     "ID": "3558523",
@@ -26386,7 +27855,8 @@ const SULCACAO_DATA = [
     "OS": "9652",
     "Frente": "261 - FRENTE PRÓPRIA  (EDMILSON)",
     "Profundidade do Sulco": "38",
-    "Fazenda": NaN
+    "Fazenda": null,
+    "Unnamed: 16": null
   },
   {
     "ID": "3558517",
@@ -26404,7 +27874,8 @@ const SULCACAO_DATA = [
     "OS": "9652",
     "Frente": "261 - FRENTE PRÓPRIA  (EDMILSON)",
     "Profundidade do Sulco": "38",
-    "Fazenda": NaN
+    "Fazenda": null,
+    "Unnamed: 16": null
   },
   {
     "ID": "3558512",
@@ -26422,7 +27893,8 @@ const SULCACAO_DATA = [
     "OS": "9652",
     "Frente": "261 - FRENTE PRÓPRIA  (EDMILSON)",
     "Profundidade do Sulco": "38",
-    "Fazenda": NaN
+    "Fazenda": null,
+    "Unnamed: 16": null
   },
   {
     "ID": "3558580",
@@ -26440,7 +27912,8 @@ const SULCACAO_DATA = [
     "OS": "9701",
     "Frente": "135 - PEDRINHO ",
     "Profundidade do Sulco": "41",
-    "Fazenda": NaN
+    "Fazenda": null,
+    "Unnamed: 16": null
   },
   {
     "ID": "3558507",
@@ -26458,7 +27931,8 @@ const SULCACAO_DATA = [
     "OS": "9652",
     "Frente": "261 - FRENTE PRÓPRIA  (EDMILSON)",
     "Profundidade do Sulco": "37",
-    "Fazenda": NaN
+    "Fazenda": null,
+    "Unnamed: 16": null
   },
   {
     "ID": "3558309",
@@ -26476,7 +27950,8 @@ const SULCACAO_DATA = [
     "OS": "9735",
     "Frente": "105 - FRENTE CASSIO",
     "Profundidade do Sulco": "37",
-    "Fazenda": NaN
+    "Fazenda": null,
+    "Unnamed: 16": null
   },
   {
     "ID": "3558502",
@@ -26494,7 +27969,8 @@ const SULCACAO_DATA = [
     "OS": "9652",
     "Frente": "261 - FRENTE PRÓPRIA  (EDMILSON)",
     "Profundidade do Sulco": "39",
-    "Fazenda": NaN
+    "Fazenda": null,
+    "Unnamed: 16": null
   },
   {
     "ID": "3558575",
@@ -26512,7 +27988,8 @@ const SULCACAO_DATA = [
     "OS": "9701",
     "Frente": "135 - PEDRINHO ",
     "Profundidade do Sulco": "37",
-    "Fazenda": NaN
+    "Fazenda": null,
+    "Unnamed: 16": null
   },
   {
     "ID": "3558305",
@@ -26530,7 +28007,8 @@ const SULCACAO_DATA = [
     "OS": "9735",
     "Frente": "105 - FRENTE CASSIO",
     "Profundidade do Sulco": "37",
-    "Fazenda": NaN
+    "Fazenda": null,
+    "Unnamed: 16": null
   },
   {
     "ID": "3558301",
@@ -26548,7 +28026,8 @@ const SULCACAO_DATA = [
     "OS": "9735",
     "Frente": "105 - FRENTE CASSIO",
     "Profundidade do Sulco": "37",
-    "Fazenda": NaN
+    "Fazenda": null,
+    "Unnamed: 16": null
   },
   {
     "ID": "3558296",
@@ -26566,7 +28045,8 @@ const SULCACAO_DATA = [
     "OS": "9735",
     "Frente": "105 - FRENTE CASSIO",
     "Profundidade do Sulco": "36",
-    "Fazenda": NaN
+    "Fazenda": null,
+    "Unnamed: 16": null
   },
   {
     "ID": "3558264",
@@ -26584,7 +28064,8 @@ const SULCACAO_DATA = [
     "OS": "9709",
     "Frente": "143 - FRENTE CASSIO",
     "Profundidade do Sulco": "44",
-    "Fazenda": NaN
+    "Fazenda": null,
+    "Unnamed: 16": null
   },
   {
     "ID": "3558263",
@@ -26602,7 +28083,8 @@ const SULCACAO_DATA = [
     "OS": "9709",
     "Frente": "143 - FRENTE CASSIO",
     "Profundidade do Sulco": "43",
-    "Fazenda": NaN
+    "Fazenda": null,
+    "Unnamed: 16": null
   },
   {
     "ID": "3558262",
@@ -26620,7 +28102,8 @@ const SULCACAO_DATA = [
     "OS": "9709",
     "Frente": "143 - FRENTE CASSIO",
     "Profundidade do Sulco": "44",
-    "Fazenda": NaN
+    "Fazenda": null,
+    "Unnamed: 16": null
   },
   {
     "ID": "3560481",
@@ -26638,7 +28121,8 @@ const SULCACAO_DATA = [
     "OS": "9655",
     "Frente": "139 - FRENTE MANEZÃO",
     "Profundidade do Sulco": "39",
-    "Fazenda": NaN
+    "Fazenda": null,
+    "Unnamed: 16": null
   },
   {
     "ID": "3560476",
@@ -26656,7 +28140,8 @@ const SULCACAO_DATA = [
     "OS": "9655",
     "Frente": "139 - FRENTE MANEZÃO",
     "Profundidade do Sulco": "37",
-    "Fazenda": NaN
+    "Fazenda": null,
+    "Unnamed: 16": null
   },
   {
     "ID": "3560471",
@@ -26674,7 +28159,8 @@ const SULCACAO_DATA = [
     "OS": "9655",
     "Frente": "139 - FRENTE MANEZÃO",
     "Profundidade do Sulco": "35",
-    "Fazenda": NaN
+    "Fazenda": null,
+    "Unnamed: 16": null
   },
   {
     "ID": "3558241",
@@ -26692,7 +28178,8 @@ const SULCACAO_DATA = [
     "OS": "9655",
     "Frente": "139 - FRENTE MANEZÃO",
     "Profundidade do Sulco": "38",
-    "Fazenda": NaN
+    "Fazenda": null,
+    "Unnamed: 16": null
   },
   {
     "ID": "3558239",
@@ -26710,7 +28197,8 @@ const SULCACAO_DATA = [
     "OS": "9655",
     "Frente": "139 - FRENTE MANEZÃO",
     "Profundidade do Sulco": "37",
-    "Fazenda": NaN
+    "Fazenda": null,
+    "Unnamed: 16": null
   },
   {
     "ID": "3558142",
@@ -26728,7 +28216,8 @@ const SULCACAO_DATA = [
     "OS": "9612",
     "Frente": "142 - FRENTE BIDU",
     "Profundidade do Sulco": "38",
-    "Fazenda": NaN
+    "Fazenda": null,
+    "Unnamed: 16": null
   },
   {
     "ID": "3558235",
@@ -26746,7 +28235,8 @@ const SULCACAO_DATA = [
     "OS": "9655",
     "Frente": "139 - FRENTE MANEZÃO",
     "Profundidade do Sulco": "39",
-    "Fazenda": NaN
+    "Fazenda": null,
+    "Unnamed: 16": null
   },
   {
     "ID": "3558141",
@@ -26764,7 +28254,8 @@ const SULCACAO_DATA = [
     "OS": "9612",
     "Frente": "142 - FRENTE BIDU",
     "Profundidade do Sulco": "40",
-    "Fazenda": NaN
+    "Fazenda": null,
+    "Unnamed: 16": null
   },
   {
     "ID": "3558231",
@@ -26782,7 +28273,8 @@ const SULCACAO_DATA = [
     "OS": "9655",
     "Frente": "139 - FRENTE MANEZÃO",
     "Profundidade do Sulco": "37",
-    "Fazenda": NaN
+    "Fazenda": null,
+    "Unnamed: 16": null
   },
   {
     "ID": "3558562",
@@ -26800,7 +28292,8 @@ const SULCACAO_DATA = [
     "OS": "9701",
     "Frente": "135 - PEDRINHO ",
     "Profundidade do Sulco": "43",
-    "Fazenda": NaN
+    "Fazenda": null,
+    "Unnamed: 16": null
   },
   {
     "ID": "3557959",
@@ -26818,7 +28311,8 @@ const SULCACAO_DATA = [
     "OS": "9298",
     "Frente": "261 - FRENTE PRÓPRIA  (EDMILSON)",
     "Profundidade do Sulco": "39",
-    "Fazenda": NaN
+    "Fazenda": null,
+    "Unnamed: 16": null
   },
   {
     "ID": "3558555",
@@ -26836,7 +28330,8 @@ const SULCACAO_DATA = [
     "OS": "9701",
     "Frente": "135 - PEDRINHO ",
     "Profundidade do Sulco": "39",
-    "Fazenda": NaN
+    "Fazenda": null,
+    "Unnamed: 16": null
   },
   {
     "ID": "3557949",
@@ -26854,7 +28349,8 @@ const SULCACAO_DATA = [
     "OS": "9298",
     "Frente": "261 - FRENTE PRÓPRIA  (EDMILSON)",
     "Profundidade do Sulco": "38",
-    "Fazenda": NaN
+    "Fazenda": null,
+    "Unnamed: 16": null
   },
   {
     "ID": "3558549",
@@ -26872,7 +28368,8 @@ const SULCACAO_DATA = [
     "OS": "9701",
     "Frente": "135 - PEDRINHO ",
     "Profundidade do Sulco": "39",
-    "Fazenda": NaN
+    "Fazenda": null,
+    "Unnamed: 16": null
   },
   {
     "ID": "3557944",
@@ -26890,7 +28387,8 @@ const SULCACAO_DATA = [
     "OS": "9298",
     "Frente": "261 - FRENTE PRÓPRIA  (EDMILSON)",
     "Profundidade do Sulco": "37",
-    "Fazenda": NaN
+    "Fazenda": null,
+    "Unnamed: 16": null
   },
   {
     "ID": "3558544",
@@ -26908,7 +28406,8 @@ const SULCACAO_DATA = [
     "OS": "9701",
     "Frente": "135 - PEDRINHO ",
     "Profundidade do Sulco": "38",
-    "Fazenda": NaN
+    "Fazenda": null,
+    "Unnamed: 16": null
   },
   {
     "ID": "3557939",
@@ -26926,7 +28425,8 @@ const SULCACAO_DATA = [
     "OS": "9298",
     "Frente": "261 - FRENTE PRÓPRIA  (EDMILSON)",
     "Profundidade do Sulco": "37",
-    "Fazenda": NaN
+    "Fazenda": null,
+    "Unnamed: 16": null
   },
   {
     "ID": "3556212",
@@ -26944,7 +28444,8 @@ const SULCACAO_DATA = [
     "OS": "9739",
     "Frente": "105 - FRENTE CASSIO",
     "Profundidade do Sulco": "37",
-    "Fazenda": NaN
+    "Fazenda": null,
+    "Unnamed: 16": null
   },
   {
     "ID": "3556213",
@@ -26962,7 +28463,8 @@ const SULCACAO_DATA = [
     "OS": "9739",
     "Frente": "105 - FRENTE CASSIO",
     "Profundidade do Sulco": "37",
-    "Fazenda": NaN
+    "Fazenda": null,
+    "Unnamed: 16": null
   },
   {
     "ID": "3556211",
@@ -26980,7 +28482,8 @@ const SULCACAO_DATA = [
     "OS": "9739",
     "Frente": "105 - FRENTE CASSIO",
     "Profundidade do Sulco": "38",
-    "Fazenda": NaN
+    "Fazenda": null,
+    "Unnamed: 16": null
   },
   {
     "ID": "3556210",
@@ -26998,7 +28501,8 @@ const SULCACAO_DATA = [
     "OS": "9739",
     "Frente": "105 - FRENTE CASSIO",
     "Profundidade do Sulco": "36",
-    "Fazenda": NaN
+    "Fazenda": null,
+    "Unnamed: 16": null
   },
   {
     "ID": "3556209",
@@ -27016,7 +28520,8 @@ const SULCACAO_DATA = [
     "OS": "9739",
     "Frente": "105 - FRENTE CASSIO",
     "Profundidade do Sulco": "36",
-    "Fazenda": NaN
+    "Fazenda": null,
+    "Unnamed: 16": null
   },
   {
     "ID": "3556100",
@@ -27034,7 +28539,8 @@ const SULCACAO_DATA = [
     "OS": "9655",
     "Frente": "139 - FRENTE MANEZÃO",
     "Profundidade do Sulco": "39",
-    "Fazenda": NaN
+    "Fazenda": null,
+    "Unnamed: 16": null
   },
   {
     "ID": "3556096",
@@ -27052,7 +28558,8 @@ const SULCACAO_DATA = [
     "OS": "9655",
     "Frente": "139 - FRENTE MANEZÃO",
     "Profundidade do Sulco": "38",
-    "Fazenda": NaN
+    "Fazenda": null,
+    "Unnamed: 16": null
   },
   {
     "ID": "3556177",
@@ -27070,7 +28577,8 @@ const SULCACAO_DATA = [
     "OS": "9298",
     "Frente": "261 - FRENTE PRÓPRIA  (EDMILSON)",
     "Profundidade do Sulco": "39",
-    "Fazenda": NaN
+    "Fazenda": null,
+    "Unnamed: 16": null
   },
   {
     "ID": "3556169",
@@ -27088,7 +28596,8 @@ const SULCACAO_DATA = [
     "OS": "9298",
     "Frente": "261 - FRENTE PRÓPRIA  (EDMILSON)",
     "Profundidade do Sulco": "38",
-    "Fazenda": NaN
+    "Fazenda": null,
+    "Unnamed: 16": null
   },
   {
     "ID": "3556283",
@@ -27106,7 +28615,8 @@ const SULCACAO_DATA = [
     "OS": "9704",
     "Frente": "135 - PEDRINHO ",
     "Profundidade do Sulco": "40",
-    "Fazenda": NaN
+    "Fazenda": null,
+    "Unnamed: 16": null
   },
   {
     "ID": "3556162",
@@ -27124,7 +28634,8 @@ const SULCACAO_DATA = [
     "OS": "9298",
     "Frente": "261 - FRENTE PRÓPRIA  (EDMILSON)",
     "Profundidade do Sulco": "38",
-    "Fazenda": NaN
+    "Fazenda": null,
+    "Unnamed: 16": null
   },
   {
     "ID": "3556153",
@@ -27142,7 +28653,8 @@ const SULCACAO_DATA = [
     "OS": "9298",
     "Frente": "261 - FRENTE PRÓPRIA  (EDMILSON)",
     "Profundidade do Sulco": "38",
-    "Fazenda": NaN
+    "Fazenda": null,
+    "Unnamed: 16": null
   },
   {
     "ID": "3556277",
@@ -27160,7 +28672,8 @@ const SULCACAO_DATA = [
     "OS": "9704",
     "Frente": "135 - PEDRINHO ",
     "Profundidade do Sulco": "38",
-    "Fazenda": NaN
+    "Fazenda": null,
+    "Unnamed: 16": null
   },
   {
     "ID": "3555640",
@@ -27178,7 +28691,8 @@ const SULCACAO_DATA = [
     "OS": "9298",
     "Frente": "261 - FRENTE PRÓPRIA  (EDMILSON)",
     "Profundidade do Sulco": "38",
-    "Fazenda": NaN
+    "Fazenda": null,
+    "Unnamed: 16": null
   },
   {
     "ID": "3556078",
@@ -27196,7 +28710,8 @@ const SULCACAO_DATA = [
     "OS": "9655",
     "Frente": "139 - FRENTE MANEZÃO",
     "Profundidade do Sulco": "40",
-    "Fazenda": NaN
+    "Fazenda": null,
+    "Unnamed: 16": null
   },
   {
     "ID": "3556077",
@@ -27214,7 +28729,8 @@ const SULCACAO_DATA = [
     "OS": "9655",
     "Frente": "139 - FRENTE MANEZÃO",
     "Profundidade do Sulco": "40",
-    "Fazenda": NaN
+    "Fazenda": null,
+    "Unnamed: 16": null
   },
   {
     "ID": "3555633",
@@ -27232,7 +28748,8 @@ const SULCACAO_DATA = [
     "OS": "9298",
     "Frente": "261 - FRENTE PRÓPRIA  (EDMILSON)",
     "Profundidade do Sulco": "38",
-    "Fazenda": NaN
+    "Fazenda": null,
+    "Unnamed: 16": null
   },
   {
     "ID": "3555626",
@@ -27250,7 +28767,8 @@ const SULCACAO_DATA = [
     "OS": "9298",
     "Frente": "261 - FRENTE PRÓPRIA  (EDMILSON)",
     "Profundidade do Sulco": "38",
-    "Fazenda": NaN
+    "Fazenda": null,
+    "Unnamed: 16": null
   },
   {
     "ID": "3556152",
@@ -27268,7 +28786,8 @@ const SULCACAO_DATA = [
     "OS": "9615",
     "Frente": "142 - FRENTE BIDU",
     "Profundidade do Sulco": "41",
-    "Fazenda": NaN
+    "Fazenda": null,
+    "Unnamed: 16": null
   },
   {
     "ID": "3556151",
@@ -27286,7 +28805,8 @@ const SULCACAO_DATA = [
     "OS": "9615",
     "Frente": "142 - FRENTE BIDU",
     "Profundidade do Sulco": "39",
-    "Fazenda": NaN
+    "Fazenda": null,
+    "Unnamed: 16": null
   },
   {
     "ID": "3556149",
@@ -27304,7 +28824,8 @@ const SULCACAO_DATA = [
     "OS": "9615",
     "Frente": "142 - FRENTE BIDU",
     "Profundidade do Sulco": "42",
-    "Fazenda": NaN
+    "Fazenda": null,
+    "Unnamed: 16": null
   },
   {
     "ID": "3555619",
@@ -27322,7 +28843,8 @@ const SULCACAO_DATA = [
     "OS": "9298",
     "Frente": "261 - FRENTE PRÓPRIA  (EDMILSON)",
     "Profundidade do Sulco": "39",
-    "Fazenda": NaN
+    "Fazenda": null,
+    "Unnamed: 16": null
   },
   {
     "ID": "3555613",
@@ -27340,7 +28862,8 @@ const SULCACAO_DATA = [
     "OS": "9298",
     "Frente": "261 - FRENTE PRÓPRIA  (EDMILSON)",
     "Profundidade do Sulco": "39",
-    "Fazenda": NaN
+    "Fazenda": null,
+    "Unnamed: 16": null
   },
   {
     "ID": "3555667",
@@ -27358,7 +28881,8 @@ const SULCACAO_DATA = [
     "OS": "9298",
     "Frente": "261 - FRENTE PRÓPRIA  (EDMILSON)",
     "Profundidade do Sulco": "39",
-    "Fazenda": NaN
+    "Fazenda": null,
+    "Unnamed: 16": null
   },
   {
     "ID": "3556022",
@@ -27376,7 +28900,8 @@ const SULCACAO_DATA = [
     "OS": "9699",
     "Frente": "135 - PEDRINHO ",
     "Profundidade do Sulco": "38",
-    "Fazenda": NaN
+    "Fazenda": null,
+    "Unnamed: 16": null
   },
   {
     "ID": "3556357",
@@ -27394,7 +28919,8 @@ const SULCACAO_DATA = [
     "OS": "9704",
     "Frente": "135 - PEDRINHO ",
     "Profundidade do Sulco": "39",
-    "Fazenda": NaN
+    "Fazenda": null,
+    "Unnamed: 16": null
   },
   {
     "ID": "3556259",
@@ -27412,7 +28938,8 @@ const SULCACAO_DATA = [
     "OS": "9704",
     "Frente": "135 - PEDRINHO ",
     "Profundidade do Sulco": "36",
-    "Fazenda": NaN
+    "Fazenda": null,
+    "Unnamed: 16": null
   },
   {
     "ID": "3556352",
@@ -27430,7 +28957,8 @@ const SULCACAO_DATA = [
     "OS": "9704",
     "Frente": "135 - PEDRINHO ",
     "Profundidade do Sulco": "40",
-    "Fazenda": NaN
+    "Fazenda": null,
+    "Unnamed: 16": null
   },
   {
     "ID": "3556012",
@@ -27448,7 +28976,8 @@ const SULCACAO_DATA = [
     "OS": "9699",
     "Frente": "135 - FRENTE PEDRINHO",
     "Profundidade do Sulco": "40",
-    "Fazenda": NaN
+    "Fazenda": null,
+    "Unnamed: 16": null
   },
   {
     "ID": "3556254",
@@ -27466,7 +28995,8 @@ const SULCACAO_DATA = [
     "OS": "9704",
     "Frente": "135 - PEDRINHO ",
     "Profundidade do Sulco": "37",
-    "Fazenda": NaN
+    "Fazenda": null,
+    "Unnamed: 16": null
   },
   {
     "ID": "3556347",
@@ -27484,7 +29014,8 @@ const SULCACAO_DATA = [
     "OS": "9704",
     "Frente": "135 - PEDRINHO ",
     "Profundidade do Sulco": "35",
-    "Fazenda": NaN
+    "Fazenda": null,
+    "Unnamed: 16": null
   },
   {
     "ID": "3555941",
@@ -27502,7 +29033,8 @@ const SULCACAO_DATA = [
     "OS": "9702",
     "Frente": "143 - FRENTE CASSIO",
     "Profundidade do Sulco": "44",
-    "Fazenda": NaN
+    "Fazenda": null,
+    "Unnamed: 16": null
   },
   {
     "ID": "3555935",
@@ -27520,7 +29052,8 @@ const SULCACAO_DATA = [
     "OS": "9702",
     "Frente": "143 - FRENTE CASSIO",
     "Profundidade do Sulco": "42",
-    "Fazenda": NaN
+    "Fazenda": null,
+    "Unnamed: 16": null
   },
   {
     "ID": "3556007",
@@ -27538,7 +29071,8 @@ const SULCACAO_DATA = [
     "OS": "9699",
     "Frente": "135 - FRENTE PEDRINHO",
     "Profundidade do Sulco": "37",
-    "Fazenda": NaN
+    "Fazenda": null,
+    "Unnamed: 16": null
   },
   {
     "ID": "3556002",
@@ -27556,7 +29090,8 @@ const SULCACAO_DATA = [
     "OS": "9699",
     "Frente": "135 - FRENTE PEDRINHO",
     "Profundidade do Sulco": "38",
-    "Fazenda": NaN
+    "Fazenda": null,
+    "Unnamed: 16": null
   },
   {
     "ID": "3555926",
@@ -27574,7 +29109,8 @@ const SULCACAO_DATA = [
     "OS": "9702",
     "Frente": "143 - FRENTE CASSIO",
     "Profundidade do Sulco": "45",
-    "Fazenda": NaN
+    "Fazenda": null,
+    "Unnamed: 16": null
   },
   {
     "ID": "3555916",
@@ -27592,7 +29128,8 @@ const SULCACAO_DATA = [
     "OS": "9703",
     "Frente": "143 - FRENTE CASSIO",
     "Profundidade do Sulco": "45",
-    "Fazenda": NaN
+    "Fazenda": null,
+    "Unnamed: 16": null
   },
   {
     "ID": "3555911",
@@ -27610,7 +29147,8 @@ const SULCACAO_DATA = [
     "OS": "9703",
     "Frente": "143 - FRENTE CASSIO",
     "Profundidade do Sulco": "45",
-    "Fazenda": NaN
+    "Fazenda": null,
+    "Unnamed: 16": null
   },
   {
     "ID": "3556248",
@@ -27628,7 +29166,8 @@ const SULCACAO_DATA = [
     "OS": "9704",
     "Frente": "135 - PEDRINHO ",
     "Profundidade do Sulco": "36",
-    "Fazenda": NaN
+    "Fazenda": null,
+    "Unnamed: 16": null
   },
   {
     "ID": "3556243",
@@ -27646,7 +29185,8 @@ const SULCACAO_DATA = [
     "OS": "9704",
     "Frente": "135 - PEDRINHO ",
     "Profundidade do Sulco": "41",
-    "Fazenda": NaN
+    "Fazenda": null,
+    "Unnamed: 16": null
   },
   {
     "ID": "3556238",
@@ -27664,7 +29204,8 @@ const SULCACAO_DATA = [
     "OS": "9704",
     "Frente": "135 - PEDRINHO ",
     "Profundidade do Sulco": "38",
-    "Fazenda": NaN
+    "Fazenda": null,
+    "Unnamed: 16": null
   },
   {
     "ID": "3553695",
@@ -27682,7 +29223,8 @@ const SULCACAO_DATA = [
     "OS": "9704",
     "Frente": "135 - PEDRINHO ",
     "Profundidade do Sulco": "42",
-    "Fazenda": NaN
+    "Fazenda": null,
+    "Unnamed: 16": null
   },
   {
     "ID": "3553772",
@@ -27700,7 +29242,8 @@ const SULCACAO_DATA = [
     "OS": "9652",
     "Frente": "101 - FRENTE MECANIZADA",
     "Profundidade do Sulco": "39",
-    "Fazenda": NaN
+    "Fazenda": null,
+    "Unnamed: 16": null
   },
   {
     "ID": "3553690",
@@ -27718,7 +29261,8 @@ const SULCACAO_DATA = [
     "OS": "9704",
     "Frente": "135 - PEDRINHO ",
     "Profundidade do Sulco": "39",
-    "Fazenda": NaN
+    "Fazenda": null,
+    "Unnamed: 16": null
   },
   {
     "ID": "3553721",
@@ -27736,7 +29280,8 @@ const SULCACAO_DATA = [
     "OS": "9696",
     "Frente": "261 - FRENTE PRÓPRIA  (EDMILSON)",
     "Profundidade do Sulco": "39",
-    "Fazenda": NaN
+    "Fazenda": null,
+    "Unnamed: 16": null
   },
   {
     "ID": "3553685",
@@ -27754,7 +29299,8 @@ const SULCACAO_DATA = [
     "OS": "9704",
     "Frente": "135 - PEDRINHO ",
     "Profundidade do Sulco": "38",
-    "Fazenda": NaN
+    "Fazenda": null,
+    "Unnamed: 16": null
   },
   {
     "ID": "3553716",
@@ -27772,7 +29318,8 @@ const SULCACAO_DATA = [
     "OS": "9696",
     "Frente": "261 - FRENTE PRÓPRIA  (EDMILSON)",
     "Profundidade do Sulco": "38",
-    "Fazenda": NaN
+    "Fazenda": null,
+    "Unnamed: 16": null
   },
   {
     "ID": "3553711",
@@ -27790,7 +29337,8 @@ const SULCACAO_DATA = [
     "OS": "9696",
     "Frente": "261 - FRENTE PRÓPRIA  (EDMILSON)",
     "Profundidade do Sulco": "38",
-    "Fazenda": NaN
+    "Fazenda": null,
+    "Unnamed: 16": null
   },
   {
     "ID": "3553570",
@@ -27808,7 +29356,8 @@ const SULCACAO_DATA = [
     "OS": "9655",
     "Frente": "139 - FRENTE MANEZÃO",
     "Profundidade do Sulco": "40",
-    "Fazenda": NaN
+    "Fazenda": null,
+    "Unnamed: 16": null
   },
   {
     "ID": "3553567",
@@ -27826,7 +29375,8 @@ const SULCACAO_DATA = [
     "OS": "9655",
     "Frente": "139 - FRENTE MANEZÃO",
     "Profundidade do Sulco": "38",
-    "Fazenda": NaN
+    "Fazenda": null,
+    "Unnamed: 16": null
   },
   {
     "ID": "3553559",
@@ -27844,7 +29394,8 @@ const SULCACAO_DATA = [
     "OS": "9655",
     "Frente": "139 - FRENTE MANEZÃO",
     "Profundidade do Sulco": "38",
-    "Fazenda": NaN
+    "Fazenda": null,
+    "Unnamed: 16": null
   },
   {
     "ID": "3553655",
@@ -27862,7 +29413,8 @@ const SULCACAO_DATA = [
     "OS": "9580",
     "Frente": "142 - FRENTE BIDU",
     "Profundidade do Sulco": "38",
-    "Fazenda": NaN
+    "Fazenda": null,
+    "Unnamed: 16": null
   },
   {
     "ID": "3553654",
@@ -27880,7 +29432,8 @@ const SULCACAO_DATA = [
     "OS": "9580",
     "Frente": "142 - FRENTE BIDU",
     "Profundidade do Sulco": "40",
-    "Fazenda": NaN
+    "Fazenda": null,
+    "Unnamed: 16": null
   },
   {
     "ID": "3553557",
@@ -27898,7 +29451,8 @@ const SULCACAO_DATA = [
     "OS": "9655",
     "Frente": "139 - FRENTE MANEZÃO",
     "Profundidade do Sulco": "37",
-    "Fazenda": NaN
+    "Fazenda": null,
+    "Unnamed: 16": null
   },
   {
     "ID": "3553549",
@@ -27916,7 +29470,8 @@ const SULCACAO_DATA = [
     "OS": "9655",
     "Frente": "139 - FRENTE MANEZÃO",
     "Profundidade do Sulco": "37",
-    "Fazenda": NaN
+    "Fazenda": null,
+    "Unnamed: 16": null
   },
   {
     "ID": "3553245",
@@ -27934,7 +29489,8 @@ const SULCACAO_DATA = [
     "OS": "9696",
     "Frente": "261 - FRENTE PRÓPRIA  (EDMILSON)",
     "Profundidade do Sulco": "37",
-    "Fazenda": NaN
+    "Fazenda": null,
+    "Unnamed: 16": null
   },
   {
     "ID": "3553119",
@@ -27952,7 +29508,8 @@ const SULCACAO_DATA = [
     "OS": "9616",
     "Frente": "143 - FRENTE CASSIO",
     "Profundidade do Sulco": "42",
-    "Fazenda": NaN
+    "Fazenda": null,
+    "Unnamed: 16": null
   },
   {
     "ID": "3553118",
@@ -27970,7 +29527,8 @@ const SULCACAO_DATA = [
     "OS": "9616",
     "Frente": "143 - FRENTE CASSIO",
     "Profundidade do Sulco": "45",
-    "Fazenda": NaN
+    "Fazenda": null,
+    "Unnamed: 16": null
   },
   {
     "ID": "3553239",
@@ -27988,7 +29546,8 @@ const SULCACAO_DATA = [
     "OS": "9696",
     "Frente": "261 - FRENTE PRÓPRIA  (EDMILSON)",
     "Profundidade do Sulco": "38",
-    "Fazenda": NaN
+    "Fazenda": null,
+    "Unnamed: 16": null
   },
   {
     "ID": "3553234",
@@ -28006,7 +29565,8 @@ const SULCACAO_DATA = [
     "OS": "9696",
     "Frente": "261 - FRENTE PRÓPRIA  (EDMILSON)",
     "Profundidade do Sulco": "39",
-    "Fazenda": NaN
+    "Fazenda": null,
+    "Unnamed: 16": null
   },
   {
     "ID": "3555375",
@@ -28024,7 +29584,8 @@ const SULCACAO_DATA = [
     "OS": "9616",
     "Frente": "143 - FRENTE CASSIO",
     "Profundidade do Sulco": "38",
-    "Fazenda": NaN
+    "Fazenda": null,
+    "Unnamed: 16": null
   },
   {
     "ID": "3555370",
@@ -28042,7 +29603,8 @@ const SULCACAO_DATA = [
     "OS": "9616",
     "Frente": "143 - FRENTE CASSIO",
     "Profundidade do Sulco": "36",
-    "Fazenda": NaN
+    "Fazenda": null,
+    "Unnamed: 16": null
   },
   {
     "ID": "3553676",
@@ -28060,7 +29622,8 @@ const SULCACAO_DATA = [
     "OS": "9704",
     "Frente": "135 - PEDRINHO ",
     "Profundidade do Sulco": "40",
-    "Fazenda": NaN
+    "Fazenda": null,
+    "Unnamed: 16": null
   },
   {
     "ID": "3553536",
@@ -28078,7 +29641,8 @@ const SULCACAO_DATA = [
     "OS": "9621",
     "Frente": "105 - FRENTE CASSIO",
     "Profundidade do Sulco": "37",
-    "Fazenda": NaN
+    "Fazenda": null,
+    "Unnamed: 16": null
   },
   {
     "ID": "3555365",
@@ -28096,7 +29660,8 @@ const SULCACAO_DATA = [
     "OS": "9616",
     "Frente": "143 - FRENTE CASSIO",
     "Profundidade do Sulco": "37",
-    "Fazenda": NaN
+    "Fazenda": null,
+    "Unnamed: 16": null
   },
   {
     "ID": "3553765",
@@ -28114,7 +29679,8 @@ const SULCACAO_DATA = [
     "OS": "9652",
     "Frente": "101 - FRENTE MECANIZADA",
     "Profundidade do Sulco": "38",
-    "Fazenda": NaN
+    "Fazenda": null,
+    "Unnamed: 16": null
   },
   {
     "ID": "3553531",
@@ -28132,7 +29698,8 @@ const SULCACAO_DATA = [
     "OS": "9621",
     "Frente": "105 - FRENTE CASSIO",
     "Profundidade do Sulco": "38",
-    "Fazenda": NaN
+    "Fazenda": null,
+    "Unnamed: 16": null
   },
   {
     "ID": "3553757",
@@ -28150,7 +29717,8 @@ const SULCACAO_DATA = [
     "OS": "9652",
     "Frente": "101 - FRENTE MECANIZADA",
     "Profundidade do Sulco": "39",
-    "Fazenda": NaN
+    "Fazenda": null,
+    "Unnamed: 16": null
   },
   {
     "ID": "3553223",
@@ -28168,7 +29736,8 @@ const SULCACAO_DATA = [
     "OS": "9696",
     "Frente": "261 - FRENTE PRÓPRIA  (EDMILSON)",
     "Profundidade do Sulco": "37",
-    "Fazenda": NaN
+    "Fazenda": null,
+    "Unnamed: 16": null
   },
   {
     "ID": "3553219",
@@ -28186,7 +29755,8 @@ const SULCACAO_DATA = [
     "OS": "9696",
     "Frente": "261 - FRENTE PRÓPRIA  (EDMILSON)",
     "Profundidade do Sulco": "37",
-    "Fazenda": NaN
+    "Fazenda": null,
+    "Unnamed: 16": null
   },
   {
     "ID": "3553215",
@@ -28204,7 +29774,8 @@ const SULCACAO_DATA = [
     "OS": "9696",
     "Frente": "261 - FRENTE PRÓPRIA  (EDMILSON)",
     "Profundidade do Sulco": "38",
-    "Fazenda": NaN
+    "Fazenda": null,
+    "Unnamed: 16": null
   },
   {
     "ID": "3553210",
@@ -28222,7 +29793,8 @@ const SULCACAO_DATA = [
     "OS": "9696",
     "Frente": "261 - FRENTE PRÓPRIA  (EDMILSON)",
     "Profundidade do Sulco": "38",
-    "Fazenda": NaN
+    "Fazenda": null,
+    "Unnamed: 16": null
   },
   {
     "ID": "3553205",
@@ -28240,7 +29812,8 @@ const SULCACAO_DATA = [
     "OS": "9696",
     "Frente": "261 - FRENTE PRÓPRIA  (EDMILSON)",
     "Profundidade do Sulco": "39",
-    "Fazenda": NaN
+    "Fazenda": null,
+    "Unnamed: 16": null
   },
   {
     "ID": "3553520",
@@ -28258,7 +29831,8 @@ const SULCACAO_DATA = [
     "OS": "9621",
     "Frente": "105 - FRENTE CASSIO",
     "Profundidade do Sulco": "37",
-    "Fazenda": NaN
+    "Fazenda": null,
+    "Unnamed: 16": null
   },
   {
     "ID": "3553200",
@@ -28276,7 +29850,8 @@ const SULCACAO_DATA = [
     "OS": "9696",
     "Frente": "261 - FRENTE PRÓPRIA  (EDMILSON)",
     "Profundidade do Sulco": "37",
-    "Fazenda": NaN
+    "Fazenda": null,
+    "Unnamed: 16": null
   },
   {
     "ID": "3553516",
@@ -28294,7 +29869,8 @@ const SULCACAO_DATA = [
     "OS": "9621",
     "Frente": "105 - FRENTE CASSIO",
     "Profundidade do Sulco": "36",
-    "Fazenda": NaN
+    "Fazenda": null,
+    "Unnamed: 16": null
   },
   {
     "ID": "3553192",
@@ -28312,7 +29888,8 @@ const SULCACAO_DATA = [
     "OS": "9696",
     "Frente": "261 - FRENTE PRÓPRIA  (EDMILSON)",
     "Profundidade do Sulco": "39",
-    "Fazenda": NaN
+    "Fazenda": null,
+    "Unnamed: 16": null
   },
   {
     "ID": "3553508",
@@ -28330,7 +29907,8 @@ const SULCACAO_DATA = [
     "OS": "9621",
     "Frente": "105 - FRENTE CASSIO",
     "Profundidade do Sulco": "36",
-    "Fazenda": NaN
+    "Fazenda": null,
+    "Unnamed: 16": null
   },
   {
     "ID": "3552926",
@@ -28348,7 +29926,8 @@ const SULCACAO_DATA = [
     "OS": "9617",
     "Frente": "143 - FRENTE CASSIO",
     "Profundidade do Sulco": "42",
-    "Fazenda": NaN
+    "Fazenda": null,
+    "Unnamed: 16": null
   },
   {
     "ID": "3552921",
@@ -28366,7 +29945,8 @@ const SULCACAO_DATA = [
     "OS": "9617",
     "Frente": "143 - FRENTE CASSIO",
     "Profundidade do Sulco": "42",
-    "Fazenda": NaN
+    "Fazenda": null,
+    "Unnamed: 16": null
   },
   {
     "ID": "3551448",
@@ -28384,7 +29964,8 @@ const SULCACAO_DATA = [
     "OS": "9696",
     "Frente": "261 - FRENTE PRÓPRIA  (EDMILSON)",
     "Profundidade do Sulco": "38",
-    "Fazenda": NaN
+    "Fazenda": null,
+    "Unnamed: 16": null
   },
   {
     "ID": "3551443",
@@ -28402,7 +29983,8 @@ const SULCACAO_DATA = [
     "OS": "9696",
     "Frente": "261 - FRENTE PRÓPRIA  (EDMILSON)",
     "Profundidade do Sulco": "38",
-    "Fazenda": NaN
+    "Fazenda": null,
+    "Unnamed: 16": null
   },
   {
     "ID": "3551438",
@@ -28420,7 +30002,8 @@ const SULCACAO_DATA = [
     "OS": "9696",
     "Frente": "261 - FRENTE PRÓPRIA  (EDMILSON)",
     "Profundidade do Sulco": "38",
-    "Fazenda": NaN
+    "Fazenda": null,
+    "Unnamed: 16": null
   },
   {
     "ID": "3551433",
@@ -28438,7 +30021,8 @@ const SULCACAO_DATA = [
     "OS": "9696",
     "Frente": "261 - FRENTE PRÓPRIA  (EDMILSON)",
     "Profundidade do Sulco": "38",
-    "Fazenda": NaN
+    "Fazenda": null,
+    "Unnamed: 16": null
   },
   {
     "ID": "3551017",
@@ -28456,7 +30040,8 @@ const SULCACAO_DATA = [
     "OS": "9696",
     "Frente": "261 - FRENTE PRÓPRIA  (EDMILSON)",
     "Profundidade do Sulco": "38",
-    "Fazenda": NaN
+    "Fazenda": null,
+    "Unnamed: 16": null
   },
   {
     "ID": "3551012",
@@ -28474,7 +30059,8 @@ const SULCACAO_DATA = [
     "OS": "9696",
     "Frente": "261 - FRENTE PRÓPRIA  (EDMILSON)",
     "Profundidade do Sulco": "38",
-    "Fazenda": NaN
+    "Fazenda": null,
+    "Unnamed: 16": null
   },
   {
     "ID": "3551389",
@@ -28492,7 +30078,8 @@ const SULCACAO_DATA = [
     "OS": "9618",
     "Frente": "105 - FRENTE CASSIO",
     "Profundidade do Sulco": "37",
-    "Fazenda": NaN
+    "Fazenda": null,
+    "Unnamed: 16": null
   },
   {
     "ID": "3551006",
@@ -28510,7 +30097,8 @@ const SULCACAO_DATA = [
     "OS": "9696",
     "Frente": "261 - FRENTE PRÓPRIA  (EDMILSON)",
     "Profundidade do Sulco": "38",
-    "Fazenda": NaN
+    "Fazenda": null,
+    "Unnamed: 16": null
   },
   {
     "ID": "3551383",
@@ -28528,7 +30116,8 @@ const SULCACAO_DATA = [
     "OS": "9618",
     "Frente": "105 - FRENTE CASSIO",
     "Profundidade do Sulco": "37",
-    "Fazenda": NaN
+    "Fazenda": null,
+    "Unnamed: 16": null
   },
   {
     "ID": "3550999",
@@ -28546,7 +30135,8 @@ const SULCACAO_DATA = [
     "OS": "9696",
     "Frente": "261 - FRENTE PRÓPRIA  (EDMILSON)",
     "Profundidade do Sulco": "38",
-    "Fazenda": NaN
+    "Fazenda": null,
+    "Unnamed: 16": null
   },
   {
     "ID": "3551322",
@@ -28564,7 +30154,8 @@ const SULCACAO_DATA = [
     "OS": "9650 ",
     "Frente": "135 - PEDRINHO ",
     "Profundidade do Sulco": "38",
-    "Fazenda": NaN
+    "Fazenda": null,
+    "Unnamed: 16": null
   },
   {
     "ID": "3550994",
@@ -28582,7 +30173,8 @@ const SULCACAO_DATA = [
     "OS": "9696",
     "Frente": "261 - FRENTE PRÓPRIA  (EDMILSON)",
     "Profundidade do Sulco": "39",
-    "Fazenda": NaN
+    "Fazenda": null,
+    "Unnamed: 16": null
   },
   {
     "ID": "3551317",
@@ -28600,7 +30192,8 @@ const SULCACAO_DATA = [
     "OS": "9650",
     "Frente": "135 - PEDRINHO ",
     "Profundidade do Sulco": "41",
-    "Fazenda": NaN
+    "Fazenda": null,
+    "Unnamed: 16": null
   },
   {
     "ID": "3551371",
@@ -28618,7 +30211,8 @@ const SULCACAO_DATA = [
     "OS": "9620",
     "Frente": "105 - FRENTE CASSIO",
     "Profundidade do Sulco": "35",
-    "Fazenda": NaN
+    "Fazenda": null,
+    "Unnamed: 16": null
   },
   {
     "ID": "3551367",
@@ -28636,7 +30230,8 @@ const SULCACAO_DATA = [
     "OS": "9620",
     "Frente": "105 - FRENTE CASSIO",
     "Profundidade do Sulco": "37",
-    "Fazenda": NaN
+    "Fazenda": null,
+    "Unnamed: 16": null
   },
   {
     "ID": "3550981",
@@ -28654,7 +30249,8 @@ const SULCACAO_DATA = [
     "OS": "9696",
     "Frente": "261 - FRENTE PRÓPRIA  (EDMILSON)",
     "Profundidade do Sulco": "38",
-    "Fazenda": NaN
+    "Fazenda": null,
+    "Unnamed: 16": null
   },
   {
     "ID": "3551312",
@@ -28672,7 +30268,8 @@ const SULCACAO_DATA = [
     "OS": "9650",
     "Frente": "135 - PEDRINHO ",
     "Profundidade do Sulco": "39",
-    "Fazenda": NaN
+    "Fazenda": null,
+    "Unnamed: 16": null
   },
   {
     "ID": "3550977",
@@ -28690,7 +30287,8 @@ const SULCACAO_DATA = [
     "OS": "9696",
     "Frente": "261 - FRENTE PRÓPRIA  (EDMILSON)",
     "Profundidade do Sulco": "39",
-    "Fazenda": NaN
+    "Fazenda": null,
+    "Unnamed: 16": null
   },
   {
     "ID": "3551307",
@@ -28708,7 +30306,8 @@ const SULCACAO_DATA = [
     "OS": "9650",
     "Frente": "135 - PEDRINHO ",
     "Profundidade do Sulco": "38",
-    "Fazenda": NaN
+    "Fazenda": null,
+    "Unnamed: 16": null
   },
   {
     "ID": "3551363",
@@ -28726,7 +30325,8 @@ const SULCACAO_DATA = [
     "OS": "9620",
     "Frente": "105 - FRENTE CASSIO",
     "Profundidade do Sulco": "37",
-    "Fazenda": NaN
+    "Fazenda": null,
+    "Unnamed: 16": null
   },
   {
     "ID": "3551302",
@@ -28744,7 +30344,8 @@ const SULCACAO_DATA = [
     "OS": "9650",
     "Frente": "135 - PEDRINHO ",
     "Profundidade do Sulco": "40",
-    "Fazenda": NaN
+    "Fazenda": null,
+    "Unnamed: 16": null
   },
   {
     "ID": "3551359",
@@ -28762,7 +30363,8 @@ const SULCACAO_DATA = [
     "OS": "9620",
     "Frente": "105 - FRENTE CASSIO",
     "Profundidade do Sulco": "36",
-    "Fazenda": NaN
+    "Fazenda": null,
+    "Unnamed: 16": null
   },
   {
     "ID": "3551350",
@@ -28780,7 +30382,8 @@ const SULCACAO_DATA = [
     "OS": "9618",
     "Frente": "105 - FRENTE CASSIO",
     "Profundidade do Sulco": "35",
-    "Fazenda": NaN
+    "Fazenda": null,
+    "Unnamed: 16": null
   },
   {
     "ID": "3551344",
@@ -28798,7 +30401,8 @@ const SULCACAO_DATA = [
     "OS": "9618",
     "Frente": "105 - FRENTE CASSIO",
     "Profundidade do Sulco": "37",
-    "Fazenda": NaN
+    "Fazenda": null,
+    "Unnamed: 16": null
   },
   {
     "ID": "3549550",
@@ -28816,7 +30420,8 @@ const SULCACAO_DATA = [
     "OS": "9650",
     "Frente": "135 - PEDRINHO ",
     "Profundidade do Sulco": "42",
-    "Fazenda": NaN
+    "Fazenda": null,
+    "Unnamed: 16": null
   },
   {
     "ID": "3549540",
@@ -28834,7 +30439,8 @@ const SULCACAO_DATA = [
     "OS": "9650",
     "Frente": "135 - PEDRINHO ",
     "Profundidade do Sulco": "40",
-    "Fazenda": NaN
+    "Fazenda": null,
+    "Unnamed: 16": null
   },
   {
     "ID": "3549408",
@@ -28852,7 +30458,8 @@ const SULCACAO_DATA = [
     "OS": "9619",
     "Frente": "105 - FRENTE CASSIO",
     "Profundidade do Sulco": "37",
-    "Fazenda": NaN
+    "Fazenda": null,
+    "Unnamed: 16": null
   },
   {
     "ID": "3549404",
@@ -28870,7 +30477,8 @@ const SULCACAO_DATA = [
     "OS": "9619",
     "Frente": "105 - FRENTE CASSIO",
     "Profundidade do Sulco": "36",
-    "Fazenda": NaN
+    "Fazenda": null,
+    "Unnamed: 16": null
   },
   {
     "ID": "3549587",
@@ -28888,7 +30496,8 @@ const SULCACAO_DATA = [
     "OS": "9676",
     "Frente": "261 - FRENTE PRÓPRIA  (EDMILSON)",
     "Profundidade do Sulco": "38",
-    "Fazenda": NaN
+    "Fazenda": null,
+    "Unnamed: 16": null
   },
   {
     "ID": "3549584",
@@ -28906,7 +30515,8 @@ const SULCACAO_DATA = [
     "OS": "9676",
     "Frente": "261 - FRENTE PRÓPRIA  (EDMILSON)",
     "Profundidade do Sulco": "39",
-    "Fazenda": NaN
+    "Fazenda": null,
+    "Unnamed: 16": null
   },
   {
     "ID": "3549558",
@@ -28924,7 +30534,8 @@ const SULCACAO_DATA = [
     "OS": "9676",
     "Frente": "261 - FRENTE PRÓPRIA  (EDMILSON)",
     "Profundidade do Sulco": "39",
-    "Fazenda": NaN
+    "Fazenda": null,
+    "Unnamed: 16": null
   },
   {
     "ID": "3549559",
@@ -28942,7 +30553,8 @@ const SULCACAO_DATA = [
     "OS": "9767",
     "Frente": "261 - FRENTE PRÓPRIA  (EDMILSON)",
     "Profundidade do Sulco": "39",
-    "Fazenda": NaN
+    "Fazenda": null,
+    "Unnamed: 16": null
   },
   {
     "ID": "3549560",
@@ -28960,7 +30572,8 @@ const SULCACAO_DATA = [
     "OS": "9767",
     "Frente": "261 - FRENTE PRÓPRIA  (EDMILSON)",
     "Profundidade do Sulco": "39",
-    "Fazenda": NaN
+    "Fazenda": null,
+    "Unnamed: 16": null
   },
   {
     "ID": "3549557",
@@ -28978,7 +30591,8 @@ const SULCACAO_DATA = [
     "OS": "9676",
     "Frente": "261 - FRENTE PRÓPRIA  (EDMILSON)",
     "Profundidade do Sulco": "38",
-    "Fazenda": NaN
+    "Fazenda": null,
+    "Unnamed: 16": null
   },
   {
     "ID": "3549556",
@@ -28996,7 +30610,8 @@ const SULCACAO_DATA = [
     "OS": "9676",
     "Frente": "261 - FRENTE PRÓPRIA  (EDMILSON)",
     "Profundidade do Sulco": "39",
-    "Fazenda": NaN
+    "Fazenda": null,
+    "Unnamed: 16": null
   },
   {
     "ID": "3549634",
@@ -29014,7 +30629,8 @@ const SULCACAO_DATA = [
     "OS": "9622",
     "Frente": "139 - FRENTE MANEZÃO",
     "Profundidade do Sulco": "39",
-    "Fazenda": NaN
+    "Fazenda": null,
+    "Unnamed: 16": null
   },
   {
     "ID": "3549629",
@@ -29032,7 +30648,8 @@ const SULCACAO_DATA = [
     "OS": "9622",
     "Frente": "139 - FRENTE MANEZÃO",
     "Profundidade do Sulco": "40",
-    "Fazenda": NaN
+    "Fazenda": null,
+    "Unnamed: 16": null
   },
   {
     "ID": "3549396",
@@ -29050,7 +30667,8 @@ const SULCACAO_DATA = [
     "OS": "9619",
     "Frente": "105 - FRENTE CASSIO",
     "Profundidade do Sulco": "36",
-    "Fazenda": NaN
+    "Fazenda": null,
+    "Unnamed: 16": null
   },
   {
     "ID": "3549392",
@@ -29068,7 +30686,8 @@ const SULCACAO_DATA = [
     "OS": "9619",
     "Frente": "105 - FRENTE CASSIO",
     "Profundidade do Sulco": "37",
-    "Fazenda": NaN
+    "Fazenda": null,
+    "Unnamed: 16": null
   },
   {
     "ID": "3549175",
@@ -29086,7 +30705,8 @@ const SULCACAO_DATA = [
     "OS": "9580",
     "Frente": "142 - FRENTE BIDU",
     "Profundidade do Sulco": "40",
-    "Fazenda": NaN
+    "Fazenda": null,
+    "Unnamed: 16": null
   },
   {
     "ID": "3549171",
@@ -29104,7 +30724,8 @@ const SULCACAO_DATA = [
     "OS": "9580",
     "Frente": "142 - FRENTE BIDU",
     "Profundidade do Sulco": "41",
-    "Fazenda": NaN
+    "Fazenda": null,
+    "Unnamed: 16": null
   },
   {
     "ID": "3549388",
@@ -29122,7 +30743,8 @@ const SULCACAO_DATA = [
     "OS": "9619",
     "Frente": "105 - FRENTE CASSIO",
     "Profundidade do Sulco": "37",
-    "Fazenda": NaN
+    "Fazenda": null,
+    "Unnamed: 16": null
   },
   {
     "ID": "3549238",
@@ -29140,7 +30762,8 @@ const SULCACAO_DATA = [
     "OS": "9557",
     "Frente": "261 - FRENTE PRÓPRIA  (EDMILSON)",
     "Profundidade do Sulco": "39",
-    "Fazenda": NaN
+    "Fazenda": null,
+    "Unnamed: 16": null
   },
   {
     "ID": "3549622",
@@ -29158,7 +30781,8 @@ const SULCACAO_DATA = [
     "OS": "9622",
     "Frente": "139 - FRENTE MANEZÃO",
     "Profundidade do Sulco": "40",
-    "Fazenda": NaN
+    "Fazenda": null,
+    "Unnamed: 16": null
   },
   {
     "ID": "3549617",
@@ -29176,7 +30800,8 @@ const SULCACAO_DATA = [
     "OS": "9622",
     "Frente": "139 - FRENTE MANEZÃO",
     "Profundidade do Sulco": "40",
-    "Fazenda": NaN
+    "Fazenda": null,
+    "Unnamed: 16": null
   },
   {
     "ID": "3549612",
@@ -29194,7 +30819,8 @@ const SULCACAO_DATA = [
     "OS": "9622",
     "Frente": "139 - FRENTE MANEZÃO",
     "Profundidade do Sulco": "37",
-    "Fazenda": NaN
+    "Fazenda": null,
+    "Unnamed: 16": null
   },
   {
     "ID": "3548155",
@@ -29212,7 +30838,8 @@ const SULCACAO_DATA = [
     "OS": "9650",
     "Frente": "135 - PEDRINHO ",
     "Profundidade do Sulco": "40",
-    "Fazenda": NaN
+    "Fazenda": null,
+    "Unnamed: 16": null
   },
   {
     "ID": "3547497",
@@ -29230,7 +30857,8 @@ const SULCACAO_DATA = [
     "OS": "9614",
     "Frente": "142 - FRENTE BIDU",
     "Profundidade do Sulco": "38",
-    "Fazenda": NaN
+    "Fazenda": null,
+    "Unnamed: 16": null
   },
   {
     "ID": "3547658",
@@ -29248,7 +30876,8 @@ const SULCACAO_DATA = [
     "OS": "9557",
     "Frente": "261 - FRENTE PRÓPRIA  (EDMILSON)",
     "Profundidade do Sulco": "41",
-    "Fazenda": NaN
+    "Fazenda": null,
+    "Unnamed: 16": null
   },
   {
     "ID": "3547496",
@@ -29266,7 +30895,8 @@ const SULCACAO_DATA = [
     "OS": "9614",
     "Frente": "142 - FRENTE BIDU",
     "Profundidade do Sulco": "41",
-    "Fazenda": NaN
+    "Fazenda": null,
+    "Unnamed: 16": null
   },
   {
     "ID": "3547653",
@@ -29284,7 +30914,8 @@ const SULCACAO_DATA = [
     "OS": "9557",
     "Frente": "261 - FRENTE PRÓPRIA  (EDMILSON)",
     "Profundidade do Sulco": "37",
-    "Fazenda": NaN
+    "Fazenda": null,
+    "Unnamed: 16": null
   },
   {
     "ID": "3547648",
@@ -29302,7 +30933,8 @@ const SULCACAO_DATA = [
     "OS": "9557",
     "Frente": "261 - FRENTE PRÓPRIA  (EDMILSON)",
     "Profundidade do Sulco": "40",
-    "Fazenda": NaN
+    "Fazenda": null,
+    "Unnamed: 16": null
   },
   {
     "ID": "3547430",
@@ -29320,7 +30952,8 @@ const SULCACAO_DATA = [
     "OS": "9508",
     "Frente": "105 - FRENTE CASSIO",
     "Profundidade do Sulco": "37",
-    "Fazenda": NaN
+    "Fazenda": null,
+    "Unnamed: 16": null
   },
   {
     "ID": "3547642",
@@ -29338,7 +30971,8 @@ const SULCACAO_DATA = [
     "OS": "9614",
     "Frente": "142 - FRENTE BIDU",
     "Profundidade do Sulco": "37",
-    "Fazenda": NaN
+    "Fazenda": null,
+    "Unnamed: 16": null
   },
   {
     "ID": "3547426",
@@ -29356,7 +30990,8 @@ const SULCACAO_DATA = [
     "OS": "9508",
     "Frente": "105 - FRENTE CASSIO",
     "Profundidade do Sulco": "38",
-    "Fazenda": NaN
+    "Fazenda": null,
+    "Unnamed: 16": null
   },
   {
     "ID": "3547632",
@@ -29374,7 +31009,8 @@ const SULCACAO_DATA = [
     "OS": "9614",
     "Frente": "142 - FRENTE BIDU",
     "Profundidade do Sulco": "36",
-    "Fazenda": NaN
+    "Fazenda": null,
+    "Unnamed: 16": null
   },
   {
     "ID": "3547622",
@@ -29392,7 +31028,8 @@ const SULCACAO_DATA = [
     "OS": "9614",
     "Frente": "142 - FRENTE BIDU",
     "Profundidade do Sulco": "39",
-    "Fazenda": NaN
+    "Fazenda": null,
+    "Unnamed: 16": null
   },
   {
     "ID": "3547616",
@@ -29410,7 +31047,8 @@ const SULCACAO_DATA = [
     "OS": "9510",
     "Frente": "101 - FRENTE MECANIZADA",
     "Profundidade do Sulco": "38",
-    "Fazenda": NaN
+    "Fazenda": null,
+    "Unnamed: 16": null
   },
   {
     "ID": "3547045",
@@ -29428,7 +31066,8 @@ const SULCACAO_DATA = [
     "OS": "9510",
     "Frente": "101 - FRENTE MECANIZADA",
     "Profundidade do Sulco": "39",
-    "Fazenda": NaN
+    "Fazenda": null,
+    "Unnamed: 16": null
   },
   {
     "ID": "3547179",
@@ -29446,7 +31085,8 @@ const SULCACAO_DATA = [
     "OS": "9557",
     "Frente": "261 - FRENTE PRÓPRIA  (EDMILSON)",
     "Profundidade do Sulco": "38",
-    "Fazenda": NaN
+    "Fazenda": null,
+    "Unnamed: 16": null
   },
   {
     "ID": "3547175",
@@ -29464,7 +31104,8 @@ const SULCACAO_DATA = [
     "OS": "9557",
     "Frente": "261 - FRENTE PRÓPRIA  (EDMILSON)",
     "Profundidade do Sulco": "39",
-    "Fazenda": NaN
+    "Fazenda": null,
+    "Unnamed: 16": null
   },
   {
     "ID": "3546943",
@@ -29482,7 +31123,8 @@ const SULCACAO_DATA = [
     "OS": "9581",
     "Frente": "142 - FRENTE BIDU",
     "Profundidade do Sulco": "38",
-    "Fazenda": NaN
+    "Fazenda": null,
+    "Unnamed: 16": null
   },
   {
     "ID": "3546941",
@@ -29500,7 +31142,8 @@ const SULCACAO_DATA = [
     "OS": "9581",
     "Frente": "142 - FRENTE BIDU",
     "Profundidade do Sulco": "37",
-    "Fazenda": NaN
+    "Fazenda": null,
+    "Unnamed: 16": null
   },
   {
     "ID": "3546940",
@@ -29518,7 +31161,8 @@ const SULCACAO_DATA = [
     "OS": "9581",
     "Frente": "142 - FRENTE BIDU",
     "Profundidade do Sulco": "39",
-    "Fazenda": NaN
+    "Fazenda": null,
+    "Unnamed: 16": null
   },
   {
     "ID": "3546939",
@@ -29536,7 +31180,8 @@ const SULCACAO_DATA = [
     "OS": "9581",
     "Frente": "142 - FRENTE BIDU",
     "Profundidade do Sulco": "37",
-    "Fazenda": NaN
+    "Fazenda": null,
+    "Unnamed: 16": null
   },
   {
     "ID": "3547606",
@@ -29554,7 +31199,8 @@ const SULCACAO_DATA = [
     "OS": "9510",
     "Frente": "101 - FRENTE MECANIZADA",
     "Profundidade do Sulco": "36",
-    "Fazenda": NaN
+    "Fazenda": null,
+    "Unnamed: 16": null
   },
   {
     "ID": "3547144",
@@ -29572,7 +31218,8 @@ const SULCACAO_DATA = [
     "OS": "9257",
     "Frente": "261 - FRENTE PRÓPRIA  (EDMILSON)",
     "Profundidade do Sulco": "39",
-    "Fazenda": NaN
+    "Fazenda": null,
+    "Unnamed: 16": null
   },
   {
     "ID": "3547034",
@@ -29590,7 +31237,8 @@ const SULCACAO_DATA = [
     "OS": "9510",
     "Frente": "101 - FRENTE MECANIZADA",
     "Profundidade do Sulco": "39",
-    "Fazenda": NaN
+    "Fazenda": null,
+    "Unnamed: 16": null
   },
   {
     "ID": "3547139",
@@ -29608,7 +31256,8 @@ const SULCACAO_DATA = [
     "OS": "9557",
     "Frente": "261 - FRENTE PRÓPRIA  (EDMILSON)",
     "Profundidade do Sulco": "38",
-    "Fazenda": NaN
+    "Fazenda": null,
+    "Unnamed: 16": null
   },
   {
     "ID": "3547032",
@@ -29626,7 +31275,8 @@ const SULCACAO_DATA = [
     "OS": "9510",
     "Frente": "105 - FRENTE CASSIO (ZACARIAS)",
     "Profundidade do Sulco": "38",
-    "Fazenda": NaN
+    "Fazenda": null,
+    "Unnamed: 16": null
   },
   {
     "ID": "3547133",
@@ -29644,7 +31294,8 @@ const SULCACAO_DATA = [
     "OS": "9557",
     "Frente": "261 - FRENTE PRÓPRIA  (EDMILSON)",
     "Profundidade do Sulco": "39",
-    "Fazenda": NaN
+    "Fazenda": null,
+    "Unnamed: 16": null
   },
   {
     "ID": "3547129",
@@ -29662,7 +31313,8 @@ const SULCACAO_DATA = [
     "OS": "9557",
     "Frente": "261 - FRENTE PRÓPRIA  (EDMILSON)",
     "Profundidade do Sulco": "38",
-    "Fazenda": NaN
+    "Fazenda": null,
+    "Unnamed: 16": null
   },
   {
     "ID": "3547076",
@@ -29680,7 +31332,8 @@ const SULCACAO_DATA = [
     "OS": "9614",
     "Frente": "142 - FRENTE BIDU",
     "Profundidade do Sulco": "37",
-    "Fazenda": NaN
+    "Fazenda": null,
+    "Unnamed: 16": null
   },
   {
     "ID": "3547123",
@@ -29698,7 +31351,8 @@ const SULCACAO_DATA = [
     "OS": "9557",
     "Frente": "261 - FRENTE PRÓPRIA  (EDMILSON)",
     "Profundidade do Sulco": "38",
-    "Fazenda": NaN
+    "Fazenda": null,
+    "Unnamed: 16": null
   },
   {
     "ID": "3547118",
@@ -29716,7 +31370,8 @@ const SULCACAO_DATA = [
     "OS": "9557",
     "Frente": "261 - FRENTE PRÓPRIA  (EDMILSON)",
     "Profundidade do Sulco": "38",
-    "Fazenda": NaN
+    "Fazenda": null,
+    "Unnamed: 16": null
   },
   {
     "ID": "3547113",
@@ -29734,7 +31389,8 @@ const SULCACAO_DATA = [
     "OS": "9557",
     "Frente": "261 - FRENTE PRÓPRIA  (EDMILSON)",
     "Profundidade do Sulco": "38",
-    "Fazenda": NaN
+    "Fazenda": null,
+    "Unnamed: 16": null
   },
   {
     "ID": "3547108",
@@ -29752,7 +31408,8 @@ const SULCACAO_DATA = [
     "OS": "9557",
     "Frente": "261 - FRENTE PRÓPRIA  (EDMILSON)",
     "Profundidade do Sulco": "38",
-    "Fazenda": NaN
+    "Fazenda": null,
+    "Unnamed: 16": null
   },
   {
     "ID": "3547297",
@@ -29770,7 +31427,8 @@ const SULCACAO_DATA = [
     "OS": "9488",
     "Frente": "143 - FRENTE CASSIO",
     "Profundidade do Sulco": "44",
-    "Fazenda": NaN
+    "Fazenda": null,
+    "Unnamed: 16": null
   },
   {
     "ID": "3547292",
@@ -29788,7 +31446,8 @@ const SULCACAO_DATA = [
     "OS": "9488",
     "Frente": "143 - FRENTE CASSIO",
     "Profundidade do Sulco": "40",
-    "Fazenda": NaN
+    "Fazenda": null,
+    "Unnamed: 16": null
   },
   {
     "ID": "3547286",
@@ -29806,7 +31465,8 @@ const SULCACAO_DATA = [
     "OS": "9488",
     "Frente": "143 - FRENTE CASSIO",
     "Profundidade do Sulco": "43",
-    "Fazenda": NaN
+    "Fazenda": null,
+    "Unnamed: 16": null
   },
   {
     "ID": "3547306",
@@ -29824,7 +31484,8 @@ const SULCACAO_DATA = [
     "OS": "9488",
     "Frente": "143 - FRENTE CASSIO",
     "Profundidade do Sulco": "45",
-    "Fazenda": NaN
+    "Fazenda": null,
+    "Unnamed: 16": null
   },
   {
     "ID": "3545051",
@@ -29842,7 +31503,8 @@ const SULCACAO_DATA = [
     "OS": "9557",
     "Frente": "261 - FRENTE PRÓPRIA  (EDMILSON)",
     "Profundidade do Sulco": "39",
-    "Fazenda": NaN
+    "Fazenda": null,
+    "Unnamed: 16": null
   },
   {
     "ID": "3544757",
@@ -29860,7 +31522,8 @@ const SULCACAO_DATA = [
     "OS": "9510",
     "Frente": "101 - FRENTE MECANIZADA",
     "Profundidade do Sulco": "37",
-    "Fazenda": NaN
+    "Fazenda": null,
+    "Unnamed: 16": null
   },
   {
     "ID": "3544852",
@@ -29878,7 +31541,8 @@ const SULCACAO_DATA = [
     "OS": "9508",
     "Frente": "105 - FRENTE CASSIO",
     "Profundidade do Sulco": "38",
-    "Fazenda": NaN
+    "Fazenda": null,
+    "Unnamed: 16": null
   },
   {
     "ID": "3544725",
@@ -29896,7 +31560,8 @@ const SULCACAO_DATA = [
     "OS": "9510",
     "Frente": "101 - FRENTE MECANIZADA",
     "Profundidade do Sulco": "38",
-    "Fazenda": NaN
+    "Fazenda": null,
+    "Unnamed: 16": null
   },
   {
     "ID": "3544721",
@@ -29914,7 +31579,8 @@ const SULCACAO_DATA = [
     "OS": "9510",
     "Frente": "101 - FRENTE MECANIZADA",
     "Profundidade do Sulco": "40",
-    "Fazenda": NaN
+    "Fazenda": null,
+    "Unnamed: 16": null
   },
   {
     "ID": "3544848",
@@ -29932,7 +31598,8 @@ const SULCACAO_DATA = [
     "OS": "9508",
     "Frente": "105 - FRENTE CASSIO",
     "Profundidade do Sulco": "38",
-    "Fazenda": NaN
+    "Fazenda": null,
+    "Unnamed: 16": null
   },
   {
     "ID": "3544583",
@@ -29950,7 +31617,8 @@ const SULCACAO_DATA = [
     "OS": "9338",
     "Frente": "139 - FRENTE MANEZÃO",
     "Profundidade do Sulco": "40",
-    "Fazenda": NaN
+    "Fazenda": null,
+    "Unnamed: 16": null
   },
   {
     "ID": "3544582",
@@ -29968,7 +31636,8 @@ const SULCACAO_DATA = [
     "OS": "9338",
     "Frente": "139 - FRENTE MANEZÃO",
     "Profundidade do Sulco": "40",
-    "Fazenda": NaN
+    "Fazenda": null,
+    "Unnamed: 16": null
   },
   {
     "ID": "3544581",
@@ -29986,7 +31655,8 @@ const SULCACAO_DATA = [
     "OS": "9338",
     "Frente": "139 - FRENTE MANEZÃO",
     "Profundidade do Sulco": "39",
-    "Fazenda": NaN
+    "Fazenda": null,
+    "Unnamed: 16": null
   },
   {
     "ID": "3544443",
@@ -30004,7 +31674,8 @@ const SULCACAO_DATA = [
     "OS": "9510",
     "Frente": "101 - FRENTE MECANIZADA",
     "Profundidade do Sulco": "39",
-    "Fazenda": NaN
+    "Fazenda": null,
+    "Unnamed: 16": null
   },
   {
     "ID": "3544439",
@@ -30022,7 +31693,8 @@ const SULCACAO_DATA = [
     "OS": "9510",
     "Frente": "101 - FRENTE MECANIZADA",
     "Profundidade do Sulco": "39",
-    "Fazenda": NaN
+    "Fazenda": null,
+    "Unnamed: 16": null
   },
   {
     "ID": "3544863",
@@ -30040,7 +31712,8 @@ const SULCACAO_DATA = [
     "OS": "9508",
     "Frente": "105 - FRENTE CASSIO",
     "Profundidade do Sulco": "37",
-    "Fazenda": NaN
+    "Fazenda": null,
+    "Unnamed: 16": null
   },
   {
     "ID": "3544860",
@@ -30058,7 +31731,8 @@ const SULCACAO_DATA = [
     "OS": "9508",
     "Frente": "105 - FRENTE CASSIO",
     "Profundidade do Sulco": "36",
-    "Fazenda": NaN
+    "Fazenda": null,
+    "Unnamed: 16": null
   },
   {
     "ID": "3544317",
@@ -30076,7 +31750,8 @@ const SULCACAO_DATA = [
     "OS": "9508",
     "Frente": "105 - FRENTE CASSIO",
     "Profundidade do Sulco": "38",
-    "Fazenda": NaN
+    "Fazenda": null,
+    "Unnamed: 16": null
   },
   {
     "ID": "3544856",
@@ -30094,7 +31769,8 @@ const SULCACAO_DATA = [
     "OS": "9508",
     "Frente": "105 - FRENTE CASSIO",
     "Profundidade do Sulco": "37",
-    "Fazenda": NaN
+    "Fazenda": null,
+    "Unnamed: 16": null
   },
   {
     "ID": "3544310",
@@ -30112,7 +31788,8 @@ const SULCACAO_DATA = [
     "OS": "9508",
     "Frente": "105 - FRENTE CASSIO",
     "Profundidade do Sulco": "36",
-    "Fazenda": NaN
+    "Fazenda": null,
+    "Unnamed: 16": null
   },
   {
     "ID": "3545021",
@@ -30130,7 +31807,8 @@ const SULCACAO_DATA = [
     "OS": "9557",
     "Frente": "261 - FRENTE PRÓPRIA  (EDMILSON)",
     "Profundidade do Sulco": "38",
-    "Fazenda": NaN
+    "Fazenda": null,
+    "Unnamed: 16": null
   },
   {
     "ID": "3544431",
@@ -30148,7 +31826,8 @@ const SULCACAO_DATA = [
     "OS": "9510",
     "Frente": "101 - FRENTE MECANIZADA",
     "Profundidade do Sulco": "38",
-    "Fazenda": NaN
+    "Fazenda": null,
+    "Unnamed: 16": null
   },
   {
     "ID": "3545016",
@@ -30166,7 +31845,8 @@ const SULCACAO_DATA = [
     "OS": "9557",
     "Frente": "261 - FRENTE PRÓPRIA  (EDMILSON)",
     "Profundidade do Sulco": "37",
-    "Fazenda": NaN
+    "Fazenda": null,
+    "Unnamed: 16": null
   },
   {
     "ID": "3545011",
@@ -30184,7 +31864,8 @@ const SULCACAO_DATA = [
     "OS": "9557",
     "Frente": "261 - FRENTE PRÓPRIA  (EDMILSON)",
     "Profundidade do Sulco": "38",
-    "Fazenda": NaN
+    "Fazenda": null,
+    "Unnamed: 16": null
   },
   {
     "ID": "3545000",
@@ -30202,7 +31883,8 @@ const SULCACAO_DATA = [
     "OS": "9557",
     "Frente": "261 - FRENTE PRÓPRIA  (EDMILSON)",
     "Profundidade do Sulco": "39",
-    "Fazenda": NaN
+    "Fazenda": null,
+    "Unnamed: 16": null
   },
   {
     "ID": "3544994",
@@ -30220,7 +31902,8 @@ const SULCACAO_DATA = [
     "OS": "9557",
     "Frente": "261 - FRENTE PRÓPRIA  (EDMILSON)",
     "Profundidade do Sulco": "39",
-    "Fazenda": NaN
+    "Fazenda": null,
+    "Unnamed: 16": null
   },
   {
     "ID": "3544621",
@@ -30238,7 +31921,8 @@ const SULCACAO_DATA = [
     "OS": "9488",
     "Frente": "143 - FRENTE CASSIO",
     "Profundidade do Sulco": "45",
-    "Fazenda": NaN
+    "Fazenda": null,
+    "Unnamed: 16": null
   },
   {
     "ID": "3544286",
@@ -30256,7 +31940,8 @@ const SULCACAO_DATA = [
     "OS": "9581",
     "Frente": "142 - FRENTE BIDU",
     "Profundidade do Sulco": "40",
-    "Fazenda": NaN
+    "Fazenda": null,
+    "Unnamed: 16": null
   },
   {
     "ID": "3544285",
@@ -30274,7 +31959,8 @@ const SULCACAO_DATA = [
     "OS": "9581",
     "Frente": "142 - FRENTE BIDU",
     "Profundidade do Sulco": "38",
-    "Fazenda": NaN
+    "Fazenda": null,
+    "Unnamed: 16": null
   },
   {
     "ID": "3544912",
@@ -30292,7 +31978,8 @@ const SULCACAO_DATA = [
     "OS": "9583",
     "Frente": "135 - PEDRINHO ",
     "Profundidade do Sulco": "36",
-    "Fazenda": NaN
+    "Fazenda": null,
+    "Unnamed: 16": null
   },
   {
     "ID": "3544989",
@@ -30310,7 +31997,8 @@ const SULCACAO_DATA = [
     "OS": "9557",
     "Frente": "261 - FRENTE PRÓPRIA  (EDMILSON)",
     "Profundidade do Sulco": "38",
-    "Fazenda": NaN
+    "Fazenda": null,
+    "Unnamed: 16": null
   },
   {
     "ID": "3544616",
@@ -30328,7 +32016,8 @@ const SULCACAO_DATA = [
     "OS": "9488",
     "Frente": "143 - FRENTE CASSIO",
     "Profundidade do Sulco": "42",
-    "Fazenda": NaN
+    "Fazenda": null,
+    "Unnamed: 16": null
   },
   {
     "ID": "3544984",
@@ -30346,7 +32035,8 @@ const SULCACAO_DATA = [
     "OS": "9557",
     "Frente": "261 - FRENTE PRÓPRIA  (EDMILSON)",
     "Profundidade do Sulco": "38",
-    "Fazenda": NaN
+    "Fazenda": null,
+    "Unnamed: 16": null
   },
   {
     "ID": "3544908",
@@ -30364,7 +32054,8 @@ const SULCACAO_DATA = [
     "OS": "9583",
     "Frente": "135 - PEDRINHO ",
     "Profundidade do Sulco": "38",
-    "Fazenda": NaN
+    "Fazenda": null,
+    "Unnamed: 16": null
   },
   {
     "ID": "3544609",
@@ -30382,7 +32073,8 @@ const SULCACAO_DATA = [
     "OS": "9488",
     "Frente": "143 - FRENTE CASSIO",
     "Profundidade do Sulco": "43",
-    "Fazenda": NaN
+    "Fazenda": null,
+    "Unnamed: 16": null
   },
   {
     "ID": "3544902",
@@ -30400,7 +32092,8 @@ const SULCACAO_DATA = [
     "OS": "9583",
     "Frente": "135 - PEDRINHO ",
     "Profundidade do Sulco": "37",
-    "Fazenda": NaN
+    "Fazenda": null,
+    "Unnamed: 16": null
   },
   {
     "ID": "3544979",
@@ -30418,7 +32111,8 @@ const SULCACAO_DATA = [
     "OS": "9557",
     "Frente": "261 - FRENTE PRÓPRIA  (EDMILSON)",
     "Profundidade do Sulco": "38",
-    "Fazenda": NaN
+    "Fazenda": null,
+    "Unnamed: 16": null
   },
   {
     "ID": "3544602",
@@ -30436,7 +32130,8 @@ const SULCACAO_DATA = [
     "OS": "9488",
     "Frente": "143 - FRENTE CASSIO",
     "Profundidade do Sulco": "43",
-    "Fazenda": NaN
+    "Fazenda": null,
+    "Unnamed: 16": null
   },
   {
     "ID": "3544975",
@@ -30454,7 +32149,8 @@ const SULCACAO_DATA = [
     "OS": "9557",
     "Frente": "261 - FRENTE PRÓPRIA  (EDMILSON)",
     "Profundidade do Sulco": "39",
-    "Fazenda": NaN
+    "Fazenda": null,
+    "Unnamed: 16": null
   },
   {
     "ID": "3542336",
@@ -30472,7 +32168,8 @@ const SULCACAO_DATA = [
     "OS": "9508",
     "Frente": "105 - FRENTE CASSIO",
     "Profundidade do Sulco": "38",
-    "Fazenda": NaN
+    "Fazenda": null,
+    "Unnamed: 16": null
   },
   {
     "ID": "3542372",
@@ -30490,7 +32187,8 @@ const SULCACAO_DATA = [
     "OS": "9338",
     "Frente": "139 - FRENTE MANEZÃO",
     "Profundidade do Sulco": "38",
-    "Fazenda": NaN
+    "Fazenda": null,
+    "Unnamed: 16": null
   },
   {
     "ID": "3542332",
@@ -30508,7 +32206,8 @@ const SULCACAO_DATA = [
     "OS": "9508",
     "Frente": "105 - FRENTE CASSIO",
     "Profundidade do Sulco": "36",
-    "Fazenda": NaN
+    "Fazenda": null,
+    "Unnamed: 16": null
   },
   {
     "ID": "3542362",
@@ -30526,7 +32225,8 @@ const SULCACAO_DATA = [
     "OS": "9338",
     "Frente": "139 - FRENTE MANEZÃO",
     "Profundidade do Sulco": "37",
-    "Fazenda": NaN
+    "Fazenda": null,
+    "Unnamed: 16": null
   },
   {
     "ID": "3542354",
@@ -30544,7 +32244,8 @@ const SULCACAO_DATA = [
     "OS": "9338",
     "Frente": "139 - FRENTE MANEZÃO",
     "Profundidade do Sulco": "38",
-    "Fazenda": NaN
+    "Fazenda": null,
+    "Unnamed: 16": null
   },
   {
     "ID": "3542266",
@@ -30562,7 +32263,8 @@ const SULCACAO_DATA = [
     "OS": "9555",
     "Frente": "135 - PEDRINHO ",
     "Profundidade do Sulco": "40",
-    "Fazenda": NaN
+    "Fazenda": null,
+    "Unnamed: 16": null
   },
   {
     "ID": "3542353",
@@ -30580,7 +32282,8 @@ const SULCACAO_DATA = [
     "OS": "9338",
     "Frente": "139 - FRENTE MANEZÃO",
     "Profundidade do Sulco": "38",
-    "Fazenda": NaN
+    "Fazenda": null,
+    "Unnamed: 16": null
   },
   {
     "ID": "3541904",
@@ -30598,7 +32301,8 @@ const SULCACAO_DATA = [
     "OS": "9510",
     "Frente": "101 - FRENTE MECANIZADA",
     "Profundidade do Sulco": "39",
-    "Fazenda": NaN
+    "Fazenda": null,
+    "Unnamed: 16": null
   },
   {
     "ID": "3542261",
@@ -30616,7 +32320,8 @@ const SULCACAO_DATA = [
     "OS": "9555",
     "Frente": "135 - PEDRINHO ",
     "Profundidade do Sulco": "41",
-    "Fazenda": NaN
+    "Fazenda": null,
+    "Unnamed: 16": null
   },
   {
     "ID": "3541911",
@@ -30634,7 +32339,8 @@ const SULCACAO_DATA = [
     "OS": "9575",
     "Frente": "142 - FRENTE BIDU",
     "Profundidade do Sulco": "40",
-    "Fazenda": NaN
+    "Fazenda": null,
+    "Unnamed: 16": null
   },
   {
     "ID": "3541910",
@@ -30652,7 +32358,8 @@ const SULCACAO_DATA = [
     "OS": "9575",
     "Frente": "142 - FRENTE BIDU",
     "Profundidade do Sulco": "39",
-    "Fazenda": NaN
+    "Fazenda": null,
+    "Unnamed: 16": null
   },
   {
     "ID": "3542256",
@@ -30670,7 +32377,8 @@ const SULCACAO_DATA = [
     "OS": "9555",
     "Frente": "135 - PEDRINHO ",
     "Profundidade do Sulco": "38",
-    "Fazenda": NaN
+    "Fazenda": null,
+    "Unnamed: 16": null
   },
   {
     "ID": "3541896",
@@ -30688,7 +32396,8 @@ const SULCACAO_DATA = [
     "OS": "9510",
     "Frente": "101 - FRENTE MECANIZADA",
     "Profundidade do Sulco": "38",
-    "Fazenda": NaN
+    "Fazenda": null,
+    "Unnamed: 16": null
   },
   {
     "ID": "3541894",
@@ -30706,7 +32415,8 @@ const SULCACAO_DATA = [
     "OS": "9510",
     "Frente": "101 - FRENTE MECANIZADA",
     "Profundidade do Sulco": "40",
-    "Fazenda": NaN
+    "Fazenda": null,
+    "Unnamed: 16": null
   },
   {
     "ID": "3542318",
@@ -30724,7 +32434,8 @@ const SULCACAO_DATA = [
     "OS": "9506",
     "Frente": "105 - FRENTE CASSIO",
     "Profundidade do Sulco": "38",
-    "Fazenda": NaN
+    "Fazenda": null,
+    "Unnamed: 16": null
   },
   {
     "ID": "3542312",
@@ -30742,7 +32453,8 @@ const SULCACAO_DATA = [
     "OS": "9506",
     "Frente": "105 - FRENTE CASSIO",
     "Profundidade do Sulco": "35",
-    "Fazenda": NaN
+    "Fazenda": null,
+    "Unnamed: 16": null
   },
   {
     "ID": "3542083",
@@ -30760,7 +32472,8 @@ const SULCACAO_DATA = [
     "OS": "9489",
     "Frente": "143 - FRENTE CASSIO",
     "Profundidade do Sulco": "44",
-    "Fazenda": NaN
+    "Fazenda": null,
+    "Unnamed: 16": null
   },
   {
     "ID": "3542079",
@@ -30778,7 +32491,8 @@ const SULCACAO_DATA = [
     "OS": "9489",
     "Frente": "143 - FRENTE CASSIO",
     "Profundidade do Sulco": "42",
-    "Fazenda": NaN
+    "Fazenda": null,
+    "Unnamed: 16": null
   },
   {
     "ID": "3542074",
@@ -30796,7 +32510,8 @@ const SULCACAO_DATA = [
     "OS": "9489",
     "Frente": "143 - FRENTE CASSIO",
     "Profundidade do Sulco": "43",
-    "Fazenda": NaN
+    "Fazenda": null,
+    "Unnamed: 16": null
   },
   {
     "ID": "3542069",
@@ -30814,7 +32529,8 @@ const SULCACAO_DATA = [
     "OS": "9489",
     "Frente": "143 - FRENTE CASSIO",
     "Profundidade do Sulco": "40",
-    "Fazenda": NaN
+    "Fazenda": null,
+    "Unnamed: 16": null
   },
   {
     "ID": "3540108",
@@ -30832,7 +32548,8 @@ const SULCACAO_DATA = [
     "OS": "9506",
     "Frente": "105 - FRENTE CASSIO",
     "Profundidade do Sulco": "35",
-    "Fazenda": NaN
+    "Fazenda": null,
+    "Unnamed: 16": null
   },
   {
     "ID": "3540662",
@@ -30850,7 +32567,8 @@ const SULCACAO_DATA = [
     "OS": "9487",
     "Frente": "261 - FRENTE PRÓPRIA  (EDMILSON)",
     "Profundidade do Sulco": "39",
-    "Fazenda": NaN
+    "Fazenda": null,
+    "Unnamed: 16": null
   },
   {
     "ID": "3540593",
@@ -30868,7 +32586,8 @@ const SULCACAO_DATA = [
     "OS": "9487",
     "Frente": "261 - FRENTE PRÓPRIA  (EDMILSON)",
     "Profundidade do Sulco": "39",
-    "Fazenda": NaN
+    "Fazenda": null,
+    "Unnamed: 16": null
   },
   {
     "ID": "3540104",
@@ -30886,7 +32605,8 @@ const SULCACAO_DATA = [
     "OS": "9506",
     "Frente": "105 - FRENTE CASSIO",
     "Profundidade do Sulco": "38",
-    "Fazenda": NaN
+    "Fazenda": null,
+    "Unnamed: 16": null
   },
   {
     "ID": "3540220",
@@ -30904,7 +32624,8 @@ const SULCACAO_DATA = [
     "OS": "9510",
     "Frente": "101 - FRENTE MECANIZADA",
     "Profundidade do Sulco": "39",
-    "Fazenda": NaN
+    "Fazenda": null,
+    "Unnamed: 16": null
   },
   {
     "ID": "3540408",
@@ -30922,7 +32643,8 @@ const SULCACAO_DATA = [
     "OS": "9487",
     "Frente": "261 - FRENTE PRÓPRIA  (EDMILSON)",
     "Profundidade do Sulco": "37",
-    "Fazenda": NaN
+    "Fazenda": null,
+    "Unnamed: 16": null
   },
   {
     "ID": "3540100",
@@ -30940,7 +32662,8 @@ const SULCACAO_DATA = [
     "OS": "9506",
     "Frente": "105 - FRENTE CASSIO",
     "Profundidade do Sulco": "37",
-    "Fazenda": NaN
+    "Fazenda": null,
+    "Unnamed: 16": null
   },
   {
     "ID": "3540308",
@@ -30958,7 +32681,8 @@ const SULCACAO_DATA = [
     "OS": "9487",
     "Frente": "261 - FRENTE PRÓPRIA  (EDMILSON)",
     "Profundidade do Sulco": "38",
-    "Fazenda": NaN
+    "Fazenda": null,
+    "Unnamed: 16": null
   },
   {
     "ID": "3540095",
@@ -30976,7 +32700,8 @@ const SULCACAO_DATA = [
     "OS": "9506",
     "Frente": "105 - FRENTE CASSIO",
     "Profundidade do Sulco": "36",
-    "Fazenda": NaN
+    "Fazenda": null,
+    "Unnamed: 16": null
   },
   {
     "ID": "3540283",
@@ -30994,7 +32719,8 @@ const SULCACAO_DATA = [
     "OS": "9487",
     "Frente": "261 - FRENTE PRÓPRIA  (EDMILSON)",
     "Profundidade do Sulco": "38",
-    "Fazenda": NaN
+    "Fazenda": null,
+    "Unnamed: 16": null
   },
   {
     "ID": "3540023",
@@ -31012,7 +32738,8 @@ const SULCACAO_DATA = [
     "OS": "9295",
     "Frente": "139 - FRENTE MANEZÃO",
     "Profundidade do Sulco": "39",
-    "Fazenda": NaN
+    "Fazenda": null,
+    "Unnamed: 16": null
   },
   {
     "ID": "3540022",
@@ -31030,7 +32757,8 @@ const SULCACAO_DATA = [
     "OS": "9295",
     "Frente": "139 - FRENTE MANEZÃO",
     "Profundidade do Sulco": "37",
-    "Fazenda": NaN
+    "Fazenda": null,
+    "Unnamed: 16": null
   },
   {
     "ID": "3540015",
@@ -31048,7 +32776,8 @@ const SULCACAO_DATA = [
     "OS": "9295",
     "Frente": "139 - FRENTE MANEZÃO",
     "Profundidade do Sulco": "39",
-    "Fazenda": NaN
+    "Fazenda": null,
+    "Unnamed: 16": null
   },
   {
     "ID": "3540002",
@@ -31066,7 +32795,8 @@ const SULCACAO_DATA = [
     "OS": "9294",
     "Frente": "142 - FRENTE BIDU",
     "Profundidade do Sulco": "40",
-    "Fazenda": NaN
+    "Fazenda": null,
+    "Unnamed: 16": null
   },
   {
     "ID": "3539997",
@@ -31084,7 +32814,8 @@ const SULCACAO_DATA = [
     "OS": "9284",
     "Frente": "142 - FRENTE BIDU",
     "Profundidade do Sulco": "39",
-    "Fazenda": NaN
+    "Fazenda": null,
+    "Unnamed: 16": null
   },
   {
     "ID": "3539986",
@@ -31102,7 +32833,8 @@ const SULCACAO_DATA = [
     "OS": "9294",
     "Frente": "142 - FRENTE BIDU",
     "Profundidade do Sulco": "38",
-    "Fazenda": NaN
+    "Fazenda": null,
+    "Unnamed: 16": null
   },
   {
     "ID": "3540214",
@@ -31120,7 +32852,8 @@ const SULCACAO_DATA = [
     "OS": "9510",
     "Frente": "101 - FRENTE MECANIZADA",
     "Profundidade do Sulco": "37",
-    "Fazenda": NaN
+    "Fazenda": null,
+    "Unnamed: 16": null
   },
   {
     "ID": "3540206",
@@ -31138,7 +32871,8 @@ const SULCACAO_DATA = [
     "OS": "9510",
     "Frente": "101 - FRENTE MECANIZADA",
     "Profundidade do Sulco": "40",
-    "Fazenda": NaN
+    "Fazenda": null,
+    "Unnamed: 16": null
   },
   {
     "ID": "3539588",
@@ -31156,7 +32890,8 @@ const SULCACAO_DATA = [
     "OS": "9487",
     "Frente": "261 - FRENTE PRÓPRIA  (EDMILSON)",
     "Profundidade do Sulco": "38",
-    "Fazenda": NaN
+    "Fazenda": null,
+    "Unnamed: 16": null
   },
   {
     "ID": "3540201",
@@ -31174,7 +32909,8 @@ const SULCACAO_DATA = [
     "OS": "9510",
     "Frente": "101 - FRENTE MECANIZADA",
     "Profundidade do Sulco": "39",
-    "Fazenda": NaN
+    "Fazenda": null,
+    "Unnamed: 16": null
   },
   {
     "ID": "3539580",
@@ -31192,7 +32928,8 @@ const SULCACAO_DATA = [
     "OS": "9487",
     "Frente": "261 - FRENTE PRÓPRIA  (EDMILSON)",
     "Profundidade do Sulco": "39",
-    "Fazenda": NaN
+    "Fazenda": null,
+    "Unnamed: 16": null
   },
   {
     "ID": "3539575",
@@ -31210,7 +32947,8 @@ const SULCACAO_DATA = [
     "OS": "9487",
     "Frente": "261 - FRENTE PRÓPRIA  (EDMILSON)",
     "Profundidade do Sulco": "38",
-    "Fazenda": NaN
+    "Fazenda": null,
+    "Unnamed: 16": null
   },
   {
     "ID": "3539380",
@@ -31228,7 +32966,8 @@ const SULCACAO_DATA = [
     "OS": "9489",
     "Frente": "143 - FRENTE CASSIO",
     "Profundidade do Sulco": "41",
-    "Fazenda": NaN
+    "Fazenda": null,
+    "Unnamed: 16": null
   },
   {
     "ID": "3539375",
@@ -31246,7 +32985,8 @@ const SULCACAO_DATA = [
     "OS": "9489",
     "Frente": "143 - FRENTE CASSIO",
     "Profundidade do Sulco": "40",
-    "Fazenda": NaN
+    "Fazenda": null,
+    "Unnamed: 16": null
   },
   {
     "ID": "3539568",
@@ -31264,7 +33004,8 @@ const SULCACAO_DATA = [
     "OS": "9487",
     "Frente": "261 - FRENTE PRÓPRIA  (EDMILSON)",
     "Profundidade do Sulco": "38",
-    "Fazenda": NaN
+    "Fazenda": null,
+    "Unnamed: 16": null
   },
   {
     "ID": "3539559",
@@ -31282,7 +33023,8 @@ const SULCACAO_DATA = [
     "OS": "9487",
     "Frente": "261 - FRENTE PRÓPRIA  (EDMILSON)",
     "Profundidade do Sulco": "38",
-    "Fazenda": NaN
+    "Fazenda": null,
+    "Unnamed: 16": null
   },
   {
     "ID": "3539369",
@@ -31300,7 +33042,8 @@ const SULCACAO_DATA = [
     "OS": "9489",
     "Frente": "143 - FRENTE CASSIO",
     "Profundidade do Sulco": "40",
-    "Fazenda": NaN
+    "Fazenda": null,
+    "Unnamed: 16": null
   },
   {
     "ID": "3540766",
@@ -31318,7 +33061,8 @@ const SULCACAO_DATA = [
     "OS": "9450",
     "Frente": "135 - PEDRINHO ",
     "Profundidade do Sulco": "38",
-    "Fazenda": NaN
+    "Fazenda": null,
+    "Unnamed: 16": null
   },
   {
     "ID": "3539554",
@@ -31336,7 +33080,8 @@ const SULCACAO_DATA = [
     "OS": "9487",
     "Frente": "261 - FRENTE PRÓPRIA  (EDMILSON)",
     "Profundidade do Sulco": "39",
-    "Fazenda": NaN
+    "Fazenda": null,
+    "Unnamed: 16": null
   },
   {
     "ID": "3539364",
@@ -31354,7 +33099,8 @@ const SULCACAO_DATA = [
     "OS": "9489",
     "Frente": "143 - FRENTE CASSIO",
     "Profundidade do Sulco": "41",
-    "Fazenda": NaN
+    "Fazenda": null,
+    "Unnamed: 16": null
   },
   {
     "ID": "3540762",
@@ -31372,7 +33118,8 @@ const SULCACAO_DATA = [
     "OS": "9450",
     "Frente": "135 - PEDRINHO ",
     "Profundidade do Sulco": "40",
-    "Fazenda": NaN
+    "Fazenda": null,
+    "Unnamed: 16": null
   },
   {
     "ID": "3539549",
@@ -31390,7 +33137,8 @@ const SULCACAO_DATA = [
     "OS": "9487",
     "Frente": "261 - FRENTE PRÓPRIA  (EDMILSON)",
     "Profundidade do Sulco": "39",
-    "Fazenda": NaN
+    "Fazenda": null,
+    "Unnamed: 16": null
   },
   {
     "ID": "3539612",
@@ -31408,7 +33156,8 @@ const SULCACAO_DATA = [
     "OS": "9487",
     "Frente": "261 - FRENTE PRÓPRIA  (EDMILSON)",
     "Profundidade do Sulco": "38",
-    "Fazenda": NaN
+    "Fazenda": null,
+    "Unnamed: 16": null
   },
   {
     "ID": "3540756",
@@ -31426,7 +33175,8 @@ const SULCACAO_DATA = [
     "OS": "9450",
     "Frente": "135 - PEDRINHO ",
     "Profundidade do Sulco": "40",
-    "Fazenda": NaN
+    "Fazenda": null,
+    "Unnamed: 16": null
   },
   {
     "ID": "3540750",
@@ -31444,7 +33194,8 @@ const SULCACAO_DATA = [
     "OS": "9450",
     "Frente": "135 - PEDRINHO ",
     "Profundidade do Sulco": "37",
-    "Fazenda": NaN
+    "Fazenda": null,
+    "Unnamed: 16": null
   },
   {
     "ID": "3539538",
@@ -31462,7 +33213,8 @@ const SULCACAO_DATA = [
     "OS": "9487",
     "Frente": "261 - FRENTE PRÓPRIA  (EDMILSON)",
     "Profundidade do Sulco": "39",
-    "Fazenda": NaN
+    "Fazenda": null,
+    "Unnamed: 16": null
   },
   {
     "ID": "3539515",
@@ -31480,7 +33232,8 @@ const SULCACAO_DATA = [
     "OS": "9487",
     "Frente": "261 - FRENTE PRÓPRIA  (EDMILSON)",
     "Profundidade do Sulco": "38",
-    "Fazenda": NaN
+    "Fazenda": null,
+    "Unnamed: 16": null
   },
   {
     "ID": "3538041",
@@ -31498,7 +33251,8 @@ const SULCACAO_DATA = [
     "OS": "9487",
     "Frente": "261 - FRENTE PRÓPRIA  (EDMILSON)",
     "Profundidade do Sulco": "38",
-    "Fazenda": NaN
+    "Fazenda": null,
+    "Unnamed: 16": null
   },
   {
     "ID": "3537609",
@@ -31516,7 +33270,8 @@ const SULCACAO_DATA = [
     "OS": "9509",
     "Frente": "105 - FRENTE CASSIO",
     "Profundidade do Sulco": "35",
-    "Fazenda": NaN
+    "Fazenda": null,
+    "Unnamed: 16": null
   },
   {
     "ID": "3537983",
@@ -31534,7 +33289,8 @@ const SULCACAO_DATA = [
     "OS": "9487",
     "Frente": "261 - FRENTE PRÓPRIA  (EDMILSON)",
     "Profundidade do Sulco": "37",
-    "Fazenda": NaN
+    "Fazenda": null,
+    "Unnamed: 16": null
   },
   {
     "ID": "3537604",
@@ -31552,7 +33308,8 @@ const SULCACAO_DATA = [
     "OS": "9509",
     "Frente": "105 - FRENTE CASSIO",
     "Profundidade do Sulco": "37",
-    "Fazenda": NaN
+    "Fazenda": null,
+    "Unnamed: 16": null
   },
   {
     "ID": "3537966",
@@ -31570,7 +33327,8 @@ const SULCACAO_DATA = [
     "OS": "9487",
     "Frente": "261 - FRENTE PRÓPRIA  (EDMILSON)",
     "Profundidade do Sulco": "37",
-    "Fazenda": NaN
+    "Fazenda": null,
+    "Unnamed: 16": null
   },
   {
     "ID": "3538827",
@@ -31588,7 +33346,8 @@ const SULCACAO_DATA = [
     "OS": "9281",
     "Frente": "142 - FRENTE BIDU",
     "Profundidade do Sulco": "37",
-    "Fazenda": NaN
+    "Fazenda": null,
+    "Unnamed: 16": null
   },
   {
     "ID": "3538820",
@@ -31606,7 +33365,8 @@ const SULCACAO_DATA = [
     "OS": "9281",
     "Frente": "142 - FRENTE BIDU",
     "Profundidade do Sulco": "40",
-    "Fazenda": NaN
+    "Fazenda": null,
+    "Unnamed: 16": null
   },
   {
     "ID": "3537595",
@@ -31624,7 +33384,8 @@ const SULCACAO_DATA = [
     "OS": "9509",
     "Frente": "105 - FRENTE CASSIO",
     "Profundidade do Sulco": "37",
-    "Fazenda": NaN
+    "Fazenda": null,
+    "Unnamed: 16": null
   },
   {
     "ID": "3537935",
@@ -31642,7 +33403,8 @@ const SULCACAO_DATA = [
     "OS": "9481",
     "Frente": "261 - FRENTE PRÓPRIA  (EDMILSON)",
     "Profundidade do Sulco": "39",
-    "Fazenda": NaN
+    "Fazenda": null,
+    "Unnamed: 16": null
   },
   {
     "ID": "3538819",
@@ -31660,7 +33422,8 @@ const SULCACAO_DATA = [
     "OS": "9281",
     "Frente": "142 - FRENTE BIDU",
     "Profundidade do Sulco": "37",
-    "Fazenda": NaN
+    "Fazenda": null,
+    "Unnamed: 16": null
   },
   {
     "ID": "3537849",
@@ -31678,7 +33441,8 @@ const SULCACAO_DATA = [
     "OS": "9510",
     "Frente": "101 - FRENTE MECANIZADA",
     "Profundidade do Sulco": "38",
-    "Fazenda": NaN
+    "Fazenda": null,
+    "Unnamed: 16": null
   },
   {
     "ID": "3537912",
@@ -31696,7 +33460,8 @@ const SULCACAO_DATA = [
     "OS": "9487",
     "Frente": "261 - FRENTE PRÓPRIA  (EDMILSON)",
     "Profundidade do Sulco": "38",
-    "Fazenda": NaN
+    "Fazenda": null,
+    "Unnamed: 16": null
   },
   {
     "ID": "3537853",
@@ -31714,7 +33479,8 @@ const SULCACAO_DATA = [
     "OS": "9510",
     "Frente": "101 - FRENTE MECANIZADA",
     "Profundidade do Sulco": "40",
-    "Fazenda": NaN
+    "Fazenda": null,
+    "Unnamed: 16": null
   },
   {
     "ID": "3537907",
@@ -31732,7 +33498,8 @@ const SULCACAO_DATA = [
     "OS": "9487",
     "Frente": "261 - FRENTE PRÓPRIA  (EDMILSON)",
     "Profundidade do Sulco": "37",
-    "Fazenda": NaN
+    "Fazenda": null,
+    "Unnamed: 16": null
   },
   {
     "ID": "3538812",
@@ -31750,7 +33517,8 @@ const SULCACAO_DATA = [
     "OS": "9295",
     "Frente": "139 - FRENTE MANEZÃO",
     "Profundidade do Sulco": "38",
-    "Fazenda": NaN
+    "Fazenda": null,
+    "Unnamed: 16": null
   },
   {
     "ID": "3538808",
@@ -31768,7 +33536,8 @@ const SULCACAO_DATA = [
     "OS": "9295ma",
     "Frente": "139 - FRENTE MANEZÃO",
     "Profundidade do Sulco": "39",
-    "Fazenda": NaN
+    "Fazenda": null,
+    "Unnamed: 16": null
   },
   {
     "ID": "3537896",
@@ -31786,7 +33555,8 @@ const SULCACAO_DATA = [
     "OS": "9487",
     "Frente": "261 - FRENTE PRÓPRIA  (EDMILSON)",
     "Profundidade do Sulco": "39",
-    "Fazenda": NaN
+    "Fazenda": null,
+    "Unnamed: 16": null
   },
   {
     "ID": "3537888",
@@ -31804,7 +33574,8 @@ const SULCACAO_DATA = [
     "OS": "9487",
     "Frente": "261 - FRENTE PRÓPRIA  (EDMILSON)",
     "Profundidade do Sulco": "39",
-    "Fazenda": NaN
+    "Fazenda": null,
+    "Unnamed: 16": null
   },
   {
     "ID": "3537767",
@@ -31822,7 +33593,8 @@ const SULCACAO_DATA = [
     "OS": "9295",
     "Frente": "139 - FRENTE MANEZÃO",
     "Profundidade do Sulco": "38",
-    "Fazenda": NaN
+    "Fazenda": null,
+    "Unnamed: 16": null
   },
   {
     "ID": "3537874",
@@ -31840,7 +33612,8 @@ const SULCACAO_DATA = [
     "OS": "9487",
     "Frente": "261 - FRENTE PRÓPRIA  (EDMILSON)",
     "Profundidade do Sulco": "39",
-    "Fazenda": NaN
+    "Fazenda": null,
+    "Unnamed: 16": null
   },
   {
     "ID": "3537497",
@@ -31858,7 +33631,8 @@ const SULCACAO_DATA = [
     "OS": "9489",
     "Frente": "143 - FRENTE CASSIO",
     "Profundidade do Sulco": "44",
-    "Fazenda": NaN
+    "Fazenda": null,
+    "Unnamed: 16": null
   },
   {
     "ID": "3537279",
@@ -31876,7 +33650,8 @@ const SULCACAO_DATA = [
     "OS": "9507",
     "Frente": "105 - FRENTE CASSIO",
     "Profundidade do Sulco": "38",
-    "Fazenda": NaN
+    "Fazenda": null,
+    "Unnamed: 16": null
   },
   {
     "ID": "3537804",
@@ -31894,7 +33669,8 @@ const SULCACAO_DATA = [
     "OS": "9510",
     "Frente": "101 - FRENTE MECANIZADA",
     "Profundidade do Sulco": "39",
-    "Fazenda": NaN
+    "Fazenda": null,
+    "Unnamed: 16": null
   },
   {
     "ID": "3537275",
@@ -31912,7 +33688,8 @@ const SULCACAO_DATA = [
     "OS": "9507",
     "Frente": "105 - FRENTE CASSIO",
     "Profundidade do Sulco": "36",
-    "Fazenda": NaN
+    "Fazenda": null,
+    "Unnamed: 16": null
   },
   {
     "ID": "3537271",
@@ -31930,7 +33707,8 @@ const SULCACAO_DATA = [
     "OS": "9507",
     "Frente": "105 - FRENTE CASSIO",
     "Profundidade do Sulco": "37",
-    "Fazenda": NaN
+    "Fazenda": null,
+    "Unnamed: 16": null
   },
   {
     "ID": "3537246",
@@ -31948,7 +33726,8 @@ const SULCACAO_DATA = [
     "OS": "9450",
     "Frente": "135 - PEDRINHO ",
     "Profundidade do Sulco": "37",
-    "Fazenda": NaN
+    "Fazenda": null,
+    "Unnamed: 16": null
   },
   {
     "ID": "3537262",
@@ -31966,7 +33745,8 @@ const SULCACAO_DATA = [
     "OS": "9507",
     "Frente": "105 - FRENTE CASSIO",
     "Profundidade do Sulco": "37",
-    "Fazenda": NaN
+    "Fazenda": null,
+    "Unnamed: 16": null
   },
   {
     "ID": "3537241",
@@ -31984,7 +33764,8 @@ const SULCACAO_DATA = [
     "OS": "9450",
     "Frente": "135 - PEDRINHO ",
     "Profundidade do Sulco": "35",
-    "Fazenda": NaN
+    "Fazenda": null,
+    "Unnamed: 16": null
   },
   {
     "ID": "3537258",
@@ -32002,7 +33783,8 @@ const SULCACAO_DATA = [
     "OS": "9507",
     "Frente": "105 - FRENTE CASSIO",
     "Profundidade do Sulco": "38",
-    "Fazenda": NaN
+    "Fazenda": null,
+    "Unnamed: 16": null
   },
   {
     "ID": "3537800",
@@ -32020,7 +33802,8 @@ const SULCACAO_DATA = [
     "OS": "9510",
     "Frente": "101 - FRENTE MECANIZADA",
     "Profundidade do Sulco": "38",
-    "Fazenda": NaN
+    "Fazenda": null,
+    "Unnamed: 16": null
   },
   {
     "ID": "3537235",
@@ -32038,7 +33821,8 @@ const SULCACAO_DATA = [
     "OS": "9450",
     "Frente": "135 - PEDRINHO ",
     "Profundidade do Sulco": "36",
-    "Fazenda": NaN
+    "Fazenda": null,
+    "Unnamed: 16": null
   },
   {
     "ID": "3537230",
@@ -32056,7 +33840,8 @@ const SULCACAO_DATA = [
     "OS": "9450",
     "Frente": "135 - PEDRINHO ",
     "Profundidade do Sulco": "42",
-    "Fazenda": NaN
+    "Fazenda": null,
+    "Unnamed: 16": null
   },
   {
     "ID": "3537225",
@@ -32074,7 +33859,8 @@ const SULCACAO_DATA = [
     "OS": "9450",
     "Frente": "135 - PEDRINHO ",
     "Profundidade do Sulco": "39",
-    "Fazenda": NaN
+    "Fazenda": null,
+    "Unnamed: 16": null
   },
   {
     "ID": "3537220",
@@ -32092,7 +33878,8 @@ const SULCACAO_DATA = [
     "OS": "9450",
     "Frente": "135 - PEDRINHO ",
     "Profundidade do Sulco": "40",
-    "Fazenda": NaN
+    "Fazenda": null,
+    "Unnamed: 16": null
   },
   {
     "ID": "3535671",
@@ -32110,7 +33897,8 @@ const SULCACAO_DATA = [
     "OS": "9507",
     "Frente": "105 - FRENTE CASSIO",
     "Profundidade do Sulco": "38",
-    "Fazenda": NaN
+    "Fazenda": null,
+    "Unnamed: 16": null
   },
   {
     "ID": "3535667",
@@ -32128,7 +33916,8 @@ const SULCACAO_DATA = [
     "OS": "9507",
     "Frente": "105 - FRENTE CASSIO",
     "Profundidade do Sulco": "38",
-    "Fazenda": NaN
+    "Fazenda": null,
+    "Unnamed: 16": null
   },
   {
     "ID": "3536047",
@@ -32146,7 +33935,8 @@ const SULCACAO_DATA = [
     "OS": "9450",
     "Frente": "135 - PEDRINHO ",
     "Profundidade do Sulco": "39",
-    "Fazenda": NaN
+    "Fazenda": null,
+    "Unnamed: 16": null
   },
   {
     "ID": "3536038",
@@ -32164,7 +33954,8 @@ const SULCACAO_DATA = [
     "OS": "9450",
     "Frente": "135 - PEDRINHO ",
     "Profundidade do Sulco": "37",
-    "Fazenda": NaN
+    "Fazenda": null,
+    "Unnamed: 16": null
   },
   {
     "ID": "3535662",
@@ -32182,7 +33973,8 @@ const SULCACAO_DATA = [
     "OS": "9507",
     "Frente": "105 - FRENTE CASSIO",
     "Profundidade do Sulco": "38",
-    "Fazenda": NaN
+    "Fazenda": null,
+    "Unnamed: 16": null
   },
   {
     "ID": "3536033",
@@ -32200,7 +33992,8 @@ const SULCACAO_DATA = [
     "OS": "9450",
     "Frente": "135 - PEDRINHO ",
     "Profundidade do Sulco": "37",
-    "Fazenda": NaN
+    "Fazenda": null,
+    "Unnamed: 16": null
   },
   {
     "ID": "3535673",
@@ -32218,7 +34011,8 @@ const SULCACAO_DATA = [
     "OS": "9451",
     "Frente": "143 - FRENTE CASSIO",
     "Profundidade do Sulco": "40",
-    "Fazenda": NaN
+    "Fazenda": null,
+    "Unnamed: 16": null
   },
   {
     "ID": "3536025",
@@ -32236,7 +34030,8 @@ const SULCACAO_DATA = [
     "OS": "9450",
     "Frente": "135 - PEDRINHO ",
     "Profundidade do Sulco": "39",
-    "Fazenda": NaN
+    "Fazenda": null,
+    "Unnamed: 16": null
   },
   {
     "ID": "3535652",
@@ -32254,7 +34049,8 @@ const SULCACAO_DATA = [
     "OS": "9451",
     "Frente": "143 - FRENTE CASSIO",
     "Profundidade do Sulco": "39",
-    "Fazenda": NaN
+    "Fazenda": null,
+    "Unnamed: 16": null
   },
   {
     "ID": "3536019",
@@ -32272,7 +34068,8 @@ const SULCACAO_DATA = [
     "OS": "9450",
     "Frente": "135 - PEDRINHO ",
     "Profundidade do Sulco": "39",
-    "Fazenda": NaN
+    "Fazenda": null,
+    "Unnamed: 16": null
   },
   {
     "ID": "3536012",
@@ -32290,7 +34087,8 @@ const SULCACAO_DATA = [
     "OS": "9450",
     "Frente": "135 - PEDRINHO ",
     "Profundidade do Sulco": "36",
-    "Fazenda": NaN
+    "Fazenda": null,
+    "Unnamed: 16": null
   },
   {
     "ID": "3535647",
@@ -32308,7 +34106,8 @@ const SULCACAO_DATA = [
     "OS": "9451",
     "Frente": "143 - FRENTE CASSIO",
     "Profundidade do Sulco": "40",
-    "Fazenda": NaN
+    "Fazenda": null,
+    "Unnamed: 16": null
   },
   {
     "ID": "3537390",
@@ -32326,7 +34125,8 @@ const SULCACAO_DATA = [
     "OS": "9268",
     "Frente": "261 - FRENTE PRÓPRIA  (EDMILSON)",
     "Profundidade do Sulco": "38",
-    "Fazenda": NaN
+    "Fazenda": null,
+    "Unnamed: 16": null
   },
   {
     "ID": "3537133",
@@ -32344,7 +34144,8 @@ const SULCACAO_DATA = [
     "OS": "9268",
     "Frente": "261 - FRENTE PRÓPRIA  (EDMILSON)",
     "Profundidade do Sulco": "37",
-    "Fazenda": NaN
+    "Fazenda": null,
+    "Unnamed: 16": null
   },
   {
     "ID": "3537129",
@@ -32362,7 +34163,8 @@ const SULCACAO_DATA = [
     "OS": "9268",
     "Frente": "261 - FRENTE PRÓPRIA  (EDMILSON)",
     "Profundidade do Sulco": "38",
-    "Fazenda": NaN
+    "Fazenda": null,
+    "Unnamed: 16": null
   },
   {
     "ID": "3537099",
@@ -32380,7 +34182,8 @@ const SULCACAO_DATA = [
     "OS": "9268",
     "Frente": "261 - FRENTE PRÓPRIA  (EDMILSON)",
     "Profundidade do Sulco": "38",
-    "Fazenda": NaN
+    "Fazenda": null,
+    "Unnamed: 16": null
   },
   {
     "ID": "3537098",
@@ -32398,7 +34201,8 @@ const SULCACAO_DATA = [
     "OS": "9268",
     "Frente": "261 - FRENTE PRÓPRIA  (EDMILSON)",
     "Profundidade do Sulco": "39",
-    "Fazenda": NaN
+    "Fazenda": null,
+    "Unnamed: 16": null
   },
   {
     "ID": "3537097",
@@ -32416,7 +34220,8 @@ const SULCACAO_DATA = [
     "OS": "9268",
     "Frente": "261 - FRENTE PRÓPRIA  (EDMILSON)",
     "Profundidade do Sulco": "38",
-    "Fazenda": NaN
+    "Fazenda": null,
+    "Unnamed: 16": null
   },
   {
     "ID": "3535398",
@@ -32434,7 +34239,8 @@ const SULCACAO_DATA = [
     "OS": "9268",
     "Frente": "261 - FRENTE PRÓPRIA  (EDMILSON)",
     "Profundidade do Sulco": "38",
-    "Fazenda": NaN
+    "Fazenda": null,
+    "Unnamed: 16": null
   },
   {
     "ID": "3537089",
@@ -32452,7 +34258,8 @@ const SULCACAO_DATA = [
     "OS": "9268",
     "Frente": "261 - FRENTE PRÓPRIA  (EDMILSON)",
     "Profundidade do Sulco": "37",
-    "Fazenda": NaN
+    "Fazenda": null,
+    "Unnamed: 16": null
   },
   {
     "ID": "3535390",
@@ -32470,7 +34277,8 @@ const SULCACAO_DATA = [
     "OS": "9268",
     "Frente": "261 - FRENTE PRÓPRIA  (EDMILSON)",
     "Profundidade do Sulco": "39",
-    "Fazenda": NaN
+    "Fazenda": null,
+    "Unnamed: 16": null
   },
   {
     "ID": "3535384",
@@ -32488,7 +34296,8 @@ const SULCACAO_DATA = [
     "OS": "9268",
     "Frente": "261 - FRENTE PRÓPRIA  (EDMILSON)",
     "Profundidade do Sulco": "39",
-    "Fazenda": NaN
+    "Fazenda": null,
+    "Unnamed: 16": null
   },
   {
     "ID": "3534250",
@@ -32506,7 +34315,8 @@ const SULCACAO_DATA = [
     "OS": "9335",
     "Frente": "101 - FRENTE MECANIZADA",
     "Profundidade do Sulco": "38",
-    "Fazenda": NaN
+    "Fazenda": null,
+    "Unnamed: 16": null
   },
   {
     "ID": "3534447",
@@ -32524,7 +34334,8 @@ const SULCACAO_DATA = [
     "OS": "9440",
     "Frente": "135 - PEDRINHO ",
     "Profundidade do Sulco": "38",
-    "Fazenda": NaN
+    "Fazenda": null,
+    "Unnamed: 16": null
   },
   {
     "ID": "3534125",
@@ -32542,7 +34353,8 @@ const SULCACAO_DATA = [
     "OS": "9335",
     "Frente": "101 - FRENTE MECANIZADA",
     "Profundidade do Sulco": "40",
-    "Fazenda": NaN
+    "Fazenda": null,
+    "Unnamed: 16": null
   },
   {
     "ID": "3534272",
@@ -32560,7 +34372,8 @@ const SULCACAO_DATA = [
     "OS": "9440",
     "Frente": "135 - PEDRINHO ",
     "Profundidade do Sulco": "38",
-    "Fazenda": NaN
+    "Fazenda": null,
+    "Unnamed: 16": null
   },
   {
     "ID": "3534258",
@@ -32578,7 +34391,8 @@ const SULCACAO_DATA = [
     "OS": "9440",
     "Frente": "135 - PEDRINHO ",
     "Profundidade do Sulco": "34",
-    "Fazenda": NaN
+    "Fazenda": null,
+    "Unnamed: 16": null
   },
   {
     "ID": "3534212",
@@ -32596,7 +34410,8 @@ const SULCACAO_DATA = [
     "OS": "9333",
     "Frente": "105 - FRENTE CASSIO",
     "Profundidade do Sulco": "36",
-    "Fazenda": NaN
+    "Fazenda": null,
+    "Unnamed: 16": null
   },
   {
     "ID": "3534119",
@@ -32614,7 +34429,8 @@ const SULCACAO_DATA = [
     "OS": "9335",
     "Frente": "101 - FRENTE MECANIZADA",
     "Profundidade do Sulco": "38",
-    "Fazenda": NaN
+    "Fazenda": null,
+    "Unnamed: 16": null
   },
   {
     "ID": "3534208",
@@ -32632,7 +34448,8 @@ const SULCACAO_DATA = [
     "OS": "9333",
     "Frente": "105 - FRENTE CASSIO",
     "Profundidade do Sulco": "36",
-    "Fazenda": NaN
+    "Fazenda": null,
+    "Unnamed: 16": null
   },
   {
     "ID": "3534243",
@@ -32650,7 +34467,8 @@ const SULCACAO_DATA = [
     "OS": "9335",
     "Frente": "261 - FRENTE PRÓPRIA  (EDMILSON)",
     "Profundidade do Sulco": "38",
-    "Fazenda": NaN
+    "Fazenda": null,
+    "Unnamed: 16": null
   },
   {
     "ID": "3534204",
@@ -32668,7 +34486,8 @@ const SULCACAO_DATA = [
     "OS": "9333",
     "Frente": "105 - FRENTE CASSIO",
     "Profundidade do Sulco": "38",
-    "Fazenda": NaN
+    "Fazenda": null,
+    "Unnamed: 16": null
   },
   {
     "ID": "3534238",
@@ -32686,7 +34505,8 @@ const SULCACAO_DATA = [
     "OS": "9335",
     "Frente": "261 - FRENTE PRÓPRIA  (EDMILSON)",
     "Profundidade do Sulco": "38",
-    "Fazenda": NaN
+    "Fazenda": null,
+    "Unnamed: 16": null
   },
   {
     "ID": "3534233",
@@ -32704,7 +34524,8 @@ const SULCACAO_DATA = [
     "OS": "9335",
     "Frente": "261 - FRENTE PRÓPRIA  (EDMILSON)",
     "Profundidade do Sulco": "37",
-    "Fazenda": NaN
+    "Fazenda": null,
+    "Unnamed: 16": null
   },
   {
     "ID": "3533744",
@@ -32722,7 +34543,8 @@ const SULCACAO_DATA = [
     "OS": "9295",
     "Frente": "139 - FRENTE MANEZÃO",
     "Profundidade do Sulco": "38",
-    "Fazenda": NaN
+    "Fazenda": null,
+    "Unnamed: 16": null
   },
   {
     "ID": "3533740",
@@ -32740,7 +34562,8 @@ const SULCACAO_DATA = [
     "OS": "9295",
     "Frente": "139 - FRENTE MANEZÃO",
     "Profundidade do Sulco": "49",
-    "Fazenda": NaN
+    "Fazenda": null,
+    "Unnamed: 16": null
   },
   {
     "ID": "3533812",
@@ -32758,7 +34581,8 @@ const SULCACAO_DATA = [
     "OS": "9294",
     "Frente": "142 - FRENTE BIDU",
     "Profundidade do Sulco": "40",
-    "Fazenda": NaN
+    "Fazenda": null,
+    "Unnamed: 16": null
   },
   {
     "ID": "3533811",
@@ -32776,7 +34600,8 @@ const SULCACAO_DATA = [
     "OS": "9294",
     "Frente": "142 - FRENTE BIDU",
     "Profundidade do Sulco": "40",
-    "Fazenda": NaN
+    "Fazenda": null,
+    "Unnamed: 16": null
   },
   {
     "ID": "3533810",
@@ -32794,7 +34619,8 @@ const SULCACAO_DATA = [
     "OS": "9294",
     "Frente": "142 - FRENTE BIDU",
     "Profundidade do Sulco": "40",
-    "Fazenda": NaN
+    "Fazenda": null,
+    "Unnamed: 16": null
   },
   {
     "ID": "3534193",
@@ -32812,7 +34638,8 @@ const SULCACAO_DATA = [
     "OS": "9334",
     "Frente": "105 - FRENTE CASSIO",
     "Profundidade do Sulco": "35",
-    "Fazenda": NaN
+    "Fazenda": null,
+    "Unnamed: 16": null
   },
   {
     "ID": "3533795",
@@ -32830,7 +34657,8 @@ const SULCACAO_DATA = [
     "OS": "9335",
     "Frente": "101 - FRENTE MECANIZADA",
     "Profundidade do Sulco": "40",
-    "Fazenda": NaN
+    "Fazenda": null,
+    "Unnamed: 16": null
   },
   {
     "ID": "3534352",
@@ -32848,7 +34676,8 @@ const SULCACAO_DATA = [
     "OS": "9439",
     "Frente": "135 - PEDRINHO ",
     "Profundidade do Sulco": "36",
-    "Fazenda": NaN
+    "Fazenda": null,
+    "Unnamed: 16": null
   },
   {
     "ID": "3533734",
@@ -32866,7 +34695,8 @@ const SULCACAO_DATA = [
     "OS": "9295",
     "Frente": "139 - FRENTE MANEZÃO",
     "Profundidade do Sulco": "40",
-    "Fazenda": NaN
+    "Fazenda": null,
+    "Unnamed: 16": null
   },
   {
     "ID": "3534189",
@@ -32884,7 +34714,8 @@ const SULCACAO_DATA = [
     "OS": "9334",
     "Frente": "105 - FRENTE CASSIO",
     "Profundidade do Sulco": "36",
-    "Fazenda": NaN
+    "Fazenda": null,
+    "Unnamed: 16": null
   },
   {
     "ID": "3533730",
@@ -32902,7 +34733,8 @@ const SULCACAO_DATA = [
     "OS": "9295",
     "Frente": "139 - FRENTE MANEZÃO",
     "Profundidade do Sulco": "38",
-    "Fazenda": NaN
+    "Fazenda": null,
+    "Unnamed: 16": null
   },
   {
     "ID": "3534090",
@@ -32920,7 +34752,8 @@ const SULCACAO_DATA = [
     "OS": "9439",
     "Frente": "135 - PEDRINHO ",
     "Profundidade do Sulco": "37",
-    "Fazenda": NaN
+    "Fazenda": null,
+    "Unnamed: 16": null
   },
   {
     "ID": "3534180",
@@ -32938,7 +34771,8 @@ const SULCACAO_DATA = [
     "OS": "9334",
     "Frente": "105 - FRENTE CASSIO",
     "Profundidade do Sulco": "37",
-    "Fazenda": NaN
+    "Fazenda": null,
+    "Unnamed: 16": null
   },
   {
     "ID": "3533725",
@@ -32956,7 +34790,8 @@ const SULCACAO_DATA = [
     "OS": "9295",
     "Frente": "139 - FRENTE MANEZÃO",
     "Profundidade do Sulco": "40",
-    "Fazenda": NaN
+    "Fazenda": null,
+    "Unnamed: 16": null
   },
   {
     "ID": "3533788",
@@ -32974,7 +34809,8 @@ const SULCACAO_DATA = [
     "OS": "9335",
     "Frente": "101 - FRENTE MECANIZADA",
     "Profundidade do Sulco": "38",
-    "Fazenda": NaN
+    "Fazenda": null,
+    "Unnamed: 16": null
   },
   {
     "ID": "3533855",
@@ -32992,7 +34828,8 @@ const SULCACAO_DATA = [
     "OS": "9335",
     "Frente": "261 - FRENTE PRÓPRIA  (EDMILSON)",
     "Profundidade do Sulco": "38",
-    "Fazenda": NaN
+    "Fazenda": null,
+    "Unnamed: 16": null
   },
   {
     "ID": "3534086",
@@ -33010,7 +34847,8 @@ const SULCACAO_DATA = [
     "OS": "9439",
     "Frente": "135 - PEDRINHO ",
     "Profundidade do Sulco": "36",
-    "Fazenda": NaN
+    "Fazenda": null,
+    "Unnamed: 16": null
   },
   {
     "ID": "3533845",
@@ -33028,7 +34866,8 @@ const SULCACAO_DATA = [
     "OS": "9335",
     "Frente": "261 - FRENTE PRÓPRIA  (EDMILSON)",
     "Profundidade do Sulco": "39",
-    "Fazenda": NaN
+    "Fazenda": null,
+    "Unnamed: 16": null
   },
   {
     "ID": "3533838",
@@ -33046,7 +34885,8 @@ const SULCACAO_DATA = [
     "OS": "9335",
     "Frente": "261 - FRENTE PRÓPRIA  (EDMILSON)",
     "Profundidade do Sulco": "39",
-    "Fazenda": NaN
+    "Fazenda": null,
+    "Unnamed: 16": null
   },
   {
     "ID": "3533781",
@@ -33064,7 +34904,8 @@ const SULCACAO_DATA = [
     "OS": "9335",
     "Frente": "101 - FRENTE MECANIZADA",
     "Profundidade do Sulco": "39",
-    "Fazenda": NaN
+    "Fazenda": null,
+    "Unnamed: 16": null
   },
   {
     "ID": "3533829",
@@ -33082,7 +34923,8 @@ const SULCACAO_DATA = [
     "OS": "9335",
     "Frente": "261 - FRENTE PRÓPRIA  (EDMILSON)",
     "Profundidade do Sulco": "37",
-    "Fazenda": NaN
+    "Fazenda": null,
+    "Unnamed: 16": null
   },
   {
     "ID": "3533989",
@@ -33100,7 +34942,8 @@ const SULCACAO_DATA = [
     "OS": "9439",
     "Frente": "135 - PEDRINHO ",
     "Profundidade do Sulco": "36",
-    "Fazenda": NaN
+    "Fazenda": null,
+    "Unnamed: 16": null
   },
   {
     "ID": "3533824",
@@ -33118,7 +34961,8 @@ const SULCACAO_DATA = [
     "OS": "9335",
     "Frente": "261 - FRENTE PRÓPRIA  (EDMILSON)",
     "Profundidade do Sulco": "39",
-    "Fazenda": NaN
+    "Fazenda": null,
+    "Unnamed: 16": null
   },
   {
     "ID": "3533818",
@@ -33136,7 +34980,8 @@ const SULCACAO_DATA = [
     "OS": "9335",
     "Frente": "261 - FRENTE PRÓPRIA  (EDMILSON)",
     "Profundidade do Sulco": "37",
-    "Fazenda": NaN
+    "Fazenda": null,
+    "Unnamed: 16": null
   },
   {
     "ID": "3533984",
@@ -33154,7 +34999,8 @@ const SULCACAO_DATA = [
     "OS": "9439",
     "Frente": "135 - PEDRINHO ",
     "Profundidade do Sulco": "34",
-    "Fazenda": NaN
+    "Fazenda": null,
+    "Unnamed: 16": null
   },
   {
     "ID": "3533814",
@@ -33172,7 +35018,8 @@ const SULCACAO_DATA = [
     "OS": "9335",
     "Frente": "261 - FRENTE PRÓPRIA  (EDMILSON)",
     "Profundidade do Sulco": "38",
-    "Fazenda": NaN
+    "Fazenda": null,
+    "Unnamed: 16": null
   },
   {
     "ID": "3533797",
@@ -33190,7 +35037,8 @@ const SULCACAO_DATA = [
     "OS": "9335",
     "Frente": "261 - FRENTE PRÓPRIA  (EDMILSON)",
     "Profundidade do Sulco": "38",
-    "Fazenda": NaN
+    "Fazenda": null,
+    "Unnamed: 16": null
   },
   {
     "ID": "3533979",
@@ -33208,7 +35056,8 @@ const SULCACAO_DATA = [
     "OS": "9439",
     "Frente": "135 - PEDRINHO ",
     "Profundidade do Sulco": "34",
-    "Fazenda": NaN
+    "Fazenda": null,
+    "Unnamed: 16": null
   },
   {
     "ID": "3533775",
@@ -33226,7 +35075,8 @@ const SULCACAO_DATA = [
     "OS": "9335",
     "Frente": "261 - FRENTE PRÓPRIA  (EDMILSON)",
     "Profundidade do Sulco": "38",
-    "Fazenda": NaN
+    "Fazenda": null,
+    "Unnamed: 16": null
   },
   {
     "ID": "3533765",
@@ -33244,7 +35094,8 @@ const SULCACAO_DATA = [
     "OS": "9335",
     "Frente": "261 - FRENTE PRÓPRIA  (EDMILSON)",
     "Profundidade do Sulco": "37",
-    "Fazenda": NaN
+    "Fazenda": null,
+    "Unnamed: 16": null
   },
   {
     "ID": "3533974",
@@ -33262,7 +35113,8 @@ const SULCACAO_DATA = [
     "OS": "9439",
     "Frente": "135 - PEDRINHO ",
     "Profundidade do Sulco": "30",
-    "Fazenda": NaN
+    "Fazenda": null,
+    "Unnamed: 16": null
   },
   {
     "ID": "3531885",
@@ -33280,7 +35132,8 @@ const SULCACAO_DATA = [
     "OS": "9335",
     "Frente": "261 - FRENTE PRÓPRIA  (EDMILSON)",
     "Profundidade do Sulco": "39",
-    "Fazenda": NaN
+    "Fazenda": null,
+    "Unnamed: 16": null
   },
   {
     "ID": "3531880",
@@ -33298,7 +35151,8 @@ const SULCACAO_DATA = [
     "OS": "9335",
     "Frente": "261 - FRENTE PRÓPRIA  (EDMILSON)",
     "Profundidade do Sulco": "38",
-    "Fazenda": NaN
+    "Fazenda": null,
+    "Unnamed: 16": null
   },
   {
     "ID": "3531852",
@@ -33316,7 +35170,8 @@ const SULCACAO_DATA = [
     "OS": "9335",
     "Frente": "261 - FRENTE PRÓPRIA  (EDMILSON)",
     "Profundidade do Sulco": "39",
-    "Fazenda": NaN
+    "Fazenda": null,
+    "Unnamed: 16": null
   },
   {
     "ID": "3531894",
@@ -33334,7 +35189,8 @@ const SULCACAO_DATA = [
     "OS": "9335",
     "Frente": "101 - FRENTE MECANIZADA",
     "Profundidade do Sulco": "40",
-    "Fazenda": NaN
+    "Fazenda": null,
+    "Unnamed: 16": null
   },
   {
     "ID": "3531846",
@@ -33352,7 +35208,8 @@ const SULCACAO_DATA = [
     "OS": "9335",
     "Frente": "261 - FRENTE PRÓPRIA  (EDMILSON)",
     "Profundidade do Sulco": "38",
-    "Fazenda": NaN
+    "Fazenda": null,
+    "Unnamed: 16": null
   },
   {
     "ID": "3531694",
@@ -33370,7 +35227,8 @@ const SULCACAO_DATA = [
     "OS": "9334",
     "Frente": "105 - FRENTE CASSIO",
     "Profundidade do Sulco": "36",
-    "Fazenda": NaN
+    "Fazenda": null,
+    "Unnamed: 16": null
   },
   {
     "ID": "3531781",
@@ -33388,7 +35246,8 @@ const SULCACAO_DATA = [
     "OS": "9281",
     "Frente": "142 - FRENTE BIDU",
     "Profundidade do Sulco": "38",
-    "Fazenda": NaN
+    "Fazenda": null,
+    "Unnamed: 16": null
   },
   {
     "ID": "3531686",
@@ -33406,7 +35265,8 @@ const SULCACAO_DATA = [
     "OS": "9334",
     "Frente": "105 - FRENTE CASSIO",
     "Profundidade do Sulco": "36",
-    "Fazenda": NaN
+    "Fazenda": null,
+    "Unnamed: 16": null
   },
   {
     "ID": "3531774",
@@ -33424,7 +35284,8 @@ const SULCACAO_DATA = [
     "OS": "9281",
     "Frente": "142 - FRENTE BIDU",
     "Profundidade do Sulco": "38",
-    "Fazenda": NaN
+    "Fazenda": null,
+    "Unnamed: 16": null
   },
   {
     "ID": "3531498",
@@ -33442,7 +35303,8 @@ const SULCACAO_DATA = [
     "OS": "6115",
     "Frente": "143 - FRENTE CASSIO",
     "Profundidade do Sulco": "35",
-    "Fazenda": NaN
+    "Fazenda": null,
+    "Unnamed: 16": null
   },
   {
     "ID": "3531870",
@@ -33460,7 +35322,8 @@ const SULCACAO_DATA = [
     "OS": "9281",
     "Frente": "142 - FRENTE BIDU",
     "Profundidade do Sulco": "36",
-    "Fazenda": NaN
+    "Fazenda": null,
+    "Unnamed: 16": null
   },
   {
     "ID": "3531493",
@@ -33478,7 +35341,8 @@ const SULCACAO_DATA = [
     "OS": "6115",
     "Frente": "143 - FRENTE CASSIO",
     "Profundidade do Sulco": "36",
-    "Fazenda": NaN
+    "Fazenda": null,
+    "Unnamed: 16": null
   },
   {
     "ID": "3531865",
@@ -33496,7 +35360,8 @@ const SULCACAO_DATA = [
     "OS": "9281",
     "Frente": "142 - FRENTE BIDU",
     "Profundidade do Sulco": "38",
-    "Fazenda": NaN
+    "Fazenda": null,
+    "Unnamed: 16": null
   },
   {
     "ID": "3531716",
@@ -33514,7 +35379,8 @@ const SULCACAO_DATA = [
     "OS": "9280",
     "Frente": "291 - FRENTE PRÓPRIA ",
     "Profundidade do Sulco": "39",
-    "Fazenda": NaN
+    "Fazenda": null,
+    "Unnamed: 16": null
   },
   {
     "ID": "3531711",
@@ -33532,7 +35398,8 @@ const SULCACAO_DATA = [
     "OS": "9280",
     "Frente": "291 - FRENTE PRÓPRIA ",
     "Profundidade do Sulco": "38",
-    "Fazenda": NaN
+    "Fazenda": null,
+    "Unnamed: 16": null
   },
   {
     "ID": "3531440",
@@ -33550,7 +35417,8 @@ const SULCACAO_DATA = [
     "OS": "9152",
     "Frente": "101 - FRENTE MECANIZADA",
     "Profundidade do Sulco": "40",
-    "Fazenda": NaN
+    "Fazenda": null,
+    "Unnamed: 16": null
   },
   {
     "ID": "3531708",
@@ -33568,7 +35436,8 @@ const SULCACAO_DATA = [
     "OS": "9280",
     "Frente": "291 - FRENTE PRÓPRIA ",
     "Profundidade do Sulco": "38",
-    "Fazenda": NaN
+    "Fazenda": null,
+    "Unnamed: 16": null
   },
   {
     "ID": "3531682",
@@ -33586,7 +35455,8 @@ const SULCACAO_DATA = [
     "OS": "9280",
     "Frente": "291 - FRENTE PRÓPRIA ",
     "Profundidade do Sulco": "38",
-    "Fazenda": NaN
+    "Fazenda": null,
+    "Unnamed: 16": null
   },
   {
     "ID": "3531679",
@@ -33604,7 +35474,8 @@ const SULCACAO_DATA = [
     "OS": "92 80 ",
     "Frente": "291 - FRENTE PRÓPRIA ",
     "Profundidade do Sulco": "39",
-    "Fazenda": NaN
+    "Fazenda": null,
+    "Unnamed: 16": null
   },
   {
     "ID": "3531455",
@@ -33622,7 +35493,8 @@ const SULCACAO_DATA = [
     "OS": "9334",
     "Frente": "105 - FRENTE CASSIO",
     "Profundidade do Sulco": "38",
-    "Fazenda": NaN
+    "Fazenda": null,
+    "Unnamed: 16": null
   },
   {
     "ID": "3531445",
@@ -33640,7 +35512,8 @@ const SULCACAO_DATA = [
     "OS": "6115",
     "Frente": "143 - FRENTE CASSIO",
     "Profundidade do Sulco": "41",
-    "Fazenda": NaN
+    "Fazenda": null,
+    "Unnamed: 16": null
   },
   {
     "ID": "3531450",
@@ -33658,7 +35531,8 @@ const SULCACAO_DATA = [
     "OS": "9334",
     "Frente": "105 - FRENTE CASSIO",
     "Profundidade do Sulco": "36",
-    "Fazenda": NaN
+    "Fazenda": null,
+    "Unnamed: 16": null
   },
   {
     "ID": "3531422",
@@ -33676,7 +35550,8 @@ const SULCACAO_DATA = [
     "OS": "9152",
     "Frente": "101 - FRENTE MECANIZADA",
     "Profundidade do Sulco": "39",
-    "Fazenda": NaN
+    "Fazenda": null,
+    "Unnamed: 16": null
   },
   {
     "ID": "3531435",
@@ -33694,7 +35569,8 @@ const SULCACAO_DATA = [
     "OS": "6115",
     "Frente": "143 - FRENTE CASSIO",
     "Profundidade do Sulco": "36",
-    "Fazenda": NaN
+    "Fazenda": null,
+    "Unnamed: 16": null
   },
   {
     "ID": "3531472",
@@ -33712,7 +35588,8 @@ const SULCACAO_DATA = [
     "OS": "9152",
     "Frente": "101 - FRENTE MECANIZADA",
     "Profundidade do Sulco": "38",
-    "Fazenda": NaN
+    "Fazenda": null,
+    "Unnamed: 16": null
   },
   {
     "ID": "3531928",
@@ -33730,7 +35607,8 @@ const SULCACAO_DATA = [
     "OS": "6115",
     "Frente": "143 - FRENTE CASSIO",
     "Profundidade do Sulco": "38",
-    "Fazenda": NaN
+    "Fazenda": null,
+    "Unnamed: 16": null
   },
   {
     "ID": "3531939",
@@ -33748,7 +35626,8 @@ const SULCACAO_DATA = [
     "OS": "6115",
     "Frente": "143 - FRENTE CASSIO",
     "Profundidade do Sulco": "40",
-    "Fazenda": NaN
+    "Fazenda": null,
+    "Unnamed: 16": null
   },
   {
     "ID": "3531668",
@@ -33766,7 +35645,8 @@ const SULCACAO_DATA = [
     "OS": "9280",
     "Frente": "261 - FRENTE PRÓPRIA  (EDMILSON)",
     "Profundidade do Sulco": "39",
-    "Fazenda": NaN
+    "Fazenda": null,
+    "Unnamed: 16": null
   },
   {
     "ID": "3531418",
@@ -33784,7 +35664,8 @@ const SULCACAO_DATA = [
     "OS": "9297",
     "Frente": "135 - PEDRINHO ",
     "Profundidade do Sulco": "37",
-    "Fazenda": NaN
+    "Fazenda": null,
+    "Unnamed: 16": null
   },
   {
     "ID": "3531413",
@@ -33802,7 +35683,8 @@ const SULCACAO_DATA = [
     "OS": "9297",
     "Frente": "135 - PEDRINHO ",
     "Profundidade do Sulco": "39",
-    "Fazenda": NaN
+    "Fazenda": null,
+    "Unnamed: 16": null
   },
   {
     "ID": "3531640",
@@ -33820,7 +35702,8 @@ const SULCACAO_DATA = [
     "OS": "9280",
     "Frente": "261 - FRENTE PRÓPRIA  (EDMILSON)",
     "Profundidade do Sulco": "39",
-    "Fazenda": NaN
+    "Fazenda": null,
+    "Unnamed: 16": null
   },
   {
     "ID": "3531406",
@@ -33838,7 +35721,8 @@ const SULCACAO_DATA = [
     "OS": "9297",
     "Frente": "135 - PEDRINHO ",
     "Profundidade do Sulco": "38",
-    "Fazenda": NaN
+    "Fazenda": null,
+    "Unnamed: 16": null
   },
   {
     "ID": "3531635",
@@ -33856,7 +35740,8 @@ const SULCACAO_DATA = [
     "OS": "9280",
     "Frente": "261 - FRENTE PRÓPRIA  (EDMILSON)",
     "Profundidade do Sulco": "39",
-    "Fazenda": NaN
+    "Fazenda": null,
+    "Unnamed: 16": null
   },
   {
     "ID": "3531558",
@@ -33874,7 +35759,8 @@ const SULCACAO_DATA = [
     "OS": "9280",
     "Frente": "261 - FRENTE PRÓPRIA  (EDMILSON)",
     "Profundidade do Sulco": "37",
-    "Fazenda": NaN
+    "Fazenda": null,
+    "Unnamed: 16": null
   },
   {
     "ID": "3531553",
@@ -33892,7 +35778,8 @@ const SULCACAO_DATA = [
     "OS": "9280",
     "Frente": "261 - FRENTE PRÓPRIA  (EDMILSON)",
     "Profundidade do Sulco": "38",
-    "Fazenda": NaN
+    "Fazenda": null,
+    "Unnamed: 16": null
   },
   {
     "ID": "3530165",
@@ -33910,7 +35797,8 @@ const SULCACAO_DATA = [
     "OS": "9297",
     "Frente": "135 - PEDRINHO ",
     "Profundidade do Sulco": "42",
-    "Fazenda": NaN
+    "Fazenda": null,
+    "Unnamed: 16": null
   },
   {
     "ID": "3530163",
@@ -33928,7 +35816,8 @@ const SULCACAO_DATA = [
     "OS": "9297",
     "Frente": "135 - PEDRINHO ",
     "Profundidade do Sulco": "38",
-    "Fazenda": NaN
+    "Fazenda": null,
+    "Unnamed: 16": null
   },
   {
     "ID": "3529631",
@@ -33946,7 +35835,8 @@ const SULCACAO_DATA = [
     "OS": "9281",
     "Frente": "139 - FRENTE MANEZÃO",
     "Profundidade do Sulco": "39",
-    "Fazenda": NaN
+    "Fazenda": null,
+    "Unnamed: 16": null
   },
   {
     "ID": "3529630",
@@ -33964,7 +35854,8 @@ const SULCACAO_DATA = [
     "OS": "9281",
     "Frente": "139 - FRENTE MANEZÃO",
     "Profundidade do Sulco": "40",
-    "Fazenda": NaN
+    "Fazenda": null,
+    "Unnamed: 16": null
   },
   {
     "ID": "3530150",
@@ -33982,7 +35873,8 @@ const SULCACAO_DATA = [
     "OS": "9296",
     "Frente": "135 - PEDRINHO ",
     "Profundidade do Sulco": "38",
-    "Fazenda": NaN
+    "Fazenda": null,
+    "Unnamed: 16": null
   },
   {
     "ID": "3529629",
@@ -34000,7 +35892,8 @@ const SULCACAO_DATA = [
     "OS": "9281",
     "Frente": "139 - FRENTE MANEZÃO",
     "Profundidade do Sulco": "37",
-    "Fazenda": NaN
+    "Fazenda": null,
+    "Unnamed: 16": null
   },
   {
     "ID": "3530145",
@@ -34018,7 +35911,8 @@ const SULCACAO_DATA = [
     "OS": "9296",
     "Frente": "135 - PEDRINHO ",
     "Profundidade do Sulco": "35",
-    "Fazenda": NaN
+    "Fazenda": null,
+    "Unnamed: 16": null
   },
   {
     "ID": "3529911",
@@ -34036,7 +35930,8 @@ const SULCACAO_DATA = [
     "OS": "9280",
     "Frente": "291 - FRENTE PRÓPRIA ",
     "Profundidade do Sulco": "39",
-    "Fazenda": NaN
+    "Fazenda": null,
+    "Unnamed: 16": null
   },
   {
     "ID": "3529907",
@@ -34054,7 +35949,8 @@ const SULCACAO_DATA = [
     "OS": "9280",
     "Frente": "291 - FRENTE PRÓPRIA ",
     "Profundidade do Sulco": "39",
-    "Fazenda": NaN
+    "Fazenda": null,
+    "Unnamed: 16": null
   },
   {
     "ID": "3529902",
@@ -34072,7 +35968,8 @@ const SULCACAO_DATA = [
     "OS": "9280",
     "Frente": "261 - FRENTE PRÓPRIA  (EDMILSON)",
     "Profundidade do Sulco": "37",
-    "Fazenda": NaN
+    "Fazenda": null,
+    "Unnamed: 16": null
   },
   {
     "ID": "3529687",
@@ -34090,7 +35987,8 @@ const SULCACAO_DATA = [
     "OS": "9294",
     "Frente": "142 - FRENTE BIDU",
     "Profundidade do Sulco": "39",
-    "Fazenda": NaN
+    "Fazenda": null,
+    "Unnamed: 16": null
   },
   {
     "ID": "3529684",
@@ -34108,7 +36006,8 @@ const SULCACAO_DATA = [
     "OS": "9294",
     "Frente": "142 - FRENTE BIDU",
     "Profundidade do Sulco": "38",
-    "Fazenda": NaN
+    "Fazenda": null,
+    "Unnamed: 16": null
   },
   {
     "ID": "3529894",
@@ -34126,7 +36025,8 @@ const SULCACAO_DATA = [
     "OS": "9280",
     "Frente": "261 - FRENTE PRÓPRIA  (EDMILSON)",
     "Profundidade do Sulco": "38",
-    "Fazenda": NaN
+    "Fazenda": null,
+    "Unnamed: 16": null
   },
   {
     "ID": "3529524",
@@ -34144,7 +36044,8 @@ const SULCACAO_DATA = [
     "OS": "9198",
     "Frente": "105 - FRENTE CASSIO",
     "Profundidade do Sulco": "34",
-    "Fazenda": NaN
+    "Fazenda": null,
+    "Unnamed: 16": null
   },
   {
     "ID": "3529889",
@@ -34162,7 +36063,8 @@ const SULCACAO_DATA = [
     "OS": "9280",
     "Frente": "261 - FRENTE PRÓPRIA  (EDMILSON)",
     "Profundidade do Sulco": "38",
-    "Fazenda": NaN
+    "Fazenda": null,
+    "Unnamed: 16": null
   },
   {
     "ID": "3529663",
@@ -34180,7 +36082,8 @@ const SULCACAO_DATA = [
     "OS": "9281",
     "Frente": "142 - FRENTE BIDU",
     "Profundidade do Sulco": "37",
-    "Fazenda": NaN
+    "Fazenda": null,
+    "Unnamed: 16": null
   },
   {
     "ID": "3529516",
@@ -34198,7 +36101,8 @@ const SULCACAO_DATA = [
     "OS": "9198",
     "Frente": "105 - FRENTE CASSIO",
     "Profundidade do Sulco": "34",
-    "Fazenda": NaN
+    "Fazenda": null,
+    "Unnamed: 16": null
   },
   {
     "ID": "3529619",
@@ -34216,7 +36120,8 @@ const SULCACAO_DATA = [
     "OS": "9281",
     "Frente": "139 - FRENTE MANEZÃO",
     "Profundidade do Sulco": "39",
-    "Fazenda": NaN
+    "Fazenda": null,
+    "Unnamed: 16": null
   },
   {
     "ID": "3529659",
@@ -34234,7 +36139,8 @@ const SULCACAO_DATA = [
     "OS": "9281",
     "Frente": "142 - FRENTE BIDU",
     "Profundidade do Sulco": "40",
-    "Fazenda": NaN
+    "Fazenda": null,
+    "Unnamed: 16": null
   },
   {
     "ID": "3529512",
@@ -34252,7 +36158,8 @@ const SULCACAO_DATA = [
     "OS": "9198",
     "Frente": "105 - FRENTE CASSIO",
     "Profundidade do Sulco": "35",
-    "Fazenda": NaN
+    "Fazenda": null,
+    "Unnamed: 16": null
   },
   {
     "ID": "3529655",
@@ -34270,7 +36177,8 @@ const SULCACAO_DATA = [
     "OS": "9281",
     "Frente": "142 - FRENTE BIDU",
     "Profundidade do Sulco": "39",
-    "Fazenda": NaN
+    "Fazenda": null,
+    "Unnamed: 16": null
   },
   {
     "ID": "3530173",
@@ -34288,7 +36196,8 @@ const SULCACAO_DATA = [
     "OS": "9296",
     "Frente": "135 - PEDRINHO ",
     "Profundidade do Sulco": "40",
-    "Fazenda": NaN
+    "Fazenda": null,
+    "Unnamed: 16": null
   },
   {
     "ID": "3530040",
@@ -34306,7 +36215,8 @@ const SULCACAO_DATA = [
     "OS": "9280",
     "Frente": "291 - FRENTE PRÓPRIA ",
     "Profundidade do Sulco": "39",
-    "Fazenda": NaN
+    "Fazenda": null,
+    "Unnamed: 16": null
   },
   {
     "ID": "3529453",
@@ -34324,7 +36234,8 @@ const SULCACAO_DATA = [
     "OS": "9296",
     "Frente": "135 - PEDRINHO ",
     "Profundidade do Sulco": "36",
-    "Fazenda": NaN
+    "Fazenda": null,
+    "Unnamed: 16": null
   },
   {
     "ID": "3530035",
@@ -34342,7 +36253,8 @@ const SULCACAO_DATA = [
     "OS": "9280",
     "Frente": "291 - FRENTE PRÓPRIA ",
     "Profundidade do Sulco": "37",
-    "Fazenda": NaN
+    "Fazenda": null,
+    "Unnamed: 16": null
   },
   {
     "ID": "3529448",
@@ -34360,7 +36272,8 @@ const SULCACAO_DATA = [
     "OS": "9296",
     "Frente": "135 - PEDRINHO ",
     "Profundidade do Sulco": "35",
-    "Fazenda": NaN
+    "Fazenda": null,
+    "Unnamed: 16": null
   },
   {
     "ID": "3529508",
@@ -34378,7 +36291,8 @@ const SULCACAO_DATA = [
     "OS": "9198",
     "Frente": "105 - FRENTE CASSIO",
     "Profundidade do Sulco": "34",
-    "Fazenda": NaN
+    "Fazenda": null,
+    "Unnamed: 16": null
   },
   {
     "ID": "3530030",
@@ -34396,7 +36310,8 @@ const SULCACAO_DATA = [
     "OS": "9280",
     "Frente": "291 - FRENTE PRÓPRIA ",
     "Profundidade do Sulco": "38",
-    "Fazenda": NaN
+    "Fazenda": null,
+    "Unnamed: 16": null
   },
   {
     "ID": "3529431",
@@ -34414,7 +36329,8 @@ const SULCACAO_DATA = [
     "OS": "9296",
     "Frente": "135 - PEDRINHO ",
     "Profundidade do Sulco": "37",
-    "Fazenda": NaN
+    "Fazenda": null,
+    "Unnamed: 16": null
   },
   {
     "ID": "3530025",
@@ -34432,7 +36348,8 @@ const SULCACAO_DATA = [
     "OS": "9280",
     "Frente": "291 - FRENTE PRÓPRIA ",
     "Profundidade do Sulco": "38",
-    "Fazenda": NaN
+    "Fazenda": null,
+    "Unnamed: 16": null
   },
   {
     "ID": "3530020",
@@ -34450,7 +36367,8 @@ const SULCACAO_DATA = [
     "OS": "9280",
     "Frente": "261 - FRENTE PRÓPRIA  (EDMILSON)",
     "Profundidade do Sulco": "37",
-    "Fazenda": NaN
+    "Fazenda": null,
+    "Unnamed: 16": null
   },
   {
     "ID": "3530015",
@@ -34468,7 +36386,8 @@ const SULCACAO_DATA = [
     "OS": "9280",
     "Frente": "261 - FRENTE PRÓPRIA  (EDMILSON)",
     "Profundidade do Sulco": "38",
-    "Fazenda": NaN
+    "Fazenda": null,
+    "Unnamed: 16": null
   },
   {
     "ID": "3529592",
@@ -34486,7 +36405,8 @@ const SULCACAO_DATA = [
     "OS": "9240",
     "Frente": "143 - FRENTE CASSIO",
     "Profundidade do Sulco": "37",
-    "Fazenda": NaN
+    "Fazenda": null,
+    "Unnamed: 16": null
   },
   {
     "ID": "3530133",
@@ -34504,7 +36424,8 @@ const SULCACAO_DATA = [
     "OS": "9296",
     "Frente": "135 - PEDRINHO ",
     "Profundidade do Sulco": "40",
-    "Fazenda": NaN
+    "Fazenda": null,
+    "Unnamed: 16": null
   },
   {
     "ID": "3529584",
@@ -34522,7 +36443,8 @@ const SULCACAO_DATA = [
     "OS": "9240",
     "Frente": "143 - FRENTE CASSIO",
     "Profundidade do Sulco": "38",
-    "Fazenda": NaN
+    "Fazenda": null,
+    "Unnamed: 16": null
   },
   {
     "ID": "3529817",
@@ -34540,7 +36462,8 @@ const SULCACAO_DATA = [
     "OS": "9280",
     "Frente": "261 - FRENTE PRÓPRIA  (EDMILSON)",
     "Profundidade do Sulco": "39",
-    "Fazenda": NaN
+    "Fazenda": null,
+    "Unnamed: 16": null
   },
   {
     "ID": "3530128",
@@ -34558,7 +36481,8 @@ const SULCACAO_DATA = [
     "OS": "9296",
     "Frente": "135 - PEDRINHO ",
     "Profundidade do Sulco": "37",
-    "Fazenda": NaN
+    "Fazenda": null,
+    "Unnamed: 16": null
   },
   {
     "ID": "3529578",
@@ -34576,7 +36500,8 @@ const SULCACAO_DATA = [
     "OS": "9240",
     "Frente": "143 - FRENTE CASSIO",
     "Profundidade do Sulco": "37",
-    "Fazenda": NaN
+    "Fazenda": null,
+    "Unnamed: 16": null
   },
   {
     "ID": "3529572",
@@ -34594,7 +36519,8 @@ const SULCACAO_DATA = [
     "OS": "9240",
     "Frente": "143 - FRENTE CASSIO",
     "Profundidade do Sulco": "37",
-    "Fazenda": NaN
+    "Fazenda": null,
+    "Unnamed: 16": null
   },
   {
     "ID": "3529804",
@@ -34612,7 +36538,8 @@ const SULCACAO_DATA = [
     "OS": "9280",
     "Frente": "261 - FRENTE PRÓPRIA  (EDMILSON)",
     "Profundidade do Sulco": "38",
-    "Fazenda": NaN
+    "Fazenda": null,
+    "Unnamed: 16": null
   },
   {
     "ID": "3520553",
@@ -34630,7 +36557,8 @@ const SULCACAO_DATA = [
     "OS": "9294",
     "Frente": "142 - FRENTE BIDU",
     "Profundidade do Sulco": "39",
-    "Fazenda": NaN
+    "Fazenda": null,
+    "Unnamed: 16": null
   },
   {
     "ID": "3520552",
@@ -34648,7 +36576,8 @@ const SULCACAO_DATA = [
     "OS": "9294",
     "Frente": "142 - FRENTE BIDU",
     "Profundidade do Sulco": "40",
-    "Fazenda": NaN
+    "Fazenda": null,
+    "Unnamed: 16": null
   },
   {
     "ID": "3520689",
@@ -34666,7 +36595,8 @@ const SULCACAO_DATA = [
     "OS": "9281",
     "Frente": "142 - FRENTE BIDU",
     "Profundidade do Sulco": "41",
-    "Fazenda": NaN
+    "Fazenda": null,
+    "Unnamed: 16": null
   },
   {
     "ID": "3520421",
@@ -34684,7 +36614,8 @@ const SULCACAO_DATA = [
     "OS": "9280",
     "Frente": "261 - FRENTE PRÓPRIA  (EDMILSON)",
     "Profundidade do Sulco": "38",
-    "Fazenda": NaN
+    "Fazenda": null,
+    "Unnamed: 16": null
   },
   {
     "ID": "3520684",
@@ -34702,7 +36633,8 @@ const SULCACAO_DATA = [
     "OS": "9281",
     "Frente": "142 - FRENTE BIDU",
     "Profundidade do Sulco": "40",
-    "Fazenda": NaN
+    "Fazenda": null,
+    "Unnamed: 16": null
   },
   {
     "ID": "3520310",
@@ -34720,7 +36652,8 @@ const SULCACAO_DATA = [
     "OS": "9298",
     "Frente": "105 - FRENTE CASSIO",
     "Profundidade do Sulco": "37",
-    "Fazenda": NaN
+    "Fazenda": null,
+    "Unnamed: 16": null
   },
   {
     "ID": "3520414",
@@ -34738,7 +36671,8 @@ const SULCACAO_DATA = [
     "OS": "9280",
     "Frente": "261 - FRENTE PRÓPRIA  (EDMILSON)",
     "Profundidade do Sulco": "38",
-    "Fazenda": NaN
+    "Fazenda": null,
+    "Unnamed: 16": null
   },
   {
     "ID": "3520308",
@@ -34756,7 +36690,8 @@ const SULCACAO_DATA = [
     "OS": "9298",
     "Frente": "105 - FRENTE CASSIO",
     "Profundidade do Sulco": "38",
-    "Fazenda": NaN
+    "Fazenda": null,
+    "Unnamed: 16": null
   },
   {
     "ID": "3520306",
@@ -34774,7 +36709,8 @@ const SULCACAO_DATA = [
     "OS": "9298",
     "Frente": "105 - FRENTE CASSIO",
     "Profundidade do Sulco": "38",
-    "Fazenda": NaN
+    "Fazenda": null,
+    "Unnamed: 16": null
   },
   {
     "ID": "3520679",
@@ -34792,7 +36728,8 @@ const SULCACAO_DATA = [
     "OS": "9281",
     "Frente": "142 - FRENTE BIDU",
     "Profundidade do Sulco": "36",
-    "Fazenda": NaN
+    "Fazenda": null,
+    "Unnamed: 16": null
   },
   {
     "ID": "3520674",
@@ -34810,7 +36747,8 @@ const SULCACAO_DATA = [
     "OS": "9281",
     "Frente": "142 - FRENTE BIDU",
     "Profundidade do Sulco": "37",
-    "Fazenda": NaN
+    "Fazenda": null,
+    "Unnamed: 16": null
   },
   {
     "ID": "3520393",
@@ -34828,7 +36766,8 @@ const SULCACAO_DATA = [
     "OS": "9280",
     "Frente": "261 - FRENTE PRÓPRIA  (EDMILSON)",
     "Profundidade do Sulco": "37",
-    "Fazenda": NaN
+    "Fazenda": null,
+    "Unnamed: 16": null
   },
   {
     "ID": "3520386",
@@ -34846,7 +36785,8 @@ const SULCACAO_DATA = [
     "OS": "9280",
     "Frente": "261 - FRENTE PRÓPRIA  (EDMILSON)",
     "Profundidade do Sulco": "37",
-    "Fazenda": NaN
+    "Fazenda": null,
+    "Unnamed: 16": null
   },
   {
     "ID": "3520380",
@@ -34864,7 +36804,8 @@ const SULCACAO_DATA = [
     "OS": "9280",
     "Frente": "261 - FRENTE PRÓPRIA  (EDMILSON)",
     "Profundidade do Sulco": "38",
-    "Fazenda": NaN
+    "Fazenda": null,
+    "Unnamed: 16": null
   },
   {
     "ID": "3520575",
@@ -34882,7 +36823,8 @@ const SULCACAO_DATA = [
     "OS": "9183",
     "Frente": "135 - PEDRINHO ",
     "Profundidade do Sulco": "38",
-    "Fazenda": NaN
+    "Fazenda": null,
+    "Unnamed: 16": null
   },
   {
     "ID": "3520371",
@@ -34900,7 +36842,8 @@ const SULCACAO_DATA = [
     "OS": "9280",
     "Frente": "261 - FRENTE PRÓPRIA  (EDMILSON)",
     "Profundidade do Sulco": "38",
-    "Fazenda": NaN
+    "Fazenda": null,
+    "Unnamed: 16": null
   },
   {
     "ID": "3520456",
@@ -34918,7 +36861,8 @@ const SULCACAO_DATA = [
     "OS": "9241",
     "Frente": "143 - FRENTE CASSIO",
     "Profundidade do Sulco": "41",
-    "Fazenda": NaN
+    "Fazenda": null,
+    "Unnamed: 16": null
   },
   {
     "ID": "3520365",
@@ -34936,7 +36880,8 @@ const SULCACAO_DATA = [
     "OS": "9280",
     "Frente": "261 - FRENTE PRÓPRIA  (EDMILSON)",
     "Profundidade do Sulco": "37",
-    "Fazenda": NaN
+    "Fazenda": null,
+    "Unnamed: 16": null
   },
   {
     "ID": "3520570",
@@ -34954,7 +36899,8 @@ const SULCACAO_DATA = [
     "OS": "9183",
     "Frente": "135 - PEDRINHO ",
     "Profundidade do Sulco": "40",
-    "Fazenda": NaN
+    "Fazenda": null,
+    "Unnamed: 16": null
   },
   {
     "ID": "3520356",
@@ -34972,7 +36918,8 @@ const SULCACAO_DATA = [
     "OS": "9280",
     "Frente": "261 - FRENTE PRÓPRIA  (EDMILSON)",
     "Profundidade do Sulco": "37",
-    "Fazenda": NaN
+    "Fazenda": null,
+    "Unnamed: 16": null
   },
   {
     "ID": "3520451",
@@ -34990,7 +36937,8 @@ const SULCACAO_DATA = [
     "OS": "9241",
     "Frente": "143 - FRENTE CASSIO",
     "Profundidade do Sulco": "42",
-    "Fazenda": NaN
+    "Fazenda": null,
+    "Unnamed: 16": null
   },
   {
     "ID": "3520351",
@@ -35008,7 +36956,8 @@ const SULCACAO_DATA = [
     "OS": "9280",
     "Frente": "261 - FRENTE PRÓPRIA  (EDMILSON)",
     "Profundidade do Sulco": "38",
-    "Fazenda": NaN
+    "Fazenda": null,
+    "Unnamed: 16": null
   },
   {
     "ID": "3520346",
@@ -35026,7 +36975,8 @@ const SULCACAO_DATA = [
     "OS": "9280",
     "Frente": "261 - FRENTE PRÓPRIA  (EDMILSON)",
     "Profundidade do Sulco": "37",
-    "Fazenda": NaN
+    "Fazenda": null,
+    "Unnamed: 16": null
   },
   {
     "ID": "3518728",
@@ -35044,7 +36994,8 @@ const SULCACAO_DATA = [
     "OS": "9241",
     "Frente": "143 - FRENTE CASSIO",
     "Profundidade do Sulco": "40",
-    "Fazenda": NaN
+    "Fazenda": null,
+    "Unnamed: 16": null
   },
   {
     "ID": "3518724",
@@ -35062,7 +37013,8 @@ const SULCACAO_DATA = [
     "OS": "9241",
     "Frente": "143 - FRENTE CASSIO",
     "Profundidade do Sulco": "41",
-    "Fazenda": NaN
+    "Fazenda": null,
+    "Unnamed: 16": null
   },
   {
     "ID": "3518720",
@@ -35080,7 +37032,8 @@ const SULCACAO_DATA = [
     "OS": "9241",
     "Frente": "143 - FRENTE CASSIO",
     "Profundidade do Sulco": "42",
-    "Fazenda": NaN
+    "Fazenda": null,
+    "Unnamed: 16": null
   },
   {
     "ID": "3518567",
@@ -35098,7 +37051,8 @@ const SULCACAO_DATA = [
     "OS": "9190",
     "Frente": "105 - FRENTE CASSIO",
     "Profundidade do Sulco": "37",
-    "Fazenda": NaN
+    "Fazenda": null,
+    "Unnamed: 16": null
   },
   {
     "ID": "3518562",
@@ -35116,7 +37070,8 @@ const SULCACAO_DATA = [
     "OS": "9190",
     "Frente": "105 - FRENTE CASSIO",
     "Profundidade do Sulco": "37",
-    "Fazenda": NaN
+    "Fazenda": null,
+    "Unnamed: 16": null
   },
   {
     "ID": "3518676",
@@ -35134,7 +37089,8 @@ const SULCACAO_DATA = [
     "OS": "9280",
     "Frente": "261 - FRENTE PRÓPRIA  (EDMILSON)",
     "Profundidade do Sulco": "39",
-    "Fazenda": NaN
+    "Fazenda": null,
+    "Unnamed: 16": null
   },
   {
     "ID": "3518671",
@@ -35152,7 +37108,8 @@ const SULCACAO_DATA = [
     "OS": "9280",
     "Frente": "261 - FRENTE PRÓPRIA  (EDMILSON)",
     "Profundidade do Sulco": "38",
-    "Fazenda": NaN
+    "Fazenda": null,
+    "Unnamed: 16": null
   },
   {
     "ID": "3518621",
@@ -35170,7 +37127,8 @@ const SULCACAO_DATA = [
     "OS": "9186",
     "Frente": "139 - FRENTE MANEZÃO",
     "Profundidade do Sulco": "37",
-    "Fazenda": NaN
+    "Fazenda": null,
+    "Unnamed: 16": null
   },
   {
     "ID": "3518620",
@@ -35188,7 +37146,8 @@ const SULCACAO_DATA = [
     "OS": "9186",
     "Frente": "139 - FRENTE MANEZÃO",
     "Profundidade do Sulco": "39",
-    "Fazenda": NaN
+    "Fazenda": null,
+    "Unnamed: 16": null
   },
   {
     "ID": "3519172",
@@ -35206,7 +37165,8 @@ const SULCACAO_DATA = [
     "OS": "9183",
     "Frente": "135 - PEDRINHO ",
     "Profundidade do Sulco": "37",
-    "Fazenda": NaN
+    "Fazenda": null,
+    "Unnamed: 16": null
   },
   {
     "ID": "3518663",
@@ -35224,7 +37184,8 @@ const SULCACAO_DATA = [
     "OS": "9280",
     "Frente": "261 - FRENTE PRÓPRIA  (EDMILSON)",
     "Profundidade do Sulco": "38",
-    "Fazenda": NaN
+    "Fazenda": null,
+    "Unnamed: 16": null
   },
   {
     "ID": "3519015",
@@ -35242,7 +37203,8 @@ const SULCACAO_DATA = [
     "OS": "9183",
     "Frente": "135 - PEDRINHO ",
     "Profundidade do Sulco": "35",
-    "Fazenda": NaN
+    "Fazenda": null,
+    "Unnamed: 16": null
   },
   {
     "ID": "3518658",
@@ -35260,7 +37222,8 @@ const SULCACAO_DATA = [
     "OS": "9280",
     "Frente": "261 - FRENTE PRÓPRIA  (EDMILSON)",
     "Profundidade do Sulco": "39",
-    "Fazenda": NaN
+    "Fazenda": null,
+    "Unnamed: 16": null
   },
   {
     "ID": "3518996",
@@ -35278,7 +37241,8 @@ const SULCACAO_DATA = [
     "OS": "9183",
     "Frente": "135 - PEDRINHO ",
     "Profundidade do Sulco": "40",
-    "Fazenda": NaN
+    "Fazenda": null,
+    "Unnamed: 16": null
   },
   {
     "ID": "3518991",
@@ -35296,7 +37260,8 @@ const SULCACAO_DATA = [
     "OS": "9183",
     "Frente": "135 - PEDRINHO ",
     "Profundidade do Sulco": "35",
-    "Fazenda": NaN
+    "Fazenda": null,
+    "Unnamed: 16": null
   },
   {
     "ID": "3518550",
@@ -35314,7 +37279,8 @@ const SULCACAO_DATA = [
     "OS": "9186",
     "Frente": "139 - FRENTE MANEZÃO",
     "Profundidade do Sulco": "40",
-    "Fazenda": NaN
+    "Fazenda": null,
+    "Unnamed: 16": null
   },
   {
     "ID": "3518534",
@@ -35332,7 +37298,8 @@ const SULCACAO_DATA = [
     "OS": "9186",
     "Frente": "139 - FRENTE MANEZÃO",
     "Profundidade do Sulco": "38",
-    "Fazenda": NaN
+    "Fazenda": null,
+    "Unnamed: 16": null
   },
   {
     "ID": "3518321",
@@ -35350,7 +37317,8 @@ const SULCACAO_DATA = [
     "OS": "9190",
     "Frente": "105 - FRENTE CASSIO",
     "Profundidade do Sulco": "36",
-    "Fazenda": NaN
+    "Fazenda": null,
+    "Unnamed: 16": null
   },
   {
     "ID": "3518315",
@@ -35368,7 +37336,8 @@ const SULCACAO_DATA = [
     "OS": "9190",
     "Frente": "105 - FRENTE CASSIO",
     "Profundidade do Sulco": "37",
-    "Fazenda": NaN
+    "Fazenda": null,
+    "Unnamed: 16": null
   },
   {
     "ID": "3518311",
@@ -35386,7 +37355,8 @@ const SULCACAO_DATA = [
     "OS": "9190",
     "Frente": "105 - FRENTE CASSIO",
     "Profundidade do Sulco": "36",
-    "Fazenda": NaN
+    "Fazenda": null,
+    "Unnamed: 16": null
   },
   {
     "ID": "3518977",
@@ -35404,7 +37374,8 @@ const SULCACAO_DATA = [
     "OS": "9184",
     "Frente": "135 - PEDRINHO ",
     "Profundidade do Sulco": "35",
-    "Fazenda": NaN
+    "Fazenda": null,
+    "Unnamed: 16": null
   },
   {
     "ID": "3518966",
@@ -35422,7 +37393,8 @@ const SULCACAO_DATA = [
     "OS": "9184",
     "Frente": "135 - PEDRINHO ",
     "Profundidade do Sulco": "38",
-    "Fazenda": NaN
+    "Fazenda": null,
+    "Unnamed: 16": null
   },
   {
     "ID": "3518961",
@@ -35440,7 +37412,8 @@ const SULCACAO_DATA = [
     "OS": "9184",
     "Frente": "135 - PEDRINHO ",
     "Profundidade do Sulco": "40",
-    "Fazenda": NaN
+    "Fazenda": null,
+    "Unnamed: 16": null
   },
   {
     "ID": "3518954",
@@ -35458,7 +37431,8 @@ const SULCACAO_DATA = [
     "OS": "9184",
     "Frente": "135 - PEDRINHO ",
     "Profundidade do Sulco": "38",
-    "Fazenda": NaN
+    "Fazenda": null,
+    "Unnamed: 16": null
   },
   {
     "ID": "3516469",
@@ -35476,7 +37450,8 @@ const SULCACAO_DATA = [
     "OS": "9186",
     "Frente": "139 - FRENTE MANEZÃO",
     "Profundidade do Sulco": "39",
-    "Fazenda": NaN
+    "Fazenda": null,
+    "Unnamed: 16": null
   },
   {
     "ID": "3516460",
@@ -35494,7 +37469,8 @@ const SULCACAO_DATA = [
     "OS": "9186",
     "Frente": "139 - FRENTE MANEZÃO",
     "Profundidade do Sulco": "39",
-    "Fazenda": NaN
+    "Fazenda": null,
+    "Unnamed: 16": null
   },
   {
     "ID": "3516455",
@@ -35512,7 +37488,8 @@ const SULCACAO_DATA = [
     "OS": "9186",
     "Frente": "139 - FRENTE MANEZÃO",
     "Profundidade do Sulco": "39",
-    "Fazenda": NaN
+    "Fazenda": null,
+    "Unnamed: 16": null
   },
   {
     "ID": "3516452",
@@ -35530,7 +37507,8 @@ const SULCACAO_DATA = [
     "OS": "9186",
     "Frente": "139 - FRENTE MANEZÃO",
     "Profundidade do Sulco": "38",
-    "Fazenda": NaN
+    "Fazenda": null,
+    "Unnamed: 16": null
   },
   {
     "ID": "3516447",
@@ -35548,7 +37526,8 @@ const SULCACAO_DATA = [
     "OS": "9186",
     "Frente": "139 - FRENTE MANEZÃO",
     "Profundidade do Sulco": "37",
-    "Fazenda": NaN
+    "Fazenda": null,
+    "Unnamed: 16": null
   },
   {
     "ID": "3516441",
@@ -35566,7 +37545,8 @@ const SULCACAO_DATA = [
     "OS": "9186",
     "Frente": "139 - FRENTE MANEZÃO",
     "Profundidade do Sulco": "38",
-    "Fazenda": NaN
+    "Fazenda": null,
+    "Unnamed: 16": null
   },
   {
     "ID": "3516427",
@@ -35584,7 +37564,8 @@ const SULCACAO_DATA = [
     "OS": "9190",
     "Frente": "105 - FRENTE CASSIO",
     "Profundidade do Sulco": "38",
-    "Fazenda": NaN
+    "Fazenda": null,
+    "Unnamed: 16": null
   },
   {
     "ID": "3516355",
@@ -35602,7 +37583,8 @@ const SULCACAO_DATA = [
     "OS": "9187",
     "Frente": "139 - FRENTE MANEZÃO",
     "Profundidade do Sulco": "38",
-    "Fazenda": NaN
+    "Fazenda": null,
+    "Unnamed: 16": null
   },
   {
     "ID": "3516423",
@@ -35620,7 +37602,8 @@ const SULCACAO_DATA = [
     "OS": "9190",
     "Frente": "105 - FRENTE CASSIO",
     "Profundidade do Sulco": "37",
-    "Fazenda": NaN
+    "Fazenda": null,
+    "Unnamed: 16": null
   },
   {
     "ID": "3516419",
@@ -35638,7 +37621,8 @@ const SULCACAO_DATA = [
     "OS": "9190",
     "Frente": "105 - FRENTE CASSIO",
     "Profundidade do Sulco": "37",
-    "Fazenda": NaN
+    "Fazenda": null,
+    "Unnamed: 16": null
   },
   {
     "ID": "3516592",
@@ -35656,7 +37640,8 @@ const SULCACAO_DATA = [
     "OS": "9185",
     "Frente": "135 - PEDRINHO ",
     "Profundidade do Sulco": "41",
-    "Fazenda": NaN
+    "Fazenda": null,
+    "Unnamed: 16": null
   },
   {
     "ID": "3516587",
@@ -35674,7 +37659,8 @@ const SULCACAO_DATA = [
     "OS": "9185",
     "Frente": "135 - PEDRINHO ",
     "Profundidade do Sulco": "38",
-    "Fazenda": NaN
+    "Fazenda": null,
+    "Unnamed: 16": null
   },
   {
     "ID": "3516582",
@@ -35692,7 +37678,8 @@ const SULCACAO_DATA = [
     "OS": "9185",
     "Frente": "135 - PEDRINHO ",
     "Profundidade do Sulco": "39",
-    "Fazenda": NaN
+    "Fazenda": null,
+    "Unnamed: 16": null
   },
   {
     "ID": "3516577",
@@ -35710,7 +37697,8 @@ const SULCACAO_DATA = [
     "OS": "9185",
     "Frente": "135 - PEDRINHO ",
     "Profundidade do Sulco": "37",
-    "Fazenda": NaN
+    "Fazenda": null,
+    "Unnamed: 16": null
   },
   {
     "ID": "3515986",
@@ -35728,7 +37716,8 @@ const SULCACAO_DATA = [
     "OS": "9191",
     "Frente": "142 - FRENTE BIDU",
     "Profundidade do Sulco": "39",
-    "Fazenda": NaN
+    "Fazenda": null,
+    "Unnamed: 16": null
   },
   {
     "ID": "3515981",
@@ -35746,7 +37735,8 @@ const SULCACAO_DATA = [
     "OS": "9191",
     "Frente": "142 - FRENTE BIDU",
     "Profundidade do Sulco": "39",
-    "Fazenda": NaN
+    "Fazenda": null,
+    "Unnamed: 16": null
   },
   {
     "ID": "3515976",
@@ -35764,7 +37754,8 @@ const SULCACAO_DATA = [
     "OS": "9191",
     "Frente": "142 - FRENTE BIDU",
     "Profundidade do Sulco": "38",
-    "Fazenda": NaN
+    "Fazenda": null,
+    "Unnamed: 16": null
   },
   {
     "ID": "3515971",
@@ -35782,7 +37773,8 @@ const SULCACAO_DATA = [
     "OS": "9191",
     "Frente": "142 - FRENTE BIDU",
     "Profundidade do Sulco": "38",
-    "Fazenda": NaN
+    "Fazenda": null,
+    "Unnamed: 16": null
   },
   {
     "ID": "3515966",
@@ -35800,7 +37792,8 @@ const SULCACAO_DATA = [
     "OS": "9191",
     "Frente": "142 - FRENTE BIDU",
     "Profundidade do Sulco": "37",
-    "Fazenda": NaN
+    "Fazenda": null,
+    "Unnamed: 16": null
   },
   {
     "ID": "3515961",
@@ -35818,7 +37811,8 @@ const SULCACAO_DATA = [
     "OS": "9191",
     "Frente": "142 - FRENTE BIDU",
     "Profundidade do Sulco": "39",
-    "Fazenda": NaN
+    "Fazenda": null,
+    "Unnamed: 16": null
   },
   {
     "ID": "3515956",
@@ -35836,7 +37830,8 @@ const SULCACAO_DATA = [
     "OS": "9191",
     "Frente": "142 - FRENTE BIDU",
     "Profundidade do Sulco": "38",
-    "Fazenda": NaN
+    "Fazenda": null,
+    "Unnamed: 16": null
   },
   {
     "ID": "3515916",
@@ -35854,7 +37849,8 @@ const SULCACAO_DATA = [
     "OS": "9152",
     "Frente": "261 - FRENTE PRÓPRIA  (EDMILSON)",
     "Profundidade do Sulco": "37",
-    "Fazenda": NaN
+    "Fazenda": null,
+    "Unnamed: 16": null
   },
   {
     "ID": "3515915",
@@ -35872,7 +37868,8 @@ const SULCACAO_DATA = [
     "OS": "9152",
     "Frente": "261 - FRENTE PRÓPRIA  (EDMILSON)",
     "Profundidade do Sulco": "35",
-    "Fazenda": NaN
+    "Fazenda": null,
+    "Unnamed: 16": null
   },
   {
     "ID": "3515912",
@@ -35890,7 +37887,8 @@ const SULCACAO_DATA = [
     "OS": "9152",
     "Frente": "261 - FRENTE PRÓPRIA  (EDMILSON)",
     "Profundidade do Sulco": "35",
-    "Fazenda": NaN
+    "Fazenda": null,
+    "Unnamed: 16": null
   },
   {
     "ID": "3515911",
@@ -35908,7 +37906,8 @@ const SULCACAO_DATA = [
     "OS": "9152",
     "Frente": "261 - FRENTE PRÓPRIA  (EDMILSON)",
     "Profundidade do Sulco": "35",
-    "Fazenda": NaN
+    "Fazenda": null,
+    "Unnamed: 16": null
   },
   {
     "ID": "3515948",
@@ -35926,7 +37925,8 @@ const SULCACAO_DATA = [
     "OS": "9191",
     "Frente": "142 - FRENTE BIDU",
     "Profundidade do Sulco": "38",
-    "Fazenda": NaN
+    "Fazenda": null,
+    "Unnamed: 16": null
   },
   {
     "ID": "3515945",
@@ -35944,7 +37944,8 @@ const SULCACAO_DATA = [
     "OS": "9191",
     "Frente": "142 - FRENTE BIDU",
     "Profundidade do Sulco": "39",
-    "Fazenda": NaN
+    "Fazenda": null,
+    "Unnamed: 16": null
   },
   {
     "ID": "3515940",
@@ -35962,7 +37963,8 @@ const SULCACAO_DATA = [
     "OS": "9191",
     "Frente": "142 - FRENTE BIDU",
     "Profundidade do Sulco": "38",
-    "Fazenda": NaN
+    "Fazenda": null,
+    "Unnamed: 16": null
   },
   {
     "ID": "3515935",
@@ -35980,7 +37982,8 @@ const SULCACAO_DATA = [
     "OS": "9191",
     "Frente": "142 - FRENTE BIDU",
     "Profundidade do Sulco": "37",
-    "Fazenda": NaN
+    "Fazenda": null,
+    "Unnamed: 16": null
   },
   {
     "ID": "3516563",
@@ -35998,7 +38001,8 @@ const SULCACAO_DATA = [
     "OS": "9174",
     "Frente": "135 - PEDRINHO ",
     "Profundidade do Sulco": "39",
-    "Fazenda": NaN
+    "Fazenda": null,
+    "Unnamed: 16": null
   },
   {
     "ID": "3516556",
@@ -36016,7 +38020,8 @@ const SULCACAO_DATA = [
     "OS": "9174",
     "Frente": "135 - PEDRINHO ",
     "Profundidade do Sulco": "36",
-    "Fazenda": NaN
+    "Fazenda": null,
+    "Unnamed: 16": null
   },
   {
     "ID": "3514279",
@@ -36034,7 +38039,8 @@ const SULCACAO_DATA = [
     "OS": "6130",
     "Frente": "142 - FRENTE BIDU",
     "Profundidade do Sulco": "41",
-    "Fazenda": NaN
+    "Fazenda": null,
+    "Unnamed: 16": null
   },
   {
     "ID": "3513894",
@@ -36052,7 +38058,8 @@ const SULCACAO_DATA = [
     "OS": "9187",
     "Frente": "139 - FRENTE MANEZÃO",
     "Profundidade do Sulco": "40",
-    "Fazenda": NaN
+    "Fazenda": null,
+    "Unnamed: 16": null
   },
   {
     "ID": "3513889",
@@ -36070,7 +38077,8 @@ const SULCACAO_DATA = [
     "OS": "9187",
     "Frente": "139 - FRENTE MANEZÃO",
     "Profundidade do Sulco": "39",
-    "Fazenda": NaN
+    "Fazenda": null,
+    "Unnamed: 16": null
   },
   {
     "ID": "3514214",
@@ -36088,7 +38096,8 @@ const SULCACAO_DATA = [
     "OS": "9152",
     "Frente": "101 - FRENTE MECANIZADA",
     "Profundidade do Sulco": "38",
-    "Fazenda": NaN
+    "Fazenda": null,
+    "Unnamed: 16": null
   },
   {
     "ID": "3513883",
@@ -36106,7 +38115,8 @@ const SULCACAO_DATA = [
     "OS": "9187",
     "Frente": "139 - FRENTE MANEZÃO",
     "Profundidade do Sulco": "39",
-    "Fazenda": NaN
+    "Fazenda": null,
+    "Unnamed: 16": null
   },
   {
     "ID": "3514209",
@@ -36124,7 +38134,8 @@ const SULCACAO_DATA = [
     "OS": "9152",
     "Frente": "101 - FRENTE MECANIZADA",
     "Profundidade do Sulco": "37",
-    "Fazenda": NaN
+    "Fazenda": null,
+    "Unnamed: 16": null
   },
   {
     "ID": "3514204",
@@ -36142,7 +38153,8 @@ const SULCACAO_DATA = [
     "OS": "9152",
     "Frente": "101 - FRENTE MECANIZADA",
     "Profundidade do Sulco": "38",
-    "Fazenda": NaN
+    "Fazenda": null,
+    "Unnamed: 16": null
   },
   {
     "ID": "3514176",
@@ -36160,7 +38172,8 @@ const SULCACAO_DATA = [
     "OS": "9152",
     "Frente": "101 - FRENTE MECANIZADA",
     "Profundidade do Sulco": "40",
-    "Fazenda": NaN
+    "Fazenda": null,
+    "Unnamed: 16": null
   },
   {
     "ID": "3514169",
@@ -36178,7 +38191,8 @@ const SULCACAO_DATA = [
     "OS": "9152",
     "Frente": "101 - FRENTE MECANIZADA",
     "Profundidade do Sulco": "39",
-    "Fazenda": NaN
+    "Fazenda": null,
+    "Unnamed: 16": null
   },
   {
     "ID": "3514135",
@@ -36196,7 +38210,8 @@ const SULCACAO_DATA = [
     "OS": "9152",
     "Frente": "101 - FRENTE MECANIZADA",
     "Profundidade do Sulco": "39",
-    "Fazenda": NaN
+    "Fazenda": null,
+    "Unnamed: 16": null
   },
   {
     "ID": "3514263",
@@ -36214,7 +38229,8 @@ const SULCACAO_DATA = [
     "OS": "9175",
     "Frente": "135 - PEDRINHO ",
     "Profundidade do Sulco": "39",
-    "Fazenda": NaN
+    "Fazenda": null,
+    "Unnamed: 16": null
   },
   {
     "ID": "3514196",
@@ -36232,7 +38248,8 @@ const SULCACAO_DATA = [
     "OS": "6133",
     "Frente": "135 - PEDRINHO ",
     "Profundidade do Sulco": "38",
-    "Fazenda": NaN
+    "Fazenda": null,
+    "Unnamed: 16": null
   },
   {
     "ID": "3514194",
@@ -36250,7 +38267,8 @@ const SULCACAO_DATA = [
     "OS": "6133",
     "Frente": "135 - PEDRINHO ",
     "Profundidade do Sulco": "39",
-    "Fazenda": NaN
+    "Fazenda": null,
+    "Unnamed: 16": null
   },
   {
     "ID": "3514160",
@@ -36268,7 +38286,8 @@ const SULCACAO_DATA = [
     "OS": "9175",
     "Frente": "135 - PEDRINHO ",
     "Profundidade do Sulco": "38",
-    "Fazenda": NaN
+    "Fazenda": null,
+    "Unnamed: 16": null
   },
   {
     "ID": "3514147",
@@ -36286,7 +38305,8 @@ const SULCACAO_DATA = [
     "OS": "9175",
     "Frente": "135 - PEDRINHO ",
     "Profundidade do Sulco": "40",
-    "Fazenda": NaN
+    "Fazenda": null,
+    "Unnamed: 16": null
   },
   {
     "ID": "3514140",
@@ -36304,7 +38324,8 @@ const SULCACAO_DATA = [
     "OS": "9175",
     "Frente": "135 - PEDRINHO ",
     "Profundidade do Sulco": "38",
-    "Fazenda": NaN
+    "Fazenda": null,
+    "Unnamed: 16": null
   },
   {
     "ID": "3511764",
@@ -36322,7 +38343,8 @@ const SULCACAO_DATA = [
     "OS": "9152",
     "Frente": "101 - FRENTE MECANIZADA",
     "Profundidade do Sulco": "39",
-    "Fazenda": NaN
+    "Fazenda": null,
+    "Unnamed: 16": null
   },
   {
     "ID": "3511759",
@@ -36340,7 +38362,8 @@ const SULCACAO_DATA = [
     "OS": "9152",
     "Frente": "101 - FRENTE MECANIZADA",
     "Profundidade do Sulco": "38",
-    "Fazenda": NaN
+    "Fazenda": null,
+    "Unnamed: 16": null
   },
   {
     "ID": "3511702",
@@ -36358,7 +38381,8 @@ const SULCACAO_DATA = [
     "OS": "6128",
     "Frente": "142 - FRENTE BIDU",
     "Profundidade do Sulco": "38",
-    "Fazenda": NaN
+    "Fazenda": null,
+    "Unnamed: 16": null
   },
   {
     "ID": "3511697",
@@ -36376,7 +38400,8 @@ const SULCACAO_DATA = [
     "OS": "6128",
     "Frente": "142 - FRENTE BIDU",
     "Profundidade do Sulco": "38",
-    "Fazenda": NaN
+    "Fazenda": null,
+    "Unnamed: 16": null
   },
   {
     "ID": "3511692",
@@ -36394,7 +38419,8 @@ const SULCACAO_DATA = [
     "OS": "6128",
     "Frente": "142 - FRENTE BIDU",
     "Profundidade do Sulco": "39",
-    "Fazenda": NaN
+    "Fazenda": null,
+    "Unnamed: 16": null
   },
   {
     "ID": "3512314",
@@ -36412,7 +38438,8 @@ const SULCACAO_DATA = [
     "OS": "9175",
     "Frente": "135 - PEDRINHO ",
     "Profundidade do Sulco": "38",
-    "Fazenda": NaN
+    "Fazenda": null,
+    "Unnamed: 16": null
   },
   {
     "ID": "3511687",
@@ -36430,7 +38457,8 @@ const SULCACAO_DATA = [
     "OS": "6128",
     "Frente": "142 - FRENTE BIDU",
     "Profundidade do Sulco": "37",
-    "Fazenda": NaN
+    "Fazenda": null,
+    "Unnamed: 16": null
   },
   {
     "ID": "3512313",
@@ -36448,7 +38476,8 @@ const SULCACAO_DATA = [
     "OS": "9175",
     "Frente": "135 - PEDRINHO ",
     "Profundidade do Sulco": "39",
-    "Fazenda": NaN
+    "Fazenda": null,
+    "Unnamed: 16": null
   },
   {
     "ID": "3512310",
@@ -36466,7 +38495,8 @@ const SULCACAO_DATA = [
     "OS": "9175",
     "Frente": "135 - PEDRINHO ",
     "Profundidade do Sulco": "38",
-    "Fazenda": NaN
+    "Fazenda": null,
+    "Unnamed: 16": null
   },
   {
     "ID": "3511673",
@@ -36484,7 +38514,8 @@ const SULCACAO_DATA = [
     "OS": "6129",
     "Frente": "142 - FRENTE BIDU",
     "Profundidade do Sulco": "38",
-    "Fazenda": NaN
+    "Fazenda": null,
+    "Unnamed: 16": null
   },
   {
     "ID": "3511666",
@@ -36502,7 +38533,8 @@ const SULCACAO_DATA = [
     "OS": "6129",
     "Frente": "142 - FRENTE BIDU",
     "Profundidade do Sulco": "39",
-    "Fazenda": NaN
+    "Fazenda": null,
+    "Unnamed: 16": null
   },
   {
     "ID": "3511811",
@@ -36520,7 +38552,8 @@ const SULCACAO_DATA = [
     "OS": "6131",
     "Frente": "143 - FRENTE CASSIO",
     "Profundidade do Sulco": "40",
-    "Fazenda": NaN
+    "Fazenda": null,
+    "Unnamed: 16": null
   },
   {
     "ID": "3511311",
@@ -36538,7 +38571,8 @@ const SULCACAO_DATA = [
     "OS": "9146",
     "Frente": "105 - FRENTE CASSIO",
     "Profundidade do Sulco": "36",
-    "Fazenda": NaN
+    "Fazenda": null,
+    "Unnamed: 16": null
   },
   {
     "ID": "3511307",
@@ -36556,7 +38590,8 @@ const SULCACAO_DATA = [
     "OS": "9146",
     "Frente": "105 - FRENTE CASSIO",
     "Profundidade do Sulco": "35",
-    "Fazenda": NaN
+    "Fazenda": null,
+    "Unnamed: 16": null
   },
   {
     "ID": "3511300",
@@ -36574,7 +38609,8 @@ const SULCACAO_DATA = [
     "OS": "9146",
     "Frente": "105 - FRENTE CASSIO",
     "Profundidade do Sulco": "38",
-    "Fazenda": NaN
+    "Fazenda": null,
+    "Unnamed: 16": null
   },
   {
     "ID": "3511806",
@@ -36592,7 +38628,8 @@ const SULCACAO_DATA = [
     "OS": "6131",
     "Frente": "143 - FRENTE CASSIO",
     "Profundidade do Sulco": "41",
-    "Fazenda": NaN
+    "Fazenda": null,
+    "Unnamed: 16": null
   },
   {
     "ID": "3511802",
@@ -36610,7 +38647,8 @@ const SULCACAO_DATA = [
     "OS": "6131",
     "Frente": "143 - FRENTE CASSIO",
     "Profundidade do Sulco": "41",
-    "Fazenda": NaN
+    "Fazenda": null,
+    "Unnamed: 16": null
   },
   {
     "ID": "3511288",
@@ -36628,7 +38666,8 @@ const SULCACAO_DATA = [
     "OS": "9146",
     "Frente": "105 - FRENTE CASSIO",
     "Profundidade do Sulco": "36",
-    "Fazenda": NaN
+    "Fazenda": null,
+    "Unnamed: 16": null
   },
   {
     "ID": "3511797",
@@ -36646,7 +38685,8 @@ const SULCACAO_DATA = [
     "OS": "6131",
     "Frente": "143 - FRENTE CASSIO",
     "Profundidade do Sulco": "40",
-    "Fazenda": NaN
+    "Fazenda": null,
+    "Unnamed: 16": null
   },
   {
     "ID": "3509459",
@@ -36664,7 +38704,8 @@ const SULCACAO_DATA = [
     "OS": "9146",
     "Frente": "105 - FRENTE CASSIO",
     "Profundidade do Sulco": "37",
-    "Fazenda": NaN
+    "Fazenda": null,
+    "Unnamed: 16": null
   },
   {
     "ID": "3509455",
@@ -36682,7 +38723,8 @@ const SULCACAO_DATA = [
     "OS": "9146",
     "Frente": "105 - FRENTE CASSIO",
     "Profundidade do Sulco": "36",
-    "Fazenda": NaN
+    "Fazenda": null,
+    "Unnamed: 16": null
   },
   {
     "ID": "3509938",
@@ -36700,7 +38742,8 @@ const SULCACAO_DATA = [
     "OS": "6077",
     "Frente": "143 - FRENTE CASSIO",
     "Profundidade do Sulco": "41",
-    "Fazenda": NaN
+    "Fazenda": null,
+    "Unnamed: 16": null
   },
   {
     "ID": "3509629",
@@ -36718,7 +38761,8 @@ const SULCACAO_DATA = [
     "OS": "6141",
     "Frente": "139 - FRENTE MANEZÃO",
     "Profundidade do Sulco": "39",
-    "Fazenda": NaN
+    "Fazenda": null,
+    "Unnamed: 16": null
   },
   {
     "ID": "3509448",
@@ -36736,7 +38780,8 @@ const SULCACAO_DATA = [
     "OS": "9146",
     "Frente": "105 - FRENTE CASSIO",
     "Profundidade do Sulco": "37",
-    "Fazenda": NaN
+    "Fazenda": null,
+    "Unnamed: 16": null
   },
   {
     "ID": "3509626",
@@ -36754,7 +38799,8 @@ const SULCACAO_DATA = [
     "OS": "6141",
     "Frente": "139 - Manezão",
     "Profundidade do Sulco": "39",
-    "Fazenda": NaN
+    "Fazenda": null,
+    "Unnamed: 16": null
   },
   {
     "ID": "3509444",
@@ -36772,7 +38818,8 @@ const SULCACAO_DATA = [
     "OS": "9146",
     "Frente": "105 - FRENTE CASSIO",
     "Profundidade do Sulco": "36",
-    "Fazenda": NaN
+    "Fazenda": null,
+    "Unnamed: 16": null
   },
   {
     "ID": "3509290",
@@ -36790,7 +38837,8 @@ const SULCACAO_DATA = [
     "OS": "6154",
     "Frente": "142 - FRENTE BIDU",
     "Profundidade do Sulco": "38",
-    "Fazenda": NaN
+    "Fazenda": null,
+    "Unnamed: 16": null
   },
   {
     "ID": "3509535",
@@ -36808,7 +38856,8 @@ const SULCACAO_DATA = [
     "OS": "6140",
     "Frente": "135 - PEDRINHO ",
     "Profundidade do Sulco": "40",
-    "Fazenda": NaN
+    "Fazenda": null,
+    "Unnamed: 16": null
   },
   {
     "ID": "3509289",
@@ -36826,7 +38875,8 @@ const SULCACAO_DATA = [
     "OS": "6154",
     "Frente": "142 - FRENTE BIDU",
     "Profundidade do Sulco": "39",
-    "Fazenda": NaN
+    "Fazenda": null,
+    "Unnamed: 16": null
   },
   {
     "ID": "3509288",
@@ -36844,7 +38894,8 @@ const SULCACAO_DATA = [
     "OS": "6154",
     "Frente": "142 - FRENTE BIDU",
     "Profundidade do Sulco": "40",
-    "Fazenda": NaN
+    "Fazenda": null,
+    "Unnamed: 16": null
   },
   {
     "ID": "3509287",
@@ -36862,7 +38913,8 @@ const SULCACAO_DATA = [
     "OS": "6153",
     "Frente": "142 - FRENTE BIDU",
     "Profundidade do Sulco": "38",
-    "Fazenda": NaN
+    "Fazenda": null,
+    "Unnamed: 16": null
   },
   {
     "ID": "3509286",
@@ -36880,7 +38932,8 @@ const SULCACAO_DATA = [
     "OS": "6153",
     "Frente": "142 - FRENTE BIDU",
     "Profundidade do Sulco": "39",
-    "Fazenda": NaN
+    "Fazenda": null,
+    "Unnamed: 16": null
   },
   {
     "ID": "3509285",
@@ -36898,7 +38951,8 @@ const SULCACAO_DATA = [
     "OS": "6153",
     "Frente": "142 - FRENTE BIDU",
     "Profundidade do Sulco": "38",
-    "Fazenda": NaN
+    "Fazenda": null,
+    "Unnamed: 16": null
   },
   {
     "ID": "3509512",
@@ -36916,7 +38970,8 @@ const SULCACAO_DATA = [
     "OS": "6157",
     "Frente": "135 - PEDRINHO ",
     "Profundidade do Sulco": "39",
-    "Fazenda": NaN
+    "Fazenda": null,
+    "Unnamed: 16": null
   },
   {
     "ID": "3509501",
@@ -36934,7 +38989,8 @@ const SULCACAO_DATA = [
     "OS": "6140",
     "Frente": "135 - PEDRINHO ",
     "Profundidade do Sulco": "39",
-    "Fazenda": NaN
+    "Fazenda": null,
+    "Unnamed: 16": null
   },
   {
     "ID": "3509533",
@@ -36952,7 +39008,8 @@ const SULCACAO_DATA = [
     "OS": "6077",
     "Frente": "143 - FRENTE CASSIO",
     "Profundidade do Sulco": "37",
-    "Fazenda": NaN
+    "Fazenda": null,
+    "Unnamed: 16": null
   },
   {
     "ID": "3509524",
@@ -36970,7 +39027,8 @@ const SULCACAO_DATA = [
     "OS": "6077",
     "Frente": "143 - FRENTE CASSIO",
     "Profundidade do Sulco": "38",
-    "Fazenda": NaN
+    "Fazenda": null,
+    "Unnamed: 16": null
   },
   {
     "ID": "3509517",
@@ -36988,7 +39046,8 @@ const SULCACAO_DATA = [
     "OS": "6077",
     "Frente": "143 - FRENTE CASSIO",
     "Profundidade do Sulco": "36",
-    "Fazenda": NaN
+    "Fazenda": null,
+    "Unnamed: 16": null
   },
   {
     "ID": "3509929",
@@ -37006,7 +39065,8 @@ const SULCACAO_DATA = [
     "OS": "6080",
     "Frente": "143 - FRENTE CASSIO",
     "Profundidade do Sulco": "41",
-    "Fazenda": NaN
+    "Fazenda": null,
+    "Unnamed: 16": null
   },
   {
     "ID": "3509508",
@@ -37024,7 +39084,8 @@ const SULCACAO_DATA = [
     "OS": "6153",
     "Frente": "142 - FRENTE BIDU",
     "Profundidade do Sulco": "37",
-    "Fazenda": NaN
+    "Fazenda": null,
+    "Unnamed: 16": null
   },
   {
     "ID": "3509497",
@@ -37042,7 +39103,8 @@ const SULCACAO_DATA = [
     "OS": "6153",
     "Frente": "142 - FRENTE BIDU",
     "Profundidade do Sulco": "40",
-    "Fazenda": NaN
+    "Fazenda": null,
+    "Unnamed: 16": null
   },
   {
     "ID": "3509490",
@@ -37060,7 +39122,8 @@ const SULCACAO_DATA = [
     "OS": "6153",
     "Frente": "142 - FRENTE BIDU",
     "Profundidade do Sulco": "39",
-    "Fazenda": NaN
+    "Fazenda": null,
+    "Unnamed: 16": null
   },
   {
     "ID": "3509961",
@@ -37078,7 +39141,8 @@ const SULCACAO_DATA = [
     "OS": "6080",
     "Frente": "143 - FRENTE CASSIO",
     "Profundidade do Sulco": "40",
-    "Fazenda": NaN
+    "Fazenda": null,
+    "Unnamed: 16": null
   },
   {
     "ID": "3509606",
@@ -37096,7 +39160,8 @@ const SULCACAO_DATA = [
     "OS": "6141",
     "Frente": "139 - Manezão",
     "Profundidade do Sulco": "40",
-    "Fazenda": NaN
+    "Fazenda": null,
+    "Unnamed: 16": null
   },
   {
     "ID": "3509604",
@@ -37114,7 +39179,8 @@ const SULCACAO_DATA = [
     "OS": "6141",
     "Frente": "139 - FRENTE MANEZÃO",
     "Profundidade do Sulco": "38",
-    "Fazenda": NaN
+    "Fazenda": null,
+    "Unnamed: 16": null
   },
   {
     "ID": "3509918",
@@ -37132,7 +39198,8 @@ const SULCACAO_DATA = [
     "OS": "6077",
     "Frente": "143 - FRENTE CASSIO",
     "Profundidade do Sulco": "40",
-    "Fazenda": NaN
+    "Fazenda": null,
+    "Unnamed: 16": null
   },
   {
     "ID": "3509482",
@@ -37150,7 +39217,8 @@ const SULCACAO_DATA = [
     "OS": "6157",
     "Frente": "135 - PEDRINHO ",
     "Profundidade do Sulco": "41",
-    "Fazenda": NaN
+    "Fazenda": null,
+    "Unnamed: 16": null
   },
   {
     "ID": "3509475",
@@ -37168,7 +39236,8 @@ const SULCACAO_DATA = [
     "OS": "6157",
     "Frente": "135 - PEDRINHO ",
     "Profundidade do Sulco": "39",
-    "Fazenda": NaN
+    "Fazenda": null,
+    "Unnamed: 16": null
   },
   {
     "ID": "3509865",
@@ -37186,7 +39255,8 @@ const SULCACAO_DATA = [
     "OS": "6077",
     "Frente": "143 - FRENTE CASSIO",
     "Profundidade do Sulco": "39",
-    "Fazenda": NaN
+    "Fazenda": null,
+    "Unnamed: 16": null
   },
   {
     "ID": "3509468",
@@ -37204,7 +39274,8 @@ const SULCACAO_DATA = [
     "OS": "6157",
     "Frente": "135 - PEDRINHO ",
     "Profundidade do Sulco": "36",
-    "Fazenda": NaN
+    "Fazenda": null,
+    "Unnamed: 16": null
   },
   {
     "ID": "3509806",
@@ -37222,7 +39293,8 @@ const SULCACAO_DATA = [
     "OS": "6077",
     "Frente": "143 - FRENTE CASSIO",
     "Profundidade do Sulco": "40",
-    "Fazenda": NaN
+    "Fazenda": null,
+    "Unnamed: 16": null
   },
   {
     "ID": "3509319",
@@ -37240,7 +39312,8 @@ const SULCACAO_DATA = [
     "OS": "9146",
     "Frente": "105 - FRENTE CASSIO",
     "Profundidade do Sulco": "37",
-    "Fazenda": NaN
+    "Fazenda": null,
+    "Unnamed: 16": null
   },
   {
     "ID": "3509748",
@@ -37258,7 +39331,8 @@ const SULCACAO_DATA = [
     "OS": "6077",
     "Frente": "143 - FRENTE CASSIO",
     "Profundidade do Sulco": "42",
-    "Fazenda": NaN
+    "Fazenda": null,
+    "Unnamed: 16": null
   },
   {
     "ID": "3509315",
@@ -37276,7 +39350,8 @@ const SULCACAO_DATA = [
     "OS": "9146",
     "Frente": "105 - FRENTE CASSIO",
     "Profundidade do Sulco": "37",
-    "Fazenda": NaN
+    "Fazenda": null,
+    "Unnamed: 16": null
   },
   {
     "ID": "3509486",
@@ -37294,7 +39369,8 @@ const SULCACAO_DATA = [
     "OS": "6134",
     "Frente": "135 - PEDRINHO ",
     "Profundidade do Sulco": "36",
-    "Fazenda": NaN
+    "Fazenda": null,
+    "Unnamed: 16": null
   },
   {
     "ID": "3509310",
@@ -37312,7 +39388,8 @@ const SULCACAO_DATA = [
     "OS": "9146",
     "Frente": "105 - FRENTE CASSIO",
     "Profundidade do Sulco": "36",
-    "Fazenda": NaN
+    "Fazenda": null,
+    "Unnamed: 16": null
   },
   {
     "ID": "3509745",
@@ -37330,7 +39407,8 @@ const SULCACAO_DATA = [
     "OS": "6134",
     "Frente": "135 - PEDRINHO ",
     "Profundidade do Sulco": "38",
-    "Fazenda": NaN
+    "Fazenda": null,
+    "Unnamed: 16": null
   },
   {
     "ID": "3509306",
@@ -37348,7 +39426,8 @@ const SULCACAO_DATA = [
     "OS": "9146",
     "Frente": "105 - FRENTE CASSIO",
     "Profundidade do Sulco": "35",
-    "Fazenda": NaN
+    "Fazenda": null,
+    "Unnamed: 16": null
   },
   {
     "ID": "3509424",
@@ -37366,7 +39445,8 @@ const SULCACAO_DATA = [
     "OS": "6134",
     "Frente": "135 - PEDRINHO ",
     "Profundidade do Sulco": "40",
-    "Fazenda": NaN
+    "Fazenda": null,
+    "Unnamed: 16": null
   },
   {
     "ID": "3507665",
@@ -37384,7 +39464,8 @@ const SULCACAO_DATA = [
     "OS": "6140",
     "Frente": "135 - PEDRINHO ",
     "Profundidade do Sulco": "40",
-    "Fazenda": NaN
+    "Fazenda": null,
+    "Unnamed: 16": null
   },
   {
     "ID": "3507664",
@@ -37402,7 +39483,8 @@ const SULCACAO_DATA = [
     "OS": "6140",
     "Frente": "135 - PEDRINHO ",
     "Profundidade do Sulco": "42",
-    "Fazenda": NaN
+    "Fazenda": null,
+    "Unnamed: 16": null
   },
   {
     "ID": "3507661",
@@ -37420,7 +39502,8 @@ const SULCACAO_DATA = [
     "OS": "6134",
     "Frente": "135 - PEDRINHO ",
     "Profundidade do Sulco": "39",
-    "Fazenda": NaN
+    "Fazenda": null,
+    "Unnamed: 16": null
   },
   {
     "ID": "3507659",
@@ -37438,7 +39521,8 @@ const SULCACAO_DATA = [
     "OS": "6134",
     "Frente": "135 - PEDRINHO ",
     "Profundidade do Sulco": "37",
-    "Fazenda": NaN
+    "Fazenda": null,
+    "Unnamed: 16": null
   },
   {
     "ID": "3498745",
@@ -37456,7 +39540,8 @@ const SULCACAO_DATA = [
     "OS": "6116",
     "Frente": "261 - FRENTE PRÓPRIA  (EDMILSON)",
     "Profundidade do Sulco": "38",
-    "Fazenda": NaN
+    "Fazenda": null,
+    "Unnamed: 16": null
   },
   {
     "ID": "3498740",
@@ -37474,7 +39559,8 @@ const SULCACAO_DATA = [
     "OS": "6116",
     "Frente": "261 - FRENTE PRÓPRIA  (EDMILSON)",
     "Profundidade do Sulco": "39",
-    "Fazenda": NaN
+    "Fazenda": null,
+    "Unnamed: 16": null
   },
   {
     "ID": "3498512",
@@ -37492,7 +39578,8 @@ const SULCACAO_DATA = [
     "OS": "6070",
     "Frente": "135 - PEDRINHO ",
     "Profundidade do Sulco": "38",
-    "Fazenda": NaN
+    "Fazenda": null,
+    "Unnamed: 16": null
   },
   {
     "ID": "3498479",
@@ -37510,7 +39597,8 @@ const SULCACAO_DATA = [
     "OS": "6075",
     "Frente": "142 - FRENTE BIDU",
     "Profundidade do Sulco": "40",
-    "Fazenda": NaN
+    "Fazenda": null,
+    "Unnamed: 16": null
   },
   {
     "ID": "3498508",
@@ -37528,7 +39616,8 @@ const SULCACAO_DATA = [
     "OS": "6070",
     "Frente": "135 - PEDRINHO ",
     "Profundidade do Sulco": "37",
-    "Fazenda": NaN
+    "Fazenda": null,
+    "Unnamed: 16": null
   },
   {
     "ID": "3498663",
@@ -37546,7 +39635,8 @@ const SULCACAO_DATA = [
     "OS": "6071",
     "Frente": "135 - PEDRINHO ",
     "Profundidade do Sulco": "40",
-    "Fazenda": NaN
+    "Fazenda": null,
+    "Unnamed: 16": null
   },
   {
     "ID": "3498732",
@@ -37564,7 +39654,8 @@ const SULCACAO_DATA = [
     "OS": "6118",
     "Frente": "261 - FRENTE PRÓPRIA  (EDMILSON)",
     "Profundidade do Sulco": "37",
-    "Fazenda": NaN
+    "Fazenda": null,
+    "Unnamed: 16": null
   },
   {
     "ID": "3498504",
@@ -37582,7 +39673,8 @@ const SULCACAO_DATA = [
     "OS": "6070",
     "Frente": "135 - PEDRINHO ",
     "Profundidade do Sulco": "36",
-    "Fazenda": NaN
+    "Fazenda": null,
+    "Unnamed: 16": null
   },
   {
     "ID": "3498658",
@@ -37600,7 +39692,8 @@ const SULCACAO_DATA = [
     "OS": "6071",
     "Frente": "135 - PEDRINHO ",
     "Profundidade do Sulco": "38",
-    "Fazenda": NaN
+    "Fazenda": null,
+    "Unnamed: 16": null
   },
   {
     "ID": "3498469",
@@ -37618,7 +39711,8 @@ const SULCACAO_DATA = [
     "OS": "6024",
     "Frente": "142 - FRENTE BIDU",
     "Profundidade do Sulco": "37",
-    "Fazenda": NaN
+    "Fazenda": null,
+    "Unnamed: 16": null
   },
   {
     "ID": "3498653",
@@ -37636,7 +39730,8 @@ const SULCACAO_DATA = [
     "OS": "6071",
     "Frente": "135 - PEDRINHO ",
     "Profundidade do Sulco": "38",
-    "Fazenda": NaN
+    "Fazenda": null,
+    "Unnamed: 16": null
   },
   {
     "ID": "3498499",
@@ -37654,7 +39749,8 @@ const SULCACAO_DATA = [
     "OS": "6070",
     "Frente": "135 - PEDRINHO ",
     "Profundidade do Sulco": "37",
-    "Fazenda": NaN
+    "Fazenda": null,
+    "Unnamed: 16": null
   },
   {
     "ID": "3498726",
@@ -37672,7 +39768,8 @@ const SULCACAO_DATA = [
     "OS": "6118",
     "Frente": "261 - FRENTE PRÓPRIA  (EDMILSON)",
     "Profundidade do Sulco": "37",
-    "Fazenda": NaN
+    "Fazenda": null,
+    "Unnamed: 16": null
   },
   {
     "ID": "3498647",
@@ -37690,7 +39787,8 @@ const SULCACAO_DATA = [
     "OS": "6071",
     "Frente": "135 - PEDRINHO ",
     "Profundidade do Sulco": "37",
-    "Fazenda": NaN
+    "Fazenda": null,
+    "Unnamed: 16": null
   },
   {
     "ID": "3498719",
@@ -37708,7 +39806,8 @@ const SULCACAO_DATA = [
     "OS": "6118",
     "Frente": "261 - FRENTE PRÓPRIA  (EDMILSON)",
     "Profundidade do Sulco": "39",
-    "Fazenda": NaN
+    "Fazenda": null,
+    "Unnamed: 16": null
   },
   {
     "ID": "3498687",
@@ -37726,7 +39825,8 @@ const SULCACAO_DATA = [
     "OS": "6118",
     "Frente": "261 - FRENTE PRÓPRIA  (EDMILSON)",
     "Profundidade do Sulco": "38",
-    "Fazenda": NaN
+    "Fazenda": null,
+    "Unnamed: 16": null
   },
   {
     "ID": "3498565",
@@ -37744,7 +39844,8 @@ const SULCACAO_DATA = [
     "OS": "6110",
     "Frente": "139 - FRENTE MANEZÃO",
     "Profundidade do Sulco": "38",
-    "Fazenda": NaN
+    "Fazenda": null,
+    "Unnamed: 16": null
   },
   {
     "ID": "3498997",
@@ -37762,7 +39863,8 @@ const SULCACAO_DATA = [
     "OS": "6110",
     "Frente": "139 - FRENTE MANEZÃO",
     "Profundidade do Sulco": "40",
-    "Fazenda": NaN
+    "Fazenda": null,
+    "Unnamed: 16": null
   },
   {
     "ID": "3498562",
@@ -37780,7 +39882,8 @@ const SULCACAO_DATA = [
     "OS": "6110",
     "Frente": "139 - FRENTE MANEZÃO",
     "Profundidade do Sulco": "38",
-    "Fazenda": NaN
+    "Fazenda": null,
+    "Unnamed: 16": null
   },
   {
     "ID": "3498677",
@@ -37798,7 +39901,8 @@ const SULCACAO_DATA = [
     "OS": "6118",
     "Frente": "261 - FRENTE PRÓPRIA  (EDMILSON)",
     "Profundidade do Sulco": "38",
-    "Fazenda": NaN
+    "Fazenda": null,
+    "Unnamed: 16": null
   },
   {
     "ID": "3498992",
@@ -37816,7 +39920,8 @@ const SULCACAO_DATA = [
     "OS": "6110",
     "Frente": "139 - FRENTE MANEZÃO",
     "Profundidade do Sulco": "40",
-    "Fazenda": NaN
+    "Fazenda": null,
+    "Unnamed: 16": null
   },
   {
     "ID": "3498988",
@@ -37834,7 +39939,8 @@ const SULCACAO_DATA = [
     "OS": "6110",
     "Frente": "139 - FRENTE MANEZÃO",
     "Profundidade do Sulco": "42",
-    "Fazenda": NaN
+    "Fazenda": null,
+    "Unnamed: 16": null
   },
   {
     "ID": "3498642",
@@ -37852,7 +39958,8 @@ const SULCACAO_DATA = [
     "OS": "6117",
     "Frente": "261 - FRENTE PRÓPRIA  (EDMILSON)",
     "Profundidade do Sulco": "37",
-    "Fazenda": NaN
+    "Fazenda": null,
+    "Unnamed: 16": null
   },
   {
     "ID": "3498553",
@@ -37870,7 +39977,8 @@ const SULCACAO_DATA = [
     "OS": "6110",
     "Frente": "139 - FRENTE MANEZÃO",
     "Profundidade do Sulco": "37",
-    "Fazenda": NaN
+    "Fazenda": null,
+    "Unnamed: 16": null
   },
   {
     "ID": "3498981",
@@ -37888,7 +39996,8 @@ const SULCACAO_DATA = [
     "OS": "6110",
     "Frente": "139 - FRENTE MANEZÃO",
     "Profundidade do Sulco": "40",
-    "Fazenda": NaN
+    "Fazenda": null,
+    "Unnamed: 16": null
   },
   {
     "ID": "3498625",
@@ -37906,7 +40015,8 @@ const SULCACAO_DATA = [
     "OS": "6118",
     "Frente": "261 - FRENTE PRÓPRIA  (EDMILSON)",
     "Profundidade do Sulco": "39",
-    "Fazenda": NaN
+    "Fazenda": null,
+    "Unnamed: 16": null
   },
   {
     "ID": "3498620",
@@ -37924,7 +40034,8 @@ const SULCACAO_DATA = [
     "OS": "6118",
     "Frente": "261 - FRENTE PRÓPRIA  (EDMILSON)",
     "Profundidade do Sulco": "37",
-    "Fazenda": NaN
+    "Fazenda": null,
+    "Unnamed: 16": null
   },
   {
     "ID": "3498615",
@@ -37942,7 +40053,8 @@ const SULCACAO_DATA = [
     "OS": "6118",
     "Frente": "261 - FRENTE PRÓPRIA  (EDMILSON)",
     "Profundidade do Sulco": "38",
-    "Fazenda": NaN
+    "Fazenda": null,
+    "Unnamed: 16": null
   },
   {
     "ID": "3496795",
@@ -37960,7 +40072,8 @@ const SULCACAO_DATA = [
     "OS": "6035",
     "Frente": "135 - PEDRINHO ",
     "Profundidade do Sulco": "41",
-    "Fazenda": NaN
+    "Fazenda": null,
+    "Unnamed: 16": null
   },
   {
     "ID": "3496790",
@@ -37978,7 +40091,8 @@ const SULCACAO_DATA = [
     "OS": "6035",
     "Frente": "135 - PEDRINHO ",
     "Profundidade do Sulco": "38",
-    "Fazenda": NaN
+    "Fazenda": null,
+    "Unnamed: 16": null
   },
   {
     "ID": "3496785",
@@ -37996,7 +40110,8 @@ const SULCACAO_DATA = [
     "OS": "6034",
     "Frente": "135 - PEDRINHO ",
     "Profundidade do Sulco": "40",
-    "Fazenda": NaN
+    "Fazenda": null,
+    "Unnamed: 16": null
   },
   {
     "ID": "3496780",
@@ -38014,7 +40129,8 @@ const SULCACAO_DATA = [
     "OS": "6034",
     "Frente": "135 - PEDRINHO ",
     "Profundidade do Sulco": "39",
-    "Fazenda": NaN
+    "Fazenda": null,
+    "Unnamed: 16": null
   },
   {
     "ID": "3496223",
@@ -38032,7 +40148,8 @@ const SULCACAO_DATA = [
     "OS": "5993",
     "Frente": "142 - FRENTE BIDU",
     "Profundidade do Sulco": "39",
-    "Fazenda": NaN
+    "Fazenda": null,
+    "Unnamed: 16": null
   },
   {
     "ID": "3496676",
@@ -38050,7 +40167,8 @@ const SULCACAO_DATA = [
     "OS": "5847",
     "Frente": "105 - FRENTE CASSIO (ZACARIAS)",
     "Profundidade do Sulco": "39",
-    "Fazenda": NaN
+    "Fazenda": null,
+    "Unnamed: 16": null
   },
   {
     "ID": "3496672",
@@ -38068,7 +40186,8 @@ const SULCACAO_DATA = [
     "OS": "5847",
     "Frente": "105 - FRENTE CASSIO",
     "Profundidade do Sulco": "40",
-    "Fazenda": NaN
+    "Fazenda": null,
+    "Unnamed: 16": null
   },
   {
     "ID": "3496670",
@@ -38086,7 +40205,8 @@ const SULCACAO_DATA = [
     "OS": "5847",
     "Frente": "105 - FRENTE CASSIO",
     "Profundidade do Sulco": "35",
-    "Fazenda": NaN
+    "Fazenda": null,
+    "Unnamed: 16": null
   },
   {
     "ID": "3495212",
@@ -38104,7 +40224,8 @@ const SULCACAO_DATA = [
     "OS": "5994",
     "Frente": "135 - PEDRINHO ",
     "Profundidade do Sulco": "37",
-    "Fazenda": NaN
+    "Fazenda": null,
+    "Unnamed: 16": null
   },
   {
     "ID": "3495207",
@@ -38122,7 +40243,8 @@ const SULCACAO_DATA = [
     "OS": "5994",
     "Frente": "135 - PEDRINHO ",
     "Profundidade do Sulco": "42",
-    "Fazenda": NaN
+    "Fazenda": null,
+    "Unnamed: 16": null
   },
   {
     "ID": "3495202",
@@ -38140,7 +40262,8 @@ const SULCACAO_DATA = [
     "OS": "5997",
     "Frente": "135 - PEDRINHO ",
     "Profundidade do Sulco": "35",
-    "Fazenda": NaN
+    "Fazenda": null,
+    "Unnamed: 16": null
   },
   {
     "ID": "3495195",
@@ -38158,7 +40281,8 @@ const SULCACAO_DATA = [
     "OS": "5997",
     "Frente": "135 - PEDRINHO ",
     "Profundidade do Sulco": "39",
-    "Fazenda": NaN
+    "Fazenda": null,
+    "Unnamed: 16": null
   },
   {
     "ID": "3494375",
@@ -38176,7 +40300,8 @@ const SULCACAO_DATA = [
     "OS": "6017",
     "Frente": "291 - FRENTE PRÓPRIA ",
     "Profundidade do Sulco": "39",
-    "Fazenda": NaN
+    "Fazenda": null,
+    "Unnamed: 16": null
   },
   {
     "ID": "3494645",
@@ -38194,7 +40319,8 @@ const SULCACAO_DATA = [
     "OS": "5847",
     "Frente": "105 - FRENTE CASSIO",
     "Profundidade do Sulco": "38",
-    "Fazenda": NaN
+    "Fazenda": null,
+    "Unnamed: 16": null
   },
   {
     "ID": "3494370",
@@ -38212,7 +40338,8 @@ const SULCACAO_DATA = [
     "OS": "6017",
     "Frente": "291 - FRENTE PRÓPRIA ",
     "Profundidade do Sulco": "40",
-    "Fazenda": NaN
+    "Fazenda": null,
+    "Unnamed: 16": null
   },
   {
     "ID": "3494633",
@@ -38230,7 +40357,8 @@ const SULCACAO_DATA = [
     "OS": "5847",
     "Frente": "105 - FRENTE CASSIO",
     "Profundidade do Sulco": "37",
-    "Fazenda": NaN
+    "Fazenda": null,
+    "Unnamed: 16": null
   },
   {
     "ID": "3494365",
@@ -38248,7 +40376,8 @@ const SULCACAO_DATA = [
     "OS": "6017",
     "Frente": "291 - FRENTE PRÓPRIA ",
     "Profundidade do Sulco": "41",
-    "Fazenda": NaN
+    "Fazenda": null,
+    "Unnamed: 16": null
   },
   {
     "ID": "3494672",
@@ -38266,7 +40395,8 @@ const SULCACAO_DATA = [
     "OS": "5847",
     "Frente": "143 - FRENTE CASSIO",
     "Profundidade do Sulco": "38",
-    "Fazenda": NaN
+    "Fazenda": null,
+    "Unnamed: 16": null
   },
   {
     "ID": "3494355",
@@ -38284,7 +40414,8 @@ const SULCACAO_DATA = [
     "OS": "6017",
     "Frente": "291 - FRENTE PRÓPRIA ",
     "Profundidade do Sulco": "37",
-    "Fazenda": NaN
+    "Fazenda": null,
+    "Unnamed: 16": null
   },
   {
     "ID": "3494668",
@@ -38302,7 +40433,8 @@ const SULCACAO_DATA = [
     "OS": "5847",
     "Frente": "143 - FRENTE CASSIO",
     "Profundidade do Sulco": "36",
-    "Fazenda": NaN
+    "Fazenda": null,
+    "Unnamed: 16": null
   },
   {
     "ID": "3494350",
@@ -38320,7 +40452,8 @@ const SULCACAO_DATA = [
     "OS": "6017",
     "Frente": "291 - FRENTE PRÓPRIA ",
     "Profundidade do Sulco": "41",
-    "Fazenda": NaN
+    "Fazenda": null,
+    "Unnamed: 16": null
   },
   {
     "ID": "3494664",
@@ -38338,7 +40471,8 @@ const SULCACAO_DATA = [
     "OS": "5847",
     "Frente": "143 - FRENTE CASSIO",
     "Profundidade do Sulco": "37",
-    "Fazenda": NaN
+    "Fazenda": null,
+    "Unnamed: 16": null
   },
   {
     "ID": "3494660",
@@ -38356,7 +40490,8 @@ const SULCACAO_DATA = [
     "OS": "5847",
     "Frente": "143 - FRENTE CASSIO",
     "Profundidade do Sulco": "36",
-    "Fazenda": NaN
+    "Fazenda": null,
+    "Unnamed: 16": null
   },
   {
     "ID": "3494656",
@@ -38374,7 +40509,8 @@ const SULCACAO_DATA = [
     "OS": "5847",
     "Frente": "143 - FRENTE CASSIO",
     "Profundidade do Sulco": "36",
-    "Fazenda": NaN
+    "Fazenda": null,
+    "Unnamed: 16": null
   },
   {
     "ID": "3495169",
@@ -38392,7 +40528,8 @@ const SULCACAO_DATA = [
     "OS": "5997",
     "Frente": "135 - PEDRINHO ",
     "Profundidade do Sulco": "39",
-    "Fazenda": NaN
+    "Fazenda": null,
+    "Unnamed: 16": null
   },
   {
     "ID": "3495163",
@@ -38410,7 +40547,8 @@ const SULCACAO_DATA = [
     "OS": "5996",
     "Frente": "135 - PEDRINHO ",
     "Profundidade do Sulco": "38",
-    "Fazenda": NaN
+    "Fazenda": null,
+    "Unnamed: 16": null
   },
   {
     "ID": "3495161",
@@ -38428,7 +40566,8 @@ const SULCACAO_DATA = [
     "OS": "5996",
     "Frente": "135 - PEDRINHO ",
     "Profundidade do Sulco": "41",
-    "Fazenda": NaN
+    "Fazenda": null,
+    "Unnamed: 16": null
   },
   {
     "ID": "3495153",
@@ -38446,7 +40585,8 @@ const SULCACAO_DATA = [
     "OS": "5996",
     "Frente": "135 - PEDRINHO ",
     "Profundidade do Sulco": "38",
-    "Fazenda": NaN
+    "Fazenda": null,
+    "Unnamed: 16": null
   },
   {
     "ID": "3492626",
@@ -38464,7 +40604,8 @@ const SULCACAO_DATA = [
     "OS": "5645",
     "Frente": "261 - FRENTE PRÓPRIA  (EDMILSON)",
     "Profundidade do Sulco": "38",
-    "Fazenda": NaN
+    "Fazenda": null,
+    "Unnamed: 16": null
   },
   {
     "ID": "3492625",
@@ -38482,7 +40623,8 @@ const SULCACAO_DATA = [
     "OS": "5645",
     "Frente": "261 - FRENTE PRÓPRIA  (EDMILSON)",
     "Profundidade do Sulco": "38",
-    "Fazenda": NaN
+    "Fazenda": null,
+    "Unnamed: 16": null
   },
   {
     "ID": "3492623",
@@ -38500,7 +40642,8 @@ const SULCACAO_DATA = [
     "OS": "5645",
     "Frente": "261 - FRENTE PRÓPRIA  (EDMILSON)",
     "Profundidade do Sulco": "38",
-    "Fazenda": NaN
+    "Fazenda": null,
+    "Unnamed: 16": null
   },
   {
     "ID": "3492624",
@@ -38518,7 +40661,8 @@ const SULCACAO_DATA = [
     "OS": "5645",
     "Frente": "261 - FRENTE PRÓPRIA  (EDMILSON)",
     "Profundidade do Sulco": "37",
-    "Fazenda": NaN
+    "Fazenda": null,
+    "Unnamed: 16": null
   },
   {
     "ID": "3492606",
@@ -38536,7 +40680,8 @@ const SULCACAO_DATA = [
     "OS": "5491",
     "Frente": "261 - FRENTE PRÓPRIA  (EDMILSON)",
     "Profundidade do Sulco": "37",
-    "Fazenda": NaN
+    "Fazenda": null,
+    "Unnamed: 16": null
   },
   {
     "ID": "3492605",
@@ -38554,7 +40699,8 @@ const SULCACAO_DATA = [
     "OS": "5491",
     "Frente": "261 - FRENTE PRÓPRIA  (EDMILSON)",
     "Profundidade do Sulco": "37",
-    "Fazenda": NaN
+    "Fazenda": null,
+    "Unnamed: 16": null
   },
   {
     "ID": "3492603",
@@ -38572,7 +40718,8 @@ const SULCACAO_DATA = [
     "OS": "5491",
     "Frente": "261 - FRENTE PRÓPRIA  (EDMILSON)",
     "Profundidade do Sulco": "38",
-    "Fazenda": NaN
+    "Fazenda": null,
+    "Unnamed: 16": null
   },
   {
     "ID": "3492525",
@@ -38590,7 +40737,8 @@ const SULCACAO_DATA = [
     "OS": "5964",
     "Frente": "139 - FRENTE MANEZÃO",
     "Profundidade do Sulco": "36",
-    "Fazenda": NaN
+    "Fazenda": null,
+    "Unnamed: 16": null
   },
   {
     "ID": "3492278",
@@ -38608,7 +40756,8 @@ const SULCACAO_DATA = [
     "OS": "6017",
     "Frente": "261 - FRENTE PRÓPRIA  (EDMILSON)",
     "Profundidade do Sulco": "39",
-    "Fazenda": NaN
+    "Fazenda": null,
+    "Unnamed: 16": null
   },
   {
     "ID": "3493089",
@@ -38626,7 +40775,8 @@ const SULCACAO_DATA = [
     "OS": "5969",
     "Frente": "135 - PEDRINHO ",
     "Profundidade do Sulco": "36",
-    "Fazenda": NaN
+    "Fazenda": null,
+    "Unnamed: 16": null
   },
   {
     "ID": "3492515",
@@ -38644,7 +40794,8 @@ const SULCACAO_DATA = [
     "OS": "5964",
     "Frente": "139 - FRENTE MANEZÃO",
     "Profundidade do Sulco": "36",
-    "Fazenda": NaN
+    "Fazenda": null,
+    "Unnamed: 16": null
   },
   {
     "ID": "3492277",
@@ -38662,7 +40813,8 @@ const SULCACAO_DATA = [
     "OS": "6017",
     "Frente": "261 - FRENTE PRÓPRIA  (EDMILSON)",
     "Profundidade do Sulco": "40",
-    "Fazenda": NaN
+    "Fazenda": null,
+    "Unnamed: 16": null
   },
   {
     "ID": "3493084",
@@ -38680,7 +40832,8 @@ const SULCACAO_DATA = [
     "OS": "5969",
     "Frente": "135 - PEDRINHO ",
     "Profundidade do Sulco": "37",
-    "Fazenda": NaN
+    "Fazenda": null,
+    "Unnamed: 16": null
   },
   {
     "ID": "3492218",
@@ -38698,7 +40851,8 @@ const SULCACAO_DATA = [
     "OS": "5965",
     "Frente": "142 - FRENTE BIDU",
     "Profundidade do Sulco": "39",
-    "Fazenda": NaN
+    "Fazenda": null,
+    "Unnamed: 16": null
   },
   {
     "ID": "3493079",
@@ -38716,7 +40870,8 @@ const SULCACAO_DATA = [
     "OS": "5969",
     "Frente": "135 - PEDRINHO ",
     "Profundidade do Sulco": "36",
-    "Fazenda": NaN
+    "Fazenda": null,
+    "Unnamed: 16": null
   },
   {
     "ID": "3492214",
@@ -38734,7 +40889,8 @@ const SULCACAO_DATA = [
     "OS": "5965",
     "Frente": "142 - FRENTE BIDU",
     "Profundidade do Sulco": "39",
-    "Fazenda": NaN
+    "Fazenda": null,
+    "Unnamed: 16": null
   },
   {
     "ID": "3492509",
@@ -38752,7 +40908,8 @@ const SULCACAO_DATA = [
     "OS": "5964",
     "Frente": "139 - FRENTE MANEZÃO",
     "Profundidade do Sulco": "40",
-    "Fazenda": NaN
+    "Fazenda": null,
+    "Unnamed: 16": null
   },
   {
     "ID": "3492507",
@@ -38770,7 +40927,8 @@ const SULCACAO_DATA = [
     "OS": "5964",
     "Frente": "139 - FRENTE MANEZÃO",
     "Profundidade do Sulco": "39",
-    "Fazenda": NaN
+    "Fazenda": null,
+    "Unnamed: 16": null
   },
   {
     "ID": "3492466",
@@ -38788,7 +40946,8 @@ const SULCACAO_DATA = [
     "OS": "5847aaqq1",
     "Frente": "105 - FRENTE CASSIO (ZACARIAS)",
     "Profundidade do Sulco": "36",
-    "Fazenda": NaN
+    "Fazenda": null,
+    "Unnamed: 16": null
   },
   {
     "ID": "3492080",
@@ -38806,7 +40965,8 @@ const SULCACAO_DATA = [
     "OS": "5965",
     "Frente": "142 - FRENTE BIDU",
     "Profundidade do Sulco": "39",
-    "Fazenda": NaN
+    "Fazenda": null,
+    "Unnamed: 16": null
   },
   {
     "ID": "3492462",
@@ -38824,7 +40984,8 @@ const SULCACAO_DATA = [
     "OS": "5847",
     "Frente": "105 - FRENTE CASSIO (ZACARIAS)",
     "Profundidade do Sulco": "36",
-    "Fazenda": NaN
+    "Fazenda": null,
+    "Unnamed: 16": null
   },
   {
     "ID": "3492074",
@@ -38842,7 +41003,8 @@ const SULCACAO_DATA = [
     "OS": "5965",
     "Frente": "142 - FRENTE BIDU",
     "Profundidade do Sulco": "41",
-    "Fazenda": NaN
+    "Fazenda": null,
+    "Unnamed: 16": null
   },
   {
     "ID": "3492458",
@@ -38860,7 +41022,8 @@ const SULCACAO_DATA = [
     "OS": "5847",
     "Frente": "105 - FRENTE CASSIO (ZACARIAS)",
     "Profundidade do Sulco": "38",
-    "Fazenda": NaN
+    "Fazenda": null,
+    "Unnamed: 16": null
   },
   {
     "ID": "3492454",
@@ -38878,7 +41041,8 @@ const SULCACAO_DATA = [
     "OS": "5847",
     "Frente": "105 - FRENTE CASSIO (ZACARIAS)",
     "Profundidade do Sulco": "36",
-    "Fazenda": NaN
+    "Fazenda": null,
+    "Unnamed: 16": null
   },
   {
     "ID": "3492450",
@@ -38896,7 +41060,8 @@ const SULCACAO_DATA = [
     "OS": "5847v",
     "Frente": "105 - FRENTE CASSIO (ZACARIAS)",
     "Profundidade do Sulco": "40",
-    "Fazenda": NaN
+    "Fazenda": null,
+    "Unnamed: 16": null
   },
   {
     "ID": "3493070",
@@ -38914,7 +41079,8 @@ const SULCACAO_DATA = [
     "OS": "5968",
     "Frente": "135 - PEDRINHO ",
     "Profundidade do Sulco": "41",
-    "Fazenda": NaN
+    "Fazenda": null,
+    "Unnamed: 16": null
   },
   {
     "ID": "3492390",
@@ -38932,7 +41098,8 @@ const SULCACAO_DATA = [
     "OS": "5847",
     "Frente": "143 - FRENTE CASSIO",
     "Profundidade do Sulco": "36",
-    "Fazenda": NaN
+    "Fazenda": null,
+    "Unnamed: 16": null
   },
   {
     "ID": "3492587",
@@ -38950,7 +41117,8 @@ const SULCACAO_DATA = [
     "OS": "5968",
     "Frente": "135 - PEDRINHO ",
     "Profundidade do Sulco": "39",
-    "Fazenda": NaN
+    "Fazenda": null,
+    "Unnamed: 16": null
   },
   {
     "ID": "3493064",
@@ -38968,7 +41136,8 @@ const SULCACAO_DATA = [
     "OS": "5968",
     "Frente": "135 - PEDRINHO ",
     "Profundidade do Sulco": "38",
-    "Fazenda": NaN
+    "Fazenda": null,
+    "Unnamed: 16": null
   },
   {
     "ID": "3492582",
@@ -38986,7 +41155,8 @@ const SULCACAO_DATA = [
     "OS": "5968",
     "Frente": "135 - PEDRINHO ",
     "Profundidade do Sulco": "37",
-    "Fazenda": NaN
+    "Fazenda": null,
+    "Unnamed: 16": null
   },
   {
     "ID": "3493063",
@@ -39004,7 +41174,8 @@ const SULCACAO_DATA = [
     "OS": "5968",
     "Frente": "135 - PEDRINHO ",
     "Profundidade do Sulco": "37",
-    "Fazenda": NaN
+    "Fazenda": null,
+    "Unnamed: 16": null
   },
   {
     "ID": "3492386",
@@ -39022,7 +41193,8 @@ const SULCACAO_DATA = [
     "OS": "5847",
     "Frente": "143 - FRENTE CASSIO",
     "Profundidade do Sulco": "37",
-    "Fazenda": NaN
+    "Fazenda": null,
+    "Unnamed: 16": null
   },
   {
     "ID": "3492382",
@@ -39040,7 +41212,8 @@ const SULCACAO_DATA = [
     "OS": "5847",
     "Frente": "143 - FRENTE CASSIO",
     "Profundidade do Sulco": "36",
-    "Fazenda": NaN
+    "Fazenda": null,
+    "Unnamed: 16": null
   },
   {
     "ID": "3492577",
@@ -39058,7 +41231,8 @@ const SULCACAO_DATA = [
     "OS": "5968",
     "Frente": "135 - PEDRINHO ",
     "Profundidade do Sulco": "38",
-    "Fazenda": NaN
+    "Fazenda": null,
+    "Unnamed: 16": null
   },
   {
     "ID": "3492378",
@@ -39076,7 +41250,8 @@ const SULCACAO_DATA = [
     "OS": "5847",
     "Frente": "143 - FRENTE CASSIO",
     "Profundidade do Sulco": "37",
-    "Fazenda": NaN
+    "Fazenda": null,
+    "Unnamed: 16": null
   },
   {
     "ID": "3492360",
@@ -39094,7 +41269,8 @@ const SULCACAO_DATA = [
     "OS": "5847",
     "Frente": "143 - FRENTE CASSIO",
     "Profundidade do Sulco": "36",
-    "Fazenda": NaN
+    "Fazenda": null,
+    "Unnamed: 16": null
   },
   {
     "ID": "3492356",
@@ -39112,7 +41288,8 @@ const SULCACAO_DATA = [
     "OS": "5847",
     "Frente": "143 - FRENTE CASSIO",
     "Profundidade do Sulco": "37",
-    "Fazenda": NaN
+    "Fazenda": null,
+    "Unnamed: 16": null
   },
   {
     "ID": "3491302",
@@ -39130,7 +41307,8 @@ const SULCACAO_DATA = [
     "OS": "5969",
     "Frente": "135 - PEDRINHO ",
     "Profundidade do Sulco": "38",
-    "Fazenda": NaN
+    "Fazenda": null,
+    "Unnamed: 16": null
   },
   {
     "ID": "3491301",
@@ -39148,7 +41326,8 @@ const SULCACAO_DATA = [
     "OS": "5968",
     "Frente": "135 - PEDRINHO ",
     "Profundidade do Sulco": "37",
-    "Fazenda": NaN
+    "Fazenda": null,
+    "Unnamed: 16": null
   },
   {
     "ID": "3491272",
@@ -39166,7 +41345,8 @@ const SULCACAO_DATA = [
     "OS": "5967",
     "Frente": "135 - PEDRINHO ",
     "Profundidade do Sulco": "39",
-    "Fazenda": NaN
+    "Fazenda": null,
+    "Unnamed: 16": null
   },
   {
     "ID": "3491268",
@@ -39184,7 +41364,8 @@ const SULCACAO_DATA = [
     "OS": "5967",
     "Frente": "135 - PEDRINHO ",
     "Profundidade do Sulco": "38",
-    "Fazenda": NaN
+    "Fazenda": null,
+    "Unnamed: 16": null
   },
   {
     "ID": "3491262",
@@ -39202,7 +41383,8 @@ const SULCACAO_DATA = [
     "OS": "5967",
     "Frente": "135 - PEDRINHO ",
     "Profundidade do Sulco": "36",
-    "Fazenda": NaN
+    "Fazenda": null,
+    "Unnamed: 16": null
   },
   {
     "ID": "3492572",
@@ -39220,7 +41402,8 @@ const SULCACAO_DATA = [
     "OS": "5965",
     "Frente": "142 - FRENTE BIDU",
     "Profundidade do Sulco": "36",
-    "Fazenda": NaN
+    "Fazenda": null,
+    "Unnamed: 16": null
   },
   {
     "ID": "3492567",
@@ -39238,7 +41421,8 @@ const SULCACAO_DATA = [
     "OS": "5965",
     "Frente": "142 - FRENTE BIDU",
     "Profundidade do Sulco": "39",
-    "Fazenda": NaN
+    "Fazenda": null,
+    "Unnamed: 16": null
   },
   {
     "ID": "3470086",
@@ -39256,7 +41440,8 @@ const SULCACAO_DATA = [
     "OS": "5965",
     "Frente": "142 - FRENTE BIDU",
     "Profundidade do Sulco": "41",
-    "Fazenda": NaN
+    "Fazenda": null,
+    "Unnamed: 16": null
   },
   {
     "ID": "3492562",
@@ -39274,7 +41459,8 @@ const SULCACAO_DATA = [
     "OS": "5965",
     "Frente": "142 - FRENTE BIDU",
     "Profundidade do Sulco": "35",
-    "Fazenda": NaN
+    "Fazenda": null,
+    "Unnamed: 16": null
   },
   {
     "ID": "3470083",
@@ -39292,7 +41478,8 @@ const SULCACAO_DATA = [
     "OS": "5965",
     "Frente": "142 - FRENTE BIDU",
     "Profundidade do Sulco": "37",
-    "Fazenda": NaN
+    "Fazenda": null,
+    "Unnamed: 16": null
   },
   {
     "ID": "3490377",
@@ -39310,7 +41497,8 @@ const SULCACAO_DATA = [
     "OS": "5847",
     "Frente": "143 - FRENTE CASSIO",
     "Profundidade do Sulco": "41",
-    "Fazenda": NaN
+    "Fazenda": null,
+    "Unnamed: 16": null
   },
   {
     "ID": "3490372",
@@ -39328,7 +41516,8 @@ const SULCACAO_DATA = [
     "OS": "5847",
     "Frente": "143 - FRENTE CASSIO",
     "Profundidade do Sulco": "40",
-    "Fazenda": NaN
+    "Fazenda": null,
+    "Unnamed: 16": null
   },
   {
     "ID": "3470034",
@@ -39346,7 +41535,8 @@ const SULCACAO_DATA = [
     "OS": "5491",
     "Frente": "261 - FRENTE PRÓPRIA  (EDMILSON)",
     "Profundidade do Sulco": "37",
-    "Fazenda": NaN
+    "Fazenda": null,
+    "Unnamed: 16": null
   },
   {
     "ID": "3490349",
@@ -39364,7 +41554,8 @@ const SULCACAO_DATA = [
     "OS": "5847",
     "Frente": "143 - FRENTE CASSIO",
     "Profundidade do Sulco": "37",
-    "Fazenda": NaN
+    "Fazenda": null,
+    "Unnamed: 16": null
   },
   {
     "ID": "3470029",
@@ -39382,7 +41573,8 @@ const SULCACAO_DATA = [
     "OS": "5491",
     "Frente": "261 - FRENTE PRÓPRIA  (EDMILSON)",
     "Profundidade do Sulco": "38",
-    "Fazenda": NaN
+    "Fazenda": null,
+    "Unnamed: 16": null
   },
   {
     "ID": "3490344",
@@ -39400,7 +41592,8 @@ const SULCACAO_DATA = [
     "OS": "5847",
     "Frente": "143 - FRENTE CASSIO",
     "Profundidade do Sulco": "42",
-    "Fazenda": NaN
+    "Fazenda": null,
+    "Unnamed: 16": null
   },
   {
     "ID": "3490340",
@@ -39418,7 +41611,8 @@ const SULCACAO_DATA = [
     "OS": "5847",
     "Frente": "143 - FRENTE CASSIO",
     "Profundidade do Sulco": "37",
-    "Fazenda": NaN
+    "Fazenda": null,
+    "Unnamed: 16": null
   },
   {
     "ID": "3470024",
@@ -39436,7 +41630,8 @@ const SULCACAO_DATA = [
     "OS": "5491",
     "Frente": "261 - FRENTE PRÓPRIA  (EDMILSON)",
     "Profundidade do Sulco": "38",
-    "Fazenda": NaN
+    "Fazenda": null,
+    "Unnamed: 16": null
   },
   {
     "ID": "3491239",
@@ -39454,7 +41649,8 @@ const SULCACAO_DATA = [
     "OS": "5966",
     "Frente": "135 - PEDRINHO ",
     "Profundidade do Sulco": "35",
-    "Fazenda": NaN
+    "Fazenda": null,
+    "Unnamed: 16": null
   },
   {
     "ID": "3490175",
@@ -39472,7 +41668,8 @@ const SULCACAO_DATA = [
     "OS": "5964",
     "Frente": "133 - FRENTE MANÉZÃO",
     "Profundidade do Sulco": "39",
-    "Fazenda": NaN
+    "Fazenda": null,
+    "Unnamed: 16": null
   },
   {
     "ID": "3470019",
@@ -39490,7 +41687,8 @@ const SULCACAO_DATA = [
     "OS": "5491",
     "Frente": "261 - FRENTE PRÓPRIA  (EDMILSON)",
     "Profundidade do Sulco": "37",
-    "Fazenda": NaN
+    "Fazenda": null,
+    "Unnamed: 16": null
   },
   {
     "ID": "3491234",
@@ -39508,7 +41706,8 @@ const SULCACAO_DATA = [
     "OS": "5966",
     "Frente": "135 - PEDRINHO ",
     "Profundidade do Sulco": "38",
-    "Fazenda": NaN
+    "Fazenda": null,
+    "Unnamed: 16": null
   },
   {
     "ID": "3490171",
@@ -39526,7 +41725,8 @@ const SULCACAO_DATA = [
     "OS": "5964",
     "Frente": "133 - FRENTE MANÉZÃO",
     "Profundidade do Sulco": "39",
-    "Fazenda": NaN
+    "Fazenda": null,
+    "Unnamed: 16": null
   },
   {
     "ID": "3491229",
@@ -39544,7 +41744,8 @@ const SULCACAO_DATA = [
     "OS": "5966",
     "Frente": "135 - PEDRINHO ",
     "Profundidade do Sulco": "39",
-    "Fazenda": NaN
+    "Fazenda": null,
+    "Unnamed: 16": null
   },
   {
     "ID": "3491228",
@@ -39562,7 +41763,8 @@ const SULCACAO_DATA = [
     "OS": "5966",
     "Frente": "135 - PEDRINHO ",
     "Profundidade do Sulco": "37",
-    "Fazenda": NaN
+    "Fazenda": null,
+    "Unnamed: 16": null
   },
   {
     "ID": "3470014",
@@ -39580,7 +41782,8 @@ const SULCACAO_DATA = [
     "OS": "5491",
     "Frente": "261 - FRENTE PRÓPRIA  (EDMILSON)",
     "Profundidade do Sulco": "37",
-    "Fazenda": NaN
+    "Fazenda": null,
+    "Unnamed: 16": null
   },
   {
     "ID": "3491220",
@@ -39598,7 +41801,8 @@ const SULCACAO_DATA = [
     "OS": "5966",
     "Frente": "135 - PEDRINHO ",
     "Profundidade do Sulco": "38",
-    "Fazenda": NaN
+    "Fazenda": null,
+    "Unnamed: 16": null
   },
   {
     "ID": "3490165",
@@ -39616,7 +41820,8 @@ const SULCACAO_DATA = [
     "OS": "5964",
     "Frente": "133 - FRENTE MANÉZÃO",
     "Profundidade do Sulco": "39",
-    "Fazenda": NaN
+    "Fazenda": null,
+    "Unnamed: 16": null
   },
   {
     "ID": "3469973",
@@ -39634,7 +41839,8 @@ const SULCACAO_DATA = [
     "OS": "5491",
     "Frente": "261 - FRENTE PRÓPRIA  (EDMILSON)",
     "Profundidade do Sulco": "38",
-    "Fazenda": NaN
+    "Fazenda": null,
+    "Unnamed: 16": null
   },
   {
     "ID": "3469966",
@@ -39652,7 +41858,8 @@ const SULCACAO_DATA = [
     "OS": "5491",
     "Frente": "261 - FRENTE PRÓPRIA  (EDMILSON)",
     "Profundidade do Sulco": "39",
-    "Fazenda": NaN
+    "Fazenda": null,
+    "Unnamed: 16": null
   },
   {
     "ID": "3469961",
@@ -39670,7 +41877,8 @@ const SULCACAO_DATA = [
     "OS": "5491",
     "Frente": "261 - FRENTE PRÓPRIA  (EDMILSON)",
     "Profundidade do Sulco": "38",
-    "Fazenda": NaN
+    "Fazenda": null,
+    "Unnamed: 16": null
   },
   {
     "ID": "3469956",
@@ -39688,7 +41896,8 @@ const SULCACAO_DATA = [
     "OS": "5491",
     "Frente": "261 - FRENTE PRÓPRIA  (EDMILSON)",
     "Profundidade do Sulco": "38",
-    "Fazenda": NaN
+    "Fazenda": null,
+    "Unnamed: 16": null
   },
   {
     "ID": "3468235",
@@ -39706,7 +41915,8 @@ const SULCACAO_DATA = [
     "OS": "5823",
     "Frente": "139 - Manezão",
     "Profundidade do Sulco": "35",
-    "Fazenda": NaN
+    "Fazenda": null,
+    "Unnamed: 16": null
   },
   {
     "ID": "3468187",
@@ -39724,7 +41934,8 @@ const SULCACAO_DATA = [
     "OS": "5964",
     "Frente": "139 - FRENTE MANEZÃO",
     "Profundidade do Sulco": "38",
-    "Fazenda": NaN
+    "Fazenda": null,
+    "Unnamed: 16": null
   },
   {
     "ID": "3468079",
@@ -39742,7 +41953,8 @@ const SULCACAO_DATA = [
     "OS": "5491",
     "Frente": "261 - FRENTE PRÓPRIA  (EDMILSON)",
     "Profundidade do Sulco": "38",
-    "Fazenda": NaN
+    "Fazenda": null,
+    "Unnamed: 16": null
   },
   {
     "ID": "3468011",
@@ -39760,7 +41972,8 @@ const SULCACAO_DATA = [
     "OS": "5962",
     "Frente": "101 - FRENTE MECANIZADA",
     "Profundidade do Sulco": "39",
-    "Fazenda": NaN
+    "Fazenda": null,
+    "Unnamed: 16": null
   },
   {
     "ID": "3468073",
@@ -39778,7 +41991,8 @@ const SULCACAO_DATA = [
     "OS": "5491",
     "Frente": "261 - FRENTE PRÓPRIA  (EDMILSON)",
     "Profundidade do Sulco": "39",
-    "Fazenda": NaN
+    "Fazenda": null,
+    "Unnamed: 16": null
   },
   {
     "ID": "3468008",
@@ -39796,7 +42010,8 @@ const SULCACAO_DATA = [
     "OS": "5962",
     "Frente": "101 - FRENTE MECANIZADA",
     "Profundidade do Sulco": "40",
-    "Fazenda": NaN
+    "Fazenda": null,
+    "Unnamed: 16": null
   },
   {
     "ID": "3468038",
@@ -39814,7 +42029,8 @@ const SULCACAO_DATA = [
     "OS": "5491",
     "Frente": "261 - FRENTE PRÓPRIA  (EDMILSON)",
     "Profundidade do Sulco": "37",
-    "Fazenda": NaN
+    "Fazenda": null,
+    "Unnamed: 16": null
   },
   {
     "ID": "3468033",
@@ -39832,7 +42048,8 @@ const SULCACAO_DATA = [
     "OS": "5491",
     "Frente": "261 - FRENTE PRÓPRIA  (EDMILSON)",
     "Profundidade do Sulco": "39",
-    "Fazenda": NaN
+    "Fazenda": null,
+    "Unnamed: 16": null
   },
   {
     "ID": "3468026",
@@ -39850,7 +42067,8 @@ const SULCACAO_DATA = [
     "OS": "5491",
     "Frente": "261 - FRENTE PRÓPRIA  (EDMILSON)",
     "Profundidade do Sulco": "38",
-    "Fazenda": NaN
+    "Fazenda": null,
+    "Unnamed: 16": null
   },
   {
     "ID": "3467732",
@@ -39868,7 +42086,8 @@ const SULCACAO_DATA = [
     "OS": "5491",
     "Frente": "261 - FRENTE PRÓPRIA  (EDMILSON)",
     "Profundidade do Sulco": "38",
-    "Fazenda": NaN
+    "Fazenda": null,
+    "Unnamed: 16": null
   },
   {
     "ID": "3467727",
@@ -39886,7 +42105,8 @@ const SULCACAO_DATA = [
     "OS": "5491",
     "Frente": "261 - FRENTE PRÓPRIA  (EDMILSON)",
     "Profundidade do Sulco": "38",
-    "Fazenda": NaN
+    "Fazenda": null,
+    "Unnamed: 16": null
   },
   {
     "ID": "3468131",
@@ -39904,7 +42124,8 @@ const SULCACAO_DATA = [
     "OS": "5847",
     "Frente": "143 - FRENTE CASSIO",
     "Profundidade do Sulco": "36",
-    "Fazenda": NaN
+    "Fazenda": null,
+    "Unnamed: 16": null
   },
   {
     "ID": "3467722",
@@ -39922,7 +42143,8 @@ const SULCACAO_DATA = [
     "OS": "5491",
     "Frente": "261 - FRENTE PRÓPRIA  (EDMILSON)",
     "Profundidade do Sulco": "38",
-    "Fazenda": NaN
+    "Fazenda": null,
+    "Unnamed: 16": null
   },
   {
     "ID": "3467663",
@@ -39940,7 +42162,8 @@ const SULCACAO_DATA = [
     "OS": "5962",
     "Frente": "101 - FRENTE MECANIZADA",
     "Profundidade do Sulco": "39",
-    "Fazenda": NaN
+    "Fazenda": null,
+    "Unnamed: 16": null
   },
   {
     "ID": "3468126",
@@ -39958,7 +42181,8 @@ const SULCACAO_DATA = [
     "OS": "5847",
     "Frente": "143 - FRENTE CASSIO",
     "Profundidade do Sulco": "35",
-    "Fazenda": NaN
+    "Fazenda": null,
+    "Unnamed: 16": null
   },
   {
     "ID": "3467605",
@@ -39976,7 +42200,8 @@ const SULCACAO_DATA = [
     "OS": "5823",
     "Frente": "139 - Manezão",
     "Profundidade do Sulco": "37",
-    "Fazenda": NaN
+    "Fazenda": null,
+    "Unnamed: 16": null
   },
   {
     "ID": "3468122",
@@ -39994,7 +42219,8 @@ const SULCACAO_DATA = [
     "OS": "5847",
     "Frente": "143 - FRENTE CASSIO",
     "Profundidade do Sulco": "39",
-    "Fazenda": NaN
+    "Fazenda": null,
+    "Unnamed: 16": null
   },
   {
     "ID": "3467600",
@@ -40012,7 +42238,8 @@ const SULCACAO_DATA = [
     "OS": "5823",
     "Frente": "139 - Manezão",
     "Profundidade do Sulco": "36",
-    "Fazenda": NaN
+    "Fazenda": null,
+    "Unnamed: 16": null
   },
   {
     "ID": "3468117",
@@ -40030,7 +42257,8 @@ const SULCACAO_DATA = [
     "OS": "5847",
     "Frente": "143 - FRENTE CASSIO",
     "Profundidade do Sulco": "36",
-    "Fazenda": NaN
+    "Fazenda": null,
+    "Unnamed: 16": null
   },
   {
     "ID": "3467595",
@@ -40048,7 +42276,8 @@ const SULCACAO_DATA = [
     "OS": "5823",
     "Frente": "139 - Manezão",
     "Profundidade do Sulco": "37",
-    "Fazenda": NaN
+    "Fazenda": null,
+    "Unnamed: 16": null
   },
   {
     "ID": "3468169",
@@ -40066,7 +42295,8 @@ const SULCACAO_DATA = [
     "OS": "5847",
     "Frente": "105 - FRENTE CASSIO (ZACARIAS)",
     "Profundidade do Sulco": "40",
-    "Fazenda": NaN
+    "Fazenda": null,
+    "Unnamed: 16": null
   },
   {
     "ID": "3468112",
@@ -40084,7 +42314,8 @@ const SULCACAO_DATA = [
     "OS": "5847",
     "Frente": "143 - FRENTE CASSIO",
     "Profundidade do Sulco": "36",
-    "Fazenda": NaN
+    "Fazenda": null,
+    "Unnamed: 16": null
   },
   {
     "ID": "3468164",
@@ -40102,7 +42333,8 @@ const SULCACAO_DATA = [
     "OS": "5847",
     "Frente": "105 - FRENTE CASSIO (ZACARIAS)",
     "Profundidade do Sulco": "38",
-    "Fazenda": NaN
+    "Fazenda": null,
+    "Unnamed: 16": null
   },
   {
     "ID": "3468061",
@@ -40120,7 +42352,8 @@ const SULCACAO_DATA = [
     "OS": "5491",
     "Frente": "142 - FRENTE BIDU",
     "Profundidade do Sulco": "39",
-    "Fazenda": NaN
+    "Fazenda": null,
+    "Unnamed: 16": null
   },
   {
     "ID": "3468106",
@@ -40138,7 +42371,8 @@ const SULCACAO_DATA = [
     "OS": "5847",
     "Frente": "143 - FRENTE CASSIO",
     "Profundidade do Sulco": "36",
-    "Fazenda": NaN
+    "Fazenda": null,
+    "Unnamed: 16": null
   },
   {
     "ID": "3468160",
@@ -40156,7 +42390,8 @@ const SULCACAO_DATA = [
     "OS": "5847",
     "Frente": "105 - FRENTE CASSIO (ZACARIAS)",
     "Profundidade do Sulco": "40",
-    "Fazenda": NaN
+    "Fazenda": null,
+    "Unnamed: 16": null
   },
   {
     "ID": "3468058",
@@ -40174,7 +42409,8 @@ const SULCACAO_DATA = [
     "OS": "5491",
     "Frente": "142 - FRENTE BIDU",
     "Profundidade do Sulco": "40",
-    "Fazenda": NaN
+    "Fazenda": null,
+    "Unnamed: 16": null
   },
   {
     "ID": "3468156",
@@ -40192,7 +42428,8 @@ const SULCACAO_DATA = [
     "OS": "5847",
     "Frente": "105 - FRENTE CASSIO (ZACARIAS)",
     "Profundidade do Sulco": "41",
-    "Fazenda": NaN
+    "Fazenda": null,
+    "Unnamed: 16": null
   },
   {
     "ID": "3467705",
@@ -40210,7 +42447,8 @@ const SULCACAO_DATA = [
     "OS": "5491",
     "Frente": "291 - FRENTE PRÓPRIA ",
     "Profundidade do Sulco": "38",
-    "Fazenda": NaN
+    "Fazenda": null,
+    "Unnamed: 16": null
   },
   {
     "ID": "3468050",
@@ -40228,7 +42466,8 @@ const SULCACAO_DATA = [
     "OS": "5491",
     "Frente": "142 - FRENTE BIDU",
     "Profundidade do Sulco": "40",
-    "Fazenda": NaN
+    "Fazenda": null,
+    "Unnamed: 16": null
   },
   {
     "ID": "3467584",
@@ -40246,7 +42485,8 @@ const SULCACAO_DATA = [
     "OS": "5823",
     "Frente": "139 - Manezão",
     "Profundidade do Sulco": "33",
-    "Fazenda": NaN
+    "Fazenda": null,
+    "Unnamed: 16": null
   },
   {
     "ID": "3468152",
@@ -40264,7 +42504,8 @@ const SULCACAO_DATA = [
     "OS": "5847",
     "Frente": "105 - FRENTE CASSIO (ZACARIAS)",
     "Profundidade do Sulco": "38",
-    "Fazenda": NaN
+    "Fazenda": null,
+    "Unnamed: 16": null
   },
   {
     "ID": "3467754",
@@ -40282,7 +42523,8 @@ const SULCACAO_DATA = [
     "OS": "5491",
     "Frente": "291 - FRENTE PRÓPRIA ",
     "Profundidade do Sulco": "38",
-    "Fazenda": NaN
+    "Fazenda": null,
+    "Unnamed: 16": null
   },
   {
     "ID": "3467653",
@@ -40300,7 +42542,8 @@ const SULCACAO_DATA = [
     "OS": "5962",
     "Frente": "101 - FRENTE MECANIZADA",
     "Profundidade do Sulco": "40",
-    "Fazenda": NaN
+    "Fazenda": null,
+    "Unnamed: 16": null
   },
   {
     "ID": "3467577",
@@ -40318,7 +42561,8 @@ const SULCACAO_DATA = [
     "OS": "5823",
     "Frente": "139 - Manezão",
     "Profundidade do Sulco": "34",
-    "Fazenda": NaN
+    "Fazenda": null,
+    "Unnamed: 16": null
   },
   {
     "ID": "3468045",
@@ -40336,7 +42580,8 @@ const SULCACAO_DATA = [
     "OS": "5491",
     "Frente": "142 - FRENTE BIDU",
     "Profundidade do Sulco": "40",
-    "Fazenda": NaN
+    "Fazenda": null,
+    "Unnamed: 16": null
   },
   {
     "ID": "3467693",
@@ -40354,7 +42599,8 @@ const SULCACAO_DATA = [
     "OS": "5491",
     "Frente": "291 - FRENTE PRÓPRIA ",
     "Profundidade do Sulco": "38",
-    "Fazenda": NaN
+    "Fazenda": null,
+    "Unnamed: 16": null
   },
   {
     "ID": "3467640",
@@ -40372,7 +42618,8 @@ const SULCACAO_DATA = [
     "OS": "5491",
     "Frente": "142 - FRENTE BIDU",
     "Profundidade do Sulco": "40",
-    "Fazenda": NaN
+    "Fazenda": null,
+    "Unnamed: 16": null
   },
   {
     "ID": "3467574",
@@ -40390,7 +42637,8 @@ const SULCACAO_DATA = [
     "OS": "5823",
     "Frente": "139 - Manezão",
     "Profundidade do Sulco": "31",
-    "Fazenda": NaN
+    "Fazenda": null,
+    "Unnamed: 16": null
   },
   {
     "ID": "3467680",
@@ -40408,7 +42656,8 @@ const SULCACAO_DATA = [
     "OS": "5491",
     "Frente": "291 - FRENTE PRÓPRIA ",
     "Profundidade do Sulco": "37",
-    "Fazenda": NaN
+    "Fazenda": null,
+    "Unnamed: 16": null
   },
   {
     "ID": "3467647",
@@ -40426,7 +42675,8 @@ const SULCACAO_DATA = [
     "OS": "5962",
     "Frente": "101 - FRENTE MECANIZADA",
     "Profundidade do Sulco": "38",
-    "Fazenda": NaN
+    "Fazenda": null,
+    "Unnamed: 16": null
   },
   {
     "ID": "3467668",
@@ -40444,7 +42694,8 @@ const SULCACAO_DATA = [
     "OS": "5491",
     "Frente": "291 - FRENTE PRÓPRIA ",
     "Profundidade do Sulco": "38",
-    "Fazenda": NaN
+    "Fazenda": null,
+    "Unnamed: 16": null
   },
   {
     "ID": "3467567",
@@ -40462,7 +42713,8 @@ const SULCACAO_DATA = [
     "OS": "5823",
     "Frente": "139 - Manezão",
     "Profundidade do Sulco": "35",
-    "Fazenda": NaN
+    "Fazenda": null,
+    "Unnamed: 16": null
   },
   {
     "ID": "3467562",
@@ -40480,7 +42732,8 @@ const SULCACAO_DATA = [
     "OS": "5823",
     "Frente": "139 - Manezão",
     "Profundidade do Sulco": "40",
-    "Fazenda": NaN
+    "Fazenda": null,
+    "Unnamed: 16": null
   },
   {
     "ID": "3466074",
@@ -40498,7 +42751,8 @@ const SULCACAO_DATA = [
     "OS": "5491",
     "Frente": "291 - FRENTE PRÓPRIA ",
     "Profundidade do Sulco": "38",
-    "Fazenda": NaN
+    "Fazenda": null,
+    "Unnamed: 16": null
   },
   {
     "ID": "3466065",
@@ -40516,7 +42770,8 @@ const SULCACAO_DATA = [
     "OS": "5491",
     "Frente": "291 - FRENTE PRÓPRIA ",
     "Profundidade do Sulco": "38",
-    "Fazenda": NaN
+    "Fazenda": null,
+    "Unnamed: 16": null
   },
   {
     "ID": "3465973",
@@ -40534,7 +42789,8 @@ const SULCACAO_DATA = [
     "OS": "5778",
     "Frente": "101 - FRENTE MECANIZADA",
     "Profundidade do Sulco": "40",
-    "Fazenda": NaN
+    "Fazenda": null,
+    "Unnamed: 16": null
   },
   {
     "ID": "3466059",
@@ -40552,7 +42808,8 @@ const SULCACAO_DATA = [
     "OS": "5491",
     "Frente": "291 - FRENTE PRÓPRIA ",
     "Profundidade do Sulco": "38",
-    "Fazenda": NaN
+    "Fazenda": null,
+    "Unnamed: 16": null
   },
   {
     "ID": "3466054",
@@ -40570,7 +42827,8 @@ const SULCACAO_DATA = [
     "OS": "5491",
     "Frente": "291 - FRENTE PRÓPRIA ",
     "Profundidade do Sulco": "38",
-    "Fazenda": NaN
+    "Fazenda": null,
+    "Unnamed: 16": null
   },
   {
     "ID": "3465828",
@@ -40588,7 +42846,8 @@ const SULCACAO_DATA = [
     "OS": "5491",
     "Frente": "142 - FRENTE BIDU",
     "Profundidade do Sulco": "39",
-    "Fazenda": NaN
+    "Fazenda": null,
+    "Unnamed: 16": null
   },
   {
     "ID": "3465966",
@@ -40606,7 +42865,8 @@ const SULCACAO_DATA = [
     "OS": "5778",
     "Frente": "101 - FRENTE MECANIZADA",
     "Profundidade do Sulco": "38",
-    "Fazenda": NaN
+    "Fazenda": null,
+    "Unnamed: 16": null
   },
   {
     "ID": "3465827",
@@ -40624,7 +42884,8 @@ const SULCACAO_DATA = [
     "OS": "5491",
     "Frente": "142 - FRENTE BIDU",
     "Profundidade do Sulco": "40",
-    "Fazenda": NaN
+    "Fazenda": null,
+    "Unnamed: 16": null
   },
   {
     "ID": "3466047",
@@ -40642,7 +42903,8 @@ const SULCACAO_DATA = [
     "OS": "5491",
     "Frente": "291 - FRENTE PRÓPRIA ",
     "Profundidade do Sulco": "37",
-    "Fazenda": NaN
+    "Fazenda": null,
+    "Unnamed: 16": null
   },
   {
     "ID": "3466092",
@@ -40660,7 +42922,8 @@ const SULCACAO_DATA = [
     "OS": "5491",
     "Frente": "291 - FRENTE PRÓPRIA ",
     "Profundidade do Sulco": "38",
-    "Fazenda": NaN
+    "Fazenda": null,
+    "Unnamed: 16": null
   },
   {
     "ID": "3466006",
@@ -40678,7 +42941,8 @@ const SULCACAO_DATA = [
     "OS": "5491",
     "Frente": "291 - FRENTE PRÓPRIA ",
     "Profundidade do Sulco": "38",
-    "Fazenda": NaN
+    "Fazenda": null,
+    "Unnamed: 16": null
   },
   {
     "ID": "3465824",
@@ -40696,7 +42960,8 @@ const SULCACAO_DATA = [
     "OS": "5491",
     "Frente": "142 - FRENTE BIDU",
     "Profundidade do Sulco": "39",
-    "Fazenda": NaN
+    "Fazenda": null,
+    "Unnamed: 16": null
   },
   {
     "ID": "3465825",
@@ -40714,7 +42979,8 @@ const SULCACAO_DATA = [
     "OS": "5491",
     "Frente": "142 - FRENTE BIDU",
     "Profundidade do Sulco": "40",
-    "Fazenda": NaN
+    "Fazenda": null,
+    "Unnamed: 16": null
   },
   {
     "ID": "3465826",
@@ -40732,7 +42998,8 @@ const SULCACAO_DATA = [
     "OS": "5491",
     "Frente": "142 - FRENTE BIDU",
     "Profundidade do Sulco": "39",
-    "Fazenda": NaN
+    "Fazenda": null,
+    "Unnamed: 16": null
   },
   {
     "ID": "3465558",
@@ -40750,7 +43017,8 @@ const SULCACAO_DATA = [
     "OS": "5491",
     "Frente": "291 - FRENTE PRÓPRIA ",
     "Profundidade do Sulco": "39",
-    "Fazenda": NaN
+    "Fazenda": null,
+    "Unnamed: 16": null
   },
   {
     "ID": "3469388",
@@ -40768,7 +43036,8 @@ const SULCACAO_DATA = [
     "OS": "5847",
     "Frente": "105 - FRENTE CASSIO (ZACARIAS)",
     "Profundidade do Sulco": "38",
-    "Fazenda": NaN
+    "Fazenda": null,
+    "Unnamed: 16": null
   },
   {
     "ID": "3465686",
@@ -40786,7 +43055,8 @@ const SULCACAO_DATA = [
     "OS": "5847",
     "Frente": "105 - FRENTE CASSIO",
     "Profundidade do Sulco": "35",
-    "Fazenda": NaN
+    "Fazenda": null,
+    "Unnamed: 16": null
   },
   {
     "ID": "3465553",
@@ -40804,7 +43074,8 @@ const SULCACAO_DATA = [
     "OS": "5491",
     "Frente": "291 - FRENTE PRÓPRIA ",
     "Profundidade do Sulco": "38",
-    "Fazenda": NaN
+    "Fazenda": null,
+    "Unnamed: 16": null
   },
   {
     "ID": "3466699",
@@ -40822,7 +43093,8 @@ const SULCACAO_DATA = [
     "OS": "5823",
     "Frente": "139 - Manezão",
     "Profundidade do Sulco": "33",
-    "Fazenda": NaN
+    "Fazenda": null,
+    "Unnamed: 16": null
   },
   {
     "ID": "3465548",
@@ -40840,7 +43112,8 @@ const SULCACAO_DATA = [
     "OS": "5491",
     "Frente": "291 - FRENTE PRÓPRIA ",
     "Profundidade do Sulco": "38",
-    "Fazenda": NaN
+    "Fazenda": null,
+    "Unnamed: 16": null
   },
   {
     "ID": "3465682",
@@ -40858,7 +43131,8 @@ const SULCACAO_DATA = [
     "OS": "5847",
     "Frente": "105 - FRENTE CASSIO",
     "Profundidade do Sulco": "37",
-    "Fazenda": NaN
+    "Fazenda": null,
+    "Unnamed: 16": null
   },
   {
     "ID": "3466693",
@@ -40876,7 +43150,8 @@ const SULCACAO_DATA = [
     "OS": "5823",
     "Frente": "139 - Manezão",
     "Profundidade do Sulco": "30",
-    "Fazenda": NaN
+    "Fazenda": null,
+    "Unnamed: 16": null
   },
   {
     "ID": "3469383",
@@ -40894,7 +43169,8 @@ const SULCACAO_DATA = [
     "OS": "5847",
     "Frente": "105 - FRENTE CASSIO (ZACARIAS)",
     "Profundidade do Sulco": "40",
-    "Fazenda": NaN
+    "Fazenda": null,
+    "Unnamed: 16": null
   },
   {
     "ID": "3465678",
@@ -40912,7 +43188,8 @@ const SULCACAO_DATA = [
     "OS": "5847",
     "Frente": "105 - FRENTE CASSIO",
     "Profundidade do Sulco": "35",
-    "Fazenda": NaN
+    "Fazenda": null,
+    "Unnamed: 16": null
   },
   {
     "ID": "3466688",
@@ -40930,7 +43207,8 @@ const SULCACAO_DATA = [
     "OS": "5823",
     "Frente": "139 - Manezão",
     "Profundidade do Sulco": "28",
-    "Fazenda": NaN
+    "Fazenda": null,
+    "Unnamed: 16": null
   },
   {
     "ID": "3466687",
@@ -40948,7 +43226,8 @@ const SULCACAO_DATA = [
     "OS": "5823",
     "Frente": "139 - Manezão",
     "Profundidade do Sulco": "31",
-    "Fazenda": NaN
+    "Fazenda": null,
+    "Unnamed: 16": null
   },
   {
     "ID": "3469378",
@@ -40966,7 +43245,8 @@ const SULCACAO_DATA = [
     "OS": "5847",
     "Frente": "105 - FRENTE CASSIO (ZACARIAS)",
     "Profundidade do Sulco": "38",
-    "Fazenda": NaN
+    "Fazenda": null,
+    "Unnamed: 16": null
   },
   {
     "ID": "3465619",
@@ -40984,7 +43264,8 @@ const SULCACAO_DATA = [
     "OS": "5847",
     "Frente": "105 - FRENTE CASSIO",
     "Profundidade do Sulco": "36",
-    "Fazenda": NaN
+    "Fazenda": null,
+    "Unnamed: 16": null
   },
   {
     "ID": "3469373",
@@ -41002,7 +43283,8 @@ const SULCACAO_DATA = [
     "OS": "5847",
     "Frente": "105 - FRENTE CASSIO (ZACARIAS)",
     "Profundidade do Sulco": "42",
-    "Fazenda": NaN
+    "Fazenda": null,
+    "Unnamed: 16": null
   },
   {
     "ID": "3465516",
@@ -41020,7 +43302,8 @@ const SULCACAO_DATA = [
     "OS": "5778",
     "Frente": "101 - FRENTE MECANIZADA",
     "Profundidade do Sulco": "39",
-    "Fazenda": NaN
+    "Fazenda": null,
+    "Unnamed: 16": null
   },
   {
     "ID": "3469369",
@@ -41038,7 +43321,8 @@ const SULCACAO_DATA = [
     "OS": "5847",
     "Frente": "105 - FRENTE CASSIO (ZACARIAS)",
     "Profundidade do Sulco": "40",
-    "Fazenda": NaN
+    "Fazenda": null,
+    "Unnamed: 16": null
   },
   {
     "ID": "3465615",
@@ -41056,7 +43340,8 @@ const SULCACAO_DATA = [
     "OS": "5847",
     "Frente": "105 - FRENTE CASSIO (ZACARIAS)",
     "Profundidade do Sulco": "37",
-    "Fazenda": NaN
+    "Fazenda": null,
+    "Unnamed: 16": null
   },
   {
     "ID": "3465511",
@@ -41074,7 +43359,8 @@ const SULCACAO_DATA = [
     "OS": "5778",
     "Frente": "101 - FRENTE MECANIZADA",
     "Profundidade do Sulco": "38",
-    "Fazenda": NaN
+    "Fazenda": null,
+    "Unnamed: 16": null
   },
   {
     "ID": "3465503",
@@ -41092,7 +43378,8 @@ const SULCACAO_DATA = [
     "OS": "5778",
     "Frente": "101 - FRENTE MECANIZADA",
     "Profundidade do Sulco": "39",
-    "Fazenda": NaN
+    "Fazenda": null,
+    "Unnamed: 16": null
   },
   {
     "ID": "3463863",
@@ -41110,7 +43397,8 @@ const SULCACAO_DATA = [
     "OS": "5491",
     "Frente": "261 - FRENTE PRÓPRIA  (EDMILSON)",
     "Profundidade do Sulco": "38",
-    "Fazenda": NaN
+    "Fazenda": null,
+    "Unnamed: 16": null
   },
   {
     "ID": "3463854",
@@ -41128,7 +43416,8 @@ const SULCACAO_DATA = [
     "OS": "5491",
     "Frente": "261 - FRENTE PRÓPRIA  (EDMILSON)",
     "Profundidade do Sulco": "37",
-    "Fazenda": NaN
+    "Fazenda": null,
+    "Unnamed: 16": null
   },
   {
     "ID": "3463830",
@@ -41146,7 +43435,8 @@ const SULCACAO_DATA = [
     "OS": "5491",
     "Frente": "261 - FRENTE PRÓPRIA  (EDMILSON)",
     "Profundidade do Sulco": "38",
-    "Fazenda": NaN
+    "Fazenda": null,
+    "Unnamed: 16": null
   },
   {
     "ID": "3463822",
@@ -41164,7 +43454,8 @@ const SULCACAO_DATA = [
     "OS": "5491",
     "Frente": "261 - FRENTE PRÓPRIA  (EDMILSON)",
     "Profundidade do Sulco": "38",
-    "Fazenda": NaN
+    "Fazenda": null,
+    "Unnamed: 16": null
   },
   {
     "ID": "3463766",
@@ -41182,7 +43473,8 @@ const SULCACAO_DATA = [
     "OS": "5847",
     "Frente": "105 - FRENTE CASSIO (ZACARIAS)",
     "Profundidade do Sulco": "36",
-    "Fazenda": NaN
+    "Fazenda": null,
+    "Unnamed: 16": null
   },
   {
     "ID": "3464589",
@@ -41200,7 +43492,8 @@ const SULCACAO_DATA = [
     "OS": "5491",
     "Frente": "261 - FRENTE PRÓPRIA  (EDMILSON)",
     "Profundidade do Sulco": "38",
-    "Fazenda": NaN
+    "Fazenda": null,
+    "Unnamed: 16": null
   },
   {
     "ID": "3463759",
@@ -41218,7 +43511,8 @@ const SULCACAO_DATA = [
     "OS": "5847j",
     "Frente": "105 - FRENTE CASSIO (ZACARIAS)",
     "Profundidade do Sulco": "37",
-    "Fazenda": NaN
+    "Fazenda": null,
+    "Unnamed: 16": null
   },
   {
     "ID": "3464584",
@@ -41236,7 +43530,8 @@ const SULCACAO_DATA = [
     "OS": "5491",
     "Frente": "261 - FRENTE PRÓPRIA  (EDMILSON)",
     "Profundidade do Sulco": "39",
-    "Fazenda": NaN
+    "Fazenda": null,
+    "Unnamed: 16": null
   },
   {
     "ID": "3463754",
@@ -41254,7 +43549,8 @@ const SULCACAO_DATA = [
     "OS": "5847",
     "Frente": "105 - FRENTE CASSIO (ZACARIAS)",
     "Profundidade do Sulco": "36",
-    "Fazenda": NaN
+    "Fazenda": null,
+    "Unnamed: 16": null
   },
   {
     "ID": "3463696",
@@ -41272,7 +43568,8 @@ const SULCACAO_DATA = [
     "OS": "5491",
     "Frente": "142 - FRENTE BIDU",
     "Profundidade do Sulco": "39",
-    "Fazenda": NaN
+    "Fazenda": null,
+    "Unnamed: 16": null
   },
   {
     "ID": "3463694",
@@ -41290,7 +43587,8 @@ const SULCACAO_DATA = [
     "OS": "5491",
     "Frente": "142 - FRENTE BIDU",
     "Profundidade do Sulco": "38",
-    "Fazenda": NaN
+    "Fazenda": null,
+    "Unnamed: 16": null
   },
   {
     "ID": "3463693",
@@ -41308,7 +43606,8 @@ const SULCACAO_DATA = [
     "OS": "5491",
     "Frente": "142 - FRENTE BIDU",
     "Profundidade do Sulco": "40",
-    "Fazenda": NaN
+    "Fazenda": null,
+    "Unnamed: 16": null
   },
   {
     "ID": "3463745",
@@ -41326,7 +43625,8 @@ const SULCACAO_DATA = [
     "OS": "5566",
     "Frente": "105 - FRENTE CASSIO (ZACARIAS)",
     "Profundidade do Sulco": "38",
-    "Fazenda": NaN
+    "Fazenda": null,
+    "Unnamed: 16": null
   },
   {
     "ID": "3463740",
@@ -41344,7 +43644,8 @@ const SULCACAO_DATA = [
     "OS": "5566",
     "Frente": "105 - FRENTE CASSIO (ZACARIAS)",
     "Profundidade do Sulco": "38",
-    "Fazenda": NaN
+    "Fazenda": null,
+    "Unnamed: 16": null
   },
   {
     "ID": "3463848",
@@ -41362,7 +43663,8 @@ const SULCACAO_DATA = [
     "OS": "5778",
     "Frente": "101 - FRENTE MECANIZADA",
     "Profundidade do Sulco": "37",
-    "Fazenda": NaN
+    "Fazenda": null,
+    "Unnamed: 16": null
   },
   {
     "ID": "3463735",
@@ -41380,7 +43682,8 @@ const SULCACAO_DATA = [
     "OS": "5566",
     "Frente": "105 - FRENTE CASSIO (ZACARIAS)",
     "Profundidade do Sulco": "40",
-    "Fazenda": NaN
+    "Fazenda": null,
+    "Unnamed: 16": null
   },
   {
     "ID": "3463841",
@@ -41398,7 +43701,8 @@ const SULCACAO_DATA = [
     "OS": "5778",
     "Frente": "101 - FRENTE MECANIZADA",
     "Profundidade do Sulco": "39",
-    "Fazenda": NaN
+    "Fazenda": null,
+    "Unnamed: 16": null
   },
   {
     "ID": "3463729",
@@ -41416,7 +43720,8 @@ const SULCACAO_DATA = [
     "OS": "5566u/4 ",
     "Frente": "105 - FRENTE CASSIO (ZACARIAS)",
     "Profundidade do Sulco": "37",
-    "Fazenda": NaN
+    "Fazenda": null,
+    "Unnamed: 16": null
   },
   {
     "ID": "3463681",
@@ -41434,7 +43739,8 @@ const SULCACAO_DATA = [
     "OS": "5566",
     "Frente": "105 - FRENTE CASSIO (ZACARIAS)",
     "Profundidade do Sulco": "39",
-    "Fazenda": NaN
+    "Fazenda": null,
+    "Unnamed: 16": null
   },
   {
     "ID": "3463341",
@@ -41452,7 +43758,8 @@ const SULCACAO_DATA = [
     "OS": "5823",
     "Frente": "139 - FRENTE MANEZÃO",
     "Profundidade do Sulco": "38",
-    "Fazenda": NaN
+    "Fazenda": null,
+    "Unnamed: 16": null
   },
   {
     "ID": "3463330",
@@ -41470,7 +43777,8 @@ const SULCACAO_DATA = [
     "OS": "5823",
     "Frente": "139 - FRENTE MANEZÃO",
     "Profundidade do Sulco": "38",
-    "Fazenda": NaN
+    "Fazenda": null,
+    "Unnamed: 16": null
   },
   {
     "ID": "3461781",
@@ -41488,7 +43796,8 @@ const SULCACAO_DATA = [
     "OS": "5491",
     "Frente": "261 - FRENTE PRÓPRIA  (EDMILSON)",
     "Profundidade do Sulco": "38",
-    "Fazenda": NaN
+    "Fazenda": null,
+    "Unnamed: 16": null
   },
   {
     "ID": "3461774",
@@ -41506,7 +43815,8 @@ const SULCACAO_DATA = [
     "OS": "5491",
     "Frente": "261 - FRENTE PRÓPRIA  (EDMILSON)",
     "Profundidade do Sulco": "38",
-    "Fazenda": NaN
+    "Fazenda": null,
+    "Unnamed: 16": null
   },
   {
     "ID": "3461767",
@@ -41524,7 +43834,8 @@ const SULCACAO_DATA = [
     "OS": "5491",
     "Frente": "261 - FRENTE PRÓPRIA  (EDMILSON)",
     "Profundidade do Sulco": "38",
-    "Fazenda": NaN
+    "Fazenda": null,
+    "Unnamed: 16": null
   },
   {
     "ID": "3461633",
@@ -41542,7 +43853,8 @@ const SULCACAO_DATA = [
     "OS": "5491",
     "Frente": "261 - FRENTE PRÓPRIA  (EDMILSON)",
     "Profundidade do Sulco": "38",
-    "Fazenda": NaN
+    "Fazenda": null,
+    "Unnamed: 16": null
   },
   {
     "ID": "3461619",
@@ -41560,7 +43872,8 @@ const SULCACAO_DATA = [
     "OS": "5491",
     "Frente": "261 - FRENTE PRÓPRIA  (EDMILSON)",
     "Profundidade do Sulco": "38",
-    "Fazenda": NaN
+    "Fazenda": null,
+    "Unnamed: 16": null
   },
   {
     "ID": "3461612",
@@ -41578,7 +43891,8 @@ const SULCACAO_DATA = [
     "OS": "5491",
     "Frente": "261 - FRENTE PRÓPRIA  (EDMILSON)",
     "Profundidade do Sulco": "38",
-    "Fazenda": NaN
+    "Fazenda": null,
+    "Unnamed: 16": null
   },
   {
     "ID": "3461599",
@@ -41596,7 +43910,8 @@ const SULCACAO_DATA = [
     "OS": "5491",
     "Frente": "261 - FRENTE PRÓPRIA  (EDMILSON)",
     "Profundidade do Sulco": "37",
-    "Fazenda": NaN
+    "Fazenda": null,
+    "Unnamed: 16": null
   },
   {
     "ID": "3461594",
@@ -41614,7 +43929,8 @@ const SULCACAO_DATA = [
     "OS": "5491",
     "Frente": "261 - FRENTE PRÓPRIA  (EDMILSON)",
     "Profundidade do Sulco": "38",
-    "Fazenda": NaN
+    "Fazenda": null,
+    "Unnamed: 16": null
   },
   {
     "ID": "3461590",
@@ -41632,7 +43948,8 @@ const SULCACAO_DATA = [
     "OS": "5491",
     "Frente": "261 - FRENTE PRÓPRIA  (EDMILSON)",
     "Profundidade do Sulco": "38",
-    "Fazenda": NaN
+    "Fazenda": null,
+    "Unnamed: 16": null
   },
   {
     "ID": "3461585",
@@ -41650,7 +43967,8 @@ const SULCACAO_DATA = [
     "OS": "5491",
     "Frente": "261 - FRENTE PRÓPRIA  (EDMILSON)",
     "Profundidade do Sulco": "38",
-    "Fazenda": NaN
+    "Fazenda": null,
+    "Unnamed: 16": null
   },
   {
     "ID": "3461572",
@@ -41668,7 +43986,8 @@ const SULCACAO_DATA = [
     "OS": "5491",
     "Frente": "261 - FRENTE PRÓPRIA  (EDMILSON)",
     "Profundidade do Sulco": "38",
-    "Fazenda": NaN
+    "Fazenda": null,
+    "Unnamed: 16": null
   },
   {
     "ID": "3455029",
@@ -41686,7 +44005,8 @@ const SULCACAO_DATA = [
     "OS": "5391",
     "Frente": "261 - FRENTE PRÓPRIA  (EDMILSON)",
     "Profundidade do Sulco": "37",
-    "Fazenda": NaN
+    "Fazenda": null,
+    "Unnamed: 16": null
   },
   {
     "ID": "3455024",
@@ -41704,7 +44024,8 @@ const SULCACAO_DATA = [
     "OS": "5491",
     "Frente": "261 - FRENTE PRÓPRIA  (EDMILSON)",
     "Profundidade do Sulco": "39",
-    "Fazenda": NaN
+    "Fazenda": null,
+    "Unnamed: 16": null
   },
   {
     "ID": "3455019",
@@ -41722,7 +44043,8 @@ const SULCACAO_DATA = [
     "OS": "5491",
     "Frente": "261 - FRENTE PRÓPRIA  (EDMILSON)",
     "Profundidade do Sulco": "38",
-    "Fazenda": NaN
+    "Fazenda": null,
+    "Unnamed: 16": null
   },
   {
     "ID": "3454932",
@@ -41740,7 +44062,8 @@ const SULCACAO_DATA = [
     "OS": "5778",
     "Frente": "101 - FRENTE MECANIZADA",
     "Profundidade do Sulco": "38",
-    "Fazenda": NaN
+    "Fazenda": null,
+    "Unnamed: 16": null
   },
   {
     "ID": "3455014",
@@ -41758,7 +44081,8 @@ const SULCACAO_DATA = [
     "OS": "5491",
     "Frente": "261 - FRENTE PRÓPRIA  (EDMILSON)",
     "Profundidade do Sulco": "38",
-    "Fazenda": NaN
+    "Fazenda": null,
+    "Unnamed: 16": null
   },
   {
     "ID": "3454836",
@@ -41776,7 +44100,8 @@ const SULCACAO_DATA = [
     "OS": "5823",
     "Frente": "139 - Manezão",
     "Profundidade do Sulco": "35",
-    "Fazenda": NaN
+    "Fazenda": null,
+    "Unnamed: 16": null
   },
   {
     "ID": "3455006",
@@ -41794,7 +44119,8 @@ const SULCACAO_DATA = [
     "OS": "5491",
     "Frente": "261 - FRENTE PRÓPRIA  (EDMILSON)",
     "Profundidade do Sulco": "38",
-    "Fazenda": NaN
+    "Fazenda": null,
+    "Unnamed: 16": null
   },
   {
     "ID": "3454833",
@@ -41812,7 +44138,8 @@ const SULCACAO_DATA = [
     "OS": "5823",
     "Frente": "139 - Manezão",
     "Profundidade do Sulco": "38",
-    "Fazenda": NaN
+    "Fazenda": null,
+    "Unnamed: 16": null
   },
   {
     "ID": "3454886",
@@ -41830,7 +44157,8 @@ const SULCACAO_DATA = [
     "OS": "5566",
     "Frente": "105 - FRENTE CASSIO (ZACARIAS)",
     "Profundidade do Sulco": "40",
-    "Fazenda": NaN
+    "Fazenda": null,
+    "Unnamed: 16": null
   },
   {
     "ID": "3455000",
@@ -41848,7 +44176,8 @@ const SULCACAO_DATA = [
     "OS": "5491",
     "Frente": "261 - FRENTE PRÓPRIA  (EDMILSON)",
     "Profundidade do Sulco": "37",
-    "Fazenda": NaN
+    "Fazenda": null,
+    "Unnamed: 16": null
   },
   {
     "ID": "3454927",
@@ -41866,7 +44195,8 @@ const SULCACAO_DATA = [
     "OS": "5778",
     "Frente": "101 - FRENTE MECANIZADA",
     "Profundidade do Sulco": "37",
-    "Fazenda": NaN
+    "Fazenda": null,
+    "Unnamed: 16": null
   },
   {
     "ID": "3454921",
@@ -41884,7 +44214,8 @@ const SULCACAO_DATA = [
     "OS": "5778",
     "Frente": "101 - FRENTE MECANIZADA",
     "Profundidade do Sulco": "35",
-    "Fazenda": NaN
+    "Fazenda": null,
+    "Unnamed: 16": null
   },
   {
     "ID": "3454881",
@@ -41902,7 +44233,8 @@ const SULCACAO_DATA = [
     "OS": "5566",
     "Frente": "105 - FRENTE CASSIO (ZACARIAS)",
     "Profundidade do Sulco": "39",
-    "Fazenda": NaN
+    "Fazenda": null,
+    "Unnamed: 16": null
   },
   {
     "ID": "3454869",
@@ -41920,7 +44252,8 @@ const SULCACAO_DATA = [
     "OS": "5566",
     "Frente": "105 - FRENTE CASSIO (ZACARIAS)",
     "Profundidade do Sulco": "43",
-    "Fazenda": NaN
+    "Fazenda": null,
+    "Unnamed: 16": null
   },
   {
     "ID": "3454864",
@@ -41938,7 +44271,8 @@ const SULCACAO_DATA = [
     "OS": "5566",
     "Frente": "105 - FRENTE CASSIO (ZACARIAS)",
     "Profundidade do Sulco": "38",
-    "Fazenda": NaN
+    "Fazenda": null,
+    "Unnamed: 16": null
   },
   {
     "ID": "3454274",
@@ -41956,7 +44290,8 @@ const SULCACAO_DATA = [
     "OS": "5625",
     "Frente": "135 - PEDRINHO ",
     "Profundidade do Sulco": "37",
-    "Fazenda": NaN
+    "Fazenda": null,
+    "Unnamed: 16": null
   },
   {
     "ID": "3454270",
@@ -41974,7 +44309,8 @@ const SULCACAO_DATA = [
     "OS": "5625",
     "Frente": "135 - PEDRINHO ",
     "Profundidade do Sulco": "37",
-    "Fazenda": NaN
+    "Fazenda": null,
+    "Unnamed: 16": null
   },
   {
     "ID": "3454227",
@@ -41992,7 +44328,8 @@ const SULCACAO_DATA = [
     "OS": "5656",
     "Frente": "142 - FRENTE BIDU",
     "Profundidade do Sulco": "36",
-    "Fazenda": NaN
+    "Fazenda": null,
+    "Unnamed: 16": null
   },
   {
     "ID": "3454224",
@@ -42010,7 +44347,8 @@ const SULCACAO_DATA = [
     "OS": "5656",
     "Frente": "142 - FRENTE BIDU",
     "Profundidade do Sulco": "38",
-    "Fazenda": NaN
+    "Fazenda": null,
+    "Unnamed: 16": null
   },
   {
     "ID": "3454220",
@@ -42028,7 +44366,8 @@ const SULCACAO_DATA = [
     "OS": "5656",
     "Frente": "142 - FRENTE BIDU",
     "Profundidade do Sulco": "37",
-    "Fazenda": NaN
+    "Fazenda": null,
+    "Unnamed: 16": null
   },
   {
     "ID": "3454257",
@@ -42046,7 +44385,8 @@ const SULCACAO_DATA = [
     "OS": "5625",
     "Frente": "135 - PEDRINHO ",
     "Profundidade do Sulco": "38",
-    "Fazenda": NaN
+    "Fazenda": null,
+    "Unnamed: 16": null
   },
   {
     "ID": "3454253",
@@ -42064,7 +44404,8 @@ const SULCACAO_DATA = [
     "OS": "5625",
     "Frente": "135 - PEDRINHO ",
     "Profundidade do Sulco": "38",
-    "Fazenda": NaN
+    "Fazenda": null,
+    "Unnamed: 16": null
   },
   {
     "ID": "3449580",
@@ -42082,7 +44423,8 @@ const SULCACAO_DATA = [
     "OS": "5625",
     "Frente": "135 - PEDRINHO ",
     "Profundidade do Sulco": "37",
-    "Fazenda": NaN
+    "Fazenda": null,
+    "Unnamed: 16": null
   },
   {
     "ID": "3449758",
@@ -42100,7 +44442,8 @@ const SULCACAO_DATA = [
     "OS": "5566",
     "Frente": "105 - FRENTE CASSIO (ZACARIAS)",
     "Profundidade do Sulco": "42",
-    "Fazenda": NaN
+    "Fazenda": null,
+    "Unnamed: 16": null
   },
   {
     "ID": "3449752",
@@ -42118,7 +44461,8 @@ const SULCACAO_DATA = [
     "OS": "5566",
     "Frente": "105 - FRENTE CASSIO (ZACARIAS)",
     "Profundidade do Sulco": "43",
-    "Fazenda": NaN
+    "Fazenda": null,
+    "Unnamed: 16": null
   },
   {
     "ID": "3449748",
@@ -42136,7 +44480,8 @@ const SULCACAO_DATA = [
     "OS": "5566",
     "Frente": "105 - FRENTE CASSIO (ZACARIAS)",
     "Profundidade do Sulco": "40",
-    "Fazenda": NaN
+    "Fazenda": null,
+    "Unnamed: 16": null
   },
   {
     "ID": "3449743",
@@ -42154,7 +44499,8 @@ const SULCACAO_DATA = [
     "OS": "5566",
     "Frente": "105 - FRENTE CASSIO (ZACARIAS)",
     "Profundidade do Sulco": "41",
-    "Fazenda": NaN
+    "Fazenda": null,
+    "Unnamed: 16": null
   },
   {
     "ID": "3447523",
@@ -42172,7 +44518,8 @@ const SULCACAO_DATA = [
     "OS": "5625",
     "Frente": "135 - PEDRINHO ",
     "Profundidade do Sulco": "37",
-    "Fazenda": NaN
+    "Fazenda": null,
+    "Unnamed: 16": null
   },
   {
     "ID": "3447504",
@@ -42190,7 +44537,8 @@ const SULCACAO_DATA = [
     "OS": "5625",
     "Frente": "135 - PEDRINHO ",
     "Profundidade do Sulco": "36",
-    "Fazenda": NaN
+    "Fazenda": null,
+    "Unnamed: 16": null
   },
   {
     "ID": "3449674",
@@ -42208,7 +44556,8 @@ const SULCACAO_DATA = [
     "OS": "5625",
     "Frente": "135 - FRENTE PEDRINHO",
     "Profundidade do Sulco": "37",
-    "Fazenda": NaN
+    "Fazenda": null,
+    "Unnamed: 16": null
   },
   {
     "ID": "3447501",
@@ -42226,7 +44575,8 @@ const SULCACAO_DATA = [
     "OS": "5625",
     "Frente": "135 - PEDRINHO ",
     "Profundidade do Sulco": "37",
-    "Fazenda": NaN
+    "Fazenda": null,
+    "Unnamed: 16": null
   },
   {
     "ID": "3449669",
@@ -42244,7 +44594,8 @@ const SULCACAO_DATA = [
     "OS": "5625",
     "Frente": "135 - FRENTE PEDRINHO",
     "Profundidade do Sulco": "36",
-    "Fazenda": NaN
+    "Fazenda": null,
+    "Unnamed: 16": null
   },
   {
     "ID": "3447497",
@@ -42262,7 +44613,8 @@ const SULCACAO_DATA = [
     "OS": "5625",
     "Frente": "135 - PEDRINHO ",
     "Profundidade do Sulco": "37",
-    "Fazenda": NaN
+    "Fazenda": null,
+    "Unnamed: 16": null
   },
   {
     "ID": "3449689",
@@ -42280,7 +44632,8 @@ const SULCACAO_DATA = [
     "OS": "5625",
     "Frente": "135 - FRENTE PEDRINHO",
     "Profundidade do Sulco": "38",
-    "Fazenda": NaN
+    "Fazenda": null,
+    "Unnamed: 16": null
   },
   {
     "ID": "3445798",
@@ -42298,7 +44651,8 @@ const SULCACAO_DATA = [
     "OS": "5625",
     "Frente": "135 - PEDRINHO ",
     "Profundidade do Sulco": "37",
-    "Fazenda": NaN
+    "Fazenda": null,
+    "Unnamed: 16": null
   },
   {
     "ID": "3445679",
@@ -42316,7 +44670,8 @@ const SULCACAO_DATA = [
     "OS": "5656",
     "Frente": "142 - FRENTE BIDU",
     "Profundidade do Sulco": "39",
-    "Fazenda": NaN
+    "Fazenda": null,
+    "Unnamed: 16": null
   },
   {
     "ID": "3445793",
@@ -42334,7 +44689,8 @@ const SULCACAO_DATA = [
     "OS": "5625",
     "Frente": "135 - PEDRINHO ",
     "Profundidade do Sulco": "38",
-    "Fazenda": NaN
+    "Fazenda": null,
+    "Unnamed: 16": null
   },
   {
     "ID": "3445675",
@@ -42352,7 +44708,8 @@ const SULCACAO_DATA = [
     "OS": "5656",
     "Frente": "142 - FRENTE BIDU",
     "Profundidade do Sulco": "40",
-    "Fazenda": NaN
+    "Fazenda": null,
+    "Unnamed: 16": null
   },
   {
     "ID": "3445786",
@@ -42370,7 +44727,8 @@ const SULCACAO_DATA = [
     "OS": "5625",
     "Frente": "135 - PEDRINHO ",
     "Profundidade do Sulco": "36",
-    "Fazenda": NaN
+    "Fazenda": null,
+    "Unnamed: 16": null
   },
   {
     "ID": "3445782",
@@ -42388,7 +44746,8 @@ const SULCACAO_DATA = [
     "OS": "5625",
     "Frente": "135 - PEDRINHO ",
     "Profundidade do Sulco": "38",
-    "Fazenda": NaN
+    "Fazenda": null,
+    "Unnamed: 16": null
   },
   {
     "ID": "3445565",
@@ -42406,7 +44765,8 @@ const SULCACAO_DATA = [
     "OS": "5628",
     "Frente": "101 - FRENTE MECANIZADA",
     "Profundidade do Sulco": "39",
-    "Fazenda": NaN
+    "Fazenda": null,
+    "Unnamed: 16": null
   },
   {
     "ID": "3445561",
@@ -42424,7 +44784,8 @@ const SULCACAO_DATA = [
     "OS": "5628",
     "Frente": "101 - FRENTE MECANIZADA",
     "Profundidade do Sulco": "38",
-    "Fazenda": NaN
+    "Fazenda": null,
+    "Unnamed: 16": null
   },
   {
     "ID": "3433568",
@@ -42442,7 +44803,8 @@ const SULCACAO_DATA = [
     "OS": "5625 - 70411",
     "Frente": "135 - FRENTE PEDRINHO",
     "Profundidade do Sulco": "36",
-    "Fazenda": NaN
+    "Fazenda": null,
+    "Unnamed: 16": null
   },
   {
     "ID": "3433630",
@@ -42460,7 +44822,8 @@ const SULCACAO_DATA = [
     "OS": "5566 - 70411",
     "Frente": "105 - FRENTE CASSIO (ZACARIAS)",
     "Profundidade do Sulco": "39",
-    "Fazenda": NaN
+    "Fazenda": null,
+    "Unnamed: 16": null
   },
   {
     "ID": "3433635",
@@ -42478,7 +44841,8 @@ const SULCACAO_DATA = [
     "OS": "5566 - 70411",
     "Frente": "105 - FRENTE CASSIO (ZACARIAS)",
     "Profundidade do Sulco": "40",
-    "Fazenda": NaN
+    "Fazenda": null,
+    "Unnamed: 16": null
   },
   {
     "ID": "3433752",
@@ -42496,7 +44860,8 @@ const SULCACAO_DATA = [
     "OS": "5628 - 70427",
     "Frente": "101 - FRENTE MECANIZADA",
     "Profundidade do Sulco": "37",
-    "Fazenda": NaN
+    "Fazenda": null,
+    "Unnamed: 16": null
   },
   {
     "ID": "3433709",
@@ -42514,7 +44879,8 @@ const SULCACAO_DATA = [
     "OS": "5628 - 70427",
     "Frente": "101 - FRENTE MECANIZADA",
     "Profundidade do Sulco": "37",
-    "Fazenda": NaN
+    "Fazenda": null,
+    "Unnamed: 16": null
   },
   {
     "ID": "3433653",
@@ -42532,7 +44898,8 @@ const SULCACAO_DATA = [
     "OS": "5566 - 70411",
     "Frente": "105 - FRENTE CASSIO (ZACARIAS)",
     "Profundidade do Sulco": "42",
-    "Fazenda": NaN
+    "Fazenda": null,
+    "Unnamed: 16": null
   },
   {
     "ID": "3433584",
@@ -42550,7 +44917,8 @@ const SULCACAO_DATA = [
     "OS": "5625 - 70411",
     "Frente": "135 - FRENTE PEDRINHO",
     "Profundidade do Sulco": "35",
-    "Fazenda": NaN
+    "Fazenda": null,
+    "Unnamed: 16": null
   },
   {
     "ID": "3433588",
@@ -42568,7 +44936,8 @@ const SULCACAO_DATA = [
     "OS": "5625 - 70411",
     "Frente": "135 - FRENTE PEDRINHO",
     "Profundidade do Sulco": "38",
-    "Fazenda": NaN
+    "Fazenda": null,
+    "Unnamed: 16": null
   },
   {
     "ID": "3433768",
@@ -42586,7 +44955,8 @@ const SULCACAO_DATA = [
     "OS": "5624 - 70411",
     "Frente": "122 - Frente  Bidu",
     "Profundidade do Sulco": "38",
-    "Fazenda": NaN
+    "Fazenda": null,
+    "Unnamed: 16": null
   },
   {
     "ID": "3435348",
@@ -42604,7 +44974,8 @@ const SULCACAO_DATA = [
     "OS": "5491 - 70417",
     "Frente": "291 - FRENTE PRÓPRIA ",
     "Profundidade do Sulco": "39",
-    "Fazenda": NaN
+    "Fazenda": null,
+    "Unnamed: 16": null
   },
   {
     "ID": "3435353",
@@ -42622,7 +44993,8 @@ const SULCACAO_DATA = [
     "OS": "5491 - 70417",
     "Frente": "291 - FRENTE PRÓPRIA ",
     "Profundidade do Sulco": "37",
-    "Fazenda": NaN
+    "Fazenda": null,
+    "Unnamed: 16": null
   },
   {
     "ID": "3435359",
@@ -42640,7 +45012,8 @@ const SULCACAO_DATA = [
     "OS": "5491 - 70417",
     "Frente": "291 - FRENTE PRÓPRIA ",
     "Profundidade do Sulco": "39",
-    "Fazenda": NaN
+    "Fazenda": null,
+    "Unnamed: 16": null
   },
   {
     "ID": "3435371",
@@ -42658,7 +45031,8 @@ const SULCACAO_DATA = [
     "OS": "5491 - 70417",
     "Frente": "291 - FRENTE PRÓPRIA ",
     "Profundidade do Sulco": "38",
-    "Fazenda": NaN
+    "Fazenda": null,
+    "Unnamed: 16": null
   },
   {
     "ID": "3435376",
@@ -42676,7 +45050,8 @@ const SULCACAO_DATA = [
     "OS": "5491 - 70417",
     "Frente": "291 - FRENTE PRÓPRIA ",
     "Profundidade do Sulco": "37",
-    "Fazenda": NaN
+    "Fazenda": null,
+    "Unnamed: 16": null
   },
   {
     "ID": "3435380",
@@ -42694,7 +45069,8 @@ const SULCACAO_DATA = [
     "OS": "5491 - 70417",
     "Frente": "291 - FRENTE PRÓPRIA ",
     "Profundidade do Sulco": "38",
-    "Fazenda": NaN
+    "Fazenda": null,
+    "Unnamed: 16": null
   },
   {
     "ID": "3435385",
@@ -42712,7 +45088,8 @@ const SULCACAO_DATA = [
     "OS": "5491 - 70417",
     "Frente": "291 - FRENTE PRÓPRIA ",
     "Profundidade do Sulco": "37",
-    "Fazenda": NaN
+    "Fazenda": null,
+    "Unnamed: 16": null
   },
   {
     "ID": "3435280",
@@ -42730,7 +45107,8 @@ const SULCACAO_DATA = [
     "OS": "5628 - 70427",
     "Frente": "101 - FRENTE MECANIZADA",
     "Profundidade do Sulco": "36",
-    "Fazenda": NaN
+    "Fazenda": null,
+    "Unnamed: 16": null
   },
   {
     "ID": "3435440",
@@ -42748,7 +45126,8 @@ const SULCACAO_DATA = [
     "OS": "5625 - 70411",
     "Frente": "135 - FRENTE PEDRINHO",
     "Profundidade do Sulco": "38",
-    "Fazenda": NaN
+    "Fazenda": null,
+    "Unnamed: 16": null
   },
   {
     "ID": "3435390",
@@ -42766,7 +45145,8 @@ const SULCACAO_DATA = [
     "OS": "5491 -70417",
     "Frente": "291 - FRENTE PRÓPRIA ",
     "Profundidade do Sulco": "37",
-    "Fazenda": NaN
+    "Fazenda": null,
+    "Unnamed: 16": null
   },
   {
     "ID": "3435445",
@@ -42784,7 +45164,8 @@ const SULCACAO_DATA = [
     "OS": "5625 - 70411",
     "Frente": "135 - FRENTE PEDRINHO",
     "Profundidade do Sulco": "38",
-    "Fazenda": NaN
+    "Fazenda": null,
+    "Unnamed: 16": null
   },
   {
     "ID": "3435285",
@@ -42802,7 +45183,8 @@ const SULCACAO_DATA = [
     "OS": "5628 - 70427",
     "Frente": "101 - FRENTE MECANIZADA",
     "Profundidade do Sulco": "38",
-    "Fazenda": NaN
+    "Fazenda": null,
+    "Unnamed: 16": null
   },
   {
     "ID": "3435458",
@@ -42820,7 +45202,8 @@ const SULCACAO_DATA = [
     "OS": "5625 - 70411",
     "Frente": "135 - FRENTE PEDRINHO",
     "Profundidade do Sulco": "37",
-    "Fazenda": NaN
+    "Fazenda": null,
+    "Unnamed: 16": null
   },
   {
     "ID": "3435709",
@@ -42838,7 +45221,8 @@ const SULCACAO_DATA = [
     "OS": "5566 - 70420",
     "Frente": "105 - FRENTE CASSIO",
     "Profundidade do Sulco": "40",
-    "Fazenda": NaN
+    "Fazenda": null,
+    "Unnamed: 16": null
   },
   {
     "ID": "3435756",
@@ -42856,7 +45240,8 @@ const SULCACAO_DATA = [
     "OS": "5566 - 70420",
     "Frente": "105 - FRENTE CASSIO",
     "Profundidade do Sulco": "42",
-    "Fazenda": NaN
+    "Fazenda": null,
+    "Unnamed: 16": null
   },
   {
     "ID": "3435761",
@@ -42874,7 +45259,8 @@ const SULCACAO_DATA = [
     "OS": "5566 - 70420",
     "Frente": "105 - FRENTE CASSIO",
     "Profundidade do Sulco": "40",
-    "Fazenda": NaN
+    "Fazenda": null,
+    "Unnamed: 16": null
   },
   {
     "ID": "3435766",
@@ -42892,7 +45278,8 @@ const SULCACAO_DATA = [
     "OS": "5566 - 70420",
     "Frente": "105 - FRENTE CASSIO",
     "Profundidade do Sulco": "38",
-    "Fazenda": NaN
+    "Fazenda": null,
+    "Unnamed: 16": null
   },
   {
     "ID": "3435771",
@@ -42910,7 +45297,8 @@ const SULCACAO_DATA = [
     "OS": "5566 - 70420",
     "Frente": "105 - FRENTE CASSIO",
     "Profundidade do Sulco": "43",
-    "Fazenda": NaN
+    "Fazenda": null,
+    "Unnamed: 16": null
   },
   {
     "ID": "3435479",
@@ -42928,7 +45316,8 @@ const SULCACAO_DATA = [
     "OS": "5628 - 70427",
     "Frente": "101 - FRENTE MECANIZADA",
     "Profundidade do Sulco": "39",
-    "Fazenda": NaN
+    "Fazenda": null,
+    "Unnamed: 16": null
   },
   {
     "ID": "3435467",
@@ -42946,7 +45335,8 @@ const SULCACAO_DATA = [
     "OS": "5625 - 70411",
     "Frente": "135 - FRENTE PEDRINHO",
     "Profundidade do Sulco": "36",
-    "Fazenda": NaN
+    "Fazenda": null,
+    "Unnamed: 16": null
   },
   {
     "ID": "3435672",
@@ -42964,7 +45354,8 @@ const SULCACAO_DATA = [
     "OS": "5625 - 70411",
     "Frente": "135 - FRENTE PEDRINHO",
     "Profundidade do Sulco": "36",
-    "Fazenda": NaN
+    "Fazenda": null,
+    "Unnamed: 16": null
   },
   {
     "ID": "3435476",
@@ -42982,7 +45373,8 @@ const SULCACAO_DATA = [
     "OS": "5624 - 70411",
     "Frente": "142 - FRENTE BIDU",
     "Profundidade do Sulco": "41",
-    "Fazenda": NaN
+    "Fazenda": null,
+    "Unnamed: 16": null
   },
   {
     "ID": "3435677",
@@ -43000,7 +45392,8 @@ const SULCACAO_DATA = [
     "OS": "5625 - 70417",
     "Frente": "135 - FRENTE PEDRINHO",
     "Profundidade do Sulco": "35",
-    "Fazenda": NaN
+    "Fazenda": null,
+    "Unnamed: 16": null
   },
   {
     "ID": "3435517",
@@ -43018,7 +45411,8 @@ const SULCACAO_DATA = [
     "OS": "5426 - 70417",
     "Frente": "142 - FRENTE BIDU",
     "Profundidade do Sulco": "47",
-    "Fazenda": NaN
+    "Fazenda": null,
+    "Unnamed: 16": null
   },
   {
     "ID": "3435682",
@@ -43036,7 +45430,8 @@ const SULCACAO_DATA = [
     "OS": "5625 - 70411",
     "Frente": "135 - FRENTE PEDRINHO",
     "Profundidade do Sulco": "37",
-    "Fazenda": NaN
+    "Fazenda": null,
+    "Unnamed: 16": null
   },
   {
     "ID": "3437725",
@@ -43054,7 +45449,8 @@ const SULCACAO_DATA = [
     "OS": "5624 - 70411",
     "Frente": "142 - FRENTE BIDU",
     "Profundidade do Sulco": "36",
-    "Fazenda": NaN
+    "Fazenda": null,
+    "Unnamed: 16": null
   },
   {
     "ID": "3437730",
@@ -43072,7 +45468,8 @@ const SULCACAO_DATA = [
     "OS": "5624 - 70411",
     "Frente": "142 - FRENTE BIDU",
     "Profundidade do Sulco": "38",
-    "Fazenda": NaN
+    "Fazenda": null,
+    "Unnamed: 16": null
   },
   {
     "ID": "3437735",
@@ -43090,7 +45487,8 @@ const SULCACAO_DATA = [
     "OS": "5624 - 70411",
     "Frente": "142 - FRENTE BIDU",
     "Profundidade do Sulco": "37",
-    "Fazenda": NaN
+    "Fazenda": null,
+    "Unnamed: 16": null
   },
   {
     "ID": "3437740",
@@ -43108,7 +45506,8 @@ const SULCACAO_DATA = [
     "OS": "5624 - 70411",
     "Frente": "142 - FRENTE BIDU",
     "Profundidade do Sulco": "37",
-    "Fazenda": NaN
+    "Fazenda": null,
+    "Unnamed: 16": null
   },
   {
     "ID": "3437745",
@@ -43126,7 +45525,8 @@ const SULCACAO_DATA = [
     "OS": "5624 - 70411",
     "Frente": "142 - FRENTE BIDU",
     "Profundidade do Sulco": "37",
-    "Fazenda": NaN
+    "Fazenda": null,
+    "Unnamed: 16": null
   },
   {
     "ID": "3433471",
@@ -43144,7 +45544,8 @@ const SULCACAO_DATA = [
     "OS": "5624 - 70411",
     "Frente": "142 - FRENTE BIDU",
     "Profundidade do Sulco": "38",
-    "Fazenda": NaN
+    "Fazenda": null,
+    "Unnamed: 16": null
   },
   {
     "ID": "3433418",
@@ -43162,7 +45563,8 @@ const SULCACAO_DATA = [
     "OS": "5624 - 70411",
     "Frente": "142 - FRENTE BIDU",
     "Profundidade do Sulco": "36",
-    "Fazenda": NaN
+    "Fazenda": null,
+    "Unnamed: 16": null
   },
   {
     "ID": "3443322",
@@ -43180,7 +45582,8 @@ const SULCACAO_DATA = [
     "OS": "5624 -70411",
     "Frente": "142 - FRENTE BIDU",
     "Profundidade do Sulco": "40",
-    "Fazenda": NaN
+    "Fazenda": null,
+    "Unnamed: 16": null
   },
   {
     "ID": "3443400",
@@ -43198,7 +45601,8 @@ const SULCACAO_DATA = [
     "OS": "5625 - 70411",
     "Frente": "135 - PEDRINHO ",
     "Profundidade do Sulco": "36",
-    "Fazenda": NaN
+    "Fazenda": null,
+    "Unnamed: 16": null
   },
   {
     "ID": "3443402",
@@ -43216,7 +45620,8 @@ const SULCACAO_DATA = [
     "OS": "5625 - 70411",
     "Frente": "135 - PEDRINHO ",
     "Profundidade do Sulco": "38",
-    "Fazenda": NaN
+    "Fazenda": null,
+    "Unnamed: 16": null
   },
   {
     "ID": "3443404",
@@ -43234,7 +45639,8 @@ const SULCACAO_DATA = [
     "OS": "5625 - 70411",
     "Frente": "135 - PEDRINHO ",
     "Profundidade do Sulco": "38",
-    "Fazenda": NaN
+    "Fazenda": null,
+    "Unnamed: 16": null
   },
   {
     "ID": "3443456",
@@ -43252,7 +45658,8 @@ const SULCACAO_DATA = [
     "OS": "5628 - 70427",
     "Frente": "101 - FRENTE MECANIZADA",
     "Profundidade do Sulco": "37",
-    "Fazenda": NaN
+    "Fazenda": null,
+    "Unnamed: 16": null
   },
   {
     "ID": "3443406",
@@ -43270,7 +45677,8 @@ const SULCACAO_DATA = [
     "OS": "5625 - 70411",
     "Frente": "135 - PEDRINHO ",
     "Profundidade do Sulco": "38",
-    "Fazenda": NaN
+    "Fazenda": null,
+    "Unnamed: 16": null
   },
   {
     "ID": "3443858",
@@ -43288,7 +45696,8 @@ const SULCACAO_DATA = [
     "OS": "5628 - 70427",
     "Frente": "101 - FRENTE MECANIZADA",
     "Profundidade do Sulco": "39",
-    "Fazenda": NaN
+    "Fazenda": null,
+    "Unnamed: 16": null
   },
   {
     "ID": "3443461",
@@ -43306,7 +45715,8 @@ const SULCACAO_DATA = [
     "OS": "5628 - 70427",
     "Frente": "101 - FRENTE MECANIZADA",
     "Profundidade do Sulco": "38",
-    "Fazenda": NaN
+    "Fazenda": null,
+    "Unnamed: 16": null
   },
   {
     "ID": "3443437",
@@ -43324,7 +45734,8 @@ const SULCACAO_DATA = [
     "OS": "5628 - 70427",
     "Frente": "101 - FRENTE MECANIZADA",
     "Profundidade do Sulco": "38",
-    "Fazenda": NaN
+    "Fazenda": null,
+    "Unnamed: 16": null
   },
   {
     "ID": "3433300",
@@ -43342,7 +45753,8 @@ const SULCACAO_DATA = [
     "OS": "5625",
     "Frente": "135 - FRENTE PEDRINHO",
     "Profundidade do Sulco": "35",
-    "Fazenda": NaN
+    "Fazenda": null,
+    "Unnamed: 16": null
   },
   {
     "ID": "3433380",
@@ -43360,7 +45772,8 @@ const SULCACAO_DATA = [
     "OS": "5645",
     "Frente": "261 - FRENTE PRÓPRIA  (EDMILSON)",
     "Profundidade do Sulco": "38",
-    "Fazenda": NaN
+    "Fazenda": null,
+    "Unnamed: 16": null
   },
   {
     "ID": "3433295",
@@ -43378,7 +45791,8 @@ const SULCACAO_DATA = [
     "OS": "5625",
     "Frente": "135 - FRENTE PEDRINHO",
     "Profundidade do Sulco": "35",
-    "Fazenda": NaN
+    "Fazenda": null,
+    "Unnamed: 16": null
   },
   {
     "ID": "3433745",
@@ -43396,7 +45810,8 @@ const SULCACAO_DATA = [
     "OS": "5566",
     "Frente": "105 - FRENTE CASSIO (ZACARIAS)",
     "Profundidade do Sulco": "39",
-    "Fazenda": NaN
+    "Fazenda": null,
+    "Unnamed: 16": null
   },
   {
     "ID": "3433296",
@@ -43414,7 +45829,8 @@ const SULCACAO_DATA = [
     "OS": "5625",
     "Frente": "135 - FRENTE PEDRINHO",
     "Profundidade do Sulco": "35",
-    "Fazenda": NaN
+    "Fazenda": null,
+    "Unnamed: 16": null
   },
   {
     "ID": "3433564",
@@ -43432,7 +45848,8 @@ const SULCACAO_DATA = [
     "OS": "5625",
     "Frente": "135 - FRENTE PEDRINHO",
     "Profundidade do Sulco": "36",
-    "Fazenda": NaN
+    "Fazenda": null,
+    "Unnamed: 16": null
   },
   {
     "ID": "3433376",
@@ -43450,7 +45867,8 @@ const SULCACAO_DATA = [
     "OS": "5645",
     "Frente": "261 - FRENTE PRÓPRIA  (EDMILSON)",
     "Profundidade do Sulco": "37",
-    "Fazenda": NaN
+    "Fazenda": null,
+    "Unnamed: 16": null
   },
   {
     "ID": "3433740",
@@ -43468,7 +45886,8 @@ const SULCACAO_DATA = [
     "OS": "5566",
     "Frente": "105 - FRENTE CASSIO (ZACARIAS)",
     "Profundidade do Sulco": "37",
-    "Fazenda": NaN
+    "Fazenda": null,
+    "Unnamed: 16": null
   },
   {
     "ID": "3433560",
@@ -43486,7 +45905,8 @@ const SULCACAO_DATA = [
     "OS": "5625",
     "Frente": "135 - FRENTE PEDRINHO",
     "Profundidade do Sulco": "36",
-    "Fazenda": NaN
+    "Fazenda": null,
+    "Unnamed: 16": null
   },
   {
     "ID": "3433414",
@@ -43504,7 +45924,8 @@ const SULCACAO_DATA = [
     "OS": "5624",
     "Frente": "141- BIDU ",
     "Profundidade do Sulco": "36",
-    "Fazenda": NaN
+    "Fazenda": null,
+    "Unnamed: 16": null
   },
   {
     "ID": "3433621",
@@ -43522,7 +45943,8 @@ const SULCACAO_DATA = [
     "OS": "5566",
     "Frente": "105 - FRENTE CASSIO (ZACARIAS)",
     "Profundidade do Sulco": "40",
-    "Fazenda": NaN
+    "Fazenda": null,
+    "Unnamed: 16": null
   },
   {
     "ID": "3433365",
@@ -43540,7 +45962,8 @@ const SULCACAO_DATA = [
     "OS": "5645",
     "Frente": "261 - FRENTE PRÓPRIA  (EDMILSON)",
     "Profundidade do Sulco": "38",
-    "Fazenda": NaN
+    "Fazenda": null,
+    "Unnamed: 16": null
   },
   {
     "ID": "3433735",
@@ -43558,7 +45981,8 @@ const SULCACAO_DATA = [
     "OS": "5566",
     "Frente": "105 - FRENTE CASSIO (ZACARIAS)",
     "Profundidade do Sulco": "35",
-    "Fazenda": NaN
+    "Fazenda": null,
+    "Unnamed: 16": null
   },
   {
     "ID": "3433409",
@@ -43576,7 +46000,8 @@ const SULCACAO_DATA = [
     "OS": "5624",
     "Frente": "141- BIDU ",
     "Profundidade do Sulco": "37",
-    "Fazenda": NaN
+    "Fazenda": null,
+    "Unnamed: 16": null
   },
   {
     "ID": "3433361",
@@ -43594,7 +46019,8 @@ const SULCACAO_DATA = [
     "OS": "5645",
     "Frente": "261 - FRENTE PRÓPRIA  (EDMILSON)",
     "Profundidade do Sulco": "37",
-    "Fazenda": NaN
+    "Fazenda": null,
+    "Unnamed: 16": null
   },
   {
     "ID": "3433616",
@@ -43612,7 +46038,8 @@ const SULCACAO_DATA = [
     "OS": "5566",
     "Frente": "105 - FRENTE CASSIO (ZACARIAS)",
     "Profundidade do Sulco": "42",
-    "Fazenda": NaN
+    "Fazenda": null,
+    "Unnamed: 16": null
   },
   {
     "ID": "3433700",
@@ -43630,7 +46057,8 @@ const SULCACAO_DATA = [
     "OS": "5628",
     "Frente": "101 - FRENTE MECANIZADA",
     "Profundidade do Sulco": "36",
-    "Fazenda": NaN
+    "Fazenda": null,
+    "Unnamed: 16": null
   },
   {
     "ID": "3433699",
@@ -43648,7 +46076,8 @@ const SULCACAO_DATA = [
     "OS": "5628",
     "Frente": "101 - FRENTE MECANIZADA",
     "Profundidade do Sulco": "38",
-    "Fazenda": NaN
+    "Fazenda": null,
+    "Unnamed: 16": null
   },
   {
     "ID": "3433356",
@@ -43666,7 +46095,8 @@ const SULCACAO_DATA = [
     "OS": "5645",
     "Frente": "261 - FRENTE PRÓPRIA  (EDMILSON)",
     "Profundidade do Sulco": "37",
-    "Fazenda": NaN
+    "Fazenda": null,
+    "Unnamed: 16": null
   },
   {
     "ID": "3433611",
@@ -43684,7 +46114,8 @@ const SULCACAO_DATA = [
     "OS": "5566",
     "Frente": "105 - FRENTE CASSIO (ZACARIAS)",
     "Profundidade do Sulco": "38",
-    "Fazenda": NaN
+    "Fazenda": null,
+    "Unnamed: 16": null
   },
   {
     "ID": "3433340",
@@ -43702,7 +46133,8 @@ const SULCACAO_DATA = [
     "OS": "5645",
     "Frente": "261 - FRENTE PRÓPRIA  (EDMILSON)",
     "Profundidade do Sulco": "38",
-    "Fazenda": NaN
+    "Fazenda": null,
+    "Unnamed: 16": null
   },
   {
     "ID": "3433606",
@@ -43720,7 +46152,8 @@ const SULCACAO_DATA = [
     "OS": "5566",
     "Frente": "105 - FRENTE CASSIO (ZACARIAS)",
     "Profundidade do Sulco": "42",
-    "Fazenda": NaN
+    "Fazenda": null,
+    "Unnamed: 16": null
   },
   {
     "ID": "3433334",
@@ -43738,7 +46171,8 @@ const SULCACAO_DATA = [
     "OS": "5645",
     "Frente": "261 - FRENTE PRÓPRIA  (EDMILSON)",
     "Profundidade do Sulco": "38",
-    "Fazenda": NaN
+    "Fazenda": null,
+    "Unnamed: 16": null
   },
   {
     "ID": "3433601",
@@ -43756,7 +46190,8 @@ const SULCACAO_DATA = [
     "OS": "5566",
     "Frente": "105 - FRENTE CASSIO (ZACARIAS)",
     "Profundidade do Sulco": "40",
-    "Fazenda": NaN
+    "Fazenda": null,
+    "Unnamed: 16": null
   },
   {
     "ID": "3433329",
@@ -43774,7 +46209,8 @@ const SULCACAO_DATA = [
     "OS": "5645",
     "Frente": "261 - FRENTE PRÓPRIA  (EDMILSON)",
     "Profundidade do Sulco": "37",
-    "Fazenda": NaN
+    "Fazenda": null,
+    "Unnamed: 16": null
   },
   {
     "ID": "3433597",
@@ -43792,7 +46228,8 @@ const SULCACAO_DATA = [
     "OS": "5566",
     "Frente": "105 - FRENTE CASSIO (ZACARIAS)",
     "Profundidade do Sulco": "39",
-    "Fazenda": NaN
+    "Fazenda": null,
+    "Unnamed: 16": null
   },
   {
     "ID": "3431416",
@@ -43810,7 +46247,8 @@ const SULCACAO_DATA = [
     "OS": "5566",
     "Frente": "105 - FRENTE CASSIO (ZACARIAS)",
     "Profundidade do Sulco": "39",
-    "Fazenda": NaN
+    "Fazenda": null,
+    "Unnamed: 16": null
   },
   {
     "ID": "3431608",
@@ -43828,7 +46266,8 @@ const SULCACAO_DATA = [
     "OS": "5426",
     "Frente": "141- BIDU ",
     "Profundidade do Sulco": "38",
-    "Fazenda": NaN
+    "Fazenda": null,
+    "Unnamed: 16": null
   },
   {
     "ID": "3431413",
@@ -43846,7 +46285,8 @@ const SULCACAO_DATA = [
     "OS": "5566",
     "Frente": "105 - FRENTE CASSIO (ZACARIAS)",
     "Profundidade do Sulco": "40",
-    "Fazenda": NaN
+    "Fazenda": null,
+    "Unnamed: 16": null
   },
   {
     "ID": "3431534",
@@ -43864,7 +46304,8 @@ const SULCACAO_DATA = [
     "OS": "6928",
     "Frente": "261 - FRENTE PRÓPRIA  (EDMILSON)",
     "Profundidade do Sulco": "37",
-    "Fazenda": NaN
+    "Fazenda": null,
+    "Unnamed: 16": null
   },
   {
     "ID": "3431529",
@@ -43882,7 +46323,8 @@ const SULCACAO_DATA = [
     "OS": "6928",
     "Frente": "261 - FRENTE PRÓPRIA  (EDMILSON)",
     "Profundidade do Sulco": "38",
-    "Fazenda": NaN
+    "Fazenda": null,
+    "Unnamed: 16": null
   },
   {
     "ID": "3431600",
@@ -43900,7 +46342,8 @@ const SULCACAO_DATA = [
     "OS": "5426",
     "Frente": "141- BIDU ",
     "Profundidade do Sulco": "38",
-    "Fazenda": NaN
+    "Fazenda": null,
+    "Unnamed: 16": null
   },
   {
     "ID": "3431515",
@@ -43918,7 +46361,8 @@ const SULCACAO_DATA = [
     "OS": "6928",
     "Frente": "261 - FRENTE PRÓPRIA  (EDMILSON)",
     "Profundidade do Sulco": "38",
-    "Fazenda": NaN
+    "Fazenda": null,
+    "Unnamed: 16": null
   },
   {
     "ID": "3431596",
@@ -43936,7 +46380,8 @@ const SULCACAO_DATA = [
     "OS": "5624",
     "Frente": "122 - Frente  Bidu",
     "Profundidade do Sulco": "38",
-    "Fazenda": NaN
+    "Fazenda": null,
+    "Unnamed: 16": null
   },
   {
     "ID": "3431509",
@@ -43954,7 +46399,8 @@ const SULCACAO_DATA = [
     "OS": "6928",
     "Frente": "261 - FRENTE PRÓPRIA  (EDMILSON)",
     "Profundidade do Sulco": "37",
-    "Fazenda": NaN
+    "Fazenda": null,
+    "Unnamed: 16": null
   },
   {
     "ID": "3431590",
@@ -43972,7 +46418,8 @@ const SULCACAO_DATA = [
     "OS": "5624",
     "Frente": "122 - Frente  Bidu",
     "Profundidade do Sulco": "40",
-    "Fazenda": NaN
+    "Fazenda": null,
+    "Unnamed: 16": null
   },
   {
     "ID": "3431165",
@@ -43990,7 +46437,8 @@ const SULCACAO_DATA = [
     "OS": "5624",
     "Frente": "142- Bidu",
     "Profundidade do Sulco": "36",
-    "Fazenda": NaN
+    "Fazenda": null,
+    "Unnamed: 16": null
   },
   {
     "ID": "3431170",
@@ -44008,7 +46456,8 @@ const SULCACAO_DATA = [
     "OS": "5624",
     "Frente": "142- Bidu",
     "Profundidade do Sulco": "35",
-    "Fazenda": NaN
+    "Fazenda": null,
+    "Unnamed: 16": null
   },
   {
     "ID": "3431175",
@@ -44026,7 +46475,8 @@ const SULCACAO_DATA = [
     "OS": "5624",
     "Frente": "142- Bidu",
     "Profundidade do Sulco": "40",
-    "Fazenda": NaN
+    "Fazenda": null,
+    "Unnamed: 16": null
   },
   {
     "ID": "3428841",
@@ -44044,7 +46494,8 @@ const SULCACAO_DATA = [
     "OS": "5625",
     "Frente": "291 - FRENTE PRÓPRIA ",
     "Profundidade do Sulco": "40",
-    "Fazenda": NaN
+    "Fazenda": null,
+    "Unnamed: 16": null
   },
   {
     "ID": "3428827",
@@ -44062,7 +46513,8 @@ const SULCACAO_DATA = [
     "OS": "5624",
     "Frente": "122 - Frente  Bidu",
     "Profundidade do Sulco": "37",
-    "Fazenda": NaN
+    "Fazenda": null,
+    "Unnamed: 16": null
   },
   {
     "ID": "3428836",
@@ -44080,7 +46532,8 @@ const SULCACAO_DATA = [
     "OS": "5625",
     "Frente": "291 - FRENTE PRÓPRIA ",
     "Profundidade do Sulco": "36",
-    "Fazenda": NaN
+    "Fazenda": null,
+    "Unnamed: 16": null
   },
   {
     "ID": "3428822",
@@ -44098,7 +46551,8 @@ const SULCACAO_DATA = [
     "OS": "5624",
     "Frente": "122 - Frente  Bidu",
     "Profundidade do Sulco": "39",
-    "Fazenda": NaN
+    "Fazenda": null,
+    "Unnamed: 16": null
   },
   {
     "ID": "3428831",
@@ -44116,7 +46570,8 @@ const SULCACAO_DATA = [
     "OS": "5625",
     "Frente": "291 - FRENTE PRÓPRIA ",
     "Profundidade do Sulco": "38",
-    "Fazenda": NaN
+    "Fazenda": null,
+    "Unnamed: 16": null
   },
   {
     "ID": "3429144",
@@ -44134,7 +46589,8 @@ const SULCACAO_DATA = [
     "OS": "5566",
     "Frente": "105 - FRENTE CASSIO (ZACARIAS)",
     "Profundidade do Sulco": "40",
-    "Fazenda": NaN
+    "Fazenda": null,
+    "Unnamed: 16": null
   },
   {
     "ID": "3429143",
@@ -44152,7 +46608,8 @@ const SULCACAO_DATA = [
     "OS": "5566",
     "Frente": "105 - FRENTE CASSIO (ZACARIAS)",
     "Profundidade do Sulco": "38",
-    "Fazenda": NaN
+    "Fazenda": null,
+    "Unnamed: 16": null
   },
   {
     "ID": "3428695",
@@ -44170,7 +46627,8 @@ const SULCACAO_DATA = [
     "OS": "5625",
     "Frente": "291 - FRENTE PRÓPRIA ",
     "Profundidade do Sulco": "39",
-    "Fazenda": NaN
+    "Fazenda": null,
+    "Unnamed: 16": null
   },
   {
     "ID": "3429142",
@@ -44188,7 +46646,8 @@ const SULCACAO_DATA = [
     "OS": "5566",
     "Frente": "105 - FRENTE CASSIO (ZACARIAS)",
     "Profundidade do Sulco": "37",
-    "Fazenda": NaN
+    "Fazenda": null,
+    "Unnamed: 16": null
   },
   {
     "ID": "3429141",
@@ -44206,7 +46665,8 @@ const SULCACAO_DATA = [
     "OS": "5566",
     "Frente": "105 - FRENTE CASSIO (ZACARIAS)",
     "Profundidade do Sulco": "38",
-    "Fazenda": NaN
+    "Fazenda": null,
+    "Unnamed: 16": null
   },
   {
     "ID": "3428281",
@@ -44224,7 +46684,8 @@ const SULCACAO_DATA = [
     "OS": "5624",
     "Frente": "122 - Frente  Bidu",
     "Profundidade do Sulco": "38",
-    "Fazenda": NaN
+    "Fazenda": null,
+    "Unnamed: 16": null
   },
   {
     "ID": "3428276",
@@ -44242,7 +46703,8 @@ const SULCACAO_DATA = [
     "OS": "5624",
     "Frente": "122 - Frente  Bidu",
     "Profundidade do Sulco": "39",
-    "Fazenda": NaN
+    "Fazenda": null,
+    "Unnamed: 16": null
   },
   {
     "ID": "3428690",
@@ -44260,7 +46722,8 @@ const SULCACAO_DATA = [
     "OS": "5625",
     "Frente": "291 - FRENTE PRÓPRIA ",
     "Profundidade do Sulco": "40",
-    "Fazenda": NaN
+    "Fazenda": null,
+    "Unnamed: 16": null
   },
   {
     "ID": "3428402",
@@ -44278,7 +46741,8 @@ const SULCACAO_DATA = [
     "OS": "5625",
     "Frente": "261 - FRENTE PRÓPRIA  (EDMILSON)",
     "Profundidade do Sulco": "37",
-    "Fazenda": NaN
+    "Fazenda": null,
+    "Unnamed: 16": null
   },
   {
     "ID": "3428270",
@@ -44296,7 +46760,8 @@ const SULCACAO_DATA = [
     "OS": "5624",
     "Frente": "122 - Frente  Bidu",
     "Profundidade do Sulco": "38",
-    "Fazenda": NaN
+    "Fazenda": null,
+    "Unnamed: 16": null
   },
   {
     "ID": "3428300",
@@ -44314,7 +46779,8 @@ const SULCACAO_DATA = [
     "OS": "5624",
     "Frente": "122 - Frente  Bidu",
     "Profundidade do Sulco": "36",
-    "Fazenda": NaN
+    "Fazenda": null,
+    "Unnamed: 16": null
   },
   {
     "ID": "3428295",
@@ -44332,7 +46798,8 @@ const SULCACAO_DATA = [
     "OS": "5624",
     "Frente": "122 - Frente  Bidu",
     "Profundidade do Sulco": "35",
-    "Fazenda": NaN
+    "Fazenda": null,
+    "Unnamed: 16": null
   },
   {
     "ID": "3428385",
@@ -44350,7 +46817,8 @@ const SULCACAO_DATA = [
     "OS": "5625",
     "Frente": "261 - FRENTE PRÓPRIA  (EDMILSON)",
     "Profundidade do Sulco": "37",
-    "Fazenda": NaN
+    "Fazenda": null,
+    "Unnamed: 16": null
   },
   {
     "ID": "3428265",
@@ -44368,7 +46836,8 @@ const SULCACAO_DATA = [
     "OS": "5624",
     "Frente": "122 - Frente  Bidu",
     "Profundidade do Sulco": "39",
-    "Fazenda": NaN
+    "Fazenda": null,
+    "Unnamed: 16": null
   },
   {
     "ID": "3428683",
@@ -44386,7 +46855,8 @@ const SULCACAO_DATA = [
     "OS": "5625",
     "Frente": "291 - FRENTE PRÓPRIA ",
     "Profundidade do Sulco": "40",
-    "Fazenda": NaN
+    "Fazenda": null,
+    "Unnamed: 16": null
   },
   {
     "ID": "3428260",
@@ -44404,7 +46874,8 @@ const SULCACAO_DATA = [
     "OS": "5624",
     "Frente": "122 - Frente  Bidu",
     "Profundidade do Sulco": "39",
-    "Fazenda": NaN
+    "Fazenda": null,
+    "Unnamed: 16": null
   },
   {
     "ID": "3428374",
@@ -44422,7 +46893,8 @@ const SULCACAO_DATA = [
     "OS": "5625",
     "Frente": "261 - FRENTE PRÓPRIA  (EDMILSON)",
     "Profundidade do Sulco": "39",
-    "Fazenda": NaN
+    "Fazenda": null,
+    "Unnamed: 16": null
   },
   {
     "ID": "3428290",
@@ -44440,7 +46912,8 @@ const SULCACAO_DATA = [
     "OS": "5624",
     "Frente": "122 - Frente  Bidu",
     "Profundidade do Sulco": "36",
-    "Fazenda": NaN
+    "Fazenda": null,
+    "Unnamed: 16": null
   },
   {
     "ID": "3428678",
@@ -44458,7 +46931,8 @@ const SULCACAO_DATA = [
     "OS": "5625",
     "Frente": "291 - FRENTE PRÓPRIA ",
     "Profundidade do Sulco": "42",
-    "Fazenda": NaN
+    "Fazenda": null,
+    "Unnamed: 16": null
   },
   {
     "ID": "3428369",
@@ -44476,7 +46950,8 @@ const SULCACAO_DATA = [
     "OS": "5625\n",
     "Frente": "261 - FRENTE PRÓPRIA  (EDMILSON)",
     "Profundidade do Sulco": "39",
-    "Fazenda": NaN
+    "Fazenda": null,
+    "Unnamed: 16": null
   },
   {
     "ID": "3428673",
@@ -44494,7 +46969,8 @@ const SULCACAO_DATA = [
     "OS": "5625",
     "Frente": "291 - FRENTE PRÓPRIA ",
     "Profundidade do Sulco": "42",
-    "Fazenda": NaN
+    "Fazenda": null,
+    "Unnamed: 16": null
   },
   {
     "ID": "3428361",
@@ -44512,7 +46988,8 @@ const SULCACAO_DATA = [
     "OS": "5625",
     "Frente": "261 - FRENTE PRÓPRIA  (EDMILSON)",
     "Profundidade do Sulco": "37",
-    "Fazenda": NaN
+    "Fazenda": null,
+    "Unnamed: 16": null
   },
   {
     "ID": "3428356",
@@ -44530,7 +47007,8 @@ const SULCACAO_DATA = [
     "OS": "5625",
     "Frente": "261 - FRENTE PRÓPRIA  (EDMILSON)",
     "Profundidade do Sulco": "39",
-    "Fazenda": NaN
+    "Fazenda": null,
+    "Unnamed: 16": null
   },
   {
     "ID": "3428668",
@@ -44548,7 +47026,8 @@ const SULCACAO_DATA = [
     "OS": "5625",
     "Frente": "291 - FRENTE PRÓPRIA ",
     "Profundidade do Sulco": "40",
-    "Fazenda": NaN
+    "Fazenda": null,
+    "Unnamed: 16": null
   },
   {
     "ID": "3428663",
@@ -44566,7 +47045,8 @@ const SULCACAO_DATA = [
     "OS": "5625",
     "Frente": "291 - FRENTE PRÓPRIA ",
     "Profundidade do Sulco": "41",
-    "Fazenda": NaN
+    "Fazenda": null,
+    "Unnamed: 16": null
   },
   {
     "ID": "3428351",
@@ -44584,7 +47064,8 @@ const SULCACAO_DATA = [
     "OS": "5625",
     "Frente": "261 - FRENTE PRÓPRIA  (EDMILSON)",
     "Profundidade do Sulco": "38",
-    "Fazenda": NaN
+    "Fazenda": null,
+    "Unnamed: 16": null
   },
   {
     "ID": "3428345",
@@ -44602,7 +47083,8 @@ const SULCACAO_DATA = [
     "OS": "5625",
     "Frente": "261 - FRENTE PRÓPRIA  (EDMILSON)",
     "Profundidade do Sulco": "39",
-    "Fazenda": NaN
+    "Fazenda": null,
+    "Unnamed: 16": null
   },
   {
     "ID": "3428334",
@@ -44620,7 +47102,8 @@ const SULCACAO_DATA = [
     "OS": "5625",
     "Frente": "261 - FRENTE PRÓPRIA  (EDMILSON)",
     "Profundidade do Sulco": "37",
-    "Fazenda": NaN
+    "Fazenda": null,
+    "Unnamed: 16": null
   },
   {
     "ID": "3428320",
@@ -44638,7 +47121,8 @@ const SULCACAO_DATA = [
     "OS": "5625",
     "Frente": "261 - FRENTE PRÓPRIA  (EDMILSON)",
     "Profundidade do Sulco": "37",
-    "Fazenda": NaN
+    "Fazenda": null,
+    "Unnamed: 16": null
   },
   {
     "ID": "3428315",
@@ -44656,7 +47140,8 @@ const SULCACAO_DATA = [
     "OS": "5625",
     "Frente": "261 - FRENTE PRÓPRIA  (EDMILSON)",
     "Profundidade do Sulco": "39",
-    "Fazenda": NaN
+    "Fazenda": null,
+    "Unnamed: 16": null
   },
   {
     "ID": "3426541",
@@ -44674,7 +47159,8 @@ const SULCACAO_DATA = [
     "OS": "5491",
     "Frente": "261 - FRENTE PRÓPRIA  (EDMILSON)",
     "Profundidade do Sulco": "38",
-    "Fazenda": NaN
+    "Fazenda": null,
+    "Unnamed: 16": null
   },
   {
     "ID": "3426536",
@@ -44692,7 +47178,8 @@ const SULCACAO_DATA = [
     "OS": "5491",
     "Frente": "261 - FRENTE PRÓPRIA  (EDMILSON)",
     "Profundidade do Sulco": "37",
-    "Fazenda": NaN
+    "Fazenda": null,
+    "Unnamed: 16": null
   },
   {
     "ID": "3426531",
@@ -44710,7 +47197,8 @@ const SULCACAO_DATA = [
     "OS": "5491",
     "Frente": "261 - FRENTE PRÓPRIA  (EDMILSON)",
     "Profundidade do Sulco": "38",
-    "Fazenda": NaN
+    "Fazenda": null,
+    "Unnamed: 16": null
   },
   {
     "ID": "3426526",
@@ -44728,7 +47216,8 @@ const SULCACAO_DATA = [
     "OS": "491",
     "Frente": "261 - FRENTE PRÓPRIA  (EDMILSON)",
     "Profundidade do Sulco": "38",
-    "Fazenda": NaN
+    "Fazenda": null,
+    "Unnamed: 16": null
   },
   {
     "ID": "3426516",
@@ -44746,7 +47235,8 @@ const SULCACAO_DATA = [
     "OS": "5491",
     "Frente": "261 - FRENTE PRÓPRIA  (EDMILSON)",
     "Profundidade do Sulco": "37",
-    "Fazenda": NaN
+    "Fazenda": null,
+    "Unnamed: 16": null
   },
   {
     "ID": "3424999",
@@ -44764,7 +47254,8 @@ const SULCACAO_DATA = [
     "OS": "5491",
     "Frente": "261 - FRENTE PRÓPRIA  (EDMILSON)",
     "Profundidade do Sulco": "38",
-    "Fazenda": NaN
+    "Fazenda": null,
+    "Unnamed: 16": null
   },
   {
     "ID": "3425030",
@@ -44782,7 +47273,8 @@ const SULCACAO_DATA = [
     "OS": "5491",
     "Frente": "261 - FRENTE PRÓPRIA  (EDMILSON)",
     "Profundidade do Sulco": "38",
-    "Fazenda": NaN
+    "Fazenda": null,
+    "Unnamed: 16": null
   },
   {
     "ID": "3425011",
@@ -44800,7 +47292,8 @@ const SULCACAO_DATA = [
     "OS": "5491",
     "Frente": "261 - FRENTE PRÓPRIA  (EDMILSON)",
     "Profundidade do Sulco": "39",
-    "Fazenda": NaN
+    "Fazenda": null,
+    "Unnamed: 16": null
   },
   {
     "ID": "3425007",
@@ -44818,7 +47311,8 @@ const SULCACAO_DATA = [
     "OS": "5491",
     "Frente": "261 - FRENTE PRÓPRIA  (EDMILSON)",
     "Profundidade do Sulco": "37",
-    "Fazenda": NaN
+    "Fazenda": null,
+    "Unnamed: 16": null
   },
   {
     "ID": "3424977",
@@ -44836,7 +47330,8 @@ const SULCACAO_DATA = [
     "OS": "5491",
     "Frente": "261 - FRENTE PRÓPRIA  (EDMILSON)",
     "Profundidade do Sulco": "38",
-    "Fazenda": NaN
+    "Fazenda": null,
+    "Unnamed: 16": null
   },
   {
     "ID": "3424974",
@@ -44854,7 +47349,8 @@ const SULCACAO_DATA = [
     "OS": "5491",
     "Frente": "261 - FRENTE PRÓPRIA  (EDMILSON)",
     "Profundidade do Sulco": "38",
-    "Fazenda": NaN
+    "Fazenda": null,
+    "Unnamed: 16": null
   },
   {
     "ID": "3423176",
@@ -44872,7 +47368,8 @@ const SULCACAO_DATA = [
     "OS": "5491",
     "Frente": "261 - FRENTE PRÓPRIA  (EDMILSON)",
     "Profundidade do Sulco": "37",
-    "Fazenda": NaN
+    "Fazenda": null,
+    "Unnamed: 16": null
   },
   {
     "ID": "3423172",
@@ -44890,7 +47387,8 @@ const SULCACAO_DATA = [
     "OS": "5491",
     "Frente": "261 - FRENTE PRÓPRIA  (EDMILSON)",
     "Profundidade do Sulco": "37",
-    "Fazenda": NaN
+    "Fazenda": null,
+    "Unnamed: 16": null
   },
   {
     "ID": "3423018",
@@ -44908,7 +47406,8 @@ const SULCACAO_DATA = [
     "OS": "5491",
     "Frente": "291 - FRENTE PRÓPRIA ",
     "Profundidade do Sulco": "40",
-    "Fazenda": NaN
+    "Fazenda": null,
+    "Unnamed: 16": null
   },
   {
     "ID": "3423161",
@@ -44926,7 +47425,8 @@ const SULCACAO_DATA = [
     "OS": "5491",
     "Frente": "261 - FRENTE PRÓPRIA  (EDMILSON)",
     "Profundidade do Sulco": "38",
-    "Fazenda": NaN
+    "Fazenda": null,
+    "Unnamed: 16": null
   },
   {
     "ID": "3422744",
@@ -44944,7 +47444,8 @@ const SULCACAO_DATA = [
     "OS": "5491",
     "Frente": "261 - FRENTE PRÓPRIA  (EDMILSON)",
     "Profundidade do Sulco": "35",
-    "Fazenda": NaN
+    "Fazenda": null,
+    "Unnamed: 16": null
   },
   {
     "ID": "3423156",
@@ -44962,7 +47463,8 @@ const SULCACAO_DATA = [
     "OS": "5491",
     "Frente": "261 - FRENTE PRÓPRIA  (EDMILSON)",
     "Profundidade do Sulco": "39",
-    "Fazenda": NaN
+    "Fazenda": null,
+    "Unnamed: 16": null
   },
   {
     "ID": "3422739",
@@ -44980,7 +47482,8 @@ const SULCACAO_DATA = [
     "OS": "5491",
     "Frente": "261 - FRENTE PRÓPRIA  (EDMILSON)",
     "Profundidade do Sulco": "40",
-    "Fazenda": NaN
+    "Fazenda": null,
+    "Unnamed: 16": null
   },
   {
     "ID": "3422806",
@@ -44998,7 +47501,8 @@ const SULCACAO_DATA = [
     "OS": "5491",
     "Frente": "261 - FRENTE PRÓPRIA  (EDMILSON)",
     "Profundidade do Sulco": "37",
-    "Fazenda": NaN
+    "Fazenda": null,
+    "Unnamed: 16": null
   },
   {
     "ID": "3422734",
@@ -45016,7 +47520,8 @@ const SULCACAO_DATA = [
     "OS": "5491",
     "Frente": "261 - FRENTE PRÓPRIA  (EDMILSON)",
     "Profundidade do Sulco": "37",
-    "Fazenda": NaN
+    "Fazenda": null,
+    "Unnamed: 16": null
   },
   {
     "ID": "3422801",
@@ -45034,7 +47539,8 @@ const SULCACAO_DATA = [
     "OS": "5491",
     "Frente": "261 - FRENTE PRÓPRIA  (EDMILSON)",
     "Profundidade do Sulco": "38",
-    "Fazenda": NaN
+    "Fazenda": null,
+    "Unnamed: 16": null
   },
   {
     "ID": "3422770",
@@ -45052,7 +47558,8 @@ const SULCACAO_DATA = [
     "OS": "5491",
     "Frente": "261 - FRENTE PRÓPRIA  (EDMILSON)",
     "Profundidade do Sulco": "37",
-    "Fazenda": NaN
+    "Fazenda": null,
+    "Unnamed: 16": null
   },
   {
     "ID": "3422758",
@@ -45070,7 +47577,8 @@ const SULCACAO_DATA = [
     "OS": "5491",
     "Frente": "261 - FRENTE PRÓPRIA  (EDMILSON)",
     "Profundidade do Sulco": "38",
-    "Fazenda": NaN
+    "Fazenda": null,
+    "Unnamed: 16": null
   },
   {
     "ID": "3422753",
@@ -45088,7 +47596,8 @@ const SULCACAO_DATA = [
     "OS": "5491",
     "Frente": "261 - FRENTE PRÓPRIA  (EDMILSON)",
     "Profundidade do Sulco": "37",
-    "Fazenda": NaN
+    "Fazenda": null,
+    "Unnamed: 16": null
   },
   {
     "ID": "3421349",
@@ -45106,7 +47615,8 @@ const SULCACAO_DATA = [
     "OS": "5458",
     "Frente": "261 - FRENTE PRÓPRIA  (EDMILSON)",
     "Profundidade do Sulco": "37",
-    "Fazenda": NaN
+    "Fazenda": null,
+    "Unnamed: 16": null
   },
   {
     "ID": "3421183",
@@ -45124,7 +47634,8 @@ const SULCACAO_DATA = [
     "OS": "5491",
     "Frente": "261 - FRENTE PRÓPRIA  (EDMILSON)",
     "Profundidade do Sulco": "37",
-    "Fazenda": NaN
+    "Fazenda": null,
+    "Unnamed: 16": null
   },
   {
     "ID": "3421182",
@@ -45142,7 +47653,8 @@ const SULCACAO_DATA = [
     "OS": "5491",
     "Frente": "261 - FRENTE PRÓPRIA  (EDMILSON)",
     "Profundidade do Sulco": "37",
-    "Fazenda": NaN
+    "Fazenda": null,
+    "Unnamed: 16": null
   },
   {
     "ID": "3421134",
@@ -45160,7 +47672,8 @@ const SULCACAO_DATA = [
     "OS": "5491",
     "Frente": "261 - FRENTE PRÓPRIA  (EDMILSON)",
     "Profundidade do Sulco": "38",
-    "Fazenda": NaN
+    "Fazenda": null,
+    "Unnamed: 16": null
   },
   {
     "ID": "3421176",
@@ -45178,7 +47691,8 @@ const SULCACAO_DATA = [
     "OS": "5491",
     "Frente": "261 - FRENTE PRÓPRIA  (EDMILSON)",
     "Profundidade do Sulco": "38",
-    "Fazenda": NaN
+    "Fazenda": null,
+    "Unnamed: 16": null
   },
   {
     "ID": "3421127",
@@ -45196,7 +47710,8 @@ const SULCACAO_DATA = [
     "OS": "5491",
     "Frente": "261 - FRENTE PRÓPRIA  (EDMILSON)",
     "Profundidade do Sulco": "38",
-    "Fazenda": NaN
+    "Fazenda": null,
+    "Unnamed: 16": null
   },
   {
     "ID": "3421123",
@@ -45214,7 +47729,8 @@ const SULCACAO_DATA = [
     "OS": "5491",
     "Frente": "261 - FRENTE PRÓPRIA  (EDMILSON)",
     "Profundidade do Sulco": "39",
-    "Fazenda": NaN
+    "Fazenda": null,
+    "Unnamed: 16": null
   },
   {
     "ID": "3417433",
@@ -45232,7 +47748,8 @@ const SULCACAO_DATA = [
     "OS": "5426",
     "Frente": "261 - FRENTE PRÓPRIA  (EDMILSON)",
     "Profundidade do Sulco": "37",
-    "Fazenda": NaN
+    "Fazenda": null,
+    "Unnamed: 16": null
   },
   {
     "ID": "3417428",
@@ -45250,7 +47767,8 @@ const SULCACAO_DATA = [
     "OS": "5426",
     "Frente": "261 - FRENTE PRÓPRIA  (EDMILSON)",
     "Profundidade do Sulco": "37",
-    "Fazenda": NaN
+    "Fazenda": null,
+    "Unnamed: 16": null
   },
   {
     "ID": "3417423",
@@ -45268,7 +47786,8 @@ const SULCACAO_DATA = [
     "OS": "5426",
     "Frente": "261 - FRENTE PRÓPRIA  (EDMILSON)",
     "Profundidade do Sulco": "38",
-    "Fazenda": NaN
+    "Fazenda": null,
+    "Unnamed: 16": null
   },
   {
     "ID": "3417419",
@@ -45286,7 +47805,8 @@ const SULCACAO_DATA = [
     "OS": "5426",
     "Frente": "261 - FRENTE PRÓPRIA  (EDMILSON)",
     "Profundidade do Sulco": "38",
-    "Fazenda": NaN
+    "Fazenda": null,
+    "Unnamed: 16": null
   },
   {
     "ID": "3417414",
@@ -45304,7 +47824,8 @@ const SULCACAO_DATA = [
     "OS": "5426",
     "Frente": "261 - FRENTE PRÓPRIA  (EDMILSON)",
     "Profundidade do Sulco": "37",
-    "Fazenda": NaN
+    "Fazenda": null,
+    "Unnamed: 16": null
   },
   {
     "ID": "3417409",
@@ -45322,7 +47843,8 @@ const SULCACAO_DATA = [
     "OS": "5426",
     "Frente": "261 - FRENTE PRÓPRIA  (EDMILSON)",
     "Profundidade do Sulco": "38",
-    "Fazenda": NaN
+    "Fazenda": null,
+    "Unnamed: 16": null
   },
   {
     "ID": "3416394",
@@ -45340,7 +47862,8 @@ const SULCACAO_DATA = [
     "OS": "5425",
     "Frente": "261 - FRENTE PRÓPRIA  (EDMILSON)",
     "Profundidade do Sulco": "38",
-    "Fazenda": NaN
+    "Fazenda": null,
+    "Unnamed: 16": null
   },
   {
     "ID": "3416389",
@@ -45358,7 +47881,8 @@ const SULCACAO_DATA = [
     "OS": "5426",
     "Frente": "261 - FRENTE PRÓPRIA  (EDMILSON)",
     "Profundidade do Sulco": "37",
-    "Fazenda": NaN
+    "Fazenda": null,
+    "Unnamed: 16": null
   },
   {
     "ID": "3416384",
@@ -45376,7 +47900,8 @@ const SULCACAO_DATA = [
     "OS": "5425",
     "Frente": "261 - FRENTE PRÓPRIA  (EDMILSON)",
     "Profundidade do Sulco": "37",
-    "Fazenda": NaN
+    "Fazenda": null,
+    "Unnamed: 16": null
   },
   {
     "ID": "3416378",
@@ -45394,7 +47919,8 @@ const SULCACAO_DATA = [
     "OS": "5426",
     "Frente": "261 - FRENTE PRÓPRIA  (EDMILSON)",
     "Profundidade do Sulco": "38",
-    "Fazenda": NaN
+    "Fazenda": null,
+    "Unnamed: 16": null
   },
   {
     "ID": "3416373",
@@ -45412,7 +47938,8 @@ const SULCACAO_DATA = [
     "OS": "5426",
     "Frente": "261 - FRENTE PRÓPRIA  (EDMILSON)",
     "Profundidade do Sulco": "38",
-    "Fazenda": NaN
+    "Fazenda": null,
+    "Unnamed: 16": null
   },
   {
     "ID": "3415089",
@@ -45430,7 +47957,8 @@ const SULCACAO_DATA = [
     "OS": "5426",
     "Frente": "261 - FRENTE PRÓPRIA  (EDMILSON)",
     "Profundidade do Sulco": "38",
-    "Fazenda": NaN
+    "Fazenda": null,
+    "Unnamed: 16": null
   },
   {
     "ID": "3415079",
@@ -45448,7 +47976,8 @@ const SULCACAO_DATA = [
     "OS": "5426",
     "Frente": "261 - FRENTE PRÓPRIA  (EDMILSON)",
     "Profundidade do Sulco": "38",
-    "Fazenda": NaN
+    "Fazenda": null,
+    "Unnamed: 16": null
   },
   {
     "ID": "3415074",
@@ -45466,7 +47995,8 @@ const SULCACAO_DATA = [
     "OS": "5426",
     "Frente": "261 - FRENTE PRÓPRIA  (EDMILSON)",
     "Profundidade do Sulco": "39",
-    "Fazenda": NaN
+    "Fazenda": null,
+    "Unnamed: 16": null
   },
   {
     "ID": "3415068",
@@ -45484,7 +48014,8 @@ const SULCACAO_DATA = [
     "OS": "5426",
     "Frente": "261 - FRENTE PRÓPRIA  (EDMILSON)",
     "Profundidade do Sulco": "37",
-    "Fazenda": NaN
+    "Fazenda": null,
+    "Unnamed: 16": null
   },
   {
     "ID": "3414950",
@@ -45502,7 +48033,8 @@ const SULCACAO_DATA = [
     "OS": "5426",
     "Frente": "261 - FRENTE PRÓPRIA  (EDMILSON)",
     "Profundidade do Sulco": "39",
-    "Fazenda": NaN
+    "Fazenda": null,
+    "Unnamed: 16": null
   },
   {
     "ID": "3414946",
@@ -45520,7 +48052,8 @@ const SULCACAO_DATA = [
     "OS": "5426",
     "Frente": "261 - FRENTE PRÓPRIA  (EDMILSON)",
     "Profundidade do Sulco": "38",
-    "Fazenda": NaN
+    "Fazenda": null,
+    "Unnamed: 16": null
   },
   {
     "ID": "3414939",
@@ -45538,7 +48071,8 @@ const SULCACAO_DATA = [
     "OS": "5426",
     "Frente": "261 - FRENTE PRÓPRIA  (EDMILSON)",
     "Profundidade do Sulco": "38",
-    "Fazenda": NaN
+    "Fazenda": null,
+    "Unnamed: 16": null
   },
   {
     "ID": "3414931",
@@ -45556,7 +48090,8 @@ const SULCACAO_DATA = [
     "OS": "5427",
     "Frente": "261 - FRENTE PRÓPRIA  (EDMILSON)",
     "Profundidade do Sulco": "37",
-    "Fazenda": NaN
+    "Fazenda": null,
+    "Unnamed: 16": null
   },
   {
     "ID": "3414914",
@@ -45574,7 +48109,8 @@ const SULCACAO_DATA = [
     "OS": "5426",
     "Frente": "261 - FRENTE PRÓPRIA  (EDMILSON)",
     "Profundidade do Sulco": "39",
-    "Fazenda": NaN
+    "Fazenda": null,
+    "Unnamed: 16": null
   },
   {
     "ID": "3414901",
@@ -45592,7 +48128,8 @@ const SULCACAO_DATA = [
     "OS": "5427",
     "Frente": "261 - FRENTE PRÓPRIA  (EDMILSON)",
     "Profundidade do Sulco": "38",
-    "Fazenda": NaN
+    "Fazenda": null,
+    "Unnamed: 16": null
   },
   {
     "ID": "3414889",
@@ -45610,7 +48147,8 @@ const SULCACAO_DATA = [
     "OS": "5427",
     "Frente": "261 - FRENTE PRÓPRIA  (EDMILSON)",
     "Profundidade do Sulco": "38",
-    "Fazenda": NaN
+    "Fazenda": null,
+    "Unnamed: 16": null
   },
   {
     "ID": "3414884",
@@ -45628,7 +48166,8 @@ const SULCACAO_DATA = [
     "OS": "5427",
     "Frente": "261 - FRENTE PRÓPRIA  (EDMILSON)",
     "Profundidade do Sulco": "38",
-    "Fazenda": NaN
+    "Fazenda": null,
+    "Unnamed: 16": null
   },
   {
     "ID": "3414879",
@@ -45646,7 +48185,8 @@ const SULCACAO_DATA = [
     "OS": "5427",
     "Frente": "261 - FRENTE PRÓPRIA  (EDMILSON)",
     "Profundidade do Sulco": "37",
-    "Fazenda": NaN
+    "Fazenda": null,
+    "Unnamed: 16": null
   },
   {
     "ID": "3414873",
@@ -45664,7 +48204,8 @@ const SULCACAO_DATA = [
     "OS": "5427",
     "Frente": "261 - FRENTE PRÓPRIA  (EDMILSON)",
     "Profundidade do Sulco": "38",
-    "Fazenda": NaN
+    "Fazenda": null,
+    "Unnamed: 16": null
   },
   {
     "ID": "3413435",
@@ -45682,7 +48223,8 @@ const SULCACAO_DATA = [
     "OS": "5427",
     "Frente": "261 - FRENTE PRÓPRIA  (EDMILSON)",
     "Profundidade do Sulco": "38",
-    "Fazenda": NaN
+    "Fazenda": null,
+    "Unnamed: 16": null
   },
   {
     "ID": "3413431",
@@ -45700,7 +48242,8 @@ const SULCACAO_DATA = [
     "OS": "5427",
     "Frente": "261 - FRENTE PRÓPRIA  (EDMILSON)",
     "Profundidade do Sulco": "38",
-    "Fazenda": NaN
+    "Fazenda": null,
+    "Unnamed: 16": null
   },
   {
     "ID": "3413426",
@@ -45718,7 +48261,8 @@ const SULCACAO_DATA = [
     "OS": "5427",
     "Frente": "261 - FRENTE PRÓPRIA  (EDMILSON)",
     "Profundidade do Sulco": "38",
-    "Fazenda": NaN
+    "Fazenda": null,
+    "Unnamed: 16": null
   },
   {
     "ID": "3413420",
@@ -45736,7 +48280,8 @@ const SULCACAO_DATA = [
     "OS": "5427",
     "Frente": "261 - FRENTE PRÓPRIA  (EDMILSON)",
     "Profundidade do Sulco": "37",
-    "Fazenda": NaN
+    "Fazenda": null,
+    "Unnamed: 16": null
   },
   {
     "ID": "3413414",
@@ -45754,7 +48299,8 @@ const SULCACAO_DATA = [
     "OS": "5427",
     "Frente": "261 - FRENTE PRÓPRIA  (EDMILSON)",
     "Profundidade do Sulco": "38",
-    "Fazenda": NaN
+    "Fazenda": null,
+    "Unnamed: 16": null
   },
   {
     "ID": "3413413",
@@ -45772,7 +48318,8 @@ const SULCACAO_DATA = [
     "OS": "5427",
     "Frente": "261 - FRENTE PRÓPRIA  (EDMILSON)",
     "Profundidade do Sulco": "38",
-    "Fazenda": NaN
+    "Fazenda": null,
+    "Unnamed: 16": null
   },
   {
     "ID": "3413407",
@@ -45790,7 +48337,8 @@ const SULCACAO_DATA = [
     "OS": "5426",
     "Frente": "261 - FRENTE PRÓPRIA  (EDMILSON)",
     "Profundidade do Sulco": "38",
-    "Fazenda": NaN
+    "Fazenda": null,
+    "Unnamed: 16": null
   },
   {
     "ID": "3413451",
@@ -45808,7 +48356,8 @@ const SULCACAO_DATA = [
     "OS": "5426",
     "Frente": "261 - FRENTE PRÓPRIA  (EDMILSON)",
     "Profundidade do Sulco": "38",
-    "Fazenda": NaN
+    "Fazenda": null,
+    "Unnamed: 16": null
   },
   {
     "ID": "3413396",
@@ -45826,7 +48375,8 @@ const SULCACAO_DATA = [
     "OS": "5426",
     "Frente": "261 - FRENTE PRÓPRIA  (EDMILSON)",
     "Profundidade do Sulco": "37",
-    "Fazenda": NaN
+    "Fazenda": null,
+    "Unnamed: 16": null
   },
   {
     "ID": "3413390",
@@ -45844,7 +48394,8 @@ const SULCACAO_DATA = [
     "OS": "5426",
     "Frente": "261 - FRENTE PRÓPRIA  (EDMILSON)",
     "Profundidade do Sulco": "38",
-    "Fazenda": NaN
+    "Fazenda": null,
+    "Unnamed: 16": null
   },
   {
     "ID": "3411795",
@@ -45862,7 +48413,8 @@ const SULCACAO_DATA = [
     "OS": "5427",
     "Frente": "261 - FRENTE PRÓPRIA  (EDMILSON)",
     "Profundidade do Sulco": "38",
-    "Fazenda": NaN
+    "Fazenda": null,
+    "Unnamed: 16": null
   },
   {
     "ID": "3411790",
@@ -45880,7 +48432,8 @@ const SULCACAO_DATA = [
     "OS": "5427",
     "Frente": "261 - FRENTE PRÓPRIA  (EDMILSON)",
     "Profundidade do Sulco": "38",
-    "Fazenda": NaN
+    "Fazenda": null,
+    "Unnamed: 16": null
   },
   {
     "ID": "3411785",
@@ -45898,7 +48451,8 @@ const SULCACAO_DATA = [
     "OS": "5427532",
     "Frente": "261 - FRENTE PRÓPRIA  (EDMILSON)",
     "Profundidade do Sulco": "38",
-    "Fazenda": NaN
+    "Fazenda": null,
+    "Unnamed: 16": null
   },
   {
     "ID": "3411627",
@@ -45916,7 +48470,8 @@ const SULCACAO_DATA = [
     "OS": "5427",
     "Frente": "261 - FRENTE PRÓPRIA  (EDMILSON)",
     "Profundidade do Sulco": "38",
-    "Fazenda": NaN
+    "Fazenda": null,
+    "Unnamed: 16": null
   },
   {
     "ID": "3411621",
@@ -45934,7 +48489,8 @@ const SULCACAO_DATA = [
     "OS": "5427",
     "Frente": "261 - FRENTE PRÓPRIA  (EDMILSON)",
     "Profundidade do Sulco": "38",
-    "Fazenda": NaN
+    "Fazenda": null,
+    "Unnamed: 16": null
   },
   {
     "ID": "3411616",
@@ -45952,7 +48508,8 @@ const SULCACAO_DATA = [
     "OS": "5426",
     "Frente": "261 - FRENTE PRÓPRIA  (EDMILSON)",
     "Profundidade do Sulco": "38",
-    "Fazenda": NaN
+    "Fazenda": null,
+    "Unnamed: 16": null
   },
   {
     "ID": "3411611",
@@ -45970,7 +48527,8 @@ const SULCACAO_DATA = [
     "OS": "5426",
     "Frente": "261 - FRENTE PRÓPRIA  (EDMILSON)",
     "Profundidade do Sulco": "38",
-    "Fazenda": NaN
+    "Fazenda": null,
+    "Unnamed: 16": null
   },
   {
     "ID": "3411603",
@@ -45988,7 +48546,8 @@ const SULCACAO_DATA = [
     "OS": "5426",
     "Frente": "261 - FRENTE PRÓPRIA  (EDMILSON)",
     "Profundidade do Sulco": "38",
-    "Fazenda": NaN
+    "Fazenda": null,
+    "Unnamed: 16": null
   },
   {
     "ID": "3411598",
@@ -46006,7 +48565,8 @@ const SULCACAO_DATA = [
     "OS": "5426",
     "Frente": "261 - FRENTE PRÓPRIA  (EDMILSON)",
     "Profundidade do Sulco": "38",
-    "Fazenda": NaN
+    "Fazenda": null,
+    "Unnamed: 16": null
   },
   {
     "ID": "3411594",
@@ -46024,7 +48584,8 @@ const SULCACAO_DATA = [
     "OS": "5426",
     "Frente": "261 - FRENTE PRÓPRIA  (EDMILSON)",
     "Profundidade do Sulco": "38",
-    "Fazenda": NaN
+    "Fazenda": null,
+    "Unnamed: 16": null
   },
   {
     "ID": "3411589",
@@ -46042,7 +48603,8 @@ const SULCACAO_DATA = [
     "OS": "5426",
     "Frente": "261 - FRENTE PRÓPRIA  (EDMILSON)",
     "Profundidade do Sulco": "38",
-    "Fazenda": NaN
+    "Fazenda": null,
+    "Unnamed: 16": null
   },
   {
     "ID": "3411585",
@@ -46060,7 +48622,8 @@ const SULCACAO_DATA = [
     "OS": "5426",
     "Frente": "261 - FRENTE PRÓPRIA  (EDMILSON)",
     "Profundidade do Sulco": "39",
-    "Fazenda": NaN
+    "Fazenda": null,
+    "Unnamed: 16": null
   },
   {
     "ID": "3411576",
@@ -46078,7 +48641,8 @@ const SULCACAO_DATA = [
     "OS": "5426",
     "Frente": "261 - FRENTE PRÓPRIA  (EDMILSON)",
     "Profundidade do Sulco": "39",
-    "Fazenda": NaN
+    "Fazenda": null,
+    "Unnamed: 16": null
   },
   {
     "ID": "3410247",
@@ -46096,7 +48660,8 @@ const SULCACAO_DATA = [
     "OS": "5425",
     "Frente": "261 - FRENTE PRÓPRIA  (EDMILSON)",
     "Profundidade do Sulco": "38",
-    "Fazenda": NaN
+    "Fazenda": null,
+    "Unnamed: 16": null
   },
   {
     "ID": "3410241",
@@ -46114,7 +48679,8 @@ const SULCACAO_DATA = [
     "OS": "5426",
     "Frente": "261 - FRENTE PRÓPRIA  (EDMILSON)",
     "Profundidade do Sulco": "38",
-    "Fazenda": NaN
+    "Fazenda": null,
+    "Unnamed: 16": null
   },
   {
     "ID": "3410261",
@@ -46132,7 +48698,8 @@ const SULCACAO_DATA = [
     "OS": "5427",
     "Frente": "261 - FRENTE PRÓPRIA  (EDMILSON)",
     "Profundidade do Sulco": "38",
-    "Fazenda": NaN
+    "Fazenda": null,
+    "Unnamed: 16": null
   },
   {
     "ID": "3410044",
@@ -46150,7 +48717,8 @@ const SULCACAO_DATA = [
     "OS": "5427",
     "Frente": "261 - FRENTE PRÓPRIA  (EDMILSON)",
     "Profundidade do Sulco": "38",
-    "Fazenda": NaN
+    "Fazenda": null,
+    "Unnamed: 16": null
   },
   {
     "ID": "3410036",
@@ -46168,7 +48736,8 @@ const SULCACAO_DATA = [
     "OS": "5427",
     "Frente": "261 - FRENTE PRÓPRIA  (EDMILSON)",
     "Profundidade do Sulco": "37",
-    "Fazenda": NaN
+    "Fazenda": null,
+    "Unnamed: 16": null
   },
   {
     "ID": "3410232",
@@ -46186,7 +48755,8 @@ const SULCACAO_DATA = [
     "OS": "5327",
     "Frente": "261 - FRENTE PRÓPRIA  (EDMILSON)",
     "Profundidade do Sulco": "38",
-    "Fazenda": NaN
+    "Fazenda": null,
+    "Unnamed: 16": null
   },
   {
     "ID": "3410025",
@@ -46204,7 +48774,8 @@ const SULCACAO_DATA = [
     "OS": "5426",
     "Frente": "261 - FRENTE PRÓPRIA  (EDMILSON)",
     "Profundidade do Sulco": "37",
-    "Fazenda": NaN
+    "Fazenda": null,
+    "Unnamed: 16": null
   },
   {
     "ID": "3410020",
@@ -46222,7 +48793,8 @@ const SULCACAO_DATA = [
     "OS": "5426",
     "Frente": "261 - FRENTE PRÓPRIA  (EDMILSON)",
     "Profundidade do Sulco": "39",
-    "Fazenda": NaN
+    "Fazenda": null,
+    "Unnamed: 16": null
   },
   {
     "ID": "3410004",
@@ -46240,7 +48812,8 @@ const SULCACAO_DATA = [
     "OS": "5426",
     "Frente": "261 - FRENTE PRÓPRIA  (EDMILSON)",
     "Profundidade do Sulco": "38",
-    "Fazenda": NaN
+    "Fazenda": null,
+    "Unnamed: 16": null
   },
   {
     "ID": "3409997",
@@ -46258,7 +48831,8 @@ const SULCACAO_DATA = [
     "OS": "5426",
     "Frente": "261 - FRENTE PRÓPRIA  (EDMILSON)",
     "Profundidade do Sulco": "38",
-    "Fazenda": NaN
+    "Fazenda": null,
+    "Unnamed: 16": null
   },
   {
     "ID": "3408568",
@@ -46276,7 +48850,8 @@ const SULCACAO_DATA = [
     "OS": "5427",
     "Frente": "261 - FRENTE PRÓPRIA  (EDMILSON)",
     "Profundidade do Sulco": "38",
-    "Fazenda": NaN
+    "Fazenda": null,
+    "Unnamed: 16": null
   },
   {
     "ID": "3408557",
@@ -46294,7 +48869,8 @@ const SULCACAO_DATA = [
     "OS": "5427",
     "Frente": "261 - FRENTE PRÓPRIA  (EDMILSON)",
     "Profundidade do Sulco": "38",
-    "Fazenda": NaN
+    "Fazenda": null,
+    "Unnamed: 16": null
   },
   {
     "ID": "3408552",
@@ -46312,7 +48888,8 @@ const SULCACAO_DATA = [
     "OS": "5427",
     "Frente": "261 - FRENTE PRÓPRIA  (EDMILSON)",
     "Profundidade do Sulco": "38",
-    "Fazenda": NaN
+    "Fazenda": null,
+    "Unnamed: 16": null
   },
   {
     "ID": "3408549",
@@ -46330,7 +48907,8 @@ const SULCACAO_DATA = [
     "OS": "5427",
     "Frente": "261 - FRENTE PRÓPRIA  (EDMILSON)",
     "Profundidade do Sulco": "38",
-    "Fazenda": NaN
+    "Fazenda": null,
+    "Unnamed: 16": null
   },
   {
     "ID": "3408153",
@@ -46348,7 +48926,8 @@ const SULCACAO_DATA = [
     "OS": "5427",
     "Frente": "261 - FRENTE PRÓPRIA  (EDMILSON)",
     "Profundidade do Sulco": "38",
-    "Fazenda": NaN
+    "Fazenda": null,
+    "Unnamed: 16": null
   },
   {
     "ID": "3408148",
@@ -46366,7 +48945,8 @@ const SULCACAO_DATA = [
     "OS": "5426",
     "Frente": "261 - FRENTE PRÓPRIA  (EDMILSON)",
     "Profundidade do Sulco": "38",
-    "Fazenda": NaN
+    "Fazenda": null,
+    "Unnamed: 16": null
   },
   {
     "ID": "3408137",
@@ -46384,7 +48964,8 @@ const SULCACAO_DATA = [
     "OS": "5427",
     "Frente": "135 - FRENTE PEDRINHO",
     "Profundidade do Sulco": "38",
-    "Fazenda": NaN
+    "Fazenda": null,
+    "Unnamed: 16": null
   },
   {
     "ID": "3408133",
@@ -46402,7 +48983,8 @@ const SULCACAO_DATA = [
     "OS": "5427",
     "Frente": "261 - FRENTE PRÓPRIA  (EDMILSON)",
     "Profundidade do Sulco": "37",
-    "Fazenda": NaN
+    "Fazenda": null,
+    "Unnamed: 16": null
   },
   {
     "ID": "3407983",
@@ -46420,7 +49002,8 @@ const SULCACAO_DATA = [
     "OS": "5427",
     "Frente": "261 - FRENTE PRÓPRIA  (EDMILSON)",
     "Profundidade do Sulco": "39",
-    "Fazenda": NaN
+    "Fazenda": null,
+    "Unnamed: 16": null
   },
   {
     "ID": "3407982",
@@ -46438,7 +49021,8 @@ const SULCACAO_DATA = [
     "OS": "5427",
     "Frente": "261 - FRENTE PRÓPRIA  (EDMILSON)",
     "Profundidade do Sulco": "39",
-    "Fazenda": NaN
+    "Fazenda": null,
+    "Unnamed: 16": null
   },
   {
     "ID": "3407980",
@@ -46456,7 +49040,8 @@ const SULCACAO_DATA = [
     "OS": "5427",
     "Frente": "261 - FRENTE PRÓPRIA  (EDMILSON)",
     "Profundidade do Sulco": "37",
-    "Fazenda": NaN
+    "Fazenda": null,
+    "Unnamed: 16": null
   },
   {
     "ID": "3406782",
@@ -46474,7 +49059,8 @@ const SULCACAO_DATA = [
     "OS": "5427",
     "Frente": "261 - FRENTE PRÓPRIA  (EDMILSON)",
     "Profundidade do Sulco": "37",
-    "Fazenda": NaN
+    "Fazenda": null,
+    "Unnamed: 16": null
   },
   {
     "ID": "3406788",
@@ -46492,7 +49078,8 @@ const SULCACAO_DATA = [
     "OS": "5427",
     "Frente": "261 - FRENTE PRÓPRIA  (EDMILSON)",
     "Profundidade do Sulco": "40",
-    "Fazenda": NaN
+    "Fazenda": null,
+    "Unnamed: 16": null
   },
   {
     "ID": "3406781",
@@ -46510,7 +49097,8 @@ const SULCACAO_DATA = [
     "OS": "5427",
     "Frente": "261 - FRENTE PRÓPRIA  (EDMILSON)",
     "Profundidade do Sulco": "40",
-    "Fazenda": NaN
+    "Fazenda": null,
+    "Unnamed: 16": null
   },
   {
     "ID": "4026566",
@@ -46528,7 +49116,8 @@ const SULCACAO_DATA = [
     "OS": "9785",
     "Frente": "135 - FRENTE PEDRINHO",
     "Profundidade do Sulco": "38",
-    "Fazenda": "33302"
+    "Fazenda": "33302",
+    "Unnamed: 16": null
   },
   {
     "ID": "4026563",
@@ -46546,7 +49135,8 @@ const SULCACAO_DATA = [
     "OS": "9785",
     "Frente": "135 - FRENTE PEDRINHO",
     "Profundidade do Sulco": "37",
-    "Fazenda": "33302"
+    "Fazenda": "33302",
+    "Unnamed: 16": null
   },
   {
     "ID": "4026550",
@@ -46564,7 +49154,8 @@ const SULCACAO_DATA = [
     "OS": "9785",
     "Frente": "135 - FRENTE PEDRINHO",
     "Profundidade do Sulco": "37",
-    "Fazenda": "33302"
+    "Fazenda": "33302",
+    "Unnamed: 16": null
   },
   {
     "ID": "4026487",
@@ -46582,7 +49173,8 @@ const SULCACAO_DATA = [
     "OS": "9785",
     "Frente": "135 - FRENTE PEDRINHO",
     "Profundidade do Sulco": "37",
-    "Fazenda": "33302"
+    "Fazenda": "33302",
+    "Unnamed: 16": null
   },
   {
     "ID": "4026476",
@@ -46600,7 +49192,8 @@ const SULCACAO_DATA = [
     "OS": "9785",
     "Frente": "135 - FRENTE PEDRINHO",
     "Profundidade do Sulco": "38",
-    "Fazenda": "33302"
+    "Fazenda": "33302",
+    "Unnamed: 16": null
   },
   {
     "ID": "4026459",
@@ -46618,7 +49211,8 @@ const SULCACAO_DATA = [
     "OS": "9785",
     "Frente": "135 - FRENTE PEDRINHO",
     "Profundidade do Sulco": "36",
-    "Fazenda": "33302"
+    "Fazenda": "33302",
+    "Unnamed: 16": null
   },
   {
     "ID": "4026454",
@@ -46636,7 +49230,8 @@ const SULCACAO_DATA = [
     "OS": "9785",
     "Frente": "135 - FRENTE PEDRINHO",
     "Profundidade do Sulco": "37",
-    "Fazenda": "33302"
+    "Fazenda": "33302",
+    "Unnamed: 16": null
   },
   {
     "ID": "4026452",
@@ -46654,7 +49249,8 @@ const SULCACAO_DATA = [
     "OS": "9785",
     "Frente": "135 - FRENTE PEDRINHO",
     "Profundidade do Sulco": "37",
-    "Fazenda": "33302"
+    "Fazenda": "33302",
+    "Unnamed: 16": null
   },
   {
     "ID": "4026281",
@@ -46672,7 +49268,8 @@ const SULCACAO_DATA = [
     "OS": "3455",
     "Frente": "135 - FRENTE PEDRINHO",
     "Profundidade do Sulco": "36",
-    "Fazenda": "33302"
+    "Fazenda": "33302",
+    "Unnamed: 16": null
   },
   {
     "ID": "4018225",
@@ -46690,7 +49287,8 @@ const SULCACAO_DATA = [
     "OS": "3445",
     "Frente": "135 - FRENTE PEDRINHO",
     "Profundidade do Sulco": "38",
-    "Fazenda": "70426"
+    "Fazenda": "70426",
+    "Unnamed: 16": null
   },
   {
     "ID": "4018220",
@@ -46708,7 +49306,8 @@ const SULCACAO_DATA = [
     "OS": "3445",
     "Frente": "135 - FRENTE PEDRINHO",
     "Profundidade do Sulco": "37",
-    "Fazenda": "70426"
+    "Fazenda": "70426",
+    "Unnamed: 16": null
   },
   {
     "ID": "4018216",
@@ -46726,7 +49325,8 @@ const SULCACAO_DATA = [
     "OS": "3445",
     "Frente": "135 - FRENTE PEDRINHO",
     "Profundidade do Sulco": "39",
-    "Fazenda": "70426"
+    "Fazenda": "70426",
+    "Unnamed: 16": null
   },
   {
     "ID": "4018212",
@@ -46744,7 +49344,8 @@ const SULCACAO_DATA = [
     "OS": "3445",
     "Frente": "135 - FRENTE PEDRINHO",
     "Profundidade do Sulco": "38",
-    "Fazenda": "70426"
+    "Fazenda": "70426",
+    "Unnamed: 16": null
   },
   {
     "ID": "4018208",
@@ -46762,7 +49363,8 @@ const SULCACAO_DATA = [
     "OS": "3445",
     "Frente": "135 - FRENTE PEDRINHO",
     "Profundidade do Sulco": "36",
-    "Fazenda": "70426"
+    "Fazenda": "70426",
+    "Unnamed: 16": null
   },
   {
     "ID": "4018200",
@@ -46780,7 +49382,8 @@ const SULCACAO_DATA = [
     "OS": "3445",
     "Frente": "135 - FRENTE PEDRINHO",
     "Profundidade do Sulco": "37",
-    "Fazenda": "70426"
+    "Fazenda": "70426",
+    "Unnamed: 16": null
   },
   {
     "ID": "4018204",
@@ -46798,7 +49401,8 @@ const SULCACAO_DATA = [
     "OS": "3445",
     "Frente": "135 - FRENTE PEDRINHO",
     "Profundidade do Sulco": "39",
-    "Fazenda": "70426"
+    "Fazenda": "70426",
+    "Unnamed: 16": null
   },
   {
     "ID": "4018196",
@@ -46816,7 +49420,8 @@ const SULCACAO_DATA = [
     "OS": "3445",
     "Frente": "135 - FRENTE PEDRINHO",
     "Profundidade do Sulco": "39",
-    "Fazenda": "70426"
+    "Fazenda": "70426",
+    "Unnamed: 16": null
   },
   {
     "ID": "4018192",
@@ -46834,7 +49439,8 @@ const SULCACAO_DATA = [
     "OS": "3445",
     "Frente": "135 - FRENTE PEDRINHO",
     "Profundidade do Sulco": "36",
-    "Fazenda": "70426"
+    "Fazenda": "70426",
+    "Unnamed: 16": null
   },
   {
     "ID": "4018188",
@@ -46852,7 +49458,8 @@ const SULCACAO_DATA = [
     "OS": "3445",
     "Frente": "135 - FRENTE PEDRINHO",
     "Profundidade do Sulco": "39",
-    "Fazenda": "70426"
+    "Fazenda": "70426",
+    "Unnamed: 16": null
   },
   {
     "ID": "4018184",
@@ -46870,7 +49477,8 @@ const SULCACAO_DATA = [
     "OS": "3445",
     "Frente": "135 - FRENTE PEDRINHO",
     "Profundidade do Sulco": "38",
-    "Fazenda": "70426"
+    "Fazenda": "70426",
+    "Unnamed: 16": null
   },
   {
     "ID": "4018180",
@@ -46888,7 +49496,8 @@ const SULCACAO_DATA = [
     "OS": "3445",
     "Frente": "135 - FRENTE PEDRINHO",
     "Profundidade do Sulco": "37",
-    "Fazenda": "70426"
+    "Fazenda": "70426",
+    "Unnamed: 16": null
   },
   {
     "ID": "4015746",
@@ -46906,7 +49515,8 @@ const SULCACAO_DATA = [
     "OS": "3445",
     "Frente": "135 - FRENTE PEDRINHO",
     "Profundidade do Sulco": "39",
-    "Fazenda": "70426"
+    "Fazenda": "70426",
+    "Unnamed: 16": null
   },
   {
     "ID": "4015745",
@@ -46924,7 +49534,8 @@ const SULCACAO_DATA = [
     "OS": "3445",
     "Frente": "135 - FRENTE PEDRINHO",
     "Profundidade do Sulco": "39",
-    "Fazenda": "70426"
+    "Fazenda": "70426",
+    "Unnamed: 16": null
   },
   {
     "ID": "4015744",
@@ -46942,7 +49553,8 @@ const SULCACAO_DATA = [
     "OS": "3445",
     "Frente": "135 - FRENTE PEDRINHO",
     "Profundidade do Sulco": "41",
-    "Fazenda": "70426"
+    "Fazenda": "70426",
+    "Unnamed: 16": null
   },
   {
     "ID": "4013474",
@@ -46960,7 +49572,8 @@ const SULCACAO_DATA = [
     "OS": "3444",
     "Frente": "135 - FRENTE PEDRINHO",
     "Profundidade do Sulco": "38",
-    "Fazenda": "70301"
+    "Fazenda": "70301",
+    "Unnamed: 16": null
   },
   {
     "ID": "4013466",
@@ -46978,7 +49591,8 @@ const SULCACAO_DATA = [
     "OS": "3444",
     "Frente": "135 - FRENTE PEDRINHO",
     "Profundidade do Sulco": "39",
-    "Fazenda": "70301"
+    "Fazenda": "70301",
+    "Unnamed: 16": null
   },
   {
     "ID": "4013457",
@@ -46996,7 +49610,8 @@ const SULCACAO_DATA = [
     "OS": "3444",
     "Frente": "135 - FRENTE PEDRINHO",
     "Profundidade do Sulco": "36",
-    "Fazenda": "70301"
+    "Fazenda": "70301",
+    "Unnamed: 16": null
   },
   {
     "ID": "4013461",
@@ -47014,7 +49629,8 @@ const SULCACAO_DATA = [
     "OS": "3444",
     "Frente": "135 - FRENTE PEDRINHO",
     "Profundidade do Sulco": "37",
-    "Fazenda": "70301"
+    "Fazenda": "70301",
+    "Unnamed: 16": null
   },
   {
     "ID": "4013452",
@@ -47032,7 +49648,8 @@ const SULCACAO_DATA = [
     "OS": "3444",
     "Frente": "135 - FRENTE PEDRINHO",
     "Profundidade do Sulco": "37",
-    "Fazenda": "70301"
+    "Fazenda": "70301",
+    "Unnamed: 16": null
   },
   {
     "ID": "4013448",
@@ -47050,7 +49667,8 @@ const SULCACAO_DATA = [
     "OS": "3444",
     "Frente": "135 - FRENTE PEDRINHO",
     "Profundidade do Sulco": "38",
-    "Fazenda": "70301"
+    "Fazenda": "70301",
+    "Unnamed: 16": null
   },
   {
     "ID": "4013444",
@@ -47068,7 +49686,8 @@ const SULCACAO_DATA = [
     "OS": "3444",
     "Frente": "135 - FRENTE PEDRINHO",
     "Profundidade do Sulco": "36",
-    "Fazenda": "70301"
+    "Fazenda": "70301",
+    "Unnamed: 16": null
   },
   {
     "ID": "4013440",
@@ -47086,7 +49705,8 @@ const SULCACAO_DATA = [
     "OS": "3444",
     "Frente": "135 - FRENTE PEDRINHO",
     "Profundidade do Sulco": "38",
-    "Fazenda": "70301"
+    "Fazenda": "70301",
+    "Unnamed: 16": null
   },
   {
     "ID": "4013436",
@@ -47104,7 +49724,8 @@ const SULCACAO_DATA = [
     "OS": "3444",
     "Frente": "135 - FRENTE PEDRINHO",
     "Profundidade do Sulco": "39",
-    "Fazenda": "70301"
+    "Fazenda": "70301",
+    "Unnamed: 16": null
   },
   {
     "ID": "4013432",
@@ -47122,7 +49743,8 @@ const SULCACAO_DATA = [
     "OS": "3444",
     "Frente": "135 - FRENTE PEDRINHO",
     "Profundidade do Sulco": "37",
-    "Fazenda": "70301"
+    "Fazenda": "70301",
+    "Unnamed: 16": null
   },
   {
     "ID": "4013427",
@@ -47140,7 +49762,8 @@ const SULCACAO_DATA = [
     "OS": "3444",
     "Frente": "135 - FRENTE PEDRINHO",
     "Profundidade do Sulco": "38",
-    "Fazenda": "70301"
+    "Fazenda": "70301",
+    "Unnamed: 16": null
   },
   {
     "ID": "4010643",
@@ -47158,7 +49781,8 @@ const SULCACAO_DATA = [
     "OS": "3444",
     "Frente": "135 - FRENTE PEDRINHO",
     "Profundidade do Sulco": "37",
-    "Fazenda": "70301"
+    "Fazenda": "70301",
+    "Unnamed: 16": null
   },
   {
     "ID": "4010636",
@@ -47176,7 +49800,8 @@ const SULCACAO_DATA = [
     "OS": "3444",
     "Frente": "135 - FRENTE PEDRINHO",
     "Profundidade do Sulco": "39",
-    "Fazenda": "70301"
+    "Fazenda": "70301",
+    "Unnamed: 16": null
   },
   {
     "ID": "4010631",
@@ -47194,7 +49819,8 @@ const SULCACAO_DATA = [
     "OS": "3444",
     "Frente": "135 - FRENTE PEDRINHO",
     "Profundidade do Sulco": "38",
-    "Fazenda": "70301"
+    "Fazenda": "70301",
+    "Unnamed: 16": null
   },
   {
     "ID": "4010627",
@@ -47212,7 +49838,8 @@ const SULCACAO_DATA = [
     "OS": "3444",
     "Frente": "135 - FRENTE PEDRINHO",
     "Profundidade do Sulco": "38",
-    "Fazenda": "70301"
+    "Fazenda": "70301",
+    "Unnamed: 16": null
   },
   {
     "ID": "4010623",
@@ -47230,7 +49857,8 @@ const SULCACAO_DATA = [
     "OS": "3444",
     "Frente": "135 - FRENTE PEDRINHO",
     "Profundidade do Sulco": "37",
-    "Fazenda": "70301"
+    "Fazenda": "70301",
+    "Unnamed: 16": null
   },
   {
     "ID": "4010619",
@@ -47248,7 +49876,8 @@ const SULCACAO_DATA = [
     "OS": "3444",
     "Frente": "135 - FRENTE PEDRINHO",
     "Profundidade do Sulco": "39",
-    "Fazenda": "70301"
+    "Fazenda": "70301",
+    "Unnamed: 16": null
   },
   {
     "ID": "4010615",
@@ -47266,7 +49895,8 @@ const SULCACAO_DATA = [
     "OS": "3444",
     "Frente": "135 - FRENTE PEDRINHO",
     "Profundidade do Sulco": "37",
-    "Fazenda": "70301"
+    "Fazenda": "70301",
+    "Unnamed: 16": null
   },
   {
     "ID": "4010611",
@@ -47284,7 +49914,8 @@ const SULCACAO_DATA = [
     "OS": "3444",
     "Frente": "135 - FRENTE PEDRINHO",
     "Profundidade do Sulco": "38",
-    "Fazenda": "70301"
+    "Fazenda": "70301",
+    "Unnamed: 16": null
   },
   {
     "ID": "4006542",
@@ -47302,7 +49933,8 @@ const SULCACAO_DATA = [
     "OS": "3446",
     "Frente": "135 - FRENTE PEDRINHO",
     "Profundidade do Sulco": "36",
-    "Fazenda": "70431"
+    "Fazenda": "70431",
+    "Unnamed: 16": null
   },
   {
     "ID": "4006538",
@@ -47320,7 +49952,8 @@ const SULCACAO_DATA = [
     "OS": "3446",
     "Frente": "135 - FRENTE PEDRINHO",
     "Profundidade do Sulco": "37",
-    "Fazenda": "70431"
+    "Fazenda": "70431",
+    "Unnamed: 16": null
   },
   {
     "ID": "4006533",
@@ -47338,7 +49971,8 @@ const SULCACAO_DATA = [
     "OS": "3446",
     "Frente": "135 - FRENTE PEDRINHO",
     "Profundidade do Sulco": "38",
-    "Fazenda": "70431"
+    "Fazenda": "70431",
+    "Unnamed: 16": null
   },
   {
     "ID": "4006518",
@@ -47356,7 +49990,8 @@ const SULCACAO_DATA = [
     "OS": "3446",
     "Frente": "135 - FRENTE PEDRINHO",
     "Profundidade do Sulco": "36",
-    "Fazenda": "70431"
+    "Fazenda": "70431",
+    "Unnamed: 16": null
   },
   {
     "ID": "4006514",
@@ -47374,7 +50009,8 @@ const SULCACAO_DATA = [
     "OS": "3446",
     "Frente": "135 - FRENTE PEDRINHO",
     "Profundidade do Sulco": "39",
-    "Fazenda": "70431"
+    "Fazenda": "70431",
+    "Unnamed: 16": null
   },
   {
     "ID": "4006510",
@@ -47392,7 +50028,8 @@ const SULCACAO_DATA = [
     "OS": "3446",
     "Frente": "135 - FRENTE PEDRINHO",
     "Profundidade do Sulco": "38",
-    "Fazenda": "70431"
+    "Fazenda": "70431",
+    "Unnamed: 16": null
   },
   {
     "ID": "4006506",
@@ -47410,7 +50047,8 @@ const SULCACAO_DATA = [
     "OS": "3446",
     "Frente": "135 - FRENTE PEDRINHO",
     "Profundidade do Sulco": "37",
-    "Fazenda": "70431"
+    "Fazenda": "70431",
+    "Unnamed: 16": null
   },
   {
     "ID": "4006243",
@@ -47428,7 +50066,8 @@ const SULCACAO_DATA = [
     "OS": "3446",
     "Frente": "135 - FRENTE PEDRINHO",
     "Profundidade do Sulco": "36",
-    "Fazenda": "70431"
+    "Fazenda": "70431",
+    "Unnamed: 16": null
   },
   {
     "ID": "4006502",
@@ -47446,7 +50085,8 @@ const SULCACAO_DATA = [
     "OS": "3446",
     "Frente": "135 - FRENTE PEDRINHO",
     "Profundidade do Sulco": "38",
-    "Fazenda": "70431"
+    "Fazenda": "70431",
+    "Unnamed: 16": null
   },
   {
     "ID": "4006498",
@@ -47464,7 +50104,8 @@ const SULCACAO_DATA = [
     "OS": "3446",
     "Frente": "135 - FRENTE PEDRINHO",
     "Profundidade do Sulco": "37",
-    "Fazenda": "70431"
+    "Fazenda": "70431",
+    "Unnamed: 16": null
   },
   {
     "ID": "4006494",
@@ -47482,7 +50123,8 @@ const SULCACAO_DATA = [
     "OS": "3446",
     "Frente": "135 - FRENTE PEDRINHO",
     "Profundidade do Sulco": "36",
-    "Fazenda": "70431"
+    "Fazenda": "70431",
+    "Unnamed: 16": null
   },
   {
     "ID": "4006239",
@@ -47500,7 +50142,8 @@ const SULCACAO_DATA = [
     "OS": "3446",
     "Frente": "135 - FRENTE PEDRINHO",
     "Profundidade do Sulco": "38",
-    "Fazenda": "70431"
+    "Fazenda": "70431",
+    "Unnamed: 16": null
   },
   {
     "ID": "4006490",
@@ -47518,7 +50161,8 @@ const SULCACAO_DATA = [
     "OS": "3446",
     "Frente": "135 - FRENTE PEDRINHO",
     "Profundidade do Sulco": "37",
-    "Fazenda": "70431"
+    "Fazenda": "70431",
+    "Unnamed: 16": null
   },
   {
     "ID": "4006484",
@@ -47536,7 +50180,8 @@ const SULCACAO_DATA = [
     "OS": "3446",
     "Frente": "135 - FRENTE PEDRINHO",
     "Profundidade do Sulco": "38",
-    "Fazenda": "70431"
+    "Fazenda": "70431",
+    "Unnamed: 16": null
   },
   {
     "ID": "4006235",
@@ -47554,7 +50199,8 @@ const SULCACAO_DATA = [
     "OS": "3446",
     "Frente": "135 - FRENTE PEDRINHO",
     "Profundidade do Sulco": "39",
-    "Fazenda": "70431"
+    "Fazenda": "70431",
+    "Unnamed: 16": null
   },
   {
     "ID": "4004105",
@@ -47572,7 +50218,8 @@ const SULCACAO_DATA = [
     "OS": "3446",
     "Frente": "135 - FRENTE PEDRINHO",
     "Profundidade do Sulco": "38",
-    "Fazenda": "70431"
+    "Fazenda": "70431",
+    "Unnamed: 16": null
   },
   {
     "ID": "4004104",
@@ -47590,7 +50237,8 @@ const SULCACAO_DATA = [
     "OS": "3446",
     "Frente": "135 - FRENTE PEDRINHO",
     "Profundidade do Sulco": "36",
-    "Fazenda": "70431"
+    "Fazenda": "70431",
+    "Unnamed: 16": null
   },
   {
     "ID": "4004098",
@@ -47608,7 +50256,8 @@ const SULCACAO_DATA = [
     "OS": "3446",
     "Frente": "135 - FRENTE PEDRINHO",
     "Profundidade do Sulco": "8",
-    "Fazenda": "70431"
+    "Fazenda": "70431",
+    "Unnamed: 16": null
   },
   {
     "ID": "4004083",
@@ -47626,7 +50275,8 @@ const SULCACAO_DATA = [
     "OS": "3446",
     "Frente": "135 - FRENTE PEDRINHO",
     "Profundidade do Sulco": "36",
-    "Fazenda": "70431"
+    "Fazenda": "70431",
+    "Unnamed: 16": null
   },
   {
     "ID": "4004079",
@@ -47644,7 +50294,8 @@ const SULCACAO_DATA = [
     "OS": "3446",
     "Frente": "135 - FRENTE PEDRINHO",
     "Profundidade do Sulco": "37",
-    "Fazenda": "70431"
+    "Fazenda": "70431",
+    "Unnamed: 16": null
   },
   {
     "ID": "4004075",
@@ -47662,7 +50313,8 @@ const SULCACAO_DATA = [
     "OS": "3446",
     "Frente": "135 - FRENTE PEDRINHO",
     "Profundidade do Sulco": "38",
-    "Fazenda": "70431"
+    "Fazenda": "70431",
+    "Unnamed: 16": null
   },
   {
     "ID": "4004069",
@@ -47680,7 +50332,8 @@ const SULCACAO_DATA = [
     "OS": "3446",
     "Frente": "135 - FRENTE PEDRINHO",
     "Profundidade do Sulco": "38",
-    "Fazenda": "70431"
+    "Fazenda": "70431",
+    "Unnamed: 16": null
   },
   {
     "ID": "4004064",
@@ -47698,7 +50351,8 @@ const SULCACAO_DATA = [
     "OS": "3446",
     "Frente": "135 - FRENTE PEDRINHO",
     "Profundidade do Sulco": "36",
-    "Fazenda": "70431"
+    "Fazenda": "70431",
+    "Unnamed: 16": null
   },
   {
     "ID": "4004060",
@@ -47716,7 +50370,8 @@ const SULCACAO_DATA = [
     "OS": "3446",
     "Frente": "135 - FRENTE PEDRINHO",
     "Profundidade do Sulco": "37",
-    "Fazenda": "70431"
+    "Fazenda": "70431",
+    "Unnamed: 16": null
   },
   {
     "ID": "4004056",
@@ -47734,7 +50389,8 @@ const SULCACAO_DATA = [
     "OS": "3446",
     "Frente": "135 - FRENTE PEDRINHO",
     "Profundidade do Sulco": "38",
-    "Fazenda": "70431"
+    "Fazenda": "70431",
+    "Unnamed: 16": null
   },
   {
     "ID": "3998485",
@@ -47752,7 +50408,8 @@ const SULCACAO_DATA = [
     "OS": "3441",
     "Frente": "135 - FRENTE PEDRINHO",
     "Profundidade do Sulco": "38",
-    "Fazenda": "199802"
+    "Fazenda": "199802",
+    "Unnamed: 16": null
   },
   {
     "ID": "3998476",
@@ -47770,7 +50427,8 @@ const SULCACAO_DATA = [
     "OS": "3441",
     "Frente": "135 - FRENTE PEDRINHO",
     "Profundidade do Sulco": "38",
-    "Fazenda": "199802"
+    "Fazenda": "199802",
+    "Unnamed: 16": null
   },
   {
     "ID": "3998472",
@@ -47788,7 +50446,8 @@ const SULCACAO_DATA = [
     "OS": "3441",
     "Frente": "135 - FRENTE PEDRINHO",
     "Profundidade do Sulco": "37",
-    "Fazenda": "199802"
+    "Fazenda": "199802",
+    "Unnamed: 16": null
   },
   {
     "ID": "3998470",
@@ -47806,7 +50465,8 @@ const SULCACAO_DATA = [
     "OS": "3441",
     "Frente": "135 - FRENTE PEDRINHO",
     "Profundidade do Sulco": "36",
-    "Fazenda": "199802"
+    "Fazenda": "199802",
+    "Unnamed: 16": null
   },
   {
     "ID": "3998466",
@@ -47824,7 +50484,8 @@ const SULCACAO_DATA = [
     "OS": "3441",
     "Frente": "135 - FRENTE PEDRINHO",
     "Profundidade do Sulco": "37",
-    "Fazenda": "199802"
+    "Fazenda": "199802",
+    "Unnamed: 16": null
   },
   {
     "ID": "3998460",
@@ -47842,7 +50503,8 @@ const SULCACAO_DATA = [
     "OS": "3441",
     "Frente": "135 - FRENTE PEDRINHO",
     "Profundidade do Sulco": "38",
-    "Fazenda": "199802"
+    "Fazenda": "199802",
+    "Unnamed: 16": null
   },
   {
     "ID": "3998456",
@@ -47860,7 +50522,8 @@ const SULCACAO_DATA = [
     "OS": "3441",
     "Frente": "135 - FRENTE PEDRINHO",
     "Profundidade do Sulco": "37",
-    "Fazenda": "199802"
+    "Fazenda": "199802",
+    "Unnamed: 16": null
   },
   {
     "ID": "3998454",
@@ -47878,7 +50541,8 @@ const SULCACAO_DATA = [
     "OS": "3441",
     "Frente": "135 - FRENTE PEDRINHO",
     "Profundidade do Sulco": "38",
-    "Fazenda": "199802"
+    "Fazenda": "199802",
+    "Unnamed: 16": null
   },
   {
     "ID": "3997771",
@@ -47896,7 +50560,8 @@ const SULCACAO_DATA = [
     "OS": "3441",
     "Frente": "135 - FRENTE PEDRINHO",
     "Profundidade do Sulco": "38",
-    "Fazenda": "199802"
+    "Fazenda": "199802",
+    "Unnamed: 16": null
   },
   {
     "ID": "3997769",
@@ -47914,7 +50579,8 @@ const SULCACAO_DATA = [
     "OS": "3441",
     "Frente": "135 - FRENTE PEDRINHO",
     "Profundidade do Sulco": "36",
-    "Fazenda": "199802"
+    "Fazenda": "199802",
+    "Unnamed: 16": null
   },
   {
     "ID": "3997770",
@@ -47932,7 +50598,8 @@ const SULCACAO_DATA = [
     "OS": "3441",
     "Frente": "135 - FRENTE PEDRINHO",
     "Profundidade do Sulco": "38",
-    "Fazenda": "199802"
+    "Fazenda": "199802",
+    "Unnamed: 16": null
   },
   {
     "ID": "3949205",
@@ -47950,7 +50617,8 @@ const SULCACAO_DATA = [
     "OS": "3169",
     "Frente": "135 - FRENTE PEDRINHO",
     "Profundidade do Sulco": "37",
-    "Fazenda": "36813"
+    "Fazenda": "36813",
+    "Unnamed: 16": null
   },
   {
     "ID": "3949200",
@@ -47968,7 +50636,8 @@ const SULCACAO_DATA = [
     "OS": "3169",
     "Frente": "135 - FRENTE PEDRINHO",
     "Profundidade do Sulco": "38",
-    "Fazenda": "36813"
+    "Fazenda": "36813",
+    "Unnamed: 16": null
   },
   {
     "ID": "3949195",
@@ -47986,7 +50655,8 @@ const SULCACAO_DATA = [
     "OS": "3169",
     "Frente": "135 - FRENTE PEDRINHO",
     "Profundidade do Sulco": "38",
-    "Fazenda": "36813"
+    "Fazenda": "36813",
+    "Unnamed: 16": null
   },
   {
     "ID": "3949190",
@@ -48004,7 +50674,8 @@ const SULCACAO_DATA = [
     "OS": "3169",
     "Frente": "135 - FRENTE PEDRINHO",
     "Profundidade do Sulco": "37",
-    "Fazenda": "36813"
+    "Fazenda": "36813",
+    "Unnamed: 16": null
   },
   {
     "ID": "3949183",
@@ -48022,7 +50693,8 @@ const SULCACAO_DATA = [
     "OS": "3169",
     "Frente": "135 - FRENTE PEDRINHO",
     "Profundidade do Sulco": "37",
-    "Fazenda": "36813"
+    "Fazenda": "36813",
+    "Unnamed: 16": null
   },
   {
     "ID": "3949180",
@@ -48040,7 +50712,8 @@ const SULCACAO_DATA = [
     "OS": "3169",
     "Frente": "135 - FRENTE PEDRINHO",
     "Profundidade do Sulco": "38",
-    "Fazenda": "36813"
+    "Fazenda": "36813",
+    "Unnamed: 16": null
   },
   {
     "ID": "3946369",
@@ -48058,7 +50731,8 @@ const SULCACAO_DATA = [
     "OS": "3103",
     "Frente": "135 - FRENTE PEDRINHO",
     "Profundidade do Sulco": "37",
-    "Fazenda": "151901"
+    "Fazenda": "151901",
+    "Unnamed: 16": null
   },
   {
     "ID": "3946364",
@@ -48076,7 +50750,8 @@ const SULCACAO_DATA = [
     "OS": "3103",
     "Frente": "135 - FRENTE PEDRINHO",
     "Profundidade do Sulco": "38",
-    "Fazenda": "151901"
+    "Fazenda": "151901",
+    "Unnamed: 16": null
   },
   {
     "ID": "3946358",
@@ -48094,7 +50769,8 @@ const SULCACAO_DATA = [
     "OS": "3103",
     "Frente": "135 - FRENTE PEDRINHO",
     "Profundidade do Sulco": "38",
-    "Fazenda": "151901"
+    "Fazenda": "151901",
+    "Unnamed: 16": null
   },
   {
     "ID": "3946353",
@@ -48112,7 +50788,8 @@ const SULCACAO_DATA = [
     "OS": "3103",
     "Frente": "135 - FRENTE PEDRINHO",
     "Profundidade do Sulco": "38",
-    "Fazenda": "151901"
+    "Fazenda": "151901",
+    "Unnamed: 16": null
   },
   {
     "ID": "3942436",
@@ -48130,7 +50807,8 @@ const SULCACAO_DATA = [
     "OS": "3103",
     "Frente": "135 - FRENTE PEDRINHO",
     "Profundidade do Sulco": "37",
-    "Fazenda": "151901"
+    "Fazenda": "151901",
+    "Unnamed: 16": null
   },
   {
     "ID": "3942431",
@@ -48148,7 +50826,8 @@ const SULCACAO_DATA = [
     "OS": "3103",
     "Frente": "135 - FRENTE PEDRINHO",
     "Profundidade do Sulco": "37",
-    "Fazenda": "151901"
+    "Fazenda": "151901",
+    "Unnamed: 16": null
   },
   {
     "ID": "3942424",
@@ -48166,7 +50845,8 @@ const SULCACAO_DATA = [
     "OS": "3103",
     "Frente": "135 - FRENTE PEDRINHO",
     "Profundidade do Sulco": "38",
-    "Fazenda": "151901"
+    "Fazenda": "151901",
+    "Unnamed: 16": null
   },
   {
     "ID": "3942410",
@@ -48184,7 +50864,8 @@ const SULCACAO_DATA = [
     "OS": "3103",
     "Frente": "135 - FRENTE PEDRINHO",
     "Profundidade do Sulco": "37",
-    "Fazenda": "151901"
+    "Fazenda": "151901",
+    "Unnamed: 16": null
   },
   {
     "ID": "3942401",
@@ -48202,7 +50883,8 @@ const SULCACAO_DATA = [
     "OS": "3103",
     "Frente": "135 - FRENTE PEDRINHO",
     "Profundidade do Sulco": "38",
-    "Fazenda": "151901"
+    "Fazenda": "151901",
+    "Unnamed: 16": null
   },
   {
     "ID": "3942392",
@@ -48220,7 +50902,8 @@ const SULCACAO_DATA = [
     "OS": "3103",
     "Frente": "135 - FRENTE PEDRINHO",
     "Profundidade do Sulco": "38",
-    "Fazenda": "151901"
+    "Fazenda": "151901",
+    "Unnamed: 16": null
   },
   {
     "ID": "3942386",
@@ -48238,7 +50921,8 @@ const SULCACAO_DATA = [
     "OS": "3103",
     "Frente": "135 - FRENTE PEDRINHO",
     "Profundidade do Sulco": "38",
-    "Fazenda": "151901"
+    "Fazenda": "151901",
+    "Unnamed: 16": null
   },
   {
     "ID": "3942589",
@@ -48256,7 +50940,8 @@ const SULCACAO_DATA = [
     "OS": "3103",
     "Frente": "135 - FRENTE PEDRINHO",
     "Profundidade do Sulco": "38",
-    "Fazenda": "151901"
+    "Fazenda": "151901",
+    "Unnamed: 16": null
   },
   {
     "ID": "3941329",
@@ -48274,7 +50959,8 @@ const SULCACAO_DATA = [
     "OS": "3103",
     "Frente": "135 - FRENTE PEDRINHO",
     "Profundidade do Sulco": "37",
-    "Fazenda": "151901"
+    "Fazenda": "151901",
+    "Unnamed: 16": null
   },
   {
     "ID": "3939134",
@@ -48292,7 +50978,8 @@ const SULCACAO_DATA = [
     "OS": "3103",
     "Frente": "135 - FRENTE PEDRINHO",
     "Profundidade do Sulco": "38",
-    "Fazenda": "151901"
+    "Fazenda": "151901",
+    "Unnamed: 16": null
   },
   {
     "ID": "3939360",
@@ -48310,7 +50997,8 @@ const SULCACAO_DATA = [
     "OS": "3199",
     "Frente": "261 - FRENTE PRÓPRIA  (EDMILSON)",
     "Profundidade do Sulco": "38",
-    "Fazenda": "177012"
+    "Fazenda": "177012",
+    "Unnamed: 16": null
   },
   {
     "ID": "3939129",
@@ -48328,7 +51016,8 @@ const SULCACAO_DATA = [
     "OS": "135",
     "Frente": "135 - FRENTE PEDRINHO",
     "Profundidade do Sulco": "39",
-    "Fazenda": "151901"
+    "Fazenda": "151901",
+    "Unnamed: 16": null
   },
   {
     "ID": "3939124",
@@ -48346,7 +51035,8 @@ const SULCACAO_DATA = [
     "OS": "3103",
     "Frente": "135 - FRENTE PEDRINHO",
     "Profundidade do Sulco": "38",
-    "Fazenda": "151901"
+    "Fazenda": "151901",
+    "Unnamed: 16": null
   },
   {
     "ID": "3939119",
@@ -48364,7 +51054,8 @@ const SULCACAO_DATA = [
     "OS": "3103",
     "Frente": "135 - FRENTE PEDRINHO",
     "Profundidade do Sulco": "37",
-    "Fazenda": "151901"
+    "Fazenda": "151901",
+    "Unnamed: 16": null
   },
   {
     "ID": "3939352",
@@ -48382,7 +51073,8 @@ const SULCACAO_DATA = [
     "OS": "3199",
     "Frente": "261 - FRENTE PRÓPRIA  (EDMILSON)",
     "Profundidade do Sulco": "39",
-    "Fazenda": "177012"
+    "Fazenda": "177012",
+    "Unnamed: 16": null
   },
   {
     "ID": "3939114",
@@ -48400,7 +51092,8 @@ const SULCACAO_DATA = [
     "OS": "3103",
     "Frente": "135 - FRENTE PEDRINHO",
     "Profundidade do Sulco": "38",
-    "Fazenda": "151901"
+    "Fazenda": "151901",
+    "Unnamed: 16": null
   },
   {
     "ID": "3939336",
@@ -48418,7 +51111,8 @@ const SULCACAO_DATA = [
     "OS": "3199",
     "Frente": "261 - FRENTE PRÓPRIA  (EDMILSON)",
     "Profundidade do Sulco": "38",
-    "Fazenda": "177012"
+    "Fazenda": "177012",
+    "Unnamed: 16": null
   },
   {
     "ID": "3939113",
@@ -48436,7 +51130,8 @@ const SULCACAO_DATA = [
     "OS": "3103",
     "Frente": "135 - FRENTE PEDRINHO",
     "Profundidade do Sulco": "38",
-    "Fazenda": "151901"
+    "Fazenda": "151901",
+    "Unnamed: 16": null
   },
   {
     "ID": "3939103",
@@ -48454,7 +51149,8 @@ const SULCACAO_DATA = [
     "OS": "3103",
     "Frente": "135 - FRENTE PEDRINHO",
     "Profundidade do Sulco": "37",
-    "Fazenda": "151901"
+    "Fazenda": "151901",
+    "Unnamed: 16": null
   },
   {
     "ID": "3939446",
@@ -48472,7 +51168,8 @@ const SULCACAO_DATA = [
     "OS": "3199",
     "Frente": "261 - FRENTE PRÓPRIA  (EDMILSON)",
     "Profundidade do Sulco": "38",
-    "Fazenda": "177012"
+    "Fazenda": "177012",
+    "Unnamed: 16": null
   },
   {
     "ID": "3939097",
@@ -48490,7 +51187,8 @@ const SULCACAO_DATA = [
     "OS": "3103",
     "Frente": "135 - FRENTE PEDRINHO",
     "Profundidade do Sulco": "38",
-    "Fazenda": "151901"
+    "Fazenda": "151901",
+    "Unnamed: 16": null
   },
   {
     "ID": "3936086",
@@ -48508,7 +51206,8 @@ const SULCACAO_DATA = [
     "OS": "3199",
     "Frente": "261 - FRENTE PRÓPRIA  (EDMILSON)",
     "Profundidade do Sulco": "38",
-    "Fazenda": "151901"
+    "Fazenda": "151901",
+    "Unnamed: 16": null
   },
   {
     "ID": "3936061",
@@ -48526,7 +51225,8 @@ const SULCACAO_DATA = [
     "OS": "3199",
     "Frente": "261 - FRENTE PRÓPRIA  (EDMILSON)",
     "Profundidade do Sulco": "37",
-    "Fazenda": "151901"
+    "Fazenda": "151901",
+    "Unnamed: 16": null
   },
   {
     "ID": "3936047",
@@ -48544,7 +51244,8 @@ const SULCACAO_DATA = [
     "OS": "3199",
     "Frente": "261 - FRENTE PRÓPRIA  (EDMILSON)",
     "Profundidade do Sulco": "40",
-    "Fazenda": "151901"
+    "Fazenda": "151901",
+    "Unnamed: 16": null
   },
   {
     "ID": "3936040",
@@ -48562,7 +51263,8 @@ const SULCACAO_DATA = [
     "OS": "3199",
     "Frente": "261 - FRENTE PRÓPRIA  (EDMILSON)",
     "Profundidade do Sulco": "37",
-    "Fazenda": "151901"
+    "Fazenda": "151901",
+    "Unnamed: 16": null
   },
   {
     "ID": "3936035",
@@ -48580,7 +51282,8 @@ const SULCACAO_DATA = [
     "OS": "3199",
     "Frente": "261 - FRENTE PRÓPRIA  (EDMILSON)",
     "Profundidade do Sulco": "38",
-    "Fazenda": "151901"
+    "Fazenda": "151901",
+    "Unnamed: 16": null
   },
   {
     "ID": "3936031",
@@ -48598,7 +51301,8 @@ const SULCACAO_DATA = [
     "OS": "3199",
     "Frente": "261 - FRENTE PRÓPRIA  (EDMILSON)",
     "Profundidade do Sulco": "39",
-    "Fazenda": "151901"
+    "Fazenda": "151901",
+    "Unnamed: 16": null
   },
   {
     "ID": "3938593",
@@ -48616,7 +51320,8 @@ const SULCACAO_DATA = [
     "OS": "3103",
     "Frente": "135 - FRENTE PEDRINHO",
     "Profundidade do Sulco": "41",
-    "Fazenda": "151901"
+    "Fazenda": "151901",
+    "Unnamed: 16": null
   },
   {
     "ID": "3938586",
@@ -48634,7 +51339,8 @@ const SULCACAO_DATA = [
     "OS": "3103",
     "Frente": "135 - FRENTE PEDRINHO",
     "Profundidade do Sulco": "36",
-    "Fazenda": "151901"
+    "Fazenda": "151901",
+    "Unnamed: 16": null
   },
   {
     "ID": "3936106",
@@ -48652,7 +51358,8 @@ const SULCACAO_DATA = [
     "OS": "3199",
     "Frente": "135 - FRENTE PEDRINHO",
     "Profundidade do Sulco": "39",
-    "Fazenda": "151901"
+    "Fazenda": "151901",
+    "Unnamed: 16": null
   },
   {
     "ID": "3936110",
@@ -48670,7 +51377,8 @@ const SULCACAO_DATA = [
     "OS": "3199",
     "Frente": "135 - FRENTE PEDRINHO",
     "Profundidade do Sulco": "38",
-    "Fazenda": "151901"
+    "Fazenda": "151901",
+    "Unnamed: 16": null
   },
   {
     "ID": "3938581",
@@ -48688,7 +51396,8 @@ const SULCACAO_DATA = [
     "OS": "3103",
     "Frente": "135 - FRENTE PEDRINHO",
     "Profundidade do Sulco": "38",
-    "Fazenda": "151901"
+    "Fazenda": "151901",
+    "Unnamed: 16": null
   },
   {
     "ID": "3936117",
@@ -48706,7 +51415,8 @@ const SULCACAO_DATA = [
     "OS": "3199",
     "Frente": "135 - FRENTE PEDRINHO",
     "Profundidade do Sulco": "37",
-    "Fazenda": "151901"
+    "Fazenda": "151901",
+    "Unnamed: 16": null
   },
   {
     "ID": "3936122",
@@ -48724,7 +51434,8 @@ const SULCACAO_DATA = [
     "OS": "3199",
     "Frente": "135 - FRENTE PEDRINHO",
     "Profundidade do Sulco": "37",
-    "Fazenda": "151901"
+    "Fazenda": "151901",
+    "Unnamed: 16": null
   },
   {
     "ID": "3936127",
@@ -48742,7 +51453,8 @@ const SULCACAO_DATA = [
     "OS": "3199",
     "Frente": "135 - FRENTE PEDRINHO",
     "Profundidade do Sulco": "37",
-    "Fazenda": "151901"
+    "Fazenda": "151901",
+    "Unnamed: 16": null
   },
   {
     "ID": "3936132",
@@ -48760,7 +51472,8 @@ const SULCACAO_DATA = [
     "OS": "3199",
     "Frente": "135 - FRENTE PEDRINHO",
     "Profundidade do Sulco": "39",
-    "Fazenda": "151901"
+    "Fazenda": "151901",
+    "Unnamed: 16": null
   },
   {
     "ID": "3936136",
@@ -48778,7 +51491,8 @@ const SULCACAO_DATA = [
     "OS": "3199",
     "Frente": "135 - FRENTE PEDRINHO",
     "Profundidade do Sulco": "39",
-    "Fazenda": "151901"
+    "Fazenda": "151901",
+    "Unnamed: 16": null
   },
   {
     "ID": "3938506",
@@ -48796,7 +51510,8 @@ const SULCACAO_DATA = [
     "OS": "3199",
     "Frente": "261 - FRENTE PRÓPRIA  (EDMILSON)",
     "Profundidade do Sulco": "37",
-    "Fazenda": "177012"
+    "Fazenda": "177012",
+    "Unnamed: 16": null
   },
   {
     "ID": "3936024",
@@ -48814,7 +51529,8 @@ const SULCACAO_DATA = [
     "OS": "1353",
     "Frente": "135 - FRENTE PEDRINHO",
     "Profundidade do Sulco": "39",
-    "Fazenda": "151901"
+    "Fazenda": "151901",
+    "Unnamed: 16": null
   },
   {
     "ID": "3931253",
@@ -48832,7 +51548,8 @@ const SULCACAO_DATA = [
     "OS": "3056",
     "Frente": "261 - FRENTE PRÓPRIA  (EDMILSON)",
     "Profundidade do Sulco": "37",
-    "Fazenda": "67901"
+    "Fazenda": "67901",
+    "Unnamed: 16": null
   },
   {
     "ID": "3931249",
@@ -48850,7 +51567,8 @@ const SULCACAO_DATA = [
     "OS": "3056",
     "Frente": "261 - FRENTE PRÓPRIA  (EDMILSON)",
     "Profundidade do Sulco": "40",
-    "Fazenda": "67901"
+    "Fazenda": "67901",
+    "Unnamed: 16": null
   },
   {
     "ID": "3931239",
@@ -48868,7 +51586,8 @@ const SULCACAO_DATA = [
     "OS": "3056",
     "Frente": "261 - FRENTE PRÓPRIA  (EDMILSON)",
     "Profundidade do Sulco": "38",
-    "Fazenda": "67901"
+    "Fazenda": "67901",
+    "Unnamed: 16": null
   },
   {
     "ID": "3928757",
@@ -48886,7 +51605,8 @@ const SULCACAO_DATA = [
     "OS": "3056",
     "Frente": "261 - FRENTE PRÓPRIA  (EDMILSON)",
     "Profundidade do Sulco": "37",
-    "Fazenda": "67901"
+    "Fazenda": "67901",
+    "Unnamed: 16": null
   },
   {
     "ID": "3928751",
@@ -48904,7 +51624,8 @@ const SULCACAO_DATA = [
     "OS": "3056",
     "Frente": "261 - FRENTE PRÓPRIA  (EDMILSON)",
     "Profundidade do Sulco": "38",
-    "Fazenda": "67901"
+    "Fazenda": "67901",
+    "Unnamed: 16": null
   },
   {
     "ID": "3928747",
@@ -48922,7 +51643,8 @@ const SULCACAO_DATA = [
     "OS": "3056",
     "Frente": "261 - FRENTE PRÓPRIA  (EDMILSON)",
     "Profundidade do Sulco": "38",
-    "Fazenda": "67901"
+    "Fazenda": "67901",
+    "Unnamed: 16": null
   },
   {
     "ID": "3928533",
@@ -48940,7 +51662,8 @@ const SULCACAO_DATA = [
     "OS": "1354",
     "Frente": "135 - FRENTE PEDRINHO",
     "Profundidade do Sulco": "37",
-    "Fazenda": "151901"
+    "Fazenda": "151901",
+    "Unnamed: 16": null
   },
   {
     "ID": "3928740",
@@ -48958,7 +51681,8 @@ const SULCACAO_DATA = [
     "OS": "3056",
     "Frente": "261 - FRENTE PRÓPRIA  (EDMILSON)",
     "Profundidade do Sulco": "38",
-    "Fazenda": "67901"
+    "Fazenda": "67901",
+    "Unnamed: 16": null
   },
   {
     "ID": "3928528",
@@ -48976,7 +51700,8 @@ const SULCACAO_DATA = [
     "OS": "1354",
     "Frente": "135 - FRENTE PEDRINHO",
     "Profundidade do Sulco": "38",
-    "Fazenda": "151901"
+    "Fazenda": "151901",
+    "Unnamed: 16": null
   },
   {
     "ID": "3928736",
@@ -48994,7 +51719,8 @@ const SULCACAO_DATA = [
     "OS": "3056",
     "Frente": "261 - FRENTE PRÓPRIA  (EDMILSON)",
     "Profundidade do Sulco": "38",
-    "Fazenda": "67901"
+    "Fazenda": "67901",
+    "Unnamed: 16": null
   },
   {
     "ID": "3928523",
@@ -49012,7 +51738,8 @@ const SULCACAO_DATA = [
     "OS": "1354",
     "Frente": "135 - FRENTE PEDRINHO",
     "Profundidade do Sulco": "38",
-    "Fazenda": "151901"
+    "Fazenda": "151901",
+    "Unnamed: 16": null
   },
   {
     "ID": "3928732",
@@ -49030,7 +51757,8 @@ const SULCACAO_DATA = [
     "OS": "3056",
     "Frente": "261 - FRENTE PRÓPRIA  (EDMILSON)",
     "Profundidade do Sulco": "39",
-    "Fazenda": "67901"
+    "Fazenda": "67901",
+    "Unnamed: 16": null
   },
   {
     "ID": "3928728",
@@ -49048,7 +51776,8 @@ const SULCACAO_DATA = [
     "OS": "3056",
     "Frente": "261 - FRENTE PRÓPRIA  (EDMILSON)",
     "Profundidade do Sulco": "37",
-    "Fazenda": "67901"
+    "Fazenda": "67901",
+    "Unnamed: 16": null
   },
   {
     "ID": "3928517",
@@ -49066,7 +51795,8 @@ const SULCACAO_DATA = [
     "OS": "1354",
     "Frente": "135 - FRENTE PEDRINHO",
     "Profundidade do Sulco": "36",
-    "Fazenda": "151901"
+    "Fazenda": "151901",
+    "Unnamed: 16": null
   },
   {
     "ID": "3928512",
@@ -49084,7 +51814,8 @@ const SULCACAO_DATA = [
     "OS": "1354",
     "Frente": "135 - FRENTE PEDRINHO",
     "Profundidade do Sulco": "37",
-    "Fazenda": "151901"
+    "Fazenda": "151901",
+    "Unnamed: 16": null
   },
   {
     "ID": "3928719",
@@ -49102,7 +51833,8 @@ const SULCACAO_DATA = [
     "OS": "3056",
     "Frente": "261 - FRENTE PRÓPRIA  (EDMILSON)",
     "Profundidade do Sulco": "38",
-    "Fazenda": "67901"
+    "Fazenda": "67901",
+    "Unnamed: 16": null
   },
   {
     "ID": "3928507",
@@ -49120,7 +51852,8 @@ const SULCACAO_DATA = [
     "OS": "1354",
     "Frente": "135 - FRENTE PEDRINHO",
     "Profundidade do Sulco": "38",
-    "Fazenda": "151901"
+    "Fazenda": "151901",
+    "Unnamed: 16": null
   },
   {
     "ID": "3928715",
@@ -49138,7 +51871,8 @@ const SULCACAO_DATA = [
     "OS": "3056",
     "Frente": "261 - FRENTE PRÓPRIA  (EDMILSON)",
     "Profundidade do Sulco": "37",
-    "Fazenda": "67901"
+    "Fazenda": "67901",
+    "Unnamed: 16": null
   },
   {
     "ID": "3928502",
@@ -49156,7 +51890,8 @@ const SULCACAO_DATA = [
     "OS": "1354",
     "Frente": "135 - FRENTE PEDRINHO",
     "Profundidade do Sulco": "37",
-    "Fazenda": "151901"
+    "Fazenda": "151901",
+    "Unnamed: 16": null
   },
   {
     "ID": "3928711",
@@ -49174,7 +51909,8 @@ const SULCACAO_DATA = [
     "OS": "3056",
     "Frente": "261 - FRENTE PRÓPRIA  (EDMILSON)",
     "Profundidade do Sulco": "37",
-    "Fazenda": "67901"
+    "Fazenda": "67901",
+    "Unnamed: 16": null
   },
   {
     "ID": "3928499",
@@ -49192,7 +51928,8 @@ const SULCACAO_DATA = [
     "OS": "1354",
     "Frente": "135 - FRENTE PEDRINHO",
     "Profundidade do Sulco": "38",
-    "Fazenda": "151901"
+    "Fazenda": "151901",
+    "Unnamed: 16": null
   },
   {
     "ID": "3928706",
@@ -49210,7 +51947,8 @@ const SULCACAO_DATA = [
     "OS": "3056",
     "Frente": "261 - FRENTE PRÓPRIA  (EDMILSON)",
     "Profundidade do Sulco": "37",
-    "Fazenda": "67901"
+    "Fazenda": "67901",
+    "Unnamed: 16": null
   },
   {
     "ID": "3928975",
@@ -49228,7 +51966,8 @@ const SULCACAO_DATA = [
     "OS": "3056",
     "Frente": "261 - FRENTE PRÓPRIA  (EDMILSON)",
     "Profundidade do Sulco": "38",
-    "Fazenda": "67901"
+    "Fazenda": "67901",
+    "Unnamed: 16": null
   },
   {
     "ID": "3928958",
@@ -49246,7 +51985,8 @@ const SULCACAO_DATA = [
     "OS": "305",
     "Frente": "261 - FRENTE PRÓPRIA  (EDMILSON)",
     "Profundidade do Sulco": "39",
-    "Fazenda": "67901"
+    "Fazenda": "67901",
+    "Unnamed: 16": null
   },
   {
     "ID": "3928291",
@@ -49264,7 +52004,8 @@ const SULCACAO_DATA = [
     "OS": "3056",
     "Frente": "261 - FRENTE PRÓPRIA  (EDMILSON)",
     "Profundidade do Sulco": "39",
-    "Fazenda": "67901"
+    "Fazenda": "67901",
+    "Unnamed: 16": null
   },
   {
     "ID": "3928896",
@@ -49282,7 +52023,8 @@ const SULCACAO_DATA = [
     "OS": "3056",
     "Frente": "261 - FRENTE PRÓPRIA  (EDMILSON)",
     "Profundidade do Sulco": "37",
-    "Fazenda": "67901"
+    "Fazenda": "67901",
+    "Unnamed: 16": null
   },
   {
     "ID": "3926129",
@@ -49300,7 +52042,8 @@ const SULCACAO_DATA = [
     "OS": "3057",
     "Frente": "135 - FRENTE PEDRINHO",
     "Profundidade do Sulco": "37",
-    "Fazenda": "177015"
+    "Fazenda": "177015",
+    "Unnamed: 16": null
   },
   {
     "ID": "3926124",
@@ -49318,7 +52061,8 @@ const SULCACAO_DATA = [
     "OS": "3057",
     "Frente": "135 - FRENTE PEDRINHO",
     "Profundidade do Sulco": "36",
-    "Fazenda": "177015"
+    "Fazenda": "177015",
+    "Unnamed: 16": null
   },
   {
     "ID": "3926119",
@@ -49336,7 +52080,8 @@ const SULCACAO_DATA = [
     "OS": "3057",
     "Frente": "135 - FRENTE PEDRINHO",
     "Profundidade do Sulco": "37",
-    "Fazenda": "177015"
+    "Fazenda": "177015",
+    "Unnamed: 16": null
   },
   {
     "ID": "3926114",
@@ -49354,7 +52099,8 @@ const SULCACAO_DATA = [
     "OS": "3057",
     "Frente": "135 - FRENTE PEDRINHO",
     "Profundidade do Sulco": "36",
-    "Fazenda": "177015"
+    "Fazenda": "177015",
+    "Unnamed: 16": null
   },
   {
     "ID": "3926109",
@@ -49372,7 +52118,8 @@ const SULCACAO_DATA = [
     "OS": "3057",
     "Frente": "135 - FRENTE PEDRINHO",
     "Profundidade do Sulco": "38",
-    "Fazenda": "177015"
+    "Fazenda": "177015",
+    "Unnamed: 16": null
   },
   {
     "ID": "3926104",
@@ -49390,7 +52137,8 @@ const SULCACAO_DATA = [
     "OS": "3057",
     "Frente": "135 - FRENTE PEDRINHO",
     "Profundidade do Sulco": "37",
-    "Fazenda": "177015"
+    "Fazenda": "177015",
+    "Unnamed: 16": null
   },
   {
     "ID": "3926098",
@@ -49408,7 +52156,8 @@ const SULCACAO_DATA = [
     "OS": "3057",
     "Frente": "135 - FRENTE PEDRINHO",
     "Profundidade do Sulco": "38",
-    "Fazenda": "177015"
+    "Fazenda": "177015",
+    "Unnamed: 16": null
   },
   {
     "ID": "3926093",
@@ -49426,7 +52175,8 @@ const SULCACAO_DATA = [
     "OS": "3057",
     "Frente": "135 - FRENTE PEDRINHO",
     "Profundidade do Sulco": "38",
-    "Fazenda": "177015"
+    "Fazenda": "177015",
+    "Unnamed: 16": null
   },
   {
     "ID": "3926077",
@@ -49444,7 +52194,8 @@ const SULCACAO_DATA = [
     "OS": "3057",
     "Frente": "135 - FRENTE PEDRINHO",
     "Profundidade do Sulco": "38",
-    "Fazenda": "177015"
+    "Fazenda": "177015",
+    "Unnamed: 16": null
   },
   {
     "ID": "3926070",
@@ -49462,7 +52213,8 @@ const SULCACAO_DATA = [
     "OS": "3057",
     "Frente": "135 - FRENTE PEDRINHO",
     "Profundidade do Sulco": "37",
-    "Fazenda": "177015"
+    "Fazenda": "177015",
+    "Unnamed: 16": null
   },
   {
     "ID": "3923396",
@@ -49480,7 +52232,8 @@ const SULCACAO_DATA = [
     "OS": "3057",
     "Frente": "135 - FRENTE PEDRINHO",
     "Profundidade do Sulco": "37",
-    "Fazenda": "177015"
+    "Fazenda": "177015",
+    "Unnamed: 16": null
   },
   {
     "ID": "3923384",
@@ -49498,7 +52251,8 @@ const SULCACAO_DATA = [
     "OS": "3057",
     "Frente": "135 - FRENTE PEDRINHO",
     "Profundidade do Sulco": "37",
-    "Fazenda": "177015"
+    "Fazenda": "177015",
+    "Unnamed: 16": null
   },
   {
     "ID": "3923371",
@@ -49516,7 +52270,8 @@ const SULCACAO_DATA = [
     "OS": "3057",
     "Frente": "135 - FRENTE PEDRINHO",
     "Profundidade do Sulco": "37",
-    "Fazenda": "177015"
+    "Fazenda": "177015",
+    "Unnamed: 16": null
   },
   {
     "ID": "3923365",
@@ -49534,7 +52289,8 @@ const SULCACAO_DATA = [
     "OS": "3057",
     "Frente": "135 - FRENTE PEDRINHO",
     "Profundidade do Sulco": "38",
-    "Fazenda": "177015"
+    "Fazenda": "177015",
+    "Unnamed: 16": null
   },
   {
     "ID": "3922718",
@@ -49552,7 +52308,8 @@ const SULCACAO_DATA = [
     "OS": "2986",
     "Frente": "261 - FRENTE PRÓPRIA  (EDMILSON)",
     "Profundidade do Sulco": "38",
-    "Fazenda": "111201"
+    "Fazenda": "111201",
+    "Unnamed: 16": null
   },
   {
     "ID": "3922713",
@@ -49570,7 +52327,8 @@ const SULCACAO_DATA = [
     "OS": "2986",
     "Frente": "261 - FRENTE PRÓPRIA  (EDMILSON)",
     "Profundidade do Sulco": "38",
-    "Fazenda": "111201"
+    "Fazenda": "111201",
+    "Unnamed: 16": null
   },
   {
     "ID": "3922709",
@@ -49588,7 +52346,8 @@ const SULCACAO_DATA = [
     "OS": "2986",
     "Frente": "261 - FRENTE PRÓPRIA  (EDMILSON)",
     "Profundidade do Sulco": "37",
-    "Fazenda": "111201"
+    "Fazenda": "111201",
+    "Unnamed: 16": null
   },
   {
     "ID": "3923358",
@@ -49606,7 +52365,8 @@ const SULCACAO_DATA = [
     "OS": "2978",
     "Frente": "135 - FRENTE PEDRINHO",
     "Profundidade do Sulco": "36",
-    "Fazenda": "146301"
+    "Fazenda": "146301",
+    "Unnamed: 16": null
   },
   {
     "ID": "3923345",
@@ -49624,7 +52384,8 @@ const SULCACAO_DATA = [
     "OS": "2978",
     "Frente": "135 - FRENTE PEDRINHO",
     "Profundidade do Sulco": "37",
-    "Fazenda": "146301"
+    "Fazenda": "146301",
+    "Unnamed: 16": null
   },
   {
     "ID": "3922659",
@@ -49642,7 +52403,8 @@ const SULCACAO_DATA = [
     "OS": "2986",
     "Frente": "261 - FRENTE PRÓPRIA  (EDMILSON)",
     "Profundidade do Sulco": "40",
-    "Fazenda": "111201"
+    "Fazenda": "111201",
+    "Unnamed: 16": null
   },
   {
     "ID": "3922655",
@@ -49660,7 +52422,8 @@ const SULCACAO_DATA = [
     "OS": "2986",
     "Frente": "261 - FRENTE PRÓPRIA  (EDMILSON)",
     "Profundidade do Sulco": "39",
-    "Fazenda": "111201"
+    "Fazenda": "111201",
+    "Unnamed: 16": null
   },
   {
     "ID": "3922651",
@@ -49678,7 +52441,8 @@ const SULCACAO_DATA = [
     "OS": "2986",
     "Frente": "261 - FRENTE PRÓPRIA  (EDMILSON)",
     "Profundidade do Sulco": "36",
-    "Fazenda": "111201"
+    "Fazenda": "111201",
+    "Unnamed: 16": null
   },
   {
     "ID": "3923335",
@@ -49696,7 +52460,8 @@ const SULCACAO_DATA = [
     "OS": "2978",
     "Frente": "135 - FRENTE PEDRINHO",
     "Profundidade do Sulco": "37",
-    "Fazenda": "146301"
+    "Fazenda": "146301",
+    "Unnamed: 16": null
   },
   {
     "ID": "3922703",
@@ -49714,7 +52479,8 @@ const SULCACAO_DATA = [
     "OS": "2986",
     "Frente": "261 - FRENTE PRÓPRIA  (EDMILSON)",
     "Profundidade do Sulco": "38",
-    "Fazenda": "111201"
+    "Fazenda": "111201",
+    "Unnamed: 16": null
   },
   {
     "ID": "3922642",
@@ -49732,7 +52498,8 @@ const SULCACAO_DATA = [
     "OS": "2986",
     "Frente": "261 - FRENTE PRÓPRIA  (EDMILSON)",
     "Profundidade do Sulco": "36",
-    "Fazenda": "111201"
+    "Fazenda": "111201",
+    "Unnamed: 16": null
   },
   {
     "ID": "3922699",
@@ -49750,7 +52517,8 @@ const SULCACAO_DATA = [
     "OS": "2986",
     "Frente": "261 - FRENTE PRÓPRIA  (EDMILSON)",
     "Profundidade do Sulco": "38",
-    "Fazenda": "111201"
+    "Fazenda": "111201",
+    "Unnamed: 16": null
   },
   {
     "ID": "3922638",
@@ -49768,7 +52536,8 @@ const SULCACAO_DATA = [
     "OS": "2986",
     "Frente": "261 - FRENTE PRÓPRIA  (EDMILSON)",
     "Profundidade do Sulco": "37",
-    "Fazenda": "111201"
+    "Fazenda": "111201",
+    "Unnamed: 16": null
   },
   {
     "ID": "3923329",
@@ -49786,7 +52555,8 @@ const SULCACAO_DATA = [
     "OS": "2978",
     "Frente": "135 - FRENTE PEDRINHO",
     "Profundidade do Sulco": "36",
-    "Fazenda": "146301"
+    "Fazenda": "146301",
+    "Unnamed: 16": null
   },
   {
     "ID": "3922694",
@@ -49804,7 +52574,8 @@ const SULCACAO_DATA = [
     "OS": "2986",
     "Frente": "261 - FRENTE PRÓPRIA  (EDMILSON)",
     "Profundidade do Sulco": "38",
-    "Fazenda": "111201"
+    "Fazenda": "111201",
+    "Unnamed: 16": null
   },
   {
     "ID": "3923320",
@@ -49822,7 +52593,8 @@ const SULCACAO_DATA = [
     "OS": "2978",
     "Frente": "135 - FRENTE PEDRINHO",
     "Profundidade do Sulco": "38",
-    "Fazenda": "146301"
+    "Fazenda": "146301",
+    "Unnamed: 16": null
   },
   {
     "ID": "3923314",
@@ -49840,7 +52612,8 @@ const SULCACAO_DATA = [
     "OS": "2978",
     "Frente": "135 - FRENTE PEDRINHO",
     "Profundidade do Sulco": "36",
-    "Fazenda": "146301"
+    "Fazenda": "146301",
+    "Unnamed: 16": null
   },
   {
     "ID": "3923308",
@@ -49858,7 +52631,8 @@ const SULCACAO_DATA = [
     "OS": "2978",
     "Frente": "135 - FRENTE PEDRINHO",
     "Profundidade do Sulco": "37",
-    "Fazenda": "146301"
+    "Fazenda": "146301",
+    "Unnamed: 16": null
   },
   {
     "ID": "3923304",
@@ -49876,7 +52650,8 @@ const SULCACAO_DATA = [
     "OS": "2978",
     "Frente": "135 - FRENTE PEDRINHO",
     "Profundidade do Sulco": "36",
-    "Fazenda": "146301"
+    "Fazenda": "146301",
+    "Unnamed: 16": null
   },
   {
     "ID": "3920399",
@@ -49894,7 +52669,8 @@ const SULCACAO_DATA = [
     "OS": "2978",
     "Frente": "135 - FRENTE PEDRINHO",
     "Profundidade do Sulco": "37",
-    "Fazenda": "146301"
+    "Fazenda": "146301",
+    "Unnamed: 16": null
   },
   {
     "ID": "3920394",
@@ -49912,7 +52688,8 @@ const SULCACAO_DATA = [
     "OS": "2978",
     "Frente": "135 - FRENTE PEDRINHO",
     "Profundidade do Sulco": "36",
-    "Fazenda": "146301"
+    "Fazenda": "146301",
+    "Unnamed: 16": null
   },
   {
     "ID": "3920304",
@@ -49930,7 +52707,8 @@ const SULCACAO_DATA = [
     "OS": "2987",
     "Frente": "261 - FRENTE PRÓPRIA  (EDMILSON)",
     "Profundidade do Sulco": "38",
-    "Fazenda": "142201"
+    "Fazenda": "142201",
+    "Unnamed: 16": null
   },
   {
     "ID": "3920300",
@@ -49948,7 +52726,8 @@ const SULCACAO_DATA = [
     "OS": "2987",
     "Frente": "261 - FRENTE PRÓPRIA  (EDMILSON)",
     "Profundidade do Sulco": "38",
-    "Fazenda": "142201"
+    "Fazenda": "142201",
+    "Unnamed: 16": null
   },
   {
     "ID": "3920296",
@@ -49966,7 +52745,8 @@ const SULCACAO_DATA = [
     "OS": "2987",
     "Frente": "261 - FRENTE PRÓPRIA  (EDMILSON)",
     "Profundidade do Sulco": "37",
-    "Fazenda": "142201"
+    "Fazenda": "142201",
+    "Unnamed: 16": null
   },
   {
     "ID": "3920388",
@@ -49984,7 +52764,8 @@ const SULCACAO_DATA = [
     "OS": "2978",
     "Frente": "135 - FRENTE PEDRINHO",
     "Profundidade do Sulco": "36",
-    "Fazenda": "146301"
+    "Fazenda": "146301",
+    "Unnamed: 16": null
   },
   {
     "ID": "3920384",
@@ -50002,7 +52783,8 @@ const SULCACAO_DATA = [
     "OS": "2978",
     "Frente": "135 - FRENTE PEDRINHO",
     "Profundidade do Sulco": "37",
-    "Fazenda": "146301"
+    "Fazenda": "146301",
+    "Unnamed: 16": null
   },
   {
     "ID": "3920287",
@@ -50020,7 +52802,8 @@ const SULCACAO_DATA = [
     "OS": "2987",
     "Frente": "261 - FRENTE PRÓPRIA  (EDMILSON)",
     "Profundidade do Sulco": "38",
-    "Fazenda": "142201"
+    "Fazenda": "142201",
+    "Unnamed: 16": null
   },
   {
     "ID": "3920286",
@@ -50038,7 +52821,8 @@ const SULCACAO_DATA = [
     "OS": "2987",
     "Frente": "261 - FRENTE PRÓPRIA  (EDMILSON)",
     "Profundidade do Sulco": "37",
-    "Fazenda": "142201"
+    "Fazenda": "142201",
+    "Unnamed: 16": null
   },
   {
     "ID": "3920279",
@@ -50056,7 +52840,8 @@ const SULCACAO_DATA = [
     "OS": "2987",
     "Frente": "261 - FRENTE PRÓPRIA  (EDMILSON)",
     "Profundidade do Sulco": "37",
-    "Fazenda": "142201"
+    "Fazenda": "142201",
+    "Unnamed: 16": null
   },
   {
     "ID": "3920378",
@@ -50074,7 +52859,8 @@ const SULCACAO_DATA = [
     "OS": "2978",
     "Frente": "135 - FRENTE PEDRINHO",
     "Profundidade do Sulco": "36",
-    "Fazenda": "146301"
+    "Fazenda": "146301",
+    "Unnamed: 16": null
   },
   {
     "ID": "3920276",
@@ -50092,7 +52878,8 @@ const SULCACAO_DATA = [
     "OS": "2987",
     "Frente": "261 - FRENTE PRÓPRIA  (EDMILSON)",
     "Profundidade do Sulco": "38",
-    "Fazenda": "142201"
+    "Fazenda": "142201",
+    "Unnamed: 16": null
   },
   {
     "ID": "3920374",
@@ -50110,7 +52897,8 @@ const SULCACAO_DATA = [
     "OS": "2978",
     "Frente": "135 - FRENTE PEDRINHO",
     "Profundidade do Sulco": "36",
-    "Fazenda": "146301"
+    "Fazenda": "146301",
+    "Unnamed: 16": null
   },
   {
     "ID": "3919844",
@@ -50128,7 +52916,8 @@ const SULCACAO_DATA = [
     "OS": "2978",
     "Frente": "135 - FRENTE PEDRINHO",
     "Profundidade do Sulco": "34",
-    "Fazenda": "146301"
+    "Fazenda": "146301",
+    "Unnamed: 16": null
   },
   {
     "ID": "3919841",
@@ -50146,7 +52935,8 @@ const SULCACAO_DATA = [
     "OS": "2978",
     "Frente": "135 - FRENTE PEDRINHO",
     "Profundidade do Sulco": "32",
-    "Fazenda": "146301"
+    "Fazenda": "146301",
+    "Unnamed: 16": null
   },
   {
     "ID": "3919843",
@@ -50164,7 +52954,8 @@ const SULCACAO_DATA = [
     "OS": "2978",
     "Frente": "135 - FRENTE PEDRINHO",
     "Profundidade do Sulco": "29",
-    "Fazenda": "146301"
+    "Fazenda": "146301",
+    "Unnamed: 16": null
   },
   {
     "ID": "3919842",
@@ -50182,7 +52973,8 @@ const SULCACAO_DATA = [
     "OS": "2978",
     "Frente": "135 - FRENTE PEDRINHO",
     "Profundidade do Sulco": "36",
-    "Fazenda": "146301"
+    "Fazenda": "146301",
+    "Unnamed: 16": null
   },
   {
     "ID": "3920363",
@@ -50200,7 +52992,8 @@ const SULCACAO_DATA = [
     "OS": "2978",
     "Frente": "135 - FRENTE PEDRINHO",
     "Profundidade do Sulco": "36",
-    "Fazenda": "146301"
+    "Fazenda": "146301",
+    "Unnamed: 16": null
   },
   {
     "ID": "3919830",
@@ -50218,7 +53011,8 @@ const SULCACAO_DATA = [
     "OS": "2978",
     "Frente": "135 - FRENTE PEDRINHO",
     "Profundidade do Sulco": "36",
-    "Fazenda": "146301"
+    "Fazenda": "146301",
+    "Unnamed: 16": null
   },
   {
     "ID": "3920359",
@@ -50236,7 +53030,8 @@ const SULCACAO_DATA = [
     "OS": "2978",
     "Frente": "135 - FRENTE PEDRINHO",
     "Profundidade do Sulco": "37",
-    "Fazenda": "146301"
+    "Fazenda": "146301",
+    "Unnamed: 16": null
   },
   {
     "ID": "3919826",
@@ -50254,7 +53049,8 @@ const SULCACAO_DATA = [
     "OS": "2978",
     "Frente": "135 - FRENTE PEDRINHO",
     "Profundidade do Sulco": "35",
-    "Fazenda": "146301"
+    "Fazenda": "146301",
+    "Unnamed: 16": null
   },
   {
     "ID": "3920357",
@@ -50272,7 +53068,8 @@ const SULCACAO_DATA = [
     "OS": "2978",
     "Frente": "135 - FRENTE PEDRINHO",
     "Profundidade do Sulco": "36",
-    "Fazenda": "146301"
+    "Fazenda": "146301",
+    "Unnamed: 16": null
   },
   {
     "ID": "3919822",
@@ -50290,7 +53087,8 @@ const SULCACAO_DATA = [
     "OS": "2978",
     "Frente": "135 - FRENTE PEDRINHO",
     "Profundidade do Sulco": "36",
-    "Fazenda": "146301"
+    "Fazenda": "146301",
+    "Unnamed: 16": null
   },
   {
     "ID": "3919818",
@@ -50308,7 +53106,8 @@ const SULCACAO_DATA = [
     "OS": "2978",
     "Frente": "135 - FRENTE PEDRINHO",
     "Profundidade do Sulco": "32",
-    "Fazenda": "146301"
+    "Fazenda": "146301",
+    "Unnamed: 16": null
   },
   {
     "ID": "3920347",
@@ -50326,7 +53125,8 @@ const SULCACAO_DATA = [
     "OS": "2978",
     "Frente": "135 - FRENTE PEDRINHO",
     "Profundidade do Sulco": "37",
-    "Fazenda": "146301"
+    "Fazenda": "146301",
+    "Unnamed: 16": null
   },
   {
     "ID": "3920343",
@@ -50344,7 +53144,8 @@ const SULCACAO_DATA = [
     "OS": "2978",
     "Frente": "135 - FRENTE PEDRINHO",
     "Profundidade do Sulco": "36",
-    "Fazenda": "146301"
+    "Fazenda": "146301",
+    "Unnamed: 16": null
   },
   {
     "ID": "3920339",
@@ -50362,7 +53163,8 @@ const SULCACAO_DATA = [
     "OS": "2978",
     "Frente": "135 - FRENTE PEDRINHO",
     "Profundidade do Sulco": "38",
-    "Fazenda": "146301"
+    "Fazenda": "146301",
+    "Unnamed: 16": null
   },
   {
     "ID": "3920337",
@@ -50380,7 +53182,8 @@ const SULCACAO_DATA = [
     "OS": "2978",
     "Frente": "135 - FRENTE PEDRINHO",
     "Profundidade do Sulco": "37",
-    "Fazenda": "146301"
+    "Fazenda": "146301",
+    "Unnamed: 16": null
   },
   {
     "ID": "3917513",
@@ -50398,7 +53201,8 @@ const SULCACAO_DATA = [
     "OS": "2707",
     "Frente": "261 - FRENTE PRÓPRIA  (EDMILSON)",
     "Profundidade do Sulco": "38",
-    "Fazenda": "70408"
+    "Fazenda": "70408",
+    "Unnamed: 16": null
   },
   {
     "ID": "3917507",
@@ -50416,7 +53220,8 @@ const SULCACAO_DATA = [
     "OS": "2707",
     "Frente": "261 - FRENTE PRÓPRIA  (EDMILSON)",
     "Profundidade do Sulco": "37",
-    "Fazenda": "70408"
+    "Fazenda": "70408",
+    "Unnamed: 16": null
   },
   {
     "ID": "3917500",
@@ -50434,7 +53239,8 @@ const SULCACAO_DATA = [
     "OS": "2707",
     "Frente": "261 - FRENTE PRÓPRIA  (EDMILSON)",
     "Profundidade do Sulco": "38",
-    "Fazenda": "70408"
+    "Fazenda": "70408",
+    "Unnamed: 16": null
   },
   {
     "ID": "3917496",
@@ -50452,7 +53258,8 @@ const SULCACAO_DATA = [
     "OS": "2707",
     "Frente": "261 - FRENTE PRÓPRIA  (EDMILSON)",
     "Profundidade do Sulco": "38",
-    "Fazenda": "70408"
+    "Fazenda": "70408",
+    "Unnamed: 16": null
   },
   {
     "ID": "3917474",
@@ -50470,7 +53277,8 @@ const SULCACAO_DATA = [
     "OS": "2707",
     "Frente": "261 - FRENTE PRÓPRIA  (EDMILSON)",
     "Profundidade do Sulco": "37",
-    "Fazenda": "70408"
+    "Fazenda": "70408",
+    "Unnamed: 16": null
   },
   {
     "ID": "3917470",
@@ -50488,7 +53296,8 @@ const SULCACAO_DATA = [
     "OS": "2707",
     "Frente": "261 - FRENTE PRÓPRIA  (EDMILSON)",
     "Profundidade do Sulco": "38",
-    "Fazenda": "70408"
+    "Fazenda": "70408",
+    "Unnamed: 16": null
   },
   {
     "ID": "3915771",
@@ -50506,7 +53315,8 @@ const SULCACAO_DATA = [
     "OS": "2707",
     "Frente": "261 - FRENTE PRÓPRIA  (EDMILSON)",
     "Profundidade do Sulco": "36",
-    "Fazenda": "70408"
+    "Fazenda": "70408",
+    "Unnamed: 16": null
   },
   {
     "ID": "3915766",
@@ -50524,7 +53334,8 @@ const SULCACAO_DATA = [
     "OS": "2707",
     "Frente": "261 - FRENTE PRÓPRIA  (EDMILSON)",
     "Profundidade do Sulco": "37",
-    "Fazenda": "70408"
+    "Fazenda": "70408",
+    "Unnamed: 16": null
   },
   {
     "ID": "3915744",
@@ -50542,7 +53353,8 @@ const SULCACAO_DATA = [
     "OS": "2707",
     "Frente": "261 - FRENTE PRÓPRIA  (EDMILSON)",
     "Profundidade do Sulco": "38",
-    "Fazenda": "70408"
+    "Fazenda": "70408",
+    "Unnamed: 16": null
   },
   {
     "ID": "3915742",
@@ -50560,7 +53372,8 @@ const SULCACAO_DATA = [
     "OS": "2707",
     "Frente": "261 - FRENTE PRÓPRIA  (EDMILSON)",
     "Profundidade do Sulco": "36",
-    "Fazenda": "70408"
+    "Fazenda": "70408",
+    "Unnamed: 16": null
   },
   {
     "ID": "3915736",
@@ -50578,7 +53391,8 @@ const SULCACAO_DATA = [
     "OS": "2707",
     "Frente": "261 - FRENTE PRÓPRIA  (EDMILSON)",
     "Profundidade do Sulco": "38",
-    "Fazenda": "70408"
+    "Fazenda": "70408",
+    "Unnamed: 16": null
   },
   {
     "ID": "3915731",
@@ -50596,7 +53410,8 @@ const SULCACAO_DATA = [
     "OS": "2707",
     "Frente": "261 - FRENTE PRÓPRIA  (EDMILSON)",
     "Profundidade do Sulco": "36",
-    "Fazenda": "70408"
+    "Fazenda": "70408",
+    "Unnamed: 16": null
   },
   {
     "ID": "3915726",
@@ -50614,7 +53429,8 @@ const SULCACAO_DATA = [
     "OS": "2707",
     "Frente": "261 - FRENTE PRÓPRIA  (EDMILSON)",
     "Profundidade do Sulco": "37",
-    "Fazenda": "70408"
+    "Fazenda": "70408",
+    "Unnamed: 16": null
   },
   {
     "ID": "3915722",
@@ -50632,7 +53448,8 @@ const SULCACAO_DATA = [
     "OS": "2707",
     "Frente": "261 - FRENTE PRÓPRIA  (EDMILSON)",
     "Profundidade do Sulco": "38",
-    "Fazenda": "70408"
+    "Fazenda": "70408",
+    "Unnamed: 16": null
   },
   {
     "ID": "3915720",
@@ -50650,7 +53467,8 @@ const SULCACAO_DATA = [
     "OS": "2707",
     "Frente": "261 - FRENTE PRÓPRIA  (EDMILSON)",
     "Profundidade do Sulco": "37",
-    "Fazenda": "70408"
+    "Fazenda": "70408",
+    "Unnamed: 16": null
   },
   {
     "ID": "3913554",
@@ -50668,7 +53486,8 @@ const SULCACAO_DATA = [
     "OS": "2707",
     "Frente": "261 - FRENTE PRÓPRIA  (EDMILSON)",
     "Profundidade do Sulco": "37",
-    "Fazenda": "70408"
+    "Fazenda": "70408",
+    "Unnamed: 16": null
   },
   {
     "ID": "3913550",
@@ -50686,7 +53505,8 @@ const SULCACAO_DATA = [
     "OS": "2707",
     "Frente": "261 - FRENTE PRÓPRIA  (EDMILSON)",
     "Profundidade do Sulco": "38",
-    "Fazenda": "70408"
+    "Fazenda": "70408",
+    "Unnamed: 16": null
   },
   {
     "ID": "3913545",
@@ -50704,7 +53524,8 @@ const SULCACAO_DATA = [
     "OS": "2707",
     "Frente": "261 - FRENTE PRÓPRIA  (EDMILSON)",
     "Profundidade do Sulco": "38",
-    "Fazenda": "70408"
+    "Fazenda": "70408",
+    "Unnamed: 16": null
   },
   {
     "ID": "3913540",
@@ -50722,7 +53543,8 @@ const SULCACAO_DATA = [
     "OS": "2707",
     "Frente": "261 - FRENTE PRÓPRIA  (EDMILSON)",
     "Profundidade do Sulco": "37",
-    "Fazenda": "70408"
+    "Fazenda": "70408",
+    "Unnamed: 16": null
   },
   {
     "ID": "3913446",
@@ -50740,7 +53562,8 @@ const SULCACAO_DATA = [
     "OS": "2707",
     "Frente": "261 - FRENTE PRÓPRIA  (EDMILSON)",
     "Profundidade do Sulco": "38",
-    "Fazenda": "70408"
+    "Fazenda": "70408",
+    "Unnamed: 16": null
   },
   {
     "ID": "3913388",
@@ -50758,7 +53581,8 @@ const SULCACAO_DATA = [
     "OS": "2707",
     "Frente": "261 - FRENTE PRÓPRIA  (EDMILSON)",
     "Profundidade do Sulco": "38",
-    "Fazenda": "70408"
+    "Fazenda": "70408",
+    "Unnamed: 16": null
   },
   {
     "ID": "3913384",
@@ -50776,7 +53600,8 @@ const SULCACAO_DATA = [
     "OS": "2707",
     "Frente": "261 - FRENTE PRÓPRIA  (EDMILSON)",
     "Profundidade do Sulco": "37",
-    "Fazenda": "70408"
+    "Fazenda": "70408",
+    "Unnamed: 16": null
   },
   {
     "ID": "3913380",
@@ -50794,7 +53619,8 @@ const SULCACAO_DATA = [
     "OS": "2707",
     "Frente": "261 - FRENTE PRÓPRIA  (EDMILSON)",
     "Profundidade do Sulco": "37",
-    "Fazenda": "70408"
+    "Fazenda": "70408",
+    "Unnamed: 16": null
   },
   {
     "ID": "3913375",
@@ -50812,7 +53638,8 @@ const SULCACAO_DATA = [
     "OS": "2707",
     "Frente": "261 - FRENTE PRÓPRIA  (EDMILSON)",
     "Profundidade do Sulco": "37",
-    "Fazenda": "70408"
+    "Fazenda": "70408",
+    "Unnamed: 16": null
   },
   {
     "ID": "3913368",
@@ -50830,7 +53657,8 @@ const SULCACAO_DATA = [
     "OS": "2707",
     "Frente": "261 - FRENTE PRÓPRIA  (EDMILSON)",
     "Profundidade do Sulco": "38",
-    "Fazenda": "70408"
+    "Fazenda": "70408",
+    "Unnamed: 16": null
   },
   {
     "ID": "3911945",
@@ -50848,7 +53676,8 @@ const SULCACAO_DATA = [
     "OS": "2707",
     "Frente": "261 - FRENTE PRÓPRIA  (EDMILSON)",
     "Profundidade do Sulco": "37",
-    "Fazenda": "70408"
+    "Fazenda": "70408",
+    "Unnamed: 16": null
   },
   {
     "ID": "3912007",
@@ -50866,7 +53695,8 @@ const SULCACAO_DATA = [
     "OS": "2707",
     "Frente": "261 - FRENTE PRÓPRIA  (EDMILSON)",
     "Profundidade do Sulco": "36",
-    "Fazenda": "70408"
+    "Fazenda": "70408",
+    "Unnamed: 16": null
   },
   {
     "ID": "3911941",
@@ -50884,7 +53714,8 @@ const SULCACAO_DATA = [
     "OS": "2707",
     "Frente": "261 - FRENTE PRÓPRIA  (EDMILSON)",
     "Profundidade do Sulco": "36",
-    "Fazenda": "70408"
+    "Fazenda": "70408",
+    "Unnamed: 16": null
   },
   {
     "ID": "3912003",
@@ -50902,7 +53733,8 @@ const SULCACAO_DATA = [
     "OS": "2707",
     "Frente": "261 - FRENTE PRÓPRIA  (EDMILSON)",
     "Profundidade do Sulco": "38",
-    "Fazenda": "70408"
+    "Fazenda": "70408",
+    "Unnamed: 16": null
   },
   {
     "ID": "3911937",
@@ -50920,7 +53752,8 @@ const SULCACAO_DATA = [
     "OS": "2707",
     "Frente": "261 - FRENTE PRÓPRIA  (EDMILSON)",
     "Profundidade do Sulco": "38",
-    "Fazenda": "70408"
+    "Fazenda": "70408",
+    "Unnamed: 16": null
   },
   {
     "ID": "3911999",
@@ -50938,7 +53771,8 @@ const SULCACAO_DATA = [
     "OS": "2707",
     "Frente": "261 - FRENTE PRÓPRIA  (EDMILSON)",
     "Profundidade do Sulco": "38",
-    "Fazenda": "70408"
+    "Fazenda": "70408",
+    "Unnamed: 16": null
   },
   {
     "ID": "3911995",
@@ -50956,7 +53790,8 @@ const SULCACAO_DATA = [
     "OS": "2707",
     "Frente": "261 - FRENTE PRÓPRIA  (EDMILSON)",
     "Profundidade do Sulco": "36",
-    "Fazenda": "70408"
+    "Fazenda": "70408",
+    "Unnamed: 16": null
   },
   {
     "ID": "3911924",
@@ -50974,7 +53809,8 @@ const SULCACAO_DATA = [
     "OS": "2707",
     "Frente": "261 - FRENTE PRÓPRIA  (EDMILSON)",
     "Profundidade do Sulco": "35",
-    "Fazenda": "70408"
+    "Fazenda": "70408",
+    "Unnamed: 16": null
   },
   {
     "ID": "3911920",
@@ -50992,7 +53828,8 @@ const SULCACAO_DATA = [
     "OS": "2707",
     "Frente": "261 - FRENTE PRÓPRIA  (EDMILSON)",
     "Profundidade do Sulco": "38",
-    "Fazenda": "70408"
+    "Fazenda": "70408",
+    "Unnamed: 16": null
   },
   {
     "ID": "3911991",
@@ -51010,7 +53847,8 @@ const SULCACAO_DATA = [
     "OS": "2707",
     "Frente": "261 - FRENTE PRÓPRIA  (EDMILSON)",
     "Profundidade do Sulco": "38",
-    "Fazenda": "70408"
+    "Fazenda": "70408",
+    "Unnamed: 16": null
   },
   {
     "ID": "3911917",
@@ -51028,7 +53866,8 @@ const SULCACAO_DATA = [
     "OS": "2707",
     "Frente": "261 - FRENTE PRÓPRIA  (EDMILSON)",
     "Profundidade do Sulco": "37",
-    "Fazenda": "70408"
+    "Fazenda": "70408",
+    "Unnamed: 16": null
   },
   {
     "ID": "3911911",
@@ -51046,7 +53885,8 @@ const SULCACAO_DATA = [
     "OS": "2707",
     "Frente": "261 - FRENTE PRÓPRIA  (EDMILSON)",
     "Profundidade do Sulco": "35",
-    "Fazenda": "70408"
+    "Fazenda": "70408",
+    "Unnamed: 16": null
   },
   {
     "ID": "3911907",
@@ -51064,7 +53904,8 @@ const SULCACAO_DATA = [
     "OS": "2707",
     "Frente": "261 - FRENTE PRÓPRIA  (EDMILSON)",
     "Profundidade do Sulco": "36",
-    "Fazenda": "70408"
+    "Fazenda": "70408",
+    "Unnamed: 16": null
   },
   {
     "ID": "3911903",
@@ -51082,7 +53923,8 @@ const SULCACAO_DATA = [
     "OS": "2707",
     "Frente": "261 - FRENTE PRÓPRIA  (EDMILSON)",
     "Profundidade do Sulco": "37",
-    "Fazenda": "70408"
+    "Fazenda": "70408",
+    "Unnamed: 16": null
   },
   {
     "ID": "3911899",
@@ -51100,7 +53942,8 @@ const SULCACAO_DATA = [
     "OS": "2707",
     "Frente": "261 - FRENTE PRÓPRIA  (EDMILSON)",
     "Profundidade do Sulco": "38",
-    "Fazenda": "70408"
+    "Fazenda": "70408",
+    "Unnamed: 16": null
   },
   {
     "ID": "3911976",
@@ -51118,7 +53961,8 @@ const SULCACAO_DATA = [
     "OS": "2707",
     "Frente": "261 - FRENTE PRÓPRIA  (EDMILSON)",
     "Profundidade do Sulco": "39",
-    "Fazenda": "70408"
+    "Fazenda": "70408",
+    "Unnamed: 16": null
   },
   {
     "ID": "3911975",
@@ -51136,7 +53980,8 @@ const SULCACAO_DATA = [
     "OS": "2707",
     "Frente": "261 - FRENTE PRÓPRIA  (EDMILSON)",
     "Profundidade do Sulco": "39",
-    "Fazenda": "70408"
+    "Fazenda": "70408",
+    "Unnamed: 16": null
   },
   {
     "ID": "3911974",
@@ -51154,7 +53999,8 @@ const SULCACAO_DATA = [
     "OS": "2707",
     "Frente": "261 - FRENTE PRÓPRIA  (EDMILSON)",
     "Profundidade do Sulco": "37",
-    "Fazenda": "70408"
+    "Fazenda": "70408",
+    "Unnamed: 16": null
   },
   {
     "ID": "3911973",
@@ -51172,7 +54018,8 @@ const SULCACAO_DATA = [
     "OS": "2707",
     "Frente": "261 - FRENTE PRÓPRIA  (EDMILSON)",
     "Profundidade do Sulco": "39",
-    "Fazenda": "70408"
+    "Fazenda": "70408",
+    "Unnamed: 16": null
   },
   {
     "ID": "3911972",
@@ -51190,7 +54037,8 @@ const SULCACAO_DATA = [
     "OS": "2707",
     "Frente": "261 - FRENTE PRÓPRIA  (EDMILSON)",
     "Profundidade do Sulco": "40",
-    "Fazenda": "70408"
+    "Fazenda": "70408",
+    "Unnamed: 16": null
   },
   {
     "ID": "4037661",
@@ -51208,7 +54056,8 @@ const SULCACAO_DATA = [
     "OS": "3705",
     "Frente": "261 - FRENTE PRÓPRIA  (EDMILSON)",
     "Profundidade do Sulco": "34",
-    "Fazenda": "50301"
+    "Fazenda": "50301",
+    "Unnamed: 16": null
   },
   {
     "ID": "4037936",
@@ -51226,7 +54075,8 @@ const SULCACAO_DATA = [
     "OS": "3705",
     "Frente": "261 - FRENTE PRÓPRIA  (EDMILSON)",
     "Profundidade do Sulco": "34",
-    "Fazenda": "50301"
+    "Fazenda": "50301",
+    "Unnamed: 16": null
   },
   {
     "ID": "4037931",
@@ -51244,7 +54094,8 @@ const SULCACAO_DATA = [
     "OS": "3705",
     "Frente": "261 - FRENTE PRÓPRIA  (EDMILSON)",
     "Profundidade do Sulco": "35",
-    "Fazenda": "50301"
+    "Fazenda": "50301",
+    "Unnamed: 16": null
   },
   {
     "ID": "4037926",
@@ -51262,7 +54113,8 @@ const SULCACAO_DATA = [
     "OS": "3705",
     "Frente": "261 - FRENTE PRÓPRIA  (EDMILSON)",
     "Profundidade do Sulco": "34",
-    "Fazenda": "50301"
+    "Fazenda": "50301",
+    "Unnamed: 16": null
   },
   {
     "ID": "4037651",
@@ -51280,7 +54132,8 @@ const SULCACAO_DATA = [
     "OS": "3705",
     "Frente": "261 - FRENTE PRÓPRIA  (EDMILSON)",
     "Profundidade do Sulco": "39",
-    "Fazenda": "50301"
+    "Fazenda": "50301",
+    "Unnamed: 16": null
   },
   {
     "ID": "4037921",
@@ -51298,7 +54151,8 @@ const SULCACAO_DATA = [
     "OS": "3705",
     "Frente": "261 - FRENTE PRÓPRIA  (EDMILSON)",
     "Profundidade do Sulco": "31",
-    "Fazenda": "50301"
+    "Fazenda": "50301",
+    "Unnamed: 16": null
   },
   {
     "ID": "4037646",
@@ -51316,7 +54170,8 @@ const SULCACAO_DATA = [
     "OS": "3705",
     "Frente": "261 - FRENTE PRÓPRIA  (EDMILSON)",
     "Profundidade do Sulco": "32",
-    "Fazenda": "50301"
+    "Fazenda": "50301",
+    "Unnamed: 16": null
   },
   {
     "ID": "4037914",
@@ -51334,7 +54189,8 @@ const SULCACAO_DATA = [
     "OS": "3705",
     "Frente": "261 - FRENTE PRÓPRIA  (EDMILSON)",
     "Profundidade do Sulco": "30",
-    "Fazenda": "50301"
+    "Fazenda": "50301",
+    "Unnamed: 16": null
   },
   {
     "ID": "4050431",
@@ -51352,7 +54208,8 @@ const SULCACAO_DATA = [
     "OS": "3745",
     "Frente": "261 - FRENTE PRÓPRIA  (EDMILSON)",
     "Profundidade do Sulco": "36",
-    "Fazenda": "46601"
+    "Fazenda": "46601",
+    "Unnamed: 16": null
   },
   {
     "ID": "4050428",
@@ -51370,7 +54227,8 @@ const SULCACAO_DATA = [
     "OS": "3745",
     "Frente": "261 - FRENTE PRÓPRIA  (EDMILSON)",
     "Profundidade do Sulco": "36",
-    "Fazenda": "46601"
+    "Fazenda": "46601",
+    "Unnamed: 16": null
   },
   {
     "ID": "4050423",
@@ -51388,7 +54246,8 @@ const SULCACAO_DATA = [
     "OS": "3745",
     "Frente": "261 - FRENTE PRÓPRIA  (EDMILSON)",
     "Profundidade do Sulco": "38",
-    "Fazenda": "46601"
+    "Fazenda": "46601",
+    "Unnamed: 16": null
   },
   {
     "ID": "4050417",
@@ -51406,7 +54265,8 @@ const SULCACAO_DATA = [
     "OS": "3745",
     "Frente": "261 - FRENTE PRÓPRIA  (EDMILSON)",
     "Profundidade do Sulco": "38",
-    "Fazenda": "46601"
+    "Fazenda": "46601",
+    "Unnamed: 16": null
   },
   {
     "ID": "4050411",
@@ -51424,7 +54284,8 @@ const SULCACAO_DATA = [
     "OS": "3745",
     "Frente": "261 - FRENTE PRÓPRIA  (EDMILSON)",
     "Profundidade do Sulco": "38",
-    "Fazenda": "46601"
+    "Fazenda": "46601",
+    "Unnamed: 16": null
   },
   {
     "ID": "4058581",
@@ -51442,7 +54303,8 @@ const SULCACAO_DATA = [
     "OS": "3840",
     "Frente": "261 - FRENTE PRÓPRIA  (EDMILSON)",
     "Profundidade do Sulco": "37",
-    "Fazenda": "53501"
+    "Fazenda": "53501",
+    "Unnamed: 16": null
   },
   {
     "ID": "4058577",
@@ -51460,7 +54322,8 @@ const SULCACAO_DATA = [
     "OS": "3840",
     "Frente": "261 - FRENTE PRÓPRIA  (EDMILSON)",
     "Profundidade do Sulco": "38",
-    "Fazenda": "53501"
+    "Fazenda": "53501",
+    "Unnamed: 16": null
   },
   {
     "ID": "4058575",
@@ -51478,7 +54341,8 @@ const SULCACAO_DATA = [
     "OS": "3840",
     "Frente": "261 - FRENTE PRÓPRIA  (EDMILSON)",
     "Profundidade do Sulco": "37",
-    "Fazenda": "53501"
+    "Fazenda": "53501",
+    "Unnamed: 16": null
   },
   {
     "ID": "4060951",
@@ -51490,13 +54354,14 @@ const SULCACAO_DATA = [
     "Data Fim": "19/11/2026 14:00",
     "Status": "Open",
     "Score": "0.00",
-    "Data Lançamento": "19/11/2026 00:00",
+    "Data Lançamento": "11/19/2026",
     "Responsável": "284860  - Juliana Aparecida Ferreira De Freitas",
     "Local (Fazenda - Talhão)": "53501",
     "OS": "3840",
     "Frente": "261 - FRENTE PRÓPRIA  (EDMILSON)",
     "Profundidade do Sulco": "36",
-    "Fazenda": "53501"
+    "Fazenda": "53501",
+    "Unnamed: 16": null
   },
   {
     "ID": "4060949",
@@ -51508,13 +54373,14 @@ const SULCACAO_DATA = [
     "Data Fim": "19/11/2026 13:52",
     "Status": "Open",
     "Score": "0.00",
-    "Data Lançamento": "19/11/2026 00:00",
+    "Data Lançamento": "11/19/2026",
     "Responsável": "284860  - Juliana Aparecida Ferreira De Freitas",
     "Local (Fazenda - Talhão)": "53501",
     "OS": "3840",
     "Frente": "261 - FRENTE PRÓPRIA  (EDMILSON)",
     "Profundidade do Sulco": "37",
-    "Fazenda": "53501"
+    "Fazenda": "53501",
+    "Unnamed: 16": null
   },
   {
     "ID": "4060947",
@@ -51526,13 +54392,14 @@ const SULCACAO_DATA = [
     "Data Fim": "19/11/2026 12:19",
     "Status": "Open",
     "Score": "0.00",
-    "Data Lançamento": "19/11/2026 00:00",
+    "Data Lançamento": "11/19/2026",
     "Responsável": "284860  - Juliana Aparecida Ferreira De Freitas",
     "Local (Fazenda - Talhão)": "53501",
     "OS": "3840",
     "Frente": "261 - FRENTE PRÓPRIA  (EDMILSON)",
     "Profundidade do Sulco": "38",
-    "Fazenda": "53501"
+    "Fazenda": "53501",
+    "Unnamed: 16": null
   },
   {
     "ID": "4060370",
@@ -51544,13 +54411,14 @@ const SULCACAO_DATA = [
     "Data Fim": "19/11/2026 10:53",
     "Status": "Open",
     "Score": "0.00",
-    "Data Lançamento": "19/11/2026 00:00",
+    "Data Lançamento": "11/19/2026",
     "Responsável": "REGINALDO DA SILVA GOMES ",
     "Local (Fazenda - Talhão)": "53501",
     "OS": "3840",
     "Frente": "261 - FRENTE PRÓPRIA  (EDMILSON)",
     "Profundidade do Sulco": "37",
-    "Fazenda": "53501"
+    "Fazenda": "53501",
+    "Unnamed: 16": null
   },
   {
     "ID": "4060941",
@@ -51562,13 +54430,14 @@ const SULCACAO_DATA = [
     "Data Fim": "19/11/2026 10:34",
     "Status": "Open",
     "Score": "0.00",
-    "Data Lançamento": "19/11/2026 00:00",
+    "Data Lançamento": "11/19/2026",
     "Responsável": "284860  - Juliana Aparecida Ferreira De Freitas",
     "Local (Fazenda - Talhão)": "53501",
     "OS": "3840",
     "Frente": "261 - FRENTE PRÓPRIA  (EDMILSON)",
     "Profundidade do Sulco": "36",
-    "Fazenda": "53501"
+    "Fazenda": "53501",
+    "Unnamed: 16": null
   },
   {
     "ID": "4060939",
@@ -51580,13 +54449,14 @@ const SULCACAO_DATA = [
     "Data Fim": "19/11/2026 10:25",
     "Status": "Open",
     "Score": "0.00",
-    "Data Lançamento": "19/11/2026 00:00",
+    "Data Lançamento": "11/19/2026",
     "Responsável": "284860  - Juliana Aparecida Ferreira De Freitas",
     "Local (Fazenda - Talhão)": "53501",
     "OS": "3840",
     "Frente": "261 - FRENTE PRÓPRIA  (EDMILSON)",
     "Profundidade do Sulco": "38",
-    "Fazenda": "53501"
+    "Fazenda": "53501",
+    "Unnamed: 16": null
   },
   {
     "ID": "4060937",
@@ -51598,13 +54468,14 @@ const SULCACAO_DATA = [
     "Data Fim": "19/11/2026 10:13",
     "Status": "Open",
     "Score": "0.00",
-    "Data Lançamento": "19/11/2026 00:00",
+    "Data Lançamento": "11/19/2026",
     "Responsável": "284860  - Juliana Aparecida Ferreira De Freitas",
     "Local (Fazenda - Talhão)": "53501",
     "OS": "3840",
     "Frente": "261 - FRENTE PRÓPRIA  (EDMILSON)",
     "Profundidade do Sulco": "37",
-    "Fazenda": "53501"
+    "Fazenda": "53501",
+    "Unnamed: 16": null
   },
   {
     "ID": "4060358",
@@ -51616,13 +54487,14 @@ const SULCACAO_DATA = [
     "Data Fim": "19/11/2026 10:07",
     "Status": "Open",
     "Score": "0.00",
-    "Data Lançamento": "19/11/2026 00:00",
+    "Data Lançamento": "11/19/2026",
     "Responsável": "REGINALDO DA SILVA GOMES ",
     "Local (Fazenda - Talhão)": "53501",
     "OS": "3840",
     "Frente": "261 - FRENTE PRÓPRIA  (EDMILSON)",
     "Profundidade do Sulco": "36",
-    "Fazenda": "53501"
+    "Fazenda": "53501",
+    "Unnamed: 16": null
   },
   {
     "ID": "4060352",
@@ -51634,12 +54506,13 @@ const SULCACAO_DATA = [
     "Data Fim": "19/11/2026 09:59",
     "Status": "Open",
     "Score": "0.00",
-    "Data Lançamento": "19/11/2026 00:00",
+    "Data Lançamento": "11/19/2026",
     "Responsável": "REGINALDO DA SILVA GOMES ",
     "Local (Fazenda - Talhão)": "53501",
     "OS": "3840",
     "Frente": "261 - FRENTE PRÓPRIA  (EDMILSON)",
     "Profundidade do Sulco": "37",
-    "Fazenda": "53501"
+    "Fazenda": "53501",
+    "Unnamed: 16": null
   }
 ];

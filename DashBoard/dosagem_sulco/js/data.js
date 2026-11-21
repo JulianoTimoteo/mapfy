@@ -1,5 +1,9 @@
-// Auto-gerado em 21/11/2026 07:33:22
-const DOSAGEM_SULCO_DATA = [
+/**
+ * Dados Consolidados - dosagem_sulco
+ * Total: 1309 registros
+ * Atualizado em: 21/11/2026 07:40
+ */
+window.DOSAGEM_RAW_DATA = [
   {
     "ID": "3909476",
     "Usuário": "qualidade3@usinapitangueiras.com.br",
@@ -17,7 +21,8 @@ const DOSAGEM_SULCO_DATA = [
     "Responsável": "MABILA HELEN D FIGUEIREDO",
     "Produto": "Torta ",
     "Dosagem de Produto - Sulcação": "5,71",
-    "Fazenda": NaN
+    "Fazenda": null,
+    "Unnamed: 17": null
   },
   {
     "ID": "3909473",
@@ -36,7 +41,8 @@ const DOSAGEM_SULCO_DATA = [
     "Responsável": "MABILA HELEN D FIGUEIREDO",
     "Produto": "Torta ",
     "Dosagem de Produto - Sulcação": "5,69",
-    "Fazenda": NaN
+    "Fazenda": null,
+    "Unnamed: 17": null
   },
   {
     "ID": "3906893",
@@ -55,7 +61,8 @@ const DOSAGEM_SULCO_DATA = [
     "Responsável": "MABILA HELEN D FIGUEIREDO",
     "Produto": "Torta ",
     "Dosagem de Produto - Sulcação": "5,68",
-    "Fazenda": NaN
+    "Fazenda": null,
+    "Unnamed: 17": null
   },
   {
     "ID": "3906892",
@@ -74,7 +81,8 @@ const DOSAGEM_SULCO_DATA = [
     "Responsável": "MABILA HELEN D FIGUEIREDO",
     "Produto": "Torta ",
     "Dosagem de Produto - Sulcação": "5,62",
-    "Fazenda": NaN
+    "Fazenda": null,
+    "Unnamed: 17": null
   },
   {
     "ID": "3906890",
@@ -93,7 +101,8 @@ const DOSAGEM_SULCO_DATA = [
     "Responsável": "MABILA HELEN D FIGUEIREDO",
     "Produto": "Adubo",
     "Dosagem de Produto - Sulcação": "2,005",
-    "Fazenda": NaN
+    "Fazenda": null,
+    "Unnamed: 17": null
   },
   {
     "ID": "3906891",
@@ -112,7 +121,8 @@ const DOSAGEM_SULCO_DATA = [
     "Responsável": "MABILA HELEN D FIGUEIREDO",
     "Produto": "Adubo",
     "Dosagem de Produto - Sulcação": "2,035",
-    "Fazenda": NaN
+    "Fazenda": null,
+    "Unnamed: 17": null
   },
   {
     "ID": "3904493",
@@ -131,7 +141,8 @@ const DOSAGEM_SULCO_DATA = [
     "Responsável": "MABILA HELEN D FIGUEIREDO",
     "Produto": "Adubo",
     "Dosagem de Produto - Sulcação": "2,13",
-    "Fazenda": NaN
+    "Fazenda": null,
+    "Unnamed: 17": null
   },
   {
     "ID": "3904494",
@@ -150,7 +161,8 @@ const DOSAGEM_SULCO_DATA = [
     "Responsável": "MABILA HELEN D FIGUEIREDO",
     "Produto": "Adubo",
     "Dosagem de Produto - Sulcação": "2,13",
-    "Fazenda": NaN
+    "Fazenda": null,
+    "Unnamed: 17": null
   },
   {
     "ID": "3901771",
@@ -169,7 +181,8 @@ const DOSAGEM_SULCO_DATA = [
     "Responsável": "MABILA HELEN D FIGUEIREDO",
     "Produto": "Torta ",
     "Dosagem de Produto - Sulcação": "5,67",
-    "Fazenda": NaN
+    "Fazenda": null,
+    "Unnamed: 17": null
   },
   {
     "ID": "3901770",
@@ -188,7 +201,8 @@ const DOSAGEM_SULCO_DATA = [
     "Responsável": "MABILA HELEN D FIGUEIREDO",
     "Produto": "Torta ",
     "Dosagem de Produto - Sulcação": "5,645",
-    "Fazenda": NaN
+    "Fazenda": null,
+    "Unnamed: 17": null
   },
   {
     "ID": "3901708",
@@ -207,7 +221,8 @@ const DOSAGEM_SULCO_DATA = [
     "Responsável": "MABILA HELEN D FIGUEIREDO",
     "Produto": "Adubo",
     "Dosagem de Produto - Sulcação": "2,075",
-    "Fazenda": NaN
+    "Fazenda": null,
+    "Unnamed: 17": null
   },
   {
     "ID": "3901707",
@@ -226,7 +241,8 @@ const DOSAGEM_SULCO_DATA = [
     "Responsável": "MABILA HELEN D FIGUEIREDO",
     "Produto": "Adubo",
     "Dosagem de Produto - Sulcação": "2",
-    "Fazenda": NaN
+    "Fazenda": null,
+    "Unnamed: 17": null
   },
   {
     "ID": "3900467",
@@ -245,7 +261,8 @@ const DOSAGEM_SULCO_DATA = [
     "Responsável": "REGINALDO DA SILVA GOMES ",
     "Produto": "Torta ",
     "Dosagem de Produto - Sulcação": "5,4",
-    "Fazenda": NaN
+    "Fazenda": null,
+    "Unnamed: 17": null
   },
   {
     "ID": "3900465",
@@ -264,7 +281,8 @@ const DOSAGEM_SULCO_DATA = [
     "Responsável": "REGINALDO DA SILVA GOMES ",
     "Produto": "Adubo",
     "Dosagem de Produto - Sulcação": "2,09",
-    "Fazenda": NaN
+    "Fazenda": null,
+    "Unnamed: 17": null
   },
   {
     "ID": "3900466",
@@ -283,7 +301,8 @@ const DOSAGEM_SULCO_DATA = [
     "Responsável": "REGINALDO DA SILVA GOMES ",
     "Produto": "Adubo",
     "Dosagem de Produto - Sulcação": "2,1",
-    "Fazenda": NaN
+    "Fazenda": null,
+    "Unnamed: 17": null
   },
   {
     "ID": "3900464",
@@ -302,7 +321,8 @@ const DOSAGEM_SULCO_DATA = [
     "Responsável": "REGINALDO DA SILVA GOMES ",
     "Produto": "Torta ",
     "Dosagem de Produto - Sulcação": "5,5",
-    "Fazenda": NaN
+    "Fazenda": null,
+    "Unnamed: 17": null
   },
   {
     "ID": "3896370",
@@ -321,7 +341,8 @@ const DOSAGEM_SULCO_DATA = [
     "Responsável": "MABILA HELEN D FIGUEIREDO",
     "Produto": "Torta ",
     "Dosagem de Produto - Sulcação": "5,8",
-    "Fazenda": NaN
+    "Fazenda": null,
+    "Unnamed: 17": null
   },
   {
     "ID": "3896369",
@@ -340,7 +361,8 @@ const DOSAGEM_SULCO_DATA = [
     "Responsável": "MABILA HELEN D FIGUEIREDO",
     "Produto": "Torta ",
     "Dosagem de Produto - Sulcação": "5,625",
-    "Fazenda": NaN
+    "Fazenda": null,
+    "Unnamed: 17": null
   },
   {
     "ID": "3896117",
@@ -359,7 +381,8 @@ const DOSAGEM_SULCO_DATA = [
     "Responsável": "REGINALDO DA SILVA GOMES ",
     "Produto": "Adubo",
     "Dosagem de Produto - Sulcação": "2,205",
-    "Fazenda": NaN
+    "Fazenda": null,
+    "Unnamed: 17": null
   },
   {
     "ID": "3896116",
@@ -378,7 +401,8 @@ const DOSAGEM_SULCO_DATA = [
     "Responsável": "REGINALDO DA SILVA GOMES ",
     "Produto": "Adubo",
     "Dosagem de Produto - Sulcação": "2,185",
-    "Fazenda": NaN
+    "Fazenda": null,
+    "Unnamed: 17": null
   },
   {
     "ID": "3896145",
@@ -397,7 +421,8 @@ const DOSAGEM_SULCO_DATA = [
     "Responsável": "REGINALDO DA SILVA GOMES ",
     "Produto": "Torta ",
     "Dosagem de Produto - Sulcação": "5,625",
-    "Fazenda": NaN
+    "Fazenda": null,
+    "Unnamed: 17": null
   },
   {
     "ID": "3896115",
@@ -416,7 +441,8 @@ const DOSAGEM_SULCO_DATA = [
     "Responsável": "REGINALDO DA SILVA GOMES ",
     "Produto": "Torta ",
     "Dosagem de Produto - Sulcação": "5,56",
-    "Fazenda": NaN
+    "Fazenda": null,
+    "Unnamed: 17": null
   },
   {
     "ID": "3896243",
@@ -435,7 +461,8 @@ const DOSAGEM_SULCO_DATA = [
     "Responsável": "MABILA HELEN D FIGUEIREDO",
     "Produto": "Adubo",
     "Dosagem de Produto - Sulcação": "2,205",
-    "Fazenda": NaN
+    "Fazenda": null,
+    "Unnamed: 17": null
   },
   {
     "ID": "3896242",
@@ -454,7 +481,8 @@ const DOSAGEM_SULCO_DATA = [
     "Responsável": "MABILA HELEN D FIGUEIREDO",
     "Produto": "Adubo",
     "Dosagem de Produto - Sulcação": "2,185",
-    "Fazenda": NaN
+    "Fazenda": null,
+    "Unnamed: 17": null
   },
   {
     "ID": "3893602",
@@ -473,7 +501,8 @@ const DOSAGEM_SULCO_DATA = [
     "Responsável": "MABILA HELEN D FIGUEIREDO",
     "Produto": "Torta ",
     "Dosagem de Produto - Sulcação": "5,805",
-    "Fazenda": NaN
+    "Fazenda": null,
+    "Unnamed: 17": null
   },
   {
     "ID": "3893601",
@@ -492,7 +521,8 @@ const DOSAGEM_SULCO_DATA = [
     "Responsável": "MABILA HELEN D FIGUEIREDO",
     "Produto": "Torta ",
     "Dosagem de Produto - Sulcação": "5,73",
-    "Fazenda": NaN
+    "Fazenda": null,
+    "Unnamed: 17": null
   },
   {
     "ID": "3893600",
@@ -511,7 +541,8 @@ const DOSAGEM_SULCO_DATA = [
     "Responsável": "MABILA HELEN D FIGUEIREDO",
     "Produto": "Adubo",
     "Dosagem de Produto - Sulcação": "2,025",
-    "Fazenda": NaN
+    "Fazenda": null,
+    "Unnamed: 17": null
   },
   {
     "ID": "3893599",
@@ -530,7 +561,8 @@ const DOSAGEM_SULCO_DATA = [
     "Responsável": "MABILA HELEN D FIGUEIREDO",
     "Produto": "Adubo",
     "Dosagem de Produto - Sulcação": "1,995",
-    "Fazenda": NaN
+    "Fazenda": null,
+    "Unnamed: 17": null
   },
   {
     "ID": "3889484",
@@ -549,7 +581,8 @@ const DOSAGEM_SULCO_DATA = [
     "Responsável": "REGINALDO DA SILVA GOMES ",
     "Produto": "Adubo",
     "Dosagem de Produto - Sulcação": "2,05",
-    "Fazenda": NaN
+    "Fazenda": null,
+    "Unnamed: 17": null
   },
   {
     "ID": "3889483",
@@ -568,7 +601,8 @@ const DOSAGEM_SULCO_DATA = [
     "Responsável": "REGINALDO DA SILVA GOMES ",
     "Produto": "Adubo",
     "Dosagem de Produto - Sulcação": "2,1",
-    "Fazenda": NaN
+    "Fazenda": null,
+    "Unnamed: 17": null
   },
   {
     "ID": "3889205",
@@ -587,7 +621,8 @@ const DOSAGEM_SULCO_DATA = [
     "Responsável": "MABILA HELEN D FIGUEIREDO",
     "Produto": "Torta ",
     "Dosagem de Produto - Sulcação": "5,69",
-    "Fazenda": NaN
+    "Fazenda": null,
+    "Unnamed: 17": null
   },
   {
     "ID": "3889204",
@@ -606,7 +641,8 @@ const DOSAGEM_SULCO_DATA = [
     "Responsável": "MABILA HELEN D FIGUEIREDO",
     "Produto": "Torta ",
     "Dosagem de Produto - Sulcação": "5,57",
-    "Fazenda": NaN
+    "Fazenda": null,
+    "Unnamed: 17": null
   },
   {
     "ID": "3889480",
@@ -625,7 +661,8 @@ const DOSAGEM_SULCO_DATA = [
     "Responsável": "REGINALDO DA SILVA GOMES ",
     "Produto": "Torta ",
     "Dosagem de Produto - Sulcação": "5,69",
-    "Fazenda": NaN
+    "Fazenda": null,
+    "Unnamed: 17": null
   },
   {
     "ID": "3889481",
@@ -644,7 +681,8 @@ const DOSAGEM_SULCO_DATA = [
     "Responsável": "REGINALDO DA SILVA GOMES ",
     "Produto": "Torta ",
     "Dosagem de Produto - Sulcação": "5,57",
-    "Fazenda": NaN
+    "Fazenda": null,
+    "Unnamed: 17": null
   },
   {
     "ID": "3889203",
@@ -663,7 +701,8 @@ const DOSAGEM_SULCO_DATA = [
     "Responsável": "MABILA HELEN D FIGUEIREDO",
     "Produto": "Adubo",
     "Dosagem de Produto - Sulcação": "2,025",
-    "Fazenda": NaN
+    "Fazenda": null,
+    "Unnamed: 17": null
   },
   {
     "ID": "3889202",
@@ -682,7 +721,8 @@ const DOSAGEM_SULCO_DATA = [
     "Responsável": "MABILA HELEN D FIGUEIREDO",
     "Produto": "Adubo",
     "Dosagem de Produto - Sulcação": "2,1",
-    "Fazenda": NaN
+    "Fazenda": null,
+    "Unnamed: 17": null
   },
   {
     "ID": "3886582",
@@ -701,7 +741,8 @@ const DOSAGEM_SULCO_DATA = [
     "Responsável": "EDILIANA CARDOSO DA COSTA",
     "Produto": "Adubo",
     "Dosagem de Produto - Sulcação": "2,16",
-    "Fazenda": NaN
+    "Fazenda": null,
+    "Unnamed: 17": null
   },
   {
     "ID": "3886581",
@@ -720,7 +761,8 @@ const DOSAGEM_SULCO_DATA = [
     "Responsável": "EDILIANA CARDOSO DA COSTA",
     "Produto": "Adubo",
     "Dosagem de Produto - Sulcação": "2,165",
-    "Fazenda": NaN
+    "Fazenda": null,
+    "Unnamed: 17": null
   },
   {
     "ID": "3886580",
@@ -739,7 +781,8 @@ const DOSAGEM_SULCO_DATA = [
     "Responsável": "EDILIANA CARDOSO DA COSTA",
     "Produto": "Torta ",
     "Dosagem de Produto - Sulcação": "5,715",
-    "Fazenda": NaN
+    "Fazenda": null,
+    "Unnamed: 17": null
   },
   {
     "ID": "3886579",
@@ -758,7 +801,8 @@ const DOSAGEM_SULCO_DATA = [
     "Responsável": "EDILIANA CARDOSO DA COSTA",
     "Produto": "Torta ",
     "Dosagem de Produto - Sulcação": "5,745",
-    "Fazenda": NaN
+    "Fazenda": null,
+    "Unnamed: 17": null
   },
   {
     "ID": "3883353",
@@ -777,7 +821,8 @@ const DOSAGEM_SULCO_DATA = [
     "Responsável": "MABILA HELEN D FIGUEIREDO",
     "Produto": "Torta ",
     "Dosagem de Produto - Sulcação": "5,78",
-    "Fazenda": NaN
+    "Fazenda": null,
+    "Unnamed: 17": null
   },
   {
     "ID": "3883352",
@@ -796,7 +841,8 @@ const DOSAGEM_SULCO_DATA = [
     "Responsável": "MABILA HELEN D FIGUEIREDO",
     "Produto": "Torta ",
     "Dosagem de Produto - Sulcação": "5,735",
-    "Fazenda": NaN
+    "Fazenda": null,
+    "Unnamed: 17": null
   },
   {
     "ID": "3883351",
@@ -815,7 +861,8 @@ const DOSAGEM_SULCO_DATA = [
     "Responsável": "MABILA HELEN D FIGUEIREDO",
     "Produto": "Adubo",
     "Dosagem de Produto - Sulcação": "2,025",
-    "Fazenda": NaN
+    "Fazenda": null,
+    "Unnamed: 17": null
   },
   {
     "ID": "3883350",
@@ -834,7 +881,8 @@ const DOSAGEM_SULCO_DATA = [
     "Responsável": "MABILA HELEN D FIGUEIREDO",
     "Produto": "Adubo",
     "Dosagem de Produto - Sulcação": "2,525",
-    "Fazenda": NaN
+    "Fazenda": null,
+    "Unnamed: 17": null
   },
   {
     "ID": "3880669",
@@ -853,7 +901,8 @@ const DOSAGEM_SULCO_DATA = [
     "Responsável": "MABILA HELEN D FIGUEIREDO",
     "Produto": "Adubo",
     "Dosagem de Produto - Sulcação": "2,04",
-    "Fazenda": NaN
+    "Fazenda": null,
+    "Unnamed: 17": null
   },
   {
     "ID": "3880668",
@@ -872,7 +921,8 @@ const DOSAGEM_SULCO_DATA = [
     "Responsável": "MABILA HELEN D FIGUEIREDO",
     "Produto": "Adubo",
     "Dosagem de Produto - Sulcação": "2,14",
-    "Fazenda": NaN
+    "Fazenda": null,
+    "Unnamed: 17": null
   },
   {
     "ID": "3880418",
@@ -891,7 +941,8 @@ const DOSAGEM_SULCO_DATA = [
     "Responsável": "MABILA HELEN D FIGUEIREDO",
     "Produto": "Torta ",
     "Dosagem de Produto - Sulcação": "5,8",
-    "Fazenda": NaN
+    "Fazenda": null,
+    "Unnamed: 17": null
   },
   {
     "ID": "3880417",
@@ -910,7 +961,8 @@ const DOSAGEM_SULCO_DATA = [
     "Responsável": "MABILA HELEN D FIGUEIREDO",
     "Produto": "Torta ",
     "Dosagem de Produto - Sulcação": "5,765",
-    "Fazenda": NaN
+    "Fazenda": null,
+    "Unnamed: 17": null
   },
   {
     "ID": "3877848",
@@ -929,7 +981,8 @@ const DOSAGEM_SULCO_DATA = [
     "Responsável": "MABILA HELEN D FIGUEIREDO",
     "Produto": "Torta ",
     "Dosagem de Produto - Sulcação": "5,71",
-    "Fazenda": NaN
+    "Fazenda": null,
+    "Unnamed: 17": null
   },
   {
     "ID": "3877847",
@@ -948,7 +1001,8 @@ const DOSAGEM_SULCO_DATA = [
     "Responsável": "MABILA HELEN D FIGUEIREDO",
     "Produto": "Torta ",
     "Dosagem de Produto - Sulcação": "5,605",
-    "Fazenda": NaN
+    "Fazenda": null,
+    "Unnamed: 17": null
   },
   {
     "ID": "3877750",
@@ -967,7 +1021,8 @@ const DOSAGEM_SULCO_DATA = [
     "Responsável": "MABILA HELEN D FIGUEIREDO",
     "Produto": "Adubo",
     "Dosagem de Produto - Sulcação": "2,15",
-    "Fazenda": NaN
+    "Fazenda": null,
+    "Unnamed: 17": null
   },
   {
     "ID": "3877749",
@@ -986,7 +1041,8 @@ const DOSAGEM_SULCO_DATA = [
     "Responsável": "MABILA HELEN D FIGUEIREDO",
     "Produto": "Adubo",
     "Dosagem de Produto - Sulcação": "2",
-    "Fazenda": NaN
+    "Fazenda": null,
+    "Unnamed: 17": null
   },
   {
     "ID": "3875194",
@@ -1005,7 +1061,8 @@ const DOSAGEM_SULCO_DATA = [
     "Responsável": "MABILA HELEN D FIGUEIREDO",
     "Produto": "Adubo",
     "Dosagem de Produto - Sulcação": "2,125",
-    "Fazenda": NaN
+    "Fazenda": null,
+    "Unnamed: 17": null
   },
   {
     "ID": "3875193",
@@ -1024,7 +1081,8 @@ const DOSAGEM_SULCO_DATA = [
     "Responsável": "MABILA HELEN D FIGUEIREDO",
     "Produto": "Adubo",
     "Dosagem de Produto - Sulcação": "2,11",
-    "Fazenda": NaN
+    "Fazenda": null,
+    "Unnamed: 17": null
   },
   {
     "ID": "3875192",
@@ -1043,7 +1101,8 @@ const DOSAGEM_SULCO_DATA = [
     "Responsável": "MABILA HELEN D FIGUEIREDO",
     "Produto": "Torta ",
     "Dosagem de Produto - Sulcação": "5,74",
-    "Fazenda": NaN
+    "Fazenda": null,
+    "Unnamed: 17": null
   },
   {
     "ID": "3875191",
@@ -1062,7 +1121,8 @@ const DOSAGEM_SULCO_DATA = [
     "Responsável": "MABILA HELEN D FIGUEIREDO",
     "Produto": "Torta ",
     "Dosagem de Produto - Sulcação": "5,63",
-    "Fazenda": NaN
+    "Fazenda": null,
+    "Unnamed: 17": null
   },
   {
     "ID": "3872171",
@@ -1081,7 +1141,8 @@ const DOSAGEM_SULCO_DATA = [
     "Responsável": "MABILA HELEN D FIGUEIREDO",
     "Produto": "Adubo",
     "Dosagem de Produto - Sulcação": "2,01",
-    "Fazenda": NaN
+    "Fazenda": null,
+    "Unnamed: 17": null
   },
   {
     "ID": "3872258",
@@ -1100,7 +1161,8 @@ const DOSAGEM_SULCO_DATA = [
     "Responsável": "REGINALDO DA SILVA GOMES ",
     "Produto": "Adubo",
     "Dosagem de Produto - Sulcação": "2,01",
-    "Fazenda": NaN
+    "Fazenda": null,
+    "Unnamed: 17": null
   },
   {
     "ID": "3872170",
@@ -1119,7 +1181,8 @@ const DOSAGEM_SULCO_DATA = [
     "Responsável": "MABILA HELEN D FIGUEIREDO",
     "Produto": "Adubo",
     "Dosagem de Produto - Sulcação": "2,025",
-    "Fazenda": NaN
+    "Fazenda": null,
+    "Unnamed: 17": null
   },
   {
     "ID": "3872257",
@@ -1138,7 +1201,8 @@ const DOSAGEM_SULCO_DATA = [
     "Responsável": "REGINALDO DA SILVA GOMES ",
     "Produto": "Adubo",
     "Dosagem de Produto - Sulcação": "2,025",
-    "Fazenda": NaN
+    "Fazenda": null,
+    "Unnamed: 17": null
   },
   {
     "ID": "3872256",
@@ -1157,7 +1221,8 @@ const DOSAGEM_SULCO_DATA = [
     "Responsável": "REGINALDO DA SILVA GOMES ",
     "Produto": "Torta ",
     "Dosagem de Produto - Sulcação": "5,6",
-    "Fazenda": NaN
+    "Fazenda": null,
+    "Unnamed: 17": null
   },
   {
     "ID": "3872255",
@@ -1176,7 +1241,8 @@ const DOSAGEM_SULCO_DATA = [
     "Responsável": "REGINALDO DA SILVA GOMES ",
     "Produto": "Torta ",
     "Dosagem de Produto - Sulcação": "5,665",
-    "Fazenda": NaN
+    "Fazenda": null,
+    "Unnamed: 17": null
   },
   {
     "ID": "3872169",
@@ -1195,7 +1261,8 @@ const DOSAGEM_SULCO_DATA = [
     "Responsável": "MABILA HELEN D FIGUEIREDO",
     "Produto": "Torta ",
     "Dosagem de Produto - Sulcação": "5,665",
-    "Fazenda": NaN
+    "Fazenda": null,
+    "Unnamed: 17": null
   },
   {
     "ID": "3872167",
@@ -1214,7 +1281,8 @@ const DOSAGEM_SULCO_DATA = [
     "Responsável": "MABILA HELEN D FIGUEIREDO",
     "Produto": "Torta ",
     "Dosagem de Produto - Sulcação": "5,6",
-    "Fazenda": NaN
+    "Fazenda": null,
+    "Unnamed: 17": null
   },
   {
     "ID": "3870147",
@@ -1233,7 +1301,8 @@ const DOSAGEM_SULCO_DATA = [
     "Responsável": "MABILA HELEN D FIGUEIREDO",
     "Produto": "Adubo",
     "Dosagem de Produto - Sulcação": "2,03",
-    "Fazenda": NaN
+    "Fazenda": null,
+    "Unnamed: 17": null
   },
   {
     "ID": "3870146",
@@ -1252,7 +1321,8 @@ const DOSAGEM_SULCO_DATA = [
     "Responsável": "MABILA HELEN D FIGUEIREDO",
     "Produto": "Adubo",
     "Dosagem de Produto - Sulcação": "2,11",
-    "Fazenda": NaN
+    "Fazenda": null,
+    "Unnamed: 17": null
   },
   {
     "ID": "3870145",
@@ -1271,7 +1341,8 @@ const DOSAGEM_SULCO_DATA = [
     "Responsável": "MABILA HELEN D FIGUEIREDO",
     "Produto": "Torta ",
     "Dosagem de Produto - Sulcação": "5,725",
-    "Fazenda": NaN
+    "Fazenda": null,
+    "Unnamed: 17": null
   },
   {
     "ID": "3870144",
@@ -1290,7 +1361,8 @@ const DOSAGEM_SULCO_DATA = [
     "Responsável": "MABILA HELEN D FIGUEIREDO",
     "Produto": "Torta ",
     "Dosagem de Produto - Sulcação": "5,725",
-    "Fazenda": NaN
+    "Fazenda": null,
+    "Unnamed: 17": null
   },
   {
     "ID": "3866573",
@@ -1309,7 +1381,8 @@ const DOSAGEM_SULCO_DATA = [
     "Responsável": "MABILA HELEN D FIGUEIREDO",
     "Produto": "Torta ",
     "Dosagem de Produto - Sulcação": "6,195",
-    "Fazenda": NaN
+    "Fazenda": null,
+    "Unnamed: 17": null
   },
   {
     "ID": "3866572",
@@ -1328,7 +1401,8 @@ const DOSAGEM_SULCO_DATA = [
     "Responsável": "MABILA HELEN D FIGUEIREDO",
     "Produto": "Torta ",
     "Dosagem de Produto - Sulcação": "5,76",
-    "Fazenda": NaN
+    "Fazenda": null,
+    "Unnamed: 17": null
   },
   {
     "ID": "3867110",
@@ -1347,7 +1421,8 @@ const DOSAGEM_SULCO_DATA = [
     "Responsável": "WILLIAM ROBERTO DALLA COSTA [254120]",
     "Produto": "Torta ",
     "Dosagem de Produto - Sulcação": "5,76",
-    "Fazenda": NaN
+    "Fazenda": null,
+    "Unnamed: 17": null
   },
   {
     "ID": "3867109",
@@ -1366,7 +1441,8 @@ const DOSAGEM_SULCO_DATA = [
     "Responsável": "WILLIAM ROBERTO DALLA COSTA [254120]",
     "Produto": "Torta ",
     "Dosagem de Produto - Sulcação": "6,195",
-    "Fazenda": NaN
+    "Fazenda": null,
+    "Unnamed: 17": null
   },
   {
     "ID": "3866563",
@@ -1385,7 +1461,8 @@ const DOSAGEM_SULCO_DATA = [
     "Responsável": "MABILA HELEN D FIGUEIREDO",
     "Produto": "Adubo",
     "Dosagem de Produto - Sulcação": "2,56",
-    "Fazenda": NaN
+    "Fazenda": null,
+    "Unnamed: 17": null
   },
   {
     "ID": "3866564",
@@ -1404,7 +1481,8 @@ const DOSAGEM_SULCO_DATA = [
     "Responsável": "MABILA HELEN D FIGUEIREDO",
     "Produto": "Adubo",
     "Dosagem de Produto - Sulcação": "2,585",
-    "Fazenda": NaN
+    "Fazenda": null,
+    "Unnamed: 17": null
   },
   {
     "ID": "3867107",
@@ -1423,7 +1501,8 @@ const DOSAGEM_SULCO_DATA = [
     "Responsável": "WILLIAM ROBERTO DALLA COSTA [254120]",
     "Produto": "Adubo",
     "Dosagem de Produto - Sulcação": "2,585",
-    "Fazenda": NaN
+    "Fazenda": null,
+    "Unnamed: 17": null
   },
   {
     "ID": "3867108",
@@ -1442,7 +1521,8 @@ const DOSAGEM_SULCO_DATA = [
     "Responsável": "WILLIAM ROBERTO DALLA COSTA [254120]",
     "Produto": "Adubo",
     "Dosagem de Produto - Sulcação": "2,56",
-    "Fazenda": NaN
+    "Fazenda": null,
+    "Unnamed: 17": null
   },
   {
     "ID": "3866548",
@@ -1461,7 +1541,8 @@ const DOSAGEM_SULCO_DATA = [
     "Responsável": "MABILA HELEN D FIGUEIREDO",
     "Produto": "Adubo",
     "Dosagem de Produto - Sulcação": "2,125",
-    "Fazenda": NaN
+    "Fazenda": null,
+    "Unnamed: 17": null
   },
   {
     "ID": "3866547",
@@ -1480,7 +1561,8 @@ const DOSAGEM_SULCO_DATA = [
     "Responsável": "MABILA HELEN D FIGUEIREDO",
     "Produto": "Adubo",
     "Dosagem de Produto - Sulcação": "2,1",
-    "Fazenda": NaN
+    "Fazenda": null,
+    "Unnamed: 17": null
   },
   {
     "ID": "3866546",
@@ -1499,7 +1581,8 @@ const DOSAGEM_SULCO_DATA = [
     "Responsável": "MABILA HELEN D FIGUEIREDO",
     "Produto": "Torta ",
     "Dosagem de Produto - Sulcação": "5,645",
-    "Fazenda": NaN
+    "Fazenda": null,
+    "Unnamed: 17": null
   },
   {
     "ID": "3866545",
@@ -1518,7 +1601,8 @@ const DOSAGEM_SULCO_DATA = [
     "Responsável": "MABILA HELEN D FIGUEIREDO",
     "Produto": "Torta ",
     "Dosagem de Produto - Sulcação": "5,5",
-    "Fazenda": NaN
+    "Fazenda": null,
+    "Unnamed: 17": null
   },
   {
     "ID": "3861222",
@@ -1537,7 +1621,8 @@ const DOSAGEM_SULCO_DATA = [
     "Responsável": "EDILIANA CARDOSO DA COSTA",
     "Produto": "Adubo",
     "Dosagem de Produto - Sulcação": "2,04",
-    "Fazenda": NaN
+    "Fazenda": null,
+    "Unnamed: 17": null
   },
   {
     "ID": "3861221",
@@ -1556,7 +1641,8 @@ const DOSAGEM_SULCO_DATA = [
     "Responsável": "EDILIANA CARDOSO DA COSTA",
     "Produto": "Adubo",
     "Dosagem de Produto - Sulcação": "2,08",
-    "Fazenda": NaN
+    "Fazenda": null,
+    "Unnamed: 17": null
   },
   {
     "ID": "3861220",
@@ -1575,7 +1661,8 @@ const DOSAGEM_SULCO_DATA = [
     "Responsável": "EDILIANA CARDOSO DA COSTA",
     "Produto": "Torta ",
     "Dosagem de Produto - Sulcação": "5,41",
-    "Fazenda": NaN
+    "Fazenda": null,
+    "Unnamed: 17": null
   },
   {
     "ID": "3861218",
@@ -1594,7 +1681,8 @@ const DOSAGEM_SULCO_DATA = [
     "Responsável": "EDILIANA CARDOSO DA COSTA",
     "Produto": "Torta ",
     "Dosagem de Produto - Sulcação": "5,48",
-    "Fazenda": NaN
+    "Fazenda": null,
+    "Unnamed: 17": null
   },
   {
     "ID": "3858028",
@@ -1613,7 +1701,8 @@ const DOSAGEM_SULCO_DATA = [
     "Responsável": "MABILA HELEN D FIGUEIREDO",
     "Produto": "Adubo",
     "Dosagem de Produto - Sulcação": "2,205",
-    "Fazenda": NaN
+    "Fazenda": null,
+    "Unnamed: 17": null
   },
   {
     "ID": "3858030",
@@ -1632,7 +1721,8 @@ const DOSAGEM_SULCO_DATA = [
     "Responsável": "MABILA HELEN D FIGUEIREDO",
     "Produto": "Torta ",
     "Dosagem de Produto - Sulcação": "5,415",
-    "Fazenda": NaN
+    "Fazenda": null,
+    "Unnamed: 17": null
   },
   {
     "ID": "3858029",
@@ -1651,7 +1741,8 @@ const DOSAGEM_SULCO_DATA = [
     "Responsável": "MABILA HELEN D FIGUEIREDO",
     "Produto": "Torta ",
     "Dosagem de Produto - Sulcação": "5,87",
-    "Fazenda": NaN
+    "Fazenda": null,
+    "Unnamed: 17": null
   },
   {
     "ID": "3858027",
@@ -1670,7 +1761,8 @@ const DOSAGEM_SULCO_DATA = [
     "Responsável": "MABILA HELEN D FIGUEIREDO",
     "Produto": "Adubo",
     "Dosagem de Produto - Sulcação": "2,155",
-    "Fazenda": NaN
+    "Fazenda": null,
+    "Unnamed: 17": null
   },
   {
     "ID": "3854887",
@@ -1689,7 +1781,8 @@ const DOSAGEM_SULCO_DATA = [
     "Responsável": "MABILA HELEN D FIGUEIREDO",
     "Produto": "Torta ",
     "Dosagem de Produto - Sulcação": "5,755",
-    "Fazenda": NaN
+    "Fazenda": null,
+    "Unnamed: 17": null
   },
   {
     "ID": "3854886",
@@ -1708,7 +1801,8 @@ const DOSAGEM_SULCO_DATA = [
     "Responsável": "MABILA HELEN D FIGUEIREDO",
     "Produto": "Torta ",
     "Dosagem de Produto - Sulcação": "5,655",
-    "Fazenda": NaN
+    "Fazenda": null,
+    "Unnamed: 17": null
   },
   {
     "ID": "3854611",
@@ -1727,7 +1821,8 @@ const DOSAGEM_SULCO_DATA = [
     "Responsável": "REGINALDO DA SILVA GOMES ",
     "Produto": "Adubo",
     "Dosagem de Produto - Sulcação": "2,045",
-    "Fazenda": NaN
+    "Fazenda": null,
+    "Unnamed: 17": null
   },
   {
     "ID": "3854610",
@@ -1746,7 +1841,8 @@ const DOSAGEM_SULCO_DATA = [
     "Responsável": "REGINALDO DA SILVA GOMES ",
     "Produto": "Adubo",
     "Dosagem de Produto - Sulcação": "2,17",
-    "Fazenda": NaN
+    "Fazenda": null,
+    "Unnamed: 17": null
   },
   {
     "ID": "3854609",
@@ -1765,7 +1861,8 @@ const DOSAGEM_SULCO_DATA = [
     "Responsável": "REGINALDO DA SILVA GOMES ",
     "Produto": "Torta ",
     "Dosagem de Produto - Sulcação": "5,535",
-    "Fazenda": NaN
+    "Fazenda": null,
+    "Unnamed: 17": null
   },
   {
     "ID": "3854608",
@@ -1784,7 +1881,8 @@ const DOSAGEM_SULCO_DATA = [
     "Responsável": "REGINALDO DA SILVA GOMES ",
     "Produto": "Torta ",
     "Dosagem de Produto - Sulcação": "5,415",
-    "Fazenda": NaN
+    "Fazenda": null,
+    "Unnamed: 17": null
   },
   {
     "ID": "3851475",
@@ -1803,7 +1901,8 @@ const DOSAGEM_SULCO_DATA = [
     "Responsável": "MABILA HELEN D FIGUEIREDO",
     "Produto": "Torta ",
     "Dosagem de Produto - Sulcação": "5,63",
-    "Fazenda": NaN
+    "Fazenda": null,
+    "Unnamed: 17": null
   },
   {
     "ID": "3851474",
@@ -1822,7 +1921,8 @@ const DOSAGEM_SULCO_DATA = [
     "Responsável": "MABILA HELEN D FIGUEIREDO",
     "Produto": "Torta ",
     "Dosagem de Produto - Sulcação": "5,545",
-    "Fazenda": NaN
+    "Fazenda": null,
+    "Unnamed: 17": null
   },
   {
     "ID": "3851473",
@@ -1841,7 +1941,8 @@ const DOSAGEM_SULCO_DATA = [
     "Responsável": "MABILA HELEN D FIGUEIREDO",
     "Produto": "Adubo",
     "Dosagem de Produto - Sulcação": "2,16",
-    "Fazenda": NaN
+    "Fazenda": null,
+    "Unnamed: 17": null
   },
   {
     "ID": "3851472",
@@ -1860,7 +1961,8 @@ const DOSAGEM_SULCO_DATA = [
     "Responsável": "MABILA HELEN D FIGUEIREDO",
     "Produto": "Adubo",
     "Dosagem de Produto - Sulcação": "2,075",
-    "Fazenda": NaN
+    "Fazenda": null,
+    "Unnamed: 17": null
   },
   {
     "ID": "3849117",
@@ -1879,7 +1981,8 @@ const DOSAGEM_SULCO_DATA = [
     "Responsável": "REGINALDO DA SILVA GOMES ",
     "Produto": "Torta ",
     "Dosagem de Produto - Sulcação": "5,47",
-    "Fazenda": NaN
+    "Fazenda": null,
+    "Unnamed: 17": null
   },
   {
     "ID": "3849116",
@@ -1898,7 +2001,8 @@ const DOSAGEM_SULCO_DATA = [
     "Responsável": "REGINALDO DA SILVA GOMES ",
     "Produto": "Torta ",
     "Dosagem de Produto - Sulcação": "5,55",
-    "Fazenda": NaN
+    "Fazenda": null,
+    "Unnamed: 17": null
   },
   {
     "ID": "3849028",
@@ -1917,7 +2021,8 @@ const DOSAGEM_SULCO_DATA = [
     "Responsável": "MABILA HELEN D FIGUEIREDO",
     "Produto": "Torta ",
     "Dosagem de Produto - Sulcação": "5,415",
-    "Fazenda": NaN
+    "Fazenda": null,
+    "Unnamed: 17": null
   },
   {
     "ID": "3849027",
@@ -1936,7 +2041,8 @@ const DOSAGEM_SULCO_DATA = [
     "Responsável": "MABILA HELEN D FIGUEIREDO",
     "Produto": "Torta ",
     "Dosagem de Produto - Sulcação": "5,51",
-    "Fazenda": NaN
+    "Fazenda": null,
+    "Unnamed: 17": null
   },
   {
     "ID": "3849112",
@@ -1955,7 +2061,8 @@ const DOSAGEM_SULCO_DATA = [
     "Responsável": "REGINALDO DA SILVA GOMES ",
     "Produto": "Adubo",
     "Dosagem de Produto - Sulcação": "2,065",
-    "Fazenda": NaN
+    "Fazenda": null,
+    "Unnamed: 17": null
   },
   {
     "ID": "3849113",
@@ -1974,7 +2081,8 @@ const DOSAGEM_SULCO_DATA = [
     "Responsável": "REGINALDO DA SILVA GOMES ",
     "Produto": "Adubo",
     "Dosagem de Produto - Sulcação": "2,005",
-    "Fazenda": NaN
+    "Fazenda": null,
+    "Unnamed: 17": null
   },
   {
     "ID": "3849025",
@@ -1993,7 +2101,8 @@ const DOSAGEM_SULCO_DATA = [
     "Responsável": "MABILA HELEN D FIGUEIREDO",
     "Produto": "Adubo",
     "Dosagem de Produto - Sulcação": "2,065",
-    "Fazenda": NaN
+    "Fazenda": null,
+    "Unnamed: 17": null
   },
   {
     "ID": "3849026",
@@ -2012,7 +2121,8 @@ const DOSAGEM_SULCO_DATA = [
     "Responsável": "MABILA HELEN D FIGUEIREDO",
     "Produto": "Adubo",
     "Dosagem de Produto - Sulcação": "2,005",
-    "Fazenda": NaN
+    "Fazenda": null,
+    "Unnamed: 17": null
   },
   {
     "ID": "3843473",
@@ -2031,7 +2141,8 @@ const DOSAGEM_SULCO_DATA = [
     "Responsável": "MABILA HELEN D FIGUEIREDO",
     "Produto": "Torta ",
     "Dosagem de Produto - Sulcação": "3,545",
-    "Fazenda": NaN
+    "Fazenda": null,
+    "Unnamed: 17": null
   },
   {
     "ID": "3843472",
@@ -2050,7 +2161,8 @@ const DOSAGEM_SULCO_DATA = [
     "Responsável": "MABILA HELEN D FIGUEIREDO",
     "Produto": "Adubo",
     "Dosagem de Produto - Sulcação": "3,33",
-    "Fazenda": NaN
+    "Fazenda": null,
+    "Unnamed: 17": null
   },
   {
     "ID": "3843471",
@@ -2069,7 +2181,8 @@ const DOSAGEM_SULCO_DATA = [
     "Responsável": "MABILA HELEN D FIGUEIREDO",
     "Produto": "Adubo",
     "Dosagem de Produto - Sulcação": "3,3",
-    "Fazenda": NaN
+    "Fazenda": null,
+    "Unnamed: 17": null
   },
   {
     "ID": "3846316",
@@ -2088,7 +2201,8 @@ const DOSAGEM_SULCO_DATA = [
     "Responsável": "MABILA HELEN D FIGUEIREDO",
     "Produto": "Adubo",
     "Dosagem de Produto - Sulcação": "2,03",
-    "Fazenda": NaN
+    "Fazenda": null,
+    "Unnamed: 17": null
   },
   {
     "ID": "3846317",
@@ -2107,7 +2221,8 @@ const DOSAGEM_SULCO_DATA = [
     "Responsável": "MABILA HELEN D FIGUEIREDO",
     "Produto": "Adubo",
     "Dosagem de Produto - Sulcação": "2,03",
-    "Fazenda": NaN
+    "Fazenda": null,
+    "Unnamed: 17": null
   },
   {
     "ID": "3846318",
@@ -2126,7 +2241,8 @@ const DOSAGEM_SULCO_DATA = [
     "Responsável": "MABILA HELEN D FIGUEIREDO",
     "Produto": "Torta ",
     "Dosagem de Produto - Sulcação": "5,575",
-    "Fazenda": NaN
+    "Fazenda": null,
+    "Unnamed: 17": null
   },
   {
     "ID": "3846319",
@@ -2145,7 +2261,8 @@ const DOSAGEM_SULCO_DATA = [
     "Responsável": "MABILA HELEN D FIGUEIREDO",
     "Produto": "Torta ",
     "Dosagem de Produto - Sulcação": "5,575",
-    "Fazenda": NaN
+    "Fazenda": null,
+    "Unnamed: 17": null
   },
   {
     "ID": "3843474",
@@ -2164,7 +2281,8 @@ const DOSAGEM_SULCO_DATA = [
     "Responsável": "MABILA HELEN D FIGUEIREDO",
     "Produto": "Torta ",
     "Dosagem de Produto - Sulcação": "3,415",
-    "Fazenda": NaN
+    "Fazenda": null,
+    "Unnamed: 17": null
   },
   {
     "ID": "3639881",
@@ -2183,7 +2301,8 @@ const DOSAGEM_SULCO_DATA = [
     "Responsável": "MARCELO DE OLIVEIRA JUNIOR",
     "Produto": "Adubo",
     "Dosagem de Produto - Sulcação": "3,485",
-    "Fazenda": NaN
+    "Fazenda": null,
+    "Unnamed: 17": null
   },
   {
     "ID": "3639880",
@@ -2202,7 +2321,8 @@ const DOSAGEM_SULCO_DATA = [
     "Responsável": "MARCELO DE OLIVEIRA JUNIOR",
     "Produto": "Adubo",
     "Dosagem de Produto - Sulcação": "3,375",
-    "Fazenda": NaN
+    "Fazenda": null,
+    "Unnamed: 17": null
   },
   {
     "ID": "3639879",
@@ -2221,7 +2341,8 @@ const DOSAGEM_SULCO_DATA = [
     "Responsável": "MARCELO DE OLIVEIRA JUNIOR",
     "Produto": "Adubo",
     "Dosagem de Produto - Sulcação": "3,465",
-    "Fazenda": NaN
+    "Fazenda": null,
+    "Unnamed: 17": null
   },
   {
     "ID": "3639878",
@@ -2240,7 +2361,8 @@ const DOSAGEM_SULCO_DATA = [
     "Responsável": "MARCELO DE OLIVEIRA JUNIOR",
     "Produto": "Adubo",
     "Dosagem de Produto - Sulcação": "3,385",
-    "Fazenda": NaN
+    "Fazenda": null,
+    "Unnamed: 17": null
   },
   {
     "ID": "3635253",
@@ -2259,7 +2381,8 @@ const DOSAGEM_SULCO_DATA = [
     "Responsável": "NILDA CLAUDINO [2510716]",
     "Produto": "Adubo",
     "Dosagem de Produto - Sulcação": "3,4",
-    "Fazenda": NaN
+    "Fazenda": null,
+    "Unnamed: 17": null
   },
   {
     "ID": "3635252",
@@ -2278,7 +2401,8 @@ const DOSAGEM_SULCO_DATA = [
     "Responsável": "NILDA CLAUDINO [2510716]",
     "Produto": "Adubo",
     "Dosagem de Produto - Sulcação": "3,435",
-    "Fazenda": NaN
+    "Fazenda": null,
+    "Unnamed: 17": null
   },
   {
     "ID": "3628770",
@@ -2297,7 +2421,8 @@ const DOSAGEM_SULCO_DATA = [
     "Responsável": "NILDA CLAUDINO [2510716]",
     "Produto": "Adubo",
     "Dosagem de Produto - Sulcação": "3,31",
-    "Fazenda": NaN
+    "Fazenda": null,
+    "Unnamed: 17": null
   },
   {
     "ID": "3628769",
@@ -2316,7 +2441,8 @@ const DOSAGEM_SULCO_DATA = [
     "Responsável": "NILDA CLAUDINO [2510716]",
     "Produto": "Adubo",
     "Dosagem de Produto - Sulcação": "3,33",
-    "Fazenda": NaN
+    "Fazenda": null,
+    "Unnamed: 17": null
   },
   {
     "ID": "3626606",
@@ -2335,7 +2461,8 @@ const DOSAGEM_SULCO_DATA = [
     "Responsável": "GLEISON FELIPE BORGES DE MATOS",
     "Produto": "Adubo",
     "Dosagem de Produto - Sulcação": "3,445",
-    "Fazenda": NaN
+    "Fazenda": null,
+    "Unnamed: 17": null
   },
   {
     "ID": "3626602",
@@ -2354,7 +2481,8 @@ const DOSAGEM_SULCO_DATA = [
     "Responsável": "GLEISON FELIPE BORGES DE MATOS",
     "Produto": "Adubo",
     "Dosagem de Produto - Sulcação": "3,325",
-    "Fazenda": NaN
+    "Fazenda": null,
+    "Unnamed: 17": null
   },
   {
     "ID": "3626605",
@@ -2373,7 +2501,8 @@ const DOSAGEM_SULCO_DATA = [
     "Responsável": "GLEISON FELIPE BORGES DE MATOS",
     "Produto": "Adubo",
     "Dosagem de Produto - Sulcação": "3,5",
-    "Fazenda": NaN
+    "Fazenda": null,
+    "Unnamed: 17": null
   },
   {
     "ID": "3626462",
@@ -2392,7 +2521,8 @@ const DOSAGEM_SULCO_DATA = [
     "Responsável": "GLEISON FELIPE BORGES DE MATOS",
     "Produto": "Adubo",
     "Dosagem de Produto - Sulcação": "3,48",
-    "Fazenda": NaN
+    "Fazenda": null,
+    "Unnamed: 17": null
   },
   {
     "ID": "3626439",
@@ -2411,7 +2541,8 @@ const DOSAGEM_SULCO_DATA = [
     "Responsável": "GLEISON FELIPE BORGES DE MATOS",
     "Produto": "Adubo",
     "Dosagem de Produto - Sulcação": "3,415",
-    "Fazenda": NaN
+    "Fazenda": null,
+    "Unnamed: 17": null
   },
   {
     "ID": "3627196",
@@ -2430,7 +2561,8 @@ const DOSAGEM_SULCO_DATA = [
     "Responsável": "NILDA CLAUDINO [2510716]",
     "Produto": "Adubo",
     "Dosagem de Produto - Sulcação": "3,445",
-    "Fazenda": NaN
+    "Fazenda": null,
+    "Unnamed: 17": null
   },
   {
     "ID": "3627190",
@@ -2449,7 +2581,8 @@ const DOSAGEM_SULCO_DATA = [
     "Responsável": "NILDA CLAUDINO [2510716]",
     "Produto": "Adubo",
     "Dosagem de Produto - Sulcação": "3,46",
-    "Fazenda": NaN
+    "Fazenda": null,
+    "Unnamed: 17": null
   },
   {
     "ID": "3626990",
@@ -2468,7 +2601,8 @@ const DOSAGEM_SULCO_DATA = [
     "Responsável": "MARCELO DE OLIVEIRA JUNIOR",
     "Produto": "Adubo",
     "Dosagem de Produto - Sulcação": "6,995",
-    "Fazenda": NaN
+    "Fazenda": null,
+    "Unnamed: 17": null
   },
   {
     "ID": "3626989",
@@ -2487,7 +2621,8 @@ const DOSAGEM_SULCO_DATA = [
     "Responsável": "MARCELO DE OLIVEIRA JUNIOR",
     "Produto": "Adubo",
     "Dosagem de Produto - Sulcação": "3,35",
-    "Fazenda": NaN
+    "Fazenda": null,
+    "Unnamed: 17": null
   },
   {
     "ID": "3626988",
@@ -2506,7 +2641,8 @@ const DOSAGEM_SULCO_DATA = [
     "Responsável": "MARCELO DE OLIVEIRA JUNIOR",
     "Produto": "Adubo",
     "Dosagem de Produto - Sulcação": "3,43",
-    "Fazenda": NaN
+    "Fazenda": null,
+    "Unnamed: 17": null
   },
   {
     "ID": "3624094",
@@ -2525,7 +2661,8 @@ const DOSAGEM_SULCO_DATA = [
     "Responsável": "NILDA CLAUDINO [2510716]",
     "Produto": "Adubo",
     "Dosagem de Produto - Sulcação": "4,45",
-    "Fazenda": NaN
+    "Fazenda": null,
+    "Unnamed: 17": null
   },
   {
     "ID": "3624093",
@@ -2544,7 +2681,8 @@ const DOSAGEM_SULCO_DATA = [
     "Responsável": "NILDA CLAUDINO [2510716]",
     "Produto": "Adubo",
     "Dosagem de Produto - Sulcação": "3,43",
-    "Fazenda": NaN
+    "Fazenda": null,
+    "Unnamed: 17": null
   },
   {
     "ID": "3624045",
@@ -2563,7 +2701,8 @@ const DOSAGEM_SULCO_DATA = [
     "Responsável": " Antonio ",
     "Produto": "Adubo",
     "Dosagem de Produto - Sulcação": "3,365",
-    "Fazenda": NaN
+    "Fazenda": null,
+    "Unnamed: 17": null
   },
   {
     "ID": "3624044",
@@ -2582,7 +2721,8 @@ const DOSAGEM_SULCO_DATA = [
     "Responsável": " Antonio ",
     "Produto": "Adubo",
     "Dosagem de Produto - Sulcação": "3,375",
-    "Fazenda": NaN
+    "Fazenda": null,
+    "Unnamed: 17": null
   },
   {
     "ID": "3624042",
@@ -2601,7 +2741,8 @@ const DOSAGEM_SULCO_DATA = [
     "Responsável": " Antonio ",
     "Produto": "Adubo",
     "Dosagem de Produto - Sulcação": "3,34",
-    "Fazenda": NaN
+    "Fazenda": null,
+    "Unnamed: 17": null
   },
   {
     "ID": "3624043",
@@ -2620,7 +2761,8 @@ const DOSAGEM_SULCO_DATA = [
     "Responsável": " Antonio ",
     "Produto": "Adubo",
     "Dosagem de Produto - Sulcação": "3,41",
-    "Fazenda": NaN
+    "Fazenda": null,
+    "Unnamed: 17": null
   },
   {
     "ID": "3623969",
@@ -2639,7 +2781,8 @@ const DOSAGEM_SULCO_DATA = [
     "Responsável": " Antonio ",
     "Produto": "Adubo",
     "Dosagem de Produto - Sulcação": "3,48",
-    "Fazenda": NaN
+    "Fazenda": null,
+    "Unnamed: 17": null
   },
   {
     "ID": "3623968",
@@ -2658,7 +2801,8 @@ const DOSAGEM_SULCO_DATA = [
     "Responsável": " Antonio ",
     "Produto": "Adubo",
     "Dosagem de Produto - Sulcação": "3,415",
-    "Fazenda": NaN
+    "Fazenda": null,
+    "Unnamed: 17": null
   },
   {
     "ID": "3621734",
@@ -2677,7 +2821,8 @@ const DOSAGEM_SULCO_DATA = [
     "Responsável": "FERNANDA DE SOUZA ",
     "Produto": "Adubo",
     "Dosagem de Produto - Sulcação": "3,43",
-    "Fazenda": NaN
+    "Fazenda": null,
+    "Unnamed: 17": null
   },
   {
     "ID": "3621697",
@@ -2696,7 +2841,8 @@ const DOSAGEM_SULCO_DATA = [
     "Responsável": "FERNANDA DE SOUZA ",
     "Produto": "Adubo",
     "Dosagem de Produto - Sulcação": "3,37",
-    "Fazenda": NaN
+    "Fazenda": null,
+    "Unnamed: 17": null
   },
   {
     "ID": "3620961",
@@ -2715,7 +2861,8 @@ const DOSAGEM_SULCO_DATA = [
     "Responsável": "VITOR AMORIM RAMOS ",
     "Produto": "Adubo",
     "Dosagem de Produto - Sulcação": "3,33",
-    "Fazenda": NaN
+    "Fazenda": null,
+    "Unnamed: 17": null
   },
   {
     "ID": "3620960",
@@ -2734,7 +2881,8 @@ const DOSAGEM_SULCO_DATA = [
     "Responsável": "VITOR AMORIM RAMOS ",
     "Produto": "Adubo",
     "Dosagem de Produto - Sulcação": "3,38",
-    "Fazenda": NaN
+    "Fazenda": null,
+    "Unnamed: 17": null
   },
   {
     "ID": "3620957",
@@ -2753,7 +2901,8 @@ const DOSAGEM_SULCO_DATA = [
     "Responsável": "VITOR AMORIM RAMOS ",
     "Produto": "Adubo",
     "Dosagem de Produto - Sulcação": "3,37",
-    "Fazenda": NaN
+    "Fazenda": null,
+    "Unnamed: 17": null
   },
   {
     "ID": "3620956",
@@ -2772,7 +2921,8 @@ const DOSAGEM_SULCO_DATA = [
     "Responsável": "VITOR AMORIM RAMOS ",
     "Produto": "Adubo",
     "Dosagem de Produto - Sulcação": "3,34",
-    "Fazenda": NaN
+    "Fazenda": null,
+    "Unnamed: 17": null
   },
   {
     "ID": "3620955",
@@ -2791,7 +2941,8 @@ const DOSAGEM_SULCO_DATA = [
     "Responsável": "VITOR AMORIM RAMOS ",
     "Produto": "Adubo",
     "Dosagem de Produto - Sulcação": "3,445",
-    "Fazenda": NaN
+    "Fazenda": null,
+    "Unnamed: 17": null
   },
   {
     "ID": "3620954",
@@ -2810,7 +2961,8 @@ const DOSAGEM_SULCO_DATA = [
     "Responsável": "VITOR AMORIM RAMOS ",
     "Produto": "Adubo",
     "Dosagem de Produto - Sulcação": "3,425",
-    "Fazenda": NaN
+    "Fazenda": null,
+    "Unnamed: 17": null
   },
   {
     "ID": "3620810",
@@ -2829,7 +2981,8 @@ const DOSAGEM_SULCO_DATA = [
     "Responsável": "FERNANDA DE SOUZA ",
     "Produto": "Adubo",
     "Dosagem de Produto - Sulcação": "3,5",
-    "Fazenda": NaN
+    "Fazenda": null,
+    "Unnamed: 17": null
   },
   {
     "ID": "3620809",
@@ -2848,7 +3001,8 @@ const DOSAGEM_SULCO_DATA = [
     "Responsável": "FERNANDA DE SOUZA ",
     "Produto": "Adubo",
     "Dosagem de Produto - Sulcação": "3,425",
-    "Fazenda": NaN
+    "Fazenda": null,
+    "Unnamed: 17": null
   },
   {
     "ID": "3620824",
@@ -2867,7 +3021,8 @@ const DOSAGEM_SULCO_DATA = [
     "Responsável": "MABILA HELEN D FIGUEIREDO",
     "Produto": "Adubo",
     "Dosagem de Produto - Sulcação": "3,4",
-    "Fazenda": NaN
+    "Fazenda": null,
+    "Unnamed: 17": null
   },
   {
     "ID": "3620823",
@@ -2886,7 +3041,8 @@ const DOSAGEM_SULCO_DATA = [
     "Responsável": "MABILA HELEN D FIGUEIREDO",
     "Produto": "Adubo",
     "Dosagem de Produto - Sulcação": "3,44",
-    "Fazenda": NaN
+    "Fazenda": null,
+    "Unnamed: 17": null
   },
   {
     "ID": "3617888",
@@ -2905,7 +3061,8 @@ const DOSAGEM_SULCO_DATA = [
     "Responsável": "MABILA HELEN D FIGUEIREDO",
     "Produto": "Adubo",
     "Dosagem de Produto - Sulcação": "3,52",
-    "Fazenda": NaN
+    "Fazenda": null,
+    "Unnamed: 17": null
   },
   {
     "ID": "3617887",
@@ -2924,7 +3081,8 @@ const DOSAGEM_SULCO_DATA = [
     "Responsável": "MABILA HELEN D FIGUEIREDO",
     "Produto": "Adubo",
     "Dosagem de Produto - Sulcação": "3,515",
-    "Fazenda": NaN
+    "Fazenda": null,
+    "Unnamed: 17": null
   },
   {
     "ID": "3618590",
@@ -2943,7 +3101,8 @@ const DOSAGEM_SULCO_DATA = [
     "Responsável": "GABRIEL HENRIQUE MARTINS PEREIRA",
     "Produto": "Adubo",
     "Dosagem de Produto - Sulcação": "3,14",
-    "Fazenda": NaN
+    "Fazenda": null,
+    "Unnamed: 17": null
   },
   {
     "ID": "3618589",
@@ -2962,7 +3121,8 @@ const DOSAGEM_SULCO_DATA = [
     "Responsável": "GABRIEL HENRIQUE MARTINS PEREIRA",
     "Produto": "Adubo",
     "Dosagem de Produto - Sulcação": "3,04",
-    "Fazenda": NaN
+    "Fazenda": null,
+    "Unnamed: 17": null
   },
   {
     "ID": "3618710",
@@ -2981,7 +3141,8 @@ const DOSAGEM_SULCO_DATA = [
     "Responsável": "MICHELI DE SOUZA SANTOS  ",
     "Produto": "Adubo",
     "Dosagem de Produto - Sulcação": "3,075",
-    "Fazenda": NaN
+    "Fazenda": null,
+    "Unnamed: 17": null
   },
   {
     "ID": "3618708",
@@ -3000,7 +3161,8 @@ const DOSAGEM_SULCO_DATA = [
     "Responsável": "MICHELI DE SOUZA SANTOS  ",
     "Produto": "Adubo",
     "Dosagem de Produto - Sulcação": "3,03",
-    "Fazenda": NaN
+    "Fazenda": null,
+    "Unnamed: 17": null
   },
   {
     "ID": "3618705",
@@ -3019,7 +3181,8 @@ const DOSAGEM_SULCO_DATA = [
     "Responsável": "MICHELI DE SOUZA SANTOS  ",
     "Produto": "Adubo",
     "Dosagem de Produto - Sulcação": "3,015",
-    "Fazenda": NaN
+    "Fazenda": null,
+    "Unnamed: 17": null
   },
   {
     "ID": "3618702",
@@ -3038,7 +3201,8 @@ const DOSAGEM_SULCO_DATA = [
     "Responsável": "MICHELI DE SOUZA SANTOS  ",
     "Produto": "Adubo",
     "Dosagem de Produto - Sulcação": "3,13",
-    "Fazenda": NaN
+    "Fazenda": null,
+    "Unnamed: 17": null
   },
   {
     "ID": "3618481",
@@ -3057,7 +3221,8 @@ const DOSAGEM_SULCO_DATA = [
     "Responsável": "GABRIEL HENRIQUE MARTINS PEREIRA",
     "Produto": "Adubo",
     "Dosagem de Produto - Sulcação": "3,195",
-    "Fazenda": NaN
+    "Fazenda": null,
+    "Unnamed: 17": null
   },
   {
     "ID": "3618480",
@@ -3076,7 +3241,8 @@ const DOSAGEM_SULCO_DATA = [
     "Responsável": "GABRIEL HENRIQUE MARTINS PEREIRA",
     "Produto": "Adubo",
     "Dosagem de Produto - Sulcação": "3,11",
-    "Fazenda": NaN
+    "Fazenda": null,
+    "Unnamed: 17": null
   },
   {
     "ID": "3617708",
@@ -3095,7 +3261,8 @@ const DOSAGEM_SULCO_DATA = [
     "Responsável": "FERNANDA DE SOUZA ",
     "Produto": "Adubo",
     "Dosagem de Produto - Sulcação": "3,43",
-    "Fazenda": NaN
+    "Fazenda": null,
+    "Unnamed: 17": null
   },
   {
     "ID": "3617707",
@@ -3114,7 +3281,8 @@ const DOSAGEM_SULCO_DATA = [
     "Responsável": "FERNANDA DE SOUZA ",
     "Produto": "Adubo",
     "Dosagem de Produto - Sulcação": "3,32",
-    "Fazenda": NaN
+    "Fazenda": null,
+    "Unnamed: 17": null
   },
   {
     "ID": "3617607",
@@ -3133,7 +3301,8 @@ const DOSAGEM_SULCO_DATA = [
     "Responsável": "VITOR AMORIM RAMOS ",
     "Produto": "Adubo",
     "Dosagem de Produto - Sulcação": "3,38",
-    "Fazenda": NaN
+    "Fazenda": null,
+    "Unnamed: 17": null
   },
   {
     "ID": "3617606",
@@ -3152,7 +3321,8 @@ const DOSAGEM_SULCO_DATA = [
     "Responsável": "VITOR AMORIM RAMOS ",
     "Produto": "Adubo",
     "Dosagem de Produto - Sulcação": "3,388",
-    "Fazenda": NaN
+    "Fazenda": null,
+    "Unnamed: 17": null
   },
   {
     "ID": "3617605",
@@ -3171,7 +3341,8 @@ const DOSAGEM_SULCO_DATA = [
     "Responsável": "VITOR AMORIM RAMOS ",
     "Produto": "Adubo",
     "Dosagem de Produto - Sulcação": "3,375",
-    "Fazenda": NaN
+    "Fazenda": null,
+    "Unnamed: 17": null
   },
   {
     "ID": "3617602",
@@ -3190,7 +3361,8 @@ const DOSAGEM_SULCO_DATA = [
     "Responsável": "VITOR AMORIM RAMOS ",
     "Produto": "Adubo",
     "Dosagem de Produto - Sulcação": "3,415",
-    "Fazenda": NaN
+    "Fazenda": null,
+    "Unnamed: 17": null
   },
   {
     "ID": "3618235",
@@ -3209,7 +3381,8 @@ const DOSAGEM_SULCO_DATA = [
     "Responsável": "NILDA CLAUDINO [2510716]",
     "Produto": "Adubo",
     "Dosagem de Produto - Sulcação": "3,39",
-    "Fazenda": NaN
+    "Fazenda": null,
+    "Unnamed: 17": null
   },
   {
     "ID": "3617556",
@@ -3228,7 +3401,8 @@ const DOSAGEM_SULCO_DATA = [
     "Responsável": "FERNANDA DE SOUZA ",
     "Produto": "Adubo",
     "Dosagem de Produto - Sulcação": "3,315",
-    "Fazenda": NaN
+    "Fazenda": null,
+    "Unnamed: 17": null
   },
   {
     "ID": "3617555",
@@ -3247,7 +3421,8 @@ const DOSAGEM_SULCO_DATA = [
     "Responsável": "FERNANDA DE SOUZA ",
     "Produto": "Adubo",
     "Dosagem de Produto - Sulcação": "3,41",
-    "Fazenda": NaN
+    "Fazenda": null,
+    "Unnamed: 17": null
   },
   {
     "ID": "3618233",
@@ -3266,7 +3441,8 @@ const DOSAGEM_SULCO_DATA = [
     "Responsável": "NILDA CLAUDINO [2510716]",
     "Produto": "Adubo",
     "Dosagem de Produto - Sulcação": "3,41",
-    "Fazenda": NaN
+    "Fazenda": null,
+    "Unnamed: 17": null
   },
   {
     "ID": "3614349",
@@ -3285,7 +3461,8 @@ const DOSAGEM_SULCO_DATA = [
     "Responsável": "GLEISON FELIPE BORGES DE MATOS",
     "Produto": "Adubo",
     "Dosagem de Produto - Sulcação": "3,58",
-    "Fazenda": NaN
+    "Fazenda": null,
+    "Unnamed: 17": null
   },
   {
     "ID": "3614348",
@@ -3304,7 +3481,8 @@ const DOSAGEM_SULCO_DATA = [
     "Responsável": "GLEISON FELIPE BORGES DE MATOS",
     "Produto": "Adubo",
     "Dosagem de Produto - Sulcação": "3,495",
-    "Fazenda": NaN
+    "Fazenda": null,
+    "Unnamed: 17": null
   },
   {
     "ID": "3614347",
@@ -3323,7 +3501,8 @@ const DOSAGEM_SULCO_DATA = [
     "Responsável": "GLEISON FELIPE BORGES DE MATOS",
     "Produto": "Adubo",
     "Dosagem de Produto - Sulcação": "3,455",
-    "Fazenda": NaN
+    "Fazenda": null,
+    "Unnamed: 17": null
   },
   {
     "ID": "3614346",
@@ -3342,7 +3521,8 @@ const DOSAGEM_SULCO_DATA = [
     "Responsável": "GLEISON FELIPE BORGES DE MATOS",
     "Produto": "Adubo",
     "Dosagem de Produto - Sulcação": "3,41",
-    "Fazenda": NaN
+    "Fazenda": null,
+    "Unnamed: 17": null
   },
   {
     "ID": "3614276",
@@ -3361,7 +3541,8 @@ const DOSAGEM_SULCO_DATA = [
     "Responsável": "MABILA HELEN D FIGUEIREDO",
     "Produto": "Adubo",
     "Dosagem de Produto - Sulcação": "3,34",
-    "Fazenda": NaN
+    "Fazenda": null,
+    "Unnamed: 17": null
   },
   {
     "ID": "3614275",
@@ -3380,7 +3561,8 @@ const DOSAGEM_SULCO_DATA = [
     "Responsável": "MABILA HELEN D FIGUEIREDO",
     "Produto": "Adubo",
     "Dosagem de Produto - Sulcação": "3,335",
-    "Fazenda": NaN
+    "Fazenda": null,
+    "Unnamed: 17": null
   },
   {
     "ID": "3614236",
@@ -3399,7 +3581,8 @@ const DOSAGEM_SULCO_DATA = [
     "Responsável": "EDILIANA CARDOSO DA COSTA",
     "Produto": "Adubo",
     "Dosagem de Produto - Sulcação": "3,385",
-    "Fazenda": NaN
+    "Fazenda": null,
+    "Unnamed: 17": null
   },
   {
     "ID": "3614235",
@@ -3418,7 +3601,8 @@ const DOSAGEM_SULCO_DATA = [
     "Responsável": "EDILIANA CARDOSO DA COSTA",
     "Produto": "Adubo",
     "Dosagem de Produto - Sulcação": "3,3",
-    "Fazenda": NaN
+    "Fazenda": null,
+    "Unnamed: 17": null
   },
   {
     "ID": "3614274",
@@ -3437,7 +3621,8 @@ const DOSAGEM_SULCO_DATA = [
     "Responsável": " Antonio ",
     "Produto": "Adubo",
     "Dosagem de Produto - Sulcação": "3,48",
-    "Fazenda": NaN
+    "Fazenda": null,
+    "Unnamed: 17": null
   },
   {
     "ID": "3614273",
@@ -3456,7 +3641,8 @@ const DOSAGEM_SULCO_DATA = [
     "Responsável": "MABILA HELEN D FIGUEIREDO",
     "Produto": "Adubo",
     "Dosagem de Produto - Sulcação": "3,415",
-    "Fazenda": NaN
+    "Fazenda": null,
+    "Unnamed: 17": null
   },
   {
     "ID": "3613997",
@@ -3475,7 +3661,8 @@ const DOSAGEM_SULCO_DATA = [
     "Responsável": "MICHELI DE SOUZA SANTOS  ",
     "Produto": "Adubo",
     "Dosagem de Produto - Sulcação": "3,795",
-    "Fazenda": NaN
+    "Fazenda": null,
+    "Unnamed: 17": null
   },
   {
     "ID": "3613996",
@@ -3494,7 +3681,8 @@ const DOSAGEM_SULCO_DATA = [
     "Responsável": "MICHELI DE SOUZA SANTOS  ",
     "Produto": "Adubo",
     "Dosagem de Produto - Sulcação": "3,76",
-    "Fazenda": NaN
+    "Fazenda": null,
+    "Unnamed: 17": null
   },
   {
     "ID": "3613999",
@@ -3513,7 +3701,8 @@ const DOSAGEM_SULCO_DATA = [
     "Responsável": "MICHELI DE SOUZA SANTOS  ",
     "Produto": "Adubo",
     "Dosagem de Produto - Sulcação": "3,87",
-    "Fazenda": NaN
+    "Fazenda": null,
+    "Unnamed: 17": null
   },
   {
     "ID": "3613998",
@@ -3532,7 +3721,8 @@ const DOSAGEM_SULCO_DATA = [
     "Responsável": "MICHELI DE SOUZA SANTOS  ",
     "Produto": "Adubo",
     "Dosagem de Produto - Sulcação": "3,925",
-    "Fazenda": NaN
+    "Fazenda": null,
+    "Unnamed: 17": null
   },
   {
     "ID": "3613982",
@@ -3551,7 +3741,8 @@ const DOSAGEM_SULCO_DATA = [
     "Responsável": "VITOR AMORIM RAMOS ",
     "Produto": "Adubo",
     "Dosagem de Produto - Sulcação": "3,48",
-    "Fazenda": NaN
+    "Fazenda": null,
+    "Unnamed: 17": null
   },
   {
     "ID": "3613981",
@@ -3570,7 +3761,8 @@ const DOSAGEM_SULCO_DATA = [
     "Responsável": "VITOR AMORIM RAMOS ",
     "Produto": "Adubo",
     "Dosagem de Produto - Sulcação": "3,445",
-    "Fazenda": NaN
+    "Fazenda": null,
+    "Unnamed: 17": null
   },
   {
     "ID": "3613755",
@@ -3589,7 +3781,8 @@ const DOSAGEM_SULCO_DATA = [
     "Responsável": "FERNANDA DE SOUZA ",
     "Produto": "Adubo",
     "Dosagem de Produto - Sulcação": "3,51",
-    "Fazenda": NaN
+    "Fazenda": null,
+    "Unnamed: 17": null
   },
   {
     "ID": "3613752",
@@ -3608,7 +3801,8 @@ const DOSAGEM_SULCO_DATA = [
     "Responsável": "FERNANDA DE SOUZA ",
     "Produto": "Adubo",
     "Dosagem de Produto - Sulcação": "3,395",
-    "Fazenda": NaN
+    "Fazenda": null,
+    "Unnamed: 17": null
   },
   {
     "ID": "3614689",
@@ -3627,7 +3821,8 @@ const DOSAGEM_SULCO_DATA = [
     "Responsável": "NILDA CLAUDINO [2510716]",
     "Produto": "Adubo",
     "Dosagem de Produto - Sulcação": "3,385",
-    "Fazenda": NaN
+    "Fazenda": null,
+    "Unnamed: 17": null
   },
   {
     "ID": "3614688",
@@ -3646,7 +3841,8 @@ const DOSAGEM_SULCO_DATA = [
     "Responsável": "NILDA CLAUDINO [2510716]",
     "Produto": "Adubo",
     "Dosagem de Produto - Sulcação": "3,385",
-    "Fazenda": NaN
+    "Fazenda": null,
+    "Unnamed: 17": null
   },
   {
     "ID": "3611176",
@@ -3665,7 +3861,8 @@ const DOSAGEM_SULCO_DATA = [
     "Responsável": "MABILA HELEN D FIGUEIREDO",
     "Produto": "Adubo",
     "Dosagem de Produto - Sulcação": "3,365",
-    "Fazenda": NaN
+    "Fazenda": null,
+    "Unnamed: 17": null
   },
   {
     "ID": "3611175",
@@ -3684,7 +3881,8 @@ const DOSAGEM_SULCO_DATA = [
     "Responsável": "MABILA HELEN D FIGUEIREDO",
     "Produto": "Adubo",
     "Dosagem de Produto - Sulcação": "3,415",
-    "Fazenda": NaN
+    "Fazenda": null,
+    "Unnamed: 17": null
   },
   {
     "ID": "3611174",
@@ -3703,7 +3901,8 @@ const DOSAGEM_SULCO_DATA = [
     "Responsável": "MABILA HELEN D FIGUEIREDO",
     "Produto": "Adubo",
     "Dosagem de Produto - Sulcação": "3,41",
-    "Fazenda": NaN
+    "Fazenda": null,
+    "Unnamed: 17": null
   },
   {
     "ID": "3611173",
@@ -3722,7 +3921,8 @@ const DOSAGEM_SULCO_DATA = [
     "Responsável": "MABILA HELEN D FIGUEIREDO",
     "Produto": "Adubo",
     "Dosagem de Produto - Sulcação": "3,325",
-    "Fazenda": NaN
+    "Fazenda": null,
+    "Unnamed: 17": null
   },
   {
     "ID": "3611624",
@@ -3741,7 +3941,8 @@ const DOSAGEM_SULCO_DATA = [
     "Responsável": "FERNANDA DE SOUZA ",
     "Produto": "Adubo",
     "Dosagem de Produto - Sulcação": "3,23",
-    "Fazenda": NaN
+    "Fazenda": null,
+    "Unnamed: 17": null
   },
   {
     "ID": "3611623",
@@ -3760,7 +3961,8 @@ const DOSAGEM_SULCO_DATA = [
     "Responsável": "FERNANDA DE SOUZA ",
     "Produto": "Adubo",
     "Dosagem de Produto - Sulcação": "3,215",
-    "Fazenda": NaN
+    "Fazenda": null,
+    "Unnamed: 17": null
   },
   {
     "ID": "3611622",
@@ -3779,7 +3981,8 @@ const DOSAGEM_SULCO_DATA = [
     "Responsável": "FERNANDA DE SOUZA ",
     "Produto": "Adubo",
     "Dosagem de Produto - Sulcação": "3,13",
-    "Fazenda": NaN
+    "Fazenda": null,
+    "Unnamed: 17": null
   },
   {
     "ID": "3611620",
@@ -3798,7 +4001,8 @@ const DOSAGEM_SULCO_DATA = [
     "Responsável": "FERNANDA DE SOUZA ",
     "Produto": "Adubo",
     "Dosagem de Produto - Sulcação": "3,155",
-    "Fazenda": NaN
+    "Fazenda": null,
+    "Unnamed: 17": null
   },
   {
     "ID": "3611794",
@@ -3817,7 +4021,8 @@ const DOSAGEM_SULCO_DATA = [
     "Responsável": "GABRIEL HENRIQUE MARTINS PEREIRA",
     "Produto": "Adubo",
     "Dosagem de Produto - Sulcação": "3,305",
-    "Fazenda": NaN
+    "Fazenda": null,
+    "Unnamed: 17": null
   },
   {
     "ID": "3611793",
@@ -3836,7 +4041,8 @@ const DOSAGEM_SULCO_DATA = [
     "Responsável": "GABRIEL HENRIQUE MARTINS PEREIRA",
     "Produto": "Adubo",
     "Dosagem de Produto - Sulcação": "3,41",
-    "Fazenda": NaN
+    "Fazenda": null,
+    "Unnamed: 17": null
   },
   {
     "ID": "3611792",
@@ -3855,7 +4061,8 @@ const DOSAGEM_SULCO_DATA = [
     "Responsável": "GABRIEL HENRIQUE MARTINS PEREIRA",
     "Produto": "Adubo",
     "Dosagem de Produto - Sulcação": "3,39",
-    "Fazenda": NaN
+    "Fazenda": null,
+    "Unnamed: 17": null
   },
   {
     "ID": "3611791",
@@ -3874,7 +4081,8 @@ const DOSAGEM_SULCO_DATA = [
     "Responsável": "GABRIEL HENRIQUE MARTINS PEREIRA",
     "Produto": "Adubo",
     "Dosagem de Produto - Sulcação": "3,46",
-    "Fazenda": NaN
+    "Fazenda": null,
+    "Unnamed: 17": null
   },
   {
     "ID": "3611184",
@@ -3893,7 +4101,8 @@ const DOSAGEM_SULCO_DATA = [
     "Responsável": "REGINALDO DA SILVA GOMES ",
     "Produto": "Adubo",
     "Dosagem de Produto - Sulcação": "3,33",
-    "Fazenda": NaN
+    "Fazenda": null,
+    "Unnamed: 17": null
   },
   {
     "ID": "3611183",
@@ -3912,7 +4121,8 @@ const DOSAGEM_SULCO_DATA = [
     "Responsável": "REGINALDO DA SILVA GOMES ",
     "Produto": "Adubo",
     "Dosagem de Produto - Sulcação": "3,28",
-    "Fazenda": NaN
+    "Fazenda": null,
+    "Unnamed: 17": null
   },
   {
     "ID": "3611182",
@@ -3931,7 +4141,8 @@ const DOSAGEM_SULCO_DATA = [
     "Responsável": "REGINALDO DA SILVA GOMES ",
     "Produto": "Adubo",
     "Dosagem de Produto - Sulcação": "3,365",
-    "Fazenda": NaN
+    "Fazenda": null,
+    "Unnamed: 17": null
   },
   {
     "ID": "3611181",
@@ -3950,7 +4161,8 @@ const DOSAGEM_SULCO_DATA = [
     "Responsável": "REGINALDO DA SILVA GOMES ",
     "Produto": "Adubo",
     "Dosagem de Produto - Sulcação": "3,545",
-    "Fazenda": NaN
+    "Fazenda": null,
+    "Unnamed: 17": null
   },
   {
     "ID": "3611253",
@@ -3969,7 +4181,8 @@ const DOSAGEM_SULCO_DATA = [
     "Responsável": "MICHELI DE SOUZA SANTOS  ",
     "Produto": "Adubo",
     "Dosagem de Produto - Sulcação": "3,545",
-    "Fazenda": NaN
+    "Fazenda": null,
+    "Unnamed: 17": null
   },
   {
     "ID": "3611252",
@@ -3988,7 +4201,8 @@ const DOSAGEM_SULCO_DATA = [
     "Responsável": "MICHELI DE SOUZA SANTOS  ",
     "Produto": "Adubo",
     "Dosagem de Produto - Sulcação": "3,365",
-    "Fazenda": NaN
+    "Fazenda": null,
+    "Unnamed: 17": null
   },
   {
     "ID": "3611251",
@@ -4007,7 +4221,8 @@ const DOSAGEM_SULCO_DATA = [
     "Responsável": "MICHELI DE SOUZA SANTOS  ",
     "Produto": "Adubo",
     "Dosagem de Produto - Sulcação": "3,28",
-    "Fazenda": NaN
+    "Fazenda": null,
+    "Unnamed: 17": null
   },
   {
     "ID": "3611250",
@@ -4026,7 +4241,8 @@ const DOSAGEM_SULCO_DATA = [
     "Responsável": "MICHELI DE SOUZA SANTOS  ",
     "Produto": "Adubo",
     "Dosagem de Produto - Sulcação": "3,33",
-    "Fazenda": NaN
+    "Fazenda": null,
+    "Unnamed: 17": null
   },
   {
     "ID": "3610832",
@@ -4045,7 +4261,8 @@ const DOSAGEM_SULCO_DATA = [
     "Responsável": "VITOR AMORIM RAMOS ",
     "Produto": "Adubo",
     "Dosagem de Produto - Sulcação": "3,325",
-    "Fazenda": NaN
+    "Fazenda": null,
+    "Unnamed: 17": null
   },
   {
     "ID": "3610831",
@@ -4064,7 +4281,8 @@ const DOSAGEM_SULCO_DATA = [
     "Responsável": "VITOR AMORIM RAMOS ",
     "Produto": "Adubo",
     "Dosagem de Produto - Sulcação": "3,395",
-    "Fazenda": NaN
+    "Fazenda": null,
+    "Unnamed: 17": null
   },
   {
     "ID": "3611090",
@@ -4083,7 +4301,8 @@ const DOSAGEM_SULCO_DATA = [
     "Responsável": "NILDA CLAUDINO [2510716]",
     "Produto": "Adubo",
     "Dosagem de Produto - Sulcação": "3,31",
-    "Fazenda": NaN
+    "Fazenda": null,
+    "Unnamed: 17": null
   },
   {
     "ID": "3611089",
@@ -4102,7 +4321,8 @@ const DOSAGEM_SULCO_DATA = [
     "Responsável": "NILDA CLAUDINO [2510716]",
     "Produto": "Adubo",
     "Dosagem de Produto - Sulcação": "3,39",
-    "Fazenda": NaN
+    "Fazenda": null,
+    "Unnamed: 17": null
   },
   {
     "ID": "3610830",
@@ -4121,7 +4341,8 @@ const DOSAGEM_SULCO_DATA = [
     "Responsável": "VITOR AMORIM RAMOS ",
     "Produto": "Adubo",
     "Dosagem de Produto - Sulcação": "3,445",
-    "Fazenda": NaN
+    "Fazenda": null,
+    "Unnamed: 17": null
   },
   {
     "ID": "3610829",
@@ -4140,7 +4361,8 @@ const DOSAGEM_SULCO_DATA = [
     "Responsável": "VITOR AMORIM RAMOS ",
     "Produto": "Adubo",
     "Dosagem de Produto - Sulcação": "3,4",
-    "Fazenda": NaN
+    "Fazenda": null,
+    "Unnamed: 17": null
   },
   {
     "ID": "3610870",
@@ -4159,7 +4381,8 @@ const DOSAGEM_SULCO_DATA = [
     "Responsável": "EDILIANA CARDOSO DA COSTA",
     "Produto": "Adubo",
     "Dosagem de Produto - Sulcação": "3,54",
-    "Fazenda": NaN
+    "Fazenda": null,
+    "Unnamed: 17": null
   },
   {
     "ID": "3610869",
@@ -4178,7 +4401,8 @@ const DOSAGEM_SULCO_DATA = [
     "Responsável": "EDILIANA CARDOSO DA COSTA",
     "Produto": "Adubo",
     "Dosagem de Produto - Sulcação": "3,545",
-    "Fazenda": NaN
+    "Fazenda": null,
+    "Unnamed: 17": null
   },
   {
     "ID": "3607606",
@@ -4197,7 +4421,8 @@ const DOSAGEM_SULCO_DATA = [
     "Responsável": "VITOR AMORIM RAMOS ",
     "Produto": "Adubo",
     "Dosagem de Produto - Sulcação": "3,31",
-    "Fazenda": NaN
+    "Fazenda": null,
+    "Unnamed: 17": null
   },
   {
     "ID": "3607605",
@@ -4216,7 +4441,8 @@ const DOSAGEM_SULCO_DATA = [
     "Responsável": "VITOR AMORIM RAMOS ",
     "Produto": "Adubo",
     "Dosagem de Produto - Sulcação": "3,38",
-    "Fazenda": NaN
+    "Fazenda": null,
+    "Unnamed: 17": null
   },
   {
     "ID": "3607604",
@@ -4235,7 +4461,8 @@ const DOSAGEM_SULCO_DATA = [
     "Responsável": "VITOR AMORIM RAMOS ",
     "Produto": "Adubo",
     "Dosagem de Produto - Sulcação": "3,35",
-    "Fazenda": NaN
+    "Fazenda": null,
+    "Unnamed: 17": null
   },
   {
     "ID": "3607603",
@@ -4254,7 +4481,8 @@ const DOSAGEM_SULCO_DATA = [
     "Responsável": "VITOR AMORIM RAMOS ",
     "Produto": "Adubo",
     "Dosagem de Produto - Sulcação": "3,475",
-    "Fazenda": NaN
+    "Fazenda": null,
+    "Unnamed: 17": null
   },
   {
     "ID": "3608252",
@@ -4273,7 +4501,8 @@ const DOSAGEM_SULCO_DATA = [
     "Responsável": "NILDA CLAUDINO [2510716]",
     "Produto": "Adubo",
     "Dosagem de Produto - Sulcação": "3,345",
-    "Fazenda": NaN
+    "Fazenda": null,
+    "Unnamed: 17": null
   },
   {
     "ID": "3608251",
@@ -4292,7 +4521,8 @@ const DOSAGEM_SULCO_DATA = [
     "Responsável": "NILDA CLAUDINO [2510716]",
     "Produto": "Adubo",
     "Dosagem de Produto - Sulcação": "3,49",
-    "Fazenda": NaN
+    "Fazenda": null,
+    "Unnamed: 17": null
   },
   {
     "ID": "3607873",
@@ -4311,7 +4541,8 @@ const DOSAGEM_SULCO_DATA = [
     "Responsável": "MICHELI DE SOUZA SANTOS  ",
     "Produto": "Adubo",
     "Dosagem de Produto - Sulcação": "3,045",
-    "Fazenda": NaN
+    "Fazenda": null,
+    "Unnamed: 17": null
   },
   {
     "ID": "3607872",
@@ -4330,7 +4561,8 @@ const DOSAGEM_SULCO_DATA = [
     "Responsável": "MICHELI DE SOUZA SANTOS  ",
     "Produto": "Adubo",
     "Dosagem de Produto - Sulcação": "3,065",
-    "Fazenda": NaN
+    "Fazenda": null,
+    "Unnamed: 17": null
   },
   {
     "ID": "3607420",
@@ -4349,7 +4581,8 @@ const DOSAGEM_SULCO_DATA = [
     "Responsável": "FERNANDA DE SOUZA ",
     "Produto": "Adubo",
     "Dosagem de Produto - Sulcação": "3,425",
-    "Fazenda": NaN
+    "Fazenda": null,
+    "Unnamed: 17": null
   },
   {
     "ID": "3607419",
@@ -4368,7 +4601,8 @@ const DOSAGEM_SULCO_DATA = [
     "Responsável": "FERNANDA DE SOUZA ",
     "Produto": "Adubo",
     "Dosagem de Produto - Sulcação": "3,465",
-    "Fazenda": NaN
+    "Fazenda": null,
+    "Unnamed: 17": null
   },
   {
     "ID": "3607869",
@@ -4387,7 +4621,8 @@ const DOSAGEM_SULCO_DATA = [
     "Responsável": "MICHELI DE SOUZA SANTOS  ",
     "Produto": "Adubo",
     "Dosagem de Produto - Sulcação": "3,15",
-    "Fazenda": NaN
+    "Fazenda": null,
+    "Unnamed: 17": null
   },
   {
     "ID": "3607868",
@@ -4406,7 +4641,8 @@ const DOSAGEM_SULCO_DATA = [
     "Responsável": "MICHELI DE SOUZA SANTOS  ",
     "Produto": "Adubo",
     "Dosagem de Produto - Sulcação": "3,18",
-    "Fazenda": NaN
+    "Fazenda": null,
+    "Unnamed: 17": null
   },
   {
     "ID": "3605446",
@@ -4425,7 +4661,8 @@ const DOSAGEM_SULCO_DATA = [
     "Responsável": " Antonio ",
     "Produto": "Adubo",
     "Dosagem de Produto - Sulcação": "3,24",
-    "Fazenda": NaN
+    "Fazenda": null,
+    "Unnamed: 17": null
   },
   {
     "ID": "3605445",
@@ -4444,7 +4681,8 @@ const DOSAGEM_SULCO_DATA = [
     "Responsável": " Antonio ",
     "Produto": "Adubo",
     "Dosagem de Produto - Sulcação": "4,02",
-    "Fazenda": NaN
+    "Fazenda": null,
+    "Unnamed: 17": null
   },
   {
     "ID": "3605443",
@@ -4463,7 +4701,8 @@ const DOSAGEM_SULCO_DATA = [
     "Responsável": " Antonio ",
     "Produto": "Adubo",
     "Dosagem de Produto - Sulcação": "3,01",
-    "Fazenda": NaN
+    "Fazenda": null,
+    "Unnamed: 17": null
   },
   {
     "ID": "3605444",
@@ -4482,7 +4721,8 @@ const DOSAGEM_SULCO_DATA = [
     "Responsável": " Antonio ",
     "Produto": "Adubo",
     "Dosagem de Produto - Sulcação": "3,975",
-    "Fazenda": NaN
+    "Fazenda": null,
+    "Unnamed: 17": null
   },
   {
     "ID": "3604578",
@@ -4501,7 +4741,8 @@ const DOSAGEM_SULCO_DATA = [
     "Responsável": "GLEISON FELIPE BORGES DE MATOS",
     "Produto": "Adubo",
     "Dosagem de Produto - Sulcação": "3,445",
-    "Fazenda": NaN
+    "Fazenda": null,
+    "Unnamed: 17": null
   },
   {
     "ID": "3604209",
@@ -4520,7 +4761,8 @@ const DOSAGEM_SULCO_DATA = [
     "Responsável": "MICHELI DE SOUZA SANTOS  ",
     "Produto": "Adubo",
     "Dosagem de Produto - Sulcação": "2,92",
-    "Fazenda": NaN
+    "Fazenda": null,
+    "Unnamed: 17": null
   },
   {
     "ID": "3604208",
@@ -4539,7 +4781,8 @@ const DOSAGEM_SULCO_DATA = [
     "Responsável": "MICHELI DE SOUZA SANTOS  ",
     "Produto": "Adubo",
     "Dosagem de Produto - Sulcação": "2,995",
-    "Fazenda": NaN
+    "Fazenda": null,
+    "Unnamed: 17": null
   },
   {
     "ID": "3604207",
@@ -4558,7 +4801,8 @@ const DOSAGEM_SULCO_DATA = [
     "Responsável": "MICHELI DE SOUZA SANTOS  ",
     "Produto": "Adubo",
     "Dosagem de Produto - Sulcação": "3,08",
-    "Fazenda": NaN
+    "Fazenda": null,
+    "Unnamed: 17": null
   },
   {
     "ID": "3604206",
@@ -4577,7 +4821,8 @@ const DOSAGEM_SULCO_DATA = [
     "Responsável": "MICHELI DE SOUZA SANTOS  ",
     "Produto": "Adubo",
     "Dosagem de Produto - Sulcação": "2,91",
-    "Fazenda": NaN
+    "Fazenda": null,
+    "Unnamed: 17": null
   },
   {
     "ID": "3604052",
@@ -4596,7 +4841,8 @@ const DOSAGEM_SULCO_DATA = [
     "Responsável": "VITOR AMORIM RAMOS ",
     "Produto": "Adubo",
     "Dosagem de Produto - Sulcação": "3,475",
-    "Fazenda": NaN
+    "Fazenda": null,
+    "Unnamed: 17": null
   },
   {
     "ID": "3604051",
@@ -4615,7 +4861,8 @@ const DOSAGEM_SULCO_DATA = [
     "Responsável": "VITOR AMORIM RAMOS ",
     "Produto": "Adubo",
     "Dosagem de Produto - Sulcação": "3,425",
-    "Fazenda": NaN
+    "Fazenda": null,
+    "Unnamed: 17": null
   },
   {
     "ID": "3604050",
@@ -4634,7 +4881,8 @@ const DOSAGEM_SULCO_DATA = [
     "Responsável": "VITOR AMORIM RAMOS ",
     "Produto": "Adubo",
     "Dosagem de Produto - Sulcação": "3,325",
-    "Fazenda": NaN
+    "Fazenda": null,
+    "Unnamed: 17": null
   },
   {
     "ID": "3604049",
@@ -4653,7 +4901,8 @@ const DOSAGEM_SULCO_DATA = [
     "Responsável": "VITOR AMORIM RAMOS ",
     "Produto": "Adubo",
     "Dosagem de Produto - Sulcação": "3,35",
-    "Fazenda": NaN
+    "Fazenda": null,
+    "Unnamed: 17": null
   },
   {
     "ID": "3603917",
@@ -4672,7 +4921,8 @@ const DOSAGEM_SULCO_DATA = [
     "Responsável": "NILDA CLAUDINO [2510716]",
     "Produto": "Adubo",
     "Dosagem de Produto - Sulcação": "3,365",
-    "Fazenda": NaN
+    "Fazenda": null,
+    "Unnamed: 17": null
   },
   {
     "ID": "3604981",
@@ -4691,7 +4941,8 @@ const DOSAGEM_SULCO_DATA = [
     "Responsável": "FERNANDA DE SOUZA ",
     "Produto": "Adubo",
     "Dosagem de Produto - Sulcação": "3,425",
-    "Fazenda": NaN
+    "Fazenda": null,
+    "Unnamed: 17": null
   },
   {
     "ID": "3604982",
@@ -4710,7 +4961,8 @@ const DOSAGEM_SULCO_DATA = [
     "Responsável": "FERNANDA DE SOUZA ",
     "Produto": "Adubo",
     "Dosagem de Produto - Sulcação": "3,42",
-    "Fazenda": NaN
+    "Fazenda": null,
+    "Unnamed: 17": null
   },
   {
     "ID": "3603916",
@@ -4729,7 +4981,8 @@ const DOSAGEM_SULCO_DATA = [
     "Responsável": "NILDA CLAUDINO [2510716]",
     "Produto": "Adubo",
     "Dosagem de Produto - Sulcação": "3,435",
-    "Fazenda": NaN
+    "Fazenda": null,
+    "Unnamed: 17": null
   },
   {
     "ID": "3602503",
@@ -4748,7 +5001,8 @@ const DOSAGEM_SULCO_DATA = [
     "Responsável": "Leonardo Ribeiro Teixeira da Silva",
     "Produto": "Adubo",
     "Dosagem de Produto - Sulcação": "3,46",
-    "Fazenda": NaN
+    "Fazenda": null,
+    "Unnamed: 17": null
   },
   {
     "ID": "3602502",
@@ -4767,7 +5021,8 @@ const DOSAGEM_SULCO_DATA = [
     "Responsável": "Leonardo Ribeiro Teixeira da Silva",
     "Produto": "Adubo",
     "Dosagem de Produto - Sulcação": "3,495",
-    "Fazenda": NaN
+    "Fazenda": null,
+    "Unnamed: 17": null
   },
   {
     "ID": "3602501",
@@ -4786,7 +5041,8 @@ const DOSAGEM_SULCO_DATA = [
     "Responsável": "Leonardo Ribeiro Teixeira da Silva",
     "Produto": "Adubo",
     "Dosagem de Produto - Sulcação": "3,46",
-    "Fazenda": NaN
+    "Fazenda": null,
+    "Unnamed: 17": null
   },
   {
     "ID": "3602500",
@@ -4805,7 +5061,8 @@ const DOSAGEM_SULCO_DATA = [
     "Responsável": "Leonardo Ribeiro Teixeira da Silva",
     "Produto": "Adubo",
     "Dosagem de Produto - Sulcação": "3,465",
-    "Fazenda": NaN
+    "Fazenda": null,
+    "Unnamed: 17": null
   },
   {
     "ID": "3602342",
@@ -4824,7 +5081,8 @@ const DOSAGEM_SULCO_DATA = [
     "Responsável": "FERNANDA DE SOUZA ",
     "Produto": "Adubo",
     "Dosagem de Produto - Sulcação": "3,235",
-    "Fazenda": NaN
+    "Fazenda": null,
+    "Unnamed: 17": null
   },
   {
     "ID": "3602340",
@@ -4843,7 +5101,8 @@ const DOSAGEM_SULCO_DATA = [
     "Responsável": "FERNANDA DE SOUZA ",
     "Produto": "Adubo",
     "Dosagem de Produto - Sulcação": "3,11",
-    "Fazenda": NaN
+    "Fazenda": null,
+    "Unnamed: 17": null
   },
   {
     "ID": "3601431",
@@ -4862,7 +5121,8 @@ const DOSAGEM_SULCO_DATA = [
     "Responsável": "VITOR AMORIM RAMOS ",
     "Produto": "Adubo",
     "Dosagem de Produto - Sulcação": "3,33",
-    "Fazenda": NaN
+    "Fazenda": null,
+    "Unnamed: 17": null
   },
   {
     "ID": "3601430",
@@ -4881,7 +5141,8 @@ const DOSAGEM_SULCO_DATA = [
     "Responsável": "VITOR AMORIM RAMOS ",
     "Produto": "Adubo",
     "Dosagem de Produto - Sulcação": "3,415",
-    "Fazenda": NaN
+    "Fazenda": null,
+    "Unnamed: 17": null
   },
   {
     "ID": "3601429",
@@ -4900,7 +5161,8 @@ const DOSAGEM_SULCO_DATA = [
     "Responsável": "VITOR AMORIM RAMOS ",
     "Produto": "Adubo",
     "Dosagem de Produto - Sulcação": "3,49",
-    "Fazenda": NaN
+    "Fazenda": null,
+    "Unnamed: 17": null
   },
   {
     "ID": "3601428",
@@ -4919,7 +5181,8 @@ const DOSAGEM_SULCO_DATA = [
     "Responsável": "VITOR AMORIM RAMOS ",
     "Produto": "Adubo",
     "Dosagem de Produto - Sulcação": "3,475",
-    "Fazenda": NaN
+    "Fazenda": null,
+    "Unnamed: 17": null
   },
   {
     "ID": "3602301",
@@ -4938,7 +5201,8 @@ const DOSAGEM_SULCO_DATA = [
     "Responsável": "JOYCE RODRIGUES REBOUCAS [22004]",
     "Produto": "Adubo",
     "Dosagem de Produto - Sulcação": "3,1",
-    "Fazenda": NaN
+    "Fazenda": null,
+    "Unnamed: 17": null
   },
   {
     "ID": "3602300",
@@ -4957,7 +5221,8 @@ const DOSAGEM_SULCO_DATA = [
     "Responsável": "JOYCE RODRIGUES REBOUCAS [22004]",
     "Produto": "Adubo",
     "Dosagem de Produto - Sulcação": "3,11",
-    "Fazenda": NaN
+    "Fazenda": null,
+    "Unnamed: 17": null
   },
   {
     "ID": "3601541",
@@ -4976,7 +5241,8 @@ const DOSAGEM_SULCO_DATA = [
     "Responsável": " Antonio ",
     "Produto": "Adubo",
     "Dosagem de Produto - Sulcação": "3,48",
-    "Fazenda": NaN
+    "Fazenda": null,
+    "Unnamed: 17": null
   },
   {
     "ID": "3601540",
@@ -4995,7 +5261,8 @@ const DOSAGEM_SULCO_DATA = [
     "Responsável": " Antonio ",
     "Produto": "Adubo",
     "Dosagem de Produto - Sulcação": "3,365",
-    "Fazenda": NaN
+    "Fazenda": null,
+    "Unnamed: 17": null
   },
   {
     "ID": "3601539",
@@ -5014,7 +5281,8 @@ const DOSAGEM_SULCO_DATA = [
     "Responsável": " Antonio ",
     "Produto": "Adubo",
     "Dosagem de Produto - Sulcação": "3,375",
-    "Fazenda": NaN
+    "Fazenda": null,
+    "Unnamed: 17": null
   },
   {
     "ID": "3601538",
@@ -5033,7 +5301,8 @@ const DOSAGEM_SULCO_DATA = [
     "Responsável": " Antonio ",
     "Produto": "Adubo",
     "Dosagem de Produto - Sulcação": "3,415",
-    "Fazenda": NaN
+    "Fazenda": null,
+    "Unnamed: 17": null
   },
   {
     "ID": "3601465",
@@ -5052,7 +5321,8 @@ const DOSAGEM_SULCO_DATA = [
     "Responsável": "NILDA CLAUDINO [2510716]",
     "Produto": "Adubo",
     "Dosagem de Produto - Sulcação": "3,435",
-    "Fazenda": NaN
+    "Fazenda": null,
+    "Unnamed: 17": null
   },
   {
     "ID": "3601464",
@@ -5071,7 +5341,8 @@ const DOSAGEM_SULCO_DATA = [
     "Responsável": "NILDA CLAUDINO [2510716]",
     "Produto": "Adubo",
     "Dosagem de Produto - Sulcação": "3,39",
-    "Fazenda": NaN
+    "Fazenda": null,
+    "Unnamed: 17": null
   },
   {
     "ID": "3602294",
@@ -5090,7 +5361,8 @@ const DOSAGEM_SULCO_DATA = [
     "Responsável": "FERNANDA DE SOUZA ",
     "Produto": "Adubo",
     "Dosagem de Produto - Sulcação": "3,35",
-    "Fazenda": NaN
+    "Fazenda": null,
+    "Unnamed: 17": null
   },
   {
     "ID": "3602293",
@@ -5109,7 +5381,8 @@ const DOSAGEM_SULCO_DATA = [
     "Responsável": "FERNANDA DE SOUZA ",
     "Produto": "Adubo",
     "Dosagem de Produto - Sulcação": "3,395",
-    "Fazenda": NaN
+    "Fazenda": null,
+    "Unnamed: 17": null
   },
   {
     "ID": "3600537",
@@ -5128,7 +5401,8 @@ const DOSAGEM_SULCO_DATA = [
     "Responsável": "Leonardo Ribeiro Teixeira da Silva",
     "Produto": "Adubo",
     "Dosagem de Produto - Sulcação": "3,52",
-    "Fazenda": NaN
+    "Fazenda": null,
+    "Unnamed: 17": null
   },
   {
     "ID": "3600536",
@@ -5147,7 +5421,8 @@ const DOSAGEM_SULCO_DATA = [
     "Responsável": "Leonardo Ribeiro Teixeira da Silva",
     "Produto": "Adubo",
     "Dosagem de Produto - Sulcação": "3,59",
-    "Fazenda": NaN
+    "Fazenda": null,
+    "Unnamed: 17": null
   },
   {
     "ID": "3600531",
@@ -5166,7 +5441,8 @@ const DOSAGEM_SULCO_DATA = [
     "Responsável": "Leonardo Ribeiro Teixeira da Silva",
     "Produto": "Adubo",
     "Dosagem de Produto - Sulcação": "3,455",
-    "Fazenda": NaN
+    "Fazenda": null,
+    "Unnamed: 17": null
   },
   {
     "ID": "3600530",
@@ -5185,7 +5461,8 @@ const DOSAGEM_SULCO_DATA = [
     "Responsável": "Leonardo Ribeiro Teixeira da Silva",
     "Produto": "Adubo",
     "Dosagem de Produto - Sulcação": "3,54",
-    "Fazenda": NaN
+    "Fazenda": null,
+    "Unnamed: 17": null
   },
   {
     "ID": "3599510",
@@ -5204,7 +5481,8 @@ const DOSAGEM_SULCO_DATA = [
     "Responsável": "MICHELI DE SOUZA SANTOS  ",
     "Produto": "Adubo",
     "Dosagem de Produto - Sulcação": "3,91",
-    "Fazenda": NaN
+    "Fazenda": null,
+    "Unnamed: 17": null
   },
   {
     "ID": "3599509",
@@ -5223,7 +5501,8 @@ const DOSAGEM_SULCO_DATA = [
     "Responsável": "MICHELI DE SOUZA SANTOS  ",
     "Produto": "Adubo",
     "Dosagem de Produto - Sulcação": "4,065",
-    "Fazenda": NaN
+    "Fazenda": null,
+    "Unnamed: 17": null
   },
   {
     "ID": "3599508",
@@ -5242,7 +5521,8 @@ const DOSAGEM_SULCO_DATA = [
     "Responsável": "MICHELI DE SOUZA SANTOS  ",
     "Produto": "Adubo",
     "Dosagem de Produto - Sulcação": "4,25",
-    "Fazenda": NaN
+    "Fazenda": null,
+    "Unnamed: 17": null
   },
   {
     "ID": "3599507",
@@ -5261,7 +5541,8 @@ const DOSAGEM_SULCO_DATA = [
     "Responsável": "MICHELI DE SOUZA SANTOS  ",
     "Produto": "Adubo",
     "Dosagem de Produto - Sulcação": "4,25",
-    "Fazenda": NaN
+    "Fazenda": null,
+    "Unnamed: 17": null
   },
   {
     "ID": "3598758",
@@ -5280,7 +5561,8 @@ const DOSAGEM_SULCO_DATA = [
     "Responsável": "VITOR AMORIM RAMOS ",
     "Produto": "Adubo",
     "Dosagem de Produto - Sulcação": "3,345",
-    "Fazenda": NaN
+    "Fazenda": null,
+    "Unnamed: 17": null
   },
   {
     "ID": "3598757",
@@ -5299,7 +5581,8 @@ const DOSAGEM_SULCO_DATA = [
     "Responsável": "VITOR AMORIM RAMOS ",
     "Produto": "Adubo",
     "Dosagem de Produto - Sulcação": "3,465",
-    "Fazenda": NaN
+    "Fazenda": null,
+    "Unnamed: 17": null
   },
   {
     "ID": "3599249",
@@ -5318,7 +5601,8 @@ const DOSAGEM_SULCO_DATA = [
     "Responsável": "GABRIEL HENRIQUE MARTINS PEREIRA",
     "Produto": "Adubo",
     "Dosagem de Produto - Sulcação": "3,495",
-    "Fazenda": NaN
+    "Fazenda": null,
+    "Unnamed: 17": null
   },
   {
     "ID": "3599031",
@@ -5337,7 +5621,8 @@ const DOSAGEM_SULCO_DATA = [
     "Responsável": "GABRIEL HENRIQUE MARTINS PEREIRA",
     "Produto": "Adubo",
     "Dosagem de Produto - Sulcação": "3,325",
-    "Fazenda": NaN
+    "Fazenda": null,
+    "Unnamed: 17": null
   },
   {
     "ID": "3599016",
@@ -5356,7 +5641,8 @@ const DOSAGEM_SULCO_DATA = [
     "Responsável": "GABRIEL HENRIQUE MARTINS PEREIRA",
     "Produto": "Adubo",
     "Dosagem de Produto - Sulcação": "3,485",
-    "Fazenda": NaN
+    "Fazenda": null,
+    "Unnamed: 17": null
   },
   {
     "ID": "3599015",
@@ -5375,7 +5661,8 @@ const DOSAGEM_SULCO_DATA = [
     "Responsável": "GABRIEL HENRIQUE MARTINS PEREIRA",
     "Produto": "Adubo",
     "Dosagem de Produto - Sulcação": "3,465",
-    "Fazenda": NaN
+    "Fazenda": null,
+    "Unnamed: 17": null
   },
   {
     "ID": "3598754",
@@ -5394,7 +5681,8 @@ const DOSAGEM_SULCO_DATA = [
     "Responsável": "VITOR AMORIM RAMOS ",
     "Produto": "Adubo",
     "Dosagem de Produto - Sulcação": "3,485",
-    "Fazenda": NaN
+    "Fazenda": null,
+    "Unnamed: 17": null
   },
   {
     "ID": "3598753",
@@ -5413,7 +5701,8 @@ const DOSAGEM_SULCO_DATA = [
     "Responsável": "VITOR AMORIM RAMOS ",
     "Produto": "Adubo",
     "Dosagem de Produto - Sulcação": "3,405",
-    "Fazenda": NaN
+    "Fazenda": null,
+    "Unnamed: 17": null
   },
   {
     "ID": "3598203",
@@ -5432,7 +5721,8 @@ const DOSAGEM_SULCO_DATA = [
     "Responsável": "NILDA CLAUDINO [2510716]",
     "Produto": "Adubo",
     "Dosagem de Produto - Sulcação": "3,405",
-    "Fazenda": NaN
+    "Fazenda": null,
+    "Unnamed: 17": null
   },
   {
     "ID": "3598202",
@@ -5451,7 +5741,8 @@ const DOSAGEM_SULCO_DATA = [
     "Responsável": "NILDA CLAUDINO [2510716]",
     "Produto": "Adubo",
     "Dosagem de Produto - Sulcação": "3,475",
-    "Fazenda": NaN
+    "Fazenda": null,
+    "Unnamed: 17": null
   },
   {
     "ID": "3599781",
@@ -5470,7 +5761,8 @@ const DOSAGEM_SULCO_DATA = [
     "Responsável": "FERNANDA DE SOUZA ",
     "Produto": "Adubo",
     "Dosagem de Produto - Sulcação": "3,41",
-    "Fazenda": NaN
+    "Fazenda": null,
+    "Unnamed: 17": null
   },
   {
     "ID": "3599779",
@@ -5489,7 +5781,8 @@ const DOSAGEM_SULCO_DATA = [
     "Responsável": "FERNANDA DE SOUZA ",
     "Produto": "Adubo",
     "Dosagem de Produto - Sulcação": "3,495",
-    "Fazenda": NaN
+    "Fazenda": null,
+    "Unnamed: 17": null
   },
   {
     "ID": "3596360",
@@ -5508,7 +5801,8 @@ const DOSAGEM_SULCO_DATA = [
     "Responsável": "JOYCE RODRIGUES REBOUCAS [22004]",
     "Produto": "Adubo",
     "Dosagem de Produto - Sulcação": "3,41",
-    "Fazenda": NaN
+    "Fazenda": null,
+    "Unnamed: 17": null
   },
   {
     "ID": "3596359",
@@ -5527,7 +5821,8 @@ const DOSAGEM_SULCO_DATA = [
     "Responsável": "JOYCE RODRIGUES REBOUCAS [22004]",
     "Produto": "Adubo",
     "Dosagem de Produto - Sulcação": "3,465",
-    "Fazenda": NaN
+    "Fazenda": null,
+    "Unnamed: 17": null
   },
   {
     "ID": "3596221",
@@ -5546,7 +5841,8 @@ const DOSAGEM_SULCO_DATA = [
     "Responsável": "NILDA CLAUDINO [2510716]",
     "Produto": "Adubo",
     "Dosagem de Produto - Sulcação": "3,375",
-    "Fazenda": NaN
+    "Fazenda": null,
+    "Unnamed: 17": null
   },
   {
     "ID": "3596220",
@@ -5565,7 +5861,8 @@ const DOSAGEM_SULCO_DATA = [
     "Responsável": "NILDA CLAUDINO [2510716]",
     "Produto": "Adubo",
     "Dosagem de Produto - Sulcação": "3,375",
-    "Fazenda": NaN
+    "Fazenda": null,
+    "Unnamed: 17": null
   },
   {
     "ID": "3595645",
@@ -5584,7 +5881,8 @@ const DOSAGEM_SULCO_DATA = [
     "Responsável": "VITOR AMORIM RAMOS ",
     "Produto": "Adubo",
     "Dosagem de Produto - Sulcação": "3,48",
-    "Fazenda": NaN
+    "Fazenda": null,
+    "Unnamed: 17": null
   },
   {
     "ID": "3595644",
@@ -5603,7 +5901,8 @@ const DOSAGEM_SULCO_DATA = [
     "Responsável": "VITOR AMORIM RAMOS ",
     "Produto": "Adubo",
     "Dosagem de Produto - Sulcação": "3,4",
-    "Fazenda": NaN
+    "Fazenda": null,
+    "Unnamed: 17": null
   },
   {
     "ID": "3595643",
@@ -5622,7 +5921,8 @@ const DOSAGEM_SULCO_DATA = [
     "Responsável": "VITOR AMORIM RAMOS ",
     "Produto": "Adubo",
     "Dosagem de Produto - Sulcação": "3,435",
-    "Fazenda": NaN
+    "Fazenda": null,
+    "Unnamed: 17": null
   },
   {
     "ID": "3595642",
@@ -5641,7 +5941,8 @@ const DOSAGEM_SULCO_DATA = [
     "Responsável": "VITOR AMORIM RAMOS ",
     "Produto": "Adubo",
     "Dosagem de Produto - Sulcação": "3,465",
-    "Fazenda": NaN
+    "Fazenda": null,
+    "Unnamed: 17": null
   },
   {
     "ID": "3595897",
@@ -5660,7 +5961,8 @@ const DOSAGEM_SULCO_DATA = [
     "Responsável": "GABRIEL HENRIQUE MARTINS PEREIRA",
     "Produto": "Adubo",
     "Dosagem de Produto - Sulcação": "3,825",
-    "Fazenda": NaN
+    "Fazenda": null,
+    "Unnamed: 17": null
   },
   {
     "ID": "3595896",
@@ -5679,7 +5981,8 @@ const DOSAGEM_SULCO_DATA = [
     "Responsável": "GABRIEL HENRIQUE MARTINS PEREIRA",
     "Produto": "Adubo",
     "Dosagem de Produto - Sulcação": "3,875",
-    "Fazenda": NaN
+    "Fazenda": null,
+    "Unnamed: 17": null
   },
   {
     "ID": "3595895",
@@ -5698,7 +6001,8 @@ const DOSAGEM_SULCO_DATA = [
     "Responsável": "GABRIEL HENRIQUE MARTINS PEREIRA",
     "Produto": "Adubo",
     "Dosagem de Produto - Sulcação": "3,81",
-    "Fazenda": NaN
+    "Fazenda": null,
+    "Unnamed: 17": null
   },
   {
     "ID": "3595894",
@@ -5717,7 +6021,8 @@ const DOSAGEM_SULCO_DATA = [
     "Responsável": "GABRIEL HENRIQUE MARTINS PEREIRA",
     "Produto": "Adubo",
     "Dosagem de Produto - Sulcação": "3,725",
-    "Fazenda": NaN
+    "Fazenda": null,
+    "Unnamed: 17": null
   },
   {
     "ID": "3595684",
@@ -5736,7 +6041,8 @@ const DOSAGEM_SULCO_DATA = [
     "Responsável": " Antonio ",
     "Produto": "Adubo",
     "Dosagem de Produto - Sulcação": "3,335",
-    "Fazenda": NaN
+    "Fazenda": null,
+    "Unnamed: 17": null
   },
   {
     "ID": "3595683",
@@ -5755,7 +6061,8 @@ const DOSAGEM_SULCO_DATA = [
     "Responsável": " Antonio ",
     "Produto": "Adubo",
     "Dosagem de Produto - Sulcação": "3,295",
-    "Fazenda": NaN
+    "Fazenda": null,
+    "Unnamed: 17": null
   },
   {
     "ID": "3595682",
@@ -5774,7 +6081,8 @@ const DOSAGEM_SULCO_DATA = [
     "Responsável": " Antonio ",
     "Produto": "Adubo",
     "Dosagem de Produto - Sulcação": "3,265",
-    "Fazenda": NaN
+    "Fazenda": null,
+    "Unnamed: 17": null
   },
   {
     "ID": "3595681",
@@ -5793,7 +6101,8 @@ const DOSAGEM_SULCO_DATA = [
     "Responsável": " Antonio ",
     "Produto": "Adubo",
     "Dosagem de Produto - Sulcação": "3,34",
-    "Fazenda": NaN
+    "Fazenda": null,
+    "Unnamed: 17": null
   },
   {
     "ID": "3595214",
@@ -5812,7 +6121,8 @@ const DOSAGEM_SULCO_DATA = [
     "Responsável": "MARCELO DE OLIVEIRA JUNIOR",
     "Produto": "Adubo",
     "Dosagem de Produto - Sulcação": "3,485",
-    "Fazenda": NaN
+    "Fazenda": null,
+    "Unnamed: 17": null
   },
   {
     "ID": "3595212",
@@ -5831,7 +6141,8 @@ const DOSAGEM_SULCO_DATA = [
     "Responsável": "MARCELO DE OLIVEIRA JUNIOR",
     "Produto": "Adubo",
     "Dosagem de Produto - Sulcação": "3,375",
-    "Fazenda": NaN
+    "Fazenda": null,
+    "Unnamed: 17": null
   },
   {
     "ID": "3593927",
@@ -5850,7 +6161,8 @@ const DOSAGEM_SULCO_DATA = [
     "Responsável": "REGINALDO DA SILVA GOMES ",
     "Produto": "Adubo",
     "Dosagem de Produto - Sulcação": "3,345",
-    "Fazenda": NaN
+    "Fazenda": null,
+    "Unnamed: 17": null
   },
   {
     "ID": "3593926",
@@ -5869,7 +6181,8 @@ const DOSAGEM_SULCO_DATA = [
     "Responsável": "REGINALDO DA SILVA GOMES ",
     "Produto": "Adubo",
     "Dosagem de Produto - Sulcação": "3,26",
-    "Fazenda": NaN
+    "Fazenda": null,
+    "Unnamed: 17": null
   },
   {
     "ID": "3593925",
@@ -5888,7 +6201,8 @@ const DOSAGEM_SULCO_DATA = [
     "Responsável": "REGINALDO DA SILVA GOMES ",
     "Produto": "Adubo",
     "Dosagem de Produto - Sulcação": "3,35",
-    "Fazenda": NaN
+    "Fazenda": null,
+    "Unnamed: 17": null
   },
   {
     "ID": "3593924",
@@ -5907,7 +6221,8 @@ const DOSAGEM_SULCO_DATA = [
     "Responsável": "REGINALDO DA SILVA GOMES ",
     "Produto": "Adubo",
     "Dosagem de Produto - Sulcação": "3,255",
-    "Fazenda": NaN
+    "Fazenda": null,
+    "Unnamed: 17": null
   },
   {
     "ID": "3595188",
@@ -5926,7 +6241,8 @@ const DOSAGEM_SULCO_DATA = [
     "Responsável": "MARCELO DE OLIVEIRA JUNIOR",
     "Produto": "Adubo",
     "Dosagem de Produto - Sulcação": "3,38",
-    "Fazenda": NaN
+    "Fazenda": null,
+    "Unnamed: 17": null
   },
   {
     "ID": "3595187",
@@ -5945,7 +6261,8 @@ const DOSAGEM_SULCO_DATA = [
     "Responsável": "MARCELO DE OLIVEIRA JUNIOR",
     "Produto": "Adubo",
     "Dosagem de Produto - Sulcação": "3,475",
-    "Fazenda": NaN
+    "Fazenda": null,
+    "Unnamed: 17": null
   },
   {
     "ID": "3594032",
@@ -5964,7 +6281,8 @@ const DOSAGEM_SULCO_DATA = [
     "Responsável": "Leonardo Ribeiro Teixeira da Silva",
     "Produto": "Adubo",
     "Dosagem de Produto - Sulcação": "3,37",
-    "Fazenda": NaN
+    "Fazenda": null,
+    "Unnamed: 17": null
   },
   {
     "ID": "3594030",
@@ -5983,7 +6301,8 @@ const DOSAGEM_SULCO_DATA = [
     "Responsável": "Leonardo Ribeiro Teixeira da Silva",
     "Produto": "Adubo",
     "Dosagem de Produto - Sulcação": "3,33",
-    "Fazenda": NaN
+    "Fazenda": null,
+    "Unnamed: 17": null
   },
   {
     "ID": "3594029",
@@ -6002,7 +6321,8 @@ const DOSAGEM_SULCO_DATA = [
     "Responsável": "Leonardo Ribeiro Teixeira da Silva",
     "Produto": "Adubo",
     "Dosagem de Produto - Sulcação": "3,34",
-    "Fazenda": NaN
+    "Fazenda": null,
+    "Unnamed: 17": null
   },
   {
     "ID": "3594020",
@@ -6021,7 +6341,8 @@ const DOSAGEM_SULCO_DATA = [
     "Responsável": "Leonardo Ribeiro Teixeira da Silva",
     "Produto": "Adubo",
     "Dosagem de Produto - Sulcação": "3,34",
-    "Fazenda": NaN
+    "Fazenda": null,
+    "Unnamed: 17": null
   },
   {
     "ID": "3592771",
@@ -6040,7 +6361,8 @@ const DOSAGEM_SULCO_DATA = [
     "Responsável": " Antonio ",
     "Produto": "Adubo",
     "Dosagem de Produto - Sulcação": "3,24",
-    "Fazenda": NaN
+    "Fazenda": null,
+    "Unnamed: 17": null
   },
   {
     "ID": "3592770",
@@ -6059,7 +6381,8 @@ const DOSAGEM_SULCO_DATA = [
     "Responsável": " Antonio ",
     "Produto": "Adubo",
     "Dosagem de Produto - Sulcação": "3,265",
-    "Fazenda": NaN
+    "Fazenda": null,
+    "Unnamed: 17": null
   },
   {
     "ID": "3592769",
@@ -6078,7 +6401,8 @@ const DOSAGEM_SULCO_DATA = [
     "Responsável": " Antonio ",
     "Produto": "Adubo",
     "Dosagem de Produto - Sulcação": "3,205",
-    "Fazenda": NaN
+    "Fazenda": null,
+    "Unnamed: 17": null
   },
   {
     "ID": "3592768",
@@ -6097,7 +6421,8 @@ const DOSAGEM_SULCO_DATA = [
     "Responsável": " Antonio ",
     "Produto": "Adubo",
     "Dosagem de Produto - Sulcação": "3,305",
-    "Fazenda": NaN
+    "Fazenda": null,
+    "Unnamed: 17": null
   },
   {
     "ID": "3591171",
@@ -6116,7 +6441,8 @@ const DOSAGEM_SULCO_DATA = [
     "Responsável": "VITOR AMORIM RAMOS ",
     "Produto": "Adubo",
     "Dosagem de Produto - Sulcação": "3,49",
-    "Fazenda": NaN
+    "Fazenda": null,
+    "Unnamed: 17": null
   },
   {
     "ID": "3591170",
@@ -6135,7 +6461,8 @@ const DOSAGEM_SULCO_DATA = [
     "Responsável": "VITOR AMORIM RAMOS ",
     "Produto": "Adubo",
     "Dosagem de Produto - Sulcação": "3,365",
-    "Fazenda": NaN
+    "Fazenda": null,
+    "Unnamed: 17": null
   },
   {
     "ID": "3591169",
@@ -6154,7 +6481,8 @@ const DOSAGEM_SULCO_DATA = [
     "Responsável": "VITOR AMORIM RAMOS ",
     "Produto": "Adubo",
     "Dosagem de Produto - Sulcação": "3,48",
-    "Fazenda": NaN
+    "Fazenda": null,
+    "Unnamed: 17": null
   },
   {
     "ID": "3591168",
@@ -6173,7 +6501,8 @@ const DOSAGEM_SULCO_DATA = [
     "Responsável": "VITOR AMORIM RAMOS ",
     "Produto": "Adubo",
     "Dosagem de Produto - Sulcação": "3,375",
-    "Fazenda": NaN
+    "Fazenda": null,
+    "Unnamed: 17": null
   },
   {
     "ID": "3590584",
@@ -6192,7 +6521,8 @@ const DOSAGEM_SULCO_DATA = [
     "Responsável": " Antonio ",
     "Produto": "Adubo",
     "Dosagem de Produto - Sulcação": "3,235",
-    "Fazenda": NaN
+    "Fazenda": null,
+    "Unnamed: 17": null
   },
   {
     "ID": "3590583",
@@ -6211,7 +6541,8 @@ const DOSAGEM_SULCO_DATA = [
     "Responsável": " Antonio ",
     "Produto": "Adubo",
     "Dosagem de Produto - Sulcação": "3,24",
-    "Fazenda": NaN
+    "Fazenda": null,
+    "Unnamed: 17": null
   },
   {
     "ID": "3590964",
@@ -6230,7 +6561,8 @@ const DOSAGEM_SULCO_DATA = [
     "Responsável": "FERNANDA DE SOUZA ",
     "Produto": "Adubo",
     "Dosagem de Produto - Sulcação": "3,525",
-    "Fazenda": NaN
+    "Fazenda": null,
+    "Unnamed: 17": null
   },
   {
     "ID": "3590962",
@@ -6249,7 +6581,8 @@ const DOSAGEM_SULCO_DATA = [
     "Responsável": "FERNANDA DE SOUZA ",
     "Produto": "Adubo",
     "Dosagem de Produto - Sulcação": "3,575",
-    "Fazenda": NaN
+    "Fazenda": null,
+    "Unnamed: 17": null
   },
   {
     "ID": "3590957",
@@ -6268,7 +6601,8 @@ const DOSAGEM_SULCO_DATA = [
     "Responsável": "FERNANDA DE SOUZA ",
     "Produto": "Adubo",
     "Dosagem de Produto - Sulcação": "3,555",
-    "Fazenda": NaN
+    "Fazenda": null,
+    "Unnamed: 17": null
   },
   {
     "ID": "3590956",
@@ -6287,7 +6621,8 @@ const DOSAGEM_SULCO_DATA = [
     "Responsável": "FERNANDA DE SOUZA ",
     "Produto": "Adubo",
     "Dosagem de Produto - Sulcação": "3,6",
-    "Fazenda": NaN
+    "Fazenda": null,
+    "Unnamed: 17": null
   },
   {
     "ID": "3589922",
@@ -6306,7 +6641,8 @@ const DOSAGEM_SULCO_DATA = [
     "Responsável": "GABRIEL HENRIQUE MARTINS PEREIRA",
     "Produto": "Adubo",
     "Dosagem de Produto - Sulcação": "3,2",
-    "Fazenda": NaN
+    "Fazenda": null,
+    "Unnamed: 17": null
   },
   {
     "ID": "3589921",
@@ -6325,7 +6661,8 @@ const DOSAGEM_SULCO_DATA = [
     "Responsável": "GABRIEL HENRIQUE MARTINS PEREIRA",
     "Produto": "Adubo",
     "Dosagem de Produto - Sulcação": "3,25",
-    "Fazenda": NaN
+    "Fazenda": null,
+    "Unnamed: 17": null
   },
   {
     "ID": "3588667",
@@ -6344,7 +6681,8 @@ const DOSAGEM_SULCO_DATA = [
     "Responsável": "MARCELO DE OLIVEIRA JUNIOR",
     "Produto": "Adubo",
     "Dosagem de Produto - Sulcação": "3,02",
-    "Fazenda": NaN
+    "Fazenda": null,
+    "Unnamed: 17": null
   },
   {
     "ID": "3588660",
@@ -6363,7 +6701,8 @@ const DOSAGEM_SULCO_DATA = [
     "Responsável": "MARCELO DE OLIVEIRA JUNIOR",
     "Produto": "Adubo",
     "Dosagem de Produto - Sulcação": "2,975",
-    "Fazenda": NaN
+    "Fazenda": null,
+    "Unnamed: 17": null
   },
   {
     "ID": "3588651",
@@ -6382,7 +6721,8 @@ const DOSAGEM_SULCO_DATA = [
     "Responsável": "MARCELO DE OLIVEIRA JUNIOR",
     "Produto": "Adubo",
     "Dosagem de Produto - Sulcação": "2,835",
-    "Fazenda": NaN
+    "Fazenda": null,
+    "Unnamed: 17": null
   },
   {
     "ID": "3588630",
@@ -6401,7 +6741,8 @@ const DOSAGEM_SULCO_DATA = [
     "Responsável": "MARCELO DE OLIVEIRA JUNIOR",
     "Produto": "Adubo",
     "Dosagem de Produto - Sulcação": "3,01",
-    "Fazenda": NaN
+    "Fazenda": null,
+    "Unnamed: 17": null
   },
   {
     "ID": "3587726",
@@ -6420,7 +6761,8 @@ const DOSAGEM_SULCO_DATA = [
     "Responsável": "GABRIEL HENRIQUE MARTINS PEREIRA",
     "Produto": "Adubo",
     "Dosagem de Produto - Sulcação": "3,135",
-    "Fazenda": NaN
+    "Fazenda": null,
+    "Unnamed: 17": null
   },
   {
     "ID": "3587725",
@@ -6439,7 +6781,8 @@ const DOSAGEM_SULCO_DATA = [
     "Responsável": "GABRIEL HENRIQUE MARTINS PEREIRA",
     "Produto": "Adubo",
     "Dosagem de Produto - Sulcação": "3,185",
-    "Fazenda": NaN
+    "Fazenda": null,
+    "Unnamed: 17": null
   },
   {
     "ID": "3587724",
@@ -6458,7 +6801,8 @@ const DOSAGEM_SULCO_DATA = [
     "Responsável": "GABRIEL HENRIQUE MARTINS PEREIRA",
     "Produto": "Adubo",
     "Dosagem de Produto - Sulcação": "3,075",
-    "Fazenda": NaN
+    "Fazenda": null,
+    "Unnamed: 17": null
   },
   {
     "ID": "3587687",
@@ -6477,7 +6821,8 @@ const DOSAGEM_SULCO_DATA = [
     "Responsável": "GABRIEL HENRIQUE MARTINS PEREIRA",
     "Produto": "Adubo",
     "Dosagem de Produto - Sulcação": "3,13",
-    "Fazenda": NaN
+    "Fazenda": null,
+    "Unnamed: 17": null
   },
   {
     "ID": "3587936",
@@ -6496,7 +6841,8 @@ const DOSAGEM_SULCO_DATA = [
     "Responsável": "Leonardo Ribeiro Teixeira da Silva",
     "Produto": "Adubo",
     "Dosagem de Produto - Sulcação": "3,04",
-    "Fazenda": NaN
+    "Fazenda": null,
+    "Unnamed: 17": null
   },
   {
     "ID": "3587937",
@@ -6515,7 +6861,8 @@ const DOSAGEM_SULCO_DATA = [
     "Responsável": "Leonardo Ribeiro Teixeira da Silva",
     "Produto": "Adubo",
     "Dosagem de Produto - Sulcação": "3,045",
-    "Fazenda": NaN
+    "Fazenda": null,
+    "Unnamed: 17": null
   },
   {
     "ID": "3587932",
@@ -6534,7 +6881,8 @@ const DOSAGEM_SULCO_DATA = [
     "Responsável": "Leonardo Ribeiro Teixeira da Silva",
     "Produto": "Adubo",
     "Dosagem de Produto - Sulcação": "3,19",
-    "Fazenda": NaN
+    "Fazenda": null,
+    "Unnamed: 17": null
   },
   {
     "ID": "3587931",
@@ -6553,7 +6901,8 @@ const DOSAGEM_SULCO_DATA = [
     "Responsável": "Leonardo Ribeiro Teixeira da Silva",
     "Produto": "Adubo",
     "Dosagem de Produto - Sulcação": "2,905",
-    "Fazenda": NaN
+    "Fazenda": null,
+    "Unnamed: 17": null
   },
   {
     "ID": "3588287",
@@ -6572,7 +6921,8 @@ const DOSAGEM_SULCO_DATA = [
     "Responsável": "REGINALDO DA SILVA GOMES ",
     "Produto": "Adubo",
     "Dosagem de Produto - Sulcação": "3,01",
-    "Fazenda": NaN
+    "Fazenda": null,
+    "Unnamed: 17": null
   },
   {
     "ID": "3588290",
@@ -6591,7 +6941,8 @@ const DOSAGEM_SULCO_DATA = [
     "Responsável": "REGINALDO DA SILVA GOMES ",
     "Produto": "Adubo",
     "Dosagem de Produto - Sulcação": "3,02",
-    "Fazenda": NaN
+    "Fazenda": null,
+    "Unnamed: 17": null
   },
   {
     "ID": "3588289",
@@ -6610,7 +6961,8 @@ const DOSAGEM_SULCO_DATA = [
     "Responsável": "REGINALDO DA SILVA GOMES ",
     "Produto": "Adubo",
     "Dosagem de Produto - Sulcação": "2,975",
-    "Fazenda": NaN
+    "Fazenda": null,
+    "Unnamed: 17": null
   },
   {
     "ID": "3588288",
@@ -6629,7 +6981,8 @@ const DOSAGEM_SULCO_DATA = [
     "Responsável": "REGINALDO DA SILVA GOMES ",
     "Produto": "Adubo",
     "Dosagem de Produto - Sulcação": "2,835",
-    "Fazenda": NaN
+    "Fazenda": null,
+    "Unnamed: 17": null
   },
   {
     "ID": "3588489",
@@ -6648,7 +7001,8 @@ const DOSAGEM_SULCO_DATA = [
     "Responsável": "MARCELO DE OLIVEIRA JUNIOR",
     "Produto": "Adubo",
     "Dosagem de Produto - Sulcação": "3,02",
-    "Fazenda": NaN
+    "Fazenda": null,
+    "Unnamed: 17": null
   },
   {
     "ID": "3588488",
@@ -6667,7 +7021,8 @@ const DOSAGEM_SULCO_DATA = [
     "Responsável": "MARCELO DE OLIVEIRA JUNIOR",
     "Produto": "Adubo",
     "Dosagem de Produto - Sulcação": "2,975",
-    "Fazenda": NaN
+    "Fazenda": null,
+    "Unnamed: 17": null
   },
   {
     "ID": "3588487",
@@ -6686,7 +7041,8 @@ const DOSAGEM_SULCO_DATA = [
     "Responsável": "MARCELO DE OLIVEIRA JUNIOR",
     "Produto": "Adubo",
     "Dosagem de Produto - Sulcação": "2,835",
-    "Fazenda": NaN
+    "Fazenda": null,
+    "Unnamed: 17": null
   },
   {
     "ID": "3588486",
@@ -6705,7 +7061,8 @@ const DOSAGEM_SULCO_DATA = [
     "Responsável": "MARCELO DE OLIVEIRA JUNIOR",
     "Produto": "Adubo",
     "Dosagem de Produto - Sulcação": "3,01",
-    "Fazenda": NaN
+    "Fazenda": null,
+    "Unnamed: 17": null
   },
   {
     "ID": "3587051",
@@ -6724,7 +7081,8 @@ const DOSAGEM_SULCO_DATA = [
     "Responsável": "VITOR AMORIM RAMOS ",
     "Produto": "Adubo",
     "Dosagem de Produto - Sulcação": "3,42",
-    "Fazenda": NaN
+    "Fazenda": null,
+    "Unnamed: 17": null
   },
   {
     "ID": "3587050",
@@ -6743,7 +7101,8 @@ const DOSAGEM_SULCO_DATA = [
     "Responsável": "VITOR AMORIM RAMOS ",
     "Produto": "Adubo",
     "Dosagem de Produto - Sulcação": "3,475",
-    "Fazenda": NaN
+    "Fazenda": null,
+    "Unnamed: 17": null
   },
   {
     "ID": "3586979",
@@ -6762,7 +7121,8 @@ const DOSAGEM_SULCO_DATA = [
     "Responsável": "NILDA CLAUDINO [2510716]",
     "Produto": "Adubo",
     "Dosagem de Produto - Sulcação": "4,09",
-    "Fazenda": NaN
+    "Fazenda": null,
+    "Unnamed: 17": null
   },
   {
     "ID": "3586980",
@@ -6781,7 +7141,8 @@ const DOSAGEM_SULCO_DATA = [
     "Responsável": "NILDA CLAUDINO [2510716]",
     "Produto": "Adubo",
     "Dosagem de Produto - Sulcação": "1,11",
-    "Fazenda": NaN
+    "Fazenda": null,
+    "Unnamed: 17": null
   },
   {
     "ID": "3586981",
@@ -6800,7 +7161,8 @@ const DOSAGEM_SULCO_DATA = [
     "Responsável": "NILDA CLAUDINO [2510716]",
     "Produto": "Adubo",
     "Dosagem de Produto - Sulcação": "4,15",
-    "Fazenda": NaN
+    "Fazenda": null,
+    "Unnamed: 17": null
   },
   {
     "ID": "3586982",
@@ -6819,7 +7181,8 @@ const DOSAGEM_SULCO_DATA = [
     "Responsável": "NILDA CLAUDINO [2510716]",
     "Produto": "Adubo",
     "Dosagem de Produto - Sulcação": "4,03",
-    "Fazenda": NaN
+    "Fazenda": null,
+    "Unnamed: 17": null
   },
   {
     "ID": "3584449",
@@ -6838,7 +7201,8 @@ const DOSAGEM_SULCO_DATA = [
     "Responsável": "EDILIANA CARDOSO DA COSTA",
     "Produto": "Adubo",
     "Dosagem de Produto - Sulcação": "4,04",
-    "Fazenda": NaN
+    "Fazenda": null,
+    "Unnamed: 17": null
   },
   {
     "ID": "3584444",
@@ -6857,7 +7221,8 @@ const DOSAGEM_SULCO_DATA = [
     "Responsável": "EDILIANA CARDOSO DA COSTA",
     "Produto": "Adubo",
     "Dosagem de Produto - Sulcação": "4,1",
-    "Fazenda": NaN
+    "Fazenda": null,
+    "Unnamed: 17": null
   },
   {
     "ID": "3584088",
@@ -6876,7 +7241,8 @@ const DOSAGEM_SULCO_DATA = [
     "Responsável": "Leonardo Ribeiro Teixeira da Silva",
     "Produto": "Adubo",
     "Dosagem de Produto - Sulcação": "3,38",
-    "Fazenda": NaN
+    "Fazenda": null,
+    "Unnamed: 17": null
   },
   {
     "ID": "3584087",
@@ -6895,7 +7261,8 @@ const DOSAGEM_SULCO_DATA = [
     "Responsável": "Leonardo Ribeiro Teixeira da Silva",
     "Produto": "Adubo",
     "Dosagem de Produto - Sulcação": "3,54",
-    "Fazenda": NaN
+    "Fazenda": null,
+    "Unnamed: 17": null
   },
   {
     "ID": "3586214",
@@ -6914,7 +7281,8 @@ const DOSAGEM_SULCO_DATA = [
     "Responsável": "MICHELI DE SOUZA SANTOS  ",
     "Produto": "Adubo",
     "Dosagem de Produto - Sulcação": "3,56",
-    "Fazenda": NaN
+    "Fazenda": null,
+    "Unnamed: 17": null
   },
   {
     "ID": "3586213",
@@ -6933,7 +7301,8 @@ const DOSAGEM_SULCO_DATA = [
     "Responsável": "MICHELI DE SOUZA SANTOS  ",
     "Produto": "Adubo",
     "Dosagem de Produto - Sulcação": "3,47",
-    "Fazenda": NaN
+    "Fazenda": null,
+    "Unnamed: 17": null
   },
   {
     "ID": "3586212",
@@ -6952,7 +7321,8 @@ const DOSAGEM_SULCO_DATA = [
     "Responsável": "MICHELI DE SOUZA SANTOS  ",
     "Produto": "Adubo",
     "Dosagem de Produto - Sulcação": "3,4",
-    "Fazenda": NaN
+    "Fazenda": null,
+    "Unnamed: 17": null
   },
   {
     "ID": "3586211",
@@ -6971,7 +7341,8 @@ const DOSAGEM_SULCO_DATA = [
     "Responsável": "MICHELI DE SOUZA SANTOS  ",
     "Produto": "Adubo",
     "Dosagem de Produto - Sulcação": "3,415",
-    "Fazenda": NaN
+    "Fazenda": null,
+    "Unnamed: 17": null
   },
   {
     "ID": "3584067",
@@ -6990,7 +7361,8 @@ const DOSAGEM_SULCO_DATA = [
     "Responsável": "Leonardo Ribeiro Teixeira da Silva",
     "Produto": "Adubo",
     "Dosagem de Produto - Sulcação": "3,31",
-    "Fazenda": NaN
+    "Fazenda": null,
+    "Unnamed: 17": null
   },
   {
     "ID": "3584066",
@@ -7009,7 +7381,8 @@ const DOSAGEM_SULCO_DATA = [
     "Responsável": "Leonardo Ribeiro Teixeira da Silva",
     "Produto": "Adubo",
     "Dosagem de Produto - Sulcação": "3,39",
-    "Fazenda": NaN
+    "Fazenda": null,
+    "Unnamed: 17": null
   },
   {
     "ID": "3585071",
@@ -7028,7 +7401,8 @@ const DOSAGEM_SULCO_DATA = [
     "Responsável": "GABRIEL HENRIQUE MARTINS PEREIRA",
     "Produto": "Adubo",
     "Dosagem de Produto - Sulcação": "3,875",
-    "Fazenda": NaN
+    "Fazenda": null,
+    "Unnamed: 17": null
   },
   {
     "ID": "3585070",
@@ -7047,7 +7421,8 @@ const DOSAGEM_SULCO_DATA = [
     "Responsável": "GABRIEL HENRIQUE MARTINS PEREIRA",
     "Produto": "Adubo",
     "Dosagem de Produto - Sulcação": "3,85",
-    "Fazenda": NaN
+    "Fazenda": null,
+    "Unnamed: 17": null
   },
   {
     "ID": "3585061",
@@ -7066,7 +7441,8 @@ const DOSAGEM_SULCO_DATA = [
     "Responsável": "GABRIEL HENRIQUE MARTINS PEREIRA",
     "Produto": "Adubo",
     "Dosagem de Produto - Sulcação": "3,82",
-    "Fazenda": NaN
+    "Fazenda": null,
+    "Unnamed: 17": null
   },
   {
     "ID": "3585057",
@@ -7085,7 +7461,8 @@ const DOSAGEM_SULCO_DATA = [
     "Responsável": "GABRIEL HENRIQUE MARTINS PEREIRA",
     "Produto": "Adubo",
     "Dosagem de Produto - Sulcação": "3,855",
-    "Fazenda": NaN
+    "Fazenda": null,
+    "Unnamed: 17": null
   },
   {
     "ID": "3583590",
@@ -7104,7 +7481,8 @@ const DOSAGEM_SULCO_DATA = [
     "Responsável": "MICHELI DE SOUZA SANTOS  ",
     "Produto": "Adubo",
     "Dosagem de Produto - Sulcação": "3,255",
-    "Fazenda": NaN
+    "Fazenda": null,
+    "Unnamed: 17": null
   },
   {
     "ID": "3583589",
@@ -7123,7 +7501,8 @@ const DOSAGEM_SULCO_DATA = [
     "Responsável": "MICHELI DE SOUZA SANTOS  ",
     "Produto": "Adubo",
     "Dosagem de Produto - Sulcação": "3,425",
-    "Fazenda": NaN
+    "Fazenda": null,
+    "Unnamed: 17": null
   },
   {
     "ID": "3581039",
@@ -7142,7 +7521,8 @@ const DOSAGEM_SULCO_DATA = [
     "Responsável": "Leonardo Ribeiro Teixeira da Silva",
     "Produto": "Adubo",
     "Dosagem de Produto - Sulcação": "4,165",
-    "Fazenda": NaN
+    "Fazenda": null,
+    "Unnamed: 17": null
   },
   {
     "ID": "3581038",
@@ -7161,7 +7541,8 @@ const DOSAGEM_SULCO_DATA = [
     "Responsável": "Leonardo Ribeiro Teixeira da Silva",
     "Produto": "Adubo",
     "Dosagem de Produto - Sulcação": "4,17",
-    "Fazenda": NaN
+    "Fazenda": null,
+    "Unnamed: 17": null
   },
   {
     "ID": "3580991",
@@ -7180,7 +7561,8 @@ const DOSAGEM_SULCO_DATA = [
     "Responsável": "NILDA CLAUDINO [2510716]",
     "Produto": "Adubo",
     "Dosagem de Produto - Sulcação": "4,365",
-    "Fazenda": NaN
+    "Fazenda": null,
+    "Unnamed: 17": null
   },
   {
     "ID": "3581037",
@@ -7199,7 +7581,8 @@ const DOSAGEM_SULCO_DATA = [
     "Responsável": "Leonardo Ribeiro Teixeira da Silva",
     "Produto": "Adubo",
     "Dosagem de Produto - Sulcação": "4,18",
-    "Fazenda": NaN
+    "Fazenda": null,
+    "Unnamed: 17": null
   },
   {
     "ID": "3580990",
@@ -7218,7 +7601,8 @@ const DOSAGEM_SULCO_DATA = [
     "Responsável": "NILDA CLAUDINO [2510716]",
     "Produto": "Adubo",
     "Dosagem de Produto - Sulcação": "4,205",
-    "Fazenda": NaN
+    "Fazenda": null,
+    "Unnamed: 17": null
   },
   {
     "ID": "3581036",
@@ -7237,7 +7621,8 @@ const DOSAGEM_SULCO_DATA = [
     "Responsável": "Leonardo Ribeiro Teixeira da Silva",
     "Produto": "Adubo",
     "Dosagem de Produto - Sulcação": "4,19",
-    "Fazenda": NaN
+    "Fazenda": null,
+    "Unnamed: 17": null
   },
   {
     "ID": "3580989",
@@ -7256,7 +7641,8 @@ const DOSAGEM_SULCO_DATA = [
     "Responsável": "NILDA CLAUDINO [2510716]",
     "Produto": "Adubo",
     "Dosagem de Produto - Sulcação": "4,31",
-    "Fazenda": NaN
+    "Fazenda": null,
+    "Unnamed: 17": null
   },
   {
     "ID": "3580988",
@@ -7275,7 +7661,8 @@ const DOSAGEM_SULCO_DATA = [
     "Responsável": "NILDA CLAUDINO [2510716]",
     "Produto": "Adubo",
     "Dosagem de Produto - Sulcação": "4,31",
-    "Fazenda": NaN
+    "Fazenda": null,
+    "Unnamed: 17": null
   },
   {
     "ID": "3580973",
@@ -7294,7 +7681,8 @@ const DOSAGEM_SULCO_DATA = [
     "Responsável": "VITOR AMORIM RAMOS ",
     "Produto": "Adubo",
     "Dosagem de Produto - Sulcação": "3,43",
-    "Fazenda": NaN
+    "Fazenda": null,
+    "Unnamed: 17": null
   },
   {
     "ID": "3580972",
@@ -7313,7 +7701,8 @@ const DOSAGEM_SULCO_DATA = [
     "Responsável": "VITOR AMORIM RAMOS ",
     "Produto": "Adubo",
     "Dosagem de Produto - Sulcação": "3,355",
-    "Fazenda": NaN
+    "Fazenda": null,
+    "Unnamed: 17": null
   },
   {
     "ID": "3580968",
@@ -7332,7 +7721,8 @@ const DOSAGEM_SULCO_DATA = [
     "Responsável": "VITOR AMORIM RAMOS ",
     "Produto": "Adubo",
     "Dosagem de Produto - Sulcação": "3,3",
-    "Fazenda": NaN
+    "Fazenda": null,
+    "Unnamed: 17": null
   },
   {
     "ID": "3580967",
@@ -7351,7 +7741,8 @@ const DOSAGEM_SULCO_DATA = [
     "Responsável": "VITOR AMORIM RAMOS ",
     "Produto": "Adubo",
     "Dosagem de Produto - Sulcação": "3,49",
-    "Fazenda": NaN
+    "Fazenda": null,
+    "Unnamed: 17": null
   },
   {
     "ID": "3579071",
@@ -7370,7 +7761,8 @@ const DOSAGEM_SULCO_DATA = [
     "Responsável": "Leonardo Ribeiro Teixeira da Silva",
     "Produto": "Adubo",
     "Dosagem de Produto - Sulcação": "4,11",
-    "Fazenda": NaN
+    "Fazenda": null,
+    "Unnamed: 17": null
   },
   {
     "ID": "3579070",
@@ -7389,7 +7781,8 @@ const DOSAGEM_SULCO_DATA = [
     "Responsável": "Leonardo Ribeiro Teixeira da Silva",
     "Produto": "Adubo",
     "Dosagem de Produto - Sulcação": "4,1",
-    "Fazenda": NaN
+    "Fazenda": null,
+    "Unnamed: 17": null
   },
   {
     "ID": "3579346",
@@ -7408,7 +7801,8 @@ const DOSAGEM_SULCO_DATA = [
     "Responsável": "MARCELO DE OLIVEIRA JUNIOR",
     "Produto": "Adubo",
     "Dosagem de Produto - Sulcação": "3,43",
-    "Fazenda": NaN
+    "Fazenda": null,
+    "Unnamed: 17": null
   },
   {
     "ID": "3579345",
@@ -7427,7 +7821,8 @@ const DOSAGEM_SULCO_DATA = [
     "Responsável": "MARCELO DE OLIVEIRA JUNIOR",
     "Produto": "Adubo",
     "Dosagem de Produto - Sulcação": "3,45",
-    "Fazenda": NaN
+    "Fazenda": null,
+    "Unnamed: 17": null
   },
   {
     "ID": "3578935",
@@ -7446,7 +7841,8 @@ const DOSAGEM_SULCO_DATA = [
     "Responsável": " Antonio ",
     "Produto": "Adubo",
     "Dosagem de Produto - Sulcação": "3,445",
-    "Fazenda": NaN
+    "Fazenda": null,
+    "Unnamed: 17": null
   },
   {
     "ID": "3578934",
@@ -7465,7 +7861,8 @@ const DOSAGEM_SULCO_DATA = [
     "Responsável": " Antonio ",
     "Produto": "Adubo",
     "Dosagem de Produto - Sulcação": "3,475",
-    "Fazenda": NaN
+    "Fazenda": null,
+    "Unnamed: 17": null
   },
   {
     "ID": "3578933",
@@ -7484,7 +7881,8 @@ const DOSAGEM_SULCO_DATA = [
     "Responsável": " Antonio ",
     "Produto": "Adubo",
     "Dosagem de Produto - Sulcação": "3,405",
-    "Fazenda": NaN
+    "Fazenda": null,
+    "Unnamed: 17": null
   },
   {
     "ID": "3578932",
@@ -7503,7 +7901,8 @@ const DOSAGEM_SULCO_DATA = [
     "Responsável": " Antonio ",
     "Produto": "Adubo",
     "Dosagem de Produto - Sulcação": "3,405",
-    "Fazenda": NaN
+    "Fazenda": null,
+    "Unnamed: 17": null
   },
   {
     "ID": "3579196",
@@ -7522,7 +7921,8 @@ const DOSAGEM_SULCO_DATA = [
     "Responsável": "GABRIEL HENRIQUE MARTINS PEREIRA",
     "Produto": "Adubo",
     "Dosagem de Produto - Sulcação": "3,825",
-    "Fazenda": NaN
+    "Fazenda": null,
+    "Unnamed: 17": null
   },
   {
     "ID": "3579337",
@@ -7541,7 +7941,8 @@ const DOSAGEM_SULCO_DATA = [
     "Responsável": "MARCELO DE OLIVEIRA JUNIOR",
     "Produto": "Adubo",
     "Dosagem de Produto - Sulcação": "3,455",
-    "Fazenda": NaN
+    "Fazenda": null,
+    "Unnamed: 17": null
   },
   {
     "ID": "3579335",
@@ -7560,7 +7961,8 @@ const DOSAGEM_SULCO_DATA = [
     "Responsável": "MARCELO DE OLIVEIRA JUNIOR",
     "Produto": "Adubo",
     "Dosagem de Produto - Sulcação": "3,4",
-    "Fazenda": NaN
+    "Fazenda": null,
+    "Unnamed: 17": null
   },
   {
     "ID": "3579195",
@@ -7579,7 +7981,8 @@ const DOSAGEM_SULCO_DATA = [
     "Responsável": "GABRIEL HENRIQUE MARTINS PEREIRA",
     "Produto": "Adubo",
     "Dosagem de Produto - Sulcação": "3,825",
-    "Fazenda": NaN
+    "Fazenda": null,
+    "Unnamed: 17": null
   },
   {
     "ID": "3578774",
@@ -7598,7 +8001,8 @@ const DOSAGEM_SULCO_DATA = [
     "Responsável": "VITOR AMORIM RAMOS ",
     "Produto": "Adubo",
     "Dosagem de Produto - Sulcação": "3,33",
-    "Fazenda": NaN
+    "Fazenda": null,
+    "Unnamed: 17": null
   },
   {
     "ID": "3578773",
@@ -7617,7 +8021,8 @@ const DOSAGEM_SULCO_DATA = [
     "Responsável": "VITOR AMORIM RAMOS ",
     "Produto": "Adubo",
     "Dosagem de Produto - Sulcação": "3,495",
-    "Fazenda": NaN
+    "Fazenda": null,
+    "Unnamed: 17": null
   },
   {
     "ID": "3578772",
@@ -7636,7 +8041,8 @@ const DOSAGEM_SULCO_DATA = [
     "Responsável": "VITOR AMORIM RAMOS ",
     "Produto": "Adubo",
     "Dosagem de Produto - Sulcação": "3,385",
-    "Fazenda": NaN
+    "Fazenda": null,
+    "Unnamed: 17": null
   },
   {
     "ID": "3578771",
@@ -7655,7 +8061,8 @@ const DOSAGEM_SULCO_DATA = [
     "Responsável": "VITOR AMORIM RAMOS ",
     "Produto": "Adubo",
     "Dosagem de Produto - Sulcação": "3,365",
-    "Fazenda": NaN
+    "Fazenda": null,
+    "Unnamed: 17": null
   },
   {
     "ID": "3579194",
@@ -7674,7 +8081,8 @@ const DOSAGEM_SULCO_DATA = [
     "Responsável": "GABRIEL HENRIQUE MARTINS PEREIRA",
     "Produto": "Adubo",
     "Dosagem de Produto - Sulcação": "3,85",
-    "Fazenda": NaN
+    "Fazenda": null,
+    "Unnamed: 17": null
   },
   {
     "ID": "3579193",
@@ -7693,7 +8101,8 @@ const DOSAGEM_SULCO_DATA = [
     "Responsável": "GABRIEL HENRIQUE MARTINS PEREIRA",
     "Produto": "Adubo",
     "Dosagem de Produto - Sulcação": "3,8",
-    "Fazenda": NaN
+    "Fazenda": null,
+    "Unnamed: 17": null
   },
   {
     "ID": "3578962",
@@ -7712,7 +8121,8 @@ const DOSAGEM_SULCO_DATA = [
     "Responsável": "NILDA CLAUDINO [2510716]",
     "Produto": "Adubo",
     "Dosagem de Produto - Sulcação": "3,305",
-    "Fazenda": NaN
+    "Fazenda": null,
+    "Unnamed: 17": null
   },
   {
     "ID": "3578961",
@@ -7731,7 +8141,8 @@ const DOSAGEM_SULCO_DATA = [
     "Responsável": "NILDA CLAUDINO [2510716]",
     "Produto": "Adubo",
     "Dosagem de Produto - Sulcação": "3,33",
-    "Fazenda": NaN
+    "Fazenda": null,
+    "Unnamed: 17": null
   },
   {
     "ID": "3578958",
@@ -7750,7 +8161,8 @@ const DOSAGEM_SULCO_DATA = [
     "Responsável": "NILDA CLAUDINO [2510716]",
     "Produto": "Adubo",
     "Dosagem de Produto - Sulcação": "3,405",
-    "Fazenda": NaN
+    "Fazenda": null,
+    "Unnamed: 17": null
   },
   {
     "ID": "3578957",
@@ -7769,7 +8181,8 @@ const DOSAGEM_SULCO_DATA = [
     "Responsável": "NILDA CLAUDINO [2510716]",
     "Produto": "Adubo",
     "Dosagem de Produto - Sulcação": "3,43",
-    "Fazenda": NaN
+    "Fazenda": null,
+    "Unnamed: 17": null
   },
   {
     "ID": "3577379",
@@ -7788,7 +8201,8 @@ const DOSAGEM_SULCO_DATA = [
     "Responsável": "MARCELO DE OLIVEIRA JUNIOR",
     "Produto": "Adubo",
     "Dosagem de Produto - Sulcação": "3,35",
-    "Fazenda": NaN
+    "Fazenda": null,
+    "Unnamed: 17": null
   },
   {
     "ID": "3577378",
@@ -7807,7 +8221,8 @@ const DOSAGEM_SULCO_DATA = [
     "Responsável": "MARCELO DE OLIVEIRA JUNIOR",
     "Produto": "Adubo",
     "Dosagem de Produto - Sulcação": "3,51",
-    "Fazenda": NaN
+    "Fazenda": null,
+    "Unnamed: 17": null
   },
   {
     "ID": "3576726",
@@ -7826,7 +8241,8 @@ const DOSAGEM_SULCO_DATA = [
     "Responsável": "NILDA CLAUDINO [2510716]",
     "Produto": "Adubo",
     "Dosagem de Produto - Sulcação": "3,435",
-    "Fazenda": NaN
+    "Fazenda": null,
+    "Unnamed: 17": null
   },
   {
     "ID": "3576926",
@@ -7845,7 +8261,8 @@ const DOSAGEM_SULCO_DATA = [
     "Responsável": "Leonardo Ribeiro Teixeira da Silva",
     "Produto": "Adubo",
     "Dosagem de Produto - Sulcação": "4,175",
-    "Fazenda": NaN
+    "Fazenda": null,
+    "Unnamed: 17": null
   },
   {
     "ID": "3576925",
@@ -7864,7 +8281,8 @@ const DOSAGEM_SULCO_DATA = [
     "Responsável": "Leonardo Ribeiro Teixeira da Silva",
     "Produto": "Adubo",
     "Dosagem de Produto - Sulcação": "4,155",
-    "Fazenda": NaN
+    "Fazenda": null,
+    "Unnamed: 17": null
   },
   {
     "ID": "3576924",
@@ -7883,7 +8301,8 @@ const DOSAGEM_SULCO_DATA = [
     "Responsável": "Leonardo Ribeiro Teixeira da Silva",
     "Produto": "Adubo",
     "Dosagem de Produto - Sulcação": "4,105",
-    "Fazenda": NaN
+    "Fazenda": null,
+    "Unnamed: 17": null
   },
   {
     "ID": "3576725",
@@ -7902,7 +8321,8 @@ const DOSAGEM_SULCO_DATA = [
     "Responsável": "NILDA CLAUDINO [2510716]",
     "Produto": "Adubo",
     "Dosagem de Produto - Sulcação": "3,375",
-    "Fazenda": NaN
+    "Fazenda": null,
+    "Unnamed: 17": null
   },
   {
     "ID": "3576923",
@@ -7921,7 +8341,8 @@ const DOSAGEM_SULCO_DATA = [
     "Responsável": "Leonardo Ribeiro Teixeira da Silva",
     "Produto": "Adubo",
     "Dosagem de Produto - Sulcação": "4",
-    "Fazenda": NaN
+    "Fazenda": null,
+    "Unnamed: 17": null
   },
   {
     "ID": "3576293",
@@ -7940,7 +8361,8 @@ const DOSAGEM_SULCO_DATA = [
     "Responsável": "MABILA HELEN D FIGUEIREDO",
     "Produto": "Adubo",
     "Dosagem de Produto - Sulcação": "3,345",
-    "Fazenda": NaN
+    "Fazenda": null,
+    "Unnamed: 17": null
   },
   {
     "ID": "3576294",
@@ -7959,7 +8381,8 @@ const DOSAGEM_SULCO_DATA = [
     "Responsável": "MABILA HELEN D FIGUEIREDO",
     "Produto": "Adubo",
     "Dosagem de Produto - Sulcação": "3,32",
-    "Fazenda": NaN
+    "Fazenda": null,
+    "Unnamed: 17": null
   },
   {
     "ID": "3577373",
@@ -7978,7 +8401,8 @@ const DOSAGEM_SULCO_DATA = [
     "Responsável": "MARCELO DE OLIVEIRA JUNIOR",
     "Produto": "Adubo",
     "Dosagem de Produto - Sulcação": "3,38",
-    "Fazenda": NaN
+    "Fazenda": null,
+    "Unnamed: 17": null
   },
   {
     "ID": "3577371",
@@ -7997,7 +8421,8 @@ const DOSAGEM_SULCO_DATA = [
     "Responsável": "MARCELO DE OLIVEIRA JUNIOR",
     "Produto": "Adubo",
     "Dosagem de Produto - Sulcação": "3,475",
-    "Fazenda": NaN
+    "Fazenda": null,
+    "Unnamed: 17": null
   },
   {
     "ID": "3576269",
@@ -8016,7 +8441,8 @@ const DOSAGEM_SULCO_DATA = [
     "Responsável": "VITOR AMORIM RAMOS ",
     "Produto": "Adubo",
     "Dosagem de Produto - Sulcação": "3,355",
-    "Fazenda": NaN
+    "Fazenda": null,
+    "Unnamed: 17": null
   },
   {
     "ID": "3576268",
@@ -8035,7 +8461,8 @@ const DOSAGEM_SULCO_DATA = [
     "Responsável": "VITOR AMORIM RAMOS ",
     "Produto": "Adubo",
     "Dosagem de Produto - Sulcação": "3,455",
-    "Fazenda": NaN
+    "Fazenda": null,
+    "Unnamed: 17": null
   },
   {
     "ID": "3576267",
@@ -8054,7 +8481,8 @@ const DOSAGEM_SULCO_DATA = [
     "Responsável": "VITOR AMORIM RAMOS ",
     "Produto": "Adubo",
     "Dosagem de Produto - Sulcação": "3,39",
-    "Fazenda": NaN
+    "Fazenda": null,
+    "Unnamed: 17": null
   },
   {
     "ID": "3576266",
@@ -8073,7 +8501,8 @@ const DOSAGEM_SULCO_DATA = [
     "Responsável": "VITOR AMORIM RAMOS ",
     "Produto": "Adubo",
     "Dosagem de Produto - Sulcação": "3,42",
-    "Fazenda": NaN
+    "Fazenda": null,
+    "Unnamed: 17": null
   },
   {
     "ID": "3576655",
@@ -8092,7 +8521,8 @@ const DOSAGEM_SULCO_DATA = [
     "Responsável": "GABRIEL HENRIQUE MARTINS PEREIRA",
     "Produto": "Adubo",
     "Dosagem de Produto - Sulcação": "3,755",
-    "Fazenda": NaN
+    "Fazenda": null,
+    "Unnamed: 17": null
   },
   {
     "ID": "3576654",
@@ -8111,7 +8541,8 @@ const DOSAGEM_SULCO_DATA = [
     "Responsável": "GABRIEL HENRIQUE MARTINS PEREIRA",
     "Produto": "Adubo",
     "Dosagem de Produto - Sulcação": "3,79",
-    "Fazenda": NaN
+    "Fazenda": null,
+    "Unnamed: 17": null
   },
   {
     "ID": "3576653",
@@ -8130,7 +8561,8 @@ const DOSAGEM_SULCO_DATA = [
     "Responsável": "GABRIEL HENRIQUE MARTINS PEREIRA",
     "Produto": "Adubo",
     "Dosagem de Produto - Sulcação": "3,82",
-    "Fazenda": NaN
+    "Fazenda": null,
+    "Unnamed: 17": null
   },
   {
     "ID": "3576651",
@@ -8149,7 +8581,8 @@ const DOSAGEM_SULCO_DATA = [
     "Responsável": "GABRIEL HENRIQUE MARTINS PEREIRA",
     "Produto": "Adubo",
     "Dosagem de Produto - Sulcação": "3,81",
-    "Fazenda": NaN
+    "Fazenda": null,
+    "Unnamed: 17": null
   },
   {
     "ID": "3576207",
@@ -8168,7 +8601,8 @@ const DOSAGEM_SULCO_DATA = [
     "Responsável": "MICHELI DE SOUZA SANTOS  ",
     "Produto": "Adubo",
     "Dosagem de Produto - Sulcação": "3,425",
-    "Fazenda": NaN
+    "Fazenda": null,
+    "Unnamed: 17": null
   },
   {
     "ID": "3576204",
@@ -8187,7 +8621,8 @@ const DOSAGEM_SULCO_DATA = [
     "Responsável": "MICHELI DE SOUZA SANTOS  ",
     "Produto": "Adubo",
     "Dosagem de Produto - Sulcação": "3,355",
-    "Fazenda": NaN
+    "Fazenda": null,
+    "Unnamed: 17": null
   },
   {
     "ID": "3574511",
@@ -8206,7 +8641,8 @@ const DOSAGEM_SULCO_DATA = [
     "Responsável": "NILDA CLAUDINO [2510716]",
     "Produto": "Adubo",
     "Dosagem de Produto - Sulcação": "3,42",
-    "Fazenda": NaN
+    "Fazenda": null,
+    "Unnamed: 17": null
   },
   {
     "ID": "3574512",
@@ -8225,7 +8661,8 @@ const DOSAGEM_SULCO_DATA = [
     "Responsável": "NILDA CLAUDINO [2510716]",
     "Produto": "Adubo",
     "Dosagem de Produto - Sulcação": "3,315",
-    "Fazenda": NaN
+    "Fazenda": null,
+    "Unnamed: 17": null
   },
   {
     "ID": "3574513",
@@ -8244,7 +8681,8 @@ const DOSAGEM_SULCO_DATA = [
     "Responsável": "NILDA CLAUDINO [2510716]",
     "Produto": "Adubo",
     "Dosagem de Produto - Sulcação": "3,41",
-    "Fazenda": NaN
+    "Fazenda": null,
+    "Unnamed: 17": null
   },
   {
     "ID": "3574510",
@@ -8263,7 +8701,8 @@ const DOSAGEM_SULCO_DATA = [
     "Responsável": "NILDA CLAUDINO [2510716]",
     "Produto": "Adubo",
     "Dosagem de Produto - Sulcação": "3,35",
-    "Fazenda": NaN
+    "Fazenda": null,
+    "Unnamed: 17": null
   },
   {
     "ID": "3574443",
@@ -8282,7 +8721,8 @@ const DOSAGEM_SULCO_DATA = [
     "Responsável": "VITOR AMORIM RAMOS ",
     "Produto": "Adubo",
     "Dosagem de Produto - Sulcação": "3,495",
-    "Fazenda": NaN
+    "Fazenda": null,
+    "Unnamed: 17": null
   },
   {
     "ID": "3574090",
@@ -8301,7 +8741,8 @@ const DOSAGEM_SULCO_DATA = [
     "Responsável": "MARCELO DE OLIVEIRA JUNIOR",
     "Produto": "Adubo",
     "Dosagem de Produto - Sulcação": "3,47",
-    "Fazenda": NaN
+    "Fazenda": null,
+    "Unnamed: 17": null
   },
   {
     "ID": "3574089",
@@ -8320,7 +8761,8 @@ const DOSAGEM_SULCO_DATA = [
     "Responsável": "MARCELO DE OLIVEIRA JUNIOR",
     "Produto": "Adubo",
     "Dosagem de Produto - Sulcação": "3,375",
-    "Fazenda": NaN
+    "Fazenda": null,
+    "Unnamed: 17": null
   },
   {
     "ID": "3574088",
@@ -8339,7 +8781,8 @@ const DOSAGEM_SULCO_DATA = [
     "Responsável": "MARCELO DE OLIVEIRA JUNIOR",
     "Produto": "Adubo",
     "Dosagem de Produto - Sulcação": "3,47",
-    "Fazenda": NaN
+    "Fazenda": null,
+    "Unnamed: 17": null
   },
   {
     "ID": "3574085",
@@ -8358,7 +8801,8 @@ const DOSAGEM_SULCO_DATA = [
     "Responsável": "MARCELO DE OLIVEIRA JUNIOR",
     "Produto": "Adubo",
     "Dosagem de Produto - Sulcação": "3,5",
-    "Fazenda": NaN
+    "Fazenda": null,
+    "Unnamed: 17": null
   },
   {
     "ID": "3574380",
@@ -8377,7 +8821,8 @@ const DOSAGEM_SULCO_DATA = [
     "Responsável": "VITOR AMORIM RAMOS ",
     "Produto": "Adubo",
     "Dosagem de Produto - Sulcação": "3,41",
-    "Fazenda": NaN
+    "Fazenda": null,
+    "Unnamed: 17": null
   },
   {
     "ID": "3572429",
@@ -8396,7 +8841,8 @@ const DOSAGEM_SULCO_DATA = [
     "Responsável": "NILDA CLAUDINO [2510716]",
     "Produto": "Adubo",
     "Dosagem de Produto - Sulcação": "3,34",
-    "Fazenda": NaN
+    "Fazenda": null,
+    "Unnamed: 17": null
   },
   {
     "ID": "3572428",
@@ -8415,7 +8861,8 @@ const DOSAGEM_SULCO_DATA = [
     "Responsável": "NILDA CLAUDINO [2510716]",
     "Produto": "Adubo",
     "Dosagem de Produto - Sulcação": "3,325",
-    "Fazenda": NaN
+    "Fazenda": null,
+    "Unnamed: 17": null
   },
   {
     "ID": "3572424",
@@ -8434,7 +8881,8 @@ const DOSAGEM_SULCO_DATA = [
     "Responsável": "NILDA CLAUDINO [2510716]",
     "Produto": "Adubo",
     "Dosagem de Produto - Sulcação": "3,355",
-    "Fazenda": NaN
+    "Fazenda": null,
+    "Unnamed: 17": null
   },
   {
     "ID": "3572423",
@@ -8453,7 +8901,8 @@ const DOSAGEM_SULCO_DATA = [
     "Responsável": "NILDA CLAUDINO [2510716]",
     "Produto": "Adubo",
     "Dosagem de Produto - Sulcação": "3,33",
-    "Fazenda": NaN
+    "Fazenda": null,
+    "Unnamed: 17": null
   },
   {
     "ID": "3572422",
@@ -8472,7 +8921,8 @@ const DOSAGEM_SULCO_DATA = [
     "Responsável": "NILDA CLAUDINO [2510716]",
     "Produto": "Adubo",
     "Dosagem de Produto - Sulcação": "3,385",
-    "Fazenda": NaN
+    "Fazenda": null,
+    "Unnamed: 17": null
   },
   {
     "ID": "3572421",
@@ -8491,7 +8941,8 @@ const DOSAGEM_SULCO_DATA = [
     "Responsável": "NILDA CLAUDINO [2510716]",
     "Produto": "Adubo",
     "Dosagem de Produto - Sulcação": "3,355",
-    "Fazenda": NaN
+    "Fazenda": null,
+    "Unnamed: 17": null
   },
   {
     "ID": "3572209",
@@ -8510,7 +8961,8 @@ const DOSAGEM_SULCO_DATA = [
     "Responsável": "VITOR AMORIM RAMOS ",
     "Produto": "Adubo",
     "Dosagem de Produto - Sulcação": "3,4",
-    "Fazenda": NaN
+    "Fazenda": null,
+    "Unnamed: 17": null
   },
   {
     "ID": "3572208",
@@ -8529,7 +8981,8 @@ const DOSAGEM_SULCO_DATA = [
     "Responsável": "VITOR AMORIM RAMOS ",
     "Produto": "Adubo",
     "Dosagem de Produto - Sulcação": "3,35",
-    "Fazenda": NaN
+    "Fazenda": null,
+    "Unnamed: 17": null
   },
   {
     "ID": "3572207",
@@ -8548,7 +9001,8 @@ const DOSAGEM_SULCO_DATA = [
     "Responsável": "VITOR AMORIM RAMOS ",
     "Produto": "Adubo",
     "Dosagem de Produto - Sulcação": "3,38",
-    "Fazenda": NaN
+    "Fazenda": null,
+    "Unnamed: 17": null
   },
   {
     "ID": "3572206",
@@ -8567,7 +9021,8 @@ const DOSAGEM_SULCO_DATA = [
     "Responsável": "VITOR AMORIM RAMOS ",
     "Produto": "Adubo",
     "Dosagem de Produto - Sulcação": "3,435",
-    "Fazenda": NaN
+    "Fazenda": null,
+    "Unnamed: 17": null
   },
   {
     "ID": "3572385",
@@ -8586,7 +9041,8 @@ const DOSAGEM_SULCO_DATA = [
     "Responsável": "MICHELI DE SOUZA SANTOS  ",
     "Produto": "Adubo",
     "Dosagem de Produto - Sulcação": "3,4",
-    "Fazenda": NaN
+    "Fazenda": null,
+    "Unnamed: 17": null
   },
   {
     "ID": "3572386",
@@ -8605,7 +9061,8 @@ const DOSAGEM_SULCO_DATA = [
     "Responsável": "MABILA HELEN D FIGUEIREDO",
     "Produto": "Adubo",
     "Dosagem de Produto - Sulcação": "3,35",
-    "Fazenda": NaN
+    "Fazenda": null,
+    "Unnamed: 17": null
   },
   {
     "ID": "3572384",
@@ -8624,7 +9081,8 @@ const DOSAGEM_SULCO_DATA = [
     "Responsável": "MABILA HELEN D FIGUEIREDO",
     "Produto": "Adubo",
     "Dosagem de Produto - Sulcação": "3,435",
-    "Fazenda": NaN
+    "Fazenda": null,
+    "Unnamed: 17": null
   },
   {
     "ID": "3572383",
@@ -8643,7 +9101,8 @@ const DOSAGEM_SULCO_DATA = [
     "Responsável": "MABILA HELEN D FIGUEIREDO",
     "Produto": "Adubo",
     "Dosagem de Produto - Sulcação": "3,38",
-    "Fazenda": NaN
+    "Fazenda": null,
+    "Unnamed: 17": null
   },
   {
     "ID": "3570998",
@@ -8662,7 +9121,8 @@ const DOSAGEM_SULCO_DATA = [
     "Responsável": "FERNANDA DE SOUZA ",
     "Produto": "Adubo",
     "Dosagem de Produto - Sulcação": "3,855",
-    "Fazenda": NaN
+    "Fazenda": null,
+    "Unnamed: 17": null
   },
   {
     "ID": "3570999",
@@ -8681,7 +9141,8 @@ const DOSAGEM_SULCO_DATA = [
     "Responsável": "FERNANDA DE SOUZA ",
     "Produto": "Adubo",
     "Dosagem de Produto - Sulcação": "3,825",
-    "Fazenda": NaN
+    "Fazenda": null,
+    "Unnamed: 17": null
   },
   {
     "ID": "3571051",
@@ -8700,7 +9161,8 @@ const DOSAGEM_SULCO_DATA = [
     "Responsável": "VITOR AMORIM RAMOS ",
     "Produto": "Adubo",
     "Dosagem de Produto - Sulcação": "3,355",
-    "Fazenda": NaN
+    "Fazenda": null,
+    "Unnamed: 17": null
   },
   {
     "ID": "3571050",
@@ -8719,7 +9181,8 @@ const DOSAGEM_SULCO_DATA = [
     "Responsável": "VITOR AMORIM RAMOS ",
     "Produto": "Adubo",
     "Dosagem de Produto - Sulcação": "3,4",
-    "Fazenda": NaN
+    "Fazenda": null,
+    "Unnamed: 17": null
   },
   {
     "ID": "3571049",
@@ -8738,7 +9201,8 @@ const DOSAGEM_SULCO_DATA = [
     "Responsável": "VITOR AMORIM RAMOS ",
     "Produto": "Adubo",
     "Dosagem de Produto - Sulcação": "3,355",
-    "Fazenda": NaN
+    "Fazenda": null,
+    "Unnamed: 17": null
   },
   {
     "ID": "3571048",
@@ -8757,7 +9221,8 @@ const DOSAGEM_SULCO_DATA = [
     "Responsável": "VITOR AMORIM RAMOS ",
     "Produto": "Adubo",
     "Dosagem de Produto - Sulcação": "3,4",
-    "Fazenda": NaN
+    "Fazenda": null,
+    "Unnamed: 17": null
   },
   {
     "ID": "3570146",
@@ -8776,7 +9241,8 @@ const DOSAGEM_SULCO_DATA = [
     "Responsável": "MARCELO DE OLIVEIRA JUNIOR",
     "Produto": "Adubo",
     "Dosagem de Produto - Sulcação": "3,485",
-    "Fazenda": NaN
+    "Fazenda": null,
+    "Unnamed: 17": null
   },
   {
     "ID": "3570145",
@@ -8795,7 +9261,8 @@ const DOSAGEM_SULCO_DATA = [
     "Responsável": "MARCELO DE OLIVEIRA JUNIOR",
     "Produto": "Adubo",
     "Dosagem de Produto - Sulcação": "3,375",
-    "Fazenda": NaN
+    "Fazenda": null,
+    "Unnamed: 17": null
   },
   {
     "ID": "3572413",
@@ -8814,7 +9281,8 @@ const DOSAGEM_SULCO_DATA = [
     "Responsável": "NILDA CLAUDINO [2510716]",
     "Produto": "Adubo",
     "Dosagem de Produto - Sulcação": "3,365",
-    "Fazenda": NaN
+    "Fazenda": null,
+    "Unnamed: 17": null
   },
   {
     "ID": "3572412",
@@ -8833,7 +9301,8 @@ const DOSAGEM_SULCO_DATA = [
     "Responsável": "NILDA CLAUDINO [2510716]",
     "Produto": "Adubo",
     "Dosagem de Produto - Sulcação": "3,45",
-    "Fazenda": NaN
+    "Fazenda": null,
+    "Unnamed: 17": null
   },
   {
     "ID": "3569967",
@@ -8852,7 +9321,8 @@ const DOSAGEM_SULCO_DATA = [
     "Responsável": "Leonardo Ribeiro Teixeira da Silva",
     "Produto": "Adubo",
     "Dosagem de Produto - Sulcação": "4,095",
-    "Fazenda": NaN
+    "Fazenda": null,
+    "Unnamed: 17": null
   },
   {
     "ID": "3569966",
@@ -8871,7 +9341,8 @@ const DOSAGEM_SULCO_DATA = [
     "Responsável": "Leonardo Ribeiro Teixeira da Silva",
     "Produto": "Adubo",
     "Dosagem de Produto - Sulcação": "4,1",
-    "Fazenda": NaN
+    "Fazenda": null,
+    "Unnamed: 17": null
   },
   {
     "ID": "3569965",
@@ -8890,7 +9361,8 @@ const DOSAGEM_SULCO_DATA = [
     "Responsável": "Leonardo Ribeiro Teixeira da Silva",
     "Produto": "Adubo",
     "Dosagem de Produto - Sulcação": "4,095",
-    "Fazenda": NaN
+    "Fazenda": null,
+    "Unnamed: 17": null
   },
   {
     "ID": "3569964",
@@ -8909,7 +9381,8 @@ const DOSAGEM_SULCO_DATA = [
     "Responsável": "Leonardo Ribeiro Teixeira da Silva",
     "Produto": "Adubo",
     "Dosagem de Produto - Sulcação": "4,175",
-    "Fazenda": NaN
+    "Fazenda": null,
+    "Unnamed: 17": null
   },
   {
     "ID": "3569879",
@@ -8928,7 +9401,8 @@ const DOSAGEM_SULCO_DATA = [
     "Responsável": "VITOR AMORIM RAMOS ",
     "Produto": "Adubo",
     "Dosagem de Produto - Sulcação": "3,315",
-    "Fazenda": NaN
+    "Fazenda": null,
+    "Unnamed: 17": null
   },
   {
     "ID": "3569878",
@@ -8947,7 +9421,8 @@ const DOSAGEM_SULCO_DATA = [
     "Responsável": "VITOR AMORIM RAMOS ",
     "Produto": "Adubo",
     "Dosagem de Produto - Sulcação": "3,435",
-    "Fazenda": NaN
+    "Fazenda": null,
+    "Unnamed: 17": null
   },
   {
     "ID": "3569877",
@@ -8966,7 +9441,8 @@ const DOSAGEM_SULCO_DATA = [
     "Responsável": "VITOR AMORIM RAMOS ",
     "Produto": "Adubo",
     "Dosagem de Produto - Sulcação": "3,315",
-    "Fazenda": NaN
+    "Fazenda": null,
+    "Unnamed: 17": null
   },
   {
     "ID": "3569876",
@@ -8985,7 +9461,8 @@ const DOSAGEM_SULCO_DATA = [
     "Responsável": "VITOR AMORIM RAMOS ",
     "Produto": "Adubo",
     "Dosagem de Produto - Sulcação": "3,435",
-    "Fazenda": NaN
+    "Fazenda": null,
+    "Unnamed: 17": null
   },
   {
     "ID": "3570137",
@@ -9004,7 +9481,8 @@ const DOSAGEM_SULCO_DATA = [
     "Responsável": "MARCELO DE OLIVEIRA JUNIOR",
     "Produto": "Adubo",
     "Dosagem de Produto - Sulcação": "3,465",
-    "Fazenda": NaN
+    "Fazenda": null,
+    "Unnamed: 17": null
   },
   {
     "ID": "3570136",
@@ -9023,7 +9501,8 @@ const DOSAGEM_SULCO_DATA = [
     "Responsável": "MARCELO DE OLIVEIRA JUNIOR",
     "Produto": "Adubo",
     "Dosagem de Produto - Sulcação": "3,385",
-    "Fazenda": NaN
+    "Fazenda": null,
+    "Unnamed: 17": null
   },
   {
     "ID": "3569900",
@@ -9042,7 +9521,8 @@ const DOSAGEM_SULCO_DATA = [
     "Responsável": " Antonio ",
     "Produto": "Adubo",
     "Dosagem de Produto - Sulcação": "2,405",
-    "Fazenda": NaN
+    "Fazenda": null,
+    "Unnamed: 17": null
   },
   {
     "ID": "3569899",
@@ -9061,7 +9541,8 @@ const DOSAGEM_SULCO_DATA = [
     "Responsável": " Antonio ",
     "Produto": "Adubo",
     "Dosagem de Produto - Sulcação": "2,41",
-    "Fazenda": NaN
+    "Fazenda": null,
+    "Unnamed: 17": null
   },
   {
     "ID": "3569898",
@@ -9080,7 +9561,8 @@ const DOSAGEM_SULCO_DATA = [
     "Responsável": " Antonio ",
     "Produto": "Adubo",
     "Dosagem de Produto - Sulcação": "2,475",
-    "Fazenda": NaN
+    "Fazenda": null,
+    "Unnamed: 17": null
   },
   {
     "ID": "3569897",
@@ -9099,7 +9581,8 @@ const DOSAGEM_SULCO_DATA = [
     "Responsável": " Antonio ",
     "Produto": "Adubo",
     "Dosagem de Produto - Sulcação": "2,56",
-    "Fazenda": NaN
+    "Fazenda": null,
+    "Unnamed: 17": null
   },
   {
     "ID": "3567576",
@@ -9118,7 +9601,8 @@ const DOSAGEM_SULCO_DATA = [
     "Responsável": "Leonardo Ribeiro Teixeira da Silva",
     "Produto": "Adubo",
     "Dosagem de Produto - Sulcação": "4,1",
-    "Fazenda": NaN
+    "Fazenda": null,
+    "Unnamed: 17": null
   },
   {
     "ID": "3567575",
@@ -9137,7 +9621,8 @@ const DOSAGEM_SULCO_DATA = [
     "Responsável": "Leonardo Ribeiro Teixeira da Silva",
     "Produto": "Adubo",
     "Dosagem de Produto - Sulcação": "4,09",
-    "Fazenda": NaN
+    "Fazenda": null,
+    "Unnamed: 17": null
   },
   {
     "ID": "3567574",
@@ -9156,7 +9641,8 @@ const DOSAGEM_SULCO_DATA = [
     "Responsável": "Leonardo Ribeiro Teixeira da Silva",
     "Produto": "Adubo",
     "Dosagem de Produto - Sulcação": "4,115",
-    "Fazenda": NaN
+    "Fazenda": null,
+    "Unnamed: 17": null
   },
   {
     "ID": "3567573",
@@ -9175,7 +9661,8 @@ const DOSAGEM_SULCO_DATA = [
     "Responsável": "Leonardo Ribeiro Teixeira da Silva",
     "Produto": "Adubo",
     "Dosagem de Produto - Sulcação": "4,1",
-    "Fazenda": NaN
+    "Fazenda": null,
+    "Unnamed: 17": null
   },
   {
     "ID": "3567151",
@@ -9194,7 +9681,8 @@ const DOSAGEM_SULCO_DATA = [
     "Responsável": "VITOR AMORIM RAMOS ",
     "Produto": "Adubo",
     "Dosagem de Produto - Sulcação": "3,485",
-    "Fazenda": NaN
+    "Fazenda": null,
+    "Unnamed: 17": null
   },
   {
     "ID": "3567150",
@@ -9213,7 +9701,8 @@ const DOSAGEM_SULCO_DATA = [
     "Responsável": "VITOR AMORIM RAMOS ",
     "Produto": "Adubo",
     "Dosagem de Produto - Sulcação": "3,445",
-    "Fazenda": NaN
+    "Fazenda": null,
+    "Unnamed: 17": null
   },
   {
     "ID": "3567149",
@@ -9232,7 +9721,8 @@ const DOSAGEM_SULCO_DATA = [
     "Responsável": "VITOR AMORIM RAMOS ",
     "Produto": "Adubo",
     "Dosagem de Produto - Sulcação": "3,33",
-    "Fazenda": NaN
+    "Fazenda": null,
+    "Unnamed: 17": null
   },
   {
     "ID": "3567148",
@@ -9251,7 +9741,8 @@ const DOSAGEM_SULCO_DATA = [
     "Responsável": "VITOR AMORIM RAMOS ",
     "Produto": "Adubo",
     "Dosagem de Produto - Sulcação": "3,445",
-    "Fazenda": NaN
+    "Fazenda": null,
+    "Unnamed: 17": null
   },
   {
     "ID": "3567546",
@@ -9270,7 +9761,8 @@ const DOSAGEM_SULCO_DATA = [
     "Responsável": "MICHELI DE SOUZA SANTOS  ",
     "Produto": "Adubo",
     "Dosagem de Produto - Sulcação": "2,4",
-    "Fazenda": NaN
+    "Fazenda": null,
+    "Unnamed: 17": null
   },
   {
     "ID": "3567545",
@@ -9289,7 +9781,8 @@ const DOSAGEM_SULCO_DATA = [
     "Responsável": "MICHELI DE SOUZA SANTOS  ",
     "Produto": "Adubo",
     "Dosagem de Produto - Sulcação": "2,44",
-    "Fazenda": NaN
+    "Fazenda": null,
+    "Unnamed: 17": null
   },
   {
     "ID": "3567544",
@@ -9308,7 +9801,8 @@ const DOSAGEM_SULCO_DATA = [
     "Responsável": "MICHELI DE SOUZA SANTOS  ",
     "Produto": "Adubo",
     "Dosagem de Produto - Sulcação": "2,35",
-    "Fazenda": NaN
+    "Fazenda": null,
+    "Unnamed: 17": null
   },
   {
     "ID": "3567543",
@@ -9327,7 +9821,8 @@ const DOSAGEM_SULCO_DATA = [
     "Responsável": "MICHELI DE SOUZA SANTOS  ",
     "Produto": "Adubo",
     "Dosagem de Produto - Sulcação": "2,36",
-    "Fazenda": NaN
+    "Fazenda": null,
+    "Unnamed: 17": null
   },
   {
     "ID": "3565620",
@@ -9346,7 +9841,8 @@ const DOSAGEM_SULCO_DATA = [
     "Responsável": "NILDA CLAUDINO [2510716]",
     "Produto": "Adubo",
     "Dosagem de Produto - Sulcação": "3,985",
-    "Fazenda": NaN
+    "Fazenda": null,
+    "Unnamed: 17": null
   },
   {
     "ID": "3565642",
@@ -9365,7 +9861,8 @@ const DOSAGEM_SULCO_DATA = [
     "Responsável": "NILDA CLAUDINO [2510716]",
     "Produto": "Adubo",
     "Dosagem de Produto - Sulcação": "4,03",
-    "Fazenda": NaN
+    "Fazenda": null,
+    "Unnamed: 17": null
   },
   {
     "ID": "3567025",
@@ -9384,7 +9881,8 @@ const DOSAGEM_SULCO_DATA = [
     "Responsável": "EDILIANA CARDOSO DA COSTA",
     "Produto": "Adubo",
     "Dosagem de Produto - Sulcação": "2,4",
-    "Fazenda": NaN
+    "Fazenda": null,
+    "Unnamed: 17": null
   },
   {
     "ID": "3567024",
@@ -9403,7 +9901,8 @@ const DOSAGEM_SULCO_DATA = [
     "Responsável": "EDILIANA CARDOSO DA COSTA",
     "Produto": "Adubo",
     "Dosagem de Produto - Sulcação": "2,48",
-    "Fazenda": NaN
+    "Fazenda": null,
+    "Unnamed: 17": null
   },
   {
     "ID": "3567023",
@@ -9422,7 +9921,8 @@ const DOSAGEM_SULCO_DATA = [
     "Responsável": "EDILIANA CARDOSO DA COSTA",
     "Produto": "Adubo",
     "Dosagem de Produto - Sulcação": "2,425",
-    "Fazenda": NaN
+    "Fazenda": null,
+    "Unnamed: 17": null
   },
   {
     "ID": "3567022",
@@ -9441,7 +9941,8 @@ const DOSAGEM_SULCO_DATA = [
     "Responsável": "EDILIANA CARDOSO DA COSTA",
     "Produto": "Adubo",
     "Dosagem de Produto - Sulcação": "2,475",
-    "Fazenda": NaN
+    "Fazenda": null,
+    "Unnamed: 17": null
   },
   {
     "ID": "3565538",
@@ -9460,7 +9961,8 @@ const DOSAGEM_SULCO_DATA = [
     "Responsável": "MARCELO DE OLIVEIRA JUNIOR",
     "Produto": "Adubo",
     "Dosagem de Produto - Sulcação": "3,395",
-    "Fazenda": NaN
+    "Fazenda": null,
+    "Unnamed: 17": null
   },
   {
     "ID": "3565537",
@@ -9479,7 +9981,8 @@ const DOSAGEM_SULCO_DATA = [
     "Responsável": "MARCELO DE OLIVEIRA JUNIOR",
     "Produto": "Adubo",
     "Dosagem de Produto - Sulcação": "3,495",
-    "Fazenda": NaN
+    "Fazenda": null,
+    "Unnamed: 17": null
   },
   {
     "ID": "3567039",
@@ -9498,7 +10001,8 @@ const DOSAGEM_SULCO_DATA = [
     "Responsável": "MABILA HELEN D FIGUEIREDO",
     "Produto": "Adubo",
     "Dosagem de Produto - Sulcação": "3,55",
-    "Fazenda": NaN
+    "Fazenda": null,
+    "Unnamed: 17": null
   },
   {
     "ID": "3567036",
@@ -9517,7 +10021,8 @@ const DOSAGEM_SULCO_DATA = [
     "Responsável": "MABILA HELEN D FIGUEIREDO",
     "Produto": "Adubo",
     "Dosagem de Produto - Sulcação": "3,55",
-    "Fazenda": NaN
+    "Fazenda": null,
+    "Unnamed: 17": null
   },
   {
     "ID": "3567035",
@@ -9536,7 +10041,8 @@ const DOSAGEM_SULCO_DATA = [
     "Responsável": "MABILA HELEN D FIGUEIREDO",
     "Produto": "Adubo",
     "Dosagem de Produto - Sulcação": "3,345",
-    "Fazenda": NaN
+    "Fazenda": null,
+    "Unnamed: 17": null
   },
   {
     "ID": "3567034",
@@ -9555,7 +10061,8 @@ const DOSAGEM_SULCO_DATA = [
     "Responsável": "MABILA HELEN D FIGUEIREDO",
     "Produto": "Adubo",
     "Dosagem de Produto - Sulcação": "3,455",
-    "Fazenda": NaN
+    "Fazenda": null,
+    "Unnamed: 17": null
   },
   {
     "ID": "3565572",
@@ -9574,7 +10081,8 @@ const DOSAGEM_SULCO_DATA = [
     "Responsável": "GABRIEL HENRIQUE MARTINS PEREIRA",
     "Produto": "Adubo",
     "Dosagem de Produto - Sulcação": "4,285",
-    "Fazenda": NaN
+    "Fazenda": null,
+    "Unnamed: 17": null
   },
   {
     "ID": "3565571",
@@ -9593,7 +10101,8 @@ const DOSAGEM_SULCO_DATA = [
     "Responsável": "GABRIEL HENRIQUE MARTINS PEREIRA",
     "Produto": "Adubo",
     "Dosagem de Produto - Sulcação": "4,295",
-    "Fazenda": NaN
+    "Fazenda": null,
+    "Unnamed: 17": null
   },
   {
     "ID": "3562934",
@@ -9612,7 +10121,8 @@ const DOSAGEM_SULCO_DATA = [
     "Responsável": "GABRIEL HENRIQUE MARTINS PEREIRA",
     "Produto": "Adubo",
     "Dosagem de Produto - Sulcação": "4,295",
-    "Fazenda": NaN
+    "Fazenda": null,
+    "Unnamed: 17": null
   },
   {
     "ID": "3562933",
@@ -9631,7 +10141,8 @@ const DOSAGEM_SULCO_DATA = [
     "Responsável": "GABRIEL HENRIQUE MARTINS PEREIRA",
     "Produto": "Adubo",
     "Dosagem de Produto - Sulcação": "4,285",
-    "Fazenda": NaN
+    "Fazenda": null,
+    "Unnamed: 17": null
   },
   {
     "ID": "3562931",
@@ -9650,7 +10161,8 @@ const DOSAGEM_SULCO_DATA = [
     "Responsável": "GABRIEL HENRIQUE MARTINS PEREIRA",
     "Produto": "Adubo",
     "Dosagem de Produto - Sulcação": "4,24",
-    "Fazenda": NaN
+    "Fazenda": null,
+    "Unnamed: 17": null
   },
   {
     "ID": "3562932",
@@ -9669,7 +10181,8 @@ const DOSAGEM_SULCO_DATA = [
     "Responsável": "GABRIEL HENRIQUE MARTINS PEREIRA",
     "Produto": "Adubo",
     "Dosagem de Produto - Sulcação": "4,24",
-    "Fazenda": NaN
+    "Fazenda": null,
+    "Unnamed: 17": null
   },
   {
     "ID": "3560798",
@@ -9688,7 +10201,8 @@ const DOSAGEM_SULCO_DATA = [
     "Responsável": "MICHELI DE SOUZA SANTOS  ",
     "Produto": "Adubo",
     "Dosagem de Produto - Sulcação": "3,4",
-    "Fazenda": NaN
+    "Fazenda": null,
+    "Unnamed: 17": null
   },
   {
     "ID": "3560780",
@@ -9707,7 +10221,8 @@ const DOSAGEM_SULCO_DATA = [
     "Responsável": "MICHELI DE SOUZA SANTOS  ",
     "Produto": "Adubo",
     "Dosagem de Produto - Sulcação": "3,545",
-    "Fazenda": NaN
+    "Fazenda": null,
+    "Unnamed: 17": null
   },
   {
     "ID": "3560537",
@@ -9726,7 +10241,8 @@ const DOSAGEM_SULCO_DATA = [
     "Responsável": "Leonardo Ribeiro Teixeira da Silva",
     "Produto": "Adubo",
     "Dosagem de Produto - Sulcação": "3,045",
-    "Fazenda": NaN
+    "Fazenda": null,
+    "Unnamed: 17": null
   },
   {
     "ID": "3560538",
@@ -9745,7 +10261,8 @@ const DOSAGEM_SULCO_DATA = [
     "Responsável": "Leonardo Ribeiro Teixeira da Silva",
     "Produto": "Adubo",
     "Dosagem de Produto - Sulcação": "2,9",
-    "Fazenda": NaN
+    "Fazenda": null,
+    "Unnamed: 17": null
   },
   {
     "ID": "3560536",
@@ -9764,7 +10281,8 @@ const DOSAGEM_SULCO_DATA = [
     "Responsável": "Leonardo Ribeiro Teixeira da Silva",
     "Produto": "Adubo",
     "Dosagem de Produto - Sulcação": "2,995",
-    "Fazenda": NaN
+    "Fazenda": null,
+    "Unnamed: 17": null
   },
   {
     "ID": "3560535",
@@ -9783,7 +10301,8 @@ const DOSAGEM_SULCO_DATA = [
     "Responsável": "Leonardo Ribeiro Teixeira da Silva",
     "Produto": "Adubo",
     "Dosagem de Produto - Sulcação": "3,055",
-    "Fazenda": NaN
+    "Fazenda": null,
+    "Unnamed: 17": null
   },
   {
     "ID": "3558618",
@@ -9802,7 +10321,8 @@ const DOSAGEM_SULCO_DATA = [
     "Responsável": "VITOR AMORIM RAMOS ",
     "Produto": "Adubo",
     "Dosagem de Produto - Sulcação": "3,42",
-    "Fazenda": NaN
+    "Fazenda": null,
+    "Unnamed: 17": null
   },
   {
     "ID": "3558617",
@@ -9821,7 +10341,8 @@ const DOSAGEM_SULCO_DATA = [
     "Responsável": "VITOR AMORIM RAMOS ",
     "Produto": "Adubo",
     "Dosagem de Produto - Sulcação": "3,325",
-    "Fazenda": NaN
+    "Fazenda": null,
+    "Unnamed: 17": null
   },
   {
     "ID": "3558616",
@@ -9840,7 +10361,8 @@ const DOSAGEM_SULCO_DATA = [
     "Responsável": "VITOR AMORIM RAMOS ",
     "Produto": "Adubo",
     "Dosagem de Produto - Sulcação": "3,49",
-    "Fazenda": NaN
+    "Fazenda": null,
+    "Unnamed: 17": null
   },
   {
     "ID": "3558615",
@@ -9859,7 +10381,8 @@ const DOSAGEM_SULCO_DATA = [
     "Responsável": "VITOR AMORIM RAMOS ",
     "Produto": "Adubo",
     "Dosagem de Produto - Sulcação": "3,47",
-    "Fazenda": NaN
+    "Fazenda": null,
+    "Unnamed: 17": null
   },
   {
     "ID": "3558540",
@@ -9878,7 +10401,8 @@ const DOSAGEM_SULCO_DATA = [
     "Responsável": "Leonardo Ribeiro Teixeira da Silva",
     "Produto": "Adubo",
     "Dosagem de Produto - Sulcação": "3,99",
-    "Fazenda": NaN
+    "Fazenda": null,
+    "Unnamed: 17": null
   },
   {
     "ID": "3558539",
@@ -9897,7 +10421,8 @@ const DOSAGEM_SULCO_DATA = [
     "Responsável": "Leonardo Ribeiro Teixeira da Silva",
     "Produto": "Adubo",
     "Dosagem de Produto - Sulcação": "4",
-    "Fazenda": NaN
+    "Fazenda": null,
+    "Unnamed: 17": null
   },
   {
     "ID": "3558538",
@@ -9916,7 +10441,8 @@ const DOSAGEM_SULCO_DATA = [
     "Responsável": "Leonardo Ribeiro Teixeira da Silva",
     "Produto": "Adubo",
     "Dosagem de Produto - Sulcação": "3,815",
-    "Fazenda": NaN
+    "Fazenda": null,
+    "Unnamed: 17": null
   },
   {
     "ID": "3558537",
@@ -9935,7 +10461,8 @@ const DOSAGEM_SULCO_DATA = [
     "Responsável": "Leonardo Ribeiro Teixeira da Silva",
     "Produto": "Adubo",
     "Dosagem de Produto - Sulcação": "3,84",
-    "Fazenda": NaN
+    "Fazenda": null,
+    "Unnamed: 17": null
   },
   {
     "ID": "3558572",
@@ -9954,7 +10481,8 @@ const DOSAGEM_SULCO_DATA = [
     "Responsável": "MARCELO DE OLIVEIRA JUNIOR",
     "Produto": "Adubo",
     "Dosagem de Produto - Sulcação": "3,495",
-    "Fazenda": NaN
+    "Fazenda": null,
+    "Unnamed: 17": null
   },
   {
     "ID": "3558571",
@@ -9973,7 +10501,8 @@ const DOSAGEM_SULCO_DATA = [
     "Responsável": "MARCELO DE OLIVEIRA JUNIOR",
     "Produto": "Adubo",
     "Dosagem de Produto - Sulcação": "3,47",
-    "Fazenda": NaN
+    "Fazenda": null,
+    "Unnamed: 17": null
   },
   {
     "ID": "3558154",
@@ -9992,7 +10521,8 @@ const DOSAGEM_SULCO_DATA = [
     "Responsável": "Leonardo Ribeiro Teixeira da Silva",
     "Produto": "Adubo",
     "Dosagem de Produto - Sulcação": "2,87",
-    "Fazenda": NaN
+    "Fazenda": null,
+    "Unnamed: 17": null
   },
   {
     "ID": "3558153",
@@ -10011,7 +10541,8 @@ const DOSAGEM_SULCO_DATA = [
     "Responsável": "Leonardo Ribeiro Teixeira da Silva",
     "Produto": "Adubo",
     "Dosagem de Produto - Sulcação": "2,905",
-    "Fazenda": NaN
+    "Fazenda": null,
+    "Unnamed: 17": null
   },
   {
     "ID": "3558570",
@@ -10030,7 +10561,8 @@ const DOSAGEM_SULCO_DATA = [
     "Responsável": "MARCELO DE OLIVEIRA JUNIOR",
     "Produto": "Adubo",
     "Dosagem de Produto - Sulcação": "3,38",
-    "Fazenda": NaN
+    "Fazenda": null,
+    "Unnamed: 17": null
   },
   {
     "ID": "3558569",
@@ -10049,7 +10581,8 @@ const DOSAGEM_SULCO_DATA = [
     "Responsável": "MARCELO DE OLIVEIRA JUNIOR",
     "Produto": "Adubo",
     "Dosagem de Produto - Sulcação": "3,475",
-    "Fazenda": NaN
+    "Fazenda": null,
+    "Unnamed: 17": null
   },
   {
     "ID": "3558185",
@@ -10068,7 +10601,8 @@ const DOSAGEM_SULCO_DATA = [
     "Responsável": " Antonio ",
     "Produto": "Adubo",
     "Dosagem de Produto - Sulcação": "3,34",
-    "Fazenda": NaN
+    "Fazenda": null,
+    "Unnamed: 17": null
   },
   {
     "ID": "3558184",
@@ -10087,7 +10621,8 @@ const DOSAGEM_SULCO_DATA = [
     "Responsável": " Antonio ",
     "Produto": "Adubo",
     "Dosagem de Produto - Sulcação": "3,255",
-    "Fazenda": NaN
+    "Fazenda": null,
+    "Unnamed: 17": null
   },
   {
     "ID": "3556088",
@@ -10106,7 +10641,8 @@ const DOSAGEM_SULCO_DATA = [
     "Responsável": "MABILA HELEN D FIGUEIREDO",
     "Produto": "Adubo",
     "Dosagem de Produto - Sulcação": "3,315",
-    "Fazenda": NaN
+    "Fazenda": null,
+    "Unnamed: 17": null
   },
   {
     "ID": "3556087",
@@ -10125,7 +10661,8 @@ const DOSAGEM_SULCO_DATA = [
     "Responsável": "MABILA HELEN D FIGUEIREDO",
     "Produto": "Adubo",
     "Dosagem de Produto - Sulcação": "3,28",
-    "Fazenda": NaN
+    "Fazenda": null,
+    "Unnamed: 17": null
   },
   {
     "ID": "3556274",
@@ -10144,7 +10681,8 @@ const DOSAGEM_SULCO_DATA = [
     "Responsável": "MARCELO DE OLIVEIRA JUNIOR",
     "Produto": "Adubo",
     "Dosagem de Produto - Sulcação": "3,495",
-    "Fazenda": NaN
+    "Fazenda": null,
+    "Unnamed: 17": null
   },
   {
     "ID": "3556273",
@@ -10163,7 +10701,8 @@ const DOSAGEM_SULCO_DATA = [
     "Responsável": "MARCELO DE OLIVEIRA JUNIOR",
     "Produto": "Adubo",
     "Dosagem de Produto - Sulcação": "3,45",
-    "Fazenda": NaN
+    "Fazenda": null,
+    "Unnamed: 17": null
   },
   {
     "ID": "3555649",
@@ -10182,7 +10721,8 @@ const DOSAGEM_SULCO_DATA = [
     "Responsável": "VITOR AMORIM RAMOS ",
     "Produto": "Adubo",
     "Dosagem de Produto - Sulcação": "3,265",
-    "Fazenda": NaN
+    "Fazenda": null,
+    "Unnamed: 17": null
   },
   {
     "ID": "3555648",
@@ -10201,7 +10741,8 @@ const DOSAGEM_SULCO_DATA = [
     "Responsável": "VITOR AMORIM RAMOS ",
     "Produto": "Adubo",
     "Dosagem de Produto - Sulcação": "3,305",
-    "Fazenda": NaN
+    "Fazenda": null,
+    "Unnamed: 17": null
   },
   {
     "ID": "3555647",
@@ -10220,7 +10761,8 @@ const DOSAGEM_SULCO_DATA = [
     "Responsável": "VITOR AMORIM RAMOS ",
     "Produto": "Adubo",
     "Dosagem de Produto - Sulcação": "3,235",
-    "Fazenda": NaN
+    "Fazenda": null,
+    "Unnamed: 17": null
   },
   {
     "ID": "3555646",
@@ -10239,7 +10781,8 @@ const DOSAGEM_SULCO_DATA = [
     "Responsável": "VITOR AMORIM RAMOS ",
     "Produto": "Adubo",
     "Dosagem de Produto - Sulcação": "3,3",
-    "Fazenda": NaN
+    "Fazenda": null,
+    "Unnamed: 17": null
   },
   {
     "ID": "3556364",
@@ -10258,7 +10801,8 @@ const DOSAGEM_SULCO_DATA = [
     "Responsável": "REGINALDO DA SILVA GOMES ",
     "Produto": "Adubo",
     "Dosagem de Produto - Sulcação": "3,425",
-    "Fazenda": NaN
+    "Fazenda": null,
+    "Unnamed: 17": null
   },
   {
     "ID": "3556365",
@@ -10277,7 +10821,8 @@ const DOSAGEM_SULCO_DATA = [
     "Responsável": "REGINALDO DA SILVA GOMES ",
     "Produto": "Adubo",
     "Dosagem de Produto - Sulcação": "3,535",
-    "Fazenda": NaN
+    "Fazenda": null,
+    "Unnamed: 17": null
   },
   {
     "ID": "3556268",
@@ -10296,7 +10841,8 @@ const DOSAGEM_SULCO_DATA = [
     "Responsável": "MARCELO DE OLIVEIRA JUNIOR",
     "Produto": "Adubo",
     "Dosagem de Produto - Sulcação": "3,535",
-    "Fazenda": NaN
+    "Fazenda": null,
+    "Unnamed: 17": null
   },
   {
     "ID": "3556362",
@@ -10315,7 +10861,8 @@ const DOSAGEM_SULCO_DATA = [
     "Responsável": "REGINALDO DA SILVA GOMES ",
     "Produto": "Adubo",
     "Dosagem de Produto - Sulcação": "3,38",
-    "Fazenda": NaN
+    "Fazenda": null,
+    "Unnamed: 17": null
   },
   {
     "ID": "3556266",
@@ -10334,7 +10881,8 @@ const DOSAGEM_SULCO_DATA = [
     "Responsável": "MARCELO DE OLIVEIRA JUNIOR",
     "Produto": "Adubo",
     "Dosagem de Produto - Sulcação": "3,425",
-    "Fazenda": NaN
+    "Fazenda": null,
+    "Unnamed: 17": null
   },
   {
     "ID": "3556363",
@@ -10353,7 +10901,8 @@ const DOSAGEM_SULCO_DATA = [
     "Responsável": "REGINALDO DA SILVA GOMES ",
     "Produto": "Adubo",
     "Dosagem de Produto - Sulcação": "3,455",
-    "Fazenda": NaN
+    "Fazenda": null,
+    "Unnamed: 17": null
   },
   {
     "ID": "3556265",
@@ -10372,7 +10921,8 @@ const DOSAGEM_SULCO_DATA = [
     "Responsável": "MARCELO DE OLIVEIRA JUNIOR",
     "Produto": "Adubo",
     "Dosagem de Produto - Sulcação": "3,455",
-    "Fazenda": NaN
+    "Fazenda": null,
+    "Unnamed: 17": null
   },
   {
     "ID": "3556264",
@@ -10391,7 +10941,8 @@ const DOSAGEM_SULCO_DATA = [
     "Responsável": "MARCELO DE OLIVEIRA JUNIOR",
     "Produto": "Adubo",
     "Dosagem de Produto - Sulcação": "3,38",
-    "Fazenda": NaN
+    "Fazenda": null,
+    "Unnamed: 17": null
   },
   {
     "ID": "3556067",
@@ -10410,7 +10961,8 @@ const DOSAGEM_SULCO_DATA = [
     "Responsável": "MABILA HELEN D FIGUEIREDO",
     "Produto": "Adubo",
     "Dosagem de Produto - Sulcação": "3,375",
-    "Fazenda": NaN
+    "Fazenda": null,
+    "Unnamed: 17": null
   },
   {
     "ID": "3556068",
@@ -10429,7 +10981,8 @@ const DOSAGEM_SULCO_DATA = [
     "Responsável": "MABILA HELEN D FIGUEIREDO",
     "Produto": "Adubo",
     "Dosagem de Produto - Sulcação": "3,435",
-    "Fazenda": NaN
+    "Fazenda": null,
+    "Unnamed: 17": null
   },
   {
     "ID": "3555923",
@@ -10448,7 +11001,8 @@ const DOSAGEM_SULCO_DATA = [
     "Responsável": "GABRIEL HENRIQUE MARTINS PEREIRA",
     "Produto": "Adubo",
     "Dosagem de Produto - Sulcação": "4,515",
-    "Fazenda": NaN
+    "Fazenda": null,
+    "Unnamed: 17": null
   },
   {
     "ID": "3555922",
@@ -10467,7 +11021,8 @@ const DOSAGEM_SULCO_DATA = [
     "Responsável": "GABRIEL HENRIQUE MARTINS PEREIRA",
     "Produto": "Adubo",
     "Dosagem de Produto - Sulcação": "4,495",
-    "Fazenda": NaN
+    "Fazenda": null,
+    "Unnamed: 17": null
   },
   {
     "ID": "3553684",
@@ -10486,7 +11041,8 @@ const DOSAGEM_SULCO_DATA = [
     "Responsável": "MARCELO DE OLIVEIRA JUNIOR",
     "Produto": "Adubo",
     "Dosagem de Produto - Sulcação": "3,47",
-    "Fazenda": NaN
+    "Fazenda": null,
+    "Unnamed: 17": null
   },
   {
     "ID": "3553683",
@@ -10505,7 +11061,8 @@ const DOSAGEM_SULCO_DATA = [
     "Responsável": "MARCELO DE OLIVEIRA JUNIOR",
     "Produto": "Adubo",
     "Dosagem de Produto - Sulcação": "3,49",
-    "Fazenda": NaN
+    "Fazenda": null,
+    "Unnamed: 17": null
   },
   {
     "ID": "3553273",
@@ -10524,7 +11081,8 @@ const DOSAGEM_SULCO_DATA = [
     "Responsável": "VITOR AMORIM RAMOS ",
     "Produto": "Adubo",
     "Dosagem de Produto - Sulcação": "3,905",
-    "Fazenda": NaN
+    "Fazenda": null,
+    "Unnamed: 17": null
   },
   {
     "ID": "3553272",
@@ -10543,7 +11101,8 @@ const DOSAGEM_SULCO_DATA = [
     "Responsável": "VITOR AMORIM RAMOS ",
     "Produto": "Adubo",
     "Dosagem de Produto - Sulcação": "3,865",
-    "Fazenda": NaN
+    "Fazenda": null,
+    "Unnamed: 17": null
   },
   {
     "ID": "3553270",
@@ -10562,7 +11121,8 @@ const DOSAGEM_SULCO_DATA = [
     "Responsável": "VITOR AMORIM RAMOS ",
     "Produto": "Adubo",
     "Dosagem de Produto - Sulcação": "3,97",
-    "Fazenda": NaN
+    "Fazenda": null,
+    "Unnamed: 17": null
   },
   {
     "ID": "3553271",
@@ -10581,7 +11141,8 @@ const DOSAGEM_SULCO_DATA = [
     "Responsável": "VITOR AMORIM RAMOS ",
     "Produto": "Adubo",
     "Dosagem de Produto - Sulcação": "3,885",
-    "Fazenda": NaN
+    "Fazenda": null,
+    "Unnamed: 17": null
   },
   {
     "ID": "3553682",
@@ -10600,7 +11161,8 @@ const DOSAGEM_SULCO_DATA = [
     "Responsável": "MARCELO DE OLIVEIRA JUNIOR",
     "Produto": "Adubo",
     "Dosagem de Produto - Sulcação": "3,45",
-    "Fazenda": NaN
+    "Fazenda": null,
+    "Unnamed: 17": null
   },
   {
     "ID": "3553681",
@@ -10619,7 +11181,8 @@ const DOSAGEM_SULCO_DATA = [
     "Responsável": "MARCELO DE OLIVEIRA JUNIOR",
     "Produto": "Adubo",
     "Dosagem de Produto - Sulcação": "3,395",
-    "Fazenda": NaN
+    "Fazenda": null,
+    "Unnamed: 17": null
   },
   {
     "ID": "3553049",
@@ -10638,7 +11201,8 @@ const DOSAGEM_SULCO_DATA = [
     "Responsável": "GABRIEL HENRIQUE MARTINS PEREIRA",
     "Produto": "Adubo",
     "Dosagem de Produto - Sulcação": "4,44",
-    "Fazenda": NaN
+    "Fazenda": null,
+    "Unnamed: 17": null
   },
   {
     "ID": "3553048",
@@ -10657,7 +11221,8 @@ const DOSAGEM_SULCO_DATA = [
     "Responsável": "GABRIEL HENRIQUE MARTINS PEREIRA",
     "Produto": "Adubo",
     "Dosagem de Produto - Sulcação": "4,46",
-    "Fazenda": NaN
+    "Fazenda": null,
+    "Unnamed: 17": null
   },
   {
     "ID": "3553544",
@@ -10676,7 +11241,8 @@ const DOSAGEM_SULCO_DATA = [
     "Responsável": "MABILA HELEN D FIGUEIREDO",
     "Produto": "Adubo",
     "Dosagem de Produto - Sulcação": "3,535",
-    "Fazenda": NaN
+    "Fazenda": null,
+    "Unnamed: 17": null
   },
   {
     "ID": "3553047",
@@ -10695,7 +11261,8 @@ const DOSAGEM_SULCO_DATA = [
     "Responsável": "GABRIEL HENRIQUE MARTINS PEREIRA",
     "Produto": "Adubo",
     "Dosagem de Produto - Sulcação": "4,505",
-    "Fazenda": NaN
+    "Fazenda": null,
+    "Unnamed: 17": null
   },
   {
     "ID": "3553543",
@@ -10714,7 +11281,8 @@ const DOSAGEM_SULCO_DATA = [
     "Responsável": "MABILA HELEN D FIGUEIREDO",
     "Produto": "Adubo",
     "Dosagem de Produto - Sulcação": "3,4",
-    "Fazenda": NaN
+    "Fazenda": null,
+    "Unnamed: 17": null
   },
   {
     "ID": "3553046",
@@ -10733,7 +11301,8 @@ const DOSAGEM_SULCO_DATA = [
     "Responsável": "GABRIEL HENRIQUE MARTINS PEREIRA",
     "Produto": "Adubo",
     "Dosagem de Produto - Sulcação": "4,54",
-    "Fazenda": NaN
+    "Fazenda": null,
+    "Unnamed: 17": null
   },
   {
     "ID": "3553756",
@@ -10752,7 +11321,8 @@ const DOSAGEM_SULCO_DATA = [
     "Responsável": "FERNANDA DE SOUZA ",
     "Produto": "Adubo",
     "Dosagem de Produto - Sulcação": "3,395",
-    "Fazenda": NaN
+    "Fazenda": null,
+    "Unnamed: 17": null
   },
   {
     "ID": "3553755",
@@ -10771,7 +11341,8 @@ const DOSAGEM_SULCO_DATA = [
     "Responsável": "FERNANDA DE SOUZA ",
     "Produto": "Adubo",
     "Dosagem de Produto - Sulcação": "3,48",
-    "Fazenda": NaN
+    "Fazenda": null,
+    "Unnamed: 17": null
   },
   {
     "ID": "3553542",
@@ -10790,7 +11361,8 @@ const DOSAGEM_SULCO_DATA = [
     "Responsável": "MABILA HELEN D FIGUEIREDO",
     "Produto": "Adubo",
     "Dosagem de Produto - Sulcação": "3,53",
-    "Fazenda": NaN
+    "Fazenda": null,
+    "Unnamed: 17": null
   },
   {
     "ID": "3553541",
@@ -10809,7 +11381,8 @@ const DOSAGEM_SULCO_DATA = [
     "Responsável": "MABILA HELEN D FIGUEIREDO",
     "Produto": "Adubo",
     "Dosagem de Produto - Sulcação": "3,545",
-    "Fazenda": NaN
+    "Fazenda": null,
+    "Unnamed: 17": null
   },
   {
     "ID": "3551343",
@@ -10828,7 +11401,8 @@ const DOSAGEM_SULCO_DATA = [
     "Responsável": "MARCELO DE OLIVEIRA JUNIOR",
     "Produto": "Adubo",
     "Dosagem de Produto - Sulcação": "2,33",
-    "Fazenda": NaN
+    "Fazenda": null,
+    "Unnamed: 17": null
   },
   {
     "ID": "3551340",
@@ -10847,7 +11421,8 @@ const DOSAGEM_SULCO_DATA = [
     "Responsável": "MARCELO DE OLIVEIRA JUNIOR",
     "Produto": "Adubo",
     "Dosagem de Produto - Sulcação": "2,3",
-    "Fazenda": NaN
+    "Fazenda": null,
+    "Unnamed: 17": null
   },
   {
     "ID": "3551384",
@@ -10866,7 +11441,8 @@ const DOSAGEM_SULCO_DATA = [
     "Responsável": "FERNANDA DE SOUZA ",
     "Produto": "Adubo",
     "Dosagem de Produto - Sulcação": "3,44",
-    "Fazenda": NaN
+    "Fazenda": null,
+    "Unnamed: 17": null
   },
   {
     "ID": "3551386",
@@ -10885,7 +11461,8 @@ const DOSAGEM_SULCO_DATA = [
     "Responsável": "FERNANDA DE SOUZA ",
     "Produto": "Adubo",
     "Dosagem de Produto - Sulcação": "3,395",
-    "Fazenda": NaN
+    "Fazenda": null,
+    "Unnamed: 17": null
   },
   {
     "ID": "3551158",
@@ -10904,7 +11481,8 @@ const DOSAGEM_SULCO_DATA = [
     "Responsável": "MABILA HELEN D FIGUEIREDO",
     "Produto": "Adubo",
     "Dosagem de Produto - Sulcação": "4,365",
-    "Fazenda": NaN
+    "Fazenda": null,
+    "Unnamed: 17": null
   },
   {
     "ID": "3551157",
@@ -10923,7 +11501,8 @@ const DOSAGEM_SULCO_DATA = [
     "Responsável": "MABILA HELEN D FIGUEIREDO",
     "Produto": "Adubo",
     "Dosagem de Produto - Sulcação": "3,375",
-    "Fazenda": NaN
+    "Fazenda": null,
+    "Unnamed: 17": null
   },
   {
     "ID": "3550942",
@@ -10942,7 +11521,8 @@ const DOSAGEM_SULCO_DATA = [
     "Responsável": "GABRIEL HENRIQUE MARTINS PEREIRA",
     "Produto": "Adubo",
     "Dosagem de Produto - Sulcação": "3,03",
-    "Fazenda": NaN
+    "Fazenda": null,
+    "Unnamed: 17": null
   },
   {
     "ID": "3550941",
@@ -10961,7 +11541,8 @@ const DOSAGEM_SULCO_DATA = [
     "Responsável": "GABRIEL HENRIQUE MARTINS PEREIRA",
     "Produto": "Adubo",
     "Dosagem de Produto - Sulcação": "3,075",
-    "Fazenda": NaN
+    "Fazenda": null,
+    "Unnamed: 17": null
   },
   {
     "ID": "3551154",
@@ -10980,7 +11561,8 @@ const DOSAGEM_SULCO_DATA = [
     "Responsável": "MABILA HELEN D FIGUEIREDO",
     "Produto": "Adubo",
     "Dosagem de Produto - Sulcação": "3,275",
-    "Fazenda": NaN
+    "Fazenda": null,
+    "Unnamed: 17": null
   },
   {
     "ID": "3551153",
@@ -10999,7 +11581,8 @@ const DOSAGEM_SULCO_DATA = [
     "Responsável": "MABILA HELEN D FIGUEIREDO",
     "Produto": "Adubo",
     "Dosagem de Produto - Sulcação": "3,31",
-    "Fazenda": NaN
+    "Fazenda": null,
+    "Unnamed: 17": null
   },
   {
     "ID": "3551213",
@@ -11018,7 +11601,8 @@ const DOSAGEM_SULCO_DATA = [
     "Responsável": "Leonardo Ribeiro Teixeira da Silva",
     "Produto": "Adubo",
     "Dosagem de Produto - Sulcação": "2,9",
-    "Fazenda": NaN
+    "Fazenda": null,
+    "Unnamed: 17": null
   },
   {
     "ID": "3551212",
@@ -11037,7 +11621,8 @@ const DOSAGEM_SULCO_DATA = [
     "Responsável": "Leonardo Ribeiro Teixeira da Silva",
     "Produto": "Adubo",
     "Dosagem de Produto - Sulcação": "2,99",
-    "Fazenda": NaN
+    "Fazenda": null,
+    "Unnamed: 17": null
   },
   {
     "ID": "3550837",
@@ -11056,7 +11641,8 @@ const DOSAGEM_SULCO_DATA = [
     "Responsável": "VITOR AMORIM RAMOS ",
     "Produto": "Adubo",
     "Dosagem de Produto - Sulcação": "3,44",
-    "Fazenda": NaN
+    "Fazenda": null,
+    "Unnamed: 17": null
   },
   {
     "ID": "3550836",
@@ -11075,7 +11661,8 @@ const DOSAGEM_SULCO_DATA = [
     "Responsável": "VITOR AMORIM RAMOS ",
     "Produto": "Adubo",
     "Dosagem de Produto - Sulcação": "3,49",
-    "Fazenda": NaN
+    "Fazenda": null,
+    "Unnamed: 17": null
   },
   {
     "ID": "3550835",
@@ -11094,7 +11681,8 @@ const DOSAGEM_SULCO_DATA = [
     "Responsável": "VITOR AMORIM RAMOS ",
     "Produto": "Adubo",
     "Dosagem de Produto - Sulcação": "3,23",
-    "Fazenda": NaN
+    "Fazenda": null,
+    "Unnamed: 17": null
   },
   {
     "ID": "3550834",
@@ -11113,7 +11701,8 @@ const DOSAGEM_SULCO_DATA = [
     "Responsável": "VITOR AMORIM RAMOS ",
     "Produto": "Adubo",
     "Dosagem de Produto - Sulcação": "3,505",
-    "Fazenda": NaN
+    "Fazenda": null,
+    "Unnamed: 17": null
   },
   {
     "ID": "3549642",
@@ -11132,7 +11721,8 @@ const DOSAGEM_SULCO_DATA = [
     "Responsável": "MICHELI DE SOUZA SANTOS  ",
     "Produto": "Adubo",
     "Dosagem de Produto - Sulcação": "3,285",
-    "Fazenda": NaN
+    "Fazenda": null,
+    "Unnamed: 17": null
   },
   {
     "ID": "3549641",
@@ -11151,7 +11741,8 @@ const DOSAGEM_SULCO_DATA = [
     "Responsável": "MICHELI DE SOUZA SANTOS  ",
     "Produto": "Adubo",
     "Dosagem de Produto - Sulcação": "3,395",
-    "Fazenda": NaN
+    "Fazenda": null,
+    "Unnamed: 17": null
   },
   {
     "ID": "3549601",
@@ -11170,7 +11761,8 @@ const DOSAGEM_SULCO_DATA = [
     "Responsável": "VITOR AMORIM RAMOS ",
     "Produto": "Adubo",
     "Dosagem de Produto - Sulcação": "3,245",
-    "Fazenda": NaN
+    "Fazenda": null,
+    "Unnamed: 17": null
   },
   {
     "ID": "3549600",
@@ -11189,7 +11781,8 @@ const DOSAGEM_SULCO_DATA = [
     "Responsável": "VITOR AMORIM RAMOS ",
     "Produto": "Adubo",
     "Dosagem de Produto - Sulcação": "3,255",
-    "Fazenda": NaN
+    "Fazenda": null,
+    "Unnamed: 17": null
   },
   {
     "ID": "3549308",
@@ -11208,7 +11801,8 @@ const DOSAGEM_SULCO_DATA = [
     "Responsável": "FERNANDA DE SOUZA ",
     "Produto": "Adubo",
     "Dosagem de Produto - Sulcação": "3,45",
-    "Fazenda": NaN
+    "Fazenda": null,
+    "Unnamed: 17": null
   },
   {
     "ID": "3549309",
@@ -11227,7 +11821,8 @@ const DOSAGEM_SULCO_DATA = [
     "Responsável": "FERNANDA DE SOUZA ",
     "Produto": "Adubo",
     "Dosagem de Produto - Sulcação": "3,48",
-    "Fazenda": NaN
+    "Fazenda": null,
+    "Unnamed: 17": null
   },
   {
     "ID": "3549244",
@@ -11246,7 +11841,8 @@ const DOSAGEM_SULCO_DATA = [
     "Responsável": "GABRIEL HENRIQUE MARTINS PEREIRA",
     "Produto": "Adubo",
     "Dosagem de Produto - Sulcação": "3,03",
-    "Fazenda": NaN
+    "Fazenda": null,
+    "Unnamed: 17": null
   },
   {
     "ID": "3549243",
@@ -11265,7 +11861,8 @@ const DOSAGEM_SULCO_DATA = [
     "Responsável": "GABRIEL HENRIQUE MARTINS PEREIRA",
     "Produto": "Adubo",
     "Dosagem de Produto - Sulcação": "3,105",
-    "Fazenda": NaN
+    "Fazenda": null,
+    "Unnamed: 17": null
   },
   {
     "ID": "3549242",
@@ -11284,7 +11881,8 @@ const DOSAGEM_SULCO_DATA = [
     "Responsável": "GABRIEL HENRIQUE MARTINS PEREIRA",
     "Produto": "Adubo",
     "Dosagem de Produto - Sulcação": "3,175",
-    "Fazenda": NaN
+    "Fazenda": null,
+    "Unnamed: 17": null
   },
   {
     "ID": "3549241",
@@ -11303,7 +11901,8 @@ const DOSAGEM_SULCO_DATA = [
     "Responsável": "GABRIEL HENRIQUE MARTINS PEREIRA",
     "Produto": "Adubo",
     "Dosagem de Produto - Sulcação": "3,09",
-    "Fazenda": NaN
+    "Fazenda": null,
+    "Unnamed: 17": null
   },
   {
     "ID": "3549194",
@@ -11322,7 +11921,8 @@ const DOSAGEM_SULCO_DATA = [
     "Responsável": "Leonardo Ribeiro Teixeira da Silva",
     "Produto": "Adubo",
     "Dosagem de Produto - Sulcação": "2,98",
-    "Fazenda": NaN
+    "Fazenda": null,
+    "Unnamed: 17": null
   },
   {
     "ID": "3549193",
@@ -11341,7 +11941,8 @@ const DOSAGEM_SULCO_DATA = [
     "Responsável": "Leonardo Ribeiro Teixeira da Silva",
     "Produto": "Adubo",
     "Dosagem de Produto - Sulcação": "2,91",
-    "Fazenda": NaN
+    "Fazenda": null,
+    "Unnamed: 17": null
   },
   {
     "ID": "3549537",
@@ -11360,7 +11961,8 @@ const DOSAGEM_SULCO_DATA = [
     "Responsável": "MARCELO DE OLIVEIRA JUNIOR",
     "Produto": "Adubo",
     "Dosagem de Produto - Sulcação": "2,25",
-    "Fazenda": NaN
+    "Fazenda": null,
+    "Unnamed: 17": null
   },
   {
     "ID": "3549536",
@@ -11379,7 +11981,8 @@ const DOSAGEM_SULCO_DATA = [
     "Responsável": "MARCELO DE OLIVEIRA JUNIOR",
     "Produto": "Adubo",
     "Dosagem de Produto - Sulcação": "2,33",
-    "Fazenda": NaN
+    "Fazenda": null,
+    "Unnamed: 17": null
   },
   {
     "ID": "3549535",
@@ -11398,7 +12001,8 @@ const DOSAGEM_SULCO_DATA = [
     "Responsável": "MARCELO DE OLIVEIRA JUNIOR",
     "Produto": "Adubo",
     "Dosagem de Produto - Sulcação": "2,24",
-    "Fazenda": NaN
+    "Fazenda": null,
+    "Unnamed: 17": null
   },
   {
     "ID": "3549534",
@@ -11417,7 +12021,8 @@ const DOSAGEM_SULCO_DATA = [
     "Responsável": "MARCELO DE OLIVEIRA JUNIOR",
     "Produto": "Adubo",
     "Dosagem de Produto - Sulcação": "2,275",
-    "Fazenda": NaN
+    "Fazenda": null,
+    "Unnamed: 17": null
   },
   {
     "ID": "3548154",
@@ -11436,7 +12041,8 @@ const DOSAGEM_SULCO_DATA = [
     "Responsável": "MARCELO DE OLIVEIRA JUNIOR",
     "Produto": "Adubo",
     "Dosagem de Produto - Sulcação": "2,29",
-    "Fazenda": NaN
+    "Fazenda": null,
+    "Unnamed: 17": null
   },
   {
     "ID": "3548153",
@@ -11455,7 +12061,8 @@ const DOSAGEM_SULCO_DATA = [
     "Responsável": "MARCELO DE OLIVEIRA JUNIOR",
     "Produto": "Adubo",
     "Dosagem de Produto - Sulcação": "2,26",
-    "Fazenda": NaN
+    "Fazenda": null,
+    "Unnamed: 17": null
   },
   {
     "ID": "3547566",
@@ -11474,7 +12081,8 @@ const DOSAGEM_SULCO_DATA = [
     "Responsável": "MABILA HELEN D FIGUEIREDO",
     "Produto": "Adubo",
     "Dosagem de Produto - Sulcação": "3,33",
-    "Fazenda": NaN
+    "Fazenda": null,
+    "Unnamed: 17": null
   },
   {
     "ID": "3547565",
@@ -11493,7 +12101,8 @@ const DOSAGEM_SULCO_DATA = [
     "Responsável": "MABILA HELEN D FIGUEIREDO",
     "Produto": "Adubo",
     "Dosagem de Produto - Sulcação": "3,29",
-    "Fazenda": NaN
+    "Fazenda": null,
+    "Unnamed: 17": null
   },
   {
     "ID": "3547169",
@@ -11512,7 +12121,8 @@ const DOSAGEM_SULCO_DATA = [
     "Responsável": "VITOR AMORIM RAMOS ",
     "Produto": "Adubo",
     "Dosagem de Produto - Sulcação": "4,685",
-    "Fazenda": NaN
+    "Fazenda": null,
+    "Unnamed: 17": null
   },
   {
     "ID": "3547168",
@@ -11531,7 +12141,8 @@ const DOSAGEM_SULCO_DATA = [
     "Responsável": "VITOR AMORIM RAMOS ",
     "Produto": "Adubo",
     "Dosagem de Produto - Sulcação": "4,56",
-    "Fazenda": NaN
+    "Fazenda": null,
+    "Unnamed: 17": null
   },
   {
     "ID": "3547167",
@@ -11550,7 +12161,8 @@ const DOSAGEM_SULCO_DATA = [
     "Responsável": "VITOR AMORIM RAMOS ",
     "Produto": "Adubo",
     "Dosagem de Produto - Sulcação": "4,66",
-    "Fazenda": NaN
+    "Fazenda": null,
+    "Unnamed: 17": null
   },
   {
     "ID": "3547166",
@@ -11569,7 +12181,8 @@ const DOSAGEM_SULCO_DATA = [
     "Responsável": "VITOR AMORIM RAMOS ",
     "Produto": "Adubo",
     "Dosagem de Produto - Sulcação": "4,6",
-    "Fazenda": NaN
+    "Fazenda": null,
+    "Unnamed: 17": null
   },
   {
     "ID": "3547615",
@@ -11588,7 +12201,8 @@ const DOSAGEM_SULCO_DATA = [
     "Responsável": "REGINALDO DA SILVA GOMES ",
     "Produto": "Adubo",
     "Dosagem de Produto - Sulcação": "3,505",
-    "Fazenda": NaN
+    "Fazenda": null,
+    "Unnamed: 17": null
   },
   {
     "ID": "3547614",
@@ -11607,7 +12221,8 @@ const DOSAGEM_SULCO_DATA = [
     "Responsável": "REGINALDO DA SILVA GOMES ",
     "Produto": "Adubo",
     "Dosagem de Produto - Sulcação": "3,415",
-    "Fazenda": NaN
+    "Fazenda": null,
+    "Unnamed: 17": null
   },
   {
     "ID": "3547079",
@@ -11626,7 +12241,8 @@ const DOSAGEM_SULCO_DATA = [
     "Responsável": " Antonio ",
     "Produto": "Adubo",
     "Dosagem de Produto - Sulcação": "3,005",
-    "Fazenda": NaN
+    "Fazenda": null,
+    "Unnamed: 17": null
   },
   {
     "ID": "3547078",
@@ -11645,7 +12261,8 @@ const DOSAGEM_SULCO_DATA = [
     "Responsável": " Antonio ",
     "Produto": "Adubo",
     "Dosagem de Produto - Sulcação": "3,005",
-    "Fazenda": NaN
+    "Fazenda": null,
+    "Unnamed: 17": null
   },
   {
     "ID": "3547077",
@@ -11664,7 +12281,8 @@ const DOSAGEM_SULCO_DATA = [
     "Responsável": " Antonio ",
     "Produto": "Adubo",
     "Dosagem de Produto - Sulcação": "3,09",
-    "Fazenda": NaN
+    "Fazenda": null,
+    "Unnamed: 17": null
   },
   {
     "ID": "3547074",
@@ -11683,7 +12301,8 @@ const DOSAGEM_SULCO_DATA = [
     "Responsável": " Antonio ",
     "Produto": "Adubo",
     "Dosagem de Produto - Sulcação": "2,91",
-    "Fazenda": NaN
+    "Fazenda": null,
+    "Unnamed: 17": null
   },
   {
     "ID": "3546987",
@@ -11702,7 +12321,8 @@ const DOSAGEM_SULCO_DATA = [
     "Responsável": "FERNANDA DE SOUZA ",
     "Produto": "Adubo",
     "Dosagem de Produto - Sulcação": "3,415",
-    "Fazenda": NaN
+    "Fazenda": null,
+    "Unnamed: 17": null
   },
   {
     "ID": "3546986",
@@ -11721,7 +12341,8 @@ const DOSAGEM_SULCO_DATA = [
     "Responsável": "FERNANDA DE SOUZA ",
     "Produto": "Adubo",
     "Dosagem de Produto - Sulcação": "3,505",
-    "Fazenda": NaN
+    "Fazenda": null,
+    "Unnamed: 17": null
   },
   {
     "ID": "3547282",
@@ -11740,7 +12361,8 @@ const DOSAGEM_SULCO_DATA = [
     "Responsável": "GABRIEL HENRIQUE MARTINS PEREIRA",
     "Produto": "Adubo",
     "Dosagem de Produto - Sulcação": "3,005",
-    "Fazenda": NaN
+    "Fazenda": null,
+    "Unnamed: 17": null
   },
   {
     "ID": "3547281",
@@ -11759,7 +12381,8 @@ const DOSAGEM_SULCO_DATA = [
     "Responsável": "GABRIEL HENRIQUE MARTINS PEREIRA",
     "Produto": "Adubo",
     "Dosagem de Produto - Sulcação": "3,01",
-    "Fazenda": NaN
+    "Fazenda": null,
+    "Unnamed: 17": null
   },
   {
     "ID": "3544803",
@@ -11778,7 +12401,8 @@ const DOSAGEM_SULCO_DATA = [
     "Responsável": "MICHELI DE SOUZA SANTOS  ",
     "Produto": "Adubo",
     "Dosagem de Produto - Sulcação": "3,26",
-    "Fazenda": NaN
+    "Fazenda": null,
+    "Unnamed: 17": null
   },
   {
     "ID": "3544802",
@@ -11797,7 +12421,8 @@ const DOSAGEM_SULCO_DATA = [
     "Responsável": "MICHELI DE SOUZA SANTOS  ",
     "Produto": "Adubo",
     "Dosagem de Produto - Sulcação": "3,215",
-    "Fazenda": NaN
+    "Fazenda": null,
+    "Unnamed: 17": null
   },
   {
     "ID": "3545028",
@@ -11816,7 +12441,8 @@ const DOSAGEM_SULCO_DATA = [
     "Responsável": "VITOR AMORIM RAMOS ",
     "Produto": "Adubo",
     "Dosagem de Produto - Sulcação": "4,73",
-    "Fazenda": NaN
+    "Fazenda": null,
+    "Unnamed: 17": null
   },
   {
     "ID": "3545027",
@@ -11835,7 +12461,8 @@ const DOSAGEM_SULCO_DATA = [
     "Responsável": "VITOR AMORIM RAMOS ",
     "Produto": "Adubo",
     "Dosagem de Produto - Sulcação": "4,475",
-    "Fazenda": NaN
+    "Fazenda": null,
+    "Unnamed: 17": null
   },
   {
     "ID": "3545025",
@@ -11854,7 +12481,8 @@ const DOSAGEM_SULCO_DATA = [
     "Responsável": "VITOR AMORIM RAMOS ",
     "Produto": "Adubo",
     "Dosagem de Produto - Sulcação": "4,6",
-    "Fazenda": NaN
+    "Fazenda": null,
+    "Unnamed: 17": null
   },
   {
     "ID": "3545026",
@@ -11873,7 +12501,8 @@ const DOSAGEM_SULCO_DATA = [
     "Responsável": "VITOR AMORIM RAMOS ",
     "Produto": "Adubo",
     "Dosagem de Produto - Sulcação": "4,68",
-    "Fazenda": NaN
+    "Fazenda": null,
+    "Unnamed: 17": null
   },
   {
     "ID": "3544438",
@@ -11892,7 +12521,8 @@ const DOSAGEM_SULCO_DATA = [
     "Responsável": "FERNANDA DE SOUZA ",
     "Produto": "Adubo",
     "Dosagem de Produto - Sulcação": "3,37",
-    "Fazenda": NaN
+    "Fazenda": null,
+    "Unnamed: 17": null
   },
   {
     "ID": "3544437",
@@ -11911,7 +12541,8 @@ const DOSAGEM_SULCO_DATA = [
     "Responsável": "FERNANDA DE SOUZA ",
     "Produto": "Adubo",
     "Dosagem de Produto - Sulcação": "3,365",
-    "Fazenda": NaN
+    "Fazenda": null,
+    "Unnamed: 17": null
   },
   {
     "ID": "3544309",
@@ -11930,7 +12561,8 @@ const DOSAGEM_SULCO_DATA = [
     "Responsável": "REGINALDO DA SILVA GOMES ",
     "Produto": "Adubo",
     "Dosagem de Produto - Sulcação": "3,625",
-    "Fazenda": NaN
+    "Fazenda": null,
+    "Unnamed: 17": null
   },
   {
     "ID": "3544308",
@@ -11949,7 +12581,8 @@ const DOSAGEM_SULCO_DATA = [
     "Responsável": "REGINALDO DA SILVA GOMES ",
     "Produto": "Adubo",
     "Dosagem de Produto - Sulcação": "3,73",
-    "Fazenda": NaN
+    "Fazenda": null,
+    "Unnamed: 17": null
   },
   {
     "ID": "3544232",
@@ -11968,7 +12601,8 @@ const DOSAGEM_SULCO_DATA = [
     "Responsável": "NILDA CLAUDINO [2510716]",
     "Produto": "Adubo",
     "Dosagem de Produto - Sulcação": "3,73",
-    "Fazenda": NaN
+    "Fazenda": null,
+    "Unnamed: 17": null
   },
   {
     "ID": "3544231",
@@ -11987,7 +12621,8 @@ const DOSAGEM_SULCO_DATA = [
     "Responsável": "NILDA CLAUDINO [2510716]",
     "Produto": "Adubo",
     "Dosagem de Produto - Sulcação": "3,625",
-    "Fazenda": NaN
+    "Fazenda": null,
+    "Unnamed: 17": null
   },
   {
     "ID": "3544224",
@@ -12006,7 +12641,8 @@ const DOSAGEM_SULCO_DATA = [
     "Responsável": "NILDA CLAUDINO [2510716]",
     "Produto": "Adubo",
     "Dosagem de Produto - Sulcação": "3,74",
-    "Fazenda": NaN
+    "Fazenda": null,
+    "Unnamed: 17": null
   },
   {
     "ID": "3544302",
@@ -12025,7 +12661,8 @@ const DOSAGEM_SULCO_DATA = [
     "Responsável": "REGINALDO DA SILVA GOMES ",
     "Produto": "Adubo",
     "Dosagem de Produto - Sulcação": "3,74",
-    "Fazenda": NaN
+    "Fazenda": null,
+    "Unnamed: 17": null
   },
   {
     "ID": "3544301",
@@ -12044,7 +12681,8 @@ const DOSAGEM_SULCO_DATA = [
     "Responsável": "REGINALDO DA SILVA GOMES ",
     "Produto": "Adubo",
     "Dosagem de Produto - Sulcação": "3,66",
-    "Fazenda": NaN
+    "Fazenda": null,
+    "Unnamed: 17": null
   },
   {
     "ID": "3544223",
@@ -12063,7 +12701,8 @@ const DOSAGEM_SULCO_DATA = [
     "Responsável": "NILDA CLAUDINO [2510716]",
     "Produto": "Adubo",
     "Dosagem de Produto - Sulcação": "3,66",
-    "Fazenda": NaN
+    "Fazenda": null,
+    "Unnamed: 17": null
   },
   {
     "ID": "3544123",
@@ -12082,7 +12721,8 @@ const DOSAGEM_SULCO_DATA = [
     "Responsável": "GABRIEL HENRIQUE MARTINS PEREIRA",
     "Produto": "Adubo",
     "Dosagem de Produto - Sulcação": "3,165",
-    "Fazenda": NaN
+    "Fazenda": null,
+    "Unnamed: 17": null
   },
   {
     "ID": "3544122",
@@ -12101,7 +12741,8 @@ const DOSAGEM_SULCO_DATA = [
     "Responsável": "GABRIEL HENRIQUE MARTINS PEREIRA",
     "Produto": "Adubo",
     "Dosagem de Produto - Sulcação": "3,01",
-    "Fazenda": NaN
+    "Fazenda": null,
+    "Unnamed: 17": null
   },
   {
     "ID": "3544121",
@@ -12120,7 +12761,8 @@ const DOSAGEM_SULCO_DATA = [
     "Responsável": "GABRIEL HENRIQUE MARTINS PEREIRA",
     "Produto": "Adubo",
     "Dosagem de Produto - Sulcação": "3,08",
-    "Fazenda": NaN
+    "Fazenda": null,
+    "Unnamed: 17": null
   },
   {
     "ID": "3544120",
@@ -12139,7 +12781,8 @@ const DOSAGEM_SULCO_DATA = [
     "Responsável": "GABRIEL HENRIQUE MARTINS PEREIRA",
     "Produto": "Adubo",
     "Dosagem de Produto - Sulcação": "3,125",
-    "Fazenda": NaN
+    "Fazenda": null,
+    "Unnamed: 17": null
   },
   {
     "ID": "3542380",
@@ -12158,7 +12801,8 @@ const DOSAGEM_SULCO_DATA = [
     "Responsável": "MICHELI DE SOUZA SANTOS  ",
     "Produto": "Adubo",
     "Dosagem de Produto - Sulcação": "4,43",
-    "Fazenda": NaN
+    "Fazenda": null,
+    "Unnamed: 17": null
   },
   {
     "ID": "3542379",
@@ -12177,7 +12821,8 @@ const DOSAGEM_SULCO_DATA = [
     "Responsável": "MICHELI DE SOUZA SANTOS  ",
     "Produto": "Adubo",
     "Dosagem de Produto - Sulcação": "4,6",
-    "Fazenda": NaN
+    "Fazenda": null,
+    "Unnamed: 17": null
   },
   {
     "ID": "3542238",
@@ -12196,7 +12841,8 @@ const DOSAGEM_SULCO_DATA = [
     "Responsável": "Leonardo Ribeiro Teixeira da Silva",
     "Produto": "Adubo",
     "Dosagem de Produto - Sulcação": "3,065",
-    "Fazenda": NaN
+    "Fazenda": null,
+    "Unnamed: 17": null
   },
   {
     "ID": "3542236",
@@ -12215,7 +12861,8 @@ const DOSAGEM_SULCO_DATA = [
     "Responsável": "Leonardo Ribeiro Teixeira da Silva",
     "Produto": "Adubo",
     "Dosagem de Produto - Sulcação": "2,9",
-    "Fazenda": NaN
+    "Fazenda": null,
+    "Unnamed: 17": null
   },
   {
     "ID": "3541960",
@@ -12234,7 +12881,8 @@ const DOSAGEM_SULCO_DATA = [
     "Responsável": "VITOR AMORIM RAMOS ",
     "Produto": "Adubo",
     "Dosagem de Produto - Sulcação": "4,545",
-    "Fazenda": NaN
+    "Fazenda": null,
+    "Unnamed: 17": null
   },
   {
     "ID": "3541959",
@@ -12253,7 +12901,8 @@ const DOSAGEM_SULCO_DATA = [
     "Responsável": "VITOR AMORIM RAMOS ",
     "Produto": "Adubo",
     "Dosagem de Produto - Sulcação": "4,69",
-    "Fazenda": NaN
+    "Fazenda": null,
+    "Unnamed: 17": null
   },
   {
     "ID": "3541958",
@@ -12272,7 +12921,8 @@ const DOSAGEM_SULCO_DATA = [
     "Responsável": "VITOR AMORIM RAMOS ",
     "Produto": "Adubo",
     "Dosagem de Produto - Sulcação": "4,725",
-    "Fazenda": NaN
+    "Fazenda": null,
+    "Unnamed: 17": null
   },
   {
     "ID": "3541957",
@@ -12291,7 +12941,8 @@ const DOSAGEM_SULCO_DATA = [
     "Responsável": "VITOR AMORIM RAMOS ",
     "Produto": "Adubo",
     "Dosagem de Produto - Sulcação": "4,81",
-    "Fazenda": NaN
+    "Fazenda": null,
+    "Unnamed: 17": null
   },
   {
     "ID": "3541884",
@@ -12310,7 +12961,8 @@ const DOSAGEM_SULCO_DATA = [
     "Responsável": "FERNANDA DE SOUZA ",
     "Produto": "Adubo",
     "Dosagem de Produto - Sulcação": "3,4",
-    "Fazenda": NaN
+    "Fazenda": null,
+    "Unnamed: 17": null
   },
   {
     "ID": "3541883",
@@ -12329,7 +12981,8 @@ const DOSAGEM_SULCO_DATA = [
     "Responsável": "FERNANDA DE SOUZA ",
     "Produto": "Adubo",
     "Dosagem de Produto - Sulcação": "3,54",
-    "Fazenda": NaN
+    "Fazenda": null,
+    "Unnamed: 17": null
   },
   {
     "ID": "3540038",
@@ -12348,7 +13001,8 @@ const DOSAGEM_SULCO_DATA = [
     "Responsável": "MICHELI DE SOUZA SANTOS  ",
     "Produto": "Adubo",
     "Dosagem de Produto - Sulcação": "4,6",
-    "Fazenda": NaN
+    "Fazenda": null,
+    "Unnamed: 17": null
   },
   {
     "ID": "3540037",
@@ -12367,7 +13021,8 @@ const DOSAGEM_SULCO_DATA = [
     "Responsável": "MICHELI DE SOUZA SANTOS  ",
     "Produto": "Adubo",
     "Dosagem de Produto - Sulcação": "4,38",
-    "Fazenda": NaN
+    "Fazenda": null,
+    "Unnamed: 17": null
   },
   {
     "ID": "3540036",
@@ -12386,7 +13041,8 @@ const DOSAGEM_SULCO_DATA = [
     "Responsável": "MICHELI DE SOUZA SANTOS  ",
     "Produto": "Adubo",
     "Dosagem de Produto - Sulcação": "4,6",
-    "Fazenda": NaN
+    "Fazenda": null,
+    "Unnamed: 17": null
   },
   {
     "ID": "3540011",
@@ -12405,7 +13061,8 @@ const DOSAGEM_SULCO_DATA = [
     "Responsável": "MICHELI DE SOUZA SANTOS  ",
     "Produto": "Adubo",
     "Dosagem de Produto - Sulcação": "4,6",
-    "Fazenda": NaN
+    "Fazenda": null,
+    "Unnamed: 17": null
   },
   {
     "ID": "3540010",
@@ -12424,7 +13081,8 @@ const DOSAGEM_SULCO_DATA = [
     "Responsável": "MICHELI DE SOUZA SANTOS  ",
     "Produto": "Adubo",
     "Dosagem de Produto - Sulcação": "4,6",
-    "Fazenda": NaN
+    "Fazenda": null,
+    "Unnamed: 17": null
   },
   {
     "ID": "3540009",
@@ -12443,7 +13101,8 @@ const DOSAGEM_SULCO_DATA = [
     "Responsável": "MICHELI DE SOUZA SANTOS  ",
     "Produto": "Adubo",
     "Dosagem de Produto - Sulcação": "4,435",
-    "Fazenda": NaN
+    "Fazenda": null,
+    "Unnamed: 17": null
   },
   {
     "ID": "3539981",
@@ -12462,7 +13121,8 @@ const DOSAGEM_SULCO_DATA = [
     "Responsável": "MICHELI DE SOUZA SANTOS  ",
     "Produto": "Adubo",
     "Dosagem de Produto - Sulcação": "4,37",
-    "Fazenda": NaN
+    "Fazenda": null,
+    "Unnamed: 17": null
   },
   {
     "ID": "3539980",
@@ -12481,7 +13141,8 @@ const DOSAGEM_SULCO_DATA = [
     "Responsável": "MICHELI DE SOUZA SANTOS  ",
     "Produto": "Adubo",
     "Dosagem de Produto - Sulcação": "4,365",
-    "Fazenda": NaN
+    "Fazenda": null,
+    "Unnamed: 17": null
   },
   {
     "ID": "3540085",
@@ -12500,7 +13161,8 @@ const DOSAGEM_SULCO_DATA = [
     "Responsável": "NILDA CLAUDINO [2510716]",
     "Produto": "Adubo",
     "Dosagem de Produto - Sulcação": "2,09",
-    "Fazenda": NaN
+    "Fazenda": null,
+    "Unnamed: 17": null
   },
   {
     "ID": "3540088",
@@ -12519,7 +13181,8 @@ const DOSAGEM_SULCO_DATA = [
     "Responsável": "NILDA CLAUDINO [2510716]",
     "Produto": "Adubo",
     "Dosagem de Produto - Sulcação": "2,05",
-    "Fazenda": NaN
+    "Fazenda": null,
+    "Unnamed: 17": null
   },
   {
     "ID": "3540087",
@@ -12538,7 +13201,8 @@ const DOSAGEM_SULCO_DATA = [
     "Responsável": "NILDA CLAUDINO [2510716]",
     "Produto": "Adubo",
     "Dosagem de Produto - Sulcação": "2,055",
-    "Fazenda": NaN
+    "Fazenda": null,
+    "Unnamed: 17": null
   },
   {
     "ID": "3540086",
@@ -12557,7 +13221,8 @@ const DOSAGEM_SULCO_DATA = [
     "Responsável": "NILDA CLAUDINO [2510716]",
     "Produto": "Adubo",
     "Dosagem de Produto - Sulcação": "2,04",
-    "Fazenda": NaN
+    "Fazenda": null,
+    "Unnamed: 17": null
   },
   {
     "ID": "3540192",
@@ -12576,7 +13241,8 @@ const DOSAGEM_SULCO_DATA = [
     "Responsável": "FERNANDA DE SOUZA ",
     "Produto": "Adubo",
     "Dosagem de Produto - Sulcação": "3,37",
-    "Fazenda": NaN
+    "Fazenda": null,
+    "Unnamed: 17": null
   },
   {
     "ID": "3540191",
@@ -12595,7 +13261,8 @@ const DOSAGEM_SULCO_DATA = [
     "Responsável": "FERNANDA DE SOUZA ",
     "Produto": "Adubo",
     "Dosagem de Produto - Sulcação": "3,4",
-    "Fazenda": NaN
+    "Fazenda": null,
+    "Unnamed: 17": null
   },
   {
     "ID": "3539356",
@@ -12614,7 +13281,8 @@ const DOSAGEM_SULCO_DATA = [
     "Responsável": "GABRIEL HENRIQUE MARTINS PEREIRA",
     "Produto": "Adubo",
     "Dosagem de Produto - Sulcação": "3,13",
-    "Fazenda": NaN
+    "Fazenda": null,
+    "Unnamed: 17": null
   },
   {
     "ID": "3539355",
@@ -12633,7 +13301,8 @@ const DOSAGEM_SULCO_DATA = [
     "Responsável": "GABRIEL HENRIQUE MARTINS PEREIRA",
     "Produto": "Adubo",
     "Dosagem de Produto - Sulcação": "3,005",
-    "Fazenda": NaN
+    "Fazenda": null,
+    "Unnamed: 17": null
   },
   {
     "ID": "3538841",
@@ -12652,7 +13321,8 @@ const DOSAGEM_SULCO_DATA = [
     "Responsável": "MICHELI DE SOUZA SANTOS  ",
     "Produto": "Adubo",
     "Dosagem de Produto - Sulcação": "4,6",
-    "Fazenda": NaN
+    "Fazenda": null,
+    "Unnamed: 17": null
   },
   {
     "ID": "3538840",
@@ -12671,7 +13341,8 @@ const DOSAGEM_SULCO_DATA = [
     "Responsável": "MICHELI DE SOUZA SANTOS  ",
     "Produto": "Adubo",
     "Dosagem de Produto - Sulcação": "4,6",
-    "Fazenda": NaN
+    "Fazenda": null,
+    "Unnamed: 17": null
   },
   {
     "ID": "3537504",
@@ -12690,7 +13361,8 @@ const DOSAGEM_SULCO_DATA = [
     "Responsável": "EDILIANA CARDOSO DA COSTA",
     "Produto": "Adubo",
     "Dosagem de Produto - Sulcação": "3,07",
-    "Fazenda": NaN
+    "Fazenda": null,
+    "Unnamed: 17": null
   },
   {
     "ID": "3537503",
@@ -12709,7 +13381,8 @@ const DOSAGEM_SULCO_DATA = [
     "Responsável": "EDILIANA CARDOSO DA COSTA",
     "Produto": "Adubo",
     "Dosagem de Produto - Sulcação": "3,155",
-    "Fazenda": NaN
+    "Fazenda": null,
+    "Unnamed: 17": null
   },
   {
     "ID": "3537502",
@@ -12728,7 +13401,8 @@ const DOSAGEM_SULCO_DATA = [
     "Responsável": "EDILIANA CARDOSO DA COSTA",
     "Produto": "Adubo",
     "Dosagem de Produto - Sulcação": "3,13",
-    "Fazenda": NaN
+    "Fazenda": null,
+    "Unnamed: 17": null
   },
   {
     "ID": "3537501",
@@ -12747,7 +13421,8 @@ const DOSAGEM_SULCO_DATA = [
     "Responsável": "EDILIANA CARDOSO DA COSTA",
     "Produto": "Adubo",
     "Dosagem de Produto - Sulcação": "3,165",
-    "Fazenda": NaN
+    "Fazenda": null,
+    "Unnamed: 17": null
   },
   {
     "ID": "3537407",
@@ -12766,7 +13441,8 @@ const DOSAGEM_SULCO_DATA = [
     "Responsável": "VITOR AMORIM RAMOS ",
     "Produto": "Adubo",
     "Dosagem de Produto - Sulcação": "3,465",
-    "Fazenda": NaN
+    "Fazenda": null,
+    "Unnamed: 17": null
   },
   {
     "ID": "3537406",
@@ -12785,7 +13461,8 @@ const DOSAGEM_SULCO_DATA = [
     "Responsável": "VITOR AMORIM RAMOS ",
     "Produto": "Adubo",
     "Dosagem de Produto - Sulcação": "3,44",
-    "Fazenda": NaN
+    "Fazenda": null,
+    "Unnamed: 17": null
   },
   {
     "ID": "3537405",
@@ -12804,7 +13481,8 @@ const DOSAGEM_SULCO_DATA = [
     "Responsável": "VITOR AMORIM RAMOS ",
     "Produto": "Adubo",
     "Dosagem de Produto - Sulcação": "3,395",
-    "Fazenda": NaN
+    "Fazenda": null,
+    "Unnamed: 17": null
   },
   {
     "ID": "3537403",
@@ -12823,7 +13501,8 @@ const DOSAGEM_SULCO_DATA = [
     "Responsável": "VITOR AMORIM RAMOS ",
     "Produto": "Adubo",
     "Dosagem de Produto - Sulcação": "3,415",
-    "Fazenda": NaN
+    "Fazenda": null,
+    "Unnamed: 17": null
   },
   {
     "ID": "3537764",
@@ -12842,7 +13521,8 @@ const DOSAGEM_SULCO_DATA = [
     "Responsável": "MABILA HELEN D FIGUEIREDO",
     "Produto": "Adubo",
     "Dosagem de Produto - Sulcação": "4,335",
-    "Fazenda": NaN
+    "Fazenda": null,
+    "Unnamed: 17": null
   },
   {
     "ID": "3537763",
@@ -12861,7 +13541,8 @@ const DOSAGEM_SULCO_DATA = [
     "Responsável": "MABILA HELEN D FIGUEIREDO",
     "Produto": "Adubo",
     "Dosagem de Produto - Sulcação": "4,6",
-    "Fazenda": NaN
+    "Fazenda": null,
+    "Unnamed: 17": null
   },
   {
     "ID": "3537754",
@@ -12880,7 +13561,8 @@ const DOSAGEM_SULCO_DATA = [
     "Responsável": "MICHELI DE SOUZA SANTOS  ",
     "Produto": "Adubo",
     "Dosagem de Produto - Sulcação": "4,405",
-    "Fazenda": NaN
+    "Fazenda": null,
+    "Unnamed: 17": null
   },
   {
     "ID": "3537753",
@@ -12899,7 +13581,8 @@ const DOSAGEM_SULCO_DATA = [
     "Responsável": "MICHELI DE SOUZA SANTOS  ",
     "Produto": "Adubo",
     "Dosagem de Produto - Sulcação": "4,6",
-    "Fazenda": NaN
+    "Fazenda": null,
+    "Unnamed: 17": null
   },
   {
     "ID": "3537398",
@@ -12918,7 +13601,8 @@ const DOSAGEM_SULCO_DATA = [
     "Responsável": "VITOR AMORIM RAMOS ",
     "Produto": "Adubo",
     "Dosagem de Produto - Sulcação": "3,36",
-    "Fazenda": NaN
+    "Fazenda": null,
+    "Unnamed: 17": null
   },
   {
     "ID": "3537397",
@@ -12937,7 +13621,8 @@ const DOSAGEM_SULCO_DATA = [
     "Responsável": "VITOR AMORIM RAMOS ",
     "Produto": "Adubo",
     "Dosagem de Produto - Sulcação": "3,305",
-    "Fazenda": NaN
+    "Fazenda": null,
+    "Unnamed: 17": null
   },
   {
     "ID": "3537750",
@@ -12956,7 +13641,8 @@ const DOSAGEM_SULCO_DATA = [
     "Responsável": "MABILA HELEN D FIGUEIREDO",
     "Produto": "Adubo",
     "Dosagem de Produto - Sulcação": "4,6",
-    "Fazenda": NaN
+    "Fazenda": null,
+    "Unnamed: 17": null
   },
   {
     "ID": "3537749",
@@ -12975,7 +13661,8 @@ const DOSAGEM_SULCO_DATA = [
     "Responsável": "MABILA HELEN D FIGUEIREDO",
     "Produto": "Adubo",
     "Dosagem de Produto - Sulcação": "4,6",
-    "Fazenda": NaN
+    "Fazenda": null,
+    "Unnamed: 17": null
   },
   {
     "ID": "3537252",
@@ -12994,7 +13681,8 @@ const DOSAGEM_SULCO_DATA = [
     "Responsável": "NILDA CLAUDINO [2510716]",
     "Produto": "Adubo",
     "Dosagem de Produto - Sulcação": "3,155",
-    "Fazenda": NaN
+    "Fazenda": null,
+    "Unnamed: 17": null
   },
   {
     "ID": "3537251",
@@ -13013,7 +13701,8 @@ const DOSAGEM_SULCO_DATA = [
     "Responsável": "NILDA CLAUDINO [2510716]",
     "Produto": "Adubo",
     "Dosagem de Produto - Sulcação": "3,12",
-    "Fazenda": NaN
+    "Fazenda": null,
+    "Unnamed: 17": null
   },
   {
     "ID": "3537172",
@@ -13032,7 +13721,8 @@ const DOSAGEM_SULCO_DATA = [
     "Responsável": "FERNANDA DE SOUZA ",
     "Produto": "Adubo",
     "Dosagem de Produto - Sulcação": "3,365",
-    "Fazenda": NaN
+    "Fazenda": null,
+    "Unnamed: 17": null
   },
   {
     "ID": "3537173",
@@ -13051,7 +13741,8 @@ const DOSAGEM_SULCO_DATA = [
     "Responsável": "FERNANDA DE SOUZA ",
     "Produto": "Adubo",
     "Dosagem de Produto - Sulcação": "3,375",
-    "Fazenda": NaN
+    "Fazenda": null,
+    "Unnamed: 17": null
   },
   {
     "ID": "3535779",
@@ -13070,7 +13761,8 @@ const DOSAGEM_SULCO_DATA = [
     "Responsável": "FERNANDA DE SOUZA ",
     "Produto": "Adubo",
     "Dosagem de Produto - Sulcação": "3,46",
-    "Fazenda": NaN
+    "Fazenda": null,
+    "Unnamed: 17": null
   },
   {
     "ID": "3535780",
@@ -13089,7 +13781,8 @@ const DOSAGEM_SULCO_DATA = [
     "Responsável": "FERNANDA DE SOUZA ",
     "Produto": "Adubo",
     "Dosagem de Produto - Sulcação": "3,44",
-    "Fazenda": NaN
+    "Fazenda": null,
+    "Unnamed: 17": null
   },
   {
     "ID": "3535757",
@@ -13108,7 +13801,8 @@ const DOSAGEM_SULCO_DATA = [
     "Responsável": "MICHELI DE SOUZA SANTOS  ",
     "Produto": "Adubo",
     "Dosagem de Produto - Sulcação": "4,335",
-    "Fazenda": NaN
+    "Fazenda": null,
+    "Unnamed: 17": null
   },
   {
     "ID": "3535756",
@@ -13127,7 +13821,8 @@ const DOSAGEM_SULCO_DATA = [
     "Responsável": "MICHELI DE SOUZA SANTOS  ",
     "Produto": "Adubo",
     "Dosagem de Produto - Sulcação": "4,6",
-    "Fazenda": NaN
+    "Fazenda": null,
+    "Unnamed: 17": null
   },
   {
     "ID": "3535755",
@@ -13146,7 +13841,8 @@ const DOSAGEM_SULCO_DATA = [
     "Responsável": "MICHELI DE SOUZA SANTOS  ",
     "Produto": "Adubo",
     "Dosagem de Produto - Sulcação": "4,37",
-    "Fazenda": NaN
+    "Fazenda": null,
+    "Unnamed: 17": null
   },
   {
     "ID": "3535754",
@@ -13165,7 +13861,8 @@ const DOSAGEM_SULCO_DATA = [
     "Responsável": "MICHELI DE SOUZA SANTOS  ",
     "Produto": "Adubo",
     "Dosagem de Produto - Sulcação": "4,295",
-    "Fazenda": NaN
+    "Fazenda": null,
+    "Unnamed: 17": null
   },
   {
     "ID": "3535334",
@@ -13184,7 +13881,8 @@ const DOSAGEM_SULCO_DATA = [
     "Responsável": "NILDA CLAUDINO [2510716]",
     "Produto": "Adubo",
     "Dosagem de Produto - Sulcação": "3,735",
-    "Fazenda": NaN
+    "Fazenda": null,
+    "Unnamed: 17": null
   },
   {
     "ID": "3535332",
@@ -13203,7 +13901,8 @@ const DOSAGEM_SULCO_DATA = [
     "Responsável": "NILDA CLAUDINO [2510716]",
     "Produto": "Adubo",
     "Dosagem de Produto - Sulcação": "3,6",
-    "Fazenda": NaN
+    "Fazenda": null,
+    "Unnamed: 17": null
   },
   {
     "ID": "3535768",
@@ -13222,7 +13921,8 @@ const DOSAGEM_SULCO_DATA = [
     "Responsável": "REGINALDO DA SILVA GOMES ",
     "Produto": "Adubo",
     "Dosagem de Produto - Sulcação": "3,675",
-    "Fazenda": NaN
+    "Fazenda": null,
+    "Unnamed: 17": null
   },
   {
     "ID": "3535769",
@@ -13241,7 +13941,8 @@ const DOSAGEM_SULCO_DATA = [
     "Responsável": "REGINALDO DA SILVA GOMES ",
     "Produto": "Adubo",
     "Dosagem de Produto - Sulcação": "3,735",
-    "Fazenda": NaN
+    "Fazenda": null,
+    "Unnamed: 17": null
   },
   {
     "ID": "3535744",
@@ -13260,7 +13961,8 @@ const DOSAGEM_SULCO_DATA = [
     "Responsável": "MICHELI DE SOUZA SANTOS  ",
     "Produto": "Adubo",
     "Dosagem de Produto - Sulcação": "4,435",
-    "Fazenda": NaN
+    "Fazenda": null,
+    "Unnamed: 17": null
   },
   {
     "ID": "3535743",
@@ -13279,7 +13981,8 @@ const DOSAGEM_SULCO_DATA = [
     "Responsável": "MICHELI DE SOUZA SANTOS  ",
     "Produto": "Adubo",
     "Dosagem de Produto - Sulcação": "4,34",
-    "Fazenda": NaN
+    "Fazenda": null,
+    "Unnamed: 17": null
   },
   {
     "ID": "3535767",
@@ -13298,7 +14001,8 @@ const DOSAGEM_SULCO_DATA = [
     "Responsável": "REGINALDO DA SILVA GOMES ",
     "Produto": "Adubo",
     "Dosagem de Produto - Sulcação": "3,6",
-    "Fazenda": NaN
+    "Fazenda": null,
+    "Unnamed: 17": null
   },
   {
     "ID": "3535333",
@@ -13317,7 +14021,8 @@ const DOSAGEM_SULCO_DATA = [
     "Responsável": "NILDA CLAUDINO [2510716]",
     "Produto": "Adubo",
     "Dosagem de Produto - Sulcação": "3,675",
-    "Fazenda": NaN
+    "Fazenda": null,
+    "Unnamed: 17": null
   },
   {
     "ID": "3535766",
@@ -13336,7 +14041,8 @@ const DOSAGEM_SULCO_DATA = [
     "Responsável": "REGINALDO DA SILVA GOMES ",
     "Produto": "Adubo",
     "Dosagem de Produto - Sulcação": "3,655",
-    "Fazenda": NaN
+    "Fazenda": null,
+    "Unnamed: 17": null
   },
   {
     "ID": "3535331",
@@ -13355,7 +14061,8 @@ const DOSAGEM_SULCO_DATA = [
     "Responsável": "NILDA CLAUDINO [2510716]",
     "Produto": "Adubo",
     "Dosagem de Produto - Sulcação": "3,655",
-    "Fazenda": NaN
+    "Fazenda": null,
+    "Unnamed: 17": null
   },
   {
     "ID": "3535736",
@@ -13374,7 +14081,8 @@ const DOSAGEM_SULCO_DATA = [
     "Responsável": "MICHELI DE SOUZA SANTOS  ",
     "Produto": "Adubo",
     "Dosagem de Produto - Sulcação": "4,6",
-    "Fazenda": NaN
+    "Fazenda": null,
+    "Unnamed: 17": null
   },
   {
     "ID": "3535735",
@@ -13393,7 +14101,8 @@ const DOSAGEM_SULCO_DATA = [
     "Responsável": "MICHELI DE SOUZA SANTOS  ",
     "Produto": "Adubo",
     "Dosagem de Produto - Sulcação": "4,6",
-    "Fazenda": NaN
+    "Fazenda": null,
+    "Unnamed: 17": null
   },
   {
     "ID": "3534104",
@@ -13412,7 +14121,8 @@ const DOSAGEM_SULCO_DATA = [
     "Responsável": "GABRIEL HENRIQUE MARTINS PEREIRA",
     "Produto": "Adubo",
     "Dosagem de Produto - Sulcação": "3,15",
-    "Fazenda": NaN
+    "Fazenda": null,
+    "Unnamed: 17": null
   },
   {
     "ID": "3534102",
@@ -13431,7 +14141,8 @@ const DOSAGEM_SULCO_DATA = [
     "Responsável": "GABRIEL HENRIQUE MARTINS PEREIRA",
     "Produto": "Adubo",
     "Dosagem de Produto - Sulcação": "3,065",
-    "Fazenda": NaN
+    "Fazenda": null,
+    "Unnamed: 17": null
   },
   {
     "ID": "3533603",
@@ -13450,7 +14161,8 @@ const DOSAGEM_SULCO_DATA = [
     "Responsável": "NILDA CLAUDINO [2510716]",
     "Produto": "Adubo",
     "Dosagem de Produto - Sulcação": "4,04",
-    "Fazenda": NaN
+    "Fazenda": null,
+    "Unnamed: 17": null
   },
   {
     "ID": "3533606",
@@ -13469,7 +14181,8 @@ const DOSAGEM_SULCO_DATA = [
     "Responsável": "NILDA CLAUDINO [2510716]",
     "Produto": "Adubo",
     "Dosagem de Produto - Sulcação": "3,925",
-    "Fazenda": NaN
+    "Fazenda": null,
+    "Unnamed: 17": null
   },
   {
     "ID": "3533607",
@@ -13488,7 +14201,8 @@ const DOSAGEM_SULCO_DATA = [
     "Responsável": "NILDA CLAUDINO [2510716]",
     "Produto": "Adubo",
     "Dosagem de Produto - Sulcação": "4,28",
-    "Fazenda": NaN
+    "Fazenda": null,
+    "Unnamed: 17": null
   },
   {
     "ID": "3533605",
@@ -13507,7 +14221,8 @@ const DOSAGEM_SULCO_DATA = [
     "Responsável": "NILDA CLAUDINO [2510716]",
     "Produto": "Adubo",
     "Dosagem de Produto - Sulcação": "4,115",
-    "Fazenda": NaN
+    "Fazenda": null,
+    "Unnamed: 17": null
   },
   {
     "ID": "3533602",
@@ -13526,7 +14241,8 @@ const DOSAGEM_SULCO_DATA = [
     "Responsável": "FERNANDA DE SOUZA ",
     "Produto": "Adubo",
     "Dosagem de Produto - Sulcação": "3,495",
-    "Fazenda": NaN
+    "Fazenda": null,
+    "Unnamed: 17": null
   },
   {
     "ID": "3533601",
@@ -13545,7 +14261,8 @@ const DOSAGEM_SULCO_DATA = [
     "Responsável": "FERNANDA DE SOUZA ",
     "Produto": "Adubo",
     "Dosagem de Produto - Sulcação": "3,555",
-    "Fazenda": NaN
+    "Fazenda": null,
+    "Unnamed: 17": null
   },
   {
     "ID": "3531893",
@@ -13564,7 +14281,8 @@ const DOSAGEM_SULCO_DATA = [
     "Responsável": "FERNANDA DE SOUZA ",
     "Produto": "Adubo",
     "Dosagem de Produto - Sulcação": "3,32",
-    "Fazenda": NaN
+    "Fazenda": null,
+    "Unnamed: 17": null
   },
   {
     "ID": "3531892",
@@ -13583,7 +14301,8 @@ const DOSAGEM_SULCO_DATA = [
     "Responsável": "FERNANDA DE SOUZA ",
     "Produto": "Adubo",
     "Dosagem de Produto - Sulcação": "3,455",
-    "Fazenda": NaN
+    "Fazenda": null,
+    "Unnamed: 17": null
   },
   {
     "ID": "3531944",
@@ -13602,7 +14321,8 @@ const DOSAGEM_SULCO_DATA = [
     "Responsável": "GABRIEL HENRIQUE MARTINS PEREIRA",
     "Produto": "Adubo",
     "Dosagem de Produto - Sulcação": "3,42",
-    "Fazenda": NaN
+    "Fazenda": null,
+    "Unnamed: 17": null
   },
   {
     "ID": "3531943",
@@ -13621,7 +14341,8 @@ const DOSAGEM_SULCO_DATA = [
     "Responsável": "GABRIEL HENRIQUE MARTINS PEREIRA",
     "Produto": "Adubo",
     "Dosagem de Produto - Sulcação": "3,425",
-    "Fazenda": NaN
+    "Fazenda": null,
+    "Unnamed: 17": null
   },
   {
     "ID": "3531942",
@@ -13640,7 +14361,8 @@ const DOSAGEM_SULCO_DATA = [
     "Responsável": "GABRIEL HENRIQUE MARTINS PEREIRA",
     "Produto": "Adubo",
     "Dosagem de Produto - Sulcação": "3,365",
-    "Fazenda": NaN
+    "Fazenda": null,
+    "Unnamed: 17": null
   },
   {
     "ID": "3531941",
@@ -13659,7 +14381,8 @@ const DOSAGEM_SULCO_DATA = [
     "Responsável": "GABRIEL HENRIQUE MARTINS PEREIRA",
     "Produto": "Adubo",
     "Dosagem de Produto - Sulcação": "3,345",
-    "Fazenda": NaN
+    "Fazenda": null,
+    "Unnamed: 17": null
   },
   {
     "ID": "3531860",
@@ -13678,7 +14401,8 @@ const DOSAGEM_SULCO_DATA = [
     "Responsável": "MICHELI DE SOUZA SANTOS  ",
     "Produto": "Adubo",
     "Dosagem de Produto - Sulcação": "4,355",
-    "Fazenda": NaN
+    "Fazenda": null,
+    "Unnamed: 17": null
   },
   {
     "ID": "3531859",
@@ -13697,7 +14421,8 @@ const DOSAGEM_SULCO_DATA = [
     "Responsável": "MICHELI DE SOUZA SANTOS  ",
     "Produto": "Adubo",
     "Dosagem de Produto - Sulcação": "4,6",
-    "Fazenda": NaN
+    "Fazenda": null,
+    "Unnamed: 17": null
   },
   {
     "ID": "3531858",
@@ -13716,7 +14441,8 @@ const DOSAGEM_SULCO_DATA = [
     "Responsável": "MICHELI DE SOUZA SANTOS  ",
     "Produto": "Adubo",
     "Dosagem de Produto - Sulcação": "4,385",
-    "Fazenda": NaN
+    "Fazenda": null,
+    "Unnamed: 17": null
   },
   {
     "ID": "3531857",
@@ -13735,7 +14461,8 @@ const DOSAGEM_SULCO_DATA = [
     "Responsável": "MICHELI DE SOUZA SANTOS  ",
     "Produto": "Adubo",
     "Dosagem de Produto - Sulcação": "4,355",
-    "Fazenda": NaN
+    "Fazenda": null,
+    "Unnamed: 17": null
   },
   {
     "ID": "3531319",
@@ -13754,7 +14481,8 @@ const DOSAGEM_SULCO_DATA = [
     "Responsável": "MICHELI DE SOUZA SANTOS  ",
     "Produto": "Adubo",
     "Dosagem de Produto - Sulcação": "4,6",
-    "Fazenda": NaN
+    "Fazenda": null,
+    "Unnamed: 17": null
   },
   {
     "ID": "3531320",
@@ -13773,7 +14501,8 @@ const DOSAGEM_SULCO_DATA = [
     "Responsável": "MICHELI DE SOUZA SANTOS  ",
     "Produto": "Adubo",
     "Dosagem de Produto - Sulcação": "4,405",
-    "Fazenda": NaN
+    "Fazenda": null,
+    "Unnamed: 17": null
   },
   {
     "ID": "3531321",
@@ -13792,7 +14521,8 @@ const DOSAGEM_SULCO_DATA = [
     "Responsável": "MICHELI DE SOUZA SANTOS  ",
     "Produto": "Adubo",
     "Dosagem de Produto - Sulcação": "4,6",
-    "Fazenda": NaN
+    "Fazenda": null,
+    "Unnamed: 17": null
   },
   {
     "ID": "3531322",
@@ -13811,7 +14541,8 @@ const DOSAGEM_SULCO_DATA = [
     "Responsável": "MICHELI DE SOUZA SANTOS  ",
     "Produto": "Adubo",
     "Dosagem de Produto - Sulcação": "4,34",
-    "Fazenda": NaN
+    "Fazenda": null,
+    "Unnamed: 17": null
   },
   {
     "ID": "3531225",
@@ -13830,7 +14561,8 @@ const DOSAGEM_SULCO_DATA = [
     "Responsável": "NILDA CLAUDINO [2510716]",
     "Produto": "Adubo",
     "Dosagem de Produto - Sulcação": "4,02",
-    "Fazenda": NaN
+    "Fazenda": null,
+    "Unnamed: 17": null
   },
   {
     "ID": "3531226",
@@ -13849,7 +14581,8 @@ const DOSAGEM_SULCO_DATA = [
     "Responsável": "NILDA CLAUDINO [2510716]",
     "Produto": "Adubo",
     "Dosagem de Produto - Sulcação": "4,145",
-    "Fazenda": NaN
+    "Fazenda": null,
+    "Unnamed: 17": null
   },
   {
     "ID": "3531227",
@@ -13868,7 +14601,8 @@ const DOSAGEM_SULCO_DATA = [
     "Responsável": "NILDA CLAUDINO [2510716]",
     "Produto": "Adubo",
     "Dosagem de Produto - Sulcação": "4,17",
-    "Fazenda": NaN
+    "Fazenda": null,
+    "Unnamed: 17": null
   },
   {
     "ID": "3531228",
@@ -13887,7 +14621,8 @@ const DOSAGEM_SULCO_DATA = [
     "Responsável": "NILDA CLAUDINO [2510716]",
     "Produto": "Adubo",
     "Dosagem de Produto - Sulcação": "4,295",
-    "Fazenda": NaN
+    "Fazenda": null,
+    "Unnamed: 17": null
   },
   {
     "ID": "3531395",
@@ -13906,7 +14641,8 @@ const DOSAGEM_SULCO_DATA = [
     "Responsável": "FERNANDA DE SOUZA ",
     "Produto": "Adubo",
     "Dosagem de Produto - Sulcação": "3,335",
-    "Fazenda": NaN
+    "Fazenda": null,
+    "Unnamed: 17": null
   },
   {
     "ID": "3531392",
@@ -13925,7 +14661,8 @@ const DOSAGEM_SULCO_DATA = [
     "Responsável": "FERNANDA DE SOUZA ",
     "Produto": "Adubo",
     "Dosagem de Produto - Sulcação": "3,525",
-    "Fazenda": NaN
+    "Fazenda": null,
+    "Unnamed: 17": null
   },
   {
     "ID": "3530160",
@@ -13944,7 +14681,8 @@ const DOSAGEM_SULCO_DATA = [
     "Responsável": "MARCELO DE OLIVEIRA JUNIOR",
     "Produto": "Adubo",
     "Dosagem de Produto - Sulcação": "2,975",
-    "Fazenda": NaN
+    "Fazenda": null,
+    "Unnamed: 17": null
   },
   {
     "ID": "3530159",
@@ -13963,7 +14701,8 @@ const DOSAGEM_SULCO_DATA = [
     "Responsável": "MARCELO DE OLIVEIRA JUNIOR",
     "Produto": "Adubo",
     "Dosagem de Produto - Sulcação": "3,05",
-    "Fazenda": NaN
+    "Fazenda": null,
+    "Unnamed: 17": null
   },
   {
     "ID": "3530156",
@@ -13982,7 +14721,8 @@ const DOSAGEM_SULCO_DATA = [
     "Responsável": "MARCELO DE OLIVEIRA JUNIOR",
     "Produto": "Adubo",
     "Dosagem de Produto - Sulcação": "2,975",
-    "Fazenda": NaN
+    "Fazenda": null,
+    "Unnamed: 17": null
   },
   {
     "ID": "3530155",
@@ -14001,7 +14741,8 @@ const DOSAGEM_SULCO_DATA = [
     "Responsável": "MARCELO DE OLIVEIRA JUNIOR",
     "Produto": "Adubo",
     "Dosagem de Produto - Sulcação": "3,05",
-    "Fazenda": NaN
+    "Fazenda": null,
+    "Unnamed: 17": null
   },
   {
     "ID": "3529697",
@@ -14020,7 +14761,8 @@ const DOSAGEM_SULCO_DATA = [
     "Responsável": "FERNANDA DE SOUZA ",
     "Produto": "Adubo",
     "Dosagem de Produto - Sulcação": "4,695",
-    "Fazenda": NaN
+    "Fazenda": null,
+    "Unnamed: 17": null
   },
   {
     "ID": "3529698",
@@ -14039,7 +14781,8 @@ const DOSAGEM_SULCO_DATA = [
     "Responsável": "FERNANDA DE SOUZA ",
     "Produto": "Adubo",
     "Dosagem de Produto - Sulcação": "4,73",
-    "Fazenda": NaN
+    "Fazenda": null,
+    "Unnamed: 17": null
   },
   {
     "ID": "3529699",
@@ -14058,7 +14801,8 @@ const DOSAGEM_SULCO_DATA = [
     "Responsável": "FERNANDA DE SOUZA ",
     "Produto": "Adubo",
     "Dosagem de Produto - Sulcação": "4,655",
-    "Fazenda": NaN
+    "Fazenda": null,
+    "Unnamed: 17": null
   },
   {
     "ID": "3529700",
@@ -14077,7 +14821,8 @@ const DOSAGEM_SULCO_DATA = [
     "Responsável": "FERNANDA DE SOUZA ",
     "Produto": "Adubo",
     "Dosagem de Produto - Sulcação": "4,68",
-    "Fazenda": NaN
+    "Fazenda": null,
+    "Unnamed: 17": null
   },
   {
     "ID": "3530057",
@@ -14096,7 +14841,8 @@ const DOSAGEM_SULCO_DATA = [
     "Responsável": "VITOR AMORIM RAMOS ",
     "Produto": "Adubo",
     "Dosagem de Produto - Sulcação": "3,375",
-    "Fazenda": NaN
+    "Fazenda": null,
+    "Unnamed: 17": null
   },
   {
     "ID": "3530056",
@@ -14115,7 +14861,8 @@ const DOSAGEM_SULCO_DATA = [
     "Responsável": "VITOR AMORIM RAMOS ",
     "Produto": "Adubo",
     "Dosagem de Produto - Sulcação": "3,34",
-    "Fazenda": NaN
+    "Fazenda": null,
+    "Unnamed: 17": null
   },
   {
     "ID": "3530055",
@@ -14134,7 +14881,8 @@ const DOSAGEM_SULCO_DATA = [
     "Responsável": "VITOR AMORIM RAMOS ",
     "Produto": "Adubo",
     "Dosagem de Produto - Sulcação": "3,435",
-    "Fazenda": NaN
+    "Fazenda": null,
+    "Unnamed: 17": null
   },
   {
     "ID": "3530054",
@@ -14153,7 +14901,8 @@ const DOSAGEM_SULCO_DATA = [
     "Responsável": "VITOR AMORIM RAMOS ",
     "Produto": "Adubo",
     "Dosagem de Produto - Sulcação": "3,355",
-    "Fazenda": NaN
+    "Fazenda": null,
+    "Unnamed: 17": null
   },
   {
     "ID": "3530053",
@@ -14172,7 +14921,8 @@ const DOSAGEM_SULCO_DATA = [
     "Responsável": "VITOR AMORIM RAMOS ",
     "Produto": "Adubo",
     "Dosagem de Produto - Sulcação": "3,375",
-    "Fazenda": NaN
+    "Fazenda": null,
+    "Unnamed: 17": null
   },
   {
     "ID": "3530052",
@@ -14191,7 +14941,8 @@ const DOSAGEM_SULCO_DATA = [
     "Responsável": "VITOR AMORIM RAMOS ",
     "Produto": "Adubo",
     "Dosagem de Produto - Sulcação": "3,34",
-    "Fazenda": NaN
+    "Fazenda": null,
+    "Unnamed: 17": null
   },
   {
     "ID": "3530051",
@@ -14210,7 +14961,8 @@ const DOSAGEM_SULCO_DATA = [
     "Responsável": "VITOR AMORIM RAMOS ",
     "Produto": "Adubo",
     "Dosagem de Produto - Sulcação": "3,435",
-    "Fazenda": NaN
+    "Fazenda": null,
+    "Unnamed: 17": null
   },
   {
     "ID": "3530050",
@@ -14229,7 +14981,8 @@ const DOSAGEM_SULCO_DATA = [
     "Responsável": "VITOR AMORIM RAMOS ",
     "Produto": "Adubo",
     "Dosagem de Produto - Sulcação": "3,355",
-    "Fazenda": NaN
+    "Fazenda": null,
+    "Unnamed: 17": null
   },
   {
     "ID": "3522551",
@@ -14248,7 +15001,8 @@ const DOSAGEM_SULCO_DATA = [
     "Responsável": "MICHELI DE SOUZA SANTOS  ",
     "Produto": "Adubo",
     "Dosagem de Produto - Sulcação": "3,07",
-    "Fazenda": NaN
+    "Fazenda": null,
+    "Unnamed: 17": null
   },
   {
     "ID": "3522550",
@@ -14267,7 +15021,8 @@ const DOSAGEM_SULCO_DATA = [
     "Responsável": "MICHELI DE SOUZA SANTOS  ",
     "Produto": "Adubo",
     "Dosagem de Produto - Sulcação": "3,05",
-    "Fazenda": NaN
+    "Fazenda": null,
+    "Unnamed: 17": null
   },
   {
     "ID": "3520539",
@@ -14286,7 +15041,8 @@ const DOSAGEM_SULCO_DATA = [
     "Responsável": "FERNANDA DE SOUZA ",
     "Produto": "Adubo",
     "Dosagem de Produto - Sulcação": "4,595",
-    "Fazenda": NaN
+    "Fazenda": null,
+    "Unnamed: 17": null
   },
   {
     "ID": "3520540",
@@ -14305,7 +15061,8 @@ const DOSAGEM_SULCO_DATA = [
     "Responsável": "FERNANDA DE SOUZA ",
     "Produto": "Adubo",
     "Dosagem de Produto - Sulcação": "4,595",
-    "Fazenda": NaN
+    "Fazenda": null,
+    "Unnamed: 17": null
   },
   {
     "ID": "3520670",
@@ -14324,7 +15081,8 @@ const DOSAGEM_SULCO_DATA = [
     "Responsável": "REGINALDO DA SILVA GOMES ",
     "Produto": "Adubo",
     "Dosagem de Produto - Sulcação": "4,595",
-    "Fazenda": NaN
+    "Fazenda": null,
+    "Unnamed: 17": null
   },
   {
     "ID": "3520669",
@@ -14343,7 +15101,8 @@ const DOSAGEM_SULCO_DATA = [
     "Responsável": "REGINALDO DA SILVA GOMES ",
     "Produto": "Adubo",
     "Dosagem de Produto - Sulcação": "4,595",
-    "Fazenda": NaN
+    "Fazenda": null,
+    "Unnamed: 17": null
   },
   {
     "ID": "3520536",
@@ -14362,7 +15121,8 @@ const DOSAGEM_SULCO_DATA = [
     "Responsável": "FERNANDA DE SOUZA ",
     "Produto": "Adubo",
     "Dosagem de Produto - Sulcação": "4,455",
-    "Fazenda": NaN
+    "Fazenda": null,
+    "Unnamed: 17": null
   },
   {
     "ID": "3520535",
@@ -14381,7 +15141,8 @@ const DOSAGEM_SULCO_DATA = [
     "Responsável": "FERNANDA DE SOUZA ",
     "Produto": "Adubo",
     "Dosagem de Produto - Sulcação": "4,585",
-    "Fazenda": NaN
+    "Fazenda": null,
+    "Unnamed: 17": null
   },
   {
     "ID": "3520666",
@@ -14400,7 +15161,8 @@ const DOSAGEM_SULCO_DATA = [
     "Responsável": "REGINALDO DA SILVA GOMES ",
     "Produto": "Adubo",
     "Dosagem de Produto - Sulcação": "4,455",
-    "Fazenda": NaN
+    "Fazenda": null,
+    "Unnamed: 17": null
   },
   {
     "ID": "3520665",
@@ -14419,7 +15181,8 @@ const DOSAGEM_SULCO_DATA = [
     "Responsável": "REGINALDO DA SILVA GOMES ",
     "Produto": "Adubo",
     "Dosagem de Produto - Sulcação": "4,585",
-    "Fazenda": NaN
+    "Fazenda": null,
+    "Unnamed: 17": null
   },
   {
     "ID": "3520184",
@@ -14438,7 +15201,8 @@ const DOSAGEM_SULCO_DATA = [
     "Responsável": "NILDA CLAUDINO [2510716]",
     "Produto": "Adubo",
     "Dosagem de Produto - Sulcação": "2,96",
-    "Fazenda": NaN
+    "Fazenda": null,
+    "Unnamed: 17": null
   },
   {
     "ID": "3520183",
@@ -14457,7 +15221,8 @@ const DOSAGEM_SULCO_DATA = [
     "Responsável": "NILDA CLAUDINO [2510716]",
     "Produto": "Adubo",
     "Dosagem de Produto - Sulcação": "2,835",
-    "Fazenda": NaN
+    "Fazenda": null,
+    "Unnamed: 17": null
   },
   {
     "ID": "3520182",
@@ -14476,7 +15241,8 @@ const DOSAGEM_SULCO_DATA = [
     "Responsável": "NILDA CLAUDINO [2510716]",
     "Produto": "Adubo",
     "Dosagem de Produto - Sulcação": "2,815",
-    "Fazenda": NaN
+    "Fazenda": null,
+    "Unnamed: 17": null
   },
   {
     "ID": "3520181",
@@ -14495,7 +15261,8 @@ const DOSAGEM_SULCO_DATA = [
     "Responsável": "NILDA CLAUDINO [2510716]",
     "Produto": "Adubo",
     "Dosagem de Produto - Sulcação": "2,88",
-    "Fazenda": NaN
+    "Fazenda": null,
+    "Unnamed: 17": null
   },
   {
     "ID": "3519079",
@@ -14514,7 +15281,8 @@ const DOSAGEM_SULCO_DATA = [
     "Responsável": "MARCELO DE OLIVEIRA JUNIOR",
     "Produto": "Adubo",
     "Dosagem de Produto - Sulcação": "3,37",
-    "Fazenda": NaN
+    "Fazenda": null,
+    "Unnamed: 17": null
   },
   {
     "ID": "3519078",
@@ -14533,7 +15301,8 @@ const DOSAGEM_SULCO_DATA = [
     "Responsável": "MARCELO DE OLIVEIRA JUNIOR",
     "Produto": "Adubo",
     "Dosagem de Produto - Sulcação": "3,46",
-    "Fazenda": NaN
+    "Fazenda": null,
+    "Unnamed: 17": null
   },
   {
     "ID": "3518625",
@@ -14552,7 +15321,8 @@ const DOSAGEM_SULCO_DATA = [
     "Responsável": "MICHELI DE SOUZA SANTOS  ",
     "Produto": "Adubo",
     "Dosagem de Produto - Sulcação": "3,335",
-    "Fazenda": NaN
+    "Fazenda": null,
+    "Unnamed: 17": null
   },
   {
     "ID": "3518624",
@@ -14571,7 +15341,8 @@ const DOSAGEM_SULCO_DATA = [
     "Responsável": "MICHELI DE SOUZA SANTOS  ",
     "Produto": "Adubo",
     "Dosagem de Produto - Sulcação": "3,275",
-    "Fazenda": NaN
+    "Fazenda": null,
+    "Unnamed: 17": null
   },
   {
     "ID": "3518987",
@@ -14590,7 +15361,8 @@ const DOSAGEM_SULCO_DATA = [
     "Responsável": "MARCELO DE OLIVEIRA JUNIOR",
     "Produto": "Adubo",
     "Dosagem de Produto - Sulcação": "3,45",
-    "Fazenda": NaN
+    "Fazenda": null,
+    "Unnamed: 17": null
   },
   {
     "ID": "3518986",
@@ -14609,7 +15381,8 @@ const DOSAGEM_SULCO_DATA = [
     "Responsável": "MARCELO DE OLIVEIRA JUNIOR",
     "Produto": "Adubo",
     "Dosagem de Produto - Sulcação": "3,41",
-    "Fazenda": NaN
+    "Fazenda": null,
+    "Unnamed: 17": null
   },
   {
     "ID": "3518324",
@@ -14628,7 +15401,8 @@ const DOSAGEM_SULCO_DATA = [
     "Responsável": "VITOR AMORIM RAMOS ",
     "Produto": "Adubo",
     "Dosagem de Produto - Sulcação": "3,38",
-    "Fazenda": NaN
+    "Fazenda": null,
+    "Unnamed: 17": null
   },
   {
     "ID": "3518325",
@@ -14647,7 +15421,8 @@ const DOSAGEM_SULCO_DATA = [
     "Responsável": "VITOR AMORIM RAMOS ",
     "Produto": "Adubo",
     "Dosagem de Produto - Sulcação": "3,4",
-    "Fazenda": NaN
+    "Fazenda": null,
+    "Unnamed: 17": null
   },
   {
     "ID": "3518307",
@@ -14666,7 +15441,8 @@ const DOSAGEM_SULCO_DATA = [
     "Responsável": "NILDA CLAUDINO [2510716]",
     "Produto": "Adubo",
     "Dosagem de Produto - Sulcação": "4,335",
-    "Fazenda": NaN
+    "Fazenda": null,
+    "Unnamed: 17": null
   },
   {
     "ID": "3518306",
@@ -14685,7 +15461,8 @@ const DOSAGEM_SULCO_DATA = [
     "Responsável": "NILDA CLAUDINO [2510716]",
     "Produto": "Adubo",
     "Dosagem de Produto - Sulcação": "4,28",
-    "Fazenda": NaN
+    "Fazenda": null,
+    "Unnamed: 17": null
   },
   {
     "ID": "3518294",
@@ -14704,7 +15481,8 @@ const DOSAGEM_SULCO_DATA = [
     "Responsável": "NILDA CLAUDINO [2510716]",
     "Produto": "Adubo",
     "Dosagem de Produto - Sulcação": "4,32",
-    "Fazenda": NaN
+    "Fazenda": null,
+    "Unnamed: 17": null
   },
   {
     "ID": "3518293",
@@ -14723,7 +15501,8 @@ const DOSAGEM_SULCO_DATA = [
     "Responsável": "NILDA CLAUDINO [2510716]",
     "Produto": "Adubo",
     "Dosagem de Produto - Sulcação": "4,235",
-    "Fazenda": NaN
+    "Fazenda": null,
+    "Unnamed: 17": null
   },
   {
     "ID": "3518118",
@@ -14742,7 +15521,8 @@ const DOSAGEM_SULCO_DATA = [
     "Responsável": "GABRIEL HENRIQUE MARTINS PEREIRA",
     "Produto": "Adubo",
     "Dosagem de Produto - Sulcação": "2,985",
-    "Fazenda": NaN
+    "Fazenda": null,
+    "Unnamed: 17": null
   },
   {
     "ID": "3518093",
@@ -14761,7 +15541,8 @@ const DOSAGEM_SULCO_DATA = [
     "Responsável": "GABRIEL HENRIQUE MARTINS PEREIRA",
     "Produto": "Adubo",
     "Dosagem de Produto - Sulcação": "3,01",
-    "Fazenda": NaN
+    "Fazenda": null,
+    "Unnamed: 17": null
   },
   {
     "ID": "3516615",
@@ -14780,7 +15561,8 @@ const DOSAGEM_SULCO_DATA = [
     "Responsável": "MARCELO DE OLIVEIRA JUNIOR",
     "Produto": "Adubo",
     "Dosagem de Produto - Sulcação": "3,35",
-    "Fazenda": NaN
+    "Fazenda": null,
+    "Unnamed: 17": null
   },
   {
     "ID": "3516614",
@@ -14799,7 +15581,8 @@ const DOSAGEM_SULCO_DATA = [
     "Responsável": "MARCELO DE OLIVEIRA JUNIOR",
     "Produto": "Adubo",
     "Dosagem de Produto - Sulcação": "3,49",
-    "Fazenda": NaN
+    "Fazenda": null,
+    "Unnamed: 17": null
   },
   {
     "ID": "3516226",
@@ -14818,7 +15601,8 @@ const DOSAGEM_SULCO_DATA = [
     "Responsável": "GABRIEL HENRIQUE MARTINS PEREIRA",
     "Produto": "Adubo",
     "Dosagem de Produto - Sulcação": "3,18",
-    "Fazenda": NaN
+    "Fazenda": null,
+    "Unnamed: 17": null
   },
   {
     "ID": "3516225",
@@ -14837,7 +15621,8 @@ const DOSAGEM_SULCO_DATA = [
     "Responsável": "GABRIEL HENRIQUE MARTINS PEREIRA",
     "Produto": "Adubo",
     "Dosagem de Produto - Sulcação": "3,03",
-    "Fazenda": NaN
+    "Fazenda": null,
+    "Unnamed: 17": null
   },
   {
     "ID": "3516365",
@@ -14856,7 +15641,8 @@ const DOSAGEM_SULCO_DATA = [
     "Responsável": "MICHELI DE SOUZA SANTOS  ",
     "Produto": "Adubo",
     "Dosagem de Produto - Sulcação": "3,4",
-    "Fazenda": NaN
+    "Fazenda": null,
+    "Unnamed: 17": null
   },
   {
     "ID": "3516364",
@@ -14875,7 +15661,8 @@ const DOSAGEM_SULCO_DATA = [
     "Responsável": "MICHELI DE SOUZA SANTOS  ",
     "Produto": "Adubo",
     "Dosagem de Produto - Sulcação": "3,49",
-    "Fazenda": NaN
+    "Fazenda": null,
+    "Unnamed: 17": null
   },
   {
     "ID": "3516363",
@@ -14894,7 +15681,8 @@ const DOSAGEM_SULCO_DATA = [
     "Responsável": "MICHELI DE SOUZA SANTOS  ",
     "Produto": "Adubo",
     "Dosagem de Produto - Sulcação": "3,39",
-    "Fazenda": NaN
+    "Fazenda": null,
+    "Unnamed: 17": null
   },
   {
     "ID": "3516360",
@@ -14913,7 +15701,8 @@ const DOSAGEM_SULCO_DATA = [
     "Responsável": "MICHELI DE SOUZA SANTOS  ",
     "Produto": "Adubo",
     "Dosagem de Produto - Sulcação": "3,26",
-    "Fazenda": NaN
+    "Fazenda": null,
+    "Unnamed: 17": null
   },
   {
     "ID": "3516221",
@@ -14932,7 +15721,8 @@ const DOSAGEM_SULCO_DATA = [
     "Responsável": "GABRIEL HENRIQUE MARTINS PEREIRA",
     "Produto": "Adubo",
     "Dosagem de Produto - Sulcação": "3,145",
-    "Fazenda": NaN
+    "Fazenda": null,
+    "Unnamed: 17": null
   },
   {
     "ID": "3516212",
@@ -14951,7 +15741,8 @@ const DOSAGEM_SULCO_DATA = [
     "Responsável": "GABRIEL HENRIQUE MARTINS PEREIRA",
     "Produto": "Adubo",
     "Dosagem de Produto - Sulcação": "3,165",
-    "Fazenda": NaN
+    "Fazenda": null,
+    "Unnamed: 17": null
   },
   {
     "ID": "3515825",
@@ -14970,7 +15761,8 @@ const DOSAGEM_SULCO_DATA = [
     "Responsável": "REGINALDO DA SILVA GOMES ",
     "Produto": "Adubo",
     "Dosagem de Produto - Sulcação": "4,275",
-    "Fazenda": NaN
+    "Fazenda": null,
+    "Unnamed: 17": null
   },
   {
     "ID": "3515824",
@@ -14989,7 +15781,8 @@ const DOSAGEM_SULCO_DATA = [
     "Responsável": "REGINALDO DA SILVA GOMES ",
     "Produto": "Adubo",
     "Dosagem de Produto - Sulcação": "4,33",
-    "Fazenda": NaN
+    "Fazenda": null,
+    "Unnamed: 17": null
   },
   {
     "ID": "3515823",
@@ -15008,7 +15801,8 @@ const DOSAGEM_SULCO_DATA = [
     "Responsável": "REGINALDO DA SILVA GOMES ",
     "Produto": "Adubo",
     "Dosagem de Produto - Sulcação": "4,24",
-    "Fazenda": NaN
+    "Fazenda": null,
+    "Unnamed: 17": null
   },
   {
     "ID": "3515822",
@@ -15027,7 +15821,8 @@ const DOSAGEM_SULCO_DATA = [
     "Responsável": "REGINALDO DA SILVA GOMES ",
     "Produto": "Adubo",
     "Dosagem de Produto - Sulcação": "4,305",
-    "Fazenda": NaN
+    "Fazenda": null,
+    "Unnamed: 17": null
   },
   {
     "ID": "3516554",
@@ -15046,7 +15841,8 @@ const DOSAGEM_SULCO_DATA = [
     "Responsável": "MARCELO DE OLIVEIRA JUNIOR",
     "Produto": "Adubo",
     "Dosagem de Produto - Sulcação": "2,97",
-    "Fazenda": NaN
+    "Fazenda": null,
+    "Unnamed: 17": null
   },
   {
     "ID": "3516552",
@@ -15065,7 +15861,8 @@ const DOSAGEM_SULCO_DATA = [
     "Responsável": "MARCELO DE OLIVEIRA JUNIOR",
     "Produto": "Adubo",
     "Dosagem de Produto - Sulcação": "2,925",
-    "Fazenda": NaN
+    "Fazenda": null,
+    "Unnamed: 17": null
   },
   {
     "ID": "3513877",
@@ -15084,7 +15881,8 @@ const DOSAGEM_SULCO_DATA = [
     "Responsável": "MICHELI DE SOUZA SANTOS  ",
     "Produto": "Adubo",
     "Dosagem de Produto - Sulcação": "3,44",
-    "Fazenda": NaN
+    "Fazenda": null,
+    "Unnamed: 17": null
   },
   {
     "ID": "3513876",
@@ -15103,7 +15901,8 @@ const DOSAGEM_SULCO_DATA = [
     "Responsável": "MICHELI DE SOUZA SANTOS  ",
     "Produto": "Adubo",
     "Dosagem de Produto - Sulcação": "3,525",
-    "Fazenda": NaN
+    "Fazenda": null,
+    "Unnamed: 17": null
   },
   {
     "ID": "3513915",
@@ -15122,7 +15921,8 @@ const DOSAGEM_SULCO_DATA = [
     "Responsável": "NILDA CLAUDINO [2510716]",
     "Produto": "Adubo",
     "Dosagem de Produto - Sulcação": "4,33",
-    "Fazenda": NaN
+    "Fazenda": null,
+    "Unnamed: 17": null
   },
   {
     "ID": "3513916",
@@ -15141,7 +15941,8 @@ const DOSAGEM_SULCO_DATA = [
     "Responsável": "NILDA CLAUDINO [2510716]",
     "Produto": "Adubo",
     "Dosagem de Produto - Sulcação": "4,27",
-    "Fazenda": NaN
+    "Fazenda": null,
+    "Unnamed: 17": null
   },
   {
     "ID": "3513873",
@@ -15160,7 +15961,8 @@ const DOSAGEM_SULCO_DATA = [
     "Responsável": "VITOR AMORIM RAMOS ",
     "Produto": "Adubo",
     "Dosagem de Produto - Sulcação": "4,335",
-    "Fazenda": NaN
+    "Fazenda": null,
+    "Unnamed: 17": null
   },
   {
     "ID": "3513872",
@@ -15179,7 +15981,8 @@ const DOSAGEM_SULCO_DATA = [
     "Responsável": "VITOR AMORIM RAMOS ",
     "Produto": "Adubo",
     "Dosagem de Produto - Sulcação": "4,33",
-    "Fazenda": NaN
+    "Fazenda": null,
+    "Unnamed: 17": null
   },
   {
     "ID": "3513535",
@@ -15198,7 +16001,8 @@ const DOSAGEM_SULCO_DATA = [
     "Responsável": "MICHELI DE SOUZA SANTOS  ",
     "Produto": "Adubo",
     "Dosagem de Produto - Sulcação": "3,55",
-    "Fazenda": NaN
+    "Fazenda": null,
+    "Unnamed: 17": null
   },
   {
     "ID": "3513534",
@@ -15217,7 +16021,8 @@ const DOSAGEM_SULCO_DATA = [
     "Responsável": "MICHELI DE SOUZA SANTOS  ",
     "Produto": "Adubo",
     "Dosagem de Produto - Sulcação": "3,485",
-    "Fazenda": NaN
+    "Fazenda": null,
+    "Unnamed: 17": null
   },
   {
     "ID": "3513457",
@@ -15236,7 +16041,8 @@ const DOSAGEM_SULCO_DATA = [
     "Responsável": "FERNANDA DE SOUZA ",
     "Produto": "Adubo",
     "Dosagem de Produto - Sulcação": "3,53",
-    "Fazenda": NaN
+    "Fazenda": null,
+    "Unnamed: 17": null
   },
   {
     "ID": "3513456",
@@ -15255,7 +16061,8 @@ const DOSAGEM_SULCO_DATA = [
     "Responsável": "FERNANDA DE SOUZA ",
     "Produto": "Adubo",
     "Dosagem de Produto - Sulcação": "3,46",
-    "Fazenda": NaN
+    "Fazenda": null,
+    "Unnamed: 17": null
   },
   {
     "ID": "3514177",
@@ -15274,7 +16081,8 @@ const DOSAGEM_SULCO_DATA = [
     "Responsável": "MARCELO DE OLIVEIRA JUNIOR",
     "Produto": "Adubo",
     "Dosagem de Produto - Sulcação": "3,315",
-    "Fazenda": NaN
+    "Fazenda": null,
+    "Unnamed: 17": null
   },
   {
     "ID": "3514173",
@@ -15293,7 +16101,8 @@ const DOSAGEM_SULCO_DATA = [
     "Responsável": "MARCELO DE OLIVEIRA JUNIOR",
     "Produto": "Adubo",
     "Dosagem de Produto - Sulcação": "3,44",
-    "Fazenda": NaN
+    "Fazenda": null,
+    "Unnamed: 17": null
   },
   {
     "ID": "3513462",
@@ -15312,7 +16121,8 @@ const DOSAGEM_SULCO_DATA = [
     "Responsável": "FERNANDA DE SOUZA ",
     "Produto": "Adubo",
     "Dosagem de Produto - Sulcação": "3,395",
-    "Fazenda": NaN
+    "Fazenda": null,
+    "Unnamed: 17": null
   },
   {
     "ID": "3513453",
@@ -15331,7 +16141,8 @@ const DOSAGEM_SULCO_DATA = [
     "Responsável": "FERNANDA DE SOUZA ",
     "Produto": "Adubo",
     "Dosagem de Produto - Sulcação": "3,45",
-    "Fazenda": NaN
+    "Fazenda": null,
+    "Unnamed: 17": null
   },
   {
     "ID": "3511635",
@@ -15350,7 +16161,8 @@ const DOSAGEM_SULCO_DATA = [
     "Responsável": "MICHELI DE SOUZA SANTOS  ",
     "Produto": "Adubo",
     "Dosagem de Produto - Sulcação": "3,335",
-    "Fazenda": NaN
+    "Fazenda": null,
+    "Unnamed: 17": null
   },
   {
     "ID": "3511634",
@@ -15369,7 +16181,8 @@ const DOSAGEM_SULCO_DATA = [
     "Responsável": "MICHELI DE SOUZA SANTOS  ",
     "Produto": "Adubo",
     "Dosagem de Produto - Sulcação": "3,445",
-    "Fazenda": NaN
+    "Fazenda": null,
+    "Unnamed: 17": null
   },
   {
     "ID": "3511632",
@@ -15388,7 +16201,8 @@ const DOSAGEM_SULCO_DATA = [
     "Responsável": "MICHELI DE SOUZA SANTOS  ",
     "Produto": "Adubo",
     "Dosagem de Produto - Sulcação": "3,36",
-    "Fazenda": NaN
+    "Fazenda": null,
+    "Unnamed: 17": null
   },
   {
     "ID": "3511631",
@@ -15407,7 +16221,8 @@ const DOSAGEM_SULCO_DATA = [
     "Responsável": "MICHELI DE SOUZA SANTOS  ",
     "Produto": "Adubo",
     "Dosagem de Produto - Sulcação": "3,295",
-    "Fazenda": NaN
+    "Fazenda": null,
+    "Unnamed: 17": null
   },
   {
     "ID": "3511755",
@@ -15426,7 +16241,8 @@ const DOSAGEM_SULCO_DATA = [
     "Responsável": "FERNANDA DE SOUZA ",
     "Produto": "Adubo",
     "Dosagem de Produto - Sulcação": "3,375",
-    "Fazenda": NaN
+    "Fazenda": null,
+    "Unnamed: 17": null
   },
   {
     "ID": "3511756",
@@ -15445,7 +16261,8 @@ const DOSAGEM_SULCO_DATA = [
     "Responsável": "FERNANDA DE SOUZA ",
     "Produto": "Adubo",
     "Dosagem de Produto - Sulcação": "3,43",
-    "Fazenda": NaN
+    "Fazenda": null,
+    "Unnamed: 17": null
   },
   {
     "ID": "3511678",
@@ -15464,7 +16281,8 @@ const DOSAGEM_SULCO_DATA = [
     "Responsável": "VITOR AMORIM RAMOS ",
     "Produto": "Adubo",
     "Dosagem de Produto - Sulcação": "3,475",
-    "Fazenda": NaN
+    "Fazenda": null,
+    "Unnamed: 17": null
   },
   {
     "ID": "3511677",
@@ -15483,7 +16301,8 @@ const DOSAGEM_SULCO_DATA = [
     "Responsável": "VITOR AMORIM RAMOS ",
     "Produto": "Adubo",
     "Dosagem de Produto - Sulcação": "3,35",
-    "Fazenda": NaN
+    "Fazenda": null,
+    "Unnamed: 17": null
   },
   {
     "ID": "3512309",
@@ -15502,7 +16321,8 @@ const DOSAGEM_SULCO_DATA = [
     "Responsável": "MARCELO DE OLIVEIRA JUNIOR",
     "Produto": "Adubo",
     "Dosagem de Produto - Sulcação": "2,9",
-    "Fazenda": NaN
+    "Fazenda": null,
+    "Unnamed: 17": null
   },
   {
     "ID": "3512308",
@@ -15521,7 +16341,8 @@ const DOSAGEM_SULCO_DATA = [
     "Responsável": "MARCELO DE OLIVEIRA JUNIOR",
     "Produto": "Adubo",
     "Dosagem de Produto - Sulcação": "2,925",
-    "Fazenda": NaN
+    "Fazenda": null,
+    "Unnamed: 17": null
   },
   {
     "ID": "3512307",
@@ -15540,7 +16361,8 @@ const DOSAGEM_SULCO_DATA = [
     "Responsável": "MARCELO DE OLIVEIRA JUNIOR",
     "Produto": "Adubo",
     "Dosagem de Produto - Sulcação": "2,97",
-    "Fazenda": NaN
+    "Fazenda": null,
+    "Unnamed: 17": null
   },
   {
     "ID": "3512306",
@@ -15559,7 +16381,8 @@ const DOSAGEM_SULCO_DATA = [
     "Responsável": "MARCELO DE OLIVEIRA JUNIOR",
     "Produto": "Adubo",
     "Dosagem de Produto - Sulcação": "2,925",
-    "Fazenda": NaN
+    "Fazenda": null,
+    "Unnamed: 17": null
   },
   {
     "ID": "3511452",
@@ -15578,7 +16401,8 @@ const DOSAGEM_SULCO_DATA = [
     "Responsável": "VITOR AMORIM RAMOS ",
     "Produto": "Adubo",
     "Dosagem de Produto - Sulcação": "3,425",
-    "Fazenda": NaN
+    "Fazenda": null,
+    "Unnamed: 17": null
   },
   {
     "ID": "3511450",
@@ -15597,7 +16421,8 @@ const DOSAGEM_SULCO_DATA = [
     "Responsável": "VITOR AMORIM RAMOS ",
     "Produto": "Adubo",
     "Dosagem de Produto - Sulcação": "3,35",
-    "Fazenda": NaN
+    "Fazenda": null,
+    "Unnamed: 17": null
   },
   {
     "ID": "3511451",
@@ -15616,7 +16441,8 @@ const DOSAGEM_SULCO_DATA = [
     "Responsável": "VITOR AMORIM RAMOS ",
     "Produto": "Adubo",
     "Dosagem de Produto - Sulcação": "3,475",
-    "Fazenda": NaN
+    "Fazenda": null,
+    "Unnamed: 17": null
   },
   {
     "ID": "3511449",
@@ -15635,7 +16461,8 @@ const DOSAGEM_SULCO_DATA = [
     "Responsável": "VITOR AMORIM RAMOS ",
     "Produto": "Adubo",
     "Dosagem de Produto - Sulcação": "3,475",
-    "Fazenda": NaN
+    "Fazenda": null,
+    "Unnamed: 17": null
   },
   {
     "ID": "3511792",
@@ -15654,7 +16481,8 @@ const DOSAGEM_SULCO_DATA = [
     "Responsável": "GABRIEL HENRIQUE MARTINS PEREIRA",
     "Produto": "Adubo",
     "Dosagem de Produto - Sulcação": "3,425",
-    "Fazenda": NaN
+    "Fazenda": null,
+    "Unnamed: 17": null
   },
   {
     "ID": "3511791",
@@ -15673,7 +16501,8 @@ const DOSAGEM_SULCO_DATA = [
     "Responsável": "GABRIEL HENRIQUE MARTINS PEREIRA",
     "Produto": "Adubo",
     "Dosagem de Produto - Sulcação": "3,345",
-    "Fazenda": NaN
+    "Fazenda": null,
+    "Unnamed: 17": null
   },
   {
     "ID": "3511786",
@@ -15692,7 +16521,8 @@ const DOSAGEM_SULCO_DATA = [
     "Responsável": "GABRIEL HENRIQUE MARTINS PEREIRA",
     "Produto": "Adubo",
     "Dosagem de Produto - Sulcação": "3,42",
-    "Fazenda": NaN
+    "Fazenda": null,
+    "Unnamed: 17": null
   },
   {
     "ID": "3511789",
@@ -15711,7 +16541,8 @@ const DOSAGEM_SULCO_DATA = [
     "Responsável": "GABRIEL HENRIQUE MARTINS PEREIRA",
     "Produto": "Adubo",
     "Dosagem de Produto - Sulcação": "3,365",
-    "Fazenda": NaN
+    "Fazenda": null,
+    "Unnamed: 17": null
   },
   {
     "ID": "3509335",
@@ -15730,7 +16561,8 @@ const DOSAGEM_SULCO_DATA = [
     "Responsável": "NILDA CLAUDINO [2510716]",
     "Produto": "Adubo",
     "Dosagem de Produto - Sulcação": "3,325",
-    "Fazenda": NaN
+    "Fazenda": null,
+    "Unnamed: 17": null
   },
   {
     "ID": "3509334",
@@ -15749,7 +16581,8 @@ const DOSAGEM_SULCO_DATA = [
     "Responsável": "NILDA CLAUDINO [2510716]",
     "Produto": "Adubo",
     "Dosagem de Produto - Sulcação": "3,235",
-    "Fazenda": NaN
+    "Fazenda": null,
+    "Unnamed: 17": null
   },
   {
     "ID": "3509333",
@@ -15768,7 +16601,8 @@ const DOSAGEM_SULCO_DATA = [
     "Responsável": "NILDA CLAUDINO [2510716]",
     "Produto": "Adubo",
     "Dosagem de Produto - Sulcação": "3,47",
-    "Fazenda": NaN
+    "Fazenda": null,
+    "Unnamed: 17": null
   },
   {
     "ID": "3509332",
@@ -15787,7 +16621,8 @@ const DOSAGEM_SULCO_DATA = [
     "Responsável": "NILDA CLAUDINO [2510716]",
     "Produto": "Adubo",
     "Dosagem de Produto - Sulcação": "3,415",
-    "Fazenda": NaN
+    "Fazenda": null,
+    "Unnamed: 17": null
   },
   {
     "ID": "3509617",
@@ -15806,7 +16641,8 @@ const DOSAGEM_SULCO_DATA = [
     "Responsável": "FERNANDA DE SOUZA ",
     "Produto": "Adubo",
     "Dosagem de Produto - Sulcação": "3,405",
-    "Fazenda": NaN
+    "Fazenda": null,
+    "Unnamed: 17": null
   },
   {
     "ID": "3509616",
@@ -15825,7 +16661,8 @@ const DOSAGEM_SULCO_DATA = [
     "Responsável": "FERNANDA DE SOUZA ",
     "Produto": "Adubo",
     "Dosagem de Produto - Sulcação": "3,35",
-    "Fazenda": NaN
+    "Fazenda": null,
+    "Unnamed: 17": null
   },
   {
     "ID": "3507658",
@@ -15844,7 +16681,8 @@ const DOSAGEM_SULCO_DATA = [
     "Responsável": "MARCELO DE OLIVEIRA JUNIOR",
     "Produto": "Adubo",
     "Dosagem de Produto - Sulcação": "3,44",
-    "Fazenda": NaN
+    "Fazenda": null,
+    "Unnamed: 17": null
   },
   {
     "ID": "3507657",
@@ -15863,7 +16701,8 @@ const DOSAGEM_SULCO_DATA = [
     "Responsável": "MARCELO DE OLIVEIRA JUNIOR",
     "Produto": "Adubo",
     "Dosagem de Produto - Sulcação": "3,315",
-    "Fazenda": NaN
+    "Fazenda": null,
+    "Unnamed: 17": null
   },
   {
     "ID": "3507656",
@@ -15882,7 +16721,8 @@ const DOSAGEM_SULCO_DATA = [
     "Responsável": "MARCELO DE OLIVEIRA JUNIOR",
     "Produto": "Adubo",
     "Dosagem de Produto - Sulcação": "3,52",
-    "Fazenda": NaN
+    "Fazenda": null,
+    "Unnamed: 17": null
   },
   {
     "ID": "3507655",
@@ -15901,7 +16741,8 @@ const DOSAGEM_SULCO_DATA = [
     "Responsável": "MARCELO DE OLIVEIRA JUNIOR",
     "Produto": "Adubo",
     "Dosagem de Produto - Sulcação": "3,47",
-    "Fazenda": NaN
+    "Fazenda": null,
+    "Unnamed: 17": null
   },
   {
     "ID": "3507654",
@@ -15920,7 +16761,8 @@ const DOSAGEM_SULCO_DATA = [
     "Responsável": "MARCELO DE OLIVEIRA JUNIOR",
     "Produto": "Adubo",
     "Dosagem de Produto - Sulcação": "3,44",
-    "Fazenda": NaN
+    "Fazenda": null,
+    "Unnamed: 17": null
   },
   {
     "ID": "3507653",
@@ -15939,7 +16781,8 @@ const DOSAGEM_SULCO_DATA = [
     "Responsável": "MARCELO DE OLIVEIRA JUNIOR",
     "Produto": "Adubo",
     "Dosagem de Produto - Sulcação": "3,315",
-    "Fazenda": NaN
+    "Fazenda": null,
+    "Unnamed: 17": null
   },
   {
     "ID": "3507652",
@@ -15958,7 +16801,8 @@ const DOSAGEM_SULCO_DATA = [
     "Responsável": "MARCELO DE OLIVEIRA JUNIOR",
     "Produto": "Adubo",
     "Dosagem de Produto - Sulcação": "3,52",
-    "Fazenda": NaN
+    "Fazenda": null,
+    "Unnamed: 17": null
   },
   {
     "ID": "3507651",
@@ -15977,7 +16821,8 @@ const DOSAGEM_SULCO_DATA = [
     "Responsável": "MARCELO DE OLIVEIRA JUNIOR",
     "Produto": "Adubo",
     "Dosagem de Produto - Sulcação": "3,47",
-    "Fazenda": NaN
+    "Fazenda": null,
+    "Unnamed: 17": null
   },
   {
     "ID": "3507629",
@@ -15996,7 +16841,8 @@ const DOSAGEM_SULCO_DATA = [
     "Responsável": "FERNANDA DE SOUZA ",
     "Produto": "Adubo",
     "Dosagem de Produto - Sulcação": "3,375",
-    "Fazenda": NaN
+    "Fazenda": null,
+    "Unnamed: 17": null
   },
   {
     "ID": "3507628",
@@ -16015,7 +16861,8 @@ const DOSAGEM_SULCO_DATA = [
     "Responsável": "FERNANDA DE SOUZA ",
     "Produto": "Adubo",
     "Dosagem de Produto - Sulcação": "3,55",
-    "Fazenda": NaN
+    "Fazenda": null,
+    "Unnamed: 17": null
   },
   {
     "ID": "3507749",
@@ -16034,7 +16881,8 @@ const DOSAGEM_SULCO_DATA = [
     "Responsável": "GABRIEL HENRIQUE MARTINS PEREIRA",
     "Produto": "Adubo",
     "Dosagem de Produto - Sulcação": "3,42",
-    "Fazenda": NaN
+    "Fazenda": null,
+    "Unnamed: 17": null
   },
   {
     "ID": "3507702",
@@ -16053,7 +16901,8 @@ const DOSAGEM_SULCO_DATA = [
     "Responsável": "GABRIEL HENRIQUE MARTINS PEREIRA",
     "Produto": "Adubo",
     "Dosagem de Produto - Sulcação": "3,425",
-    "Fazenda": NaN
+    "Fazenda": null,
+    "Unnamed: 17": null
   },
   {
     "ID": "3507607",
@@ -16072,7 +16921,8 @@ const DOSAGEM_SULCO_DATA = [
     "Responsável": "GABRIEL HENRIQUE MARTINS PEREIRA",
     "Produto": "Adubo",
     "Dosagem de Produto - Sulcação": "3,365",
-    "Fazenda": NaN
+    "Fazenda": null,
+    "Unnamed: 17": null
   },
   {
     "ID": "3507592",
@@ -16091,7 +16941,8 @@ const DOSAGEM_SULCO_DATA = [
     "Responsável": "GABRIEL HENRIQUE MARTINS PEREIRA",
     "Produto": "Adubo",
     "Dosagem de Produto - Sulcação": "3,345",
-    "Fazenda": NaN
+    "Fazenda": null,
+    "Unnamed: 17": null
   },
   {
     "ID": "3498673",
@@ -16110,7 +16961,8 @@ const DOSAGEM_SULCO_DATA = [
     "Responsável": "MARCELO DE OLIVEIRA JUNIOR",
     "Produto": "Adubo",
     "Dosagem de Produto - Sulcação": "3,45",
-    "Fazenda": NaN
+    "Fazenda": null,
+    "Unnamed: 17": null
   },
   {
     "ID": "3498672",
@@ -16129,7 +16981,8 @@ const DOSAGEM_SULCO_DATA = [
     "Responsável": "MARCELO DE OLIVEIRA JUNIOR",
     "Produto": "Adubo",
     "Dosagem de Produto - Sulcação": "3,41",
-    "Fazenda": NaN
+    "Fazenda": null,
+    "Unnamed: 17": null
   },
   {
     "ID": "3498669",
@@ -16148,7 +17001,8 @@ const DOSAGEM_SULCO_DATA = [
     "Responsável": "MARCELO DE OLIVEIRA JUNIOR",
     "Produto": "Adubo",
     "Dosagem de Produto - Sulcação": "3,51",
-    "Fazenda": NaN
+    "Fazenda": null,
+    "Unnamed: 17": null
   },
   {
     "ID": "3498668",
@@ -16167,7 +17021,8 @@ const DOSAGEM_SULCO_DATA = [
     "Responsável": "MARCELO DE OLIVEIRA JUNIOR",
     "Produto": "Adubo",
     "Dosagem de Produto - Sulcação": "3,355",
-    "Fazenda": NaN
+    "Fazenda": null,
+    "Unnamed: 17": null
   },
   {
     "ID": "3498575",
@@ -16186,7 +17041,8 @@ const DOSAGEM_SULCO_DATA = [
     "Responsável": "FERNANDA DE SOUZA ",
     "Produto": "Adubo",
     "Dosagem de Produto - Sulcação": "3,36",
-    "Fazenda": NaN
+    "Fazenda": null,
+    "Unnamed: 17": null
   },
   {
     "ID": "3498574",
@@ -16205,7 +17061,8 @@ const DOSAGEM_SULCO_DATA = [
     "Responsável": "FERNANDA DE SOUZA ",
     "Produto": "Adubo",
     "Dosagem de Produto - Sulcação": "3,51",
-    "Fazenda": NaN
+    "Fazenda": null,
+    "Unnamed: 17": null
   },
   {
     "ID": "3498573",
@@ -16224,7 +17081,8 @@ const DOSAGEM_SULCO_DATA = [
     "Responsável": "FERNANDA DE SOUZA ",
     "Produto": "Adubo",
     "Dosagem de Produto - Sulcação": "3,415",
-    "Fazenda": NaN
+    "Fazenda": null,
+    "Unnamed: 17": null
   },
   {
     "ID": "3498572",
@@ -16243,7 +17101,8 @@ const DOSAGEM_SULCO_DATA = [
     "Responsável": "FERNANDA DE SOUZA ",
     "Produto": "Adubo",
     "Dosagem de Produto - Sulcação": "3,41",
-    "Fazenda": NaN
+    "Fazenda": null,
+    "Unnamed: 17": null
   },
   {
     "ID": "3496815",
@@ -16262,7 +17121,8 @@ const DOSAGEM_SULCO_DATA = [
     "Responsável": "MARCELO DE OLIVEIRA JUNIOR",
     "Produto": "Adubo",
     "Dosagem de Produto - Sulcação": "3,45",
-    "Fazenda": NaN
+    "Fazenda": null,
+    "Unnamed: 17": null
   },
   {
     "ID": "3496814",
@@ -16281,7 +17141,8 @@ const DOSAGEM_SULCO_DATA = [
     "Responsável": "MARCELO DE OLIVEIRA JUNIOR",
     "Produto": "Adubo",
     "Dosagem de Produto - Sulcação": "3,41",
-    "Fazenda": NaN
+    "Fazenda": null,
+    "Unnamed: 17": null
   },
   {
     "ID": "3496813",
@@ -16300,7 +17161,8 @@ const DOSAGEM_SULCO_DATA = [
     "Responsável": "MARCELO DE OLIVEIRA JUNIOR",
     "Produto": "Adubo",
     "Dosagem de Produto - Sulcação": "3,51",
-    "Fazenda": NaN
+    "Fazenda": null,
+    "Unnamed: 17": null
   },
   {
     "ID": "3496812",
@@ -16319,7 +17181,8 @@ const DOSAGEM_SULCO_DATA = [
     "Responsável": "MARCELO DE OLIVEIRA JUNIOR",
     "Produto": "Adubo",
     "Dosagem de Produto - Sulcação": "3,355",
-    "Fazenda": NaN
+    "Fazenda": null,
+    "Unnamed: 17": null
   },
   {
     "ID": "3496811",
@@ -16338,7 +17201,8 @@ const DOSAGEM_SULCO_DATA = [
     "Responsável": "MARCELO DE OLIVEIRA JUNIOR",
     "Produto": "Adubo",
     "Dosagem de Produto - Sulcação": "3,45",
-    "Fazenda": NaN
+    "Fazenda": null,
+    "Unnamed: 17": null
   },
   {
     "ID": "3496810",
@@ -16357,7 +17221,8 @@ const DOSAGEM_SULCO_DATA = [
     "Responsável": "MARCELO DE OLIVEIRA JUNIOR",
     "Produto": "Adubo",
     "Dosagem de Produto - Sulcação": "3,41",
-    "Fazenda": NaN
+    "Fazenda": null,
+    "Unnamed: 17": null
   },
   {
     "ID": "3496809",
@@ -16376,7 +17241,8 @@ const DOSAGEM_SULCO_DATA = [
     "Responsável": "MARCELO DE OLIVEIRA JUNIOR",
     "Produto": "Adubo",
     "Dosagem de Produto - Sulcação": "3,51",
-    "Fazenda": NaN
+    "Fazenda": null,
+    "Unnamed: 17": null
   },
   {
     "ID": "3496808",
@@ -16395,7 +17261,8 @@ const DOSAGEM_SULCO_DATA = [
     "Responsável": "MARCELO DE OLIVEIRA JUNIOR",
     "Produto": "Adubo",
     "Dosagem de Produto - Sulcação": "3,355",
-    "Fazenda": NaN
+    "Fazenda": null,
+    "Unnamed: 17": null
   },
   {
     "ID": "3496295",
@@ -16414,7 +17281,8 @@ const DOSAGEM_SULCO_DATA = [
     "Responsável": "GLEISON FELIPE BORGES DE MATOS",
     "Produto": "Adubo",
     "Dosagem de Produto - Sulcação": "3,52",
-    "Fazenda": NaN
+    "Fazenda": null,
+    "Unnamed: 17": null
   },
   {
     "ID": "3496294",
@@ -16433,7 +17301,8 @@ const DOSAGEM_SULCO_DATA = [
     "Responsável": "GLEISON FELIPE BORGES DE MATOS",
     "Produto": "Adubo",
     "Dosagem de Produto - Sulcação": "3,465",
-    "Fazenda": NaN
+    "Fazenda": null,
+    "Unnamed: 17": null
   },
   {
     "ID": "3496668",
@@ -16452,7 +17321,8 @@ const DOSAGEM_SULCO_DATA = [
     "Responsável": "FERNANDA DE SOUZA ",
     "Produto": "Adubo",
     "Dosagem de Produto - Sulcação": "3,335",
-    "Fazenda": NaN
+    "Fazenda": null,
+    "Unnamed: 17": null
   },
   {
     "ID": "3496667",
@@ -16471,7 +17341,8 @@ const DOSAGEM_SULCO_DATA = [
     "Responsável": "FERNANDA DE SOUZA ",
     "Produto": "Adubo",
     "Dosagem de Produto - Sulcação": "3,375",
-    "Fazenda": NaN
+    "Fazenda": null,
+    "Unnamed: 17": null
   },
   {
     "ID": "3494500",
@@ -16490,7 +17361,8 @@ const DOSAGEM_SULCO_DATA = [
     "Responsável": "GLEISON FELIPE BORGES DE MATOS",
     "Produto": "Adubo",
     "Dosagem de Produto - Sulcação": "3,38",
-    "Fazenda": NaN
+    "Fazenda": null,
+    "Unnamed: 17": null
   },
   {
     "ID": "3494498",
@@ -16509,7 +17381,8 @@ const DOSAGEM_SULCO_DATA = [
     "Responsável": "GLEISON FELIPE BORGES DE MATOS",
     "Produto": "Adubo",
     "Dosagem de Produto - Sulcação": "3,435",
-    "Fazenda": NaN
+    "Fazenda": null,
+    "Unnamed: 17": null
   },
   {
     "ID": "3494497",
@@ -16528,7 +17401,8 @@ const DOSAGEM_SULCO_DATA = [
     "Responsável": "GLEISON FELIPE BORGES DE MATOS",
     "Produto": "Adubo",
     "Dosagem de Produto - Sulcação": "3,435",
-    "Fazenda": NaN
+    "Fazenda": null,
+    "Unnamed: 17": null
   },
   {
     "ID": "3494496",
@@ -16547,7 +17421,8 @@ const DOSAGEM_SULCO_DATA = [
     "Responsável": "GLEISON FELIPE BORGES DE MATOS",
     "Produto": "Adubo",
     "Dosagem de Produto - Sulcação": "3,505",
-    "Fazenda": NaN
+    "Fazenda": null,
+    "Unnamed: 17": null
   },
   {
     "ID": "3494686",
@@ -16566,7 +17441,8 @@ const DOSAGEM_SULCO_DATA = [
     "Responsável": "NILDA CLAUDINO [2510716]",
     "Produto": "Adubo",
     "Dosagem de Produto - Sulcação": "3,245",
-    "Fazenda": NaN
+    "Fazenda": null,
+    "Unnamed: 17": null
   },
   {
     "ID": "3494685",
@@ -16585,7 +17461,8 @@ const DOSAGEM_SULCO_DATA = [
     "Responsável": "NILDA CLAUDINO [2510716]",
     "Produto": "Adubo",
     "Dosagem de Produto - Sulcação": "3,2",
-    "Fazenda": NaN
+    "Fazenda": null,
+    "Unnamed: 17": null
   },
   {
     "ID": "3495185",
@@ -16604,7 +17481,8 @@ const DOSAGEM_SULCO_DATA = [
     "Responsável": "MARCELO DE OLIVEIRA JUNIOR",
     "Produto": "Adubo",
     "Dosagem de Produto - Sulcação": "3,345",
-    "Fazenda": NaN
+    "Fazenda": null,
+    "Unnamed: 17": null
   },
   {
     "ID": "3495184",
@@ -16623,7 +17501,8 @@ const DOSAGEM_SULCO_DATA = [
     "Responsável": "MARCELO DE OLIVEIRA JUNIOR",
     "Produto": "Adubo",
     "Dosagem de Produto - Sulcação": "3,465",
-    "Fazenda": NaN
+    "Fazenda": null,
+    "Unnamed: 17": null
   },
   {
     "ID": "3495183",
@@ -16642,7 +17521,8 @@ const DOSAGEM_SULCO_DATA = [
     "Responsável": "MARCELO DE OLIVEIRA JUNIOR",
     "Produto": "Adubo",
     "Dosagem de Produto - Sulcação": "3,46",
-    "Fazenda": NaN
+    "Fazenda": null,
+    "Unnamed: 17": null
   },
   {
     "ID": "3495182",
@@ -16661,7 +17541,8 @@ const DOSAGEM_SULCO_DATA = [
     "Responsável": "MARCELO DE OLIVEIRA JUNIOR",
     "Produto": "Adubo",
     "Dosagem de Produto - Sulcação": "3,37",
-    "Fazenda": NaN
+    "Fazenda": null,
+    "Unnamed: 17": null
   },
   {
     "ID": "3495181",
@@ -16680,7 +17561,8 @@ const DOSAGEM_SULCO_DATA = [
     "Responsável": "MARCELO DE OLIVEIRA JUNIOR",
     "Produto": "Adubo",
     "Dosagem de Produto - Sulcação": "3,46",
-    "Fazenda": NaN
+    "Fazenda": null,
+    "Unnamed: 17": null
   },
   {
     "ID": "3495180",
@@ -16699,7 +17581,8 @@ const DOSAGEM_SULCO_DATA = [
     "Responsável": "MARCELO DE OLIVEIRA JUNIOR",
     "Produto": "Adubo",
     "Dosagem de Produto - Sulcação": "3,37",
-    "Fazenda": NaN
+    "Fazenda": null,
+    "Unnamed: 17": null
   },
   {
     "ID": "3495179",
@@ -16718,7 +17601,8 @@ const DOSAGEM_SULCO_DATA = [
     "Responsável": "MARCELO DE OLIVEIRA JUNIOR",
     "Produto": "Adubo",
     "Dosagem de Produto - Sulcação": "3,465",
-    "Fazenda": NaN
+    "Fazenda": null,
+    "Unnamed: 17": null
   },
   {
     "ID": "3495178",
@@ -16737,7 +17621,8 @@ const DOSAGEM_SULCO_DATA = [
     "Responsável": "MARCELO DE OLIVEIRA JUNIOR",
     "Produto": "Adubo",
     "Dosagem de Produto - Sulcação": "3,345",
-    "Fazenda": NaN
+    "Fazenda": null,
+    "Unnamed: 17": null
   },
   {
     "ID": "3495177",
@@ -16756,7 +17641,8 @@ const DOSAGEM_SULCO_DATA = [
     "Responsável": "MARCELO DE OLIVEIRA JUNIOR",
     "Produto": "Adubo",
     "Dosagem de Produto - Sulcação": "3,46",
-    "Fazenda": NaN
+    "Fazenda": null,
+    "Unnamed: 17": null
   },
   {
     "ID": "3495176",
@@ -16775,7 +17661,8 @@ const DOSAGEM_SULCO_DATA = [
     "Responsável": "MARCELO DE OLIVEIRA JUNIOR",
     "Produto": "Adubo",
     "Dosagem de Produto - Sulcação": "3,37",
-    "Fazenda": NaN
+    "Fazenda": null,
+    "Unnamed: 17": null
   },
   {
     "ID": "3495175",
@@ -16794,7 +17681,8 @@ const DOSAGEM_SULCO_DATA = [
     "Responsável": "MARCELO DE OLIVEIRA JUNIOR",
     "Produto": "Adubo",
     "Dosagem de Produto - Sulcação": "3,345",
-    "Fazenda": NaN
+    "Fazenda": null,
+    "Unnamed: 17": null
   },
   {
     "ID": "3495174",
@@ -16813,7 +17701,8 @@ const DOSAGEM_SULCO_DATA = [
     "Responsável": "MARCELO DE OLIVEIRA JUNIOR",
     "Produto": "Adubo",
     "Dosagem de Produto - Sulcação": "3,465",
-    "Fazenda": NaN
+    "Fazenda": null,
+    "Unnamed: 17": null
   },
   {
     "ID": "3494628",
@@ -16832,7 +17721,8 @@ const DOSAGEM_SULCO_DATA = [
     "Responsável": "FERNANDA DE SOUZA ",
     "Produto": "Adubo",
     "Dosagem de Produto - Sulcação": "3,37",
-    "Fazenda": NaN
+    "Fazenda": null,
+    "Unnamed: 17": null
   },
   {
     "ID": "3494625",
@@ -16851,7 +17741,8 @@ const DOSAGEM_SULCO_DATA = [
     "Responsável": "FERNANDA DE SOUZA ",
     "Produto": "Adubo",
     "Dosagem de Produto - Sulcação": "3,335",
-    "Fazenda": NaN
+    "Fazenda": null,
+    "Unnamed: 17": null
   },
   {
     "ID": "3494626",
@@ -16870,7 +17761,8 @@ const DOSAGEM_SULCO_DATA = [
     "Responsável": "FERNANDA DE SOUZA ",
     "Produto": "Adubo",
     "Dosagem de Produto - Sulcação": "3,305",
-    "Fazenda": NaN
+    "Fazenda": null,
+    "Unnamed: 17": null
   },
   {
     "ID": "3494627",
@@ -16889,7 +17781,8 @@ const DOSAGEM_SULCO_DATA = [
     "Responsável": "FERNANDA DE SOUZA ",
     "Produto": "Adubo",
     "Dosagem de Produto - Sulcação": "3,26",
-    "Fazenda": NaN
+    "Fazenda": null,
+    "Unnamed: 17": null
   },
   {
     "ID": "3494342",
@@ -16908,7 +17801,8 @@ const DOSAGEM_SULCO_DATA = [
     "Responsável": "GABRIEL HENRIQUE MARTINS PEREIRA",
     "Produto": "Adubo",
     "Dosagem de Produto - Sulcação": "2,86",
-    "Fazenda": NaN
+    "Fazenda": null,
+    "Unnamed: 17": null
   },
   {
     "ID": "3494341",
@@ -16927,7 +17821,8 @@ const DOSAGEM_SULCO_DATA = [
     "Responsável": "GABRIEL HENRIQUE MARTINS PEREIRA",
     "Produto": "Adubo",
     "Dosagem de Produto - Sulcação": "2,87",
-    "Fazenda": NaN
+    "Fazenda": null,
+    "Unnamed: 17": null
   },
   {
     "ID": "3493100",
@@ -16946,7 +17841,8 @@ const DOSAGEM_SULCO_DATA = [
     "Responsável": "MARCELO DE OLIVEIRA JUNIOR",
     "Produto": "Adubo",
     "Dosagem de Produto - Sulcação": "3,31",
-    "Fazenda": NaN
+    "Fazenda": null,
+    "Unnamed: 17": null
   },
   {
     "ID": "3493099",
@@ -16965,7 +17861,8 @@ const DOSAGEM_SULCO_DATA = [
     "Responsável": "MARCELO DE OLIVEIRA JUNIOR",
     "Produto": "Adubo",
     "Dosagem de Produto - Sulcação": "3,425",
-    "Fazenda": NaN
+    "Fazenda": null,
+    "Unnamed: 17": null
   },
   {
     "ID": "3492282",
@@ -16984,7 +17881,8 @@ const DOSAGEM_SULCO_DATA = [
     "Responsável": "EDILIANA CARDOSO DA COSTA",
     "Produto": "Adubo",
     "Dosagem de Produto - Sulcação": "2,73",
-    "Fazenda": NaN
+    "Fazenda": null,
+    "Unnamed: 17": null
   },
   {
     "ID": "3492281",
@@ -17003,7 +17901,8 @@ const DOSAGEM_SULCO_DATA = [
     "Responsável": "EDILIANA CARDOSO DA COSTA",
     "Produto": "Adubo",
     "Dosagem de Produto - Sulcação": "2,96",
-    "Fazenda": NaN
+    "Fazenda": null,
+    "Unnamed: 17": null
   },
   {
     "ID": "3492438",
@@ -17022,7 +17921,8 @@ const DOSAGEM_SULCO_DATA = [
     "Responsável": "GABRIEL HENRIQUE MARTINS PEREIRA",
     "Produto": "Adubo",
     "Dosagem de Produto - Sulcação": "3,36",
-    "Fazenda": NaN
+    "Fazenda": null,
+    "Unnamed: 17": null
   },
   {
     "ID": "3492437",
@@ -17041,7 +17941,8 @@ const DOSAGEM_SULCO_DATA = [
     "Responsável": "GABRIEL HENRIQUE MARTINS PEREIRA",
     "Produto": "Adubo",
     "Dosagem de Produto - Sulcação": "3,4",
-    "Fazenda": NaN
+    "Fazenda": null,
+    "Unnamed: 17": null
   },
   {
     "ID": "3492499",
@@ -17060,7 +17961,8 @@ const DOSAGEM_SULCO_DATA = [
     "Responsável": "FERNANDA DE SOUZA ",
     "Produto": "Adubo",
     "Dosagem de Produto - Sulcação": "3,425",
-    "Fazenda": NaN
+    "Fazenda": null,
+    "Unnamed: 17": null
   },
   {
     "ID": "3492498",
@@ -17079,7 +17981,8 @@ const DOSAGEM_SULCO_DATA = [
     "Responsável": "FERNANDA DE SOUZA ",
     "Produto": "Adubo",
     "Dosagem de Produto - Sulcação": "3,375",
-    "Fazenda": NaN
+    "Fazenda": null,
+    "Unnamed: 17": null
   },
   {
     "ID": "3492436",
@@ -17098,7 +18001,8 @@ const DOSAGEM_SULCO_DATA = [
     "Responsável": "GABRIEL HENRIQUE MARTINS PEREIRA",
     "Produto": "Adubo",
     "Dosagem de Produto - Sulcação": "3,46",
-    "Fazenda": NaN
+    "Fazenda": null,
+    "Unnamed: 17": null
   },
   {
     "ID": "3492435",
@@ -17117,7 +18021,8 @@ const DOSAGEM_SULCO_DATA = [
     "Responsável": "GABRIEL HENRIQUE MARTINS PEREIRA",
     "Produto": "Adubo",
     "Dosagem de Produto - Sulcação": "3,33",
-    "Fazenda": NaN
+    "Fazenda": null,
+    "Unnamed: 17": null
   },
   {
     "ID": "3492430",
@@ -17136,7 +18041,8 @@ const DOSAGEM_SULCO_DATA = [
     "Responsável": "GABRIEL HENRIQUE MARTINS PEREIRA",
     "Produto": "Adubo",
     "Dosagem de Produto - Sulcação": "3,33",
-    "Fazenda": NaN
+    "Fazenda": null,
+    "Unnamed: 17": null
   },
   {
     "ID": "3492429",
@@ -17155,7 +18061,8 @@ const DOSAGEM_SULCO_DATA = [
     "Responsável": "GABRIEL HENRIQUE MARTINS PEREIRA",
     "Produto": "Adubo",
     "Dosagem de Produto - Sulcação": "3,405",
-    "Fazenda": NaN
+    "Fazenda": null,
+    "Unnamed: 17": null
   },
   {
     "ID": "3492428",
@@ -17174,7 +18081,8 @@ const DOSAGEM_SULCO_DATA = [
     "Responsável": "GABRIEL HENRIQUE MARTINS PEREIRA",
     "Produto": "Adubo",
     "Dosagem de Produto - Sulcação": "3,345",
-    "Fazenda": NaN
+    "Fazenda": null,
+    "Unnamed: 17": null
   },
   {
     "ID": "3492427",
@@ -17193,7 +18101,8 @@ const DOSAGEM_SULCO_DATA = [
     "Responsável": "GABRIEL HENRIQUE MARTINS PEREIRA",
     "Produto": "Adubo",
     "Dosagem de Produto - Sulcação": "3,35",
-    "Fazenda": NaN
+    "Fazenda": null,
+    "Unnamed: 17": null
   },
   {
     "ID": "3491297",
@@ -17212,7 +18121,8 @@ const DOSAGEM_SULCO_DATA = [
     "Responsável": "MARCELO DE OLIVEIRA JUNIOR",
     "Produto": "Adubo",
     "Dosagem de Produto - Sulcação": "3,46",
-    "Fazenda": NaN
+    "Fazenda": null,
+    "Unnamed: 17": null
   },
   {
     "ID": "3491296",
@@ -17231,7 +18141,8 @@ const DOSAGEM_SULCO_DATA = [
     "Responsável": "MARCELO DE OLIVEIRA JUNIOR",
     "Produto": "Adubo",
     "Dosagem de Produto - Sulcação": "3,37",
-    "Fazenda": NaN
+    "Fazenda": null,
+    "Unnamed: 17": null
   },
   {
     "ID": "3491295",
@@ -17250,7 +18161,8 @@ const DOSAGEM_SULCO_DATA = [
     "Responsável": "MARCELO DE OLIVEIRA JUNIOR",
     "Produto": "Adubo",
     "Dosagem de Produto - Sulcação": "3,335",
-    "Fazenda": NaN
+    "Fazenda": null,
+    "Unnamed: 17": null
   },
   {
     "ID": "3491294",
@@ -17269,7 +18181,8 @@ const DOSAGEM_SULCO_DATA = [
     "Responsável": "MARCELO DE OLIVEIRA JUNIOR",
     "Produto": "Adubo",
     "Dosagem de Produto - Sulcação": "3,505",
-    "Fazenda": NaN
+    "Fazenda": null,
+    "Unnamed: 17": null
   },
   {
     "ID": "3491259",
@@ -17288,7 +18201,8 @@ const DOSAGEM_SULCO_DATA = [
     "Responsável": "MARCELO DE OLIVEIRA JUNIOR",
     "Produto": "Adubo",
     "Dosagem de Produto - Sulcação": "3,46",
-    "Fazenda": NaN
+    "Fazenda": null,
+    "Unnamed: 17": null
   },
   {
     "ID": "3491258",
@@ -17307,7 +18221,8 @@ const DOSAGEM_SULCO_DATA = [
     "Responsável": "MARCELO DE OLIVEIRA JUNIOR",
     "Produto": "Adubo",
     "Dosagem de Produto - Sulcação": "3,37",
-    "Fazenda": NaN
+    "Fazenda": null,
+    "Unnamed: 17": null
   },
   {
     "ID": "3491257",
@@ -17326,7 +18241,8 @@ const DOSAGEM_SULCO_DATA = [
     "Responsável": "MARCELO DE OLIVEIRA JUNIOR",
     "Produto": "Adubo",
     "Dosagem de Produto - Sulcação": "3,335",
-    "Fazenda": NaN
+    "Fazenda": null,
+    "Unnamed: 17": null
   },
   {
     "ID": "3491256",
@@ -17345,7 +18261,8 @@ const DOSAGEM_SULCO_DATA = [
     "Responsável": "MARCELO DE OLIVEIRA JUNIOR",
     "Produto": "Adubo",
     "Dosagem de Produto - Sulcação": "3,505",
-    "Fazenda": NaN
+    "Fazenda": null,
+    "Unnamed: 17": null
   },
   {
     "ID": "3491255",
@@ -17364,7 +18281,8 @@ const DOSAGEM_SULCO_DATA = [
     "Responsável": "MARCELO DE OLIVEIRA JUNIOR",
     "Produto": "Adubo",
     "Dosagem de Produto - Sulcação": "3,46",
-    "Fazenda": NaN
+    "Fazenda": null,
+    "Unnamed: 17": null
   },
   {
     "ID": "3491254",
@@ -17383,7 +18301,8 @@ const DOSAGEM_SULCO_DATA = [
     "Responsável": "MARCELO DE OLIVEIRA JUNIOR",
     "Produto": "Adubo",
     "Dosagem de Produto - Sulcação": "3,37",
-    "Fazenda": NaN
+    "Fazenda": null,
+    "Unnamed: 17": null
   },
   {
     "ID": "3491253",
@@ -17402,7 +18321,8 @@ const DOSAGEM_SULCO_DATA = [
     "Responsável": "MARCELO DE OLIVEIRA JUNIOR",
     "Produto": "Adubo",
     "Dosagem de Produto - Sulcação": "3,335",
-    "Fazenda": NaN
+    "Fazenda": null,
+    "Unnamed: 17": null
   },
   {
     "ID": "3491252",
@@ -17421,7 +18341,8 @@ const DOSAGEM_SULCO_DATA = [
     "Responsável": "MARCELO DE OLIVEIRA JUNIOR",
     "Produto": "Adubo",
     "Dosagem de Produto - Sulcação": "3,505",
-    "Fazenda": NaN
+    "Fazenda": null,
+    "Unnamed: 17": null
   },
   {
     "ID": "3491247",
@@ -17440,7 +18361,8 @@ const DOSAGEM_SULCO_DATA = [
     "Responsável": "MARCELO DE OLIVEIRA JUNIOR",
     "Produto": "Adubo",
     "Dosagem de Produto - Sulcação": "3,46",
-    "Fazenda": NaN
+    "Fazenda": null,
+    "Unnamed: 17": null
   },
   {
     "ID": "3491246",
@@ -17459,7 +18381,8 @@ const DOSAGEM_SULCO_DATA = [
     "Responsável": "MARCELO DE OLIVEIRA JUNIOR",
     "Produto": "Adubo",
     "Dosagem de Produto - Sulcação": "3,37",
-    "Fazenda": NaN
+    "Fazenda": null,
+    "Unnamed: 17": null
   },
   {
     "ID": "3491245",
@@ -17478,7 +18401,8 @@ const DOSAGEM_SULCO_DATA = [
     "Responsável": "MARCELO DE OLIVEIRA JUNIOR",
     "Produto": "Adubo",
     "Dosagem de Produto - Sulcação": "3,335",
-    "Fazenda": NaN
+    "Fazenda": null,
+    "Unnamed: 17": null
   },
   {
     "ID": "3491244",
@@ -17497,7 +18421,8 @@ const DOSAGEM_SULCO_DATA = [
     "Responsável": "MARCELO DE OLIVEIRA JUNIOR",
     "Produto": "Adubo",
     "Dosagem de Produto - Sulcação": "3,505",
-    "Fazenda": NaN
+    "Fazenda": null,
+    "Unnamed: 17": null
   },
   {
     "ID": "3490180",
@@ -17516,7 +18441,8 @@ const DOSAGEM_SULCO_DATA = [
     "Responsável": "FERNANDA DE SOUZA ",
     "Produto": "Adubo",
     "Dosagem de Produto - Sulcação": "3,395",
-    "Fazenda": NaN
+    "Fazenda": null,
+    "Unnamed: 17": null
   },
   {
     "ID": "3490179",
@@ -17535,7 +18461,8 @@ const DOSAGEM_SULCO_DATA = [
     "Responsável": "FERNANDA DE SOUZA ",
     "Produto": "Adubo",
     "Dosagem de Produto - Sulcação": "3,445",
-    "Fazenda": NaN
+    "Fazenda": null,
+    "Unnamed: 17": null
   },
   {
     "ID": "3492561",
@@ -17554,7 +18481,8 @@ const DOSAGEM_SULCO_DATA = [
     "Responsável": "REGINALDO DA SILVA GOMES ",
     "Produto": "Adubo",
     "Dosagem de Produto - Sulcação": "3,485",
-    "Fazenda": NaN
+    "Fazenda": null,
+    "Unnamed: 17": null
   },
   {
     "ID": "3492560",
@@ -17573,7 +18501,8 @@ const DOSAGEM_SULCO_DATA = [
     "Responsável": "REGINALDO DA SILVA GOMES ",
     "Produto": "Adubo",
     "Dosagem de Produto - Sulcação": "3,37",
-    "Fazenda": NaN
+    "Fazenda": null,
+    "Unnamed: 17": null
   },
   {
     "ID": "3470079",
@@ -17592,7 +18521,8 @@ const DOSAGEM_SULCO_DATA = [
     "Responsável": "MICHELI DE SOUZA SANTOS  ",
     "Produto": "Adubo",
     "Dosagem de Produto - Sulcação": "3,37",
-    "Fazenda": NaN
+    "Fazenda": null,
+    "Unnamed: 17": null
   },
   {
     "ID": "3470078",
@@ -17611,7 +18541,8 @@ const DOSAGEM_SULCO_DATA = [
     "Responsável": "MICHELI DE SOUZA SANTOS  ",
     "Produto": "Adubo",
     "Dosagem de Produto - Sulcação": "3,485",
-    "Fazenda": NaN
+    "Fazenda": null,
+    "Unnamed: 17": null
   },
   {
     "ID": "3492556",
@@ -17630,7 +18561,8 @@ const DOSAGEM_SULCO_DATA = [
     "Responsável": "REGINALDO DA SILVA GOMES ",
     "Produto": "Adubo",
     "Dosagem de Produto - Sulcação": "3,5",
-    "Fazenda": NaN
+    "Fazenda": null,
+    "Unnamed: 17": null
   },
   {
     "ID": "3492557",
@@ -17649,7 +18581,8 @@ const DOSAGEM_SULCO_DATA = [
     "Responsável": "REGINALDO DA SILVA GOMES ",
     "Produto": "Adubo",
     "Dosagem de Produto - Sulcação": "3,485",
-    "Fazenda": NaN
+    "Fazenda": null,
+    "Unnamed: 17": null
   },
   {
     "ID": "3492555",
@@ -17668,7 +18601,8 @@ const DOSAGEM_SULCO_DATA = [
     "Responsável": "REGINALDO DA SILVA GOMES ",
     "Produto": "Adubo",
     "Dosagem de Produto - Sulcação": "3,395",
-    "Fazenda": NaN
+    "Fazenda": null,
+    "Unnamed: 17": null
   },
   {
     "ID": "3492554",
@@ -17687,7 +18621,8 @@ const DOSAGEM_SULCO_DATA = [
     "Responsável": "REGINALDO DA SILVA GOMES ",
     "Produto": "Adubo",
     "Dosagem de Produto - Sulcação": "3,335",
-    "Fazenda": NaN
+    "Fazenda": null,
+    "Unnamed: 17": null
   },
   {
     "ID": "3490339",
@@ -17706,7 +18641,8 @@ const DOSAGEM_SULCO_DATA = [
     "Responsável": "GABRIEL HENRIQUE MARTINS PEREIRA",
     "Produto": "Adubo",
     "Dosagem de Produto - Sulcação": "3,5",
-    "Fazenda": NaN
+    "Fazenda": null,
+    "Unnamed: 17": null
   },
   {
     "ID": "3490338",
@@ -17725,7 +18661,8 @@ const DOSAGEM_SULCO_DATA = [
     "Responsável": "GABRIEL HENRIQUE MARTINS PEREIRA",
     "Produto": "Adubo",
     "Dosagem de Produto - Sulcação": "3,4",
-    "Fazenda": NaN
+    "Fazenda": null,
+    "Unnamed: 17": null
   },
   {
     "ID": "3490337",
@@ -17744,7 +18681,8 @@ const DOSAGEM_SULCO_DATA = [
     "Responsável": "GABRIEL HENRIQUE MARTINS PEREIRA",
     "Produto": "Adubo",
     "Dosagem de Produto - Sulcação": "3,36",
-    "Fazenda": NaN
+    "Fazenda": null,
+    "Unnamed: 17": null
   },
   {
     "ID": "3490336",
@@ -17763,7 +18701,8 @@ const DOSAGEM_SULCO_DATA = [
     "Responsável": "GABRIEL HENRIQUE MARTINS PEREIRA",
     "Produto": "Adubo",
     "Dosagem de Produto - Sulcação": "3,34",
-    "Fazenda": NaN
+    "Fazenda": null,
+    "Unnamed: 17": null
   },
   {
     "ID": "3470075",
@@ -17782,7 +18721,8 @@ const DOSAGEM_SULCO_DATA = [
     "Responsável": "MICHELI DE SOUZA SANTOS  ",
     "Produto": "Adubo",
     "Dosagem de Produto - Sulcação": "3,5",
-    "Fazenda": NaN
+    "Fazenda": null,
+    "Unnamed: 17": null
   },
   {
     "ID": "3470074",
@@ -17801,7 +18741,8 @@ const DOSAGEM_SULCO_DATA = [
     "Responsável": "MICHELI DE SOUZA SANTOS  ",
     "Produto": "Adubo",
     "Dosagem de Produto - Sulcação": "3,485",
-    "Fazenda": NaN
+    "Fazenda": null,
+    "Unnamed: 17": null
   },
   {
     "ID": "3470071",
@@ -17820,7 +18761,8 @@ const DOSAGEM_SULCO_DATA = [
     "Responsável": "MICHELI DE SOUZA SANTOS  ",
     "Produto": "Adubo",
     "Dosagem de Produto - Sulcação": "3,395",
-    "Fazenda": NaN
+    "Fazenda": null,
+    "Unnamed: 17": null
   },
   {
     "ID": "3470070",
@@ -17839,7 +18781,8 @@ const DOSAGEM_SULCO_DATA = [
     "Responsável": "MICHELI DE SOUZA SANTOS  ",
     "Produto": "Adubo",
     "Dosagem de Produto - Sulcação": "3,335",
-    "Fazenda": NaN
+    "Fazenda": null,
+    "Unnamed: 17": null
   },
   {
     "ID": "3490308",
@@ -17858,7 +18801,8 @@ const DOSAGEM_SULCO_DATA = [
     "Responsável": "GABRIEL HENRIQUE MARTINS PEREIRA",
     "Produto": "Adubo",
     "Dosagem de Produto - Sulcação": "3,4",
-    "Fazenda": NaN
+    "Fazenda": null,
+    "Unnamed: 17": null
   },
   {
     "ID": "3490305",
@@ -17877,7 +18821,8 @@ const DOSAGEM_SULCO_DATA = [
     "Responsável": "GABRIEL HENRIQUE MARTINS PEREIRA",
     "Produto": "Adubo",
     "Dosagem de Produto - Sulcação": "3,36",
-    "Fazenda": NaN
+    "Fazenda": null,
+    "Unnamed: 17": null
   },
   {
     "ID": "3490304",
@@ -17896,7 +18841,8 @@ const DOSAGEM_SULCO_DATA = [
     "Responsável": "GABRIEL HENRIQUE MARTINS PEREIRA",
     "Produto": "Adubo",
     "Dosagem de Produto - Sulcação": "3,34",
-    "Fazenda": NaN
+    "Fazenda": null,
+    "Unnamed: 17": null
   },
   {
     "ID": "3490303",
@@ -17915,7 +18861,8 @@ const DOSAGEM_SULCO_DATA = [
     "Responsável": "GABRIEL HENRIQUE MARTINS PEREIRA",
     "Produto": "Adubo",
     "Dosagem de Produto - Sulcação": "3,495",
-    "Fazenda": NaN
+    "Fazenda": null,
+    "Unnamed: 17": null
   },
   {
     "ID": "3490162",
@@ -17934,7 +18881,8 @@ const DOSAGEM_SULCO_DATA = [
     "Responsável": "FERNANDA DE SOUZA ",
     "Produto": "Adubo",
     "Dosagem de Produto - Sulcação": "3,29",
-    "Fazenda": NaN
+    "Fazenda": null,
+    "Unnamed: 17": null
   },
   {
     "ID": "3490161",
@@ -17953,7 +18901,8 @@ const DOSAGEM_SULCO_DATA = [
     "Responsável": "FERNANDA DE SOUZA ",
     "Produto": "Adubo",
     "Dosagem de Produto - Sulcação": "3,465",
-    "Fazenda": NaN
+    "Fazenda": null,
+    "Unnamed: 17": null
   },
   {
     "ID": "3490155",
@@ -17972,7 +18921,8 @@ const DOSAGEM_SULCO_DATA = [
     "Responsável": "FERNANDA DE SOUZA ",
     "Produto": "Adubo",
     "Dosagem de Produto - Sulcação": "3,335",
-    "Fazenda": NaN
+    "Fazenda": null,
+    "Unnamed: 17": null
   },
   {
     "ID": "3490151",
@@ -17991,7 +18941,8 @@ const DOSAGEM_SULCO_DATA = [
     "Responsável": "FERNANDA DE SOUZA ",
     "Produto": "Adubo",
     "Dosagem de Produto - Sulcação": "3,495",
-    "Fazenda": NaN
+    "Fazenda": null,
+    "Unnamed: 17": null
   },
   {
     "ID": "3468130",
@@ -18010,7 +18961,8 @@ const DOSAGEM_SULCO_DATA = [
     "Responsável": "VITOR AMORIM RAMOS ",
     "Produto": "Adubo",
     "Dosagem de Produto - Sulcação": "3,445",
-    "Fazenda": NaN
+    "Fazenda": null,
+    "Unnamed: 17": null
   },
   {
     "ID": "3468120",
@@ -18029,7 +18981,8 @@ const DOSAGEM_SULCO_DATA = [
     "Responsável": "VITOR AMORIM RAMOS ",
     "Produto": "Adubo",
     "Dosagem de Produto - Sulcação": "3,495",
-    "Fazenda": NaN
+    "Fazenda": null,
+    "Unnamed: 17": null
   },
   {
     "ID": "3468114",
@@ -18048,7 +19001,8 @@ const DOSAGEM_SULCO_DATA = [
     "Responsável": "VITOR AMORIM RAMOS ",
     "Produto": "Adubo",
     "Dosagem de Produto - Sulcação": "3,445",
-    "Fazenda": NaN
+    "Fazenda": null,
+    "Unnamed: 17": null
   },
   {
     "ID": "3468111",
@@ -18067,7 +19021,8 @@ const DOSAGEM_SULCO_DATA = [
     "Responsável": "VITOR AMORIM RAMOS ",
     "Produto": "Adubo",
     "Dosagem de Produto - Sulcação": "3,495",
-    "Fazenda": NaN
+    "Fazenda": null,
+    "Unnamed: 17": null
   },
   {
     "ID": "3490331",
@@ -18086,7 +19041,8 @@ const DOSAGEM_SULCO_DATA = [
     "Responsável": "EDILIANA CARDOSO DA COSTA",
     "Produto": "Adubo",
     "Dosagem de Produto - Sulcação": "3,52",
-    "Fazenda": NaN
+    "Fazenda": null,
+    "Unnamed: 17": null
   },
   {
     "ID": "3490330",
@@ -18105,7 +19061,8 @@ const DOSAGEM_SULCO_DATA = [
     "Responsável": "EDILIANA CARDOSO DA COSTA",
     "Produto": "Adubo",
     "Dosagem de Produto - Sulcação": "3,405",
-    "Fazenda": NaN
+    "Fazenda": null,
+    "Unnamed: 17": null
   },
   {
     "ID": "3490329",
@@ -18124,7 +19081,8 @@ const DOSAGEM_SULCO_DATA = [
     "Responsável": "EDILIANA CARDOSO DA COSTA",
     "Produto": "Adubo",
     "Dosagem de Produto - Sulcação": "3,425",
-    "Fazenda": NaN
+    "Fazenda": null,
+    "Unnamed: 17": null
   },
   {
     "ID": "3490328",
@@ -18143,7 +19101,8 @@ const DOSAGEM_SULCO_DATA = [
     "Responsável": "EDILIANA CARDOSO DA COSTA",
     "Produto": "Adubo",
     "Dosagem de Produto - Sulcação": "3,515",
-    "Fazenda": NaN
+    "Fazenda": null,
+    "Unnamed: 17": null
   },
   {
     "ID": "3467541",
@@ -18162,7 +19121,8 @@ const DOSAGEM_SULCO_DATA = [
     "Responsável": "EDILIANA CARDOSO DA COSTA",
     "Produto": "Adubo",
     "Dosagem de Produto - Sulcação": "3,32",
-    "Fazenda": NaN
+    "Fazenda": null,
+    "Unnamed: 17": null
   },
   {
     "ID": "3467540",
@@ -18181,7 +19141,8 @@ const DOSAGEM_SULCO_DATA = [
     "Responsável": "EDILIANA CARDOSO DA COSTA",
     "Produto": "Adubo",
     "Dosagem de Produto - Sulcação": "3,3",
-    "Fazenda": NaN
+    "Fazenda": null,
+    "Unnamed: 17": null
   },
   {
     "ID": "3467538",
@@ -18200,7 +19161,8 @@ const DOSAGEM_SULCO_DATA = [
     "Responsável": "EDILIANA CARDOSO DA COSTA",
     "Produto": "Adubo",
     "Dosagem de Produto - Sulcação": "3,55",
-    "Fazenda": NaN
+    "Fazenda": null,
+    "Unnamed: 17": null
   },
   {
     "ID": "3467537",
@@ -18219,7 +19181,8 @@ const DOSAGEM_SULCO_DATA = [
     "Responsável": "EDILIANA CARDOSO DA COSTA",
     "Produto": "Adubo",
     "Dosagem de Produto - Sulcação": "3,435",
-    "Fazenda": NaN
+    "Fazenda": null,
+    "Unnamed: 17": null
   },
   {
     "ID": "3467536",
@@ -18238,7 +19201,8 @@ const DOSAGEM_SULCO_DATA = [
     "Responsável": "EDILIANA CARDOSO DA COSTA",
     "Produto": "Adubo",
     "Dosagem de Produto - Sulcação": "3,28",
-    "Fazenda": NaN
+    "Fazenda": null,
+    "Unnamed: 17": null
   },
   {
     "ID": "3467535",
@@ -18257,7 +19221,8 @@ const DOSAGEM_SULCO_DATA = [
     "Responsável": "EDILIANA CARDOSO DA COSTA",
     "Produto": "Adubo",
     "Dosagem de Produto - Sulcação": "3,285",
-    "Fazenda": NaN
+    "Fazenda": null,
+    "Unnamed: 17": null
   },
   {
     "ID": "3467531",
@@ -18276,7 +19241,8 @@ const DOSAGEM_SULCO_DATA = [
     "Responsável": "EDILIANA CARDOSO DA COSTA",
     "Produto": "Adubo",
     "Dosagem de Produto - Sulcação": "3,39",
-    "Fazenda": NaN
+    "Fazenda": null,
+    "Unnamed: 17": null
   },
   {
     "ID": "3467532",
@@ -18295,7 +19261,8 @@ const DOSAGEM_SULCO_DATA = [
     "Responsável": "EDILIANA CARDOSO DA COSTA",
     "Produto": "Adubo",
     "Dosagem de Produto - Sulcação": "3,365",
-    "Fazenda": NaN
+    "Fazenda": null,
+    "Unnamed: 17": null
   },
   {
     "ID": "3467646",
@@ -18314,7 +19281,8 @@ const DOSAGEM_SULCO_DATA = [
     "Responsável": "FERNANDA DE SOUZA ",
     "Produto": "Adubo",
     "Dosagem de Produto - Sulcação": "3,41",
-    "Fazenda": NaN
+    "Fazenda": null,
+    "Unnamed: 17": null
   },
   {
     "ID": "3467645",
@@ -18333,7 +19301,8 @@ const DOSAGEM_SULCO_DATA = [
     "Responsável": "FERNANDA DE SOUZA ",
     "Produto": "Adubo",
     "Dosagem de Produto - Sulcação": "3,41",
-    "Fazenda": NaN
+    "Fazenda": null,
+    "Unnamed: 17": null
   },
   {
     "ID": "3465762",
@@ -18352,7 +19321,8 @@ const DOSAGEM_SULCO_DATA = [
     "Responsável": "FERNANDA DE SOUZA ",
     "Produto": "Adubo",
     "Dosagem de Produto - Sulcação": "3,345",
-    "Fazenda": NaN
+    "Fazenda": null,
+    "Unnamed: 17": null
   },
   {
     "ID": "3465761",
@@ -18371,7 +19341,8 @@ const DOSAGEM_SULCO_DATA = [
     "Responsável": "FERNANDA DE SOUZA ",
     "Produto": "Adubo",
     "Dosagem de Produto - Sulcação": "3,375",
-    "Fazenda": NaN
+    "Fazenda": null,
+    "Unnamed: 17": null
   },
   {
     "ID": "3465796",
@@ -18390,7 +19361,8 @@ const DOSAGEM_SULCO_DATA = [
     "Responsável": "MICHELI DE SOUZA SANTOS  ",
     "Produto": "Adubo",
     "Dosagem de Produto - Sulcação": "3,545",
-    "Fazenda": NaN
+    "Fazenda": null,
+    "Unnamed: 17": null
   },
   {
     "ID": "3465801",
@@ -18409,7 +19381,8 @@ const DOSAGEM_SULCO_DATA = [
     "Responsável": "MICHELI DE SOUZA SANTOS  ",
     "Produto": "Adubo",
     "Dosagem de Produto - Sulcação": "3,305",
-    "Fazenda": NaN
+    "Fazenda": null,
+    "Unnamed: 17": null
   },
   {
     "ID": "3465800",
@@ -18428,7 +19401,8 @@ const DOSAGEM_SULCO_DATA = [
     "Responsável": "MICHELI DE SOUZA SANTOS  ",
     "Produto": "Adubo",
     "Dosagem de Produto - Sulcação": "3,445",
-    "Fazenda": NaN
+    "Fazenda": null,
+    "Unnamed: 17": null
   },
   {
     "ID": "3465799",
@@ -18447,7 +19421,8 @@ const DOSAGEM_SULCO_DATA = [
     "Responsável": "MICHELI DE SOUZA SANTOS  ",
     "Produto": "Adubo",
     "Dosagem de Produto - Sulcação": "3,405",
-    "Fazenda": NaN
+    "Fazenda": null,
+    "Unnamed: 17": null
   },
   {
     "ID": "3465798",
@@ -18466,7 +19441,8 @@ const DOSAGEM_SULCO_DATA = [
     "Responsável": "MICHELI DE SOUZA SANTOS  ",
     "Produto": "Adubo",
     "Dosagem de Produto - Sulcação": "3,345",
-    "Fazenda": NaN
+    "Fazenda": null,
+    "Unnamed: 17": null
   },
   {
     "ID": "3465797",
@@ -18485,7 +19461,8 @@ const DOSAGEM_SULCO_DATA = [
     "Responsável": "MICHELI DE SOUZA SANTOS  ",
     "Produto": "Adubo",
     "Dosagem de Produto - Sulcação": "3,41",
-    "Fazenda": NaN
+    "Fazenda": null,
+    "Unnamed: 17": null
   },
   {
     "ID": "3465969",
@@ -18504,7 +19481,8 @@ const DOSAGEM_SULCO_DATA = [
     "Responsável": "GABRIEL HENRIQUE MARTINS PEREIRA",
     "Produto": "Adubo",
     "Dosagem de Produto - Sulcação": "3,45",
-    "Fazenda": NaN
+    "Fazenda": null,
+    "Unnamed: 17": null
   },
   {
     "ID": "3465967",
@@ -18523,7 +19501,8 @@ const DOSAGEM_SULCO_DATA = [
     "Responsável": "GABRIEL HENRIQUE MARTINS PEREIRA",
     "Produto": "Adubo",
     "Dosagem de Produto - Sulcação": "3,4",
-    "Fazenda": NaN
+    "Fazenda": null,
+    "Unnamed: 17": null
   },
   {
     "ID": "3465964",
@@ -18542,7 +19521,8 @@ const DOSAGEM_SULCO_DATA = [
     "Responsável": "GABRIEL HENRIQUE MARTINS PEREIRA",
     "Produto": "Adubo",
     "Dosagem de Produto - Sulcação": "3,47",
-    "Fazenda": NaN
+    "Fazenda": null,
+    "Unnamed: 17": null
   },
   {
     "ID": "3465963",
@@ -18561,7 +19541,8 @@ const DOSAGEM_SULCO_DATA = [
     "Responsável": "GABRIEL HENRIQUE MARTINS PEREIRA",
     "Produto": "Adubo",
     "Dosagem de Produto - Sulcação": "3,345",
-    "Fazenda": NaN
+    "Fazenda": null,
+    "Unnamed: 17": null
   },
   {
     "ID": "3465962",
@@ -18580,7 +19561,8 @@ const DOSAGEM_SULCO_DATA = [
     "Responsável": "GABRIEL HENRIQUE MARTINS PEREIRA",
     "Produto": "Adubo",
     "Dosagem de Produto - Sulcação": "3,45",
-    "Fazenda": NaN
+    "Fazenda": null,
+    "Unnamed: 17": null
   },
   {
     "ID": "3465961",
@@ -18599,7 +19581,8 @@ const DOSAGEM_SULCO_DATA = [
     "Responsável": "GABRIEL HENRIQUE MARTINS PEREIRA",
     "Produto": "Adubo",
     "Dosagem de Produto - Sulcação": "3,3",
-    "Fazenda": NaN
+    "Fazenda": null,
+    "Unnamed: 17": null
   },
   {
     "ID": "3465960",
@@ -18618,7 +19601,8 @@ const DOSAGEM_SULCO_DATA = [
     "Responsável": "GABRIEL HENRIQUE MARTINS PEREIRA",
     "Produto": "Adubo",
     "Dosagem de Produto - Sulcação": "3,49",
-    "Fazenda": NaN
+    "Fazenda": null,
+    "Unnamed: 17": null
   },
   {
     "ID": "3465959",
@@ -18637,7 +19621,8 @@ const DOSAGEM_SULCO_DATA = [
     "Responsável": "GABRIEL HENRIQUE MARTINS PEREIRA",
     "Produto": "Adubo",
     "Dosagem de Produto - Sulcação": "3,375",
-    "Fazenda": NaN
+    "Fazenda": null,
+    "Unnamed: 17": null
   },
   {
     "ID": "3465545",
@@ -18656,7 +19641,8 @@ const DOSAGEM_SULCO_DATA = [
     "Responsável": "VITOR AMORIM RAMOS ",
     "Produto": "Adubo",
     "Dosagem de Produto - Sulcação": "3,345",
-    "Fazenda": NaN
+    "Fazenda": null,
+    "Unnamed: 17": null
   },
   {
     "ID": "3465544",
@@ -18675,7 +19661,8 @@ const DOSAGEM_SULCO_DATA = [
     "Responsável": "VITOR AMORIM RAMOS ",
     "Produto": "Adubo",
     "Dosagem de Produto - Sulcação": "3,465",
-    "Fazenda": NaN
+    "Fazenda": null,
+    "Unnamed: 17": null
   },
   {
     "ID": "3466671",
@@ -18694,7 +19681,8 @@ const DOSAGEM_SULCO_DATA = [
     "Responsável": "MARCELO DE OLIVEIRA JUNIOR",
     "Produto": "Adubo",
     "Dosagem de Produto - Sulcação": "3,5",
-    "Fazenda": NaN
+    "Fazenda": null,
+    "Unnamed: 17": null
   },
   {
     "ID": "3466666",
@@ -18713,7 +19701,8 @@ const DOSAGEM_SULCO_DATA = [
     "Responsável": "MARCELO DE OLIVEIRA JUNIOR",
     "Produto": "Adubo",
     "Dosagem de Produto - Sulcação": "3,365",
-    "Fazenda": NaN
+    "Fazenda": null,
+    "Unnamed: 17": null
   },
   {
     "ID": "3466665",
@@ -18732,7 +19721,8 @@ const DOSAGEM_SULCO_DATA = [
     "Responsável": "MARCELO DE OLIVEIRA JUNIOR",
     "Produto": "Adubo",
     "Dosagem de Produto - Sulcação": "3,475",
-    "Fazenda": NaN
+    "Fazenda": null,
+    "Unnamed: 17": null
   },
   {
     "ID": "3466664",
@@ -18751,7 +19741,8 @@ const DOSAGEM_SULCO_DATA = [
     "Responsável": "MARCELO DE OLIVEIRA JUNIOR",
     "Produto": "Adubo",
     "Dosagem de Produto - Sulcação": "3,305",
-    "Fazenda": NaN
+    "Fazenda": null,
+    "Unnamed: 17": null
   },
   {
     "ID": "3465496",
@@ -18770,7 +19761,8 @@ const DOSAGEM_SULCO_DATA = [
     "Responsável": "FERNANDA DE SOUZA ",
     "Produto": "Adubo",
     "Dosagem de Produto - Sulcação": "3,8",
-    "Fazenda": NaN
+    "Fazenda": null,
+    "Unnamed: 17": null
   },
   {
     "ID": "3465495",
@@ -18789,7 +19781,8 @@ const DOSAGEM_SULCO_DATA = [
     "Responsável": "FERNANDA DE SOUZA ",
     "Produto": "Adubo",
     "Dosagem de Produto - Sulcação": "3,835",
-    "Fazenda": NaN
+    "Fazenda": null,
+    "Unnamed: 17": null
   },
   {
     "ID": "3465542",
@@ -18808,7 +19801,8 @@ const DOSAGEM_SULCO_DATA = [
     "Responsável": "VITOR AMORIM RAMOS ",
     "Produto": "Adubo",
     "Dosagem de Produto - Sulcação": "3,465",
-    "Fazenda": NaN
+    "Fazenda": null,
+    "Unnamed: 17": null
   },
   {
     "ID": "3465541",
@@ -18827,7 +19821,8 @@ const DOSAGEM_SULCO_DATA = [
     "Responsável": "VITOR AMORIM RAMOS ",
     "Produto": "Adubo",
     "Dosagem de Produto - Sulcação": "3,315",
-    "Fazenda": NaN
+    "Fazenda": null,
+    "Unnamed: 17": null
   },
   {
     "ID": "3463868",
@@ -18846,7 +19841,8 @@ const DOSAGEM_SULCO_DATA = [
     "Responsável": "VITOR AMORIM RAMOS ",
     "Produto": "Adubo",
     "Dosagem de Produto - Sulcação": "3,37",
-    "Fazenda": NaN
+    "Fazenda": null,
+    "Unnamed: 17": null
   },
   {
     "ID": "3463867",
@@ -18865,7 +19861,8 @@ const DOSAGEM_SULCO_DATA = [
     "Responsável": "VITOR AMORIM RAMOS ",
     "Produto": "Adubo",
     "Dosagem de Produto - Sulcação": "3,32",
-    "Fazenda": NaN
+    "Fazenda": null,
+    "Unnamed: 17": null
   },
   {
     "ID": "3463852",
@@ -18884,7 +19881,8 @@ const DOSAGEM_SULCO_DATA = [
     "Responsável": "FERNANDA DE SOUZA ",
     "Produto": "Adubo",
     "Dosagem de Produto - Sulcação": "3,855",
-    "Fazenda": NaN
+    "Fazenda": null,
+    "Unnamed: 17": null
   },
   {
     "ID": "3463855",
@@ -18903,7 +19901,8 @@ const DOSAGEM_SULCO_DATA = [
     "Responsável": "FERNANDA DE SOUZA ",
     "Produto": "Adubo",
     "Dosagem de Produto - Sulcação": "3,855",
-    "Fazenda": NaN
+    "Fazenda": null,
+    "Unnamed: 17": null
   },
   {
     "ID": "3463691",
@@ -18922,7 +19921,8 @@ const DOSAGEM_SULCO_DATA = [
     "Responsável": "MICHELI DE SOUZA SANTOS  ",
     "Produto": "Adubo",
     "Dosagem de Produto - Sulcação": "3,38",
-    "Fazenda": NaN
+    "Fazenda": null,
+    "Unnamed: 17": null
   },
   {
     "ID": "3463690",
@@ -18941,7 +19941,8 @@ const DOSAGEM_SULCO_DATA = [
     "Responsável": "MICHELI DE SOUZA SANTOS  ",
     "Produto": "Adubo",
     "Dosagem de Produto - Sulcação": "3,235",
-    "Fazenda": NaN
+    "Fazenda": null,
+    "Unnamed: 17": null
   },
   {
     "ID": "3463412",
@@ -18960,7 +19961,8 @@ const DOSAGEM_SULCO_DATA = [
     "Responsável": "GLEISON FELIPE BORGES DE MATOS",
     "Produto": "Adubo",
     "Dosagem de Produto - Sulcação": "3,395",
-    "Fazenda": NaN
+    "Fazenda": null,
+    "Unnamed: 17": null
   },
   {
     "ID": "3463417",
@@ -18979,7 +19981,8 @@ const DOSAGEM_SULCO_DATA = [
     "Responsável": "GLEISON FELIPE BORGES DE MATOS",
     "Produto": "Adubo",
     "Dosagem de Produto - Sulcação": "3,35",
-    "Fazenda": NaN
+    "Fazenda": null,
+    "Unnamed: 17": null
   },
   {
     "ID": "3463520",
@@ -18998,7 +20001,8 @@ const DOSAGEM_SULCO_DATA = [
     "Responsável": "NILDA CLAUDINO [2510716]",
     "Produto": "Adubo",
     "Dosagem de Produto - Sulcação": "3,49",
-    "Fazenda": NaN
+    "Fazenda": null,
+    "Unnamed: 17": null
   },
   {
     "ID": "3463519",
@@ -19017,7 +20021,8 @@ const DOSAGEM_SULCO_DATA = [
     "Responsável": "NILDA CLAUDINO [2510716]",
     "Produto": "Adubo",
     "Dosagem de Produto - Sulcação": "3,49",
-    "Fazenda": NaN
+    "Fazenda": null,
+    "Unnamed: 17": null
   },
   {
     "ID": "3463518",
@@ -19036,7 +20041,8 @@ const DOSAGEM_SULCO_DATA = [
     "Responsável": "NILDA CLAUDINO [2510716]",
     "Produto": "Adubo",
     "Dosagem de Produto - Sulcação": "3,405",
-    "Fazenda": NaN
+    "Fazenda": null,
+    "Unnamed: 17": null
   },
   {
     "ID": "3463466",
@@ -19055,7 +20061,8 @@ const DOSAGEM_SULCO_DATA = [
     "Responsável": "NILDA CLAUDINO [2510716]",
     "Produto": "Adubo",
     "Dosagem de Produto - Sulcação": "3,305",
-    "Fazenda": NaN
+    "Fazenda": null,
+    "Unnamed: 17": null
   },
   {
     "ID": "3463683",
@@ -19074,7 +20081,8 @@ const DOSAGEM_SULCO_DATA = [
     "Responsável": "MICHELI DE SOUZA SANTOS  ",
     "Produto": "Adubo",
     "Dosagem de Produto - Sulcação": "3,255",
-    "Fazenda": NaN
+    "Fazenda": null,
+    "Unnamed: 17": null
   },
   {
     "ID": "3463682",
@@ -19093,7 +20101,8 @@ const DOSAGEM_SULCO_DATA = [
     "Responsável": "MICHELI DE SOUZA SANTOS  ",
     "Produto": "Adubo",
     "Dosagem de Produto - Sulcação": "3,515",
-    "Fazenda": NaN
+    "Fazenda": null,
+    "Unnamed: 17": null
   },
   {
     "ID": "3463461",
@@ -19112,7 +20121,8 @@ const DOSAGEM_SULCO_DATA = [
     "Responsável": "NILDA CLAUDINO [2510716]",
     "Produto": "Adubo",
     "Dosagem de Produto - Sulcação": "3,45",
-    "Fazenda": NaN
+    "Fazenda": null,
+    "Unnamed: 17": null
   },
   {
     "ID": "3463460",
@@ -19131,7 +20141,8 @@ const DOSAGEM_SULCO_DATA = [
     "Responsável": "NILDA CLAUDINO [2510716]",
     "Produto": "Adubo",
     "Dosagem de Produto - Sulcação": "3,405",
-    "Fazenda": NaN
+    "Fazenda": null,
+    "Unnamed: 17": null
   },
   {
     "ID": "3463448",
@@ -19150,7 +20161,8 @@ const DOSAGEM_SULCO_DATA = [
     "Responsável": "NILDA CLAUDINO [2510716]",
     "Produto": "Adubo",
     "Dosagem de Produto - Sulcação": "2,29",
-    "Fazenda": NaN
+    "Fazenda": null,
+    "Unnamed: 17": null
   },
   {
     "ID": "3463447",
@@ -19169,7 +20181,8 @@ const DOSAGEM_SULCO_DATA = [
     "Responsável": "NILDA CLAUDINO [2510716]",
     "Produto": "Adubo",
     "Dosagem de Produto - Sulcação": "3,575",
-    "Fazenda": NaN
+    "Fazenda": null,
+    "Unnamed: 17": null
   },
   {
     "ID": "3454995",
@@ -19188,7 +20201,8 @@ const DOSAGEM_SULCO_DATA = [
     "Responsável": "VITOR AMORIM RAMOS ",
     "Produto": "Adubo",
     "Dosagem de Produto - Sulcação": "3,36",
-    "Fazenda": NaN
+    "Fazenda": null,
+    "Unnamed: 17": null
   },
   {
     "ID": "3454829",
@@ -19207,7 +20221,8 @@ const DOSAGEM_SULCO_DATA = [
     "Responsável": "MARCELO DE OLIVEIRA JUNIOR",
     "Produto": "Adubo",
     "Dosagem de Produto - Sulcação": "3,375",
-    "Fazenda": NaN
+    "Fazenda": null,
+    "Unnamed: 17": null
   },
   {
     "ID": "3454994",
@@ -19226,7 +20241,8 @@ const DOSAGEM_SULCO_DATA = [
     "Responsável": "VITOR AMORIM RAMOS ",
     "Produto": "Adubo",
     "Dosagem de Produto - Sulcação": "3,33",
-    "Fazenda": NaN
+    "Fazenda": null,
+    "Unnamed: 17": null
   },
   {
     "ID": "3454828",
@@ -19245,7 +20261,8 @@ const DOSAGEM_SULCO_DATA = [
     "Responsável": "MARCELO DE OLIVEIRA JUNIOR",
     "Produto": "Adubo",
     "Dosagem de Produto - Sulcação": "3,415",
-    "Fazenda": NaN
+    "Fazenda": null,
+    "Unnamed: 17": null
   },
   {
     "ID": "3454827",
@@ -19264,7 +20281,8 @@ const DOSAGEM_SULCO_DATA = [
     "Responsável": "MARCELO DE OLIVEIRA JUNIOR",
     "Produto": "Adubo",
     "Dosagem de Produto - Sulcação": "3,49",
-    "Fazenda": NaN
+    "Fazenda": null,
+    "Unnamed: 17": null
   },
   {
     "ID": "3454826",
@@ -19283,7 +20301,8 @@ const DOSAGEM_SULCO_DATA = [
     "Responsável": "MARCELO DE OLIVEIRA JUNIOR",
     "Produto": "Adubo",
     "Dosagem de Produto - Sulcação": "3,435",
-    "Fazenda": NaN
+    "Fazenda": null,
+    "Unnamed: 17": null
   },
   {
     "ID": "3454880",
@@ -19302,7 +20321,8 @@ const DOSAGEM_SULCO_DATA = [
     "Responsável": "GABRIEL HENRIQUE MARTINS PEREIRA",
     "Produto": "Adubo",
     "Dosagem de Produto - Sulcação": "3,405",
-    "Fazenda": NaN
+    "Fazenda": null,
+    "Unnamed: 17": null
   },
   {
     "ID": "3454879",
@@ -19321,7 +20341,8 @@ const DOSAGEM_SULCO_DATA = [
     "Responsável": "GABRIEL HENRIQUE MARTINS PEREIRA",
     "Produto": "Adubo",
     "Dosagem de Produto - Sulcação": "3,415",
-    "Fazenda": NaN
+    "Fazenda": null,
+    "Unnamed: 17": null
   },
   {
     "ID": "3454878",
@@ -19340,7 +20361,8 @@ const DOSAGEM_SULCO_DATA = [
     "Responsável": "GABRIEL HENRIQUE MARTINS PEREIRA",
     "Produto": "Adubo",
     "Dosagem de Produto - Sulcação": "3,42",
-    "Fazenda": NaN
+    "Fazenda": null,
+    "Unnamed: 17": null
   },
   {
     "ID": "3454877",
@@ -19359,7 +20381,8 @@ const DOSAGEM_SULCO_DATA = [
     "Responsável": "GABRIEL HENRIQUE MARTINS PEREIRA",
     "Produto": "Adubo",
     "Dosagem de Produto - Sulcação": "3,41",
-    "Fazenda": NaN
+    "Fazenda": null,
+    "Unnamed: 17": null
   },
   {
     "ID": "3454916",
@@ -19378,7 +20401,8 @@ const DOSAGEM_SULCO_DATA = [
     "Responsável": "FERNANDA DE SOUZA ",
     "Produto": "Adubo",
     "Dosagem de Produto - Sulcação": "3,8",
-    "Fazenda": NaN
+    "Fazenda": null,
+    "Unnamed: 17": null
   },
   {
     "ID": "3454915",
@@ -19397,7 +20421,8 @@ const DOSAGEM_SULCO_DATA = [
     "Responsável": "FERNANDA DE SOUZA ",
     "Produto": "Adubo",
     "Dosagem de Produto - Sulcação": "3,56",
-    "Fazenda": NaN
+    "Fazenda": null,
+    "Unnamed: 17": null
   },
   {
     "ID": "3454237",
@@ -19416,7 +20441,8 @@ const DOSAGEM_SULCO_DATA = [
     "Responsável": "GLEISON FELIPE BORGES DE MATOS",
     "Produto": "Adubo",
     "Dosagem de Produto - Sulcação": "3,47",
-    "Fazenda": NaN
+    "Fazenda": null,
+    "Unnamed: 17": null
   },
   {
     "ID": "3454203",
@@ -19435,7 +20461,8 @@ const DOSAGEM_SULCO_DATA = [
     "Responsável": "GABRIEL HENRIQUE MARTINS PEREIRA",
     "Produto": "Adubo",
     "Dosagem de Produto - Sulcação": "3,465",
-    "Fazenda": NaN
+    "Fazenda": null,
+    "Unnamed: 17": null
   },
   {
     "ID": "3454236",
@@ -19454,7 +20481,8 @@ const DOSAGEM_SULCO_DATA = [
     "Responsável": "GLEISON FELIPE BORGES DE MATOS",
     "Produto": "Adubo",
     "Dosagem de Produto - Sulcação": "3,24",
-    "Fazenda": NaN
+    "Fazenda": null,
+    "Unnamed: 17": null
   },
   {
     "ID": "3454202",
@@ -19473,7 +20501,8 @@ const DOSAGEM_SULCO_DATA = [
     "Responsável": "GABRIEL HENRIQUE MARTINS PEREIRA",
     "Produto": "Adubo",
     "Dosagem de Produto - Sulcação": "3,505",
-    "Fazenda": NaN
+    "Fazenda": null,
+    "Unnamed: 17": null
   },
   {
     "ID": "3454201",
@@ -19492,7 +20521,8 @@ const DOSAGEM_SULCO_DATA = [
     "Responsável": "GABRIEL HENRIQUE MARTINS PEREIRA",
     "Produto": "Adubo",
     "Dosagem de Produto - Sulcação": "3,42",
-    "Fazenda": NaN
+    "Fazenda": null,
+    "Unnamed: 17": null
   },
   {
     "ID": "3454198",
@@ -19511,7 +20541,8 @@ const DOSAGEM_SULCO_DATA = [
     "Responsável": "GABRIEL HENRIQUE MARTINS PEREIRA",
     "Produto": "Adubo",
     "Dosagem de Produto - Sulcação": "3,475",
-    "Fazenda": NaN
+    "Fazenda": null,
+    "Unnamed: 17": null
   },
   {
     "ID": "3454231",
@@ -19530,7 +20561,8 @@ const DOSAGEM_SULCO_DATA = [
     "Responsável": "GLEISON FELIPE BORGES DE MATOS",
     "Produto": "Adubo",
     "Dosagem de Produto - Sulcação": "3,33",
-    "Fazenda": NaN
+    "Fazenda": null,
+    "Unnamed: 17": null
   },
   {
     "ID": "3454230",
@@ -19549,7 +20581,8 @@ const DOSAGEM_SULCO_DATA = [
     "Responsável": "GLEISON FELIPE BORGES DE MATOS",
     "Produto": "Adubo",
     "Dosagem de Produto - Sulcação": "3,29",
-    "Fazenda": NaN
+    "Fazenda": null,
+    "Unnamed: 17": null
   },
   {
     "ID": "3451160",
@@ -19568,7 +20601,8 @@ const DOSAGEM_SULCO_DATA = [
     "Responsável": "MARCELO DE OLIVEIRA JUNIOR [264820]",
     "Produto": "Adubo",
     "Dosagem de Produto - Sulcação": "3,545",
-    "Fazenda": NaN
+    "Fazenda": null,
+    "Unnamed: 17": null
   },
   {
     "ID": "3451159",
@@ -19587,7 +20621,8 @@ const DOSAGEM_SULCO_DATA = [
     "Responsável": "MARCELO DE OLIVEIRA JUNIOR [264820]",
     "Produto": "Adubo",
     "Dosagem de Produto - Sulcação": "3,54",
-    "Fazenda": NaN
+    "Fazenda": null,
+    "Unnamed: 17": null
   },
   {
     "ID": "3451157",
@@ -19606,7 +20641,8 @@ const DOSAGEM_SULCO_DATA = [
     "Responsável": "MARCELO DE OLIVEIRA JUNIOR [264820]",
     "Produto": "Adubo",
     "Dosagem de Produto - Sulcação": "3,475",
-    "Fazenda": NaN
+    "Fazenda": null,
+    "Unnamed: 17": null
   },
   {
     "ID": "3451158",
@@ -19625,7 +20661,8 @@ const DOSAGEM_SULCO_DATA = [
     "Responsável": "MARCELO DE OLIVEIRA JUNIOR [264820]",
     "Produto": "Adubo",
     "Dosagem de Produto - Sulcação": "3,395",
-    "Fazenda": NaN
+    "Fazenda": null,
+    "Unnamed: 17": null
   },
   {
     "ID": "3449688",
@@ -19644,7 +20681,8 @@ const DOSAGEM_SULCO_DATA = [
     "Responsável": "REGINALDO DA SILVA GOMES ",
     "Produto": "Adubo",
     "Dosagem de Produto - Sulcação": "3,71",
-    "Fazenda": NaN
+    "Fazenda": null,
+    "Unnamed: 17": null
   },
   {
     "ID": "3449771",
@@ -19663,7 +20701,8 @@ const DOSAGEM_SULCO_DATA = [
     "Responsável": "268680 - GABRIEL HENRIQUE MARTINS PEREIRA ",
     "Produto": "Adubo",
     "Dosagem de Produto - Sulcação": "3,355",
-    "Fazenda": NaN
+    "Fazenda": null,
+    "Unnamed: 17": null
   },
   {
     "ID": "3449770",
@@ -19682,7 +20721,8 @@ const DOSAGEM_SULCO_DATA = [
     "Responsável": "268680 - GABRIEL HENRIQUE MARTINS PEREIRA ",
     "Produto": "Adubo",
     "Dosagem de Produto - Sulcação": "3,49",
-    "Fazenda": NaN
+    "Fazenda": null,
+    "Unnamed: 17": null
   },
   {
     "ID": "3449687",
@@ -19701,7 +20741,8 @@ const DOSAGEM_SULCO_DATA = [
     "Responsável": "REGINALDO DA SILVA GOMES ",
     "Produto": "Adubo",
     "Dosagem de Produto - Sulcação": "3,75",
-    "Fazenda": NaN
+    "Fazenda": null,
+    "Unnamed: 17": null
   },
   {
     "ID": "3449769",
@@ -19720,7 +20761,8 @@ const DOSAGEM_SULCO_DATA = [
     "Responsável": "268680 - GABRIEL HENRIQUE MARTINS PEREIRA ",
     "Produto": "Adubo",
     "Dosagem de Produto - Sulcação": "3,405",
-    "Fazenda": NaN
+    "Fazenda": null,
+    "Unnamed: 17": null
   },
   {
     "ID": "3449768",
@@ -19739,7 +20781,8 @@ const DOSAGEM_SULCO_DATA = [
     "Responsável": "268680 - GABRIEL HENRIQUE MARTINS PEREIRA ",
     "Produto": "Adubo",
     "Dosagem de Produto - Sulcação": "3,52",
-    "Fazenda": NaN
+    "Fazenda": null,
+    "Unnamed: 17": null
   },
   {
     "ID": "3449569",
@@ -19758,7 +20801,8 @@ const DOSAGEM_SULCO_DATA = [
     "Responsável": "FERNANDA DE SOUZA ",
     "Produto": "Adubo",
     "Dosagem de Produto - Sulcação": "3,71",
-    "Fazenda": NaN
+    "Fazenda": null,
+    "Unnamed: 17": null
   },
   {
     "ID": "3449567",
@@ -19777,7 +20821,8 @@ const DOSAGEM_SULCO_DATA = [
     "Responsável": "FERNANDA DE SOUZA ",
     "Produto": "Adubo",
     "Dosagem de Produto - Sulcação": "3,75",
-    "Fazenda": NaN
+    "Fazenda": null,
+    "Unnamed: 17": null
   },
   {
     "ID": "3447514",
@@ -19796,7 +20841,8 @@ const DOSAGEM_SULCO_DATA = [
     "Responsável": "NILDA CLAUDINO [2510716]",
     "Produto": "Adubo",
     "Dosagem de Produto - Sulcação": "3,3",
-    "Fazenda": NaN
+    "Fazenda": null,
+    "Unnamed: 17": null
   },
   {
     "ID": "3447515",
@@ -19815,7 +20861,8 @@ const DOSAGEM_SULCO_DATA = [
     "Responsável": "NILDA CLAUDINO [2510716]",
     "Produto": "Adubo",
     "Dosagem de Produto - Sulcação": "3,48",
-    "Fazenda": NaN
+    "Fazenda": null,
+    "Unnamed: 17": null
   },
   {
     "ID": "3447512",
@@ -19834,7 +20881,8 @@ const DOSAGEM_SULCO_DATA = [
     "Responsável": "NILDA CLAUDINO [2510716]",
     "Produto": "Adubo",
     "Dosagem de Produto - Sulcação": "3,345",
-    "Fazenda": NaN
+    "Fazenda": null,
+    "Unnamed: 17": null
   },
   {
     "ID": "3447508",
@@ -19853,7 +20901,8 @@ const DOSAGEM_SULCO_DATA = [
     "Responsável": "NILDA CLAUDINO [2510716]",
     "Produto": "Adubo",
     "Dosagem de Produto - Sulcação": "3,395",
-    "Fazenda": NaN
+    "Fazenda": null,
+    "Unnamed: 17": null
   },
   {
     "ID": "3449685",
@@ -19872,7 +20921,8 @@ const DOSAGEM_SULCO_DATA = [
     "Responsável": "REGINALDO DA SILVA GOMES ",
     "Produto": "Adubo",
     "Dosagem de Produto - Sulcação": "3,48",
-    "Fazenda": NaN
+    "Fazenda": null,
+    "Unnamed: 17": null
   },
   {
     "ID": "3449686",
@@ -19891,7 +20941,8 @@ const DOSAGEM_SULCO_DATA = [
     "Responsável": "REGINALDO DA SILVA GOMES ",
     "Produto": "Adubo",
     "Dosagem de Produto - Sulcação": "3,345",
-    "Fazenda": NaN
+    "Fazenda": null,
+    "Unnamed: 17": null
   },
   {
     "ID": "3449684",
@@ -19910,7 +20961,8 @@ const DOSAGEM_SULCO_DATA = [
     "Responsável": "REGINALDO DA SILVA GOMES ",
     "Produto": "Adubo",
     "Dosagem de Produto - Sulcação": "3,395",
-    "Fazenda": NaN
+    "Fazenda": null,
+    "Unnamed: 17": null
   },
   {
     "ID": "3449683",
@@ -19929,7 +20981,8 @@ const DOSAGEM_SULCO_DATA = [
     "Responsável": "REGINALDO DA SILVA GOMES ",
     "Produto": "Adubo",
     "Dosagem de Produto - Sulcação": "3,3",
-    "Fazenda": NaN
+    "Fazenda": null,
+    "Unnamed: 17": null
   },
   {
     "ID": "3445643",
@@ -19948,7 +21001,8 @@ const DOSAGEM_SULCO_DATA = [
     "Responsável": "NILDA CLAUDINO [2510716]",
     "Produto": "Adubo",
     "Dosagem de Produto - Sulcação": "3,47",
-    "Fazenda": NaN
+    "Fazenda": null,
+    "Unnamed: 17": null
   },
   {
     "ID": "3445645",
@@ -19967,7 +21021,8 @@ const DOSAGEM_SULCO_DATA = [
     "Responsável": "NILDA CLAUDINO [2510716]",
     "Produto": "Adubo",
     "Dosagem de Produto - Sulcação": "3,49",
-    "Fazenda": NaN
+    "Fazenda": null,
+    "Unnamed: 17": null
   },
   {
     "ID": "3445644",
@@ -19986,7 +21041,8 @@ const DOSAGEM_SULCO_DATA = [
     "Responsável": "NILDA CLAUDINO [2510716]",
     "Produto": "Adubo",
     "Dosagem de Produto - Sulcação": "3,36",
-    "Fazenda": NaN
+    "Fazenda": null,
+    "Unnamed: 17": null
   },
   {
     "ID": "3445642",
@@ -20005,7 +21061,8 @@ const DOSAGEM_SULCO_DATA = [
     "Responsável": "NILDA CLAUDINO [2510716]",
     "Produto": "Adubo",
     "Dosagem de Produto - Sulcação": "3,28",
-    "Fazenda": NaN
+    "Fazenda": null,
+    "Unnamed: 17": null
   },
   {
     "ID": "3445530",
@@ -20024,7 +21081,8 @@ const DOSAGEM_SULCO_DATA = [
     "Responsável": "MICHELI DE SOUZA SANTOS  ",
     "Produto": "Adubo",
     "Dosagem de Produto - Sulcação": "3,355",
-    "Fazenda": NaN
+    "Fazenda": null,
+    "Unnamed: 17": null
   },
   {
     "ID": "3445529",
@@ -20043,7 +21101,8 @@ const DOSAGEM_SULCO_DATA = [
     "Responsável": "MICHELI DE SOUZA SANTOS  ",
     "Produto": "Adubo",
     "Dosagem de Produto - Sulcação": "3,46",
-    "Fazenda": NaN
+    "Fazenda": null,
+    "Unnamed: 17": null
   },
   {
     "ID": "3445528",
@@ -20062,7 +21121,8 @@ const DOSAGEM_SULCO_DATA = [
     "Responsável": "MICHELI DE SOUZA SANTOS  ",
     "Produto": "Adubo",
     "Dosagem de Produto - Sulcação": "3,535",
-    "Fazenda": NaN
+    "Fazenda": null,
+    "Unnamed: 17": null
   },
   {
     "ID": "3445560",
@@ -20081,7 +21141,8 @@ const DOSAGEM_SULCO_DATA = [
     "Responsável": "FERNANDA DE SOUZA ",
     "Produto": "Adubo",
     "Dosagem de Produto - Sulcação": "3,595",
-    "Fazenda": NaN
+    "Fazenda": null,
+    "Unnamed: 17": null
   },
   {
     "ID": "3445527",
@@ -20100,7 +21161,8 @@ const DOSAGEM_SULCO_DATA = [
     "Responsável": "MICHELI DE SOUZA SANTOS  ",
     "Produto": "Adubo",
     "Dosagem de Produto - Sulcação": "3,39",
-    "Fazenda": NaN
+    "Fazenda": null,
+    "Unnamed: 17": null
   },
   {
     "ID": "3445559",
@@ -20119,7 +21181,8 @@ const DOSAGEM_SULCO_DATA = [
     "Responsável": "FERNANDA DE SOUZA ",
     "Produto": "Adubo",
     "Dosagem de Produto - Sulcação": "3,645",
-    "Fazenda": NaN
+    "Fazenda": null,
+    "Unnamed: 17": null
   },
   {
     "ID": "3445526",
@@ -20138,7 +21201,8 @@ const DOSAGEM_SULCO_DATA = [
     "Responsável": "MICHELI DE SOUZA SANTOS  ",
     "Produto": "Adubo",
     "Dosagem de Produto - Sulcação": "3,285",
-    "Fazenda": NaN
+    "Fazenda": null,
+    "Unnamed: 17": null
   },
   {
     "ID": "3445525",
@@ -20157,7 +21221,8 @@ const DOSAGEM_SULCO_DATA = [
     "Responsável": "MICHELI DE SOUZA SANTOS  ",
     "Produto": "Adubo",
     "Dosagem de Produto - Sulcação": "3,32",
-    "Fazenda": NaN
+    "Fazenda": null,
+    "Unnamed: 17": null
   },
   {
     "ID": "3443881",
@@ -20176,7 +21241,8 @@ const DOSAGEM_SULCO_DATA = [
     "Responsável": "MICHELI DE SOUZA SANTOS  ",
     "Produto": "Adubo",
     "Dosagem de Produto - Sulcação": "3,555",
-    "Fazenda": NaN
+    "Fazenda": null,
+    "Unnamed: 17": null
   },
   {
     "ID": "3443880",
@@ -20195,7 +21261,8 @@ const DOSAGEM_SULCO_DATA = [
     "Responsável": "MICHELI DE SOUZA SANTOS  ",
     "Produto": "Adubo",
     "Dosagem de Produto - Sulcação": "3,5",
-    "Fazenda": NaN
+    "Fazenda": null,
+    "Unnamed: 17": null
   },
   {
     "ID": "3433125",
@@ -20214,7 +21281,8 @@ const DOSAGEM_SULCO_DATA = [
     "Responsável": "268680 - GABRIEL HENRIQUE MARTINS PEREIRA ",
     "Produto": "Adubo",
     "Dosagem de Produto - Sulcação": "3,515",
-    "Fazenda": NaN
+    "Fazenda": null,
+    "Unnamed: 17": null
   },
   {
     "ID": "3433126",
@@ -20233,7 +21301,8 @@ const DOSAGEM_SULCO_DATA = [
     "Responsável": "268680 - GABRIEL HENRIQUE MARTINS PEREIRA ",
     "Produto": "Adubo",
     "Dosagem de Produto - Sulcação": "3,44",
-    "Fazenda": NaN
+    "Fazenda": null,
+    "Unnamed: 17": null
   },
   {
     "ID": "3433322",
@@ -20252,7 +21321,8 @@ const DOSAGEM_SULCO_DATA = [
     "Responsável": "278400 - Vitor Amorim Ramos ",
     "Produto": "Adubo",
     "Dosagem de Produto - Sulcação": "3,275",
-    "Fazenda": NaN
+    "Fazenda": null,
+    "Unnamed: 17": null
   },
   {
     "ID": "3433323",
@@ -20271,7 +21341,8 @@ const DOSAGEM_SULCO_DATA = [
     "Responsável": "278400 - Vitor Amorim Ramos ",
     "Produto": "Adubo",
     "Dosagem de Produto - Sulcação": "3,265",
-    "Fazenda": NaN
+    "Fazenda": null,
+    "Unnamed: 17": null
   },
   {
     "ID": "3433324",
@@ -20290,7 +21361,8 @@ const DOSAGEM_SULCO_DATA = [
     "Responsável": "278400 - Vitor Amorim Ramos ",
     "Produto": "Adubo",
     "Dosagem de Produto - Sulcação": "3,37",
-    "Fazenda": NaN
+    "Fazenda": null,
+    "Unnamed: 17": null
   },
   {
     "ID": "3433129",
@@ -20309,7 +21381,8 @@ const DOSAGEM_SULCO_DATA = [
     "Responsável": "268680 - GABRIEL HENRIQUE MARTINS PEREIRA ",
     "Produto": "Adubo",
     "Dosagem de Produto - Sulcação": "3,4",
-    "Fazenda": NaN
+    "Fazenda": null,
+    "Unnamed: 17": null
   },
   {
     "ID": "3433130",
@@ -20328,7 +21401,8 @@ const DOSAGEM_SULCO_DATA = [
     "Responsável": "268680 - GABRIEL HENRIQUE MARTINS PEREIRA ",
     "Produto": "Adubo",
     "Dosagem de Produto - Sulcação": "3,485",
-    "Fazenda": NaN
+    "Fazenda": null,
+    "Unnamed: 17": null
   },
   {
     "ID": "3433325",
@@ -20347,7 +21421,8 @@ const DOSAGEM_SULCO_DATA = [
     "Responsável": "278400 - Vitor Amorim Ramos ",
     "Produto": "Adubo",
     "Dosagem de Produto - Sulcação": "3,4",
-    "Fazenda": NaN
+    "Fazenda": null,
+    "Unnamed: 17": null
   },
   {
     "ID": "3433181",
@@ -20366,7 +21441,8 @@ const DOSAGEM_SULCO_DATA = [
     "Responsável": "NILDA CLAUDINO [2510716]",
     "Produto": "Adubo",
     "Dosagem de Produto - Sulcação": "3,855",
-    "Fazenda": NaN
+    "Fazenda": null,
+    "Unnamed: 17": null
   },
   {
     "ID": "3433698",
@@ -20385,7 +21461,8 @@ const DOSAGEM_SULCO_DATA = [
     "Responsável": "FERNANDA DE SOUZA [127577]",
     "Produto": "Adubo",
     "Dosagem de Produto - Sulcação": "3,745",
-    "Fazenda": NaN
+    "Fazenda": null,
+    "Unnamed: 17": null
   },
   {
     "ID": "3433697",
@@ -20404,7 +21481,8 @@ const DOSAGEM_SULCO_DATA = [
     "Responsável": "FERNANDA DE SOUZA [127577]",
     "Produto": "Adubo",
     "Dosagem de Produto - Sulcação": "3,675",
-    "Fazenda": NaN
+    "Fazenda": null,
+    "Unnamed: 17": null
   },
   {
     "ID": "3433182",
@@ -20423,7 +21501,8 @@ const DOSAGEM_SULCO_DATA = [
     "Responsável": "NILDA CLAUDINO [2510716]",
     "Produto": "Adubo",
     "Dosagem de Produto - Sulcação": "3,76",
-    "Fazenda": NaN
+    "Fazenda": null,
+    "Unnamed: 17": null
   },
   {
     "ID": "3435273",
@@ -20442,7 +21521,8 @@ const DOSAGEM_SULCO_DATA = [
     "Responsável": "FERNANDA DE SOUZA [127577]",
     "Produto": "Adubo",
     "Dosagem de Produto - Sulcação": "3,665",
-    "Fazenda": NaN
+    "Fazenda": null,
+    "Unnamed: 17": null
   },
   {
     "ID": "3435274",
@@ -20461,7 +21541,8 @@ const DOSAGEM_SULCO_DATA = [
     "Responsável": "FERNANDA DE SOUZA [127577]",
     "Produto": "Adubo",
     "Dosagem de Produto - Sulcação": "3,745",
-    "Fazenda": NaN
+    "Fazenda": null,
+    "Unnamed: 17": null
   },
   {
     "ID": "3435664",
@@ -20480,7 +21561,8 @@ const DOSAGEM_SULCO_DATA = [
     "Responsável": "REGINALDO DA SILVA GOMES [249300]",
     "Produto": "Adubo",
     "Dosagem de Produto - Sulcação": "3,495",
-    "Fazenda": NaN
+    "Fazenda": null,
+    "Unnamed: 17": null
   },
   {
     "ID": "3435318",
@@ -20499,7 +21581,8 @@ const DOSAGEM_SULCO_DATA = [
     "Responsável": "MICHELI DE SOUZA SANTOS  ",
     "Produto": "Adubo",
     "Dosagem de Produto - Sulcação": "3,41",
-    "Fazenda": NaN
+    "Fazenda": null,
+    "Unnamed: 17": null
   },
   {
     "ID": "3435666",
@@ -20518,7 +21601,8 @@ const DOSAGEM_SULCO_DATA = [
     "Responsável": "REGINALDO DA SILVA GOMES [249300]",
     "Produto": "Adubo",
     "Dosagem de Produto - Sulcação": "3,255",
-    "Fazenda": NaN
+    "Fazenda": null,
+    "Unnamed: 17": null
   },
   {
     "ID": "3435665",
@@ -20537,7 +21621,8 @@ const DOSAGEM_SULCO_DATA = [
     "Responsável": "REGINALDO DA SILVA GOMES [249300]",
     "Produto": "Adubo",
     "Dosagem de Produto - Sulcação": "3,435",
-    "Fazenda": NaN
+    "Fazenda": null,
+    "Unnamed: 17": null
   },
   {
     "ID": "3435319",
@@ -20556,7 +21641,8 @@ const DOSAGEM_SULCO_DATA = [
     "Responsável": "MICHELI DE SOUZA SANTOS  ",
     "Produto": "Adubo",
     "Dosagem de Produto - Sulcação": "3,255",
-    "Fazenda": NaN
+    "Fazenda": null,
+    "Unnamed: 17": null
   },
   {
     "ID": "3435667",
@@ -20575,7 +21661,8 @@ const DOSAGEM_SULCO_DATA = [
     "Responsável": "REGINALDO DA SILVA GOMES [249300]",
     "Produto": "Adubo",
     "Dosagem de Produto - Sulcação": "3,41",
-    "Fazenda": NaN
+    "Fazenda": null,
+    "Unnamed: 17": null
   },
   {
     "ID": "3435320",
@@ -20594,7 +21681,8 @@ const DOSAGEM_SULCO_DATA = [
     "Responsável": "MICHELI DE SOUZA SANTOS  ",
     "Produto": "Adubo",
     "Dosagem de Produto - Sulcação": "3,435",
-    "Fazenda": NaN
+    "Fazenda": null,
+    "Unnamed: 17": null
   },
   {
     "ID": "3435321",
@@ -20613,7 +21701,8 @@ const DOSAGEM_SULCO_DATA = [
     "Responsável": "MICHELI DE SOUZA SANTOS  ",
     "Produto": "Adubo",
     "Dosagem de Produto - Sulcação": "3,495",
-    "Fazenda": NaN
+    "Fazenda": null,
+    "Unnamed: 17": null
   },
   {
     "ID": "3435605",
@@ -20632,7 +21721,8 @@ const DOSAGEM_SULCO_DATA = [
     "Responsável": "278400 - Vitor Amorim Ramos ",
     "Produto": "Adubo",
     "Dosagem de Produto - Sulcação": "3,32",
-    "Fazenda": NaN
+    "Fazenda": null,
+    "Unnamed: 17": null
   },
   {
     "ID": "3435606",
@@ -20651,7 +21741,8 @@ const DOSAGEM_SULCO_DATA = [
     "Responsável": "278400 - Vitor Amorim Ramos ",
     "Produto": "Adubo",
     "Dosagem de Produto - Sulcação": "3,34",
-    "Fazenda": NaN
+    "Fazenda": null,
+    "Unnamed: 17": null
   },
   {
     "ID": "3435611",
@@ -20670,7 +21761,8 @@ const DOSAGEM_SULCO_DATA = [
     "Responsável": "278400 - Vitor Amorim Ramos ",
     "Produto": "Adubo",
     "Dosagem de Produto - Sulcação": "3,37",
-    "Fazenda": NaN
+    "Fazenda": null,
+    "Unnamed: 17": null
   },
   {
     "ID": "3435618",
@@ -20689,7 +21781,8 @@ const DOSAGEM_SULCO_DATA = [
     "Responsável": "278400 - Vitor Amorim Ramos ",
     "Produto": "Adubo",
     "Dosagem de Produto - Sulcação": "3,315",
-    "Fazenda": NaN
+    "Fazenda": null,
+    "Unnamed: 17": null
   },
   {
     "ID": "3431298",
@@ -20708,7 +21801,8 @@ const DOSAGEM_SULCO_DATA = [
     "Responsável": "MICHELI DE SOUZA SANTOS  ",
     "Produto": "Adubo",
     "Dosagem de Produto - Sulcação": "3,55",
-    "Fazenda": NaN
+    "Fazenda": null,
+    "Unnamed: 17": null
   },
   {
     "ID": "3431299",
@@ -20727,7 +21821,8 @@ const DOSAGEM_SULCO_DATA = [
     "Responsável": "MICHELI DE SOUZA SANTOS  ",
     "Produto": "Adubo",
     "Dosagem de Produto - Sulcação": "3,395",
-    "Fazenda": NaN
+    "Fazenda": null,
+    "Unnamed: 17": null
   },
   {
     "ID": "3431292",
@@ -20746,7 +21841,8 @@ const DOSAGEM_SULCO_DATA = [
     "Responsável": "MICHELI DE SOUZA SANTOS  ",
     "Produto": "Adubo",
     "Dosagem de Produto - Sulcação": "3,505",
-    "Fazenda": NaN
+    "Fazenda": null,
+    "Unnamed: 17": null
   },
   {
     "ID": "3431293",
@@ -20765,7 +21861,8 @@ const DOSAGEM_SULCO_DATA = [
     "Responsável": "MICHELI DE SOUZA SANTOS  ",
     "Produto": "Adubo",
     "Dosagem de Produto - Sulcação": "3,53",
-    "Fazenda": NaN
+    "Fazenda": null,
+    "Unnamed: 17": null
   },
   {
     "ID": "3443384",
@@ -20784,7 +21881,8 @@ const DOSAGEM_SULCO_DATA = [
     "Responsável": "NILDA CLAUDINO [2510716]",
     "Produto": "Adubo",
     "Dosagem de Produto - Sulcação": "3,305",
-    "Fazenda": NaN
+    "Fazenda": null,
+    "Unnamed: 17": null
   },
   {
     "ID": "3443428",
@@ -20803,7 +21901,8 @@ const DOSAGEM_SULCO_DATA = [
     "Responsável": "REGINALDO DA SILVA GOMES [249300]",
     "Produto": "Adubo",
     "Dosagem de Produto - Sulcação": "3,385",
-    "Fazenda": NaN
+    "Fazenda": null,
+    "Unnamed: 17": null
   },
   {
     "ID": "3443429",
@@ -20822,7 +21921,8 @@ const DOSAGEM_SULCO_DATA = [
     "Responsável": "REGINALDO DA SILVA GOMES [249300]",
     "Produto": "Adubo",
     "Dosagem de Produto - Sulcação": "3,505",
-    "Fazenda": NaN
+    "Fazenda": null,
+    "Unnamed: 17": null
   },
   {
     "ID": "3443386",
@@ -20841,7 +21941,8 @@ const DOSAGEM_SULCO_DATA = [
     "Responsável": "NILDA CLAUDINO [2510716]",
     "Produto": "Adubo",
     "Dosagem de Produto - Sulcação": "3,39",
-    "Fazenda": NaN
+    "Fazenda": null,
+    "Unnamed: 17": null
   },
   {
     "ID": "3443430",
@@ -20860,7 +21961,8 @@ const DOSAGEM_SULCO_DATA = [
     "Responsável": "REGINALDO DA SILVA GOMES [249300]",
     "Produto": "Adubo",
     "Dosagem de Produto - Sulcação": "3,39",
-    "Fazenda": NaN
+    "Fazenda": null,
+    "Unnamed: 17": null
   },
   {
     "ID": "3443431",
@@ -20879,7 +21981,8 @@ const DOSAGEM_SULCO_DATA = [
     "Responsável": "REGINALDO DA SILVA GOMES [249300]",
     "Produto": "Adubo",
     "Dosagem de Produto - Sulcação": "3,305",
-    "Fazenda": NaN
+    "Fazenda": null,
+    "Unnamed: 17": null
   },
   {
     "ID": "3443388",
@@ -20898,7 +22001,8 @@ const DOSAGEM_SULCO_DATA = [
     "Responsável": "NILDA CLAUDINO [2510716]",
     "Produto": "Adubo",
     "Dosagem de Produto - Sulcação": "3,385",
-    "Fazenda": NaN
+    "Fazenda": null,
+    "Unnamed: 17": null
   },
   {
     "ID": "3443390",
@@ -20917,7 +22021,8 @@ const DOSAGEM_SULCO_DATA = [
     "Responsável": "NILDA CLAUDINO [2510716]",
     "Produto": "Adubo",
     "Dosagem de Produto - Sulcação": "3,505",
-    "Fazenda": NaN
+    "Fazenda": null,
+    "Unnamed: 17": null
   },
   {
     "ID": "3443453",
@@ -20936,7 +22041,8 @@ const DOSAGEM_SULCO_DATA = [
     "Responsável": "FERNANDA DE SOUZA [127577]",
     "Produto": "Adubo",
     "Dosagem de Produto - Sulcação": "3,8",
-    "Fazenda": NaN
+    "Fazenda": null,
+    "Unnamed: 17": null
   },
   {
     "ID": "3443454",
@@ -20955,7 +22061,8 @@ const DOSAGEM_SULCO_DATA = [
     "Responsável": "FERNANDA DE SOUZA [127577]",
     "Produto": "Adubo",
     "Dosagem de Produto - Sulcação": "3,53",
-    "Fazenda": NaN
+    "Fazenda": null,
+    "Unnamed: 17": null
   },
   {
     "ID": "3443376",
@@ -20974,7 +22081,8 @@ const DOSAGEM_SULCO_DATA = [
     "Responsável": "GLEISON FELIPE BORGES DE MATOS [266770]",
     "Produto": "Adubo",
     "Dosagem de Produto - Sulcação": "5,435",
-    "Fazenda": NaN
+    "Fazenda": null,
+    "Unnamed: 17": null
   },
   {
     "ID": "3443377",
@@ -20993,7 +22101,8 @@ const DOSAGEM_SULCO_DATA = [
     "Responsável": "GLEISON FELIPE BORGES DE MATOS [266770]",
     "Produto": "Adubo",
     "Dosagem de Produto - Sulcação": "3,56",
-    "Fazenda": NaN
+    "Fazenda": null,
+    "Unnamed: 17": null
   },
   {
     "ID": "3443438",
@@ -21012,7 +22121,8 @@ const DOSAGEM_SULCO_DATA = [
     "Responsável": "REGINALDO DA SILVA GOMES [249300]",
     "Produto": "Adubo",
     "Dosagem de Produto - Sulcação": "3,53",
-    "Fazenda": NaN
+    "Fazenda": null,
+    "Unnamed: 17": null
   },
   {
     "ID": "3443436",
@@ -21031,7 +22141,8 @@ const DOSAGEM_SULCO_DATA = [
     "Responsável": "REGINALDO DA SILVA GOMES [249300]",
     "Produto": "Adubo",
     "Dosagem de Produto - Sulcação": "3,8",
-    "Fazenda": NaN
+    "Fazenda": null,
+    "Unnamed: 17": null
   },
   {
     "ID": "3443879",
@@ -21050,7 +22161,8 @@ const DOSAGEM_SULCO_DATA = [
     "Responsável": "GLEISON FELIPE BORGES DE MATOS",
     "Produto": "Adubo",
     "Dosagem de Produto - Sulcação": "3,26",
-    "Fazenda": NaN
+    "Fazenda": null,
+    "Unnamed: 17": null
   },
   {
     "ID": "3443878",
@@ -21069,7 +22181,8 @@ const DOSAGEM_SULCO_DATA = [
     "Responsável": "GLEISON FELIPE BORGES DE MATOS",
     "Produto": "Adubo",
     "Dosagem de Produto - Sulcação": "3,425",
-    "Fazenda": NaN
+    "Fazenda": null,
+    "Unnamed: 17": null
   },
   {
     "ID": "3433175",
@@ -21088,7 +22201,8 @@ const DOSAGEM_SULCO_DATA = [
     "Responsável": "MICHELI DE SOUZA SANTOS  ",
     "Produto": "Adubo",
     "Dosagem de Produto - Sulcação": "3,505",
-    "Fazenda": NaN
+    "Fazenda": null,
+    "Unnamed: 17": null
   },
   {
     "ID": "3433174",
@@ -21107,7 +22221,8 @@ const DOSAGEM_SULCO_DATA = [
     "Responsável": "MICHELI DE SOUZA SANTOS  ",
     "Produto": "Adubo",
     "Dosagem de Produto - Sulcação": "3,4",
-    "Fazenda": NaN
+    "Fazenda": null,
+    "Unnamed: 17": null
   },
   {
     "ID": "3433173",
@@ -21126,7 +22241,8 @@ const DOSAGEM_SULCO_DATA = [
     "Responsável": "MICHELI DE SOUZA SANTOS  ",
     "Produto": "Adubo",
     "Dosagem de Produto - Sulcação": "3,54",
-    "Fazenda": NaN
+    "Fazenda": null,
+    "Unnamed: 17": null
   },
   {
     "ID": "3433172",
@@ -21145,7 +22261,8 @@ const DOSAGEM_SULCO_DATA = [
     "Responsável": "MICHELI DE SOUZA SANTOS  ",
     "Produto": "Adubo",
     "Dosagem de Produto - Sulcação": "3,345",
-    "Fazenda": NaN
+    "Fazenda": null,
+    "Unnamed: 17": null
   },
   {
     "ID": "3433180",
@@ -21164,7 +22281,8 @@ const DOSAGEM_SULCO_DATA = [
     "Responsável": "NILDA CLAUDINO [2510716]",
     "Produto": "Adubo",
     "Dosagem de Produto - Sulcação": "3,755",
-    "Fazenda": NaN
+    "Fazenda": null,
+    "Unnamed: 17": null
   },
   {
     "ID": "3433179",
@@ -21183,7 +22301,8 @@ const DOSAGEM_SULCO_DATA = [
     "Responsável": "NILDA CLAUDINO [2510716]",
     "Produto": "Adubo",
     "Dosagem de Produto - Sulcação": "3,71",
-    "Fazenda": NaN
+    "Fazenda": null,
+    "Unnamed: 17": null
   },
   {
     "ID": "3431412",
@@ -21202,7 +22321,8 @@ const DOSAGEM_SULCO_DATA = [
     "Responsável": "268680 - GABRIEL HENRIQUE MARTINS PEREIRA ",
     "Produto": "Adubo",
     "Dosagem de Produto - Sulcação": "3,33",
-    "Fazenda": NaN
+    "Fazenda": null,
+    "Unnamed: 17": null
   },
   {
     "ID": "3431411",
@@ -21221,7 +22341,8 @@ const DOSAGEM_SULCO_DATA = [
     "Responsável": "268680 - GABRIEL HENRIQUE MARTINS PEREIRA ",
     "Produto": "Adubo",
     "Dosagem de Produto - Sulcação": "3,375",
-    "Fazenda": NaN
+    "Fazenda": null,
+    "Unnamed: 17": null
   },
   {
     "ID": "3431408",
@@ -21240,7 +22361,8 @@ const DOSAGEM_SULCO_DATA = [
     "Responsável": "268680 - GABRIEL HENRIQUE MARTINS PEREIRA ",
     "Produto": "Adubo",
     "Dosagem de Produto - Sulcação": "3,365",
-    "Fazenda": NaN
+    "Fazenda": null,
+    "Unnamed: 17": null
   },
   {
     "ID": "3431407",
@@ -21259,7 +22381,8 @@ const DOSAGEM_SULCO_DATA = [
     "Responsável": "268680 - GABRIEL HENRIQUE MARTINS PEREIRA ",
     "Produto": "Adubo",
     "Dosagem de Produto - Sulcação": "3,41",
-    "Fazenda": NaN
+    "Fazenda": null,
+    "Unnamed: 17": null
   },
   {
     "ID": "3431317",
@@ -21278,7 +22401,8 @@ const DOSAGEM_SULCO_DATA = [
     "Responsável": "NILDA CLAUDINO [2510716]",
     "Produto": "Adubo",
     "Dosagem de Produto - Sulcação": "3,445",
-    "Fazenda": NaN
+    "Fazenda": null,
+    "Unnamed: 17": null
   },
   {
     "ID": "3431316",
@@ -21297,7 +22421,8 @@ const DOSAGEM_SULCO_DATA = [
     "Responsável": "NILDA CLAUDINO [2510716]",
     "Produto": "Adubo",
     "Dosagem de Produto - Sulcação": "3,6",
-    "Fazenda": NaN
+    "Fazenda": null,
+    "Unnamed: 17": null
   },
   {
     "ID": "3431162",
@@ -21316,7 +22441,8 @@ const DOSAGEM_SULCO_DATA = [
     "Responsável": "REGINALDO DA SILVA GOMES [249300]",
     "Produto": "Adubo",
     "Dosagem de Produto - Sulcação": "3,55",
-    "Fazenda": NaN
+    "Fazenda": null,
+    "Unnamed: 17": null
   },
   {
     "ID": "3431161",
@@ -21335,7 +22461,8 @@ const DOSAGEM_SULCO_DATA = [
     "Responsável": "REGINALDO DA SILVA GOMES [249300]",
     "Produto": "Adubo",
     "Dosagem de Produto - Sulcação": "3,395",
-    "Fazenda": NaN
+    "Fazenda": null,
+    "Unnamed: 17": null
   },
   {
     "ID": "3431163",
@@ -21354,7 +22481,8 @@ const DOSAGEM_SULCO_DATA = [
     "Responsável": "REGINALDO DA SILVA GOMES [249300]",
     "Produto": "Adubo",
     "Dosagem de Produto - Sulcação": "3,53",
-    "Fazenda": NaN
+    "Fazenda": null,
+    "Unnamed: 17": null
   },
   {
     "ID": "3431164",
@@ -21373,7 +22501,8 @@ const DOSAGEM_SULCO_DATA = [
     "Responsável": "REGINALDO DA SILVA GOMES [249300]",
     "Produto": "Adubo",
     "Dosagem de Produto - Sulcação": "3,505",
-    "Fazenda": NaN
+    "Fazenda": null,
+    "Unnamed: 17": null
   },
   {
     "ID": "3431303",
@@ -21392,7 +22521,8 @@ const DOSAGEM_SULCO_DATA = [
     "Responsável": "MICHELI DE SOUZA SANTOS  ",
     "Produto": "Adubo",
     "Dosagem de Produto - Sulcação": "3,245",
-    "Fazenda": NaN
+    "Fazenda": null,
+    "Unnamed: 17": null
   },
   {
     "ID": "3431300",
@@ -21411,7 +22541,8 @@ const DOSAGEM_SULCO_DATA = [
     "Responsável": "MICHELI DE SOUZA SANTOS  ",
     "Produto": "Adubo",
     "Dosagem de Produto - Sulcação": "3,42",
-    "Fazenda": NaN
+    "Fazenda": null,
+    "Unnamed: 17": null
   },
   {
     "ID": "3431301",
@@ -21430,7 +22561,8 @@ const DOSAGEM_SULCO_DATA = [
     "Responsável": "MICHELI DE SOUZA SANTOS  ",
     "Produto": "Adubo",
     "Dosagem de Produto - Sulcação": "3,42",
-    "Fazenda": NaN
+    "Fazenda": null,
+    "Unnamed: 17": null
   },
   {
     "ID": "3431302",
@@ -21449,7 +22581,8 @@ const DOSAGEM_SULCO_DATA = [
     "Responsável": "MICHELI DE SOUZA SANTOS  ",
     "Produto": "Adubo",
     "Dosagem de Produto - Sulcação": "3,37",
-    "Fazenda": NaN
+    "Fazenda": null,
+    "Unnamed: 17": null
   },
   {
     "ID": "3431156",
@@ -21468,7 +22601,8 @@ const DOSAGEM_SULCO_DATA = [
     "Responsável": "REGINALDO DA SILVA GOMES [249300]",
     "Produto": "Adubo",
     "Dosagem de Produto - Sulcação": "3,52",
-    "Fazenda": NaN
+    "Fazenda": null,
+    "Unnamed: 17": null
   },
   {
     "ID": "3431155",
@@ -21487,7 +22621,8 @@ const DOSAGEM_SULCO_DATA = [
     "Responsável": "REGINALDO DA SILVA GOMES [249300]",
     "Produto": "Adubo",
     "Dosagem de Produto - Sulcação": "3,52",
-    "Fazenda": NaN
+    "Fazenda": null,
+    "Unnamed: 17": null
   },
   {
     "ID": "3431154",
@@ -21506,7 +22641,8 @@ const DOSAGEM_SULCO_DATA = [
     "Responsável": "REGINALDO DA SILVA GOMES [249300]",
     "Produto": "Adubo",
     "Dosagem de Produto - Sulcação": "3,37",
-    "Fazenda": NaN
+    "Fazenda": null,
+    "Unnamed: 17": null
   },
   {
     "ID": "3431153",
@@ -21525,7 +22661,8 @@ const DOSAGEM_SULCO_DATA = [
     "Responsável": "REGINALDO DA SILVA GOMES [249300]",
     "Produto": "Adubo",
     "Dosagem de Produto - Sulcação": "3,245",
-    "Fazenda": NaN
+    "Fazenda": null,
+    "Unnamed: 17": null
   },
   {
     "ID": "3428652",
@@ -21544,7 +22681,8 @@ const DOSAGEM_SULCO_DATA = [
     "Responsável": "EDILIANA CARDOSO DA COSTA [172390]",
     "Produto": "Adubo",
     "Dosagem de Produto - Sulcação": "2,94",
-    "Fazenda": NaN
+    "Fazenda": null,
+    "Unnamed: 17": null
   },
   {
     "ID": "3428651",
@@ -21563,7 +22701,8 @@ const DOSAGEM_SULCO_DATA = [
     "Responsável": "EDILIANA CARDOSO DA COSTA [172390]",
     "Produto": "Adubo",
     "Dosagem de Produto - Sulcação": "2,9",
-    "Fazenda": NaN
+    "Fazenda": null,
+    "Unnamed: 17": null
   },
   {
     "ID": "3428308",
@@ -21582,7 +22721,8 @@ const DOSAGEM_SULCO_DATA = [
     "Responsável": "REGINALDO DA SILVA GOMES [249300]",
     "Produto": "Adubo",
     "Dosagem de Produto - Sulcação": "3,55",
-    "Fazenda": NaN
+    "Fazenda": null,
+    "Unnamed: 17": null
   },
   {
     "ID": "3428307",
@@ -21601,7 +22741,8 @@ const DOSAGEM_SULCO_DATA = [
     "Responsável": "REGINALDO DA SILVA GOMES [249300]",
     "Produto": "Adubo",
     "Dosagem de Produto - Sulcação": "3,52",
-    "Fazenda": NaN
+    "Fazenda": null,
+    "Unnamed: 17": null
   },
   {
     "ID": "3429138",
@@ -21620,7 +22761,8 @@ const DOSAGEM_SULCO_DATA = [
     "Responsável": "FERNANDA DE SOUZA [127577]",
     "Produto": "Adubo",
     "Dosagem de Produto - Sulcação": "3,495",
-    "Fazenda": NaN
+    "Fazenda": null,
+    "Unnamed: 17": null
   },
   {
     "ID": "3429137",
@@ -21639,7 +22781,8 @@ const DOSAGEM_SULCO_DATA = [
     "Responsável": "FERNANDA DE SOUZA [127577]",
     "Produto": "Adubo",
     "Dosagem de Produto - Sulcação": "3,55",
-    "Fazenda": NaN
+    "Fazenda": null,
+    "Unnamed: 17": null
   },
   {
     "ID": "3428251",
@@ -21658,7 +22801,8 @@ const DOSAGEM_SULCO_DATA = [
     "Responsável": "MICHELI DE SOUZA SANTOS  ",
     "Produto": "Adubo",
     "Dosagem de Produto - Sulcação": "3,55",
-    "Fazenda": NaN
+    "Fazenda": null,
+    "Unnamed: 17": null
   },
   {
     "ID": "3428250",
@@ -21677,7 +22821,8 @@ const DOSAGEM_SULCO_DATA = [
     "Responsável": "MICHELI DE SOUZA SANTOS  ",
     "Produto": "Adubo",
     "Dosagem de Produto - Sulcação": "3,52",
-    "Fazenda": NaN
+    "Fazenda": null,
+    "Unnamed: 17": null
   },
   {
     "ID": "3428245",
@@ -21696,7 +22841,8 @@ const DOSAGEM_SULCO_DATA = [
     "Responsável": "MICHELI DE SOUZA SANTOS  ",
     "Produto": "Adubo",
     "Dosagem de Produto - Sulcação": "3,515",
-    "Fazenda": NaN
+    "Fazenda": null,
+    "Unnamed: 17": null
   },
   {
     "ID": "3428244",
@@ -21715,7 +22861,8 @@ const DOSAGEM_SULCO_DATA = [
     "Responsável": "MICHELI DE SOUZA SANTOS  ",
     "Produto": "Adubo",
     "Dosagem de Produto - Sulcação": "3,475",
-    "Fazenda": NaN
+    "Fazenda": null,
+    "Unnamed: 17": null
   },
   {
     "ID": "3426596",
@@ -21734,7 +22881,8 @@ const DOSAGEM_SULCO_DATA = [
     "Responsável": "REGINALDO DA SILVA GOMES [249300]",
     "Produto": "Adubo",
     "Dosagem de Produto - Sulcação": "3,54",
-    "Fazenda": NaN
+    "Fazenda": null,
+    "Unnamed: 17": null
   },
   {
     "ID": "3426595",
@@ -21753,7 +22901,8 @@ const DOSAGEM_SULCO_DATA = [
     "Responsável": "REGINALDO DA SILVA GOMES [249300]",
     "Produto": "Adubo",
     "Dosagem de Produto - Sulcação": "3,31",
-    "Fazenda": NaN
+    "Fazenda": null,
+    "Unnamed: 17": null
   },
   {
     "ID": "3426546",
@@ -21772,7 +22921,8 @@ const DOSAGEM_SULCO_DATA = [
     "Responsável": "278400 - Vitor Amorim Ramos ",
     "Produto": "Adubo",
     "Dosagem de Produto - Sulcação": "3,31",
-    "Fazenda": NaN
+    "Fazenda": null,
+    "Unnamed: 17": null
   },
   {
     "ID": "3426545",
@@ -21791,7 +22941,8 @@ const DOSAGEM_SULCO_DATA = [
     "Responsável": "278400 - Vitor Amorim Ramos ",
     "Produto": "Adubo",
     "Dosagem de Produto - Sulcação": "3,54",
-    "Fazenda": NaN
+    "Fazenda": null,
+    "Unnamed: 17": null
   },
   {
     "ID": "3423182",
@@ -21810,7 +22961,8 @@ const DOSAGEM_SULCO_DATA = [
     "Responsável": "MARCELO DE OLIVEIRA JUNIOR [264820]",
     "Produto": "Adubo",
     "Dosagem de Produto - Sulcação": "3,355",
-    "Fazenda": NaN
+    "Fazenda": null,
+    "Unnamed: 17": null
   },
   {
     "ID": "3423424",
@@ -21829,7 +22981,8 @@ const DOSAGEM_SULCO_DATA = [
     "Responsável": "MARCELO DE OLIVEIRA JUNIOR [264820]",
     "Produto": "Adubo",
     "Dosagem de Produto - Sulcação": "3,43",
-    "Fazenda": NaN
+    "Fazenda": null,
+    "Unnamed: 17": null
   },
   {
     "ID": "3422733",
@@ -21848,7 +23001,8 @@ const DOSAGEM_SULCO_DATA = [
     "Responsável": "REGINALDO DA SILVA GOMES [249300]",
     "Produto": "Adubo",
     "Dosagem de Produto - Sulcação": "3,43",
-    "Fazenda": NaN
+    "Fazenda": null,
+    "Unnamed: 17": null
   },
   {
     "ID": "3422732",
@@ -21867,7 +23021,8 @@ const DOSAGEM_SULCO_DATA = [
     "Responsável": "REGINALDO DA SILVA GOMES [249300]",
     "Produto": "Adubo",
     "Dosagem de Produto - Sulcação": "3,27",
-    "Fazenda": NaN
+    "Fazenda": null,
+    "Unnamed: 17": null
   },
   {
     "ID": "3422991",
@@ -21886,7 +23041,8 @@ const DOSAGEM_SULCO_DATA = [
     "Responsável": "MICHELI DE SOUZA SANTOS  ",
     "Produto": "Adubo",
     "Dosagem de Produto - Sulcação": "3,27",
-    "Fazenda": NaN
+    "Fazenda": null,
+    "Unnamed: 17": null
   },
   {
     "ID": "3422990",
@@ -21905,7 +23061,8 @@ const DOSAGEM_SULCO_DATA = [
     "Responsável": "MICHELI DE SOUZA SANTOS  ",
     "Produto": "Adubo",
     "Dosagem de Produto - Sulcação": "3,43",
-    "Fazenda": NaN
+    "Fazenda": null,
+    "Unnamed: 17": null
   },
   {
     "ID": "3422775",
@@ -21924,7 +23081,8 @@ const DOSAGEM_SULCO_DATA = [
     "Responsável": "278400 - Vitor Amorim Ramos ",
     "Produto": "Adubo",
     "Dosagem de Produto - Sulcação": "3,43",
-    "Fazenda": NaN
+    "Fazenda": null,
+    "Unnamed: 17": null
   },
   {
     "ID": "3422774",
@@ -21943,7 +23101,8 @@ const DOSAGEM_SULCO_DATA = [
     "Responsável": "278400 - Vitor Amorim Ramos ",
     "Produto": "Adubo",
     "Dosagem de Produto - Sulcação": "3,27",
-    "Fazenda": NaN
+    "Fazenda": null,
+    "Unnamed: 17": null
   },
   {
     "ID": "3421345",
@@ -21962,7 +23121,8 @@ const DOSAGEM_SULCO_DATA = [
     "Responsável": "MARCELO DE OLIVEIRA JUNIOR [264820]",
     "Produto": "Adubo",
     "Dosagem de Produto - Sulcação": "3,4",
-    "Fazenda": NaN
+    "Fazenda": null,
+    "Unnamed: 17": null
   },
   {
     "ID": "3421343",
@@ -21981,7 +23141,8 @@ const DOSAGEM_SULCO_DATA = [
     "Responsável": "MARCELO DE OLIVEIRA JUNIOR [264820]",
     "Produto": "Adubo",
     "Dosagem de Produto - Sulcação": "3,39",
-    "Fazenda": NaN
+    "Fazenda": null,
+    "Unnamed: 17": null
   },
   {
     "ID": "3420927",
@@ -22000,7 +23161,8 @@ const DOSAGEM_SULCO_DATA = [
     "Responsável": "278400 - Vitor Amorim Ramos ",
     "Produto": "Adubo",
     "Dosagem de Produto - Sulcação": "3,3",
-    "Fazenda": NaN
+    "Fazenda": null,
+    "Unnamed: 17": null
   },
   {
     "ID": "3420926",
@@ -22019,7 +23181,8 @@ const DOSAGEM_SULCO_DATA = [
     "Responsável": "278400 - Vitor Amorim Ramos ",
     "Produto": "Adubo",
     "Dosagem de Produto - Sulcação": "3,29",
-    "Fazenda": NaN
+    "Fazenda": null,
+    "Unnamed: 17": null
   },
   {
     "ID": "3417407",
@@ -22038,7 +23201,8 @@ const DOSAGEM_SULCO_DATA = [
     "Responsável": "278400 - Vitor Amorim Ramos ",
     "Produto": "Adubo",
     "Dosagem de Produto - Sulcação": "3,365",
-    "Fazenda": NaN
+    "Fazenda": null,
+    "Unnamed: 17": null
   },
   {
     "ID": "3417406",
@@ -22057,7 +23221,8 @@ const DOSAGEM_SULCO_DATA = [
     "Responsável": "278400 - Vitor Amorim Ramos ",
     "Produto": "Adubo",
     "Dosagem de Produto - Sulcação": "3,4",
-    "Fazenda": NaN
+    "Fazenda": null,
+    "Unnamed: 17": null
   },
   {
     "ID": "3413629",
@@ -22076,7 +23241,8 @@ const DOSAGEM_SULCO_DATA = [
     "Responsável": "278400 - Vitor Amorim Ramos ",
     "Produto": "Adubo",
     "Dosagem de Produto - Sulcação": "3,445",
-    "Fazenda": NaN
+    "Fazenda": null,
+    "Unnamed: 17": null
   },
   {
     "ID": "3413630",
@@ -22095,7 +23261,8 @@ const DOSAGEM_SULCO_DATA = [
     "Responsável": "278400 - Vitor Amorim Ramos ",
     "Produto": "Adubo",
     "Dosagem de Produto - Sulcação": "3,495",
-    "Fazenda": NaN
+    "Fazenda": null,
+    "Unnamed: 17": null
   },
   {
     "ID": "3413643",
@@ -22114,7 +23281,8 @@ const DOSAGEM_SULCO_DATA = [
     "Responsável": "278400 - Vitor Amorim Ramos ",
     "Produto": "Adubo",
     "Dosagem de Produto - Sulcação": "3,395",
-    "Fazenda": NaN
+    "Fazenda": null,
+    "Unnamed: 17": null
   },
   {
     "ID": "3413642",
@@ -22133,7 +23301,8 @@ const DOSAGEM_SULCO_DATA = [
     "Responsável": "278400 - Vitor Amorim Ramos ",
     "Produto": "Adubo",
     "Dosagem de Produto - Sulcação": "3,415",
-    "Fazenda": NaN
+    "Fazenda": null,
+    "Unnamed: 17": null
   },
   {
     "ID": "3411783",
@@ -22152,7 +23321,8 @@ const DOSAGEM_SULCO_DATA = [
     "Responsável": "278400 - Vitor Amorim Ramos ",
     "Produto": "Adubo",
     "Dosagem de Produto - Sulcação": "3,35",
-    "Fazenda": NaN
+    "Fazenda": null,
+    "Unnamed: 17": null
   },
   {
     "ID": "3411782",
@@ -22171,7 +23341,8 @@ const DOSAGEM_SULCO_DATA = [
     "Responsável": "278400 - Vitor Amorim Ramos ",
     "Produto": "Adubo",
     "Dosagem de Produto - Sulcação": "3,335",
-    "Fazenda": NaN
+    "Fazenda": null,
+    "Unnamed: 17": null
   },
   {
     "ID": "3410268",
@@ -22190,7 +23361,8 @@ const DOSAGEM_SULCO_DATA = [
     "Responsável": "278400 - Vitor Amorim Ramos ",
     "Produto": "Adubo",
     "Dosagem de Produto - Sulcação": "3,41",
-    "Fazenda": NaN
+    "Fazenda": null,
+    "Unnamed: 17": null
   },
   {
     "ID": "3410267",
@@ -22209,7 +23381,8 @@ const DOSAGEM_SULCO_DATA = [
     "Responsável": "278400 - Vitor Amorim Ramos ",
     "Produto": "Adubo",
     "Dosagem de Produto - Sulcação": "3,475",
-    "Fazenda": NaN
+    "Fazenda": null,
+    "Unnamed: 17": null
   },
   {
     "ID": "3408181",
@@ -22228,7 +23401,8 @@ const DOSAGEM_SULCO_DATA = [
     "Responsável": "278400 - Vitor Amorim Ramos ",
     "Produto": "Adubo",
     "Dosagem de Produto - Sulcação": "3,47",
-    "Fazenda": NaN
+    "Fazenda": null,
+    "Unnamed: 17": null
   },
   {
     "ID": "3408180",
@@ -22247,7 +23421,8 @@ const DOSAGEM_SULCO_DATA = [
     "Responsável": "278400 - Vitor Amorim Ramos ",
     "Produto": "Adubo",
     "Dosagem de Produto - Sulcação": "3,455",
-    "Fazenda": NaN
+    "Fazenda": null,
+    "Unnamed: 17": null
   },
   {
     "ID": "3407986",
@@ -22266,7 +23441,8 @@ const DOSAGEM_SULCO_DATA = [
     "Responsável": "278400 - Vitor Amorim Ramos ",
     "Produto": "Adubo",
     "Dosagem de Produto - Sulcação": "3,465",
-    "Fazenda": NaN
+    "Fazenda": null,
+    "Unnamed: 17": null
   },
   {
     "ID": "3407985",
@@ -22285,7 +23461,8 @@ const DOSAGEM_SULCO_DATA = [
     "Responsável": "278400 - Vitor Amorim Ramos ",
     "Produto": "Adubo",
     "Dosagem de Produto - Sulcação": "3,435",
-    "Fazenda": NaN
+    "Fazenda": null,
+    "Unnamed: 17": null
   },
   {
     "ID": "3406784",
@@ -22304,7 +23481,8 @@ const DOSAGEM_SULCO_DATA = [
     "Responsável": "278400 - Vitor Amorim Ramos ",
     "Produto": "Adubo",
     "Dosagem de Produto - Sulcação": "3,315",
-    "Fazenda": NaN
+    "Fazenda": null,
+    "Unnamed: 17": null
   },
   {
     "ID": "3406783",
@@ -22323,7 +23501,8 @@ const DOSAGEM_SULCO_DATA = [
     "Responsável": "278400 - Vitor Amorim Ramos ",
     "Produto": "Adubo",
     "Dosagem de Produto - Sulcação": "3,225",
-    "Fazenda": NaN
+    "Fazenda": null,
+    "Unnamed: 17": null
   },
   {
     "ID": "3405681",
@@ -22342,7 +23521,8 @@ const DOSAGEM_SULCO_DATA = [
     "Responsável": "278400 - Vitor Amorim Ramos ",
     "Produto": "Adubo",
     "Dosagem de Produto - Sulcação": "3,465",
-    "Fazenda": NaN
+    "Fazenda": null,
+    "Unnamed: 17": null
   },
   {
     "ID": "3405682",
@@ -22361,7 +23541,8 @@ const DOSAGEM_SULCO_DATA = [
     "Responsável": "278400 - Vitor Amorim Ramos ",
     "Produto": "Adubo",
     "Dosagem de Produto - Sulcação": "3,44",
-    "Fazenda": NaN
+    "Fazenda": null,
+    "Unnamed: 17": null
   },
   {
     "ID": "4035282",
@@ -22380,7 +23561,8 @@ const DOSAGEM_SULCO_DATA = [
     "Responsável": "285410",
     "Produto": "Adubo",
     "Dosagem de Produto - Sulcação": "3.435",
-    "Fazenda": "50301"
+    "Fazenda": "50301",
+    "Unnamed: 17": null
   },
   {
     "ID": "4035281",
@@ -22399,7 +23581,8 @@ const DOSAGEM_SULCO_DATA = [
     "Responsável": "285410",
     "Produto": "Adubo",
     "Dosagem de Produto - Sulcação": "3.52",
-    "Fazenda": "50301"
+    "Fazenda": "50301",
+    "Unnamed: 17": null
   },
   {
     "ID": "4035741",
@@ -22418,7 +23601,8 @@ const DOSAGEM_SULCO_DATA = [
     "Responsável": "REGINALDO DA SILVA GOMES ",
     "Produto": "Adubo",
     "Dosagem de Produto - Sulcação": "3.52",
-    "Fazenda": "50301"
+    "Fazenda": "50301",
+    "Unnamed: 17": null
   },
   {
     "ID": "4035740",
@@ -22437,7 +23621,8 @@ const DOSAGEM_SULCO_DATA = [
     "Responsável": "REGINALDO DA SILVA GOMES ",
     "Produto": "Adubo",
     "Dosagem de Produto - Sulcação": "3.435",
-    "Fazenda": "50301"
+    "Fazenda": "50301",
+    "Unnamed: 17": null
   },
   {
     "ID": "4026255",
@@ -22456,7 +23641,8 @@ const DOSAGEM_SULCO_DATA = [
     "Responsável": "285410",
     "Produto": "Torta ",
     "Dosagem de Produto - Sulcação": "5.345",
-    "Fazenda": "33302"
+    "Fazenda": "33302",
+    "Unnamed: 17": null
   },
   {
     "ID": "4026256",
@@ -22475,7 +23661,8 @@ const DOSAGEM_SULCO_DATA = [
     "Responsável": "285410",
     "Produto": "Torta ",
     "Dosagem de Produto - Sulcação": "5.29",
-    "Fazenda": "33302"
+    "Fazenda": "33302",
+    "Unnamed: 17": null
   },
   {
     "ID": "4026254",
@@ -22494,7 +23681,8 @@ const DOSAGEM_SULCO_DATA = [
     "Responsável": "285410",
     "Produto": "Adubo",
     "Dosagem de Produto - Sulcação": "2.085",
-    "Fazenda": "33302"
+    "Fazenda": "33302",
+    "Unnamed: 17": null
   },
   {
     "ID": "4026253",
@@ -22513,7 +23701,8 @@ const DOSAGEM_SULCO_DATA = [
     "Responsável": "285410",
     "Produto": "Adubo",
     "Dosagem de Produto - Sulcação": "2.005",
-    "Fazenda": "33302"
+    "Fazenda": "33302",
+    "Unnamed: 17": null
   },
   {
     "ID": "4015740",
@@ -22532,7 +23721,8 @@ const DOSAGEM_SULCO_DATA = [
     "Responsável": "REGINALDO DA SILVA GOMES ",
     "Produto": "Adubo",
     "Dosagem de Produto - Sulcação": "2.09",
-    "Fazenda": "70426"
+    "Fazenda": "70426",
+    "Unnamed: 17": null
   },
   {
     "ID": "4015776",
@@ -22551,7 +23741,8 @@ const DOSAGEM_SULCO_DATA = [
     "Responsável": "284860  - Juliana Aparecida Ferreira De Freitas",
     "Produto": "Adubo",
     "Dosagem de Produto - Sulcação": "2.09",
-    "Fazenda": "70426"
+    "Fazenda": "70426",
+    "Unnamed: 17": null
   },
   {
     "ID": "4015739",
@@ -22570,7 +23761,8 @@ const DOSAGEM_SULCO_DATA = [
     "Responsável": "REGINALDO DA SILVA GOMES ",
     "Produto": "Adubo",
     "Dosagem de Produto - Sulcação": "2.18",
-    "Fazenda": "70426"
+    "Fazenda": "70426",
+    "Unnamed: 17": null
   },
   {
     "ID": "4015775",
@@ -22589,7 +23781,8 @@ const DOSAGEM_SULCO_DATA = [
     "Responsável": "284860  - Juliana Aparecida Ferreira De Freitas",
     "Produto": "Adubo",
     "Dosagem de Produto - Sulcação": "2.18",
-    "Fazenda": "70426"
+    "Fazenda": "70426",
+    "Unnamed: 17": null
   },
   {
     "ID": "4015738",
@@ -22608,7 +23801,8 @@ const DOSAGEM_SULCO_DATA = [
     "Responsável": "REGINALDO DA SILVA GOMES ",
     "Produto": "Torta ",
     "Dosagem de Produto - Sulcação": "5.41",
-    "Fazenda": "70426"
+    "Fazenda": "70426",
+    "Unnamed: 17": null
   },
   {
     "ID": "4015737",
@@ -22627,7 +23821,8 @@ const DOSAGEM_SULCO_DATA = [
     "Responsável": "REGINALDO DA SILVA GOMES ",
     "Produto": "Torta ",
     "Dosagem de Produto - Sulcação": "5.635",
-    "Fazenda": "70426"
+    "Fazenda": "70426",
+    "Unnamed: 17": null
   },
   {
     "ID": "4015774",
@@ -22646,7 +23841,8 @@ const DOSAGEM_SULCO_DATA = [
     "Responsável": "284860  - Juliana Aparecida Ferreira De Freitas",
     "Produto": "Torta ",
     "Dosagem de Produto - Sulcação": "5.41",
-    "Fazenda": "70426"
+    "Fazenda": "70426",
+    "Unnamed: 17": null
   },
   {
     "ID": "4015773",
@@ -22665,7 +23861,8 @@ const DOSAGEM_SULCO_DATA = [
     "Responsável": "284860  - Juliana Aparecida Ferreira De Freitas",
     "Produto": "Torta ",
     "Dosagem de Produto - Sulcação": "5.635",
-    "Fazenda": "70426"
+    "Fazenda": "70426",
+    "Unnamed: 17": null
   },
   {
     "ID": "4012683",
@@ -22684,7 +23881,8 @@ const DOSAGEM_SULCO_DATA = [
     "Responsável": "284860  - Juliana Aparecida Ferreira De Freitas",
     "Produto": "Torta ",
     "Dosagem de Produto - Sulcação": "5.685",
-    "Fazenda": "70301"
+    "Fazenda": "70301",
+    "Unnamed: 17": null
   },
   {
     "ID": "4012682",
@@ -22703,7 +23901,8 @@ const DOSAGEM_SULCO_DATA = [
     "Responsável": "284860  - Juliana Aparecida Ferreira De Freitas",
     "Produto": "Torta ",
     "Dosagem de Produto - Sulcação": "5.715",
-    "Fazenda": "70301"
+    "Fazenda": "70301",
+    "Unnamed: 17": null
   },
   {
     "ID": "4012680",
@@ -22722,7 +23921,8 @@ const DOSAGEM_SULCO_DATA = [
     "Responsável": "284860  - Juliana Aparecida Ferreira De Freitas",
     "Produto": "Adubo",
     "Dosagem de Produto - Sulcação": "2.12",
-    "Fazenda": "70301"
+    "Fazenda": "70301",
+    "Unnamed: 17": null
   },
   {
     "ID": "4012679",
@@ -22741,7 +23941,8 @@ const DOSAGEM_SULCO_DATA = [
     "Responsável": "284860  - Juliana Aparecida Ferreira De Freitas",
     "Produto": "Adubo",
     "Dosagem de Produto - Sulcação": "2.19",
-    "Fazenda": "70301"
+    "Fazenda": "70301",
+    "Unnamed: 17": null
   },
   {
     "ID": "4010068",
@@ -22760,7 +23961,8 @@ const DOSAGEM_SULCO_DATA = [
     "Responsável": "284860  - Juliana Aparecida Ferreira De Freitas",
     "Produto": "Adubo",
     "Dosagem de Produto - Sulcação": "2.11",
-    "Fazenda": "70301"
+    "Fazenda": "70301",
+    "Unnamed: 17": null
   },
   {
     "ID": "4010069",
@@ -22779,7 +23981,8 @@ const DOSAGEM_SULCO_DATA = [
     "Responsável": "284860  - Juliana Aparecida Ferreira De Freitas",
     "Produto": "Adubo",
     "Dosagem de Produto - Sulcação": "2.185",
-    "Fazenda": "70301"
+    "Fazenda": "70301",
+    "Unnamed: 17": null
   },
   {
     "ID": "4010067",
@@ -22798,7 +24001,8 @@ const DOSAGEM_SULCO_DATA = [
     "Responsável": "284860  - Juliana Aparecida Ferreira De Freitas",
     "Produto": "Torta ",
     "Dosagem de Produto - Sulcação": "5.745",
-    "Fazenda": "70301"
+    "Fazenda": "70301",
+    "Unnamed: 17": null
   },
   {
     "ID": "4010066",
@@ -22817,7 +24021,8 @@ const DOSAGEM_SULCO_DATA = [
     "Responsável": "284860  - Juliana Aparecida Ferreira De Freitas",
     "Produto": "Torta ",
     "Dosagem de Produto - Sulcação": "5.67",
-    "Fazenda": "70301"
+    "Fazenda": "70301",
+    "Unnamed: 17": null
   },
   {
     "ID": "4006253",
@@ -22836,7 +24041,8 @@ const DOSAGEM_SULCO_DATA = [
     "Responsável": "REGINALDO DA SILVA GOMES ",
     "Produto": "Adubo",
     "Dosagem de Produto - Sulcação": "2.135",
-    "Fazenda": "70431"
+    "Fazenda": "70431",
+    "Unnamed: 17": null
   },
   {
     "ID": "4006254",
@@ -22855,7 +24061,8 @@ const DOSAGEM_SULCO_DATA = [
     "Responsável": "REGINALDO DA SILVA GOMES ",
     "Produto": "Adubo",
     "Dosagem de Produto - Sulcação": "2.16",
-    "Fazenda": "70431"
+    "Fazenda": "70431",
+    "Unnamed: 17": null
   },
   {
     "ID": "4006234",
@@ -22874,7 +24081,8 @@ const DOSAGEM_SULCO_DATA = [
     "Responsável": "REGINALDO DA SILVA GOMES ",
     "Produto": "Torta ",
     "Dosagem de Produto - Sulcação": "5.445",
-    "Fazenda": "70431"
+    "Fazenda": "70431",
+    "Unnamed: 17": null
   },
   {
     "ID": "4006233",
@@ -22893,7 +24101,8 @@ const DOSAGEM_SULCO_DATA = [
     "Responsável": "REGINALDO DA SILVA GOMES ",
     "Produto": "Torta ",
     "Dosagem de Produto - Sulcação": "5.535",
-    "Fazenda": "70431"
+    "Fazenda": "70431",
+    "Unnamed: 17": null
   },
   {
     "ID": "4005886",
@@ -22912,7 +24121,8 @@ const DOSAGEM_SULCO_DATA = [
     "Responsável": "284860  - Juliana Aparecida Ferreira De Freitas",
     "Produto": "Torta ",
     "Dosagem de Produto - Sulcação": "5.465",
-    "Fazenda": "70431"
+    "Fazenda": "70431",
+    "Unnamed: 17": null
   },
   {
     "ID": "4005887",
@@ -22931,7 +24141,8 @@ const DOSAGEM_SULCO_DATA = [
     "Responsável": "284860  - Juliana Aparecida Ferreira De Freitas",
     "Produto": "Torta ",
     "Dosagem de Produto - Sulcação": "5.445",
-    "Fazenda": "70431"
+    "Fazenda": "70431",
+    "Unnamed: 17": null
   },
   {
     "ID": "4005879",
@@ -22950,7 +24161,8 @@ const DOSAGEM_SULCO_DATA = [
     "Responsável": "284860  - Juliana Aparecida Ferreira De Freitas",
     "Produto": "Adubo",
     "Dosagem de Produto - Sulcação": "2.055",
-    "Fazenda": "70431"
+    "Fazenda": "70431",
+    "Unnamed: 17": null
   },
   {
     "ID": "4005878",
@@ -22969,7 +24181,8 @@ const DOSAGEM_SULCO_DATA = [
     "Responsável": "284860  - Juliana Aparecida Ferreira De Freitas",
     "Produto": "Adubo",
     "Dosagem de Produto - Sulcação": "2.07",
-    "Fazenda": "70431"
+    "Fazenda": "70431",
+    "Unnamed: 17": null
   },
   {
     "ID": "4003742",
@@ -22988,7 +24201,8 @@ const DOSAGEM_SULCO_DATA = [
     "Responsável": "285410",
     "Produto": "Adubo",
     "Dosagem de Produto - Sulcação": "2.175",
-    "Fazenda": "195403"
+    "Fazenda": "195403",
+    "Unnamed: 17": null
   },
   {
     "ID": "4003741",
@@ -23007,7 +24221,8 @@ const DOSAGEM_SULCO_DATA = [
     "Responsável": "285410",
     "Produto": "Adubo",
     "Dosagem de Produto - Sulcação": "2.165",
-    "Fazenda": "195403"
+    "Fazenda": "195403",
+    "Unnamed: 17": null
   },
   {
     "ID": "4003740",
@@ -23026,7 +24241,8 @@ const DOSAGEM_SULCO_DATA = [
     "Responsável": "285410",
     "Produto": "Torta ",
     "Dosagem de Produto - Sulcação": "5.62",
-    "Fazenda": "195403"
+    "Fazenda": "195403",
+    "Unnamed: 17": null
   },
   {
     "ID": "4003739",
@@ -23045,7 +24261,8 @@ const DOSAGEM_SULCO_DATA = [
     "Responsável": "285410",
     "Produto": "Torta ",
     "Dosagem de Produto - Sulcação": "5.685",
-    "Fazenda": "195403"
+    "Fazenda": "195403",
+    "Unnamed: 17": null
   },
   {
     "ID": "4001675",
@@ -23064,7 +24281,8 @@ const DOSAGEM_SULCO_DATA = [
     "Responsável": "285410",
     "Produto": "Adubo",
     "Dosagem de Produto - Sulcação": "2.2",
-    "Fazenda": "195403"
+    "Fazenda": "195403",
+    "Unnamed: 17": null
   },
   {
     "ID": "4001674",
@@ -23083,7 +24301,8 @@ const DOSAGEM_SULCO_DATA = [
     "Responsável": "285410",
     "Produto": "Adubo",
     "Dosagem de Produto - Sulcação": "2.19",
-    "Fazenda": "195403"
+    "Fazenda": "195403",
+    "Unnamed: 17": null
   },
   {
     "ID": "4001673",
@@ -23102,7 +24321,8 @@ const DOSAGEM_SULCO_DATA = [
     "Responsável": "285410",
     "Produto": "Torta ",
     "Dosagem de Produto - Sulcação": "5.52",
-    "Fazenda": "195403"
+    "Fazenda": "195403",
+    "Unnamed: 17": null
   },
   {
     "ID": "4001672",
@@ -23121,7 +24341,8 @@ const DOSAGEM_SULCO_DATA = [
     "Responsável": "285410",
     "Produto": "Torta ",
     "Dosagem de Produto - Sulcação": "5.545",
-    "Fazenda": "195403"
+    "Fazenda": "195403",
+    "Unnamed: 17": null
   },
   {
     "ID": "3997763",
@@ -23140,7 +24361,8 @@ const DOSAGEM_SULCO_DATA = [
     "Responsável": "REGINALDO DA SILVA GOMES ",
     "Produto": "Torta ",
     "Dosagem de Produto - Sulcação": "5.575",
-    "Fazenda": "199802"
+    "Fazenda": "199802",
+    "Unnamed: 17": null
   },
   {
     "ID": "3997762",
@@ -23159,7 +24381,8 @@ const DOSAGEM_SULCO_DATA = [
     "Responsável": "REGINALDO DA SILVA GOMES ",
     "Produto": "Torta ",
     "Dosagem de Produto - Sulcação": "5.48",
-    "Fazenda": "199802"
+    "Fazenda": "199802",
+    "Unnamed: 17": null
   },
   {
     "ID": "3997614",
@@ -23178,7 +24401,8 @@ const DOSAGEM_SULCO_DATA = [
     "Responsável": "284860  - Juliana Aparecida Ferreira De Freitas",
     "Produto": "Torta ",
     "Dosagem de Produto - Sulcação": "5.48",
-    "Fazenda": "199802"
+    "Fazenda": "199802",
+    "Unnamed: 17": null
   },
   {
     "ID": "3997613",
@@ -23197,7 +24421,8 @@ const DOSAGEM_SULCO_DATA = [
     "Responsável": "284860  - Juliana Aparecida Ferreira De Freitas",
     "Produto": "Torta ",
     "Dosagem de Produto - Sulcação": "5.575",
-    "Fazenda": "199802"
+    "Fazenda": "199802",
+    "Unnamed: 17": null
   },
   {
     "ID": "3997761",
@@ -23216,7 +24441,8 @@ const DOSAGEM_SULCO_DATA = [
     "Responsável": "REGINALDO DA SILVA GOMES ",
     "Produto": "Adubo",
     "Dosagem de Produto - Sulcação": "3.04",
-    "Fazenda": "199802"
+    "Fazenda": "199802",
+    "Unnamed: 17": null
   },
   {
     "ID": "3997760",
@@ -23235,7 +24461,8 @@ const DOSAGEM_SULCO_DATA = [
     "Responsável": "REGINALDO DA SILVA GOMES ",
     "Produto": "Adubo",
     "Dosagem de Produto - Sulcação": "3.08",
-    "Fazenda": "199802"
+    "Fazenda": "199802",
+    "Unnamed: 17": null
   },
   {
     "ID": "3997612",
@@ -23254,7 +24481,8 @@ const DOSAGEM_SULCO_DATA = [
     "Responsável": "284860  - Juliana Aparecida Ferreira De Freitas",
     "Produto": "Adubo",
     "Dosagem de Produto - Sulcação": "3.08",
-    "Fazenda": "199802"
+    "Fazenda": "199802",
+    "Unnamed: 17": null
   },
   {
     "ID": "3997611",
@@ -23273,7 +24501,8 @@ const DOSAGEM_SULCO_DATA = [
     "Responsável": "284860  - Juliana Aparecida Ferreira De Freitas",
     "Produto": "Adubo",
     "Dosagem de Produto - Sulcação": "3.04",
-    "Fazenda": "199802"
+    "Fazenda": "199802",
+    "Unnamed: 17": null
   },
   {
     "ID": "3995529",
@@ -23292,7 +24521,8 @@ const DOSAGEM_SULCO_DATA = [
     "Responsável": "284860  - Juliana Aparecida Ferreira De Freitas",
     "Produto": "Adubo",
     "Dosagem de Produto - Sulcação": "3.265",
-    "Fazenda": "199802"
+    "Fazenda": "199802",
+    "Unnamed: 17": null
   },
   {
     "ID": "3995528",
@@ -23311,7 +24541,8 @@ const DOSAGEM_SULCO_DATA = [
     "Responsável": "284860  - Juliana Aparecida Ferreira De Freitas",
     "Produto": "Adubo",
     "Dosagem de Produto - Sulcação": "3.245",
-    "Fazenda": "199802"
+    "Fazenda": "199802",
+    "Unnamed: 17": null
   },
   {
     "ID": "3945444",
@@ -23330,7 +24561,8 @@ const DOSAGEM_SULCO_DATA = [
     "Responsável": "284860  - Juliana Aparecida Ferreira De Freitas",
     "Produto": "Adubo",
     "Dosagem de Produto - Sulcação": "3.99",
-    "Fazenda": "151901"
+    "Fazenda": "151901",
+    "Unnamed: 17": null
   },
   {
     "ID": "3945443",
@@ -23349,7 +24581,8 @@ const DOSAGEM_SULCO_DATA = [
     "Responsável": "284860  - Juliana Aparecida Ferreira De Freitas",
     "Produto": "Adubo",
     "Dosagem de Produto - Sulcação": "4.005",
-    "Fazenda": "151901"
+    "Fazenda": "151901",
+    "Unnamed: 17": null
   },
   {
     "ID": "3941337",
@@ -23368,7 +24601,8 @@ const DOSAGEM_SULCO_DATA = [
     "Responsável": "MABILA HELEN D FIGUEIREDO",
     "Produto": "Adubo",
     "Dosagem de Produto - Sulcação": "3.68",
-    "Fazenda": "151901"
+    "Fazenda": "151901",
+    "Unnamed: 17": null
   },
   {
     "ID": "3941336",
@@ -23387,7 +24621,8 @@ const DOSAGEM_SULCO_DATA = [
     "Responsável": "MABILA HELEN D FIGUEIREDO",
     "Produto": "Adubo",
     "Dosagem de Produto - Sulcação": "3.775",
-    "Fazenda": "151901"
+    "Fazenda": "151901",
+    "Unnamed: 17": null
   },
   {
     "ID": "3941335",
@@ -23406,7 +24641,8 @@ const DOSAGEM_SULCO_DATA = [
     "Responsável": "MABILA HELEN D FIGUEIREDO",
     "Produto": "Adubo",
     "Dosagem de Produto - Sulcação": "3.82",
-    "Fazenda": "151901"
+    "Fazenda": "151901",
+    "Unnamed: 17": null
   },
   {
     "ID": "3941334",
@@ -23425,7 +24661,8 @@ const DOSAGEM_SULCO_DATA = [
     "Responsável": "MABILA HELEN D FIGUEIREDO",
     "Produto": "Adubo",
     "Dosagem de Produto - Sulcação": "3.815",
-    "Fazenda": "151901"
+    "Fazenda": "151901",
+    "Unnamed: 17": null
   },
   {
     "ID": "3938430",
@@ -23444,7 +24681,8 @@ const DOSAGEM_SULCO_DATA = [
     "Responsável": "MABILA HELEN D FIGUEIREDO",
     "Produto": "Adubo",
     "Dosagem de Produto - Sulcação": "4.03",
-    "Fazenda": "151901"
+    "Fazenda": "151901",
+    "Unnamed: 17": null
   },
   {
     "ID": "3938429",
@@ -23463,7 +24701,8 @@ const DOSAGEM_SULCO_DATA = [
     "Responsável": "MABILA HELEN D FIGUEIREDO",
     "Produto": "Adubo",
     "Dosagem de Produto - Sulcação": "3.75",
-    "Fazenda": "151901"
+    "Fazenda": "151901",
+    "Unnamed: 17": null
   },
   {
     "ID": "3938541",
@@ -23482,7 +24721,8 @@ const DOSAGEM_SULCO_DATA = [
     "Responsável": "MABILA HELEN D FIGUEIREDO",
     "Produto": "Adubo",
     "Dosagem de Produto - Sulcação": "3.985",
-    "Fazenda": "151901"
+    "Fazenda": "151901",
+    "Unnamed: 17": null
   },
   {
     "ID": "3938571",
@@ -23501,7 +24741,8 @@ const DOSAGEM_SULCO_DATA = [
     "Responsável": "REGINALDO DA SILVA GOMES ",
     "Produto": "Adubo",
     "Dosagem de Produto - Sulcação": "3.985",
-    "Fazenda": "151901"
+    "Fazenda": "151901",
+    "Unnamed: 17": null
   },
   {
     "ID": "3938540",
@@ -23520,7 +24761,8 @@ const DOSAGEM_SULCO_DATA = [
     "Responsável": "MABILA HELEN D FIGUEIREDO",
     "Produto": "Adubo",
     "Dosagem de Produto - Sulcação": "3.805",
-    "Fazenda": "151901"
+    "Fazenda": "151901",
+    "Unnamed: 17": null
   },
   {
     "ID": "3938570",
@@ -23539,7 +24781,8 @@ const DOSAGEM_SULCO_DATA = [
     "Responsável": "REGINALDO DA SILVA GOMES ",
     "Produto": "Adubo",
     "Dosagem de Produto - Sulcação": "3.805",
-    "Fazenda": "151901"
+    "Fazenda": "151901",
+    "Unnamed: 17": null
   },
   {
     "ID": "3938500",
@@ -23558,7 +24801,8 @@ const DOSAGEM_SULCO_DATA = [
     "Responsável": "VITOR AMORIM RAMOS ",
     "Produto": "Adubo",
     "Dosagem de Produto - Sulcação": "4.37",
-    "Fazenda": "177012"
+    "Fazenda": "177012",
+    "Unnamed: 17": null
   },
   {
     "ID": "3938499",
@@ -23577,7 +24821,8 @@ const DOSAGEM_SULCO_DATA = [
     "Responsável": "VITOR AMORIM RAMOS ",
     "Produto": "Adubo",
     "Dosagem de Produto - Sulcação": "4.37",
-    "Fazenda": "177012"
+    "Fazenda": "177012",
+    "Unnamed: 17": null
   },
   {
     "ID": "3938567",
@@ -23596,7 +24841,8 @@ const DOSAGEM_SULCO_DATA = [
     "Responsável": "REGINALDO DA SILVA GOMES ",
     "Produto": "Adubo",
     "Dosagem de Produto - Sulcação": "4.03",
-    "Fazenda": "151901"
+    "Fazenda": "151901",
+    "Unnamed: 17": null
   },
   {
     "ID": "3938566",
@@ -23615,7 +24861,8 @@ const DOSAGEM_SULCO_DATA = [
     "Responsável": "REGINALDO DA SILVA GOMES ",
     "Produto": "Adubo",
     "Dosagem de Produto - Sulcação": "3.75",
-    "Fazenda": "151901"
+    "Fazenda": "151901",
+    "Unnamed: 17": null
   },
   {
     "ID": "3931245",
@@ -23634,7 +24881,8 @@ const DOSAGEM_SULCO_DATA = [
     "Responsável": "VITOR AMORIM RAMOS ",
     "Produto": "Torta ",
     "Dosagem de Produto - Sulcação": "5.6",
-    "Fazenda": "67901"
+    "Fazenda": "67901",
+    "Unnamed: 17": null
   },
   {
     "ID": "3931247",
@@ -23653,7 +24901,8 @@ const DOSAGEM_SULCO_DATA = [
     "Responsável": "VITOR AMORIM RAMOS ",
     "Produto": "Torta ",
     "Dosagem de Produto - Sulcação": "5.785",
-    "Fazenda": "67901"
+    "Fazenda": "67901",
+    "Unnamed: 17": null
   },
   {
     "ID": "3927882",
@@ -23672,7 +24921,8 @@ const DOSAGEM_SULCO_DATA = [
     "Responsável": "284860  - Juliana Aparecida Ferreira De Freitas",
     "Produto": "Adubo",
     "Dosagem de Produto - Sulcação": "3.67",
-    "Fazenda": "151901"
+    "Fazenda": "151901",
+    "Unnamed: 17": null
   },
   {
     "ID": "3927881",
@@ -23691,7 +24941,8 @@ const DOSAGEM_SULCO_DATA = [
     "Responsável": "284860  - Juliana Aparecida Ferreira De Freitas",
     "Produto": "Adubo",
     "Dosagem de Produto - Sulcação": "3.69",
-    "Fazenda": "151901"
+    "Fazenda": "151901",
+    "Unnamed: 17": null
   },
   {
     "ID": "3927880",
@@ -23710,7 +24961,8 @@ const DOSAGEM_SULCO_DATA = [
     "Responsável": "284860  - Juliana Aparecida Ferreira De Freitas",
     "Produto": "Adubo",
     "Dosagem de Produto - Sulcação": "3.605",
-    "Fazenda": "151901"
+    "Fazenda": "151901",
+    "Unnamed: 17": null
   },
   {
     "ID": "3928192",
@@ -23729,7 +24981,8 @@ const DOSAGEM_SULCO_DATA = [
     "Responsável": "VITOR AMORIM RAMOS ",
     "Produto": "Adubo",
     "Dosagem de Produto - Sulcação": "2.15",
-    "Fazenda": "67901"
+    "Fazenda": "67901",
+    "Unnamed: 17": null
   },
   {
     "ID": "3928187",
@@ -23748,7 +25001,8 @@ const DOSAGEM_SULCO_DATA = [
     "Responsável": "VITOR AMORIM RAMOS ",
     "Produto": "Adubo",
     "Dosagem de Produto - Sulcação": "1.975",
-    "Fazenda": "67901"
+    "Fazenda": "67901",
+    "Unnamed: 17": null
   },
   {
     "ID": "3927877",
@@ -23767,7 +25021,8 @@ const DOSAGEM_SULCO_DATA = [
     "Responsável": "284860  - Juliana Aparecida Ferreira De Freitas",
     "Produto": "Adubo",
     "Dosagem de Produto - Sulcação": "3.61",
-    "Fazenda": "151901"
+    "Fazenda": "151901",
+    "Unnamed: 17": null
   },
   {
     "ID": "3928183",
@@ -23786,7 +25041,8 @@ const DOSAGEM_SULCO_DATA = [
     "Responsável": "VITOR AMORIM RAMOS ",
     "Produto": "Torta ",
     "Dosagem de Produto - Sulcação": "5.69",
-    "Fazenda": "67901"
+    "Fazenda": "67901",
+    "Unnamed: 17": null
   },
   {
     "ID": "3928179",
@@ -23805,7 +25061,8 @@ const DOSAGEM_SULCO_DATA = [
     "Responsável": "VITOR AMORIM RAMOS ",
     "Produto": "Torta ",
     "Dosagem de Produto - Sulcação": "5.845",
-    "Fazenda": "67901"
+    "Fazenda": "67901",
+    "Unnamed: 17": null
   },
   {
     "ID": "3926046",
@@ -23824,7 +25081,8 @@ const DOSAGEM_SULCO_DATA = [
     "Responsável": "MABILA HELEN D FIGUEIREDO",
     "Produto": "Torta ",
     "Dosagem de Produto - Sulcação": "5.66",
-    "Fazenda": "67901"
+    "Fazenda": "67901",
+    "Unnamed: 17": null
   },
   {
     "ID": "3926045",
@@ -23843,7 +25101,8 @@ const DOSAGEM_SULCO_DATA = [
     "Responsável": "MABILA HELEN D FIGUEIREDO",
     "Produto": "Torta ",
     "Dosagem de Produto - Sulcação": "5.64",
-    "Fazenda": "67901"
+    "Fazenda": "67901",
+    "Unnamed: 17": null
   },
   {
     "ID": "3926044",
@@ -23862,7 +25121,8 @@ const DOSAGEM_SULCO_DATA = [
     "Responsável": "MABILA HELEN D FIGUEIREDO",
     "Produto": "Adubo",
     "Dosagem de Produto - Sulcação": "2.01",
-    "Fazenda": "67901"
+    "Fazenda": "67901",
+    "Unnamed: 17": null
   },
   {
     "ID": "3926043",
@@ -23881,7 +25141,8 @@ const DOSAGEM_SULCO_DATA = [
     "Responsável": "MABILA HELEN D FIGUEIREDO",
     "Produto": "Adubo",
     "Dosagem de Produto - Sulcação": "2.16",
-    "Fazenda": "67901"
+    "Fazenda": "67901",
+    "Unnamed: 17": null
   },
   {
     "ID": "3925298",
@@ -23900,7 +25161,8 @@ const DOSAGEM_SULCO_DATA = [
     "Responsável": "EDILIANA CARDOSO DA COSTA",
     "Produto": "Adubo",
     "Dosagem de Produto - Sulcação": "3.765",
-    "Fazenda": "151901"
+    "Fazenda": "151901",
+    "Unnamed: 17": null
   },
   {
     "ID": "3925297",
@@ -23919,7 +25181,8 @@ const DOSAGEM_SULCO_DATA = [
     "Responsável": "EDILIANA CARDOSO DA COSTA",
     "Produto": "Adubo",
     "Dosagem de Produto - Sulcação": "3.55",
-    "Fazenda": "151901"
+    "Fazenda": "151901",
+    "Unnamed: 17": null
   },
   {
     "ID": "3922604",
@@ -23938,7 +25201,8 @@ const DOSAGEM_SULCO_DATA = [
     "Responsável": "REGINALDO DA SILVA GOMES ",
     "Produto": "Adubo",
     "Dosagem de Produto - Sulcação": "3.015",
-    "Fazenda": "111201"
+    "Fazenda": "111201",
+    "Unnamed: 17": null
   },
   {
     "ID": "3922595",
@@ -23957,7 +25221,8 @@ const DOSAGEM_SULCO_DATA = [
     "Responsável": "REGINALDO DA SILVA GOMES ",
     "Produto": "Adubo",
     "Dosagem de Produto - Sulcação": "3.16",
-    "Fazenda": "111201"
+    "Fazenda": "111201",
+    "Unnamed: 17": null
   },
   {
     "ID": "3922592",
@@ -23976,7 +25241,8 @@ const DOSAGEM_SULCO_DATA = [
     "Responsável": "REGINALDO DA SILVA GOMES ",
     "Produto": "Torta ",
     "Dosagem de Produto - Sulcação": "5.455",
-    "Fazenda": "111201"
+    "Fazenda": "111201",
+    "Unnamed: 17": null
   },
   {
     "ID": "3922587",
@@ -23995,7 +25261,8 @@ const DOSAGEM_SULCO_DATA = [
     "Responsável": "REGINALDO DA SILVA GOMES ",
     "Produto": "Torta ",
     "Dosagem de Produto - Sulcação": "5.87",
-    "Fazenda": "111201"
+    "Fazenda": "111201",
+    "Unnamed: 17": null
   },
   {
     "ID": "3922198",
@@ -24014,7 +25281,8 @@ const DOSAGEM_SULCO_DATA = [
     "Responsável": "MABILA HELEN D FIGUEIREDO",
     "Produto": "Adubo",
     "Dosagem de Produto - Sulcação": "3.015",
-    "Fazenda": "111201"
+    "Fazenda": "111201",
+    "Unnamed: 17": null
   },
   {
     "ID": "3922197",
@@ -24033,7 +25301,8 @@ const DOSAGEM_SULCO_DATA = [
     "Responsável": "MABILA HELEN D FIGUEIREDO",
     "Produto": "Adubo",
     "Dosagem de Produto - Sulcação": "3.16",
-    "Fazenda": "111201"
+    "Fazenda": "111201",
+    "Unnamed: 17": null
   },
   {
     "ID": "3922219",
@@ -24052,7 +25321,8 @@ const DOSAGEM_SULCO_DATA = [
     "Responsável": "EDILIANA CARDOSO DA COSTA",
     "Produto": "Adubo",
     "Dosagem de Produto - Sulcação": "4.6",
-    "Fazenda": "177015"
+    "Fazenda": "177015",
+    "Unnamed: 17": null
   },
   {
     "ID": "3922218",
@@ -24071,7 +25341,8 @@ const DOSAGEM_SULCO_DATA = [
     "Responsável": "EDILIANA CARDOSO DA COSTA",
     "Produto": "Adubo",
     "Dosagem de Produto - Sulcação": "4.6",
-    "Fazenda": "177015"
+    "Fazenda": "177015",
+    "Unnamed: 17": null
   },
   {
     "ID": "3922217",
@@ -24090,7 +25361,8 @@ const DOSAGEM_SULCO_DATA = [
     "Responsável": "EDILIANA CARDOSO DA COSTA",
     "Produto": "Adubo",
     "Dosagem de Produto - Sulcação": "4.6",
-    "Fazenda": "177015"
+    "Fazenda": "177015",
+    "Unnamed: 17": null
   },
   {
     "ID": "3922216",
@@ -24109,7 +25381,8 @@ const DOSAGEM_SULCO_DATA = [
     "Responsável": "EDILIANA CARDOSO DA COSTA",
     "Produto": "Adubo",
     "Dosagem de Produto - Sulcação": "4.6",
-    "Fazenda": "177015"
+    "Fazenda": "177015",
+    "Unnamed: 17": null
   },
   {
     "ID": "3922196",
@@ -24128,7 +25401,8 @@ const DOSAGEM_SULCO_DATA = [
     "Responsável": "MABILA HELEN D FIGUEIREDO",
     "Produto": "Torta ",
     "Dosagem de Produto - Sulcação": "6.23",
-    "Fazenda": "111201"
+    "Fazenda": "111201",
+    "Unnamed: 17": null
   },
   {
     "ID": "3922195",
@@ -24147,7 +25421,8 @@ const DOSAGEM_SULCO_DATA = [
     "Responsável": "MABILA HELEN D FIGUEIREDO",
     "Produto": "Torta ",
     "Dosagem de Produto - Sulcação": "6.235",
-    "Fazenda": "111201"
+    "Fazenda": "111201",
+    "Unnamed: 17": null
   },
   {
     "ID": "3919745",
@@ -24166,7 +25441,8 @@ const DOSAGEM_SULCO_DATA = [
     "Responsável": "MABILA HELEN D FIGUEIREDO",
     "Produto": "Torta ",
     "Dosagem de Produto - Sulcação": "6.22",
-    "Fazenda": "142201"
+    "Fazenda": "142201",
+    "Unnamed: 17": null
   },
   {
     "ID": "3919744",
@@ -24185,7 +25461,8 @@ const DOSAGEM_SULCO_DATA = [
     "Responsável": "MABILA HELEN D FIGUEIREDO",
     "Produto": "Torta ",
     "Dosagem de Produto - Sulcação": "6.265",
-    "Fazenda": "142201"
+    "Fazenda": "142201",
+    "Unnamed: 17": null
   },
   {
     "ID": "3919663",
@@ -24204,7 +25481,8 @@ const DOSAGEM_SULCO_DATA = [
     "Responsável": "MABILA HELEN D FIGUEIREDO",
     "Produto": "Adubo",
     "Dosagem de Produto - Sulcação": "3.21",
-    "Fazenda": "142201"
+    "Fazenda": "142201",
+    "Unnamed: 17": null
   },
   {
     "ID": "3919661",
@@ -24223,7 +25501,8 @@ const DOSAGEM_SULCO_DATA = [
     "Responsável": "MABILA HELEN D FIGUEIREDO",
     "Produto": "Adubo",
     "Dosagem de Produto - Sulcação": "3.245",
-    "Fazenda": "142201"
+    "Fazenda": "142201",
+    "Unnamed: 17": null
   },
   {
     "ID": "3919541",
@@ -24242,7 +25521,8 @@ const DOSAGEM_SULCO_DATA = [
     "Responsável": "284860  - Juliana Aparecida Ferreira De Freitas",
     "Produto": "Adubo",
     "Dosagem de Produto - Sulcação": "3.055",
-    "Fazenda": "146301"
+    "Fazenda": "146301",
+    "Unnamed: 17": null
   },
   {
     "ID": "3919540",
@@ -24261,7 +25541,8 @@ const DOSAGEM_SULCO_DATA = [
     "Responsável": "284860  - Juliana Aparecida Ferreira De Freitas",
     "Produto": "Adubo",
     "Dosagem de Produto - Sulcação": "3",
-    "Fazenda": "146301"
+    "Fazenda": "146301",
+    "Unnamed: 17": null
   },
   {
     "ID": "3917624",
@@ -24280,7 +25561,8 @@ const DOSAGEM_SULCO_DATA = [
     "Responsável": "284860  - Juliana Aparecida Ferreira De Freitas",
     "Produto": "Adubo",
     "Dosagem de Produto - Sulcação": "3.155",
-    "Fazenda": "146301"
+    "Fazenda": "146301",
+    "Unnamed: 17": null
   },
   {
     "ID": "3917602",
@@ -24299,7 +25581,8 @@ const DOSAGEM_SULCO_DATA = [
     "Responsável": "284860  - Juliana Aparecida Ferreira De Freitas",
     "Produto": "Adubo",
     "Dosagem de Produto - Sulcação": "3.135",
-    "Fazenda": "146301"
+    "Fazenda": "146301",
+    "Unnamed: 17": null
   },
   {
     "ID": "3914852",
@@ -24318,7 +25601,8 @@ const DOSAGEM_SULCO_DATA = [
     "Responsável": "284860  - Juliana Aparecida Ferreira De Freitas",
     "Produto": "Adubo",
     "Dosagem de Produto - Sulcação": "2.07",
-    "Fazenda": "70408"
+    "Fazenda": "70408",
+    "Unnamed: 17": null
   },
   {
     "ID": "3914851",
@@ -24337,7 +25621,8 @@ const DOSAGEM_SULCO_DATA = [
     "Responsável": "284860  - Juliana Aparecida Ferreira De Freitas",
     "Produto": "Adubo",
     "Dosagem de Produto - Sulcação": "2.015",
-    "Fazenda": "70408"
+    "Fazenda": "70408",
+    "Unnamed: 17": null
   },
   {
     "ID": "3914850",
@@ -24356,7 +25641,8 @@ const DOSAGEM_SULCO_DATA = [
     "Responsável": "284860  - Juliana Aparecida Ferreira De Freitas",
     "Produto": "Torta ",
     "Dosagem de Produto - Sulcação": "5.8",
-    "Fazenda": "70408"
+    "Fazenda": "70408",
+    "Unnamed: 17": null
   },
   {
     "ID": "3914849",
@@ -24375,7 +25661,8 @@ const DOSAGEM_SULCO_DATA = [
     "Responsável": "284860  - Juliana Aparecida Ferreira De Freitas",
     "Produto": "Torta ",
     "Dosagem de Produto - Sulcação": "5.825",
-    "Fazenda": "70408"
+    "Fazenda": "70408",
+    "Unnamed: 17": null
   },
   {
     "ID": "3913398",
@@ -24394,7 +25681,8 @@ const DOSAGEM_SULCO_DATA = [
     "Responsável": "MABILA HELEN D FIGUEIREDO",
     "Produto": "Torta ",
     "Dosagem de Produto - Sulcação": "5.69",
-    "Fazenda": "70408"
+    "Fazenda": "70408",
+    "Unnamed: 17": null
   },
   {
     "ID": "3913397",
@@ -24413,7 +25701,8 @@ const DOSAGEM_SULCO_DATA = [
     "Responsável": "MABILA HELEN D FIGUEIREDO",
     "Produto": "Torta ",
     "Dosagem de Produto - Sulcação": "5.71",
-    "Fazenda": "70408"
+    "Fazenda": "70408",
+    "Unnamed: 17": null
   },
   {
     "ID": "3913373",
@@ -24432,7 +25721,8 @@ const DOSAGEM_SULCO_DATA = [
     "Responsável": "MABILA HELEN D FIGUEIREDO",
     "Produto": "Adubo",
     "Dosagem de Produto - Sulcação": "2.04",
-    "Fazenda": "70408"
+    "Fazenda": "70408",
+    "Unnamed: 17": null
   },
   {
     "ID": "3913374",
@@ -24451,7 +25741,8 @@ const DOSAGEM_SULCO_DATA = [
     "Responsável": "MABILA HELEN D FIGUEIREDO",
     "Produto": "Adubo",
     "Dosagem de Produto - Sulcação": "2.135",
-    "Fazenda": "70408"
+    "Fazenda": "70408",
+    "Unnamed: 17": null
   },
   {
     "ID": "3911970",
@@ -24470,7 +25761,8 @@ const DOSAGEM_SULCO_DATA = [
     "Responsável": "REGINALDO DA SILVA GOMES ",
     "Produto": "Torta ",
     "Dosagem de Produto - Sulcação": "5.46",
-    "Fazenda": "70408"
+    "Fazenda": "70408",
+    "Unnamed: 17": null
   },
   {
     "ID": "3911969",
@@ -24489,7 +25781,8 @@ const DOSAGEM_SULCO_DATA = [
     "Responsável": "REGINALDO DA SILVA GOMES ",
     "Produto": "Torta ",
     "Dosagem de Produto - Sulcação": "5.61",
-    "Fazenda": "70408"
+    "Fazenda": "70408",
+    "Unnamed: 17": null
   },
   {
     "ID": "3911351",
@@ -24508,7 +25801,8 @@ const DOSAGEM_SULCO_DATA = [
     "Responsável": "284860  - Juliana Aparecida Ferreira De Freitas",
     "Produto": "Torta ",
     "Dosagem de Produto - Sulcação": "5.46",
-    "Fazenda": "70408"
+    "Fazenda": "70408",
+    "Unnamed: 17": null
   },
   {
     "ID": "3911350",
@@ -24527,7 +25821,8 @@ const DOSAGEM_SULCO_DATA = [
     "Responsável": "284860  - Juliana Aparecida Ferreira De Freitas",
     "Produto": "Torta ",
     "Dosagem de Produto - Sulcação": "5.61",
-    "Fazenda": "70408"
+    "Fazenda": "70408",
+    "Unnamed: 17": null
   },
   {
     "ID": "3911966",
@@ -24546,7 +25841,8 @@ const DOSAGEM_SULCO_DATA = [
     "Responsável": "REGINALDO DA SILVA GOMES ",
     "Produto": "Adubo",
     "Dosagem de Produto - Sulcação": "2.165",
-    "Fazenda": "70408"
+    "Fazenda": "70408",
+    "Unnamed: 17": null
   },
   {
     "ID": "3911965",
@@ -24565,7 +25861,8 @@ const DOSAGEM_SULCO_DATA = [
     "Responsável": "REGINALDO DA SILVA GOMES ",
     "Produto": "Adubo",
     "Dosagem de Produto - Sulcação": "2.16",
-    "Fazenda": "70408"
+    "Fazenda": "70408",
+    "Unnamed: 17": null
   },
   {
     "ID": "3911347",
@@ -24584,7 +25881,8 @@ const DOSAGEM_SULCO_DATA = [
     "Responsável": "284860  - Juliana Aparecida Ferreira De Freitas",
     "Produto": "Adubo",
     "Dosagem de Produto - Sulcação": "2.165",
-    "Fazenda": "70408"
+    "Fazenda": "70408",
+    "Unnamed: 17": null
   },
   {
     "ID": "3911346",
@@ -24603,7 +25901,8 @@ const DOSAGEM_SULCO_DATA = [
     "Responsável": "284860  - Juliana Aparecida Ferreira De Freitas",
     "Produto": "Adubo",
     "Dosagem de Produto - Sulcação": "2.16",
-    "Fazenda": "70408"
+    "Fazenda": "70408",
+    "Unnamed: 17": null
   },
   {
     "ID": "4050002",
@@ -24622,7 +25921,8 @@ const DOSAGEM_SULCO_DATA = [
     "Responsável": "EDILIANA CARDOSO DA COSTA",
     "Produto": "Adubo",
     "Dosagem de Produto - Sulcação": "3.49",
-    "Fazenda": "46601"
+    "Fazenda": "46601",
+    "Unnamed: 17": null
   },
   {
     "ID": "4050001",
@@ -24641,7 +25941,8 @@ const DOSAGEM_SULCO_DATA = [
     "Responsável": "EDILIANA CARDOSO DA COSTA",
     "Produto": "Adubo",
     "Dosagem de Produto - Sulcação": "3.735",
-    "Fazenda": "46601"
+    "Fazenda": "46601",
+    "Unnamed: 17": null
   },
   {
     "ID": "4058574",
@@ -24660,7 +25961,8 @@ const DOSAGEM_SULCO_DATA = [
     "Responsável": "EDILIANA CARDOSO DA COSTA",
     "Produto": "Adubo",
     "Dosagem de Produto - Sulcação": "2.895",
-    "Fazenda": "53501"
+    "Fazenda": "53501",
+    "Unnamed: 17": null
   },
   {
     "ID": "4058573",
@@ -24679,7 +25981,8 @@ const DOSAGEM_SULCO_DATA = [
     "Responsável": "EDILIANA CARDOSO DA COSTA",
     "Produto": "Adubo",
     "Dosagem de Produto - Sulcação": "2.835",
-    "Fazenda": "53501"
+    "Fazenda": "53501",
+    "Unnamed: 17": null
   },
   {
     "ID": "4058572",
@@ -24698,7 +26001,8 @@ const DOSAGEM_SULCO_DATA = [
     "Responsável": "EDILIANA CARDOSO DA COSTA",
     "Produto": "Torta ",
     "Dosagem de Produto - Sulcação": "5.83",
-    "Fazenda": "53501"
+    "Fazenda": "53501",
+    "Unnamed: 17": null
   },
   {
     "ID": "4058571",
@@ -24717,7 +26021,8 @@ const DOSAGEM_SULCO_DATA = [
     "Responsável": "EDILIANA CARDOSO DA COSTA",
     "Produto": "Torta ",
     "Dosagem de Produto - Sulcação": "5.67",
-    "Fazenda": "53501"
+    "Fazenda": "53501",
+    "Unnamed: 17": null
   },
   {
     "ID": "4060376",
@@ -24729,14 +26034,15 @@ const DOSAGEM_SULCO_DATA = [
     "Data Fim": "19/11/2026 09:08",
     "Status": "Open",
     "Score": "0.00",
-    "Data Lançamento": "19/11/2026 00:00",
+    "Data Lançamento": "11/19/2026",
     "Local (Fazenda - Talhão)": "53501",
     "OS": "3840",
     "Frente": "261 - FRENTE PRÓPRIA  (EDMILSON)",
     "Responsável": "REGINALDO DA SILVA GOMES ",
     "Produto": "Torta ",
     "Dosagem de Produto - Sulcação": "5.61",
-    "Fazenda": "53501"
+    "Fazenda": "53501",
+    "Unnamed: 17": null
   },
   {
     "ID": "4060346",
@@ -24748,14 +26054,15 @@ const DOSAGEM_SULCO_DATA = [
     "Data Fim": "19/11/2026 09:06",
     "Status": "Open",
     "Score": "0.00",
-    "Data Lançamento": "19/11/2026 00:00",
+    "Data Lançamento": "11/19/2026",
     "Local (Fazenda - Talhão)": "53501",
     "OS": "3840",
     "Frente": "261 - FRENTE PRÓPRIA  (EDMILSON)",
     "Responsável": "REGINALDO DA SILVA GOMES ",
     "Produto": "Torta ",
     "Dosagem de Produto - Sulcação": "5.625",
-    "Fazenda": "53501"
+    "Fazenda": "53501",
+    "Unnamed: 17": null
   },
   {
     "ID": "4060344",
@@ -24767,14 +26074,15 @@ const DOSAGEM_SULCO_DATA = [
     "Data Fim": "19/11/2026 09:05",
     "Status": "Open",
     "Score": "0.00",
-    "Data Lançamento": "19/11/2026 00:00",
+    "Data Lançamento": "11/19/2026",
     "Local (Fazenda - Talhão)": "53501",
     "OS": "3840",
     "Frente": "261 - FRENTE PRÓPRIA  (EDMILSON)",
     "Responsável": "REGINALDO DA SILVA GOMES ",
     "Produto": "Adubo",
     "Dosagem de Produto - Sulcação": "2.955",
-    "Fazenda": "53501"
+    "Fazenda": "53501",
+    "Unnamed: 17": null
   },
   {
     "ID": "4060100",
@@ -24786,14 +26094,15 @@ const DOSAGEM_SULCO_DATA = [
     "Data Fim": "19/11/2026 09:01",
     "Status": "Open",
     "Score": "0.00",
-    "Data Lançamento": "19/11/2026 00:00",
+    "Data Lançamento": "11/19/2026",
     "Local (Fazenda - Talhão)": "53501",
     "OS": "3840",
     "Frente": "261 - FRENTE PRÓPRIA  (EDMILSON)",
     "Responsável": "284860  - Juliana Aparecida Ferreira De Freitas",
     "Produto": "Torta ",
     "Dosagem de Produto - Sulcação": "5.61",
-    "Fazenda": "53501"
+    "Fazenda": "53501",
+    "Unnamed: 17": null
   },
   {
     "ID": "4060099",
@@ -24805,14 +26114,15 @@ const DOSAGEM_SULCO_DATA = [
     "Data Fim": "19/11/2026 08:59",
     "Status": "Open",
     "Score": "0.00",
-    "Data Lançamento": "19/11/2026 00:00",
+    "Data Lançamento": "11/19/2026",
     "Local (Fazenda - Talhão)": "53501",
     "OS": "3840",
     "Frente": "261 - FRENTE PRÓPRIA  (EDMILSON)",
     "Responsável": "284860  - Juliana Aparecida Ferreira De Freitas",
     "Produto": "Torta ",
     "Dosagem de Produto - Sulcação": "5.625",
-    "Fazenda": "53501"
+    "Fazenda": "53501",
+    "Unnamed: 17": null
   },
   {
     "ID": "4060342",
@@ -24824,14 +26134,15 @@ const DOSAGEM_SULCO_DATA = [
     "Data Fim": "19/11/2026 08:57",
     "Status": "Open",
     "Score": "0.00",
-    "Data Lançamento": "19/11/2026 00:00",
+    "Data Lançamento": "11/19/2026",
     "Local (Fazenda - Talhão)": "53501",
     "OS": "3840",
     "Frente": "261 - FRENTE PRÓPRIA  (EDMILSON)",
     "Responsável": "REGINALDO DA SILVA GOMES ",
     "Produto": "Adubo",
     "Dosagem de Produto - Sulcação": "2.785",
-    "Fazenda": "53501"
+    "Fazenda": "53501",
+    "Unnamed: 17": null
   },
   {
     "ID": "4060098",
@@ -24843,14 +26154,15 @@ const DOSAGEM_SULCO_DATA = [
     "Data Fim": "19/11/2026 08:52",
     "Status": "Open",
     "Score": "0.00",
-    "Data Lançamento": "19/11/2026 00:00",
+    "Data Lançamento": "11/19/2026",
     "Local (Fazenda - Talhão)": "53501",
     "OS": "3840",
     "Frente": "261 - FRENTE PRÓPRIA  (EDMILSON)",
     "Responsável": "284860  - Juliana Aparecida Ferreira De Freitas",
     "Produto": "Adubo",
     "Dosagem de Produto - Sulcação": "2.785",
-    "Fazenda": "53501"
+    "Fazenda": "53501",
+    "Unnamed: 17": null
   },
   {
     "ID": "4060097",
@@ -24862,13 +26174,14 @@ const DOSAGEM_SULCO_DATA = [
     "Data Fim": "19/11/2026 08:50",
     "Status": "Open",
     "Score": "0.00",
-    "Data Lançamento": "19/11/2026 00:00",
+    "Data Lançamento": "11/19/2026",
     "Local (Fazenda - Talhão)": "53501",
     "OS": "3840",
     "Frente": "261 - FRENTE PRÓPRIA  (EDMILSON)",
     "Responsável": "284860  - Juliana Aparecida Ferreira De Freitas",
     "Produto": "Adubo",
     "Dosagem de Produto - Sulcação": "2.955",
-    "Fazenda": "53501"
+    "Fazenda": "53501",
+    "Unnamed: 17": null
   }
 ];

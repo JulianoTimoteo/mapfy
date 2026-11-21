@@ -1,5 +1,9 @@
-// Auto-gerado em 21/11/2026 07:33:26
-const HERBICIDA_DATA = [
+/**
+ * Dados Consolidados - herbicida
+ * Total: 34 registros
+ * Atualizado em: 21/11/2026 07:40
+ */
+window.HERBICIDA_DATA = [
   {
     "ID": "3948829",
     "Usuário": "qualidade9@usinapitangueiras.com.br",
@@ -25,7 +29,8 @@ const HERBICIDA_DATA = [
     "Limpeza de bicos": "OK",
     "Vazão": "150.0",
     "Observações": "Equipamento 11125",
-    "Fazenda.1": NaN
+    "Fazenda.1": null,
+    "Unnamed: 25": null
   },
   {
     "ID": "3948827",
@@ -52,7 +57,8 @@ const HERBICIDA_DATA = [
     "Limpeza de bicos": "OK",
     "Vazão": "150.0",
     "Observações": "Equipamento 70122",
-    "Fazenda.1": NaN
+    "Fazenda.1": null,
+    "Unnamed: 25": null
   },
   {
     "ID": "3901727",
@@ -79,7 +85,8 @@ const HERBICIDA_DATA = [
     "Limpeza de bicos": "OK",
     "Vazão": "200.0",
     "Observações": "Foi encontrado um vazamento no suporte do filtro do caminhão 31817, devido ao vazamento esta tendo desperdício de produto. \n\nPlano de ação : O reparo foi realizado. (foto em anexo)",
-    "Fazenda.1": NaN
+    "Fazenda.1": null,
+    "Unnamed: 25": null
   },
   {
     "ID": "3935470",
@@ -106,7 +113,8 @@ const HERBICIDA_DATA = [
     "Limpeza de bicos": "OK",
     "Vazão": "200.0",
     "Observações": "Trator 11225",
-    "Fazenda.1": NaN
+    "Fazenda.1": null,
+    "Unnamed: 25": null
   },
   {
     "ID": "3917765",
@@ -133,7 +141,8 @@ const HERBICIDA_DATA = [
     "Limpeza de bicos": "OK",
     "Vazão": "150.0",
     "Observações": "No momento da verificação, o trator 11225 estava realizando a operação 1031, mesmo a temperatura estando em 32.2 C° e a umidade estando em 36%, ficando fora da tabela do Delta T, foi orientado a parar a operação.",
-    "Fazenda.1": NaN
+    "Fazenda.1": null,
+    "Unnamed: 25": null
   },
   {
     "ID": "3915129",
@@ -159,8 +168,9 @@ const HERBICIDA_DATA = [
     "Limpeza de filtros da bomba do implemento": "OK",
     "Limpeza de bicos": "OK",
     "Vazão": "200.0",
-    "Observações": NaN,
-    "Fazenda.1": NaN
+    "Observações": null,
+    "Fazenda.1": null,
+    "Unnamed: 25": null
   },
   {
     "ID": "3909303",
@@ -187,7 +197,8 @@ const HERBICIDA_DATA = [
     "Limpeza de bicos": "OK",
     "Vazão": "200.0",
     "Observações": "Trator 11225",
-    "Fazenda.1": NaN
+    "Fazenda.1": null,
+    "Unnamed: 25": null
   },
   {
     "ID": "3886887",
@@ -214,7 +225,8 @@ const HERBICIDA_DATA = [
     "Limpeza de bicos": "OK",
     "Vazão": "150.0",
     "Observações": "No momento da verificação a operação estava parada devido a condições climáticas. (70122)",
-    "Fazenda.1": NaN
+    "Fazenda.1": null,
+    "Unnamed: 25": null
   },
   {
     "ID": "3886628",
@@ -241,7 +253,8 @@ const HERBICIDA_DATA = [
     "Limpeza de bicos": "OK",
     "Vazão": "200.0",
     "Observações": "No momento da verificação a operação estava parada devido a condições climáticas.",
-    "Fazenda.1": NaN
+    "Fazenda.1": null,
+    "Unnamed: 25": null
   },
   {
     "ID": "3880884",
@@ -268,7 +281,8 @@ const HERBICIDA_DATA = [
     "Limpeza de bicos": "OK",
     "Vazão": "300.0",
     "Observações": "Foi identificado um vazamento no suporte do filtro do caminhão de calda 31817.\n\nOperação parada devido a condições climáticas",
-    "Fazenda.1": NaN
+    "Fazenda.1": null,
+    "Unnamed: 25": null
   },
   {
     "ID": "3880579",
@@ -295,7 +309,8 @@ const HERBICIDA_DATA = [
     "Limpeza de bicos": "NOK",
     "Vazão": "150.0",
     "Observações": "Na verificação foi identificado 2 bicos com vazamento contínuo mesmo com a bomba do equipamento desligada. Foi identificado também um vazamento grande de óleo no hidráulico. E durante a verificação a temperatura e a umidade subiu muito, ficando fora da tabela do Delta T, operador foi orientado a não dar continuidade na operação.",
-    "Fazenda.1": NaN
+    "Fazenda.1": null,
+    "Unnamed: 25": null
   },
   {
     "ID": "3875096",
@@ -321,8 +336,9 @@ const HERBICIDA_DATA = [
     "Limpeza de filtros da bomba do implemento": "OK",
     "Limpeza de bicos": "OK",
     "Vazão": "200.0",
-    "Observações": NaN,
-    "Fazenda.1": NaN
+    "Observações": null,
+    "Fazenda.1": null,
+    "Unnamed: 25": null
   },
   {
     "ID": "3864143",
@@ -349,7 +365,8 @@ const HERBICIDA_DATA = [
     "Limpeza de bicos": "NOK",
     "Vazão": "200.0",
     "Observações": "No momento da verificação foi encontrado 4 bicos com vazamento contínuo, mesmo com a bomba do equipamento desligada. E foi identificado também um vazamento de óleo grande no hidráulico.",
-    "Fazenda.1": NaN
+    "Fazenda.1": null,
+    "Unnamed: 25": null
   },
   {
     "ID": "3857993",
@@ -375,8 +392,9 @@ const HERBICIDA_DATA = [
     "Limpeza de filtros da bomba do implemento": "OK",
     "Limpeza de bicos": "OK",
     "Vazão": "200.0",
-    "Observações": NaN,
-    "Fazenda.1": NaN
+    "Observações": null,
+    "Fazenda.1": null,
+    "Unnamed: 25": null
   },
   {
     "ID": "3853364",
@@ -403,7 +421,8 @@ const HERBICIDA_DATA = [
     "Limpeza de bicos": "OK",
     "Vazão": "200.0",
     "Observações": "No momento da verificação a operação estava parada devido a condições climáticas.",
-    "Fazenda.1": NaN
+    "Fazenda.1": null,
+    "Unnamed: 25": null
   },
   {
     "ID": "3846710",
@@ -430,7 +449,8 @@ const HERBICIDA_DATA = [
     "Limpeza de bicos": "OK",
     "Vazão": "200.0",
     "Observações": "Na verificação o operador estava saindo do talhão pois havia acabado de finalizar a area, porém a temperatura estava alta e a umidade baixa ficando fora dos parâmetros da tabela do DELTA T. Foi conferido o equipamento e constatado que um dos bicos estava danificado, operador relatou que havia terminado a area e estava indo pra oficina arrumar bico",
-    "Fazenda.1": NaN
+    "Fazenda.1": null,
+    "Unnamed: 25": null
   },
   {
     "ID": "3835183",
@@ -445,19 +465,20 @@ const HERBICIDA_DATA = [
     "Fazenda": "34703",
     "Ordem de Serviço": "9713",
     "Operação": "1091-APLIC. HERB MAN - CAT. QUIMÍCA",
-    "Planta ou Soca": NaN,
+    "Planta ou Soca": null,
     "O responsável realizou a avaliação de qualidade antes de iniciar a operação?": "OK",
     "O responsável possui a Ordem de Serviço e o Mapa da Área disponíveis na frente?": "OK",
-    "Vento": NaN,
+    "Vento": null,
     "Umidade Relativa": "35%",
-    "Temperatura": NaN,
-    "Espaçamento de Bico": NaN,
+    "Temperatura": null,
+    "Espaçamento de Bico": null,
     "Abertura do leque": "OK",
     "Limpeza de filtros da bomba do implemento": "OK",
     "Limpeza de bicos": "OK",
-    "Vazão": NaN,
+    "Vazão": null,
     "Observações": "Trator 11125 apresentou problema na barra traseira, não esta saindo produto, operador acionou a oficina.\nNo momento da verificação a temperatura estava muito alta e a umidade muito baixa, operador foi orientado a parar a operação.\n",
-    "Fazenda.1": NaN
+    "Fazenda.1": null,
+    "Unnamed: 25": null
   },
   {
     "ID": "3825747",
@@ -472,19 +493,20 @@ const HERBICIDA_DATA = [
     "Fazenda": "63101",
     "Ordem de Serviço": "2161",
     "Operação": "1031-1ª APLICAÇÃO DE HERBICIDA",
-    "Planta ou Soca": NaN,
+    "Planta ou Soca": null,
     "O responsável realizou a avaliação de qualidade antes de iniciar a operação?": "OK",
     "O responsável possui a Ordem de Serviço e o Mapa da Área disponíveis na frente?": "OK",
-    "Vento": NaN,
+    "Vento": null,
     "Umidade Relativa": "37%",
-    "Temperatura": NaN,
-    "Espaçamento de Bico": NaN,
+    "Temperatura": null,
+    "Espaçamento de Bico": null,
     "Abertura do leque": "OK",
     "Limpeza de filtros da bomba do implemento": "OK",
     "Limpeza de bicos": "OK",
-    "Vazão": NaN,
+    "Vazão": null,
     "Observações": "No momento da verificação a umidade estava baixa, estando 29.8°C de temperatura e 37% umidade, ficando na parte amarela na tabela do Delta T. Foi orientado a parar a operação.",
-    "Fazenda.1": NaN
+    "Fazenda.1": null,
+    "Unnamed: 25": null
   },
   {
     "ID": "3819726",
@@ -499,19 +521,20 @@ const HERBICIDA_DATA = [
     "Fazenda": "63502",
     "Ordem de Serviço": "2065",
     "Operação": "1078-2ª APLICAÇÃO DE HERBICIDA",
-    "Planta ou Soca": NaN,
+    "Planta ou Soca": null,
     "O responsável realizou a avaliação de qualidade antes de iniciar a operação?": "OK",
     "O responsável possui a Ordem de Serviço e o Mapa da Área disponíveis na frente?": "OK",
-    "Vento": NaN,
+    "Vento": null,
     "Umidade Relativa": "51%",
-    "Temperatura": NaN,
-    "Espaçamento de Bico": NaN,
+    "Temperatura": null,
+    "Espaçamento de Bico": null,
     "Abertura do leque": "OK",
     "Limpeza de filtros da bomba do implemento": "OK",
     "Limpeza de bicos": "OK",
-    "Vazão": NaN,
+    "Vazão": null,
     "Observações": "No momento da verificação a umidade estava abaixo do pedido, foi orientado a não realizar a operação.",
-    "Fazenda.1": NaN
+    "Fazenda.1": null,
+    "Unnamed: 25": null
   },
   {
     "ID": "3811661",
@@ -526,19 +549,20 @@ const HERBICIDA_DATA = [
     "Fazenda": "34703",
     "Ordem de Serviço": "1875",
     "Operação": "1091-APLIC. HERB MAN - CAT. QUIMÍCA",
-    "Planta ou Soca": NaN,
+    "Planta ou Soca": null,
     "O responsável realizou a avaliação de qualidade antes de iniciar a operação?": "OK",
     "O responsável possui a Ordem de Serviço e o Mapa da Área disponíveis na frente?": "OK",
-    "Vento": NaN,
+    "Vento": null,
     "Umidade Relativa": "44%",
-    "Temperatura": NaN,
-    "Espaçamento de Bico": NaN,
+    "Temperatura": null,
+    "Espaçamento de Bico": null,
     "Abertura do leque": "OK",
     "Limpeza de filtros da bomba do implemento": "OK",
     "Limpeza de bicos": "OK",
-    "Vazão": NaN,
+    "Vazão": null,
     "Observações": "No momento da verificação a umidade estava abaixo de 60% e a temperatura estava acima de 30°, foi orientado a parar a operação.",
-    "Fazenda.1": NaN
+    "Fazenda.1": null,
+    "Unnamed: 25": null
   },
   {
     "ID": "3808507",
@@ -553,19 +577,20 @@ const HERBICIDA_DATA = [
     "Fazenda": "51401",
     "Ordem de Serviço": "2000",
     "Operação": "1031-1ª APLICAÇÃO DE HERBICIDA",
-    "Planta ou Soca": NaN,
+    "Planta ou Soca": null,
     "O responsável realizou a avaliação de qualidade antes de iniciar a operação?": "OK",
     "O responsável possui a Ordem de Serviço e o Mapa da Área disponíveis na frente?": "OK",
-    "Vento": NaN,
+    "Vento": null,
     "Umidade Relativa": "61%",
-    "Temperatura": NaN,
-    "Espaçamento de Bico": NaN,
+    "Temperatura": null,
+    "Espaçamento de Bico": null,
     "Abertura do leque": "OK",
     "Limpeza de filtros da bomba do implemento": "OK",
     "Limpeza de bicos": "OK",
-    "Vazão": NaN,
+    "Vazão": null,
     "Observações": "No momento da verificação, foi constatado a falta dessa borracha de vedação dos bicos, sem ela os bicos vazam. O operador colocou um pedaço de borracha comum porém não tem a mesma eficiência. Foi informado que já foi passado para o responsável da operação para fazer a compra porém até o momento não foi feito.",
-    "Fazenda.1": NaN
+    "Fazenda.1": null,
+    "Unnamed: 25": null
   },
   {
     "ID": "3797150",
@@ -580,19 +605,20 @@ const HERBICIDA_DATA = [
     "Fazenda": "34703",
     "Ordem de Serviço": "1869",
     "Operação": "1090-REPASSE APLICAÇÃO HERBICIDA",
-    "Planta ou Soca": NaN,
+    "Planta ou Soca": null,
     "O responsável realizou a avaliação de qualidade antes de iniciar a operação?": "OK",
     "O responsável possui a Ordem de Serviço e o Mapa da Área disponíveis na frente?": "OK",
-    "Vento": NaN,
+    "Vento": null,
     "Umidade Relativa": "27%",
-    "Temperatura": NaN,
-    "Espaçamento de Bico": NaN,
+    "Temperatura": null,
+    "Espaçamento de Bico": null,
     "Abertura do leque": "OK",
     "Limpeza de filtros da bomba do implemento": "OK",
     "Limpeza de bicos": "OK",
-    "Vazão": NaN,
+    "Vazão": null,
     "Observações": "No momento da auditoria a umidade e a temperatura estava fora do padrão pedido.",
-    "Fazenda.1": NaN
+    "Fazenda.1": null,
+    "Unnamed: 25": null
   },
   {
     "ID": "3791531",
@@ -607,19 +633,20 @@ const HERBICIDA_DATA = [
     "Fazenda": "70404",
     "Ordem de Serviço": "Responsável sem a ordem de serviço",
     "Operação": "1064-APLICAÇÃO DE FUNGICIDA",
-    "Planta ou Soca": NaN,
+    "Planta ou Soca": null,
     "O responsável realizou a avaliação de qualidade antes de iniciar a operação?": "OK",
     "O responsável possui a Ordem de Serviço e o Mapa da Área disponíveis na frente?": "NOK",
-    "Vento": NaN,
+    "Vento": null,
     "Umidade Relativa": "52%",
-    "Temperatura": NaN,
-    "Espaçamento de Bico": NaN,
+    "Temperatura": null,
+    "Espaçamento de Bico": null,
     "Abertura do leque": "OK",
     "Limpeza de filtros da bomba do implemento": "OK",
     "Limpeza de bicos": "NOK",
-    "Vazão": NaN,
-    "Observações": NaN,
-    "Fazenda.1": NaN
+    "Vazão": null,
+    "Observações": null,
+    "Fazenda.1": null,
+    "Unnamed: 25": null
   },
   {
     "ID": "3791712",
@@ -634,19 +661,20 @@ const HERBICIDA_DATA = [
     "Fazenda": "34704",
     "Ordem de Serviço": "1894",
     "Operação": "1031-1ª APLICAÇÃO DE HERBICIDA",
-    "Planta ou Soca": NaN,
+    "Planta ou Soca": null,
     "O responsável realizou a avaliação de qualidade antes de iniciar a operação?": "OK",
     "O responsável possui a Ordem de Serviço e o Mapa da Área disponíveis na frente?": "OK",
-    "Vento": NaN,
+    "Vento": null,
     "Umidade Relativa": "50%",
-    "Temperatura": NaN,
-    "Espaçamento de Bico": NaN,
+    "Temperatura": null,
+    "Espaçamento de Bico": null,
     "Abertura do leque": "OK",
     "Limpeza de filtros da bomba do implemento": "OK",
     "Limpeza de bicos": "NOK",
-    "Vazão": NaN,
+    "Vazão": null,
     "Observações": "Equipamento 70122\nNo momento da auditoria a operação estava parada devido condições climáticas ",
-    "Fazenda.1": NaN
+    "Fazenda.1": null,
+    "Unnamed: 25": null
   },
   {
     "ID": "3994710",
@@ -673,7 +701,8 @@ const HERBICIDA_DATA = [
     "Limpeza de bicos": "OK",
     "Vazão": "200.0",
     "Observações": "Trator 11225\nNo momento da verificação a operação estava parada devido a condições climáticas. \n",
-    "Fazenda.1": "151901.0"
+    "Fazenda.1": "151901.0",
+    "Unnamed: 25": null
   },
   {
     "ID": "3992257",
@@ -700,7 +729,8 @@ const HERBICIDA_DATA = [
     "Limpeza de bicos": "OK",
     "Vazão": "150.0",
     "Observações": "Equipamento 70122\nNo momento da verificação a operação já se encontrava parada devido a condições climáticas, temperatura alta e umidade baixa. ",
-    "Fazenda.1": "70414.0"
+    "Fazenda.1": "70414.0",
+    "Unnamed: 25": null
   },
   {
     "ID": "3992055",
@@ -727,7 +757,8 @@ const HERBICIDA_DATA = [
     "Limpeza de bicos": "OK",
     "Vazão": "200.0",
     "Observações": "Trator 11125 ",
-    "Fazenda.1": "48501.0"
+    "Fazenda.1": "48501.0",
+    "Unnamed: 25": null
   },
   {
     "ID": "3982367",
@@ -754,7 +785,8 @@ const HERBICIDA_DATA = [
     "Limpeza de bicos": "N / A",
     "Vazão": "150.0",
     "Observações": "No momento da verificação a operação não havia sido iniciada devido a condições climáticas, rajadas de vento acima de 15 km, temperatura alta e umidade baixa, ficando fora da tabela do Delta T.",
-    "Fazenda.1": "70407.0"
+    "Fazenda.1": "70407.0",
+    "Unnamed: 25": null
   },
   {
     "ID": "4044476",
@@ -781,7 +813,8 @@ const HERBICIDA_DATA = [
     "Limpeza de bicos": "OK",
     "Vazão": "150",
     "Observações": "Equipamento 70122",
-    "Fazenda.1": "53201"
+    "Fazenda.1": "53201",
+    "Unnamed: 25": null
   },
   {
     "ID": "4037829",
@@ -808,7 +841,8 @@ const HERBICIDA_DATA = [
     "Limpeza de bicos": "OK",
     "Vazão": "200",
     "Observações": "Trator 11225",
-    "Fazenda.1": "33101"
+    "Fazenda.1": "33101",
+    "Unnamed: 25": null
   },
   {
     "ID": "4033298",
@@ -835,7 +869,8 @@ const HERBICIDA_DATA = [
     "Limpeza de bicos": "OK",
     "Vazão": "150",
     "Observações": "Equipamento 70122",
-    "Fazenda.1": "31401"
+    "Fazenda.1": "31401",
+    "Unnamed: 25": null
   },
   {
     "ID": "4008403",
@@ -862,7 +897,8 @@ const HERBICIDA_DATA = [
     "Limpeza de bicos": "OK",
     "Vazão": "200",
     "Observações": "Trator 11225",
-    "Fazenda.1": "48501"
+    "Fazenda.1": "48501",
+    "Unnamed: 25": null
   },
   {
     "ID": "4008398",
@@ -889,7 +925,8 @@ const HERBICIDA_DATA = [
     "Limpeza de bicos": "OK",
     "Vazão": "200",
     "Observações": "Trator 11125 ",
-    "Fazenda.1": "48501"
+    "Fazenda.1": "48501",
+    "Unnamed: 25": null
   },
   {
     "ID": "4058420",
@@ -916,6 +953,7 @@ const HERBICIDA_DATA = [
     "Limpeza de bicos": "OK",
     "Vazão": "200",
     "Observações": "Trator 11125 e 11225  \nNo dia 09/11 foi feito uma verificação no 11125 e constatado que o acelerador de pé não estava  funcionando devido a falta do cabo, operador estava usando somente o acelerador de mão, hoje dia 18/11 em uma nova verificação foi constatado que o problema continua, e somente o acelerador de mão funciona. ",
-    "Fazenda.1": "41601"
+    "Fazenda.1": "41601",
+    "Unnamed: 25": null
   }
 ];

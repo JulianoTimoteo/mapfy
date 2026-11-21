@@ -1,5 +1,9 @@
-// Auto-gerado em 21/11/2026 07:33:25
-const ARREMATE_ACABAMENTO_DATA = [
+/**
+ * Dados Consolidados - arremate_acabamento
+ * Total: 817 registros
+ * Atualizado em: 21/11/2026 07:40
+ */
+window.ARREMATE_DATA = [
   {
     "ID": "3906888",
     "Usuário": "qualidade3@usinapitangueiras.com.br",
@@ -18,7 +22,8 @@ const ARREMATE_ACABAMENTO_DATA = [
     "Frente": "261 - FRENTE PRÓPRIA  (EDMILSON)",
     "Responsável": "MABILA HELEN D FIGUEIREDO",
     "Arremate e Acabamento": "BOM",
-    "Fazenda": NaN
+    "Fazenda": null,
+    "Unnamed: 18": null
   },
   {
     "ID": "3904483",
@@ -38,7 +43,8 @@ const ARREMATE_ACABAMENTO_DATA = [
     "Frente": "261 - FRENTE PRÓPRIA  (EDMILSON)",
     "Responsável": "MABILA HELEN D FIGUEIREDO",
     "Arremate e Acabamento": "BOM",
-    "Fazenda": NaN
+    "Fazenda": null,
+    "Unnamed: 18": null
   },
   {
     "ID": "3902154",
@@ -58,7 +64,8 @@ const ARREMATE_ACABAMENTO_DATA = [
     "Frente": "261 - FRENTE PRÓPRIA  (EDMILSON)",
     "Responsável": "MABILA HELEN D FIGUEIREDO",
     "Arremate e Acabamento": "BOM",
-    "Fazenda": NaN
+    "Fazenda": null,
+    "Unnamed: 18": null
   },
   {
     "ID": "3898967",
@@ -78,7 +85,8 @@ const ARREMATE_ACABAMENTO_DATA = [
     "Frente": "261 - FRENTE PRÓPRIA  (EDMILSON)",
     "Responsável": "MABILA HELEN D FIGUEIREDO",
     "Arremate e Acabamento": "BOM",
-    "Fazenda": NaN
+    "Fazenda": null,
+    "Unnamed: 18": null
   },
   {
     "ID": "3896142",
@@ -98,7 +106,8 @@ const ARREMATE_ACABAMENTO_DATA = [
     "Frente": "261 - FRENTE PRÓPRIA  (EDMILSON)",
     "Responsável": "REGINALDO DA SILVA GOMES ",
     "Arremate e Acabamento": "BOM",
-    "Fazenda": NaN
+    "Fazenda": null,
+    "Unnamed: 18": null
   },
   {
     "ID": "3896265",
@@ -118,7 +127,8 @@ const ARREMATE_ACABAMENTO_DATA = [
     "Frente": "261 - FRENTE PRÓPRIA  (EDMILSON)",
     "Responsável": "MABILA HELEN D FIGUEIREDO",
     "Arremate e Acabamento": "BOM",
-    "Fazenda": NaN
+    "Fazenda": null,
+    "Unnamed: 18": null
   },
   {
     "ID": "3896141",
@@ -138,7 +148,8 @@ const ARREMATE_ACABAMENTO_DATA = [
     "Frente": "261 - FRENTE PRÓPRIA  (EDMILSON)",
     "Responsável": "REGINALDO DA SILVA GOMES ",
     "Arremate e Acabamento": "BOM",
-    "Fazenda": NaN
+    "Fazenda": null,
+    "Unnamed: 18": null
   },
   {
     "ID": "3896264",
@@ -158,7 +169,8 @@ const ARREMATE_ACABAMENTO_DATA = [
     "Frente": "261 - FRENTE PRÓPRIA  (EDMILSON)",
     "Responsável": "MABILA HELEN D FIGUEIREDO",
     "Arremate e Acabamento": "BOM",
-    "Fazenda": NaN
+    "Fazenda": null,
+    "Unnamed: 18": null
   },
   {
     "ID": "3896140",
@@ -178,7 +190,8 @@ const ARREMATE_ACABAMENTO_DATA = [
     "Frente": "261 - FRENTE PRÓPRIA  (EDMILSON)",
     "Responsável": "REGINALDO DA SILVA GOMES ",
     "Arremate e Acabamento": "BOM",
-    "Fazenda": NaN
+    "Fazenda": null,
+    "Unnamed: 18": null
   },
   {
     "ID": "3893896",
@@ -198,7 +211,8 @@ const ARREMATE_ACABAMENTO_DATA = [
     "Frente": "261 - FRENTE PRÓPRIA  (EDMILSON)",
     "Responsável": "MABILA HELEN D FIGUEIREDO",
     "Arremate e Acabamento": "BOM",
-    "Fazenda": NaN
+    "Fazenda": null,
+    "Unnamed: 18": null
   },
   {
     "ID": "3893899",
@@ -218,7 +232,8 @@ const ARREMATE_ACABAMENTO_DATA = [
     "Frente": "261 - FRENTE PRÓPRIA  (EDMILSON)",
     "Responsável": "MABILA HELEN D FIGUEIREDO",
     "Arremate e Acabamento": "BOM",
-    "Fazenda": NaN
+    "Fazenda": null,
+    "Unnamed: 18": null
   },
   {
     "ID": "3886982",
@@ -238,7 +253,8 @@ const ARREMATE_ACABAMENTO_DATA = [
     "Frente": "261 - FRENTE PRÓPRIA  (EDMILSON)",
     "Responsável": "MABILA HELEN D FIGUEIREDO",
     "Arremate e Acabamento": "BOM",
-    "Fazenda": NaN
+    "Fazenda": null,
+    "Unnamed: 18": null
   },
   {
     "ID": "3884084",
@@ -258,7 +274,8 @@ const ARREMATE_ACABAMENTO_DATA = [
     "Frente": "261 - FRENTE PRÓPRIA  (EDMILSON)",
     "Responsável": "MABILA HELEN D FIGUEIREDO",
     "Arremate e Acabamento": "BOM",
-    "Fazenda": NaN
+    "Fazenda": null,
+    "Unnamed: 18": null
   },
   {
     "ID": "3884083",
@@ -278,7 +295,8 @@ const ARREMATE_ACABAMENTO_DATA = [
     "Frente": "261 - FRENTE PRÓPRIA  (EDMILSON)",
     "Responsável": "MABILA HELEN D FIGUEIREDO",
     "Arremate e Acabamento": "BOM",
-    "Fazenda": NaN
+    "Fazenda": null,
+    "Unnamed: 18": null
   },
   {
     "ID": "3872770",
@@ -298,7 +316,8 @@ const ARREMATE_ACABAMENTO_DATA = [
     "Frente": "261 - FRENTE PRÓPRIA  (EDMILSON)",
     "Responsável": "MABILA HELEN D FIGUEIREDO",
     "Arremate e Acabamento": "BOM",
-    "Fazenda": NaN
+    "Fazenda": null,
+    "Unnamed: 18": null
   },
   {
     "ID": "3872295",
@@ -318,7 +337,8 @@ const ARREMATE_ACABAMENTO_DATA = [
     "Frente": "261 - FRENTE PRÓPRIA  (EDMILSON)",
     "Responsável": "REGINALDO DA SILVA GOMES ",
     "Arremate e Acabamento": "BOM",
-    "Fazenda": NaN
+    "Fazenda": null,
+    "Unnamed: 18": null
   },
   {
     "ID": "3872292",
@@ -338,7 +358,8 @@ const ARREMATE_ACABAMENTO_DATA = [
     "Frente": "261 - FRENTE PRÓPRIA  (EDMILSON)",
     "Responsável": "REGINALDO DA SILVA GOMES ",
     "Arremate e Acabamento": "BOM",
-    "Fazenda": NaN
+    "Fazenda": null,
+    "Unnamed: 18": null
   },
   {
     "ID": "3870278",
@@ -358,7 +379,8 @@ const ARREMATE_ACABAMENTO_DATA = [
     "Frente": "261 - FRENTE PRÓPRIA  (EDMILSON)",
     "Responsável": "MABILA HELEN D FIGUEIREDO",
     "Arremate e Acabamento": "BOM",
-    "Fazenda": NaN
+    "Fazenda": null,
+    "Unnamed: 18": null
   },
   {
     "ID": "3870277",
@@ -378,7 +400,8 @@ const ARREMATE_ACABAMENTO_DATA = [
     "Frente": "261 - FRENTE PRÓPRIA  (EDMILSON)",
     "Responsável": "MABILA HELEN D FIGUEIREDO",
     "Arremate e Acabamento": "BOM",
-    "Fazenda": NaN
+    "Fazenda": null,
+    "Unnamed: 18": null
   },
   {
     "ID": "3867178",
@@ -398,7 +421,8 @@ const ARREMATE_ACABAMENTO_DATA = [
     "Frente": "261 - FRENTE PRÓPRIA  (EDMILSON)",
     "Responsável": "WILLIAM ROBERTO DALLA COSTA [254120]",
     "Arremate e Acabamento": "BOM",
-    "Fazenda": NaN
+    "Fazenda": null,
+    "Unnamed: 18": null
   },
   {
     "ID": "3867347",
@@ -418,7 +442,8 @@ const ARREMATE_ACABAMENTO_DATA = [
     "Frente": "261 - FRENTE PRÓPRIA  (EDMILSON)",
     "Responsável": "MABILA HELEN D FIGUEIREDO",
     "Arremate e Acabamento": "BOM",
-    "Fazenda": NaN
+    "Fazenda": null,
+    "Unnamed: 18": null
   },
   {
     "ID": "3867342",
@@ -438,7 +463,8 @@ const ARREMATE_ACABAMENTO_DATA = [
     "Frente": "261 - FRENTE PRÓPRIA  (EDMILSON)",
     "Responsável": "MABILA HELEN D FIGUEIREDO",
     "Arremate e Acabamento": "BOM",
-    "Fazenda": NaN
+    "Fazenda": null,
+    "Unnamed: 18": null
   },
   {
     "ID": "3864185",
@@ -458,7 +484,8 @@ const ARREMATE_ACABAMENTO_DATA = [
     "Frente": "261 - FRENTE PRÓPRIA  (EDMILSON)",
     "Responsável": "MABILA HELEN D FIGUEIREDO",
     "Arremate e Acabamento": "BOM",
-    "Fazenda": NaN
+    "Fazenda": null,
+    "Unnamed: 18": null
   },
   {
     "ID": "3864184",
@@ -478,7 +505,8 @@ const ARREMATE_ACABAMENTO_DATA = [
     "Frente": "261 - FRENTE PRÓPRIA  (EDMILSON)",
     "Responsável": "MABILA HELEN D FIGUEIREDO",
     "Arremate e Acabamento": "BOM",
-    "Fazenda": NaN
+    "Fazenda": null,
+    "Unnamed: 18": null
   },
   {
     "ID": "3861945",
@@ -498,7 +526,8 @@ const ARREMATE_ACABAMENTO_DATA = [
     "Frente": "261 - FRENTE PRÓPRIA  (EDMILSON)",
     "Responsável": "MABILA HELEN D FIGUEIREDO",
     "Arremate e Acabamento": "BOM",
-    "Fazenda": NaN
+    "Fazenda": null,
+    "Unnamed: 18": null
   },
   {
     "ID": "3861924",
@@ -518,7 +547,8 @@ const ARREMATE_ACABAMENTO_DATA = [
     "Frente": "261 - FRENTE PRÓPRIA  (EDMILSON)",
     "Responsável": "MABILA HELEN D FIGUEIREDO",
     "Arremate e Acabamento": "BOM",
-    "Fazenda": NaN
+    "Fazenda": null,
+    "Unnamed: 18": null
   },
   {
     "ID": "3859039",
@@ -538,7 +568,8 @@ const ARREMATE_ACABAMENTO_DATA = [
     "Frente": "261 - FRENTE PRÓPRIA  (EDMILSON)",
     "Responsável": "MABILA HELEN D FIGUEIREDO",
     "Arremate e Acabamento": "BOM",
-    "Fazenda": NaN
+    "Fazenda": null,
+    "Unnamed: 18": null
   },
   {
     "ID": "3859038",
@@ -558,7 +589,8 @@ const ARREMATE_ACABAMENTO_DATA = [
     "Frente": "261 - FRENTE PRÓPRIA  (EDMILSON)",
     "Responsável": "MABILA HELEN D FIGUEIREDO",
     "Arremate e Acabamento": "BOM",
-    "Fazenda": NaN
+    "Fazenda": null,
+    "Unnamed: 18": null
   },
   {
     "ID": "3855273",
@@ -578,7 +610,8 @@ const ARREMATE_ACABAMENTO_DATA = [
     "Frente": "261 - FRENTE PRÓPRIA  (EDMILSON)",
     "Responsável": "EDILIANA CARDOSO DA COSTA",
     "Arremate e Acabamento": "BOM",
-    "Fazenda": NaN
+    "Fazenda": null,
+    "Unnamed: 18": null
   },
   {
     "ID": "3641097",
@@ -598,7 +631,8 @@ const ARREMATE_ACABAMENTO_DATA = [
     "Frente": "135 - FRENTE PEDRINHO",
     "Responsável": "MARCELO DE OLIVEIRA JUNIOR",
     "Arremate e Acabamento": "BOM",
-    "Fazenda": NaN
+    "Fazenda": null,
+    "Unnamed: 18": null
   },
   {
     "ID": "3636041",
@@ -618,7 +652,8 @@ const ARREMATE_ACABAMENTO_DATA = [
     "Frente": "135 - FRENTE PEDRINHO",
     "Responsável": "MARCELO DE OLIVEIRA JUNIOR",
     "Arremate e Acabamento": "BOM",
-    "Fazenda": NaN
+    "Fazenda": null,
+    "Unnamed: 18": null
   },
   {
     "ID": "3635310",
@@ -638,7 +673,8 @@ const ARREMATE_ACABAMENTO_DATA = [
     "Frente": "135 - FRENTE PEDRINHO",
     "Responsável": "NILDA CLAUDINO [2510716]",
     "Arremate e Acabamento": "BOM",
-    "Fazenda": NaN
+    "Fazenda": null,
+    "Unnamed: 18": null
   },
   {
     "ID": "3633046",
@@ -658,7 +694,8 @@ const ARREMATE_ACABAMENTO_DATA = [
     "Frente": "143 - FRENTE CASSIO",
     "Responsável": "NILDA CLAUDINO [2510716]",
     "Arremate e Acabamento": "BOM",
-    "Fazenda": NaN
+    "Fazenda": null,
+    "Unnamed: 18": null
   },
   {
     "ID": "3632414",
@@ -678,7 +715,8 @@ const ARREMATE_ACABAMENTO_DATA = [
     "Frente": "135 - FRENTE PEDRINHO",
     "Responsável": "MARCELO DE OLIVEIRA JUNIOR",
     "Arremate e Acabamento": "BOM",
-    "Fazenda": NaN
+    "Fazenda": null,
+    "Unnamed: 18": null
   },
   {
     "ID": "3632411",
@@ -698,7 +736,8 @@ const ARREMATE_ACABAMENTO_DATA = [
     "Frente": "135 - FRENTE PEDRINHO",
     "Responsável": "MARCELO DE OLIVEIRA JUNIOR",
     "Arremate e Acabamento": "BOM",
-    "Fazenda": NaN
+    "Fazenda": null,
+    "Unnamed: 18": null
   },
   {
     "ID": "3632409",
@@ -718,7 +757,8 @@ const ARREMATE_ACABAMENTO_DATA = [
     "Frente": "135 - FRENTE PEDRINHO",
     "Responsável": "MARCELO DE OLIVEIRA JUNIOR",
     "Arremate e Acabamento": "BOM",
-    "Fazenda": NaN
+    "Fazenda": null,
+    "Unnamed: 18": null
   },
   {
     "ID": "3629717",
@@ -738,7 +778,8 @@ const ARREMATE_ACABAMENTO_DATA = [
     "Frente": "105 - FRENTE CASSIO (ZACARIAS)",
     "Responsável": " Antonio ",
     "Arremate e Acabamento": "BOM",
-    "Fazenda": NaN
+    "Fazenda": null,
+    "Unnamed: 18": null
   },
   {
     "ID": "3629709",
@@ -758,7 +799,8 @@ const ARREMATE_ACABAMENTO_DATA = [
     "Frente": "105 - FRENTE CASSIO (ZACARIAS)",
     "Responsável": " Antonio ",
     "Arremate e Acabamento": "BOM",
-    "Fazenda": NaN
+    "Fazenda": null,
+    "Unnamed: 18": null
   },
   {
     "ID": "3628833",
@@ -778,7 +820,8 @@ const ARREMATE_ACABAMENTO_DATA = [
     "Frente": "143 - FRENTE CASSIO",
     "Responsável": "FERNANDA DE SOUZA ",
     "Arremate e Acabamento": "BOM",
-    "Fazenda": NaN
+    "Fazenda": null,
+    "Unnamed: 18": null
   },
   {
     "ID": "3628943",
@@ -798,7 +841,8 @@ const ARREMATE_ACABAMENTO_DATA = [
     "Frente": "135 - FRENTE PEDRINHO",
     "Responsável": "MARCELO DE OLIVEIRA JUNIOR",
     "Arremate e Acabamento": "BOM",
-    "Fazenda": NaN
+    "Fazenda": null,
+    "Unnamed: 18": null
   },
   {
     "ID": "3628939",
@@ -818,7 +862,8 @@ const ARREMATE_ACABAMENTO_DATA = [
     "Frente": "135 - FRENTE PEDRINHO",
     "Responsável": "MARCELO DE OLIVEIRA JUNIOR",
     "Arremate e Acabamento": "BOM",
-    "Fazenda": NaN
+    "Fazenda": null,
+    "Unnamed: 18": null
   },
   {
     "ID": "3626961",
@@ -838,7 +883,8 @@ const ARREMATE_ACABAMENTO_DATA = [
     "Frente": "261 - FRENTE PRÓPRIA  (EDMILSON)",
     "Responsável": "VITOR AMORIM RAMOS ",
     "Arremate e Acabamento": "BOM",
-    "Fazenda": NaN
+    "Fazenda": null,
+    "Unnamed: 18": null
   },
   {
     "ID": "3627153",
@@ -858,7 +904,8 @@ const ARREMATE_ACABAMENTO_DATA = [
     "Frente": "139 - FRENTE MANEZÃO",
     "Responsável": "MICHELI DE SOUZA SANTOS  ",
     "Arremate e Acabamento": "BOM",
-    "Fazenda": NaN
+    "Fazenda": null,
+    "Unnamed: 18": null
   },
   {
     "ID": "3626413",
@@ -878,7 +925,8 @@ const ARREMATE_ACABAMENTO_DATA = [
     "Frente": "261 - FRENTE PRÓPRIA  (EDMILSON)",
     "Responsável": "VITOR AMORIM RAMOS ",
     "Arremate e Acabamento": "BOM",
-    "Fazenda": NaN
+    "Fazenda": null,
+    "Unnamed: 18": null
   },
   {
     "ID": "3626402",
@@ -898,7 +946,8 @@ const ARREMATE_ACABAMENTO_DATA = [
     "Frente": "261 - FRENTE PRÓPRIA  (EDMILSON)",
     "Responsável": "VITOR AMORIM RAMOS ",
     "Arremate e Acabamento": "BOM",
-    "Fazenda": NaN
+    "Fazenda": null,
+    "Unnamed: 18": null
   },
   {
     "ID": "3626567",
@@ -918,7 +967,8 @@ const ARREMATE_ACABAMENTO_DATA = [
     "Frente": "143 - FRENTE CASSIO",
     "Responsável": "FERNANDA DE SOUZA ",
     "Arremate e Acabamento": "BOM",
-    "Fazenda": NaN
+    "Fazenda": null,
+    "Unnamed: 18": null
   },
   {
     "ID": "3626381",
@@ -938,7 +988,8 @@ const ARREMATE_ACABAMENTO_DATA = [
     "Frente": "261 - FRENTE PRÓPRIA  (EDMILSON)",
     "Responsável": "VITOR AMORIM RAMOS ",
     "Arremate e Acabamento": "BOM",
-    "Fazenda": NaN
+    "Fazenda": null,
+    "Unnamed: 18": null
   },
   {
     "ID": "3627123",
@@ -958,7 +1009,8 @@ const ARREMATE_ACABAMENTO_DATA = [
     "Frente": "139 - FRENTE MANEZÃO",
     "Responsável": "MICHELI DE SOUZA SANTOS  ",
     "Arremate e Acabamento": "BOM",
-    "Fazenda": NaN
+    "Fazenda": null,
+    "Unnamed: 18": null
   },
   {
     "ID": "3624462",
@@ -978,7 +1030,8 @@ const ARREMATE_ACABAMENTO_DATA = [
     "Frente": "143 - FRENTE CASSIO",
     "Responsável": "FERNANDA DE SOUZA ",
     "Arremate e Acabamento": "BOM",
-    "Fazenda": NaN
+    "Fazenda": null,
+    "Unnamed: 18": null
   },
   {
     "ID": "3624633",
@@ -998,7 +1051,8 @@ const ARREMATE_ACABAMENTO_DATA = [
     "Frente": "261 - FRENTE PRÓPRIA  (EDMILSON)",
     "Responsável": "VITOR AMORIM RAMOS ",
     "Arremate e Acabamento": "BOM",
-    "Fazenda": NaN
+    "Fazenda": null,
+    "Unnamed: 18": null
   },
   {
     "ID": "3625475",
@@ -1018,7 +1072,8 @@ const ARREMATE_ACABAMENTO_DATA = [
     "Frente": "135 - FRENTE PEDRINHO",
     "Responsável": "MARCELO DE OLIVEIRA JUNIOR",
     "Arremate e Acabamento": "BOM",
-    "Fazenda": NaN
+    "Fazenda": null,
+    "Unnamed: 18": null
   },
   {
     "ID": "3625471",
@@ -1038,7 +1093,8 @@ const ARREMATE_ACABAMENTO_DATA = [
     "Frente": "135 - FRENTE PEDRINHO",
     "Responsável": "MARCELO DE OLIVEIRA JUNIOR",
     "Arremate e Acabamento": "BOM",
-    "Fazenda": NaN
+    "Fazenda": null,
+    "Unnamed: 18": null
   },
   {
     "ID": "3625470",
@@ -1058,7 +1114,8 @@ const ARREMATE_ACABAMENTO_DATA = [
     "Frente": "135 - FRENTE PEDRINHO",
     "Responsável": "MARCELO DE OLIVEIRA JUNIOR",
     "Arremate e Acabamento": "BOM",
-    "Fazenda": NaN
+    "Fazenda": null,
+    "Unnamed: 18": null
   },
   {
     "ID": "3624611",
@@ -1078,7 +1135,8 @@ const ARREMATE_ACABAMENTO_DATA = [
     "Frente": "261 - FRENTE PRÓPRIA  (EDMILSON)",
     "Responsável": "VITOR AMORIM RAMOS ",
     "Arremate e Acabamento": "BOM",
-    "Fazenda": NaN
+    "Fazenda": null,
+    "Unnamed: 18": null
   },
   {
     "ID": "3626669",
@@ -1098,7 +1156,8 @@ const ARREMATE_ACABAMENTO_DATA = [
     "Frente": "139 - FRENTE MANEZÃO",
     "Responsável": "MICHELI DE SOUZA SANTOS  ",
     "Arremate e Acabamento": "BOM",
-    "Fazenda": NaN
+    "Fazenda": null,
+    "Unnamed: 18": null
   },
   {
     "ID": "3624022",
@@ -1118,7 +1177,8 @@ const ARREMATE_ACABAMENTO_DATA = [
     "Frente": "261 - FRENTE PRÓPRIA  (EDMILSON)",
     "Responsável": "VITOR AMORIM RAMOS ",
     "Arremate e Acabamento": "BOM",
-    "Fazenda": NaN
+    "Fazenda": null,
+    "Unnamed: 18": null
   },
   {
     "ID": "3624005",
@@ -1138,7 +1198,8 @@ const ARREMATE_ACABAMENTO_DATA = [
     "Frente": "261 - FRENTE PRÓPRIA  (EDMILSON)",
     "Responsável": "VITOR AMORIM RAMOS ",
     "Arremate e Acabamento": "BOM",
-    "Fazenda": NaN
+    "Fazenda": null,
+    "Unnamed: 18": null
   },
   {
     "ID": "3624003",
@@ -1158,7 +1219,8 @@ const ARREMATE_ACABAMENTO_DATA = [
     "Frente": "261 - FRENTE PRÓPRIA  (EDMILSON)",
     "Responsável": "VITOR AMORIM RAMOS ",
     "Arremate e Acabamento": "BOM",
-    "Fazenda": NaN
+    "Fazenda": null,
+    "Unnamed: 18": null
   },
   {
     "ID": "3623973",
@@ -1178,7 +1240,8 @@ const ARREMATE_ACABAMENTO_DATA = [
     "Frente": "105 - FRENTE CASSIO (ZACARIAS)",
     "Responsável": " Antonio ",
     "Arremate e Acabamento": "BOM",
-    "Fazenda": NaN
+    "Fazenda": null,
+    "Unnamed: 18": null
   },
   {
     "ID": "3623961",
@@ -1198,7 +1261,8 @@ const ARREMATE_ACABAMENTO_DATA = [
     "Frente": "261 - FRENTE PRÓPRIA  (EDMILSON)",
     "Responsável": "VITOR AMORIM RAMOS ",
     "Arremate e Acabamento": "BOM",
-    "Fazenda": NaN
+    "Fazenda": null,
+    "Unnamed: 18": null
   },
   {
     "ID": "3623959",
@@ -1218,7 +1282,8 @@ const ARREMATE_ACABAMENTO_DATA = [
     "Frente": "261 - FRENTE PRÓPRIA  (EDMILSON)",
     "Responsável": "VITOR AMORIM RAMOS ",
     "Arremate e Acabamento": "BOM",
-    "Fazenda": NaN
+    "Fazenda": null,
+    "Unnamed: 18": null
   },
   {
     "ID": "3624494",
@@ -1238,7 +1303,8 @@ const ARREMATE_ACABAMENTO_DATA = [
     "Frente": "139 - FRENTE MANEZÃO",
     "Responsável": "MICHELI DE SOUZA SANTOS  ",
     "Arremate e Acabamento": "BOM",
-    "Fazenda": NaN
+    "Fazenda": null,
+    "Unnamed: 18": null
   },
   {
     "ID": "3623911",
@@ -1258,7 +1324,8 @@ const ARREMATE_ACABAMENTO_DATA = [
     "Frente": "261 - FRENTE PRÓPRIA  (EDMILSON)",
     "Responsável": "VITOR AMORIM RAMOS ",
     "Arremate e Acabamento": "BOM",
-    "Fazenda": NaN
+    "Fazenda": null,
+    "Unnamed: 18": null
   },
   {
     "ID": "3622211",
@@ -1278,7 +1345,8 @@ const ARREMATE_ACABAMENTO_DATA = [
     "Frente": "135 - FRENTE PEDRINHO",
     "Responsável": "MARCELO DE OLIVEIRA JUNIOR",
     "Arremate e Acabamento": "BOM",
-    "Fazenda": NaN
+    "Fazenda": null,
+    "Unnamed: 18": null
   },
   {
     "ID": "3621996",
@@ -1298,7 +1366,8 @@ const ARREMATE_ACABAMENTO_DATA = [
     "Frente": "261 - FRENTE PRÓPRIA  (EDMILSON)",
     "Responsável": "VITOR AMORIM RAMOS ",
     "Arremate e Acabamento": "BOM",
-    "Fazenda": NaN
+    "Fazenda": null,
+    "Unnamed: 18": null
   },
   {
     "ID": "3622204",
@@ -1318,7 +1387,8 @@ const ARREMATE_ACABAMENTO_DATA = [
     "Frente": "135 - FRENTE PEDRINHO",
     "Responsável": "MARCELO DE OLIVEIRA JUNIOR",
     "Arremate e Acabamento": "BOM",
-    "Fazenda": NaN
+    "Fazenda": null,
+    "Unnamed: 18": null
   },
   {
     "ID": "3621985",
@@ -1338,7 +1408,8 @@ const ARREMATE_ACABAMENTO_DATA = [
     "Frente": "261 - FRENTE PRÓPRIA  (EDMILSON)",
     "Responsável": "VITOR AMORIM RAMOS ",
     "Arremate e Acabamento": "BOM",
-    "Fazenda": NaN
+    "Fazenda": null,
+    "Unnamed: 18": null
   },
   {
     "ID": "3621982",
@@ -1358,7 +1429,8 @@ const ARREMATE_ACABAMENTO_DATA = [
     "Frente": "261 - FRENTE PRÓPRIA  (EDMILSON)",
     "Responsável": "VITOR AMORIM RAMOS ",
     "Arremate e Acabamento": "BOM",
-    "Fazenda": NaN
+    "Fazenda": null,
+    "Unnamed: 18": null
   },
   {
     "ID": "3621598",
@@ -1378,7 +1450,8 @@ const ARREMATE_ACABAMENTO_DATA = [
     "Frente": "143 - FRENTE CASSIO",
     "Responsável": "MABILA HELEN D FIGUEIREDO",
     "Arremate e Acabamento": "BOM",
-    "Fazenda": NaN
+    "Fazenda": null,
+    "Unnamed: 18": null
   },
   {
     "ID": "3621597",
@@ -1398,7 +1471,8 @@ const ARREMATE_ACABAMENTO_DATA = [
     "Frente": "143 - FRENTE CASSIO",
     "Responsável": "MABILA HELEN D FIGUEIREDO",
     "Arremate e Acabamento": "BOM",
-    "Fazenda": NaN
+    "Fazenda": null,
+    "Unnamed: 18": null
   },
   {
     "ID": "3620977",
@@ -1418,7 +1492,8 @@ const ARREMATE_ACABAMENTO_DATA = [
     "Frente": "101 - FRENTE MECANIZADA",
     "Responsável": "FERNANDA DE SOUZA ",
     "Arremate e Acabamento": "BOM",
-    "Fazenda": NaN
+    "Fazenda": null,
+    "Unnamed: 18": null
   },
   {
     "ID": "3620947",
@@ -1438,7 +1513,8 @@ const ARREMATE_ACABAMENTO_DATA = [
     "Frente": "261 - FRENTE PRÓPRIA  (EDMILSON)",
     "Responsável": "VITOR AMORIM RAMOS ",
     "Arremate e Acabamento": "BOM",
-    "Fazenda": NaN
+    "Fazenda": null,
+    "Unnamed: 18": null
   },
   {
     "ID": "3626637",
@@ -1458,7 +1534,8 @@ const ARREMATE_ACABAMENTO_DATA = [
     "Frente": "139 - FRENTE MANEZÃO",
     "Responsável": "MICHELI DE SOUZA SANTOS  ",
     "Arremate e Acabamento": "BOM",
-    "Fazenda": NaN
+    "Fazenda": null,
+    "Unnamed: 18": null
   },
   {
     "ID": "3620926",
@@ -1478,7 +1555,8 @@ const ARREMATE_ACABAMENTO_DATA = [
     "Frente": "261 - FRENTE PRÓPRIA  (EDMILSON)",
     "Responsável": "VITOR AMORIM RAMOS ",
     "Arremate e Acabamento": "BOM",
-    "Fazenda": NaN
+    "Fazenda": null,
+    "Unnamed: 18": null
   },
   {
     "ID": "3620925",
@@ -1498,7 +1576,8 @@ const ARREMATE_ACABAMENTO_DATA = [
     "Frente": "261 - FRENTE PRÓPRIA  (EDMILSON)",
     "Responsável": "VITOR AMORIM RAMOS ",
     "Arremate e Acabamento": "BOM",
-    "Fazenda": NaN
+    "Fazenda": null,
+    "Unnamed: 18": null
   },
   {
     "ID": "3621175",
@@ -1518,7 +1597,8 @@ const ARREMATE_ACABAMENTO_DATA = [
     "Frente": "142 - FRENTE BIDU",
     "Responsável": "GABRIEL HENRIQUE MARTINS PEREIRA",
     "Arremate e Acabamento": "BOM",
-    "Fazenda": NaN
+    "Fazenda": null,
+    "Unnamed: 18": null
   },
   {
     "ID": "3621174",
@@ -1538,7 +1618,8 @@ const ARREMATE_ACABAMENTO_DATA = [
     "Frente": "142 - FRENTE BIDU",
     "Responsável": "GABRIEL HENRIQUE MARTINS PEREIRA",
     "Arremate e Acabamento": "BOM",
-    "Fazenda": NaN
+    "Fazenda": null,
+    "Unnamed: 18": null
   },
   {
     "ID": "3620888",
@@ -1558,7 +1639,8 @@ const ARREMATE_ACABAMENTO_DATA = [
     "Frente": "261 - FRENTE PRÓPRIA  (EDMILSON)",
     "Responsável": "VITOR AMORIM RAMOS ",
     "Arremate e Acabamento": "BOM",
-    "Fazenda": NaN
+    "Fazenda": null,
+    "Unnamed: 18": null
   },
   {
     "ID": "3621093",
@@ -1578,7 +1660,8 @@ const ARREMATE_ACABAMENTO_DATA = [
     "Frente": "142 - FRENTE BIDU",
     "Responsável": "GABRIEL HENRIQUE MARTINS PEREIRA",
     "Arremate e Acabamento": "BOM",
-    "Fazenda": NaN
+    "Fazenda": null,
+    "Unnamed: 18": null
   },
   {
     "ID": "3618352",
@@ -1598,7 +1681,8 @@ const ARREMATE_ACABAMENTO_DATA = [
     "Frente": "261 - FRENTE PRÓPRIA  (EDMILSON)",
     "Responsável": "VITOR AMORIM RAMOS ",
     "Arremate e Acabamento": "BOM",
-    "Fazenda": NaN
+    "Fazenda": null,
+    "Unnamed: 18": null
   },
   {
     "ID": "3618376",
@@ -1618,7 +1702,8 @@ const ARREMATE_ACABAMENTO_DATA = [
     "Frente": "105 - FRENTE CASSIO (ZACARIAS)",
     "Responsável": " Antonio ",
     "Arremate e Acabamento": "BOM",
-    "Fazenda": NaN
+    "Fazenda": null,
+    "Unnamed: 18": null
   },
   {
     "ID": "3618729",
@@ -1638,7 +1723,8 @@ const ARREMATE_ACABAMENTO_DATA = [
     "Frente": "139 - FRENTE MANEZÃO",
     "Responsável": "MICHELI DE SOUZA SANTOS  ",
     "Arremate e Acabamento": "BOM",
-    "Fazenda": NaN
+    "Fazenda": null,
+    "Unnamed: 18": null
   },
   {
     "ID": "3618576",
@@ -1658,7 +1744,8 @@ const ARREMATE_ACABAMENTO_DATA = [
     "Frente": "142 - FRENTE BIDU",
     "Responsável": "GABRIEL HENRIQUE MARTINS PEREIRA",
     "Arremate e Acabamento": "BOM",
-    "Fazenda": NaN
+    "Fazenda": null,
+    "Unnamed: 18": null
   },
   {
     "ID": "3618575",
@@ -1678,7 +1765,8 @@ const ARREMATE_ACABAMENTO_DATA = [
     "Frente": "142 - FRENTE BIDU",
     "Responsável": "GABRIEL HENRIQUE MARTINS PEREIRA",
     "Arremate e Acabamento": "BOM",
-    "Fazenda": NaN
+    "Fazenda": null,
+    "Unnamed: 18": null
   },
   {
     "ID": "3618717",
@@ -1698,7 +1786,8 @@ const ARREMATE_ACABAMENTO_DATA = [
     "Frente": "139 - FRENTE MANEZÃO",
     "Responsável": "MICHELI DE SOUZA SANTOS  ",
     "Arremate e Acabamento": "BOM",
-    "Fazenda": NaN
+    "Fazenda": null,
+    "Unnamed: 18": null
   },
   {
     "ID": "3618716",
@@ -1718,7 +1807,8 @@ const ARREMATE_ACABAMENTO_DATA = [
     "Frente": "139 - FRENTE MANEZÃO",
     "Responsável": "MICHELI DE SOUZA SANTOS  ",
     "Arremate e Acabamento": "BOM",
-    "Fazenda": NaN
+    "Fazenda": null,
+    "Unnamed: 18": null
   },
   {
     "ID": "3618713",
@@ -1738,7 +1828,8 @@ const ARREMATE_ACABAMENTO_DATA = [
     "Frente": "139 - FRENTE MANEZÃO",
     "Responsável": "MICHELI DE SOUZA SANTOS  ",
     "Arremate e Acabamento": "BOM",
-    "Fazenda": NaN
+    "Fazenda": null,
+    "Unnamed: 18": null
   },
   {
     "ID": "3617895",
@@ -1758,7 +1849,8 @@ const ARREMATE_ACABAMENTO_DATA = [
     "Frente": "143 - FRENTE CASSIO",
     "Responsável": "MABILA HELEN D FIGUEIREDO",
     "Arremate e Acabamento": "BOM",
-    "Fazenda": NaN
+    "Fazenda": null,
+    "Unnamed: 18": null
   },
   {
     "ID": "3617769",
@@ -1778,7 +1870,8 @@ const ARREMATE_ACABAMENTO_DATA = [
     "Frente": "261 - FRENTE PRÓPRIA  (EDMILSON)",
     "Responsável": "VITOR AMORIM RAMOS ",
     "Arremate e Acabamento": "BOM",
-    "Fazenda": NaN
+    "Fazenda": null,
+    "Unnamed: 18": null
   },
   {
     "ID": "3618591",
@@ -1798,7 +1891,8 @@ const ARREMATE_ACABAMENTO_DATA = [
     "Frente": "142 - FRENTE BIDU",
     "Responsável": "GABRIEL HENRIQUE MARTINS PEREIRA",
     "Arremate e Acabamento": "BOM",
-    "Fazenda": NaN
+    "Fazenda": null,
+    "Unnamed: 18": null
   },
   {
     "ID": "3619738",
@@ -1818,7 +1912,8 @@ const ARREMATE_ACABAMENTO_DATA = [
     "Frente": "135 - FRENTE PEDRINHO",
     "Responsável": "MARCELO DE OLIVEIRA JUNIOR",
     "Arremate e Acabamento": "BOM",
-    "Fazenda": NaN
+    "Fazenda": null,
+    "Unnamed: 18": null
   },
   {
     "ID": "3617570",
@@ -1838,7 +1933,8 @@ const ARREMATE_ACABAMENTO_DATA = [
     "Frente": "101 - FRENTE MECANIZADA",
     "Responsável": "FERNANDA DE SOUZA ",
     "Arremate e Acabamento": "BOM",
-    "Fazenda": NaN
+    "Fazenda": null,
+    "Unnamed: 18": null
   },
   {
     "ID": "3617860",
@@ -1858,7 +1954,8 @@ const ARREMATE_ACABAMENTO_DATA = [
     "Frente": "143 - FRENTE CASSIO",
     "Responsável": "MABILA HELEN D FIGUEIREDO",
     "Arremate e Acabamento": "BOM",
-    "Fazenda": NaN
+    "Fazenda": null,
+    "Unnamed: 18": null
   },
   {
     "ID": "3614613",
@@ -1878,7 +1975,8 @@ const ARREMATE_ACABAMENTO_DATA = [
     "Frente": "101 - FRENTE MECANIZADA",
     "Responsável": "FERNANDA DE SOUZA ",
     "Arremate e Acabamento": "BOM",
-    "Fazenda": NaN
+    "Fazenda": null,
+    "Unnamed: 18": null
   },
   {
     "ID": "3614604",
@@ -1898,7 +1996,8 @@ const ARREMATE_ACABAMENTO_DATA = [
     "Frente": "261 - FRENTE PRÓPRIA  (EDMILSON)",
     "Responsável": "VITOR AMORIM RAMOS ",
     "Arremate e Acabamento": "BOM",
-    "Fazenda": NaN
+    "Fazenda": null,
+    "Unnamed: 18": null
   },
   {
     "ID": "3614583",
@@ -1918,7 +2017,8 @@ const ARREMATE_ACABAMENTO_DATA = [
     "Frente": "261 - FRENTE PRÓPRIA  (EDMILSON)",
     "Responsável": "VITOR AMORIM RAMOS ",
     "Arremate e Acabamento": "BOM",
-    "Fazenda": NaN
+    "Fazenda": null,
+    "Unnamed: 18": null
   },
   {
     "ID": "3614286",
@@ -1938,7 +2038,8 @@ const ARREMATE_ACABAMENTO_DATA = [
     "Frente": "142 - FRENTE BIDU",
     "Responsável": "GLEISON FELIPE BORGES DE MATOS",
     "Arremate e Acabamento": "BOM",
-    "Fazenda": NaN
+    "Fazenda": null,
+    "Unnamed: 18": null
   },
   {
     "ID": "3614365",
@@ -1958,7 +2059,8 @@ const ARREMATE_ACABAMENTO_DATA = [
     "Frente": "101 - FRENTE MECANIZADA",
     "Responsável": "FERNANDA DE SOUZA ",
     "Arremate e Acabamento": "BOM",
-    "Fazenda": NaN
+    "Fazenda": null,
+    "Unnamed: 18": null
   },
   {
     "ID": "3613949",
@@ -1978,7 +2080,8 @@ const ARREMATE_ACABAMENTO_DATA = [
     "Frente": "261 - FRENTE PRÓPRIA  (EDMILSON)",
     "Responsável": "VITOR AMORIM RAMOS ",
     "Arremate e Acabamento": "BOM",
-    "Fazenda": NaN
+    "Fazenda": null,
+    "Unnamed: 18": null
   },
   {
     "ID": "3613794",
@@ -1998,7 +2101,8 @@ const ARREMATE_ACABAMENTO_DATA = [
     "Frente": "139 - FRENTE MANEZÃO",
     "Responsável": "MICHELI DE SOUZA SANTOS  ",
     "Arremate e Acabamento": "BOM",
-    "Fazenda": NaN
+    "Fazenda": null,
+    "Unnamed: 18": null
   },
   {
     "ID": "3613784",
@@ -2018,7 +2122,8 @@ const ARREMATE_ACABAMENTO_DATA = [
     "Frente": "139 - FRENTE MANEZÃO",
     "Responsável": "MICHELI DE SOUZA SANTOS  ",
     "Arremate e Acabamento": "BOM",
-    "Fazenda": NaN
+    "Fazenda": null,
+    "Unnamed: 18": null
   },
   {
     "ID": "3613916",
@@ -2038,7 +2143,8 @@ const ARREMATE_ACABAMENTO_DATA = [
     "Frente": "261 - FRENTE PRÓPRIA  (EDMILSON)",
     "Responsável": "VITOR AMORIM RAMOS ",
     "Arremate e Acabamento": "BOM",
-    "Fazenda": NaN
+    "Fazenda": null,
+    "Unnamed: 18": null
   },
   {
     "ID": "3613604",
@@ -2058,7 +2164,8 @@ const ARREMATE_ACABAMENTO_DATA = [
     "Frente": "135 - FRENTE PEDRINHO",
     "Responsável": "MARCELO DE OLIVEIRA JUNIOR",
     "Arremate e Acabamento": "BOM",
-    "Fazenda": NaN
+    "Fazenda": null,
+    "Unnamed: 18": null
   },
   {
     "ID": "3611645",
@@ -2078,7 +2185,8 @@ const ARREMATE_ACABAMENTO_DATA = [
     "Frente": "142 - FRENTE BIDU",
     "Responsável": "FERNANDA DE SOUZA ",
     "Arremate e Acabamento": "BOM",
-    "Fazenda": NaN
+    "Fazenda": null,
+    "Unnamed: 18": null
   },
   {
     "ID": "3612792",
@@ -2098,7 +2206,8 @@ const ARREMATE_ACABAMENTO_DATA = [
     "Frente": "261 - FRENTE PRÓPRIA  (EDMILSON)",
     "Responsável": "VITOR AMORIM RAMOS ",
     "Arremate e Acabamento": "BOM",
-    "Fazenda": NaN
+    "Fazenda": null,
+    "Unnamed: 18": null
   },
   {
     "ID": "3612775",
@@ -2118,7 +2227,8 @@ const ARREMATE_ACABAMENTO_DATA = [
     "Frente": "261 - FRENTE PRÓPRIA  (EDMILSON)",
     "Responsável": "VITOR AMORIM RAMOS ",
     "Arremate e Acabamento": "BOM",
-    "Fazenda": NaN
+    "Fazenda": null,
+    "Unnamed: 18": null
   },
   {
     "ID": "3611788",
@@ -2138,7 +2248,8 @@ const ARREMATE_ACABAMENTO_DATA = [
     "Frente": "105 - FRENTE CASSIO (ZACARIAS)",
     "Responsável": "GABRIEL HENRIQUE MARTINS PEREIRA",
     "Arremate e Acabamento": "BOM",
-    "Fazenda": NaN
+    "Fazenda": null,
+    "Unnamed: 18": null
   },
   {
     "ID": "3611787",
@@ -2158,7 +2269,8 @@ const ARREMATE_ACABAMENTO_DATA = [
     "Frente": "105 - FRENTE CASSIO (ZACARIAS)",
     "Responsável": "GABRIEL HENRIQUE MARTINS PEREIRA",
     "Arremate e Acabamento": "BOM",
-    "Fazenda": NaN
+    "Fazenda": null,
+    "Unnamed: 18": null
   },
   {
     "ID": "3611725",
@@ -2178,7 +2290,8 @@ const ARREMATE_ACABAMENTO_DATA = [
     "Frente": "105 - FRENTE CASSIO (ZACARIAS)",
     "Responsável": "GABRIEL HENRIQUE MARTINS PEREIRA",
     "Arremate e Acabamento": "BOM",
-    "Fazenda": NaN
+    "Fazenda": null,
+    "Unnamed: 18": null
   },
   {
     "ID": "3609647",
@@ -2198,7 +2311,8 @@ const ARREMATE_ACABAMENTO_DATA = [
     "Frente": "135 - FRENTE PEDRINHO",
     "Responsável": "MARCELO DE OLIVEIRA JUNIOR",
     "Arremate e Acabamento": "BOM",
-    "Fazenda": NaN
+    "Fazenda": null,
+    "Unnamed: 18": null
   },
   {
     "ID": "3609643",
@@ -2218,7 +2332,8 @@ const ARREMATE_ACABAMENTO_DATA = [
     "Frente": "135 - FRENTE PEDRINHO",
     "Responsável": "MARCELO DE OLIVEIRA JUNIOR",
     "Arremate e Acabamento": "BOM",
-    "Fazenda": NaN
+    "Fazenda": null,
+    "Unnamed: 18": null
   },
   {
     "ID": "3609561",
@@ -2238,7 +2353,8 @@ const ARREMATE_ACABAMENTO_DATA = [
     "Frente": "139 - FRENTE MANEZÃO",
     "Responsável": "MICHELI DE SOUZA SANTOS  ",
     "Arremate e Acabamento": "BOM",
-    "Fazenda": NaN
+    "Fazenda": null,
+    "Unnamed: 18": null
   },
   {
     "ID": "3608543",
@@ -2258,7 +2374,8 @@ const ARREMATE_ACABAMENTO_DATA = [
     "Frente": "261 - FRENTE PRÓPRIA  (EDMILSON)",
     "Responsável": "VITOR AMORIM RAMOS ",
     "Arremate e Acabamento": "BOM",
-    "Fazenda": NaN
+    "Fazenda": null,
+    "Unnamed: 18": null
   },
   {
     "ID": "3607615",
@@ -2278,7 +2395,8 @@ const ARREMATE_ACABAMENTO_DATA = [
     "Frente": "101 - FRENTE MECANIZADA",
     "Responsável": "FERNANDA DE SOUZA ",
     "Arremate e Acabamento": "BOM",
-    "Fazenda": NaN
+    "Fazenda": null,
+    "Unnamed: 18": null
   },
   {
     "ID": "3608305",
@@ -2298,7 +2416,8 @@ const ARREMATE_ACABAMENTO_DATA = [
     "Frente": "105 - FRENTE CASSIO (ZACARIAS)",
     "Responsável": "GABRIEL HENRIQUE MARTINS PEREIRA",
     "Arremate e Acabamento": "BOM",
-    "Fazenda": NaN
+    "Fazenda": null,
+    "Unnamed: 18": null
   },
   {
     "ID": "3609529",
@@ -2318,7 +2437,8 @@ const ARREMATE_ACABAMENTO_DATA = [
     "Frente": "139 - FRENTE MANEZÃO",
     "Responsável": "MICHELI DE SOUZA SANTOS  ",
     "Arremate e Acabamento": "BOM",
-    "Fazenda": NaN
+    "Fazenda": null,
+    "Unnamed: 18": null
   },
   {
     "ID": "3607587",
@@ -2338,7 +2458,8 @@ const ARREMATE_ACABAMENTO_DATA = [
     "Frente": "261 - FRENTE PRÓPRIA  (EDMILSON)",
     "Responsável": "VITOR AMORIM RAMOS ",
     "Arremate e Acabamento": "BOM",
-    "Fazenda": NaN
+    "Fazenda": null,
+    "Unnamed: 18": null
   },
   {
     "ID": "3607586",
@@ -2358,7 +2479,8 @@ const ARREMATE_ACABAMENTO_DATA = [
     "Frente": "261 - FRENTE PRÓPRIA  (EDMILSON)",
     "Responsável": "VITOR AMORIM RAMOS ",
     "Arremate e Acabamento": "BOM",
-    "Fazenda": NaN
+    "Fazenda": null,
+    "Unnamed: 18": null
   },
   {
     "ID": "3608304",
@@ -2378,7 +2500,8 @@ const ARREMATE_ACABAMENTO_DATA = [
     "Frente": "105 - FRENTE CASSIO (ZACARIAS)",
     "Responsável": "GABRIEL HENRIQUE MARTINS PEREIRA",
     "Arremate e Acabamento": "BOM",
-    "Fazenda": NaN
+    "Fazenda": null,
+    "Unnamed: 18": null
   },
   {
     "ID": "3608303",
@@ -2398,7 +2521,8 @@ const ARREMATE_ACABAMENTO_DATA = [
     "Frente": "105 - FRENTE CASSIO (ZACARIAS)",
     "Responsável": "GABRIEL HENRIQUE MARTINS PEREIRA",
     "Arremate e Acabamento": "BOM",
-    "Fazenda": NaN
+    "Fazenda": null,
+    "Unnamed: 18": null
   },
   {
     "ID": "3607876",
@@ -2418,7 +2542,8 @@ const ARREMATE_ACABAMENTO_DATA = [
     "Frente": "139 - FRENTE MANEZÃO",
     "Responsável": "MICHELI DE SOUZA SANTOS  ",
     "Arremate e Acabamento": "BOM",
-    "Fazenda": NaN
+    "Fazenda": null,
+    "Unnamed: 18": null
   },
   {
     "ID": "3607429",
@@ -2438,7 +2563,8 @@ const ARREMATE_ACABAMENTO_DATA = [
     "Frente": "101 - FRENTE MECANIZADA",
     "Responsável": "FERNANDA DE SOUZA ",
     "Arremate e Acabamento": "BOM",
-    "Fazenda": NaN
+    "Fazenda": null,
+    "Unnamed: 18": null
   },
   {
     "ID": "3608276",
@@ -2458,7 +2584,8 @@ const ARREMATE_ACABAMENTO_DATA = [
     "Frente": "105 - FRENTE CASSIO (ZACARIAS)",
     "Responsável": "GABRIEL HENRIQUE MARTINS PEREIRA",
     "Arremate e Acabamento": "BOM",
-    "Fazenda": NaN
+    "Fazenda": null,
+    "Unnamed: 18": null
   },
   {
     "ID": "3607500",
@@ -2478,7 +2605,8 @@ const ARREMATE_ACABAMENTO_DATA = [
     "Frente": "143 - FRENTE CASSIO",
     "Responsável": "MABILA HELEN D FIGUEIREDO",
     "Arremate e Acabamento": "BOM",
-    "Fazenda": NaN
+    "Fazenda": null,
+    "Unnamed: 18": null
   },
   {
     "ID": "3607542",
@@ -2498,7 +2626,8 @@ const ARREMATE_ACABAMENTO_DATA = [
     "Frente": "261 - FRENTE PRÓPRIA  (EDMILSON)",
     "Responsável": "VITOR AMORIM RAMOS ",
     "Arremate e Acabamento": "BOM",
-    "Fazenda": NaN
+    "Fazenda": null,
+    "Unnamed: 18": null
   },
   {
     "ID": "3607491",
@@ -2518,7 +2647,8 @@ const ARREMATE_ACABAMENTO_DATA = [
     "Frente": "143 - FRENTE CASSIO",
     "Responsável": " Antonio ",
     "Arremate e Acabamento": "BOM",
-    "Fazenda": NaN
+    "Fazenda": null,
+    "Unnamed: 18": null
   },
   {
     "ID": "3608241",
@@ -2538,7 +2668,8 @@ const ARREMATE_ACABAMENTO_DATA = [
     "Frente": "101 - FRENTE MECANIZADA",
     "Responsável": "NILDA CLAUDINO [2510716]",
     "Arremate e Acabamento": "BOM",
-    "Fazenda": NaN
+    "Fazenda": null,
+    "Unnamed: 18": null
   },
   {
     "ID": "3592927",
@@ -2558,7 +2689,8 @@ const ARREMATE_ACABAMENTO_DATA = [
     "Frente": "261 - FRENTE PRÓPRIA  (EDMILSON)",
     "Responsável": "VITOR AMORIM RAMOS ",
     "Arremate e Acabamento": "BOM",
-    "Fazenda": NaN
+    "Fazenda": null,
+    "Unnamed: 18": null
   },
   {
     "ID": "3587797",
@@ -2578,7 +2710,8 @@ const ARREMATE_ACABAMENTO_DATA = [
     "Frente": "261 - FRENTE PRÓPRIA  (EDMILSON)",
     "Responsável": "VITOR AMORIM RAMOS ",
     "Arremate e Acabamento": "BOM",
-    "Fazenda": NaN
+    "Fazenda": null,
+    "Unnamed: 18": null
   },
   {
     "ID": "3585177",
@@ -2598,7 +2731,8 @@ const ARREMATE_ACABAMENTO_DATA = [
     "Frente": "261 - FRENTE PRÓPRIA  (EDMILSON)",
     "Responsável": "VITOR AMORIM RAMOS ",
     "Arremate e Acabamento": "BOM",
-    "Fazenda": NaN
+    "Fazenda": null,
+    "Unnamed: 18": null
   },
   {
     "ID": "3605438",
@@ -2618,7 +2752,8 @@ const ARREMATE_ACABAMENTO_DATA = [
     "Frente": "143 - FRENTE CASSIO",
     "Responsável": " Antonio ",
     "Arremate e Acabamento": "BOM",
-    "Fazenda": NaN
+    "Fazenda": null,
+    "Unnamed: 18": null
   },
   {
     "ID": "3605175",
@@ -2638,7 +2773,8 @@ const ARREMATE_ACABAMENTO_DATA = [
     "Frente": "135 - FRENTE PEDRINHO",
     "Responsável": "MARCELO DE OLIVEIRA JUNIOR",
     "Arremate e Acabamento": "BOM",
-    "Fazenda": NaN
+    "Fazenda": null,
+    "Unnamed: 18": null
   },
   {
     "ID": "3604658",
@@ -2658,7 +2794,8 @@ const ARREMATE_ACABAMENTO_DATA = [
     "Frente": "105 - FRENTE CASSIO (ZACARIAS)",
     "Responsável": "GABRIEL HENRIQUE MARTINS PEREIRA",
     "Arremate e Acabamento": "BOM",
-    "Fazenda": NaN
+    "Fazenda": null,
+    "Unnamed: 18": null
   },
   {
     "ID": "3604143",
@@ -2678,7 +2815,8 @@ const ARREMATE_ACABAMENTO_DATA = [
     "Frente": "142 - FRENTE BIDU",
     "Responsável": "GLEISON FELIPE BORGES DE MATOS",
     "Arremate e Acabamento": "BOM",
-    "Fazenda": NaN
+    "Fazenda": null,
+    "Unnamed: 18": null
   },
   {
     "ID": "3604045",
@@ -2698,7 +2836,8 @@ const ARREMATE_ACABAMENTO_DATA = [
     "Frente": "261 - FRENTE PRÓPRIA  (EDMILSON)",
     "Responsável": "VITOR AMORIM RAMOS ",
     "Arremate e Acabamento": "BOM",
-    "Fazenda": NaN
+    "Fazenda": null,
+    "Unnamed: 18": null
   },
   {
     "ID": "3604006",
@@ -2718,7 +2857,8 @@ const ARREMATE_ACABAMENTO_DATA = [
     "Frente": "261 - FRENTE PRÓPRIA  (EDMILSON)",
     "Responsável": "VITOR AMORIM RAMOS ",
     "Arremate e Acabamento": "BOM",
-    "Fazenda": NaN
+    "Fazenda": null,
+    "Unnamed: 18": null
   },
   {
     "ID": "3604003",
@@ -2738,7 +2878,8 @@ const ARREMATE_ACABAMENTO_DATA = [
     "Frente": "261 - FRENTE PRÓPRIA  (EDMILSON)",
     "Responsável": "VITOR AMORIM RAMOS ",
     "Arremate e Acabamento": "BOM",
-    "Fazenda": NaN
+    "Fazenda": null,
+    "Unnamed: 18": null
   },
   {
     "ID": "3604983",
@@ -2758,7 +2899,8 @@ const ARREMATE_ACABAMENTO_DATA = [
     "Frente": "101 - FRENTE MECANIZADA",
     "Responsável": "FERNANDA DE SOUZA ",
     "Arremate e Acabamento": "BOM",
-    "Fazenda": NaN
+    "Fazenda": null,
+    "Unnamed: 18": null
   },
   {
     "ID": "3603965",
@@ -2778,7 +2920,8 @@ const ARREMATE_ACABAMENTO_DATA = [
     "Frente": "261 - FRENTE PRÓPRIA  (EDMILSON)",
     "Responsável": "VITOR AMORIM RAMOS ",
     "Arremate e Acabamento": "BOM",
-    "Fazenda": NaN
+    "Fazenda": null,
+    "Unnamed: 18": null
   },
   {
     "ID": "3603986",
@@ -2798,7 +2941,8 @@ const ARREMATE_ACABAMENTO_DATA = [
     "Frente": "101 - FRENTE MECANIZADA",
     "Responsável": "NILDA CLAUDINO [2510716]",
     "Arremate e Acabamento": "BOM",
-    "Fazenda": NaN
+    "Fazenda": null,
+    "Unnamed: 18": null
   },
   {
     "ID": "3602079",
@@ -2818,7 +2962,8 @@ const ARREMATE_ACABAMENTO_DATA = [
     "Frente": "135 - FRENTE PEDRINHO",
     "Responsável": "MARCELO DE OLIVEIRA JUNIOR",
     "Arremate e Acabamento": "BOM",
-    "Fazenda": NaN
+    "Fazenda": null,
+    "Unnamed: 18": null
   },
   {
     "ID": "3602078",
@@ -2838,7 +2983,8 @@ const ARREMATE_ACABAMENTO_DATA = [
     "Frente": "135 - FRENTE PEDRINHO",
     "Responsável": "MARCELO DE OLIVEIRA JUNIOR",
     "Arremate e Acabamento": "BOM",
-    "Fazenda": NaN
+    "Fazenda": null,
+    "Unnamed: 18": null
   },
   {
     "ID": "3602066",
@@ -2858,7 +3004,8 @@ const ARREMATE_ACABAMENTO_DATA = [
     "Frente": "135 - FRENTE PEDRINHO",
     "Responsável": "MARCELO DE OLIVEIRA JUNIOR",
     "Arremate e Acabamento": "BOM",
-    "Fazenda": NaN
+    "Fazenda": null,
+    "Unnamed: 18": null
   },
   {
     "ID": "3601801",
@@ -2878,7 +3025,8 @@ const ARREMATE_ACABAMENTO_DATA = [
     "Frente": "261 - FRENTE PRÓPRIA  (EDMILSON)",
     "Responsável": "VITOR AMORIM RAMOS ",
     "Arremate e Acabamento": "BOM",
-    "Fazenda": NaN
+    "Fazenda": null,
+    "Unnamed: 18": null
   },
   {
     "ID": "3602217",
@@ -2898,7 +3046,8 @@ const ARREMATE_ACABAMENTO_DATA = [
     "Frente": "139 - FRENTE MANEZÃO",
     "Responsável": "MICHELI DE SOUZA SANTOS  ",
     "Arremate e Acabamento": "BOM",
-    "Fazenda": NaN
+    "Fazenda": null,
+    "Unnamed: 18": null
   },
   {
     "ID": "3602206",
@@ -2918,7 +3067,8 @@ const ARREMATE_ACABAMENTO_DATA = [
     "Frente": "139 - FRENTE MANEZÃO",
     "Responsável": "MICHELI DE SOUZA SANTOS  ",
     "Arremate e Acabamento": "BOM",
-    "Fazenda": NaN
+    "Fazenda": null,
+    "Unnamed: 18": null
   },
   {
     "ID": "3602484",
@@ -2938,7 +3088,8 @@ const ARREMATE_ACABAMENTO_DATA = [
     "Frente": "142 - FRENTE BIDU",
     "Responsável": "Leonardo Ribeiro Teixeira da Silva",
     "Arremate e Acabamento": "BOM",
-    "Fazenda": NaN
+    "Fazenda": null,
+    "Unnamed: 18": null
   },
   {
     "ID": "3601408",
@@ -2958,7 +3109,8 @@ const ARREMATE_ACABAMENTO_DATA = [
     "Frente": "261 - FRENTE PRÓPRIA  (EDMILSON)",
     "Responsável": "VITOR AMORIM RAMOS ",
     "Arremate e Acabamento": "BOM",
-    "Fazenda": NaN
+    "Fazenda": null,
+    "Unnamed: 18": null
   },
   {
     "ID": "3602482",
@@ -2978,7 +3130,8 @@ const ARREMATE_ACABAMENTO_DATA = [
     "Frente": "142 - FRENTE BIDU",
     "Responsável": "Leonardo Ribeiro Teixeira da Silva",
     "Arremate e Acabamento": "BOM",
-    "Fazenda": NaN
+    "Fazenda": null,
+    "Unnamed: 18": null
   },
   {
     "ID": "3601386",
@@ -2998,7 +3151,8 @@ const ARREMATE_ACABAMENTO_DATA = [
     "Frente": "261 - FRENTE PRÓPRIA  (EDMILSON)",
     "Responsável": "VITOR AMORIM RAMOS ",
     "Arremate e Acabamento": "BOM",
-    "Fazenda": NaN
+    "Fazenda": null,
+    "Unnamed: 18": null
   },
   {
     "ID": "3602476",
@@ -3018,7 +3172,8 @@ const ARREMATE_ACABAMENTO_DATA = [
     "Frente": "142 - FRENTE BIDU",
     "Responsável": "Leonardo Ribeiro Teixeira da Silva",
     "Arremate e Acabamento": "BOM",
-    "Fazenda": NaN
+    "Fazenda": null,
+    "Unnamed: 18": null
   },
   {
     "ID": "3601375",
@@ -3038,7 +3193,8 @@ const ARREMATE_ACABAMENTO_DATA = [
     "Frente": "261 - FRENTE PRÓPRIA  (EDMILSON)",
     "Responsável": "VITOR AMORIM RAMOS ",
     "Arremate e Acabamento": "BOM",
-    "Fazenda": NaN
+    "Fazenda": null,
+    "Unnamed: 18": null
   },
   {
     "ID": "3602455",
@@ -3058,7 +3214,8 @@ const ARREMATE_ACABAMENTO_DATA = [
     "Frente": "142 - FRENTE BIDU",
     "Responsável": "Leonardo Ribeiro Teixeira da Silva",
     "Arremate e Acabamento": "BOM",
-    "Fazenda": NaN
+    "Fazenda": null,
+    "Unnamed: 18": null
   },
   {
     "ID": "3601533",
@@ -3078,7 +3235,8 @@ const ARREMATE_ACABAMENTO_DATA = [
     "Frente": "105 - FRENTE CASSIO (ZACARIAS)",
     "Responsável": " Antonio ",
     "Arremate e Acabamento": "BOM",
-    "Fazenda": NaN
+    "Fazenda": null,
+    "Unnamed: 18": null
   },
   {
     "ID": "3601369",
@@ -3098,7 +3256,8 @@ const ARREMATE_ACABAMENTO_DATA = [
     "Frente": "261 - FRENTE PRÓPRIA  (EDMILSON)",
     "Responsável": "VITOR AMORIM RAMOS ",
     "Arremate e Acabamento": "BOM",
-    "Fazenda": NaN
+    "Fazenda": null,
+    "Unnamed: 18": null
   },
   {
     "ID": "3601349",
@@ -3118,7 +3277,8 @@ const ARREMATE_ACABAMENTO_DATA = [
     "Frente": "261 - FRENTE PRÓPRIA  (EDMILSON)",
     "Responsável": "VITOR AMORIM RAMOS ",
     "Arremate e Acabamento": "BOM",
-    "Fazenda": NaN
+    "Fazenda": null,
+    "Unnamed: 18": null
   },
   {
     "ID": "3600517",
@@ -3138,7 +3298,8 @@ const ARREMATE_ACABAMENTO_DATA = [
     "Frente": "135 - FRENTE PEDRINHO",
     "Responsável": "MARCELO DE OLIVEIRA JUNIOR",
     "Arremate e Acabamento": "BOM",
-    "Fazenda": NaN
+    "Fazenda": null,
+    "Unnamed: 18": null
   },
   {
     "ID": "3600516",
@@ -3158,7 +3319,8 @@ const ARREMATE_ACABAMENTO_DATA = [
     "Frente": "135 - FRENTE PEDRINHO",
     "Responsável": "MARCELO DE OLIVEIRA JUNIOR",
     "Arremate e Acabamento": "BOM",
-    "Fazenda": NaN
+    "Fazenda": null,
+    "Unnamed: 18": null
   },
   {
     "ID": "3600511",
@@ -3178,7 +3340,8 @@ const ARREMATE_ACABAMENTO_DATA = [
     "Frente": "135 - FRENTE PEDRINHO",
     "Responsável": "MARCELO DE OLIVEIRA JUNIOR",
     "Arremate e Acabamento": "BOM",
-    "Fazenda": NaN
+    "Fazenda": null,
+    "Unnamed: 18": null
   },
   {
     "ID": "3599130",
@@ -3198,7 +3361,8 @@ const ARREMATE_ACABAMENTO_DATA = [
     "Frente": "101 - FRENTE MECANIZADA",
     "Responsável": "NILDA CLAUDINO [2510716]",
     "Arremate e Acabamento": "BOM",
-    "Fazenda": NaN
+    "Fazenda": null,
+    "Unnamed: 18": null
   },
   {
     "ID": "3599128",
@@ -3218,7 +3382,8 @@ const ARREMATE_ACABAMENTO_DATA = [
     "Frente": "101 - FRENTE MECANIZADA",
     "Responsável": "NILDA CLAUDINO [2510716]",
     "Arremate e Acabamento": "BOM",
-    "Fazenda": NaN
+    "Fazenda": null,
+    "Unnamed: 18": null
   },
   {
     "ID": "3599159",
@@ -3238,7 +3403,8 @@ const ARREMATE_ACABAMENTO_DATA = [
     "Frente": "261 - FRENTE PRÓPRIA  (EDMILSON)",
     "Responsável": "VITOR AMORIM RAMOS ",
     "Arremate e Acabamento": "BOM",
-    "Fazenda": NaN
+    "Fazenda": null,
+    "Unnamed: 18": null
   },
   {
     "ID": "3599158",
@@ -3258,7 +3424,8 @@ const ARREMATE_ACABAMENTO_DATA = [
     "Frente": "261 - FRENTE PRÓPRIA  (EDMILSON)",
     "Responsável": "VITOR AMORIM RAMOS ",
     "Arremate e Acabamento": "BOM",
-    "Fazenda": NaN
+    "Fazenda": null,
+    "Unnamed: 18": null
   },
   {
     "ID": "3599513",
@@ -3278,7 +3445,8 @@ const ARREMATE_ACABAMENTO_DATA = [
     "Frente": "139 - FRENTE MANEZÃO",
     "Responsável": "MICHELI DE SOUZA SANTOS  ",
     "Arremate e Acabamento": "BOM",
-    "Fazenda": NaN
+    "Fazenda": null,
+    "Unnamed: 18": null
   },
   {
     "ID": "3599288",
@@ -3298,7 +3466,8 @@ const ARREMATE_ACABAMENTO_DATA = [
     "Frente": "105 - FRENTE CASSIO (ZACARIAS)",
     "Responsável": "GABRIEL HENRIQUE MARTINS PEREIRA",
     "Arremate e Acabamento": "BOM",
-    "Fazenda": NaN
+    "Fazenda": null,
+    "Unnamed: 18": null
   },
   {
     "ID": "3599272",
@@ -3318,7 +3487,8 @@ const ARREMATE_ACABAMENTO_DATA = [
     "Frente": "105 - FRENTE CASSIO (ZACARIAS)",
     "Responsável": "GABRIEL HENRIQUE MARTINS PEREIRA",
     "Arremate e Acabamento": "BOM",
-    "Fazenda": NaN
+    "Fazenda": null,
+    "Unnamed: 18": null
   },
   {
     "ID": "3599271",
@@ -3338,7 +3508,8 @@ const ARREMATE_ACABAMENTO_DATA = [
     "Frente": "105 - FRENTE CASSIO (ZACARIAS)",
     "Responsável": "GABRIEL HENRIQUE MARTINS PEREIRA",
     "Arremate e Acabamento": "BOM",
-    "Fazenda": NaN
+    "Fazenda": null,
+    "Unnamed: 18": null
   },
   {
     "ID": "3598760",
@@ -3358,7 +3529,8 @@ const ARREMATE_ACABAMENTO_DATA = [
     "Frente": "261 - FRENTE PRÓPRIA  (EDMILSON)",
     "Responsável": "VITOR AMORIM RAMOS ",
     "Arremate e Acabamento": "BOM",
-    "Fazenda": NaN
+    "Fazenda": null,
+    "Unnamed: 18": null
   },
   {
     "ID": "3599250",
@@ -3378,7 +3550,8 @@ const ARREMATE_ACABAMENTO_DATA = [
     "Frente": "105 - FRENTE CASSIO (ZACARIAS)",
     "Responsável": "GABRIEL HENRIQUE MARTINS PEREIRA",
     "Arremate e Acabamento": "BOM",
-    "Fazenda": NaN
+    "Fazenda": null,
+    "Unnamed: 18": null
   },
   {
     "ID": "3599502",
@@ -3398,7 +3571,8 @@ const ARREMATE_ACABAMENTO_DATA = [
     "Frente": "139 - FRENTE MANEZÃO",
     "Responsável": "MICHELI DE SOUZA SANTOS  ",
     "Arremate e Acabamento": "BOM",
-    "Fazenda": NaN
+    "Fazenda": null,
+    "Unnamed: 18": null
   },
   {
     "ID": "3598736",
@@ -3418,7 +3592,8 @@ const ARREMATE_ACABAMENTO_DATA = [
     "Frente": "261 - FRENTE PRÓPRIA  (EDMILSON)",
     "Responsável": "VITOR AMORIM RAMOS ",
     "Arremate e Acabamento": "BOM",
-    "Fazenda": NaN
+    "Fazenda": null,
+    "Unnamed: 18": null
   },
   {
     "ID": "3598725",
@@ -3438,7 +3613,8 @@ const ARREMATE_ACABAMENTO_DATA = [
     "Frente": "261 - FRENTE PRÓPRIA  (EDMILSON)",
     "Responsável": "VITOR AMORIM RAMOS ",
     "Arremate e Acabamento": "BOM",
-    "Fazenda": NaN
+    "Fazenda": null,
+    "Unnamed: 18": null
   },
   {
     "ID": "3598724",
@@ -3458,7 +3634,8 @@ const ARREMATE_ACABAMENTO_DATA = [
     "Frente": "261 - FRENTE PRÓPRIA  (EDMILSON)",
     "Responsável": "VITOR AMORIM RAMOS ",
     "Arremate e Acabamento": "BOM",
-    "Fazenda": NaN
+    "Fazenda": null,
+    "Unnamed: 18": null
   },
   {
     "ID": "3599301",
@@ -3478,7 +3655,8 @@ const ARREMATE_ACABAMENTO_DATA = [
     "Frente": "139 - FRENTE MANEZÃO",
     "Responsável": "MICHELI DE SOUZA SANTOS  ",
     "Arremate e Acabamento": "BOM",
-    "Fazenda": NaN
+    "Fazenda": null,
+    "Unnamed: 18": null
   },
   {
     "ID": "3598708",
@@ -3498,7 +3676,8 @@ const ARREMATE_ACABAMENTO_DATA = [
     "Frente": "261 - FRENTE PRÓPRIA  (EDMILSON)",
     "Responsável": "VITOR AMORIM RAMOS ",
     "Arremate e Acabamento": "BOM",
-    "Fazenda": NaN
+    "Fazenda": null,
+    "Unnamed: 18": null
   },
   {
     "ID": "3598697",
@@ -3518,7 +3697,8 @@ const ARREMATE_ACABAMENTO_DATA = [
     "Frente": "261 - FRENTE PRÓPRIA  (EDMILSON)",
     "Responsável": "VITOR AMORIM RAMOS ",
     "Arremate e Acabamento": "BOM",
-    "Fazenda": NaN
+    "Fazenda": null,
+    "Unnamed: 18": null
   },
   {
     "ID": "3596536",
@@ -3538,7 +3718,8 @@ const ARREMATE_ACABAMENTO_DATA = [
     "Frente": "261 - FRENTE PRÓPRIA  (EDMILSON)",
     "Responsável": "VITOR AMORIM RAMOS ",
     "Arremate e Acabamento": "BOM",
-    "Fazenda": NaN
+    "Fazenda": null,
+    "Unnamed: 18": null
   },
   {
     "ID": "3595915",
@@ -3558,7 +3739,8 @@ const ARREMATE_ACABAMENTO_DATA = [
     "Frente": "105 - FRENTE CASSIO (ZACARIAS)",
     "Responsável": "GABRIEL HENRIQUE MARTINS PEREIRA",
     "Arremate e Acabamento": "BOM",
-    "Fazenda": NaN
+    "Fazenda": null,
+    "Unnamed: 18": null
   },
   {
     "ID": "3596430",
@@ -3578,7 +3760,8 @@ const ARREMATE_ACABAMENTO_DATA = [
     "Frente": "142 - FRENTE BIDU",
     "Responsável": "Leonardo Ribeiro Teixeira da Silva",
     "Arremate e Acabamento": "BOM",
-    "Fazenda": NaN
+    "Fazenda": null,
+    "Unnamed: 18": null
   },
   {
     "ID": "3595689",
@@ -3598,7 +3781,8 @@ const ARREMATE_ACABAMENTO_DATA = [
     "Frente": "261 - FRENTE PRÓPRIA  (EDMILSON)",
     "Responsável": "VITOR AMORIM RAMOS ",
     "Arremate e Acabamento": "BOM",
-    "Fazenda": NaN
+    "Fazenda": null,
+    "Unnamed: 18": null
   },
   {
     "ID": "3596429",
@@ -3618,7 +3802,8 @@ const ARREMATE_ACABAMENTO_DATA = [
     "Frente": "142 - FRENTE BIDU",
     "Responsável": "Leonardo Ribeiro Teixeira da Silva",
     "Arremate e Acabamento": "BOM",
-    "Fazenda": NaN
+    "Fazenda": null,
+    "Unnamed: 18": null
   },
   {
     "ID": "3595647",
@@ -3638,7 +3823,8 @@ const ARREMATE_ACABAMENTO_DATA = [
     "Frente": "261 - FRENTE PRÓPRIA  (EDMILSON)",
     "Responsável": "VITOR AMORIM RAMOS ",
     "Arremate e Acabamento": "BOM",
-    "Fazenda": NaN
+    "Fazenda": null,
+    "Unnamed: 18": null
   },
   {
     "ID": "3596251",
@@ -3658,7 +3844,8 @@ const ARREMATE_ACABAMENTO_DATA = [
     "Frente": "142 - FRENTE BIDU",
     "Responsável": "Leonardo Ribeiro Teixeira da Silva",
     "Arremate e Acabamento": "BOM",
-    "Fazenda": NaN
+    "Fazenda": null,
+    "Unnamed: 18": null
   },
   {
     "ID": "3595680",
@@ -3678,7 +3865,8 @@ const ARREMATE_ACABAMENTO_DATA = [
     "Frente": "143 - FRENTE CASSIO",
     "Responsável": " Antonio ",
     "Arremate e Acabamento": "BOM",
-    "Fazenda": NaN
+    "Fazenda": null,
+    "Unnamed: 18": null
   },
   {
     "ID": "3595622",
@@ -3698,7 +3886,8 @@ const ARREMATE_ACABAMENTO_DATA = [
     "Frente": "261 - FRENTE PRÓPRIA  (EDMILSON)",
     "Responsável": "VITOR AMORIM RAMOS ",
     "Arremate e Acabamento": "BOM",
-    "Fazenda": NaN
+    "Fazenda": null,
+    "Unnamed: 18": null
   },
   {
     "ID": "3595889",
@@ -3718,7 +3907,8 @@ const ARREMATE_ACABAMENTO_DATA = [
     "Frente": "105 - FRENTE CASSIO (ZACARIAS)",
     "Responsável": "GABRIEL HENRIQUE MARTINS PEREIRA",
     "Arremate e Acabamento": "BOM",
-    "Fazenda": NaN
+    "Fazenda": null,
+    "Unnamed: 18": null
   },
   {
     "ID": "3595888",
@@ -3738,7 +3928,8 @@ const ARREMATE_ACABAMENTO_DATA = [
     "Frente": "105 - FRENTE CASSIO (ZACARIAS)",
     "Responsável": "GABRIEL HENRIQUE MARTINS PEREIRA",
     "Arremate e Acabamento": "BOM",
-    "Fazenda": NaN
+    "Fazenda": null,
+    "Unnamed: 18": null
   },
   {
     "ID": "3595867",
@@ -3758,7 +3949,8 @@ const ARREMATE_ACABAMENTO_DATA = [
     "Frente": "105 - FRENTE CASSIO (ZACARIAS)",
     "Responsável": "GABRIEL HENRIQUE MARTINS PEREIRA",
     "Arremate e Acabamento": "BOM",
-    "Fazenda": NaN
+    "Fazenda": null,
+    "Unnamed: 18": null
   },
   {
     "ID": "3594625",
@@ -3778,7 +3970,8 @@ const ARREMATE_ACABAMENTO_DATA = [
     "Frente": "139 - FRENTE MANEZÃO",
     "Responsável": "MICHELI DE SOUZA SANTOS  ",
     "Arremate e Acabamento": "BOM",
-    "Fazenda": NaN
+    "Fazenda": null,
+    "Unnamed: 18": null
   },
   {
     "ID": "3594618",
@@ -3798,7 +3991,8 @@ const ARREMATE_ACABAMENTO_DATA = [
     "Frente": "139 - FRENTE MANEZÃO",
     "Responsável": "MICHELI DE SOUZA SANTOS  ",
     "Arremate e Acabamento": "BOM",
-    "Fazenda": NaN
+    "Fazenda": null,
+    "Unnamed: 18": null
   },
   {
     "ID": "3594977",
@@ -3818,7 +4012,8 @@ const ARREMATE_ACABAMENTO_DATA = [
     "Frente": "261 - FRENTE PRÓPRIA  (EDMILSON)",
     "Responsável": "VITOR AMORIM RAMOS ",
     "Arremate e Acabamento": "BOM",
-    "Fazenda": NaN
+    "Fazenda": null,
+    "Unnamed: 18": null
   },
   {
     "ID": "3593822",
@@ -3838,7 +4033,8 @@ const ARREMATE_ACABAMENTO_DATA = [
     "Frente": "143 - FRENTE CASSIO",
     "Responsável": " Antonio ",
     "Arremate e Acabamento": "BOM",
-    "Fazenda": NaN
+    "Fazenda": null,
+    "Unnamed: 18": null
   },
   {
     "ID": "3594552",
@@ -3858,7 +4054,8 @@ const ARREMATE_ACABAMENTO_DATA = [
     "Frente": "139 - FRENTE MANEZÃO",
     "Responsável": "MICHELI DE SOUZA SANTOS  ",
     "Arremate e Acabamento": "BOM",
-    "Fazenda": NaN
+    "Fazenda": null,
+    "Unnamed: 18": null
   },
   {
     "ID": "3594961",
@@ -3878,7 +4075,8 @@ const ARREMATE_ACABAMENTO_DATA = [
     "Frente": "261 - FRENTE PRÓPRIA  (EDMILSON)",
     "Responsável": "VITOR AMORIM RAMOS ",
     "Arremate e Acabamento": "BOM",
-    "Fazenda": NaN
+    "Fazenda": null,
+    "Unnamed: 18": null
   },
   {
     "ID": "3593348",
@@ -3898,7 +4096,8 @@ const ARREMATE_ACABAMENTO_DATA = [
     "Frente": "105 - FRENTE CASSIO (ZACARIAS)",
     "Responsável": "NILDA CLAUDINO [2510716]",
     "Arremate e Acabamento": "BOM",
-    "Fazenda": NaN
+    "Fazenda": null,
+    "Unnamed: 18": null
   },
   {
     "ID": "3592994",
@@ -3918,7 +4117,8 @@ const ARREMATE_ACABAMENTO_DATA = [
     "Frente": "261 - FRENTE PRÓPRIA  (EDMILSON)",
     "Responsável": "VITOR AMORIM RAMOS ",
     "Arremate e Acabamento": "BOM",
-    "Fazenda": NaN
+    "Fazenda": null,
+    "Unnamed: 18": null
   },
   {
     "ID": "3594497",
@@ -3938,7 +4138,8 @@ const ARREMATE_ACABAMENTO_DATA = [
     "Frente": "139 - FRENTE MANEZÃO",
     "Responsável": "MICHELI DE SOUZA SANTOS  ",
     "Arremate e Acabamento": "BOM",
-    "Fazenda": NaN
+    "Fazenda": null,
+    "Unnamed: 18": null
   },
   {
     "ID": "3594486",
@@ -3958,7 +4159,8 @@ const ARREMATE_ACABAMENTO_DATA = [
     "Frente": "139 - FRENTE MANEZÃO",
     "Responsável": "MICHELI DE SOUZA SANTOS  ",
     "Arremate e Acabamento": "BOM",
-    "Fazenda": NaN
+    "Fazenda": null,
+    "Unnamed: 18": null
   },
   {
     "ID": "3595300",
@@ -3978,7 +4180,8 @@ const ARREMATE_ACABAMENTO_DATA = [
     "Frente": "142 - FRENTE BIDU",
     "Responsável": "Leonardo Ribeiro Teixeira da Silva",
     "Arremate e Acabamento": "BOM",
-    "Fazenda": NaN
+    "Fazenda": null,
+    "Unnamed: 18": null
   },
   {
     "ID": "3594485",
@@ -3998,7 +4201,8 @@ const ARREMATE_ACABAMENTO_DATA = [
     "Frente": "139 - FRENTE MANEZÃO",
     "Responsável": "MICHELI DE SOUZA SANTOS  ",
     "Arremate e Acabamento": "BOM",
-    "Fazenda": NaN
+    "Fazenda": null,
+    "Unnamed: 18": null
   },
   {
     "ID": "3592980",
@@ -4018,7 +4222,8 @@ const ARREMATE_ACABAMENTO_DATA = [
     "Frente": "261 - FRENTE PRÓPRIA  (EDMILSON)",
     "Responsável": "VITOR AMORIM RAMOS ",
     "Arremate e Acabamento": "BOM",
-    "Fazenda": NaN
+    "Fazenda": null,
+    "Unnamed: 18": null
   },
   {
     "ID": "3595286",
@@ -4038,7 +4243,8 @@ const ARREMATE_ACABAMENTO_DATA = [
     "Frente": "142 - FRENTE BIDU",
     "Responsável": "Leonardo Ribeiro Teixeira da Silva",
     "Arremate e Acabamento": "BOM",
-    "Fazenda": NaN
+    "Fazenda": null,
+    "Unnamed: 18": null
   },
   {
     "ID": "3594469",
@@ -4058,7 +4264,8 @@ const ARREMATE_ACABAMENTO_DATA = [
     "Frente": "139 - FRENTE MANEZÃO",
     "Responsável": "MICHELI DE SOUZA SANTOS  ",
     "Arremate e Acabamento": "BOM",
-    "Fazenda": NaN
+    "Fazenda": null,
+    "Unnamed: 18": null
   },
   {
     "ID": "3592969",
@@ -4078,7 +4285,8 @@ const ARREMATE_ACABAMENTO_DATA = [
     "Frente": "261 - FRENTE PRÓPRIA  (EDMILSON)",
     "Responsável": "VITOR AMORIM RAMOS ",
     "Arremate e Acabamento": "BOM",
-    "Fazenda": NaN
+    "Fazenda": null,
+    "Unnamed: 18": null
   },
   {
     "ID": "3592958",
@@ -4098,7 +4306,8 @@ const ARREMATE_ACABAMENTO_DATA = [
     "Frente": "261 - FRENTE PRÓPRIA  (EDMILSON)",
     "Responsável": "VITOR AMORIM RAMOS ",
     "Arremate e Acabamento": "BOM",
-    "Fazenda": NaN
+    "Fazenda": null,
+    "Unnamed: 18": null
   },
   {
     "ID": "3592957",
@@ -4118,7 +4327,8 @@ const ARREMATE_ACABAMENTO_DATA = [
     "Frente": "261 - FRENTE PRÓPRIA  (EDMILSON)",
     "Responsável": "VITOR AMORIM RAMOS ",
     "Arremate e Acabamento": "BOM",
-    "Fazenda": NaN
+    "Fazenda": null,
+    "Unnamed: 18": null
   },
   {
     "ID": "3591165",
@@ -4138,7 +4348,8 @@ const ARREMATE_ACABAMENTO_DATA = [
     "Frente": "261 - FRENTE PRÓPRIA  (EDMILSON)",
     "Responsável": "VITOR AMORIM RAMOS ",
     "Arremate e Acabamento": "BOM",
-    "Fazenda": NaN
+    "Fazenda": null,
+    "Unnamed: 18": null
   },
   {
     "ID": "3590582",
@@ -4158,7 +4369,8 @@ const ARREMATE_ACABAMENTO_DATA = [
     "Frente": "143 - FRENTE CASSIO",
     "Responsável": " Antonio ",
     "Arremate e Acabamento": "BOM",
-    "Fazenda": NaN
+    "Fazenda": null,
+    "Unnamed: 18": null
   },
   {
     "ID": "3591098",
@@ -4178,7 +4390,8 @@ const ARREMATE_ACABAMENTO_DATA = [
     "Frente": "139 - FRENTE MANEZÃO",
     "Responsável": "MICHELI DE SOUZA SANTOS  ",
     "Arremate e Acabamento": "BOM",
-    "Fazenda": NaN
+    "Fazenda": null,
+    "Unnamed: 18": null
   },
   {
     "ID": "3591162",
@@ -4198,7 +4411,8 @@ const ARREMATE_ACABAMENTO_DATA = [
     "Frente": "261 - FRENTE PRÓPRIA  (EDMILSON)",
     "Responsável": "VITOR AMORIM RAMOS ",
     "Arremate e Acabamento": "BOM",
-    "Fazenda": NaN
+    "Fazenda": null,
+    "Unnamed: 18": null
   },
   {
     "ID": "3592504",
@@ -4218,7 +4432,8 @@ const ARREMATE_ACABAMENTO_DATA = [
     "Frente": "135 - FRENTE PEDRINHO",
     "Responsável": "MARCELO DE OLIVEIRA JUNIOR",
     "Arremate e Acabamento": "BOM",
-    "Fazenda": NaN
+    "Fazenda": null,
+    "Unnamed: 18": null
   },
   {
     "ID": "3591084",
@@ -4238,7 +4453,8 @@ const ARREMATE_ACABAMENTO_DATA = [
     "Frente": "139 - FRENTE MANEZÃO",
     "Responsável": "MICHELI DE SOUZA SANTOS  ",
     "Arremate e Acabamento": "BOM",
-    "Fazenda": NaN
+    "Fazenda": null,
+    "Unnamed: 18": null
   },
   {
     "ID": "3591083",
@@ -4258,7 +4474,8 @@ const ARREMATE_ACABAMENTO_DATA = [
     "Frente": "139 - FRENTE MANEZÃO",
     "Responsável": "MABILA HELEN D FIGUEIREDO",
     "Arremate e Acabamento": "BOM",
-    "Fazenda": NaN
+    "Fazenda": null,
+    "Unnamed: 18": null
   },
   {
     "ID": "3592503",
@@ -4278,7 +4495,8 @@ const ARREMATE_ACABAMENTO_DATA = [
     "Frente": "135 - FRENTE PEDRINHO",
     "Responsável": "MARCELO DE OLIVEIRA JUNIOR",
     "Arremate e Acabamento": "BOM",
-    "Fazenda": NaN
+    "Fazenda": null,
+    "Unnamed: 18": null
   },
   {
     "ID": "3592496",
@@ -4298,7 +4516,8 @@ const ARREMATE_ACABAMENTO_DATA = [
     "Frente": "135 - FRENTE PEDRINHO",
     "Responsável": "MARCELO DE OLIVEIRA JUNIOR",
     "Arremate e Acabamento": "BOM",
-    "Fazenda": NaN
+    "Fazenda": null,
+    "Unnamed: 18": null
   },
   {
     "ID": "3591155",
@@ -4318,7 +4537,8 @@ const ARREMATE_ACABAMENTO_DATA = [
     "Frente": "261 - FRENTE PRÓPRIA  (EDMILSON)",
     "Responsável": "VITOR AMORIM RAMOS ",
     "Arremate e Acabamento": "BOM",
-    "Fazenda": NaN
+    "Fazenda": null,
+    "Unnamed: 18": null
   },
   {
     "ID": "3591154",
@@ -4338,7 +4558,8 @@ const ARREMATE_ACABAMENTO_DATA = [
     "Frente": "261 - FRENTE PRÓPRIA  (EDMILSON)",
     "Responsável": "VITOR AMORIM RAMOS ",
     "Arremate e Acabamento": "BOM",
-    "Fazenda": NaN
+    "Fazenda": null,
+    "Unnamed: 18": null
   },
   {
     "ID": "3590357",
@@ -4358,7 +4579,8 @@ const ARREMATE_ACABAMENTO_DATA = [
     "Frente": "105 - FRENTE CASSIO (ZACARIAS)",
     "Responsável": "NILDA CLAUDINO [2510716]",
     "Arremate e Acabamento": "BOM",
-    "Fazenda": NaN
+    "Fazenda": null,
+    "Unnamed: 18": null
   },
   {
     "ID": "3591106",
@@ -4378,7 +4600,8 @@ const ARREMATE_ACABAMENTO_DATA = [
     "Frente": "142 - FRENTE BIDU",
     "Responsável": "Leonardo Ribeiro Teixeira da Silva",
     "Arremate e Acabamento": "BOM",
-    "Fazenda": NaN
+    "Fazenda": null,
+    "Unnamed: 18": null
   },
   {
     "ID": "3591118",
@@ -4398,7 +4621,8 @@ const ARREMATE_ACABAMENTO_DATA = [
     "Frente": "261 - FRENTE PRÓPRIA  (EDMILSON)",
     "Responsável": "VITOR AMORIM RAMOS ",
     "Arremate e Acabamento": "BOM",
-    "Fazenda": NaN
+    "Fazenda": null,
+    "Unnamed: 18": null
   },
   {
     "ID": "3590335",
@@ -4418,7 +4642,8 @@ const ARREMATE_ACABAMENTO_DATA = [
     "Frente": "105 - FRENTE CASSIO (ZACARIAS)",
     "Responsável": "NILDA CLAUDINO [2510716]",
     "Arremate e Acabamento": "BOM",
-    "Fazenda": NaN
+    "Fazenda": null,
+    "Unnamed: 18": null
   },
   {
     "ID": "3590996",
@@ -4438,7 +4663,8 @@ const ARREMATE_ACABAMENTO_DATA = [
     "Frente": "142 - FRENTE BIDU",
     "Responsável": "Ruan Alexandre Lopes",
     "Arremate e Acabamento": "BOM",
-    "Fazenda": NaN
+    "Fazenda": null,
+    "Unnamed: 18": null
   },
   {
     "ID": "3590995",
@@ -4458,7 +4684,8 @@ const ARREMATE_ACABAMENTO_DATA = [
     "Frente": "142 - FRENTE BIDU",
     "Responsável": "Ruan Alexandre Lopes",
     "Arremate e Acabamento": "BOM",
-    "Fazenda": NaN
+    "Fazenda": null,
+    "Unnamed: 18": null
   },
   {
     "ID": "3591054",
@@ -4478,7 +4705,8 @@ const ARREMATE_ACABAMENTO_DATA = [
     "Frente": "142 - FRENTE BIDU",
     "Responsável": "Leonardo Ribeiro Teixeira da Silva",
     "Arremate e Acabamento": "BOM",
-    "Fazenda": NaN
+    "Fazenda": null,
+    "Unnamed: 18": null
   },
   {
     "ID": "3587344",
@@ -4498,7 +4726,8 @@ const ARREMATE_ACABAMENTO_DATA = [
     "Frente": "139 - FRENTE MANEZÃO",
     "Responsável": "MICHELI DE SOUZA SANTOS  ",
     "Arremate e Acabamento": "BOM",
-    "Fazenda": NaN
+    "Fazenda": null,
+    "Unnamed: 18": null
   },
   {
     "ID": "3587824",
@@ -4518,7 +4747,8 @@ const ARREMATE_ACABAMENTO_DATA = [
     "Frente": "261 - FRENTE PRÓPRIA  (EDMILSON)",
     "Responsável": "VITOR AMORIM RAMOS ",
     "Arremate e Acabamento": "BOM",
-    "Fazenda": NaN
+    "Fazenda": null,
+    "Unnamed: 18": null
   },
   {
     "ID": "3588509",
@@ -4538,7 +4768,8 @@ const ARREMATE_ACABAMENTO_DATA = [
     "Frente": "135 - FRENTE PEDRINHO",
     "Responsável": "MARCELO DE OLIVEIRA JUNIOR",
     "Arremate e Acabamento": "BOM",
-    "Fazenda": NaN
+    "Fazenda": null,
+    "Unnamed: 18": null
   },
   {
     "ID": "3587802",
@@ -4558,7 +4789,8 @@ const ARREMATE_ACABAMENTO_DATA = [
     "Frente": "261 - FRENTE PRÓPRIA  (EDMILSON)",
     "Responsável": "VITOR AMORIM RAMOS ",
     "Arremate e Acabamento": "BOM",
-    "Fazenda": NaN
+    "Fazenda": null,
+    "Unnamed: 18": null
   },
   {
     "ID": "3588485",
@@ -4578,7 +4810,8 @@ const ARREMATE_ACABAMENTO_DATA = [
     "Frente": "135 - FRENTE PEDRINHO",
     "Responsável": "MARCELO DE OLIVEIRA JUNIOR",
     "Arremate e Acabamento": "BOM",
-    "Fazenda": NaN
+    "Fazenda": null,
+    "Unnamed: 18": null
   },
   {
     "ID": "3588469",
@@ -4598,7 +4831,8 @@ const ARREMATE_ACABAMENTO_DATA = [
     "Frente": "135 - FRENTE PEDRINHO",
     "Responsável": "MARCELO DE OLIVEIRA JUNIOR",
     "Arremate e Acabamento": "BOM",
-    "Fazenda": NaN
+    "Fazenda": null,
+    "Unnamed: 18": null
   },
   {
     "ID": "3587917",
@@ -4618,7 +4852,8 @@ const ARREMATE_ACABAMENTO_DATA = [
     "Frente": "142 - FRENTE BIDU",
     "Responsável": "Leonardo Ribeiro Teixeira da Silva",
     "Arremate e Acabamento": "BOM",
-    "Fazenda": NaN
+    "Fazenda": null,
+    "Unnamed: 18": null
   },
   {
     "ID": "3587916",
@@ -4638,7 +4873,8 @@ const ARREMATE_ACABAMENTO_DATA = [
     "Frente": "142 - FRENTE BIDU",
     "Responsável": "Ruan Alexandre Lopes",
     "Arremate e Acabamento": "BOM",
-    "Fazenda": NaN
+    "Fazenda": null,
+    "Unnamed: 18": null
   },
   {
     "ID": "3587915",
@@ -4658,7 +4894,8 @@ const ARREMATE_ACABAMENTO_DATA = [
     "Frente": "142 - FRENTE BIDU",
     "Responsável": "Ruan Alexandre Lopes",
     "Arremate e Acabamento": "BOM",
-    "Fazenda": NaN
+    "Fazenda": null,
+    "Unnamed: 18": null
   },
   {
     "ID": "3587240",
@@ -4678,7 +4915,8 @@ const ARREMATE_ACABAMENTO_DATA = [
     "Frente": "139 - FRENTE MANEZÃO",
     "Responsável": "MICHELI DE SOUZA SANTOS  ",
     "Arremate e Acabamento": "BOM",
-    "Fazenda": NaN
+    "Fazenda": null,
+    "Unnamed: 18": null
   },
   {
     "ID": "3587914",
@@ -4698,7 +4936,8 @@ const ARREMATE_ACABAMENTO_DATA = [
     "Frente": "142 - FRENTE BIDU",
     "Responsável": "Ruan Alexandre Lopes",
     "Arremate e Acabamento": "BOM",
-    "Fazenda": NaN
+    "Fazenda": null,
+    "Unnamed: 18": null
   },
   {
     "ID": "3587730",
@@ -4718,7 +4957,8 @@ const ARREMATE_ACABAMENTO_DATA = [
     "Frente": "143 - FRENTE CASSIO",
     "Responsável": "GABRIEL HENRIQUE MARTINS PEREIRA",
     "Arremate e Acabamento": "BOM",
-    "Fazenda": NaN
+    "Fazenda": null,
+    "Unnamed: 18": null
   },
   {
     "ID": "3588464",
@@ -4738,7 +4978,8 @@ const ARREMATE_ACABAMENTO_DATA = [
     "Frente": "135 - FRENTE PEDRINHO",
     "Responsável": "MARCELO DE OLIVEIRA JUNIOR",
     "Arremate e Acabamento": "BOM",
-    "Fazenda": NaN
+    "Fazenda": null,
+    "Unnamed: 18": null
   },
   {
     "ID": "3587023",
@@ -4758,7 +4999,8 @@ const ARREMATE_ACABAMENTO_DATA = [
     "Frente": "261 - FRENTE PRÓPRIA  (EDMILSON)",
     "Responsável": "VITOR AMORIM RAMOS ",
     "Arremate e Acabamento": "BOM",
-    "Fazenda": NaN
+    "Fazenda": null,
+    "Unnamed: 18": null
   },
   {
     "ID": "3587396",
@@ -4778,7 +5020,8 @@ const ARREMATE_ACABAMENTO_DATA = [
     "Frente": "143 - FRENTE CASSIO",
     "Responsável": "GABRIEL HENRIQUE MARTINS PEREIRA",
     "Arremate e Acabamento": "BOM",
-    "Fazenda": NaN
+    "Fazenda": null,
+    "Unnamed: 18": null
   },
   {
     "ID": "3585171",
@@ -4798,7 +5041,8 @@ const ARREMATE_ACABAMENTO_DATA = [
     "Frente": "143 - FRENTE CASSIO",
     "Responsável": "GABRIEL HENRIQUE MARTINS PEREIRA",
     "Arremate e Acabamento": "BOM",
-    "Fazenda": NaN
+    "Fazenda": null,
+    "Unnamed: 18": null
   },
   {
     "ID": "3584219",
@@ -4818,7 +5062,8 @@ const ARREMATE_ACABAMENTO_DATA = [
     "Frente": "142 - FRENTE BIDU",
     "Responsável": "Leonardo Ribeiro Teixeira da Silva",
     "Arremate e Acabamento": "BOM",
-    "Fazenda": NaN
+    "Fazenda": null,
+    "Unnamed: 18": null
   },
   {
     "ID": "3586246",
@@ -4838,7 +5083,8 @@ const ARREMATE_ACABAMENTO_DATA = [
     "Frente": "139 - FRENTE MANEZÃO",
     "Responsável": "MICHELI DE SOUZA SANTOS  ",
     "Arremate e Acabamento": "BOM",
-    "Fazenda": NaN
+    "Fazenda": null,
+    "Unnamed: 18": null
   },
   {
     "ID": "3584136",
@@ -4858,7 +5104,8 @@ const ARREMATE_ACABAMENTO_DATA = [
     "Frente": "261 - FRENTE PRÓPRIA  (EDMILSON)",
     "Responsável": "VITOR AMORIM RAMOS ",
     "Arremate e Acabamento": "BOM",
-    "Fazenda": NaN
+    "Fazenda": null,
+    "Unnamed: 18": null
   },
   {
     "ID": "3584135",
@@ -4878,7 +5125,8 @@ const ARREMATE_ACABAMENTO_DATA = [
     "Frente": "261 - FRENTE PRÓPRIA  (EDMILSON)",
     "Responsável": "VITOR AMORIM RAMOS ",
     "Arremate e Acabamento": "BOM",
-    "Fazenda": NaN
+    "Fazenda": null,
+    "Unnamed: 18": null
   },
   {
     "ID": "3585072",
@@ -4898,7 +5146,8 @@ const ARREMATE_ACABAMENTO_DATA = [
     "Frente": "105 - FRENTE CASSIO (ZACARIAS)",
     "Responsável": "NILDA CLAUDINO [2510716]",
     "Arremate e Acabamento": "BOM",
-    "Fazenda": NaN
+    "Fazenda": null,
+    "Unnamed: 18": null
   },
   {
     "ID": "3586215",
@@ -4918,7 +5167,8 @@ const ARREMATE_ACABAMENTO_DATA = [
     "Frente": "139 - FRENTE MANEZÃO",
     "Responsável": "MICHELI DE SOUZA SANTOS  ",
     "Arremate e Acabamento": "BOM",
-    "Fazenda": NaN
+    "Fazenda": null,
+    "Unnamed: 18": null
   },
   {
     "ID": "3584082",
@@ -4938,7 +5188,8 @@ const ARREMATE_ACABAMENTO_DATA = [
     "Frente": "142 - FRENTE BIDU",
     "Responsável": "Leonardo Ribeiro Teixeira da Silva",
     "Arremate e Acabamento": "BOM",
-    "Fazenda": NaN
+    "Fazenda": null,
+    "Unnamed: 18": null
   },
   {
     "ID": "3584112",
@@ -4958,7 +5209,8 @@ const ARREMATE_ACABAMENTO_DATA = [
     "Frente": "261 - FRENTE PRÓPRIA  (EDMILSON)",
     "Responsável": "VITOR AMORIM RAMOS ",
     "Arremate e Acabamento": "BOM",
-    "Fazenda": NaN
+    "Fazenda": null,
+    "Unnamed: 18": null
   },
   {
     "ID": "3584015",
@@ -4978,7 +5230,8 @@ const ARREMATE_ACABAMENTO_DATA = [
     "Frente": "261 - FRENTE PRÓPRIA  (EDMILSON)",
     "Responsável": "VITOR AMORIM RAMOS ",
     "Arremate e Acabamento": "BOM",
-    "Fazenda": NaN
+    "Fazenda": null,
+    "Unnamed: 18": null
   },
   {
     "ID": "3583989",
@@ -4998,7 +5251,8 @@ const ARREMATE_ACABAMENTO_DATA = [
     "Frente": "261 - FRENTE PRÓPRIA  (EDMILSON)",
     "Responsável": "VITOR AMORIM RAMOS ",
     "Arremate e Acabamento": "BOM",
-    "Fazenda": NaN
+    "Fazenda": null,
+    "Unnamed: 18": null
   },
   {
     "ID": "3585074",
@@ -5018,7 +5272,8 @@ const ARREMATE_ACABAMENTO_DATA = [
     "Frente": "143 - FRENTE CASSIO",
     "Responsável": "GABRIEL HENRIQUE MARTINS PEREIRA",
     "Arremate e Acabamento": "BOM",
-    "Fazenda": NaN
+    "Fazenda": null,
+    "Unnamed: 18": null
   },
   {
     "ID": "3585062",
@@ -5038,7 +5293,8 @@ const ARREMATE_ACABAMENTO_DATA = [
     "Frente": "143 - FRENTE CASSIO",
     "Responsável": "GABRIEL HENRIQUE MARTINS PEREIRA",
     "Arremate e Acabamento": "BOM",
-    "Fazenda": NaN
+    "Fazenda": null,
+    "Unnamed: 18": null
   },
   {
     "ID": "3581953",
@@ -5058,7 +5314,8 @@ const ARREMATE_ACABAMENTO_DATA = [
     "Frente": "261 - FRENTE PRÓPRIA  (EDMILSON)",
     "Responsável": "VITOR AMORIM RAMOS ",
     "Arremate e Acabamento": "BOM",
-    "Fazenda": NaN
+    "Fazenda": null,
+    "Unnamed: 18": null
   },
   {
     "ID": "3581951",
@@ -5078,7 +5335,8 @@ const ARREMATE_ACABAMENTO_DATA = [
     "Frente": "261 - FRENTE PRÓPRIA  (EDMILSON)",
     "Responsável": "VITOR AMORIM RAMOS ",
     "Arremate e Acabamento": "BOM",
-    "Fazenda": NaN
+    "Fazenda": null,
+    "Unnamed: 18": null
   },
   {
     "ID": "3581819",
@@ -5098,7 +5356,8 @@ const ARREMATE_ACABAMENTO_DATA = [
     "Frente": "135 - FRENTE PEDRINHO",
     "Responsável": "MARCELO DE OLIVEIRA JUNIOR",
     "Arremate e Acabamento": "BOM",
-    "Fazenda": NaN
+    "Fazenda": null,
+    "Unnamed: 18": null
   },
   {
     "ID": "3581971",
@@ -5118,7 +5377,8 @@ const ARREMATE_ACABAMENTO_DATA = [
     "Frente": "142 - FRENTE BIDU",
     "Responsável": "Leonardo Ribeiro Teixeira da Silva",
     "Arremate e Acabamento": "BOM",
-    "Fazenda": NaN
+    "Fazenda": null,
+    "Unnamed: 18": null
   },
   {
     "ID": "3581814",
@@ -5138,7 +5398,8 @@ const ARREMATE_ACABAMENTO_DATA = [
     "Frente": "135 - FRENTE PEDRINHO",
     "Responsável": "MARCELO DE OLIVEIRA JUNIOR",
     "Arremate e Acabamento": "BOM",
-    "Fazenda": NaN
+    "Fazenda": null,
+    "Unnamed: 18": null
   },
   {
     "ID": "3581921",
@@ -5158,7 +5419,8 @@ const ARREMATE_ACABAMENTO_DATA = [
     "Frente": "261 - FRENTE PRÓPRIA  (EDMILSON)",
     "Responsável": "VITOR AMORIM RAMOS ",
     "Arremate e Acabamento": "BOM",
-    "Fazenda": NaN
+    "Fazenda": null,
+    "Unnamed: 18": null
   },
   {
     "ID": "3583584",
@@ -5178,7 +5440,8 @@ const ARREMATE_ACABAMENTO_DATA = [
     "Frente": "139 - FRENTE MANEZÃO",
     "Responsável": "MICHELI DE SOUZA SANTOS  ",
     "Arremate e Acabamento": "BOM",
-    "Fazenda": NaN
+    "Fazenda": null,
+    "Unnamed: 18": null
   },
   {
     "ID": "3581217",
@@ -5198,7 +5461,8 @@ const ARREMATE_ACABAMENTO_DATA = [
     "Frente": "261 - FRENTE PRÓPRIA  (EDMILSON)",
     "Responsável": "VITOR AMORIM RAMOS ",
     "Arremate e Acabamento": "BOM",
-    "Fazenda": NaN
+    "Fazenda": null,
+    "Unnamed: 18": null
   },
   {
     "ID": "3581214",
@@ -5218,7 +5482,8 @@ const ARREMATE_ACABAMENTO_DATA = [
     "Frente": "261 - FRENTE PRÓPRIA  (EDMILSON)",
     "Responsável": "VITOR AMORIM RAMOS ",
     "Arremate e Acabamento": "BOM",
-    "Fazenda": NaN
+    "Fazenda": null,
+    "Unnamed: 18": null
   },
   {
     "ID": "3581396",
@@ -5238,7 +5503,8 @@ const ARREMATE_ACABAMENTO_DATA = [
     "Frente": "105 - FRENTE CASSIO (ZACARIAS)",
     "Responsável": "NILDA CLAUDINO [2510716]",
     "Arremate e Acabamento": "BOM",
-    "Fazenda": NaN
+    "Fazenda": null,
+    "Unnamed: 18": null
   },
   {
     "ID": "3581048",
@@ -5258,7 +5524,8 @@ const ARREMATE_ACABAMENTO_DATA = [
     "Frente": "142 - FRENTE BIDU",
     "Responsável": "Leonardo Ribeiro Teixeira da Silva",
     "Arremate e Acabamento": "BOM",
-    "Fazenda": NaN
+    "Fazenda": null,
+    "Unnamed: 18": null
   },
   {
     "ID": "3581046",
@@ -5278,7 +5545,8 @@ const ARREMATE_ACABAMENTO_DATA = [
     "Frente": "142 - FRENTE BIDU",
     "Responsável": "Leonardo Ribeiro Teixeira da Silva",
     "Arremate e Acabamento": "BOM",
-    "Fazenda": NaN
+    "Fazenda": null,
+    "Unnamed: 18": null
   },
   {
     "ID": "3581805",
@@ -5298,7 +5566,8 @@ const ARREMATE_ACABAMENTO_DATA = [
     "Frente": "143 - FRENTE CASSIO",
     "Responsável": "GABRIEL HENRIQUE MARTINS PEREIRA",
     "Arremate e Acabamento": "BOM",
-    "Fazenda": NaN
+    "Fazenda": null,
+    "Unnamed: 18": null
   },
   {
     "ID": "3581798",
@@ -5318,7 +5587,8 @@ const ARREMATE_ACABAMENTO_DATA = [
     "Frente": "143 - FRENTE CASSIO",
     "Responsável": "GABRIEL HENRIQUE MARTINS PEREIRA",
     "Arremate e Acabamento": "BOM",
-    "Fazenda": NaN
+    "Fazenda": null,
+    "Unnamed: 18": null
   },
   {
     "ID": "3581889",
@@ -5338,7 +5608,8 @@ const ARREMATE_ACABAMENTO_DATA = [
     "Frente": "143 - FRENTE CASSIO",
     "Responsável": "GABRIEL HENRIQUE MARTINS PEREIRA",
     "Arremate e Acabamento": "BOM",
-    "Fazenda": NaN
+    "Fazenda": null,
+    "Unnamed: 18": null
   },
   {
     "ID": "3581172",
@@ -5358,7 +5629,8 @@ const ARREMATE_ACABAMENTO_DATA = [
     "Frente": "261 - FRENTE PRÓPRIA  (EDMILSON)",
     "Responsável": "VITOR AMORIM RAMOS ",
     "Arremate e Acabamento": "BOM",
-    "Fazenda": NaN
+    "Fazenda": null,
+    "Unnamed: 18": null
   },
   {
     "ID": "3580993",
@@ -5378,7 +5650,8 @@ const ARREMATE_ACABAMENTO_DATA = [
     "Frente": "139 - FRENTE MANEZÃO",
     "Responsável": "MICHELI DE SOUZA SANTOS  ",
     "Arremate e Acabamento": "BOM",
-    "Fazenda": NaN
+    "Fazenda": null,
+    "Unnamed: 18": null
   },
   {
     "ID": "3580913",
@@ -5398,7 +5671,8 @@ const ARREMATE_ACABAMENTO_DATA = [
     "Frente": "139 - FRENTE MANEZÃO",
     "Responsável": "MICHELI DE SOUZA SANTOS  ",
     "Arremate e Acabamento": "BOM",
-    "Fazenda": NaN
+    "Fazenda": null,
+    "Unnamed: 18": null
   },
   {
     "ID": "3580912",
@@ -5418,7 +5692,8 @@ const ARREMATE_ACABAMENTO_DATA = [
     "Frente": "139 - FRENTE MANEZÃO",
     "Responsável": "MICHELI DE SOUZA SANTOS  ",
     "Arremate e Acabamento": "BOM",
-    "Fazenda": NaN
+    "Fazenda": null,
+    "Unnamed: 18": null
   },
   {
     "ID": "3579347",
@@ -5438,7 +5713,8 @@ const ARREMATE_ACABAMENTO_DATA = [
     "Frente": "135 - FRENTE PEDRINHO",
     "Responsável": "MARCELO DE OLIVEIRA JUNIOR",
     "Arremate e Acabamento": "BOM",
-    "Fazenda": NaN
+    "Fazenda": null,
+    "Unnamed: 18": null
   },
   {
     "ID": "3579065",
@@ -5458,7 +5734,8 @@ const ARREMATE_ACABAMENTO_DATA = [
     "Frente": "142 - FRENTE BIDU",
     "Responsável": "Leonardo Ribeiro Teixeira da Silva",
     "Arremate e Acabamento": "BOM",
-    "Fazenda": NaN
+    "Fazenda": null,
+    "Unnamed: 18": null
   },
   {
     "ID": "3579342",
@@ -5478,7 +5755,8 @@ const ARREMATE_ACABAMENTO_DATA = [
     "Frente": "135 - FRENTE PEDRINHO",
     "Responsável": "MARCELO DE OLIVEIRA JUNIOR",
     "Arremate e Acabamento": "BOM",
-    "Fazenda": NaN
+    "Fazenda": null,
+    "Unnamed: 18": null
   },
   {
     "ID": "3579165",
@@ -5498,7 +5776,8 @@ const ARREMATE_ACABAMENTO_DATA = [
     "Frente": "261 - FRENTE PRÓPRIA  (EDMILSON)",
     "Responsável": "VITOR AMORIM RAMOS ",
     "Arremate e Acabamento": "BOM",
-    "Fazenda": NaN
+    "Fazenda": null,
+    "Unnamed: 18": null
   },
   {
     "ID": "3580897",
@@ -5518,7 +5797,8 @@ const ARREMATE_ACABAMENTO_DATA = [
     "Frente": "139 - FRENTE MANEZÃO",
     "Responsável": "MICHELI DE SOUZA SANTOS  ",
     "Arremate e Acabamento": "BOM",
-    "Fazenda": NaN
+    "Fazenda": null,
+    "Unnamed: 18": null
   },
   {
     "ID": "3578766",
@@ -5538,7 +5818,8 @@ const ARREMATE_ACABAMENTO_DATA = [
     "Frente": "261 - FRENTE PRÓPRIA  (EDMILSON)",
     "Responsável": "VITOR AMORIM RAMOS ",
     "Arremate e Acabamento": "BOM",
-    "Fazenda": NaN
+    "Fazenda": null,
+    "Unnamed: 18": null
   },
   {
     "ID": "3579046",
@@ -5558,7 +5839,8 @@ const ARREMATE_ACABAMENTO_DATA = [
     "Frente": "142 - FRENTE BIDU",
     "Responsável": "Leonardo Ribeiro Teixeira da Silva",
     "Arremate e Acabamento": "BOM",
-    "Fazenda": NaN
+    "Fazenda": null,
+    "Unnamed: 18": null
   },
   {
     "ID": "3578739",
@@ -5578,7 +5860,8 @@ const ARREMATE_ACABAMENTO_DATA = [
     "Frente": "261 - FRENTE PRÓPRIA  (EDMILSON)",
     "Responsável": "VITOR AMORIM RAMOS ",
     "Arremate e Acabamento": "BOM",
-    "Fazenda": NaN
+    "Fazenda": null,
+    "Unnamed: 18": null
   },
   {
     "ID": "3578738",
@@ -5598,7 +5881,8 @@ const ARREMATE_ACABAMENTO_DATA = [
     "Frente": "261 - FRENTE PRÓPRIA  (EDMILSON)",
     "Responsável": "VITOR AMORIM RAMOS ",
     "Arremate e Acabamento": "BOM",
-    "Fazenda": NaN
+    "Fazenda": null,
+    "Unnamed: 18": null
   },
   {
     "ID": "3579178",
@@ -5618,7 +5902,8 @@ const ARREMATE_ACABAMENTO_DATA = [
     "Frente": "143 - FRENTE CASSIO",
     "Responsável": "GABRIEL HENRIQUE MARTINS PEREIRA",
     "Arremate e Acabamento": "BOM",
-    "Fazenda": NaN
+    "Fazenda": null,
+    "Unnamed: 18": null
   },
   {
     "ID": "3578713",
@@ -5638,7 +5923,8 @@ const ARREMATE_ACABAMENTO_DATA = [
     "Frente": "261 - FRENTE PRÓPRIA  (EDMILSON)",
     "Responsável": "VITOR AMORIM RAMOS ",
     "Arremate e Acabamento": "BOM",
-    "Fazenda": NaN
+    "Fazenda": null,
+    "Unnamed: 18": null
   },
   {
     "ID": "3579128",
@@ -5658,7 +5944,8 @@ const ARREMATE_ACABAMENTO_DATA = [
     "Frente": "139 - FRENTE MANEZÃO",
     "Responsável": "MICHELI DE SOUZA SANTOS  ",
     "Arremate e Acabamento": "BOM",
-    "Fazenda": NaN
+    "Fazenda": null,
+    "Unnamed: 18": null
   },
   {
     "ID": "3578707",
@@ -5678,7 +5965,8 @@ const ARREMATE_ACABAMENTO_DATA = [
     "Frente": "261 - FRENTE PRÓPRIA  (EDMILSON)",
     "Responsável": "VITOR AMORIM RAMOS ",
     "Arremate e Acabamento": "BOM",
-    "Fazenda": NaN
+    "Fazenda": null,
+    "Unnamed: 18": null
   },
   {
     "ID": "3579082",
@@ -5698,7 +5986,8 @@ const ARREMATE_ACABAMENTO_DATA = [
     "Frente": "143 - FRENTE CASSIO",
     "Responsável": "GABRIEL HENRIQUE MARTINS PEREIRA",
     "Arremate e Acabamento": "BOM",
-    "Fazenda": NaN
+    "Fazenda": null,
+    "Unnamed: 18": null
   },
   {
     "ID": "3577112",
@@ -5718,7 +6007,8 @@ const ARREMATE_ACABAMENTO_DATA = [
     "Frente": "142 - FRENTE BIDU",
     "Responsável": "Leonardo Ribeiro Teixeira da Silva",
     "Arremate e Acabamento": "BOM",
-    "Fazenda": NaN
+    "Fazenda": null,
+    "Unnamed: 18": null
   },
   {
     "ID": "3576796",
@@ -5738,7 +6028,8 @@ const ARREMATE_ACABAMENTO_DATA = [
     "Frente": "139 - FRENTE MANEZÃO",
     "Responsável": "MABILA HELEN D FIGUEIREDO",
     "Arremate e Acabamento": "BOM",
-    "Fazenda": NaN
+    "Fazenda": null,
+    "Unnamed: 18": null
   },
   {
     "ID": "3577396",
@@ -5758,7 +6049,8 @@ const ARREMATE_ACABAMENTO_DATA = [
     "Frente": "135 - FRENTE PEDRINHO",
     "Responsável": "MARCELO DE OLIVEIRA JUNIOR",
     "Arremate e Acabamento": "BOM",
-    "Fazenda": NaN
+    "Fazenda": null,
+    "Unnamed: 18": null
   },
   {
     "ID": "3577395",
@@ -5778,7 +6070,8 @@ const ARREMATE_ACABAMENTO_DATA = [
     "Frente": "135 - FRENTE PEDRINHO",
     "Responsável": "MARCELO DE OLIVEIRA JUNIOR",
     "Arremate e Acabamento": "BOM",
-    "Fazenda": NaN
+    "Fazenda": null,
+    "Unnamed: 18": null
   },
   {
     "ID": "3576775",
@@ -5798,7 +6091,8 @@ const ARREMATE_ACABAMENTO_DATA = [
     "Frente": "139 - FRENTE MANEZÃO",
     "Responsável": "MICHELI DE SOUZA SANTOS  ",
     "Arremate e Acabamento": "BOM",
-    "Fazenda": NaN
+    "Fazenda": null,
+    "Unnamed: 18": null
   },
   {
     "ID": "3577387",
@@ -5818,7 +6112,8 @@ const ARREMATE_ACABAMENTO_DATA = [
     "Frente": "135 - FRENTE PEDRINHO",
     "Responsável": "MARCELO DE OLIVEIRA JUNIOR",
     "Arremate e Acabamento": "BOM",
-    "Fazenda": NaN
+    "Fazenda": null,
+    "Unnamed: 18": null
   },
   {
     "ID": "3577386",
@@ -5838,7 +6133,8 @@ const ARREMATE_ACABAMENTO_DATA = [
     "Frente": "135 - FRENTE PEDRINHO",
     "Responsável": "MARCELO DE OLIVEIRA JUNIOR",
     "Arremate e Acabamento": "BOM",
-    "Fazenda": NaN
+    "Fazenda": null,
+    "Unnamed: 18": null
   },
   {
     "ID": "3576731",
@@ -5858,7 +6154,8 @@ const ARREMATE_ACABAMENTO_DATA = [
     "Frente": "105 - FRENTE CASSIO (ZACARIAS)",
     "Responsável": "NILDA CLAUDINO [2510716]",
     "Arremate e Acabamento": "BOM",
-    "Fazenda": NaN
+    "Fazenda": null,
+    "Unnamed: 18": null
   },
   {
     "ID": "3577092",
@@ -5878,7 +6175,8 @@ const ARREMATE_ACABAMENTO_DATA = [
     "Frente": "142 - FRENTE BIDU",
     "Responsável": "Leonardo Ribeiro Teixeira da Silva",
     "Arremate e Acabamento": "BOM",
-    "Fazenda": NaN
+    "Fazenda": null,
+    "Unnamed: 18": null
   },
   {
     "ID": "3576687",
@@ -5898,7 +6196,8 @@ const ARREMATE_ACABAMENTO_DATA = [
     "Frente": "143 - FRENTE CASSIO",
     "Responsável": "GABRIEL HENRIQUE MARTINS PEREIRA",
     "Arremate e Acabamento": "BOM",
-    "Fazenda": NaN
+    "Fazenda": null,
+    "Unnamed: 18": null
   },
   {
     "ID": "3576684",
@@ -5918,7 +6217,8 @@ const ARREMATE_ACABAMENTO_DATA = [
     "Frente": "143 - FRENTE CASSIO",
     "Responsável": "GABRIEL HENRIQUE MARTINS PEREIRA",
     "Arremate e Acabamento": "BOM",
-    "Fazenda": NaN
+    "Fazenda": null,
+    "Unnamed: 18": null
   },
   {
     "ID": "3574711",
@@ -5938,7 +6238,8 @@ const ARREMATE_ACABAMENTO_DATA = [
     "Frente": "142 - FRENTE BIDU",
     "Responsável": "Leonardo Ribeiro Teixeira da Silva",
     "Arremate e Acabamento": "BOM",
-    "Fazenda": NaN
+    "Fazenda": null,
+    "Unnamed: 18": null
   },
   {
     "ID": "3574576",
@@ -5958,7 +6259,8 @@ const ARREMATE_ACABAMENTO_DATA = [
     "Frente": "139 - FRENTE MANEZÃO",
     "Responsável": "MICHELI DE SOUZA SANTOS  ",
     "Arremate e Acabamento": "BOM",
-    "Fazenda": NaN
+    "Fazenda": null,
+    "Unnamed: 18": null
   },
   {
     "ID": "3574518",
@@ -5978,7 +6280,8 @@ const ARREMATE_ACABAMENTO_DATA = [
     "Frente": "105 - FRENTE CASSIO",
     "Responsável": "NILDA CLAUDINO [2510716]",
     "Arremate e Acabamento": "BOM",
-    "Fazenda": NaN
+    "Fazenda": null,
+    "Unnamed: 18": null
   },
   {
     "ID": "3574447",
@@ -5998,7 +6301,8 @@ const ARREMATE_ACABAMENTO_DATA = [
     "Frente": "261 - FRENTE PRÓPRIA  (EDMILSON)",
     "Responsável": "VITOR AMORIM RAMOS ",
     "Arremate e Acabamento": "BOM",
-    "Fazenda": NaN
+    "Fazenda": null,
+    "Unnamed: 18": null
   },
   {
     "ID": "3574446",
@@ -6018,7 +6322,8 @@ const ARREMATE_ACABAMENTO_DATA = [
     "Frente": "261 - FRENTE PRÓPRIA  (EDMILSON)",
     "Responsável": "VITOR AMORIM RAMOS ",
     "Arremate e Acabamento": "BOM",
-    "Fazenda": NaN
+    "Fazenda": null,
+    "Unnamed: 18": null
   },
   {
     "ID": "3574564",
@@ -6038,7 +6343,8 @@ const ARREMATE_ACABAMENTO_DATA = [
     "Frente": "143 - FRENTE CASSIO",
     "Responsável": "GABRIEL HENRIQUE MARTINS PEREIRA",
     "Arremate e Acabamento": "BOM",
-    "Fazenda": NaN
+    "Fazenda": null,
+    "Unnamed: 18": null
   },
   {
     "ID": "3574563",
@@ -6058,7 +6364,8 @@ const ARREMATE_ACABAMENTO_DATA = [
     "Frente": "143 - FRENTE CASSIO",
     "Responsável": "GABRIEL HENRIQUE MARTINS PEREIRA",
     "Arremate e Acabamento": "BOM",
-    "Fazenda": NaN
+    "Fazenda": null,
+    "Unnamed: 18": null
   },
   {
     "ID": "3574263",
@@ -6078,7 +6385,8 @@ const ARREMATE_ACABAMENTO_DATA = [
     "Frente": "139 - FRENTE MANEZÃO",
     "Responsável": "MICHELI DE SOUZA SANTOS  ",
     "Arremate e Acabamento": "BOM",
-    "Fazenda": NaN
+    "Fazenda": null,
+    "Unnamed: 18": null
   },
   {
     "ID": "3574242",
@@ -6098,7 +6406,8 @@ const ARREMATE_ACABAMENTO_DATA = [
     "Frente": "139 - FRENTE MANEZÃO",
     "Responsável": "MICHELI DE SOUZA SANTOS  ",
     "Arremate e Acabamento": "BOM",
-    "Fazenda": NaN
+    "Fazenda": null,
+    "Unnamed: 18": null
   },
   {
     "ID": "3574774",
@@ -6118,7 +6427,8 @@ const ARREMATE_ACABAMENTO_DATA = [
     "Frente": "143 - FRENTE CASSIO",
     "Responsável": "GABRIEL HENRIQUE MARTINS PEREIRA",
     "Arremate e Acabamento": "BOM",
-    "Fazenda": NaN
+    "Fazenda": null,
+    "Unnamed: 18": null
   },
   {
     "ID": "3574235",
@@ -6138,7 +6448,8 @@ const ARREMATE_ACABAMENTO_DATA = [
     "Frente": "139 - FRENTE MANEZÃO",
     "Responsável": "MICHELI DE SOUZA SANTOS  ",
     "Arremate e Acabamento": "BOM",
-    "Fazenda": NaN
+    "Fazenda": null,
+    "Unnamed: 18": null
   },
   {
     "ID": "3574234",
@@ -6158,7 +6469,8 @@ const ARREMATE_ACABAMENTO_DATA = [
     "Frente": "139 - FRENTE MANEZÃO",
     "Responsável": "MICHELI DE SOUZA SANTOS  ",
     "Arremate e Acabamento": "BOM",
-    "Fazenda": NaN
+    "Fazenda": null,
+    "Unnamed: 18": null
   },
   {
     "ID": "3574233",
@@ -6178,7 +6490,8 @@ const ARREMATE_ACABAMENTO_DATA = [
     "Frente": "139 - FRENTE MANEZÃO",
     "Responsável": "MICHELI DE SOUZA SANTOS  ",
     "Arremate e Acabamento": "BOM",
-    "Fazenda": NaN
+    "Fazenda": null,
+    "Unnamed: 18": null
   },
   {
     "ID": "3574426",
@@ -6198,7 +6511,8 @@ const ARREMATE_ACABAMENTO_DATA = [
     "Frente": "261 - FRENTE PRÓPRIA  (EDMILSON)",
     "Responsável": "VITOR AMORIM RAMOS ",
     "Arremate e Acabamento": "BOM",
-    "Fazenda": NaN
+    "Fazenda": null,
+    "Unnamed: 18": null
   },
   {
     "ID": "3574425",
@@ -6218,7 +6532,8 @@ const ARREMATE_ACABAMENTO_DATA = [
     "Frente": "261 - FRENTE PRÓPRIA  (EDMILSON)",
     "Responsável": "VITOR AMORIM RAMOS ",
     "Arremate e Acabamento": "BOM",
-    "Fazenda": NaN
+    "Fazenda": null,
+    "Unnamed: 18": null
   },
   {
     "ID": "3574481",
@@ -6238,7 +6553,8 @@ const ARREMATE_ACABAMENTO_DATA = [
     "Frente": "105 - FRENTE CASSIO",
     "Responsável": "NILDA CLAUDINO [2510716]",
     "Arremate e Acabamento": "BOM",
-    "Fazenda": NaN
+    "Fazenda": null,
+    "Unnamed: 18": null
   },
   {
     "ID": "3574480",
@@ -6258,7 +6574,8 @@ const ARREMATE_ACABAMENTO_DATA = [
     "Frente": "105 - FRENTE CASSIO",
     "Responsável": "NILDA CLAUDINO [2510716]",
     "Arremate e Acabamento": "BOM",
-    "Fazenda": NaN
+    "Fazenda": null,
+    "Unnamed: 18": null
   },
   {
     "ID": "3574682",
@@ -6278,7 +6595,8 @@ const ARREMATE_ACABAMENTO_DATA = [
     "Frente": "142 - FRENTE BIDU",
     "Responsável": "Ruan Alexandre Lopes",
     "Arremate e Acabamento": "BOM",
-    "Fazenda": NaN
+    "Fazenda": null,
+    "Unnamed: 18": null
   },
   {
     "ID": "3574381",
@@ -6298,7 +6616,8 @@ const ARREMATE_ACABAMENTO_DATA = [
     "Frente": "261 - FRENTE PRÓPRIA  (EDMILSON)",
     "Responsável": "VITOR AMORIM RAMOS ",
     "Arremate e Acabamento": "BOM",
-    "Fazenda": NaN
+    "Fazenda": null,
+    "Unnamed: 18": null
   },
   {
     "ID": "3572598",
@@ -6318,7 +6637,8 @@ const ARREMATE_ACABAMENTO_DATA = [
     "Frente": "135 - PEDRINHO ",
     "Responsável": "MARCELO DE OLIVEIRA JUNIOR",
     "Arremate e Acabamento": "BOM",
-    "Fazenda": NaN
+    "Fazenda": null,
+    "Unnamed: 18": null
   },
   {
     "ID": "3572594",
@@ -6338,7 +6658,8 @@ const ARREMATE_ACABAMENTO_DATA = [
     "Frente": "135 - PEDRINHO ",
     "Responsável": "MARCELO DE OLIVEIRA JUNIOR",
     "Arremate e Acabamento": "BOM",
-    "Fazenda": NaN
+    "Fazenda": null,
+    "Unnamed: 18": null
   },
   {
     "ID": "3572603",
@@ -6358,7 +6679,8 @@ const ARREMATE_ACABAMENTO_DATA = [
     "Frente": "105 - FRENTE CASSIO",
     "Responsável": "NILDA CLAUDINO [2510716]",
     "Arremate e Acabamento": "BOM",
-    "Fazenda": NaN
+    "Fazenda": null,
+    "Unnamed: 18": null
   },
   {
     "ID": "3572631",
@@ -6378,7 +6700,8 @@ const ARREMATE_ACABAMENTO_DATA = [
     "Frente": "105 - FRENTE CASSIO",
     "Responsável": "NILDA CLAUDINO [2510716]",
     "Arremate e Acabamento": "BOM",
-    "Fazenda": NaN
+    "Fazenda": null,
+    "Unnamed: 18": null
   },
   {
     "ID": "3572195",
@@ -6398,7 +6721,8 @@ const ARREMATE_ACABAMENTO_DATA = [
     "Frente": "261 - FRENTE PRÓPRIA  (EDMILSON)",
     "Responsável": "VITOR AMORIM RAMOS ",
     "Arremate e Acabamento": "BOM",
-    "Fazenda": NaN
+    "Fazenda": null,
+    "Unnamed: 18": null
   },
   {
     "ID": "3572194",
@@ -6418,7 +6742,8 @@ const ARREMATE_ACABAMENTO_DATA = [
     "Frente": "261 - FRENTE PRÓPRIA  (EDMILSON)",
     "Responsável": "VITOR AMORIM RAMOS ",
     "Arremate e Acabamento": "BOM",
-    "Fazenda": NaN
+    "Fazenda": null,
+    "Unnamed: 18": null
   },
   {
     "ID": "3572193",
@@ -6438,7 +6763,8 @@ const ARREMATE_ACABAMENTO_DATA = [
     "Frente": "261 - FRENTE PRÓPRIA  (EDMILSON)",
     "Responsável": "VITOR AMORIM RAMOS ",
     "Arremate e Acabamento": "BOM",
-    "Fazenda": NaN
+    "Fazenda": null,
+    "Unnamed: 18": null
   },
   {
     "ID": "3570279",
@@ -6458,7 +6784,8 @@ const ARREMATE_ACABAMENTO_DATA = [
     "Frente": "142 - FRENTE BIDU",
     "Responsável": "Leonardo Ribeiro Teixeira da Silva",
     "Arremate e Acabamento": "BOM",
-    "Fazenda": NaN
+    "Fazenda": null,
+    "Unnamed: 18": null
   },
   {
     "ID": "3570278",
@@ -6478,7 +6805,8 @@ const ARREMATE_ACABAMENTO_DATA = [
     "Frente": "142 - FRENTE BIDU",
     "Responsável": "Leonardo Ribeiro Teixeira da Silva",
     "Arremate e Acabamento": "BOM",
-    "Fazenda": NaN
+    "Fazenda": null,
+    "Unnamed: 18": null
   },
   {
     "ID": "3570251",
@@ -6498,7 +6826,8 @@ const ARREMATE_ACABAMENTO_DATA = [
     "Frente": "291 - FRENTE PRÓPRIA ",
     "Responsável": "VITOR AMORIM RAMOS ",
     "Arremate e Acabamento": "BOM",
-    "Fazenda": NaN
+    "Fazenda": null,
+    "Unnamed: 18": null
   },
   {
     "ID": "3570140",
@@ -6518,7 +6847,8 @@ const ARREMATE_ACABAMENTO_DATA = [
     "Frente": "135 - PEDRINHO ",
     "Responsável": "MARCELO DE OLIVEIRA JUNIOR",
     "Arremate e Acabamento": "BOM",
-    "Fazenda": NaN
+    "Fazenda": null,
+    "Unnamed: 18": null
   },
   {
     "ID": "3569861",
@@ -6538,7 +6868,8 @@ const ARREMATE_ACABAMENTO_DATA = [
     "Frente": "261 - FRENTE PRÓPRIA  (EDMILSON)",
     "Responsável": "VITOR AMORIM RAMOS ",
     "Arremate e Acabamento": "BOM",
-    "Fazenda": NaN
+    "Fazenda": null,
+    "Unnamed: 18": null
   },
   {
     "ID": "3569842",
@@ -6558,7 +6889,8 @@ const ARREMATE_ACABAMENTO_DATA = [
     "Frente": "261 - FRENTE PRÓPRIA  (EDMILSON)",
     "Responsável": "VITOR AMORIM RAMOS ",
     "Arremate e Acabamento": "BOM",
-    "Fazenda": NaN
+    "Fazenda": null,
+    "Unnamed: 18": null
   },
   {
     "ID": "3570049",
@@ -6578,7 +6910,8 @@ const ARREMATE_ACABAMENTO_DATA = [
     "Frente": "105 - FRENTE CASSIO",
     "Responsável": "NILDA CLAUDINO [2510716]",
     "Arremate e Acabamento": "BOM",
-    "Fazenda": NaN
+    "Fazenda": null,
+    "Unnamed: 18": null
   },
   {
     "ID": "3569831",
@@ -6598,7 +6931,8 @@ const ARREMATE_ACABAMENTO_DATA = [
     "Frente": "261 - FRENTE PRÓPRIA  (EDMILSON)",
     "Responsável": "VITOR AMORIM RAMOS ",
     "Arremate e Acabamento": "BOM",
-    "Fazenda": NaN
+    "Fazenda": null,
+    "Unnamed: 18": null
   },
   {
     "ID": "3569909",
@@ -6618,7 +6952,8 @@ const ARREMATE_ACABAMENTO_DATA = [
     "Frente": "143 - FRENTE CASSIO",
     "Responsável": " Antonio ",
     "Arremate e Acabamento": "BOM",
-    "Fazenda": NaN
+    "Fazenda": null,
+    "Unnamed: 18": null
   },
   {
     "ID": "3569810",
@@ -6638,7 +6973,8 @@ const ARREMATE_ACABAMENTO_DATA = [
     "Frente": "261 - FRENTE PRÓPRIA  (EDMILSON)",
     "Responsável": "VITOR AMORIM RAMOS ",
     "Arremate e Acabamento": "BOM",
-    "Fazenda": NaN
+    "Fazenda": null,
+    "Unnamed: 18": null
   },
   {
     "ID": "3567587",
@@ -6658,7 +6994,8 @@ const ARREMATE_ACABAMENTO_DATA = [
     "Frente": "142 - FRENTE BIDU",
     "Responsável": "Leonardo Ribeiro Teixeira da Silva",
     "Arremate e Acabamento": "BOM",
-    "Fazenda": NaN
+    "Fazenda": null,
+    "Unnamed: 18": null
   },
   {
     "ID": "3567599",
@@ -6678,7 +7015,8 @@ const ARREMATE_ACABAMENTO_DATA = [
     "Frente": "261 - FRENTE PRÓPRIA  (EDMILSON)",
     "Responsável": "VITOR AMORIM RAMOS ",
     "Arremate e Acabamento": "BOM",
-    "Fazenda": NaN
+    "Fazenda": null,
+    "Unnamed: 18": null
   },
   {
     "ID": "3567718",
@@ -6698,7 +7036,8 @@ const ARREMATE_ACABAMENTO_DATA = [
     "Frente": "135 - PEDRINHO ",
     "Responsável": "MARCELO DE OLIVEIRA JUNIOR",
     "Arremate e Acabamento": "BOM",
-    "Fazenda": NaN
+    "Fazenda": null,
+    "Unnamed: 18": null
   },
   {
     "ID": "3567363",
@@ -6718,7 +7057,8 @@ const ARREMATE_ACABAMENTO_DATA = [
     "Frente": "142 - FRENTE BIDU",
     "Responsável": "Leonardo Ribeiro Teixeira da Silva",
     "Arremate e Acabamento": "BOM",
-    "Fazenda": NaN
+    "Fazenda": null,
+    "Unnamed: 18": null
   },
   {
     "ID": "3567154",
@@ -6738,7 +7078,8 @@ const ARREMATE_ACABAMENTO_DATA = [
     "Frente": "261 - FRENTE PRÓPRIA  (EDMILSON)",
     "Responsável": "VITOR AMORIM RAMOS ",
     "Arremate e Acabamento": "BOM",
-    "Fazenda": NaN
+    "Fazenda": null,
+    "Unnamed: 18": null
   },
   {
     "ID": "3567153",
@@ -6758,7 +7099,8 @@ const ARREMATE_ACABAMENTO_DATA = [
     "Frente": "261 - FRENTE PRÓPRIA  (EDMILSON)",
     "Responsável": "VITOR AMORIM RAMOS ",
     "Arremate e Acabamento": "BOM",
-    "Fazenda": NaN
+    "Fazenda": null,
+    "Unnamed: 18": null
   },
   {
     "ID": "3567152",
@@ -6778,7 +7120,8 @@ const ARREMATE_ACABAMENTO_DATA = [
     "Frente": "261 - FRENTE PRÓPRIA  (EDMILSON)",
     "Responsável": "VITOR AMORIM RAMOS ",
     "Arremate e Acabamento": "BOM",
-    "Fazenda": NaN
+    "Fazenda": null,
+    "Unnamed: 18": null
   },
   {
     "ID": "3567553",
@@ -6798,7 +7141,8 @@ const ARREMATE_ACABAMENTO_DATA = [
     "Frente": "143 - FRENTE CASSIO",
     "Responsável": "MICHELI DE SOUZA SANTOS  ",
     "Arremate e Acabamento": "BOM",
-    "Fazenda": NaN
+    "Fazenda": null,
+    "Unnamed: 18": null
   },
   {
     "ID": "3567133",
@@ -6818,7 +7162,8 @@ const ARREMATE_ACABAMENTO_DATA = [
     "Frente": "261 - FRENTE PRÓPRIA  (EDMILSON)",
     "Responsável": "VITOR AMORIM RAMOS ",
     "Arremate e Acabamento": "BOM",
-    "Fazenda": NaN
+    "Fazenda": null,
+    "Unnamed: 18": null
   },
   {
     "ID": "3567547",
@@ -6838,7 +7183,8 @@ const ARREMATE_ACABAMENTO_DATA = [
     "Frente": "143 - FRENTE CASSIO",
     "Responsável": "MICHELI DE SOUZA SANTOS  ",
     "Arremate e Acabamento": "BOM",
-    "Fazenda": NaN
+    "Fazenda": null,
+    "Unnamed: 18": null
   },
   {
     "ID": "3567071",
@@ -6858,7 +7204,8 @@ const ARREMATE_ACABAMENTO_DATA = [
     "Frente": "105 - FRENTE CASSIO",
     "Responsável": "NILDA CLAUDINO [2510716]",
     "Arremate e Acabamento": "BOM",
-    "Fazenda": NaN
+    "Fazenda": null,
+    "Unnamed: 18": null
   },
   {
     "ID": "3567089",
@@ -6878,7 +7225,8 @@ const ARREMATE_ACABAMENTO_DATA = [
     "Frente": "261 - FRENTE PRÓPRIA  (EDMILSON)",
     "Responsável": "VITOR AMORIM RAMOS ",
     "Arremate e Acabamento": "BOM",
-    "Fazenda": NaN
+    "Fazenda": null,
+    "Unnamed: 18": null
   },
   {
     "ID": "3565568",
@@ -6898,7 +7246,8 @@ const ARREMATE_ACABAMENTO_DATA = [
     "Frente": "143 - FRENTE CASSIO",
     "Responsável": "GABRIEL HENRIQUE MARTINS PEREIRA",
     "Arremate e Acabamento": "BOM",
-    "Fazenda": NaN
+    "Fazenda": null,
+    "Unnamed: 18": null
   },
   {
     "ID": "3565547",
@@ -6918,7 +7267,8 @@ const ARREMATE_ACABAMENTO_DATA = [
     "Frente": "143 - FRENTE CASSIO",
     "Responsável": "GABRIEL HENRIQUE MARTINS PEREIRA",
     "Arremate e Acabamento": "BOM",
-    "Fazenda": NaN
+    "Fazenda": null,
+    "Unnamed: 18": null
   },
   {
     "ID": "3562966",
@@ -6938,7 +7288,8 @@ const ARREMATE_ACABAMENTO_DATA = [
     "Frente": "143 - FRENTE CASSIO",
     "Responsável": "GABRIEL HENRIQUE MARTINS PEREIRA",
     "Arremate e Acabamento": "BOM",
-    "Fazenda": NaN
+    "Fazenda": null,
+    "Unnamed: 18": null
   },
   {
     "ID": "3562878",
@@ -6958,7 +7309,8 @@ const ARREMATE_ACABAMENTO_DATA = [
     "Frente": "143 - FRENTE CASSIO",
     "Responsável": "GABRIEL HENRIQUE MARTINS PEREIRA",
     "Arremate e Acabamento": "BOM",
-    "Fazenda": NaN
+    "Fazenda": null,
+    "Unnamed: 18": null
   },
   {
     "ID": "3560969",
@@ -6978,7 +7330,8 @@ const ARREMATE_ACABAMENTO_DATA = [
     "Frente": "261 - FRENTE PRÓPRIA  (EDMILSON)",
     "Responsável": "VITOR AMORIM RAMOS ",
     "Arremate e Acabamento": "BOM",
-    "Fazenda": NaN
+    "Fazenda": null,
+    "Unnamed: 18": null
   },
   {
     "ID": "3560956",
@@ -6998,7 +7351,8 @@ const ARREMATE_ACABAMENTO_DATA = [
     "Frente": "261 - FRENTE PRÓPRIA  (EDMILSON)",
     "Responsável": "VITOR AMORIM RAMOS ",
     "Arremate e Acabamento": "BOM",
-    "Fazenda": NaN
+    "Fazenda": null,
+    "Unnamed: 18": null
   },
   {
     "ID": "3560940",
@@ -7018,7 +7372,8 @@ const ARREMATE_ACABAMENTO_DATA = [
     "Frente": "261 - FRENTE PRÓPRIA  (EDMILSON)",
     "Responsável": "VITOR AMORIM RAMOS ",
     "Arremate e Acabamento": "BOM",
-    "Fazenda": NaN
+    "Fazenda": null,
+    "Unnamed: 18": null
   },
   {
     "ID": "3560860",
@@ -7038,7 +7393,8 @@ const ARREMATE_ACABAMENTO_DATA = [
     "Frente": "142 - FRENTE BIDU",
     "Responsável": "Leonardo Ribeiro Teixeira da Silva",
     "Arremate e Acabamento": "BOM",
-    "Fazenda": NaN
+    "Fazenda": null,
+    "Unnamed: 18": null
   },
   {
     "ID": "3560769",
@@ -7058,7 +7414,8 @@ const ARREMATE_ACABAMENTO_DATA = [
     "Frente": "135 - PEDRINHO ",
     "Responsável": "MARCELO DE OLIVEIRA JUNIOR",
     "Arremate e Acabamento": "BOM",
-    "Fazenda": NaN
+    "Fazenda": null,
+    "Unnamed: 18": null
   },
   {
     "ID": "3560895",
@@ -7078,7 +7435,8 @@ const ARREMATE_ACABAMENTO_DATA = [
     "Frente": "261 - FRENTE PRÓPRIA  (EDMILSON)",
     "Responsável": "VITOR AMORIM RAMOS ",
     "Arremate e Acabamento": "BOM",
-    "Fazenda": NaN
+    "Fazenda": null,
+    "Unnamed: 18": null
   },
   {
     "ID": "3560894",
@@ -7098,7 +7456,8 @@ const ARREMATE_ACABAMENTO_DATA = [
     "Frente": "261 - FRENTE PRÓPRIA  (EDMILSON)",
     "Responsável": "VITOR AMORIM RAMOS ",
     "Arremate e Acabamento": "BOM",
-    "Fazenda": NaN
+    "Fazenda": null,
+    "Unnamed: 18": null
   },
   {
     "ID": "3566954",
@@ -7118,7 +7477,8 @@ const ARREMATE_ACABAMENTO_DATA = [
     "Frente": "139 - FRENTE MANEZÃO",
     "Responsável": "MICHELI DE SOUZA SANTOS  ",
     "Arremate e Acabamento": "BOM",
-    "Fazenda": NaN
+    "Fazenda": null,
+    "Unnamed: 18": null
   },
   {
     "ID": "3558585",
@@ -7138,7 +7498,8 @@ const ARREMATE_ACABAMENTO_DATA = [
     "Frente": "135 - PEDRINHO ",
     "Responsável": "MARCELO DE OLIVEIRA JUNIOR",
     "Arremate e Acabamento": "BOM",
-    "Fazenda": NaN
+    "Fazenda": null,
+    "Unnamed: 18": null
   },
   {
     "ID": "3558532",
@@ -7158,7 +7519,8 @@ const ARREMATE_ACABAMENTO_DATA = [
     "Frente": "261 - FRENTE PRÓPRIA  (EDMILSON)",
     "Responsável": "VITOR AMORIM RAMOS ",
     "Arremate e Acabamento": "BOM",
-    "Fazenda": NaN
+    "Fazenda": null,
+    "Unnamed: 18": null
   },
   {
     "ID": "3558521",
@@ -7178,7 +7540,8 @@ const ARREMATE_ACABAMENTO_DATA = [
     "Frente": "261 - FRENTE PRÓPRIA  (EDMILSON)",
     "Responsável": "VITOR AMORIM RAMOS ",
     "Arremate e Acabamento": "BOM",
-    "Fazenda": NaN
+    "Fazenda": null,
+    "Unnamed: 18": null
   },
   {
     "ID": "3558500",
@@ -7198,7 +7561,8 @@ const ARREMATE_ACABAMENTO_DATA = [
     "Frente": "261 - FRENTE PRÓPRIA  (EDMILSON)",
     "Responsável": "VITOR AMORIM RAMOS ",
     "Arremate e Acabamento": "BOM",
-    "Fazenda": NaN
+    "Fazenda": null,
+    "Unnamed: 18": null
   },
   {
     "ID": "3558297",
@@ -7218,7 +7582,8 @@ const ARREMATE_ACABAMENTO_DATA = [
     "Frente": "105 - FRENTE CASSIO",
     "Responsável": "NILDA CLAUDINO [2510716]",
     "Arremate e Acabamento": "BOM",
-    "Fazenda": NaN
+    "Fazenda": null,
+    "Unnamed: 18": null
   },
   {
     "ID": "3558266",
@@ -7238,7 +7603,8 @@ const ARREMATE_ACABAMENTO_DATA = [
     "Frente": "143 - FRENTE CASSIO",
     "Responsável": "GABRIEL HENRIQUE MARTINS PEREIRA",
     "Arremate e Acabamento": "BOM",
-    "Fazenda": NaN
+    "Fazenda": null,
+    "Unnamed: 18": null
   },
   {
     "ID": "3558265",
@@ -7258,7 +7624,8 @@ const ARREMATE_ACABAMENTO_DATA = [
     "Frente": "143 - FRENTE CASSIO",
     "Responsável": "GABRIEL HENRIQUE MARTINS PEREIRA",
     "Arremate e Acabamento": "BOM",
-    "Fazenda": NaN
+    "Fazenda": null,
+    "Unnamed: 18": null
   },
   {
     "ID": "3558152",
@@ -7278,7 +7645,8 @@ const ARREMATE_ACABAMENTO_DATA = [
     "Frente": "142 - FRENTE BIDU",
     "Responsável": "Leonardo Ribeiro Teixeira da Silva",
     "Arremate e Acabamento": "BOM",
-    "Fazenda": NaN
+    "Fazenda": null,
+    "Unnamed: 18": null
   },
   {
     "ID": "3558186",
@@ -7298,7 +7666,8 @@ const ARREMATE_ACABAMENTO_DATA = [
     "Frente": "139 - FRENTE MANEZÃO",
     "Responsável": "MICHELI DE SOUZA SANTOS  ",
     "Arremate e Acabamento": "BOM",
-    "Fazenda": NaN
+    "Fazenda": null,
+    "Unnamed: 18": null
   },
   {
     "ID": "3558229",
@@ -7318,7 +7687,8 @@ const ARREMATE_ACABAMENTO_DATA = [
     "Frente": "139 - FRENTE MANEZÃO",
     "Responsável": " Antonio ",
     "Arremate e Acabamento": "BOM",
-    "Fazenda": NaN
+    "Fazenda": null,
+    "Unnamed: 18": null
   },
   {
     "ID": "3557953",
@@ -7338,7 +7708,8 @@ const ARREMATE_ACABAMENTO_DATA = [
     "Frente": "261 - FRENTE PRÓPRIA  (EDMILSON)",
     "Responsável": "VITOR AMORIM RAMOS ",
     "Arremate e Acabamento": "BOM",
-    "Fazenda": NaN
+    "Fazenda": null,
+    "Unnamed: 18": null
   },
   {
     "ID": "3557937",
@@ -7358,7 +7729,8 @@ const ARREMATE_ACABAMENTO_DATA = [
     "Frente": "261 - FRENTE PRÓPRIA  (EDMILSON)",
     "Responsável": "VITOR AMORIM RAMOS ",
     "Arremate e Acabamento": "BOM",
-    "Fazenda": NaN
+    "Fazenda": null,
+    "Unnamed: 18": null
   },
   {
     "ID": "3556310",
@@ -7378,7 +7750,8 @@ const ARREMATE_ACABAMENTO_DATA = [
     "Frente": "105 - FRENTE CASSIO",
     "Responsável": "NILDA CLAUDINO [2510716]",
     "Arremate e Acabamento": "BOM",
-    "Fazenda": NaN
+    "Fazenda": null,
+    "Unnamed: 18": null
   },
   {
     "ID": "3556309",
@@ -7398,7 +7771,8 @@ const ARREMATE_ACABAMENTO_DATA = [
     "Frente": "105 - FRENTE CASSIO",
     "Responsável": "NILDA CLAUDINO [2510716]",
     "Arremate e Acabamento": "BOM",
-    "Fazenda": NaN
+    "Fazenda": null,
+    "Unnamed: 18": null
   },
   {
     "ID": "3556301",
@@ -7418,7 +7792,8 @@ const ARREMATE_ACABAMENTO_DATA = [
     "Frente": "135 - PEDRINHO ",
     "Responsável": "MARCELO DE OLIVEIRA JUNIOR",
     "Arremate e Acabamento": "BOM",
-    "Fazenda": NaN
+    "Fazenda": null,
+    "Unnamed: 18": null
   },
   {
     "ID": "3556294",
@@ -7438,7 +7813,8 @@ const ARREMATE_ACABAMENTO_DATA = [
     "Frente": "135 - PEDRINHO ",
     "Responsável": "MARCELO DE OLIVEIRA JUNIOR",
     "Arremate e Acabamento": "BOM",
-    "Fazenda": NaN
+    "Fazenda": null,
+    "Unnamed: 18": null
   },
   {
     "ID": "3556097",
@@ -7458,7 +7834,8 @@ const ARREMATE_ACABAMENTO_DATA = [
     "Frente": "139 - FRENTE MANEZÃO",
     "Responsável": "MABILA HELEN D FIGUEIREDO",
     "Arremate e Acabamento": "BOM",
-    "Fazenda": NaN
+    "Fazenda": null,
+    "Unnamed: 18": null
   },
   {
     "ID": "3556290",
@@ -7478,7 +7855,8 @@ const ARREMATE_ACABAMENTO_DATA = [
     "Frente": "135 - PEDRINHO ",
     "Responsável": "MARCELO DE OLIVEIRA JUNIOR",
     "Arremate e Acabamento": "BOM",
-    "Fazenda": NaN
+    "Fazenda": null,
+    "Unnamed: 18": null
   },
   {
     "ID": "3556091",
@@ -7498,7 +7876,8 @@ const ARREMATE_ACABAMENTO_DATA = [
     "Frente": "139 - FRENTE MANEZÃO",
     "Responsável": "MICHELI DE SOUZA SANTOS  ",
     "Arremate e Acabamento": "BOM",
-    "Fazenda": NaN
+    "Fazenda": null,
+    "Unnamed: 18": null
   },
   {
     "ID": "3556160",
@@ -7518,7 +7897,8 @@ const ARREMATE_ACABAMENTO_DATA = [
     "Frente": "261 - FRENTE PRÓPRIA  (EDMILSON)",
     "Responsável": "VITOR AMORIM RAMOS ",
     "Arremate e Acabamento": "BOM",
-    "Fazenda": NaN
+    "Fazenda": null,
+    "Unnamed: 18": null
   },
   {
     "ID": "3555638",
@@ -7538,7 +7918,8 @@ const ARREMATE_ACABAMENTO_DATA = [
     "Frente": "261 - FRENTE PRÓPRIA  (EDMILSON)",
     "Responsável": "VITOR AMORIM RAMOS ",
     "Arremate e Acabamento": "BOM",
-    "Fazenda": NaN
+    "Fazenda": null,
+    "Unnamed: 18": null
   },
   {
     "ID": "3556140",
@@ -7558,7 +7939,8 @@ const ARREMATE_ACABAMENTO_DATA = [
     "Frente": "142 - FRENTE BIDU",
     "Responsável": "Leonardo Ribeiro Teixeira da Silva",
     "Arremate e Acabamento": "BOM",
-    "Fazenda": NaN
+    "Fazenda": null,
+    "Unnamed: 18": null
   },
   {
     "ID": "3556139",
@@ -7578,7 +7960,8 @@ const ARREMATE_ACABAMENTO_DATA = [
     "Frente": "142 - FRENTE BIDU",
     "Responsável": "Leonardo Ribeiro Teixeira da Silva",
     "Arremate e Acabamento": "BOM",
-    "Fazenda": NaN
+    "Fazenda": null,
+    "Unnamed: 18": null
   },
   {
     "ID": "3555664",
@@ -7598,7 +7981,8 @@ const ARREMATE_ACABAMENTO_DATA = [
     "Frente": "261 - FRENTE PRÓPRIA  (EDMILSON)",
     "Responsável": "VITOR AMORIM RAMOS ",
     "Arremate e Acabamento": "BOM",
-    "Fazenda": NaN
+    "Fazenda": null,
+    "Unnamed: 18": null
   },
   {
     "ID": "3555924",
@@ -7618,7 +8002,8 @@ const ARREMATE_ACABAMENTO_DATA = [
     "Frente": "143 - FRENTE CASSIO",
     "Responsável": "GABRIEL HENRIQUE MARTINS PEREIRA",
     "Arremate e Acabamento": "BOM",
-    "Fazenda": NaN
+    "Fazenda": null,
+    "Unnamed: 18": null
   },
   {
     "ID": "3555998",
@@ -7638,7 +8023,8 @@ const ARREMATE_ACABAMENTO_DATA = [
     "Frente": "135 - FRENTE PEDRINHO",
     "Responsável": "FERNANDA DE SOUZA ",
     "Arremate e Acabamento": "BOM",
-    "Fazenda": NaN
+    "Fazenda": null,
+    "Unnamed: 18": null
   },
   {
     "ID": "3555909",
@@ -7658,7 +8044,8 @@ const ARREMATE_ACABAMENTO_DATA = [
     "Frente": "143 - FRENTE CASSIO",
     "Responsável": "GABRIEL HENRIQUE MARTINS PEREIRA",
     "Arremate e Acabamento": "BOM",
-    "Fazenda": NaN
+    "Fazenda": null,
+    "Unnamed: 18": null
   },
   {
     "ID": "3553808",
@@ -7678,7 +8065,8 @@ const ARREMATE_ACABAMENTO_DATA = [
     "Frente": "135 - PEDRINHO ",
     "Responsável": "MARCELO DE OLIVEIRA JUNIOR",
     "Arremate e Acabamento": "BOM",
-    "Fazenda": NaN
+    "Fazenda": null,
+    "Unnamed: 18": null
   },
   {
     "ID": "3553727",
@@ -7698,7 +8086,8 @@ const ARREMATE_ACABAMENTO_DATA = [
     "Frente": "261 - FRENTE PRÓPRIA  (EDMILSON)",
     "Responsável": "VITOR AMORIM RAMOS ",
     "Arremate e Acabamento": "BOM",
-    "Fazenda": NaN
+    "Fazenda": null,
+    "Unnamed: 18": null
   },
   {
     "ID": "3553726",
@@ -7718,7 +8107,8 @@ const ARREMATE_ACABAMENTO_DATA = [
     "Frente": "261 - FRENTE PRÓPRIA  (EDMILSON)",
     "Responsável": "VITOR AMORIM RAMOS ",
     "Arremate e Acabamento": "BOM",
-    "Fazenda": NaN
+    "Fazenda": null,
+    "Unnamed: 18": null
   },
   {
     "ID": "3553725",
@@ -7738,7 +8128,8 @@ const ARREMATE_ACABAMENTO_DATA = [
     "Frente": "261 - FRENTE PRÓPRIA  (EDMILSON)",
     "Responsável": "VITOR AMORIM RAMOS ",
     "Arremate e Acabamento": "BOM",
-    "Fazenda": NaN
+    "Fazenda": null,
+    "Unnamed: 18": null
   },
   {
     "ID": "3553573",
@@ -7758,7 +8149,8 @@ const ARREMATE_ACABAMENTO_DATA = [
     "Frente": "139 - FRENTE MANEZÃO",
     "Responsável": "MABILA HELEN D FIGUEIREDO",
     "Arremate e Acabamento": "BOM",
-    "Fazenda": NaN
+    "Fazenda": null,
+    "Unnamed: 18": null
   },
   {
     "ID": "3553656",
@@ -7778,7 +8170,8 @@ const ARREMATE_ACABAMENTO_DATA = [
     "Frente": "142 - FRENTE BIDU",
     "Responsável": "Leonardo Ribeiro Teixeira da Silva",
     "Arremate e Acabamento": "BOM",
-    "Fazenda": NaN
+    "Fazenda": null,
+    "Unnamed: 18": null
   },
   {
     "ID": "3553547",
@@ -7798,7 +8191,8 @@ const ARREMATE_ACABAMENTO_DATA = [
     "Frente": "139 - FRENTE MANEZÃO",
     "Responsável": "MABILA HELEN D FIGUEIREDO",
     "Arremate e Acabamento": "BOM",
-    "Fazenda": NaN
+    "Fazenda": null,
+    "Unnamed: 18": null
   },
   {
     "ID": "3553111",
@@ -7818,7 +8212,8 @@ const ARREMATE_ACABAMENTO_DATA = [
     "Frente": "143 - FRENTE CASSIO",
     "Responsável": "GABRIEL HENRIQUE MARTINS PEREIRA",
     "Arremate e Acabamento": "BOM",
-    "Fazenda": NaN
+    "Fazenda": null,
+    "Unnamed: 18": null
   },
   {
     "ID": "3553769",
@@ -7838,7 +8233,8 @@ const ARREMATE_ACABAMENTO_DATA = [
     "Frente": "101 - FRENTE MECANIZADA",
     "Responsável": "FERNANDA DE SOUZA ",
     "Arremate e Acabamento": "BOM",
-    "Fazenda": NaN
+    "Fazenda": null,
+    "Unnamed: 18": null
   },
   {
     "ID": "3553190",
@@ -7858,7 +8254,8 @@ const ARREMATE_ACABAMENTO_DATA = [
     "Frente": "261 - FRENTE PRÓPRIA  (EDMILSON)",
     "Responsável": "VITOR AMORIM RAMOS ",
     "Arremate e Acabamento": "BOM",
-    "Fazenda": NaN
+    "Fazenda": null,
+    "Unnamed: 18": null
   },
   {
     "ID": "3552930",
@@ -7878,7 +8275,8 @@ const ARREMATE_ACABAMENTO_DATA = [
     "Frente": "143 - FRENTE CASSIO",
     "Responsável": "GABRIEL HENRIQUE MARTINS PEREIRA",
     "Arremate e Acabamento": "BOM",
-    "Fazenda": NaN
+    "Fazenda": null,
+    "Unnamed: 18": null
   },
   {
     "ID": "3551457",
@@ -7898,7 +8296,8 @@ const ARREMATE_ACABAMENTO_DATA = [
     "Frente": "261 - FRENTE PRÓPRIA  (EDMILSON)",
     "Responsável": "VITOR AMORIM RAMOS ",
     "Arremate e Acabamento": "BOM",
-    "Fazenda": NaN
+    "Fazenda": null,
+    "Unnamed: 18": null
   },
   {
     "ID": "3551456",
@@ -7918,7 +8317,8 @@ const ARREMATE_ACABAMENTO_DATA = [
     "Frente": "261 - FRENTE PRÓPRIA  (EDMILSON)",
     "Responsável": "VITOR AMORIM RAMOS ",
     "Arremate e Acabamento": "BOM",
-    "Fazenda": NaN
+    "Fazenda": null,
+    "Unnamed: 18": null
   },
   {
     "ID": "3551339",
@@ -7938,7 +8338,8 @@ const ARREMATE_ACABAMENTO_DATA = [
     "Frente": "135 - PEDRINHO ",
     "Responsável": "MARCELO DE OLIVEIRA JUNIOR",
     "Arremate e Acabamento": "BOM",
-    "Fazenda": NaN
+    "Fazenda": null,
+    "Unnamed: 18": null
   },
   {
     "ID": "3551041",
@@ -7958,7 +8359,8 @@ const ARREMATE_ACABAMENTO_DATA = [
     "Frente": "261 - FRENTE PRÓPRIA  (EDMILSON)",
     "Responsável": "VITOR AMORIM RAMOS ",
     "Arremate e Acabamento": "BOM",
-    "Fazenda": NaN
+    "Fazenda": null,
+    "Unnamed: 18": null
   },
   {
     "ID": "3551004",
@@ -7978,7 +8380,8 @@ const ARREMATE_ACABAMENTO_DATA = [
     "Frente": "261 - FRENTE PRÓPRIA  (EDMILSON)",
     "Responsável": "VITOR AMORIM RAMOS ",
     "Arremate e Acabamento": "BOM",
-    "Fazenda": NaN
+    "Fazenda": null,
+    "Unnamed: 18": null
   },
   {
     "ID": "3551097",
@@ -7998,7 +8401,8 @@ const ARREMATE_ACABAMENTO_DATA = [
     "Frente": "261 - FRENTE PRÓPRIA  (EDMILSON)",
     "Responsável": "VITOR AMORIM RAMOS ",
     "Arremate e Acabamento": "BOM",
-    "Fazenda": NaN
+    "Fazenda": null,
+    "Unnamed: 18": null
   },
   {
     "ID": "3549603",
@@ -8018,7 +8422,8 @@ const ARREMATE_ACABAMENTO_DATA = [
     "Frente": "135 - PEDRINHO ",
     "Responsável": "MARCELO DE OLIVEIRA JUNIOR",
     "Arremate e Acabamento": "BOM",
-    "Fazenda": NaN
+    "Fazenda": null,
+    "Unnamed: 18": null
   },
   {
     "ID": "3549638",
@@ -8038,7 +8443,8 @@ const ARREMATE_ACABAMENTO_DATA = [
     "Frente": "139 - FRENTE MANEZÃO",
     "Responsável": "MICHELI DE SOUZA SANTOS  ",
     "Arremate e Acabamento": "BOM",
-    "Fazenda": NaN
+    "Fazenda": null,
+    "Unnamed: 18": null
   },
   {
     "ID": "3549637",
@@ -8058,7 +8464,8 @@ const ARREMATE_ACABAMENTO_DATA = [
     "Frente": "139 - FRENTE MANEZÃO",
     "Responsável": "MICHELI DE SOUZA SANTOS  ",
     "Arremate e Acabamento": "BOM",
-    "Fazenda": NaN
+    "Fazenda": null,
+    "Unnamed: 18": null
   },
   {
     "ID": "3549582",
@@ -8078,7 +8485,8 @@ const ARREMATE_ACABAMENTO_DATA = [
     "Frente": "261 - FRENTE PRÓPRIA  (EDMILSON)",
     "Responsável": "VITOR AMORIM RAMOS ",
     "Arremate e Acabamento": "BOM",
-    "Fazenda": NaN
+    "Fazenda": null,
+    "Unnamed: 18": null
   },
   {
     "ID": "3549581",
@@ -8098,7 +8506,8 @@ const ARREMATE_ACABAMENTO_DATA = [
     "Frente": "261 - FRENTE PRÓPRIA  (EDMILSON)",
     "Responsável": "VITOR AMORIM RAMOS ",
     "Arremate e Acabamento": "BOM",
-    "Fazenda": NaN
+    "Fazenda": null,
+    "Unnamed: 18": null
   },
   {
     "ID": "3549580",
@@ -8118,7 +8527,8 @@ const ARREMATE_ACABAMENTO_DATA = [
     "Frente": "261 - FRENTE PRÓPRIA  (EDMILSON)",
     "Responsável": "VITOR AMORIM RAMOS ",
     "Arremate e Acabamento": "BOM",
-    "Fazenda": NaN
+    "Fazenda": null,
+    "Unnamed: 18": null
   },
   {
     "ID": "3549178",
@@ -8138,7 +8548,8 @@ const ARREMATE_ACABAMENTO_DATA = [
     "Frente": "142 - FRENTE BIDU",
     "Responsável": "Leonardo Ribeiro Teixeira da Silva",
     "Arremate e Acabamento": "BOM",
-    "Fazenda": NaN
+    "Fazenda": null,
+    "Unnamed: 18": null
   },
   {
     "ID": "3549626",
@@ -8158,7 +8569,8 @@ const ARREMATE_ACABAMENTO_DATA = [
     "Frente": "139 - FRENTE MANEZÃO",
     "Responsável": "MICHELI DE SOUZA SANTOS  ",
     "Arremate e Acabamento": "BOM",
-    "Fazenda": NaN
+    "Fazenda": null,
+    "Unnamed: 18": null
   },
   {
     "ID": "3549543",
@@ -8178,7 +8590,8 @@ const ARREMATE_ACABAMENTO_DATA = [
     "Frente": "261 - FRENTE PRÓPRIA  (EDMILSON)",
     "Responsável": "VITOR AMORIM RAMOS ",
     "Arremate e Acabamento": "BOM",
-    "Fazenda": NaN
+    "Fazenda": null,
+    "Unnamed: 18": null
   },
   {
     "ID": "3549609",
@@ -8198,7 +8611,8 @@ const ARREMATE_ACABAMENTO_DATA = [
     "Frente": "139 - FRENTE MANEZÃO",
     "Responsável": "MICHELI DE SOUZA SANTOS  ",
     "Arremate e Acabamento": "BOM",
-    "Fazenda": NaN
+    "Fazenda": null,
+    "Unnamed: 18": null
   },
   {
     "ID": "3547499",
@@ -8218,7 +8632,8 @@ const ARREMATE_ACABAMENTO_DATA = [
     "Frente": "142 - FRENTE BIDU",
     "Responsável": "Leonardo Ribeiro Teixeira da Silva",
     "Arremate e Acabamento": "BOM",
-    "Fazenda": NaN
+    "Fazenda": null,
+    "Unnamed: 18": null
   },
   {
     "ID": "3547536",
@@ -8238,7 +8653,8 @@ const ARREMATE_ACABAMENTO_DATA = [
     "Frente": "105 - FRENTE CASSIO",
     "Responsável": "NILDA CLAUDINO [2510716]",
     "Arremate e Acabamento": "BOM",
-    "Fazenda": NaN
+    "Fazenda": null,
+    "Unnamed: 18": null
   },
   {
     "ID": "3547187",
@@ -8258,7 +8674,8 @@ const ARREMATE_ACABAMENTO_DATA = [
     "Frente": "261 - FRENTE PRÓPRIA  (EDMILSON)",
     "Responsável": "VITOR AMORIM RAMOS ",
     "Arremate e Acabamento": "BOM",
-    "Fazenda": NaN
+    "Fazenda": null,
+    "Unnamed: 18": null
   },
   {
     "ID": "3547046",
@@ -8278,7 +8695,8 @@ const ARREMATE_ACABAMENTO_DATA = [
     "Frente": "101 - FRENTE MECANIZADA",
     "Responsável": "FERNANDA DE SOUZA ",
     "Arremate e Acabamento": "BOM",
-    "Fazenda": NaN
+    "Fazenda": null,
+    "Unnamed: 18": null
   },
   {
     "ID": "3546922",
@@ -8298,7 +8716,8 @@ const ARREMATE_ACABAMENTO_DATA = [
     "Frente": "142 - FRENTE BIDU",
     "Responsável": "Leonardo Ribeiro Teixeira da Silva",
     "Arremate e Acabamento": "BOM",
-    "Fazenda": NaN
+    "Fazenda": null,
+    "Unnamed: 18": null
   },
   {
     "ID": "3547137",
@@ -8318,7 +8737,8 @@ const ARREMATE_ACABAMENTO_DATA = [
     "Frente": "261 - FRENTE PRÓPRIA  (EDMILSON)",
     "Responsável": "VITOR AMORIM RAMOS ",
     "Arremate e Acabamento": "BOM",
-    "Fazenda": NaN
+    "Fazenda": null,
+    "Unnamed: 18": null
   },
   {
     "ID": "3547171",
@@ -8338,7 +8758,8 @@ const ARREMATE_ACABAMENTO_DATA = [
     "Frente": "261 - FRENTE PRÓPRIA  (EDMILSON)",
     "Responsável": "VITOR AMORIM RAMOS ",
     "Arremate e Acabamento": "BOM",
-    "Fazenda": NaN
+    "Fazenda": null,
+    "Unnamed: 18": null
   },
   {
     "ID": "3547301",
@@ -8358,7 +8779,8 @@ const ARREMATE_ACABAMENTO_DATA = [
     "Frente": "143 - FRENTE CASSIO",
     "Responsável": "GABRIEL HENRIQUE MARTINS PEREIRA",
     "Arremate e Acabamento": "BOM",
-    "Fazenda": NaN
+    "Fazenda": null,
+    "Unnamed: 18": null
   },
   {
     "ID": "3547274",
@@ -8378,7 +8800,8 @@ const ARREMATE_ACABAMENTO_DATA = [
     "Frente": "143 - FRENTE CASSIO",
     "Responsável": "GABRIEL HENRIQUE MARTINS PEREIRA",
     "Arremate e Acabamento": "BOM",
-    "Fazenda": NaN
+    "Fazenda": null,
+    "Unnamed: 18": null
   },
   {
     "ID": "3544923",
@@ -8398,7 +8821,8 @@ const ARREMATE_ACABAMENTO_DATA = [
     "Frente": "135 - PEDRINHO ",
     "Responsável": "MARCELO DE OLIVEIRA JUNIOR",
     "Arremate e Acabamento": "BOM",
-    "Fazenda": NaN
+    "Fazenda": null,
+    "Unnamed: 18": null
   },
   {
     "ID": "3545057",
@@ -8418,7 +8842,8 @@ const ARREMATE_ACABAMENTO_DATA = [
     "Frente": "261 - FRENTE PRÓPRIA  (EDMILSON)",
     "Responsável": "VITOR AMORIM RAMOS ",
     "Arremate e Acabamento": "BOM",
-    "Fazenda": NaN
+    "Fazenda": null,
+    "Unnamed: 18": null
   },
   {
     "ID": "3545049",
@@ -8438,7 +8863,8 @@ const ARREMATE_ACABAMENTO_DATA = [
     "Frente": "261 - FRENTE PRÓPRIA  (EDMILSON)",
     "Responsável": "VITOR AMORIM RAMOS ",
     "Arremate e Acabamento": "BOM",
-    "Fazenda": NaN
+    "Fazenda": null,
+    "Unnamed: 18": null
   },
   {
     "ID": "3545048",
@@ -8458,7 +8884,8 @@ const ARREMATE_ACABAMENTO_DATA = [
     "Frente": "261 - FRENTE PRÓPRIA  (EDMILSON)",
     "Responsável": "VITOR AMORIM RAMOS ",
     "Arremate e Acabamento": "BOM",
-    "Fazenda": NaN
+    "Fazenda": null,
+    "Unnamed: 18": null
   },
   {
     "ID": "3544718",
@@ -8478,7 +8905,8 @@ const ARREMATE_ACABAMENTO_DATA = [
     "Frente": "101 - FRENTE MECANIZADA",
     "Responsável": "FERNANDA DE SOUZA ",
     "Arremate e Acabamento": "BOM",
-    "Fazenda": NaN
+    "Fazenda": null,
+    "Unnamed: 18": null
   },
   {
     "ID": "3544569",
@@ -8498,7 +8926,8 @@ const ARREMATE_ACABAMENTO_DATA = [
     "Frente": "139 - FRENTE MANEZÃO",
     "Responsável": "MICHELI DE SOUZA SANTOS  ",
     "Arremate e Acabamento": "BOM",
-    "Fazenda": NaN
+    "Fazenda": null,
+    "Unnamed: 18": null
   },
   {
     "ID": "3544568",
@@ -8518,7 +8947,8 @@ const ARREMATE_ACABAMENTO_DATA = [
     "Frente": "139 - FRENTE MANEZÃO",
     "Responsável": "MICHELI DE SOUZA SANTOS  ",
     "Arremate e Acabamento": "BOM",
-    "Fazenda": NaN
+    "Fazenda": null,
+    "Unnamed: 18": null
   },
   {
     "ID": "3544291",
@@ -8538,7 +8968,8 @@ const ARREMATE_ACABAMENTO_DATA = [
     "Frente": "142 - FRENTE BIDU",
     "Responsável": "Leonardo Ribeiro Teixeira da Silva",
     "Arremate e Acabamento": "BOM",
-    "Fazenda": NaN
+    "Fazenda": null,
+    "Unnamed: 18": null
   },
   {
     "ID": "3544997",
@@ -8558,7 +8989,8 @@ const ARREMATE_ACABAMENTO_DATA = [
     "Frente": "261 - FRENTE PRÓPRIA  (EDMILSON)",
     "Responsável": "VITOR AMORIM RAMOS ",
     "Arremate e Acabamento": "BOM",
-    "Fazenda": NaN
+    "Fazenda": null,
+    "Unnamed: 18": null
   },
   {
     "ID": "3544225",
@@ -8578,7 +9010,8 @@ const ARREMATE_ACABAMENTO_DATA = [
     "Frente": "105 - FRENTE CASSIO",
     "Responsável": "NILDA CLAUDINO [2510716]",
     "Arremate e Acabamento": "BOM",
-    "Fazenda": NaN
+    "Fazenda": null,
+    "Unnamed: 18": null
   },
   {
     "ID": "3544280",
@@ -8598,7 +9031,8 @@ const ARREMATE_ACABAMENTO_DATA = [
     "Frente": "142 - FRENTE BIDU",
     "Responsável": "Leonardo Ribeiro Teixeira da Silva",
     "Arremate e Acabamento": "BOM",
-    "Fazenda": NaN
+    "Fazenda": null,
+    "Unnamed: 18": null
   },
   {
     "ID": "3544614",
@@ -8618,7 +9052,8 @@ const ARREMATE_ACABAMENTO_DATA = [
     "Frente": "143 - FRENTE CASSIO",
     "Responsável": "GABRIEL HENRIQUE MARTINS PEREIRA",
     "Arremate e Acabamento": "BOM",
-    "Fazenda": NaN
+    "Fazenda": null,
+    "Unnamed: 18": null
   },
   {
     "ID": "3544613",
@@ -8638,7 +9073,8 @@ const ARREMATE_ACABAMENTO_DATA = [
     "Frente": "143 - FRENTE CASSIO",
     "Responsável": "GABRIEL HENRIQUE MARTINS PEREIRA",
     "Arremate e Acabamento": "BOM",
-    "Fazenda": NaN
+    "Fazenda": null,
+    "Unnamed: 18": null
   },
   {
     "ID": "3544973",
@@ -8658,7 +9094,8 @@ const ARREMATE_ACABAMENTO_DATA = [
     "Frente": "261 - FRENTE PRÓPRIA  (EDMILSON)",
     "Responsável": "VITOR AMORIM RAMOS ",
     "Arremate e Acabamento": "BOM",
-    "Fazenda": NaN
+    "Fazenda": null,
+    "Unnamed: 18": null
   },
   {
     "ID": "3542277",
@@ -8678,7 +9115,8 @@ const ARREMATE_ACABAMENTO_DATA = [
     "Frente": "135 - PEDRINHO ",
     "Responsável": "MARCELO DE OLIVEIRA JUNIOR",
     "Arremate e Acabamento": "BOM",
-    "Fazenda": NaN
+    "Fazenda": null,
+    "Unnamed: 18": null
   },
   {
     "ID": "3542273",
@@ -8698,7 +9136,8 @@ const ARREMATE_ACABAMENTO_DATA = [
     "Frente": "135 - PEDRINHO ",
     "Responsável": "MARCELO DE OLIVEIRA JUNIOR",
     "Arremate e Acabamento": "BOM",
-    "Fazenda": NaN
+    "Fazenda": null,
+    "Unnamed: 18": null
   },
   {
     "ID": "3542340",
@@ -8718,7 +9157,8 @@ const ARREMATE_ACABAMENTO_DATA = [
     "Frente": "105 - FRENTE CASSIO",
     "Responsável": "NILDA CLAUDINO [2510716]",
     "Arremate e Acabamento": "BOM",
-    "Fazenda": NaN
+    "Fazenda": null,
+    "Unnamed: 18": null
   },
   {
     "ID": "3541905",
@@ -8738,7 +9178,8 @@ const ARREMATE_ACABAMENTO_DATA = [
     "Frente": "101 - FRENTE MECANIZADA",
     "Responsável": "FERNANDA DE SOUZA ",
     "Arremate e Acabamento": "BOM",
-    "Fazenda": NaN
+    "Fazenda": null,
+    "Unnamed: 18": null
   },
   {
     "ID": "3542347",
@@ -8758,7 +9199,8 @@ const ARREMATE_ACABAMENTO_DATA = [
     "Frente": "139 - FRENTE MANEZÃO",
     "Responsável": "MICHELI DE SOUZA SANTOS  ",
     "Arremate e Acabamento": "BOM",
-    "Fazenda": NaN
+    "Fazenda": null,
+    "Unnamed: 18": null
   },
   {
     "ID": "3541942",
@@ -8778,7 +9220,8 @@ const ARREMATE_ACABAMENTO_DATA = [
     "Frente": "142 - FRENTE BIDU",
     "Responsável": "Leonardo Ribeiro Teixeira da Silva",
     "Arremate e Acabamento": "BOM",
-    "Fazenda": NaN
+    "Fazenda": null,
+    "Unnamed: 18": null
   },
   {
     "ID": "3541906",
@@ -8798,7 +9241,8 @@ const ARREMATE_ACABAMENTO_DATA = [
     "Frente": "142 - FRENTE BIDU",
     "Responsável": "Leonardo Ribeiro Teixeira da Silva",
     "Arremate e Acabamento": "BOM",
-    "Fazenda": NaN
+    "Fazenda": null,
+    "Unnamed: 18": null
   },
   {
     "ID": "3542319",
@@ -8818,7 +9262,8 @@ const ARREMATE_ACABAMENTO_DATA = [
     "Frente": "105 - FRENTE CASSIO",
     "Responsável": "NILDA CLAUDINO [2510716]",
     "Arremate e Acabamento": "BOM",
-    "Fazenda": NaN
+    "Fazenda": null,
+    "Unnamed: 18": null
   },
   {
     "ID": "3542066",
@@ -8838,7 +9283,8 @@ const ARREMATE_ACABAMENTO_DATA = [
     "Frente": "143 - FRENTE CASSIO",
     "Responsável": "GABRIEL HENRIQUE MARTINS PEREIRA",
     "Arremate e Acabamento": "BOM",
-    "Fazenda": NaN
+    "Fazenda": null,
+    "Unnamed: 18": null
   },
   {
     "ID": "3542065",
@@ -8858,7 +9304,8 @@ const ARREMATE_ACABAMENTO_DATA = [
     "Frente": "143 - FRENTE CASSIO",
     "Responsável": "GABRIEL HENRIQUE MARTINS PEREIRA",
     "Arremate e Acabamento": "BOM",
-    "Fazenda": NaN
+    "Fazenda": null,
+    "Unnamed: 18": null
   },
   {
     "ID": "3540771",
@@ -8878,7 +9325,8 @@ const ARREMATE_ACABAMENTO_DATA = [
     "Frente": "135 - PEDRINHO ",
     "Responsável": "MARCELO DE OLIVEIRA JUNIOR",
     "Arremate e Acabamento": "BOM",
-    "Fazenda": NaN
+    "Fazenda": null,
+    "Unnamed: 18": null
   },
   {
     "ID": "3540666",
@@ -8898,7 +9346,8 @@ const ARREMATE_ACABAMENTO_DATA = [
     "Frente": "261 - FRENTE PRÓPRIA  (EDMILSON)",
     "Responsável": "VITOR AMORIM RAMOS ",
     "Arremate e Acabamento": "BOM",
-    "Fazenda": NaN
+    "Fazenda": null,
+    "Unnamed: 18": null
   },
   {
     "ID": "3540561",
@@ -8918,7 +9367,8 @@ const ARREMATE_ACABAMENTO_DATA = [
     "Frente": "261 - FRENTE PRÓPRIA  (EDMILSON)",
     "Responsável": "VITOR AMORIM RAMOS ",
     "Arremate e Acabamento": "BOM",
-    "Fazenda": NaN
+    "Fazenda": null,
+    "Unnamed: 18": null
   },
   {
     "ID": "3540012",
@@ -8938,7 +9388,8 @@ const ARREMATE_ACABAMENTO_DATA = [
     "Frente": "139 - FRENTE MANEZÃO",
     "Responsável": "MICHELI DE SOUZA SANTOS  ",
     "Arremate e Acabamento": "BOM",
-    "Fazenda": NaN
+    "Fazenda": null,
+    "Unnamed: 18": null
   },
   {
     "ID": "3540215",
@@ -8958,7 +9409,8 @@ const ARREMATE_ACABAMENTO_DATA = [
     "Frente": "101 - FRENTE MECANIZADA",
     "Responsável": "FERNANDA DE SOUZA ",
     "Arremate e Acabamento": "BOM",
-    "Fazenda": NaN
+    "Fazenda": null,
+    "Unnamed: 18": null
   },
   {
     "ID": "3539604",
@@ -8978,7 +9430,8 @@ const ARREMATE_ACABAMENTO_DATA = [
     "Frente": "261 - FRENTE PRÓPRIA  (EDMILSON)",
     "Responsável": "VITOR AMORIM RAMOS ",
     "Arremate e Acabamento": "BOM",
-    "Fazenda": NaN
+    "Fazenda": null,
+    "Unnamed: 18": null
   },
   {
     "ID": "3539999",
@@ -8998,7 +9451,8 @@ const ARREMATE_ACABAMENTO_DATA = [
     "Frente": "142 - FRENTE BIDU",
     "Responsável": "MICHELI DE SOUZA SANTOS  ",
     "Arremate e Acabamento": "BOM",
-    "Fazenda": NaN
+    "Fazenda": null,
+    "Unnamed: 18": null
   },
   {
     "ID": "3540089",
@@ -9018,7 +9472,8 @@ const ARREMATE_ACABAMENTO_DATA = [
     "Frente": "105 - FRENTE CASSIO",
     "Responsável": "NILDA CLAUDINO [2510716]",
     "Arremate e Acabamento": "BOM",
-    "Fazenda": NaN
+    "Fazenda": null,
+    "Unnamed: 18": null
   },
   {
     "ID": "3539593",
@@ -9038,7 +9493,8 @@ const ARREMATE_ACABAMENTO_DATA = [
     "Frente": "261 - FRENTE PRÓPRIA  (EDMILSON)",
     "Responsável": "VITOR AMORIM RAMOS ",
     "Arremate e Acabamento": "BOM",
-    "Fazenda": NaN
+    "Fazenda": null,
+    "Unnamed: 18": null
   },
   {
     "ID": "3539589",
@@ -9058,7 +9514,8 @@ const ARREMATE_ACABAMENTO_DATA = [
     "Frente": "261 - FRENTE PRÓPRIA  (EDMILSON)",
     "Responsável": "VITOR AMORIM RAMOS ",
     "Arremate e Acabamento": "BOM",
-    "Fazenda": NaN
+    "Fazenda": null,
+    "Unnamed: 18": null
   },
   {
     "ID": "3539573",
@@ -9078,7 +9535,8 @@ const ARREMATE_ACABAMENTO_DATA = [
     "Frente": "261 - FRENTE PRÓPRIA  (EDMILSON)",
     "Responsável": "VITOR AMORIM RAMOS ",
     "Arremate e Acabamento": "BOM",
-    "Fazenda": NaN
+    "Fazenda": null,
+    "Unnamed: 18": null
   },
   {
     "ID": "3539572",
@@ -9098,7 +9556,8 @@ const ARREMATE_ACABAMENTO_DATA = [
     "Frente": "261 - FRENTE PRÓPRIA  (EDMILSON)",
     "Responsável": "VITOR AMORIM RAMOS ",
     "Arremate e Acabamento": "BOM",
-    "Fazenda": NaN
+    "Fazenda": null,
+    "Unnamed: 18": null
   },
   {
     "ID": "3539373",
@@ -9118,7 +9577,8 @@ const ARREMATE_ACABAMENTO_DATA = [
     "Frente": "143 - FRENTE CASSIO",
     "Responsável": "GABRIEL HENRIQUE MARTINS PEREIRA",
     "Arremate e Acabamento": "BOM",
-    "Fazenda": NaN
+    "Fazenda": null,
+    "Unnamed: 18": null
   },
   {
     "ID": "3539357",
@@ -9138,7 +9598,8 @@ const ARREMATE_ACABAMENTO_DATA = [
     "Frente": "143 - FRENTE CASSIO",
     "Responsável": "GABRIEL HENRIQUE MARTINS PEREIRA",
     "Arremate e Acabamento": "BOM",
-    "Fazenda": NaN
+    "Fazenda": null,
+    "Unnamed: 18": null
   },
   {
     "ID": "3539543",
@@ -9158,7 +9619,8 @@ const ARREMATE_ACABAMENTO_DATA = [
     "Frente": "291 - FRENTE PRÓPRIA ",
     "Responsável": "VITOR AMORIM RAMOS ",
     "Arremate e Acabamento": "BOM",
-    "Fazenda": NaN
+    "Fazenda": null,
+    "Unnamed: 18": null
   },
   {
     "ID": "3539542",
@@ -9178,7 +9640,8 @@ const ARREMATE_ACABAMENTO_DATA = [
     "Frente": "261 - FRENTE PRÓPRIA  (EDMILSON)",
     "Responsável": "VITOR AMORIM RAMOS ",
     "Arremate e Acabamento": "BOM",
-    "Fazenda": NaN
+    "Fazenda": null,
+    "Unnamed: 18": null
   },
   {
     "ID": "3538770",
@@ -9198,7 +9661,8 @@ const ARREMATE_ACABAMENTO_DATA = [
     "Frente": "261 - FRENTE PRÓPRIA  (EDMILSON)",
     "Responsável": "VITOR AMORIM RAMOS ",
     "Arremate e Acabamento": "BOM",
-    "Fazenda": NaN
+    "Fazenda": null,
+    "Unnamed: 18": null
   },
   {
     "ID": "3538769",
@@ -9218,7 +9682,8 @@ const ARREMATE_ACABAMENTO_DATA = [
     "Frente": "261 - FRENTE PRÓPRIA  (EDMILSON)",
     "Responsável": "VITOR AMORIM RAMOS ",
     "Arremate e Acabamento": "BOM",
-    "Fazenda": NaN
+    "Fazenda": null,
+    "Unnamed: 18": null
   },
   {
     "ID": "3538837",
@@ -9238,7 +9703,8 @@ const ARREMATE_ACABAMENTO_DATA = [
     "Frente": "139 - FRENTE MANEZÃO",
     "Responsável": "MICHELI DE SOUZA SANTOS  ",
     "Arremate e Acabamento": "BOM",
-    "Fazenda": NaN
+    "Fazenda": null,
+    "Unnamed: 18": null
   },
   {
     "ID": "3538830",
@@ -9258,7 +9724,8 @@ const ARREMATE_ACABAMENTO_DATA = [
     "Frente": "142 - FRENTE BIDU",
     "Responsável": "MICHELI DE SOUZA SANTOS  ",
     "Arremate e Acabamento": "BOM",
-    "Fazenda": NaN
+    "Fazenda": null,
+    "Unnamed: 18": null
   },
   {
     "ID": "3537930",
@@ -9278,7 +9745,8 @@ const ARREMATE_ACABAMENTO_DATA = [
     "Frente": "261 - FRENTE PRÓPRIA  (EDMILSON)",
     "Responsável": "VITOR AMORIM RAMOS ",
     "Arremate e Acabamento": "BOM",
-    "Fazenda": NaN
+    "Fazenda": null,
+    "Unnamed: 18": null
   },
   {
     "ID": "3537928",
@@ -9298,7 +9766,8 @@ const ARREMATE_ACABAMENTO_DATA = [
     "Frente": "261 - FRENTE PRÓPRIA  (EDMILSON)",
     "Responsável": "VITOR AMORIM RAMOS ",
     "Arremate e Acabamento": "BOM",
-    "Fazenda": NaN
+    "Fazenda": null,
+    "Unnamed: 18": null
   },
   {
     "ID": "3537591",
@@ -9318,7 +9787,8 @@ const ARREMATE_ACABAMENTO_DATA = [
     "Frente": "105 - FRENTE CASSIO",
     "Responsável": "NILDA CLAUDINO [2510716]",
     "Arremate e Acabamento": "BOM",
-    "Fazenda": NaN
+    "Fazenda": null,
+    "Unnamed: 18": null
   },
   {
     "ID": "3538402",
@@ -9338,7 +9808,8 @@ const ARREMATE_ACABAMENTO_DATA = [
     "Frente": "135 - PEDRINHO ",
     "Responsável": "MARCELO DE OLIVEIRA JUNIOR",
     "Arremate e Acabamento": "BOM",
-    "Fazenda": NaN
+    "Fazenda": null,
+    "Unnamed: 18": null
   },
   {
     "ID": "3537872",
@@ -9358,7 +9829,8 @@ const ARREMATE_ACABAMENTO_DATA = [
     "Frente": "261 - FRENTE PRÓPRIA  (EDMILSON)",
     "Responsável": "VITOR AMORIM RAMOS ",
     "Arremate e Acabamento": "BOM",
-    "Fazenda": NaN
+    "Fazenda": null,
+    "Unnamed: 18": null
   },
   {
     "ID": "3537822",
@@ -9378,7 +9850,8 @@ const ARREMATE_ACABAMENTO_DATA = [
     "Frente": "101 - FRENTE MECANIZADA",
     "Responsável": "FERNANDA DE SOUZA ",
     "Arremate e Acabamento": "BOM",
-    "Fazenda": NaN
+    "Fazenda": null,
+    "Unnamed: 18": null
   },
   {
     "ID": "3537263",
@@ -9398,7 +9871,8 @@ const ARREMATE_ACABAMENTO_DATA = [
     "Frente": "105 - FRENTE CASSIO",
     "Responsável": "NILDA CLAUDINO [2510716]",
     "Arremate e Acabamento": "BOM",
-    "Fazenda": NaN
+    "Fazenda": null,
+    "Unnamed: 18": null
   },
   {
     "ID": "3536056",
@@ -9418,7 +9892,8 @@ const ARREMATE_ACABAMENTO_DATA = [
     "Frente": "135 - PEDRINHO ",
     "Responsável": "MARCELO DE OLIVEIRA JUNIOR",
     "Arremate e Acabamento": "BOM",
-    "Fazenda": NaN
+    "Fazenda": null,
+    "Unnamed: 18": null
   },
   {
     "ID": "3535658",
@@ -9438,7 +9913,8 @@ const ARREMATE_ACABAMENTO_DATA = [
     "Frente": "105 - FRENTE CASSIO",
     "Responsável": "NILDA CLAUDINO [2510716]",
     "Arremate e Acabamento": "BOM",
-    "Fazenda": NaN
+    "Fazenda": null,
+    "Unnamed: 18": null
   },
   {
     "ID": "3537142",
@@ -9458,7 +9934,8 @@ const ARREMATE_ACABAMENTO_DATA = [
     "Frente": "261 - FRENTE PRÓPRIA  (EDMILSON)",
     "Responsável": "VITOR AMORIM RAMOS ",
     "Arremate e Acabamento": "BOM",
-    "Fazenda": NaN
+    "Fazenda": null,
+    "Unnamed: 18": null
   },
   {
     "ID": "3537141",
@@ -9478,7 +9955,8 @@ const ARREMATE_ACABAMENTO_DATA = [
     "Frente": "261 - FRENTE PRÓPRIA  (EDMILSON)",
     "Responsável": "VITOR AMORIM RAMOS ",
     "Arremate e Acabamento": "BOM",
-    "Fazenda": NaN
+    "Fazenda": null,
+    "Unnamed: 18": null
   },
   {
     "ID": "3535645",
@@ -9498,7 +9976,8 @@ const ARREMATE_ACABAMENTO_DATA = [
     "Frente": "143 - FRENTE CASSIO",
     "Responsável": "GABRIEL HENRIQUE MARTINS PEREIRA",
     "Arremate e Acabamento": "BOM",
-    "Fazenda": NaN
+    "Fazenda": null,
+    "Unnamed: 18": null
   },
   {
     "ID": "3535644",
@@ -9518,7 +9997,8 @@ const ARREMATE_ACABAMENTO_DATA = [
     "Frente": "143 - FRENTE CASSIO",
     "Responsável": "GABRIEL HENRIQUE MARTINS PEREIRA",
     "Arremate e Acabamento": "BOM",
-    "Fazenda": NaN
+    "Fazenda": null,
+    "Unnamed: 18": null
   },
   {
     "ID": "3537109",
@@ -9538,7 +10018,8 @@ const ARREMATE_ACABAMENTO_DATA = [
     "Frente": "261 - FRENTE PRÓPRIA  (EDMILSON)",
     "Responsável": "VITOR AMORIM RAMOS ",
     "Arremate e Acabamento": "BOM",
-    "Fazenda": NaN
+    "Fazenda": null,
+    "Unnamed: 18": null
   },
   {
     "ID": "3534455",
@@ -9558,7 +10039,8 @@ const ARREMATE_ACABAMENTO_DATA = [
     "Frente": "135 - PEDRINHO ",
     "Responsável": "MARCELO DE OLIVEIRA JUNIOR",
     "Arremate e Acabamento": "BOM",
-    "Fazenda": NaN
+    "Fazenda": null,
+    "Unnamed: 18": null
   },
   {
     "ID": "3534247",
@@ -9578,7 +10060,8 @@ const ARREMATE_ACABAMENTO_DATA = [
     "Frente": "261 - FRENTE PRÓPRIA  (EDMILSON)",
     "Responsável": "VITOR AMORIM RAMOS ",
     "Arremate e Acabamento": "BOM",
-    "Fazenda": NaN
+    "Fazenda": null,
+    "Unnamed: 18": null
   },
   {
     "ID": "3534213",
@@ -9598,7 +10081,8 @@ const ARREMATE_ACABAMENTO_DATA = [
     "Frente": "105 - FRENTE CASSIO",
     "Responsável": "NILDA CLAUDINO [2510716]",
     "Arremate e Acabamento": "BOM",
-    "Fazenda": NaN
+    "Fazenda": null,
+    "Unnamed: 18": null
   },
   {
     "ID": "3534200",
@@ -9618,7 +10102,8 @@ const ARREMATE_ACABAMENTO_DATA = [
     "Frente": "105 - FRENTE CASSIO",
     "Responsável": "NILDA CLAUDINO [2510716]",
     "Arremate e Acabamento": "BOM",
-    "Fazenda": NaN
+    "Fazenda": null,
+    "Unnamed: 18": null
   },
   {
     "ID": "3534114",
@@ -9638,7 +10123,8 @@ const ARREMATE_ACABAMENTO_DATA = [
     "Frente": "101 - FRENTE MECANIZADA",
     "Responsável": "FERNANDA DE SOUZA ",
     "Arremate e Acabamento": "BOM",
-    "Fazenda": NaN
+    "Fazenda": null,
+    "Unnamed: 18": null
   },
   {
     "ID": "3533994",
@@ -9658,7 +10144,8 @@ const ARREMATE_ACABAMENTO_DATA = [
     "Frente": "135 - PEDRINHO ",
     "Responsável": "MARCELO DE OLIVEIRA JUNIOR",
     "Arremate e Acabamento": "BOM",
-    "Fazenda": NaN
+    "Fazenda": null,
+    "Unnamed: 18": null
   },
   {
     "ID": "3533815",
@@ -9678,7 +10165,8 @@ const ARREMATE_ACABAMENTO_DATA = [
     "Frente": "142 - FRENTE BIDU",
     "Responsável": "GABRIEL HENRIQUE MARTINS PEREIRA",
     "Arremate e Acabamento": "BOM",
-    "Fazenda": NaN
+    "Fazenda": null,
+    "Unnamed: 18": null
   },
   {
     "ID": "3533813",
@@ -9698,7 +10186,8 @@ const ARREMATE_ACABAMENTO_DATA = [
     "Frente": "142 - FRENTE BIDU",
     "Responsável": "GABRIEL HENRIQUE MARTINS PEREIRA",
     "Arremate e Acabamento": "BOM",
-    "Fazenda": NaN
+    "Fazenda": null,
+    "Unnamed: 18": null
   },
   {
     "ID": "3534181",
@@ -9718,7 +10207,8 @@ const ARREMATE_ACABAMENTO_DATA = [
     "Frente": "105 - FRENTE CASSIO",
     "Responsável": "NILDA CLAUDINO [2510716]",
     "Arremate e Acabamento": "BOM",
-    "Fazenda": NaN
+    "Fazenda": null,
+    "Unnamed: 18": null
   },
   {
     "ID": "3533860",
@@ -9738,7 +10228,8 @@ const ARREMATE_ACABAMENTO_DATA = [
     "Frente": "261 - FRENTE PRÓPRIA  (EDMILSON)",
     "Responsável": "VITOR AMORIM RAMOS ",
     "Arremate e Acabamento": "BOM",
-    "Fazenda": NaN
+    "Fazenda": null,
+    "Unnamed: 18": null
   },
   {
     "ID": "3533822",
@@ -9758,7 +10249,8 @@ const ARREMATE_ACABAMENTO_DATA = [
     "Frente": "261 - FRENTE PRÓPRIA  (EDMILSON)",
     "Responsável": "VITOR AMORIM RAMOS ",
     "Arremate e Acabamento": "BOM",
-    "Fazenda": NaN
+    "Fazenda": null,
+    "Unnamed: 18": null
   },
   {
     "ID": "3533762",
@@ -9778,7 +10270,8 @@ const ARREMATE_ACABAMENTO_DATA = [
     "Frente": "261 - FRENTE PRÓPRIA  (EDMILSON)",
     "Responsável": "VITOR AMORIM RAMOS ",
     "Arremate e Acabamento": "BOM",
-    "Fazenda": NaN
+    "Fazenda": null,
+    "Unnamed: 18": null
   },
   {
     "ID": "3533400",
@@ -9798,7 +10291,8 @@ const ARREMATE_ACABAMENTO_DATA = [
     "Frente": "261 - FRENTE PRÓPRIA  (EDMILSON)",
     "Responsável": "VITOR AMORIM RAMOS ",
     "Arremate e Acabamento": "BOM",
-    "Fazenda": NaN
+    "Fazenda": null,
+    "Unnamed: 18": null
   },
   {
     "ID": "3531842",
@@ -9818,7 +10312,8 @@ const ARREMATE_ACABAMENTO_DATA = [
     "Frente": "261 - FRENTE PRÓPRIA  (EDMILSON)",
     "Responsável": "VITOR AMORIM RAMOS ",
     "Arremate e Acabamento": "BOM",
-    "Fazenda": NaN
+    "Fazenda": null,
+    "Unnamed: 18": null
   },
   {
     "ID": "3531687",
@@ -9838,7 +10333,8 @@ const ARREMATE_ACABAMENTO_DATA = [
     "Frente": "105 - FRENTE CASSIO",
     "Responsável": "NILDA CLAUDINO [2510716]",
     "Arremate e Acabamento": "BOM",
-    "Fazenda": NaN
+    "Fazenda": null,
+    "Unnamed: 18": null
   },
   {
     "ID": "3531442",
@@ -9858,7 +10354,8 @@ const ARREMATE_ACABAMENTO_DATA = [
     "Frente": "101 - FRENTE MECANIZADA",
     "Responsável": "FERNANDA DE SOUZA ",
     "Arremate e Acabamento": "BOM",
-    "Fazenda": NaN
+    "Fazenda": null,
+    "Unnamed: 18": null
   },
   {
     "ID": "3531767",
@@ -9878,7 +10375,8 @@ const ARREMATE_ACABAMENTO_DATA = [
     "Frente": "142 - FRENTE BIDU",
     "Responsável": "MICHELI DE SOUZA SANTOS  ",
     "Arremate e Acabamento": "BOM",
-    "Fazenda": NaN
+    "Fazenda": null,
+    "Unnamed: 18": null
   },
   {
     "ID": "3531457",
@@ -9898,7 +10396,8 @@ const ARREMATE_ACABAMENTO_DATA = [
     "Frente": "105 - FRENTE CASSIO",
     "Responsável": "NILDA CLAUDINO [2510716]",
     "Arremate e Acabamento": "BOM",
-    "Fazenda": NaN
+    "Fazenda": null,
+    "Unnamed: 18": null
   },
   {
     "ID": "3531434",
@@ -9918,7 +10417,8 @@ const ARREMATE_ACABAMENTO_DATA = [
     "Frente": "135 - PEDRINHO ",
     "Responsável": "MARCELO DE OLIVEIRA JUNIOR",
     "Arremate e Acabamento": "BOM",
-    "Fazenda": NaN
+    "Fazenda": null,
+    "Unnamed: 18": null
   },
   {
     "ID": "3531924",
@@ -9938,7 +10438,8 @@ const ARREMATE_ACABAMENTO_DATA = [
     "Frente": "143 - FRENTE CASSIO",
     "Responsável": "GABRIEL HENRIQUE MARTINS PEREIRA",
     "Arremate e Acabamento": "BOM",
-    "Fazenda": NaN
+    "Fazenda": null,
+    "Unnamed: 18": null
   },
   {
     "ID": "3531671",
@@ -9958,7 +10459,8 @@ const ARREMATE_ACABAMENTO_DATA = [
     "Frente": "261 - FRENTE PRÓPRIA  (EDMILSON)",
     "Responsável": "VITOR AMORIM RAMOS ",
     "Arremate e Acabamento": "BOM",
-    "Fazenda": NaN
+    "Fazenda": null,
+    "Unnamed: 18": null
   },
   {
     "ID": "3531633",
@@ -9978,7 +10480,8 @@ const ARREMATE_ACABAMENTO_DATA = [
     "Frente": "261 - FRENTE PRÓPRIA  (EDMILSON)",
     "Responsável": "VITOR AMORIM RAMOS ",
     "Arremate e Acabamento": "BOM",
-    "Fazenda": NaN
+    "Fazenda": null,
+    "Unnamed: 18": null
   },
   {
     "ID": "3531629",
@@ -9998,7 +10501,8 @@ const ARREMATE_ACABAMENTO_DATA = [
     "Frente": "261 - FRENTE PRÓPRIA  (EDMILSON)",
     "Responsável": "VITOR AMORIM RAMOS ",
     "Arremate e Acabamento": "BOM",
-    "Fazenda": NaN
+    "Fazenda": null,
+    "Unnamed: 18": null
   },
   {
     "ID": "3530174",
@@ -10018,7 +10522,8 @@ const ARREMATE_ACABAMENTO_DATA = [
     "Frente": "135 - PEDRINHO ",
     "Responsável": "MARCELO DE OLIVEIRA JUNIOR",
     "Arremate e Acabamento": "BOM",
-    "Fazenda": NaN
+    "Fazenda": null,
+    "Unnamed: 18": null
   },
   {
     "ID": "3529692",
@@ -10038,7 +10543,8 @@ const ARREMATE_ACABAMENTO_DATA = [
     "Frente": "142 - FRENTE BIDU",
     "Responsável": "FERNANDA DE SOUZA ",
     "Arremate e Acabamento": "BOM",
-    "Fazenda": NaN
+    "Fazenda": null,
+    "Unnamed: 18": null
   },
   {
     "ID": "3529526",
@@ -10058,7 +10564,8 @@ const ARREMATE_ACABAMENTO_DATA = [
     "Frente": "105 - FRENTE CASSIO",
     "Responsável": "NILDA CLAUDINO [2510716]",
     "Arremate e Acabamento": "BOM",
-    "Fazenda": NaN
+    "Fazenda": null,
+    "Unnamed: 18": null
   },
   {
     "ID": "3529525",
@@ -10078,7 +10585,8 @@ const ARREMATE_ACABAMENTO_DATA = [
     "Frente": "105 - FRENTE CASSIO",
     "Responsável": "NILDA CLAUDINO [2510716]",
     "Arremate e Acabamento": "BOM",
-    "Fazenda": NaN
+    "Fazenda": null,
+    "Unnamed: 18": null
   },
   {
     "ID": "3529669",
@@ -10098,7 +10606,8 @@ const ARREMATE_ACABAMENTO_DATA = [
     "Frente": "142 - FRENTE BIDU",
     "Responsável": "FERNANDA DE SOUZA ",
     "Arremate e Acabamento": "BOM",
-    "Fazenda": NaN
+    "Fazenda": null,
+    "Unnamed: 18": null
   },
   {
     "ID": "3529616",
@@ -10118,7 +10627,8 @@ const ARREMATE_ACABAMENTO_DATA = [
     "Frente": "139 - FRENTE MANEZÃO",
     "Responsável": "MICHELI DE SOUZA SANTOS  ",
     "Arremate e Acabamento": "BOM",
-    "Fazenda": NaN
+    "Fazenda": null,
+    "Unnamed: 18": null
   },
   {
     "ID": "3530049",
@@ -10138,7 +10648,8 @@ const ARREMATE_ACABAMENTO_DATA = [
     "Frente": "291 - FRENTE PRÓPRIA ",
     "Responsável": "VITOR AMORIM RAMOS ",
     "Arremate e Acabamento": "BOM",
-    "Fazenda": NaN
+    "Fazenda": null,
+    "Unnamed: 18": null
   },
   {
     "ID": "3530048",
@@ -10158,7 +10669,8 @@ const ARREMATE_ACABAMENTO_DATA = [
     "Frente": "291 - FRENTE PRÓPRIA ",
     "Responsável": "VITOR AMORIM RAMOS ",
     "Arremate e Acabamento": "BOM",
-    "Fazenda": NaN
+    "Fazenda": null,
+    "Unnamed: 18": null
   },
   {
     "ID": "3529594",
@@ -10178,7 +10690,8 @@ const ARREMATE_ACABAMENTO_DATA = [
     "Frente": "143 - FRENTE CASSIO",
     "Responsável": "GABRIEL HENRIQUE MARTINS PEREIRA",
     "Arremate e Acabamento": "BOM",
-    "Fazenda": NaN
+    "Fazenda": null,
+    "Unnamed: 18": null
   },
   {
     "ID": "3529593",
@@ -10198,7 +10711,8 @@ const ARREMATE_ACABAMENTO_DATA = [
     "Frente": "143 - FRENTE CASSIO",
     "Responsável": "GABRIEL HENRIQUE MARTINS PEREIRA",
     "Arremate e Acabamento": "BOM",
-    "Fazenda": NaN
+    "Fazenda": null,
+    "Unnamed: 18": null
   },
   {
     "ID": "3529814",
@@ -10218,7 +10732,8 @@ const ARREMATE_ACABAMENTO_DATA = [
     "Frente": "261 - FRENTE PRÓPRIA  (EDMILSON)",
     "Responsável": "VITOR AMORIM RAMOS ",
     "Arremate e Acabamento": "BOM",
-    "Fazenda": NaN
+    "Fazenda": null,
+    "Unnamed: 18": null
   },
   {
     "ID": "3530010",
@@ -10238,7 +10753,8 @@ const ARREMATE_ACABAMENTO_DATA = [
     "Frente": "261 - FRENTE PRÓPRIA  (EDMILSON)",
     "Responsável": "VITOR AMORIM RAMOS ",
     "Arremate e Acabamento": "BOM",
-    "Fazenda": NaN
+    "Fazenda": null,
+    "Unnamed: 18": null
   },
   {
     "ID": "3520551",
@@ -10258,7 +10774,8 @@ const ARREMATE_ACABAMENTO_DATA = [
     "Frente": "142 - FRENTE BIDU",
     "Responsável": "FERNANDA DE SOUZA ",
     "Arremate e Acabamento": "BOM",
-    "Fazenda": NaN
+    "Fazenda": null,
+    "Unnamed: 18": null
   },
   {
     "ID": "3520427",
@@ -10278,7 +10795,8 @@ const ARREMATE_ACABAMENTO_DATA = [
     "Frente": "261 - FRENTE PRÓPRIA  (EDMILSON)",
     "Responsável": "VITOR AMORIM RAMOS ",
     "Arremate e Acabamento": "BOM",
-    "Fazenda": NaN
+    "Fazenda": null,
+    "Unnamed: 18": null
   },
   {
     "ID": "3520412",
@@ -10298,7 +10816,8 @@ const ARREMATE_ACABAMENTO_DATA = [
     "Frente": "261 - FRENTE PRÓPRIA  (EDMILSON)",
     "Responsável": "VITOR AMORIM RAMOS ",
     "Arremate e Acabamento": "BOM",
-    "Fazenda": NaN
+    "Fazenda": null,
+    "Unnamed: 18": null
   },
   {
     "ID": "3520397",
@@ -10318,7 +10837,8 @@ const ARREMATE_ACABAMENTO_DATA = [
     "Frente": "261 - FRENTE PRÓPRIA  (EDMILSON)",
     "Responsável": "VITOR AMORIM RAMOS ",
     "Arremate e Acabamento": "BOM",
-    "Fazenda": NaN
+    "Fazenda": null,
+    "Unnamed: 18": null
   },
   {
     "ID": "3520363",
@@ -10338,7 +10858,8 @@ const ARREMATE_ACABAMENTO_DATA = [
     "Frente": "261 - FRENTE PRÓPRIA  (EDMILSON)",
     "Responsável": "VITOR AMORIM RAMOS ",
     "Arremate e Acabamento": "BOM",
-    "Fazenda": NaN
+    "Fazenda": null,
+    "Unnamed: 18": null
   },
   {
     "ID": "3520360",
@@ -10358,7 +10879,8 @@ const ARREMATE_ACABAMENTO_DATA = [
     "Frente": "261 - FRENTE PRÓPRIA  (EDMILSON)",
     "Responsável": "VITOR AMORIM RAMOS ",
     "Arremate e Acabamento": "BOM",
-    "Fazenda": NaN
+    "Fazenda": null,
+    "Unnamed: 18": null
   },
   {
     "ID": "3520449",
@@ -10378,7 +10900,8 @@ const ARREMATE_ACABAMENTO_DATA = [
     "Frente": "143 - FRENTE CASSIO",
     "Responsável": "GABRIEL HENRIQUE MARTINS PEREIRA",
     "Arremate e Acabamento": "BOM",
-    "Fazenda": NaN
+    "Fazenda": null,
+    "Unnamed: 18": null
   },
   {
     "ID": "3519085",
@@ -10398,7 +10921,8 @@ const ARREMATE_ACABAMENTO_DATA = [
     "Frente": "135 - PEDRINHO ",
     "Responsável": "MARCELO DE OLIVEIRA JUNIOR",
     "Arremate e Acabamento": "BOM",
-    "Fazenda": NaN
+    "Fazenda": null,
+    "Unnamed: 18": null
   },
   {
     "ID": "3519047",
@@ -10418,7 +10942,8 @@ const ARREMATE_ACABAMENTO_DATA = [
     "Frente": "135 - PEDRINHO ",
     "Responsável": "MARCELO DE OLIVEIRA JUNIOR",
     "Arremate e Acabamento": "BOM",
-    "Fazenda": NaN
+    "Fazenda": null,
+    "Unnamed: 18": null
   },
   {
     "ID": "3518686",
@@ -10438,7 +10963,8 @@ const ARREMATE_ACABAMENTO_DATA = [
     "Frente": "261 - FRENTE PRÓPRIA  (EDMILSON)",
     "Responsável": "VITOR AMORIM RAMOS ",
     "Arremate e Acabamento": "BOM",
-    "Fazenda": NaN
+    "Fazenda": null,
+    "Unnamed: 18": null
   },
   {
     "ID": "3518717",
@@ -10458,7 +10984,8 @@ const ARREMATE_ACABAMENTO_DATA = [
     "Frente": "143 - FRENTE CASSIO",
     "Responsável": "GABRIEL HENRIQUE MARTINS PEREIRA",
     "Arremate e Acabamento": "BOM",
-    "Fazenda": NaN
+    "Fazenda": null,
+    "Unnamed: 18": null
   },
   {
     "ID": "3518656",
@@ -10478,7 +11005,8 @@ const ARREMATE_ACABAMENTO_DATA = [
     "Frente": "261 - FRENTE PRÓPRIA  (EDMILSON)",
     "Responsável": "VITOR AMORIM RAMOS ",
     "Arremate e Acabamento": "BOM",
-    "Fazenda": NaN
+    "Fazenda": null,
+    "Unnamed: 18": null
   },
   {
     "ID": "3518531",
@@ -10498,7 +11026,8 @@ const ARREMATE_ACABAMENTO_DATA = [
     "Frente": "139 - FRENTE MANEZÃO",
     "Responsável": "MICHELI DE SOUZA SANTOS  ",
     "Arremate e Acabamento": "BOM",
-    "Fazenda": NaN
+    "Fazenda": null,
+    "Unnamed: 18": null
   },
   {
     "ID": "3516415",
@@ -10518,7 +11047,8 @@ const ARREMATE_ACABAMENTO_DATA = [
     "Frente": "105 - FRENTE CASSIO",
     "Responsável": "NILDA CLAUDINO [2510716]",
     "Arremate e Acabamento": "BOM",
-    "Fazenda": NaN
+    "Fazenda": null,
+    "Unnamed: 18": null
   },
   {
     "ID": "3516611",
@@ -10538,7 +11068,8 @@ const ARREMATE_ACABAMENTO_DATA = [
     "Frente": "135 - PEDRINHO ",
     "Responsável": "MARCELO DE OLIVEIRA JUNIOR",
     "Arremate e Acabamento": "BOM",
-    "Fazenda": NaN
+    "Fazenda": null,
+    "Unnamed: 18": null
   },
   {
     "ID": "3516352",
@@ -10558,7 +11089,8 @@ const ARREMATE_ACABAMENTO_DATA = [
     "Frente": "139 - Manezão",
     "Responsável": "MICHELI DE SOUZA SANTOS  ",
     "Arremate e Acabamento": "BOM",
-    "Fazenda": NaN
+    "Fazenda": null,
+    "Unnamed: 18": null
   },
   {
     "ID": "3515991",
@@ -10578,7 +11110,8 @@ const ARREMATE_ACABAMENTO_DATA = [
     "Frente": "142 - FRENTE BIDU",
     "Responsável": "VITOR AMORIM RAMOS ",
     "Arremate e Acabamento": "BOM",
-    "Fazenda": NaN
+    "Fazenda": null,
+    "Unnamed: 18": null
   },
   {
     "ID": "3515990",
@@ -10598,7 +11131,8 @@ const ARREMATE_ACABAMENTO_DATA = [
     "Frente": "142 - FRENTE BIDU",
     "Responsável": "VITOR AMORIM RAMOS ",
     "Arremate e Acabamento": "BOM",
-    "Fazenda": NaN
+    "Fazenda": null,
+    "Unnamed: 18": null
   },
   {
     "ID": "3515954",
@@ -10618,7 +11152,8 @@ const ARREMATE_ACABAMENTO_DATA = [
     "Frente": "142 - FRENTE BIDU",
     "Responsável": "VITOR AMORIM RAMOS ",
     "Arremate e Acabamento": "BOM",
-    "Fazenda": NaN
+    "Fazenda": null,
+    "Unnamed: 18": null
   },
   {
     "ID": "3515914",
@@ -10638,7 +11173,8 @@ const ARREMATE_ACABAMENTO_DATA = [
     "Frente": "261 - FRENTE PRÓPRIA  (EDMILSON)",
     "Responsável": "EDILIANA CARDOSO DA COSTA",
     "Arremate e Acabamento": "BOM",
-    "Fazenda": NaN
+    "Fazenda": null,
+    "Unnamed: 18": null
   },
   {
     "ID": "3515913",
@@ -10658,7 +11194,8 @@ const ARREMATE_ACABAMENTO_DATA = [
     "Frente": "261 - FRENTE PRÓPRIA  (EDMILSON)",
     "Responsável": "EDILIANA CARDOSO DA COSTA",
     "Arremate e Acabamento": "BOM",
-    "Fazenda": NaN
+    "Fazenda": null,
+    "Unnamed: 18": null
   },
   {
     "ID": "3515933",
@@ -10678,7 +11215,8 @@ const ARREMATE_ACABAMENTO_DATA = [
     "Frente": "142 - FRENTE BIDU",
     "Responsável": "VITOR AMORIM RAMOS ",
     "Arremate e Acabamento": "BOM",
-    "Fazenda": NaN
+    "Fazenda": null,
+    "Unnamed: 18": null
   },
   {
     "ID": "3516573",
@@ -10698,7 +11236,8 @@ const ARREMATE_ACABAMENTO_DATA = [
     "Frente": "135 - PEDRINHO ",
     "Responsável": "MARCELO DE OLIVEIRA JUNIOR",
     "Arremate e Acabamento": "BOM",
-    "Fazenda": NaN
+    "Fazenda": null,
+    "Unnamed: 18": null
   },
   {
     "ID": "3514285",
@@ -10718,7 +11257,8 @@ const ARREMATE_ACABAMENTO_DATA = [
     "Frente": "142 - FRENTE BIDU",
     "Responsável": "MARCELO DE OLIVEIRA JUNIOR",
     "Arremate e Acabamento": "BOM",
-    "Fazenda": NaN
+    "Fazenda": null,
+    "Unnamed: 18": null
   },
   {
     "ID": "3513878",
@@ -10738,7 +11278,8 @@ const ARREMATE_ACABAMENTO_DATA = [
     "Frente": "139 - FRENTE MANEZÃO",
     "Responsável": "MICHELI DE SOUZA SANTOS  ",
     "Arremate e Acabamento": "BOM",
-    "Fazenda": NaN
+    "Fazenda": null,
+    "Unnamed: 18": null
   },
   {
     "ID": "3513880",
@@ -10758,7 +11299,8 @@ const ARREMATE_ACABAMENTO_DATA = [
     "Frente": "139 - FRENTE MANEZÃO",
     "Responsável": "MICHELI DE SOUZA SANTOS  ",
     "Arremate e Acabamento": "BOM",
-    "Fazenda": NaN
+    "Fazenda": null,
+    "Unnamed: 18": null
   },
   {
     "ID": "3513879",
@@ -10778,7 +11320,8 @@ const ARREMATE_ACABAMENTO_DATA = [
     "Frente": "139 - FRENTE MANEZÃO",
     "Responsável": "MICHELI DE SOUZA SANTOS  ",
     "Arremate e Acabamento": "BOM",
-    "Fazenda": NaN
+    "Fazenda": null,
+    "Unnamed: 18": null
   },
   {
     "ID": "3514163",
@@ -10798,7 +11341,8 @@ const ARREMATE_ACABAMENTO_DATA = [
     "Frente": "101 - FRENTE MECANIZADA",
     "Responsável": "FERNANDA DE SOUZA ",
     "Arremate e Acabamento": "BOM",
-    "Fazenda": NaN
+    "Fazenda": null,
+    "Unnamed: 18": null
   },
   {
     "ID": "3514256",
@@ -10818,7 +11362,8 @@ const ARREMATE_ACABAMENTO_DATA = [
     "Frente": "135 - PEDRINHO ",
     "Responsável": "MARCELO DE OLIVEIRA JUNIOR",
     "Arremate e Acabamento": "BOM",
-    "Fazenda": NaN
+    "Fazenda": null,
+    "Unnamed: 18": null
   },
   {
     "ID": "3511685",
@@ -10838,7 +11383,8 @@ const ARREMATE_ACABAMENTO_DATA = [
     "Frente": "142 - FRENTE BIDU",
     "Responsável": "VITOR AMORIM RAMOS ",
     "Arremate e Acabamento": "BOM",
-    "Fazenda": NaN
+    "Fazenda": null,
+    "Unnamed: 18": null
   },
   {
     "ID": "3511787",
@@ -10858,7 +11404,8 @@ const ARREMATE_ACABAMENTO_DATA = [
     "Frente": "142 - FRENTE BIDU",
     "Responsável": "VITOR AMORIM RAMOS ",
     "Arremate e Acabamento": "BOM",
-    "Fazenda": NaN
+    "Fazenda": null,
+    "Unnamed: 18": null
   },
   {
     "ID": "3511665",
@@ -10878,7 +11425,8 @@ const ARREMATE_ACABAMENTO_DATA = [
     "Frente": "142 - FRENTE BIDU",
     "Responsável": "VITOR AMORIM RAMOS ",
     "Arremate e Acabamento": "BOM",
-    "Fazenda": NaN
+    "Fazenda": null,
+    "Unnamed: 18": null
   },
   {
     "ID": "3511303",
@@ -10898,7 +11446,8 @@ const ARREMATE_ACABAMENTO_DATA = [
     "Frente": "105 - FRENTE CASSIO",
     "Responsável": "NILDA CLAUDINO [2510716]",
     "Arremate e Acabamento": "BOM",
-    "Fazenda": NaN
+    "Fazenda": null,
+    "Unnamed: 18": null
   },
   {
     "ID": "3511293",
@@ -10918,7 +11467,8 @@ const ARREMATE_ACABAMENTO_DATA = [
     "Frente": "105 - FRENTE CASSIO",
     "Responsável": "NILDA CLAUDINO [2510716]",
     "Arremate e Acabamento": "BOM",
-    "Fazenda": NaN
+    "Fazenda": null,
+    "Unnamed: 18": null
   },
   {
     "ID": "3511795",
@@ -10938,7 +11488,8 @@ const ARREMATE_ACABAMENTO_DATA = [
     "Frente": "143 - FRENTE CASSIO",
     "Responsável": "GABRIEL HENRIQUE MARTINS PEREIRA",
     "Arremate e Acabamento": "BOM",
-    "Fazenda": NaN
+    "Fazenda": null,
+    "Unnamed: 18": null
   },
   {
     "ID": "3511793",
@@ -10958,7 +11509,8 @@ const ARREMATE_ACABAMENTO_DATA = [
     "Frente": "143 - FRENTE CASSIO",
     "Responsável": "GABRIEL HENRIQUE MARTINS PEREIRA",
     "Arremate e Acabamento": "BOM",
-    "Fazenda": NaN
+    "Fazenda": null,
+    "Unnamed: 18": null
   },
   {
     "ID": "3509460",
@@ -10978,7 +11530,8 @@ const ARREMATE_ACABAMENTO_DATA = [
     "Frente": "105 - FRENTE CASSIO",
     "Responsável": "NILDA CLAUDINO [2510716]",
     "Arremate e Acabamento": "BOM",
-    "Fazenda": NaN
+    "Fazenda": null,
+    "Unnamed: 18": null
   },
   {
     "ID": "3509622",
@@ -10998,7 +11551,8 @@ const ARREMATE_ACABAMENTO_DATA = [
     "Frente": "139 - FRENTE MANEZÃO",
     "Responsável": "FERNANDA DE SOUZA ",
     "Arremate e Acabamento": "BOM",
-    "Fazenda": NaN
+    "Fazenda": null,
+    "Unnamed: 18": null
   },
   {
     "ID": "3509547",
@@ -11018,7 +11572,8 @@ const ARREMATE_ACABAMENTO_DATA = [
     "Frente": "135 - PEDRINHO ",
     "Responsável": "MARCELO DE OLIVEIRA JUNIOR",
     "Arremate e Acabamento": "BOM",
-    "Fazenda": NaN
+    "Fazenda": null,
+    "Unnamed: 18": null
   },
   {
     "ID": "3509525",
@@ -11038,7 +11593,8 @@ const ARREMATE_ACABAMENTO_DATA = [
     "Frente": "135 - PEDRINHO ",
     "Responsável": "MARCELO DE OLIVEIRA JUNIOR",
     "Arremate e Acabamento": "BOM",
-    "Fazenda": NaN
+    "Fazenda": null,
+    "Unnamed: 18": null
   },
   {
     "ID": "3509257",
@@ -11058,7 +11614,8 @@ const ARREMATE_ACABAMENTO_DATA = [
     "Frente": "142 - FRENTE BIDU",
     "Responsável": "MICHELI DE SOUZA SANTOS  ",
     "Arremate e Acabamento": "BOM",
-    "Fazenda": NaN
+    "Fazenda": null,
+    "Unnamed: 18": null
   },
   {
     "ID": "3509256",
@@ -11078,7 +11635,8 @@ const ARREMATE_ACABAMENTO_DATA = [
     "Frente": "142 - FRENTE BIDU",
     "Responsável": "MICHELI DE SOUZA SANTOS  ",
     "Arremate e Acabamento": "BOM",
-    "Fazenda": NaN
+    "Fazenda": null,
+    "Unnamed: 18": null
   },
   {
     "ID": "3509498",
@@ -11098,7 +11656,8 @@ const ARREMATE_ACABAMENTO_DATA = [
     "Frente": "135 - PEDRINHO ",
     "Responsável": "MARCELO DE OLIVEIRA JUNIOR",
     "Arremate e Acabamento": "BOM",
-    "Fazenda": NaN
+    "Fazenda": null,
+    "Unnamed: 18": null
   },
   {
     "ID": "3509615",
@@ -11118,7 +11677,8 @@ const ARREMATE_ACABAMENTO_DATA = [
     "Frente": "139 - FRENTE MANEZÃO",
     "Responsável": "FERNANDA DE SOUZA ",
     "Arremate e Acabamento": "BOM",
-    "Fazenda": NaN
+    "Fazenda": null,
+    "Unnamed: 18": null
   },
   {
     "ID": "3509922",
@@ -11138,7 +11698,8 @@ const ARREMATE_ACABAMENTO_DATA = [
     "Frente": "143 - FRENTE CASSIO",
     "Responsável": "GABRIEL HENRIQUE MARTINS PEREIRA",
     "Arremate e Acabamento": "BOM",
-    "Fazenda": NaN
+    "Fazenda": null,
+    "Unnamed: 18": null
   },
   {
     "ID": "3509854",
@@ -11158,7 +11719,8 @@ const ARREMATE_ACABAMENTO_DATA = [
     "Frente": "143 - FRENTE CASSIO",
     "Responsável": "GABRIEL HENRIQUE MARTINS PEREIRA",
     "Arremate e Acabamento": "BOM",
-    "Fazenda": NaN
+    "Fazenda": null,
+    "Unnamed: 18": null
   },
   {
     "ID": "3509323",
@@ -11178,7 +11740,8 @@ const ARREMATE_ACABAMENTO_DATA = [
     "Frente": "105 - FRENTE CASSIO (ZACARIAS)",
     "Responsável": "NILDA CLAUDINO [2510716]",
     "Arremate e Acabamento": "BOM",
-    "Fazenda": NaN
+    "Fazenda": null,
+    "Unnamed: 18": null
   },
   {
     "ID": "3509746",
@@ -11198,7 +11761,8 @@ const ARREMATE_ACABAMENTO_DATA = [
     "Frente": "143 - FRENTE CASSIO",
     "Responsável": "GABRIEL HENRIQUE MARTINS PEREIRA",
     "Arremate e Acabamento": "BOM",
-    "Fazenda": NaN
+    "Fazenda": null,
+    "Unnamed: 18": null
   },
   {
     "ID": "3498753",
@@ -11218,7 +11782,8 @@ const ARREMATE_ACABAMENTO_DATA = [
     "Frente": "261 - FRENTE PRÓPRIA  (EDMILSON)",
     "Responsável": "VITOR AMORIM RAMOS ",
     "Arremate e Acabamento": "BOM",
-    "Fazenda": NaN
+    "Fazenda": null,
+    "Unnamed: 18": null
   },
   {
     "ID": "3498475",
@@ -11238,7 +11803,8 @@ const ARREMATE_ACABAMENTO_DATA = [
     "Frente": "142 - FRENTE BIDU",
     "Responsável": "GLEISON FELIPE BORGES DE MATOS",
     "Arremate e Acabamento": "BOM",
-    "Fazenda": NaN
+    "Fazenda": null,
+    "Unnamed: 18": null
   },
   {
     "ID": "3498492",
@@ -11258,7 +11824,8 @@ const ARREMATE_ACABAMENTO_DATA = [
     "Frente": "135 - PEDRINHO ",
     "Responsável": "NILDA CLAUDINO [2510716]",
     "Arremate e Acabamento": "BOM",
-    "Fazenda": NaN
+    "Fazenda": null,
+    "Unnamed: 18": null
   },
   {
     "ID": "3498646",
@@ -11278,7 +11845,8 @@ const ARREMATE_ACABAMENTO_DATA = [
     "Frente": "135 - PEDRINHO ",
     "Responsável": "MARCELO DE OLIVEIRA JUNIOR",
     "Arremate e Acabamento": "BOM",
-    "Fazenda": NaN
+    "Fazenda": null,
+    "Unnamed: 18": null
   },
   {
     "ID": "3498685",
@@ -11298,7 +11866,8 @@ const ARREMATE_ACABAMENTO_DATA = [
     "Frente": "261 - FRENTE PRÓPRIA  (EDMILSON)",
     "Responsável": "VITOR AMORIM RAMOS ",
     "Arremate e Acabamento": "BOM",
-    "Fazenda": NaN
+    "Fazenda": null,
+    "Unnamed: 18": null
   },
   {
     "ID": "3498682",
@@ -11318,7 +11887,8 @@ const ARREMATE_ACABAMENTO_DATA = [
     "Frente": "261 - FRENTE PRÓPRIA  (EDMILSON)",
     "Responsável": "VITOR AMORIM RAMOS ",
     "Arremate e Acabamento": "BOM",
-    "Fazenda": NaN
+    "Fazenda": null,
+    "Unnamed: 18": null
   },
   {
     "ID": "3498683",
@@ -11338,7 +11908,8 @@ const ARREMATE_ACABAMENTO_DATA = [
     "Frente": "261 - FRENTE PRÓPRIA  (EDMILSON)",
     "Responsável": "VITOR AMORIM RAMOS ",
     "Arremate e Acabamento": "BOM",
-    "Fazenda": NaN
+    "Fazenda": null,
+    "Unnamed: 18": null
   },
   {
     "ID": "3498675",
@@ -11358,7 +11929,8 @@ const ARREMATE_ACABAMENTO_DATA = [
     "Frente": "261 - FRENTE PRÓPRIA  (EDMILSON)",
     "Responsável": "VITOR AMORIM RAMOS ",
     "Arremate e Acabamento": "BOM",
-    "Fazenda": NaN
+    "Fazenda": null,
+    "Unnamed: 18": null
   },
   {
     "ID": "3498986",
@@ -11378,7 +11950,8 @@ const ARREMATE_ACABAMENTO_DATA = [
     "Frente": "139 - FRENTE MANEZÃO",
     "Responsável": "GABRIEL HENRIQUE MARTINS PEREIRA",
     "Arremate e Acabamento": "BOM",
-    "Fazenda": NaN
+    "Fazenda": null,
+    "Unnamed: 18": null
   },
   {
     "ID": "3498674",
@@ -11398,7 +11971,8 @@ const ARREMATE_ACABAMENTO_DATA = [
     "Frente": "261 - FRENTE PRÓPRIA  (EDMILSON)",
     "Responsável": "VITOR AMORIM RAMOS ",
     "Arremate e Acabamento": "BOM",
-    "Fazenda": NaN
+    "Fazenda": null,
+    "Unnamed: 18": null
   },
   {
     "ID": "3498552",
@@ -11418,7 +11992,8 @@ const ARREMATE_ACABAMENTO_DATA = [
     "Frente": "139 - FRENTE MANEZÃO",
     "Responsável": "FERNANDA DE SOUZA ",
     "Arremate e Acabamento": "BOM",
-    "Fazenda": NaN
+    "Fazenda": null,
+    "Unnamed: 18": null
   },
   {
     "ID": "3498979",
@@ -11438,7 +12013,8 @@ const ARREMATE_ACABAMENTO_DATA = [
     "Frente": "139 - FRENTE MANEZÃO",
     "Responsável": "GABRIEL HENRIQUE MARTINS PEREIRA",
     "Arremate e Acabamento": "BOM",
-    "Fazenda": NaN
+    "Fazenda": null,
+    "Unnamed: 18": null
   },
   {
     "ID": "3498639",
@@ -11458,7 +12034,8 @@ const ARREMATE_ACABAMENTO_DATA = [
     "Frente": "261 - FRENTE PRÓPRIA  (EDMILSON)",
     "Responsável": "VITOR AMORIM RAMOS ",
     "Arremate e Acabamento": "BOM",
-    "Fazenda": NaN
+    "Fazenda": null,
+    "Unnamed: 18": null
   },
   {
     "ID": "3498636",
@@ -11478,7 +12055,8 @@ const ARREMATE_ACABAMENTO_DATA = [
     "Frente": "261 - FRENTE PRÓPRIA  (EDMILSON)",
     "Responsável": "VITOR AMORIM RAMOS ",
     "Arremate e Acabamento": "BOM",
-    "Fazenda": NaN
+    "Fazenda": null,
+    "Unnamed: 18": null
   },
   {
     "ID": "3496824",
@@ -11498,7 +12076,8 @@ const ARREMATE_ACABAMENTO_DATA = [
     "Frente": "135 - PEDRINHO ",
     "Responsável": "MARCELO DE OLIVEIRA JUNIOR",
     "Arremate e Acabamento": "BOM",
-    "Fazenda": NaN
+    "Fazenda": null,
+    "Unnamed: 18": null
   },
   {
     "ID": "3496823",
@@ -11518,7 +12097,8 @@ const ARREMATE_ACABAMENTO_DATA = [
     "Frente": "135 - PEDRINHO ",
     "Responsável": "MARCELO DE OLIVEIRA JUNIOR",
     "Arremate e Acabamento": "BOM",
-    "Fazenda": NaN
+    "Fazenda": null,
+    "Unnamed: 18": null
   },
   {
     "ID": "3496687",
@@ -11538,7 +12118,8 @@ const ARREMATE_ACABAMENTO_DATA = [
     "Frente": "105 - FRENTE CASSIO",
     "Responsável": "FERNANDA DE SOUZA ",
     "Arremate e Acabamento": "BOM",
-    "Fazenda": NaN
+    "Fazenda": null,
+    "Unnamed: 18": null
   },
   {
     "ID": "3496221",
@@ -11558,7 +12139,8 @@ const ARREMATE_ACABAMENTO_DATA = [
     "Frente": "142 - FRENTE BIDU",
     "Responsável": "MICHELI DE SOUZA SANTOS  ",
     "Arremate e Acabamento": "BOM",
-    "Fazenda": NaN
+    "Fazenda": null,
+    "Unnamed: 18": null
   },
   {
     "ID": "3495226",
@@ -11578,7 +12160,8 @@ const ARREMATE_ACABAMENTO_DATA = [
     "Frente": "135 - PEDRINHO ",
     "Responsável": "MARCELO DE OLIVEIRA JUNIOR",
     "Arremate e Acabamento": "BOM",
-    "Fazenda": NaN
+    "Fazenda": null,
+    "Unnamed: 18": null
   },
   {
     "ID": "3495221",
@@ -11598,7 +12181,8 @@ const ARREMATE_ACABAMENTO_DATA = [
     "Frente": "135 - PEDRINHO ",
     "Responsável": "MARCELO DE OLIVEIRA JUNIOR",
     "Arremate e Acabamento": "BOM",
-    "Fazenda": NaN
+    "Fazenda": null,
+    "Unnamed: 18": null
   },
   {
     "ID": "3495220",
@@ -11618,7 +12202,8 @@ const ARREMATE_ACABAMENTO_DATA = [
     "Frente": "135 - PEDRINHO ",
     "Responsável": "MARCELO DE OLIVEIRA JUNIOR",
     "Arremate e Acabamento": "BOM",
-    "Fazenda": NaN
+    "Fazenda": null,
+    "Unnamed: 18": null
   },
   {
     "ID": "3495216",
@@ -11638,7 +12223,8 @@ const ARREMATE_ACABAMENTO_DATA = [
     "Frente": "135 - PEDRINHO ",
     "Responsável": "MARCELO DE OLIVEIRA JUNIOR",
     "Arremate e Acabamento": "BOM",
-    "Fazenda": NaN
+    "Fazenda": null,
+    "Unnamed: 18": null
   },
   {
     "ID": "3494629",
@@ -11658,7 +12244,8 @@ const ARREMATE_ACABAMENTO_DATA = [
     "Frente": "105 - FRENTE CASSIO",
     "Responsável": "FERNANDA DE SOUZA ",
     "Arremate e Acabamento": "BOM",
-    "Fazenda": NaN
+    "Fazenda": null,
+    "Unnamed: 18": null
   },
   {
     "ID": "3494346",
@@ -11678,7 +12265,8 @@ const ARREMATE_ACABAMENTO_DATA = [
     "Frente": "291 - FRENTE PRÓPRIA ",
     "Responsável": "GABRIEL HENRIQUE MARTINS PEREIRA",
     "Arremate e Acabamento": "BOM",
-    "Fazenda": NaN
+    "Fazenda": null,
+    "Unnamed: 18": null
   },
   {
     "ID": "3494379",
@@ -11698,7 +12286,8 @@ const ARREMATE_ACABAMENTO_DATA = [
     "Frente": "291 - FRENTE PRÓPRIA ",
     "Responsável": "GABRIEL HENRIQUE MARTINS PEREIRA",
     "Arremate e Acabamento": "BOM",
-    "Fazenda": NaN
+    "Fazenda": null,
+    "Unnamed: 18": null
   },
   {
     "ID": "3494652",
@@ -11718,7 +12307,8 @@ const ARREMATE_ACABAMENTO_DATA = [
     "Frente": "143 - FRENTE CASSIO",
     "Responsável": "NILDA CLAUDINO [2510716]",
     "Arremate e Acabamento": "BOM",
-    "Fazenda": NaN
+    "Fazenda": null,
+    "Unnamed: 18": null
   },
   {
     "ID": "3494651",
@@ -11738,7 +12328,8 @@ const ARREMATE_ACABAMENTO_DATA = [
     "Frente": "143 - FRENTE CASSIO",
     "Responsável": "NILDA CLAUDINO [2510716]",
     "Arremate e Acabamento": "BOM",
-    "Fazenda": NaN
+    "Fazenda": null,
+    "Unnamed: 18": null
   },
   {
     "ID": "3492661",
@@ -11758,7 +12349,8 @@ const ARREMATE_ACABAMENTO_DATA = [
     "Frente": "261 - FRENTE PRÓPRIA  (EDMILSON)",
     "Responsável": "VITOR AMORIM RAMOS ",
     "Arremate e Acabamento": "BOM",
-    "Fazenda": NaN
+    "Fazenda": null,
+    "Unnamed: 18": null
   },
   {
     "ID": "3492622",
@@ -11778,7 +12370,8 @@ const ARREMATE_ACABAMENTO_DATA = [
     "Frente": "261 - FRENTE PRÓPRIA  (EDMILSON)",
     "Responsável": "VITOR AMORIM RAMOS ",
     "Arremate e Acabamento": "BOM",
-    "Fazenda": NaN
+    "Fazenda": null,
+    "Unnamed: 18": null
   },
   {
     "ID": "3492601",
@@ -11798,7 +12391,8 @@ const ARREMATE_ACABAMENTO_DATA = [
     "Frente": "261 - FRENTE PRÓPRIA  (EDMILSON)",
     "Responsável": "VITOR AMORIM RAMOS ",
     "Arremate e Acabamento": "BOM",
-    "Fazenda": NaN
+    "Fazenda": null,
+    "Unnamed: 18": null
   },
   {
     "ID": "3493098",
@@ -11818,7 +12412,8 @@ const ARREMATE_ACABAMENTO_DATA = [
     "Frente": "135 - PEDRINHO ",
     "Responsável": "MARCELO DE OLIVEIRA JUNIOR",
     "Arremate e Acabamento": "BOM",
-    "Fazenda": NaN
+    "Fazenda": null,
+    "Unnamed: 18": null
   },
   {
     "ID": "3492211",
@@ -11838,7 +12433,8 @@ const ARREMATE_ACABAMENTO_DATA = [
     "Frente": "142 - FRENTE BIDU",
     "Responsável": "GLEISON FELIPE BORGES DE MATOS",
     "Arremate e Acabamento": "BOM",
-    "Fazenda": NaN
+    "Fazenda": null,
+    "Unnamed: 18": null
   },
   {
     "ID": "3492503",
@@ -11858,7 +12454,8 @@ const ARREMATE_ACABAMENTO_DATA = [
     "Frente": "139 - FRENTE MANEZÃO",
     "Responsável": "FERNANDA DE SOUZA ",
     "Arremate e Acabamento": "BOM",
-    "Fazenda": NaN
+    "Fazenda": null,
+    "Unnamed: 18": null
   },
   {
     "ID": "3493078",
@@ -11878,7 +12475,8 @@ const ARREMATE_ACABAMENTO_DATA = [
     "Frente": "135 - PEDRINHO ",
     "Responsável": "MARCELO DE OLIVEIRA JUNIOR",
     "Arremate e Acabamento": "BOM",
-    "Fazenda": NaN
+    "Fazenda": null,
+    "Unnamed: 18": null
   },
   {
     "ID": "3492444",
@@ -11898,7 +12496,8 @@ const ARREMATE_ACABAMENTO_DATA = [
     "Frente": "105 - FRENTE CASSIO (ZACARIAS)",
     "Responsável": "GABRIEL HENRIQUE MARTINS PEREIRA",
     "Arremate e Acabamento": "BOM",
-    "Fazenda": NaN
+    "Fazenda": null,
+    "Unnamed: 18": null
   },
   {
     "ID": "3492443",
@@ -11918,7 +12517,8 @@ const ARREMATE_ACABAMENTO_DATA = [
     "Frente": "105 - FRENTE CASSIO (ZACARIAS)",
     "Responsável": "GABRIEL HENRIQUE MARTINS PEREIRA",
     "Arremate e Acabamento": "BOM",
-    "Fazenda": NaN
+    "Fazenda": null,
+    "Unnamed: 18": null
   },
   {
     "ID": "3492442",
@@ -11938,7 +12538,8 @@ const ARREMATE_ACABAMENTO_DATA = [
     "Frente": "105 - FRENTE CASSIO (ZACARIAS)",
     "Responsável": "GABRIEL HENRIQUE MARTINS PEREIRA",
     "Arremate e Acabamento": "BOM",
-    "Fazenda": NaN
+    "Fazenda": null,
+    "Unnamed: 18": null
   },
   {
     "ID": "3492441",
@@ -11958,7 +12559,8 @@ const ARREMATE_ACABAMENTO_DATA = [
     "Frente": "105 - FRENTE CASSIO (ZACARIAS)",
     "Responsável": "GABRIEL HENRIQUE MARTINS PEREIRA",
     "Arremate e Acabamento": "BOM",
-    "Fazenda": NaN
+    "Fazenda": null,
+    "Unnamed: 18": null
   },
   {
     "ID": "3492347",
@@ -11978,7 +12580,8 @@ const ARREMATE_ACABAMENTO_DATA = [
     "Frente": "143 - FRENTE CASSIO",
     "Responsável": "NILDA CLAUDINO [2510716]",
     "Arremate e Acabamento": "BOM",
-    "Fazenda": NaN
+    "Fazenda": null,
+    "Unnamed: 18": null
   },
   {
     "ID": "3492346",
@@ -11998,7 +12601,8 @@ const ARREMATE_ACABAMENTO_DATA = [
     "Frente": "143 - FRENTE CASSIO",
     "Responsável": "NILDA CLAUDINO [2510716]",
     "Arremate e Acabamento": "BOM",
-    "Fazenda": NaN
+    "Fazenda": null,
+    "Unnamed: 18": null
   },
   {
     "ID": "3491292",
@@ -12018,7 +12622,8 @@ const ARREMATE_ACABAMENTO_DATA = [
     "Frente": "135 - PEDRINHO ",
     "Responsável": "MARCELO DE OLIVEIRA JUNIOR",
     "Arremate e Acabamento": "BOM",
-    "Fazenda": NaN
+    "Fazenda": null,
+    "Unnamed: 18": null
   },
   {
     "ID": "3491285",
@@ -12038,7 +12643,8 @@ const ARREMATE_ACABAMENTO_DATA = [
     "Frente": "135 - PEDRINHO ",
     "Responsável": "MARCELO DE OLIVEIRA JUNIOR",
     "Arremate e Acabamento": "BOM",
-    "Fazenda": NaN
+    "Fazenda": null,
+    "Unnamed: 18": null
   },
   {
     "ID": "3491277",
@@ -12058,7 +12664,8 @@ const ARREMATE_ACABAMENTO_DATA = [
     "Frente": "135 - PEDRINHO ",
     "Responsável": "MARCELO DE OLIVEIRA JUNIOR",
     "Arremate e Acabamento": "BOM",
-    "Fazenda": NaN
+    "Fazenda": null,
+    "Unnamed: 18": null
   },
   {
     "ID": "3490425",
@@ -12078,7 +12685,8 @@ const ARREMATE_ACABAMENTO_DATA = [
     "Frente": "133 - FRENTE MANÉZÃO",
     "Responsável": "FERNANDA DE SOUZA ",
     "Arremate e Acabamento": "BOM",
-    "Fazenda": NaN
+    "Fazenda": null,
+    "Unnamed: 18": null
   },
   {
     "ID": "3470080",
@@ -12098,7 +12706,8 @@ const ARREMATE_ACABAMENTO_DATA = [
     "Frente": "142 - FRENTE BIDU",
     "Responsável": "MICHELI DE SOUZA SANTOS  ",
     "Arremate e Acabamento": "BOM",
-    "Fazenda": NaN
+    "Fazenda": null,
+    "Unnamed: 18": null
   },
   {
     "ID": "3470091",
@@ -12118,7 +12727,8 @@ const ARREMATE_ACABAMENTO_DATA = [
     "Frente": "261 - FRENTE PRÓPRIA  (EDMILSON)",
     "Responsável": "VITOR AMORIM RAMOS ",
     "Arremate e Acabamento": "BOM",
-    "Fazenda": NaN
+    "Fazenda": null,
+    "Unnamed: 18": null
   },
   {
     "ID": "3470067",
@@ -12138,7 +12748,8 @@ const ARREMATE_ACABAMENTO_DATA = [
     "Frente": "261 - FRENTE PRÓPRIA  (EDMILSON)",
     "Responsável": "VITOR AMORIM RAMOS ",
     "Arremate e Acabamento": "BOM",
-    "Fazenda": NaN
+    "Fazenda": null,
+    "Unnamed: 18": null
   },
   {
     "ID": "3490314",
@@ -12158,7 +12769,8 @@ const ARREMATE_ACABAMENTO_DATA = [
     "Frente": "143 - FRENTE CASSIO",
     "Responsável": "GABRIEL HENRIQUE MARTINS PEREIRA",
     "Arremate e Acabamento": "BOM",
-    "Fazenda": NaN
+    "Fazenda": null,
+    "Unnamed: 18": null
   },
   {
     "ID": "3490313",
@@ -12178,7 +12790,8 @@ const ARREMATE_ACABAMENTO_DATA = [
     "Frente": "143 - FRENTE CASSIO",
     "Responsável": "GABRIEL HENRIQUE MARTINS PEREIRA",
     "Arremate e Acabamento": "BOM",
-    "Fazenda": NaN
+    "Fazenda": null,
+    "Unnamed: 18": null
   },
   {
     "ID": "3469978",
@@ -12198,7 +12811,8 @@ const ARREMATE_ACABAMENTO_DATA = [
     "Frente": "261 - FRENTE PRÓPRIA  (EDMILSON)",
     "Responsável": "VITOR AMORIM RAMOS ",
     "Arremate e Acabamento": "BOM",
-    "Fazenda": NaN
+    "Fazenda": null,
+    "Unnamed: 18": null
   },
   {
     "ID": "3470066",
@@ -12218,7 +12832,8 @@ const ARREMATE_ACABAMENTO_DATA = [
     "Frente": "261 - FRENTE PRÓPRIA  (EDMILSON)",
     "Responsável": "VITOR AMORIM RAMOS ",
     "Arremate e Acabamento": "BOM",
-    "Fazenda": NaN
+    "Fazenda": null,
+    "Unnamed: 18": null
   },
   {
     "ID": "3468230",
@@ -12238,7 +12853,8 @@ const ARREMATE_ACABAMENTO_DATA = [
     "Frente": "139 - Manezão",
     "Responsável": "MARCELO DE OLIVEIRA JUNIOR",
     "Arremate e Acabamento": "BOM",
-    "Fazenda": NaN
+    "Fazenda": null,
+    "Unnamed: 18": null
   },
   {
     "ID": "3468229",
@@ -12258,7 +12874,8 @@ const ARREMATE_ACABAMENTO_DATA = [
     "Frente": "139 - Manezão",
     "Responsável": "MARCELO DE OLIVEIRA JUNIOR",
     "Arremate e Acabamento": "BOM",
-    "Fazenda": NaN
+    "Fazenda": null,
+    "Unnamed: 18": null
   },
   {
     "ID": "3468104",
@@ -12278,7 +12895,8 @@ const ARREMATE_ACABAMENTO_DATA = [
     "Frente": "261 - FRENTE PRÓPRIA  (EDMILSON)",
     "Responsável": "VITOR AMORIM RAMOS ",
     "Arremate e Acabamento": "BOM",
-    "Fazenda": NaN
+    "Fazenda": null,
+    "Unnamed: 18": null
   },
   {
     "ID": "3468094",
@@ -12298,7 +12916,8 @@ const ARREMATE_ACABAMENTO_DATA = [
     "Frente": "261 - FRENTE PRÓPRIA  (EDMILSON)",
     "Responsável": "VITOR AMORIM RAMOS ",
     "Arremate e Acabamento": "BOM",
-    "Fazenda": NaN
+    "Fazenda": null,
+    "Unnamed: 18": null
   },
   {
     "ID": "3468065",
@@ -12318,7 +12937,8 @@ const ARREMATE_ACABAMENTO_DATA = [
     "Frente": "142 - FRENTE BIDU",
     "Responsável": "MICHELI DE SOUZA SANTOS  ",
     "Arremate e Acabamento": "BOM",
-    "Fazenda": NaN
+    "Fazenda": null,
+    "Unnamed: 18": null
   },
   {
     "ID": "3467720",
@@ -12338,7 +12958,8 @@ const ARREMATE_ACABAMENTO_DATA = [
     "Frente": "291 - FRENTE PRÓPRIA ",
     "Responsável": "VITOR AMORIM RAMOS ",
     "Arremate e Acabamento": "BOM",
-    "Fazenda": NaN
+    "Fazenda": null,
+    "Unnamed: 18": null
   },
   {
     "ID": "3467659",
@@ -12358,7 +12979,8 @@ const ARREMATE_ACABAMENTO_DATA = [
     "Frente": "101 - FRENTE MECANIZADA",
     "Responsável": "FERNANDA DE SOUZA ",
     "Arremate e Acabamento": "BOM",
-    "Fazenda": NaN
+    "Fazenda": null,
+    "Unnamed: 18": null
   },
   {
     "ID": "3467637",
@@ -12378,7 +13000,8 @@ const ARREMATE_ACABAMENTO_DATA = [
     "Frente": "142 - FRENTE BIDU",
     "Responsável": "MICHELI DE SOUZA SANTOS  ",
     "Arremate e Acabamento": "BOM",
-    "Fazenda": NaN
+    "Fazenda": null,
+    "Unnamed: 18": null
   },
   {
     "ID": "3468143",
@@ -12398,7 +13021,8 @@ const ARREMATE_ACABAMENTO_DATA = [
     "Frente": "105 - FRENTE CASSIO (ZACARIAS)",
     "Responsável": "GABRIEL HENRIQUE MARTINS PEREIRA",
     "Arremate e Acabamento": "BOM",
-    "Fazenda": NaN
+    "Fazenda": null,
+    "Unnamed: 18": null
   },
   {
     "ID": "3468142",
@@ -12418,7 +13042,8 @@ const ARREMATE_ACABAMENTO_DATA = [
     "Frente": "105 - FRENTE CASSIO (ZACARIAS)",
     "Responsável": "GABRIEL HENRIQUE MARTINS PEREIRA",
     "Arremate e Acabamento": "BOM",
-    "Fazenda": NaN
+    "Fazenda": null,
+    "Unnamed: 18": null
   },
   {
     "ID": "3468096",
@@ -12438,7 +13063,8 @@ const ARREMATE_ACABAMENTO_DATA = [
     "Frente": "143 - FRENTE CASSIO",
     "Responsável": "NILDA CLAUDINO [2510716]",
     "Arremate e Acabamento": "BOM",
-    "Fazenda": NaN
+    "Fazenda": null,
+    "Unnamed: 18": null
   },
   {
     "ID": "3468141",
@@ -12458,7 +13084,8 @@ const ARREMATE_ACABAMENTO_DATA = [
     "Frente": "105 - FRENTE CASSIO (ZACARIAS)",
     "Responsável": "GABRIEL HENRIQUE MARTINS PEREIRA",
     "Arremate e Acabamento": "BOM",
-    "Fazenda": NaN
+    "Fazenda": null,
+    "Unnamed: 18": null
   },
   {
     "ID": "3468095",
@@ -12478,7 +13105,8 @@ const ARREMATE_ACABAMENTO_DATA = [
     "Frente": "143 - FRENTE CASSIO",
     "Responsável": "NILDA CLAUDINO [2510716]",
     "Arremate e Acabamento": "BOM",
-    "Fazenda": NaN
+    "Fazenda": null,
+    "Unnamed: 18": null
   },
   {
     "ID": "3466706",
@@ -12498,7 +13126,8 @@ const ARREMATE_ACABAMENTO_DATA = [
     "Frente": "139 - Manezão",
     "Responsável": "MARCELO DE OLIVEIRA JUNIOR",
     "Arremate e Acabamento": "BOM",
-    "Fazenda": NaN
+    "Fazenda": null,
+    "Unnamed: 18": null
   },
   {
     "ID": "3466078",
@@ -12518,7 +13147,8 @@ const ARREMATE_ACABAMENTO_DATA = [
     "Frente": "291 - FRENTE PRÓPRIA ",
     "Responsável": "VITOR AMORIM RAMOS ",
     "Arremate e Acabamento": "BOM",
-    "Fazenda": NaN
+    "Fazenda": null,
+    "Unnamed: 18": null
   },
   {
     "ID": "3466088",
@@ -12538,7 +13168,8 @@ const ARREMATE_ACABAMENTO_DATA = [
     "Frente": "291 - FRENTE PRÓPRIA ",
     "Responsável": "VITOR AMORIM RAMOS ",
     "Arremate e Acabamento": "BOM",
-    "Fazenda": NaN
+    "Fazenda": null,
+    "Unnamed: 18": null
   },
   {
     "ID": "3466087",
@@ -12558,7 +13189,8 @@ const ARREMATE_ACABAMENTO_DATA = [
     "Frente": "291 - FRENTE PRÓPRIA ",
     "Responsável": "VITOR AMORIM RAMOS ",
     "Arremate e Acabamento": "BOM",
-    "Fazenda": NaN
+    "Fazenda": null,
+    "Unnamed: 18": null
   },
   {
     "ID": "3465803",
@@ -12578,7 +13210,8 @@ const ARREMATE_ACABAMENTO_DATA = [
     "Frente": "142 - FRENTE BIDU",
     "Responsável": "MICHELI DE SOUZA SANTOS  ",
     "Arremate e Acabamento": "BOM",
-    "Fazenda": NaN
+    "Fazenda": null,
+    "Unnamed: 18": null
   },
   {
     "ID": "3465802",
@@ -12598,7 +13231,8 @@ const ARREMATE_ACABAMENTO_DATA = [
     "Frente": "142 - FRENTE BIDU",
     "Responsável": "MICHELI DE SOUZA SANTOS  ",
     "Arremate e Acabamento": "BOM",
-    "Fazenda": NaN
+    "Fazenda": null,
+    "Unnamed: 18": null
   },
   {
     "ID": "3465563",
@@ -12618,7 +13252,8 @@ const ARREMATE_ACABAMENTO_DATA = [
     "Frente": "291 - FRENTE PRÓPRIA ",
     "Responsável": "VITOR AMORIM RAMOS ",
     "Arremate e Acabamento": "BOM",
-    "Fazenda": NaN
+    "Fazenda": null,
+    "Unnamed: 18": null
   },
   {
     "ID": "3465562",
@@ -12638,7 +13273,8 @@ const ARREMATE_ACABAMENTO_DATA = [
     "Frente": "291 - FRENTE PRÓPRIA ",
     "Responsável": "VITOR AMORIM RAMOS ",
     "Arremate e Acabamento": "BOM",
-    "Fazenda": NaN
+    "Fazenda": null,
+    "Unnamed: 18": null
   },
   {
     "ID": "3465521",
@@ -12658,7 +13294,8 @@ const ARREMATE_ACABAMENTO_DATA = [
     "Frente": "101 - FRENTE MECANIZADA",
     "Responsável": "FERNANDA DE SOUZA ",
     "Arremate e Acabamento": "BOM",
-    "Fazenda": NaN
+    "Fazenda": null,
+    "Unnamed: 18": null
   },
   {
     "ID": "3469366",
@@ -12678,7 +13315,8 @@ const ARREMATE_ACABAMENTO_DATA = [
     "Frente": "105 - FRENTE CASSIO (ZACARIAS)",
     "Responsável": "GABRIEL HENRIQUE MARTINS PEREIRA",
     "Arremate e Acabamento": "BOM",
-    "Fazenda": NaN
+    "Fazenda": null,
+    "Unnamed: 18": null
   },
   {
     "ID": "3469365",
@@ -12698,7 +13336,8 @@ const ARREMATE_ACABAMENTO_DATA = [
     "Frente": "105 - FRENTE CASSIO (ZACARIAS)",
     "Responsável": "GABRIEL HENRIQUE MARTINS PEREIRA",
     "Arremate e Acabamento": "BOM",
-    "Fazenda": NaN
+    "Fazenda": null,
+    "Unnamed: 18": null
   },
   {
     "ID": "3465608",
@@ -12718,7 +13357,8 @@ const ARREMATE_ACABAMENTO_DATA = [
     "Frente": "105 - FRENTE CASSIO",
     "Responsável": "NILDA CLAUDINO [2510716]",
     "Arremate e Acabamento": "BOM",
-    "Fazenda": NaN
+    "Fazenda": null,
+    "Unnamed: 18": null
   },
   {
     "ID": "3465604",
@@ -12738,7 +13378,8 @@ const ARREMATE_ACABAMENTO_DATA = [
     "Frente": "105 - FRENTE CASSIO",
     "Responsável": "NILDA CLAUDINO [2510716]",
     "Arremate e Acabamento": "BOM",
-    "Fazenda": NaN
+    "Fazenda": null,
+    "Unnamed: 18": null
   },
   {
     "ID": "3463859",
@@ -12758,7 +13399,8 @@ const ARREMATE_ACABAMENTO_DATA = [
     "Frente": "101 - FRENTE MECANIZADA",
     "Responsável": "FERNANDA DE SOUZA ",
     "Arremate e Acabamento": "BOM",
-    "Fazenda": NaN
+    "Fazenda": null,
+    "Unnamed: 18": null
   },
   {
     "ID": "3463846",
@@ -12778,7 +13420,8 @@ const ARREMATE_ACABAMENTO_DATA = [
     "Frente": "261 - FRENTE PRÓPRIA  (EDMILSON)",
     "Responsável": "VITOR AMORIM RAMOS ",
     "Arremate e Acabamento": "BOM",
-    "Fazenda": NaN
+    "Fazenda": null,
+    "Unnamed: 18": null
   },
   {
     "ID": "3464582",
@@ -12798,7 +13441,8 @@ const ARREMATE_ACABAMENTO_DATA = [
     "Frente": "261 - FRENTE PRÓPRIA  (EDMILSON)",
     "Responsável": "VITOR AMORIM RAMOS ",
     "Arremate e Acabamento": "BOM",
-    "Fazenda": NaN
+    "Fazenda": null,
+    "Unnamed: 18": null
   },
   {
     "ID": "3463752",
@@ -12818,7 +13462,8 @@ const ARREMATE_ACABAMENTO_DATA = [
     "Frente": "105 - FRENTE CASSIO (ZACARIAS)",
     "Responsável": "GABRIEL HENRIQUE MARTINS PEREIRA",
     "Arremate e Acabamento": "BOM",
-    "Fazenda": NaN
+    "Fazenda": null,
+    "Unnamed: 18": null
   },
   {
     "ID": "3463751",
@@ -12838,7 +13483,8 @@ const ARREMATE_ACABAMENTO_DATA = [
     "Frente": "105 - FRENTE CASSIO (ZACARIAS)",
     "Responsável": "GABRIEL HENRIQUE MARTINS PEREIRA",
     "Arremate e Acabamento": "BOM",
-    "Fazenda": NaN
+    "Fazenda": null,
+    "Unnamed: 18": null
   },
   {
     "ID": "3463750",
@@ -12858,7 +13504,8 @@ const ARREMATE_ACABAMENTO_DATA = [
     "Frente": "105 - FRENTE CASSIO (ZACARIAS)",
     "Responsável": "GABRIEL HENRIQUE MARTINS PEREIRA",
     "Arremate e Acabamento": "BOM",
-    "Fazenda": NaN
+    "Fazenda": null,
+    "Unnamed: 18": null
   },
   {
     "ID": "3463749",
@@ -12878,7 +13525,8 @@ const ARREMATE_ACABAMENTO_DATA = [
     "Frente": "105 - FRENTE CASSIO (ZACARIAS)",
     "Responsável": "GABRIEL HENRIQUE MARTINS PEREIRA",
     "Arremate e Acabamento": "BOM",
-    "Fazenda": NaN
+    "Fazenda": null,
+    "Unnamed: 18": null
   },
   {
     "ID": "3463336",
@@ -12898,7 +13546,8 @@ const ARREMATE_ACABAMENTO_DATA = [
     "Frente": "139 - FRENTE MANEZÃO",
     "Responsável": "GLEISON FELIPE BORGES DE MATOS",
     "Arremate e Acabamento": "BOM",
-    "Fazenda": NaN
+    "Fazenda": null,
+    "Unnamed: 18": null
   },
   {
     "ID": "3463335",
@@ -12918,7 +13567,8 @@ const ARREMATE_ACABAMENTO_DATA = [
     "Frente": "139 - FRENTE MANEZÃO",
     "Responsável": "GLEISON FELIPE BORGES DE MATOS",
     "Arremate e Acabamento": "BOM",
-    "Fazenda": NaN
+    "Fazenda": null,
+    "Unnamed: 18": null
   },
   {
     "ID": "3463329",
@@ -12938,7 +13588,8 @@ const ARREMATE_ACABAMENTO_DATA = [
     "Frente": "139 - FRENTE MANEZÃO",
     "Responsável": "GLEISON FELIPE BORGES DE MATOS",
     "Arremate e Acabamento": "BOM",
-    "Fazenda": NaN
+    "Fazenda": null,
+    "Unnamed: 18": null
   },
   {
     "ID": "3461789",
@@ -12958,7 +13609,8 @@ const ARREMATE_ACABAMENTO_DATA = [
     "Frente": "261 - FRENTE PRÓPRIA  (EDMILSON)",
     "Responsável": "VITOR AMORIM RAMOS ",
     "Arremate e Acabamento": "BOM",
-    "Fazenda": NaN
+    "Fazenda": null,
+    "Unnamed: 18": null
   },
   {
     "ID": "3461765",
@@ -12978,7 +13630,8 @@ const ARREMATE_ACABAMENTO_DATA = [
     "Frente": "261 - FRENTE PRÓPRIA  (EDMILSON)",
     "Responsável": "VITOR AMORIM RAMOS ",
     "Arremate e Acabamento": "BOM",
-    "Fazenda": NaN
+    "Fazenda": null,
+    "Unnamed: 18": null
   },
   {
     "ID": "3461606",
@@ -12998,7 +13651,8 @@ const ARREMATE_ACABAMENTO_DATA = [
     "Frente": "261 - FRENTE PRÓPRIA  (EDMILSON)",
     "Responsável": "278400 - Vitor Amorim Ramos ",
     "Arremate e Acabamento": "BOM",
-    "Fazenda": NaN
+    "Fazenda": null,
+    "Unnamed: 18": null
   },
   {
     "ID": "3461604",
@@ -13018,7 +13672,8 @@ const ARREMATE_ACABAMENTO_DATA = [
     "Frente": "261 - FRENTE PRÓPRIA  (EDMILSON)",
     "Responsável": "278400 - Vitor Amorim Ramos ",
     "Arremate e Acabamento": "BOM",
-    "Fazenda": NaN
+    "Fazenda": null,
+    "Unnamed: 18": null
   },
   {
     "ID": "3455034",
@@ -13038,7 +13693,8 @@ const ARREMATE_ACABAMENTO_DATA = [
     "Frente": "261 - FRENTE PRÓPRIA  (EDMILSON)",
     "Responsável": "VITOR AMORIM RAMOS ",
     "Arremate e Acabamento": "BOM",
-    "Fazenda": NaN
+    "Fazenda": null,
+    "Unnamed: 18": null
   },
   {
     "ID": "3455033",
@@ -13058,7 +13714,8 @@ const ARREMATE_ACABAMENTO_DATA = [
     "Frente": "261 - FRENTE PRÓPRIA  (EDMILSON)",
     "Responsável": "VITOR AMORIM RAMOS ",
     "Arremate e Acabamento": "BOM",
-    "Fazenda": NaN
+    "Fazenda": null,
+    "Unnamed: 18": null
   },
   {
     "ID": "3454929",
@@ -13078,7 +13735,8 @@ const ARREMATE_ACABAMENTO_DATA = [
     "Frente": "101 - FRENTE MECANIZADA",
     "Responsável": "FERNANDA DE SOUZA ",
     "Arremate e Acabamento": "BOM",
-    "Fazenda": NaN
+    "Fazenda": null,
+    "Unnamed: 18": null
   },
   {
     "ID": "3454998",
@@ -13098,7 +13756,8 @@ const ARREMATE_ACABAMENTO_DATA = [
     "Frente": "261 - FRENTE PRÓPRIA  (EDMILSON)",
     "Responsável": "VITOR AMORIM RAMOS ",
     "Arremate e Acabamento": "BOM",
-    "Fazenda": NaN
+    "Fazenda": null,
+    "Unnamed: 18": null
   },
   {
     "ID": "3454861",
@@ -13118,7 +13777,8 @@ const ARREMATE_ACABAMENTO_DATA = [
     "Frente": "105 - FRENTE CASSIO (ZACARIAS)",
     "Responsável": "GABRIEL HENRIQUE MARTINS PEREIRA",
     "Arremate e Acabamento": "BOM",
-    "Fazenda": NaN
+    "Fazenda": null,
+    "Unnamed: 18": null
   },
   {
     "ID": "3454860",
@@ -13138,7 +13798,8 @@ const ARREMATE_ACABAMENTO_DATA = [
     "Frente": "105 - FRENTE CASSIO (ZACARIAS)",
     "Responsável": "GABRIEL HENRIQUE MARTINS PEREIRA",
     "Arremate e Acabamento": "BOM",
-    "Fazenda": NaN
+    "Fazenda": null,
+    "Unnamed: 18": null
   },
   {
     "ID": "3454859",
@@ -13158,7 +13819,8 @@ const ARREMATE_ACABAMENTO_DATA = [
     "Frente": "105 - FRENTE CASSIO (ZACARIAS)",
     "Responsável": "GABRIEL HENRIQUE MARTINS PEREIRA",
     "Arremate e Acabamento": "BOM",
-    "Fazenda": NaN
+    "Fazenda": null,
+    "Unnamed: 18": null
   },
   {
     "ID": "3454238",
@@ -13178,7 +13840,8 @@ const ARREMATE_ACABAMENTO_DATA = [
     "Frente": "142 - FRENTE BIDU",
     "Responsável": "GLEISON FELIPE BORGES DE MATOS",
     "Arremate e Acabamento": "BOM",
-    "Fazenda": NaN
+    "Fazenda": null,
+    "Unnamed: 18": null
   },
   {
     "ID": "3454259",
@@ -13198,7 +13861,8 @@ const ARREMATE_ACABAMENTO_DATA = [
     "Frente": "135 - PEDRINHO ",
     "Responsável": "NILDA CLAUDINO [2510716]",
     "Arremate e Acabamento": "BOM",
-    "Fazenda": NaN
+    "Fazenda": null,
+    "Unnamed: 18": null
   },
   {
     "ID": "3454258",
@@ -13218,7 +13882,8 @@ const ARREMATE_ACABAMENTO_DATA = [
     "Frente": "135 - PEDRINHO ",
     "Responsável": "NILDA CLAUDINO [2510716]",
     "Arremate e Acabamento": "BOM",
-    "Fazenda": NaN
+    "Fazenda": null,
+    "Unnamed: 18": null
   },
   {
     "ID": "3449803",
@@ -13238,7 +13903,8 @@ const ARREMATE_ACABAMENTO_DATA = [
     "Frente": "105 - FRENTE CASSIO (ZACARIAS)",
     "Responsável": "268680 - GABRIEL HENRIQUE MARTINS PEREIRA ",
     "Arremate e Acabamento": "BOM",
-    "Fazenda": NaN
+    "Fazenda": null,
+    "Unnamed: 18": null
   },
   {
     "ID": "3449802",
@@ -13258,7 +13924,8 @@ const ARREMATE_ACABAMENTO_DATA = [
     "Frente": "105 - FRENTE CASSIO (ZACARIAS)",
     "Responsável": "268680 - GABRIEL HENRIQUE MARTINS PEREIRA ",
     "Arremate e Acabamento": "BOM",
-    "Fazenda": NaN
+    "Fazenda": null,
+    "Unnamed: 18": null
   },
   {
     "ID": "3449801",
@@ -13278,7 +13945,8 @@ const ARREMATE_ACABAMENTO_DATA = [
     "Frente": "105 - FRENTE CASSIO (ZACARIAS)",
     "Responsável": "268680 - GABRIEL HENRIQUE MARTINS PEREIRA ",
     "Arremate e Acabamento": "BOM",
-    "Fazenda": NaN
+    "Fazenda": null,
+    "Unnamed: 18": null
   },
   {
     "ID": "3449560",
@@ -13298,7 +13966,8 @@ const ARREMATE_ACABAMENTO_DATA = [
     "Frente": "135 - PEDRINHO ",
     "Responsável": "NILDA CLAUDINO [2510716]",
     "Arremate e Acabamento": "BOM",
-    "Fazenda": NaN
+    "Fazenda": null,
+    "Unnamed: 18": null
   },
   {
     "ID": "3449559",
@@ -13318,7 +13987,8 @@ const ARREMATE_ACABAMENTO_DATA = [
     "Frente": "135 - PEDRINHO ",
     "Responsável": "NILDA CLAUDINO [2510716]",
     "Arremate e Acabamento": "BOM",
-    "Fazenda": NaN
+    "Fazenda": null,
+    "Unnamed: 18": null
   },
   {
     "ID": "3445677",
@@ -13338,7 +14008,8 @@ const ARREMATE_ACABAMENTO_DATA = [
     "Frente": "142 - FRENTE BIDU",
     "Responsável": "GLEISON FELIPE BORGES DE MATOS",
     "Arremate e Acabamento": "BOM",
-    "Fazenda": NaN
+    "Fazenda": null,
+    "Unnamed: 18": null
   },
   {
     "ID": "3445672",
@@ -13358,7 +14029,8 @@ const ARREMATE_ACABAMENTO_DATA = [
     "Frente": "142 - FRENTE BIDU",
     "Responsável": "MICHELI DE SOUZA SANTOS  ",
     "Arremate e Acabamento": "BOM",
-    "Fazenda": NaN
+    "Fazenda": null,
+    "Unnamed: 18": null
   },
   {
     "ID": "3445632",
@@ -13378,7 +14050,8 @@ const ARREMATE_ACABAMENTO_DATA = [
     "Frente": "135 - PEDRINHO ",
     "Responsável": "NILDA CLAUDINO [2510716]",
     "Arremate e Acabamento": "BOM",
-    "Fazenda": NaN
+    "Fazenda": null,
+    "Unnamed: 18": null
   },
   {
     "ID": "3445551",
@@ -13398,7 +14071,8 @@ const ARREMATE_ACABAMENTO_DATA = [
     "Frente": "101 - FRENTE MECANIZADA",
     "Responsável": "FERNANDA DE SOUZA ",
     "Arremate e Acabamento": "BOM",
-    "Fazenda": NaN
+    "Fazenda": null,
+    "Unnamed: 18": null
   },
   {
     "ID": "3443469",
@@ -13418,7 +14092,8 @@ const ARREMATE_ACABAMENTO_DATA = [
     "Frente": "101 - FRENTE MECANIZADA",
     "Responsável": "FERNANDA DE SOUZA [127577]",
     "Arremate e Acabamento": "BOM",
-    "Fazenda": NaN
+    "Fazenda": null,
+    "Unnamed: 18": null
   },
   {
     "ID": "3443317",
@@ -13438,7 +14113,8 @@ const ARREMATE_ACABAMENTO_DATA = [
     "Frente": "142 - FRENTE BIDU",
     "Responsável": "GLEISON FELIPE BORGES DE MATOS [266770]",
     "Arremate e Acabamento": "BOM",
-    "Fazenda": NaN
+    "Fazenda": null,
+    "Unnamed: 18": null
   },
   {
     "ID": "3443316",
@@ -13458,7 +14134,8 @@ const ARREMATE_ACABAMENTO_DATA = [
     "Frente": "142 - FRENTE BIDU",
     "Responsável": "GLEISON FELIPE BORGES DE MATOS [266770]",
     "Arremate e Acabamento": "BOM",
-    "Fazenda": NaN
+    "Fazenda": null,
+    "Unnamed: 18": null
   },
   {
     "ID": "3428252",
@@ -13478,7 +14155,8 @@ const ARREMATE_ACABAMENTO_DATA = [
     "Frente": "142 - FRENTE BIDU",
     "Responsável": "MICHELI DE SOUZA SANTOS  ",
     "Arremate e Acabamento": "BOM",
-    "Fazenda": NaN
+    "Fazenda": null,
+    "Unnamed: 18": null
   },
   {
     "ID": "3428257",
@@ -13498,7 +14176,8 @@ const ARREMATE_ACABAMENTO_DATA = [
     "Frente": "142 - FRENTE BIDU",
     "Responsável": "MICHELI DE SOUZA SANTOS  ",
     "Arremate e Acabamento": "BOM",
-    "Fazenda": NaN
+    "Fazenda": null,
+    "Unnamed: 18": null
   },
   {
     "ID": "3431588",
@@ -13518,7 +14197,8 @@ const ARREMATE_ACABAMENTO_DATA = [
     "Frente": "142 - FRENTE BIDU",
     "Responsável": "MICHELI DE SOUZA SANTOS  ",
     "Arremate e Acabamento": "BOM",
-    "Fazenda": NaN
+    "Fazenda": null,
+    "Unnamed: 18": null
   },
   {
     "ID": "3437736",
@@ -13538,7 +14218,8 @@ const ARREMATE_ACABAMENTO_DATA = [
     "Frente": "142 - FRENTE BIDU",
     "Responsável": "GLEISON FELIPE BORGES DE MATOS [266770]",
     "Arremate e Acabamento": "BOM",
-    "Fazenda": NaN
+    "Fazenda": null,
+    "Unnamed: 18": null
   },
   {
     "ID": "3437720",
@@ -13558,7 +14239,8 @@ const ARREMATE_ACABAMENTO_DATA = [
     "Frente": "142 - FRENTE BIDU",
     "Responsável": "GLEISON FELIPE BORGES DE MATOS [266770]",
     "Arremate e Acabamento": "BOM",
-    "Fazenda": NaN
+    "Fazenda": null,
+    "Unnamed: 18": null
   },
   {
     "ID": "3435546",
@@ -13578,7 +14260,8 @@ const ARREMATE_ACABAMENTO_DATA = [
     "Frente": "142 - FRENTE BIDU",
     "Responsável": "MICHELI DE SOUZA SANTOS  ",
     "Arremate e Acabamento": "BOM",
-    "Fazenda": NaN
+    "Fazenda": null,
+    "Unnamed: 18": null
   },
   {
     "ID": "3435473",
@@ -13598,7 +14281,8 @@ const ARREMATE_ACABAMENTO_DATA = [
     "Frente": "142 - FRENTE BIDU",
     "Responsável": "GLEISON FELIPE BORGES DE MATOS [266770]",
     "Arremate e Acabamento": "BOM",
-    "Fazenda": NaN
+    "Fazenda": null,
+    "Unnamed: 18": null
   },
   {
     "ID": "3435777",
@@ -13618,7 +14302,8 @@ const ARREMATE_ACABAMENTO_DATA = [
     "Frente": "105 - FRENTE CASSIO",
     "Responsável": "268680 - GABRIEL HENRIQUE MARTINS PEREIRA ",
     "Arremate e Acabamento": "BOM",
-    "Fazenda": NaN
+    "Fazenda": null,
+    "Unnamed: 18": null
   },
   {
     "ID": "3435776",
@@ -13638,7 +14323,8 @@ const ARREMATE_ACABAMENTO_DATA = [
     "Frente": "105 - FRENTE CASSIO",
     "Responsável": "268680 - GABRIEL HENRIQUE MARTINS PEREIRA ",
     "Arremate e Acabamento": "BOM",
-    "Fazenda": NaN
+    "Fazenda": null,
+    "Unnamed: 18": null
   },
   {
     "ID": "3435400",
@@ -13658,7 +14344,8 @@ const ARREMATE_ACABAMENTO_DATA = [
     "Frente": "291 - FRENTE PRÓPRIA ",
     "Responsável": "278400 - Vitor Amorim Ramos ",
     "Arremate e Acabamento": "BOM",
-    "Fazenda": NaN
+    "Fazenda": null,
+    "Unnamed: 18": null
   },
   {
     "ID": "3435399",
@@ -13678,7 +14365,8 @@ const ARREMATE_ACABAMENTO_DATA = [
     "Frente": "291 - FRENTE PRÓPRIA ",
     "Responsável": "278400 - Vitor Amorim Ramos ",
     "Arremate e Acabamento": "BOM",
-    "Fazenda": NaN
+    "Fazenda": null,
+    "Unnamed: 18": null
   },
   {
     "ID": "3435291",
@@ -13698,7 +14386,8 @@ const ARREMATE_ACABAMENTO_DATA = [
     "Frente": "101 - FRENTE MECANIZADA",
     "Responsável": "FERNANDA DE SOUZA [127577]",
     "Arremate e Acabamento": "BOM",
-    "Fazenda": NaN
+    "Fazenda": null,
+    "Unnamed: 18": null
   },
   {
     "ID": "3435432",
@@ -13718,7 +14407,8 @@ const ARREMATE_ACABAMENTO_DATA = [
     "Frente": "135 - FRENTE PEDRINHO",
     "Responsável": "NILDA CLAUDINO [2510716]",
     "Arremate e Acabamento": "BOM",
-    "Fazenda": NaN
+    "Fazenda": null,
+    "Unnamed: 18": null
   },
   {
     "ID": "3435431",
@@ -13738,7 +14428,8 @@ const ARREMATE_ACABAMENTO_DATA = [
     "Frente": "135 - FRENTE PEDRINHO",
     "Responsável": "NILDA CLAUDINO [2510716]",
     "Arremate e Acabamento": "BOM",
-    "Fazenda": NaN
+    "Fazenda": null,
+    "Unnamed: 18": null
   },
   {
     "ID": "3435369",
@@ -13758,7 +14449,8 @@ const ARREMATE_ACABAMENTO_DATA = [
     "Frente": "291 - FRENTE PRÓPRIA ",
     "Responsável": "278400 - Vitor Amorim Ramos ",
     "Arremate e Acabamento": "BOM",
-    "Fazenda": NaN
+    "Fazenda": null,
+    "Unnamed: 18": null
   },
   {
     "ID": "3435346",
@@ -13778,7 +14470,8 @@ const ARREMATE_ACABAMENTO_DATA = [
     "Frente": "291 - FRENTE PRÓPRIA ",
     "Responsável": "278400 - Vitor Amorim Ramos ",
     "Arremate e Acabamento": "BOM",
-    "Fazenda": NaN
+    "Fazenda": null,
+    "Unnamed: 18": null
   },
   {
     "ID": "3433763",
@@ -13798,7 +14491,8 @@ const ARREMATE_ACABAMENTO_DATA = [
     "Frente": "122 - Frente  Bidu",
     "Responsável": "MICHELI DE SOUZA SANTOS  ",
     "Arremate e Acabamento": "BOM",
-    "Fazenda": NaN
+    "Fazenda": null,
+    "Unnamed: 18": null
   },
   {
     "ID": "3433706",
@@ -13818,7 +14512,8 @@ const ARREMATE_ACABAMENTO_DATA = [
     "Frente": "101 - FRENTE MECANIZADA",
     "Responsável": "FERNANDA DE SOUZA [127577]",
     "Arremate e Acabamento": "BOM",
-    "Fazenda": NaN
+    "Fazenda": null,
+    "Unnamed: 18": null
   },
   {
     "ID": "3433570",
@@ -13838,7 +14533,8 @@ const ARREMATE_ACABAMENTO_DATA = [
     "Frente": "135 - FRENTE PEDRINHO",
     "Responsável": "NILDA CLAUDINO [2510716]",
     "Arremate e Acabamento": "BOM",
-    "Fazenda": NaN
+    "Fazenda": null,
+    "Unnamed: 18": null
   },
   {
     "ID": "3433569",
@@ -13858,7 +14554,8 @@ const ARREMATE_ACABAMENTO_DATA = [
     "Frente": "135 - FRENTE PEDRINHO",
     "Responsável": "NILDA CLAUDINO [2510716]",
     "Arremate e Acabamento": "BOM",
-    "Fazenda": NaN
+    "Fazenda": null,
+    "Unnamed: 18": null
   },
   {
     "ID": "3433385",
@@ -13878,7 +14575,8 @@ const ARREMATE_ACABAMENTO_DATA = [
     "Frente": "261 - FRENTE PRÓPRIA  (EDMILSON)",
     "Responsável": "278400 - Vitor Amorim Ramos ",
     "Arremate e Acabamento": "BOM",
-    "Fazenda": NaN
+    "Fazenda": null,
+    "Unnamed: 18": null
   },
   {
     "ID": "3433628",
@@ -13898,7 +14596,8 @@ const ARREMATE_ACABAMENTO_DATA = [
     "Frente": "105 - FRENTE CASSIO (ZACARIAS)",
     "Responsável": "268680 - GABRIEL HENRIQUE MARTINS PEREIRA ",
     "Arremate e Acabamento": "BOM",
-    "Fazenda": NaN
+    "Fazenda": null,
+    "Unnamed: 18": null
   },
   {
     "ID": "3433626",
@@ -13918,7 +14617,8 @@ const ARREMATE_ACABAMENTO_DATA = [
     "Frente": "105 - FRENTE CASSIO (ZACARIAS)",
     "Responsável": "268680 - GABRIEL HENRIQUE MARTINS PEREIRA ",
     "Arremate e Acabamento": "BOM",
-    "Fazenda": NaN
+    "Fazenda": null,
+    "Unnamed: 18": null
   },
   {
     "ID": "3433625",
@@ -13938,7 +14638,8 @@ const ARREMATE_ACABAMENTO_DATA = [
     "Frente": "105 - FRENTE CASSIO (ZACARIAS)",
     "Responsável": "268680 - GABRIEL HENRIQUE MARTINS PEREIRA ",
     "Arremate e Acabamento": "BOM",
-    "Fazenda": NaN
+    "Fazenda": null,
+    "Unnamed: 18": null
   },
   {
     "ID": "3433369",
@@ -13958,7 +14659,8 @@ const ARREMATE_ACABAMENTO_DATA = [
     "Frente": "261 - FRENTE PRÓPRIA  (EDMILSON)",
     "Responsável": "278400 - Vitor Amorim Ramos ",
     "Arremate e Acabamento": "BOM",
-    "Fazenda": NaN
+    "Fazenda": null,
+    "Unnamed: 18": null
   },
   {
     "ID": "3433395",
@@ -13978,7 +14680,8 @@ const ARREMATE_ACABAMENTO_DATA = [
     "Frente": "261 - FRENTE PRÓPRIA  (EDMILSON)",
     "Responsável": "278400 - Vitor Amorim Ramos ",
     "Arremate e Acabamento": "BOM",
-    "Fazenda": NaN
+    "Fazenda": null,
+    "Unnamed: 18": null
   },
   {
     "ID": "3433394",
@@ -13998,7 +14701,8 @@ const ARREMATE_ACABAMENTO_DATA = [
     "Frente": "261 - FRENTE PRÓPRIA  (EDMILSON)",
     "Responsável": "278400 - Vitor Amorim Ramos ",
     "Arremate e Acabamento": "BOM",
-    "Fazenda": NaN
+    "Fazenda": null,
+    "Unnamed: 18": null
   },
   {
     "ID": "3433594",
@@ -14018,7 +14722,8 @@ const ARREMATE_ACABAMENTO_DATA = [
     "Frente": "105 - FRENTE CASSIO (ZACARIAS)",
     "Responsável": "268680 - GABRIEL HENRIQUE MARTINS PEREIRA ",
     "Arremate e Acabamento": "BOM",
-    "Fazenda": NaN
+    "Fazenda": null,
+    "Unnamed: 18": null
   },
   {
     "ID": "3431556",
@@ -14038,7 +14743,8 @@ const ARREMATE_ACABAMENTO_DATA = [
     "Frente": "261 - FRENTE PRÓPRIA  (EDMILSON)",
     "Responsável": "278400 - Vitor Amorim Ramos ",
     "Arremate e Acabamento": "BOM",
-    "Fazenda": NaN
+    "Fazenda": null,
+    "Unnamed: 18": null
   },
   {
     "ID": "3431541",
@@ -14058,7 +14764,8 @@ const ARREMATE_ACABAMENTO_DATA = [
     "Frente": "261 - FRENTE PRÓPRIA  (EDMILSON)",
     "Responsável": "278400 - Vitor Amorim Ramos ",
     "Arremate e Acabamento": "BOM",
-    "Fazenda": NaN
+    "Fazenda": null,
+    "Unnamed: 18": null
   },
   {
     "ID": "3431539",
@@ -14078,7 +14785,8 @@ const ARREMATE_ACABAMENTO_DATA = [
     "Frente": "261 - FRENTE PRÓPRIA  (EDMILSON)",
     "Responsável": "278400 - Vitor Amorim Ramos ",
     "Arremate e Acabamento": "BOM",
-    "Fazenda": NaN
+    "Fazenda": null,
+    "Unnamed: 18": null
   },
   {
     "ID": "3428414",
@@ -14098,7 +14806,8 @@ const ARREMATE_ACABAMENTO_DATA = [
     "Frente": "261 - FRENTE PRÓPRIA  (EDMILSON)",
     "Responsável": "278400 - Vitor Amorim Ramos ",
     "Arremate e Acabamento": "BOM",
-    "Fazenda": NaN
+    "Fazenda": null,
+    "Unnamed: 18": null
   },
   {
     "ID": "3428406",
@@ -14118,7 +14827,8 @@ const ARREMATE_ACABAMENTO_DATA = [
     "Frente": "261 - FRENTE PRÓPRIA  (EDMILSON)",
     "Responsável": "278400 - Vitor Amorim Ramos ",
     "Arremate e Acabamento": "BOM",
-    "Fazenda": NaN
+    "Fazenda": null,
+    "Unnamed: 18": null
   },
   {
     "ID": "3428687",
@@ -14138,7 +14848,8 @@ const ARREMATE_ACABAMENTO_DATA = [
     "Frente": "261 - FRENTE PRÓPRIA  (EDMILSON)",
     "Responsável": "268680 - GABRIEL HENRIQUE MARTINS PEREIRA ",
     "Arremate e Acabamento": "BOM",
-    "Fazenda": NaN
+    "Fazenda": null,
+    "Unnamed: 18": null
   },
   {
     "ID": "3428367",
@@ -14158,7 +14869,8 @@ const ARREMATE_ACABAMENTO_DATA = [
     "Frente": "261 - FRENTE PRÓPRIA  (EDMILSON)",
     "Responsável": "278400 - Vitor Amorim Ramos ",
     "Arremate e Acabamento": "BOM",
-    "Fazenda": NaN
+    "Fazenda": null,
+    "Unnamed: 18": null
   },
   {
     "ID": "3428365",
@@ -14178,7 +14890,8 @@ const ARREMATE_ACABAMENTO_DATA = [
     "Frente": "261 - FRENTE PRÓPRIA  (EDMILSON)",
     "Responsável": "278400 - Vitor Amorim Ramos ",
     "Arremate e Acabamento": "BOM",
-    "Fazenda": NaN
+    "Fazenda": null,
+    "Unnamed: 18": null
   },
   {
     "ID": "3428661",
@@ -14198,7 +14911,8 @@ const ARREMATE_ACABAMENTO_DATA = [
     "Frente": "291 - FRENTE PRÓPRIA ",
     "Responsável": "268680 - GABRIEL HENRIQUE MARTINS PEREIRA ",
     "Arremate e Acabamento": "BOM",
-    "Fazenda": NaN
+    "Fazenda": null,
+    "Unnamed: 18": null
   },
   {
     "ID": "3428313",
@@ -14218,7 +14932,8 @@ const ARREMATE_ACABAMENTO_DATA = [
     "Frente": "261 - FRENTE PRÓPRIA  (EDMILSON)",
     "Responsável": "278400 - Vitor Amorim Ramos ",
     "Arremate e Acabamento": "BOM",
-    "Fazenda": NaN
+    "Fazenda": null,
+    "Unnamed: 18": null
   },
   {
     "ID": "3426514",
@@ -14238,7 +14953,8 @@ const ARREMATE_ACABAMENTO_DATA = [
     "Frente": "261 - FRENTE PRÓPRIA  (EDMILSON)",
     "Responsável": "278400 - Vitor Amorim Ramos ",
     "Arremate e Acabamento": "BOM",
-    "Fazenda": NaN
+    "Fazenda": null,
+    "Unnamed: 18": null
   },
   {
     "ID": "3426513",
@@ -14258,7 +14974,8 @@ const ARREMATE_ACABAMENTO_DATA = [
     "Frente": "261 - FRENTE PRÓPRIA  (EDMILSON)",
     "Responsável": "278400 - Vitor Amorim Ramos ",
     "Arremate e Acabamento": "BOM",
-    "Fazenda": NaN
+    "Fazenda": null,
+    "Unnamed: 18": null
   },
   {
     "ID": "3425041",
@@ -14278,7 +14995,8 @@ const ARREMATE_ACABAMENTO_DATA = [
     "Frente": "261 - FRENTE PRÓPRIA  (EDMILSON)",
     "Responsável": "278400 - Vitor Amorim Ramos ",
     "Arremate e Acabamento": "BOM",
-    "Fazenda": NaN
+    "Fazenda": null,
+    "Unnamed: 18": null
   },
   {
     "ID": "3425027",
@@ -14298,7 +15016,8 @@ const ARREMATE_ACABAMENTO_DATA = [
     "Frente": "261 - FRENTE PRÓPRIA  (EDMILSON)",
     "Responsável": "278400 - Vitor Amorim Ramos ",
     "Arremate e Acabamento": "BOM",
-    "Fazenda": NaN
+    "Fazenda": null,
+    "Unnamed: 18": null
   },
   {
     "ID": "3425026",
@@ -14318,7 +15037,8 @@ const ARREMATE_ACABAMENTO_DATA = [
     "Frente": "261 - FRENTE PRÓPRIA  (EDMILSON)",
     "Responsável": "278400 - Vitor Amorim Ramos ",
     "Arremate e Acabamento": "BOM",
-    "Fazenda": NaN
+    "Fazenda": null,
+    "Unnamed: 18": null
   },
   {
     "ID": "3422998",
@@ -14338,7 +15058,8 @@ const ARREMATE_ACABAMENTO_DATA = [
     "Frente": "291 - FRENTE PRÓPRIA ",
     "Responsável": "MICHELI DE SOUZA SANTOS  ",
     "Arremate e Acabamento": "BOM",
-    "Fazenda": NaN
+    "Fazenda": null,
+    "Unnamed: 18": null
   },
   {
     "ID": "3423151",
@@ -14358,7 +15079,8 @@ const ARREMATE_ACABAMENTO_DATA = [
     "Frente": "261 - FRENTE PRÓPRIA  (EDMILSON)",
     "Responsável": "278400 - Vitor Amorim Ramos ",
     "Arremate e Acabamento": "BOM",
-    "Fazenda": NaN
+    "Fazenda": null,
+    "Unnamed: 18": null
   },
   {
     "ID": "3423150",
@@ -14378,7 +15100,8 @@ const ARREMATE_ACABAMENTO_DATA = [
     "Frente": "261 - FRENTE PRÓPRIA  (EDMILSON)",
     "Responsável": "278400 - Vitor Amorim Ramos ",
     "Arremate e Acabamento": "BOM",
-    "Fazenda": NaN
+    "Fazenda": null,
+    "Unnamed: 18": null
   },
   {
     "ID": "3421348",
@@ -14398,7 +15121,8 @@ const ARREMATE_ACABAMENTO_DATA = [
     "Frente": "261 - FRENTE PRÓPRIA  (EDMILSON)",
     "Responsável": "MARCELO DE OLIVEIRA JUNIOR [264820]",
     "Arremate e Acabamento": "BOM",
-    "Fazenda": NaN
+    "Fazenda": null,
+    "Unnamed: 18": null
   },
   {
     "ID": "3421132",
@@ -14418,7 +15142,8 @@ const ARREMATE_ACABAMENTO_DATA = [
     "Frente": "261 - FRENTE PRÓPRIA  (EDMILSON)",
     "Responsável": "278400 - Vitor Amorim Ramos ",
     "Arremate e Acabamento": "BOM",
-    "Fazenda": NaN
+    "Fazenda": null,
+    "Unnamed: 18": null
   },
   {
     "ID": "3421174",
@@ -14438,7 +15163,8 @@ const ARREMATE_ACABAMENTO_DATA = [
     "Frente": "261 - FRENTE PRÓPRIA  (EDMILSON)",
     "Responsável": "278400 - Vitor Amorim Ramos ",
     "Arremate e Acabamento": "BOM",
-    "Fazenda": NaN
+    "Fazenda": null,
+    "Unnamed: 18": null
   },
   {
     "ID": "3421162",
@@ -14458,7 +15184,8 @@ const ARREMATE_ACABAMENTO_DATA = [
     "Frente": "261 - FRENTE PRÓPRIA  (EDMILSON)",
     "Responsável": "278400 - Vitor Amorim Ramos ",
     "Arremate e Acabamento": "BOM",
-    "Fazenda": NaN
+    "Fazenda": null,
+    "Unnamed: 18": null
   },
   {
     "ID": "3417439",
@@ -14478,7 +15205,8 @@ const ARREMATE_ACABAMENTO_DATA = [
     "Frente": "261 - FRENTE PRÓPRIA  (EDMILSON)",
     "Responsável": "278400 - Vitor Amorim Ramos ",
     "Arremate e Acabamento": "BOM",
-    "Fazenda": NaN
+    "Fazenda": null,
+    "Unnamed: 18": null
   },
   {
     "ID": "3417438",
@@ -14498,7 +15226,8 @@ const ARREMATE_ACABAMENTO_DATA = [
     "Frente": "261 - FRENTE PRÓPRIA  (EDMILSON)",
     "Responsável": "278400 - Vitor Amorim Ramos ",
     "Arremate e Acabamento": "BOM",
-    "Fazenda": NaN
+    "Fazenda": null,
+    "Unnamed: 18": null
   },
   {
     "ID": "3417437",
@@ -14518,7 +15247,8 @@ const ARREMATE_ACABAMENTO_DATA = [
     "Frente": "261 - FRENTE PRÓPRIA  (EDMILSON)",
     "Responsável": "278400 - Vitor Amorim Ramos ",
     "Arremate e Acabamento": "BOM",
-    "Fazenda": NaN
+    "Fazenda": null,
+    "Unnamed: 18": null
   },
   {
     "ID": "3416399",
@@ -14538,7 +15268,8 @@ const ARREMATE_ACABAMENTO_DATA = [
     "Frente": "261 - FRENTE PRÓPRIA  (EDMILSON)",
     "Responsável": "278400 - Vitor Amorim Ramos ",
     "Arremate e Acabamento": "BOM",
-    "Fazenda": NaN
+    "Fazenda": null,
+    "Unnamed: 18": null
   },
   {
     "ID": "3416398",
@@ -14558,7 +15289,8 @@ const ARREMATE_ACABAMENTO_DATA = [
     "Frente": "261 - FRENTE PRÓPRIA  (EDMILSON)",
     "Responsável": "278400 - Vitor Amorim Ramos ",
     "Arremate e Acabamento": "BOM",
-    "Fazenda": NaN
+    "Fazenda": null,
+    "Unnamed: 18": null
   },
   {
     "ID": "3415077",
@@ -14578,7 +15310,8 @@ const ARREMATE_ACABAMENTO_DATA = [
     "Frente": "261 - FRENTE PRÓPRIA  (EDMILSON)",
     "Responsável": "278400 - Vitor Amorim Ramos ",
     "Arremate e Acabamento": "BOM",
-    "Fazenda": NaN
+    "Fazenda": null,
+    "Unnamed: 18": null
   },
   {
     "ID": "3415066",
@@ -14598,7 +15331,8 @@ const ARREMATE_ACABAMENTO_DATA = [
     "Frente": "261 - FRENTE PRÓPRIA  (EDMILSON)",
     "Responsável": "278400 - Vitor Amorim Ramos ",
     "Arremate e Acabamento": "BOM",
-    "Fazenda": NaN
+    "Fazenda": null,
+    "Unnamed: 18": null
   },
   {
     "ID": "3414937",
@@ -14618,7 +15352,8 @@ const ARREMATE_ACABAMENTO_DATA = [
     "Frente": "261 - FRENTE PRÓPRIA  (EDMILSON)",
     "Responsável": "278400 - Vitor Amorim Ramos ",
     "Arremate e Acabamento": "BOM",
-    "Fazenda": NaN
+    "Fazenda": null,
+    "Unnamed: 18": null
   },
   {
     "ID": "3414912",
@@ -14638,7 +15373,8 @@ const ARREMATE_ACABAMENTO_DATA = [
     "Frente": "261 - FRENTE PRÓPRIA  (EDMILSON)",
     "Responsável": "278400 - Vitor Amorim Ramos ",
     "Arremate e Acabamento": "BOM",
-    "Fazenda": NaN
+    "Fazenda": null,
+    "Unnamed: 18": null
   },
   {
     "ID": "3414871",
@@ -14658,7 +15394,8 @@ const ARREMATE_ACABAMENTO_DATA = [
     "Frente": "261 - FRENTE PRÓPRIA  (EDMILSON)",
     "Responsável": "278400 - Vitor Amorim Ramos ",
     "Arremate e Acabamento": "BOM",
-    "Fazenda": NaN
+    "Fazenda": null,
+    "Unnamed: 18": null
   },
   {
     "ID": "3414870",
@@ -14678,7 +15415,8 @@ const ARREMATE_ACABAMENTO_DATA = [
     "Frente": "261 - FRENTE PRÓPRIA  (EDMILSON)",
     "Responsável": "278400 - Vitor Amorim Ramos ",
     "Arremate e Acabamento": "BOM",
-    "Fazenda": NaN
+    "Fazenda": null,
+    "Unnamed: 18": null
   },
   {
     "ID": "3413438",
@@ -14698,7 +15436,8 @@ const ARREMATE_ACABAMENTO_DATA = [
     "Frente": "261 - FRENTE PRÓPRIA  (EDMILSON)",
     "Responsável": "278400 - Vitor Amorim Ramos ",
     "Arremate e Acabamento": "BOM",
-    "Fazenda": NaN
+    "Fazenda": null,
+    "Unnamed: 18": null
   },
   {
     "ID": "3413436",
@@ -14718,7 +15457,8 @@ const ARREMATE_ACABAMENTO_DATA = [
     "Frente": "261 - FRENTE PRÓPRIA  (EDMILSON)",
     "Responsável": "278400 - Vitor Amorim Ramos ",
     "Arremate e Acabamento": "BOM",
-    "Fazenda": NaN
+    "Fazenda": null,
+    "Unnamed: 18": null
   },
   {
     "ID": "3413405",
@@ -14738,7 +15478,8 @@ const ARREMATE_ACABAMENTO_DATA = [
     "Frente": "261 - FRENTE PRÓPRIA  (EDMILSON)",
     "Responsável": "278400 - Vitor Amorim Ramos ",
     "Arremate e Acabamento": "BOM",
-    "Fazenda": NaN
+    "Fazenda": null,
+    "Unnamed: 18": null
   },
   {
     "ID": "3413403",
@@ -14758,7 +15499,8 @@ const ARREMATE_ACABAMENTO_DATA = [
     "Frente": "261 - FRENTE PRÓPRIA  (EDMILSON)",
     "Responsável": "278400 - Vitor Amorim Ramos ",
     "Arremate e Acabamento": "BOM",
-    "Fazenda": NaN
+    "Fazenda": null,
+    "Unnamed: 18": null
   },
   {
     "ID": "3413381",
@@ -14778,7 +15520,8 @@ const ARREMATE_ACABAMENTO_DATA = [
     "Frente": "261 - FRENTE PRÓPRIA  (EDMILSON)",
     "Responsável": "278400 - Vitor Amorim Ramos ",
     "Arremate e Acabamento": "BOM",
-    "Fazenda": NaN
+    "Fazenda": null,
+    "Unnamed: 18": null
   },
   {
     "ID": "3411631",
@@ -14798,7 +15541,8 @@ const ARREMATE_ACABAMENTO_DATA = [
     "Frente": "261 - FRENTE PRÓPRIA  (EDMILSON)",
     "Responsável": "278400 - Vitor Amorim Ramos ",
     "Arremate e Acabamento": "BOM",
-    "Fazenda": NaN
+    "Fazenda": null,
+    "Unnamed: 18": null
   },
   {
     "ID": "3411609",
@@ -14818,7 +15562,8 @@ const ARREMATE_ACABAMENTO_DATA = [
     "Frente": "261 - FRENTE PRÓPRIA  (EDMILSON)",
     "Responsável": "278400 - Vitor Amorim Ramos ",
     "Arremate e Acabamento": "BOM",
-    "Fazenda": NaN
+    "Fazenda": null,
+    "Unnamed: 18": null
   },
   {
     "ID": "3411607",
@@ -14838,7 +15583,8 @@ const ARREMATE_ACABAMENTO_DATA = [
     "Frente": "261 - FRENTE PRÓPRIA  (EDMILSON)",
     "Responsável": "278400 - Vitor Amorim Ramos ",
     "Arremate e Acabamento": "BOM",
-    "Fazenda": NaN
+    "Fazenda": null,
+    "Unnamed: 18": null
   },
   {
     "ID": "3411574",
@@ -14858,7 +15604,8 @@ const ARREMATE_ACABAMENTO_DATA = [
     "Frente": "261 - FRENTE PRÓPRIA  (EDMILSON)",
     "Responsável": "278400 - Vitor Amorim Ramos ",
     "Arremate e Acabamento": "BOM",
-    "Fazenda": NaN
+    "Fazenda": null,
+    "Unnamed: 18": null
   },
   {
     "ID": "3411573",
@@ -14878,7 +15625,8 @@ const ARREMATE_ACABAMENTO_DATA = [
     "Frente": "261 - FRENTE PRÓPRIA  (EDMILSON)",
     "Responsável": "278400 - Vitor Amorim Ramos ",
     "Arremate e Acabamento": "BOM",
-    "Fazenda": NaN
+    "Fazenda": null,
+    "Unnamed: 18": null
   },
   {
     "ID": "3410282",
@@ -14898,7 +15646,8 @@ const ARREMATE_ACABAMENTO_DATA = [
     "Frente": "261 - FRENTE PRÓPRIA  (EDMILSON)",
     "Responsável": "278400 - Vitor Amorim Ramos ",
     "Arremate e Acabamento": "BOM",
-    "Fazenda": NaN
+    "Fazenda": null,
+    "Unnamed: 18": null
   },
   {
     "ID": "3410272",
@@ -14918,7 +15667,8 @@ const ARREMATE_ACABAMENTO_DATA = [
     "Frente": "261 - FRENTE PRÓPRIA  (EDMILSON)",
     "Responsável": "278400 - Vitor Amorim Ramos ",
     "Arremate e Acabamento": "BOM",
-    "Fazenda": NaN
+    "Fazenda": null,
+    "Unnamed: 18": null
   },
   {
     "ID": "3410270",
@@ -14938,7 +15688,8 @@ const ARREMATE_ACABAMENTO_DATA = [
     "Frente": "261 - FRENTE PRÓPRIA  (EDMILSON)",
     "Responsável": "278400 - Vitor Amorim Ramos ",
     "Arremate e Acabamento": "BOM",
-    "Fazenda": NaN
+    "Fazenda": null,
+    "Unnamed: 18": null
   },
   {
     "ID": "3410002",
@@ -14958,7 +15709,8 @@ const ARREMATE_ACABAMENTO_DATA = [
     "Frente": "261 - FRENTE PRÓPRIA  (EDMILSON)",
     "Responsável": "278400 - Vitor Amorim Ramos ",
     "Arremate e Acabamento": "BOM",
-    "Fazenda": NaN
+    "Fazenda": null,
+    "Unnamed: 18": null
   },
   {
     "ID": "3408545",
@@ -14978,7 +15730,8 @@ const ARREMATE_ACABAMENTO_DATA = [
     "Frente": "261 - FRENTE PRÓPRIA  (EDMILSON)",
     "Responsável": "278400 - Vitor Amorim Ramos ",
     "Arremate e Acabamento": "BOM",
-    "Fazenda": NaN
+    "Fazenda": null,
+    "Unnamed: 18": null
   },
   {
     "ID": "3408119",
@@ -14998,7 +15751,8 @@ const ARREMATE_ACABAMENTO_DATA = [
     "Frente": "261 - FRENTE PRÓPRIA  (EDMILSON)",
     "Responsável": "278400 - Vitor Amorim Ramos ",
     "Arremate e Acabamento": "BOM",
-    "Fazenda": NaN
+    "Fazenda": null,
+    "Unnamed: 18": null
   },
   {
     "ID": "3408116",
@@ -15018,7 +15772,8 @@ const ARREMATE_ACABAMENTO_DATA = [
     "Frente": "261 - FRENTE PRÓPRIA  (EDMILSON)",
     "Responsável": "278400 - Vitor Amorim Ramos ",
     "Arremate e Acabamento": "BOM",
-    "Fazenda": NaN
+    "Fazenda": null,
+    "Unnamed: 18": null
   },
   {
     "ID": "3408114",
@@ -15038,7 +15793,8 @@ const ARREMATE_ACABAMENTO_DATA = [
     "Frente": "261 - FRENTE PRÓPRIA  (EDMILSON)",
     "Responsável": "278400 - Vitor Amorim Ramos ",
     "Arremate e Acabamento": "BOM",
-    "Fazenda": NaN
+    "Fazenda": null,
+    "Unnamed: 18": null
   },
   {
     "ID": "4026272",
@@ -15058,7 +15814,8 @@ const ARREMATE_ACABAMENTO_DATA = [
     "Frente": "135 - FRENTE PEDRINHO",
     "Responsável": "285410",
     "Arremate e Acabamento": "BOM",
-    "Fazenda": "33302"
+    "Fazenda": "33302",
+    "Unnamed: 18": null
   },
   {
     "ID": "4026271",
@@ -15078,7 +15835,8 @@ const ARREMATE_ACABAMENTO_DATA = [
     "Frente": "135 - FRENTE PEDRINHO",
     "Responsável": "285410",
     "Arremate e Acabamento": "BOM",
-    "Fazenda": "33302"
+    "Fazenda": "33302",
+    "Unnamed: 18": null
   },
   {
     "ID": "4018228",
@@ -15098,7 +15856,8 @@ const ARREMATE_ACABAMENTO_DATA = [
     "Frente": "135 - FRENTE PEDRINHO",
     "Responsável": "284860  - Juliana Aparecida Ferreira De Freitas",
     "Arremate e Acabamento": "BOM",
-    "Fazenda": "70426"
+    "Fazenda": "70426",
+    "Unnamed: 18": null
   },
   {
     "ID": "4018227",
@@ -15118,7 +15877,8 @@ const ARREMATE_ACABAMENTO_DATA = [
     "Frente": "135 - FRENTE PEDRINHO",
     "Responsável": "284860  - Juliana Aparecida Ferreira De Freitas",
     "Arremate e Acabamento": "BOM",
-    "Fazenda": "70426"
+    "Fazenda": "70426",
+    "Unnamed: 18": null
   },
   {
     "ID": "4013425",
@@ -15138,7 +15898,8 @@ const ARREMATE_ACABAMENTO_DATA = [
     "Frente": "135 - FRENTE PEDRINHO",
     "Responsável": "284860  - Juliana Aparecida Ferreira De Freitas",
     "Arremate e Acabamento": "BOM",
-    "Fazenda": "70301"
+    "Fazenda": "70301",
+    "Unnamed: 18": null
   },
   {
     "ID": "4013424",
@@ -15158,7 +15919,8 @@ const ARREMATE_ACABAMENTO_DATA = [
     "Frente": "135 - FRENTE PEDRINHO",
     "Responsável": "284860  - Juliana Aparecida Ferreira De Freitas",
     "Arremate e Acabamento": "BOM",
-    "Fazenda": "70301"
+    "Fazenda": "70301",
+    "Unnamed: 18": null
   },
   {
     "ID": "4010609",
@@ -15178,7 +15940,8 @@ const ARREMATE_ACABAMENTO_DATA = [
     "Frente": "135 - FRENTE PEDRINHO",
     "Responsável": "284860  - Juliana Aparecida Ferreira De Freitas",
     "Arremate e Acabamento": "BOM",
-    "Fazenda": "70301"
+    "Fazenda": "70301",
+    "Unnamed: 18": null
   },
   {
     "ID": "4010608",
@@ -15198,7 +15961,8 @@ const ARREMATE_ACABAMENTO_DATA = [
     "Frente": "135 - FRENTE PEDRINHO",
     "Responsável": "284860  - Juliana Aparecida Ferreira De Freitas",
     "Arremate e Acabamento": "BOM",
-    "Fazenda": "70301"
+    "Fazenda": "70301",
+    "Unnamed: 18": null
   },
   {
     "ID": "4006248",
@@ -15218,7 +15982,8 @@ const ARREMATE_ACABAMENTO_DATA = [
     "Frente": "135 - FRENTE PEDRINHO",
     "Responsável": "REGINALDO DA SILVA GOMES ",
     "Arremate e Acabamento": "BOM",
-    "Fazenda": "70431"
+    "Fazenda": "70431",
+    "Unnamed: 18": null
   },
   {
     "ID": "4006483",
@@ -15238,7 +16003,8 @@ const ARREMATE_ACABAMENTO_DATA = [
     "Frente": "135 - FRENTE PEDRINHO",
     "Responsável": "284860  - Juliana Aparecida Ferreira De Freitas",
     "Arremate e Acabamento": "BOM",
-    "Fazenda": "70431"
+    "Fazenda": "70431",
+    "Unnamed: 18": null
   },
   {
     "ID": "4006482",
@@ -15258,7 +16024,8 @@ const ARREMATE_ACABAMENTO_DATA = [
     "Frente": "135 - FRENTE PEDRINHO",
     "Responsável": "284860  - Juliana Aparecida Ferreira De Freitas",
     "Arremate e Acabamento": "BOM",
-    "Fazenda": "70431"
+    "Fazenda": "70431",
+    "Unnamed: 18": null
   },
   {
     "ID": "4004054",
@@ -15278,7 +16045,8 @@ const ARREMATE_ACABAMENTO_DATA = [
     "Frente": "135 - FRENTE PEDRINHO",
     "Responsável": "285410",
     "Arremate e Acabamento": "BOM",
-    "Fazenda": "70431"
+    "Fazenda": "70431",
+    "Unnamed: 18": null
   },
   {
     "ID": "4004053",
@@ -15298,7 +16066,8 @@ const ARREMATE_ACABAMENTO_DATA = [
     "Frente": "135 - FRENTE PEDRINHO",
     "Responsável": "285410",
     "Arremate e Acabamento": "BOM",
-    "Fazenda": "70431"
+    "Fazenda": "70431",
+    "Unnamed: 18": null
   },
   {
     "ID": "3998480",
@@ -15318,7 +16087,8 @@ const ARREMATE_ACABAMENTO_DATA = [
     "Frente": "135 - FRENTE PEDRINHO",
     "Responsável": "284860  - Juliana Aparecida Ferreira De Freitas",
     "Arremate e Acabamento": "BOM",
-    "Fazenda": "199802"
+    "Fazenda": "199802",
+    "Unnamed: 18": null
   },
   {
     "ID": "3998479",
@@ -15338,7 +16108,8 @@ const ARREMATE_ACABAMENTO_DATA = [
     "Frente": "135 - FRENTE PEDRINHO",
     "Responsável": "284860  - Juliana Aparecida Ferreira De Freitas",
     "Arremate e Acabamento": "BOM",
-    "Fazenda": "199802"
+    "Fazenda": "199802",
+    "Unnamed: 18": null
   },
   {
     "ID": "3949179",
@@ -15358,7 +16129,8 @@ const ARREMATE_ACABAMENTO_DATA = [
     "Frente": "135 - FRENTE PEDRINHO",
     "Responsável": "MABILA HELEN D FIGUEIREDO",
     "Arremate e Acabamento": "BOM",
-    "Fazenda": "36813"
+    "Fazenda": "36813",
+    "Unnamed: 18": null
   },
   {
     "ID": "3946352",
@@ -15378,7 +16150,8 @@ const ARREMATE_ACABAMENTO_DATA = [
     "Frente": "135 - FRENTE PEDRINHO",
     "Responsável": "MABILA HELEN D FIGUEIREDO",
     "Arremate e Acabamento": "BOM",
-    "Fazenda": "151901"
+    "Fazenda": "151901",
+    "Unnamed: 18": null
   },
   {
     "ID": "3942423",
@@ -15398,7 +16171,8 @@ const ARREMATE_ACABAMENTO_DATA = [
     "Frente": "135 - FRENTE PEDRINHO",
     "Responsável": "MABILA HELEN D FIGUEIREDO",
     "Arremate e Acabamento": "BOM",
-    "Fazenda": "151901"
+    "Fazenda": "151901",
+    "Unnamed: 18": null
   },
   {
     "ID": "3942385",
@@ -15418,7 +16192,8 @@ const ARREMATE_ACABAMENTO_DATA = [
     "Frente": "135 - FRENTE PEDRINHO",
     "Responsável": "MABILA HELEN D FIGUEIREDO",
     "Arremate e Acabamento": "BOM",
-    "Fazenda": "151901"
+    "Fazenda": "151901",
+    "Unnamed: 18": null
   },
   {
     "ID": "3939357",
@@ -15438,7 +16213,8 @@ const ARREMATE_ACABAMENTO_DATA = [
     "Frente": "261 - FRENTE PRÓPRIA  (EDMILSON)",
     "Responsável": "VITOR AMORIM RAMOS ",
     "Arremate e Acabamento": "BOM",
-    "Fazenda": "177012"
+    "Fazenda": "177012",
+    "Unnamed: 18": null
   },
   {
     "ID": "3939335",
@@ -15458,7 +16234,8 @@ const ARREMATE_ACABAMENTO_DATA = [
     "Frente": "261 - FRENTE PRÓPRIA  (EDMILSON)",
     "Responsável": "VITOR AMORIM RAMOS ",
     "Arremate e Acabamento": "BOM",
-    "Fazenda": "177012"
+    "Fazenda": "177012",
+    "Unnamed: 18": null
   },
   {
     "ID": "3939334",
@@ -15478,7 +16255,8 @@ const ARREMATE_ACABAMENTO_DATA = [
     "Frente": "261 - FRENTE PRÓPRIA  (EDMILSON)",
     "Responsável": "VITOR AMORIM RAMOS ",
     "Arremate e Acabamento": "BOM",
-    "Fazenda": "177012"
+    "Fazenda": "177012",
+    "Unnamed: 18": null
   },
   {
     "ID": "3938738",
@@ -15498,7 +16276,8 @@ const ARREMATE_ACABAMENTO_DATA = [
     "Frente": "135 - FRENTE PEDRINHO",
     "Responsável": "REGINALDO DA SILVA GOMES ",
     "Arremate e Acabamento": "BOM",
-    "Fazenda": "151901"
+    "Fazenda": "151901",
+    "Unnamed: 18": null
   },
   {
     "ID": "3939087",
@@ -15518,7 +16297,8 @@ const ARREMATE_ACABAMENTO_DATA = [
     "Frente": "135 - FRENTE PEDRINHO",
     "Responsável": "MABILA HELEN D FIGUEIREDO",
     "Arremate e Acabamento": "BOM",
-    "Fazenda": "151901"
+    "Fazenda": "151901",
+    "Unnamed: 18": null
   },
   {
     "ID": "3938592",
@@ -15538,7 +16318,8 @@ const ARREMATE_ACABAMENTO_DATA = [
     "Frente": "135 - FRENTE PEDRINHO",
     "Responsável": "REGINALDO DA SILVA GOMES ",
     "Arremate e Acabamento": "BOM",
-    "Fazenda": "151901"
+    "Fazenda": "151901",
+    "Unnamed: 18": null
   },
   {
     "ID": "3938504",
@@ -15558,7 +16339,8 @@ const ARREMATE_ACABAMENTO_DATA = [
     "Frente": "261 - FRENTE PRÓPRIA  (EDMILSON)",
     "Responsável": "VITOR AMORIM RAMOS ",
     "Arremate e Acabamento": "BOM",
-    "Fazenda": "177012"
+    "Fazenda": "177012",
+    "Unnamed: 18": null
   },
   {
     "ID": "3938503",
@@ -15578,7 +16360,8 @@ const ARREMATE_ACABAMENTO_DATA = [
     "Frente": "261 - FRENTE PRÓPRIA  (EDMILSON)",
     "Responsável": "VITOR AMORIM RAMOS ",
     "Arremate e Acabamento": "BOM",
-    "Fazenda": "177012"
+    "Fazenda": "177012",
+    "Unnamed: 18": null
   },
   {
     "ID": "3936056",
@@ -15598,7 +16381,8 @@ const ARREMATE_ACABAMENTO_DATA = [
     "Frente": "135 - FRENTE PEDRINHO",
     "Responsável": "VITOR AMORIM RAMOS ",
     "Arremate e Acabamento": "BOM",
-    "Fazenda": "151901"
+    "Fazenda": "151901",
+    "Unnamed: 18": null
   },
   {
     "ID": "3936045",
@@ -15618,7 +16402,8 @@ const ARREMATE_ACABAMENTO_DATA = [
     "Frente": "135 - FRENTE PEDRINHO",
     "Responsável": "VITOR AMORIM RAMOS ",
     "Arremate e Acabamento": "BOM",
-    "Fazenda": "151901"
+    "Fazenda": "151901",
+    "Unnamed: 18": null
   },
   {
     "ID": "3936022",
@@ -15638,7 +16423,8 @@ const ARREMATE_ACABAMENTO_DATA = [
     "Frente": "135 - FRENTE PEDRINHO",
     "Responsável": "VITOR AMORIM RAMOS ",
     "Arremate e Acabamento": "BOM",
-    "Fazenda": "151901"
+    "Fazenda": "151901",
+    "Unnamed: 18": null
   },
   {
     "ID": "3931265",
@@ -15658,7 +16444,8 @@ const ARREMATE_ACABAMENTO_DATA = [
     "Frente": "261 - FRENTE PRÓPRIA  (EDMILSON)",
     "Responsável": "VITOR AMORIM RAMOS ",
     "Arremate e Acabamento": "BOM",
-    "Fazenda": "67901"
+    "Fazenda": "67901",
+    "Unnamed: 18": null
   },
   {
     "ID": "3931264",
@@ -15678,7 +16465,8 @@ const ARREMATE_ACABAMENTO_DATA = [
     "Frente": "261 - FRENTE PRÓPRIA  (EDMILSON)",
     "Responsável": "VITOR AMORIM RAMOS ",
     "Arremate e Acabamento": "BOM",
-    "Fazenda": "67901"
+    "Fazenda": "67901",
+    "Unnamed: 18": null
   },
   {
     "ID": "3931248",
@@ -15698,7 +16486,8 @@ const ARREMATE_ACABAMENTO_DATA = [
     "Frente": "261 - FRENTE PRÓPRIA  (EDMILSON)",
     "Responsável": "VITOR AMORIM RAMOS ",
     "Arremate e Acabamento": "BOM",
-    "Fazenda": "67901"
+    "Fazenda": "67901",
+    "Unnamed: 18": null
   },
   {
     "ID": "3928727",
@@ -15718,7 +16507,8 @@ const ARREMATE_ACABAMENTO_DATA = [
     "Frente": "261 - FRENTE PRÓPRIA  (EDMILSON)",
     "Responsável": "VITOR AMORIM RAMOS ",
     "Arremate e Acabamento": "BOM",
-    "Fazenda": "67901"
+    "Fazenda": "67901",
+    "Unnamed: 18": null
   },
   {
     "ID": "3928826",
@@ -15738,7 +16528,8 @@ const ARREMATE_ACABAMENTO_DATA = [
     "Frente": "261 - FRENTE PRÓPRIA  (EDMILSON)",
     "Responsável": "VITOR AMORIM RAMOS ",
     "Arremate e Acabamento": "BOM",
-    "Fazenda": "67901"
+    "Fazenda": "67901",
+    "Unnamed: 18": null
   },
   {
     "ID": "3928825",
@@ -15758,7 +16549,8 @@ const ARREMATE_ACABAMENTO_DATA = [
     "Frente": "261 - FRENTE PRÓPRIA  (EDMILSON)",
     "Responsável": "VITOR AMORIM RAMOS ",
     "Arremate e Acabamento": "BOM",
-    "Fazenda": "67901"
+    "Fazenda": "67901",
+    "Unnamed: 18": null
   },
   {
     "ID": "3928824",
@@ -15778,7 +16570,8 @@ const ARREMATE_ACABAMENTO_DATA = [
     "Frente": "261 - FRENTE PRÓPRIA  (EDMILSON)",
     "Responsável": "VITOR AMORIM RAMOS ",
     "Arremate e Acabamento": "BOM",
-    "Fazenda": "67901"
+    "Fazenda": "67901",
+    "Unnamed: 18": null
   },
   {
     "ID": "3926074",
@@ -15798,7 +16591,8 @@ const ARREMATE_ACABAMENTO_DATA = [
     "Frente": "135 - FRENTE PEDRINHO",
     "Responsável": "284860  - Juliana Aparecida Ferreira De Freitas",
     "Arremate e Acabamento": "BOM",
-    "Fazenda": "177015"
+    "Fazenda": "177015",
+    "Unnamed: 18": null
   },
   {
     "ID": "3926073",
@@ -15818,7 +16612,8 @@ const ARREMATE_ACABAMENTO_DATA = [
     "Frente": "135 - FRENTE PEDRINHO",
     "Responsável": "284860  - Juliana Aparecida Ferreira De Freitas",
     "Arremate e Acabamento": "BOM",
-    "Fazenda": "177015"
+    "Fazenda": "177015",
+    "Unnamed: 18": null
   },
   {
     "ID": "3923376",
@@ -15838,7 +16633,8 @@ const ARREMATE_ACABAMENTO_DATA = [
     "Frente": "135 - FRENTE PEDRINHO",
     "Responsável": "284860  - Juliana Aparecida Ferreira De Freitas",
     "Arremate e Acabamento": "BOM",
-    "Fazenda": "177015"
+    "Fazenda": "177015",
+    "Unnamed: 18": null
   },
   {
     "ID": "3923375",
@@ -15858,7 +16654,8 @@ const ARREMATE_ACABAMENTO_DATA = [
     "Frente": "135 - FRENTE PEDRINHO",
     "Responsável": "284860  - Juliana Aparecida Ferreira De Freitas",
     "Arremate e Acabamento": "BOM",
-    "Fazenda": "177015"
+    "Fazenda": "177015",
+    "Unnamed: 18": null
   },
   {
     "ID": "3922723",
@@ -15878,7 +16675,8 @@ const ARREMATE_ACABAMENTO_DATA = [
     "Frente": "261 - FRENTE PRÓPRIA  (EDMILSON)",
     "Responsável": "MABILA HELEN D FIGUEIREDO",
     "Arremate e Acabamento": "BOM",
-    "Fazenda": "111201"
+    "Fazenda": "111201",
+    "Unnamed: 18": null
   },
   {
     "ID": "3922668",
@@ -15898,7 +16696,8 @@ const ARREMATE_ACABAMENTO_DATA = [
     "Frente": "261 - FRENTE PRÓPRIA  (EDMILSON)",
     "Responsável": "REGINALDO DA SILVA GOMES ",
     "Arremate e Acabamento": "BOM",
-    "Fazenda": "111201"
+    "Fazenda": "111201",
+    "Unnamed: 18": null
   },
   {
     "ID": "3922663",
@@ -15918,7 +16717,8 @@ const ARREMATE_ACABAMENTO_DATA = [
     "Frente": "261 - FRENTE PRÓPRIA  (EDMILSON)",
     "Responsável": "REGINALDO DA SILVA GOMES ",
     "Arremate e Acabamento": "BOM",
-    "Fazenda": "111201"
+    "Fazenda": "111201",
+    "Unnamed: 18": null
   },
   {
     "ID": "3923401",
@@ -15938,7 +16738,8 @@ const ARREMATE_ACABAMENTO_DATA = [
     "Frente": "135 - FRENTE PEDRINHO",
     "Responsável": "284860  - Juliana Aparecida Ferreira De Freitas",
     "Arremate e Acabamento": "BOM",
-    "Fazenda": "146301"
+    "Fazenda": "146301",
+    "Unnamed: 18": null
   },
   {
     "ID": "3923400",
@@ -15958,7 +16759,8 @@ const ARREMATE_ACABAMENTO_DATA = [
     "Frente": "135 - FRENTE PEDRINHO",
     "Responsável": "284860  - Juliana Aparecida Ferreira De Freitas",
     "Arremate e Acabamento": "BOM",
-    "Fazenda": "146301"
+    "Fazenda": "146301",
+    "Unnamed: 18": null
   },
   {
     "ID": "3920275",
@@ -15978,7 +16780,8 @@ const ARREMATE_ACABAMENTO_DATA = [
     "Frente": "261 - FRENTE PRÓPRIA  (EDMILSON)",
     "Responsável": "MABILA HELEN D FIGUEIREDO",
     "Arremate e Acabamento": "BOM",
-    "Fazenda": "142201"
+    "Fazenda": "142201",
+    "Unnamed: 18": null
   },
   {
     "ID": "3919845",
@@ -15998,7 +16801,8 @@ const ARREMATE_ACABAMENTO_DATA = [
     "Frente": "135 - FRENTE PEDRINHO",
     "Responsável": "REGINALDO DA SILVA GOMES ",
     "Arremate e Acabamento": "BOM",
-    "Fazenda": "146301"
+    "Fazenda": "146301",
+    "Unnamed: 18": null
   },
   {
     "ID": "3919840",
@@ -16018,7 +16822,8 @@ const ARREMATE_ACABAMENTO_DATA = [
     "Frente": "135 - FRENTE PEDRINHO",
     "Responsável": "REGINALDO DA SILVA GOMES ",
     "Arremate e Acabamento": "BOM",
-    "Fazenda": "146301"
+    "Fazenda": "146301",
+    "Unnamed: 18": null
   },
   {
     "ID": "3919839",
@@ -16038,7 +16843,8 @@ const ARREMATE_ACABAMENTO_DATA = [
     "Frente": "135 - FRENTE PEDRINHO",
     "Responsável": "REGINALDO DA SILVA GOMES ",
     "Arremate e Acabamento": "BOM",
-    "Fazenda": "146301"
+    "Fazenda": "146301",
+    "Unnamed: 18": null
   },
   {
     "ID": "3920351",
@@ -16058,7 +16864,8 @@ const ARREMATE_ACABAMENTO_DATA = [
     "Frente": "135 - FRENTE PEDRINHO",
     "Responsável": "284860  - Juliana Aparecida Ferreira De Freitas",
     "Arremate e Acabamento": "BOM",
-    "Fazenda": "146301"
+    "Fazenda": "146301",
+    "Unnamed: 18": null
   },
   {
     "ID": "3920350",
@@ -16078,7 +16885,8 @@ const ARREMATE_ACABAMENTO_DATA = [
     "Frente": "135 - FRENTE PEDRINHO",
     "Responsável": "284860  - Juliana Aparecida Ferreira De Freitas",
     "Arremate e Acabamento": "BOM",
-    "Fazenda": "146301"
+    "Fazenda": "146301",
+    "Unnamed: 18": null
   },
   {
     "ID": "3917467",
@@ -16098,7 +16906,8 @@ const ARREMATE_ACABAMENTO_DATA = [
     "Frente": "261 - FRENTE PRÓPRIA  (EDMILSON)",
     "Responsável": "MABILA HELEN D FIGUEIREDO",
     "Arremate e Acabamento": "BOM",
-    "Fazenda": "70408"
+    "Fazenda": "70408",
+    "Unnamed: 18": null
   },
   {
     "ID": "3915716",
@@ -16118,7 +16927,8 @@ const ARREMATE_ACABAMENTO_DATA = [
     "Frente": "261 - FRENTE PRÓPRIA  (EDMILSON)",
     "Responsável": "284860  - Juliana Aparecida Ferreira De Freitas",
     "Arremate e Acabamento": "BOM",
-    "Fazenda": "70408"
+    "Fazenda": "70408",
+    "Unnamed: 18": null
   },
   {
     "ID": "3915715",
@@ -16138,7 +16948,8 @@ const ARREMATE_ACABAMENTO_DATA = [
     "Frente": "261 - FRENTE PRÓPRIA  (EDMILSON)",
     "Responsável": "284860  - Juliana Aparecida Ferreira De Freitas",
     "Arremate e Acabamento": "BOM",
-    "Fazenda": "70408"
+    "Fazenda": "70408",
+    "Unnamed: 18": null
   },
   {
     "ID": "3913074",
@@ -16158,7 +16969,8 @@ const ARREMATE_ACABAMENTO_DATA = [
     "Frente": "261 - FRENTE PRÓPRIA  (EDMILSON)",
     "Responsável": "MABILA HELEN D FIGUEIREDO",
     "Arremate e Acabamento": "BOM",
-    "Fazenda": "70408"
+    "Fazenda": "70408",
+    "Unnamed: 18": null
   },
   {
     "ID": "3912022",
@@ -16178,7 +16990,8 @@ const ARREMATE_ACABAMENTO_DATA = [
     "Frente": "261 - FRENTE PRÓPRIA  (EDMILSON)",
     "Responsável": "REGINALDO DA SILVA GOMES ",
     "Arremate e Acabamento": "BOM",
-    "Fazenda": "70408"
+    "Fazenda": "70408",
+    "Unnamed: 18": null
   },
   {
     "ID": "3911897",
@@ -16198,7 +17011,8 @@ const ARREMATE_ACABAMENTO_DATA = [
     "Frente": "261 - FRENTE PRÓPRIA  (EDMILSON)",
     "Responsável": "284860  - Juliana Aparecida Ferreira De Freitas",
     "Arremate e Acabamento": "BOM",
-    "Fazenda": "70408"
+    "Fazenda": "70408",
+    "Unnamed: 18": null
   },
   {
     "ID": "3911896",
@@ -16218,7 +17032,8 @@ const ARREMATE_ACABAMENTO_DATA = [
     "Frente": "261 - FRENTE PRÓPRIA  (EDMILSON)",
     "Responsável": "284860  - Juliana Aparecida Ferreira De Freitas",
     "Arremate e Acabamento": "BOM",
-    "Fazenda": "70408"
+    "Fazenda": "70408",
+    "Unnamed: 18": null
   },
   {
     "ID": "4037663",
@@ -16238,7 +17053,8 @@ const ARREMATE_ACABAMENTO_DATA = [
     "Frente": "261 - FRENTE PRÓPRIA  (EDMILSON)",
     "Responsável": "REGINALDO DA SILVA GOMES ",
     "Arremate e Acabamento": "BOM",
-    "Fazenda": "50301"
+    "Fazenda": "50301",
+    "Unnamed: 18": null
   },
   {
     "ID": "4037912",
@@ -16258,7 +17074,8 @@ const ARREMATE_ACABAMENTO_DATA = [
     "Frente": "261 - FRENTE PRÓPRIA  (EDMILSON)",
     "Responsável": "284860  - Juliana Aparecida Ferreira De Freitas",
     "Arremate e Acabamento": "BOM",
-    "Fazenda": "50301"
+    "Fazenda": "50301",
+    "Unnamed: 18": null
   },
   {
     "ID": "4037911",
@@ -16278,7 +17095,8 @@ const ARREMATE_ACABAMENTO_DATA = [
     "Frente": "261 - FRENTE PRÓPRIA  (EDMILSON)",
     "Responsável": "284860  - Juliana Aparecida Ferreira De Freitas",
     "Arremate e Acabamento": "BOM",
-    "Fazenda": "50301"
+    "Fazenda": "50301",
+    "Unnamed: 18": null
   },
   {
     "ID": "4050429",
@@ -16298,7 +17116,8 @@ const ARREMATE_ACABAMENTO_DATA = [
     "Frente": "261 - FRENTE PRÓPRIA  (EDMILSON)",
     "Responsável": "EDILIANA CARDOSO DA COSTA",
     "Arremate e Acabamento": "BOM",
-    "Fazenda": "46601"
+    "Fazenda": "46601",
+    "Unnamed: 18": null
   },
   {
     "ID": "4050419",
@@ -16318,7 +17137,8 @@ const ARREMATE_ACABAMENTO_DATA = [
     "Frente": "261 - FRENTE PRÓPRIA  (EDMILSON)",
     "Responsável": "EDILIANA CARDOSO DA COSTA",
     "Arremate e Acabamento": "BOM",
-    "Fazenda": "46601"
+    "Fazenda": "46601",
+    "Unnamed: 18": null
   },
   {
     "ID": "4050418",
@@ -16338,6 +17158,7 @@ const ARREMATE_ACABAMENTO_DATA = [
     "Frente": "261 - FRENTE PRÓPRIA  (EDMILSON)",
     "Responsável": "EDILIANA CARDOSO DA COSTA",
     "Arremate e Acabamento": "BOM",
-    "Fazenda": "46601"
+    "Fazenda": "46601",
+    "Unnamed: 18": null
   }
 ];

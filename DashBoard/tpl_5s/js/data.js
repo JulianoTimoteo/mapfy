@@ -1,5 +1,9 @@
-// Auto-gerado em 21/11/2026 07:33:21
-const TPL_5S_DATA = [
+/**
+ * Dados Consolidados - tpl_5s
+ * Total: 83 registros
+ * Atualizado em: 21/11/2026 07:40
+ */
+window.TPL_5S_DATA = [
   {
     "ID": "3977592",
     "Usuário": "qualidade9@usinapitangueiras.com.br",
@@ -22,9 +26,10 @@ const TPL_5S_DATA = [
     "06 - Os colaboradores estão utilizando os EPIs adequados?": "OK",
     "07 - Extintor está válido e carregado?": "OK",
     "Observação": "Frente 4 ",
-    "Fazenda.1": NaN,
-    "03 - Não há itens faltando/ quebrados ou com sinais de mal uso?": NaN,
-    "05 - Boas condições de organização/ limpeza e conservação dos equipamentos?": NaN
+    "Fazenda.1": null,
+    "03 - Não há itens faltando/ quebrados ou com sinais de mal uso?": null,
+    "05 - Boas condições de organização/ limpeza e conservação dos equipamentos?": null,
+    "Unnamed: 22": null
   },
   {
     "ID": "3974896",
@@ -47,10 +52,11 @@ const TPL_5S_DATA = [
     "05 - Boas condições de organização, limpeza e conservação dos equipamentos?": "OK",
     "06 - Os colaboradores estão utilizando os EPIs adequados?": "OK",
     "07 - Extintor está válido e carregado?": "OK",
-    "Observação": NaN,
-    "Fazenda.1": NaN,
-    "03 - Não há itens faltando/ quebrados ou com sinais de mal uso?": NaN,
-    "05 - Boas condições de organização/ limpeza e conservação dos equipamentos?": NaN
+    "Observação": null,
+    "Fazenda.1": null,
+    "03 - Não há itens faltando/ quebrados ou com sinais de mal uso?": null,
+    "05 - Boas condições de organização/ limpeza e conservação dos equipamentos?": null,
+    "Unnamed: 22": null
   },
   {
     "ID": "3974171",
@@ -74,9 +80,10 @@ const TPL_5S_DATA = [
     "06 - Os colaboradores estão utilizando os EPIs adequados?": "OK",
     "07 - Extintor está válido e carregado?": "OK",
     "Observação": "Tratores 11216 e 11421",
-    "Fazenda.1": NaN,
-    "03 - Não há itens faltando/ quebrados ou com sinais de mal uso?": NaN,
-    "05 - Boas condições de organização/ limpeza e conservação dos equipamentos?": NaN
+    "Fazenda.1": null,
+    "03 - Não há itens faltando/ quebrados ou com sinais de mal uso?": null,
+    "05 - Boas condições de organização/ limpeza e conservação dos equipamentos?": null,
+    "Unnamed: 22": null
   },
   {
     "ID": "3971747",
@@ -100,9 +107,10 @@ const TPL_5S_DATA = [
     "06 - Os colaboradores estão utilizando os EPIs adequados?": "OK",
     "07 - Extintor está válido e carregado?": "OK",
     "Observação": "Frente 2 ",
-    "Fazenda.1": NaN,
-    "03 - Não há itens faltando/ quebrados ou com sinais de mal uso?": NaN,
-    "05 - Boas condições de organização/ limpeza e conservação dos equipamentos?": NaN
+    "Fazenda.1": null,
+    "03 - Não há itens faltando/ quebrados ou com sinais de mal uso?": null,
+    "05 - Boas condições de organização/ limpeza e conservação dos equipamentos?": null,
+    "Unnamed: 22": null
   },
   {
     "ID": "3968541",
@@ -126,9 +134,10 @@ const TPL_5S_DATA = [
     "06 - Os colaboradores estão utilizando os EPIs adequados?": "OK",
     "07 - Extintor está válido e carregado?": "OK",
     "Observação": "Trator 11125 e 11225 ",
-    "Fazenda.1": NaN,
-    "03 - Não há itens faltando/ quebrados ou com sinais de mal uso?": NaN,
-    "05 - Boas condições de organização/ limpeza e conservação dos equipamentos?": NaN
+    "Fazenda.1": null,
+    "03 - Não há itens faltando/ quebrados ou com sinais de mal uso?": null,
+    "05 - Boas condições de organização/ limpeza e conservação dos equipamentos?": null,
+    "Unnamed: 22": null
   },
   {
     "ID": "3960748",
@@ -151,10 +160,11 @@ const TPL_5S_DATA = [
     "05 - Boas condições de organização, limpeza e conservação dos equipamentos?": "OK",
     "06 - Os colaboradores estão utilizando os EPIs adequados?": "OK",
     "07 - Extintor está válido e carregado?": "OK",
-    "Observação": NaN,
-    "Fazenda.1": NaN,
-    "03 - Não há itens faltando/ quebrados ou com sinais de mal uso?": NaN,
-    "05 - Boas condições de organização/ limpeza e conservação dos equipamentos?": NaN
+    "Observação": null,
+    "Fazenda.1": null,
+    "03 - Não há itens faltando/ quebrados ou com sinais de mal uso?": null,
+    "05 - Boas condições de organização/ limpeza e conservação dos equipamentos?": null,
+    "Unnamed: 22": null
   },
   {
     "ID": "3960692",
@@ -178,9 +188,10 @@ const TPL_5S_DATA = [
     "06 - Os colaboradores estão utilizando os EPIs adequados?": "OK",
     "07 - Extintor está válido e carregado?": "OK",
     "Observação": "Frente motobomba 34 e 435",
-    "Fazenda.1": NaN,
-    "03 - Não há itens faltando/ quebrados ou com sinais de mal uso?": NaN,
-    "05 - Boas condições de organização/ limpeza e conservação dos equipamentos?": NaN
+    "Fazenda.1": null,
+    "03 - Não há itens faltando/ quebrados ou com sinais de mal uso?": null,
+    "05 - Boas condições de organização/ limpeza e conservação dos equipamentos?": null,
+    "Unnamed: 22": null
   },
   {
     "ID": "3960623",
@@ -204,9 +215,10 @@ const TPL_5S_DATA = [
     "06 - Os colaboradores estão utilizando os EPIs adequados?": "OK",
     "07 - Extintor está válido e carregado?": "OK",
     "Observação": "Frente motobomba 91",
-    "Fazenda.1": NaN,
-    "03 - Não há itens faltando/ quebrados ou com sinais de mal uso?": NaN,
-    "05 - Boas condições de organização/ limpeza e conservação dos equipamentos?": NaN
+    "Fazenda.1": null,
+    "03 - Não há itens faltando/ quebrados ou com sinais de mal uso?": null,
+    "05 - Boas condições de organização/ limpeza e conservação dos equipamentos?": null,
+    "Unnamed: 22": null
   },
   {
     "ID": "3917764",
@@ -230,9 +242,10 @@ const TPL_5S_DATA = [
     "06 - Os colaboradores estão utilizando os EPIs adequados?": "OK",
     "07 - Extintor está válido e carregado?": "NOK",
     "Observação": "Trator 11225, operação 1031.\n\nPlano de ação:\nsuporte do extintor regularizado.",
-    "Fazenda.1": NaN,
-    "03 - Não há itens faltando/ quebrados ou com sinais de mal uso?": NaN,
-    "05 - Boas condições de organização/ limpeza e conservação dos equipamentos?": NaN
+    "Fazenda.1": null,
+    "03 - Não há itens faltando/ quebrados ou com sinais de mal uso?": null,
+    "05 - Boas condições de organização/ limpeza e conservação dos equipamentos?": null,
+    "Unnamed: 22": null
   },
   {
     "ID": "3957832",
@@ -255,10 +268,11 @@ const TPL_5S_DATA = [
     "05 - Boas condições de organização, limpeza e conservação dos equipamentos?": "OK",
     "06 - Os colaboradores estão utilizando os EPIs adequados?": "OK",
     "07 - Extintor está válido e carregado?": "NOK",
-    "Observação": NaN,
-    "Fazenda.1": NaN,
-    "03 - Não há itens faltando/ quebrados ou com sinais de mal uso?": NaN,
-    "05 - Boas condições de organização/ limpeza e conservação dos equipamentos?": NaN
+    "Observação": null,
+    "Fazenda.1": null,
+    "03 - Não há itens faltando/ quebrados ou com sinais de mal uso?": null,
+    "05 - Boas condições de organização/ limpeza e conservação dos equipamentos?": null,
+    "Unnamed: 22": null
   },
   {
     "ID": "3899245",
@@ -282,9 +296,10 @@ const TPL_5S_DATA = [
     "06 - Os colaboradores estão utilizando os EPIs adequados?": "OK",
     "07 - Extintor está válido e carregado?": "NOK",
     "Observação": "Plano de ação:\nExtintores instalados",
-    "Fazenda.1": NaN,
-    "03 - Não há itens faltando/ quebrados ou com sinais de mal uso?": NaN,
-    "05 - Boas condições de organização/ limpeza e conservação dos equipamentos?": NaN
+    "Fazenda.1": null,
+    "03 - Não há itens faltando/ quebrados ou com sinais de mal uso?": null,
+    "05 - Boas condições de organização/ limpeza e conservação dos equipamentos?": null,
+    "Unnamed: 22": null
   },
   {
     "ID": "3946882",
@@ -308,9 +323,10 @@ const TPL_5S_DATA = [
     "06 - Os colaboradores estão utilizando os EPIs adequados?": "OK",
     "07 - Extintor está válido e carregado?": "NOK",
     "Observação": "Plano de ação:\nárea de vivencia está emprestada para a colheita.\nExtintores ok",
-    "Fazenda.1": NaN,
-    "03 - Não há itens faltando/ quebrados ou com sinais de mal uso?": NaN,
-    "05 - Boas condições de organização/ limpeza e conservação dos equipamentos?": NaN
+    "Fazenda.1": null,
+    "03 - Não há itens faltando/ quebrados ou com sinais de mal uso?": null,
+    "05 - Boas condições de organização/ limpeza e conservação dos equipamentos?": null,
+    "Unnamed: 22": null
   },
   {
     "ID": "3953193",
@@ -333,10 +349,11 @@ const TPL_5S_DATA = [
     "05 - Boas condições de organização, limpeza e conservação dos equipamentos?": "OK",
     "06 - Os colaboradores estão utilizando os EPIs adequados?": "OK",
     "07 - Extintor está válido e carregado?": "NOK",
-    "Observação": NaN,
-    "Fazenda.1": NaN,
-    "03 - Não há itens faltando/ quebrados ou com sinais de mal uso?": NaN,
-    "05 - Boas condições de organização/ limpeza e conservação dos equipamentos?": NaN
+    "Observação": null,
+    "Fazenda.1": null,
+    "03 - Não há itens faltando/ quebrados ou com sinais de mal uso?": null,
+    "05 - Boas condições de organização/ limpeza e conservação dos equipamentos?": null,
+    "Unnamed: 22": null
   },
   {
     "ID": "3953192",
@@ -359,10 +376,11 @@ const TPL_5S_DATA = [
     "05 - Boas condições de organização, limpeza e conservação dos equipamentos?": "OK",
     "06 - Os colaboradores estão utilizando os EPIs adequados?": "OK",
     "07 - Extintor está válido e carregado?": "OK",
-    "Observação": NaN,
-    "Fazenda.1": NaN,
-    "03 - Não há itens faltando/ quebrados ou com sinais de mal uso?": NaN,
-    "05 - Boas condições de organização/ limpeza e conservação dos equipamentos?": NaN
+    "Observação": null,
+    "Fazenda.1": null,
+    "03 - Não há itens faltando/ quebrados ou com sinais de mal uso?": null,
+    "05 - Boas condições de organização/ limpeza e conservação dos equipamentos?": null,
+    "Unnamed: 22": null
   },
   {
     "ID": "3949631",
@@ -386,9 +404,10 @@ const TPL_5S_DATA = [
     "06 - Os colaboradores estão utilizando os EPIs adequados?": "OK",
     "07 - Extintor está válido e carregado?": "OK",
     "Observação": "Frente 2",
-    "Fazenda.1": NaN,
-    "03 - Não há itens faltando/ quebrados ou com sinais de mal uso?": NaN,
-    "05 - Boas condições de organização/ limpeza e conservação dos equipamentos?": NaN
+    "Fazenda.1": null,
+    "03 - Não há itens faltando/ quebrados ou com sinais de mal uso?": null,
+    "05 - Boas condições de organização/ limpeza e conservação dos equipamentos?": null,
+    "Unnamed: 22": null
   },
   {
     "ID": "3948830",
@@ -412,9 +431,10 @@ const TPL_5S_DATA = [
     "06 - Os colaboradores estão utilizando os EPIs adequados?": "OK",
     "07 - Extintor está válido e carregado?": "OK",
     "Observação": "Equipamento 11125",
-    "Fazenda.1": NaN,
-    "03 - Não há itens faltando/ quebrados ou com sinais de mal uso?": NaN,
-    "05 - Boas condições de organização/ limpeza e conservação dos equipamentos?": NaN
+    "Fazenda.1": null,
+    "03 - Não há itens faltando/ quebrados ou com sinais de mal uso?": null,
+    "05 - Boas condições de organização/ limpeza e conservação dos equipamentos?": null,
+    "Unnamed: 22": null
   },
   {
     "ID": "3948828",
@@ -438,9 +458,10 @@ const TPL_5S_DATA = [
     "06 - Os colaboradores estão utilizando os EPIs adequados?": "OK",
     "07 - Extintor está válido e carregado?": "OK",
     "Observação": "Equipamento 70122",
-    "Fazenda.1": NaN,
-    "03 - Não há itens faltando/ quebrados ou com sinais de mal uso?": NaN,
-    "05 - Boas condições de organização/ limpeza e conservação dos equipamentos?": NaN
+    "Fazenda.1": null,
+    "03 - Não há itens faltando/ quebrados ou com sinais de mal uso?": null,
+    "05 - Boas condições de organização/ limpeza e conservação dos equipamentos?": null,
+    "Unnamed: 22": null
   },
   {
     "ID": "3941310",
@@ -464,9 +485,10 @@ const TPL_5S_DATA = [
     "06 - Os colaboradores estão utilizando os EPIs adequados?": "OK",
     "07 - Extintor está válido e carregado?": "NOK",
     "Observação": "Frente germek 20123\n\nPlano de ação:\nTrava do suporte do extintor foi instalada (foto em anexo)",
-    "Fazenda.1": NaN,
-    "03 - Não há itens faltando/ quebrados ou com sinais de mal uso?": NaN,
-    "05 - Boas condições de organização/ limpeza e conservação dos equipamentos?": NaN
+    "Fazenda.1": null,
+    "03 - Não há itens faltando/ quebrados ou com sinais de mal uso?": null,
+    "05 - Boas condições de organização/ limpeza e conservação dos equipamentos?": null,
+    "Unnamed: 22": null
   },
   {
     "ID": "3945560",
@@ -490,9 +512,10 @@ const TPL_5S_DATA = [
     "06 - Os colaboradores estão utilizando os EPIs adequados?": "OK",
     "07 - Extintor está válido e carregado?": "OK",
     "Observação": "Frente 1 ",
-    "Fazenda.1": NaN,
-    "03 - Não há itens faltando/ quebrados ou com sinais de mal uso?": NaN,
-    "05 - Boas condições de organização/ limpeza e conservação dos equipamentos?": NaN
+    "Fazenda.1": null,
+    "03 - Não há itens faltando/ quebrados ou com sinais de mal uso?": null,
+    "05 - Boas condições de organização/ limpeza e conservação dos equipamentos?": null,
+    "Unnamed: 22": null
   },
   {
     "ID": "3941307",
@@ -516,9 +539,10 @@ const TPL_5S_DATA = [
     "06 - Os colaboradores estão utilizando os EPIs adequados?": "OK",
     "07 - Extintor está válido e carregado?": "OK",
     "Observação": "Frente motobomba 91",
-    "Fazenda.1": NaN,
-    "03 - Não há itens faltando/ quebrados ou com sinais de mal uso?": NaN,
-    "05 - Boas condições de organização/ limpeza e conservação dos equipamentos?": NaN
+    "Fazenda.1": null,
+    "03 - Não há itens faltando/ quebrados ou com sinais de mal uso?": null,
+    "05 - Boas condições de organização/ limpeza e conservação dos equipamentos?": null,
+    "Unnamed: 22": null
   },
   {
     "ID": "3941306",
@@ -542,9 +566,10 @@ const TPL_5S_DATA = [
     "06 - Os colaboradores estão utilizando os EPIs adequados?": "OK",
     "07 - Extintor está válido e carregado?": "OK",
     "Observação": "Frente motobomba 34 e 435",
-    "Fazenda.1": NaN,
-    "03 - Não há itens faltando/ quebrados ou com sinais de mal uso?": NaN,
-    "05 - Boas condições de organização/ limpeza e conservação dos equipamentos?": NaN
+    "Fazenda.1": null,
+    "03 - Não há itens faltando/ quebrados ou com sinais de mal uso?": null,
+    "05 - Boas condições de organização/ limpeza e conservação dos equipamentos?": null,
+    "Unnamed: 22": null
   },
   {
     "ID": "3935465",
@@ -568,9 +593,10 @@ const TPL_5S_DATA = [
     "06 - Os colaboradores estão utilizando os EPIs adequados?": "OK",
     "07 - Extintor está válido e carregado?": "OK",
     "Observação": "Trator 11225",
-    "Fazenda.1": NaN,
-    "03 - Não há itens faltando/ quebrados ou com sinais de mal uso?": NaN,
-    "05 - Boas condições de organização/ limpeza e conservação dos equipamentos?": NaN
+    "Fazenda.1": null,
+    "03 - Não há itens faltando/ quebrados ou com sinais de mal uso?": null,
+    "05 - Boas condições de organização/ limpeza e conservação dos equipamentos?": null,
+    "Unnamed: 22": null
   },
   {
     "ID": "3925232",
@@ -594,9 +620,10 @@ const TPL_5S_DATA = [
     "06 - Os colaboradores estão utilizando os EPIs adequados?": "OK",
     "07 - Extintor está válido e carregado?": "OK",
     "Observação": "Plano de ação:\nrealizada limpeza e organização",
-    "Fazenda.1": NaN,
-    "03 - Não há itens faltando/ quebrados ou com sinais de mal uso?": NaN,
-    "05 - Boas condições de organização/ limpeza e conservação dos equipamentos?": NaN
+    "Fazenda.1": null,
+    "03 - Não há itens faltando/ quebrados ou com sinais de mal uso?": null,
+    "05 - Boas condições de organização/ limpeza e conservação dos equipamentos?": null,
+    "Unnamed: 22": null
   },
   {
     "ID": "3929110",
@@ -620,9 +647,10 @@ const TPL_5S_DATA = [
     "06 - Os colaboradores estão utilizando os EPIs adequados?": "OK",
     "07 - Extintor está válido e carregado?": "OK",
     "Observação": "Frente 2 \n\nPlano de ação:\nregularizados os itens não conformes",
-    "Fazenda.1": NaN,
-    "03 - Não há itens faltando/ quebrados ou com sinais de mal uso?": NaN,
-    "05 - Boas condições de organização/ limpeza e conservação dos equipamentos?": NaN
+    "Fazenda.1": null,
+    "03 - Não há itens faltando/ quebrados ou com sinais de mal uso?": null,
+    "05 - Boas condições de organização/ limpeza e conservação dos equipamentos?": null,
+    "Unnamed: 22": null
   },
   {
     "ID": "3925073",
@@ -646,9 +674,10 @@ const TPL_5S_DATA = [
     "06 - Os colaboradores estão utilizando os EPIs adequados?": "OK",
     "07 - Extintor está válido e carregado?": "OK",
     "Observação": "Frente motobomba 34 e 435\n\nplano de ação:\nreabastecimento de copos",
-    "Fazenda.1": NaN,
-    "03 - Não há itens faltando/ quebrados ou com sinais de mal uso?": NaN,
-    "05 - Boas condições de organização/ limpeza e conservação dos equipamentos?": NaN
+    "Fazenda.1": null,
+    "03 - Não há itens faltando/ quebrados ou com sinais de mal uso?": null,
+    "05 - Boas condições de organização/ limpeza e conservação dos equipamentos?": null,
+    "Unnamed: 22": null
   },
   {
     "ID": "3925257",
@@ -672,9 +701,10 @@ const TPL_5S_DATA = [
     "06 - Os colaboradores estão utilizando os EPIs adequados?": "OK",
     "07 - Extintor está válido e carregado?": "OK",
     "Observação": "Plano de ação:\nReabastecimento de agua",
-    "Fazenda.1": NaN,
-    "03 - Não há itens faltando/ quebrados ou com sinais de mal uso?": NaN,
-    "05 - Boas condições de organização/ limpeza e conservação dos equipamentos?": NaN
+    "Fazenda.1": null,
+    "03 - Não há itens faltando/ quebrados ou com sinais de mal uso?": null,
+    "05 - Boas condições de organização/ limpeza e conservação dos equipamentos?": null,
+    "Unnamed: 22": null
   },
   {
     "ID": "3927874",
@@ -698,9 +728,10 @@ const TPL_5S_DATA = [
     "06 - Os colaboradores estão utilizando os EPIs adequados?": "OK",
     "07 - Extintor está válido e carregado?": "OK",
     "Observação": "Equipamento 70121",
-    "Fazenda.1": NaN,
-    "03 - Não há itens faltando/ quebrados ou com sinais de mal uso?": NaN,
-    "05 - Boas condições de organização/ limpeza e conservação dos equipamentos?": NaN
+    "Fazenda.1": null,
+    "03 - Não há itens faltando/ quebrados ou com sinais de mal uso?": null,
+    "05 - Boas condições de organização/ limpeza e conservação dos equipamentos?": null,
+    "Unnamed: 22": null
   },
   {
     "ID": "4041080",
@@ -718,15 +749,16 @@ const TPL_5S_DATA = [
     "Responsável Vistoria": "REGINALDO DA SILVA GOMES ",
     "Operação": "1071-APLICAÇÃO MISTA CORREÇÃO SOLO",
     "01-Área de vivência está em boas condições de organização e limpeza?": "N / A",
-    "03 - Não há itens faltando, quebrados ou com sinais de mal uso?": NaN,
+    "03 - Não há itens faltando, quebrados ou com sinais de mal uso?": null,
     "04 - A sinalização está adequada e o acesso ao local é seguro?": "OK",
-    "05 - Boas condições de organização, limpeza e conservação dos equipamentos?": NaN,
+    "05 - Boas condições de organização, limpeza e conservação dos equipamentos?": null,
     "06 - Os colaboradores estão utilizando os EPIs adequados?": "OK",
     "07 - Extintor está válido e carregado?": "OK",
-    "Observação": NaN,
+    "Observação": null,
     "Fazenda.1": "39901",
     "03 - Não há itens faltando/ quebrados ou com sinais de mal uso?": "OK",
-    "05 - Boas condições de organização/ limpeza e conservação dos equipamentos?": "OK"
+    "05 - Boas condições de organização/ limpeza e conservação dos equipamentos?": "OK",
+    "Unnamed: 22": null
   },
   {
     "ID": "4037842",
@@ -744,15 +776,16 @@ const TPL_5S_DATA = [
     "Responsável Vistoria": "REGINALDO DA SILVA GOMES ",
     "Operação": "1068-APLIC. DE VINHAÇA LOCALIZADA",
     "01-Área de vivência está em boas condições de organização e limpeza?": "OK",
-    "03 - Não há itens faltando, quebrados ou com sinais de mal uso?": NaN,
+    "03 - Não há itens faltando, quebrados ou com sinais de mal uso?": null,
     "04 - A sinalização está adequada e o acesso ao local é seguro?": "OK",
-    "05 - Boas condições de organização, limpeza e conservação dos equipamentos?": NaN,
+    "05 - Boas condições de organização, limpeza e conservação dos equipamentos?": null,
     "06 - Os colaboradores estão utilizando os EPIs adequados?": "OK",
     "07 - Extintor está válido e carregado?": "OK",
     "Observação": "Frente 1 ",
     "Fazenda.1": "113701",
     "03 - Não há itens faltando/ quebrados ou com sinais de mal uso?": "OK",
-    "05 - Boas condições de organização/ limpeza e conservação dos equipamentos?": "OK"
+    "05 - Boas condições de organização/ limpeza e conservação dos equipamentos?": "OK",
+    "Unnamed: 22": null
   },
   {
     "ID": "4037828",
@@ -770,15 +803,16 @@ const TPL_5S_DATA = [
     "Responsável Vistoria": "REGINALDO DA SILVA GOMES ",
     "Operação": "1105-APLC HERBICIDA EM CARREADOR",
     "01-Área de vivência está em boas condições de organização e limpeza?": "N / A",
-    "03 - Não há itens faltando, quebrados ou com sinais de mal uso?": NaN,
+    "03 - Não há itens faltando, quebrados ou com sinais de mal uso?": null,
     "04 - A sinalização está adequada e o acesso ao local é seguro?": "OK",
-    "05 - Boas condições de organização, limpeza e conservação dos equipamentos?": NaN,
+    "05 - Boas condições de organização, limpeza e conservação dos equipamentos?": null,
     "06 - Os colaboradores estão utilizando os EPIs adequados?": "OK",
     "07 - Extintor está válido e carregado?": "OK",
     "Observação": "Trator 11225",
     "Fazenda.1": "33101",
     "03 - Não há itens faltando/ quebrados ou com sinais de mal uso?": "OK",
-    "05 - Boas condições de organização/ limpeza e conservação dos equipamentos?": "OK"
+    "05 - Boas condições de organização/ limpeza e conservação dos equipamentos?": "OK",
+    "Unnamed: 22": null
   },
   {
     "ID": "4035745",
@@ -796,15 +830,16 @@ const TPL_5S_DATA = [
     "Responsável Vistoria": "REGINALDO DA SILVA GOMES ",
     "Operação": "1068-APLIC. DE VINHAÇA LOCALIZADA",
     "01-Área de vivência está em boas condições de organização e limpeza?": "OK",
-    "03 - Não há itens faltando, quebrados ou com sinais de mal uso?": NaN,
+    "03 - Não há itens faltando, quebrados ou com sinais de mal uso?": null,
     "04 - A sinalização está adequada e o acesso ao local é seguro?": "NOK",
-    "05 - Boas condições de organização, limpeza e conservação dos equipamentos?": NaN,
+    "05 - Boas condições de organização, limpeza e conservação dos equipamentos?": null,
     "06 - Os colaboradores estão utilizando os EPIs adequados?": "OK",
     "07 - Extintor está válido e carregado?": "OK",
     "Observação": "Frente 3 ",
     "Fazenda.1": "222902",
     "03 - Não há itens faltando/ quebrados ou com sinais de mal uso?": "OK",
-    "05 - Boas condições de organização/ limpeza e conservação dos equipamentos?": "OK"
+    "05 - Boas condições de organização/ limpeza e conservação dos equipamentos?": "OK",
+    "Unnamed: 22": null
   },
   {
     "ID": "4035170",
@@ -822,15 +857,16 @@ const TPL_5S_DATA = [
     "Responsável Vistoria": "REGINALDO DA SILVA GOMES ",
     "Operação": "1107 - Aplicação Via Drench",
     "01-Área de vivência está em boas condições de organização e limpeza?": "N / A",
-    "03 - Não há itens faltando, quebrados ou com sinais de mal uso?": NaN,
+    "03 - Não há itens faltando, quebrados ou com sinais de mal uso?": null,
     "04 - A sinalização está adequada e o acesso ao local é seguro?": "OK",
-    "05 - Boas condições de organização, limpeza e conservação dos equipamentos?": NaN,
+    "05 - Boas condições de organização, limpeza e conservação dos equipamentos?": null,
     "06 - Os colaboradores estão utilizando os EPIs adequados?": "OK",
     "07 - Extintor está válido e carregado?": "OK",
     "Observação": "Equipamento 70121",
     "Fazenda.1": "47003",
     "03 - Não há itens faltando/ quebrados ou com sinais de mal uso?": "OK",
-    "05 - Boas condições de organização/ limpeza e conservação dos equipamentos?": "OK"
+    "05 - Boas condições de organização/ limpeza e conservação dos equipamentos?": "OK",
+    "Unnamed: 22": null
   },
   {
     "ID": "4035131",
@@ -848,15 +884,16 @@ const TPL_5S_DATA = [
     "Responsável Vistoria": "REGINALDO DA SILVA GOMES ",
     "Operação": "1079-APLICAÇÃO DESSECAÇÃO",
     "01-Área de vivência está em boas condições de organização e limpeza?": "N / A",
-    "03 - Não há itens faltando, quebrados ou com sinais de mal uso?": NaN,
+    "03 - Não há itens faltando, quebrados ou com sinais de mal uso?": null,
     "04 - A sinalização está adequada e o acesso ao local é seguro?": "OK",
-    "05 - Boas condições de organização, limpeza e conservação dos equipamentos?": NaN,
+    "05 - Boas condições de organização, limpeza e conservação dos equipamentos?": null,
     "06 - Os colaboradores estão utilizando os EPIs adequados?": "OK",
     "07 - Extintor está válido e carregado?": "OK",
     "Observação": "Trator 11125 ",
     "Fazenda.1": "53501",
     "03 - Não há itens faltando/ quebrados ou com sinais de mal uso?": "OK",
-    "05 - Boas condições de organização/ limpeza e conservação dos equipamentos?": "OK"
+    "05 - Boas condições de organização/ limpeza e conservação dos equipamentos?": "OK",
+    "Unnamed: 22": null
   },
   {
     "ID": "4033299",
@@ -874,15 +911,16 @@ const TPL_5S_DATA = [
     "Responsável Vistoria": "REGINALDO DA SILVA GOMES ",
     "Operação": "1031-1ª APLICAÇÃO DE HERBICIDA",
     "01-Área de vivência está em boas condições de organização e limpeza?": "N / A",
-    "03 - Não há itens faltando, quebrados ou com sinais de mal uso?": NaN,
+    "03 - Não há itens faltando, quebrados ou com sinais de mal uso?": null,
     "04 - A sinalização está adequada e o acesso ao local é seguro?": "OK",
-    "05 - Boas condições de organização, limpeza e conservação dos equipamentos?": NaN,
+    "05 - Boas condições de organização, limpeza e conservação dos equipamentos?": null,
     "06 - Os colaboradores estão utilizando os EPIs adequados?": "OK",
     "07 - Extintor está válido e carregado?": "OK",
     "Observação": "Equipamento 70122\n\nBanco do motorista do caminhão 31817 rasgado. ",
     "Fazenda.1": "31401",
     "03 - Não há itens faltando/ quebrados ou com sinais de mal uso?": "OK",
-    "05 - Boas condições de organização/ limpeza e conservação dos equipamentos?": "OK"
+    "05 - Boas condições de organização/ limpeza e conservação dos equipamentos?": "OK",
+    "Unnamed: 22": null
   },
   {
     "ID": "4031582",
@@ -900,15 +938,16 @@ const TPL_5S_DATA = [
     "Responsável Vistoria": "REGINALDO DA SILVA GOMES ",
     "Operação": "1092-APLIC. VINHAÇA C/ FERTILIZANTE",
     "01-Área de vivência está em boas condições de organização e limpeza?": "OK",
-    "03 - Não há itens faltando, quebrados ou com sinais de mal uso?": NaN,
+    "03 - Não há itens faltando, quebrados ou com sinais de mal uso?": null,
     "04 - A sinalização está adequada e o acesso ao local é seguro?": "OK",
-    "05 - Boas condições de organização, limpeza e conservação dos equipamentos?": NaN,
+    "05 - Boas condições de organização, limpeza e conservação dos equipamentos?": null,
     "06 - Os colaboradores estão utilizando os EPIs adequados?": "OK",
     "07 - Extintor está válido e carregado?": "OK",
     "Observação": "Frente 3 ",
     "Fazenda.1": "39003",
     "03 - Não há itens faltando/ quebrados ou com sinais de mal uso?": "OK",
-    "05 - Boas condições de organização/ limpeza e conservação dos equipamentos?": "OK"
+    "05 - Boas condições de organização/ limpeza e conservação dos equipamentos?": "OK",
+    "Unnamed: 22": null
   },
   {
     "ID": "4031577",
@@ -926,15 +965,16 @@ const TPL_5S_DATA = [
     "Responsável Vistoria": "REGINALDO DA SILVA GOMES ",
     "Operação": "1107 - Aplicação Via Drench",
     "01-Área de vivência está em boas condições de organização e limpeza?": "N / A",
-    "03 - Não há itens faltando, quebrados ou com sinais de mal uso?": NaN,
+    "03 - Não há itens faltando, quebrados ou com sinais de mal uso?": null,
     "04 - A sinalização está adequada e o acesso ao local é seguro?": "OK",
-    "05 - Boas condições de organização, limpeza e conservação dos equipamentos?": NaN,
+    "05 - Boas condições de organização, limpeza e conservação dos equipamentos?": null,
     "06 - Os colaboradores estão utilizando os EPIs adequados?": "OK",
     "07 - Extintor está válido e carregado?": "OK",
-    "Observação": NaN,
+    "Observação": null,
     "Fazenda.1": "42801",
     "03 - Não há itens faltando/ quebrados ou com sinais de mal uso?": "OK",
-    "05 - Boas condições de organização/ limpeza e conservação dos equipamentos?": "OK"
+    "05 - Boas condições de organização/ limpeza e conservação dos equipamentos?": "OK",
+    "Unnamed: 22": null
   },
   {
     "ID": "4031575",
@@ -952,15 +992,16 @@ const TPL_5S_DATA = [
     "Responsável Vistoria": "REGINALDO DA SILVA GOMES ",
     "Operação": "1068-APLIC. DE VINHAÇA LOCALIZADA",
     "01-Área de vivência está em boas condições de organização e limpeza?": "OK",
-    "03 - Não há itens faltando, quebrados ou com sinais de mal uso?": NaN,
+    "03 - Não há itens faltando, quebrados ou com sinais de mal uso?": null,
     "04 - A sinalização está adequada e o acesso ao local é seguro?": "OK",
-    "05 - Boas condições de organização, limpeza e conservação dos equipamentos?": NaN,
+    "05 - Boas condições de organização, limpeza e conservação dos equipamentos?": null,
     "06 - Os colaboradores estão utilizando os EPIs adequados?": "OK",
     "07 - Extintor está válido e carregado?": "OK",
     "Observação": "Frente 4 ",
     "Fazenda.1": "255801",
     "03 - Não há itens faltando/ quebrados ou com sinais de mal uso?": "NOK",
-    "05 - Boas condições de organização/ limpeza e conservação dos equipamentos?": "OK"
+    "05 - Boas condições de organização/ limpeza e conservação dos equipamentos?": "OK",
+    "Unnamed: 22": null
   },
   {
     "ID": "4028849",
@@ -978,15 +1019,16 @@ const TPL_5S_DATA = [
     "Responsável Vistoria": "REGINALDO DA SILVA GOMES ",
     "Operação": "1014-GRADAGEM INTERMEDIÁRIA",
     "01-Área de vivência está em boas condições de organização e limpeza?": "N / A",
-    "03 - Não há itens faltando, quebrados ou com sinais de mal uso?": NaN,
+    "03 - Não há itens faltando, quebrados ou com sinais de mal uso?": null,
     "04 - A sinalização está adequada e o acesso ao local é seguro?": "OK",
-    "05 - Boas condições de organização, limpeza e conservação dos equipamentos?": NaN,
+    "05 - Boas condições de organização, limpeza e conservação dos equipamentos?": null,
     "06 - Os colaboradores estão utilizando os EPIs adequados?": "OK",
     "07 - Extintor está válido e carregado?": "OK",
     "Observação": "Trator 11121 ",
     "Fazenda.1": "151901",
     "03 - Não há itens faltando/ quebrados ou com sinais de mal uso?": "OK",
-    "05 - Boas condições de organização/ limpeza e conservação dos equipamentos?": "OK"
+    "05 - Boas condições de organização/ limpeza e conservação dos equipamentos?": "OK",
+    "Unnamed: 22": null
   },
   {
     "ID": "4028747",
@@ -1004,15 +1046,16 @@ const TPL_5S_DATA = [
     "Responsável Vistoria": "REGINALDO DA SILVA GOMES ",
     "Operação": "1092-APLIC. VINHAÇA C/ FERTILIZANTE",
     "01-Área de vivência está em boas condições de organização e limpeza?": "OK",
-    "03 - Não há itens faltando, quebrados ou com sinais de mal uso?": NaN,
+    "03 - Não há itens faltando, quebrados ou com sinais de mal uso?": null,
     "04 - A sinalização está adequada e o acesso ao local é seguro?": "NOK",
-    "05 - Boas condições de organização, limpeza e conservação dos equipamentos?": NaN,
+    "05 - Boas condições de organização, limpeza e conservação dos equipamentos?": null,
     "06 - Os colaboradores estão utilizando os EPIs adequados?": "OK",
     "07 - Extintor está válido e carregado?": "OK",
     "Observação": "Frente 2 ",
     "Fazenda.1": "32101",
     "03 - Não há itens faltando/ quebrados ou com sinais de mal uso?": "NOK",
-    "05 - Boas condições de organização/ limpeza e conservação dos equipamentos?": "OK"
+    "05 - Boas condições de organização/ limpeza e conservação dos equipamentos?": "OK",
+    "Unnamed: 22": null
   },
   {
     "ID": "4026437",
@@ -1030,15 +1073,16 @@ const TPL_5S_DATA = [
     "Responsável Vistoria": "REGINALDO DA SILVA GOMES ",
     "Operação": "1036-APLICAÇÃO DE VINHAÇA VIA CANAL",
     "01-Área de vivência está em boas condições de organização e limpeza?": "OK",
-    "03 - Não há itens faltando, quebrados ou com sinais de mal uso?": NaN,
+    "03 - Não há itens faltando, quebrados ou com sinais de mal uso?": null,
     "04 - A sinalização está adequada e o acesso ao local é seguro?": "OK",
-    "05 - Boas condições de organização, limpeza e conservação dos equipamentos?": NaN,
+    "05 - Boas condições de organização, limpeza e conservação dos equipamentos?": null,
     "06 - Os colaboradores estão utilizando os EPIs adequados?": "OK",
     "07 - Extintor está válido e carregado?": "OK",
-    "Observação": NaN,
+    "Observação": null,
     "Fazenda.1": "131401",
     "03 - Não há itens faltando/ quebrados ou com sinais de mal uso?": "NOK",
-    "05 - Boas condições de organização/ limpeza e conservação dos equipamentos?": "OK"
+    "05 - Boas condições de organização/ limpeza e conservação dos equipamentos?": "OK",
+    "Unnamed: 22": null
   },
   {
     "ID": "4026067",
@@ -1056,15 +1100,16 @@ const TPL_5S_DATA = [
     "Responsável Vistoria": "REGINALDO DA SILVA GOMES ",
     "Operação": "1036-APLICAÇÃO DE VINHAÇA VIA CANAL",
     "01-Área de vivência está em boas condições de organização e limpeza?": "OK",
-    "03 - Não há itens faltando, quebrados ou com sinais de mal uso?": NaN,
+    "03 - Não há itens faltando, quebrados ou com sinais de mal uso?": null,
     "04 - A sinalização está adequada e o acesso ao local é seguro?": "NOK",
-    "05 - Boas condições de organização, limpeza e conservação dos equipamentos?": NaN,
+    "05 - Boas condições de organização, limpeza e conservação dos equipamentos?": null,
     "06 - Os colaboradores estão utilizando os EPIs adequados?": "OK",
     "07 - Extintor está válido e carregado?": "OK",
     "Observação": "Frente motobomba 91",
     "Fazenda.1": "137802",
     "03 - Não há itens faltando/ quebrados ou com sinais de mal uso?": "NOK",
-    "05 - Boas condições de organização/ limpeza e conservação dos equipamentos?": "OK"
+    "05 - Boas condições de organização/ limpeza e conservação dos equipamentos?": "OK",
+    "Unnamed: 22": null
   },
   {
     "ID": "4013408",
@@ -1082,15 +1127,16 @@ const TPL_5S_DATA = [
     "Responsável Vistoria": "REGINALDO DA SILVA GOMES ",
     "Operação": "1092-APLIC. VINHAÇA C/ FERTILIZANTE",
     "01-Área de vivência está em boas condições de organização e limpeza?": "OK",
-    "03 - Não há itens faltando, quebrados ou com sinais de mal uso?": NaN,
+    "03 - Não há itens faltando, quebrados ou com sinais de mal uso?": null,
     "04 - A sinalização está adequada e o acesso ao local é seguro?": "OK",
-    "05 - Boas condições de organização, limpeza e conservação dos equipamentos?": NaN,
+    "05 - Boas condições de organização, limpeza e conservação dos equipamentos?": null,
     "06 - Os colaboradores estão utilizando os EPIs adequados?": "OK",
     "07 - Extintor está válido e carregado?": "OK",
     "Observação": "Frente 3",
     "Fazenda.1": "31401",
     "03 - Não há itens faltando/ quebrados ou com sinais de mal uso?": "OK",
-    "05 - Boas condições de organização/ limpeza e conservação dos equipamentos?": "OK"
+    "05 - Boas condições de organização/ limpeza e conservação dos equipamentos?": "OK",
+    "Unnamed: 22": null
   },
   {
     "ID": "4012946",
@@ -1108,15 +1154,16 @@ const TPL_5S_DATA = [
     "Responsável Vistoria": "REGINALDO DA SILVA GOMES ",
     "Operação": "1102-2ªAPLICAÇÃO VINHAÇA LOCALIZADA",
     "01-Área de vivência está em boas condições de organização e limpeza?": "OK",
-    "03 - Não há itens faltando, quebrados ou com sinais de mal uso?": NaN,
+    "03 - Não há itens faltando, quebrados ou com sinais de mal uso?": null,
     "04 - A sinalização está adequada e o acesso ao local é seguro?": "NOK",
-    "05 - Boas condições de organização, limpeza e conservação dos equipamentos?": NaN,
+    "05 - Boas condições de organização, limpeza e conservação dos equipamentos?": null,
     "06 - Os colaboradores estão utilizando os EPIs adequados?": "OK",
     "07 - Extintor está válido e carregado?": "OK",
     "Observação": "Frente 4 ",
     "Fazenda.1": "71201",
     "03 - Não há itens faltando/ quebrados ou com sinais de mal uso?": "NOK",
-    "05 - Boas condições de organização/ limpeza e conservação dos equipamentos?": "OK"
+    "05 - Boas condições de organização/ limpeza e conservação dos equipamentos?": "OK",
+    "Unnamed: 22": null
   },
   {
     "ID": "4012697",
@@ -1134,15 +1181,16 @@ const TPL_5S_DATA = [
     "Responsável Vistoria": "REGINALDO DA SILVA GOMES ",
     "Operação": "1079-APLICAÇÃO DESSECAÇÃO",
     "01-Área de vivência está em boas condições de organização e limpeza?": "N / A",
-    "03 - Não há itens faltando, quebrados ou com sinais de mal uso?": NaN,
+    "03 - Não há itens faltando, quebrados ou com sinais de mal uso?": null,
     "04 - A sinalização está adequada e o acesso ao local é seguro?": "OK",
-    "05 - Boas condições de organização, limpeza e conservação dos equipamentos?": NaN,
+    "05 - Boas condições de organização, limpeza e conservação dos equipamentos?": null,
     "06 - Os colaboradores estão utilizando os EPIs adequados?": "OK",
     "07 - Extintor está válido e carregado?": "OK",
     "Observação": "Equipamento 70122",
     "Fazenda.1": "41201",
     "03 - Não há itens faltando/ quebrados ou com sinais de mal uso?": "OK",
-    "05 - Boas condições de organização/ limpeza e conservação dos equipamentos?": "OK"
+    "05 - Boas condições de organização/ limpeza e conservação dos equipamentos?": "OK",
+    "Unnamed: 22": null
   },
   {
     "ID": "4012641",
@@ -1160,15 +1208,16 @@ const TPL_5S_DATA = [
     "Responsável Vistoria": "REGINALDO DA SILVA GOMES ",
     "Operação": "1036-APLICAÇÃO DE VINHAÇA VIA CANAL",
     "01-Área de vivência está em boas condições de organização e limpeza?": "OK",
-    "03 - Não há itens faltando, quebrados ou com sinais de mal uso?": NaN,
+    "03 - Não há itens faltando, quebrados ou com sinais de mal uso?": null,
     "04 - A sinalização está adequada e o acesso ao local é seguro?": "OK",
-    "05 - Boas condições de organização, limpeza e conservação dos equipamentos?": NaN,
+    "05 - Boas condições de organização, limpeza e conservação dos equipamentos?": null,
     "06 - Os colaboradores estão utilizando os EPIs adequados?": "OK",
     "07 - Extintor está válido e carregado?": "OK",
     "Observação": "Frente motobomba 34",
     "Fazenda.1": "119003",
     "03 - Não há itens faltando/ quebrados ou com sinais de mal uso?": "OK",
-    "05 - Boas condições de organização/ limpeza e conservação dos equipamentos?": "OK"
+    "05 - Boas condições de organização/ limpeza e conservação dos equipamentos?": "OK",
+    "Unnamed: 22": null
   },
   {
     "ID": "4010501",
@@ -1186,15 +1235,16 @@ const TPL_5S_DATA = [
     "Responsável Vistoria": "REGINALDO DA SILVA GOMES ",
     "Operação": "1107 - Aplicação Via Drench",
     "01-Área de vivência está em boas condições de organização e limpeza?": "N / A",
-    "03 - Não há itens faltando, quebrados ou com sinais de mal uso?": NaN,
+    "03 - Não há itens faltando, quebrados ou com sinais de mal uso?": null,
     "04 - A sinalização está adequada e o acesso ao local é seguro?": "OK",
-    "05 - Boas condições de organização, limpeza e conservação dos equipamentos?": NaN,
+    "05 - Boas condições de organização, limpeza e conservação dos equipamentos?": null,
     "06 - Os colaboradores estão utilizando os EPIs adequados?": "OK",
     "07 - Extintor está válido e carregado?": "OK",
     "Observação": "Banco do motorista rasgado, caminhão 31817. ",
     "Fazenda.1": "42001",
     "03 - Não há itens faltando/ quebrados ou com sinais de mal uso?": "OK",
-    "05 - Boas condições de organização/ limpeza e conservação dos equipamentos?": "OK"
+    "05 - Boas condições de organização/ limpeza e conservação dos equipamentos?": "OK",
+    "Unnamed: 22": null
   },
   {
     "ID": "4008404",
@@ -1212,15 +1262,16 @@ const TPL_5S_DATA = [
     "Responsável Vistoria": "REGINALDO DA SILVA GOMES ",
     "Operação": "1105-APLC HERBICIDA EM CARREADOR",
     "01-Área de vivência está em boas condições de organização e limpeza?": "N / A",
-    "03 - Não há itens faltando, quebrados ou com sinais de mal uso?": NaN,
+    "03 - Não há itens faltando, quebrados ou com sinais de mal uso?": null,
     "04 - A sinalização está adequada e o acesso ao local é seguro?": "OK",
-    "05 - Boas condições de organização, limpeza e conservação dos equipamentos?": NaN,
+    "05 - Boas condições de organização, limpeza e conservação dos equipamentos?": null,
     "06 - Os colaboradores estão utilizando os EPIs adequados?": "OK",
     "07 - Extintor está válido e carregado?": "OK",
     "Observação": "Trator 11225",
     "Fazenda.1": "48501",
     "03 - Não há itens faltando/ quebrados ou com sinais de mal uso?": "OK",
-    "05 - Boas condições de organização/ limpeza e conservação dos equipamentos?": "OK"
+    "05 - Boas condições de organização/ limpeza e conservação dos equipamentos?": "OK",
+    "Unnamed: 22": null
   },
   {
     "ID": "4008399",
@@ -1238,15 +1289,16 @@ const TPL_5S_DATA = [
     "Responsável Vistoria": "REGINALDO DA SILVA GOMES ",
     "Operação": "1105-APLC HERBICIDA EM CARREADOR",
     "01-Área de vivência está em boas condições de organização e limpeza?": "N / A",
-    "03 - Não há itens faltando, quebrados ou com sinais de mal uso?": NaN,
+    "03 - Não há itens faltando, quebrados ou com sinais de mal uso?": null,
     "04 - A sinalização está adequada e o acesso ao local é seguro?": "OK",
-    "05 - Boas condições de organização, limpeza e conservação dos equipamentos?": NaN,
+    "05 - Boas condições de organização, limpeza e conservação dos equipamentos?": null,
     "06 - Os colaboradores estão utilizando os EPIs adequados?": "OK",
     "07 - Extintor está válido e carregado?": "OK",
     "Observação": "Trator 11125",
     "Fazenda.1": "48501",
     "03 - Não há itens faltando/ quebrados ou com sinais de mal uso?": "OK",
-    "05 - Boas condições de organização/ limpeza e conservação dos equipamentos?": "OK"
+    "05 - Boas condições de organização/ limpeza e conservação dos equipamentos?": "OK",
+    "Unnamed: 22": null
   },
   {
     "ID": "4004046",
@@ -1264,15 +1316,16 @@ const TPL_5S_DATA = [
     "Responsável Vistoria": "REGINALDO DA SILVA GOMES ",
     "Operação": "1016-SUBSOLAGEM",
     "01-Área de vivência está em boas condições de organização e limpeza?": "N / A",
-    "03 - Não há itens faltando, quebrados ou com sinais de mal uso?": NaN,
+    "03 - Não há itens faltando, quebrados ou com sinais de mal uso?": null,
     "04 - A sinalização está adequada e o acesso ao local é seguro?": "OK",
-    "05 - Boas condições de organização, limpeza e conservação dos equipamentos?": NaN,
+    "05 - Boas condições de organização, limpeza e conservação dos equipamentos?": null,
     "06 - Os colaboradores estão utilizando os EPIs adequados?": "OK",
     "07 - Extintor está válido e carregado?": "OK",
     "Observação": "Trator 11121",
     "Fazenda.1": "151901",
     "03 - Não há itens faltando/ quebrados ou com sinais de mal uso?": "OK",
-    "05 - Boas condições de organização/ limpeza e conservação dos equipamentos?": "OK"
+    "05 - Boas condições de organização/ limpeza e conservação dos equipamentos?": "OK",
+    "Unnamed: 22": null
   },
   {
     "ID": "3998252",
@@ -1290,15 +1343,16 @@ const TPL_5S_DATA = [
     "Responsável Vistoria": "REGINALDO DA SILVA GOMES ",
     "Operação": "1068-APLIC. DE VINHAÇA LOCALIZADA",
     "01-Área de vivência está em boas condições de organização e limpeza?": "OK",
-    "03 - Não há itens faltando, quebrados ou com sinais de mal uso?": NaN,
+    "03 - Não há itens faltando, quebrados ou com sinais de mal uso?": null,
     "04 - A sinalização está adequada e o acesso ao local é seguro?": "OK",
-    "05 - Boas condições de organização, limpeza e conservação dos equipamentos?": NaN,
+    "05 - Boas condições de organização, limpeza e conservação dos equipamentos?": null,
     "06 - Os colaboradores estão utilizando os EPIs adequados?": "OK",
     "07 - Extintor está válido e carregado?": "OK",
     "Observação": "Frente 4 ",
     "Fazenda.1": "280901",
     "03 - Não há itens faltando/ quebrados ou com sinais de mal uso?": "NOK",
-    "05 - Boas condições de organização/ limpeza e conservação dos equipamentos?": "NOK"
+    "05 - Boas condições de organização/ limpeza e conservação dos equipamentos?": "NOK",
+    "Unnamed: 22": null
   },
   {
     "ID": "3998004",
@@ -1316,15 +1370,16 @@ const TPL_5S_DATA = [
     "Responsável Vistoria": "REGINALDO DA SILVA GOMES ",
     "Operação": "1068-APLIC. DE VINHAÇA LOCALIZADA",
     "01-Área de vivência está em boas condições de organização e limpeza?": "OK",
-    "03 - Não há itens faltando, quebrados ou com sinais de mal uso?": NaN,
+    "03 - Não há itens faltando, quebrados ou com sinais de mal uso?": null,
     "04 - A sinalização está adequada e o acesso ao local é seguro?": "OK",
-    "05 - Boas condições de organização, limpeza e conservação dos equipamentos?": NaN,
+    "05 - Boas condições de organização, limpeza e conservação dos equipamentos?": null,
     "06 - Os colaboradores estão utilizando os EPIs adequados?": "OK",
     "07 - Extintor está válido e carregado?": "OK",
     "Observação": "Frente 1 ",
     "Fazenda.1": "282408",
     "03 - Não há itens faltando/ quebrados ou com sinais de mal uso?": "OK",
-    "05 - Boas condições de organização/ limpeza e conservação dos equipamentos?": "OK"
+    "05 - Boas condições de organização/ limpeza e conservação dos equipamentos?": "OK",
+    "Unnamed: 22": null
   },
   {
     "ID": "3994711",
@@ -1342,15 +1397,16 @@ const TPL_5S_DATA = [
     "Responsável Vistoria": "REGINALDO DA SILVA GOMES ",
     "Operação": "1090-REPASSE APLICAÇÃO HERBICIDA",
     "01-Área de vivência está em boas condições de organização e limpeza?": "N / A",
-    "03 - Não há itens faltando, quebrados ou com sinais de mal uso?": NaN,
+    "03 - Não há itens faltando, quebrados ou com sinais de mal uso?": null,
     "04 - A sinalização está adequada e o acesso ao local é seguro?": "OK",
-    "05 - Boas condições de organização, limpeza e conservação dos equipamentos?": NaN,
+    "05 - Boas condições de organização, limpeza e conservação dos equipamentos?": null,
     "06 - Os colaboradores estão utilizando os EPIs adequados?": "OK",
     "07 - Extintor está válido e carregado?": "OK",
     "Observação": "Banco do motorista do 31715 rasgado, motorista disse que já foi passado para oficina fazer a substituição. ",
     "Fazenda.1": "151901",
     "03 - Não há itens faltando/ quebrados ou com sinais de mal uso?": "OK",
-    "05 - Boas condições de organização/ limpeza e conservação dos equipamentos?": "OK"
+    "05 - Boas condições de organização/ limpeza e conservação dos equipamentos?": "OK",
+    "Unnamed: 22": null
   },
   {
     "ID": "3992587",
@@ -1368,15 +1424,16 @@ const TPL_5S_DATA = [
     "Responsável Vistoria": "REGINALDO DA SILVA GOMES ",
     "Operação": "1068-APLIC. DE VINHAÇA LOCALIZADA",
     "01-Área de vivência está em boas condições de organização e limpeza?": "OK",
-    "03 - Não há itens faltando, quebrados ou com sinais de mal uso?": NaN,
+    "03 - Não há itens faltando, quebrados ou com sinais de mal uso?": null,
     "04 - A sinalização está adequada e o acesso ao local é seguro?": "OK",
-    "05 - Boas condições de organização, limpeza e conservação dos equipamentos?": NaN,
+    "05 - Boas condições de organização, limpeza e conservação dos equipamentos?": null,
     "06 - Os colaboradores estão utilizando os EPIs adequados?": "OK",
     "07 - Extintor está válido e carregado?": "OK",
     "Observação": "Frente 2 \n\nPlano de ação: limpeza realizada",
     "Fazenda.1": "199802",
     "03 - Não há itens faltando/ quebrados ou com sinais de mal uso?": "OK",
-    "05 - Boas condições de organização/ limpeza e conservação dos equipamentos?": "NOK"
+    "05 - Boas condições de organização/ limpeza e conservação dos equipamentos?": "NOK",
+    "Unnamed: 22": null
   },
   {
     "ID": "3994511",
@@ -1394,15 +1451,16 @@ const TPL_5S_DATA = [
     "Responsável Vistoria": "REGINALDO DA SILVA GOMES ",
     "Operação": "1020-QUEBRA DE LOMBO",
     "01-Área de vivência está em boas condições de organização e limpeza?": "N / A",
-    "03 - Não há itens faltando, quebrados ou com sinais de mal uso?": NaN,
+    "03 - Não há itens faltando, quebrados ou com sinais de mal uso?": null,
     "04 - A sinalização está adequada e o acesso ao local é seguro?": "OK",
-    "05 - Boas condições de organização, limpeza e conservação dos equipamentos?": NaN,
+    "05 - Boas condições de organização, limpeza e conservação dos equipamentos?": null,
     "06 - Os colaboradores estão utilizando os EPIs adequados?": "OK",
     "07 - Extintor está válido e carregado?": "OK",
     "Observação": "Trator 11324 e 11424",
     "Fazenda.1": "53201",
     "03 - Não há itens faltando/ quebrados ou com sinais de mal uso?": "OK",
-    "05 - Boas condições de organização/ limpeza e conservação dos equipamentos?": "OK"
+    "05 - Boas condições de organização/ limpeza e conservação dos equipamentos?": "OK",
+    "Unnamed: 22": null
   },
   {
     "ID": "3988731",
@@ -1420,15 +1478,16 @@ const TPL_5S_DATA = [
     "Responsável Vistoria": "REGINALDO DA SILVA GOMES ",
     "Operação": "1107 - Aplicação Via Drench",
     "01-Área de vivência está em boas condições de organização e limpeza?": "N / A",
-    "03 - Não há itens faltando, quebrados ou com sinais de mal uso?": NaN,
+    "03 - Não há itens faltando, quebrados ou com sinais de mal uso?": null,
     "04 - A sinalização está adequada e o acesso ao local é seguro?": "OK",
-    "05 - Boas condições de organização, limpeza e conservação dos equipamentos?": NaN,
+    "05 - Boas condições de organização, limpeza e conservação dos equipamentos?": null,
     "06 - Os colaboradores estão utilizando os EPIs adequados?": "OK",
     "07 - Extintor está válido e carregado?": "NOK",
     "Observação": "Plano de ação: \nSuporte do extintor do equipamento 11618  foi consertado",
     "Fazenda.1": "68802",
     "03 - Não há itens faltando/ quebrados ou com sinais de mal uso?": "OK",
-    "05 - Boas condições de organização/ limpeza e conservação dos equipamentos?": "OK"
+    "05 - Boas condições de organização/ limpeza e conservação dos equipamentos?": "OK",
+    "Unnamed: 22": null
   },
   {
     "ID": "3992736",
@@ -1446,15 +1505,16 @@ const TPL_5S_DATA = [
     "Responsável Vistoria": "REGINALDO DA SILVA GOMES ",
     "Operação": "1102-2ªAPLICAÇÃO VINHAÇA LOCALIZADA",
     "01-Área de vivência está em boas condições de organização e limpeza?": "OK",
-    "03 - Não há itens faltando, quebrados ou com sinais de mal uso?": NaN,
+    "03 - Não há itens faltando, quebrados ou com sinais de mal uso?": null,
     "04 - A sinalização está adequada e o acesso ao local é seguro?": "OK",
-    "05 - Boas condições de organização, limpeza e conservação dos equipamentos?": NaN,
+    "05 - Boas condições de organização, limpeza e conservação dos equipamentos?": null,
     "06 - Os colaboradores estão utilizando os EPIs adequados?": "OK",
     "07 - Extintor está válido e carregado?": "OK",
     "Observação": "Frente 3 ",
     "Fazenda.1": "47601",
     "03 - Não há itens faltando/ quebrados ou com sinais de mal uso?": "OK",
-    "05 - Boas condições de organização/ limpeza e conservação dos equipamentos?": "OK"
+    "05 - Boas condições de organização/ limpeza e conservação dos equipamentos?": "OK",
+    "Unnamed: 22": null
   },
   {
     "ID": "3992258",
@@ -1472,15 +1532,16 @@ const TPL_5S_DATA = [
     "Responsável Vistoria": "REGINALDO DA SILVA GOMES ",
     "Operação": "1031-1ª APLICAÇÃO DE HERBICIDA",
     "01-Área de vivência está em boas condições de organização e limpeza?": "N / A",
-    "03 - Não há itens faltando, quebrados ou com sinais de mal uso?": NaN,
+    "03 - Não há itens faltando, quebrados ou com sinais de mal uso?": null,
     "04 - A sinalização está adequada e o acesso ao local é seguro?": "OK",
-    "05 - Boas condições de organização, limpeza e conservação dos equipamentos?": NaN,
+    "05 - Boas condições de organização, limpeza e conservação dos equipamentos?": null,
     "06 - Os colaboradores estão utilizando os EPIs adequados?": "OK",
     "07 - Extintor está válido e carregado?": "OK",
     "Observação": "Equipamento 70122\nBanco do motorista do caminhão 35213, está com o tecido rasgado e a espuma danificada. ",
     "Fazenda.1": "70414",
     "03 - Não há itens faltando/ quebrados ou com sinais de mal uso?": "OK",
-    "05 - Boas condições de organização/ limpeza e conservação dos equipamentos?": "OK"
+    "05 - Boas condições de organização/ limpeza e conservação dos equipamentos?": "OK",
+    "Unnamed: 22": null
   },
   {
     "ID": "3992054",
@@ -1498,15 +1559,16 @@ const TPL_5S_DATA = [
     "Responsável Vistoria": "REGINALDO DA SILVA GOMES ",
     "Operação": "1105-APLC HERBICIDA EM CARREADOR",
     "01-Área de vivência está em boas condições de organização e limpeza?": "N / A",
-    "03 - Não há itens faltando, quebrados ou com sinais de mal uso?": NaN,
+    "03 - Não há itens faltando, quebrados ou com sinais de mal uso?": null,
     "04 - A sinalização está adequada e o acesso ao local é seguro?": "OK",
-    "05 - Boas condições de organização, limpeza e conservação dos equipamentos?": NaN,
+    "05 - Boas condições de organização, limpeza e conservação dos equipamentos?": null,
     "06 - Os colaboradores estão utilizando os EPIs adequados?": "OK",
     "07 - Extintor está válido e carregado?": "OK",
     "Observação": "Trator 11125",
     "Fazenda.1": "48501",
     "03 - Não há itens faltando/ quebrados ou com sinais de mal uso?": "OK",
-    "05 - Boas condições de organização/ limpeza e conservação dos equipamentos?": "OK"
+    "05 - Boas condições de organização/ limpeza e conservação dos equipamentos?": "OK",
+    "Unnamed: 22": null
   },
   {
     "ID": "3990774",
@@ -1524,15 +1586,16 @@ const TPL_5S_DATA = [
     "Responsável Vistoria": "REGINALDO DA SILVA GOMES ",
     "Operação": "1036-APLICAÇÃO DE VINHAÇA VIA CANAL",
     "01-Área de vivência está em boas condições de organização e limpeza?": "OK",
-    "03 - Não há itens faltando, quebrados ou com sinais de mal uso?": NaN,
+    "03 - Não há itens faltando, quebrados ou com sinais de mal uso?": null,
     "04 - A sinalização está adequada e o acesso ao local é seguro?": "OK",
-    "05 - Boas condições de organização, limpeza e conservação dos equipamentos?": NaN,
+    "05 - Boas condições de organização, limpeza e conservação dos equipamentos?": null,
     "06 - Os colaboradores estão utilizando os EPIs adequados?": "OK",
     "07 - Extintor está válido e carregado?": "OK",
     "Observação": "Frente motobomba 34",
     "Fazenda.1": "119003",
     "03 - Não há itens faltando/ quebrados ou com sinais de mal uso?": "OK",
-    "05 - Boas condições de organização/ limpeza e conservação dos equipamentos?": "OK"
+    "05 - Boas condições de organização/ limpeza e conservação dos equipamentos?": "OK",
+    "Unnamed: 22": null
   },
   {
     "ID": "3990734",
@@ -1550,15 +1613,16 @@ const TPL_5S_DATA = [
     "Responsável Vistoria": "REGINALDO DA SILVA GOMES ",
     "Operação": "1036-APLICAÇÃO DE VINHAÇA VIA CANAL",
     "01-Área de vivência está em boas condições de organização e limpeza?": "OK",
-    "03 - Não há itens faltando, quebrados ou com sinais de mal uso?": NaN,
+    "03 - Não há itens faltando, quebrados ou com sinais de mal uso?": null,
     "04 - A sinalização está adequada e o acesso ao local é seguro?": "OK",
-    "05 - Boas condições de organização, limpeza e conservação dos equipamentos?": NaN,
+    "05 - Boas condições de organização, limpeza e conservação dos equipamentos?": null,
     "06 - Os colaboradores estão utilizando os EPIs adequados?": "OK",
     "07 - Extintor está válido e carregado?": "OK",
     "Observação": "Frente motobomba 35",
     "Fazenda.1": "110903",
     "03 - Não há itens faltando/ quebrados ou com sinais de mal uso?": "OK",
-    "05 - Boas condições de organização/ limpeza e conservação dos equipamentos?": "OK"
+    "05 - Boas condições de organização/ limpeza e conservação dos equipamentos?": "OK",
+    "Unnamed: 22": null
   },
   {
     "ID": "3990608",
@@ -1576,15 +1640,16 @@ const TPL_5S_DATA = [
     "Responsável Vistoria": "REGINALDO DA SILVA GOMES ",
     "Operação": "1036-APLICAÇÃO DE VINHAÇA VIA CANAL",
     "01-Área de vivência está em boas condições de organização e limpeza?": "OK",
-    "03 - Não há itens faltando, quebrados ou com sinais de mal uso?": NaN,
+    "03 - Não há itens faltando, quebrados ou com sinais de mal uso?": null,
     "04 - A sinalização está adequada e o acesso ao local é seguro?": "OK",
-    "05 - Boas condições de organização, limpeza e conservação dos equipamentos?": NaN,
+    "05 - Boas condições de organização, limpeza e conservação dos equipamentos?": null,
     "06 - Os colaboradores estão utilizando os EPIs adequados?": "OK",
     "07 - Extintor está válido e carregado?": "OK",
     "Observação": "Frente motobomba 91",
     "Fazenda.1": "51201",
     "03 - Não há itens faltando/ quebrados ou com sinais de mal uso?": "OK",
-    "05 - Boas condições de organização/ limpeza e conservação dos equipamentos?": "OK"
+    "05 - Boas condições de organização/ limpeza e conservação dos equipamentos?": "OK",
+    "Unnamed: 22": null
   },
   {
     "ID": "3990179",
@@ -1602,15 +1667,16 @@ const TPL_5S_DATA = [
     "Responsável Vistoria": "REGINALDO DA SILVA GOMES ",
     "Operação": "1071-APLICAÇÃO MISTA CORREÇÃO SOLO",
     "01-Área de vivência está em boas condições de organização e limpeza?": "N / A",
-    "03 - Não há itens faltando, quebrados ou com sinais de mal uso?": NaN,
+    "03 - Não há itens faltando, quebrados ou com sinais de mal uso?": null,
     "04 - A sinalização está adequada e o acesso ao local é seguro?": "OK",
-    "05 - Boas condições de organização, limpeza e conservação dos equipamentos?": NaN,
+    "05 - Boas condições de organização, limpeza e conservação dos equipamentos?": null,
     "06 - Os colaboradores estão utilizando os EPIs adequados?": "OK",
     "07 - Extintor está válido e carregado?": "OK",
-    "Observação": NaN,
+    "Observação": null,
     "Fazenda.1": "195403",
     "03 - Não há itens faltando/ quebrados ou com sinais de mal uso?": "OK",
-    "05 - Boas condições de organização/ limpeza e conservação dos equipamentos?": "OK"
+    "05 - Boas condições de organização/ limpeza e conservação dos equipamentos?": "OK",
+    "Unnamed: 22": null
   },
   {
     "ID": "3955526",
@@ -1628,15 +1694,16 @@ const TPL_5S_DATA = [
     "Responsável Vistoria": "REGINALDO DA SILVA GOMES ",
     "Operação": "1016-SUBSOLAGEM",
     "01-Área de vivência está em boas condições de organização e limpeza?": "N / A",
-    "03 - Não há itens faltando, quebrados ou com sinais de mal uso?": NaN,
+    "03 - Não há itens faltando, quebrados ou com sinais de mal uso?": null,
     "04 - A sinalização está adequada e o acesso ao local é seguro?": "OK",
-    "05 - Boas condições de organização, limpeza e conservação dos equipamentos?": NaN,
+    "05 - Boas condições de organização, limpeza e conservação dos equipamentos?": null,
     "06 - Os colaboradores estão utilizando os EPIs adequados?": "OK",
     "07 - Extintor está válido e carregado?": "NOK",
     "Observação": "Plano de ação:\n\n11121 - Suporte corrigido, falta a etiqueta",
     "Fazenda.1": "151901",
     "03 - Não há itens faltando/ quebrados ou com sinais de mal uso?": "OK",
-    "05 - Boas condições de organização/ limpeza e conservação dos equipamentos?": "OK"
+    "05 - Boas condições de organização/ limpeza e conservação dos equipamentos?": "OK",
+    "Unnamed: 22": null
   },
   {
     "ID": "3968206",
@@ -1654,15 +1721,16 @@ const TPL_5S_DATA = [
     "Responsável Vistoria": "REGINALDO DA SILVA GOMES ",
     "Operação": "1068-APLIC. DE VINHAÇA LOCALIZADA",
     "01-Área de vivência está em boas condições de organização e limpeza?": "OK",
-    "03 - Não há itens faltando, quebrados ou com sinais de mal uso?": NaN,
+    "03 - Não há itens faltando, quebrados ou com sinais de mal uso?": null,
     "04 - A sinalização está adequada e o acesso ao local é seguro?": "OK",
-    "05 - Boas condições de organização, limpeza e conservação dos equipamentos?": NaN,
+    "05 - Boas condições de organização, limpeza e conservação dos equipamentos?": null,
     "06 - Os colaboradores estão utilizando os EPIs adequados?": "OK",
     "07 - Extintor está válido e carregado?": "OK",
     "Observação": "Frente 3 \n\nPlano de ação:\npapel reabastecido e porta consertada",
     "Fazenda.1": "34802",
     "03 - Não há itens faltando/ quebrados ou com sinais de mal uso?": "NOK",
-    "05 - Boas condições de organização/ limpeza e conservação dos equipamentos?": "OK"
+    "05 - Boas condições de organização/ limpeza e conservação dos equipamentos?": "OK",
+    "Unnamed: 22": null
   },
   {
     "ID": "3969099",
@@ -1680,15 +1748,16 @@ const TPL_5S_DATA = [
     "Responsável Vistoria": "REGINALDO DA SILVA GOMES ",
     "Operação": "1092-APLIC. VINHAÇA C/ FERTILIZANTE",
     "01-Área de vivência está em boas condições de organização e limpeza?": "OK",
-    "03 - Não há itens faltando, quebrados ou com sinais de mal uso?": NaN,
+    "03 - Não há itens faltando, quebrados ou com sinais de mal uso?": null,
     "04 - A sinalização está adequada e o acesso ao local é seguro?": "NOK",
-    "05 - Boas condições de organização, limpeza e conservação dos equipamentos?": NaN,
+    "05 - Boas condições de organização, limpeza e conservação dos equipamentos?": null,
     "06 - Os colaboradores estão utilizando os EPIs adequados?": "OK",
     "07 - Extintor está válido e carregado?": "OK",
     "Observação": "Frente 1 \n\nPlano de ação: \nvazamento da torneira e suporte consertados",
     "Fazenda.1": "36202",
     "03 - Não há itens faltando/ quebrados ou com sinais de mal uso?": "NOK",
-    "05 - Boas condições de organização/ limpeza e conservação dos equipamentos?": "NOK"
+    "05 - Boas condições de organização/ limpeza e conservação dos equipamentos?": "NOK",
+    "Unnamed: 22": null
   },
   {
     "ID": "3952364",
@@ -1706,15 +1775,16 @@ const TPL_5S_DATA = [
     "Responsável Vistoria": "REGINALDO DA SILVA GOMES ",
     "Operação": "1068-APLIC. DE VINHAÇA LOCALIZADA",
     "01-Área de vivência está em boas condições de organização e limpeza?": "OK",
-    "03 - Não há itens faltando, quebrados ou com sinais de mal uso?": NaN,
+    "03 - Não há itens faltando, quebrados ou com sinais de mal uso?": null,
     "04 - A sinalização está adequada e o acesso ao local é seguro?": "OK",
-    "05 - Boas condições de organização, limpeza e conservação dos equipamentos?": NaN,
+    "05 - Boas condições de organização, limpeza e conservação dos equipamentos?": null,
     "06 - Os colaboradores estão utilizando os EPIs adequados?": "OK",
     "07 - Extintor está válido e carregado?": "OK",
     "Observação": "Frente 3 \n\nPlano de ação:\nFoi realizado o reparo na lanterna da área de vivencia e realizada limpeza e organização.\nPorta do armario consertada",
     "Fazenda.1": "201901",
     "03 - Não há itens faltando/ quebrados ou com sinais de mal uso?": "NOK",
-    "05 - Boas condições de organização/ limpeza e conservação dos equipamentos?": "NOK"
+    "05 - Boas condições de organização/ limpeza e conservação dos equipamentos?": "NOK",
+    "Unnamed: 22": null
   },
   {
     "ID": "3915807",
@@ -1732,15 +1802,16 @@ const TPL_5S_DATA = [
     "Responsável Vistoria": "REGINALDO DA SILVA GOMES ",
     "Operação": "1068-APLIC. DE VINHAÇA LOCALIZADA",
     "01-Área de vivência está em boas condições de organização e limpeza?": "OK",
-    "03 - Não há itens faltando, quebrados ou com sinais de mal uso?": NaN,
+    "03 - Não há itens faltando, quebrados ou com sinais de mal uso?": null,
     "04 - A sinalização está adequada e o acesso ao local é seguro?": "OK",
-    "05 - Boas condições de organização, limpeza e conservação dos equipamentos?": NaN,
+    "05 - Boas condições de organização, limpeza e conservação dos equipamentos?": null,
     "06 - Os colaboradores estão utilizando os EPIs adequados?": "OK",
     "07 - Extintor está válido e carregado?": "OK",
     "Observação": "Frente 3\n\nPlano de ação:\nlimpeza e conserto do armario realizadas",
     "Fazenda.1": "70413",
     "03 - Não há itens faltando/ quebrados ou com sinais de mal uso?": "NOK",
-    "05 - Boas condições de organização/ limpeza e conservação dos equipamentos?": "NOK"
+    "05 - Boas condições de organização/ limpeza e conservação dos equipamentos?": "NOK",
+    "Unnamed: 22": null
   },
   {
     "ID": "3982368",
@@ -1758,15 +1829,16 @@ const TPL_5S_DATA = [
     "Responsável Vistoria": "REGINALDO DA SILVA GOMES ",
     "Operação": "1031-1ª APLICAÇÃO DE HERBICIDA",
     "01-Área de vivência está em boas condições de organização e limpeza?": "N / A",
-    "03 - Não há itens faltando, quebrados ou com sinais de mal uso?": NaN,
+    "03 - Não há itens faltando, quebrados ou com sinais de mal uso?": null,
     "04 - A sinalização está adequada e o acesso ao local é seguro?": "OK",
-    "05 - Boas condições de organização, limpeza e conservação dos equipamentos?": NaN,
+    "05 - Boas condições de organização, limpeza e conservação dos equipamentos?": null,
     "06 - Os colaboradores estão utilizando os EPIs adequados?": "OK",
     "07 - Extintor está válido e carregado?": "OK",
     "Observação": "Equipamento 70121.\n\nBanco do motorista rasgado do caminhão 31817 ",
     "Fazenda.1": "70407",
     "03 - Não há itens faltando/ quebrados ou com sinais de mal uso?": "OK",
-    "05 - Boas condições de organização/ limpeza e conservação dos equipamentos?": "OK"
+    "05 - Boas condições de organização/ limpeza e conservação dos equipamentos?": "OK",
+    "Unnamed: 22": null
   },
   {
     "ID": "3982200",
@@ -1784,15 +1856,16 @@ const TPL_5S_DATA = [
     "Responsável Vistoria": "REGINALDO DA SILVA GOMES ",
     "Operação": "1092-APLIC. VINHAÇA C/ FERTILIZANTE",
     "01-Área de vivência está em boas condições de organização e limpeza?": "OK",
-    "03 - Não há itens faltando, quebrados ou com sinais de mal uso?": NaN,
+    "03 - Não há itens faltando, quebrados ou com sinais de mal uso?": null,
     "04 - A sinalização está adequada e o acesso ao local é seguro?": "OK",
-    "05 - Boas condições de organização, limpeza e conservação dos equipamentos?": NaN,
+    "05 - Boas condições de organização, limpeza e conservação dos equipamentos?": null,
     "06 - Os colaboradores estão utilizando os EPIs adequados?": "OK",
     "07 - Extintor está válido e carregado?": "OK",
     "Observação": "Frente 3",
     "Fazenda.1": "70407",
     "03 - Não há itens faltando/ quebrados ou com sinais de mal uso?": "OK",
-    "05 - Boas condições de organização/ limpeza e conservação dos equipamentos?": "OK"
+    "05 - Boas condições de organização/ limpeza e conservação dos equipamentos?": "OK",
+    "Unnamed: 22": null
   },
   {
     "ID": "4044597",
@@ -1810,15 +1883,16 @@ const TPL_5S_DATA = [
     "Responsável Vistoria": "REGINALDO DA SILVA GOMES ",
     "Operação": "1092-APLIC. VINHAÇA C/ FERTILIZANTE",
     "01-Área de vivência está em boas condições de organização e limpeza?": "OK",
-    "03 - Não há itens faltando, quebrados ou com sinais de mal uso?": NaN,
+    "03 - Não há itens faltando, quebrados ou com sinais de mal uso?": null,
     "04 - A sinalização está adequada e o acesso ao local é seguro?": "OK",
-    "05 - Boas condições de organização, limpeza e conservação dos equipamentos?": NaN,
+    "05 - Boas condições de organização, limpeza e conservação dos equipamentos?": null,
     "06 - Os colaboradores estão utilizando os EPIs adequados?": "OK",
     "07 - Extintor está válido e carregado?": "OK",
     "Observação": "Frente 3 ",
     "Fazenda.1": "39003",
     "03 - Não há itens faltando/ quebrados ou com sinais de mal uso?": "NOK",
-    "05 - Boas condições de organização/ limpeza e conservação dos equipamentos?": "OK"
+    "05 - Boas condições de organização/ limpeza e conservação dos equipamentos?": "OK",
+    "Unnamed: 22": null
   },
   {
     "ID": "4044477",
@@ -1836,15 +1910,16 @@ const TPL_5S_DATA = [
     "Responsável Vistoria": "REGINALDO DA SILVA GOMES ",
     "Operação": "1090-REPASSE APLICAÇÃO HERBICIDA",
     "01-Área de vivência está em boas condições de organização e limpeza?": "N / A",
-    "03 - Não há itens faltando, quebrados ou com sinais de mal uso?": NaN,
+    "03 - Não há itens faltando, quebrados ou com sinais de mal uso?": null,
     "04 - A sinalização está adequada e o acesso ao local é seguro?": "OK",
-    "05 - Boas condições de organização, limpeza e conservação dos equipamentos?": NaN,
+    "05 - Boas condições de organização, limpeza e conservação dos equipamentos?": null,
     "06 - Os colaboradores estão utilizando os EPIs adequados?": "OK",
     "07 - Extintor está válido e carregado?": "OK",
     "Observação": "Equipamento 70122\n\nBanco do motorista rasgado, do caminhão 31817 ",
     "Fazenda.1": "53201",
     "03 - Não há itens faltando/ quebrados ou com sinais de mal uso?": "OK",
-    "05 - Boas condições de organização/ limpeza e conservação dos equipamentos?": "OK"
+    "05 - Boas condições de organização/ limpeza e conservação dos equipamentos?": "OK",
+    "Unnamed: 22": null
   },
   {
     "ID": "4043991",
@@ -1862,15 +1937,16 @@ const TPL_5S_DATA = [
     "Responsável Vistoria": "REGINALDO DA SILVA GOMES ",
     "Operação": "1036-APLICAÇÃO DE VINHAÇA VIA CANAL",
     "01-Área de vivência está em boas condições de organização e limpeza?": "OK",
-    "03 - Não há itens faltando, quebrados ou com sinais de mal uso?": NaN,
+    "03 - Não há itens faltando, quebrados ou com sinais de mal uso?": null,
     "04 - A sinalização está adequada e o acesso ao local é seguro?": "OK",
-    "05 - Boas condições de organização, limpeza e conservação dos equipamentos?": NaN,
+    "05 - Boas condições de organização, limpeza e conservação dos equipamentos?": null,
     "06 - Os colaboradores estão utilizando os EPIs adequados?": "OK",
     "07 - Extintor está válido e carregado?": "OK",
     "Observação": "Frente motobomba 34 e 435",
     "Fazenda.1": "136603",
     "03 - Não há itens faltando/ quebrados ou com sinais de mal uso?": "NOK",
-    "05 - Boas condições de organização/ limpeza e conservação dos equipamentos?": "OK"
+    "05 - Boas condições de organização/ limpeza e conservação dos equipamentos?": "OK",
+    "Unnamed: 22": null
   },
   {
     "ID": "4047060",
@@ -1888,15 +1964,16 @@ const TPL_5S_DATA = [
     "Responsável Vistoria": "REGINALDO DA SILVA GOMES ",
     "Operação": "1036-APLICAÇÃO DE VINHAÇA VIA CANAL",
     "01-Área de vivência está em boas condições de organização e limpeza?": "OK",
-    "03 - Não há itens faltando, quebrados ou com sinais de mal uso?": NaN,
+    "03 - Não há itens faltando, quebrados ou com sinais de mal uso?": null,
     "04 - A sinalização está adequada e o acesso ao local é seguro?": "OK",
-    "05 - Boas condições de organização, limpeza e conservação dos equipamentos?": NaN,
+    "05 - Boas condições de organização, limpeza e conservação dos equipamentos?": null,
     "06 - Os colaboradores estão utilizando os EPIs adequados?": "OK",
     "07 - Extintor está válido e carregado?": "OK",
     "Observação": "Frente motobomba 91",
     "Fazenda.1": "281409",
     "03 - Não há itens faltando/ quebrados ou com sinais de mal uso?": "OK",
-    "05 - Boas condições de organização/ limpeza e conservação dos equipamentos?": "OK"
+    "05 - Boas condições de organização/ limpeza e conservação dos equipamentos?": "OK",
+    "Unnamed: 22": null
   },
   {
     "ID": "4050537",
@@ -1914,15 +1991,16 @@ const TPL_5S_DATA = [
     "Responsável Vistoria": "REGINALDO DA SILVA GOMES ",
     "Operação": "1092-APLIC. VINHAÇA C/ FERTILIZANTE",
     "01-Área de vivência está em boas condições de organização e limpeza?": "OK",
-    "03 - Não há itens faltando, quebrados ou com sinais de mal uso?": NaN,
+    "03 - Não há itens faltando, quebrados ou com sinais de mal uso?": null,
     "04 - A sinalização está adequada e o acesso ao local é seguro?": "OK",
-    "05 - Boas condições de organização, limpeza e conservação dos equipamentos?": NaN,
+    "05 - Boas condições de organização, limpeza e conservação dos equipamentos?": null,
     "06 - Os colaboradores estão utilizando os EPIs adequados?": "OK",
     "07 - Extintor está válido e carregado?": "OK",
     "Observação": "Frente 4 ",
     "Fazenda.1": "34705",
     "03 - Não há itens faltando/ quebrados ou com sinais de mal uso?": "OK",
-    "05 - Boas condições de organização/ limpeza e conservação dos equipamentos?": "OK"
+    "05 - Boas condições de organização/ limpeza e conservação dos equipamentos?": "OK",
+    "Unnamed: 22": null
   },
   {
     "ID": "4055543",
@@ -1940,15 +2018,16 @@ const TPL_5S_DATA = [
     "Responsável Vistoria": "REGINALDO DA SILVA GOMES ",
     "Operação": "1092-APLIC. VINHAÇA C/ FERTILIZANTE",
     "01-Área de vivência está em boas condições de organização e limpeza?": "OK",
-    "03 - Não há itens faltando, quebrados ou com sinais de mal uso?": NaN,
+    "03 - Não há itens faltando, quebrados ou com sinais de mal uso?": null,
     "04 - A sinalização está adequada e o acesso ao local é seguro?": "OK",
-    "05 - Boas condições de organização, limpeza e conservação dos equipamentos?": NaN,
+    "05 - Boas condições de organização, limpeza e conservação dos equipamentos?": null,
     "06 - Os colaboradores estão utilizando os EPIs adequados?": "OK",
     "07 - Extintor está válido e carregado?": "OK",
     "Observação": "Frente 3 ",
     "Fazenda.1": "39901",
     "03 - Não há itens faltando/ quebrados ou com sinais de mal uso?": "OK",
-    "05 - Boas condições de organização/ limpeza e conservação dos equipamentos?": "OK"
+    "05 - Boas condições de organização/ limpeza e conservação dos equipamentos?": "OK",
+    "Unnamed: 22": null
   },
   {
     "ID": "4055504",
@@ -1966,15 +2045,16 @@ const TPL_5S_DATA = [
     "Responsável Vistoria": "REGINALDO DA SILVA GOMES ",
     "Operação": "1033-APLICAÇÃO DE TORTA DE FILTRO",
     "01-Área de vivência está em boas condições de organização e limpeza?": "N / A",
-    "03 - Não há itens faltando, quebrados ou com sinais de mal uso?": NaN,
+    "03 - Não há itens faltando, quebrados ou com sinais de mal uso?": null,
     "04 - A sinalização está adequada e o acesso ao local é seguro?": "OK",
-    "05 - Boas condições de organização, limpeza e conservação dos equipamentos?": NaN,
+    "05 - Boas condições de organização, limpeza e conservação dos equipamentos?": null,
     "06 - Os colaboradores estão utilizando os EPIs adequados?": "OK",
     "07 - Extintor está válido e carregado?": "NOK",
-    "Observação": NaN,
+    "Observação": null,
     "Fazenda.1": "39901",
     "03 - Não há itens faltando/ quebrados ou com sinais de mal uso?": "OK",
-    "05 - Boas condições de organização/ limpeza e conservação dos equipamentos?": "OK"
+    "05 - Boas condições de organização/ limpeza e conservação dos equipamentos?": "OK",
+    "Unnamed: 22": null
   },
   {
     "ID": "4055426",
@@ -1992,15 +2072,16 @@ const TPL_5S_DATA = [
     "Responsável Vistoria": "REGINALDO DA SILVA GOMES ",
     "Operação": "1071-APLICAÇÃO MISTA CORREÇÃO SOLO",
     "01-Área de vivência está em boas condições de organização e limpeza?": "N / A",
-    "03 - Não há itens faltando, quebrados ou com sinais de mal uso?": NaN,
+    "03 - Não há itens faltando, quebrados ou com sinais de mal uso?": null,
     "04 - A sinalização está adequada e o acesso ao local é seguro?": "OK",
-    "05 - Boas condições de organização, limpeza e conservação dos equipamentos?": NaN,
+    "05 - Boas condições de organização, limpeza e conservação dos equipamentos?": null,
     "06 - Os colaboradores estão utilizando os EPIs adequados?": "OK",
     "07 - Extintor está válido e carregado?": "OK",
-    "Observação": NaN,
+    "Observação": null,
     "Fazenda.1": "39901",
     "03 - Não há itens faltando/ quebrados ou com sinais de mal uso?": "OK",
-    "05 - Boas condições de organização/ limpeza e conservação dos equipamentos?": "OK"
+    "05 - Boas condições de organização/ limpeza e conservação dos equipamentos?": "OK",
+    "Unnamed: 22": null
   },
   {
     "ID": "4058421",
@@ -2018,15 +2099,16 @@ const TPL_5S_DATA = [
     "Responsável Vistoria": "REGINALDO DA SILVA GOMES ",
     "Operação": "1105-APLC HERBICIDA EM CARREADOR",
     "01-Área de vivência está em boas condições de organização e limpeza?": "N / A",
-    "03 - Não há itens faltando, quebrados ou com sinais de mal uso?": NaN,
+    "03 - Não há itens faltando, quebrados ou com sinais de mal uso?": null,
     "04 - A sinalização está adequada e o acesso ao local é seguro?": "OK",
-    "05 - Boas condições de organização, limpeza e conservação dos equipamentos?": NaN,
+    "05 - Boas condições de organização, limpeza e conservação dos equipamentos?": null,
     "06 - Os colaboradores estão utilizando os EPIs adequados?": "OK",
     "07 - Extintor está válido e carregado?": "OK",
     "Observação": "Trator 11125 e 11225 ",
     "Fazenda.1": "41601",
     "03 - Não há itens faltando/ quebrados ou com sinais de mal uso?": "OK",
-    "05 - Boas condições de organização/ limpeza e conservação dos equipamentos?": "OK"
+    "05 - Boas condições de organização/ limpeza e conservação dos equipamentos?": "OK",
+    "Unnamed: 22": null
   },
   {
     "ID": "4058002",
@@ -2044,15 +2126,16 @@ const TPL_5S_DATA = [
     "Responsável Vistoria": "REGINALDO DA SILVA GOMES ",
     "Operação": "1036-APLICAÇÃO DE VINHAÇA VIA CANAL",
     "01-Área de vivência está em boas condições de organização e limpeza?": "OK",
-    "03 - Não há itens faltando, quebrados ou com sinais de mal uso?": NaN,
+    "03 - Não há itens faltando, quebrados ou com sinais de mal uso?": null,
     "04 - A sinalização está adequada e o acesso ao local é seguro?": "OK",
-    "05 - Boas condições de organização, limpeza e conservação dos equipamentos?": NaN,
+    "05 - Boas condições de organização, limpeza e conservação dos equipamentos?": null,
     "06 - Os colaboradores estão utilizando os EPIs adequados?": "OK",
     "07 - Extintor está válido e carregado?": "OK",
-    "Observação": NaN,
+    "Observação": null,
     "Fazenda.1": "281409",
     "03 - Não há itens faltando/ quebrados ou com sinais de mal uso?": "OK",
-    "05 - Boas condições de organização/ limpeza e conservação dos equipamentos?": "OK"
+    "05 - Boas condições de organização/ limpeza e conservação dos equipamentos?": "OK",
+    "Unnamed: 22": null
   },
   {
     "ID": "4057926",
@@ -2070,15 +2153,16 @@ const TPL_5S_DATA = [
     "Responsável Vistoria": "REGINALDO DA SILVA GOMES ",
     "Operação": "1036-APLICAÇÃO DE VINHAÇA VIA CANAL",
     "01-Área de vivência está em boas condições de organização e limpeza?": "OK",
-    "03 - Não há itens faltando, quebrados ou com sinais de mal uso?": NaN,
+    "03 - Não há itens faltando, quebrados ou com sinais de mal uso?": null,
     "04 - A sinalização está adequada e o acesso ao local é seguro?": "OK",
-    "05 - Boas condições de organização, limpeza e conservação dos equipamentos?": NaN,
+    "05 - Boas condições de organização, limpeza e conservação dos equipamentos?": null,
     "06 - Os colaboradores estão utilizando os EPIs adequados?": "OK",
     "07 - Extintor está válido e carregado?": "OK",
     "Observação": "Frente motobomba 91",
     "Fazenda.1": "281409",
     "03 - Não há itens faltando/ quebrados ou com sinais de mal uso?": "NOK",
-    "05 - Boas condições de organização/ limpeza e conservação dos equipamentos?": "OK"
+    "05 - Boas condições de organização/ limpeza e conservação dos equipamentos?": "OK",
+    "Unnamed: 22": null
   },
   {
     "ID": "4060868",
@@ -2096,15 +2180,16 @@ const TPL_5S_DATA = [
     "Responsável Vistoria": "REGINALDO DA SILVA GOMES ",
     "Operação": "1102-2ªAPLICAÇÃO VINHAÇA LOCALIZADA",
     "01-Área de vivência está em boas condições de organização e limpeza?": "OK",
-    "03 - Não há itens faltando, quebrados ou com sinais de mal uso?": NaN,
+    "03 - Não há itens faltando, quebrados ou com sinais de mal uso?": null,
     "04 - A sinalização está adequada e o acesso ao local é seguro?": "OK",
-    "05 - Boas condições de organização, limpeza e conservação dos equipamentos?": NaN,
+    "05 - Boas condições de organização, limpeza e conservação dos equipamentos?": null,
     "06 - Os colaboradores estão utilizando os EPIs adequados?": "OK",
     "07 - Extintor está válido e carregado?": "OK",
     "Observação": "Frente 2 ",
     "Fazenda.1": "69001",
     "03 - Não há itens faltando/ quebrados ou com sinais de mal uso?": "NOK",
-    "05 - Boas condições de organização/ limpeza e conservação dos equipamentos?": "OK"
+    "05 - Boas condições de organização/ limpeza e conservação dos equipamentos?": "OK",
+    "Unnamed: 22": null
   },
   {
     "ID": "4060492",
@@ -2122,15 +2207,16 @@ const TPL_5S_DATA = [
     "Responsável Vistoria": "REGINALDO DA SILVA GOMES ",
     "Operação": "1076-PLANTIO COM TORTA",
     "01-Área de vivência está em boas condições de organização e limpeza?": "N / A",
-    "03 - Não há itens faltando, quebrados ou com sinais de mal uso?": NaN,
+    "03 - Não há itens faltando, quebrados ou com sinais de mal uso?": null,
     "04 - A sinalização está adequada e o acesso ao local é seguro?": "OK",
-    "05 - Boas condições de organização, limpeza e conservação dos equipamentos?": NaN,
+    "05 - Boas condições de organização, limpeza e conservação dos equipamentos?": null,
     "06 - Os colaboradores estão utilizando os EPIs adequados?": "OK",
     "07 - Extintor está válido e carregado?": "NOK",
     "Observação": "Equipamentos: 60120, 11421,732 ",
     "Fazenda.1": "53501",
     "03 - Não há itens faltando/ quebrados ou com sinais de mal uso?": "OK",
-    "05 - Boas condições de organização/ limpeza e conservação dos equipamentos?": "OK"
+    "05 - Boas condições de organização/ limpeza e conservação dos equipamentos?": "OK",
+    "Unnamed: 22": null
   },
   {
     "ID": "4063088",
@@ -2148,14 +2234,15 @@ const TPL_5S_DATA = [
     "Responsável Vistoria": "REGINALDO DA SILVA GOMES ",
     "Operação": "1068-APLIC. DE VINHAÇA LOCALIZADA",
     "01-Área de vivência está em boas condições de organização e limpeza?": "OK",
-    "03 - Não há itens faltando, quebrados ou com sinais de mal uso?": NaN,
+    "03 - Não há itens faltando, quebrados ou com sinais de mal uso?": null,
     "04 - A sinalização está adequada e o acesso ao local é seguro?": "OK",
-    "05 - Boas condições de organização, limpeza e conservação dos equipamentos?": NaN,
+    "05 - Boas condições de organização, limpeza e conservação dos equipamentos?": null,
     "06 - Os colaboradores estão utilizando os EPIs adequados?": "OK",
     "07 - Extintor está válido e carregado?": "OK",
     "Observação": "Frente 1 ",
     "Fazenda.1": "269506",
     "03 - Não há itens faltando/ quebrados ou com sinais de mal uso?": "OK",
-    "05 - Boas condições de organização/ limpeza e conservação dos equipamentos?": "OK"
+    "05 - Boas condições de organização/ limpeza e conservação dos equipamentos?": "OK",
+    "Unnamed: 22": null
   }
 ];

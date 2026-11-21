@@ -1,5 +1,9 @@
-// Auto-gerado em 21/11/2026 07:33:22
-const CANTEIRIZACAO_DATA = [
+/**
+ * Dados Consolidados - canteirizacao
+ * Total: 432 registros
+ * Atualizado em: 21/11/2026 07:40
+ */
+window.CANTEIRIZACAO_RAW_DATA = [
   {
     "ID": "3909500",
     "Usuário": "qualidade3@usinapitangueiras.com.br",
@@ -11,14 +15,15 @@ const CANTEIRIZACAO_DATA = [
     "Status": "Aberto",
     "Score": "48,00",
     "Score perc.": "100",
-    "Score desc.": NaN,
+    "Score desc.": null,
     "Data Lançamento": "11/09/2026 00:00",
     "Local (Fazenda - Talhão)": "70408",
     "OS": "2707",
     "Frente": "261-PLANTIO MANUAL E CARPA",
     "Responsável": "MABILA HELEN D FIGUEIREDO",
     "Canteirização": "48",
-    "Fazenda": NaN
+    "Fazenda": null,
+    "Unnamed: 18": null
   },
   {
     "ID": "3909499",
@@ -31,14 +36,15 @@ const CANTEIRIZACAO_DATA = [
     "Status": "Aberto",
     "Score": "50,00",
     "Score perc.": "100",
-    "Score desc.": NaN,
+    "Score desc.": null,
     "Data Lançamento": "11/09/2026 00:00",
     "Local (Fazenda - Talhão)": "70408",
     "OS": "2707",
     "Frente": "261-PLANTIO MANUAL E CARPA",
     "Responsável": "MABILA HELEN D FIGUEIREDO",
     "Canteirização": "50",
-    "Fazenda": NaN
+    "Fazenda": null,
+    "Unnamed: 18": null
   },
   {
     "ID": "3909498",
@@ -51,14 +57,15 @@ const CANTEIRIZACAO_DATA = [
     "Status": "Aberto",
     "Score": "48,00",
     "Score perc.": "100",
-    "Score desc.": NaN,
+    "Score desc.": null,
     "Data Lançamento": "11/09/2026 00:00",
     "Local (Fazenda - Talhão)": "70408",
     "OS": "2707",
     "Frente": "261-PLANTIO MANUAL E CARPA",
     "Responsável": "MABILA HELEN D FIGUEIREDO",
     "Canteirização": "48",
-    "Fazenda": NaN
+    "Fazenda": null,
+    "Unnamed: 18": null
   },
   {
     "ID": "3909497",
@@ -71,14 +78,15 @@ const CANTEIRIZACAO_DATA = [
     "Status": "Aberto",
     "Score": "48,00",
     "Score perc.": "100",
-    "Score desc.": NaN,
+    "Score desc.": null,
     "Data Lançamento": "11/09/2026 00:00",
     "Local (Fazenda - Talhão)": "70408",
     "OS": "2707",
     "Frente": "261-PLANTIO MANUAL E CARPA",
     "Responsável": "MABILA HELEN D FIGUEIREDO",
     "Canteirização": "48",
-    "Fazenda": NaN
+    "Fazenda": null,
+    "Unnamed: 18": null
   },
   {
     "ID": "3909496",
@@ -91,14 +99,15 @@ const CANTEIRIZACAO_DATA = [
     "Status": "Aberto",
     "Score": "50,00",
     "Score perc.": "100",
-    "Score desc.": NaN,
+    "Score desc.": null,
     "Data Lançamento": "11/09/2026 00:00",
     "Local (Fazenda - Talhão)": "70408",
     "OS": "2707",
     "Frente": "261-PLANTIO MANUAL E CARPA",
     "Responsável": "MABILA HELEN D FIGUEIREDO",
     "Canteirização": "50",
-    "Fazenda": NaN
+    "Fazenda": null,
+    "Unnamed: 18": null
   },
   {
     "ID": "3909495",
@@ -111,14 +120,15 @@ const CANTEIRIZACAO_DATA = [
     "Status": "Aberto",
     "Score": "48,00",
     "Score perc.": "100",
-    "Score desc.": NaN,
+    "Score desc.": null,
     "Data Lançamento": "11/09/2026 00:00",
     "Local (Fazenda - Talhão)": "70408",
     "OS": "2707",
     "Frente": "261-PLANTIO MANUAL E CARPA",
     "Responsável": "MABILA HELEN D FIGUEIREDO",
     "Canteirização": "48",
-    "Fazenda": NaN
+    "Fazenda": null,
+    "Unnamed: 18": null
   },
   {
     "ID": "3909493",
@@ -131,14 +141,15 @@ const CANTEIRIZACAO_DATA = [
     "Status": "Aberto",
     "Score": "50,00",
     "Score perc.": "100",
-    "Score desc.": NaN,
+    "Score desc.": null,
     "Data Lançamento": "11/09/2026 00:00",
     "Local (Fazenda - Talhão)": "70408",
     "OS": "2707",
     "Frente": "261-PLANTIO MANUAL E CARPA",
     "Responsável": "MABILA HELEN D FIGUEIREDO",
     "Canteirização": "50",
-    "Fazenda": NaN
+    "Fazenda": null,
+    "Unnamed: 18": null
   },
   {
     "ID": "3909491",
@@ -151,14 +162,15 @@ const CANTEIRIZACAO_DATA = [
     "Status": "Aberto",
     "Score": "47,00",
     "Score perc.": "100",
-    "Score desc.": NaN,
+    "Score desc.": null,
     "Data Lançamento": "11/09/2026 00:00",
     "Local (Fazenda - Talhão)": "70408",
     "OS": "2707",
     "Frente": "261-PLANTIO MANUAL E CARPA",
     "Responsável": "MABILA HELEN D FIGUEIREDO",
     "Canteirização": "47",
-    "Fazenda": NaN
+    "Fazenda": null,
+    "Unnamed: 18": null
   },
   {
     "ID": "3909490",
@@ -171,14 +183,15 @@ const CANTEIRIZACAO_DATA = [
     "Status": "Aberto",
     "Score": "48,00",
     "Score perc.": "100",
-    "Score desc.": NaN,
+    "Score desc.": null,
     "Data Lançamento": "11/09/2026 00:00",
     "Local (Fazenda - Talhão)": "70408",
     "OS": "2707",
     "Frente": "261-PLANTIO MANUAL E CARPA",
     "Responsável": "MABILA HELEN D FIGUEIREDO",
     "Canteirização": "48",
-    "Fazenda": NaN
+    "Fazenda": null,
+    "Unnamed: 18": null
   },
   {
     "ID": "3909488",
@@ -191,14 +204,15 @@ const CANTEIRIZACAO_DATA = [
     "Status": "Aberto",
     "Score": "50,00",
     "Score perc.": "100",
-    "Score desc.": NaN,
+    "Score desc.": null,
     "Data Lançamento": "11/09/2026 00:00",
     "Local (Fazenda - Talhão)": "70408",
     "OS": "2707",
     "Frente": "261-PLANTIO MANUAL E CARPA",
     "Responsável": "MABILA HELEN D FIGUEIREDO",
     "Canteirização": "50",
-    "Fazenda": NaN
+    "Fazenda": null,
+    "Unnamed: 18": null
   },
   {
     "ID": "3909485",
@@ -211,14 +225,15 @@ const CANTEIRIZACAO_DATA = [
     "Status": "Aberto",
     "Score": "47,00",
     "Score perc.": "100",
-    "Score desc.": NaN,
+    "Score desc.": null,
     "Data Lançamento": "11/09/2026 00:00",
     "Local (Fazenda - Talhão)": "70408",
     "OS": "2707",
     "Frente": "261-PLANTIO MANUAL E CARPA",
     "Responsável": "MABILA HELEN D FIGUEIREDO",
     "Canteirização": "47",
-    "Fazenda": NaN
+    "Fazenda": null,
+    "Unnamed: 18": null
   },
   {
     "ID": "3909482",
@@ -231,14 +246,15 @@ const CANTEIRIZACAO_DATA = [
     "Status": "Aberto",
     "Score": "49,00",
     "Score perc.": "100",
-    "Score desc.": NaN,
+    "Score desc.": null,
     "Data Lançamento": "11/09/2026 00:00",
     "Local (Fazenda - Talhão)": "70408",
     "OS": "2707",
     "Frente": "261-PLANTIO MANUAL E CARPA",
     "Responsável": "MABILA HELEN D FIGUEIREDO",
     "Canteirização": "49",
-    "Fazenda": NaN
+    "Fazenda": null,
+    "Unnamed: 18": null
   },
   {
     "ID": "3909479",
@@ -251,14 +267,15 @@ const CANTEIRIZACAO_DATA = [
     "Status": "Aberto",
     "Score": "50,00",
     "Score perc.": "100",
-    "Score desc.": NaN,
+    "Score desc.": null,
     "Data Lançamento": "11/09/2026 00:00",
     "Local (Fazenda - Talhão)": "70408",
     "OS": "2707",
     "Frente": "261-PLANTIO MANUAL E CARPA",
     "Responsável": "MABILA HELEN D FIGUEIREDO",
     "Canteirização": "50",
-    "Fazenda": NaN
+    "Fazenda": null,
+    "Unnamed: 18": null
   },
   {
     "ID": "3906889",
@@ -271,14 +288,15 @@ const CANTEIRIZACAO_DATA = [
     "Status": "Aberto",
     "Score": "48,00",
     "Score perc.": "100",
-    "Score desc.": NaN,
+    "Score desc.": null,
     "Data Lançamento": "10/09/2026 00:00",
     "Local (Fazenda - Talhão)": "70408",
     "OS": "2707",
     "Frente": "261-PLANTIO MANUAL E CARPA",
     "Responsável": "MABILA HELEN D FIGUEIREDO",
     "Canteirização": "48",
-    "Fazenda": NaN
+    "Fazenda": null,
+    "Unnamed: 18": null
   },
   {
     "ID": "3906887",
@@ -291,14 +309,15 @@ const CANTEIRIZACAO_DATA = [
     "Status": "Aberto",
     "Score": "49,00",
     "Score perc.": "100",
-    "Score desc.": NaN,
+    "Score desc.": null,
     "Data Lançamento": "10/09/2026 00:00",
     "Local (Fazenda - Talhão)": "70408",
     "OS": "2707",
     "Frente": "261-PLANTIO MANUAL E CARPA",
     "Responsável": "MABILA HELEN D FIGUEIREDO",
     "Canteirização": "49",
-    "Fazenda": NaN
+    "Fazenda": null,
+    "Unnamed: 18": null
   },
   {
     "ID": "3906886",
@@ -311,14 +330,15 @@ const CANTEIRIZACAO_DATA = [
     "Status": "Aberto",
     "Score": "50,00",
     "Score perc.": "100",
-    "Score desc.": NaN,
+    "Score desc.": null,
     "Data Lançamento": "10/09/2026 00:00",
     "Local (Fazenda - Talhão)": "70408",
     "OS": "2707",
     "Frente": "261-PLANTIO MANUAL E CARPA",
     "Responsável": "MABILA HELEN D FIGUEIREDO",
     "Canteirização": "50",
-    "Fazenda": NaN
+    "Fazenda": null,
+    "Unnamed: 18": null
   },
   {
     "ID": "3906885",
@@ -331,14 +351,15 @@ const CANTEIRIZACAO_DATA = [
     "Status": "Aberto",
     "Score": "48,00",
     "Score perc.": "100",
-    "Score desc.": NaN,
+    "Score desc.": null,
     "Data Lançamento": "10/09/2026 00:00",
     "Local (Fazenda - Talhão)": "70408",
     "OS": "2707",
     "Frente": "261-PLANTIO MANUAL E CARPA",
     "Responsável": "MABILA HELEN D FIGUEIREDO",
     "Canteirização": "48",
-    "Fazenda": NaN
+    "Fazenda": null,
+    "Unnamed: 18": null
   },
   {
     "ID": "3906884",
@@ -351,14 +372,15 @@ const CANTEIRIZACAO_DATA = [
     "Status": "Aberto",
     "Score": "57,00",
     "Score perc.": "100",
-    "Score desc.": NaN,
+    "Score desc.": null,
     "Data Lançamento": "10/09/2026 00:00",
     "Local (Fazenda - Talhão)": "70408",
     "OS": "2707",
     "Frente": "261-PLANTIO MANUAL E CARPA",
     "Responsável": "MABILA HELEN D FIGUEIREDO",
     "Canteirização": "57",
-    "Fazenda": NaN
+    "Fazenda": null,
+    "Unnamed: 18": null
   },
   {
     "ID": "3906883",
@@ -371,14 +393,15 @@ const CANTEIRIZACAO_DATA = [
     "Status": "Aberto",
     "Score": "49,00",
     "Score perc.": "100",
-    "Score desc.": NaN,
+    "Score desc.": null,
     "Data Lançamento": "10/09/2026 00:00",
     "Local (Fazenda - Talhão)": "70408",
     "OS": "2707",
     "Frente": "261-PLANTIO MANUAL E CARPA",
     "Responsável": "MABILA HELEN D FIGUEIREDO",
     "Canteirização": "49",
-    "Fazenda": NaN
+    "Fazenda": null,
+    "Unnamed: 18": null
   },
   {
     "ID": "3906882",
@@ -391,14 +414,15 @@ const CANTEIRIZACAO_DATA = [
     "Status": "Aberto",
     "Score": "50,00",
     "Score perc.": "100",
-    "Score desc.": NaN,
+    "Score desc.": null,
     "Data Lançamento": "10/09/2026 00:00",
     "Local (Fazenda - Talhão)": "70408",
     "OS": "2707",
     "Frente": "261-PLANTIO MANUAL E CARPA",
     "Responsável": "MABILA HELEN D FIGUEIREDO",
     "Canteirização": "50",
-    "Fazenda": NaN
+    "Fazenda": null,
+    "Unnamed: 18": null
   },
   {
     "ID": "3906881",
@@ -411,14 +435,15 @@ const CANTEIRIZACAO_DATA = [
     "Status": "Aberto",
     "Score": "47,00",
     "Score perc.": "100",
-    "Score desc.": NaN,
+    "Score desc.": null,
     "Data Lançamento": "10/09/2026 00:00",
     "Local (Fazenda - Talhão)": "70408",
     "OS": "2707",
     "Frente": "261-PLANTIO MANUAL E CARPA",
     "Responsável": "MABILA HELEN D FIGUEIREDO",
     "Canteirização": "47",
-    "Fazenda": NaN
+    "Fazenda": null,
+    "Unnamed: 18": null
   },
   {
     "ID": "3906880",
@@ -431,14 +456,15 @@ const CANTEIRIZACAO_DATA = [
     "Status": "Aberto",
     "Score": "49,00",
     "Score perc.": "100",
-    "Score desc.": NaN,
+    "Score desc.": null,
     "Data Lançamento": "10/09/2026 00:00",
     "Local (Fazenda - Talhão)": "70408",
     "OS": "2707",
     "Frente": "261-PLANTIO MANUAL E CARPA",
     "Responsável": "MABILA HELEN D FIGUEIREDO",
     "Canteirização": "49",
-    "Fazenda": NaN
+    "Fazenda": null,
+    "Unnamed: 18": null
   },
   {
     "ID": "3906879",
@@ -451,14 +477,15 @@ const CANTEIRIZACAO_DATA = [
     "Status": "Aberto",
     "Score": "49,00",
     "Score perc.": "100",
-    "Score desc.": NaN,
+    "Score desc.": null,
     "Data Lançamento": "10/09/2026 00:00",
     "Local (Fazenda - Talhão)": "70408",
     "OS": "2707",
     "Frente": "261-PLANTIO MANUAL E CARPA",
     "Responsável": "MABILA HELEN D FIGUEIREDO",
     "Canteirização": "49",
-    "Fazenda": NaN
+    "Fazenda": null,
+    "Unnamed: 18": null
   },
   {
     "ID": "3906878",
@@ -471,14 +498,15 @@ const CANTEIRIZACAO_DATA = [
     "Status": "Aberto",
     "Score": "50,00",
     "Score perc.": "100",
-    "Score desc.": NaN,
+    "Score desc.": null,
     "Data Lançamento": "10/09/2026 00:00",
     "Local (Fazenda - Talhão)": "70408",
     "OS": "2707",
     "Frente": "261-PLANTIO MANUAL E CARPA",
     "Responsável": "MABILA HELEN D FIGUEIREDO",
     "Canteirização": "50",
-    "Fazenda": NaN
+    "Fazenda": null,
+    "Unnamed: 18": null
   },
   {
     "ID": "3904482",
@@ -491,14 +519,15 @@ const CANTEIRIZACAO_DATA = [
     "Status": "Aberto",
     "Score": "49,00",
     "Score perc.": "100",
-    "Score desc.": NaN,
+    "Score desc.": null,
     "Data Lançamento": "09/09/2026 00:00",
     "Local (Fazenda - Talhão)": "70408",
     "OS": "2707",
     "Frente": "261-PLANTIO MANUAL E CARPA",
     "Responsável": "MABILA HELEN D FIGUEIREDO",
     "Canteirização": "49",
-    "Fazenda": NaN
+    "Fazenda": null,
+    "Unnamed: 18": null
   },
   {
     "ID": "3904481",
@@ -511,14 +540,15 @@ const CANTEIRIZACAO_DATA = [
     "Status": "Aberto",
     "Score": "48,00",
     "Score perc.": "100",
-    "Score desc.": NaN,
+    "Score desc.": null,
     "Data Lançamento": "09/09/2026 00:00",
     "Local (Fazenda - Talhão)": "70408",
     "OS": "2707",
     "Frente": "261-PLANTIO MANUAL E CARPA",
     "Responsável": "MABILA HELEN D FIGUEIREDO",
     "Canteirização": "48",
-    "Fazenda": NaN
+    "Fazenda": null,
+    "Unnamed: 18": null
   },
   {
     "ID": "3904480",
@@ -531,14 +561,15 @@ const CANTEIRIZACAO_DATA = [
     "Status": "Aberto",
     "Score": "50,00",
     "Score perc.": "100",
-    "Score desc.": NaN,
+    "Score desc.": null,
     "Data Lançamento": "09/09/2026 00:00",
     "Local (Fazenda - Talhão)": "70408",
     "OS": "2707",
     "Frente": "261-PLANTIO MANUAL E CARPA",
     "Responsável": "MABILA HELEN D FIGUEIREDO",
     "Canteirização": "50",
-    "Fazenda": NaN
+    "Fazenda": null,
+    "Unnamed: 18": null
   },
   {
     "ID": "3904479",
@@ -551,14 +582,15 @@ const CANTEIRIZACAO_DATA = [
     "Status": "Aberto",
     "Score": "49,00",
     "Score perc.": "100",
-    "Score desc.": NaN,
+    "Score desc.": null,
     "Data Lançamento": "09/09/2026 00:00",
     "Local (Fazenda - Talhão)": "70408",
     "OS": "2707",
     "Frente": "261-PLANTIO MANUAL E CARPA",
     "Responsável": "MABILA HELEN D FIGUEIREDO",
     "Canteirização": "49",
-    "Fazenda": NaN
+    "Fazenda": null,
+    "Unnamed: 18": null
   },
   {
     "ID": "3904478",
@@ -571,14 +603,15 @@ const CANTEIRIZACAO_DATA = [
     "Status": "Aberto",
     "Score": "49,00",
     "Score perc.": "100",
-    "Score desc.": NaN,
+    "Score desc.": null,
     "Data Lançamento": "09/09/2026 00:00",
     "Local (Fazenda - Talhão)": "70408",
     "OS": "2707",
     "Frente": "261-PLANTIO MANUAL E CARPA",
     "Responsável": "MABILA HELEN D FIGUEIREDO",
     "Canteirização": "49",
-    "Fazenda": NaN
+    "Fazenda": null,
+    "Unnamed: 18": null
   },
   {
     "ID": "3904477",
@@ -591,14 +624,15 @@ const CANTEIRIZACAO_DATA = [
     "Status": "Aberto",
     "Score": "47,00",
     "Score perc.": "100",
-    "Score desc.": NaN,
+    "Score desc.": null,
     "Data Lançamento": "09/09/2026 00:00",
     "Local (Fazenda - Talhão)": "70408",
     "OS": "2707",
     "Frente": "261-PLANTIO MANUAL E CARPA",
     "Responsável": "MABILA HELEN D FIGUEIREDO",
     "Canteirização": "47",
-    "Fazenda": NaN
+    "Fazenda": null,
+    "Unnamed: 18": null
   },
   {
     "ID": "3904476",
@@ -611,14 +645,15 @@ const CANTEIRIZACAO_DATA = [
     "Status": "Aberto",
     "Score": "50,00",
     "Score perc.": "100",
-    "Score desc.": NaN,
+    "Score desc.": null,
     "Data Lançamento": "09/09/2026 00:00",
     "Local (Fazenda - Talhão)": "70408",
     "OS": "2707",
     "Frente": "261-PLANTIO MANUAL E CARPA",
     "Responsável": "MABILA HELEN D FIGUEIREDO",
     "Canteirização": "50",
-    "Fazenda": NaN
+    "Fazenda": null,
+    "Unnamed: 18": null
   },
   {
     "ID": "3904475",
@@ -631,14 +666,15 @@ const CANTEIRIZACAO_DATA = [
     "Status": "Aberto",
     "Score": "49,00",
     "Score perc.": "100",
-    "Score desc.": NaN,
+    "Score desc.": null,
     "Data Lançamento": "09/09/2026 00:00",
     "Local (Fazenda - Talhão)": "70408",
     "OS": "2707",
     "Frente": "261-PLANTIO MANUAL E CARPA",
     "Responsável": "MABILA HELEN D FIGUEIREDO",
     "Canteirização": "49",
-    "Fazenda": NaN
+    "Fazenda": null,
+    "Unnamed: 18": null
   },
   {
     "ID": "3904474",
@@ -651,14 +687,15 @@ const CANTEIRIZACAO_DATA = [
     "Status": "Aberto",
     "Score": "48,00",
     "Score perc.": "100",
-    "Score desc.": NaN,
+    "Score desc.": null,
     "Data Lançamento": "09/09/2026 00:00",
     "Local (Fazenda - Talhão)": "70408",
     "OS": "2707",
     "Frente": "261-PLANTIO MANUAL E CARPA",
     "Responsável": "MABILA HELEN D FIGUEIREDO",
     "Canteirização": "48",
-    "Fazenda": NaN
+    "Fazenda": null,
+    "Unnamed: 18": null
   },
   {
     "ID": "3904473",
@@ -671,14 +708,15 @@ const CANTEIRIZACAO_DATA = [
     "Status": "Aberto",
     "Score": "50,00",
     "Score perc.": "100",
-    "Score desc.": NaN,
+    "Score desc.": null,
     "Data Lançamento": "09/09/2026 00:00",
     "Local (Fazenda - Talhão)": "70408",
     "OS": "2707",
     "Frente": "261-PLANTIO MANUAL E CARPA",
     "Responsável": "MABILA HELEN D FIGUEIREDO",
     "Canteirização": "50",
-    "Fazenda": NaN
+    "Fazenda": null,
+    "Unnamed: 18": null
   },
   {
     "ID": "3902185",
@@ -691,14 +729,15 @@ const CANTEIRIZACAO_DATA = [
     "Status": "Aberto",
     "Score": "50,00",
     "Score perc.": "100",
-    "Score desc.": NaN,
+    "Score desc.": null,
     "Data Lançamento": "08/09/2026 00:00",
     "Local (Fazenda - Talhão)": "70408",
     "OS": "2707",
     "Frente": "261-PLANTIO MANUAL E CARPA",
     "Responsável": "MABILA HELEN D FIGUEIREDO",
     "Canteirização": "50",
-    "Fazenda": NaN
+    "Fazenda": null,
+    "Unnamed: 18": null
   },
   {
     "ID": "3902184",
@@ -711,14 +750,15 @@ const CANTEIRIZACAO_DATA = [
     "Status": "Aberto",
     "Score": "50,00",
     "Score perc.": "100",
-    "Score desc.": NaN,
+    "Score desc.": null,
     "Data Lançamento": "08/09/2026 00:00",
     "Local (Fazenda - Talhão)": "70408",
     "OS": "2707",
     "Frente": "261-PLANTIO MANUAL E CARPA",
     "Responsável": "MABILA HELEN D FIGUEIREDO",
     "Canteirização": "50",
-    "Fazenda": NaN
+    "Fazenda": null,
+    "Unnamed: 18": null
   },
   {
     "ID": "3902183",
@@ -731,14 +771,15 @@ const CANTEIRIZACAO_DATA = [
     "Status": "Aberto",
     "Score": "49,00",
     "Score perc.": "100",
-    "Score desc.": NaN,
+    "Score desc.": null,
     "Data Lançamento": "08/09/2026 00:00",
     "Local (Fazenda - Talhão)": "70408",
     "OS": "2707",
     "Frente": "261-PLANTIO MANUAL E CARPA",
     "Responsável": "MABILA HELEN D FIGUEIREDO",
     "Canteirização": "49",
-    "Fazenda": NaN
+    "Fazenda": null,
+    "Unnamed: 18": null
   },
   {
     "ID": "3902182",
@@ -751,14 +792,15 @@ const CANTEIRIZACAO_DATA = [
     "Status": "Aberto",
     "Score": "49,00",
     "Score perc.": "100",
-    "Score desc.": NaN,
+    "Score desc.": null,
     "Data Lançamento": "08/09/2026 00:00",
     "Local (Fazenda - Talhão)": "70408",
     "OS": "2707",
     "Frente": "261-PLANTIO MANUAL E CARPA",
     "Responsável": "MABILA HELEN D FIGUEIREDO",
     "Canteirização": "49",
-    "Fazenda": NaN
+    "Fazenda": null,
+    "Unnamed: 18": null
   },
   {
     "ID": "3902181",
@@ -771,14 +813,15 @@ const CANTEIRIZACAO_DATA = [
     "Status": "Aberto",
     "Score": "50,00",
     "Score perc.": "100",
-    "Score desc.": NaN,
+    "Score desc.": null,
     "Data Lançamento": "08/09/2026 00:00",
     "Local (Fazenda - Talhão)": "70408",
     "OS": "2707",
     "Frente": "261-PLANTIO MANUAL E CARPA",
     "Responsável": "MABILA HELEN D FIGUEIREDO",
     "Canteirização": "50",
-    "Fazenda": NaN
+    "Fazenda": null,
+    "Unnamed: 18": null
   },
   {
     "ID": "3902180",
@@ -791,14 +834,15 @@ const CANTEIRIZACAO_DATA = [
     "Status": "Aberto",
     "Score": "47,00",
     "Score perc.": "100",
-    "Score desc.": NaN,
+    "Score desc.": null,
     "Data Lançamento": "08/09/2026 00:00",
     "Local (Fazenda - Talhão)": "70408",
     "OS": "2707",
     "Frente": "261-PLANTIO MANUAL E CARPA",
     "Responsável": "MABILA HELEN D FIGUEIREDO",
     "Canteirização": "47",
-    "Fazenda": NaN
+    "Fazenda": null,
+    "Unnamed: 18": null
   },
   {
     "ID": "3902176",
@@ -811,14 +855,15 @@ const CANTEIRIZACAO_DATA = [
     "Status": "Aberto",
     "Score": "50,00",
     "Score perc.": "100",
-    "Score desc.": NaN,
+    "Score desc.": null,
     "Data Lançamento": "08/09/2026 00:00",
     "Local (Fazenda - Talhão)": "70408",
     "OS": "2707",
     "Frente": "261-PLANTIO MANUAL E CARPA",
     "Responsável": "MABILA HELEN D FIGUEIREDO",
     "Canteirização": "50",
-    "Fazenda": NaN
+    "Fazenda": null,
+    "Unnamed: 18": null
   },
   {
     "ID": "3902174",
@@ -831,14 +876,15 @@ const CANTEIRIZACAO_DATA = [
     "Status": "Aberto",
     "Score": "48,00",
     "Score perc.": "100",
-    "Score desc.": NaN,
+    "Score desc.": null,
     "Data Lançamento": "08/09/2026 00:00",
     "Local (Fazenda - Talhão)": "70408",
     "OS": "2707",
     "Frente": "261-PLANTIO MANUAL E CARPA",
     "Responsável": "MABILA HELEN D FIGUEIREDO",
     "Canteirização": "48",
-    "Fazenda": NaN
+    "Fazenda": null,
+    "Unnamed: 18": null
   },
   {
     "ID": "3902173",
@@ -851,14 +897,15 @@ const CANTEIRIZACAO_DATA = [
     "Status": "Aberto",
     "Score": "49,00",
     "Score perc.": "100",
-    "Score desc.": NaN,
+    "Score desc.": null,
     "Data Lançamento": "08/09/2026 00:00",
     "Local (Fazenda - Talhão)": "70408",
     "OS": "2707",
     "Frente": "261-PLANTIO MANUAL E CARPA",
     "Responsável": "MABILA HELEN D FIGUEIREDO",
     "Canteirização": "49",
-    "Fazenda": NaN
+    "Fazenda": null,
+    "Unnamed: 18": null
   },
   {
     "ID": "3902172",
@@ -871,14 +918,15 @@ const CANTEIRIZACAO_DATA = [
     "Status": "Aberto",
     "Score": "50,00",
     "Score perc.": "100",
-    "Score desc.": NaN,
+    "Score desc.": null,
     "Data Lançamento": "08/09/2026 00:00",
     "Local (Fazenda - Talhão)": "70408",
     "OS": "2707",
     "Frente": "261-PLANTIO MANUAL E CARPA",
     "Responsável": "MABILA HELEN D FIGUEIREDO",
     "Canteirização": "50",
-    "Fazenda": NaN
+    "Fazenda": null,
+    "Unnamed: 18": null
   },
   {
     "ID": "3900463",
@@ -891,14 +939,15 @@ const CANTEIRIZACAO_DATA = [
     "Status": "Aberto",
     "Score": "47,00",
     "Score perc.": "100",
-    "Score desc.": NaN,
+    "Score desc.": null,
     "Data Lançamento": "07/09/2026 00:00",
     "Local (Fazenda - Talhão)": "70408",
     "OS": "2707",
     "Frente": "102-PLANTIO MANUAL (PITAA)",
     "Responsável": "REGINALDO DA SILVA GOMES ",
     "Canteirização": "47",
-    "Fazenda": NaN
+    "Fazenda": null,
+    "Unnamed: 18": null
   },
   {
     "ID": "3900462",
@@ -911,14 +960,15 @@ const CANTEIRIZACAO_DATA = [
     "Status": "Aberto",
     "Score": "40,00",
     "Score perc.": "100",
-    "Score desc.": NaN,
+    "Score desc.": null,
     "Data Lançamento": "07/09/2026 00:00",
     "Local (Fazenda - Talhão)": "70408",
     "OS": "2707",
     "Frente": "102-PLANTIO MANUAL (PITAA)",
     "Responsável": "REGINALDO DA SILVA GOMES ",
     "Canteirização": "40",
-    "Fazenda": NaN
+    "Fazenda": null,
+    "Unnamed: 18": null
   },
   {
     "ID": "3900461",
@@ -931,14 +981,15 @@ const CANTEIRIZACAO_DATA = [
     "Status": "Aberto",
     "Score": "50,00",
     "Score perc.": "100",
-    "Score desc.": NaN,
+    "Score desc.": null,
     "Data Lançamento": "07/09/2026 00:00",
     "Local (Fazenda - Talhão)": "70408",
     "OS": "2707",
     "Frente": "102-PLANTIO MANUAL (PITAA)",
     "Responsável": "REGINALDO DA SILVA GOMES ",
     "Canteirização": "50",
-    "Fazenda": NaN
+    "Fazenda": null,
+    "Unnamed: 18": null
   },
   {
     "ID": "3900460",
@@ -951,14 +1002,15 @@ const CANTEIRIZACAO_DATA = [
     "Status": "Aberto",
     "Score": "49,00",
     "Score perc.": "100",
-    "Score desc.": NaN,
+    "Score desc.": null,
     "Data Lançamento": "07/09/2026 00:00",
     "Local (Fazenda - Talhão)": "70408",
     "OS": "2707",
     "Frente": "102-PLANTIO MANUAL (PITAA)",
     "Responsável": "REGINALDO DA SILVA GOMES ",
     "Canteirização": "49",
-    "Fazenda": NaN
+    "Fazenda": null,
+    "Unnamed: 18": null
   },
   {
     "ID": "3900454",
@@ -971,14 +1023,15 @@ const CANTEIRIZACAO_DATA = [
     "Status": "Aberto",
     "Score": "41,00",
     "Score perc.": "100",
-    "Score desc.": NaN,
+    "Score desc.": null,
     "Data Lançamento": "07/09/2026 00:00",
     "Local (Fazenda - Talhão)": "70408",
     "OS": "2707",
     "Frente": "102-PLANTIO MANUAL (PITAA)",
     "Responsável": "REGINALDO DA SILVA GOMES ",
     "Canteirização": "41",
-    "Fazenda": NaN
+    "Fazenda": null,
+    "Unnamed: 18": null
   },
   {
     "ID": "3896263",
@@ -991,14 +1044,15 @@ const CANTEIRIZACAO_DATA = [
     "Status": "Aberto",
     "Score": "49,00",
     "Score perc.": "100",
-    "Score desc.": NaN,
+    "Score desc.": null,
     "Data Lançamento": "04/09/2026 00:00",
     "Local (Fazenda - Talhão)": "52501",
     "OS": "2598",
     "Frente": "261-PLANTIO MANUAL E CARPA",
     "Responsável": "MABILA HELEN D FIGUEIREDO",
     "Canteirização": "49",
-    "Fazenda": NaN
+    "Fazenda": null,
+    "Unnamed: 18": null
   },
   {
     "ID": "3896262",
@@ -1011,14 +1065,15 @@ const CANTEIRIZACAO_DATA = [
     "Status": "Aberto",
     "Score": "47,00",
     "Score perc.": "100",
-    "Score desc.": NaN,
+    "Score desc.": null,
     "Data Lançamento": "04/09/2026 00:00",
     "Local (Fazenda - Talhão)": "52501",
     "OS": "2598",
     "Frente": "261-PLANTIO MANUAL E CARPA",
     "Responsável": "MABILA HELEN D FIGUEIREDO",
     "Canteirização": "47",
-    "Fazenda": NaN
+    "Fazenda": null,
+    "Unnamed: 18": null
   },
   {
     "ID": "3896139",
@@ -1031,14 +1086,15 @@ const CANTEIRIZACAO_DATA = [
     "Status": "Aberto",
     "Score": "43,00",
     "Score perc.": "100",
-    "Score desc.": NaN,
+    "Score desc.": null,
     "Data Lançamento": "04/09/2026 00:00",
     "Local (Fazenda - Talhão)": "52501",
     "OS": "2598",
     "Frente": "102-PLANTIO MANUAL (PITAA)",
     "Responsável": "REGINALDO DA SILVA GOMES ",
     "Canteirização": "43",
-    "Fazenda": NaN
+    "Fazenda": null,
+    "Unnamed: 18": null
   },
   {
     "ID": "3896261",
@@ -1051,14 +1107,15 @@ const CANTEIRIZACAO_DATA = [
     "Status": "Aberto",
     "Score": "46,00",
     "Score perc.": "100",
-    "Score desc.": NaN,
+    "Score desc.": null,
     "Data Lançamento": "04/09/2026 00:00",
     "Local (Fazenda - Talhão)": "52501",
     "OS": "2598",
     "Frente": "261-PLANTIO MANUAL E CARPA",
     "Responsável": "MABILA HELEN D FIGUEIREDO",
     "Canteirização": "46",
-    "Fazenda": NaN
+    "Fazenda": null,
+    "Unnamed: 18": null
   },
   {
     "ID": "3896138",
@@ -1071,14 +1128,15 @@ const CANTEIRIZACAO_DATA = [
     "Status": "Aberto",
     "Score": "40,00",
     "Score perc.": "100",
-    "Score desc.": NaN,
+    "Score desc.": null,
     "Data Lançamento": "04/09/2026 00:00",
     "Local (Fazenda - Talhão)": "52501",
     "OS": "2598",
     "Frente": "102-PLANTIO MANUAL (PITAA)",
     "Responsável": "REGINALDO DA SILVA GOMES ",
     "Canteirização": "40",
-    "Fazenda": NaN
+    "Fazenda": null,
+    "Unnamed: 18": null
   },
   {
     "ID": "3896260",
@@ -1091,14 +1149,15 @@ const CANTEIRIZACAO_DATA = [
     "Status": "Aberto",
     "Score": "48,00",
     "Score perc.": "100",
-    "Score desc.": NaN,
+    "Score desc.": null,
     "Data Lançamento": "04/09/2026 00:00",
     "Local (Fazenda - Talhão)": "52501",
     "OS": "2598",
     "Frente": "261-PLANTIO MANUAL E CARPA",
     "Responsável": "MABILA HELEN D FIGUEIREDO",
     "Canteirização": "48",
-    "Fazenda": NaN
+    "Fazenda": null,
+    "Unnamed: 18": null
   },
   {
     "ID": "3896259",
@@ -1111,14 +1170,15 @@ const CANTEIRIZACAO_DATA = [
     "Status": "Aberto",
     "Score": "47,00",
     "Score perc.": "100",
-    "Score desc.": NaN,
+    "Score desc.": null,
     "Data Lançamento": "04/09/2026 00:00",
     "Local (Fazenda - Talhão)": "52501",
     "OS": "2598",
     "Frente": "261-PLANTIO MANUAL E CARPA",
     "Responsável": "MABILA HELEN D FIGUEIREDO",
     "Canteirização": "47",
-    "Fazenda": NaN
+    "Fazenda": null,
+    "Unnamed: 18": null
   },
   {
     "ID": "3896137",
@@ -1131,14 +1191,15 @@ const CANTEIRIZACAO_DATA = [
     "Status": "Aberto",
     "Score": "44,00",
     "Score perc.": "100",
-    "Score desc.": NaN,
+    "Score desc.": null,
     "Data Lançamento": "04/09/2026 00:00",
     "Local (Fazenda - Talhão)": "52501",
     "OS": "2598",
     "Frente": "102-PLANTIO MANUAL (PITAA)",
     "Responsável": "REGINALDO DA SILVA GOMES ",
     "Canteirização": "44",
-    "Fazenda": NaN
+    "Fazenda": null,
+    "Unnamed: 18": null
   },
   {
     "ID": "3896258",
@@ -1151,14 +1212,15 @@ const CANTEIRIZACAO_DATA = [
     "Status": "Aberto",
     "Score": "49,00",
     "Score perc.": "100",
-    "Score desc.": NaN,
+    "Score desc.": null,
     "Data Lançamento": "04/09/2026 00:00",
     "Local (Fazenda - Talhão)": "52501",
     "OS": "2598",
     "Frente": "261-PLANTIO MANUAL E CARPA",
     "Responsável": "MABILA HELEN D FIGUEIREDO",
     "Canteirização": "49",
-    "Fazenda": NaN
+    "Fazenda": null,
+    "Unnamed: 18": null
   },
   {
     "ID": "3896257",
@@ -1171,14 +1233,15 @@ const CANTEIRIZACAO_DATA = [
     "Status": "Aberto",
     "Score": "50,00",
     "Score perc.": "100",
-    "Score desc.": NaN,
+    "Score desc.": null,
     "Data Lançamento": "04/09/2026 00:00",
     "Local (Fazenda - Talhão)": "52501",
     "OS": "2598",
     "Frente": "261-PLANTIO MANUAL E CARPA",
     "Responsável": "MABILA HELEN D FIGUEIREDO",
     "Canteirização": "50",
-    "Fazenda": NaN
+    "Fazenda": null,
+    "Unnamed: 18": null
   },
   {
     "ID": "3896256",
@@ -1191,14 +1254,15 @@ const CANTEIRIZACAO_DATA = [
     "Status": "Aberto",
     "Score": "48,00",
     "Score perc.": "100",
-    "Score desc.": NaN,
+    "Score desc.": null,
     "Data Lançamento": "04/09/2026 00:00",
     "Local (Fazenda - Talhão)": "52501",
     "OS": "2598",
     "Frente": "261-PLANTIO MANUAL E CARPA",
     "Responsável": "MABILA HELEN D FIGUEIREDO",
     "Canteirização": "48",
-    "Fazenda": NaN
+    "Fazenda": null,
+    "Unnamed: 18": null
   },
   {
     "ID": "3893596",
@@ -1211,14 +1275,15 @@ const CANTEIRIZACAO_DATA = [
     "Status": "Aberto",
     "Score": "50,00",
     "Score perc.": "100",
-    "Score desc.": NaN,
+    "Score desc.": null,
     "Data Lançamento": "03/09/2026 00:00",
     "Local (Fazenda - Talhão)": "52501",
     "OS": "2598",
     "Frente": "261-PLANTIO MANUAL E CARPA",
     "Responsável": "MABILA HELEN D FIGUEIREDO",
     "Canteirização": "50",
-    "Fazenda": NaN
+    "Fazenda": null,
+    "Unnamed: 18": null
   },
   {
     "ID": "3893595",
@@ -1231,14 +1296,15 @@ const CANTEIRIZACAO_DATA = [
     "Status": "Aberto",
     "Score": "50,00",
     "Score perc.": "100",
-    "Score desc.": NaN,
+    "Score desc.": null,
     "Data Lançamento": "03/09/2026 00:00",
     "Local (Fazenda - Talhão)": "52501",
     "OS": "2598",
     "Frente": "261-PLANTIO MANUAL E CARPA",
     "Responsável": "MABILA HELEN D FIGUEIREDO",
     "Canteirização": "50",
-    "Fazenda": NaN
+    "Fazenda": null,
+    "Unnamed: 18": null
   },
   {
     "ID": "3893594",
@@ -1251,14 +1317,15 @@ const CANTEIRIZACAO_DATA = [
     "Status": "Aberto",
     "Score": "46,00",
     "Score perc.": "100",
-    "Score desc.": NaN,
+    "Score desc.": null,
     "Data Lançamento": "03/09/2026 00:00",
     "Local (Fazenda - Talhão)": "52501",
     "OS": "2598",
     "Frente": "261-PLANTIO MANUAL E CARPA",
     "Responsável": "MABILA HELEN D FIGUEIREDO",
     "Canteirização": "46",
-    "Fazenda": NaN
+    "Fazenda": null,
+    "Unnamed: 18": null
   },
   {
     "ID": "3893593",
@@ -1271,14 +1338,15 @@ const CANTEIRIZACAO_DATA = [
     "Status": "Aberto",
     "Score": "49,00",
     "Score perc.": "100",
-    "Score desc.": NaN,
+    "Score desc.": null,
     "Data Lançamento": "03/09/2026 00:00",
     "Local (Fazenda - Talhão)": "52501",
     "OS": "2598",
     "Frente": "261-PLANTIO MANUAL E CARPA",
     "Responsável": "MABILA HELEN D FIGUEIREDO",
     "Canteirização": "49",
-    "Fazenda": NaN
+    "Fazenda": null,
+    "Unnamed: 18": null
   },
   {
     "ID": "3893592",
@@ -1291,14 +1359,15 @@ const CANTEIRIZACAO_DATA = [
     "Status": "Aberto",
     "Score": "47,00",
     "Score perc.": "100",
-    "Score desc.": NaN,
+    "Score desc.": null,
     "Data Lançamento": "03/09/2026 00:00",
     "Local (Fazenda - Talhão)": "52501",
     "OS": "2598",
     "Frente": "261-PLANTIO MANUAL E CARPA",
     "Responsável": "MABILA HELEN D FIGUEIREDO",
     "Canteirização": "47",
-    "Fazenda": NaN
+    "Fazenda": null,
+    "Unnamed: 18": null
   },
   {
     "ID": "3893591",
@@ -1311,14 +1380,15 @@ const CANTEIRIZACAO_DATA = [
     "Status": "Aberto",
     "Score": "48,00",
     "Score perc.": "100",
-    "Score desc.": NaN,
+    "Score desc.": null,
     "Data Lançamento": "03/09/2026 00:00",
     "Local (Fazenda - Talhão)": "52501",
     "OS": "2598",
     "Frente": "261-PLANTIO MANUAL E CARPA",
     "Responsável": "MABILA HELEN D FIGUEIREDO",
     "Canteirização": "48",
-    "Fazenda": NaN
+    "Fazenda": null,
+    "Unnamed: 18": null
   },
   {
     "ID": "3893590",
@@ -1331,14 +1401,15 @@ const CANTEIRIZACAO_DATA = [
     "Status": "Aberto",
     "Score": "49,00",
     "Score perc.": "100",
-    "Score desc.": NaN,
+    "Score desc.": null,
     "Data Lançamento": "03/09/2026 00:00",
     "Local (Fazenda - Talhão)": "52501",
     "OS": "2598",
     "Frente": "261-PLANTIO MANUAL E CARPA",
     "Responsável": "MABILA HELEN D FIGUEIREDO",
     "Canteirização": "49",
-    "Fazenda": NaN
+    "Fazenda": null,
+    "Unnamed: 18": null
   },
   {
     "ID": "3893589",
@@ -1351,14 +1422,15 @@ const CANTEIRIZACAO_DATA = [
     "Status": "Aberto",
     "Score": "47,00",
     "Score perc.": "100",
-    "Score desc.": NaN,
+    "Score desc.": null,
     "Data Lançamento": "03/09/2026 00:00",
     "Local (Fazenda - Talhão)": "52501",
     "OS": "2598",
     "Frente": "261-PLANTIO MANUAL E CARPA",
     "Responsável": "MABILA HELEN D FIGUEIREDO",
     "Canteirização": "47",
-    "Fazenda": NaN
+    "Fazenda": null,
+    "Unnamed: 18": null
   },
   {
     "ID": "3893588",
@@ -1371,14 +1443,15 @@ const CANTEIRIZACAO_DATA = [
     "Status": "Aberto",
     "Score": "47,00",
     "Score perc.": "100",
-    "Score desc.": NaN,
+    "Score desc.": null,
     "Data Lançamento": "03/09/2026 00:00",
     "Local (Fazenda - Talhão)": "52501",
     "OS": "2598",
     "Frente": "261-PLANTIO MANUAL E CARPA",
     "Responsável": "MABILA HELEN D FIGUEIREDO",
     "Canteirização": "47",
-    "Fazenda": NaN
+    "Fazenda": null,
+    "Unnamed: 18": null
   },
   {
     "ID": "3893587",
@@ -1391,14 +1464,15 @@ const CANTEIRIZACAO_DATA = [
     "Status": "Aberto",
     "Score": "50,00",
     "Score perc.": "100",
-    "Score desc.": NaN,
+    "Score desc.": null,
     "Data Lançamento": "03/09/2026 00:00",
     "Local (Fazenda - Talhão)": "52501",
     "OS": "2598",
     "Frente": "261-PLANTIO MANUAL E CARPA",
     "Responsável": "MABILA HELEN D FIGUEIREDO",
     "Canteirização": "50",
-    "Fazenda": NaN
+    "Fazenda": null,
+    "Unnamed: 18": null
   },
   {
     "ID": "3893586",
@@ -1411,14 +1485,15 @@ const CANTEIRIZACAO_DATA = [
     "Status": "Aberto",
     "Score": "48,00",
     "Score perc.": "100",
-    "Score desc.": NaN,
+    "Score desc.": null,
     "Data Lançamento": "03/09/2026 00:00",
     "Local (Fazenda - Talhão)": "52501",
     "OS": "2598",
     "Frente": "261-PLANTIO MANUAL E CARPA",
     "Responsável": "MABILA HELEN D FIGUEIREDO",
     "Canteirização": "48",
-    "Fazenda": NaN
+    "Fazenda": null,
+    "Unnamed: 18": null
   },
   {
     "ID": "3893585",
@@ -1431,14 +1506,15 @@ const CANTEIRIZACAO_DATA = [
     "Status": "Aberto",
     "Score": "46,00",
     "Score perc.": "100",
-    "Score desc.": NaN,
+    "Score desc.": null,
     "Data Lançamento": "03/09/2026 00:00",
     "Local (Fazenda - Talhão)": "52501",
     "OS": "2598",
     "Frente": "261-PLANTIO MANUAL E CARPA",
     "Responsável": "MABILA HELEN D FIGUEIREDO",
     "Canteirização": "46",
-    "Fazenda": NaN
+    "Fazenda": null,
+    "Unnamed: 18": null
   },
   {
     "ID": "3889489",
@@ -1451,14 +1527,15 @@ const CANTEIRIZACAO_DATA = [
     "Status": "Aberto",
     "Score": "45,00",
     "Score perc.": "100",
-    "Score desc.": NaN,
+    "Score desc.": null,
     "Data Lançamento": "01/09/2026 00:00",
     "Local (Fazenda - Talhão)": "52501",
     "OS": "2598",
     "Frente": "102-PLANTIO MANUAL (PITAA)",
     "Responsável": "REGINALDO DA SILVA GOMES ",
     "Canteirização": "45",
-    "Fazenda": NaN
+    "Fazenda": null,
+    "Unnamed: 18": null
   },
   {
     "ID": "3889488",
@@ -1471,14 +1548,15 @@ const CANTEIRIZACAO_DATA = [
     "Status": "Aberto",
     "Score": "41,00",
     "Score perc.": "100",
-    "Score desc.": NaN,
+    "Score desc.": null,
     "Data Lançamento": "01/09/2026 00:00",
     "Local (Fazenda - Talhão)": "52501",
     "OS": "2598",
     "Frente": "102-PLANTIO MANUAL (PITAA)",
     "Responsável": "REGINALDO DA SILVA GOMES ",
     "Canteirização": "41",
-    "Fazenda": NaN
+    "Fazenda": null,
+    "Unnamed: 18": null
   },
   {
     "ID": "3889487",
@@ -1491,14 +1569,15 @@ const CANTEIRIZACAO_DATA = [
     "Status": "Aberto",
     "Score": "40,00",
     "Score perc.": "100",
-    "Score desc.": NaN,
+    "Score desc.": null,
     "Data Lançamento": "01/09/2026 00:00",
     "Local (Fazenda - Talhão)": "52501",
     "OS": "2598",
     "Frente": "102-PLANTIO MANUAL (PITAA)",
     "Responsável": "REGINALDO DA SILVA GOMES ",
     "Canteirização": "40",
-    "Fazenda": NaN
+    "Fazenda": null,
+    "Unnamed: 18": null
   },
   {
     "ID": "3886968",
@@ -1511,14 +1590,15 @@ const CANTEIRIZACAO_DATA = [
     "Status": "Aberto",
     "Score": "51,00",
     "Score perc.": "100",
-    "Score desc.": NaN,
+    "Score desc.": null,
     "Data Lançamento": "31/08/2026 00:00",
     "Local (Fazenda - Talhão)": "52501",
     "OS": "2598",
     "Frente": "261-PLANTIO MANUAL E CARPA",
     "Responsável": "EDILIANA CARDOSO DA COSTA",
     "Canteirização": "51",
-    "Fazenda": NaN
+    "Fazenda": null,
+    "Unnamed: 18": null
   },
   {
     "ID": "3886967",
@@ -1531,14 +1611,15 @@ const CANTEIRIZACAO_DATA = [
     "Status": "Aberto",
     "Score": "51,00",
     "Score perc.": "100",
-    "Score desc.": NaN,
+    "Score desc.": null,
     "Data Lançamento": "31/08/2026 00:00",
     "Local (Fazenda - Talhão)": "52501",
     "OS": "2598",
     "Frente": "261-PLANTIO MANUAL E CARPA",
     "Responsável": "EDILIANA CARDOSO DA COSTA",
     "Canteirização": "51",
-    "Fazenda": NaN
+    "Fazenda": null,
+    "Unnamed: 18": null
   },
   {
     "ID": "3886965",
@@ -1551,14 +1632,15 @@ const CANTEIRIZACAO_DATA = [
     "Status": "Aberto",
     "Score": "43,00",
     "Score perc.": "100",
-    "Score desc.": NaN,
+    "Score desc.": null,
     "Data Lançamento": "31/08/2026 00:00",
     "Local (Fazenda - Talhão)": "52501",
     "OS": "2598",
     "Frente": "261-PLANTIO MANUAL E CARPA",
     "Responsável": "EDILIANA CARDOSO DA COSTA",
     "Canteirização": "43",
-    "Fazenda": NaN
+    "Fazenda": null,
+    "Unnamed: 18": null
   },
   {
     "ID": "3886964",
@@ -1571,14 +1653,15 @@ const CANTEIRIZACAO_DATA = [
     "Status": "Aberto",
     "Score": "50,00",
     "Score perc.": "100",
-    "Score desc.": NaN,
+    "Score desc.": null,
     "Data Lançamento": "31/08/2026 00:00",
     "Local (Fazenda - Talhão)": "52501",
     "OS": "2598",
     "Frente": "261-PLANTIO MANUAL E CARPA",
     "Responsável": "EDILIANA CARDOSO DA COSTA",
     "Canteirização": "50",
-    "Fazenda": NaN
+    "Fazenda": null,
+    "Unnamed: 18": null
   },
   {
     "ID": "3886963",
@@ -1591,14 +1674,15 @@ const CANTEIRIZACAO_DATA = [
     "Status": "Aberto",
     "Score": "54,00",
     "Score perc.": "100",
-    "Score desc.": NaN,
+    "Score desc.": null,
     "Data Lançamento": "31/08/2026 00:00",
     "Local (Fazenda - Talhão)": "52501",
     "OS": "2598",
     "Frente": "261-PLANTIO MANUAL E CARPA",
     "Responsável": "EDILIANA CARDOSO DA COSTA",
     "Canteirização": "54",
-    "Fazenda": NaN
+    "Fazenda": null,
+    "Unnamed: 18": null
   },
   {
     "ID": "3886962",
@@ -1611,14 +1695,15 @@ const CANTEIRIZACAO_DATA = [
     "Status": "Aberto",
     "Score": "46,00",
     "Score perc.": "100",
-    "Score desc.": NaN,
+    "Score desc.": null,
     "Data Lançamento": "31/08/2026 00:00",
     "Local (Fazenda - Talhão)": "52501",
     "OS": "2598",
     "Frente": "261-PLANTIO MANUAL E CARPA",
     "Responsável": "EDILIANA CARDOSO DA COSTA",
     "Canteirização": "46",
-    "Fazenda": NaN
+    "Fazenda": null,
+    "Unnamed: 18": null
   },
   {
     "ID": "3886960",
@@ -1631,14 +1716,15 @@ const CANTEIRIZACAO_DATA = [
     "Status": "Aberto",
     "Score": "54,00",
     "Score perc.": "100",
-    "Score desc.": NaN,
+    "Score desc.": null,
     "Data Lançamento": "31/08/2026 00:00",
     "Local (Fazenda - Talhão)": "52501",
     "OS": "2598",
     "Frente": "261-PLANTIO MANUAL E CARPA",
     "Responsável": "EDILIANA CARDOSO DA COSTA",
     "Canteirização": "54",
-    "Fazenda": NaN
+    "Fazenda": null,
+    "Unnamed: 18": null
   },
   {
     "ID": "3886959",
@@ -1651,14 +1737,15 @@ const CANTEIRIZACAO_DATA = [
     "Status": "Aberto",
     "Score": "44,00",
     "Score perc.": "100",
-    "Score desc.": NaN,
+    "Score desc.": null,
     "Data Lançamento": "31/08/2026 00:00",
     "Local (Fazenda - Talhão)": "52501",
     "OS": "2598",
     "Frente": "261-PLANTIO MANUAL E CARPA",
     "Responsável": "EDILIANA CARDOSO DA COSTA",
     "Canteirização": "44",
-    "Fazenda": NaN
+    "Fazenda": null,
+    "Unnamed: 18": null
   },
   {
     "ID": "3886958",
@@ -1671,14 +1758,15 @@ const CANTEIRIZACAO_DATA = [
     "Status": "Aberto",
     "Score": "50,00",
     "Score perc.": "100",
-    "Score desc.": NaN,
+    "Score desc.": null,
     "Data Lançamento": "31/08/2026 00:00",
     "Local (Fazenda - Talhão)": "52501",
     "OS": "2598",
     "Frente": "261-PLANTIO MANUAL E CARPA",
     "Responsável": "EDILIANA CARDOSO DA COSTA",
     "Canteirização": "50",
-    "Fazenda": NaN
+    "Fazenda": null,
+    "Unnamed: 18": null
   },
   {
     "ID": "3883369",
@@ -1691,14 +1779,15 @@ const CANTEIRIZACAO_DATA = [
     "Status": "Aberto",
     "Score": "46,00",
     "Score perc.": "100",
-    "Score desc.": NaN,
+    "Score desc.": null,
     "Data Lançamento": "29/08/2026 00:00",
     "Local (Fazenda - Talhão)": "36807",
     "OS": "2557",
     "Frente": "261-PLANTIO MANUAL E CARPA",
     "Responsável": "MABILA HELEN D FIGUEIREDO",
     "Canteirização": "46",
-    "Fazenda": NaN
+    "Fazenda": null,
+    "Unnamed: 18": null
   },
   {
     "ID": "3883368",
@@ -1711,14 +1800,15 @@ const CANTEIRIZACAO_DATA = [
     "Status": "Aberto",
     "Score": "48,00",
     "Score perc.": "100",
-    "Score desc.": NaN,
+    "Score desc.": null,
     "Data Lançamento": "29/08/2026 00:00",
     "Local (Fazenda - Talhão)": "36807",
     "OS": "2557",
     "Frente": "261-PLANTIO MANUAL E CARPA",
     "Responsável": "MABILA HELEN D FIGUEIREDO",
     "Canteirização": "48",
-    "Fazenda": NaN
+    "Fazenda": null,
+    "Unnamed: 18": null
   },
   {
     "ID": "3883367",
@@ -1731,14 +1821,15 @@ const CANTEIRIZACAO_DATA = [
     "Status": "Aberto",
     "Score": "50,00",
     "Score perc.": "100",
-    "Score desc.": NaN,
+    "Score desc.": null,
     "Data Lançamento": "29/08/2026 00:00",
     "Local (Fazenda - Talhão)": "36807",
     "OS": "2557",
     "Frente": "261-PLANTIO MANUAL E CARPA",
     "Responsável": "MABILA HELEN D FIGUEIREDO",
     "Canteirização": "50",
-    "Fazenda": NaN
+    "Fazenda": null,
+    "Unnamed: 18": null
   },
   {
     "ID": "3883366",
@@ -1751,14 +1842,15 @@ const CANTEIRIZACAO_DATA = [
     "Status": "Aberto",
     "Score": "47,00",
     "Score perc.": "100",
-    "Score desc.": NaN,
+    "Score desc.": null,
     "Data Lançamento": "29/08/2026 00:00",
     "Local (Fazenda - Talhão)": "36807",
     "OS": "2557",
     "Frente": "261-PLANTIO MANUAL E CARPA",
     "Responsável": "MABILA HELEN D FIGUEIREDO",
     "Canteirização": "47",
-    "Fazenda": NaN
+    "Fazenda": null,
+    "Unnamed: 18": null
   },
   {
     "ID": "3883365",
@@ -1771,14 +1863,15 @@ const CANTEIRIZACAO_DATA = [
     "Status": "Aberto",
     "Score": "50,00",
     "Score perc.": "100",
-    "Score desc.": NaN,
+    "Score desc.": null,
     "Data Lançamento": "29/08/2026 00:00",
     "Local (Fazenda - Talhão)": "36807",
     "OS": "2557",
     "Frente": "261-PLANTIO MANUAL E CARPA",
     "Responsável": "MABILA HELEN D FIGUEIREDO",
     "Canteirização": "50",
-    "Fazenda": NaN
+    "Fazenda": null,
+    "Unnamed: 18": null
   },
   {
     "ID": "3883364",
@@ -1791,14 +1884,15 @@ const CANTEIRIZACAO_DATA = [
     "Status": "Aberto",
     "Score": "41,00",
     "Score perc.": "100",
-    "Score desc.": NaN,
+    "Score desc.": null,
     "Data Lançamento": "29/08/2026 00:00",
     "Local (Fazenda - Talhão)": "36807",
     "OS": "2557",
     "Frente": "261-PLANTIO MANUAL E CARPA",
     "Responsável": "MABILA HELEN D FIGUEIREDO",
     "Canteirização": "41",
-    "Fazenda": NaN
+    "Fazenda": null,
+    "Unnamed: 18": null
   },
   {
     "ID": "3880295",
@@ -1811,14 +1905,15 @@ const CANTEIRIZACAO_DATA = [
     "Status": "Aberto",
     "Score": "62,00",
     "Score perc.": "100",
-    "Score desc.": NaN,
+    "Score desc.": null,
     "Data Lançamento": "28/08/2026 00:00",
     "Local (Fazenda - Talhão)": "36801",
     "OS": "2555",
     "Frente": "261-PLANTIO MANUAL E CARPA",
     "Responsável": "EDILIANA CARDOSO DA COSTA",
     "Canteirização": "62",
-    "Fazenda": NaN
+    "Fazenda": null,
+    "Unnamed: 18": null
   },
   {
     "ID": "3880294",
@@ -1831,14 +1926,15 @@ const CANTEIRIZACAO_DATA = [
     "Status": "Aberto",
     "Score": "49,00",
     "Score perc.": "100",
-    "Score desc.": NaN,
+    "Score desc.": null,
     "Data Lançamento": "28/08/2026 00:00",
     "Local (Fazenda - Talhão)": "36801",
     "OS": "2555",
     "Frente": "261-PLANTIO MANUAL E CARPA",
     "Responsável": "EDILIANA CARDOSO DA COSTA",
     "Canteirização": "49",
-    "Fazenda": NaN
+    "Fazenda": null,
+    "Unnamed: 18": null
   },
   {
     "ID": "3880293",
@@ -1851,14 +1947,15 @@ const CANTEIRIZACAO_DATA = [
     "Status": "Aberto",
     "Score": "52,00",
     "Score perc.": "100",
-    "Score desc.": NaN,
+    "Score desc.": null,
     "Data Lançamento": "28/08/2026 00:00",
     "Local (Fazenda - Talhão)": "36801",
     "OS": "2555",
     "Frente": "261-PLANTIO MANUAL E CARPA",
     "Responsável": "EDILIANA CARDOSO DA COSTA",
     "Canteirização": "52",
-    "Fazenda": NaN
+    "Fazenda": null,
+    "Unnamed: 18": null
   },
   {
     "ID": "3880292",
@@ -1871,14 +1968,15 @@ const CANTEIRIZACAO_DATA = [
     "Status": "Aberto",
     "Score": "51,00",
     "Score perc.": "100",
-    "Score desc.": NaN,
+    "Score desc.": null,
     "Data Lançamento": "28/08/2026 00:00",
     "Local (Fazenda - Talhão)": "36801",
     "OS": "2555",
     "Frente": "261-PLANTIO MANUAL E CARPA",
     "Responsável": "EDILIANA CARDOSO DA COSTA",
     "Canteirização": "51",
-    "Fazenda": NaN
+    "Fazenda": null,
+    "Unnamed: 18": null
   },
   {
     "ID": "3880291",
@@ -1891,14 +1989,15 @@ const CANTEIRIZACAO_DATA = [
     "Status": "Aberto",
     "Score": "46,00",
     "Score perc.": "100",
-    "Score desc.": NaN,
+    "Score desc.": null,
     "Data Lançamento": "28/08/2026 00:00",
     "Local (Fazenda - Talhão)": "36801",
     "OS": "2555",
     "Frente": "261-PLANTIO MANUAL E CARPA",
     "Responsável": "EDILIANA CARDOSO DA COSTA",
     "Canteirização": "46",
-    "Fazenda": NaN
+    "Fazenda": null,
+    "Unnamed: 18": null
   },
   {
     "ID": "3880290",
@@ -1911,14 +2010,15 @@ const CANTEIRIZACAO_DATA = [
     "Status": "Aberto",
     "Score": "51,00",
     "Score perc.": "100",
-    "Score desc.": NaN,
+    "Score desc.": null,
     "Data Lançamento": "28/08/2026 00:00",
     "Local (Fazenda - Talhão)": "36801",
     "OS": "2555",
     "Frente": "261-PLANTIO MANUAL E CARPA",
     "Responsável": "EDILIANA CARDOSO DA COSTA",
     "Canteirização": "51",
-    "Fazenda": NaN
+    "Fazenda": null,
+    "Unnamed: 18": null
   },
   {
     "ID": "3880289",
@@ -1931,14 +2031,15 @@ const CANTEIRIZACAO_DATA = [
     "Status": "Aberto",
     "Score": "63,00",
     "Score perc.": "100",
-    "Score desc.": NaN,
+    "Score desc.": null,
     "Data Lançamento": "28/08/2026 00:00",
     "Local (Fazenda - Talhão)": "36801",
     "OS": "2555",
     "Frente": "261-PLANTIO MANUAL E CARPA",
     "Responsável": "EDILIANA CARDOSO DA COSTA",
     "Canteirização": "63",
-    "Fazenda": NaN
+    "Fazenda": null,
+    "Unnamed: 18": null
   },
   {
     "ID": "3880288",
@@ -1951,14 +2052,15 @@ const CANTEIRIZACAO_DATA = [
     "Status": "Aberto",
     "Score": "65,00",
     "Score perc.": "100",
-    "Score desc.": NaN,
+    "Score desc.": null,
     "Data Lançamento": "28/08/2026 00:00",
     "Local (Fazenda - Talhão)": "36801",
     "OS": "2555",
     "Frente": "261-PLANTIO MANUAL E CARPA",
     "Responsável": "EDILIANA CARDOSO DA COSTA",
     "Canteirização": "65",
-    "Fazenda": NaN
+    "Fazenda": null,
+    "Unnamed: 18": null
   },
   {
     "ID": "3880287",
@@ -1971,14 +2073,15 @@ const CANTEIRIZACAO_DATA = [
     "Status": "Aberto",
     "Score": "42,00",
     "Score perc.": "100",
-    "Score desc.": NaN,
+    "Score desc.": null,
     "Data Lançamento": "28/08/2026 00:00",
     "Local (Fazenda - Talhão)": "36801",
     "OS": "2555",
     "Frente": "261-PLANTIO MANUAL E CARPA",
     "Responsável": "EDILIANA CARDOSO DA COSTA",
     "Canteirização": "42",
-    "Fazenda": NaN
+    "Fazenda": null,
+    "Unnamed: 18": null
   },
   {
     "ID": "3880286",
@@ -1991,14 +2094,15 @@ const CANTEIRIZACAO_DATA = [
     "Status": "Aberto",
     "Score": "61,00",
     "Score perc.": "100",
-    "Score desc.": NaN,
+    "Score desc.": null,
     "Data Lançamento": "28/08/2026 00:00",
     "Local (Fazenda - Talhão)": "36801",
     "OS": "2555",
     "Frente": "261-PLANTIO MANUAL E CARPA",
     "Responsável": "EDILIANA CARDOSO DA COSTA",
     "Canteirização": "61",
-    "Fazenda": NaN
+    "Fazenda": null,
+    "Unnamed: 18": null
   },
   {
     "ID": "3880284",
@@ -2011,14 +2115,15 @@ const CANTEIRIZACAO_DATA = [
     "Status": "Aberto",
     "Score": "64,00",
     "Score perc.": "100",
-    "Score desc.": NaN,
+    "Score desc.": null,
     "Data Lançamento": "28/08/2026 00:00",
     "Local (Fazenda - Talhão)": "36801",
     "OS": "2555",
     "Frente": "261-PLANTIO MANUAL E CARPA",
     "Responsável": "EDILIANA CARDOSO DA COSTA",
     "Canteirização": "64",
-    "Fazenda": NaN
+    "Fazenda": null,
+    "Unnamed: 18": null
   },
   {
     "ID": "3880283",
@@ -2031,14 +2136,15 @@ const CANTEIRIZACAO_DATA = [
     "Status": "Aberto",
     "Score": "58,00",
     "Score perc.": "100",
-    "Score desc.": NaN,
+    "Score desc.": null,
     "Data Lançamento": "28/08/2026 00:00",
     "Local (Fazenda - Talhão)": "36801",
     "OS": "2555",
     "Frente": "261-PLANTIO MANUAL E CARPA",
     "Responsável": "EDILIANA CARDOSO DA COSTA",
     "Canteirização": "58",
-    "Fazenda": NaN
+    "Fazenda": null,
+    "Unnamed: 18": null
   },
   {
     "ID": "3880282",
@@ -2051,14 +2157,15 @@ const CANTEIRIZACAO_DATA = [
     "Status": "Aberto",
     "Score": "50,00",
     "Score perc.": "100",
-    "Score desc.": NaN,
+    "Score desc.": null,
     "Data Lançamento": "28/08/2026 00:00",
     "Local (Fazenda - Talhão)": "36801",
     "OS": "2555",
     "Frente": "261-PLANTIO MANUAL E CARPA",
     "Responsável": "EDILIANA CARDOSO DA COSTA",
     "Canteirização": "50",
-    "Fazenda": NaN
+    "Fazenda": null,
+    "Unnamed: 18": null
   },
   {
     "ID": "3877952",
@@ -2071,14 +2178,15 @@ const CANTEIRIZACAO_DATA = [
     "Status": "Aberto",
     "Score": "50,00",
     "Score perc.": "100",
-    "Score desc.": NaN,
+    "Score desc.": null,
     "Data Lançamento": "27/08/2026 00:00",
     "Local (Fazenda - Talhão)": "36807",
     "OS": "2557",
     "Frente": "261-PLANTIO MANUAL E CARPA",
     "Responsável": "MABILA HELEN D FIGUEIREDO",
     "Canteirização": "50",
-    "Fazenda": NaN
+    "Fazenda": null,
+    "Unnamed: 18": null
   },
   {
     "ID": "3877951",
@@ -2091,14 +2199,15 @@ const CANTEIRIZACAO_DATA = [
     "Status": "Aberto",
     "Score": "50,00",
     "Score perc.": "100",
-    "Score desc.": NaN,
+    "Score desc.": null,
     "Data Lançamento": "27/08/2026 00:00",
     "Local (Fazenda - Talhão)": "36807",
     "OS": "2557",
     "Frente": "261-PLANTIO MANUAL E CARPA",
     "Responsável": "MABILA HELEN D FIGUEIREDO",
     "Canteirização": "50",
-    "Fazenda": NaN
+    "Fazenda": null,
+    "Unnamed: 18": null
   },
   {
     "ID": "3877950",
@@ -2111,14 +2220,15 @@ const CANTEIRIZACAO_DATA = [
     "Status": "Aberto",
     "Score": "46,00",
     "Score perc.": "100",
-    "Score desc.": NaN,
+    "Score desc.": null,
     "Data Lançamento": "27/08/2026 00:00",
     "Local (Fazenda - Talhão)": "36807",
     "OS": "2557",
     "Frente": "261-PLANTIO MANUAL E CARPA",
     "Responsável": "MABILA HELEN D FIGUEIREDO",
     "Canteirização": "46",
-    "Fazenda": NaN
+    "Fazenda": null,
+    "Unnamed: 18": null
   },
   {
     "ID": "3877949",
@@ -2131,14 +2241,15 @@ const CANTEIRIZACAO_DATA = [
     "Status": "Aberto",
     "Score": "48,00",
     "Score perc.": "100",
-    "Score desc.": NaN,
+    "Score desc.": null,
     "Data Lançamento": "27/08/2026 00:00",
     "Local (Fazenda - Talhão)": "36807",
     "OS": "2557",
     "Frente": "261-PLANTIO MANUAL E CARPA",
     "Responsável": "MABILA HELEN D FIGUEIREDO",
     "Canteirização": "48",
-    "Fazenda": NaN
+    "Fazenda": null,
+    "Unnamed: 18": null
   },
   {
     "ID": "3877948",
@@ -2151,14 +2262,15 @@ const CANTEIRIZACAO_DATA = [
     "Status": "Aberto",
     "Score": "49,00",
     "Score perc.": "100",
-    "Score desc.": NaN,
+    "Score desc.": null,
     "Data Lançamento": "27/08/2026 00:00",
     "Local (Fazenda - Talhão)": "36807",
     "OS": "2557",
     "Frente": "261-PLANTIO MANUAL E CARPA",
     "Responsável": "MABILA HELEN D FIGUEIREDO",
     "Canteirização": "49",
-    "Fazenda": NaN
+    "Fazenda": null,
+    "Unnamed: 18": null
   },
   {
     "ID": "3877947",
@@ -2171,14 +2283,15 @@ const CANTEIRIZACAO_DATA = [
     "Status": "Aberto",
     "Score": "49,00",
     "Score perc.": "100",
-    "Score desc.": NaN,
+    "Score desc.": null,
     "Data Lançamento": "27/08/2026 00:00",
     "Local (Fazenda - Talhão)": "36807",
     "OS": "2557",
     "Frente": "261-PLANTIO MANUAL E CARPA",
     "Responsável": "MABILA HELEN D FIGUEIREDO",
     "Canteirização": "49",
-    "Fazenda": NaN
+    "Fazenda": null,
+    "Unnamed: 18": null
   },
   {
     "ID": "3877946",
@@ -2191,14 +2304,15 @@ const CANTEIRIZACAO_DATA = [
     "Status": "Aberto",
     "Score": "47,00",
     "Score perc.": "100",
-    "Score desc.": NaN,
+    "Score desc.": null,
     "Data Lançamento": "27/08/2026 00:00",
     "Local (Fazenda - Talhão)": "36807",
     "OS": "2557",
     "Frente": "261-PLANTIO MANUAL E CARPA",
     "Responsável": "MABILA HELEN D FIGUEIREDO",
     "Canteirização": "47",
-    "Fazenda": NaN
+    "Fazenda": null,
+    "Unnamed: 18": null
   },
   {
     "ID": "3877945",
@@ -2211,14 +2325,15 @@ const CANTEIRIZACAO_DATA = [
     "Status": "Aberto",
     "Score": "50,00",
     "Score perc.": "100",
-    "Score desc.": NaN,
+    "Score desc.": null,
     "Data Lançamento": "27/08/2026 00:00",
     "Local (Fazenda - Talhão)": "36807",
     "OS": "2557",
     "Frente": "261-PLANTIO MANUAL E CARPA",
     "Responsável": "MABILA HELEN D FIGUEIREDO",
     "Canteirização": "50",
-    "Fazenda": NaN
+    "Fazenda": null,
+    "Unnamed: 18": null
   },
   {
     "ID": "3877944",
@@ -2231,14 +2346,15 @@ const CANTEIRIZACAO_DATA = [
     "Status": "Aberto",
     "Score": "47,00",
     "Score perc.": "100",
-    "Score desc.": NaN,
+    "Score desc.": null,
     "Data Lançamento": "27/08/2026 00:00",
     "Local (Fazenda - Talhão)": "36807",
     "OS": "2557",
     "Frente": "261-PLANTIO MANUAL E CARPA",
     "Responsável": "MABILA HELEN D FIGUEIREDO",
     "Canteirização": "47",
-    "Fazenda": NaN
+    "Fazenda": null,
+    "Unnamed: 18": null
   },
   {
     "ID": "3877943",
@@ -2251,14 +2367,15 @@ const CANTEIRIZACAO_DATA = [
     "Status": "Aberto",
     "Score": "50,00",
     "Score perc.": "100",
-    "Score desc.": NaN,
+    "Score desc.": null,
     "Data Lançamento": "27/08/2026 00:00",
     "Local (Fazenda - Talhão)": "36807",
     "OS": "2557",
     "Frente": "261-PLANTIO MANUAL E CARPA",
     "Responsável": "MABILA HELEN D FIGUEIREDO",
     "Canteirização": "50",
-    "Fazenda": NaN
+    "Fazenda": null,
+    "Unnamed: 18": null
   },
   {
     "ID": "3877748",
@@ -2271,14 +2388,15 @@ const CANTEIRIZACAO_DATA = [
     "Status": "Aberto",
     "Score": "50,00",
     "Score perc.": "100",
-    "Score desc.": NaN,
+    "Score desc.": null,
     "Data Lançamento": "26/08/2026 00:00",
     "Local (Fazenda - Talhão)": "36807",
     "OS": "2557",
     "Frente": "261-PLANTIO MANUAL E CARPA",
     "Responsável": "MABILA HELEN D FIGUEIREDO",
     "Canteirização": "50",
-    "Fazenda": NaN
+    "Fazenda": null,
+    "Unnamed: 18": null
   },
   {
     "ID": "3877747",
@@ -2291,14 +2409,15 @@ const CANTEIRIZACAO_DATA = [
     "Status": "Aberto",
     "Score": "49,00",
     "Score perc.": "100",
-    "Score desc.": NaN,
+    "Score desc.": null,
     "Data Lançamento": "26/08/2026 00:00",
     "Local (Fazenda - Talhão)": "36807",
     "OS": "2557",
     "Frente": "261-PLANTIO MANUAL E CARPA",
     "Responsável": "MABILA HELEN D FIGUEIREDO",
     "Canteirização": "49",
-    "Fazenda": NaN
+    "Fazenda": null,
+    "Unnamed: 18": null
   },
   {
     "ID": "3875228",
@@ -2311,14 +2430,15 @@ const CANTEIRIZACAO_DATA = [
     "Status": "Aberto",
     "Score": "47,00",
     "Score perc.": "100",
-    "Score desc.": NaN,
+    "Score desc.": null,
     "Data Lançamento": "26/08/2026 00:00",
     "Local (Fazenda - Talhão)": "36807",
     "OS": "2557",
     "Frente": "261-PLANTIO MANUAL E CARPA",
     "Responsável": "MABILA HELEN D FIGUEIREDO",
     "Canteirização": "47",
-    "Fazenda": NaN
+    "Fazenda": null,
+    "Unnamed: 18": null
   },
   {
     "ID": "3875227",
@@ -2331,14 +2451,15 @@ const CANTEIRIZACAO_DATA = [
     "Status": "Aberto",
     "Score": "50,00",
     "Score perc.": "100",
-    "Score desc.": NaN,
+    "Score desc.": null,
     "Data Lançamento": "26/08/2026 00:00",
     "Local (Fazenda - Talhão)": "36807",
     "OS": "2557",
     "Frente": "261-PLANTIO MANUAL E CARPA",
     "Responsável": "MABILA HELEN D FIGUEIREDO",
     "Canteirização": "50",
-    "Fazenda": NaN
+    "Fazenda": null,
+    "Unnamed: 18": null
   },
   {
     "ID": "3875225",
@@ -2351,14 +2472,15 @@ const CANTEIRIZACAO_DATA = [
     "Status": "Aberto",
     "Score": "45,00",
     "Score perc.": "100",
-    "Score desc.": NaN,
+    "Score desc.": null,
     "Data Lançamento": "26/08/2026 00:00",
     "Local (Fazenda - Talhão)": "36807",
     "OS": "2557",
     "Frente": "261-PLANTIO MANUAL E CARPA",
     "Responsável": "MABILA HELEN D FIGUEIREDO",
     "Canteirização": "45",
-    "Fazenda": NaN
+    "Fazenda": null,
+    "Unnamed: 18": null
   },
   {
     "ID": "3875215",
@@ -2371,14 +2493,15 @@ const CANTEIRIZACAO_DATA = [
     "Status": "Aberto",
     "Score": "46,00",
     "Score perc.": "100",
-    "Score desc.": NaN,
+    "Score desc.": null,
     "Data Lançamento": "26/08/2026 00:00",
     "Local (Fazenda - Talhão)": "36807",
     "OS": "2557",
     "Frente": "261-PLANTIO MANUAL E CARPA",
     "Responsável": "MABILA HELEN D FIGUEIREDO",
     "Canteirização": "46",
-    "Fazenda": NaN
+    "Fazenda": null,
+    "Unnamed: 18": null
   },
   {
     "ID": "3875210",
@@ -2391,14 +2514,15 @@ const CANTEIRIZACAO_DATA = [
     "Status": "Aberto",
     "Score": "45,00",
     "Score perc.": "100",
-    "Score desc.": NaN,
+    "Score desc.": null,
     "Data Lançamento": "26/08/2026 00:00",
     "Local (Fazenda - Talhão)": "36807",
     "OS": "2557",
     "Frente": "261-PLANTIO MANUAL E CARPA",
     "Responsável": "MABILA HELEN D FIGUEIREDO",
     "Canteirização": "45",
-    "Fazenda": NaN
+    "Fazenda": null,
+    "Unnamed: 18": null
   },
   {
     "ID": "3875205",
@@ -2411,14 +2535,15 @@ const CANTEIRIZACAO_DATA = [
     "Status": "Aberto",
     "Score": "43,00",
     "Score perc.": "100",
-    "Score desc.": NaN,
+    "Score desc.": null,
     "Data Lançamento": "26/08/2026 00:00",
     "Local (Fazenda - Talhão)": "36807",
     "OS": "2557",
     "Frente": "261-PLANTIO MANUAL E CARPA",
     "Responsável": "MABILA HELEN D FIGUEIREDO",
     "Canteirização": "43",
-    "Fazenda": NaN
+    "Fazenda": null,
+    "Unnamed: 18": null
   },
   {
     "ID": "3875203",
@@ -2431,14 +2556,15 @@ const CANTEIRIZACAO_DATA = [
     "Status": "Aberto",
     "Score": "46,00",
     "Score perc.": "100",
-    "Score desc.": NaN,
+    "Score desc.": null,
     "Data Lançamento": "26/08/2026 00:00",
     "Local (Fazenda - Talhão)": "36807",
     "OS": "2557",
     "Frente": "261-PLANTIO MANUAL E CARPA",
     "Responsável": "MABILA HELEN D FIGUEIREDO",
     "Canteirização": "46",
-    "Fazenda": NaN
+    "Fazenda": null,
+    "Unnamed: 18": null
   },
   {
     "ID": "3875199",
@@ -2451,14 +2577,15 @@ const CANTEIRIZACAO_DATA = [
     "Status": "Aberto",
     "Score": "47,00",
     "Score perc.": "100",
-    "Score desc.": NaN,
+    "Score desc.": null,
     "Data Lançamento": "26/08/2026 00:00",
     "Local (Fazenda - Talhão)": "36807",
     "OS": "2557",
     "Frente": "261-PLANTIO MANUAL E CARPA",
     "Responsável": "MABILA HELEN D FIGUEIREDO",
     "Canteirização": "47",
-    "Fazenda": NaN
+    "Fazenda": null,
+    "Unnamed: 18": null
   },
   {
     "ID": "3875196",
@@ -2471,14 +2598,15 @@ const CANTEIRIZACAO_DATA = [
     "Status": "Aberto",
     "Score": "45,00",
     "Score perc.": "100",
-    "Score desc.": NaN,
+    "Score desc.": null,
     "Data Lançamento": "26/08/2026 00:00",
     "Local (Fazenda - Talhão)": "36807",
     "OS": "2557",
     "Frente": "261-PLANTIO MANUAL E CARPA",
     "Responsável": "MABILA HELEN D FIGUEIREDO",
     "Canteirização": "45",
-    "Fazenda": NaN
+    "Fazenda": null,
+    "Unnamed: 18": null
   },
   {
     "ID": "3875195",
@@ -2491,14 +2619,15 @@ const CANTEIRIZACAO_DATA = [
     "Status": "Aberto",
     "Score": "44,00",
     "Score perc.": "100",
-    "Score desc.": NaN,
+    "Score desc.": null,
     "Data Lançamento": "26/08/2026 00:00",
     "Local (Fazenda - Talhão)": "36807",
     "OS": "2557",
     "Frente": "261-PLANTIO MANUAL E CARPA",
     "Responsável": "MABILA HELEN D FIGUEIREDO",
     "Canteirização": "44",
-    "Fazenda": NaN
+    "Fazenda": null,
+    "Unnamed: 18": null
   },
   {
     "ID": "3872199",
@@ -2511,14 +2640,15 @@ const CANTEIRIZACAO_DATA = [
     "Status": "Aberto",
     "Score": "43,00",
     "Score perc.": "100",
-    "Score desc.": NaN,
+    "Score desc.": null,
     "Data Lançamento": "25/08/2026 00:00",
     "Local (Fazenda - Talhão)": "53201",
     "OS": "2532",
     "Frente": "261-PLANTIO MANUAL E CARPA",
     "Responsável": "MABILA HELEN D FIGUEIREDO",
     "Canteirização": "43",
-    "Fazenda": NaN
+    "Fazenda": null,
+    "Unnamed: 18": null
   },
   {
     "ID": "3872198",
@@ -2531,14 +2661,15 @@ const CANTEIRIZACAO_DATA = [
     "Status": "Aberto",
     "Score": "47,00",
     "Score perc.": "100",
-    "Score desc.": NaN,
+    "Score desc.": null,
     "Data Lançamento": "25/08/2026 00:00",
     "Local (Fazenda - Talhão)": "53201",
     "OS": "2532",
     "Frente": "261-PLANTIO MANUAL E CARPA",
     "Responsável": "MABILA HELEN D FIGUEIREDO",
     "Canteirização": "47",
-    "Fazenda": NaN
+    "Fazenda": null,
+    "Unnamed: 18": null
   },
   {
     "ID": "3872197",
@@ -2551,14 +2682,15 @@ const CANTEIRIZACAO_DATA = [
     "Status": "Aberto",
     "Score": "45,00",
     "Score perc.": "100",
-    "Score desc.": NaN,
+    "Score desc.": null,
     "Data Lançamento": "25/08/2026 00:00",
     "Local (Fazenda - Talhão)": "53201",
     "OS": "2532",
     "Frente": "261-PLANTIO MANUAL E CARPA",
     "Responsável": "MABILA HELEN D FIGUEIREDO",
     "Canteirização": "45",
-    "Fazenda": NaN
+    "Fazenda": null,
+    "Unnamed: 18": null
   },
   {
     "ID": "3872196",
@@ -2571,14 +2703,15 @@ const CANTEIRIZACAO_DATA = [
     "Status": "Aberto",
     "Score": "45,00",
     "Score perc.": "100",
-    "Score desc.": NaN,
+    "Score desc.": null,
     "Data Lançamento": "25/08/2026 00:00",
     "Local (Fazenda - Talhão)": "53201",
     "OS": "2532",
     "Frente": "261-PLANTIO MANUAL E CARPA",
     "Responsável": "MABILA HELEN D FIGUEIREDO",
     "Canteirização": "45",
-    "Fazenda": NaN
+    "Fazenda": null,
+    "Unnamed: 18": null
   },
   {
     "ID": "3872263",
@@ -2591,14 +2724,15 @@ const CANTEIRIZACAO_DATA = [
     "Status": "Aberto",
     "Score": "45,00",
     "Score perc.": "100",
-    "Score desc.": NaN,
+    "Score desc.": null,
     "Data Lançamento": "25/08/2026 00:00",
     "Local (Fazenda - Talhão)": "53201",
     "OS": "2532",
     "Frente": "261-PLANTIO MANUAL E CARPA",
     "Responsável": "REGINALDO DA SILVA GOMES ",
     "Canteirização": "45",
-    "Fazenda": NaN
+    "Fazenda": null,
+    "Unnamed: 18": null
   },
   {
     "ID": "3872195",
@@ -2611,14 +2745,15 @@ const CANTEIRIZACAO_DATA = [
     "Status": "Aberto",
     "Score": "42,00",
     "Score perc.": "100",
-    "Score desc.": NaN,
+    "Score desc.": null,
     "Data Lançamento": "25/08/2026 00:00",
     "Local (Fazenda - Talhão)": "53201",
     "OS": "2532",
     "Frente": "261-PLANTIO MANUAL E CARPA",
     "Responsável": "MABILA HELEN D FIGUEIREDO",
     "Canteirização": "42",
-    "Fazenda": NaN
+    "Fazenda": null,
+    "Unnamed: 18": null
   },
   {
     "ID": "3872194",
@@ -2631,14 +2766,15 @@ const CANTEIRIZACAO_DATA = [
     "Status": "Aberto",
     "Score": "46,00",
     "Score perc.": "100",
-    "Score desc.": NaN,
+    "Score desc.": null,
     "Data Lançamento": "25/08/2026 00:00",
     "Local (Fazenda - Talhão)": "53201",
     "OS": "2532",
     "Frente": "261-PLANTIO MANUAL E CARPA",
     "Responsável": "MABILA HELEN D FIGUEIREDO",
     "Canteirização": "46",
-    "Fazenda": NaN
+    "Fazenda": null,
+    "Unnamed: 18": null
   },
   {
     "ID": "3872262",
@@ -2651,14 +2787,15 @@ const CANTEIRIZACAO_DATA = [
     "Status": "Aberto",
     "Score": "48,00",
     "Score perc.": "100",
-    "Score desc.": NaN,
+    "Score desc.": null,
     "Data Lançamento": "25/08/2026 00:00",
     "Local (Fazenda - Talhão)": "53201",
     "OS": "2532",
     "Frente": "261-PLANTIO MANUAL E CARPA",
     "Responsável": "REGINALDO DA SILVA GOMES ",
     "Canteirização": "48",
-    "Fazenda": NaN
+    "Fazenda": null,
+    "Unnamed: 18": null
   },
   {
     "ID": "3872261",
@@ -2671,14 +2808,15 @@ const CANTEIRIZACAO_DATA = [
     "Status": "Aberto",
     "Score": "43,00",
     "Score perc.": "100",
-    "Score desc.": NaN,
+    "Score desc.": null,
     "Data Lançamento": "25/08/2026 00:00",
     "Local (Fazenda - Talhão)": "53201",
     "OS": "2532",
     "Frente": "261-PLANTIO MANUAL E CARPA",
     "Responsável": "REGINALDO DA SILVA GOMES ",
     "Canteirização": "43",
-    "Fazenda": NaN
+    "Fazenda": null,
+    "Unnamed: 18": null
   },
   {
     "ID": "3872193",
@@ -2691,14 +2829,15 @@ const CANTEIRIZACAO_DATA = [
     "Status": "Aberto",
     "Score": "43,00",
     "Score perc.": "100",
-    "Score desc.": NaN,
+    "Score desc.": null,
     "Data Lançamento": "25/08/2026 00:00",
     "Local (Fazenda - Talhão)": "53201",
     "OS": "2532",
     "Frente": "261-PLANTIO MANUAL E CARPA",
     "Responsável": "MABILA HELEN D FIGUEIREDO",
     "Canteirização": "43",
-    "Fazenda": NaN
+    "Fazenda": null,
+    "Unnamed: 18": null
   },
   {
     "ID": "3872192",
@@ -2711,14 +2850,15 @@ const CANTEIRIZACAO_DATA = [
     "Status": "Aberto",
     "Score": "44,00",
     "Score perc.": "100",
-    "Score desc.": NaN,
+    "Score desc.": null,
     "Data Lançamento": "25/08/2026 00:00",
     "Local (Fazenda - Talhão)": "53201",
     "OS": "2532",
     "Frente": "261-PLANTIO MANUAL E CARPA",
     "Responsável": "MABILA HELEN D FIGUEIREDO",
     "Canteirização": "44",
-    "Fazenda": NaN
+    "Fazenda": null,
+    "Unnamed: 18": null
   },
   {
     "ID": "3870143",
@@ -2731,14 +2871,15 @@ const CANTEIRIZACAO_DATA = [
     "Status": "Aberto",
     "Score": "45,00",
     "Score perc.": "100",
-    "Score desc.": NaN,
+    "Score desc.": null,
     "Data Lançamento": "24/08/2026 00:00",
     "Local (Fazenda - Talhão)": "53201",
     "OS": "2532",
     "Frente": "261-PLANTIO MANUAL E CARPA",
     "Responsável": "MABILA HELEN D FIGUEIREDO",
     "Canteirização": "45",
-    "Fazenda": NaN
+    "Fazenda": null,
+    "Unnamed: 18": null
   },
   {
     "ID": "3870142",
@@ -2751,14 +2892,15 @@ const CANTEIRIZACAO_DATA = [
     "Status": "Aberto",
     "Score": "46,00",
     "Score perc.": "100",
-    "Score desc.": NaN,
+    "Score desc.": null,
     "Data Lançamento": "24/08/2026 00:00",
     "Local (Fazenda - Talhão)": "53201",
     "OS": "2532",
     "Frente": "261-PLANTIO MANUAL E CARPA",
     "Responsável": "MABILA HELEN D FIGUEIREDO",
     "Canteirização": "46",
-    "Fazenda": NaN
+    "Fazenda": null,
+    "Unnamed: 18": null
   },
   {
     "ID": "3870141",
@@ -2771,14 +2913,15 @@ const CANTEIRIZACAO_DATA = [
     "Status": "Aberto",
     "Score": "47,00",
     "Score perc.": "100",
-    "Score desc.": NaN,
+    "Score desc.": null,
     "Data Lançamento": "24/08/2026 00:00",
     "Local (Fazenda - Talhão)": "53201",
     "OS": "2532",
     "Frente": "261-PLANTIO MANUAL E CARPA",
     "Responsável": "MABILA HELEN D FIGUEIREDO",
     "Canteirização": "47",
-    "Fazenda": NaN
+    "Fazenda": null,
+    "Unnamed: 18": null
   },
   {
     "ID": "3870140",
@@ -2791,14 +2934,15 @@ const CANTEIRIZACAO_DATA = [
     "Status": "Aberto",
     "Score": "43,00",
     "Score perc.": "100",
-    "Score desc.": NaN,
+    "Score desc.": null,
     "Data Lançamento": "24/08/2026 00:00",
     "Local (Fazenda - Talhão)": "53201",
     "OS": "2532",
     "Frente": "261-PLANTIO MANUAL E CARPA",
     "Responsável": "MABILA HELEN D FIGUEIREDO",
     "Canteirização": "43",
-    "Fazenda": NaN
+    "Fazenda": null,
+    "Unnamed: 18": null
   },
   {
     "ID": "3870139",
@@ -2811,14 +2955,15 @@ const CANTEIRIZACAO_DATA = [
     "Status": "Aberto",
     "Score": "48,00",
     "Score perc.": "100",
-    "Score desc.": NaN,
+    "Score desc.": null,
     "Data Lançamento": "24/08/2026 00:00",
     "Local (Fazenda - Talhão)": "53201",
     "OS": "2532",
     "Frente": "261-PLANTIO MANUAL E CARPA",
     "Responsável": "MABILA HELEN D FIGUEIREDO",
     "Canteirização": "48",
-    "Fazenda": NaN
+    "Fazenda": null,
+    "Unnamed: 18": null
   },
   {
     "ID": "3870138",
@@ -2831,14 +2976,15 @@ const CANTEIRIZACAO_DATA = [
     "Status": "Aberto",
     "Score": "48,00",
     "Score perc.": "100",
-    "Score desc.": NaN,
+    "Score desc.": null,
     "Data Lançamento": "24/08/2026 00:00",
     "Local (Fazenda - Talhão)": "53201",
     "OS": "2532",
     "Frente": "261-PLANTIO MANUAL E CARPA",
     "Responsável": "MABILA HELEN D FIGUEIREDO",
     "Canteirização": "48",
-    "Fazenda": NaN
+    "Fazenda": null,
+    "Unnamed: 18": null
   },
   {
     "ID": "3870137",
@@ -2851,14 +2997,15 @@ const CANTEIRIZACAO_DATA = [
     "Status": "Aberto",
     "Score": "44,00",
     "Score perc.": "100",
-    "Score desc.": NaN,
+    "Score desc.": null,
     "Data Lançamento": "24/08/2026 00:00",
     "Local (Fazenda - Talhão)": "53201",
     "OS": "2532",
     "Frente": "261-PLANTIO MANUAL E CARPA",
     "Responsável": "MABILA HELEN D FIGUEIREDO",
     "Canteirização": "44",
-    "Fazenda": NaN
+    "Fazenda": null,
+    "Unnamed: 18": null
   },
   {
     "ID": "3870136",
@@ -2871,14 +3018,15 @@ const CANTEIRIZACAO_DATA = [
     "Status": "Aberto",
     "Score": "50,00",
     "Score perc.": "100",
-    "Score desc.": NaN,
+    "Score desc.": null,
     "Data Lançamento": "24/08/2026 00:00",
     "Local (Fazenda - Talhão)": "53201",
     "OS": "2532",
     "Frente": "261-PLANTIO MANUAL E CARPA",
     "Responsável": "MABILA HELEN D FIGUEIREDO",
     "Canteirização": "50",
-    "Fazenda": NaN
+    "Fazenda": null,
+    "Unnamed: 18": null
   },
   {
     "ID": "3870135",
@@ -2891,14 +3039,15 @@ const CANTEIRIZACAO_DATA = [
     "Status": "Aberto",
     "Score": "46,00",
     "Score perc.": "100",
-    "Score desc.": NaN,
+    "Score desc.": null,
     "Data Lançamento": "24/08/2026 00:00",
     "Local (Fazenda - Talhão)": "53201",
     "OS": "2532",
     "Frente": "261-PLANTIO MANUAL E CARPA",
     "Responsável": "MABILA HELEN D FIGUEIREDO",
     "Canteirização": "46",
-    "Fazenda": NaN
+    "Fazenda": null,
+    "Unnamed: 18": null
   },
   {
     "ID": "3870134",
@@ -2911,14 +3060,15 @@ const CANTEIRIZACAO_DATA = [
     "Status": "Aberto",
     "Score": "45,00",
     "Score perc.": "100",
-    "Score desc.": NaN,
+    "Score desc.": null,
     "Data Lançamento": "24/08/2026 00:00",
     "Local (Fazenda - Talhão)": "53201",
     "OS": "2532",
     "Frente": "261-PLANTIO MANUAL E CARPA",
     "Responsável": "MABILA HELEN D FIGUEIREDO",
     "Canteirização": "45",
-    "Fazenda": NaN
+    "Fazenda": null,
+    "Unnamed: 18": null
   },
   {
     "ID": "3870133",
@@ -2931,14 +3081,15 @@ const CANTEIRIZACAO_DATA = [
     "Status": "Aberto",
     "Score": "44,00",
     "Score perc.": "100",
-    "Score desc.": NaN,
+    "Score desc.": null,
     "Data Lançamento": "24/08/2026 00:00",
     "Local (Fazenda - Talhão)": "53201",
     "OS": "2532",
     "Frente": "261-PLANTIO MANUAL E CARPA",
     "Responsável": "MABILA HELEN D FIGUEIREDO",
     "Canteirização": "44",
-    "Fazenda": NaN
+    "Fazenda": null,
+    "Unnamed: 18": null
   },
   {
     "ID": "3867182",
@@ -2951,14 +3102,15 @@ const CANTEIRIZACAO_DATA = [
     "Status": "Aberto",
     "Score": "43,00",
     "Score perc.": "100",
-    "Score desc.": NaN,
+    "Score desc.": null,
     "Data Lançamento": "22/08/2026 00:00",
     "Local (Fazenda - Talhão)": "53201",
     "OS": "2532",
     "Frente": "261-PLANTIO MANUAL E CARPA",
     "Responsável": "WILLIAM ROBERTO DALLA COSTA [254120]",
     "Canteirização": "43",
-    "Fazenda": NaN
+    "Fazenda": null,
+    "Unnamed: 18": null
   },
   {
     "ID": "3867181",
@@ -2971,14 +3123,15 @@ const CANTEIRIZACAO_DATA = [
     "Status": "Aberto",
     "Score": "39,00",
     "Score perc.": "100",
-    "Score desc.": NaN,
+    "Score desc.": null,
     "Data Lançamento": "22/08/2026 00:00",
     "Local (Fazenda - Talhão)": "53201",
     "OS": "2532",
     "Frente": "261-PLANTIO MANUAL E CARPA",
     "Responsável": "WILLIAM ROBERTO DALLA COSTA [254120]",
     "Canteirização": "39",
-    "Fazenda": NaN
+    "Fazenda": null,
+    "Unnamed: 18": null
   },
   {
     "ID": "3867180",
@@ -2991,14 +3144,15 @@ const CANTEIRIZACAO_DATA = [
     "Status": "Aberto",
     "Score": "48,00",
     "Score perc.": "100",
-    "Score desc.": NaN,
+    "Score desc.": null,
     "Data Lançamento": "22/08/2026 00:00",
     "Local (Fazenda - Talhão)": "53201",
     "OS": "2532",
     "Frente": "261-PLANTIO MANUAL E CARPA",
     "Responsável": "WILLIAM ROBERTO DALLA COSTA [254120]",
     "Canteirização": "48",
-    "Fazenda": NaN
+    "Fazenda": null,
+    "Unnamed: 18": null
   },
   {
     "ID": "3867179",
@@ -3011,14 +3165,15 @@ const CANTEIRIZACAO_DATA = [
     "Status": "Aberto",
     "Score": "43,00",
     "Score perc.": "100",
-    "Score desc.": NaN,
+    "Score desc.": null,
     "Data Lançamento": "22/08/2026 00:00",
     "Local (Fazenda - Talhão)": "53201",
     "OS": "2532",
     "Frente": "261-PLANTIO MANUAL E CARPA",
     "Responsável": "WILLIAM ROBERTO DALLA COSTA [254120]",
     "Canteirização": "43",
-    "Fazenda": NaN
+    "Fazenda": null,
+    "Unnamed: 18": null
   },
   {
     "ID": "3867339",
@@ -3031,14 +3186,15 @@ const CANTEIRIZACAO_DATA = [
     "Status": "Aberto",
     "Score": "53,00",
     "Score perc.": "100",
-    "Score desc.": NaN,
+    "Score desc.": null,
     "Data Lançamento": "22/08/2026 00:00",
     "Local (Fazenda - Talhão)": "53201",
     "OS": "2532",
     "Frente": "261-PLANTIO MANUAL E CARPA",
     "Responsável": "MABILA HELEN D FIGUEIREDO",
     "Canteirização": "53",
-    "Fazenda": NaN
+    "Fazenda": null,
+    "Unnamed: 18": null
   },
   {
     "ID": "3867338",
@@ -3051,14 +3207,15 @@ const CANTEIRIZACAO_DATA = [
     "Status": "Aberto",
     "Score": "48,00",
     "Score perc.": "100",
-    "Score desc.": NaN,
+    "Score desc.": null,
     "Data Lançamento": "22/08/2026 00:00",
     "Local (Fazenda - Talhão)": "53201",
     "OS": "2532",
     "Frente": "261-PLANTIO MANUAL E CARPA",
     "Responsável": "MABILA HELEN D FIGUEIREDO",
     "Canteirização": "48",
-    "Fazenda": NaN
+    "Fazenda": null,
+    "Unnamed: 18": null
   },
   {
     "ID": "3867171",
@@ -3071,14 +3228,15 @@ const CANTEIRIZACAO_DATA = [
     "Status": "Aberto",
     "Score": "44,00",
     "Score perc.": "100",
-    "Score desc.": NaN,
+    "Score desc.": null,
     "Data Lançamento": "22/08/2026 00:00",
     "Local (Fazenda - Talhão)": "53201",
     "OS": "2532",
     "Frente": "261-PLANTIO MANUAL E CARPA",
     "Responsável": "WILLIAM ROBERTO DALLA COSTA [254120]",
     "Canteirização": "44",
-    "Fazenda": NaN
+    "Fazenda": null,
+    "Unnamed: 18": null
   },
   {
     "ID": "3867337",
@@ -3091,14 +3249,15 @@ const CANTEIRIZACAO_DATA = [
     "Status": "Aberto",
     "Score": "52,00",
     "Score perc.": "100",
-    "Score desc.": NaN,
+    "Score desc.": null,
     "Data Lançamento": "22/08/2026 00:00",
     "Local (Fazenda - Talhão)": "53201",
     "OS": "2532",
     "Frente": "261-PLANTIO MANUAL E CARPA",
     "Responsável": "MABILA HELEN D FIGUEIREDO",
     "Canteirização": "52",
-    "Fazenda": NaN
+    "Fazenda": null,
+    "Unnamed: 18": null
   },
   {
     "ID": "3867336",
@@ -3111,14 +3270,15 @@ const CANTEIRIZACAO_DATA = [
     "Status": "Aberto",
     "Score": "48,00",
     "Score perc.": "100",
-    "Score desc.": NaN,
+    "Score desc.": null,
     "Data Lançamento": "22/08/2026 00:00",
     "Local (Fazenda - Talhão)": "53201",
     "OS": "2532",
     "Frente": "261-PLANTIO MANUAL E CARPA",
     "Responsável": "MABILA HELEN D FIGUEIREDO",
     "Canteirização": "48",
-    "Fazenda": NaN
+    "Fazenda": null,
+    "Unnamed: 18": null
   },
   {
     "ID": "3867169",
@@ -3131,14 +3291,15 @@ const CANTEIRIZACAO_DATA = [
     "Status": "Aberto",
     "Score": "43,00",
     "Score perc.": "100",
-    "Score desc.": NaN,
+    "Score desc.": null,
     "Data Lançamento": "22/08/2026 00:00",
     "Local (Fazenda - Talhão)": "53201",
     "OS": "2532",
     "Frente": "261-PLANTIO MANUAL E CARPA",
     "Responsável": "WILLIAM ROBERTO DALLA COSTA [254120]",
     "Canteirização": "43",
-    "Fazenda": NaN
+    "Fazenda": null,
+    "Unnamed: 18": null
   },
   {
     "ID": "3867170",
@@ -3151,14 +3312,15 @@ const CANTEIRIZACAO_DATA = [
     "Status": "Aberto",
     "Score": "41,00",
     "Score perc.": "100",
-    "Score desc.": NaN,
+    "Score desc.": null,
     "Data Lançamento": "22/08/2026 00:00",
     "Local (Fazenda - Talhão)": "53201",
     "OS": "2532",
     "Frente": "261-PLANTIO MANUAL E CARPA",
     "Responsável": "WILLIAM ROBERTO DALLA COSTA [254120]",
     "Canteirização": "41",
-    "Fazenda": NaN
+    "Fazenda": null,
+    "Unnamed: 18": null
   },
   {
     "ID": "3867335",
@@ -3171,14 +3333,15 @@ const CANTEIRIZACAO_DATA = [
     "Status": "Aberto",
     "Score": "50,00",
     "Score perc.": "100",
-    "Score desc.": NaN,
+    "Score desc.": null,
     "Data Lançamento": "22/08/2026 00:00",
     "Local (Fazenda - Talhão)": "53201",
     "OS": "2532",
     "Frente": "261-PLANTIO MANUAL E CARPA",
     "Responsável": "MABILA HELEN D FIGUEIREDO",
     "Canteirização": "50",
-    "Fazenda": NaN
+    "Fazenda": null,
+    "Unnamed: 18": null
   },
   {
     "ID": "3867334",
@@ -3191,14 +3354,15 @@ const CANTEIRIZACAO_DATA = [
     "Status": "Aberto",
     "Score": "47,00",
     "Score perc.": "100",
-    "Score desc.": NaN,
+    "Score desc.": null,
     "Data Lançamento": "22/08/2026 00:00",
     "Local (Fazenda - Talhão)": "53201",
     "OS": "2532",
     "Frente": "261-PLANTIO MANUAL E CARPA",
     "Responsável": "MABILA HELEN D FIGUEIREDO",
     "Canteirização": "47",
-    "Fazenda": NaN
+    "Fazenda": null,
+    "Unnamed: 18": null
   },
   {
     "ID": "3867333",
@@ -3211,14 +3375,15 @@ const CANTEIRIZACAO_DATA = [
     "Status": "Aberto",
     "Score": "54,00",
     "Score perc.": "100",
-    "Score desc.": NaN,
+    "Score desc.": null,
     "Data Lançamento": "22/08/2026 00:00",
     "Local (Fazenda - Talhão)": "53201",
     "OS": "2532",
     "Frente": "261-PLANTIO MANUAL E CARPA",
     "Responsável": "MABILA HELEN D FIGUEIREDO",
     "Canteirização": "54",
-    "Fazenda": NaN
+    "Fazenda": null,
+    "Unnamed: 18": null
   },
   {
     "ID": "3867332",
@@ -3231,14 +3396,15 @@ const CANTEIRIZACAO_DATA = [
     "Status": "Aberto",
     "Score": "56,00",
     "Score perc.": "100",
-    "Score desc.": NaN,
+    "Score desc.": null,
     "Data Lançamento": "22/08/2026 00:00",
     "Local (Fazenda - Talhão)": "53201",
     "OS": "2532",
     "Frente": "261-PLANTIO MANUAL E CARPA",
     "Responsável": "MABILA HELEN D FIGUEIREDO",
     "Canteirização": "56",
-    "Fazenda": NaN
+    "Fazenda": null,
+    "Unnamed: 18": null
   },
   {
     "ID": "3867331",
@@ -3251,14 +3417,15 @@ const CANTEIRIZACAO_DATA = [
     "Status": "Aberto",
     "Score": "50,00",
     "Score perc.": "100",
-    "Score desc.": NaN,
+    "Score desc.": null,
     "Data Lançamento": "22/08/2026 00:00",
     "Local (Fazenda - Talhão)": "53201",
     "OS": "2532",
     "Frente": "261-PLANTIO MANUAL E CARPA",
     "Responsável": "MABILA HELEN D FIGUEIREDO",
     "Canteirização": "50",
-    "Fazenda": NaN
+    "Fazenda": null,
+    "Unnamed: 18": null
   },
   {
     "ID": "3867330",
@@ -3271,14 +3438,15 @@ const CANTEIRIZACAO_DATA = [
     "Status": "Aberto",
     "Score": "46,00",
     "Score perc.": "100",
-    "Score desc.": NaN,
+    "Score desc.": null,
     "Data Lançamento": "22/08/2026 00:00",
     "Local (Fazenda - Talhão)": "53201",
     "OS": "2532",
     "Frente": "261-PLANTIO MANUAL E CARPA",
     "Responsável": "MABILA HELEN D FIGUEIREDO",
     "Canteirização": "46",
-    "Fazenda": NaN
+    "Fazenda": null,
+    "Unnamed: 18": null
   },
   {
     "ID": "3867329",
@@ -3291,14 +3459,15 @@ const CANTEIRIZACAO_DATA = [
     "Status": "Aberto",
     "Score": "52,00",
     "Score perc.": "100",
-    "Score desc.": NaN,
+    "Score desc.": null,
     "Data Lançamento": "22/08/2026 00:00",
     "Local (Fazenda - Talhão)": "53201",
     "OS": "2532",
     "Frente": "261-PLANTIO MANUAL E CARPA",
     "Responsável": "MABILA HELEN D FIGUEIREDO",
     "Canteirização": "52",
-    "Fazenda": NaN
+    "Fazenda": null,
+    "Unnamed: 18": null
   },
   {
     "ID": "3864533",
@@ -3311,14 +3480,15 @@ const CANTEIRIZACAO_DATA = [
     "Status": "Aberto",
     "Score": "57,00",
     "Score perc.": "100",
-    "Score desc.": NaN,
+    "Score desc.": null,
     "Data Lançamento": "21/08/2026 00:00",
     "Local (Fazenda - Talhão)": "53201",
     "OS": "2532",
     "Frente": "261-PLANTIO MANUAL E CARPA",
     "Responsável": "MABILA HELEN D FIGUEIREDO",
     "Canteirização": "57",
-    "Fazenda": NaN
+    "Fazenda": null,
+    "Unnamed: 18": null
   },
   {
     "ID": "3866555",
@@ -3331,14 +3501,15 @@ const CANTEIRIZACAO_DATA = [
     "Status": "Aberto",
     "Score": "52,00",
     "Score perc.": "100",
-    "Score desc.": NaN,
+    "Score desc.": null,
     "Data Lançamento": "21/08/2026 00:00",
     "Local (Fazenda - Talhão)": "53201",
     "OS": "2532",
     "Frente": "261-PLANTIO MANUAL E CARPA",
     "Responsável": "MABILA HELEN D FIGUEIREDO",
     "Canteirização": "52",
-    "Fazenda": NaN
+    "Fazenda": null,
+    "Unnamed: 18": null
   },
   {
     "ID": "3866554",
@@ -3351,14 +3522,15 @@ const CANTEIRIZACAO_DATA = [
     "Status": "Aberto",
     "Score": "45,00",
     "Score perc.": "100",
-    "Score desc.": NaN,
+    "Score desc.": null,
     "Data Lançamento": "21/08/2026 00:00",
     "Local (Fazenda - Talhão)": "53201",
     "OS": "2532",
     "Frente": "261-PLANTIO MANUAL E CARPA",
     "Responsável": "MABILA HELEN D FIGUEIREDO",
     "Canteirização": "45",
-    "Fazenda": NaN
+    "Fazenda": null,
+    "Unnamed: 18": null
   },
   {
     "ID": "3866553",
@@ -3371,14 +3543,15 @@ const CANTEIRIZACAO_DATA = [
     "Status": "Aberto",
     "Score": "55,00",
     "Score perc.": "100",
-    "Score desc.": NaN,
+    "Score desc.": null,
     "Data Lançamento": "21/08/2026 00:00",
     "Local (Fazenda - Talhão)": "53201",
     "OS": "2532",
     "Frente": "261-PLANTIO MANUAL E CARPA",
     "Responsável": "MABILA HELEN D FIGUEIREDO",
     "Canteirização": "55",
-    "Fazenda": NaN
+    "Fazenda": null,
+    "Unnamed: 18": null
   },
   {
     "ID": "3866552",
@@ -3391,14 +3564,15 @@ const CANTEIRIZACAO_DATA = [
     "Status": "Aberto",
     "Score": "49,00",
     "Score perc.": "100",
-    "Score desc.": NaN,
+    "Score desc.": null,
     "Data Lançamento": "21/08/2026 00:00",
     "Local (Fazenda - Talhão)": "53201",
     "OS": "2542",
     "Frente": "261-PLANTIO MANUAL E CARPA",
     "Responsável": "MABILA HELEN D FIGUEIREDO",
     "Canteirização": "49",
-    "Fazenda": NaN
+    "Fazenda": null,
+    "Unnamed: 18": null
   },
   {
     "ID": "3866551",
@@ -3411,14 +3585,15 @@ const CANTEIRIZACAO_DATA = [
     "Status": "Aberto",
     "Score": "52,00",
     "Score perc.": "100",
-    "Score desc.": NaN,
+    "Score desc.": null,
     "Data Lançamento": "21/08/2026 00:00",
     "Local (Fazenda - Talhão)": "53201",
     "OS": "2532",
     "Frente": "261-PLANTIO MANUAL E CARPA",
     "Responsável": "MABILA HELEN D FIGUEIREDO",
     "Canteirização": "52",
-    "Fazenda": NaN
+    "Fazenda": null,
+    "Unnamed: 18": null
   },
   {
     "ID": "3866550",
@@ -3431,14 +3606,15 @@ const CANTEIRIZACAO_DATA = [
     "Status": "Aberto",
     "Score": "50,00",
     "Score perc.": "100",
-    "Score desc.": NaN,
+    "Score desc.": null,
     "Data Lançamento": "21/08/2026 00:00",
     "Local (Fazenda - Talhão)": "53201",
     "OS": "2532",
     "Frente": "261-PLANTIO MANUAL E CARPA",
     "Responsável": "MABILA HELEN D FIGUEIREDO",
     "Canteirização": "50",
-    "Fazenda": NaN
+    "Fazenda": null,
+    "Unnamed: 18": null
   },
   {
     "ID": "3866549",
@@ -3451,14 +3627,15 @@ const CANTEIRIZACAO_DATA = [
     "Status": "Aberto",
     "Score": "46,00",
     "Score perc.": "100",
-    "Score desc.": NaN,
+    "Score desc.": null,
     "Data Lançamento": "21/08/2026 00:00",
     "Local (Fazenda - Talhão)": "53201",
     "OS": "2532",
     "Frente": "261-PLANTIO MANUAL E CARPA",
     "Responsável": "MABILA HELEN D FIGUEIREDO",
     "Canteirização": "46",
-    "Fazenda": NaN
+    "Fazenda": null,
+    "Unnamed: 18": null
   },
   {
     "ID": "3864593",
@@ -3471,14 +3648,15 @@ const CANTEIRIZACAO_DATA = [
     "Status": "Aberto",
     "Score": "50,00",
     "Score perc.": "100",
-    "Score desc.": NaN,
+    "Score desc.": null,
     "Data Lançamento": "21/08/2026 00:00",
     "Local (Fazenda - Talhão)": "53201",
     "OS": "2532",
     "Frente": "261-PLANTIO MANUAL E CARPA",
     "Responsável": "MABILA HELEN D FIGUEIREDO",
     "Canteirização": "50",
-    "Fazenda": NaN
+    "Fazenda": null,
+    "Unnamed: 18": null
   },
   {
     "ID": "3866542",
@@ -3491,14 +3669,15 @@ const CANTEIRIZACAO_DATA = [
     "Status": "Aberto",
     "Score": "50,00",
     "Score perc.": "100",
-    "Score desc.": NaN,
+    "Score desc.": null,
     "Data Lançamento": "21/08/2026 00:00",
     "Local (Fazenda - Talhão)": "53201",
     "OS": "2532",
     "Frente": "261-PLANTIO MANUAL E CARPA",
     "Responsável": "MABILA HELEN D FIGUEIREDO",
     "Canteirização": "50",
-    "Fazenda": NaN
+    "Fazenda": null,
+    "Unnamed: 18": null
   },
   {
     "ID": "3866543",
@@ -3511,14 +3690,15 @@ const CANTEIRIZACAO_DATA = [
     "Status": "Aberto",
     "Score": "52,00",
     "Score perc.": "100",
-    "Score desc.": NaN,
+    "Score desc.": null,
     "Data Lançamento": "21/08/2026 00:00",
     "Local (Fazenda - Talhão)": "53201",
     "OS": "2532",
     "Frente": "261-PLANTIO MANUAL E CARPA",
     "Responsável": "MABILA HELEN D FIGUEIREDO",
     "Canteirização": "52",
-    "Fazenda": NaN
+    "Fazenda": null,
+    "Unnamed: 18": null
   },
   {
     "ID": "3866544",
@@ -3531,14 +3711,15 @@ const CANTEIRIZACAO_DATA = [
     "Status": "Aberto",
     "Score": "44,00",
     "Score perc.": "100",
-    "Score desc.": NaN,
+    "Score desc.": null,
     "Data Lançamento": "21/08/2026 00:00",
     "Local (Fazenda - Talhão)": "53201",
     "OS": "2532",
     "Frente": "261-PLANTIO MANUAL E CARPA",
     "Responsável": "MABILA HELEN D FIGUEIREDO",
     "Canteirização": "44",
-    "Fazenda": NaN
+    "Fazenda": null,
+    "Unnamed: 18": null
   },
   {
     "ID": "3866541",
@@ -3551,14 +3732,15 @@ const CANTEIRIZACAO_DATA = [
     "Status": "Aberto",
     "Score": "58,00",
     "Score perc.": "100",
-    "Score desc.": NaN,
+    "Score desc.": null,
     "Data Lançamento": "21/08/2026 00:00",
     "Local (Fazenda - Talhão)": "53201",
     "OS": "2532",
     "Frente": "261-PLANTIO MANUAL E CARPA",
     "Responsável": "MABILA HELEN D FIGUEIREDO",
     "Canteirização": "58",
-    "Fazenda": NaN
+    "Fazenda": null,
+    "Unnamed: 18": null
   },
   {
     "ID": "3866540",
@@ -3571,14 +3753,15 @@ const CANTEIRIZACAO_DATA = [
     "Status": "Aberto",
     "Score": "48,00",
     "Score perc.": "100",
-    "Score desc.": NaN,
+    "Score desc.": null,
     "Data Lançamento": "21/08/2026 00:00",
     "Local (Fazenda - Talhão)": "53201",
     "OS": "2532",
     "Frente": "261-PLANTIO MANUAL E CARPA",
     "Responsável": "MABILA HELEN D FIGUEIREDO",
     "Canteirização": "48",
-    "Fazenda": NaN
+    "Fazenda": null,
+    "Unnamed: 18": null
   },
   {
     "ID": "3864236",
@@ -3591,14 +3774,15 @@ const CANTEIRIZACAO_DATA = [
     "Status": "Aberto",
     "Score": "52,00",
     "Score perc.": "100",
-    "Score desc.": NaN,
+    "Score desc.": null,
     "Data Lançamento": "21/08/2026 00:00",
     "Local (Fazenda - Talhão)": "53201",
     "OS": "2532",
     "Frente": "261-PLANTIO MANUAL E CARPA",
     "Responsável": "MABILA HELEN D FIGUEIREDO",
     "Canteirização": "52",
-    "Fazenda": NaN
+    "Fazenda": null,
+    "Unnamed: 18": null
   },
   {
     "ID": "3864554",
@@ -3611,14 +3795,15 @@ const CANTEIRIZACAO_DATA = [
     "Status": "Aberto",
     "Score": "55,00",
     "Score perc.": "100",
-    "Score desc.": NaN,
+    "Score desc.": null,
     "Data Lançamento": "21/08/2026 00:00",
     "Local (Fazenda - Talhão)": "53201",
     "OS": "2532",
     "Frente": "261-PLANTIO MANUAL E CARPA",
     "Responsável": "MABILA HELEN D FIGUEIREDO",
     "Canteirização": "55",
-    "Fazenda": NaN
+    "Fazenda": null,
+    "Unnamed: 18": null
   },
   {
     "ID": "3861225",
@@ -3631,14 +3816,15 @@ const CANTEIRIZACAO_DATA = [
     "Status": "Aberto",
     "Score": "46,00",
     "Score perc.": "131,43",
-    "Score desc.": NaN,
+    "Score desc.": null,
     "Data Lançamento": "20/08/2026 00:00",
     "Local (Fazenda - Talhão)": "70417",
     "OS": "2496",
     "Frente": "53-FRENTE MOTOMECANIZAÇÃO",
     "Responsável": "EDILIANA CARDOSO DA COSTA",
     "Canteirização": "46",
-    "Fazenda": NaN
+    "Fazenda": null,
+    "Unnamed: 18": null
   },
   {
     "ID": "3861923",
@@ -3651,14 +3837,15 @@ const CANTEIRIZACAO_DATA = [
     "Status": "Aberto",
     "Score": "52,00",
     "Score perc.": "100",
-    "Score desc.": NaN,
+    "Score desc.": null,
     "Data Lançamento": "20/08/2026 00:00",
     "Local (Fazenda - Talhão)": "70417",
     "OS": "2496",
     "Frente": "261-PLANTIO MANUAL E CARPA",
     "Responsável": "MABILA HELEN D FIGUEIREDO",
     "Canteirização": "52",
-    "Fazenda": NaN
+    "Fazenda": null,
+    "Unnamed: 18": null
   },
   {
     "ID": "3861922",
@@ -3671,14 +3858,15 @@ const CANTEIRIZACAO_DATA = [
     "Status": "Aberto",
     "Score": "45,00",
     "Score perc.": "100",
-    "Score desc.": NaN,
+    "Score desc.": null,
     "Data Lançamento": "20/08/2026 00:00",
     "Local (Fazenda - Talhão)": "70417",
     "OS": "2496",
     "Frente": "261-PLANTIO MANUAL E CARPA",
     "Responsável": "MABILA HELEN D FIGUEIREDO",
     "Canteirização": "45",
-    "Fazenda": NaN
+    "Fazenda": null,
+    "Unnamed: 18": null
   },
   {
     "ID": "3861921",
@@ -3691,14 +3879,15 @@ const CANTEIRIZACAO_DATA = [
     "Status": "Aberto",
     "Score": "48,00",
     "Score perc.": "100",
-    "Score desc.": NaN,
+    "Score desc.": null,
     "Data Lançamento": "20/08/2026 00:00",
     "Local (Fazenda - Talhão)": "70417",
     "OS": "9742",
     "Frente": "261-PLANTIO MANUAL E CARPA",
     "Responsável": "MABILA HELEN D FIGUEIREDO",
     "Canteirização": "48",
-    "Fazenda": NaN
+    "Fazenda": null,
+    "Unnamed: 18": null
   },
   {
     "ID": "3861920",
@@ -3711,14 +3900,15 @@ const CANTEIRIZACAO_DATA = [
     "Status": "Aberto",
     "Score": "50,00",
     "Score perc.": "100",
-    "Score desc.": NaN,
+    "Score desc.": null,
     "Data Lançamento": "20/08/2026 00:00",
     "Local (Fazenda - Talhão)": "70417",
     "OS": "2496",
     "Frente": "261-PLANTIO MANUAL E CARPA",
     "Responsável": "MABILA HELEN D FIGUEIREDO",
     "Canteirização": "50",
-    "Fazenda": NaN
+    "Fazenda": null,
+    "Unnamed: 18": null
   },
   {
     "ID": "3861919",
@@ -3731,14 +3921,15 @@ const CANTEIRIZACAO_DATA = [
     "Status": "Aberto",
     "Score": "42,00",
     "Score perc.": "100",
-    "Score desc.": NaN,
+    "Score desc.": null,
     "Data Lançamento": "20/08/2026 00:00",
     "Local (Fazenda - Talhão)": "70417",
     "OS": "9742",
     "Frente": "261-PLANTIO MANUAL E CARPA",
     "Responsável": "MABILA HELEN D FIGUEIREDO",
     "Canteirização": "42",
-    "Fazenda": NaN
+    "Fazenda": null,
+    "Unnamed: 18": null
   },
   {
     "ID": "3861918",
@@ -3751,14 +3942,15 @@ const CANTEIRIZACAO_DATA = [
     "Status": "Aberto",
     "Score": "50,00",
     "Score perc.": "100",
-    "Score desc.": NaN,
+    "Score desc.": null,
     "Data Lançamento": "20/08/2026 00:00",
     "Local (Fazenda - Talhão)": "70417",
     "OS": "2496",
     "Frente": "261-PLANTIO MANUAL E CARPA",
     "Responsável": "MABILA HELEN D FIGUEIREDO",
     "Canteirização": "50",
-    "Fazenda": NaN
+    "Fazenda": null,
+    "Unnamed: 18": null
   },
   {
     "ID": "3861917",
@@ -3771,14 +3963,15 @@ const CANTEIRIZACAO_DATA = [
     "Status": "Aberto",
     "Score": "45,00",
     "Score perc.": "100",
-    "Score desc.": NaN,
+    "Score desc.": null,
     "Data Lançamento": "20/08/2026 00:00",
     "Local (Fazenda - Talhão)": "70417",
     "OS": "2496",
     "Frente": "261-PLANTIO MANUAL E CARPA",
     "Responsável": "MABILA HELEN D FIGUEIREDO",
     "Canteirização": "45",
-    "Fazenda": NaN
+    "Fazenda": null,
+    "Unnamed: 18": null
   },
   {
     "ID": "3861223",
@@ -3791,14 +3984,15 @@ const CANTEIRIZACAO_DATA = [
     "Status": "Aberto",
     "Score": "46,00",
     "Score perc.": "100",
-    "Score desc.": NaN,
+    "Score desc.": null,
     "Data Lançamento": "20/08/2026 00:00",
     "Local (Fazenda - Talhão)": "70417",
     "OS": "2496",
     "Frente": "53-FRENTE MOTOMECANIZAÇÃO",
     "Responsável": "EDILIANA CARDOSO DA COSTA",
     "Canteirização": "46",
-    "Fazenda": NaN
+    "Fazenda": null,
+    "Unnamed: 18": null
   },
   {
     "ID": "3861243",
@@ -3811,14 +4005,15 @@ const CANTEIRIZACAO_DATA = [
     "Status": "Aberto",
     "Score": "43,00",
     "Score perc.": "100",
-    "Score desc.": NaN,
+    "Score desc.": null,
     "Data Lançamento": "20/08/2026 00:00",
     "Local (Fazenda - Talhão)": "70417",
     "OS": "2496",
     "Frente": "53-FRENTE MOTOMECANIZAÇÃO",
     "Responsável": "EDILIANA CARDOSO DA COSTA",
     "Canteirização": "43",
-    "Fazenda": NaN
+    "Fazenda": null,
+    "Unnamed: 18": null
   },
   {
     "ID": "3842989",
@@ -3831,14 +4026,15 @@ const CANTEIRIZACAO_DATA = [
     "Status": "Aberto",
     "Score": "52,00",
     "Score perc.": "148,57",
-    "Score desc.": NaN,
+    "Score desc.": null,
     "Data Lançamento": "13/08/2026 00:00",
     "Local (Fazenda - Talhão)": "70411",
     "OS": "2350",
     "Frente": "261-PLANTIO MANUAL E CARPA",
     "Responsável": "MABILA HELEN D FIGUEIREDO",
     "Canteirização": "52",
-    "Fazenda": NaN
+    "Fazenda": null,
+    "Unnamed: 18": null
   },
   {
     "ID": "3842986",
@@ -3851,14 +4047,15 @@ const CANTEIRIZACAO_DATA = [
     "Status": "Aberto",
     "Score": "50,00",
     "Score perc.": "142,86",
-    "Score desc.": NaN,
+    "Score desc.": null,
     "Data Lançamento": "13/08/2026 00:00",
     "Local (Fazenda - Talhão)": "70411",
     "OS": "2350",
     "Frente": "261-PLANTIO MANUAL E CARPA",
     "Responsável": "MABILA HELEN D FIGUEIREDO",
     "Canteirização": "50",
-    "Fazenda": NaN
+    "Fazenda": null,
+    "Unnamed: 18": null
   },
   {
     "ID": "3858066",
@@ -3871,14 +4068,15 @@ const CANTEIRIZACAO_DATA = [
     "Status": "Aberto",
     "Score": "44,00",
     "Score perc.": "100",
-    "Score desc.": NaN,
+    "Score desc.": null,
     "Data Lançamento": "19/08/2026 00:00",
     "Local (Fazenda - Talhão)": "70417",
     "OS": "2496",
     "Frente": "261-PLANTIO MANUAL E CARPA",
     "Responsável": "MABILA HELEN D FIGUEIREDO",
     "Canteirização": "44",
-    "Fazenda": NaN
+    "Fazenda": null,
+    "Unnamed: 18": null
   },
   {
     "ID": "3842992",
@@ -3891,14 +4089,15 @@ const CANTEIRIZACAO_DATA = [
     "Status": "Aberto",
     "Score": "55,00",
     "Score perc.": "157,14",
-    "Score desc.": NaN,
+    "Score desc.": null,
     "Data Lançamento": "13/08/2026 00:00",
     "Local (Fazenda - Talhão)": "70411",
     "OS": "2350",
     "Frente": "261-PLANTIO MANUAL E CARPA",
     "Responsável": "MABILA HELEN D FIGUEIREDO",
     "Canteirização": "55",
-    "Fazenda": NaN
+    "Fazenda": null,
+    "Unnamed: 18": null
   },
   {
     "ID": "3842991",
@@ -3911,14 +4110,15 @@ const CANTEIRIZACAO_DATA = [
     "Status": "Aberto",
     "Score": "54,00",
     "Score perc.": "154,29",
-    "Score desc.": NaN,
+    "Score desc.": null,
     "Data Lançamento": "13/08/2026 00:00",
     "Local (Fazenda - Talhão)": "70411",
     "OS": "2350",
     "Frente": "261-PLANTIO MANUAL E CARPA",
     "Responsável": "MABILA HELEN D FIGUEIREDO",
     "Canteirização": "54",
-    "Fazenda": NaN
+    "Fazenda": null,
+    "Unnamed: 18": null
   },
   {
     "ID": "3842987",
@@ -3931,14 +4131,15 @@ const CANTEIRIZACAO_DATA = [
     "Status": "Aberto",
     "Score": "48,00",
     "Score perc.": "137,14",
-    "Score desc.": NaN,
+    "Score desc.": null,
     "Data Lançamento": "13/08/2026 00:00",
     "Local (Fazenda - Talhão)": "70411",
     "OS": "2350",
     "Frente": "261-PLANTIO MANUAL E CARPA",
     "Responsável": "MABILA HELEN D FIGUEIREDO",
     "Canteirização": "48",
-    "Fazenda": NaN
+    "Fazenda": null,
+    "Unnamed: 18": null
   },
   {
     "ID": "3842988",
@@ -3951,14 +4152,15 @@ const CANTEIRIZACAO_DATA = [
     "Status": "Aberto",
     "Score": "52,00",
     "Score perc.": "148,57",
-    "Score desc.": NaN,
+    "Score desc.": null,
     "Data Lançamento": "13/08/2026 00:00",
     "Local (Fazenda - Talhão)": "70411",
     "OS": "2350",
     "Frente": "261-PLANTIO MANUAL E CARPA",
     "Responsável": "MABILA HELEN D FIGUEIREDO",
     "Canteirização": "52",
-    "Fazenda": NaN
+    "Fazenda": null,
+    "Unnamed: 18": null
   },
   {
     "ID": "3842990",
@@ -3971,14 +4173,15 @@ const CANTEIRIZACAO_DATA = [
     "Status": "Aberto",
     "Score": "53,00",
     "Score perc.": "151,43",
-    "Score desc.": NaN,
+    "Score desc.": null,
     "Data Lançamento": "13/08/2026 00:00",
     "Local (Fazenda - Talhão)": "70411",
     "OS": "2350",
     "Frente": "261-PLANTIO MANUAL E CARPA",
     "Responsável": "MABILA HELEN D FIGUEIREDO",
     "Canteirização": "53",
-    "Fazenda": NaN
+    "Fazenda": null,
+    "Unnamed: 18": null
   },
   {
     "ID": "3858065",
@@ -3991,14 +4194,15 @@ const CANTEIRIZACAO_DATA = [
     "Status": "Aberto",
     "Score": "48,00",
     "Score perc.": "100",
-    "Score desc.": NaN,
+    "Score desc.": null,
     "Data Lançamento": "19/08/2026 00:00",
     "Local (Fazenda - Talhão)": "70417",
     "OS": "2496",
     "Frente": "261-PLANTIO MANUAL E CARPA",
     "Responsável": "MABILA HELEN D FIGUEIREDO",
     "Canteirização": "48",
-    "Fazenda": NaN
+    "Fazenda": null,
+    "Unnamed: 18": null
   },
   {
     "ID": "3858064",
@@ -4011,14 +4215,15 @@ const CANTEIRIZACAO_DATA = [
     "Status": "Aberto",
     "Score": "46,00",
     "Score perc.": "100",
-    "Score desc.": NaN,
+    "Score desc.": null,
     "Data Lançamento": "19/08/2026 00:00",
     "Local (Fazenda - Talhão)": "70411",
     "OS": "2496",
     "Frente": "261-PLANTIO MANUAL E CARPA",
     "Responsável": "MABILA HELEN D FIGUEIREDO",
     "Canteirização": "46",
-    "Fazenda": NaN
+    "Fazenda": null,
+    "Unnamed: 18": null
   },
   {
     "ID": "3858063",
@@ -4031,14 +4236,15 @@ const CANTEIRIZACAO_DATA = [
     "Status": "Aberto",
     "Score": "50,00",
     "Score perc.": "100",
-    "Score desc.": NaN,
+    "Score desc.": null,
     "Data Lançamento": "19/08/2026 00:00",
     "Local (Fazenda - Talhão)": "70417",
     "OS": "2496",
     "Frente": "261-PLANTIO MANUAL E CARPA",
     "Responsável": "MABILA HELEN D FIGUEIREDO",
     "Canteirização": "50",
-    "Fazenda": NaN
+    "Fazenda": null,
+    "Unnamed: 18": null
   },
   {
     "ID": "3858042",
@@ -4051,14 +4257,15 @@ const CANTEIRIZACAO_DATA = [
     "Status": "Aberto",
     "Score": "47,00",
     "Score perc.": "100",
-    "Score desc.": NaN,
+    "Score desc.": null,
     "Data Lançamento": "19/08/2026 00:00",
     "Local (Fazenda - Talhão)": "70417",
     "OS": "2496",
     "Frente": "261-PLANTIO MANUAL E CARPA",
     "Responsável": "MABILA HELEN D FIGUEIREDO",
     "Canteirização": "47",
-    "Fazenda": NaN
+    "Fazenda": null,
+    "Unnamed: 18": null
   },
   {
     "ID": "3858041",
@@ -4071,14 +4278,15 @@ const CANTEIRIZACAO_DATA = [
     "Status": "Aberto",
     "Score": "49,00",
     "Score perc.": "100",
-    "Score desc.": NaN,
+    "Score desc.": null,
     "Data Lançamento": "19/08/2026 00:00",
     "Local (Fazenda - Talhão)": "70417",
     "OS": "2496",
     "Frente": "261-PLANTIO MANUAL E CARPA",
     "Responsável": "MABILA HELEN D FIGUEIREDO",
     "Canteirização": "49",
-    "Fazenda": NaN
+    "Fazenda": null,
+    "Unnamed: 18": null
   },
   {
     "ID": "3843480",
@@ -4091,14 +4299,15 @@ const CANTEIRIZACAO_DATA = [
     "Status": "Aberto",
     "Score": "48,00",
     "Score perc.": "137,14",
-    "Score desc.": NaN,
+    "Score desc.": null,
     "Data Lançamento": "13/08/2026 00:00",
     "Local (Fazenda - Talhão)": "70411",
     "OS": "2350",
     "Frente": "261-PLANTIO MANUAL E CARPA",
     "Responsável": "MABILA HELEN D FIGUEIREDO",
     "Canteirização": "48",
-    "Fazenda": NaN
+    "Fazenda": null,
+    "Unnamed: 18": null
   },
   {
     "ID": "3843475",
@@ -4111,14 +4320,15 @@ const CANTEIRIZACAO_DATA = [
     "Status": "Aberto",
     "Score": "52,00",
     "Score perc.": "148,57",
-    "Score desc.": NaN,
+    "Score desc.": null,
     "Data Lançamento": "13/08/2026 00:00",
     "Local (Fazenda - Talhão)": "70411",
     "OS": "2350",
     "Frente": "261-PLANTIO MANUAL E CARPA",
     "Responsável": "MABILA HELEN D FIGUEIREDO",
     "Canteirização": "52",
-    "Fazenda": NaN
+    "Fazenda": null,
+    "Unnamed: 18": null
   },
   {
     "ID": "3843476",
@@ -4131,14 +4341,15 @@ const CANTEIRIZACAO_DATA = [
     "Status": "Aberto",
     "Score": "50,00",
     "Score perc.": "142,86",
-    "Score desc.": NaN,
+    "Score desc.": null,
     "Data Lançamento": "13/08/2026 00:00",
     "Local (Fazenda - Talhão)": "70411",
     "OS": "2350",
     "Frente": "261-PLANTIO MANUAL E CARPA",
     "Responsável": "MABILA HELEN D FIGUEIREDO",
     "Canteirização": "50",
-    "Fazenda": NaN
+    "Fazenda": null,
+    "Unnamed: 18": null
   },
   {
     "ID": "3843477",
@@ -4151,14 +4362,15 @@ const CANTEIRIZACAO_DATA = [
     "Status": "Aberto",
     "Score": "50,00",
     "Score perc.": "142,86",
-    "Score desc.": NaN,
+    "Score desc.": null,
     "Data Lançamento": "13/08/2026 00:00",
     "Local (Fazenda - Talhão)": "70411",
     "OS": "2350",
     "Frente": "261-PLANTIO MANUAL E CARPA",
     "Responsável": "MABILA HELEN D FIGUEIREDO",
     "Canteirização": "50",
-    "Fazenda": NaN
+    "Fazenda": null,
+    "Unnamed: 18": null
   },
   {
     "ID": "3843478",
@@ -4171,14 +4383,15 @@ const CANTEIRIZACAO_DATA = [
     "Status": "Aberto",
     "Score": "48,00",
     "Score perc.": "137,14",
-    "Score desc.": NaN,
+    "Score desc.": null,
     "Data Lançamento": "13/08/2026 00:00",
     "Local (Fazenda - Talhão)": "70411",
     "OS": "2350",
     "Frente": "261-PLANTIO MANUAL E CARPA",
     "Responsável": "MABILA HELEN D FIGUEIREDO",
     "Canteirização": "48",
-    "Fazenda": NaN
+    "Fazenda": null,
+    "Unnamed: 18": null
   },
   {
     "ID": "3843479",
@@ -4191,14 +4404,15 @@ const CANTEIRIZACAO_DATA = [
     "Status": "Aberto",
     "Score": "54,00",
     "Score perc.": "154,29",
-    "Score desc.": NaN,
+    "Score desc.": null,
     "Data Lançamento": "13/08/2026 00:00",
     "Local (Fazenda - Talhão)": "70411",
     "OS": "2350",
     "Frente": "261-PLANTIO MANUAL E CARPA",
     "Responsável": "MABILA HELEN D FIGUEIREDO",
     "Canteirização": "54",
-    "Fazenda": NaN
+    "Fazenda": null,
+    "Unnamed: 18": null
   },
   {
     "ID": "3858040",
@@ -4211,14 +4425,15 @@ const CANTEIRIZACAO_DATA = [
     "Status": "Aberto",
     "Score": "45,00",
     "Score perc.": "100",
-    "Score desc.": NaN,
+    "Score desc.": null,
     "Data Lançamento": "19/08/2026 00:00",
     "Local (Fazenda - Talhão)": "70417",
     "OS": "2496",
     "Frente": "261-PLANTIO MANUAL E CARPA",
     "Responsável": "MABILA HELEN D FIGUEIREDO",
     "Canteirização": "45",
-    "Fazenda": NaN
+    "Fazenda": null,
+    "Unnamed: 18": null
   },
   {
     "ID": "3858039",
@@ -4231,14 +4446,15 @@ const CANTEIRIZACAO_DATA = [
     "Status": "Aberto",
     "Score": "52,00",
     "Score perc.": "100",
-    "Score desc.": NaN,
+    "Score desc.": null,
     "Data Lançamento": "19/08/2026 00:00",
     "Local (Fazenda - Talhão)": "70417",
     "OS": "2496",
     "Frente": "261-PLANTIO MANUAL E CARPA",
     "Responsável": "MABILA HELEN D FIGUEIREDO",
     "Canteirização": "52",
-    "Fazenda": NaN
+    "Fazenda": null,
+    "Unnamed: 18": null
   },
   {
     "ID": "3858038",
@@ -4251,14 +4467,15 @@ const CANTEIRIZACAO_DATA = [
     "Status": "Aberto",
     "Score": "50,00",
     "Score perc.": "100",
-    "Score desc.": NaN,
+    "Score desc.": null,
     "Data Lançamento": "19/08/2026 00:00",
     "Local (Fazenda - Talhão)": "70417",
     "OS": "2496",
     "Frente": "261-PLANTIO MANUAL E CARPA",
     "Responsável": "MABILA HELEN D FIGUEIREDO",
     "Canteirização": "50",
-    "Fazenda": NaN
+    "Fazenda": null,
+    "Unnamed: 18": null
   },
   {
     "ID": "3858037",
@@ -4271,14 +4488,15 @@ const CANTEIRIZACAO_DATA = [
     "Status": "Aberto",
     "Score": "44,00",
     "Score perc.": "100",
-    "Score desc.": NaN,
+    "Score desc.": null,
     "Data Lançamento": "19/08/2026 00:00",
     "Local (Fazenda - Talhão)": "70417",
     "OS": "2496",
     "Frente": "261-PLANTIO MANUAL E CARPA",
     "Responsável": "MABILA HELEN D FIGUEIREDO",
     "Canteirização": "44",
-    "Fazenda": NaN
+    "Fazenda": null,
+    "Unnamed: 18": null
   },
   {
     "ID": "3858036",
@@ -4291,14 +4509,15 @@ const CANTEIRIZACAO_DATA = [
     "Status": "Aberto",
     "Score": "42,00",
     "Score perc.": "100",
-    "Score desc.": NaN,
+    "Score desc.": null,
     "Data Lançamento": "19/08/2026 00:00",
     "Local (Fazenda - Talhão)": "70417",
     "OS": "2496",
     "Frente": "261-PLANTIO MANUAL E CARPA",
     "Responsável": "MABILA HELEN D FIGUEIREDO",
     "Canteirização": "42",
-    "Fazenda": NaN
+    "Fazenda": null,
+    "Unnamed: 18": null
   },
   {
     "ID": "3858035",
@@ -4311,14 +4530,15 @@ const CANTEIRIZACAO_DATA = [
     "Status": "Aberto",
     "Score": "56,00",
     "Score perc.": "100",
-    "Score desc.": NaN,
+    "Score desc.": null,
     "Data Lançamento": "19/08/2026 00:00",
     "Local (Fazenda - Talhão)": "70417",
     "OS": "2496",
     "Frente": "261-PLANTIO MANUAL E CARPA",
     "Responsável": "MABILA HELEN D FIGUEIREDO",
     "Canteirização": "56",
-    "Fazenda": NaN
+    "Fazenda": null,
+    "Unnamed: 18": null
   },
   {
     "ID": "3858033",
@@ -4331,14 +4551,15 @@ const CANTEIRIZACAO_DATA = [
     "Status": "Aberto",
     "Score": "49,00",
     "Score perc.": "100",
-    "Score desc.": NaN,
+    "Score desc.": null,
     "Data Lançamento": "19/08/2026 00:00",
     "Local (Fazenda - Talhão)": "70417",
     "OS": "2496",
     "Frente": "261-PLANTIO MANUAL E CARPA",
     "Responsável": "MABILA HELEN D FIGUEIREDO",
     "Canteirização": "49",
-    "Fazenda": NaN
+    "Fazenda": null,
+    "Unnamed: 18": null
   },
   {
     "ID": "3858032",
@@ -4351,14 +4572,15 @@ const CANTEIRIZACAO_DATA = [
     "Status": "Aberto",
     "Score": "49,00",
     "Score perc.": "100",
-    "Score desc.": NaN,
+    "Score desc.": null,
     "Data Lançamento": "19/08/2026 00:00",
     "Local (Fazenda - Talhão)": "70417",
     "OS": "2496",
     "Frente": "261-PLANTIO MANUAL E CARPA",
     "Responsável": "MABILA HELEN D FIGUEIREDO",
     "Canteirização": "49",
-    "Fazenda": NaN
+    "Fazenda": null,
+    "Unnamed: 18": null
   },
   {
     "ID": "3858031",
@@ -4371,14 +4593,15 @@ const CANTEIRIZACAO_DATA = [
     "Status": "Aberto",
     "Score": "54,00",
     "Score perc.": "100",
-    "Score desc.": NaN,
+    "Score desc.": null,
     "Data Lançamento": "19/08/2026 00:00",
     "Local (Fazenda - Talhão)": "70417",
     "OS": "2496",
     "Frente": "261-PLANTIO MANUAL E CARPA",
     "Responsável": "MABILA HELEN D FIGUEIREDO",
     "Canteirização": "54",
-    "Fazenda": NaN
+    "Fazenda": null,
+    "Unnamed: 18": null
   },
   {
     "ID": "3858026",
@@ -4391,14 +4614,15 @@ const CANTEIRIZACAO_DATA = [
     "Status": "Aberto",
     "Score": "47,00",
     "Score perc.": "100",
-    "Score desc.": NaN,
+    "Score desc.": null,
     "Data Lançamento": "19/08/2026 00:00",
     "Local (Fazenda - Talhão)": "70417",
     "OS": "2496",
     "Frente": "261-PLANTIO MANUAL E CARPA",
     "Responsável": "MABILA HELEN D FIGUEIREDO",
     "Canteirização": "47",
-    "Fazenda": NaN
+    "Fazenda": null,
+    "Unnamed: 18": null
   },
   {
     "ID": "3855105",
@@ -4411,14 +4635,15 @@ const CANTEIRIZACAO_DATA = [
     "Status": "Aberto",
     "Score": "50,00",
     "Score perc.": "100",
-    "Score desc.": NaN,
+    "Score desc.": null,
     "Data Lançamento": "18/08/2026 00:00",
     "Local (Fazenda - Talhão)": "70417",
     "OS": "9742",
     "Frente": "261-PLANTIO MANUAL E CARPA",
     "Responsável": "EDILIANA CARDOSO DA COSTA",
     "Canteirização": "50",
-    "Fazenda": NaN
+    "Fazenda": null,
+    "Unnamed: 18": null
   },
   {
     "ID": "3855104",
@@ -4431,14 +4656,15 @@ const CANTEIRIZACAO_DATA = [
     "Status": "Aberto",
     "Score": "50,00",
     "Score perc.": "100",
-    "Score desc.": NaN,
+    "Score desc.": null,
     "Data Lançamento": "18/08/2026 00:00",
     "Local (Fazenda - Talhão)": "70417",
     "OS": "9742",
     "Frente": "261-PLANTIO MANUAL E CARPA",
     "Responsável": "EDILIANA CARDOSO DA COSTA",
     "Canteirização": "50",
-    "Fazenda": NaN
+    "Fazenda": null,
+    "Unnamed: 18": null
   },
   {
     "ID": "3855103",
@@ -4451,14 +4677,15 @@ const CANTEIRIZACAO_DATA = [
     "Status": "Aberto",
     "Score": "55,00",
     "Score perc.": "100",
-    "Score desc.": NaN,
+    "Score desc.": null,
     "Data Lançamento": "18/08/2026 00:00",
     "Local (Fazenda - Talhão)": "70417",
     "OS": "9742",
     "Frente": "261-PLANTIO MANUAL E CARPA",
     "Responsável": "EDILIANA CARDOSO DA COSTA",
     "Canteirização": "55",
-    "Fazenda": NaN
+    "Fazenda": null,
+    "Unnamed: 18": null
   },
   {
     "ID": "3855102",
@@ -4471,14 +4698,15 @@ const CANTEIRIZACAO_DATA = [
     "Status": "Aberto",
     "Score": "56,00",
     "Score perc.": "100",
-    "Score desc.": NaN,
+    "Score desc.": null,
     "Data Lançamento": "18/08/2026 00:00",
     "Local (Fazenda - Talhão)": "70417",
     "OS": "9742",
     "Frente": "261-PLANTIO MANUAL E CARPA",
     "Responsável": "EDILIANA CARDOSO DA COSTA",
     "Canteirização": "56",
-    "Fazenda": NaN
+    "Fazenda": null,
+    "Unnamed: 18": null
   },
   {
     "ID": "3855101",
@@ -4491,14 +4719,15 @@ const CANTEIRIZACAO_DATA = [
     "Status": "Aberto",
     "Score": "42,00",
     "Score perc.": "100",
-    "Score desc.": NaN,
+    "Score desc.": null,
     "Data Lançamento": "18/08/2026 00:00",
     "Local (Fazenda - Talhão)": "70417",
     "OS": "9742",
     "Frente": "261-PLANTIO MANUAL E CARPA",
     "Responsável": "EDILIANA CARDOSO DA COSTA",
     "Canteirização": "42",
-    "Fazenda": NaN
+    "Fazenda": null,
+    "Unnamed: 18": null
   },
   {
     "ID": "3855100",
@@ -4511,14 +4740,15 @@ const CANTEIRIZACAO_DATA = [
     "Status": "Aberto",
     "Score": "56,00",
     "Score perc.": "100",
-    "Score desc.": NaN,
+    "Score desc.": null,
     "Data Lançamento": "18/08/2026 00:00",
     "Local (Fazenda - Talhão)": "70417",
     "OS": "9742",
     "Frente": "261-PLANTIO MANUAL E CARPA",
     "Responsável": "EDILIANA CARDOSO DA COSTA",
     "Canteirização": "56",
-    "Fazenda": NaN
+    "Fazenda": null,
+    "Unnamed: 18": null
   },
   {
     "ID": "3855099",
@@ -4531,14 +4761,15 @@ const CANTEIRIZACAO_DATA = [
     "Status": "Aberto",
     "Score": "60,00",
     "Score perc.": "100",
-    "Score desc.": NaN,
+    "Score desc.": null,
     "Data Lançamento": "18/08/2026 00:00",
     "Local (Fazenda - Talhão)": "70417",
     "OS": "9742",
     "Frente": "261-PLANTIO MANUAL E CARPA",
     "Responsável": "EDILIANA CARDOSO DA COSTA",
     "Canteirização": "60",
-    "Fazenda": NaN
+    "Fazenda": null,
+    "Unnamed: 18": null
   },
   {
     "ID": "3855098",
@@ -4551,14 +4782,15 @@ const CANTEIRIZACAO_DATA = [
     "Status": "Aberto",
     "Score": "50,00",
     "Score perc.": "100",
-    "Score desc.": NaN,
+    "Score desc.": null,
     "Data Lançamento": "18/08/2026 00:00",
     "Local (Fazenda - Talhão)": "70417",
     "OS": "9742",
     "Frente": "261-PLANTIO MANUAL E CARPA",
     "Responsável": "EDILIANA CARDOSO DA COSTA",
     "Canteirização": "50",
-    "Fazenda": NaN
+    "Fazenda": null,
+    "Unnamed: 18": null
   },
   {
     "ID": "3855097",
@@ -4571,14 +4803,15 @@ const CANTEIRIZACAO_DATA = [
     "Status": "Aberto",
     "Score": "50,00",
     "Score perc.": "100",
-    "Score desc.": NaN,
+    "Score desc.": null,
     "Data Lançamento": "18/08/2026 00:00",
     "Local (Fazenda - Talhão)": "70417",
     "OS": "9742",
     "Frente": "261-PLANTIO MANUAL E CARPA",
     "Responsável": "EDILIANA CARDOSO DA COSTA",
     "Canteirização": "50",
-    "Fazenda": NaN
+    "Fazenda": null,
+    "Unnamed: 18": null
   },
   {
     "ID": "3855096",
@@ -4591,14 +4824,15 @@ const CANTEIRIZACAO_DATA = [
     "Status": "Aberto",
     "Score": "50,00",
     "Score perc.": "100",
-    "Score desc.": NaN,
+    "Score desc.": null,
     "Data Lançamento": "18/08/2026 00:00",
     "Local (Fazenda - Talhão)": "70417",
     "OS": "9742",
     "Frente": "261-PLANTIO MANUAL E CARPA",
     "Responsável": "EDILIANA CARDOSO DA COSTA",
     "Canteirização": "50",
-    "Fazenda": NaN
+    "Fazenda": null,
+    "Unnamed: 18": null
   },
   {
     "ID": "3855095",
@@ -4611,14 +4845,15 @@ const CANTEIRIZACAO_DATA = [
     "Status": "Aberto",
     "Score": "55,00",
     "Score perc.": "100",
-    "Score desc.": NaN,
+    "Score desc.": null,
     "Data Lançamento": "18/08/2026 00:00",
     "Local (Fazenda - Talhão)": "70417",
     "OS": "9742",
     "Frente": "261-PLANTIO MANUAL E CARPA",
     "Responsável": "EDILIANA CARDOSO DA COSTA",
     "Canteirização": "55",
-    "Fazenda": NaN
+    "Fazenda": null,
+    "Unnamed: 18": null
   },
   {
     "ID": "3854604",
@@ -4631,14 +4866,15 @@ const CANTEIRIZACAO_DATA = [
     "Status": "Aberto",
     "Score": "42,00",
     "Score perc.": "100",
-    "Score desc.": NaN,
+    "Score desc.": null,
     "Data Lançamento": "18/08/2026 00:00",
     "Local (Fazenda - Talhão)": "70417",
     "OS": "9742",
     "Frente": "102-PLANTIO MANUAL (PITAA)",
     "Responsável": "REGINALDO DA SILVA GOMES ",
     "Canteirização": "42",
-    "Fazenda": NaN
+    "Fazenda": null,
+    "Unnamed: 18": null
   },
   {
     "ID": "3854603",
@@ -4651,14 +4887,15 @@ const CANTEIRIZACAO_DATA = [
     "Status": "Aberto",
     "Score": "44,00",
     "Score perc.": "100",
-    "Score desc.": NaN,
+    "Score desc.": null,
     "Data Lançamento": "18/08/2026 00:00",
     "Local (Fazenda - Talhão)": "70417",
     "OS": "9742",
     "Frente": "102-PLANTIO MANUAL (PITAA)",
     "Responsável": "REGINALDO DA SILVA GOMES ",
     "Canteirização": "44",
-    "Fazenda": NaN
+    "Fazenda": null,
+    "Unnamed: 18": null
   },
   {
     "ID": "3854602",
@@ -4671,14 +4908,15 @@ const CANTEIRIZACAO_DATA = [
     "Status": "Aberto",
     "Score": "46,00",
     "Score perc.": "100",
-    "Score desc.": NaN,
+    "Score desc.": null,
     "Data Lançamento": "18/08/2026 00:00",
     "Local (Fazenda - Talhão)": "70417",
     "OS": "9742",
     "Frente": "102-PLANTIO MANUAL (PITAA)",
     "Responsável": "REGINALDO DA SILVA GOMES ",
     "Canteirização": "46",
-    "Fazenda": NaN
+    "Fazenda": null,
+    "Unnamed: 18": null
   },
   {
     "ID": "3854484",
@@ -4691,14 +4929,15 @@ const CANTEIRIZACAO_DATA = [
     "Status": "Aberto",
     "Score": "45,00",
     "Score perc.": "100",
-    "Score desc.": NaN,
+    "Score desc.": null,
     "Data Lançamento": "17/08/2026 00:00",
     "Local (Fazenda - Talhão)": "51401",
     "OS": "2348",
     "Frente": "261-PLANTIO MANUAL E CARPA",
     "Responsável": "EDILIANA CARDOSO DA COSTA",
     "Canteirização": "45",
-    "Fazenda": NaN
+    "Fazenda": null,
+    "Unnamed: 18": null
   },
   {
     "ID": "3854483",
@@ -4711,14 +4950,15 @@ const CANTEIRIZACAO_DATA = [
     "Status": "Aberto",
     "Score": "45,00",
     "Score perc.": "100",
-    "Score desc.": NaN,
+    "Score desc.": null,
     "Data Lançamento": "17/08/2026 00:00",
     "Local (Fazenda - Talhão)": "51401",
     "OS": "2348",
     "Frente": "261-PLANTIO MANUAL E CARPA",
     "Responsável": "EDILIANA CARDOSO DA COSTA",
     "Canteirização": "45",
-    "Fazenda": NaN
+    "Fazenda": null,
+    "Unnamed: 18": null
   },
   {
     "ID": "3854482",
@@ -4731,14 +4971,15 @@ const CANTEIRIZACAO_DATA = [
     "Status": "Aberto",
     "Score": "47,00",
     "Score perc.": "100",
-    "Score desc.": NaN,
+    "Score desc.": null,
     "Data Lançamento": "17/08/2026 00:00",
     "Local (Fazenda - Talhão)": "51401",
     "OS": "2348",
     "Frente": "261-PLANTIO MANUAL E CARPA",
     "Responsável": "EDILIANA CARDOSO DA COSTA",
     "Canteirização": "47",
-    "Fazenda": NaN
+    "Fazenda": null,
+    "Unnamed: 18": null
   },
   {
     "ID": "3854481",
@@ -4751,14 +4992,15 @@ const CANTEIRIZACAO_DATA = [
     "Status": "Aberto",
     "Score": "40,00",
     "Score perc.": "100",
-    "Score desc.": NaN,
+    "Score desc.": null,
     "Data Lançamento": "17/08/2026 00:00",
     "Local (Fazenda - Talhão)": "51401",
     "OS": "2348",
     "Frente": "261-PLANTIO MANUAL E CARPA",
     "Responsável": "EDILIANA CARDOSO DA COSTA",
     "Canteirização": "40",
-    "Fazenda": NaN
+    "Fazenda": null,
+    "Unnamed: 18": null
   },
   {
     "ID": "3854480",
@@ -4771,14 +5013,15 @@ const CANTEIRIZACAO_DATA = [
     "Status": "Aberto",
     "Score": "44,00",
     "Score perc.": "100",
-    "Score desc.": NaN,
+    "Score desc.": null,
     "Data Lançamento": "17/08/2026 00:00",
     "Local (Fazenda - Talhão)": "51401",
     "OS": "2348",
     "Frente": "261-PLANTIO MANUAL E CARPA",
     "Responsável": "EDILIANA CARDOSO DA COSTA",
     "Canteirização": "44",
-    "Fazenda": NaN
+    "Fazenda": null,
+    "Unnamed: 18": null
   },
   {
     "ID": "3854479",
@@ -4791,14 +5034,15 @@ const CANTEIRIZACAO_DATA = [
     "Status": "Aberto",
     "Score": "40,00",
     "Score perc.": "100",
-    "Score desc.": NaN,
+    "Score desc.": null,
     "Data Lançamento": "17/08/2026 00:00",
     "Local (Fazenda - Talhão)": "51401",
     "OS": "2348",
     "Frente": "261-PLANTIO MANUAL E CARPA",
     "Responsável": "EDILIANA CARDOSO DA COSTA",
     "Canteirização": "40",
-    "Fazenda": NaN
+    "Fazenda": null,
+    "Unnamed: 18": null
   },
   {
     "ID": "3854478",
@@ -4811,14 +5055,15 @@ const CANTEIRIZACAO_DATA = [
     "Status": "Aberto",
     "Score": "47,00",
     "Score perc.": "100",
-    "Score desc.": NaN,
+    "Score desc.": null,
     "Data Lançamento": "17/08/2026 00:00",
     "Local (Fazenda - Talhão)": "51401",
     "OS": "2348",
     "Frente": "261-PLANTIO MANUAL E CARPA",
     "Responsável": "EDILIANA CARDOSO DA COSTA",
     "Canteirização": "47",
-    "Fazenda": NaN
+    "Fazenda": null,
+    "Unnamed: 18": null
   },
   {
     "ID": "3854477",
@@ -4831,14 +5076,15 @@ const CANTEIRIZACAO_DATA = [
     "Status": "Aberto",
     "Score": "39,00",
     "Score perc.": "100",
-    "Score desc.": NaN,
+    "Score desc.": null,
     "Data Lançamento": "17/08/2026 00:00",
     "Local (Fazenda - Talhão)": "51401",
     "OS": "2348",
     "Frente": "261-PLANTIO MANUAL E CARPA",
     "Responsável": "EDILIANA CARDOSO DA COSTA",
     "Canteirização": "39",
-    "Fazenda": NaN
+    "Fazenda": null,
+    "Unnamed: 18": null
   },
   {
     "ID": "3854476",
@@ -4851,14 +5097,15 @@ const CANTEIRIZACAO_DATA = [
     "Status": "Aberto",
     "Score": "44,00",
     "Score perc.": "100",
-    "Score desc.": NaN,
+    "Score desc.": null,
     "Data Lançamento": "17/08/2026 00:00",
     "Local (Fazenda - Talhão)": "51401",
     "OS": "2348",
     "Frente": "261-PLANTIO MANUAL E CARPA",
     "Responsável": "EDILIANA CARDOSO DA COSTA",
     "Canteirização": "44",
-    "Fazenda": NaN
+    "Fazenda": null,
+    "Unnamed: 18": null
   },
   {
     "ID": "3854475",
@@ -4871,14 +5118,15 @@ const CANTEIRIZACAO_DATA = [
     "Status": "Aberto",
     "Score": "40,00",
     "Score perc.": "100",
-    "Score desc.": NaN,
+    "Score desc.": null,
     "Data Lançamento": "17/08/2026 00:00",
     "Local (Fazenda - Talhão)": "51401",
     "OS": "2348",
     "Frente": "261-PLANTIO MANUAL E CARPA",
     "Responsável": "EDILIANA CARDOSO DA COSTA",
     "Canteirização": "40",
-    "Fazenda": NaN
+    "Fazenda": null,
+    "Unnamed: 18": null
   },
   {
     "ID": "3854474",
@@ -4891,14 +5139,15 @@ const CANTEIRIZACAO_DATA = [
     "Status": "Aberto",
     "Score": "43,00",
     "Score perc.": "100",
-    "Score desc.": NaN,
+    "Score desc.": null,
     "Data Lançamento": "17/08/2026 00:00",
     "Local (Fazenda - Talhão)": "51401",
     "OS": "2348",
     "Frente": "261-PLANTIO MANUAL E CARPA",
     "Responsável": "EDILIANA CARDOSO DA COSTA",
     "Canteirização": "43",
-    "Fazenda": NaN
+    "Fazenda": null,
+    "Unnamed: 18": null
   },
   {
     "ID": "3854473",
@@ -4911,14 +5160,15 @@ const CANTEIRIZACAO_DATA = [
     "Status": "Aberto",
     "Score": "45,00",
     "Score perc.": "100",
-    "Score desc.": NaN,
+    "Score desc.": null,
     "Data Lançamento": "17/08/2026 00:00",
     "Local (Fazenda - Talhão)": "51401",
     "OS": "2348",
     "Frente": "261-PLANTIO MANUAL E CARPA",
     "Responsável": "EDILIANA CARDOSO DA COSTA",
     "Canteirização": "45",
-    "Fazenda": NaN
+    "Fazenda": null,
+    "Unnamed: 18": null
   },
   {
     "ID": "3854472",
@@ -4931,14 +5181,15 @@ const CANTEIRIZACAO_DATA = [
     "Status": "Aberto",
     "Score": "45,00",
     "Score perc.": "100",
-    "Score desc.": NaN,
+    "Score desc.": null,
     "Data Lançamento": "17/08/2026 00:00",
     "Local (Fazenda - Talhão)": "51401",
     "OS": "2348",
     "Frente": "261-PLANTIO MANUAL E CARPA",
     "Responsável": "EDILIANA CARDOSO DA COSTA",
     "Canteirização": "45",
-    "Fazenda": NaN
+    "Fazenda": null,
+    "Unnamed: 18": null
   },
   {
     "ID": "3849220",
@@ -4951,14 +5202,15 @@ const CANTEIRIZACAO_DATA = [
     "Status": "Aberto",
     "Score": "54,00",
     "Score perc.": "100",
-    "Score desc.": NaN,
+    "Score desc.": null,
     "Data Lançamento": "15/08/2026 00:00",
     "Local (Fazenda - Talhão)": "70411",
     "OS": "2350",
     "Frente": "261-PLANTIO MANUAL E CARPA",
     "Responsável": "MABILA HELEN D FIGUEIREDO",
     "Canteirização": "54",
-    "Fazenda": NaN
+    "Fazenda": null,
+    "Unnamed: 18": null
   },
   {
     "ID": "3849219",
@@ -4971,14 +5223,15 @@ const CANTEIRIZACAO_DATA = [
     "Status": "Aberto",
     "Score": "53,00",
     "Score perc.": "100",
-    "Score desc.": NaN,
+    "Score desc.": null,
     "Data Lançamento": "15/08/2026 00:00",
     "Local (Fazenda - Talhão)": "70411",
     "OS": "2350",
     "Frente": "261-PLANTIO MANUAL E CARPA",
     "Responsável": "MABILA HELEN D FIGUEIREDO",
     "Canteirização": "53",
-    "Fazenda": NaN
+    "Fazenda": null,
+    "Unnamed: 18": null
   },
   {
     "ID": "3849218",
@@ -4991,14 +5244,15 @@ const CANTEIRIZACAO_DATA = [
     "Status": "Aberto",
     "Score": "52,00",
     "Score perc.": "100",
-    "Score desc.": NaN,
+    "Score desc.": null,
     "Data Lançamento": "15/08/2026 00:00",
     "Local (Fazenda - Talhão)": "70411",
     "OS": "2350",
     "Frente": "261-PLANTIO MANUAL E CARPA",
     "Responsável": "MABILA HELEN D FIGUEIREDO",
     "Canteirização": "52",
-    "Fazenda": NaN
+    "Fazenda": null,
+    "Unnamed: 18": null
   },
   {
     "ID": "3849217",
@@ -5011,14 +5265,15 @@ const CANTEIRIZACAO_DATA = [
     "Status": "Aberto",
     "Score": "48,00",
     "Score perc.": "100",
-    "Score desc.": NaN,
+    "Score desc.": null,
     "Data Lançamento": "15/08/2026 00:00",
     "Local (Fazenda - Talhão)": "70411",
     "OS": "2350",
     "Frente": "261-PLANTIO MANUAL E CARPA",
     "Responsável": "MABILA HELEN D FIGUEIREDO",
     "Canteirização": "48",
-    "Fazenda": NaN
+    "Fazenda": null,
+    "Unnamed: 18": null
   },
   {
     "ID": "3849212",
@@ -5031,14 +5286,15 @@ const CANTEIRIZACAO_DATA = [
     "Status": "Aberto",
     "Score": "50,00",
     "Score perc.": "100",
-    "Score desc.": NaN,
+    "Score desc.": null,
     "Data Lançamento": "15/08/2026 00:00",
     "Local (Fazenda - Talhão)": "70411",
     "OS": "2350",
     "Frente": "261-PLANTIO MANUAL E CARPA",
     "Responsável": "MABILA HELEN D FIGUEIREDO",
     "Canteirização": "50",
-    "Fazenda": NaN
+    "Fazenda": null,
+    "Unnamed: 18": null
   },
   {
     "ID": "3849203",
@@ -5051,14 +5307,15 @@ const CANTEIRIZACAO_DATA = [
     "Status": "Aberto",
     "Score": "45,00",
     "Score perc.": "100",
-    "Score desc.": NaN,
+    "Score desc.": null,
     "Data Lançamento": "15/08/2026 00:00",
     "Local (Fazenda - Talhão)": "70411",
     "OS": "2350",
     "Frente": "261-PLANTIO MANUAL E CARPA",
     "Responsável": "MABILA HELEN D FIGUEIREDO",
     "Canteirização": "45",
-    "Fazenda": NaN
+    "Fazenda": null,
+    "Unnamed: 18": null
   },
   {
     "ID": "3849198",
@@ -5071,14 +5328,15 @@ const CANTEIRIZACAO_DATA = [
     "Status": "Aberto",
     "Score": "51,00",
     "Score perc.": "100",
-    "Score desc.": NaN,
+    "Score desc.": null,
     "Data Lançamento": "15/08/2026 00:00",
     "Local (Fazenda - Talhão)": "70411",
     "OS": "2350",
     "Frente": "261-PLANTIO MANUAL E CARPA",
     "Responsável": "MABILA HELEN D FIGUEIREDO",
     "Canteirização": "51",
-    "Fazenda": NaN
+    "Fazenda": null,
+    "Unnamed: 18": null
   },
   {
     "ID": "3849192",
@@ -5091,14 +5349,15 @@ const CANTEIRIZACAO_DATA = [
     "Status": "Aberto",
     "Score": "51,00",
     "Score perc.": "100",
-    "Score desc.": NaN,
+    "Score desc.": null,
     "Data Lançamento": "15/08/2026 00:00",
     "Local (Fazenda - Talhão)": "70411",
     "OS": "2350",
     "Frente": "261-PLANTIO MANUAL E CARPA",
     "Responsável": "MABILA HELEN D FIGUEIREDO",
     "Canteirização": "51",
-    "Fazenda": NaN
+    "Fazenda": null,
+    "Unnamed: 18": null
   },
   {
     "ID": "3849182",
@@ -5111,14 +5370,15 @@ const CANTEIRIZACAO_DATA = [
     "Status": "Aberto",
     "Score": "48,00",
     "Score perc.": "100",
-    "Score desc.": NaN,
+    "Score desc.": null,
     "Data Lançamento": "15/08/2026 00:00",
     "Local (Fazenda - Talhão)": "70411",
     "OS": "2350",
     "Frente": "261-PLANTIO MANUAL E CARPA",
     "Responsável": "MABILA HELEN D FIGUEIREDO",
     "Canteirização": "48",
-    "Fazenda": NaN
+    "Fazenda": null,
+    "Unnamed: 18": null
   },
   {
     "ID": "3849178",
@@ -5131,14 +5391,15 @@ const CANTEIRIZACAO_DATA = [
     "Status": "Aberto",
     "Score": "43,00",
     "Score perc.": "100",
-    "Score desc.": NaN,
+    "Score desc.": null,
     "Data Lançamento": "15/08/2026 00:00",
     "Local (Fazenda - Talhão)": "70411",
     "OS": "2350",
     "Frente": "261-PLANTIO MANUAL E CARPA",
     "Responsável": "MABILA HELEN D FIGUEIREDO",
     "Canteirização": "43",
-    "Fazenda": NaN
+    "Fazenda": null,
+    "Unnamed: 18": null
   },
   {
     "ID": "3849169",
@@ -5151,14 +5412,15 @@ const CANTEIRIZACAO_DATA = [
     "Status": "Aberto",
     "Score": "45,00",
     "Score perc.": "100",
-    "Score desc.": NaN,
+    "Score desc.": null,
     "Data Lançamento": "15/08/2026 00:00",
     "Local (Fazenda - Talhão)": "70411",
     "OS": "2350",
     "Frente": "261-PLANTIO MANUAL E CARPA",
     "Responsável": "MABILA HELEN D FIGUEIREDO",
     "Canteirização": "45",
-    "Fazenda": NaN
+    "Fazenda": null,
+    "Unnamed: 18": null
   },
   {
     "ID": "3849120",
@@ -5171,14 +5433,15 @@ const CANTEIRIZACAO_DATA = [
     "Status": "Aberto",
     "Score": "43,00",
     "Score perc.": "100",
-    "Score desc.": NaN,
+    "Score desc.": null,
     "Data Lançamento": "15/08/2026 00:00",
     "Local (Fazenda - Talhão)": "70411",
     "OS": "2350",
     "Frente": "102-PLANTIO MANUAL (PITAA)",
     "Responsável": "REGINALDO DA SILVA GOMES ",
     "Canteirização": "43",
-    "Fazenda": NaN
+    "Fazenda": null,
+    "Unnamed: 18": null
   },
   {
     "ID": "3849119",
@@ -5191,14 +5454,15 @@ const CANTEIRIZACAO_DATA = [
     "Status": "Aberto",
     "Score": "42,00",
     "Score perc.": "100",
-    "Score desc.": NaN,
+    "Score desc.": null,
     "Data Lançamento": "15/08/2026 00:00",
     "Local (Fazenda - Talhão)": "70411",
     "OS": "2350",
     "Frente": "102-PLANTIO MANUAL (PITAA)",
     "Responsável": "REGINALDO DA SILVA GOMES ",
     "Canteirização": "42",
-    "Fazenda": NaN
+    "Fazenda": null,
+    "Unnamed: 18": null
   },
   {
     "ID": "3849118",
@@ -5211,14 +5475,15 @@ const CANTEIRIZACAO_DATA = [
     "Status": "Aberto",
     "Score": "47,00",
     "Score perc.": "100",
-    "Score desc.": NaN,
+    "Score desc.": null,
     "Data Lançamento": "15/08/2026 00:00",
     "Local (Fazenda - Talhão)": "70411",
     "OS": "2350",
     "Frente": "102-PLANTIO MANUAL (PITAA)",
     "Responsável": "REGINALDO DA SILVA GOMES ",
     "Canteirização": "47",
-    "Fazenda": NaN
+    "Fazenda": null,
+    "Unnamed: 18": null
   },
   {
     "ID": "4026268",
@@ -5231,14 +5496,15 @@ const CANTEIRIZACAO_DATA = [
     "Status": "Open",
     "Score": "50.00",
     "Score perc.": "100",
-    "Score desc.": NaN,
+    "Score desc.": null,
     "Data Lançamento": "11/04/2026 00:00",
     "Local (Fazenda - Talhão)": "33302",
     "OS": "3455",
     "Frente": "135- Pedrinho",
     "Responsável": "285410",
     "Canteirização": "50",
-    "Fazenda": "33302"
+    "Fazenda": "33302",
+    "Unnamed: 18": null
   },
   {
     "ID": "4026266",
@@ -5251,14 +5517,15 @@ const CANTEIRIZACAO_DATA = [
     "Status": "Open",
     "Score": "47.00",
     "Score perc.": "100",
-    "Score desc.": NaN,
+    "Score desc.": null,
     "Data Lançamento": "11/04/2026 00:00",
     "Local (Fazenda - Talhão)": "33302",
     "OS": "3455",
     "Frente": "135- Pedrinho",
     "Responsável": "285410",
     "Canteirização": "47",
-    "Fazenda": "33302"
+    "Fazenda": "33302",
+    "Unnamed: 18": null
   },
   {
     "ID": "4026265",
@@ -5271,14 +5538,15 @@ const CANTEIRIZACAO_DATA = [
     "Status": "Open",
     "Score": "49.00",
     "Score perc.": "100",
-    "Score desc.": NaN,
+    "Score desc.": null,
     "Data Lançamento": "11/04/2026 00:00",
     "Local (Fazenda - Talhão)": "33302",
     "OS": "3455",
     "Frente": "135- Pedrinho",
     "Responsável": "285410",
     "Canteirização": "49",
-    "Fazenda": "33302"
+    "Fazenda": "33302",
+    "Unnamed: 18": null
   },
   {
     "ID": "4026264",
@@ -5291,14 +5559,15 @@ const CANTEIRIZACAO_DATA = [
     "Status": "Open",
     "Score": "47.00",
     "Score perc.": "100",
-    "Score desc.": NaN,
+    "Score desc.": null,
     "Data Lançamento": "11/04/2026 00:00",
     "Local (Fazenda - Talhão)": "33302",
     "OS": "3455",
     "Frente": "135- Pedrinho",
     "Responsável": "285410",
     "Canteirização": "47",
-    "Fazenda": "33302"
+    "Fazenda": "33302",
+    "Unnamed: 18": null
   },
   {
     "ID": "4026263",
@@ -5311,14 +5580,15 @@ const CANTEIRIZACAO_DATA = [
     "Status": "Open",
     "Score": "50.00",
     "Score perc.": "100",
-    "Score desc.": NaN,
+    "Score desc.": null,
     "Data Lançamento": "11/04/2026 00:00",
     "Local (Fazenda - Talhão)": "33302",
     "OS": "3455",
     "Frente": "135- Pedrinho",
     "Responsável": "285410",
     "Canteirização": "50",
-    "Fazenda": "33302"
+    "Fazenda": "33302",
+    "Unnamed: 18": null
   },
   {
     "ID": "4026262",
@@ -5331,14 +5601,15 @@ const CANTEIRIZACAO_DATA = [
     "Status": "Open",
     "Score": "47.00",
     "Score perc.": "100",
-    "Score desc.": NaN,
+    "Score desc.": null,
     "Data Lançamento": "11/04/2026 00:00",
     "Local (Fazenda - Talhão)": "33302",
     "OS": "3455",
     "Frente": "135- Pedrinho",
     "Responsável": "285410",
     "Canteirização": "47",
-    "Fazenda": "33302"
+    "Fazenda": "33302",
+    "Unnamed: 18": null
   },
   {
     "ID": "4026261",
@@ -5351,14 +5622,15 @@ const CANTEIRIZACAO_DATA = [
     "Status": "Open",
     "Score": "48.00",
     "Score perc.": "100",
-    "Score desc.": NaN,
+    "Score desc.": null,
     "Data Lançamento": "11/04/2026 00:00",
     "Local (Fazenda - Talhão)": "33302",
     "OS": "3455",
     "Frente": "135- Pedrinho",
     "Responsável": "285410",
     "Canteirização": "48",
-    "Fazenda": "33302"
+    "Fazenda": "33302",
+    "Unnamed: 18": null
   },
   {
     "ID": "4026260",
@@ -5371,14 +5643,15 @@ const CANTEIRIZACAO_DATA = [
     "Status": "Open",
     "Score": "47.00",
     "Score perc.": "100",
-    "Score desc.": NaN,
+    "Score desc.": null,
     "Data Lançamento": "11/04/2026 00:00",
     "Local (Fazenda - Talhão)": "33302",
     "OS": "3455",
     "Frente": "135- Pedrinho",
     "Responsável": "285410",
     "Canteirização": "47",
-    "Fazenda": "33302"
+    "Fazenda": "33302",
+    "Unnamed: 18": null
   },
   {
     "ID": "4026259",
@@ -5391,14 +5664,15 @@ const CANTEIRIZACAO_DATA = [
     "Status": "Open",
     "Score": "50.00",
     "Score perc.": "100",
-    "Score desc.": NaN,
+    "Score desc.": null,
     "Data Lançamento": "11/04/2026 00:00",
     "Local (Fazenda - Talhão)": "33302",
     "OS": "3455",
     "Frente": "135- Pedrinho",
     "Responsável": "285410",
     "Canteirização": "50",
-    "Fazenda": "33302"
+    "Fazenda": "33302",
+    "Unnamed: 18": null
   },
   {
     "ID": "4026258",
@@ -5411,14 +5685,15 @@ const CANTEIRIZACAO_DATA = [
     "Status": "Open",
     "Score": "48.00",
     "Score perc.": "100",
-    "Score desc.": NaN,
+    "Score desc.": null,
     "Data Lançamento": "11/04/2026 00:00",
     "Local (Fazenda - Talhão)": "33302",
     "OS": "3455",
     "Frente": "135- Pedrinho",
     "Responsável": "285410",
     "Canteirização": "48",
-    "Fazenda": "33302"
+    "Fazenda": "33302",
+    "Unnamed: 18": null
   },
   {
     "ID": "4026257",
@@ -5431,14 +5706,15 @@ const CANTEIRIZACAO_DATA = [
     "Status": "Open",
     "Score": "47.00",
     "Score perc.": "100",
-    "Score desc.": NaN,
+    "Score desc.": null,
     "Data Lançamento": "11/04/2026 00:00",
     "Local (Fazenda - Talhão)": "33302",
     "OS": "3455",
     "Frente": "135- Pedrinho",
     "Responsável": "285410",
     "Canteirização": "47",
-    "Fazenda": "33302"
+    "Fazenda": "33302",
+    "Unnamed: 18": null
   },
   {
     "ID": "4015787",
@@ -5451,14 +5727,15 @@ const CANTEIRIZACAO_DATA = [
     "Status": "Open",
     "Score": "49.00",
     "Score perc.": "100",
-    "Score desc.": NaN,
+    "Score desc.": null,
     "Data Lançamento": "29/10/2026 00:00",
     "Local (Fazenda - Talhão)": "70426",
     "OS": "3457",
     "Frente": "135- Pedrinho",
     "Responsável": "284860  - Juliana Aparecida Ferreira De Freitas",
     "Canteirização": "49",
-    "Fazenda": "70426"
+    "Fazenda": "70426",
+    "Unnamed: 18": null
   },
   {
     "ID": "4015786",
@@ -5471,14 +5748,15 @@ const CANTEIRIZACAO_DATA = [
     "Status": "Open",
     "Score": "47.00",
     "Score perc.": "100",
-    "Score desc.": NaN,
+    "Score desc.": null,
     "Data Lançamento": "29/10/2026 00:00",
     "Local (Fazenda - Talhão)": "70426",
     "OS": "3457",
     "Frente": "135- Pedrinho",
     "Responsável": "284860  - Juliana Aparecida Ferreira De Freitas",
     "Canteirização": "47",
-    "Fazenda": "70426"
+    "Fazenda": "70426",
+    "Unnamed: 18": null
   },
   {
     "ID": "4015785",
@@ -5491,14 +5769,15 @@ const CANTEIRIZACAO_DATA = [
     "Status": "Open",
     "Score": "50.00",
     "Score perc.": "100",
-    "Score desc.": NaN,
+    "Score desc.": null,
     "Data Lançamento": "29/10/2026 00:00",
     "Local (Fazenda - Talhão)": "70426",
     "OS": "3457",
     "Frente": "135- Pedrinho",
     "Responsável": "284860  - Juliana Aparecida Ferreira De Freitas",
     "Canteirização": "50",
-    "Fazenda": "70426"
+    "Fazenda": "70426",
+    "Unnamed: 18": null
   },
   {
     "ID": "4015784",
@@ -5511,14 +5790,15 @@ const CANTEIRIZACAO_DATA = [
     "Status": "Open",
     "Score": "50.00",
     "Score perc.": "100",
-    "Score desc.": NaN,
+    "Score desc.": null,
     "Data Lançamento": "29/10/2026 00:00",
     "Local (Fazenda - Talhão)": "70426",
     "OS": "3457",
     "Frente": "135- Pedrinho",
     "Responsável": "284860  - Juliana Aparecida Ferreira De Freitas",
     "Canteirização": "50",
-    "Fazenda": "70426"
+    "Fazenda": "70426",
+    "Unnamed: 18": null
   },
   {
     "ID": "4015783",
@@ -5531,14 +5811,15 @@ const CANTEIRIZACAO_DATA = [
     "Status": "Open",
     "Score": "49.00",
     "Score perc.": "100",
-    "Score desc.": NaN,
+    "Score desc.": null,
     "Data Lançamento": "29/10/2026 00:00",
     "Local (Fazenda - Talhão)": "70426",
     "OS": "3457",
     "Frente": "135- Pedrinho",
     "Responsável": "284860  - Juliana Aparecida Ferreira De Freitas",
     "Canteirização": "49",
-    "Fazenda": "70426"
+    "Fazenda": "70426",
+    "Unnamed: 18": null
   },
   {
     "ID": "4015782",
@@ -5551,14 +5832,15 @@ const CANTEIRIZACAO_DATA = [
     "Status": "Open",
     "Score": "47.00",
     "Score perc.": "100",
-    "Score desc.": NaN,
+    "Score desc.": null,
     "Data Lançamento": "29/10/2026 00:00",
     "Local (Fazenda - Talhão)": "70426",
     "OS": "3457",
     "Frente": "135- Pedrinho",
     "Responsável": "284860  - Juliana Aparecida Ferreira De Freitas",
     "Canteirização": "47",
-    "Fazenda": "70426"
+    "Fazenda": "70426",
+    "Unnamed: 18": null
   },
   {
     "ID": "4015743",
@@ -5571,14 +5853,15 @@ const CANTEIRIZACAO_DATA = [
     "Status": "Open",
     "Score": "48.00",
     "Score perc.": "100",
-    "Score desc.": NaN,
+    "Score desc.": null,
     "Data Lançamento": "29/10/2026 00:00",
     "Local (Fazenda - Talhão)": "70426",
     "OS": "3457",
     "Frente": "135- Pedrinho",
     "Responsável": "REGINALDO DA SILVA GOMES ",
     "Canteirização": "48",
-    "Fazenda": "70426"
+    "Fazenda": "70426",
+    "Unnamed: 18": null
   },
   {
     "ID": "4015781",
@@ -5591,14 +5874,15 @@ const CANTEIRIZACAO_DATA = [
     "Status": "Open",
     "Score": "49.00",
     "Score perc.": "100",
-    "Score desc.": NaN,
+    "Score desc.": null,
     "Data Lançamento": "29/10/2026 00:00",
     "Local (Fazenda - Talhão)": "70426",
     "OS": "3457",
     "Frente": "135- Pedrinho",
     "Responsável": "284860  - Juliana Aparecida Ferreira De Freitas",
     "Canteirização": "49",
-    "Fazenda": "70426"
+    "Fazenda": "70426",
+    "Unnamed: 18": null
   },
   {
     "ID": "4015780",
@@ -5611,14 +5895,15 @@ const CANTEIRIZACAO_DATA = [
     "Status": "Open",
     "Score": "50.00",
     "Score perc.": "100",
-    "Score desc.": NaN,
+    "Score desc.": null,
     "Data Lançamento": "29/10/2026 00:00",
     "Local (Fazenda - Talhão)": "70426",
     "OS": "3457",
     "Frente": "135- Pedrinho",
     "Responsável": "284860  - Juliana Aparecida Ferreira De Freitas",
     "Canteirização": "50",
-    "Fazenda": "70426"
+    "Fazenda": "70426",
+    "Unnamed: 18": null
   },
   {
     "ID": "4015742",
@@ -5631,14 +5916,15 @@ const CANTEIRIZACAO_DATA = [
     "Status": "Open",
     "Score": "43.00",
     "Score perc.": "100",
-    "Score desc.": NaN,
+    "Score desc.": null,
     "Data Lançamento": "29/10/2026 00:00",
     "Local (Fazenda - Talhão)": "70426",
     "OS": "3457",
     "Frente": "135- Pedrinho",
     "Responsável": "REGINALDO DA SILVA GOMES ",
     "Canteirização": "43",
-    "Fazenda": "70426"
+    "Fazenda": "70426",
+    "Unnamed: 18": null
   },
   {
     "ID": "4015779",
@@ -5651,14 +5937,15 @@ const CANTEIRIZACAO_DATA = [
     "Status": "Open",
     "Score": "49.00",
     "Score perc.": "100",
-    "Score desc.": NaN,
+    "Score desc.": null,
     "Data Lançamento": "29/10/2026 00:00",
     "Local (Fazenda - Talhão)": "70426",
     "OS": "3457",
     "Frente": "135- Pedrinho",
     "Responsável": "284860  - Juliana Aparecida Ferreira De Freitas",
     "Canteirização": "49",
-    "Fazenda": "70426"
+    "Fazenda": "70426",
+    "Unnamed: 18": null
   },
   {
     "ID": "4015778",
@@ -5671,14 +5958,15 @@ const CANTEIRIZACAO_DATA = [
     "Status": "Open",
     "Score": "48.00",
     "Score perc.": "100",
-    "Score desc.": NaN,
+    "Score desc.": null,
     "Data Lançamento": "29/10/2026 00:00",
     "Local (Fazenda - Talhão)": "70426",
     "OS": "3457",
     "Frente": "135- Pedrinho",
     "Responsável": "284860  - Juliana Aparecida Ferreira De Freitas",
     "Canteirização": "48",
-    "Fazenda": "70426"
+    "Fazenda": "70426",
+    "Unnamed: 18": null
   },
   {
     "ID": "4015741",
@@ -5691,14 +5979,15 @@ const CANTEIRIZACAO_DATA = [
     "Status": "Open",
     "Score": "46.00",
     "Score perc.": "100",
-    "Score desc.": NaN,
+    "Score desc.": null,
     "Data Lançamento": "29/10/2026 00:00",
     "Local (Fazenda - Talhão)": "70426",
     "OS": "3457",
     "Frente": "135- Pedrinho",
     "Responsável": "REGINALDO DA SILVA GOMES ",
     "Canteirização": "46",
-    "Fazenda": "70426"
+    "Fazenda": "70426",
+    "Unnamed: 18": null
   },
   {
     "ID": "4015777",
@@ -5711,14 +6000,15 @@ const CANTEIRIZACAO_DATA = [
     "Status": "Open",
     "Score": "47.00",
     "Score perc.": "100",
-    "Score desc.": NaN,
+    "Score desc.": null,
     "Data Lançamento": "29/10/2026 00:00",
     "Local (Fazenda - Talhão)": "70426",
     "OS": "3457",
     "Frente": "135- Pedrinho",
     "Responsável": "284860  - Juliana Aparecida Ferreira De Freitas",
     "Canteirização": "47",
-    "Fazenda": "70426"
+    "Fazenda": "70426",
+    "Unnamed: 18": null
   },
   {
     "ID": "4012692",
@@ -5731,14 +6021,15 @@ const CANTEIRIZACAO_DATA = [
     "Status": "Open",
     "Score": "47.00",
     "Score perc.": "100",
-    "Score desc.": NaN,
+    "Score desc.": null,
     "Data Lançamento": "28/10/2026 00:00",
     "Local (Fazenda - Talhão)": "70301",
     "OS": "3456",
     "Frente": "135- Pedrinho",
     "Responsável": "284860  - Juliana Aparecida Ferreira De Freitas",
     "Canteirização": "47",
-    "Fazenda": "70301"
+    "Fazenda": "70301",
+    "Unnamed: 18": null
   },
   {
     "ID": "4012691",
@@ -5751,14 +6042,15 @@ const CANTEIRIZACAO_DATA = [
     "Status": "Open",
     "Score": "49.00",
     "Score perc.": "100",
-    "Score desc.": NaN,
+    "Score desc.": null,
     "Data Lançamento": "28/10/2026 00:00",
     "Local (Fazenda - Talhão)": "70301",
     "OS": "3456",
     "Frente": "135- Pedrinho",
     "Responsável": "284860  - Juliana Aparecida Ferreira De Freitas",
     "Canteirização": "49",
-    "Fazenda": "70301"
+    "Fazenda": "70301",
+    "Unnamed: 18": null
   },
   {
     "ID": "4012690",
@@ -5771,14 +6063,15 @@ const CANTEIRIZACAO_DATA = [
     "Status": "Open",
     "Score": "49.00",
     "Score perc.": "100",
-    "Score desc.": NaN,
+    "Score desc.": null,
     "Data Lançamento": "28/10/2026 00:00",
     "Local (Fazenda - Talhão)": "70301",
     "OS": "3456",
     "Frente": "135- Pedrinho",
     "Responsável": "284860  - Juliana Aparecida Ferreira De Freitas",
     "Canteirização": "49",
-    "Fazenda": "70301"
+    "Fazenda": "70301",
+    "Unnamed: 18": null
   },
   {
     "ID": "4012689",
@@ -5791,14 +6084,15 @@ const CANTEIRIZACAO_DATA = [
     "Status": "Open",
     "Score": "47.00",
     "Score perc.": "100",
-    "Score desc.": NaN,
+    "Score desc.": null,
     "Data Lançamento": "28/10/2026 00:00",
     "Local (Fazenda - Talhão)": "70301",
     "OS": "3456",
     "Frente": "135- Pedrinho",
     "Responsável": "284860  - Juliana Aparecida Ferreira De Freitas",
     "Canteirização": "47",
-    "Fazenda": "70301"
+    "Fazenda": "70301",
+    "Unnamed: 18": null
   },
   {
     "ID": "4012688",
@@ -5811,14 +6105,15 @@ const CANTEIRIZACAO_DATA = [
     "Status": "Open",
     "Score": "50.00",
     "Score perc.": "100",
-    "Score desc.": NaN,
+    "Score desc.": null,
     "Data Lançamento": "28/10/2026 00:00",
     "Local (Fazenda - Talhão)": "70301",
     "OS": "3456",
     "Frente": "135- Pedrinho",
     "Responsável": "284860  - Juliana Aparecida Ferreira De Freitas",
     "Canteirização": "50",
-    "Fazenda": "70301"
+    "Fazenda": "70301",
+    "Unnamed: 18": null
   },
   {
     "ID": "4012687",
@@ -5831,14 +6126,15 @@ const CANTEIRIZACAO_DATA = [
     "Status": "Open",
     "Score": "49.00",
     "Score perc.": "100",
-    "Score desc.": NaN,
+    "Score desc.": null,
     "Data Lançamento": "28/10/2026 00:00",
     "Local (Fazenda - Talhão)": "70301",
     "OS": "3456",
     "Frente": "135- Pedrinho",
     "Responsável": "284860  - Juliana Aparecida Ferreira De Freitas",
     "Canteirização": "49",
-    "Fazenda": "70301"
+    "Fazenda": "70301",
+    "Unnamed: 18": null
   },
   {
     "ID": "4012686",
@@ -5851,14 +6147,15 @@ const CANTEIRIZACAO_DATA = [
     "Status": "Open",
     "Score": "49.00",
     "Score perc.": "100",
-    "Score desc.": NaN,
+    "Score desc.": null,
     "Data Lançamento": "28/10/2026 00:00",
     "Local (Fazenda - Talhão)": "70301",
     "OS": "3456",
     "Frente": "135- Pedrinho",
     "Responsável": "284860  - Juliana Aparecida Ferreira De Freitas",
     "Canteirização": "49",
-    "Fazenda": "70301"
+    "Fazenda": "70301",
+    "Unnamed: 18": null
   },
   {
     "ID": "4012685",
@@ -5871,14 +6168,15 @@ const CANTEIRIZACAO_DATA = [
     "Status": "Open",
     "Score": "50.00",
     "Score perc.": "100",
-    "Score desc.": NaN,
+    "Score desc.": null,
     "Data Lançamento": "28/10/2026 00:00",
     "Local (Fazenda - Talhão)": "70301",
     "OS": "3456",
     "Frente": "135- Pedrinho",
     "Responsável": "284860  - Juliana Aparecida Ferreira De Freitas",
     "Canteirização": "50",
-    "Fazenda": "70301"
+    "Fazenda": "70301",
+    "Unnamed: 18": null
   },
   {
     "ID": "4012684",
@@ -5891,14 +6189,15 @@ const CANTEIRIZACAO_DATA = [
     "Status": "Open",
     "Score": "48.00",
     "Score perc.": "100",
-    "Score desc.": NaN,
+    "Score desc.": null,
     "Data Lançamento": "28/10/2026 00:00",
     "Local (Fazenda - Talhão)": "70301",
     "OS": "3456",
     "Frente": "135- Pedrinho",
     "Responsável": "284860  - Juliana Aparecida Ferreira De Freitas",
     "Canteirização": "48",
-    "Fazenda": "70301"
+    "Fazenda": "70301",
+    "Unnamed: 18": null
   },
   {
     "ID": "4010082",
@@ -5911,14 +6210,15 @@ const CANTEIRIZACAO_DATA = [
     "Status": "Open",
     "Score": "49.00",
     "Score perc.": "100",
-    "Score desc.": NaN,
+    "Score desc.": null,
     "Data Lançamento": "27/10/2026 00:00",
     "Local (Fazenda - Talhão)": "70301",
     "OS": "3456",
     "Frente": "135- Pedrinho",
     "Responsável": "284860  - Juliana Aparecida Ferreira De Freitas",
     "Canteirização": "49",
-    "Fazenda": "70301"
+    "Fazenda": "70301",
+    "Unnamed: 18": null
   },
   {
     "ID": "4010081",
@@ -5931,14 +6231,15 @@ const CANTEIRIZACAO_DATA = [
     "Status": "Open",
     "Score": "47.00",
     "Score perc.": "100",
-    "Score desc.": NaN,
+    "Score desc.": null,
     "Data Lançamento": "27/10/2026 00:00",
     "Local (Fazenda - Talhão)": "70301",
     "OS": "3456",
     "Frente": "135- Pedrinho",
     "Responsável": "284860  - Juliana Aparecida Ferreira De Freitas",
     "Canteirização": "47",
-    "Fazenda": "70301"
+    "Fazenda": "70301",
+    "Unnamed: 18": null
   },
   {
     "ID": "4010080",
@@ -5951,14 +6252,15 @@ const CANTEIRIZACAO_DATA = [
     "Status": "Open",
     "Score": "48.00",
     "Score perc.": "100",
-    "Score desc.": NaN,
+    "Score desc.": null,
     "Data Lançamento": "27/10/2026 00:00",
     "Local (Fazenda - Talhão)": "70301",
     "OS": "3456",
     "Frente": "135- Pedrinho",
     "Responsável": "284860  - Juliana Aparecida Ferreira De Freitas",
     "Canteirização": "48",
-    "Fazenda": "70301"
+    "Fazenda": "70301",
+    "Unnamed: 18": null
   },
   {
     "ID": "4010079",
@@ -5971,14 +6273,15 @@ const CANTEIRIZACAO_DATA = [
     "Status": "Open",
     "Score": "50.00",
     "Score perc.": "100",
-    "Score desc.": NaN,
+    "Score desc.": null,
     "Data Lançamento": "27/10/2026 00:00",
     "Local (Fazenda - Talhão)": "70301",
     "OS": "3456",
     "Frente": "135- Pedrinho",
     "Responsável": "284860  - Juliana Aparecida Ferreira De Freitas",
     "Canteirização": "50",
-    "Fazenda": "70301"
+    "Fazenda": "70301",
+    "Unnamed: 18": null
   },
   {
     "ID": "4010078",
@@ -5991,14 +6294,15 @@ const CANTEIRIZACAO_DATA = [
     "Status": "Open",
     "Score": "47.00",
     "Score perc.": "100",
-    "Score desc.": NaN,
+    "Score desc.": null,
     "Data Lançamento": "27/10/2026 00:00",
     "Local (Fazenda - Talhão)": "70301",
     "OS": "3456",
     "Frente": "135- Pedrinho",
     "Responsável": "284860  - Juliana Aparecida Ferreira De Freitas",
     "Canteirização": "47",
-    "Fazenda": "70301"
+    "Fazenda": "70301",
+    "Unnamed: 18": null
   },
   {
     "ID": "4010077",
@@ -6011,14 +6315,15 @@ const CANTEIRIZACAO_DATA = [
     "Status": "Open",
     "Score": "49.00",
     "Score perc.": "100",
-    "Score desc.": NaN,
+    "Score desc.": null,
     "Data Lançamento": "27/10/2026 00:00",
     "Local (Fazenda - Talhão)": "70301",
     "OS": "3456",
     "Frente": "135- Pedrinho",
     "Responsável": "284860  - Juliana Aparecida Ferreira De Freitas",
     "Canteirização": "49",
-    "Fazenda": "70301"
+    "Fazenda": "70301",
+    "Unnamed: 18": null
   },
   {
     "ID": "4010076",
@@ -6031,14 +6336,15 @@ const CANTEIRIZACAO_DATA = [
     "Status": "Open",
     "Score": "48.00",
     "Score perc.": "100",
-    "Score desc.": NaN,
+    "Score desc.": null,
     "Data Lançamento": "27/10/2026 00:00",
     "Local (Fazenda - Talhão)": "70301",
     "OS": "3456",
     "Frente": "135- Pedrinho",
     "Responsável": "284860  - Juliana Aparecida Ferreira De Freitas",
     "Canteirização": "48",
-    "Fazenda": "70301"
+    "Fazenda": "70301",
+    "Unnamed: 18": null
   },
   {
     "ID": "4010074",
@@ -6051,14 +6357,15 @@ const CANTEIRIZACAO_DATA = [
     "Status": "Open",
     "Score": "50.00",
     "Score perc.": "100",
-    "Score desc.": NaN,
+    "Score desc.": null,
     "Data Lançamento": "27/10/2026 00:00",
     "Local (Fazenda - Talhão)": "70301",
     "OS": "3456",
     "Frente": "135- Pedrinho",
     "Responsável": "284860  - Juliana Aparecida Ferreira De Freitas",
     "Canteirização": "50",
-    "Fazenda": "70301"
+    "Fazenda": "70301",
+    "Unnamed: 18": null
   },
   {
     "ID": "4010073",
@@ -6071,14 +6378,15 @@ const CANTEIRIZACAO_DATA = [
     "Status": "Open",
     "Score": "48.00",
     "Score perc.": "100",
-    "Score desc.": NaN,
+    "Score desc.": null,
     "Data Lançamento": "27/10/2026 00:00",
     "Local (Fazenda - Talhão)": "70301",
     "OS": "3456",
     "Frente": "135- Pedrinho",
     "Responsável": "284860  - Juliana Aparecida Ferreira De Freitas",
     "Canteirização": "48",
-    "Fazenda": "70301"
+    "Fazenda": "70301",
+    "Unnamed: 18": null
   },
   {
     "ID": "4010072",
@@ -6091,14 +6399,15 @@ const CANTEIRIZACAO_DATA = [
     "Status": "Open",
     "Score": "50.00",
     "Score perc.": "100",
-    "Score desc.": NaN,
+    "Score desc.": null,
     "Data Lançamento": "27/10/2026 00:00",
     "Local (Fazenda - Talhão)": "70301",
     "OS": "3456",
     "Frente": "135- Pedrinho",
     "Responsável": "284860  - Juliana Aparecida Ferreira De Freitas",
     "Canteirização": "50",
-    "Fazenda": "70301"
+    "Fazenda": "70301",
+    "Unnamed: 18": null
   },
   {
     "ID": "4010071",
@@ -6111,14 +6420,15 @@ const CANTEIRIZACAO_DATA = [
     "Status": "Open",
     "Score": "47.00",
     "Score perc.": "100",
-    "Score desc.": NaN,
+    "Score desc.": null,
     "Data Lançamento": "27/10/2026 00:00",
     "Local (Fazenda - Talhão)": "70301",
     "OS": "3456",
     "Frente": "135- Pedrinho",
     "Responsável": "284860  - Juliana Aparecida Ferreira De Freitas",
     "Canteirização": "47",
-    "Fazenda": "70301"
+    "Fazenda": "70301",
+    "Unnamed: 18": null
   },
   {
     "ID": "4010070",
@@ -6131,14 +6441,15 @@ const CANTEIRIZACAO_DATA = [
     "Status": "Open",
     "Score": "49.00",
     "Score perc.": "100",
-    "Score desc.": NaN,
+    "Score desc.": null,
     "Data Lançamento": "27/10/2026 00:00",
     "Local (Fazenda - Talhão)": "70301",
     "OS": "3456",
     "Frente": "135- Pedrinho",
     "Responsável": "284860  - Juliana Aparecida Ferreira De Freitas",
     "Canteirização": "49",
-    "Fazenda": "70301"
+    "Fazenda": "70301",
+    "Unnamed: 18": null
   },
   {
     "ID": "4006257",
@@ -6151,14 +6462,15 @@ const CANTEIRIZACAO_DATA = [
     "Status": "Open",
     "Score": "40.00",
     "Score perc.": "100",
-    "Score desc.": NaN,
+    "Score desc.": null,
     "Data Lançamento": "24/10/2026 00:00",
     "Local (Fazenda - Talhão)": "70301",
     "OS": "3456",
     "Frente": "135- Pedrinho",
     "Responsável": "REGINALDO DA SILVA GOMES ",
     "Canteirização": "40",
-    "Fazenda": "70301"
+    "Fazenda": "70301",
+    "Unnamed: 18": null
   },
   {
     "ID": "4006256",
@@ -6171,14 +6483,15 @@ const CANTEIRIZACAO_DATA = [
     "Status": "Open",
     "Score": "44.00",
     "Score perc.": "100",
-    "Score desc.": NaN,
+    "Score desc.": null,
     "Data Lançamento": "24/10/2026 00:00",
     "Local (Fazenda - Talhão)": "70301",
     "OS": "3456",
     "Frente": "135- Pedrinho",
     "Responsável": "REGINALDO DA SILVA GOMES ",
     "Canteirização": "44",
-    "Fazenda": "70301"
+    "Fazenda": "70301",
+    "Unnamed: 18": null
   },
   {
     "ID": "4006255",
@@ -6191,14 +6504,15 @@ const CANTEIRIZACAO_DATA = [
     "Status": "Open",
     "Score": "48.00",
     "Score perc.": "100",
-    "Score desc.": NaN,
+    "Score desc.": null,
     "Data Lançamento": "24/10/2026 00:00",
     "Local (Fazenda - Talhão)": "70301",
     "OS": "3456",
     "Frente": "135- Pedrinho",
     "Responsável": "REGINALDO DA SILVA GOMES ",
     "Canteirização": "48",
-    "Fazenda": "70301"
+    "Fazenda": "70301",
+    "Unnamed: 18": null
   },
   {
     "ID": "4006562",
@@ -6211,14 +6525,15 @@ const CANTEIRIZACAO_DATA = [
     "Status": "Open",
     "Score": "46.00",
     "Score perc.": "100",
-    "Score desc.": NaN,
+    "Score desc.": null,
     "Data Lançamento": "24/10/2026 00:00",
     "Local (Fazenda - Talhão)": "195404",
     "OS": "3456",
     "Frente": "135- Pedrinho",
     "Responsável": "EDILIANA CARDOSO DA COSTA",
     "Canteirização": "46",
-    "Fazenda": "195404"
+    "Fazenda": "195404",
+    "Unnamed: 18": null
   },
   {
     "ID": "4006561",
@@ -6231,14 +6546,15 @@ const CANTEIRIZACAO_DATA = [
     "Status": "Open",
     "Score": "41.00",
     "Score perc.": "100",
-    "Score desc.": NaN,
+    "Score desc.": null,
     "Data Lançamento": "24/10/2026 00:00",
     "Local (Fazenda - Talhão)": "195404",
     "OS": "3456",
     "Frente": "135- Pedrinho",
     "Responsável": "EDILIANA CARDOSO DA COSTA",
     "Canteirização": "41",
-    "Fazenda": "195404"
+    "Fazenda": "195404",
+    "Unnamed: 18": null
   },
   {
     "ID": "4006560",
@@ -6251,14 +6567,15 @@ const CANTEIRIZACAO_DATA = [
     "Status": "Open",
     "Score": "50.00",
     "Score perc.": "100",
-    "Score desc.": NaN,
+    "Score desc.": null,
     "Data Lançamento": "24/10/2026 00:00",
     "Local (Fazenda - Talhão)": "195404",
     "OS": "3456",
     "Frente": "135- Pedrinho",
     "Responsável": "EDILIANA CARDOSO DA COSTA",
     "Canteirização": "50",
-    "Fazenda": "195404"
+    "Fazenda": "195404",
+    "Unnamed: 18": null
   },
   {
     "ID": "4006559",
@@ -6271,14 +6588,15 @@ const CANTEIRIZACAO_DATA = [
     "Status": "Open",
     "Score": "60.00",
     "Score perc.": "100",
-    "Score desc.": NaN,
+    "Score desc.": null,
     "Data Lançamento": "24/10/2026 00:00",
     "Local (Fazenda - Talhão)": "195404",
     "OS": "3456",
     "Frente": "135- Pedrinho",
     "Responsável": "EDILIANA CARDOSO DA COSTA",
     "Canteirização": "60",
-    "Fazenda": "195404"
+    "Fazenda": "195404",
+    "Unnamed: 18": null
   },
   {
     "ID": "4006558",
@@ -6291,14 +6609,15 @@ const CANTEIRIZACAO_DATA = [
     "Status": "Open",
     "Score": "52.00",
     "Score perc.": "100",
-    "Score desc.": NaN,
+    "Score desc.": null,
     "Data Lançamento": "24/10/2026 00:00",
     "Local (Fazenda - Talhão)": "195404",
     "OS": "3456",
     "Frente": "135- Pedrinho",
     "Responsável": "EDILIANA CARDOSO DA COSTA",
     "Canteirização": "52",
-    "Fazenda": "195404"
+    "Fazenda": "195404",
+    "Unnamed: 18": null
   },
   {
     "ID": "4006557",
@@ -6311,14 +6630,15 @@ const CANTEIRIZACAO_DATA = [
     "Status": "Open",
     "Score": "49.00",
     "Score perc.": "100",
-    "Score desc.": NaN,
+    "Score desc.": null,
     "Data Lançamento": "24/10/2026 00:00",
     "Local (Fazenda - Talhão)": "195404",
     "OS": "3456",
     "Frente": "135- Pedrinho",
     "Responsável": "EDILIANA CARDOSO DA COSTA",
     "Canteirização": "49",
-    "Fazenda": "195404"
+    "Fazenda": "195404",
+    "Unnamed: 18": null
   },
   {
     "ID": "4005885",
@@ -6331,14 +6651,15 @@ const CANTEIRIZACAO_DATA = [
     "Status": "Open",
     "Score": "47.00",
     "Score perc.": "100",
-    "Score desc.": NaN,
+    "Score desc.": null,
     "Data Lançamento": "24/10/2026 00:00",
     "Local (Fazenda - Talhão)": "70431",
     "OS": "3458",
     "Frente": "135- Pedrinho",
     "Responsável": "284860  - Juliana Aparecida Ferreira De Freitas",
     "Canteirização": "47",
-    "Fazenda": "70431"
+    "Fazenda": "70431",
+    "Unnamed: 18": null
   },
   {
     "ID": "4005884",
@@ -6351,14 +6672,15 @@ const CANTEIRIZACAO_DATA = [
     "Status": "Open",
     "Score": "49.00",
     "Score perc.": "100",
-    "Score desc.": NaN,
+    "Score desc.": null,
     "Data Lançamento": "24/10/2026 00:00",
     "Local (Fazenda - Talhão)": "70431",
     "OS": "3458",
     "Frente": "135- Pedrinho",
     "Responsável": "284860  - Juliana Aparecida Ferreira De Freitas",
     "Canteirização": "49",
-    "Fazenda": "70431"
+    "Fazenda": "70431",
+    "Unnamed: 18": null
   },
   {
     "ID": "4005883",
@@ -6371,14 +6693,15 @@ const CANTEIRIZACAO_DATA = [
     "Status": "Open",
     "Score": "50.00",
     "Score perc.": "100",
-    "Score desc.": NaN,
+    "Score desc.": null,
     "Data Lançamento": "24/10/2026 00:00",
     "Local (Fazenda - Talhão)": "70431",
     "OS": "3458",
     "Frente": "135- Pedrinho",
     "Responsável": "284860  - Juliana Aparecida Ferreira De Freitas",
     "Canteirização": "50",
-    "Fazenda": "70431"
+    "Fazenda": "70431",
+    "Unnamed: 18": null
   },
   {
     "ID": "4005882",
@@ -6391,14 +6714,15 @@ const CANTEIRIZACAO_DATA = [
     "Status": "Open",
     "Score": "48.00",
     "Score perc.": "100",
-    "Score desc.": NaN,
+    "Score desc.": null,
     "Data Lançamento": "24/10/2026 00:00",
     "Local (Fazenda - Talhão)": "70431",
     "OS": "3458",
     "Frente": "135- Pedrinho",
     "Responsável": "284860  - Juliana Aparecida Ferreira De Freitas",
     "Canteirização": "48",
-    "Fazenda": "70431"
+    "Fazenda": "70431",
+    "Unnamed: 18": null
   },
   {
     "ID": "4005880",
@@ -6411,14 +6735,15 @@ const CANTEIRIZACAO_DATA = [
     "Status": "Open",
     "Score": "47.00",
     "Score perc.": "100",
-    "Score desc.": NaN,
+    "Score desc.": null,
     "Data Lançamento": "24/10/2026 00:00",
     "Local (Fazenda - Talhão)": "70431",
     "OS": "3458",
     "Frente": "135- Pedrinho",
     "Responsável": "284860  - Juliana Aparecida Ferreira De Freitas",
     "Canteirização": "47",
-    "Fazenda": "70431"
+    "Fazenda": "70431",
+    "Unnamed: 18": null
   },
   {
     "ID": "4005881",
@@ -6431,14 +6756,15 @@ const CANTEIRIZACAO_DATA = [
     "Status": "Open",
     "Score": "49.00",
     "Score perc.": "100",
-    "Score desc.": NaN,
+    "Score desc.": null,
     "Data Lançamento": "24/10/2026 00:00",
     "Local (Fazenda - Talhão)": "70431",
     "OS": "3458",
     "Frente": "135- Pedrinho",
     "Responsável": "284860  - Juliana Aparecida Ferreira De Freitas",
     "Canteirização": "49",
-    "Fazenda": "70431"
+    "Fazenda": "70431",
+    "Unnamed: 18": null
   },
   {
     "ID": "4001671",
@@ -6451,14 +6777,15 @@ const CANTEIRIZACAO_DATA = [
     "Status": "Open",
     "Score": "48.00",
     "Score perc.": "100",
-    "Score desc.": NaN,
+    "Score desc.": null,
     "Data Lançamento": "22/10/2026 00:00",
     "Local (Fazenda - Talhão)": "195403",
     "OS": "3458",
     "Frente": "135- Pedrinho",
     "Responsável": "285410",
     "Canteirização": "48",
-    "Fazenda": "195403"
+    "Fazenda": "195403",
+    "Unnamed: 18": null
   },
   {
     "ID": "4001670",
@@ -6471,14 +6798,15 @@ const CANTEIRIZACAO_DATA = [
     "Status": "Open",
     "Score": "50.00",
     "Score perc.": "100",
-    "Score desc.": NaN,
+    "Score desc.": null,
     "Data Lançamento": "22/10/2026 00:00",
     "Local (Fazenda - Talhão)": "195403",
     "OS": "3458",
     "Frente": "135- Pedrinho",
     "Responsável": "285410",
     "Canteirização": "50",
-    "Fazenda": "195403"
+    "Fazenda": "195403",
+    "Unnamed: 18": null
   },
   {
     "ID": "4001669",
@@ -6491,14 +6819,15 @@ const CANTEIRIZACAO_DATA = [
     "Status": "Open",
     "Score": "49.00",
     "Score perc.": "100",
-    "Score desc.": NaN,
+    "Score desc.": null,
     "Data Lançamento": "22/10/2026 00:00",
     "Local (Fazenda - Talhão)": "195403",
     "OS": "3458",
     "Frente": "135- Pedrinho",
     "Responsável": "285410",
     "Canteirização": "49",
-    "Fazenda": "195403"
+    "Fazenda": "195403",
+    "Unnamed: 18": null
   },
   {
     "ID": "4001668",
@@ -6511,14 +6840,15 @@ const CANTEIRIZACAO_DATA = [
     "Status": "Open",
     "Score": "50.00",
     "Score perc.": "100",
-    "Score desc.": NaN,
+    "Score desc.": null,
     "Data Lançamento": "22/10/2026 00:00",
     "Local (Fazenda - Talhão)": "195403",
     "OS": "3458",
     "Frente": "135- Pedrinho",
     "Responsável": "285410",
     "Canteirização": "50",
-    "Fazenda": "195403"
+    "Fazenda": "195403",
+    "Unnamed: 18": null
   },
   {
     "ID": "4001667",
@@ -6531,14 +6861,15 @@ const CANTEIRIZACAO_DATA = [
     "Status": "Open",
     "Score": "49.00",
     "Score perc.": "100",
-    "Score desc.": NaN,
+    "Score desc.": null,
     "Data Lançamento": "22/10/2026 00:00",
     "Local (Fazenda - Talhão)": "195403",
     "OS": "3458",
     "Frente": "135- Pedrinho",
     "Responsável": "285410",
     "Canteirização": "49",
-    "Fazenda": "195403"
+    "Fazenda": "195403",
+    "Unnamed: 18": null
   },
   {
     "ID": "4001666",
@@ -6551,14 +6882,15 @@ const CANTEIRIZACAO_DATA = [
     "Status": "Open",
     "Score": "49.00",
     "Score perc.": "100",
-    "Score desc.": NaN,
+    "Score desc.": null,
     "Data Lançamento": "22/10/2026 00:00",
     "Local (Fazenda - Talhão)": "195403",
     "OS": "3458",
     "Frente": "135- Pedrinho",
     "Responsável": "285410",
     "Canteirização": "49",
-    "Fazenda": "195403"
+    "Fazenda": "195403",
+    "Unnamed: 18": null
   },
   {
     "ID": "4001665",
@@ -6571,14 +6903,15 @@ const CANTEIRIZACAO_DATA = [
     "Status": "Open",
     "Score": "50.00",
     "Score perc.": "100",
-    "Score desc.": NaN,
+    "Score desc.": null,
     "Data Lançamento": "22/10/2026 00:00",
     "Local (Fazenda - Talhão)": "195403",
     "OS": "3458",
     "Frente": "135- Pedrinho",
     "Responsável": "285410",
     "Canteirização": "50",
-    "Fazenda": "195403"
+    "Fazenda": "195403",
+    "Unnamed: 18": null
   },
   {
     "ID": "4001660",
@@ -6591,14 +6924,15 @@ const CANTEIRIZACAO_DATA = [
     "Status": "Open",
     "Score": "50.00",
     "Score perc.": "100",
-    "Score desc.": NaN,
+    "Score desc.": null,
     "Data Lançamento": "22/10/2026 00:00",
     "Local (Fazenda - Talhão)": "195403",
     "OS": "3458",
     "Frente": "135- Pedrinho",
     "Responsável": "285410",
     "Canteirização": "50",
-    "Fazenda": "195403"
+    "Fazenda": "195403",
+    "Unnamed: 18": null
   },
   {
     "ID": "4001661",
@@ -6611,14 +6945,15 @@ const CANTEIRIZACAO_DATA = [
     "Status": "Open",
     "Score": "49.00",
     "Score perc.": "100",
-    "Score desc.": NaN,
+    "Score desc.": null,
     "Data Lançamento": "22/10/2026 00:00",
     "Local (Fazenda - Talhão)": "195403",
     "OS": "3458",
     "Frente": "135- Pedrinho",
     "Responsável": "285410",
     "Canteirização": "49",
-    "Fazenda": "195403"
+    "Fazenda": "195403",
+    "Unnamed: 18": null
   },
   {
     "ID": "4001662",
@@ -6631,14 +6966,15 @@ const CANTEIRIZACAO_DATA = [
     "Status": "Open",
     "Score": "50.00",
     "Score perc.": "100",
-    "Score desc.": NaN,
+    "Score desc.": null,
     "Data Lançamento": "22/10/2026 00:00",
     "Local (Fazenda - Talhão)": "195403",
     "OS": "3458",
     "Frente": "135- Pedrinho",
     "Responsável": "285410",
     "Canteirização": "50",
-    "Fazenda": "195403"
+    "Fazenda": "195403",
+    "Unnamed: 18": null
   },
   {
     "ID": "4001663",
@@ -6651,14 +6987,15 @@ const CANTEIRIZACAO_DATA = [
     "Status": "Open",
     "Score": "48.00",
     "Score perc.": "100",
-    "Score desc.": NaN,
+    "Score desc.": null,
     "Data Lançamento": "22/10/2026 00:00",
     "Local (Fazenda - Talhão)": "195403",
     "OS": "3458",
     "Frente": "135- Pedrinho",
     "Responsável": "285410",
     "Canteirização": "48",
-    "Fazenda": "195403"
+    "Fazenda": "195403",
+    "Unnamed: 18": null
   },
   {
     "ID": "4001664",
@@ -6671,14 +7008,15 @@ const CANTEIRIZACAO_DATA = [
     "Status": "Open",
     "Score": "50.00",
     "Score perc.": "100",
-    "Score desc.": NaN,
+    "Score desc.": null,
     "Data Lançamento": "22/10/2026 00:00",
     "Local (Fazenda - Talhão)": "195403",
     "OS": "3458",
     "Frente": "135- Pedrinho",
     "Responsável": "285410",
     "Canteirização": "50",
-    "Fazenda": "195403"
+    "Fazenda": "195403",
+    "Unnamed: 18": null
   },
   {
     "ID": "3997768",
@@ -6691,14 +7029,15 @@ const CANTEIRIZACAO_DATA = [
     "Status": "Open",
     "Score": "44.00",
     "Score perc.": "100",
-    "Score desc.": NaN,
+    "Score desc.": null,
     "Data Lançamento": "21/10/2026 00:00",
     "Local (Fazenda - Talhão)": "199802",
     "OS": "3442",
     "Frente": "53-FRENTE MOTOMECANIZAÇÃO",
     "Responsável": "REGINALDO DA SILVA GOMES ",
     "Canteirização": "44",
-    "Fazenda": "199802"
+    "Fazenda": "199802",
+    "Unnamed: 18": null
   },
   {
     "ID": "3997767",
@@ -6711,14 +7050,15 @@ const CANTEIRIZACAO_DATA = [
     "Status": "Open",
     "Score": "41.00",
     "Score perc.": "100",
-    "Score desc.": NaN,
+    "Score desc.": null,
     "Data Lançamento": "21/10/2026 00:00",
     "Local (Fazenda - Talhão)": "199802",
     "OS": "3442",
     "Frente": "53-FRENTE MOTOMECANIZAÇÃO",
     "Responsável": "REGINALDO DA SILVA GOMES ",
     "Canteirização": "41",
-    "Fazenda": "199802"
+    "Fazenda": "199802",
+    "Unnamed: 18": null
   },
   {
     "ID": "3998450",
@@ -6731,14 +7071,15 @@ const CANTEIRIZACAO_DATA = [
     "Status": "Open",
     "Score": "44.00",
     "Score perc.": "100",
-    "Score desc.": NaN,
+    "Score desc.": null,
     "Data Lançamento": "21/10/2026 00:00",
     "Local (Fazenda - Talhão)": "199802",
     "OS": "3442",
     "Frente": "135- Pedrinho",
     "Responsável": "284860  - Juliana Aparecida Ferreira De Freitas",
     "Canteirização": "44",
-    "Fazenda": "199802"
+    "Fazenda": "199802",
+    "Unnamed: 18": null
   },
   {
     "ID": "3998449",
@@ -6751,14 +7092,15 @@ const CANTEIRIZACAO_DATA = [
     "Status": "Open",
     "Score": "41.00",
     "Score perc.": "100",
-    "Score desc.": NaN,
+    "Score desc.": null,
     "Data Lançamento": "21/10/2026 00:00",
     "Local (Fazenda - Talhão)": "199802",
     "OS": "3442",
     "Frente": "135- Pedrinho",
     "Responsável": "284860  - Juliana Aparecida Ferreira De Freitas",
     "Canteirização": "41",
-    "Fazenda": "199802"
+    "Fazenda": "199802",
+    "Unnamed: 18": null
   },
   {
     "ID": "3997766",
@@ -6771,14 +7113,15 @@ const CANTEIRIZACAO_DATA = [
     "Status": "Open",
     "Score": "41.00",
     "Score perc.": "100",
-    "Score desc.": NaN,
+    "Score desc.": null,
     "Data Lançamento": "21/10/2026 00:00",
     "Local (Fazenda - Talhão)": "199802",
     "OS": "3442",
     "Frente": "53-FRENTE MOTOMECANIZAÇÃO",
     "Responsável": "REGINALDO DA SILVA GOMES ",
     "Canteirização": "41",
-    "Fazenda": "199802"
+    "Fazenda": "199802",
+    "Unnamed: 18": null
   },
   {
     "ID": "3998495",
@@ -6791,14 +7134,15 @@ const CANTEIRIZACAO_DATA = [
     "Status": "Open",
     "Score": "41.00",
     "Score perc.": "100",
-    "Score desc.": NaN,
+    "Score desc.": null,
     "Data Lançamento": "21/10/2026 00:00",
     "Local (Fazenda - Talhão)": "199802",
     "OS": "3442",
     "Frente": "135- Pedrinho",
     "Responsável": "284860  - Juliana Aparecida Ferreira De Freitas",
     "Canteirização": "41",
-    "Fazenda": "199802"
+    "Fazenda": "199802",
+    "Unnamed: 18": null
   },
   {
     "ID": "3995538",
@@ -6811,14 +7155,15 @@ const CANTEIRIZACAO_DATA = [
     "Status": "Open",
     "Score": "48.00",
     "Score perc.": "100",
-    "Score desc.": NaN,
+    "Score desc.": null,
     "Data Lançamento": "20/10/2026 00:00",
     "Local (Fazenda - Talhão)": "199802",
     "OS": "3442",
     "Frente": "135- Pedrinho",
     "Responsável": "284860  - Juliana Aparecida Ferreira De Freitas",
     "Canteirização": "48",
-    "Fazenda": "199802"
+    "Fazenda": "199802",
+    "Unnamed: 18": null
   },
   {
     "ID": "3995534",
@@ -6831,14 +7176,15 @@ const CANTEIRIZACAO_DATA = [
     "Status": "Open",
     "Score": "50.00",
     "Score perc.": "100",
-    "Score desc.": NaN,
+    "Score desc.": null,
     "Data Lançamento": "20/10/2026 00:00",
     "Local (Fazenda - Talhão)": "199802",
     "OS": "3442",
     "Frente": "135- Pedrinho",
     "Responsável": "284860  - Juliana Aparecida Ferreira De Freitas",
     "Canteirização": "50",
-    "Fazenda": "199802"
+    "Fazenda": "199802",
+    "Unnamed: 18": null
   },
   {
     "ID": "3995532",
@@ -6851,14 +7197,15 @@ const CANTEIRIZACAO_DATA = [
     "Status": "Open",
     "Score": "49.00",
     "Score perc.": "100",
-    "Score desc.": NaN,
+    "Score desc.": null,
     "Data Lançamento": "20/10/2026 00:00",
     "Local (Fazenda - Talhão)": "199802",
     "OS": "3442",
     "Frente": "135- Pedrinho",
     "Responsável": "284860  - Juliana Aparecida Ferreira De Freitas",
     "Canteirização": "49",
-    "Fazenda": "199802"
+    "Fazenda": "199802",
+    "Unnamed: 18": null
   },
   {
     "ID": "3995531",
@@ -6871,14 +7218,15 @@ const CANTEIRIZACAO_DATA = [
     "Status": "Open",
     "Score": "48.00",
     "Score perc.": "100",
-    "Score desc.": NaN,
+    "Score desc.": null,
     "Data Lançamento": "20/10/2026 00:00",
     "Local (Fazenda - Talhão)": "199802",
     "OS": "3442",
     "Frente": "135- Pedrinho",
     "Responsável": "284860  - Juliana Aparecida Ferreira De Freitas",
     "Canteirização": "48",
-    "Fazenda": "199802"
+    "Fazenda": "199802",
+    "Unnamed: 18": null
   },
   {
     "ID": "3995530",
@@ -6891,14 +7239,15 @@ const CANTEIRIZACAO_DATA = [
     "Status": "Open",
     "Score": "50.00",
     "Score perc.": "100",
-    "Score desc.": NaN,
+    "Score desc.": null,
     "Data Lançamento": "20/10/2026 00:00",
     "Local (Fazenda - Talhão)": "199802",
     "OS": "3442",
     "Frente": "135- Pedrinho",
     "Responsável": "284860  - Juliana Aparecida Ferreira De Freitas",
     "Canteirização": "50",
-    "Fazenda": "199802"
+    "Fazenda": "199802",
+    "Unnamed: 18": null
   },
   {
     "ID": "3928885",
@@ -6911,14 +7260,15 @@ const CANTEIRIZACAO_DATA = [
     "Status": "Open",
     "Score": "40.00",
     "Score perc.": "100",
-    "Score desc.": NaN,
+    "Score desc.": null,
     "Data Lançamento": "21/09/2026 00:00",
     "Local (Fazenda - Talhão)": "67901",
     "OS": "3056",
     "Frente": "261-PLANTIO MANUAL E CARPA",
     "Responsável": "VITOR AMORIM RAMOS ",
     "Canteirização": "40",
-    "Fazenda": "67901"
+    "Fazenda": "67901",
+    "Unnamed: 18": null
   },
   {
     "ID": "3928217",
@@ -6931,14 +7281,15 @@ const CANTEIRIZACAO_DATA = [
     "Status": "Open",
     "Score": "48.00",
     "Score perc.": "100",
-    "Score desc.": NaN,
+    "Score desc.": null,
     "Data Lançamento": "21/09/2026 00:00",
     "Local (Fazenda - Talhão)": "67901",
     "OS": "3056",
     "Frente": "261-PLANTIO MANUAL E CARPA",
     "Responsável": "VITOR AMORIM RAMOS ",
     "Canteirização": "48",
-    "Fazenda": "67901"
+    "Fazenda": "67901",
+    "Unnamed: 18": null
   },
   {
     "ID": "3928701",
@@ -6951,14 +7302,15 @@ const CANTEIRIZACAO_DATA = [
     "Status": "Open",
     "Score": "47.00",
     "Score perc.": "100",
-    "Score desc.": NaN,
+    "Score desc.": null,
     "Data Lançamento": "21/09/2026 00:00",
     "Local (Fazenda - Talhão)": "67901",
     "OS": "3056",
     "Frente": "261-PLANTIO MANUAL E CARPA",
     "Responsável": "VITOR AMORIM RAMOS ",
     "Canteirização": "47",
-    "Fazenda": "67901"
+    "Fazenda": "67901",
+    "Unnamed: 18": null
   },
   {
     "ID": "3928700",
@@ -6971,14 +7323,15 @@ const CANTEIRIZACAO_DATA = [
     "Status": "Open",
     "Score": "50.00",
     "Score perc.": "100",
-    "Score desc.": NaN,
+    "Score desc.": null,
     "Data Lançamento": "21/09/2026 00:00",
     "Local (Fazenda - Talhão)": "67901",
     "OS": "3056",
     "Frente": "261-PLANTIO MANUAL E CARPA",
     "Responsável": "VITOR AMORIM RAMOS ",
     "Canteirização": "50",
-    "Fazenda": "67901"
+    "Fazenda": "67901",
+    "Unnamed: 18": null
   },
   {
     "ID": "3928206",
@@ -6991,14 +7344,15 @@ const CANTEIRIZACAO_DATA = [
     "Status": "Open",
     "Score": "40.00",
     "Score perc.": "100",
-    "Score desc.": NaN,
+    "Score desc.": null,
     "Data Lançamento": "21/09/2026 00:00",
     "Local (Fazenda - Talhão)": "67901",
     "OS": "3056",
     "Frente": "261-PLANTIO MANUAL E CARPA",
     "Responsável": "VITOR AMORIM RAMOS ",
     "Canteirização": "40",
-    "Fazenda": "67901"
+    "Fazenda": "67901",
+    "Unnamed: 18": null
   },
   {
     "ID": "3928205",
@@ -7011,14 +7365,15 @@ const CANTEIRIZACAO_DATA = [
     "Status": "Open",
     "Score": "47.00",
     "Score perc.": "100",
-    "Score desc.": NaN,
+    "Score desc.": null,
     "Data Lançamento": "21/09/2026 00:00",
     "Local (Fazenda - Talhão)": "67901",
     "OS": "3056",
     "Frente": "261-PLANTIO MANUAL E CARPA",
     "Responsável": "VITOR AMORIM RAMOS ",
     "Canteirização": "47",
-    "Fazenda": "67901"
+    "Fazenda": "67901",
+    "Unnamed: 18": null
   },
   {
     "ID": "3928203",
@@ -7031,14 +7386,15 @@ const CANTEIRIZACAO_DATA = [
     "Status": "Open",
     "Score": "50.00",
     "Score perc.": "100",
-    "Score desc.": NaN,
+    "Score desc.": null,
     "Data Lançamento": "21/09/2026 00:00",
     "Local (Fazenda - Talhão)": "67901",
     "OS": "3056",
     "Frente": "261-PLANTIO MANUAL E CARPA",
     "Responsável": "VITOR AMORIM RAMOS ",
     "Canteirização": "50",
-    "Fazenda": "67901"
+    "Fazenda": "67901",
+    "Unnamed: 18": null
   },
   {
     "ID": "3928202",
@@ -7051,14 +7407,15 @@ const CANTEIRIZACAO_DATA = [
     "Status": "Open",
     "Score": "49.00",
     "Score perc.": "100",
-    "Score desc.": NaN,
+    "Score desc.": null,
     "Data Lançamento": "21/09/2026 00:00",
     "Local (Fazenda - Talhão)": "67901",
     "OS": "3056",
     "Frente": "261-PLANTIO MANUAL E CARPA",
     "Responsável": "VITOR AMORIM RAMOS ",
     "Canteirização": "49",
-    "Fazenda": "67901"
+    "Fazenda": "67901",
+    "Unnamed: 18": null
   },
   {
     "ID": "3928201",
@@ -7071,14 +7428,15 @@ const CANTEIRIZACAO_DATA = [
     "Status": "Open",
     "Score": "47.00",
     "Score perc.": "100",
-    "Score desc.": NaN,
+    "Score desc.": null,
     "Data Lançamento": "21/09/2026 00:00",
     "Local (Fazenda - Talhão)": "67901",
     "OS": "3056",
     "Frente": "261-PLANTIO MANUAL E CARPA",
     "Responsável": "VITOR AMORIM RAMOS ",
     "Canteirização": "47",
-    "Fazenda": "67901"
+    "Fazenda": "67901",
+    "Unnamed: 18": null
   },
   {
     "ID": "3928200",
@@ -7091,14 +7449,15 @@ const CANTEIRIZACAO_DATA = [
     "Status": "Open",
     "Score": "50.00",
     "Score perc.": "100",
-    "Score desc.": NaN,
+    "Score desc.": null,
     "Data Lançamento": "21/09/2026 00:00",
     "Local (Fazenda - Talhão)": "269701",
     "OS": "3056",
     "Frente": "261-PLANTIO MANUAL E CARPA",
     "Responsável": "VITOR AMORIM RAMOS ",
     "Canteirização": "50",
-    "Fazenda": "269701"
+    "Fazenda": "269701",
+    "Unnamed: 18": null
   },
   {
     "ID": "3928199",
@@ -7111,14 +7470,15 @@ const CANTEIRIZACAO_DATA = [
     "Status": "Open",
     "Score": "48.00",
     "Score perc.": "100",
-    "Score desc.": NaN,
+    "Score desc.": null,
     "Data Lançamento": "21/09/2026 00:00",
     "Local (Fazenda - Talhão)": "67901",
     "OS": "3056",
     "Frente": "261-PLANTIO MANUAL E CARPA",
     "Responsável": "VITOR AMORIM RAMOS ",
     "Canteirização": "48",
-    "Fazenda": "67901"
+    "Fazenda": "67901",
+    "Unnamed: 18": null
   },
   {
     "ID": "3926042",
@@ -7131,14 +7491,15 @@ const CANTEIRIZACAO_DATA = [
     "Status": "Open",
     "Score": "49.00",
     "Score perc.": "100",
-    "Score desc.": NaN,
+    "Score desc.": null,
     "Data Lançamento": "19/09/2026 00:00",
     "Local (Fazenda - Talhão)": "67901",
     "OS": "3056",
     "Frente": "261-PLANTIO MANUAL E CARPA",
     "Responsável": "MABILA HELEN D FIGUEIREDO",
     "Canteirização": "49",
-    "Fazenda": "67901"
+    "Fazenda": "67901",
+    "Unnamed: 18": null
   },
   {
     "ID": "3925126",
@@ -7151,14 +7512,15 @@ const CANTEIRIZACAO_DATA = [
     "Status": "Open",
     "Score": "50.00",
     "Score perc.": "100",
-    "Score desc.": NaN,
+    "Score desc.": null,
     "Data Lançamento": "19/09/2026 00:00",
     "Local (Fazenda - Talhão)": "67901",
     "OS": "3056",
     "Frente": "261-PLANTIO MANUAL E CARPA",
     "Responsável": "MABILA HELEN D FIGUEIREDO",
     "Canteirização": "50",
-    "Fazenda": "67901"
+    "Fazenda": "67901",
+    "Unnamed: 18": null
   },
   {
     "ID": "3925125",
@@ -7171,14 +7533,15 @@ const CANTEIRIZACAO_DATA = [
     "Status": "Open",
     "Score": "49.00",
     "Score perc.": "100",
-    "Score desc.": NaN,
+    "Score desc.": null,
     "Data Lançamento": "19/09/2026 00:00",
     "Local (Fazenda - Talhão)": "67901",
     "OS": "3056",
     "Frente": "261-PLANTIO MANUAL E CARPA",
     "Responsável": "MABILA HELEN D FIGUEIREDO",
     "Canteirização": "49",
-    "Fazenda": "67901"
+    "Fazenda": "67901",
+    "Unnamed: 18": null
   },
   {
     "ID": "3925124",
@@ -7191,14 +7554,15 @@ const CANTEIRIZACAO_DATA = [
     "Status": "Open",
     "Score": "50.00",
     "Score perc.": "100",
-    "Score desc.": NaN,
+    "Score desc.": null,
     "Data Lançamento": "19/09/2026 00:00",
     "Local (Fazenda - Talhão)": "67901",
     "OS": "3056",
     "Frente": "261-PLANTIO MANUAL E CARPA",
     "Responsável": "MABILA HELEN D FIGUEIREDO",
     "Canteirização": "50",
-    "Fazenda": "67901"
+    "Fazenda": "67901",
+    "Unnamed: 18": null
   },
   {
     "ID": "3925123",
@@ -7211,14 +7575,15 @@ const CANTEIRIZACAO_DATA = [
     "Status": "Open",
     "Score": "57.00",
     "Score perc.": "100",
-    "Score desc.": NaN,
+    "Score desc.": null,
     "Data Lançamento": "19/09/2026 00:00",
     "Local (Fazenda - Talhão)": "67901",
     "OS": "3056",
     "Frente": "261-PLANTIO MANUAL E CARPA",
     "Responsável": "MABILA HELEN D FIGUEIREDO",
     "Canteirização": "57",
-    "Fazenda": "67901"
+    "Fazenda": "67901",
+    "Unnamed: 18": null
   },
   {
     "ID": "3925122",
@@ -7231,14 +7596,15 @@ const CANTEIRIZACAO_DATA = [
     "Status": "Open",
     "Score": "50.00",
     "Score perc.": "100",
-    "Score desc.": NaN,
+    "Score desc.": null,
     "Data Lançamento": "19/09/2026 00:00",
     "Local (Fazenda - Talhão)": "67901",
     "OS": "3056",
     "Frente": "261-PLANTIO MANUAL E CARPA",
     "Responsável": "MABILA HELEN D FIGUEIREDO",
     "Canteirização": "50",
-    "Fazenda": "67901"
+    "Fazenda": "67901",
+    "Unnamed: 18": null
   },
   {
     "ID": "3925121",
@@ -7251,14 +7617,15 @@ const CANTEIRIZACAO_DATA = [
     "Status": "Open",
     "Score": "58.00",
     "Score perc.": "100",
-    "Score desc.": NaN,
+    "Score desc.": null,
     "Data Lançamento": "19/09/2026 00:00",
     "Local (Fazenda - Talhão)": "67901",
     "OS": "3056",
     "Frente": "261-PLANTIO MANUAL E CARPA",
     "Responsável": "MABILA HELEN D FIGUEIREDO",
     "Canteirização": "58",
-    "Fazenda": "67901"
+    "Fazenda": "67901",
+    "Unnamed: 18": null
   },
   {
     "ID": "3925120",
@@ -7271,14 +7638,15 @@ const CANTEIRIZACAO_DATA = [
     "Status": "Open",
     "Score": "47.00",
     "Score perc.": "100",
-    "Score desc.": NaN,
+    "Score desc.": null,
     "Data Lançamento": "19/09/2026 00:00",
     "Local (Fazenda - Talhão)": "67901",
     "OS": "3056",
     "Frente": "261-PLANTIO MANUAL E CARPA",
     "Responsável": "MABILA HELEN D FIGUEIREDO",
     "Canteirização": "47",
-    "Fazenda": "67901"
+    "Fazenda": "67901",
+    "Unnamed: 18": null
   },
   {
     "ID": "3925119",
@@ -7291,14 +7659,15 @@ const CANTEIRIZACAO_DATA = [
     "Status": "Open",
     "Score": "50.00",
     "Score perc.": "100",
-    "Score desc.": NaN,
+    "Score desc.": null,
     "Data Lançamento": "19/09/2026 00:00",
     "Local (Fazenda - Talhão)": "67901",
     "OS": "3056",
     "Frente": "261-PLANTIO MANUAL E CARPA",
     "Responsável": "MABILA HELEN D FIGUEIREDO",
     "Canteirização": "50",
-    "Fazenda": "67901"
+    "Fazenda": "67901",
+    "Unnamed: 18": null
   },
   {
     "ID": "3925118",
@@ -7311,14 +7680,15 @@ const CANTEIRIZACAO_DATA = [
     "Status": "Open",
     "Score": "48.00",
     "Score perc.": "100",
-    "Score desc.": NaN,
+    "Score desc.": null,
     "Data Lançamento": "19/09/2026 00:00",
     "Local (Fazenda - Talhão)": "67901",
     "OS": "3056",
     "Frente": "261-PLANTIO MANUAL E CARPA",
     "Responsável": "MABILA HELEN D FIGUEIREDO",
     "Canteirização": "48",
-    "Fazenda": "67901"
+    "Fazenda": "67901",
+    "Unnamed: 18": null
   },
   {
     "ID": "3925117",
@@ -7331,14 +7701,15 @@ const CANTEIRIZACAO_DATA = [
     "Status": "Open",
     "Score": "49.00",
     "Score perc.": "100",
-    "Score desc.": NaN,
+    "Score desc.": null,
     "Data Lançamento": "19/09/2026 00:00",
     "Local (Fazenda - Talhão)": "67901",
     "OS": "3056",
     "Frente": "261-PLANTIO MANUAL E CARPA",
     "Responsável": "MABILA HELEN D FIGUEIREDO",
     "Canteirização": "49",
-    "Fazenda": "67901"
+    "Fazenda": "67901",
+    "Unnamed: 18": null
   },
   {
     "ID": "3925116",
@@ -7351,14 +7722,15 @@ const CANTEIRIZACAO_DATA = [
     "Status": "Open",
     "Score": "50.00",
     "Score perc.": "100",
-    "Score desc.": NaN,
+    "Score desc.": null,
     "Data Lançamento": "19/09/2026 00:00",
     "Local (Fazenda - Talhão)": "67901",
     "OS": "3056",
     "Frente": "261-PLANTIO MANUAL E CARPA",
     "Responsável": "MABILA HELEN D FIGUEIREDO",
     "Canteirização": "50",
-    "Fazenda": "67901"
+    "Fazenda": "67901",
+    "Unnamed: 18": null
   },
   {
     "ID": "3922693",
@@ -7371,14 +7743,15 @@ const CANTEIRIZACAO_DATA = [
     "Status": "Open",
     "Score": "47.00",
     "Score perc.": "100",
-    "Score desc.": NaN,
+    "Score desc.": null,
     "Data Lançamento": "18/09/2026 00:00",
     "Local (Fazenda - Talhão)": "111201",
     "OS": "2986",
     "Frente": "261-PLANTIO MANUAL E CARPA",
     "Responsável": "MABILA HELEN D FIGUEIREDO",
     "Canteirização": "47",
-    "Fazenda": "111201"
+    "Fazenda": "111201",
+    "Unnamed: 18": null
   },
   {
     "ID": "3922692",
@@ -7391,14 +7764,15 @@ const CANTEIRIZACAO_DATA = [
     "Status": "Open",
     "Score": "49.00",
     "Score perc.": "100",
-    "Score desc.": NaN,
+    "Score desc.": null,
     "Data Lançamento": "18/09/2026 00:00",
     "Local (Fazenda - Talhão)": "111201",
     "OS": "2986",
     "Frente": "261-PLANTIO MANUAL E CARPA",
     "Responsável": "MABILA HELEN D FIGUEIREDO",
     "Canteirização": "49",
-    "Fazenda": "111201"
+    "Fazenda": "111201",
+    "Unnamed: 18": null
   },
   {
     "ID": "3922691",
@@ -7411,14 +7785,15 @@ const CANTEIRIZACAO_DATA = [
     "Status": "Open",
     "Score": "48.00",
     "Score perc.": "100",
-    "Score desc.": NaN,
+    "Score desc.": null,
     "Data Lançamento": "18/09/2026 00:00",
     "Local (Fazenda - Talhão)": "111201",
     "OS": "2986",
     "Frente": "261-PLANTIO MANUAL E CARPA",
     "Responsável": "MABILA HELEN D FIGUEIREDO",
     "Canteirização": "48",
-    "Fazenda": "111201"
+    "Fazenda": "111201",
+    "Unnamed: 18": null
   },
   {
     "ID": "3922690",
@@ -7431,14 +7806,15 @@ const CANTEIRIZACAO_DATA = [
     "Status": "Open",
     "Score": "50.00",
     "Score perc.": "100",
-    "Score desc.": NaN,
+    "Score desc.": null,
     "Data Lançamento": "18/09/2026 00:00",
     "Local (Fazenda - Talhão)": "111201",
     "OS": "2986",
     "Frente": "261-PLANTIO MANUAL E CARPA",
     "Responsável": "MABILA HELEN D FIGUEIREDO",
     "Canteirização": "50",
-    "Fazenda": "111201"
+    "Fazenda": "111201",
+    "Unnamed: 18": null
   },
   {
     "ID": "3922689",
@@ -7451,14 +7827,15 @@ const CANTEIRIZACAO_DATA = [
     "Status": "Open",
     "Score": "47.00",
     "Score perc.": "100",
-    "Score desc.": NaN,
+    "Score desc.": null,
     "Data Lançamento": "18/09/2026 00:00",
     "Local (Fazenda - Talhão)": "111201",
     "OS": "2986",
     "Frente": "261-PLANTIO MANUAL E CARPA",
     "Responsável": "MABILA HELEN D FIGUEIREDO",
     "Canteirização": "47",
-    "Fazenda": "111201"
+    "Fazenda": "111201",
+    "Unnamed: 18": null
   },
   {
     "ID": "3922586",
@@ -7471,14 +7848,15 @@ const CANTEIRIZACAO_DATA = [
     "Status": "Open",
     "Score": "48.00",
     "Score perc.": "100",
-    "Score desc.": NaN,
+    "Score desc.": null,
     "Data Lançamento": "18/09/2026 00:00",
     "Local (Fazenda - Talhão)": "111201",
     "OS": "2986",
     "Frente": "102-PLANTIO MANUAL (PITAA)",
     "Responsável": "REGINALDO DA SILVA GOMES ",
     "Canteirização": "48",
-    "Fazenda": "111201"
+    "Fazenda": "111201",
+    "Unnamed: 18": null
   },
   {
     "ID": "3922584",
@@ -7491,14 +7869,15 @@ const CANTEIRIZACAO_DATA = [
     "Status": "Open",
     "Score": "45.00",
     "Score perc.": "100",
-    "Score desc.": NaN,
+    "Score desc.": null,
     "Data Lançamento": "18/09/2026 00:00",
     "Local (Fazenda - Talhão)": "111201",
     "OS": "2986",
     "Frente": "102-PLANTIO MANUAL (PITAA)",
     "Responsável": "REGINALDO DA SILVA GOMES ",
     "Canteirização": "45",
-    "Fazenda": "111201"
+    "Fazenda": "111201",
+    "Unnamed: 18": null
   },
   {
     "ID": "3922583",
@@ -7511,14 +7890,15 @@ const CANTEIRIZACAO_DATA = [
     "Status": "Open",
     "Score": "44.00",
     "Score perc.": "100",
-    "Score desc.": NaN,
+    "Score desc.": null,
     "Data Lançamento": "18/09/2026 00:00",
     "Local (Fazenda - Talhão)": "111201",
     "OS": "2986",
     "Frente": "102-PLANTIO MANUAL (PITAA)",
     "Responsável": "REGINALDO DA SILVA GOMES ",
     "Canteirização": "44",
-    "Fazenda": "111201"
+    "Fazenda": "111201",
+    "Unnamed: 18": null
   },
   {
     "ID": "3919743",
@@ -7531,14 +7911,15 @@ const CANTEIRIZACAO_DATA = [
     "Status": "Open",
     "Score": "50.00",
     "Score perc.": "100",
-    "Score desc.": NaN,
+    "Score desc.": null,
     "Data Lançamento": "17/09/2026 00:00",
     "Local (Fazenda - Talhão)": "142201",
     "OS": "2987",
     "Frente": "261-PLANTIO MANUAL E CARPA",
     "Responsável": "MABILA HELEN D FIGUEIREDO",
     "Canteirização": "50",
-    "Fazenda": "142201"
+    "Fazenda": "142201",
+    "Unnamed: 18": null
   },
   {
     "ID": "3919742",
@@ -7551,14 +7932,15 @@ const CANTEIRIZACAO_DATA = [
     "Status": "Open",
     "Score": "47.00",
     "Score perc.": "100",
-    "Score desc.": NaN,
+    "Score desc.": null,
     "Data Lançamento": "17/09/2026 00:00",
     "Local (Fazenda - Talhão)": "142201",
     "OS": "2987",
     "Frente": "261-PLANTIO MANUAL E CARPA",
     "Responsável": "MABILA HELEN D FIGUEIREDO",
     "Canteirização": "47",
-    "Fazenda": "142201"
+    "Fazenda": "142201",
+    "Unnamed: 18": null
   },
   {
     "ID": "3919741",
@@ -7571,14 +7953,15 @@ const CANTEIRIZACAO_DATA = [
     "Status": "Open",
     "Score": "48.00",
     "Score perc.": "100",
-    "Score desc.": NaN,
+    "Score desc.": null,
     "Data Lançamento": "17/09/2026 00:00",
     "Local (Fazenda - Talhão)": "142201",
     "OS": "2987",
     "Frente": "261-PLANTIO MANUAL E CARPA",
     "Responsável": "MABILA HELEN D FIGUEIREDO",
     "Canteirização": "48",
-    "Fazenda": "142201"
+    "Fazenda": "142201",
+    "Unnamed: 18": null
   },
   {
     "ID": "3919740",
@@ -7591,14 +7974,15 @@ const CANTEIRIZACAO_DATA = [
     "Status": "Open",
     "Score": "50.00",
     "Score perc.": "100",
-    "Score desc.": NaN,
+    "Score desc.": null,
     "Data Lançamento": "17/09/2026 00:00",
     "Local (Fazenda - Talhão)": "142201",
     "OS": "2987",
     "Frente": "261-PLANTIO MANUAL E CARPA",
     "Responsável": "MABILA HELEN D FIGUEIREDO",
     "Canteirização": "50",
-    "Fazenda": "142201"
+    "Fazenda": "142201",
+    "Unnamed: 18": null
   },
   {
     "ID": "3919739",
@@ -7611,14 +7995,15 @@ const CANTEIRIZACAO_DATA = [
     "Status": "Open",
     "Score": "49.00",
     "Score perc.": "100",
-    "Score desc.": NaN,
+    "Score desc.": null,
     "Data Lançamento": "17/09/2026 00:00",
     "Local (Fazenda - Talhão)": "142201",
     "OS": "2987",
     "Frente": "261-PLANTIO MANUAL E CARPA",
     "Responsável": "MABILA HELEN D FIGUEIREDO",
     "Canteirização": "49",
-    "Fazenda": "142201"
+    "Fazenda": "142201",
+    "Unnamed: 18": null
   },
   {
     "ID": "3919676",
@@ -7631,14 +8016,15 @@ const CANTEIRIZACAO_DATA = [
     "Status": "Open",
     "Score": "48.00",
     "Score perc.": "100",
-    "Score desc.": NaN,
+    "Score desc.": null,
     "Data Lançamento": "17/09/2026 00:00",
     "Local (Fazenda - Talhão)": "142201",
     "OS": "2987",
     "Frente": "261-PLANTIO MANUAL E CARPA",
     "Responsável": "MABILA HELEN D FIGUEIREDO",
     "Canteirização": "48",
-    "Fazenda": "142201"
+    "Fazenda": "142201",
+    "Unnamed: 18": null
   },
   {
     "ID": "3919673",
@@ -7651,14 +8037,15 @@ const CANTEIRIZACAO_DATA = [
     "Status": "Open",
     "Score": "50.00",
     "Score perc.": "100",
-    "Score desc.": NaN,
+    "Score desc.": null,
     "Data Lançamento": "17/09/2026 00:00",
     "Local (Fazenda - Talhão)": "142201",
     "OS": "2987",
     "Frente": "261-PLANTIO MANUAL E CARPA",
     "Responsável": "MABILA HELEN D FIGUEIREDO",
     "Canteirização": "50",
-    "Fazenda": "142201"
+    "Fazenda": "142201",
+    "Unnamed: 18": null
   },
   {
     "ID": "3919671",
@@ -7671,14 +8058,15 @@ const CANTEIRIZACAO_DATA = [
     "Status": "Open",
     "Score": "47.00",
     "Score perc.": "100",
-    "Score desc.": NaN,
+    "Score desc.": null,
     "Data Lançamento": "17/09/2026 00:00",
     "Local (Fazenda - Talhão)": "142201",
     "OS": "2987",
     "Frente": "261-PLANTIO MANUAL E CARPA",
     "Responsável": "MABILA HELEN D FIGUEIREDO",
     "Canteirização": "47",
-    "Fazenda": "142201"
+    "Fazenda": "142201",
+    "Unnamed: 18": null
   },
   {
     "ID": "3919669",
@@ -7691,14 +8079,15 @@ const CANTEIRIZACAO_DATA = [
     "Status": "Open",
     "Score": "49.00",
     "Score perc.": "100",
-    "Score desc.": NaN,
+    "Score desc.": null,
     "Data Lançamento": "17/09/2026 00:00",
     "Local (Fazenda - Talhão)": "142201",
     "OS": "2987",
     "Frente": "261-PLANTIO MANUAL E CARPA",
     "Responsável": "MABILA HELEN D FIGUEIREDO",
     "Canteirização": "49",
-    "Fazenda": "142201"
+    "Fazenda": "142201",
+    "Unnamed: 18": null
   },
   {
     "ID": "3919667",
@@ -7711,14 +8100,15 @@ const CANTEIRIZACAO_DATA = [
     "Status": "Open",
     "Score": "47.00",
     "Score perc.": "100",
-    "Score desc.": NaN,
+    "Score desc.": null,
     "Data Lançamento": "17/09/2026 00:00",
     "Local (Fazenda - Talhão)": "142201",
     "OS": "2987",
     "Frente": "261-PLANTIO MANUAL E CARPA",
     "Responsável": "MABILA HELEN D FIGUEIREDO",
     "Canteirização": "47",
-    "Fazenda": "142201"
+    "Fazenda": "142201",
+    "Unnamed: 18": null
   },
   {
     "ID": "3919665",
@@ -7731,14 +8121,15 @@ const CANTEIRIZACAO_DATA = [
     "Status": "Open",
     "Score": "50.00",
     "Score perc.": "100",
-    "Score desc.": NaN,
+    "Score desc.": null,
     "Data Lançamento": "17/09/2026 00:00",
     "Local (Fazenda - Talhão)": "142201",
     "OS": "2987",
     "Frente": "261-PLANTIO MANUAL E CARPA",
     "Responsável": "MABILA HELEN D FIGUEIREDO",
     "Canteirização": "50",
-    "Fazenda": "142201"
+    "Fazenda": "142201",
+    "Unnamed: 18": null
   },
   {
     "ID": "3915764",
@@ -7751,14 +8142,15 @@ const CANTEIRIZACAO_DATA = [
     "Status": "Open",
     "Score": "48.00",
     "Score perc.": "100",
-    "Score desc.": NaN,
+    "Score desc.": null,
     "Data Lançamento": "15/09/2026 00:00",
     "Local (Fazenda - Talhão)": "70408",
     "OS": "2707",
     "Frente": "261-PLANTIO MANUAL E CARPA",
     "Responsável": "284860  - Juliana Aparecida Ferreira De Freitas",
     "Canteirização": "48",
-    "Fazenda": "70408"
+    "Fazenda": "70408",
+    "Unnamed: 18": null
   },
   {
     "ID": "3915762",
@@ -7771,14 +8163,15 @@ const CANTEIRIZACAO_DATA = [
     "Status": "Open",
     "Score": "49.00",
     "Score perc.": "100",
-    "Score desc.": NaN,
+    "Score desc.": null,
     "Data Lançamento": "15/09/2026 00:00",
     "Local (Fazenda - Talhão)": "70408",
     "OS": "2707",
     "Frente": "261-PLANTIO MANUAL E CARPA",
     "Responsável": "284860  - Juliana Aparecida Ferreira De Freitas",
     "Canteirização": "49",
-    "Fazenda": "70408"
+    "Fazenda": "70408",
+    "Unnamed: 18": null
   },
   {
     "ID": "3915761",
@@ -7791,14 +8184,15 @@ const CANTEIRIZACAO_DATA = [
     "Status": "Open",
     "Score": "50.00",
     "Score perc.": "100",
-    "Score desc.": NaN,
+    "Score desc.": null,
     "Data Lançamento": "15/09/2026 00:00",
     "Local (Fazenda - Talhão)": "70408",
     "OS": "2707",
     "Frente": "261-PLANTIO MANUAL E CARPA",
     "Responsável": "284860  - Juliana Aparecida Ferreira De Freitas",
     "Canteirização": "50",
-    "Fazenda": "70408"
+    "Fazenda": "70408",
+    "Unnamed: 18": null
   },
   {
     "ID": "3915760",
@@ -7811,14 +8205,15 @@ const CANTEIRIZACAO_DATA = [
     "Status": "Open",
     "Score": "48.00",
     "Score perc.": "100",
-    "Score desc.": NaN,
+    "Score desc.": null,
     "Data Lançamento": "15/09/2026 00:00",
     "Local (Fazenda - Talhão)": "70408",
     "OS": "2707",
     "Frente": "261-PLANTIO MANUAL E CARPA",
     "Responsável": "284860  - Juliana Aparecida Ferreira De Freitas",
     "Canteirização": "48",
-    "Fazenda": "70408"
+    "Fazenda": "70408",
+    "Unnamed: 18": null
   },
   {
     "ID": "3915759",
@@ -7831,14 +8226,15 @@ const CANTEIRIZACAO_DATA = [
     "Status": "Open",
     "Score": "50.00",
     "Score perc.": "100",
-    "Score desc.": NaN,
+    "Score desc.": null,
     "Data Lançamento": "15/09/2026 00:00",
     "Local (Fazenda - Talhão)": "70408",
     "OS": "2707",
     "Frente": "261-PLANTIO MANUAL E CARPA",
     "Responsável": "284860  - Juliana Aparecida Ferreira De Freitas",
     "Canteirização": "50",
-    "Fazenda": "70408"
+    "Fazenda": "70408",
+    "Unnamed: 18": null
   },
   {
     "ID": "3915758",
@@ -7851,14 +8247,15 @@ const CANTEIRIZACAO_DATA = [
     "Status": "Open",
     "Score": "47.00",
     "Score perc.": "100",
-    "Score desc.": NaN,
+    "Score desc.": null,
     "Data Lançamento": "15/09/2026 00:00",
     "Local (Fazenda - Talhão)": "70408",
     "OS": "2707",
     "Frente": "261-PLANTIO MANUAL E CARPA",
     "Responsável": "284860  - Juliana Aparecida Ferreira De Freitas",
     "Canteirização": "47",
-    "Fazenda": "70408"
+    "Fazenda": "70408",
+    "Unnamed: 18": null
   },
   {
     "ID": "3915757",
@@ -7871,14 +8268,15 @@ const CANTEIRIZACAO_DATA = [
     "Status": "Open",
     "Score": "48.00",
     "Score perc.": "100",
-    "Score desc.": NaN,
+    "Score desc.": null,
     "Data Lançamento": "15/09/2026 00:00",
     "Local (Fazenda - Talhão)": "70408",
     "OS": "2707",
     "Frente": "261-PLANTIO MANUAL E CARPA",
     "Responsável": "284860  - Juliana Aparecida Ferreira De Freitas",
     "Canteirização": "48",
-    "Fazenda": "70408"
+    "Fazenda": "70408",
+    "Unnamed: 18": null
   },
   {
     "ID": "3915756",
@@ -7891,14 +8289,15 @@ const CANTEIRIZACAO_DATA = [
     "Status": "Open",
     "Score": "47.00",
     "Score perc.": "100",
-    "Score desc.": NaN,
+    "Score desc.": null,
     "Data Lançamento": "15/09/2026 00:00",
     "Local (Fazenda - Talhão)": "70408",
     "OS": "2707",
     "Frente": "261-PLANTIO MANUAL E CARPA",
     "Responsável": "284860  - Juliana Aparecida Ferreira De Freitas",
     "Canteirização": "47",
-    "Fazenda": "70408"
+    "Fazenda": "70408",
+    "Unnamed: 18": null
   },
   {
     "ID": "3915755",
@@ -7911,14 +8310,15 @@ const CANTEIRIZACAO_DATA = [
     "Status": "Open",
     "Score": "48.00",
     "Score perc.": "100",
-    "Score desc.": NaN,
+    "Score desc.": null,
     "Data Lançamento": "15/09/2026 00:00",
     "Local (Fazenda - Talhão)": "70408",
     "OS": "2707",
     "Frente": "261-PLANTIO MANUAL E CARPA",
     "Responsável": "284860  - Juliana Aparecida Ferreira De Freitas",
     "Canteirização": "48",
-    "Fazenda": "70408"
+    "Fazenda": "70408",
+    "Unnamed: 18": null
   },
   {
     "ID": "3915754",
@@ -7931,14 +8331,15 @@ const CANTEIRIZACAO_DATA = [
     "Status": "Open",
     "Score": "50.00",
     "Score perc.": "100",
-    "Score desc.": NaN,
+    "Score desc.": null,
     "Data Lançamento": "15/09/2026 00:00",
     "Local (Fazenda - Talhão)": "70408",
     "OS": "2707",
     "Frente": "261-PLANTIO MANUAL E CARPA",
     "Responsável": "284860  - Juliana Aparecida Ferreira De Freitas",
     "Canteirização": "50",
-    "Fazenda": "70408"
+    "Fazenda": "70408",
+    "Unnamed: 18": null
   },
   {
     "ID": "3911989",
@@ -7951,14 +8352,15 @@ const CANTEIRIZACAO_DATA = [
     "Status": "Closed",
     "Score": "43.00",
     "Score perc.": "100",
-    "Score desc.": NaN,
+    "Score desc.": null,
     "Data Lançamento": "09/12/2026 00:00",
     "Local (Fazenda - Talhão)": "70408",
     "OS": "2707",
     "Frente": "102-PLANTIO MANUAL (PITAA)",
     "Responsável": "REGINALDO DA SILVA GOMES ",
     "Canteirização": "43",
-    "Fazenda": "70408"
+    "Fazenda": "70408",
+    "Unnamed: 18": null
   },
   {
     "ID": "3911988",
@@ -7971,14 +8373,15 @@ const CANTEIRIZACAO_DATA = [
     "Status": "Closed",
     "Score": "42.00",
     "Score perc.": "100",
-    "Score desc.": NaN,
+    "Score desc.": null,
     "Data Lançamento": "09/12/2026 00:00",
     "Local (Fazenda - Talhão)": "70408",
     "OS": "2707",
     "Frente": "102-PLANTIO MANUAL (PITAA)",
     "Responsável": "REGINALDO DA SILVA GOMES ",
     "Canteirização": "42",
-    "Fazenda": "70408"
+    "Fazenda": "70408",
+    "Unnamed: 18": null
   },
   {
     "ID": "3911987",
@@ -7991,14 +8394,15 @@ const CANTEIRIZACAO_DATA = [
     "Status": "Open",
     "Score": "43.00",
     "Score perc.": "100",
-    "Score desc.": NaN,
+    "Score desc.": null,
     "Data Lançamento": "09/12/2026 00:00",
     "Local (Fazenda - Talhão)": "70408",
     "OS": "2707",
     "Frente": "102-PLANTIO MANUAL (PITAA)",
     "Responsável": "REGINALDO DA SILVA GOMES ",
     "Canteirização": "43",
-    "Fazenda": "70408"
+    "Fazenda": "70408",
+    "Unnamed: 18": null
   },
   {
     "ID": "3911986",
@@ -8011,14 +8415,15 @@ const CANTEIRIZACAO_DATA = [
     "Status": "Open",
     "Score": "48.00",
     "Score perc.": "100",
-    "Score desc.": NaN,
+    "Score desc.": null,
     "Data Lançamento": "09/12/2026 00:00",
     "Local (Fazenda - Talhão)": "70408",
     "OS": "2707",
     "Frente": "102-PLANTIO MANUAL (PITAA)",
     "Responsável": "REGINALDO DA SILVA GOMES ",
     "Canteirização": "48",
-    "Fazenda": "70408"
+    "Fazenda": "70408",
+    "Unnamed: 18": null
   },
   {
     "ID": "3911985",
@@ -8031,14 +8436,15 @@ const CANTEIRIZACAO_DATA = [
     "Status": "Open",
     "Score": "41.00",
     "Score perc.": "100",
-    "Score desc.": NaN,
+    "Score desc.": null,
     "Data Lançamento": "09/12/2026 00:00",
     "Local (Fazenda - Talhão)": "70408",
     "OS": "2707",
     "Frente": "102-PLANTIO MANUAL (PITAA)",
     "Responsável": "REGINALDO DA SILVA GOMES ",
     "Canteirização": "41",
-    "Fazenda": "70408"
+    "Fazenda": "70408",
+    "Unnamed: 18": null
   },
   {
     "ID": "3911406",
@@ -8051,14 +8457,15 @@ const CANTEIRIZACAO_DATA = [
     "Status": "Open",
     "Score": "48.00",
     "Score perc.": "100",
-    "Score desc.": NaN,
+    "Score desc.": null,
     "Data Lançamento": "09/12/2026 00:00",
     "Local (Fazenda - Talhão)": "70408",
     "OS": "2707",
     "Frente": "261-PLANTIO MANUAL E CARPA",
     "Responsável": "284860  - Juliana Aparecida Ferreira De Freitas",
     "Canteirização": "48",
-    "Fazenda": "70408"
+    "Fazenda": "70408",
+    "Unnamed: 18": null
   },
   {
     "ID": "3911404",
@@ -8071,14 +8478,15 @@ const CANTEIRIZACAO_DATA = [
     "Status": "Open",
     "Score": "50.00",
     "Score perc.": "100",
-    "Score desc.": NaN,
+    "Score desc.": null,
     "Data Lançamento": "09/12/2026 00:00",
     "Local (Fazenda - Talhão)": "70408",
     "OS": "2707",
     "Frente": "261-PLANTIO MANUAL E CARPA",
     "Responsável": "284860  - Juliana Aparecida Ferreira De Freitas",
     "Canteirização": "50",
-    "Fazenda": "70408"
+    "Fazenda": "70408",
+    "Unnamed: 18": null
   },
   {
     "ID": "3911402",
@@ -8091,14 +8499,15 @@ const CANTEIRIZACAO_DATA = [
     "Status": "Open",
     "Score": "49.00",
     "Score perc.": "100",
-    "Score desc.": NaN,
+    "Score desc.": null,
     "Data Lançamento": "09/12/2026 00:00",
     "Local (Fazenda - Talhão)": "70408",
     "OS": "2707",
     "Frente": "261-PLANTIO MANUAL E CARPA",
     "Responsável": "284860  - Juliana Aparecida Ferreira De Freitas",
     "Canteirização": "49",
-    "Fazenda": "70408"
+    "Fazenda": "70408",
+    "Unnamed: 18": null
   },
   {
     "ID": "3911401",
@@ -8111,14 +8520,15 @@ const CANTEIRIZACAO_DATA = [
     "Status": "Open",
     "Score": "48.00",
     "Score perc.": "100",
-    "Score desc.": NaN,
+    "Score desc.": null,
     "Data Lançamento": "09/12/2026 00:00",
     "Local (Fazenda - Talhão)": "70408",
     "OS": "2707",
     "Frente": "261-PLANTIO MANUAL E CARPA",
     "Responsável": "284860  - Juliana Aparecida Ferreira De Freitas",
     "Canteirização": "48",
-    "Fazenda": "70408"
+    "Fazenda": "70408",
+    "Unnamed: 18": null
   },
   {
     "ID": "3911398",
@@ -8131,14 +8541,15 @@ const CANTEIRIZACAO_DATA = [
     "Status": "Open",
     "Score": "50.00",
     "Score perc.": "100",
-    "Score desc.": NaN,
+    "Score desc.": null,
     "Data Lançamento": "09/12/2026 00:00",
     "Local (Fazenda - Talhão)": "70408",
     "OS": "2707",
     "Frente": "261-PLANTIO MANUAL E CARPA",
     "Responsável": "284860  - Juliana Aparecida Ferreira De Freitas",
     "Canteirização": "50",
-    "Fazenda": "70408"
+    "Fazenda": "70408",
+    "Unnamed: 18": null
   },
   {
     "ID": "3911396",
@@ -8151,14 +8562,15 @@ const CANTEIRIZACAO_DATA = [
     "Status": "Open",
     "Score": "47.00",
     "Score perc.": "100",
-    "Score desc.": NaN,
+    "Score desc.": null,
     "Data Lançamento": "09/12/2026 00:00",
     "Local (Fazenda - Talhão)": "70408",
     "OS": "2707",
     "Frente": "261-PLANTIO MANUAL E CARPA",
     "Responsável": "284860  - Juliana Aparecida Ferreira De Freitas",
     "Canteirização": "47",
-    "Fazenda": "70408"
+    "Fazenda": "70408",
+    "Unnamed: 18": null
   },
   {
     "ID": "3911394",
@@ -8171,14 +8583,15 @@ const CANTEIRIZACAO_DATA = [
     "Status": "Open",
     "Score": "50.00",
     "Score perc.": "100",
-    "Score desc.": NaN,
+    "Score desc.": null,
     "Data Lançamento": "09/12/2026 00:00",
     "Local (Fazenda - Talhão)": "70408",
     "OS": "2707",
     "Frente": "261-PLANTIO MANUAL E CARPA",
     "Responsável": "284860  - Juliana Aparecida Ferreira De Freitas",
     "Canteirização": "50",
-    "Fazenda": "70408"
+    "Fazenda": "70408",
+    "Unnamed: 18": null
   },
   {
     "ID": "3911392",
@@ -8191,14 +8604,15 @@ const CANTEIRIZACAO_DATA = [
     "Status": "Open",
     "Score": "48.00",
     "Score perc.": "100",
-    "Score desc.": NaN,
+    "Score desc.": null,
     "Data Lançamento": "09/12/2026 00:00",
     "Local (Fazenda - Talhão)": "70408",
     "OS": "2707",
     "Frente": "261-PLANTIO MANUAL E CARPA",
     "Responsável": "284860  - Juliana Aparecida Ferreira De Freitas",
     "Canteirização": "48",
-    "Fazenda": "70408"
+    "Fazenda": "70408",
+    "Unnamed: 18": null
   },
   {
     "ID": "3911390",
@@ -8211,14 +8625,15 @@ const CANTEIRIZACAO_DATA = [
     "Status": "Open",
     "Score": "50.00",
     "Score perc.": "100",
-    "Score desc.": NaN,
+    "Score desc.": null,
     "Data Lançamento": "09/12/2026 00:00",
     "Local (Fazenda - Talhão)": "70408",
     "OS": "2707",
     "Frente": "261-PLANTIO MANUAL E CARPA",
     "Responsável": "284860  - Juliana Aparecida Ferreira De Freitas",
     "Canteirização": "50",
-    "Fazenda": "70408"
+    "Fazenda": "70408",
+    "Unnamed: 18": null
   },
   {
     "ID": "3911387",
@@ -8231,14 +8646,15 @@ const CANTEIRIZACAO_DATA = [
     "Status": "Open",
     "Score": "49.00",
     "Score perc.": "100",
-    "Score desc.": NaN,
+    "Score desc.": null,
     "Data Lançamento": "09/12/2026 00:00",
     "Local (Fazenda - Talhão)": "70408",
     "OS": "2707",
     "Frente": "261-PLANTIO MANUAL E CARPA",
     "Responsável": "284860  - Juliana Aparecida Ferreira De Freitas",
     "Canteirização": "49",
-    "Fazenda": "70408"
+    "Fazenda": "70408",
+    "Unnamed: 18": null
   },
   {
     "ID": "3911385",
@@ -8251,14 +8667,15 @@ const CANTEIRIZACAO_DATA = [
     "Status": "Open",
     "Score": "48.00",
     "Score perc.": "100",
-    "Score desc.": NaN,
+    "Score desc.": null,
     "Data Lançamento": "09/12/2026 00:00",
     "Local (Fazenda - Talhão)": "70408",
     "OS": "2707",
     "Frente": "261-PLANTIO MANUAL E CARPA",
     "Responsável": "284860  - Juliana Aparecida Ferreira De Freitas",
     "Canteirização": "48",
-    "Fazenda": "70408"
+    "Fazenda": "70408",
+    "Unnamed: 18": null
   },
   {
     "ID": "3911383",
@@ -8271,14 +8688,15 @@ const CANTEIRIZACAO_DATA = [
     "Status": "Open",
     "Score": "50.00",
     "Score perc.": "100",
-    "Score desc.": NaN,
+    "Score desc.": null,
     "Data Lançamento": "09/12/2026 00:00",
     "Local (Fazenda - Talhão)": "70408",
     "OS": "2707",
     "Frente": "261-PLANTIO MANUAL E CARPA",
     "Responsável": "284860  - Juliana Aparecida Ferreira De Freitas",
     "Canteirização": "50",
-    "Fazenda": "70408"
+    "Fazenda": "70408",
+    "Unnamed: 18": null
   },
   {
     "ID": "4058588",
@@ -8291,14 +8709,15 @@ const CANTEIRIZACAO_DATA = [
     "Status": "Open",
     "Score": "42.00",
     "Score perc.": "100",
-    "Score desc.": NaN,
+    "Score desc.": null,
     "Data Lançamento": "18/11/2026 00:00",
     "Local (Fazenda - Talhão)": "53501",
     "OS": "3846",
     "Frente": "261-PLANTIO MANUAL E CARPA",
     "Responsável": "284860  - Juliana Aparecida Ferreira De Freitas",
     "Canteirização": "42",
-    "Fazenda": "53501"
+    "Fazenda": "53501",
+    "Unnamed: 18": null
   },
   {
     "ID": "4058587",
@@ -8311,14 +8730,15 @@ const CANTEIRIZACAO_DATA = [
     "Status": "Open",
     "Score": "44.00",
     "Score perc.": "100",
-    "Score desc.": NaN,
+    "Score desc.": null,
     "Data Lançamento": "18/11/2026 00:00",
     "Local (Fazenda - Talhão)": "53501",
     "OS": "3846",
     "Frente": "261-PLANTIO MANUAL E CARPA",
     "Responsável": "284860  - Juliana Aparecida Ferreira De Freitas",
     "Canteirização": "44",
-    "Fazenda": "53501"
+    "Fazenda": "53501",
+    "Unnamed: 18": null
   },
   {
     "ID": "4058586",
@@ -8331,14 +8751,15 @@ const CANTEIRIZACAO_DATA = [
     "Status": "Open",
     "Score": "45.00",
     "Score perc.": "100",
-    "Score desc.": NaN,
+    "Score desc.": null,
     "Data Lançamento": "18/11/2026 00:00",
     "Local (Fazenda - Talhão)": "53501",
     "OS": "3846",
     "Frente": "261-PLANTIO MANUAL E CARPA",
     "Responsável": "284860  - Juliana Aparecida Ferreira De Freitas",
     "Canteirização": "45",
-    "Fazenda": "53501"
+    "Fazenda": "53501",
+    "Unnamed: 18": null
   },
   {
     "ID": "4058585",
@@ -8351,14 +8772,15 @@ const CANTEIRIZACAO_DATA = [
     "Status": "Open",
     "Score": "43.00",
     "Score perc.": "100",
-    "Score desc.": NaN,
+    "Score desc.": null,
     "Data Lançamento": "18/11/2026 00:00",
     "Local (Fazenda - Talhão)": "53501",
     "OS": "3846",
     "Frente": "261-PLANTIO MANUAL E CARPA",
     "Responsável": "284860  - Juliana Aparecida Ferreira De Freitas",
     "Canteirização": "43",
-    "Fazenda": "53501"
+    "Fazenda": "53501",
+    "Unnamed: 18": null
   },
   {
     "ID": "4058584",
@@ -8371,14 +8793,15 @@ const CANTEIRIZACAO_DATA = [
     "Status": "Open",
     "Score": "42.00",
     "Score perc.": "100",
-    "Score desc.": NaN,
+    "Score desc.": null,
     "Data Lançamento": "18/11/2026 00:00",
     "Local (Fazenda - Talhão)": "53501",
     "OS": "3846",
     "Frente": "261-PLANTIO MANUAL E CARPA",
     "Responsável": "284860  - Juliana Aparecida Ferreira De Freitas",
     "Canteirização": "42",
-    "Fazenda": "53501"
+    "Fazenda": "53501",
+    "Unnamed: 18": null
   },
   {
     "ID": "4058583",
@@ -8391,14 +8814,15 @@ const CANTEIRIZACAO_DATA = [
     "Status": "Open",
     "Score": "45.00",
     "Score perc.": "100",
-    "Score desc.": NaN,
+    "Score desc.": null,
     "Data Lançamento": "18/11/2026 00:00",
     "Local (Fazenda - Talhão)": "53501",
     "OS": "3846",
     "Frente": "261-PLANTIO MANUAL E CARPA",
     "Responsável": "284860  - Juliana Aparecida Ferreira De Freitas",
     "Canteirização": "45",
-    "Fazenda": "53501"
+    "Fazenda": "53501",
+    "Unnamed: 18": null
   },
   {
     "ID": "4058582",
@@ -8411,14 +8835,15 @@ const CANTEIRIZACAO_DATA = [
     "Status": "Open",
     "Score": "43.00",
     "Score perc.": "100",
-    "Score desc.": NaN,
+    "Score desc.": null,
     "Data Lançamento": "18/11/2026 00:00",
     "Local (Fazenda - Talhão)": "53501",
     "OS": "3846",
     "Frente": "261-PLANTIO MANUAL E CARPA",
     "Responsável": "284860  - Juliana Aparecida Ferreira De Freitas",
     "Canteirização": "43",
-    "Fazenda": "53501"
+    "Fazenda": "53501",
+    "Unnamed: 18": null
   },
   {
     "ID": "4060954",
@@ -8431,14 +8856,15 @@ const CANTEIRIZACAO_DATA = [
     "Status": "Open",
     "Score": "48.00",
     "Score perc.": "100",
-    "Score desc.": NaN,
-    "Data Lançamento": "19/11/2026 00:00",
+    "Score desc.": null,
+    "Data Lançamento": "11/19/2026",
     "Local (Fazenda - Talhão)": "53501",
     "OS": "3846",
     "Frente": "261-PLANTIO MANUAL E CARPA",
     "Responsável": "284860  - Juliana Aparecida Ferreira De Freitas",
     "Canteirização": "48",
-    "Fazenda": "53501"
+    "Fazenda": "53501",
+    "Unnamed: 18": null
   },
   {
     "ID": "4060953",
@@ -8451,14 +8877,15 @@ const CANTEIRIZACAO_DATA = [
     "Status": "Open",
     "Score": "49.00",
     "Score perc.": "100",
-    "Score desc.": NaN,
-    "Data Lançamento": "19/11/2026 00:00",
+    "Score desc.": null,
+    "Data Lançamento": "11/19/2026",
     "Local (Fazenda - Talhão)": "53501",
     "OS": "3846",
     "Frente": "261-PLANTIO MANUAL E CARPA",
     "Responsável": "284860  - Juliana Aparecida Ferreira De Freitas",
     "Canteirização": "49",
-    "Fazenda": "53501"
+    "Fazenda": "53501",
+    "Unnamed: 18": null
   },
   {
     "ID": "4060952",
@@ -8471,14 +8898,15 @@ const CANTEIRIZACAO_DATA = [
     "Status": "Open",
     "Score": "48.00",
     "Score perc.": "100",
-    "Score desc.": NaN,
-    "Data Lançamento": "19/11/2026 00:00",
+    "Score desc.": null,
+    "Data Lançamento": "11/19/2026",
     "Local (Fazenda - Talhão)": "53501",
     "OS": "3846",
     "Frente": "261-PLANTIO MANUAL E CARPA",
     "Responsável": "284860  - Juliana Aparecida Ferreira De Freitas",
     "Canteirização": "48",
-    "Fazenda": "53501"
+    "Fazenda": "53501",
+    "Unnamed: 18": null
   },
   {
     "ID": "4060946",
@@ -8491,14 +8919,15 @@ const CANTEIRIZACAO_DATA = [
     "Status": "Open",
     "Score": "50.00",
     "Score perc.": "100",
-    "Score desc.": NaN,
-    "Data Lançamento": "19/11/2026 00:00",
+    "Score desc.": null,
+    "Data Lançamento": "11/19/2026",
     "Local (Fazenda - Talhão)": "53501",
     "OS": "3846",
     "Frente": "261-PLANTIO MANUAL E CARPA",
     "Responsável": "284860  - Juliana Aparecida Ferreira De Freitas",
     "Canteirização": "50",
-    "Fazenda": "53501"
+    "Fazenda": "53501",
+    "Unnamed: 18": null
   },
   {
     "ID": "4060945",
@@ -8511,14 +8940,15 @@ const CANTEIRIZACAO_DATA = [
     "Status": "Open",
     "Score": "49.00",
     "Score perc.": "100",
-    "Score desc.": NaN,
-    "Data Lançamento": "19/11/2026 00:00",
+    "Score desc.": null,
+    "Data Lançamento": "11/19/2026",
     "Local (Fazenda - Talhão)": "53501",
     "OS": "3846",
     "Frente": "261-PLANTIO MANUAL E CARPA",
     "Responsável": "284860  - Juliana Aparecida Ferreira De Freitas",
     "Canteirização": "49",
-    "Fazenda": "53501"
+    "Fazenda": "53501",
+    "Unnamed: 18": null
   },
   {
     "ID": "4060944",
@@ -8531,14 +8961,15 @@ const CANTEIRIZACAO_DATA = [
     "Status": "Open",
     "Score": "48.00",
     "Score perc.": "100",
-    "Score desc.": NaN,
-    "Data Lançamento": "19/11/2026 00:00",
+    "Score desc.": null,
+    "Data Lançamento": "11/19/2026",
     "Local (Fazenda - Talhão)": "53501",
     "OS": "3846",
     "Frente": "261-PLANTIO MANUAL E CARPA",
     "Responsável": "284860  - Juliana Aparecida Ferreira De Freitas",
     "Canteirização": "48",
-    "Fazenda": "53501"
+    "Fazenda": "53501",
+    "Unnamed: 18": null
   },
   {
     "ID": "4060943",
@@ -8551,14 +8982,15 @@ const CANTEIRIZACAO_DATA = [
     "Status": "Open",
     "Score": "47.00",
     "Score perc.": "100",
-    "Score desc.": NaN,
-    "Data Lançamento": "19/11/2026 00:00",
+    "Score desc.": null,
+    "Data Lançamento": "11/19/2026",
     "Local (Fazenda - Talhão)": "53501",
     "OS": "3846",
     "Frente": "261-PLANTIO MANUAL E CARPA",
     "Responsável": "284860  - Juliana Aparecida Ferreira De Freitas",
     "Canteirização": "47",
-    "Fazenda": "53501"
+    "Fazenda": "53501",
+    "Unnamed: 18": null
   },
   {
     "ID": "4060942",
@@ -8571,14 +9003,15 @@ const CANTEIRIZACAO_DATA = [
     "Status": "Open",
     "Score": "40.00",
     "Score perc.": "100",
-    "Score desc.": NaN,
-    "Data Lançamento": "19/11/2026 00:00",
+    "Score desc.": null,
+    "Data Lançamento": "11/19/2026",
     "Local (Fazenda - Talhão)": "53501",
     "OS": "3846",
     "Frente": "261-PLANTIO MANUAL E CARPA",
     "Responsável": "284860  - Juliana Aparecida Ferreira De Freitas",
     "Canteirização": "40",
-    "Fazenda": "53501"
+    "Fazenda": "53501",
+    "Unnamed: 18": null
   },
   {
     "ID": "4060368",
@@ -8591,14 +9024,15 @@ const CANTEIRIZACAO_DATA = [
     "Status": "Open",
     "Score": "51.00",
     "Score perc.": "100",
-    "Score desc.": NaN,
-    "Data Lançamento": "19/11/2026 00:00",
+    "Score desc.": null,
+    "Data Lançamento": "11/19/2026",
     "Local (Fazenda - Talhão)": "53501",
     "OS": "3846",
     "Frente": "261-PLANTIO MANUAL E CARPA",
     "Responsável": "REGINALDO DA SILVA GOMES ",
     "Canteirização": "51",
-    "Fazenda": "53501"
+    "Fazenda": "53501",
+    "Unnamed: 18": null
   },
   {
     "ID": "4060367",
@@ -8611,14 +9045,15 @@ const CANTEIRIZACAO_DATA = [
     "Status": "Open",
     "Score": "41.00",
     "Score perc.": "100",
-    "Score desc.": NaN,
-    "Data Lançamento": "19/11/2026 00:00",
+    "Score desc.": null,
+    "Data Lançamento": "11/19/2026",
     "Local (Fazenda - Talhão)": "53501",
     "OS": "3846",
     "Frente": "261-PLANTIO MANUAL E CARPA",
     "Responsável": "REGINALDO DA SILVA GOMES ",
     "Canteirização": "41",
-    "Fazenda": "53501"
+    "Fazenda": "53501",
+    "Unnamed: 18": null
   },
   {
     "ID": "4060364",
@@ -8631,13 +9066,14 @@ const CANTEIRIZACAO_DATA = [
     "Status": "Open",
     "Score": "42.00",
     "Score perc.": "100",
-    "Score desc.": NaN,
-    "Data Lançamento": "19/11/2026 00:00",
+    "Score desc.": null,
+    "Data Lançamento": "11/19/2026",
     "Local (Fazenda - Talhão)": "53501",
     "OS": "3846",
     "Frente": "261-PLANTIO MANUAL E CARPA",
     "Responsável": "REGINALDO DA SILVA GOMES ",
     "Canteirização": "42",
-    "Fazenda": "53501"
+    "Fazenda": "53501",
+    "Unnamed: 18": null
   }
 ];

@@ -1,5 +1,9 @@
-// Auto-gerado em 21/11/2026 07:33:22
-const BROCA_ARMADILHA_DATA = [
+/**
+ * Dados Consolidados - broca_armadilha
+ * Total: 116 registros
+ * Atualizado em: 21/11/2026 07:40
+ */
+window.BROCA_ARMADILHA_DATA = [
   {
     "ID": "3952283",
     "Usuário": "qualidade3@usinapitangueiras.com.br",
@@ -15,7 +19,8 @@ const BROCA_ARMADILHA_DATA = [
     "Fazenda - Talhão": "39101 > 1855",
     "Quantidade Machos": "19",
     "Fazenda": "39101",
-    "Talhão": "1855"
+    "Talhão": "1855",
+    "Unnamed: 15": null
   },
   {
     "ID": "3952282",
@@ -32,7 +37,8 @@ const BROCA_ARMADILHA_DATA = [
     "Fazenda - Talhão": "70417 > 10",
     "Quantidade Machos": "29",
     "Fazenda": "70417",
-    "Talhão": "10"
+    "Talhão": "10",
+    "Unnamed: 15": null
   },
   {
     "ID": "3952281",
@@ -49,7 +55,8 @@ const BROCA_ARMADILHA_DATA = [
     "Fazenda - Talhão": "70417 > 39",
     "Quantidade Machos": "0",
     "Fazenda": "70417",
-    "Talhão": "39"
+    "Talhão": "39",
+    "Unnamed: 15": null
   },
   {
     "ID": "3952280",
@@ -66,7 +73,8 @@ const BROCA_ARMADILHA_DATA = [
     "Fazenda - Talhão": "70417 > 42",
     "Quantidade Machos": "3",
     "Fazenda": "70417",
-    "Talhão": "42"
+    "Talhão": "42",
+    "Unnamed: 15": null
   },
   {
     "ID": "3952279",
@@ -83,7 +91,8 @@ const BROCA_ARMADILHA_DATA = [
     "Fazenda - Talhão": "38302 > 8",
     "Quantidade Machos": "2",
     "Fazenda": "38302",
-    "Talhão": "8"
+    "Talhão": "8",
+    "Unnamed: 15": null
   },
   {
     "ID": "3952278",
@@ -100,7 +109,8 @@ const BROCA_ARMADILHA_DATA = [
     "Fazenda - Talhão": "70420 > 5",
     "Quantidade Machos": "2",
     "Fazenda": "70420",
-    "Talhão": "5"
+    "Talhão": "5",
+    "Unnamed: 15": null
   },
   {
     "ID": "3949541",
@@ -117,7 +127,8 @@ const BROCA_ARMADILHA_DATA = [
     "Fazenda - Talhão": "70422 > 4",
     "Quantidade Machos": "0",
     "Fazenda": "70422",
-    "Talhão": "4"
+    "Talhão": "4",
+    "Unnamed: 15": null
   },
   {
     "ID": "3949540",
@@ -134,7 +145,8 @@ const BROCA_ARMADILHA_DATA = [
     "Fazenda - Talhão": "70422 > 7",
     "Quantidade Machos": "1",
     "Fazenda": "70422",
-    "Talhão": "7"
+    "Talhão": "7",
+    "Unnamed: 15": null
   },
   {
     "ID": "3949539",
@@ -151,7 +163,8 @@ const BROCA_ARMADILHA_DATA = [
     "Fazenda - Talhão": "70422 > 5",
     "Quantidade Machos": "1",
     "Fazenda": "70422",
-    "Talhão": "5"
+    "Talhão": "5",
+    "Unnamed: 15": null
   },
   {
     "ID": "3949538",
@@ -168,7 +181,8 @@ const BROCA_ARMADILHA_DATA = [
     "Fazenda - Talhão": "70419 > 7",
     "Quantidade Machos": "11",
     "Fazenda": "70419",
-    "Talhão": "7"
+    "Talhão": "7",
+    "Unnamed: 15": null
   },
   {
     "ID": "3949537",
@@ -185,7 +199,8 @@ const BROCA_ARMADILHA_DATA = [
     "Fazenda - Talhão": "63201 > 3",
     "Quantidade Machos": "0",
     "Fazenda": "63201",
-    "Talhão": "3"
+    "Talhão": "3",
+    "Unnamed: 15": null
   },
   {
     "ID": "3949536",
@@ -202,7 +217,8 @@ const BROCA_ARMADILHA_DATA = [
     "Fazenda - Talhão": "68802 > 6",
     "Quantidade Machos": "0",
     "Fazenda": "68802",
-    "Talhão": "6"
+    "Talhão": "6",
+    "Unnamed: 15": null
   },
   {
     "ID": "3949534",
@@ -219,7 +235,8 @@ const BROCA_ARMADILHA_DATA = [
     "Fazenda - Talhão": "68802 > 4",
     "Quantidade Machos": "38",
     "Fazenda": "68802",
-    "Talhão": "4"
+    "Talhão": "4",
+    "Unnamed: 15": null
   },
   {
     "ID": "3949533",
@@ -236,7 +253,8 @@ const BROCA_ARMADILHA_DATA = [
     "Fazenda - Talhão": "68801 > 2",
     "Quantidade Machos": "25",
     "Fazenda": "68801",
-    "Talhão": "2"
+    "Talhão": "2",
+    "Unnamed: 15": null
   },
   {
     "ID": "3946492",
@@ -253,7 +271,8 @@ const BROCA_ARMADILHA_DATA = [
     "Fazenda - Talhão": "32201 > 21",
     "Quantidade Machos": "3",
     "Fazenda": "32201",
-    "Talhão": "21"
+    "Talhão": "21",
+    "Unnamed: 15": null
   },
   {
     "ID": "3945943",
@@ -270,7 +289,8 @@ const BROCA_ARMADILHA_DATA = [
     "Fazenda - Talhão": "70406 > 1",
     "Quantidade Machos": "1",
     "Fazenda": "70406",
-    "Talhão": "1"
+    "Talhão": "1",
+    "Unnamed: 15": null
   },
   {
     "ID": "3945942",
@@ -287,7 +307,8 @@ const BROCA_ARMADILHA_DATA = [
     "Fazenda - Talhão": "70411 > 6",
     "Quantidade Machos": "10",
     "Fazenda": "70411",
-    "Talhão": "6"
+    "Talhão": "6",
+    "Unnamed: 15": null
   },
   {
     "ID": "3945941",
@@ -304,7 +325,8 @@ const BROCA_ARMADILHA_DATA = [
     "Fazenda - Talhão": "70411 > 2",
     "Quantidade Machos": "2",
     "Fazenda": "70411",
-    "Talhão": "2"
+    "Talhão": "2",
+    "Unnamed: 15": null
   },
   {
     "ID": "3945939",
@@ -321,7 +343,8 @@ const BROCA_ARMADILHA_DATA = [
     "Fazenda - Talhão": "70406 > 3",
     "Quantidade Machos": "16",
     "Fazenda": "70406",
-    "Talhão": "3"
+    "Talhão": "3",
+    "Unnamed: 15": null
   },
   {
     "ID": "3945938",
@@ -338,7 +361,8 @@ const BROCA_ARMADILHA_DATA = [
     "Fazenda - Talhão": "39001 > 1",
     "Quantidade Machos": "36",
     "Fazenda": "39001",
-    "Talhão": "1"
+    "Talhão": "1",
+    "Unnamed: 15": null
   },
   {
     "ID": "3936709",
@@ -355,7 +379,8 @@ const BROCA_ARMADILHA_DATA = [
     "Fazenda - Talhão": "54401 > 2",
     "Quantidade Machos": "22",
     "Fazenda": "54401",
-    "Talhão": "2"
+    "Talhão": "2",
+    "Unnamed: 15": null
   },
   {
     "ID": "3930747",
@@ -372,7 +397,8 @@ const BROCA_ARMADILHA_DATA = [
     "Fazenda - Talhão": "34706 > 2",
     "Quantidade Machos": "0",
     "Fazenda": "34706",
-    "Talhão": "2"
+    "Talhão": "2",
+    "Unnamed: 15": null
   },
   {
     "ID": "3930746",
@@ -389,7 +415,8 @@ const BROCA_ARMADILHA_DATA = [
     "Fazenda - Talhão": "35001 > 1",
     "Quantidade Machos": "0",
     "Fazenda": "35001",
-    "Talhão": "1"
+    "Talhão": "1",
+    "Unnamed: 15": null
   },
   {
     "ID": "3928158",
@@ -406,7 +433,8 @@ const BROCA_ARMADILHA_DATA = [
     "Fazenda - Talhão": "46501 > 2",
     "Quantidade Machos": "0",
     "Fazenda": "46501",
-    "Talhão": "2"
+    "Talhão": "2",
+    "Unnamed: 15": null
   },
   {
     "ID": "3928157",
@@ -423,7 +451,8 @@ const BROCA_ARMADILHA_DATA = [
     "Fazenda - Talhão": "61501 > 1",
     "Quantidade Machos": "0",
     "Fazenda": "61501",
-    "Talhão": "1"
+    "Talhão": "1",
+    "Unnamed: 15": null
   },
   {
     "ID": "3928155",
@@ -440,7 +469,8 @@ const BROCA_ARMADILHA_DATA = [
     "Fazenda - Talhão": "68501 > 2",
     "Quantidade Machos": "0",
     "Fazenda": "68501",
-    "Talhão": "2"
+    "Talhão": "2",
+    "Unnamed: 15": null
   },
   {
     "ID": "3928154",
@@ -457,7 +487,8 @@ const BROCA_ARMADILHA_DATA = [
     "Fazenda - Talhão": "30502 > 1",
     "Quantidade Machos": "0",
     "Fazenda": "30502",
-    "Talhão": "1"
+    "Talhão": "1",
+    "Unnamed: 15": null
   },
   {
     "ID": "3928153",
@@ -474,7 +505,8 @@ const BROCA_ARMADILHA_DATA = [
     "Fazenda - Talhão": "63301 > 1",
     "Quantidade Machos": "0",
     "Fazenda": "63301",
-    "Talhão": "1"
+    "Talhão": "1",
+    "Unnamed: 15": null
   },
   {
     "ID": "3928152",
@@ -491,7 +523,8 @@ const BROCA_ARMADILHA_DATA = [
     "Fazenda - Talhão": "30202 > 3",
     "Quantidade Machos": "0",
     "Fazenda": "30202",
-    "Talhão": "3"
+    "Talhão": "3",
+    "Unnamed: 15": null
   },
   {
     "ID": "3928151",
@@ -508,7 +541,8 @@ const BROCA_ARMADILHA_DATA = [
     "Fazenda - Talhão": "37101 > 1",
     "Quantidade Machos": "0",
     "Fazenda": "37101",
-    "Talhão": "1"
+    "Talhão": "1",
+    "Unnamed: 15": null
   },
   {
     "ID": "3926241",
@@ -525,7 +559,8 @@ const BROCA_ARMADILHA_DATA = [
     "Fazenda - Talhão": "53401 > 2",
     "Quantidade Machos": "0",
     "Fazenda": "53401",
-    "Talhão": "2"
+    "Talhão": "2",
+    "Unnamed: 15": null
   },
   {
     "ID": "3926240",
@@ -542,7 +577,8 @@ const BROCA_ARMADILHA_DATA = [
     "Fazenda - Talhão": "39101 > 1855",
     "Quantidade Machos": "0",
     "Fazenda": "39101",
-    "Talhão": "1855"
+    "Talhão": "1855",
+    "Unnamed: 15": null
   },
   {
     "ID": "3926239",
@@ -559,7 +595,8 @@ const BROCA_ARMADILHA_DATA = [
     "Fazenda - Talhão": "33401 > 2570",
     "Quantidade Machos": "0",
     "Fazenda": "33401",
-    "Talhão": "2570"
+    "Talhão": "2570",
+    "Unnamed: 15": null
   },
   {
     "ID": "3926238",
@@ -576,7 +613,8 @@ const BROCA_ARMADILHA_DATA = [
     "Fazenda - Talhão": "43401 > 23",
     "Quantidade Machos": "50",
     "Fazenda": "43401",
-    "Talhão": "23"
+    "Talhão": "23",
+    "Unnamed: 15": null
   },
   {
     "ID": "3926237",
@@ -593,7 +631,8 @@ const BROCA_ARMADILHA_DATA = [
     "Fazenda - Talhão": "32201 > 21",
     "Quantidade Machos": "0",
     "Fazenda": "32201",
-    "Talhão": "21"
+    "Talhão": "21",
+    "Unnamed: 15": null
   },
   {
     "ID": "3923353",
@@ -610,7 +649,8 @@ const BROCA_ARMADILHA_DATA = [
     "Fazenda - Talhão": "41801 > 3",
     "Quantidade Machos": "4",
     "Fazenda": "41801",
-    "Talhão": "3"
+    "Talhão": "3",
+    "Unnamed: 15": null
   },
   {
     "ID": "3923351",
@@ -627,7 +667,8 @@ const BROCA_ARMADILHA_DATA = [
     "Fazenda - Talhão": "41701 > 5",
     "Quantidade Machos": "17",
     "Fazenda": "41701",
-    "Talhão": "5"
+    "Talhão": "5",
+    "Unnamed: 15": null
   },
   {
     "ID": "3923349",
@@ -644,7 +685,8 @@ const BROCA_ARMADILHA_DATA = [
     "Fazenda - Talhão": "34704 > 74",
     "Quantidade Machos": "13",
     "Fazenda": "34704",
-    "Talhão": "74"
+    "Talhão": "74",
+    "Unnamed: 15": null
   },
   {
     "ID": "3922084",
@@ -661,7 +703,8 @@ const BROCA_ARMADILHA_DATA = [
     "Fazenda - Talhão": "47601 > 46",
     "Quantidade Machos": "6",
     "Fazenda": "47601",
-    "Talhão": "46"
+    "Talhão": "46",
+    "Unnamed: 15": null
   },
   {
     "ID": "3917698",
@@ -678,7 +721,8 @@ const BROCA_ARMADILHA_DATA = [
     "Fazenda - Talhão": "40101 > 5",
     "Quantidade Machos": "3",
     "Fazenda": "40101",
-    "Talhão": "5"
+    "Talhão": "5",
+    "Unnamed: 15": null
   },
   {
     "ID": "3917697",
@@ -695,7 +739,8 @@ const BROCA_ARMADILHA_DATA = [
     "Fazenda - Talhão": "40101 > 7",
     "Quantidade Machos": "21",
     "Fazenda": "40101",
-    "Talhão": "7"
+    "Talhão": "7",
+    "Unnamed: 15": null
   },
   {
     "ID": "3917696",
@@ -712,7 +757,8 @@ const BROCA_ARMADILHA_DATA = [
     "Fazenda - Talhão": "40101 > 9",
     "Quantidade Machos": "47",
     "Fazenda": "40101",
-    "Talhão": "9"
+    "Talhão": "9",
+    "Unnamed: 15": null
   },
   {
     "ID": "3917695",
@@ -729,7 +775,8 @@ const BROCA_ARMADILHA_DATA = [
     "Fazenda - Talhão": "40101 > 11",
     "Quantidade Machos": "25",
     "Fazenda": "40101",
-    "Talhão": "11"
+    "Talhão": "11",
+    "Unnamed: 15": null
   },
   {
     "ID": "3917691",
@@ -746,7 +793,8 @@ const BROCA_ARMADILHA_DATA = [
     "Fazenda - Talhão": "34802 > 31",
     "Quantidade Machos": "14",
     "Fazenda": "34802",
-    "Talhão": "31"
+    "Talhão": "31",
+    "Unnamed: 15": null
   },
   {
     "ID": "3917693",
@@ -763,7 +811,8 @@ const BROCA_ARMADILHA_DATA = [
     "Fazenda - Talhão": "34802 > 27",
     "Quantidade Machos": "34",
     "Fazenda": "34802",
-    "Talhão": "27"
+    "Talhão": "27",
+    "Unnamed: 15": null
   },
   {
     "ID": "3917694",
@@ -780,7 +829,8 @@ const BROCA_ARMADILHA_DATA = [
     "Fazenda - Talhão": "40101 > 16",
     "Quantidade Machos": "14",
     "Fazenda": "40101",
-    "Talhão": "16"
+    "Talhão": "16",
+    "Unnamed: 15": null
   },
   {
     "ID": "3915685",
@@ -797,7 +847,8 @@ const BROCA_ARMADILHA_DATA = [
     "Fazenda - Talhão": "70414 > 3",
     "Quantidade Machos": "0",
     "Fazenda": "70414",
-    "Talhão": "3"
+    "Talhão": "3",
+    "Unnamed: 15": null
   },
   {
     "ID": "3915684",
@@ -814,7 +865,8 @@ const BROCA_ARMADILHA_DATA = [
     "Fazenda - Talhão": "70417 > 10",
     "Quantidade Machos": "0",
     "Fazenda": "70417",
-    "Talhão": "10"
+    "Talhão": "10",
+    "Unnamed: 15": null
   },
   {
     "ID": "3915683",
@@ -831,7 +883,8 @@ const BROCA_ARMADILHA_DATA = [
     "Fazenda - Talhão": "70417 > 39",
     "Quantidade Machos": "0",
     "Fazenda": "70417",
-    "Talhão": "39"
+    "Talhão": "39",
+    "Unnamed: 15": null
   },
   {
     "ID": "3915694",
@@ -848,7 +901,8 @@ const BROCA_ARMADILHA_DATA = [
     "Fazenda - Talhão": "70417 > 42",
     "Quantidade Machos": "0",
     "Fazenda": "70417",
-    "Talhão": "42"
+    "Talhão": "42",
+    "Unnamed: 15": null
   },
   {
     "ID": "3917112",
@@ -865,7 +919,8 @@ const BROCA_ARMADILHA_DATA = [
     "Fazenda - Talhão": "38302 > 8",
     "Quantidade Machos": "0",
     "Fazenda": "38302",
-    "Talhão": "8"
+    "Talhão": "8",
+    "Unnamed: 15": null
   },
   {
     "ID": "3915704",
@@ -882,7 +937,8 @@ const BROCA_ARMADILHA_DATA = [
     "Fazenda - Talhão": "70420 > 5",
     "Quantidade Machos": "0",
     "Fazenda": "70420",
-    "Talhão": "5"
+    "Talhão": "5",
+    "Unnamed: 15": null
   },
   {
     "ID": "3915703",
@@ -899,7 +955,8 @@ const BROCA_ARMADILHA_DATA = [
     "Fazenda - Talhão": "70422 > 5",
     "Quantidade Machos": "0",
     "Fazenda": "70422",
-    "Talhão": "5"
+    "Talhão": "5",
+    "Unnamed: 15": null
   },
   {
     "ID": "3915533",
@@ -916,7 +973,8 @@ const BROCA_ARMADILHA_DATA = [
     "Fazenda - Talhão": "70422 > 4",
     "Quantidade Machos": "0",
     "Fazenda": "70422",
-    "Talhão": "4"
+    "Talhão": "4",
+    "Unnamed: 15": null
   },
   {
     "ID": "3915532",
@@ -933,7 +991,8 @@ const BROCA_ARMADILHA_DATA = [
     "Fazenda - Talhão": "70422 > 7",
     "Quantidade Machos": "0",
     "Fazenda": "70422",
-    "Talhão": "7"
+    "Talhão": "7",
+    "Unnamed: 15": null
   },
   {
     "ID": "3915531",
@@ -950,7 +1009,8 @@ const BROCA_ARMADILHA_DATA = [
     "Fazenda - Talhão": "70419 > 7",
     "Quantidade Machos": "0",
     "Fazenda": "70419",
-    "Talhão": "7"
+    "Talhão": "7",
+    "Unnamed: 15": null
   },
   {
     "ID": "3915526",
@@ -967,7 +1027,8 @@ const BROCA_ARMADILHA_DATA = [
     "Fazenda - Talhão": "71001 > 1",
     "Quantidade Machos": "0",
     "Fazenda": "71001",
-    "Talhão": "1"
+    "Talhão": "1",
+    "Unnamed: 15": null
   },
   {
     "ID": "3913645",
@@ -984,7 +1045,8 @@ const BROCA_ARMADILHA_DATA = [
     "Fazenda - Talhão": "43401 > 23",
     "Quantidade Machos": "0",
     "Fazenda": "43401",
-    "Talhão": "23"
+    "Talhão": "23",
+    "Unnamed: 15": null
   },
   {
     "ID": "3913644",
@@ -1001,7 +1063,8 @@ const BROCA_ARMADILHA_DATA = [
     "Fazenda - Talhão": "68801 > 2",
     "Quantidade Machos": "0",
     "Fazenda": "68801",
-    "Talhão": "2"
+    "Talhão": "2",
+    "Unnamed: 15": null
   },
   {
     "ID": "3913643",
@@ -1018,7 +1081,8 @@ const BROCA_ARMADILHA_DATA = [
     "Fazenda - Talhão": "68802 > 4",
     "Quantidade Machos": "0",
     "Fazenda": "68802",
-    "Talhão": "4"
+    "Talhão": "4",
+    "Unnamed: 15": null
   },
   {
     "ID": "3914895",
@@ -1035,7 +1099,8 @@ const BROCA_ARMADILHA_DATA = [
     "Fazenda - Talhão": "68802 > 6",
     "Quantidade Machos": "0",
     "Fazenda": "68802",
-    "Talhão": "6"
+    "Talhão": "6",
+    "Unnamed: 15": null
   },
   {
     "ID": "3914894",
@@ -1052,7 +1117,8 @@ const BROCA_ARMADILHA_DATA = [
     "Fazenda - Talhão": "63201 > 3",
     "Quantidade Machos": "0",
     "Fazenda": "63201",
-    "Talhão": "3"
+    "Talhão": "3",
+    "Unnamed: 15": null
   },
   {
     "ID": "3914958",
@@ -1069,7 +1135,8 @@ const BROCA_ARMADILHA_DATA = [
     "Fazenda - Talhão": "54401 > 2",
     "Quantidade Machos": "0",
     "Fazenda": "54401",
-    "Talhão": "2"
+    "Talhão": "2",
+    "Unnamed: 15": null
   },
   {
     "ID": "3914890",
@@ -1086,7 +1153,8 @@ const BROCA_ARMADILHA_DATA = [
     "Fazenda - Talhão": "70406 > 1",
     "Quantidade Machos": "0",
     "Fazenda": "70406",
-    "Talhão": "1"
+    "Talhão": "1",
+    "Unnamed: 15": null
   },
   {
     "ID": "3914889",
@@ -1103,7 +1171,8 @@ const BROCA_ARMADILHA_DATA = [
     "Fazenda - Talhão": "70406 > 3",
     "Quantidade Machos": "0",
     "Fazenda": "70406",
-    "Talhão": "3"
+    "Talhão": "3",
+    "Unnamed: 15": null
   },
   {
     "ID": "3914888",
@@ -1120,7 +1189,8 @@ const BROCA_ARMADILHA_DATA = [
     "Fazenda - Talhão": "70411 > 2",
     "Quantidade Machos": "0",
     "Fazenda": "70411",
-    "Talhão": "2"
+    "Talhão": "2",
+    "Unnamed: 15": null
   },
   {
     "ID": "3914887",
@@ -1137,7 +1207,8 @@ const BROCA_ARMADILHA_DATA = [
     "Fazenda - Talhão": "70411 > 6",
     "Quantidade Machos": "0",
     "Fazenda": "70411",
-    "Talhão": "6"
+    "Talhão": "6",
+    "Unnamed: 15": null
   },
   {
     "ID": "3914886",
@@ -1154,7 +1225,8 @@ const BROCA_ARMADILHA_DATA = [
     "Fazenda - Talhão": "70411 > 15",
     "Quantidade Machos": "0",
     "Fazenda": "70411",
-    "Talhão": "15"
+    "Talhão": "15",
+    "Unnamed: 15": null
   },
   {
     "ID": "3914885",
@@ -1171,7 +1243,8 @@ const BROCA_ARMADILHA_DATA = [
     "Fazenda - Talhão": "70411 > 17",
     "Quantidade Machos": "0",
     "Fazenda": "70411",
-    "Talhão": "17"
+    "Talhão": "17",
+    "Unnamed: 15": null
   },
   {
     "ID": "3914884",
@@ -1188,7 +1261,8 @@ const BROCA_ARMADILHA_DATA = [
     "Fazenda - Talhão": "70411 > 13",
     "Quantidade Machos": "0",
     "Fazenda": "70411",
-    "Talhão": "13"
+    "Talhão": "13",
+    "Unnamed: 15": null
   },
   {
     "ID": "3914883",
@@ -1205,7 +1279,8 @@ const BROCA_ARMADILHA_DATA = [
     "Fazenda - Talhão": "70404 > 1",
     "Quantidade Machos": "0",
     "Fazenda": "70404",
-    "Talhão": "1"
+    "Talhão": "1",
+    "Unnamed: 15": null
   },
   {
     "ID": "3914882",
@@ -1222,7 +1297,8 @@ const BROCA_ARMADILHA_DATA = [
     "Fazenda - Talhão": "43001 > 1",
     "Quantidade Machos": "0",
     "Fazenda": "43001",
-    "Talhão": "1"
+    "Talhão": "1",
+    "Unnamed: 15": null
   },
   {
     "ID": "3914881",
@@ -1239,7 +1315,8 @@ const BROCA_ARMADILHA_DATA = [
     "Fazenda - Talhão": "43001 > 1",
     "Quantidade Machos": "0",
     "Fazenda": "43001",
-    "Talhão": "1"
+    "Talhão": "1",
+    "Unnamed: 15": null
   },
   {
     "ID": "3914880",
@@ -1256,7 +1333,8 @@ const BROCA_ARMADILHA_DATA = [
     "Fazenda - Talhão": "63501 > 2",
     "Quantidade Machos": "0",
     "Fazenda": "63501",
-    "Talhão": "2"
+    "Talhão": "2",
+    "Unnamed: 15": null
   },
   {
     "ID": "3914879",
@@ -1273,7 +1351,8 @@ const BROCA_ARMADILHA_DATA = [
     "Fazenda - Talhão": "63401 > 1",
     "Quantidade Machos": "0",
     "Fazenda": "63401",
-    "Talhão": "1"
+    "Talhão": "1",
+    "Unnamed: 15": null
   },
   {
     "ID": "3914878",
@@ -1290,7 +1369,8 @@ const BROCA_ARMADILHA_DATA = [
     "Fazenda - Talhão": "63502 > 2977",
     "Quantidade Machos": "0",
     "Fazenda": "63502",
-    "Talhão": "2977"
+    "Talhão": "2977",
+    "Unnamed: 15": null
   },
   {
     "ID": "3914877",
@@ -1307,7 +1387,8 @@ const BROCA_ARMADILHA_DATA = [
     "Fazenda - Talhão": "53201 > 38",
     "Quantidade Machos": "0",
     "Fazenda": "53201",
-    "Talhão": "38"
+    "Talhão": "38",
+    "Unnamed: 15": null
   },
   {
     "ID": "3914876",
@@ -1324,7 +1405,8 @@ const BROCA_ARMADILHA_DATA = [
     "Fazenda - Talhão": "39701 > 1",
     "Quantidade Machos": "0",
     "Fazenda": "39701",
-    "Talhão": "1"
+    "Talhão": "1",
+    "Unnamed: 15": null
   },
   {
     "ID": "3914873",
@@ -1341,7 +1423,8 @@ const BROCA_ARMADILHA_DATA = [
     "Fazenda - Talhão": "39701 > 2",
     "Quantidade Machos": "0",
     "Fazenda": "39701",
-    "Talhão": "2"
+    "Talhão": "2",
+    "Unnamed: 15": null
   },
   {
     "ID": "3912534",
@@ -1358,7 +1441,8 @@ const BROCA_ARMADILHA_DATA = [
     "Fazenda - Talhão": "39001 > 1",
     "Quantidade Machos": "0",
     "Fazenda": "39001",
-    "Talhão": "1"
+    "Talhão": "1",
+    "Unnamed: 15": null
   },
   {
     "ID": "3912533",
@@ -1375,7 +1459,8 @@ const BROCA_ARMADILHA_DATA = [
     "Fazenda - Talhão": "47601 > 46",
     "Quantidade Machos": "0",
     "Fazenda": "47601",
-    "Talhão": "46"
+    "Talhão": "46",
+    "Unnamed: 15": null
   },
   {
     "ID": "3912532",
@@ -1392,7 +1477,8 @@ const BROCA_ARMADILHA_DATA = [
     "Fazenda - Talhão": "41701 > 5",
     "Quantidade Machos": "0",
     "Fazenda": "41701",
-    "Talhão": "5"
+    "Talhão": "5",
+    "Unnamed: 15": null
   },
   {
     "ID": "3912531",
@@ -1409,7 +1495,8 @@ const BROCA_ARMADILHA_DATA = [
     "Fazenda - Talhão": "41801 > 3",
     "Quantidade Machos": "0",
     "Fazenda": "41801",
-    "Talhão": "3"
+    "Talhão": "3",
+    "Unnamed: 15": null
   },
   {
     "ID": "3912530",
@@ -1426,7 +1513,8 @@ const BROCA_ARMADILHA_DATA = [
     "Fazenda - Talhão": "34704 > 74",
     "Quantidade Machos": "0",
     "Fazenda": "34704",
-    "Talhão": "74"
+    "Talhão": "74",
+    "Unnamed: 15": null
   },
   {
     "ID": "3912529",
@@ -1443,7 +1531,8 @@ const BROCA_ARMADILHA_DATA = [
     "Fazenda - Talhão": "40101 > 3",
     "Quantidade Machos": "0",
     "Fazenda": "40101",
-    "Talhão": "3"
+    "Talhão": "3",
+    "Unnamed: 15": null
   },
   {
     "ID": "3912528",
@@ -1460,7 +1549,8 @@ const BROCA_ARMADILHA_DATA = [
     "Fazenda - Talhão": "40101 > 7",
     "Quantidade Machos": "0",
     "Fazenda": "40101",
-    "Talhão": "7"
+    "Talhão": "7",
+    "Unnamed: 15": null
   },
   {
     "ID": "3912527",
@@ -1477,7 +1567,8 @@ const BROCA_ARMADILHA_DATA = [
     "Fazenda - Talhão": "40101 > 9",
     "Quantidade Machos": "0",
     "Fazenda": "40101",
-    "Talhão": "9"
+    "Talhão": "9",
+    "Unnamed: 15": null
   },
   {
     "ID": "3912526",
@@ -1494,7 +1585,8 @@ const BROCA_ARMADILHA_DATA = [
     "Fazenda - Talhão": "40101 > 11",
     "Quantidade Machos": "0",
     "Fazenda": "40101",
-    "Talhão": "11"
+    "Talhão": "11",
+    "Unnamed: 15": null
   },
   {
     "ID": "3912525",
@@ -1511,7 +1603,8 @@ const BROCA_ARMADILHA_DATA = [
     "Fazenda - Talhão": "40101 > 14",
     "Quantidade Machos": "0",
     "Fazenda": "40101",
-    "Talhão": "14"
+    "Talhão": "14",
+    "Unnamed: 15": null
   },
   {
     "ID": "3912524",
@@ -1528,7 +1621,8 @@ const BROCA_ARMADILHA_DATA = [
     "Fazenda - Talhão": "40101 > 16",
     "Quantidade Machos": "0",
     "Fazenda": "40101",
-    "Talhão": "16"
+    "Talhão": "16",
+    "Unnamed: 15": null
   },
   {
     "ID": "3912523",
@@ -1545,7 +1639,8 @@ const BROCA_ARMADILHA_DATA = [
     "Fazenda - Talhão": "34802 > 27",
     "Quantidade Machos": "0",
     "Fazenda": "34802",
-    "Talhão": "27"
+    "Talhão": "27",
+    "Unnamed: 15": null
   },
   {
     "ID": "3912522",
@@ -1562,7 +1657,8 @@ const BROCA_ARMADILHA_DATA = [
     "Fazenda - Talhão": "34802 > 31",
     "Quantidade Machos": "0",
     "Fazenda": "34802",
-    "Talhão": "31"
+    "Talhão": "31",
+    "Unnamed: 15": null
   },
   {
     "ID": "3955216",
@@ -1579,7 +1675,8 @@ const BROCA_ARMADILHA_DATA = [
     "Fazenda - Talhão": "46501 > 2",
     "Quantidade Machos": "16",
     "Fazenda": "46501",
-    "Talhão": "2"
+    "Talhão": "2",
+    "Unnamed: 15": null
   },
   {
     "ID": "3955160",
@@ -1596,7 +1693,8 @@ const BROCA_ARMADILHA_DATA = [
     "Fazenda - Talhão": "61501 > 1",
     "Quantidade Machos": "35",
     "Fazenda": "61501",
-    "Talhão": "1"
+    "Talhão": "1",
+    "Unnamed: 15": null
   },
   {
     "ID": "3955159",
@@ -1613,7 +1711,8 @@ const BROCA_ARMADILHA_DATA = [
     "Fazenda - Talhão": "68501 > 2",
     "Quantidade Machos": "18",
     "Fazenda": "68501",
-    "Talhão": "2"
+    "Talhão": "2",
+    "Unnamed: 15": null
   },
   {
     "ID": "3955157",
@@ -1630,7 +1729,8 @@ const BROCA_ARMADILHA_DATA = [
     "Fazenda - Talhão": "30502 > 1",
     "Quantidade Machos": "15",
     "Fazenda": "30502",
-    "Talhão": "1"
+    "Talhão": "1",
+    "Unnamed: 15": null
   },
   {
     "ID": "3955154",
@@ -1647,7 +1747,8 @@ const BROCA_ARMADILHA_DATA = [
     "Fazenda - Talhão": "63301 > 1",
     "Quantidade Machos": "31",
     "Fazenda": "63301",
-    "Talhão": "1"
+    "Talhão": "1",
+    "Unnamed: 15": null
   },
   {
     "ID": "3955152",
@@ -1664,7 +1765,8 @@ const BROCA_ARMADILHA_DATA = [
     "Fazenda - Talhão": "30202 > 3",
     "Quantidade Machos": "9",
     "Fazenda": "30202",
-    "Talhão": "3"
+    "Talhão": "3",
+    "Unnamed: 15": null
   },
   {
     "ID": "3955151",
@@ -1681,7 +1783,8 @@ const BROCA_ARMADILHA_DATA = [
     "Fazenda - Talhão": "37101 > 1",
     "Quantidade Machos": "30",
     "Fazenda": "37101",
-    "Talhão": "1"
+    "Talhão": "1",
+    "Unnamed: 15": null
   },
   {
     "ID": "3955149",
@@ -1698,7 +1801,8 @@ const BROCA_ARMADILHA_DATA = [
     "Fazenda - Talhão": "34706 > 2",
     "Quantidade Machos": "0",
     "Fazenda": "34706",
-    "Talhão": "2"
+    "Talhão": "2",
+    "Unnamed: 15": null
   },
   {
     "ID": "3955147",
@@ -1715,7 +1819,8 @@ const BROCA_ARMADILHA_DATA = [
     "Fazenda - Talhão": "35001 > 1",
     "Quantidade Machos": "2",
     "Fazenda": "35001",
-    "Talhão": "1"
+    "Talhão": "1",
+    "Unnamed: 15": null
   },
   {
     "ID": "3952537",
@@ -1732,7 +1837,8 @@ const BROCA_ARMADILHA_DATA = [
     "Fazenda - Talhão": "63502 > 2977",
     "Quantidade Machos": "38",
     "Fazenda": "63502",
-    "Talhão": "2977"
+    "Talhão": "2977",
+    "Unnamed: 15": null
   },
   {
     "ID": "3952536",
@@ -1749,7 +1855,8 @@ const BROCA_ARMADILHA_DATA = [
     "Fazenda - Talhão": "63401 > 1",
     "Quantidade Machos": "50",
     "Fazenda": "63401",
-    "Talhão": "1"
+    "Talhão": "1",
+    "Unnamed: 15": null
   },
   {
     "ID": "3952535",
@@ -1766,7 +1873,8 @@ const BROCA_ARMADILHA_DATA = [
     "Fazenda - Talhão": "63401 > 1",
     "Quantidade Machos": "50",
     "Fazenda": "63401",
-    "Talhão": "1"
+    "Talhão": "1",
+    "Unnamed: 15": null
   },
   {
     "ID": "3952534",
@@ -1783,7 +1891,8 @@ const BROCA_ARMADILHA_DATA = [
     "Fazenda - Talhão": "63501 > 2",
     "Quantidade Machos": "19",
     "Fazenda": "63501",
-    "Talhão": "2"
+    "Talhão": "2",
+    "Unnamed: 15": null
   },
   {
     "ID": "3952533",
@@ -1800,7 +1909,8 @@ const BROCA_ARMADILHA_DATA = [
     "Fazenda - Talhão": "70411 > 13",
     "Quantidade Machos": "0",
     "Fazenda": "70411",
-    "Talhão": "13"
+    "Talhão": "13",
+    "Unnamed: 15": null
   },
   {
     "ID": "3952532",
@@ -1817,7 +1927,8 @@ const BROCA_ARMADILHA_DATA = [
     "Fazenda - Talhão": "70411 > 15",
     "Quantidade Machos": "0",
     "Fazenda": "70411",
-    "Talhão": "15"
+    "Talhão": "15",
+    "Unnamed: 15": null
   },
   {
     "ID": "3952531",
@@ -1834,7 +1945,8 @@ const BROCA_ARMADILHA_DATA = [
     "Fazenda - Talhão": "70411 > 17",
     "Quantidade Machos": "31",
     "Fazenda": "70411",
-    "Talhão": "17"
+    "Talhão": "17",
+    "Unnamed: 15": null
   },
   {
     "ID": "3952530",
@@ -1851,7 +1963,8 @@ const BROCA_ARMADILHA_DATA = [
     "Fazenda - Talhão": "70404 > 1",
     "Quantidade Machos": "0",
     "Fazenda": "70404",
-    "Talhão": "1"
+    "Talhão": "1",
+    "Unnamed: 15": null
   },
   {
     "ID": "3952529",
@@ -1868,7 +1981,8 @@ const BROCA_ARMADILHA_DATA = [
     "Fazenda - Talhão": "43001 > 1",
     "Quantidade Machos": "0",
     "Fazenda": "43001",
-    "Talhão": "1"
+    "Talhão": "1",
+    "Unnamed: 15": null
   },
   {
     "ID": "3952528",
@@ -1885,7 +1999,8 @@ const BROCA_ARMADILHA_DATA = [
     "Fazenda - Talhão": "53401 > 2",
     "Quantidade Machos": "43",
     "Fazenda": "53401",
-    "Talhão": "2"
+    "Talhão": "2",
+    "Unnamed: 15": null
   },
   {
     "ID": "3952527",
@@ -1902,7 +2017,8 @@ const BROCA_ARMADILHA_DATA = [
     "Fazenda - Talhão": "70414 > 3",
     "Quantidade Machos": "5",
     "Fazenda": "70414",
-    "Talhão": "3"
+    "Talhão": "3",
+    "Unnamed: 15": null
   },
   {
     "ID": "3952526",
@@ -1919,7 +2035,8 @@ const BROCA_ARMADILHA_DATA = [
     "Fazenda - Talhão": "33401 > 2570",
     "Quantidade Machos": "1",
     "Fazenda": "33401",
-    "Talhão": "2570"
+    "Talhão": "2570",
+    "Unnamed: 15": null
   },
   {
     "ID": "3952286",
@@ -1936,7 +2053,8 @@ const BROCA_ARMADILHA_DATA = [
     "Fazenda - Talhão": "71001 > 1",
     "Quantidade Machos": "1",
     "Fazenda": "71001",
-    "Talhão": "1"
+    "Talhão": "1",
+    "Unnamed: 15": null
   },
   {
     "ID": "3952285",
@@ -1953,7 +2071,8 @@ const BROCA_ARMADILHA_DATA = [
     "Fazenda - Talhão": "39701 > 1",
     "Quantidade Machos": "7",
     "Fazenda": "39701",
-    "Talhão": "1"
+    "Talhão": "1",
+    "Unnamed: 15": null
   },
   {
     "ID": "3952284",
@@ -1970,6 +2089,7 @@ const BROCA_ARMADILHA_DATA = [
     "Fazenda - Talhão": "39701 > 2",
     "Quantidade Machos": "36",
     "Fazenda": "39701",
-    "Talhão": "2"
+    "Talhão": "2",
+    "Unnamed: 15": null
   }
 ];

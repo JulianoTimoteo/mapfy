@@ -1,5 +1,9 @@
-// Auto-gerado em 21/11/2026 07:33:21
-const CHECKLIST_VEICULAR_DATA = [
+/**
+ * Dados Consolidados - checklist_veicular
+ * Total: 1299 registros
+ * Atualizado em: 21/11/2026 07:40
+ */
+window.CHECKLIST_DATA = [
   {
     "ID": "3401943",
     "Usuário": "RASTREAMENTO@usinapitangueiras.com.br",
@@ -15,14 +19,15 @@ const CHECKLIST_VEICULAR_DATA = [
     "Condutor": "Ronildo Barbosa ",
     "Data Hora": "06/01/2026 14:20",
     "VIDEOTELEMTRIA": "SIM",
-    "Itens Danificados": NaN,
+    "Itens Danificados": null,
     "Estado de Criticidade Veículo": "Moderado(Condutor notificado)",
     "Observacoes": "Porta passageiro lado esquerdo (não abre)",
     "ID COLABORADOR": "81103",
     "ID DO AVALIADOR(A)": "272640",
     "Abrir Os": "SIM",
-    "Os": NaN,
-    "Abrir Os ": "SIM"
+    "Os": null,
+    "Abrir Os ": "SIM",
+    "Unnamed: 21": null
   },
   {
     "ID": "3401944",
@@ -39,14 +44,15 @@ const CHECKLIST_VEICULAR_DATA = [
     "Condutor": "Karolainy da Silva Roque ",
     "Data Hora": "06/01/2026 14:43",
     "VIDEOTELEMTRIA": "SIM",
-    "Itens Danificados": NaN,
+    "Itens Danificados": null,
     "Estado de Criticidade Veículo": "Moderado(Condutor notificado)",
     "Observacoes": "Cilindro da porta esquerda (quebrado)",
     "ID COLABORADOR": "272590",
     "ID DO AVALIADOR(A)": "272640",
     "Abrir Os": "SIM",
     "Os": "710767",
-    "Abrir Os ": "SIM"
+    "Abrir Os ": "SIM",
+    "Unnamed: 21": null
   },
   {
     "ID": "3401984",
@@ -63,14 +69,15 @@ const CHECKLIST_VEICULAR_DATA = [
     "Condutor": "Paulo Antonio Viana Iesi",
     "Data Hora": "06/01/2026 15:55",
     "VIDEOTELEMTRIA": "SIM",
-    "Itens Danificados": NaN,
+    "Itens Danificados": null,
     "Estado de Criticidade Veículo": "Leve(Liberado)",
     "Observacoes": "Sem avaria.",
     "ID COLABORADOR": "271830",
     "ID DO AVALIADOR(A)": "272640",
     "Abrir Os": "NÃO",
-    "Os": NaN,
-    "Abrir Os ": "NÃO"
+    "Os": null,
+    "Abrir Os ": "NÃO",
+    "Unnamed: 21": null
   },
   {
     "ID": "3408025",
@@ -87,14 +94,15 @@ const CHECKLIST_VEICULAR_DATA = [
     "Condutor": "Giliard Tavares ",
     "Data Hora": "07/01/2026 08:34",
     "VIDEOTELEMTRIA": "NÃO",
-    "Itens Danificados": NaN,
+    "Itens Danificados": null,
     "Estado de Criticidade Veículo": "Leve(Liberado)",
     "Observacoes": "Sem avaria.",
     "ID COLABORADOR": "260700",
     "ID DO AVALIADOR(A)": "272640",
     "Abrir Os": "NÃO",
-    "Os": NaN,
-    "Abrir Os ": "NÃO"
+    "Os": null,
+    "Abrir Os ": "NÃO",
+    "Unnamed: 21": null
   },
   {
     "ID": "3408026",
@@ -118,7 +126,8 @@ const CHECKLIST_VEICULAR_DATA = [
     "ID DO AVALIADOR(A)": "272640",
     "Abrir Os": "SIM",
     "Os": "710781",
-    "Abrir Os ": "SIM"
+    "Abrir Os ": "SIM",
+    "Unnamed: 21": null
   },
   {
     "ID": "3408027",
@@ -135,14 +144,15 @@ const CHECKLIST_VEICULAR_DATA = [
     "Condutor": "Negrete ",
     "Data Hora": "07/01/2026 11:21",
     "VIDEOTELEMTRIA": "SIM",
-    "Itens Danificados": NaN,
+    "Itens Danificados": null,
     "Estado de Criticidade Veículo": "Moderado(Condutor notificado)",
     "Observacoes": "Luz de freio (queimada)",
     "ID COLABORADOR": "84165",
     "ID DO AVALIADOR(A)": "278000",
     "Abrir Os": "SIM",
     "Os": "710827",
-    "Abrir Os ": "SIM"
+    "Abrir Os ": "SIM",
+    "Unnamed: 21": null
   },
   {
     "ID": "3408028",
@@ -159,14 +169,15 @@ const CHECKLIST_VEICULAR_DATA = [
     "Condutor": "José Ricardo do Carmo",
     "Data Hora": "08/01/2026 09:15",
     "VIDEOTELEMTRIA": "SIM",
-    "Itens Danificados": NaN,
+    "Itens Danificados": null,
     "Estado de Criticidade Veículo": "Moderado(Condutor notificado)",
     "Observacoes": "Cilindro Porta esquerda (quebrado)",
     "ID COLABORADOR": "84162",
     "ID DO AVALIADOR(A)": "272640",
     "Abrir Os": "SIM",
-    "Os": NaN,
-    "Abrir Os ": "SIM"
+    "Os": null,
+    "Abrir Os ": "SIM",
+    "Unnamed: 21": null
   },
   {
     "ID": "3408029",
@@ -190,7 +201,8 @@ const CHECKLIST_VEICULAR_DATA = [
     "ID DO AVALIADOR(A)": "272640",
     "Abrir Os": "SIM",
     "Os": "710870",
-    "Abrir Os ": "SIM"
+    "Abrir Os ": "SIM",
+    "Unnamed: 21": null
   },
   {
     "ID": "3408030",
@@ -207,14 +219,15 @@ const CHECKLIST_VEICULAR_DATA = [
     "Condutor": "Lusimar Inácio de Sousa",
     "Data Hora": "08/01/2026 14:33",
     "VIDEOTELEMTRIA": "SIM",
-    "Itens Danificados": NaN,
+    "Itens Danificados": null,
     "Estado de Criticidade Veículo": "Leve(Liberado)",
     "Observacoes": "Sem avaria.",
     "ID COLABORADOR": "212210",
     "ID DO AVALIADOR(A)": "272640",
     "Abrir Os": "NÃO",
-    "Os": NaN,
-    "Abrir Os ": "NÃO"
+    "Os": null,
+    "Abrir Os ": "NÃO",
+    "Unnamed: 21": null
   },
   {
     "ID": "3408031",
@@ -228,17 +241,18 @@ const CHECKLIST_VEICULAR_DATA = [
     "Score": "0.0",
     "Frota": "467525 - FIAT MOBI TREKKING 1.0 - ALUGADO(TEL2A23)",
     "GESTORES": "REGINALDO FERNANDO MANTOVANI",
-    "Condutor": NaN,
+    "Condutor": null,
     "Data Hora": "08/01/2026 15:33",
     "VIDEOTELEMTRIA": "SIM",
-    "Itens Danificados": NaN,
+    "Itens Danificados": null,
     "Estado de Criticidade Veículo": "Leve(Liberado)",
-    "Observacoes": NaN,
-    "ID COLABORADOR": NaN,
-    "ID DO AVALIADOR(A)": NaN,
+    "Observacoes": null,
+    "ID COLABORADOR": null,
+    "ID DO AVALIADOR(A)": null,
     "Abrir Os": "NÃO",
-    "Os": NaN,
-    "Abrir Os ": "NÃO"
+    "Os": null,
+    "Abrir Os ": "NÃO",
+    "Unnamed: 21": null
   },
   {
     "ID": "3408032",
@@ -262,7 +276,8 @@ const CHECKLIST_VEICULAR_DATA = [
     "ID DO AVALIADOR(A)": "272640",
     "Abrir Os": "SIM",
     "Os": "710924",
-    "Abrir Os ": "SIM"
+    "Abrir Os ": "SIM",
+    "Unnamed: 21": null
   },
   {
     "ID": "3410380",
@@ -279,14 +294,15 @@ const CHECKLIST_VEICULAR_DATA = [
     "Condutor": "Antonio Marcos Souza ",
     "Data Hora": "12/01/2026 11:22",
     "VIDEOTELEMTRIA": "SIM",
-    "Itens Danificados": NaN,
+    "Itens Danificados": null,
     "Estado de Criticidade Veículo": "Leve(Liberado)",
     "Observacoes": "Sem avaria. ",
     "ID COLABORADOR": "260840",
     "ID DO AVALIADOR(A)": "272640",
     "Abrir Os": "NÃO",
-    "Os": NaN,
-    "Abrir Os ": "NÃO"
+    "Os": null,
+    "Abrir Os ": "NÃO",
+    "Unnamed: 21": null
   },
   {
     "ID": "3410381",
@@ -309,8 +325,9 @@ const CHECKLIST_VEICULAR_DATA = [
     "ID COLABORADOR": "246300",
     "ID DO AVALIADOR(A)": "272640",
     "Abrir Os": "NÃO",
-    "Os": NaN,
-    "Abrir Os ": "NÃO"
+    "Os": null,
+    "Abrir Os ": "NÃO",
+    "Unnamed: 21": null
   },
   {
     "ID": "3410382",
@@ -327,14 +344,15 @@ const CHECKLIST_VEICULAR_DATA = [
     "Condutor": "Amanda Cristina Pioto Silva ",
     "Data Hora": "12/01/2026 12:58",
     "VIDEOTELEMTRIA": "SIM",
-    "Itens Danificados": NaN,
+    "Itens Danificados": null,
     "Estado de Criticidade Veículo": "Leve(Liberado)",
     "Observacoes": "Sem avaria.",
     "ID COLABORADOR": "239830",
     "ID DO AVALIADOR(A)": "278000",
     "Abrir Os": "NÃO",
-    "Os": NaN,
-    "Abrir Os ": "NÃO"
+    "Os": null,
+    "Abrir Os ": "NÃO",
+    "Unnamed: 21": null
   },
   {
     "ID": "3410383",
@@ -358,7 +376,8 @@ const CHECKLIST_VEICULAR_DATA = [
     "ID DO AVALIADOR(A)": "272640",
     "Abrir Os": "SIM",
     "Os": "711079",
-    "Abrir Os ": "SIM"
+    "Abrir Os ": "SIM",
+    "Unnamed: 21": null
   },
   {
     "ID": "3410384",
@@ -381,8 +400,9 @@ const CHECKLIST_VEICULAR_DATA = [
     "ID COLABORADOR": "266560",
     "ID DO AVALIADOR(A)": "272640",
     "Abrir Os": "SIM",
-    "Os": NaN,
-    "Abrir Os ": "SIM"
+    "Os": null,
+    "Abrir Os ": "SIM",
+    "Unnamed: 21": null
   },
   {
     "ID": "3410385",
@@ -399,14 +419,15 @@ const CHECKLIST_VEICULAR_DATA = [
     "Condutor": "Digitei José de Souza Guirardelli",
     "Data Hora": "13/01/2026 15:21",
     "VIDEOTELEMTRIA": "SIM",
-    "Itens Danificados": NaN,
+    "Itens Danificados": null,
     "Estado de Criticidade Veículo": "Leve(Liberado)",
     "Observacoes": "Sem avaria.",
     "ID COLABORADOR": "272360",
     "ID DO AVALIADOR(A)": "272640",
     "Abrir Os": "NÃO",
-    "Os": NaN,
-    "Abrir Os ": "NÃO"
+    "Os": null,
+    "Abrir Os ": "NÃO",
+    "Unnamed: 21": null
   },
   {
     "ID": "3411964",
@@ -423,14 +444,15 @@ const CHECKLIST_VEICULAR_DATA = [
     "Condutor": "William Roberto Dalla Costa",
     "Data Hora": "14/01/2026 07:16",
     "VIDEOTELEMTRIA": "SIM",
-    "Itens Danificados": NaN,
+    "Itens Danificados": null,
     "Estado de Criticidade Veículo": "Leve(Liberado)",
     "Observacoes": "Sem avaria.",
     "ID COLABORADOR": "254120",
     "ID DO AVALIADOR(A)": "272640",
     "Abrir Os": "NÃO",
-    "Os": NaN,
-    "Abrir Os ": "NÃO"
+    "Os": null,
+    "Abrir Os ": "NÃO",
+    "Unnamed: 21": null
   },
   {
     "ID": "3411965",
@@ -447,14 +469,15 @@ const CHECKLIST_VEICULAR_DATA = [
     "Condutor": "Antonio Marcos Ribeiro Ruas ",
     "Data Hora": "14/01/2026 07:47",
     "VIDEOTELEMTRIA": "SIM",
-    "Itens Danificados": NaN,
+    "Itens Danificados": null,
     "Estado de Criticidade Veículo": "Leve(Liberado)",
     "Observacoes": "Sem avaria. ",
     "ID COLABORADOR": "183702",
     "ID DO AVALIADOR(A)": "278000",
     "Abrir Os": "NÃO",
-    "Os": NaN,
-    "Abrir Os ": "NÃO"
+    "Os": null,
+    "Abrir Os ": "NÃO",
+    "Unnamed: 21": null
   },
   {
     "ID": "3411966",
@@ -471,14 +494,15 @@ const CHECKLIST_VEICULAR_DATA = [
     "Condutor": "Anderson Ricardo Ruaro ",
     "Data Hora": "14/01/2026 08:05",
     "VIDEOTELEMTRIA": "SIM",
-    "Itens Danificados": NaN,
+    "Itens Danificados": null,
     "Estado de Criticidade Veículo": "Leve(Liberado)",
     "Observacoes": "Sem avaria.",
     "ID COLABORADOR": "168907",
     "ID DO AVALIADOR(A)": "272640",
     "Abrir Os": "NÃO",
-    "Os": NaN,
-    "Abrir Os ": "NÃO"
+    "Os": null,
+    "Abrir Os ": "NÃO",
+    "Unnamed: 21": null
   },
   {
     "ID": "3411967",
@@ -492,17 +516,18 @@ const CHECKLIST_VEICULAR_DATA = [
     "Score": "0.0",
     "Frota": "463025 - FIAT MOBI TREKKING 1.0 - ALUGADO(TEL2A04)",
     "GESTORES": "REGINALDO FERNANDO MANTOVANI",
-    "Condutor": NaN,
+    "Condutor": null,
     "Data Hora": "14/01/2026 08:52",
     "VIDEOTELEMTRIA": "SIM",
-    "Itens Danificados": NaN,
+    "Itens Danificados": null,
     "Estado de Criticidade Veículo": "Leve(Liberado)",
     "Observacoes": "Sem avaria ",
-    "ID COLABORADOR": NaN,
+    "ID COLABORADOR": null,
     "ID DO AVALIADOR(A)": "278000",
     "Abrir Os": "NÃO",
-    "Os": NaN,
-    "Abrir Os ": "NÃO"
+    "Os": null,
+    "Abrir Os ": "NÃO",
+    "Unnamed: 21": null
   },
   {
     "ID": "3411968",
@@ -519,14 +544,15 @@ const CHECKLIST_VEICULAR_DATA = [
     "Condutor": "Edmar José Gonçalves ",
     "Data Hora": "14/01/2026 10:38",
     "VIDEOTELEMTRIA": "SIM",
-    "Itens Danificados": NaN,
+    "Itens Danificados": null,
     "Estado de Criticidade Veículo": "Moderado(Condutor notificado)",
     "Observacoes": "Porta malas (não abre na chave)Vazamento de óleo Buzina (não funciona)",
     "ID COLABORADOR": "JBA",
     "ID DO AVALIADOR(A)": "272640",
     "Abrir Os": "SIM",
     "Os": "711117",
-    "Abrir Os ": "SIM"
+    "Abrir Os ": "SIM",
+    "Unnamed: 21": null
   },
   {
     "ID": "3411969",
@@ -550,7 +576,8 @@ const CHECKLIST_VEICULAR_DATA = [
     "ID DO AVALIADOR(A)": "272640",
     "Abrir Os": "SIM",
     "Os": "710775",
-    "Abrir Os ": "SIM"
+    "Abrir Os ": "SIM",
+    "Unnamed: 21": null
   },
   {
     "ID": "3411970",
@@ -573,8 +600,9 @@ const CHECKLIST_VEICULAR_DATA = [
     "ID COLABORADOR": "275060",
     "ID DO AVALIADOR(A)": "278000",
     "Abrir Os": "SIM",
-    "Os": NaN,
-    "Abrir Os ": "SIM"
+    "Os": null,
+    "Abrir Os ": "SIM",
+    "Unnamed: 21": null
   },
   {
     "ID": "3411971",
@@ -591,14 +619,15 @@ const CHECKLIST_VEICULAR_DATA = [
     "Condutor": "Pedro Augusto Silva ",
     "Data Hora": "14/01/2026 15:00",
     "VIDEOTELEMTRIA": "SIM",
-    "Itens Danificados": NaN,
+    "Itens Danificados": null,
     "Estado de Criticidade Veículo": "Leve(Liberado)",
     "Observacoes": "Sem avaria.",
     "ID COLABORADOR": "270270",
     "ID DO AVALIADOR(A)": "272640",
     "Abrir Os": "NÃO",
-    "Os": NaN,
-    "Abrir Os ": "NÃO"
+    "Os": null,
+    "Abrir Os ": "NÃO",
+    "Unnamed: 21": null
   },
   {
     "ID": "3415410",
@@ -615,14 +644,15 @@ const CHECKLIST_VEICULAR_DATA = [
     "Condutor": "Anderson Ricardo Ruaro ",
     "Data Hora": "15/01/2026 08:04",
     "VIDEOTELEMTRIA": "SIM",
-    "Itens Danificados": NaN,
+    "Itens Danificados": null,
     "Estado de Criticidade Veículo": "Leve(Liberado)",
     "Observacoes": "Sem avaria.",
     "ID COLABORADOR": "168907",
     "ID DO AVALIADOR(A)": "278000",
     "Abrir Os": "NÃO",
-    "Os": NaN,
-    "Abrir Os ": "NÃO"
+    "Os": null,
+    "Abrir Os ": "NÃO",
+    "Unnamed: 21": null
   },
   {
     "ID": "3415411",
@@ -639,14 +669,15 @@ const CHECKLIST_VEICULAR_DATA = [
     "Condutor": "Admir Xavier Cotrim ",
     "Data Hora": "15/01/2026 13:38",
     "VIDEOTELEMTRIA": "SIM",
-    "Itens Danificados": NaN,
+    "Itens Danificados": null,
     "Estado de Criticidade Veículo": "Leve(Liberado)",
     "Observacoes": "Sem avaria.",
     "ID COLABORADOR": "112150",
     "ID DO AVALIADOR(A)": "272640",
     "Abrir Os": "NÃO",
-    "Os": NaN,
-    "Abrir Os ": "NÃO"
+    "Os": null,
+    "Abrir Os ": "NÃO",
+    "Unnamed: 21": null
   },
   {
     "ID": "3415412",
@@ -663,14 +694,15 @@ const CHECKLIST_VEICULAR_DATA = [
     "Condutor": "Diego Francisco Rosa da Silva",
     "Data Hora": "16/01/2026 08:14",
     "VIDEOTELEMTRIA": "SIM",
-    "Itens Danificados": NaN,
+    "Itens Danificados": null,
     "Estado de Criticidade Veículo": "Leve(Liberado)",
     "Observacoes": "Sem avaria.",
     "ID COLABORADOR": "266930",
     "ID DO AVALIADOR(A)": "272640",
     "Abrir Os": "NÃO",
-    "Os": NaN,
-    "Abrir Os ": "NÃO"
+    "Os": null,
+    "Abrir Os ": "NÃO",
+    "Unnamed: 21": null
   },
   {
     "ID": "3415413",
@@ -694,7 +726,8 @@ const CHECKLIST_VEICULAR_DATA = [
     "ID DO AVALIADOR(A)": "272640",
     "Abrir Os": "SIM",
     "Os": "711709",
-    "Abrir Os ": "SIM"
+    "Abrir Os ": "SIM",
+    "Unnamed: 21": null
   },
   {
     "ID": "3415414",
@@ -711,14 +744,15 @@ const CHECKLIST_VEICULAR_DATA = [
     "Condutor": "José Ricardo do Carmo ",
     "Data Hora": "16/01/2026 16:10",
     "VIDEOTELEMTRIA": "SIM",
-    "Itens Danificados": NaN,
+    "Itens Danificados": null,
     "Estado de Criticidade Veículo": "Moderado(Condutor notificado)",
     "Observacoes": "Limpador de parabrisa traseiro (travado)Miolo da fechadura (quebrado)",
     "ID COLABORADOR": "84165",
     "ID DO AVALIADOR(A)": "272640",
     "Abrir Os": "SIM",
-    "Os": NaN,
-    "Abrir Os ": "SIM"
+    "Os": null,
+    "Abrir Os ": "SIM",
+    "Unnamed: 21": null
   },
   {
     "ID": "3417806",
@@ -735,14 +769,15 @@ const CHECKLIST_VEICULAR_DATA = [
     "Condutor": "Ruan de Freitas Dias",
     "Data Hora": "19/01/2026 09:25",
     "VIDEOTELEMTRIA": "SIM",
-    "Itens Danificados": NaN,
+    "Itens Danificados": null,
     "Estado de Criticidade Veículo": "Moderado(Condutor notificado)",
     "Observacoes": "Escapamento (com barulho)Sensor lado direito dianteiro (solto)Rodapé lado direito (solto)Paralama lado direito dianteiro (quebrado)Rodapé lado esquerdo (solto)Luz da ignição (ascesa)Para-choque dianteiro (quebrado)",
     "ID COLABORADOR": "273990",
     "ID DO AVALIADOR(A)": "272640",
     "Abrir Os": "SIM",
     "Os": "711327",
-    "Abrir Os ": "SIM"
+    "Abrir Os ": "SIM",
+    "Unnamed: 21": null
   },
   {
     "ID": "3417807",
@@ -759,14 +794,15 @@ const CHECKLIST_VEICULAR_DATA = [
     "Condutor": "Ruan de Freitas Dias ",
     "Data Hora": "19/01/2026 10:19",
     "VIDEOTELEMTRIA": "SIM",
-    "Itens Danificados": NaN,
+    "Itens Danificados": null,
     "Estado de Criticidade Veículo": "Moderado(Condutor notificado)",
     "Observacoes": "Proteção rodapé da porta lado direito (quebrado)",
     "ID COLABORADOR": "273990",
     "ID DO AVALIADOR(A)": "272640",
     "Abrir Os": "SIM",
     "Os": "711369",
-    "Abrir Os ": "SIM"
+    "Abrir Os ": "SIM",
+    "Unnamed: 21": null
   },
   {
     "ID": "3417808",
@@ -783,14 +819,15 @@ const CHECKLIST_VEICULAR_DATA = [
     "Condutor": "Alessandro da Silva ",
     "Data Hora": "19/01/2026 10:40",
     "VIDEOTELEMTRIA": "SIM",
-    "Itens Danificados": NaN,
+    "Itens Danificados": null,
     "Estado de Criticidade Veículo": "Leve(Liberado)",
     "Observacoes": "Sem avaria.",
     "ID COLABORADOR": "262010",
     "ID DO AVALIADOR(A)": "272640",
     "Abrir Os": "NÃO",
-    "Os": NaN,
-    "Abrir Os ": "NÃO"
+    "Os": null,
+    "Abrir Os ": "NÃO",
+    "Unnamed: 21": null
   },
   {
     "ID": "3417809",
@@ -807,14 +844,15 @@ const CHECKLIST_VEICULAR_DATA = [
     "Condutor": "Daniel Ferreira da Cruz Filho",
     "Data Hora": "19/01/2026 11:00",
     "VIDEOTELEMTRIA": "SIM",
-    "Itens Danificados": NaN,
+    "Itens Danificados": null,
     "Estado de Criticidade Veículo": "Leve(Liberado)",
     "Observacoes": "Sem avaria.",
     "ID COLABORADOR": "96556",
     "ID DO AVALIADOR(A)": "272640",
     "Abrir Os": "NÃO",
-    "Os": NaN,
-    "Abrir Os ": "NÃO"
+    "Os": null,
+    "Abrir Os ": "NÃO",
+    "Unnamed: 21": null
   },
   {
     "ID": "3417810",
@@ -838,7 +876,8 @@ const CHECKLIST_VEICULAR_DATA = [
     "ID DO AVALIADOR(A)": "272640",
     "Abrir Os": "SIM",
     "Os": "711367",
-    "Abrir Os ": "SIM"
+    "Abrir Os ": "SIM",
+    "Unnamed: 21": null
   },
   {
     "ID": "3417811",
@@ -855,14 +894,15 @@ const CHECKLIST_VEICULAR_DATA = [
     "Condutor": "Henrique de Rocha de Souza ",
     "Data Hora": "19/01/2026 13:29",
     "VIDEOTELEMTRIA": "SIM",
-    "Itens Danificados": NaN,
+    "Itens Danificados": null,
     "Estado de Criticidade Veículo": "Leve(Liberado)",
     "Observacoes": "Sem avaria.",
     "ID COLABORADOR": "261730",
     "ID DO AVALIADOR(A)": "272640",
     "Abrir Os": "NÃO",
-    "Os": NaN,
-    "Abrir Os ": "NÃO"
+    "Os": null,
+    "Abrir Os ": "NÃO",
+    "Unnamed: 21": null
   },
   {
     "ID": "3417812",
@@ -879,14 +919,15 @@ const CHECKLIST_VEICULAR_DATA = [
     "Condutor": "Wellington Martins Bento ",
     "Data Hora": "19/01/2026 14:29",
     "VIDEOTELEMTRIA": "SIM",
-    "Itens Danificados": NaN,
+    "Itens Danificados": null,
     "Estado de Criticidade Veículo": "Leve(Liberado)",
     "Observacoes": "Sem avaria.",
     "ID COLABORADOR": "232100",
     "ID DO AVALIADOR(A)": "272640",
     "Abrir Os": "NÃO",
-    "Os": NaN,
-    "Abrir Os ": "NÃO"
+    "Os": null,
+    "Abrir Os ": "NÃO",
+    "Unnamed: 21": null
   },
   {
     "ID": "3417813",
@@ -903,14 +944,15 @@ const CHECKLIST_VEICULAR_DATA = [
     "Condutor": "Giliard Tavares ",
     "Data Hora": "19/01/2026 14:51",
     "VIDEOTELEMTRIA": "SIM",
-    "Itens Danificados": NaN,
+    "Itens Danificados": null,
     "Estado de Criticidade Veículo": "Leve(Liberado)",
     "Observacoes": "Sem avaria.",
     "ID COLABORADOR": "260700",
     "ID DO AVALIADOR(A)": "272640",
     "Abrir Os": "NÃO",
-    "Os": NaN,
-    "Abrir Os ": "NÃO"
+    "Os": null,
+    "Abrir Os ": "NÃO",
+    "Unnamed: 21": null
   },
   {
     "ID": "3417814",
@@ -933,8 +975,9 @@ const CHECKLIST_VEICULAR_DATA = [
     "ID COLABORADOR": "240190",
     "ID DO AVALIADOR(A)": "272640",
     "Abrir Os": "NÃO",
-    "Os": NaN,
-    "Abrir Os ": "NÃO"
+    "Os": null,
+    "Abrir Os ": "NÃO",
+    "Unnamed: 21": null
   },
   {
     "ID": "3417815",
@@ -951,14 +994,15 @@ const CHECKLIST_VEICULAR_DATA = [
     "Condutor": "Juliano Rosa Quirino",
     "Data Hora": "19/01/2026 15:23",
     "VIDEOTELEMTRIA": "SIM",
-    "Itens Danificados": NaN,
+    "Itens Danificados": null,
     "Estado de Criticidade Veículo": "Leve(Liberado)",
     "Observacoes": "Sem avaria.",
     "ID COLABORADOR": "272770",
     "ID DO AVALIADOR(A)": "272640",
     "Abrir Os": "NÃO",
-    "Os": NaN,
-    "Abrir Os ": "NÃO"
+    "Os": null,
+    "Abrir Os ": "NÃO",
+    "Unnamed: 21": null
   },
   {
     "ID": "3417816",
@@ -975,14 +1019,15 @@ const CHECKLIST_VEICULAR_DATA = [
     "Condutor": "José Ricardo do Carmo ",
     "Data Hora": "19/01/2026 15:40",
     "VIDEOTELEMTRIA": "SIM",
-    "Itens Danificados": NaN,
+    "Itens Danificados": null,
     "Estado de Criticidade Veículo": "Moderado(Condutor notificado)",
     "Observacoes": "Tampa do tanque (trava quebrada) Funilaria porta motorista (amassado)Funilaria porta traseira (amassado)Moldura  tampa traseira (quebrada)",
     "ID COLABORADOR": "84165",
     "ID DO AVALIADOR(A)": "272640",
     "Abrir Os": "SIM",
     "Os": "711363",
-    "Abrir Os ": "SIM"
+    "Abrir Os ": "SIM",
+    "Unnamed: 21": null
   },
   {
     "ID": "3423101",
@@ -999,14 +1044,15 @@ const CHECKLIST_VEICULAR_DATA = [
     "Condutor": "Luiz Alfredo de Souza ",
     "Data Hora": "21/01/2026 07:12",
     "VIDEOTELEMTRIA": "SIM",
-    "Itens Danificados": NaN,
+    "Itens Danificados": null,
     "Estado de Criticidade Veículo": "Moderado(Condutor notificado)",
     "Observacoes": "Trava da tampa do tanque de combustível (quebrada)",
     "ID COLABORADOR": "5423",
     "ID DO AVALIADOR(A)": "272640",
     "Abrir Os": "SIM",
-    "Os": NaN,
-    "Abrir Os ": "SIM"
+    "Os": null,
+    "Abrir Os ": "SIM",
+    "Unnamed: 21": null
   },
   {
     "ID": "3423102",
@@ -1023,14 +1069,15 @@ const CHECKLIST_VEICULAR_DATA = [
     "Condutor": "Willian dos Santos",
     "Data Hora": "21/01/2026 07:13",
     "VIDEOTELEMTRIA": "SIM",
-    "Itens Danificados": NaN,
+    "Itens Danificados": null,
     "Estado de Criticidade Veículo": "Leve(Liberado)",
     "Observacoes": "Sem avaria.",
     "ID COLABORADOR": "251410",
     "ID DO AVALIADOR(A)": "272640",
     "Abrir Os": "NÃO",
-    "Os": NaN,
-    "Abrir Os ": "NÃO"
+    "Os": null,
+    "Abrir Os ": "NÃO",
+    "Unnamed: 21": null
   },
   {
     "ID": "3423103",
@@ -1047,14 +1094,15 @@ const CHECKLIST_VEICULAR_DATA = [
     "Condutor": "Reginaldo da Silva Gomes ",
     "Data Hora": "21/01/2026 08:55",
     "VIDEOTELEMTRIA": "SIM",
-    "Itens Danificados": NaN,
+    "Itens Danificados": null,
     "Estado de Criticidade Veículo": "Moderado(Condutor notificado)",
     "Observacoes": "Alavanca do encosto banco passageiro (quebrada)",
     "ID COLABORADOR": "249300",
     "ID DO AVALIADOR(A)": "272640",
     "Abrir Os": "SIM",
     "Os": "711363",
-    "Abrir Os ": "SIM"
+    "Abrir Os ": "SIM",
+    "Unnamed: 21": null
   },
   {
     "ID": "3423104",
@@ -1071,14 +1119,15 @@ const CHECKLIST_VEICULAR_DATA = [
     "Condutor": "Rafael César Ferreira ",
     "Data Hora": "21/01/2026 13:43",
     "VIDEOTELEMTRIA": "SIM",
-    "Itens Danificados": NaN,
+    "Itens Danificados": null,
     "Estado de Criticidade Veículo": "Leve(Liberado)",
     "Observacoes": "Sem avaria. ",
     "ID COLABORADOR": "251130",
     "ID DO AVALIADOR(A)": "2780000",
     "Abrir Os": "NÃO",
-    "Os": NaN,
-    "Abrir Os ": "NÃO"
+    "Os": null,
+    "Abrir Os ": "NÃO",
+    "Unnamed: 21": null
   },
   {
     "ID": "3423105",
@@ -1095,14 +1144,15 @@ const CHECKLIST_VEICULAR_DATA = [
     "Condutor": "Fabio Junio Ferreira Barboza ",
     "Data Hora": "21/01/2026 16:27",
     "VIDEOTELEMTRIA": "SIM",
-    "Itens Danificados": NaN,
+    "Itens Danificados": null,
     "Estado de Criticidade Veículo": "Moderado(Condutor notificado)",
     "Observacoes": "Lente do retrovisor direito (quebrada)",
-    "ID COLABORADOR": NaN,
+    "ID COLABORADOR": null,
     "ID DO AVALIADOR(A)": "272640",
     "Abrir Os": "SIM",
     "Os": "189200",
-    "Abrir Os ": "SIM"
+    "Abrir Os ": "SIM",
+    "Unnamed: 21": null
   },
   {
     "ID": "3423106",
@@ -1119,14 +1169,15 @@ const CHECKLIST_VEICULAR_DATA = [
     "Condutor": "Antonio Marcos Ribeiro Ruas ",
     "Data Hora": "22/01/2026 08:39",
     "VIDEOTELEMTRIA": "SIM",
-    "Itens Danificados": NaN,
+    "Itens Danificados": null,
     "Estado de Criticidade Veículo": "Leve(Liberado)",
     "Observacoes": "Sem avaria.",
     "ID COLABORADOR": "183702",
     "ID DO AVALIADOR(A)": "278000",
     "Abrir Os": "NÃO",
-    "Os": NaN,
-    "Abrir Os ": "NÃO"
+    "Os": null,
+    "Abrir Os ": "NÃO",
+    "Unnamed: 21": null
   },
   {
     "ID": "3423107",
@@ -1143,14 +1194,15 @@ const CHECKLIST_VEICULAR_DATA = [
     "Condutor": "Décio Araújo Fernandes ",
     "Data Hora": "22/01/2026 09:45",
     "VIDEOTELEMTRIA": "SIM",
-    "Itens Danificados": NaN,
+    "Itens Danificados": null,
     "Estado de Criticidade Veículo": "Leve(Liberado)",
     "Observacoes": "Sem avaria.",
     "ID COLABORADOR": "25382",
     "ID DO AVALIADOR(A)": "278000",
     "Abrir Os": "NÃO",
-    "Os": NaN,
-    "Abrir Os ": "NÃO"
+    "Os": null,
+    "Abrir Os ": "NÃO",
+    "Unnamed: 21": null
   },
   {
     "ID": "3423109",
@@ -1167,14 +1219,15 @@ const CHECKLIST_VEICULAR_DATA = [
     "Condutor": "Arthur Luiz Marioto da Silva ",
     "Data Hora": "22/01/2026 10:01",
     "VIDEOTELEMTRIA": "SIM",
-    "Itens Danificados": NaN,
+    "Itens Danificados": null,
     "Estado de Criticidade Veículo": "Leve(Liberado)",
     "Observacoes": "Sem avaria ",
     "ID COLABORADOR": "272760",
     "ID DO AVALIADOR(A)": "278000",
     "Abrir Os": "NÃO",
-    "Os": NaN,
-    "Abrir Os ": "NÃO"
+    "Os": null,
+    "Abrir Os ": "NÃO",
+    "Unnamed: 21": null
   },
   {
     "ID": "3424830",
@@ -1191,14 +1244,15 @@ const CHECKLIST_VEICULAR_DATA = [
     "Condutor": "Décio Araújo Fernandes ",
     "Data Hora": "23/01/2026 06:57",
     "VIDEOTELEMTRIA": "SIM",
-    "Itens Danificados": NaN,
+    "Itens Danificados": null,
     "Estado de Criticidade Veículo": "Leve(Liberado)",
     "Observacoes": "Sem avaria.",
     "ID COLABORADOR": "205382",
     "ID DO AVALIADOR(A)": "272640",
     "Abrir Os": "NÃO",
-    "Os": NaN,
-    "Abrir Os ": "NÃO"
+    "Os": null,
+    "Abrir Os ": "NÃO",
+    "Unnamed: 21": null
   },
   {
     "ID": "3424831",
@@ -1215,14 +1269,15 @@ const CHECKLIST_VEICULAR_DATA = [
     "Condutor": "Gilmar Rebouças ",
     "Data Hora": "23/01/2026 07:02",
     "VIDEOTELEMTRIA": "SIM",
-    "Itens Danificados": NaN,
+    "Itens Danificados": null,
     "Estado de Criticidade Veículo": "Leve(Liberado)",
     "Observacoes": "Sem avaria.",
-    "ID COLABORADOR": NaN,
+    "ID COLABORADOR": null,
     "ID DO AVALIADOR(A)": "272640",
     "Abrir Os": "NÃO",
-    "Os": NaN,
-    "Abrir Os ": "NÃO"
+    "Os": null,
+    "Abrir Os ": "NÃO",
+    "Unnamed: 21": null
   },
   {
     "ID": "3424832",
@@ -1246,7 +1301,8 @@ const CHECKLIST_VEICULAR_DATA = [
     "ID DO AVALIADOR(A)": "272640",
     "Abrir Os": "SIM",
     "Os": "711591",
-    "Abrir Os ": "SIM"
+    "Abrir Os ": "SIM",
+    "Unnamed: 21": null
   },
   {
     "ID": "3424833",
@@ -1263,14 +1319,15 @@ const CHECKLIST_VEICULAR_DATA = [
     "Condutor": "Neomar Santana Rocha ",
     "Data Hora": "23/01/2026 08:25",
     "VIDEOTELEMTRIA": "SIM",
-    "Itens Danificados": NaN,
+    "Itens Danificados": null,
     "Estado de Criticidade Veículo": "Leve(Liberado)",
     "Observacoes": "Sem avaria.",
     "ID COLABORADOR": "215879",
     "ID DO AVALIADOR(A)": "278000",
     "Abrir Os": "NÃO",
-    "Os": NaN,
-    "Abrir Os ": "NÃO"
+    "Os": null,
+    "Abrir Os ": "NÃO",
+    "Unnamed: 21": null
   },
   {
     "ID": "3424834",
@@ -1293,8 +1350,9 @@ const CHECKLIST_VEICULAR_DATA = [
     "ID COLABORADOR": "278000",
     "ID DO AVALIADOR(A)": "268860",
     "Abrir Os": "SIM",
-    "Os": NaN,
-    "Abrir Os ": "SIM"
+    "Os": null,
+    "Abrir Os ": "SIM",
+    "Unnamed: 21": null
   },
   {
     "ID": "3424835",
@@ -1311,14 +1369,15 @@ const CHECKLIST_VEICULAR_DATA = [
     "Condutor": "Heverton Henrique Custodio ",
     "Data Hora": "23/01/2026 08:44",
     "VIDEOTELEMTRIA": "SIM",
-    "Itens Danificados": NaN,
+    "Itens Danificados": null,
     "Estado de Criticidade Veículo": "Leve(Liberado)",
     "Observacoes": "Parachoque dianteiro novo  (sinistro concluído)",
     "ID COLABORADOR": "266560",
     "ID DO AVALIADOR(A)": "272640",
     "Abrir Os": "NÃO",
-    "Os": NaN,
-    "Abrir Os ": "NÃO"
+    "Os": null,
+    "Abrir Os ": "NÃO",
+    "Unnamed: 21": null
   },
   {
     "ID": "3424836",
@@ -1335,14 +1394,15 @@ const CHECKLIST_VEICULAR_DATA = [
     "Condutor": "João jesus Ferreira ",
     "Data Hora": "23/01/2026 10:30",
     "VIDEOTELEMTRIA": "NÃO",
-    "Itens Danificados": NaN,
+    "Itens Danificados": null,
     "Estado de Criticidade Veículo": "Leve(Liberado)",
     "Observacoes": "Sem avaria ",
     "ID COLABORADOR": "17910",
     "ID DO AVALIADOR(A)": "278000",
     "Abrir Os": "NÃO",
-    "Os": NaN,
-    "Abrir Os ": "NÃO"
+    "Os": null,
+    "Abrir Os ": "NÃO",
+    "Unnamed: 21": null
   },
   {
     "ID": "3424837",
@@ -1359,14 +1419,15 @@ const CHECKLIST_VEICULAR_DATA = [
     "Condutor": "Jussara Soares de Souza ",
     "Data Hora": "23/01/2026 12:19",
     "VIDEOTELEMTRIA": "SIM",
-    "Itens Danificados": NaN,
+    "Itens Danificados": null,
     "Estado de Criticidade Veículo": "Moderado(Condutor notificado)",
     "Observacoes": "Ar condicionado com barulho Luz baixa queimada ",
-    "ID COLABORADOR": NaN,
+    "ID COLABORADOR": null,
     "ID DO AVALIADOR(A)": "278000",
     "Abrir Os": "SIM",
     "Os": "711628",
-    "Abrir Os ": "SIM"
+    "Abrir Os ": "SIM",
+    "Unnamed: 21": null
   },
   {
     "ID": "3425216",
@@ -1383,14 +1444,15 @@ const CHECKLIST_VEICULAR_DATA = [
     "Condutor": "Robert Willian Pereira Costa ",
     "Data Hora": "23/01/2026 13:47",
     "VIDEOTELEMTRIA": "SIM",
-    "Itens Danificados": NaN,
+    "Itens Danificados": null,
     "Estado de Criticidade Veículo": "Leve(Liberado)",
     "Observacoes": "Sem avaria.",
     "ID COLABORADOR": "265760",
     "ID DO AVALIADOR(A)": "278000",
     "Abrir Os": "NÃO",
-    "Os": NaN,
-    "Abrir Os ": "NÃO"
+    "Os": null,
+    "Abrir Os ": "NÃO",
+    "Unnamed: 21": null
   },
   {
     "ID": "3425217",
@@ -1407,14 +1469,15 @@ const CHECKLIST_VEICULAR_DATA = [
     "Condutor": "Alessandro da Silva ",
     "Data Hora": "23/01/2026 14:05",
     "VIDEOTELEMTRIA": "SIM",
-    "Itens Danificados": NaN,
+    "Itens Danificados": null,
     "Estado de Criticidade Veículo": "Moderado(Condutor notificado)",
     "Observacoes": "Para-choque traseiro (quebrado)Saia lateral lado esquerdo (Trava quebrada)",
     "ID COLABORADOR": "262010",
     "ID DO AVALIADOR(A)": "272640",
     "Abrir Os": "SIM",
     "Os": "711633",
-    "Abrir Os ": "SIM"
+    "Abrir Os ": "SIM",
+    "Unnamed: 21": null
   },
   {
     "ID": "3431919",
@@ -1428,17 +1491,18 @@ const CHECKLIST_VEICULAR_DATA = [
     "Score": "0.0",
     "Frota": "460425 - FIAT STRADA ENDURENCE CP 1.4 - ALUGADA(REB4C13)",
     "GESTORES": "PAULO ANTONIO VIANA IESI",
-    "Condutor": NaN,
+    "Condutor": null,
     "Data Hora": "26/01/2026 08:18",
     "VIDEOTELEMTRIA": "SIM",
-    "Itens Danificados": NaN,
+    "Itens Danificados": null,
     "Estado de Criticidade Veículo": "Moderado(Condutor notificado)",
     "Observacoes": "Funaliria tampa traseiro e lateral lado direito",
-    "ID COLABORADOR": NaN,
+    "ID COLABORADOR": null,
     "ID DO AVALIADOR(A)": "272640",
     "Abrir Os": "NÃO",
-    "Os": NaN,
-    "Abrir Os ": "NÃO"
+    "Os": null,
+    "Abrir Os ": "NÃO",
+    "Unnamed: 21": null
   },
   {
     "ID": "3431920",
@@ -1455,14 +1519,15 @@ const CHECKLIST_VEICULAR_DATA = [
     "Condutor": "Eduardo Franco Nogueira ",
     "Data Hora": "26/01/2026 10:58",
     "VIDEOTELEMTRIA": "SIM",
-    "Itens Danificados": NaN,
+    "Itens Danificados": null,
     "Estado de Criticidade Veículo": "Leve(Liberado)",
     "Observacoes": "Sem avaria.",
     "ID COLABORADOR": "250700",
     "ID DO AVALIADOR(A)": "272640",
     "Abrir Os": "NÃO",
-    "Os": NaN,
-    "Abrir Os ": "NÃO"
+    "Os": null,
+    "Abrir Os ": "NÃO",
+    "Unnamed: 21": null
   },
   {
     "ID": "3431921",
@@ -1479,14 +1544,15 @@ const CHECKLIST_VEICULAR_DATA = [
     "Condutor": "Jair Cardoso",
     "Data Hora": "26/01/2026 11:34",
     "VIDEOTELEMTRIA": "SIM",
-    "Itens Danificados": NaN,
+    "Itens Danificados": null,
     "Estado de Criticidade Veículo": "Moderado(Condutor notificado)",
     "Observacoes": "Trava da tampa do tanque de combustível (quebrada)Funilaria lado direito abaixo da lâmpada traseira",
     "ID COLABORADOR": "183260",
     "ID DO AVALIADOR(A)": "272640",
     "Abrir Os": "SIM",
     "Os": "711735",
-    "Abrir Os ": "SIM"
+    "Abrir Os ": "SIM",
+    "Unnamed: 21": null
   },
   {
     "ID": "3431922",
@@ -1503,14 +1569,15 @@ const CHECKLIST_VEICULAR_DATA = [
     "Condutor": "Diego Francsico Rosa da Silva ",
     "Data Hora": "26/01/2026 14:00",
     "VIDEOTELEMTRIA": "SIM",
-    "Itens Danificados": NaN,
+    "Itens Danificados": null,
     "Estado de Criticidade Veículo": "Leve(Liberado)",
     "Observacoes": "Sem avaria.",
     "ID COLABORADOR": "266930",
     "ID DO AVALIADOR(A)": "272640",
     "Abrir Os": "NÃO",
-    "Os": NaN,
-    "Abrir Os ": "NÃO"
+    "Os": null,
+    "Abrir Os ": "NÃO",
+    "Unnamed: 21": null
   },
   {
     "ID": "3431923",
@@ -1527,14 +1594,15 @@ const CHECKLIST_VEICULAR_DATA = [
     "Condutor": "Jussara Soares de Souza ",
     "Data Hora": "26/01/2026 14:12",
     "VIDEOTELEMTRIA": "SIM",
-    "Itens Danificados": NaN,
+    "Itens Danificados": null,
     "Estado de Criticidade Veículo": "Leve(Liberado)",
     "Observacoes": "Sem avaria.",
     "ID COLABORADOR": "272640",
     "ID DO AVALIADOR(A)": "272640",
     "Abrir Os": "NÃO",
-    "Os": NaN,
-    "Abrir Os ": "NÃO"
+    "Os": null,
+    "Abrir Os ": "NÃO",
+    "Unnamed: 21": null
   },
   {
     "ID": "3431924",
@@ -1551,14 +1619,15 @@ const CHECKLIST_VEICULAR_DATA = [
     "Condutor": "Maicon Henrique Teodoro Caetano ",
     "Data Hora": "26/01/2026 16:23",
     "VIDEOTELEMTRIA": "SIM",
-    "Itens Danificados": NaN,
+    "Itens Danificados": null,
     "Estado de Criticidade Veículo": "Moderado(Condutor notificado)",
     "Observacoes": "Lanterna direita e esquerda Luz da placa esquerda Luz de freio esquerdaAr condicionado Porta lado esquerdo traseira ",
     "ID COLABORADOR": "125581",
     "ID DO AVALIADOR(A)": "272640",
     "Abrir Os": "SIM",
-    "Os": NaN,
-    "Abrir Os ": "SIM"
+    "Os": null,
+    "Abrir Os ": "SIM",
+    "Unnamed: 21": null
   },
   {
     "ID": "3431925",
@@ -1581,8 +1650,9 @@ const CHECKLIST_VEICULAR_DATA = [
     "ID COLABORADOR": "212295",
     "ID DO AVALIADOR(A)": "272640",
     "Abrir Os": "SIM",
-    "Os": NaN,
-    "Abrir Os ": "SIM"
+    "Os": null,
+    "Abrir Os ": "SIM",
+    "Unnamed: 21": null
   },
   {
     "ID": "3431926",
@@ -1606,7 +1676,8 @@ const CHECKLIST_VEICULAR_DATA = [
     "ID DO AVALIADOR(A)": "272640",
     "Abrir Os": "SIM",
     "Os": "711079",
-    "Abrir Os ": "SIM"
+    "Abrir Os ": "SIM",
+    "Unnamed: 21": null
   },
   {
     "ID": "3431927",
@@ -1623,14 +1694,15 @@ const CHECKLIST_VEICULAR_DATA = [
     "Condutor": "Jonatas da Silva de Lemos ",
     "Data Hora": "27/01/2026 07:58",
     "VIDEOTELEMTRIA": "SIM",
-    "Itens Danificados": NaN,
+    "Itens Danificados": null,
     "Estado de Criticidade Veículo": "Moderado(Condutor notificado)",
     "Observacoes": "Saia lateral lado direito (solta)",
     "ID COLABORADOR": "279140",
     "ID DO AVALIADOR(A)": "272640",
     "Abrir Os": "SIM",
     "Os": "711778",
-    "Abrir Os ": "SIM"
+    "Abrir Os ": "SIM",
+    "Unnamed: 21": null
   },
   {
     "ID": "3431928",
@@ -1647,14 +1719,15 @@ const CHECKLIST_VEICULAR_DATA = [
     "Condutor": "Marco Ferreira dos Santos ",
     "Data Hora": "27/01/2026 09:19",
     "VIDEOTELEMTRIA": "NÃO",
-    "Itens Danificados": NaN,
+    "Itens Danificados": null,
     "Estado de Criticidade Veículo": "Leve(Liberado)",
     "Observacoes": "Sem avaria.",
     "ID COLABORADOR": "115782",
     "ID DO AVALIADOR(A)": "272640",
     "Abrir Os": "NÃO",
-    "Os": NaN,
-    "Abrir Os ": "NÃO"
+    "Os": null,
+    "Abrir Os ": "NÃO",
+    "Unnamed: 21": null
   },
   {
     "ID": "3431929",
@@ -1671,14 +1744,15 @@ const CHECKLIST_VEICULAR_DATA = [
     "Condutor": "João Jesus Ferreira ",
     "Data Hora": "27/01/2026 09:58",
     "VIDEOTELEMTRIA": "NÃO",
-    "Itens Danificados": NaN,
+    "Itens Danificados": null,
     "Estado de Criticidade Veículo": "Leve(Liberado)",
     "Observacoes": "Sem avaria. ",
     "ID COLABORADOR": "179103",
     "ID DO AVALIADOR(A)": "272640",
     "Abrir Os": "NÃO",
-    "Os": NaN,
-    "Abrir Os ": "NÃO"
+    "Os": null,
+    "Abrir Os ": "NÃO",
+    "Unnamed: 21": null
   },
   {
     "ID": "3431930",
@@ -1695,14 +1769,15 @@ const CHECKLIST_VEICULAR_DATA = [
     "Condutor": "José Aparecido Caetano",
     "Data Hora": "27/01/2026 11:22",
     "VIDEOTELEMTRIA": "SIM",
-    "Itens Danificados": NaN,
+    "Itens Danificados": null,
     "Estado de Criticidade Veículo": "Leve(Liberado)",
     "Observacoes": "Checklist pós manutenção: Concluído",
     "ID COLABORADOR": "3220",
     "ID DO AVALIADOR(A)": "272640",
     "Abrir Os": "NÃO",
-    "Os": NaN,
-    "Abrir Os ": "NÃO"
+    "Os": null,
+    "Abrir Os ": "NÃO",
+    "Unnamed: 21": null
   },
   {
     "ID": "3431931",
@@ -1719,14 +1794,15 @@ const CHECKLIST_VEICULAR_DATA = [
     "Condutor": "Pedro Luís Pinheiro de Oliveira ",
     "Data Hora": "27/01/2026 13:15",
     "VIDEOTELEMTRIA": "SIM",
-    "Itens Danificados": NaN,
+    "Itens Danificados": null,
     "Estado de Criticidade Veículo": "Leve(Liberado)",
     "Observacoes": "Sem avaria.",
     "ID COLABORADOR": "278580",
     "ID DO AVALIADOR(A)": "272640",
     "Abrir Os": "NÃO",
-    "Os": NaN,
-    "Abrir Os ": "NÃO"
+    "Os": null,
+    "Abrir Os ": "NÃO",
+    "Unnamed: 21": null
   },
   {
     "ID": "3431932",
@@ -1743,14 +1819,15 @@ const CHECKLIST_VEICULAR_DATA = [
     "Condutor": "Juliano Rosa da Silva ",
     "Data Hora": "27/01/2026 14:44",
     "VIDEOTELEMTRIA": "SIM",
-    "Itens Danificados": NaN,
+    "Itens Danificados": null,
     "Estado de Criticidade Veículo": "Moderado(Condutor notificado)",
     "Observacoes": "Borracha de vedação porta passageiro lado direito (não encaixada)Checklist pós manutenção: Concluído",
     "ID COLABORADOR": "272770",
     "ID DO AVALIADOR(A)": "272640",
     "Abrir Os": "SIM",
-    "Os": NaN,
-    "Abrir Os ": "SIM"
+    "Os": null,
+    "Abrir Os ": "SIM",
+    "Unnamed: 21": null
   },
   {
     "ID": "3431934",
@@ -1767,14 +1844,15 @@ const CHECKLIST_VEICULAR_DATA = [
     "Condutor": "Wallason Soares Reges ",
     "Data Hora": "27/01/2026 14:52",
     "VIDEOTELEMTRIA": "SIM",
-    "Itens Danificados": NaN,
+    "Itens Danificados": null,
     "Estado de Criticidade Veículo": "Leve(Liberado)",
     "Observacoes": "Sem avaria. ",
     "ID COLABORADOR": "1",
     "ID DO AVALIADOR(A)": "272640",
     "Abrir Os": "NÃO",
-    "Os": NaN,
-    "Abrir Os ": "NÃO"
+    "Os": null,
+    "Abrir Os ": "NÃO",
+    "Unnamed: 21": null
   },
   {
     "ID": "3431935",
@@ -1791,14 +1869,15 @@ const CHECKLIST_VEICULAR_DATA = [
     "Condutor": "Ronildo Barbosa ",
     "Data Hora": "27/01/2026 15:23",
     "VIDEOTELEMTRIA": "SIM",
-    "Itens Danificados": NaN,
+    "Itens Danificados": null,
     "Estado de Criticidade Veículo": "Leve(Liberado)",
     "Observacoes": "Sem avaria.",
     "ID COLABORADOR": "81103",
     "ID DO AVALIADOR(A)": "272640",
     "Abrir Os": "NÃO",
-    "Os": NaN,
-    "Abrir Os ": "NÃO"
+    "Os": null,
+    "Abrir Os ": "NÃO",
+    "Unnamed: 21": null
   },
   {
     "ID": "3431936",
@@ -1815,14 +1894,15 @@ const CHECKLIST_VEICULAR_DATA = [
     "Condutor": "Flávio Roberto dos Santos Carvalho ",
     "Data Hora": "27/01/2026 16:09",
     "VIDEOTELEMTRIA": "SIM",
-    "Itens Danificados": NaN,
+    "Itens Danificados": null,
     "Estado de Criticidade Veículo": "Leve(Liberado)",
     "Observacoes": "Sem avaria.",
     "ID COLABORADOR": "54925",
     "ID DO AVALIADOR(A)": "272640",
     "Abrir Os": "NÃO",
-    "Os": NaN,
-    "Abrir Os ": "NÃO"
+    "Os": null,
+    "Abrir Os ": "NÃO",
+    "Unnamed: 21": null
   },
   {
     "ID": "3435900",
@@ -1839,14 +1919,15 @@ const CHECKLIST_VEICULAR_DATA = [
     "Condutor": "Fabio Junio Ferreira Barboza ",
     "Data Hora": "27/01/2026 16:30",
     "VIDEOTELEMTRIA": "SIM",
-    "Itens Danificados": NaN,
+    "Itens Danificados": null,
     "Estado de Criticidade Veículo": "Leve(Liberado)",
     "Observacoes": "Sem avaria.",
     "ID COLABORADOR": "189200",
     "ID DO AVALIADOR(A)": "272640",
     "Abrir Os": "NÃO",
-    "Os": NaN,
-    "Abrir Os ": "NÃO"
+    "Os": null,
+    "Abrir Os ": "NÃO",
+    "Unnamed: 21": null
   },
   {
     "ID": "3435901",
@@ -1863,14 +1944,15 @@ const CHECKLIST_VEICULAR_DATA = [
     "Condutor": "Rafael César Ferreira ",
     "Data Hora": "28/01/2026 07:05",
     "VIDEOTELEMTRIA": "SIM",
-    "Itens Danificados": NaN,
+    "Itens Danificados": null,
     "Estado de Criticidade Veículo": "Leve(Liberado)",
     "Observacoes": "Sem avaria.",
     "ID COLABORADOR": "251130",
     "ID DO AVALIADOR(A)": "272640",
     "Abrir Os": "NÃO",
-    "Os": NaN,
-    "Abrir Os ": "NÃO"
+    "Os": null,
+    "Abrir Os ": "NÃO",
+    "Unnamed: 21": null
   },
   {
     "ID": "3435902",
@@ -1893,8 +1975,9 @@ const CHECKLIST_VEICULAR_DATA = [
     "ID COLABORADOR": "254120",
     "ID DO AVALIADOR(A)": "272640",
     "Abrir Os": "NÃO",
-    "Os": NaN,
-    "Abrir Os ": "NÃO"
+    "Os": null,
+    "Abrir Os ": "NÃO",
+    "Unnamed: 21": null
   },
   {
     "ID": "3435903",
@@ -1911,14 +1994,15 @@ const CHECKLIST_VEICULAR_DATA = [
     "Condutor": "Jussara Soares de Souza ",
     "Data Hora": "28/01/2026 11:37",
     "VIDEOTELEMTRIA": "SIM",
-    "Itens Danificados": NaN,
+    "Itens Danificados": null,
     "Estado de Criticidade Veículo": "Leve(Liberado)",
     "Observacoes": "Sem avaria.",
-    "ID COLABORADOR": NaN,
+    "ID COLABORADOR": null,
     "ID DO AVALIADOR(A)": "278000",
     "Abrir Os": "NÃO",
-    "Os": NaN,
-    "Abrir Os ": "NÃO"
+    "Os": null,
+    "Abrir Os ": "NÃO",
+    "Unnamed: 21": null
   },
   {
     "ID": "3435904",
@@ -1935,14 +2019,15 @@ const CHECKLIST_VEICULAR_DATA = [
     "Condutor": "Pedro Augusto Silva ",
     "Data Hora": "28/01/2026 13:19",
     "VIDEOTELEMTRIA": "SIM",
-    "Itens Danificados": NaN,
+    "Itens Danificados": null,
     "Estado de Criticidade Veículo": "Leve(Liberado)",
     "Observacoes": "Sem avaria.",
     "ID COLABORADOR": "270270",
     "ID DO AVALIADOR(A)": "278000",
     "Abrir Os": "NÃO",
-    "Os": NaN,
-    "Abrir Os ": "NÃO"
+    "Os": null,
+    "Abrir Os ": "NÃO",
+    "Unnamed: 21": null
   },
   {
     "ID": "3435905",
@@ -1959,14 +2044,15 @@ const CHECKLIST_VEICULAR_DATA = [
     "Condutor": "Caique Braga Lima ",
     "Data Hora": "28/01/2026 16:23",
     "VIDEOTELEMTRIA": "SIM",
-    "Itens Danificados": NaN,
+    "Itens Danificados": null,
     "Estado de Criticidade Veículo": "Moderado(Condutor notificado)",
     "Observacoes": "Trava da tampa do tanque de combustível (quebrada)",
     "ID COLABORADOR": "260940",
     "ID DO AVALIADOR(A)": "272640",
     "Abrir Os": "SIM",
-    "Os": NaN,
-    "Abrir Os ": "SIM"
+    "Os": null,
+    "Abrir Os ": "SIM",
+    "Unnamed: 21": null
   },
   {
     "ID": "3435906",
@@ -1983,14 +2069,15 @@ const CHECKLIST_VEICULAR_DATA = [
     "Condutor": "José Aparecido Caetano ",
     "Data Hora": "28/01/2026 16:25",
     "VIDEOTELEMTRIA": "SIM",
-    "Itens Danificados": NaN,
+    "Itens Danificados": null,
     "Estado de Criticidade Veículo": "Leve(Liberado)",
     "Observacoes": "Checklist pós manutenção: Luz Baixa direita (queimada) - Concluído",
     "ID COLABORADOR": "3220",
     "ID DO AVALIADOR(A)": "272640",
     "Abrir Os": "NÃO",
-    "Os": NaN,
-    "Abrir Os ": "NÃO"
+    "Os": null,
+    "Abrir Os ": "NÃO",
+    "Unnamed: 21": null
   },
   {
     "ID": "3435907",
@@ -2007,14 +2094,15 @@ const CHECKLIST_VEICULAR_DATA = [
     "Condutor": "Anderson Ricardo Ruaro ",
     "Data Hora": "29/01/2026 08:11",
     "VIDEOTELEMTRIA": "SIM",
-    "Itens Danificados": NaN,
+    "Itens Danificados": null,
     "Estado de Criticidade Veículo": "Leve(Liberado)",
     "Observacoes": "Sem avaria.",
     "ID COLABORADOR": "160917",
     "ID DO AVALIADOR(A)": "278000",
     "Abrir Os": "NÃO",
-    "Os": NaN,
-    "Abrir Os ": "NÃO"
+    "Os": null,
+    "Abrir Os ": "NÃO",
+    "Unnamed: 21": null
   },
   {
     "ID": "3435908",
@@ -2038,7 +2126,8 @@ const CHECKLIST_VEICULAR_DATA = [
     "ID DO AVALIADOR(A)": "272640",
     "Abrir Os": "SIM",
     "Os": "711978",
-    "Abrir Os ": "SIM"
+    "Abrir Os ": "SIM",
+    "Unnamed: 21": null
   },
   {
     "ID": "3435909",
@@ -2055,14 +2144,15 @@ const CHECKLIST_VEICULAR_DATA = [
     "Condutor": "João Jesus Ferreira ",
     "Data Hora": "29/01/2026 10:52",
     "VIDEOTELEMTRIA": "SIM",
-    "Itens Danificados": NaN,
+    "Itens Danificados": null,
     "Estado de Criticidade Veículo": "Leve(Liberado)",
     "Observacoes": "Sem avaria.",
     "ID COLABORADOR": "179103",
     "ID DO AVALIADOR(A)": "272640",
     "Abrir Os": "NÃO",
-    "Os": NaN,
-    "Abrir Os ": "NÃO"
+    "Os": null,
+    "Abrir Os ": "NÃO",
+    "Unnamed: 21": null
   },
   {
     "ID": "3435910",
@@ -2079,14 +2169,15 @@ const CHECKLIST_VEICULAR_DATA = [
     "Condutor": "Vanessa Sobral dos Santos Lellis",
     "Data Hora": "29/01/2026 10:56",
     "VIDEOTELEMTRIA": "SIM",
-    "Itens Danificados": NaN,
+    "Itens Danificados": null,
     "Estado de Criticidade Veículo": "Leve(Liberado)",
     "Observacoes": "Sem avaria.",
     "ID COLABORADOR": "47867",
     "ID DO AVALIADOR(A)": "272640",
     "Abrir Os": "NÃO",
-    "Os": NaN,
-    "Abrir Os ": "NÃO"
+    "Os": null,
+    "Abrir Os ": "NÃO",
+    "Unnamed: 21": null
   },
   {
     "ID": "3435911",
@@ -2103,14 +2194,15 @@ const CHECKLIST_VEICULAR_DATA = [
     "Condutor": "Alessandro da Silva ",
     "Data Hora": "29/01/2026 13:06",
     "VIDEOTELEMTRIA": "SIM",
-    "Itens Danificados": NaN,
+    "Itens Danificados": null,
     "Estado de Criticidade Veículo": "Leve(Liberado)",
     "Observacoes": "Sem avaria.",
     "ID COLABORADOR": "262010",
     "ID DO AVALIADOR(A)": "272640",
     "Abrir Os": "NÃO",
-    "Os": NaN,
-    "Abrir Os ": "NÃO"
+    "Os": null,
+    "Abrir Os ": "NÃO",
+    "Unnamed: 21": null
   },
   {
     "ID": "3435912",
@@ -2127,14 +2219,15 @@ const CHECKLIST_VEICULAR_DATA = [
     "Condutor": "Gerson Pereira Porto ",
     "Data Hora": "29/01/2026 13:50",
     "VIDEOTELEMTRIA": "SIM",
-    "Itens Danificados": NaN,
+    "Itens Danificados": null,
     "Estado de Criticidade Veículo": "Leve(Liberado)",
     "Observacoes": "Sem avaria.",
     "ID COLABORADOR": "41464",
     "ID DO AVALIADOR(A)": "272640",
     "Abrir Os": "NÃO",
-    "Os": NaN,
-    "Abrir Os ": "NÃO"
+    "Os": null,
+    "Abrir Os ": "NÃO",
+    "Unnamed: 21": null
   },
   {
     "ID": "3435913",
@@ -2151,14 +2244,15 @@ const CHECKLIST_VEICULAR_DATA = [
     "Condutor": "Gilmar Rebouças ",
     "Data Hora": "29/01/2026 16:26",
     "VIDEOTELEMTRIA": "SIM",
-    "Itens Danificados": NaN,
+    "Itens Danificados": null,
     "Estado de Criticidade Veículo": "Leve(Liberado)",
     "Observacoes": "Sem avaria.",
-    "ID COLABORADOR": NaN,
+    "ID COLABORADOR": null,
     "ID DO AVALIADOR(A)": "272640",
     "Abrir Os": "NÃO",
-    "Os": NaN,
-    "Abrir Os ": "NÃO"
+    "Os": null,
+    "Abrir Os ": "NÃO",
+    "Unnamed: 21": null
   },
   {
     "ID": "3435914",
@@ -2175,14 +2269,15 @@ const CHECKLIST_VEICULAR_DATA = [
     "Condutor": "Jhonnes Alves Moura ",
     "Data Hora": "29/01/2026 16:32",
     "VIDEOTELEMTRIA": "SIM",
-    "Itens Danificados": NaN,
+    "Itens Danificados": null,
     "Estado de Criticidade Veículo": "Leve(Liberado)",
     "Observacoes": "Sem avaria.",
     "ID COLABORADOR": "212301",
     "ID DO AVALIADOR(A)": "272640",
     "Abrir Os": "NÃO",
-    "Os": NaN,
-    "Abrir Os ": "NÃO"
+    "Os": null,
+    "Abrir Os ": "NÃO",
+    "Unnamed: 21": null
   },
   {
     "ID": "3442185",
@@ -2199,14 +2294,15 @@ const CHECKLIST_VEICULAR_DATA = [
     "Condutor": "Heverton Henrique Custodio ",
     "Data Hora": "02/02/2026 08:24",
     "VIDEOTELEMTRIA": "SIM",
-    "Itens Danificados": NaN,
+    "Itens Danificados": null,
     "Estado de Criticidade Veículo": "Leve(Liberado)",
     "Observacoes": "Sem avaria.",
     "ID COLABORADOR": "266560",
     "ID DO AVALIADOR(A)": "272640",
     "Abrir Os": "NÃO",
-    "Os": NaN,
-    "Abrir Os ": "NÃO"
+    "Os": null,
+    "Abrir Os ": "NÃO",
+    "Unnamed: 21": null
   },
   {
     "ID": "3442187",
@@ -2223,14 +2319,15 @@ const CHECKLIST_VEICULAR_DATA = [
     "Condutor": "Alessandro da Silva ",
     "Data Hora": "02/02/2026 09:15",
     "VIDEOTELEMTRIA": "SIM",
-    "Itens Danificados": NaN,
+    "Itens Danificados": null,
     "Estado de Criticidade Veículo": "Leve(Liberado)",
     "Observacoes": "Checklist pós manutenção: Esguicho e amassado no capô (Concluído)",
     "ID COLABORADOR": "262010",
     "ID DO AVALIADOR(A)": "27264",
     "Abrir Os": "NÃO",
-    "Os": NaN,
-    "Abrir Os ": "NÃO"
+    "Os": null,
+    "Abrir Os ": "NÃO",
+    "Unnamed: 21": null
   },
   {
     "ID": "3442188",
@@ -2247,14 +2344,15 @@ const CHECKLIST_VEICULAR_DATA = [
     "Condutor": "Endrius Ernane de Souza ",
     "Data Hora": "02/02/2026 13:51",
     "VIDEOTELEMTRIA": "SIM",
-    "Itens Danificados": NaN,
+    "Itens Danificados": null,
     "Estado de Criticidade Veículo": "Leve(Liberado)",
     "Observacoes": "Checklist pós manutenção: Para-choque dianteiro trocado (Concluído)",
     "ID COLABORADOR": "251310",
     "ID DO AVALIADOR(A)": "272640",
     "Abrir Os": "NÃO",
-    "Os": NaN,
-    "Abrir Os ": "NÃO"
+    "Os": null,
+    "Abrir Os ": "NÃO",
+    "Unnamed: 21": null
   },
   {
     "ID": "3442189",
@@ -2271,14 +2369,15 @@ const CHECKLIST_VEICULAR_DATA = [
     "Condutor": "Onofre Evangelista da Silva Junior ",
     "Data Hora": "02/02/2026 13:52",
     "VIDEOTELEMTRIA": "SIM",
-    "Itens Danificados": NaN,
+    "Itens Danificados": null,
     "Estado de Criticidade Veículo": "Leve(Liberado)",
     "Observacoes": "Checklist pós manutenção: Cilindro da fechadura (concluído)",
     "ID COLABORADOR": "163363",
     "ID DO AVALIADOR(A)": "272640",
     "Abrir Os": "NÃO",
-    "Os": NaN,
-    "Abrir Os ": "NÃO"
+    "Os": null,
+    "Abrir Os ": "NÃO",
+    "Unnamed: 21": null
   },
   {
     "ID": "3442190",
@@ -2301,8 +2400,9 @@ const CHECKLIST_VEICULAR_DATA = [
     "ID COLABORADOR": "163363",
     "ID DO AVALIADOR(A)": "272650",
     "Abrir Os": "NÃO",
-    "Os": NaN,
-    "Abrir Os ": "NÃO"
+    "Os": null,
+    "Abrir Os ": "NÃO",
+    "Unnamed: 21": null
   },
   {
     "ID": "3442191",
@@ -2319,14 +2419,15 @@ const CHECKLIST_VEICULAR_DATA = [
     "Condutor": "Ruan de Freitas Dias",
     "Data Hora": "03/02/2026 08:36",
     "VIDEOTELEMTRIA": "SIM",
-    "Itens Danificados": NaN,
+    "Itens Danificados": null,
     "Estado de Criticidade Veículo": "Moderado(Condutor notificado)",
     "Observacoes": "Saia lado esquerdo, abaixo da porta passageiro (trava quebrada)",
     "ID COLABORADOR": "273990",
     "ID DO AVALIADOR(A)": "272640",
     "Abrir Os": "NÃO",
-    "Os": NaN,
-    "Abrir Os ": "NÃO"
+    "Os": null,
+    "Abrir Os ": "NÃO",
+    "Unnamed: 21": null
   },
   {
     "ID": "3442192",
@@ -2343,14 +2444,15 @@ const CHECKLIST_VEICULAR_DATA = [
     "Condutor": "Antonio Benedito Cassezi ",
     "Data Hora": "03/02/2026 10:03",
     "VIDEOTELEMTRIA": "SIM",
-    "Itens Danificados": NaN,
+    "Itens Danificados": null,
     "Estado de Criticidade Veículo": "Moderado(Condutor notificado)",
     "Observacoes": "Alavanca banco encosto passageiro (quebrada)Amassado no teto ",
     "ID COLABORADOR": "96520",
     "ID DO AVALIADOR(A)": "272640",
     "Abrir Os": "NÃO",
-    "Os": NaN,
-    "Abrir Os ": "NÃO"
+    "Os": null,
+    "Abrir Os ": "NÃO",
+    "Unnamed: 21": null
   },
   {
     "ID": "3442193",
@@ -2367,14 +2469,15 @@ const CHECKLIST_VEICULAR_DATA = [
     "Condutor": "João Jesus Ferreira ",
     "Data Hora": "03/02/2026 10:20",
     "VIDEOTELEMTRIA": "SIM",
-    "Itens Danificados": NaN,
+    "Itens Danificados": null,
     "Estado de Criticidade Veículo": "Leve(Liberado)",
     "Observacoes": "Sem avaria.",
     "ID COLABORADOR": "179103",
     "ID DO AVALIADOR(A)": "272640",
     "Abrir Os": "NÃO",
-    "Os": NaN,
-    "Abrir Os ": "NÃO"
+    "Os": null,
+    "Abrir Os ": "NÃO",
+    "Unnamed: 21": null
   },
   {
     "ID": "3442194",
@@ -2391,14 +2494,15 @@ const CHECKLIST_VEICULAR_DATA = [
     "Condutor": "Admir Xavier Cotrim ",
     "Data Hora": "03/02/2026 13:07",
     "VIDEOTELEMTRIA": "SIM",
-    "Itens Danificados": NaN,
+    "Itens Danificados": null,
     "Estado de Criticidade Veículo": "Leve(Liberado)",
     "Observacoes": "Sem avaria.",
     "ID COLABORADOR": "112150",
     "ID DO AVALIADOR(A)": "272640",
     "Abrir Os": "NÃO",
-    "Os": NaN,
-    "Abrir Os ": "NÃO"
+    "Os": null,
+    "Abrir Os ": "NÃO",
+    "Unnamed: 21": null
   },
   {
     "ID": "3442195",
@@ -2415,14 +2519,15 @@ const CHECKLIST_VEICULAR_DATA = [
     "Condutor": "Emerson Cândido Coelho ",
     "Data Hora": "03/02/2026 15:21",
     "VIDEOTELEMTRIA": "SIM",
-    "Itens Danificados": NaN,
+    "Itens Danificados": null,
     "Estado de Criticidade Veículo": "Leve(Liberado)",
     "Observacoes": "Checklist pós manutenção: funilaria (Concluído)Sem avaria.",
     "ID COLABORADOR": "230880",
     "ID DO AVALIADOR(A)": "272640",
     "Abrir Os": "NÃO",
-    "Os": NaN,
-    "Abrir Os ": "NÃO"
+    "Os": null,
+    "Abrir Os ": "NÃO",
+    "Unnamed: 21": null
   },
   {
     "ID": "3442196",
@@ -2446,7 +2551,8 @@ const CHECKLIST_VEICULAR_DATA = [
     "ID DO AVALIADOR(A)": "272640",
     "Abrir Os": "SIM",
     "Os": "712562",
-    "Abrir Os ": "SIM"
+    "Abrir Os ": "SIM",
+    "Unnamed: 21": null
   },
   {
     "ID": "3442197",
@@ -2470,7 +2576,8 @@ const CHECKLIST_VEICULAR_DATA = [
     "ID DO AVALIADOR(A)": "27264",
     "Abrir Os": "SIM",
     "Os": "712561",
-    "Abrir Os ": "SIM"
+    "Abrir Os ": "SIM",
+    "Unnamed: 21": null
   },
   {
     "ID": "3447205",
@@ -2487,14 +2594,15 @@ const CHECKLIST_VEICULAR_DATA = [
     "Condutor": "Alessandro da Silva ",
     "Data Hora": "04/02/2026 09:52",
     "VIDEOTELEMTRIA": "SIM",
-    "Itens Danificados": NaN,
+    "Itens Danificados": null,
     "Estado de Criticidade Veículo": "Leve(Liberado)",
     "Observacoes": "Sem avaria.",
     "ID COLABORADOR": "262010",
     "ID DO AVALIADOR(A)": "272640",
     "Abrir Os": "NÃO",
-    "Os": NaN,
-    "Abrir Os ": "NÃO"
+    "Os": null,
+    "Abrir Os ": "NÃO",
+    "Unnamed: 21": null
   },
   {
     "ID": "3447206",
@@ -2511,14 +2619,15 @@ const CHECKLIST_VEICULAR_DATA = [
     "Condutor": "Alessandro da Silva",
     "Data Hora": "04/02/2026 14:59",
     "VIDEOTELEMTRIA": "SIM",
-    "Itens Danificados": NaN,
+    "Itens Danificados": null,
     "Estado de Criticidade Veículo": "Leve(Liberado)",
     "Observacoes": "Sem avaria.",
     "ID COLABORADOR": "262010",
     "ID DO AVALIADOR(A)": "272640",
     "Abrir Os": "NÃO",
-    "Os": NaN,
-    "Abrir Os ": "NÃO"
+    "Os": null,
+    "Abrir Os ": "NÃO",
+    "Unnamed: 21": null
   },
   {
     "ID": "3447207",
@@ -2535,14 +2644,15 @@ const CHECKLIST_VEICULAR_DATA = [
     "Condutor": "Claudemir Teodoro de Toledo ",
     "Data Hora": "04/02/2026 16:29",
     "VIDEOTELEMTRIA": "SIM",
-    "Itens Danificados": NaN,
+    "Itens Danificados": null,
     "Estado de Criticidade Veículo": "Leve(Liberado)",
     "Observacoes": "Sem avaria.",
     "ID COLABORADOR": "251450",
     "ID DO AVALIADOR(A)": "272640",
     "Abrir Os": "NÃO",
-    "Os": NaN,
-    "Abrir Os ": "NÃO"
+    "Os": null,
+    "Abrir Os ": "NÃO",
+    "Unnamed: 21": null
   },
   {
     "ID": "3447208",
@@ -2559,14 +2669,15 @@ const CHECKLIST_VEICULAR_DATA = [
     "Condutor": "Jussara Soares de Souza ",
     "Data Hora": "05/02/2026 08:59",
     "VIDEOTELEMTRIA": "SIM",
-    "Itens Danificados": NaN,
+    "Itens Danificados": null,
     "Estado de Criticidade Veículo": "Leve(Liberado)",
     "Observacoes": "Checklist pós manutenção: funilaria abaixo da lâmpada traseira (Concluido)",
     "ID COLABORADOR": "272640",
     "ID DO AVALIADOR(A)": "272640",
     "Abrir Os": "NÃO",
-    "Os": NaN,
-    "Abrir Os ": "NÃO"
+    "Os": null,
+    "Abrir Os ": "NÃO",
+    "Unnamed: 21": null
   },
   {
     "ID": "3456464",
@@ -2583,14 +2694,15 @@ const CHECKLIST_VEICULAR_DATA = [
     "Condutor": "Reginaldo da Silva Gomes ",
     "Data Hora": "05/02/2026 14:54",
     "VIDEOTELEMTRIA": "SIM",
-    "Itens Danificados": NaN,
+    "Itens Danificados": null,
     "Estado de Criticidade Veículo": "Leve(Liberado)",
     "Observacoes": "Sem avaria.",
     "ID COLABORADOR": "260910",
     "ID DO AVALIADOR(A)": "272640",
     "Abrir Os": "NÃO",
-    "Os": NaN,
-    "Abrir Os ": "NÃO"
+    "Os": null,
+    "Abrir Os ": "NÃO",
+    "Unnamed: 21": null
   },
   {
     "ID": "3456465",
@@ -2607,14 +2719,15 @@ const CHECKLIST_VEICULAR_DATA = [
     "Condutor": "Reginaldo Fernando Mantovani ",
     "Data Hora": "05/02/2026 15:28",
     "VIDEOTELEMTRIA": "NÃO",
-    "Itens Danificados": NaN,
+    "Itens Danificados": null,
     "Estado de Criticidade Veículo": "Leve(Liberado)",
     "Observacoes": "Sem avaria.",
     "ID COLABORADOR": "260910",
     "ID DO AVALIADOR(A)": "272640",
     "Abrir Os": "NÃO",
-    "Os": NaN,
-    "Abrir Os ": "NÃO"
+    "Os": null,
+    "Abrir Os ": "NÃO",
+    "Unnamed: 21": null
   },
   {
     "ID": "3456466",
@@ -2631,14 +2744,15 @@ const CHECKLIST_VEICULAR_DATA = [
     "Condutor": "Luiz Alfredo de Souza ",
     "Data Hora": "06/02/2026 13:42",
     "VIDEOTELEMTRIA": "SIM",
-    "Itens Danificados": NaN,
+    "Itens Danificados": null,
     "Estado de Criticidade Veículo": "Leve(Liberado)",
     "Observacoes": "Sem avaria.",
     "ID COLABORADOR": "5423",
     "ID DO AVALIADOR(A)": "272640",
     "Abrir Os": "NÃO",
-    "Os": NaN,
-    "Abrir Os ": "NÃO"
+    "Os": null,
+    "Abrir Os ": "NÃO",
+    "Unnamed: 21": null
   },
   {
     "ID": "3456467",
@@ -2655,14 +2769,15 @@ const CHECKLIST_VEICULAR_DATA = [
     "Condutor": "Juliano Rosa Quirino",
     "Data Hora": "06/02/2026 13:43",
     "VIDEOTELEMTRIA": "SIM",
-    "Itens Danificados": NaN,
+    "Itens Danificados": null,
     "Estado de Criticidade Veículo": "Moderado(Condutor notificado)",
     "Observacoes": "Capô (corte na funilaria)",
     "ID COLABORADOR": "272770",
     "ID DO AVALIADOR(A)": "272640",
     "Abrir Os": "SIM",
-    "Os": NaN,
-    "Abrir Os ": "SIM"
+    "Os": null,
+    "Abrir Os ": "SIM",
+    "Unnamed: 21": null
   },
   {
     "ID": "3456468",
@@ -2679,14 +2794,15 @@ const CHECKLIST_VEICULAR_DATA = [
     "Condutor": "Giliard Tavares ",
     "Data Hora": "06/02/2026 14:33",
     "VIDEOTELEMTRIA": "SIM",
-    "Itens Danificados": NaN,
+    "Itens Danificados": null,
     "Estado de Criticidade Veículo": "Leve(Liberado)",
     "Observacoes": "Sem avaria.",
     "ID COLABORADOR": "260700",
     "ID DO AVALIADOR(A)": "272640",
     "Abrir Os": "NÃO",
-    "Os": NaN,
-    "Abrir Os ": "NÃO"
+    "Os": null,
+    "Abrir Os ": "NÃO",
+    "Unnamed: 21": null
   },
   {
     "ID": "3456469",
@@ -2703,14 +2819,15 @@ const CHECKLIST_VEICULAR_DATA = [
     "Condutor": "Onofre Evangelista da Silva Junior ",
     "Data Hora": "06/02/2026 16:16",
     "VIDEOTELEMTRIA": "SIM",
-    "Itens Danificados": NaN,
+    "Itens Danificados": null,
     "Estado de Criticidade Veículo": "Leve(Liberado)",
     "Observacoes": "Sem avaria.",
     "ID COLABORADOR": "163363",
     "ID DO AVALIADOR(A)": "272640",
     "Abrir Os": "NÃO",
-    "Os": NaN,
-    "Abrir Os ": "NÃO"
+    "Os": null,
+    "Abrir Os ": "NÃO",
+    "Unnamed: 21": null
   },
   {
     "ID": "3456470",
@@ -2727,14 +2844,15 @@ const CHECKLIST_VEICULAR_DATA = [
     "Condutor": "Jussara Soares de Souza",
     "Data Hora": "09/02/2026 14:28",
     "VIDEOTELEMTRIA": "NÃO",
-    "Itens Danificados": NaN,
+    "Itens Danificados": null,
     "Estado de Criticidade Veículo": "Leve(Liberado)",
     "Observacoes": "Sem avaria.",
     "ID COLABORADOR": "272640",
     "ID DO AVALIADOR(A)": "272640",
     "Abrir Os": "NÃO",
-    "Os": NaN,
-    "Abrir Os ": "NÃO"
+    "Os": null,
+    "Abrir Os ": "NÃO",
+    "Unnamed: 21": null
   },
   {
     "ID": "3458564",
@@ -2751,14 +2869,15 @@ const CHECKLIST_VEICULAR_DATA = [
     "Condutor": "José Aparecido Caetano ",
     "Data Hora": "10/02/2026 12:22",
     "VIDEOTELEMTRIA": "SIM",
-    "Itens Danificados": NaN,
+    "Itens Danificados": null,
     "Estado de Criticidade Veículo": "Leve(Liberado)",
     "Observacoes": "Sem avaria.",
     "ID COLABORADOR": "3220",
     "ID DO AVALIADOR(A)": "272640",
     "Abrir Os": "NÃO",
-    "Os": NaN,
-    "Abrir Os ": "NÃO"
+    "Os": null,
+    "Abrir Os ": "NÃO",
+    "Unnamed: 21": null
   },
   {
     "ID": "3458565",
@@ -2775,14 +2894,15 @@ const CHECKLIST_VEICULAR_DATA = [
     "Condutor": "Henrique Mendes Ferreira ",
     "Data Hora": "10/02/2026 13:42",
     "VIDEOTELEMTRIA": "SIM",
-    "Itens Danificados": NaN,
+    "Itens Danificados": null,
     "Estado de Criticidade Veículo": "Leve(Liberado)",
     "Observacoes": "Sem avaria.",
     "ID COLABORADOR": "269710",
     "ID DO AVALIADOR(A)": "272640",
     "Abrir Os": "NÃO",
-    "Os": NaN,
-    "Abrir Os ": "NÃO"
+    "Os": null,
+    "Abrir Os ": "NÃO",
+    "Unnamed: 21": null
   },
   {
     "ID": "3458566",
@@ -2799,14 +2919,15 @@ const CHECKLIST_VEICULAR_DATA = [
     "Condutor": "Jussara Soares de Souza ",
     "Data Hora": "11/02/2026 10:45",
     "VIDEOTELEMTRIA": "SIM",
-    "Itens Danificados": NaN,
+    "Itens Danificados": null,
     "Estado de Criticidade Veículo": "Leve(Liberado)",
     "Observacoes": "Sem avaria.",
     "ID COLABORADOR": "272640",
     "ID DO AVALIADOR(A)": "272640",
     "Abrir Os": "NÃO",
-    "Os": NaN,
-    "Abrir Os ": "NÃO"
+    "Os": null,
+    "Abrir Os ": "NÃO",
+    "Unnamed: 21": null
   },
   {
     "ID": "3462105",
@@ -2823,14 +2944,15 @@ const CHECKLIST_VEICULAR_DATA = [
     "Condutor": "Andreia Tassiane Aparecida Megeto",
     "Data Hora": "11/02/2026 08:09",
     "VIDEOTELEMTRIA": "SIM",
-    "Itens Danificados": NaN,
+    "Itens Danificados": null,
     "Estado de Criticidade Veículo": "Leve(Liberado)",
     "Observacoes": "Sem avaria.",
     "ID COLABORADOR": "275340",
     "ID DO AVALIADOR(A)": "272640",
     "Abrir Os": "NÃO",
-    "Os": NaN,
-    "Abrir Os ": "NÃO"
+    "Os": null,
+    "Abrir Os ": "NÃO",
+    "Unnamed: 21": null
   },
   {
     "ID": "3462116",
@@ -2847,14 +2969,15 @@ const CHECKLIST_VEICULAR_DATA = [
     "Condutor": "Anderson Ricardo Ruaro ",
     "Data Hora": "12/02/2026 08:45",
     "VIDEOTELEMTRIA": "SIM",
-    "Itens Danificados": NaN,
+    "Itens Danificados": null,
     "Estado de Criticidade Veículo": "Leve(Liberado)",
     "Observacoes": "Sem avaria.",
     "ID COLABORADOR": "168907",
     "ID DO AVALIADOR(A)": "272640",
     "Abrir Os": "NÃO",
-    "Os": NaN,
-    "Abrir Os ": "NÃO"
+    "Os": null,
+    "Abrir Os ": "NÃO",
+    "Unnamed: 21": null
   },
   {
     "ID": "3462122",
@@ -2871,14 +2994,15 @@ const CHECKLIST_VEICULAR_DATA = [
     "Condutor": "Jussara Soares de Souza ",
     "Data Hora": "12/02/2026 15:27",
     "VIDEOTELEMTRIA": "SIM",
-    "Itens Danificados": NaN,
+    "Itens Danificados": null,
     "Estado de Criticidade Veículo": "Leve(Liberado)",
     "Observacoes": "Checklist pós manutenção: Concluído ",
     "ID COLABORADOR": "272640",
     "ID DO AVALIADOR(A)": "272640",
     "Abrir Os": "NÃO",
-    "Os": NaN,
-    "Abrir Os ": "NÃO"
+    "Os": null,
+    "Abrir Os ": "NÃO",
+    "Unnamed: 21": null
   },
   {
     "ID": "3462129",
@@ -2895,14 +3019,15 @@ const CHECKLIST_VEICULAR_DATA = [
     "Condutor": "Geovane de Azevedo Dias ",
     "Data Hora": "12/02/2026 15:30",
     "VIDEOTELEMTRIA": "SIM",
-    "Itens Danificados": NaN,
+    "Itens Danificados": null,
     "Estado de Criticidade Veículo": "Leve(Liberado)",
     "Observacoes": "Sem avaria.",
     "ID COLABORADOR": "183313",
     "ID DO AVALIADOR(A)": "272640",
     "Abrir Os": "NÃO",
-    "Os": NaN,
-    "Abrir Os ": "NÃO"
+    "Os": null,
+    "Abrir Os ": "NÃO",
+    "Unnamed: 21": null
   },
   {
     "ID": "3462133",
@@ -2925,8 +3050,9 @@ const CHECKLIST_VEICULAR_DATA = [
     "ID COLABORADOR": "240190",
     "ID DO AVALIADOR(A)": "272640",
     "Abrir Os": "SIM",
-    "Os": NaN,
-    "Abrir Os ": "SIM"
+    "Os": null,
+    "Abrir Os ": "SIM",
+    "Unnamed: 21": null
   },
   {
     "ID": "3462134",
@@ -2943,14 +3069,15 @@ const CHECKLIST_VEICULAR_DATA = [
     "Condutor": "Livino Leandro dos Santos",
     "Data Hora": "13/02/2026 08:57",
     "VIDEOTELEMTRIA": "SIM",
-    "Itens Danificados": NaN,
+    "Itens Danificados": null,
     "Estado de Criticidade Veículo": "Leve(Liberado)",
     "Observacoes": "Sem avaria.",
     "ID COLABORADOR": "266000",
     "ID DO AVALIADOR(A)": "272640",
     "Abrir Os": "NÃO",
-    "Os": NaN,
-    "Abrir Os ": "NÃO"
+    "Os": null,
+    "Abrir Os ": "NÃO",
+    "Unnamed: 21": null
   },
   {
     "ID": "3462135",
@@ -2967,14 +3094,15 @@ const CHECKLIST_VEICULAR_DATA = [
     "Condutor": "Eduardo Franco Nogueira ",
     "Data Hora": "13/02/2026 09:16",
     "VIDEOTELEMTRIA": "SIM",
-    "Itens Danificados": NaN,
+    "Itens Danificados": null,
     "Estado de Criticidade Veículo": "Moderado(Condutor notificado)",
     "Observacoes": "Luz de alerta vermelha traseira- esquerda (queimada)Funilaria (rachado abaixo da porta passageiro e motorista)Alavanca do vidro passageiro (quebrada)",
     "ID COLABORADOR": "250700",
     "ID DO AVALIADOR(A)": "272640",
     "Abrir Os": "SIM",
-    "Os": NaN,
-    "Abrir Os ": "SIM"
+    "Os": null,
+    "Abrir Os ": "SIM",
+    "Unnamed: 21": null
   },
   {
     "ID": "3462136",
@@ -2991,14 +3119,15 @@ const CHECKLIST_VEICULAR_DATA = [
     "Condutor": "Gabriel Soares Mendes Dias ",
     "Data Hora": "13/02/2026 10:57",
     "VIDEOTELEMTRIA": "SIM",
-    "Itens Danificados": NaN,
+    "Itens Danificados": null,
     "Estado de Criticidade Veículo": "Moderado(Condutor notificado)",
     "Observacoes": "Borracha de vedação da porta dianteira lado esquerdo (saiu)",
-    "ID COLABORADOR": NaN,
+    "ID COLABORADOR": null,
     "ID DO AVALIADOR(A)": "272640",
     "Abrir Os": "SIM",
-    "Os": NaN,
-    "Abrir Os ": "SIM"
+    "Os": null,
+    "Abrir Os ": "SIM",
+    "Unnamed: 21": null
   },
   {
     "ID": "3462137",
@@ -3015,14 +3144,15 @@ const CHECKLIST_VEICULAR_DATA = [
     "Condutor": "José Elialdo Ricci",
     "Data Hora": "13/02/2026 13:30",
     "VIDEOTELEMTRIA": "SIM",
-    "Itens Danificados": NaN,
+    "Itens Danificados": null,
     "Estado de Criticidade Veículo": "Leve(Liberado)",
     "Observacoes": "Sem avaria.",
     "ID COLABORADOR": "3",
     "ID DO AVALIADOR(A)": "272640",
     "Abrir Os": "NÃO",
-    "Os": NaN,
-    "Abrir Os ": "NÃO"
+    "Os": null,
+    "Abrir Os ": "NÃO",
+    "Unnamed: 21": null
   },
   {
     "ID": "3462145",
@@ -3039,14 +3169,15 @@ const CHECKLIST_VEICULAR_DATA = [
     "Condutor": "Luiz Felipe Bolzan ",
     "Data Hora": "13/02/2026 14:11",
     "VIDEOTELEMTRIA": "SIM",
-    "Itens Danificados": NaN,
+    "Itens Danificados": null,
     "Estado de Criticidade Veículo": "Leve(Liberado)",
     "Observacoes": "Sem avaria.",
     "ID COLABORADOR": "272420",
     "ID DO AVALIADOR(A)": "272640",
     "Abrir Os": "NÃO",
-    "Os": NaN,
-    "Abrir Os ": "NÃO"
+    "Os": null,
+    "Abrir Os ": "NÃO",
+    "Unnamed: 21": null
   },
   {
     "ID": "3462146",
@@ -3063,14 +3194,15 @@ const CHECKLIST_VEICULAR_DATA = [
     "Condutor": "Fábio Junio Ferreira Barboza",
     "Data Hora": "13/02/2026 14:37",
     "VIDEOTELEMTRIA": "SIM",
-    "Itens Danificados": NaN,
+    "Itens Danificados": null,
     "Estado de Criticidade Veículo": "Leve(Liberado)",
     "Observacoes": "Sem avaria.",
     "ID COLABORADOR": "189200",
     "ID DO AVALIADOR(A)": "272640",
     "Abrir Os": "NÃO",
-    "Os": NaN,
-    "Abrir Os ": "NÃO"
+    "Os": null,
+    "Abrir Os ": "NÃO",
+    "Unnamed: 21": null
   },
   {
     "ID": "3462147",
@@ -3087,14 +3219,15 @@ const CHECKLIST_VEICULAR_DATA = [
     "Condutor": "Antonio Marcos Ribeiro Ruas ",
     "Data Hora": "13/02/2026 15:32",
     "VIDEOTELEMTRIA": "SIM",
-    "Itens Danificados": NaN,
+    "Itens Danificados": null,
     "Estado de Criticidade Veículo": "Leve(Liberado)",
     "Observacoes": "Sem avaria.",
     "ID COLABORADOR": "183702",
     "ID DO AVALIADOR(A)": "272640",
     "Abrir Os": "NÃO",
-    "Os": NaN,
-    "Abrir Os ": "NÃO"
+    "Os": null,
+    "Abrir Os ": "NÃO",
+    "Unnamed: 21": null
   },
   {
     "ID": "3470110",
@@ -3111,14 +3244,15 @@ const CHECKLIST_VEICULAR_DATA = [
     "Condutor": "Gabriel Soares Mendes Dias ",
     "Data Hora": "17/02/2026 07:31",
     "VIDEOTELEMTRIA": "SIM",
-    "Itens Danificados": NaN,
+    "Itens Danificados": null,
     "Estado de Criticidade Veículo": "Moderado(Condutor notificado)",
     "Observacoes": "Seta lado direita (queimada)",
     "ID COLABORADOR": "272670",
     "ID DO AVALIADOR(A)": "278000",
     "Abrir Os": "SIM",
     "Os": "713532",
-    "Abrir Os ": "SIM"
+    "Abrir Os ": "SIM",
+    "Unnamed: 21": null
   },
   {
     "ID": "3470113",
@@ -3135,14 +3269,15 @@ const CHECKLIST_VEICULAR_DATA = [
     "Condutor": "Fabiano Mineiro ",
     "Data Hora": "17/02/2026 07:47",
     "VIDEOTELEMTRIA": "SIM",
-    "Itens Danificados": NaN,
+    "Itens Danificados": null,
     "Estado de Criticidade Veículo": "Leve(Liberado)",
     "Observacoes": "Sem avaria.",
     "ID COLABORADOR": "2100",
     "ID DO AVALIADOR(A)": "278000",
     "Abrir Os": "NÃO",
-    "Os": NaN,
-    "Abrir Os ": "NÃO"
+    "Os": null,
+    "Abrir Os ": "NÃO",
+    "Unnamed: 21": null
   },
   {
     "ID": "3470115",
@@ -3159,14 +3294,15 @@ const CHECKLIST_VEICULAR_DATA = [
     "Condutor": "Alessandro da Silva ",
     "Data Hora": "17/02/2026 08:08",
     "VIDEOTELEMTRIA": "SIM",
-    "Itens Danificados": NaN,
+    "Itens Danificados": null,
     "Estado de Criticidade Veículo": "Leve(Liberado)",
     "Observacoes": "Sem avaria.",
     "ID COLABORADOR": "262010",
     "ID DO AVALIADOR(A)": "278000",
     "Abrir Os": "NÃO",
-    "Os": NaN,
-    "Abrir Os ": "NÃO"
+    "Os": null,
+    "Abrir Os ": "NÃO",
+    "Unnamed: 21": null
   },
   {
     "ID": "3470117",
@@ -3183,14 +3319,15 @@ const CHECKLIST_VEICULAR_DATA = [
     "Condutor": "Pedro Augusto Silva ",
     "Data Hora": "17/02/2026 09:11",
     "VIDEOTELEMTRIA": "SIM",
-    "Itens Danificados": NaN,
+    "Itens Danificados": null,
     "Estado de Criticidade Veículo": "Leve(Liberado)",
     "Observacoes": "Sem avaria.",
     "ID COLABORADOR": "270270",
     "ID DO AVALIADOR(A)": "278000",
     "Abrir Os": "NÃO",
-    "Os": NaN,
-    "Abrir Os ": "NÃO"
+    "Os": null,
+    "Abrir Os ": "NÃO",
+    "Unnamed: 21": null
   },
   {
     "ID": "3470118",
@@ -3207,14 +3344,15 @@ const CHECKLIST_VEICULAR_DATA = [
     "Condutor": "Gesley Aparecido ",
     "Data Hora": "17/02/2026 09:37",
     "VIDEOTELEMTRIA": "SIM",
-    "Itens Danificados": NaN,
+    "Itens Danificados": null,
     "Estado de Criticidade Veículo": "Leve(Liberado)",
     "Observacoes": "Sem avaria.",
     "ID COLABORADOR": "246300",
     "ID DO AVALIADOR(A)": "278000",
     "Abrir Os": "NÃO",
-    "Os": NaN,
-    "Abrir Os ": "NÃO"
+    "Os": null,
+    "Abrir Os ": "NÃO",
+    "Unnamed: 21": null
   },
   {
     "ID": "3470120",
@@ -3228,17 +3366,18 @@ const CHECKLIST_VEICULAR_DATA = [
     "Score": "0.0",
     "Frota": "100318 - VOLKSWAGEN SAVEIRO RB MBV 1.6(FYP7077)",
     "GESTORES": "REGINALDO FERNANDO MANTOVANI",
-    "Condutor": NaN,
+    "Condutor": null,
     "Data Hora": "17/02/2026 10:43",
     "VIDEOTELEMTRIA": "SIM",
-    "Itens Danificados": NaN,
+    "Itens Danificados": null,
     "Estado de Criticidade Veículo": "Moderado(Condutor notificado)",
     "Observacoes": "Esguicho (não funciona)",
-    "ID COLABORADOR": NaN,
+    "ID COLABORADOR": null,
     "ID DO AVALIADOR(A)": "272640",
     "Abrir Os": "NÃO",
-    "Os": NaN,
-    "Abrir Os ": "NÃO"
+    "Os": null,
+    "Abrir Os ": "NÃO",
+    "Unnamed: 21": null
   },
   {
     "ID": "3470122",
@@ -3255,14 +3394,15 @@ const CHECKLIST_VEICULAR_DATA = [
     "Condutor": "Alessandro da Silva ",
     "Data Hora": "17/02/2026 11:15",
     "VIDEOTELEMTRIA": "NÃO",
-    "Itens Danificados": NaN,
+    "Itens Danificados": null,
     "Estado de Criticidade Veículo": "Leve(Liberado)",
     "Observacoes": "Sem avaria.",
     "ID COLABORADOR": "262010",
     "ID DO AVALIADOR(A)": "278000",
     "Abrir Os": "NÃO",
-    "Os": NaN,
-    "Abrir Os ": "NÃO"
+    "Os": null,
+    "Abrir Os ": "NÃO",
+    "Unnamed: 21": null
   },
   {
     "ID": "3470123",
@@ -3279,14 +3419,15 @@ const CHECKLIST_VEICULAR_DATA = [
     "Condutor": "Wallason Soares Reges",
     "Data Hora": "17/02/2026 13:00",
     "VIDEOTELEMTRIA": "SIM",
-    "Itens Danificados": NaN,
+    "Itens Danificados": null,
     "Estado de Criticidade Veículo": "Leve(Liberado)",
     "Observacoes": "Sem avaria.",
     "ID COLABORADOR": "01",
     "ID DO AVALIADOR(A)": "278000",
     "Abrir Os": "NÃO",
-    "Os": NaN,
-    "Abrir Os ": "NÃO"
+    "Os": null,
+    "Abrir Os ": "NÃO",
+    "Unnamed: 21": null
   },
   {
     "ID": "3470124",
@@ -3303,14 +3444,15 @@ const CHECKLIST_VEICULAR_DATA = [
     "Condutor": "Alessandro da Silva ",
     "Data Hora": "17/02/2026 16:03",
     "VIDEOTELEMTRIA": "SIM",
-    "Itens Danificados": NaN,
+    "Itens Danificados": null,
     "Estado de Criticidade Veículo": "Moderado(Condutor notificado)",
     "Observacoes": "Amassado porta passageiro lado direito.",
     "ID COLABORADOR": "262010",
     "ID DO AVALIADOR(A)": "272640",
     "Abrir Os": "SIM",
     "Os": "713602",
-    "Abrir Os ": "SIM"
+    "Abrir Os ": "SIM",
+    "Unnamed: 21": null
   },
   {
     "ID": "3470125",
@@ -3327,14 +3469,15 @@ const CHECKLIST_VEICULAR_DATA = [
     "Condutor": "Maximiano Gomes da Silva ",
     "Data Hora": "18/02/2026 07:17",
     "VIDEOTELEMTRIA": "SIM",
-    "Itens Danificados": NaN,
+    "Itens Danificados": null,
     "Estado de Criticidade Veículo": "Leve(Liberado)",
     "Observacoes": "Sem avaria.",
     "ID COLABORADOR": "251170",
     "ID DO AVALIADOR(A)": "278000",
     "Abrir Os": "NÃO",
-    "Os": NaN,
-    "Abrir Os ": "NÃO"
+    "Os": null,
+    "Abrir Os ": "NÃO",
+    "Unnamed: 21": null
   },
   {
     "ID": "3470126",
@@ -3351,14 +3494,15 @@ const CHECKLIST_VEICULAR_DATA = [
     "Condutor": "Antonio Marcos Souza ",
     "Data Hora": "18/02/2026 08:45",
     "VIDEOTELEMTRIA": "SIM",
-    "Itens Danificados": NaN,
+    "Itens Danificados": null,
     "Estado de Criticidade Veículo": "Leve(Liberado)",
     "Observacoes": "Sem avaria.",
     "ID COLABORADOR": "260840",
     "ID DO AVALIADOR(A)": "272640",
     "Abrir Os": "NÃO",
-    "Os": NaN,
-    "Abrir Os ": "NÃO"
+    "Os": null,
+    "Abrir Os ": "NÃO",
+    "Unnamed: 21": null
   },
   {
     "ID": "3470127",
@@ -3375,14 +3519,15 @@ const CHECKLIST_VEICULAR_DATA = [
     "Condutor": "Marco Ferreira dos Santos ",
     "Data Hora": "18/02/2026 09:15",
     "VIDEOTELEMTRIA": "NÃO",
-    "Itens Danificados": NaN,
+    "Itens Danificados": null,
     "Estado de Criticidade Veículo": "Leve(Liberado)",
     "Observacoes": "Sem avaria.",
     "ID COLABORADOR": "115782",
     "ID DO AVALIADOR(A)": "272640",
     "Abrir Os": "NÃO",
-    "Os": NaN,
-    "Abrir Os ": "NÃO"
+    "Os": null,
+    "Abrir Os ": "NÃO",
+    "Unnamed: 21": null
   },
   {
     "ID": "3470128",
@@ -3399,14 +3544,15 @@ const CHECKLIST_VEICULAR_DATA = [
     "Condutor": "Ricardo Aparecido da Silva ",
     "Data Hora": "18/02/2026 10:03",
     "VIDEOTELEMTRIA": "SIM",
-    "Itens Danificados": NaN,
+    "Itens Danificados": null,
     "Estado de Criticidade Veículo": "Leve(Liberado)",
     "Observacoes": "Sem avaria.",
     "ID COLABORADOR": "111909",
     "ID DO AVALIADOR(A)": "272640",
     "Abrir Os": "NÃO",
-    "Os": NaN,
-    "Abrir Os ": "NÃO"
+    "Os": null,
+    "Abrir Os ": "NÃO",
+    "Unnamed: 21": null
   },
   {
     "ID": "3470129",
@@ -3423,14 +3569,15 @@ const CHECKLIST_VEICULAR_DATA = [
     "Condutor": "João Vitor dos Santos Cardoso ",
     "Data Hora": "18/02/2026 10:12",
     "VIDEOTELEMTRIA": "NÃO",
-    "Itens Danificados": NaN,
+    "Itens Danificados": null,
     "Estado de Criticidade Veículo": "Leve(Liberado)",
     "Observacoes": "Sem avaria.",
     "ID COLABORADOR": "276550",
     "ID DO AVALIADOR(A)": "272640",
     "Abrir Os": "NÃO",
-    "Os": NaN,
-    "Abrir Os ": "NÃO"
+    "Os": null,
+    "Abrir Os ": "NÃO",
+    "Unnamed: 21": null
   },
   {
     "ID": "3470130",
@@ -3447,14 +3594,15 @@ const CHECKLIST_VEICULAR_DATA = [
     "Condutor": "João Vitor dos Santos Carodoso",
     "Data Hora": "18/02/2026 10:16",
     "VIDEOTELEMTRIA": "NÃO",
-    "Itens Danificados": NaN,
+    "Itens Danificados": null,
     "Estado de Criticidade Veículo": "Leve(Liberado)",
     "Observacoes": "Sem avaria.",
     "ID COLABORADOR": "276550",
     "ID DO AVALIADOR(A)": "272640",
     "Abrir Os": "NÃO",
-    "Os": NaN,
-    "Abrir Os ": "NÃO"
+    "Os": null,
+    "Abrir Os ": "NÃO",
+    "Unnamed: 21": null
   },
   {
     "ID": "3470131",
@@ -3471,14 +3619,15 @@ const CHECKLIST_VEICULAR_DATA = [
     "Condutor": "João Jesus Ferreira ",
     "Data Hora": "18/02/2026 10:47",
     "VIDEOTELEMTRIA": "SIM",
-    "Itens Danificados": NaN,
+    "Itens Danificados": null,
     "Estado de Criticidade Veículo": "Leve(Liberado)",
     "Observacoes": "Sem avaria.",
     "ID COLABORADOR": "179103",
     "ID DO AVALIADOR(A)": "272640",
     "Abrir Os": "NÃO",
-    "Os": NaN,
-    "Abrir Os ": "NÃO"
+    "Os": null,
+    "Abrir Os ": "NÃO",
+    "Unnamed: 21": null
   },
   {
     "ID": "3491086",
@@ -3495,14 +3644,15 @@ const CHECKLIST_VEICULAR_DATA = [
     "Condutor": "Gabriel Soares ",
     "Data Hora": "18/02/2026 11:49",
     "VIDEOTELEMTRIA": "SIM",
-    "Itens Danificados": NaN,
+    "Itens Danificados": null,
     "Estado de Criticidade Veículo": "Leve(Liberado)",
     "Observacoes": "Checklist pós manutenção: Concluído ",
-    "ID COLABORADOR": NaN,
+    "ID COLABORADOR": null,
     "ID DO AVALIADOR(A)": "278000",
     "Abrir Os": "NÃO",
-    "Os": NaN,
-    "Abrir Os ": "NÃO"
+    "Os": null,
+    "Abrir Os ": "NÃO",
+    "Unnamed: 21": null
   },
   {
     "ID": "3491087",
@@ -3519,14 +3669,15 @@ const CHECKLIST_VEICULAR_DATA = [
     "Condutor": "Tiago Louzada ",
     "Data Hora": "18/02/2026 13:05",
     "VIDEOTELEMTRIA": "SIM",
-    "Itens Danificados": NaN,
+    "Itens Danificados": null,
     "Estado de Criticidade Veículo": "Leve(Liberado)",
     "Observacoes": "Sem avaria",
     "ID COLABORADOR": "5",
     "ID DO AVALIADOR(A)": "278000",
     "Abrir Os": "NÃO",
-    "Os": NaN,
-    "Abrir Os ": "NÃO"
+    "Os": null,
+    "Abrir Os ": "NÃO",
+    "Unnamed: 21": null
   },
   {
     "ID": "3491088",
@@ -3543,14 +3694,15 @@ const CHECKLIST_VEICULAR_DATA = [
     "Condutor": "Rafael César Ferreira ",
     "Data Hora": "18/02/2026 13:44",
     "VIDEOTELEMTRIA": "NÃO",
-    "Itens Danificados": NaN,
+    "Itens Danificados": null,
     "Estado de Criticidade Veículo": "Leve(Liberado)",
     "Observacoes": "Sem avaria.",
-    "ID COLABORADOR": NaN,
+    "ID COLABORADOR": null,
     "ID DO AVALIADOR(A)": "271640",
     "Abrir Os": "NÃO",
-    "Os": NaN,
-    "Abrir Os ": "NÃO"
+    "Os": null,
+    "Abrir Os ": "NÃO",
+    "Unnamed: 21": null
   },
   {
     "ID": "3491089",
@@ -3567,14 +3719,15 @@ const CHECKLIST_VEICULAR_DATA = [
     "Condutor": "Alessandro da Silva ",
     "Data Hora": "18/02/2026 14:33",
     "VIDEOTELEMTRIA": "SIM",
-    "Itens Danificados": NaN,
+    "Itens Danificados": null,
     "Estado de Criticidade Veículo": "Leve(Liberado)",
     "Observacoes": "Sem avaria.",
     "ID COLABORADOR": "262010",
     "ID DO AVALIADOR(A)": "272640",
     "Abrir Os": "NÃO",
-    "Os": NaN,
-    "Abrir Os ": "NÃO"
+    "Os": null,
+    "Abrir Os ": "NÃO",
+    "Unnamed: 21": null
   },
   {
     "ID": "3491090",
@@ -3591,14 +3744,15 @@ const CHECKLIST_VEICULAR_DATA = [
     "Condutor": "Claudemir Teodoro de Toledo",
     "Data Hora": "18/02/2026 15:58",
     "VIDEOTELEMTRIA": "SIM",
-    "Itens Danificados": NaN,
+    "Itens Danificados": null,
     "Estado de Criticidade Veículo": "Leve(Liberado)",
     "Observacoes": "Sem avaria.",
     "ID COLABORADOR": "48902",
     "ID DO AVALIADOR(A)": "272640",
     "Abrir Os": "NÃO",
-    "Os": NaN,
-    "Abrir Os ": "NÃO"
+    "Os": null,
+    "Abrir Os ": "NÃO",
+    "Unnamed: 21": null
   },
   {
     "ID": "3492683",
@@ -3615,14 +3769,15 @@ const CHECKLIST_VEICULAR_DATA = [
     "Condutor": "Admir Xavier Cotrim ",
     "Data Hora": "19/02/2026 08:53",
     "VIDEOTELEMTRIA": "SIM",
-    "Itens Danificados": NaN,
+    "Itens Danificados": null,
     "Estado de Criticidade Veículo": "Moderado(Condutor notificado)",
     "Observacoes": "Amassado na porta do passageiro ",
     "ID COLABORADOR": "278000",
     "ID DO AVALIADOR(A)": "112150",
     "Abrir Os": "SIM",
     "Os": "713684",
-    "Abrir Os ": "SIM"
+    "Abrir Os ": "SIM",
+    "Unnamed: 21": null
   },
   {
     "ID": "3492684",
@@ -3639,14 +3794,15 @@ const CHECKLIST_VEICULAR_DATA = [
     "Condutor": "Rodrigo Vieira Ignácio ",
     "Data Hora": "19/02/2026 09:03",
     "VIDEOTELEMTRIA": "SIM",
-    "Itens Danificados": NaN,
+    "Itens Danificados": null,
     "Estado de Criticidade Veículo": "Moderado(Condutor notificado)",
     "Observacoes": "Luz da placa (quebrada)Não teve abertura de O.S",
     "ID COLABORADOR": "278000",
     "ID DO AVALIADOR(A)": "22586",
     "Abrir Os": "NÃO",
-    "Os": NaN,
-    "Abrir Os ": "NÃO"
+    "Os": null,
+    "Abrir Os ": "NÃO",
+    "Unnamed: 21": null
   },
   {
     "ID": "3492685",
@@ -3663,14 +3819,15 @@ const CHECKLIST_VEICULAR_DATA = [
     "Condutor": "Rodrigo Vieira Ignácio ",
     "Data Hora": "19/02/2026 13:43",
     "VIDEOTELEMTRIA": "SIM",
-    "Itens Danificados": NaN,
+    "Itens Danificados": null,
     "Estado de Criticidade Veículo": "Leve(Liberado)",
     "Observacoes": "Checklist  pós manutenção: Concluído ",
     "ID COLABORADOR": "278000",
     "ID DO AVALIADOR(A)": "272640",
     "Abrir Os": "NÃO",
-    "Os": NaN,
-    "Abrir Os ": "NÃO"
+    "Os": null,
+    "Abrir Os ": "NÃO",
+    "Unnamed: 21": null
   },
   {
     "ID": "3492686",
@@ -3687,14 +3844,15 @@ const CHECKLIST_VEICULAR_DATA = [
     "Condutor": "Pedro Henrique Andreoli ",
     "Data Hora": "19/02/2026 13:48",
     "VIDEOTELEMTRIA": "SIM",
-    "Itens Danificados": NaN,
+    "Itens Danificados": null,
     "Estado de Criticidade Veículo": "Moderado(Condutor notificado)",
     "Observacoes": "Esguicho traseiro (aguardando peça de fornecedor)",
     "ID COLABORADOR": "279670",
     "ID DO AVALIADOR(A)": "278000",
     "Abrir Os": "SIM",
-    "Os": NaN,
-    "Abrir Os ": "SIM"
+    "Os": null,
+    "Abrir Os ": "SIM",
+    "Unnamed: 21": null
   },
   {
     "ID": "3492687",
@@ -3711,14 +3869,15 @@ const CHECKLIST_VEICULAR_DATA = [
     "Condutor": "Daiany Cândido da Silva ",
     "Data Hora": "19/02/2026 14:00",
     "VIDEOTELEMTRIA": "SIM",
-    "Itens Danificados": NaN,
+    "Itens Danificados": null,
     "Estado de Criticidade Veículo": "Leve(Liberado)",
     "Observacoes": "Sem avaria.",
     "ID COLABORADOR": "250690",
     "ID DO AVALIADOR(A)": "272640",
     "Abrir Os": "NÃO",
-    "Os": NaN,
-    "Abrir Os ": "NÃO"
+    "Os": null,
+    "Abrir Os ": "NÃO",
+    "Unnamed: 21": null
   },
   {
     "ID": "3492688",
@@ -3735,14 +3894,15 @@ const CHECKLIST_VEICULAR_DATA = [
     "Condutor": "Marcos Alexandre Baffi",
     "Data Hora": "19/02/2026 15:23",
     "VIDEOTELEMTRIA": "SIM",
-    "Itens Danificados": NaN,
+    "Itens Danificados": null,
     "Estado de Criticidade Veículo": "Leve(Liberado)",
     "Observacoes": "Sem avaria.",
     "ID COLABORADOR": "207302",
     "ID DO AVALIADOR(A)": "272640",
     "Abrir Os": "NÃO",
-    "Os": NaN,
-    "Abrir Os ": "NÃO"
+    "Os": null,
+    "Abrir Os ": "NÃO",
+    "Unnamed: 21": null
   },
   {
     "ID": "3498582",
@@ -3759,14 +3919,15 @@ const CHECKLIST_VEICULAR_DATA = [
     "Condutor": "Jussara Soares de Souza ",
     "Data Hora": "20/02/2026 08:03",
     "VIDEOTELEMTRIA": "SIM",
-    "Itens Danificados": NaN,
+    "Itens Danificados": null,
     "Estado de Criticidade Veículo": "Leve(Liberado)",
     "Observacoes": "Checklist pós manutenção: Concluído",
     "ID COLABORADOR": "272640",
     "ID DO AVALIADOR(A)": "272640",
     "Abrir Os": "NÃO",
-    "Os": NaN,
-    "Abrir Os ": "NÃO"
+    "Os": null,
+    "Abrir Os ": "NÃO",
+    "Unnamed: 21": null
   },
   {
     "ID": "3498583",
@@ -3783,14 +3944,15 @@ const CHECKLIST_VEICULAR_DATA = [
     "Condutor": "Gerson Pereira Porto",
     "Data Hora": "20/02/2026 08:08",
     "VIDEOTELEMTRIA": "SIM",
-    "Itens Danificados": NaN,
+    "Itens Danificados": null,
     "Estado de Criticidade Veículo": "Leve(Liberado)",
     "Observacoes": "Sem avaria.",
     "ID COLABORADOR": "41464",
     "ID DO AVALIADOR(A)": "272640",
     "Abrir Os": "NÃO",
-    "Os": NaN,
-    "Abrir Os ": "NÃO"
+    "Os": null,
+    "Abrir Os ": "NÃO",
+    "Unnamed: 21": null
   },
   {
     "ID": "3498584",
@@ -3807,14 +3969,15 @@ const CHECKLIST_VEICULAR_DATA = [
     "Condutor": "Reginaldo Fernando Mantovani ",
     "Data Hora": "20/02/2026 09:03",
     "VIDEOTELEMTRIA": "NÃO",
-    "Itens Danificados": NaN,
+    "Itens Danificados": null,
     "Estado de Criticidade Veículo": "Leve(Liberado)",
     "Observacoes": "Sem avaria.",
     "ID COLABORADOR": "260910",
     "ID DO AVALIADOR(A)": "272640",
     "Abrir Os": "NÃO",
-    "Os": NaN,
-    "Abrir Os ": "NÃO"
+    "Os": null,
+    "Abrir Os ": "NÃO",
+    "Unnamed: 21": null
   },
   {
     "ID": "3498585",
@@ -3831,14 +3994,15 @@ const CHECKLIST_VEICULAR_DATA = [
     "Condutor": "Alessandro da Silva ",
     "Data Hora": "20/02/2026 09:43",
     "VIDEOTELEMTRIA": "SIM",
-    "Itens Danificados": NaN,
+    "Itens Danificados": null,
     "Estado de Criticidade Veículo": "Leve(Liberado)",
     "Observacoes": "Checklist pós manutenção: Concluído ",
-    "ID COLABORADOR": NaN,
+    "ID COLABORADOR": null,
     "ID DO AVALIADOR(A)": "278000",
     "Abrir Os": "NÃO",
-    "Os": NaN,
-    "Abrir Os ": "NÃO"
+    "Os": null,
+    "Abrir Os ": "NÃO",
+    "Unnamed: 21": null
   },
   {
     "ID": "3498586",
@@ -3855,14 +4019,15 @@ const CHECKLIST_VEICULAR_DATA = [
     "Condutor": "Fernando Feltrin de Matos ",
     "Data Hora": "20/02/2026 10:30",
     "VIDEOTELEMTRIA": "SIM",
-    "Itens Danificados": NaN,
+    "Itens Danificados": null,
     "Estado de Criticidade Veículo": "Leve(Liberado)",
     "Observacoes": "Sem avaria.",
     "ID COLABORADOR": "127942",
     "ID DO AVALIADOR(A)": "278000",
     "Abrir Os": "NÃO",
-    "Os": NaN,
-    "Abrir Os ": "NÃO"
+    "Os": null,
+    "Abrir Os ": "NÃO",
+    "Unnamed: 21": null
   },
   {
     "ID": "3498587",
@@ -3879,14 +4044,15 @@ const CHECKLIST_VEICULAR_DATA = [
     "Condutor": "Jussara Soares de Souza ",
     "Data Hora": "20/02/2026 11:37",
     "VIDEOTELEMTRIA": "SIM",
-    "Itens Danificados": NaN,
+    "Itens Danificados": null,
     "Estado de Criticidade Veículo": "Leve(Liberado)",
     "Observacoes": "Sem avaria ",
     "ID COLABORADOR": "272640",
     "ID DO AVALIADOR(A)": "278000",
     "Abrir Os": "NÃO",
-    "Os": NaN,
-    "Abrir Os ": "NÃO"
+    "Os": null,
+    "Abrir Os ": "NÃO",
+    "Unnamed: 21": null
   },
   {
     "ID": "3498588",
@@ -3903,14 +4069,15 @@ const CHECKLIST_VEICULAR_DATA = [
     "Condutor": "Sebastião Barbosa ",
     "Data Hora": "20/02/2026 12:55",
     "VIDEOTELEMTRIA": "SIM",
-    "Itens Danificados": NaN,
+    "Itens Danificados": null,
     "Estado de Criticidade Veículo": "Leve(Liberado)",
     "Observacoes": "Checklist pós manutenção: Concluído ",
     "ID COLABORADOR": "187823",
     "ID DO AVALIADOR(A)": "278000",
     "Abrir Os": "NÃO",
-    "Os": NaN,
-    "Abrir Os ": "NÃO"
+    "Os": null,
+    "Abrir Os ": "NÃO",
+    "Unnamed: 21": null
   },
   {
     "ID": "3498589",
@@ -3927,14 +4094,15 @@ const CHECKLIST_VEICULAR_DATA = [
     "Condutor": "Marcos Alexandre Baffi",
     "Data Hora": "20/02/2026 15:23",
     "VIDEOTELEMTRIA": "NÃO",
-    "Itens Danificados": NaN,
+    "Itens Danificados": null,
     "Estado de Criticidade Veículo": "Leve(Liberado)",
     "Observacoes": "Sem avaria.",
     "ID COLABORADOR": "207032",
     "ID DO AVALIADOR(A)": "272640",
     "Abrir Os": "NÃO",
-    "Os": NaN,
-    "Abrir Os ": "NÃO"
+    "Os": null,
+    "Abrir Os ": "NÃO",
+    "Unnamed: 21": null
   },
   {
     "ID": "3498590",
@@ -3951,14 +4119,15 @@ const CHECKLIST_VEICULAR_DATA = [
     "Condutor": "Jussara Soares de Souza ",
     "Data Hora": "23/02/2026 07:19",
     "VIDEOTELEMTRIA": "SIM",
-    "Itens Danificados": NaN,
+    "Itens Danificados": null,
     "Estado de Criticidade Veículo": "Leve(Liberado)",
     "Observacoes": "Sem avaria.",
     "ID COLABORADOR": "272640",
     "ID DO AVALIADOR(A)": "272640",
     "Abrir Os": "NÃO",
-    "Os": NaN,
-    "Abrir Os ": "NÃO"
+    "Os": null,
+    "Abrir Os ": "NÃO",
+    "Unnamed: 21": null
   },
   {
     "ID": "3498591",
@@ -3975,14 +4144,15 @@ const CHECKLIST_VEICULAR_DATA = [
     "Condutor": "Luiz Alfredo de Souza ",
     "Data Hora": "23/02/2026 07:21",
     "VIDEOTELEMTRIA": "SIM",
-    "Itens Danificados": NaN,
+    "Itens Danificados": null,
     "Estado de Criticidade Veículo": "Leve(Liberado)",
     "Observacoes": "Sem avaria.",
     "ID COLABORADOR": "5423",
     "ID DO AVALIADOR(A)": "272640",
     "Abrir Os": "NÃO",
-    "Os": NaN,
-    "Abrir Os ": "NÃO"
+    "Os": null,
+    "Abrir Os ": "NÃO",
+    "Unnamed: 21": null
   },
   {
     "ID": "3498592",
@@ -3999,14 +4169,15 @@ const CHECKLIST_VEICULAR_DATA = [
     "Condutor": "Ruan de Freitas Dias ",
     "Data Hora": "23/02/2026 07:40",
     "VIDEOTELEMTRIA": "SIM",
-    "Itens Danificados": NaN,
+    "Itens Danificados": null,
     "Estado de Criticidade Veículo": "Leve(Liberado)",
     "Observacoes": "Sem avaria.",
     "ID COLABORADOR": "273990",
     "ID DO AVALIADOR(A)": "272640",
     "Abrir Os": "NÃO",
-    "Os": NaN,
-    "Abrir Os ": "NÃO"
+    "Os": null,
+    "Abrir Os ": "NÃO",
+    "Unnamed: 21": null
   },
   {
     "ID": "3498593",
@@ -4023,14 +4194,15 @@ const CHECKLIST_VEICULAR_DATA = [
     "Condutor": "Karina Lopes Marinho da Silva ",
     "Data Hora": "23/02/2026 08:41",
     "VIDEOTELEMTRIA": "SIM",
-    "Itens Danificados": NaN,
+    "Itens Danificados": null,
     "Estado de Criticidade Veículo": "Leve(Liberado)",
-    "Observacoes": NaN,
+    "Observacoes": null,
     "ID COLABORADOR": "275300",
     "ID DO AVALIADOR(A)": "272640",
     "Abrir Os": "NÃO",
-    "Os": NaN,
-    "Abrir Os ": "NÃO"
+    "Os": null,
+    "Abrir Os ": "NÃO",
+    "Unnamed: 21": null
   },
   {
     "ID": "3498594",
@@ -4047,14 +4219,15 @@ const CHECKLIST_VEICULAR_DATA = [
     "Condutor": "Gilmar Rebouças ",
     "Data Hora": "23/02/2026 09:23",
     "VIDEOTELEMTRIA": "NÃO",
-    "Itens Danificados": NaN,
+    "Itens Danificados": null,
     "Estado de Criticidade Veículo": "Leve(Liberado)",
     "Observacoes": "Sem avaria.",
-    "ID COLABORADOR": NaN,
+    "ID COLABORADOR": null,
     "ID DO AVALIADOR(A)": "272640",
     "Abrir Os": "NÃO",
-    "Os": NaN,
-    "Abrir Os ": "NÃO"
+    "Os": null,
+    "Abrir Os ": "NÃO",
+    "Unnamed: 21": null
   },
   {
     "ID": "3498595",
@@ -4071,14 +4244,15 @@ const CHECKLIST_VEICULAR_DATA = [
     "Condutor": "Fabio Junio Ferreira Barboza ",
     "Data Hora": "23/02/2026 09:56",
     "VIDEOTELEMTRIA": "SIM",
-    "Itens Danificados": NaN,
+    "Itens Danificados": null,
     "Estado de Criticidade Veículo": "Leve(Liberado)",
     "Observacoes": "Sem avaria.",
     "ID COLABORADOR": "189200",
     "ID DO AVALIADOR(A)": "272640",
     "Abrir Os": "NÃO",
-    "Os": NaN,
-    "Abrir Os ": "NÃO"
+    "Os": null,
+    "Abrir Os ": "NÃO",
+    "Unnamed: 21": null
   },
   {
     "ID": "3498596",
@@ -4095,14 +4269,15 @@ const CHECKLIST_VEICULAR_DATA = [
     "Condutor": "Daiany Cândido da Silva ",
     "Data Hora": "23/02/2026 12:58",
     "VIDEOTELEMTRIA": "SIM",
-    "Itens Danificados": NaN,
+    "Itens Danificados": null,
     "Estado de Criticidade Veículo": "Moderado(Condutor notificado)",
     "Observacoes": "Porta malas (nao abre)",
     "ID COLABORADOR": "250690",
     "ID DO AVALIADOR(A)": "272640",
     "Abrir Os": "SIM",
-    "Os": NaN,
-    "Abrir Os ": "SIM"
+    "Os": null,
+    "Abrir Os ": "SIM",
+    "Unnamed: 21": null
   },
   {
     "ID": "3498597",
@@ -4119,14 +4294,15 @@ const CHECKLIST_VEICULAR_DATA = [
     "Condutor": "Onofre Evangelista da Silva Junior ",
     "Data Hora": "23/02/2026 13:03",
     "VIDEOTELEMTRIA": "SIM",
-    "Itens Danificados": NaN,
+    "Itens Danificados": null,
     "Estado de Criticidade Veículo": "Leve(Liberado)",
     "Observacoes": "Sem avaria.",
     "ID COLABORADOR": "163363",
     "ID DO AVALIADOR(A)": "272640",
     "Abrir Os": "NÃO",
-    "Os": NaN,
-    "Abrir Os ": "NÃO"
+    "Os": null,
+    "Abrir Os ": "NÃO",
+    "Unnamed: 21": null
   },
   {
     "ID": "3498598",
@@ -4143,14 +4319,15 @@ const CHECKLIST_VEICULAR_DATA = [
     "Condutor": "Murilo ",
     "Data Hora": "23/02/2026 13:36",
     "VIDEOTELEMTRIA": "SIM",
-    "Itens Danificados": NaN,
+    "Itens Danificados": null,
     "Estado de Criticidade Veículo": "Leve(Liberado)",
     "Observacoes": "Sem avaria.",
     "ID COLABORADOR": "278680",
     "ID DO AVALIADOR(A)": "272640 ",
     "Abrir Os": "NÃO",
-    "Os": NaN,
-    "Abrir Os ": "NÃO"
+    "Os": null,
+    "Abrir Os ": "NÃO",
+    "Unnamed: 21": null
   },
   {
     "ID": "3498599",
@@ -4167,14 +4344,15 @@ const CHECKLIST_VEICULAR_DATA = [
     "Condutor": "Antonio Marcos Ribeiro Ruas ",
     "Data Hora": "23/02/2026 13:38",
     "VIDEOTELEMTRIA": "NÃO",
-    "Itens Danificados": NaN,
+    "Itens Danificados": null,
     "Estado de Criticidade Veículo": "Leve(Liberado)",
     "Observacoes": "Sem avaria.",
     "ID COLABORADOR": "183702",
     "ID DO AVALIADOR(A)": "272640",
     "Abrir Os": "NÃO",
-    "Os": NaN,
-    "Abrir Os ": "NÃO"
+    "Os": null,
+    "Abrir Os ": "NÃO",
+    "Unnamed: 21": null
   },
   {
     "ID": "3502342",
@@ -4191,14 +4369,15 @@ const CHECKLIST_VEICULAR_DATA = [
     "Condutor": "Fábio Donisete dos Santos ",
     "Data Hora": "23/02/2026 15:04",
     "VIDEOTELEMTRIA": "SIM",
-    "Itens Danificados": NaN,
+    "Itens Danificados": null,
     "Estado de Criticidade Veículo": "Moderado(Condutor notificado)",
     "Observacoes": "Amassado no teto Alavanca do banco passageiro (quebrada)",
     "ID COLABORADOR": "266070",
     "ID DO AVALIADOR(A)": "272640",
     "Abrir Os": "SIM",
     "Os": "714309",
-    "Abrir Os ": "SIM"
+    "Abrir Os ": "SIM",
+    "Unnamed: 21": null
   },
   {
     "ID": "3502343",
@@ -4215,14 +4394,15 @@ const CHECKLIST_VEICULAR_DATA = [
     "Condutor": "Alessandro da Silva",
     "Data Hora": "24/02/2026 08:31",
     "VIDEOTELEMTRIA": "SIM",
-    "Itens Danificados": NaN,
+    "Itens Danificados": null,
     "Estado de Criticidade Veículo": "Leve(Liberado)",
     "Observacoes": "Checklist pós manutenção: Concluído.",
     "ID COLABORADOR": "262010",
     "ID DO AVALIADOR(A)": "272640",
     "Abrir Os": "NÃO",
-    "Os": NaN,
-    "Abrir Os ": "NÃO"
+    "Os": null,
+    "Abrir Os ": "NÃO",
+    "Unnamed: 21": null
   },
   {
     "ID": "3502344",
@@ -4239,14 +4419,15 @@ const CHECKLIST_VEICULAR_DATA = [
     "Condutor": "Jussara Soares de Souza ",
     "Data Hora": "24/02/2026 10:00",
     "VIDEOTELEMTRIA": "SIM",
-    "Itens Danificados": NaN,
+    "Itens Danificados": null,
     "Estado de Criticidade Veículo": "Leve(Liberado)",
     "Observacoes": "Sem avaria.",
     "ID COLABORADOR": "272640",
     "ID DO AVALIADOR(A)": "272640",
     "Abrir Os": "NÃO",
-    "Os": NaN,
-    "Abrir Os ": "NÃO"
+    "Os": null,
+    "Abrir Os ": "NÃO",
+    "Unnamed: 21": null
   },
   {
     "ID": "3502345",
@@ -4263,14 +4444,15 @@ const CHECKLIST_VEICULAR_DATA = [
     "Condutor": "Gabriel Soares Mendes Dias ",
     "Data Hora": "24/02/2026 10:12",
     "VIDEOTELEMTRIA": "SIM",
-    "Itens Danificados": NaN,
+    "Itens Danificados": null,
     "Estado de Criticidade Veículo": "Leve(Liberado)",
     "Observacoes": "Checklist pós manutenção: Concluído ",
-    "ID COLABORADOR": NaN,
+    "ID COLABORADOR": null,
     "ID DO AVALIADOR(A)": "272640",
     "Abrir Os": "NÃO",
-    "Os": NaN,
-    "Abrir Os ": "NÃO"
+    "Os": null,
+    "Abrir Os ": "NÃO",
+    "Unnamed: 21": null
   },
   {
     "ID": "3502346",
@@ -4287,14 +4469,15 @@ const CHECKLIST_VEICULAR_DATA = [
     "Condutor": "Pedro Augusto Silva ",
     "Data Hora": "25/02/2026 08:54",
     "VIDEOTELEMTRIA": "SIM",
-    "Itens Danificados": NaN,
+    "Itens Danificados": null,
     "Estado de Criticidade Veículo": "Leve(Liberado)",
     "Observacoes": "Sem avaria.",
     "ID COLABORADOR": "270270",
     "ID DO AVALIADOR(A)": "272640",
     "Abrir Os": "NÃO",
-    "Os": NaN,
-    "Abrir Os ": "NÃO"
+    "Os": null,
+    "Abrir Os ": "NÃO",
+    "Unnamed: 21": null
   },
   {
     "ID": "3502347",
@@ -4311,14 +4494,15 @@ const CHECKLIST_VEICULAR_DATA = [
     "Condutor": "Marco Ferreira dos Santos ",
     "Data Hora": "25/02/2026 09:04",
     "VIDEOTELEMTRIA": "SIM",
-    "Itens Danificados": NaN,
+    "Itens Danificados": null,
     "Estado de Criticidade Veículo": "Leve(Liberado)",
     "Observacoes": "Sem avaria.",
     "ID COLABORADOR": "115782",
     "ID DO AVALIADOR(A)": "278000",
     "Abrir Os": "NÃO",
-    "Os": NaN,
-    "Abrir Os ": "NÃO"
+    "Os": null,
+    "Abrir Os ": "NÃO",
+    "Unnamed: 21": null
   },
   {
     "ID": "3502348",
@@ -4335,14 +4519,15 @@ const CHECKLIST_VEICULAR_DATA = [
     "Condutor": "Alex Rodrigo Bueno ",
     "Data Hora": "25/02/2026 10:26",
     "VIDEOTELEMTRIA": "NÃO",
-    "Itens Danificados": NaN,
+    "Itens Danificados": null,
     "Estado de Criticidade Veículo": "Leve(Liberado)",
     "Observacoes": "Sem avaria.",
     "ID COLABORADOR": "276550",
     "ID DO AVALIADOR(A)": "272640",
     "Abrir Os": "NÃO",
-    "Os": NaN,
-    "Abrir Os ": "NÃO"
+    "Os": null,
+    "Abrir Os ": "NÃO",
+    "Unnamed: 21": null
   },
   {
     "ID": "3502349",
@@ -4359,14 +4544,15 @@ const CHECKLIST_VEICULAR_DATA = [
     "Condutor": "João Jesus Ferreira ",
     "Data Hora": "25/02/2026 10:30",
     "VIDEOTELEMTRIA": "SIM",
-    "Itens Danificados": NaN,
+    "Itens Danificados": null,
     "Estado de Criticidade Veículo": "Leve(Liberado)",
     "Observacoes": "Sem avaria.",
     "ID COLABORADOR": "179103",
     "ID DO AVALIADOR(A)": "272640",
     "Abrir Os": "NÃO",
-    "Os": NaN,
-    "Abrir Os ": "NÃO"
+    "Os": null,
+    "Abrir Os ": "NÃO",
+    "Unnamed: 21": null
   },
   {
     "ID": "3502350",
@@ -4383,14 +4569,15 @@ const CHECKLIST_VEICULAR_DATA = [
     "Condutor": "Emerson Cândido Coelho ",
     "Data Hora": "25/02/2026 10:35",
     "VIDEOTELEMTRIA": "SIM",
-    "Itens Danificados": NaN,
+    "Itens Danificados": null,
     "Estado de Criticidade Veículo": "Moderado(Condutor notificado)",
     "Observacoes": "Tampa traseira (amassado)Moldura da tampa traseira (Danificada)",
     "ID COLABORADOR": "230880",
     "ID DO AVALIADOR(A)": "272640",
     "Abrir Os": "SIM",
     "Os": "714433",
-    "Abrir Os ": "SIM"
+    "Abrir Os ": "SIM",
+    "Unnamed: 21": null
   },
   {
     "ID": "3502351",
@@ -4407,14 +4594,15 @@ const CHECKLIST_VEICULAR_DATA = [
     "Condutor": "Alessandro da Silva",
     "Data Hora": "25/02/2026 13:17",
     "VIDEOTELEMTRIA": "SIM",
-    "Itens Danificados": NaN,
+    "Itens Danificados": null,
     "Estado de Criticidade Veículo": "Leve(Liberado)",
     "Observacoes": "Sem avaria.",
     "ID COLABORADOR": "262010",
     "ID DO AVALIADOR(A)": "278000",
     "Abrir Os": "NÃO",
-    "Os": NaN,
-    "Abrir Os ": "NÃO"
+    "Os": null,
+    "Abrir Os ": "NÃO",
+    "Unnamed: 21": null
   },
   {
     "ID": "3504635",
@@ -4437,8 +4625,9 @@ const CHECKLIST_VEICULAR_DATA = [
     "ID COLABORADOR": "157958",
     "ID DO AVALIADOR(A)": "272640",
     "Abrir Os": "SIM",
-    "Os": NaN,
-    "Abrir Os ": "SIM"
+    "Os": null,
+    "Abrir Os ": "SIM",
+    "Unnamed: 21": null
   },
   {
     "ID": "3504636",
@@ -4455,14 +4644,15 @@ const CHECKLIST_VEICULAR_DATA = [
     "Condutor": "Alessandro da Silva ",
     "Data Hora": "26/02/2026 10:07",
     "VIDEOTELEMTRIA": "SIM",
-    "Itens Danificados": NaN,
+    "Itens Danificados": null,
     "Estado de Criticidade Veículo": "Leve(Liberado)",
     "Observacoes": "Sem avaria.",
     "ID COLABORADOR": "262010",
     "ID DO AVALIADOR(A)": "278000",
     "Abrir Os": "NÃO",
-    "Os": NaN,
-    "Abrir Os ": "NÃO"
+    "Os": null,
+    "Abrir Os ": "NÃO",
+    "Unnamed: 21": null
   },
   {
     "ID": "3504637",
@@ -4479,14 +4669,15 @@ const CHECKLIST_VEICULAR_DATA = [
     "Condutor": "Jussara Soares de Souza ",
     "Data Hora": "26/02/2026 11:24",
     "VIDEOTELEMTRIA": "NÃO",
-    "Itens Danificados": NaN,
+    "Itens Danificados": null,
     "Estado de Criticidade Veículo": "Leve(Liberado)",
     "Observacoes": "Sem avaria.",
     "ID COLABORADOR": "272640",
     "ID DO AVALIADOR(A)": "278000",
     "Abrir Os": "NÃO",
-    "Os": NaN,
-    "Abrir Os ": "NÃO"
+    "Os": null,
+    "Abrir Os ": "NÃO",
+    "Unnamed: 21": null
   },
   {
     "ID": "3504638",
@@ -4503,14 +4694,15 @@ const CHECKLIST_VEICULAR_DATA = [
     "Condutor": "Geovane de Azevedo Dias ",
     "Data Hora": "26/02/2026 12:34",
     "VIDEOTELEMTRIA": "SIM",
-    "Itens Danificados": NaN,
+    "Itens Danificados": null,
     "Estado de Criticidade Veículo": "Leve(Liberado)",
     "Observacoes": "Sem avaria.",
     "ID COLABORADOR": "183313",
     "ID DO AVALIADOR(A)": "272640",
     "Abrir Os": "NÃO",
-    "Os": NaN,
-    "Abrir Os ": "NÃO"
+    "Os": null,
+    "Abrir Os ": "NÃO",
+    "Unnamed: 21": null
   },
   {
     "ID": "3504640",
@@ -4527,14 +4719,15 @@ const CHECKLIST_VEICULAR_DATA = [
     "Condutor": "Jhonnes Alves Moura ",
     "Data Hora": "26/02/2026 15:30",
     "VIDEOTELEMTRIA": "SIM",
-    "Itens Danificados": NaN,
+    "Itens Danificados": null,
     "Estado de Criticidade Veículo": "Leve(Liberado)",
-    "Observacoes": NaN,
+    "Observacoes": null,
     "ID COLABORADOR": "212301",
     "ID DO AVALIADOR(A)": "272640",
     "Abrir Os": "NÃO",
-    "Os": NaN,
-    "Abrir Os ": "NÃO"
+    "Os": null,
+    "Abrir Os ": "NÃO",
+    "Unnamed: 21": null
   },
   {
     "ID": "3504641",
@@ -4551,14 +4744,15 @@ const CHECKLIST_VEICULAR_DATA = [
     "Condutor": "Anderson Ricardo Ruaro ",
     "Data Hora": "26/02/2026 16:10",
     "VIDEOTELEMTRIA": "SIM",
-    "Itens Danificados": NaN,
+    "Itens Danificados": null,
     "Estado de Criticidade Veículo": "Leve(Liberado)",
     "Observacoes": "Sem avaria.",
     "ID COLABORADOR": "168907",
     "ID DO AVALIADOR(A)": "272640",
     "Abrir Os": "NÃO",
-    "Os": NaN,
-    "Abrir Os ": "NÃO"
+    "Os": null,
+    "Abrir Os ": "NÃO",
+    "Unnamed: 21": null
   },
   {
     "ID": "3506465",
@@ -4575,14 +4769,15 @@ const CHECKLIST_VEICULAR_DATA = [
     "Condutor": "Fernando Feltrin de Matos ",
     "Data Hora": "27/02/2026 07:28",
     "VIDEOTELEMTRIA": "SIM",
-    "Itens Danificados": NaN,
+    "Itens Danificados": null,
     "Estado de Criticidade Veículo": "Leve(Liberado)",
     "Observacoes": "Sem avaria.",
     "ID COLABORADOR": "127412",
     "ID DO AVALIADOR(A)": "278000",
     "Abrir Os": "NÃO",
-    "Os": NaN,
-    "Abrir Os ": "NÃO"
+    "Os": null,
+    "Abrir Os ": "NÃO",
+    "Unnamed: 21": null
   },
   {
     "ID": "3506466",
@@ -4599,14 +4794,15 @@ const CHECKLIST_VEICULAR_DATA = [
     "Condutor": "Daniel Ferreira da Cruz Filho",
     "Data Hora": "27/02/2026 16:26",
     "VIDEOTELEMTRIA": "SIM",
-    "Itens Danificados": NaN,
+    "Itens Danificados": null,
     "Estado de Criticidade Veículo": "Leve(Liberado)",
     "Observacoes": "Sem avaria.",
     "ID COLABORADOR": "96556",
     "ID DO AVALIADOR(A)": "272640",
     "Abrir Os": "NÃO",
-    "Os": NaN,
-    "Abrir Os ": "NÃO"
+    "Os": null,
+    "Abrir Os ": "NÃO",
+    "Unnamed: 21": null
   },
   {
     "ID": "3506467",
@@ -4623,14 +4819,15 @@ const CHECKLIST_VEICULAR_DATA = [
     "Condutor": "Ronildo Barbosa dos Santos ",
     "Data Hora": "27/02/2026 13:22",
     "VIDEOTELEMTRIA": "SIM",
-    "Itens Danificados": NaN,
+    "Itens Danificados": null,
     "Estado de Criticidade Veículo": "Leve(Liberado)",
     "Observacoes": "Sem avaria.",
     "ID COLABORADOR": "81103",
     "ID DO AVALIADOR(A)": "278000",
     "Abrir Os": "NÃO",
-    "Os": NaN,
-    "Abrir Os ": "NÃO"
+    "Os": null,
+    "Abrir Os ": "NÃO",
+    "Unnamed: 21": null
   },
   {
     "ID": "3506468",
@@ -4647,14 +4844,15 @@ const CHECKLIST_VEICULAR_DATA = [
     "Condutor": "João Jesus Ferreira ",
     "Data Hora": "27/02/2026 13:45",
     "VIDEOTELEMTRIA": "NÃO",
-    "Itens Danificados": NaN,
+    "Itens Danificados": null,
     "Estado de Criticidade Veículo": "Leve(Liberado)",
     "Observacoes": "Sem avaria.",
     "ID COLABORADOR": "179103",
     "ID DO AVALIADOR(A)": "278000",
     "Abrir Os": "NÃO",
-    "Os": NaN,
-    "Abrir Os ": "NÃO"
+    "Os": null,
+    "Abrir Os ": "NÃO",
+    "Unnamed: 21": null
   },
   {
     "ID": "3506469",
@@ -4671,14 +4869,15 @@ const CHECKLIST_VEICULAR_DATA = [
     "Condutor": "Alessandro da Silva ",
     "Data Hora": "27/02/2026 14:27",
     "VIDEOTELEMTRIA": "SIM",
-    "Itens Danificados": NaN,
+    "Itens Danificados": null,
     "Estado de Criticidade Veículo": "Leve(Liberado)",
     "Observacoes": "Sem avaria.",
     "ID COLABORADOR": "262010",
     "ID DO AVALIADOR(A)": "272640",
     "Abrir Os": "NÃO",
-    "Os": NaN,
-    "Abrir Os ": "NÃO"
+    "Os": null,
+    "Abrir Os ": "NÃO",
+    "Unnamed: 21": null
   },
   {
     "ID": "3506470",
@@ -4695,14 +4894,15 @@ const CHECKLIST_VEICULAR_DATA = [
     "Condutor": "João Jesus Ferreira ",
     "Data Hora": "27/02/2026 16:11",
     "VIDEOTELEMTRIA": "SIM",
-    "Itens Danificados": NaN,
+    "Itens Danificados": null,
     "Estado de Criticidade Veículo": "Leve(Liberado)",
     "Observacoes": "Sem avaria.",
     "ID COLABORADOR": "179103",
     "ID DO AVALIADOR(A)": "272640",
     "Abrir Os": "NÃO",
-    "Os": NaN,
-    "Abrir Os ": "NÃO"
+    "Os": null,
+    "Abrir Os ": "NÃO",
+    "Unnamed: 21": null
   },
   {
     "ID": "3506471",
@@ -4719,14 +4919,15 @@ const CHECKLIST_VEICULAR_DATA = [
     "Condutor": "João Jesus Ferreira ",
     "Data Hora": "27/02/2026 16:18",
     "VIDEOTELEMTRIA": "NÃO",
-    "Itens Danificados": NaN,
+    "Itens Danificados": null,
     "Estado de Criticidade Veículo": "Leve(Liberado)",
     "Observacoes": "Sem avaria.",
     "ID COLABORADOR": "179103",
     "ID DO AVALIADOR(A)": "272640",
     "Abrir Os": "NÃO",
-    "Os": NaN,
-    "Abrir Os ": "NÃO"
+    "Os": null,
+    "Abrir Os ": "NÃO",
+    "Unnamed: 21": null
   },
   {
     "ID": "3511844",
@@ -4743,14 +4944,15 @@ const CHECKLIST_VEICULAR_DATA = [
     "Condutor": "Leonardo Estenio Gallon Pinto ",
     "Data Hora": "02/03/2026 07:06",
     "VIDEOTELEMTRIA": "SIM",
-    "Itens Danificados": NaN,
+    "Itens Danificados": null,
     "Estado de Criticidade Veículo": "Leve(Liberado)",
     "Observacoes": "Sem avaria.",
     "ID COLABORADOR": "272430",
     "ID DO AVALIADOR(A)": "272640",
     "Abrir Os": "NÃO",
-    "Os": NaN,
-    "Abrir Os ": "NÃO"
+    "Os": null,
+    "Abrir Os ": "NÃO",
+    "Unnamed: 21": null
   },
   {
     "ID": "3511845",
@@ -4767,14 +4969,15 @@ const CHECKLIST_VEICULAR_DATA = [
     "Condutor": "William Roberto Dalla Costa ",
     "Data Hora": "02/03/2026 07:10",
     "VIDEOTELEMTRIA": "SIM",
-    "Itens Danificados": NaN,
+    "Itens Danificados": null,
     "Estado de Criticidade Veículo": "Leve(Liberado)",
     "Observacoes": "Sem avaria.",
     "ID COLABORADOR": "254120",
     "ID DO AVALIADOR(A)": "272640",
     "Abrir Os": "NÃO",
-    "Os": NaN,
-    "Abrir Os ": "NÃO"
+    "Os": null,
+    "Abrir Os ": "NÃO",
+    "Unnamed: 21": null
   },
   {
     "ID": "3511846",
@@ -4791,14 +4994,15 @@ const CHECKLIST_VEICULAR_DATA = [
     "Condutor": "César Fabiano Mineiro ",
     "Data Hora": "02/03/2026 08:20",
     "VIDEOTELEMTRIA": "SIM",
-    "Itens Danificados": NaN,
+    "Itens Danificados": null,
     "Estado de Criticidade Veículo": "Leve(Liberado)",
     "Observacoes": "Sem avaria.",
     "ID COLABORADOR": "2100",
     "ID DO AVALIADOR(A)": "272640",
     "Abrir Os": "NÃO",
-    "Os": NaN,
-    "Abrir Os ": "NÃO"
+    "Os": null,
+    "Abrir Os ": "NÃO",
+    "Unnamed: 21": null
   },
   {
     "ID": "3511847",
@@ -4815,14 +5019,15 @@ const CHECKLIST_VEICULAR_DATA = [
     "Condutor": "Luiz Manoel do Prado",
     "Data Hora": "02/03/2026 08:36",
     "VIDEOTELEMTRIA": "SIM",
-    "Itens Danificados": NaN,
+    "Itens Danificados": null,
     "Estado de Criticidade Veículo": "Leve(Liberado)",
     "Observacoes": "Sem avaria.",
     "ID COLABORADOR": "246100",
     "ID DO AVALIADOR(A)": "272640",
     "Abrir Os": "NÃO",
-    "Os": NaN,
-    "Abrir Os ": "NÃO"
+    "Os": null,
+    "Abrir Os ": "NÃO",
+    "Unnamed: 21": null
   },
   {
     "ID": "3511848",
@@ -4839,14 +5044,15 @@ const CHECKLIST_VEICULAR_DATA = [
     "Condutor": "Marcos Alexandre Baffi",
     "Data Hora": "02/03/2026 09:06",
     "VIDEOTELEMTRIA": "SIM",
-    "Itens Danificados": NaN,
+    "Itens Danificados": null,
     "Estado de Criticidade Veículo": "Leve(Liberado)",
     "Observacoes": "Sem avaria.",
     "ID COLABORADOR": "207032",
     "ID DO AVALIADOR(A)": "272640",
     "Abrir Os": "NÃO",
-    "Os": NaN,
-    "Abrir Os ": "NÃO"
+    "Os": null,
+    "Abrir Os ": "NÃO",
+    "Unnamed: 21": null
   },
   {
     "ID": "3511849",
@@ -4863,14 +5069,15 @@ const CHECKLIST_VEICULAR_DATA = [
     "Condutor": "Admir Xavier Cotrim ",
     "Data Hora": "02/03/2026 09:29",
     "VIDEOTELEMTRIA": "NÃO",
-    "Itens Danificados": NaN,
+    "Itens Danificados": null,
     "Estado de Criticidade Veículo": "Leve(Liberado)",
     "Observacoes": "Sem avaria.",
-    "ID COLABORADOR": NaN,
+    "ID COLABORADOR": null,
     "ID DO AVALIADOR(A)": "272640",
     "Abrir Os": "NÃO",
-    "Os": NaN,
-    "Abrir Os ": "NÃO"
+    "Os": null,
+    "Abrir Os ": "NÃO",
+    "Unnamed: 21": null
   },
   {
     "ID": "3511850",
@@ -4887,14 +5094,15 @@ const CHECKLIST_VEICULAR_DATA = [
     "Condutor": "João Viana de Oliveira ",
     "Data Hora": "02/03/2026 10:06",
     "VIDEOTELEMTRIA": "SIM",
-    "Itens Danificados": NaN,
+    "Itens Danificados": null,
     "Estado de Criticidade Veículo": "Leve(Liberado)",
     "Observacoes": "Sem avaria.",
     "ID COLABORADOR": "126627",
     "ID DO AVALIADOR(A)": "272640",
     "Abrir Os": "NÃO",
-    "Os": NaN,
-    "Abrir Os ": "NÃO"
+    "Os": null,
+    "Abrir Os ": "NÃO",
+    "Unnamed: 21": null
   },
   {
     "ID": "3511851",
@@ -4911,14 +5119,15 @@ const CHECKLIST_VEICULAR_DATA = [
     "Condutor": "Davi Freitas Ramos",
     "Data Hora": "02/03/2026 10:14",
     "VIDEOTELEMTRIA": "SIM",
-    "Itens Danificados": NaN,
+    "Itens Danificados": null,
     "Estado de Criticidade Veículo": "Leve(Liberado)",
     "Observacoes": "Sem avaria.",
     "ID COLABORADOR": "265970",
     "ID DO AVALIADOR(A)": "272740",
     "Abrir Os": "NÃO",
-    "Os": NaN,
-    "Abrir Os ": "NÃO"
+    "Os": null,
+    "Abrir Os ": "NÃO",
+    "Unnamed: 21": null
   },
   {
     "ID": "3511852",
@@ -4935,14 +5144,15 @@ const CHECKLIST_VEICULAR_DATA = [
     "Condutor": "Paulo da Silva Miranda ",
     "Data Hora": "02/03/2026 10:18",
     "VIDEOTELEMTRIA": "SIM",
-    "Itens Danificados": NaN,
+    "Itens Danificados": null,
     "Estado de Criticidade Veículo": "Leve(Liberado)",
     "Observacoes": "Sem avaria.",
     "ID COLABORADOR": "261590",
     "ID DO AVALIADOR(A)": "272640",
     "Abrir Os": "NÃO",
-    "Os": NaN,
-    "Abrir Os ": "NÃO"
+    "Os": null,
+    "Abrir Os ": "NÃO",
+    "Unnamed: 21": null
   },
   {
     "ID": "3511853",
@@ -4959,14 +5169,15 @@ const CHECKLIST_VEICULAR_DATA = [
     "Condutor": "Admir Xavier Cotrim ",
     "Data Hora": "02/03/2026 14:15",
     "VIDEOTELEMTRIA": "SIM",
-    "Itens Danificados": NaN,
+    "Itens Danificados": null,
     "Estado de Criticidade Veículo": "Moderado(Condutor notificado)",
     "Observacoes": "Funilaria amassado porta passageiro.(Obs.: aguardando disponibilidade mão de obra interna)",
     "ID COLABORADOR": "112150",
     "ID DO AVALIADOR(A)": "272640",
     "Abrir Os": "SIM",
     "Os": "713684",
-    "Abrir Os ": "SIM"
+    "Abrir Os ": "SIM",
+    "Unnamed: 21": null
   },
   {
     "ID": "3511854",
@@ -4983,14 +5194,15 @@ const CHECKLIST_VEICULAR_DATA = [
     "Condutor": "Redmar Luis Ferreira ",
     "Data Hora": "03/03/2026 07:52",
     "VIDEOTELEMTRIA": "NÃO",
-    "Itens Danificados": NaN,
+    "Itens Danificados": null,
     "Estado de Criticidade Veículo": "Leve(Liberado)",
     "Observacoes": "Sem avaria.",
-    "ID COLABORADOR": NaN,
+    "ID COLABORADOR": null,
     "ID DO AVALIADOR(A)": "278000",
     "Abrir Os": "NÃO",
-    "Os": NaN,
-    "Abrir Os ": "NÃO"
+    "Os": null,
+    "Abrir Os ": "NÃO",
+    "Unnamed: 21": null
   },
   {
     "ID": "3511855",
@@ -5007,14 +5219,15 @@ const CHECKLIST_VEICULAR_DATA = [
     "Condutor": "Gesley Aparecido Pereira ",
     "Data Hora": "03/03/2026 10:46",
     "VIDEOTELEMTRIA": "NÃO",
-    "Itens Danificados": NaN,
+    "Itens Danificados": null,
     "Estado de Criticidade Veículo": "Leve(Liberado)",
     "Observacoes": "Sem avaria.",
     "ID COLABORADOR": "246300",
     "ID DO AVALIADOR(A)": "272640",
     "Abrir Os": "NÃO",
-    "Os": NaN,
-    "Abrir Os ": "NÃO"
+    "Os": null,
+    "Abrir Os ": "NÃO",
+    "Unnamed: 21": null
   },
   {
     "ID": "3511856",
@@ -5031,14 +5244,15 @@ const CHECKLIST_VEICULAR_DATA = [
     "Condutor": "Tiago Damião Louzada ",
     "Data Hora": "03/03/2026 11:11",
     "VIDEOTELEMTRIA": "SIM",
-    "Itens Danificados": NaN,
+    "Itens Danificados": null,
     "Estado de Criticidade Veículo": "Leve(Liberado)",
     "Observacoes": "Sem avaria.",
     "ID COLABORADOR": "5",
     "ID DO AVALIADOR(A)": "272640",
     "Abrir Os": "NÃO",
-    "Os": NaN,
-    "Abrir Os ": "NÃO"
+    "Os": null,
+    "Abrir Os ": "NÃO",
+    "Unnamed: 21": null
   },
   {
     "ID": "3511857",
@@ -5062,7 +5276,8 @@ const CHECKLIST_VEICULAR_DATA = [
     "ID DO AVALIADOR(A)": "278000",
     "Abrir Os": "SIM",
     "Os": "711591",
-    "Abrir Os ": "SIM"
+    "Abrir Os ": "SIM",
+    "Unnamed: 21": null
   },
   {
     "ID": "3518242",
@@ -5079,14 +5294,15 @@ const CHECKLIST_VEICULAR_DATA = [
     "Condutor": "Vitor Carvalho Lima",
     "Data Hora": "03/03/2026 15:30",
     "VIDEOTELEMTRIA": "SIM",
-    "Itens Danificados": NaN,
+    "Itens Danificados": null,
     "Estado de Criticidade Veículo": "Leve(Liberado)",
     "Observacoes": "Sem avaria.",
     "ID COLABORADOR": "277470",
     "ID DO AVALIADOR(A)": "272640",
     "Abrir Os": "NÃO",
-    "Os": NaN,
-    "Abrir Os ": "NÃO"
+    "Os": null,
+    "Abrir Os ": "NÃO",
+    "Unnamed: 21": null
   },
   {
     "ID": "3518243",
@@ -5103,14 +5319,15 @@ const CHECKLIST_VEICULAR_DATA = [
     "Condutor": "Antonio Marcos Souza ",
     "Data Hora": "03/03/2026 15:52",
     "VIDEOTELEMTRIA": "SIM",
-    "Itens Danificados": NaN,
+    "Itens Danificados": null,
     "Estado de Criticidade Veículo": "Leve(Liberado)",
     "Observacoes": "Sem avaria.",
     "ID COLABORADOR": "260840",
     "ID DO AVALIADOR(A)": "272640",
     "Abrir Os": "NÃO",
-    "Os": NaN,
-    "Abrir Os ": "NÃO"
+    "Os": null,
+    "Abrir Os ": "NÃO",
+    "Unnamed: 21": null
   },
   {
     "ID": "3518244",
@@ -5127,14 +5344,15 @@ const CHECKLIST_VEICULAR_DATA = [
     "Condutor": "Cícero Lucena ",
     "Data Hora": "04/03/2026 10:32",
     "VIDEOTELEMTRIA": "SIM",
-    "Itens Danificados": NaN,
+    "Itens Danificados": null,
     "Estado de Criticidade Veículo": "Leve(Liberado)",
     "Observacoes": "Sem avaria.",
     "ID COLABORADOR": "260400",
     "ID DO AVALIADOR(A)": "278000",
     "Abrir Os": "NÃO",
-    "Os": NaN,
-    "Abrir Os ": "NÃO"
+    "Os": null,
+    "Abrir Os ": "NÃO",
+    "Unnamed: 21": null
   },
   {
     "ID": "3518245",
@@ -5151,14 +5369,15 @@ const CHECKLIST_VEICULAR_DATA = [
     "Condutor": "Alessandro da Silva ",
     "Data Hora": "04/03/2026 13:18",
     "VIDEOTELEMTRIA": "NÃO",
-    "Itens Danificados": NaN,
+    "Itens Danificados": null,
     "Estado de Criticidade Veículo": "Leve(Liberado)",
     "Observacoes": "Sem avaria.",
     "ID COLABORADOR": "262010",
     "ID DO AVALIADOR(A)": "272640",
     "Abrir Os": "NÃO",
-    "Os": NaN,
-    "Abrir Os ": "NÃO"
+    "Os": null,
+    "Abrir Os ": "NÃO",
+    "Unnamed: 21": null
   },
   {
     "ID": "3518246",
@@ -5175,14 +5394,15 @@ const CHECKLIST_VEICULAR_DATA = [
     "Condutor": "Gabriel Soares Mendes Dias ",
     "Data Hora": "04/03/2026 14:40",
     "VIDEOTELEMTRIA": "SIM",
-    "Itens Danificados": NaN,
+    "Itens Danificados": null,
     "Estado de Criticidade Veículo": "Leve(Liberado)",
     "Observacoes": "Sem avaria.",
     "ID COLABORADOR": "272640",
     "ID DO AVALIADOR(A)": "278000",
     "Abrir Os": "NÃO",
-    "Os": NaN,
-    "Abrir Os ": "NÃO"
+    "Os": null,
+    "Abrir Os ": "NÃO",
+    "Unnamed: 21": null
   },
   {
     "ID": "3518247",
@@ -5199,14 +5419,15 @@ const CHECKLIST_VEICULAR_DATA = [
     "Condutor": "Maximiano Gomes da Silva ",
     "Data Hora": "05/03/2026 07:13",
     "VIDEOTELEMTRIA": "SIM",
-    "Itens Danificados": NaN,
+    "Itens Danificados": null,
     "Estado de Criticidade Veículo": "Leve(Liberado)",
     "Observacoes": "Sem avaria.",
     "ID COLABORADOR": "251170",
     "ID DO AVALIADOR(A)": "278000",
     "Abrir Os": "NÃO",
-    "Os": NaN,
-    "Abrir Os ": "NÃO"
+    "Os": null,
+    "Abrir Os ": "NÃO",
+    "Unnamed: 21": null
   },
   {
     "ID": "3518248",
@@ -5223,14 +5444,15 @@ const CHECKLIST_VEICULAR_DATA = [
     "Condutor": "Willian Fernandes",
     "Data Hora": "05/03/2026 10:06",
     "VIDEOTELEMTRIA": "SIM",
-    "Itens Danificados": NaN,
+    "Itens Danificados": null,
     "Estado de Criticidade Veículo": "Leve(Liberado)",
     "Observacoes": "Sem avaria.",
     "ID COLABORADOR": "276960",
     "ID DO AVALIADOR(A)": "272640",
     "Abrir Os": "NÃO",
-    "Os": NaN,
-    "Abrir Os ": "NÃO"
+    "Os": null,
+    "Abrir Os ": "NÃO",
+    "Unnamed: 21": null
   },
   {
     "ID": "3518249",
@@ -5247,14 +5469,15 @@ const CHECKLIST_VEICULAR_DATA = [
     "Condutor": "Onofre Evangelista da Silva Junior ",
     "Data Hora": "05/03/2026 10:22",
     "VIDEOTELEMTRIA": "SIM",
-    "Itens Danificados": NaN,
+    "Itens Danificados": null,
     "Estado de Criticidade Veículo": "Moderado(Condutor notificado)",
     "Observacoes": "Luz de ré (direita)Estepe (não está no veículo)Chave (acionador de destravar a porta com falha)",
     "ID COLABORADOR": "163363",
     "ID DO AVALIADOR(A)": "272640",
     "Abrir Os": "SIM",
     "Os": "712503",
-    "Abrir Os ": "SIM"
+    "Abrir Os ": "SIM",
+    "Unnamed: 21": null
   },
   {
     "ID": "3518250",
@@ -5271,14 +5494,15 @@ const CHECKLIST_VEICULAR_DATA = [
     "Condutor": "Ana Maria de Melo Cassezi ",
     "Data Hora": "05/03/2026 11:24",
     "VIDEOTELEMTRIA": "SIM",
-    "Itens Danificados": NaN,
+    "Itens Danificados": null,
     "Estado de Criticidade Veículo": "Leve(Liberado)",
     "Observacoes": "Sem avaria.",
     "ID COLABORADOR": "268860",
     "ID DO AVALIADOR(A)": "278000",
     "Abrir Os": "NÃO",
-    "Os": NaN,
-    "Abrir Os ": "NÃO"
+    "Os": null,
+    "Abrir Os ": "NÃO",
+    "Unnamed: 21": null
   },
   {
     "ID": "3518251",
@@ -5295,14 +5519,15 @@ const CHECKLIST_VEICULAR_DATA = [
     "Condutor": "Alessandro da Silva",
     "Data Hora": "05/03/2026 14:16",
     "VIDEOTELEMTRIA": "SIM",
-    "Itens Danificados": NaN,
+    "Itens Danificados": null,
     "Estado de Criticidade Veículo": "Leve(Liberado)",
     "Observacoes": "Sem avaria.",
     "ID COLABORADOR": "262010",
     "ID DO AVALIADOR(A)": "272640",
     "Abrir Os": "NÃO",
-    "Os": NaN,
-    "Abrir Os ": "NÃO"
+    "Os": null,
+    "Abrir Os ": "NÃO",
+    "Unnamed: 21": null
   },
   {
     "ID": "3518252",
@@ -5319,14 +5544,15 @@ const CHECKLIST_VEICULAR_DATA = [
     "Condutor": "Antonio Benedito Cassezi ",
     "Data Hora": "06/03/2026 07:28",
     "VIDEOTELEMTRIA": "SIM",
-    "Itens Danificados": NaN,
+    "Itens Danificados": null,
     "Estado de Criticidade Veículo": "Moderado(Condutor notificado)",
     "Observacoes": "Amassado no teto(Veículo liberado com avarias pela gestão)",
     "ID COLABORADOR": "96520",
     "ID DO AVALIADOR(A)": "272640",
     "Abrir Os": "SIM",
     "Os": "714309",
-    "Abrir Os ": "SIM"
+    "Abrir Os ": "SIM",
+    "Unnamed: 21": null
   },
   {
     "ID": "3518253",
@@ -5343,14 +5569,15 @@ const CHECKLIST_VEICULAR_DATA = [
     "Condutor": "Jussara Soares de Souza ",
     "Data Hora": "06/03/2026 08:19",
     "VIDEOTELEMTRIA": "SIM",
-    "Itens Danificados": NaN,
+    "Itens Danificados": null,
     "Estado de Criticidade Veículo": "Leve(Liberado)",
     "Observacoes": "Sem avaria ",
     "ID COLABORADOR": "271640",
     "ID DO AVALIADOR(A)": "271640",
     "Abrir Os": "NÃO",
-    "Os": NaN,
-    "Abrir Os ": "NÃO"
+    "Os": null,
+    "Abrir Os ": "NÃO",
+    "Unnamed: 21": null
   },
   {
     "ID": "3518254",
@@ -5367,14 +5594,15 @@ const CHECKLIST_VEICULAR_DATA = [
     "Condutor": "José Aparecido Caldeira Gomes",
     "Data Hora": "06/03/2026 08:26",
     "VIDEOTELEMTRIA": "SIM",
-    "Itens Danificados": NaN,
+    "Itens Danificados": null,
     "Estado de Criticidade Veículo": "Moderado(Condutor notificado)",
     "Observacoes": "Borracha de vedação (porta passageiro dianteira)Verificar palhetas do para-brisa ",
     "ID COLABORADOR": "2510431",
     "ID DO AVALIADOR(A)": "271640",
     "Abrir Os": "SIM",
     "Os": "715169",
-    "Abrir Os ": "SIM"
+    "Abrir Os ": "SIM",
+    "Unnamed: 21": null
   },
   {
     "ID": "3523002",
@@ -5391,14 +5619,15 @@ const CHECKLIST_VEICULAR_DATA = [
     "Condutor": "Fernando Feltrin de Matos",
     "Data Hora": "06/03/2026 13:44",
     "VIDEOTELEMTRIA": "SIM",
-    "Itens Danificados": NaN,
+    "Itens Danificados": null,
     "Estado de Criticidade Veículo": "Leve(Liberado)",
     "Observacoes": "Sem avaria.",
     "ID COLABORADOR": "127942",
     "ID DO AVALIADOR(A)": "272640",
     "Abrir Os": "NÃO",
-    "Os": NaN,
-    "Abrir Os ": "NÃO"
+    "Os": null,
+    "Abrir Os ": "NÃO",
+    "Unnamed: 21": null
   },
   {
     "ID": "3523003",
@@ -5415,14 +5644,15 @@ const CHECKLIST_VEICULAR_DATA = [
     "Condutor": "Gilmar Rebouças ",
     "Data Hora": "06/03/2026 16:17",
     "VIDEOTELEMTRIA": "SIM",
-    "Itens Danificados": NaN,
+    "Itens Danificados": null,
     "Estado de Criticidade Veículo": "Leve(Liberado)",
     "Observacoes": "Sem avaria.",
-    "ID COLABORADOR": NaN,
+    "ID COLABORADOR": null,
     "ID DO AVALIADOR(A)": "272640",
     "Abrir Os": "NÃO",
-    "Os": NaN,
-    "Abrir Os ": "NÃO"
+    "Os": null,
+    "Abrir Os ": "NÃO",
+    "Unnamed: 21": null
   },
   {
     "ID": "3523004",
@@ -5439,14 +5669,15 @@ const CHECKLIST_VEICULAR_DATA = [
     "Condutor": "Ruan de Freitas Dias ",
     "Data Hora": "09/03/2026 10:29",
     "VIDEOTELEMTRIA": "SIM",
-    "Itens Danificados": NaN,
+    "Itens Danificados": null,
     "Estado de Criticidade Veículo": "Leve(Liberado)",
     "Observacoes": "Sem avaria.",
     "ID COLABORADOR": "273990",
     "ID DO AVALIADOR(A)": "272640",
     "Abrir Os": "NÃO",
-    "Os": NaN,
-    "Abrir Os ": "NÃO"
+    "Os": null,
+    "Abrir Os ": "NÃO",
+    "Unnamed: 21": null
   },
   {
     "ID": "3523005",
@@ -5463,14 +5694,15 @@ const CHECKLIST_VEICULAR_DATA = [
     "Condutor": "Gabriel Soares Mendes Dias ",
     "Data Hora": "09/03/2026 14:11",
     "VIDEOTELEMTRIA": "SIM",
-    "Itens Danificados": NaN,
+    "Itens Danificados": null,
     "Estado de Criticidade Veículo": "Leve(Liberado)",
     "Observacoes": "Sem avaria.",
     "ID COLABORADOR": "272670",
     "ID DO AVALIADOR(A)": "272640",
     "Abrir Os": "NÃO",
-    "Os": NaN,
-    "Abrir Os ": "NÃO"
+    "Os": null,
+    "Abrir Os ": "NÃO",
+    "Unnamed: 21": null
   },
   {
     "ID": "3523006",
@@ -5487,14 +5719,15 @@ const CHECKLIST_VEICULAR_DATA = [
     "Condutor": "Cássio Adriano Costa ",
     "Data Hora": "09/03/2026 14:25",
     "VIDEOTELEMTRIA": "SIM",
-    "Itens Danificados": NaN,
+    "Itens Danificados": null,
     "Estado de Criticidade Veículo": "Leve(Liberado)",
     "Observacoes": "Sem avaria.",
-    "ID COLABORADOR": NaN,
+    "ID COLABORADOR": null,
     "ID DO AVALIADOR(A)": "272640",
     "Abrir Os": "NÃO",
-    "Os": NaN,
-    "Abrir Os ": "NÃO"
+    "Os": null,
+    "Abrir Os ": "NÃO",
+    "Unnamed: 21": null
   },
   {
     "ID": "3524202",
@@ -5511,14 +5744,15 @@ const CHECKLIST_VEICULAR_DATA = [
     "Condutor": "Luiz Manoel de Prado",
     "Data Hora": "09/03/2026 16:11",
     "VIDEOTELEMTRIA": "SIM",
-    "Itens Danificados": NaN,
+    "Itens Danificados": null,
     "Estado de Criticidade Veículo": "Leve(Liberado)",
     "Observacoes": "Sem avaria.",
     "ID COLABORADOR": "246100",
     "ID DO AVALIADOR(A)": "272640",
     "Abrir Os": "NÃO",
-    "Os": NaN,
-    "Abrir Os ": "NÃO"
+    "Os": null,
+    "Abrir Os ": "NÃO",
+    "Unnamed: 21": null
   },
   {
     "ID": "3524203",
@@ -5535,14 +5769,15 @@ const CHECKLIST_VEICULAR_DATA = [
     "Condutor": "Heverton Henrique Custodio ",
     "Data Hora": "09/03/2026 16:18",
     "VIDEOTELEMTRIA": "SIM",
-    "Itens Danificados": NaN,
+    "Itens Danificados": null,
     "Estado de Criticidade Veículo": "Leve(Liberado)",
     "Observacoes": "Sem avaria.",
     "ID COLABORADOR": "266560",
     "ID DO AVALIADOR(A)": "272640",
     "Abrir Os": "NÃO",
-    "Os": NaN,
-    "Abrir Os ": "NÃO"
+    "Os": null,
+    "Abrir Os ": "NÃO",
+    "Unnamed: 21": null
   },
   {
     "ID": "3524204",
@@ -5566,7 +5801,8 @@ const CHECKLIST_VEICULAR_DATA = [
     "ID DO AVALIADOR(A)": "272640",
     "Abrir Os": "SIM",
     "Os": "710455",
-    "Abrir Os ": "SIM"
+    "Abrir Os ": "SIM",
+    "Unnamed: 21": null
   },
   {
     "ID": "3524205",
@@ -5583,14 +5819,15 @@ const CHECKLIST_VEICULAR_DATA = [
     "Condutor": "César Fabiano Mineiro",
     "Data Hora": "10/03/2026 07:36",
     "VIDEOTELEMTRIA": "SIM",
-    "Itens Danificados": NaN,
+    "Itens Danificados": null,
     "Estado de Criticidade Veículo": "Leve(Liberado)",
     "Observacoes": "Sem avaria.",
     "ID COLABORADOR": "2100",
     "ID DO AVALIADOR(A)": "278000",
     "Abrir Os": "NÃO",
-    "Os": NaN,
-    "Abrir Os ": "NÃO"
+    "Os": null,
+    "Abrir Os ": "NÃO",
+    "Unnamed: 21": null
   },
   {
     "ID": "3524206",
@@ -5607,14 +5844,15 @@ const CHECKLIST_VEICULAR_DATA = [
     "Condutor": "Antonio Marcos Ribeiro Ruas ",
     "Data Hora": "10/03/2026 07:42",
     "VIDEOTELEMTRIA": "SIM",
-    "Itens Danificados": NaN,
+    "Itens Danificados": null,
     "Estado de Criticidade Veículo": "Leve(Liberado)",
     "Observacoes": "Sem avaria.",
     "ID COLABORADOR": "183702",
     "ID DO AVALIADOR(A)": "278000",
     "Abrir Os": "NÃO",
-    "Os": NaN,
-    "Abrir Os ": "NÃO"
+    "Os": null,
+    "Abrir Os ": "NÃO",
+    "Unnamed: 21": null
   },
   {
     "ID": "3524207",
@@ -5631,14 +5869,15 @@ const CHECKLIST_VEICULAR_DATA = [
     "Condutor": "Moisés Pinheiro Gino",
     "Data Hora": "10/03/2026 07:50",
     "VIDEOTELEMTRIA": "SIM",
-    "Itens Danificados": NaN,
+    "Itens Danificados": null,
     "Estado de Criticidade Veículo": "Leve(Liberado)",
     "Observacoes": "Sem avaria.",
     "ID COLABORADOR": "260710",
     "ID DO AVALIADOR(A)": "278000",
     "Abrir Os": "NÃO",
-    "Os": NaN,
-    "Abrir Os ": "NÃO"
+    "Os": null,
+    "Abrir Os ": "NÃO",
+    "Unnamed: 21": null
   },
   {
     "ID": "3524208",
@@ -5655,14 +5894,15 @@ const CHECKLIST_VEICULAR_DATA = [
     "Condutor": "Marco Ferreira dos Santos ",
     "Data Hora": "10/03/2026 09:49",
     "VIDEOTELEMTRIA": "SIM",
-    "Itens Danificados": NaN,
+    "Itens Danificados": null,
     "Estado de Criticidade Veículo": "Leve(Liberado)",
     "Observacoes": "Sem avaria.",
     "ID COLABORADOR": "115782",
     "ID DO AVALIADOR(A)": "272640",
     "Abrir Os": "NÃO",
-    "Os": NaN,
-    "Abrir Os ": "NÃO"
+    "Os": null,
+    "Abrir Os ": "NÃO",
+    "Unnamed: 21": null
   },
   {
     "ID": "3524209",
@@ -5679,14 +5919,15 @@ const CHECKLIST_VEICULAR_DATA = [
     "Condutor": "Luis Carlos Rodrigues ",
     "Data Hora": "10/03/2026 09:59",
     "VIDEOTELEMTRIA": "NÃO",
-    "Itens Danificados": NaN,
+    "Itens Danificados": null,
     "Estado de Criticidade Veículo": "Leve(Liberado)",
     "Observacoes": "Sem avaria.",
     "ID COLABORADOR": "214747",
     "ID DO AVALIADOR(A)": "272640",
     "Abrir Os": "NÃO",
-    "Os": NaN,
-    "Abrir Os ": "NÃO"
+    "Os": null,
+    "Abrir Os ": "NÃO",
+    "Unnamed: 21": null
   },
   {
     "ID": "3524210",
@@ -5703,14 +5944,15 @@ const CHECKLIST_VEICULAR_DATA = [
     "Condutor": "José Aparecido Caldeira Gomes",
     "Data Hora": "10/03/2026 13:54",
     "VIDEOTELEMTRIA": "SIM",
-    "Itens Danificados": NaN,
+    "Itens Danificados": null,
     "Estado de Criticidade Veículo": "Leve(Liberado)",
     "Observacoes": "Checklistpós manutenção (Concluído)",
     "ID COLABORADOR": "2510431",
     "ID DO AVALIADOR(A)": "272640",
     "Abrir Os": "NÃO",
-    "Os": NaN,
-    "Abrir Os ": "NÃO"
+    "Os": null,
+    "Abrir Os ": "NÃO",
+    "Unnamed: 21": null
   },
   {
     "ID": "3524211",
@@ -5727,14 +5969,15 @@ const CHECKLIST_VEICULAR_DATA = [
     "Condutor": "Jhonatas da Silva ",
     "Data Hora": "10/03/2026 13:25",
     "VIDEOTELEMTRIA": "SIM",
-    "Itens Danificados": NaN,
+    "Itens Danificados": null,
     "Estado de Criticidade Veículo": "Leve(Liberado)",
     "Observacoes": "Vistoria pós manutenção (Concluído)",
     "ID COLABORADOR": "279140",
     "ID DO AVALIADOR(A)": "278000",
     "Abrir Os": "NÃO",
-    "Os": NaN,
-    "Abrir Os ": "NÃO"
+    "Os": null,
+    "Abrir Os ": "NÃO",
+    "Unnamed: 21": null
   },
   {
     "ID": "3524212",
@@ -5751,14 +5994,15 @@ const CHECKLIST_VEICULAR_DATA = [
     "Condutor": "Antonio Marcos Ribeiro Ruas ",
     "Data Hora": "10/03/2026 13:39",
     "VIDEOTELEMTRIA": "SIM",
-    "Itens Danificados": NaN,
+    "Itens Danificados": null,
     "Estado de Criticidade Veículo": "Leve(Liberado)",
     "Observacoes": "Sem avaria.",
     "ID COLABORADOR": "183202",
     "ID DO AVALIADOR(A)": "278000",
     "Abrir Os": "NÃO",
-    "Os": NaN,
-    "Abrir Os ": "NÃO"
+    "Os": null,
+    "Abrir Os ": "NÃO",
+    "Unnamed: 21": null
   },
   {
     "ID": "3524213",
@@ -5775,14 +6019,15 @@ const CHECKLIST_VEICULAR_DATA = [
     "Condutor": "Willian Roberto Dalla Costa ",
     "Data Hora": "10/03/2026 13:51",
     "VIDEOTELEMTRIA": "SIM",
-    "Itens Danificados": NaN,
+    "Itens Danificados": null,
     "Estado de Criticidade Veículo": "Leve(Liberado)",
     "Observacoes": "Sem avaria.",
     "ID COLABORADOR": "254120",
     "ID DO AVALIADOR(A)": "278000",
     "Abrir Os": "NÃO",
-    "Os": NaN,
-    "Abrir Os ": "NÃO"
+    "Os": null,
+    "Abrir Os ": "NÃO",
+    "Unnamed: 21": null
   },
   {
     "ID": "3524214",
@@ -5799,14 +6044,15 @@ const CHECKLIST_VEICULAR_DATA = [
     "Condutor": "Fábio Junio Ferreira Barboza ",
     "Data Hora": "10/03/2026 15:37",
     "VIDEOTELEMTRIA": "SIM",
-    "Itens Danificados": NaN,
+    "Itens Danificados": null,
     "Estado de Criticidade Veículo": "Leve(Liberado)",
     "Observacoes": "Sem avaria.",
     "ID COLABORADOR": "189200",
     "ID DO AVALIADOR(A)": "272640",
     "Abrir Os": "NÃO",
-    "Os": NaN,
-    "Abrir Os ": "NÃO"
+    "Os": null,
+    "Abrir Os ": "NÃO",
+    "Unnamed: 21": null
   },
   {
     "ID": "3525659",
@@ -5823,14 +6069,15 @@ const CHECKLIST_VEICULAR_DATA = [
     "Condutor": "Gerson Pereira Porto ",
     "Data Hora": "11/03/2026 15:15",
     "VIDEOTELEMTRIA": "SIM",
-    "Itens Danificados": NaN,
+    "Itens Danificados": null,
     "Estado de Criticidade Veículo": "Leve(Liberado)",
-    "Observacoes": NaN,
+    "Observacoes": null,
     "ID COLABORADOR": "41464",
     "ID DO AVALIADOR(A)": "272640",
     "Abrir Os": "NÃO",
-    "Os": NaN,
-    "Abrir Os ": "NÃO"
+    "Os": null,
+    "Abrir Os ": "NÃO",
+    "Unnamed: 21": null
   },
   {
     "ID": "3525660",
@@ -5847,14 +6094,15 @@ const CHECKLIST_VEICULAR_DATA = [
     "Condutor": "Edmar de Jesus Gonçalves ",
     "Data Hora": "11/03/2026 15:34",
     "VIDEOTELEMTRIA": "SIM",
-    "Itens Danificados": NaN,
+    "Itens Danificados": null,
     "Estado de Criticidade Veículo": "Leve(Liberado)",
     "Observacoes": "Sem avaria.",
     "ID COLABORADOR": "111971",
     "ID DO AVALIADOR(A)": "272640",
     "Abrir Os": "NÃO",
-    "Os": NaN,
-    "Abrir Os ": "NÃO"
+    "Os": null,
+    "Abrir Os ": "NÃO",
+    "Unnamed: 21": null
   },
   {
     "ID": "3527506",
@@ -5871,14 +6119,15 @@ const CHECKLIST_VEICULAR_DATA = [
     "Condutor": "Geovane de Azevedo Dias ",
     "Data Hora": "12/03/2026 11:05",
     "VIDEOTELEMTRIA": "SIM",
-    "Itens Danificados": NaN,
+    "Itens Danificados": null,
     "Estado de Criticidade Veículo": "Leve(Liberado)",
     "Observacoes": "Sem avaria.",
     "ID COLABORADOR": "183313",
     "ID DO AVALIADOR(A)": "278000",
     "Abrir Os": "NÃO",
-    "Os": NaN,
-    "Abrir Os ": "NÃO"
+    "Os": null,
+    "Abrir Os ": "NÃO",
+    "Unnamed: 21": null
   },
   {
     "ID": "3527507",
@@ -5895,14 +6144,15 @@ const CHECKLIST_VEICULAR_DATA = [
     "Condutor": "Pedro Augusto Silva ",
     "Data Hora": "13/03/2026 08:31",
     "VIDEOTELEMTRIA": "SIM",
-    "Itens Danificados": NaN,
+    "Itens Danificados": null,
     "Estado de Criticidade Veículo": "Leve(Liberado)",
     "Observacoes": "Sem avaria.",
     "ID COLABORADOR": "270270",
     "ID DO AVALIADOR(A)": "272640",
     "Abrir Os": "NÃO",
-    "Os": NaN,
-    "Abrir Os ": "NÃO"
+    "Os": null,
+    "Abrir Os ": "NÃO",
+    "Unnamed: 21": null
   },
   {
     "ID": "3527508",
@@ -5919,14 +6169,15 @@ const CHECKLIST_VEICULAR_DATA = [
     "Condutor": "João Vitor Santos Cardoso ",
     "Data Hora": "13/03/2026 10:22",
     "VIDEOTELEMTRIA": "NÃO",
-    "Itens Danificados": NaN,
+    "Itens Danificados": null,
     "Estado de Criticidade Veículo": "Leve(Liberado)",
     "Observacoes": "Sem avaria.",
     "ID COLABORADOR": "276550",
     "ID DO AVALIADOR(A)": "278000",
     "Abrir Os": "NÃO",
-    "Os": NaN,
-    "Abrir Os ": "NÃO"
+    "Os": null,
+    "Abrir Os ": "NÃO",
+    "Unnamed: 21": null
   },
   {
     "ID": "3527509",
@@ -5943,14 +6194,15 @@ const CHECKLIST_VEICULAR_DATA = [
     "Condutor": "Jussara Soares de Souza",
     "Data Hora": "13/03/2026 10:28",
     "VIDEOTELEMTRIA": "NÃO",
-    "Itens Danificados": NaN,
+    "Itens Danificados": null,
     "Estado de Criticidade Veículo": "Leve(Liberado)",
     "Observacoes": "Sem avaria.",
-    "ID COLABORADOR": NaN,
+    "ID COLABORADOR": null,
     "ID DO AVALIADOR(A)": "278000",
     "Abrir Os": "NÃO",
-    "Os": NaN,
-    "Abrir Os ": "NÃO"
+    "Os": null,
+    "Abrir Os ": "NÃO",
+    "Unnamed: 21": null
   },
   {
     "ID": "3527510",
@@ -5967,14 +6219,15 @@ const CHECKLIST_VEICULAR_DATA = [
     "Condutor": "Jussara Soares de Souza ",
     "Data Hora": "13/03/2026 11:37",
     "VIDEOTELEMTRIA": "SIM",
-    "Itens Danificados": NaN,
+    "Itens Danificados": null,
     "Estado de Criticidade Veículo": "Leve(Liberado)",
     "Observacoes": "Sem avaria.",
     "ID COLABORADOR": "272640",
     "ID DO AVALIADOR(A)": "278000",
     "Abrir Os": "NÃO",
-    "Os": NaN,
-    "Abrir Os ": "NÃO"
+    "Os": null,
+    "Abrir Os ": "NÃO",
+    "Unnamed: 21": null
   },
   {
     "ID": "3527511",
@@ -5991,14 +6244,15 @@ const CHECKLIST_VEICULAR_DATA = [
     "Condutor": "Gesley Aparecido Pereira ",
     "Data Hora": "13/03/2026 13:10",
     "VIDEOTELEMTRIA": "SIM",
-    "Itens Danificados": NaN,
+    "Itens Danificados": null,
     "Estado de Criticidade Veículo": "Leve(Liberado)",
     "Observacoes": "Sem avaria.",
     "ID COLABORADOR": "246300",
     "ID DO AVALIADOR(A)": "278000",
     "Abrir Os": "NÃO",
-    "Os": NaN,
-    "Abrir Os ": "NÃO"
+    "Os": null,
+    "Abrir Os ": "NÃO",
+    "Unnamed: 21": null
   },
   {
     "ID": "3529255",
@@ -6015,14 +6269,15 @@ const CHECKLIST_VEICULAR_DATA = [
     "Condutor": "José Aparecido Caetano",
     "Data Hora": "13/03/2026 16:04",
     "VIDEOTELEMTRIA": "SIM",
-    "Itens Danificados": NaN,
+    "Itens Danificados": null,
     "Estado de Criticidade Veículo": "Leve(Liberado)",
     "Observacoes": "Sem avaria.",
     "ID COLABORADOR": "3220",
     "ID DO AVALIADOR(A)": "272640",
     "Abrir Os": "NÃO",
-    "Os": NaN,
-    "Abrir Os ": "NÃO"
+    "Os": null,
+    "Abrir Os ": "NÃO",
+    "Unnamed: 21": null
   },
   {
     "ID": "3529256",
@@ -6039,14 +6294,15 @@ const CHECKLIST_VEICULAR_DATA = [
     "Condutor": "Davi Freitas Ramos ",
     "Data Hora": "16/03/2026 07:10",
     "VIDEOTELEMTRIA": "SIM",
-    "Itens Danificados": NaN,
+    "Itens Danificados": null,
     "Estado de Criticidade Veículo": "Leve(Liberado)",
     "Observacoes": "Sem avaria.",
     "ID COLABORADOR": "265970",
     "ID DO AVALIADOR(A)": "272640",
     "Abrir Os": "NÃO",
-    "Os": NaN,
-    "Abrir Os ": "NÃO"
+    "Os": null,
+    "Abrir Os ": "NÃO",
+    "Unnamed: 21": null
   },
   {
     "ID": "3529257",
@@ -6063,14 +6319,15 @@ const CHECKLIST_VEICULAR_DATA = [
     "Condutor": "Leonardo Estenio Gallon Pinto ",
     "Data Hora": "16/03/2026 07:14",
     "VIDEOTELEMTRIA": "SIM",
-    "Itens Danificados": NaN,
+    "Itens Danificados": null,
     "Estado de Criticidade Veículo": "Leve(Liberado)",
     "Observacoes": "Sem avaria.",
     "ID COLABORADOR": "272430",
     "ID DO AVALIADOR(A)": "272640",
     "Abrir Os": "NÃO",
-    "Os": NaN,
-    "Abrir Os ": "NÃO"
+    "Os": null,
+    "Abrir Os ": "NÃO",
+    "Unnamed: 21": null
   },
   {
     "ID": "3529258",
@@ -6087,14 +6344,15 @@ const CHECKLIST_VEICULAR_DATA = [
     "Condutor": "Davi Freitas Ramos ",
     "Data Hora": "16/03/2026 07:16",
     "VIDEOTELEMTRIA": "SIM",
-    "Itens Danificados": NaN,
+    "Itens Danificados": null,
     "Estado de Criticidade Veículo": "Leve(Liberado)",
     "Observacoes": "Sem avaria.",
     "ID COLABORADOR": "265970",
     "ID DO AVALIADOR(A)": "272640",
     "Abrir Os": "NÃO",
-    "Os": NaN,
-    "Abrir Os ": "NÃO"
+    "Os": null,
+    "Abrir Os ": "NÃO",
+    "Unnamed: 21": null
   },
   {
     "ID": "3529259",
@@ -6111,14 +6369,15 @@ const CHECKLIST_VEICULAR_DATA = [
     "Condutor": "Endrius Ernane de Souza ",
     "Data Hora": "16/03/2026 07:39",
     "VIDEOTELEMTRIA": "SIM",
-    "Itens Danificados": NaN,
+    "Itens Danificados": null,
     "Estado de Criticidade Veículo": "Leve(Liberado)",
     "Observacoes": "Sem avaria.",
     "ID COLABORADOR": "251310",
     "ID DO AVALIADOR(A)": "272640 ",
     "Abrir Os": "NÃO",
-    "Os": NaN,
-    "Abrir Os ": "NÃO"
+    "Os": null,
+    "Abrir Os ": "NÃO",
+    "Unnamed: 21": null
   },
   {
     "ID": "3529260",
@@ -6135,14 +6394,15 @@ const CHECKLIST_VEICULAR_DATA = [
     "Condutor": "Anderson Ricardo Ruaro ",
     "Data Hora": "16/03/2026 08:06",
     "VIDEOTELEMTRIA": "SIM",
-    "Itens Danificados": NaN,
+    "Itens Danificados": null,
     "Estado de Criticidade Veículo": "Leve(Liberado)",
     "Observacoes": "Sem avaria.",
     "ID COLABORADOR": "168907",
     "ID DO AVALIADOR(A)": "272640",
     "Abrir Os": "NÃO",
-    "Os": NaN,
-    "Abrir Os ": "NÃO"
+    "Os": null,
+    "Abrir Os ": "NÃO",
+    "Unnamed: 21": null
   },
   {
     "ID": "3529261",
@@ -6159,14 +6419,15 @@ const CHECKLIST_VEICULAR_DATA = [
     "Condutor": "Marco Ferreira dos Santos ",
     "Data Hora": "16/03/2026 09:00",
     "VIDEOTELEMTRIA": "NÃO",
-    "Itens Danificados": NaN,
+    "Itens Danificados": null,
     "Estado de Criticidade Veículo": "Leve(Liberado)",
     "Observacoes": "Sem avaria.",
     "ID COLABORADOR": "115782",
     "ID DO AVALIADOR(A)": "272640",
     "Abrir Os": "NÃO",
-    "Os": NaN,
-    "Abrir Os ": "NÃO"
+    "Os": null,
+    "Abrir Os ": "NÃO",
+    "Unnamed: 21": null
   },
   {
     "ID": "3529337",
@@ -6183,14 +6444,15 @@ const CHECKLIST_VEICULAR_DATA = [
     "Condutor": "César Fabiano Mineiro ",
     "Data Hora": "16/03/2026 09:29",
     "VIDEOTELEMTRIA": "SIM",
-    "Itens Danificados": NaN,
+    "Itens Danificados": null,
     "Estado de Criticidade Veículo": "Leve(Liberado)",
     "Observacoes": "Sem avaria.",
     "ID COLABORADOR": "2100",
     "ID DO AVALIADOR(A)": "272640",
     "Abrir Os": "NÃO",
-    "Os": NaN,
-    "Abrir Os ": "NÃO"
+    "Os": null,
+    "Abrir Os ": "NÃO",
+    "Unnamed: 21": null
   },
   {
     "ID": "3529338",
@@ -6207,14 +6469,15 @@ const CHECKLIST_VEICULAR_DATA = [
     "Condutor": "Tiago Damião Louzada ",
     "Data Hora": "16/03/2026 09:33",
     "VIDEOTELEMTRIA": "SIM",
-    "Itens Danificados": NaN,
+    "Itens Danificados": null,
     "Estado de Criticidade Veículo": "Leve(Liberado)",
     "Observacoes": "Sem avaria.",
-    "ID COLABORADOR": NaN,
+    "ID COLABORADOR": null,
     "ID DO AVALIADOR(A)": "272640",
     "Abrir Os": "NÃO",
-    "Os": NaN,
-    "Abrir Os ": "NÃO"
+    "Os": null,
+    "Abrir Os ": "NÃO",
+    "Unnamed: 21": null
   },
   {
     "ID": "3529339",
@@ -6231,14 +6494,15 @@ const CHECKLIST_VEICULAR_DATA = [
     "Condutor": "Marco Ferreira dos Santos ",
     "Data Hora": "16/03/2026 10:08",
     "VIDEOTELEMTRIA": "NÃO",
-    "Itens Danificados": NaN,
+    "Itens Danificados": null,
     "Estado de Criticidade Veículo": "Leve(Liberado)",
     "Observacoes": "Sem avaria.",
     "ID COLABORADOR": "115782",
     "ID DO AVALIADOR(A)": "272640",
     "Abrir Os": "NÃO",
-    "Os": NaN,
-    "Abrir Os ": "NÃO"
+    "Os": null,
+    "Abrir Os ": "NÃO",
+    "Unnamed: 21": null
   },
   {
     "ID": "3529711",
@@ -6255,14 +6519,15 @@ const CHECKLIST_VEICULAR_DATA = [
     "Condutor": "Admir Xavier Cotrim ",
     "Data Hora": "16/03/2026 10:58",
     "VIDEOTELEMTRIA": "NÃO",
-    "Itens Danificados": NaN,
+    "Itens Danificados": null,
     "Estado de Criticidade Veículo": "Moderado(Condutor notificado)",
     "Observacoes": "Amassado na porta passageiro.",
     "ID COLABORADOR": "112150",
     "ID DO AVALIADOR(A)": "272640",
     "Abrir Os": "SIM",
     "Os": "713684",
-    "Abrir Os ": "SIM"
+    "Abrir Os ": "SIM",
+    "Unnamed: 21": null
   },
   {
     "ID": "3529712",
@@ -6279,14 +6544,15 @@ const CHECKLIST_VEICULAR_DATA = [
     "Condutor": "Emerson Cândido Coelho ",
     "Data Hora": "16/03/2026 11:04",
     "VIDEOTELEMTRIA": "SIM",
-    "Itens Danificados": NaN,
+    "Itens Danificados": null,
     "Estado de Criticidade Veículo": "Leve(Liberado)",
     "Observacoes": "Sem avaria.",
     "ID COLABORADOR": "230880",
     "ID DO AVALIADOR(A)": "272640",
     "Abrir Os": "NÃO",
-    "Os": NaN,
-    "Abrir Os ": "NÃO"
+    "Os": null,
+    "Abrir Os ": "NÃO",
+    "Unnamed: 21": null
   },
   {
     "ID": "3529713",
@@ -6303,14 +6569,15 @@ const CHECKLIST_VEICULAR_DATA = [
     "Condutor": "Daniel Ferreira da Cruz Filho",
     "Data Hora": "16/03/2026 14:00",
     "VIDEOTELEMTRIA": "SIM",
-    "Itens Danificados": NaN,
+    "Itens Danificados": null,
     "Estado de Criticidade Veículo": "Leve(Liberado)",
     "Observacoes": "Sem avaria.",
     "ID COLABORADOR": "96556",
     "ID DO AVALIADOR(A)": "272640",
     "Abrir Os": "NÃO",
-    "Os": NaN,
-    "Abrir Os ": "NÃO"
+    "Os": null,
+    "Abrir Os ": "NÃO",
+    "Unnamed: 21": null
   },
   {
     "ID": "3529714",
@@ -6327,14 +6594,15 @@ const CHECKLIST_VEICULAR_DATA = [
     "Condutor": "Reinan Mota de Oliveira ",
     "Data Hora": "16/03/2026 14:00",
     "VIDEOTELEMTRIA": "SIM",
-    "Itens Danificados": NaN,
+    "Itens Danificados": null,
     "Estado de Criticidade Veículo": "Leve(Liberado)",
     "Observacoes": "Sem avaria.",
     "ID COLABORADOR": "245310",
     "ID DO AVALIADOR(A)": "272640",
     "Abrir Os": "NÃO",
-    "Os": NaN,
-    "Abrir Os ": "NÃO"
+    "Os": null,
+    "Abrir Os ": "NÃO",
+    "Unnamed: 21": null
   },
   {
     "ID": "3534544",
@@ -6351,14 +6619,15 @@ const CHECKLIST_VEICULAR_DATA = [
     "Condutor": "Alessandro da Silva ",
     "Data Hora": "16/03/2026 14:30",
     "VIDEOTELEMTRIA": "SIM",
-    "Itens Danificados": NaN,
+    "Itens Danificados": null,
     "Estado de Criticidade Veículo": "Leve(Liberado)",
     "Observacoes": "Sem avaria.",
     "ID COLABORADOR": "262010",
     "ID DO AVALIADOR(A)": "272640",
     "Abrir Os": "NÃO",
-    "Os": NaN,
-    "Abrir Os ": "NÃO"
+    "Os": null,
+    "Abrir Os ": "NÃO",
+    "Unnamed: 21": null
   },
   {
     "ID": "3534545",
@@ -6375,14 +6644,15 @@ const CHECKLIST_VEICULAR_DATA = [
     "Condutor": "Alessandro da Silva ",
     "Data Hora": "16/03/2026 15:47",
     "VIDEOTELEMTRIA": "NÃO",
-    "Itens Danificados": NaN,
+    "Itens Danificados": null,
     "Estado de Criticidade Veículo": "Leve(Liberado)",
     "Observacoes": "Sem avaria.",
     "ID COLABORADOR": "262010",
     "ID DO AVALIADOR(A)": "272640",
     "Abrir Os": "NÃO",
-    "Os": NaN,
-    "Abrir Os ": "NÃO"
+    "Os": null,
+    "Abrir Os ": "NÃO",
+    "Unnamed: 21": null
   },
   {
     "ID": "3534546",
@@ -6399,14 +6669,15 @@ const CHECKLIST_VEICULAR_DATA = [
     "Condutor": "Cenara Aparecida dos Santos Silva",
     "Data Hora": "17/03/2026 11:29",
     "VIDEOTELEMTRIA": "SIM",
-    "Itens Danificados": NaN,
+    "Itens Danificados": null,
     "Estado de Criticidade Veículo": "Moderado(Condutor notificado)",
     "Observacoes": "Reservatório do esguicho (quebrado)",
     "ID COLABORADOR": "2510388",
     "ID DO AVALIADOR(A)": "272640",
     "Abrir Os": "SIM",
     "Os": "716179",
-    "Abrir Os ": "SIM"
+    "Abrir Os ": "SIM",
+    "Unnamed: 21": null
   },
   {
     "ID": "3534547",
@@ -6430,7 +6701,8 @@ const CHECKLIST_VEICULAR_DATA = [
     "ID DO AVALIADOR(A)": "278000",
     "Abrir Os": "SIM",
     "Os": "716192",
-    "Abrir Os ": "SIM"
+    "Abrir Os ": "SIM",
+    "Unnamed: 21": null
   },
   {
     "ID": "3534548",
@@ -6447,14 +6719,15 @@ const CHECKLIST_VEICULAR_DATA = [
     "Condutor": "Henrique Mendes Ferreira ",
     "Data Hora": "17/03/2026 10:24",
     "VIDEOTELEMTRIA": "SIM",
-    "Itens Danificados": NaN,
+    "Itens Danificados": null,
     "Estado de Criticidade Veículo": "Leve(Liberado)",
     "Observacoes": "Sem avaria.",
     "ID COLABORADOR": "269710",
     "ID DO AVALIADOR(A)": "272640",
     "Abrir Os": "NÃO",
-    "Os": NaN,
-    "Abrir Os ": "NÃO"
+    "Os": null,
+    "Abrir Os ": "NÃO",
+    "Unnamed: 21": null
   },
   {
     "ID": "3534549",
@@ -6471,14 +6744,15 @@ const CHECKLIST_VEICULAR_DATA = [
     "Condutor": "Antonio Marcos Souza ",
     "Data Hora": "17/03/2026 10:32",
     "VIDEOTELEMTRIA": "SIM",
-    "Itens Danificados": NaN,
+    "Itens Danificados": null,
     "Estado de Criticidade Veículo": "Leve(Liberado)",
     "Observacoes": "Sem avaria.",
     "ID COLABORADOR": "260840",
     "ID DO AVALIADOR(A)": "272640",
     "Abrir Os": "NÃO",
-    "Os": NaN,
-    "Abrir Os ": "NÃO"
+    "Os": null,
+    "Abrir Os ": "NÃO",
+    "Unnamed: 21": null
   },
   {
     "ID": "3534550",
@@ -6495,14 +6769,15 @@ const CHECKLIST_VEICULAR_DATA = [
     "Condutor": "Jussara Soares de Souza ",
     "Data Hora": "17/03/2026 14:42",
     "VIDEOTELEMTRIA": "SIM",
-    "Itens Danificados": NaN,
+    "Itens Danificados": null,
     "Estado de Criticidade Veículo": "Leve(Liberado)",
     "Observacoes": "Sem avaria.",
     "ID COLABORADOR": "272640",
     "ID DO AVALIADOR(A)": "272640",
     "Abrir Os": "NÃO",
-    "Os": NaN,
-    "Abrir Os ": "NÃO"
+    "Os": null,
+    "Abrir Os ": "NÃO",
+    "Unnamed: 21": null
   },
   {
     "ID": "3534551",
@@ -6525,8 +6800,9 @@ const CHECKLIST_VEICULAR_DATA = [
     "ID COLABORADOR": "157958",
     "ID DO AVALIADOR(A)": "272640",
     "Abrir Os": "SIM",
-    "Os": NaN,
-    "Abrir Os ": "SIM"
+    "Os": null,
+    "Abrir Os ": "SIM",
+    "Unnamed: 21": null
   },
   {
     "ID": "3534552",
@@ -6543,14 +6819,15 @@ const CHECKLIST_VEICULAR_DATA = [
     "Condutor": "Jussara Soares de Souza ",
     "Data Hora": "17/03/2026 15:38",
     "VIDEOTELEMTRIA": "SIM",
-    "Itens Danificados": NaN,
+    "Itens Danificados": null,
     "Estado de Criticidade Veículo": "Leve(Liberado)",
     "Observacoes": "Sem avaria.",
     "ID COLABORADOR": "272640",
     "ID DO AVALIADOR(A)": "272640",
     "Abrir Os": "NÃO",
-    "Os": NaN,
-    "Abrir Os ": "NÃO"
+    "Os": null,
+    "Abrir Os ": "NÃO",
+    "Unnamed: 21": null
   },
   {
     "ID": "3534553",
@@ -6567,14 +6844,15 @@ const CHECKLIST_VEICULAR_DATA = [
     "Condutor": "Maximiano Gomes da Silva ",
     "Data Hora": "18/03/2026 07:17",
     "VIDEOTELEMTRIA": "SIM",
-    "Itens Danificados": NaN,
+    "Itens Danificados": null,
     "Estado de Criticidade Veículo": "Leve(Liberado)",
     "Observacoes": "Sem avaria.",
     "ID COLABORADOR": "251170",
     "ID DO AVALIADOR(A)": "278000",
     "Abrir Os": "NÃO",
-    "Os": NaN,
-    "Abrir Os ": "NÃO"
+    "Os": null,
+    "Abrir Os ": "NÃO",
+    "Unnamed: 21": null
   },
   {
     "ID": "3534554",
@@ -6591,14 +6869,15 @@ const CHECKLIST_VEICULAR_DATA = [
     "Condutor": "Daniel Dias Novais ",
     "Data Hora": "18/03/2026 07:30",
     "VIDEOTELEMTRIA": "SIM",
-    "Itens Danificados": NaN,
+    "Itens Danificados": null,
     "Estado de Criticidade Veículo": "Leve(Liberado)",
     "Observacoes": "Sem avaria.",
     "ID COLABORADOR": "279130",
     "ID DO AVALIADOR(A)": "278000",
     "Abrir Os": "NÃO",
-    "Os": NaN,
-    "Abrir Os ": "NÃO"
+    "Os": null,
+    "Abrir Os ": "NÃO",
+    "Unnamed: 21": null
   },
   {
     "ID": "3534555",
@@ -6615,14 +6894,15 @@ const CHECKLIST_VEICULAR_DATA = [
     "Condutor": "Juraci Rodrigues dos Santos ",
     "Data Hora": "18/03/2026 07:47",
     "VIDEOTELEMTRIA": "SIM",
-    "Itens Danificados": NaN,
+    "Itens Danificados": null,
     "Estado de Criticidade Veículo": "Leve(Liberado)",
     "Observacoes": "Sem avaria.",
     "ID COLABORADOR": "32074",
     "ID DO AVALIADOR(A)": "278000",
     "Abrir Os": "NÃO",
-    "Os": NaN,
-    "Abrir Os ": "NÃO"
+    "Os": null,
+    "Abrir Os ": "NÃO",
+    "Unnamed: 21": null
   },
   {
     "ID": "3534556",
@@ -6639,14 +6919,15 @@ const CHECKLIST_VEICULAR_DATA = [
     "Condutor": "Alessandro da Silva ",
     "Data Hora": "18/03/2026 13:11",
     "VIDEOTELEMTRIA": "SIM",
-    "Itens Danificados": NaN,
+    "Itens Danificados": null,
     "Estado de Criticidade Veículo": "Leve(Liberado)",
     "Observacoes": "Sem avaria.",
     "ID COLABORADOR": "262010",
     "ID DO AVALIADOR(A)": "278000",
     "Abrir Os": "NÃO",
-    "Os": NaN,
-    "Abrir Os ": "NÃO"
+    "Os": null,
+    "Abrir Os ": "NÃO",
+    "Unnamed: 21": null
   },
   {
     "ID": "3534557",
@@ -6663,14 +6944,15 @@ const CHECKLIST_VEICULAR_DATA = [
     "Condutor": "Alessandro da Silva ",
     "Data Hora": "18/03/2026 13:55",
     "VIDEOTELEMTRIA": "SIM",
-    "Itens Danificados": NaN,
+    "Itens Danificados": null,
     "Estado de Criticidade Veículo": "Leve(Liberado)",
     "Observacoes": "Checklist pós manutenção concluído (esguicho)",
-    "ID COLABORADOR": NaN,
+    "ID COLABORADOR": null,
     "ID DO AVALIADOR(A)": "278000",
     "Abrir Os": "NÃO",
-    "Os": NaN,
-    "Abrir Os ": "NÃO"
+    "Os": null,
+    "Abrir Os ": "NÃO",
+    "Unnamed: 21": null
   },
   {
     "ID": "3541728",
@@ -6687,14 +6969,15 @@ const CHECKLIST_VEICULAR_DATA = [
     "Condutor": "Daiane Cândido da Silva ",
     "Data Hora": "19/03/2026 10:00",
     "VIDEOTELEMTRIA": "SIM",
-    "Itens Danificados": NaN,
+    "Itens Danificados": null,
     "Estado de Criticidade Veículo": "Leve(Liberado)",
     "Observacoes": "Sem avaria.",
     "ID COLABORADOR": "250690",
     "ID DO AVALIADOR(A)": "278000",
     "Abrir Os": "NÃO",
-    "Os": NaN,
-    "Abrir Os ": "NÃO"
+    "Os": null,
+    "Abrir Os ": "NÃO",
+    "Unnamed: 21": null
   },
   {
     "ID": "3541730",
@@ -6711,14 +6994,15 @@ const CHECKLIST_VEICULAR_DATA = [
     "Condutor": "Alessandro da Silva ",
     "Data Hora": "19/03/2026 14:32",
     "VIDEOTELEMTRIA": "SIM",
-    "Itens Danificados": NaN,
+    "Itens Danificados": null,
     "Estado de Criticidade Veículo": "Leve(Liberado)",
     "Observacoes": "Sem avaria.",
     "ID COLABORADOR": "262010",
     "ID DO AVALIADOR(A)": "272640",
     "Abrir Os": "NÃO",
-    "Os": NaN,
-    "Abrir Os ": "NÃO"
+    "Os": null,
+    "Abrir Os ": "NÃO",
+    "Unnamed: 21": null
   },
   {
     "ID": "3541731",
@@ -6735,14 +7019,15 @@ const CHECKLIST_VEICULAR_DATA = [
     "Condutor": "Onofre Evangelista da Silva Junior ",
     "Data Hora": "19/03/2026 15:40",
     "VIDEOTELEMTRIA": "SIM",
-    "Itens Danificados": NaN,
+    "Itens Danificados": null,
     "Estado de Criticidade Veículo": "Leve(Liberado)",
     "Observacoes": "Sem avaria.",
     "ID COLABORADOR": "163363",
     "ID DO AVALIADOR(A)": "272640",
     "Abrir Os": "NÃO",
-    "Os": NaN,
-    "Abrir Os ": "NÃO"
+    "Os": null,
+    "Abrir Os ": "NÃO",
+    "Unnamed: 21": null
   },
   {
     "ID": "3541732",
@@ -6759,14 +7044,15 @@ const CHECKLIST_VEICULAR_DATA = [
     "Condutor": "Rafael Costa Rosa ",
     "Data Hora": "20/03/2026 10:07",
     "VIDEOTELEMTRIA": "SIM",
-    "Itens Danificados": NaN,
+    "Itens Danificados": null,
     "Estado de Criticidade Veículo": "Leve(Liberado)",
     "Observacoes": "Sem avaria.",
     "ID COLABORADOR": "250250",
     "ID DO AVALIADOR(A)": "278000",
     "Abrir Os": "NÃO",
-    "Os": NaN,
-    "Abrir Os ": "NÃO"
+    "Os": null,
+    "Abrir Os ": "NÃO",
+    "Unnamed: 21": null
   },
   {
     "ID": "3541733",
@@ -6783,14 +7069,15 @@ const CHECKLIST_VEICULAR_DATA = [
     "Condutor": "Júlio César Apregio de Souza ",
     "Data Hora": "20/03/2026 10:49",
     "VIDEOTELEMTRIA": "SIM",
-    "Itens Danificados": NaN,
+    "Itens Danificados": null,
     "Estado de Criticidade Veículo": "Leve(Liberado)",
     "Observacoes": "Sem avaria.",
     "ID COLABORADOR": "279720",
     "ID DO AVALIADOR(A)": "278000",
     "Abrir Os": "NÃO",
-    "Os": NaN,
-    "Abrir Os ": "NÃO"
+    "Os": null,
+    "Abrir Os ": "NÃO",
+    "Unnamed: 21": null
   },
   {
     "ID": "3541734",
@@ -6804,17 +7091,18 @@ const CHECKLIST_VEICULAR_DATA = [
     "Score": "0.0",
     "Frota": "461425 - CHEVROLET SPIN AT PREMIER - ALUGADO(SVA9F34)",
     "GESTORES": "TIAGO DAMIAO LOUZADA",
-    "Condutor": NaN,
+    "Condutor": null,
     "Data Hora": "20/03/2026 15:39",
     "VIDEOTELEMTRIA": "SIM",
-    "Itens Danificados": NaN,
+    "Itens Danificados": null,
     "Estado de Criticidade Veículo": "Moderado(Condutor notificado)",
     "Observacoes": "Saia lateral direita (não tem)",
     "ID COLABORADOR": "275060",
     "ID DO AVALIADOR(A)": "272640",
     "Abrir Os": "SIM",
     "Os": "716680",
-    "Abrir Os ": "SIM"
+    "Abrir Os ": "SIM",
+    "Unnamed: 21": null
   },
   {
     "ID": "3541735",
@@ -6831,14 +7119,15 @@ const CHECKLIST_VEICULAR_DATA = [
     "Condutor": "Jussara Soares de Souza ",
     "Data Hora": "20/03/2026 16:01",
     "VIDEOTELEMTRIA": "SIM",
-    "Itens Danificados": NaN,
+    "Itens Danificados": null,
     "Estado de Criticidade Veículo": "Leve(Liberado)",
     "Observacoes": "Sem avaria.",
     "ID COLABORADOR": "268470",
     "ID DO AVALIADOR(A)": "272640",
     "Abrir Os": "NÃO",
-    "Os": NaN,
-    "Abrir Os ": "NÃO"
+    "Os": null,
+    "Abrir Os ": "NÃO",
+    "Unnamed: 21": null
   },
   {
     "ID": "3541736",
@@ -6855,14 +7144,15 @@ const CHECKLIST_VEICULAR_DATA = [
     "Condutor": "César Fabiano Mineiro ",
     "Data Hora": "23/03/2026 08:25",
     "VIDEOTELEMTRIA": "SIM",
-    "Itens Danificados": NaN,
+    "Itens Danificados": null,
     "Estado de Criticidade Veículo": "Leve(Liberado)",
     "Observacoes": "Sem avaria.",
     "ID COLABORADOR": "2100",
     "ID DO AVALIADOR(A)": "272640",
     "Abrir Os": "NÃO",
-    "Os": NaN,
-    "Abrir Os ": "NÃO"
+    "Os": null,
+    "Abrir Os ": "NÃO",
+    "Unnamed: 21": null
   },
   {
     "ID": "3541737",
@@ -6879,14 +7169,15 @@ const CHECKLIST_VEICULAR_DATA = [
     "Condutor": "Jussara Soares de Souza ",
     "Data Hora": "23/03/2026 08:26",
     "VIDEOTELEMTRIA": "SIM",
-    "Itens Danificados": NaN,
+    "Itens Danificados": null,
     "Estado de Criticidade Veículo": "Moderado(Condutor notificado)",
     "Observacoes": "Riscado no para-choque  dianteiro.",
-    "ID COLABORADOR": NaN,
+    "ID COLABORADOR": null,
     "ID DO AVALIADOR(A)": "27240",
     "Abrir Os": "NÃO",
-    "Os": NaN,
-    "Abrir Os ": "NÃO"
+    "Os": null,
+    "Abrir Os ": "NÃO",
+    "Unnamed: 21": null
   },
   {
     "ID": "3541738",
@@ -6903,14 +7194,15 @@ const CHECKLIST_VEICULAR_DATA = [
     "Condutor": "Marcio Antonio Alves da Silva ",
     "Data Hora": "23/03/2026 09:08",
     "VIDEOTELEMTRIA": "SIM",
-    "Itens Danificados": NaN,
+    "Itens Danificados": null,
     "Estado de Criticidade Veículo": "Leve(Liberado)",
     "Observacoes": "Sem avaria.",
     "ID COLABORADOR": "129185",
     "ID DO AVALIADOR(A)": "272640",
     "Abrir Os": "NÃO",
-    "Os": NaN,
-    "Abrir Os ": "NÃO"
+    "Os": null,
+    "Abrir Os ": "NÃO",
+    "Unnamed: 21": null
   },
   {
     "ID": "3541739",
@@ -6927,14 +7219,15 @@ const CHECKLIST_VEICULAR_DATA = [
     "Condutor": "Gilmar Rebouças ",
     "Data Hora": "23/03/2026 09:13",
     "VIDEOTELEMTRIA": "NÃO",
-    "Itens Danificados": NaN,
+    "Itens Danificados": null,
     "Estado de Criticidade Veículo": "Leve(Liberado)",
     "Observacoes": "Sem avaria.",
-    "ID COLABORADOR": NaN,
+    "ID COLABORADOR": null,
     "ID DO AVALIADOR(A)": "272640",
     "Abrir Os": "NÃO",
-    "Os": NaN,
-    "Abrir Os ": "NÃO"
+    "Os": null,
+    "Abrir Os ": "NÃO",
+    "Unnamed: 21": null
   },
   {
     "ID": "3541740",
@@ -6951,14 +7244,15 @@ const CHECKLIST_VEICULAR_DATA = [
     "Condutor": "Gabriel Soares Dias ",
     "Data Hora": "23/03/2026 09:39",
     "VIDEOTELEMTRIA": "SIM",
-    "Itens Danificados": NaN,
+    "Itens Danificados": null,
     "Estado de Criticidade Veículo": "Leve(Liberado)",
     "Observacoes": "Entregue na data 23/03 chave nova do Ford Ka. ",
     "ID COLABORADOR": "272670",
     "ID DO AVALIADOR(A)": "272640",
     "Abrir Os": "NÃO",
-    "Os": NaN,
-    "Abrir Os ": "NÃO"
+    "Os": null,
+    "Abrir Os ": "NÃO",
+    "Unnamed: 21": null
   },
   {
     "ID": "3544013",
@@ -6975,14 +7269,15 @@ const CHECKLIST_VEICULAR_DATA = [
     "Condutor": "Luiz Alfredo de Souza ",
     "Data Hora": "23/03/2026 14:18",
     "VIDEOTELEMTRIA": "SIM",
-    "Itens Danificados": NaN,
+    "Itens Danificados": null,
     "Estado de Criticidade Veículo": "Leve(Liberado)",
     "Observacoes": "Sem avaria.",
     "ID COLABORADOR": "5423",
     "ID DO AVALIADOR(A)": "272640",
     "Abrir Os": "NÃO",
-    "Os": NaN,
-    "Abrir Os ": "NÃO"
+    "Os": null,
+    "Abrir Os ": "NÃO",
+    "Unnamed: 21": null
   },
   {
     "ID": "3544014",
@@ -6999,14 +7294,15 @@ const CHECKLIST_VEICULAR_DATA = [
     "Condutor": "Reginaldo da Silva Gomes ",
     "Data Hora": "23/03/2026 15:05",
     "VIDEOTELEMTRIA": "SIM",
-    "Itens Danificados": NaN,
+    "Itens Danificados": null,
     "Estado de Criticidade Veículo": "Leve(Liberado)",
     "Observacoes": "Sem avaria.",
     "ID COLABORADOR": "249300",
     "ID DO AVALIADOR(A)": "272640",
     "Abrir Os": "NÃO",
-    "Os": NaN,
-    "Abrir Os ": "NÃO"
+    "Os": null,
+    "Abrir Os ": "NÃO",
+    "Unnamed: 21": null
   },
   {
     "ID": "3544015",
@@ -7023,14 +7319,15 @@ const CHECKLIST_VEICULAR_DATA = [
     "Condutor": "Antonio Marcos Ribeiro Ruas ",
     "Data Hora": "23/03/2026 16:07",
     "VIDEOTELEMTRIA": "NÃO",
-    "Itens Danificados": NaN,
+    "Itens Danificados": null,
     "Estado de Criticidade Veículo": "Leve(Liberado)",
     "Observacoes": "Sem avaria.",
     "ID COLABORADOR": "183702",
     "ID DO AVALIADOR(A)": "272640",
     "Abrir Os": "NÃO",
-    "Os": NaN,
-    "Abrir Os ": "NÃO"
+    "Os": null,
+    "Abrir Os ": "NÃO",
+    "Unnamed: 21": null
   },
   {
     "ID": "3544016",
@@ -7047,14 +7344,15 @@ const CHECKLIST_VEICULAR_DATA = [
     "Condutor": "Heverton Henrique Custodio ",
     "Data Hora": "23/03/2026 16:10",
     "VIDEOTELEMTRIA": "SIM",
-    "Itens Danificados": NaN,
+    "Itens Danificados": null,
     "Estado de Criticidade Veículo": "Moderado(Condutor notificado)",
     "Observacoes": "Para brisa (trincado)",
     "ID COLABORADOR": "266560",
     "ID DO AVALIADOR(A)": "272640",
     "Abrir Os": "NÃO",
-    "Os": NaN,
-    "Abrir Os ": "NÃO"
+    "Os": null,
+    "Abrir Os ": "NÃO",
+    "Unnamed: 21": null
   },
   {
     "ID": "3544017",
@@ -7078,7 +7376,8 @@ const CHECKLIST_VEICULAR_DATA = [
     "ID DO AVALIADOR(A)": "272640",
     "Abrir Os": "SIM",
     "Os": "710455",
-    "Abrir Os ": "SIM"
+    "Abrir Os ": "SIM",
+    "Unnamed: 21": null
   },
   {
     "ID": "3545330",
@@ -7102,7 +7401,8 @@ const CHECKLIST_VEICULAR_DATA = [
     "ID DO AVALIADOR(A)": "272640",
     "Abrir Os": "SIM",
     "Os": "711591",
-    "Abrir Os ": "SIM"
+    "Abrir Os ": "SIM",
+    "Unnamed: 21": null
   },
   {
     "ID": "3545331",
@@ -7119,14 +7419,15 @@ const CHECKLIST_VEICULAR_DATA = [
     "Condutor": "Jussara Soares de Souza ",
     "Data Hora": "24/03/2026 11:39",
     "VIDEOTELEMTRIA": "SIM",
-    "Itens Danificados": NaN,
+    "Itens Danificados": null,
     "Estado de Criticidade Veículo": "Leve(Liberado)",
     "Observacoes": "Sem avaria.",
     "ID COLABORADOR": "272640",
     "ID DO AVALIADOR(A)": "278000",
     "Abrir Os": "NÃO",
-    "Os": NaN,
-    "Abrir Os ": "NÃO"
+    "Os": null,
+    "Abrir Os ": "NÃO",
+    "Unnamed: 21": null
   },
   {
     "ID": "3545332",
@@ -7143,14 +7444,15 @@ const CHECKLIST_VEICULAR_DATA = [
     "Condutor": "Emerson Cândido Coelho Amassado ",
     "Data Hora": "24/03/2026 11:23",
     "VIDEOTELEMTRIA": "SIM",
-    "Itens Danificados": NaN,
+    "Itens Danificados": null,
     "Estado de Criticidade Veículo": "Leve(Liberado)",
     "Observacoes": "Sem avaria.",
     "ID COLABORADOR": "230880",
     "ID DO AVALIADOR(A)": "278000",
     "Abrir Os": "NÃO",
-    "Os": NaN,
-    "Abrir Os ": "NÃO"
+    "Os": null,
+    "Abrir Os ": "NÃO",
+    "Unnamed: 21": null
   },
   {
     "ID": "3545333",
@@ -7167,14 +7469,15 @@ const CHECKLIST_VEICULAR_DATA = [
     "Condutor": "Jussara Soares de Souza ",
     "Data Hora": "24/03/2026 11:37",
     "VIDEOTELEMTRIA": "SIM",
-    "Itens Danificados": NaN,
+    "Itens Danificados": null,
     "Estado de Criticidade Veículo": "Leve(Liberado)",
     "Observacoes": "Sem avaria.",
     "ID COLABORADOR": "272640",
     "ID DO AVALIADOR(A)": "278000",
     "Abrir Os": "NÃO",
-    "Os": NaN,
-    "Abrir Os ": "NÃO"
+    "Os": null,
+    "Abrir Os ": "NÃO",
+    "Unnamed: 21": null
   },
   {
     "ID": "3545334",
@@ -7191,14 +7494,15 @@ const CHECKLIST_VEICULAR_DATA = [
     "Condutor": "Eduardo Franco Nogueira ",
     "Data Hora": "24/03/2026 13:37",
     "VIDEOTELEMTRIA": "SIM",
-    "Itens Danificados": NaN,
+    "Itens Danificados": null,
     "Estado de Criticidade Veículo": "Moderado(Condutor notificado)",
     "Observacoes": "Borracha vedação da porta traseira Ar condicionado não mantendo a temperatura ",
     "ID COLABORADOR": "250700",
     "ID DO AVALIADOR(A)": "278000",
     "Abrir Os": "SIM",
     "Os": "716835",
-    "Abrir Os ": "SIM"
+    "Abrir Os ": "SIM",
+    "Unnamed: 21": null
   },
   {
     "ID": "3545335",
@@ -7215,14 +7519,15 @@ const CHECKLIST_VEICULAR_DATA = [
     "Condutor": "Ronildo Barbosa ",
     "Data Hora": "24/03/2026 15:47",
     "VIDEOTELEMTRIA": "SIM",
-    "Itens Danificados": NaN,
+    "Itens Danificados": null,
     "Estado de Criticidade Veículo": "Moderado(Condutor notificado)",
     "Observacoes": "Tampa traseira (não está abrindo)",
     "ID COLABORADOR": "81103",
     "ID DO AVALIADOR(A)": "272640",
     "Abrir Os": "SIM",
     "Os": "716843",
-    "Abrir Os ": "SIM"
+    "Abrir Os ": "SIM",
+    "Unnamed: 21": null
   },
   {
     "ID": "3547873",
@@ -7239,14 +7544,15 @@ const CHECKLIST_VEICULAR_DATA = [
     "Condutor": "José Ricardo Carmo",
     "Data Hora": "23/03/2026 16:30",
     "VIDEOTELEMTRIA": "SIM",
-    "Itens Danificados": NaN,
+    "Itens Danificados": null,
     "Estado de Criticidade Veículo": "Leve(Liberado)",
     "Observacoes": "Sem avaria.",
     "ID COLABORADOR": "84165",
     "ID DO AVALIADOR(A)": "272640",
     "Abrir Os": "NÃO",
-    "Os": NaN,
-    "Abrir Os ": "NÃO"
+    "Os": null,
+    "Abrir Os ": "NÃO",
+    "Unnamed: 21": null
   },
   {
     "ID": "3547874",
@@ -7263,14 +7569,15 @@ const CHECKLIST_VEICULAR_DATA = [
     "Condutor": "William Roberto Dalla Costa ",
     "Data Hora": "25/03/2026 07:10",
     "VIDEOTELEMTRIA": "SIM",
-    "Itens Danificados": NaN,
+    "Itens Danificados": null,
     "Estado de Criticidade Veículo": "Leve(Liberado)",
     "Observacoes": "Sem avaria.",
     "ID COLABORADOR": "254120",
     "ID DO AVALIADOR(A)": "272640",
     "Abrir Os": "NÃO",
-    "Os": NaN,
-    "Abrir Os ": "NÃO"
+    "Os": null,
+    "Abrir Os ": "NÃO",
+    "Unnamed: 21": null
   },
   {
     "ID": "3547875",
@@ -7287,14 +7594,15 @@ const CHECKLIST_VEICULAR_DATA = [
     "Condutor": "Jussara Soares de Souza ",
     "Data Hora": "25/03/2026 10:04",
     "VIDEOTELEMTRIA": "NÃO",
-    "Itens Danificados": NaN,
+    "Itens Danificados": null,
     "Estado de Criticidade Veículo": "Leve(Liberado)",
     "Observacoes": "Sem avaria.",
     "ID COLABORADOR": "272640",
     "ID DO AVALIADOR(A)": "278000",
     "Abrir Os": "NÃO",
-    "Os": NaN,
-    "Abrir Os ": "NÃO"
+    "Os": null,
+    "Abrir Os ": "NÃO",
+    "Unnamed: 21": null
   },
   {
     "ID": "3547876",
@@ -7311,14 +7619,15 @@ const CHECKLIST_VEICULAR_DATA = [
     "Condutor": "Jussara Soares de Souza ",
     "Data Hora": "25/03/2026 10:59",
     "VIDEOTELEMTRIA": "SIM",
-    "Itens Danificados": NaN,
+    "Itens Danificados": null,
     "Estado de Criticidade Veículo": "Leve(Liberado)",
     "Observacoes": "Sem avaria. ",
     "ID COLABORADOR": "272640",
     "ID DO AVALIADOR(A)": "278000",
     "Abrir Os": "NÃO",
-    "Os": NaN,
-    "Abrir Os ": "NÃO"
+    "Os": null,
+    "Abrir Os ": "NÃO",
+    "Unnamed: 21": null
   },
   {
     "ID": "3547877",
@@ -7342,7 +7651,8 @@ const CHECKLIST_VEICULAR_DATA = [
     "ID DO AVALIADOR(A)": "278000",
     "Abrir Os": "SIM",
     "Os": "711591",
-    "Abrir Os ": "SIM"
+    "Abrir Os ": "SIM",
+    "Unnamed: 21": null
   },
   {
     "ID": "3547879",
@@ -7359,14 +7669,15 @@ const CHECKLIST_VEICULAR_DATA = [
     "Condutor": "Paulo da Silva Miranda ",
     "Data Hora": "25/03/2026 14:53",
     "VIDEOTELEMTRIA": "SIM",
-    "Itens Danificados": NaN,
+    "Itens Danificados": null,
     "Estado de Criticidade Veículo": "Leve(Liberado)",
     "Observacoes": "Sem avaria.",
     "ID COLABORADOR": "261590",
     "ID DO AVALIADOR(A)": "272640",
     "Abrir Os": "NÃO",
-    "Os": NaN,
-    "Abrir Os ": "NÃO"
+    "Os": null,
+    "Abrir Os ": "NÃO",
+    "Unnamed: 21": null
   },
   {
     "ID": "3547880",
@@ -7383,14 +7694,15 @@ const CHECKLIST_VEICULAR_DATA = [
     "Condutor": "Guilherme Lopes dos Santos ",
     "Data Hora": "25/03/2026 15:09",
     "VIDEOTELEMTRIA": "SIM",
-    "Itens Danificados": NaN,
+    "Itens Danificados": null,
     "Estado de Criticidade Veículo": "Moderado(Condutor notificado)",
     "Observacoes": "Porta motorista (riscado e amassado)",
     "ID COLABORADOR": "183635",
     "ID DO AVALIADOR(A)": "272640",
     "Abrir Os": "SIM",
     "Os": "716922",
-    "Abrir Os ": "SIM"
+    "Abrir Os ": "SIM",
+    "Unnamed: 21": null
   },
   {
     "ID": "3547881",
@@ -7407,14 +7719,15 @@ const CHECKLIST_VEICULAR_DATA = [
     "Condutor": "Daniel Ferreira da Cruz Neto ",
     "Data Hora": "25/03/2026 15:12",
     "VIDEOTELEMTRIA": "NÃO",
-    "Itens Danificados": NaN,
+    "Itens Danificados": null,
     "Estado de Criticidade Veículo": "Leve(Liberado)",
     "Observacoes": "Sem avaria.",
     "ID COLABORADOR": "266350",
     "ID DO AVALIADOR(A)": "272640",
     "Abrir Os": "NÃO",
-    "Os": NaN,
-    "Abrir Os ": "NÃO"
+    "Os": null,
+    "Abrir Os ": "NÃO",
+    "Unnamed: 21": null
   },
   {
     "ID": "3547882",
@@ -7431,14 +7744,15 @@ const CHECKLIST_VEICULAR_DATA = [
     "Condutor": "Elias Teixeira Costa ",
     "Data Hora": "25/03/2026 15:20",
     "VIDEOTELEMTRIA": "SIM",
-    "Itens Danificados": NaN,
+    "Itens Danificados": null,
     "Estado de Criticidade Veículo": "Moderado(Condutor notificado)",
     "Observacoes": "Tampa traseira (amassado)Moldura da tampa traseira (danificada)",
     "ID COLABORADOR": "230980",
     "ID DO AVALIADOR(A)": "272640",
     "Abrir Os": "SIM",
     "Os": "714433",
-    "Abrir Os ": "SIM"
+    "Abrir Os ": "SIM",
+    "Unnamed: 21": null
   },
   {
     "ID": "3547895",
@@ -7455,14 +7769,15 @@ const CHECKLIST_VEICULAR_DATA = [
     "Condutor": "Carlos dos Santos Alcaide",
     "Data Hora": "25/03/2026 15:46",
     "VIDEOTELEMTRIA": "SIM",
-    "Itens Danificados": NaN,
+    "Itens Danificados": null,
     "Estado de Criticidade Veículo": "Leve(Liberado)",
     "Observacoes": "Sem avaria.",
     "ID COLABORADOR": "273230",
     "ID DO AVALIADOR(A)": "272640",
     "Abrir Os": "NÃO",
-    "Os": NaN,
-    "Abrir Os ": "NÃO"
+    "Os": null,
+    "Abrir Os ": "NÃO",
+    "Unnamed: 21": null
   },
   {
     "ID": "3549733",
@@ -7479,14 +7794,15 @@ const CHECKLIST_VEICULAR_DATA = [
     "Condutor": "Anderson Ricardo Ruaro ",
     "Data Hora": "26/03/2026 12:56",
     "VIDEOTELEMTRIA": "SIM",
-    "Itens Danificados": NaN,
+    "Itens Danificados": null,
     "Estado de Criticidade Veículo": "Leve(Liberado)",
     "Observacoes": "Sem avaria.",
     "ID COLABORADOR": "168907",
     "ID DO AVALIADOR(A)": "272640",
     "Abrir Os": "NÃO",
-    "Os": NaN,
-    "Abrir Os ": "NÃO"
+    "Os": null,
+    "Abrir Os ": "NÃO",
+    "Unnamed: 21": null
   },
   {
     "ID": "3549734",
@@ -7503,14 +7819,15 @@ const CHECKLIST_VEICULAR_DATA = [
     "Condutor": "Geovane de Azevedo Dias ",
     "Data Hora": "26/03/2026 13:23",
     "VIDEOTELEMTRIA": "SIM",
-    "Itens Danificados": NaN,
+    "Itens Danificados": null,
     "Estado de Criticidade Veículo": "Leve(Liberado)",
     "Observacoes": "Sem avaria.",
     "ID COLABORADOR": "183313",
     "ID DO AVALIADOR(A)": "272640",
     "Abrir Os": "NÃO",
-    "Os": NaN,
-    "Abrir Os ": "NÃO"
+    "Os": null,
+    "Abrir Os ": "NÃO",
+    "Unnamed: 21": null
   },
   {
     "ID": "3549735",
@@ -7527,14 +7844,15 @@ const CHECKLIST_VEICULAR_DATA = [
     "Condutor": "Pedro Augusto Silva ",
     "Data Hora": "26/03/2026 14:07",
     "VIDEOTELEMTRIA": "SIM",
-    "Itens Danificados": NaN,
+    "Itens Danificados": null,
     "Estado de Criticidade Veículo": "Leve(Liberado)",
     "Observacoes": "Sem avaria.",
     "ID COLABORADOR": "270270",
     "ID DO AVALIADOR(A)": "272640",
     "Abrir Os": "NÃO",
-    "Os": NaN,
-    "Abrir Os ": "NÃO"
+    "Os": null,
+    "Abrir Os ": "NÃO",
+    "Unnamed: 21": null
   },
   {
     "ID": "3549736",
@@ -7551,14 +7869,15 @@ const CHECKLIST_VEICULAR_DATA = [
     "Condutor": "Jussara Soares de Souza ",
     "Data Hora": "26/03/2026 16:13",
     "VIDEOTELEMTRIA": "SIM",
-    "Itens Danificados": NaN,
+    "Itens Danificados": null,
     "Estado de Criticidade Veículo": "Leve(Liberado)",
     "Observacoes": "Checklist pós manutenção: Concluído ",
     "ID COLABORADOR": "272640",
     "ID DO AVALIADOR(A)": "272640",
     "Abrir Os": "NÃO",
-    "Os": NaN,
-    "Abrir Os ": "NÃO"
+    "Os": null,
+    "Abrir Os ": "NÃO",
+    "Unnamed: 21": null
   },
   {
     "ID": "3549737",
@@ -7575,14 +7894,15 @@ const CHECKLIST_VEICULAR_DATA = [
     "Condutor": "Luis Fernando Cassezi ",
     "Data Hora": "26/03/2026 16:19",
     "VIDEOTELEMTRIA": "SIM",
-    "Itens Danificados": NaN,
+    "Itens Danificados": null,
     "Estado de Criticidade Veículo": "Leve(Liberado)",
     "Observacoes": "Sem avaria.",
-    "ID COLABORADOR": NaN,
+    "ID COLABORADOR": null,
     "ID DO AVALIADOR(A)": "272640",
     "Abrir Os": "NÃO",
-    "Os": NaN,
-    "Abrir Os ": "NÃO"
+    "Os": null,
+    "Abrir Os ": "NÃO",
+    "Unnamed: 21": null
   },
   {
     "ID": "3551904",
@@ -7599,14 +7919,15 @@ const CHECKLIST_VEICULAR_DATA = [
     "Condutor": "José Ricardo do Carmo ",
     "Data Hora": "27/03/2026 10:03",
     "VIDEOTELEMTRIA": "SIM",
-    "Itens Danificados": NaN,
+    "Itens Danificados": null,
     "Estado de Criticidade Veículo": "Leve(Liberado)",
     "Observacoes": "Sem avaria.",
     "ID COLABORADOR": "84165",
     "ID DO AVALIADOR(A)": "278000",
     "Abrir Os": "NÃO",
-    "Os": NaN,
-    "Abrir Os ": "NÃO"
+    "Os": null,
+    "Abrir Os ": "NÃO",
+    "Unnamed: 21": null
   },
   {
     "ID": "3551905",
@@ -7623,14 +7944,15 @@ const CHECKLIST_VEICULAR_DATA = [
     "Condutor": "Wheslee Luan Mendes da Silva ",
     "Data Hora": "27/03/2026 10:08",
     "VIDEOTELEMTRIA": "SIM",
-    "Itens Danificados": NaN,
+    "Itens Danificados": null,
     "Estado de Criticidade Veículo": "Leve(Liberado)",
     "Observacoes": "Sem avaria.",
     "ID COLABORADOR": "269860",
     "ID DO AVALIADOR(A)": "278000",
     "Abrir Os": "NÃO",
-    "Os": NaN,
-    "Abrir Os ": "NÃO"
+    "Os": null,
+    "Abrir Os ": "NÃO",
+    "Unnamed: 21": null
   },
   {
     "ID": "3551906",
@@ -7647,14 +7969,15 @@ const CHECKLIST_VEICULAR_DATA = [
     "Condutor": "Alessandro da Silva ",
     "Data Hora": "27/03/2026 14:16",
     "VIDEOTELEMTRIA": "SIM",
-    "Itens Danificados": NaN,
+    "Itens Danificados": null,
     "Estado de Criticidade Veículo": "Leve(Liberado)",
     "Observacoes": "Sem avaria.",
     "ID COLABORADOR": "262010",
     "ID DO AVALIADOR(A)": "272640",
     "Abrir Os": "NÃO",
-    "Os": NaN,
-    "Abrir Os ": "NÃO"
+    "Os": null,
+    "Abrir Os ": "NÃO",
+    "Unnamed: 21": null
   },
   {
     "ID": "3551907",
@@ -7671,14 +7994,15 @@ const CHECKLIST_VEICULAR_DATA = [
     "Condutor": "Marcos Alexandre Baffi",
     "Data Hora": "27/03/2026 15:53",
     "VIDEOTELEMTRIA": "SIM",
-    "Itens Danificados": NaN,
+    "Itens Danificados": null,
     "Estado de Criticidade Veículo": "Leve(Liberado)",
     "Observacoes": "Sem avaria.",
     "ID COLABORADOR": "207032",
     "ID DO AVALIADOR(A)": "272640",
     "Abrir Os": "NÃO",
-    "Os": NaN,
-    "Abrir Os ": "NÃO"
+    "Os": null,
+    "Abrir Os ": "NÃO",
+    "Unnamed: 21": null
   },
   {
     "ID": "3555412",
@@ -7695,14 +8019,15 @@ const CHECKLIST_VEICULAR_DATA = [
     "Condutor": "Leonardo Estenio Gallon Pinto ",
     "Data Hora": "30/03/2026 07:14",
     "VIDEOTELEMTRIA": "SIM",
-    "Itens Danificados": NaN,
+    "Itens Danificados": null,
     "Estado de Criticidade Veículo": "Leve(Liberado)",
     "Observacoes": "Sem avaria.",
     "ID COLABORADOR": "272430",
     "ID DO AVALIADOR(A)": "272640",
     "Abrir Os": "NÃO",
-    "Os": NaN,
-    "Abrir Os ": "NÃO"
+    "Os": null,
+    "Abrir Os ": "NÃO",
+    "Unnamed: 21": null
   },
   {
     "ID": "3555413",
@@ -7719,14 +8044,15 @@ const CHECKLIST_VEICULAR_DATA = [
     "Condutor": "César Fabiano Mineiro ",
     "Data Hora": "30/03/2026 07:24",
     "VIDEOTELEMTRIA": "SIM",
-    "Itens Danificados": NaN,
+    "Itens Danificados": null,
     "Estado de Criticidade Veículo": "Leve(Liberado)",
     "Observacoes": "Sem avaria.",
     "ID COLABORADOR": "2100",
     "ID DO AVALIADOR(A)": "272640",
     "Abrir Os": "NÃO",
-    "Os": NaN,
-    "Abrir Os ": "NÃO"
+    "Os": null,
+    "Abrir Os ": "NÃO",
+    "Unnamed: 21": null
   },
   {
     "ID": "3555414",
@@ -7743,14 +8069,15 @@ const CHECKLIST_VEICULAR_DATA = [
     "Condutor": "Leonardo Estenio Gallon Pinto ",
     "Data Hora": "30/03/2026 07:37",
     "VIDEOTELEMTRIA": "SIM",
-    "Itens Danificados": NaN,
+    "Itens Danificados": null,
     "Estado de Criticidade Veículo": "Leve(Liberado)",
     "Observacoes": "Sem avaria.",
     "ID COLABORADOR": "272430",
     "ID DO AVALIADOR(A)": "272640",
     "Abrir Os": "NÃO",
-    "Os": NaN,
-    "Abrir Os ": "NÃO"
+    "Os": null,
+    "Abrir Os ": "NÃO",
+    "Unnamed: 21": null
   },
   {
     "ID": "3555415",
@@ -7767,14 +8094,15 @@ const CHECKLIST_VEICULAR_DATA = [
     "Condutor": "Alessandro da Silva ",
     "Data Hora": "30/03/2026 08:10",
     "VIDEOTELEMTRIA": "SIM",
-    "Itens Danificados": NaN,
+    "Itens Danificados": null,
     "Estado de Criticidade Veículo": "Leve(Liberado)",
     "Observacoes": "Sem avaria.",
     "ID COLABORADOR": "262010",
     "ID DO AVALIADOR(A)": "272640",
     "Abrir Os": "NÃO",
-    "Os": NaN,
-    "Abrir Os ": "NÃO"
+    "Os": null,
+    "Abrir Os ": "NÃO",
+    "Unnamed: 21": null
   },
   {
     "ID": "3555416",
@@ -7791,14 +8119,15 @@ const CHECKLIST_VEICULAR_DATA = [
     "Condutor": "Tiago Damião Louzada ",
     "Data Hora": "30/03/2026 08:16",
     "VIDEOTELEMTRIA": "SIM",
-    "Itens Danificados": NaN,
+    "Itens Danificados": null,
     "Estado de Criticidade Veículo": "Leve(Liberado)",
     "Observacoes": "Sem avaria.",
     "ID COLABORADOR": "5",
     "ID DO AVALIADOR(A)": "272640",
     "Abrir Os": "NÃO",
-    "Os": NaN,
-    "Abrir Os ": "NÃO"
+    "Os": null,
+    "Abrir Os ": "NÃO",
+    "Unnamed: 21": null
   },
   {
     "ID": "3555417",
@@ -7815,14 +8144,15 @@ const CHECKLIST_VEICULAR_DATA = [
     "Condutor": "Daiany Cândido da Silva ",
     "Data Hora": "30/03/2026 08:37",
     "VIDEOTELEMTRIA": "SIM",
-    "Itens Danificados": NaN,
+    "Itens Danificados": null,
     "Estado de Criticidade Veículo": "Leve(Liberado)",
     "Observacoes": "Sem avaria.",
     "ID COLABORADOR": "250690",
     "ID DO AVALIADOR(A)": "272640",
     "Abrir Os": "NÃO",
-    "Os": NaN,
-    "Abrir Os ": "NÃO"
+    "Os": null,
+    "Abrir Os ": "NÃO",
+    "Unnamed: 21": null
   },
   {
     "ID": "3562626",
@@ -7839,14 +8169,15 @@ const CHECKLIST_VEICULAR_DATA = [
     "Condutor": "Onofre Evangelista da Silva Junior ",
     "Data Hora": "30/03/2026 11:02",
     "VIDEOTELEMTRIA": "SIM",
-    "Itens Danificados": NaN,
+    "Itens Danificados": null,
     "Estado de Criticidade Veículo": "Moderado(Condutor notificado)",
     "Observacoes": "Proteção interna da tampa traseira (não está fixa)Parachoque dianteiro (trincado)Detalhe de funilaria (amassado e riscado)(Obs.: Veículo em manutenção por Catimbal)",
     "ID COLABORADOR": "163363",
     "ID DO AVALIADOR(A)": "272640",
     "Abrir Os": "SIM",
     "Os": "718007",
-    "Abrir Os ": "SIM"
+    "Abrir Os ": "SIM",
+    "Unnamed: 21": null
   },
   {
     "ID": "3562627",
@@ -7863,14 +8194,15 @@ const CHECKLIST_VEICULAR_DATA = [
     "Condutor": "Onofre Evangelista da Silva Junior ",
     "Data Hora": "30/03/2026 14:40",
     "VIDEOTELEMTRIA": "SIM",
-    "Itens Danificados": NaN,
+    "Itens Danificados": null,
     "Estado de Criticidade Veículo": "Leve(Liberado)",
     "Observacoes": "Sem avaria.",
     "ID COLABORADOR": "163363",
     "ID DO AVALIADOR(A)": "239410",
     "Abrir Os": "NÃO",
-    "Os": NaN,
-    "Abrir Os ": "NÃO"
+    "Os": null,
+    "Abrir Os ": "NÃO",
+    "Unnamed: 21": null
   },
   {
     "ID": "3562628",
@@ -7887,14 +8219,15 @@ const CHECKLIST_VEICULAR_DATA = [
     "Condutor": "Jonatas da Silva Lemes",
     "Data Hora": "31/03/2026 07:36",
     "VIDEOTELEMTRIA": "SIM",
-    "Itens Danificados": NaN,
+    "Itens Danificados": null,
     "Estado de Criticidade Veículo": "Leve(Liberado)",
     "Observacoes": "Sem avaria.",
     "ID COLABORADOR": "279140",
     "ID DO AVALIADOR(A)": "272640",
     "Abrir Os": "NÃO",
-    "Os": NaN,
-    "Abrir Os ": "NÃO"
+    "Os": null,
+    "Abrir Os ": "NÃO",
+    "Unnamed: 21": null
   },
   {
     "ID": "3562629",
@@ -7911,14 +8244,15 @@ const CHECKLIST_VEICULAR_DATA = [
     "Condutor": "Elton Pereira da Silva ",
     "Data Hora": "31/03/2026 07:49",
     "VIDEOTELEMTRIA": "SIM",
-    "Itens Danificados": NaN,
+    "Itens Danificados": null,
     "Estado de Criticidade Veículo": "Leve(Liberado)",
     "Observacoes": "Sem avaria.",
     "ID COLABORADOR": "276440",
     "ID DO AVALIADOR(A)": "272640",
     "Abrir Os": "NÃO",
-    "Os": NaN,
-    "Abrir Os ": "NÃO"
+    "Os": null,
+    "Abrir Os ": "NÃO",
+    "Unnamed: 21": null
   },
   {
     "ID": "3562630",
@@ -7935,14 +8269,15 @@ const CHECKLIST_VEICULAR_DATA = [
     "Condutor": "Reginaldo da Silva Gomes ",
     "Data Hora": "31/03/2026 09:51",
     "VIDEOTELEMTRIA": "SIM",
-    "Itens Danificados": NaN,
+    "Itens Danificados": null,
     "Estado de Criticidade Veículo": "Leve(Liberado)",
     "Observacoes": "Sem avaria.",
     "ID COLABORADOR": "249300",
     "ID DO AVALIADOR(A)": "272640",
     "Abrir Os": "NÃO",
-    "Os": NaN,
-    "Abrir Os ": "NÃO"
+    "Os": null,
+    "Abrir Os ": "NÃO",
+    "Unnamed: 21": null
   },
   {
     "ID": "3562631",
@@ -7959,14 +8294,15 @@ const CHECKLIST_VEICULAR_DATA = [
     "Condutor": "Willian Pereira Eulalio",
     "Data Hora": "31/03/2026 09:58",
     "VIDEOTELEMTRIA": "SIM",
-    "Itens Danificados": NaN,
+    "Itens Danificados": null,
     "Estado de Criticidade Veículo": "Moderado(Condutor notificado)",
     "Observacoes": "Capô (amassado)",
     "ID COLABORADOR": "268340",
     "ID DO AVALIADOR(A)": "272640",
     "Abrir Os": "SIM",
     "Os": "718034",
-    "Abrir Os ": "SIM"
+    "Abrir Os ": "SIM",
+    "Unnamed: 21": null
   },
   {
     "ID": "3562632",
@@ -7983,14 +8319,15 @@ const CHECKLIST_VEICULAR_DATA = [
     "Condutor": "José Nelson Alves da Conceição ",
     "Data Hora": "31/03/2026 10:11",
     "VIDEOTELEMTRIA": "SIM",
-    "Itens Danificados": NaN,
+    "Itens Danificados": null,
     "Estado de Criticidade Veículo": "Leve(Liberado)",
     "Observacoes": "Sem avaria.",
     "ID COLABORADOR": "83940",
     "ID DO AVALIADOR(A)": "272640",
     "Abrir Os": "NÃO",
-    "Os": NaN,
-    "Abrir Os ": "NÃO"
+    "Os": null,
+    "Abrir Os ": "NÃO",
+    "Unnamed: 21": null
   },
   {
     "ID": "3562633",
@@ -8007,14 +8344,15 @@ const CHECKLIST_VEICULAR_DATA = [
     "Condutor": "Jussara Soares de Souza ",
     "Data Hora": "31/03/2026 13:04",
     "VIDEOTELEMTRIA": "SIM",
-    "Itens Danificados": NaN,
+    "Itens Danificados": null,
     "Estado de Criticidade Veículo": "Leve(Liberado)",
     "Observacoes": "Sem avaria.",
     "ID COLABORADOR": "272640",
     "ID DO AVALIADOR(A)": "272640",
     "Abrir Os": "NÃO",
-    "Os": NaN,
-    "Abrir Os ": "NÃO"
+    "Os": null,
+    "Abrir Os ": "NÃO",
+    "Unnamed: 21": null
   },
   {
     "ID": "3562634",
@@ -8031,14 +8369,15 @@ const CHECKLIST_VEICULAR_DATA = [
     "Condutor": "Jussara Soares de Souza",
     "Data Hora": "31/03/2026 15:06",
     "VIDEOTELEMTRIA": "SIM",
-    "Itens Danificados": NaN,
+    "Itens Danificados": null,
     "Estado de Criticidade Veículo": "Leve(Liberado)",
     "Observacoes": "Sem avaria.",
     "ID COLABORADOR": "272640",
     "ID DO AVALIADOR(A)": "272640",
     "Abrir Os": "NÃO",
-    "Os": NaN,
-    "Abrir Os ": "NÃO"
+    "Os": null,
+    "Abrir Os ": "NÃO",
+    "Unnamed: 21": null
   },
   {
     "ID": "3562635",
@@ -8062,7 +8401,8 @@ const CHECKLIST_VEICULAR_DATA = [
     "ID DO AVALIADOR(A)": "272640",
     "Abrir Os": "SIM",
     "Os": "718006",
-    "Abrir Os ": "SIM"
+    "Abrir Os ": "SIM",
+    "Unnamed: 21": null
   },
   {
     "ID": "3562636",
@@ -8079,14 +8419,15 @@ const CHECKLIST_VEICULAR_DATA = [
     "Condutor": "Gabriel Ribeiro Costa ",
     "Data Hora": "01/04/2026 09:57",
     "VIDEOTELEMTRIA": "SIM",
-    "Itens Danificados": NaN,
+    "Itens Danificados": null,
     "Estado de Criticidade Veículo": "Leve(Liberado)",
     "Observacoes": "Sem avaria.",
     "ID COLABORADOR": "274460",
     "ID DO AVALIADOR(A)": "278000",
     "Abrir Os": "NÃO",
-    "Os": NaN,
-    "Abrir Os ": "NÃO"
+    "Os": null,
+    "Abrir Os ": "NÃO",
+    "Unnamed: 21": null
   },
   {
     "ID": "3562637",
@@ -8103,14 +8444,15 @@ const CHECKLIST_VEICULAR_DATA = [
     "Condutor": "Alessandro da Silva ",
     "Data Hora": "01/04/2026 09:56",
     "VIDEOTELEMTRIA": "SIM",
-    "Itens Danificados": NaN,
+    "Itens Danificados": null,
     "Estado de Criticidade Veículo": "Leve(Liberado)",
     "Observacoes": "Sem avaria.",
     "ID COLABORADOR": "262010",
     "ID DO AVALIADOR(A)": "278000",
     "Abrir Os": "NÃO",
-    "Os": NaN,
-    "Abrir Os ": "NÃO"
+    "Os": null,
+    "Abrir Os ": "NÃO",
+    "Unnamed: 21": null
   },
   {
     "ID": "3562638",
@@ -8127,14 +8469,15 @@ const CHECKLIST_VEICULAR_DATA = [
     "Condutor": "Edmar Luis Ferreira ",
     "Data Hora": "01/04/2026 10:24",
     "VIDEOTELEMTRIA": "NÃO",
-    "Itens Danificados": NaN,
+    "Itens Danificados": null,
     "Estado de Criticidade Veículo": "Leve(Liberado)",
     "Observacoes": "Sem avaria.",
     "ID COLABORADOR": "JBA",
     "ID DO AVALIADOR(A)": "278000",
     "Abrir Os": "NÃO",
-    "Os": NaN,
-    "Abrir Os ": "NÃO"
+    "Os": null,
+    "Abrir Os ": "NÃO",
+    "Unnamed: 21": null
   },
   {
     "ID": "3562639",
@@ -8151,14 +8494,15 @@ const CHECKLIST_VEICULAR_DATA = [
     "Condutor": "Wellington Martins Bento ",
     "Data Hora": "01/04/2026 10:57",
     "VIDEOTELEMTRIA": "NÃO",
-    "Itens Danificados": NaN,
+    "Itens Danificados": null,
     "Estado de Criticidade Veículo": "Leve(Liberado)",
     "Observacoes": "Sem avaria.",
     "ID COLABORADOR": "232100",
     "ID DO AVALIADOR(A)": "278000",
     "Abrir Os": "NÃO",
-    "Os": NaN,
-    "Abrir Os ": "NÃO"
+    "Os": null,
+    "Abrir Os ": "NÃO",
+    "Unnamed: 21": null
   },
   {
     "ID": "3562640",
@@ -8175,14 +8519,15 @@ const CHECKLIST_VEICULAR_DATA = [
     "Condutor": "Segio Henrique Rosa Gama ",
     "Data Hora": "01/04/2026 10:55",
     "VIDEOTELEMTRIA": "SIM",
-    "Itens Danificados": NaN,
+    "Itens Danificados": null,
     "Estado de Criticidade Veículo": "Leve(Liberado)",
     "Observacoes": "Sem avaria.",
     "ID COLABORADOR": "173034",
     "ID DO AVALIADOR(A)": "278000",
     "Abrir Os": "NÃO",
-    "Os": NaN,
-    "Abrir Os ": "NÃO"
+    "Os": null,
+    "Abrir Os ": "NÃO",
+    "Unnamed: 21": null
   },
   {
     "ID": "3562641",
@@ -8199,14 +8544,15 @@ const CHECKLIST_VEICULAR_DATA = [
     "Condutor": "Murilo ",
     "Data Hora": "01/04/2026 15:29",
     "VIDEOTELEMTRIA": "SIM",
-    "Itens Danificados": NaN,
+    "Itens Danificados": null,
     "Estado de Criticidade Veículo": "Leve(Liberado)",
     "Observacoes": "Sem avaria.",
     "ID COLABORADOR": "278680",
     "ID DO AVALIADOR(A)": "272640",
     "Abrir Os": "NÃO",
-    "Os": NaN,
-    "Abrir Os ": "NÃO"
+    "Os": null,
+    "Abrir Os ": "NÃO",
+    "Unnamed: 21": null
   },
   {
     "ID": "3562642",
@@ -8223,14 +8569,15 @@ const CHECKLIST_VEICULAR_DATA = [
     "Condutor": "Paulo da Silva Miranda ",
     "Data Hora": "02/04/2026 07:34",
     "VIDEOTELEMTRIA": "SIM",
-    "Itens Danificados": NaN,
+    "Itens Danificados": null,
     "Estado de Criticidade Veículo": "Leve(Liberado)",
     "Observacoes": "Sem avaria.",
     "ID COLABORADOR": "261590",
     "ID DO AVALIADOR(A)": "278000",
     "Abrir Os": "NÃO",
-    "Os": NaN,
-    "Abrir Os ": "NÃO"
+    "Os": null,
+    "Abrir Os ": "NÃO",
+    "Unnamed: 21": null
   },
   {
     "ID": "3566996",
@@ -8247,14 +8594,15 @@ const CHECKLIST_VEICULAR_DATA = [
     "Condutor": "Antônio Benedito Cassezi ",
     "Data Hora": "02/04/2026 08:36",
     "VIDEOTELEMTRIA": "SIM",
-    "Itens Danificados": NaN,
+    "Itens Danificados": null,
     "Estado de Criticidade Veículo": "Leve(Liberado)",
     "Observacoes": "Sem avaria.",
     "ID COLABORADOR": "96520",
     "ID DO AVALIADOR(A)": "278000",
     "Abrir Os": "NÃO",
-    "Os": NaN,
-    "Abrir Os ": "NÃO"
+    "Os": null,
+    "Abrir Os ": "NÃO",
+    "Unnamed: 21": null
   },
   {
     "ID": "3566997",
@@ -8271,14 +8619,15 @@ const CHECKLIST_VEICULAR_DATA = [
     "Condutor": "Alessandro da Silva ",
     "Data Hora": "02/04/2026 08:51",
     "VIDEOTELEMTRIA": "NÃO",
-    "Itens Danificados": NaN,
+    "Itens Danificados": null,
     "Estado de Criticidade Veículo": "Leve(Liberado)",
     "Observacoes": "Sem avaria ",
     "ID COLABORADOR": "262010",
     "ID DO AVALIADOR(A)": "278000",
     "Abrir Os": "NÃO",
-    "Os": NaN,
-    "Abrir Os ": "NÃO"
+    "Os": null,
+    "Abrir Os ": "NÃO",
+    "Unnamed: 21": null
   },
   {
     "ID": "3566998",
@@ -8295,14 +8644,15 @@ const CHECKLIST_VEICULAR_DATA = [
     "Condutor": "Jussara Soares de Souza ",
     "Data Hora": "02/04/2026 12:22",
     "VIDEOTELEMTRIA": "SIM",
-    "Itens Danificados": NaN,
+    "Itens Danificados": null,
     "Estado de Criticidade Veículo": "Leve(Liberado)",
     "Observacoes": "Sem avaria.",
     "ID COLABORADOR": "278000",
     "ID DO AVALIADOR(A)": "272640",
     "Abrir Os": "NÃO",
-    "Os": NaN,
-    "Abrir Os ": "NÃO"
+    "Os": null,
+    "Abrir Os ": "NÃO",
+    "Unnamed: 21": null
   },
   {
     "ID": "3566999",
@@ -8319,14 +8669,15 @@ const CHECKLIST_VEICULAR_DATA = [
     "Condutor": "Fernando Antonio Saviolli Desie",
     "Data Hora": "02/04/2026 14:23",
     "VIDEOTELEMTRIA": "SIM",
-    "Itens Danificados": NaN,
+    "Itens Danificados": null,
     "Estado de Criticidade Veículo": "Leve(Liberado)",
     "Observacoes": "Sem avaria.",
     "ID COLABORADOR": "244290",
     "ID DO AVALIADOR(A)": "272640",
     "Abrir Os": "NÃO",
-    "Os": NaN,
-    "Abrir Os ": "NÃO"
+    "Os": null,
+    "Abrir Os ": "NÃO",
+    "Unnamed: 21": null
   },
   {
     "ID": "3567000",
@@ -8343,14 +8694,15 @@ const CHECKLIST_VEICULAR_DATA = [
     "Condutor": "Luiz Alfredo de Souza ",
     "Data Hora": "06/04/2026 07:30",
     "VIDEOTELEMTRIA": "SIM",
-    "Itens Danificados": NaN,
+    "Itens Danificados": null,
     "Estado de Criticidade Veículo": "Leve(Liberado)",
     "Observacoes": "Sem avaria.",
     "ID COLABORADOR": "5423",
     "ID DO AVALIADOR(A)": "272640",
     "Abrir Os": "NÃO",
-    "Os": NaN,
-    "Abrir Os ": "NÃO"
+    "Os": null,
+    "Abrir Os ": "NÃO",
+    "Unnamed: 21": null
   },
   {
     "ID": "3567001",
@@ -8367,14 +8719,15 @@ const CHECKLIST_VEICULAR_DATA = [
     "Condutor": "César Fabiano Mineiro ",
     "Data Hora": "06/04/2026 07:33",
     "VIDEOTELEMTRIA": "SIM",
-    "Itens Danificados": NaN,
+    "Itens Danificados": null,
     "Estado de Criticidade Veículo": "Leve(Liberado)",
     "Observacoes": "Sem avaria.",
     "ID COLABORADOR": "2100",
     "ID DO AVALIADOR(A)": "272640",
     "Abrir Os": "NÃO",
-    "Os": NaN,
-    "Abrir Os ": "NÃO"
+    "Os": null,
+    "Abrir Os ": "NÃO",
+    "Unnamed: 21": null
   },
   {
     "ID": "3567002",
@@ -8391,14 +8744,15 @@ const CHECKLIST_VEICULAR_DATA = [
     "Condutor": "Walison Daniel dos Santos Rocha",
     "Data Hora": "06/04/2026 07:37",
     "VIDEOTELEMTRIA": "SIM",
-    "Itens Danificados": NaN,
+    "Itens Danificados": null,
     "Estado de Criticidade Veículo": "Leve(Liberado)",
     "Observacoes": "Sem avaria.",
     "ID COLABORADOR": "275060",
     "ID DO AVALIADOR(A)": "272640",
     "Abrir Os": "NÃO",
-    "Os": NaN,
-    "Abrir Os ": "NÃO"
+    "Os": null,
+    "Abrir Os ": "NÃO",
+    "Unnamed: 21": null
   },
   {
     "ID": "3567003",
@@ -8415,14 +8769,15 @@ const CHECKLIST_VEICULAR_DATA = [
     "Condutor": "Gilmar Rebouças ",
     "Data Hora": "06/04/2026 08:06",
     "VIDEOTELEMTRIA": "SIM",
-    "Itens Danificados": NaN,
+    "Itens Danificados": null,
     "Estado de Criticidade Veículo": "Leve(Liberado)",
     "Observacoes": "Sem avaria.",
-    "ID COLABORADOR": NaN,
+    "ID COLABORADOR": null,
     "ID DO AVALIADOR(A)": "272640",
     "Abrir Os": "NÃO",
-    "Os": NaN,
-    "Abrir Os ": "NÃO"
+    "Os": null,
+    "Abrir Os ": "NÃO",
+    "Unnamed: 21": null
   },
   {
     "ID": "3568523",
@@ -8439,14 +8794,15 @@ const CHECKLIST_VEICULAR_DATA = [
     "Condutor": "Admir Xavier Cotrim ",
     "Data Hora": "06/04/2026 10:42",
     "VIDEOTELEMTRIA": "SIM",
-    "Itens Danificados": NaN,
+    "Itens Danificados": null,
     "Estado de Criticidade Veículo": "Leve(Liberado)",
     "Observacoes": "Sem avaria.",
     "ID COLABORADOR": "112150",
     "ID DO AVALIADOR(A)": "272640",
     "Abrir Os": "NÃO",
-    "Os": NaN,
-    "Abrir Os ": "NÃO"
+    "Os": null,
+    "Abrir Os ": "NÃO",
+    "Unnamed: 21": null
   },
   {
     "ID": "3568524",
@@ -8463,14 +8819,15 @@ const CHECKLIST_VEICULAR_DATA = [
     "Condutor": "Hudson Luis Costa",
     "Data Hora": "06/04/2026 14:59",
     "VIDEOTELEMTRIA": "SIM",
-    "Itens Danificados": NaN,
+    "Itens Danificados": null,
     "Estado de Criticidade Veículo": "Leve(Liberado)",
     "Observacoes": "Sem avaria.",
     "ID COLABORADOR": "209582",
     "ID DO AVALIADOR(A)": "272640",
     "Abrir Os": "NÃO",
-    "Os": NaN,
-    "Abrir Os ": "NÃO"
+    "Os": null,
+    "Abrir Os ": "NÃO",
+    "Unnamed: 21": null
   },
   {
     "ID": "3568525",
@@ -8487,14 +8844,15 @@ const CHECKLIST_VEICULAR_DATA = [
     "Condutor": "Juraci Rodrigues dos Santos ",
     "Data Hora": "06/04/2026 15:04",
     "VIDEOTELEMTRIA": "SIM",
-    "Itens Danificados": NaN,
+    "Itens Danificados": null,
     "Estado de Criticidade Veículo": "Leve(Liberado)",
     "Observacoes": "Sem avaria.",
     "ID COLABORADOR": "32074",
     "ID DO AVALIADOR(A)": "272640",
     "Abrir Os": "NÃO",
-    "Os": NaN,
-    "Abrir Os ": "NÃO"
+    "Os": null,
+    "Abrir Os ": "NÃO",
+    "Unnamed: 21": null
   },
   {
     "ID": "3568526",
@@ -8511,14 +8869,15 @@ const CHECKLIST_VEICULAR_DATA = [
     "Condutor": "Nilson Gomes da Silva",
     "Data Hora": "06/04/2026 16:23",
     "VIDEOTELEMTRIA": "SIM",
-    "Itens Danificados": NaN,
+    "Itens Danificados": null,
     "Estado de Criticidade Veículo": "Leve(Liberado)",
     "Observacoes": "Sem avaria.",
     "ID COLABORADOR": "226170",
     "ID DO AVALIADOR(A)": "272670",
     "Abrir Os": "NÃO",
-    "Os": NaN,
-    "Abrir Os ": "NÃO"
+    "Os": null,
+    "Abrir Os ": "NÃO",
+    "Unnamed: 21": null
   },
   {
     "ID": "3571057",
@@ -8535,14 +8894,15 @@ const CHECKLIST_VEICULAR_DATA = [
     "Condutor": "Alessandro da Silva ",
     "Data Hora": "07/04/2026 07:38",
     "VIDEOTELEMTRIA": "SIM",
-    "Itens Danificados": NaN,
+    "Itens Danificados": null,
     "Estado de Criticidade Veículo": "Leve(Liberado)",
     "Observacoes": "Sem avaria.",
     "ID COLABORADOR": "262010",
     "ID DO AVALIADOR(A)": "27264",
     "Abrir Os": "NÃO",
-    "Os": NaN,
-    "Abrir Os ": "NÃO"
+    "Os": null,
+    "Abrir Os ": "NÃO",
+    "Unnamed: 21": null
   },
   {
     "ID": "3571058",
@@ -8559,14 +8919,15 @@ const CHECKLIST_VEICULAR_DATA = [
     "Condutor": "Marcos Vinicius Rodrigues ",
     "Data Hora": "07/04/2026 07:58",
     "VIDEOTELEMTRIA": "SIM",
-    "Itens Danificados": NaN,
+    "Itens Danificados": null,
     "Estado de Criticidade Veículo": "Moderado(Condutor notificado)",
     "Observacoes": "Luz de ré (queimada)",
     "ID COLABORADOR": "247610",
     "ID DO AVALIADOR(A)": "272640",
     "Abrir Os": "SIM",
-    "Os": NaN,
-    "Abrir Os ": "SIM"
+    "Os": null,
+    "Abrir Os ": "SIM",
+    "Unnamed: 21": null
   },
   {
     "ID": "3571059",
@@ -8583,14 +8944,15 @@ const CHECKLIST_VEICULAR_DATA = [
     "Condutor": "Henrique Mendes Ferreira ",
     "Data Hora": "07/04/2026 08:56",
     "VIDEOTELEMTRIA": "SIM",
-    "Itens Danificados": NaN,
+    "Itens Danificados": null,
     "Estado de Criticidade Veículo": "Leve(Liberado)",
     "Observacoes": "Sem avaria.",
     "ID COLABORADOR": "269710",
     "ID DO AVALIADOR(A)": "272640",
     "Abrir Os": "NÃO",
-    "Os": NaN,
-    "Abrir Os ": "NÃO"
+    "Os": null,
+    "Abrir Os ": "NÃO",
+    "Unnamed: 21": null
   },
   {
     "ID": "3571060",
@@ -8607,14 +8969,15 @@ const CHECKLIST_VEICULAR_DATA = [
     "Condutor": "Marco Ferreira dos Santos ",
     "Data Hora": "07/04/2026 10:55",
     "VIDEOTELEMTRIA": "SIM",
-    "Itens Danificados": NaN,
+    "Itens Danificados": null,
     "Estado de Criticidade Veículo": "Leve(Liberado)",
     "Observacoes": "Sem avaria.",
     "ID COLABORADOR": "115782",
     "ID DO AVALIADOR(A)": "272640",
     "Abrir Os": "NÃO",
-    "Os": NaN,
-    "Abrir Os ": "NÃO"
+    "Os": null,
+    "Abrir Os ": "NÃO",
+    "Unnamed: 21": null
   },
   {
     "ID": "3571061",
@@ -8631,14 +8994,15 @@ const CHECKLIST_VEICULAR_DATA = [
     "Condutor": "Gerson Pereira Porto ",
     "Data Hora": "07/04/2026 10:30",
     "VIDEOTELEMTRIA": "SIM",
-    "Itens Danificados": NaN,
+    "Itens Danificados": null,
     "Estado de Criticidade Veículo": "Moderado(Condutor notificado)",
     "Observacoes": "Amassado abaixo da porta do passageiro ",
     "ID COLABORADOR": "41464",
     "ID DO AVALIADOR(A)": "278000",
     "Abrir Os": "SIM",
-    "Os": NaN,
-    "Abrir Os ": "SIM"
+    "Os": null,
+    "Abrir Os ": "SIM",
+    "Unnamed: 21": null
   },
   {
     "ID": "3571062",
@@ -8655,14 +9019,15 @@ const CHECKLIST_VEICULAR_DATA = [
     "Condutor": "Marcos Vinicius Rodrigues ",
     "Data Hora": "07/04/2026 14:20",
     "VIDEOTELEMTRIA": "SIM",
-    "Itens Danificados": NaN,
+    "Itens Danificados": null,
     "Estado de Criticidade Veículo": "Moderado(Condutor notificado)",
     "Observacoes": "Porta traseira (não está fechando completamente)Amassado lateral (esquerda)",
     "ID COLABORADOR": "247610",
     "ID DO AVALIADOR(A)": "272640",
     "Abrir Os": "SIM",
-    "Os": NaN,
-    "Abrir Os ": "SIM"
+    "Os": null,
+    "Abrir Os ": "SIM",
+    "Unnamed: 21": null
   },
   {
     "ID": "3571063",
@@ -8679,14 +9044,15 @@ const CHECKLIST_VEICULAR_DATA = [
     "Condutor": "José Ricardo do Carmo ",
     "Data Hora": "07/04/2026 13:08",
     "VIDEOTELEMTRIA": "SIM",
-    "Itens Danificados": NaN,
+    "Itens Danificados": null,
     "Estado de Criticidade Veículo": "Leve(Liberado)",
     "Observacoes": "Sem avaria ",
     "ID COLABORADOR": "84165",
     "ID DO AVALIADOR(A)": "278000",
     "Abrir Os": "NÃO",
-    "Os": NaN,
-    "Abrir Os ": "NÃO"
+    "Os": null,
+    "Abrir Os ": "NÃO",
+    "Unnamed: 21": null
   },
   {
     "ID": "3571064",
@@ -8703,14 +9069,15 @@ const CHECKLIST_VEICULAR_DATA = [
     "Condutor": "Antônio Marcos Ribeiro Ruas ",
     "Data Hora": "07/04/2026 13:19",
     "VIDEOTELEMTRIA": "NÃO",
-    "Itens Danificados": NaN,
+    "Itens Danificados": null,
     "Estado de Criticidade Veículo": "Leve(Liberado)",
     "Observacoes": "Sem avaria ",
     "ID COLABORADOR": "183702",
     "ID DO AVALIADOR(A)": "278000",
     "Abrir Os": "NÃO",
-    "Os": NaN,
-    "Abrir Os ": "NÃO"
+    "Os": null,
+    "Abrir Os ": "NÃO",
+    "Unnamed: 21": null
   },
   {
     "ID": "3571065",
@@ -8727,14 +9094,15 @@ const CHECKLIST_VEICULAR_DATA = [
     "Condutor": "Guilherme Laguna ",
     "Data Hora": "07/04/2026 15:26",
     "VIDEOTELEMTRIA": "SIM",
-    "Itens Danificados": NaN,
+    "Itens Danificados": null,
     "Estado de Criticidade Veículo": "Leve(Liberado)",
     "Observacoes": "Sem avaria.",
     "ID COLABORADOR": "238420",
     "ID DO AVALIADOR(A)": "272640",
     "Abrir Os": "NÃO",
-    "Os": NaN,
-    "Abrir Os ": "NÃO"
+    "Os": null,
+    "Abrir Os ": "NÃO",
+    "Unnamed: 21": null
   },
   {
     "ID": "3572463",
@@ -8751,14 +9119,15 @@ const CHECKLIST_VEICULAR_DATA = [
     "Condutor": "William Roberto Dalla Costa",
     "Data Hora": "08/04/2026 07:16",
     "VIDEOTELEMTRIA": "SIM",
-    "Itens Danificados": NaN,
+    "Itens Danificados": null,
     "Estado de Criticidade Veículo": "Leve(Liberado)",
     "Observacoes": "Sem avaria.",
     "ID COLABORADOR": "254120",
     "ID DO AVALIADOR(A)": "272640",
     "Abrir Os": "NÃO",
-    "Os": NaN,
-    "Abrir Os ": "NÃO"
+    "Os": null,
+    "Abrir Os ": "NÃO",
+    "Unnamed: 21": null
   },
   {
     "ID": "3572464",
@@ -8775,14 +9144,15 @@ const CHECKLIST_VEICULAR_DATA = [
     "Condutor": "Antonio Marcos Ribeiro Ruas ",
     "Data Hora": "08/04/2026 08:06",
     "VIDEOTELEMTRIA": "NÃO",
-    "Itens Danificados": NaN,
+    "Itens Danificados": null,
     "Estado de Criticidade Veículo": "Leve(Liberado)",
     "Observacoes": "Sem avaria.",
     "ID COLABORADOR": "183702",
     "ID DO AVALIADOR(A)": "278000",
     "Abrir Os": "NÃO",
-    "Os": NaN,
-    "Abrir Os ": "NÃO"
+    "Os": null,
+    "Abrir Os ": "NÃO",
+    "Unnamed: 21": null
   },
   {
     "ID": "3572465",
@@ -8799,14 +9169,15 @@ const CHECKLIST_VEICULAR_DATA = [
     "Condutor": "Ronildo Barbosa ",
     "Data Hora": "08/04/2026 09:43",
     "VIDEOTELEMTRIA": "SIM",
-    "Itens Danificados": NaN,
+    "Itens Danificados": null,
     "Estado de Criticidade Veículo": "Leve(Liberado)",
     "Observacoes": "Sem avaria.",
     "ID COLABORADOR": "81103",
     "ID DO AVALIADOR(A)": "278000",
     "Abrir Os": "NÃO",
-    "Os": NaN,
-    "Abrir Os ": "NÃO"
+    "Os": null,
+    "Abrir Os ": "NÃO",
+    "Unnamed: 21": null
   },
   {
     "ID": "3572466",
@@ -8823,14 +9194,15 @@ const CHECKLIST_VEICULAR_DATA = [
     "Condutor": "Tiago Damião Louzada ",
     "Data Hora": "08/04/2026 10:49",
     "VIDEOTELEMTRIA": "SIM",
-    "Itens Danificados": NaN,
+    "Itens Danificados": null,
     "Estado de Criticidade Veículo": "Leve(Liberado)",
     "Observacoes": "Sem avaria.",
     "ID COLABORADOR": "5",
     "ID DO AVALIADOR(A)": "278000",
     "Abrir Os": "NÃO",
-    "Os": NaN,
-    "Abrir Os ": "NÃO"
+    "Os": null,
+    "Abrir Os ": "NÃO",
+    "Unnamed: 21": null
   },
   {
     "ID": "3572467",
@@ -8847,14 +9219,15 @@ const CHECKLIST_VEICULAR_DATA = [
     "Condutor": "Andréia Tassiane Aparecida ",
     "Data Hora": "08/04/2026 11:51",
     "VIDEOTELEMTRIA": "SIM",
-    "Itens Danificados": NaN,
+    "Itens Danificados": null,
     "Estado de Criticidade Veículo": "Leve(Liberado)",
     "Observacoes": "Sem avaria.",
     "ID COLABORADOR": "275340",
     "ID DO AVALIADOR(A)": "278000",
     "Abrir Os": "NÃO",
-    "Os": NaN,
-    "Abrir Os ": "NÃO"
+    "Os": null,
+    "Abrir Os ": "NÃO",
+    "Unnamed: 21": null
   },
   {
     "ID": "3572468",
@@ -8871,14 +9244,15 @@ const CHECKLIST_VEICULAR_DATA = [
     "Condutor": "Geovane de Azevedo Dias",
     "Data Hora": "08/04/2026 12:55",
     "VIDEOTELEMTRIA": "SIM",
-    "Itens Danificados": NaN,
+    "Itens Danificados": null,
     "Estado de Criticidade Veículo": "Leve(Liberado)",
     "Observacoes": "Sem avaria.",
     "ID COLABORADOR": "183313",
     "ID DO AVALIADOR(A)": "272640",
     "Abrir Os": "NÃO",
-    "Os": NaN,
-    "Abrir Os ": "NÃO"
+    "Os": null,
+    "Abrir Os ": "NÃO",
+    "Unnamed: 21": null
   },
   {
     "ID": "3576030",
@@ -8895,14 +9269,15 @@ const CHECKLIST_VEICULAR_DATA = [
     "Condutor": "Rodrigo Soares Gonçalves da Costa ",
     "Data Hora": "09/04/2026 08:54",
     "VIDEOTELEMTRIA": "SIM",
-    "Itens Danificados": NaN,
+    "Itens Danificados": null,
     "Estado de Criticidade Veículo": "Leve(Liberado)",
     "Observacoes": "Sem avaria.",
     "ID COLABORADOR": "223724",
     "ID DO AVALIADOR(A)": "278000",
     "Abrir Os": "NÃO",
-    "Os": NaN,
-    "Abrir Os ": "NÃO"
+    "Os": null,
+    "Abrir Os ": "NÃO",
+    "Unnamed: 21": null
   },
   {
     "ID": "3576031",
@@ -8919,14 +9294,15 @@ const CHECKLIST_VEICULAR_DATA = [
     "Condutor": "Anderson Ricardo Ruaro",
     "Data Hora": "09/04/2026 08:53",
     "VIDEOTELEMTRIA": "SIM",
-    "Itens Danificados": NaN,
+    "Itens Danificados": null,
     "Estado de Criticidade Veículo": "Leve(Liberado)",
     "Observacoes": "Sem avaria.",
     "ID COLABORADOR": "168907",
     "ID DO AVALIADOR(A)": "278000",
     "Abrir Os": "NÃO",
-    "Os": NaN,
-    "Abrir Os ": "NÃO"
+    "Os": null,
+    "Abrir Os ": "NÃO",
+    "Unnamed: 21": null
   },
   {
     "ID": "3576032",
@@ -8943,14 +9319,15 @@ const CHECKLIST_VEICULAR_DATA = [
     "Condutor": "Jussara Soares de Souza",
     "Data Hora": "09/04/2026 13:18",
     "VIDEOTELEMTRIA": "SIM",
-    "Itens Danificados": NaN,
+    "Itens Danificados": null,
     "Estado de Criticidade Veículo": "Leve(Liberado)",
     "Observacoes": "Sem avaria.",
     "ID COLABORADOR": "272640",
     "ID DO AVALIADOR(A)": "278000",
     "Abrir Os": "NÃO",
-    "Os": NaN,
-    "Abrir Os ": "NÃO"
+    "Os": null,
+    "Abrir Os ": "NÃO",
+    "Unnamed: 21": null
   },
   {
     "ID": "3576033",
@@ -8967,14 +9344,15 @@ const CHECKLIST_VEICULAR_DATA = [
     "Condutor": "Fábio Junio Ferreira Barboza ",
     "Data Hora": "09/04/2026 13:21",
     "VIDEOTELEMTRIA": "SIM",
-    "Itens Danificados": NaN,
+    "Itens Danificados": null,
     "Estado de Criticidade Veículo": "Leve(Liberado)",
     "Observacoes": "Sem avaria.",
     "ID COLABORADOR": "189200",
     "ID DO AVALIADOR(A)": "278000",
     "Abrir Os": "NÃO",
-    "Os": NaN,
-    "Abrir Os ": "NÃO"
+    "Os": null,
+    "Abrir Os ": "NÃO",
+    "Unnamed: 21": null
   },
   {
     "ID": "3576034",
@@ -8991,14 +9369,15 @@ const CHECKLIST_VEICULAR_DATA = [
     "Condutor": "Ricardo Aparecido da Silva ",
     "Data Hora": "09/04/2026 15:34",
     "VIDEOTELEMTRIA": "SIM",
-    "Itens Danificados": NaN,
+    "Itens Danificados": null,
     "Estado de Criticidade Veículo": "Leve(Liberado)",
     "Observacoes": "Sem avaria.",
     "ID COLABORADOR": "111909",
     "ID DO AVALIADOR(A)": "272640",
     "Abrir Os": "NÃO",
-    "Os": NaN,
-    "Abrir Os ": "NÃO"
+    "Os": null,
+    "Abrir Os ": "NÃO",
+    "Unnamed: 21": null
   },
   {
     "ID": "3576751",
@@ -9015,14 +9394,15 @@ const CHECKLIST_VEICULAR_DATA = [
     "Condutor": "Reginaldo da Silva Gomes ",
     "Data Hora": "10/04/2026 07:44",
     "VIDEOTELEMTRIA": "SIM",
-    "Itens Danificados": NaN,
+    "Itens Danificados": null,
     "Estado de Criticidade Veículo": "Leve(Liberado)",
     "Observacoes": "Sem avaria ",
     "ID COLABORADOR": "249300",
     "ID DO AVALIADOR(A)": "278000",
     "Abrir Os": "NÃO",
-    "Os": NaN,
-    "Abrir Os ": "NÃO"
+    "Os": null,
+    "Abrir Os ": "NÃO",
+    "Unnamed: 21": null
   },
   {
     "ID": "3576752",
@@ -9039,14 +9419,15 @@ const CHECKLIST_VEICULAR_DATA = [
     "Condutor": "Marcos Alexandre Baffi ",
     "Data Hora": "10/04/2026 09:19",
     "VIDEOTELEMTRIA": "SIM",
-    "Itens Danificados": NaN,
+    "Itens Danificados": null,
     "Estado de Criticidade Veículo": "Leve(Liberado)",
     "Observacoes": "Sem avaria ",
     "ID COLABORADOR": "207032",
     "ID DO AVALIADOR(A)": "278000",
     "Abrir Os": "NÃO",
-    "Os": NaN,
-    "Abrir Os ": "NÃO"
+    "Os": null,
+    "Abrir Os ": "NÃO",
+    "Unnamed: 21": null
   },
   {
     "ID": "3576753",
@@ -9063,14 +9444,15 @@ const CHECKLIST_VEICULAR_DATA = [
     "Condutor": "Alex Rodrigo Bueno ",
     "Data Hora": "10/04/2026 09:28",
     "VIDEOTELEMTRIA": "NÃO",
-    "Itens Danificados": NaN,
+    "Itens Danificados": null,
     "Estado de Criticidade Veículo": "Leve(Liberado)",
     "Observacoes": "Sem avaria ",
     "ID COLABORADOR": "4",
     "ID DO AVALIADOR(A)": "278000",
     "Abrir Os": "NÃO",
-    "Os": NaN,
-    "Abrir Os ": "NÃO"
+    "Os": null,
+    "Abrir Os ": "NÃO",
+    "Unnamed: 21": null
   },
   {
     "ID": "3576754",
@@ -9087,14 +9469,15 @@ const CHECKLIST_VEICULAR_DATA = [
     "Condutor": "Antônio Marcos Souza ",
     "Data Hora": "10/04/2026 13:24",
     "VIDEOTELEMTRIA": "SIM",
-    "Itens Danificados": NaN,
+    "Itens Danificados": null,
     "Estado de Criticidade Veículo": "Leve(Liberado)",
     "Observacoes": "Sem avaria ",
     "ID COLABORADOR": "260840",
     "ID DO AVALIADOR(A)": "278000",
     "Abrir Os": "NÃO",
-    "Os": NaN,
-    "Abrir Os ": "NÃO"
+    "Os": null,
+    "Abrir Os ": "NÃO",
+    "Unnamed: 21": null
   },
   {
     "ID": "3583755",
@@ -9111,14 +9494,15 @@ const CHECKLIST_VEICULAR_DATA = [
     "Condutor": "Pedro Augusto Silva ",
     "Data Hora": "13/04/2026 07:13",
     "VIDEOTELEMTRIA": "SIM",
-    "Itens Danificados": NaN,
+    "Itens Danificados": null,
     "Estado de Criticidade Veículo": "Leve(Liberado)",
     "Observacoes": "Sem avaria. ",
-    "ID COLABORADOR": NaN,
+    "ID COLABORADOR": null,
     "ID DO AVALIADOR(A)": "272640",
     "Abrir Os": "NÃO",
-    "Os": NaN,
-    "Abrir Os ": "NÃO"
+    "Os": null,
+    "Abrir Os ": "NÃO",
+    "Unnamed: 21": null
   },
   {
     "ID": "3583756",
@@ -9135,14 +9519,15 @@ const CHECKLIST_VEICULAR_DATA = [
     "Condutor": "Leonardo Estenio Gallon Pinto ",
     "Data Hora": "13/04/2026 08:06",
     "VIDEOTELEMTRIA": "SIM",
-    "Itens Danificados": NaN,
+    "Itens Danificados": null,
     "Estado de Criticidade Veículo": "Leve(Liberado)",
     "Observacoes": "Sem avaria.",
     "ID COLABORADOR": "272430",
     "ID DO AVALIADOR(A)": "272640",
     "Abrir Os": "NÃO",
-    "Os": NaN,
-    "Abrir Os ": "NÃO"
+    "Os": null,
+    "Abrir Os ": "NÃO",
+    "Unnamed: 21": null
   },
   {
     "ID": "3583757",
@@ -9159,14 +9544,15 @@ const CHECKLIST_VEICULAR_DATA = [
     "Condutor": "Reinan Mota de Oliveira ",
     "Data Hora": "13/04/2026 08:39",
     "VIDEOTELEMTRIA": "SIM",
-    "Itens Danificados": NaN,
+    "Itens Danificados": null,
     "Estado de Criticidade Veículo": "Leve(Liberado)",
     "Observacoes": "Sem avaria.",
     "ID COLABORADOR": "245310",
     "ID DO AVALIADOR(A)": "272640",
     "Abrir Os": "NÃO",
-    "Os": NaN,
-    "Abrir Os ": "NÃO"
+    "Os": null,
+    "Abrir Os ": "NÃO",
+    "Unnamed: 21": null
   },
   {
     "ID": "3583758",
@@ -9183,14 +9569,15 @@ const CHECKLIST_VEICULAR_DATA = [
     "Condutor": "Marco Ferreira dos Santos ",
     "Data Hora": "13/04/2026 09:48",
     "VIDEOTELEMTRIA": "SIM",
-    "Itens Danificados": NaN,
+    "Itens Danificados": null,
     "Estado de Criticidade Veículo": "Leve(Liberado)",
     "Observacoes": "Sem avaria.",
     "ID COLABORADOR": "115782",
     "ID DO AVALIADOR(A)": "272649",
     "Abrir Os": "NÃO",
-    "Os": NaN,
-    "Abrir Os ": "NÃO"
+    "Os": null,
+    "Abrir Os ": "NÃO",
+    "Unnamed: 21": null
   },
   {
     "ID": "3583759",
@@ -9207,14 +9594,15 @@ const CHECKLIST_VEICULAR_DATA = [
     "Condutor": "José Ricardo do Carmo ",
     "Data Hora": "13/04/2026 10:10",
     "VIDEOTELEMTRIA": "SIM",
-    "Itens Danificados": NaN,
+    "Itens Danificados": null,
     "Estado de Criticidade Veículo": "Leve(Liberado)",
     "Observacoes": "Sem avaria.",
     "ID COLABORADOR": "84165",
     "ID DO AVALIADOR(A)": "272640",
     "Abrir Os": "NÃO",
-    "Os": NaN,
-    "Abrir Os ": "NÃO"
+    "Os": null,
+    "Abrir Os ": "NÃO",
+    "Unnamed: 21": null
   },
   {
     "ID": "3583761",
@@ -9231,14 +9619,15 @@ const CHECKLIST_VEICULAR_DATA = [
     "Condutor": "Murilo Vanderlei Travani Afonso",
     "Data Hora": "13/04/2026 10:17",
     "VIDEOTELEMTRIA": "SIM",
-    "Itens Danificados": NaN,
+    "Itens Danificados": null,
     "Estado de Criticidade Veículo": "Leve(Liberado)",
     "Observacoes": "Checklist pós manutenção: Concluído (Sem avaria)",
     "ID COLABORADOR": "278680",
     "ID DO AVALIADOR(A)": "272640",
     "Abrir Os": "NÃO",
-    "Os": NaN,
-    "Abrir Os ": "NÃO"
+    "Os": null,
+    "Abrir Os ": "NÃO",
+    "Unnamed: 21": null
   },
   {
     "ID": "3583762",
@@ -9255,14 +9644,15 @@ const CHECKLIST_VEICULAR_DATA = [
     "Condutor": "Fernando Antonio Saviolli Desie ",
     "Data Hora": "13/04/2026 13:32",
     "VIDEOTELEMTRIA": "SIM",
-    "Itens Danificados": NaN,
+    "Itens Danificados": null,
     "Estado de Criticidade Veículo": "Leve(Liberado)",
     "Observacoes": "Sem avaria.",
     "ID COLABORADOR": "244290",
     "ID DO AVALIADOR(A)": "272640",
     "Abrir Os": "NÃO",
-    "Os": NaN,
-    "Abrir Os ": "NÃO"
+    "Os": null,
+    "Abrir Os ": "NÃO",
+    "Unnamed: 21": null
   },
   {
     "ID": "3583763",
@@ -9286,7 +9676,8 @@ const CHECKLIST_VEICULAR_DATA = [
     "ID DO AVALIADOR(A)": "272640",
     "Abrir Os": "SIM",
     "Os": "718006",
-    "Abrir Os ": "SIM"
+    "Abrir Os ": "SIM",
+    "Unnamed: 21": null
   },
   {
     "ID": "3583764",
@@ -9303,14 +9694,15 @@ const CHECKLIST_VEICULAR_DATA = [
     "Condutor": "Daniel Ferreira da Cruz Neto ",
     "Data Hora": "13/04/2026 15:33",
     "VIDEOTELEMTRIA": "SIM",
-    "Itens Danificados": NaN,
+    "Itens Danificados": null,
     "Estado de Criticidade Veículo": "Leve(Liberado)",
     "Observacoes": "Sem avaria.",
     "ID COLABORADOR": "266350",
     "ID DO AVALIADOR(A)": "272640",
     "Abrir Os": "NÃO",
-    "Os": NaN,
-    "Abrir Os ": "NÃO"
+    "Os": null,
+    "Abrir Os ": "NÃO",
+    "Unnamed: 21": null
   },
   {
     "ID": "3583765",
@@ -9327,14 +9719,15 @@ const CHECKLIST_VEICULAR_DATA = [
     "Condutor": "Daniel Ferreira da Cruz Neto ",
     "Data Hora": "13/04/2026 15:38",
     "VIDEOTELEMTRIA": "SIM",
-    "Itens Danificados": NaN,
+    "Itens Danificados": null,
     "Estado de Criticidade Veículo": "Leve(Liberado)",
     "Observacoes": "Sem avaria.",
     "ID COLABORADOR": "266350",
     "ID DO AVALIADOR(A)": "272640",
     "Abrir Os": "NÃO",
-    "Os": NaN,
-    "Abrir Os ": "NÃO"
+    "Os": null,
+    "Abrir Os ": "NÃO",
+    "Unnamed: 21": null
   },
   {
     "ID": "3583766",
@@ -9351,14 +9744,15 @@ const CHECKLIST_VEICULAR_DATA = [
     "Condutor": "Décio Araújo Fernandes ",
     "Data Hora": "13/04/2026 15:54",
     "VIDEOTELEMTRIA": "SIM",
-    "Itens Danificados": NaN,
+    "Itens Danificados": null,
     "Estado de Criticidade Veículo": "Leve(Liberado)",
     "Observacoes": "Sem avaria.",
     "ID COLABORADOR": "205382",
     "ID DO AVALIADOR(A)": "272640",
     "Abrir Os": "NÃO",
-    "Os": NaN,
-    "Abrir Os ": "NÃO"
+    "Os": null,
+    "Abrir Os ": "NÃO",
+    "Unnamed: 21": null
   },
   {
     "ID": "3583767",
@@ -9375,14 +9769,15 @@ const CHECKLIST_VEICULAR_DATA = [
     "Condutor": "Marcos Alexandre Baffi ",
     "Data Hora": "13/04/2026 15:58",
     "VIDEOTELEMTRIA": "SIM",
-    "Itens Danificados": NaN,
+    "Itens Danificados": null,
     "Estado de Criticidade Veículo": "Leve(Liberado)",
     "Observacoes": "Sem avaria.",
     "ID COLABORADOR": "207032",
     "ID DO AVALIADOR(A)": "272640",
     "Abrir Os": "NÃO",
-    "Os": NaN,
-    "Abrir Os ": "NÃO"
+    "Os": null,
+    "Abrir Os ": "NÃO",
+    "Unnamed: 21": null
   },
   {
     "ID": "3583768",
@@ -9399,14 +9794,15 @@ const CHECKLIST_VEICULAR_DATA = [
     "Condutor": "Endrius Ernane de Souza ",
     "Data Hora": "14/04/2026 07:12",
     "VIDEOTELEMTRIA": "SIM",
-    "Itens Danificados": NaN,
+    "Itens Danificados": null,
     "Estado de Criticidade Veículo": "Leve(Liberado)",
     "Observacoes": "Sem avaria.",
     "ID COLABORADOR": "251319",
     "ID DO AVALIADOR(A)": "272640",
     "Abrir Os": "NÃO",
-    "Os": NaN,
-    "Abrir Os ": "NÃO"
+    "Os": null,
+    "Abrir Os ": "NÃO",
+    "Unnamed: 21": null
   },
   {
     "ID": "3585248",
@@ -9423,14 +9819,15 @@ const CHECKLIST_VEICULAR_DATA = [
     "Condutor": "Ricardo Aparecido da Silva ",
     "Data Hora": "14/04/2026 08:43",
     "VIDEOTELEMTRIA": "SIM",
-    "Itens Danificados": NaN,
+    "Itens Danificados": null,
     "Estado de Criticidade Veículo": "Leve(Liberado)",
     "Observacoes": "Parabrisa (quebrado)",
     "ID COLABORADOR": "111909",
     "ID DO AVALIADOR(A)": "278000",
     "Abrir Os": "SIM",
-    "Os": NaN,
-    "Abrir Os ": "SIM"
+    "Os": null,
+    "Abrir Os ": "SIM",
+    "Unnamed: 21": null
   },
   {
     "ID": "3585250",
@@ -9447,14 +9844,15 @@ const CHECKLIST_VEICULAR_DATA = [
     "Condutor": "Mildo Sérgio Veroneze",
     "Data Hora": "14/04/2026 09:00",
     "VIDEOTELEMTRIA": "SIM",
-    "Itens Danificados": NaN,
+    "Itens Danificados": null,
     "Estado de Criticidade Veículo": "Leve(Liberado)",
     "Observacoes": "Sem avaria.",
     "ID COLABORADOR": "273450 ",
     "ID DO AVALIADOR(A)": "272640",
     "Abrir Os": "NÃO",
-    "Os": NaN,
-    "Abrir Os ": "NÃO"
+    "Os": null,
+    "Abrir Os ": "NÃO",
+    "Unnamed: 21": null
   },
   {
     "ID": "3585255",
@@ -9471,14 +9869,15 @@ const CHECKLIST_VEICULAR_DATA = [
     "Condutor": "Edmar José Gonçalves ",
     "Data Hora": "14/04/2026 09:01",
     "VIDEOTELEMTRIA": "SIM",
-    "Itens Danificados": NaN,
+    "Itens Danificados": null,
     "Estado de Criticidade Veículo": "Leve(Liberado)",
     "Observacoes": "Sem avaria.",
-    "ID COLABORADOR": NaN,
+    "ID COLABORADOR": null,
     "ID DO AVALIADOR(A)": "272640",
     "Abrir Os": "NÃO",
-    "Os": NaN,
-    "Abrir Os ": "NÃO"
+    "Os": null,
+    "Abrir Os ": "NÃO",
+    "Unnamed: 21": null
   },
   {
     "ID": "3585256",
@@ -9495,14 +9894,15 @@ const CHECKLIST_VEICULAR_DATA = [
     "Condutor": "Admir Xavier Cotrim Sem ",
     "Data Hora": "14/04/2026 09:47",
     "VIDEOTELEMTRIA": "SIM",
-    "Itens Danificados": NaN,
+    "Itens Danificados": null,
     "Estado de Criticidade Veículo": "Leve(Liberado)",
     "Observacoes": "Sem avaria.",
     "ID COLABORADOR": "112150",
     "ID DO AVALIADOR(A)": "278000",
     "Abrir Os": "NÃO",
-    "Os": NaN,
-    "Abrir Os ": "NÃO"
+    "Os": null,
+    "Abrir Os ": "NÃO",
+    "Unnamed: 21": null
   },
   {
     "ID": "3585257",
@@ -9526,7 +9926,8 @@ const CHECKLIST_VEICULAR_DATA = [
     "ID DO AVALIADOR(A)": "272640",
     "Abrir Os": "SIM",
     "Os": "710455",
-    "Abrir Os ": "SIM"
+    "Abrir Os ": "SIM",
+    "Unnamed: 21": null
   },
   {
     "ID": "3585258",
@@ -9543,14 +9944,15 @@ const CHECKLIST_VEICULAR_DATA = [
     "Condutor": "Giliard Tavares ",
     "Data Hora": "14/04/2026 11:24",
     "VIDEOTELEMTRIA": "SIM",
-    "Itens Danificados": NaN,
+    "Itens Danificados": null,
     "Estado de Criticidade Veículo": "Leve(Liberado)",
     "Observacoes": "Sem avaria.",
     "ID COLABORADOR": "260700",
     "ID DO AVALIADOR(A)": "278000",
     "Abrir Os": "NÃO",
-    "Os": NaN,
-    "Abrir Os ": "NÃO"
+    "Os": null,
+    "Abrir Os ": "NÃO",
+    "Unnamed: 21": null
   },
   {
     "ID": "3585259",
@@ -9567,14 +9969,15 @@ const CHECKLIST_VEICULAR_DATA = [
     "Condutor": "Jussara Soares de Souza Sem ",
     "Data Hora": "14/04/2026 13:44",
     "VIDEOTELEMTRIA": "SIM",
-    "Itens Danificados": NaN,
+    "Itens Danificados": null,
     "Estado de Criticidade Veículo": "Leve(Liberado)",
     "Observacoes": "Sem avaria.",
     "ID COLABORADOR": "272640",
     "ID DO AVALIADOR(A)": "278000",
     "Abrir Os": "NÃO",
-    "Os": NaN,
-    "Abrir Os ": "NÃO"
+    "Os": null,
+    "Abrir Os ": "NÃO",
+    "Unnamed: 21": null
   },
   {
     "ID": "3587074",
@@ -9591,14 +9994,15 @@ const CHECKLIST_VEICULAR_DATA = [
     "Condutor": "Fernando Feltrin de Matos ",
     "Data Hora": "15/04/2026 06:57",
     "VIDEOTELEMTRIA": "SIM",
-    "Itens Danificados": NaN,
+    "Itens Danificados": null,
     "Estado de Criticidade Veículo": "Leve(Liberado)",
     "Observacoes": "Sem avaria.",
     "ID COLABORADOR": "127942",
     "ID DO AVALIADOR(A)": "278000",
     "Abrir Os": "NÃO",
-    "Os": NaN,
-    "Abrir Os ": "NÃO"
+    "Os": null,
+    "Abrir Os ": "NÃO",
+    "Unnamed: 21": null
   },
   {
     "ID": "3587075",
@@ -9615,14 +10019,15 @@ const CHECKLIST_VEICULAR_DATA = [
     "Condutor": "Maximiano Gomes da Silva ",
     "Data Hora": "15/04/2026 07:03",
     "VIDEOTELEMTRIA": "SIM",
-    "Itens Danificados": NaN,
+    "Itens Danificados": null,
     "Estado de Criticidade Veículo": "Leve(Liberado)",
     "Observacoes": "Sem avaria.",
     "ID COLABORADOR": "251170",
     "ID DO AVALIADOR(A)": "278000",
     "Abrir Os": "NÃO",
-    "Os": NaN,
-    "Abrir Os ": "NÃO"
+    "Os": null,
+    "Abrir Os ": "NÃO",
+    "Unnamed: 21": null
   },
   {
     "ID": "3587076",
@@ -9639,14 +10044,15 @@ const CHECKLIST_VEICULAR_DATA = [
     "Condutor": "César Fabiano Mineiro ",
     "Data Hora": "15/04/2026 09:12",
     "VIDEOTELEMTRIA": "SIM",
-    "Itens Danificados": NaN,
+    "Itens Danificados": null,
     "Estado de Criticidade Veículo": "Leve(Liberado)",
     "Observacoes": "Sem avaria.",
     "ID COLABORADOR": "2100",
     "ID DO AVALIADOR(A)": "272640",
     "Abrir Os": "NÃO",
-    "Os": NaN,
-    "Abrir Os ": "NÃO"
+    "Os": null,
+    "Abrir Os ": "NÃO",
+    "Unnamed: 21": null
   },
   {
     "ID": "3587077",
@@ -9663,14 +10069,15 @@ const CHECKLIST_VEICULAR_DATA = [
     "Condutor": "JOÃO JESUS FERREIRA ",
     "Data Hora": "15/04/2026 10:50",
     "VIDEOTELEMTRIA": "SIM",
-    "Itens Danificados": NaN,
+    "Itens Danificados": null,
     "Estado de Criticidade Veículo": "Leve(Liberado)",
     "Observacoes": "Sem avaria.",
     "ID COLABORADOR": "179103",
     "ID DO AVALIADOR(A)": "272640",
     "Abrir Os": "NÃO",
-    "Os": NaN,
-    "Abrir Os ": "NÃO"
+    "Os": null,
+    "Abrir Os ": "NÃO",
+    "Unnamed: 21": null
   },
   {
     "ID": "3587078",
@@ -9687,14 +10094,15 @@ const CHECKLIST_VEICULAR_DATA = [
     "Condutor": "Heverton Henrique Custodio Tampa ",
     "Data Hora": "15/04/2026 09:50",
     "VIDEOTELEMTRIA": "SIM",
-    "Itens Danificados": NaN,
+    "Itens Danificados": null,
     "Estado de Criticidade Veículo": "Leve(Liberado)",
     "Observacoes": "Sem avaria.",
     "ID COLABORADOR": "266560",
     "ID DO AVALIADOR(A)": "278000",
     "Abrir Os": "NÃO",
-    "Os": NaN,
-    "Abrir Os ": "NÃO"
+    "Os": null,
+    "Abrir Os ": "NÃO",
+    "Unnamed: 21": null
   },
   {
     "ID": "3587079",
@@ -9711,14 +10119,15 @@ const CHECKLIST_VEICULAR_DATA = [
     "Condutor": "Marco Ferreira dos Santos ",
     "Data Hora": "15/04/2026 10:12",
     "VIDEOTELEMTRIA": "NÃO",
-    "Itens Danificados": NaN,
+    "Itens Danificados": null,
     "Estado de Criticidade Veículo": "Leve(Liberado)",
     "Observacoes": "Sem avaria.",
     "ID COLABORADOR": "115782",
     "ID DO AVALIADOR(A)": "278000",
     "Abrir Os": "NÃO",
-    "Os": NaN,
-    "Abrir Os ": "NÃO"
+    "Os": null,
+    "Abrir Os ": "NÃO",
+    "Unnamed: 21": null
   },
   {
     "ID": "3590111",
@@ -9735,14 +10144,15 @@ const CHECKLIST_VEICULAR_DATA = [
     "Condutor": "Jussara Soares de Souza ",
     "Data Hora": "15/04/2026 15:58",
     "VIDEOTELEMTRIA": "SIM",
-    "Itens Danificados": NaN,
+    "Itens Danificados": null,
     "Estado de Criticidade Veículo": "Leve(Liberado)",
     "Observacoes": "Sem avaria.",
     "ID COLABORADOR": "272640",
     "ID DO AVALIADOR(A)": "272640",
     "Abrir Os": "NÃO",
-    "Os": NaN,
-    "Abrir Os ": "NÃO"
+    "Os": null,
+    "Abrir Os ": "NÃO",
+    "Unnamed: 21": null
   },
   {
     "ID": "3590112",
@@ -9759,14 +10169,15 @@ const CHECKLIST_VEICULAR_DATA = [
     "Condutor": "Jhonatas da Silva ",
     "Data Hora": "15/04/2026 13:19",
     "VIDEOTELEMTRIA": "SIM",
-    "Itens Danificados": NaN,
+    "Itens Danificados": null,
     "Estado de Criticidade Veículo": "Leve(Liberado)",
     "Observacoes": "Sem avaria.",
     "ID COLABORADOR": "279140",
     "ID DO AVALIADOR(A)": "278000",
     "Abrir Os": "NÃO",
-    "Os": NaN,
-    "Abrir Os ": "NÃO"
+    "Os": null,
+    "Abrir Os ": "NÃO",
+    "Unnamed: 21": null
   },
   {
     "ID": "3590113",
@@ -9783,14 +10194,15 @@ const CHECKLIST_VEICULAR_DATA = [
     "Condutor": "Alessandro da Silva ",
     "Data Hora": "16/04/2026 09:49",
     "VIDEOTELEMTRIA": "SIM",
-    "Itens Danificados": NaN,
+    "Itens Danificados": null,
     "Estado de Criticidade Veículo": "Leve(Liberado)",
     "Observacoes": "Sem avaria.",
     "ID COLABORADOR": "262010",
     "ID DO AVALIADOR(A)": "272640",
     "Abrir Os": "NÃO",
-    "Os": NaN,
-    "Abrir Os ": "NÃO"
+    "Os": null,
+    "Abrir Os ": "NÃO",
+    "Unnamed: 21": null
   },
   {
     "ID": "3590114",
@@ -9807,14 +10219,15 @@ const CHECKLIST_VEICULAR_DATA = [
     "Condutor": "Daiany Cândido da Silva ",
     "Data Hora": "16/04/2026 09:56",
     "VIDEOTELEMTRIA": "SIM",
-    "Itens Danificados": NaN,
+    "Itens Danificados": null,
     "Estado de Criticidade Veículo": "Leve(Liberado)",
     "Observacoes": "Sem avaria.",
     "ID COLABORADOR": "250690",
     "ID DO AVALIADOR(A)": "272640",
     "Abrir Os": "NÃO",
-    "Os": NaN,
-    "Abrir Os ": "NÃO"
+    "Os": null,
+    "Abrir Os ": "NÃO",
+    "Unnamed: 21": null
   },
   {
     "ID": "3590115",
@@ -9828,17 +10241,18 @@ const CHECKLIST_VEICULAR_DATA = [
     "Score": "0.0",
     "Frota": "461125 - CHEVROLET SPIN AT PREMIER - ALUGADO(GEQ9B71)",
     "GESTORES": "DANIEL FERREIRA DA CRUZ",
-    "Condutor": NaN,
+    "Condutor": null,
     "Data Hora": "16/04/2026 10:02",
     "VIDEOTELEMTRIA": "SIM",
-    "Itens Danificados": NaN,
+    "Itens Danificados": null,
     "Estado de Criticidade Veículo": "Leve(Liberado)",
     "Observacoes": "Sem avaria.",
     "ID COLABORADOR": "283160",
     "ID DO AVALIADOR(A)": "272640",
     "Abrir Os": "NÃO",
-    "Os": NaN,
-    "Abrir Os ": "NÃO"
+    "Os": null,
+    "Abrir Os ": "NÃO",
+    "Unnamed: 21": null
   },
   {
     "ID": "3598097",
@@ -9855,14 +10269,15 @@ const CHECKLIST_VEICULAR_DATA = [
     "Condutor": "Luis Fernando Cassezi ",
     "Data Hora": "16/04/2026 13:51",
     "VIDEOTELEMTRIA": "SIM",
-    "Itens Danificados": NaN,
+    "Itens Danificados": null,
     "Estado de Criticidade Veículo": "Leve(Liberado)",
     "Observacoes": "Sem avaria.",
-    "ID COLABORADOR": NaN,
+    "ID COLABORADOR": null,
     "ID DO AVALIADOR(A)": "272640",
     "Abrir Os": "NÃO",
-    "Os": NaN,
-    "Abrir Os ": "NÃO"
+    "Os": null,
+    "Abrir Os ": "NÃO",
+    "Unnamed: 21": null
   },
   {
     "ID": "3598098",
@@ -9879,14 +10294,15 @@ const CHECKLIST_VEICULAR_DATA = [
     "Condutor": "Luiz Henrique da Silva ",
     "Data Hora": "17/04/2026 08:20",
     "VIDEOTELEMTRIA": "SIM",
-    "Itens Danificados": NaN,
+    "Itens Danificados": null,
     "Estado de Criticidade Veículo": "Leve(Liberado)",
     "Observacoes": "Sem avaria.",
     "ID COLABORADOR": "276951",
     "ID DO AVALIADOR(A)": "278000",
     "Abrir Os": "NÃO",
-    "Os": NaN,
-    "Abrir Os ": "NÃO"
+    "Os": null,
+    "Abrir Os ": "NÃO",
+    "Unnamed: 21": null
   },
   {
     "ID": "3598099",
@@ -9903,14 +10319,15 @@ const CHECKLIST_VEICULAR_DATA = [
     "Condutor": "Jeremias dos Santos ",
     "Data Hora": "17/04/2026 09:25",
     "VIDEOTELEMTRIA": "SIM",
-    "Itens Danificados": NaN,
+    "Itens Danificados": null,
     "Estado de Criticidade Veículo": "Leve(Liberado)",
     "Observacoes": "Sem avaria.",
     "ID COLABORADOR": "280430",
     "ID DO AVALIADOR(A)": "278000",
     "Abrir Os": "NÃO",
-    "Os": NaN,
-    "Abrir Os ": "NÃO"
+    "Os": null,
+    "Abrir Os ": "NÃO",
+    "Unnamed: 21": null
   },
   {
     "ID": "3598100",
@@ -9927,14 +10344,15 @@ const CHECKLIST_VEICULAR_DATA = [
     "Condutor": "Antonio Marcos Souza ",
     "Data Hora": "17/04/2026 11:28",
     "VIDEOTELEMTRIA": "SIM",
-    "Itens Danificados": NaN,
+    "Itens Danificados": null,
     "Estado de Criticidade Veículo": "Leve(Liberado)",
     "Observacoes": "Sem avaria.",
     "ID COLABORADOR": "260840",
     "ID DO AVALIADOR(A)": "278000",
     "Abrir Os": "NÃO",
-    "Os": NaN,
-    "Abrir Os ": "NÃO"
+    "Os": null,
+    "Abrir Os ": "NÃO",
+    "Unnamed: 21": null
   },
   {
     "ID": "3598101",
@@ -9951,14 +10369,15 @@ const CHECKLIST_VEICULAR_DATA = [
     "Condutor": "Luiz Alfredo de Souza",
     "Data Hora": "20/04/2026 06:56",
     "VIDEOTELEMTRIA": "SIM",
-    "Itens Danificados": NaN,
+    "Itens Danificados": null,
     "Estado de Criticidade Veículo": "Leve(Liberado)",
     "Observacoes": "Sem avaria.",
     "ID COLABORADOR": "5423",
     "ID DO AVALIADOR(A)": "272640",
     "Abrir Os": "NÃO",
-    "Os": NaN,
-    "Abrir Os ": "NÃO"
+    "Os": null,
+    "Abrir Os ": "NÃO",
+    "Unnamed: 21": null
   },
   {
     "ID": "3598102",
@@ -9975,14 +10394,15 @@ const CHECKLIST_VEICULAR_DATA = [
     "Condutor": "Onofre Evangelista da Silva Junior ",
     "Data Hora": "20/04/2026 07:02",
     "VIDEOTELEMTRIA": "SIM",
-    "Itens Danificados": NaN,
+    "Itens Danificados": null,
     "Estado de Criticidade Veículo": "Leve(Liberado)",
     "Observacoes": "Sem avaria.",
     "ID COLABORADOR": "163363",
     "ID DO AVALIADOR(A)": "272650",
     "Abrir Os": "NÃO",
-    "Os": NaN,
-    "Abrir Os ": "NÃO"
+    "Os": null,
+    "Abrir Os ": "NÃO",
+    "Unnamed: 21": null
   },
   {
     "ID": "3598104",
@@ -9999,14 +10419,15 @@ const CHECKLIST_VEICULAR_DATA = [
     "Condutor": "Leonardo Estenio Gallon Pinto ",
     "Data Hora": "20/04/2026 07:04",
     "VIDEOTELEMTRIA": "SIM",
-    "Itens Danificados": NaN,
+    "Itens Danificados": null,
     "Estado de Criticidade Veículo": "Leve(Liberado)",
     "Observacoes": "Sem avaria.",
     "ID COLABORADOR": "272430",
     "ID DO AVALIADOR(A)": "272640",
     "Abrir Os": "NÃO",
-    "Os": NaN,
-    "Abrir Os ": "NÃO"
+    "Os": null,
+    "Abrir Os ": "NÃO",
+    "Unnamed: 21": null
   },
   {
     "ID": "3598105",
@@ -10023,14 +10444,15 @@ const CHECKLIST_VEICULAR_DATA = [
     "Condutor": "Leonardo Estenio Gallon Pinto ",
     "Data Hora": "20/04/2026 07:18",
     "VIDEOTELEMTRIA": "NÃO",
-    "Itens Danificados": NaN,
+    "Itens Danificados": null,
     "Estado de Criticidade Veículo": "Leve(Liberado)",
     "Observacoes": "Sem avaria.",
     "ID COLABORADOR": "272430",
     "ID DO AVALIADOR(A)": "272640",
     "Abrir Os": "NÃO",
-    "Os": NaN,
-    "Abrir Os ": "NÃO"
+    "Os": null,
+    "Abrir Os ": "NÃO",
+    "Unnamed: 21": null
   },
   {
     "ID": "3604464",
@@ -10047,14 +10469,15 @@ const CHECKLIST_VEICULAR_DATA = [
     "Condutor": "Rodrigo Soares Gonçalves da Costa ",
     "Data Hora": "20/04/2026 13:55",
     "VIDEOTELEMTRIA": "SIM",
-    "Itens Danificados": NaN,
+    "Itens Danificados": null,
     "Estado de Criticidade Veículo": "Leve(Liberado)",
     "Observacoes": "Sem avaria.",
     "ID COLABORADOR": "223724",
     "ID DO AVALIADOR(A)": "272640",
     "Abrir Os": "NÃO",
-    "Os": NaN,
-    "Abrir Os ": "NÃO"
+    "Os": null,
+    "Abrir Os ": "NÃO",
+    "Unnamed: 21": null
   },
   {
     "ID": "3604465",
@@ -10071,14 +10494,15 @@ const CHECKLIST_VEICULAR_DATA = [
     "Condutor": "Gilmar Rebouças ",
     "Data Hora": "20/04/2026 15:27",
     "VIDEOTELEMTRIA": "SIM",
-    "Itens Danificados": NaN,
+    "Itens Danificados": null,
     "Estado de Criticidade Veículo": "Leve(Liberado)",
     "Observacoes": "Frota lavada no sábado.Sem avaria.",
-    "ID COLABORADOR": NaN,
+    "ID COLABORADOR": null,
     "ID DO AVALIADOR(A)": "272640",
     "Abrir Os": "NÃO",
-    "Os": NaN,
-    "Abrir Os ": "NÃO"
+    "Os": null,
+    "Abrir Os ": "NÃO",
+    "Unnamed: 21": null
   },
   {
     "ID": "3604466",
@@ -10095,14 +10519,15 @@ const CHECKLIST_VEICULAR_DATA = [
     "Condutor": "Willian Roberto Dalla Costa ",
     "Data Hora": "22/04/2026 07:08",
     "VIDEOTELEMTRIA": "SIM",
-    "Itens Danificados": NaN,
+    "Itens Danificados": null,
     "Estado de Criticidade Veículo": "Leve(Liberado)",
     "Observacoes": "Sem avaria ",
     "ID COLABORADOR": "254120",
     "ID DO AVALIADOR(A)": "278000",
     "Abrir Os": "NÃO",
-    "Os": NaN,
-    "Abrir Os ": "NÃO"
+    "Os": null,
+    "Abrir Os ": "NÃO",
+    "Unnamed: 21": null
   },
   {
     "ID": "3604467",
@@ -10119,14 +10544,15 @@ const CHECKLIST_VEICULAR_DATA = [
     "Condutor": "Davi Freitas Ramos ",
     "Data Hora": "22/04/2026 07:07",
     "VIDEOTELEMTRIA": "SIM",
-    "Itens Danificados": NaN,
+    "Itens Danificados": null,
     "Estado de Criticidade Veículo": "Leve(Liberado)",
     "Observacoes": "Sem avaria ",
     "ID COLABORADOR": "265970",
     "ID DO AVALIADOR(A)": "278000",
     "Abrir Os": "NÃO",
-    "Os": NaN,
-    "Abrir Os ": "NÃO"
+    "Os": null,
+    "Abrir Os ": "NÃO",
+    "Unnamed: 21": null
   },
   {
     "ID": "3604472",
@@ -10143,14 +10569,15 @@ const CHECKLIST_VEICULAR_DATA = [
     "Condutor": "Valdeci Pereira ",
     "Data Hora": "22/04/2026 07:20",
     "VIDEOTELEMTRIA": "SIM",
-    "Itens Danificados": NaN,
+    "Itens Danificados": null,
     "Estado de Criticidade Veículo": "Leve(Liberado)",
     "Observacoes": "Sem avaria ",
     "ID COLABORADOR": "248830",
     "ID DO AVALIADOR(A)": "278000",
     "Abrir Os": "NÃO",
-    "Os": NaN,
-    "Abrir Os ": "NÃO"
+    "Os": null,
+    "Abrir Os ": "NÃO",
+    "Unnamed: 21": null
   },
   {
     "ID": "3604473",
@@ -10167,14 +10594,15 @@ const CHECKLIST_VEICULAR_DATA = [
     "Condutor": "Edmar Luis Ferreira ",
     "Data Hora": "22/04/2026 10:01",
     "VIDEOTELEMTRIA": "NÃO",
-    "Itens Danificados": NaN,
+    "Itens Danificados": null,
     "Estado de Criticidade Veículo": "Leve(Liberado)",
     "Observacoes": "Sem avaria ",
-    "ID COLABORADOR": NaN,
+    "ID COLABORADOR": null,
     "ID DO AVALIADOR(A)": "278000",
     "Abrir Os": "NÃO",
-    "Os": NaN,
-    "Abrir Os ": "NÃO"
+    "Os": null,
+    "Abrir Os ": "NÃO",
+    "Unnamed: 21": null
   },
   {
     "ID": "3604474",
@@ -10191,14 +10619,15 @@ const CHECKLIST_VEICULAR_DATA = [
     "Condutor": "Jussara Soares de Souza Sem ",
     "Data Hora": "22/04/2026 13:26",
     "VIDEOTELEMTRIA": "SIM",
-    "Itens Danificados": NaN,
+    "Itens Danificados": null,
     "Estado de Criticidade Veículo": "Leve(Liberado)",
     "Observacoes": "Sem avaria ",
     "ID COLABORADOR": "272640",
     "ID DO AVALIADOR(A)": "278000",
     "Abrir Os": "NÃO",
-    "Os": NaN,
-    "Abrir Os ": "NÃO"
+    "Os": null,
+    "Abrir Os ": "NÃO",
+    "Unnamed: 21": null
   },
   {
     "ID": "3608213",
@@ -10215,14 +10644,15 @@ const CHECKLIST_VEICULAR_DATA = [
     "Condutor": "Dimitre José de Souza Guirardelle",
     "Data Hora": "23/04/2026 06:59",
     "VIDEOTELEMTRIA": "SIM",
-    "Itens Danificados": NaN,
+    "Itens Danificados": null,
     "Estado de Criticidade Veículo": "Leve(Liberado)",
     "Observacoes": "Sem avaria.",
     "ID COLABORADOR": "272360",
     "ID DO AVALIADOR(A)": "272640",
     "Abrir Os": "NÃO",
-    "Os": NaN,
-    "Abrir Os ": "NÃO"
+    "Os": null,
+    "Abrir Os ": "NÃO",
+    "Unnamed: 21": null
   },
   {
     "ID": "3608214",
@@ -10239,14 +10669,15 @@ const CHECKLIST_VEICULAR_DATA = [
     "Condutor": "Valdeir Antonio de Souza ",
     "Data Hora": "23/04/2026 08:45",
     "VIDEOTELEMTRIA": "SIM",
-    "Itens Danificados": NaN,
+    "Itens Danificados": null,
     "Estado de Criticidade Veículo": "Moderado(Condutor notificado)",
     "Observacoes": "Lanterna traseira esquerda quebrada ",
     "ID COLABORADOR": "157958",
     "ID DO AVALIADOR(A)": "278000",
     "Abrir Os": "SIM",
     "Os": "723638",
-    "Abrir Os ": "SIM"
+    "Abrir Os ": "SIM",
+    "Unnamed: 21": null
   },
   {
     "ID": "3608215",
@@ -10263,14 +10694,15 @@ const CHECKLIST_VEICULAR_DATA = [
     "Condutor": "Gilliart Tavares ",
     "Data Hora": "23/04/2026 12:44",
     "VIDEOTELEMTRIA": "NÃO",
-    "Itens Danificados": NaN,
+    "Itens Danificados": null,
     "Estado de Criticidade Veículo": "Leve(Liberado)",
     "Observacoes": "Sem avaria ",
     "ID COLABORADOR": "260700",
     "ID DO AVALIADOR(A)": "278000",
     "Abrir Os": "NÃO",
-    "Os": NaN,
-    "Abrir Os ": "NÃO"
+    "Os": null,
+    "Abrir Os ": "NÃO",
+    "Unnamed: 21": null
   },
   {
     "ID": "3618231",
@@ -10287,14 +10719,15 @@ const CHECKLIST_VEICULAR_DATA = [
     "Condutor": "Murilo Vanderlei Travani ",
     "Data Hora": "24/04/2026 15:38",
     "VIDEOTELEMTRIA": "SIM",
-    "Itens Danificados": NaN,
+    "Itens Danificados": null,
     "Estado de Criticidade Veículo": "Leve(Liberado)",
     "Observacoes": "Sem avaria.",
-    "ID COLABORADOR": NaN,
+    "ID COLABORADOR": null,
     "ID DO AVALIADOR(A)": "272640",
     "Abrir Os": "NÃO",
-    "Os": NaN,
-    "Abrir Os ": "NÃO"
+    "Os": null,
+    "Abrir Os ": "NÃO",
+    "Unnamed: 21": null
   },
   {
     "ID": "3618232",
@@ -10317,8 +10750,9 @@ const CHECKLIST_VEICULAR_DATA = [
     "ID COLABORADOR": "2100",
     "ID DO AVALIADOR(A)": "272640",
     "Abrir Os": "NÃO",
-    "Os": NaN,
-    "Abrir Os ": "NÃO"
+    "Os": null,
+    "Abrir Os ": "NÃO",
+    "Unnamed: 21": null
   },
   {
     "ID": "3618234",
@@ -10335,14 +10769,15 @@ const CHECKLIST_VEICULAR_DATA = [
     "Condutor": "Gilmar Rebouças ",
     "Data Hora": "27/04/2026 08:13",
     "VIDEOTELEMTRIA": "SIM",
-    "Itens Danificados": NaN,
+    "Itens Danificados": null,
     "Estado de Criticidade Veículo": "Leve(Liberado)",
     "Observacoes": "Sem avaria.",
-    "ID COLABORADOR": NaN,
+    "ID COLABORADOR": null,
     "ID DO AVALIADOR(A)": "272640",
     "Abrir Os": "NÃO",
-    "Os": NaN,
-    "Abrir Os ": "NÃO"
+    "Os": null,
+    "Abrir Os ": "NÃO",
+    "Unnamed: 21": null
   },
   {
     "ID": "3618236",
@@ -10366,7 +10801,8 @@ const CHECKLIST_VEICULAR_DATA = [
     "ID DO AVALIADOR(A)": "272640",
     "Abrir Os": "SIM",
     "Os": "725014",
-    "Abrir Os ": "SIM"
+    "Abrir Os ": "SIM",
+    "Unnamed: 21": null
   },
   {
     "ID": "3618238",
@@ -10389,8 +10825,9 @@ const CHECKLIST_VEICULAR_DATA = [
     "ID COLABORADOR": "250700",
     "ID DO AVALIADOR(A)": "272640",
     "Abrir Os": "NÃO",
-    "Os": NaN,
-    "Abrir Os ": "NÃO"
+    "Os": null,
+    "Abrir Os ": "NÃO",
+    "Unnamed: 21": null
   },
   {
     "ID": "3618240",
@@ -10407,14 +10844,15 @@ const CHECKLIST_VEICULAR_DATA = [
     "Condutor": "Daniel Ferreira da Cruz Neto ",
     "Data Hora": "27/04/2026 09:34",
     "VIDEOTELEMTRIA": "SIM",
-    "Itens Danificados": NaN,
+    "Itens Danificados": null,
     "Estado de Criticidade Veículo": "Leve(Liberado)",
     "Observacoes": "Sem avaria.",
     "ID COLABORADOR": "266350",
     "ID DO AVALIADOR(A)": "272640",
     "Abrir Os": "NÃO",
-    "Os": NaN,
-    "Abrir Os ": "NÃO"
+    "Os": null,
+    "Abrir Os ": "NÃO",
+    "Unnamed: 21": null
   },
   {
     "ID": "3618242",
@@ -10431,14 +10869,15 @@ const CHECKLIST_VEICULAR_DATA = [
     "Condutor": "Jussara Soares de Souza ",
     "Data Hora": "27/04/2026 12:26",
     "VIDEOTELEMTRIA": "SIM",
-    "Itens Danificados": NaN,
+    "Itens Danificados": null,
     "Estado de Criticidade Veículo": "Leve(Liberado)",
     "Observacoes": "Sem avaria.",
     "ID COLABORADOR": "272640",
     "ID DO AVALIADOR(A)": "272640",
     "Abrir Os": "NÃO",
-    "Os": NaN,
-    "Abrir Os ": "NÃO"
+    "Os": null,
+    "Abrir Os ": "NÃO",
+    "Unnamed: 21": null
   },
   {
     "ID": "3618244",
@@ -10455,14 +10894,15 @@ const CHECKLIST_VEICULAR_DATA = [
     "Condutor": "Antonio Benedito Cassezi ",
     "Data Hora": "27/04/2026 12:55",
     "VIDEOTELEMTRIA": "SIM",
-    "Itens Danificados": NaN,
+    "Itens Danificados": null,
     "Estado de Criticidade Veículo": "Moderado(Condutor notificado)",
     "Observacoes": "Amassado no teto ",
     "ID COLABORADOR": "96520",
     "ID DO AVALIADOR(A)": "272640",
     "Abrir Os": "SIM",
     "Os": "714309",
-    "Abrir Os ": "SIM"
+    "Abrir Os ": "SIM",
+    "Unnamed: 21": null
   },
   {
     "ID": "3618246",
@@ -10479,14 +10919,15 @@ const CHECKLIST_VEICULAR_DATA = [
     "Condutor": "Daniel Ferreira da Cruz Filho",
     "Data Hora": "27/04/2026 13:20",
     "VIDEOTELEMTRIA": "SIM",
-    "Itens Danificados": NaN,
+    "Itens Danificados": null,
     "Estado de Criticidade Veículo": "Leve(Liberado)",
     "Observacoes": "Sem avaria.",
     "ID COLABORADOR": "283160",
     "ID DO AVALIADOR(A)": "272640",
     "Abrir Os": "NÃO",
-    "Os": NaN,
-    "Abrir Os ": "NÃO"
+    "Os": null,
+    "Abrir Os ": "NÃO",
+    "Unnamed: 21": null
   },
   {
     "ID": "3618247",
@@ -10503,14 +10944,15 @@ const CHECKLIST_VEICULAR_DATA = [
     "Condutor": "Davi Freitas Ramos ",
     "Data Hora": "27/04/2026 13:34",
     "VIDEOTELEMTRIA": "SIM",
-    "Itens Danificados": NaN,
+    "Itens Danificados": null,
     "Estado de Criticidade Veículo": "Leve(Liberado)",
     "Observacoes": "Sem avaria.",
     "ID COLABORADOR": "265970",
     "ID DO AVALIADOR(A)": "272640",
     "Abrir Os": "NÃO",
-    "Os": NaN,
-    "Abrir Os ": "NÃO"
+    "Os": null,
+    "Abrir Os ": "NÃO",
+    "Unnamed: 21": null
   },
   {
     "ID": "3618248",
@@ -10527,14 +10969,15 @@ const CHECKLIST_VEICULAR_DATA = [
     "Condutor": "Onofre Evangelista da Silva Junior",
     "Data Hora": "27/04/2026 13:51",
     "VIDEOTELEMTRIA": "SIM",
-    "Itens Danificados": NaN,
+    "Itens Danificados": null,
     "Estado de Criticidade Veículo": "Leve(Liberado)",
     "Observacoes": "Sem avaria.",
     "ID COLABORADOR": "163363",
     "ID DO AVALIADOR(A)": "272640",
     "Abrir Os": "NÃO",
-    "Os": NaN,
-    "Abrir Os ": "NÃO"
+    "Os": null,
+    "Abrir Os ": "NÃO",
+    "Unnamed: 21": null
   },
   {
     "ID": "3618249",
@@ -10551,14 +10994,15 @@ const CHECKLIST_VEICULAR_DATA = [
     "Condutor": "Ivone Lopes Faria",
     "Data Hora": "27/04/2026 13:56",
     "VIDEOTELEMTRIA": "SIM",
-    "Itens Danificados": NaN,
+    "Itens Danificados": null,
     "Estado de Criticidade Veículo": "Leve(Liberado)",
     "Observacoes": "Sem avaria.",
     "ID COLABORADOR": "283080",
     "ID DO AVALIADOR(A)": "272640",
     "Abrir Os": "NÃO",
-    "Os": NaN,
-    "Abrir Os ": "NÃO"
+    "Os": null,
+    "Abrir Os ": "NÃO",
+    "Unnamed: 21": null
   },
   {
     "ID": "3619208",
@@ -10575,14 +11019,15 @@ const CHECKLIST_VEICULAR_DATA = [
     "Condutor": "Antonio Marcos Ribeiro Ruas ",
     "Data Hora": "27/04/2026 15:51",
     "VIDEOTELEMTRIA": "SIM",
-    "Itens Danificados": NaN,
+    "Itens Danificados": null,
     "Estado de Criticidade Veículo": "Leve(Liberado)",
     "Observacoes": "Sem avaria.",
     "ID COLABORADOR": "183702",
     "ID DO AVALIADOR(A)": "272640",
     "Abrir Os": "NÃO",
-    "Os": NaN,
-    "Abrir Os ": "NÃO"
+    "Os": null,
+    "Abrir Os ": "NÃO",
+    "Unnamed: 21": null
   },
   {
     "ID": "3619210",
@@ -10599,14 +11044,15 @@ const CHECKLIST_VEICULAR_DATA = [
     "Condutor": "Luiz Alfredo de Souza ",
     "Data Hora": "27/04/2026 15:56",
     "VIDEOTELEMTRIA": "SIM",
-    "Itens Danificados": NaN,
+    "Itens Danificados": null,
     "Estado de Criticidade Veículo": "Leve(Liberado)",
     "Observacoes": "Sem avaria.",
     "ID COLABORADOR": "5423",
     "ID DO AVALIADOR(A)": "272640",
     "Abrir Os": "NÃO",
-    "Os": NaN,
-    "Abrir Os ": "NÃO"
+    "Os": null,
+    "Abrir Os ": "NÃO",
+    "Unnamed: 21": null
   },
   {
     "ID": "3619211",
@@ -10620,17 +11066,18 @@ const CHECKLIST_VEICULAR_DATA = [
     "Score": "0.0",
     "Frota": "460624 - CHEVROLET SPIN AT PREMIER - ALUGADO(SYX6F46)",
     "GESTORES": "DANIEL FERREIRA DA CRUZ",
-    "Condutor": NaN,
+    "Condutor": null,
     "Data Hora": "27/04/2026 15:57",
     "VIDEOTELEMTRIA": "SIM",
-    "Itens Danificados": NaN,
+    "Itens Danificados": null,
     "Estado de Criticidade Veículo": "Leve(Liberado)",
     "Observacoes": "Sem avaria.",
     "ID COLABORADOR": "282840",
     "ID DO AVALIADOR(A)": "272640",
     "Abrir Os": "NÃO",
-    "Os": NaN,
-    "Abrir Os ": "NÃO"
+    "Os": null,
+    "Abrir Os ": "NÃO",
+    "Unnamed: 21": null
   },
   {
     "ID": "3619212",
@@ -10647,14 +11094,15 @@ const CHECKLIST_VEICULAR_DATA = [
     "Condutor": "Jhonnes Alves Moura ",
     "Data Hora": "27/04/2026 16:15",
     "VIDEOTELEMTRIA": "SIM",
-    "Itens Danificados": NaN,
+    "Itens Danificados": null,
     "Estado de Criticidade Veículo": "Leve(Liberado)",
     "Observacoes": "Veículo sujo.",
     "ID COLABORADOR": "212301",
     "ID DO AVALIADOR(A)": "272640",
     "Abrir Os": "NÃO",
-    "Os": NaN,
-    "Abrir Os ": "NÃO"
+    "Os": null,
+    "Abrir Os ": "NÃO",
+    "Unnamed: 21": null
   },
   {
     "ID": "3619213",
@@ -10668,7 +11116,7 @@ const CHECKLIST_VEICULAR_DATA = [
     "Score": "0.0",
     "Frota": "462325 - FIAT MOBI TREKKING 1.0 - ALUGADO(TEL2A03)",
     "GESTORES": "DANIEL FERREIRA DA CRUZ",
-    "Condutor": NaN,
+    "Condutor": null,
     "Data Hora": "27/04/2026 16:19",
     "VIDEOTELEMTRIA": "SIM",
     "Itens Danificados": "20. Luz de Placa ",
@@ -10677,8 +11125,9 @@ const CHECKLIST_VEICULAR_DATA = [
     "ID COLABORADOR": "283750",
     "ID DO AVALIADOR(A)": "272640",
     "Abrir Os": "NÃO",
-    "Os": NaN,
-    "Abrir Os ": "NÃO"
+    "Os": null,
+    "Abrir Os ": "NÃO",
+    "Unnamed: 21": null
   },
   {
     "ID": "3622225",
@@ -10695,14 +11144,15 @@ const CHECKLIST_VEICULAR_DATA = [
     "Condutor": "Jonatas da Silva Lemes ",
     "Data Hora": "28/04/2026 07:34",
     "VIDEOTELEMTRIA": "SIM",
-    "Itens Danificados": NaN,
+    "Itens Danificados": null,
     "Estado de Criticidade Veículo": "Leve(Liberado)",
     "Observacoes": "Sem avaria.",
     "ID COLABORADOR": "279140",
     "ID DO AVALIADOR(A)": "272640",
     "Abrir Os": "NÃO",
-    "Os": NaN,
-    "Abrir Os ": "NÃO"
+    "Os": null,
+    "Abrir Os ": "NÃO",
+    "Unnamed: 21": null
   },
   {
     "ID": "3622226",
@@ -10719,14 +11169,15 @@ const CHECKLIST_VEICULAR_DATA = [
     "Condutor": "Lusimar Inácio de Sousa ",
     "Data Hora": "28/04/2026 09:19",
     "VIDEOTELEMTRIA": "SIM",
-    "Itens Danificados": NaN,
+    "Itens Danificados": null,
     "Estado de Criticidade Veículo": "Leve(Liberado)",
     "Observacoes": "Sem avaria.",
     "ID COLABORADOR": "212210",
     "ID DO AVALIADOR(A)": "272640",
     "Abrir Os": "NÃO",
-    "Os": NaN,
-    "Abrir Os ": "NÃO"
+    "Os": null,
+    "Abrir Os ": "NÃO",
+    "Unnamed: 21": null
   },
   {
     "ID": "3622227",
@@ -10743,14 +11194,15 @@ const CHECKLIST_VEICULAR_DATA = [
     "Condutor": "Admir Xavier Cotrim ",
     "Data Hora": "28/04/2026 13:01",
     "VIDEOTELEMTRIA": "SIM",
-    "Itens Danificados": NaN,
+    "Itens Danificados": null,
     "Estado de Criticidade Veículo": "Leve(Liberado)",
     "Observacoes": "Sem avaria. ",
     "ID COLABORADOR": "112150",
     "ID DO AVALIADOR(A)": "272640",
     "Abrir Os": "NÃO",
-    "Os": NaN,
-    "Abrir Os ": "NÃO"
+    "Os": null,
+    "Abrir Os ": "NÃO",
+    "Unnamed: 21": null
   },
   {
     "ID": "3622228",
@@ -10767,14 +11219,15 @@ const CHECKLIST_VEICULAR_DATA = [
     "Condutor": "Leonardo Estenio Gallon Pinto ",
     "Data Hora": "28/04/2026 14:47",
     "VIDEOTELEMTRIA": "SIM",
-    "Itens Danificados": NaN,
+    "Itens Danificados": null,
     "Estado de Criticidade Veículo": "Leve(Liberado)",
     "Observacoes": "Sem avaria.",
     "ID COLABORADOR": "272430",
     "ID DO AVALIADOR(A)": "272640",
     "Abrir Os": "NÃO",
-    "Os": NaN,
-    "Abrir Os ": "NÃO"
+    "Os": null,
+    "Abrir Os ": "NÃO",
+    "Unnamed: 21": null
   },
   {
     "ID": "3622229",
@@ -10791,14 +11244,15 @@ const CHECKLIST_VEICULAR_DATA = [
     "Condutor": "Alessandro da Silva ",
     "Data Hora": "28/04/2026 15:11",
     "VIDEOTELEMTRIA": "SIM",
-    "Itens Danificados": NaN,
+    "Itens Danificados": null,
     "Estado de Criticidade Veículo": "Leve(Liberado)",
     "Observacoes": "Sem avaria.",
     "ID COLABORADOR": "283150",
     "ID DO AVALIADOR(A)": "272640",
     "Abrir Os": "NÃO",
-    "Os": NaN,
-    "Abrir Os ": "NÃO"
+    "Os": null,
+    "Abrir Os ": "NÃO",
+    "Unnamed: 21": null
   },
   {
     "ID": "3622230",
@@ -10815,14 +11269,15 @@ const CHECKLIST_VEICULAR_DATA = [
     "Condutor": "Alessandro da Silva ",
     "Data Hora": "28/04/2026 15:15",
     "VIDEOTELEMTRIA": "SIM",
-    "Itens Danificados": NaN,
+    "Itens Danificados": null,
     "Estado de Criticidade Veículo": "Leve(Liberado)",
     "Observacoes": "Sem avaria.",
     "ID COLABORADOR": "262010",
     "ID DO AVALIADOR(A)": "272640",
     "Abrir Os": "NÃO",
-    "Os": NaN,
-    "Abrir Os ": "NÃO"
+    "Os": null,
+    "Abrir Os ": "NÃO",
+    "Unnamed: 21": null
   },
   {
     "ID": "3622231",
@@ -10839,14 +11294,15 @@ const CHECKLIST_VEICULAR_DATA = [
     "Condutor": "Alessandro da Silva ",
     "Data Hora": "28/04/2026 15:31",
     "VIDEOTELEMTRIA": "SIM",
-    "Itens Danificados": NaN,
+    "Itens Danificados": null,
     "Estado de Criticidade Veículo": "Leve(Liberado)",
     "Observacoes": "Sem avaria.",
     "ID COLABORADOR": "262010",
     "ID DO AVALIADOR(A)": "272640",
     "Abrir Os": "NÃO",
-    "Os": NaN,
-    "Abrir Os ": "NÃO"
+    "Os": null,
+    "Abrir Os ": "NÃO",
+    "Unnamed: 21": null
   },
   {
     "ID": "3626189",
@@ -10869,8 +11325,9 @@ const CHECKLIST_VEICULAR_DATA = [
     "ID COLABORADOR": "209880",
     "ID DO AVALIADOR(A)": "272640",
     "Abrir Os": "SIM",
-    "Os": NaN,
-    "Abrir Os ": "SIM"
+    "Os": null,
+    "Abrir Os ": "SIM",
+    "Unnamed: 21": null
   },
   {
     "ID": "3626190",
@@ -10893,8 +11350,9 @@ const CHECKLIST_VEICULAR_DATA = [
     "ID COLABORADOR": "251170",
     "ID DO AVALIADOR(A)": "272640",
     "Abrir Os": "SIM",
-    "Os": NaN,
-    "Abrir Os ": "SIM"
+    "Os": null,
+    "Abrir Os ": "SIM",
+    "Unnamed: 21": null
   },
   {
     "ID": "3626191",
@@ -10918,7 +11376,8 @@ const CHECKLIST_VEICULAR_DATA = [
     "ID DO AVALIADOR(A)": "272640",
     "Abrir Os": "SIM",
     "Os": "723820",
-    "Abrir Os ": "SIM"
+    "Abrir Os ": "SIM",
+    "Unnamed: 21": null
   },
   {
     "ID": "3626192",
@@ -10935,14 +11394,15 @@ const CHECKLIST_VEICULAR_DATA = [
     "Condutor": "Wellington Martins Bento ",
     "Data Hora": "29/04/2026 08:53",
     "VIDEOTELEMTRIA": "SIM",
-    "Itens Danificados": NaN,
+    "Itens Danificados": null,
     "Estado de Criticidade Veículo": "Leve(Liberado)",
     "Observacoes": "Sem avaria.",
     "ID COLABORADOR": "232100",
     "ID DO AVALIADOR(A)": "272740",
     "Abrir Os": "NÃO",
-    "Os": NaN,
-    "Abrir Os ": "NÃO"
+    "Os": null,
+    "Abrir Os ": "NÃO",
+    "Unnamed: 21": null
   },
   {
     "ID": "3626194",
@@ -10959,14 +11419,15 @@ const CHECKLIST_VEICULAR_DATA = [
     "Condutor": "Juliano Rosa Quirino ",
     "Data Hora": "29/04/2026 09:48",
     "VIDEOTELEMTRIA": "SIM",
-    "Itens Danificados": NaN,
+    "Itens Danificados": null,
     "Estado de Criticidade Veículo": "Moderado(Condutor notificado)",
     "Observacoes": "Lanterna esquerda e direita (queimada)",
     "ID COLABORADOR": "272770",
     "ID DO AVALIADOR(A)": "272640",
     "Abrir Os": "SIM",
-    "Os": NaN,
-    "Abrir Os ": "SIM"
+    "Os": null,
+    "Abrir Os ": "SIM",
+    "Unnamed: 21": null
   },
   {
     "ID": "3626195",
@@ -10983,14 +11444,15 @@ const CHECKLIST_VEICULAR_DATA = [
     "Condutor": "Ricardo Aparecido da Silva ",
     "Data Hora": "29/04/2026 10:51",
     "VIDEOTELEMTRIA": "SIM",
-    "Itens Danificados": NaN,
+    "Itens Danificados": null,
     "Estado de Criticidade Veículo": "Leve(Liberado)",
     "Observacoes": "Sem avaria.",
     "ID COLABORADOR": "111909",
     "ID DO AVALIADOR(A)": "272640",
     "Abrir Os": "NÃO",
-    "Os": NaN,
-    "Abrir Os ": "NÃO"
+    "Os": null,
+    "Abrir Os ": "NÃO",
+    "Unnamed: 21": null
   },
   {
     "ID": "3626197",
@@ -11007,14 +11469,15 @@ const CHECKLIST_VEICULAR_DATA = [
     "Condutor": "Alex Rodrigo Bueno ",
     "Data Hora": "29/04/2026 13:05",
     "VIDEOTELEMTRIA": "SIM",
-    "Itens Danificados": NaN,
+    "Itens Danificados": null,
     "Estado de Criticidade Veículo": "Leve(Liberado)",
     "Observacoes": "Sem avaria.",
-    "ID COLABORADOR": NaN,
+    "ID COLABORADOR": null,
     "ID DO AVALIADOR(A)": "272640",
     "Abrir Os": "NÃO",
-    "Os": NaN,
-    "Abrir Os ": "NÃO"
+    "Os": null,
+    "Abrir Os ": "NÃO",
+    "Unnamed: 21": null
   },
   {
     "ID": "3626198",
@@ -11031,14 +11494,15 @@ const CHECKLIST_VEICULAR_DATA = [
     "Condutor": "Sérgio Henrique Rosa Gama ",
     "Data Hora": "29/04/2026 13:11",
     "VIDEOTELEMTRIA": "SIM",
-    "Itens Danificados": NaN,
+    "Itens Danificados": null,
     "Estado de Criticidade Veículo": "Leve(Liberado)",
     "Observacoes": "Sem avaria.",
     "ID COLABORADOR": "173034",
     "ID DO AVALIADOR(A)": "272640",
     "Abrir Os": "NÃO",
-    "Os": NaN,
-    "Abrir Os ": "NÃO"
+    "Os": null,
+    "Abrir Os ": "NÃO",
+    "Unnamed: 21": null
   },
   {
     "ID": "3626199",
@@ -11055,14 +11519,15 @@ const CHECKLIST_VEICULAR_DATA = [
     "Condutor": "Jussara Soares de Souza ",
     "Data Hora": "29/04/2026 15:19",
     "VIDEOTELEMTRIA": "SIM",
-    "Itens Danificados": NaN,
+    "Itens Danificados": null,
     "Estado de Criticidade Veículo": "Leve(Liberado)",
     "Observacoes": "Sem avaria.",
     "ID COLABORADOR": "272640",
     "ID DO AVALIADOR(A)": "272640",
     "Abrir Os": "NÃO",
-    "Os": NaN,
-    "Abrir Os ": "NÃO"
+    "Os": null,
+    "Abrir Os ": "NÃO",
+    "Unnamed: 21": null
   },
   {
     "ID": "3626201",
@@ -11085,8 +11550,9 @@ const CHECKLIST_VEICULAR_DATA = [
     "ID COLABORADOR": "266560",
     "ID DO AVALIADOR(A)": "272640",
     "Abrir Os": "NÃO",
-    "Os": NaN,
-    "Abrir Os ": "NÃO"
+    "Os": null,
+    "Abrir Os ": "NÃO",
+    "Unnamed: 21": null
   },
   {
     "ID": "3626202",
@@ -11103,14 +11569,15 @@ const CHECKLIST_VEICULAR_DATA = [
     "Condutor": "Gilmar Rebouças ",
     "Data Hora": "30/04/2026 07:11",
     "VIDEOTELEMTRIA": "SIM",
-    "Itens Danificados": NaN,
+    "Itens Danificados": null,
     "Estado de Criticidade Veículo": "Leve(Liberado)",
     "Observacoes": "Sem avaria.",
-    "ID COLABORADOR": NaN,
+    "ID COLABORADOR": null,
     "ID DO AVALIADOR(A)": "272640",
     "Abrir Os": "NÃO",
-    "Os": NaN,
-    "Abrir Os ": "NÃO"
+    "Os": null,
+    "Abrir Os ": "NÃO",
+    "Unnamed: 21": null
   },
   {
     "ID": "3626203",
@@ -11127,14 +11594,15 @@ const CHECKLIST_VEICULAR_DATA = [
     "Condutor": "Antonio Marcos Ribeiro Ruas ",
     "Data Hora": "30/04/2026 07:42",
     "VIDEOTELEMTRIA": "SIM",
-    "Itens Danificados": NaN,
+    "Itens Danificados": null,
     "Estado de Criticidade Veículo": "Leve(Liberado)",
     "Observacoes": "Sem avaria.",
     "ID COLABORADOR": "183702",
     "ID DO AVALIADOR(A)": "272640",
     "Abrir Os": "NÃO",
-    "Os": NaN,
-    "Abrir Os ": "NÃO"
+    "Os": null,
+    "Abrir Os ": "NÃO",
+    "Unnamed: 21": null
   },
   {
     "ID": "3626204",
@@ -11151,14 +11619,15 @@ const CHECKLIST_VEICULAR_DATA = [
     "Condutor": "Rodrigo Soares Gonçalves da Costa ",
     "Data Hora": "30/04/2026 07:48",
     "VIDEOTELEMTRIA": "SIM",
-    "Itens Danificados": NaN,
+    "Itens Danificados": null,
     "Estado de Criticidade Veículo": "Leve(Liberado)",
     "Observacoes": "Sem avaria.",
     "ID COLABORADOR": "223724",
     "ID DO AVALIADOR(A)": "272640",
     "Abrir Os": "NÃO",
-    "Os": NaN,
-    "Abrir Os ": "NÃO"
+    "Os": null,
+    "Abrir Os ": "NÃO",
+    "Unnamed: 21": null
   },
   {
     "ID": "3626791",
@@ -11175,14 +11644,15 @@ const CHECKLIST_VEICULAR_DATA = [
     "Condutor": "Rodrigo Vieira Ignácio ",
     "Data Hora": "30/04/2026 10:22",
     "VIDEOTELEMTRIA": "SIM",
-    "Itens Danificados": NaN,
+    "Itens Danificados": null,
     "Estado de Criticidade Veículo": "Leve(Liberado)",
     "Observacoes": "Sem avaria.",
     "ID COLABORADOR": "22586",
     "ID DO AVALIADOR(A)": "272640",
     "Abrir Os": "NÃO",
-    "Os": NaN,
-    "Abrir Os ": "NÃO"
+    "Os": null,
+    "Abrir Os ": "NÃO",
+    "Unnamed: 21": null
   },
   {
     "ID": "3626792",
@@ -11199,14 +11669,15 @@ const CHECKLIST_VEICULAR_DATA = [
     "Condutor": "Walison Daniel dos Santos Rocha",
     "Data Hora": "30/04/2026 11:06",
     "VIDEOTELEMTRIA": "SIM",
-    "Itens Danificados": NaN,
+    "Itens Danificados": null,
     "Estado de Criticidade Veículo": "Leve(Liberado)",
     "Observacoes": "Checklist pós manutenção: Concluído",
     "ID COLABORADOR": "275060",
     "ID DO AVALIADOR(A)": "272640",
     "Abrir Os": "NÃO",
-    "Os": NaN,
-    "Abrir Os ": "NÃO"
+    "Os": null,
+    "Abrir Os ": "NÃO",
+    "Unnamed: 21": null
   },
   {
     "ID": "3626793",
@@ -11223,14 +11694,15 @@ const CHECKLIST_VEICULAR_DATA = [
     "Condutor": "Antonio Marcos Souza ",
     "Data Hora": "30/04/2026 14:02",
     "VIDEOTELEMTRIA": "SIM",
-    "Itens Danificados": NaN,
+    "Itens Danificados": null,
     "Estado de Criticidade Veículo": "Leve(Liberado)",
     "Observacoes": "Sem avaria.",
     "ID COLABORADOR": "199047",
     "ID DO AVALIADOR(A)": "272640",
     "Abrir Os": "NÃO",
-    "Os": NaN,
-    "Abrir Os ": "NÃO"
+    "Os": null,
+    "Abrir Os ": "NÃO",
+    "Unnamed: 21": null
   },
   {
     "ID": "3632779",
@@ -11247,14 +11719,15 @@ const CHECKLIST_VEICULAR_DATA = [
     "Condutor": "Jussara Soares de Souza ",
     "Data Hora": "30/04/2026 07:13",
     "VIDEOTELEMTRIA": "SIM",
-    "Itens Danificados": NaN,
+    "Itens Danificados": null,
     "Estado de Criticidade Veículo": "Leve(Liberado)",
     "Observacoes": "Sem avaria.",
     "ID COLABORADOR": "272640",
     "ID DO AVALIADOR(A)": "272640",
     "Abrir Os": "NÃO",
-    "Os": NaN,
-    "Abrir Os ": "NÃO"
+    "Os": null,
+    "Abrir Os ": "NÃO",
+    "Unnamed: 21": null
   },
   {
     "ID": "3632780",
@@ -11271,14 +11744,15 @@ const CHECKLIST_VEICULAR_DATA = [
     "Condutor": "Endrius Ernane de Souza ",
     "Data Hora": "04/05/2026 08:22",
     "VIDEOTELEMTRIA": "SIM",
-    "Itens Danificados": NaN,
+    "Itens Danificados": null,
     "Estado de Criticidade Veículo": "Moderado(Condutor notificado)",
     "Observacoes": "Limpador de para brisa traseiro (não funciona)",
     "ID COLABORADOR": "251310",
     "ID DO AVALIADOR(A)": "272640",
     "Abrir Os": "NÃO",
-    "Os": NaN,
-    "Abrir Os ": "NÃO"
+    "Os": null,
+    "Abrir Os ": "NÃO",
+    "Unnamed: 21": null
   },
   {
     "ID": "3632781",
@@ -11295,14 +11769,15 @@ const CHECKLIST_VEICULAR_DATA = [
     "Condutor": "Henrique Mendes Ferreira ",
     "Data Hora": "04/05/2026 08:25",
     "VIDEOTELEMTRIA": "SIM",
-    "Itens Danificados": NaN,
+    "Itens Danificados": null,
     "Estado de Criticidade Veículo": "Leve(Liberado)",
     "Observacoes": "Sem avaria.",
     "ID COLABORADOR": "269710",
     "ID DO AVALIADOR(A)": "272640",
     "Abrir Os": "NÃO",
-    "Os": NaN,
-    "Abrir Os ": "NÃO"
+    "Os": null,
+    "Abrir Os ": "NÃO",
+    "Unnamed: 21": null
   },
   {
     "ID": "3632782",
@@ -11319,14 +11794,15 @@ const CHECKLIST_VEICULAR_DATA = [
     "Condutor": "Alessandro da Silva ",
     "Data Hora": "04/05/2026 13:07",
     "VIDEOTELEMTRIA": "SIM",
-    "Itens Danificados": NaN,
+    "Itens Danificados": null,
     "Estado de Criticidade Veículo": "Leve(Liberado)",
     "Observacoes": "Sem avaria.",
     "ID COLABORADOR": "262010",
     "ID DO AVALIADOR(A)": "272640",
     "Abrir Os": "NÃO",
-    "Os": NaN,
-    "Abrir Os ": "NÃO"
+    "Os": null,
+    "Abrir Os ": "NÃO",
+    "Unnamed: 21": null
   },
   {
     "ID": "3632783",
@@ -11350,7 +11826,8 @@ const CHECKLIST_VEICULAR_DATA = [
     "ID DO AVALIADOR(A)": "272640",
     "Abrir Os": "SIM",
     "Os": "727477",
-    "Abrir Os ": "SIM"
+    "Abrir Os ": "SIM",
+    "Unnamed: 21": null
   },
   {
     "ID": "3636014",
@@ -11373,8 +11850,9 @@ const CHECKLIST_VEICULAR_DATA = [
     "ID COLABORADOR": "220310",
     "ID DO AVALIADOR(A)": "272640",
     "Abrir Os": "NÃO",
-    "Os": NaN,
-    "Abrir Os ": "NÃO"
+    "Os": null,
+    "Abrir Os ": "NÃO",
+    "Unnamed: 21": null
   },
   {
     "ID": "3636015",
@@ -11391,14 +11869,15 @@ const CHECKLIST_VEICULAR_DATA = [
     "Condutor": "Ronildo Barbosa ",
     "Data Hora": "05/05/2026 15:29",
     "VIDEOTELEMTRIA": "SIM",
-    "Itens Danificados": NaN,
+    "Itens Danificados": null,
     "Estado de Criticidade Veículo": "Leve(Liberado)",
     "Observacoes": "Parachoque novo Alavanca interna porta passageiro traseira (quebrada)Macaco, chave de roda e triângulo (será usado da frota 461325)",
     "ID COLABORADOR": "81103",
     "ID DO AVALIADOR(A)": "272640",
     "Abrir Os": "NÃO",
-    "Os": NaN,
-    "Abrir Os ": "NÃO"
+    "Os": null,
+    "Abrir Os ": "NÃO",
+    "Unnamed: 21": null
   },
   {
     "ID": "3643195",
@@ -11415,14 +11894,15 @@ const CHECKLIST_VEICULAR_DATA = [
     "Condutor": "Reginaldo Fernando Mantovani",
     "Data Hora": "06/05/2026 07:35",
     "VIDEOTELEMTRIA": "SIM",
-    "Itens Danificados": NaN,
+    "Itens Danificados": null,
     "Estado de Criticidade Veículo": "Leve(Liberado)",
     "Observacoes": "Sem avaria.",
     "ID COLABORADOR": "260910",
     "ID DO AVALIADOR(A)": "272640",
     "Abrir Os": "NÃO",
-    "Os": NaN,
-    "Abrir Os ": "NÃO"
+    "Os": null,
+    "Abrir Os ": "NÃO",
+    "Unnamed: 21": null
   },
   {
     "ID": "3643196",
@@ -11439,14 +11919,15 @@ const CHECKLIST_VEICULAR_DATA = [
     "Condutor": "William Roberto Dalla Costa ",
     "Data Hora": "06/05/2026 09:09",
     "VIDEOTELEMTRIA": "SIM",
-    "Itens Danificados": NaN,
+    "Itens Danificados": null,
     "Estado de Criticidade Veículo": "Leve(Liberado)",
     "Observacoes": "Sem avaria.",
     "ID COLABORADOR": "254120",
     "ID DO AVALIADOR(A)": "272640",
     "Abrir Os": "NÃO",
-    "Os": NaN,
-    "Abrir Os ": "NÃO"
+    "Os": null,
+    "Abrir Os ": "NÃO",
+    "Unnamed: 21": null
   },
   {
     "ID": "3643197",
@@ -11463,14 +11944,15 @@ const CHECKLIST_VEICULAR_DATA = [
     "Condutor": "Geovane de Azevedo Dias ",
     "Data Hora": "06/05/2026 11:13",
     "VIDEOTELEMTRIA": "SIM",
-    "Itens Danificados": NaN,
+    "Itens Danificados": null,
     "Estado de Criticidade Veículo": "Leve(Liberado)",
     "Observacoes": "Sem avaria.",
     "ID COLABORADOR": "183313",
     "ID DO AVALIADOR(A)": "272640",
     "Abrir Os": "NÃO",
-    "Os": NaN,
-    "Abrir Os ": "NÃO"
+    "Os": null,
+    "Abrir Os ": "NÃO",
+    "Unnamed: 21": null
   },
   {
     "ID": "3643198",
@@ -11487,14 +11969,15 @@ const CHECKLIST_VEICULAR_DATA = [
     "Condutor": "Gustavo Henrique Silva Franco ",
     "Data Hora": "06/05/2026 14:34",
     "VIDEOTELEMTRIA": "SIM",
-    "Itens Danificados": NaN,
+    "Itens Danificados": null,
     "Estado de Criticidade Veículo": "Leve(Liberado)",
     "Observacoes": "Sem avaria.",
     "ID COLABORADOR": "240190",
     "ID DO AVALIADOR(A)": "272640",
     "Abrir Os": "NÃO",
-    "Os": NaN,
-    "Abrir Os ": "NÃO"
+    "Os": null,
+    "Abrir Os ": "NÃO",
+    "Unnamed: 21": null
   },
   {
     "ID": "3643199",
@@ -11511,14 +11994,15 @@ const CHECKLIST_VEICULAR_DATA = [
     "Condutor": "Reinan Mota de Oliveira ",
     "Data Hora": "06/05/2026 14:49",
     "VIDEOTELEMTRIA": "SIM",
-    "Itens Danificados": NaN,
+    "Itens Danificados": null,
     "Estado de Criticidade Veículo": "Leve(Liberado)",
     "Observacoes": "Sem avaria.",
     "ID COLABORADOR": "245310",
     "ID DO AVALIADOR(A)": "272640",
     "Abrir Os": "NÃO",
-    "Os": NaN,
-    "Abrir Os ": "NÃO"
+    "Os": null,
+    "Abrir Os ": "NÃO",
+    "Unnamed: 21": null
   },
   {
     "ID": "3643200",
@@ -11535,14 +12019,15 @@ const CHECKLIST_VEICULAR_DATA = [
     "Condutor": "Mildo Sérgio Veroneze",
     "Data Hora": "08/05/2026 07:37",
     "VIDEOTELEMTRIA": "SIM",
-    "Itens Danificados": NaN,
+    "Itens Danificados": null,
     "Estado de Criticidade Veículo": "Leve(Liberado)",
     "Observacoes": "Sem avaria.",
     "ID COLABORADOR": "273450",
     "ID DO AVALIADOR(A)": "272640",
     "Abrir Os": "NÃO",
-    "Os": NaN,
-    "Abrir Os ": "NÃO"
+    "Os": null,
+    "Abrir Os ": "NÃO",
+    "Unnamed: 21": null
   },
   {
     "ID": "3643201",
@@ -11559,14 +12044,15 @@ const CHECKLIST_VEICULAR_DATA = [
     "Condutor": "Wallason Soares Reges ",
     "Data Hora": "08/05/2026 09:06",
     "VIDEOTELEMTRIA": "SIM",
-    "Itens Danificados": NaN,
+    "Itens Danificados": null,
     "Estado de Criticidade Veículo": "Leve(Liberado)",
     "Observacoes": "Sem avaria.",
-    "ID COLABORADOR": NaN,
+    "ID COLABORADOR": null,
     "ID DO AVALIADOR(A)": "272640",
     "Abrir Os": "NÃO",
-    "Os": NaN,
-    "Abrir Os ": "NÃO"
+    "Os": null,
+    "Abrir Os ": "NÃO",
+    "Unnamed: 21": null
   },
   {
     "ID": "3643202",
@@ -11589,8 +12075,9 @@ const CHECKLIST_VEICULAR_DATA = [
     "ID COLABORADOR": "251390",
     "ID DO AVALIADOR(A)": "272640",
     "Abrir Os": "SIM",
-    "Os": NaN,
-    "Abrir Os ": "SIM"
+    "Os": null,
+    "Abrir Os ": "SIM",
+    "Unnamed: 21": null
   },
   {
     "ID": "3644104",
@@ -11607,14 +12094,15 @@ const CHECKLIST_VEICULAR_DATA = [
     "Condutor": "Alessandro da Silva ",
     "Data Hora": "08/05/2026 15:29",
     "VIDEOTELEMTRIA": "SIM",
-    "Itens Danificados": NaN,
+    "Itens Danificados": null,
     "Estado de Criticidade Veículo": "Leve(Liberado)",
     "Observacoes": "Sem avaria.",
     "ID COLABORADOR": "262010",
     "ID DO AVALIADOR(A)": "272640",
     "Abrir Os": "NÃO",
-    "Os": NaN,
-    "Abrir Os ": "NÃO"
+    "Os": null,
+    "Abrir Os ": "NÃO",
+    "Unnamed: 21": null
   },
   {
     "ID": "3644105",
@@ -11631,14 +12119,15 @@ const CHECKLIST_VEICULAR_DATA = [
     "Condutor": "Alessandro da Silva",
     "Data Hora": "08/05/2026 16:31",
     "VIDEOTELEMTRIA": "SIM",
-    "Itens Danificados": NaN,
+    "Itens Danificados": null,
     "Estado de Criticidade Veículo": "Leve(Liberado)",
     "Observacoes": "Sem avaria.",
     "ID COLABORADOR": "262010",
     "ID DO AVALIADOR(A)": "272640",
     "Abrir Os": "NÃO",
-    "Os": NaN,
-    "Abrir Os ": "NÃO"
+    "Os": null,
+    "Abrir Os ": "NÃO",
+    "Unnamed: 21": null
   },
   {
     "ID": "3650407",
@@ -11655,14 +12144,15 @@ const CHECKLIST_VEICULAR_DATA = [
     "Condutor": "Gilmar Rebouças ",
     "Data Hora": "11/05/2026 07:33",
     "VIDEOTELEMTRIA": "SIM",
-    "Itens Danificados": NaN,
+    "Itens Danificados": null,
     "Estado de Criticidade Veículo": "Leve(Liberado)",
     "Observacoes": "Sem avaria.",
-    "ID COLABORADOR": NaN,
+    "ID COLABORADOR": null,
     "ID DO AVALIADOR(A)": "272640",
     "Abrir Os": "NÃO",
-    "Os": NaN,
-    "Abrir Os ": "NÃO"
+    "Os": null,
+    "Abrir Os ": "NÃO",
+    "Unnamed: 21": null
   },
   {
     "ID": "3650408",
@@ -11679,14 +12169,15 @@ const CHECKLIST_VEICULAR_DATA = [
     "Condutor": "Endrius Ernane de Souza ",
     "Data Hora": "11/05/2026 15:20",
     "VIDEOTELEMTRIA": "SIM",
-    "Itens Danificados": NaN,
+    "Itens Danificados": null,
     "Estado de Criticidade Veículo": "Leve(Liberado)",
     "Observacoes": "Sem avaria.",
     "ID COLABORADOR": "251310",
     "ID DO AVALIADOR(A)": "272640",
     "Abrir Os": "NÃO",
-    "Os": NaN,
-    "Abrir Os ": "NÃO"
+    "Os": null,
+    "Abrir Os ": "NÃO",
+    "Unnamed: 21": null
   },
   {
     "ID": "3650409",
@@ -11703,14 +12194,15 @@ const CHECKLIST_VEICULAR_DATA = [
     "Condutor": "Antonio Marcos Ribeiro Ruas ",
     "Data Hora": "12/05/2026 10:49",
     "VIDEOTELEMTRIA": "SIM",
-    "Itens Danificados": NaN,
+    "Itens Danificados": null,
     "Estado de Criticidade Veículo": "Leve(Liberado)",
     "Observacoes": "Sem avaria.",
     "ID COLABORADOR": "183702",
     "ID DO AVALIADOR(A)": "272640",
     "Abrir Os": "NÃO",
-    "Os": NaN,
-    "Abrir Os ": "NÃO"
+    "Os": null,
+    "Abrir Os ": "NÃO",
+    "Unnamed: 21": null
   },
   {
     "ID": "3650410",
@@ -11727,14 +12219,15 @@ const CHECKLIST_VEICULAR_DATA = [
     "Condutor": "Marco Ferreira dos Santos ",
     "Data Hora": "12/05/2026 11:15",
     "VIDEOTELEMTRIA": "SIM",
-    "Itens Danificados": NaN,
+    "Itens Danificados": null,
     "Estado de Criticidade Veículo": "Leve(Liberado)",
     "Observacoes": "Sem avaria.",
     "ID COLABORADOR": "115782",
     "ID DO AVALIADOR(A)": "272640",
     "Abrir Os": "NÃO",
-    "Os": NaN,
-    "Abrir Os ": "NÃO"
+    "Os": null,
+    "Abrir Os ": "NÃO",
+    "Unnamed: 21": null
   },
   {
     "ID": "3650411",
@@ -11751,14 +12244,15 @@ const CHECKLIST_VEICULAR_DATA = [
     "Condutor": "João Jesus Ferreira ",
     "Data Hora": "12/05/2026 11:24",
     "VIDEOTELEMTRIA": "SIM",
-    "Itens Danificados": NaN,
+    "Itens Danificados": null,
     "Estado de Criticidade Veículo": "Leve(Liberado)",
     "Observacoes": "Sem avaria.",
     "ID COLABORADOR": "179103",
     "ID DO AVALIADOR(A)": "272640",
     "Abrir Os": "NÃO",
-    "Os": NaN,
-    "Abrir Os ": "NÃO"
+    "Os": null,
+    "Abrir Os ": "NÃO",
+    "Unnamed: 21": null
   },
   {
     "ID": "3650412",
@@ -11775,14 +12269,15 @@ const CHECKLIST_VEICULAR_DATA = [
     "Condutor": "Fernando Antonio Saviolli Desie",
     "Data Hora": "12/05/2026 13:11",
     "VIDEOTELEMTRIA": "SIM",
-    "Itens Danificados": NaN,
+    "Itens Danificados": null,
     "Estado de Criticidade Veículo": "Leve(Liberado)",
     "Observacoes": "Sem avaria.",
     "ID COLABORADOR": "244290",
     "ID DO AVALIADOR(A)": "272640",
     "Abrir Os": "NÃO",
-    "Os": NaN,
-    "Abrir Os ": "NÃO"
+    "Os": null,
+    "Abrir Os ": "NÃO",
+    "Unnamed: 21": null
   },
   {
     "ID": "3650413",
@@ -11805,8 +12300,9 @@ const CHECKLIST_VEICULAR_DATA = [
     "ID COLABORADOR": "251390",
     "ID DO AVALIADOR(A)": "272640",
     "Abrir Os": "SIM",
-    "Os": NaN,
-    "Abrir Os ": "SIM"
+    "Os": null,
+    "Abrir Os ": "SIM",
+    "Unnamed: 21": null
   },
   {
     "ID": "3650414",
@@ -11823,14 +12319,15 @@ const CHECKLIST_VEICULAR_DATA = [
     "Condutor": "Walison Daniel dos Santos Rocha ",
     "Data Hora": "12/05/2026 14:01",
     "VIDEOTELEMTRIA": "SIM",
-    "Itens Danificados": NaN,
+    "Itens Danificados": null,
     "Estado de Criticidade Veículo": "Leve(Liberado)",
     "Observacoes": "Sem avaria.",
-    "ID COLABORADOR": NaN,
+    "ID COLABORADOR": null,
     "ID DO AVALIADOR(A)": "272640",
     "Abrir Os": "NÃO",
-    "Os": NaN,
-    "Abrir Os ": "NÃO"
+    "Os": null,
+    "Abrir Os ": "NÃO",
+    "Unnamed: 21": null
   },
   {
     "ID": "3653882",
@@ -11854,7 +12351,8 @@ const CHECKLIST_VEICULAR_DATA = [
     "ID DO AVALIADOR(A)": "272640",
     "Abrir Os": "SIM",
     "Os": "729571",
-    "Abrir Os ": "SIM"
+    "Abrir Os ": "SIM",
+    "Unnamed: 21": null
   },
   {
     "ID": "3653883",
@@ -11878,7 +12376,8 @@ const CHECKLIST_VEICULAR_DATA = [
     "ID DO AVALIADOR(A)": "272640",
     "Abrir Os": "SIM",
     "Os": "730382",
-    "Abrir Os ": "SIM"
+    "Abrir Os ": "SIM",
+    "Unnamed: 21": null
   },
   {
     "ID": "3653884",
@@ -11902,7 +12401,8 @@ const CHECKLIST_VEICULAR_DATA = [
     "ID DO AVALIADOR(A)": "272640",
     "Abrir Os": "SIM",
     "Os": "730348",
-    "Abrir Os ": "SIM"
+    "Abrir Os ": "SIM",
+    "Unnamed: 21": null
   },
   {
     "ID": "3653885",
@@ -11919,14 +12419,15 @@ const CHECKLIST_VEICULAR_DATA = [
     "Condutor": "Giliard Tavares ",
     "Data Hora": "13/05/2026 09:10",
     "VIDEOTELEMTRIA": "SIM",
-    "Itens Danificados": NaN,
+    "Itens Danificados": null,
     "Estado de Criticidade Veículo": "Leve(Liberado)",
     "Observacoes": "Sem avaria.",
     "ID COLABORADOR": "260700",
     "ID DO AVALIADOR(A)": "272640",
     "Abrir Os": "NÃO",
-    "Os": NaN,
-    "Abrir Os ": "NÃO"
+    "Os": null,
+    "Abrir Os ": "NÃO",
+    "Unnamed: 21": null
   },
   {
     "ID": "3653886",
@@ -11950,7 +12451,8 @@ const CHECKLIST_VEICULAR_DATA = [
     "ID DO AVALIADOR(A)": "272640",
     "Abrir Os": "SIM",
     "Os": "730383",
-    "Abrir Os ": "SIM"
+    "Abrir Os ": "SIM",
+    "Unnamed: 21": null
   },
   {
     "ID": "3653887",
@@ -11967,14 +12469,15 @@ const CHECKLIST_VEICULAR_DATA = [
     "Condutor": "Alex Rodrigo Bueno ",
     "Data Hora": "13/05/2026 09:46",
     "VIDEOTELEMTRIA": "SIM",
-    "Itens Danificados": NaN,
+    "Itens Danificados": null,
     "Estado de Criticidade Veículo": "Leve(Liberado)",
     "Observacoes": "Sem avaria.",
-    "ID COLABORADOR": NaN,
+    "ID COLABORADOR": null,
     "ID DO AVALIADOR(A)": "272640",
     "Abrir Os": "NÃO",
-    "Os": NaN,
-    "Abrir Os ": "NÃO"
+    "Os": null,
+    "Abrir Os ": "NÃO",
+    "Unnamed: 21": null
   },
   {
     "ID": "3653888",
@@ -11991,14 +12494,15 @@ const CHECKLIST_VEICULAR_DATA = [
     "Condutor": "Andreia Tassiane Aparecida Megeto",
     "Data Hora": "13/05/2026 11:02",
     "VIDEOTELEMTRIA": "SIM",
-    "Itens Danificados": NaN,
+    "Itens Danificados": null,
     "Estado de Criticidade Veículo": "Leve(Liberado)",
     "Observacoes": "Sem avaria.",
     "ID COLABORADOR": "275340",
     "ID DO AVALIADOR(A)": "272640",
     "Abrir Os": "NÃO",
-    "Os": NaN,
-    "Abrir Os ": "NÃO"
+    "Os": null,
+    "Abrir Os ": "NÃO",
+    "Unnamed: 21": null
   },
   {
     "ID": "3653889",
@@ -12015,14 +12519,15 @@ const CHECKLIST_VEICULAR_DATA = [
     "Condutor": "João Jesus Ferreira ",
     "Data Hora": "13/05/2026 11:11",
     "VIDEOTELEMTRIA": "SIM",
-    "Itens Danificados": NaN,
+    "Itens Danificados": null,
     "Estado de Criticidade Veículo": "Leve(Liberado)",
     "Observacoes": "Sem avaria.",
     "ID COLABORADOR": "179103",
     "ID DO AVALIADOR(A)": "272640",
     "Abrir Os": "NÃO",
-    "Os": NaN,
-    "Abrir Os ": "NÃO"
+    "Os": null,
+    "Abrir Os ": "NÃO",
+    "Unnamed: 21": null
   },
   {
     "ID": "3653890",
@@ -12039,14 +12544,15 @@ const CHECKLIST_VEICULAR_DATA = [
     "Condutor": "Ingrid Vieira de Oliveira ",
     "Data Hora": "13/05/2026 14:00",
     "VIDEOTELEMTRIA": "SIM",
-    "Itens Danificados": NaN,
+    "Itens Danificados": null,
     "Estado de Criticidade Veículo": "Leve(Liberado)",
     "Observacoes": "Sem avaria.",
     "ID COLABORADOR": "242640",
     "ID DO AVALIADOR(A)": "272640",
     "Abrir Os": "NÃO",
-    "Os": NaN,
-    "Abrir Os ": "NÃO"
+    "Os": null,
+    "Abrir Os ": "NÃO",
+    "Unnamed: 21": null
   },
   {
     "ID": "3659968",
@@ -12063,14 +12569,15 @@ const CHECKLIST_VEICULAR_DATA = [
     "Condutor": "Endrius Ernane de Souza ",
     "Data Hora": "14/05/2026 13:26",
     "VIDEOTELEMTRIA": "SIM",
-    "Itens Danificados": NaN,
+    "Itens Danificados": null,
     "Estado de Criticidade Veículo": "Leve(Liberado)",
     "Observacoes": "Checklist pós manutenção: Concluído.",
     "ID COLABORADOR": "251310",
     "ID DO AVALIADOR(A)": "272640",
     "Abrir Os": "NÃO",
-    "Os": NaN,
-    "Abrir Os ": "NÃO"
+    "Os": null,
+    "Abrir Os ": "NÃO",
+    "Unnamed: 21": null
   },
   {
     "ID": "3659969",
@@ -12087,14 +12594,15 @@ const CHECKLIST_VEICULAR_DATA = [
     "Condutor": "Antonio Marcos Souza ",
     "Data Hora": "14/05/2026 14:09",
     "VIDEOTELEMTRIA": "SIM",
-    "Itens Danificados": NaN,
+    "Itens Danificados": null,
     "Estado de Criticidade Veículo": "Leve(Liberado)",
     "Observacoes": "Sem avaria.",
     "ID COLABORADOR": "260840",
     "ID DO AVALIADOR(A)": "272640",
     "Abrir Os": "NÃO",
-    "Os": NaN,
-    "Abrir Os ": "NÃO"
+    "Os": null,
+    "Abrir Os ": "NÃO",
+    "Unnamed: 21": null
   },
   {
     "ID": "3659970",
@@ -12111,14 +12619,15 @@ const CHECKLIST_VEICULAR_DATA = [
     "Condutor": "Jussara Soares de Souza Sem ",
     "Data Hora": "14/05/2026 15:44",
     "VIDEOTELEMTRIA": "SIM",
-    "Itens Danificados": NaN,
+    "Itens Danificados": null,
     "Estado de Criticidade Veículo": "Leve(Liberado)",
     "Observacoes": "Sem avaria.",
     "ID COLABORADOR": "279670",
     "ID DO AVALIADOR(A)": "272640",
     "Abrir Os": "NÃO",
-    "Os": NaN,
-    "Abrir Os ": "NÃO"
+    "Os": null,
+    "Abrir Os ": "NÃO",
+    "Unnamed: 21": null
   },
   {
     "ID": "3659971",
@@ -12135,14 +12644,15 @@ const CHECKLIST_VEICULAR_DATA = [
     "Condutor": "José Aparecido Caetano ",
     "Data Hora": "15/05/2026 09:42",
     "VIDEOTELEMTRIA": "SIM",
-    "Itens Danificados": NaN,
+    "Itens Danificados": null,
     "Estado de Criticidade Veículo": "Leve(Liberado)",
     "Observacoes": "Sem avaria ",
     "ID COLABORADOR": "3220",
     "ID DO AVALIADOR(A)": "278000",
     "Abrir Os": "NÃO",
-    "Os": NaN,
-    "Abrir Os ": "NÃO"
+    "Os": null,
+    "Abrir Os ": "NÃO",
+    "Unnamed: 21": null
   },
   {
     "ID": "3659972",
@@ -12159,14 +12669,15 @@ const CHECKLIST_VEICULAR_DATA = [
     "Condutor": "Wellington Martins Bento Sem ",
     "Data Hora": "15/05/2026 10:22",
     "VIDEOTELEMTRIA": "SIM",
-    "Itens Danificados": NaN,
+    "Itens Danificados": null,
     "Estado de Criticidade Veículo": "Leve(Liberado)",
     "Observacoes": "Sem avaria",
     "ID COLABORADOR": "232100",
     "ID DO AVALIADOR(A)": "278000",
     "Abrir Os": "NÃO",
-    "Os": NaN,
-    "Abrir Os ": "NÃO"
+    "Os": null,
+    "Abrir Os ": "NÃO",
+    "Unnamed: 21": null
   },
   {
     "ID": "3659973",
@@ -12183,14 +12694,15 @@ const CHECKLIST_VEICULAR_DATA = [
     "Condutor": "João Jesus Ferreira ",
     "Data Hora": "15/05/2026 11:00",
     "VIDEOTELEMTRIA": "SIM",
-    "Itens Danificados": NaN,
+    "Itens Danificados": null,
     "Estado de Criticidade Veículo": "Leve(Liberado)",
-    "Observacoes": NaN,
+    "Observacoes": null,
     "ID COLABORADOR": "179103",
-    "ID DO AVALIADOR(A)": NaN,
+    "ID DO AVALIADOR(A)": null,
     "Abrir Os": "NÃO",
-    "Os": NaN,
-    "Abrir Os ": "NÃO"
+    "Os": null,
+    "Abrir Os ": "NÃO",
+    "Unnamed: 21": null
   },
   {
     "ID": "3659974",
@@ -12207,14 +12719,15 @@ const CHECKLIST_VEICULAR_DATA = [
     "Condutor": "Agnaldo de Oliveira ",
     "Data Hora": "15/05/2026 13:44",
     "VIDEOTELEMTRIA": "SIM",
-    "Itens Danificados": NaN,
+    "Itens Danificados": null,
     "Estado de Criticidade Veículo": "Leve(Liberado)",
     "Observacoes": "Sem avaria",
     "ID COLABORADOR": "281460",
     "ID DO AVALIADOR(A)": "278000",
     "Abrir Os": "NÃO",
-    "Os": NaN,
-    "Abrir Os ": "NÃO"
+    "Os": null,
+    "Abrir Os ": "NÃO",
+    "Unnamed: 21": null
   },
   {
     "ID": "3659975",
@@ -12231,14 +12744,15 @@ const CHECKLIST_VEICULAR_DATA = [
     "Condutor": "Jhonnes Alves Moura ",
     "Data Hora": "15/05/2026 13:29",
     "VIDEOTELEMTRIA": "SIM",
-    "Itens Danificados": NaN,
+    "Itens Danificados": null,
     "Estado de Criticidade Veículo": "Leve(Liberado)",
     "Observacoes": "Sem avaria ",
     "ID COLABORADOR": "212301",
     "ID DO AVALIADOR(A)": "278000",
     "Abrir Os": "NÃO",
-    "Os": NaN,
-    "Abrir Os ": "NÃO"
+    "Os": null,
+    "Abrir Os ": "NÃO",
+    "Unnamed: 21": null
   },
   {
     "ID": "3664307",
@@ -12255,14 +12769,15 @@ const CHECKLIST_VEICULAR_DATA = [
     "Condutor": "Anderson Ricardo Ruaro ",
     "Data Hora": "18/05/2026 06:58",
     "VIDEOTELEMTRIA": "SIM",
-    "Itens Danificados": NaN,
+    "Itens Danificados": null,
     "Estado de Criticidade Veículo": "Leve(Liberado)",
     "Observacoes": "Sem avaria.",
     "ID COLABORADOR": "168907",
     "ID DO AVALIADOR(A)": "272640",
     "Abrir Os": "NÃO",
-    "Os": NaN,
-    "Abrir Os ": "NÃO"
+    "Os": null,
+    "Abrir Os ": "NÃO",
+    "Unnamed: 21": null
   },
   {
     "ID": "3664308",
@@ -12279,14 +12794,15 @@ const CHECKLIST_VEICULAR_DATA = [
     "Condutor": "Pedro Augusto Silva ",
     "Data Hora": "18/05/2026 07:35",
     "VIDEOTELEMTRIA": "SIM",
-    "Itens Danificados": NaN,
+    "Itens Danificados": null,
     "Estado de Criticidade Veículo": "Leve(Liberado)",
     "Observacoes": "Sem avaria.",
     "ID COLABORADOR": "270270",
     "ID DO AVALIADOR(A)": "272640",
     "Abrir Os": "NÃO",
-    "Os": NaN,
-    "Abrir Os ": "NÃO"
+    "Os": null,
+    "Abrir Os ": "NÃO",
+    "Unnamed: 21": null
   },
   {
     "ID": "3664309",
@@ -12303,14 +12819,15 @@ const CHECKLIST_VEICULAR_DATA = [
     "Condutor": "Josni Adriano Silva ",
     "Data Hora": "18/05/2026 08:19",
     "VIDEOTELEMTRIA": "SIM",
-    "Itens Danificados": NaN,
+    "Itens Danificados": null,
     "Estado de Criticidade Veículo": "Leve(Liberado)",
     "Observacoes": "Sem avaria.",
     "ID COLABORADOR": "198420",
     "ID DO AVALIADOR(A)": "272640",
     "Abrir Os": "NÃO",
-    "Os": NaN,
-    "Abrir Os ": "NÃO"
+    "Os": null,
+    "Abrir Os ": "NÃO",
+    "Unnamed: 21": null
   },
   {
     "ID": "3664310",
@@ -12327,14 +12844,15 @@ const CHECKLIST_VEICULAR_DATA = [
     "Condutor": "Wallason Soares Reges ",
     "Data Hora": "18/05/2026 09:35",
     "VIDEOTELEMTRIA": "SIM",
-    "Itens Danificados": NaN,
+    "Itens Danificados": null,
     "Estado de Criticidade Veículo": "Leve(Liberado)",
     "Observacoes": "Sem avaria.",
     "ID COLABORADOR": "1",
     "ID DO AVALIADOR(A)": "272640",
     "Abrir Os": "NÃO",
-    "Os": NaN,
-    "Abrir Os ": "NÃO"
+    "Os": null,
+    "Abrir Os ": "NÃO",
+    "Unnamed: 21": null
   },
   {
     "ID": "3664311",
@@ -12351,14 +12869,15 @@ const CHECKLIST_VEICULAR_DATA = [
     "Condutor": "Admir Xavier Cotrim ",
     "Data Hora": "18/05/2026 11:15",
     "VIDEOTELEMTRIA": "SIM",
-    "Itens Danificados": NaN,
+    "Itens Danificados": null,
     "Estado de Criticidade Veículo": "Leve(Liberado)",
     "Observacoes": "Sem avaria.",
     "ID COLABORADOR": "112150",
     "ID DO AVALIADOR(A)": "272640",
     "Abrir Os": "NÃO",
-    "Os": NaN,
-    "Abrir Os ": "NÃO"
+    "Os": null,
+    "Abrir Os ": "NÃO",
+    "Unnamed: 21": null
   },
   {
     "ID": "3664312",
@@ -12375,14 +12894,15 @@ const CHECKLIST_VEICULAR_DATA = [
     "Condutor": "João Jesus Ferreira ",
     "Data Hora": "18/05/2026 11:25",
     "VIDEOTELEMTRIA": "SIM",
-    "Itens Danificados": NaN,
+    "Itens Danificados": null,
     "Estado de Criticidade Veículo": "Leve(Liberado)",
     "Observacoes": "Sem avaria.",
     "ID COLABORADOR": "179103",
     "ID DO AVALIADOR(A)": "272640",
     "Abrir Os": "NÃO",
-    "Os": NaN,
-    "Abrir Os ": "NÃO"
+    "Os": null,
+    "Abrir Os ": "NÃO",
+    "Unnamed: 21": null
   },
   {
     "ID": "3664314",
@@ -12399,14 +12919,15 @@ const CHECKLIST_VEICULAR_DATA = [
     "Condutor": "José Ricardo do Carmo ",
     "Data Hora": "18/05/2026 13:28",
     "VIDEOTELEMTRIA": "SIM",
-    "Itens Danificados": NaN,
+    "Itens Danificados": null,
     "Estado de Criticidade Veículo": "Leve(Liberado)",
     "Observacoes": "Sem avaria.",
     "ID COLABORADOR": "84165",
     "ID DO AVALIADOR(A)": "272640",
     "Abrir Os": "NÃO",
-    "Os": NaN,
-    "Abrir Os ": "NÃO"
+    "Os": null,
+    "Abrir Os ": "NÃO",
+    "Unnamed: 21": null
   },
   {
     "ID": "3664315",
@@ -12423,14 +12944,15 @@ const CHECKLIST_VEICULAR_DATA = [
     "Condutor": "Livino Leandro dos Santos ",
     "Data Hora": "18/05/2026 13:42",
     "VIDEOTELEMTRIA": "SIM",
-    "Itens Danificados": NaN,
+    "Itens Danificados": null,
     "Estado de Criticidade Veículo": "Leve(Liberado)",
     "Observacoes": "Sem avaria.",
     "ID COLABORADOR": "266000",
     "ID DO AVALIADOR(A)": "272640",
     "Abrir Os": "NÃO",
-    "Os": NaN,
-    "Abrir Os ": "NÃO"
+    "Os": null,
+    "Abrir Os ": "NÃO",
+    "Unnamed: 21": null
   },
   {
     "ID": "3666641",
@@ -12447,14 +12969,15 @@ const CHECKLIST_VEICULAR_DATA = [
     "Condutor": "Alessandro da Silva ",
     "Data Hora": "18/05/2026 15:44",
     "VIDEOTELEMTRIA": "SIM",
-    "Itens Danificados": NaN,
+    "Itens Danificados": null,
     "Estado de Criticidade Veículo": "Leve(Liberado)",
     "Observacoes": "Sem avaria.",
     "ID COLABORADOR": "262010",
     "ID DO AVALIADOR(A)": "272640",
     "Abrir Os": "NÃO",
-    "Os": NaN,
-    "Abrir Os ": "NÃO"
+    "Os": null,
+    "Abrir Os ": "NÃO",
+    "Unnamed: 21": null
   },
   {
     "ID": "3666642",
@@ -12471,14 +12994,15 @@ const CHECKLIST_VEICULAR_DATA = [
     "Condutor": "Jussara Soares de Souza ",
     "Data Hora": "18/05/2026 16:01",
     "VIDEOTELEMTRIA": "SIM",
-    "Itens Danificados": NaN,
+    "Itens Danificados": null,
     "Estado de Criticidade Veículo": "Moderado(Condutor notificado)",
     "Observacoes": "Amassado em tampa traseira e acima da porta do passageiro.",
     "ID COLABORADOR": "272640",
     "ID DO AVALIADOR(A)": "272640",
     "Abrir Os": "NÃO",
-    "Os": NaN,
-    "Abrir Os ": "NÃO"
+    "Os": null,
+    "Abrir Os ": "NÃO",
+    "Unnamed: 21": null
   },
   {
     "ID": "3666643",
@@ -12501,8 +13025,9 @@ const CHECKLIST_VEICULAR_DATA = [
     "ID COLABORADOR": "262790",
     "ID DO AVALIADOR(A)": "272640",
     "Abrir Os": "SIM",
-    "Os": NaN,
-    "Abrir Os ": "SIM"
+    "Os": null,
+    "Abrir Os ": "SIM",
+    "Unnamed: 21": null
   },
   {
     "ID": "3666644",
@@ -12525,8 +13050,9 @@ const CHECKLIST_VEICULAR_DATA = [
     "ID COLABORADOR": "279140",
     "ID DO AVALIADOR(A)": "2726á",
     "Abrir Os": "SIM",
-    "Os": NaN,
-    "Abrir Os ": "SIM"
+    "Os": null,
+    "Abrir Os ": "SIM",
+    "Unnamed: 21": null
   },
   {
     "ID": "3666645",
@@ -12543,14 +13069,15 @@ const CHECKLIST_VEICULAR_DATA = [
     "Condutor": "Daiany Cândido da Silva ",
     "Data Hora": "19/05/2026 09:46",
     "VIDEOTELEMTRIA": "SIM",
-    "Itens Danificados": NaN,
+    "Itens Danificados": null,
     "Estado de Criticidade Veículo": "Leve(Liberado)",
     "Observacoes": "Sem avaria.",
     "ID COLABORADOR": "250690",
     "ID DO AVALIADOR(A)": "272640",
     "Abrir Os": "NÃO",
-    "Os": NaN,
-    "Abrir Os ": "NÃO"
+    "Os": null,
+    "Abrir Os ": "NÃO",
+    "Unnamed: 21": null
   },
   {
     "ID": "3666646",
@@ -12567,14 +13094,15 @@ const CHECKLIST_VEICULAR_DATA = [
     "Condutor": "Fábio Junio Ferreira Barboza ",
     "Data Hora": "19/05/2026 10:49",
     "VIDEOTELEMTRIA": "SIM",
-    "Itens Danificados": NaN,
+    "Itens Danificados": null,
     "Estado de Criticidade Veículo": "Leve(Liberado)",
     "Observacoes": "Sem avaria.",
     "ID COLABORADOR": "189200",
     "ID DO AVALIADOR(A)": "272640",
     "Abrir Os": "NÃO",
-    "Os": NaN,
-    "Abrir Os ": "NÃO"
+    "Os": null,
+    "Abrir Os ": "NÃO",
+    "Unnamed: 21": null
   },
   {
     "ID": "3666647",
@@ -12591,14 +13119,15 @@ const CHECKLIST_VEICULAR_DATA = [
     "Condutor": "Alessandro da Silva ",
     "Data Hora": "19/05/2026 14:30",
     "VIDEOTELEMTRIA": "SIM",
-    "Itens Danificados": NaN,
+    "Itens Danificados": null,
     "Estado de Criticidade Veículo": "Leve(Liberado)",
     "Observacoes": "Sem avaria.",
     "ID COLABORADOR": "262010",
     "ID DO AVALIADOR(A)": "272640",
     "Abrir Os": "NÃO",
-    "Os": NaN,
-    "Abrir Os ": "NÃO"
+    "Os": null,
+    "Abrir Os ": "NÃO",
+    "Unnamed: 21": null
   },
   {
     "ID": "3666648",
@@ -12615,14 +13144,15 @@ const CHECKLIST_VEICULAR_DATA = [
     "Condutor": "Mildo Sérgio Veroneze",
     "Data Hora": "19/05/2026 14:38",
     "VIDEOTELEMTRIA": "SIM",
-    "Itens Danificados": NaN,
+    "Itens Danificados": null,
     "Estado de Criticidade Veículo": "Moderado(Condutor notificado)",
     "Observacoes": "Porta motorista (amassado)",
     "ID COLABORADOR": "273450",
     "ID DO AVALIADOR(A)": "272640",
     "Abrir Os": "SIM",
-    "Os": NaN,
-    "Abrir Os ": "SIM"
+    "Os": null,
+    "Abrir Os ": "SIM",
+    "Unnamed: 21": null
   },
   {
     "ID": "3666649",
@@ -12645,8 +13175,9 @@ const CHECKLIST_VEICULAR_DATA = [
     "ID COLABORADOR": "262010",
     "ID DO AVALIADOR(A)": "272640",
     "Abrir Os": "SIM",
-    "Os": NaN,
-    "Abrir Os ": "SIM"
+    "Os": null,
+    "Abrir Os ": "SIM",
+    "Unnamed: 21": null
   },
   {
     "ID": "3666650",
@@ -12660,17 +13191,18 @@ const CHECKLIST_VEICULAR_DATA = [
     "Score": "0.0",
     "Frota": "460225 - FIAT STRADA ENDURENCE CP 1.4 - ALUGADA(TEB4C09)",
     "GESTORES": "REGINALDO FERNANDO MANTOVANI",
-    "Condutor": NaN,
+    "Condutor": null,
     "Data Hora": "19/05/2026 15:08",
     "VIDEOTELEMTRIA": "SIM",
-    "Itens Danificados": NaN,
+    "Itens Danificados": null,
     "Estado de Criticidade Veículo": "Leve(Liberado)",
-    "Observacoes": NaN,
-    "ID COLABORADOR": NaN,
-    "ID DO AVALIADOR(A)": NaN,
+    "Observacoes": null,
+    "ID COLABORADOR": null,
+    "ID DO AVALIADOR(A)": null,
     "Abrir Os": "NÃO",
-    "Os": NaN,
-    "Abrir Os ": "NÃO"
+    "Os": null,
+    "Abrir Os ": "NÃO",
+    "Unnamed: 21": null
   },
   {
     "ID": "3672220",
@@ -12693,8 +13225,9 @@ const CHECKLIST_VEICULAR_DATA = [
     "ID COLABORADOR": "262010",
     "ID DO AVALIADOR(A)": "272640",
     "Abrir Os": "NÃO",
-    "Os": NaN,
-    "Abrir Os ": "NÃO"
+    "Os": null,
+    "Abrir Os ": "NÃO",
+    "Unnamed: 21": null
   },
   {
     "ID": "3672221",
@@ -12711,14 +13244,15 @@ const CHECKLIST_VEICULAR_DATA = [
     "Condutor": "Tiago Damião Louzada ",
     "Data Hora": "20/05/2026 11:36",
     "VIDEOTELEMTRIA": "SIM",
-    "Itens Danificados": NaN,
+    "Itens Danificados": null,
     "Estado de Criticidade Veículo": "Leve(Liberado)",
     "Observacoes": "Sem avaria.",
     "ID COLABORADOR": "5",
     "ID DO AVALIADOR(A)": "272640",
     "Abrir Os": "NÃO",
-    "Os": NaN,
-    "Abrir Os ": "NÃO"
+    "Os": null,
+    "Abrir Os ": "NÃO",
+    "Unnamed: 21": null
   },
   {
     "ID": "3672222",
@@ -12741,8 +13275,9 @@ const CHECKLIST_VEICULAR_DATA = [
     "ID COLABORADOR": "262010",
     "ID DO AVALIADOR(A)": "272640",
     "Abrir Os": "NÃO",
-    "Os": NaN,
-    "Abrir Os ": "NÃO"
+    "Os": null,
+    "Abrir Os ": "NÃO",
+    "Unnamed: 21": null
   },
   {
     "ID": "3672223",
@@ -12759,14 +13294,15 @@ const CHECKLIST_VEICULAR_DATA = [
     "Condutor": "Tiago Damião Louzada ",
     "Data Hora": "20/05/2026 16:41",
     "VIDEOTELEMTRIA": "SIM",
-    "Itens Danificados": NaN,
+    "Itens Danificados": null,
     "Estado de Criticidade Veículo": "Leve(Liberado)",
     "Observacoes": "Sem avaria.",
     "ID COLABORADOR": "5",
     "ID DO AVALIADOR(A)": "272640",
     "Abrir Os": "NÃO",
-    "Os": NaN,
-    "Abrir Os ": "NÃO"
+    "Os": null,
+    "Abrir Os ": "NÃO",
+    "Unnamed: 21": null
   },
   {
     "ID": "3672224",
@@ -12783,14 +13319,15 @@ const CHECKLIST_VEICULAR_DATA = [
     "Condutor": "Joyce Rodrigues Rebouças ",
     "Data Hora": "21/05/2026 07:04",
     "VIDEOTELEMTRIA": "SIM",
-    "Itens Danificados": NaN,
+    "Itens Danificados": null,
     "Estado de Criticidade Veículo": "Leve(Liberado)",
     "Observacoes": "Sem avaria.",
     "ID COLABORADOR": "283700",
     "ID DO AVALIADOR(A)": "272640",
     "Abrir Os": "NÃO",
-    "Os": NaN,
-    "Abrir Os ": "NÃO"
+    "Os": null,
+    "Abrir Os ": "NÃO",
+    "Unnamed: 21": null
   },
   {
     "ID": "3672225",
@@ -12807,14 +13344,15 @@ const CHECKLIST_VEICULAR_DATA = [
     "Condutor": "Alessandro da Silva ",
     "Data Hora": "21/05/2026 07:12",
     "VIDEOTELEMTRIA": "NÃO",
-    "Itens Danificados": NaN,
+    "Itens Danificados": null,
     "Estado de Criticidade Veículo": "Moderado(Condutor notificado)",
     "Observacoes": "Faltando peça da saia lateral direita.",
     "ID COLABORADOR": "262010",
     "ID DO AVALIADOR(A)": "272640",
     "Abrir Os": "NÃO",
-    "Os": NaN,
-    "Abrir Os ": "NÃO"
+    "Os": null,
+    "Abrir Os ": "NÃO",
+    "Unnamed: 21": null
   },
   {
     "ID": "3672226",
@@ -12831,14 +13369,15 @@ const CHECKLIST_VEICULAR_DATA = [
     "Condutor": "João Jesus Ferreira ",
     "Data Hora": "21/05/2026 08:21",
     "VIDEOTELEMTRIA": "NÃO",
-    "Itens Danificados": NaN,
+    "Itens Danificados": null,
     "Estado de Criticidade Veículo": "Leve(Liberado)",
     "Observacoes": "Sem avaria.",
     "ID COLABORADOR": "179103",
     "ID DO AVALIADOR(A)": "272640",
     "Abrir Os": "NÃO",
-    "Os": NaN,
-    "Abrir Os ": "NÃO"
+    "Os": null,
+    "Abrir Os ": "NÃO",
+    "Unnamed: 21": null
   },
   {
     "ID": "3672227",
@@ -12855,14 +13394,15 @@ const CHECKLIST_VEICULAR_DATA = [
     "Condutor": "Ana Maria de Melo Cassezi ",
     "Data Hora": "21/05/2026 09:46",
     "VIDEOTELEMTRIA": "SIM",
-    "Itens Danificados": NaN,
+    "Itens Danificados": null,
     "Estado de Criticidade Veículo": "Leve(Liberado)",
     "Observacoes": "Sem avaria.",
     "ID COLABORADOR": "268860",
     "ID DO AVALIADOR(A)": "272640",
     "Abrir Os": "NÃO",
-    "Os": NaN,
-    "Abrir Os ": "NÃO"
+    "Os": null,
+    "Abrir Os ": "NÃO",
+    "Unnamed: 21": null
   },
   {
     "ID": "3672228",
@@ -12885,8 +13425,9 @@ const CHECKLIST_VEICULAR_DATA = [
     "ID COLABORADOR": "262010",
     "ID DO AVALIADOR(A)": "272640",
     "Abrir Os": "NÃO",
-    "Os": NaN,
-    "Abrir Os ": "NÃO"
+    "Os": null,
+    "Abrir Os ": "NÃO",
+    "Unnamed: 21": null
   },
   {
     "ID": "3672229",
@@ -12903,14 +13444,15 @@ const CHECKLIST_VEICULAR_DATA = [
     "Condutor": "Reginaldo Fernando Mantovani ",
     "Data Hora": "22/05/2026 07:01",
     "VIDEOTELEMTRIA": "NÃO",
-    "Itens Danificados": NaN,
+    "Itens Danificados": null,
     "Estado de Criticidade Veículo": "Leve(Liberado)",
     "Observacoes": "Sem avaria.",
     "ID COLABORADOR": "260910",
     "ID DO AVALIADOR(A)": "272640",
     "Abrir Os": "NÃO",
-    "Os": NaN,
-    "Abrir Os ": "NÃO"
+    "Os": null,
+    "Abrir Os ": "NÃO",
+    "Unnamed: 21": null
   },
   {
     "ID": "3672230",
@@ -12927,14 +13469,15 @@ const CHECKLIST_VEICULAR_DATA = [
     "Condutor": "Walison Daniel dos Santos Rocha ",
     "Data Hora": "22/05/2026 14:22",
     "VIDEOTELEMTRIA": "NÃO",
-    "Itens Danificados": NaN,
+    "Itens Danificados": null,
     "Estado de Criticidade Veículo": "Leve(Liberado)",
     "Observacoes": "Sem avaria.",
     "ID COLABORADOR": "280430",
     "ID DO AVALIADOR(A)": "272640",
     "Abrir Os": "NÃO",
-    "Os": NaN,
-    "Abrir Os ": "NÃO"
+    "Os": null,
+    "Abrir Os ": "NÃO",
+    "Unnamed: 21": null
   },
   {
     "ID": "3672231",
@@ -12951,14 +13494,15 @@ const CHECKLIST_VEICULAR_DATA = [
     "Condutor": "Jussara Soares de Souza ",
     "Data Hora": "22/05/2026 16:05",
     "VIDEOTELEMTRIA": "NÃO",
-    "Itens Danificados": NaN,
+    "Itens Danificados": null,
     "Estado de Criticidade Veículo": "Leve(Liberado)",
     "Observacoes": "Sem avaria.",
     "ID COLABORADOR": "272640",
     "ID DO AVALIADOR(A)": "272640",
     "Abrir Os": "NÃO",
-    "Os": NaN,
-    "Abrir Os ": "NÃO"
+    "Os": null,
+    "Abrir Os ": "NÃO",
+    "Unnamed: 21": null
   },
   {
     "ID": "3674754",
@@ -12975,14 +13519,15 @@ const CHECKLIST_VEICULAR_DATA = [
     "Condutor": "Leonardo Estenio Gallon Pinto ",
     "Data Hora": "25/05/2026 07:24",
     "VIDEOTELEMTRIA": "SIM",
-    "Itens Danificados": NaN,
+    "Itens Danificados": null,
     "Estado de Criticidade Veículo": "Leve(Liberado)",
     "Observacoes": "Sem avaria.",
     "ID COLABORADOR": "272430",
     "ID DO AVALIADOR(A)": "272640",
     "Abrir Os": "NÃO",
-    "Os": NaN,
-    "Abrir Os ": "NÃO"
+    "Os": null,
+    "Abrir Os ": "NÃO",
+    "Unnamed: 21": null
   },
   {
     "ID": "3674755",
@@ -12999,14 +13544,15 @@ const CHECKLIST_VEICULAR_DATA = [
     "Condutor": "Davi Freitas Ramos ",
     "Data Hora": "25/05/2026 07:43",
     "VIDEOTELEMTRIA": "SIM",
-    "Itens Danificados": NaN,
+    "Itens Danificados": null,
     "Estado de Criticidade Veículo": "Leve(Liberado)",
     "Observacoes": "Sem avaria.",
     "ID COLABORADOR": "265970",
     "ID DO AVALIADOR(A)": "272640",
     "Abrir Os": "NÃO",
-    "Os": NaN,
-    "Abrir Os ": "NÃO"
+    "Os": null,
+    "Abrir Os ": "NÃO",
+    "Unnamed: 21": null
   },
   {
     "ID": "3674756",
@@ -13023,14 +13569,15 @@ const CHECKLIST_VEICULAR_DATA = [
     "Condutor": "Luiz Alfredo de Souza ",
     "Data Hora": "25/05/2026 07:54",
     "VIDEOTELEMTRIA": "NÃO",
-    "Itens Danificados": NaN,
+    "Itens Danificados": null,
     "Estado de Criticidade Veículo": "Leve(Liberado)",
     "Observacoes": "Sem avaria.",
     "ID COLABORADOR": "5423",
     "ID DO AVALIADOR(A)": "272640",
     "Abrir Os": "NÃO",
-    "Os": NaN,
-    "Abrir Os ": "NÃO"
+    "Os": null,
+    "Abrir Os ": "NÃO",
+    "Unnamed: 21": null
   },
   {
     "ID": "3674757",
@@ -13047,14 +13594,15 @@ const CHECKLIST_VEICULAR_DATA = [
     "Condutor": "Giliard Tavares ",
     "Data Hora": "25/05/2026 07:58",
     "VIDEOTELEMTRIA": "SIM",
-    "Itens Danificados": NaN,
+    "Itens Danificados": null,
     "Estado de Criticidade Veículo": "Leve(Liberado)",
     "Observacoes": "Sem avaria.",
     "ID COLABORADOR": "260700",
     "ID DO AVALIADOR(A)": "272640",
     "Abrir Os": "NÃO",
-    "Os": NaN,
-    "Abrir Os ": "NÃO"
+    "Os": null,
+    "Abrir Os ": "NÃO",
+    "Unnamed: 21": null
   },
   {
     "ID": "3674758",
@@ -13071,14 +13619,15 @@ const CHECKLIST_VEICULAR_DATA = [
     "Condutor": "Marco Ferreira dos Santos ",
     "Data Hora": "25/05/2026 08:26",
     "VIDEOTELEMTRIA": "NÃO",
-    "Itens Danificados": NaN,
+    "Itens Danificados": null,
     "Estado de Criticidade Veículo": "Leve(Liberado)",
     "Observacoes": "Sem avaria.",
     "ID COLABORADOR": "115782",
     "ID DO AVALIADOR(A)": "272640",
     "Abrir Os": "NÃO",
-    "Os": NaN,
-    "Abrir Os ": "NÃO"
+    "Os": null,
+    "Abrir Os ": "NÃO",
+    "Unnamed: 21": null
   },
   {
     "ID": "3675165",
@@ -13095,14 +13644,15 @@ const CHECKLIST_VEICULAR_DATA = [
     "Condutor": "Marco Ferreira dos Santos ",
     "Data Hora": "25/05/2026 09:46",
     "VIDEOTELEMTRIA": "NÃO",
-    "Itens Danificados": NaN,
+    "Itens Danificados": null,
     "Estado de Criticidade Veículo": "Leve(Liberado)",
     "Observacoes": "Sem avaria.",
     "ID COLABORADOR": "115782",
     "ID DO AVALIADOR(A)": "272640",
     "Abrir Os": "NÃO",
-    "Os": NaN,
-    "Abrir Os ": "NÃO"
+    "Os": null,
+    "Abrir Os ": "NÃO",
+    "Unnamed: 21": null
   },
   {
     "ID": "3675166",
@@ -13119,14 +13669,15 @@ const CHECKLIST_VEICULAR_DATA = [
     "Condutor": "Ricardo Aparecido da Silva ",
     "Data Hora": "25/05/2026 10:26",
     "VIDEOTELEMTRIA": "NÃO",
-    "Itens Danificados": NaN,
+    "Itens Danificados": null,
     "Estado de Criticidade Veículo": "Leve(Liberado)",
     "Observacoes": "Sem avaria.",
     "ID COLABORADOR": "111909",
     "ID DO AVALIADOR(A)": "272640",
     "Abrir Os": "NÃO",
-    "Os": NaN,
-    "Abrir Os ": "NÃO"
+    "Os": null,
+    "Abrir Os ": "NÃO",
+    "Unnamed: 21": null
   },
   {
     "ID": "3675167",
@@ -13143,14 +13694,15 @@ const CHECKLIST_VEICULAR_DATA = [
     "Condutor": "Murilo Vanderlei Travani ",
     "Data Hora": "25/05/2026 11:05",
     "VIDEOTELEMTRIA": "SIM",
-    "Itens Danificados": NaN,
+    "Itens Danificados": null,
     "Estado de Criticidade Veículo": "Leve(Liberado)",
     "Observacoes": "Sem avaria.",
     "ID COLABORADOR": "278680",
     "ID DO AVALIADOR(A)": "272640",
     "Abrir Os": "NÃO",
-    "Os": NaN,
-    "Abrir Os ": "NÃO"
+    "Os": null,
+    "Abrir Os ": "NÃO",
+    "Unnamed: 21": null
   },
   {
     "ID": "3675168",
@@ -13167,14 +13719,15 @@ const CHECKLIST_VEICULAR_DATA = [
     "Condutor": "Ruan de Freitas Dias ",
     "Data Hora": "25/05/2026 13:23",
     "VIDEOTELEMTRIA": "SIM",
-    "Itens Danificados": NaN,
+    "Itens Danificados": null,
     "Estado de Criticidade Veículo": "Leve(Liberado)",
     "Observacoes": "Sem avaria.",
     "ID COLABORADOR": "273990",
     "ID DO AVALIADOR(A)": "272640",
     "Abrir Os": "NÃO",
-    "Os": NaN,
-    "Abrir Os ": "NÃO"
+    "Os": null,
+    "Abrir Os ": "NÃO",
+    "Unnamed: 21": null
   },
   {
     "ID": "3675169",
@@ -13197,8 +13750,9 @@ const CHECKLIST_VEICULAR_DATA = [
     "ID COLABORADOR": "157958",
     "ID DO AVALIADOR(A)": "272640",
     "Abrir Os": "NÃO",
-    "Os": NaN,
-    "Abrir Os ": "NÃO"
+    "Os": null,
+    "Abrir Os ": "NÃO",
+    "Unnamed: 21": null
   },
   {
     "ID": "3675170",
@@ -13212,17 +13766,18 @@ const CHECKLIST_VEICULAR_DATA = [
     "Score": "0.0",
     "Frota": "460624 - CHEVROLET SPIN AT PREMIER - ALUGADO(SYX6F46)",
     "GESTORES": "DANIEL FERREIRA DA CRUZ",
-    "Condutor": NaN,
+    "Condutor": null,
     "Data Hora": "25/05/2026 14:10",
     "VIDEOTELEMTRIA": "NÃO",
-    "Itens Danificados": NaN,
+    "Itens Danificados": null,
     "Estado de Criticidade Veículo": "Leve(Liberado)",
     "Observacoes": "Sem avaria.",
     "ID COLABORADOR": "283150",
     "ID DO AVALIADOR(A)": "272640",
     "Abrir Os": "NÃO",
-    "Os": NaN,
-    "Abrir Os ": "NÃO"
+    "Os": null,
+    "Abrir Os ": "NÃO",
+    "Unnamed: 21": null
   },
   {
     "ID": "3675171",
@@ -13239,14 +13794,15 @@ const CHECKLIST_VEICULAR_DATA = [
     "Condutor": "Mildo Sérgio Veroneze",
     "Data Hora": "25/05/2026 14:17",
     "VIDEOTELEMTRIA": "NÃO",
-    "Itens Danificados": NaN,
+    "Itens Danificados": null,
     "Estado de Criticidade Veículo": "Leve(Liberado)",
     "Observacoes": "Sem avaria.",
     "ID COLABORADOR": "273450",
     "ID DO AVALIADOR(A)": "272640",
     "Abrir Os": "NÃO",
-    "Os": NaN,
-    "Abrir Os ": "NÃO"
+    "Os": null,
+    "Abrir Os ": "NÃO",
+    "Unnamed: 21": null
   },
   {
     "ID": "3675172",
@@ -13269,8 +13825,9 @@ const CHECKLIST_VEICULAR_DATA = [
     "ID COLABORADOR": "244290",
     "ID DO AVALIADOR(A)": "272640",
     "Abrir Os": "NÃO",
-    "Os": NaN,
-    "Abrir Os ": "NÃO"
+    "Os": null,
+    "Abrir Os ": "NÃO",
+    "Unnamed: 21": null
   },
   {
     "ID": "3679245",
@@ -13287,14 +13844,15 @@ const CHECKLIST_VEICULAR_DATA = [
     "Condutor": "Josni Adriano Silva ",
     "Data Hora": "26/05/2026 07:36",
     "VIDEOTELEMTRIA": "SIM",
-    "Itens Danificados": NaN,
+    "Itens Danificados": null,
     "Estado de Criticidade Veículo": "Leve(Liberado)",
     "Observacoes": "Sem avaria.",
     "ID COLABORADOR": "198420",
     "ID DO AVALIADOR(A)": "27264",
     "Abrir Os": "NÃO",
-    "Os": NaN,
-    "Abrir Os ": "NÃO"
+    "Os": null,
+    "Abrir Os ": "NÃO",
+    "Unnamed: 21": null
   },
   {
     "ID": "3679247",
@@ -13311,14 +13869,15 @@ const CHECKLIST_VEICULAR_DATA = [
     "Condutor": "Henrique Mendes Ferreira ",
     "Data Hora": "26/05/2026 07:54",
     "VIDEOTELEMTRIA": "SIM",
-    "Itens Danificados": NaN,
+    "Itens Danificados": null,
     "Estado de Criticidade Veículo": "Leve(Liberado)",
     "Observacoes": "Sem avaria.",
     "ID COLABORADOR": "269710",
     "ID DO AVALIADOR(A)": "272640",
     "Abrir Os": "NÃO",
-    "Os": NaN,
-    "Abrir Os ": "NÃO"
+    "Os": null,
+    "Abrir Os ": "NÃO",
+    "Unnamed: 21": null
   },
   {
     "ID": "3679251",
@@ -13341,8 +13900,9 @@ const CHECKLIST_VEICULAR_DATA = [
     "ID COLABORADOR": "271280",
     "ID DO AVALIADOR(A)": "272640",
     "Abrir Os": "SIM",
-    "Os": NaN,
-    "Abrir Os ": "SIM"
+    "Os": null,
+    "Abrir Os ": "SIM",
+    "Unnamed: 21": null
   },
   {
     "ID": "3679255",
@@ -13359,14 +13919,15 @@ const CHECKLIST_VEICULAR_DATA = [
     "Condutor": "Jonatas da Silva Lemes",
     "Data Hora": "26/05/2026 11:25",
     "VIDEOTELEMTRIA": "SIM",
-    "Itens Danificados": NaN,
+    "Itens Danificados": null,
     "Estado de Criticidade Veículo": "Leve(Liberado)",
     "Observacoes": "Sem avaria.",
     "ID COLABORADOR": "279140",
     "ID DO AVALIADOR(A)": "272640",
     "Abrir Os": "NÃO",
-    "Os": NaN,
-    "Abrir Os ": "NÃO"
+    "Os": null,
+    "Abrir Os ": "NÃO",
+    "Unnamed: 21": null
   },
   {
     "ID": "3679258",
@@ -13383,14 +13944,15 @@ const CHECKLIST_VEICULAR_DATA = [
     "Condutor": "Maicon Henrique Teodoro Caetano ",
     "Data Hora": "26/05/2026 11:26",
     "VIDEOTELEMTRIA": "SIM",
-    "Itens Danificados": NaN,
+    "Itens Danificados": null,
     "Estado de Criticidade Veículo": "Leve(Liberado)",
     "Observacoes": "Sem avaria.",
     "ID COLABORADOR": "1325581",
     "ID DO AVALIADOR(A)": "272640",
     "Abrir Os": "NÃO",
-    "Os": NaN,
-    "Abrir Os ": "NÃO"
+    "Os": null,
+    "Abrir Os ": "NÃO",
+    "Unnamed: 21": null
   },
   {
     "ID": "3679259",
@@ -13407,14 +13969,15 @@ const CHECKLIST_VEICULAR_DATA = [
     "Condutor": "Gabriele Davanço",
     "Data Hora": "26/05/2026 14:13",
     "VIDEOTELEMTRIA": "SIM",
-    "Itens Danificados": NaN,
+    "Itens Danificados": null,
     "Estado de Criticidade Veículo": "Leve(Liberado)",
     "Observacoes": "Sem avaria.",
-    "ID COLABORADOR": NaN,
+    "ID COLABORADOR": null,
     "ID DO AVALIADOR(A)": "272640",
     "Abrir Os": "NÃO",
-    "Os": NaN,
-    "Abrir Os ": "NÃO"
+    "Os": null,
+    "Abrir Os ": "NÃO",
+    "Unnamed: 21": null
   },
   {
     "ID": "3679260",
@@ -13431,14 +13994,15 @@ const CHECKLIST_VEICULAR_DATA = [
     "Condutor": "Gilmar Rebouças ",
     "Data Hora": "26/05/2026 14:32",
     "VIDEOTELEMTRIA": "NÃO",
-    "Itens Danificados": NaN,
+    "Itens Danificados": null,
     "Estado de Criticidade Veículo": "Leve(Liberado)",
     "Observacoes": "Sem avaria.",
-    "ID COLABORADOR": NaN,
+    "ID COLABORADOR": null,
     "ID DO AVALIADOR(A)": "272640",
     "Abrir Os": "NÃO",
-    "Os": NaN,
-    "Abrir Os ": "NÃO"
+    "Os": null,
+    "Abrir Os ": "NÃO",
+    "Unnamed: 21": null
   },
   {
     "ID": "3679261",
@@ -13455,14 +14019,15 @@ const CHECKLIST_VEICULAR_DATA = [
     "Condutor": "Alessandro da Silva ",
     "Data Hora": "27/05/2026 09:39",
     "VIDEOTELEMTRIA": "SIM",
-    "Itens Danificados": NaN,
+    "Itens Danificados": null,
     "Estado de Criticidade Veículo": "Leve(Liberado)",
     "Observacoes": "Sem avaria.",
     "ID COLABORADOR": "262010",
     "ID DO AVALIADOR(A)": "272640",
     "Abrir Os": "NÃO",
-    "Os": NaN,
-    "Abrir Os ": "NÃO"
+    "Os": null,
+    "Abrir Os ": "NÃO",
+    "Unnamed: 21": null
   },
   {
     "ID": "3679262",
@@ -13479,14 +14044,15 @@ const CHECKLIST_VEICULAR_DATA = [
     "Condutor": "Alex Rodrigo Bueno ",
     "Data Hora": "27/05/2026 09:43",
     "VIDEOTELEMTRIA": "NÃO",
-    "Itens Danificados": NaN,
+    "Itens Danificados": null,
     "Estado de Criticidade Veículo": "Leve(Liberado)",
     "Observacoes": "Sem avaria.",
-    "ID COLABORADOR": NaN,
+    "ID COLABORADOR": null,
     "ID DO AVALIADOR(A)": "272640",
     "Abrir Os": "NÃO",
-    "Os": NaN,
-    "Abrir Os ": "NÃO"
+    "Os": null,
+    "Abrir Os ": "NÃO",
+    "Unnamed: 21": null
   },
   {
     "ID": "3679263",
@@ -13503,14 +14069,15 @@ const CHECKLIST_VEICULAR_DATA = [
     "Condutor": "Ruth Sulamita da Silva Lares",
     "Data Hora": "27/05/2026 10:29",
     "VIDEOTELEMTRIA": "NÃO",
-    "Itens Danificados": NaN,
+    "Itens Danificados": null,
     "Estado de Criticidade Veículo": "Leve(Liberado)",
     "Observacoes": "Sem avaria.",
     "ID COLABORADOR": "266960",
     "ID DO AVALIADOR(A)": "272640",
     "Abrir Os": "NÃO",
-    "Os": NaN,
-    "Abrir Os ": "NÃO"
+    "Os": null,
+    "Abrir Os ": "NÃO",
+    "Unnamed: 21": null
   },
   {
     "ID": "3679264",
@@ -13527,14 +14094,15 @@ const CHECKLIST_VEICULAR_DATA = [
     "Condutor": "Ingrid Vieira de Oliveira ",
     "Data Hora": "27/05/2026 15:41",
     "VIDEOTELEMTRIA": "NÃO",
-    "Itens Danificados": NaN,
+    "Itens Danificados": null,
     "Estado de Criticidade Veículo": "Leve(Liberado)",
     "Observacoes": "Sem avaria.",
     "ID COLABORADOR": "244640",
     "ID DO AVALIADOR(A)": "272640",
     "Abrir Os": "NÃO",
-    "Os": NaN,
-    "Abrir Os ": "NÃO"
+    "Os": null,
+    "Abrir Os ": "NÃO",
+    "Unnamed: 21": null
   },
   {
     "ID": "3684133",
@@ -13551,14 +14119,15 @@ const CHECKLIST_VEICULAR_DATA = [
     "Condutor": "Maximiano Gomes da Silva ",
     "Data Hora": "28/05/2026 09:47",
     "VIDEOTELEMTRIA": "SIM",
-    "Itens Danificados": NaN,
+    "Itens Danificados": null,
     "Estado de Criticidade Veículo": "Leve(Liberado)",
     "Observacoes": "Sem avaria.",
     "ID COLABORADOR": "251170",
     "ID DO AVALIADOR(A)": "272640",
     "Abrir Os": "NÃO",
-    "Os": NaN,
-    "Abrir Os ": "NÃO"
+    "Os": null,
+    "Abrir Os ": "NÃO",
+    "Unnamed: 21": null
   },
   {
     "ID": "3684134",
@@ -13575,14 +14144,15 @@ const CHECKLIST_VEICULAR_DATA = [
     "Condutor": "Wellington Martins Bento",
     "Data Hora": "28/05/2026 11:07",
     "VIDEOTELEMTRIA": "SIM",
-    "Itens Danificados": NaN,
+    "Itens Danificados": null,
     "Estado de Criticidade Veículo": "Leve(Liberado)",
     "Observacoes": "Sem avaria.",
     "ID COLABORADOR": "232100",
     "ID DO AVALIADOR(A)": "272640",
     "Abrir Os": "NÃO",
-    "Os": NaN,
-    "Abrir Os ": "NÃO"
+    "Os": null,
+    "Abrir Os ": "NÃO",
+    "Unnamed: 21": null
   },
   {
     "ID": "3684135",
@@ -13599,14 +14169,15 @@ const CHECKLIST_VEICULAR_DATA = [
     "Condutor": "Heverton Henrique Custodio ",
     "Data Hora": "28/05/2026 13:39",
     "VIDEOTELEMTRIA": "SIM",
-    "Itens Danificados": NaN,
+    "Itens Danificados": null,
     "Estado de Criticidade Veículo": "Leve(Liberado)",
     "Observacoes": "Sem avaria.",
     "ID COLABORADOR": "266560",
     "ID DO AVALIADOR(A)": "272640",
     "Abrir Os": "NÃO",
-    "Os": NaN,
-    "Abrir Os ": "NÃO"
+    "Os": null,
+    "Abrir Os ": "NÃO",
+    "Unnamed: 21": null
   },
   {
     "ID": "3684137",
@@ -13623,14 +14194,15 @@ const CHECKLIST_VEICULAR_DATA = [
     "Condutor": "Antonio Benedito Cassezi",
     "Data Hora": "29/05/2026 09:53",
     "VIDEOTELEMTRIA": "NÃO",
-    "Itens Danificados": NaN,
+    "Itens Danificados": null,
     "Estado de Criticidade Veículo": "Leve(Liberado)",
     "Observacoes": "Sem avaria.",
     "ID COLABORADOR": "96520",
     "ID DO AVALIADOR(A)": "272640",
     "Abrir Os": "NÃO",
-    "Os": NaN,
-    "Abrir Os ": "NÃO"
+    "Os": null,
+    "Abrir Os ": "NÃO",
+    "Unnamed: 21": null
   },
   {
     "ID": "3684138",
@@ -13647,14 +14219,15 @@ const CHECKLIST_VEICULAR_DATA = [
     "Condutor": "José Ricardo do Carmo ",
     "Data Hora": "29/05/2026 10:53",
     "VIDEOTELEMTRIA": "SIM",
-    "Itens Danificados": NaN,
+    "Itens Danificados": null,
     "Estado de Criticidade Veículo": "Leve(Liberado)",
     "Observacoes": "Sem avaria.",
     "ID COLABORADOR": "84165",
     "ID DO AVALIADOR(A)": "272640",
     "Abrir Os": "NÃO",
-    "Os": NaN,
-    "Abrir Os ": "NÃO"
+    "Os": null,
+    "Abrir Os ": "NÃO",
+    "Unnamed: 21": null
   },
   {
     "ID": "3684139",
@@ -13671,14 +14244,15 @@ const CHECKLIST_VEICULAR_DATA = [
     "Condutor": "Admir Xavier Cotrim ",
     "Data Hora": "29/05/2026 10:56",
     "VIDEOTELEMTRIA": "SIM",
-    "Itens Danificados": NaN,
+    "Itens Danificados": null,
     "Estado de Criticidade Veículo": "Leve(Liberado)",
     "Observacoes": "Sem avaria.",
     "ID COLABORADOR": "112150",
     "ID DO AVALIADOR(A)": "272640",
     "Abrir Os": "NÃO",
-    "Os": NaN,
-    "Abrir Os ": "NÃO"
+    "Os": null,
+    "Abrir Os ": "NÃO",
+    "Unnamed: 21": null
   },
   {
     "ID": "3684140",
@@ -13695,14 +14269,15 @@ const CHECKLIST_VEICULAR_DATA = [
     "Condutor": "Agnaldo Oliveira ",
     "Data Hora": "29/05/2026 11:02",
     "VIDEOTELEMTRIA": "SIM",
-    "Itens Danificados": NaN,
+    "Itens Danificados": null,
     "Estado de Criticidade Veículo": "Leve(Liberado)",
     "Observacoes": "Sem avaria.",
     "ID COLABORADOR": "281460",
     "ID DO AVALIADOR(A)": "272640",
     "Abrir Os": "NÃO",
-    "Os": NaN,
-    "Abrir Os ": "NÃO"
+    "Os": null,
+    "Abrir Os ": "NÃO",
+    "Unnamed: 21": null
   },
   {
     "ID": "3684141",
@@ -13714,19 +14289,20 @@ const CHECKLIST_VEICULAR_DATA = [
     "Data Fim": "29/05/2026 13:20",
     "Status": "Open",
     "Score": "0.0",
-    "Frota": NaN,
+    "Frota": null,
     "GESTORES": "TIAGO DAMIAO LOUZADA",
     "Condutor": "Wellington Dener Alexandre ",
     "Data Hora": "29/05/2026 13:06",
     "VIDEOTELEMTRIA": "SIM",
-    "Itens Danificados": NaN,
+    "Itens Danificados": null,
     "Estado de Criticidade Veículo": "Leve(Liberado)",
     "Observacoes": "Primeiro Checklist de entrega ao condutor responsável.Frota: 468325Sem avaria.",
     "ID COLABORADOR": "278440",
     "ID DO AVALIADOR(A)": "272640",
     "Abrir Os": "NÃO",
-    "Os": NaN,
-    "Abrir Os ": "NÃO"
+    "Os": null,
+    "Abrir Os ": "NÃO",
+    "Unnamed: 21": null
   },
   {
     "ID": "3684142",
@@ -13743,14 +14319,15 @@ const CHECKLIST_VEICULAR_DATA = [
     "Condutor": "Anderson Henrique Simão ",
     "Data Hora": "29/05/2026 13:24",
     "VIDEOTELEMTRIA": "SIM",
-    "Itens Danificados": NaN,
+    "Itens Danificados": null,
     "Estado de Criticidade Veículo": "Leve(Liberado)",
     "Observacoes": "Sem avaria.",
     "ID COLABORADOR": "251390",
     "ID DO AVALIADOR(A)": "272640",
     "Abrir Os": "NÃO",
-    "Os": NaN,
-    "Abrir Os ": "NÃO"
+    "Os": null,
+    "Abrir Os ": "NÃO",
+    "Unnamed: 21": null
   },
   {
     "ID": "3684143",
@@ -13767,14 +14344,15 @@ const CHECKLIST_VEICULAR_DATA = [
     "Condutor": "Antonio Marcos Souza ",
     "Data Hora": "29/05/2026 13:25",
     "VIDEOTELEMTRIA": "SIM",
-    "Itens Danificados": NaN,
+    "Itens Danificados": null,
     "Estado de Criticidade Veículo": "Leve(Liberado)",
     "Observacoes": "Sem avaria.",
     "ID COLABORADOR": "260840",
     "ID DO AVALIADOR(A)": "272640",
     "Abrir Os": "NÃO",
-    "Os": NaN,
-    "Abrir Os ": "NÃO"
+    "Os": null,
+    "Abrir Os ": "NÃO",
+    "Unnamed: 21": null
   },
   {
     "ID": "3690519",
@@ -13788,17 +14366,18 @@ const CHECKLIST_VEICULAR_DATA = [
     "Score": "0.0",
     "Frota": "461125 - CHEVROLET SPIN AT PREMIER - ALUGADO(GEQ9B71)",
     "GESTORES": "DANIEL FERREIRA DA CRUZ",
-    "Condutor": NaN,
+    "Condutor": null,
     "Data Hora": "01/06/2026 07:12",
     "VIDEOTELEMTRIA": "SIM",
-    "Itens Danificados": NaN,
+    "Itens Danificados": null,
     "Estado de Criticidade Veículo": "Leve(Liberado)",
     "Observacoes": "Sem avaria.",
     "ID COLABORADOR": "283180",
     "ID DO AVALIADOR(A)": "272640",
     "Abrir Os": "NÃO",
-    "Os": NaN,
-    "Abrir Os ": "NÃO"
+    "Os": null,
+    "Abrir Os ": "NÃO",
+    "Unnamed: 21": null
   },
   {
     "ID": "3690520",
@@ -13812,17 +14391,18 @@ const CHECKLIST_VEICULAR_DATA = [
     "Score": "0.0",
     "Frota": "462325 - FIAT MOBI TREKKING 1.0 - ALUGADO(TEL2A03)",
     "GESTORES": "DANIEL FERREIRA",
-    "Condutor": NaN,
+    "Condutor": null,
     "Data Hora": "01/06/2026 07:21",
     "VIDEOTELEMTRIA": "SIM",
-    "Itens Danificados": NaN,
+    "Itens Danificados": null,
     "Estado de Criticidade Veículo": "Leve(Liberado)",
     "Observacoes": "Sem avaria.",
     "ID COLABORADOR": "282640",
     "ID DO AVALIADOR(A)": "272640",
     "Abrir Os": "NÃO",
-    "Os": NaN,
-    "Abrir Os ": "NÃO"
+    "Os": null,
+    "Abrir Os ": "NÃO",
+    "Unnamed: 21": null
   },
   {
     "ID": "3690521",
@@ -13839,14 +14419,15 @@ const CHECKLIST_VEICULAR_DATA = [
     "Condutor": "Leonardo Estenio Gallon Pinto ",
     "Data Hora": "01/06/2026 07:44",
     "VIDEOTELEMTRIA": "SIM",
-    "Itens Danificados": NaN,
+    "Itens Danificados": null,
     "Estado de Criticidade Veículo": "Leve(Liberado)",
     "Observacoes": "Sem avaria.",
     "ID COLABORADOR": "272430",
     "ID DO AVALIADOR(A)": "272640",
     "Abrir Os": "NÃO",
-    "Os": NaN,
-    "Abrir Os ": "NÃO"
+    "Os": null,
+    "Abrir Os ": "NÃO",
+    "Unnamed: 21": null
   },
   {
     "ID": "3690522",
@@ -13863,14 +14444,15 @@ const CHECKLIST_VEICULAR_DATA = [
     "Condutor": "Pedro Augusto Silva ",
     "Data Hora": "01/06/2026 08:37",
     "VIDEOTELEMTRIA": "SIM",
-    "Itens Danificados": NaN,
+    "Itens Danificados": null,
     "Estado de Criticidade Veículo": "Leve(Liberado)",
     "Observacoes": "Sem avaria.",
     "ID COLABORADOR": "270270",
     "ID DO AVALIADOR(A)": "272640",
     "Abrir Os": "NÃO",
-    "Os": NaN,
-    "Abrir Os ": "NÃO"
+    "Os": null,
+    "Abrir Os ": "NÃO",
+    "Unnamed: 21": null
   },
   {
     "ID": "3690523",
@@ -13887,14 +14469,15 @@ const CHECKLIST_VEICULAR_DATA = [
     "Condutor": "Júlio ",
     "Data Hora": "01/06/2026 08:52",
     "VIDEOTELEMTRIA": "NÃO",
-    "Itens Danificados": NaN,
+    "Itens Danificados": null,
     "Estado de Criticidade Veículo": "Moderado(Condutor notificado)",
     "Observacoes": "Esguicho (não funciona)",
-    "ID COLABORADOR": NaN,
-    "ID DO AVALIADOR(A)": NaN,
+    "ID COLABORADOR": null,
+    "ID DO AVALIADOR(A)": null,
     "Abrir Os": "NÃO",
-    "Os": NaN,
-    "Abrir Os ": "NÃO"
+    "Os": null,
+    "Abrir Os ": "NÃO",
+    "Unnamed: 21": null
   },
   {
     "ID": "3690524",
@@ -13911,14 +14494,15 @@ const CHECKLIST_VEICULAR_DATA = [
     "Condutor": "Antonio Marcos Ribeiro Ruas ",
     "Data Hora": "01/06/2026 08:57",
     "VIDEOTELEMTRIA": "SIM",
-    "Itens Danificados": NaN,
+    "Itens Danificados": null,
     "Estado de Criticidade Veículo": "Leve(Liberado)",
     "Observacoes": "Sem avaria.",
     "ID COLABORADOR": "183702",
     "ID DO AVALIADOR(A)": "272640",
     "Abrir Os": "NÃO",
-    "Os": NaN,
-    "Abrir Os ": "NÃO"
+    "Os": null,
+    "Abrir Os ": "NÃO",
+    "Unnamed: 21": null
   },
   {
     "ID": "3690525",
@@ -13935,14 +14519,15 @@ const CHECKLIST_VEICULAR_DATA = [
     "Condutor": "Onofre Evangelista da Silva Junior ",
     "Data Hora": "01/06/2026 09:06",
     "VIDEOTELEMTRIA": "SIM",
-    "Itens Danificados": NaN,
+    "Itens Danificados": null,
     "Estado de Criticidade Veículo": "Leve(Liberado)",
     "Observacoes": "Sem avaria.",
     "ID COLABORADOR": "163363",
     "ID DO AVALIADOR(A)": "272640",
     "Abrir Os": "NÃO",
-    "Os": NaN,
-    "Abrir Os ": "NÃO"
+    "Os": null,
+    "Abrir Os ": "NÃO",
+    "Unnamed: 21": null
   },
   {
     "ID": "3690526",
@@ -13959,14 +14544,15 @@ const CHECKLIST_VEICULAR_DATA = [
     "Condutor": "Alessandro da Silva ",
     "Data Hora": "01/06/2026 09:28",
     "VIDEOTELEMTRIA": "SIM",
-    "Itens Danificados": NaN,
+    "Itens Danificados": null,
     "Estado de Criticidade Veículo": "Leve(Liberado)",
     "Observacoes": "Sem avaria.",
     "ID COLABORADOR": "262010",
     "ID DO AVALIADOR(A)": "272640",
     "Abrir Os": "NÃO",
-    "Os": NaN,
-    "Abrir Os ": "NÃO"
+    "Os": null,
+    "Abrir Os ": "NÃO",
+    "Unnamed: 21": null
   },
   {
     "ID": "3690527",
@@ -13983,14 +14569,15 @@ const CHECKLIST_VEICULAR_DATA = [
     "Condutor": "José Aparecido Caetano ",
     "Data Hora": "01/06/2026 09:30",
     "VIDEOTELEMTRIA": "SIM",
-    "Itens Danificados": NaN,
+    "Itens Danificados": null,
     "Estado de Criticidade Veículo": "Leve(Liberado)",
     "Observacoes": "Sem avaria.",
     "ID COLABORADOR": "3220",
     "ID DO AVALIADOR(A)": "272640",
     "Abrir Os": "NÃO",
-    "Os": NaN,
-    "Abrir Os ": "NÃO"
+    "Os": null,
+    "Abrir Os ": "NÃO",
+    "Unnamed: 21": null
   },
   {
     "ID": "3690528",
@@ -14007,14 +14594,15 @@ const CHECKLIST_VEICULAR_DATA = [
     "Condutor": "Edmar José Gonçalves ",
     "Data Hora": "01/06/2026 16:09",
     "VIDEOTELEMTRIA": "SIM",
-    "Itens Danificados": NaN,
+    "Itens Danificados": null,
     "Estado de Criticidade Veículo": "Leve(Liberado)",
     "Observacoes": "Sem avaria.",
     "ID COLABORADOR": "220310",
     "ID DO AVALIADOR(A)": "272640",
     "Abrir Os": "NÃO",
-    "Os": NaN,
-    "Abrir Os ": "NÃO"
+    "Os": null,
+    "Abrir Os ": "NÃO",
+    "Unnamed: 21": null
   },
   {
     "ID": "3695616",
@@ -14031,14 +14619,15 @@ const CHECKLIST_VEICULAR_DATA = [
     "Condutor": "Ruan de Freitas Dias ",
     "Data Hora": "02/06/2026 07:02",
     "VIDEOTELEMTRIA": "SIM",
-    "Itens Danificados": NaN,
+    "Itens Danificados": null,
     "Estado de Criticidade Veículo": "Leve(Liberado)",
     "Observacoes": "Sem avaria.",
     "ID COLABORADOR": "273990",
     "ID DO AVALIADOR(A)": "272640",
     "Abrir Os": "NÃO",
-    "Os": NaN,
-    "Abrir Os ": "NÃO"
+    "Os": null,
+    "Abrir Os ": "NÃO",
+    "Unnamed: 21": null
   },
   {
     "ID": "3695617",
@@ -14055,14 +14644,15 @@ const CHECKLIST_VEICULAR_DATA = [
     "Condutor": "Alessandro da Silva ",
     "Data Hora": "02/06/2026 10:24",
     "VIDEOTELEMTRIA": "SIM",
-    "Itens Danificados": NaN,
+    "Itens Danificados": null,
     "Estado de Criticidade Veículo": "Leve(Liberado)",
     "Observacoes": "Sem avaria.",
     "ID COLABORADOR": "262010",
     "ID DO AVALIADOR(A)": "272640",
     "Abrir Os": "NÃO",
-    "Os": NaN,
-    "Abrir Os ": "NÃO"
+    "Os": null,
+    "Abrir Os ": "NÃO",
+    "Unnamed: 21": null
   },
   {
     "ID": "3695618",
@@ -14079,14 +14669,15 @@ const CHECKLIST_VEICULAR_DATA = [
     "Condutor": "Geovane de Azevedo Dias ",
     "Data Hora": "02/06/2026 15:48",
     "VIDEOTELEMTRIA": "NÃO",
-    "Itens Danificados": NaN,
+    "Itens Danificados": null,
     "Estado de Criticidade Veículo": "Leve(Liberado)",
     "Observacoes": "Sem avaria.",
     "ID COLABORADOR": "183313",
     "ID DO AVALIADOR(A)": "272740",
     "Abrir Os": "NÃO",
-    "Os": NaN,
-    "Abrir Os ": "NÃO"
+    "Os": null,
+    "Abrir Os ": "NÃO",
+    "Unnamed: 21": null
   },
   {
     "ID": "3695619",
@@ -14103,14 +14694,15 @@ const CHECKLIST_VEICULAR_DATA = [
     "Condutor": "Alessandro da Silva ",
     "Data Hora": "03/06/2026 09:38",
     "VIDEOTELEMTRIA": "SIM",
-    "Itens Danificados": NaN,
+    "Itens Danificados": null,
     "Estado de Criticidade Veículo": "Leve(Liberado)",
     "Observacoes": "Sem avaria.Checklist de transferência de setor: Veículo sob responsabilidade do setor indústria Eugenio e Anderson.",
     "ID COLABORADOR": "262010",
     "ID DO AVALIADOR(A)": "272640",
     "Abrir Os": "NÃO",
-    "Os": NaN,
-    "Abrir Os ": "NÃO"
+    "Os": null,
+    "Abrir Os ": "NÃO",
+    "Unnamed: 21": null
   },
   {
     "ID": "3695620",
@@ -14127,14 +14719,15 @@ const CHECKLIST_VEICULAR_DATA = [
     "Condutor": "Wellington Martins Bento ",
     "Data Hora": "03/06/2026 09:45",
     "VIDEOTELEMTRIA": "SIM",
-    "Itens Danificados": NaN,
+    "Itens Danificados": null,
     "Estado de Criticidade Veículo": "Leve(Liberado)",
     "Observacoes": "Sem avaria.",
     "ID COLABORADOR": "232100",
     "ID DO AVALIADOR(A)": "272640",
     "Abrir Os": "NÃO",
-    "Os": NaN,
-    "Abrir Os ": "NÃO"
+    "Os": null,
+    "Abrir Os ": "NÃO",
+    "Unnamed: 21": null
   },
   {
     "ID": "3695621",
@@ -14151,14 +14744,15 @@ const CHECKLIST_VEICULAR_DATA = [
     "Condutor": "Anderson Ricardo Ruaro ",
     "Data Hora": "03/06/2026 16:06",
     "VIDEOTELEMTRIA": "SIM",
-    "Itens Danificados": NaN,
+    "Itens Danificados": null,
     "Estado de Criticidade Veículo": "Leve(Liberado)",
     "Observacoes": "Sem avaria.",
     "ID COLABORADOR": "168907",
     "ID DO AVALIADOR(A)": "272640",
     "Abrir Os": "NÃO",
-    "Os": NaN,
-    "Abrir Os ": "NÃO"
+    "Os": null,
+    "Abrir Os ": "NÃO",
+    "Unnamed: 21": null
   },
   {
     "ID": "3700754",
@@ -14175,14 +14769,15 @@ const CHECKLIST_VEICULAR_DATA = [
     "Condutor": "Luiz Alfredo de Souza ",
     "Data Hora": "05/06/2026 07:13",
     "VIDEOTELEMTRIA": "SIM",
-    "Itens Danificados": NaN,
+    "Itens Danificados": null,
     "Estado de Criticidade Veículo": "Leve(Liberado)",
     "Observacoes": "Sem avaria.",
     "ID COLABORADOR": "5423",
     "ID DO AVALIADOR(A)": "272640",
     "Abrir Os": "NÃO",
-    "Os": NaN,
-    "Abrir Os ": "NÃO"
+    "Os": null,
+    "Abrir Os ": "NÃO",
+    "Unnamed: 21": null
   },
   {
     "ID": "3700755",
@@ -14199,14 +14794,15 @@ const CHECKLIST_VEICULAR_DATA = [
     "Condutor": "Joyce Rodrigues Rebouças ",
     "Data Hora": "05/06/2026 08:16",
     "VIDEOTELEMTRIA": "SIM",
-    "Itens Danificados": NaN,
+    "Itens Danificados": null,
     "Estado de Criticidade Veículo": "Leve(Liberado)",
     "Observacoes": "Sem avaria.",
     "ID COLABORADOR": "283700",
     "ID DO AVALIADOR(A)": "272640",
     "Abrir Os": "NÃO",
-    "Os": NaN,
-    "Abrir Os ": "NÃO"
+    "Os": null,
+    "Abrir Os ": "NÃO",
+    "Unnamed: 21": null
   },
   {
     "ID": "3700756",
@@ -14223,14 +14819,15 @@ const CHECKLIST_VEICULAR_DATA = [
     "Condutor": "Tiago Damião Louzada ",
     "Data Hora": "05/06/2026 08:17",
     "VIDEOTELEMTRIA": "SIM",
-    "Itens Danificados": NaN,
+    "Itens Danificados": null,
     "Estado de Criticidade Veículo": "Leve(Liberado)",
     "Observacoes": "Sem avaria.",
     "ID COLABORADOR": "5",
     "ID DO AVALIADOR(A)": "272640",
     "Abrir Os": "NÃO",
-    "Os": NaN,
-    "Abrir Os ": "NÃO"
+    "Os": null,
+    "Abrir Os ": "NÃO",
+    "Unnamed: 21": null
   },
   {
     "ID": "3700757",
@@ -14247,14 +14844,15 @@ const CHECKLIST_VEICULAR_DATA = [
     "Condutor": "Onofre Evangelista da Silva Junior ",
     "Data Hora": "05/06/2026 10:45",
     "VIDEOTELEMTRIA": "SIM",
-    "Itens Danificados": NaN,
+    "Itens Danificados": null,
     "Estado de Criticidade Veículo": "Leve(Liberado)",
     "Observacoes": "Sem avaria.",
     "ID COLABORADOR": "163363",
     "ID DO AVALIADOR(A)": "272640",
     "Abrir Os": "NÃO",
-    "Os": NaN,
-    "Abrir Os ": "NÃO"
+    "Os": null,
+    "Abrir Os ": "NÃO",
+    "Unnamed: 21": null
   },
   {
     "ID": "3700758",
@@ -14271,14 +14869,15 @@ const CHECKLIST_VEICULAR_DATA = [
     "Condutor": "Willian Fernandes",
     "Data Hora": "05/06/2026 16:09",
     "VIDEOTELEMTRIA": "NÃO",
-    "Itens Danificados": NaN,
+    "Itens Danificados": null,
     "Estado de Criticidade Veículo": "Leve(Liberado)",
     "Observacoes": "Sem avaria.",
     "ID COLABORADOR": "276960",
     "ID DO AVALIADOR(A)": "272640",
     "Abrir Os": "NÃO",
-    "Os": NaN,
-    "Abrir Os ": "NÃO"
+    "Os": null,
+    "Abrir Os ": "NÃO",
+    "Unnamed: 21": null
   },
   {
     "ID": "3700759",
@@ -14295,14 +14894,15 @@ const CHECKLIST_VEICULAR_DATA = [
     "Condutor": "Joyce Rodrigues Rebouças ",
     "Data Hora": "05/06/2026 16:17",
     "VIDEOTELEMTRIA": "SIM",
-    "Itens Danificados": NaN,
+    "Itens Danificados": null,
     "Estado de Criticidade Veículo": "Leve(Liberado)",
     "Observacoes": "Sem avaria.",
-    "ID COLABORADOR": NaN,
+    "ID COLABORADOR": null,
     "ID DO AVALIADOR(A)": "272640",
     "Abrir Os": "NÃO",
-    "Os": NaN,
-    "Abrir Os ": "NÃO"
+    "Os": null,
+    "Abrir Os ": "NÃO",
+    "Unnamed: 21": null
   },
   {
     "ID": "3709229",
@@ -14319,14 +14919,15 @@ const CHECKLIST_VEICULAR_DATA = [
     "Condutor": "Jonatas da Silva Lemes",
     "Data Hora": "08/06/2026 07:35",
     "VIDEOTELEMTRIA": "SIM",
-    "Itens Danificados": NaN,
+    "Itens Danificados": null,
     "Estado de Criticidade Veículo": "Leve(Liberado)",
     "Observacoes": "Sem avaria.",
     "ID COLABORADOR": "279140",
     "ID DO AVALIADOR(A)": "272640",
     "Abrir Os": "NÃO",
-    "Os": NaN,
-    "Abrir Os ": "NÃO"
+    "Os": null,
+    "Abrir Os ": "NÃO",
+    "Unnamed: 21": null
   },
   {
     "ID": "3709230",
@@ -14343,14 +14944,15 @@ const CHECKLIST_VEICULAR_DATA = [
     "Condutor": "Wallason Soares Reges ",
     "Data Hora": "08/06/2026 08:31",
     "VIDEOTELEMTRIA": "SIM",
-    "Itens Danificados": NaN,
+    "Itens Danificados": null,
     "Estado de Criticidade Veículo": "Leve(Liberado)",
-    "Observacoes": NaN,
+    "Observacoes": null,
     "ID COLABORADOR": "1",
     "ID DO AVALIADOR(A)": "272640",
     "Abrir Os": "NÃO",
-    "Os": NaN,
-    "Abrir Os ": "NÃO"
+    "Os": null,
+    "Abrir Os ": "NÃO",
+    "Unnamed: 21": null
   },
   {
     "ID": "3709231",
@@ -14367,14 +14969,15 @@ const CHECKLIST_VEICULAR_DATA = [
     "Condutor": "Leonardo Estenio Gallon Pinto ",
     "Data Hora": "08/06/2026 09:00",
     "VIDEOTELEMTRIA": "SIM",
-    "Itens Danificados": NaN,
+    "Itens Danificados": null,
     "Estado de Criticidade Veículo": "Leve(Liberado)",
     "Observacoes": "Sem avaria.",
     "ID COLABORADOR": "272430",
     "ID DO AVALIADOR(A)": "272640",
     "Abrir Os": "NÃO",
-    "Os": NaN,
-    "Abrir Os ": "NÃO"
+    "Os": null,
+    "Abrir Os ": "NÃO",
+    "Unnamed: 21": null
   },
   {
     "ID": "3709232",
@@ -14391,14 +14994,15 @@ const CHECKLIST_VEICULAR_DATA = [
     "Condutor": "Walison Daniel dos Santos ",
     "Data Hora": "08/06/2026 13:38",
     "VIDEOTELEMTRIA": "SIM",
-    "Itens Danificados": NaN,
+    "Itens Danificados": null,
     "Estado de Criticidade Veículo": "Leve(Liberado)",
     "Observacoes": "Sem avaria.",
     "ID COLABORADOR": "275060",
     "ID DO AVALIADOR(A)": "272640",
     "Abrir Os": "NÃO",
-    "Os": NaN,
-    "Abrir Os ": "NÃO"
+    "Os": null,
+    "Abrir Os ": "NÃO",
+    "Unnamed: 21": null
   },
   {
     "ID": "3709233",
@@ -14415,14 +15019,15 @@ const CHECKLIST_VEICULAR_DATA = [
     "Condutor": "Felipe Silva",
     "Data Hora": "08/06/2026 14:05",
     "VIDEOTELEMTRIA": "SIM",
-    "Itens Danificados": NaN,
+    "Itens Danificados": null,
     "Estado de Criticidade Veículo": "Leve(Liberado)",
     "Observacoes": "Sem avaria.",
     "ID COLABORADOR": "283160",
     "ID DO AVALIADOR(A)": "272640",
     "Abrir Os": "NÃO",
-    "Os": NaN,
-    "Abrir Os ": "NÃO"
+    "Os": null,
+    "Abrir Os ": "NÃO",
+    "Unnamed: 21": null
   },
   {
     "ID": "3709234",
@@ -14439,14 +15044,15 @@ const CHECKLIST_VEICULAR_DATA = [
     "Condutor": "Paulo Antonio Viana Iesi",
     "Data Hora": "08/06/2026 14:25",
     "VIDEOTELEMTRIA": "SIM",
-    "Itens Danificados": NaN,
+    "Itens Danificados": null,
     "Estado de Criticidade Veículo": "Leve(Liberado)",
     "Observacoes": "Sem avaria.",
     "ID COLABORADOR": "271830",
     "ID DO AVALIADOR(A)": "272640",
     "Abrir Os": "NÃO",
-    "Os": NaN,
-    "Abrir Os ": "NÃO"
+    "Os": null,
+    "Abrir Os ": "NÃO",
+    "Unnamed: 21": null
   },
   {
     "ID": "3709235",
@@ -14463,14 +15069,15 @@ const CHECKLIST_VEICULAR_DATA = [
     "Condutor": "Wellington Martins Bento ",
     "Data Hora": "08/06/2026 15:04",
     "VIDEOTELEMTRIA": "SIM",
-    "Itens Danificados": NaN,
+    "Itens Danificados": null,
     "Estado de Criticidade Veículo": "Leve(Liberado)",
     "Observacoes": "Sem avaria.",
     "ID COLABORADOR": "232100",
     "ID DO AVALIADOR(A)": "272640",
     "Abrir Os": "NÃO",
-    "Os": NaN,
-    "Abrir Os ": "NÃO"
+    "Os": null,
+    "Abrir Os ": "NÃO",
+    "Unnamed: 21": null
   },
   {
     "ID": "3709236",
@@ -14487,14 +15094,15 @@ const CHECKLIST_VEICULAR_DATA = [
     "Condutor": "Josni Adriano Silva ",
     "Data Hora": "09/06/2026 09:37",
     "VIDEOTELEMTRIA": "SIM",
-    "Itens Danificados": NaN,
+    "Itens Danificados": null,
     "Estado de Criticidade Veículo": "Leve(Liberado)",
     "Observacoes": "Sem avaria.",
     "ID COLABORADOR": "198420",
     "ID DO AVALIADOR(A)": "272640",
     "Abrir Os": "NÃO",
-    "Os": NaN,
-    "Abrir Os ": "NÃO"
+    "Os": null,
+    "Abrir Os ": "NÃO",
+    "Unnamed: 21": null
   },
   {
     "ID": "3709237",
@@ -14511,14 +15119,15 @@ const CHECKLIST_VEICULAR_DATA = [
     "Condutor": "Alex Rodrigo Bueno ",
     "Data Hora": "09/06/2026 09:42",
     "VIDEOTELEMTRIA": "SIM",
-    "Itens Danificados": NaN,
+    "Itens Danificados": null,
     "Estado de Criticidade Veículo": "Leve(Liberado)",
     "Observacoes": "Sem avaria.",
-    "ID COLABORADOR": NaN,
+    "ID COLABORADOR": null,
     "ID DO AVALIADOR(A)": "273640",
     "Abrir Os": "NÃO",
-    "Os": NaN,
-    "Abrir Os ": "NÃO"
+    "Os": null,
+    "Abrir Os ": "NÃO",
+    "Unnamed: 21": null
   },
   {
     "ID": "3711431",
@@ -14535,14 +15144,15 @@ const CHECKLIST_VEICULAR_DATA = [
     "Condutor": "João Jesus Ferreira ",
     "Data Hora": "10/06/2026 08:18",
     "VIDEOTELEMTRIA": "SIM",
-    "Itens Danificados": NaN,
+    "Itens Danificados": null,
     "Estado de Criticidade Veículo": "Leve(Liberado)",
     "Observacoes": "Sem avaria.",
     "ID COLABORADOR": "179103",
     "ID DO AVALIADOR(A)": "272640",
     "Abrir Os": "NÃO",
-    "Os": NaN,
-    "Abrir Os ": "NÃO"
+    "Os": null,
+    "Abrir Os ": "NÃO",
+    "Unnamed: 21": null
   },
   {
     "ID": "3711432",
@@ -14559,14 +15169,15 @@ const CHECKLIST_VEICULAR_DATA = [
     "Condutor": "Antonio Benedito Cassezi ",
     "Data Hora": "10/06/2026 08:28",
     "VIDEOTELEMTRIA": "SIM",
-    "Itens Danificados": NaN,
+    "Itens Danificados": null,
     "Estado de Criticidade Veículo": "Leve(Liberado)",
     "Observacoes": "Sem avaria.",
     "ID COLABORADOR": "96520",
     "ID DO AVALIADOR(A)": "272640",
     "Abrir Os": "NÃO",
-    "Os": NaN,
-    "Abrir Os ": "NÃO"
+    "Os": null,
+    "Abrir Os ": "NÃO",
+    "Unnamed: 21": null
   },
   {
     "ID": "3711433",
@@ -14583,14 +15194,15 @@ const CHECKLIST_VEICULAR_DATA = [
     "Condutor": "Alessandro da Silva ",
     "Data Hora": "10/06/2026 08:36",
     "VIDEOTELEMTRIA": "SIM",
-    "Itens Danificados": NaN,
+    "Itens Danificados": null,
     "Estado de Criticidade Veículo": "Leve(Liberado)",
     "Observacoes": "Sem avaria.",
     "ID COLABORADOR": "262010",
     "ID DO AVALIADOR(A)": "272640",
     "Abrir Os": "NÃO",
-    "Os": NaN,
-    "Abrir Os ": "NÃO"
+    "Os": null,
+    "Abrir Os ": "NÃO",
+    "Unnamed: 21": null
   },
   {
     "ID": "3711434",
@@ -14607,14 +15219,15 @@ const CHECKLIST_VEICULAR_DATA = [
     "Condutor": "César Fabiano Mineiro ",
     "Data Hora": "10/06/2026 10:39",
     "VIDEOTELEMTRIA": "SIM",
-    "Itens Danificados": NaN,
+    "Itens Danificados": null,
     "Estado de Criticidade Veículo": "Leve(Liberado)",
     "Observacoes": "Sem avaria.",
     "ID COLABORADOR": "2100",
     "ID DO AVALIADOR(A)": "272640",
     "Abrir Os": "NÃO",
-    "Os": NaN,
-    "Abrir Os ": "NÃO"
+    "Os": null,
+    "Abrir Os ": "NÃO",
+    "Unnamed: 21": null
   },
   {
     "ID": "3715700",
@@ -14631,14 +15244,15 @@ const CHECKLIST_VEICULAR_DATA = [
     "Condutor": "Alex Rodrigo Bueno ",
     "Data Hora": "11/06/2026 11:37",
     "VIDEOTELEMTRIA": "SIM",
-    "Itens Danificados": NaN,
+    "Itens Danificados": null,
     "Estado de Criticidade Veículo": "Leve(Liberado)",
     "Observacoes": "Sem avaria.",
-    "ID COLABORADOR": NaN,
+    "ID COLABORADOR": null,
     "ID DO AVALIADOR(A)": "272640",
     "Abrir Os": "NÃO",
-    "Os": NaN,
-    "Abrir Os ": "NÃO"
+    "Os": null,
+    "Abrir Os ": "NÃO",
+    "Unnamed: 21": null
   },
   {
     "ID": "3715701",
@@ -14655,14 +15269,15 @@ const CHECKLIST_VEICULAR_DATA = [
     "Condutor": "Fernando Antonio Saviolli Desie ",
     "Data Hora": "11/06/2026 11:38",
     "VIDEOTELEMTRIA": "NÃO",
-    "Itens Danificados": NaN,
+    "Itens Danificados": null,
     "Estado de Criticidade Veículo": "Leve(Liberado)",
     "Observacoes": "Sem avaria.",
     "ID COLABORADOR": "244290",
     "ID DO AVALIADOR(A)": "272640",
     "Abrir Os": "NÃO",
-    "Os": NaN,
-    "Abrir Os ": "NÃO"
+    "Os": null,
+    "Abrir Os ": "NÃO",
+    "Unnamed: 21": null
   },
   {
     "ID": "3715702",
@@ -14686,7 +15301,8 @@ const CHECKLIST_VEICULAR_DATA = [
     "ID DO AVALIADOR(A)": "272640",
     "Abrir Os": "SIM",
     "Os": "730382",
-    "Abrir Os ": "SIM"
+    "Abrir Os ": "SIM",
+    "Unnamed: 21": null
   },
   {
     "ID": "3715703",
@@ -14703,14 +15319,15 @@ const CHECKLIST_VEICULAR_DATA = [
     "Condutor": "Alessandro da Silva ",
     "Data Hora": "12/06/2026 07:00",
     "VIDEOTELEMTRIA": "SIM",
-    "Itens Danificados": NaN,
+    "Itens Danificados": null,
     "Estado de Criticidade Veículo": "Leve(Liberado)",
     "Observacoes": "Veículo aguardando placa dianteira.",
     "ID COLABORADOR": "262010",
     "ID DO AVALIADOR(A)": "272640",
     "Abrir Os": "NÃO",
-    "Os": NaN,
-    "Abrir Os ": "NÃO"
+    "Os": null,
+    "Abrir Os ": "NÃO",
+    "Unnamed: 21": null
   },
   {
     "ID": "3715704",
@@ -14727,14 +15344,15 @@ const CHECKLIST_VEICULAR_DATA = [
     "Condutor": "Manoel Vicente Silva",
     "Data Hora": "12/06/2026 07:03",
     "VIDEOTELEMTRIA": "SIM",
-    "Itens Danificados": NaN,
+    "Itens Danificados": null,
     "Estado de Criticidade Veículo": "Moderado(Condutor notificado)",
     "Observacoes": "Amassado na porta traseira direita passageiro.",
     "ID COLABORADOR": "281460",
     "ID DO AVALIADOR(A)": "272640",
     "Abrir Os": "SIM",
-    "Os": NaN,
-    "Abrir Os ": "SIM"
+    "Os": null,
+    "Abrir Os ": "SIM",
+    "Unnamed: 21": null
   },
   {
     "ID": "3715705",
@@ -14751,14 +15369,15 @@ const CHECKLIST_VEICULAR_DATA = [
     "Condutor": "Joyce Rodrigues Rebouças ",
     "Data Hora": "12/06/2026 08:34",
     "VIDEOTELEMTRIA": "SIM",
-    "Itens Danificados": NaN,
+    "Itens Danificados": null,
     "Estado de Criticidade Veículo": "Leve(Liberado)",
     "Observacoes": "Sem avaria.",
     "ID COLABORADOR": "283700",
     "ID DO AVALIADOR(A)": "272640",
     "Abrir Os": "NÃO",
-    "Os": NaN,
-    "Abrir Os ": "NÃO"
+    "Os": null,
+    "Abrir Os ": "NÃO",
+    "Unnamed: 21": null
   },
   {
     "ID": "3715706",
@@ -14775,14 +15394,15 @@ const CHECKLIST_VEICULAR_DATA = [
     "Condutor": "Marco Ferreira dos Santos ",
     "Data Hora": "12/06/2026 08:54",
     "VIDEOTELEMTRIA": "NÃO",
-    "Itens Danificados": NaN,
+    "Itens Danificados": null,
     "Estado de Criticidade Veículo": "Moderado(Condutor notificado)",
     "Observacoes": "Frota: 16179 Condutor responsável: Claudemir Leonardo Acessórios obrigatórios do veículo: Macaco, chave de roda, triângulo e estepe. OK!Itens pontuados em Checklist: Riscos superciais e profundos. (Registro em fotos detalhadas e encaminhadas por email. Lasca pequena em parabrisa dianteiro, próximo à visão do motorista.Demais itens OK!",
     "ID COLABORADOR": "115782",
     "ID DO AVALIADOR(A)": "272640",
     "Abrir Os": "NÃO",
-    "Os": NaN,
-    "Abrir Os ": "NÃO"
+    "Os": null,
+    "Abrir Os ": "NÃO",
+    "Unnamed: 21": null
   },
   {
     "ID": "3719860",
@@ -14799,14 +15419,15 @@ const CHECKLIST_VEICULAR_DATA = [
     "Condutor": "José Aparecido Caetano ",
     "Data Hora": "12/06/2026 13:11",
     "VIDEOTELEMTRIA": "SIM",
-    "Itens Danificados": NaN,
+    "Itens Danificados": null,
     "Estado de Criticidade Veículo": "Leve(Liberado)",
     "Observacoes": "Sem avaria.",
     "ID COLABORADOR": "3220",
     "ID DO AVALIADOR(A)": "272640",
     "Abrir Os": "NÃO",
-    "Os": NaN,
-    "Abrir Os ": "NÃO"
+    "Os": null,
+    "Abrir Os ": "NÃO",
+    "Unnamed: 21": null
   },
   {
     "ID": "3719861",
@@ -14823,14 +15444,15 @@ const CHECKLIST_VEICULAR_DATA = [
     "Condutor": "Antonio Marcos Souza ",
     "Data Hora": "12/06/2026 14:50",
     "VIDEOTELEMTRIA": "SIM",
-    "Itens Danificados": NaN,
+    "Itens Danificados": null,
     "Estado de Criticidade Veículo": "Leve(Liberado)",
     "Observacoes": "Sem avaria.",
     "ID COLABORADOR": "260840",
     "ID DO AVALIADOR(A)": "272640",
     "Abrir Os": "NÃO",
-    "Os": NaN,
-    "Abrir Os ": "NÃO"
+    "Os": null,
+    "Abrir Os ": "NÃO",
+    "Unnamed: 21": null
   },
   {
     "ID": "3719862",
@@ -14847,14 +15469,15 @@ const CHECKLIST_VEICULAR_DATA = [
     "Condutor": "Felipe Augusto Camolezi",
     "Data Hora": "12/06/2026 15:13",
     "VIDEOTELEMTRIA": "SIM",
-    "Itens Danificados": NaN,
+    "Itens Danificados": null,
     "Estado de Criticidade Veículo": "Leve(Liberado)",
     "Observacoes": "Sem avaria.",
     "ID COLABORADOR": "280400",
     "ID DO AVALIADOR(A)": "2724640",
     "Abrir Os": "NÃO",
-    "Os": NaN,
-    "Abrir Os ": "NÃO"
+    "Os": null,
+    "Abrir Os ": "NÃO",
+    "Unnamed: 21": null
   },
   {
     "ID": "3719863",
@@ -14871,14 +15494,15 @@ const CHECKLIST_VEICULAR_DATA = [
     "Condutor": "Agnaldo de Oliveira ",
     "Data Hora": "15/06/2026 07:15",
     "VIDEOTELEMTRIA": "SIM",
-    "Itens Danificados": NaN,
+    "Itens Danificados": null,
     "Estado de Criticidade Veículo": "Leve(Liberado)",
     "Observacoes": "Checklist pós manutenção: Concluído.",
-    "ID COLABORADOR": NaN,
+    "ID COLABORADOR": null,
     "ID DO AVALIADOR(A)": "272640",
     "Abrir Os": "NÃO",
-    "Os": NaN,
-    "Abrir Os ": "NÃO"
+    "Os": null,
+    "Abrir Os ": "NÃO",
+    "Unnamed: 21": null
   },
   {
     "ID": "3719865",
@@ -14895,14 +15519,15 @@ const CHECKLIST_VEICULAR_DATA = [
     "Condutor": "Leonardo Estenio Gallon Pinto ",
     "Data Hora": "15/06/2026 07:33",
     "VIDEOTELEMTRIA": "SIM",
-    "Itens Danificados": NaN,
+    "Itens Danificados": null,
     "Estado de Criticidade Veículo": "Leve(Liberado)",
     "Observacoes": "Sem avaria.",
     "ID COLABORADOR": "272430",
     "ID DO AVALIADOR(A)": "272640",
     "Abrir Os": "NÃO",
-    "Os": NaN,
-    "Abrir Os ": "NÃO"
+    "Os": null,
+    "Abrir Os ": "NÃO",
+    "Unnamed: 21": null
   },
   {
     "ID": "3719866",
@@ -14919,14 +15544,15 @@ const CHECKLIST_VEICULAR_DATA = [
     "Condutor": "Camila Meira de Oliveira ",
     "Data Hora": "15/06/2026 08:47",
     "VIDEOTELEMTRIA": "SIM",
-    "Itens Danificados": NaN,
+    "Itens Danificados": null,
     "Estado de Criticidade Veículo": "Leve(Liberado)",
     "Observacoes": "Sem avaria.",
     "ID COLABORADOR": "284030",
     "ID DO AVALIADOR(A)": "272640",
     "Abrir Os": "NÃO",
-    "Os": NaN,
-    "Abrir Os ": "NÃO"
+    "Os": null,
+    "Abrir Os ": "NÃO",
+    "Unnamed: 21": null
   },
   {
     "ID": "3719867",
@@ -14943,14 +15569,15 @@ const CHECKLIST_VEICULAR_DATA = [
     "Condutor": "Juliano Rosa Quirino",
     "Data Hora": "15/06/2026 10:44",
     "VIDEOTELEMTRIA": "SIM",
-    "Itens Danificados": NaN,
+    "Itens Danificados": null,
     "Estado de Criticidade Veículo": "Leve(Liberado)",
     "Observacoes": "Sem avaria.",
     "ID COLABORADOR": "272770",
     "ID DO AVALIADOR(A)": "272640",
     "Abrir Os": "NÃO",
-    "Os": NaN,
-    "Abrir Os ": "NÃO"
+    "Os": null,
+    "Abrir Os ": "NÃO",
+    "Unnamed: 21": null
   },
   {
     "ID": "3719870",
@@ -14967,14 +15594,15 @@ const CHECKLIST_VEICULAR_DATA = [
     "Condutor": "Luis Fernando Cassezi",
     "Data Hora": "15/06/2026 10:45",
     "VIDEOTELEMTRIA": "SIM",
-    "Itens Danificados": NaN,
+    "Itens Danificados": null,
     "Estado de Criticidade Veículo": "Leve(Liberado)",
     "Observacoes": "Sem avaria.",
-    "ID COLABORADOR": NaN,
+    "ID COLABORADOR": null,
     "ID DO AVALIADOR(A)": "272640",
     "Abrir Os": "NÃO",
-    "Os": NaN,
-    "Abrir Os ": "NÃO"
+    "Os": null,
+    "Abrir Os ": "NÃO",
+    "Unnamed: 21": null
   },
   {
     "ID": "3719871",
@@ -14991,14 +15619,15 @@ const CHECKLIST_VEICULAR_DATA = [
     "Condutor": "Henrique Andrade",
     "Data Hora": "15/06/2026 10:52",
     "VIDEOTELEMTRIA": "SIM",
-    "Itens Danificados": NaN,
+    "Itens Danificados": null,
     "Estado de Criticidade Veículo": "Leve(Liberado)",
     "Observacoes": "Sem avaria.",
     "ID COLABORADOR": "271000",
     "ID DO AVALIADOR(A)": "272640",
     "Abrir Os": "NÃO",
-    "Os": NaN,
-    "Abrir Os ": "NÃO"
+    "Os": null,
+    "Abrir Os ": "NÃO",
+    "Unnamed: 21": null
   },
   {
     "ID": "3719872",
@@ -15015,14 +15644,15 @@ const CHECKLIST_VEICULAR_DATA = [
     "Condutor": "Marco Ferreira dos Santos ",
     "Data Hora": "15/06/2026 11:04",
     "VIDEOTELEMTRIA": "SIM",
-    "Itens Danificados": NaN,
+    "Itens Danificados": null,
     "Estado de Criticidade Veículo": "Leve(Liberado)",
     "Observacoes": "Sem avaria.",
     "ID COLABORADOR": "115782",
     "ID DO AVALIADOR(A)": "272640",
     "Abrir Os": "NÃO",
-    "Os": NaN,
-    "Abrir Os ": "NÃO"
+    "Os": null,
+    "Abrir Os ": "NÃO",
+    "Unnamed: 21": null
   },
   {
     "ID": "3719873",
@@ -15039,14 +15669,15 @@ const CHECKLIST_VEICULAR_DATA = [
     "Condutor": "Luis Cleber ",
     "Data Hora": "15/06/2026 11:13",
     "VIDEOTELEMTRIA": "SIM",
-    "Itens Danificados": NaN,
+    "Itens Danificados": null,
     "Estado de Criticidade Veículo": "Leve(Liberado)",
     "Observacoes": "Sem avaria.",
     "ID COLABORADOR": "278800",
     "ID DO AVALIADOR(A)": "272640",
     "Abrir Os": "NÃO",
-    "Os": NaN,
-    "Abrir Os ": "NÃO"
+    "Os": null,
+    "Abrir Os ": "NÃO",
+    "Unnamed: 21": null
   },
   {
     "ID": "3719875",
@@ -15063,14 +15694,15 @@ const CHECKLIST_VEICULAR_DATA = [
     "Condutor": "Alessandro da Silva ",
     "Data Hora": "15/06/2026 11:20",
     "VIDEOTELEMTRIA": "SIM",
-    "Itens Danificados": NaN,
+    "Itens Danificados": null,
     "Estado de Criticidade Veículo": "Moderado(Condutor notificado)",
     "Observacoes": "Amassado no capô ",
     "ID COLABORADOR": "262010",
     "ID DO AVALIADOR(A)": "272640",
     "Abrir Os": "SIM",
-    "Os": NaN,
-    "Abrir Os ": "SIM"
+    "Os": null,
+    "Abrir Os ": "SIM",
+    "Unnamed: 21": null
   },
   {
     "ID": "3719876",
@@ -15087,14 +15719,15 @@ const CHECKLIST_VEICULAR_DATA = [
     "Condutor": "José Ricardo do Carmo",
     "Data Hora": "15/06/2026 13:56",
     "VIDEOTELEMTRIA": "SIM",
-    "Itens Danificados": NaN,
+    "Itens Danificados": null,
     "Estado de Criticidade Veículo": "Leve(Liberado)",
     "Observacoes": "Sem avaria.",
     "ID COLABORADOR": "84165",
     "ID DO AVALIADOR(A)": "272640",
     "Abrir Os": "NÃO",
-    "Os": NaN,
-    "Abrir Os ": "NÃO"
+    "Os": null,
+    "Abrir Os ": "NÃO",
+    "Unnamed: 21": null
   },
   {
     "ID": "3719877",
@@ -15111,14 +15744,15 @@ const CHECKLIST_VEICULAR_DATA = [
     "Condutor": "Marco Ferreira dos Santos ",
     "Data Hora": "15/06/2026 14:08",
     "VIDEOTELEMTRIA": "NÃO",
-    "Itens Danificados": NaN,
+    "Itens Danificados": null,
     "Estado de Criticidade Veículo": "Leve(Liberado)",
     "Observacoes": "Sem avaria.",
     "ID COLABORADOR": "115782",
     "ID DO AVALIADOR(A)": "272640",
     "Abrir Os": "NÃO",
-    "Os": NaN,
-    "Abrir Os ": "NÃO"
+    "Os": null,
+    "Abrir Os ": "NÃO",
+    "Unnamed: 21": null
   },
   {
     "ID": "3719878",
@@ -15135,14 +15769,15 @@ const CHECKLIST_VEICULAR_DATA = [
     "Condutor": "Juliano Timóteo da Silva ",
     "Data Hora": "15/06/2026 14:36",
     "VIDEOTELEMTRIA": "NÃO",
-    "Itens Danificados": NaN,
+    "Itens Danificados": null,
     "Estado de Criticidade Veículo": "Moderado(Condutor notificado)",
     "Observacoes": "Condutor Responsável: Luis BenettiAcessórios obrigatório do veículo: Macaco, chave de roda, triângulo e estepe. OK!Itens pontuados no checklist: Tampa do tanque do combustível (trava metálica não está funcionando ao empurrar)Câmera de ré (não funciona no multimídia)Risco superficial na parte superior lado direito do porta malas.",
     "ID COLABORADOR": "239410",
     "ID DO AVALIADOR(A)": "272640",
     "Abrir Os": "NÃO",
-    "Os": NaN,
-    "Abrir Os ": "NÃO"
+    "Os": null,
+    "Abrir Os ": "NÃO",
+    "Unnamed: 21": null
   },
   {
     "ID": "3719879",
@@ -15159,14 +15794,15 @@ const CHECKLIST_VEICULAR_DATA = [
     "Condutor": "Edmar José Gonçalves ",
     "Data Hora": "15/06/2026 15:13",
     "VIDEOTELEMTRIA": "SIM",
-    "Itens Danificados": NaN,
+    "Itens Danificados": null,
     "Estado de Criticidade Veículo": "Leve(Liberado)",
     "Observacoes": "Sem avaria.",
     "ID COLABORADOR": "220310",
     "ID DO AVALIADOR(A)": "272640",
     "Abrir Os": "NÃO",
-    "Os": NaN,
-    "Abrir Os ": "NÃO"
+    "Os": null,
+    "Abrir Os ": "NÃO",
+    "Unnamed: 21": null
   },
   {
     "ID": "3719881",
@@ -15183,14 +15819,15 @@ const CHECKLIST_VEICULAR_DATA = [
     "Condutor": "Wallason Soares Reges",
     "Data Hora": "15/06/2026 15:27",
     "VIDEOTELEMTRIA": "NÃO",
-    "Itens Danificados": NaN,
+    "Itens Danificados": null,
     "Estado de Criticidade Veículo": "Leve(Liberado)",
     "Observacoes": "Sem avaria.",
     "ID COLABORADOR": "1",
     "ID DO AVALIADOR(A)": "272640",
     "Abrir Os": "NÃO",
-    "Os": NaN,
-    "Abrir Os ": "NÃO"
+    "Os": null,
+    "Abrir Os ": "NÃO",
+    "Unnamed: 21": null
   },
   {
     "ID": "3719882",
@@ -15207,14 +15844,15 @@ const CHECKLIST_VEICULAR_DATA = [
     "Condutor": "Wallason Soares Reges ",
     "Data Hora": "15/06/2026 16:36",
     "VIDEOTELEMTRIA": "NÃO",
-    "Itens Danificados": NaN,
+    "Itens Danificados": null,
     "Estado de Criticidade Veículo": "Leve(Liberado)",
     "Observacoes": "Sem avaria.",
     "ID COLABORADOR": "1",
     "ID DO AVALIADOR(A)": "272640",
     "Abrir Os": "NÃO",
-    "Os": NaN,
-    "Abrir Os ": "NÃO"
+    "Os": null,
+    "Abrir Os ": "NÃO",
+    "Unnamed: 21": null
   },
   {
     "ID": "3719883",
@@ -15231,14 +15869,15 @@ const CHECKLIST_VEICULAR_DATA = [
     "Condutor": "Alessandro da Silva",
     "Data Hora": "16/06/2026 07:19",
     "VIDEOTELEMTRIA": "SIM",
-    "Itens Danificados": NaN,
+    "Itens Danificados": null,
     "Estado de Criticidade Veículo": "Leve(Liberado)",
     "Observacoes": "Sem avaria.",
     "ID COLABORADOR": "262010",
     "ID DO AVALIADOR(A)": "272640",
     "Abrir Os": "NÃO",
-    "Os": NaN,
-    "Abrir Os ": "NÃO"
+    "Os": null,
+    "Abrir Os ": "NÃO",
+    "Unnamed: 21": null
   },
   {
     "ID": "3719884",
@@ -15255,14 +15894,15 @@ const CHECKLIST_VEICULAR_DATA = [
     "Condutor": "Ruan de Freitas Dias ",
     "Data Hora": "16/06/2026 07:25",
     "VIDEOTELEMTRIA": "SIM",
-    "Itens Danificados": NaN,
+    "Itens Danificados": null,
     "Estado de Criticidade Veículo": "Leve(Liberado)",
     "Observacoes": "Sem avaria.",
     "ID COLABORADOR": "273990",
     "ID DO AVALIADOR(A)": "272640",
     "Abrir Os": "NÃO",
-    "Os": NaN,
-    "Abrir Os ": "NÃO"
+    "Os": null,
+    "Abrir Os ": "NÃO",
+    "Unnamed: 21": null
   },
   {
     "ID": "3719885",
@@ -15285,8 +15925,9 @@ const CHECKLIST_VEICULAR_DATA = [
     "ID COLABORADOR": "287000",
     "ID DO AVALIADOR(A)": "272640",
     "Abrir Os": "SIM",
-    "Os": NaN,
-    "Abrir Os ": "SIM"
+    "Os": null,
+    "Abrir Os ": "SIM",
+    "Unnamed: 21": null
   },
   {
     "ID": "3719886",
@@ -15303,14 +15944,15 @@ const CHECKLIST_VEICULAR_DATA = [
     "Condutor": "Henrique Mendes Ferreira ",
     "Data Hora": "16/06/2026 07:40",
     "VIDEOTELEMTRIA": "SIM",
-    "Itens Danificados": NaN,
+    "Itens Danificados": null,
     "Estado de Criticidade Veículo": "Leve(Liberado)",
     "Observacoes": "Sem avaria.",
     "ID COLABORADOR": "269710",
     "ID DO AVALIADOR(A)": "272640",
     "Abrir Os": "NÃO",
-    "Os": NaN,
-    "Abrir Os ": "NÃO"
+    "Os": null,
+    "Abrir Os ": "NÃO",
+    "Unnamed: 21": null
   },
   {
     "ID": "3719887",
@@ -15327,14 +15969,15 @@ const CHECKLIST_VEICULAR_DATA = [
     "Condutor": "Pedro Augusto Silva ",
     "Data Hora": "16/06/2026 07:42",
     "VIDEOTELEMTRIA": "SIM",
-    "Itens Danificados": NaN,
+    "Itens Danificados": null,
     "Estado de Criticidade Veículo": "Leve(Liberado)",
     "Observacoes": "Sem avaria.",
     "ID COLABORADOR": "270640",
     "ID DO AVALIADOR(A)": "272640",
     "Abrir Os": "NÃO",
-    "Os": NaN,
-    "Abrir Os ": "NÃO"
+    "Os": null,
+    "Abrir Os ": "NÃO",
+    "Unnamed: 21": null
   },
   {
     "ID": "3719888",
@@ -15351,14 +15994,15 @@ const CHECKLIST_VEICULAR_DATA = [
     "Condutor": "Anderson Henrique Simão ",
     "Data Hora": "16/06/2026 08:10",
     "VIDEOTELEMTRIA": "SIM",
-    "Itens Danificados": NaN,
+    "Itens Danificados": null,
     "Estado de Criticidade Veículo": "Leve(Liberado)",
     "Observacoes": "Sem avaria.",
     "ID COLABORADOR": "251390",
     "ID DO AVALIADOR(A)": "272640",
     "Abrir Os": "NÃO",
-    "Os": NaN,
-    "Abrir Os ": "NÃO"
+    "Os": null,
+    "Abrir Os ": "NÃO",
+    "Unnamed: 21": null
   },
   {
     "ID": "3720283",
@@ -15375,14 +16019,15 @@ const CHECKLIST_VEICULAR_DATA = [
     "Condutor": "Ana Maria de Melo Cassezi ",
     "Data Hora": "16/06/2026 10:56",
     "VIDEOTELEMTRIA": "SIM",
-    "Itens Danificados": NaN,
+    "Itens Danificados": null,
     "Estado de Criticidade Veículo": "Leve(Liberado)",
     "Observacoes": "Sem avaria.",
     "ID COLABORADOR": "268860",
     "ID DO AVALIADOR(A)": "272640",
     "Abrir Os": "NÃO",
-    "Os": NaN,
-    "Abrir Os ": "NÃO"
+    "Os": null,
+    "Abrir Os ": "NÃO",
+    "Unnamed: 21": null
   },
   {
     "ID": "3720284",
@@ -15399,14 +16044,15 @@ const CHECKLIST_VEICULAR_DATA = [
     "Condutor": "Juliano Rosa Quirino ",
     "Data Hora": "16/06/2026 10:06",
     "VIDEOTELEMTRIA": "SIM",
-    "Itens Danificados": NaN,
+    "Itens Danificados": null,
     "Estado de Criticidade Veículo": "Leve(Liberado)",
     "Observacoes": "Sem avaria.",
     "ID COLABORADOR": "272770",
     "ID DO AVALIADOR(A)": "272640",
     "Abrir Os": "NÃO",
-    "Os": NaN,
-    "Abrir Os ": "NÃO"
+    "Os": null,
+    "Abrir Os ": "NÃO",
+    "Unnamed: 21": null
   },
   {
     "ID": "3720285",
@@ -15423,14 +16069,15 @@ const CHECKLIST_VEICULAR_DATA = [
     "Condutor": "Admir Xavier Cotrim ",
     "Data Hora": "16/06/2026 10:09",
     "VIDEOTELEMTRIA": "SIM",
-    "Itens Danificados": NaN,
+    "Itens Danificados": null,
     "Estado de Criticidade Veículo": "Leve(Liberado)",
     "Observacoes": "Sem avaria.",
     "ID COLABORADOR": "112150",
     "ID DO AVALIADOR(A)": "272640",
     "Abrir Os": "NÃO",
-    "Os": NaN,
-    "Abrir Os ": "NÃO"
+    "Os": null,
+    "Abrir Os ": "NÃO",
+    "Unnamed: 21": null
   },
   {
     "ID": "3720286",
@@ -15453,8 +16100,9 @@ const CHECKLIST_VEICULAR_DATA = [
     "ID COLABORADOR": "2100",
     "ID DO AVALIADOR(A)": "272640",
     "Abrir Os": "NÃO",
-    "Os": NaN,
-    "Abrir Os ": "NÃO"
+    "Os": null,
+    "Abrir Os ": "NÃO",
+    "Unnamed: 21": null
   },
   {
     "ID": "3720287",
@@ -15471,14 +16119,15 @@ const CHECKLIST_VEICULAR_DATA = [
     "Condutor": "Caique Braga Lima",
     "Data Hora": "16/06/2026 10:20",
     "VIDEOTELEMTRIA": "SIM",
-    "Itens Danificados": NaN,
+    "Itens Danificados": null,
     "Estado de Criticidade Veículo": "Leve(Liberado)",
     "Observacoes": "Sem avaria.",
     "ID COLABORADOR": "260940",
     "ID DO AVALIADOR(A)": "272640",
     "Abrir Os": "NÃO",
-    "Os": NaN,
-    "Abrir Os ": "NÃO"
+    "Os": null,
+    "Abrir Os ": "NÃO",
+    "Unnamed: 21": null
   },
   {
     "ID": "3720288",
@@ -15495,14 +16144,15 @@ const CHECKLIST_VEICULAR_DATA = [
     "Condutor": "Jussara Soares de Souza ",
     "Data Hora": "16/06/2026 11:22",
     "VIDEOTELEMTRIA": "SIM",
-    "Itens Danificados": NaN,
+    "Itens Danificados": null,
     "Estado de Criticidade Veículo": "Leve(Liberado)",
     "Observacoes": "Sem avaria.",
     "ID COLABORADOR": "272640",
     "ID DO AVALIADOR(A)": "272640",
     "Abrir Os": "NÃO",
-    "Os": NaN,
-    "Abrir Os ": "NÃO"
+    "Os": null,
+    "Abrir Os ": "NÃO",
+    "Unnamed: 21": null
   },
   {
     "ID": "3720289",
@@ -15519,14 +16169,15 @@ const CHECKLIST_VEICULAR_DATA = [
     "Condutor": "Alessandro da Silva ",
     "Data Hora": "16/06/2026 13:50",
     "VIDEOTELEMTRIA": "SIM",
-    "Itens Danificados": NaN,
+    "Itens Danificados": null,
     "Estado de Criticidade Veículo": "Leve(Liberado)",
     "Observacoes": "Sem avaria.",
     "ID COLABORADOR": "262010",
     "ID DO AVALIADOR(A)": "272640",
     "Abrir Os": "NÃO",
-    "Os": NaN,
-    "Abrir Os ": "NÃO"
+    "Os": null,
+    "Abrir Os ": "NÃO",
+    "Unnamed: 21": null
   },
   {
     "ID": "3722168",
@@ -15546,11 +16197,12 @@ const CHECKLIST_VEICULAR_DATA = [
     "Itens Danificados": "16. Ar-Condicionado  ",
     "Estado de Criticidade Veículo": "Moderado(Condutor notificado)",
     "Observacoes": "Ar condicionado (não está gelando)",
-    "ID COLABORADOR": NaN,
+    "ID COLABORADOR": null,
     "ID DO AVALIADOR(A)": "272640",
     "Abrir Os": "NÃO",
-    "Os": NaN,
-    "Abrir Os ": "NÃO"
+    "Os": null,
+    "Abrir Os ": "NÃO",
+    "Unnamed: 21": null
   },
   {
     "ID": "3722170",
@@ -15567,14 +16219,15 @@ const CHECKLIST_VEICULAR_DATA = [
     "Condutor": "Geovane de Azevedo Dias ",
     "Data Hora": "17/06/2026 13:20",
     "VIDEOTELEMTRIA": "SIM",
-    "Itens Danificados": NaN,
+    "Itens Danificados": null,
     "Estado de Criticidade Veículo": "Leve(Liberado)",
     "Observacoes": "Sem avaria.",
     "ID COLABORADOR": "183313",
     "ID DO AVALIADOR(A)": "272640",
     "Abrir Os": "NÃO",
-    "Os": NaN,
-    "Abrir Os ": "NÃO"
+    "Os": null,
+    "Abrir Os ": "NÃO",
+    "Unnamed: 21": null
   },
   {
     "ID": "3722171",
@@ -15591,14 +16244,15 @@ const CHECKLIST_VEICULAR_DATA = [
     "Condutor": "Wellington Martins Bento ",
     "Data Hora": "17/06/2026 13:46",
     "VIDEOTELEMTRIA": "SIM",
-    "Itens Danificados": NaN,
+    "Itens Danificados": null,
     "Estado de Criticidade Veículo": "Leve(Liberado)",
     "Observacoes": "Sem avaria.",
     "ID COLABORADOR": "232100",
     "ID DO AVALIADOR(A)": "272640",
     "Abrir Os": "NÃO",
-    "Os": NaN,
-    "Abrir Os ": "NÃO"
+    "Os": null,
+    "Abrir Os ": "NÃO",
+    "Unnamed: 21": null
   },
   {
     "ID": "3722379",
@@ -15615,14 +16269,15 @@ const CHECKLIST_VEICULAR_DATA = [
     "Condutor": "Reginaldo Fernando Mantovani ",
     "Data Hora": "17/06/2026 15:47",
     "VIDEOTELEMTRIA": "SIM",
-    "Itens Danificados": NaN,
+    "Itens Danificados": null,
     "Estado de Criticidade Veículo": "Leve(Liberado)",
     "Observacoes": "Sem avaria.",
     "ID COLABORADOR": "260910",
     "ID DO AVALIADOR(A)": "272640",
     "Abrir Os": "NÃO",
-    "Os": NaN,
-    "Abrir Os ": "NÃO"
+    "Os": null,
+    "Abrir Os ": "NÃO",
+    "Unnamed: 21": null
   },
   {
     "ID": "3722380",
@@ -15646,7 +16301,8 @@ const CHECKLIST_VEICULAR_DATA = [
     "ID DO AVALIADOR(A)": "272640",
     "Abrir Os": "SIM",
     "Os": "741193",
-    "Abrir Os ": "SIM"
+    "Abrir Os ": "SIM",
+    "Unnamed: 21": null
   },
   {
     "ID": "3726557",
@@ -15663,14 +16319,15 @@ const CHECKLIST_VEICULAR_DATA = [
     "Condutor": "Anderson Ricardo Ruaro ",
     "Data Hora": "18/06/2026 07:42",
     "VIDEOTELEMTRIA": "SIM",
-    "Itens Danificados": NaN,
+    "Itens Danificados": null,
     "Estado de Criticidade Veículo": "Leve(Liberado)",
     "Observacoes": "Sem avaria.",
     "ID COLABORADOR": "168907",
     "ID DO AVALIADOR(A)": "272640",
     "Abrir Os": "NÃO",
-    "Os": NaN,
-    "Abrir Os ": "NÃO"
+    "Os": null,
+    "Abrir Os ": "NÃO",
+    "Unnamed: 21": null
   },
   {
     "ID": "3726558",
@@ -15687,14 +16344,15 @@ const CHECKLIST_VEICULAR_DATA = [
     "Condutor": "Alessandro Rodrigues Modesto",
     "Data Hora": "18/06/2026 11:36",
     "VIDEOTELEMTRIA": "SIM",
-    "Itens Danificados": NaN,
+    "Itens Danificados": null,
     "Estado de Criticidade Veículo": "Leve(Liberado)",
     "Observacoes": "Sem avaria.",
-    "ID COLABORADOR": NaN,
+    "ID COLABORADOR": null,
     "ID DO AVALIADOR(A)": "272640",
     "Abrir Os": "NÃO",
-    "Os": NaN,
-    "Abrir Os ": "NÃO"
+    "Os": null,
+    "Abrir Os ": "NÃO",
+    "Unnamed: 21": null
   },
   {
     "ID": "3726559",
@@ -15711,14 +16369,15 @@ const CHECKLIST_VEICULAR_DATA = [
     "Condutor": "Cícero Erasmo da Silva ",
     "Data Hora": "18/06/2026 11:37",
     "VIDEOTELEMTRIA": "SIM",
-    "Itens Danificados": NaN,
+    "Itens Danificados": null,
     "Estado de Criticidade Veículo": "Leve(Liberado)",
     "Observacoes": "Sem avaria.",
     "ID COLABORADOR": "260400",
     "ID DO AVALIADOR(A)": "272640",
     "Abrir Os": "NÃO",
-    "Os": NaN,
-    "Abrir Os ": "NÃO"
+    "Os": null,
+    "Abrir Os ": "NÃO",
+    "Unnamed: 21": null
   },
   {
     "ID": "3726560",
@@ -15735,14 +16394,15 @@ const CHECKLIST_VEICULAR_DATA = [
     "Condutor": "Jhonnes Alves Moura ",
     "Data Hora": "18/06/2026 15:49",
     "VIDEOTELEMTRIA": "SIM",
-    "Itens Danificados": NaN,
+    "Itens Danificados": null,
     "Estado de Criticidade Veículo": "Leve(Liberado)",
     "Observacoes": "Sem avaria.",
     "ID COLABORADOR": "212301",
     "ID DO AVALIADOR(A)": "272640",
     "Abrir Os": "NÃO",
-    "Os": NaN,
-    "Abrir Os ": "NÃO"
+    "Os": null,
+    "Abrir Os ": "NÃO",
+    "Unnamed: 21": null
   },
   {
     "ID": "3726561",
@@ -15759,14 +16419,15 @@ const CHECKLIST_VEICULAR_DATA = [
     "Condutor": "Marcos Alexandre Baffi ",
     "Data Hora": "18/06/2026 15:52",
     "VIDEOTELEMTRIA": "SIM",
-    "Itens Danificados": NaN,
+    "Itens Danificados": null,
     "Estado de Criticidade Veículo": "Leve(Liberado)",
     "Observacoes": "Sem avaria.",
     "ID COLABORADOR": "297032",
     "ID DO AVALIADOR(A)": "272649",
     "Abrir Os": "NÃO",
-    "Os": NaN,
-    "Abrir Os ": "NÃO"
+    "Os": null,
+    "Abrir Os ": "NÃO",
+    "Unnamed: 21": null
   },
   {
     "ID": "3734745",
@@ -15783,14 +16444,15 @@ const CHECKLIST_VEICULAR_DATA = [
     "Condutor": "Osmarino Manoel da Silva",
     "Data Hora": "22/06/2026 07:15",
     "VIDEOTELEMTRIA": "SIM",
-    "Itens Danificados": NaN,
+    "Itens Danificados": null,
     "Estado de Criticidade Veículo": "Moderado(Condutor notificado)",
     "Observacoes": "Ar condicionado (não funciona)Aguardando ducato retornar da manutenção.",
     "ID COLABORADOR": "272280",
     "ID DO AVALIADOR(A)": "272640",
     "Abrir Os": "SIM",
     "Os": "716835",
-    "Abrir Os ": "SIM"
+    "Abrir Os ": "SIM",
+    "Unnamed: 21": null
   },
   {
     "ID": "3734746",
@@ -15807,14 +16469,15 @@ const CHECKLIST_VEICULAR_DATA = [
     "Condutor": "Wallason Soares Reges ",
     "Data Hora": "22/06/2026 08:07",
     "VIDEOTELEMTRIA": "SIM",
-    "Itens Danificados": NaN,
+    "Itens Danificados": null,
     "Estado de Criticidade Veículo": "Leve(Liberado)",
     "Observacoes": "Sem avaria.",
     "ID COLABORADOR": "1",
     "ID DO AVALIADOR(A)": "272640",
     "Abrir Os": "NÃO",
-    "Os": NaN,
-    "Abrir Os ": "NÃO"
+    "Os": null,
+    "Abrir Os ": "NÃO",
+    "Unnamed: 21": null
   },
   {
     "ID": "3734747",
@@ -15831,14 +16494,15 @@ const CHECKLIST_VEICULAR_DATA = [
     "Condutor": "Antonio Marcos Ribeiro Ruas ",
     "Data Hora": "22/06/2026 08:55",
     "VIDEOTELEMTRIA": "SIM",
-    "Itens Danificados": NaN,
+    "Itens Danificados": null,
     "Estado de Criticidade Veículo": "Leve(Liberado)",
     "Observacoes": "Sem avaria.",
     "ID COLABORADOR": "183702",
     "ID DO AVALIADOR(A)": "272640",
     "Abrir Os": "NÃO",
-    "Os": NaN,
-    "Abrir Os ": "NÃO"
+    "Os": null,
+    "Abrir Os ": "NÃO",
+    "Unnamed: 21": null
   },
   {
     "ID": "3734748",
@@ -15855,14 +16519,15 @@ const CHECKLIST_VEICULAR_DATA = [
     "Condutor": "Walison Daniel dos Santos Rocha",
     "Data Hora": "22/06/2026 10:10",
     "VIDEOTELEMTRIA": "SIM",
-    "Itens Danificados": NaN,
+    "Itens Danificados": null,
     "Estado de Criticidade Veículo": "Leve(Liberado)",
     "Observacoes": "Sem avaria. ",
     "ID COLABORADOR": "275060",
     "ID DO AVALIADOR(A)": "272640",
     "Abrir Os": "NÃO",
-    "Os": NaN,
-    "Abrir Os ": "NÃO"
+    "Os": null,
+    "Abrir Os ": "NÃO",
+    "Unnamed: 21": null
   },
   {
     "ID": "3734749",
@@ -15879,14 +16544,15 @@ const CHECKLIST_VEICULAR_DATA = [
     "Condutor": "Ingrid Vieira de Oliveira ",
     "Data Hora": "22/06/2026 10:52",
     "VIDEOTELEMTRIA": "SIM",
-    "Itens Danificados": NaN,
+    "Itens Danificados": null,
     "Estado de Criticidade Veículo": "Leve(Liberado)",
     "Observacoes": "Sem avaria.",
     "ID COLABORADOR": "244640",
     "ID DO AVALIADOR(A)": "272640",
     "Abrir Os": "NÃO",
-    "Os": NaN,
-    "Abrir Os ": "NÃO"
+    "Os": null,
+    "Abrir Os ": "NÃO",
+    "Unnamed: 21": null
   },
   {
     "ID": "3734750",
@@ -15903,14 +16569,15 @@ const CHECKLIST_VEICULAR_DATA = [
     "Condutor": "Daniel Ferreira da Cruz Neto",
     "Data Hora": "22/06/2026 11:28",
     "VIDEOTELEMTRIA": "SIM",
-    "Itens Danificados": NaN,
+    "Itens Danificados": null,
     "Estado de Criticidade Veículo": "Leve(Liberado)",
     "Observacoes": "Sem avaria.",
     "ID COLABORADOR": "96556",
     "ID DO AVALIADOR(A)": "272640",
     "Abrir Os": "NÃO",
-    "Os": NaN,
-    "Abrir Os ": "NÃO"
+    "Os": null,
+    "Abrir Os ": "NÃO",
+    "Unnamed: 21": null
   },
   {
     "ID": "3734751",
@@ -15933,8 +16600,9 @@ const CHECKLIST_VEICULAR_DATA = [
     "ID COLABORADOR": "274140",
     "ID DO AVALIADOR(A)": "272640",
     "Abrir Os": "SIM",
-    "Os": NaN,
-    "Abrir Os ": "SIM"
+    "Os": null,
+    "Abrir Os ": "SIM",
+    "Unnamed: 21": null
   },
   {
     "ID": "3734752",
@@ -15951,14 +16619,15 @@ const CHECKLIST_VEICULAR_DATA = [
     "Condutor": "Cássio Adriano Costa ",
     "Data Hora": "22/06/2026 13:50",
     "VIDEOTELEMTRIA": "SIM",
-    "Itens Danificados": NaN,
+    "Itens Danificados": null,
     "Estado de Criticidade Veículo": "Leve(Liberado)",
     "Observacoes": "Sem avaria.",
-    "ID COLABORADOR": NaN,
+    "ID COLABORADOR": null,
     "ID DO AVALIADOR(A)": "272640",
     "Abrir Os": "NÃO",
-    "Os": NaN,
-    "Abrir Os ": "NÃO"
+    "Os": null,
+    "Abrir Os ": "NÃO",
+    "Unnamed: 21": null
   },
   {
     "ID": "3734753",
@@ -15975,14 +16644,15 @@ const CHECKLIST_VEICULAR_DATA = [
     "Condutor": "Endrius Ernane de Souza ",
     "Data Hora": "23/06/2026 07:39",
     "VIDEOTELEMTRIA": "SIM",
-    "Itens Danificados": NaN,
+    "Itens Danificados": null,
     "Estado de Criticidade Veículo": "Leve(Liberado)",
     "Observacoes": "Sem avaria.",
     "ID COLABORADOR": "251310",
     "ID DO AVALIADOR(A)": "272640",
     "Abrir Os": "NÃO",
-    "Os": NaN,
-    "Abrir Os ": "NÃO"
+    "Os": null,
+    "Abrir Os ": "NÃO",
+    "Unnamed: 21": null
   },
   {
     "ID": "3737197",
@@ -15999,14 +16669,15 @@ const CHECKLIST_VEICULAR_DATA = [
     "Condutor": "Reginaldo Fernando Mantovani ",
     "Data Hora": "23/06/2026 14:58",
     "VIDEOTELEMTRIA": "SIM",
-    "Itens Danificados": NaN,
+    "Itens Danificados": null,
     "Estado de Criticidade Veículo": "Leve(Liberado)",
     "Observacoes": "Sem avaria.",
     "ID COLABORADOR": "260910",
     "ID DO AVALIADOR(A)": "272640",
     "Abrir Os": "NÃO",
-    "Os": NaN,
-    "Abrir Os ": "NÃO"
+    "Os": null,
+    "Abrir Os ": "NÃO",
+    "Unnamed: 21": null
   },
   {
     "ID": "3737198",
@@ -16023,14 +16694,15 @@ const CHECKLIST_VEICULAR_DATA = [
     "Condutor": "Décio Araújo Fernandes ",
     "Data Hora": "23/06/2026 15:06",
     "VIDEOTELEMTRIA": "SIM",
-    "Itens Danificados": NaN,
+    "Itens Danificados": null,
     "Estado de Criticidade Veículo": "Leve(Liberado)",
     "Observacoes": "Sem avaria.",
     "ID COLABORADOR": "205382",
     "ID DO AVALIADOR(A)": "272640",
     "Abrir Os": "NÃO",
-    "Os": NaN,
-    "Abrir Os ": "NÃO"
+    "Os": null,
+    "Abrir Os ": "NÃO",
+    "Unnamed: 21": null
   },
   {
     "ID": "3737199",
@@ -16047,14 +16719,15 @@ const CHECKLIST_VEICULAR_DATA = [
     "Condutor": "Henrique Mendes Ferreira ",
     "Data Hora": "24/06/2026 13:12",
     "VIDEOTELEMTRIA": "SIM",
-    "Itens Danificados": NaN,
+    "Itens Danificados": null,
     "Estado de Criticidade Veículo": "Leve(Liberado)",
     "Observacoes": "Sem avaria.",
     "ID COLABORADOR": "269710",
     "ID DO AVALIADOR(A)": "272640",
     "Abrir Os": "NÃO",
-    "Os": NaN,
-    "Abrir Os ": "NÃO"
+    "Os": null,
+    "Abrir Os ": "NÃO",
+    "Unnamed: 21": null
   },
   {
     "ID": "3737201",
@@ -16071,14 +16744,15 @@ const CHECKLIST_VEICULAR_DATA = [
     "Condutor": "Wellington Martins Bento ",
     "Data Hora": "24/06/2026 14:20",
     "VIDEOTELEMTRIA": "SIM",
-    "Itens Danificados": NaN,
+    "Itens Danificados": null,
     "Estado de Criticidade Veículo": "Leve(Liberado)",
     "Observacoes": "Sem avaria.Fotos não visualizadas devido à chuva.",
     "ID COLABORADOR": "232100",
     "ID DO AVALIADOR(A)": "272640",
     "Abrir Os": "NÃO",
-    "Os": NaN,
-    "Abrir Os ": "NÃO"
+    "Os": null,
+    "Abrir Os ": "NÃO",
+    "Unnamed: 21": null
   },
   {
     "ID": "3737202",
@@ -16095,14 +16769,15 @@ const CHECKLIST_VEICULAR_DATA = [
     "Condutor": "Pedro Augusto Silva ",
     "Data Hora": "24/06/2026 14:46",
     "VIDEOTELEMTRIA": "SIM",
-    "Itens Danificados": NaN,
+    "Itens Danificados": null,
     "Estado de Criticidade Veículo": "Leve(Liberado)",
     "Observacoes": "Sem avaria.",
     "ID COLABORADOR": "270270",
     "ID DO AVALIADOR(A)": "272640",
     "Abrir Os": "NÃO",
-    "Os": NaN,
-    "Abrir Os ": "NÃO"
+    "Os": null,
+    "Abrir Os ": "NÃO",
+    "Unnamed: 21": null
   },
   {
     "ID": "3737203",
@@ -16119,14 +16794,15 @@ const CHECKLIST_VEICULAR_DATA = [
     "Condutor": "Alex Rodrigo Bueno ",
     "Data Hora": "24/06/2026 14:50",
     "VIDEOTELEMTRIA": "NÃO",
-    "Itens Danificados": NaN,
+    "Itens Danificados": null,
     "Estado de Criticidade Veículo": "Leve(Liberado)",
     "Observacoes": "Sem avaria.",
-    "ID COLABORADOR": NaN,
+    "ID COLABORADOR": null,
     "ID DO AVALIADOR(A)": "272640",
     "Abrir Os": "NÃO",
-    "Os": NaN,
-    "Abrir Os ": "NÃO"
+    "Os": null,
+    "Abrir Os ": "NÃO",
+    "Unnamed: 21": null
   },
   {
     "ID": "3739721",
@@ -16143,14 +16819,15 @@ const CHECKLIST_VEICULAR_DATA = [
     "Condutor": "Reinan Mota de Oliveira ",
     "Data Hora": "25/06/2026 07:03",
     "VIDEOTELEMTRIA": "SIM",
-    "Itens Danificados": NaN,
+    "Itens Danificados": null,
     "Estado de Criticidade Veículo": "Leve(Liberado)",
     "Observacoes": "Sem avaria.",
     "ID COLABORADOR": "245310",
     "ID DO AVALIADOR(A)": "272640",
     "Abrir Os": "NÃO",
-    "Os": NaN,
-    "Abrir Os ": "NÃO"
+    "Os": null,
+    "Abrir Os ": "NÃO",
+    "Unnamed: 21": null
   },
   {
     "ID": "3739722",
@@ -16167,14 +16844,15 @@ const CHECKLIST_VEICULAR_DATA = [
     "Condutor": "Felipe Silva ",
     "Data Hora": "25/06/2026 08:44",
     "VIDEOTELEMTRIA": "SIM",
-    "Itens Danificados": NaN,
+    "Itens Danificados": null,
     "Estado de Criticidade Veículo": "Leve(Liberado)",
     "Observacoes": "Sem avaria.",
-    "ID COLABORADOR": NaN,
+    "ID COLABORADOR": null,
     "ID DO AVALIADOR(A)": "272640",
     "Abrir Os": "NÃO",
-    "Os": NaN,
-    "Abrir Os ": "NÃO"
+    "Os": null,
+    "Abrir Os ": "NÃO",
+    "Unnamed: 21": null
   },
   {
     "ID": "3739723",
@@ -16191,14 +16869,15 @@ const CHECKLIST_VEICULAR_DATA = [
     "Condutor": "Luis Fernando Cassezi ",
     "Data Hora": "25/06/2026 10:06",
     "VIDEOTELEMTRIA": "SIM",
-    "Itens Danificados": NaN,
+    "Itens Danificados": null,
     "Estado de Criticidade Veículo": "Leve(Liberado)",
     "Observacoes": "Sem avaria.",
-    "ID COLABORADOR": NaN,
+    "ID COLABORADOR": null,
     "ID DO AVALIADOR(A)": "272640",
     "Abrir Os": "NÃO",
-    "Os": NaN,
-    "Abrir Os ": "NÃO"
+    "Os": null,
+    "Abrir Os ": "NÃO",
+    "Unnamed: 21": null
   },
   {
     "ID": "3739724",
@@ -16215,14 +16894,15 @@ const CHECKLIST_VEICULAR_DATA = [
     "Condutor": "Alessandro da Silva ",
     "Data Hora": "25/06/2026 10:23",
     "VIDEOTELEMTRIA": "NÃO",
-    "Itens Danificados": NaN,
+    "Itens Danificados": null,
     "Estado de Criticidade Veículo": "Leve(Liberado)",
     "Observacoes": "Sem avaria.",
     "ID COLABORADOR": "262010",
     "ID DO AVALIADOR(A)": "272640",
     "Abrir Os": "NÃO",
-    "Os": NaN,
-    "Abrir Os ": "NÃO"
+    "Os": null,
+    "Abrir Os ": "NÃO",
+    "Unnamed: 21": null
   },
   {
     "ID": "3739726",
@@ -16239,14 +16919,15 @@ const CHECKLIST_VEICULAR_DATA = [
     "Condutor": "Joyce Rodrigues Rebouças ",
     "Data Hora": "26/06/2026 07:12",
     "VIDEOTELEMTRIA": "SIM",
-    "Itens Danificados": NaN,
+    "Itens Danificados": null,
     "Estado de Criticidade Veículo": "Leve(Liberado)",
     "Observacoes": "Sem avaria.",
     "ID COLABORADOR": "283700",
     "ID DO AVALIADOR(A)": "272640",
     "Abrir Os": "NÃO",
-    "Os": NaN,
-    "Abrir Os ": "NÃO"
+    "Os": null,
+    "Abrir Os ": "NÃO",
+    "Unnamed: 21": null
   },
   {
     "ID": "3739727",
@@ -16263,14 +16944,15 @@ const CHECKLIST_VEICULAR_DATA = [
     "Condutor": "Eduarda Aparecida da Rocha",
     "Data Hora": "26/06/2026 09:43",
     "VIDEOTELEMTRIA": "SIM",
-    "Itens Danificados": NaN,
+    "Itens Danificados": null,
     "Estado de Criticidade Veículo": "Moderado(Condutor notificado)",
     "Observacoes": "Parachoque Dianteiro (quebrado)Aguardando peça chegar no PAC.",
-    "ID COLABORADOR": NaN,
+    "ID COLABORADOR": null,
     "ID DO AVALIADOR(A)": "272640",
     "Abrir Os": "NÃO",
-    "Os": NaN,
-    "Abrir Os ": "NÃO"
+    "Os": null,
+    "Abrir Os ": "NÃO",
+    "Unnamed: 21": null
   },
   {
     "ID": "3739728",
@@ -16287,14 +16969,15 @@ const CHECKLIST_VEICULAR_DATA = [
     "Condutor": "Eduardo Franco Nogueira ",
     "Data Hora": "26/06/2026 11:03",
     "VIDEOTELEMTRIA": "NÃO",
-    "Itens Danificados": NaN,
+    "Itens Danificados": null,
     "Estado de Criticidade Veículo": "Leve(Liberado)",
     "Observacoes": "Sem avaria.",
     "ID COLABORADOR": "250700",
     "ID DO AVALIADOR(A)": "272640",
     "Abrir Os": "NÃO",
-    "Os": NaN,
-    "Abrir Os ": "NÃO"
+    "Os": null,
+    "Abrir Os ": "NÃO",
+    "Unnamed: 21": null
   },
   {
     "ID": "3739729",
@@ -16311,14 +16994,15 @@ const CHECKLIST_VEICULAR_DATA = [
     "Condutor": "José Ricardo do Carmo ",
     "Data Hora": "26/06/2026 11:09",
     "VIDEOTELEMTRIA": "SIM",
-    "Itens Danificados": NaN,
+    "Itens Danificados": null,
     "Estado de Criticidade Veículo": "Leve(Liberado)",
     "Observacoes": "Sem avaria.",
     "ID COLABORADOR": "84165",
     "ID DO AVALIADOR(A)": "272640",
     "Abrir Os": "NÃO",
-    "Os": NaN,
-    "Abrir Os ": "NÃO"
+    "Os": null,
+    "Abrir Os ": "NÃO",
+    "Unnamed: 21": null
   },
   {
     "ID": "3739730",
@@ -16335,14 +17019,15 @@ const CHECKLIST_VEICULAR_DATA = [
     "Condutor": "Giliard Tavares ",
     "Data Hora": "26/06/2026 11:28",
     "VIDEOTELEMTRIA": "NÃO",
-    "Itens Danificados": NaN,
+    "Itens Danificados": null,
     "Estado de Criticidade Veículo": "Leve(Liberado)",
     "Observacoes": "Sem avaria.",
     "ID COLABORADOR": "284510",
     "ID DO AVALIADOR(A)": "272640",
     "Abrir Os": "NÃO",
-    "Os": NaN,
-    "Abrir Os ": "NÃO"
+    "Os": null,
+    "Abrir Os ": "NÃO",
+    "Unnamed: 21": null
   },
   {
     "ID": "3739731",
@@ -16359,14 +17044,15 @@ const CHECKLIST_VEICULAR_DATA = [
     "Condutor": "Onofre Evangelista da Silva Junior ",
     "Data Hora": "26/06/2026 14:39",
     "VIDEOTELEMTRIA": "SIM",
-    "Itens Danificados": NaN,
+    "Itens Danificados": null,
     "Estado de Criticidade Veículo": "Leve(Liberado)",
     "Observacoes": "Sem avaria.",
     "ID COLABORADOR": "163363",
     "ID DO AVALIADOR(A)": "272640",
     "Abrir Os": "NÃO",
-    "Os": NaN,
-    "Abrir Os ": "NÃO"
+    "Os": null,
+    "Abrir Os ": "NÃO",
+    "Unnamed: 21": null
   },
   {
     "ID": "3739956",
@@ -16383,14 +17069,15 @@ const CHECKLIST_VEICULAR_DATA = [
     "Condutor": "Jussara Soares de Souza ",
     "Data Hora": "26/06/2026 15:47",
     "VIDEOTELEMTRIA": "NÃO",
-    "Itens Danificados": NaN,
+    "Itens Danificados": null,
     "Estado de Criticidade Veículo": "Leve(Liberado)",
     "Observacoes": "Sem avaria.",
     "ID COLABORADOR": "272640",
     "ID DO AVALIADOR(A)": "272640",
     "Abrir Os": "NÃO",
-    "Os": NaN,
-    "Abrir Os ": "NÃO"
+    "Os": null,
+    "Abrir Os ": "NÃO",
+    "Unnamed: 21": null
   },
   {
     "ID": "3739957",
@@ -16407,14 +17094,15 @@ const CHECKLIST_VEICULAR_DATA = [
     "Condutor": "Jussara Soares de Souza ",
     "Data Hora": "26/06/2026 16:27",
     "VIDEOTELEMTRIA": "SIM",
-    "Itens Danificados": NaN,
+    "Itens Danificados": null,
     "Estado de Criticidade Veículo": "Leve(Liberado)",
     "Observacoes": "Sem avaria.",
     "ID COLABORADOR": "272640",
     "ID DO AVALIADOR(A)": "272640",
     "Abrir Os": "NÃO",
-    "Os": NaN,
-    "Abrir Os ": "NÃO"
+    "Os": null,
+    "Abrir Os ": "NÃO",
+    "Unnamed: 21": null
   },
   {
     "ID": "3746311",
@@ -16431,14 +17119,15 @@ const CHECKLIST_VEICULAR_DATA = [
     "Condutor": "Ronildo Barbosa ",
     "Data Hora": "29/06/2026 07:42",
     "VIDEOTELEMTRIA": "SIM",
-    "Itens Danificados": NaN,
+    "Itens Danificados": null,
     "Estado de Criticidade Veículo": "Moderado(Condutor notificado)",
     "Observacoes": "Esguicho (não funciona)",
     "ID COLABORADOR": "81103",
     "ID DO AVALIADOR(A)": "272640",
     "Abrir Os": "SIM",
-    "Os": NaN,
-    "Abrir Os ": "SIM"
+    "Os": null,
+    "Abrir Os ": "SIM",
+    "Unnamed: 21": null
   },
   {
     "ID": "3746312",
@@ -16455,14 +17144,15 @@ const CHECKLIST_VEICULAR_DATA = [
     "Condutor": "Reinan Mota de Oliveira ",
     "Data Hora": "29/06/2026 07:58",
     "VIDEOTELEMTRIA": "SIM",
-    "Itens Danificados": NaN,
+    "Itens Danificados": null,
     "Estado de Criticidade Veículo": "Leve(Liberado)",
     "Observacoes": "Sem avaria.",
     "ID COLABORADOR": "245310",
     "ID DO AVALIADOR(A)": "272640",
     "Abrir Os": "NÃO",
-    "Os": NaN,
-    "Abrir Os ": "NÃO"
+    "Os": null,
+    "Abrir Os ": "NÃO",
+    "Unnamed: 21": null
   },
   {
     "ID": "3746313",
@@ -16479,14 +17169,15 @@ const CHECKLIST_VEICULAR_DATA = [
     "Condutor": "Rafael César Ferreira ",
     "Data Hora": "29/06/2026 08:05",
     "VIDEOTELEMTRIA": "SIM",
-    "Itens Danificados": NaN,
+    "Itens Danificados": null,
     "Estado de Criticidade Veículo": "Moderado(Condutor notificado)",
     "Observacoes": "Amassado na lateral do paralama esquerdo.",
     "ID COLABORADOR": "251130",
     "ID DO AVALIADOR(A)": "272640",
     "Abrir Os": "SIM",
     "Os": "744574",
-    "Abrir Os ": "SIM"
+    "Abrir Os ": "SIM",
+    "Unnamed: 21": null
   },
   {
     "ID": "3746314",
@@ -16503,14 +17194,15 @@ const CHECKLIST_VEICULAR_DATA = [
     "Condutor": "Gilmar Rebouças ",
     "Data Hora": "29/06/2026 08:30",
     "VIDEOTELEMTRIA": "SIM",
-    "Itens Danificados": NaN,
+    "Itens Danificados": null,
     "Estado de Criticidade Veículo": "Leve(Liberado)",
     "Observacoes": "Sem avaria.",
-    "ID COLABORADOR": NaN,
+    "ID COLABORADOR": null,
     "ID DO AVALIADOR(A)": "272640",
     "Abrir Os": "NÃO",
-    "Os": NaN,
-    "Abrir Os ": "NÃO"
+    "Os": null,
+    "Abrir Os ": "NÃO",
+    "Unnamed: 21": null
   },
   {
     "ID": "3746315",
@@ -16527,14 +17219,15 @@ const CHECKLIST_VEICULAR_DATA = [
     "Condutor": "Tiago Damião Louzada ",
     "Data Hora": "29/06/2026 08:43",
     "VIDEOTELEMTRIA": "SIM",
-    "Itens Danificados": NaN,
+    "Itens Danificados": null,
     "Estado de Criticidade Veículo": "Leve(Liberado)",
     "Observacoes": "Sem avaria.",
     "ID COLABORADOR": "5",
     "ID DO AVALIADOR(A)": "272640",
     "Abrir Os": "NÃO",
-    "Os": NaN,
-    "Abrir Os ": "NÃO"
+    "Os": null,
+    "Abrir Os ": "NÃO",
+    "Unnamed: 21": null
   },
   {
     "ID": "3746316",
@@ -16551,14 +17244,15 @@ const CHECKLIST_VEICULAR_DATA = [
     "Condutor": "Ruan de Freitas Dias ",
     "Data Hora": "29/06/2026 09:11",
     "VIDEOTELEMTRIA": "SIM",
-    "Itens Danificados": NaN,
+    "Itens Danificados": null,
     "Estado de Criticidade Veículo": "Leve(Liberado)",
     "Observacoes": "Sem avaria.",
     "ID COLABORADOR": "273990",
     "ID DO AVALIADOR(A)": "272640",
     "Abrir Os": "NÃO",
-    "Os": NaN,
-    "Abrir Os ": "NÃO"
+    "Os": null,
+    "Abrir Os ": "NÃO",
+    "Unnamed: 21": null
   },
   {
     "ID": "3746317",
@@ -16575,14 +17269,15 @@ const CHECKLIST_VEICULAR_DATA = [
     "Condutor": "Nicolas Tonani Garoni",
     "Data Hora": "29/06/2026 09:31",
     "VIDEOTELEMTRIA": "NÃO",
-    "Itens Danificados": NaN,
+    "Itens Danificados": null,
     "Estado de Criticidade Veículo": "Leve(Liberado)",
     "Observacoes": "Sem avaria.",
     "ID COLABORADOR": "240500",
     "ID DO AVALIADOR(A)": "272640",
     "Abrir Os": "NÃO",
-    "Os": NaN,
-    "Abrir Os ": "NÃO"
+    "Os": null,
+    "Abrir Os ": "NÃO",
+    "Unnamed: 21": null
   },
   {
     "ID": "3746318",
@@ -16599,14 +17294,15 @@ const CHECKLIST_VEICULAR_DATA = [
     "Condutor": "Antonio Marcos Ribeiro Ruas ",
     "Data Hora": "29/06/2026 12:47",
     "VIDEOTELEMTRIA": "SIM",
-    "Itens Danificados": NaN,
+    "Itens Danificados": null,
     "Estado de Criticidade Veículo": "Leve(Liberado)",
     "Observacoes": "Sem avaria.",
     "ID COLABORADOR": "183702",
     "ID DO AVALIADOR(A)": "272640",
     "Abrir Os": "SIM",
-    "Os": NaN,
-    "Abrir Os ": "SIM"
+    "Os": null,
+    "Abrir Os ": "SIM",
+    "Unnamed: 21": null
   },
   {
     "ID": "3746319",
@@ -16623,14 +17319,15 @@ const CHECKLIST_VEICULAR_DATA = [
     "Condutor": "Rafael César Ferreira ",
     "Data Hora": "29/06/2026 16:09",
     "VIDEOTELEMTRIA": "SIM",
-    "Itens Danificados": NaN,
+    "Itens Danificados": null,
     "Estado de Criticidade Veículo": "Leve(Liberado)",
     "Observacoes": "Checklist pós manutenção: Concluído ",
     "ID COLABORADOR": "251130",
     "ID DO AVALIADOR(A)": "272640",
     "Abrir Os": "NÃO",
-    "Os": NaN,
-    "Abrir Os ": "NÃO"
+    "Os": null,
+    "Abrir Os ": "NÃO",
+    "Unnamed: 21": null
   },
   {
     "ID": "3746320",
@@ -16647,14 +17344,15 @@ const CHECKLIST_VEICULAR_DATA = [
     "Condutor": "Nayobe Kellen Martins da Silva ",
     "Data Hora": "30/06/2026 07:40",
     "VIDEOTELEMTRIA": "SIM",
-    "Itens Danificados": NaN,
+    "Itens Danificados": null,
     "Estado de Criticidade Veículo": "Moderado(Condutor notificado)",
     "Observacoes": "Luz da placa esquerda (queimada)",
     "ID COLABORADOR": "283170",
     "ID DO AVALIADOR(A)": "272640",
     "Abrir Os": "SIM",
-    "Os": NaN,
-    "Abrir Os ": "SIM"
+    "Os": null,
+    "Abrir Os ": "SIM",
+    "Unnamed: 21": null
   },
   {
     "ID": "3746321",
@@ -16671,14 +17369,15 @@ const CHECKLIST_VEICULAR_DATA = [
     "Condutor": "Josni Adriano Silva ",
     "Data Hora": "30/06/2026 08:08",
     "VIDEOTELEMTRIA": "SIM",
-    "Itens Danificados": NaN,
+    "Itens Danificados": null,
     "Estado de Criticidade Veículo": "Leve(Liberado)",
     "Observacoes": "Sem avaria.",
     "ID COLABORADOR": "198420",
     "ID DO AVALIADOR(A)": "272640",
     "Abrir Os": "NÃO",
-    "Os": NaN,
-    "Abrir Os ": "NÃO"
+    "Os": null,
+    "Abrir Os ": "NÃO",
+    "Unnamed: 21": null
   },
   {
     "ID": "3746322",
@@ -16695,14 +17394,15 @@ const CHECKLIST_VEICULAR_DATA = [
     "Condutor": "Antonio Benedito Cassezi ",
     "Data Hora": "30/06/2026 08:27",
     "VIDEOTELEMTRIA": "NÃO",
-    "Itens Danificados": NaN,
+    "Itens Danificados": null,
     "Estado de Criticidade Veículo": "Leve(Liberado)",
     "Observacoes": "Sem avaria.",
     "ID COLABORADOR": "96520",
     "ID DO AVALIADOR(A)": "272640",
     "Abrir Os": "NÃO",
-    "Os": NaN,
-    "Abrir Os ": "NÃO"
+    "Os": null,
+    "Abrir Os ": "NÃO",
+    "Unnamed: 21": null
   },
   {
     "ID": "3746323",
@@ -16719,14 +17419,15 @@ const CHECKLIST_VEICULAR_DATA = [
     "Condutor": "Eduardo Franco Nogueira ",
     "Data Hora": "30/06/2026 09:47",
     "VIDEOTELEMTRIA": "SIM",
-    "Itens Danificados": NaN,
+    "Itens Danificados": null,
     "Estado de Criticidade Veículo": "Leve(Liberado)",
     "Observacoes": "Sem avaria. Retornado em operação na data 30/06",
     "ID COLABORADOR": "250700",
     "ID DO AVALIADOR(A)": "272640",
     "Abrir Os": "NÃO",
-    "Os": NaN,
-    "Abrir Os ": "NÃO"
+    "Os": null,
+    "Abrir Os ": "NÃO",
+    "Unnamed: 21": null
   },
   {
     "ID": "3746324",
@@ -16743,14 +17444,15 @@ const CHECKLIST_VEICULAR_DATA = [
     "Condutor": "Felipe Camolezi",
     "Data Hora": "30/06/2026 10:36",
     "VIDEOTELEMTRIA": "SIM",
-    "Itens Danificados": NaN,
+    "Itens Danificados": null,
     "Estado de Criticidade Veículo": "Leve(Liberado)",
     "Observacoes": "Sem avaria.",
     "ID COLABORADOR": "280400",
     "ID DO AVALIADOR(A)": "272640",
     "Abrir Os": "NÃO",
-    "Os": NaN,
-    "Abrir Os ": "NÃO"
+    "Os": null,
+    "Abrir Os ": "NÃO",
+    "Unnamed: 21": null
   },
   {
     "ID": "3746325",
@@ -16767,14 +17469,15 @@ const CHECKLIST_VEICULAR_DATA = [
     "Condutor": "Ana Maria de Melo Cassezi ",
     "Data Hora": "30/06/2026 11:30",
     "VIDEOTELEMTRIA": "SIM",
-    "Itens Danificados": NaN,
+    "Itens Danificados": null,
     "Estado de Criticidade Veículo": "Leve(Liberado)",
     "Observacoes": "Sem avaria.",
     "ID COLABORADOR": "268860",
     "ID DO AVALIADOR(A)": "272640",
     "Abrir Os": "NÃO",
-    "Os": NaN,
-    "Abrir Os ": "NÃO"
+    "Os": null,
+    "Abrir Os ": "NÃO",
+    "Unnamed: 21": null
   },
   {
     "ID": "3746326",
@@ -16791,14 +17494,15 @@ const CHECKLIST_VEICULAR_DATA = [
     "Condutor": "Mildo Sérgio Veroneze",
     "Data Hora": "30/06/2026 14:30",
     "VIDEOTELEMTRIA": "SIM",
-    "Itens Danificados": NaN,
+    "Itens Danificados": null,
     "Estado de Criticidade Veículo": "Leve(Liberado)",
     "Observacoes": "Checklist pós manutenção: Concluído ",
     "ID COLABORADOR": "273450",
     "ID DO AVALIADOR(A)": "272640",
     "Abrir Os": "NÃO",
-    "Os": NaN,
-    "Abrir Os ": "NÃO"
+    "Os": null,
+    "Abrir Os ": "NÃO",
+    "Unnamed: 21": null
   },
   {
     "ID": "3754518",
@@ -16815,14 +17519,15 @@ const CHECKLIST_VEICULAR_DATA = [
     "Condutor": "César Fabiano Mineiro ",
     "Data Hora": "02/07/2026 10:31",
     "VIDEOTELEMTRIA": "SIM",
-    "Itens Danificados": NaN,
+    "Itens Danificados": null,
     "Estado de Criticidade Veículo": "Leve(Liberado)",
     "Observacoes": "Sem avaria.",
     "ID COLABORADOR": "2100",
     "ID DO AVALIADOR(A)": "272640",
     "Abrir Os": "NÃO",
-    "Os": NaN,
-    "Abrir Os ": "NÃO"
+    "Os": null,
+    "Abrir Os ": "NÃO",
+    "Unnamed: 21": null
   },
   {
     "ID": "3754519",
@@ -16839,14 +17544,15 @@ const CHECKLIST_VEICULAR_DATA = [
     "Condutor": "Daniel Ferreira da Cruz Neto ",
     "Data Hora": "02/07/2026 12:59",
     "VIDEOTELEMTRIA": "SIM",
-    "Itens Danificados": NaN,
+    "Itens Danificados": null,
     "Estado de Criticidade Veículo": "Leve(Liberado)",
-    "Observacoes": NaN,
+    "Observacoes": null,
     "ID COLABORADOR": "266350",
     "ID DO AVALIADOR(A)": "272640",
     "Abrir Os": "NÃO",
-    "Os": NaN,
-    "Abrir Os ": "NÃO"
+    "Os": null,
+    "Abrir Os ": "NÃO",
+    "Unnamed: 21": null
   },
   {
     "ID": "3754520",
@@ -16863,14 +17569,15 @@ const CHECKLIST_VEICULAR_DATA = [
     "Condutor": "Jhonnes Alves Moura ",
     "Data Hora": "02/07/2026 14:12",
     "VIDEOTELEMTRIA": "SIM",
-    "Itens Danificados": NaN,
+    "Itens Danificados": null,
     "Estado de Criticidade Veículo": "Leve(Liberado)",
     "Observacoes": "Sem avaria.",
     "ID COLABORADOR": "212301",
     "ID DO AVALIADOR(A)": "272640",
     "Abrir Os": "NÃO",
-    "Os": NaN,
-    "Abrir Os ": "NÃO"
+    "Os": null,
+    "Abrir Os ": "NÃO",
+    "Unnamed: 21": null
   },
   {
     "ID": "3754525",
@@ -16887,14 +17594,15 @@ const CHECKLIST_VEICULAR_DATA = [
     "Condutor": "Anderson Ricardo Ruaro ",
     "Data Hora": "02/07/2026 15:52",
     "VIDEOTELEMTRIA": "NÃO",
-    "Itens Danificados": NaN,
+    "Itens Danificados": null,
     "Estado de Criticidade Veículo": "Leve(Liberado)",
     "Observacoes": "Sem avaria.",
     "ID COLABORADOR": "168907",
     "ID DO AVALIADOR(A)": "272640",
     "Abrir Os": "NÃO",
-    "Os": NaN,
-    "Abrir Os ": "NÃO"
+    "Os": null,
+    "Abrir Os ": "NÃO",
+    "Unnamed: 21": null
   },
   {
     "ID": "3754526",
@@ -16911,14 +17619,15 @@ const CHECKLIST_VEICULAR_DATA = [
     "Condutor": "Reinan Mota de Oliveira ",
     "Data Hora": "03/07/2026 07:07",
     "VIDEOTELEMTRIA": "SIM",
-    "Itens Danificados": NaN,
+    "Itens Danificados": null,
     "Estado de Criticidade Veículo": "Leve(Liberado)",
     "Observacoes": "Sem avaria.",
     "ID COLABORADOR": "245310",
     "ID DO AVALIADOR(A)": "272640",
     "Abrir Os": "NÃO",
-    "Os": NaN,
-    "Abrir Os ": "NÃO"
+    "Os": null,
+    "Abrir Os ": "NÃO",
+    "Unnamed: 21": null
   },
   {
     "ID": "3754529",
@@ -16935,14 +17644,15 @@ const CHECKLIST_VEICULAR_DATA = [
     "Condutor": "Luiz Alfredo de Souza ",
     "Data Hora": "03/07/2026 07:16",
     "VIDEOTELEMTRIA": "SIM",
-    "Itens Danificados": NaN,
+    "Itens Danificados": null,
     "Estado de Criticidade Veículo": "Leve(Liberado)",
     "Observacoes": "Sem avaria. ",
     "ID COLABORADOR": "5423",
     "ID DO AVALIADOR(A)": "272640",
     "Abrir Os": "NÃO",
-    "Os": NaN,
-    "Abrir Os ": "NÃO"
+    "Os": null,
+    "Abrir Os ": "NÃO",
+    "Unnamed: 21": null
   },
   {
     "ID": "3754534",
@@ -16959,14 +17669,15 @@ const CHECKLIST_VEICULAR_DATA = [
     "Condutor": "Arthur Luiz Marioto da Silva ",
     "Data Hora": "02/07/2026 14:15",
     "VIDEOTELEMTRIA": "SIM",
-    "Itens Danificados": NaN,
+    "Itens Danificados": null,
     "Estado de Criticidade Veículo": "Leve(Liberado)",
     "Observacoes": "Sem avaria.",
     "ID COLABORADOR": "272760",
     "ID DO AVALIADOR(A)": "272640",
     "Abrir Os": "NÃO",
-    "Os": NaN,
-    "Abrir Os ": "NÃO"
+    "Os": null,
+    "Abrir Os ": "NÃO",
+    "Unnamed: 21": null
   },
   {
     "ID": "3754539",
@@ -16983,14 +17694,15 @@ const CHECKLIST_VEICULAR_DATA = [
     "Condutor": "Onofre Evangelista Silva Junior",
     "Data Hora": "02/07/2026 15:49",
     "VIDEOTELEMTRIA": "NÃO",
-    "Itens Danificados": NaN,
+    "Itens Danificados": null,
     "Estado de Criticidade Veículo": "Leve(Liberado)",
     "Observacoes": "Sem avaria.",
     "ID COLABORADOR": "163363",
     "ID DO AVALIADOR(A)": "272640",
     "Abrir Os": "NÃO",
-    "Os": NaN,
-    "Abrir Os ": "NÃO"
+    "Os": null,
+    "Abrir Os ": "NÃO",
+    "Unnamed: 21": null
   },
   {
     "ID": "3755533",
@@ -17007,14 +17719,15 @@ const CHECKLIST_VEICULAR_DATA = [
     "Condutor": "Jhonnes Alves Moura ",
     "Data Hora": "03/07/2026 13:46",
     "VIDEOTELEMTRIA": "SIM",
-    "Itens Danificados": NaN,
+    "Itens Danificados": null,
     "Estado de Criticidade Veículo": "Leve(Liberado)",
     "Observacoes": "Sem avaria.",
     "ID COLABORADOR": "212301",
     "ID DO AVALIADOR(A)": "272640",
     "Abrir Os": "NÃO",
-    "Os": NaN,
-    "Abrir Os ": "NÃO"
+    "Os": null,
+    "Abrir Os ": "NÃO",
+    "Unnamed: 21": null
   },
   {
     "ID": "3755534",
@@ -17031,14 +17744,15 @@ const CHECKLIST_VEICULAR_DATA = [
     "Condutor": "Antonio Marcos Souza ",
     "Data Hora": "03/07/2026 13:49",
     "VIDEOTELEMTRIA": "NÃO",
-    "Itens Danificados": NaN,
+    "Itens Danificados": null,
     "Estado de Criticidade Veículo": "Leve(Liberado)",
     "Observacoes": "Sem avaria. ",
     "ID COLABORADOR": "260840",
     "ID DO AVALIADOR(A)": "272640",
     "Abrir Os": "NÃO",
-    "Os": NaN,
-    "Abrir Os ": "NÃO"
+    "Os": null,
+    "Abrir Os ": "NÃO",
+    "Unnamed: 21": null
   },
   {
     "ID": "3755535",
@@ -17055,14 +17769,15 @@ const CHECKLIST_VEICULAR_DATA = [
     "Condutor": "Pedro Henrique Andreoli ",
     "Data Hora": "03/07/2026 15:46",
     "VIDEOTELEMTRIA": "SIM",
-    "Itens Danificados": NaN,
+    "Itens Danificados": null,
     "Estado de Criticidade Veículo": "Leve(Liberado)",
     "Observacoes": "Amassado e pintura danificada lado direito na porta do passageiro.",
-    "ID COLABORADOR": NaN,
+    "ID COLABORADOR": null,
     "ID DO AVALIADOR(A)": "272640",
     "Abrir Os": "NÃO",
-    "Os": NaN,
-    "Abrir Os ": "NÃO"
+    "Os": null,
+    "Abrir Os ": "NÃO",
+    "Unnamed: 21": null
   },
   {
     "ID": "3761142",
@@ -17079,14 +17794,15 @@ const CHECKLIST_VEICULAR_DATA = [
     "Condutor": "Joyce Rodrigues Rebouças ",
     "Data Hora": "06/07/2026 07:26",
     "VIDEOTELEMTRIA": "SIM",
-    "Itens Danificados": NaN,
+    "Itens Danificados": null,
     "Estado de Criticidade Veículo": "Leve(Liberado)",
     "Observacoes": "Sem avaria.",
     "ID COLABORADOR": "283700",
     "ID DO AVALIADOR(A)": "272640",
     "Abrir Os": "NÃO",
-    "Os": NaN,
-    "Abrir Os ": "NÃO"
+    "Os": null,
+    "Abrir Os ": "NÃO",
+    "Unnamed: 21": null
   },
   {
     "ID": "3761143",
@@ -17103,14 +17819,15 @@ const CHECKLIST_VEICULAR_DATA = [
     "Condutor": "Davi Freitas Ramos ",
     "Data Hora": "06/07/2026 07:29",
     "VIDEOTELEMTRIA": "SIM",
-    "Itens Danificados": NaN,
+    "Itens Danificados": null,
     "Estado de Criticidade Veículo": "Leve(Liberado)",
     "Observacoes": "Sem avaria.",
     "ID COLABORADOR": "265970",
     "ID DO AVALIADOR(A)": "272640",
     "Abrir Os": "NÃO",
-    "Os": NaN,
-    "Abrir Os ": "NÃO"
+    "Os": null,
+    "Abrir Os ": "NÃO",
+    "Unnamed: 21": null
   },
   {
     "ID": "3761144",
@@ -17127,14 +17844,15 @@ const CHECKLIST_VEICULAR_DATA = [
     "Condutor": "Davi Freitas Ramos ",
     "Data Hora": "06/07/2026 07:48",
     "VIDEOTELEMTRIA": "NÃO",
-    "Itens Danificados": NaN,
+    "Itens Danificados": null,
     "Estado de Criticidade Veículo": "Leve(Liberado)",
     "Observacoes": "Sem avaria.",
     "ID COLABORADOR": "265970",
     "ID DO AVALIADOR(A)": "272640",
     "Abrir Os": "NÃO",
-    "Os": NaN,
-    "Abrir Os ": "NÃO"
+    "Os": null,
+    "Abrir Os ": "NÃO",
+    "Unnamed: 21": null
   },
   {
     "ID": "3761145",
@@ -17151,14 +17869,15 @@ const CHECKLIST_VEICULAR_DATA = [
     "Condutor": "Jonatas da Silva Leves",
     "Data Hora": "06/07/2026 07:57",
     "VIDEOTELEMTRIA": "SIM",
-    "Itens Danificados": NaN,
+    "Itens Danificados": null,
     "Estado de Criticidade Veículo": "Moderado(Condutor notificado)",
     "Observacoes": "Luz baixa direita (queimada)",
     "ID COLABORADOR": "279140",
     "ID DO AVALIADOR(A)": "272640",
     "Abrir Os": "NÃO",
-    "Os": NaN,
-    "Abrir Os ": "NÃO"
+    "Os": null,
+    "Abrir Os ": "NÃO",
+    "Unnamed: 21": null
   },
   {
     "ID": "3761146",
@@ -17175,14 +17894,15 @@ const CHECKLIST_VEICULAR_DATA = [
     "Condutor": "Rafael César Ferreira ",
     "Data Hora": "06/07/2026 09:49",
     "VIDEOTELEMTRIA": "SIM",
-    "Itens Danificados": NaN,
+    "Itens Danificados": null,
     "Estado de Criticidade Veículo": "Leve(Liberado)",
     "Observacoes": "Sem avaria.",
     "ID COLABORADOR": "251130",
     "ID DO AVALIADOR(A)": "272640",
     "Abrir Os": "NÃO",
-    "Os": NaN,
-    "Abrir Os ": "NÃO"
+    "Os": null,
+    "Abrir Os ": "NÃO",
+    "Unnamed: 21": null
   },
   {
     "ID": "3761147",
@@ -17199,14 +17919,15 @@ const CHECKLIST_VEICULAR_DATA = [
     "Condutor": "Walison Daniel dos Santos ",
     "Data Hora": "06/07/2026 10:56",
     "VIDEOTELEMTRIA": "SIM",
-    "Itens Danificados": NaN,
+    "Itens Danificados": null,
     "Estado de Criticidade Veículo": "Leve(Liberado)",
     "Observacoes": "Sem avaria.",
     "ID COLABORADOR": "275060",
     "ID DO AVALIADOR(A)": "27265",
     "Abrir Os": "NÃO",
-    "Os": NaN,
-    "Abrir Os ": "NÃO"
+    "Os": null,
+    "Abrir Os ": "NÃO",
+    "Unnamed: 21": null
   },
   {
     "ID": "3761149",
@@ -17223,14 +17944,15 @@ const CHECKLIST_VEICULAR_DATA = [
     "Condutor": "Fernando Antonio Saviolli Desie ",
     "Data Hora": "06/07/2026 13:02",
     "VIDEOTELEMTRIA": "SIM",
-    "Itens Danificados": NaN,
+    "Itens Danificados": null,
     "Estado de Criticidade Veículo": "Leve(Liberado)",
     "Observacoes": "Sem avaria.",
     "ID COLABORADOR": "244290",
     "ID DO AVALIADOR(A)": "272640",
     "Abrir Os": "NÃO",
-    "Os": NaN,
-    "Abrir Os ": "NÃO"
+    "Os": null,
+    "Abrir Os ": "NÃO",
+    "Unnamed: 21": null
   },
   {
     "ID": "3761150",
@@ -17247,14 +17969,15 @@ const CHECKLIST_VEICULAR_DATA = [
     "Condutor": "Mildo Sérgio Veroneze",
     "Data Hora": "06/07/2026 13:44",
     "VIDEOTELEMTRIA": "SIM",
-    "Itens Danificados": NaN,
+    "Itens Danificados": null,
     "Estado de Criticidade Veículo": "Leve(Liberado)",
     "Observacoes": "Sem avaria.",
     "ID COLABORADOR": "283110",
     "ID DO AVALIADOR(A)": "272640",
     "Abrir Os": "NÃO",
-    "Os": NaN,
-    "Abrir Os ": "NÃO"
+    "Os": null,
+    "Abrir Os ": "NÃO",
+    "Unnamed: 21": null
   },
   {
     "ID": "3761151",
@@ -17271,14 +17994,15 @@ const CHECKLIST_VEICULAR_DATA = [
     "Condutor": "Walison Daniel dos Santos ",
     "Data Hora": "06/07/2026 14:12",
     "VIDEOTELEMTRIA": "SIM",
-    "Itens Danificados": NaN,
+    "Itens Danificados": null,
     "Estado de Criticidade Veículo": "Leve(Liberado)",
     "Observacoes": "Checklist pós manutenção: Concluído.",
     "ID COLABORADOR": "275060",
     "ID DO AVALIADOR(A)": "272640",
     "Abrir Os": "NÃO",
-    "Os": NaN,
-    "Abrir Os ": "NÃO"
+    "Os": null,
+    "Abrir Os ": "NÃO",
+    "Unnamed: 21": null
   },
   {
     "ID": "3761152",
@@ -17295,14 +18019,15 @@ const CHECKLIST_VEICULAR_DATA = [
     "Condutor": "Jussara Soares de Souza ",
     "Data Hora": "06/07/2026 14:28",
     "VIDEOTELEMTRIA": "SIM",
-    "Itens Danificados": NaN,
+    "Itens Danificados": null,
     "Estado de Criticidade Veículo": "Leve(Liberado)",
     "Observacoes": "Sem avaria.",
     "ID COLABORADOR": "272640",
     "ID DO AVALIADOR(A)": "272640",
     "Abrir Os": "NÃO",
-    "Os": NaN,
-    "Abrir Os ": "NÃO"
+    "Os": null,
+    "Abrir Os ": "NÃO",
+    "Unnamed: 21": null
   },
   {
     "ID": "3761153",
@@ -17319,14 +18044,15 @@ const CHECKLIST_VEICULAR_DATA = [
     "Condutor": "Reginaldo Fernando Mantovani ",
     "Data Hora": "06/07/2026 14:38",
     "VIDEOTELEMTRIA": "SIM",
-    "Itens Danificados": NaN,
+    "Itens Danificados": null,
     "Estado de Criticidade Veículo": "Leve(Liberado)",
     "Observacoes": "Sem avaria.",
     "ID COLABORADOR": "260910",
     "ID DO AVALIADOR(A)": "272640",
     "Abrir Os": "NÃO",
-    "Os": NaN,
-    "Abrir Os ": "NÃO"
+    "Os": null,
+    "Abrir Os ": "NÃO",
+    "Unnamed: 21": null
   },
   {
     "ID": "3764455",
@@ -17343,14 +18069,15 @@ const CHECKLIST_VEICULAR_DATA = [
     "Condutor": "Admir Xavier Cotrim ",
     "Data Hora": "07/07/2026 11:14",
     "VIDEOTELEMTRIA": "SIM",
-    "Itens Danificados": NaN,
+    "Itens Danificados": null,
     "Estado de Criticidade Veículo": "Leve(Liberado)",
     "Observacoes": "Sem avaria.",
     "ID COLABORADOR": "112150",
     "ID DO AVALIADOR(A)": "272640",
     "Abrir Os": "NÃO",
-    "Os": NaN,
-    "Abrir Os ": "NÃO"
+    "Os": null,
+    "Abrir Os ": "NÃO",
+    "Unnamed: 21": null
   },
   {
     "ID": "3764456",
@@ -17367,14 +18094,15 @@ const CHECKLIST_VEICULAR_DATA = [
     "Condutor": "Luiz Henrique da Silva",
     "Data Hora": "07/07/2026 13:33",
     "VIDEOTELEMTRIA": "SIM",
-    "Itens Danificados": NaN,
+    "Itens Danificados": null,
     "Estado de Criticidade Veículo": "Moderado(Condutor notificado)",
     "Observacoes": "Parachoque Dianteiro (quebrado na lateral esquerda)",
-    "ID COLABORADOR": NaN,
+    "ID COLABORADOR": null,
     "ID DO AVALIADOR(A)": "272640",
     "Abrir Os": "NÃO",
-    "Os": NaN,
-    "Abrir Os ": "NÃO"
+    "Os": null,
+    "Abrir Os ": "NÃO",
+    "Unnamed: 21": null
   },
   {
     "ID": "3764457",
@@ -17391,14 +18119,15 @@ const CHECKLIST_VEICULAR_DATA = [
     "Condutor": "Anderson Henrique Simão ",
     "Data Hora": "07/07/2026 14:52",
     "VIDEOTELEMTRIA": "SIM",
-    "Itens Danificados": NaN,
+    "Itens Danificados": null,
     "Estado de Criticidade Veículo": "Leve(Liberado)",
     "Observacoes": "Sem avaria.",
     "ID COLABORADOR": "251390",
     "ID DO AVALIADOR(A)": "272640",
     "Abrir Os": "NÃO",
-    "Os": NaN,
-    "Abrir Os ": "NÃO"
+    "Os": null,
+    "Abrir Os ": "NÃO",
+    "Unnamed: 21": null
   },
   {
     "ID": "3764458",
@@ -17415,14 +18144,15 @@ const CHECKLIST_VEICULAR_DATA = [
     "Condutor": "Luis Fernando Cassezi ",
     "Data Hora": "07/07/2026 15:43",
     "VIDEOTELEMTRIA": "SIM",
-    "Itens Danificados": NaN,
+    "Itens Danificados": null,
     "Estado de Criticidade Veículo": "Leve(Liberado)",
     "Observacoes": "Sem avaria.",
     "ID COLABORADOR": "277820",
     "ID DO AVALIADOR(A)": "272640",
     "Abrir Os": "NÃO",
-    "Os": NaN,
-    "Abrir Os ": "NÃO"
+    "Os": null,
+    "Abrir Os ": "NÃO",
+    "Unnamed: 21": null
   },
   {
     "ID": "3767354",
@@ -17439,14 +18169,15 @@ const CHECKLIST_VEICULAR_DATA = [
     "Condutor": "Jussara Soares de Souza ",
     "Data Hora": "07/07/2026 15:56",
     "VIDEOTELEMTRIA": "SIM",
-    "Itens Danificados": NaN,
+    "Itens Danificados": null,
     "Estado de Criticidade Veículo": "Leve(Liberado)",
     "Observacoes": "Sem avaria.",
     "ID COLABORADOR": "272640",
     "ID DO AVALIADOR(A)": "272640",
     "Abrir Os": "NÃO",
-    "Os": NaN,
-    "Abrir Os ": "NÃO"
+    "Os": null,
+    "Abrir Os ": "NÃO",
+    "Unnamed: 21": null
   },
   {
     "ID": "3767355",
@@ -17463,14 +18194,15 @@ const CHECKLIST_VEICULAR_DATA = [
     "Condutor": "Ricardo Aparecido da Silva ",
     "Data Hora": "08/07/2026 08:52",
     "VIDEOTELEMTRIA": "SIM",
-    "Itens Danificados": NaN,
+    "Itens Danificados": null,
     "Estado de Criticidade Veículo": "Leve(Liberado)",
     "Observacoes": "Sem avaria.",
     "ID COLABORADOR": "111909",
     "ID DO AVALIADOR(A)": "272640",
     "Abrir Os": "NÃO",
-    "Os": NaN,
-    "Abrir Os ": "NÃO"
+    "Os": null,
+    "Abrir Os ": "NÃO",
+    "Unnamed: 21": null
   },
   {
     "ID": "3767356",
@@ -17487,14 +18219,15 @@ const CHECKLIST_VEICULAR_DATA = [
     "Condutor": "Alex Rodrigo Bueno ",
     "Data Hora": "08/07/2026 10:08",
     "VIDEOTELEMTRIA": "SIM",
-    "Itens Danificados": NaN,
+    "Itens Danificados": null,
     "Estado de Criticidade Veículo": "Leve(Liberado)",
     "Observacoes": "Sem avaria.",
-    "ID COLABORADOR": NaN,
+    "ID COLABORADOR": null,
     "ID DO AVALIADOR(A)": "272640",
     "Abrir Os": "NÃO",
-    "Os": NaN,
-    "Abrir Os ": "NÃO"
+    "Os": null,
+    "Abrir Os ": "NÃO",
+    "Unnamed: 21": null
   },
   {
     "ID": "3767357",
@@ -17511,14 +18244,15 @@ const CHECKLIST_VEICULAR_DATA = [
     "Condutor": "Jussara Soares de Souza ",
     "Data Hora": "08/07/2026 11:08",
     "VIDEOTELEMTRIA": "NÃO",
-    "Itens Danificados": NaN,
+    "Itens Danificados": null,
     "Estado de Criticidade Veículo": "Leve(Liberado)",
     "Observacoes": "Sem avaria.",
     "ID COLABORADOR": "272640",
     "ID DO AVALIADOR(A)": "272640",
     "Abrir Os": "NÃO",
-    "Os": NaN,
-    "Abrir Os ": "NÃO"
+    "Os": null,
+    "Abrir Os ": "NÃO",
+    "Unnamed: 21": null
   },
   {
     "ID": "3767358",
@@ -17535,14 +18269,15 @@ const CHECKLIST_VEICULAR_DATA = [
     "Condutor": "Jussara Soares de Souza ",
     "Data Hora": "08/07/2026 11:16",
     "VIDEOTELEMTRIA": "NÃO",
-    "Itens Danificados": NaN,
+    "Itens Danificados": null,
     "Estado de Criticidade Veículo": "Leve(Liberado)",
     "Observacoes": "Sem avaria.",
     "ID COLABORADOR": "272640",
     "ID DO AVALIADOR(A)": "272640",
     "Abrir Os": "NÃO",
-    "Os": NaN,
-    "Abrir Os ": "NÃO"
+    "Os": null,
+    "Abrir Os ": "NÃO",
+    "Unnamed: 21": null
   },
   {
     "ID": "3767359",
@@ -17559,14 +18294,15 @@ const CHECKLIST_VEICULAR_DATA = [
     "Condutor": "Wadson Gomes Duarte Silva",
     "Data Hora": "08/07/2026 11:30",
     "VIDEOTELEMTRIA": "NÃO",
-    "Itens Danificados": NaN,
+    "Itens Danificados": null,
     "Estado de Criticidade Veículo": "Leve(Liberado)",
     "Observacoes": "Sem avaria.",
     "ID COLABORADOR": "284520",
     "ID DO AVALIADOR(A)": "272640",
     "Abrir Os": "NÃO",
-    "Os": NaN,
-    "Abrir Os ": "NÃO"
+    "Os": null,
+    "Abrir Os ": "NÃO",
+    "Unnamed: 21": null
   },
   {
     "ID": "3767360",
@@ -17583,14 +18319,15 @@ const CHECKLIST_VEICULAR_DATA = [
     "Condutor": "Marco Ferreira dos Santos ",
     "Data Hora": "08/07/2026 14:33",
     "VIDEOTELEMTRIA": "NÃO",
-    "Itens Danificados": NaN,
+    "Itens Danificados": null,
     "Estado de Criticidade Veículo": "Leve(Liberado)",
     "Observacoes": "Sem avaria.",
     "ID COLABORADOR": "115782",
     "ID DO AVALIADOR(A)": "272640",
     "Abrir Os": "NÃO",
-    "Os": NaN,
-    "Abrir Os ": "NÃO"
+    "Os": null,
+    "Abrir Os ": "NÃO",
+    "Unnamed: 21": null
   },
   {
     "ID": "3767361",
@@ -17607,14 +18344,15 @@ const CHECKLIST_VEICULAR_DATA = [
     "Condutor": "Ivone Lopes Faria",
     "Data Hora": "08/07/2026 14:45",
     "VIDEOTELEMTRIA": "SIM",
-    "Itens Danificados": NaN,
+    "Itens Danificados": null,
     "Estado de Criticidade Veículo": "Leve(Liberado)",
     "Observacoes": "Sem avaria.",
     "ID COLABORADOR": "283080",
     "ID DO AVALIADOR(A)": "272640",
     "Abrir Os": "NÃO",
-    "Os": NaN,
-    "Abrir Os ": "NÃO"
+    "Os": null,
+    "Abrir Os ": "NÃO",
+    "Unnamed: 21": null
   },
   {
     "ID": "3767362",
@@ -17631,14 +18369,15 @@ const CHECKLIST_VEICULAR_DATA = [
     "Condutor": "Jussara Soares de Souza ",
     "Data Hora": "08/07/2026 16:30",
     "VIDEOTELEMTRIA": "NÃO",
-    "Itens Danificados": NaN,
+    "Itens Danificados": null,
     "Estado de Criticidade Veículo": "Leve(Liberado)",
     "Observacoes": "Sem avaria.",
     "ID COLABORADOR": "272640",
     "ID DO AVALIADOR(A)": "272640",
     "Abrir Os": "NÃO",
-    "Os": NaN,
-    "Abrir Os ": "NÃO"
+    "Os": null,
+    "Abrir Os ": "NÃO",
+    "Unnamed: 21": null
   },
   {
     "ID": "3771661",
@@ -17655,14 +18394,15 @@ const CHECKLIST_VEICULAR_DATA = [
     "Condutor": "Camila Meira de Oliveira ",
     "Data Hora": "10/07/2026 07:34",
     "VIDEOTELEMTRIA": "SIM",
-    "Itens Danificados": NaN,
+    "Itens Danificados": null,
     "Estado de Criticidade Veículo": "Leve(Liberado)",
     "Observacoes": "Sem avaria.",
     "ID COLABORADOR": "284030",
     "ID DO AVALIADOR(A)": "272640",
     "Abrir Os": "NÃO",
-    "Os": NaN,
-    "Abrir Os ": "NÃO"
+    "Os": null,
+    "Abrir Os ": "NÃO",
+    "Unnamed: 21": null
   },
   {
     "ID": "3771662",
@@ -17686,7 +18426,8 @@ const CHECKLIST_VEICULAR_DATA = [
     "ID DO AVALIADOR(A)": "272640",
     "Abrir Os": "SIM",
     "Os": "747792",
-    "Abrir Os ": "SIM"
+    "Abrir Os ": "SIM",
+    "Unnamed: 21": null
   },
   {
     "ID": "3771663",
@@ -17703,14 +18444,15 @@ const CHECKLIST_VEICULAR_DATA = [
     "Condutor": "Heverton Henrique Custodio ",
     "Data Hora": "10/07/2026 09:15",
     "VIDEOTELEMTRIA": "SIM",
-    "Itens Danificados": NaN,
+    "Itens Danificados": null,
     "Estado de Criticidade Veículo": "Leve(Liberado)",
     "Observacoes": "Sem avaria.",
     "ID COLABORADOR": "266560",
     "ID DO AVALIADOR(A)": "272640",
     "Abrir Os": "NÃO",
-    "Os": NaN,
-    "Abrir Os ": "NÃO"
+    "Os": null,
+    "Abrir Os ": "NÃO",
+    "Unnamed: 21": null
   },
   {
     "ID": "3771664",
@@ -17727,14 +18469,15 @@ const CHECKLIST_VEICULAR_DATA = [
     "Condutor": "José Ricardo do Carmo ",
     "Data Hora": "10/07/2026 09:57",
     "VIDEOTELEMTRIA": "SIM",
-    "Itens Danificados": NaN,
+    "Itens Danificados": null,
     "Estado de Criticidade Veículo": "Leve(Liberado)",
     "Observacoes": "Sem avaria.",
     "ID COLABORADOR": "84165",
     "ID DO AVALIADOR(A)": "272640",
     "Abrir Os": "NÃO",
-    "Os": NaN,
-    "Abrir Os ": "NÃO"
+    "Os": null,
+    "Abrir Os ": "NÃO",
+    "Unnamed: 21": null
   },
   {
     "ID": "3771665",
@@ -17751,14 +18494,15 @@ const CHECKLIST_VEICULAR_DATA = [
     "Condutor": "Rodrigo Soares Gonçalves da Costa ",
     "Data Hora": "10/07/2026 13:40",
     "VIDEOTELEMTRIA": "SIM",
-    "Itens Danificados": NaN,
+    "Itens Danificados": null,
     "Estado de Criticidade Veículo": "Leve(Liberado)",
     "Observacoes": "Sem avaria.",
     "ID COLABORADOR": "223724",
     "ID DO AVALIADOR(A)": "272640",
     "Abrir Os": "NÃO",
-    "Os": NaN,
-    "Abrir Os ": "NÃO"
+    "Os": null,
+    "Abrir Os ": "NÃO",
+    "Unnamed: 21": null
   },
   {
     "ID": "3771666",
@@ -17775,14 +18519,15 @@ const CHECKLIST_VEICULAR_DATA = [
     "Condutor": "Juraci Rodrigues dos Santos ",
     "Data Hora": "10/07/2026 13:48",
     "VIDEOTELEMTRIA": "SIM",
-    "Itens Danificados": NaN,
+    "Itens Danificados": null,
     "Estado de Criticidade Veículo": "Leve(Liberado)",
     "Observacoes": "Sem avaria.",
     "ID COLABORADOR": "32074",
     "ID DO AVALIADOR(A)": "272640",
     "Abrir Os": "NÃO",
-    "Os": NaN,
-    "Abrir Os ": "NÃO"
+    "Os": null,
+    "Abrir Os ": "NÃO",
+    "Unnamed: 21": null
   },
   {
     "ID": "3775611",
@@ -17799,14 +18544,15 @@ const CHECKLIST_VEICULAR_DATA = [
     "Condutor": "Jussara Soares de Souza",
     "Data Hora": "10/07/2026 14:28",
     "VIDEOTELEMTRIA": "NÃO",
-    "Itens Danificados": NaN,
+    "Itens Danificados": null,
     "Estado de Criticidade Veículo": "Leve(Liberado)",
     "Observacoes": "Sem avaria.",
     "ID COLABORADOR": "272640",
     "ID DO AVALIADOR(A)": "272640",
     "Abrir Os": "NÃO",
-    "Os": NaN,
-    "Abrir Os ": "NÃO"
+    "Os": null,
+    "Abrir Os ": "NÃO",
+    "Unnamed: 21": null
   },
   {
     "ID": "3775612",
@@ -17823,14 +18569,15 @@ const CHECKLIST_VEICULAR_DATA = [
     "Condutor": "Alessandro da Silva ",
     "Data Hora": "10/07/2026 15:07",
     "VIDEOTELEMTRIA": "SIM",
-    "Itens Danificados": NaN,
+    "Itens Danificados": null,
     "Estado de Criticidade Veículo": "Leve(Liberado)",
     "Observacoes": "Sem avaria.",
     "ID COLABORADOR": "262010",
     "ID DO AVALIADOR(A)": "272640",
     "Abrir Os": "NÃO",
-    "Os": NaN,
-    "Abrir Os ": "NÃO"
+    "Os": null,
+    "Abrir Os ": "NÃO",
+    "Unnamed: 21": null
   },
   {
     "ID": "3775613",
@@ -17847,14 +18594,15 @@ const CHECKLIST_VEICULAR_DATA = [
     "Condutor": "Sérgio Henrique Rosa Gama ",
     "Data Hora": "10/07/2026 16:02",
     "VIDEOTELEMTRIA": "SIM",
-    "Itens Danificados": NaN,
+    "Itens Danificados": null,
     "Estado de Criticidade Veículo": "Leve(Liberado)",
     "Observacoes": "Sem avaria.",
     "ID COLABORADOR": "173034",
     "ID DO AVALIADOR(A)": "272640",
     "Abrir Os": "NÃO",
-    "Os": NaN,
-    "Abrir Os ": "NÃO"
+    "Os": null,
+    "Abrir Os ": "NÃO",
+    "Unnamed: 21": null
   },
   {
     "ID": "3775614",
@@ -17871,14 +18619,15 @@ const CHECKLIST_VEICULAR_DATA = [
     "Condutor": "Paulo Henrique Cardoso da Silva ",
     "Data Hora": "13/07/2026 08:59",
     "VIDEOTELEMTRIA": "SIM",
-    "Itens Danificados": NaN,
+    "Itens Danificados": null,
     "Estado de Criticidade Veículo": "Leve(Liberado)",
     "Observacoes": "Sem avaria.",
     "ID COLABORADOR": "284510",
     "ID DO AVALIADOR(A)": "272640",
     "Abrir Os": "NÃO",
-    "Os": NaN,
-    "Abrir Os ": "NÃO"
+    "Os": null,
+    "Abrir Os ": "NÃO",
+    "Unnamed: 21": null
   },
   {
     "ID": "3775615",
@@ -17895,14 +18644,15 @@ const CHECKLIST_VEICULAR_DATA = [
     "Condutor": "Agnaldo de Oliveira ",
     "Data Hora": "13/07/2026 08:57",
     "VIDEOTELEMTRIA": "SIM",
-    "Itens Danificados": NaN,
+    "Itens Danificados": null,
     "Estado de Criticidade Veículo": "Leve(Liberado)",
     "Observacoes": "Sem avaria.",
     "ID COLABORADOR": "281460",
     "ID DO AVALIADOR(A)": "272640",
     "Abrir Os": "NÃO",
-    "Os": NaN,
-    "Abrir Os ": "NÃO"
+    "Os": null,
+    "Abrir Os ": "NÃO",
+    "Unnamed: 21": null
   },
   {
     "ID": "3775616",
@@ -17919,14 +18669,15 @@ const CHECKLIST_VEICULAR_DATA = [
     "Condutor": "Vitor oficina ",
     "Data Hora": "13/07/2026 07:56",
     "VIDEOTELEMTRIA": "NÃO",
-    "Itens Danificados": NaN,
+    "Itens Danificados": null,
     "Estado de Criticidade Veículo": "Leve(Liberado)",
     "Observacoes": "Sem avaria.",
-    "ID COLABORADOR": NaN,
+    "ID COLABORADOR": null,
     "ID DO AVALIADOR(A)": "272640",
     "Abrir Os": "NÃO",
-    "Os": NaN,
-    "Abrir Os ": "NÃO"
+    "Os": null,
+    "Abrir Os ": "NÃO",
+    "Unnamed: 21": null
   },
   {
     "ID": "3775617",
@@ -17943,14 +18694,15 @@ const CHECKLIST_VEICULAR_DATA = [
     "Condutor": "Davi Freitas Ramos ",
     "Data Hora": "13/07/2026 08:08",
     "VIDEOTELEMTRIA": "SIM",
-    "Itens Danificados": NaN,
+    "Itens Danificados": null,
     "Estado de Criticidade Veículo": "Leve(Liberado)",
     "Observacoes": "Sem avaria.",
     "ID COLABORADOR": "265970",
     "ID DO AVALIADOR(A)": "272640",
     "Abrir Os": "NÃO",
-    "Os": NaN,
-    "Abrir Os ": "NÃO"
+    "Os": null,
+    "Abrir Os ": "NÃO",
+    "Unnamed: 21": null
   },
   {
     "ID": "3775618",
@@ -17967,14 +18719,15 @@ const CHECKLIST_VEICULAR_DATA = [
     "Condutor": "Fábio Junio Ferreira Barboza ",
     "Data Hora": "13/07/2026 08:15",
     "VIDEOTELEMTRIA": "SIM",
-    "Itens Danificados": NaN,
+    "Itens Danificados": null,
     "Estado de Criticidade Veículo": "Leve(Liberado)",
     "Observacoes": "Sem avaria.",
     "ID COLABORADOR": "189200",
     "ID DO AVALIADOR(A)": "272640",
     "Abrir Os": "NÃO",
-    "Os": NaN,
-    "Abrir Os ": "NÃO"
+    "Os": null,
+    "Abrir Os ": "NÃO",
+    "Unnamed: 21": null
   },
   {
     "ID": "3778368",
@@ -17998,7 +18751,8 @@ const CHECKLIST_VEICULAR_DATA = [
     "ID DO AVALIADOR(A)": "272640",
     "Abrir Os": "SIM",
     "Os": "740109",
-    "Abrir Os ": "SIM"
+    "Abrir Os ": "SIM",
+    "Unnamed: 21": null
   },
   {
     "ID": "3778369",
@@ -18021,8 +18775,9 @@ const CHECKLIST_VEICULAR_DATA = [
     "ID COLABORADOR": "236120",
     "ID DO AVALIADOR(A)": "272640",
     "Abrir Os": "SIM",
-    "Os": NaN,
-    "Abrir Os ": "SIM"
+    "Os": null,
+    "Abrir Os ": "SIM",
+    "Unnamed: 21": null
   },
   {
     "ID": "3778370",
@@ -18045,8 +18800,9 @@ const CHECKLIST_VEICULAR_DATA = [
     "ID COLABORADOR": "222586",
     "ID DO AVALIADOR(A)": "272640",
     "Abrir Os": "SIM",
-    "Os": NaN,
-    "Abrir Os ": "SIM"
+    "Os": null,
+    "Abrir Os ": "SIM",
+    "Unnamed: 21": null
   },
   {
     "ID": "3778371",
@@ -18069,8 +18825,9 @@ const CHECKLIST_VEICULAR_DATA = [
     "ID COLABORADOR": "223724",
     "ID DO AVALIADOR(A)": "272640",
     "Abrir Os": "SIM",
-    "Os": NaN,
-    "Abrir Os ": "SIM"
+    "Os": null,
+    "Abrir Os ": "SIM",
+    "Unnamed: 21": null
   },
   {
     "ID": "3778372",
@@ -18087,14 +18844,15 @@ const CHECKLIST_VEICULAR_DATA = [
     "Condutor": "Marco Ferreira dos Santos ",
     "Data Hora": "14/07/2026 08:48",
     "VIDEOTELEMTRIA": "SIM",
-    "Itens Danificados": NaN,
+    "Itens Danificados": null,
     "Estado de Criticidade Veículo": "Leve(Liberado)",
     "Observacoes": "Sem avaria.",
     "ID COLABORADOR": "115782",
     "ID DO AVALIADOR(A)": "272640",
     "Abrir Os": "NÃO",
-    "Os": NaN,
-    "Abrir Os ": "NÃO"
+    "Os": null,
+    "Abrir Os ": "NÃO",
+    "Unnamed: 21": null
   },
   {
     "ID": "3778373",
@@ -18117,8 +18875,9 @@ const CHECKLIST_VEICULAR_DATA = [
     "ID COLABORADOR": "284440",
     "ID DO AVALIADOR(A)": "272640",
     "Abrir Os": "SIM",
-    "Os": NaN,
-    "Abrir Os ": "SIM"
+    "Os": null,
+    "Abrir Os ": "SIM",
+    "Unnamed: 21": null
   },
   {
     "ID": "3778374",
@@ -18135,14 +18894,15 @@ const CHECKLIST_VEICULAR_DATA = [
     "Condutor": "Ana Maria de Melo Cassezi",
     "Data Hora": "14/07/2026 15:32",
     "VIDEOTELEMTRIA": "SIM",
-    "Itens Danificados": NaN,
+    "Itens Danificados": null,
     "Estado de Criticidade Veículo": "Leve(Liberado)",
     "Observacoes": "Sem avaria.",
     "ID COLABORADOR": "268860",
     "ID DO AVALIADOR(A)": "272640",
     "Abrir Os": "NÃO",
-    "Os": NaN,
-    "Abrir Os ": "NÃO"
+    "Os": null,
+    "Abrir Os ": "NÃO",
+    "Unnamed: 21": null
   },
   {
     "ID": "3778375",
@@ -18159,14 +18919,15 @@ const CHECKLIST_VEICULAR_DATA = [
     "Condutor": "Marco Ferreira dos Santos ",
     "Data Hora": "14/07/2026 15:46",
     "VIDEOTELEMTRIA": "SIM",
-    "Itens Danificados": NaN,
+    "Itens Danificados": null,
     "Estado de Criticidade Veículo": "Leve(Liberado)",
     "Observacoes": "Sem avaria.",
     "ID COLABORADOR": "115782",
     "ID DO AVALIADOR(A)": "272640",
     "Abrir Os": "NÃO",
-    "Os": NaN,
-    "Abrir Os ": "NÃO"
+    "Os": null,
+    "Abrir Os ": "NÃO",
+    "Unnamed: 21": null
   },
   {
     "ID": "3781181",
@@ -18183,14 +18944,15 @@ const CHECKLIST_VEICULAR_DATA = [
     "Condutor": "Edmar José Gonçalves ",
     "Data Hora": "15/07/2026 10:23",
     "VIDEOTELEMTRIA": "SIM",
-    "Itens Danificados": NaN,
+    "Itens Danificados": null,
     "Estado de Criticidade Veículo": "Leve(Liberado)",
     "Observacoes": "Sem avaria.",
     "ID COLABORADOR": "220310",
     "ID DO AVALIADOR(A)": "272640",
     "Abrir Os": "NÃO",
-    "Os": NaN,
-    "Abrir Os ": "NÃO"
+    "Os": null,
+    "Abrir Os ": "NÃO",
+    "Unnamed: 21": null
   },
   {
     "ID": "3781182",
@@ -18207,14 +18969,15 @@ const CHECKLIST_VEICULAR_DATA = [
     "Condutor": "Rafael César Ferreira ",
     "Data Hora": "15/07/2026 15:12",
     "VIDEOTELEMTRIA": "SIM",
-    "Itens Danificados": NaN,
+    "Itens Danificados": null,
     "Estado de Criticidade Veículo": "Leve(Liberado)",
     "Observacoes": "Sem avaria.",
     "ID COLABORADOR": "251130",
     "ID DO AVALIADOR(A)": "272640",
     "Abrir Os": "NÃO",
-    "Os": NaN,
-    "Abrir Os ": "NÃO"
+    "Os": null,
+    "Abrir Os ": "NÃO",
+    "Unnamed: 21": null
   },
   {
     "ID": "3781183",
@@ -18226,19 +18989,20 @@ const CHECKLIST_VEICULAR_DATA = [
     "Data Fim": "15/07/2026 16:23",
     "Status": "Open",
     "Score": "0.0",
-    "Frota": NaN,
+    "Frota": null,
     "GESTORES": "DANIEL FERREIRA DA CRUZ",
     "Condutor": "Jussara Soares de Souza ",
     "Data Hora": "15/07/2026 16:23",
     "VIDEOTELEMTRIA": "SIM",
-    "Itens Danificados": NaN,
+    "Itens Danificados": null,
     "Estado de Criticidade Veículo": "Leve(Liberado)",
     "Observacoes": "Primeiro Checklist do Veículo: Frota 468625Recebido no dia 15/07Com todos os itens obrigatórios Sem avaria.",
     "ID COLABORADOR": "272640",
     "ID DO AVALIADOR(A)": "272640",
     "Abrir Os": "NÃO",
-    "Os": NaN,
-    "Abrir Os ": "NÃO"
+    "Os": null,
+    "Abrir Os ": "NÃO",
+    "Unnamed: 21": null
   },
   {
     "ID": "3781184",
@@ -18261,8 +19025,9 @@ const CHECKLIST_VEICULAR_DATA = [
     "ID COLABORADOR": "272280",
     "ID DO AVALIADOR(A)": "272640",
     "Abrir Os": "NÃO",
-    "Os": NaN,
-    "Abrir Os ": "NÃO"
+    "Os": null,
+    "Abrir Os ": "NÃO",
+    "Unnamed: 21": null
   },
   {
     "ID": "3783683",
@@ -18279,14 +19044,15 @@ const CHECKLIST_VEICULAR_DATA = [
     "Condutor": "Alessandro da Silva ",
     "Data Hora": "16/07/2026 14:39",
     "VIDEOTELEMTRIA": "SIM",
-    "Itens Danificados": NaN,
+    "Itens Danificados": null,
     "Estado de Criticidade Veículo": "Leve(Liberado)",
     "Observacoes": "Sem avaria.",
     "ID COLABORADOR": "262010",
     "ID DO AVALIADOR(A)": "272640",
     "Abrir Os": "NÃO",
-    "Os": NaN,
-    "Abrir Os ": "NÃO"
+    "Os": null,
+    "Abrir Os ": "NÃO",
+    "Unnamed: 21": null
   },
   {
     "ID": "3783684",
@@ -18303,14 +19069,15 @@ const CHECKLIST_VEICULAR_DATA = [
     "Condutor": "Gilmar Rebouças ",
     "Data Hora": "16/07/2026 13:29",
     "VIDEOTELEMTRIA": "SIM",
-    "Itens Danificados": NaN,
+    "Itens Danificados": null,
     "Estado de Criticidade Veículo": "Leve(Liberado)",
     "Observacoes": "Sem avaria.",
-    "ID COLABORADOR": NaN,
+    "ID COLABORADOR": null,
     "ID DO AVALIADOR(A)": "272640",
     "Abrir Os": "NÃO",
-    "Os": NaN,
-    "Abrir Os ": "NÃO"
+    "Os": null,
+    "Abrir Os ": "NÃO",
+    "Unnamed: 21": null
   },
   {
     "ID": "3783685",
@@ -18333,8 +19100,9 @@ const CHECKLIST_VEICULAR_DATA = [
     "ID COLABORADOR": "262010",
     "ID DO AVALIADOR(A)": "272640",
     "Abrir Os": "NÃO",
-    "Os": NaN,
-    "Abrir Os ": "NÃO"
+    "Os": null,
+    "Abrir Os ": "NÃO",
+    "Unnamed: 21": null
   },
   {
     "ID": "3783686",
@@ -18351,14 +19119,15 @@ const CHECKLIST_VEICULAR_DATA = [
     "Condutor": "Alessandro da Silva ",
     "Data Hora": "16/07/2026 15:30",
     "VIDEOTELEMTRIA": "SIM",
-    "Itens Danificados": NaN,
+    "Itens Danificados": null,
     "Estado de Criticidade Veículo": "Leve(Liberado)",
     "Observacoes": "Sem avaria.",
     "ID COLABORADOR": "262010",
     "ID DO AVALIADOR(A)": "272640",
     "Abrir Os": "NÃO",
-    "Os": NaN,
-    "Abrir Os ": "NÃO"
+    "Os": null,
+    "Abrir Os ": "NÃO",
+    "Unnamed: 21": null
   },
   {
     "ID": "3785731",
@@ -18370,19 +19139,20 @@ const CHECKLIST_VEICULAR_DATA = [
     "Data Fim": "17/07/2026 06:57",
     "Status": "Open",
     "Score": "0.0",
-    "Frota": NaN,
+    "Frota": null,
     "GESTORES": "CASSIO ADRIANO COSTA",
     "Condutor": "Daniel Assunção ",
     "Data Hora": "17/07/2026 06:57",
     "VIDEOTELEMTRIA": "SIM",
-    "Itens Danificados": NaN,
+    "Itens Danificados": null,
     "Estado de Criticidade Veículo": "Leve(Liberado)",
     "Observacoes": "Sem avaria.",
     "ID COLABORADOR": "284900",
     "ID DO AVALIADOR(A)": "272640",
     "Abrir Os": "NÃO",
-    "Os": NaN,
-    "Abrir Os ": "NÃO"
+    "Os": null,
+    "Abrir Os ": "NÃO",
+    "Unnamed: 21": null
   },
   {
     "ID": "3785732",
@@ -18399,14 +19169,15 @@ const CHECKLIST_VEICULAR_DATA = [
     "Condutor": "Anderson Ricardo Ruaro ",
     "Data Hora": "17/07/2026 09:23",
     "VIDEOTELEMTRIA": "SIM",
-    "Itens Danificados": NaN,
+    "Itens Danificados": null,
     "Estado de Criticidade Veículo": "Leve(Liberado)",
     "Observacoes": "Sem avaria.",
     "ID COLABORADOR": "168907",
     "ID DO AVALIADOR(A)": "272640",
     "Abrir Os": "NÃO",
-    "Os": NaN,
-    "Abrir Os ": "NÃO"
+    "Os": null,
+    "Abrir Os ": "NÃO",
+    "Unnamed: 21": null
   },
   {
     "ID": "3785733",
@@ -18423,14 +19194,15 @@ const CHECKLIST_VEICULAR_DATA = [
     "Condutor": "Antonio Marcos Ribeiro Ruas ",
     "Data Hora": "17/07/2026 09:38",
     "VIDEOTELEMTRIA": "SIM",
-    "Itens Danificados": NaN,
+    "Itens Danificados": null,
     "Estado de Criticidade Veículo": "Leve(Liberado)",
     "Observacoes": "Sem avaria.",
     "ID COLABORADOR": "183702",
     "ID DO AVALIADOR(A)": "272640",
     "Abrir Os": "NÃO",
-    "Os": NaN,
-    "Abrir Os ": "NÃO"
+    "Os": null,
+    "Abrir Os ": "NÃO",
+    "Unnamed: 21": null
   },
   {
     "ID": "3785734",
@@ -18447,14 +19219,15 @@ const CHECKLIST_VEICULAR_DATA = [
     "Condutor": "Daniel Ferreira da Cruz Neto ",
     "Data Hora": "17/07/2026 10:06",
     "VIDEOTELEMTRIA": "SIM",
-    "Itens Danificados": NaN,
+    "Itens Danificados": null,
     "Estado de Criticidade Veículo": "Leve(Liberado)",
     "Observacoes": "Sem avaria.",
     "ID COLABORADOR": "266350",
     "ID DO AVALIADOR(A)": "272640",
     "Abrir Os": "NÃO",
-    "Os": NaN,
-    "Abrir Os ": "NÃO"
+    "Os": null,
+    "Abrir Os ": "NÃO",
+    "Unnamed: 21": null
   },
   {
     "ID": "3791957",
@@ -18477,8 +19250,9 @@ const CHECKLIST_VEICULAR_DATA = [
     "ID COLABORADOR": "255970",
     "ID DO AVALIADOR(A)": "272640",
     "Abrir Os": "SIM",
-    "Os": NaN,
-    "Abrir Os ": "SIM"
+    "Os": null,
+    "Abrir Os ": "SIM",
+    "Unnamed: 21": null
   },
   {
     "ID": "3791958",
@@ -18495,14 +19269,15 @@ const CHECKLIST_VEICULAR_DATA = [
     "Condutor": "Leonardo Estenio Gallon Pinto",
     "Data Hora": "20/07/2026 07:11",
     "VIDEOTELEMTRIA": "SIM",
-    "Itens Danificados": NaN,
+    "Itens Danificados": null,
     "Estado de Criticidade Veículo": "Leve(Liberado)",
     "Observacoes": "Sem avaria.",
     "ID COLABORADOR": "272430",
     "ID DO AVALIADOR(A)": "272640",
     "Abrir Os": "NÃO",
-    "Os": NaN,
-    "Abrir Os ": "NÃO"
+    "Os": null,
+    "Abrir Os ": "NÃO",
+    "Unnamed: 21": null
   },
   {
     "ID": "3791959",
@@ -18519,14 +19294,15 @@ const CHECKLIST_VEICULAR_DATA = [
     "Condutor": "Tiago Damião Louzada ",
     "Data Hora": "20/07/2026 07:17",
     "VIDEOTELEMTRIA": "SIM",
-    "Itens Danificados": NaN,
+    "Itens Danificados": null,
     "Estado de Criticidade Veículo": "Leve(Liberado)",
     "Observacoes": "Sem avaria.",
     "ID COLABORADOR": "5",
     "ID DO AVALIADOR(A)": "272640",
     "Abrir Os": "NÃO",
-    "Os": NaN,
-    "Abrir Os ": "NÃO"
+    "Os": null,
+    "Abrir Os ": "NÃO",
+    "Unnamed: 21": null
   },
   {
     "ID": "3791960",
@@ -18550,7 +19326,8 @@ const CHECKLIST_VEICULAR_DATA = [
     "ID DO AVALIADOR(A)": "272640",
     "Abrir Os": "SIM",
     "Os": "751212",
-    "Abrir Os ": "SIM"
+    "Abrir Os ": "SIM",
+    "Unnamed: 21": null
   },
   {
     "ID": "3791961",
@@ -18567,14 +19344,15 @@ const CHECKLIST_VEICULAR_DATA = [
     "Condutor": "Luis Fernando Cassezi ",
     "Data Hora": "20/07/2026 08:16",
     "VIDEOTELEMTRIA": "SIM",
-    "Itens Danificados": NaN,
+    "Itens Danificados": null,
     "Estado de Criticidade Veículo": "Moderado(Condutor notificado)",
     "Observacoes": "Amassado na tampa traseira ",
     "ID COLABORADOR": "277820",
     "ID DO AVALIADOR(A)": "272640",
     "Abrir Os": "SIM",
-    "Os": NaN,
-    "Abrir Os ": "SIM"
+    "Os": null,
+    "Abrir Os ": "SIM",
+    "Unnamed: 21": null
   },
   {
     "ID": "3791962",
@@ -18597,8 +19375,9 @@ const CHECKLIST_VEICULAR_DATA = [
     "ID COLABORADOR": "183702",
     "ID DO AVALIADOR(A)": "272640",
     "Abrir Os": "NÃO",
-    "Os": NaN,
-    "Abrir Os ": "NÃO"
+    "Os": null,
+    "Abrir Os ": "NÃO",
+    "Unnamed: 21": null
   },
   {
     "ID": "3791963",
@@ -18621,8 +19400,9 @@ const CHECKLIST_VEICULAR_DATA = [
     "ID COLABORADOR": "250700",
     "ID DO AVALIADOR(A)": "272640",
     "Abrir Os": "SIM",
-    "Os": NaN,
-    "Abrir Os ": "SIM"
+    "Os": null,
+    "Abrir Os ": "SIM",
+    "Unnamed: 21": null
   },
   {
     "ID": "3791964",
@@ -18639,14 +19419,15 @@ const CHECKLIST_VEICULAR_DATA = [
     "Condutor": "Karina Lopes Marinho da Silva",
     "Data Hora": "20/07/2026 10:25",
     "VIDEOTELEMTRIA": "SIM",
-    "Itens Danificados": NaN,
+    "Itens Danificados": null,
     "Estado de Criticidade Veículo": "Moderado(Condutor notificado)",
     "Observacoes": "Amassado na lateral esquerda porta do motorista e passageiro.",
     "ID COLABORADOR": "275300",
     "ID DO AVALIADOR(A)": "272640",
     "Abrir Os": "SIM",
-    "Os": NaN,
-    "Abrir Os ": "SIM"
+    "Os": null,
+    "Abrir Os ": "SIM",
+    "Unnamed: 21": null
   },
   {
     "ID": "3791965",
@@ -18669,8 +19450,9 @@ const CHECKLIST_VEICULAR_DATA = [
     "ID COLABORADOR": "212301",
     "ID DO AVALIADOR(A)": "272640",
     "Abrir Os": "SIM",
-    "Os": NaN,
-    "Abrir Os ": "SIM"
+    "Os": null,
+    "Abrir Os ": "SIM",
+    "Unnamed: 21": null
   },
   {
     "ID": "3791966",
@@ -18687,14 +19469,15 @@ const CHECKLIST_VEICULAR_DATA = [
     "Condutor": "Felipe Augusto Camolezi",
     "Data Hora": "20/07/2026 13:35",
     "VIDEOTELEMTRIA": "SIM",
-    "Itens Danificados": NaN,
+    "Itens Danificados": null,
     "Estado de Criticidade Veículo": "Leve(Liberado)",
     "Observacoes": "Sem avaria.",
     "ID COLABORADOR": "280400",
     "ID DO AVALIADOR(A)": "272640",
     "Abrir Os": "NÃO",
-    "Os": NaN,
-    "Abrir Os ": "NÃO"
+    "Os": null,
+    "Abrir Os ": "NÃO",
+    "Unnamed: 21": null
   },
   {
     "ID": "3791967",
@@ -18711,14 +19494,15 @@ const CHECKLIST_VEICULAR_DATA = [
     "Condutor": "Vitória Fonseca de Carvalho ",
     "Data Hora": "20/07/2026 13:49",
     "VIDEOTELEMTRIA": "SIM",
-    "Itens Danificados": NaN,
+    "Itens Danificados": null,
     "Estado de Criticidade Veículo": "Leve(Liberado)",
     "Observacoes": "Sem avaria.",
     "ID COLABORADOR": "277030",
     "ID DO AVALIADOR(A)": "272640",
     "Abrir Os": "NÃO",
-    "Os": NaN,
-    "Abrir Os ": "NÃO"
+    "Os": null,
+    "Abrir Os ": "NÃO",
+    "Unnamed: 21": null
   },
   {
     "ID": "3791968",
@@ -18735,14 +19519,15 @@ const CHECKLIST_VEICULAR_DATA = [
     "Condutor": "Ivone Lopes Faria ",
     "Data Hora": "20/07/2026 14:25",
     "VIDEOTELEMTRIA": "SIM",
-    "Itens Danificados": NaN,
+    "Itens Danificados": null,
     "Estado de Criticidade Veículo": "Leve(Liberado)",
     "Observacoes": "Sem avaria.",
     "ID COLABORADOR": "283080",
     "ID DO AVALIADOR(A)": "272640",
     "Abrir Os": "NÃO",
-    "Os": NaN,
-    "Abrir Os ": "NÃO"
+    "Os": null,
+    "Abrir Os ": "NÃO",
+    "Unnamed: 21": null
   },
   {
     "ID": "3792499",
@@ -18759,14 +19544,15 @@ const CHECKLIST_VEICULAR_DATA = [
     "Condutor": "Paulo Antonio Viana Iesi",
     "Data Hora": "20/07/2026 15:36",
     "VIDEOTELEMTRIA": "SIM",
-    "Itens Danificados": NaN,
+    "Itens Danificados": null,
     "Estado de Criticidade Veículo": "Leve(Liberado)",
     "Observacoes": "Sem avaria.",
     "ID COLABORADOR": "271830",
     "ID DO AVALIADOR(A)": "272640",
     "Abrir Os": "NÃO",
-    "Os": NaN,
-    "Abrir Os ": "NÃO"
+    "Os": null,
+    "Abrir Os ": "NÃO",
+    "Unnamed: 21": null
   },
   {
     "ID": "3792502",
@@ -18783,14 +19569,15 @@ const CHECKLIST_VEICULAR_DATA = [
     "Condutor": "Paulo Henrique Cardoso Silva",
     "Data Hora": "20/07/2026 16:09",
     "VIDEOTELEMTRIA": "SIM",
-    "Itens Danificados": NaN,
+    "Itens Danificados": null,
     "Estado de Criticidade Veículo": "Leve(Liberado)",
     "Observacoes": "Sem avaria.",
     "ID COLABORADOR": "284510",
     "ID DO AVALIADOR(A)": "272640",
     "Abrir Os": "NÃO",
-    "Os": NaN,
-    "Abrir Os ": "NÃO"
+    "Os": null,
+    "Abrir Os ": "NÃO",
+    "Unnamed: 21": null
   },
   {
     "ID": "3792518",
@@ -18807,14 +19594,15 @@ const CHECKLIST_VEICULAR_DATA = [
     "Condutor": "Claudia Burlina Rezende ",
     "Data Hora": "20/07/2026 16:37",
     "VIDEOTELEMTRIA": "SIM",
-    "Itens Danificados": NaN,
+    "Itens Danificados": null,
     "Estado de Criticidade Veículo": "Leve(Liberado)",
     "Observacoes": "Sem avaria.",
     "ID COLABORADOR": "283140",
     "ID DO AVALIADOR(A)": "272640",
     "Abrir Os": "NÃO",
-    "Os": NaN,
-    "Abrir Os ": "NÃO"
+    "Os": null,
+    "Abrir Os ": "NÃO",
+    "Unnamed: 21": null
   },
   {
     "ID": "3794028",
@@ -18831,14 +19619,15 @@ const CHECKLIST_VEICULAR_DATA = [
     "Condutor": "Joyce Rodrigues Rebouças ",
     "Data Hora": "21/07/2026 07:39",
     "VIDEOTELEMTRIA": "SIM",
-    "Itens Danificados": NaN,
+    "Itens Danificados": null,
     "Estado de Criticidade Veículo": "Leve(Liberado)",
     "Observacoes": "Sem avaria.",
     "ID COLABORADOR": "283700",
     "ID DO AVALIADOR(A)": "272640",
     "Abrir Os": "NÃO",
-    "Os": NaN,
-    "Abrir Os ": "NÃO"
+    "Os": null,
+    "Abrir Os ": "NÃO",
+    "Unnamed: 21": null
   },
   {
     "ID": "3794029",
@@ -18855,14 +19644,15 @@ const CHECKLIST_VEICULAR_DATA = [
     "Condutor": "Maicon Rafael dos Santos",
     "Data Hora": "21/07/2026 08:25",
     "VIDEOTELEMTRIA": "SIM",
-    "Itens Danificados": NaN,
+    "Itens Danificados": null,
     "Estado de Criticidade Veículo": "Leve(Liberado)",
     "Observacoes": "Sem avaria.",
     "ID COLABORADOR": "276470",
     "ID DO AVALIADOR(A)": "272640",
     "Abrir Os": "NÃO",
-    "Os": NaN,
-    "Abrir Os ": "NÃO"
+    "Os": null,
+    "Abrir Os ": "NÃO",
+    "Unnamed: 21": null
   },
   {
     "ID": "3794030",
@@ -18879,14 +19669,15 @@ const CHECKLIST_VEICULAR_DATA = [
     "Condutor": "Henrique Mendes Ferreira ",
     "Data Hora": "21/07/2026 08:29",
     "VIDEOTELEMTRIA": "SIM",
-    "Itens Danificados": NaN,
+    "Itens Danificados": null,
     "Estado de Criticidade Veículo": "Leve(Liberado)",
     "Observacoes": "Sem avaria.",
     "ID COLABORADOR": "269710",
     "ID DO AVALIADOR(A)": "272640",
     "Abrir Os": "NÃO",
-    "Os": NaN,
-    "Abrir Os ": "NÃO"
+    "Os": null,
+    "Abrir Os ": "NÃO",
+    "Unnamed: 21": null
   },
   {
     "ID": "3794031",
@@ -18903,14 +19694,15 @@ const CHECKLIST_VEICULAR_DATA = [
     "Condutor": "Fabiano Henrique da Silva Cruz",
     "Data Hora": "21/07/2026 09:39",
     "VIDEOTELEMTRIA": "SIM",
-    "Itens Danificados": NaN,
+    "Itens Danificados": null,
     "Estado de Criticidade Veículo": "Moderado(Condutor notificado)",
     "Observacoes": "Chave de roda (não está no veiculo)",
     "ID COLABORADOR": "281920",
     "ID DO AVALIADOR(A)": "272640",
     "Abrir Os": "SIM",
-    "Os": NaN,
-    "Abrir Os ": "SIM"
+    "Os": null,
+    "Abrir Os ": "SIM",
+    "Unnamed: 21": null
   },
   {
     "ID": "3794032",
@@ -18927,14 +19719,15 @@ const CHECKLIST_VEICULAR_DATA = [
     "Condutor": "Fernando Antonio Saviolli Desie ",
     "Data Hora": "21/07/2026 10:54",
     "VIDEOTELEMTRIA": "SIM",
-    "Itens Danificados": NaN,
+    "Itens Danificados": null,
     "Estado de Criticidade Veículo": "Leve(Liberado)",
     "Observacoes": "Sem avaria.",
     "ID COLABORADOR": "244290",
     "ID DO AVALIADOR(A)": "272650",
     "Abrir Os": "NÃO",
-    "Os": NaN,
-    "Abrir Os ": "NÃO"
+    "Os": null,
+    "Abrir Os ": "NÃO",
+    "Unnamed: 21": null
   },
   {
     "ID": "3794033",
@@ -18957,8 +19750,9 @@ const CHECKLIST_VEICULAR_DATA = [
     "ID COLABORADOR": "249300",
     "ID DO AVALIADOR(A)": "272640",
     "Abrir Os": "NÃO",
-    "Os": NaN,
-    "Abrir Os ": "NÃO"
+    "Os": null,
+    "Abrir Os ": "NÃO",
+    "Unnamed: 21": null
   },
   {
     "ID": "3794034",
@@ -18975,14 +19769,15 @@ const CHECKLIST_VEICULAR_DATA = [
     "Condutor": "Jussara Soares de Souza ",
     "Data Hora": "21/07/2026 11:23",
     "VIDEOTELEMTRIA": "SIM",
-    "Itens Danificados": NaN,
+    "Itens Danificados": null,
     "Estado de Criticidade Veículo": "Leve(Liberado)",
     "Observacoes": "Sem avaria.",
     "ID COLABORADOR": "272640",
     "ID DO AVALIADOR(A)": "272640",
     "Abrir Os": "NÃO",
-    "Os": NaN,
-    "Abrir Os ": "NÃO"
+    "Os": null,
+    "Abrir Os ": "NÃO",
+    "Unnamed: 21": null
   },
   {
     "ID": "3796737",
@@ -18999,14 +19794,15 @@ const CHECKLIST_VEICULAR_DATA = [
     "Condutor": "Paulo Henrique Cardoso Silva",
     "Data Hora": "21/07/2026 13:25",
     "VIDEOTELEMTRIA": "SIM",
-    "Itens Danificados": NaN,
+    "Itens Danificados": null,
     "Estado de Criticidade Veículo": "Leve(Liberado)",
     "Observacoes": "Sem avaria.",
     "ID COLABORADOR": "284510",
     "ID DO AVALIADOR(A)": "272640",
     "Abrir Os": "NÃO",
-    "Os": NaN,
-    "Abrir Os ": "NÃO"
+    "Os": null,
+    "Abrir Os ": "NÃO",
+    "Unnamed: 21": null
   },
   {
     "ID": "3796738",
@@ -19029,8 +19825,9 @@ const CHECKLIST_VEICULAR_DATA = [
     "ID COLABORADOR": "273750",
     "ID DO AVALIADOR(A)": "272640",
     "Abrir Os": "SIM",
-    "Os": NaN,
-    "Abrir Os ": "SIM"
+    "Os": null,
+    "Abrir Os ": "SIM",
+    "Unnamed: 21": null
   },
   {
     "ID": "3796739",
@@ -19053,8 +19850,9 @@ const CHECKLIST_VEICULAR_DATA = [
     "ID COLABORADOR": "272770",
     "ID DO AVALIADOR(A)": "272640",
     "Abrir Os": "NÃO",
-    "Os": NaN,
-    "Abrir Os ": "NÃO"
+    "Os": null,
+    "Abrir Os ": "NÃO",
+    "Unnamed: 21": null
   },
   {
     "ID": "3796740",
@@ -19071,14 +19869,15 @@ const CHECKLIST_VEICULAR_DATA = [
     "Condutor": "Alessandro da Silva",
     "Data Hora": "21/07/2026 15:08",
     "VIDEOTELEMTRIA": "SIM",
-    "Itens Danificados": NaN,
+    "Itens Danificados": null,
     "Estado de Criticidade Veículo": "Leve(Liberado)",
     "Observacoes": "Sem avaria.",
     "ID COLABORADOR": "262010",
     "ID DO AVALIADOR(A)": "272640",
     "Abrir Os": "NÃO",
-    "Os": NaN,
-    "Abrir Os ": "NÃO"
+    "Os": null,
+    "Abrir Os ": "NÃO",
+    "Unnamed: 21": null
   },
   {
     "ID": "3796741",
@@ -19092,17 +19891,18 @@ const CHECKLIST_VEICULAR_DATA = [
     "Score": "0.0",
     "Frota": "100716 - VOLKSWAGEN GOL 1.6 TL MBV(GIC4600)",
     "GESTORES": "CASSIO ADRIANO COSTA",
-    "Condutor": NaN,
+    "Condutor": null,
     "Data Hora": "22/07/2026 07:53",
     "VIDEOTELEMTRIA": "SIM",
-    "Itens Danificados": NaN,
+    "Itens Danificados": null,
     "Estado de Criticidade Veículo": "Leve(Liberado)",
     "Observacoes": "Sem avaria.",
     "ID COLABORADOR": "276950",
     "ID DO AVALIADOR(A)": "272640",
     "Abrir Os": "NÃO",
-    "Os": NaN,
-    "Abrir Os ": "NÃO"
+    "Os": null,
+    "Abrir Os ": "NÃO",
+    "Unnamed: 21": null
   },
   {
     "ID": "3796742",
@@ -19119,14 +19919,15 @@ const CHECKLIST_VEICULAR_DATA = [
     "Condutor": "Mildo Sérgio Veroneze",
     "Data Hora": "22/07/2026 08:03",
     "VIDEOTELEMTRIA": "SIM",
-    "Itens Danificados": NaN,
+    "Itens Danificados": null,
     "Estado de Criticidade Veículo": "Leve(Liberado)",
     "Observacoes": "Sem avaria.",
     "ID COLABORADOR": "283110",
     "ID DO AVALIADOR(A)": "272640",
     "Abrir Os": "NÃO",
-    "Os": NaN,
-    "Abrir Os ": "NÃO"
+    "Os": null,
+    "Abrir Os ": "NÃO",
+    "Unnamed: 21": null
   },
   {
     "ID": "3797777",
@@ -19143,14 +19944,15 @@ const CHECKLIST_VEICULAR_DATA = [
     "Condutor": "Jussara Soares de Souza ",
     "Data Hora": "22/07/2026 09:59",
     "VIDEOTELEMTRIA": "SIM",
-    "Itens Danificados": NaN,
+    "Itens Danificados": null,
     "Estado de Criticidade Veículo": "Leve(Liberado)",
     "Observacoes": "Sem avaria.",
     "ID COLABORADOR": "272640",
     "ID DO AVALIADOR(A)": "272640",
     "Abrir Os": "NÃO",
-    "Os": NaN,
-    "Abrir Os ": "NÃO"
+    "Os": null,
+    "Abrir Os ": "NÃO",
+    "Unnamed: 21": null
   },
   {
     "ID": "3797778",
@@ -19167,14 +19969,15 @@ const CHECKLIST_VEICULAR_DATA = [
     "Condutor": "Jussara Soares de Souza ",
     "Data Hora": "22/07/2026 11:21",
     "VIDEOTELEMTRIA": "SIM",
-    "Itens Danificados": NaN,
+    "Itens Danificados": null,
     "Estado de Criticidade Veículo": "Leve(Liberado)",
     "Observacoes": "Sem avaria.",
     "ID COLABORADOR": "272640",
     "ID DO AVALIADOR(A)": "272640",
     "Abrir Os": "NÃO",
-    "Os": NaN,
-    "Abrir Os ": "NÃO"
+    "Os": null,
+    "Abrir Os ": "NÃO",
+    "Unnamed: 21": null
   },
   {
     "ID": "3797779",
@@ -19197,8 +20000,9 @@ const CHECKLIST_VEICULAR_DATA = [
     "ID COLABORADOR": "275340",
     "ID DO AVALIADOR(A)": "272640",
     "Abrir Os": "NÃO",
-    "Os": NaN,
-    "Abrir Os ": "NÃO"
+    "Os": null,
+    "Abrir Os ": "NÃO",
+    "Unnamed: 21": null
   },
   {
     "ID": "3799661",
@@ -19221,8 +20025,9 @@ const CHECKLIST_VEICULAR_DATA = [
     "ID COLABORADOR": "249300",
     "ID DO AVALIADOR(A)": "272640",
     "Abrir Os": "NÃO",
-    "Os": NaN,
-    "Abrir Os ": "NÃO"
+    "Os": null,
+    "Abrir Os ": "NÃO",
+    "Unnamed: 21": null
   },
   {
     "ID": "3799662",
@@ -19239,14 +20044,15 @@ const CHECKLIST_VEICULAR_DATA = [
     "Condutor": "José Ricardo do Carmo ",
     "Data Hora": "23/07/2026 10:11",
     "VIDEOTELEMTRIA": "SIM",
-    "Itens Danificados": NaN,
+    "Itens Danificados": null,
     "Estado de Criticidade Veículo": "Leve(Liberado)",
     "Observacoes": "Sem avaria.",
     "ID COLABORADOR": "84165",
     "ID DO AVALIADOR(A)": "272640",
     "Abrir Os": "NÃO",
-    "Os": NaN,
-    "Abrir Os ": "NÃO"
+    "Os": null,
+    "Abrir Os ": "NÃO",
+    "Unnamed: 21": null
   },
   {
     "ID": "3799663",
@@ -19263,14 +20069,15 @@ const CHECKLIST_VEICULAR_DATA = [
     "Condutor": "João Jesus Ferreira ",
     "Data Hora": "23/07/2026 10:42",
     "VIDEOTELEMTRIA": "NÃO",
-    "Itens Danificados": NaN,
+    "Itens Danificados": null,
     "Estado de Criticidade Veículo": "Leve(Liberado)",
     "Observacoes": "Sem avaria.",
     "ID COLABORADOR": "179103",
     "ID DO AVALIADOR(A)": "272640",
     "Abrir Os": "NÃO",
-    "Os": NaN,
-    "Abrir Os ": "NÃO"
+    "Os": null,
+    "Abrir Os ": "NÃO",
+    "Unnamed: 21": null
   },
   {
     "ID": "3799664",
@@ -19287,14 +20094,15 @@ const CHECKLIST_VEICULAR_DATA = [
     "Condutor": "Ricardo Aparecido da Silva",
     "Data Hora": "23/07/2026 11:15",
     "VIDEOTELEMTRIA": "SIM",
-    "Itens Danificados": NaN,
+    "Itens Danificados": null,
     "Estado de Criticidade Veículo": "Leve(Liberado)",
     "Observacoes": "Sem avaria.",
     "ID COLABORADOR": "111909",
     "ID DO AVALIADOR(A)": "272640",
     "Abrir Os": "NÃO",
-    "Os": NaN,
-    "Abrir Os ": "NÃO"
+    "Os": null,
+    "Abrir Os ": "NÃO",
+    "Unnamed: 21": null
   },
   {
     "ID": "3802615",
@@ -19311,14 +20119,15 @@ const CHECKLIST_VEICULAR_DATA = [
     "Condutor": "Jussara Soares de Souza ",
     "Data Hora": "24/07/2026 07:57",
     "VIDEOTELEMTRIA": "SIM",
-    "Itens Danificados": NaN,
+    "Itens Danificados": null,
     "Estado de Criticidade Veículo": "Leve(Liberado)",
     "Observacoes": "Sem avaria.",
     "ID COLABORADOR": "272640",
     "ID DO AVALIADOR(A)": "272640",
     "Abrir Os": "NÃO",
-    "Os": NaN,
-    "Abrir Os ": "NÃO"
+    "Os": null,
+    "Abrir Os ": "NÃO",
+    "Unnamed: 21": null
   },
   {
     "ID": "3802616",
@@ -19335,14 +20144,15 @@ const CHECKLIST_VEICULAR_DATA = [
     "Condutor": "Wellington Martins Bento ",
     "Data Hora": "24/07/2026 10:51",
     "VIDEOTELEMTRIA": "SIM",
-    "Itens Danificados": NaN,
+    "Itens Danificados": null,
     "Estado de Criticidade Veículo": "Leve(Liberado)",
     "Observacoes": "Sem avaria.",
     "ID COLABORADOR": "232100",
     "ID DO AVALIADOR(A)": "272640",
     "Abrir Os": "NÃO",
-    "Os": NaN,
-    "Abrir Os ": "NÃO"
+    "Os": null,
+    "Abrir Os ": "NÃO",
+    "Unnamed: 21": null
   },
   {
     "ID": "3802617",
@@ -19365,8 +20175,9 @@ const CHECKLIST_VEICULAR_DATA = [
     "ID COLABORADOR": "254120",
     "ID DO AVALIADOR(A)": "272640",
     "Abrir Os": "NÃO",
-    "Os": NaN,
-    "Abrir Os ": "NÃO"
+    "Os": null,
+    "Abrir Os ": "NÃO",
+    "Unnamed: 21": null
   },
   {
     "ID": "3802621",
@@ -19383,14 +20194,15 @@ const CHECKLIST_VEICULAR_DATA = [
     "Condutor": "Onofre Evangelista da Silva Junior ",
     "Data Hora": "24/07/2026 13:55",
     "VIDEOTELEMTRIA": "SIM",
-    "Itens Danificados": NaN,
+    "Itens Danificados": null,
     "Estado de Criticidade Veículo": "Moderado(Condutor notificado)",
     "Observacoes": "Amassado na tampa traseira e amassado lateral esquerda e direita.",
     "ID COLABORADOR": "163363",
     "ID DO AVALIADOR(A)": "272640",
     "Abrir Os": "NÃO",
-    "Os": NaN,
-    "Abrir Os ": "NÃO"
+    "Os": null,
+    "Abrir Os ": "NÃO",
+    "Unnamed: 21": null
   },
   {
     "ID": "3802622",
@@ -19407,14 +20219,15 @@ const CHECKLIST_VEICULAR_DATA = [
     "Condutor": "Agnaldo de Oliveira ",
     "Data Hora": "24/07/2026 13:58",
     "VIDEOTELEMTRIA": "SIM",
-    "Itens Danificados": NaN,
+    "Itens Danificados": null,
     "Estado de Criticidade Veículo": "Leve(Liberado)",
     "Observacoes": "Sem avaria.",
     "ID COLABORADOR": "281460",
     "ID DO AVALIADOR(A)": "272640",
     "Abrir Os": "NÃO",
-    "Os": NaN,
-    "Abrir Os ": "NÃO"
+    "Os": null,
+    "Abrir Os ": "NÃO",
+    "Unnamed: 21": null
   },
   {
     "ID": "3807390",
@@ -19431,14 +20244,15 @@ const CHECKLIST_VEICULAR_DATA = [
     "Condutor": "Wallason Soares Reges ",
     "Data Hora": "28/07/2026 07:16",
     "VIDEOTELEMTRIA": "SIM",
-    "Itens Danificados": NaN,
+    "Itens Danificados": null,
     "Estado de Criticidade Veículo": "Leve(Liberado)",
     "Observacoes": "Sem avaria.",
     "ID COLABORADOR": "1",
     "ID DO AVALIADOR(A)": "272640",
     "Abrir Os": "NÃO",
-    "Os": NaN,
-    "Abrir Os ": "NÃO"
+    "Os": null,
+    "Abrir Os ": "NÃO",
+    "Unnamed: 21": null
   },
   {
     "ID": "3807392",
@@ -19455,14 +20269,15 @@ const CHECKLIST_VEICULAR_DATA = [
     "Condutor": "Pedro Augusto Silva",
     "Data Hora": "28/07/2026 07:17",
     "VIDEOTELEMTRIA": "SIM",
-    "Itens Danificados": NaN,
+    "Itens Danificados": null,
     "Estado de Criticidade Veículo": "Leve(Liberado)",
     "Observacoes": "Sem avaria.",
     "ID COLABORADOR": "270270",
     "ID DO AVALIADOR(A)": "272640",
     "Abrir Os": "NÃO",
-    "Os": NaN,
-    "Abrir Os ": "NÃO"
+    "Os": null,
+    "Abrir Os ": "NÃO",
+    "Unnamed: 21": null
   },
   {
     "ID": "3807393",
@@ -19479,14 +20294,15 @@ const CHECKLIST_VEICULAR_DATA = [
     "Condutor": "Rafael César Ferreira ",
     "Data Hora": "28/07/2026 07:52",
     "VIDEOTELEMTRIA": "SIM",
-    "Itens Danificados": NaN,
+    "Itens Danificados": null,
     "Estado de Criticidade Veículo": "Leve(Liberado)",
     "Observacoes": "Sem avaria.",
     "ID COLABORADOR": "250250",
     "ID DO AVALIADOR(A)": "272640",
     "Abrir Os": "NÃO",
-    "Os": NaN,
-    "Abrir Os ": "NÃO"
+    "Os": null,
+    "Abrir Os ": "NÃO",
+    "Unnamed: 21": null
   },
   {
     "ID": "3807394",
@@ -19503,14 +20319,15 @@ const CHECKLIST_VEICULAR_DATA = [
     "Condutor": "Paulo César Pacheco Junior",
     "Data Hora": "28/07/2026 10:31",
     "VIDEOTELEMTRIA": "SIM",
-    "Itens Danificados": NaN,
+    "Itens Danificados": null,
     "Estado de Criticidade Veículo": "Leve(Liberado)",
     "Observacoes": "Sem avaria.",
     "ID COLABORADOR": "284930",
     "ID DO AVALIADOR(A)": "272640",
     "Abrir Os": "NÃO",
-    "Os": NaN,
-    "Abrir Os ": "NÃO"
+    "Os": null,
+    "Abrir Os ": "NÃO",
+    "Unnamed: 21": null
   },
   {
     "ID": "3807395",
@@ -19527,14 +20344,15 @@ const CHECKLIST_VEICULAR_DATA = [
     "Condutor": "Admir Xavier Cotrim ",
     "Data Hora": "28/07/2026 11:08",
     "VIDEOTELEMTRIA": "SIM",
-    "Itens Danificados": NaN,
+    "Itens Danificados": null,
     "Estado de Criticidade Veículo": "Leve(Liberado)",
     "Observacoes": "Sem avaria.",
     "ID COLABORADOR": "112150",
     "ID DO AVALIADOR(A)": "272640",
     "Abrir Os": "NÃO",
-    "Os": NaN,
-    "Abrir Os ": "NÃO"
+    "Os": null,
+    "Abrir Os ": "NÃO",
+    "Unnamed: 21": null
   },
   {
     "ID": "3807396",
@@ -19551,14 +20369,15 @@ const CHECKLIST_VEICULAR_DATA = [
     "Condutor": "Reginaldo Fernando Mantovani ",
     "Data Hora": "28/07/2026 11:35",
     "VIDEOTELEMTRIA": "SIM",
-    "Itens Danificados": NaN,
+    "Itens Danificados": null,
     "Estado de Criticidade Veículo": "Leve(Liberado)",
     "Observacoes": "Sem avaria.",
     "ID COLABORADOR": "260910",
     "ID DO AVALIADOR(A)": "272640",
     "Abrir Os": "NÃO",
-    "Os": NaN,
-    "Abrir Os ": "NÃO"
+    "Os": null,
+    "Abrir Os ": "NÃO",
+    "Unnamed: 21": null
   },
   {
     "ID": "3807397",
@@ -19575,14 +20394,15 @@ const CHECKLIST_VEICULAR_DATA = [
     "Condutor": "Jonatas da Silva Lemes",
     "Data Hora": "28/07/2026 12:57",
     "VIDEOTELEMTRIA": "SIM",
-    "Itens Danificados": NaN,
+    "Itens Danificados": null,
     "Estado de Criticidade Veículo": "Moderado(Condutor notificado)",
     "Observacoes": "Amassado na porta motorista e passageiro ",
     "ID COLABORADOR": "279140",
     "ID DO AVALIADOR(A)": "272640",
     "Abrir Os": "NÃO",
-    "Os": NaN,
-    "Abrir Os ": "NÃO"
+    "Os": null,
+    "Abrir Os ": "NÃO",
+    "Unnamed: 21": null
   },
   {
     "ID": "3807398",
@@ -19599,14 +20419,15 @@ const CHECKLIST_VEICULAR_DATA = [
     "Condutor": "Anderson Henrique Simão ",
     "Data Hora": "28/07/2026 14:19",
     "VIDEOTELEMTRIA": "SIM",
-    "Itens Danificados": NaN,
+    "Itens Danificados": null,
     "Estado de Criticidade Veículo": "Leve(Liberado)",
     "Observacoes": "Sem avaria.",
     "ID COLABORADOR": "251390",
     "ID DO AVALIADOR(A)": "272640",
     "Abrir Os": "NÃO",
-    "Os": NaN,
-    "Abrir Os ": "NÃO"
+    "Os": null,
+    "Abrir Os ": "NÃO",
+    "Unnamed: 21": null
   },
   {
     "ID": "3811274",
@@ -19623,14 +20444,15 @@ const CHECKLIST_VEICULAR_DATA = [
     "Condutor": "Jussara Soares de Souza ",
     "Data Hora": "29/07/2026 09:32",
     "VIDEOTELEMTRIA": "SIM",
-    "Itens Danificados": NaN,
+    "Itens Danificados": null,
     "Estado de Criticidade Veículo": "Leve(Liberado)",
     "Observacoes": "Checklist pós manutenção: concluído ",
     "ID COLABORADOR": "272640",
     "ID DO AVALIADOR(A)": "272640",
     "Abrir Os": "NÃO",
-    "Os": NaN,
-    "Abrir Os ": "NÃO"
+    "Os": null,
+    "Abrir Os ": "NÃO",
+    "Unnamed: 21": null
   },
   {
     "ID": "3811275",
@@ -19647,14 +20469,15 @@ const CHECKLIST_VEICULAR_DATA = [
     "Condutor": "Paulo Antonio Viana Iesi",
     "Data Hora": "29/07/2026 14:05",
     "VIDEOTELEMTRIA": "SIM",
-    "Itens Danificados": NaN,
+    "Itens Danificados": null,
     "Estado de Criticidade Veículo": "Leve(Liberado)",
     "Observacoes": "Sem avaria.",
     "ID COLABORADOR": "271830",
     "ID DO AVALIADOR(A)": "272640",
     "Abrir Os": "NÃO",
-    "Os": NaN,
-    "Abrir Os ": "NÃO"
+    "Os": null,
+    "Abrir Os ": "NÃO",
+    "Unnamed: 21": null
   },
   {
     "ID": "3811277",
@@ -19671,14 +20494,15 @@ const CHECKLIST_VEICULAR_DATA = [
     "Condutor": "Joyce Rodrigues Rebouças ",
     "Data Hora": "30/07/2026 07:40",
     "VIDEOTELEMTRIA": "SIM",
-    "Itens Danificados": NaN,
+    "Itens Danificados": null,
     "Estado de Criticidade Veículo": "Leve(Liberado)",
     "Observacoes": "Sem avaria.",
     "ID COLABORADOR": "283700",
     "ID DO AVALIADOR(A)": "272640",
     "Abrir Os": "NÃO",
-    "Os": NaN,
-    "Abrir Os ": "NÃO"
+    "Os": null,
+    "Abrir Os ": "NÃO",
+    "Unnamed: 21": null
   },
   {
     "ID": "3811301",
@@ -19695,14 +20519,15 @@ const CHECKLIST_VEICULAR_DATA = [
     "Condutor": "Tiago Damião Louzada ",
     "Data Hora": "30/07/2026 07:52",
     "VIDEOTELEMTRIA": "SIM",
-    "Itens Danificados": NaN,
+    "Itens Danificados": null,
     "Estado de Criticidade Veículo": "Leve(Liberado)",
     "Observacoes": "Sem avaria.",
     "ID COLABORADOR": "5",
     "ID DO AVALIADOR(A)": "272640",
     "Abrir Os": "NÃO",
-    "Os": NaN,
-    "Abrir Os ": "NÃO"
+    "Os": null,
+    "Abrir Os ": "NÃO",
+    "Unnamed: 21": null
   },
   {
     "ID": "3813623",
@@ -19719,14 +20544,15 @@ const CHECKLIST_VEICULAR_DATA = [
     "Condutor": "Onofre Evangelista da Silva Junior ",
     "Data Hora": "30/07/2026 08:58",
     "VIDEOTELEMTRIA": "SIM",
-    "Itens Danificados": NaN,
+    "Itens Danificados": null,
     "Estado de Criticidade Veículo": "Leve(Liberado)",
     "Observacoes": "Sem avaria.",
     "ID COLABORADOR": "163363",
     "ID DO AVALIADOR(A)": "272640",
     "Abrir Os": "NÃO",
-    "Os": NaN,
-    "Abrir Os ": "NÃO"
+    "Os": null,
+    "Abrir Os ": "NÃO",
+    "Unnamed: 21": null
   },
   {
     "ID": "3813630",
@@ -19743,14 +20569,15 @@ const CHECKLIST_VEICULAR_DATA = [
     "Condutor": "Alessandro da Silva ",
     "Data Hora": "30/07/2026 09:00",
     "VIDEOTELEMTRIA": "SIM",
-    "Itens Danificados": NaN,
+    "Itens Danificados": null,
     "Estado de Criticidade Veículo": "Leve(Liberado)",
     "Observacoes": "Sem avaria.",
     "ID COLABORADOR": "262010",
     "ID DO AVALIADOR(A)": "272640",
     "Abrir Os": "NÃO",
-    "Os": NaN,
-    "Abrir Os ": "NÃO"
+    "Os": null,
+    "Abrir Os ": "NÃO",
+    "Unnamed: 21": null
   },
   {
     "ID": "3813632",
@@ -19773,8 +20600,9 @@ const CHECKLIST_VEICULAR_DATA = [
     "ID COLABORADOR": "19820",
     "ID DO AVALIADOR(A)": "272640",
     "Abrir Os": "NÃO",
-    "Os": NaN,
-    "Abrir Os ": "NÃO"
+    "Os": null,
+    "Abrir Os ": "NÃO",
+    "Unnamed: 21": null
   },
   {
     "ID": "3813633",
@@ -19791,14 +20619,15 @@ const CHECKLIST_VEICULAR_DATA = [
     "Condutor": "Paulo Henrique Cardoso da Silva",
     "Data Hora": "30/07/2026 12:47",
     "VIDEOTELEMTRIA": "SIM",
-    "Itens Danificados": NaN,
+    "Itens Danificados": null,
     "Estado de Criticidade Veículo": "Leve(Liberado)",
     "Observacoes": "Sem avaria.",
     "ID COLABORADOR": "284510",
     "ID DO AVALIADOR(A)": "272640",
     "Abrir Os": "NÃO",
-    "Os": NaN,
-    "Abrir Os ": "NÃO"
+    "Os": null,
+    "Abrir Os ": "NÃO",
+    "Unnamed: 21": null
   },
   {
     "ID": "3813634",
@@ -19815,14 +20644,15 @@ const CHECKLIST_VEICULAR_DATA = [
     "Condutor": "Daniel Assunção ",
     "Data Hora": "30/07/2026 14:16",
     "VIDEOTELEMTRIA": "SIM",
-    "Itens Danificados": NaN,
+    "Itens Danificados": null,
     "Estado de Criticidade Veículo": "Leve(Liberado)",
     "Observacoes": "Sem avaria.",
     "ID COLABORADOR": "284900",
     "ID DO AVALIADOR(A)": "272640",
     "Abrir Os": "NÃO",
-    "Os": NaN,
-    "Abrir Os ": "NÃO"
+    "Os": null,
+    "Abrir Os ": "NÃO",
+    "Unnamed: 21": null
   },
   {
     "ID": "3813635",
@@ -19839,14 +20669,15 @@ const CHECKLIST_VEICULAR_DATA = [
     "Condutor": "Walison Daniel dos Santos Rocha",
     "Data Hora": "30/07/2026 16:02",
     "VIDEOTELEMTRIA": "SIM",
-    "Itens Danificados": NaN,
+    "Itens Danificados": null,
     "Estado de Criticidade Veículo": "Leve(Liberado)",
     "Observacoes": "Sem avaria.",
     "ID COLABORADOR": "275060",
     "ID DO AVALIADOR(A)": "272640",
     "Abrir Os": "NÃO",
-    "Os": NaN,
-    "Abrir Os ": "NÃO"
+    "Os": null,
+    "Abrir Os ": "NÃO",
+    "Unnamed: 21": null
   },
   {
     "ID": "3813636",
@@ -19863,14 +20694,15 @@ const CHECKLIST_VEICULAR_DATA = [
     "Condutor": "Antonio Carlos Alves",
     "Data Hora": "31/07/2026 07:29",
     "VIDEOTELEMTRIA": "SIM",
-    "Itens Danificados": NaN,
+    "Itens Danificados": null,
     "Estado de Criticidade Veículo": "Leve(Liberado)",
     "Observacoes": "Sem avaria.",
     "ID COLABORADOR": "283090",
     "ID DO AVALIADOR(A)": "272640",
     "Abrir Os": "NÃO",
-    "Os": NaN,
-    "Abrir Os ": "NÃO"
+    "Os": null,
+    "Abrir Os ": "NÃO",
+    "Unnamed: 21": null
   },
   {
     "ID": "3813774",
@@ -19887,14 +20719,15 @@ const CHECKLIST_VEICULAR_DATA = [
     "Condutor": "Davi Freitas Ramos ",
     "Data Hora": "31/07/2026 07:52",
     "VIDEOTELEMTRIA": "SIM",
-    "Itens Danificados": NaN,
+    "Itens Danificados": null,
     "Estado de Criticidade Veículo": "Leve(Liberado)",
     "Observacoes": "Sem avaria.",
     "ID COLABORADOR": "265970",
     "ID DO AVALIADOR(A)": "272640",
     "Abrir Os": "NÃO",
-    "Os": NaN,
-    "Abrir Os ": "NÃO"
+    "Os": null,
+    "Abrir Os ": "NÃO",
+    "Unnamed: 21": null
   },
   {
     "ID": "3813775",
@@ -19911,14 +20744,15 @@ const CHECKLIST_VEICULAR_DATA = [
     "Condutor": "Felipe Augusto Camolezi",
     "Data Hora": "31/07/2026 09:55",
     "VIDEOTELEMTRIA": "SIM",
-    "Itens Danificados": NaN,
+    "Itens Danificados": null,
     "Estado de Criticidade Veículo": "Leve(Liberado)",
     "Observacoes": "Sem avaria.",
     "ID COLABORADOR": "280400",
     "ID DO AVALIADOR(A)": "272640",
     "Abrir Os": "NÃO",
-    "Os": NaN,
-    "Abrir Os ": "NÃO"
+    "Os": null,
+    "Abrir Os ": "NÃO",
+    "Unnamed: 21": null
   },
   {
     "ID": "3813776",
@@ -19935,14 +20769,15 @@ const CHECKLIST_VEICULAR_DATA = [
     "Condutor": "Daniel Ferreira da Cruz Neto ",
     "Data Hora": "31/07/2026 11:06",
     "VIDEOTELEMTRIA": "SIM",
-    "Itens Danificados": NaN,
+    "Itens Danificados": null,
     "Estado de Criticidade Veículo": "Leve(Liberado)",
     "Observacoes": "Sem avaria.",
     "ID COLABORADOR": "266350",
     "ID DO AVALIADOR(A)": "272640",
     "Abrir Os": "NÃO",
-    "Os": NaN,
-    "Abrir Os ": "NÃO"
+    "Os": null,
+    "Abrir Os ": "NÃO",
+    "Unnamed: 21": null
   },
   {
     "ID": "3814764",
@@ -19959,14 +20794,15 @@ const CHECKLIST_VEICULAR_DATA = [
     "Condutor": "Ivone Lopes Faria",
     "Data Hora": "31/07/2026 14:06",
     "VIDEOTELEMTRIA": "SIM",
-    "Itens Danificados": NaN,
+    "Itens Danificados": null,
     "Estado de Criticidade Veículo": "Leve(Liberado)",
     "Observacoes": "Sem avaria.",
     "ID COLABORADOR": "283080",
     "ID DO AVALIADOR(A)": "272650",
     "Abrir Os": "NÃO",
-    "Os": NaN,
-    "Abrir Os ": "NÃO"
+    "Os": null,
+    "Abrir Os ": "NÃO",
+    "Unnamed: 21": null
   },
   {
     "ID": "3819714",
@@ -19983,14 +20819,15 @@ const CHECKLIST_VEICULAR_DATA = [
     "Condutor": "Antonio Benedito Cassezi ",
     "Data Hora": "31/07/2026 16:31",
     "VIDEOTELEMTRIA": "SIM",
-    "Itens Danificados": NaN,
+    "Itens Danificados": null,
     "Estado de Criticidade Veículo": "Leve(Liberado)",
     "Observacoes": "Sem avaria.",
     "ID COLABORADOR": "96520",
     "ID DO AVALIADOR(A)": "272640",
     "Abrir Os": "NÃO",
-    "Os": NaN,
-    "Abrir Os ": "NÃO"
+    "Os": null,
+    "Abrir Os ": "NÃO",
+    "Unnamed: 21": null
   },
   {
     "ID": "3819715",
@@ -20007,14 +20844,15 @@ const CHECKLIST_VEICULAR_DATA = [
     "Condutor": "Onofre Evangelista da Silva Junior ",
     "Data Hora": "31/07/2026 16:36",
     "VIDEOTELEMTRIA": "SIM",
-    "Itens Danificados": NaN,
+    "Itens Danificados": null,
     "Estado de Criticidade Veículo": "Moderado(Condutor notificado)",
     "Observacoes": "Miolo da fechadura (Aguardando chegar peça no PAC)",
     "ID COLABORADOR": "163363",
     "ID DO AVALIADOR(A)": "272640",
     "Abrir Os": "NÃO",
-    "Os": NaN,
-    "Abrir Os ": "NÃO"
+    "Os": null,
+    "Abrir Os ": "NÃO",
+    "Unnamed: 21": null
   },
   {
     "ID": "3819716",
@@ -20031,14 +20869,15 @@ const CHECKLIST_VEICULAR_DATA = [
     "Condutor": "Anderson Ricardo Ruaro ",
     "Data Hora": "03/08/2026 07:15",
     "VIDEOTELEMTRIA": "SIM",
-    "Itens Danificados": NaN,
+    "Itens Danificados": null,
     "Estado de Criticidade Veículo": "Leve(Liberado)",
     "Observacoes": "Sem avaria.",
     "ID COLABORADOR": "168907",
     "ID DO AVALIADOR(A)": "272640",
     "Abrir Os": "NÃO",
-    "Os": NaN,
-    "Abrir Os ": "NÃO"
+    "Os": null,
+    "Abrir Os ": "NÃO",
+    "Unnamed: 21": null
   },
   {
     "ID": "3819717",
@@ -20055,14 +20894,15 @@ const CHECKLIST_VEICULAR_DATA = [
     "Condutor": "Luiz Alfredo de Souza ",
     "Data Hora": "03/08/2026 07:23",
     "VIDEOTELEMTRIA": "SIM",
-    "Itens Danificados": NaN,
+    "Itens Danificados": null,
     "Estado de Criticidade Veículo": "Leve(Liberado)",
     "Observacoes": "Sem avaria.",
     "ID COLABORADOR": "5423",
     "ID DO AVALIADOR(A)": "272640",
     "Abrir Os": "NÃO",
-    "Os": NaN,
-    "Abrir Os ": "NÃO"
+    "Os": null,
+    "Abrir Os ": "NÃO",
+    "Unnamed: 21": null
   },
   {
     "ID": "3819718",
@@ -20085,8 +20925,9 @@ const CHECKLIST_VEICULAR_DATA = [
     "ID COLABORADOR": "249300",
     "ID DO AVALIADOR(A)": "272640",
     "Abrir Os": "NÃO",
-    "Os": NaN,
-    "Abrir Os ": "NÃO"
+    "Os": null,
+    "Abrir Os ": "NÃO",
+    "Unnamed: 21": null
   },
   {
     "ID": "3820533",
@@ -20103,14 +20944,15 @@ const CHECKLIST_VEICULAR_DATA = [
     "Condutor": "Admir Xavier Cotrim ",
     "Data Hora": "03/08/2026 09:19",
     "VIDEOTELEMTRIA": "SIM",
-    "Itens Danificados": NaN,
+    "Itens Danificados": null,
     "Estado de Criticidade Veículo": "Leve(Liberado)",
     "Observacoes": "Sem avaria.",
     "ID COLABORADOR": "112150",
     "ID DO AVALIADOR(A)": "272649",
     "Abrir Os": "NÃO",
-    "Os": NaN,
-    "Abrir Os ": "NÃO"
+    "Os": null,
+    "Abrir Os ": "NÃO",
+    "Unnamed: 21": null
   },
   {
     "ID": "3820536",
@@ -20127,14 +20969,15 @@ const CHECKLIST_VEICULAR_DATA = [
     "Condutor": "Antonio Marcos Ribeiro Ruas ",
     "Data Hora": "03/08/2026 09:24",
     "VIDEOTELEMTRIA": "SIM",
-    "Itens Danificados": NaN,
+    "Itens Danificados": null,
     "Estado de Criticidade Veículo": "Leve(Liberado)",
     "Observacoes": "Sem avaria.",
     "ID COLABORADOR": "183702",
     "ID DO AVALIADOR(A)": "272640",
     "Abrir Os": "NÃO",
-    "Os": NaN,
-    "Abrir Os ": "NÃO"
+    "Os": null,
+    "Abrir Os ": "NÃO",
+    "Unnamed: 21": null
   },
   {
     "ID": "3820540",
@@ -20151,14 +20994,15 @@ const CHECKLIST_VEICULAR_DATA = [
     "Condutor": "Wander Divino Siqueira",
     "Data Hora": "03/08/2026 09:38",
     "VIDEOTELEMTRIA": "SIM",
-    "Itens Danificados": NaN,
+    "Itens Danificados": null,
     "Estado de Criticidade Veículo": "Leve(Liberado)",
     "Observacoes": "Sem avaria.",
     "ID COLABORADOR": "283020",
     "ID DO AVALIADOR(A)": "272640",
     "Abrir Os": "NÃO",
-    "Os": NaN,
-    "Abrir Os ": "NÃO"
+    "Os": null,
+    "Abrir Os ": "NÃO",
+    "Unnamed: 21": null
   },
   {
     "ID": "3820541",
@@ -20175,14 +21019,15 @@ const CHECKLIST_VEICULAR_DATA = [
     "Condutor": "Paulo Henrique Cardoso Silva",
     "Data Hora": "03/08/2026 11:05",
     "VIDEOTELEMTRIA": "SIM",
-    "Itens Danificados": NaN,
+    "Itens Danificados": null,
     "Estado de Criticidade Veículo": "Leve(Liberado)",
     "Observacoes": "Sem avaria.",
     "ID COLABORADOR": "284510",
     "ID DO AVALIADOR(A)": "272640",
     "Abrir Os": "NÃO",
-    "Os": NaN,
-    "Abrir Os ": "NÃO"
+    "Os": null,
+    "Abrir Os ": "NÃO",
+    "Unnamed: 21": null
   },
   {
     "ID": "3820542",
@@ -20199,14 +21044,15 @@ const CHECKLIST_VEICULAR_DATA = [
     "Condutor": "Vitória Fonseca de Carvalho ",
     "Data Hora": "03/08/2026 13:04",
     "VIDEOTELEMTRIA": "SIM",
-    "Itens Danificados": NaN,
+    "Itens Danificados": null,
     "Estado de Criticidade Veículo": "Leve(Liberado)",
     "Observacoes": "Sem avaria.",
     "ID COLABORADOR": "277030",
     "ID DO AVALIADOR(A)": "272640",
     "Abrir Os": "NÃO",
-    "Os": NaN,
-    "Abrir Os ": "NÃO"
+    "Os": null,
+    "Abrir Os ": "NÃO",
+    "Unnamed: 21": null
   },
   {
     "ID": "3820543",
@@ -20223,14 +21069,15 @@ const CHECKLIST_VEICULAR_DATA = [
     "Condutor": "Fernando Antonio Saviolli Desie ",
     "Data Hora": "03/08/2026 15:27",
     "VIDEOTELEMTRIA": "SIM",
-    "Itens Danificados": NaN,
+    "Itens Danificados": null,
     "Estado de Criticidade Veículo": "Leve(Liberado)",
     "Observacoes": "Sem avaria.",
     "ID COLABORADOR": "244290",
     "ID DO AVALIADOR(A)": "272740",
     "Abrir Os": "NÃO",
-    "Os": NaN,
-    "Abrir Os ": "NÃO"
+    "Os": null,
+    "Abrir Os ": "NÃO",
+    "Unnamed: 21": null
   },
   {
     "ID": "3820545",
@@ -20253,8 +21100,9 @@ const CHECKLIST_VEICULAR_DATA = [
     "ID COLABORADOR": "236120",
     "ID DO AVALIADOR(A)": "272640",
     "Abrir Os": "NÃO",
-    "Os": NaN,
-    "Abrir Os ": "NÃO"
+    "Os": null,
+    "Abrir Os ": "NÃO",
+    "Unnamed: 21": null
   },
   {
     "ID": "3822584",
@@ -20271,14 +21119,15 @@ const CHECKLIST_VEICULAR_DATA = [
     "Condutor": "Paulo Henrique Cardoso da Silva ",
     "Data Hora": "04/08/2026 07:24",
     "VIDEOTELEMTRIA": "SIM",
-    "Itens Danificados": NaN,
+    "Itens Danificados": null,
     "Estado de Criticidade Veículo": "Leve(Liberado)",
     "Observacoes": "Sem avaria.",
     "ID COLABORADOR": "284510",
     "ID DO AVALIADOR(A)": "272640",
     "Abrir Os": "NÃO",
-    "Os": NaN,
-    "Abrir Os ": "NÃO"
+    "Os": null,
+    "Abrir Os ": "NÃO",
+    "Unnamed: 21": null
   },
   {
     "ID": "3822585",
@@ -20301,8 +21150,9 @@ const CHECKLIST_VEICULAR_DATA = [
     "ID COLABORADOR": "249300",
     "ID DO AVALIADOR(A)": "272640",
     "Abrir Os": "NÃO",
-    "Os": NaN,
-    "Abrir Os ": "NÃO"
+    "Os": null,
+    "Abrir Os ": "NÃO",
+    "Unnamed: 21": null
   },
   {
     "ID": "3822586",
@@ -20319,14 +21169,15 @@ const CHECKLIST_VEICULAR_DATA = [
     "Condutor": "Henrique Mendes Ferreira ",
     "Data Hora": "04/08/2026 08:05",
     "VIDEOTELEMTRIA": "SIM",
-    "Itens Danificados": NaN,
+    "Itens Danificados": null,
     "Estado de Criticidade Veículo": "Leve(Liberado)",
     "Observacoes": "Sem avaria.",
     "ID COLABORADOR": "269700",
     "ID DO AVALIADOR(A)": "272640",
     "Abrir Os": "NÃO",
-    "Os": NaN,
-    "Abrir Os ": "NÃO"
+    "Os": null,
+    "Abrir Os ": "NÃO",
+    "Unnamed: 21": null
   },
   {
     "ID": "3823839",
@@ -20343,14 +21194,15 @@ const CHECKLIST_VEICULAR_DATA = [
     "Condutor": "João Jesus Ferreira ",
     "Data Hora": "04/08/2026 10:56",
     "VIDEOTELEMTRIA": "SIM",
-    "Itens Danificados": NaN,
+    "Itens Danificados": null,
     "Estado de Criticidade Veículo": "Leve(Liberado)",
     "Observacoes": "Sem avaria.",
     "ID COLABORADOR": "179103",
     "ID DO AVALIADOR(A)": "272640",
     "Abrir Os": "NÃO",
-    "Os": NaN,
-    "Abrir Os ": "NÃO"
+    "Os": null,
+    "Abrir Os ": "NÃO",
+    "Unnamed: 21": null
   },
   {
     "ID": "3823840",
@@ -20367,14 +21219,15 @@ const CHECKLIST_VEICULAR_DATA = [
     "Condutor": "Wellington Martins Bento ",
     "Data Hora": "04/08/2026 13:11",
     "VIDEOTELEMTRIA": "SIM",
-    "Itens Danificados": NaN,
+    "Itens Danificados": null,
     "Estado de Criticidade Veículo": "Leve(Liberado)",
     "Observacoes": "Sem avaria.",
     "ID COLABORADOR": "232100",
     "ID DO AVALIADOR(A)": "272640",
     "Abrir Os": "NÃO",
-    "Os": NaN,
-    "Abrir Os ": "NÃO"
+    "Os": null,
+    "Abrir Os ": "NÃO",
+    "Unnamed: 21": null
   },
   {
     "ID": "3823841",
@@ -20391,14 +21244,15 @@ const CHECKLIST_VEICULAR_DATA = [
     "Condutor": "Alessandro da Silva ",
     "Data Hora": "04/08/2026 14:29",
     "VIDEOTELEMTRIA": "SIM",
-    "Itens Danificados": NaN,
+    "Itens Danificados": null,
     "Estado de Criticidade Veículo": "Leve(Liberado)",
     "Observacoes": "Sem avaria.",
     "ID COLABORADOR": "262010",
     "ID DO AVALIADOR(A)": "272640",
     "Abrir Os": "NÃO",
-    "Os": NaN,
-    "Abrir Os ": "NÃO"
+    "Os": null,
+    "Abrir Os ": "NÃO",
+    "Unnamed: 21": null
   },
   {
     "ID": "3823842",
@@ -20415,14 +21269,15 @@ const CHECKLIST_VEICULAR_DATA = [
     "Condutor": "Antonio Marcos Souza ",
     "Data Hora": "04/08/2026 16:28",
     "VIDEOTELEMTRIA": "SIM",
-    "Itens Danificados": NaN,
+    "Itens Danificados": null,
     "Estado de Criticidade Veículo": "Leve(Liberado)",
     "Observacoes": "Sem avaria.",
     "ID COLABORADOR": "260840",
     "ID DO AVALIADOR(A)": "272640",
     "Abrir Os": "NÃO",
-    "Os": NaN,
-    "Abrir Os ": "NÃO"
+    "Os": null,
+    "Abrir Os ": "NÃO",
+    "Unnamed: 21": null
   },
   {
     "ID": "3826175",
@@ -20439,14 +21294,15 @@ const CHECKLIST_VEICULAR_DATA = [
     "Condutor": "Heverton Henrique Custodio ",
     "Data Hora": "05/08/2026 07:12",
     "VIDEOTELEMTRIA": "SIM",
-    "Itens Danificados": NaN,
+    "Itens Danificados": null,
     "Estado de Criticidade Veículo": "Leve(Liberado)",
     "Observacoes": "Sem avaria.",
     "ID COLABORADOR": "266560",
     "ID DO AVALIADOR(A)": "272640",
     "Abrir Os": "NÃO",
-    "Os": NaN,
-    "Abrir Os ": "NÃO"
+    "Os": null,
+    "Abrir Os ": "NÃO",
+    "Unnamed: 21": null
   },
   {
     "ID": "3826176",
@@ -20463,14 +21319,15 @@ const CHECKLIST_VEICULAR_DATA = [
     "Condutor": "Marco Ferreira dos Santos ",
     "Data Hora": "05/08/2026 13:13",
     "VIDEOTELEMTRIA": "SIM",
-    "Itens Danificados": NaN,
+    "Itens Danificados": null,
     "Estado de Criticidade Veículo": "Leve(Liberado)",
     "Observacoes": "Sem avaria.",
     "ID COLABORADOR": "115782",
     "ID DO AVALIADOR(A)": "272640",
     "Abrir Os": "NÃO",
-    "Os": NaN,
-    "Abrir Os ": "NÃO"
+    "Os": null,
+    "Abrir Os ": "NÃO",
+    "Unnamed: 21": null
   },
   {
     "ID": "3826177",
@@ -20487,14 +21344,15 @@ const CHECKLIST_VEICULAR_DATA = [
     "Condutor": "Jhonnes Alves Moura ",
     "Data Hora": "05/08/2026 13:50",
     "VIDEOTELEMTRIA": "SIM",
-    "Itens Danificados": NaN,
+    "Itens Danificados": null,
     "Estado de Criticidade Veículo": "Leve(Liberado)",
     "Observacoes": "Sem avaria.",
     "ID COLABORADOR": "212301",
     "ID DO AVALIADOR(A)": "272640",
     "Abrir Os": "NÃO",
-    "Os": NaN,
-    "Abrir Os ": "NÃO"
+    "Os": null,
+    "Abrir Os ": "NÃO",
+    "Unnamed: 21": null
   },
   {
     "ID": "3826178",
@@ -20511,14 +21369,15 @@ const CHECKLIST_VEICULAR_DATA = [
     "Condutor": "Alessandro da Silva ",
     "Data Hora": "05/08/2026 14:12",
     "VIDEOTELEMTRIA": "SIM",
-    "Itens Danificados": NaN,
+    "Itens Danificados": null,
     "Estado de Criticidade Veículo": "Leve(Liberado)",
     "Observacoes": "Sem avaria.",
     "ID COLABORADOR": "262010",
     "ID DO AVALIADOR(A)": "272640",
     "Abrir Os": "NÃO",
-    "Os": NaN,
-    "Abrir Os ": "NÃO"
+    "Os": null,
+    "Abrir Os ": "NÃO",
+    "Unnamed: 21": null
   },
   {
     "ID": "3828216",
@@ -20535,14 +21394,15 @@ const CHECKLIST_VEICULAR_DATA = [
     "Condutor": "Fábio Junio Ferreira Barboza ",
     "Data Hora": "05/08/2026 16:33",
     "VIDEOTELEMTRIA": "SIM",
-    "Itens Danificados": NaN,
+    "Itens Danificados": null,
     "Estado de Criticidade Veículo": "Leve(Liberado)",
     "Observacoes": "Sem avaria.",
     "ID COLABORADOR": "189200",
     "ID DO AVALIADOR(A)": "272640",
     "Abrir Os": "NÃO",
-    "Os": NaN,
-    "Abrir Os ": "NÃO"
+    "Os": null,
+    "Abrir Os ": "NÃO",
+    "Unnamed: 21": null
   },
   {
     "ID": "3828217",
@@ -20559,14 +21419,15 @@ const CHECKLIST_VEICULAR_DATA = [
     "Condutor": "José Ricardo do Carmo ",
     "Data Hora": "06/08/2026 07:08",
     "VIDEOTELEMTRIA": "SIM",
-    "Itens Danificados": NaN,
+    "Itens Danificados": null,
     "Estado de Criticidade Veículo": "Leve(Liberado)",
     "Observacoes": "Sem avaria.",
     "ID COLABORADOR": "84165",
     "ID DO AVALIADOR(A)": "272640",
     "Abrir Os": "NÃO",
-    "Os": NaN,
-    "Abrir Os ": "NÃO"
+    "Os": null,
+    "Abrir Os ": "NÃO",
+    "Unnamed: 21": null
   },
   {
     "ID": "3828218",
@@ -20583,14 +21444,15 @@ const CHECKLIST_VEICULAR_DATA = [
     "Condutor": "José Ferreira da Silva",
     "Data Hora": "06/08/2026 07:34",
     "VIDEOTELEMTRIA": "SIM",
-    "Itens Danificados": NaN,
+    "Itens Danificados": null,
     "Estado de Criticidade Veículo": "Leve(Liberado)",
     "Observacoes": "Sem avaria",
     "ID COLABORADOR": "283070",
     "ID DO AVALIADOR(A)": "272640",
     "Abrir Os": "NÃO",
-    "Os": NaN,
-    "Abrir Os ": "NÃO"
+    "Os": null,
+    "Abrir Os ": "NÃO",
+    "Unnamed: 21": null
   },
   {
     "ID": "3828983",
@@ -20607,14 +21469,15 @@ const CHECKLIST_VEICULAR_DATA = [
     "Condutor": "Victor Emanuel Francisco de Moraes ",
     "Data Hora": "06/08/2026 08:42",
     "VIDEOTELEMTRIA": "SIM",
-    "Itens Danificados": NaN,
+    "Itens Danificados": null,
     "Estado de Criticidade Veículo": "Moderado(Condutor notificado)",
     "Observacoes": "Amassado na lateral caçamba lado direito.",
     "ID COLABORADOR": "255310",
     "ID DO AVALIADOR(A)": "272640",
     "Abrir Os": "NÃO",
-    "Os": NaN,
-    "Abrir Os ": "NÃO"
+    "Os": null,
+    "Abrir Os ": "NÃO",
+    "Unnamed: 21": null
   },
   {
     "ID": "3830646",
@@ -20637,8 +21500,9 @@ const CHECKLIST_VEICULAR_DATA = [
     "ID COLABORADOR": "276230",
     "ID DO AVALIADOR(A)": "272640",
     "Abrir Os": "NÃO",
-    "Os": NaN,
-    "Abrir Os ": "NÃO"
+    "Os": null,
+    "Abrir Os ": "NÃO",
+    "Unnamed: 21": null
   },
   {
     "ID": "3830647",
@@ -20655,14 +21519,15 @@ const CHECKLIST_VEICULAR_DATA = [
     "Condutor": "Ricardo Aparecido da Silva",
     "Data Hora": "06/08/2026 12:19",
     "VIDEOTELEMTRIA": "SIM",
-    "Itens Danificados": NaN,
+    "Itens Danificados": null,
     "Estado de Criticidade Veículo": "Leve(Liberado)",
     "Observacoes": "Sem avaria.",
     "ID COLABORADOR": "111909",
     "ID DO AVALIADOR(A)": "272640",
     "Abrir Os": "NÃO",
-    "Os": NaN,
-    "Abrir Os ": "NÃO"
+    "Os": null,
+    "Abrir Os ": "NÃO",
+    "Unnamed: 21": null
   },
   {
     "ID": "3830648",
@@ -20679,14 +21544,15 @@ const CHECKLIST_VEICULAR_DATA = [
     "Condutor": "Luis Fernando Cassezi ",
     "Data Hora": "06/08/2026 15:21",
     "VIDEOTELEMTRIA": "SIM",
-    "Itens Danificados": NaN,
+    "Itens Danificados": null,
     "Estado de Criticidade Veículo": "Moderado(Condutor notificado)",
     "Observacoes": "Sem a tampa traseira.",
     "ID COLABORADOR": "277820",
     "ID DO AVALIADOR(A)": "272640",
     "Abrir Os": "NÃO",
-    "Os": NaN,
-    "Abrir Os ": "NÃO"
+    "Os": null,
+    "Abrir Os ": "NÃO",
+    "Unnamed: 21": null
   },
   {
     "ID": "3830649",
@@ -20703,14 +21569,15 @@ const CHECKLIST_VEICULAR_DATA = [
     "Condutor": "Joyce Rodrigues Rebouças ",
     "Data Hora": "07/08/2026 07:18",
     "VIDEOTELEMTRIA": "SIM",
-    "Itens Danificados": NaN,
+    "Itens Danificados": null,
     "Estado de Criticidade Veículo": "Leve(Liberado)",
     "Observacoes": "Sem avaria.",
     "ID COLABORADOR": "283700",
     "ID DO AVALIADOR(A)": "272640",
     "Abrir Os": "NÃO",
-    "Os": NaN,
-    "Abrir Os ": "NÃO"
+    "Os": null,
+    "Abrir Os ": "NÃO",
+    "Unnamed: 21": null
   },
   {
     "ID": "3830650",
@@ -20727,14 +21594,15 @@ const CHECKLIST_VEICULAR_DATA = [
     "Condutor": "Pedro Augusto Silva ",
     "Data Hora": "07/08/2026 07:50",
     "VIDEOTELEMTRIA": "SIM",
-    "Itens Danificados": NaN,
+    "Itens Danificados": null,
     "Estado de Criticidade Veículo": "Leve(Liberado)",
     "Observacoes": "Sem avaria.",
     "ID COLABORADOR": "269510",
     "ID DO AVALIADOR(A)": "272640",
     "Abrir Os": "NÃO",
-    "Os": NaN,
-    "Abrir Os ": "NÃO"
+    "Os": null,
+    "Abrir Os ": "NÃO",
+    "Unnamed: 21": null
   },
   {
     "ID": "3830651",
@@ -20751,14 +21619,15 @@ const CHECKLIST_VEICULAR_DATA = [
     "Condutor": "Mildo Sérgio Veroneze",
     "Data Hora": "07/08/2026 08:51",
     "VIDEOTELEMTRIA": "SIM",
-    "Itens Danificados": NaN,
+    "Itens Danificados": null,
     "Estado de Criticidade Veículo": "Moderado(Condutor notificado)",
     "Observacoes": "Luz da placa (queimada)",
     "ID COLABORADOR": "283110",
     "ID DO AVALIADOR(A)": "272640",
     "Abrir Os": "NÃO",
-    "Os": NaN,
-    "Abrir Os ": "NÃO"
+    "Os": null,
+    "Abrir Os ": "NÃO",
+    "Unnamed: 21": null
   },
   {
     "ID": "3831137",
@@ -20775,14 +21644,15 @@ const CHECKLIST_VEICULAR_DATA = [
     "Condutor": "Kalil Henrique Gaisdorf Catalani ",
     "Data Hora": "07/08/2026 09:19",
     "VIDEOTELEMTRIA": "SIM",
-    "Itens Danificados": NaN,
+    "Itens Danificados": null,
     "Estado de Criticidade Veículo": "Leve(Liberado)",
     "Observacoes": "Sem avaria.",
     "ID COLABORADOR": "272830",
     "ID DO AVALIADOR(A)": "272640",
     "Abrir Os": "NÃO",
-    "Os": NaN,
-    "Abrir Os ": "NÃO"
+    "Os": null,
+    "Abrir Os ": "NÃO",
+    "Unnamed: 21": null
   },
   {
     "ID": "3831139",
@@ -20799,14 +21669,15 @@ const CHECKLIST_VEICULAR_DATA = [
     "Condutor": "Jussara Soares de Souza ",
     "Data Hora": "07/08/2026 14:02",
     "VIDEOTELEMTRIA": "SIM",
-    "Itens Danificados": NaN,
+    "Itens Danificados": null,
     "Estado de Criticidade Veículo": "Leve(Liberado)",
     "Observacoes": "Sem avaria.",
     "ID COLABORADOR": "272640",
     "ID DO AVALIADOR(A)": "272640",
     "Abrir Os": "NÃO",
-    "Os": NaN,
-    "Abrir Os ": "NÃO"
+    "Os": null,
+    "Abrir Os ": "NÃO",
+    "Unnamed: 21": null
   },
   {
     "ID": "3831140",
@@ -20823,14 +21694,15 @@ const CHECKLIST_VEICULAR_DATA = [
     "Condutor": "Agnaldo de Oliveira ",
     "Data Hora": "07/08/2026 14:12",
     "VIDEOTELEMTRIA": "SIM",
-    "Itens Danificados": NaN,
+    "Itens Danificados": null,
     "Estado de Criticidade Veículo": "Leve(Liberado)",
     "Observacoes": "Sem avaria.",
     "ID COLABORADOR": "281460",
     "ID DO AVALIADOR(A)": "272640",
     "Abrir Os": "NÃO",
-    "Os": NaN,
-    "Abrir Os ": "NÃO"
+    "Os": null,
+    "Abrir Os ": "NÃO",
+    "Unnamed: 21": null
   },
   {
     "ID": "3831724",
@@ -20847,14 +21719,15 @@ const CHECKLIST_VEICULAR_DATA = [
     "Condutor": "Luis Fernando Cassezi",
     "Data Hora": "07/08/2026 15:21",
     "VIDEOTELEMTRIA": "SIM",
-    "Itens Danificados": NaN,
+    "Itens Danificados": null,
     "Estado de Criticidade Veículo": "Leve(Liberado)",
     "Observacoes": "Sem avaria.",
     "ID COLABORADOR": "277820",
     "ID DO AVALIADOR(A)": "272640",
     "Abrir Os": "NÃO",
-    "Os": NaN,
-    "Abrir Os ": "NÃO"
+    "Os": null,
+    "Abrir Os ": "NÃO",
+    "Unnamed: 21": null
   },
   {
     "ID": "3835787",
@@ -20871,14 +21744,15 @@ const CHECKLIST_VEICULAR_DATA = [
     "Condutor": "Leonardo Estenio Gallon Pinto ",
     "Data Hora": "10/08/2026 07:47",
     "VIDEOTELEMTRIA": "SIM",
-    "Itens Danificados": NaN,
+    "Itens Danificados": null,
     "Estado de Criticidade Veículo": "Leve(Liberado)",
     "Observacoes": "Sem avaria.",
     "ID COLABORADOR": "272430",
     "ID DO AVALIADOR(A)": "272640",
     "Abrir Os": "NÃO",
-    "Os": NaN,
-    "Abrir Os ": "NÃO"
+    "Os": null,
+    "Abrir Os ": "NÃO",
+    "Unnamed: 21": null
   },
   {
     "ID": "3835788",
@@ -20895,14 +21769,15 @@ const CHECKLIST_VEICULAR_DATA = [
     "Condutor": "Gilmar Rebouças ",
     "Data Hora": "10/08/2026 08:35",
     "VIDEOTELEMTRIA": "SIM",
-    "Itens Danificados": NaN,
+    "Itens Danificados": null,
     "Estado de Criticidade Veículo": "Leve(Liberado)",
     "Observacoes": "Sem avaria.",
-    "ID COLABORADOR": NaN,
+    "ID COLABORADOR": null,
     "ID DO AVALIADOR(A)": "272640",
     "Abrir Os": "NÃO",
-    "Os": NaN,
-    "Abrir Os ": "NÃO"
+    "Os": null,
+    "Abrir Os ": "NÃO",
+    "Unnamed: 21": null
   },
   {
     "ID": "3835789",
@@ -20919,14 +21794,15 @@ const CHECKLIST_VEICULAR_DATA = [
     "Condutor": "Karolainy da Silva Roque ",
     "Data Hora": "10/08/2026 08:37",
     "VIDEOTELEMTRIA": "SIM",
-    "Itens Danificados": NaN,
+    "Itens Danificados": null,
     "Estado de Criticidade Veículo": "Leve(Liberado)",
     "Observacoes": "Sem avaria.",
     "ID COLABORADOR": "272590",
     "ID DO AVALIADOR(A)": "272640",
     "Abrir Os": "NÃO",
-    "Os": NaN,
-    "Abrir Os ": "NÃO"
+    "Os": null,
+    "Abrir Os ": "NÃO",
+    "Unnamed: 21": null
   },
   {
     "ID": "3835790",
@@ -20943,14 +21819,15 @@ const CHECKLIST_VEICULAR_DATA = [
     "Condutor": "Robert Willian Pereira Costa",
     "Data Hora": "10/08/2026 13:22",
     "VIDEOTELEMTRIA": "SIM",
-    "Itens Danificados": NaN,
+    "Itens Danificados": null,
     "Estado de Criticidade Veículo": "Leve(Liberado)",
     "Observacoes": "Sem avaria.",
     "ID COLABORADOR": "265760",
     "ID DO AVALIADOR(A)": "272640",
     "Abrir Os": "NÃO",
-    "Os": NaN,
-    "Abrir Os ": "NÃO"
+    "Os": null,
+    "Abrir Os ": "NÃO",
+    "Unnamed: 21": null
   },
   {
     "ID": "3835791",
@@ -20967,14 +21844,15 @@ const CHECKLIST_VEICULAR_DATA = [
     "Condutor": "Anderson Henrique Simão ",
     "Data Hora": "10/08/2026 14:06",
     "VIDEOTELEMTRIA": "SIM",
-    "Itens Danificados": NaN,
+    "Itens Danificados": null,
     "Estado de Criticidade Veículo": "Leve(Liberado)",
     "Observacoes": "Sem avaria.",
     "ID COLABORADOR": "251390",
     "ID DO AVALIADOR(A)": "272640",
     "Abrir Os": "NÃO",
-    "Os": NaN,
-    "Abrir Os ": "NÃO"
+    "Os": null,
+    "Abrir Os ": "NÃO",
+    "Unnamed: 21": null
   },
   {
     "ID": "3835792",
@@ -20997,8 +21875,9 @@ const CHECKLIST_VEICULAR_DATA = [
     "ID COLABORADOR": "283080",
     "ID DO AVALIADOR(A)": "272640",
     "Abrir Os": "NÃO",
-    "Os": NaN,
-    "Abrir Os ": "NÃO"
+    "Os": null,
+    "Abrir Os ": "NÃO",
+    "Unnamed: 21": null
   },
   {
     "ID": "3837472",
@@ -21015,14 +21894,15 @@ const CHECKLIST_VEICULAR_DATA = [
     "Condutor": "Diego Francisco Rosa da Silva ",
     "Data Hora": "11/08/2026 08:05",
     "VIDEOTELEMTRIA": "SIM",
-    "Itens Danificados": NaN,
+    "Itens Danificados": null,
     "Estado de Criticidade Veículo": "Leve(Liberado)",
     "Observacoes": "Sem avaria.",
     "ID COLABORADOR": "266930",
     "ID DO AVALIADOR(A)": "272640",
     "Abrir Os": "NÃO",
-    "Os": NaN,
-    "Abrir Os ": "NÃO"
+    "Os": null,
+    "Abrir Os ": "NÃO",
+    "Unnamed: 21": null
   },
   {
     "ID": "3837473",
@@ -21039,14 +21919,15 @@ const CHECKLIST_VEICULAR_DATA = [
     "Condutor": "Rafael César Ferreira ",
     "Data Hora": "11/08/2026 08:35",
     "VIDEOTELEMTRIA": "SIM",
-    "Itens Danificados": NaN,
+    "Itens Danificados": null,
     "Estado de Criticidade Veículo": "Leve(Liberado)",
     "Observacoes": "Checklist pós manutenção: Concluído.",
     "ID COLABORADOR": "251130",
     "ID DO AVALIADOR(A)": "272640",
     "Abrir Os": "NÃO",
-    "Os": NaN,
-    "Abrir Os ": "NÃO"
+    "Os": null,
+    "Abrir Os ": "NÃO",
+    "Unnamed: 21": null
   },
   {
     "ID": "3837474",
@@ -21063,14 +21944,15 @@ const CHECKLIST_VEICULAR_DATA = [
     "Condutor": "João Jesus Ferreira ",
     "Data Hora": "11/08/2026 08:45",
     "VIDEOTELEMTRIA": "SIM",
-    "Itens Danificados": NaN,
+    "Itens Danificados": null,
     "Estado de Criticidade Veículo": "Leve(Liberado)",
     "Observacoes": "Sem avaria.",
     "ID COLABORADOR": "179103",
     "ID DO AVALIADOR(A)": "272640",
     "Abrir Os": "NÃO",
-    "Os": NaN,
-    "Abrir Os ": "NÃO"
+    "Os": null,
+    "Abrir Os ": "NÃO",
+    "Unnamed: 21": null
   },
   {
     "ID": "3837475",
@@ -21087,14 +21969,15 @@ const CHECKLIST_VEICULAR_DATA = [
     "Condutor": "Josni Adriano Silva ",
     "Data Hora": "11/08/2026 08:47",
     "VIDEOTELEMTRIA": "SIM",
-    "Itens Danificados": NaN,
+    "Itens Danificados": null,
     "Estado de Criticidade Veículo": "Leve(Liberado)",
     "Observacoes": "Sem avaria.",
     "ID COLABORADOR": "198420",
     "ID DO AVALIADOR(A)": "272640",
     "Abrir Os": "NÃO",
-    "Os": NaN,
-    "Abrir Os ": "NÃO"
+    "Os": null,
+    "Abrir Os ": "NÃO",
+    "Unnamed: 21": null
   },
   {
     "ID": "3837476",
@@ -21111,14 +21994,15 @@ const CHECKLIST_VEICULAR_DATA = [
     "Condutor": "Paulo Henrique Cardoso Silva ",
     "Data Hora": "11/08/2026 10:47",
     "VIDEOTELEMTRIA": "SIM",
-    "Itens Danificados": NaN,
+    "Itens Danificados": null,
     "Estado de Criticidade Veículo": "Leve(Liberado)",
     "Observacoes": "Sem avaria.",
     "ID COLABORADOR": "284510",
     "ID DO AVALIADOR(A)": "272640",
     "Abrir Os": "NÃO",
-    "Os": NaN,
-    "Abrir Os ": "NÃO"
+    "Os": null,
+    "Abrir Os ": "NÃO",
+    "Unnamed: 21": null
   },
   {
     "ID": "3837477",
@@ -21135,14 +22019,15 @@ const CHECKLIST_VEICULAR_DATA = [
     "Condutor": "Jonatas da Silva Lemes",
     "Data Hora": "11/08/2026 10:58",
     "VIDEOTELEMTRIA": "SIM",
-    "Itens Danificados": NaN,
+    "Itens Danificados": null,
     "Estado de Criticidade Veículo": "Moderado(Condutor notificado)",
     "Observacoes": "Amassado porta motorista e passageiro",
     "ID COLABORADOR": "279140",
     "ID DO AVALIADOR(A)": "272640",
     "Abrir Os": "NÃO",
-    "Os": NaN,
-    "Abrir Os ": "NÃO"
+    "Os": null,
+    "Abrir Os ": "NÃO",
+    "Unnamed: 21": null
   },
   {
     "ID": "3840174",
@@ -21159,14 +22044,15 @@ const CHECKLIST_VEICULAR_DATA = [
     "Condutor": "Anderson Henrique Simão ",
     "Data Hora": "11/08/2026 14:54",
     "VIDEOTELEMTRIA": "SIM",
-    "Itens Danificados": NaN,
+    "Itens Danificados": null,
     "Estado de Criticidade Veículo": "Leve(Liberado)",
     "Observacoes": "Checklist pós manutenção: Concluído",
     "ID COLABORADOR": "251390",
     "ID DO AVALIADOR(A)": "272640",
     "Abrir Os": "NÃO",
-    "Os": NaN,
-    "Abrir Os ": "NÃO"
+    "Os": null,
+    "Abrir Os ": "NÃO",
+    "Unnamed: 21": null
   },
   {
     "ID": "3840175",
@@ -21189,8 +22075,9 @@ const CHECKLIST_VEICULAR_DATA = [
     "ID COLABORADOR": "251390",
     "ID DO AVALIADOR(A)": "272640",
     "Abrir Os": "NÃO",
-    "Os": NaN,
-    "Abrir Os ": "NÃO"
+    "Os": null,
+    "Abrir Os ": "NÃO",
+    "Unnamed: 21": null
   },
   {
     "ID": "3840176",
@@ -21207,14 +22094,15 @@ const CHECKLIST_VEICULAR_DATA = [
     "Condutor": "Jussara Soares de Souza ",
     "Data Hora": "12/08/2026 08:37",
     "VIDEOTELEMTRIA": "NÃO",
-    "Itens Danificados": NaN,
+    "Itens Danificados": null,
     "Estado de Criticidade Veículo": "Leve(Liberado)",
     "Observacoes": "Sem avaria.",
     "ID COLABORADOR": "272640",
     "ID DO AVALIADOR(A)": "272640",
     "Abrir Os": "NÃO",
-    "Os": NaN,
-    "Abrir Os ": "NÃO"
+    "Os": null,
+    "Abrir Os ": "NÃO",
+    "Unnamed: 21": null
   },
   {
     "ID": "3840177",
@@ -21231,14 +22119,15 @@ const CHECKLIST_VEICULAR_DATA = [
     "Condutor": "João Jesus Ferreira ",
     "Data Hora": "12/08/2026 09:17",
     "VIDEOTELEMTRIA": "SIM",
-    "Itens Danificados": NaN,
+    "Itens Danificados": null,
     "Estado de Criticidade Veículo": "Leve(Liberado)",
     "Observacoes": "Sem avaria.",
     "ID COLABORADOR": "179103",
     "ID DO AVALIADOR(A)": "272640",
     "Abrir Os": "NÃO",
-    "Os": NaN,
-    "Abrir Os ": "NÃO"
+    "Os": null,
+    "Abrir Os ": "NÃO",
+    "Unnamed: 21": null
   },
   {
     "ID": "3840178",
@@ -21255,14 +22144,15 @@ const CHECKLIST_VEICULAR_DATA = [
     "Condutor": "Alex Rodrigo Bueno ",
     "Data Hora": "12/08/2026 09:53",
     "VIDEOTELEMTRIA": "SIM",
-    "Itens Danificados": NaN,
+    "Itens Danificados": null,
     "Estado de Criticidade Veículo": "Leve(Liberado)",
     "Observacoes": "Sem avaria.",
-    "ID COLABORADOR": NaN,
+    "ID COLABORADOR": null,
     "ID DO AVALIADOR(A)": "272640",
     "Abrir Os": "NÃO",
-    "Os": NaN,
-    "Abrir Os ": "NÃO"
+    "Os": null,
+    "Abrir Os ": "NÃO",
+    "Unnamed: 21": null
   },
   {
     "ID": "3840179",
@@ -21279,14 +22169,15 @@ const CHECKLIST_VEICULAR_DATA = [
     "Condutor": "Karolainy da Silva Roque ",
     "Data Hora": "12/08/2026 10:04",
     "VIDEOTELEMTRIA": "SIM",
-    "Itens Danificados": NaN,
+    "Itens Danificados": null,
     "Estado de Criticidade Veículo": "Leve(Liberado)",
     "Observacoes": "Sem avaria.",
     "ID COLABORADOR": "272590",
     "ID DO AVALIADOR(A)": "272640",
     "Abrir Os": "NÃO",
-    "Os": NaN,
-    "Abrir Os ": "NÃO"
+    "Os": null,
+    "Abrir Os ": "NÃO",
+    "Unnamed: 21": null
   },
   {
     "ID": "3840180",
@@ -21303,14 +22194,15 @@ const CHECKLIST_VEICULAR_DATA = [
     "Condutor": "Daniel Ferreira da Cruz Neto ",
     "Data Hora": "12/08/2026 10:19",
     "VIDEOTELEMTRIA": "NÃO",
-    "Itens Danificados": NaN,
+    "Itens Danificados": null,
     "Estado de Criticidade Veículo": "Leve(Liberado)",
     "Observacoes": "Sem avaria.",
     "ID COLABORADOR": "266350",
     "ID DO AVALIADOR(A)": "272640",
     "Abrir Os": "NÃO",
-    "Os": NaN,
-    "Abrir Os ": "NÃO"
+    "Os": null,
+    "Abrir Os ": "NÃO",
+    "Unnamed: 21": null
   },
   {
     "ID": "3842945",
@@ -21327,14 +22219,15 @@ const CHECKLIST_VEICULAR_DATA = [
     "Condutor": "César Fabiano Mineiro",
     "Data Hora": "12/08/2026 16:13",
     "VIDEOTELEMTRIA": "SIM",
-    "Itens Danificados": NaN,
+    "Itens Danificados": null,
     "Estado de Criticidade Veículo": "Leve(Liberado)",
     "Observacoes": "Sem avaria.",
     "ID COLABORADOR": "2100",
     "ID DO AVALIADOR(A)": "272640",
     "Abrir Os": "NÃO",
-    "Os": NaN,
-    "Abrir Os ": "NÃO"
+    "Os": null,
+    "Abrir Os ": "NÃO",
+    "Unnamed: 21": null
   },
   {
     "ID": "3842946",
@@ -21351,14 +22244,15 @@ const CHECKLIST_VEICULAR_DATA = [
     "Condutor": "Jussara Soares de Souza ",
     "Data Hora": "12/08/2026 16:16",
     "VIDEOTELEMTRIA": "SIM",
-    "Itens Danificados": NaN,
+    "Itens Danificados": null,
     "Estado de Criticidade Veículo": "Leve(Liberado)",
     "Observacoes": "Sem avaria.",
     "ID COLABORADOR": "272640",
     "ID DO AVALIADOR(A)": "272640",
     "Abrir Os": "NÃO",
-    "Os": NaN,
-    "Abrir Os ": "NÃO"
+    "Os": null,
+    "Abrir Os ": "NÃO",
+    "Unnamed: 21": null
   },
   {
     "ID": "3842947",
@@ -21375,14 +22269,15 @@ const CHECKLIST_VEICULAR_DATA = [
     "Condutor": "Tiago Damião Louzada ",
     "Data Hora": "13/08/2026 06:59",
     "VIDEOTELEMTRIA": "SIM",
-    "Itens Danificados": NaN,
+    "Itens Danificados": null,
     "Estado de Criticidade Veículo": "Leve(Liberado)",
     "Observacoes": "Sem avaria.",
     "ID COLABORADOR": "5",
     "ID DO AVALIADOR(A)": "272640",
     "Abrir Os": "NÃO",
-    "Os": NaN,
-    "Abrir Os ": "NÃO"
+    "Os": null,
+    "Abrir Os ": "NÃO",
+    "Unnamed: 21": null
   },
   {
     "ID": "3847332",
@@ -21396,17 +22291,18 @@ const CHECKLIST_VEICULAR_DATA = [
     "Score": "0.0",
     "Frota": "460625 - FIAT STRADA ENDURENCE CP 1.4 - ALUGADA(REB4C06)",
     "GESTORES": "CASSIO ADRIANO COSTA",
-    "Condutor": NaN,
+    "Condutor": null,
     "Data Hora": "13/08/2026 10:35",
     "VIDEOTELEMTRIA": "SIM",
-    "Itens Danificados": NaN,
+    "Itens Danificados": null,
     "Estado de Criticidade Veículo": "Leve(Liberado)",
     "Observacoes": "Sem avaria.",
     "ID COLABORADOR": "281920",
     "ID DO AVALIADOR(A)": "272640",
     "Abrir Os": "NÃO",
-    "Os": NaN,
-    "Abrir Os ": "NÃO"
+    "Os": null,
+    "Abrir Os ": "NÃO",
+    "Unnamed: 21": null
   },
   {
     "ID": "3847333",
@@ -21423,14 +22319,15 @@ const CHECKLIST_VEICULAR_DATA = [
     "Condutor": "Felipe Augusto Camolezi",
     "Data Hora": "13/08/2026 10:44",
     "VIDEOTELEMTRIA": "SIM",
-    "Itens Danificados": NaN,
+    "Itens Danificados": null,
     "Estado de Criticidade Veículo": "Leve(Liberado)",
     "Observacoes": "Sem avaria.",
     "ID COLABORADOR": "280400",
     "ID DO AVALIADOR(A)": "272640",
     "Abrir Os": "NÃO",
-    "Os": NaN,
-    "Abrir Os ": "NÃO"
+    "Os": null,
+    "Abrir Os ": "NÃO",
+    "Unnamed: 21": null
   },
   {
     "ID": "3847334",
@@ -21447,14 +22344,15 @@ const CHECKLIST_VEICULAR_DATA = [
     "Condutor": "Daniel Assunção ",
     "Data Hora": "13/08/2026 10:57",
     "VIDEOTELEMTRIA": "SIM",
-    "Itens Danificados": NaN,
+    "Itens Danificados": null,
     "Estado de Criticidade Veículo": "Leve(Liberado)",
     "Observacoes": "Sem avaria.",
     "ID COLABORADOR": "284900",
     "ID DO AVALIADOR(A)": "272640",
     "Abrir Os": "NÃO",
-    "Os": NaN,
-    "Abrir Os ": "NÃO"
+    "Os": null,
+    "Abrir Os ": "NÃO",
+    "Unnamed: 21": null
   },
   {
     "ID": "3847335",
@@ -21471,14 +22369,15 @@ const CHECKLIST_VEICULAR_DATA = [
     "Condutor": "Onofre Evangelista da Silva Junior ",
     "Data Hora": "13/08/2026 13:46",
     "VIDEOTELEMTRIA": "SIM",
-    "Itens Danificados": NaN,
+    "Itens Danificados": null,
     "Estado de Criticidade Veículo": "Leve(Liberado)",
     "Observacoes": "Esguicho (reservatório quebrado)Banco motorista (sem regulagem do assento)Macaco (não tem no veículo)Luz da placa direita (queimada)Maçaneta tampa traseira (quebrada)",
     "ID COLABORADOR": "163363",
     "ID DO AVALIADOR(A)": "272640",
     "Abrir Os": "NÃO",
-    "Os": NaN,
-    "Abrir Os ": "NÃO"
+    "Os": null,
+    "Abrir Os ": "NÃO",
+    "Unnamed: 21": null
   },
   {
     "ID": "3847336",
@@ -21495,14 +22394,15 @@ const CHECKLIST_VEICULAR_DATA = [
     "Condutor": "Alessandro da Silva ",
     "Data Hora": "14/08/2026 14:34",
     "VIDEOTELEMTRIA": "SIM",
-    "Itens Danificados": NaN,
+    "Itens Danificados": null,
     "Estado de Criticidade Veículo": "Leve(Liberado)",
     "Observacoes": "Sem avaria.",
     "ID COLABORADOR": "262010",
     "ID DO AVALIADOR(A)": "272640",
     "Abrir Os": "NÃO",
-    "Os": NaN,
-    "Abrir Os ": "NÃO"
+    "Os": null,
+    "Abrir Os ": "NÃO",
+    "Unnamed: 21": null
   },
   {
     "ID": "3847337",
@@ -21519,14 +22419,15 @@ const CHECKLIST_VEICULAR_DATA = [
     "Condutor": "Jhonnes Alves Moura ",
     "Data Hora": "14/08/2026 16:00",
     "VIDEOTELEMTRIA": "SIM",
-    "Itens Danificados": NaN,
+    "Itens Danificados": null,
     "Estado de Criticidade Veículo": "Moderado(Condutor notificado)",
     "Observacoes": "Luz da seta direita traseira (queimada)Maçaneta tampa traseira (quebrada)",
     "ID COLABORADOR": "212301",
     "ID DO AVALIADOR(A)": "272640",
     "Abrir Os": "NÃO",
-    "Os": NaN,
-    "Abrir Os ": "NÃO"
+    "Os": null,
+    "Abrir Os ": "NÃO",
+    "Unnamed: 21": null
   },
   {
     "ID": "3852685",
@@ -21543,14 +22444,15 @@ const CHECKLIST_VEICULAR_DATA = [
     "Condutor": "Anderson Ricardo Ruaro ",
     "Data Hora": "17/08/2026 07:10",
     "VIDEOTELEMTRIA": "SIM",
-    "Itens Danificados": NaN,
+    "Itens Danificados": null,
     "Estado de Criticidade Veículo": "Leve(Liberado)",
     "Observacoes": "Sem avaria.",
     "ID COLABORADOR": "168907",
     "ID DO AVALIADOR(A)": "272640",
     "Abrir Os": "NÃO",
-    "Os": NaN,
-    "Abrir Os ": "NÃO"
+    "Os": null,
+    "Abrir Os ": "NÃO",
+    "Unnamed: 21": null
   },
   {
     "ID": "3852686",
@@ -21567,14 +22469,15 @@ const CHECKLIST_VEICULAR_DATA = [
     "Condutor": "Leonardo Estenio Gallon Pinto ",
     "Data Hora": "17/08/2026 07:13",
     "VIDEOTELEMTRIA": "SIM",
-    "Itens Danificados": NaN,
+    "Itens Danificados": null,
     "Estado de Criticidade Veículo": "Leve(Liberado)",
     "Observacoes": "Sem avaria.",
     "ID COLABORADOR": "272430",
     "ID DO AVALIADOR(A)": "272640",
     "Abrir Os": "NÃO",
-    "Os": NaN,
-    "Abrir Os ": "NÃO"
+    "Os": null,
+    "Abrir Os ": "NÃO",
+    "Unnamed: 21": null
   },
   {
     "ID": "3852687",
@@ -21591,14 +22494,15 @@ const CHECKLIST_VEICULAR_DATA = [
     "Condutor": "William Roberto Dalla Costa ",
     "Data Hora": "17/08/2026 07:16",
     "VIDEOTELEMTRIA": "SIM",
-    "Itens Danificados": NaN,
+    "Itens Danificados": null,
     "Estado de Criticidade Veículo": "Leve(Liberado)",
     "Observacoes": "Sem avaria. ",
     "ID COLABORADOR": "272740",
     "ID DO AVALIADOR(A)": "272640",
     "Abrir Os": "NÃO",
-    "Os": NaN,
-    "Abrir Os ": "NÃO"
+    "Os": null,
+    "Abrir Os ": "NÃO",
+    "Unnamed: 21": null
   },
   {
     "ID": "3852688",
@@ -21615,14 +22519,15 @@ const CHECKLIST_VEICULAR_DATA = [
     "Condutor": "Luiz Alfredo de Souza ",
     "Data Hora": "17/08/2026 08:25",
     "VIDEOTELEMTRIA": "SIM",
-    "Itens Danificados": NaN,
+    "Itens Danificados": null,
     "Estado de Criticidade Veículo": "Leve(Liberado)",
     "Observacoes": "Sem avaria.",
     "ID COLABORADOR": "5423",
     "ID DO AVALIADOR(A)": "272640",
     "Abrir Os": "NÃO",
-    "Os": NaN,
-    "Abrir Os ": "NÃO"
+    "Os": null,
+    "Abrir Os ": "NÃO",
+    "Unnamed: 21": null
   },
   {
     "ID": "3852689",
@@ -21639,14 +22544,15 @@ const CHECKLIST_VEICULAR_DATA = [
     "Condutor": "Wallason Soares Reges ",
     "Data Hora": "17/08/2026 09:35",
     "VIDEOTELEMTRIA": "SIM",
-    "Itens Danificados": NaN,
+    "Itens Danificados": null,
     "Estado de Criticidade Veículo": "Leve(Liberado)",
     "Observacoes": "Sem avaria.",
     "ID COLABORADOR": "1",
     "ID DO AVALIADOR(A)": "272640",
     "Abrir Os": "NÃO",
-    "Os": NaN,
-    "Abrir Os ": "NÃO"
+    "Os": null,
+    "Abrir Os ": "NÃO",
+    "Unnamed: 21": null
   },
   {
     "ID": "3852690",
@@ -21663,14 +22569,15 @@ const CHECKLIST_VEICULAR_DATA = [
     "Condutor": "Onofre Evangelista da Silva Junior ",
     "Data Hora": "17/08/2026 10:13",
     "VIDEOTELEMTRIA": "SIM",
-    "Itens Danificados": NaN,
+    "Itens Danificados": null,
     "Estado de Criticidade Veículo": "Leve(Liberado)",
     "Observacoes": "Sem avaria.",
     "ID COLABORADOR": "163363",
     "ID DO AVALIADOR(A)": "272640",
     "Abrir Os": "NÃO",
-    "Os": NaN,
-    "Abrir Os ": "NÃO"
+    "Os": null,
+    "Abrir Os ": "NÃO",
+    "Unnamed: 21": null
   },
   {
     "ID": "3852691",
@@ -21693,8 +22600,9 @@ const CHECKLIST_VEICULAR_DATA = [
     "ID COLABORADOR": "273990",
     "ID DO AVALIADOR(A)": "272640",
     "Abrir Os": "NÃO",
-    "Os": NaN,
-    "Abrir Os ": "NÃO"
+    "Os": null,
+    "Abrir Os ": "NÃO",
+    "Unnamed: 21": null
   },
   {
     "ID": "3852692",
@@ -21717,8 +22625,9 @@ const CHECKLIST_VEICULAR_DATA = [
     "ID COLABORADOR": "244290",
     "ID DO AVALIADOR(A)": "272640",
     "Abrir Os": "NÃO",
-    "Os": NaN,
-    "Abrir Os ": "NÃO"
+    "Os": null,
+    "Abrir Os ": "NÃO",
+    "Unnamed: 21": null
   },
   {
     "ID": "3852693",
@@ -21735,14 +22644,15 @@ const CHECKLIST_VEICULAR_DATA = [
     "Condutor": "Jussara Soares de Souza ",
     "Data Hora": "17/08/2026 13:31",
     "VIDEOTELEMTRIA": "SIM",
-    "Itens Danificados": NaN,
+    "Itens Danificados": null,
     "Estado de Criticidade Veículo": "Leve(Liberado)",
     "Observacoes": "Sem avaria.",
     "ID COLABORADOR": "272640",
     "ID DO AVALIADOR(A)": "272640",
     "Abrir Os": "NÃO",
-    "Os": NaN,
-    "Abrir Os ": "NÃO"
+    "Os": null,
+    "Abrir Os ": "NÃO",
+    "Unnamed: 21": null
   },
   {
     "ID": "3852694",
@@ -21765,8 +22675,9 @@ const CHECKLIST_VEICULAR_DATA = [
     "ID COLABORADOR": "2510388",
     "ID DO AVALIADOR(A)": "272640",
     "Abrir Os": "NÃO",
-    "Os": NaN,
-    "Abrir Os ": "NÃO"
+    "Os": null,
+    "Abrir Os ": "NÃO",
+    "Unnamed: 21": null
   },
   {
     "ID": "3855582",
@@ -21783,14 +22694,15 @@ const CHECKLIST_VEICULAR_DATA = [
     "Condutor": "Onofre Evangelista da Silva Junior ",
     "Data Hora": "18/08/2026 07:50",
     "VIDEOTELEMTRIA": "SIM",
-    "Itens Danificados": NaN,
+    "Itens Danificados": null,
     "Estado de Criticidade Veículo": "Leve(Liberado)",
     "Observacoes": "Sem avaria.",
     "ID COLABORADOR": "163363",
     "ID DO AVALIADOR(A)": "272640",
     "Abrir Os": "NÃO",
-    "Os": NaN,
-    "Abrir Os ": "NÃO"
+    "Os": null,
+    "Abrir Os ": "NÃO",
+    "Unnamed: 21": null
   },
   {
     "ID": "3855583",
@@ -21802,19 +22714,20 @@ const CHECKLIST_VEICULAR_DATA = [
     "Data Fim": "18/08/2026 09:13",
     "Status": "Open",
     "Score": "0.0",
-    "Frota": NaN,
+    "Frota": null,
     "GESTORES": "DANIEL FERREIRA",
     "Condutor": "Fábio Sanflorian",
     "Data Hora": "18/08/2026 09:12",
     "VIDEOTELEMTRIA": "SIM",
-    "Itens Danificados": NaN,
+    "Itens Danificados": null,
     "Estado de Criticidade Veículo": "Leve(Liberado)",
     "Observacoes": "Primeiro Checklist do Veículo: Frota 468725Sem avaria.Com todos os acessórios obrigatório do Veículo.",
-    "ID COLABORADOR": NaN,
+    "ID COLABORADOR": null,
     "ID DO AVALIADOR(A)": "272640",
     "Abrir Os": "NÃO",
-    "Os": NaN,
-    "Abrir Os ": "NÃO"
+    "Os": null,
+    "Abrir Os ": "NÃO",
+    "Unnamed: 21": null
   },
   {
     "ID": "3855584",
@@ -21831,14 +22744,15 @@ const CHECKLIST_VEICULAR_DATA = [
     "Condutor": "Karolainy da Silva Roque",
     "Data Hora": "18/08/2026 09:14",
     "VIDEOTELEMTRIA": "SIM",
-    "Itens Danificados": NaN,
+    "Itens Danificados": null,
     "Estado de Criticidade Veículo": "Leve(Liberado)",
-    "Observacoes": NaN,
-    "ID COLABORADOR": NaN,
+    "Observacoes": null,
+    "ID COLABORADOR": null,
     "ID DO AVALIADOR(A)": "27w640",
     "Abrir Os": "NÃO",
-    "Os": NaN,
-    "Abrir Os ": "NÃO"
+    "Os": null,
+    "Abrir Os ": "NÃO",
+    "Unnamed: 21": null
   },
   {
     "ID": "3855585",
@@ -21855,14 +22769,15 @@ const CHECKLIST_VEICULAR_DATA = [
     "Condutor": "Karolainy ",
     "Data Hora": "18/08/2026 10:00",
     "VIDEOTELEMTRIA": "SIM",
-    "Itens Danificados": NaN,
+    "Itens Danificados": null,
     "Estado de Criticidade Veículo": "Leve(Liberado)",
     "Observacoes": "Sem avaria.",
     "ID COLABORADOR": "272590",
     "ID DO AVALIADOR(A)": "272640",
     "Abrir Os": "NÃO",
-    "Os": NaN,
-    "Abrir Os ": "NÃO"
+    "Os": null,
+    "Abrir Os ": "NÃO",
+    "Unnamed: 21": null
   },
   {
     "ID": "3858640",
@@ -21879,14 +22794,15 @@ const CHECKLIST_VEICULAR_DATA = [
     "Condutor": "Diego Francisco Rosa da Silva ",
     "Data Hora": "19/08/2026 07:43",
     "VIDEOTELEMTRIA": "SIM",
-    "Itens Danificados": NaN,
+    "Itens Danificados": null,
     "Estado de Criticidade Veículo": "Leve(Liberado)",
     "Observacoes": "Sem avaria",
     "ID COLABORADOR": "266930",
     "ID DO AVALIADOR(A)": "278000",
     "Abrir Os": "NÃO",
-    "Os": NaN,
-    "Abrir Os ": "NÃO"
+    "Os": null,
+    "Abrir Os ": "NÃO",
+    "Unnamed: 21": null
   },
   {
     "ID": "3858641",
@@ -21903,14 +22819,15 @@ const CHECKLIST_VEICULAR_DATA = [
     "Condutor": "Hércules Antonio da Silva ",
     "Data Hora": "19/08/2026 07:18",
     "VIDEOTELEMTRIA": "SIM",
-    "Itens Danificados": NaN,
+    "Itens Danificados": null,
     "Estado de Criticidade Veículo": "Leve(Liberado)",
     "Observacoes": "Sem avaria ",
     "ID COLABORADOR": "231220",
     "ID DO AVALIADOR(A)": "278000",
     "Abrir Os": "NÃO",
-    "Os": NaN,
-    "Abrir Os ": "NÃO"
+    "Os": null,
+    "Abrir Os ": "NÃO",
+    "Unnamed: 21": null
   },
   {
     "ID": "3858642",
@@ -21927,14 +22844,15 @@ const CHECKLIST_VEICULAR_DATA = [
     "Condutor": "Heverton Henrique Custodio Tampa ",
     "Data Hora": "19/08/2026 07:23",
     "VIDEOTELEMTRIA": "SIM",
-    "Itens Danificados": NaN,
+    "Itens Danificados": null,
     "Estado de Criticidade Veículo": "Leve(Liberado)",
     "Observacoes": "Sem avaria ",
     "ID COLABORADOR": "266560",
     "ID DO AVALIADOR(A)": "278000",
     "Abrir Os": "NÃO",
-    "Os": NaN,
-    "Abrir Os ": "NÃO"
+    "Os": null,
+    "Abrir Os ": "NÃO",
+    "Unnamed: 21": null
   },
   {
     "ID": "3858643",
@@ -21951,14 +22869,15 @@ const CHECKLIST_VEICULAR_DATA = [
     "Condutor": "Antonio Benedito Cassezi ",
     "Data Hora": "19/08/2026 09:18",
     "VIDEOTELEMTRIA": "SIM",
-    "Itens Danificados": NaN,
+    "Itens Danificados": null,
     "Estado de Criticidade Veículo": "Leve(Liberado)",
     "Observacoes": "Sem avaria",
     "ID COLABORADOR": "96520",
     "ID DO AVALIADOR(A)": "278000",
     "Abrir Os": "NÃO",
-    "Os": NaN,
-    "Abrir Os ": "NÃO"
+    "Os": null,
+    "Abrir Os ": "NÃO",
+    "Unnamed: 21": null
   },
   {
     "ID": "3858644",
@@ -21975,14 +22894,15 @@ const CHECKLIST_VEICULAR_DATA = [
     "Condutor": "Willian Roberto Dalla Costa Sem ",
     "Data Hora": "19/08/2026 10:13",
     "VIDEOTELEMTRIA": "SIM",
-    "Itens Danificados": NaN,
+    "Itens Danificados": null,
     "Estado de Criticidade Veículo": "Leve(Liberado)",
     "Observacoes": "Sem avaria ",
     "ID COLABORADOR": "254120",
     "ID DO AVALIADOR(A)": "278000",
     "Abrir Os": "NÃO",
-    "Os": NaN,
-    "Abrir Os ": "NÃO"
+    "Os": null,
+    "Abrir Os ": "NÃO",
+    "Unnamed: 21": null
   },
   {
     "ID": "3858645",
@@ -21999,14 +22919,15 @@ const CHECKLIST_VEICULAR_DATA = [
     "Condutor": "Reginaldo Mantovani ",
     "Data Hora": "19/08/2026 10:20",
     "VIDEOTELEMTRIA": "SIM",
-    "Itens Danificados": NaN,
+    "Itens Danificados": null,
     "Estado de Criticidade Veículo": "Leve(Liberado)",
     "Observacoes": "Sem avaria",
     "ID COLABORADOR": "260910",
     "ID DO AVALIADOR(A)": "278000",
     "Abrir Os": "NÃO",
-    "Os": NaN,
-    "Abrir Os ": "NÃO"
+    "Os": null,
+    "Abrir Os ": "NÃO",
+    "Unnamed: 21": null
   },
   {
     "ID": "3858646",
@@ -22023,14 +22944,15 @@ const CHECKLIST_VEICULAR_DATA = [
     "Condutor": "Paulo Henrique Cardoso da Silva ",
     "Data Hora": "19/08/2026 11:12",
     "VIDEOTELEMTRIA": "SIM",
-    "Itens Danificados": NaN,
+    "Itens Danificados": null,
     "Estado de Criticidade Veículo": "Leve(Liberado)",
     "Observacoes": "Sem avaria ",
     "ID COLABORADOR": "284510",
     "ID DO AVALIADOR(A)": "278000",
     "Abrir Os": "NÃO",
-    "Os": NaN,
-    "Abrir Os ": "NÃO"
+    "Os": null,
+    "Abrir Os ": "NÃO",
+    "Unnamed: 21": null
   },
   {
     "ID": "3858647",
@@ -22047,14 +22969,15 @@ const CHECKLIST_VEICULAR_DATA = [
     "Condutor": "Cláudio Luís Viana de Moura ",
     "Data Hora": "19/08/2026 11:11",
     "VIDEOTELEMTRIA": "NÃO",
-    "Itens Danificados": NaN,
+    "Itens Danificados": null,
     "Estado de Criticidade Veículo": "Leve(Liberado)",
     "Observacoes": "Sem avaria",
     "ID COLABORADOR": "283300",
     "ID DO AVALIADOR(A)": "278000",
     "Abrir Os": "NÃO",
-    "Os": NaN,
-    "Abrir Os ": "NÃO"
+    "Os": null,
+    "Abrir Os ": "NÃO",
+    "Unnamed: 21": null
   },
   {
     "ID": "3858648",
@@ -22071,14 +22994,15 @@ const CHECKLIST_VEICULAR_DATA = [
     "Condutor": "Lívia Louzada Reginato ",
     "Data Hora": "19/08/2026 11:22",
     "VIDEOTELEMTRIA": "NÃO",
-    "Itens Danificados": NaN,
+    "Itens Danificados": null,
     "Estado de Criticidade Veículo": "Leve(Liberado)",
     "Observacoes": "Sem avaria ",
     "ID COLABORADOR": "279230",
     "ID DO AVALIADOR(A)": "278000",
     "Abrir Os": "NÃO",
-    "Os": NaN,
-    "Abrir Os ": "NÃO"
+    "Os": null,
+    "Abrir Os ": "NÃO",
+    "Unnamed: 21": null
   },
   {
     "ID": "3858649",
@@ -22095,14 +23019,15 @@ const CHECKLIST_VEICULAR_DATA = [
     "Condutor": "Douglas Wellington Diogo Alavanca ",
     "Data Hora": "19/08/2026 13:23",
     "VIDEOTELEMTRIA": "SIM",
-    "Itens Danificados": NaN,
+    "Itens Danificados": null,
     "Estado de Criticidade Veículo": "Leve(Liberado)",
     "Observacoes": "Sem avaria ",
     "ID COLABORADOR": "225390",
     "ID DO AVALIADOR(A)": "278000",
     "Abrir Os": "NÃO",
-    "Os": NaN,
-    "Abrir Os ": "NÃO"
+    "Os": null,
+    "Abrir Os ": "NÃO",
+    "Unnamed: 21": null
   },
   {
     "ID": "3862533",
@@ -22119,14 +23044,15 @@ const CHECKLIST_VEICULAR_DATA = [
     "Condutor": "Joyce Rodrigues Rebouças ",
     "Data Hora": "20/08/2026 07:03",
     "VIDEOTELEMTRIA": "SIM",
-    "Itens Danificados": NaN,
+    "Itens Danificados": null,
     "Estado de Criticidade Veículo": "Leve(Liberado)",
     "Observacoes": "Sem avaria.",
     "ID COLABORADOR": "283700",
     "ID DO AVALIADOR(A)": "272640",
     "Abrir Os": "NÃO",
-    "Os": NaN,
-    "Abrir Os ": "NÃO"
+    "Os": null,
+    "Abrir Os ": "NÃO",
+    "Unnamed: 21": null
   },
   {
     "ID": "3862534",
@@ -22143,14 +23069,15 @@ const CHECKLIST_VEICULAR_DATA = [
     "Condutor": "Henrique Mendes Ferreira ",
     "Data Hora": "20/08/2026 07:54",
     "VIDEOTELEMTRIA": "SIM",
-    "Itens Danificados": NaN,
+    "Itens Danificados": null,
     "Estado de Criticidade Veículo": "Leve(Liberado)",
     "Observacoes": "Sem avaria.",
     "ID COLABORADOR": "269710",
     "ID DO AVALIADOR(A)": "272640",
     "Abrir Os": "NÃO",
-    "Os": NaN,
-    "Abrir Os ": "NÃO"
+    "Os": null,
+    "Abrir Os ": "NÃO",
+    "Unnamed: 21": null
   },
   {
     "ID": "3862535",
@@ -22173,8 +23100,9 @@ const CHECKLIST_VEICULAR_DATA = [
     "ID COLABORADOR": "280340",
     "ID DO AVALIADOR(A)": "272640",
     "Abrir Os": "NÃO",
-    "Os": NaN,
-    "Abrir Os ": "NÃO"
+    "Os": null,
+    "Abrir Os ": "NÃO",
+    "Unnamed: 21": null
   },
   {
     "ID": "3862536",
@@ -22191,14 +23119,15 @@ const CHECKLIST_VEICULAR_DATA = [
     "Condutor": "Fábio Junio Ferreira Barboza ",
     "Data Hora": "20/08/2026 09:14",
     "VIDEOTELEMTRIA": "SIM",
-    "Itens Danificados": NaN,
+    "Itens Danificados": null,
     "Estado de Criticidade Veículo": "Leve(Liberado)",
     "Observacoes": "Sem avaria.",
     "ID COLABORADOR": "189200",
     "ID DO AVALIADOR(A)": "272640",
     "Abrir Os": "NÃO",
-    "Os": NaN,
-    "Abrir Os ": "NÃO"
+    "Os": null,
+    "Abrir Os ": "NÃO",
+    "Unnamed: 21": null
   },
   {
     "ID": "3862537",
@@ -22221,8 +23150,9 @@ const CHECKLIST_VEICULAR_DATA = [
     "ID COLABORADOR": "284440",
     "ID DO AVALIADOR(A)": "272640",
     "Abrir Os": "NÃO",
-    "Os": NaN,
-    "Abrir Os ": "NÃO"
+    "Os": null,
+    "Abrir Os ": "NÃO",
+    "Unnamed: 21": null
   },
   {
     "ID": "3862538",
@@ -22239,14 +23169,15 @@ const CHECKLIST_VEICULAR_DATA = [
     "Condutor": "Jussara Soares ",
     "Data Hora": "20/08/2026 11:31",
     "VIDEOTELEMTRIA": "SIM",
-    "Itens Danificados": NaN,
+    "Itens Danificados": null,
     "Estado de Criticidade Veículo": "Leve(Liberado)",
     "Observacoes": "Sem avaria.",
     "ID COLABORADOR": "272640",
     "ID DO AVALIADOR(A)": "272640",
     "Abrir Os": "NÃO",
-    "Os": NaN,
-    "Abrir Os ": "NÃO"
+    "Os": null,
+    "Abrir Os ": "NÃO",
+    "Unnamed: 21": null
   },
   {
     "ID": "3864625",
@@ -22263,14 +23194,15 @@ const CHECKLIST_VEICULAR_DATA = [
     "Condutor": "Walison Daniel dos Santos Rocha",
     "Data Hora": "21/08/2026 08:35",
     "VIDEOTELEMTRIA": "SIM",
-    "Itens Danificados": NaN,
+    "Itens Danificados": null,
     "Estado de Criticidade Veículo": "Leve(Liberado)",
     "Observacoes": "Checklist pós manutenção: Concluído.",
     "ID COLABORADOR": "275060",
     "ID DO AVALIADOR(A)": "272640",
     "Abrir Os": "NÃO",
-    "Os": NaN,
-    "Abrir Os ": "NÃO"
+    "Os": null,
+    "Abrir Os ": "NÃO",
+    "Unnamed: 21": null
   },
   {
     "ID": "3864629",
@@ -22287,14 +23219,15 @@ const CHECKLIST_VEICULAR_DATA = [
     "Condutor": "João Batista Corrêa da Silva ",
     "Data Hora": "21/08/2026 10:26",
     "VIDEOTELEMTRIA": "SIM",
-    "Itens Danificados": NaN,
+    "Itens Danificados": null,
     "Estado de Criticidade Veículo": "Moderado(Condutor notificado)",
     "Observacoes": "Sem a tampa traseira (Aguardando retornar para Checklist pós manutenção)",
     "ID COLABORADOR": "142773",
     "ID DO AVALIADOR(A)": "272640",
     "Abrir Os": "NÃO",
-    "Os": NaN,
-    "Abrir Os ": "NÃO"
+    "Os": null,
+    "Abrir Os ": "NÃO",
+    "Unnamed: 21": null
   },
   {
     "ID": "3864633",
@@ -22311,14 +23244,15 @@ const CHECKLIST_VEICULAR_DATA = [
     "Condutor": "Eduardo Franco Nogueira ",
     "Data Hora": "21/08/2026 10:49",
     "VIDEOTELEMTRIA": "SIM",
-    "Itens Danificados": NaN,
+    "Itens Danificados": null,
     "Estado de Criticidade Veículo": "Leve(Liberado)",
     "Observacoes": "Sem avaria.",
     "ID COLABORADOR": "250700",
     "ID DO AVALIADOR(A)": "262640",
     "Abrir Os": "NÃO",
-    "Os": NaN,
-    "Abrir Os ": "NÃO"
+    "Os": null,
+    "Abrir Os ": "NÃO",
+    "Unnamed: 21": null
   },
   {
     "ID": "3864639",
@@ -22335,14 +23269,15 @@ const CHECKLIST_VEICULAR_DATA = [
     "Condutor": "Agnaldo de Oliveira ",
     "Data Hora": "21/08/2026 13:17",
     "VIDEOTELEMTRIA": "SIM",
-    "Itens Danificados": NaN,
+    "Itens Danificados": null,
     "Estado de Criticidade Veículo": "Leve(Liberado)",
     "Observacoes": "Sem avaria.",
     "ID COLABORADOR": "281460",
     "ID DO AVALIADOR(A)": "272640",
     "Abrir Os": "NÃO",
-    "Os": NaN,
-    "Abrir Os ": "NÃO"
+    "Os": null,
+    "Abrir Os ": "NÃO",
+    "Unnamed: 21": null
   },
   {
     "ID": "3864643",
@@ -22359,14 +23294,15 @@ const CHECKLIST_VEICULAR_DATA = [
     "Condutor": "Luis Fernando Cassezi ",
     "Data Hora": "21/08/2026 13:29",
     "VIDEOTELEMTRIA": "SIM",
-    "Itens Danificados": NaN,
+    "Itens Danificados": null,
     "Estado de Criticidade Veículo": "Leve(Liberado)",
     "Observacoes": "Sem avaria.",
     "ID COLABORADOR": "277820",
     "ID DO AVALIADOR(A)": "272640",
     "Abrir Os": "NÃO",
-    "Os": NaN,
-    "Abrir Os ": "NÃO"
+    "Os": null,
+    "Abrir Os ": "NÃO",
+    "Unnamed: 21": null
   },
   {
     "ID": "3870387",
@@ -22389,8 +23325,9 @@ const CHECKLIST_VEICULAR_DATA = [
     "ID COLABORADOR": "251390",
     "ID DO AVALIADOR(A)": "272640",
     "Abrir Os": "NÃO",
-    "Os": NaN,
-    "Abrir Os ": "NÃO"
+    "Os": null,
+    "Abrir Os ": "NÃO",
+    "Unnamed: 21": null
   },
   {
     "ID": "3870394",
@@ -22407,14 +23344,15 @@ const CHECKLIST_VEICULAR_DATA = [
     "Condutor": "Leonardo Estenio Gallon Pinto ",
     "Data Hora": "24/08/2026 07:10",
     "VIDEOTELEMTRIA": "SIM",
-    "Itens Danificados": NaN,
+    "Itens Danificados": null,
     "Estado de Criticidade Veículo": "Leve(Liberado)",
     "Observacoes": "Sem avaria.",
     "ID COLABORADOR": "272430",
     "ID DO AVALIADOR(A)": "272640",
     "Abrir Os": "NÃO",
-    "Os": NaN,
-    "Abrir Os ": "NÃO"
+    "Os": null,
+    "Abrir Os ": "NÃO",
+    "Unnamed: 21": null
   },
   {
     "ID": "3870399",
@@ -22431,14 +23369,15 @@ const CHECKLIST_VEICULAR_DATA = [
     "Condutor": "Andreia Tassiane Aparecida Megeto",
     "Data Hora": "24/08/2026 07:16",
     "VIDEOTELEMTRIA": "SIM",
-    "Itens Danificados": NaN,
+    "Itens Danificados": null,
     "Estado de Criticidade Veículo": "Leve(Liberado)",
     "Observacoes": "Sem avaria.",
     "ID COLABORADOR": "275340",
     "ID DO AVALIADOR(A)": "272640",
     "Abrir Os": "NÃO",
-    "Os": NaN,
-    "Abrir Os ": "NÃO"
+    "Os": null,
+    "Abrir Os ": "NÃO",
+    "Unnamed: 21": null
   },
   {
     "ID": "3870400",
@@ -22455,14 +23394,15 @@ const CHECKLIST_VEICULAR_DATA = [
     "Condutor": "Marco Ferreira dos Santos ",
     "Data Hora": "24/08/2026 07:46",
     "VIDEOTELEMTRIA": "SIM",
-    "Itens Danificados": NaN,
+    "Itens Danificados": null,
     "Estado de Criticidade Veículo": "Leve(Liberado)",
     "Observacoes": "Sem avaria.",
     "ID COLABORADOR": "115782",
     "ID DO AVALIADOR(A)": "272640",
     "Abrir Os": "NÃO",
-    "Os": NaN,
-    "Abrir Os ": "NÃO"
+    "Os": null,
+    "Abrir Os ": "NÃO",
+    "Unnamed: 21": null
   },
   {
     "ID": "3870401",
@@ -22479,14 +23419,15 @@ const CHECKLIST_VEICULAR_DATA = [
     "Condutor": "Wallason Soares Reges ",
     "Data Hora": "24/08/2026 07:49",
     "VIDEOTELEMTRIA": "SIM",
-    "Itens Danificados": NaN,
+    "Itens Danificados": null,
     "Estado de Criticidade Veículo": "Leve(Liberado)",
     "Observacoes": "Sem avaria.",
     "ID COLABORADOR": "1",
     "ID DO AVALIADOR(A)": "272640",
     "Abrir Os": "NÃO",
-    "Os": NaN,
-    "Abrir Os ": "NÃO"
+    "Os": null,
+    "Abrir Os ": "NÃO",
+    "Unnamed: 21": null
   },
   {
     "ID": "3870402",
@@ -22509,8 +23450,9 @@ const CHECKLIST_VEICULAR_DATA = [
     "ID COLABORADOR": "283110",
     "ID DO AVALIADOR(A)": "272640",
     "Abrir Os": "NÃO",
-    "Os": NaN,
-    "Abrir Os ": "NÃO"
+    "Os": null,
+    "Abrir Os ": "NÃO",
+    "Unnamed: 21": null
   },
   {
     "ID": "3870403",
@@ -22527,14 +23469,15 @@ const CHECKLIST_VEICULAR_DATA = [
     "Condutor": "Karolainy da Silva Roque ",
     "Data Hora": "24/08/2026 09:23",
     "VIDEOTELEMTRIA": "SIM",
-    "Itens Danificados": NaN,
+    "Itens Danificados": null,
     "Estado de Criticidade Veículo": "Leve(Liberado)",
     "Observacoes": "Sem avaria.",
     "ID COLABORADOR": "272590",
     "ID DO AVALIADOR(A)": "272640",
     "Abrir Os": "NÃO",
-    "Os": NaN,
-    "Abrir Os ": "NÃO"
+    "Os": null,
+    "Abrir Os ": "NÃO",
+    "Unnamed: 21": null
   },
   {
     "ID": "3870404",
@@ -22551,14 +23494,15 @@ const CHECKLIST_VEICULAR_DATA = [
     "Condutor": "Gilmar Rebouças ",
     "Data Hora": "24/08/2026 10:07",
     "VIDEOTELEMTRIA": "SIM",
-    "Itens Danificados": NaN,
+    "Itens Danificados": null,
     "Estado de Criticidade Veículo": "Leve(Liberado)",
     "Observacoes": "Sem avaria.",
     "ID COLABORADOR": "PJ",
     "ID DO AVALIADOR(A)": "272640",
     "Abrir Os": "NÃO",
-    "Os": NaN,
-    "Abrir Os ": "NÃO"
+    "Os": null,
+    "Abrir Os ": "NÃO",
+    "Unnamed: 21": null
   },
   {
     "ID": "3870405",
@@ -22575,14 +23519,15 @@ const CHECKLIST_VEICULAR_DATA = [
     "Condutor": "Wallason Soares Reges ",
     "Data Hora": "24/08/2026 12:33",
     "VIDEOTELEMTRIA": "SIM",
-    "Itens Danificados": NaN,
+    "Itens Danificados": null,
     "Estado de Criticidade Veículo": "Leve(Liberado)",
     "Observacoes": "Sem avaria.",
     "ID COLABORADOR": "1",
     "ID DO AVALIADOR(A)": "272640",
     "Abrir Os": "NÃO",
-    "Os": NaN,
-    "Abrir Os ": "NÃO"
+    "Os": null,
+    "Abrir Os ": "NÃO",
+    "Unnamed: 21": null
   },
   {
     "ID": "3870406",
@@ -22599,14 +23544,15 @@ const CHECKLIST_VEICULAR_DATA = [
     "Condutor": "Cícero Erasmo da Silva ",
     "Data Hora": "24/08/2026 12:38",
     "VIDEOTELEMTRIA": "SIM",
-    "Itens Danificados": NaN,
+    "Itens Danificados": null,
     "Estado de Criticidade Veículo": "Leve(Liberado)",
     "Observacoes": "Sem avaria.",
     "ID COLABORADOR": "260400",
     "ID DO AVALIADOR(A)": "272640",
     "Abrir Os": "NÃO",
-    "Os": NaN,
-    "Abrir Os ": "NÃO"
+    "Os": null,
+    "Abrir Os ": "NÃO",
+    "Unnamed: 21": null
   },
   {
     "ID": "3870407",
@@ -22623,14 +23569,15 @@ const CHECKLIST_VEICULAR_DATA = [
     "Condutor": "Felipe Augusto Camolezi",
     "Data Hora": "24/08/2026 12:59",
     "VIDEOTELEMTRIA": "SIM",
-    "Itens Danificados": NaN,
+    "Itens Danificados": null,
     "Estado de Criticidade Veículo": "Leve(Liberado)",
     "Observacoes": "Sem avaria.",
     "ID COLABORADOR": "240400",
     "ID DO AVALIADOR(A)": "272640",
     "Abrir Os": "NÃO",
-    "Os": NaN,
-    "Abrir Os ": "NÃO"
+    "Os": null,
+    "Abrir Os ": "NÃO",
+    "Unnamed: 21": null
   },
   {
     "ID": "3870408",
@@ -22647,14 +23594,15 @@ const CHECKLIST_VEICULAR_DATA = [
     "Condutor": "Victor Emanuel Francisco de Moraes ",
     "Data Hora": "24/08/2026 13:19",
     "VIDEOTELEMTRIA": "SIM",
-    "Itens Danificados": NaN,
+    "Itens Danificados": null,
     "Estado de Criticidade Veículo": "Moderado(Condutor notificado)",
     "Observacoes": "Amassado no paralama lado esquerdo Retrovisor esquerdo (quebrado)",
     "ID COLABORADOR": "255310",
     "ID DO AVALIADOR(A)": "272640",
     "Abrir Os": "NÃO",
-    "Os": NaN,
-    "Abrir Os ": "NÃO"
+    "Os": null,
+    "Abrir Os ": "NÃO",
+    "Unnamed: 21": null
   },
   {
     "ID": "3870409",
@@ -22677,8 +23625,9 @@ const CHECKLIST_VEICULAR_DATA = [
     "ID COLABORADOR": "283080",
     "ID DO AVALIADOR(A)": "272640",
     "Abrir Os": "NÃO",
-    "Os": NaN,
-    "Abrir Os ": "NÃO"
+    "Os": null,
+    "Abrir Os ": "NÃO",
+    "Unnamed: 21": null
   },
   {
     "ID": "3870410",
@@ -22695,14 +23644,15 @@ const CHECKLIST_VEICULAR_DATA = [
     "Condutor": "Allana Dayara Ruas ",
     "Data Hora": "24/08/2026 13:59",
     "VIDEOTELEMTRIA": "SIM",
-    "Itens Danificados": NaN,
+    "Itens Danificados": null,
     "Estado de Criticidade Veículo": "Leve(Liberado)",
     "Observacoes": "Sem avaria.",
     "ID COLABORADOR": "283100",
     "ID DO AVALIADOR(A)": "272640",
     "Abrir Os": "NÃO",
-    "Os": NaN,
-    "Abrir Os ": "NÃO"
+    "Os": null,
+    "Abrir Os ": "NÃO",
+    "Unnamed: 21": null
   },
   {
     "ID": "3870411",
@@ -22719,14 +23669,15 @@ const CHECKLIST_VEICULAR_DATA = [
     "Condutor": "William Roberto Dalla Costa ",
     "Data Hora": "24/08/2026 14:35",
     "VIDEOTELEMTRIA": "SIM",
-    "Itens Danificados": NaN,
+    "Itens Danificados": null,
     "Estado de Criticidade Veículo": "Leve(Liberado)",
     "Observacoes": "Sem avaria.",
     "ID COLABORADOR": "254120",
     "ID DO AVALIADOR(A)": "272640",
     "Abrir Os": "NÃO",
-    "Os": NaN,
-    "Abrir Os ": "NÃO"
+    "Os": null,
+    "Abrir Os ": "NÃO",
+    "Unnamed: 21": null
   },
   {
     "ID": "3870412",
@@ -22743,14 +23694,15 @@ const CHECKLIST_VEICULAR_DATA = [
     "Condutor": "Ana Maria de Melo Cassezi ",
     "Data Hora": "24/08/2026 15:17",
     "VIDEOTELEMTRIA": "SIM",
-    "Itens Danificados": NaN,
+    "Itens Danificados": null,
     "Estado de Criticidade Veículo": "Leve(Liberado)",
     "Observacoes": "Sem avaria.",
     "ID COLABORADOR": "268860",
     "ID DO AVALIADOR(A)": "272640",
     "Abrir Os": "NÃO",
-    "Os": NaN,
-    "Abrir Os ": "NÃO"
+    "Os": null,
+    "Abrir Os ": "NÃO",
+    "Unnamed: 21": null
   },
   {
     "ID": "3870467",
@@ -22767,14 +23719,15 @@ const CHECKLIST_VEICULAR_DATA = [
     "Condutor": "Marcos Alexandre Baffi ",
     "Data Hora": "24/08/2026 07:00",
     "VIDEOTELEMTRIA": "NÃO",
-    "Itens Danificados": NaN,
+    "Itens Danificados": null,
     "Estado de Criticidade Veículo": "Leve(Liberado)",
     "Observacoes": "Sem avaria.",
     "ID COLABORADOR": "207032",
     "ID DO AVALIADOR(A)": "272649",
     "Abrir Os": "NÃO",
-    "Os": NaN,
-    "Abrir Os ": "NÃO"
+    "Os": null,
+    "Abrir Os ": "NÃO",
+    "Unnamed: 21": null
   },
   {
     "ID": "3870479",
@@ -22791,14 +23744,15 @@ const CHECKLIST_VEICULAR_DATA = [
     "Condutor": "Pedro Augusto Silva ",
     "Data Hora": "24/08/2026 07:04",
     "VIDEOTELEMTRIA": "SIM",
-    "Itens Danificados": NaN,
+    "Itens Danificados": null,
     "Estado de Criticidade Veículo": "Leve(Liberado)",
     "Observacoes": "Sem avaria.",
     "ID COLABORADOR": "270270",
     "ID DO AVALIADOR(A)": "272640",
     "Abrir Os": "NÃO",
-    "Os": NaN,
-    "Abrir Os ": "NÃO"
+    "Os": null,
+    "Abrir Os ": "NÃO",
+    "Unnamed: 21": null
   },
   {
     "ID": "3870491",
@@ -22815,14 +23769,15 @@ const CHECKLIST_VEICULAR_DATA = [
     "Condutor": "Onofre Evangelista da Silva Junior ",
     "Data Hora": "24/08/2026 07:07",
     "VIDEOTELEMTRIA": "SIM",
-    "Itens Danificados": NaN,
+    "Itens Danificados": null,
     "Estado de Criticidade Veículo": "Leve(Liberado)",
     "Observacoes": "Sem avaria.",
     "ID COLABORADOR": "163363",
     "ID DO AVALIADOR(A)": "272640",
     "Abrir Os": "NÃO",
-    "Os": NaN,
-    "Abrir Os ": "NÃO"
+    "Os": null,
+    "Abrir Os ": "NÃO",
+    "Unnamed: 21": null
   },
   {
     "ID": "3872013",
@@ -22839,14 +23794,15 @@ const CHECKLIST_VEICULAR_DATA = [
     "Condutor": "Anderson Henrique Simão",
     "Data Hora": "25/08/2026 07:04",
     "VIDEOTELEMTRIA": "SIM",
-    "Itens Danificados": NaN,
+    "Itens Danificados": null,
     "Estado de Criticidade Veículo": "Leve(Liberado)",
     "Observacoes": "Checklist pós manutenção: Concluído.",
     "ID COLABORADOR": "251390",
     "ID DO AVALIADOR(A)": "272640",
     "Abrir Os": "NÃO",
-    "Os": NaN,
-    "Abrir Os ": "NÃO"
+    "Os": null,
+    "Abrir Os ": "NÃO",
+    "Unnamed: 21": null
   },
   {
     "ID": "3876058",
@@ -22869,8 +23825,9 @@ const CHECKLIST_VEICULAR_DATA = [
     "ID COLABORADOR": "81103",
     "ID DO AVALIADOR(A)": "272640",
     "Abrir Os": "NÃO",
-    "Os": NaN,
-    "Abrir Os ": "NÃO"
+    "Os": null,
+    "Abrir Os ": "NÃO",
+    "Unnamed: 21": null
   },
   {
     "ID": "3876074",
@@ -22887,14 +23844,15 @@ const CHECKLIST_VEICULAR_DATA = [
     "Condutor": "Admir Xavier Cotrim ",
     "Data Hora": "25/08/2026 14:09",
     "VIDEOTELEMTRIA": "SIM",
-    "Itens Danificados": NaN,
+    "Itens Danificados": null,
     "Estado de Criticidade Veículo": "Moderado(Condutor notificado)",
     "Observacoes": "Amassado na porta passageiro (Aguardando na lista de funilaria)",
     "ID COLABORADOR": "112150",
     "ID DO AVALIADOR(A)": "272640",
     "Abrir Os": "NÃO",
-    "Os": NaN,
-    "Abrir Os ": "NÃO"
+    "Os": null,
+    "Abrir Os ": "NÃO",
+    "Unnamed: 21": null
   },
   {
     "ID": "3876086",
@@ -22917,8 +23875,9 @@ const CHECKLIST_VEICULAR_DATA = [
     "ID COLABORADOR": "284930",
     "ID DO AVALIADOR(A)": "271640",
     "Abrir Os": "NÃO",
-    "Os": NaN,
-    "Abrir Os ": "NÃO"
+    "Os": null,
+    "Abrir Os ": "NÃO",
+    "Unnamed: 21": null
   },
   {
     "ID": "3876099",
@@ -22941,8 +23900,9 @@ const CHECKLIST_VEICULAR_DATA = [
     "ID COLABORADOR": "278680",
     "ID DO AVALIADOR(A)": "272640",
     "Abrir Os": "NÃO",
-    "Os": NaN,
-    "Abrir Os ": "NÃO"
+    "Os": null,
+    "Abrir Os ": "NÃO",
+    "Unnamed: 21": null
   },
   {
     "ID": "3878695",
@@ -22959,14 +23919,15 @@ const CHECKLIST_VEICULAR_DATA = [
     "Condutor": "Tiago Damião Louzada ",
     "Data Hora": "27/08/2026 07:30",
     "VIDEOTELEMTRIA": "SIM",
-    "Itens Danificados": NaN,
+    "Itens Danificados": null,
     "Estado de Criticidade Veículo": "Leve(Liberado)",
     "Observacoes": "Sem avaria.",
     "ID COLABORADOR": "5",
     "ID DO AVALIADOR(A)": "272640",
     "Abrir Os": "NÃO",
-    "Os": NaN,
-    "Abrir Os ": "NÃO"
+    "Os": null,
+    "Abrir Os ": "NÃO",
+    "Unnamed: 21": null
   },
   {
     "ID": "3878696",
@@ -22983,14 +23944,15 @@ const CHECKLIST_VEICULAR_DATA = [
     "Condutor": "Daniel Assunção ",
     "Data Hora": "27/08/2026 14:37",
     "VIDEOTELEMTRIA": "SIM",
-    "Itens Danificados": NaN,
+    "Itens Danificados": null,
     "Estado de Criticidade Veículo": "Leve(Liberado)",
     "Observacoes": "Sem avaria.",
     "ID COLABORADOR": "284900",
     "ID DO AVALIADOR(A)": "272640",
     "Abrir Os": "NÃO",
-    "Os": NaN,
-    "Abrir Os ": "NÃO"
+    "Os": null,
+    "Abrir Os ": "NÃO",
+    "Unnamed: 21": null
   },
   {
     "ID": "3878697",
@@ -23007,14 +23969,15 @@ const CHECKLIST_VEICULAR_DATA = [
     "Condutor": "Ana Maria de Melo Cassezi ",
     "Data Hora": "27/08/2026 16:13",
     "VIDEOTELEMTRIA": "SIM",
-    "Itens Danificados": NaN,
+    "Itens Danificados": null,
     "Estado de Criticidade Veículo": "Leve(Liberado)",
     "Observacoes": "Sem avaria.",
     "ID COLABORADOR": "268860",
     "ID DO AVALIADOR(A)": "272640",
     "Abrir Os": "NÃO",
-    "Os": NaN,
-    "Abrir Os ": "NÃO"
+    "Os": null,
+    "Abrir Os ": "NÃO",
+    "Unnamed: 21": null
   },
   {
     "ID": "3878699",
@@ -23031,14 +23994,15 @@ const CHECKLIST_VEICULAR_DATA = [
     "Condutor": "André Luis Costa",
     "Data Hora": "27/08/2026 16:36",
     "VIDEOTELEMTRIA": "SIM",
-    "Itens Danificados": NaN,
+    "Itens Danificados": null,
     "Estado de Criticidade Veículo": "Leve(Liberado)",
     "Observacoes": "Sem avaria.",
     "ID COLABORADOR": "183222",
     "ID DO AVALIADOR(A)": "272640",
     "Abrir Os": "NÃO",
-    "Os": NaN,
-    "Abrir Os ": "NÃO"
+    "Os": null,
+    "Abrir Os ": "NÃO",
+    "Unnamed: 21": null
   },
   {
     "ID": "3882023",
@@ -23055,14 +24019,15 @@ const CHECKLIST_VEICULAR_DATA = [
     "Condutor": "Luiz Alfredo de Souza ",
     "Data Hora": "28/08/2026 13:47",
     "VIDEOTELEMTRIA": "SIM",
-    "Itens Danificados": NaN,
+    "Itens Danificados": null,
     "Estado de Criticidade Veículo": "Leve(Liberado)",
     "Observacoes": "Sem avaria.",
     "ID COLABORADOR": "278740",
     "ID DO AVALIADOR(A)": "272640",
     "Abrir Os": "NÃO",
-    "Os": NaN,
-    "Abrir Os ": "NÃO"
+    "Os": null,
+    "Abrir Os ": "NÃO",
+    "Unnamed: 21": null
   },
   {
     "ID": "3882024",
@@ -23079,14 +24044,15 @@ const CHECKLIST_VEICULAR_DATA = [
     "Condutor": "Marta Maria Castro Cascalho",
     "Data Hora": "28/08/2026 13:51",
     "VIDEOTELEMTRIA": "NÃO",
-    "Itens Danificados": NaN,
+    "Itens Danificados": null,
     "Estado de Criticidade Veículo": "Leve(Liberado)",
     "Observacoes": "Sem avaria.",
     "ID COLABORADOR": "278740",
     "ID DO AVALIADOR(A)": "272640",
     "Abrir Os": "NÃO",
-    "Os": NaN,
-    "Abrir Os ": "NÃO"
+    "Os": null,
+    "Abrir Os ": "NÃO",
+    "Unnamed: 21": null
   },
   {
     "ID": "3889717",
@@ -23103,14 +24069,15 @@ const CHECKLIST_VEICULAR_DATA = [
     "Condutor": "Anderson Ricardo Ruaro ",
     "Data Hora": "31/08/2026 09:00",
     "VIDEOTELEMTRIA": "SIM",
-    "Itens Danificados": NaN,
+    "Itens Danificados": null,
     "Estado de Criticidade Veículo": "Leve(Liberado)",
     "Observacoes": "Sem avaria.",
     "ID COLABORADOR": "168907",
     "ID DO AVALIADOR(A)": "272640",
     "Abrir Os": "NÃO",
-    "Os": NaN,
-    "Abrir Os ": "NÃO"
+    "Os": null,
+    "Abrir Os ": "NÃO",
+    "Unnamed: 21": null
   },
   {
     "ID": "3889718",
@@ -23127,14 +24094,15 @@ const CHECKLIST_VEICULAR_DATA = [
     "Condutor": "Jonatas da Silva Lemes",
     "Data Hora": "31/08/2026 09:47",
     "VIDEOTELEMTRIA": "SIM",
-    "Itens Danificados": NaN,
+    "Itens Danificados": null,
     "Estado de Criticidade Veículo": "Moderado(Condutor notificado)",
     "Observacoes": "Luz baixa esquerda e direita (queimada)",
     "ID COLABORADOR": "279140",
     "ID DO AVALIADOR(A)": "272640",
     "Abrir Os": "NÃO",
-    "Os": NaN,
-    "Abrir Os ": "NÃO"
+    "Os": null,
+    "Abrir Os ": "NÃO",
+    "Unnamed: 21": null
   },
   {
     "ID": "3889719",
@@ -23151,14 +24119,15 @@ const CHECKLIST_VEICULAR_DATA = [
     "Condutor": "Karolainy da Silva Roque ",
     "Data Hora": "31/08/2026 10:24",
     "VIDEOTELEMTRIA": "SIM",
-    "Itens Danificados": NaN,
+    "Itens Danificados": null,
     "Estado de Criticidade Veículo": "Leve(Liberado)",
     "Observacoes": "Sem avaria.",
     "ID COLABORADOR": "272590",
     "ID DO AVALIADOR(A)": "272640",
     "Abrir Os": "NÃO",
-    "Os": NaN,
-    "Abrir Os ": "NÃO"
+    "Os": null,
+    "Abrir Os ": "NÃO",
+    "Unnamed: 21": null
   },
   {
     "ID": "3889720",
@@ -23175,14 +24144,15 @@ const CHECKLIST_VEICULAR_DATA = [
     "Condutor": "Ricardo Aparecido da Silva",
     "Data Hora": "31/08/2026 10:37",
     "VIDEOTELEMTRIA": "SIM",
-    "Itens Danificados": NaN,
+    "Itens Danificados": null,
     "Estado de Criticidade Veículo": "Leve(Liberado)",
     "Observacoes": "Sem avaria.",
     "ID COLABORADOR": "111909",
     "ID DO AVALIADOR(A)": "272640",
     "Abrir Os": "NÃO",
-    "Os": NaN,
-    "Abrir Os ": "NÃO"
+    "Os": null,
+    "Abrir Os ": "NÃO",
+    "Unnamed: 21": null
   },
   {
     "ID": "3889721",
@@ -23199,14 +24169,15 @@ const CHECKLIST_VEICULAR_DATA = [
     "Condutor": "Vitória Fonseca de Carvalho ",
     "Data Hora": "31/08/2026 11:27",
     "VIDEOTELEMTRIA": "SIM",
-    "Itens Danificados": NaN,
+    "Itens Danificados": null,
     "Estado de Criticidade Veículo": "Leve(Liberado)",
     "Observacoes": "Sem avaria.",
     "ID COLABORADOR": "277030",
     "ID DO AVALIADOR(A)": "272640",
     "Abrir Os": "NÃO",
-    "Os": NaN,
-    "Abrir Os ": "NÃO"
+    "Os": null,
+    "Abrir Os ": "NÃO",
+    "Unnamed: 21": null
   },
   {
     "ID": "3889722",
@@ -23223,14 +24194,15 @@ const CHECKLIST_VEICULAR_DATA = [
     "Condutor": "Felipe Augusto Silva ",
     "Data Hora": "01/09/2026 07:51",
     "VIDEOTELEMTRIA": "SIM",
-    "Itens Danificados": NaN,
+    "Itens Danificados": null,
     "Estado de Criticidade Veículo": "Moderado(Condutor notificado)",
     "Observacoes": "Checklist realizado com veículo sujo.",
     "ID COLABORADOR": "283160",
     "ID DO AVALIADOR(A)": "272640",
     "Abrir Os": "NÃO",
-    "Os": NaN,
-    "Abrir Os ": "NÃO"
+    "Os": null,
+    "Abrir Os ": "NÃO",
+    "Unnamed: 21": null
   },
   {
     "ID": "3889723",
@@ -23247,14 +24219,15 @@ const CHECKLIST_VEICULAR_DATA = [
     "Condutor": "Henrique Mendes Ferreira ",
     "Data Hora": "01/09/2026 14:29",
     "VIDEOTELEMTRIA": "SIM",
-    "Itens Danificados": NaN,
+    "Itens Danificados": null,
     "Estado de Criticidade Veículo": "Leve(Liberado)",
     "Observacoes": "Sem avaria.",
     "ID COLABORADOR": "269710",
     "ID DO AVALIADOR(A)": "272640",
     "Abrir Os": "NÃO",
-    "Os": NaN,
-    "Abrir Os ": "NÃO"
+    "Os": null,
+    "Abrir Os ": "NÃO",
+    "Unnamed: 21": null
   },
   {
     "ID": "3889724",
@@ -23271,14 +24244,15 @@ const CHECKLIST_VEICULAR_DATA = [
     "Condutor": "Wellington Dener Alexandre",
     "Data Hora": "01/09/2026 14:33",
     "VIDEOTELEMTRIA": "SIM",
-    "Itens Danificados": NaN,
+    "Itens Danificados": null,
     "Estado de Criticidade Veículo": "Leve(Liberado)",
     "Observacoes": "Sem avaria.",
     "ID COLABORADOR": "278440",
     "ID DO AVALIADOR(A)": "272640",
     "Abrir Os": "NÃO",
-    "Os": NaN,
-    "Abrir Os ": "NÃO"
+    "Os": null,
+    "Abrir Os ": "NÃO",
+    "Unnamed: 21": null
   },
   {
     "ID": "3894220",
@@ -23295,14 +24269,15 @@ const CHECKLIST_VEICULAR_DATA = [
     "Condutor": "Jussara Soares de Souza ",
     "Data Hora": "02/09/2026 08:06",
     "VIDEOTELEMTRIA": "SIM",
-    "Itens Danificados": NaN,
+    "Itens Danificados": null,
     "Estado de Criticidade Veículo": "Leve(Liberado)",
     "Observacoes": "Sem avaria.",
     "ID COLABORADOR": "272640",
     "ID DO AVALIADOR(A)": "272640",
     "Abrir Os": "NÃO",
-    "Os": NaN,
-    "Abrir Os ": "NÃO"
+    "Os": null,
+    "Abrir Os ": "NÃO",
+    "Unnamed: 21": null
   },
   {
     "ID": "3894221",
@@ -23319,14 +24294,15 @@ const CHECKLIST_VEICULAR_DATA = [
     "Condutor": "Josni Adriano Silva ",
     "Data Hora": "02/09/2026 10:25",
     "VIDEOTELEMTRIA": "NÃO",
-    "Itens Danificados": NaN,
+    "Itens Danificados": null,
     "Estado de Criticidade Veículo": "Leve(Liberado)",
     "Observacoes": "Sem avaria.",
     "ID COLABORADOR": "198420",
     "ID DO AVALIADOR(A)": "272640",
     "Abrir Os": "NÃO",
-    "Os": NaN,
-    "Abrir Os ": "NÃO"
+    "Os": null,
+    "Abrir Os ": "NÃO",
+    "Unnamed: 21": null
   },
   {
     "ID": "3894222",
@@ -23343,14 +24319,15 @@ const CHECKLIST_VEICULAR_DATA = [
     "Condutor": "José Ricardo do Carmo ",
     "Data Hora": "02/09/2026 10:50",
     "VIDEOTELEMTRIA": "SIM",
-    "Itens Danificados": NaN,
+    "Itens Danificados": null,
     "Estado de Criticidade Veículo": "Leve(Liberado)",
     "Observacoes": "Sem avaria.",
     "ID COLABORADOR": "84165",
     "ID DO AVALIADOR(A)": "272640",
     "Abrir Os": "NÃO",
-    "Os": NaN,
-    "Abrir Os ": "NÃO"
+    "Os": null,
+    "Abrir Os ": "NÃO",
+    "Unnamed: 21": null
   },
   {
     "ID": "3894223",
@@ -23367,14 +24344,15 @@ const CHECKLIST_VEICULAR_DATA = [
     "Condutor": "Alex Rodrigo Bueno ",
     "Data Hora": "02/09/2026 14:35",
     "VIDEOTELEMTRIA": "SIM",
-    "Itens Danificados": NaN,
+    "Itens Danificados": null,
     "Estado de Criticidade Veículo": "Leve(Liberado)",
     "Observacoes": "Sem avaria.",
-    "ID COLABORADOR": NaN,
+    "ID COLABORADOR": null,
     "ID DO AVALIADOR(A)": "272640",
     "Abrir Os": "NÃO",
-    "Os": NaN,
-    "Abrir Os ": "NÃO"
+    "Os": null,
+    "Abrir Os ": "NÃO",
+    "Unnamed: 21": null
   },
   {
     "ID": "3894224",
@@ -23391,14 +24369,15 @@ const CHECKLIST_VEICULAR_DATA = [
     "Condutor": "Dimitre José de Souza Guirardelli",
     "Data Hora": "02/09/2026 16:36",
     "VIDEOTELEMTRIA": "SIM",
-    "Itens Danificados": NaN,
+    "Itens Danificados": null,
     "Estado de Criticidade Veículo": "Leve(Liberado)",
     "Observacoes": "Sem avaria.",
     "ID COLABORADOR": "272360",
     "ID DO AVALIADOR(A)": "272640",
     "Abrir Os": "NÃO",
-    "Os": NaN,
-    "Abrir Os ": "NÃO"
+    "Os": null,
+    "Abrir Os ": "NÃO",
+    "Unnamed: 21": null
   },
   {
     "ID": "3894225",
@@ -23415,14 +24394,15 @@ const CHECKLIST_VEICULAR_DATA = [
     "Condutor": "Fábio Sanflorian",
     "Data Hora": "03/09/2026 10:09",
     "VIDEOTELEMTRIA": "SIM",
-    "Itens Danificados": NaN,
+    "Itens Danificados": null,
     "Estado de Criticidade Veículo": "Leve(Liberado)",
     "Observacoes": "Sem avaria.",
-    "ID COLABORADOR": NaN,
+    "ID COLABORADOR": null,
     "ID DO AVALIADOR(A)": "272640",
     "Abrir Os": "NÃO",
-    "Os": NaN,
-    "Abrir Os ": "NÃO"
+    "Os": null,
+    "Abrir Os ": "NÃO",
+    "Unnamed: 21": null
   },
   {
     "ID": "3894226",
@@ -23445,8 +24425,9 @@ const CHECKLIST_VEICULAR_DATA = [
     "ID COLABORADOR": "212301",
     "ID DO AVALIADOR(A)": "272640",
     "Abrir Os": "NÃO",
-    "Os": NaN,
-    "Abrir Os ": "NÃO"
+    "Os": null,
+    "Abrir Os ": "NÃO",
+    "Unnamed: 21": null
   },
   {
     "ID": "3894232",
@@ -23463,14 +24444,15 @@ const CHECKLIST_VEICULAR_DATA = [
     "Condutor": "Agnaldo de Oliveira ",
     "Data Hora": "03/09/2026 13:55",
     "VIDEOTELEMTRIA": "SIM",
-    "Itens Danificados": NaN,
+    "Itens Danificados": null,
     "Estado de Criticidade Veículo": "Leve(Liberado)",
     "Observacoes": "Sem avaria.",
     "ID COLABORADOR": "281460",
     "ID DO AVALIADOR(A)": "272640",
     "Abrir Os": "NÃO",
-    "Os": NaN,
-    "Abrir Os ": "NÃO"
+    "Os": null,
+    "Abrir Os ": "NÃO",
+    "Unnamed: 21": null
   },
   {
     "ID": "3894233",
@@ -23487,14 +24469,15 @@ const CHECKLIST_VEICULAR_DATA = [
     "Condutor": "Mildo Sérgio Veroneze",
     "Data Hora": "03/09/2026 14:11",
     "VIDEOTELEMTRIA": "SIM",
-    "Itens Danificados": NaN,
+    "Itens Danificados": null,
     "Estado de Criticidade Veículo": "Leve(Liberado)",
     "Observacoes": "Sem avaria.",
     "ID COLABORADOR": "283110",
     "ID DO AVALIADOR(A)": "272640",
     "Abrir Os": "NÃO",
-    "Os": NaN,
-    "Abrir Os ": "NÃO"
+    "Os": null,
+    "Abrir Os ": "NÃO",
+    "Unnamed: 21": null
   },
   {
     "ID": "3894234",
@@ -23511,14 +24494,15 @@ const CHECKLIST_VEICULAR_DATA = [
     "Condutor": "Francisco Belo da Silva ",
     "Data Hora": "03/09/2026 15:05",
     "VIDEOTELEMTRIA": "SIM",
-    "Itens Danificados": NaN,
+    "Itens Danificados": null,
     "Estado de Criticidade Veículo": "Leve(Liberado)",
     "Observacoes": "Sem avaria.",
     "ID COLABORADOR": "248500",
     "ID DO AVALIADOR(A)": "272640",
     "Abrir Os": "NÃO",
-    "Os": NaN,
-    "Abrir Os ": "NÃO"
+    "Os": null,
+    "Abrir Os ": "NÃO",
+    "Unnamed: 21": null
   },
   {
     "ID": "3897140",
@@ -23535,14 +24519,15 @@ const CHECKLIST_VEICULAR_DATA = [
     "Condutor": "Ingrid Vieira de Oliveira ",
     "Data Hora": "04/09/2026 07:44",
     "VIDEOTELEMTRIA": "SIM",
-    "Itens Danificados": NaN,
+    "Itens Danificados": null,
     "Estado de Criticidade Veículo": "Leve(Liberado)",
     "Observacoes": "Sem avaria.",
     "ID COLABORADOR": "244640",
     "ID DO AVALIADOR(A)": "272640",
     "Abrir Os": "NÃO",
-    "Os": NaN,
-    "Abrir Os ": "NÃO"
+    "Os": null,
+    "Abrir Os ": "NÃO",
+    "Unnamed: 21": null
   },
   {
     "ID": "3897141",
@@ -23559,14 +24544,15 @@ const CHECKLIST_VEICULAR_DATA = [
     "Condutor": "Heverton Henrique Custodio ",
     "Data Hora": "04/09/2026 08:07",
     "VIDEOTELEMTRIA": "SIM",
-    "Itens Danificados": NaN,
+    "Itens Danificados": null,
     "Estado de Criticidade Veículo": "Leve(Liberado)",
     "Observacoes": "Sem avaria.",
     "ID COLABORADOR": "266560",
     "ID DO AVALIADOR(A)": "272640",
     "Abrir Os": "NÃO",
-    "Os": NaN,
-    "Abrir Os ": "NÃO"
+    "Os": null,
+    "Abrir Os ": "NÃO",
+    "Unnamed: 21": null
   },
   {
     "ID": "3897142",
@@ -23583,14 +24569,15 @@ const CHECKLIST_VEICULAR_DATA = [
     "Condutor": "Edmar José Gonçalves ",
     "Data Hora": "04/09/2026 09:15",
     "VIDEOTELEMTRIA": "SIM",
-    "Itens Danificados": NaN,
+    "Itens Danificados": null,
     "Estado de Criticidade Veículo": "Leve(Liberado)",
     "Observacoes": "Sem avaria.",
     "ID COLABORADOR": "220310",
     "ID DO AVALIADOR(A)": "272640",
     "Abrir Os": "NÃO",
-    "Os": NaN,
-    "Abrir Os ": "NÃO"
+    "Os": null,
+    "Abrir Os ": "NÃO",
+    "Unnamed: 21": null
   },
   {
     "ID": "3897143",
@@ -23607,14 +24594,15 @@ const CHECKLIST_VEICULAR_DATA = [
     "Condutor": "José Aparecido Caetano ",
     "Data Hora": "04/09/2026 10:55",
     "VIDEOTELEMTRIA": "SIM",
-    "Itens Danificados": NaN,
+    "Itens Danificados": null,
     "Estado de Criticidade Veículo": "Leve(Liberado)",
     "Observacoes": "Sem avaria.",
     "ID COLABORADOR": "3220",
     "ID DO AVALIADOR(A)": "272640",
     "Abrir Os": "NÃO",
-    "Os": NaN,
-    "Abrir Os ": "NÃO"
+    "Os": null,
+    "Abrir Os ": "NÃO",
+    "Unnamed: 21": null
   },
   {
     "ID": "3897144",
@@ -23631,14 +24619,15 @@ const CHECKLIST_VEICULAR_DATA = [
     "Condutor": "Paulo Henrique Cardoso Silva",
     "Data Hora": "04/09/2026 13:20",
     "VIDEOTELEMTRIA": "SIM",
-    "Itens Danificados": NaN,
+    "Itens Danificados": null,
     "Estado de Criticidade Veículo": "Leve(Liberado)",
     "Observacoes": "Sem avaria.",
     "ID COLABORADOR": "284510",
     "ID DO AVALIADOR(A)": "272640",
     "Abrir Os": "NÃO",
-    "Os": NaN,
-    "Abrir Os ": "NÃO"
+    "Os": null,
+    "Abrir Os ": "NÃO",
+    "Unnamed: 21": null
   },
   {
     "ID": "3897145",
@@ -23655,14 +24644,15 @@ const CHECKLIST_VEICULAR_DATA = [
     "Condutor": "Livino Leandro dos Santos ",
     "Data Hora": "04/09/2026 14:40",
     "VIDEOTELEMTRIA": "SIM",
-    "Itens Danificados": NaN,
+    "Itens Danificados": null,
     "Estado de Criticidade Veículo": "Leve(Liberado)",
     "Observacoes": "Sem avaria.",
     "ID COLABORADOR": "266000",
     "ID DO AVALIADOR(A)": "272640",
     "Abrir Os": "NÃO",
-    "Os": NaN,
-    "Abrir Os ": "NÃO"
+    "Os": null,
+    "Abrir Os ": "NÃO",
+    "Unnamed: 21": null
   },
   {
     "ID": "3902712",
@@ -23679,14 +24669,15 @@ const CHECKLIST_VEICULAR_DATA = [
     "Condutor": "Rick industria ",
     "Data Hora": "08/09/2026 07:28",
     "VIDEOTELEMTRIA": "SIM",
-    "Itens Danificados": NaN,
+    "Itens Danificados": null,
     "Estado de Criticidade Veículo": "Leve(Liberado)",
     "Observacoes": "Sem avaria.",
     "ID COLABORADOR": "276950",
     "ID DO AVALIADOR(A)": "272640",
     "Abrir Os": "NÃO",
-    "Os": NaN,
-    "Abrir Os ": "NÃO"
+    "Os": null,
+    "Abrir Os ": "NÃO",
+    "Unnamed: 21": null
   },
   {
     "ID": "3902713",
@@ -23703,14 +24694,15 @@ const CHECKLIST_VEICULAR_DATA = [
     "Condutor": "Davi Freitas Ramos ",
     "Data Hora": "08/09/2026 07:31",
     "VIDEOTELEMTRIA": "SIM",
-    "Itens Danificados": NaN,
+    "Itens Danificados": null,
     "Estado de Criticidade Veículo": "Leve(Liberado)",
     "Observacoes": "Sem avaria.",
     "ID COLABORADOR": "265970",
     "ID DO AVALIADOR(A)": "272640",
     "Abrir Os": "NÃO",
-    "Os": NaN,
-    "Abrir Os ": "NÃO"
+    "Os": null,
+    "Abrir Os ": "NÃO",
+    "Unnamed: 21": null
   },
   {
     "ID": "3902714",
@@ -23727,14 +24719,15 @@ const CHECKLIST_VEICULAR_DATA = [
     "Condutor": "Reginaldo da Silva Gomes ",
     "Data Hora": "08/09/2026 07:37",
     "VIDEOTELEMTRIA": "SIM",
-    "Itens Danificados": NaN,
+    "Itens Danificados": null,
     "Estado de Criticidade Veículo": "Leve(Liberado)",
     "Observacoes": "Sem avaria.",
     "ID COLABORADOR": "249300",
     "ID DO AVALIADOR(A)": "272640",
     "Abrir Os": "NÃO",
-    "Os": NaN,
-    "Abrir Os ": "NÃO"
+    "Os": null,
+    "Abrir Os ": "NÃO",
+    "Unnamed: 21": null
   },
   {
     "ID": "3902715",
@@ -23751,14 +24744,15 @@ const CHECKLIST_VEICULAR_DATA = [
     "Condutor": "Wallason Soares Reges ",
     "Data Hora": "08/09/2026 08:44",
     "VIDEOTELEMTRIA": "SIM",
-    "Itens Danificados": NaN,
+    "Itens Danificados": null,
     "Estado de Criticidade Veículo": "Leve(Liberado)",
     "Observacoes": "Sem avaria.",
     "ID COLABORADOR": "1",
     "ID DO AVALIADOR(A)": "272640",
     "Abrir Os": "NÃO",
-    "Os": NaN,
-    "Abrir Os ": "NÃO"
+    "Os": null,
+    "Abrir Os ": "NÃO",
+    "Unnamed: 21": null
   },
   {
     "ID": "3902717",
@@ -23775,14 +24769,15 @@ const CHECKLIST_VEICULAR_DATA = [
     "Condutor": "Anderson Henrique Simão ",
     "Data Hora": "08/09/2026 09:39",
     "VIDEOTELEMTRIA": "SIM",
-    "Itens Danificados": NaN,
+    "Itens Danificados": null,
     "Estado de Criticidade Veículo": "Leve(Liberado)",
     "Observacoes": "Sem avaria.",
     "ID COLABORADOR": "251390",
     "ID DO AVALIADOR(A)": "272640",
     "Abrir Os": "NÃO",
-    "Os": NaN,
-    "Abrir Os ": "NÃO"
+    "Os": null,
+    "Abrir Os ": "NÃO",
+    "Unnamed: 21": null
   },
   {
     "ID": "3902718",
@@ -23799,14 +24794,15 @@ const CHECKLIST_VEICULAR_DATA = [
     "Condutor": "Admir Xavier Cotrim ",
     "Data Hora": "08/09/2026 13:05",
     "VIDEOTELEMTRIA": "SIM",
-    "Itens Danificados": NaN,
+    "Itens Danificados": null,
     "Estado de Criticidade Veículo": "Leve(Liberado)",
     "Observacoes": "Sem avaria.",
     "ID COLABORADOR": "112150",
     "ID DO AVALIADOR(A)": "272640",
     "Abrir Os": "NÃO",
-    "Os": NaN,
-    "Abrir Os ": "NÃO"
+    "Os": null,
+    "Abrir Os ": "NÃO",
+    "Unnamed: 21": null
   },
   {
     "ID": "3902719",
@@ -23823,14 +24819,15 @@ const CHECKLIST_VEICULAR_DATA = [
     "Condutor": "Fernando Antonio Saviolli Desie ",
     "Data Hora": "08/09/2026 16:21",
     "VIDEOTELEMTRIA": "SIM",
-    "Itens Danificados": NaN,
+    "Itens Danificados": null,
     "Estado de Criticidade Veículo": "Leve(Liberado)",
     "Observacoes": "Sem avaria.",
     "ID COLABORADOR": "244290",
     "ID DO AVALIADOR(A)": "272640",
     "Abrir Os": "NÃO",
-    "Os": NaN,
-    "Abrir Os ": "NÃO"
+    "Os": null,
+    "Abrir Os ": "NÃO",
+    "Unnamed: 21": null
   },
   {
     "ID": "3902720",
@@ -23847,14 +24844,15 @@ const CHECKLIST_VEICULAR_DATA = [
     "Condutor": "Reginaldo Fernando Mantovani ",
     "Data Hora": "08/09/2026 15:18",
     "VIDEOTELEMTRIA": "SIM",
-    "Itens Danificados": NaN,
+    "Itens Danificados": null,
     "Estado de Criticidade Veículo": "Leve(Liberado)",
     "Observacoes": "Sem avaria.",
     "ID COLABORADOR": "260910",
     "ID DO AVALIADOR(A)": "272640",
     "Abrir Os": "NÃO",
-    "Os": NaN,
-    "Abrir Os ": "NÃO"
+    "Os": null,
+    "Abrir Os ": "NÃO",
+    "Unnamed: 21": null
   },
   {
     "ID": "3902721",
@@ -23871,14 +24869,15 @@ const CHECKLIST_VEICULAR_DATA = [
     "Condutor": "Orlando Guilherme da Silva Maximiano",
     "Data Hora": "08/09/2026 16:02",
     "VIDEOTELEMTRIA": "SIM",
-    "Itens Danificados": NaN,
+    "Itens Danificados": null,
     "Estado de Criticidade Veículo": "Leve(Liberado)",
     "Observacoes": "Sem avaria.",
     "ID COLABORADOR": "279200",
     "ID DO AVALIADOR(A)": "272640",
     "Abrir Os": "NÃO",
-    "Os": NaN,
-    "Abrir Os ": "NÃO"
+    "Os": null,
+    "Abrir Os ": "NÃO",
+    "Unnamed: 21": null
   },
   {
     "ID": "3902722",
@@ -23901,8 +24900,9 @@ const CHECKLIST_VEICULAR_DATA = [
     "ID COLABORADOR": "255550",
     "ID DO AVALIADOR(A)": "272640",
     "Abrir Os": "NÃO",
-    "Os": NaN,
-    "Abrir Os ": "NÃO"
+    "Os": null,
+    "Abrir Os ": "NÃO",
+    "Unnamed: 21": null
   },
   {
     "ID": "3902723",
@@ -23925,8 +24925,9 @@ const CHECKLIST_VEICULAR_DATA = [
     "ID COLABORADOR": "254560",
     "ID DO AVALIADOR(A)": "272640",
     "Abrir Os": "NÃO",
-    "Os": NaN,
-    "Abrir Os ": "NÃO"
+    "Os": null,
+    "Abrir Os ": "NÃO",
+    "Unnamed: 21": null
   },
   {
     "ID": "3906723",
@@ -23943,14 +24944,15 @@ const CHECKLIST_VEICULAR_DATA = [
     "Condutor": "Pedro Augusto Silva ",
     "Data Hora": "09/09/2026 07:35",
     "VIDEOTELEMTRIA": "SIM",
-    "Itens Danificados": NaN,
+    "Itens Danificados": null,
     "Estado de Criticidade Veículo": "Leve(Liberado)",
     "Observacoes": "Sem avaria.",
     "ID COLABORADOR": "270270",
     "ID DO AVALIADOR(A)": "272640",
     "Abrir Os": "NÃO",
-    "Os": NaN,
-    "Abrir Os ": "NÃO"
+    "Os": null,
+    "Abrir Os ": "NÃO",
+    "Unnamed: 21": null
   },
   {
     "ID": "3906724",
@@ -23967,14 +24969,15 @@ const CHECKLIST_VEICULAR_DATA = [
     "Condutor": "Luis Cleber",
     "Data Hora": "09/09/2026 07:38",
     "VIDEOTELEMTRIA": "SIM",
-    "Itens Danificados": NaN,
+    "Itens Danificados": null,
     "Estado de Criticidade Veículo": "Leve(Liberado)",
     "Observacoes": "Sem avaria.",
     "ID COLABORADOR": "278800",
     "ID DO AVALIADOR(A)": "272640",
     "Abrir Os": "NÃO",
-    "Os": NaN,
-    "Abrir Os ": "NÃO"
+    "Os": null,
+    "Abrir Os ": "NÃO",
+    "Unnamed: 21": null
   },
   {
     "ID": "3906725",
@@ -23991,14 +24994,15 @@ const CHECKLIST_VEICULAR_DATA = [
     "Condutor": "Marco Ferreira dos Santos ",
     "Data Hora": "09/09/2026 08:16",
     "VIDEOTELEMTRIA": "SIM",
-    "Itens Danificados": NaN,
+    "Itens Danificados": null,
     "Estado de Criticidade Veículo": "Leve(Liberado)",
     "Observacoes": "Sem avaria.",
     "ID COLABORADOR": "115782",
     "ID DO AVALIADOR(A)": "272640",
     "Abrir Os": "NÃO",
-    "Os": NaN,
-    "Abrir Os ": "NÃO"
+    "Os": null,
+    "Abrir Os ": "NÃO",
+    "Unnamed: 21": null
   },
   {
     "ID": "3906726",
@@ -24015,14 +25019,15 @@ const CHECKLIST_VEICULAR_DATA = [
     "Condutor": "Livia Reginato",
     "Data Hora": "09/09/2026 09:37",
     "VIDEOTELEMTRIA": "SIM",
-    "Itens Danificados": NaN,
+    "Itens Danificados": null,
     "Estado de Criticidade Veículo": "Leve(Liberado)",
     "Observacoes": "Sem avaria.",
-    "ID COLABORADOR": NaN,
+    "ID COLABORADOR": null,
     "ID DO AVALIADOR(A)": "272640",
     "Abrir Os": "NÃO",
-    "Os": NaN,
-    "Abrir Os ": "NÃO"
+    "Os": null,
+    "Abrir Os ": "NÃO",
+    "Unnamed: 21": null
   },
   {
     "ID": "3906727",
@@ -24039,14 +25044,15 @@ const CHECKLIST_VEICULAR_DATA = [
     "Condutor": "Onofre Evangelista da Silva Junior ",
     "Data Hora": "10/09/2026 07:15",
     "VIDEOTELEMTRIA": "SIM",
-    "Itens Danificados": NaN,
+    "Itens Danificados": null,
     "Estado de Criticidade Veículo": "Leve(Liberado)",
     "Observacoes": "Sem avaria.",
     "ID COLABORADOR": "163363",
     "ID DO AVALIADOR(A)": "272640",
     "Abrir Os": "NÃO",
-    "Os": NaN,
-    "Abrir Os ": "NÃO"
+    "Os": null,
+    "Abrir Os ": "NÃO",
+    "Unnamed: 21": null
   },
   {
     "ID": "3906728",
@@ -24063,14 +25069,15 @@ const CHECKLIST_VEICULAR_DATA = [
     "Condutor": "Joyce Rodrigues Rebouças ",
     "Data Hora": "10/09/2026 07:25",
     "VIDEOTELEMTRIA": "SIM",
-    "Itens Danificados": NaN,
+    "Itens Danificados": null,
     "Estado de Criticidade Veículo": "Leve(Liberado)",
     "Observacoes": "Sem avaria.",
     "ID COLABORADOR": "283700",
     "ID DO AVALIADOR(A)": "272640",
     "Abrir Os": "NÃO",
-    "Os": NaN,
-    "Abrir Os ": "NÃO"
+    "Os": null,
+    "Abrir Os ": "NÃO",
+    "Unnamed: 21": null
   },
   {
     "ID": "3906729",
@@ -24087,14 +25094,15 @@ const CHECKLIST_VEICULAR_DATA = [
     "Condutor": "Dyego Leonardo Galindo",
     "Data Hora": "10/09/2026 07:34",
     "VIDEOTELEMTRIA": "SIM",
-    "Itens Danificados": NaN,
+    "Itens Danificados": null,
     "Estado de Criticidade Veículo": "Leve(Liberado)",
     "Observacoes": "Sem avaria.",
     "ID COLABORADOR": "281560",
     "ID DO AVALIADOR(A)": "272640",
     "Abrir Os": "NÃO",
-    "Os": NaN,
-    "Abrir Os ": "NÃO"
+    "Os": null,
+    "Abrir Os ": "NÃO",
+    "Unnamed: 21": null
   },
   {
     "ID": "3906730",
@@ -24111,14 +25119,15 @@ const CHECKLIST_VEICULAR_DATA = [
     "Condutor": "Tiago Damião Louzada ",
     "Data Hora": "10/09/2026 08:14",
     "VIDEOTELEMTRIA": "SIM",
-    "Itens Danificados": NaN,
+    "Itens Danificados": null,
     "Estado de Criticidade Veículo": "Leve(Liberado)",
     "Observacoes": "Sem avaria.",
     "ID COLABORADOR": "5",
     "ID DO AVALIADOR(A)": "272640",
     "Abrir Os": "NÃO",
-    "Os": NaN,
-    "Abrir Os ": "NÃO"
+    "Os": null,
+    "Abrir Os ": "NÃO",
+    "Unnamed: 21": null
   },
   {
     "ID": "3906731",
@@ -24135,14 +25144,15 @@ const CHECKLIST_VEICULAR_DATA = [
     "Condutor": "William Roberto Dalla Costa ",
     "Data Hora": "10/09/2026 09:45",
     "VIDEOTELEMTRIA": "SIM",
-    "Itens Danificados": NaN,
+    "Itens Danificados": null,
     "Estado de Criticidade Veículo": "Leve(Liberado)",
     "Observacoes": "Sem avaria.",
     "ID COLABORADOR": "254120",
     "ID DO AVALIADOR(A)": "272640",
     "Abrir Os": "NÃO",
-    "Os": NaN,
-    "Abrir Os ": "NÃO"
+    "Os": null,
+    "Abrir Os ": "NÃO",
+    "Unnamed: 21": null
   },
   {
     "ID": "3906732",
@@ -24159,14 +25169,15 @@ const CHECKLIST_VEICULAR_DATA = [
     "Condutor": "Walison Daniel dos Santos ",
     "Data Hora": "10/09/2026 10:11",
     "VIDEOTELEMTRIA": "SIM",
-    "Itens Danificados": NaN,
+    "Itens Danificados": null,
     "Estado de Criticidade Veículo": "Leve(Liberado)",
     "Observacoes": "Sem avaria.",
     "ID COLABORADOR": "275060",
     "ID DO AVALIADOR(A)": "272640",
     "Abrir Os": "NÃO",
-    "Os": NaN,
-    "Abrir Os ": "NÃO"
+    "Os": null,
+    "Abrir Os ": "NÃO",
+    "Unnamed: 21": null
   },
   {
     "ID": "3906733",
@@ -24183,14 +25194,15 @@ const CHECKLIST_VEICULAR_DATA = [
     "Condutor": "Daniel Ferreira da Cruz Neto ",
     "Data Hora": "10/09/2026 10:30",
     "VIDEOTELEMTRIA": "SIM",
-    "Itens Danificados": NaN,
+    "Itens Danificados": null,
     "Estado de Criticidade Veículo": "Leve(Liberado)",
     "Observacoes": "Sem avaria.",
     "ID COLABORADOR": "266350",
     "ID DO AVALIADOR(A)": "272640",
     "Abrir Os": "NÃO",
-    "Os": NaN,
-    "Abrir Os ": "NÃO"
+    "Os": null,
+    "Abrir Os ": "NÃO",
+    "Unnamed: 21": null
   },
   {
     "ID": "3912988",
@@ -24207,14 +25219,15 @@ const CHECKLIST_VEICULAR_DATA = [
     "Condutor": "Daniel Assunção ",
     "Data Hora": "11/09/2026 11:26",
     "VIDEOTELEMTRIA": "SIM",
-    "Itens Danificados": NaN,
+    "Itens Danificados": null,
     "Estado de Criticidade Veículo": "Leve(Liberado)",
     "Observacoes": "Sem avaria.",
-    "ID COLABORADOR": NaN,
+    "ID COLABORADOR": null,
     "ID DO AVALIADOR(A)": "272640",
     "Abrir Os": "NÃO",
-    "Os": NaN,
-    "Abrir Os ": "NÃO"
+    "Os": null,
+    "Abrir Os ": "NÃO",
+    "Unnamed: 21": null
   },
   {
     "ID": "3912990",
@@ -24228,7 +25241,7 @@ const CHECKLIST_VEICULAR_DATA = [
     "Score": "0.0",
     "Frota": "101116 - VOLKSWAGEN SAVEIRO RB MBV 1.6(FPM2226)",
     "GESTORES": "PAULO ANTONIO VIANA IESI",
-    "Condutor": NaN,
+    "Condutor": null,
     "Data Hora": "11/09/2026 14:17",
     "VIDEOTELEMTRIA": "SIM",
     "Itens Danificados": "4. Esguicho , 3. Limpador de Para-brisa , 21. Macaco /Chave de Roda , 22. Triângulo  , 20. Luz de Placa ",
@@ -24237,8 +25250,9 @@ const CHECKLIST_VEICULAR_DATA = [
     "ID COLABORADOR": "284440",
     "ID DO AVALIADOR(A)": "272640",
     "Abrir Os": "NÃO",
-    "Os": NaN,
-    "Abrir Os ": "NÃO"
+    "Os": null,
+    "Abrir Os ": "NÃO",
+    "Unnamed: 21": null
   },
   {
     "ID": "3912991",
@@ -24255,14 +25269,15 @@ const CHECKLIST_VEICULAR_DATA = [
     "Condutor": "Luiz Alfredo de Souza ",
     "Data Hora": "14/09/2026 07:11",
     "VIDEOTELEMTRIA": "SIM",
-    "Itens Danificados": NaN,
+    "Itens Danificados": null,
     "Estado de Criticidade Veículo": "Leve(Liberado)",
     "Observacoes": "Sem avaria.",
     "ID COLABORADOR": "5423",
     "ID DO AVALIADOR(A)": "272640",
     "Abrir Os": "NÃO",
-    "Os": NaN,
-    "Abrir Os ": "NÃO"
+    "Os": null,
+    "Abrir Os ": "NÃO",
+    "Unnamed: 21": null
   },
   {
     "ID": "3912992",
@@ -24279,14 +25294,15 @@ const CHECKLIST_VEICULAR_DATA = [
     "Condutor": "Lucio Flávio Maximino",
     "Data Hora": "14/09/2026 07:12",
     "VIDEOTELEMTRIA": "SIM",
-    "Itens Danificados": NaN,
+    "Itens Danificados": null,
     "Estado de Criticidade Veículo": "Leve(Liberado)",
     "Observacoes": "Sem avaria.",
     "ID COLABORADOR": "280410",
     "ID DO AVALIADOR(A)": "272640",
     "Abrir Os": "NÃO",
-    "Os": NaN,
-    "Abrir Os ": "NÃO"
+    "Os": null,
+    "Abrir Os ": "NÃO",
+    "Unnamed: 21": null
   },
   {
     "ID": "3912993",
@@ -24303,14 +25319,15 @@ const CHECKLIST_VEICULAR_DATA = [
     "Condutor": "Ronildo Barbosa ",
     "Data Hora": "14/09/2026 07:16",
     "VIDEOTELEMTRIA": "SIM",
-    "Itens Danificados": NaN,
+    "Itens Danificados": null,
     "Estado de Criticidade Veículo": "Leve(Liberado)",
     "Observacoes": "Sem avaria.",
     "ID COLABORADOR": "81103",
     "ID DO AVALIADOR(A)": "272640",
     "Abrir Os": "NÃO",
-    "Os": NaN,
-    "Abrir Os ": "NÃO"
+    "Os": null,
+    "Abrir Os ": "NÃO",
+    "Unnamed: 21": null
   },
   {
     "ID": "3912994",
@@ -24327,14 +25344,15 @@ const CHECKLIST_VEICULAR_DATA = [
     "Condutor": "Rafael César Ferreira ",
     "Data Hora": "14/09/2026 08:03",
     "VIDEOTELEMTRIA": "SIM",
-    "Itens Danificados": NaN,
+    "Itens Danificados": null,
     "Estado de Criticidade Veículo": "Leve(Liberado)",
     "Observacoes": "Sem avaria.",
     "ID COLABORADOR": "251130",
     "ID DO AVALIADOR(A)": "272640",
     "Abrir Os": "NÃO",
-    "Os": NaN,
-    "Abrir Os ": "NÃO"
+    "Os": null,
+    "Abrir Os ": "NÃO",
+    "Unnamed: 21": null
   },
   {
     "ID": "3913298",
@@ -24351,14 +25369,15 @@ const CHECKLIST_VEICULAR_DATA = [
     "Condutor": "Josni Adriano Silva ",
     "Data Hora": "14/09/2026 08:29",
     "VIDEOTELEMTRIA": "SIM",
-    "Itens Danificados": NaN,
+    "Itens Danificados": null,
     "Estado de Criticidade Veículo": "Leve(Liberado)",
     "Observacoes": "Sem avaria.",
     "ID COLABORADOR": "198420",
     "ID DO AVALIADOR(A)": "272640",
     "Abrir Os": "NÃO",
-    "Os": NaN,
-    "Abrir Os ": "NÃO"
+    "Os": null,
+    "Abrir Os ": "NÃO",
+    "Unnamed: 21": null
   },
   {
     "ID": "3913299",
@@ -24375,14 +25394,15 @@ const CHECKLIST_VEICULAR_DATA = [
     "Condutor": "Gilmar Rebouças ",
     "Data Hora": "14/09/2026 08:33",
     "VIDEOTELEMTRIA": "SIM",
-    "Itens Danificados": NaN,
+    "Itens Danificados": null,
     "Estado de Criticidade Veículo": "Leve(Liberado)",
     "Observacoes": "Sem avaria.",
     "ID COLABORADOR": "PJ",
     "ID DO AVALIADOR(A)": "272640",
     "Abrir Os": "NÃO",
-    "Os": NaN,
-    "Abrir Os ": "NÃO"
+    "Os": null,
+    "Abrir Os ": "NÃO",
+    "Unnamed: 21": null
   },
   {
     "ID": "3913300",
@@ -24394,19 +25414,20 @@ const CHECKLIST_VEICULAR_DATA = [
     "Data Fim": "14/09/2026 08:42",
     "Status": "Open",
     "Score": "0.0",
-    "Frota": NaN,
+    "Frota": null,
     "GESTORES": "DANIEL FERREIRA",
     "Condutor": "Fábio Sanflorian",
     "Data Hora": "14/09/2026 08:42",
     "VIDEOTELEMTRIA": "SIM",
-    "Itens Danificados": NaN,
+    "Itens Danificados": null,
     "Estado de Criticidade Veículo": "Leve(Liberado)",
     "Observacoes": "Primeiro Checklist do Veículo: 468825Sem avaria.",
-    "ID COLABORADOR": NaN,
+    "ID COLABORADOR": null,
     "ID DO AVALIADOR(A)": "272640",
     "Abrir Os": "NÃO",
-    "Os": NaN,
-    "Abrir Os ": "NÃO"
+    "Os": null,
+    "Abrir Os ": "NÃO",
+    "Unnamed: 21": null
   },
   {
     "ID": "3913301",
@@ -24423,14 +25444,15 @@ const CHECKLIST_VEICULAR_DATA = [
     "Condutor": "Heverton Henrique Custodio ",
     "Data Hora": "14/09/2026 08:59",
     "VIDEOTELEMTRIA": "SIM",
-    "Itens Danificados": NaN,
+    "Itens Danificados": null,
     "Estado de Criticidade Veículo": "Leve(Liberado)",
     "Observacoes": "Sem avaria.",
     "ID COLABORADOR": "266560",
     "ID DO AVALIADOR(A)": "272640",
     "Abrir Os": "NÃO",
-    "Os": NaN,
-    "Abrir Os ": "NÃO"
+    "Os": null,
+    "Abrir Os ": "NÃO",
+    "Unnamed: 21": null
   },
   {
     "ID": "3913302",
@@ -24453,8 +25475,9 @@ const CHECKLIST_VEICULAR_DATA = [
     "ID COLABORADOR": "279140",
     "ID DO AVALIADOR(A)": "272640",
     "Abrir Os": "NÃO",
-    "Os": NaN,
-    "Abrir Os ": "NÃO"
+    "Os": null,
+    "Abrir Os ": "NÃO",
+    "Unnamed: 21": null
   },
   {
     "ID": "3913663",
@@ -24471,14 +25494,15 @@ const CHECKLIST_VEICULAR_DATA = [
     "Condutor": "Mildo Sérgio Veroneze",
     "Data Hora": "14/09/2026 13:32",
     "VIDEOTELEMTRIA": "SIM",
-    "Itens Danificados": NaN,
+    "Itens Danificados": null,
     "Estado de Criticidade Veículo": "Leve(Liberado)",
     "Observacoes": "Sem avaria.",
     "ID COLABORADOR": "283110",
     "ID DO AVALIADOR(A)": "272640",
     "Abrir Os": "NÃO",
-    "Os": NaN,
-    "Abrir Os ": "NÃO"
+    "Os": null,
+    "Abrir Os ": "NÃO",
+    "Unnamed: 21": null
   },
   {
     "ID": "3913664",
@@ -24495,14 +25519,15 @@ const CHECKLIST_VEICULAR_DATA = [
     "Condutor": "Vitória Fonseca de Carvalho ",
     "Data Hora": "14/09/2026 13:35",
     "VIDEOTELEMTRIA": "SIM",
-    "Itens Danificados": NaN,
+    "Itens Danificados": null,
     "Estado de Criticidade Veículo": "Leve(Liberado)",
     "Observacoes": "Sem avaria.",
     "ID COLABORADOR": "277030",
     "ID DO AVALIADOR(A)": "272640",
     "Abrir Os": "NÃO",
-    "Os": NaN,
-    "Abrir Os ": "NÃO"
+    "Os": null,
+    "Abrir Os ": "NÃO",
+    "Unnamed: 21": null
   },
   {
     "ID": "3913665",
@@ -24525,8 +25550,9 @@ const CHECKLIST_VEICULAR_DATA = [
     "ID COLABORADOR": "283080",
     "ID DO AVALIADOR(A)": "272640",
     "Abrir Os": "NÃO",
-    "Os": NaN,
-    "Abrir Os ": "NÃO"
+    "Os": null,
+    "Abrir Os ": "NÃO",
+    "Unnamed: 21": null
   },
   {
     "ID": "3913666",
@@ -24543,14 +25569,15 @@ const CHECKLIST_VEICULAR_DATA = [
     "Condutor": "Fernando Antonio Saviolli Desie ",
     "Data Hora": "14/09/2026 15:23",
     "VIDEOTELEMTRIA": "SIM",
-    "Itens Danificados": NaN,
+    "Itens Danificados": null,
     "Estado de Criticidade Veículo": "Leve(Liberado)",
     "Observacoes": "Sem avaria.",
     "ID COLABORADOR": "PJ",
     "ID DO AVALIADOR(A)": "272640",
     "Abrir Os": "NÃO",
-    "Os": NaN,
-    "Abrir Os ": "NÃO"
+    "Os": null,
+    "Abrir Os ": "NÃO",
+    "Unnamed: 21": null
   },
   {
     "ID": "3915112",
@@ -24573,8 +25600,9 @@ const CHECKLIST_VEICULAR_DATA = [
     "ID COLABORADOR": "262010",
     "ID DO AVALIADOR(A)": "272640",
     "Abrir Os": "NÃO",
-    "Os": NaN,
-    "Abrir Os ": "NÃO"
+    "Os": null,
+    "Abrir Os ": "NÃO",
+    "Unnamed: 21": null
   },
   {
     "ID": "3915113",
@@ -24591,14 +25619,15 @@ const CHECKLIST_VEICULAR_DATA = [
     "Condutor": "Alessandro da Silva ",
     "Data Hora": "15/09/2026 08:01",
     "VIDEOTELEMTRIA": "SIM",
-    "Itens Danificados": NaN,
+    "Itens Danificados": null,
     "Estado de Criticidade Veículo": "Leve(Liberado)",
     "Observacoes": "Sem avaria.",
     "ID COLABORADOR": "262010",
     "ID DO AVALIADOR(A)": "272640",
     "Abrir Os": "NÃO",
-    "Os": NaN,
-    "Abrir Os ": "NÃO"
+    "Os": null,
+    "Abrir Os ": "NÃO",
+    "Unnamed: 21": null
   },
   {
     "ID": "3915114",
@@ -24615,14 +25644,15 @@ const CHECKLIST_VEICULAR_DATA = [
     "Condutor": "Paulo Antonio de Sa Jardim",
     "Data Hora": "15/09/2026 08:58",
     "VIDEOTELEMTRIA": "SIM",
-    "Itens Danificados": NaN,
+    "Itens Danificados": null,
     "Estado de Criticidade Veículo": "Moderado(Condutor notificado)",
     "Observacoes": "Luz da placa (queimada)",
     "ID COLABORADOR": "201121",
     "ID DO AVALIADOR(A)": "272640",
     "Abrir Os": "NÃO",
-    "Os": NaN,
-    "Abrir Os ": "NÃO"
+    "Os": null,
+    "Abrir Os ": "NÃO",
+    "Unnamed: 21": null
   },
   {
     "ID": "3915115",
@@ -24639,14 +25669,15 @@ const CHECKLIST_VEICULAR_DATA = [
     "Condutor": "Alessandro da Silva ",
     "Data Hora": "15/09/2026 09:33",
     "VIDEOTELEMTRIA": "SIM",
-    "Itens Danificados": NaN,
+    "Itens Danificados": null,
     "Estado de Criticidade Veículo": "Moderado(Condutor notificado)",
     "Observacoes": "Para choque Dianteiro (danificado lado direito)",
     "ID COLABORADOR": "262010",
     "ID DO AVALIADOR(A)": "272640",
     "Abrir Os": "NÃO",
-    "Os": NaN,
-    "Abrir Os ": "NÃO"
+    "Os": null,
+    "Abrir Os ": "NÃO",
+    "Unnamed: 21": null
   },
   {
     "ID": "3915116",
@@ -24663,14 +25694,15 @@ const CHECKLIST_VEICULAR_DATA = [
     "Condutor": "Paulo Henrique Cardoso Silva",
     "Data Hora": "15/09/2026 09:49",
     "VIDEOTELEMTRIA": "SIM",
-    "Itens Danificados": NaN,
+    "Itens Danificados": null,
     "Estado de Criticidade Veículo": "Leve(Liberado)",
     "Observacoes": "Sem avaria.",
     "ID COLABORADOR": "284510",
     "ID DO AVALIADOR(A)": "272640",
     "Abrir Os": "NÃO",
-    "Os": NaN,
-    "Abrir Os ": "NÃO"
+    "Os": null,
+    "Abrir Os ": "NÃO",
+    "Unnamed: 21": null
   },
   {
     "ID": "3915117",
@@ -24687,14 +25719,15 @@ const CHECKLIST_VEICULAR_DATA = [
     "Condutor": "Jussara Soares de Souza ",
     "Data Hora": "15/09/2026 09:56",
     "VIDEOTELEMTRIA": "SIM",
-    "Itens Danificados": NaN,
+    "Itens Danificados": null,
     "Estado de Criticidade Veículo": "Leve(Liberado)",
     "Observacoes": "Sem avaria.",
     "ID COLABORADOR": "272640",
     "ID DO AVALIADOR(A)": "272640",
     "Abrir Os": "NÃO",
-    "Os": NaN,
-    "Abrir Os ": "NÃO"
+    "Os": null,
+    "Abrir Os ": "NÃO",
+    "Unnamed: 21": null
   },
   {
     "ID": "3915118",
@@ -24711,14 +25744,15 @@ const CHECKLIST_VEICULAR_DATA = [
     "Condutor": "Ryan Ribeiro de Souza",
     "Data Hora": "15/09/2026 10:01",
     "VIDEOTELEMTRIA": "SIM",
-    "Itens Danificados": NaN,
+    "Itens Danificados": null,
     "Estado de Criticidade Veículo": "Leve(Liberado)",
     "Observacoes": "Sem avaria.",
     "ID COLABORADOR": "260930",
     "ID DO AVALIADOR(A)": "272640",
     "Abrir Os": "NÃO",
-    "Os": NaN,
-    "Abrir Os ": "NÃO"
+    "Os": null,
+    "Abrir Os ": "NÃO",
+    "Unnamed: 21": null
   },
   {
     "ID": "3915813",
@@ -24735,14 +25769,15 @@ const CHECKLIST_VEICULAR_DATA = [
     "Condutor": "José Ricardo Carmo",
     "Data Hora": "15/09/2026 13:04",
     "VIDEOTELEMTRIA": "SIM",
-    "Itens Danificados": NaN,
+    "Itens Danificados": null,
     "Estado de Criticidade Veículo": "Leve(Liberado)",
     "Observacoes": "Sem avaria.",
     "ID COLABORADOR": "84165",
     "ID DO AVALIADOR(A)": "272640",
     "Abrir Os": "NÃO",
-    "Os": NaN,
-    "Abrir Os ": "NÃO"
+    "Os": null,
+    "Abrir Os ": "NÃO",
+    "Unnamed: 21": null
   },
   {
     "ID": "3915814",
@@ -24756,17 +25791,18 @@ const CHECKLIST_VEICULAR_DATA = [
     "Score": "0.0",
     "Frota": "460625 - FIAT STRADA ENDURENCE CP 1.4 - ALUGADA(REB4C06)",
     "GESTORES": "CASSIO ADRIANO COSTA",
-    "Condutor": NaN,
+    "Condutor": null,
     "Data Hora": "15/09/2026 13:33",
     "VIDEOTELEMTRIA": "SIM",
-    "Itens Danificados": NaN,
+    "Itens Danificados": null,
     "Estado de Criticidade Veículo": "Leve(Liberado)",
     "Observacoes": "Sem avaria.",
     "ID COLABORADOR": "281920",
     "ID DO AVALIADOR(A)": "272640",
     "Abrir Os": "NÃO",
-    "Os": NaN,
-    "Abrir Os ": "NÃO"
+    "Os": null,
+    "Abrir Os ": "NÃO",
+    "Unnamed: 21": null
   },
   {
     "ID": "3915815",
@@ -24783,14 +25819,15 @@ const CHECKLIST_VEICULAR_DATA = [
     "Condutor": "Paulo Henrique Cardoso da Silva ",
     "Data Hora": "15/09/2026 14:09",
     "VIDEOTELEMTRIA": "SIM",
-    "Itens Danificados": NaN,
+    "Itens Danificados": null,
     "Estado de Criticidade Veículo": "Leve(Liberado)",
     "Observacoes": "Sem avaria.",
     "ID COLABORADOR": "284520",
     "ID DO AVALIADOR(A)": "272640",
     "Abrir Os": "NÃO",
     "Os": "272649",
-    "Abrir Os ": "NÃO"
+    "Abrir Os ": "NÃO",
+    "Unnamed: 21": null
   },
   {
     "ID": "3915816",
@@ -24807,14 +25844,15 @@ const CHECKLIST_VEICULAR_DATA = [
     "Condutor": "Anderson Ricardo Ruaro ",
     "Data Hora": "15/09/2026 15:36",
     "VIDEOTELEMTRIA": "SIM",
-    "Itens Danificados": NaN,
+    "Itens Danificados": null,
     "Estado de Criticidade Veículo": "Leve(Liberado)",
     "Observacoes": "Sem avaria.",
     "ID COLABORADOR": "251390",
     "ID DO AVALIADOR(A)": "272640",
     "Abrir Os": "NÃO",
-    "Os": NaN,
-    "Abrir Os ": "NÃO"
+    "Os": null,
+    "Abrir Os ": "NÃO",
+    "Unnamed: 21": null
   },
   {
     "ID": "3919688",
@@ -24831,14 +25869,15 @@ const CHECKLIST_VEICULAR_DATA = [
     "Condutor": "Alex Rodrigo Bueno ",
     "Data Hora": "16/09/2026 10:15",
     "VIDEOTELEMTRIA": "SIM",
-    "Itens Danificados": NaN,
+    "Itens Danificados": null,
     "Estado de Criticidade Veículo": "Leve(Liberado)",
     "Observacoes": "Sem avaria.",
-    "ID COLABORADOR": NaN,
+    "ID COLABORADOR": null,
     "ID DO AVALIADOR(A)": "272640",
     "Abrir Os": "NÃO",
-    "Os": NaN,
-    "Abrir Os ": "NÃO"
+    "Os": null,
+    "Abrir Os ": "NÃO",
+    "Unnamed: 21": null
   },
   {
     "ID": "3919689",
@@ -24855,14 +25894,15 @@ const CHECKLIST_VEICULAR_DATA = [
     "Condutor": "Paulo Henrique Cardoso da Silva",
     "Data Hora": "16/09/2026 11:19",
     "VIDEOTELEMTRIA": "SIM",
-    "Itens Danificados": NaN,
+    "Itens Danificados": null,
     "Estado de Criticidade Veículo": "Leve(Liberado)",
     "Observacoes": "Sem avaria.",
     "ID COLABORADOR": "284510",
     "ID DO AVALIADOR(A)": "272640",
     "Abrir Os": "NÃO",
-    "Os": NaN,
-    "Abrir Os ": "NÃO"
+    "Os": null,
+    "Abrir Os ": "NÃO",
+    "Unnamed: 21": null
   },
   {
     "ID": "3919690",
@@ -24879,14 +25919,15 @@ const CHECKLIST_VEICULAR_DATA = [
     "Condutor": "Livia Reginato",
     "Data Hora": "16/09/2026 13:10",
     "VIDEOTELEMTRIA": "SIM",
-    "Itens Danificados": NaN,
+    "Itens Danificados": null,
     "Estado de Criticidade Veículo": "Leve(Liberado)",
     "Observacoes": "Sem avaria.",
-    "ID COLABORADOR": NaN,
+    "ID COLABORADOR": null,
     "ID DO AVALIADOR(A)": "272640",
     "Abrir Os": "NÃO",
-    "Os": NaN,
-    "Abrir Os ": "NÃO"
+    "Os": null,
+    "Abrir Os ": "NÃO",
+    "Unnamed: 21": null
   },
   {
     "ID": "3919691",
@@ -24903,14 +25944,15 @@ const CHECKLIST_VEICULAR_DATA = [
     "Condutor": "Ricardo Aparecido da Silva ",
     "Data Hora": "16/09/2026 13:14",
     "VIDEOTELEMTRIA": "SIM",
-    "Itens Danificados": NaN,
+    "Itens Danificados": null,
     "Estado de Criticidade Veículo": "Leve(Liberado)",
     "Observacoes": "Sem avaria.",
     "ID COLABORADOR": "111909",
     "ID DO AVALIADOR(A)": "272640",
     "Abrir Os": "NÃO",
-    "Os": NaN,
-    "Abrir Os ": "NÃO"
+    "Os": null,
+    "Abrir Os ": "NÃO",
+    "Unnamed: 21": null
   },
   {
     "ID": "3919692",
@@ -24927,14 +25969,15 @@ const CHECKLIST_VEICULAR_DATA = [
     "Condutor": "Henrique Mendes Ferreira ",
     "Data Hora": "16/09/2026 15:20",
     "VIDEOTELEMTRIA": "SIM",
-    "Itens Danificados": NaN,
+    "Itens Danificados": null,
     "Estado de Criticidade Veículo": "Leve(Liberado)",
     "Observacoes": "Sem avaria.",
     "ID COLABORADOR": "269710",
     "ID DO AVALIADOR(A)": "272640",
     "Abrir Os": "NÃO",
-    "Os": NaN,
-    "Abrir Os ": "NÃO"
+    "Os": null,
+    "Abrir Os ": "NÃO",
+    "Unnamed: 21": null
   },
   {
     "ID": "3919693",
@@ -24951,14 +25994,15 @@ const CHECKLIST_VEICULAR_DATA = [
     "Condutor": "Osmarino Manoel da Silva ",
     "Data Hora": "16/09/2026 16:28",
     "VIDEOTELEMTRIA": "SIM",
-    "Itens Danificados": NaN,
+    "Itens Danificados": null,
     "Estado de Criticidade Veículo": "Leve(Liberado)",
     "Observacoes": "Sem avaria.",
     "ID COLABORADOR": "272280",
     "ID DO AVALIADOR(A)": "272640",
     "Abrir Os": "NÃO",
-    "Os": NaN,
-    "Abrir Os ": "NÃO"
+    "Os": null,
+    "Abrir Os ": "NÃO",
+    "Unnamed: 21": null
   },
   {
     "ID": "3919694",
@@ -24970,19 +26014,20 @@ const CHECKLIST_VEICULAR_DATA = [
     "Data Fim": "17/09/2026 09:32",
     "Status": "Open",
     "Score": "0.0",
-    "Frota": NaN,
+    "Frota": null,
     "GESTORES": "FABIO JUNIO FERREIRA BARBOZA",
     "Condutor": "Alessandro da Silva ",
     "Data Hora": "17/09/2026 09:31",
     "VIDEOTELEMTRIA": "SIM",
-    "Itens Danificados": NaN,
+    "Itens Danificados": null,
     "Estado de Criticidade Veículo": "Leve(Liberado)",
     "Observacoes": "Primeiro Checklist do Veículo: Sem avaria Frota: 468926",
     "ID COLABORADOR": "262010",
     "ID DO AVALIADOR(A)": "272640",
     "Abrir Os": "NÃO",
-    "Os": NaN,
-    "Abrir Os ": "NÃO"
+    "Os": null,
+    "Abrir Os ": "NÃO",
+    "Unnamed: 21": null
   },
   {
     "ID": "3920789",
@@ -24999,14 +26044,15 @@ const CHECKLIST_VEICULAR_DATA = [
     "Condutor": "Agnaldo de Oliveira ",
     "Data Hora": "17/09/2026 16:37",
     "VIDEOTELEMTRIA": "SIM",
-    "Itens Danificados": NaN,
+    "Itens Danificados": null,
     "Estado de Criticidade Veículo": "Leve(Liberado)",
     "Observacoes": "Sem avaria.",
     "ID COLABORADOR": "281460",
     "ID DO AVALIADOR(A)": "272640",
     "Abrir Os": "NÃO",
-    "Os": NaN,
-    "Abrir Os ": "NÃO"
+    "Os": null,
+    "Abrir Os ": "NÃO",
+    "Unnamed: 21": null
   },
   {
     "ID": "3920790",
@@ -25023,14 +26069,15 @@ const CHECKLIST_VEICULAR_DATA = [
     "Condutor": "Fábio Sanflorian",
     "Data Hora": "17/09/2026 16:35",
     "VIDEOTELEMTRIA": "SIM",
-    "Itens Danificados": NaN,
+    "Itens Danificados": null,
     "Estado de Criticidade Veículo": "Leve(Liberado)",
     "Observacoes": "Sem avaria.",
-    "ID COLABORADOR": NaN,
+    "ID COLABORADOR": null,
     "ID DO AVALIADOR(A)": "272640",
     "Abrir Os": "NÃO",
-    "Os": NaN,
-    "Abrir Os ": "NÃO"
+    "Os": null,
+    "Abrir Os ": "NÃO",
+    "Unnamed: 21": null
   },
   {
     "ID": "3928608",
@@ -25047,14 +26094,15 @@ const CHECKLIST_VEICULAR_DATA = [
     "Condutor": "Reginaldo Fernando Mantovani ",
     "Data Hora": "18/09/2026 11:18",
     "VIDEOTELEMTRIA": "SIM",
-    "Itens Danificados": NaN,
+    "Itens Danificados": null,
     "Estado de Criticidade Veículo": "Leve(Liberado)",
     "Observacoes": "Sem avaria.",
     "ID COLABORADOR": "260910",
     "ID DO AVALIADOR(A)": "272640",
     "Abrir Os": "NÃO",
-    "Os": NaN,
-    "Abrir Os ": "NÃO"
+    "Os": null,
+    "Abrir Os ": "NÃO",
+    "Unnamed: 21": null
   },
   {
     "ID": "3928609",
@@ -25071,14 +26119,15 @@ const CHECKLIST_VEICULAR_DATA = [
     "Condutor": "Pedro Augusto Silva ",
     "Data Hora": "21/09/2026 07:14",
     "VIDEOTELEMTRIA": "SIM",
-    "Itens Danificados": NaN,
+    "Itens Danificados": null,
     "Estado de Criticidade Veículo": "Leve(Liberado)",
     "Observacoes": "Sem avaria.",
     "ID COLABORADOR": "270270",
     "ID DO AVALIADOR(A)": "272640",
     "Abrir Os": "NÃO",
-    "Os": NaN,
-    "Abrir Os ": "NÃO"
+    "Os": null,
+    "Abrir Os ": "NÃO",
+    "Unnamed: 21": null
   },
   {
     "ID": "3928610",
@@ -25095,14 +26144,15 @@ const CHECKLIST_VEICULAR_DATA = [
     "Condutor": "Reginaldo da Silva Gomes ",
     "Data Hora": "21/09/2026 07:16",
     "VIDEOTELEMTRIA": "SIM",
-    "Itens Danificados": NaN,
+    "Itens Danificados": null,
     "Estado de Criticidade Veículo": "Leve(Liberado)",
     "Observacoes": "Sem avaria.",
     "ID COLABORADOR": "249300",
     "ID DO AVALIADOR(A)": "272640",
     "Abrir Os": "NÃO",
-    "Os": NaN,
-    "Abrir Os ": "NÃO"
+    "Os": null,
+    "Abrir Os ": "NÃO",
+    "Unnamed: 21": null
   },
   {
     "ID": "3928611",
@@ -25119,14 +26169,15 @@ const CHECKLIST_VEICULAR_DATA = [
     "Condutor": "Diego Ataíde Galo",
     "Data Hora": "21/09/2026 13:24",
     "VIDEOTELEMTRIA": "SIM",
-    "Itens Danificados": NaN,
+    "Itens Danificados": null,
     "Estado de Criticidade Veículo": "Moderado(Condutor notificado)",
     "Observacoes": "Retrovisor esquerdo (quebrado)",
     "ID COLABORADOR": "262410",
     "ID DO AVALIADOR(A)": "272640",
     "Abrir Os": "NÃO",
-    "Os": NaN,
-    "Abrir Os ": "NÃO"
+    "Os": null,
+    "Abrir Os ": "NÃO",
+    "Unnamed: 21": null
   },
   {
     "ID": "3928612",
@@ -25143,14 +26194,15 @@ const CHECKLIST_VEICULAR_DATA = [
     "Condutor": "Lorraine Carla Santos de Moraes ",
     "Data Hora": "21/09/2026 14:31",
     "VIDEOTELEMTRIA": "SIM",
-    "Itens Danificados": NaN,
+    "Itens Danificados": null,
     "Estado de Criticidade Veículo": "Leve(Liberado)",
     "Observacoes": "Sem avaria.",
     "ID COLABORADOR": "283150",
     "ID DO AVALIADOR(A)": "272640",
     "Abrir Os": "NÃO",
-    "Os": NaN,
-    "Abrir Os ": "NÃO"
+    "Os": null,
+    "Abrir Os ": "NÃO",
+    "Unnamed: 21": null
   },
   {
     "ID": "3928613",
@@ -25167,14 +26219,15 @@ const CHECKLIST_VEICULAR_DATA = [
     "Condutor": "Felipe Gomes de Oliveira ",
     "Data Hora": "21/09/2026 14:41",
     "VIDEOTELEMTRIA": "SIM",
-    "Itens Danificados": NaN,
+    "Itens Danificados": null,
     "Estado de Criticidade Veículo": "Moderado(Condutor notificado)",
     "Observacoes": "Capô amassado (lateral esquerda)",
     "ID COLABORADOR": "283160",
     "ID DO AVALIADOR(A)": "272640",
     "Abrir Os": "NÃO",
-    "Os": NaN,
-    "Abrir Os ": "NÃO"
+    "Os": null,
+    "Abrir Os ": "NÃO",
+    "Unnamed: 21": null
   },
   {
     "ID": "3933352",
@@ -25197,8 +26250,9 @@ const CHECKLIST_VEICULAR_DATA = [
     "ID COLABORADOR": "254120",
     "ID DO AVALIADOR(A)": "272640",
     "Abrir Os": "NÃO",
-    "Os": NaN,
-    "Abrir Os ": "NÃO"
+    "Os": null,
+    "Abrir Os ": "NÃO",
+    "Unnamed: 21": null
   },
   {
     "ID": "3933353",
@@ -25215,14 +26269,15 @@ const CHECKLIST_VEICULAR_DATA = [
     "Condutor": "Guilherme Laguna",
     "Data Hora": "22/09/2026 10:30",
     "VIDEOTELEMTRIA": "SIM",
-    "Itens Danificados": NaN,
+    "Itens Danificados": null,
     "Estado de Criticidade Veículo": "Leve(Liberado)",
     "Observacoes": "Checklist pós manutenção: Concluído.",
     "ID COLABORADOR": "238420",
     "ID DO AVALIADOR(A)": "272640",
     "Abrir Os": "NÃO",
-    "Os": NaN,
-    "Abrir Os ": "NÃO"
+    "Os": null,
+    "Abrir Os ": "NÃO",
+    "Unnamed: 21": null
   },
   {
     "ID": "3933354",
@@ -25239,14 +26294,15 @@ const CHECKLIST_VEICULAR_DATA = [
     "Condutor": "Rafael César Ferreira ",
     "Data Hora": "22/09/2026 10:34",
     "VIDEOTELEMTRIA": "SIM",
-    "Itens Danificados": NaN,
+    "Itens Danificados": null,
     "Estado de Criticidade Veículo": "Leve(Liberado)",
     "Observacoes": "Sem avaria.",
     "ID COLABORADOR": "251130",
     "ID DO AVALIADOR(A)": "272640",
     "Abrir Os": "NÃO",
-    "Os": NaN,
-    "Abrir Os ": "NÃO"
+    "Os": null,
+    "Abrir Os ": "NÃO",
+    "Unnamed: 21": null
   },
   {
     "ID": "3933355",
@@ -25263,14 +26319,15 @@ const CHECKLIST_VEICULAR_DATA = [
     "Condutor": "Admir Xavier Cotrim ",
     "Data Hora": "22/09/2026 13:04",
     "VIDEOTELEMTRIA": "SIM",
-    "Itens Danificados": NaN,
+    "Itens Danificados": null,
     "Estado de Criticidade Veículo": "Leve(Liberado)",
     "Observacoes": "Sem avaria.",
     "ID COLABORADOR": "112150",
     "ID DO AVALIADOR(A)": "272640",
     "Abrir Os": "NÃO",
-    "Os": NaN,
-    "Abrir Os ": "NÃO"
+    "Os": null,
+    "Abrir Os ": "NÃO",
+    "Unnamed: 21": null
   },
   {
     "ID": "3933356",
@@ -25287,14 +26344,15 @@ const CHECKLIST_VEICULAR_DATA = [
     "Condutor": "Antonio Benedito Cassezi ",
     "Data Hora": "22/09/2026 16:22",
     "VIDEOTELEMTRIA": "SIM",
-    "Itens Danificados": NaN,
+    "Itens Danificados": null,
     "Estado de Criticidade Veículo": "Leve(Liberado)",
     "Observacoes": "Sem avaria.",
     "ID COLABORADOR": "96520",
     "ID DO AVALIADOR(A)": "272640",
     "Abrir Os": "NÃO",
-    "Os": NaN,
-    "Abrir Os ": "NÃO"
+    "Os": null,
+    "Abrir Os ": "NÃO",
+    "Unnamed: 21": null
   },
   {
     "ID": "3933357",
@@ -25311,14 +26369,15 @@ const CHECKLIST_VEICULAR_DATA = [
     "Condutor": "Marco Ferreira dos Santos ",
     "Data Hora": "22/09/2026 16:19",
     "VIDEOTELEMTRIA": "SIM",
-    "Itens Danificados": NaN,
+    "Itens Danificados": null,
     "Estado de Criticidade Veículo": "Leve(Liberado)",
     "Observacoes": "Sem avaria.",
     "ID COLABORADOR": "115782",
     "ID DO AVALIADOR(A)": "272640",
     "Abrir Os": "NÃO",
-    "Os": NaN,
-    "Abrir Os ": "NÃO"
+    "Os": null,
+    "Abrir Os ": "NÃO",
+    "Unnamed: 21": null
   },
   {
     "ID": "3933358",
@@ -25335,14 +26394,15 @@ const CHECKLIST_VEICULAR_DATA = [
     "Condutor": "Jeremias dos Santos ",
     "Data Hora": "23/09/2026 11:29",
     "VIDEOTELEMTRIA": "SIM",
-    "Itens Danificados": NaN,
+    "Itens Danificados": null,
     "Estado de Criticidade Veículo": "Leve(Liberado)",
     "Observacoes": "Sem avaria.",
     "ID COLABORADOR": "280430",
     "ID DO AVALIADOR(A)": "272640",
     "Abrir Os": "NÃO",
-    "Os": NaN,
-    "Abrir Os ": "NÃO"
+    "Os": null,
+    "Abrir Os ": "NÃO",
+    "Unnamed: 21": null
   },
   {
     "ID": "3933359",
@@ -25359,14 +26419,15 @@ const CHECKLIST_VEICULAR_DATA = [
     "Condutor": "Tiago Damião Louzada",
     "Data Hora": "23/09/2026 13:17",
     "VIDEOTELEMTRIA": "SIM",
-    "Itens Danificados": NaN,
+    "Itens Danificados": null,
     "Estado de Criticidade Veículo": "Leve(Liberado)",
     "Observacoes": "Sem avaria.",
     "ID COLABORADOR": "5",
     "ID DO AVALIADOR(A)": "272640",
     "Abrir Os": "NÃO",
-    "Os": NaN,
-    "Abrir Os ": "NÃO"
+    "Os": null,
+    "Abrir Os ": "NÃO",
+    "Unnamed: 21": null
   },
   {
     "ID": "3933360",
@@ -25383,14 +26444,15 @@ const CHECKLIST_VEICULAR_DATA = [
     "Condutor": "Karolainy da Silva Roque ",
     "Data Hora": "23/09/2026 13:19",
     "VIDEOTELEMTRIA": "SIM",
-    "Itens Danificados": NaN,
+    "Itens Danificados": null,
     "Estado de Criticidade Veículo": "Leve(Liberado)",
     "Observacoes": "Sem avaria.",
     "ID COLABORADOR": "272590",
     "ID DO AVALIADOR(A)": "272640",
     "Abrir Os": "NÃO",
-    "Os": NaN,
-    "Abrir Os ": "NÃO"
+    "Os": null,
+    "Abrir Os ": "NÃO",
+    "Unnamed: 21": null
   },
   {
     "ID": "3933952",
@@ -25407,14 +26469,15 @@ const CHECKLIST_VEICULAR_DATA = [
     "Condutor": "Claudia Burlina Rezende",
     "Data Hora": "23/09/2026 14:44",
     "VIDEOTELEMTRIA": "SIM",
-    "Itens Danificados": NaN,
+    "Itens Danificados": null,
     "Estado de Criticidade Veículo": "Leve(Liberado)",
     "Observacoes": "Sem avaria.",
     "ID COLABORADOR": "283140",
     "ID DO AVALIADOR(A)": "272640",
     "Abrir Os": "NÃO",
-    "Os": NaN,
-    "Abrir Os ": "NÃO"
+    "Os": null,
+    "Abrir Os ": "NÃO",
+    "Unnamed: 21": null
   },
   {
     "ID": "3933953",
@@ -25431,14 +26494,15 @@ const CHECKLIST_VEICULAR_DATA = [
     "Condutor": "Luis Fernando Cassezi",
     "Data Hora": "23/09/2026 14:47",
     "VIDEOTELEMTRIA": "SIM",
-    "Itens Danificados": NaN,
+    "Itens Danificados": null,
     "Estado de Criticidade Veículo": "Leve(Liberado)",
     "Observacoes": "Sem avaria.",
     "ID COLABORADOR": "277820",
     "ID DO AVALIADOR(A)": "272640",
     "Abrir Os": "NÃO",
-    "Os": NaN,
-    "Abrir Os ": "NÃO"
+    "Os": null,
+    "Abrir Os ": "NÃO",
+    "Unnamed: 21": null
   },
   {
     "ID": "3933954",
@@ -25455,14 +26519,15 @@ const CHECKLIST_VEICULAR_DATA = [
     "Condutor": "Murilo Vanderlei Travani Afonso ",
     "Data Hora": "23/09/2026 15:36",
     "VIDEOTELEMTRIA": "SIM",
-    "Itens Danificados": NaN,
+    "Itens Danificados": null,
     "Estado de Criticidade Veículo": "Leve(Liberado)",
     "Observacoes": "Sem avaria.",
     "ID COLABORADOR": "278680",
     "ID DO AVALIADOR(A)": "272640",
     "Abrir Os": "NÃO",
-    "Os": NaN,
-    "Abrir Os ": "NÃO"
+    "Os": null,
+    "Abrir Os ": "NÃO",
+    "Unnamed: 21": null
   },
   {
     "ID": "3933955",
@@ -25479,14 +26544,15 @@ const CHECKLIST_VEICULAR_DATA = [
     "Condutor": "Karolainy da Silva Roque ",
     "Data Hora": "23/09/2026 15:55",
     "VIDEOTELEMTRIA": "SIM",
-    "Itens Danificados": NaN,
+    "Itens Danificados": null,
     "Estado de Criticidade Veículo": "Leve(Liberado)",
     "Observacoes": "Sem avaria.",
     "ID COLABORADOR": "272590",
     "ID DO AVALIADOR(A)": "272640",
     "Abrir Os": "NÃO",
-    "Os": NaN,
-    "Abrir Os ": "NÃO"
+    "Os": null,
+    "Abrir Os ": "NÃO",
+    "Unnamed: 21": null
   },
   {
     "ID": "3933957",
@@ -25503,14 +26569,15 @@ const CHECKLIST_VEICULAR_DATA = [
     "Condutor": "João Jesus Ferreira ",
     "Data Hora": "23/09/2026 16:44",
     "VIDEOTELEMTRIA": "SIM",
-    "Itens Danificados": NaN,
+    "Itens Danificados": null,
     "Estado de Criticidade Veículo": "Leve(Liberado)",
     "Observacoes": "Sem avaria.",
     "ID COLABORADOR": "179103",
     "ID DO AVALIADOR(A)": "272640",
     "Abrir Os": "NÃO",
-    "Os": NaN,
-    "Abrir Os ": "NÃO"
+    "Os": null,
+    "Abrir Os ": "NÃO",
+    "Unnamed: 21": null
   },
   {
     "ID": "3935931",
@@ -25527,14 +26594,15 @@ const CHECKLIST_VEICULAR_DATA = [
     "Condutor": "Joyce Rodrigues Rebouças ",
     "Data Hora": "24/09/2026 07:39",
     "VIDEOTELEMTRIA": "SIM",
-    "Itens Danificados": NaN,
+    "Itens Danificados": null,
     "Estado de Criticidade Veículo": "Moderado(Condutor notificado)",
     "Observacoes": "Amassado no capô ",
     "ID COLABORADOR": "283700",
     "ID DO AVALIADOR(A)": "272640",
     "Abrir Os": "NÃO",
-    "Os": NaN,
-    "Abrir Os ": "NÃO"
+    "Os": null,
+    "Abrir Os ": "NÃO",
+    "Unnamed: 21": null
   },
   {
     "ID": "3935932",
@@ -25557,8 +26625,9 @@ const CHECKLIST_VEICULAR_DATA = [
     "ID COLABORADOR": "276470",
     "ID DO AVALIADOR(A)": "272640",
     "Abrir Os": "NÃO",
-    "Os": NaN,
-    "Abrir Os ": "NÃO"
+    "Os": null,
+    "Abrir Os ": "NÃO",
+    "Unnamed: 21": null
   },
   {
     "ID": "3935933",
@@ -25575,14 +26644,15 @@ const CHECKLIST_VEICULAR_DATA = [
     "Condutor": "Alessandro da Silva ",
     "Data Hora": "24/09/2026 09:01",
     "VIDEOTELEMTRIA": "SIM",
-    "Itens Danificados": NaN,
+    "Itens Danificados": null,
     "Estado de Criticidade Veículo": "Moderado(Condutor notificado)",
     "Observacoes": "Checklist de devolução: Amassado em porta do passageiro e porta do motorista.Devolvido em 24/09/26",
     "ID COLABORADOR": "262010",
     "ID DO AVALIADOR(A)": "272640",
     "Abrir Os": "NÃO",
-    "Os": NaN,
-    "Abrir Os ": "NÃO"
+    "Os": null,
+    "Abrir Os ": "NÃO",
+    "Unnamed: 21": null
   },
   {
     "ID": "3935934",
@@ -25599,14 +26669,15 @@ const CHECKLIST_VEICULAR_DATA = [
     "Condutor": "Alessandro da Silva ",
     "Data Hora": "24/09/2026 10:38",
     "VIDEOTELEMTRIA": "SIM",
-    "Itens Danificados": NaN,
+    "Itens Danificados": null,
     "Estado de Criticidade Veículo": "Leve(Liberado)",
     "Observacoes": "Checklist de devolução: Amassado em capô Devolvido em 24/09/26",
     "ID COLABORADOR": "262010",
     "ID DO AVALIADOR(A)": "272640",
     "Abrir Os": "NÃO",
-    "Os": NaN,
-    "Abrir Os ": "NÃO"
+    "Os": null,
+    "Abrir Os ": "NÃO",
+    "Unnamed: 21": null
   },
   {
     "ID": "3935935",
@@ -25623,14 +26694,15 @@ const CHECKLIST_VEICULAR_DATA = [
     "Condutor": "Daniel Assunção ",
     "Data Hora": "24/09/2026 13:25",
     "VIDEOTELEMTRIA": "SIM",
-    "Itens Danificados": NaN,
+    "Itens Danificados": null,
     "Estado de Criticidade Veículo": "Leve(Liberado)",
     "Observacoes": "Sem avaria.",
-    "ID COLABORADOR": NaN,
+    "ID COLABORADOR": null,
     "ID DO AVALIADOR(A)": "272640",
     "Abrir Os": "NÃO",
-    "Os": NaN,
-    "Abrir Os ": "NÃO"
+    "Os": null,
+    "Abrir Os ": "NÃO",
+    "Unnamed: 21": null
   },
   {
     "ID": "3935936",
@@ -25647,14 +26719,15 @@ const CHECKLIST_VEICULAR_DATA = [
     "Condutor": "Vitor Carvalho Lima",
     "Data Hora": "24/09/2026 12:45",
     "VIDEOTELEMTRIA": "SIM",
-    "Itens Danificados": NaN,
+    "Itens Danificados": null,
     "Estado de Criticidade Veículo": "Leve(Liberado)",
     "Observacoes": "Sem avaria.",
-    "ID COLABORADOR": NaN,
+    "ID COLABORADOR": null,
     "ID DO AVALIADOR(A)": "272670",
     "Abrir Os": "NÃO",
-    "Os": NaN,
-    "Abrir Os ": "NÃO"
+    "Os": null,
+    "Abrir Os ": "NÃO",
+    "Unnamed: 21": null
   },
   {
     "ID": "3935937",
@@ -25671,14 +26744,15 @@ const CHECKLIST_VEICULAR_DATA = [
     "Condutor": "Alessandro da Silva ",
     "Data Hora": "24/09/2026 13:16",
     "VIDEOTELEMTRIA": "SIM",
-    "Itens Danificados": NaN,
+    "Itens Danificados": null,
     "Estado de Criticidade Veículo": "Leve(Liberado)",
     "Observacoes": "Checklist de devolução: Sem avaria.Devolvido em 24/09/26",
     "ID COLABORADOR": "262010",
     "ID DO AVALIADOR(A)": "272640",
     "Abrir Os": "NÃO",
-    "Os": NaN,
-    "Abrir Os ": "NÃO"
+    "Os": null,
+    "Abrir Os ": "NÃO",
+    "Unnamed: 21": null
   },
   {
     "ID": "3939925",
@@ -25695,14 +26769,15 @@ const CHECKLIST_VEICULAR_DATA = [
     "Condutor": "Onofre Evangelista da Silva Junior ",
     "Data Hora": "25/09/2026 15:22",
     "VIDEOTELEMTRIA": "SIM",
-    "Itens Danificados": NaN,
+    "Itens Danificados": null,
     "Estado de Criticidade Veículo": "Leve(Liberado)",
     "Observacoes": "Sem avaria.",
     "ID COLABORADOR": "163363",
     "ID DO AVALIADOR(A)": "272640",
     "Abrir Os": "NÃO",
-    "Os": NaN,
-    "Abrir Os ": "NÃO"
+    "Os": null,
+    "Abrir Os ": "NÃO",
+    "Unnamed: 21": null
   },
   {
     "ID": "3939932",
@@ -25725,8 +26800,9 @@ const CHECKLIST_VEICULAR_DATA = [
     "ID COLABORADOR": "284170",
     "ID DO AVALIADOR(A)": "272640",
     "Abrir Os": "SIM",
-    "Os": NaN,
-    "Abrir Os ": "SIM"
+    "Os": null,
+    "Abrir Os ": "SIM",
+    "Unnamed: 21": null
   },
   {
     "ID": "3939933",
@@ -25743,14 +26819,15 @@ const CHECKLIST_VEICULAR_DATA = [
     "Condutor": "Onofre Evangelista Silva Junior",
     "Data Hora": "25/09/2026 16:01",
     "VIDEOTELEMTRIA": "SIM",
-    "Itens Danificados": NaN,
+    "Itens Danificados": null,
     "Estado de Criticidade Veículo": "Moderado(Condutor notificado)",
     "Observacoes": "Tampa traseira manutenção.",
     "ID COLABORADOR": "163363",
     "ID DO AVALIADOR(A)": "272640",
     "Abrir Os": "NÃO",
-    "Os": NaN,
-    "Abrir Os ": "NÃO"
+    "Os": null,
+    "Abrir Os ": "NÃO",
+    "Unnamed: 21": null
   },
   {
     "ID": "3939998",
@@ -25767,14 +26844,15 @@ const CHECKLIST_VEICULAR_DATA = [
     "Condutor": "Dimitri José de Souza Guirardelli",
     "Data Hora": "25/09/2026 07:19",
     "VIDEOTELEMTRIA": "SIM",
-    "Itens Danificados": NaN,
+    "Itens Danificados": null,
     "Estado de Criticidade Veículo": "Leve(Liberado)",
     "Observacoes": "Sem avaria.",
     "ID COLABORADOR": "272360",
     "ID DO AVALIADOR(A)": "272640",
     "Abrir Os": "NÃO",
-    "Os": NaN,
-    "Abrir Os ": "NÃO"
+    "Os": null,
+    "Abrir Os ": "NÃO",
+    "Unnamed: 21": null
   },
   {
     "ID": "3940007",
@@ -25791,14 +26869,15 @@ const CHECKLIST_VEICULAR_DATA = [
     "Condutor": "Leonardo Estenio Gallon Pinto ",
     "Data Hora": "25/09/2026 08:35",
     "VIDEOTELEMTRIA": "SIM",
-    "Itens Danificados": NaN,
+    "Itens Danificados": null,
     "Estado de Criticidade Veículo": "Leve(Liberado)",
     "Observacoes": "Sem avaria.",
     "ID COLABORADOR": "272430",
     "ID DO AVALIADOR(A)": "272640",
     "Abrir Os": "NÃO",
-    "Os": NaN,
-    "Abrir Os ": "NÃO"
+    "Os": null,
+    "Abrir Os ": "NÃO",
+    "Unnamed: 21": null
   },
   {
     "ID": "3940008",
@@ -25815,14 +26894,15 @@ const CHECKLIST_VEICULAR_DATA = [
     "Condutor": "Juliano Rosa Quirino ",
     "Data Hora": "25/09/2026 11:26",
     "VIDEOTELEMTRIA": "SIM",
-    "Itens Danificados": NaN,
+    "Itens Danificados": null,
     "Estado de Criticidade Veículo": "Leve(Liberado)",
     "Observacoes": "Sem avaria.",
     "ID COLABORADOR": "272770",
     "ID DO AVALIADOR(A)": "272640",
     "Abrir Os": "NÃO",
-    "Os": NaN,
-    "Abrir Os ": "NÃO"
+    "Os": null,
+    "Abrir Os ": "NÃO",
+    "Unnamed: 21": null
   },
   {
     "ID": "3940009",
@@ -25839,14 +26919,15 @@ const CHECKLIST_VEICULAR_DATA = [
     "Condutor": "Joyce Rodrigues ",
     "Data Hora": "25/09/2026 15:11",
     "VIDEOTELEMTRIA": "SIM",
-    "Itens Danificados": NaN,
+    "Itens Danificados": null,
     "Estado de Criticidade Veículo": "Leve(Liberado)",
     "Observacoes": "Sem avaria.",
     "ID COLABORADOR": "283700",
     "ID DO AVALIADOR(A)": "272640",
     "Abrir Os": "NÃO",
-    "Os": NaN,
-    "Abrir Os ": "NÃO"
+    "Os": null,
+    "Abrir Os ": "NÃO",
+    "Unnamed: 21": null
   },
   {
     "ID": "3946998",
@@ -25863,14 +26944,15 @@ const CHECKLIST_VEICULAR_DATA = [
     "Condutor": "Luiz Alfredo de Souza ",
     "Data Hora": "28/09/2026 07:00",
     "VIDEOTELEMTRIA": "SIM",
-    "Itens Danificados": NaN,
+    "Itens Danificados": null,
     "Estado de Criticidade Veículo": "Leve(Liberado)",
     "Observacoes": "Sem avaria.",
     "ID COLABORADOR": "5423",
     "ID DO AVALIADOR(A)": "272640",
     "Abrir Os": "NÃO",
-    "Os": NaN,
-    "Abrir Os ": "NÃO"
+    "Os": null,
+    "Abrir Os ": "NÃO",
+    "Unnamed: 21": null
   },
   {
     "ID": "3946999",
@@ -25887,14 +26969,15 @@ const CHECKLIST_VEICULAR_DATA = [
     "Condutor": "Anderson Ricardo Ruaro ",
     "Data Hora": "28/09/2026 07:38",
     "VIDEOTELEMTRIA": "SIM",
-    "Itens Danificados": NaN,
+    "Itens Danificados": null,
     "Estado de Criticidade Veículo": "Leve(Liberado)",
     "Observacoes": "Sem avaria. ",
     "ID COLABORADOR": "168907",
     "ID DO AVALIADOR(A)": "272640",
     "Abrir Os": "NÃO",
-    "Os": NaN,
-    "Abrir Os ": "NÃO"
+    "Os": null,
+    "Abrir Os ": "NÃO",
+    "Unnamed: 21": null
   },
   {
     "ID": "3947000",
@@ -25917,8 +27000,9 @@ const CHECKLIST_VEICULAR_DATA = [
     "ID COLABORADOR": "81103",
     "ID DO AVALIADOR(A)": "272640",
     "Abrir Os": "NÃO",
-    "Os": NaN,
-    "Abrir Os ": "NÃO"
+    "Os": null,
+    "Abrir Os ": "NÃO",
+    "Unnamed: 21": null
   },
   {
     "ID": "3947001",
@@ -25935,14 +27019,15 @@ const CHECKLIST_VEICULAR_DATA = [
     "Condutor": "Andreia Tassiane Aparecida Megeto",
     "Data Hora": "28/09/2026 11:40",
     "VIDEOTELEMTRIA": "SIM",
-    "Itens Danificados": NaN,
+    "Itens Danificados": null,
     "Estado de Criticidade Veículo": "Leve(Liberado)",
     "Observacoes": "Sem avaria.",
     "ID COLABORADOR": "275340",
     "ID DO AVALIADOR(A)": "272640",
     "Abrir Os": "NÃO",
-    "Os": NaN,
-    "Abrir Os ": "NÃO"
+    "Os": null,
+    "Abrir Os ": "NÃO",
+    "Unnamed: 21": null
   },
   {
     "ID": "3947002",
@@ -25959,14 +27044,15 @@ const CHECKLIST_VEICULAR_DATA = [
     "Condutor": "Kallel Henrique Gaisdorf Catalani",
     "Data Hora": "28/09/2026 13:55",
     "VIDEOTELEMTRIA": "SIM",
-    "Itens Danificados": NaN,
+    "Itens Danificados": null,
     "Estado de Criticidade Veículo": "Leve(Liberado)",
     "Observacoes": "Sem avaria. ",
-    "ID COLABORADOR": NaN,
+    "ID COLABORADOR": null,
     "ID DO AVALIADOR(A)": "272640",
     "Abrir Os": "NÃO",
-    "Os": NaN,
-    "Abrir Os ": "NÃO"
+    "Os": null,
+    "Abrir Os ": "NÃO",
+    "Unnamed: 21": null
   },
   {
     "ID": "3947003",
@@ -25983,14 +27069,15 @@ const CHECKLIST_VEICULAR_DATA = [
     "Condutor": "João Jesus Ferreira ",
     "Data Hora": "28/09/2026 15:28",
     "VIDEOTELEMTRIA": "SIM",
-    "Itens Danificados": NaN,
+    "Itens Danificados": null,
     "Estado de Criticidade Veículo": "Leve(Liberado)",
     "Observacoes": "Sem avaria.",
     "ID COLABORADOR": "179103",
     "ID DO AVALIADOR(A)": "272640",
     "Abrir Os": "NÃO",
-    "Os": NaN,
-    "Abrir Os ": "NÃO"
+    "Os": null,
+    "Abrir Os ": "NÃO",
+    "Unnamed: 21": null
   },
   {
     "ID": "3950268",
@@ -26007,14 +27094,15 @@ const CHECKLIST_VEICULAR_DATA = [
     "Condutor": "Antonio Marcos Ribeiro Ruas ",
     "Data Hora": "29/09/2026 09:59",
     "VIDEOTELEMTRIA": "SIM",
-    "Itens Danificados": NaN,
+    "Itens Danificados": null,
     "Estado de Criticidade Veículo": "Leve(Liberado)",
     "Observacoes": "Sem avaria.",
     "ID COLABORADOR": "183702",
     "ID DO AVALIADOR(A)": "272640",
     "Abrir Os": "NÃO",
-    "Os": NaN,
-    "Abrir Os ": "NÃO"
+    "Os": null,
+    "Abrir Os ": "NÃO",
+    "Unnamed: 21": null
   },
   {
     "ID": "3950271",
@@ -26031,14 +27119,15 @@ const CHECKLIST_VEICULAR_DATA = [
     "Condutor": "Fernando Antonio Saviolli Desie ",
     "Data Hora": "29/09/2026 10:14",
     "VIDEOTELEMTRIA": "SIM",
-    "Itens Danificados": NaN,
+    "Itens Danificados": null,
     "Estado de Criticidade Veículo": "Leve(Liberado)",
     "Observacoes": "Sem avaria.",
     "ID COLABORADOR": "244290",
     "ID DO AVALIADOR(A)": "272640 ",
     "Abrir Os": "NÃO",
-    "Os": NaN,
-    "Abrir Os ": "NÃO"
+    "Os": null,
+    "Abrir Os ": "NÃO",
+    "Unnamed: 21": null
   },
   {
     "ID": "3950278",
@@ -26061,8 +27150,9 @@ const CHECKLIST_VEICULAR_DATA = [
     "ID COLABORADOR": "223724",
     "ID DO AVALIADOR(A)": "272640",
     "Abrir Os": "NÃO",
-    "Os": NaN,
-    "Abrir Os ": "NÃO"
+    "Os": null,
+    "Abrir Os ": "NÃO",
+    "Unnamed: 21": null
   },
   {
     "ID": "3950279",
@@ -26085,8 +27175,9 @@ const CHECKLIST_VEICULAR_DATA = [
     "ID COLABORADOR": "279140",
     "ID DO AVALIADOR(A)": "272640",
     "Abrir Os": "NÃO",
-    "Os": NaN,
-    "Abrir Os ": "NÃO"
+    "Os": null,
+    "Abrir Os ": "NÃO",
+    "Unnamed: 21": null
   },
   {
     "ID": "3950280",
@@ -26103,14 +27194,15 @@ const CHECKLIST_VEICULAR_DATA = [
     "Condutor": "Antonio Marcos Ribeiro Ruas ",
     "Data Hora": "29/09/2026 16:16",
     "VIDEOTELEMTRIA": "SIM",
-    "Itens Danificados": NaN,
+    "Itens Danificados": null,
     "Estado de Criticidade Veículo": "Leve(Liberado)",
     "Observacoes": "Sem avaria.",
     "ID COLABORADOR": "183702",
     "ID DO AVALIADOR(A)": "272640",
     "Abrir Os": "NÃO",
-    "Os": NaN,
-    "Abrir Os ": "NÃO"
+    "Os": null,
+    "Abrir Os ": "NÃO",
+    "Unnamed: 21": null
   },
   {
     "ID": "3953078",
@@ -26127,14 +27219,15 @@ const CHECKLIST_VEICULAR_DATA = [
     "Condutor": "Jussara Soares de Souza ",
     "Data Hora": "30/09/2026 06:54",
     "VIDEOTELEMTRIA": "SIM",
-    "Itens Danificados": NaN,
+    "Itens Danificados": null,
     "Estado de Criticidade Veículo": "Leve(Liberado)",
     "Observacoes": "Sem avaria.",
     "ID COLABORADOR": "272640",
     "ID DO AVALIADOR(A)": "272640",
     "Abrir Os": "NÃO",
-    "Os": NaN,
-    "Abrir Os ": "NÃO"
+    "Os": null,
+    "Abrir Os ": "NÃO",
+    "Unnamed: 21": null
   },
   {
     "ID": "3953079",
@@ -26151,14 +27244,15 @@ const CHECKLIST_VEICULAR_DATA = [
     "Condutor": "Maximiano Gomes da Silva ",
     "Data Hora": "30/09/2026 07:31",
     "VIDEOTELEMTRIA": "SIM",
-    "Itens Danificados": NaN,
+    "Itens Danificados": null,
     "Estado de Criticidade Veículo": "Leve(Liberado)",
     "Observacoes": "Sem avaria.",
     "ID COLABORADOR": "251170",
     "ID DO AVALIADOR(A)": "272640",
     "Abrir Os": "NÃO",
-    "Os": NaN,
-    "Abrir Os ": "NÃO"
+    "Os": null,
+    "Abrir Os ": "NÃO",
+    "Unnamed: 21": null
   },
   {
     "ID": "3953080",
@@ -26175,14 +27269,15 @@ const CHECKLIST_VEICULAR_DATA = [
     "Condutor": "Claudemir Teodoro Toledo",
     "Data Hora": "30/09/2026 07:37",
     "VIDEOTELEMTRIA": "SIM",
-    "Itens Danificados": NaN,
+    "Itens Danificados": null,
     "Estado de Criticidade Veículo": "Leve(Liberado)",
     "Observacoes": "Sem avaria.",
     "ID COLABORADOR": "48902",
     "ID DO AVALIADOR(A)": "272640",
     "Abrir Os": "NÃO",
-    "Os": NaN,
-    "Abrir Os ": "NÃO"
+    "Os": null,
+    "Abrir Os ": "NÃO",
+    "Unnamed: 21": null
   },
   {
     "ID": "3953081",
@@ -26205,8 +27300,9 @@ const CHECKLIST_VEICULAR_DATA = [
     "ID COLABORADOR": "254120",
     "ID DO AVALIADOR(A)": "272640",
     "Abrir Os": "NÃO",
-    "Os": NaN,
-    "Abrir Os ": "NÃO"
+    "Os": null,
+    "Abrir Os ": "NÃO",
+    "Unnamed: 21": null
   },
   {
     "ID": "3953087",
@@ -26229,8 +27325,9 @@ const CHECKLIST_VEICULAR_DATA = [
     "ID COLABORADOR": "278440",
     "ID DO AVALIADOR(A)": "272640",
     "Abrir Os": "NÃO",
-    "Os": NaN,
-    "Abrir Os ": "NÃO"
+    "Os": null,
+    "Abrir Os ": "NÃO",
+    "Unnamed: 21": null
   },
   {
     "ID": "3953088",
@@ -26247,14 +27344,15 @@ const CHECKLIST_VEICULAR_DATA = [
     "Condutor": "Marco Ferreira dos Santos ",
     "Data Hora": "30/09/2026 11:52",
     "VIDEOTELEMTRIA": "SIM",
-    "Itens Danificados": NaN,
+    "Itens Danificados": null,
     "Estado de Criticidade Veículo": "Leve(Liberado)",
     "Observacoes": "Sem avaria.",
     "ID COLABORADOR": "115782",
     "ID DO AVALIADOR(A)": "272640",
     "Abrir Os": "NÃO",
-    "Os": NaN,
-    "Abrir Os ": "NÃO"
+    "Os": null,
+    "Abrir Os ": "NÃO",
+    "Unnamed: 21": null
   },
   {
     "ID": "3955751",
@@ -26271,14 +27369,15 @@ const CHECKLIST_VEICULAR_DATA = [
     "Condutor": "Gilmar Rebouças ",
     "Data Hora": "30/09/2026 15:39",
     "VIDEOTELEMTRIA": "SIM",
-    "Itens Danificados": NaN,
+    "Itens Danificados": null,
     "Estado de Criticidade Veículo": "Leve(Liberado)",
     "Observacoes": "Sem avaria.",
     "ID COLABORADOR": "PJ",
     "ID DO AVALIADOR(A)": "272640",
     "Abrir Os": "NÃO",
-    "Os": NaN,
-    "Abrir Os ": "NÃO"
+    "Os": null,
+    "Abrir Os ": "NÃO",
+    "Unnamed: 21": null
   },
   {
     "ID": "3955752",
@@ -26295,14 +27394,15 @@ const CHECKLIST_VEICULAR_DATA = [
     "Condutor": "Paulo Henrique Cardoso Silva",
     "Data Hora": "30/09/2026 16:07",
     "VIDEOTELEMTRIA": "SIM",
-    "Itens Danificados": NaN,
+    "Itens Danificados": null,
     "Estado de Criticidade Veículo": "Leve(Liberado)",
     "Observacoes": "Sem avaria.",
     "ID COLABORADOR": "179103",
     "ID DO AVALIADOR(A)": "272640",
     "Abrir Os": "NÃO",
-    "Os": NaN,
-    "Abrir Os ": "NÃO"
+    "Os": null,
+    "Abrir Os ": "NÃO",
+    "Unnamed: 21": null
   },
   {
     "ID": "3955753",
@@ -26319,14 +27419,15 @@ const CHECKLIST_VEICULAR_DATA = [
     "Condutor": "Alex Rodrigo Bueno ",
     "Data Hora": "30/09/2026 07:05",
     "VIDEOTELEMTRIA": "SIM",
-    "Itens Danificados": NaN,
+    "Itens Danificados": null,
     "Estado de Criticidade Veículo": "Leve(Liberado)",
     "Observacoes": "Sem avaria.",
-    "ID COLABORADOR": NaN,
+    "ID COLABORADOR": null,
     "ID DO AVALIADOR(A)": "272640",
     "Abrir Os": "NÃO",
-    "Os": NaN,
-    "Abrir Os ": "NÃO"
+    "Os": null,
+    "Abrir Os ": "NÃO",
+    "Unnamed: 21": null
   },
   {
     "ID": "3955754",
@@ -26343,14 +27444,15 @@ const CHECKLIST_VEICULAR_DATA = [
     "Condutor": "Nataniel dos Santos ",
     "Data Hora": "01/10/2026 07:54",
     "VIDEOTELEMTRIA": "SIM",
-    "Itens Danificados": NaN,
+    "Itens Danificados": null,
     "Estado de Criticidade Veículo": "Leve(Liberado)",
     "Observacoes": "Sem avaria.",
     "ID COLABORADOR": "283130",
     "ID DO AVALIADOR(A)": "272640",
     "Abrir Os": "NÃO",
-    "Os": NaN,
-    "Abrir Os ": "NÃO"
+    "Os": null,
+    "Abrir Os ": "NÃO",
+    "Unnamed: 21": null
   },
   {
     "ID": "3955755",
@@ -26367,14 +27469,15 @@ const CHECKLIST_VEICULAR_DATA = [
     "Condutor": "Jussara Soares de Souza ",
     "Data Hora": "01/10/2026 08:10",
     "VIDEOTELEMTRIA": "SIM",
-    "Itens Danificados": NaN,
+    "Itens Danificados": null,
     "Estado de Criticidade Veículo": "Leve(Liberado)",
     "Observacoes": "Sem avaria.",
     "ID COLABORADOR": "272640",
     "ID DO AVALIADOR(A)": "272640",
     "Abrir Os": "NÃO",
-    "Os": NaN,
-    "Abrir Os ": "NÃO"
+    "Os": null,
+    "Abrir Os ": "NÃO",
+    "Unnamed: 21": null
   },
   {
     "ID": "3955756",
@@ -26391,14 +27494,15 @@ const CHECKLIST_VEICULAR_DATA = [
     "Condutor": "Luis Cleber ",
     "Data Hora": "01/10/2026 08:13",
     "VIDEOTELEMTRIA": "SIM",
-    "Itens Danificados": NaN,
+    "Itens Danificados": null,
     "Estado de Criticidade Veículo": "Leve(Liberado)",
     "Observacoes": "Sem avaria.",
     "ID COLABORADOR": "278800",
     "ID DO AVALIADOR(A)": "272640",
     "Abrir Os": "NÃO",
-    "Os": NaN,
-    "Abrir Os ": "NÃO"
+    "Os": null,
+    "Abrir Os ": "NÃO",
+    "Unnamed: 21": null
   },
   {
     "ID": "3955757",
@@ -26415,14 +27519,15 @@ const CHECKLIST_VEICULAR_DATA = [
     "Condutor": "Agnaldo de Oliveira ",
     "Data Hora": "01/10/2026 15:11",
     "VIDEOTELEMTRIA": "SIM",
-    "Itens Danificados": NaN,
+    "Itens Danificados": null,
     "Estado de Criticidade Veículo": "Leve(Liberado)",
     "Observacoes": "Sem avaria.",
     "ID COLABORADOR": "281460",
     "ID DO AVALIADOR(A)": "272640",
     "Abrir Os": "NÃO",
-    "Os": NaN,
-    "Abrir Os ": "NÃO"
+    "Os": null,
+    "Abrir Os ": "NÃO",
+    "Unnamed: 21": null
   },
   {
     "ID": "3959532",
@@ -26439,14 +27544,15 @@ const CHECKLIST_VEICULAR_DATA = [
     "Condutor": "Antonio Marcos Ribeiro Ruas ",
     "Data Hora": "02/10/2026 07:29",
     "VIDEOTELEMTRIA": "SIM",
-    "Itens Danificados": NaN,
+    "Itens Danificados": null,
     "Estado de Criticidade Veículo": "Leve(Liberado)",
     "Observacoes": "Sem avaria.",
     "ID COLABORADOR": "183702",
     "ID DO AVALIADOR(A)": "272640",
     "Abrir Os": "NÃO",
-    "Os": NaN,
-    "Abrir Os ": "NÃO"
+    "Os": null,
+    "Abrir Os ": "NÃO",
+    "Unnamed: 21": null
   },
   {
     "ID": "3959533",
@@ -26463,14 +27569,15 @@ const CHECKLIST_VEICULAR_DATA = [
     "Condutor": "Heverton Henrique Custodio ",
     "Data Hora": "02/10/2026 07:34",
     "VIDEOTELEMTRIA": "SIM",
-    "Itens Danificados": NaN,
+    "Itens Danificados": null,
     "Estado de Criticidade Veículo": "Leve(Liberado)",
     "Observacoes": "Sem avaria.",
     "ID COLABORADOR": "266560",
     "ID DO AVALIADOR(A)": "272640",
     "Abrir Os": "NÃO",
-    "Os": NaN,
-    "Abrir Os ": "NÃO"
+    "Os": null,
+    "Abrir Os ": "NÃO",
+    "Unnamed: 21": null
   },
   {
     "ID": "3959534",
@@ -26487,14 +27594,15 @@ const CHECKLIST_VEICULAR_DATA = [
     "Condutor": "Onofre Evangelista da Silva Junior ",
     "Data Hora": "02/10/2026 10:37",
     "VIDEOTELEMTRIA": "SIM",
-    "Itens Danificados": NaN,
+    "Itens Danificados": null,
     "Estado de Criticidade Veículo": "Leve(Liberado)",
     "Observacoes": "Sem avaria.",
     "ID COLABORADOR": "163363",
     "ID DO AVALIADOR(A)": "272640",
     "Abrir Os": "NÃO",
-    "Os": NaN,
-    "Abrir Os ": "NÃO"
+    "Os": null,
+    "Abrir Os ": "NÃO",
+    "Unnamed: 21": null
   },
   {
     "ID": "3959535",
@@ -26511,14 +27619,15 @@ const CHECKLIST_VEICULAR_DATA = [
     "Condutor": "Alessandro da Silva ",
     "Data Hora": "02/10/2026 13:56",
     "VIDEOTELEMTRIA": "SIM",
-    "Itens Danificados": NaN,
+    "Itens Danificados": null,
     "Estado de Criticidade Veículo": "Leve(Liberado)",
     "Observacoes": "Sem avaria.",
     "ID COLABORADOR": "262010",
     "ID DO AVALIADOR(A)": "272640",
     "Abrir Os": "NÃO",
-    "Os": NaN,
-    "Abrir Os ": "NÃO"
+    "Os": null,
+    "Abrir Os ": "NÃO",
+    "Unnamed: 21": null
   },
   {
     "ID": "3959536",
@@ -26535,14 +27644,15 @@ const CHECKLIST_VEICULAR_DATA = [
     "Condutor": "Anderson Henrique Simão",
     "Data Hora": "02/10/2026 16:01",
     "VIDEOTELEMTRIA": "SIM",
-    "Itens Danificados": NaN,
+    "Itens Danificados": null,
     "Estado de Criticidade Veículo": "Leve(Liberado)",
     "Observacoes": "Sem avaria.",
     "ID COLABORADOR": "251390",
     "ID DO AVALIADOR(A)": "272640",
     "Abrir Os": "NÃO",
-    "Os": NaN,
-    "Abrir Os ": "NÃO"
+    "Os": null,
+    "Abrir Os ": "NÃO",
+    "Unnamed: 21": null
   },
   {
     "ID": "3959537",
@@ -26559,14 +27669,15 @@ const CHECKLIST_VEICULAR_DATA = [
     "Condutor": "Samuel Soares Sampaio",
     "Data Hora": "02/10/2026 16:04",
     "VIDEOTELEMTRIA": "SIM",
-    "Itens Danificados": NaN,
+    "Itens Danificados": null,
     "Estado de Criticidade Veículo": "Leve(Liberado)",
     "Observacoes": "Sem avaria.",
     "ID COLABORADOR": "277890",
     "ID DO AVALIADOR(A)": "272640",
     "Abrir Os": "NÃO",
-    "Os": NaN,
-    "Abrir Os ": "NÃO"
+    "Os": null,
+    "Abrir Os ": "NÃO",
+    "Unnamed: 21": null
   },
   {
     "ID": "3964732",
@@ -26583,14 +27694,15 @@ const CHECKLIST_VEICULAR_DATA = [
     "Condutor": "Joyce Rodrigues Rebouças ",
     "Data Hora": "05/10/2026 15:30",
     "VIDEOTELEMTRIA": "SIM",
-    "Itens Danificados": NaN,
+    "Itens Danificados": null,
     "Estado de Criticidade Veículo": "Moderado(Condutor notificado)",
     "Observacoes": "Checklist seguido de relatório de ocorrência. Amassado em porta malas.",
     "ID COLABORADOR": "283700",
     "ID DO AVALIADOR(A)": "272640",
     "Abrir Os": "SIM",
-    "Os": NaN,
-    "Abrir Os ": "SIM"
+    "Os": null,
+    "Abrir Os ": "SIM",
+    "Unnamed: 21": null
   },
   {
     "ID": "3964733",
@@ -26607,14 +27719,15 @@ const CHECKLIST_VEICULAR_DATA = [
     "Condutor": "Leonardo Estenio Gallon Pinto ",
     "Data Hora": "05/10/2026 07:16",
     "VIDEOTELEMTRIA": "SIM",
-    "Itens Danificados": NaN,
+    "Itens Danificados": null,
     "Estado de Criticidade Veículo": "Leve(Liberado)",
     "Observacoes": "Sem avaria.",
     "ID COLABORADOR": "272430",
     "ID DO AVALIADOR(A)": "272640",
     "Abrir Os": "NÃO",
-    "Os": NaN,
-    "Abrir Os ": "NÃO"
+    "Os": null,
+    "Abrir Os ": "NÃO",
+    "Unnamed: 21": null
   },
   {
     "ID": "3964734",
@@ -26631,14 +27744,15 @@ const CHECKLIST_VEICULAR_DATA = [
     "Condutor": "Douglas Wellington Diogo ",
     "Data Hora": "05/10/2026 09:58",
     "VIDEOTELEMTRIA": "SIM",
-    "Itens Danificados": NaN,
+    "Itens Danificados": null,
     "Estado de Criticidade Veículo": "Moderado(Condutor notificado)",
     "Observacoes": "Para choque Dianteiro (quebrado)",
     "ID COLABORADOR": "225390",
     "ID DO AVALIADOR(A)": "272640",
     "Abrir Os": "NÃO",
-    "Os": NaN,
-    "Abrir Os ": "NÃO"
+    "Os": null,
+    "Abrir Os ": "NÃO",
+    "Unnamed: 21": null
   },
   {
     "ID": "3964735",
@@ -26655,14 +27769,15 @@ const CHECKLIST_VEICULAR_DATA = [
     "Condutor": "Daniel Ferreira da Cruz Neto ",
     "Data Hora": "05/10/2026 10:23",
     "VIDEOTELEMTRIA": "SIM",
-    "Itens Danificados": NaN,
+    "Itens Danificados": null,
     "Estado de Criticidade Veículo": "Leve(Liberado)",
     "Observacoes": "Sem avaria.",
     "ID COLABORADOR": "96556",
     "ID DO AVALIADOR(A)": "272640",
     "Abrir Os": "NÃO",
-    "Os": NaN,
-    "Abrir Os ": "NÃO"
+    "Os": null,
+    "Abrir Os ": "NÃO",
+    "Unnamed: 21": null
   },
   {
     "ID": "3964736",
@@ -26679,14 +27794,15 @@ const CHECKLIST_VEICULAR_DATA = [
     "Condutor": "Murilo Vanderlei Travani ",
     "Data Hora": "05/10/2026 10:30",
     "VIDEOTELEMTRIA": "SIM",
-    "Itens Danificados": NaN,
+    "Itens Danificados": null,
     "Estado de Criticidade Veículo": "Leve(Liberado)",
     "Observacoes": "Sem avaria.",
-    "ID COLABORADOR": NaN,
+    "ID COLABORADOR": null,
     "ID DO AVALIADOR(A)": "272640",
     "Abrir Os": "NÃO",
-    "Os": NaN,
-    "Abrir Os ": "NÃO"
+    "Os": null,
+    "Abrir Os ": "NÃO",
+    "Unnamed: 21": null
   },
   {
     "ID": "3964737",
@@ -26703,14 +27819,15 @@ const CHECKLIST_VEICULAR_DATA = [
     "Condutor": "Admir Xavier Cotrim ",
     "Data Hora": "05/10/2026 14:06",
     "VIDEOTELEMTRIA": "SIM",
-    "Itens Danificados": NaN,
+    "Itens Danificados": null,
     "Estado de Criticidade Veículo": "Leve(Liberado)",
     "Observacoes": "Sem avaria.Frota veículo 100126",
     "ID COLABORADOR": "112150",
     "ID DO AVALIADOR(A)": "272640",
     "Abrir Os": "NÃO",
-    "Os": NaN,
-    "Abrir Os ": "NÃO"
+    "Os": null,
+    "Abrir Os ": "NÃO",
+    "Unnamed: 21": null
   },
   {
     "ID": "3964738",
@@ -26727,14 +27844,15 @@ const CHECKLIST_VEICULAR_DATA = [
     "Condutor": "Mildo Sérgio Veroneze",
     "Data Hora": "05/10/2026 14:44",
     "VIDEOTELEMTRIA": "SIM",
-    "Itens Danificados": NaN,
+    "Itens Danificados": null,
     "Estado de Criticidade Veículo": "Leve(Liberado)",
     "Observacoes": "Lanterna esquerda (queimada)Luz da placa esquerda (queimada)",
     "ID COLABORADOR": "283110",
     "ID DO AVALIADOR(A)": "272640",
     "Abrir Os": "NÃO",
-    "Os": NaN,
-    "Abrir Os ": "NÃO"
+    "Os": null,
+    "Abrir Os ": "NÃO",
+    "Unnamed: 21": null
   },
   {
     "ID": "3964739",
@@ -26751,14 +27869,15 @@ const CHECKLIST_VEICULAR_DATA = [
     "Condutor": "Diego Francisco Rosa da Silva ",
     "Data Hora": "05/10/2026 15:21",
     "VIDEOTELEMTRIA": "SIM",
-    "Itens Danificados": NaN,
+    "Itens Danificados": null,
     "Estado de Criticidade Veículo": "Leve(Liberado)",
     "Observacoes": "Sem avaria.",
     "ID COLABORADOR": "266930",
     "ID DO AVALIADOR(A)": "272640",
     "Abrir Os": "NÃO",
-    "Os": NaN,
-    "Abrir Os ": "NÃO"
+    "Os": null,
+    "Abrir Os ": "NÃO",
+    "Unnamed: 21": null
   },
   {
     "ID": "3969109",
@@ -26775,14 +27894,15 @@ const CHECKLIST_VEICULAR_DATA = [
     "Condutor": "Felipe Gomes de Oliveira ",
     "Data Hora": "06/10/2026 10:33",
     "VIDEOTELEMTRIA": "SIM",
-    "Itens Danificados": NaN,
+    "Itens Danificados": null,
     "Estado de Criticidade Veículo": "Moderado(Condutor notificado)",
     "Observacoes": "Farol de milha direito (queimado)Vidro do motorista (não abre)Luz da placa esquerda e direita (queimada)Esguicho (não funciona)Maçaneta tampa traseira (quebrada)",
     "ID COLABORADOR": "283160",
     "ID DO AVALIADOR(A)": "272640",
     "Abrir Os": "NÃO",
-    "Os": NaN,
-    "Abrir Os ": "NÃO"
+    "Os": null,
+    "Abrir Os ": "NÃO",
+    "Unnamed: 21": null
   },
   {
     "ID": "3969110",
@@ -26799,14 +27919,15 @@ const CHECKLIST_VEICULAR_DATA = [
     "Condutor": "Rogério Cezar Rodrigues",
     "Data Hora": "06/10/2026 14:14",
     "VIDEOTELEMTRIA": "SIM",
-    "Itens Danificados": NaN,
+    "Itens Danificados": null,
     "Estado de Criticidade Veículo": "Moderado(Condutor notificado)",
     "Observacoes": "Amassado tampa traseira ",
     "ID COLABORADOR": "278570",
     "ID DO AVALIADOR(A)": "272640",
     "Abrir Os": "NÃO",
-    "Os": NaN,
-    "Abrir Os ": "NÃO"
+    "Os": null,
+    "Abrir Os ": "NÃO",
+    "Unnamed: 21": null
   },
   {
     "ID": "3969111",
@@ -26829,8 +27950,9 @@ const CHECKLIST_VEICULAR_DATA = [
     "ID COLABORADOR": "254120",
     "ID DO AVALIADOR(A)": "272640",
     "Abrir Os": "NÃO",
-    "Os": NaN,
-    "Abrir Os ": "NÃO"
+    "Os": null,
+    "Abrir Os ": "NÃO",
+    "Unnamed: 21": null
   },
   {
     "ID": "3969112",
@@ -26847,14 +27969,15 @@ const CHECKLIST_VEICULAR_DATA = [
     "Condutor": "Karolainy da Silva Roque ",
     "Data Hora": "07/10/2026 13:09",
     "VIDEOTELEMTRIA": "SIM",
-    "Itens Danificados": NaN,
+    "Itens Danificados": null,
     "Estado de Criticidade Veículo": "Leve(Liberado)",
     "Observacoes": "Sem avaria.",
     "ID COLABORADOR": "272590",
     "ID DO AVALIADOR(A)": "272640",
     "Abrir Os": "NÃO",
-    "Os": NaN,
-    "Abrir Os ": "NÃO"
+    "Os": null,
+    "Abrir Os ": "NÃO",
+    "Unnamed: 21": null
   },
   {
     "ID": "3969113",
@@ -26871,14 +27994,15 @@ const CHECKLIST_VEICULAR_DATA = [
     "Condutor": "Anderson  Ricardo Ruaro ",
     "Data Hora": "07/10/2026 14:59",
     "VIDEOTELEMTRIA": "SIM",
-    "Itens Danificados": NaN,
+    "Itens Danificados": null,
     "Estado de Criticidade Veículo": "Leve(Liberado)",
     "Observacoes": "Sem avaria.",
     "ID COLABORADOR": "168907",
     "ID DO AVALIADOR(A)": "272640",
     "Abrir Os": "NÃO",
-    "Os": NaN,
-    "Abrir Os ": "NÃO"
+    "Os": null,
+    "Abrir Os ": "NÃO",
+    "Unnamed: 21": null
   },
   {
     "ID": "3972620",
@@ -26895,14 +28019,15 @@ const CHECKLIST_VEICULAR_DATA = [
     "Condutor": "Luis Alberto Pereira",
     "Data Hora": "08/10/2026 10:47",
     "VIDEOTELEMTRIA": "SIM",
-    "Itens Danificados": NaN,
+    "Itens Danificados": null,
     "Estado de Criticidade Veículo": "Leve(Liberado)",
     "Observacoes": "Sem avaria.",
     "ID COLABORADOR": "168920",
     "ID DO AVALIADOR(A)": "272640",
     "Abrir Os": "NÃO",
-    "Os": NaN,
-    "Abrir Os ": "NÃO"
+    "Os": null,
+    "Abrir Os ": "NÃO",
+    "Unnamed: 21": null
   },
   {
     "ID": "3972621",
@@ -26919,14 +28044,15 @@ const CHECKLIST_VEICULAR_DATA = [
     "Condutor": "Daniel Assunção ",
     "Data Hora": "08/10/2026 14:12",
     "VIDEOTELEMTRIA": "SIM",
-    "Itens Danificados": NaN,
+    "Itens Danificados": null,
     "Estado de Criticidade Veículo": "Leve(Liberado)",
     "Observacoes": "Sem avaria.",
-    "ID COLABORADOR": NaN,
+    "ID COLABORADOR": null,
     "ID DO AVALIADOR(A)": "272640",
     "Abrir Os": "NÃO",
-    "Os": NaN,
-    "Abrir Os ": "NÃO"
+    "Os": null,
+    "Abrir Os ": "NÃO",
+    "Unnamed: 21": null
   },
   {
     "ID": "3972622",
@@ -26943,14 +28069,15 @@ const CHECKLIST_VEICULAR_DATA = [
     "Condutor": "Ivone Lopes Faria ",
     "Data Hora": "08/10/2026 14:23",
     "VIDEOTELEMTRIA": "SIM",
-    "Itens Danificados": NaN,
+    "Itens Danificados": null,
     "Estado de Criticidade Veículo": "Leve(Liberado)",
     "Observacoes": "Sem avaria.",
     "ID COLABORADOR": "283080",
     "ID DO AVALIADOR(A)": "272640",
     "Abrir Os": "NÃO",
-    "Os": NaN,
-    "Abrir Os ": "NÃO"
+    "Os": null,
+    "Abrir Os ": "NÃO",
+    "Unnamed: 21": null
   },
   {
     "ID": "3972623",
@@ -26967,14 +28094,15 @@ const CHECKLIST_VEICULAR_DATA = [
     "Condutor": "Karolainy da Silva Roque ",
     "Data Hora": "08/10/2026 14:54",
     "VIDEOTELEMTRIA": "SIM",
-    "Itens Danificados": NaN,
+    "Itens Danificados": null,
     "Estado de Criticidade Veículo": "Leve(Liberado)",
     "Observacoes": "Sem avaria.",
     "ID COLABORADOR": "272590",
     "ID DO AVALIADOR(A)": "272640",
     "Abrir Os": "NÃO",
-    "Os": NaN,
-    "Abrir Os ": "NÃO"
+    "Os": null,
+    "Abrir Os ": "NÃO",
+    "Unnamed: 21": null
   },
   {
     "ID": "3972637",
@@ -26991,14 +28119,15 @@ const CHECKLIST_VEICULAR_DATA = [
     "Condutor": "João Jesus Ferreira ",
     "Data Hora": "08/10/2026 16:42",
     "VIDEOTELEMTRIA": "SIM",
-    "Itens Danificados": NaN,
+    "Itens Danificados": null,
     "Estado de Criticidade Veículo": "Leve(Liberado)",
     "Observacoes": "Sem avaria.",
     "ID COLABORADOR": "179103",
     "ID DO AVALIADOR(A)": "272640",
     "Abrir Os": "NÃO",
-    "Os": NaN,
-    "Abrir Os ": "NÃO"
+    "Os": null,
+    "Abrir Os ": "NÃO",
+    "Unnamed: 21": null
   },
   {
     "ID": "3974701",
@@ -27015,14 +28144,15 @@ const CHECKLIST_VEICULAR_DATA = [
     "Condutor": "João Jesus Ferreira ",
     "Data Hora": "09/10/2026 07:39",
     "VIDEOTELEMTRIA": "SIM",
-    "Itens Danificados": NaN,
+    "Itens Danificados": null,
     "Estado de Criticidade Veículo": "Leve(Liberado)",
     "Observacoes": "Sem avaria.",
     "ID COLABORADOR": "179103",
     "ID DO AVALIADOR(A)": "272640",
     "Abrir Os": "NÃO",
-    "Os": NaN,
-    "Abrir Os ": "NÃO"
+    "Os": null,
+    "Abrir Os ": "NÃO",
+    "Unnamed: 21": null
   },
   {
     "ID": "3974702",
@@ -27039,14 +28169,15 @@ const CHECKLIST_VEICULAR_DATA = [
     "Condutor": "Andreia Tassiane Aparecida Megeto",
     "Data Hora": "09/10/2026 08:04",
     "VIDEOTELEMTRIA": "SIM",
-    "Itens Danificados": NaN,
+    "Itens Danificados": null,
     "Estado de Criticidade Veículo": "Leve(Liberado)",
     "Observacoes": "Sem avaria.",
     "ID COLABORADOR": "275340",
     "ID DO AVALIADOR(A)": "272640",
     "Abrir Os": "NÃO",
-    "Os": NaN,
-    "Abrir Os ": "NÃO"
+    "Os": null,
+    "Abrir Os ": "NÃO",
+    "Unnamed: 21": null
   },
   {
     "ID": "3974703",
@@ -27063,14 +28194,15 @@ const CHECKLIST_VEICULAR_DATA = [
     "Condutor": "Livino Leandro dos Santos",
     "Data Hora": "09/10/2026 10:53",
     "VIDEOTELEMTRIA": "SIM",
-    "Itens Danificados": NaN,
+    "Itens Danificados": null,
     "Estado de Criticidade Veículo": "Leve(Liberado)",
     "Observacoes": "Sem avaria.",
     "ID COLABORADOR": "266000",
     "ID DO AVALIADOR(A)": "272640",
     "Abrir Os": "NÃO",
-    "Os": NaN,
-    "Abrir Os ": "NÃO"
+    "Os": null,
+    "Abrir Os ": "NÃO",
+    "Unnamed: 21": null
   },
   {
     "ID": "3974704",
@@ -27087,14 +28219,15 @@ const CHECKLIST_VEICULAR_DATA = [
     "Condutor": "Admir Xavier Cotrim ",
     "Data Hora": "09/10/2026 13:47",
     "VIDEOTELEMTRIA": "SIM",
-    "Itens Danificados": NaN,
+    "Itens Danificados": null,
     "Estado de Criticidade Veículo": "Moderado(Condutor notificado)",
     "Observacoes": "Amassado na porta do passageiro. ",
     "ID COLABORADOR": "112150",
     "ID DO AVALIADOR(A)": "272640",
     "Abrir Os": "SIM",
     "Os": "713684",
-    "Abrir Os ": "SIM"
+    "Abrir Os ": "SIM",
+    "Unnamed: 21": null
   },
   {
     "ID": "3983349",
@@ -27111,14 +28244,15 @@ const CHECKLIST_VEICULAR_DATA = [
     "Condutor": "Claudia Burlina Rezende ",
     "Data Hora": "09/10/2026 15:54",
     "VIDEOTELEMTRIA": "SIM",
-    "Itens Danificados": NaN,
+    "Itens Danificados": null,
     "Estado de Criticidade Veículo": "Leve(Liberado)",
     "Observacoes": "Sem avaria.",
     "ID COLABORADOR": "283140",
     "ID DO AVALIADOR(A)": "272640",
     "Abrir Os": "NÃO",
-    "Os": NaN,
-    "Abrir Os ": "NÃO"
+    "Os": null,
+    "Abrir Os ": "NÃO",
+    "Unnamed: 21": null
   },
   {
     "ID": "3983350",
@@ -27130,19 +28264,20 @@ const CHECKLIST_VEICULAR_DATA = [
     "Data Fim": "13/10/2026 11:01",
     "Status": "Open",
     "Score": "0.0",
-    "Frota": NaN,
+    "Frota": null,
     "GESTORES": "RAFAEL AP. FARRA ROGRIGUES",
     "Condutor": "Marcos Alexandre Baffi ",
     "Data Hora": "13/10/2026 11:01",
     "VIDEOTELEMTRIA": "SIM",
-    "Itens Danificados": NaN,
+    "Itens Danificados": null,
     "Estado de Criticidade Veículo": "Leve(Liberado)",
     "Observacoes": "Sem avaria.",
-    "ID COLABORADOR": NaN,
+    "ID COLABORADOR": null,
     "ID DO AVALIADOR(A)": "272640",
     "Abrir Os": "NÃO",
-    "Os": NaN,
-    "Abrir Os ": "NÃO"
+    "Os": null,
+    "Abrir Os ": "NÃO",
+    "Unnamed: 21": null
   },
   {
     "ID": "3983351",
@@ -27159,14 +28294,15 @@ const CHECKLIST_VEICULAR_DATA = [
     "Condutor": "José Ricardo do Carmo ",
     "Data Hora": "13/10/2026 11:27",
     "VIDEOTELEMTRIA": "SIM",
-    "Itens Danificados": NaN,
+    "Itens Danificados": null,
     "Estado de Criticidade Veículo": "Leve(Liberado)",
     "Observacoes": "Sem avaria.",
     "ID COLABORADOR": "84165",
     "ID DO AVALIADOR(A)": "272640",
     "Abrir Os": "NÃO",
-    "Os": NaN,
-    "Abrir Os ": "NÃO"
+    "Os": null,
+    "Abrir Os ": "NÃO",
+    "Unnamed: 21": null
   },
   {
     "ID": "3983352",
@@ -27189,8 +28325,9 @@ const CHECKLIST_VEICULAR_DATA = [
     "ID COLABORADOR": "27060",
     "ID DO AVALIADOR(A)": "272640",
     "Abrir Os": "NÃO",
-    "Os": NaN,
-    "Abrir Os ": "NÃO"
+    "Os": null,
+    "Abrir Os ": "NÃO",
+    "Unnamed: 21": null
   },
   {
     "ID": "3983353",
@@ -27207,14 +28344,15 @@ const CHECKLIST_VEICULAR_DATA = [
     "Condutor": "Luiz Alfredo de Souza ",
     "Data Hora": "13/10/2026 14:39",
     "VIDEOTELEMTRIA": "SIM",
-    "Itens Danificados": NaN,
+    "Itens Danificados": null,
     "Estado de Criticidade Veículo": "Leve(Liberado)",
     "Observacoes": "Sem avaria.",
     "ID COLABORADOR": "5423",
     "ID DO AVALIADOR(A)": "272640",
     "Abrir Os": "NÃO",
-    "Os": NaN,
-    "Abrir Os ": "NÃO"
+    "Os": null,
+    "Abrir Os ": "NÃO",
+    "Unnamed: 21": null
   },
   {
     "ID": "3983354",
@@ -27231,14 +28369,15 @@ const CHECKLIST_VEICULAR_DATA = [
     "Condutor": "Tiago Damião Louzada ",
     "Data Hora": "13/10/2026 15:02",
     "VIDEOTELEMTRIA": "SIM",
-    "Itens Danificados": NaN,
+    "Itens Danificados": null,
     "Estado de Criticidade Veículo": "Leve(Liberado)",
-    "Observacoes": NaN,
-    "ID COLABORADOR": NaN,
+    "Observacoes": null,
+    "ID COLABORADOR": null,
     "ID DO AVALIADOR(A)": "272640",
     "Abrir Os": "NÃO",
-    "Os": NaN,
-    "Abrir Os ": "NÃO"
+    "Os": null,
+    "Abrir Os ": "NÃO",
+    "Unnamed: 21": null
   },
   {
     "ID": "3983355",
@@ -27255,14 +28394,15 @@ const CHECKLIST_VEICULAR_DATA = [
     "Condutor": "Paulo Henrique Cardoso da Silva",
     "Data Hora": "13/10/2026 16:04",
     "VIDEOTELEMTRIA": "SIM",
-    "Itens Danificados": NaN,
+    "Itens Danificados": null,
     "Estado de Criticidade Veículo": "Leve(Liberado)",
     "Observacoes": "Sem avaria.",
     "ID COLABORADOR": "284510",
     "ID DO AVALIADOR(A)": "272640",
     "Abrir Os": "NÃO",
-    "Os": NaN,
-    "Abrir Os ": "NÃO"
+    "Os": null,
+    "Abrir Os ": "NÃO",
+    "Unnamed: 21": null
   },
   {
     "ID": "3983356",
@@ -27279,14 +28419,15 @@ const CHECKLIST_VEICULAR_DATA = [
     "Condutor": "Nayobe Kellen Martins da Silva ",
     "Data Hora": "13/10/2026 16:12",
     "VIDEOTELEMTRIA": "SIM",
-    "Itens Danificados": NaN,
+    "Itens Danificados": null,
     "Estado de Criticidade Veículo": "Leve(Liberado)",
     "Observacoes": "Sem avaria.",
     "ID COLABORADOR": "283170",
     "ID DO AVALIADOR(A)": "272640",
     "Abrir Os": "NÃO",
-    "Os": NaN,
-    "Abrir Os ": "NÃO"
+    "Os": null,
+    "Abrir Os ": "NÃO",
+    "Unnamed: 21": null
   },
   {
     "ID": "3983357",
@@ -27303,14 +28444,15 @@ const CHECKLIST_VEICULAR_DATA = [
     "Condutor": "Jussara Soares de Souza ",
     "Data Hora": "13/10/2026 16:25",
     "VIDEOTELEMTRIA": "SIM",
-    "Itens Danificados": NaN,
+    "Itens Danificados": null,
     "Estado de Criticidade Veículo": "Leve(Liberado)",
     "Observacoes": "Sem avaria.",
     "ID COLABORADOR": "272640",
     "ID DO AVALIADOR(A)": "272640",
     "Abrir Os": "NÃO",
-    "Os": NaN,
-    "Abrir Os ": "NÃO"
+    "Os": null,
+    "Abrir Os ": "NÃO",
+    "Unnamed: 21": null
   },
   {
     "ID": "3992131",
@@ -27327,14 +28469,15 @@ const CHECKLIST_VEICULAR_DATA = [
     "Condutor": "Vitória Fonseca de Carvalho ",
     "Data Hora": "14/10/2026 09:56",
     "VIDEOTELEMTRIA": "SIM",
-    "Itens Danificados": NaN,
+    "Itens Danificados": null,
     "Estado de Criticidade Veículo": "Leve(Liberado)",
     "Observacoes": "Sem avaria.",
     "ID COLABORADOR": "277030",
     "ID DO AVALIADOR(A)": "272640",
     "Abrir Os": "NÃO",
-    "Os": NaN,
-    "Abrir Os ": "NÃO"
+    "Os": null,
+    "Abrir Os ": "NÃO",
+    "Unnamed: 21": null
   },
   {
     "ID": "3992132",
@@ -27351,14 +28494,15 @@ const CHECKLIST_VEICULAR_DATA = [
     "Condutor": "Wellington Dener Alexandre ",
     "Data Hora": "14/10/2026 10:13",
     "VIDEOTELEMTRIA": "SIM",
-    "Itens Danificados": NaN,
+    "Itens Danificados": null,
     "Estado de Criticidade Veículo": "Leve(Liberado)",
     "Observacoes": "Sem avaria.",
     "ID COLABORADOR": "278440",
     "ID DO AVALIADOR(A)": "272640",
     "Abrir Os": "NÃO",
-    "Os": NaN,
-    "Abrir Os ": "NÃO"
+    "Os": null,
+    "Abrir Os ": "NÃO",
+    "Unnamed: 21": null
   },
   {
     "ID": "3992133",
@@ -27375,14 +28519,15 @@ const CHECKLIST_VEICULAR_DATA = [
     "Condutor": "Carlos Henrique Ramos de Andrade ",
     "Data Hora": "14/10/2026 10:16",
     "VIDEOTELEMTRIA": "SIM",
-    "Itens Danificados": NaN,
+    "Itens Danificados": null,
     "Estado de Criticidade Veículo": "Leve(Liberado)",
     "Observacoes": "Sem avaria.",
     "ID COLABORADOR": "271000",
     "ID DO AVALIADOR(A)": "272640",
     "Abrir Os": "NÃO",
-    "Os": NaN,
-    "Abrir Os ": "NÃO"
+    "Os": null,
+    "Abrir Os ": "NÃO",
+    "Unnamed: 21": null
   },
   {
     "ID": "3992134",
@@ -27399,14 +28544,15 @@ const CHECKLIST_VEICULAR_DATA = [
     "Condutor": "Jussara Soares de Souza ",
     "Data Hora": "14/10/2026 11:09",
     "VIDEOTELEMTRIA": "SIM",
-    "Itens Danificados": NaN,
+    "Itens Danificados": null,
     "Estado de Criticidade Veículo": "Leve(Liberado)",
     "Observacoes": "Sem avaria.",
     "ID COLABORADOR": "272640",
     "ID DO AVALIADOR(A)": "272640",
     "Abrir Os": "NÃO",
-    "Os": NaN,
-    "Abrir Os ": "NÃO"
+    "Os": null,
+    "Abrir Os ": "NÃO",
+    "Unnamed: 21": null
   },
   {
     "ID": "3992135",
@@ -27418,19 +28564,20 @@ const CHECKLIST_VEICULAR_DATA = [
     "Data Fim": "14/10/2026 11:13",
     "Status": "Open",
     "Score": "0.0",
-    "Frota": NaN,
+    "Frota": null,
     "GESTORES": "PAULO ANTONIO VIANA IESI",
     "Condutor": "Murilo Vanderlei Travani Afonso",
     "Data Hora": "14/10/2026 11:13",
     "VIDEOTELEMTRIA": "SIM",
-    "Itens Danificados": NaN,
+    "Itens Danificados": null,
     "Estado de Criticidade Veículo": "Leve(Liberado)",
     "Observacoes": "Checklist frota: 469026 Sem avaria.",
     "ID COLABORADOR": "278680",
     "ID DO AVALIADOR(A)": "272640",
     "Abrir Os": "NÃO",
-    "Os": NaN,
-    "Abrir Os ": "NÃO"
+    "Os": null,
+    "Abrir Os ": "NÃO",
+    "Unnamed: 21": null
   },
   {
     "ID": "3992136",
@@ -27447,14 +28594,15 @@ const CHECKLIST_VEICULAR_DATA = [
     "Condutor": "Paulo Henrique Cardoso da Silva ",
     "Data Hora": "14/10/2026 11:26",
     "VIDEOTELEMTRIA": "SIM",
-    "Itens Danificados": NaN,
+    "Itens Danificados": null,
     "Estado de Criticidade Veículo": "Leve(Liberado)",
     "Observacoes": "Sem avaria.",
     "ID COLABORADOR": "283290",
     "ID DO AVALIADOR(A)": "272640",
     "Abrir Os": "NÃO",
-    "Os": NaN,
-    "Abrir Os ": "NÃO"
+    "Os": null,
+    "Abrir Os ": "NÃO",
+    "Unnamed: 21": null
   },
   {
     "ID": "3992137",
@@ -27471,14 +28619,15 @@ const CHECKLIST_VEICULAR_DATA = [
     "Condutor": "Agnaldo de Oliveira ",
     "Data Hora": "15/10/2026 10:10",
     "VIDEOTELEMTRIA": "SIM",
-    "Itens Danificados": NaN,
+    "Itens Danificados": null,
     "Estado de Criticidade Veículo": "Leve(Liberado)",
     "Observacoes": "Sem avaria.",
     "ID COLABORADOR": "281460",
     "ID DO AVALIADOR(A)": "272640",
     "Abrir Os": "NÃO",
-    "Os": NaN,
-    "Abrir Os ": "NÃO"
+    "Os": null,
+    "Abrir Os ": "NÃO",
+    "Unnamed: 21": null
   },
   {
     "ID": "3992138",
@@ -27495,14 +28644,15 @@ const CHECKLIST_VEICULAR_DATA = [
     "Condutor": "Reginaldo da Silva Gomes ",
     "Data Hora": "15/10/2026 10:39",
     "VIDEOTELEMTRIA": "SIM",
-    "Itens Danificados": NaN,
+    "Itens Danificados": null,
     "Estado de Criticidade Veículo": "Leve(Liberado)",
     "Observacoes": "Sem avaria.",
     "ID COLABORADOR": "249300",
     "ID DO AVALIADOR(A)": "272640",
     "Abrir Os": "NÃO",
-    "Os": NaN,
-    "Abrir Os ": "NÃO"
+    "Os": null,
+    "Abrir Os ": "NÃO",
+    "Unnamed: 21": null
   },
   {
     "ID": "3992139",
@@ -27519,14 +28669,15 @@ const CHECKLIST_VEICULAR_DATA = [
     "Condutor": "Ueliton Roberto Oliveira Mendes",
     "Data Hora": "15/10/2026 16:07",
     "VIDEOTELEMTRIA": "NÃO",
-    "Itens Danificados": NaN,
+    "Itens Danificados": null,
     "Estado de Criticidade Veículo": "Moderado(Condutor notificado)",
     "Observacoes": "Leitor (não funciona)",
     "ID COLABORADOR": "276230",
     "ID DO AVALIADOR(A)": "272640",
     "Abrir Os": "NÃO",
-    "Os": NaN,
-    "Abrir Os ": "NÃO"
+    "Os": null,
+    "Abrir Os ": "NÃO",
+    "Unnamed: 21": null
   },
   {
     "ID": "3992140",
@@ -27543,14 +28694,15 @@ const CHECKLIST_VEICULAR_DATA = [
     "Condutor": "Jussara Soares de Souza ",
     "Data Hora": "15/10/2026 16:23",
     "VIDEOTELEMTRIA": "SIM",
-    "Itens Danificados": NaN,
+    "Itens Danificados": null,
     "Estado de Criticidade Veículo": "Leve(Liberado)",
     "Observacoes": "Sem avaria.",
     "ID COLABORADOR": "272640",
     "ID DO AVALIADOR(A)": "272640",
     "Abrir Os": "NÃO",
-    "Os": NaN,
-    "Abrir Os ": "NÃO"
+    "Os": null,
+    "Abrir Os ": "NÃO",
+    "Unnamed: 21": null
   },
   {
     "ID": "3992141",
@@ -27567,14 +28719,15 @@ const CHECKLIST_VEICULAR_DATA = [
     "Condutor": "Heverton Henrique Custodio ",
     "Data Hora": "16/10/2026 07:49",
     "VIDEOTELEMTRIA": "SIM",
-    "Itens Danificados": NaN,
+    "Itens Danificados": null,
     "Estado de Criticidade Veículo": "Moderado(Condutor notificado)",
     "Observacoes": "Para choque dianteiro (quebrado)",
     "ID COLABORADOR": "266560",
     "ID DO AVALIADOR(A)": "272640",
     "Abrir Os": "NÃO",
-    "Os": NaN,
-    "Abrir Os ": "NÃO"
+    "Os": null,
+    "Abrir Os ": "NÃO",
+    "Unnamed: 21": null
   },
   {
     "ID": "3992142",
@@ -27597,8 +28750,9 @@ const CHECKLIST_VEICULAR_DATA = [
     "ID COLABORADOR": "283110",
     "ID DO AVALIADOR(A)": "272640",
     "Abrir Os": "NÃO",
-    "Os": NaN,
-    "Abrir Os ": "NÃO"
+    "Os": null,
+    "Abrir Os ": "NÃO",
+    "Unnamed: 21": null
   },
   {
     "ID": "3992143",
@@ -27621,8 +28775,9 @@ const CHECKLIST_VEICULAR_DATA = [
     "ID COLABORADOR": "279140",
     "ID DO AVALIADOR(A)": "272640",
     "Abrir Os": "NÃO",
-    "Os": NaN,
-    "Abrir Os ": "NÃO"
+    "Os": null,
+    "Abrir Os ": "NÃO",
+    "Unnamed: 21": null
   },
   {
     "ID": "3992144",
@@ -27639,14 +28794,15 @@ const CHECKLIST_VEICULAR_DATA = [
     "Condutor": "Gilmar Rebouças ",
     "Data Hora": "16/10/2026 08:46",
     "VIDEOTELEMTRIA": "NÃO",
-    "Itens Danificados": NaN,
+    "Itens Danificados": null,
     "Estado de Criticidade Veículo": "Leve(Liberado)",
     "Observacoes": "Sem avaria.",
     "ID COLABORADOR": "PJ",
     "ID DO AVALIADOR(A)": "272640",
     "Abrir Os": "NÃO",
-    "Os": NaN,
-    "Abrir Os ": "NÃO"
+    "Os": null,
+    "Abrir Os ": "NÃO",
+    "Unnamed: 21": null
   },
   {
     "ID": "3992145",
@@ -27669,8 +28825,9 @@ const CHECKLIST_VEICULAR_DATA = [
     "ID COLABORADOR": "262010",
     "ID DO AVALIADOR(A)": "272640",
     "Abrir Os": "NÃO",
-    "Os": NaN,
-    "Abrir Os ": "NÃO"
+    "Os": null,
+    "Abrir Os ": "NÃO",
+    "Unnamed: 21": null
   },
   {
     "ID": "3992146",
@@ -27687,14 +28844,15 @@ const CHECKLIST_VEICULAR_DATA = [
     "Condutor": "Pedro Augusto Silva ",
     "Data Hora": "16/10/2026 15:46",
     "VIDEOTELEMTRIA": "SIM",
-    "Itens Danificados": NaN,
+    "Itens Danificados": null,
     "Estado de Criticidade Veículo": "Leve(Liberado)",
     "Observacoes": "Sem avaria.",
     "ID COLABORADOR": "270270",
     "ID DO AVALIADOR(A)": "272640",
     "Abrir Os": "NÃO",
-    "Os": NaN,
-    "Abrir Os ": "NÃO"
+    "Os": null,
+    "Abrir Os ": "NÃO",
+    "Unnamed: 21": null
   },
   {
     "ID": "3992147",
@@ -27711,14 +28869,15 @@ const CHECKLIST_VEICULAR_DATA = [
     "Condutor": "Leonardo Estenio Gallon Pinto ",
     "Data Hora": "19/10/2026 08:08",
     "VIDEOTELEMTRIA": "SIM",
-    "Itens Danificados": NaN,
+    "Itens Danificados": null,
     "Estado de Criticidade Veículo": "Leve(Liberado)",
     "Observacoes": "Sem avaria.",
     "ID COLABORADOR": "272430",
     "ID DO AVALIADOR(A)": "272640",
     "Abrir Os": "NÃO",
-    "Os": NaN,
-    "Abrir Os ": "NÃO"
+    "Os": null,
+    "Abrir Os ": "NÃO",
+    "Unnamed: 21": null
   },
   {
     "ID": "3992153",
@@ -27735,14 +28894,15 @@ const CHECKLIST_VEICULAR_DATA = [
     "Condutor": "Anderson Henrique Simão",
     "Data Hora": "19/10/2026 09:13",
     "VIDEOTELEMTRIA": "SIM",
-    "Itens Danificados": NaN,
+    "Itens Danificados": null,
     "Estado de Criticidade Veículo": "Leve(Liberado)",
     "Observacoes": "Sem avaria.",
     "ID COLABORADOR": "283280",
     "ID DO AVALIADOR(A)": "272640",
     "Abrir Os": "NÃO",
-    "Os": NaN,
-    "Abrir Os ": "NÃO"
+    "Os": null,
+    "Abrir Os ": "NÃO",
+    "Unnamed: 21": null
   },
   {
     "ID": "3992155",
@@ -27759,14 +28919,15 @@ const CHECKLIST_VEICULAR_DATA = [
     "Condutor": "Daniel Ferreira da Cruz Neto ",
     "Data Hora": "19/10/2026 09:20",
     "VIDEOTELEMTRIA": "SIM",
-    "Itens Danificados": NaN,
+    "Itens Danificados": null,
     "Estado de Criticidade Veículo": "Leve(Liberado)",
     "Observacoes": "Sem avaria.",
     "ID COLABORADOR": "266350",
     "ID DO AVALIADOR(A)": "272640",
     "Abrir Os": "NÃO",
-    "Os": NaN,
-    "Abrir Os ": "NÃO"
+    "Os": null,
+    "Abrir Os ": "NÃO",
+    "Unnamed: 21": null
   },
   {
     "ID": "3992156",
@@ -27783,14 +28944,15 @@ const CHECKLIST_VEICULAR_DATA = [
     "Condutor": "Wender Divino Siqueira ",
     "Data Hora": "19/10/2026 09:55",
     "VIDEOTELEMTRIA": "SIM",
-    "Itens Danificados": NaN,
+    "Itens Danificados": null,
     "Estado de Criticidade Veículo": "Leve(Liberado)",
     "Observacoes": "Sem avaria.",
     "ID COLABORADOR": "283020",
     "ID DO AVALIADOR(A)": "272640",
     "Abrir Os": "NÃO",
-    "Os": NaN,
-    "Abrir Os ": "NÃO"
+    "Os": null,
+    "Abrir Os ": "NÃO",
+    "Unnamed: 21": null
   },
   {
     "ID": "3992170",
@@ -27807,14 +28969,15 @@ const CHECKLIST_VEICULAR_DATA = [
     "Condutor": "Admir Xavier Cotrim ",
     "Data Hora": "19/10/2026 09:59",
     "VIDEOTELEMTRIA": "SIM",
-    "Itens Danificados": NaN,
+    "Itens Danificados": null,
     "Estado de Criticidade Veículo": "Leve(Liberado)",
     "Observacoes": "Sem avaria.",
     "ID COLABORADOR": "112150",
     "ID DO AVALIADOR(A)": "272640",
     "Abrir Os": "NÃO",
-    "Os": NaN,
-    "Abrir Os ": "NÃO"
+    "Os": null,
+    "Abrir Os ": "NÃO",
+    "Unnamed: 21": null
   },
   {
     "ID": "3992852",
@@ -27831,14 +28994,15 @@ const CHECKLIST_VEICULAR_DATA = [
     "Condutor": "João Vitor dos Santos Cardoso",
     "Data Hora": "19/10/2026 14:24",
     "VIDEOTELEMTRIA": "SIM",
-    "Itens Danificados": NaN,
+    "Itens Danificados": null,
     "Estado de Criticidade Veículo": "Leve(Liberado)",
     "Observacoes": "Sem avaria.",
     "ID COLABORADOR": "276550",
     "ID DO AVALIADOR(A)": "272640",
     "Abrir Os": "NÃO",
-    "Os": NaN,
-    "Abrir Os ": "NÃO"
+    "Os": null,
+    "Abrir Os ": "NÃO",
+    "Unnamed: 21": null
   },
   {
     "ID": "3992853",
@@ -27855,14 +29019,15 @@ const CHECKLIST_VEICULAR_DATA = [
     "Condutor": "Rodrigo Soares Gonçalves da Costa ",
     "Data Hora": "19/10/2026 14:49",
     "VIDEOTELEMTRIA": "SIM",
-    "Itens Danificados": NaN,
+    "Itens Danificados": null,
     "Estado de Criticidade Veículo": "Leve(Liberado)",
     "Observacoes": "Sem avaria.",
     "ID COLABORADOR": "223724",
     "ID DO AVALIADOR(A)": "272640",
     "Abrir Os": "NÃO",
-    "Os": NaN,
-    "Abrir Os ": "NÃO"
+    "Os": null,
+    "Abrir Os ": "NÃO",
+    "Unnamed: 21": null
   },
   {
     "ID": "3992854",
@@ -27879,14 +29044,15 @@ const CHECKLIST_VEICULAR_DATA = [
     "Condutor": "Luis Fernando Cassezi ",
     "Data Hora": "19/10/2026 15:40",
     "VIDEOTELEMTRIA": "SIM",
-    "Itens Danificados": NaN,
+    "Itens Danificados": null,
     "Estado de Criticidade Veículo": "Leve(Liberado)",
     "Observacoes": "Sem avaria.",
     "ID COLABORADOR": "277820",
     "ID DO AVALIADOR(A)": "272640",
     "Abrir Os": "NÃO",
-    "Os": NaN,
-    "Abrir Os ": "NÃO"
+    "Os": null,
+    "Abrir Os ": "NÃO",
+    "Unnamed: 21": null
   },
   {
     "ID": "3995030",
@@ -27909,8 +29075,9 @@ const CHECKLIST_VEICULAR_DATA = [
     "ID COLABORADOR": "283170",
     "ID DO AVALIADOR(A)": "272640",
     "Abrir Os": "NÃO",
-    "Os": NaN,
-    "Abrir Os ": "NÃO"
+    "Os": null,
+    "Abrir Os ": "NÃO",
+    "Unnamed: 21": null
   },
   {
     "ID": "3995032",
@@ -27933,8 +29100,9 @@ const CHECKLIST_VEICULAR_DATA = [
     "ID COLABORADOR": "279140",
     "ID DO AVALIADOR(A)": "272640",
     "Abrir Os": "NÃO",
-    "Os": NaN,
-    "Abrir Os ": "NÃO"
+    "Os": null,
+    "Abrir Os ": "NÃO",
+    "Unnamed: 21": null
   },
   {
     "ID": "3995033",
@@ -27957,8 +29125,9 @@ const CHECKLIST_VEICULAR_DATA = [
     "ID COLABORADOR": "81103",
     "ID DO AVALIADOR(A)": "272640",
     "Abrir Os": "NÃO",
-    "Os": NaN,
-    "Abrir Os ": "NÃO"
+    "Os": null,
+    "Abrir Os ": "NÃO",
+    "Unnamed: 21": null
   },
   {
     "ID": "3995035",
@@ -27975,14 +29144,15 @@ const CHECKLIST_VEICULAR_DATA = [
     "Condutor": "Hércules Antonio da Silva ",
     "Data Hora": "20/10/2026 08:13",
     "VIDEOTELEMTRIA": "SIM",
-    "Itens Danificados": NaN,
+    "Itens Danificados": null,
     "Estado de Criticidade Veículo": "Leve(Liberado)",
     "Observacoes": "Sem avaria.",
     "ID COLABORADOR": "231220",
     "ID DO AVALIADOR(A)": "272740",
     "Abrir Os": "NÃO",
-    "Os": NaN,
-    "Abrir Os ": "NÃO"
+    "Os": null,
+    "Abrir Os ": "NÃO",
+    "Unnamed: 21": null
   },
   {
     "ID": "3995036",
@@ -28005,8 +29175,9 @@ const CHECKLIST_VEICULAR_DATA = [
     "ID COLABORADOR": "272830",
     "ID DO AVALIADOR(A)": "272640",
     "Abrir Os": "NÃO",
-    "Os": NaN,
-    "Abrir Os ": "NÃO"
+    "Os": null,
+    "Abrir Os ": "NÃO",
+    "Unnamed: 21": null
   },
   {
     "ID": "3995037",
@@ -28023,14 +29194,15 @@ const CHECKLIST_VEICULAR_DATA = [
     "Condutor": "Onofre Evangelista da Silva Junior ",
     "Data Hora": "20/10/2026 11:26",
     "VIDEOTELEMTRIA": "NÃO",
-    "Itens Danificados": NaN,
+    "Itens Danificados": null,
     "Estado de Criticidade Veículo": "Moderado(Condutor notificado)",
     "Observacoes": "Luz baixa direita (queimada) Luz da placa esquerda (queimada)",
     "ID COLABORADOR": "163363",
     "ID DO AVALIADOR(A)": "272640",
     "Abrir Os": "NÃO",
-    "Os": NaN,
-    "Abrir Os ": "NÃO"
+    "Os": null,
+    "Abrir Os ": "NÃO",
+    "Unnamed: 21": null
   },
   {
     "ID": "3996638",
@@ -28047,14 +29219,15 @@ const CHECKLIST_VEICULAR_DATA = [
     "Condutor": "Alanna Dayara Ruas",
     "Data Hora": "20/10/2026 13:49",
     "VIDEOTELEMTRIA": "SIM",
-    "Itens Danificados": NaN,
+    "Itens Danificados": null,
     "Estado de Criticidade Veículo": "Leve(Liberado)",
     "Observacoes": "Sem avaria.",
     "ID COLABORADOR": "283100",
     "ID DO AVALIADOR(A)": "272640",
     "Abrir Os": "NÃO",
-    "Os": NaN,
-    "Abrir Os ": "NÃO"
+    "Os": null,
+    "Abrir Os ": "NÃO",
+    "Unnamed: 21": null
   },
   {
     "ID": "3996639",
@@ -28071,14 +29244,15 @@ const CHECKLIST_VEICULAR_DATA = [
     "Condutor": "Antonio Benedito Cassezi ",
     "Data Hora": "20/10/2026 15:12",
     "VIDEOTELEMTRIA": "SIM",
-    "Itens Danificados": NaN,
+    "Itens Danificados": null,
     "Estado de Criticidade Veículo": "Leve(Liberado)",
     "Observacoes": "Sem avaria.",
     "ID COLABORADOR": "96520",
     "ID DO AVALIADOR(A)": "272640",
     "Abrir Os": "NÃO",
-    "Os": NaN,
-    "Abrir Os ": "NÃO"
+    "Os": null,
+    "Abrir Os ": "NÃO",
+    "Unnamed: 21": null
   },
   {
     "ID": "3996640",
@@ -28090,19 +29264,20 @@ const CHECKLIST_VEICULAR_DATA = [
     "Data Fim": "20/10/2026 16:33",
     "Status": "Open",
     "Score": "0.0",
-    "Frota": NaN,
+    "Frota": null,
     "GESTORES": "RAFAEL AP. FARRA ROGRIGUES",
     "Condutor": "Marcos Alexandre Baffi ",
     "Data Hora": "20/10/2026 16:33",
     "VIDEOTELEMTRIA": "SIM",
-    "Itens Danificados": NaN,
+    "Itens Danificados": null,
     "Estado de Criticidade Veículo": "Leve(Liberado)",
     "Observacoes": "Frota: 469226",
     "ID COLABORADOR": "207032",
     "ID DO AVALIADOR(A)": "272640",
     "Abrir Os": "NÃO",
-    "Os": NaN,
-    "Abrir Os ": "NÃO"
+    "Os": null,
+    "Abrir Os ": "NÃO",
+    "Unnamed: 21": null
   },
   {
     "ID": "3996641",
@@ -28125,8 +29300,9 @@ const CHECKLIST_VEICULAR_DATA = [
     "ID COLABORADOR": "251050",
     "ID DO AVALIADOR(A)": "272640",
     "Abrir Os": "NÃO",
-    "Os": NaN,
-    "Abrir Os ": "NÃO"
+    "Os": null,
+    "Abrir Os ": "NÃO",
+    "Unnamed: 21": null
   },
   {
     "ID": "4003546",
@@ -28143,14 +29319,15 @@ const CHECKLIST_VEICULAR_DATA = [
     "Condutor": "César Fabiano Mineiro",
     "Data Hora": "21/10/2026 15:56",
     "VIDEOTELEMTRIA": "SIM",
-    "Itens Danificados": NaN,
+    "Itens Danificados": null,
     "Estado de Criticidade Veículo": "Leve(Liberado)",
     "Observacoes": "Sem avaria.",
     "ID COLABORADOR": "2100",
     "ID DO AVALIADOR(A)": "272640",
     "Abrir Os": "NÃO",
-    "Os": NaN,
-    "Abrir Os ": "NÃO"
+    "Os": null,
+    "Abrir Os ": "NÃO",
+    "Unnamed: 21": null
   },
   {
     "ID": "4003547",
@@ -28167,14 +29344,15 @@ const CHECKLIST_VEICULAR_DATA = [
     "Condutor": "Daniel Assunção ",
     "Data Hora": "22/10/2026 15:25",
     "VIDEOTELEMTRIA": "SIM",
-    "Itens Danificados": NaN,
+    "Itens Danificados": null,
     "Estado de Criticidade Veículo": "Leve(Liberado)",
     "Observacoes": "Sem avaria.",
-    "ID COLABORADOR": NaN,
+    "ID COLABORADOR": null,
     "ID DO AVALIADOR(A)": "272640",
     "Abrir Os": "NÃO",
-    "Os": NaN,
-    "Abrir Os ": "NÃO"
+    "Os": null,
+    "Abrir Os ": "NÃO",
+    "Unnamed: 21": null
   },
   {
     "ID": "4003548",
@@ -28191,14 +29369,15 @@ const CHECKLIST_VEICULAR_DATA = [
     "Condutor": "Rogério Cezar Rodrigues ",
     "Data Hora": "22/10/2026 15:50",
     "VIDEOTELEMTRIA": "SIM",
-    "Itens Danificados": NaN,
+    "Itens Danificados": null,
     "Estado de Criticidade Veículo": "Moderado(Condutor notificado)",
     "Observacoes": "Amassado na tampa traseira (quebrada",
     "ID COLABORADOR": "278570",
     "ID DO AVALIADOR(A)": "2726m",
     "Abrir Os": "NÃO",
-    "Os": NaN,
-    "Abrir Os ": "NÃO"
+    "Os": null,
+    "Abrir Os ": "NÃO",
+    "Unnamed: 21": null
   },
   {
     "ID": "4003549",
@@ -28215,14 +29394,15 @@ const CHECKLIST_VEICULAR_DATA = [
     "Condutor": "Onofre Evangelista da Silva Junior ",
     "Data Hora": "23/10/2026 07:32",
     "VIDEOTELEMTRIA": "SIM",
-    "Itens Danificados": NaN,
+    "Itens Danificados": null,
     "Estado de Criticidade Veículo": "Leve(Liberado)",
     "Observacoes": "Sem a avaria.",
     "ID COLABORADOR": "163363",
     "ID DO AVALIADOR(A)": "272640",
     "Abrir Os": "NÃO",
-    "Os": NaN,
-    "Abrir Os ": "NÃO"
+    "Os": null,
+    "Abrir Os ": "NÃO",
+    "Unnamed: 21": null
   },
   {
     "ID": "4004535",
@@ -28239,14 +29419,15 @@ const CHECKLIST_VEICULAR_DATA = [
     "Condutor": "Leonardo Estenio Gallon Pinto ",
     "Data Hora": "23/10/2026 10:25",
     "VIDEOTELEMTRIA": "SIM",
-    "Itens Danificados": NaN,
+    "Itens Danificados": null,
     "Estado de Criticidade Veículo": "Leve(Liberado)",
     "Observacoes": "Sem avaria.",
     "ID COLABORADOR": "272430",
     "ID DO AVALIADOR(A)": "272640",
     "Abrir Os": "NÃO",
-    "Os": NaN,
-    "Abrir Os ": "NÃO"
+    "Os": null,
+    "Abrir Os ": "NÃO",
+    "Unnamed: 21": null
   },
   {
     "ID": "4004536",
@@ -28263,14 +29444,15 @@ const CHECKLIST_VEICULAR_DATA = [
     "Condutor": "Edmar José Gonçalves ",
     "Data Hora": "23/10/2026 10:42",
     "VIDEOTELEMTRIA": "SIM",
-    "Itens Danificados": NaN,
+    "Itens Danificados": null,
     "Estado de Criticidade Veículo": "Leve(Liberado)",
     "Observacoes": "Sem avaria.",
     "ID COLABORADOR": "220310",
     "ID DO AVALIADOR(A)": "272640",
     "Abrir Os": "NÃO",
-    "Os": NaN,
-    "Abrir Os ": "NÃO"
+    "Os": null,
+    "Abrir Os ": "NÃO",
+    "Unnamed: 21": null
   },
   {
     "ID": "4004538",
@@ -28287,14 +29469,15 @@ const CHECKLIST_VEICULAR_DATA = [
     "Condutor": "Karolainy da Silva Roque ",
     "Data Hora": "23/10/2026 11:01",
     "VIDEOTELEMTRIA": "SIM",
-    "Itens Danificados": NaN,
+    "Itens Danificados": null,
     "Estado de Criticidade Veículo": "Leve(Liberado)",
     "Observacoes": "Sem avaria.",
     "ID COLABORADOR": "272590",
     "ID DO AVALIADOR(A)": "272640",
     "Abrir Os": "NÃO",
-    "Os": NaN,
-    "Abrir Os ": "NÃO"
+    "Os": null,
+    "Abrir Os ": "NÃO",
+    "Unnamed: 21": null
   },
   {
     "ID": "4004539",
@@ -28311,14 +29494,15 @@ const CHECKLIST_VEICULAR_DATA = [
     "Condutor": "João Jesus Ferreira ",
     "Data Hora": "23/10/2026 15:29",
     "VIDEOTELEMTRIA": "SIM",
-    "Itens Danificados": NaN,
+    "Itens Danificados": null,
     "Estado de Criticidade Veículo": "Leve(Liberado)",
     "Observacoes": "Sem avaria.",
     "ID COLABORADOR": "179103",
     "ID DO AVALIADOR(A)": "272640",
     "Abrir Os": "NÃO",
-    "Os": NaN,
-    "Abrir Os ": "NÃO"
+    "Os": null,
+    "Abrir Os ": "NÃO",
+    "Unnamed: 21": null
   },
   {
     "ID": "4008222",
@@ -28335,14 +29519,15 @@ const CHECKLIST_VEICULAR_DATA = [
     "Condutor": "Marco Ferreira dos Santos ",
     "Data Hora": "23/10/2026 15:46",
     "VIDEOTELEMTRIA": "SIM",
-    "Itens Danificados": NaN,
+    "Itens Danificados": null,
     "Estado de Criticidade Veículo": "Leve(Liberado)",
     "Observacoes": "Sem avaria.",
     "ID COLABORADOR": "115782",
     "ID DO AVALIADOR(A)": "272640",
     "Abrir Os": "NÃO",
-    "Os": NaN,
-    "Abrir Os ": "NÃO"
+    "Os": null,
+    "Abrir Os ": "NÃO",
+    "Unnamed: 21": null
   },
   {
     "ID": "4008223",
@@ -28359,14 +29544,15 @@ const CHECKLIST_VEICULAR_DATA = [
     "Condutor": "Karolainy da Silva Roque ",
     "Data Hora": "26/10/2026 06:57",
     "VIDEOTELEMTRIA": "SIM",
-    "Itens Danificados": NaN,
+    "Itens Danificados": null,
     "Estado de Criticidade Veículo": "Leve(Liberado)",
     "Observacoes": "Sem avaria.",
     "ID COLABORADOR": "272590",
     "ID DO AVALIADOR(A)": "272640",
     "Abrir Os": "NÃO",
-    "Os": NaN,
-    "Abrir Os ": "NÃO"
+    "Os": null,
+    "Abrir Os ": "NÃO",
+    "Unnamed: 21": null
   },
   {
     "ID": "4008224",
@@ -28383,14 +29569,15 @@ const CHECKLIST_VEICULAR_DATA = [
     "Condutor": "Luiz Alfredo de Souza ",
     "Data Hora": "26/10/2026 06:59",
     "VIDEOTELEMTRIA": "SIM",
-    "Itens Danificados": NaN,
+    "Itens Danificados": null,
     "Estado de Criticidade Veículo": "Leve(Liberado)",
     "Observacoes": "Sem avaria.",
     "ID COLABORADOR": "5423",
     "ID DO AVALIADOR(A)": "272640",
     "Abrir Os": "NÃO",
-    "Os": NaN,
-    "Abrir Os ": "NÃO"
+    "Os": null,
+    "Abrir Os ": "NÃO",
+    "Unnamed: 21": null
   },
   {
     "ID": "4008225",
@@ -28407,14 +29594,15 @@ const CHECKLIST_VEICULAR_DATA = [
     "Condutor": "Anderson Ricardo Ruaro",
     "Data Hora": "26/10/2026 07:15",
     "VIDEOTELEMTRIA": "SIM",
-    "Itens Danificados": NaN,
+    "Itens Danificados": null,
     "Estado de Criticidade Veículo": "Leve(Liberado)",
     "Observacoes": "Sem avaria.",
     "ID COLABORADOR": "168907",
     "ID DO AVALIADOR(A)": "272640",
     "Abrir Os": "NÃO",
-    "Os": NaN,
-    "Abrir Os ": "NÃO"
+    "Os": null,
+    "Abrir Os ": "NÃO",
+    "Unnamed: 21": null
   },
   {
     "ID": "4008226",
@@ -28431,14 +29619,15 @@ const CHECKLIST_VEICULAR_DATA = [
     "Condutor": "Tiago Damião Louzada ",
     "Data Hora": "26/10/2026 08:14",
     "VIDEOTELEMTRIA": "SIM",
-    "Itens Danificados": NaN,
+    "Itens Danificados": null,
     "Estado de Criticidade Veículo": "Moderado(Condutor notificado)",
     "Observacoes": "Amassados na lateral esquerda (porta motorista e porta passageir9)Detalhes lateral esquerda ",
     "ID COLABORADOR": "5",
     "ID DO AVALIADOR(A)": "272640",
     "Abrir Os": "NÃO",
-    "Os": NaN,
-    "Abrir Os ": "NÃO"
+    "Os": null,
+    "Abrir Os ": "NÃO",
+    "Unnamed: 21": null
   },
   {
     "ID": "4008227",
@@ -28455,14 +29644,15 @@ const CHECKLIST_VEICULAR_DATA = [
     "Condutor": "Antonio Marcos Ribeiro Ruas ",
     "Data Hora": "26/10/2026 10:41",
     "VIDEOTELEMTRIA": "SIM",
-    "Itens Danificados": NaN,
+    "Itens Danificados": null,
     "Estado de Criticidade Veículo": "Leve(Liberado)",
     "Observacoes": "Sem avaria.",
     "ID COLABORADOR": "183702",
     "ID DO AVALIADOR(A)": "272640",
     "Abrir Os": "NÃO",
-    "Os": NaN,
-    "Abrir Os ": "NÃO"
+    "Os": null,
+    "Abrir Os ": "NÃO",
+    "Unnamed: 21": null
   },
   {
     "ID": "4008228",
@@ -28479,14 +29669,15 @@ const CHECKLIST_VEICULAR_DATA = [
     "Condutor": "Isabela Piazentini de Matos",
     "Data Hora": "26/10/2026 13:04",
     "VIDEOTELEMTRIA": "SIM",
-    "Itens Danificados": NaN,
+    "Itens Danificados": null,
     "Estado de Criticidade Veículo": "Leve(Liberado)",
     "Observacoes": "Sem avaria. ",
     "ID COLABORADOR": "272510",
     "ID DO AVALIADOR(A)": "272640",
     "Abrir Os": "NÃO",
-    "Os": NaN,
-    "Abrir Os ": "NÃO"
+    "Os": null,
+    "Abrir Os ": "NÃO",
+    "Unnamed: 21": null
   },
   {
     "ID": "4008229",
@@ -28498,19 +29689,20 @@ const CHECKLIST_VEICULAR_DATA = [
     "Data Fim": "26/10/2026 13:48",
     "Status": "Open",
     "Score": "0.0",
-    "Frota": NaN,
+    "Frota": null,
     "GESTORES": "PAULO ANTONIO VIANA IESI",
     "Condutor": "Murilo Vanderlei Travani Afonso ",
     "Data Hora": "26/10/2026 13:40",
     "VIDEOTELEMTRIA": "NÃO",
-    "Itens Danificados": NaN,
+    "Itens Danificados": null,
     "Estado de Criticidade Veículo": "Leve(Liberado)",
     "Observacoes": "Frota: 469026 ",
     "ID COLABORADOR": "278680",
     "ID DO AVALIADOR(A)": "272640",
     "Abrir Os": "NÃO",
-    "Os": NaN,
-    "Abrir Os ": "NÃO"
+    "Os": null,
+    "Abrir Os ": "NÃO",
+    "Unnamed: 21": null
   },
   {
     "ID": "4008230",
@@ -28533,8 +29725,9 @@ const CHECKLIST_VEICULAR_DATA = [
     "ID COLABORADOR": "2446r0",
     "ID DO AVALIADOR(A)": "272740",
     "Abrir Os": "NÃO",
-    "Os": NaN,
-    "Abrir Os ": "NÃO"
+    "Os": null,
+    "Abrir Os ": "NÃO",
+    "Unnamed: 21": null
   },
   {
     "ID": "4008665",
@@ -28551,14 +29744,15 @@ const CHECKLIST_VEICULAR_DATA = [
     "Condutor": "Maximiano Gomes da Silva",
     "Data Hora": "26/10/2026 14:52",
     "VIDEOTELEMTRIA": "SIM",
-    "Itens Danificados": NaN,
+    "Itens Danificados": null,
     "Estado de Criticidade Veículo": "Leve(Liberado)",
     "Observacoes": "Sem avaria.",
     "ID COLABORADOR": "251170",
     "ID DO AVALIADOR(A)": "272640",
     "Abrir Os": "NÃO",
-    "Os": NaN,
-    "Abrir Os ": "NÃO"
+    "Os": null,
+    "Abrir Os ": "NÃO",
+    "Unnamed: 21": null
   },
   {
     "ID": "4008666",
@@ -28575,14 +29769,15 @@ const CHECKLIST_VEICULAR_DATA = [
     "Condutor": "Dorival Aparecido Dalben",
     "Data Hora": "26/10/2026 14:53",
     "VIDEOTELEMTRIA": "SIM",
-    "Itens Danificados": NaN,
+    "Itens Danificados": null,
     "Estado de Criticidade Veículo": "Moderado(Condutor notificado)",
     "Observacoes": "Parabrisa (trincado)Capô (amassado)Risco na lateral esquerda traseira abaixo da lanterna",
     "ID COLABORADOR": "283040",
     "ID DO AVALIADOR(A)": "272640",
     "Abrir Os": "NÃO",
-    "Os": NaN,
-    "Abrir Os ": "NÃO"
+    "Os": null,
+    "Abrir Os ": "NÃO",
+    "Unnamed: 21": null
   },
   {
     "ID": "4008667",
@@ -28599,14 +29794,15 @@ const CHECKLIST_VEICULAR_DATA = [
     "Condutor": "Demailson Barbosa dos Santos",
     "Data Hora": "26/10/2026 15:49",
     "VIDEOTELEMTRIA": "SIM",
-    "Itens Danificados": NaN,
+    "Itens Danificados": null,
     "Estado de Criticidade Veículo": "Leve(Liberado)",
     "Observacoes": "Sem avaria.",
     "ID COLABORADOR": "164677",
     "ID DO AVALIADOR(A)": "272640",
     "Abrir Os": "NÃO",
-    "Os": NaN,
-    "Abrir Os ": "NÃO"
+    "Os": null,
+    "Abrir Os ": "NÃO",
+    "Unnamed: 21": null
   },
   {
     "ID": "4008668",
@@ -28629,8 +29825,9 @@ const CHECKLIST_VEICULAR_DATA = [
     "ID COLABORADOR": "84265",
     "ID DO AVALIADOR(A)": "272640",
     "Abrir Os": "NÃO",
-    "Os": NaN,
-    "Abrir Os ": "NÃO"
+    "Os": null,
+    "Abrir Os ": "NÃO",
+    "Unnamed: 21": null
   },
   {
     "ID": "4008669",
@@ -28647,14 +29844,15 @@ const CHECKLIST_VEICULAR_DATA = [
     "Condutor": "Kesia Alves Neves ",
     "Data Hora": "26/10/2026 16:13",
     "VIDEOTELEMTRIA": "SIM",
-    "Itens Danificados": NaN,
+    "Itens Danificados": null,
     "Estado de Criticidade Veículo": "Moderado(Condutor notificado)",
     "Observacoes": "Grade do parachoque dianteiro (danificado)",
     "ID COLABORADOR": "170860",
     "ID DO AVALIADOR(A)": "272640",
     "Abrir Os": "NÃO",
-    "Os": NaN,
-    "Abrir Os ": "NÃO"
+    "Os": null,
+    "Abrir Os ": "NÃO",
+    "Unnamed: 21": null
   },
   {
     "ID": "4010732",
@@ -28671,14 +29869,15 @@ const CHECKLIST_VEICULAR_DATA = [
     "Condutor": "Joyce Rodrigues Rebouças ",
     "Data Hora": "27/10/2026 07:29",
     "VIDEOTELEMTRIA": "SIM",
-    "Itens Danificados": NaN,
+    "Itens Danificados": null,
     "Estado de Criticidade Veículo": "Moderado(Condutor notificado)",
     "Observacoes": "Amassado no porta malas",
     "ID COLABORADOR": "283700",
     "ID DO AVALIADOR(A)": "272640",
     "Abrir Os": "NÃO",
-    "Os": NaN,
-    "Abrir Os ": "NÃO"
+    "Os": null,
+    "Abrir Os ": "NÃO",
+    "Unnamed: 21": null
   },
   {
     "ID": "4010737",
@@ -28695,14 +29894,15 @@ const CHECKLIST_VEICULAR_DATA = [
     "Condutor": "Marcelo da Silva ",
     "Data Hora": "27/10/2026 09:51",
     "VIDEOTELEMTRIA": "SIM",
-    "Itens Danificados": NaN,
+    "Itens Danificados": null,
     "Estado de Criticidade Veículo": "Leve(Liberado)",
     "Observacoes": "Sem avaria.",
     "ID COLABORADOR": "281180",
     "ID DO AVALIADOR(A)": "272640",
     "Abrir Os": "NÃO",
-    "Os": NaN,
-    "Abrir Os ": "NÃO"
+    "Os": null,
+    "Abrir Os ": "NÃO",
+    "Unnamed: 21": null
   },
   {
     "ID": "4010738",
@@ -28719,14 +29919,15 @@ const CHECKLIST_VEICULAR_DATA = [
     "Condutor": "Willian Pereira Eulalio",
     "Data Hora": "27/10/2026 10:00",
     "VIDEOTELEMTRIA": "SIM",
-    "Itens Danificados": NaN,
+    "Itens Danificados": null,
     "Estado de Criticidade Veículo": "Moderado(Condutor notificado)",
     "Observacoes": "Sem a placa dianteira.Veículo devolvido na data de hoje 27/10",
     "ID COLABORADOR": "268340",
     "ID DO AVALIADOR(A)": "272640",
     "Abrir Os": "NÃO",
-    "Os": NaN,
-    "Abrir Os ": "NÃO"
+    "Os": null,
+    "Abrir Os ": "NÃO",
+    "Unnamed: 21": null
   },
   {
     "ID": "4010739",
@@ -28749,8 +29950,9 @@ const CHECKLIST_VEICULAR_DATA = [
     "ID COLABORADOR": "282930",
     "ID DO AVALIADOR(A)": "272640",
     "Abrir Os": "NÃO",
-    "Os": NaN,
-    "Abrir Os ": "NÃO"
+    "Os": null,
+    "Abrir Os ": "NÃO",
+    "Unnamed: 21": null
   },
   {
     "ID": "4010740",
@@ -28773,8 +29975,9 @@ const CHECKLIST_VEICULAR_DATA = [
     "ID COLABORADOR": "283100",
     "ID DO AVALIADOR(A)": "272640",
     "Abrir Os": "SIM",
-    "Os": NaN,
-    "Abrir Os ": "SIM"
+    "Os": null,
+    "Abrir Os ": "SIM",
+    "Unnamed: 21": null
   },
   {
     "ID": "4010741",
@@ -28791,14 +29994,15 @@ const CHECKLIST_VEICULAR_DATA = [
     "Condutor": "Fabiano Henrique da Silva Cruz",
     "Data Hora": "27/10/2026 14:38",
     "VIDEOTELEMTRIA": "SIM",
-    "Itens Danificados": NaN,
+    "Itens Danificados": null,
     "Estado de Criticidade Veículo": "Leve(Liberado)",
     "Observacoes": "Sem avaria.",
     "ID COLABORADOR": "281920",
     "ID DO AVALIADOR(A)": "272640",
     "Abrir Os": "NÃO",
-    "Os": NaN,
-    "Abrir Os ": "NÃO"
+    "Os": null,
+    "Abrir Os ": "NÃO",
+    "Unnamed: 21": null
   },
   {
     "ID": "4013565",
@@ -28815,14 +30019,15 @@ const CHECKLIST_VEICULAR_DATA = [
     "Condutor": "Marco Ferreira dos Santos ",
     "Data Hora": "28/10/2026 07:53",
     "VIDEOTELEMTRIA": "NÃO",
-    "Itens Danificados": NaN,
+    "Itens Danificados": null,
     "Estado de Criticidade Veículo": "Leve(Liberado)",
     "Observacoes": "Sem avaria.",
     "ID COLABORADOR": "115782",
     "ID DO AVALIADOR(A)": "272640",
     "Abrir Os": "NÃO",
-    "Os": NaN,
-    "Abrir Os ": "NÃO"
+    "Os": null,
+    "Abrir Os ": "NÃO",
+    "Unnamed: 21": null
   },
   {
     "ID": "4013568",
@@ -28839,14 +30044,15 @@ const CHECKLIST_VEICULAR_DATA = [
     "Condutor": "Mildo Sérgio Veroneze",
     "Data Hora": "28/10/2026 09:18",
     "VIDEOTELEMTRIA": "SIM",
-    "Itens Danificados": NaN,
+    "Itens Danificados": null,
     "Estado de Criticidade Veículo": "Moderado(Condutor notificado)",
     "Observacoes": "Parabrisa dianteiro (trincado)",
     "ID COLABORADOR": "283110",
     "ID DO AVALIADOR(A)": "272640",
     "Abrir Os": "NÃO",
-    "Os": NaN,
-    "Abrir Os ": "NÃO"
+    "Os": null,
+    "Abrir Os ": "NÃO",
+    "Unnamed: 21": null
   },
   {
     "ID": "4013569",
@@ -28863,14 +30069,15 @@ const CHECKLIST_VEICULAR_DATA = [
     "Condutor": "Juliano Timóteo da Silva",
     "Data Hora": "28/10/2026 10:41",
     "VIDEOTELEMTRIA": "SIM",
-    "Itens Danificados": NaN,
+    "Itens Danificados": null,
     "Estado de Criticidade Veículo": "Leve(Liberado)",
     "Observacoes": "Sem avaria.",
     "ID COLABORADOR": "239410",
     "ID DO AVALIADOR(A)": "272640",
     "Abrir Os": "NÃO",
-    "Os": NaN,
-    "Abrir Os ": "NÃO"
+    "Os": null,
+    "Abrir Os ": "NÃO",
+    "Unnamed: 21": null
   },
   {
     "ID": "4013570",
@@ -28887,14 +30094,15 @@ const CHECKLIST_VEICULAR_DATA = [
     "Condutor": "Ricardo  Aparecido da Silva ",
     "Data Hora": "28/10/2026 11:06",
     "VIDEOTELEMTRIA": "SIM",
-    "Itens Danificados": NaN,
+    "Itens Danificados": null,
     "Estado de Criticidade Veículo": "Leve(Liberado)",
     "Observacoes": "Sem avaria.",
     "ID COLABORADOR": "111909",
     "ID DO AVALIADOR(A)": "272640",
     "Abrir Os": "NÃO",
-    "Os": NaN,
-    "Abrir Os ": "NÃO"
+    "Os": null,
+    "Abrir Os ": "NÃO",
+    "Unnamed: 21": null
   },
   {
     "ID": "4013571",
@@ -28911,14 +30119,15 @@ const CHECKLIST_VEICULAR_DATA = [
     "Condutor": "Alessandro da Silva ",
     "Data Hora": "28/10/2026 11:13",
     "VIDEOTELEMTRIA": "SIM",
-    "Itens Danificados": NaN,
+    "Itens Danificados": null,
     "Estado de Criticidade Veículo": "Leve(Liberado)",
     "Observacoes": "Sem avaria.",
     "ID COLABORADOR": "262010",
     "ID DO AVALIADOR(A)": "272640",
     "Abrir Os": "NÃO",
-    "Os": NaN,
-    "Abrir Os ": "NÃO"
+    "Os": null,
+    "Abrir Os ": "NÃO",
+    "Unnamed: 21": null
   },
   {
     "ID": "4013572",
@@ -28935,14 +30144,15 @@ const CHECKLIST_VEICULAR_DATA = [
     "Condutor": "Marcelo José Aristeu",
     "Data Hora": "28/10/2026 11:30",
     "VIDEOTELEMTRIA": "SIM",
-    "Itens Danificados": NaN,
+    "Itens Danificados": null,
     "Estado de Criticidade Veículo": "Leve(Liberado)",
     "Observacoes": "Sem avaria.",
     "ID COLABORADOR": "85170",
     "ID DO AVALIADOR(A)": "272640",
     "Abrir Os": "NÃO",
-    "Os": NaN,
-    "Abrir Os ": "NÃO"
+    "Os": null,
+    "Abrir Os ": "NÃO",
+    "Unnamed: 21": null
   },
   {
     "ID": "4013573",
@@ -28959,14 +30169,15 @@ const CHECKLIST_VEICULAR_DATA = [
     "Condutor": "Isabela Piazentini de Matos",
     "Data Hora": "28/10/2026 15:37",
     "VIDEOTELEMTRIA": "SIM",
-    "Itens Danificados": NaN,
+    "Itens Danificados": null,
     "Estado de Criticidade Veículo": "Leve(Liberado)",
     "Observacoes": "Sem avaria.",
     "ID COLABORADOR": "272510",
     "ID DO AVALIADOR(A)": "272740",
     "Abrir Os": "NÃO",
-    "Os": NaN,
-    "Abrir Os ": "NÃO"
+    "Os": null,
+    "Abrir Os ": "NÃO",
+    "Unnamed: 21": null
   },
   {
     "ID": "4015788",
@@ -28989,8 +30200,9 @@ const CHECKLIST_VEICULAR_DATA = [
     "ID COLABORADOR": "254120",
     "ID DO AVALIADOR(A)": "272640",
     "Abrir Os": "NÃO",
-    "Os": NaN,
-    "Abrir Os ": "NÃO"
+    "Os": null,
+    "Abrir Os ": "NÃO",
+    "Unnamed: 21": null
   },
   {
     "ID": "4015789",
@@ -29007,14 +30219,15 @@ const CHECKLIST_VEICULAR_DATA = [
     "Condutor": "Admir Xavier Cotrim ",
     "Data Hora": "29/10/2026 11:08",
     "VIDEOTELEMTRIA": "SIM",
-    "Itens Danificados": NaN,
+    "Itens Danificados": null,
     "Estado de Criticidade Veículo": "Leve(Liberado)",
     "Observacoes": "Sem avaria.",
     "ID COLABORADOR": "112150",
     "ID DO AVALIADOR(A)": "272640",
     "Abrir Os": "NÃO",
-    "Os": NaN,
-    "Abrir Os ": "NÃO"
+    "Os": null,
+    "Abrir Os ": "NÃO",
+    "Unnamed: 21": null
   },
   {
     "ID": "4015790",
@@ -29037,8 +30250,9 @@ const CHECKLIST_VEICULAR_DATA = [
     "ID COLABORADOR": "272830",
     "ID DO AVALIADOR(A)": "272640",
     "Abrir Os": "SIM",
-    "Os": NaN,
-    "Abrir Os ": "SIM"
+    "Os": null,
+    "Abrir Os ": "SIM",
+    "Unnamed: 21": null
   },
   {
     "ID": "4018723",
@@ -29061,8 +30275,9 @@ const CHECKLIST_VEICULAR_DATA = [
     "ID COLABORADOR": "283020",
     "ID DO AVALIADOR(A)": "272640",
     "Abrir Os": "NÃO",
-    "Os": NaN,
-    "Abrir Os ": "NÃO"
+    "Os": null,
+    "Abrir Os ": "NÃO",
+    "Unnamed: 21": null
   },
   {
     "ID": "4018724",
@@ -29085,8 +30300,9 @@ const CHECKLIST_VEICULAR_DATA = [
     "ID COLABORADOR": "266560",
     "ID DO AVALIADOR(A)": "272640",
     "Abrir Os": "NÃO",
-    "Os": NaN,
-    "Abrir Os ": "NÃO"
+    "Os": null,
+    "Abrir Os ": "NÃO",
+    "Unnamed: 21": null
   },
   {
     "ID": "4018725",
@@ -29103,14 +30319,15 @@ const CHECKLIST_VEICULAR_DATA = [
     "Condutor": "Eugenio de Paula Junior ",
     "Data Hora": "30/10/2026 07:29",
     "VIDEOTELEMTRIA": "SIM",
-    "Itens Danificados": NaN,
+    "Itens Danificados": null,
     "Estado de Criticidade Veículo": "Leve(Liberado)",
     "Observacoes": "Sem avaria.",
     "ID COLABORADOR": "63745",
     "ID DO AVALIADOR(A)": "272640",
     "Abrir Os": "NÃO",
-    "Os": NaN,
-    "Abrir Os ": "NÃO"
+    "Os": null,
+    "Abrir Os ": "NÃO",
+    "Unnamed: 21": null
   },
   {
     "ID": "4018726",
@@ -29133,8 +30350,9 @@ const CHECKLIST_VEICULAR_DATA = [
     "ID COLABORADOR": "279140",
     "ID DO AVALIADOR(A)": "272640",
     "Abrir Os": "NÃO",
-    "Os": NaN,
-    "Abrir Os ": "NÃO"
+    "Os": null,
+    "Abrir Os ": "NÃO",
+    "Unnamed: 21": null
   },
   {
     "ID": "4018727",
@@ -29151,14 +30369,15 @@ const CHECKLIST_VEICULAR_DATA = [
     "Condutor": "José Ricardo do Carmo",
     "Data Hora": "30/10/2026 15:18",
     "VIDEOTELEMTRIA": "SIM",
-    "Itens Danificados": NaN,
+    "Itens Danificados": null,
     "Estado de Criticidade Veículo": "Moderado(Condutor notificado)",
     "Observacoes": "Risco na porta passageiro traseira lado direito.Amassado no parachoque traseiro.Parafuso no parachoque dianteiro.",
     "ID COLABORADOR": "84165",
     "ID DO AVALIADOR(A)": "272640",
     "Abrir Os": "NÃO",
-    "Os": NaN,
-    "Abrir Os ": "NÃO"
+    "Os": null,
+    "Abrir Os ": "NÃO",
+    "Unnamed: 21": null
   },
   {
     "ID": "4018728",
@@ -29175,14 +30394,15 @@ const CHECKLIST_VEICULAR_DATA = [
     "Condutor": "Reginaldo da Silva Gomes ",
     "Data Hora": "30/10/2026 15:32",
     "VIDEOTELEMTRIA": "SIM",
-    "Itens Danificados": NaN,
+    "Itens Danificados": null,
     "Estado de Criticidade Veículo": "Leve(Liberado)",
     "Observacoes": "Sem avaria.",
     "ID COLABORADOR": "208644",
     "ID DO AVALIADOR(A)": "272640",
     "Abrir Os": "NÃO",
-    "Os": NaN,
-    "Abrir Os ": "NÃO"
+    "Os": null,
+    "Abrir Os ": "NÃO",
+    "Unnamed: 21": null
   },
   {
     "ID": "4024147",
@@ -29199,14 +30419,15 @@ const CHECKLIST_VEICULAR_DATA = [
     "Condutor": "Tiago Damião Louzada ",
     "Data Hora": "03/11/2026 07:45",
     "VIDEOTELEMTRIA": "SIM",
-    "Itens Danificados": NaN,
+    "Itens Danificados": null,
     "Estado de Criticidade Veículo": "Leve(Liberado)",
     "Observacoes": "Sem avaria.",
     "ID COLABORADOR": "5",
     "ID DO AVALIADOR(A)": "272640",
     "Abrir Os": "NÃO",
-    "Os": NaN,
-    "Abrir Os ": "NÃO"
+    "Os": null,
+    "Abrir Os ": "NÃO",
+    "Unnamed: 21": null
   },
   {
     "ID": "4024148",
@@ -29223,14 +30444,15 @@ const CHECKLIST_VEICULAR_DATA = [
     "Condutor": "Joelcio Miranda Santos",
     "Data Hora": "03/11/2026 08:51",
     "VIDEOTELEMTRIA": "SIM",
-    "Itens Danificados": NaN,
+    "Itens Danificados": null,
     "Estado de Criticidade Veículo": "Leve(Liberado)",
     "Observacoes": "Sem avaria.",
     "ID COLABORADOR": "284200",
     "ID DO AVALIADOR(A)": "272640",
     "Abrir Os": "NÃO",
-    "Os": NaN,
-    "Abrir Os ": "NÃO"
+    "Os": null,
+    "Abrir Os ": "NÃO",
+    "Unnamed: 21": null
   },
   {
     "ID": "4024149",
@@ -29247,14 +30469,15 @@ const CHECKLIST_VEICULAR_DATA = [
     "Condutor": "Karolainy da Silva Roque ",
     "Data Hora": "03/11/2026 09:13",
     "VIDEOTELEMTRIA": "SIM",
-    "Itens Danificados": NaN,
+    "Itens Danificados": null,
     "Estado de Criticidade Veículo": "Leve(Liberado)",
     "Observacoes": "Sem avaria.",
     "ID COLABORADOR": "272590",
     "ID DO AVALIADOR(A)": "272640",
     "Abrir Os": "NÃO",
-    "Os": NaN,
-    "Abrir Os ": "NÃO"
+    "Os": null,
+    "Abrir Os ": "NÃO",
+    "Unnamed: 21": null
   },
   {
     "ID": "4024150",
@@ -29271,14 +30494,15 @@ const CHECKLIST_VEICULAR_DATA = [
     "Condutor": "Marco Ferreira dos Santos ",
     "Data Hora": "03/11/2026 10:37",
     "VIDEOTELEMTRIA": "SIM",
-    "Itens Danificados": NaN,
+    "Itens Danificados": null,
     "Estado de Criticidade Veículo": "Leve(Liberado)",
     "Observacoes": "Sem avaria.",
     "ID COLABORADOR": "115782",
     "ID DO AVALIADOR(A)": "272640",
     "Abrir Os": "NÃO",
-    "Os": NaN,
-    "Abrir Os ": "NÃO"
+    "Os": null,
+    "Abrir Os ": "NÃO",
+    "Unnamed: 21": null
   },
   {
     "ID": "4024151",
@@ -29295,14 +30519,15 @@ const CHECKLIST_VEICULAR_DATA = [
     "Condutor": "Jussara Soares de Souza ",
     "Data Hora": "03/11/2026 11:33",
     "VIDEOTELEMTRIA": "SIM",
-    "Itens Danificados": NaN,
+    "Itens Danificados": null,
     "Estado de Criticidade Veículo": "Leve(Liberado)",
     "Observacoes": "Sem avaria.",
     "ID COLABORADOR": "272640",
     "ID DO AVALIADOR(A)": "272640",
     "Abrir Os": "NÃO",
-    "Os": NaN,
-    "Abrir Os ": "NÃO"
+    "Os": null,
+    "Abrir Os ": "NÃO",
+    "Unnamed: 21": null
   },
   {
     "ID": "4024152",
@@ -29325,8 +30550,9 @@ const CHECKLIST_VEICULAR_DATA = [
     "ID COLABORADOR": "266930",
     "ID DO AVALIADOR(A)": "272640",
     "Abrir Os": "NÃO",
-    "Os": NaN,
-    "Abrir Os ": "NÃO"
+    "Os": null,
+    "Abrir Os ": "NÃO",
+    "Unnamed: 21": null
   },
   {
     "ID": "4024154",
@@ -29343,14 +30569,15 @@ const CHECKLIST_VEICULAR_DATA = [
     "Condutor": "Josni Adriano Silva",
     "Data Hora": "03/11/2026 15:18",
     "VIDEOTELEMTRIA": "SIM",
-    "Itens Danificados": NaN,
+    "Itens Danificados": null,
     "Estado de Criticidade Veículo": "Leve(Liberado)",
     "Observacoes": "Sem avaria.",
     "ID COLABORADOR": "198420",
     "ID DO AVALIADOR(A)": "272640",
     "Abrir Os": "NÃO",
-    "Os": NaN,
-    "Abrir Os ": "NÃO"
+    "Os": null,
+    "Abrir Os ": "NÃO",
+    "Unnamed: 21": null
   },
   {
     "ID": "4024155",
@@ -29367,14 +30594,15 @@ const CHECKLIST_VEICULAR_DATA = [
     "Condutor": "Agnaldo de Oliveira ",
     "Data Hora": "03/11/2026 15:23",
     "VIDEOTELEMTRIA": "SIM",
-    "Itens Danificados": NaN,
+    "Itens Danificados": null,
     "Estado de Criticidade Veículo": "Leve(Liberado)",
     "Observacoes": "Sem avaria.",
     "ID COLABORADOR": "281460",
     "ID DO AVALIADOR(A)": "272640",
     "Abrir Os": "NÃO",
-    "Os": NaN,
-    "Abrir Os ": "NÃO"
+    "Os": null,
+    "Abrir Os ": "NÃO",
+    "Unnamed: 21": null
   },
   {
     "ID": "4024156",
@@ -29397,8 +30625,9 @@ const CHECKLIST_VEICULAR_DATA = [
     "ID COLABORADOR": "270270",
     "ID DO AVALIADOR(A)": "272640",
     "Abrir Os": "NÃO",
-    "Os": NaN,
-    "Abrir Os ": "NÃO"
+    "Os": null,
+    "Abrir Os ": "NÃO",
+    "Unnamed: 21": null
   },
   {
     "ID": "4028686",
@@ -29421,8 +30650,9 @@ const CHECKLIST_VEICULAR_DATA = [
     "ID COLABORADOR": "81103",
     "ID DO AVALIADOR(A)": "272640",
     "Abrir Os": "NÃO",
-    "Os": NaN,
-    "Abrir Os ": "NÃO"
+    "Os": null,
+    "Abrir Os ": "NÃO",
+    "Unnamed: 21": null
   },
   {
     "ID": "4028687",
@@ -29445,8 +30675,9 @@ const CHECKLIST_VEICULAR_DATA = [
     "ID COLABORADOR": "269710",
     "ID DO AVALIADOR(A)": "272640",
     "Abrir Os": "NÃO",
-    "Os": NaN,
-    "Abrir Os ": "NÃO"
+    "Os": null,
+    "Abrir Os ": "NÃO",
+    "Unnamed: 21": null
   },
   {
     "ID": "4028688",
@@ -29463,14 +30694,15 @@ const CHECKLIST_VEICULAR_DATA = [
     "Condutor": "Diego Rafael da Silva",
     "Data Hora": "04/11/2026 09:01",
     "VIDEOTELEMTRIA": "SIM",
-    "Itens Danificados": NaN,
+    "Itens Danificados": null,
     "Estado de Criticidade Veículo": "Leve(Liberado)",
     "Observacoes": "Sem avaria.",
     "ID COLABORADOR": "284440",
     "ID DO AVALIADOR(A)": "272640",
     "Abrir Os": "NÃO",
-    "Os": NaN,
-    "Abrir Os ": "NÃO"
+    "Os": null,
+    "Abrir Os ": "NÃO",
+    "Unnamed: 21": null
   },
   {
     "ID": "4028689",
@@ -29487,14 +30719,15 @@ const CHECKLIST_VEICULAR_DATA = [
     "Condutor": "João Jesus Ferreira ",
     "Data Hora": "04/11/2026 09:09",
     "VIDEOTELEMTRIA": "SIM",
-    "Itens Danificados": NaN,
+    "Itens Danificados": null,
     "Estado de Criticidade Veículo": "Leve(Liberado)",
     "Observacoes": "Sem avaria.",
     "ID COLABORADOR": "179103",
     "ID DO AVALIADOR(A)": "272640",
     "Abrir Os": "NÃO",
-    "Os": NaN,
-    "Abrir Os ": "NÃO"
+    "Os": null,
+    "Abrir Os ": "NÃO",
+    "Unnamed: 21": null
   },
   {
     "ID": "4028690",
@@ -29511,14 +30744,15 @@ const CHECKLIST_VEICULAR_DATA = [
     "Condutor": "Jhonnes Alves Moura ",
     "Data Hora": "04/11/2026 09:14",
     "VIDEOTELEMTRIA": "NÃO",
-    "Itens Danificados": NaN,
+    "Itens Danificados": null,
     "Estado de Criticidade Veículo": "Leve(Liberado)",
     "Observacoes": "Sem avaria.",
     "ID COLABORADOR": "212301",
     "ID DO AVALIADOR(A)": "272640",
     "Abrir Os": "NÃO",
-    "Os": NaN,
-    "Abrir Os ": "NÃO"
+    "Os": null,
+    "Abrir Os ": "NÃO",
+    "Unnamed: 21": null
   },
   {
     "ID": "4028691",
@@ -29530,19 +30764,20 @@ const CHECKLIST_VEICULAR_DATA = [
     "Data Fim": "04/11/2026 13:08",
     "Status": "Open",
     "Score": "0.0",
-    "Frota": NaN,
+    "Frota": null,
     "GESTORES": "RAFAEL AP. FARRA ROGRIGUES",
     "Condutor": "Giliard Tavares ",
     "Data Hora": "04/11/2026 11:02",
     "VIDEOTELEMTRIA": "SIM",
-    "Itens Danificados": NaN,
+    "Itens Danificados": null,
     "Estado de Criticidade Veículo": "Leve(Liberado)",
     "Observacoes": "Frota: 469426",
     "ID COLABORADOR": "260700",
     "ID DO AVALIADOR(A)": "272640",
     "Abrir Os": "NÃO",
-    "Os": NaN,
-    "Abrir Os ": "NÃO"
+    "Os": null,
+    "Abrir Os ": "NÃO",
+    "Unnamed: 21": null
   },
   {
     "ID": "4028692",
@@ -29559,14 +30794,15 @@ const CHECKLIST_VEICULAR_DATA = [
     "Condutor": "Edmar Luis Ferreira",
     "Data Hora": "04/11/2026 15:03",
     "VIDEOTELEMTRIA": "SIM",
-    "Itens Danificados": NaN,
+    "Itens Danificados": null,
     "Estado de Criticidade Veículo": "Leve(Liberado)",
     "Observacoes": "Sem avaria.",
     "ID COLABORADOR": "JBA",
     "ID DO AVALIADOR(A)": "272640",
     "Abrir Os": "NÃO",
-    "Os": NaN,
-    "Abrir Os ": "NÃO"
+    "Os": null,
+    "Abrir Os ": "NÃO",
+    "Unnamed: 21": null
   },
   {
     "ID": "4028693",
@@ -29583,14 +30819,15 @@ const CHECKLIST_VEICULAR_DATA = [
     "Condutor": "Fábio Juno Ferreira Barboza ",
     "Data Hora": "04/11/2026 15:07",
     "VIDEOTELEMTRIA": "SIM",
-    "Itens Danificados": NaN,
+    "Itens Danificados": null,
     "Estado de Criticidade Veículo": "Leve(Liberado)",
     "Observacoes": "Sem avaria.",
     "ID COLABORADOR": "189200",
     "ID DO AVALIADOR(A)": "272640",
     "Abrir Os": "NÃO",
-    "Os": NaN,
-    "Abrir Os ": "NÃO"
+    "Os": null,
+    "Abrir Os ": "NÃO",
+    "Unnamed: 21": null
   },
   {
     "ID": "4028694",
@@ -29607,14 +30844,15 @@ const CHECKLIST_VEICULAR_DATA = [
     "Condutor": "Wender Divino Siqueira ",
     "Data Hora": "04/11/2026 15:12",
     "VIDEOTELEMTRIA": "SIM",
-    "Itens Danificados": NaN,
+    "Itens Danificados": null,
     "Estado de Criticidade Veículo": "Moderado(Condutor notificado)",
     "Observacoes": "Capa do retrovisor esquerdo (quebrada)",
     "ID COLABORADOR": "283020",
     "ID DO AVALIADOR(A)": "272640",
     "Abrir Os": "NÃO",
-    "Os": NaN,
-    "Abrir Os ": "NÃO"
+    "Os": null,
+    "Abrir Os ": "NÃO",
+    "Unnamed: 21": null
   },
   {
     "ID": "4028695",
@@ -29631,14 +30869,15 @@ const CHECKLIST_VEICULAR_DATA = [
     "Condutor": "João Jesus Ferreira ",
     "Data Hora": "04/11/2026 15:38",
     "VIDEOTELEMTRIA": "NÃO",
-    "Itens Danificados": NaN,
+    "Itens Danificados": null,
     "Estado de Criticidade Veículo": "Leve(Liberado)",
     "Observacoes": "Sem avaria.",
     "ID COLABORADOR": "179103",
     "ID DO AVALIADOR(A)": "272640",
     "Abrir Os": "NÃO",
-    "Os": NaN,
-    "Abrir Os ": "NÃO"
+    "Os": null,
+    "Abrir Os ": "NÃO",
+    "Unnamed: 21": null
   },
   {
     "ID": "4028696",
@@ -29655,14 +30894,15 @@ const CHECKLIST_VEICULAR_DATA = [
     "Condutor": "Daniel Assunção ",
     "Data Hora": "04/11/2026 15:48",
     "VIDEOTELEMTRIA": "SIM",
-    "Itens Danificados": NaN,
+    "Itens Danificados": null,
     "Estado de Criticidade Veículo": "Leve(Liberado)",
     "Observacoes": "Sem avaria.",
-    "ID COLABORADOR": NaN,
+    "ID COLABORADOR": null,
     "ID DO AVALIADOR(A)": "272640",
     "Abrir Os": "NÃO",
-    "Os": NaN,
-    "Abrir Os ": "NÃO"
+    "Os": null,
+    "Abrir Os ": "NÃO",
+    "Unnamed: 21": null
   },
   {
     "ID": "4028697",
@@ -29679,14 +30919,15 @@ const CHECKLIST_VEICULAR_DATA = [
     "Condutor": "João Jesus Ferreira ",
     "Data Hora": "04/11/2026 16:18",
     "VIDEOTELEMTRIA": "SIM",
-    "Itens Danificados": NaN,
+    "Itens Danificados": null,
     "Estado de Criticidade Veículo": "Leve(Liberado)",
     "Observacoes": "Sem avaria.",
     "ID COLABORADOR": "179103",
     "ID DO AVALIADOR(A)": "272640",
     "Abrir Os": "NÃO",
-    "Os": NaN,
-    "Abrir Os ": "NÃO"
+    "Os": null,
+    "Abrir Os ": "NÃO",
+    "Unnamed: 21": null
   },
   {
     "ID": "4028698",
@@ -29703,14 +30944,15 @@ const CHECKLIST_VEICULAR_DATA = [
     "Condutor": "Jussara Soares de Souza ",
     "Data Hora": "05/11/2026 08:37",
     "VIDEOTELEMTRIA": "SIM",
-    "Itens Danificados": NaN,
+    "Itens Danificados": null,
     "Estado de Criticidade Veículo": "Leve(Liberado)",
     "Observacoes": "Sem avaria.",
     "ID COLABORADOR": "272640",
     "ID DO AVALIADOR(A)": "272640",
     "Abrir Os": "NÃO",
-    "Os": NaN,
-    "Abrir Os ": "NÃO"
+    "Os": null,
+    "Abrir Os ": "NÃO",
+    "Unnamed: 21": null
   },
   {
     "ID": "4031187",
@@ -29727,14 +30969,15 @@ const CHECKLIST_VEICULAR_DATA = [
     "Condutor": "Rogério Cezar Rodrigues ",
     "Data Hora": "05/11/2026 09:02",
     "VIDEOTELEMTRIA": "SIM",
-    "Itens Danificados": NaN,
+    "Itens Danificados": null,
     "Estado de Criticidade Veículo": "Moderado(Condutor notificado)",
     "Observacoes": "Amassado na tampa traseira;Amassado na porta motorista;Amassado no rodapé abaixo da porta passageiro;",
     "ID COLABORADOR": "278570",
     "ID DO AVALIADOR(A)": "272640",
     "Abrir Os": "NÃO",
-    "Os": NaN,
-    "Abrir Os ": "NÃO"
+    "Os": null,
+    "Abrir Os ": "NÃO",
+    "Unnamed: 21": null
   },
   {
     "ID": "4031188",
@@ -29751,14 +30994,15 @@ const CHECKLIST_VEICULAR_DATA = [
     "Condutor": "Antonio Marcos Ribeiro Ruas ",
     "Data Hora": "05/11/2026 09:14",
     "VIDEOTELEMTRIA": "SIM",
-    "Itens Danificados": NaN,
+    "Itens Danificados": null,
     "Estado de Criticidade Veículo": "Leve(Liberado)",
     "Observacoes": "Sem avaria.",
     "ID COLABORADOR": "183702",
     "ID DO AVALIADOR(A)": "272640",
     "Abrir Os": "NÃO",
-    "Os": NaN,
-    "Abrir Os ": "NÃO"
+    "Os": null,
+    "Abrir Os ": "NÃO",
+    "Unnamed: 21": null
   },
   {
     "ID": "4031189",
@@ -29775,14 +31019,15 @@ const CHECKLIST_VEICULAR_DATA = [
     "Condutor": "Luiz Alfredo de Souza ",
     "Data Hora": "06/11/2026 07:47",
     "VIDEOTELEMTRIA": "SIM",
-    "Itens Danificados": NaN,
+    "Itens Danificados": null,
     "Estado de Criticidade Veículo": "Leve(Liberado)",
     "Observacoes": "Sem avaria.",
     "ID COLABORADOR": "5423",
     "ID DO AVALIADOR(A)": "272640",
     "Abrir Os": "NÃO",
-    "Os": NaN,
-    "Abrir Os ": "NÃO"
+    "Os": null,
+    "Abrir Os ": "NÃO",
+    "Unnamed: 21": null
   },
   {
     "ID": "4031190",
@@ -29799,14 +31044,15 @@ const CHECKLIST_VEICULAR_DATA = [
     "Condutor": "Davi Freitas Ramos",
     "Data Hora": "06/11/2026 08:53",
     "VIDEOTELEMTRIA": "SIM",
-    "Itens Danificados": NaN,
+    "Itens Danificados": null,
     "Estado de Criticidade Veículo": "Leve(Liberado)",
     "Observacoes": "Sem avaria.",
     "ID COLABORADOR": "265970",
     "ID DO AVALIADOR(A)": "272640",
     "Abrir Os": "NÃO",
-    "Os": NaN,
-    "Abrir Os ": "NÃO"
+    "Os": null,
+    "Abrir Os ": "NÃO",
+    "Unnamed: 21": null
   },
   {
     "ID": "4035361",
@@ -29823,14 +31069,15 @@ const CHECKLIST_VEICULAR_DATA = [
     "Condutor": "Jonatas da Silva ",
     "Data Hora": "09/11/2026 07:43",
     "VIDEOTELEMTRIA": "SIM",
-    "Itens Danificados": NaN,
+    "Itens Danificados": null,
     "Estado de Criticidade Veículo": "Leve(Liberado)",
     "Observacoes": "Sem avaria.",
     "ID COLABORADOR": "279140",
     "ID DO AVALIADOR(A)": "272640",
     "Abrir Os": "NÃO",
-    "Os": NaN,
-    "Abrir Os ": "NÃO"
+    "Os": null,
+    "Abrir Os ": "NÃO",
+    "Unnamed: 21": null
   },
   {
     "ID": "4035362",
@@ -29847,14 +31094,15 @@ const CHECKLIST_VEICULAR_DATA = [
     "Condutor": "Wallason Soares Reges ",
     "Data Hora": "09/11/2026 07:50",
     "VIDEOTELEMTRIA": "SIM",
-    "Itens Danificados": NaN,
+    "Itens Danificados": null,
     "Estado de Criticidade Veículo": "Leve(Liberado)",
     "Observacoes": "Sem avaria.",
     "ID COLABORADOR": "1",
     "ID DO AVALIADOR(A)": "272640",
     "Abrir Os": "NÃO",
-    "Os": NaN,
-    "Abrir Os ": "NÃO"
+    "Os": null,
+    "Abrir Os ": "NÃO",
+    "Unnamed: 21": null
   },
   {
     "ID": "4035363",
@@ -29877,8 +31125,9 @@ const CHECKLIST_VEICULAR_DATA = [
     "ID COLABORADOR": "283110",
     "ID DO AVALIADOR(A)": "272640",
     "Abrir Os": "NÃO",
-    "Os": NaN,
-    "Abrir Os ": "NÃO"
+    "Os": null,
+    "Abrir Os ": "NÃO",
+    "Unnamed: 21": null
   },
   {
     "ID": "4035364",
@@ -29895,14 +31144,15 @@ const CHECKLIST_VEICULAR_DATA = [
     "Condutor": "Pedro Augusto Silva ",
     "Data Hora": "09/11/2026 07:59",
     "VIDEOTELEMTRIA": "SIM",
-    "Itens Danificados": NaN,
+    "Itens Danificados": null,
     "Estado de Criticidade Veículo": "Leve(Liberado)",
     "Observacoes": "Checklist pós manutenção: Concluído ",
     "ID COLABORADOR": "270270",
     "ID DO AVALIADOR(A)": "272640",
     "Abrir Os": "NÃO",
-    "Os": NaN,
-    "Abrir Os ": "NÃO"
+    "Os": null,
+    "Abrir Os ": "NÃO",
+    "Unnamed: 21": null
   },
   {
     "ID": "4035365",
@@ -29919,14 +31169,15 @@ const CHECKLIST_VEICULAR_DATA = [
     "Condutor": "Anderson Ricardo Ruaro ",
     "Data Hora": "09/11/2026 10:13",
     "VIDEOTELEMTRIA": "SIM",
-    "Itens Danificados": NaN,
+    "Itens Danificados": null,
     "Estado de Criticidade Veículo": "Leve(Liberado)",
     "Observacoes": "Sem avaria.",
     "ID COLABORADOR": "168907",
     "ID DO AVALIADOR(A)": "272640",
     "Abrir Os": "NÃO",
-    "Os": NaN,
-    "Abrir Os ": "NÃO"
+    "Os": null,
+    "Abrir Os ": "NÃO",
+    "Unnamed: 21": null
   },
   {
     "ID": "4035366",
@@ -29943,14 +31194,15 @@ const CHECKLIST_VEICULAR_DATA = [
     "Condutor": "Claudemir Teodoro de Toledo ",
     "Data Hora": "09/11/2026 10:34",
     "VIDEOTELEMTRIA": "SIM",
-    "Itens Danificados": NaN,
+    "Itens Danificados": null,
     "Estado de Criticidade Veículo": "Leve(Liberado)",
     "Observacoes": "Sem avaria.",
     "ID COLABORADOR": "48902",
     "ID DO AVALIADOR(A)": "272640",
     "Abrir Os": "NÃO",
-    "Os": NaN,
-    "Abrir Os ": "NÃO"
+    "Os": null,
+    "Abrir Os ": "NÃO",
+    "Unnamed: 21": null
   },
   {
     "ID": "4035368",
@@ -29967,14 +31219,15 @@ const CHECKLIST_VEICULAR_DATA = [
     "Condutor": "Fernando Antonio Saviolli Desie ",
     "Data Hora": "09/11/2026 10:46",
     "VIDEOTELEMTRIA": "SIM",
-    "Itens Danificados": NaN,
+    "Itens Danificados": null,
     "Estado de Criticidade Veículo": "Leve(Liberado)",
     "Observacoes": "Sem avaria.",
     "ID COLABORADOR": "244290",
     "ID DO AVALIADOR(A)": "272640",
     "Abrir Os": "NÃO",
-    "Os": NaN,
-    "Abrir Os ": "NÃO"
+    "Os": null,
+    "Abrir Os ": "NÃO",
+    "Unnamed: 21": null
   },
   {
     "ID": "4035369",
@@ -29997,8 +31250,9 @@ const CHECKLIST_VEICULAR_DATA = [
     "ID COLABORADOR": "275060",
     "ID DO AVALIADOR(A)": "272640",
     "Abrir Os": "NÃO",
-    "Os": NaN,
-    "Abrir Os ": "NÃO"
+    "Os": null,
+    "Abrir Os ": "NÃO",
+    "Unnamed: 21": null
   },
   {
     "ID": "4035370",
@@ -30015,14 +31269,15 @@ const CHECKLIST_VEICULAR_DATA = [
     "Condutor": "Onofre Evangelista da Silva Junior",
     "Data Hora": "09/11/2026 11:20",
     "VIDEOTELEMTRIA": "NÃO",
-    "Itens Danificados": NaN,
+    "Itens Danificados": null,
     "Estado de Criticidade Veículo": "Leve(Liberado)",
     "Observacoes": "Sem avaria.",
     "ID COLABORADOR": "163363",
     "ID DO AVALIADOR(A)": "272640",
     "Abrir Os": "NÃO",
-    "Os": NaN,
-    "Abrir Os ": "NÃO"
+    "Os": null,
+    "Abrir Os ": "NÃO",
+    "Unnamed: 21": null
   },
   {
     "ID": "4035371",
@@ -30039,14 +31294,15 @@ const CHECKLIST_VEICULAR_DATA = [
     "Condutor": "Elson Righeti Junior",
     "Data Hora": "09/11/2026 11:27",
     "VIDEOTELEMTRIA": "SIM",
-    "Itens Danificados": NaN,
+    "Itens Danificados": null,
     "Estado de Criticidade Veículo": "Leve(Liberado)",
     "Observacoes": "Sem avaria.",
-    "ID COLABORADOR": NaN,
+    "ID COLABORADOR": null,
     "ID DO AVALIADOR(A)": "272640",
     "Abrir Os": "NÃO",
-    "Os": NaN,
-    "Abrir Os ": "NÃO"
+    "Os": null,
+    "Abrir Os ": "NÃO",
+    "Unnamed: 21": null
   },
   {
     "ID": "4038370",
@@ -30069,8 +31325,9 @@ const CHECKLIST_VEICULAR_DATA = [
     "ID COLABORADOR": "262010",
     "ID DO AVALIADOR(A)": "272650",
     "Abrir Os": "NÃO",
-    "Os": NaN,
-    "Abrir Os ": "NÃO"
+    "Os": null,
+    "Abrir Os ": "NÃO",
+    "Unnamed: 21": null
   },
   {
     "ID": "4038371",
@@ -30093,8 +31350,9 @@ const CHECKLIST_VEICULAR_DATA = [
     "ID COLABORADOR": "251170",
     "ID DO AVALIADOR(A)": "272640",
     "Abrir Os": "NÃO",
-    "Os": NaN,
-    "Abrir Os ": "NÃO"
+    "Os": null,
+    "Abrir Os ": "NÃO",
+    "Unnamed: 21": null
   },
   {
     "ID": "4038372",
@@ -30117,8 +31375,9 @@ const CHECKLIST_VEICULAR_DATA = [
     "ID COLABORADOR": "284310",
     "ID DO AVALIADOR(A)": "272640",
     "Abrir Os": "NÃO",
-    "Os": NaN,
-    "Abrir Os ": "NÃO"
+    "Os": null,
+    "Abrir Os ": "NÃO",
+    "Unnamed: 21": null
   },
   {
     "ID": "4038373",
@@ -30135,14 +31394,15 @@ const CHECKLIST_VEICULAR_DATA = [
     "Condutor": "Joyce Rodrigues Rebouças ",
     "Data Hora": "10/11/2026 07:19",
     "VIDEOTELEMTRIA": "SIM",
-    "Itens Danificados": NaN,
+    "Itens Danificados": null,
     "Estado de Criticidade Veículo": "Moderado(Condutor notificado)",
     "Observacoes": "Amassado no porta malas;Risco em porta passageiro esquerda;",
     "ID COLABORADOR": "283700",
     "ID DO AVALIADOR(A)": "272640",
     "Abrir Os": "NÃO",
-    "Os": NaN,
-    "Abrir Os ": "NÃO"
+    "Os": null,
+    "Abrir Os ": "NÃO",
+    "Unnamed: 21": null
   },
   {
     "ID": "4038374",
@@ -30165,8 +31425,9 @@ const CHECKLIST_VEICULAR_DATA = [
     "ID COLABORADOR": "266560",
     "ID DO AVALIADOR(A)": "272640",
     "Abrir Os": "NÃO",
-    "Os": NaN,
-    "Abrir Os ": "NÃO"
+    "Os": null,
+    "Abrir Os ": "NÃO",
+    "Unnamed: 21": null
   },
   {
     "ID": "4038375",
@@ -30189,8 +31450,9 @@ const CHECKLIST_VEICULAR_DATA = [
     "ID COLABORADOR": "272830",
     "ID DO AVALIADOR(A)": "272640",
     "Abrir Os": "SIM",
-    "Os": NaN,
-    "Abrir Os ": "SIM"
+    "Os": null,
+    "Abrir Os ": "SIM",
+    "Unnamed: 21": null
   },
   {
     "ID": "4038376",
@@ -30207,14 +31469,15 @@ const CHECKLIST_VEICULAR_DATA = [
     "Condutor": "Admir Xavier Cotrim ",
     "Data Hora": "10/11/2026 09:52",
     "VIDEOTELEMTRIA": "SIM",
-    "Itens Danificados": NaN,
+    "Itens Danificados": null,
     "Estado de Criticidade Veículo": "Leve(Liberado)",
     "Observacoes": "Sem avaria.",
     "ID COLABORADOR": "112150",
     "ID DO AVALIADOR(A)": "272640",
     "Abrir Os": "NÃO",
-    "Os": NaN,
-    "Abrir Os ": "NÃO"
+    "Os": null,
+    "Abrir Os ": "NÃO",
+    "Unnamed: 21": null
   },
   {
     "ID": "4038377",
@@ -30237,8 +31500,9 @@ const CHECKLIST_VEICULAR_DATA = [
     "ID COLABORADOR": "157958",
     "ID DO AVALIADOR(A)": "272640",
     "Abrir Os": "NÃO",
-    "Os": NaN,
-    "Abrir Os ": "NÃO"
+    "Os": null,
+    "Abrir Os ": "NÃO",
+    "Unnamed: 21": null
   },
   {
     "ID": "4038378",
@@ -30255,14 +31519,15 @@ const CHECKLIST_VEICULAR_DATA = [
     "Condutor": "Jussara Soares de Souza ",
     "Data Hora": "10/11/2026 11:35",
     "VIDEOTELEMTRIA": "SIM",
-    "Itens Danificados": NaN,
+    "Itens Danificados": null,
     "Estado de Criticidade Veículo": "Leve(Liberado)",
     "Observacoes": "Sem avaria.",
     "ID COLABORADOR": "272740",
     "ID DO AVALIADOR(A)": "272640",
     "Abrir Os": "NÃO",
-    "Os": NaN,
-    "Abrir Os ": "NÃO"
+    "Os": null,
+    "Abrir Os ": "NÃO",
+    "Unnamed: 21": null
   },
   {
     "ID": "4038379",
@@ -30279,14 +31544,15 @@ const CHECKLIST_VEICULAR_DATA = [
     "Condutor": "Murilo Vanderlei Travani Afonso",
     "Data Hora": "10/11/2026 14:10",
     "VIDEOTELEMTRIA": "SIM",
-    "Itens Danificados": NaN,
+    "Itens Danificados": null,
     "Estado de Criticidade Veículo": "Leve(Liberado)",
     "Observacoes": "Sem avaria.",
     "ID COLABORADOR": "278680",
     "ID DO AVALIADOR(A)": "272640",
     "Abrir Os": "NÃO",
-    "Os": NaN,
-    "Abrir Os ": "NÃO"
+    "Os": null,
+    "Abrir Os ": "NÃO",
+    "Unnamed: 21": null
   },
   {
     "ID": "4038380",
@@ -30306,11 +31572,12 @@ const CHECKLIST_VEICULAR_DATA = [
     "Itens Danificados": "16. Ar-Condicionado  ",
     "Estado de Criticidade Veículo": "Moderado(Condutor notificado)",
     "Observacoes": "Ar condicionado (não está gelando)",
-    "ID COLABORADOR": NaN,
+    "ID COLABORADOR": null,
     "ID DO AVALIADOR(A)": "272640",
     "Abrir Os": "NÃO",
-    "Os": NaN,
-    "Abrir Os ": "NÃO"
+    "Os": null,
+    "Abrir Os ": "NÃO",
+    "Unnamed: 21": null
   },
   {
     "ID": "4042277",
@@ -30327,14 +31594,15 @@ const CHECKLIST_VEICULAR_DATA = [
     "Condutor": "Henrique Mendes Ferreira ",
     "Data Hora": "11/11/2026 07:28",
     "VIDEOTELEMTRIA": "SIM",
-    "Itens Danificados": NaN,
+    "Itens Danificados": null,
     "Estado de Criticidade Veículo": "Leve(Liberado)",
     "Observacoes": "Sem avaria.",
     "ID COLABORADOR": "277030",
     "ID DO AVALIADOR(A)": "272640",
     "Abrir Os": "NÃO",
-    "Os": NaN,
-    "Abrir Os ": "NÃO"
+    "Os": null,
+    "Abrir Os ": "NÃO",
+    "Unnamed: 21": null
   },
   {
     "ID": "4042278",
@@ -30351,14 +31619,15 @@ const CHECKLIST_VEICULAR_DATA = [
     "Condutor": "Vitória Fonseca de Carvalho ",
     "Data Hora": "11/11/2026 08:51",
     "VIDEOTELEMTRIA": "SIM",
-    "Itens Danificados": NaN,
+    "Itens Danificados": null,
     "Estado de Criticidade Veículo": "Leve(Liberado)",
     "Observacoes": "Checklist pós manutenção: Concluído.",
     "ID COLABORADOR": "277030",
     "ID DO AVALIADOR(A)": "272640",
     "Abrir Os": "NÃO",
-    "Os": NaN,
-    "Abrir Os ": "NÃO"
+    "Os": null,
+    "Abrir Os ": "NÃO",
+    "Unnamed: 21": null
   },
   {
     "ID": "4042280",
@@ -30381,8 +31650,9 @@ const CHECKLIST_VEICULAR_DATA = [
     "ID COLABORADOR": "254120",
     "ID DO AVALIADOR(A)": "272640",
     "Abrir Os": "NÃO",
-    "Os": NaN,
-    "Abrir Os ": "NÃO"
+    "Os": null,
+    "Abrir Os ": "NÃO",
+    "Unnamed: 21": null
   },
   {
     "ID": "4042281",
@@ -30405,8 +31675,9 @@ const CHECKLIST_VEICULAR_DATA = [
     "ID COLABORADOR": "223724",
     "ID DO AVALIADOR(A)": "272640",
     "Abrir Os": "NÃO",
-    "Os": NaN,
-    "Abrir Os ": "NÃO"
+    "Os": null,
+    "Abrir Os ": "NÃO",
+    "Unnamed: 21": null
   },
   {
     "ID": "4042282",
@@ -30423,14 +31694,15 @@ const CHECKLIST_VEICULAR_DATA = [
     "Condutor": "Alessandro da Silva ",
     "Data Hora": "11/11/2026 11:21",
     "VIDEOTELEMTRIA": "SIM",
-    "Itens Danificados": NaN,
+    "Itens Danificados": null,
     "Estado de Criticidade Veículo": "Leve(Liberado)",
     "Observacoes": "Sem avaria.",
     "ID COLABORADOR": "262010",
     "ID DO AVALIADOR(A)": "272640",
     "Abrir Os": "NÃO",
-    "Os": NaN,
-    "Abrir Os ": "NÃO"
+    "Os": null,
+    "Abrir Os ": "NÃO",
+    "Unnamed: 21": null
   },
   {
     "ID": "4042283",
@@ -30447,14 +31719,15 @@ const CHECKLIST_VEICULAR_DATA = [
     "Condutor": "Alessandro da Silva ",
     "Data Hora": "11/11/2026 11:35",
     "VIDEOTELEMTRIA": "SIM",
-    "Itens Danificados": NaN,
+    "Itens Danificados": null,
     "Estado de Criticidade Veículo": "Leve(Liberado)",
     "Observacoes": "Sem avaria.",
     "ID COLABORADOR": "262010",
     "ID DO AVALIADOR(A)": "272640",
     "Abrir Os": "NÃO",
-    "Os": NaN,
-    "Abrir Os ": "NÃO"
+    "Os": null,
+    "Abrir Os ": "NÃO",
+    "Unnamed: 21": null
   },
   {
     "ID": "4042284",
@@ -30471,14 +31744,15 @@ const CHECKLIST_VEICULAR_DATA = [
     "Condutor": "José Ricardo do Carmo ",
     "Data Hora": "11/11/2026 16:40",
     "VIDEOTELEMTRIA": "SIM",
-    "Itens Danificados": NaN,
+    "Itens Danificados": null,
     "Estado de Criticidade Veículo": "Moderado(Condutor notificado)",
     "Observacoes": "Risco profundo porta passageiro traseira lado direito.Amassado em parachoque traseiro.",
     "ID COLABORADOR": "84165",
     "ID DO AVALIADOR(A)": "272640",
     "Abrir Os": "NÃO",
-    "Os": NaN,
-    "Abrir Os ": "NÃO"
+    "Os": null,
+    "Abrir Os ": "NÃO",
+    "Unnamed: 21": null
   },
   {
     "ID": "4048116",
@@ -30495,14 +31769,15 @@ const CHECKLIST_VEICULAR_DATA = [
     "Condutor": "Jussara Soares de Souza ",
     "Data Hora": "13/11/2026 11:36",
     "VIDEOTELEMTRIA": "SIM",
-    "Itens Danificados": NaN,
+    "Itens Danificados": null,
     "Estado de Criticidade Veículo": "Leve(Liberado)",
     "Observacoes": "Sem avaria.",
     "ID COLABORADOR": "272640",
     "ID DO AVALIADOR(A)": "272640",
     "Abrir Os": "NÃO",
-    "Os": NaN,
-    "Abrir Os ": NaN
+    "Os": null,
+    "Abrir Os ": null,
+    "Unnamed: 21": null
   },
   {
     "ID": "4048117",
@@ -30519,14 +31794,15 @@ const CHECKLIST_VEICULAR_DATA = [
     "Condutor": "Reginaldo da Silva Gomes ",
     "Data Hora": "13/11/2026 15:43",
     "VIDEOTELEMTRIA": "SIM",
-    "Itens Danificados": NaN,
+    "Itens Danificados": null,
     "Estado de Criticidade Veículo": "Leve(Liberado)",
     "Observacoes": "Sem avaria.",
     "ID COLABORADOR": "208644",
     "ID DO AVALIADOR(A)": "272640",
     "Abrir Os": "NÃO",
-    "Os": NaN,
-    "Abrir Os ": NaN
+    "Os": null,
+    "Abrir Os ": null,
+    "Unnamed: 21": null
   },
   {
     "ID": "4048118",
@@ -30538,19 +31814,20 @@ const CHECKLIST_VEICULAR_DATA = [
     "Data Fim": "13/11/2026 16:04",
     "Status": "Open",
     "Score": "0.00",
-    "Frota": NaN,
+    "Frota": null,
     "GESTORES": "RAFAEL AP. FARRA ROGRIGUES",
     "Condutor": "Paulo Henrique Cardoso da Silva ",
     "Data Hora": "13/11/2026 16:01",
     "VIDEOTELEMTRIA": "SIM",
-    "Itens Danificados": NaN,
+    "Itens Danificados": null,
     "Estado de Criticidade Veículo": "Leve(Liberado)",
     "Observacoes": "Frota: 469426\nSem avaria.",
     "ID COLABORADOR": "284510",
     "ID DO AVALIADOR(A)": "272640",
     "Abrir Os": "NÃO",
-    "Os": NaN,
-    "Abrir Os ": NaN
+    "Os": null,
+    "Abrir Os ": null,
+    "Unnamed: 21": null
   },
   {
     "ID": "4047158",
@@ -30567,14 +31844,15 @@ const CHECKLIST_VEICULAR_DATA = [
     "Condutor": "Admir Xavier Cotrim ",
     "Data Hora": "12/11/2026 09:06",
     "VIDEOTELEMTRIA": "SIM",
-    "Itens Danificados": NaN,
+    "Itens Danificados": null,
     "Estado de Criticidade Veículo": "Leve(Liberado)",
     "Observacoes": "Sem avaria.",
     "ID COLABORADOR": "112150",
     "ID DO AVALIADOR(A)": "272640",
     "Abrir Os": "NÃO",
-    "Os": NaN,
-    "Abrir Os ": NaN
+    "Os": null,
+    "Abrir Os ": null,
+    "Unnamed: 21": null
   },
   {
     "ID": "4047159",
@@ -30591,14 +31869,15 @@ const CHECKLIST_VEICULAR_DATA = [
     "Condutor": "Agnaldo de Oliveira ",
     "Data Hora": "12/11/2026 10:16",
     "VIDEOTELEMTRIA": "SIM",
-    "Itens Danificados": NaN,
+    "Itens Danificados": null,
     "Estado de Criticidade Veículo": "Leve(Liberado)",
     "Observacoes": "Sem avaria.",
     "ID COLABORADOR": "281460",
     "ID DO AVALIADOR(A)": "272740",
     "Abrir Os": "NÃO",
-    "Os": NaN,
-    "Abrir Os ": NaN
+    "Os": null,
+    "Abrir Os ": null,
+    "Unnamed: 21": null
   },
   {
     "ID": "4047160",
@@ -30621,8 +31900,9 @@ const CHECKLIST_VEICULAR_DATA = [
     "ID COLABORADOR": "81103",
     "ID DO AVALIADOR(A)": "272640",
     "Abrir Os": "NÃO",
-    "Os": NaN,
-    "Abrir Os ": NaN
+    "Os": null,
+    "Abrir Os ": null,
+    "Unnamed: 21": null
   },
   {
     "ID": "4047161",
@@ -30639,14 +31919,15 @@ const CHECKLIST_VEICULAR_DATA = [
     "Condutor": "Antonio Benedito Cassezi ",
     "Data Hora": "13/11/2026 11:20",
     "VIDEOTELEMTRIA": "SIM",
-    "Itens Danificados": NaN,
+    "Itens Danificados": null,
     "Estado de Criticidade Veículo": "Leve(Liberado)",
     "Observacoes": "Sem avaria.",
     "ID COLABORADOR": "96520",
     "ID DO AVALIADOR(A)": "272640",
     "Abrir Os": "NÃO",
-    "Os": NaN,
-    "Abrir Os ": NaN
+    "Os": null,
+    "Abrir Os ": null,
+    "Unnamed: 21": null
   },
   {
     "ID": "4053628",
@@ -30663,14 +31944,15 @@ const CHECKLIST_VEICULAR_DATA = [
     "Condutor": "Karolainy da Silva Roque ",
     "Data Hora": "16/11/2026 09:25",
     "VIDEOTELEMTRIA": "SIM",
-    "Itens Danificados": NaN,
+    "Itens Danificados": null,
     "Estado de Criticidade Veículo": "Leve(Liberado)",
     "Observacoes": "Sem avaria.",
     "ID COLABORADOR": "272590",
     "ID DO AVALIADOR(A)": "272640",
     "Abrir Os": "NÃO",
-    "Os": NaN,
-    "Abrir Os ": NaN
+    "Os": null,
+    "Abrir Os ": null,
+    "Unnamed: 21": null
   },
   {
     "ID": "4053629",
@@ -30687,14 +31969,15 @@ const CHECKLIST_VEICULAR_DATA = [
     "Condutor": "Nicolas Tonani Garoni",
     "Data Hora": "16/11/2026 13:02",
     "VIDEOTELEMTRIA": "SIM",
-    "Itens Danificados": NaN,
+    "Itens Danificados": null,
     "Estado de Criticidade Veículo": "Leve(Liberado)",
     "Observacoes": "Sem avaria.",
     "ID COLABORADOR": "240500",
     "ID DO AVALIADOR(A)": "272640",
     "Abrir Os": "NÃO",
-    "Os": NaN,
-    "Abrir Os ": NaN
+    "Os": null,
+    "Abrir Os ": null,
+    "Unnamed: 21": null
   },
   {
     "ID": "4053630",
@@ -30711,14 +31994,15 @@ const CHECKLIST_VEICULAR_DATA = [
     "Condutor": "Pedro Augusto Silva ",
     "Data Hora": "16/11/2026 14:14",
     "VIDEOTELEMTRIA": "SIM",
-    "Itens Danificados": NaN,
+    "Itens Danificados": null,
     "Estado de Criticidade Veículo": "Leve(Liberado)",
     "Observacoes": "Sem avaria.",
     "ID COLABORADOR": "270270",
     "ID DO AVALIADOR(A)": "272640",
     "Abrir Os": "NÃO",
-    "Os": NaN,
-    "Abrir Os ": NaN
+    "Os": null,
+    "Abrir Os ": null,
+    "Unnamed: 21": null
   },
   {
     "ID": "4053637",
@@ -30735,14 +32019,15 @@ const CHECKLIST_VEICULAR_DATA = [
     "Condutor": "Reginaldo Fernando Mantovani ",
     "Data Hora": "16/11/2026 14:42",
     "VIDEOTELEMTRIA": "SIM",
-    "Itens Danificados": NaN,
+    "Itens Danificados": null,
     "Estado de Criticidade Veículo": "Leve(Liberado)",
     "Observacoes": "Sem avaria.",
     "ID COLABORADOR": "260910",
     "ID DO AVALIADOR(A)": "272640",
     "Abrir Os": "NÃO",
-    "Os": NaN,
-    "Abrir Os ": NaN
+    "Os": null,
+    "Abrir Os ": null,
+    "Unnamed: 21": null
   },
   {
     "ID": "4053655",
@@ -30759,14 +32044,15 @@ const CHECKLIST_VEICULAR_DATA = [
     "Condutor": "Fabiano Henrique da Silva Cruz",
     "Data Hora": "16/11/2026 15:15",
     "VIDEOTELEMTRIA": "SIM",
-    "Itens Danificados": NaN,
+    "Itens Danificados": null,
     "Estado de Criticidade Veículo": "Leve(Liberado)",
     "Observacoes": "Sem avaria.",
     "ID COLABORADOR": "281920",
     "ID DO AVALIADOR(A)": "272640",
     "Abrir Os": "NÃO",
-    "Os": NaN,
-    "Abrir Os ": NaN
+    "Os": null,
+    "Abrir Os ": null,
+    "Unnamed: 21": null
   },
   {
     "ID": "4053688",
@@ -30783,14 +32069,15 @@ const CHECKLIST_VEICULAR_DATA = [
     "Condutor": "José Ferreira da Silva",
     "Data Hora": "16/11/2026 15:26",
     "VIDEOTELEMTRIA": "SIM",
-    "Itens Danificados": NaN,
+    "Itens Danificados": null,
     "Estado de Criticidade Veículo": "Leve(Liberado)",
     "Observacoes": "Sem avaria.",
     "ID COLABORADOR": "283070",
     "ID DO AVALIADOR(A)": "272640",
     "Abrir Os": "NÃO",
-    "Os": NaN,
-    "Abrir Os ": NaN
+    "Os": null,
+    "Abrir Os ": null,
+    "Unnamed: 21": null
   },
   {
     "ID": "4053689",
@@ -30807,14 +32094,15 @@ const CHECKLIST_VEICULAR_DATA = [
     "Condutor": "Wallason Soares Reges ",
     "Data Hora": "16/11/2026 15:29",
     "VIDEOTELEMTRIA": "SIM",
-    "Itens Danificados": NaN,
+    "Itens Danificados": null,
     "Estado de Criticidade Veículo": "Leve(Liberado)",
     "Observacoes": "Sem avaria.",
     "ID COLABORADOR": "1",
     "ID DO AVALIADOR(A)": "272640",
     "Abrir Os": "NÃO",
-    "Os": NaN,
-    "Abrir Os ": NaN
+    "Os": null,
+    "Abrir Os ": null,
+    "Unnamed: 21": null
   },
   {
     "ID": "4053690",
@@ -30831,14 +32119,15 @@ const CHECKLIST_VEICULAR_DATA = [
     "Condutor": "Davi Freitas Ramos ",
     "Data Hora": "16/11/2026 15:34",
     "VIDEOTELEMTRIA": "SIM",
-    "Itens Danificados": NaN,
+    "Itens Danificados": null,
     "Estado de Criticidade Veículo": "Leve(Liberado)",
     "Observacoes": "Sem avaria.",
     "ID COLABORADOR": "265970",
     "ID DO AVALIADOR(A)": "272640",
     "Abrir Os": "NÃO",
-    "Os": NaN,
-    "Abrir Os ": NaN
+    "Os": null,
+    "Abrir Os ": null,
+    "Unnamed: 21": null
   },
   {
     "ID": "4058549",
@@ -30855,14 +32144,15 @@ const CHECKLIST_VEICULAR_DATA = [
     "Condutor": "Juraci Rodrigues dos Santos ",
     "Data Hora": "18/11/2026 15:20",
     "VIDEOTELEMTRIA": "SIM",
-    "Itens Danificados": NaN,
+    "Itens Danificados": null,
     "Estado de Criticidade Veículo": "Leve(Liberado)",
     "Observacoes": "Sem avaria.",
     "ID COLABORADOR": "32074",
     "ID DO AVALIADOR(A)": "272640",
     "Abrir Os": "NÃO",
-    "Os": NaN,
-    "Abrir Os ": NaN
+    "Os": null,
+    "Abrir Os ": null,
+    "Unnamed: 21": null
   },
   {
     "ID": "4058542",
@@ -30879,14 +32169,15 @@ const CHECKLIST_VEICULAR_DATA = [
     "Condutor": "Camilo Barbosa Batista",
     "Data Hora": "17/11/2026 07:35",
     "VIDEOTELEMTRIA": "SIM",
-    "Itens Danificados": NaN,
+    "Itens Danificados": null,
     "Estado de Criticidade Veículo": "Leve(Liberado)",
     "Observacoes": "Sem avaria.",
     "ID COLABORADOR": "283030",
     "ID DO AVALIADOR(A)": "272640",
     "Abrir Os": "NÃO",
-    "Os": NaN,
-    "Abrir Os ": NaN
+    "Os": null,
+    "Abrir Os ": null,
+    "Unnamed: 21": null
   },
   {
     "ID": "4058543",
@@ -30903,14 +32194,15 @@ const CHECKLIST_VEICULAR_DATA = [
     "Condutor": "Gilmar Rebouças ",
     "Data Hora": "17/11/2026 09:44",
     "VIDEOTELEMTRIA": "NÃO",
-    "Itens Danificados": NaN,
+    "Itens Danificados": null,
     "Estado de Criticidade Veículo": "Leve(Liberado)",
     "Observacoes": "Sem avaria.",
     "ID COLABORADOR": "PJ",
     "ID DO AVALIADOR(A)": "272640",
     "Abrir Os": "NÃO",
-    "Os": NaN,
-    "Abrir Os ": NaN
+    "Os": null,
+    "Abrir Os ": null,
+    "Unnamed: 21": null
   },
   {
     "ID": "4058544",
@@ -30927,14 +32219,15 @@ const CHECKLIST_VEICULAR_DATA = [
     "Condutor": "Anderson Henrique Simão ",
     "Data Hora": "17/11/2026 09:52",
     "VIDEOTELEMTRIA": "SIM",
-    "Itens Danificados": NaN,
+    "Itens Danificados": null,
     "Estado de Criticidade Veículo": "Leve(Liberado)",
     "Observacoes": "Sem avaria.",
     "ID COLABORADOR": "251390",
     "ID DO AVALIADOR(A)": "272640",
     "Abrir Os": "NÃO",
-    "Os": NaN,
-    "Abrir Os ": NaN
+    "Os": null,
+    "Abrir Os ": null,
+    "Unnamed: 21": null
   },
   {
     "ID": "4058545",
@@ -30951,14 +32244,15 @@ const CHECKLIST_VEICULAR_DATA = [
     "Condutor": "César Fabiano Mineiro ",
     "Data Hora": "17/11/2026 13:44",
     "VIDEOTELEMTRIA": "SIM",
-    "Itens Danificados": NaN,
+    "Itens Danificados": null,
     "Estado de Criticidade Veículo": "Leve(Liberado)",
     "Observacoes": "Sem avaria.",
     "ID COLABORADOR": "2100",
     "ID DO AVALIADOR(A)": "272640",
     "Abrir Os": "NÃO",
-    "Os": NaN,
-    "Abrir Os ": NaN
+    "Os": null,
+    "Abrir Os ": null,
+    "Unnamed: 21": null
   },
   {
     "ID": "4058546",
@@ -30975,14 +32269,15 @@ const CHECKLIST_VEICULAR_DATA = [
     "Condutor": "Ricardo Aparecido da Silva",
     "Data Hora": "17/11/2026 16:25",
     "VIDEOTELEMTRIA": "SIM",
-    "Itens Danificados": NaN,
+    "Itens Danificados": null,
     "Estado de Criticidade Veículo": "Leve(Liberado)",
     "Observacoes": "Sem avaria.",
     "ID COLABORADOR": "111909",
     "ID DO AVALIADOR(A)": "272640",
     "Abrir Os": "NÃO",
-    "Os": NaN,
-    "Abrir Os ": NaN
+    "Os": null,
+    "Abrir Os ": null,
+    "Unnamed: 21": null
   },
   {
     "ID": "4058547",
@@ -31005,8 +32300,9 @@ const CHECKLIST_VEICULAR_DATA = [
     "ID COLABORADOR": "279030",
     "ID DO AVALIADOR(A)": "272640",
     "Abrir Os": "NÃO",
-    "Os": NaN,
-    "Abrir Os ": NaN
+    "Os": null,
+    "Abrir Os ": null,
+    "Unnamed: 21": null
   },
   {
     "ID": "4058548",
@@ -31023,14 +32319,15 @@ const CHECKLIST_VEICULAR_DATA = [
     "Condutor": "Leonardo Estenio Gallon Pinto ",
     "Data Hora": "18/11/2026 08:49",
     "VIDEOTELEMTRIA": "SIM",
-    "Itens Danificados": NaN,
+    "Itens Danificados": null,
     "Estado de Criticidade Veículo": "Leve(Liberado)",
     "Observacoes": "Sem avaria.",
     "ID COLABORADOR": "272430",
     "ID DO AVALIADOR(A)": "272640",
     "Abrir Os": "NÃO",
-    "Os": NaN,
-    "Abrir Os ": NaN
+    "Os": null,
+    "Abrir Os ": null,
+    "Unnamed: 21": null
   },
   {
     "ID": "4061129",
@@ -31047,14 +32344,15 @@ const CHECKLIST_VEICULAR_DATA = [
     "Condutor": "Jussara Soares de Souza ",
     "Data Hora": "19/11/2026 07:18",
     "VIDEOTELEMTRIA": "NÃO",
-    "Itens Danificados": NaN,
+    "Itens Danificados": null,
     "Estado de Criticidade Veículo": "Leve(Liberado)",
     "Observacoes": "Sem avaria.",
     "ID COLABORADOR": "272670",
     "ID DO AVALIADOR(A)": "272670",
     "Abrir Os": "NÃO",
-    "Os": NaN,
-    "Abrir Os ": NaN
+    "Os": null,
+    "Abrir Os ": null,
+    "Unnamed: 21": null
   },
   {
     "ID": "4061130",
@@ -31071,14 +32369,15 @@ const CHECKLIST_VEICULAR_DATA = [
     "Condutor": "Paulo César Pacheco Junior",
     "Data Hora": "19/11/2026 09:48",
     "VIDEOTELEMTRIA": "SIM",
-    "Itens Danificados": NaN,
+    "Itens Danificados": null,
     "Estado de Criticidade Veículo": "Leve(Liberado)",
     "Observacoes": "Sem avaria.",
     "ID COLABORADOR": "284930",
     "ID DO AVALIADOR(A)": "272640",
     "Abrir Os": "NÃO",
-    "Os": NaN,
-    "Abrir Os ": NaN
+    "Os": null,
+    "Abrir Os ": null,
+    "Unnamed: 21": null
   },
   {
     "ID": "4061131",
@@ -31095,14 +32394,15 @@ const CHECKLIST_VEICULAR_DATA = [
     "Condutor": "Jussara Soares de Souza ",
     "Data Hora": "19/11/2026 09:53",
     "VIDEOTELEMTRIA": "SIM",
-    "Itens Danificados": NaN,
+    "Itens Danificados": null,
     "Estado de Criticidade Veículo": "Leve(Liberado)",
     "Observacoes": "Sem avaria.",
     "ID COLABORADOR": "272640",
     "ID DO AVALIADOR(A)": "272640",
     "Abrir Os": "NÃO",
-    "Os": NaN,
-    "Abrir Os ": NaN
+    "Os": null,
+    "Abrir Os ": null,
+    "Unnamed: 21": null
   },
   {
     "ID": "4061132",
@@ -31119,14 +32419,15 @@ const CHECKLIST_VEICULAR_DATA = [
     "Condutor": "Amanda Cristina Pioto Silva",
     "Data Hora": "19/11/2026 14:34",
     "VIDEOTELEMTRIA": "NÃO",
-    "Itens Danificados": NaN,
+    "Itens Danificados": null,
     "Estado de Criticidade Veículo": "Leve(Liberado)",
     "Observacoes": "Sem avaria.",
     "ID COLABORADOR": "239830",
     "ID DO AVALIADOR(A)": "272640",
     "Abrir Os": "NÃO",
-    "Os": NaN,
-    "Abrir Os ": NaN
+    "Os": null,
+    "Abrir Os ": null,
+    "Unnamed: 21": null
   },
   {
     "ID": "4061133",
@@ -31143,14 +32444,15 @@ const CHECKLIST_VEICULAR_DATA = [
     "Condutor": "Alanna Dayara Ruas ",
     "Data Hora": "19/11/2026 15:33",
     "VIDEOTELEMTRIA": "NÃO",
-    "Itens Danificados": NaN,
+    "Itens Danificados": null,
     "Estado de Criticidade Veículo": "Leve(Liberado)",
     "Observacoes": "Sem avaria.",
     "ID COLABORADOR": "283100",
     "ID DO AVALIADOR(A)": "272640",
     "Abrir Os": "NÃO",
-    "Os": NaN,
-    "Abrir Os ": NaN
+    "Os": null,
+    "Abrir Os ": null,
+    "Unnamed: 21": null
   },
   {
     "ID": "4061134",
@@ -31167,13 +32469,15 @@ const CHECKLIST_VEICULAR_DATA = [
     "Condutor": "Onofre Evangelista da Silva Junior ",
     "Data Hora": "19/11/2026 15:51",
     "VIDEOTELEMTRIA": "NÃO",
-    "Itens Danificados": NaN,
+    "Itens Danificados": null,
     "Estado de Criticidade Veículo": "Leve(Liberado)",
     "Observacoes": "Sem avaria.",
     "ID COLABORADOR": "163363",
     "ID DO AVALIADOR(A)": "272640",
     "Abrir Os": "NÃO",
-    "Os": NaN,
-    "Abrir Os ": NaN
+    "Os": null,
+    "Abrir Os ": null,
+    "Unnamed: 21": null
   }
 ];
+const CHECKLIST_DATA = window.CHECKLIST_DATA;
