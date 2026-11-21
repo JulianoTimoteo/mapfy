@@ -241,7 +241,7 @@ def report_records(
 
 DASHBOARD_FOLDER_MAP = {
     "abertura_asa": "Plantio - 06 - Abertura da Asa",
-    "area_vivencia": "#Check-list Área de vivência _ Colheita",
+    "area_vivencia": "#Check-list área de vivência _ Colheita",
     "arremate_acabamento": "Plantio - 13 - Arremate e Acabamento",
     "broca_armadilha": "Infestação de Broca - Armadilha",
     "canteirizacao": "Plantio - 03.1 - Preparo de Solo - Canteirização",
@@ -257,6 +257,9 @@ DASHBOARD_FOLDER_MAP = {
     "sulcacao": "Plantio - 05 - Sulcação",
     "tpl_5s": "5S e Gestão - TPL",
     "viabilidade_gemas": "Plantio - 09 - Quantidade de Gemas",
+    "coa_os_campo": "COA - OS CAMPO",
+    "lancamento_mudas": "Lançamento de Mudas",
+    "qualidade_muda_mec": "Plantio - 14 - Qualidade da muda - Plantio Mec",
 }
 
 @app.get("/api/v1/summary", tags=["Dashboard"])

@@ -128,6 +128,9 @@ KNOWN_ACTIVE_FORMS_2026 = [
     "Plantio - 12 - Cobrição",
     "Plantio - 13 - Arremate e Acabamento",
     "Tratos - Herbicida",
+    "COA - OS CAMPO",
+    "Lançamento de Mudas",
+    "Plantio - 14 - Qualidade da muda - Plantio Mec",
 ]
 
 
@@ -272,10 +275,8 @@ def find_latest_date_in_csv(filepath: Path) -> str | None:
                 elif is_english_col:
                     mth, d = p1, p2
                 else:
-                    # Dados do MapFy estão em formato americano (MM/DD/YYYY).
-                    # Quando ambíguo (ambos ≤ 12), interpreta como MM/DD para não
-                    # inverter o período e gerar start_date > finish_date (count=0).
-                    mth, d = p1, p2
+                    # Em dados normalizados e salvos no CSV consolidado, a coluna 'Data' está em formato brasileiro DD/MM/YYYY
+                    d, mth = p1, p2
 
                 try:
                     dt = datetime(y, mth, d)
@@ -430,6 +431,7 @@ def merge_and_save_data(
 
     if existing_csv.exists() and existing_csv.stat().st_size > 0:
         old_df = read_csv_smart(existing_csv)
+        old_df.columns = [_clean_header(c) for c in old_df.columns]
         old_id_col = None
         for c in old_df.columns:
             if c.strip().lower() == id_col.strip().lower():
@@ -439,12 +441,32 @@ def merge_and_save_data(
             raise ValueError(f"O CSV existente não contém a coluna identificadora '{id_col}'.")
         total_before = len(old_df)
         combined_df = pd.concat([old_df, new_df], ignore_index=True)
+
+        # Coalesce de colunas sinônimas para eliminar bifurcação
+        for pt_col, en_col in [("Data", "Date"), ("Usuário", "User"), ("Data início", "Start date"), ("Data Fim", "End date")]:
+            if en_col in combined_df.columns:
+                if pt_col in combined_df.columns:
+                    combined_df[pt_col] = combined_df[pt_col].fillna(combined_df[en_col])
+                    combined_df[pt_col] = combined_df[pt_col].replace("", None).fillna(combined_df[en_col])
+                else:
+                    combined_df[pt_col] = combined_df[en_col]
+                combined_df.drop(columns=[en_col], inplace=True)
+
+        unnamed_cols = [c for c in combined_df.columns if str(c).startswith("Unnamed:")]
+        if unnamed_cols:
+            combined_df.drop(columns=unnamed_cols, inplace=True)
+
         # Deduplica pelo Id mantendo a linha mais recente
         combined_df = combined_df.drop_duplicates(subset=[id_col], keep="last")
         added = len(combined_df) - total_before
     else:
         combined_df = new_df.drop_duplicates(subset=[id_col], keep="last")
         added = len(combined_df)
+
+    # Garante normalização de data brasileira para toda a base
+    for dcol in ["Data", "Data início", "Data Fim", "Data Hora"]:
+        if dcol in combined_df.columns:
+            combined_df[dcol] = combined_df[dcol].apply(_to_br_dt)
 
     # Gravação atômica segura do CSV consolidado (com tolerância a locks do OneDrive)
     safe_atomic_save_df(combined_df, existing_csv, is_csv=True)
@@ -1191,8 +1213,11 @@ def run_full_extraction(
 
                 current_year = datetime.now().year
                 min_cutoff_year = max(2026, current_year - 1)
-                # Regra de Safra Contínua: Descarta apenas formulários anteriores à safra ativa (>= 2026)
-                if latest_year is not None and latest_year < min_cutoff_year:
+                # Regra de Safra Contínua: Descarta apenas formulários anteriores à safra ativa (>= 2026),
+                # exceto os 20 formulários monitorados oficiais que NUNCA são descartados
+                if name in KNOWN_ACTIVE_FORMS_2026:
+                    pass
+                elif latest_year is not None and latest_year < min_cutoff_year:
                     emit(f"  [IGNORADO] {name} (Última sincronia em {latest_year}, sem movimentação na safra ativa)")
                     continue
 
@@ -1322,6 +1347,9 @@ def export_dashboard_summary() -> Path | None:
             {"folder": "CHECK LIST VEICULAR", "slug": "checklist_veicular", "name": "CHECK LIST VEICULAR", "category": "Frotas & Logística"},
             {"folder": "#Check-list área de vivência _ Colheita", "slug": "area_vivencia", "name": "Check-list área de vivência _ Colheita", "category": "SSOMA & Segurança"},
             {"folder": "5S e Gestão - TPL", "slug": "tpl_5s", "name": "5S e Gestão - TPL", "category": "Gestão & Qualidade"},
+            {"folder": "COA - OS CAMPO", "slug": "coa_os_campo", "name": "COA - OS CAMPO", "category": "Centro de Operações Agrícolas"},
+            {"folder": "Lançamento de Mudas", "slug": "lancamento_mudas", "name": "Lançamento de Mudas", "category": "Material Genético"},
+            {"folder": "Plantio - 14 - Qualidade da muda - Plantio Mec", "slug": "qualidade_muda_mec", "name": "Qualidade da muda - Plantio Mec", "category": "Material Genético"},
         ]
 
         reports_data = {}
