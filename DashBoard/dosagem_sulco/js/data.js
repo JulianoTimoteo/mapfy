@@ -1,7 +1,7 @@
 /**
  * Dados Consolidados - dosagem_sulco
  * Total: 1309 registros
- * Atualizado em: 20/11/2026 20:04
+ * Atualizado em: 20/11/2026 21:06
  */
 window.DOSAGEM_RAW_DATA = [
   {
