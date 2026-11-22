@@ -1,7 +1,7 @@
 /**
  * Dados Consolidados - viabilidade_gemas
  * Total: 2742 registros
- * Atualizado em: 22/11/2026 08:28
+ * Atualizado em: 22/11/2026 08:32
  */
 window.VIABILIDADE_GEMAS_DATA = [
   {
@@ -60222,15 +60222,15 @@ window.VIABILIDADE_GEMAS_DATA = [
     "ID": "4050433",
     "Usuário": "qualidade3@usinapitangueiras.com.br",
     "Data": "14/11/2026 13:40",
-    "Latitude": "-21.02088000000000",
-    "Longitude": "-48.45879000000000",
+    "Latitude": "-21,02088000000000",
+    "Longitude": "-48,45879000000000",
     "Data início": "14/11/2026 13:38",
     "Data Fim": "14/11/2026 13:39",
-    "Status": "Open",
-    "Score": "0.00",
+    "Status": "Aberto",
+    "Score": "0,00",
     "Score perc.": "0",
     "Score desc.": "Baixo",
-    "Data e Hora do Lançamento": "11/14/2026 01:38 PM",
+    "Data e Hora do Lançamento": "14/11/2026 13:38",
     "Local (Fazenda - Talhão)": "46601",
     "Frente": "261 - FRENTE PRÓPRIA  (EDMILSON)",
     "OS": "3745",
@@ -60238,21 +60238,21 @@ window.VIABILIDADE_GEMAS_DATA = [
     "Quantidade de Gemas Total": "60",
     "Quantidade de Gemas Viáveis": "60",
     "Quantidade de Gemas Inviáveis": "0",
-    "Fazenda": "46601"
+    "Fazenda": null
   },
   {
     "ID": "4050427",
     "Usuário": "qualidade3@usinapitangueiras.com.br",
     "Data": "14/11/2026 13:28",
-    "Latitude": "-21.02110000000000",
-    "Longitude": "-48.45794000000000",
+    "Latitude": "-21,02110000000000",
+    "Longitude": "-48,45794000000000",
     "Data início": "14/11/2026 13:26",
     "Data Fim": "14/11/2026 13:28",
-    "Status": "Open",
-    "Score": "0.00",
+    "Status": "Aberto",
+    "Score": "0,00",
     "Score perc.": "0",
     "Score desc.": "Baixo",
-    "Data e Hora do Lançamento": "11/14/2026 01:26 PM",
+    "Data e Hora do Lançamento": "14/11/2026 13:26",
     "Local (Fazenda - Talhão)": "46601",
     "Frente": "261 - FRENTE PRÓPRIA  (EDMILSON)",
     "OS": "3745",
@@ -60260,21 +60260,21 @@ window.VIABILIDADE_GEMAS_DATA = [
     "Quantidade de Gemas Total": "58",
     "Quantidade de Gemas Viáveis": "58",
     "Quantidade de Gemas Inviáveis": "0",
-    "Fazenda": "46601"
+    "Fazenda": null
   },
   {
     "ID": "4050422",
     "Usuário": "qualidade3@usinapitangueiras.com.br",
     "Data": "14/11/2026 13:18",
-    "Latitude": "-21.02122000000000",
-    "Longitude": "-48.45755000000000",
+    "Latitude": "-21,02122000000000",
+    "Longitude": "-48,45755000000000",
     "Data início": "14/11/2026 13:17",
     "Data Fim": "14/11/2026 13:18",
-    "Status": "Open",
-    "Score": "0.00",
+    "Status": "Aberto",
+    "Score": "0,00",
     "Score perc.": "0",
     "Score desc.": "Baixo",
-    "Data e Hora do Lançamento": "11/14/2026 01:17 PM",
+    "Data e Hora do Lançamento": "14/11/2026 13:17",
     "Local (Fazenda - Talhão)": "46601",
     "Frente": "261 - FRENTE PRÓPRIA  (EDMILSON)",
     "OS": "3745",
@@ -60282,21 +60282,21 @@ window.VIABILIDADE_GEMAS_DATA = [
     "Quantidade de Gemas Total": "57",
     "Quantidade de Gemas Viáveis": "57",
     "Quantidade de Gemas Inviáveis": "0",
-    "Fazenda": "46601"
+    "Fazenda": null
   },
   {
     "ID": "4050413",
     "Usuário": "qualidade3@usinapitangueiras.com.br",
     "Data": "14/11/2026 12:11",
-    "Latitude": "-21.02146000000000",
-    "Longitude": "-48.45688000000000",
+    "Latitude": "-21,02146000000000",
+    "Longitude": "-48,45688000000000",
     "Data início": "14/11/2026 12:10",
     "Data Fim": "14/11/2026 12:11",
-    "Status": "Open",
-    "Score": "0.00",
+    "Status": "Aberto",
+    "Score": "0,00",
     "Score perc.": "0",
     "Score desc.": "Baixo",
-    "Data e Hora do Lançamento": "11/14/2026 12:10 PM",
+    "Data e Hora do Lançamento": "14/11/2026 12:10",
     "Local (Fazenda - Talhão)": "46601",
     "Frente": "261 - FRENTE PRÓPRIA  (EDMILSON)",
     "OS": "3745",
@@ -60304,21 +60304,21 @@ window.VIABILIDADE_GEMAS_DATA = [
     "Quantidade de Gemas Total": "58",
     "Quantidade de Gemas Viáveis": "58",
     "Quantidade de Gemas Inviáveis": "0",
-    "Fazenda": "46601"
+    "Fazenda": null
   },
   {
     "ID": "4050409",
     "Usuário": "qualidade3@usinapitangueiras.com.br",
     "Data": "14/11/2026 12:02",
-    "Latitude": "-21.02144000000000",
-    "Longitude": "-48.45695000000000",
+    "Latitude": "-21,02144000000000",
+    "Longitude": "-48,45695000000000",
     "Data início": "14/11/2026 12:00",
     "Data Fim": "14/11/2026 12:02",
-    "Status": "Open",
-    "Score": "0.00",
+    "Status": "Aberto",
+    "Score": "0,00",
     "Score perc.": "0",
     "Score desc.": "Baixo",
-    "Data e Hora do Lançamento": "11/14/2026 12:00 PM",
+    "Data e Hora do Lançamento": "14/11/2026 12:00",
     "Local (Fazenda - Talhão)": "46601",
     "Frente": "261 - FRENTE PRÓPRIA  (EDMILSON)",
     "OS": "3745",
@@ -60326,6 +60326,6 @@ window.VIABILIDADE_GEMAS_DATA = [
     "Quantidade de Gemas Total": "60",
     "Quantidade de Gemas Viáveis": "58",
     "Quantidade de Gemas Inviáveis": "2",
-    "Fazenda": "46601"
+    "Fazenda": null
   }
 ];
