@@ -1,7 +1,7 @@
 /**
  * Dados Consolidados - arremate_acabamento
  * Total: 817 registros
- * Atualizado em: 22/11/2026 06:18
+ * Atualizado em: 22/11/2026 08:28
  */
 window.ARREMATE_DATA = [
   {
