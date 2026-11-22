@@ -1,7 +1,7 @@
 /**
  * Dados Consolidados - qualidade_cana
  * Total: 2613 registros
- * Atualizado em: 22/11/2026 11:51
+ * Atualizado em: 22/11/2026 12:47
  */
 window.QUALIDADE_CANA_DATA = [
   {
@@ -23,9 +23,7 @@ window.QUALIDADE_CANA_DATA = [
     "Responsável": "MABILA HELEN D FIGUEIREDO",
     "Quantidade de Cana": "BOM",
     "Observações": null,
-    "Fazenda": null,
-    "Observações ": null,
-    "Unnamed: 19": null
+    "Fazenda": null
   },
   {
     "ID": "3913066",
@@ -46,9 +44,7 @@ window.QUALIDADE_CANA_DATA = [
     "Responsável": "MABILA HELEN D FIGUEIREDO",
     "Quantidade de Cana": "BOM",
     "Observações": null,
-    "Fazenda": null,
-    "Observações ": null,
-    "Unnamed: 19": null
+    "Fazenda": null
   },
   {
     "ID": "3913062",
@@ -69,9 +65,7 @@ window.QUALIDADE_CANA_DATA = [
     "Responsável": "MABILA HELEN D FIGUEIREDO",
     "Quantidade de Cana": "BOM",
     "Observações": null,
-    "Fazenda": null,
-    "Observações ": null,
-    "Unnamed: 19": null
+    "Fazenda": null
   },
   {
     "ID": "3913053",
@@ -92,9 +86,7 @@ window.QUALIDADE_CANA_DATA = [
     "Responsável": "MABILA HELEN D FIGUEIREDO",
     "Quantidade de Cana": "BOM",
     "Observações": null,
-    "Fazenda": null,
-    "Observações ": null,
-    "Unnamed: 19": null
+    "Fazenda": null
   },
   {
     "ID": "3913049",
@@ -115,9 +107,7 @@ window.QUALIDADE_CANA_DATA = [
     "Responsável": "MABILA HELEN D FIGUEIREDO",
     "Quantidade de Cana": "BOM",
     "Observações": null,
-    "Fazenda": null,
-    "Observações ": null,
-    "Unnamed: 19": null
+    "Fazenda": null
   },
   {
     "ID": "3913044",
@@ -138,9 +128,7 @@ window.QUALIDADE_CANA_DATA = [
     "Responsável": "MABILA HELEN D FIGUEIREDO",
     "Quantidade de Cana": "BOM",
     "Observações": null,
-    "Fazenda": null,
-    "Observações ": null,
-    "Unnamed: 19": null
+    "Fazenda": null
   },
   {
     "ID": "3913037",
@@ -161,9 +149,7 @@ window.QUALIDADE_CANA_DATA = [
     "Responsável": "MABILA HELEN D FIGUEIREDO",
     "Quantidade de Cana": "BOM",
     "Observações": null,
-    "Fazenda": null,
-    "Observações ": null,
-    "Unnamed: 19": null
+    "Fazenda": null
   },
   {
     "ID": "3909666",
@@ -184,9 +170,7 @@ window.QUALIDADE_CANA_DATA = [
     "Responsável": "MABILA HELEN D FIGUEIREDO",
     "Quantidade de Cana": "BOM",
     "Observações": null,
-    "Fazenda": null,
-    "Observações ": null,
-    "Unnamed: 19": null
+    "Fazenda": null
   },
   {
     "ID": "3907169",
@@ -207,9 +191,7 @@ window.QUALIDADE_CANA_DATA = [
     "Responsável": "MABILA HELEN D FIGUEIREDO",
     "Quantidade de Cana": "BOM",
     "Observações": null,
-    "Fazenda": null,
-    "Observações ": null,
-    "Unnamed: 19": null
+    "Fazenda": null
   },
   {
     "ID": "3907162",
@@ -230,9 +212,7 @@ window.QUALIDADE_CANA_DATA = [
     "Responsável": "MABILA HELEN D FIGUEIREDO",
     "Quantidade de Cana": "BOM",
     "Observações": null,
-    "Fazenda": null,
-    "Observações ": null,
-    "Unnamed: 19": null
+    "Fazenda": null
   },
   {
     "ID": "3907158",
@@ -253,9 +233,7 @@ window.QUALIDADE_CANA_DATA = [
     "Responsável": "MABILA HELEN D FIGUEIREDO",
     "Quantidade de Cana": "BOM",
     "Observações": null,
-    "Fazenda": null,
-    "Observações ": null,
-    "Unnamed: 19": null
+    "Fazenda": null
   },
   {
     "ID": "3907154",
@@ -276,9 +254,7 @@ window.QUALIDADE_CANA_DATA = [
     "Responsável": "MABILA HELEN D FIGUEIREDO",
     "Quantidade de Cana": "BOM",
     "Observações": null,
-    "Fazenda": null,
-    "Observações ": null,
-    "Unnamed: 19": null
+    "Fazenda": null
   },
   {
     "ID": "3906871",
@@ -299,9 +275,7 @@ window.QUALIDADE_CANA_DATA = [
     "Responsável": "MABILA HELEN D FIGUEIREDO",
     "Quantidade de Cana": "BOM",
     "Observações": null,
-    "Fazenda": null,
-    "Observações ": null,
-    "Unnamed: 19": null
+    "Fazenda": null
   },
   {
     "ID": "3906867",
@@ -322,9 +296,7 @@ window.QUALIDADE_CANA_DATA = [
     "Responsável": "MABILA HELEN D FIGUEIREDO",
     "Quantidade de Cana": "BOM",
     "Observações": null,
-    "Fazenda": null,
-    "Observações ": null,
-    "Unnamed: 19": null
+    "Fazenda": null
   },
   {
     "ID": "3906863",
@@ -345,9 +317,7 @@ window.QUALIDADE_CANA_DATA = [
     "Responsável": "MABILA HELEN D FIGUEIREDO",
     "Quantidade de Cana": "BOM",
     "Observações": null,
-    "Fazenda": null,
-    "Observações ": null,
-    "Unnamed: 19": null
+    "Fazenda": null
   },
   {
     "ID": "3906858",
@@ -368,9 +338,7 @@ window.QUALIDADE_CANA_DATA = [
     "Responsável": "MABILA HELEN D FIGUEIREDO",
     "Quantidade de Cana": "BOM",
     "Observações": null,
-    "Fazenda": null,
-    "Observações ": null,
-    "Unnamed: 19": null
+    "Fazenda": null
   },
   {
     "ID": "3906855",
@@ -391,9 +359,7 @@ window.QUALIDADE_CANA_DATA = [
     "Responsável": "MABILA HELEN D FIGUEIREDO",
     "Quantidade de Cana": "BOM",
     "Observações": null,
-    "Fazenda": null,
-    "Observações ": null,
-    "Unnamed: 19": null
+    "Fazenda": null
   },
   {
     "ID": "3906851",
@@ -414,9 +380,7 @@ window.QUALIDADE_CANA_DATA = [
     "Responsável": "MABILA HELEN D FIGUEIREDO",
     "Quantidade de Cana": "BOM",
     "Observações": null,
-    "Fazenda": null,
-    "Observações ": null,
-    "Unnamed: 19": null
+    "Fazenda": null
   },
   {
     "ID": "3904472",
@@ -437,9 +401,7 @@ window.QUALIDADE_CANA_DATA = [
     "Responsável": "MABILA HELEN D FIGUEIREDO",
     "Quantidade de Cana": "BOM",
     "Observações": null,
-    "Fazenda": null,
-    "Observações ": null,
-    "Unnamed: 19": null
+    "Fazenda": null
   },
   {
     "ID": "3904468",
@@ -460,9 +422,7 @@ window.QUALIDADE_CANA_DATA = [
     "Responsável": "MABILA HELEN D FIGUEIREDO",
     "Quantidade de Cana": "BOM",
     "Observações": null,
-    "Fazenda": null,
-    "Observações ": null,
-    "Unnamed: 19": null
+    "Fazenda": null
   },
   {
     "ID": "3904464",
@@ -483,9 +443,7 @@ window.QUALIDADE_CANA_DATA = [
     "Responsável": "MABILA HELEN D FIGUEIREDO",
     "Quantidade de Cana": "BOM",
     "Observações": null,
-    "Fazenda": null,
-    "Observações ": null,
-    "Unnamed: 19": null
+    "Fazenda": null
   },
   {
     "ID": "3904460",
@@ -506,9 +464,7 @@ window.QUALIDADE_CANA_DATA = [
     "Responsável": "MABILA HELEN D FIGUEIREDO",
     "Quantidade de Cana": "BOM",
     "Observações": null,
-    "Fazenda": null,
-    "Observações ": null,
-    "Unnamed: 19": null
+    "Fazenda": null
   },
   {
     "ID": "3904456",
@@ -529,9 +485,7 @@ window.QUALIDADE_CANA_DATA = [
     "Responsável": "MABILA HELEN D FIGUEIREDO",
     "Quantidade de Cana": "BOM",
     "Observações": null,
-    "Fazenda": null,
-    "Observações ": null,
-    "Unnamed: 19": null
+    "Fazenda": null
   },
   {
     "ID": "3904422",
@@ -552,9 +506,7 @@ window.QUALIDADE_CANA_DATA = [
     "Responsável": "MABILA HELEN D FIGUEIREDO",
     "Quantidade de Cana": "BOM",
     "Observações": null,
-    "Fazenda": null,
-    "Observações ": null,
-    "Unnamed: 19": null
+    "Fazenda": null
   },
   {
     "ID": "3904418",
@@ -575,9 +527,7 @@ window.QUALIDADE_CANA_DATA = [
     "Responsável": "MABILA HELEN D FIGUEIREDO",
     "Quantidade de Cana": "BOM",
     "Observações": null,
-    "Fazenda": null,
-    "Observações ": null,
-    "Unnamed: 19": null
+    "Fazenda": null
   },
   {
     "ID": "3902253",
@@ -598,9 +548,7 @@ window.QUALIDADE_CANA_DATA = [
     "Responsável": "MABILA HELEN D FIGUEIREDO",
     "Quantidade de Cana": "BOM",
     "Observações": null,
-    "Fazenda": null,
-    "Observações ": null,
-    "Unnamed: 19": null
+    "Fazenda": null
   },
   {
     "ID": "3902249",
@@ -621,9 +569,7 @@ window.QUALIDADE_CANA_DATA = [
     "Responsável": "MABILA HELEN D FIGUEIREDO",
     "Quantidade de Cana": "BOM",
     "Observações": null,
-    "Fazenda": null,
-    "Observações ": null,
-    "Unnamed: 19": null
+    "Fazenda": null
   },
   {
     "ID": "3902241",
@@ -644,9 +590,7 @@ window.QUALIDADE_CANA_DATA = [
     "Responsável": "MABILA HELEN D FIGUEIREDO",
     "Quantidade de Cana": "BOM",
     "Observações": null,
-    "Fazenda": null,
-    "Observações ": null,
-    "Unnamed: 19": null
+    "Fazenda": null
   },
   {
     "ID": "3902202",
@@ -667,9 +611,7 @@ window.QUALIDADE_CANA_DATA = [
     "Responsável": "MABILA HELEN D FIGUEIREDO",
     "Quantidade de Cana": "BOM",
     "Observações": null,
-    "Fazenda": null,
-    "Observações ": null,
-    "Unnamed: 19": null
+    "Fazenda": null
   },
   {
     "ID": "3902197",
@@ -690,9 +632,7 @@ window.QUALIDADE_CANA_DATA = [
     "Responsável": "MABILA HELEN D FIGUEIREDO",
     "Quantidade de Cana": "BOM",
     "Observações": null,
-    "Fazenda": null,
-    "Observações ": null,
-    "Unnamed: 19": null
+    "Fazenda": null
   },
   {
     "ID": "3902196",
@@ -713,9 +653,7 @@ window.QUALIDADE_CANA_DATA = [
     "Responsável": "MABILA HELEN D FIGUEIREDO",
     "Quantidade de Cana": "BOM",
     "Observações": null,
-    "Fazenda": null,
-    "Observações ": null,
-    "Unnamed: 19": null
+    "Fazenda": null
   },
   {
     "ID": "3902195",
@@ -736,9 +674,7 @@ window.QUALIDADE_CANA_DATA = [
     "Responsável": "MABILA HELEN D FIGUEIREDO",
     "Quantidade de Cana": "BOM",
     "Observações": null,
-    "Fazenda": null,
-    "Observações ": null,
-    "Unnamed: 19": null
+    "Fazenda": null
   },
   {
     "ID": "3902171",
@@ -759,9 +695,7 @@ window.QUALIDADE_CANA_DATA = [
     "Responsável": "MABILA HELEN D FIGUEIREDO",
     "Quantidade de Cana": "BOM",
     "Observações": null,
-    "Fazenda": null,
-    "Observações ": null,
-    "Unnamed: 19": null
+    "Fazenda": null
   },
   {
     "ID": "3902166",
@@ -782,9 +716,7 @@ window.QUALIDADE_CANA_DATA = [
     "Responsável": "MABILA HELEN D FIGUEIREDO",
     "Quantidade de Cana": "BOM",
     "Observações": null,
-    "Fazenda": null,
-    "Observações ": null,
-    "Unnamed: 19": null
+    "Fazenda": null
   },
   {
     "ID": "3902162",
@@ -805,9 +737,7 @@ window.QUALIDADE_CANA_DATA = [
     "Responsável": "MABILA HELEN D FIGUEIREDO",
     "Quantidade de Cana": "BOM",
     "Observações": null,
-    "Fazenda": null,
-    "Observações ": null,
-    "Unnamed: 19": null
+    "Fazenda": null
   },
   {
     "ID": "3902158",
@@ -828,9 +758,7 @@ window.QUALIDADE_CANA_DATA = [
     "Responsável": "MABILA HELEN D FIGUEIREDO",
     "Quantidade de Cana": "BOM",
     "Observações": null,
-    "Fazenda": null,
-    "Observações ": null,
-    "Unnamed: 19": null
+    "Fazenda": null
   },
   {
     "ID": "3901769",
@@ -851,9 +779,7 @@ window.QUALIDADE_CANA_DATA = [
     "Responsável": "MABILA HELEN D FIGUEIREDO",
     "Quantidade de Cana": "BOM",
     "Observações": null,
-    "Fazenda": null,
-    "Observações ": null,
-    "Unnamed: 19": null
+    "Fazenda": null
   },
   {
     "ID": "3899150",
@@ -874,9 +800,7 @@ window.QUALIDADE_CANA_DATA = [
     "Responsável": "MABILA HELEN D FIGUEIREDO",
     "Quantidade de Cana": "BOM",
     "Observações": null,
-    "Fazenda": null,
-    "Observações ": null,
-    "Unnamed: 19": null
+    "Fazenda": null
   },
   {
     "ID": "3899146",
@@ -897,9 +821,7 @@ window.QUALIDADE_CANA_DATA = [
     "Responsável": "MABILA HELEN D FIGUEIREDO",
     "Quantidade de Cana": "BOM",
     "Observações": null,
-    "Fazenda": null,
-    "Observações ": null,
-    "Unnamed: 19": null
+    "Fazenda": null
   },
   {
     "ID": "3899008",
@@ -920,9 +842,7 @@ window.QUALIDADE_CANA_DATA = [
     "Responsável": "MABILA HELEN D FIGUEIREDO",
     "Quantidade de Cana": "BOM",
     "Observações": null,
-    "Fazenda": null,
-    "Observações ": null,
-    "Unnamed: 19": null
+    "Fazenda": null
   },
   {
     "ID": "3899004",
@@ -943,9 +863,7 @@ window.QUALIDADE_CANA_DATA = [
     "Responsável": "MABILA HELEN D FIGUEIREDO",
     "Quantidade de Cana": "BOM",
     "Observações": null,
-    "Fazenda": null,
-    "Observações ": null,
-    "Unnamed: 19": null
+    "Fazenda": null
   },
   {
     "ID": "3899003",
@@ -966,9 +884,7 @@ window.QUALIDADE_CANA_DATA = [
     "Responsável": "MABILA HELEN D FIGUEIREDO",
     "Quantidade de Cana": "BOM",
     "Observações": null,
-    "Fazenda": null,
-    "Observações ": null,
-    "Unnamed: 19": null
+    "Fazenda": null
   },
   {
     "ID": "3898999",
@@ -989,9 +905,7 @@ window.QUALIDADE_CANA_DATA = [
     "Responsável": "MABILA HELEN D FIGUEIREDO",
     "Quantidade de Cana": "BOM",
     "Observações": null,
-    "Fazenda": null,
-    "Observações ": null,
-    "Unnamed: 19": null
+    "Fazenda": null
   },
   {
     "ID": "3898988",
@@ -1012,9 +926,7 @@ window.QUALIDADE_CANA_DATA = [
     "Responsável": "MABILA HELEN D FIGUEIREDO",
     "Quantidade de Cana": "BOM",
     "Observações": null,
-    "Fazenda": null,
-    "Observações ": null,
-    "Unnamed: 19": null
+    "Fazenda": null
   },
   {
     "ID": "3898981",
@@ -1035,9 +947,7 @@ window.QUALIDADE_CANA_DATA = [
     "Responsável": "MABILA HELEN D FIGUEIREDO",
     "Quantidade de Cana": "BOM",
     "Observações": null,
-    "Fazenda": null,
-    "Observações ": null,
-    "Unnamed: 19": null
+    "Fazenda": null
   },
   {
     "ID": "3898977",
@@ -1058,9 +968,7 @@ window.QUALIDADE_CANA_DATA = [
     "Responsável": "MABILA HELEN D FIGUEIREDO",
     "Quantidade de Cana": "BOM",
     "Observações": null,
-    "Fazenda": null,
-    "Observações ": null,
-    "Unnamed: 19": null
+    "Fazenda": null
   },
   {
     "ID": "3898975",
@@ -1081,9 +989,7 @@ window.QUALIDADE_CANA_DATA = [
     "Responsável": "MABILA HELEN D FIGUEIREDO",
     "Quantidade de Cana": "BOM",
     "Observações": null,
-    "Fazenda": null,
-    "Observações ": null,
-    "Unnamed: 19": null
+    "Fazenda": null
   },
   {
     "ID": "3896728",
@@ -1104,9 +1010,7 @@ window.QUALIDADE_CANA_DATA = [
     "Responsável": "MABILA HELEN D FIGUEIREDO",
     "Quantidade de Cana": "BOM",
     "Observações": null,
-    "Fazenda": null,
-    "Observações ": null,
-    "Unnamed: 19": null
+    "Fazenda": null
   },
   {
     "ID": "3896725",
@@ -1127,9 +1031,7 @@ window.QUALIDADE_CANA_DATA = [
     "Responsável": "MABILA HELEN D FIGUEIREDO",
     "Quantidade de Cana": "BOM",
     "Observações": null,
-    "Fazenda": null,
-    "Observações ": null,
-    "Unnamed: 19": null
+    "Fazenda": null
   },
   {
     "ID": "3896718",
@@ -1150,9 +1052,7 @@ window.QUALIDADE_CANA_DATA = [
     "Responsável": "MABILA HELEN D FIGUEIREDO",
     "Quantidade de Cana": "BOM",
     "Observações": null,
-    "Fazenda": null,
-    "Observações ": null,
-    "Unnamed: 19": null
+    "Fazenda": null
   },
   {
     "ID": "3896714",
@@ -1173,9 +1073,7 @@ window.QUALIDADE_CANA_DATA = [
     "Responsável": "MABILA HELEN D FIGUEIREDO",
     "Quantidade de Cana": "BOM",
     "Observações": null,
-    "Fazenda": null,
-    "Observações ": null,
-    "Unnamed: 19": null
+    "Fazenda": null
   },
   {
     "ID": "3896710",
@@ -1196,9 +1094,7 @@ window.QUALIDADE_CANA_DATA = [
     "Responsável": "MABILA HELEN D FIGUEIREDO",
     "Quantidade de Cana": "BOM",
     "Observações": null,
-    "Fazenda": null,
-    "Observações ": null,
-    "Unnamed: 19": null
+    "Fazenda": null
   },
   {
     "ID": "3896706",
@@ -1219,9 +1115,7 @@ window.QUALIDADE_CANA_DATA = [
     "Responsável": "MABILA HELEN D FIGUEIREDO",
     "Quantidade de Cana": "BOM",
     "Observações": null,
-    "Fazenda": null,
-    "Observações ": null,
-    "Unnamed: 19": null
+    "Fazenda": null
   },
   {
     "ID": "3896368",
@@ -1242,9 +1136,7 @@ window.QUALIDADE_CANA_DATA = [
     "Responsável": "MABILA HELEN D FIGUEIREDO",
     "Quantidade de Cana": "BOM",
     "Observações": null,
-    "Fazenda": null,
-    "Observações ": null,
-    "Unnamed: 19": null
+    "Fazenda": null
   },
   {
     "ID": "3896269",
@@ -1265,9 +1157,7 @@ window.QUALIDADE_CANA_DATA = [
     "Responsável": "MABILA HELEN D FIGUEIREDO",
     "Quantidade de Cana": "BOM",
     "Observações": null,
-    "Fazenda": null,
-    "Observações ": null,
-    "Unnamed: 19": null
+    "Fazenda": null
   },
   {
     "ID": "3896131",
@@ -1288,9 +1178,7 @@ window.QUALIDADE_CANA_DATA = [
     "Responsável": "REGINALDO DA SILVA GOMES ",
     "Quantidade de Cana": "BOM",
     "Observações": null,
-    "Fazenda": null,
-    "Observações ": null,
-    "Unnamed: 19": null
+    "Fazenda": null
   },
   {
     "ID": "3896253",
@@ -1311,9 +1199,7 @@ window.QUALIDADE_CANA_DATA = [
     "Responsável": "MABILA HELEN D FIGUEIREDO",
     "Quantidade de Cana": "BOM",
     "Observações": null,
-    "Fazenda": null,
-    "Observações ": null,
-    "Unnamed: 19": null
+    "Fazenda": null
   },
   {
     "ID": "3896125",
@@ -1334,9 +1220,7 @@ window.QUALIDADE_CANA_DATA = [
     "Responsável": "REGINALDO DA SILVA GOMES ",
     "Quantidade de Cana": "BOM",
     "Observações": null,
-    "Fazenda": null,
-    "Observações ": null,
-    "Unnamed: 19": null
+    "Fazenda": null
   },
   {
     "ID": "3896123",
@@ -1357,9 +1241,7 @@ window.QUALIDADE_CANA_DATA = [
     "Responsável": "REGINALDO DA SILVA GOMES ",
     "Quantidade de Cana": "BOM",
     "Observações": null,
-    "Fazenda": null,
-    "Observações ": null,
-    "Unnamed: 19": null
+    "Fazenda": null
   },
   {
     "ID": "3896249",
@@ -1380,9 +1262,7 @@ window.QUALIDADE_CANA_DATA = [
     "Responsável": "MABILA HELEN D FIGUEIREDO",
     "Quantidade de Cana": "BOM",
     "Observações": null,
-    "Fazenda": null,
-    "Observações ": null,
-    "Unnamed: 19": null
+    "Fazenda": null
   },
   {
     "ID": "3893911",
@@ -1403,9 +1283,7 @@ window.QUALIDADE_CANA_DATA = [
     "Responsável": "MABILA HELEN D FIGUEIREDO",
     "Quantidade de Cana": "BOM",
     "Observações": null,
-    "Fazenda": null,
-    "Observações ": null,
-    "Unnamed: 19": null
+    "Fazenda": null
   },
   {
     "ID": "3893904",
@@ -1426,9 +1304,7 @@ window.QUALIDADE_CANA_DATA = [
     "Responsável": "MABILA HELEN D FIGUEIREDO",
     "Quantidade de Cana": "BOM",
     "Observações": null,
-    "Fazenda": null,
-    "Observações ": null,
-    "Unnamed: 19": null
+    "Fazenda": null
   },
   {
     "ID": "3893903",
@@ -1449,9 +1325,7 @@ window.QUALIDADE_CANA_DATA = [
     "Responsável": "MABILA HELEN D FIGUEIREDO",
     "Quantidade de Cana": "BOM",
     "Observações": null,
-    "Fazenda": null,
-    "Observações ": null,
-    "Unnamed: 19": null
+    "Fazenda": null
   },
   {
     "ID": "3893891",
@@ -1472,9 +1346,7 @@ window.QUALIDADE_CANA_DATA = [
     "Responsável": "MABILA HELEN D FIGUEIREDO",
     "Quantidade de Cana": "BOM",
     "Observações": null,
-    "Fazenda": null,
-    "Observações ": null,
-    "Unnamed: 19": null
+    "Fazenda": null
   },
   {
     "ID": "3893886",
@@ -1495,9 +1367,7 @@ window.QUALIDADE_CANA_DATA = [
     "Responsável": "MABILA HELEN D FIGUEIREDO",
     "Quantidade de Cana": "BOM",
     "Observações": null,
-    "Fazenda": null,
-    "Observações ": null,
-    "Unnamed: 19": null
+    "Fazenda": null
   },
   {
     "ID": "3893880",
@@ -1518,9 +1388,7 @@ window.QUALIDADE_CANA_DATA = [
     "Responsável": "MABILA HELEN D FIGUEIREDO",
     "Quantidade de Cana": "BOM",
     "Observações": null,
-    "Fazenda": null,
-    "Observações ": null,
-    "Unnamed: 19": null
+    "Fazenda": null
   },
   {
     "ID": "3893878",
@@ -1541,9 +1409,7 @@ window.QUALIDADE_CANA_DATA = [
     "Responsável": "MABILA HELEN D FIGUEIREDO",
     "Quantidade de Cana": "BOM",
     "Observações": null,
-    "Fazenda": null,
-    "Observações ": null,
-    "Unnamed: 19": null
+    "Fazenda": null
   },
   {
     "ID": "3893874",
@@ -1564,9 +1430,7 @@ window.QUALIDADE_CANA_DATA = [
     "Responsável": "MABILA HELEN D FIGUEIREDO",
     "Quantidade de Cana": "BOM",
     "Observações": null,
-    "Fazenda": null,
-    "Observações ": null,
-    "Unnamed: 19": null
+    "Fazenda": null
   },
   {
     "ID": "3887005",
@@ -1587,9 +1451,7 @@ window.QUALIDADE_CANA_DATA = [
     "Responsável": "MABILA HELEN D FIGUEIREDO",
     "Quantidade de Cana": "BOM",
     "Observações": null,
-    "Fazenda": null,
-    "Observações ": null,
-    "Unnamed: 19": null
+    "Fazenda": null
   },
   {
     "ID": "3886998",
@@ -1610,9 +1472,7 @@ window.QUALIDADE_CANA_DATA = [
     "Responsável": "MABILA HELEN D FIGUEIREDO",
     "Quantidade de Cana": "BOM",
     "Observações": null,
-    "Fazenda": null,
-    "Observações ": null,
-    "Unnamed: 19": null
+    "Fazenda": null
   },
   {
     "ID": "3886997",
@@ -1633,9 +1493,7 @@ window.QUALIDADE_CANA_DATA = [
     "Responsável": "MABILA HELEN D FIGUEIREDO",
     "Quantidade de Cana": "BOM",
     "Observações": null,
-    "Fazenda": null,
-    "Observações ": null,
-    "Unnamed: 19": null
+    "Fazenda": null
   },
   {
     "ID": "3886993",
@@ -1656,9 +1514,7 @@ window.QUALIDADE_CANA_DATA = [
     "Responsável": "MABILA HELEN D FIGUEIREDO",
     "Quantidade de Cana": "BOM",
     "Observações": null,
-    "Fazenda": null,
-    "Observações ": null,
-    "Unnamed: 19": null
+    "Fazenda": null
   },
   {
     "ID": "3886991",
@@ -1679,9 +1535,7 @@ window.QUALIDADE_CANA_DATA = [
     "Responsável": "MABILA HELEN D FIGUEIREDO",
     "Quantidade de Cana": "BOM",
     "Observações": null,
-    "Fazenda": null,
-    "Observações ": null,
-    "Unnamed: 19": null
+    "Fazenda": null
   },
   {
     "ID": "3886987",
@@ -1702,9 +1556,7 @@ window.QUALIDADE_CANA_DATA = [
     "Responsável": "MABILA HELEN D FIGUEIREDO",
     "Quantidade de Cana": "BOM",
     "Observações": null,
-    "Fazenda": null,
-    "Observações ": null,
-    "Unnamed: 19": null
+    "Fazenda": null
   },
   {
     "ID": "3886979",
@@ -1725,9 +1577,7 @@ window.QUALIDADE_CANA_DATA = [
     "Responsável": "MABILA HELEN D FIGUEIREDO",
     "Quantidade de Cana": "BOM",
     "Observações": null,
-    "Fazenda": null,
-    "Observações ": null,
-    "Unnamed: 19": null
+    "Fazenda": null
   },
   {
     "ID": "3886973",
@@ -1748,9 +1598,7 @@ window.QUALIDADE_CANA_DATA = [
     "Responsável": "MABILA HELEN D FIGUEIREDO",
     "Quantidade de Cana": "BOM",
     "Observações": null,
-    "Fazenda": null,
-    "Observações ": null,
-    "Unnamed: 19": null
+    "Fazenda": null
   },
   {
     "ID": "3886966",
@@ -1771,9 +1619,7 @@ window.QUALIDADE_CANA_DATA = [
     "Responsável": "MABILA HELEN D FIGUEIREDO",
     "Quantidade de Cana": "BOM",
     "Observações": null,
-    "Fazenda": null,
-    "Observações ": null,
-    "Unnamed: 19": null
+    "Fazenda": null
   },
   {
     "ID": "3886949",
@@ -1794,9 +1640,7 @@ window.QUALIDADE_CANA_DATA = [
     "Responsável": "MABILA HELEN D FIGUEIREDO",
     "Quantidade de Cana": "BOM",
     "Observações": null,
-    "Fazenda": null,
-    "Observações ": null,
-    "Unnamed: 19": null
+    "Fazenda": null
   },
   {
     "ID": "3887089",
@@ -1817,9 +1661,7 @@ window.QUALIDADE_CANA_DATA = [
     "Responsável": "MABILA HELEN D FIGUEIREDO",
     "Quantidade de Cana": "BOM",
     "Observações": null,
-    "Fazenda": null,
-    "Observações ": null,
-    "Unnamed: 19": null
+    "Fazenda": null
   },
   {
     "ID": "3884077",
@@ -1840,9 +1682,7 @@ window.QUALIDADE_CANA_DATA = [
     "Responsável": "MABILA HELEN D FIGUEIREDO",
     "Quantidade de Cana": "BOM",
     "Observações": null,
-    "Fazenda": null,
-    "Observações ": null,
-    "Unnamed: 19": null
+    "Fazenda": null
   },
   {
     "ID": "3884073",
@@ -1863,9 +1703,7 @@ window.QUALIDADE_CANA_DATA = [
     "Responsável": "MABILA HELEN D FIGUEIREDO",
     "Quantidade de Cana": "BOM",
     "Observações": null,
-    "Fazenda": null,
-    "Observações ": null,
-    "Unnamed: 19": null
+    "Fazenda": null
   },
   {
     "ID": "3884067",
@@ -1886,9 +1724,7 @@ window.QUALIDADE_CANA_DATA = [
     "Responsável": "MABILA HELEN D FIGUEIREDO",
     "Quantidade de Cana": "BOM",
     "Observações": null,
-    "Fazenda": null,
-    "Observações ": null,
-    "Unnamed: 19": null
+    "Fazenda": null
   },
   {
     "ID": "3884063",
@@ -1909,9 +1745,7 @@ window.QUALIDADE_CANA_DATA = [
     "Responsável": "MABILA HELEN D FIGUEIREDO",
     "Quantidade de Cana": "BOM",
     "Observações": null,
-    "Fazenda": null,
-    "Observações ": null,
-    "Unnamed: 19": null
+    "Fazenda": null
   },
   {
     "ID": "3884059",
@@ -1932,9 +1766,7 @@ window.QUALIDADE_CANA_DATA = [
     "Responsável": "MABILA HELEN D FIGUEIREDO",
     "Quantidade de Cana": "BOM",
     "Observações": null,
-    "Fazenda": null,
-    "Observações ": null,
-    "Unnamed: 19": null
+    "Fazenda": null
   },
   {
     "ID": "3880985",
@@ -1955,9 +1787,7 @@ window.QUALIDADE_CANA_DATA = [
     "Responsável": "MABILA HELEN D FIGUEIREDO",
     "Quantidade de Cana": "BOM",
     "Observações": null,
-    "Fazenda": null,
-    "Observações ": null,
-    "Unnamed: 19": null
+    "Fazenda": null
   },
   {
     "ID": "3880978",
@@ -1978,9 +1808,7 @@ window.QUALIDADE_CANA_DATA = [
     "Responsável": "MABILA HELEN D FIGUEIREDO",
     "Quantidade de Cana": "BOM",
     "Observações": null,
-    "Fazenda": null,
-    "Observações ": null,
-    "Unnamed: 19": null
+    "Fazenda": null
   },
   {
     "ID": "3880970",
@@ -2001,9 +1829,7 @@ window.QUALIDADE_CANA_DATA = [
     "Responsável": "MABILA HELEN D FIGUEIREDO",
     "Quantidade de Cana": "BOM",
     "Observações": null,
-    "Fazenda": null,
-    "Observações ": null,
-    "Unnamed: 19": null
+    "Fazenda": null
   },
   {
     "ID": "3880967",
@@ -2024,9 +1850,7 @@ window.QUALIDADE_CANA_DATA = [
     "Responsável": "MABILA HELEN D FIGUEIREDO",
     "Quantidade de Cana": "BOM",
     "Observações": null,
-    "Fazenda": null,
-    "Observações ": null,
-    "Unnamed: 19": null
+    "Fazenda": null
   },
   {
     "ID": "3880965",
@@ -2047,9 +1871,7 @@ window.QUALIDADE_CANA_DATA = [
     "Responsável": "MABILA HELEN D FIGUEIREDO",
     "Quantidade de Cana": "BOM",
     "Observações": null,
-    "Fazenda": null,
-    "Observações ": null,
-    "Unnamed: 19": null
+    "Fazenda": null
   },
   {
     "ID": "3880919",
@@ -2070,9 +1892,7 @@ window.QUALIDADE_CANA_DATA = [
     "Responsável": "MABILA HELEN D FIGUEIREDO",
     "Quantidade de Cana": "BOM",
     "Observações": null,
-    "Fazenda": null,
-    "Observações ": null,
-    "Unnamed: 19": null
+    "Fazenda": null
   },
   {
     "ID": "3880913",
@@ -2093,9 +1913,7 @@ window.QUALIDADE_CANA_DATA = [
     "Responsável": "MABILA HELEN D FIGUEIREDO",
     "Quantidade de Cana": "BOM",
     "Observações": null,
-    "Fazenda": null,
-    "Observações ": null,
-    "Unnamed: 19": null
+    "Fazenda": null
   },
   {
     "ID": "3880909",
@@ -2116,9 +1934,7 @@ window.QUALIDADE_CANA_DATA = [
     "Responsável": "MABILA HELEN D FIGUEIREDO",
     "Quantidade de Cana": "BOM",
     "Observações": null,
-    "Fazenda": null,
-    "Observações ": null,
-    "Unnamed: 19": null
+    "Fazenda": null
   },
   {
     "ID": "3880901",
@@ -2139,9 +1955,7 @@ window.QUALIDADE_CANA_DATA = [
     "Responsável": "MABILA HELEN D FIGUEIREDO",
     "Quantidade de Cana": "BOM",
     "Observações": null,
-    "Fazenda": null,
-    "Observações ": null,
-    "Unnamed: 19": null
+    "Fazenda": null
   },
   {
     "ID": "3880900",
@@ -2162,9 +1976,7 @@ window.QUALIDADE_CANA_DATA = [
     "Responsável": "MABILA HELEN D FIGUEIREDO",
     "Quantidade de Cana": "BOM",
     "Observações": null,
-    "Fazenda": null,
-    "Observações ": null,
-    "Unnamed: 19": null
+    "Fazenda": null
   },
   {
     "ID": "3878192",
@@ -2185,9 +1997,7 @@ window.QUALIDADE_CANA_DATA = [
     "Responsável": "MABILA HELEN D FIGUEIREDO",
     "Quantidade de Cana": "BOM",
     "Observações": null,
-    "Fazenda": null,
-    "Observações ": null,
-    "Unnamed: 19": null
+    "Fazenda": null
   },
   {
     "ID": "3878186",
@@ -2208,9 +2018,7 @@ window.QUALIDADE_CANA_DATA = [
     "Responsável": "MABILA HELEN D FIGUEIREDO",
     "Quantidade de Cana": "BOM",
     "Observações": null,
-    "Fazenda": null,
-    "Observações ": null,
-    "Unnamed: 19": null
+    "Fazenda": null
   },
   {
     "ID": "3877800",
@@ -2231,9 +2039,7 @@ window.QUALIDADE_CANA_DATA = [
     "Responsável": "MABILA HELEN D FIGUEIREDO",
     "Quantidade de Cana": "BOM",
     "Observações": null,
-    "Fazenda": null,
-    "Observações ": null,
-    "Unnamed: 19": null
+    "Fazenda": null
   },
   {
     "ID": "3877797",
@@ -2254,9 +2060,7 @@ window.QUALIDADE_CANA_DATA = [
     "Responsável": "MABILA HELEN D FIGUEIREDO",
     "Quantidade de Cana": "BOM",
     "Observações": null,
-    "Fazenda": null,
-    "Observações ": null,
-    "Unnamed: 19": null
+    "Fazenda": null
   },
   {
     "ID": "3877793",
@@ -2277,9 +2081,7 @@ window.QUALIDADE_CANA_DATA = [
     "Responsável": "MABILA HELEN D FIGUEIREDO",
     "Quantidade de Cana": "BOM",
     "Observações": null,
-    "Fazenda": null,
-    "Observações ": null,
-    "Unnamed: 19": null
+    "Fazenda": null
   },
   {
     "ID": "3877788",
@@ -2300,9 +2102,7 @@ window.QUALIDADE_CANA_DATA = [
     "Responsável": "MABILA HELEN D FIGUEIREDO",
     "Quantidade de Cana": "BOM",
     "Observações": null,
-    "Fazenda": null,
-    "Observações ": null,
-    "Unnamed: 19": null
+    "Fazenda": null
   },
   {
     "ID": "3877785",
@@ -2323,9 +2123,7 @@ window.QUALIDADE_CANA_DATA = [
     "Responsável": "MABILA HELEN D FIGUEIREDO",
     "Quantidade de Cana": "BOM",
     "Observações": null,
-    "Fazenda": null,
-    "Observações ": null,
-    "Unnamed: 19": null
+    "Fazenda": null
   },
   {
     "ID": "3877780",
@@ -2346,9 +2144,7 @@ window.QUALIDADE_CANA_DATA = [
     "Responsável": "MABILA HELEN D FIGUEIREDO",
     "Quantidade de Cana": "BOM",
     "Observações": null,
-    "Fazenda": null,
-    "Observações ": null,
-    "Unnamed: 19": null
+    "Fazenda": null
   },
   {
     "ID": "3877777",
@@ -2369,9 +2165,7 @@ window.QUALIDADE_CANA_DATA = [
     "Responsável": "MABILA HELEN D FIGUEIREDO",
     "Quantidade de Cana": "BOM",
     "Observações": null,
-    "Fazenda": null,
-    "Observações ": null,
-    "Unnamed: 19": null
+    "Fazenda": null
   },
   {
     "ID": "3877759",
@@ -2392,9 +2186,7 @@ window.QUALIDADE_CANA_DATA = [
     "Responsável": "MABILA HELEN D FIGUEIREDO",
     "Quantidade de Cana": "BOM",
     "Observações": null,
-    "Fazenda": null,
-    "Observações ": null,
-    "Unnamed: 19": null
+    "Fazenda": null
   },
   {
     "ID": "3877754",
@@ -2415,9 +2207,7 @@ window.QUALIDADE_CANA_DATA = [
     "Responsável": "MABILA HELEN D FIGUEIREDO",
     "Quantidade de Cana": "BOM",
     "Observações": null,
-    "Fazenda": null,
-    "Observações ": null,
-    "Unnamed: 19": null
+    "Fazenda": null
   },
   {
     "ID": "3874797",
@@ -2438,9 +2228,7 @@ window.QUALIDADE_CANA_DATA = [
     "Responsável": "MABILA HELEN D FIGUEIREDO",
     "Quantidade de Cana": "BOM",
     "Observações": null,
-    "Fazenda": null,
-    "Observações ": null,
-    "Unnamed: 19": null
+    "Fazenda": null
   },
   {
     "ID": "3874790",
@@ -2461,9 +2249,7 @@ window.QUALIDADE_CANA_DATA = [
     "Responsável": "MABILA HELEN D FIGUEIREDO",
     "Quantidade de Cana": "BOM",
     "Observações": null,
-    "Fazenda": null,
-    "Observações ": null,
-    "Unnamed: 19": null
+    "Fazenda": null
   },
   {
     "ID": "3874786",
@@ -2484,9 +2270,7 @@ window.QUALIDADE_CANA_DATA = [
     "Responsável": "MABILA HELEN D FIGUEIREDO",
     "Quantidade de Cana": "BOM",
     "Observações": null,
-    "Fazenda": null,
-    "Observações ": null,
-    "Unnamed: 19": null
+    "Fazenda": null
   },
   {
     "ID": "3874781",
@@ -2507,9 +2291,7 @@ window.QUALIDADE_CANA_DATA = [
     "Responsável": "MABILA HELEN D FIGUEIREDO",
     "Quantidade de Cana": "BOM",
     "Observações": null,
-    "Fazenda": null,
-    "Observações ": null,
-    "Unnamed: 19": null
+    "Fazenda": null
   },
   {
     "ID": "3874775",
@@ -2530,9 +2312,7 @@ window.QUALIDADE_CANA_DATA = [
     "Responsável": "MABILA HELEN D FIGUEIREDO",
     "Quantidade de Cana": "BOM",
     "Observações": null,
-    "Fazenda": null,
-    "Observações ": null,
-    "Unnamed: 19": null
+    "Fazenda": null
   },
   {
     "ID": "3872800",
@@ -2553,9 +2333,7 @@ window.QUALIDADE_CANA_DATA = [
     "Responsável": "MABILA HELEN D FIGUEIREDO",
     "Quantidade de Cana": "BOM",
     "Observações": null,
-    "Fazenda": null,
-    "Observações ": null,
-    "Unnamed: 19": null
+    "Fazenda": null
   },
   {
     "ID": "3872793",
@@ -2576,9 +2354,7 @@ window.QUALIDADE_CANA_DATA = [
     "Responsável": "MABILA HELEN D FIGUEIREDO",
     "Quantidade de Cana": "BOM",
     "Observações": null,
-    "Fazenda": null,
-    "Observações ": null,
-    "Unnamed: 19": null
+    "Fazenda": null
   },
   {
     "ID": "3872787",
@@ -2599,9 +2375,7 @@ window.QUALIDADE_CANA_DATA = [
     "Responsável": "MABILA HELEN D FIGUEIREDO",
     "Quantidade de Cana": "BOM",
     "Observações": null,
-    "Fazenda": null,
-    "Observações ": null,
-    "Unnamed: 19": null
+    "Fazenda": null
   },
   {
     "ID": "3872783",
@@ -2622,9 +2396,7 @@ window.QUALIDADE_CANA_DATA = [
     "Responsável": "MABILA HELEN D FIGUEIREDO",
     "Quantidade de Cana": "BOM",
     "Observações": null,
-    "Fazenda": null,
-    "Observações ": null,
-    "Unnamed: 19": null
+    "Fazenda": null
   },
   {
     "ID": "3872779",
@@ -2645,9 +2417,7 @@ window.QUALIDADE_CANA_DATA = [
     "Responsável": "MABILA HELEN D FIGUEIREDO",
     "Quantidade de Cana": "BOM",
     "Observações": null,
-    "Fazenda": null,
-    "Observações ": null,
-    "Unnamed: 19": null
+    "Fazenda": null
   },
   {
     "ID": "3872774",
@@ -2668,9 +2438,7 @@ window.QUALIDADE_CANA_DATA = [
     "Responsável": "MABILA HELEN D FIGUEIREDO",
     "Quantidade de Cana": "BOM",
     "Observações": null,
-    "Fazenda": null,
-    "Observações ": null,
-    "Unnamed: 19": null
+    "Fazenda": null
   },
   {
     "ID": "3872766",
@@ -2691,9 +2459,7 @@ window.QUALIDADE_CANA_DATA = [
     "Responsável": "MABILA HELEN D FIGUEIREDO",
     "Quantidade de Cana": "BOM",
     "Observações": null,
-    "Fazenda": null,
-    "Observações ": null,
-    "Unnamed: 19": null
+    "Fazenda": null
   },
   {
     "ID": "3872763",
@@ -2714,9 +2480,7 @@ window.QUALIDADE_CANA_DATA = [
     "Responsável": "MABILA HELEN D FIGUEIREDO",
     "Quantidade de Cana": "BOM",
     "Observações": null,
-    "Fazenda": null,
-    "Observações ": null,
-    "Unnamed: 19": null
+    "Fazenda": null
   },
   {
     "ID": "3872726",
@@ -2737,9 +2501,7 @@ window.QUALIDADE_CANA_DATA = [
     "Responsável": "MABILA HELEN D FIGUEIREDO",
     "Quantidade de Cana": "BOM",
     "Observações": null,
-    "Fazenda": null,
-    "Observações ": null,
-    "Unnamed: 19": null
+    "Fazenda": null
   },
   {
     "ID": "3872719",
@@ -2760,9 +2522,7 @@ window.QUALIDADE_CANA_DATA = [
     "Responsável": "MABILA HELEN D FIGUEIREDO",
     "Quantidade de Cana": "BOM",
     "Observações": null,
-    "Fazenda": null,
-    "Observações ": null,
-    "Unnamed: 19": null
+    "Fazenda": null
   },
   {
     "ID": "3872717",
@@ -2783,9 +2543,7 @@ window.QUALIDADE_CANA_DATA = [
     "Responsável": "MABILA HELEN D FIGUEIREDO",
     "Quantidade de Cana": "BOM",
     "Observações": null,
-    "Fazenda": null,
-    "Observações ": null,
-    "Unnamed: 19": null
+    "Fazenda": null
   },
   {
     "ID": "3872708",
@@ -2806,9 +2564,7 @@ window.QUALIDADE_CANA_DATA = [
     "Responsável": "MABILA HELEN D FIGUEIREDO",
     "Quantidade de Cana": "BOM",
     "Observações": null,
-    "Fazenda": null,
-    "Observações ": null,
-    "Unnamed: 19": null
+    "Fazenda": null
   },
   {
     "ID": "3872282",
@@ -2829,9 +2585,7 @@ window.QUALIDADE_CANA_DATA = [
     "Responsável": "REGINALDO DA SILVA GOMES ",
     "Quantidade de Cana": "BOM",
     "Observações": null,
-    "Fazenda": null,
-    "Observações ": null,
-    "Unnamed: 19": null
+    "Fazenda": null
   },
   {
     "ID": "3872697",
@@ -2852,9 +2606,7 @@ window.QUALIDADE_CANA_DATA = [
     "Responsável": "MABILA HELEN D FIGUEIREDO",
     "Quantidade de Cana": "BOM",
     "Observações": null,
-    "Fazenda": null,
-    "Observações ": null,
-    "Unnamed: 19": null
+    "Fazenda": null
   },
   {
     "ID": "3872696",
@@ -2875,9 +2627,7 @@ window.QUALIDADE_CANA_DATA = [
     "Responsável": "MABILA HELEN D FIGUEIREDO",
     "Quantidade de Cana": "BOM",
     "Observações": null,
-    "Fazenda": null,
-    "Observações ": null,
-    "Unnamed: 19": null
+    "Fazenda": null
   },
   {
     "ID": "3872276",
@@ -2898,9 +2648,7 @@ window.QUALIDADE_CANA_DATA = [
     "Responsável": "REGINALDO DA SILVA GOMES ",
     "Quantidade de Cana": "BOM",
     "Observações": null,
-    "Fazenda": null,
-    "Observações ": null,
-    "Unnamed: 19": null
+    "Fazenda": null
   },
   {
     "ID": "3872271",
@@ -2921,9 +2669,7 @@ window.QUALIDADE_CANA_DATA = [
     "Responsável": "REGINALDO DA SILVA GOMES ",
     "Quantidade de Cana": "BOM",
     "Observações": null,
-    "Fazenda": null,
-    "Observações ": null,
-    "Unnamed: 19": null
+    "Fazenda": null
   },
   {
     "ID": "3872683",
@@ -2944,9 +2690,7 @@ window.QUALIDADE_CANA_DATA = [
     "Responsável": "MABILA HELEN D FIGUEIREDO",
     "Quantidade de Cana": "BOM",
     "Observações": null,
-    "Fazenda": null,
-    "Observações ": null,
-    "Unnamed: 19": null
+    "Fazenda": null
   },
   {
     "ID": "3870280",
@@ -2967,9 +2711,7 @@ window.QUALIDADE_CANA_DATA = [
     "Responsável": "MABILA HELEN D FIGUEIREDO",
     "Quantidade de Cana": "BOM",
     "Observações": null,
-    "Fazenda": null,
-    "Observações ": null,
-    "Unnamed: 19": null
+    "Fazenda": null
   },
   {
     "ID": "3870275",
@@ -2990,9 +2732,7 @@ window.QUALIDADE_CANA_DATA = [
     "Responsável": "MABILA HELEN D FIGUEIREDO",
     "Quantidade de Cana": "BOM",
     "Observações": null,
-    "Fazenda": null,
-    "Observações ": null,
-    "Unnamed: 19": null
+    "Fazenda": null
   },
   {
     "ID": "3870267",
@@ -3013,9 +2753,7 @@ window.QUALIDADE_CANA_DATA = [
     "Responsável": "MABILA HELEN D FIGUEIREDO",
     "Quantidade de Cana": "BOM",
     "Observações": null,
-    "Fazenda": null,
-    "Observações ": null,
-    "Unnamed: 19": null
+    "Fazenda": null
   },
   {
     "ID": "3870262",
@@ -3036,9 +2774,7 @@ window.QUALIDADE_CANA_DATA = [
     "Responsável": "MABILA HELEN D FIGUEIREDO",
     "Quantidade de Cana": "BOM",
     "Observações": null,
-    "Fazenda": null,
-    "Observações ": null,
-    "Unnamed: 19": null
+    "Fazenda": null
   },
   {
     "ID": "3870260",
@@ -3059,9 +2795,7 @@ window.QUALIDADE_CANA_DATA = [
     "Responsável": "MABILA HELEN D FIGUEIREDO",
     "Quantidade de Cana": "BOM",
     "Observações": null,
-    "Fazenda": null,
-    "Observações ": null,
-    "Unnamed: 19": null
+    "Fazenda": null
   },
   {
     "ID": "3870128",
@@ -3082,9 +2816,7 @@ window.QUALIDADE_CANA_DATA = [
     "Responsável": "MABILA HELEN D FIGUEIREDO",
     "Quantidade de Cana": "BOM",
     "Observações": null,
-    "Fazenda": null,
-    "Observações ": null,
-    "Unnamed: 19": null
+    "Fazenda": null
   },
   {
     "ID": "3870121",
@@ -3105,9 +2837,7 @@ window.QUALIDADE_CANA_DATA = [
     "Responsável": "MABILA HELEN D FIGUEIREDO",
     "Quantidade de Cana": "BOM",
     "Observações": null,
-    "Fazenda": null,
-    "Observações ": null,
-    "Unnamed: 19": null
+    "Fazenda": null
   },
   {
     "ID": "3870111",
@@ -3128,9 +2858,7 @@ window.QUALIDADE_CANA_DATA = [
     "Responsável": "MABILA HELEN D FIGUEIREDO",
     "Quantidade de Cana": "BOM",
     "Observações": null,
-    "Fazenda": null,
-    "Observações ": null,
-    "Unnamed: 19": null
+    "Fazenda": null
   },
   {
     "ID": "3870101",
@@ -3151,9 +2879,7 @@ window.QUALIDADE_CANA_DATA = [
     "Responsável": "MABILA HELEN D FIGUEIREDO",
     "Quantidade de Cana": "BOM",
     "Observações": null,
-    "Fazenda": null,
-    "Observações ": null,
-    "Unnamed: 19": null
+    "Fazenda": null
   },
   {
     "ID": "3867377",
@@ -3174,9 +2900,7 @@ window.QUALIDADE_CANA_DATA = [
     "Responsável": "MABILA HELEN D FIGUEIREDO",
     "Quantidade de Cana": "BOM",
     "Observações": null,
-    "Fazenda": null,
-    "Observações ": null,
-    "Unnamed: 19": null
+    "Fazenda": null
   },
   {
     "ID": "3867372",
@@ -3197,9 +2921,7 @@ window.QUALIDADE_CANA_DATA = [
     "Responsável": "MABILA HELEN D FIGUEIREDO",
     "Quantidade de Cana": "BOM",
     "Observações": null,
-    "Fazenda": null,
-    "Observações ": null,
-    "Unnamed: 19": null
+    "Fazenda": null
   },
   {
     "ID": "3867365",
@@ -3220,9 +2942,7 @@ window.QUALIDADE_CANA_DATA = [
     "Responsável": "MABILA HELEN D FIGUEIREDO",
     "Quantidade de Cana": "BOM",
     "Observações": null,
-    "Fazenda": null,
-    "Observações ": null,
-    "Unnamed: 19": null
+    "Fazenda": null
   },
   {
     "ID": "3867360",
@@ -3243,9 +2963,7 @@ window.QUALIDADE_CANA_DATA = [
     "Responsável": "MABILA HELEN D FIGUEIREDO",
     "Quantidade de Cana": "BOM",
     "Observações": null,
-    "Fazenda": null,
-    "Observações ": null,
-    "Unnamed: 19": null
+    "Fazenda": null
   },
   {
     "ID": "3867356",
@@ -3266,9 +2984,7 @@ window.QUALIDADE_CANA_DATA = [
     "Responsável": "MABILA HELEN D FIGUEIREDO",
     "Quantidade de Cana": "BOM",
     "Observações": null,
-    "Fazenda": null,
-    "Observações ": null,
-    "Unnamed: 19": null
+    "Fazenda": null
   },
   {
     "ID": "3867351",
@@ -3289,9 +3005,7 @@ window.QUALIDADE_CANA_DATA = [
     "Responsável": "MABILA HELEN D FIGUEIREDO",
     "Quantidade de Cana": "BOM",
     "Observações": null,
-    "Fazenda": null,
-    "Observações ": null,
-    "Unnamed: 19": null
+    "Fazenda": null
   },
   {
     "ID": "3867327",
@@ -3312,9 +3026,7 @@ window.QUALIDADE_CANA_DATA = [
     "Responsável": "MABILA HELEN D FIGUEIREDO",
     "Quantidade de Cana": "BOM",
     "Observações": null,
-    "Fazenda": null,
-    "Observações ": null,
-    "Unnamed: 19": null
+    "Fazenda": null
   },
   {
     "ID": "3867322",
@@ -3335,9 +3047,7 @@ window.QUALIDADE_CANA_DATA = [
     "Responsável": "MABILA HELEN D FIGUEIREDO",
     "Quantidade de Cana": "BOM",
     "Observações": null,
-    "Fazenda": null,
-    "Observações ": null,
-    "Unnamed: 19": null
+    "Fazenda": null
   },
   {
     "ID": "3867318",
@@ -3358,9 +3068,7 @@ window.QUALIDADE_CANA_DATA = [
     "Responsável": "MABILA HELEN D FIGUEIREDO",
     "Quantidade de Cana": "BOM",
     "Observações": null,
-    "Fazenda": null,
-    "Observações ": null,
-    "Unnamed: 19": null
+    "Fazenda": null
   },
   {
     "ID": "3867316",
@@ -3381,9 +3089,7 @@ window.QUALIDADE_CANA_DATA = [
     "Responsável": "MABILA HELEN D FIGUEIREDO",
     "Quantidade de Cana": "BOM",
     "Observações": null,
-    "Fazenda": null,
-    "Observações ": null,
-    "Unnamed: 19": null
+    "Fazenda": null
   },
   {
     "ID": "3867309",
@@ -3404,9 +3110,7 @@ window.QUALIDADE_CANA_DATA = [
     "Responsável": "MABILA HELEN D FIGUEIREDO",
     "Quantidade de Cana": "BOM",
     "Observações": null,
-    "Fazenda": null,
-    "Observações ": null,
-    "Unnamed: 19": null
+    "Fazenda": null
   },
   {
     "ID": "3867382",
@@ -3427,9 +3131,7 @@ window.QUALIDADE_CANA_DATA = [
     "Responsável": "MABILA HELEN D FIGUEIREDO",
     "Quantidade de Cana": "BOM",
     "Observações": null,
-    "Fazenda": null,
-    "Observações ": null,
-    "Unnamed: 19": null
+    "Fazenda": null
   },
   {
     "ID": "3864198",
@@ -3450,9 +3152,7 @@ window.QUALIDADE_CANA_DATA = [
     "Responsável": "MABILA HELEN D FIGUEIREDO",
     "Quantidade de Cana": "BOM",
     "Observações": null,
-    "Fazenda": null,
-    "Observações ": null,
-    "Unnamed: 19": null
+    "Fazenda": null
   },
   {
     "ID": "3864191",
@@ -3473,9 +3173,7 @@ window.QUALIDADE_CANA_DATA = [
     "Responsável": "MABILA HELEN D FIGUEIREDO",
     "Quantidade de Cana": "BOM",
     "Observações": null,
-    "Fazenda": null,
-    "Observações ": null,
-    "Unnamed: 19": null
+    "Fazenda": null
   },
   {
     "ID": "3864187",
@@ -3496,9 +3194,7 @@ window.QUALIDADE_CANA_DATA = [
     "Responsável": "MABILA HELEN D FIGUEIREDO",
     "Quantidade de Cana": "BOM",
     "Observações": null,
-    "Fazenda": null,
-    "Observações ": null,
-    "Unnamed: 19": null
+    "Fazenda": null
   },
   {
     "ID": "3864183",
@@ -3519,9 +3215,7 @@ window.QUALIDADE_CANA_DATA = [
     "Responsável": "MABILA HELEN D FIGUEIREDO",
     "Quantidade de Cana": "BOM",
     "Observações": null,
-    "Fazenda": null,
-    "Observações ": null,
-    "Unnamed: 19": null
+    "Fazenda": null
   },
   {
     "ID": "3864174",
@@ -3542,9 +3236,7 @@ window.QUALIDADE_CANA_DATA = [
     "Responsável": "MABILA HELEN D FIGUEIREDO",
     "Quantidade de Cana": "BOM",
     "Observações": null,
-    "Fazenda": null,
-    "Observações ": null,
-    "Unnamed: 19": null
+    "Fazenda": null
   },
   {
     "ID": "3864170",
@@ -3565,9 +3257,7 @@ window.QUALIDADE_CANA_DATA = [
     "Responsável": "MABILA HELEN D FIGUEIREDO",
     "Quantidade de Cana": "BOM",
     "Observações": null,
-    "Fazenda": null,
-    "Observações ": null,
-    "Unnamed: 19": null
+    "Fazenda": null
   },
   {
     "ID": "3864162",
@@ -3588,9 +3278,7 @@ window.QUALIDADE_CANA_DATA = [
     "Responsável": "MABILA HELEN D FIGUEIREDO",
     "Quantidade de Cana": "BOM",
     "Observações": null,
-    "Fazenda": null,
-    "Observações ": null,
-    "Unnamed: 19": null
+    "Fazenda": null
   },
   {
     "ID": "3861944",
@@ -3611,9 +3299,7 @@ window.QUALIDADE_CANA_DATA = [
     "Responsável": "MABILA HELEN D FIGUEIREDO",
     "Quantidade de Cana": "BOM",
     "Observações": null,
-    "Fazenda": null,
-    "Observações ": null,
-    "Unnamed: 19": null
+    "Fazenda": null
   },
   {
     "ID": "3861940",
@@ -3634,9 +3320,7 @@ window.QUALIDADE_CANA_DATA = [
     "Responsável": "MABILA HELEN D FIGUEIREDO",
     "Quantidade de Cana": "BOM",
     "Observações": null,
-    "Fazenda": null,
-    "Observações ": null,
-    "Unnamed: 19": null
+    "Fazenda": null
   },
   {
     "ID": "3861933",
@@ -3657,9 +3341,7 @@ window.QUALIDADE_CANA_DATA = [
     "Responsável": "MABILA HELEN D FIGUEIREDO",
     "Quantidade de Cana": "BOM",
     "Observações": null,
-    "Fazenda": null,
-    "Observações ": null,
-    "Unnamed: 19": null
+    "Fazenda": null
   },
   {
     "ID": "3861932",
@@ -3680,9 +3362,7 @@ window.QUALIDADE_CANA_DATA = [
     "Responsável": "MABILA HELEN D FIGUEIREDO",
     "Quantidade de Cana": "BOM",
     "Observações": null,
-    "Fazenda": null,
-    "Observações ": null,
-    "Unnamed: 19": null
+    "Fazenda": null
   },
   {
     "ID": "3861925",
@@ -3703,9 +3383,7 @@ window.QUALIDADE_CANA_DATA = [
     "Responsável": "MABILA HELEN D FIGUEIREDO",
     "Quantidade de Cana": "BOM",
     "Observações": null,
-    "Fazenda": null,
-    "Observações ": null,
-    "Unnamed: 19": null
+    "Fazenda": null
   },
   {
     "ID": "3861906",
@@ -3726,9 +3404,7 @@ window.QUALIDADE_CANA_DATA = [
     "Responsável": "MABILA HELEN D FIGUEIREDO",
     "Quantidade de Cana": "BOM",
     "Observações": null,
-    "Fazenda": null,
-    "Observações ": null,
-    "Unnamed: 19": null
+    "Fazenda": null
   },
   {
     "ID": "3861904",
@@ -3749,9 +3425,7 @@ window.QUALIDADE_CANA_DATA = [
     "Responsável": "MABILA HELEN D FIGUEIREDO",
     "Quantidade de Cana": "BOM",
     "Observações": null,
-    "Fazenda": null,
-    "Observações ": null,
-    "Unnamed: 19": null
+    "Fazenda": null
   },
   {
     "ID": "3861897",
@@ -3772,9 +3446,7 @@ window.QUALIDADE_CANA_DATA = [
     "Responsável": "MABILA HELEN D FIGUEIREDO",
     "Quantidade de Cana": "BOM",
     "Observações": null,
-    "Fazenda": null,
-    "Observações ": null,
-    "Unnamed: 19": null
+    "Fazenda": null
   },
   {
     "ID": "3861892",
@@ -3795,9 +3467,7 @@ window.QUALIDADE_CANA_DATA = [
     "Responsável": "MABILA HELEN D FIGUEIREDO",
     "Quantidade de Cana": "BOM",
     "Observações": null,
-    "Fazenda": null,
-    "Observações ": null,
-    "Unnamed: 19": null
+    "Fazenda": null
   },
   {
     "ID": "3861891",
@@ -3818,9 +3488,7 @@ window.QUALIDADE_CANA_DATA = [
     "Responsável": "MABILA HELEN D FIGUEIREDO",
     "Quantidade de Cana": "BOM",
     "Observações": null,
-    "Fazenda": null,
-    "Observações ": null,
-    "Unnamed: 19": null
+    "Fazenda": null
   },
   {
     "ID": "3861885",
@@ -3841,9 +3509,7 @@ window.QUALIDADE_CANA_DATA = [
     "Responsável": "MABILA HELEN D FIGUEIREDO",
     "Quantidade de Cana": "BOM",
     "Observações": null,
-    "Fazenda": null,
-    "Observações ": null,
-    "Unnamed: 19": null
+    "Fazenda": null
   },
   {
     "ID": "3861170",
@@ -3864,9 +3530,7 @@ window.QUALIDADE_CANA_DATA = [
     "Responsável": "MABILA HELEN D FIGUEIREDO",
     "Quantidade de Cana": "BOM",
     "Observações": null,
-    "Fazenda": null,
-    "Observações ": null,
-    "Unnamed: 19": null
+    "Fazenda": null
   },
   {
     "ID": "3859032",
@@ -3887,9 +3551,7 @@ window.QUALIDADE_CANA_DATA = [
     "Responsável": "MABILA HELEN D FIGUEIREDO",
     "Quantidade de Cana": "BOM",
     "Observações": null,
-    "Fazenda": null,
-    "Observações ": null,
-    "Unnamed: 19": null
+    "Fazenda": null
   },
   {
     "ID": "3859027",
@@ -3910,9 +3572,7 @@ window.QUALIDADE_CANA_DATA = [
     "Responsável": "MABILA HELEN D FIGUEIREDO",
     "Quantidade de Cana": "BOM",
     "Observações": null,
-    "Fazenda": null,
-    "Observações ": null,
-    "Unnamed: 19": null
+    "Fazenda": null
   },
   {
     "ID": "3859024",
@@ -3933,9 +3593,7 @@ window.QUALIDADE_CANA_DATA = [
     "Responsável": "MABILA HELEN D FIGUEIREDO",
     "Quantidade de Cana": "BOM",
     "Observações": null,
-    "Fazenda": null,
-    "Observações ": null,
-    "Unnamed: 19": null
+    "Fazenda": null
   },
   {
     "ID": "3859017",
@@ -3956,9 +3614,7 @@ window.QUALIDADE_CANA_DATA = [
     "Responsável": "MABILA HELEN D FIGUEIREDO",
     "Quantidade de Cana": "BOM",
     "Observações": null,
-    "Fazenda": null,
-    "Observações ": null,
-    "Unnamed: 19": null
+    "Fazenda": null
   },
   {
     "ID": "3859013",
@@ -3979,9 +3635,7 @@ window.QUALIDADE_CANA_DATA = [
     "Responsável": "MABILA HELEN D FIGUEIREDO",
     "Quantidade de Cana": "BOM",
     "Observações": null,
-    "Fazenda": null,
-    "Observações ": null,
-    "Unnamed: 19": null
+    "Fazenda": null
   },
   {
     "ID": "3859007",
@@ -4002,9 +3656,7 @@ window.QUALIDADE_CANA_DATA = [
     "Responsável": "MABILA HELEN D FIGUEIREDO",
     "Quantidade de Cana": "BOM",
     "Observações": null,
-    "Fazenda": null,
-    "Observações ": null,
-    "Unnamed: 19": null
+    "Fazenda": null
   },
   {
     "ID": "3858999",
@@ -4025,9 +3677,7 @@ window.QUALIDADE_CANA_DATA = [
     "Responsável": "MABILA HELEN D FIGUEIREDO",
     "Quantidade de Cana": "BOM",
     "Observações": null,
-    "Fazenda": null,
-    "Observações ": null,
-    "Unnamed: 19": null
+    "Fazenda": null
   },
   {
     "ID": "3858995",
@@ -4048,9 +3698,7 @@ window.QUALIDADE_CANA_DATA = [
     "Responsável": "MABILA HELEN D FIGUEIREDO",
     "Quantidade de Cana": "BOM",
     "Observações": null,
-    "Fazenda": null,
-    "Observações ": null,
-    "Unnamed: 19": null
+    "Fazenda": null
   },
   {
     "ID": "3858994",
@@ -4071,9 +3719,7 @@ window.QUALIDADE_CANA_DATA = [
     "Responsável": "MABILA HELEN D FIGUEIREDO",
     "Quantidade de Cana": "BOM",
     "Observações": null,
-    "Fazenda": null,
-    "Observações ": null,
-    "Unnamed: 19": null
+    "Fazenda": null
   },
   {
     "ID": "3858990",
@@ -4094,9 +3740,7 @@ window.QUALIDADE_CANA_DATA = [
     "Responsável": "MABILA HELEN D FIGUEIREDO",
     "Quantidade de Cana": "BOM",
     "Observações": null,
-    "Fazenda": null,
-    "Observações ": null,
-    "Unnamed: 19": null
+    "Fazenda": null
   },
   {
     "ID": "3855173",
@@ -4117,9 +3761,7 @@ window.QUALIDADE_CANA_DATA = [
     "Responsável": "MABILA HELEN D FIGUEIREDO",
     "Quantidade de Cana": "BOM",
     "Observações": null,
-    "Fazenda": null,
-    "Observações ": null,
-    "Unnamed: 19": null
+    "Fazenda": null
   },
   {
     "ID": "3855172",
@@ -4140,9 +3782,7 @@ window.QUALIDADE_CANA_DATA = [
     "Responsável": "MABILA HELEN D FIGUEIREDO",
     "Quantidade de Cana": "BOM",
     "Observações": null,
-    "Fazenda": null,
-    "Observações ": null,
-    "Unnamed: 19": null
+    "Fazenda": null
   },
   {
     "ID": "3855166",
@@ -4163,9 +3803,7 @@ window.QUALIDADE_CANA_DATA = [
     "Responsável": "MABILA HELEN D FIGUEIREDO",
     "Quantidade de Cana": "BOM",
     "Observações": null,
-    "Fazenda": null,
-    "Observações ": null,
-    "Unnamed: 19": null
+    "Fazenda": null
   },
   {
     "ID": "3855164",
@@ -4186,9 +3824,7 @@ window.QUALIDADE_CANA_DATA = [
     "Responsável": "MABILA HELEN D FIGUEIREDO",
     "Quantidade de Cana": "BOM",
     "Observações": null,
-    "Fazenda": null,
-    "Observações ": null,
-    "Unnamed: 19": null
+    "Fazenda": null
   },
   {
     "ID": "3855159",
@@ -4209,9 +3845,7 @@ window.QUALIDADE_CANA_DATA = [
     "Responsável": "MABILA HELEN D FIGUEIREDO",
     "Quantidade de Cana": "BOM",
     "Observações": null,
-    "Fazenda": null,
-    "Observações ": null,
-    "Unnamed: 19": null
+    "Fazenda": null
   },
   {
     "ID": "3855150",
@@ -4232,9 +3866,7 @@ window.QUALIDADE_CANA_DATA = [
     "Responsável": "MABILA HELEN D FIGUEIREDO",
     "Quantidade de Cana": "BOM",
     "Observações": null,
-    "Fazenda": null,
-    "Observações ": null,
-    "Unnamed: 19": null
+    "Fazenda": null
   },
   {
     "ID": "3854883",
@@ -4255,9 +3887,7 @@ window.QUALIDADE_CANA_DATA = [
     "Responsável": "MABILA HELEN D FIGUEIREDO",
     "Quantidade de Cana": "BOM",
     "Observações": null,
-    "Fazenda": null,
-    "Observações ": null,
-    "Unnamed: 19": null
+    "Fazenda": null
   },
   {
     "ID": "3854879",
@@ -4278,9 +3908,7 @@ window.QUALIDADE_CANA_DATA = [
     "Responsável": "MABILA HELEN D FIGUEIREDO",
     "Quantidade de Cana": "BOM",
     "Observações": null,
-    "Fazenda": null,
-    "Observações ": null,
-    "Unnamed: 19": null
+    "Fazenda": null
   },
   {
     "ID": "3854873",
@@ -4301,9 +3929,7 @@ window.QUALIDADE_CANA_DATA = [
     "Responsável": "MABILA HELEN D FIGUEIREDO",
     "Quantidade de Cana": "BOM",
     "Observações": null,
-    "Fazenda": null,
-    "Observações ": null,
-    "Unnamed: 19": null
+    "Fazenda": null
   },
   {
     "ID": "3854871",
@@ -4324,9 +3950,7 @@ window.QUALIDADE_CANA_DATA = [
     "Responsável": "MABILA HELEN D FIGUEIREDO",
     "Quantidade de Cana": "BOM",
     "Observações": null,
-    "Fazenda": null,
-    "Observações ": null,
-    "Unnamed: 19": null
+    "Fazenda": null
   },
   {
     "ID": "3854865",
@@ -4347,9 +3971,7 @@ window.QUALIDADE_CANA_DATA = [
     "Responsável": "MABILA HELEN D FIGUEIREDO",
     "Quantidade de Cana": "BOM",
     "Observações": null,
-    "Fazenda": null,
-    "Observações ": null,
-    "Unnamed: 19": null
+    "Fazenda": null
   },
   {
     "ID": "3852421",
@@ -4370,9 +3992,7 @@ window.QUALIDADE_CANA_DATA = [
     "Responsável": "MABILA HELEN D FIGUEIREDO",
     "Quantidade de Cana": "BOM",
     "Observações": null,
-    "Fazenda": null,
-    "Observações ": null,
-    "Unnamed: 19": null
+    "Fazenda": null
   },
   {
     "ID": "3852412",
@@ -4393,9 +4013,7 @@ window.QUALIDADE_CANA_DATA = [
     "Responsável": "MABILA HELEN D FIGUEIREDO",
     "Quantidade de Cana": "BOM",
     "Observações": null,
-    "Fazenda": null,
-    "Observações ": null,
-    "Unnamed: 19": null
+    "Fazenda": null
   },
   {
     "ID": "3852411",
@@ -4416,9 +4034,7 @@ window.QUALIDADE_CANA_DATA = [
     "Responsável": "MABILA HELEN D FIGUEIREDO",
     "Quantidade de Cana": "BOM",
     "Observações": null,
-    "Fazenda": null,
-    "Observações ": null,
-    "Unnamed: 19": null
+    "Fazenda": null
   },
   {
     "ID": "3852401",
@@ -4439,9 +4055,7 @@ window.QUALIDADE_CANA_DATA = [
     "Responsável": "MABILA HELEN D FIGUEIREDO",
     "Quantidade de Cana": "BOM",
     "Observações": null,
-    "Fazenda": null,
-    "Observações ": null,
-    "Unnamed: 19": null
+    "Fazenda": null
   },
   {
     "ID": "3852400",
@@ -4462,9 +4076,7 @@ window.QUALIDADE_CANA_DATA = [
     "Responsável": "MABILA HELEN D FIGUEIREDO",
     "Quantidade de Cana": "BOM",
     "Observações": null,
-    "Fazenda": null,
-    "Observações ": null,
-    "Unnamed: 19": null
+    "Fazenda": null
   },
   {
     "ID": "3852393",
@@ -4485,9 +4097,7 @@ window.QUALIDADE_CANA_DATA = [
     "Responsável": "MABILA HELEN D FIGUEIREDO",
     "Quantidade de Cana": "BOM",
     "Observações": null,
-    "Fazenda": null,
-    "Observações ": null,
-    "Unnamed: 19": null
+    "Fazenda": null
   },
   {
     "ID": "3852388",
@@ -4508,9 +4118,7 @@ window.QUALIDADE_CANA_DATA = [
     "Responsável": "MABILA HELEN D FIGUEIREDO",
     "Quantidade de Cana": "BOM",
     "Observações": null,
-    "Fazenda": null,
-    "Observações ": null,
-    "Unnamed: 19": null
+    "Fazenda": null
   },
   {
     "ID": "3852379",
@@ -4531,9 +4139,7 @@ window.QUALIDADE_CANA_DATA = [
     "Responsável": "MABILA HELEN D FIGUEIREDO",
     "Quantidade de Cana": "BOM",
     "Observações": null,
-    "Fazenda": null,
-    "Observações ": null,
-    "Unnamed: 19": null
+    "Fazenda": null
   },
   {
     "ID": "3849790",
@@ -4554,9 +4160,7 @@ window.QUALIDADE_CANA_DATA = [
     "Responsável": "MABILA HELEN D FIGUEIREDO",
     "Quantidade de Cana": "BOM",
     "Observações": null,
-    "Fazenda": null,
-    "Observações ": null,
-    "Unnamed: 19": null
+    "Fazenda": null
   },
   {
     "ID": "3849786",
@@ -4577,9 +4181,7 @@ window.QUALIDADE_CANA_DATA = [
     "Responsável": "MABILA HELEN D FIGUEIREDO",
     "Quantidade de Cana": "BOM",
     "Observações": null,
-    "Fazenda": null,
-    "Observações ": null,
-    "Unnamed: 19": null
+    "Fazenda": null
   },
   {
     "ID": "3849776",
@@ -4600,9 +4202,7 @@ window.QUALIDADE_CANA_DATA = [
     "Responsável": "MABILA HELEN D FIGUEIREDO",
     "Quantidade de Cana": "BOM",
     "Observações": null,
-    "Fazenda": null,
-    "Observações ": null,
-    "Unnamed: 19": null
+    "Fazenda": null
   },
   {
     "ID": "3849771",
@@ -4623,9 +4223,7 @@ window.QUALIDADE_CANA_DATA = [
     "Responsável": "MABILA HELEN D FIGUEIREDO",
     "Quantidade de Cana": "BOM",
     "Observações": null,
-    "Fazenda": null,
-    "Observações ": null,
-    "Unnamed: 19": null
+    "Fazenda": null
   },
   {
     "ID": "3849764",
@@ -4646,9 +4244,7 @@ window.QUALIDADE_CANA_DATA = [
     "Responsável": "MABILA HELEN D FIGUEIREDO",
     "Quantidade de Cana": "BOM",
     "Observações": null,
-    "Fazenda": null,
-    "Observações ": null,
-    "Unnamed: 19": null
+    "Fazenda": null
   },
   {
     "ID": "3846847",
@@ -4669,9 +4265,7 @@ window.QUALIDADE_CANA_DATA = [
     "Responsável": "MABILA HELEN D FIGUEIREDO",
     "Quantidade de Cana": "BOM",
     "Observações": null,
-    "Fazenda": null,
-    "Observações ": null,
-    "Unnamed: 19": null
+    "Fazenda": null
   },
   {
     "ID": "3846841",
@@ -4692,9 +4286,7 @@ window.QUALIDADE_CANA_DATA = [
     "Responsável": "MABILA HELEN D FIGUEIREDO",
     "Quantidade de Cana": "BOM",
     "Observações": null,
-    "Fazenda": null,
-    "Observações ": null,
-    "Unnamed: 19": null
+    "Fazenda": null
   },
   {
     "ID": "3846833",
@@ -4715,9 +4307,7 @@ window.QUALIDADE_CANA_DATA = [
     "Responsável": "MABILA HELEN D FIGUEIREDO",
     "Quantidade de Cana": "BOM",
     "Observações": null,
-    "Fazenda": null,
-    "Observações ": null,
-    "Unnamed: 19": null
+    "Fazenda": null
   },
   {
     "ID": "3846825",
@@ -4738,9 +4328,7 @@ window.QUALIDADE_CANA_DATA = [
     "Responsável": "MABILA HELEN D FIGUEIREDO",
     "Quantidade de Cana": "BOM",
     "Observações": null,
-    "Fazenda": null,
-    "Observações ": null,
-    "Unnamed: 19": null
+    "Fazenda": null
   },
   {
     "ID": "3846816",
@@ -4761,9 +4349,7 @@ window.QUALIDADE_CANA_DATA = [
     "Responsável": "MABILA HELEN D FIGUEIREDO",
     "Quantidade de Cana": "BOM",
     "Observações": null,
-    "Fazenda": null,
-    "Observações ": null,
-    "Unnamed: 19": null
+    "Fazenda": null
   },
   {
     "ID": "3846811",
@@ -4784,9 +4370,7 @@ window.QUALIDADE_CANA_DATA = [
     "Responsável": "MABILA HELEN D FIGUEIREDO",
     "Quantidade de Cana": "BOM",
     "Observações": null,
-    "Fazenda": null,
-    "Observações ": null,
-    "Unnamed: 19": null
+    "Fazenda": null
   },
   {
     "ID": "3843653",
@@ -4807,9 +4391,7 @@ window.QUALIDADE_CANA_DATA = [
     "Responsável": "MABILA HELEN D FIGUEIREDO",
     "Quantidade de Cana": "BOM",
     "Observações": null,
-    "Fazenda": null,
-    "Observações ": null,
-    "Unnamed: 19": null
+    "Fazenda": null
   },
   {
     "ID": "3843646",
@@ -4830,9 +4412,7 @@ window.QUALIDADE_CANA_DATA = [
     "Responsável": "MABILA HELEN D FIGUEIREDO",
     "Quantidade de Cana": "BOM",
     "Observações": null,
-    "Fazenda": null,
-    "Observações ": null,
-    "Unnamed: 19": null
+    "Fazenda": null
   },
   {
     "ID": "3591075",
@@ -4853,9 +4433,7 @@ window.QUALIDADE_CANA_DATA = [
     "Responsável": "MICHELI DE SOUZA SANTOS  ",
     "Quantidade de Cana": "BOM",
     "Observações": null,
-    "Fazenda": null,
-    "Observações ": null,
-    "Unnamed: 19": null
+    "Fazenda": null
   },
   {
     "ID": "3591076",
@@ -4876,9 +4454,7 @@ window.QUALIDADE_CANA_DATA = [
     "Responsável": "MICHELI DE SOUZA SANTOS  ",
     "Quantidade de Cana": "BOM",
     "Observações": null,
-    "Fazenda": null,
-    "Observações ": null,
-    "Unnamed: 19": null
+    "Fazenda": null
   },
   {
     "ID": "3591092",
@@ -4899,9 +4475,7 @@ window.QUALIDADE_CANA_DATA = [
     "Responsável": "MABILA HELEN D FIGUEIREDO",
     "Quantidade de Cana": "BOM",
     "Observações": null,
-    "Fazenda": null,
-    "Observações ": null,
-    "Unnamed: 19": null
+    "Fazenda": null
   },
   {
     "ID": "3591095",
@@ -4922,9 +4496,7 @@ window.QUALIDADE_CANA_DATA = [
     "Responsável": "MABILA HELEN D FIGUEIREDO",
     "Quantidade de Cana": "BOM",
     "Observações": null,
-    "Fazenda": null,
-    "Observações ": null,
-    "Unnamed: 19": null
+    "Fazenda": null
   },
   {
     "ID": "3574228",
@@ -4945,9 +4517,7 @@ window.QUALIDADE_CANA_DATA = [
     "Responsável": "MICHELI DE SOUZA SANTOS  ",
     "Quantidade de Cana": "BOM",
     "Observações": null,
-    "Fazenda": null,
-    "Observações ": null,
-    "Unnamed: 19": null
+    "Fazenda": null
   },
   {
     "ID": "3574230",
@@ -4968,9 +4538,7 @@ window.QUALIDADE_CANA_DATA = [
     "Responsável": "MICHELI DE SOUZA SANTOS  ",
     "Quantidade de Cana": "BOM",
     "Observações": null,
-    "Fazenda": null,
-    "Observações ": null,
-    "Unnamed: 19": null
+    "Fazenda": null
   },
   {
     "ID": "3574231",
@@ -4991,9 +4559,7 @@ window.QUALIDADE_CANA_DATA = [
     "Responsável": "MICHELI DE SOUZA SANTOS  ",
     "Quantidade de Cana": "BOM",
     "Observações": null,
-    "Fazenda": null,
-    "Observações ": null,
-    "Unnamed: 19": null
+    "Fazenda": null
   },
   {
     "ID": "3574232",
@@ -5014,9 +4580,7 @@ window.QUALIDADE_CANA_DATA = [
     "Responsável": "MICHELI DE SOUZA SANTOS  ",
     "Quantidade de Cana": "BOM",
     "Observações": null,
-    "Fazenda": null,
-    "Observações ": null,
-    "Unnamed: 19": null
+    "Fazenda": null
   },
   {
     "ID": "3574229",
@@ -5037,9 +4601,7 @@ window.QUALIDADE_CANA_DATA = [
     "Responsável": "MICHELI DE SOUZA SANTOS  ",
     "Quantidade de Cana": "BOM",
     "Observações": null,
-    "Fazenda": null,
-    "Observações ": null,
-    "Unnamed: 19": null
+    "Fazenda": null
   },
   {
     "ID": "3574225",
@@ -5060,9 +4622,7 @@ window.QUALIDADE_CANA_DATA = [
     "Responsável": "MICHELI DE SOUZA SANTOS  ",
     "Quantidade de Cana": "BOM",
     "Observações": null,
-    "Fazenda": null,
-    "Observações ": null,
-    "Unnamed: 19": null
+    "Fazenda": null
   },
   {
     "ID": "3574327",
@@ -5083,9 +4643,7 @@ window.QUALIDADE_CANA_DATA = [
     "Responsável": "MICHELI DE SOUZA SANTOS  ",
     "Quantidade de Cana": "BOM",
     "Observações": null,
-    "Fazenda": null,
-    "Observações ": null,
-    "Unnamed: 19": null
+    "Fazenda": null
   },
   {
     "ID": "3641090",
@@ -5106,9 +4664,7 @@ window.QUALIDADE_CANA_DATA = [
     "Responsável": "MARCELO DE OLIVEIRA JUNIOR",
     "Quantidade de Cana": "BOM",
     "Observações": null,
-    "Fazenda": null,
-    "Observações ": null,
-    "Unnamed: 19": null
+    "Fazenda": null
   },
   {
     "ID": "3641085",
@@ -5129,9 +4685,7 @@ window.QUALIDADE_CANA_DATA = [
     "Responsável": "MARCELO DE OLIVEIRA JUNIOR",
     "Quantidade de Cana": "BOM",
     "Observações": null,
-    "Fazenda": null,
-    "Observações ": null,
-    "Unnamed: 19": null
+    "Fazenda": null
   },
   {
     "ID": "3641084",
@@ -5152,9 +4706,7 @@ window.QUALIDADE_CANA_DATA = [
     "Responsável": "MARCELO DE OLIVEIRA JUNIOR",
     "Quantidade de Cana": "BOM",
     "Observações": null,
-    "Fazenda": null,
-    "Observações ": null,
-    "Unnamed: 19": null
+    "Fazenda": null
   },
   {
     "ID": "3641078",
@@ -5175,9 +4727,7 @@ window.QUALIDADE_CANA_DATA = [
     "Responsável": "MARCELO DE OLIVEIRA JUNIOR",
     "Quantidade de Cana": "BOM",
     "Observações": null,
-    "Fazenda": null,
-    "Observações ": null,
-    "Unnamed: 19": null
+    "Fazenda": null
   },
   {
     "ID": "3638326",
@@ -5198,9 +4748,7 @@ window.QUALIDADE_CANA_DATA = [
     "Responsável": "NILDA CLAUDINO [2510716]",
     "Quantidade de Cana": "BOM",
     "Observações": null,
-    "Fazenda": null,
-    "Observações ": null,
-    "Unnamed: 19": null
+    "Fazenda": null
   },
   {
     "ID": "3638325",
@@ -5221,9 +4769,7 @@ window.QUALIDADE_CANA_DATA = [
     "Responsável": "NILDA CLAUDINO [2510716]",
     "Quantidade de Cana": "BOM",
     "Observações": null,
-    "Fazenda": null,
-    "Observações ": null,
-    "Unnamed: 19": null
+    "Fazenda": null
   },
   {
     "ID": "3638323",
@@ -5244,9 +4790,7 @@ window.QUALIDADE_CANA_DATA = [
     "Responsável": "NILDA CLAUDINO [2510716]",
     "Quantidade de Cana": "BOM",
     "Observações": null,
-    "Fazenda": null,
-    "Observações ": null,
-    "Unnamed: 19": null
+    "Fazenda": null
   },
   {
     "ID": "3636036",
@@ -5267,9 +4811,7 @@ window.QUALIDADE_CANA_DATA = [
     "Responsável": "MARCELO DE OLIVEIRA JUNIOR",
     "Quantidade de Cana": "BOM",
     "Observações": null,
-    "Fazenda": null,
-    "Observações ": null,
-    "Unnamed: 19": null
+    "Fazenda": null
   },
   {
     "ID": "3636027",
@@ -5290,9 +4832,7 @@ window.QUALIDADE_CANA_DATA = [
     "Responsável": "MARCELO DE OLIVEIRA JUNIOR",
     "Quantidade de Cana": "BOM",
     "Observações": null,
-    "Fazenda": null,
-    "Observações ": null,
-    "Unnamed: 19": null
+    "Fazenda": null
   },
   {
     "ID": "3636025",
@@ -5313,9 +4853,7 @@ window.QUALIDADE_CANA_DATA = [
     "Responsável": "MARCELO DE OLIVEIRA JUNIOR",
     "Quantidade de Cana": "BOM",
     "Observações": null,
-    "Fazenda": null,
-    "Observações ": null,
-    "Unnamed: 19": null
+    "Fazenda": null
   },
   {
     "ID": "3635297",
@@ -5336,9 +4874,7 @@ window.QUALIDADE_CANA_DATA = [
     "Responsável": "NILDA CLAUDINO [2510716]",
     "Quantidade de Cana": "BOM",
     "Observações": null,
-    "Fazenda": null,
-    "Observações ": null,
-    "Unnamed: 19": null
+    "Fazenda": null
   },
   {
     "ID": "3635255",
@@ -5359,9 +4895,7 @@ window.QUALIDADE_CANA_DATA = [
     "Responsável": "NILDA CLAUDINO [2510716]",
     "Quantidade de Cana": "BOM",
     "Observações": null,
-    "Fazenda": null,
-    "Observações ": null,
-    "Unnamed: 19": null
+    "Fazenda": null
   },
   {
     "ID": "3635254",
@@ -5382,9 +4916,7 @@ window.QUALIDADE_CANA_DATA = [
     "Responsável": "NILDA CLAUDINO [2510716]",
     "Quantidade de Cana": "BOM",
     "Observações": null,
-    "Fazenda": null,
-    "Observações ": null,
-    "Unnamed: 19": null
+    "Fazenda": null
   },
   {
     "ID": "3633045",
@@ -5405,9 +4937,7 @@ window.QUALIDADE_CANA_DATA = [
     "Responsável": "NILDA CLAUDINO [2510716]",
     "Quantidade de Cana": "BOM",
     "Observações": null,
-    "Fazenda": null,
-    "Observações ": null,
-    "Unnamed: 19": null
+    "Fazenda": null
   },
   {
     "ID": "3633044",
@@ -5428,9 +4958,7 @@ window.QUALIDADE_CANA_DATA = [
     "Responsável": "NILDA CLAUDINO [2510716]",
     "Quantidade de Cana": "BOM",
     "Observações": null,
-    "Fazenda": null,
-    "Observações ": null,
-    "Unnamed: 19": null
+    "Fazenda": null
   },
   {
     "ID": "3633043",
@@ -5451,9 +4979,7 @@ window.QUALIDADE_CANA_DATA = [
     "Responsável": "NILDA CLAUDINO [2510716]",
     "Quantidade de Cana": "BOM",
     "Observações": null,
-    "Fazenda": null,
-    "Observações ": null,
-    "Unnamed: 19": null
+    "Fazenda": null
   },
   {
     "ID": "3632551",
@@ -5474,9 +5000,7 @@ window.QUALIDADE_CANA_DATA = [
     "Responsável": "MARCELO DE OLIVEIRA JUNIOR",
     "Quantidade de Cana": "BOM",
     "Observações": null,
-    "Fazenda": null,
-    "Observações ": null,
-    "Unnamed: 19": null
+    "Fazenda": null
   },
   {
     "ID": "3632550",
@@ -5497,9 +5021,7 @@ window.QUALIDADE_CANA_DATA = [
     "Responsável": "MARCELO DE OLIVEIRA JUNIOR",
     "Quantidade de Cana": "BOM",
     "Observações": null,
-    "Fazenda": null,
-    "Observações ": null,
-    "Unnamed: 19": null
+    "Fazenda": null
   },
   {
     "ID": "3632348",
@@ -5520,9 +5042,7 @@ window.QUALIDADE_CANA_DATA = [
     "Responsável": "MARCELO DE OLIVEIRA JUNIOR",
     "Quantidade de Cana": "BOM",
     "Observações": null,
-    "Fazenda": null,
-    "Observações ": null,
-    "Unnamed: 19": null
+    "Fazenda": null
   },
   {
     "ID": "3632347",
@@ -5543,9 +5063,7 @@ window.QUALIDADE_CANA_DATA = [
     "Responsável": "MARCELO DE OLIVEIRA JUNIOR",
     "Quantidade de Cana": "BOM",
     "Observações": null,
-    "Fazenda": null,
-    "Observações ": null,
-    "Unnamed: 19": null
+    "Fazenda": null
   },
   {
     "ID": "3632338",
@@ -5566,9 +5084,7 @@ window.QUALIDADE_CANA_DATA = [
     "Responsável": "MARCELO DE OLIVEIRA JUNIOR",
     "Quantidade de Cana": "BOM",
     "Observações": null,
-    "Fazenda": null,
-    "Observações ": null,
-    "Unnamed: 19": null
+    "Fazenda": null
   },
   {
     "ID": "3628821",
@@ -5589,9 +5105,7 @@ window.QUALIDADE_CANA_DATA = [
     "Responsável": "NILDA CLAUDINO [2510716]",
     "Quantidade de Cana": "BOM",
     "Observações": null,
-    "Fazenda": null,
-    "Observações ": null,
-    "Unnamed: 19": null
+    "Fazenda": null
   },
   {
     "ID": "3629711",
@@ -5612,9 +5126,7 @@ window.QUALIDADE_CANA_DATA = [
     "Responsável": " Antonio ",
     "Quantidade de Cana": "BOM",
     "Observações": null,
-    "Fazenda": null,
-    "Observações ": null,
-    "Unnamed: 19": null
+    "Fazenda": null
   },
   {
     "ID": "3628818",
@@ -5635,9 +5147,7 @@ window.QUALIDADE_CANA_DATA = [
     "Responsável": "NILDA CLAUDINO [2510716]",
     "Quantidade de Cana": "BOM",
     "Observações": null,
-    "Fazenda": null,
-    "Observações ": null,
-    "Unnamed: 19": null
+    "Fazenda": null
   },
   {
     "ID": "3629704",
@@ -5658,9 +5168,7 @@ window.QUALIDADE_CANA_DATA = [
     "Responsável": " Antonio ",
     "Quantidade de Cana": "BOM",
     "Observações": null,
-    "Fazenda": null,
-    "Observações ": null,
-    "Unnamed: 19": null
+    "Fazenda": null
   },
   {
     "ID": "3628844",
@@ -5681,9 +5189,7 @@ window.QUALIDADE_CANA_DATA = [
     "Responsável": "FERNANDA DE SOUZA ",
     "Quantidade de Cana": "BOM",
     "Observações": null,
-    "Fazenda": null,
-    "Observações ": null,
-    "Unnamed: 19": null
+    "Fazenda": null
   },
   {
     "ID": "3628843",
@@ -5704,9 +5210,7 @@ window.QUALIDADE_CANA_DATA = [
     "Responsável": "FERNANDA DE SOUZA ",
     "Quantidade de Cana": "BOM",
     "Observações": null,
-    "Fazenda": null,
-    "Observações ": null,
-    "Unnamed: 19": null
+    "Fazenda": null
   },
   {
     "ID": "3628798",
@@ -5727,9 +5231,7 @@ window.QUALIDADE_CANA_DATA = [
     "Responsável": "NILDA CLAUDINO [2510716]",
     "Quantidade de Cana": "BOM",
     "Observações": null,
-    "Fazenda": null,
-    "Observações ": null,
-    "Unnamed: 19": null
+    "Fazenda": null
   },
   {
     "ID": "3628871",
@@ -5750,9 +5252,7 @@ window.QUALIDADE_CANA_DATA = [
     "Responsável": "NILDA CLAUDINO [2510716]",
     "Quantidade de Cana": "BOM",
     "Observações": null,
-    "Fazenda": null,
-    "Observações ": null,
-    "Unnamed: 19": null
+    "Fazenda": null
   },
   {
     "ID": "3628842",
@@ -5773,9 +5273,7 @@ window.QUALIDADE_CANA_DATA = [
     "Responsável": "FERNANDA DE SOUZA ",
     "Quantidade de Cana": "BOM",
     "Observações": null,
-    "Fazenda": null,
-    "Observações ": null,
-    "Unnamed: 19": null
+    "Fazenda": null
   },
   {
     "ID": "3628839",
@@ -5796,9 +5294,7 @@ window.QUALIDADE_CANA_DATA = [
     "Responsável": "FERNANDA DE SOUZA ",
     "Quantidade de Cana": "BOM",
     "Observações": null,
-    "Fazenda": null,
-    "Observações ": null,
-    "Unnamed: 19": null
+    "Fazenda": null
   },
   {
     "ID": "3628788",
@@ -5819,9 +5315,7 @@ window.QUALIDADE_CANA_DATA = [
     "Responsável": "NILDA CLAUDINO [2510716]",
     "Quantidade de Cana": "BOM",
     "Observações": null,
-    "Fazenda": null,
-    "Observações ": null,
-    "Unnamed: 19": null
+    "Fazenda": null
   },
   {
     "ID": "3628836",
@@ -5842,9 +5336,7 @@ window.QUALIDADE_CANA_DATA = [
     "Responsável": "FERNANDA DE SOUZA ",
     "Quantidade de Cana": "BOM",
     "Observações": null,
-    "Fazenda": null,
-    "Observações ": null,
-    "Unnamed: 19": null
+    "Fazenda": null
   },
   {
     "ID": "3628835",
@@ -5865,9 +5357,7 @@ window.QUALIDADE_CANA_DATA = [
     "Responsável": "FERNANDA DE SOUZA ",
     "Quantidade de Cana": "BOM",
     "Observações": null,
-    "Fazenda": null,
-    "Observações ": null,
-    "Unnamed: 19": null
+    "Fazenda": null
   },
   {
     "ID": "3628834",
@@ -5888,9 +5378,7 @@ window.QUALIDADE_CANA_DATA = [
     "Responsável": "FERNANDA DE SOUZA ",
     "Quantidade de Cana": "BOM",
     "Observações": null,
-    "Fazenda": null,
-    "Observações ": null,
-    "Unnamed: 19": null
+    "Fazenda": null
   },
   {
     "ID": "3628783",
@@ -5911,9 +5399,7 @@ window.QUALIDADE_CANA_DATA = [
     "Responsável": "NILDA CLAUDINO [2510716]",
     "Quantidade de Cana": "BOM",
     "Observações": null,
-    "Fazenda": null,
-    "Observações ": null,
-    "Unnamed: 19": null
+    "Fazenda": null
   },
   {
     "ID": "3628934",
@@ -5934,9 +5420,7 @@ window.QUALIDADE_CANA_DATA = [
     "Responsável": "MARCELO DE OLIVEIRA JUNIOR",
     "Quantidade de Cana": "BOM",
     "Observações": null,
-    "Fazenda": null,
-    "Observações ": null,
-    "Unnamed: 19": null
+    "Fazenda": null
   },
   {
     "ID": "3628933",
@@ -5957,9 +5441,7 @@ window.QUALIDADE_CANA_DATA = [
     "Responsável": "MARCELO DE OLIVEIRA JUNIOR",
     "Quantidade de Cana": "BOM",
     "Observações": null,
-    "Fazenda": null,
-    "Observações ": null,
-    "Unnamed: 19": null
+    "Fazenda": null
   },
   {
     "ID": "3628928",
@@ -5980,9 +5462,7 @@ window.QUALIDADE_CANA_DATA = [
     "Responsável": "MARCELO DE OLIVEIRA JUNIOR",
     "Quantidade de Cana": "BOM",
     "Observações": null,
-    "Fazenda": null,
-    "Observações ": null,
-    "Unnamed: 19": null
+    "Fazenda": null
   },
   {
     "ID": "3627240",
@@ -6003,9 +5483,7 @@ window.QUALIDADE_CANA_DATA = [
     "Responsável": "NILDA CLAUDINO [2510716]",
     "Quantidade de Cana": "BOM",
     "Observações": null,
-    "Fazenda": null,
-    "Observações ": null,
-    "Unnamed: 19": null
+    "Fazenda": null
   },
   {
     "ID": "3626960",
@@ -6026,9 +5504,7 @@ window.QUALIDADE_CANA_DATA = [
     "Responsável": "VITOR AMORIM RAMOS ",
     "Quantidade de Cana": "BOM",
     "Observações": null,
-    "Fazenda": null,
-    "Observações ": null,
-    "Unnamed: 19": null
+    "Fazenda": null
   },
   {
     "ID": "3626951",
@@ -6049,9 +5525,7 @@ window.QUALIDADE_CANA_DATA = [
     "Responsável": "VITOR AMORIM RAMOS ",
     "Quantidade de Cana": "BOM",
     "Observações": null,
-    "Fazenda": null,
-    "Observações ": null,
-    "Unnamed: 19": null
+    "Fazenda": null
   },
   {
     "ID": "3626946",
@@ -6072,9 +5546,7 @@ window.QUALIDADE_CANA_DATA = [
     "Responsável": "VITOR AMORIM RAMOS ",
     "Quantidade de Cana": "BOM",
     "Observações": null,
-    "Fazenda": null,
-    "Observações ": null,
-    "Unnamed: 19": null
+    "Fazenda": null
   },
   {
     "ID": "3627051",
@@ -6095,9 +5567,7 @@ window.QUALIDADE_CANA_DATA = [
     "Responsável": "NILDA CLAUDINO [2510716]",
     "Quantidade de Cana": "BOM",
     "Observações": null,
-    "Fazenda": null,
-    "Observações ": null,
-    "Unnamed: 19": null
+    "Fazenda": null
   },
   {
     "ID": "3627045",
@@ -6118,9 +5588,7 @@ window.QUALIDADE_CANA_DATA = [
     "Responsável": "NILDA CLAUDINO [2510716]",
     "Quantidade de Cana": "BOM",
     "Observações": null,
-    "Fazenda": null,
-    "Observações ": null,
-    "Unnamed: 19": null
+    "Fazenda": null
   },
   {
     "ID": "3627161",
@@ -6141,9 +5609,7 @@ window.QUALIDADE_CANA_DATA = [
     "Responsável": "MICHELI DE SOUZA SANTOS  ",
     "Quantidade de Cana": "BOM",
     "Observações": null,
-    "Fazenda": null,
-    "Observações ": null,
-    "Unnamed: 19": null
+    "Fazenda": null
   },
   {
     "ID": "3627154",
@@ -6164,9 +5630,7 @@ window.QUALIDADE_CANA_DATA = [
     "Responsável": "MICHELI DE SOUZA SANTOS  ",
     "Quantidade de Cana": "BOM",
     "Observações": null,
-    "Fazenda": null,
-    "Observações ": null,
-    "Unnamed: 19": null
+    "Fazenda": null
   },
   {
     "ID": "3626417",
@@ -6187,9 +5651,7 @@ window.QUALIDADE_CANA_DATA = [
     "Responsável": "VITOR AMORIM RAMOS ",
     "Quantidade de Cana": "BOM",
     "Observações": null,
-    "Fazenda": null,
-    "Observações ": null,
-    "Unnamed: 19": null
+    "Fazenda": null
   },
   {
     "ID": "3626407",
@@ -6210,9 +5672,7 @@ window.QUALIDADE_CANA_DATA = [
     "Responsável": "VITOR AMORIM RAMOS ",
     "Quantidade de Cana": "BOM",
     "Observações": null,
-    "Fazenda": null,
-    "Observações ": null,
-    "Unnamed: 19": null
+    "Fazenda": null
   },
   {
     "ID": "3627029",
@@ -6233,9 +5693,7 @@ window.QUALIDADE_CANA_DATA = [
     "Responsável": "NILDA CLAUDINO [2510716]",
     "Quantidade de Cana": "BOM",
     "Observações": null,
-    "Fazenda": null,
-    "Observações ": null,
-    "Unnamed: 19": null
+    "Fazenda": null
   },
   {
     "ID": "3626401",
@@ -6256,9 +5714,7 @@ window.QUALIDADE_CANA_DATA = [
     "Responsável": "VITOR AMORIM RAMOS ",
     "Quantidade de Cana": "BOM",
     "Observações": null,
-    "Fazenda": null,
-    "Observações ": null,
-    "Unnamed: 19": null
+    "Fazenda": null
   },
   {
     "ID": "3626396",
@@ -6279,9 +5735,7 @@ window.QUALIDADE_CANA_DATA = [
     "Responsável": "VITOR AMORIM RAMOS ",
     "Quantidade de Cana": "BOM",
     "Observações": null,
-    "Fazenda": null,
-    "Observações ": null,
-    "Unnamed: 19": null
+    "Fazenda": null
   },
   {
     "ID": "3627209",
@@ -6302,9 +5756,7 @@ window.QUALIDADE_CANA_DATA = [
     "Responsável": "NILDA CLAUDINO [2510716]",
     "Quantidade de Cana": "BOM",
     "Observações": null,
-    "Fazenda": null,
-    "Observações ": null,
-    "Unnamed: 19": null
+    "Fazenda": null
   },
   {
     "ID": "3626570",
@@ -6325,9 +5777,7 @@ window.QUALIDADE_CANA_DATA = [
     "Responsável": "FERNANDA DE SOUZA ",
     "Quantidade de Cana": "BOM",
     "Observações": null,
-    "Fazenda": null,
-    "Observações ": null,
-    "Unnamed: 19": null
+    "Fazenda": null
   },
   {
     "ID": "3626391",
@@ -6348,9 +5798,7 @@ window.QUALIDADE_CANA_DATA = [
     "Responsável": "VITOR AMORIM RAMOS ",
     "Quantidade de Cana": "BOM",
     "Observações": null,
-    "Fazenda": null,
-    "Observações ": null,
-    "Unnamed: 19": null
+    "Fazenda": null
   },
   {
     "ID": "3626569",
@@ -6371,9 +5819,7 @@ window.QUALIDADE_CANA_DATA = [
     "Responsável": "FERNANDA DE SOUZA ",
     "Quantidade de Cana": "BOM",
     "Observações": null,
-    "Fazenda": null,
-    "Observações ": null,
-    "Unnamed: 19": null
+    "Fazenda": null
   },
   {
     "ID": "3626568",
@@ -6394,9 +5840,7 @@ window.QUALIDADE_CANA_DATA = [
     "Responsável": "FERNANDA DE SOUZA ",
     "Quantidade de Cana": "BOM",
     "Observações": null,
-    "Fazenda": null,
-    "Observações ": null,
-    "Unnamed: 19": null
+    "Fazenda": null
   },
   {
     "ID": "3626566",
@@ -6417,9 +5861,7 @@ window.QUALIDADE_CANA_DATA = [
     "Responsável": "FERNANDA DE SOUZA ",
     "Quantidade de Cana": "BOM",
     "Observações": null,
-    "Fazenda": null,
-    "Observações ": null,
-    "Unnamed: 19": null
+    "Fazenda": null
   },
   {
     "ID": "3626565",
@@ -6440,9 +5882,7 @@ window.QUALIDADE_CANA_DATA = [
     "Responsável": "FERNANDA DE SOUZA ",
     "Quantidade de Cana": "BOM",
     "Observações": null,
-    "Fazenda": null,
-    "Observações ": null,
-    "Unnamed: 19": null
+    "Fazenda": null
   },
   {
     "ID": "3626386",
@@ -6463,9 +5903,7 @@ window.QUALIDADE_CANA_DATA = [
     "Responsável": "VITOR AMORIM RAMOS ",
     "Quantidade de Cana": "BOM",
     "Observações": null,
-    "Fazenda": null,
-    "Observações ": null,
-    "Unnamed: 19": null
+    "Fazenda": null
   },
   {
     "ID": "3627145",
@@ -6486,9 +5924,7 @@ window.QUALIDADE_CANA_DATA = [
     "Responsável": "MICHELI DE SOUZA SANTOS  ",
     "Quantidade de Cana": "BOM",
     "Observações": null,
-    "Fazenda": null,
-    "Observações ": null,
-    "Unnamed: 19": null
+    "Fazenda": null
   },
   {
     "ID": "3626541",
@@ -6509,9 +5945,7 @@ window.QUALIDADE_CANA_DATA = [
     "Responsável": "FERNANDA DE SOUZA ",
     "Quantidade de Cana": "BOM",
     "Observações": null,
-    "Fazenda": null,
-    "Observações ": null,
-    "Unnamed: 19": null
+    "Fazenda": null
   },
   {
     "ID": "3627140",
@@ -6532,9 +5966,7 @@ window.QUALIDADE_CANA_DATA = [
     "Responsável": "MICHELI DE SOUZA SANTOS  ",
     "Quantidade de Cana": "BOM",
     "Observações": null,
-    "Fazenda": null,
-    "Observações ": null,
-    "Unnamed: 19": null
+    "Fazenda": null
   },
   {
     "ID": "3627135",
@@ -6555,9 +5987,7 @@ window.QUALIDADE_CANA_DATA = [
     "Responsável": "MICHELI DE SOUZA SANTOS  ",
     "Quantidade de Cana": "BOM",
     "Observações": null,
-    "Fazenda": null,
-    "Observações ": null,
-    "Unnamed: 19": null
+    "Fazenda": null
   },
   {
     "ID": "3627130",
@@ -6578,9 +6008,7 @@ window.QUALIDADE_CANA_DATA = [
     "Responsável": "MICHELI DE SOUZA SANTOS  ",
     "Quantidade de Cana": "BOM",
     "Observações": null,
-    "Fazenda": null,
-    "Observações ": null,
-    "Unnamed: 19": null
+    "Fazenda": null
   },
   {
     "ID": "3624853",
@@ -6601,9 +6029,7 @@ window.QUALIDADE_CANA_DATA = [
     "Responsável": "NILDA CLAUDINO [2510716]",
     "Quantidade de Cana": "BOM",
     "Observações": null,
-    "Fazenda": null,
-    "Observações ": null,
-    "Unnamed: 19": null
+    "Fazenda": null
   },
   {
     "ID": "3624852",
@@ -6624,9 +6050,7 @@ window.QUALIDADE_CANA_DATA = [
     "Responsável": "NILDA CLAUDINO [2510716]",
     "Quantidade de Cana": "BOM",
     "Observações": null,
-    "Fazenda": null,
-    "Observações ": null,
-    "Unnamed: 19": null
+    "Fazenda": null
   },
   {
     "ID": "3624851",
@@ -6647,9 +6071,7 @@ window.QUALIDADE_CANA_DATA = [
     "Responsável": "NILDA CLAUDINO [2510716]",
     "Quantidade de Cana": "BOM",
     "Observações": null,
-    "Fazenda": null,
-    "Observações ": null,
-    "Unnamed: 19": null
+    "Fazenda": null
   },
   {
     "ID": "3624967",
@@ -6670,9 +6092,7 @@ window.QUALIDADE_CANA_DATA = [
     "Responsável": " Antonio ",
     "Quantidade de Cana": "BOM",
     "Observações": null,
-    "Fazenda": null,
-    "Observações ": null,
-    "Unnamed: 19": null
+    "Fazenda": null
   },
   {
     "ID": "3624956",
@@ -6693,9 +6113,7 @@ window.QUALIDADE_CANA_DATA = [
     "Responsável": " Antonio ",
     "Quantidade de Cana": "BOM",
     "Observações": null,
-    "Fazenda": null,
-    "Observações ": null,
-    "Unnamed: 19": null
+    "Fazenda": null
   },
   {
     "ID": "3627103",
@@ -6716,9 +6134,7 @@ window.QUALIDADE_CANA_DATA = [
     "Responsável": "MICHELI DE SOUZA SANTOS  ",
     "Quantidade de Cana": "BOM",
     "Observações": null,
-    "Fazenda": null,
-    "Observações ": null,
-    "Unnamed: 19": null
+    "Fazenda": null
   },
   {
     "ID": "3627083",
@@ -6739,9 +6155,7 @@ window.QUALIDADE_CANA_DATA = [
     "Responsável": "MICHELI DE SOUZA SANTOS  ",
     "Quantidade de Cana": "BOM",
     "Observações": null,
-    "Fazenda": null,
-    "Observações ": null,
-    "Unnamed: 19": null
+    "Fazenda": null
   },
   {
     "ID": "3625525",
@@ -6762,9 +6176,7 @@ window.QUALIDADE_CANA_DATA = [
     "Responsável": "MICHELI DE SOUZA SANTOS  ",
     "Quantidade de Cana": "BOM",
     "Observações": null,
-    "Fazenda": null,
-    "Observações ": null,
-    "Unnamed: 19": null
+    "Fazenda": null
   },
   {
     "ID": "3624326",
@@ -6785,9 +6197,7 @@ window.QUALIDADE_CANA_DATA = [
     "Responsável": "FERNANDA DE SOUZA ",
     "Quantidade de Cana": "BOM",
     "Observações": null,
-    "Fazenda": null,
-    "Observações ": null,
-    "Unnamed: 19": null
+    "Fazenda": null
   },
   {
     "ID": "3624632",
@@ -6808,9 +6218,7 @@ window.QUALIDADE_CANA_DATA = [
     "Responsável": "VITOR AMORIM RAMOS ",
     "Quantidade de Cana": "BOM",
     "Observações": null,
-    "Fazenda": null,
-    "Observações ": null,
-    "Unnamed: 19": null
+    "Fazenda": null
   },
   {
     "ID": "3624631",
@@ -6831,9 +6239,7 @@ window.QUALIDADE_CANA_DATA = [
     "Responsável": "VITOR AMORIM RAMOS ",
     "Quantidade de Cana": "BOM",
     "Observações": null,
-    "Fazenda": null,
-    "Observações ": null,
-    "Unnamed: 19": null
+    "Fazenda": null
   },
   {
     "ID": "3625518",
@@ -6854,9 +6260,7 @@ window.QUALIDADE_CANA_DATA = [
     "Responsável": "MICHELI DE SOUZA SANTOS  ",
     "Quantidade de Cana": "BOM",
     "Observações": null,
-    "Fazenda": null,
-    "Observações ": null,
-    "Unnamed: 19": null
+    "Fazenda": null
   },
   {
     "ID": "3625511",
@@ -6877,9 +6281,7 @@ window.QUALIDADE_CANA_DATA = [
     "Responsável": "MICHELI DE SOUZA SANTOS  ",
     "Quantidade de Cana": "BOM",
     "Observações": null,
-    "Fazenda": null,
-    "Observações ": null,
-    "Unnamed: 19": null
+    "Fazenda": null
   },
   {
     "ID": "3624622",
@@ -6900,9 +6302,7 @@ window.QUALIDADE_CANA_DATA = [
     "Responsável": "VITOR AMORIM RAMOS ",
     "Quantidade de Cana": "BOM",
     "Observações": null,
-    "Fazenda": null,
-    "Observações ": null,
-    "Unnamed: 19": null
+    "Fazenda": null
   },
   {
     "ID": "3625468",
@@ -6923,9 +6323,7 @@ window.QUALIDADE_CANA_DATA = [
     "Responsável": "MARCELO DE OLIVEIRA JUNIOR",
     "Quantidade de Cana": "BOM",
     "Observações": null,
-    "Fazenda": null,
-    "Observações ": null,
-    "Unnamed: 19": null
+    "Fazenda": null
   },
   {
     "ID": "3625462",
@@ -6946,9 +6344,7 @@ window.QUALIDADE_CANA_DATA = [
     "Responsável": "MARCELO DE OLIVEIRA JUNIOR",
     "Quantidade de Cana": "BOM",
     "Observações": null,
-    "Fazenda": null,
-    "Observações ": null,
-    "Unnamed: 19": null
+    "Fazenda": null
   },
   {
     "ID": "3624617",
@@ -6969,9 +6365,7 @@ window.QUALIDADE_CANA_DATA = [
     "Responsável": "VITOR AMORIM RAMOS ",
     "Quantidade de Cana": "BOM",
     "Observações": null,
-    "Fazenda": null,
-    "Observações ": null,
-    "Unnamed: 19": null
+    "Fazenda": null
   },
   {
     "ID": "3625459",
@@ -6992,9 +6386,7 @@ window.QUALIDADE_CANA_DATA = [
     "Responsável": "MARCELO DE OLIVEIRA JUNIOR",
     "Quantidade de Cana": "BOM",
     "Observações": null,
-    "Fazenda": null,
-    "Observações ": null,
-    "Unnamed: 19": null
+    "Fazenda": null
   },
   {
     "ID": "3624317",
@@ -7015,9 +6407,7 @@ window.QUALIDADE_CANA_DATA = [
     "Responsável": "FERNANDA DE SOUZA ",
     "Quantidade de Cana": "BOM",
     "Observações": null,
-    "Fazenda": null,
-    "Observações ": null,
-    "Unnamed: 19": null
+    "Fazenda": null
   },
   {
     "ID": "3625454",
@@ -7038,9 +6428,7 @@ window.QUALIDADE_CANA_DATA = [
     "Responsável": "MICHELI DE SOUZA SANTOS  ",
     "Quantidade de Cana": "BOM",
     "Observações": null,
-    "Fazenda": null,
-    "Observações ": null,
-    "Unnamed: 19": null
+    "Fazenda": null
   },
   {
     "ID": "3625449",
@@ -7061,9 +6449,7 @@ window.QUALIDADE_CANA_DATA = [
     "Responsável": "MICHELI DE SOUZA SANTOS  ",
     "Quantidade de Cana": "BOM",
     "Observações": null,
-    "Fazenda": null,
-    "Observações ": null,
-    "Unnamed: 19": null
+    "Fazenda": null
   },
   {
     "ID": "3624021",
@@ -7084,9 +6470,7 @@ window.QUALIDADE_CANA_DATA = [
     "Responsável": "VITOR AMORIM RAMOS ",
     "Quantidade de Cana": "BOM",
     "Observações": null,
-    "Fazenda": null,
-    "Observações ": null,
-    "Unnamed: 19": null
+    "Fazenda": null
   },
   {
     "ID": "3624040",
@@ -7107,9 +6491,7 @@ window.QUALIDADE_CANA_DATA = [
     "Responsável": " Antonio ",
     "Quantidade de Cana": "BOM",
     "Observações": null,
-    "Fazenda": null,
-    "Observações ": null,
-    "Unnamed: 19": null
+    "Fazenda": null
   },
   {
     "ID": "3624016",
@@ -7130,9 +6512,7 @@ window.QUALIDADE_CANA_DATA = [
     "Responsável": "VITOR AMORIM RAMOS ",
     "Quantidade de Cana": "BOM",
     "Observações": null,
-    "Fazenda": null,
-    "Observações ": null,
-    "Unnamed: 19": null
+    "Fazenda": null
   },
   {
     "ID": "3625444",
@@ -7153,9 +6533,7 @@ window.QUALIDADE_CANA_DATA = [
     "Responsável": "MICHELI DE SOUZA SANTOS  ",
     "Quantidade de Cana": "BOM",
     "Observações": null,
-    "Fazenda": null,
-    "Observações ": null,
-    "Unnamed: 19": null
+    "Fazenda": null
   },
   {
     "ID": "3624225",
@@ -7176,9 +6554,7 @@ window.QUALIDADE_CANA_DATA = [
     "Responsável": "FERNANDA DE SOUZA ",
     "Quantidade de Cana": "BOM",
     "Observações": null,
-    "Fazenda": null,
-    "Observações ": null,
-    "Unnamed: 19": null
+    "Fazenda": null
   },
   {
     "ID": "3624011",
@@ -7199,9 +6575,7 @@ window.QUALIDADE_CANA_DATA = [
     "Responsável": "VITOR AMORIM RAMOS ",
     "Quantidade de Cana": "BOM",
     "Observações": null,
-    "Fazenda": null,
-    "Observações ": null,
-    "Unnamed: 19": null
+    "Fazenda": null
   },
   {
     "ID": "3625416",
@@ -7222,9 +6596,7 @@ window.QUALIDADE_CANA_DATA = [
     "Responsável": "MICHELI DE SOUZA SANTOS  ",
     "Quantidade de Cana": "BOM",
     "Observações": null,
-    "Fazenda": null,
-    "Observações ": null,
-    "Unnamed: 19": null
+    "Fazenda": null
   },
   {
     "ID": "3624217",
@@ -7245,9 +6617,7 @@ window.QUALIDADE_CANA_DATA = [
     "Responsável": "FERNANDA DE SOUZA ",
     "Quantidade de Cana": "BOM",
     "Observações": null,
-    "Fazenda": null,
-    "Observações ": null,
-    "Unnamed: 19": null
+    "Fazenda": null
   },
   {
     "ID": "3623996",
@@ -7268,9 +6638,7 @@ window.QUALIDADE_CANA_DATA = [
     "Responsável": "VITOR AMORIM RAMOS ",
     "Quantidade de Cana": "BOM",
     "Observações": null,
-    "Fazenda": null,
-    "Observações ": null,
-    "Unnamed: 19": null
+    "Fazenda": null
   },
   {
     "ID": "3624218",
@@ -7291,9 +6659,7 @@ window.QUALIDADE_CANA_DATA = [
     "Responsável": "FERNANDA DE SOUZA ",
     "Quantidade de Cana": "BOM",
     "Observações": null,
-    "Fazenda": null,
-    "Observações ": null,
-    "Unnamed: 19": null
+    "Fazenda": null
   },
   {
     "ID": "3625377",
@@ -7314,9 +6680,7 @@ window.QUALIDADE_CANA_DATA = [
     "Responsável": "MICHELI DE SOUZA SANTOS  ",
     "Quantidade de Cana": "BOM",
     "Observações": null,
-    "Fazenda": null,
-    "Observações ": null,
-    "Unnamed: 19": null
+    "Fazenda": null
   },
   {
     "ID": "3623991",
@@ -7337,9 +6701,7 @@ window.QUALIDADE_CANA_DATA = [
     "Responsável": "VITOR AMORIM RAMOS ",
     "Quantidade de Cana": "BOM",
     "Observações": null,
-    "Fazenda": null,
-    "Observações ": null,
-    "Unnamed: 19": null
+    "Fazenda": null
   },
   {
     "ID": "3625372",
@@ -7360,9 +6722,7 @@ window.QUALIDADE_CANA_DATA = [
     "Responsável": "MICHELI DE SOUZA SANTOS  ",
     "Quantidade de Cana": "BOM",
     "Observações": null,
-    "Fazenda": null,
-    "Observações ": null,
-    "Unnamed: 19": null
+    "Fazenda": null
   },
   {
     "ID": "3623986",
@@ -7383,9 +6743,7 @@ window.QUALIDADE_CANA_DATA = [
     "Responsável": "VITOR AMORIM RAMOS ",
     "Quantidade de Cana": "BOM",
     "Observações": null,
-    "Fazenda": null,
-    "Observações ": null,
-    "Unnamed: 19": null
+    "Fazenda": null
   },
   {
     "ID": "3623976",
@@ -7406,9 +6764,7 @@ window.QUALIDADE_CANA_DATA = [
     "Responsável": " Antonio ",
     "Quantidade de Cana": "BOM",
     "Observações": null,
-    "Fazenda": null,
-    "Observações ": null,
-    "Unnamed: 19": null
+    "Fazenda": null
   },
   {
     "ID": "3625366",
@@ -7429,9 +6785,7 @@ window.QUALIDADE_CANA_DATA = [
     "Responsável": "MICHELI DE SOUZA SANTOS  ",
     "Quantidade de Cana": "BOM",
     "Observações": null,
-    "Fazenda": null,
-    "Observações ": null,
-    "Unnamed: 19": null
+    "Fazenda": null
   },
   {
     "ID": "3623981",
@@ -7452,9 +6806,7 @@ window.QUALIDADE_CANA_DATA = [
     "Responsável": "VITOR AMORIM RAMOS ",
     "Quantidade de Cana": "BOM",
     "Observações": null,
-    "Fazenda": null,
-    "Observações ": null,
-    "Unnamed: 19": null
+    "Fazenda": null
   },
   {
     "ID": "3623979",
@@ -7475,9 +6827,7 @@ window.QUALIDADE_CANA_DATA = [
     "Responsável": "VITOR AMORIM RAMOS ",
     "Quantidade de Cana": "BOM",
     "Observações": null,
-    "Fazenda": null,
-    "Observações ": null,
-    "Unnamed: 19": null
+    "Fazenda": null
   },
   {
     "ID": "3625361",
@@ -7498,9 +6848,7 @@ window.QUALIDADE_CANA_DATA = [
     "Responsável": "MICHELI DE SOUZA SANTOS  ",
     "Quantidade de Cana": "BOM",
     "Observações": null,
-    "Fazenda": null,
-    "Observações ": null,
-    "Unnamed: 19": null
+    "Fazenda": null
   },
   {
     "ID": "3623977",
@@ -7521,9 +6869,7 @@ window.QUALIDADE_CANA_DATA = [
     "Responsável": "VITOR AMORIM RAMOS ",
     "Quantidade de Cana": "BOM",
     "Observações": null,
-    "Fazenda": null,
-    "Observações ": null,
-    "Unnamed: 19": null
+    "Fazenda": null
   },
   {
     "ID": "3625355",
@@ -7544,9 +6890,7 @@ window.QUALIDADE_CANA_DATA = [
     "Responsável": "MICHELI DE SOUZA SANTOS  ",
     "Quantidade de Cana": "BOM",
     "Observações": null,
-    "Fazenda": null,
-    "Observações ": null,
-    "Unnamed: 19": null
+    "Fazenda": null
   },
   {
     "ID": "3625348",
@@ -7567,9 +6911,7 @@ window.QUALIDADE_CANA_DATA = [
     "Responsável": "MICHELI DE SOUZA SANTOS  ",
     "Quantidade de Cana": "BOM",
     "Observações": null,
-    "Fazenda": null,
-    "Observações ": null,
-    "Unnamed: 19": null
+    "Fazenda": null
   },
   {
     "ID": "3623955",
@@ -7590,9 +6932,7 @@ window.QUALIDADE_CANA_DATA = [
     "Responsável": "VITOR AMORIM RAMOS ",
     "Quantidade de Cana": "BOM",
     "Observações": null,
-    "Fazenda": null,
-    "Observações ": null,
-    "Unnamed: 19": null
+    "Fazenda": null
   },
   {
     "ID": "3623935",
@@ -7613,9 +6953,7 @@ window.QUALIDADE_CANA_DATA = [
     "Responsável": "VITOR AMORIM RAMOS ",
     "Quantidade de Cana": "BOM",
     "Observações": null,
-    "Fazenda": null,
-    "Observações ": null,
-    "Unnamed: 19": null
+    "Fazenda": null
   },
   {
     "ID": "3625346",
@@ -7636,9 +6974,7 @@ window.QUALIDADE_CANA_DATA = [
     "Responsável": "MICHELI DE SOUZA SANTOS  ",
     "Quantidade de Cana": "BOM",
     "Observações": null,
-    "Fazenda": null,
-    "Observações ": null,
-    "Unnamed: 19": null
+    "Fazenda": null
   },
   {
     "ID": "3623930",
@@ -7659,9 +6995,7 @@ window.QUALIDADE_CANA_DATA = [
     "Responsável": "VITOR AMORIM RAMOS ",
     "Quantidade de Cana": "BOM",
     "Observações": null,
-    "Fazenda": null,
-    "Observações ": null,
-    "Unnamed: 19": null
+    "Fazenda": null
   },
   {
     "ID": "3624563",
@@ -7682,9 +7016,7 @@ window.QUALIDADE_CANA_DATA = [
     "Responsável": "MARCELO DE OLIVEIRA JUNIOR",
     "Quantidade de Cana": "BOM",
     "Observações": null,
-    "Fazenda": null,
-    "Observações ": null,
-    "Unnamed: 19": null
+    "Fazenda": null
   },
   {
     "ID": "3624562",
@@ -7705,9 +7037,7 @@ window.QUALIDADE_CANA_DATA = [
     "Responsável": "MARCELO DE OLIVEIRA JUNIOR",
     "Quantidade de Cana": "BOM",
     "Observações": null,
-    "Fazenda": null,
-    "Observações ": null,
-    "Unnamed: 19": null
+    "Fazenda": null
   },
   {
     "ID": "3624557",
@@ -7728,9 +7058,7 @@ window.QUALIDADE_CANA_DATA = [
     "Responsável": "MARCELO DE OLIVEIRA JUNIOR",
     "Quantidade de Cana": "BOM",
     "Observações": null,
-    "Fazenda": null,
-    "Observações ": null,
-    "Unnamed: 19": null
+    "Fazenda": null
   },
   {
     "ID": "3621669",
@@ -7751,9 +7079,7 @@ window.QUALIDADE_CANA_DATA = [
     "Responsável": "GLEISON FELIPE BORGES DE MATOS",
     "Quantidade de Cana": "BOM",
     "Observações": null,
-    "Fazenda": null,
-    "Observações ": null,
-    "Unnamed: 19": null
+    "Fazenda": null
   },
   {
     "ID": "3621995",
@@ -7774,9 +7100,7 @@ window.QUALIDADE_CANA_DATA = [
     "Responsável": "VITOR AMORIM RAMOS ",
     "Quantidade de Cana": "BOM",
     "Observações": null,
-    "Fazenda": null,
-    "Observações ": null,
-    "Unnamed: 19": null
+    "Fazenda": null
   },
   {
     "ID": "3621608",
@@ -7797,9 +7121,7 @@ window.QUALIDADE_CANA_DATA = [
     "Responsável": "MABILA HELEN D FIGUEIREDO",
     "Quantidade de Cana": "BOM",
     "Observações": null,
-    "Fazenda": null,
-    "Observações ": null,
-    "Unnamed: 19": null
+    "Fazenda": null
   },
   {
     "ID": "3621990",
@@ -7820,9 +7142,7 @@ window.QUALIDADE_CANA_DATA = [
     "Responsável": "VITOR AMORIM RAMOS ",
     "Quantidade de Cana": "BOM",
     "Observações": null,
-    "Fazenda": null,
-    "Observações ": null,
-    "Unnamed: 19": null
+    "Fazenda": null
   },
   {
     "ID": "3621456",
@@ -7843,9 +7163,7 @@ window.QUALIDADE_CANA_DATA = [
     "Responsável": "FERNANDA DE SOUZA ",
     "Quantidade de Cana": "BOM",
     "Observações": null,
-    "Fazenda": null,
-    "Observações ": null,
-    "Unnamed: 19": null
+    "Fazenda": null
   },
   {
     "ID": "3621981",
@@ -7866,9 +7184,7 @@ window.QUALIDADE_CANA_DATA = [
     "Responsável": "VITOR AMORIM RAMOS ",
     "Quantidade de Cana": "BOM",
     "Observações": null,
-    "Fazenda": null,
-    "Observações ": null,
-    "Unnamed: 19": null
+    "Fazenda": null
   },
   {
     "ID": "3621450",
@@ -7889,9 +7205,7 @@ window.QUALIDADE_CANA_DATA = [
     "Responsável": "FERNANDA DE SOUZA ",
     "Quantidade de Cana": "BOM",
     "Observações": null,
-    "Fazenda": null,
-    "Observações ": null,
-    "Unnamed: 19": null
+    "Fazenda": null
   },
   {
     "ID": "3621603",
@@ -7912,9 +7226,7 @@ window.QUALIDADE_CANA_DATA = [
     "Responsável": "MABILA HELEN D FIGUEIREDO",
     "Quantidade de Cana": "BOM",
     "Observações": null,
-    "Fazenda": null,
-    "Observações ": null,
-    "Unnamed: 19": null
+    "Fazenda": null
   },
   {
     "ID": "3621878",
@@ -7935,9 +7247,7 @@ window.QUALIDADE_CANA_DATA = [
     "Responsável": "VITOR AMORIM RAMOS ",
     "Quantidade de Cana": "BOM",
     "Observações": null,
-    "Fazenda": null,
-    "Observações ": null,
-    "Unnamed: 19": null
+    "Fazenda": null
   },
   {
     "ID": "3621939",
@@ -7958,9 +7268,7 @@ window.QUALIDADE_CANA_DATA = [
     "Responsável": "NILDA CLAUDINO [2510716]",
     "Quantidade de Cana": "BOM",
     "Observações": null,
-    "Fazenda": null,
-    "Observações ": null,
-    "Unnamed: 19": null
+    "Fazenda": null
   },
   {
     "ID": "3621900",
@@ -7981,9 +7289,7 @@ window.QUALIDADE_CANA_DATA = [
     "Responsável": "VITOR AMORIM RAMOS ",
     "Quantidade de Cana": "BOM",
     "Observações": null,
-    "Fazenda": null,
-    "Observações ": null,
-    "Unnamed: 19": null
+    "Fazenda": null
   },
   {
     "ID": "3621933",
@@ -8004,9 +7310,7 @@ window.QUALIDADE_CANA_DATA = [
     "Responsável": "NILDA CLAUDINO [2510716]",
     "Quantidade de Cana": "BOM",
     "Observações": null,
-    "Fazenda": null,
-    "Observações ": null,
-    "Unnamed: 19": null
+    "Fazenda": null
   },
   {
     "ID": "3621932",
@@ -8027,9 +7331,7 @@ window.QUALIDADE_CANA_DATA = [
     "Responsável": "NILDA CLAUDINO [2510716]",
     "Quantidade de Cana": "BOM",
     "Observações": null,
-    "Fazenda": null,
-    "Observações ": null,
-    "Unnamed: 19": null
+    "Fazenda": null
   },
   {
     "ID": "3622198",
@@ -8050,9 +7352,7 @@ window.QUALIDADE_CANA_DATA = [
     "Responsável": "MARCELO DE OLIVEIRA JUNIOR",
     "Quantidade de Cana": "BOM",
     "Observações": null,
-    "Fazenda": null,
-    "Observações ": null,
-    "Unnamed: 19": null
+    "Fazenda": null
   },
   {
     "ID": "3622193",
@@ -8073,9 +7373,7 @@ window.QUALIDADE_CANA_DATA = [
     "Responsável": "MARCELO DE OLIVEIRA JUNIOR",
     "Quantidade de Cana": "BOM",
     "Observações": null,
-    "Fazenda": null,
-    "Observações ": null,
-    "Unnamed: 19": null
+    "Fazenda": null
   },
   {
     "ID": "3622188",
@@ -8096,9 +7394,7 @@ window.QUALIDADE_CANA_DATA = [
     "Responsável": "MARCELO DE OLIVEIRA JUNIOR",
     "Quantidade de Cana": "BOM",
     "Observações": null,
-    "Fazenda": null,
-    "Observações ": null,
-    "Unnamed: 19": null
+    "Fazenda": null
   },
   {
     "ID": "3622184",
@@ -8119,9 +7415,7 @@ window.QUALIDADE_CANA_DATA = [
     "Responsável": "MARCELO DE OLIVEIRA JUNIOR",
     "Quantidade de Cana": "BOM",
     "Observações": null,
-    "Fazenda": null,
-    "Observações ": null,
-    "Unnamed: 19": null
+    "Fazenda": null
   },
   {
     "ID": "3621596",
@@ -8142,9 +7436,7 @@ window.QUALIDADE_CANA_DATA = [
     "Responsável": "MABILA HELEN D FIGUEIREDO",
     "Quantidade de Cana": "BOM",
     "Observações": null,
-    "Fazenda": null,
-    "Observações ": null,
-    "Unnamed: 19": null
+    "Fazenda": null
   },
   {
     "ID": "3621591",
@@ -8165,9 +7457,7 @@ window.QUALIDADE_CANA_DATA = [
     "Responsável": "MABILA HELEN D FIGUEIREDO",
     "Quantidade de Cana": "BOM",
     "Observações": null,
-    "Fazenda": null,
-    "Observações ": null,
-    "Unnamed: 19": null
+    "Fazenda": null
   },
   {
     "ID": "3620976",
@@ -8188,9 +7478,7 @@ window.QUALIDADE_CANA_DATA = [
     "Responsável": "FERNANDA DE SOUZA ",
     "Quantidade de Cana": "BOM",
     "Observações": null,
-    "Fazenda": null,
-    "Observações ": null,
-    "Unnamed: 19": null
+    "Fazenda": null
   },
   {
     "ID": "3620970",
@@ -8211,9 +7499,7 @@ window.QUALIDADE_CANA_DATA = [
     "Responsável": "FERNANDA DE SOUZA ",
     "Quantidade de Cana": "BOM",
     "Observações": null,
-    "Fazenda": null,
-    "Observações ": null,
-    "Unnamed: 19": null
+    "Fazenda": null
   },
   {
     "ID": "3620966",
@@ -8234,9 +7520,7 @@ window.QUALIDADE_CANA_DATA = [
     "Responsável": "FERNANDA DE SOUZA ",
     "Quantidade de Cana": "BOM",
     "Observações": null,
-    "Fazenda": null,
-    "Observações ": null,
-    "Unnamed: 19": null
+    "Fazenda": null
   },
   {
     "ID": "3622468",
@@ -8257,9 +7541,7 @@ window.QUALIDADE_CANA_DATA = [
     "Responsável": "MICHELI DE SOUZA SANTOS  ",
     "Quantidade de Cana": "BOM",
     "Observações": null,
-    "Fazenda": null,
-    "Observações ": null,
-    "Unnamed: 19": null
+    "Fazenda": null
   },
   {
     "ID": "3620946",
@@ -8280,9 +7562,7 @@ window.QUALIDADE_CANA_DATA = [
     "Responsável": "VITOR AMORIM RAMOS ",
     "Quantidade de Cana": "BOM",
     "Observações": null,
-    "Fazenda": null,
-    "Observações ": null,
-    "Unnamed: 19": null
+    "Fazenda": null
   },
   {
     "ID": "3622463",
@@ -8303,9 +7583,7 @@ window.QUALIDADE_CANA_DATA = [
     "Responsável": "MICHELI DE SOUZA SANTOS  ",
     "Quantidade de Cana": "BOM",
     "Observações": null,
-    "Fazenda": null,
-    "Observações ": null,
-    "Unnamed: 19": null
+    "Fazenda": null
   },
   {
     "ID": "3621904",
@@ -8326,9 +7604,7 @@ window.QUALIDADE_CANA_DATA = [
     "Responsável": "NILDA CLAUDINO [2510716]",
     "Quantidade de Cana": "BOM",
     "Observações": null,
-    "Fazenda": null,
-    "Observações ": null,
-    "Unnamed: 19": null
+    "Fazenda": null
   },
   {
     "ID": "3620941",
@@ -8349,9 +7625,7 @@ window.QUALIDADE_CANA_DATA = [
     "Responsável": "VITOR AMORIM RAMOS ",
     "Quantidade de Cana": "BOM",
     "Observações": null,
-    "Fazenda": null,
-    "Observações ": null,
-    "Unnamed: 19": null
+    "Fazenda": null
   },
   {
     "ID": "3622451",
@@ -8372,9 +7646,7 @@ window.QUALIDADE_CANA_DATA = [
     "Responsável": "MICHELI DE SOUZA SANTOS  ",
     "Quantidade de Cana": "BOM",
     "Observações": null,
-    "Fazenda": null,
-    "Observações ": null,
-    "Unnamed: 19": null
+    "Fazenda": null
   },
   {
     "ID": "3620936",
@@ -8395,9 +7667,7 @@ window.QUALIDADE_CANA_DATA = [
     "Responsável": "VITOR AMORIM RAMOS ",
     "Quantidade de Cana": "BOM",
     "Observações": null,
-    "Fazenda": null,
-    "Observações ": null,
-    "Unnamed: 19": null
+    "Fazenda": null
   },
   {
     "ID": "3620931",
@@ -8418,9 +7688,7 @@ window.QUALIDADE_CANA_DATA = [
     "Responsável": "VITOR AMORIM RAMOS ",
     "Quantidade de Cana": "BOM",
     "Observações": null,
-    "Fazenda": null,
-    "Observações ": null,
-    "Unnamed: 19": null
+    "Fazenda": null
   },
   {
     "ID": "3620924",
@@ -8441,9 +7709,7 @@ window.QUALIDADE_CANA_DATA = [
     "Responsável": "VITOR AMORIM RAMOS ",
     "Quantidade de Cana": "BOM",
     "Observações": null,
-    "Fazenda": null,
-    "Observações ": null,
-    "Unnamed: 19": null
+    "Fazenda": null
   },
   {
     "ID": "3620919",
@@ -8464,9 +7730,7 @@ window.QUALIDADE_CANA_DATA = [
     "Responsável": "VITOR AMORIM RAMOS ",
     "Quantidade de Cana": "BOM",
     "Observações": null,
-    "Fazenda": null,
-    "Observações ": null,
-    "Unnamed: 19": null
+    "Fazenda": null
   },
   {
     "ID": "3622179",
@@ -8487,9 +7751,7 @@ window.QUALIDADE_CANA_DATA = [
     "Responsável": "MARCELO DE OLIVEIRA JUNIOR",
     "Quantidade de Cana": "BOM",
     "Observações": null,
-    "Fazenda": null,
-    "Observações ": null,
-    "Unnamed: 19": null
+    "Fazenda": null
   },
   {
     "ID": "3621167",
@@ -8510,9 +7772,7 @@ window.QUALIDADE_CANA_DATA = [
     "Responsável": "GABRIEL HENRIQUE MARTINS PEREIRA",
     "Quantidade de Cana": "BOM",
     "Observações": null,
-    "Fazenda": null,
-    "Observações ": null,
-    "Unnamed: 19": null
+    "Fazenda": null
   },
   {
     "ID": "3620909",
@@ -8533,9 +7793,7 @@ window.QUALIDADE_CANA_DATA = [
     "Responsável": "VITOR AMORIM RAMOS ",
     "Quantidade de Cana": "BOM",
     "Observações": null,
-    "Fazenda": null,
-    "Observações ": null,
-    "Unnamed: 19": null
+    "Fazenda": null
   },
   {
     "ID": "3621155",
@@ -8556,9 +7814,7 @@ window.QUALIDADE_CANA_DATA = [
     "Responsável": "GABRIEL HENRIQUE MARTINS PEREIRA",
     "Quantidade de Cana": "BOM",
     "Observações": null,
-    "Fazenda": null,
-    "Observações ": null,
-    "Unnamed: 19": null
+    "Fazenda": null
   },
   {
     "ID": "3622177",
@@ -8579,9 +7835,7 @@ window.QUALIDADE_CANA_DATA = [
     "Responsável": "MARCELO DE OLIVEIRA JUNIOR",
     "Quantidade de Cana": "BOM",
     "Observações": null,
-    "Fazenda": null,
-    "Observações ": null,
-    "Unnamed: 19": null
+    "Fazenda": null
   },
   {
     "ID": "3620904",
@@ -8602,9 +7856,7 @@ window.QUALIDADE_CANA_DATA = [
     "Responsável": "VITOR AMORIM RAMOS ",
     "Quantidade de Cana": "BOM",
     "Observações": null,
-    "Fazenda": null,
-    "Observações ": null,
-    "Unnamed: 19": null
+    "Fazenda": null
   },
   {
     "ID": "3620899",
@@ -8625,9 +7877,7 @@ window.QUALIDADE_CANA_DATA = [
     "Responsável": "VITOR AMORIM RAMOS ",
     "Quantidade de Cana": "BOM",
     "Observações": null,
-    "Fazenda": null,
-    "Observações ": null,
-    "Unnamed: 19": null
+    "Fazenda": null
   },
   {
     "ID": "3621150",
@@ -8648,9 +7898,7 @@ window.QUALIDADE_CANA_DATA = [
     "Responsável": "GABRIEL HENRIQUE MARTINS PEREIRA",
     "Quantidade de Cana": "BOM",
     "Observações": null,
-    "Fazenda": null,
-    "Observações ": null,
-    "Unnamed: 19": null
+    "Fazenda": null
   },
   {
     "ID": "3622172",
@@ -8671,9 +7919,7 @@ window.QUALIDADE_CANA_DATA = [
     "Responsável": "MARCELO DE OLIVEIRA JUNIOR",
     "Quantidade de Cana": "BOM",
     "Observações": null,
-    "Fazenda": null,
-    "Observações ": null,
-    "Unnamed: 19": null
+    "Fazenda": null
   },
   {
     "ID": "3620893",
@@ -8694,9 +7940,7 @@ window.QUALIDADE_CANA_DATA = [
     "Responsável": "VITOR AMORIM RAMOS ",
     "Quantidade de Cana": "BOM",
     "Observações": null,
-    "Fazenda": null,
-    "Observações ": null,
-    "Unnamed: 19": null
+    "Fazenda": null
   },
   {
     "ID": "3621145",
@@ -8717,9 +7961,7 @@ window.QUALIDADE_CANA_DATA = [
     "Responsável": "Ruan Alexandre Lopes",
     "Quantidade de Cana": "BOM",
     "Observações": null,
-    "Fazenda": null,
-    "Observações ": null,
-    "Unnamed: 19": null
+    "Fazenda": null
   },
   {
     "ID": "3622167",
@@ -8740,9 +7982,7 @@ window.QUALIDADE_CANA_DATA = [
     "Responsável": "MARCELO DE OLIVEIRA JUNIOR",
     "Quantidade de Cana": "BOM",
     "Observações": null,
-    "Fazenda": null,
-    "Observações ": null,
-    "Unnamed: 19": null
+    "Fazenda": null
   },
   {
     "ID": "3621140",
@@ -8763,9 +8003,7 @@ window.QUALIDADE_CANA_DATA = [
     "Responsável": "Ruan Alexandre Lopes",
     "Quantidade de Cana": "BOM",
     "Observações": null,
-    "Fazenda": null,
-    "Observações ": null,
-    "Unnamed: 19": null
+    "Fazenda": null
   },
   {
     "ID": "3621111",
@@ -8786,9 +8024,7 @@ window.QUALIDADE_CANA_DATA = [
     "Responsável": "Ruan Alexandre Lopes",
     "Quantidade de Cana": "BOM",
     "Observações": null,
-    "Fazenda": null,
-    "Observações ": null,
-    "Unnamed: 19": null
+    "Fazenda": null
   },
   {
     "ID": "3622162",
@@ -8809,9 +8045,7 @@ window.QUALIDADE_CANA_DATA = [
     "Responsável": "MARCELO DE OLIVEIRA JUNIOR",
     "Quantidade de Cana": "BOM",
     "Observações": null,
-    "Fazenda": null,
-    "Observações ": null,
-    "Unnamed: 19": null
+    "Fazenda": null
   },
   {
     "ID": "3618351",
@@ -8832,9 +8066,7 @@ window.QUALIDADE_CANA_DATA = [
     "Responsável": "VITOR AMORIM RAMOS ",
     "Quantidade de Cana": "BOM",
     "Observações": null,
-    "Fazenda": null,
-    "Observações ": null,
-    "Unnamed: 19": null
+    "Fazenda": null
   },
   {
     "ID": "3618399",
@@ -8855,9 +8087,7 @@ window.QUALIDADE_CANA_DATA = [
     "Responsável": " Antonio ",
     "Quantidade de Cana": "BOM",
     "Observações": null,
-    "Fazenda": null,
-    "Observações ": null,
-    "Unnamed: 19": null
+    "Fazenda": null
   },
   {
     "ID": "3618778",
@@ -8878,9 +8108,7 @@ window.QUALIDADE_CANA_DATA = [
     "Responsável": "MICHELI DE SOUZA SANTOS  ",
     "Quantidade de Cana": "BOM",
     "Observações": null,
-    "Fazenda": null,
-    "Observações ": null,
-    "Unnamed: 19": null
+    "Fazenda": null
   },
   {
     "ID": "3618393",
@@ -8901,9 +8129,7 @@ window.QUALIDADE_CANA_DATA = [
     "Responsável": " Antonio ",
     "Quantidade de Cana": "BOM",
     "Observações": null,
-    "Fazenda": null,
-    "Observações ": null,
-    "Unnamed: 19": null
+    "Fazenda": null
   },
   {
     "ID": "3618388",
@@ -8924,9 +8150,7 @@ window.QUALIDADE_CANA_DATA = [
     "Responsável": " Antonio ",
     "Quantidade de Cana": "BOM",
     "Observações": null,
-    "Fazenda": null,
-    "Observações ": null,
-    "Unnamed: 19": null
+    "Fazenda": null
   },
   {
     "ID": "3618450",
@@ -8947,9 +8171,7 @@ window.QUALIDADE_CANA_DATA = [
     "Responsável": "NILDA CLAUDINO [2510716]",
     "Quantidade de Cana": "BOM",
     "Observações": null,
-    "Fazenda": null,
-    "Observações ": null,
-    "Unnamed: 19": null
+    "Fazenda": null
   },
   {
     "ID": "3618382",
@@ -8970,9 +8192,7 @@ window.QUALIDADE_CANA_DATA = [
     "Responsável": " Antonio ",
     "Quantidade de Cana": "BOM",
     "Observações": null,
-    "Fazenda": null,
-    "Observações ": null,
-    "Unnamed: 19": null
+    "Fazenda": null
   },
   {
     "ID": "3618345",
@@ -8993,9 +8213,7 @@ window.QUALIDADE_CANA_DATA = [
     "Responsável": "VITOR AMORIM RAMOS ",
     "Quantidade de Cana": "BOM",
     "Observações": null,
-    "Fazenda": null,
-    "Observações ": null,
-    "Unnamed: 19": null
+    "Fazenda": null
   },
   {
     "ID": "3619777",
@@ -9016,9 +8234,7 @@ window.QUALIDADE_CANA_DATA = [
     "Responsável": "MARCELO DE OLIVEIRA JUNIOR",
     "Quantidade de Cana": "BOM",
     "Observações": null,
-    "Fazenda": null,
-    "Observações ": null,
-    "Unnamed: 19": null
+    "Fazenda": null
   },
   {
     "ID": "3618773",
@@ -9039,9 +8255,7 @@ window.QUALIDADE_CANA_DATA = [
     "Responsável": "MICHELI DE SOUZA SANTOS  ",
     "Quantidade de Cana": "BOM",
     "Observações": null,
-    "Fazenda": null,
-    "Observações ": null,
-    "Unnamed: 19": null
+    "Fazenda": null
   },
   {
     "ID": "3618340",
@@ -9062,9 +8276,7 @@ window.QUALIDADE_CANA_DATA = [
     "Responsável": "VITOR AMORIM RAMOS ",
     "Quantidade de Cana": "BOM",
     "Observações": null,
-    "Fazenda": null,
-    "Observações ": null,
-    "Unnamed: 19": null
+    "Fazenda": null
   },
   {
     "ID": "3618768",
@@ -9085,9 +8297,7 @@ window.QUALIDADE_CANA_DATA = [
     "Responsável": "MICHELI DE SOUZA SANTOS  ",
     "Quantidade de Cana": "BOM",
     "Observações": null,
-    "Fazenda": null,
-    "Observações ": null,
-    "Unnamed: 19": null
+    "Fazenda": null
   },
   {
     "ID": "3619774",
@@ -9108,9 +8318,7 @@ window.QUALIDADE_CANA_DATA = [
     "Responsável": "MARCELO DE OLIVEIRA JUNIOR",
     "Quantidade de Cana": "BOM",
     "Observações": null,
-    "Fazenda": null,
-    "Observações ": null,
-    "Unnamed: 19": null
+    "Fazenda": null
   },
   {
     "ID": "3618795",
@@ -9131,9 +8339,7 @@ window.QUALIDADE_CANA_DATA = [
     "Responsável": "NILDA CLAUDINO [2510716]",
     "Quantidade de Cana": "BOM",
     "Observações": null,
-    "Fazenda": null,
-    "Observações ": null,
-    "Unnamed: 19": null
+    "Fazenda": null
   },
   {
     "ID": "3617927",
@@ -9154,9 +8360,7 @@ window.QUALIDADE_CANA_DATA = [
     "Responsável": "Ruan Alexandre Lopes",
     "Quantidade de Cana": "BOM",
     "Observações": null,
-    "Fazenda": null,
-    "Observações ": null,
-    "Unnamed: 19": null
+    "Fazenda": null
   },
   {
     "ID": "3618334",
@@ -9177,9 +8381,7 @@ window.QUALIDADE_CANA_DATA = [
     "Responsável": "VITOR AMORIM RAMOS ",
     "Quantidade de Cana": "BOM",
     "Observações": null,
-    "Fazenda": null,
-    "Observações ": null,
-    "Unnamed: 19": null
+    "Fazenda": null
   },
   {
     "ID": "3618762",
@@ -9200,9 +8402,7 @@ window.QUALIDADE_CANA_DATA = [
     "Responsável": "MICHELI DE SOUZA SANTOS  ",
     "Quantidade de Cana": "BOM",
     "Observações": null,
-    "Fazenda": null,
-    "Observações ": null,
-    "Unnamed: 19": null
+    "Fazenda": null
   },
   {
     "ID": "3619769",
@@ -9223,9 +8423,7 @@ window.QUALIDADE_CANA_DATA = [
     "Responsável": "MARCELO DE OLIVEIRA JUNIOR",
     "Quantidade de Cana": "BOM",
     "Observações": null,
-    "Fazenda": null,
-    "Observações ": null,
-    "Unnamed: 19": null
+    "Fazenda": null
   },
   {
     "ID": "3618790",
@@ -9246,9 +8444,7 @@ window.QUALIDADE_CANA_DATA = [
     "Responsável": "NILDA CLAUDINO [2510716]",
     "Quantidade de Cana": "BOM",
     "Observações": null,
-    "Fazenda": null,
-    "Observações ": null,
-    "Unnamed: 19": null
+    "Fazenda": null
   },
   {
     "ID": "3618329",
@@ -9269,9 +8465,7 @@ window.QUALIDADE_CANA_DATA = [
     "Responsável": "VITOR AMORIM RAMOS ",
     "Quantidade de Cana": "BOM",
     "Observações": null,
-    "Fazenda": null,
-    "Observações ": null,
-    "Unnamed: 19": null
+    "Fazenda": null
   },
   {
     "ID": "3618757",
@@ -9292,9 +8486,7 @@ window.QUALIDADE_CANA_DATA = [
     "Responsável": "MICHELI DE SOUZA SANTOS  ",
     "Quantidade de Cana": "BOM",
     "Observações": null,
-    "Fazenda": null,
-    "Observações ": null,
-    "Unnamed: 19": null
+    "Fazenda": null
   },
   {
     "ID": "3619745",
@@ -9315,9 +8507,7 @@ window.QUALIDADE_CANA_DATA = [
     "Responsável": "MARCELO DE OLIVEIRA JUNIOR",
     "Quantidade de Cana": "BOM",
     "Observações": null,
-    "Fazenda": null,
-    "Observações ": null,
-    "Unnamed: 19": null
+    "Fazenda": null
   },
   {
     "ID": "3617921",
@@ -9338,9 +8528,7 @@ window.QUALIDADE_CANA_DATA = [
     "Responsável": "Ruan Alexandre Lopes",
     "Quantidade de Cana": "BOM",
     "Observações": null,
-    "Fazenda": null,
-    "Observações ": null,
-    "Unnamed: 19": null
+    "Fazenda": null
   },
   {
     "ID": "3618281",
@@ -9361,9 +8549,7 @@ window.QUALIDADE_CANA_DATA = [
     "Responsável": "VITOR AMORIM RAMOS ",
     "Quantidade de Cana": "BOM",
     "Observações": null,
-    "Fazenda": null,
-    "Observações ": null,
-    "Unnamed: 19": null
+    "Fazenda": null
   },
   {
     "ID": "3618582",
@@ -9384,9 +8570,7 @@ window.QUALIDADE_CANA_DATA = [
     "Responsável": "GABRIEL HENRIQUE MARTINS PEREIRA",
     "Quantidade de Cana": "BOM",
     "Observações": null,
-    "Fazenda": null,
-    "Observações ": null,
-    "Unnamed: 19": null
+    "Fazenda": null
   },
   {
     "ID": "3618405",
@@ -9407,9 +8591,7 @@ window.QUALIDADE_CANA_DATA = [
     "Responsável": "NILDA CLAUDINO [2510716]",
     "Quantidade de Cana": "BOM",
     "Observações": null,
-    "Fazenda": null,
-    "Observações ": null,
-    "Unnamed: 19": null
+    "Fazenda": null
   },
   {
     "ID": "3618274",
@@ -9430,9 +8612,7 @@ window.QUALIDADE_CANA_DATA = [
     "Responsável": "VITOR AMORIM RAMOS ",
     "Quantidade de Cana": "BOM",
     "Observações": null,
-    "Fazenda": null,
-    "Observações ": null,
-    "Unnamed: 19": null
+    "Fazenda": null
   },
   {
     "ID": "3617915",
@@ -9453,9 +8633,7 @@ window.QUALIDADE_CANA_DATA = [
     "Responsável": "Ruan Alexandre Lopes",
     "Quantidade de Cana": "BOM",
     "Observações": null,
-    "Fazenda": null,
-    "Observações ": null,
-    "Unnamed: 19": null
+    "Fazenda": null
   },
   {
     "ID": "3618369",
@@ -9476,9 +8654,7 @@ window.QUALIDADE_CANA_DATA = [
     "Responsável": "NILDA CLAUDINO [2510716]",
     "Quantidade de Cana": "BOM",
     "Observações": null,
-    "Fazenda": null,
-    "Observações ": null,
-    "Unnamed: 19": null
+    "Fazenda": null
   },
   {
     "ID": "3618364",
@@ -9499,9 +8675,7 @@ window.QUALIDADE_CANA_DATA = [
     "Responsável": "NILDA CLAUDINO [2510716]",
     "Quantidade de Cana": "BOM",
     "Observações": null,
-    "Fazenda": null,
-    "Observações ": null,
-    "Unnamed: 19": null
+    "Fazenda": null
   },
   {
     "ID": "3618577",
@@ -9522,9 +8696,7 @@ window.QUALIDADE_CANA_DATA = [
     "Responsável": "GABRIEL HENRIQUE MARTINS PEREIRA",
     "Quantidade de Cana": "BOM",
     "Observações": null,
-    "Fazenda": null,
-    "Observações ": null,
-    "Unnamed: 19": null
+    "Fazenda": null
   },
   {
     "ID": "3618752",
@@ -9545,9 +8717,7 @@ window.QUALIDADE_CANA_DATA = [
     "Responsável": "MICHELI DE SOUZA SANTOS  ",
     "Quantidade de Cana": "BOM",
     "Observações": null,
-    "Fazenda": null,
-    "Observações ": null,
-    "Unnamed: 19": null
+    "Fazenda": null
   },
   {
     "ID": "3618740",
@@ -9568,9 +8738,7 @@ window.QUALIDADE_CANA_DATA = [
     "Responsável": "MICHELI DE SOUZA SANTOS  ",
     "Quantidade de Cana": "BOM",
     "Observações": null,
-    "Fazenda": null,
-    "Observações ": null,
-    "Unnamed: 19": null
+    "Fazenda": null
   },
   {
     "ID": "3618735",
@@ -9591,9 +8759,7 @@ window.QUALIDADE_CANA_DATA = [
     "Responsável": "MICHELI DE SOUZA SANTOS  ",
     "Quantidade de Cana": "BOM",
     "Observações": null,
-    "Fazenda": null,
-    "Observações ": null,
-    "Unnamed: 19": null
+    "Fazenda": null
   },
   {
     "ID": "3618730",
@@ -9614,9 +8780,7 @@ window.QUALIDADE_CANA_DATA = [
     "Responsável": "MICHELI DE SOUZA SANTOS  ",
     "Quantidade de Cana": "BOM",
     "Observações": null,
-    "Fazenda": null,
-    "Observações ": null,
-    "Unnamed: 19": null
+    "Fazenda": null
   },
   {
     "ID": "3618723",
@@ -9637,9 +8801,7 @@ window.QUALIDADE_CANA_DATA = [
     "Responsável": "MICHELI DE SOUZA SANTOS  ",
     "Quantidade de Cana": "BOM",
     "Observações": null,
-    "Fazenda": null,
-    "Observações ": null,
-    "Unnamed: 19": null
+    "Fazenda": null
   },
   {
     "ID": "3617790",
@@ -9660,9 +8822,7 @@ window.QUALIDADE_CANA_DATA = [
     "Responsável": "VITOR AMORIM RAMOS ",
     "Quantidade de Cana": "BOM",
     "Observações": null,
-    "Fazenda": null,
-    "Observações ": null,
-    "Unnamed: 19": null
+    "Fazenda": null
   },
   {
     "ID": "3617789",
@@ -9683,9 +8843,7 @@ window.QUALIDADE_CANA_DATA = [
     "Responsável": "VITOR AMORIM RAMOS ",
     "Quantidade de Cana": "BOM",
     "Observações": null,
-    "Fazenda": null,
-    "Observações ": null,
-    "Unnamed: 19": null
+    "Fazenda": null
   },
   {
     "ID": "3618718",
@@ -9706,9 +8864,7 @@ window.QUALIDADE_CANA_DATA = [
     "Responsável": "MICHELI DE SOUZA SANTOS  ",
     "Quantidade de Cana": "BOM",
     "Observações": null,
-    "Fazenda": null,
-    "Observações ": null,
-    "Unnamed: 19": null
+    "Fazenda": null
   },
   {
     "ID": "3617784",
@@ -9729,9 +8885,7 @@ window.QUALIDADE_CANA_DATA = [
     "Responsável": "VITOR AMORIM RAMOS ",
     "Quantidade de Cana": "BOM",
     "Observações": null,
-    "Fazenda": null,
-    "Observações ": null,
-    "Unnamed: 19": null
+    "Fazenda": null
   },
   {
     "ID": "3618570",
@@ -9752,9 +8906,7 @@ window.QUALIDADE_CANA_DATA = [
     "Responsável": "GABRIEL HENRIQUE MARTINS PEREIRA",
     "Quantidade de Cana": "BOM",
     "Observações": null,
-    "Fazenda": null,
-    "Observações ": null,
-    "Unnamed: 19": null
+    "Fazenda": null
   },
   {
     "ID": "3617886",
@@ -9775,9 +8927,7 @@ window.QUALIDADE_CANA_DATA = [
     "Responsável": "MABILA HELEN D FIGUEIREDO",
     "Quantidade de Cana": "BOM",
     "Observações": null,
-    "Fazenda": null,
-    "Observações ": null,
-    "Unnamed: 19": null
+    "Fazenda": null
   },
   {
     "ID": "3618565",
@@ -9798,9 +8948,7 @@ window.QUALIDADE_CANA_DATA = [
     "Responsável": "GABRIEL HENRIQUE MARTINS PEREIRA",
     "Quantidade de Cana": "BOM",
     "Observações": null,
-    "Fazenda": null,
-    "Observações ": null,
-    "Unnamed: 19": null
+    "Fazenda": null
   },
   {
     "ID": "3617779",
@@ -9821,9 +8969,7 @@ window.QUALIDADE_CANA_DATA = [
     "Responsável": "VITOR AMORIM RAMOS ",
     "Quantidade de Cana": "BOM",
     "Observações": null,
-    "Fazenda": null,
-    "Observações ": null,
-    "Unnamed: 19": null
+    "Fazenda": null
   },
   {
     "ID": "3617726",
@@ -9844,9 +8990,7 @@ window.QUALIDADE_CANA_DATA = [
     "Responsável": "Ruan Alexandre Lopes",
     "Quantidade de Cana": "BOM",
     "Observações": null,
-    "Fazenda": null,
-    "Observações ": null,
-    "Unnamed: 19": null
+    "Fazenda": null
   },
   {
     "ID": "3618560",
@@ -9867,9 +9011,7 @@ window.QUALIDADE_CANA_DATA = [
     "Responsável": "GABRIEL HENRIQUE MARTINS PEREIRA",
     "Quantidade de Cana": "BOM",
     "Observações": null,
-    "Fazenda": null,
-    "Observações ": null,
-    "Unnamed: 19": null
+    "Fazenda": null
   },
   {
     "ID": "3617774",
@@ -9890,9 +9032,7 @@ window.QUALIDADE_CANA_DATA = [
     "Responsável": "VITOR AMORIM RAMOS ",
     "Quantidade de Cana": "BOM",
     "Observações": null,
-    "Fazenda": null,
-    "Observações ": null,
-    "Unnamed: 19": null
+    "Fazenda": null
   },
   {
     "ID": "3618555",
@@ -9913,9 +9053,7 @@ window.QUALIDADE_CANA_DATA = [
     "Responsável": "GABRIEL HENRIQUE MARTINS PEREIRA",
     "Quantidade de Cana": "BOM",
     "Observações": null,
-    "Fazenda": null,
-    "Observações ": null,
-    "Unnamed: 19": null
+    "Fazenda": null
   },
   {
     "ID": "3618592",
@@ -9936,9 +9074,7 @@ window.QUALIDADE_CANA_DATA = [
     "Responsável": "GABRIEL HENRIQUE MARTINS PEREIRA",
     "Quantidade de Cana": "BOM",
     "Observações": null,
-    "Fazenda": null,
-    "Observações ": null,
-    "Unnamed: 19": null
+    "Fazenda": null
   },
   {
     "ID": "3617741",
@@ -9959,9 +9095,7 @@ window.QUALIDADE_CANA_DATA = [
     "Responsável": "Ruan Alexandre Lopes",
     "Quantidade de Cana": "BOM",
     "Observações": null,
-    "Fazenda": null,
-    "Observações ": null,
-    "Unnamed: 19": null
+    "Fazenda": null
   },
   {
     "ID": "3617892",
@@ -9982,9 +9116,7 @@ window.QUALIDADE_CANA_DATA = [
     "Responsável": "MABILA HELEN D FIGUEIREDO",
     "Quantidade de Cana": "BOM",
     "Observações": null,
-    "Fazenda": null,
-    "Observações ": null,
-    "Unnamed: 19": null
+    "Fazenda": null
   },
   {
     "ID": "3617714",
@@ -10005,9 +9137,7 @@ window.QUALIDADE_CANA_DATA = [
     "Responsável": "Ruan Alexandre Lopes",
     "Quantidade de Cana": "BOM",
     "Observações": null,
-    "Fazenda": null,
-    "Observações ": null,
-    "Unnamed: 19": null
+    "Fazenda": null
   },
   {
     "ID": "3617873",
@@ -10028,9 +9158,7 @@ window.QUALIDADE_CANA_DATA = [
     "Responsável": "MABILA HELEN D FIGUEIREDO",
     "Quantidade de Cana": "BOM",
     "Observações": null,
-    "Fazenda": null,
-    "Observações ": null,
-    "Unnamed: 19": null
+    "Fazenda": null
   },
   {
     "ID": "3617866",
@@ -10051,9 +9179,7 @@ window.QUALIDADE_CANA_DATA = [
     "Responsável": "MABILA HELEN D FIGUEIREDO",
     "Quantidade de Cana": "BOM",
     "Observações": null,
-    "Fazenda": null,
-    "Observações ": null,
-    "Unnamed: 19": null
+    "Fazenda": null
   },
   {
     "ID": "3619733",
@@ -10074,9 +9200,7 @@ window.QUALIDADE_CANA_DATA = [
     "Responsável": "MARCELO DE OLIVEIRA JUNIOR",
     "Quantidade de Cana": "BOM",
     "Observações": null,
-    "Fazenda": null,
-    "Observações ": null,
-    "Unnamed: 19": null
+    "Fazenda": null
   },
   {
     "ID": "3617569",
@@ -10097,9 +9221,7 @@ window.QUALIDADE_CANA_DATA = [
     "Responsável": "FERNANDA DE SOUZA ",
     "Quantidade de Cana": "BOM",
     "Observações": null,
-    "Fazenda": null,
-    "Observações ": null,
-    "Unnamed: 19": null
+    "Fazenda": null
   },
   {
     "ID": "3617857",
@@ -10120,9 +9242,7 @@ window.QUALIDADE_CANA_DATA = [
     "Responsável": "MABILA HELEN D FIGUEIREDO",
     "Quantidade de Cana": "BOM",
     "Observações": null,
-    "Fazenda": null,
-    "Observações ": null,
-    "Unnamed: 19": null
+    "Fazenda": null
   },
   {
     "ID": "3617563",
@@ -10143,9 +9263,7 @@ window.QUALIDADE_CANA_DATA = [
     "Responsável": "FERNANDA DE SOUZA ",
     "Quantidade de Cana": "BOM",
     "Observações": null,
-    "Fazenda": null,
-    "Observações ": null,
-    "Unnamed: 19": null
+    "Fazenda": null
   },
   {
     "ID": "3619728",
@@ -10166,9 +9284,7 @@ window.QUALIDADE_CANA_DATA = [
     "Responsável": "MARCELO DE OLIVEIRA JUNIOR",
     "Quantidade de Cana": "BOM",
     "Observações": null,
-    "Fazenda": null,
-    "Observações ": null,
-    "Unnamed: 19": null
+    "Fazenda": null
   },
   {
     "ID": "3619723",
@@ -10189,9 +9305,7 @@ window.QUALIDADE_CANA_DATA = [
     "Responsável": "MARCELO DE OLIVEIRA JUNIOR",
     "Quantidade de Cana": "BOM",
     "Observações": null,
-    "Fazenda": null,
-    "Observações ": null,
-    "Unnamed: 19": null
+    "Fazenda": null
   },
   {
     "ID": "3614620",
@@ -10212,9 +9326,7 @@ window.QUALIDADE_CANA_DATA = [
     "Responsável": "FERNANDA DE SOUZA ",
     "Quantidade de Cana": "BOM",
     "Observações": null,
-    "Fazenda": null,
-    "Observações ": null,
-    "Unnamed: 19": null
+    "Fazenda": null
   },
   {
     "ID": "3614612",
@@ -10235,9 +9347,7 @@ window.QUALIDADE_CANA_DATA = [
     "Responsável": "FERNANDA DE SOUZA ",
     "Quantidade de Cana": "BOM",
     "Observações": null,
-    "Fazenda": null,
-    "Observações ": null,
-    "Unnamed: 19": null
+    "Fazenda": null
   },
   {
     "ID": "3614603",
@@ -10258,9 +9368,7 @@ window.QUALIDADE_CANA_DATA = [
     "Responsável": "VITOR AMORIM RAMOS ",
     "Quantidade de Cana": "BOM",
     "Observações": null,
-    "Fazenda": null,
-    "Observações ": null,
-    "Unnamed: 19": null
+    "Fazenda": null
   },
   {
     "ID": "3614598",
@@ -10281,9 +9389,7 @@ window.QUALIDADE_CANA_DATA = [
     "Responsável": "VITOR AMORIM RAMOS ",
     "Quantidade de Cana": "BOM",
     "Observações": null,
-    "Fazenda": null,
-    "Observações ": null,
-    "Unnamed: 19": null
+    "Fazenda": null
   },
   {
     "ID": "3614593",
@@ -10304,9 +9410,7 @@ window.QUALIDADE_CANA_DATA = [
     "Responsável": "VITOR AMORIM RAMOS ",
     "Quantidade de Cana": "BOM",
     "Observações": null,
-    "Fazenda": null,
-    "Observações ": null,
-    "Unnamed: 19": null
+    "Fazenda": null
   },
   {
     "ID": "3614378",
@@ -10327,9 +9431,7 @@ window.QUALIDADE_CANA_DATA = [
     "Responsável": "FERNANDA DE SOUZA ",
     "Quantidade de Cana": "BOM",
     "Observações": null,
-    "Fazenda": null,
-    "Observações ": null,
-    "Unnamed: 19": null
+    "Fazenda": null
   },
   {
     "ID": "3614588",
@@ -10350,9 +9452,7 @@ window.QUALIDADE_CANA_DATA = [
     "Responsável": "VITOR AMORIM RAMOS ",
     "Quantidade de Cana": "BOM",
     "Observações": null,
-    "Fazenda": null,
-    "Observações ": null,
-    "Unnamed: 19": null
+    "Fazenda": null
   },
   {
     "ID": "3614372",
@@ -10373,9 +9473,7 @@ window.QUALIDADE_CANA_DATA = [
     "Responsável": "FERNANDA DE SOUZA ",
     "Quantidade de Cana": "BOM",
     "Observações": null,
-    "Fazenda": null,
-    "Observações ": null,
-    "Unnamed: 19": null
+    "Fazenda": null
   },
   {
     "ID": "3614292",
@@ -10396,9 +9494,7 @@ window.QUALIDADE_CANA_DATA = [
     "Responsável": "GLEISON FELIPE BORGES DE MATOS",
     "Quantidade de Cana": "BOM",
     "Observações": null,
-    "Fazenda": null,
-    "Observações ": null,
-    "Unnamed: 19": null
+    "Fazenda": null
   },
   {
     "ID": "3614287",
@@ -10419,9 +9515,7 @@ window.QUALIDADE_CANA_DATA = [
     "Responsável": "GLEISON FELIPE BORGES DE MATOS",
     "Quantidade de Cana": "BOM",
     "Observações": null,
-    "Fazenda": null,
-    "Observações ": null,
-    "Unnamed: 19": null
+    "Fazenda": null
   },
   {
     "ID": "3613983",
@@ -10442,9 +9536,7 @@ window.QUALIDADE_CANA_DATA = [
     "Responsável": "VITOR AMORIM RAMOS ",
     "Quantidade de Cana": "BOM",
     "Observações": null,
-    "Fazenda": null,
-    "Observações ": null,
-    "Unnamed: 19": null
+    "Fazenda": null
   },
   {
     "ID": "3614364",
@@ -10465,9 +9557,7 @@ window.QUALIDADE_CANA_DATA = [
     "Responsável": "FERNANDA DE SOUZA ",
     "Quantidade de Cana": "BOM",
     "Observações": null,
-    "Fazenda": null,
-    "Observações ": null,
-    "Unnamed: 19": null
+    "Fazenda": null
   },
   {
     "ID": "3614360",
@@ -10488,9 +9578,7 @@ window.QUALIDADE_CANA_DATA = [
     "Responsável": "FERNANDA DE SOUZA ",
     "Quantidade de Cana": "BOM",
     "Observações": null,
-    "Fazenda": null,
-    "Observações ": null,
-    "Unnamed: 19": null
+    "Fazenda": null
   },
   {
     "ID": "3613974",
@@ -10511,9 +9599,7 @@ window.QUALIDADE_CANA_DATA = [
     "Responsável": "VITOR AMORIM RAMOS ",
     "Quantidade de Cana": "BOM",
     "Observações": null,
-    "Fazenda": null,
-    "Observações ": null,
-    "Unnamed: 19": null
+    "Fazenda": null
   },
   {
     "ID": "3613969",
@@ -10534,9 +9620,7 @@ window.QUALIDADE_CANA_DATA = [
     "Responsável": "VITOR AMORIM RAMOS ",
     "Quantidade de Cana": "BOM",
     "Observações": null,
-    "Fazenda": null,
-    "Observações ": null,
-    "Unnamed: 19": null
+    "Fazenda": null
   },
   {
     "ID": "3614211",
@@ -10557,9 +9641,7 @@ window.QUALIDADE_CANA_DATA = [
     "Responsável": "FERNANDA DE SOUZA ",
     "Quantidade de Cana": "BOM",
     "Observações": null,
-    "Fazenda": null,
-    "Observações ": null,
-    "Unnamed: 19": null
+    "Fazenda": null
   },
   {
     "ID": "3614668",
@@ -10580,9 +9662,7 @@ window.QUALIDADE_CANA_DATA = [
     "Responsável": "NILDA CLAUDINO [2510716]",
     "Quantidade de Cana": "BOM",
     "Observações": null,
-    "Fazenda": null,
-    "Observações ": null,
-    "Unnamed: 19": null
+    "Fazenda": null
   },
   {
     "ID": "3613964",
@@ -10603,9 +9683,7 @@ window.QUALIDADE_CANA_DATA = [
     "Responsável": "VITOR AMORIM RAMOS ",
     "Quantidade de Cana": "BOM",
     "Observações": null,
-    "Fazenda": null,
-    "Observações ": null,
-    "Unnamed: 19": null
+    "Fazenda": null
   },
   {
     "ID": "3613959",
@@ -10626,9 +9704,7 @@ window.QUALIDADE_CANA_DATA = [
     "Responsável": "VITOR AMORIM RAMOS ",
     "Quantidade de Cana": "BOM",
     "Observações": null,
-    "Fazenda": null,
-    "Observações ": null,
-    "Unnamed: 19": null
+    "Fazenda": null
   },
   {
     "ID": "3614661",
@@ -10649,9 +9725,7 @@ window.QUALIDADE_CANA_DATA = [
     "Responsável": "NILDA CLAUDINO [2510716]",
     "Quantidade de Cana": "BOM",
     "Observações": null,
-    "Fazenda": null,
-    "Observações ": null,
-    "Unnamed: 19": null
+    "Fazenda": null
   },
   {
     "ID": "3613807",
@@ -10672,9 +9746,7 @@ window.QUALIDADE_CANA_DATA = [
     "Responsável": "MICHELI DE SOUZA SANTOS  ",
     "Quantidade de Cana": "BOM",
     "Observações": null,
-    "Fazenda": null,
-    "Observações ": null,
-    "Unnamed: 19": null
+    "Fazenda": null
   },
   {
     "ID": "3613948",
@@ -10695,9 +9767,7 @@ window.QUALIDADE_CANA_DATA = [
     "Responsável": "VITOR AMORIM RAMOS ",
     "Quantidade de Cana": "BOM",
     "Observações": null,
-    "Fazenda": null,
-    "Observações ": null,
-    "Unnamed: 19": null
+    "Fazenda": null
   },
   {
     "ID": "3613800",
@@ -10718,9 +9788,7 @@ window.QUALIDADE_CANA_DATA = [
     "Responsável": "MICHELI DE SOUZA SANTOS  ",
     "Quantidade de Cana": "BOM",
     "Observações": null,
-    "Fazenda": null,
-    "Observações ": null,
-    "Unnamed: 19": null
+    "Fazenda": null
   },
   {
     "ID": "3613943",
@@ -10741,9 +9809,7 @@ window.QUALIDADE_CANA_DATA = [
     "Responsável": "VITOR AMORIM RAMOS ",
     "Quantidade de Cana": "BOM",
     "Observações": null,
-    "Fazenda": null,
-    "Observações ": null,
-    "Unnamed: 19": null
+    "Fazenda": null
   },
   {
     "ID": "3613795",
@@ -10764,9 +9830,7 @@ window.QUALIDADE_CANA_DATA = [
     "Responsável": "MICHELI DE SOUZA SANTOS  ",
     "Quantidade de Cana": "BOM",
     "Observações": null,
-    "Fazenda": null,
-    "Observações ": null,
-    "Unnamed: 19": null
+    "Fazenda": null
   },
   {
     "ID": "3613938",
@@ -10787,9 +9851,7 @@ window.QUALIDADE_CANA_DATA = [
     "Responsável": "VITOR AMORIM RAMOS ",
     "Quantidade de Cana": "BOM",
     "Observações": null,
-    "Fazenda": null,
-    "Observações ": null,
-    "Unnamed: 19": null
+    "Fazenda": null
   },
   {
     "ID": "3613933",
@@ -10810,9 +9872,7 @@ window.QUALIDADE_CANA_DATA = [
     "Responsável": "VITOR AMORIM RAMOS ",
     "Quantidade de Cana": "BOM",
     "Observações": null,
-    "Fazenda": null,
-    "Observações ": null,
-    "Unnamed: 19": null
+    "Fazenda": null
   },
   {
     "ID": "3613928",
@@ -10833,9 +9893,7 @@ window.QUALIDADE_CANA_DATA = [
     "Responsável": "VITOR AMORIM RAMOS ",
     "Quantidade de Cana": "BOM",
     "Observações": null,
-    "Fazenda": null,
-    "Observações ": null,
-    "Unnamed: 19": null
+    "Fazenda": null
   },
   {
     "ID": "3613785",
@@ -10856,9 +9914,7 @@ window.QUALIDADE_CANA_DATA = [
     "Responsável": "MICHELI DE SOUZA SANTOS  ",
     "Quantidade de Cana": "BOM",
     "Observações": null,
-    "Fazenda": null,
-    "Observações ": null,
-    "Unnamed: 19": null
+    "Fazenda": null
   },
   {
     "ID": "3614690",
@@ -10879,9 +9935,7 @@ window.QUALIDADE_CANA_DATA = [
     "Responsável": "NILDA CLAUDINO [2510716]",
     "Quantidade de Cana": "BOM",
     "Observações": null,
-    "Fazenda": null,
-    "Observações ": null,
-    "Unnamed: 19": null
+    "Fazenda": null
   },
   {
     "ID": "3613599",
@@ -10902,9 +9956,7 @@ window.QUALIDADE_CANA_DATA = [
     "Responsável": "MARCELO DE OLIVEIRA JUNIOR",
     "Quantidade de Cana": "BOM",
     "Observações": null,
-    "Fazenda": null,
-    "Observações ": null,
-    "Unnamed: 19": null
+    "Fazenda": null
   },
   {
     "ID": "3611634",
@@ -10925,9 +9977,7 @@ window.QUALIDADE_CANA_DATA = [
     "Responsável": "FERNANDA DE SOUZA ",
     "Quantidade de Cana": "BOM",
     "Observações": null,
-    "Fazenda": null,
-    "Observações ": null,
-    "Unnamed: 19": null
+    "Fazenda": null
   },
   {
     "ID": "3612790",
@@ -10948,9 +9998,7 @@ window.QUALIDADE_CANA_DATA = [
     "Responsável": "VITOR AMORIM RAMOS ",
     "Quantidade de Cana": "BOM",
     "Observações": null,
-    "Fazenda": null,
-    "Observações ": null,
-    "Unnamed: 19": null
+    "Fazenda": null
   },
   {
     "ID": "3612789",
@@ -10971,9 +10019,7 @@ window.QUALIDADE_CANA_DATA = [
     "Responsável": "VITOR AMORIM RAMOS ",
     "Quantidade de Cana": "BOM",
     "Observações": null,
-    "Fazenda": null,
-    "Observações ": null,
-    "Unnamed: 19": null
+    "Fazenda": null
   },
   {
     "ID": "3611633",
@@ -10994,9 +10040,7 @@ window.QUALIDADE_CANA_DATA = [
     "Responsável": "FERNANDA DE SOUZA ",
     "Quantidade de Cana": "BOM",
     "Observações": null,
-    "Fazenda": null,
-    "Observações ": null,
-    "Unnamed: 19": null
+    "Fazenda": null
   },
   {
     "ID": "3611632",
@@ -11017,9 +10061,7 @@ window.QUALIDADE_CANA_DATA = [
     "Responsável": "FERNANDA DE SOUZA ",
     "Quantidade de Cana": "BOM",
     "Observações": null,
-    "Fazenda": null,
-    "Observações ": null,
-    "Unnamed: 19": null
+    "Fazenda": null
   },
   {
     "ID": "3611590",
@@ -11040,9 +10082,7 @@ window.QUALIDADE_CANA_DATA = [
     "Responsável": "NILDA CLAUDINO [2510716]",
     "Quantidade de Cana": "BOM",
     "Observações": null,
-    "Fazenda": null,
-    "Observações ": null,
-    "Unnamed: 19": null
+    "Fazenda": null
   },
   {
     "ID": "3612784",
@@ -11063,9 +10103,7 @@ window.QUALIDADE_CANA_DATA = [
     "Responsável": "VITOR AMORIM RAMOS ",
     "Quantidade de Cana": "BOM",
     "Observações": null,
-    "Fazenda": null,
-    "Observações ": null,
-    "Unnamed: 19": null
+    "Fazenda": null
   },
   {
     "ID": "3613592",
@@ -11086,9 +10124,7 @@ window.QUALIDADE_CANA_DATA = [
     "Responsável": "MARCELO DE OLIVEIRA JUNIOR",
     "Quantidade de Cana": "BOM",
     "Observações": null,
-    "Fazenda": null,
-    "Observações ": null,
-    "Unnamed: 19": null
+    "Fazenda": null
   },
   {
     "ID": "3612780",
@@ -11109,9 +10145,7 @@ window.QUALIDADE_CANA_DATA = [
     "Responsável": "VITOR AMORIM RAMOS ",
     "Quantidade de Cana": "BOM",
     "Observações": null,
-    "Fazenda": null,
-    "Observações ": null,
-    "Unnamed: 19": null
+    "Fazenda": null
   },
   {
     "ID": "3613591",
@@ -11132,9 +10166,7 @@ window.QUALIDADE_CANA_DATA = [
     "Responsável": "MARCELO DE OLIVEIRA JUNIOR",
     "Quantidade de Cana": "BOM",
     "Observações": null,
-    "Fazenda": null,
-    "Observações ": null,
-    "Unnamed: 19": null
+    "Fazenda": null
   },
   {
     "ID": "3613586",
@@ -11155,9 +10187,7 @@ window.QUALIDADE_CANA_DATA = [
     "Responsável": "MARCELO DE OLIVEIRA JUNIOR",
     "Quantidade de Cana": "BOM",
     "Observações": null,
-    "Fazenda": null,
-    "Observações ": null,
-    "Unnamed: 19": null
+    "Fazenda": null
   },
   {
     "ID": "3612773",
@@ -11178,9 +10208,7 @@ window.QUALIDADE_CANA_DATA = [
     "Responsável": "VITOR AMORIM RAMOS ",
     "Quantidade de Cana": "BOM",
     "Observações": null,
-    "Fazenda": null,
-    "Observações ": null,
-    "Unnamed: 19": null
+    "Fazenda": null
   },
   {
     "ID": "3613578",
@@ -11201,9 +10229,7 @@ window.QUALIDADE_CANA_DATA = [
     "Responsável": "MARCELO DE OLIVEIRA JUNIOR",
     "Quantidade de Cana": "BOM",
     "Observações": null,
-    "Fazenda": null,
-    "Observações ": null,
-    "Unnamed: 19": null
+    "Fazenda": null
   },
   {
     "ID": "3613574",
@@ -11224,9 +10250,7 @@ window.QUALIDADE_CANA_DATA = [
     "Responsável": "MARCELO DE OLIVEIRA JUNIOR",
     "Quantidade de Cana": "BOM",
     "Observações": null,
-    "Fazenda": null,
-    "Observações ": null,
-    "Unnamed: 19": null
+    "Fazenda": null
   },
   {
     "ID": "3611565",
@@ -11247,9 +10271,7 @@ window.QUALIDADE_CANA_DATA = [
     "Responsável": "NILDA CLAUDINO [2510716]",
     "Quantidade de Cana": "BOM",
     "Observações": null,
-    "Fazenda": null,
-    "Observações ": null,
-    "Unnamed: 19": null
+    "Fazenda": null
   },
   {
     "ID": "3612764",
@@ -11270,9 +10292,7 @@ window.QUALIDADE_CANA_DATA = [
     "Responsável": "VITOR AMORIM RAMOS ",
     "Quantidade de Cana": "BOM",
     "Observações": null,
-    "Fazenda": null,
-    "Observações ": null,
-    "Unnamed: 19": null
+    "Fazenda": null
   },
   {
     "ID": "3613568",
@@ -11293,9 +10313,7 @@ window.QUALIDADE_CANA_DATA = [
     "Responsável": "MARCELO DE OLIVEIRA JUNIOR",
     "Quantidade de Cana": "BOM",
     "Observações": null,
-    "Fazenda": null,
-    "Observações ": null,
-    "Unnamed: 19": null
+    "Fazenda": null
   },
   {
     "ID": "3612759",
@@ -11316,9 +10334,7 @@ window.QUALIDADE_CANA_DATA = [
     "Responsável": "VITOR AMORIM RAMOS ",
     "Quantidade de Cana": "BOM",
     "Observações": null,
-    "Fazenda": null,
-    "Observações ": null,
-    "Unnamed: 19": null
+    "Fazenda": null
   },
   {
     "ID": "3613563",
@@ -11339,9 +10355,7 @@ window.QUALIDADE_CANA_DATA = [
     "Responsável": "MARCELO DE OLIVEIRA JUNIOR",
     "Quantidade de Cana": "BOM",
     "Observações": null,
-    "Fazenda": null,
-    "Observações ": null,
-    "Unnamed: 19": null
+    "Fazenda": null
   },
   {
     "ID": "3610966",
@@ -11362,9 +10376,7 @@ window.QUALIDADE_CANA_DATA = [
     "Responsável": "VITOR AMORIM RAMOS ",
     "Quantidade de Cana": "BOM",
     "Observações": null,
-    "Fazenda": null,
-    "Observações ": null,
-    "Unnamed: 19": null
+    "Fazenda": null
   },
   {
     "ID": "3610959",
@@ -11385,9 +10397,7 @@ window.QUALIDADE_CANA_DATA = [
     "Responsável": "VITOR AMORIM RAMOS ",
     "Quantidade de Cana": "BOM",
     "Observações": null,
-    "Fazenda": null,
-    "Observações ": null,
-    "Unnamed: 19": null
+    "Fazenda": null
   },
   {
     "ID": "3610958",
@@ -11408,9 +10418,7 @@ window.QUALIDADE_CANA_DATA = [
     "Responsável": "VITOR AMORIM RAMOS ",
     "Quantidade de Cana": "BOM",
     "Observações": null,
-    "Fazenda": null,
-    "Observações ": null,
-    "Unnamed: 19": null
+    "Fazenda": null
   },
   {
     "ID": "3610957",
@@ -11431,9 +10439,7 @@ window.QUALIDADE_CANA_DATA = [
     "Responsável": "VITOR AMORIM RAMOS ",
     "Quantidade de Cana": "BOM",
     "Observações": null,
-    "Fazenda": null,
-    "Observações ": null,
-    "Unnamed: 19": null
+    "Fazenda": null
   },
   {
     "ID": "3610943",
@@ -11454,9 +10460,7 @@ window.QUALIDADE_CANA_DATA = [
     "Responsável": "VITOR AMORIM RAMOS ",
     "Quantidade de Cana": "BOM",
     "Observações": null,
-    "Fazenda": null,
-    "Observações ": null,
-    "Unnamed: 19": null
+    "Fazenda": null
   },
   {
     "ID": "3611200",
@@ -11477,9 +10481,7 @@ window.QUALIDADE_CANA_DATA = [
     "Responsável": "REGINALDO DA SILVA GOMES ",
     "Quantidade de Cana": "BOM",
     "Observações": null,
-    "Fazenda": null,
-    "Observações ": null,
-    "Unnamed: 19": null
+    "Fazenda": null
   },
   {
     "ID": "3611551",
@@ -11500,9 +10502,7 @@ window.QUALIDADE_CANA_DATA = [
     "Responsável": "NILDA CLAUDINO [2510716]",
     "Quantidade de Cana": "BOM",
     "Observações": null,
-    "Fazenda": null,
-    "Observações ": null,
-    "Unnamed: 19": null
+    "Fazenda": null
   },
   {
     "ID": "3611195",
@@ -11523,9 +10523,7 @@ window.QUALIDADE_CANA_DATA = [
     "Responsável": "REGINALDO DA SILVA GOMES ",
     "Quantidade de Cana": "BOM",
     "Observações": null,
-    "Fazenda": null,
-    "Observações ": null,
-    "Unnamed: 19": null
+    "Fazenda": null
   },
   {
     "ID": "3611190",
@@ -11546,9 +10544,7 @@ window.QUALIDADE_CANA_DATA = [
     "Responsável": "REGINALDO DA SILVA GOMES ",
     "Quantidade de Cana": "BOM",
     "Observações": null,
-    "Fazenda": null,
-    "Observações ": null,
-    "Unnamed: 19": null
+    "Fazenda": null
   },
   {
     "ID": "3611780",
@@ -11569,9 +10565,7 @@ window.QUALIDADE_CANA_DATA = [
     "Responsável": "GABRIEL HENRIQUE MARTINS PEREIRA",
     "Quantidade de Cana": "BOM",
     "Observações": null,
-    "Fazenda": null,
-    "Observações ": null,
-    "Unnamed: 19": null
+    "Fazenda": null
   },
   {
     "ID": "3613554",
@@ -11592,9 +10586,7 @@ window.QUALIDADE_CANA_DATA = [
     "Responsável": "MARCELO DE OLIVEIRA JUNIOR",
     "Quantidade de Cana": "BOM",
     "Observações": null,
-    "Fazenda": null,
-    "Observações ": null,
-    "Unnamed: 19": null
+    "Fazenda": null
   },
   {
     "ID": "3611772",
@@ -11615,9 +10607,7 @@ window.QUALIDADE_CANA_DATA = [
     "Responsável": "GABRIEL HENRIQUE MARTINS PEREIRA",
     "Quantidade de Cana": "BOM",
     "Observações": null,
-    "Fazenda": null,
-    "Observações ": null,
-    "Unnamed: 19": null
+    "Fazenda": null
   },
   {
     "ID": "3611763",
@@ -11638,9 +10628,7 @@ window.QUALIDADE_CANA_DATA = [
     "Responsável": "GABRIEL HENRIQUE MARTINS PEREIRA",
     "Quantidade de Cana": "BOM",
     "Observações": null,
-    "Fazenda": null,
-    "Observações ": null,
-    "Unnamed: 19": null
+    "Fazenda": null
   },
   {
     "ID": "3613549",
@@ -11661,9 +10649,7 @@ window.QUALIDADE_CANA_DATA = [
     "Responsável": "MARCELO DE OLIVEIRA JUNIOR",
     "Quantidade de Cana": "BOM",
     "Observações": null,
-    "Fazenda": null,
-    "Observações ": null,
-    "Unnamed: 19": null
+    "Fazenda": null
   },
   {
     "ID": "3611756",
@@ -11684,9 +10670,7 @@ window.QUALIDADE_CANA_DATA = [
     "Responsável": "GABRIEL HENRIQUE MARTINS PEREIRA",
     "Quantidade de Cana": "BOM",
     "Observações": null,
-    "Fazenda": null,
-    "Observações ": null,
-    "Unnamed: 19": null
+    "Fazenda": null
   },
   {
     "ID": "3613544",
@@ -11707,9 +10691,7 @@ window.QUALIDADE_CANA_DATA = [
     "Responsável": "MARCELO DE OLIVEIRA JUNIOR",
     "Quantidade de Cana": "BOM",
     "Observações": null,
-    "Fazenda": null,
-    "Observações ": null,
-    "Unnamed: 19": null
+    "Fazenda": null
   },
   {
     "ID": "3611744",
@@ -11730,9 +10712,7 @@ window.QUALIDADE_CANA_DATA = [
     "Responsável": "GABRIEL HENRIQUE MARTINS PEREIRA",
     "Quantidade de Cana": "BOM",
     "Observações": null,
-    "Fazenda": null,
-    "Observações ": null,
-    "Unnamed: 19": null
+    "Fazenda": null
   },
   {
     "ID": "3611732",
@@ -11753,9 +10733,7 @@ window.QUALIDADE_CANA_DATA = [
     "Responsável": "GABRIEL HENRIQUE MARTINS PEREIRA",
     "Quantidade de Cana": "BOM",
     "Observações": null,
-    "Fazenda": null,
-    "Observações ": null,
-    "Unnamed: 19": null
+    "Fazenda": null
   },
   {
     "ID": "3611726",
@@ -11776,9 +10754,7 @@ window.QUALIDADE_CANA_DATA = [
     "Responsável": "GABRIEL HENRIQUE MARTINS PEREIRA",
     "Quantidade de Cana": "BOM",
     "Observações": null,
-    "Fazenda": null,
-    "Observações ": null,
-    "Unnamed: 19": null
+    "Fazenda": null
   },
   {
     "ID": "3607901",
@@ -11799,9 +10775,7 @@ window.QUALIDADE_CANA_DATA = [
     "Responsável": "FERNANDA DE SOUZA ",
     "Quantidade de Cana": "BOM",
     "Observações": null,
-    "Fazenda": null,
-    "Observações ": null,
-    "Unnamed: 19": null
+    "Fazenda": null
   },
   {
     "ID": "3609567",
@@ -11822,9 +10796,7 @@ window.QUALIDADE_CANA_DATA = [
     "Responsável": "MICHELI DE SOUZA SANTOS  ",
     "Quantidade de Cana": "BOM",
     "Observações": null,
-    "Fazenda": null,
-    "Observações ": null,
-    "Unnamed: 19": null
+    "Fazenda": null
   },
   {
     "ID": "3607895",
@@ -11845,9 +10817,7 @@ window.QUALIDADE_CANA_DATA = [
     "Responsável": "FERNANDA DE SOUZA ",
     "Quantidade de Cana": "BOM",
     "Observações": null,
-    "Fazenda": null,
-    "Observações ": null,
-    "Unnamed: 19": null
+    "Fazenda": null
   },
   {
     "ID": "3608558",
@@ -11868,9 +10838,7 @@ window.QUALIDADE_CANA_DATA = [
     "Responsável": "VITOR AMORIM RAMOS ",
     "Quantidade de Cana": "BOM",
     "Observações": null,
-    "Fazenda": null,
-    "Observações ": null,
-    "Unnamed: 19": null
+    "Fazenda": null
   },
   {
     "ID": "3609562",
@@ -11891,9 +10859,7 @@ window.QUALIDADE_CANA_DATA = [
     "Responsável": "MICHELI DE SOUZA SANTOS  ",
     "Quantidade de Cana": "BOM",
     "Observações": null,
-    "Fazenda": null,
-    "Observações ": null,
-    "Unnamed: 19": null
+    "Fazenda": null
   },
   {
     "ID": "3608553",
@@ -11914,9 +10880,7 @@ window.QUALIDADE_CANA_DATA = [
     "Responsável": "VITOR AMORIM RAMOS ",
     "Quantidade de Cana": "BOM",
     "Observações": null,
-    "Fazenda": null,
-    "Observações ": null,
-    "Unnamed: 19": null
+    "Fazenda": null
   },
   {
     "ID": "3609555",
@@ -11937,9 +10901,7 @@ window.QUALIDADE_CANA_DATA = [
     "Responsável": "MICHELI DE SOUZA SANTOS  ",
     "Quantidade de Cana": "BOM",
     "Observações": null,
-    "Fazenda": null,
-    "Observações ": null,
-    "Unnamed: 19": null
+    "Fazenda": null
   },
   {
     "ID": "3608548",
@@ -11960,9 +10922,7 @@ window.QUALIDADE_CANA_DATA = [
     "Responsável": "VITOR AMORIM RAMOS ",
     "Quantidade de Cana": "BOM",
     "Observações": null,
-    "Fazenda": null,
-    "Observações ": null,
-    "Unnamed: 19": null
+    "Fazenda": null
   },
   {
     "ID": "3608710",
@@ -11983,9 +10943,7 @@ window.QUALIDADE_CANA_DATA = [
     "Responsável": "MABILA HELEN D FIGUEIREDO",
     "Quantidade de Cana": "BOM",
     "Observações": null,
-    "Fazenda": null,
-    "Observações ": null,
-    "Unnamed: 19": null
+    "Fazenda": null
   },
   {
     "ID": "3607613",
@@ -12006,9 +10964,7 @@ window.QUALIDADE_CANA_DATA = [
     "Responsável": "FERNANDA DE SOUZA ",
     "Quantidade de Cana": "BOM",
     "Observações": null,
-    "Fazenda": null,
-    "Observações ": null,
-    "Unnamed: 19": null
+    "Fazenda": null
   },
   {
     "ID": "3607519",
@@ -12029,9 +10985,7 @@ window.QUALIDADE_CANA_DATA = [
     "Responsável": "FERNANDA DE SOUZA ",
     "Quantidade de Cana": "BOM",
     "Observações": null,
-    "Fazenda": null,
-    "Observações ": null,
-    "Unnamed: 19": null
+    "Fazenda": null
   },
   {
     "ID": "3607602",
@@ -12052,9 +11006,7 @@ window.QUALIDADE_CANA_DATA = [
     "Responsável": "VITOR AMORIM RAMOS ",
     "Quantidade de Cana": "BOM",
     "Observações": null,
-    "Fazenda": null,
-    "Observações ": null,
-    "Unnamed: 19": null
+    "Fazenda": null
   },
   {
     "ID": "3607506",
@@ -12075,9 +11027,7 @@ window.QUALIDADE_CANA_DATA = [
     "Responsável": "MABILA HELEN D FIGUEIREDO",
     "Quantidade de Cana": "BOM",
     "Observações": null,
-    "Fazenda": null,
-    "Observações ": null,
-    "Unnamed: 19": null
+    "Fazenda": null
   },
   {
     "ID": "3608311",
@@ -12098,9 +11048,7 @@ window.QUALIDADE_CANA_DATA = [
     "Responsável": "GABRIEL HENRIQUE MARTINS PEREIRA",
     "Quantidade de Cana": "BOM",
     "Observações": null,
-    "Fazenda": null,
-    "Observações ": null,
-    "Unnamed: 19": null
+    "Fazenda": null
   },
   {
     "ID": "3607597",
@@ -12121,9 +11069,7 @@ window.QUALIDADE_CANA_DATA = [
     "Responsável": "VITOR AMORIM RAMOS ",
     "Quantidade de Cana": "BOM",
     "Observações": null,
-    "Fazenda": null,
-    "Observações ": null,
-    "Unnamed: 19": null
+    "Fazenda": null
   },
   {
     "ID": "3609535",
@@ -12144,9 +11090,7 @@ window.QUALIDADE_CANA_DATA = [
     "Responsável": "MICHELI DE SOUZA SANTOS  ",
     "Quantidade de Cana": "BOM",
     "Observações": null,
-    "Fazenda": null,
-    "Observações ": null,
-    "Unnamed: 19": null
+    "Fazenda": null
   },
   {
     "ID": "3608306",
@@ -12167,9 +11111,7 @@ window.QUALIDADE_CANA_DATA = [
     "Responsável": "GABRIEL HENRIQUE MARTINS PEREIRA",
     "Quantidade de Cana": "BOM",
     "Observações": null,
-    "Fazenda": null,
-    "Observações ": null,
-    "Unnamed: 19": null
+    "Fazenda": null
   },
   {
     "ID": "3607592",
@@ -12190,9 +11132,7 @@ window.QUALIDADE_CANA_DATA = [
     "Responsável": "VITOR AMORIM RAMOS ",
     "Quantidade de Cana": "BOM",
     "Observações": null,
-    "Fazenda": null,
-    "Observações ": null,
-    "Unnamed: 19": null
+    "Fazenda": null
   },
   {
     "ID": "3609530",
@@ -12213,9 +11153,7 @@ window.QUALIDADE_CANA_DATA = [
     "Responsável": "MICHELI DE SOUZA SANTOS  ",
     "Quantidade de Cana": "BOM",
     "Observações": null,
-    "Fazenda": null,
-    "Observações ": null,
-    "Unnamed: 19": null
+    "Fazenda": null
   },
   {
     "ID": "3609524",
@@ -12236,9 +11174,7 @@ window.QUALIDADE_CANA_DATA = [
     "Responsável": "MICHELI DE SOUZA SANTOS  ",
     "Quantidade de Cana": "BOM",
     "Observações": null,
-    "Fazenda": null,
-    "Observações ": null,
-    "Unnamed: 19": null
+    "Fazenda": null
   },
   {
     "ID": "3607585",
@@ -12259,9 +11195,7 @@ window.QUALIDADE_CANA_DATA = [
     "Responsável": "VITOR AMORIM RAMOS ",
     "Quantidade de Cana": "BOM",
     "Observações": null,
-    "Fazenda": null,
-    "Observações ": null,
-    "Unnamed: 19": null
+    "Fazenda": null
   },
   {
     "ID": "3609519",
@@ -12282,9 +11216,7 @@ window.QUALIDADE_CANA_DATA = [
     "Responsável": "MICHELI DE SOUZA SANTOS  ",
     "Quantidade de Cana": "BOM",
     "Observações": null,
-    "Fazenda": null,
-    "Observações ": null,
-    "Unnamed: 19": null
+    "Fazenda": null
   },
   {
     "ID": "3609638",
@@ -12305,9 +11237,7 @@ window.QUALIDADE_CANA_DATA = [
     "Responsável": "MARCELO DE OLIVEIRA JUNIOR",
     "Quantidade de Cana": "BOM",
     "Observações": null,
-    "Fazenda": null,
-    "Observações ": null,
-    "Unnamed: 19": null
+    "Fazenda": null
   },
   {
     "ID": "3607577",
@@ -12328,9 +11258,7 @@ window.QUALIDADE_CANA_DATA = [
     "Responsável": "VITOR AMORIM RAMOS ",
     "Quantidade de Cana": "BOM",
     "Observações": null,
-    "Fazenda": null,
-    "Observações ": null,
-    "Unnamed: 19": null
+    "Fazenda": null
   },
   {
     "ID": "3609514",
@@ -12351,9 +11279,7 @@ window.QUALIDADE_CANA_DATA = [
     "Responsável": "MICHELI DE SOUZA SANTOS  ",
     "Quantidade de Cana": "BOM",
     "Observações": null,
-    "Fazenda": null,
-    "Observações ": null,
-    "Unnamed: 19": null
+    "Fazenda": null
   },
   {
     "ID": "3608298",
@@ -12374,9 +11300,7 @@ window.QUALIDADE_CANA_DATA = [
     "Responsável": "GABRIEL HENRIQUE MARTINS PEREIRA",
     "Quantidade de Cana": "BOM",
     "Observações": null,
-    "Fazenda": null,
-    "Observações ": null,
-    "Unnamed: 19": null
+    "Fazenda": null
   },
   {
     "ID": "3609633",
@@ -12397,9 +11321,7 @@ window.QUALIDADE_CANA_DATA = [
     "Responsável": "MARCELO DE OLIVEIRA JUNIOR",
     "Quantidade de Cana": "BOM",
     "Observações": null,
-    "Fazenda": null,
-    "Observações ": null,
-    "Unnamed: 19": null
+    "Fazenda": null
   },
   {
     "ID": "3609509",
@@ -12420,9 +11342,7 @@ window.QUALIDADE_CANA_DATA = [
     "Responsável": "MICHELI DE SOUZA SANTOS  ",
     "Quantidade de Cana": "BOM",
     "Observações": null,
-    "Fazenda": null,
-    "Observações ": null,
-    "Unnamed: 19": null
+    "Fazenda": null
   },
   {
     "ID": "3607572",
@@ -12443,9 +11363,7 @@ window.QUALIDADE_CANA_DATA = [
     "Responsável": "VITOR AMORIM RAMOS ",
     "Quantidade de Cana": "BOM",
     "Observações": null,
-    "Fazenda": null,
-    "Observações ": null,
-    "Unnamed: 19": null
+    "Fazenda": null
   },
   {
     "ID": "3608293",
@@ -12466,9 +11384,7 @@ window.QUALIDADE_CANA_DATA = [
     "Responsável": "GABRIEL HENRIQUE MARTINS PEREIRA",
     "Quantidade de Cana": "BOM",
     "Observações": null,
-    "Fazenda": null,
-    "Observações ": null,
-    "Unnamed: 19": null
+    "Fazenda": null
   },
   {
     "ID": "3609504",
@@ -12489,9 +11405,7 @@ window.QUALIDADE_CANA_DATA = [
     "Responsável": "MICHELI DE SOUZA SANTOS  ",
     "Quantidade de Cana": "BOM",
     "Observações": null,
-    "Fazenda": null,
-    "Observações ": null,
-    "Unnamed: 19": null
+    "Fazenda": null
   },
   {
     "ID": "3609628",
@@ -12512,9 +11426,7 @@ window.QUALIDADE_CANA_DATA = [
     "Responsável": "MARCELO DE OLIVEIRA JUNIOR",
     "Quantidade de Cana": "BOM",
     "Observações": null,
-    "Fazenda": null,
-    "Observações ": null,
-    "Unnamed: 19": null
+    "Fazenda": null
   },
   {
     "ID": "3607567",
@@ -12535,9 +11447,7 @@ window.QUALIDADE_CANA_DATA = [
     "Responsável": "VITOR AMORIM RAMOS ",
     "Quantidade de Cana": "BOM",
     "Observações": null,
-    "Fazenda": null,
-    "Observações ": null,
-    "Unnamed: 19": null
+    "Fazenda": null
   },
   {
     "ID": "3607444",
@@ -12558,9 +11468,7 @@ window.QUALIDADE_CANA_DATA = [
     "Responsável": "FERNANDA DE SOUZA ",
     "Quantidade de Cana": "BOM",
     "Observações": null,
-    "Fazenda": null,
-    "Observações ": null,
-    "Unnamed: 19": null
+    "Fazenda": null
   },
   {
     "ID": "3609627",
@@ -12581,9 +11489,7 @@ window.QUALIDADE_CANA_DATA = [
     "Responsável": "MARCELO DE OLIVEIRA JUNIOR",
     "Quantidade de Cana": "BOM",
     "Observações": null,
-    "Fazenda": null,
-    "Observações ": null,
-    "Unnamed: 19": null
+    "Fazenda": null
   },
   {
     "ID": "3609499",
@@ -12604,9 +11510,7 @@ window.QUALIDADE_CANA_DATA = [
     "Responsável": "MICHELI DE SOUZA SANTOS  ",
     "Quantidade de Cana": "BOM",
     "Observações": null,
-    "Fazenda": null,
-    "Observações ": null,
-    "Unnamed: 19": null
+    "Fazenda": null
   },
   {
     "ID": "3608288",
@@ -12627,9 +11531,7 @@ window.QUALIDADE_CANA_DATA = [
     "Responsável": "GABRIEL HENRIQUE MARTINS PEREIRA",
     "Quantidade de Cana": "BOM",
     "Observações": null,
-    "Fazenda": null,
-    "Observações ": null,
-    "Unnamed: 19": null
+    "Fazenda": null
   },
   {
     "ID": "3607562",
@@ -12650,9 +11552,7 @@ window.QUALIDADE_CANA_DATA = [
     "Responsável": "VITOR AMORIM RAMOS ",
     "Quantidade de Cana": "BOM",
     "Observações": null,
-    "Fazenda": null,
-    "Observações ": null,
-    "Unnamed: 19": null
+    "Fazenda": null
   },
   {
     "ID": "3609494",
@@ -12673,9 +11573,7 @@ window.QUALIDADE_CANA_DATA = [
     "Responsável": "MICHELI DE SOUZA SANTOS  ",
     "Quantidade de Cana": "BOM",
     "Observações": null,
-    "Fazenda": null,
-    "Observações ": null,
-    "Unnamed: 19": null
+    "Fazenda": null
   },
   {
     "ID": "3607557",
@@ -12696,9 +11594,7 @@ window.QUALIDADE_CANA_DATA = [
     "Responsável": "VITOR AMORIM RAMOS ",
     "Quantidade de Cana": "BOM",
     "Observações": null,
-    "Fazenda": null,
-    "Observações ": null,
-    "Unnamed: 19": null
+    "Fazenda": null
   },
   {
     "ID": "3608282",
@@ -12719,9 +11615,7 @@ window.QUALIDADE_CANA_DATA = [
     "Responsável": "GABRIEL HENRIQUE MARTINS PEREIRA",
     "Quantidade de Cana": "BOM",
     "Observações": null,
-    "Fazenda": null,
-    "Observações ": null,
-    "Unnamed: 19": null
+    "Fazenda": null
   },
   {
     "ID": "3607877",
@@ -12742,9 +11636,7 @@ window.QUALIDADE_CANA_DATA = [
     "Responsável": "MICHELI DE SOUZA SANTOS  ",
     "Quantidade de Cana": "BOM",
     "Observações": null,
-    "Fazenda": null,
-    "Observações ": null,
-    "Unnamed: 19": null
+    "Fazenda": null
   },
   {
     "ID": "3607552",
@@ -12765,9 +11657,7 @@ window.QUALIDADE_CANA_DATA = [
     "Responsável": "VITOR AMORIM RAMOS ",
     "Quantidade de Cana": "BOM",
     "Observações": null,
-    "Fazenda": null,
-    "Observações ": null,
-    "Unnamed: 19": null
+    "Fazenda": null
   },
   {
     "ID": "3608277",
@@ -12788,9 +11678,7 @@ window.QUALIDADE_CANA_DATA = [
     "Responsável": "GABRIEL HENRIQUE MARTINS PEREIRA",
     "Quantidade de Cana": "BOM",
     "Observações": null,
-    "Fazenda": null,
-    "Observações ": null,
-    "Unnamed: 19": null
+    "Fazenda": null
   },
   {
     "ID": "3607428",
@@ -12811,9 +11699,7 @@ window.QUALIDADE_CANA_DATA = [
     "Responsável": "FERNANDA DE SOUZA ",
     "Quantidade de Cana": "BOM",
     "Observações": null,
-    "Fazenda": null,
-    "Observações ": null,
-    "Unnamed: 19": null
+    "Fazenda": null
   },
   {
     "ID": "3607547",
@@ -12834,9 +11720,7 @@ window.QUALIDADE_CANA_DATA = [
     "Responsável": "VITOR AMORIM RAMOS ",
     "Quantidade de Cana": "BOM",
     "Observações": null,
-    "Fazenda": null,
-    "Observações ": null,
-    "Unnamed: 19": null
+    "Fazenda": null
   },
   {
     "ID": "3607498",
@@ -12857,9 +11741,7 @@ window.QUALIDADE_CANA_DATA = [
     "Responsável": "MABILA HELEN D FIGUEIREDO",
     "Quantidade de Cana": "BOM",
     "Observações": null,
-    "Fazenda": null,
-    "Observações ": null,
-    "Unnamed: 19": null
+    "Fazenda": null
   },
   {
     "ID": "3608244",
@@ -12880,9 +11762,7 @@ window.QUALIDADE_CANA_DATA = [
     "Responsável": "NILDA CLAUDINO [2510716]",
     "Quantidade de Cana": "BOM",
     "Observações": null,
-    "Fazenda": null,
-    "Observações ": null,
-    "Unnamed: 19": null
+    "Fazenda": null
   },
   {
     "ID": "3607494",
@@ -12903,9 +11783,7 @@ window.QUALIDADE_CANA_DATA = [
     "Responsável": "MABILA HELEN D FIGUEIREDO",
     "Quantidade de Cana": "BOM",
     "Observações": null,
-    "Fazenda": null,
-    "Observações ": null,
-    "Unnamed: 19": null
+    "Fazenda": null
   },
   {
     "ID": "3609620",
@@ -12926,9 +11804,7 @@ window.QUALIDADE_CANA_DATA = [
     "Responsável": "MARCELO DE OLIVEIRA JUNIOR",
     "Quantidade de Cana": "BOM",
     "Observações": null,
-    "Fazenda": null,
-    "Observações ": null,
-    "Unnamed: 19": null
+    "Fazenda": null
   },
   {
     "ID": "3609615",
@@ -12949,9 +11825,7 @@ window.QUALIDADE_CANA_DATA = [
     "Responsável": "MARCELO DE OLIVEIRA JUNIOR",
     "Quantidade de Cana": "BOM",
     "Observações": null,
-    "Fazenda": null,
-    "Observações ": null,
-    "Unnamed: 19": null
+    "Fazenda": null
   },
   {
     "ID": "3608230",
@@ -12972,9 +11846,7 @@ window.QUALIDADE_CANA_DATA = [
     "Responsável": "NILDA CLAUDINO [2510716]",
     "Quantidade de Cana": "BOM",
     "Observações": null,
-    "Fazenda": null,
-    "Observações ": null,
-    "Unnamed: 19": null
+    "Fazenda": null
   },
   {
     "ID": "3605439",
@@ -12995,9 +11867,7 @@ window.QUALIDADE_CANA_DATA = [
     "Responsável": " Antonio ",
     "Quantidade de Cana": "BOM",
     "Observações": null,
-    "Fazenda": null,
-    "Observações ": null,
-    "Unnamed: 19": null
+    "Fazenda": null
   },
   {
     "ID": "3604931",
@@ -13018,9 +11888,7 @@ window.QUALIDADE_CANA_DATA = [
     "Responsável": "REGINALDO DA SILVA GOMES ",
     "Quantidade de Cana": "BOM",
     "Observações": null,
-    "Fazenda": null,
-    "Observações ": null,
-    "Unnamed: 19": null
+    "Fazenda": null
   },
   {
     "ID": "3604924",
@@ -13041,9 +11909,7 @@ window.QUALIDADE_CANA_DATA = [
     "Responsável": "REGINALDO DA SILVA GOMES ",
     "Quantidade de Cana": "BOM",
     "Observações": null,
-    "Fazenda": null,
-    "Observações ": null,
-    "Unnamed: 19": null
+    "Fazenda": null
   },
   {
     "ID": "3604920",
@@ -13064,9 +11930,7 @@ window.QUALIDADE_CANA_DATA = [
     "Responsável": "REGINALDO DA SILVA GOMES ",
     "Quantidade de Cana": "BOM",
     "Observações": null,
-    "Fazenda": null,
-    "Observações ": null,
-    "Unnamed: 19": null
+    "Fazenda": null
   },
   {
     "ID": "3605018",
@@ -13087,9 +11951,7 @@ window.QUALIDADE_CANA_DATA = [
     "Responsável": "FERNANDA DE SOUZA ",
     "Quantidade de Cana": "BOM",
     "Observações": null,
-    "Fazenda": null,
-    "Observações ": null,
-    "Unnamed: 19": null
+    "Fazenda": null
   },
   {
     "ID": "3605013",
@@ -13110,9 +11972,7 @@ window.QUALIDADE_CANA_DATA = [
     "Responsável": "FERNANDA DE SOUZA ",
     "Quantidade de Cana": "BOM",
     "Observações": null,
-    "Fazenda": null,
-    "Observações ": null,
-    "Unnamed: 19": null
+    "Fazenda": null
   },
   {
     "ID": "3596423",
@@ -13133,9 +11993,7 @@ window.QUALIDADE_CANA_DATA = [
     "Responsável": "Leonardo Ribeiro Teixeira da Silva",
     "Quantidade de Cana": "BOM",
     "Observações": null,
-    "Fazenda": null,
-    "Observações ": null,
-    "Unnamed: 19": null
+    "Fazenda": null
   },
   {
     "ID": "3594966",
@@ -13156,9 +12014,7 @@ window.QUALIDADE_CANA_DATA = [
     "Responsável": "VITOR AMORIM RAMOS ",
     "Quantidade de Cana": "BOM",
     "Observações": null,
-    "Fazenda": null,
-    "Observações ": null,
-    "Unnamed: 19": null
+    "Fazenda": null
   },
   {
     "ID": "3605170",
@@ -13179,9 +12035,7 @@ window.QUALIDADE_CANA_DATA = [
     "Responsável": "MARCELO DE OLIVEIRA JUNIOR",
     "Quantidade de Cana": "BOM",
     "Observações": null,
-    "Fazenda": null,
-    "Observações ": null,
-    "Unnamed: 19": null
+    "Fazenda": null
   },
   {
     "ID": "3605169",
@@ -13202,9 +12056,7 @@ window.QUALIDADE_CANA_DATA = [
     "Responsável": "MARCELO DE OLIVEIRA JUNIOR",
     "Quantidade de Cana": "BOM",
     "Observações": null,
-    "Fazenda": null,
-    "Observações ": null,
-    "Unnamed: 19": null
+    "Fazenda": null
   },
   {
     "ID": "3605163",
@@ -13225,9 +12077,7 @@ window.QUALIDADE_CANA_DATA = [
     "Responsável": "MARCELO DE OLIVEIRA JUNIOR",
     "Quantidade de Cana": "BOM",
     "Observações": null,
-    "Fazenda": null,
-    "Observações ": null,
-    "Unnamed: 19": null
+    "Fazenda": null
   },
   {
     "ID": "3605158",
@@ -13248,9 +12098,7 @@ window.QUALIDADE_CANA_DATA = [
     "Responsável": "MARCELO DE OLIVEIRA JUNIOR",
     "Quantidade de Cana": "BOM",
     "Observações": null,
-    "Fazenda": null,
-    "Observações ": null,
-    "Unnamed: 19": null
+    "Fazenda": null
   },
   {
     "ID": "3605007",
@@ -13271,9 +12119,7 @@ window.QUALIDADE_CANA_DATA = [
     "Responsável": "FERNANDA DE SOUZA ",
     "Quantidade de Cana": "BOM",
     "Observações": null,
-    "Fazenda": null,
-    "Observações ": null,
-    "Unnamed: 19": null
+    "Fazenda": null
   },
   {
     "ID": "3605153",
@@ -13294,9 +12140,7 @@ window.QUALIDADE_CANA_DATA = [
     "Responsável": "MARCELO DE OLIVEIRA JUNIOR",
     "Quantidade de Cana": "BOM",
     "Observações": null,
-    "Fazenda": null,
-    "Observações ": null,
-    "Unnamed: 19": null
+    "Fazenda": null
   },
   {
     "ID": "3605148",
@@ -13317,9 +12161,7 @@ window.QUALIDADE_CANA_DATA = [
     "Responsável": "MARCELO DE OLIVEIRA JUNIOR",
     "Quantidade de Cana": "BOM",
     "Observações": null,
-    "Fazenda": null,
-    "Observações ": null,
-    "Unnamed: 19": null
+    "Fazenda": null
   },
   {
     "ID": "3607350",
@@ -13340,9 +12182,7 @@ window.QUALIDADE_CANA_DATA = [
     "Responsável": "VITOR AMORIM RAMOS ",
     "Quantidade de Cana": "BOM",
     "Observações": null,
-    "Fazenda": null,
-    "Observações ": null,
-    "Unnamed: 19": null
+    "Fazenda": null
   },
   {
     "ID": "3607345",
@@ -13363,9 +12203,7 @@ window.QUALIDADE_CANA_DATA = [
     "Responsável": "VITOR AMORIM RAMOS ",
     "Quantidade de Cana": "BOM",
     "Observações": null,
-    "Fazenda": null,
-    "Observações ": null,
-    "Unnamed: 19": null
+    "Fazenda": null
   },
   {
     "ID": "3607340",
@@ -13386,9 +12224,7 @@ window.QUALIDADE_CANA_DATA = [
     "Responsável": "VITOR AMORIM RAMOS ",
     "Quantidade de Cana": "BOM",
     "Observações": null,
-    "Fazenda": null,
-    "Observações ": null,
-    "Unnamed: 19": null
+    "Fazenda": null
   },
   {
     "ID": "3590336",
@@ -13409,9 +12245,7 @@ window.QUALIDADE_CANA_DATA = [
     "Responsável": "NILDA CLAUDINO [2510716]",
     "Quantidade de Cana": "BOM",
     "Observações": null,
-    "Fazenda": null,
-    "Observações ": null,
-    "Unnamed: 19": null
+    "Fazenda": null
   },
   {
     "ID": "3604654",
@@ -13432,9 +12266,7 @@ window.QUALIDADE_CANA_DATA = [
     "Responsável": "GABRIEL HENRIQUE MARTINS PEREIRA",
     "Quantidade de Cana": "BOM",
     "Observações": null,
-    "Fazenda": null,
-    "Observações ": null,
-    "Unnamed: 19": null
+    "Fazenda": null
   },
   {
     "ID": "3604161",
@@ -13455,9 +12287,7 @@ window.QUALIDADE_CANA_DATA = [
     "Responsável": "GLEISON FELIPE BORGES DE MATOS",
     "Quantidade de Cana": "BOM",
     "Observações": null,
-    "Fazenda": null,
-    "Observações ": null,
-    "Unnamed: 19": null
+    "Fazenda": null
   },
   {
     "ID": "3604650",
@@ -13478,9 +12308,7 @@ window.QUALIDADE_CANA_DATA = [
     "Responsável": "GABRIEL HENRIQUE MARTINS PEREIRA",
     "Quantidade de Cana": "BOM",
     "Observações": null,
-    "Fazenda": null,
-    "Observações ": null,
-    "Unnamed: 19": null
+    "Fazenda": null
   },
   {
     "ID": "3604157",
@@ -13501,9 +12329,7 @@ window.QUALIDADE_CANA_DATA = [
     "Responsável": "GLEISON FELIPE BORGES DE MATOS",
     "Quantidade de Cana": "BOM",
     "Observações": null,
-    "Fazenda": null,
-    "Observações ": null,
-    "Unnamed: 19": null
+    "Fazenda": null
   },
   {
     "ID": "3604153",
@@ -13524,9 +12350,7 @@ window.QUALIDADE_CANA_DATA = [
     "Responsável": "GLEISON FELIPE BORGES DE MATOS",
     "Quantidade de Cana": "BOM",
     "Observações": null,
-    "Fazenda": null,
-    "Observações ": null,
-    "Unnamed: 19": null
+    "Fazenda": null
   },
   {
     "ID": "3604148",
@@ -13547,9 +12371,7 @@ window.QUALIDADE_CANA_DATA = [
     "Responsável": "GLEISON FELIPE BORGES DE MATOS",
     "Quantidade de Cana": "BOM",
     "Observações": null,
-    "Fazenda": null,
-    "Observações ": null,
-    "Unnamed: 19": null
+    "Fazenda": null
   },
   {
     "ID": "3604914",
@@ -13570,9 +12392,7 @@ window.QUALIDADE_CANA_DATA = [
     "Responsável": "REGINALDO DA SILVA GOMES ",
     "Quantidade de Cana": "BOM",
     "Observações": null,
-    "Fazenda": null,
-    "Observações ": null,
-    "Unnamed: 19": null
+    "Fazenda": null
   },
   {
     "ID": "3604909",
@@ -13593,9 +12413,7 @@ window.QUALIDADE_CANA_DATA = [
     "Responsável": "REGINALDO DA SILVA GOMES ",
     "Quantidade de Cana": "BOM",
     "Observações": null,
-    "Fazenda": null,
-    "Observações ": null,
-    "Unnamed: 19": null
+    "Fazenda": null
   },
   {
     "ID": "3604904",
@@ -13616,9 +12434,7 @@ window.QUALIDADE_CANA_DATA = [
     "Responsável": "REGINALDO DA SILVA GOMES ",
     "Quantidade de Cana": "BOM",
     "Observações": null,
-    "Fazenda": null,
-    "Observações ": null,
-    "Unnamed: 19": null
+    "Fazenda": null
   },
   {
     "ID": "3605001",
@@ -13639,9 +12455,7 @@ window.QUALIDADE_CANA_DATA = [
     "Responsável": "FERNANDA DE SOUZA ",
     "Quantidade de Cana": "BOM",
     "Observações": null,
-    "Fazenda": null,
-    "Observações ": null,
-    "Unnamed: 19": null
+    "Fazenda": null
   },
   {
     "ID": "3604044",
@@ -13662,9 +12476,7 @@ window.QUALIDADE_CANA_DATA = [
     "Responsável": "VITOR AMORIM RAMOS ",
     "Quantidade de Cana": "BOM",
     "Observações": null,
-    "Fazenda": null,
-    "Observações ": null,
-    "Unnamed: 19": null
+    "Fazenda": null
   },
   {
     "ID": "3604043",
@@ -13685,9 +12497,7 @@ window.QUALIDADE_CANA_DATA = [
     "Responsável": "VITOR AMORIM RAMOS ",
     "Quantidade de Cana": "BOM",
     "Observações": null,
-    "Fazenda": null,
-    "Observações ": null,
-    "Unnamed: 19": null
+    "Fazenda": null
   },
   {
     "ID": "3604042",
@@ -13708,9 +12518,7 @@ window.QUALIDADE_CANA_DATA = [
     "Responsável": "VITOR AMORIM RAMOS ",
     "Quantidade de Cana": "BOM",
     "Observações": null,
-    "Fazenda": null,
-    "Observações ": null,
-    "Unnamed: 19": null
+    "Fazenda": null
   },
   {
     "ID": "3604037",
@@ -13731,9 +12539,7 @@ window.QUALIDADE_CANA_DATA = [
     "Responsável": "VITOR AMORIM RAMOS ",
     "Quantidade de Cana": "BOM",
     "Observações": null,
-    "Fazenda": null,
-    "Observações ": null,
-    "Unnamed: 19": null
+    "Fazenda": null
   },
   {
     "ID": "3604993",
@@ -13754,9 +12560,7 @@ window.QUALIDADE_CANA_DATA = [
     "Responsável": "FERNANDA DE SOUZA ",
     "Quantidade de Cana": "BOM",
     "Observações": null,
-    "Fazenda": null,
-    "Observações ": null,
-    "Unnamed: 19": null
+    "Fazenda": null
   },
   {
     "ID": "3604032",
@@ -13777,9 +12581,7 @@ window.QUALIDADE_CANA_DATA = [
     "Responsável": "VITOR AMORIM RAMOS ",
     "Quantidade de Cana": "BOM",
     "Observações": null,
-    "Fazenda": null,
-    "Observações ": null,
-    "Unnamed: 19": null
+    "Fazenda": null
   },
   {
     "ID": "3604027",
@@ -13800,9 +12602,7 @@ window.QUALIDADE_CANA_DATA = [
     "Responsável": "VITOR AMORIM RAMOS ",
     "Quantidade de Cana": "BOM",
     "Observações": null,
-    "Fazenda": null,
-    "Observações ": null,
-    "Unnamed: 19": null
+    "Fazenda": null
   },
   {
     "ID": "3604022",
@@ -13823,9 +12623,7 @@ window.QUALIDADE_CANA_DATA = [
     "Responsável": "VITOR AMORIM RAMOS ",
     "Quantidade de Cana": "BOM",
     "Observações": null,
-    "Fazenda": null,
-    "Observações ": null,
-    "Unnamed: 19": null
+    "Fazenda": null
   },
   {
     "ID": "3604000",
@@ -13846,9 +12644,7 @@ window.QUALIDADE_CANA_DATA = [
     "Responsável": "VITOR AMORIM RAMOS ",
     "Quantidade de Cana": "BOM",
     "Observações": null,
-    "Fazenda": null,
-    "Observações ": null,
-    "Unnamed: 19": null
+    "Fazenda": null
   },
   {
     "ID": "3604988",
@@ -13869,9 +12665,7 @@ window.QUALIDADE_CANA_DATA = [
     "Responsável": "FERNANDA DE SOUZA ",
     "Quantidade de Cana": "BOM",
     "Observações": null,
-    "Fazenda": null,
-    "Observações ": null,
-    "Unnamed: 19": null
+    "Fazenda": null
   },
   {
     "ID": "3603993",
@@ -13892,9 +12686,7 @@ window.QUALIDADE_CANA_DATA = [
     "Responsável": "VITOR AMORIM RAMOS ",
     "Quantidade de Cana": "BOM",
     "Observações": null,
-    "Fazenda": null,
-    "Observações ": null,
-    "Unnamed: 19": null
+    "Fazenda": null
   },
   {
     "ID": "3604199",
@@ -13915,9 +12707,7 @@ window.QUALIDADE_CANA_DATA = [
     "Responsável": "MICHELI DE SOUZA SANTOS  ",
     "Quantidade de Cana": "BOM",
     "Observações": null,
-    "Fazenda": null,
-    "Observações ": null,
-    "Unnamed: 19": null
+    "Fazenda": null
   },
   {
     "ID": "3604901",
@@ -13938,9 +12728,7 @@ window.QUALIDADE_CANA_DATA = [
     "Responsável": "REGINALDO DA SILVA GOMES ",
     "Quantidade de Cana": "BOM",
     "Observações": null,
-    "Fazenda": null,
-    "Observações ": null,
-    "Unnamed: 19": null
+    "Fazenda": null
   },
   {
     "ID": "3604194",
@@ -13961,9 +12749,7 @@ window.QUALIDADE_CANA_DATA = [
     "Responsável": "MICHELI DE SOUZA SANTOS  ",
     "Quantidade de Cana": "BOM",
     "Observações": null,
-    "Fazenda": null,
-    "Observações ": null,
-    "Unnamed: 19": null
+    "Fazenda": null
   },
   {
     "ID": "3605114",
@@ -13984,9 +12770,7 @@ window.QUALIDADE_CANA_DATA = [
     "Responsável": "MARCELO DE OLIVEIRA JUNIOR",
     "Quantidade de Cana": "BOM",
     "Observações": null,
-    "Fazenda": null,
-    "Observações ": null,
-    "Unnamed: 19": null
+    "Fazenda": null
   },
   {
     "ID": "3603918",
@@ -14007,9 +12791,7 @@ window.QUALIDADE_CANA_DATA = [
     "Responsável": "NILDA CLAUDINO [2510716]",
     "Quantidade de Cana": "BOM",
     "Observações": null,
-    "Fazenda": null,
-    "Observações ": null,
-    "Unnamed: 19": null
+    "Fazenda": null
   },
   {
     "ID": "3604189",
@@ -14030,9 +12812,7 @@ window.QUALIDADE_CANA_DATA = [
     "Responsável": "MICHELI DE SOUZA SANTOS  ",
     "Quantidade de Cana": "BOM",
     "Observações": null,
-    "Fazenda": null,
-    "Observações ": null,
-    "Unnamed: 19": null
+    "Fazenda": null
   },
   {
     "ID": "3603988",
@@ -14053,9 +12833,7 @@ window.QUALIDADE_CANA_DATA = [
     "Responsável": "NILDA CLAUDINO [2510716]",
     "Quantidade de Cana": "BOM",
     "Observações": null,
-    "Fazenda": null,
-    "Observações ": null,
-    "Unnamed: 19": null
+    "Fazenda": null
   },
   {
     "ID": "3603979",
@@ -14076,9 +12854,7 @@ window.QUALIDADE_CANA_DATA = [
     "Responsável": "VITOR AMORIM RAMOS ",
     "Quantidade de Cana": "BOM",
     "Observações": null,
-    "Fazenda": null,
-    "Observações ": null,
-    "Unnamed: 19": null
+    "Fazenda": null
   },
   {
     "ID": "3604896",
@@ -14099,9 +12875,7 @@ window.QUALIDADE_CANA_DATA = [
     "Responsável": "REGINALDO DA SILVA GOMES ",
     "Quantidade de Cana": "BOM",
     "Observações": null,
-    "Fazenda": null,
-    "Observações ": null,
-    "Unnamed: 19": null
+    "Fazenda": null
   },
   {
     "ID": "3605112",
@@ -14122,9 +12896,7 @@ window.QUALIDADE_CANA_DATA = [
     "Responsável": "MARCELO DE OLIVEIRA JUNIOR",
     "Quantidade de Cana": "BOM",
     "Observações": null,
-    "Fazenda": null,
-    "Observações ": null,
-    "Unnamed: 19": null
+    "Fazenda": null
   },
   {
     "ID": "3605108",
@@ -14145,9 +12917,7 @@ window.QUALIDADE_CANA_DATA = [
     "Responsável": "MARCELO DE OLIVEIRA JUNIOR",
     "Quantidade de Cana": "BOM",
     "Observações": null,
-    "Fazenda": null,
-    "Observações ": null,
-    "Unnamed: 19": null
+    "Fazenda": null
   },
   {
     "ID": "3604184",
@@ -14168,9 +12938,7 @@ window.QUALIDADE_CANA_DATA = [
     "Responsável": "MICHELI DE SOUZA SANTOS  ",
     "Quantidade de Cana": "BOM",
     "Observações": null,
-    "Fazenda": null,
-    "Observações ": null,
-    "Unnamed: 19": null
+    "Fazenda": null
   },
   {
     "ID": "3603971",
@@ -14191,9 +12959,7 @@ window.QUALIDADE_CANA_DATA = [
     "Responsável": "VITOR AMORIM RAMOS ",
     "Quantidade de Cana": "BOM",
     "Observações": null,
-    "Fazenda": null,
-    "Observações ": null,
-    "Unnamed: 19": null
+    "Fazenda": null
   },
   {
     "ID": "3604891",
@@ -14214,9 +12980,7 @@ window.QUALIDADE_CANA_DATA = [
     "Responsável": "REGINALDO DA SILVA GOMES ",
     "Quantidade de Cana": "BOM",
     "Observações": null,
-    "Fazenda": null,
-    "Observações ": null,
-    "Unnamed: 19": null
+    "Fazenda": null
   },
   {
     "ID": "3604179",
@@ -14237,9 +13001,7 @@ window.QUALIDADE_CANA_DATA = [
     "Responsável": "MICHELI DE SOUZA SANTOS  ",
     "Quantidade de Cana": "BOM",
     "Observações": null,
-    "Fazenda": null,
-    "Observações ": null,
-    "Unnamed: 19": null
+    "Fazenda": null
   },
   {
     "ID": "3604173",
@@ -14260,9 +13022,7 @@ window.QUALIDADE_CANA_DATA = [
     "Responsável": "MICHELI DE SOUZA SANTOS  ",
     "Quantidade de Cana": "BOM",
     "Observações": null,
-    "Fazenda": null,
-    "Observações ": null,
-    "Unnamed: 19": null
+    "Fazenda": null
   },
   {
     "ID": "3604169",
@@ -14283,9 +13043,7 @@ window.QUALIDADE_CANA_DATA = [
     "Responsável": "MICHELI DE SOUZA SANTOS  ",
     "Quantidade de Cana": "BOM",
     "Observações": null,
-    "Fazenda": null,
-    "Observações ": null,
-    "Unnamed: 19": null
+    "Fazenda": null
   },
   {
     "ID": "3602150",
@@ -14306,9 +13064,7 @@ window.QUALIDADE_CANA_DATA = [
     "Responsável": "NILDA CLAUDINO [2510716]",
     "Quantidade de Cana": "BOM",
     "Observações": null,
-    "Fazenda": null,
-    "Observações ": null,
-    "Unnamed: 19": null
+    "Fazenda": null
   },
   {
     "ID": "3602149",
@@ -14329,9 +13085,7 @@ window.QUALIDADE_CANA_DATA = [
     "Responsável": "NILDA CLAUDINO [2510716]",
     "Quantidade de Cana": "BOM",
     "Observações": null,
-    "Fazenda": null,
-    "Observações ": null,
-    "Unnamed: 19": null
+    "Fazenda": null
   },
   {
     "ID": "3602360",
@@ -14352,9 +13106,7 @@ window.QUALIDADE_CANA_DATA = [
     "Responsável": "FERNANDA DE SOUZA ",
     "Quantidade de Cana": "BOM",
     "Observações": null,
-    "Fazenda": null,
-    "Observações ": null,
-    "Unnamed: 19": null
+    "Fazenda": null
   },
   {
     "ID": "3602356",
@@ -14375,9 +13127,7 @@ window.QUALIDADE_CANA_DATA = [
     "Responsável": "FERNANDA DE SOUZA ",
     "Quantidade de Cana": "BOM",
     "Observações": null,
-    "Fazenda": null,
-    "Observações ": null,
-    "Unnamed: 19": null
+    "Fazenda": null
   },
   {
     "ID": "3601800",
@@ -14398,9 +13148,7 @@ window.QUALIDADE_CANA_DATA = [
     "Responsável": "VITOR AMORIM RAMOS ",
     "Quantidade de Cana": "BOM",
     "Observações": null,
-    "Fazenda": null,
-    "Observações ": null,
-    "Unnamed: 19": null
+    "Fazenda": null
   },
   {
     "ID": "3601795",
@@ -14421,9 +13169,7 @@ window.QUALIDADE_CANA_DATA = [
     "Responsável": "VITOR AMORIM RAMOS ",
     "Quantidade de Cana": "BOM",
     "Observações": null,
-    "Fazenda": null,
-    "Observações ": null,
-    "Unnamed: 19": null
+    "Fazenda": null
   },
   {
     "ID": "3602350",
@@ -14444,9 +13190,7 @@ window.QUALIDADE_CANA_DATA = [
     "Responsável": "FERNANDA DE SOUZA ",
     "Quantidade de Cana": "BOM",
     "Observações": null,
-    "Fazenda": null,
-    "Observações ": null,
-    "Unnamed: 19": null
+    "Fazenda": null
   },
   {
     "ID": "3601790",
@@ -14467,9 +13211,7 @@ window.QUALIDADE_CANA_DATA = [
     "Responsável": "VITOR AMORIM RAMOS ",
     "Quantidade de Cana": "BOM",
     "Observações": null,
-    "Fazenda": null,
-    "Observações ": null,
-    "Unnamed: 19": null
+    "Fazenda": null
   },
   {
     "ID": "3601785",
@@ -14490,9 +13232,7 @@ window.QUALIDADE_CANA_DATA = [
     "Responsável": "VITOR AMORIM RAMOS ",
     "Quantidade de Cana": "BOM",
     "Observações": null,
-    "Fazenda": null,
-    "Observações ": null,
-    "Unnamed: 19": null
+    "Fazenda": null
   },
   {
     "ID": "3602499",
@@ -14513,9 +13253,7 @@ window.QUALIDADE_CANA_DATA = [
     "Responsável": "Leonardo Ribeiro Teixeira da Silva",
     "Quantidade de Cana": "BOM",
     "Observações": null,
-    "Fazenda": null,
-    "Observações ": null,
-    "Unnamed: 19": null
+    "Fazenda": null
   },
   {
     "ID": "3601780",
@@ -14536,9 +13274,7 @@ window.QUALIDADE_CANA_DATA = [
     "Responsável": "VITOR AMORIM RAMOS ",
     "Quantidade de Cana": "BOM",
     "Observações": null,
-    "Fazenda": null,
-    "Observações ": null,
-    "Unnamed: 19": null
+    "Fazenda": null
   },
   {
     "ID": "3602212",
@@ -14559,9 +13295,7 @@ window.QUALIDADE_CANA_DATA = [
     "Responsável": "MICHELI DE SOUZA SANTOS  ",
     "Quantidade de Cana": "BOM",
     "Observações": null,
-    "Fazenda": null,
-    "Observações ": null,
-    "Unnamed: 19": null
+    "Fazenda": null
   },
   {
     "ID": "3602493",
@@ -14582,9 +13316,7 @@ window.QUALIDADE_CANA_DATA = [
     "Responsável": "Leonardo Ribeiro Teixeira da Silva",
     "Quantidade de Cana": "BOM",
     "Observações": null,
-    "Fazenda": null,
-    "Observações ": null,
-    "Unnamed: 19": null
+    "Fazenda": null
   },
   {
     "ID": "3602207",
@@ -14605,9 +13337,7 @@ window.QUALIDADE_CANA_DATA = [
     "Responsável": "MICHELI DE SOUZA SANTOS  ",
     "Quantidade de Cana": "BOM",
     "Observações": null,
-    "Fazenda": null,
-    "Observações ": null,
-    "Unnamed: 19": null
+    "Fazenda": null
   },
   {
     "ID": "3602489",
@@ -14628,9 +13358,7 @@ window.QUALIDADE_CANA_DATA = [
     "Responsável": "Leonardo Ribeiro Teixeira da Silva",
     "Quantidade de Cana": "BOM",
     "Observações": null,
-    "Fazenda": null,
-    "Observações ": null,
-    "Unnamed: 19": null
+    "Fazenda": null
   },
   {
     "ID": "3602201",
@@ -14651,9 +13379,7 @@ window.QUALIDADE_CANA_DATA = [
     "Responsável": "MICHELI DE SOUZA SANTOS  ",
     "Quantidade de Cana": "BOM",
     "Observações": null,
-    "Fazenda": null,
-    "Observações ": null,
-    "Unnamed: 19": null
+    "Fazenda": null
   },
   {
     "ID": "3602563",
@@ -14674,9 +13400,7 @@ window.QUALIDADE_CANA_DATA = [
     "Responsável": "REGINALDO DA SILVA GOMES ",
     "Quantidade de Cana": "BOM",
     "Observações": null,
-    "Fazenda": null,
-    "Observações ": null,
-    "Unnamed: 19": null
+    "Fazenda": null
   },
   {
     "ID": "3602196",
@@ -14697,9 +13421,7 @@ window.QUALIDADE_CANA_DATA = [
     "Responsável": "MICHELI DE SOUZA SANTOS  ",
     "Quantidade de Cana": "BOM",
     "Observações": null,
-    "Fazenda": null,
-    "Observações ": null,
-    "Unnamed: 19": null
+    "Fazenda": null
   },
   {
     "ID": "3602191",
@@ -14720,9 +13442,7 @@ window.QUALIDADE_CANA_DATA = [
     "Responsável": "MICHELI DE SOUZA SANTOS  ",
     "Quantidade de Cana": "BOM",
     "Observações": null,
-    "Fazenda": null,
-    "Observações ": null,
-    "Unnamed: 19": null
+    "Fazenda": null
   },
   {
     "ID": "3602559",
@@ -14743,9 +13463,7 @@ window.QUALIDADE_CANA_DATA = [
     "Responsável": "REGINALDO DA SILVA GOMES ",
     "Quantidade de Cana": "BOM",
     "Observações": null,
-    "Fazenda": null,
-    "Observações ": null,
-    "Unnamed: 19": null
+    "Fazenda": null
   },
   {
     "ID": "3602186",
@@ -14766,9 +13484,7 @@ window.QUALIDADE_CANA_DATA = [
     "Responsável": "MICHELI DE SOUZA SANTOS  ",
     "Quantidade de Cana": "BOM",
     "Observações": null,
-    "Fazenda": null,
-    "Observações ": null,
-    "Unnamed: 19": null
+    "Fazenda": null
   },
   {
     "ID": "3602181",
@@ -14789,9 +13505,7 @@ window.QUALIDADE_CANA_DATA = [
     "Responsável": "MICHELI DE SOUZA SANTOS  ",
     "Quantidade de Cana": "BOM",
     "Observações": null,
-    "Fazenda": null,
-    "Observações ": null,
-    "Unnamed: 19": null
+    "Fazenda": null
   },
   {
     "ID": "3602177",
@@ -14812,9 +13526,7 @@ window.QUALIDADE_CANA_DATA = [
     "Responsável": "MICHELI DE SOUZA SANTOS  ",
     "Quantidade de Cana": "BOM",
     "Observações": null,
-    "Fazenda": null,
-    "Observações ": null,
-    "Unnamed: 19": null
+    "Fazenda": null
   },
   {
     "ID": "3602553",
@@ -14835,9 +13547,7 @@ window.QUALIDADE_CANA_DATA = [
     "Responsável": "REGINALDO DA SILVA GOMES ",
     "Quantidade de Cana": "BOM",
     "Observações": null,
-    "Fazenda": null,
-    "Observações ": null,
-    "Unnamed: 19": null
+    "Fazenda": null
   },
   {
     "ID": "3602171",
@@ -14858,9 +13568,7 @@ window.QUALIDADE_CANA_DATA = [
     "Responsável": "MICHELI DE SOUZA SANTOS  ",
     "Quantidade de Cana": "BOM",
     "Observações": null,
-    "Fazenda": null,
-    "Observações ": null,
-    "Unnamed: 19": null
+    "Fazenda": null
   },
   {
     "ID": "3602549",
@@ -14881,9 +13589,7 @@ window.QUALIDADE_CANA_DATA = [
     "Responsável": "REGINALDO DA SILVA GOMES ",
     "Quantidade de Cana": "BOM",
     "Observações": null,
-    "Fazenda": null,
-    "Observações ": null,
-    "Unnamed: 19": null
+    "Fazenda": null
   },
   {
     "ID": "3602164",
@@ -14904,9 +13610,7 @@ window.QUALIDADE_CANA_DATA = [
     "Responsável": "MICHELI DE SOUZA SANTOS  ",
     "Quantidade de Cana": "BOM",
     "Observações": null,
-    "Fazenda": null,
-    "Observações ": null,
-    "Unnamed: 19": null
+    "Fazenda": null
   },
   {
     "ID": "3602544",
@@ -14927,9 +13631,7 @@ window.QUALIDADE_CANA_DATA = [
     "Responsável": "REGINALDO DA SILVA GOMES ",
     "Quantidade de Cana": "BOM",
     "Observações": null,
-    "Fazenda": null,
-    "Observações ": null,
-    "Unnamed: 19": null
+    "Fazenda": null
   },
   {
     "ID": "3602110",
@@ -14950,9 +13652,7 @@ window.QUALIDADE_CANA_DATA = [
     "Responsável": "MICHELI DE SOUZA SANTOS  ",
     "Quantidade de Cana": "BOM",
     "Observações": null,
-    "Fazenda": null,
-    "Observações ": null,
-    "Unnamed: 19": null
+    "Fazenda": null
   },
   {
     "ID": "3601489",
@@ -14973,9 +13673,7 @@ window.QUALIDADE_CANA_DATA = [
     "Responsável": "NILDA CLAUDINO [2510716]",
     "Quantidade de Cana": "BOM",
     "Observações": null,
-    "Fazenda": null,
-    "Observações ": null,
-    "Unnamed: 19": null
+    "Fazenda": null
   },
   {
     "ID": "3601488",
@@ -14996,9 +13694,7 @@ window.QUALIDADE_CANA_DATA = [
     "Responsável": "NILDA CLAUDINO [2510716]",
     "Quantidade de Cana": "BOM",
     "Observações": null,
-    "Fazenda": null,
-    "Observações ": null,
-    "Unnamed: 19": null
+    "Fazenda": null
   },
   {
     "ID": "3602337",
@@ -15019,9 +13715,7 @@ window.QUALIDADE_CANA_DATA = [
     "Responsável": "FERNANDA DE SOUZA ",
     "Quantidade de Cana": "BOM",
     "Observações": null,
-    "Fazenda": null,
-    "Observações ": null,
-    "Unnamed: 19": null
+    "Fazenda": null
   },
   {
     "ID": "3601974",
@@ -15042,9 +13736,7 @@ window.QUALIDADE_CANA_DATA = [
     "Responsável": "MARCELO DE OLIVEIRA JUNIOR",
     "Quantidade de Cana": "BOM",
     "Observações": null,
-    "Fazenda": null,
-    "Observações ": null,
-    "Unnamed: 19": null
+    "Fazenda": null
   },
   {
     "ID": "3602105",
@@ -15065,9 +13757,7 @@ window.QUALIDADE_CANA_DATA = [
     "Responsável": "MICHELI DE SOUZA SANTOS  ",
     "Quantidade de Cana": "BOM",
     "Observações": null,
-    "Fazenda": null,
-    "Observações ": null,
-    "Unnamed: 19": null
+    "Fazenda": null
   },
   {
     "ID": "3601968",
@@ -15088,9 +13778,7 @@ window.QUALIDADE_CANA_DATA = [
     "Responsável": "MARCELO DE OLIVEIRA JUNIOR",
     "Quantidade de Cana": "BOM",
     "Observações": null,
-    "Fazenda": null,
-    "Observações ": null,
-    "Unnamed: 19": null
+    "Fazenda": null
   },
   {
     "ID": "3602330",
@@ -15111,9 +13799,7 @@ window.QUALIDADE_CANA_DATA = [
     "Responsável": "FERNANDA DE SOUZA ",
     "Quantidade de Cana": "BOM",
     "Observações": null,
-    "Fazenda": null,
-    "Observações ": null,
-    "Unnamed: 19": null
+    "Fazenda": null
   },
   {
     "ID": "3602084",
@@ -15134,9 +13820,7 @@ window.QUALIDADE_CANA_DATA = [
     "Responsável": "MARCELO DE OLIVEIRA JUNIOR",
     "Quantidade de Cana": "BOM",
     "Observações": null,
-    "Fazenda": null,
-    "Observações ": null,
-    "Unnamed: 19": null
+    "Fazenda": null
   },
   {
     "ID": "3602319",
@@ -15157,9 +13841,7 @@ window.QUALIDADE_CANA_DATA = [
     "Responsável": "FERNANDA DE SOUZA ",
     "Quantidade de Cana": "BOM",
     "Observações": null,
-    "Fazenda": null,
-    "Observações ": null,
-    "Unnamed: 19": null
+    "Fazenda": null
   },
   {
     "ID": "3601918",
@@ -15180,9 +13862,7 @@ window.QUALIDADE_CANA_DATA = [
     "Responsável": "MARCELO DE OLIVEIRA JUNIOR",
     "Quantidade de Cana": "BOM",
     "Observações": null,
-    "Fazenda": null,
-    "Observações ": null,
-    "Unnamed: 19": null
+    "Fazenda": null
   },
   {
     "ID": "3601810",
@@ -15203,9 +13883,7 @@ window.QUALIDADE_CANA_DATA = [
     "Responsável": "MARCELO DE OLIVEIRA JUNIOR",
     "Quantidade de Cana": "BOM",
     "Observações": null,
-    "Fazenda": null,
-    "Observações ": null,
-    "Unnamed: 19": null
+    "Fazenda": null
   },
   {
     "ID": "3601407",
@@ -15226,9 +13904,7 @@ window.QUALIDADE_CANA_DATA = [
     "Responsável": "VITOR AMORIM RAMOS ",
     "Quantidade de Cana": "BOM",
     "Observações": null,
-    "Fazenda": null,
-    "Observações ": null,
-    "Unnamed: 19": null
+    "Fazenda": null
   },
   {
     "ID": "3601406",
@@ -15249,9 +13925,7 @@ window.QUALIDADE_CANA_DATA = [
     "Responsável": "VITOR AMORIM RAMOS ",
     "Quantidade de Cana": "BOM",
     "Observações": null,
-    "Fazenda": null,
-    "Observações ": null,
-    "Unnamed: 19": null
+    "Fazenda": null
   },
   {
     "ID": "3601401",
@@ -15272,9 +13946,7 @@ window.QUALIDADE_CANA_DATA = [
     "Responsável": "VITOR AMORIM RAMOS ",
     "Quantidade de Cana": "BOM",
     "Observações": null,
-    "Fazenda": null,
-    "Observações ": null,
-    "Unnamed: 19": null
+    "Fazenda": null
   },
   {
     "ID": "3602307",
@@ -15295,9 +13967,7 @@ window.QUALIDADE_CANA_DATA = [
     "Responsável": "FERNANDA DE SOUZA ",
     "Quantidade de Cana": "BOM",
     "Observações": null,
-    "Fazenda": null,
-    "Observações ": null,
-    "Unnamed: 19": null
+    "Fazenda": null
   },
   {
     "ID": "3601396",
@@ -15318,9 +13988,7 @@ window.QUALIDADE_CANA_DATA = [
     "Responsável": "VITOR AMORIM RAMOS ",
     "Quantidade de Cana": "BOM",
     "Observações": null,
-    "Fazenda": null,
-    "Observações ": null,
-    "Unnamed: 19": null
+    "Fazenda": null
   },
   {
     "ID": "3602538",
@@ -15341,9 +14009,7 @@ window.QUALIDADE_CANA_DATA = [
     "Responsável": "REGINALDO DA SILVA GOMES ",
     "Quantidade de Cana": "BOM",
     "Observações": null,
-    "Fazenda": null,
-    "Observações ": null,
-    "Unnamed: 19": null
+    "Fazenda": null
   },
   {
     "ID": "3602481",
@@ -15364,9 +14030,7 @@ window.QUALIDADE_CANA_DATA = [
     "Responsável": "Leonardo Ribeiro Teixeira da Silva",
     "Quantidade de Cana": "BOM",
     "Observações": null,
-    "Fazenda": null,
-    "Observações ": null,
-    "Unnamed: 19": null
+    "Fazenda": null
   },
   {
     "ID": "3601391",
@@ -15387,9 +14051,7 @@ window.QUALIDADE_CANA_DATA = [
     "Responsável": "VITOR AMORIM RAMOS ",
     "Quantidade de Cana": "BOM",
     "Observações": null,
-    "Fazenda": null,
-    "Observações ": null,
-    "Unnamed: 19": null
+    "Fazenda": null
   },
   {
     "ID": "3602533",
@@ -15410,9 +14072,7 @@ window.QUALIDADE_CANA_DATA = [
     "Responsável": "REGINALDO DA SILVA GOMES ",
     "Quantidade de Cana": "BOM",
     "Observações": null,
-    "Fazenda": null,
-    "Observações ": null,
-    "Unnamed: 19": null
+    "Fazenda": null
   },
   {
     "ID": "3601385",
@@ -15433,9 +14093,7 @@ window.QUALIDADE_CANA_DATA = [
     "Responsável": "VITOR AMORIM RAMOS ",
     "Quantidade de Cana": "BOM",
     "Observações": null,
-    "Fazenda": null,
-    "Observações ": null,
-    "Unnamed: 19": null
+    "Fazenda": null
   },
   {
     "ID": "3602475",
@@ -15456,9 +14114,7 @@ window.QUALIDADE_CANA_DATA = [
     "Responsável": "Leonardo Ribeiro Teixeira da Silva",
     "Quantidade de Cana": "BOM",
     "Observações": null,
-    "Fazenda": null,
-    "Observações ": null,
-    "Unnamed: 19": null
+    "Fazenda": null
   },
   {
     "ID": "3602528",
@@ -15479,9 +14135,7 @@ window.QUALIDADE_CANA_DATA = [
     "Responsável": "REGINALDO DA SILVA GOMES ",
     "Quantidade de Cana": "BOM",
     "Observações": null,
-    "Fazenda": null,
-    "Observações ": null,
-    "Unnamed: 19": null
+    "Fazenda": null
   },
   {
     "ID": "3602470",
@@ -15502,9 +14156,7 @@ window.QUALIDADE_CANA_DATA = [
     "Responsável": "Leonardo Ribeiro Teixeira da Silva",
     "Quantidade de Cana": "BOM",
     "Observações": null,
-    "Fazenda": null,
-    "Observações ": null,
-    "Unnamed: 19": null
+    "Fazenda": null
   },
   {
     "ID": "3601380",
@@ -15525,9 +14177,7 @@ window.QUALIDADE_CANA_DATA = [
     "Responsável": "VITOR AMORIM RAMOS ",
     "Quantidade de Cana": "BOM",
     "Observações": null,
-    "Fazenda": null,
-    "Observações ": null,
-    "Unnamed: 19": null
+    "Fazenda": null
   },
   {
     "ID": "3602523",
@@ -15548,9 +14198,7 @@ window.QUALIDADE_CANA_DATA = [
     "Responsável": "REGINALDO DA SILVA GOMES ",
     "Quantidade de Cana": "BOM",
     "Observações": null,
-    "Fazenda": null,
-    "Observações ": null,
-    "Unnamed: 19": null
+    "Fazenda": null
   },
   {
     "ID": "3602465",
@@ -15571,9 +14219,7 @@ window.QUALIDADE_CANA_DATA = [
     "Responsável": "Leonardo Ribeiro Teixeira da Silva",
     "Quantidade de Cana": "BOM",
     "Observações": null,
-    "Fazenda": null,
-    "Observações ": null,
-    "Unnamed: 19": null
+    "Fazenda": null
   },
   {
     "ID": "3602518",
@@ -15594,9 +14240,7 @@ window.QUALIDADE_CANA_DATA = [
     "Responsável": "REGINALDO DA SILVA GOMES ",
     "Quantidade de Cana": "BOM",
     "Observações": null,
-    "Fazenda": null,
-    "Observações ": null,
-    "Unnamed: 19": null
+    "Fazenda": null
   },
   {
     "ID": "3602460",
@@ -15617,9 +14261,7 @@ window.QUALIDADE_CANA_DATA = [
     "Responsável": "Leonardo Ribeiro Teixeira da Silva",
     "Quantidade de Cana": "BOM",
     "Observações": null,
-    "Fazenda": null,
-    "Observações ": null,
-    "Unnamed: 19": null
+    "Fazenda": null
   },
   {
     "ID": "3601480",
@@ -15640,9 +14282,7 @@ window.QUALIDADE_CANA_DATA = [
     "Responsável": "NILDA CLAUDINO [2510716]",
     "Quantidade de Cana": "BOM",
     "Observações": null,
-    "Fazenda": null,
-    "Observações ": null,
-    "Unnamed: 19": null
+    "Fazenda": null
   },
   {
     "ID": "3601479",
@@ -15663,9 +14303,7 @@ window.QUALIDADE_CANA_DATA = [
     "Responsável": "NILDA CLAUDINO [2510716]",
     "Quantidade de Cana": "BOM",
     "Observações": null,
-    "Fazenda": null,
-    "Observações ": null,
-    "Unnamed: 19": null
+    "Fazenda": null
   },
   {
     "ID": "3601374",
@@ -15686,9 +14324,7 @@ window.QUALIDADE_CANA_DATA = [
     "Responsável": "VITOR AMORIM RAMOS ",
     "Quantidade de Cana": "BOM",
     "Observações": null,
-    "Fazenda": null,
-    "Observações ": null,
-    "Unnamed: 19": null
+    "Fazenda": null
   },
   {
     "ID": "3601368",
@@ -15709,9 +14345,7 @@ window.QUALIDADE_CANA_DATA = [
     "Responsável": "VITOR AMORIM RAMOS ",
     "Quantidade de Cana": "BOM",
     "Observações": null,
-    "Fazenda": null,
-    "Observações ": null,
-    "Unnamed: 19": null
+    "Fazenda": null
   },
   {
     "ID": "3601363",
@@ -15732,9 +14366,7 @@ window.QUALIDADE_CANA_DATA = [
     "Responsável": "VITOR AMORIM RAMOS ",
     "Quantidade de Cana": "BOM",
     "Observações": null,
-    "Fazenda": null,
-    "Observações ": null,
-    "Unnamed: 19": null
+    "Fazenda": null
   },
   {
     "ID": "3601354",
@@ -15755,9 +14387,7 @@ window.QUALIDADE_CANA_DATA = [
     "Responsável": "VITOR AMORIM RAMOS ",
     "Quantidade de Cana": "BOM",
     "Observações": null,
-    "Fazenda": null,
-    "Observações ": null,
-    "Unnamed: 19": null
+    "Fazenda": null
   },
   {
     "ID": "3599586",
@@ -15778,9 +14408,7 @@ window.QUALIDADE_CANA_DATA = [
     "Responsável": "MICHELI DE SOUZA SANTOS  ",
     "Quantidade de Cana": "BOM",
     "Observações": null,
-    "Fazenda": null,
-    "Observações ": null,
-    "Unnamed: 19": null
+    "Fazenda": null
   },
   {
     "ID": "3599581",
@@ -15801,9 +14429,7 @@ window.QUALIDADE_CANA_DATA = [
     "Responsável": "MICHELI DE SOUZA SANTOS  ",
     "Quantidade de Cana": "BOM",
     "Observações": null,
-    "Fazenda": null,
-    "Observações ": null,
-    "Unnamed: 19": null
+    "Fazenda": null
   },
   {
     "ID": "3599576",
@@ -15824,9 +14450,7 @@ window.QUALIDADE_CANA_DATA = [
     "Responsável": "MICHELI DE SOUZA SANTOS  ",
     "Quantidade de Cana": "BOM",
     "Observações": null,
-    "Fazenda": null,
-    "Observações ": null,
-    "Unnamed: 19": null
+    "Fazenda": null
   },
   {
     "ID": "3599571",
@@ -15847,9 +14471,7 @@ window.QUALIDADE_CANA_DATA = [
     "Responsável": "MICHELI DE SOUZA SANTOS  ",
     "Quantidade de Cana": "BOM",
     "Observações": null,
-    "Fazenda": null,
-    "Observações ": null,
-    "Unnamed: 19": null
+    "Fazenda": null
   },
   {
     "ID": "3599566",
@@ -15870,9 +14492,7 @@ window.QUALIDADE_CANA_DATA = [
     "Responsável": "MICHELI DE SOUZA SANTOS  ",
     "Quantidade de Cana": "BOM",
     "Observações": null,
-    "Fazenda": null,
-    "Observações ": null,
-    "Unnamed: 19": null
+    "Fazenda": null
   },
   {
     "ID": "3599416",
@@ -15893,9 +14513,7 @@ window.QUALIDADE_CANA_DATA = [
     "Responsável": "REGINALDO DA SILVA GOMES ",
     "Quantidade de Cana": "BOM",
     "Observações": null,
-    "Fazenda": null,
-    "Observações ": null,
-    "Unnamed: 19": null
+    "Fazenda": null
   },
   {
     "ID": "3599135",
@@ -15916,9 +14534,7 @@ window.QUALIDADE_CANA_DATA = [
     "Responsável": "NILDA CLAUDINO [2510716]",
     "Quantidade de Cana": "BOM",
     "Observações": null,
-    "Fazenda": null,
-    "Observações ": null,
-    "Unnamed: 19": null
+    "Fazenda": null
   },
   {
     "ID": "3599134",
@@ -15939,9 +14555,7 @@ window.QUALIDADE_CANA_DATA = [
     "Responsável": "NILDA CLAUDINO [2510716]",
     "Quantidade de Cana": "BOM",
     "Observações": null,
-    "Fazenda": null,
-    "Observações ": null,
-    "Unnamed: 19": null
+    "Fazenda": null
   },
   {
     "ID": "3599561",
@@ -15962,9 +14576,7 @@ window.QUALIDADE_CANA_DATA = [
     "Responsável": "MICHELI DE SOUZA SANTOS  ",
     "Quantidade de Cana": "BOM",
     "Observações": null,
-    "Fazenda": null,
-    "Observações ": null,
-    "Unnamed: 19": null
+    "Fazenda": null
   },
   {
     "ID": "3599133",
@@ -15985,9 +14597,7 @@ window.QUALIDADE_CANA_DATA = [
     "Responsável": "NILDA CLAUDINO [2510716]",
     "Quantidade de Cana": "BOM",
     "Observações": null,
-    "Fazenda": null,
-    "Observações ": null,
-    "Unnamed: 19": null
+    "Fazenda": null
   },
   {
     "ID": "3599132",
@@ -16008,9 +14618,7 @@ window.QUALIDADE_CANA_DATA = [
     "Responsável": "NILDA CLAUDINO [2510716]",
     "Quantidade de Cana": "BOM",
     "Observações": null,
-    "Fazenda": null,
-    "Observações ": null,
-    "Unnamed: 19": null
+    "Fazenda": null
   },
   {
     "ID": "3599131",
@@ -16031,9 +14639,7 @@ window.QUALIDADE_CANA_DATA = [
     "Responsável": "NILDA CLAUDINO [2510716]",
     "Quantidade de Cana": "BOM",
     "Observações": null,
-    "Fazenda": null,
-    "Observações ": null,
-    "Unnamed: 19": null
+    "Fazenda": null
   },
   {
     "ID": "3599556",
@@ -16054,9 +14660,7 @@ window.QUALIDADE_CANA_DATA = [
     "Responsável": "MICHELI DE SOUZA SANTOS  ",
     "Quantidade de Cana": "BOM",
     "Observações": null,
-    "Fazenda": null,
-    "Observações ": null,
-    "Unnamed: 19": null
+    "Fazenda": null
   },
   {
     "ID": "3599411",
@@ -16077,9 +14681,7 @@ window.QUALIDADE_CANA_DATA = [
     "Responsável": "REGINALDO DA SILVA GOMES ",
     "Quantidade de Cana": "BOM",
     "Observações": null,
-    "Fazenda": null,
-    "Observações ": null,
-    "Unnamed: 19": null
+    "Fazenda": null
   },
   {
     "ID": "3599551",
@@ -16100,9 +14702,7 @@ window.QUALIDADE_CANA_DATA = [
     "Responsável": "MICHELI DE SOUZA SANTOS  ",
     "Quantidade de Cana": "BOM",
     "Observações": null,
-    "Fazenda": null,
-    "Observações ": null,
-    "Unnamed: 19": null
+    "Fazenda": null
   },
   {
     "ID": "3599398",
@@ -16123,9 +14723,7 @@ window.QUALIDADE_CANA_DATA = [
     "Responsável": "REGINALDO DA SILVA GOMES ",
     "Quantidade de Cana": "BOM",
     "Observações": null,
-    "Fazenda": null,
-    "Observações ": null,
-    "Unnamed: 19": null
+    "Fazenda": null
   },
   {
     "ID": "3599383",
@@ -16146,9 +14744,7 @@ window.QUALIDADE_CANA_DATA = [
     "Responsável": "REGINALDO DA SILVA GOMES ",
     "Quantidade de Cana": "BOM",
     "Observações": null,
-    "Fazenda": null,
-    "Observações ": null,
-    "Unnamed: 19": null
+    "Fazenda": null
   },
   {
     "ID": "3599381",
@@ -16169,9 +14765,7 @@ window.QUALIDADE_CANA_DATA = [
     "Responsável": "REGINALDO DA SILVA GOMES ",
     "Quantidade de Cana": "BOM",
     "Observações": null,
-    "Fazenda": null,
-    "Observações ": null,
-    "Unnamed: 19": null
+    "Fazenda": null
   },
   {
     "ID": "3599536",
@@ -16192,9 +14786,7 @@ window.QUALIDADE_CANA_DATA = [
     "Responsável": "MICHELI DE SOUZA SANTOS  ",
     "Quantidade de Cana": "BOM",
     "Observações": null,
-    "Fazenda": null,
-    "Observações ": null,
-    "Unnamed: 19": null
+    "Fazenda": null
   },
   {
     "ID": "3599157",
@@ -16215,9 +14807,7 @@ window.QUALIDADE_CANA_DATA = [
     "Responsável": "VITOR AMORIM RAMOS ",
     "Quantidade de Cana": "BOM",
     "Observações": null,
-    "Fazenda": null,
-    "Observações ": null,
-    "Unnamed: 19": null
+    "Fazenda": null
   },
   {
     "ID": "3599529",
@@ -16238,9 +14828,7 @@ window.QUALIDADE_CANA_DATA = [
     "Responsável": "MICHELI DE SOUZA SANTOS  ",
     "Quantidade de Cana": "BOM",
     "Observações": null,
-    "Fazenda": null,
-    "Observações ": null,
-    "Unnamed: 19": null
+    "Fazenda": null
   },
   {
     "ID": "3600506",
@@ -16261,9 +14849,7 @@ window.QUALIDADE_CANA_DATA = [
     "Responsável": "MARCELO DE OLIVEIRA JUNIOR",
     "Quantidade de Cana": "BOM",
     "Observações": null,
-    "Fazenda": null,
-    "Observações ": null,
-    "Unnamed: 19": null
+    "Fazenda": null
   },
   {
     "ID": "3599152",
@@ -16284,9 +14870,7 @@ window.QUALIDADE_CANA_DATA = [
     "Responsável": "VITOR AMORIM RAMOS ",
     "Quantidade de Cana": "BOM",
     "Observações": null,
-    "Fazenda": null,
-    "Observações ": null,
-    "Unnamed: 19": null
+    "Fazenda": null
   },
   {
     "ID": "3600505",
@@ -16307,9 +14891,7 @@ window.QUALIDADE_CANA_DATA = [
     "Responsável": "MARCELO DE OLIVEIRA JUNIOR",
     "Quantidade de Cana": "BOM",
     "Observações": null,
-    "Fazenda": null,
-    "Observações ": null,
-    "Unnamed: 19": null
+    "Fazenda": null
   },
   {
     "ID": "3599524",
@@ -16330,9 +14912,7 @@ window.QUALIDADE_CANA_DATA = [
     "Responsável": "MICHELI DE SOUZA SANTOS  ",
     "Quantidade de Cana": "BOM",
     "Observações": null,
-    "Fazenda": null,
-    "Observações ": null,
-    "Unnamed: 19": null
+    "Fazenda": null
   },
   {
     "ID": "3599147",
@@ -16353,9 +14933,7 @@ window.QUALIDADE_CANA_DATA = [
     "Responsável": "VITOR AMORIM RAMOS ",
     "Quantidade de Cana": "BOM",
     "Observações": null,
-    "Fazenda": null,
-    "Observações ": null,
-    "Unnamed: 19": null
+    "Fazenda": null
   },
   {
     "ID": "3599519",
@@ -16376,9 +14954,7 @@ window.QUALIDADE_CANA_DATA = [
     "Responsável": "MICHELI DE SOUZA SANTOS  ",
     "Quantidade de Cana": "BOM",
     "Observações": null,
-    "Fazenda": null,
-    "Observações ": null,
-    "Unnamed: 19": null
+    "Fazenda": null
   },
   {
     "ID": "3599142",
@@ -16399,9 +14975,7 @@ window.QUALIDADE_CANA_DATA = [
     "Responsável": "VITOR AMORIM RAMOS ",
     "Quantidade de Cana": "BOM",
     "Observações": null,
-    "Fazenda": null,
-    "Observações ": null,
-    "Unnamed: 19": null
+    "Fazenda": null
   },
   {
     "ID": "3599106",
@@ -16422,9 +14996,7 @@ window.QUALIDADE_CANA_DATA = [
     "Responsável": "NILDA CLAUDINO [2510716]",
     "Quantidade de Cana": "BOM",
     "Observações": null,
-    "Fazenda": null,
-    "Observações ": null,
-    "Unnamed: 19": null
+    "Fazenda": null
   },
   {
     "ID": "3599514",
@@ -16445,9 +15017,7 @@ window.QUALIDADE_CANA_DATA = [
     "Responsável": "MICHELI DE SOUZA SANTOS  ",
     "Quantidade de Cana": "BOM",
     "Observações": null,
-    "Fazenda": null,
-    "Observações ": null,
-    "Unnamed: 19": null
+    "Fazenda": null
   },
   {
     "ID": "3599105",
@@ -16468,9 +15038,7 @@ window.QUALIDADE_CANA_DATA = [
     "Responsável": "NILDA CLAUDINO [2510716]",
     "Quantidade de Cana": "BOM",
     "Observações": null,
-    "Fazenda": null,
-    "Observações ": null,
-    "Unnamed: 19": null
+    "Fazenda": null
   },
   {
     "ID": "3599104",
@@ -16491,9 +15059,7 @@ window.QUALIDADE_CANA_DATA = [
     "Responsável": "NILDA CLAUDINO [2510716]",
     "Quantidade de Cana": "BOM",
     "Observações": null,
-    "Fazenda": null,
-    "Observações ": null,
-    "Unnamed: 19": null
+    "Fazenda": null
   },
   {
     "ID": "3599103",
@@ -16514,9 +15080,7 @@ window.QUALIDADE_CANA_DATA = [
     "Responsável": "NILDA CLAUDINO [2510716]",
     "Quantidade de Cana": "BOM",
     "Observações": null,
-    "Fazenda": null,
-    "Observações ": null,
-    "Unnamed: 19": null
+    "Fazenda": null
   },
   {
     "ID": "3599283",
@@ -16537,9 +15101,7 @@ window.QUALIDADE_CANA_DATA = [
     "Responsável": "GABRIEL HENRIQUE MARTINS PEREIRA",
     "Quantidade de Cana": "BOM",
     "Observações": null,
-    "Fazenda": null,
-    "Observações ": null,
-    "Unnamed: 19": null
+    "Fazenda": null
   },
   {
     "ID": "3599278",
@@ -16560,9 +15122,7 @@ window.QUALIDADE_CANA_DATA = [
     "Responsável": "GABRIEL HENRIQUE MARTINS PEREIRA",
     "Quantidade de Cana": "BOM",
     "Observações": null,
-    "Fazenda": null,
-    "Observações ": null,
-    "Unnamed: 19": null
+    "Fazenda": null
   },
   {
     "ID": "3599374",
@@ -16583,9 +15143,7 @@ window.QUALIDADE_CANA_DATA = [
     "Responsável": "REGINALDO DA SILVA GOMES ",
     "Quantidade de Cana": "BOM",
     "Observações": null,
-    "Fazenda": null,
-    "Observações ": null,
-    "Unnamed: 19": null
+    "Fazenda": null
   },
   {
     "ID": "3599273",
@@ -16606,9 +15164,7 @@ window.QUALIDADE_CANA_DATA = [
     "Responsável": "GABRIEL HENRIQUE MARTINS PEREIRA",
     "Quantidade de Cana": "BOM",
     "Observações": null,
-    "Fazenda": null,
-    "Observações ": null,
-    "Unnamed: 19": null
+    "Fazenda": null
   },
   {
     "ID": "3600500",
@@ -16629,9 +15185,7 @@ window.QUALIDADE_CANA_DATA = [
     "Responsável": "MARCELO DE OLIVEIRA JUNIOR",
     "Quantidade de Cana": "BOM",
     "Observações": null,
-    "Fazenda": null,
-    "Observações ": null,
-    "Unnamed: 19": null
+    "Fazenda": null
   },
   {
     "ID": "3599102",
@@ -16652,9 +15206,7 @@ window.QUALIDADE_CANA_DATA = [
     "Responsável": "NILDA CLAUDINO [2510716]",
     "Quantidade de Cana": "BOM",
     "Observações": null,
-    "Fazenda": null,
-    "Observações ": null,
-    "Unnamed: 19": null
+    "Fazenda": null
   },
   {
     "ID": "3599352",
@@ -16675,9 +15227,7 @@ window.QUALIDADE_CANA_DATA = [
     "Responsável": "REGINALDO DA SILVA GOMES ",
     "Quantidade de Cana": "BOM",
     "Observações": null,
-    "Fazenda": null,
-    "Observações ": null,
-    "Unnamed: 19": null
+    "Fazenda": null
   },
   {
     "ID": "3599266",
@@ -16698,9 +15248,7 @@ window.QUALIDADE_CANA_DATA = [
     "Responsável": "GABRIEL HENRIQUE MARTINS PEREIRA",
     "Quantidade de Cana": "BOM",
     "Observações": null,
-    "Fazenda": null,
-    "Observações ": null,
-    "Unnamed: 19": null
+    "Fazenda": null
   },
   {
     "ID": "3598759",
@@ -16721,9 +15269,7 @@ window.QUALIDADE_CANA_DATA = [
     "Responsável": "VITOR AMORIM RAMOS ",
     "Quantidade de Cana": "BOM",
     "Observações": null,
-    "Fazenda": null,
-    "Observações ": null,
-    "Unnamed: 19": null
+    "Fazenda": null
   },
   {
     "ID": "3600492",
@@ -16744,9 +15290,7 @@ window.QUALIDADE_CANA_DATA = [
     "Responsável": "MARCELO DE OLIVEIRA JUNIOR",
     "Quantidade de Cana": "BOM",
     "Observações": null,
-    "Fazenda": null,
-    "Observações ": null,
-    "Unnamed: 19": null
+    "Fazenda": null
   },
   {
     "ID": "3599342",
@@ -16767,9 +15311,7 @@ window.QUALIDADE_CANA_DATA = [
     "Responsável": "REGINALDO DA SILVA GOMES ",
     "Quantidade de Cana": "BOM",
     "Observações": null,
-    "Fazenda": null,
-    "Observações ": null,
-    "Unnamed: 19": null
+    "Fazenda": null
   },
   {
     "ID": "3599261",
@@ -16790,9 +15332,7 @@ window.QUALIDADE_CANA_DATA = [
     "Responsável": "GABRIEL HENRIQUE MARTINS PEREIRA",
     "Quantidade de Cana": "BOM",
     "Observações": null,
-    "Fazenda": null,
-    "Observações ": null,
-    "Unnamed: 19": null
+    "Fazenda": null
   },
   {
     "ID": "3600490",
@@ -16813,9 +15353,7 @@ window.QUALIDADE_CANA_DATA = [
     "Responsável": "MARCELO DE OLIVEIRA JUNIOR",
     "Quantidade de Cana": "BOM",
     "Observações": null,
-    "Fazenda": null,
-    "Observações ": null,
-    "Unnamed: 19": null
+    "Fazenda": null
   },
   {
     "ID": "3599337",
@@ -16836,9 +15374,7 @@ window.QUALIDADE_CANA_DATA = [
     "Responsável": "REGINALDO DA SILVA GOMES ",
     "Quantidade de Cana": "BOM",
     "Observações": null,
-    "Fazenda": null,
-    "Observações ": null,
-    "Unnamed: 19": null
+    "Fazenda": null
   },
   {
     "ID": "3599256",
@@ -16859,9 +15395,7 @@ window.QUALIDADE_CANA_DATA = [
     "Responsável": "GABRIEL HENRIQUE MARTINS PEREIRA",
     "Quantidade de Cana": "BOM",
     "Observações": null,
-    "Fazenda": null,
-    "Observações ": null,
-    "Unnamed: 19": null
+    "Fazenda": null
   },
   {
     "ID": "3599332",
@@ -16882,9 +15416,7 @@ window.QUALIDADE_CANA_DATA = [
     "Responsável": "REGINALDO DA SILVA GOMES ",
     "Quantidade de Cana": "BOM",
     "Observações": null,
-    "Fazenda": null,
-    "Observações ": null,
-    "Unnamed: 19": null
+    "Fazenda": null
   },
   {
     "ID": "3599251",
@@ -16905,9 +15437,7 @@ window.QUALIDADE_CANA_DATA = [
     "Responsável": "GABRIEL HENRIQUE MARTINS PEREIRA",
     "Quantidade de Cana": "BOM",
     "Observações": null,
-    "Fazenda": null,
-    "Observações ": null,
-    "Unnamed: 19": null
+    "Fazenda": null
   },
   {
     "ID": "3598752",
@@ -16928,9 +15458,7 @@ window.QUALIDADE_CANA_DATA = [
     "Responsável": "VITOR AMORIM RAMOS ",
     "Quantidade de Cana": "BOM",
     "Observações": null,
-    "Fazenda": null,
-    "Observações ": null,
-    "Unnamed: 19": null
+    "Fazenda": null
   },
   {
     "ID": "3598742",
@@ -16951,9 +15479,7 @@ window.QUALIDADE_CANA_DATA = [
     "Responsável": "VITOR AMORIM RAMOS ",
     "Quantidade de Cana": "BOM",
     "Observações": null,
-    "Fazenda": null,
-    "Observações ": null,
-    "Unnamed: 19": null
+    "Fazenda": null
   },
   {
     "ID": "3599497",
@@ -16974,9 +15500,7 @@ window.QUALIDADE_CANA_DATA = [
     "Responsável": "MICHELI DE SOUZA SANTOS  ",
     "Quantidade de Cana": "BOM",
     "Observações": null,
-    "Fazenda": null,
-    "Observações ": null,
-    "Unnamed: 19": null
+    "Fazenda": null
   },
   {
     "ID": "3598735",
@@ -16997,9 +15521,7 @@ window.QUALIDADE_CANA_DATA = [
     "Responsável": "VITOR AMORIM RAMOS ",
     "Quantidade de Cana": "BOM",
     "Observações": null,
-    "Fazenda": null,
-    "Observações ": null,
-    "Unnamed: 19": null
+    "Fazenda": null
   },
   {
     "ID": "3599318",
@@ -17020,9 +15542,7 @@ window.QUALIDADE_CANA_DATA = [
     "Responsável": "MICHELI DE SOUZA SANTOS  ",
     "Quantidade de Cana": "BOM",
     "Observações": null,
-    "Fazenda": null,
-    "Observações ": null,
-    "Unnamed: 19": null
+    "Fazenda": null
   },
   {
     "ID": "3598730",
@@ -17043,9 +15563,7 @@ window.QUALIDADE_CANA_DATA = [
     "Responsável": "VITOR AMORIM RAMOS ",
     "Quantidade de Cana": "BOM",
     "Observações": null,
-    "Fazenda": null,
-    "Observações ": null,
-    "Unnamed: 19": null
+    "Fazenda": null
   },
   {
     "ID": "3599789",
@@ -17066,9 +15584,7 @@ window.QUALIDADE_CANA_DATA = [
     "Responsável": "FERNANDA DE SOUZA ",
     "Quantidade de Cana": "BOM",
     "Observações": null,
-    "Fazenda": null,
-    "Observações ": null,
-    "Unnamed: 19": null
+    "Fazenda": null
   },
   {
     "ID": "3599313",
@@ -17089,9 +15605,7 @@ window.QUALIDADE_CANA_DATA = [
     "Responsável": "MICHELI DE SOUZA SANTOS  ",
     "Quantidade de Cana": "BOM",
     "Observações": null,
-    "Fazenda": null,
-    "Observações ": null,
-    "Unnamed: 19": null
+    "Fazenda": null
   },
   {
     "ID": "3599308",
@@ -17112,9 +15626,7 @@ window.QUALIDADE_CANA_DATA = [
     "Responsável": "MICHELI DE SOUZA SANTOS  ",
     "Quantidade de Cana": "BOM",
     "Observações": null,
-    "Fazenda": null,
-    "Observações ": null,
-    "Unnamed: 19": null
+    "Fazenda": null
   },
   {
     "ID": "3598723",
@@ -17135,9 +15647,7 @@ window.QUALIDADE_CANA_DATA = [
     "Responsável": "VITOR AMORIM RAMOS ",
     "Quantidade de Cana": "BOM",
     "Observações": null,
-    "Fazenda": null,
-    "Observações ": null,
-    "Unnamed: 19": null
+    "Fazenda": null
   },
   {
     "ID": "3598717",
@@ -17158,9 +15668,7 @@ window.QUALIDADE_CANA_DATA = [
     "Responsável": "VITOR AMORIM RAMOS ",
     "Quantidade de Cana": "BOM",
     "Observações": null,
-    "Fazenda": null,
-    "Observações ": null,
-    "Unnamed: 19": null
+    "Fazenda": null
   },
   {
     "ID": "3599302",
@@ -17181,9 +15689,7 @@ window.QUALIDADE_CANA_DATA = [
     "Responsável": "MICHELI DE SOUZA SANTOS  ",
     "Quantidade de Cana": "BOM",
     "Observações": null,
-    "Fazenda": null,
-    "Observações ": null,
-    "Unnamed: 19": null
+    "Fazenda": null
   },
   {
     "ID": "3598713",
@@ -17204,9 +15710,7 @@ window.QUALIDADE_CANA_DATA = [
     "Responsável": "VITOR AMORIM RAMOS ",
     "Quantidade de Cana": "BOM",
     "Observações": null,
-    "Fazenda": null,
-    "Observações ": null,
-    "Unnamed: 19": null
+    "Fazenda": null
   },
   {
     "ID": "3598707",
@@ -17227,9 +15731,7 @@ window.QUALIDADE_CANA_DATA = [
     "Responsável": "VITOR AMORIM RAMOS ",
     "Quantidade de Cana": "BOM",
     "Observações": null,
-    "Fazenda": null,
-    "Observações ": null,
-    "Unnamed: 19": null
+    "Fazenda": null
   },
   {
     "ID": "3598702",
@@ -17250,9 +15752,7 @@ window.QUALIDADE_CANA_DATA = [
     "Responsável": "VITOR AMORIM RAMOS ",
     "Quantidade de Cana": "BOM",
     "Observações": null,
-    "Fazenda": null,
-    "Observações ": null,
-    "Unnamed: 19": null
+    "Fazenda": null
   },
   {
     "ID": "3596281",
@@ -17273,9 +15773,7 @@ window.QUALIDADE_CANA_DATA = [
     "Responsável": "NILDA CLAUDINO [2510716]",
     "Quantidade de Cana": "BOM",
     "Observações": null,
-    "Fazenda": null,
-    "Observações ": null,
-    "Unnamed: 19": null
+    "Fazenda": null
   },
   {
     "ID": "3596280",
@@ -17296,9 +15794,7 @@ window.QUALIDADE_CANA_DATA = [
     "Responsável": "NILDA CLAUDINO [2510716]",
     "Quantidade de Cana": "BOM",
     "Observações": null,
-    "Fazenda": null,
-    "Observações ": null,
-    "Unnamed: 19": null
+    "Fazenda": null
   },
   {
     "ID": "3596279",
@@ -17319,9 +15815,7 @@ window.QUALIDADE_CANA_DATA = [
     "Responsável": "NILDA CLAUDINO [2510716]",
     "Quantidade de Cana": "BOM",
     "Observações": null,
-    "Fazenda": null,
-    "Observações ": null,
-    "Unnamed: 19": null
+    "Fazenda": null
   },
   {
     "ID": "3596278",
@@ -17342,9 +15836,7 @@ window.QUALIDADE_CANA_DATA = [
     "Responsável": "NILDA CLAUDINO [2510716]",
     "Quantidade de Cana": "BOM",
     "Observações": null,
-    "Fazenda": null,
-    "Observações ": null,
-    "Unnamed: 19": null
+    "Fazenda": null
   },
   {
     "ID": "3596443",
@@ -17365,9 +15857,7 @@ window.QUALIDADE_CANA_DATA = [
     "Responsável": "Leonardo Ribeiro Teixeira da Silva",
     "Quantidade de Cana": "BOM",
     "Observações": null,
-    "Fazenda": null,
-    "Observações ": null,
-    "Unnamed: 19": null
+    "Fazenda": null
   },
   {
     "ID": "3596532",
@@ -17388,9 +15878,7 @@ window.QUALIDADE_CANA_DATA = [
     "Responsável": "VITOR AMORIM RAMOS ",
     "Quantidade de Cana": "BOM",
     "Observações": null,
-    "Fazenda": null,
-    "Observações ": null,
-    "Unnamed: 19": null
+    "Fazenda": null
   },
   {
     "ID": "3596527",
@@ -17411,9 +15899,7 @@ window.QUALIDADE_CANA_DATA = [
     "Responsável": "VITOR AMORIM RAMOS ",
     "Quantidade de Cana": "BOM",
     "Observações": null,
-    "Fazenda": null,
-    "Observações ": null,
-    "Unnamed: 19": null
+    "Fazenda": null
   },
   {
     "ID": "3596440",
@@ -17434,9 +15920,7 @@ window.QUALIDADE_CANA_DATA = [
     "Responsável": "Leonardo Ribeiro Teixeira da Silva",
     "Quantidade de Cana": "BOM",
     "Observações": null,
-    "Fazenda": null,
-    "Observações ": null,
-    "Unnamed: 19": null
+    "Fazenda": null
   },
   {
     "ID": "3596523",
@@ -17457,9 +15941,7 @@ window.QUALIDADE_CANA_DATA = [
     "Responsável": "VITOR AMORIM RAMOS ",
     "Quantidade de Cana": "BOM",
     "Observações": null,
-    "Fazenda": null,
-    "Observações ": null,
-    "Unnamed: 19": null
+    "Fazenda": null
   },
   {
     "ID": "3596284",
@@ -17480,9 +15962,7 @@ window.QUALIDADE_CANA_DATA = [
     "Responsável": "NILDA CLAUDINO [2510716]",
     "Quantidade de Cana": "BOM",
     "Observações": null,
-    "Fazenda": null,
-    "Observações ": null,
-    "Unnamed: 19": null
+    "Fazenda": null
   },
   {
     "ID": "3596518",
@@ -17503,9 +15983,7 @@ window.QUALIDADE_CANA_DATA = [
     "Responsável": "VITOR AMORIM RAMOS ",
     "Quantidade de Cana": "BOM",
     "Observações": null,
-    "Fazenda": null,
-    "Observações ": null,
-    "Unnamed: 19": null
+    "Fazenda": null
   },
   {
     "ID": "3596435",
@@ -17526,9 +16004,7 @@ window.QUALIDADE_CANA_DATA = [
     "Responsável": "Leonardo Ribeiro Teixeira da Silva",
     "Quantidade de Cana": "BOM",
     "Observações": null,
-    "Fazenda": null,
-    "Observações ": null,
-    "Unnamed: 19": null
+    "Fazenda": null
   },
   {
     "ID": "3595910",
@@ -17549,9 +16025,7 @@ window.QUALIDADE_CANA_DATA = [
     "Responsável": "GABRIEL HENRIQUE MARTINS PEREIRA",
     "Quantidade de Cana": "BOM",
     "Observações": null,
-    "Fazenda": null,
-    "Observações ": null,
-    "Unnamed: 19": null
+    "Fazenda": null
   },
   {
     "ID": "3595905",
@@ -17572,9 +16046,7 @@ window.QUALIDADE_CANA_DATA = [
     "Responsável": "GABRIEL HENRIQUE MARTINS PEREIRA",
     "Quantidade de Cana": "BOM",
     "Observações": null,
-    "Fazenda": null,
-    "Observações ": null,
-    "Unnamed: 19": null
+    "Fazenda": null
   },
   {
     "ID": "3595675",
@@ -17595,9 +16067,7 @@ window.QUALIDADE_CANA_DATA = [
     "Responsável": "VITOR AMORIM RAMOS ",
     "Quantidade de Cana": "BOM",
     "Observações": null,
-    "Fazenda": null,
-    "Observações ": null,
-    "Unnamed: 19": null
+    "Fazenda": null
   },
   {
     "ID": "3595670",
@@ -17618,9 +16088,7 @@ window.QUALIDADE_CANA_DATA = [
     "Responsável": "VITOR AMORIM RAMOS ",
     "Quantidade de Cana": "BOM",
     "Observações": null,
-    "Fazenda": null,
-    "Observações ": null,
-    "Unnamed: 19": null
+    "Fazenda": null
   },
   {
     "ID": "3595665",
@@ -17641,9 +16109,7 @@ window.QUALIDADE_CANA_DATA = [
     "Responsável": "VITOR AMORIM RAMOS ",
     "Quantidade de Cana": "BOM",
     "Observações": null,
-    "Fazenda": null,
-    "Observações ": null,
-    "Unnamed: 19": null
+    "Fazenda": null
   },
   {
     "ID": "3595660",
@@ -17664,9 +16130,7 @@ window.QUALIDADE_CANA_DATA = [
     "Responsável": "VITOR AMORIM RAMOS ",
     "Quantidade de Cana": "BOM",
     "Observações": null,
-    "Fazenda": null,
-    "Observações ": null,
-    "Unnamed: 19": null
+    "Fazenda": null
   },
   {
     "ID": "3595706",
@@ -17687,9 +16151,7 @@ window.QUALIDADE_CANA_DATA = [
     "Responsável": " Antonio ",
     "Quantidade de Cana": "BOM",
     "Observações": null,
-    "Fazenda": null,
-    "Observações ": null,
-    "Unnamed: 19": null
+    "Fazenda": null
   },
   {
     "ID": "3595654",
@@ -17710,9 +16172,7 @@ window.QUALIDADE_CANA_DATA = [
     "Responsável": "VITOR AMORIM RAMOS ",
     "Quantidade de Cana": "BOM",
     "Observações": null,
-    "Fazenda": null,
-    "Observações ": null,
-    "Unnamed: 19": null
+    "Fazenda": null
   },
   {
     "ID": "3595699",
@@ -17733,9 +16193,7 @@ window.QUALIDADE_CANA_DATA = [
     "Responsável": " Antonio ",
     "Quantidade de Cana": "BOM",
     "Observações": null,
-    "Fazenda": null,
-    "Observações ": null,
-    "Unnamed: 19": null
+    "Fazenda": null
   },
   {
     "ID": "3595697",
@@ -17756,9 +16214,7 @@ window.QUALIDADE_CANA_DATA = [
     "Responsável": " Antonio ",
     "Quantidade de Cana": "BOM",
     "Observações": null,
-    "Fazenda": null,
-    "Observações ": null,
-    "Unnamed: 19": null
+    "Fazenda": null
   },
   {
     "ID": "3596428",
@@ -17779,9 +16235,7 @@ window.QUALIDADE_CANA_DATA = [
     "Responsável": "Leonardo Ribeiro Teixeira da Silva",
     "Quantidade de Cana": "BOM",
     "Observações": null,
-    "Fazenda": null,
-    "Observações ": null,
-    "Unnamed: 19": null
+    "Fazenda": null
   },
   {
     "ID": "3596418",
@@ -17802,9 +16256,7 @@ window.QUALIDADE_CANA_DATA = [
     "Responsável": "Leonardo Ribeiro Teixeira da Silva",
     "Quantidade de Cana": "BOM",
     "Observações": null,
-    "Fazenda": null,
-    "Observações ": null,
-    "Unnamed: 19": null
+    "Fazenda": null
   },
   {
     "ID": "3596415",
@@ -17825,9 +16277,7 @@ window.QUALIDADE_CANA_DATA = [
     "Responsável": "Leonardo Ribeiro Teixeira da Silva",
     "Quantidade de Cana": "BOM",
     "Observações": null,
-    "Fazenda": null,
-    "Observações ": null,
-    "Unnamed: 19": null
+    "Fazenda": null
   },
   {
     "ID": "3595637",
@@ -17848,9 +16298,7 @@ window.QUALIDADE_CANA_DATA = [
     "Responsável": "VITOR AMORIM RAMOS ",
     "Quantidade de Cana": "BOM",
     "Observações": null,
-    "Fazenda": null,
-    "Observações ": null,
-    "Unnamed: 19": null
+    "Fazenda": null
   },
   {
     "ID": "3595632",
@@ -17871,9 +16319,7 @@ window.QUALIDADE_CANA_DATA = [
     "Responsável": "VITOR AMORIM RAMOS ",
     "Quantidade de Cana": "BOM",
     "Observações": null,
-    "Fazenda": null,
-    "Observações ": null,
-    "Unnamed: 19": null
+    "Fazenda": null
   },
   {
     "ID": "3595627",
@@ -17894,9 +16340,7 @@ window.QUALIDADE_CANA_DATA = [
     "Responsável": "VITOR AMORIM RAMOS ",
     "Quantidade de Cana": "BOM",
     "Observações": null,
-    "Fazenda": null,
-    "Observações ": null,
-    "Unnamed: 19": null
+    "Fazenda": null
   },
   {
     "ID": "3595883",
@@ -17917,9 +16361,7 @@ window.QUALIDADE_CANA_DATA = [
     "Responsável": "GABRIEL HENRIQUE MARTINS PEREIRA",
     "Quantidade de Cana": "BOM",
     "Observações": null,
-    "Fazenda": null,
-    "Observações ": null,
-    "Unnamed: 19": null
+    "Fazenda": null
   },
   {
     "ID": "3595878",
@@ -17940,9 +16382,7 @@ window.QUALIDADE_CANA_DATA = [
     "Responsável": "GABRIEL HENRIQUE MARTINS PEREIRA",
     "Quantidade de Cana": "BOM",
     "Observações": null,
-    "Fazenda": null,
-    "Observações ": null,
-    "Unnamed: 19": null
+    "Fazenda": null
   },
   {
     "ID": "3595873",
@@ -17963,9 +16403,7 @@ window.QUALIDADE_CANA_DATA = [
     "Responsável": "GABRIEL HENRIQUE MARTINS PEREIRA",
     "Quantidade de Cana": "BOM",
     "Observações": null,
-    "Fazenda": null,
-    "Observações ": null,
-    "Unnamed: 19": null
+    "Fazenda": null
   },
   {
     "ID": "3595868",
@@ -17986,9 +16424,7 @@ window.QUALIDADE_CANA_DATA = [
     "Responsável": "GABRIEL HENRIQUE MARTINS PEREIRA",
     "Quantidade de Cana": "BOM",
     "Observações": null,
-    "Fazenda": null,
-    "Observações ": null,
-    "Unnamed: 19": null
+    "Fazenda": null
   },
   {
     "ID": "3595231",
@@ -18009,9 +16445,7 @@ window.QUALIDADE_CANA_DATA = [
     "Responsável": "MARCELO DE OLIVEIRA JUNIOR",
     "Quantidade de Cana": "BOM",
     "Observações": null,
-    "Fazenda": null,
-    "Observações ": null,
-    "Unnamed: 19": null
+    "Fazenda": null
   },
   {
     "ID": "3595226",
@@ -18032,9 +16466,7 @@ window.QUALIDADE_CANA_DATA = [
     "Responsável": "MARCELO DE OLIVEIRA JUNIOR",
     "Quantidade de Cana": "BOM",
     "Observações": null,
-    "Fazenda": null,
-    "Observações ": null,
-    "Unnamed: 19": null
+    "Fazenda": null
   },
   {
     "ID": "3594642",
@@ -18055,9 +16487,7 @@ window.QUALIDADE_CANA_DATA = [
     "Responsável": "MICHELI DE SOUZA SANTOS  ",
     "Quantidade de Cana": "BOM",
     "Observações": null,
-    "Fazenda": null,
-    "Observações ": null,
-    "Unnamed: 19": null
+    "Fazenda": null
   },
   {
     "ID": "3595218",
@@ -18078,9 +16508,7 @@ window.QUALIDADE_CANA_DATA = [
     "Responsável": "MARCELO DE OLIVEIRA JUNIOR",
     "Quantidade de Cana": "BOM",
     "Observações": null,
-    "Fazenda": null,
-    "Observações ": null,
-    "Unnamed: 19": null
+    "Fazenda": null
   },
   {
     "ID": "3594634",
@@ -18101,9 +16529,7 @@ window.QUALIDADE_CANA_DATA = [
     "Responsável": "MICHELI DE SOUZA SANTOS  ",
     "Quantidade de Cana": "BOM",
     "Observações": null,
-    "Fazenda": null,
-    "Observações ": null,
-    "Unnamed: 19": null
+    "Fazenda": null
   },
   {
     "ID": "3594627",
@@ -18124,9 +16550,7 @@ window.QUALIDADE_CANA_DATA = [
     "Responsável": "MICHELI DE SOUZA SANTOS  ",
     "Quantidade de Cana": "BOM",
     "Observações": null,
-    "Fazenda": null,
-    "Observações ": null,
-    "Unnamed: 19": null
+    "Fazenda": null
   },
   {
     "ID": "3585148",
@@ -18147,9 +16571,7 @@ window.QUALIDADE_CANA_DATA = [
     "Responsável": "VITOR AMORIM RAMOS ",
     "Quantidade de Cana": "BOM",
     "Observações": null,
-    "Fazenda": null,
-    "Observações ": null,
-    "Unnamed: 19": null
+    "Fazenda": null
   },
   {
     "ID": "3594619",
@@ -18170,9 +16592,7 @@ window.QUALIDADE_CANA_DATA = [
     "Responsável": "MICHELI DE SOUZA SANTOS  ",
     "Quantidade de Cana": "BOM",
     "Observações": null,
-    "Fazenda": null,
-    "Observações ": null,
-    "Unnamed: 19": null
+    "Fazenda": null
   },
   {
     "ID": "3595328",
@@ -18193,9 +16613,7 @@ window.QUALIDADE_CANA_DATA = [
     "Responsável": "Leonardo Ribeiro Teixeira da Silva",
     "Quantidade de Cana": "BOM",
     "Observações": null,
-    "Fazenda": null,
-    "Observações ": null,
-    "Unnamed: 19": null
+    "Fazenda": null
   },
   {
     "ID": "3593823",
@@ -18216,9 +16634,7 @@ window.QUALIDADE_CANA_DATA = [
     "Responsável": " Antonio ",
     "Quantidade de Cana": "BOM",
     "Observações": null,
-    "Fazenda": null,
-    "Observações ": null,
-    "Unnamed: 19": null
+    "Fazenda": null
   },
   {
     "ID": "3594612",
@@ -18239,9 +16655,7 @@ window.QUALIDADE_CANA_DATA = [
     "Responsável": "MICHELI DE SOUZA SANTOS  ",
     "Quantidade de Cana": "BOM",
     "Observações": null,
-    "Fazenda": null,
-    "Observações ": null,
-    "Unnamed: 19": null
+    "Fazenda": null
   },
   {
     "ID": "3594605",
@@ -18262,9 +16676,7 @@ window.QUALIDADE_CANA_DATA = [
     "Responsável": "MICHELI DE SOUZA SANTOS  ",
     "Quantidade de Cana": "BOM",
     "Observações": null,
-    "Fazenda": null,
-    "Observações ": null,
-    "Unnamed: 19": null
+    "Fazenda": null
   },
   {
     "ID": "3594976",
@@ -18285,9 +16697,7 @@ window.QUALIDADE_CANA_DATA = [
     "Responsável": "VITOR AMORIM RAMOS ",
     "Quantidade de Cana": "BOM",
     "Observações": null,
-    "Fazenda": null,
-    "Observações ": null,
-    "Unnamed: 19": null
+    "Fazenda": null
   },
   {
     "ID": "3594596",
@@ -18308,9 +16718,7 @@ window.QUALIDADE_CANA_DATA = [
     "Responsável": "MICHELI DE SOUZA SANTOS  ",
     "Quantidade de Cana": "BOM",
     "Observações": null,
-    "Fazenda": null,
-    "Observações ": null,
-    "Unnamed: 19": null
+    "Fazenda": null
   },
   {
     "ID": "3595318",
@@ -18331,9 +16739,7 @@ window.QUALIDADE_CANA_DATA = [
     "Responsável": "Leonardo Ribeiro Teixeira da Silva",
     "Quantidade de Cana": "BOM",
     "Observações": null,
-    "Fazenda": null,
-    "Observações ": null,
-    "Unnamed: 19": null
+    "Fazenda": null
   },
   {
     "ID": "3593821",
@@ -18354,9 +16760,7 @@ window.QUALIDADE_CANA_DATA = [
     "Responsável": " Antonio ",
     "Quantidade de Cana": "BOM",
     "Observações": null,
-    "Fazenda": null,
-    "Observações ": null,
-    "Unnamed: 19": null
+    "Fazenda": null
   },
   {
     "ID": "3593816",
@@ -18377,9 +16781,7 @@ window.QUALIDADE_CANA_DATA = [
     "Responsável": " Antonio ",
     "Quantidade de Cana": "BOM",
     "Observações": null,
-    "Fazenda": null,
-    "Observações ": null,
-    "Unnamed: 19": null
+    "Fazenda": null
   },
   {
     "ID": "3594553",
@@ -18400,9 +16802,7 @@ window.QUALIDADE_CANA_DATA = [
     "Responsável": "MICHELI DE SOUZA SANTOS  ",
     "Quantidade de Cana": "BOM",
     "Observações": null,
-    "Fazenda": null,
-    "Observações ": null,
-    "Unnamed: 19": null
+    "Fazenda": null
   },
   {
     "ID": "3594971",
@@ -18423,9 +16823,7 @@ window.QUALIDADE_CANA_DATA = [
     "Responsável": "VITOR AMORIM RAMOS ",
     "Quantidade de Cana": "BOM",
     "Observações": null,
-    "Fazenda": null,
-    "Observações ": null,
-    "Unnamed: 19": null
+    "Fazenda": null
   },
   {
     "ID": "3593813",
@@ -18446,9 +16844,7 @@ window.QUALIDADE_CANA_DATA = [
     "Responsável": " Antonio ",
     "Quantidade de Cana": "BOM",
     "Observações": null,
-    "Fazenda": null,
-    "Observações ": null,
-    "Unnamed: 19": null
+    "Fazenda": null
   },
   {
     "ID": "3595311",
@@ -18469,9 +16865,7 @@ window.QUALIDADE_CANA_DATA = [
     "Responsável": "Leonardo Ribeiro Teixeira da Silva",
     "Quantidade de Cana": "BOM",
     "Observações": null,
-    "Fazenda": null,
-    "Observações ": null,
-    "Unnamed: 19": null
+    "Fazenda": null
   },
   {
     "ID": "3594541",
@@ -18492,9 +16886,7 @@ window.QUALIDADE_CANA_DATA = [
     "Responsável": "MICHELI DE SOUZA SANTOS  ",
     "Quantidade de Cana": "BOM",
     "Observações": null,
-    "Fazenda": null,
-    "Observações ": null,
-    "Unnamed: 19": null
+    "Fazenda": null
   },
   {
     "ID": "3593014",
@@ -18515,9 +16907,7 @@ window.QUALIDADE_CANA_DATA = [
     "Responsável": "VITOR AMORIM RAMOS ",
     "Quantidade de Cana": "BOM",
     "Observações": null,
-    "Fazenda": null,
-    "Observações ": null,
-    "Unnamed: 19": null
+    "Fazenda": null
   },
   {
     "ID": "3593003",
@@ -18538,9 +16928,7 @@ window.QUALIDADE_CANA_DATA = [
     "Responsável": "VITOR AMORIM RAMOS ",
     "Quantidade de Cana": "BOM",
     "Observações": null,
-    "Fazenda": null,
-    "Observações ": null,
-    "Unnamed: 19": null
+    "Fazenda": null
   },
   {
     "ID": "3594536",
@@ -18561,9 +16949,7 @@ window.QUALIDADE_CANA_DATA = [
     "Responsável": "MICHELI DE SOUZA SANTOS  ",
     "Quantidade de Cana": "BOM",
     "Observações": null,
-    "Fazenda": null,
-    "Observações ": null,
-    "Unnamed: 19": null
+    "Fazenda": null
   },
   {
     "ID": "3595210",
@@ -18584,9 +16970,7 @@ window.QUALIDADE_CANA_DATA = [
     "Responsável": "MARCELO DE OLIVEIRA JUNIOR",
     "Quantidade de Cana": "BOM",
     "Observações": null,
-    "Fazenda": null,
-    "Observações ": null,
-    "Unnamed: 19": null
+    "Fazenda": null
   },
   {
     "ID": "3595306",
@@ -18607,9 +16991,7 @@ window.QUALIDADE_CANA_DATA = [
     "Responsável": "Leonardo Ribeiro Teixeira da Silva",
     "Quantidade de Cana": "BOM",
     "Observações": null,
-    "Fazenda": null,
-    "Observações ": null,
-    "Unnamed: 19": null
+    "Fazenda": null
   },
   {
     "ID": "3594498",
@@ -18630,9 +17012,7 @@ window.QUALIDADE_CANA_DATA = [
     "Responsável": "MICHELI DE SOUZA SANTOS  ",
     "Quantidade de Cana": "BOM",
     "Observações": null,
-    "Fazenda": null,
-    "Observações ": null,
-    "Unnamed: 19": null
+    "Fazenda": null
   },
   {
     "ID": "3595201",
@@ -18653,9 +17033,7 @@ window.QUALIDADE_CANA_DATA = [
     "Responsável": "MARCELO DE OLIVEIRA JUNIOR",
     "Quantidade de Cana": "BOM",
     "Observações": null,
-    "Fazenda": null,
-    "Observações ": null,
-    "Unnamed: 19": null
+    "Fazenda": null
   },
   {
     "ID": "3594492",
@@ -18676,9 +17054,7 @@ window.QUALIDADE_CANA_DATA = [
     "Responsável": "MICHELI DE SOUZA SANTOS  ",
     "Quantidade de Cana": "BOM",
     "Observações": null,
-    "Fazenda": null,
-    "Observações ": null,
-    "Unnamed: 19": null
+    "Fazenda": null
   },
   {
     "ID": "3595200",
@@ -18699,9 +17075,7 @@ window.QUALIDADE_CANA_DATA = [
     "Responsável": "MARCELO DE OLIVEIRA JUNIOR",
     "Quantidade de Cana": "BOM",
     "Observações": null,
-    "Fazenda": null,
-    "Observações ": null,
-    "Unnamed: 19": null
+    "Fazenda": null
   },
   {
     "ID": "3595192",
@@ -18722,9 +17096,7 @@ window.QUALIDADE_CANA_DATA = [
     "Responsável": "MARCELO DE OLIVEIRA JUNIOR",
     "Quantidade de Cana": "BOM",
     "Observações": null,
-    "Fazenda": null,
-    "Observações ": null,
-    "Unnamed: 19": null
+    "Fazenda": null
   },
   {
     "ID": "3594487",
@@ -18745,9 +17117,7 @@ window.QUALIDADE_CANA_DATA = [
     "Responsável": "MICHELI DE SOUZA SANTOS  ",
     "Quantidade de Cana": "BOM",
     "Observações": null,
-    "Fazenda": null,
-    "Observações ": null,
-    "Unnamed: 19": null
+    "Fazenda": null
   },
   {
     "ID": "3595294",
@@ -18768,9 +17138,7 @@ window.QUALIDADE_CANA_DATA = [
     "Responsável": "Ruan Alexandre Lopes",
     "Quantidade de Cana": "BOM",
     "Observações": null,
-    "Fazenda": null,
-    "Observações ": null,
-    "Unnamed: 19": null
+    "Fazenda": null
   },
   {
     "ID": "3594484",
@@ -18791,9 +17159,7 @@ window.QUALIDADE_CANA_DATA = [
     "Responsável": "MABILA HELEN D FIGUEIREDO",
     "Quantidade de Cana": "BOM",
     "Observações": null,
-    "Fazenda": null,
-    "Observações ": null,
-    "Unnamed: 19": null
+    "Fazenda": null
   },
   {
     "ID": "3594063",
@@ -18814,9 +17180,7 @@ window.QUALIDADE_CANA_DATA = [
     "Responsável": "Ruan Alexandre Lopes",
     "Quantidade de Cana": "BOM",
     "Observações": null,
-    "Fazenda": null,
-    "Observações ": null,
-    "Unnamed: 19": null
+    "Fazenda": null
   },
   {
     "ID": "3595289",
@@ -18837,9 +17201,7 @@ window.QUALIDADE_CANA_DATA = [
     "Responsável": "Leonardo Ribeiro Teixeira da Silva",
     "Quantidade de Cana": "BOM",
     "Observações": null,
-    "Fazenda": null,
-    "Observações ": null,
-    "Unnamed: 19": null
+    "Fazenda": null
   },
   {
     "ID": "3594479",
@@ -18860,9 +17222,7 @@ window.QUALIDADE_CANA_DATA = [
     "Responsável": "MABILA HELEN D FIGUEIREDO",
     "Quantidade de Cana": "BOM",
     "Observações": null,
-    "Fazenda": null,
-    "Observações ": null,
-    "Unnamed: 19": null
+    "Fazenda": null
   },
   {
     "ID": "3593337",
@@ -18883,9 +17243,7 @@ window.QUALIDADE_CANA_DATA = [
     "Responsável": "NILDA CLAUDINO [2510716]",
     "Quantidade de Cana": "BOM",
     "Observações": null,
-    "Fazenda": null,
-    "Observações ": null,
-    "Unnamed: 19": null
+    "Fazenda": null
   },
   {
     "ID": "3593336",
@@ -18906,9 +17264,7 @@ window.QUALIDADE_CANA_DATA = [
     "Responsável": "NILDA CLAUDINO [2510716]",
     "Quantidade de Cana": "BOM",
     "Observações": null,
-    "Fazenda": null,
-    "Observações ": null,
-    "Unnamed: 19": null
+    "Fazenda": null
   },
   {
     "ID": "3593335",
@@ -18929,9 +17285,7 @@ window.QUALIDADE_CANA_DATA = [
     "Responsável": "NILDA CLAUDINO [2510716]",
     "Quantidade de Cana": "BOM",
     "Observações": null,
-    "Fazenda": null,
-    "Observações ": null,
-    "Unnamed: 19": null
+    "Fazenda": null
   },
   {
     "ID": "3593334",
@@ -18952,9 +17306,7 @@ window.QUALIDADE_CANA_DATA = [
     "Responsável": "NILDA CLAUDINO [2510716]",
     "Quantidade de Cana": "BOM",
     "Observações": null,
-    "Fazenda": null,
-    "Observações ": null,
-    "Unnamed: 19": null
+    "Fazenda": null
   },
   {
     "ID": "3592979",
@@ -18975,9 +17327,7 @@ window.QUALIDADE_CANA_DATA = [
     "Responsável": "VITOR AMORIM RAMOS ",
     "Quantidade de Cana": "BOM",
     "Observações": null,
-    "Fazenda": null,
-    "Observações ": null,
-    "Unnamed: 19": null
+    "Fazenda": null
   },
   {
     "ID": "3594474",
@@ -18998,9 +17348,7 @@ window.QUALIDADE_CANA_DATA = [
     "Responsável": "MABILA HELEN D FIGUEIREDO",
     "Quantidade de Cana": "BOM",
     "Observações": null,
-    "Fazenda": null,
-    "Observações ": null,
-    "Unnamed: 19": null
+    "Fazenda": null
   },
   {
     "ID": "3592974",
@@ -19021,9 +17369,7 @@ window.QUALIDADE_CANA_DATA = [
     "Responsável": "VITOR AMORIM RAMOS ",
     "Quantidade de Cana": "BOM",
     "Observações": null,
-    "Fazenda": null,
-    "Observações ": null,
-    "Unnamed: 19": null
+    "Fazenda": null
   },
   {
     "ID": "3595184",
@@ -19044,9 +17390,7 @@ window.QUALIDADE_CANA_DATA = [
     "Responsável": "MARCELO DE OLIVEIRA JUNIOR",
     "Quantidade de Cana": "BOM",
     "Observações": null,
-    "Fazenda": null,
-    "Observações ": null,
-    "Unnamed: 19": null
+    "Fazenda": null
   },
   {
     "ID": "3592968",
@@ -19067,9 +17411,7 @@ window.QUALIDADE_CANA_DATA = [
     "Responsável": "VITOR AMORIM RAMOS ",
     "Quantidade de Cana": "BOM",
     "Observações": null,
-    "Fazenda": null,
-    "Observações ": null,
-    "Unnamed: 19": null
+    "Fazenda": null
   },
   {
     "ID": "3595177",
@@ -19090,9 +17432,7 @@ window.QUALIDADE_CANA_DATA = [
     "Responsável": "MARCELO DE OLIVEIRA JUNIOR",
     "Quantidade de Cana": "BOM",
     "Observações": null,
-    "Fazenda": null,
-    "Observações ": null,
-    "Unnamed: 19": null
+    "Fazenda": null
   },
   {
     "ID": "3592963",
@@ -19113,9 +17453,7 @@ window.QUALIDADE_CANA_DATA = [
     "Responsável": "VITOR AMORIM RAMOS ",
     "Quantidade de Cana": "BOM",
     "Observações": null,
-    "Fazenda": null,
-    "Observações ": null,
-    "Unnamed: 19": null
+    "Fazenda": null
   },
   {
     "ID": "3595176",
@@ -19136,9 +17474,7 @@ window.QUALIDADE_CANA_DATA = [
     "Responsável": "MARCELO DE OLIVEIRA JUNIOR",
     "Quantidade de Cana": "BOM",
     "Observações": null,
-    "Fazenda": null,
-    "Observações ": null,
-    "Unnamed: 19": null
+    "Fazenda": null
   },
   {
     "ID": "3595171",
@@ -19159,9 +17495,7 @@ window.QUALIDADE_CANA_DATA = [
     "Responsável": "MARCELO DE OLIVEIRA JUNIOR",
     "Quantidade de Cana": "BOM",
     "Observações": null,
-    "Fazenda": null,
-    "Observações ": null,
-    "Unnamed: 19": null
+    "Fazenda": null
   },
   {
     "ID": "3592956",
@@ -19182,9 +17516,7 @@ window.QUALIDADE_CANA_DATA = [
     "Responsável": "VITOR AMORIM RAMOS ",
     "Quantidade de Cana": "BOM",
     "Observações": null,
-    "Fazenda": null,
-    "Observações ": null,
-    "Unnamed: 19": null
+    "Fazenda": null
   },
   {
     "ID": "3592951",
@@ -19205,9 +17537,7 @@ window.QUALIDADE_CANA_DATA = [
     "Responsável": "VITOR AMORIM RAMOS ",
     "Quantidade de Cana": "BOM",
     "Observações": null,
-    "Fazenda": null,
-    "Observações ": null,
-    "Unnamed: 19": null
+    "Fazenda": null
   },
   {
     "ID": "3592945",
@@ -19228,9 +17558,7 @@ window.QUALIDADE_CANA_DATA = [
     "Responsável": "VITOR AMORIM RAMOS ",
     "Quantidade de Cana": "BOM",
     "Observações": null,
-    "Fazenda": null,
-    "Observações ": null,
-    "Unnamed: 19": null
+    "Fazenda": null
   },
   {
     "ID": "3592937",
@@ -19251,9 +17579,7 @@ window.QUALIDADE_CANA_DATA = [
     "Responsável": "VITOR AMORIM RAMOS ",
     "Quantidade de Cana": "BOM",
     "Observações": null,
-    "Fazenda": null,
-    "Observações ": null,
-    "Unnamed: 19": null
+    "Fazenda": null
   },
   {
     "ID": "3592932",
@@ -19274,9 +17600,7 @@ window.QUALIDADE_CANA_DATA = [
     "Responsável": "VITOR AMORIM RAMOS ",
     "Quantidade de Cana": "BOM",
     "Observações": null,
-    "Fazenda": null,
-    "Observações ": null,
-    "Unnamed: 19": null
+    "Fazenda": null
   },
   {
     "ID": "3591198",
@@ -19297,9 +17621,7 @@ window.QUALIDADE_CANA_DATA = [
     "Responsável": "VITOR AMORIM RAMOS ",
     "Quantidade de Cana": "BOM",
     "Observações": null,
-    "Fazenda": null,
-    "Observações ": null,
-    "Unnamed: 19": null
+    "Fazenda": null
   },
   {
     "ID": "3591193",
@@ -19320,9 +17642,7 @@ window.QUALIDADE_CANA_DATA = [
     "Responsável": "VITOR AMORIM RAMOS ",
     "Quantidade de Cana": "BOM",
     "Observações": null,
-    "Fazenda": null,
-    "Observações ": null,
-    "Unnamed: 19": null
+    "Fazenda": null
   },
   {
     "ID": "3591188",
@@ -19343,9 +17663,7 @@ window.QUALIDADE_CANA_DATA = [
     "Responsável": "VITOR AMORIM RAMOS ",
     "Quantidade de Cana": "BOM",
     "Observações": null,
-    "Fazenda": null,
-    "Observações ": null,
-    "Unnamed: 19": null
+    "Fazenda": null
   },
   {
     "ID": "3591183",
@@ -19366,9 +17684,7 @@ window.QUALIDADE_CANA_DATA = [
     "Responsável": "VITOR AMORIM RAMOS ",
     "Quantidade de Cana": "BOM",
     "Observações": null,
-    "Fazenda": null,
-    "Observações ": null,
-    "Unnamed: 19": null
+    "Fazenda": null
   },
   {
     "ID": "3590602",
@@ -19389,9 +17705,7 @@ window.QUALIDADE_CANA_DATA = [
     "Responsável": " Antonio ",
     "Quantidade de Cana": "BOM",
     "Observações": null,
-    "Fazenda": null,
-    "Observações ": null,
-    "Unnamed: 19": null
+    "Fazenda": null
   },
   {
     "ID": "3591178",
@@ -19412,9 +17726,7 @@ window.QUALIDADE_CANA_DATA = [
     "Responsável": "VITOR AMORIM RAMOS ",
     "Quantidade de Cana": "BOM",
     "Observações": null,
-    "Fazenda": null,
-    "Observações ": null,
-    "Unnamed: 19": null
+    "Fazenda": null
   },
   {
     "ID": "3590442",
@@ -19435,9 +17747,7 @@ window.QUALIDADE_CANA_DATA = [
     "Responsável": "REGINALDO DA SILVA GOMES ",
     "Quantidade de Cana": "BOM",
     "Observações": null,
-    "Fazenda": null,
-    "Observações ": null,
-    "Unnamed: 19": null
+    "Fazenda": null
   },
   {
     "ID": "3590437",
@@ -19458,9 +17768,7 @@ window.QUALIDADE_CANA_DATA = [
     "Responsável": "REGINALDO DA SILVA GOMES ",
     "Quantidade de Cana": "BOM",
     "Observações": null,
-    "Fazenda": null,
-    "Observações ": null,
-    "Unnamed: 19": null
+    "Fazenda": null
   },
   {
     "ID": "3590432",
@@ -19481,9 +17789,7 @@ window.QUALIDADE_CANA_DATA = [
     "Responsável": "REGINALDO DA SILVA GOMES ",
     "Quantidade de Cana": "BOM",
     "Observações": null,
-    "Fazenda": null,
-    "Observações ": null,
-    "Unnamed: 19": null
+    "Fazenda": null
   },
   {
     "ID": "3590598",
@@ -19504,9 +17810,7 @@ window.QUALIDADE_CANA_DATA = [
     "Responsável": " Antonio ",
     "Quantidade de Cana": "BOM",
     "Observações": null,
-    "Fazenda": null,
-    "Observações ": null,
-    "Unnamed: 19": null
+    "Fazenda": null
   },
   {
     "ID": "3590387",
@@ -19527,9 +17831,7 @@ window.QUALIDADE_CANA_DATA = [
     "Responsável": "NILDA CLAUDINO [2510716]",
     "Quantidade de Cana": "BOM",
     "Observações": null,
-    "Fazenda": null,
-    "Observações ": null,
-    "Unnamed: 19": null
+    "Fazenda": null
   },
   {
     "ID": "3590386",
@@ -19550,9 +17852,7 @@ window.QUALIDADE_CANA_DATA = [
     "Responsável": "NILDA CLAUDINO [2510716]",
     "Quantidade de Cana": "BOM",
     "Observações": null,
-    "Fazenda": null,
-    "Observações ": null,
-    "Unnamed: 19": null
+    "Fazenda": null
   },
   {
     "ID": "3590385",
@@ -19573,9 +17873,7 @@ window.QUALIDADE_CANA_DATA = [
     "Responsável": "NILDA CLAUDINO [2510716]",
     "Quantidade de Cana": "BOM",
     "Observações": null,
-    "Fazenda": null,
-    "Observações ": null,
-    "Unnamed: 19": null
+    "Fazenda": null
   },
   {
     "ID": "3590592",
@@ -19596,9 +17894,7 @@ window.QUALIDADE_CANA_DATA = [
     "Responsável": " Antonio ",
     "Quantidade de Cana": "BOM",
     "Observações": null,
-    "Fazenda": null,
-    "Observações ": null,
-    "Unnamed: 19": null
+    "Fazenda": null
   },
   {
     "ID": "3590587",
@@ -19619,9 +17915,7 @@ window.QUALIDADE_CANA_DATA = [
     "Responsável": " Antonio ",
     "Quantidade de Cana": "BOM",
     "Observações": null,
-    "Fazenda": null,
-    "Observações ": null,
-    "Unnamed: 19": null
+    "Fazenda": null
   },
   {
     "ID": "3590427",
@@ -19642,9 +17936,7 @@ window.QUALIDADE_CANA_DATA = [
     "Responsável": "REGINALDO DA SILVA GOMES ",
     "Quantidade de Cana": "BOM",
     "Observações": null,
-    "Fazenda": null,
-    "Observações ": null,
-    "Unnamed: 19": null
+    "Fazenda": null
   },
   {
     "ID": "3591082",
@@ -19665,9 +17957,7 @@ window.QUALIDADE_CANA_DATA = [
     "Responsável": "MICHELI DE SOUZA SANTOS  ",
     "Quantidade de Cana": "BOM",
     "Observações": null,
-    "Fazenda": null,
-    "Observações ": null,
-    "Unnamed: 19": null
+    "Fazenda": null
   },
   {
     "ID": "3591081",
@@ -19688,9 +17978,7 @@ window.QUALIDADE_CANA_DATA = [
     "Responsável": "MICHELI DE SOUZA SANTOS  ",
     "Quantidade de Cana": "BOM",
     "Observações": null,
-    "Fazenda": null,
-    "Observações ": null,
-    "Unnamed: 19": null
+    "Fazenda": null
   },
   {
     "ID": "3591080",
@@ -19711,9 +17999,7 @@ window.QUALIDADE_CANA_DATA = [
     "Responsável": "MICHELI DE SOUZA SANTOS  ",
     "Quantidade de Cana": "BOM",
     "Observações": null,
-    "Fazenda": null,
-    "Observações ": null,
-    "Unnamed: 19": null
+    "Fazenda": null
   },
   {
     "ID": "3591079",
@@ -19734,9 +18020,7 @@ window.QUALIDADE_CANA_DATA = [
     "Responsável": "MICHELI DE SOUZA SANTOS  ",
     "Quantidade de Cana": "BOM",
     "Observações": null,
-    "Fazenda": null,
-    "Observações ": null,
-    "Unnamed: 19": null
+    "Fazenda": null
   },
   {
     "ID": "3591078",
@@ -19757,9 +18041,7 @@ window.QUALIDADE_CANA_DATA = [
     "Responsável": "MICHELI DE SOUZA SANTOS  ",
     "Quantidade de Cana": "BOM",
     "Observações": null,
-    "Fazenda": null,
-    "Observações ": null,
-    "Unnamed: 19": null
+    "Fazenda": null
   },
   {
     "ID": "3591077",
@@ -19780,9 +18062,7 @@ window.QUALIDADE_CANA_DATA = [
     "Responsável": "MICHELI DE SOUZA SANTOS  ",
     "Quantidade de Cana": "BOM",
     "Observações": null,
-    "Fazenda": null,
-    "Observações ": null,
-    "Unnamed: 19": null
+    "Fazenda": null
   },
   {
     "ID": "3590422",
@@ -19803,9 +18083,7 @@ window.QUALIDADE_CANA_DATA = [
     "Responsável": "REGINALDO DA SILVA GOMES ",
     "Quantidade de Cana": "BOM",
     "Observações": null,
-    "Fazenda": null,
-    "Observações ": null,
-    "Unnamed: 19": null
+    "Fazenda": null
   },
   {
     "ID": "3590417",
@@ -19826,9 +18104,7 @@ window.QUALIDADE_CANA_DATA = [
     "Responsável": "REGINALDO DA SILVA GOMES ",
     "Quantidade de Cana": "BOM",
     "Observações": null,
-    "Fazenda": null,
-    "Observações ": null,
-    "Unnamed: 19": null
+    "Fazenda": null
   },
   {
     "ID": "3591208",
@@ -19849,9 +18125,7 @@ window.QUALIDADE_CANA_DATA = [
     "Responsável": "VITOR AMORIM RAMOS ",
     "Quantidade de Cana": "BOM",
     "Observações": null,
-    "Fazenda": null,
-    "Observações ": null,
-    "Unnamed: 19": null
+    "Fazenda": null
   },
   {
     "ID": "3590412",
@@ -19872,9 +18146,7 @@ window.QUALIDADE_CANA_DATA = [
     "Responsável": "REGINALDO DA SILVA GOMES ",
     "Quantidade de Cana": "BOM",
     "Observações": null,
-    "Fazenda": null,
-    "Observações ": null,
-    "Unnamed: 19": null
+    "Fazenda": null
   },
   {
     "ID": "3591145",
@@ -19895,9 +18167,7 @@ window.QUALIDADE_CANA_DATA = [
     "Responsável": "VITOR AMORIM RAMOS ",
     "Quantidade de Cana": "BOM",
     "Observações": null,
-    "Fazenda": null,
-    "Observações ": null,
-    "Unnamed: 19": null
+    "Fazenda": null
   },
   {
     "ID": "3591140",
@@ -19918,9 +18188,7 @@ window.QUALIDADE_CANA_DATA = [
     "Responsável": "VITOR AMORIM RAMOS ",
     "Quantidade de Cana": "BOM",
     "Observações": null,
-    "Fazenda": null,
-    "Observações ": null,
-    "Unnamed: 19": null
+    "Fazenda": null
   },
   {
     "ID": "3590407",
@@ -19941,9 +18209,7 @@ window.QUALIDADE_CANA_DATA = [
     "Responsável": "REGINALDO DA SILVA GOMES ",
     "Quantidade de Cana": "BOM",
     "Observações": null,
-    "Fazenda": null,
-    "Observações ": null,
-    "Unnamed: 19": null
+    "Fazenda": null
   },
   {
     "ID": "3591134",
@@ -19964,9 +18230,7 @@ window.QUALIDADE_CANA_DATA = [
     "Responsável": "VITOR AMORIM RAMOS ",
     "Quantidade de Cana": "BOM",
     "Observações": null,
-    "Fazenda": null,
-    "Observações ": null,
-    "Unnamed: 19": null
+    "Fazenda": null
   },
   {
     "ID": "3591105",
@@ -19987,9 +18251,7 @@ window.QUALIDADE_CANA_DATA = [
     "Responsável": "Leonardo Ribeiro Teixeira da Silva",
     "Quantidade de Cana": "BOM",
     "Observações": null,
-    "Fazenda": null,
-    "Observações ": null,
-    "Unnamed: 19": null
+    "Fazenda": null
   },
   {
     "ID": "3591104",
@@ -20010,9 +18272,7 @@ window.QUALIDADE_CANA_DATA = [
     "Responsável": "Leonardo Ribeiro Teixeira da Silva",
     "Quantidade de Cana": "BOM",
     "Observações": null,
-    "Fazenda": null,
-    "Observações ": null,
-    "Unnamed: 19": null
+    "Fazenda": null
   },
   {
     "ID": "3590400",
@@ -20033,9 +18293,7 @@ window.QUALIDADE_CANA_DATA = [
     "Responsável": "REGINALDO DA SILVA GOMES ",
     "Quantidade de Cana": "BOM",
     "Observações": null,
-    "Fazenda": null,
-    "Observações ": null,
-    "Unnamed: 19": null
+    "Fazenda": null
   },
   {
     "ID": "3591129",
@@ -20056,9 +18314,7 @@ window.QUALIDADE_CANA_DATA = [
     "Responsável": "VITOR AMORIM RAMOS ",
     "Quantidade de Cana": "BOM",
     "Observações": null,
-    "Fazenda": null,
-    "Observações ": null,
-    "Unnamed: 19": null
+    "Fazenda": null
   },
   {
     "ID": "3591123",
@@ -20079,9 +18335,7 @@ window.QUALIDADE_CANA_DATA = [
     "Responsável": "VITOR AMORIM RAMOS ",
     "Quantidade de Cana": "BOM",
     "Observações": null,
-    "Fazenda": null,
-    "Observações ": null,
-    "Unnamed: 19": null
+    "Fazenda": null
   },
   {
     "ID": "3590338",
@@ -20102,9 +18356,7 @@ window.QUALIDADE_CANA_DATA = [
     "Responsável": "NILDA CLAUDINO [2510716]",
     "Quantidade de Cana": "BOM",
     "Observações": null,
-    "Fazenda": null,
-    "Observações ": null,
-    "Unnamed: 19": null
+    "Fazenda": null
   },
   {
     "ID": "3590337",
@@ -20125,9 +18377,7 @@ window.QUALIDADE_CANA_DATA = [
     "Responsável": "NILDA CLAUDINO [2510716]",
     "Quantidade de Cana": "BOM",
     "Observações": null,
-    "Fazenda": null,
-    "Observações ": null,
-    "Unnamed: 19": null
+    "Fazenda": null
   },
   {
     "ID": "3591009",
@@ -20148,9 +18398,7 @@ window.QUALIDADE_CANA_DATA = [
     "Responsável": "Ruan Alexandre Lopes",
     "Quantidade de Cana": "BOM",
     "Observações": null,
-    "Fazenda": null,
-    "Observações ": null,
-    "Unnamed: 19": null
+    "Fazenda": null
   },
   {
     "ID": "3591004",
@@ -20171,9 +18419,7 @@ window.QUALIDADE_CANA_DATA = [
     "Responsável": "Ruan Alexandre Lopes",
     "Quantidade de Cana": "BOM",
     "Observações": null,
-    "Fazenda": null,
-    "Observações ": null,
-    "Unnamed: 19": null
+    "Fazenda": null
   },
   {
     "ID": "3590997",
@@ -20194,9 +18440,7 @@ window.QUALIDADE_CANA_DATA = [
     "Responsável": "Ruan Alexandre Lopes",
     "Quantidade de Cana": "BOM",
     "Observações": null,
-    "Fazenda": null,
-    "Observações ": null,
-    "Unnamed: 19": null
+    "Fazenda": null
   },
   {
     "ID": "3590990",
@@ -20217,9 +18461,7 @@ window.QUALIDADE_CANA_DATA = [
     "Responsável": "Ruan Alexandre Lopes",
     "Quantidade de Cana": "BOM",
     "Observações": null,
-    "Fazenda": null,
-    "Observações ": null,
-    "Unnamed: 19": null
+    "Fazenda": null
   },
   {
     "ID": "3590984",
@@ -20240,9 +18482,7 @@ window.QUALIDADE_CANA_DATA = [
     "Responsável": "Ruan Alexandre Lopes",
     "Quantidade de Cana": "BOM",
     "Observações": null,
-    "Fazenda": null,
-    "Observações ": null,
-    "Unnamed: 19": null
+    "Fazenda": null
   },
   {
     "ID": "3590983",
@@ -20263,9 +18503,7 @@ window.QUALIDADE_CANA_DATA = [
     "Responsável": "Leonardo Ribeiro Teixeira da Silva",
     "Quantidade de Cana": "BOM",
     "Observações": null,
-    "Fazenda": null,
-    "Observações ": null,
-    "Unnamed: 19": null
+    "Fazenda": null
   },
   {
     "ID": "3588337",
@@ -20286,9 +18524,7 @@ window.QUALIDADE_CANA_DATA = [
     "Responsável": "REGINALDO DA SILVA GOMES ",
     "Quantidade de Cana": "BOM",
     "Observações": null,
-    "Fazenda": null,
-    "Observações ": null,
-    "Unnamed: 19": null
+    "Fazenda": null
   },
   {
     "ID": "3588332",
@@ -20309,9 +18545,7 @@ window.QUALIDADE_CANA_DATA = [
     "Responsável": "REGINALDO DA SILVA GOMES ",
     "Quantidade de Cana": "BOM",
     "Observações": null,
-    "Fazenda": null,
-    "Observações ": null,
-    "Unnamed: 19": null
+    "Fazenda": null
   },
   {
     "ID": "3588326",
@@ -20332,9 +18566,7 @@ window.QUALIDADE_CANA_DATA = [
     "Responsável": "REGINALDO DA SILVA GOMES ",
     "Quantidade de Cana": "BOM",
     "Observações": null,
-    "Fazenda": null,
-    "Observações ": null,
-    "Unnamed: 19": null
+    "Fazenda": null
   },
   {
     "ID": "3587859",
@@ -20355,9 +18587,7 @@ window.QUALIDADE_CANA_DATA = [
     "Responsável": "VITOR AMORIM RAMOS ",
     "Quantidade de Cana": "BOM",
     "Observações": null,
-    "Fazenda": null,
-    "Observações ": null,
-    "Unnamed: 19": null
+    "Fazenda": null
   },
   {
     "ID": "3588609",
@@ -20378,9 +18608,7 @@ window.QUALIDADE_CANA_DATA = [
     "Responsável": "MARCELO DE OLIVEIRA JUNIOR",
     "Quantidade de Cana": "BOM",
     "Observações": null,
-    "Fazenda": null,
-    "Observações ": null,
-    "Unnamed: 19": null
+    "Fazenda": null
   },
   {
     "ID": "3587854",
@@ -20401,9 +18629,7 @@ window.QUALIDADE_CANA_DATA = [
     "Responsável": "VITOR AMORIM RAMOS ",
     "Quantidade de Cana": "BOM",
     "Observações": null,
-    "Fazenda": null,
-    "Observações ": null,
-    "Unnamed: 19": null
+    "Fazenda": null
   },
   {
     "ID": "3587853",
@@ -20424,9 +18650,7 @@ window.QUALIDADE_CANA_DATA = [
     "Responsável": "VITOR AMORIM RAMOS ",
     "Quantidade de Cana": "BOM",
     "Observações": null,
-    "Fazenda": null,
-    "Observações ": null,
-    "Unnamed: 19": null
+    "Fazenda": null
   },
   {
     "ID": "3588569",
@@ -20447,9 +18671,7 @@ window.QUALIDADE_CANA_DATA = [
     "Responsável": "MARCELO DE OLIVEIRA JUNIOR",
     "Quantidade de Cana": "BOM",
     "Observações": null,
-    "Fazenda": null,
-    "Observações ": null,
-    "Unnamed: 19": null
+    "Fazenda": null
   },
   {
     "ID": "3587843",
@@ -20470,9 +18692,7 @@ window.QUALIDADE_CANA_DATA = [
     "Responsável": "VITOR AMORIM RAMOS ",
     "Quantidade de Cana": "BOM",
     "Observações": null,
-    "Fazenda": null,
-    "Observações ": null,
-    "Unnamed: 19": null
+    "Fazenda": null
   },
   {
     "ID": "3587834",
@@ -20493,9 +18713,7 @@ window.QUALIDADE_CANA_DATA = [
     "Responsável": "VITOR AMORIM RAMOS ",
     "Quantidade de Cana": "BOM",
     "Observações": null,
-    "Fazenda": null,
-    "Observações ": null,
-    "Unnamed: 19": null
+    "Fazenda": null
   },
   {
     "ID": "3587829",
@@ -20516,9 +18734,7 @@ window.QUALIDADE_CANA_DATA = [
     "Responsável": "VITOR AMORIM RAMOS ",
     "Quantidade de Cana": "BOM",
     "Observações": null,
-    "Fazenda": null,
-    "Observações ": null,
-    "Unnamed: 19": null
+    "Fazenda": null
   },
   {
     "ID": "3588508",
@@ -20539,9 +18755,7 @@ window.QUALIDADE_CANA_DATA = [
     "Responsável": "MARCELO DE OLIVEIRA JUNIOR",
     "Quantidade de Cana": "BOM",
     "Observações": null,
-    "Fazenda": null,
-    "Observações ": null,
-    "Unnamed: 19": null
+    "Fazenda": null
   },
   {
     "ID": "3588503",
@@ -20562,9 +18776,7 @@ window.QUALIDADE_CANA_DATA = [
     "Responsável": "MARCELO DE OLIVEIRA JUNIOR",
     "Quantidade de Cana": "BOM",
     "Observações": null,
-    "Fazenda": null,
-    "Observações ": null,
-    "Unnamed: 19": null
+    "Fazenda": null
   },
   {
     "ID": "3588495",
@@ -20585,9 +18797,7 @@ window.QUALIDADE_CANA_DATA = [
     "Responsável": "MARCELO DE OLIVEIRA JUNIOR",
     "Quantidade de Cana": "BOM",
     "Observações": null,
-    "Fazenda": null,
-    "Observações ": null,
-    "Unnamed: 19": null
+    "Fazenda": null
   },
   {
     "ID": "3588317",
@@ -20608,9 +18818,7 @@ window.QUALIDADE_CANA_DATA = [
     "Responsável": "REGINALDO DA SILVA GOMES ",
     "Quantidade de Cana": "BOM",
     "Observações": null,
-    "Fazenda": null,
-    "Observações ": null,
-    "Unnamed: 19": null
+    "Fazenda": null
   },
   {
     "ID": "3587230",
@@ -20631,9 +18839,7 @@ window.QUALIDADE_CANA_DATA = [
     "Responsável": "MICHELI DE SOUZA SANTOS  ",
     "Quantidade de Cana": "BOM",
     "Observações": null,
-    "Fazenda": null,
-    "Observações ": null,
-    "Unnamed: 19": null
+    "Fazenda": null
   },
   {
     "ID": "3588313",
@@ -20654,9 +18860,7 @@ window.QUALIDADE_CANA_DATA = [
     "Responsável": "REGINALDO DA SILVA GOMES ",
     "Quantidade de Cana": "BOM",
     "Observações": null,
-    "Fazenda": null,
-    "Observações ": null,
-    "Unnamed: 19": null
+    "Fazenda": null
   },
   {
     "ID": "3587229",
@@ -20677,9 +18881,7 @@ window.QUALIDADE_CANA_DATA = [
     "Responsável": "MABILA HELEN D FIGUEIREDO",
     "Quantidade de Cana": "BOM",
     "Observações": null,
-    "Fazenda": null,
-    "Observações ": null,
-    "Unnamed: 19": null
+    "Fazenda": null
   },
   {
     "ID": "3588309",
@@ -20700,9 +18902,7 @@ window.QUALIDADE_CANA_DATA = [
     "Responsável": "REGINALDO DA SILVA GOMES ",
     "Quantidade de Cana": "BOM",
     "Observações": null,
-    "Fazenda": null,
-    "Observações ": null,
-    "Unnamed: 19": null
+    "Fazenda": null
   },
   {
     "ID": "3587224",
@@ -20723,9 +18923,7 @@ window.QUALIDADE_CANA_DATA = [
     "Responsável": "MABILA HELEN D FIGUEIREDO",
     "Quantidade de Cana": "BOM",
     "Observações": null,
-    "Fazenda": null,
-    "Observações ": null,
-    "Unnamed: 19": null
+    "Fazenda": null
   },
   {
     "ID": "3587218",
@@ -20746,9 +18944,7 @@ window.QUALIDADE_CANA_DATA = [
     "Responsável": "MABILA HELEN D FIGUEIREDO",
     "Quantidade de Cana": "BOM",
     "Observações": null,
-    "Fazenda": null,
-    "Observações ": null,
-    "Unnamed: 19": null
+    "Fazenda": null
   },
   {
     "ID": "3587213",
@@ -20769,9 +18965,7 @@ window.QUALIDADE_CANA_DATA = [
     "Responsável": "MABILA HELEN D FIGUEIREDO",
     "Quantidade de Cana": "BOM",
     "Observações": null,
-    "Fazenda": null,
-    "Observações ": null,
-    "Unnamed: 19": null
+    "Fazenda": null
   },
   {
     "ID": "3587203",
@@ -20792,9 +18986,7 @@ window.QUALIDADE_CANA_DATA = [
     "Responsável": "MABILA HELEN D FIGUEIREDO",
     "Quantidade de Cana": "BOM",
     "Observações": null,
-    "Fazenda": null,
-    "Observações ": null,
-    "Unnamed: 19": null
+    "Fazenda": null
   },
   {
     "ID": "3588302",
@@ -20815,9 +19007,7 @@ window.QUALIDADE_CANA_DATA = [
     "Responsável": "REGINALDO DA SILVA GOMES ",
     "Quantidade de Cana": "BOM",
     "Observações": null,
-    "Fazenda": null,
-    "Observações ": null,
-    "Unnamed: 19": null
+    "Fazenda": null
   },
   {
     "ID": "3588296",
@@ -20838,9 +19028,7 @@ window.QUALIDADE_CANA_DATA = [
     "Responsável": "REGINALDO DA SILVA GOMES ",
     "Quantidade de Cana": "BOM",
     "Observações": null,
-    "Fazenda": null,
-    "Observações ": null,
-    "Unnamed: 19": null
+    "Fazenda": null
   },
   {
     "ID": "3588282",
@@ -20861,9 +19049,7 @@ window.QUALIDADE_CANA_DATA = [
     "Responsável": "REGINALDO DA SILVA GOMES ",
     "Quantidade de Cana": "BOM",
     "Observações": null,
-    "Fazenda": null,
-    "Observações ": null,
-    "Unnamed: 19": null
+    "Fazenda": null
   },
   {
     "ID": "3588484",
@@ -20884,9 +19070,7 @@ window.QUALIDADE_CANA_DATA = [
     "Responsável": "MARCELO DE OLIVEIRA JUNIOR",
     "Quantidade de Cana": "BOM",
     "Observações": null,
-    "Fazenda": null,
-    "Observações ": null,
-    "Unnamed: 19": null
+    "Fazenda": null
   },
   {
     "ID": "3587928",
@@ -20907,9 +19091,7 @@ window.QUALIDADE_CANA_DATA = [
     "Responsável": "Leonardo Ribeiro Teixeira da Silva",
     "Quantidade de Cana": "BOM",
     "Observações": null,
-    "Fazenda": null,
-    "Observações ": null,
-    "Unnamed: 19": null
+    "Fazenda": null
   },
   {
     "ID": "3588478",
@@ -20930,9 +19112,7 @@ window.QUALIDADE_CANA_DATA = [
     "Responsável": "MARCELO DE OLIVEIRA JUNIOR",
     "Quantidade de Cana": "BOM",
     "Observações": null,
-    "Fazenda": null,
-    "Observações ": null,
-    "Unnamed: 19": null
+    "Fazenda": null
   },
   {
     "ID": "3588470",
@@ -20953,9 +19133,7 @@ window.QUALIDADE_CANA_DATA = [
     "Responsável": "MARCELO DE OLIVEIRA JUNIOR",
     "Quantidade de Cana": "BOM",
     "Observações": null,
-    "Fazenda": null,
-    "Observações ": null,
-    "Unnamed: 19": null
+    "Fazenda": null
   },
   {
     "ID": "3587923",
@@ -20976,9 +19154,7 @@ window.QUALIDADE_CANA_DATA = [
     "Responsável": "Leonardo Ribeiro Teixeira da Silva",
     "Quantidade de Cana": "BOM",
     "Observações": null,
-    "Fazenda": null,
-    "Observações ": null,
-    "Unnamed: 19": null
+    "Fazenda": null
   },
   {
     "ID": "3587922",
@@ -20999,9 +19175,7 @@ window.QUALIDADE_CANA_DATA = [
     "Responsável": "Leonardo Ribeiro Teixeira da Silva",
     "Quantidade de Cana": "BOM",
     "Observações": null,
-    "Fazenda": null,
-    "Observações ": null,
-    "Unnamed: 19": null
+    "Fazenda": null
   },
   {
     "ID": "3587049",
@@ -21022,9 +19196,7 @@ window.QUALIDADE_CANA_DATA = [
     "Responsável": "VITOR AMORIM RAMOS ",
     "Quantidade de Cana": "BOM",
     "Observações": null,
-    "Fazenda": null,
-    "Observações ": null,
-    "Unnamed: 19": null
+    "Fazenda": null
   },
   {
     "ID": "3587198",
@@ -21045,9 +19217,7 @@ window.QUALIDADE_CANA_DATA = [
     "Responsável": "MICHELI DE SOUZA SANTOS  ",
     "Quantidade de Cana": "BOM",
     "Observações": null,
-    "Fazenda": null,
-    "Observações ": null,
-    "Unnamed: 19": null
+    "Fazenda": null
   },
   {
     "ID": "3587909",
@@ -21068,9 +19238,7 @@ window.QUALIDADE_CANA_DATA = [
     "Responsável": "Ruan Alexandre Lopes",
     "Quantidade de Cana": "BOM",
     "Observações": null,
-    "Fazenda": null,
-    "Observações ": null,
-    "Unnamed: 19": null
+    "Fazenda": null
   },
   {
     "ID": "3587044",
@@ -21091,9 +19259,7 @@ window.QUALIDADE_CANA_DATA = [
     "Responsável": "VITOR AMORIM RAMOS ",
     "Quantidade de Cana": "BOM",
     "Observações": null,
-    "Fazenda": null,
-    "Observações ": null,
-    "Unnamed: 19": null
+    "Fazenda": null
   },
   {
     "ID": "3587193",
@@ -21114,9 +19280,7 @@ window.QUALIDADE_CANA_DATA = [
     "Responsável": "MICHELI DE SOUZA SANTOS  ",
     "Quantidade de Cana": "BOM",
     "Observações": null,
-    "Fazenda": null,
-    "Observações ": null,
-    "Unnamed: 19": null
+    "Fazenda": null
   },
   {
     "ID": "3587039",
@@ -21137,9 +19301,7 @@ window.QUALIDADE_CANA_DATA = [
     "Responsável": "VITOR AMORIM RAMOS ",
     "Quantidade de Cana": "BOM",
     "Observações": null,
-    "Fazenda": null,
-    "Observações ": null,
-    "Unnamed: 19": null
+    "Fazenda": null
   },
   {
     "ID": "3587901",
@@ -21160,9 +19322,7 @@ window.QUALIDADE_CANA_DATA = [
     "Responsável": "Ruan Alexandre Lopes",
     "Quantidade de Cana": "BOM",
     "Observações": null,
-    "Fazenda": null,
-    "Observações ": null,
-    "Unnamed: 19": null
+    "Fazenda": null
   },
   {
     "ID": "3587187",
@@ -21183,9 +19343,7 @@ window.QUALIDADE_CANA_DATA = [
     "Responsável": "MICHELI DE SOUZA SANTOS  ",
     "Quantidade de Cana": "BOM",
     "Observações": null,
-    "Fazenda": null,
-    "Observações ": null,
-    "Unnamed: 19": null
+    "Fazenda": null
   },
   {
     "ID": "3588456",
@@ -21206,9 +19364,7 @@ window.QUALIDADE_CANA_DATA = [
     "Responsável": "MARCELO DE OLIVEIRA JUNIOR",
     "Quantidade de Cana": "BOM",
     "Observações": null,
-    "Fazenda": null,
-    "Observações ": null,
-    "Unnamed: 19": null
+    "Fazenda": null
   },
   {
     "ID": "3587713",
@@ -21229,9 +19385,7 @@ window.QUALIDADE_CANA_DATA = [
     "Responsável": "GABRIEL HENRIQUE MARTINS PEREIRA",
     "Quantidade de Cana": "BOM",
     "Observações": null,
-    "Fazenda": null,
-    "Observações ": null,
-    "Unnamed: 19": null
+    "Fazenda": null
   },
   {
     "ID": "3587034",
@@ -21252,9 +19406,7 @@ window.QUALIDADE_CANA_DATA = [
     "Responsável": "VITOR AMORIM RAMOS ",
     "Quantidade de Cana": "BOM",
     "Observações": null,
-    "Fazenda": null,
-    "Observações ": null,
-    "Unnamed: 19": null
+    "Fazenda": null
   },
   {
     "ID": "3588454",
@@ -21275,9 +19427,7 @@ window.QUALIDADE_CANA_DATA = [
     "Responsável": "MARCELO DE OLIVEIRA JUNIOR",
     "Quantidade de Cana": "BOM",
     "Observações": null,
-    "Fazenda": null,
-    "Observações ": null,
-    "Unnamed: 19": null
+    "Fazenda": null
   },
   {
     "ID": "3587182",
@@ -21298,9 +19448,7 @@ window.QUALIDADE_CANA_DATA = [
     "Responsável": "MICHELI DE SOUZA SANTOS  ",
     "Quantidade de Cana": "BOM",
     "Observações": null,
-    "Fazenda": null,
-    "Observações ": null,
-    "Unnamed: 19": null
+    "Fazenda": null
   },
   {
     "ID": "3587029",
@@ -21321,9 +19469,7 @@ window.QUALIDADE_CANA_DATA = [
     "Responsável": "VITOR AMORIM RAMOS ",
     "Quantidade de Cana": "BOM",
     "Observações": null,
-    "Fazenda": null,
-    "Observações ": null,
-    "Unnamed: 19": null
+    "Fazenda": null
   },
   {
     "ID": "3587177",
@@ -21344,9 +19490,7 @@ window.QUALIDADE_CANA_DATA = [
     "Responsável": "MICHELI DE SOUZA SANTOS  ",
     "Quantidade de Cana": "BOM",
     "Observações": null,
-    "Fazenda": null,
-    "Observações ": null,
-    "Unnamed: 19": null
+    "Fazenda": null
   },
   {
     "ID": "3587402",
@@ -21367,9 +19511,7 @@ window.QUALIDADE_CANA_DATA = [
     "Responsável": "GABRIEL HENRIQUE MARTINS PEREIRA",
     "Quantidade de Cana": "BOM",
     "Observações": null,
-    "Fazenda": null,
-    "Observações ": null,
-    "Unnamed: 19": null
+    "Fazenda": null
   },
   {
     "ID": "3588449",
@@ -21390,9 +19532,7 @@ window.QUALIDADE_CANA_DATA = [
     "Responsável": "MARCELO DE OLIVEIRA JUNIOR",
     "Quantidade de Cana": "BOM",
     "Observações": null,
-    "Fazenda": null,
-    "Observações ": null,
-    "Unnamed: 19": null
+    "Fazenda": null
   },
   {
     "ID": "3587171",
@@ -21413,9 +19553,7 @@ window.QUALIDADE_CANA_DATA = [
     "Responsável": "MICHELI DE SOUZA SANTOS  ",
     "Quantidade de Cana": "BOM",
     "Observações": null,
-    "Fazenda": null,
-    "Observações ": null,
-    "Unnamed: 19": null
+    "Fazenda": null
   },
   {
     "ID": "3587397",
@@ -21436,9 +19574,7 @@ window.QUALIDADE_CANA_DATA = [
     "Responsável": "GABRIEL HENRIQUE MARTINS PEREIRA",
     "Quantidade de Cana": "BOM",
     "Observações": null,
-    "Fazenda": null,
-    "Observações ": null,
-    "Unnamed: 19": null
+    "Fazenda": null
   },
   {
     "ID": "3588444",
@@ -21459,9 +19595,7 @@ window.QUALIDADE_CANA_DATA = [
     "Responsável": "MARCELO DE OLIVEIRA JUNIOR",
     "Quantidade de Cana": "BOM",
     "Observações": null,
-    "Fazenda": null,
-    "Observações ": null,
-    "Unnamed: 19": null
+    "Fazenda": null
   },
   {
     "ID": "3587166",
@@ -21482,9 +19616,7 @@ window.QUALIDADE_CANA_DATA = [
     "Responsável": "MICHELI DE SOUZA SANTOS  ",
     "Quantidade de Cana": "BOM",
     "Observações": null,
-    "Fazenda": null,
-    "Observações ": null,
-    "Unnamed: 19": null
+    "Fazenda": null
   },
   {
     "ID": "3584477",
@@ -21505,9 +19637,7 @@ window.QUALIDADE_CANA_DATA = [
     "Responsável": "REGINALDO DA SILVA GOMES ",
     "Quantidade de Cana": "BOM",
     "Observações": null,
-    "Fazenda": null,
-    "Observações ": null,
-    "Unnamed: 19": null
+    "Fazenda": null
   },
   {
     "ID": "3584473",
@@ -21528,9 +19658,7 @@ window.QUALIDADE_CANA_DATA = [
     "Responsável": "REGINALDO DA SILVA GOMES ",
     "Quantidade de Cana": "BOM",
     "Observações": null,
-    "Fazenda": null,
-    "Observações ": null,
-    "Unnamed: 19": null
+    "Fazenda": null
   },
   {
     "ID": "3584466",
@@ -21551,9 +19679,7 @@ window.QUALIDADE_CANA_DATA = [
     "Responsável": "REGINALDO DA SILVA GOMES ",
     "Quantidade de Cana": "BOM",
     "Observações": null,
-    "Fazenda": null,
-    "Observações ": null,
-    "Unnamed: 19": null
+    "Fazenda": null
   },
   {
     "ID": "3584461",
@@ -21574,9 +19700,7 @@ window.QUALIDADE_CANA_DATA = [
     "Responsável": "REGINALDO DA SILVA GOMES ",
     "Quantidade de Cana": "BOM",
     "Observações": null,
-    "Fazenda": null,
-    "Observações ": null,
-    "Unnamed: 19": null
+    "Fazenda": null
   },
   {
     "ID": "3584457",
@@ -21597,9 +19721,7 @@ window.QUALIDADE_CANA_DATA = [
     "Responsável": "REGINALDO DA SILVA GOMES ",
     "Quantidade de Cana": "BOM",
     "Observações": null,
-    "Fazenda": null,
-    "Observações ": null,
-    "Unnamed: 19": null
+    "Fazenda": null
   },
   {
     "ID": "3584218",
@@ -21620,9 +19742,7 @@ window.QUALIDADE_CANA_DATA = [
     "Responsável": "Leonardo Ribeiro Teixeira da Silva",
     "Quantidade de Cana": "BOM",
     "Observações": null,
-    "Fazenda": null,
-    "Observações ": null,
-    "Unnamed: 19": null
+    "Fazenda": null
   },
   {
     "ID": "3584217",
@@ -21643,9 +19763,7 @@ window.QUALIDADE_CANA_DATA = [
     "Responsável": "Leonardo Ribeiro Teixeira da Silva",
     "Quantidade de Cana": "BOM",
     "Observações": null,
-    "Fazenda": null,
-    "Observações ": null,
-    "Unnamed: 19": null
+    "Fazenda": null
   },
   {
     "ID": "3584216",
@@ -21666,9 +19784,7 @@ window.QUALIDADE_CANA_DATA = [
     "Responsável": "Leonardo Ribeiro Teixeira da Silva",
     "Quantidade de Cana": "BOM",
     "Observações": null,
-    "Fazenda": null,
-    "Observações ": null,
-    "Unnamed: 19": null
+    "Fazenda": null
   },
   {
     "ID": "3585152",
@@ -21689,9 +19805,7 @@ window.QUALIDADE_CANA_DATA = [
     "Responsável": "GABRIEL HENRIQUE MARTINS PEREIRA",
     "Quantidade de Cana": "BOM",
     "Observações": null,
-    "Fazenda": null,
-    "Observações ": null,
-    "Unnamed: 19": null
+    "Fazenda": null
   },
   {
     "ID": "3584215",
@@ -21712,9 +19826,7 @@ window.QUALIDADE_CANA_DATA = [
     "Responsável": "Leonardo Ribeiro Teixeira da Silva",
     "Quantidade de Cana": "BOM",
     "Observações": null,
-    "Fazenda": null,
-    "Observações ": null,
-    "Unnamed: 19": null
+    "Fazenda": null
   },
   {
     "ID": "3585143",
@@ -21735,9 +19847,7 @@ window.QUALIDADE_CANA_DATA = [
     "Responsável": "GABRIEL HENRIQUE MARTINS PEREIRA",
     "Quantidade de Cana": "BOM",
     "Observações": null,
-    "Fazenda": null,
-    "Observações ": null,
-    "Unnamed: 19": null
+    "Fazenda": null
   },
   {
     "ID": "3585176",
@@ -21758,9 +19868,7 @@ window.QUALIDADE_CANA_DATA = [
     "Responsável": "VITOR AMORIM RAMOS ",
     "Quantidade de Cana": "BOM",
     "Observações": null,
-    "Fazenda": null,
-    "Observações ": null,
-    "Unnamed: 19": null
+    "Fazenda": null
   },
   {
     "ID": "3585172",
@@ -21781,9 +19889,7 @@ window.QUALIDADE_CANA_DATA = [
     "Responsável": "VITOR AMORIM RAMOS ",
     "Quantidade de Cana": "BOM",
     "Observações": null,
-    "Fazenda": null,
-    "Observações ": null,
-    "Unnamed: 19": null
+    "Fazenda": null
   },
   {
     "ID": "3585132",
@@ -21804,9 +19910,7 @@ window.QUALIDADE_CANA_DATA = [
     "Responsável": "GABRIEL HENRIQUE MARTINS PEREIRA",
     "Quantidade de Cana": "BOM",
     "Observações": null,
-    "Fazenda": null,
-    "Observações ": null,
-    "Unnamed: 19": null
+    "Fazenda": null
   },
   {
     "ID": "3585160",
@@ -21827,9 +19931,7 @@ window.QUALIDADE_CANA_DATA = [
     "Responsável": "VITOR AMORIM RAMOS ",
     "Quantidade de Cana": "BOM",
     "Observações": null,
-    "Fazenda": null,
-    "Observações ": null,
-    "Unnamed: 19": null
+    "Fazenda": null
   },
   {
     "ID": "3586267",
@@ -21850,9 +19952,7 @@ window.QUALIDADE_CANA_DATA = [
     "Responsável": "MICHELI DE SOUZA SANTOS  ",
     "Quantidade de Cana": "BOM",
     "Observações": null,
-    "Fazenda": null,
-    "Observações ": null,
-    "Unnamed: 19": null
+    "Fazenda": null
   },
   {
     "ID": "3586262",
@@ -21873,9 +19973,7 @@ window.QUALIDADE_CANA_DATA = [
     "Responsável": "MICHELI DE SOUZA SANTOS  ",
     "Quantidade de Cana": "BOM",
     "Observações": null,
-    "Fazenda": null,
-    "Observações ": null,
-    "Unnamed: 19": null
+    "Fazenda": null
   },
   {
     "ID": "3586257",
@@ -21896,9 +19994,7 @@ window.QUALIDADE_CANA_DATA = [
     "Responsável": "MICHELI DE SOUZA SANTOS  ",
     "Quantidade de Cana": "BOM",
     "Observações": null,
-    "Fazenda": null,
-    "Observações ": null,
-    "Unnamed: 19": null
+    "Fazenda": null
   },
   {
     "ID": "3581892",
@@ -21919,9 +20015,7 @@ window.QUALIDADE_CANA_DATA = [
     "Responsável": "MARCELO DE OLIVEIRA JUNIOR",
     "Quantidade de Cana": "BOM",
     "Observações": null,
-    "Fazenda": null,
-    "Observações ": null,
-    "Unnamed: 19": null
+    "Fazenda": null
   },
   {
     "ID": "3586252",
@@ -21942,9 +20036,7 @@ window.QUALIDADE_CANA_DATA = [
     "Responsável": "MICHELI DE SOUZA SANTOS  ",
     "Quantidade de Cana": "BOM",
     "Observações": null,
-    "Fazenda": null,
-    "Observações ": null,
-    "Unnamed: 19": null
+    "Fazenda": null
   },
   {
     "ID": "3586247",
@@ -21965,9 +20057,7 @@ window.QUALIDADE_CANA_DATA = [
     "Responsável": "MICHELI DE SOUZA SANTOS  ",
     "Quantidade de Cana": "BOM",
     "Observações": null,
-    "Fazenda": null,
-    "Observações ": null,
-    "Unnamed: 19": null
+    "Fazenda": null
   },
   {
     "ID": "3586241",
@@ -21988,9 +20078,7 @@ window.QUALIDADE_CANA_DATA = [
     "Responsável": "MICHELI DE SOUZA SANTOS  ",
     "Quantidade de Cana": "BOM",
     "Observações": null,
-    "Fazenda": null,
-    "Observações ": null,
-    "Unnamed: 19": null
+    "Fazenda": null
   },
   {
     "ID": "3586236",
@@ -22011,9 +20099,7 @@ window.QUALIDADE_CANA_DATA = [
     "Responsável": "MICHELI DE SOUZA SANTOS  ",
     "Quantidade de Cana": "BOM",
     "Observações": null,
-    "Fazenda": null,
-    "Observações ": null,
-    "Unnamed: 19": null
+    "Fazenda": null
   },
   {
     "ID": "3586231",
@@ -22034,9 +20120,7 @@ window.QUALIDADE_CANA_DATA = [
     "Responsável": "MICHELI DE SOUZA SANTOS  ",
     "Quantidade de Cana": "BOM",
     "Observações": null,
-    "Fazenda": null,
-    "Observações ": null,
-    "Unnamed: 19": null
+    "Fazenda": null
   },
   {
     "ID": "3586226",
@@ -22057,9 +20141,7 @@ window.QUALIDADE_CANA_DATA = [
     "Responsável": "MICHELI DE SOUZA SANTOS  ",
     "Quantidade de Cana": "BOM",
     "Observações": null,
-    "Fazenda": null,
-    "Observações ": null,
-    "Unnamed: 19": null
+    "Fazenda": null
   },
   {
     "ID": "3586221",
@@ -22080,9 +20162,7 @@ window.QUALIDADE_CANA_DATA = [
     "Responsável": "MICHELI DE SOUZA SANTOS  ",
     "Quantidade de Cana": "BOM",
     "Observações": null,
-    "Fazenda": null,
-    "Observações ": null,
-    "Unnamed: 19": null
+    "Fazenda": null
   },
   {
     "ID": "3584134",
@@ -22103,9 +20183,7 @@ window.QUALIDADE_CANA_DATA = [
     "Responsável": "VITOR AMORIM RAMOS ",
     "Quantidade de Cana": "BOM",
     "Observações": null,
-    "Fazenda": null,
-    "Observações ": null,
-    "Unnamed: 19": null
+    "Fazenda": null
   },
   {
     "ID": "3584129",
@@ -22126,9 +20204,7 @@ window.QUALIDADE_CANA_DATA = [
     "Responsável": "VITOR AMORIM RAMOS ",
     "Quantidade de Cana": "BOM",
     "Observações": null,
-    "Fazenda": null,
-    "Observações ": null,
-    "Unnamed: 19": null
+    "Fazenda": null
   },
   {
     "ID": "3586216",
@@ -22149,9 +20225,7 @@ window.QUALIDADE_CANA_DATA = [
     "Responsável": "MICHELI DE SOUZA SANTOS  ",
     "Quantidade de Cana": "BOM",
     "Observações": null,
-    "Fazenda": null,
-    "Observações ": null,
-    "Unnamed: 19": null
+    "Fazenda": null
   },
   {
     "ID": "3584124",
@@ -22172,9 +20246,7 @@ window.QUALIDADE_CANA_DATA = [
     "Responsável": "VITOR AMORIM RAMOS ",
     "Quantidade de Cana": "BOM",
     "Observações": null,
-    "Fazenda": null,
-    "Observações ": null,
-    "Unnamed: 19": null
+    "Fazenda": null
   },
   {
     "ID": "3584120",
@@ -22195,9 +20267,7 @@ window.QUALIDADE_CANA_DATA = [
     "Responsável": "VITOR AMORIM RAMOS ",
     "Quantidade de Cana": "BOM",
     "Observações": null,
-    "Fazenda": null,
-    "Observações ": null,
-    "Unnamed: 19": null
+    "Fazenda": null
   },
   {
     "ID": "3584079",
@@ -22218,9 +20288,7 @@ window.QUALIDADE_CANA_DATA = [
     "Responsável": "Leonardo Ribeiro Teixeira da Silva",
     "Quantidade de Cana": "BOM",
     "Observações": null,
-    "Fazenda": null,
-    "Observações ": null,
-    "Unnamed: 19": null
+    "Fazenda": null
   },
   {
     "ID": "3584078",
@@ -22241,9 +20309,7 @@ window.QUALIDADE_CANA_DATA = [
     "Responsável": "Leonardo Ribeiro Teixeira da Silva",
     "Quantidade de Cana": "BOM",
     "Observações": null,
-    "Fazenda": null,
-    "Observações ": null,
-    "Unnamed: 19": null
+    "Fazenda": null
   },
   {
     "ID": "3584115",
@@ -22264,9 +20330,7 @@ window.QUALIDADE_CANA_DATA = [
     "Responsável": "VITOR AMORIM RAMOS ",
     "Quantidade de Cana": "BOM",
     "Observações": null,
-    "Fazenda": null,
-    "Observações ": null,
-    "Unnamed: 19": null
+    "Fazenda": null
   },
   {
     "ID": "3584020",
@@ -22287,9 +20351,7 @@ window.QUALIDADE_CANA_DATA = [
     "Responsável": "VITOR AMORIM RAMOS ",
     "Quantidade de Cana": "BOM",
     "Observações": null,
-    "Fazenda": null,
-    "Observações ": null,
-    "Unnamed: 19": null
+    "Fazenda": null
   },
   {
     "ID": "3584014",
@@ -22310,9 +20372,7 @@ window.QUALIDADE_CANA_DATA = [
     "Responsável": "VITOR AMORIM RAMOS ",
     "Quantidade de Cana": "BOM",
     "Observações": null,
-    "Fazenda": null,
-    "Observações ": null,
-    "Unnamed: 19": null
+    "Fazenda": null
   },
   {
     "ID": "3585047",
@@ -22333,9 +20393,7 @@ window.QUALIDADE_CANA_DATA = [
     "Responsável": "NILDA CLAUDINO [2510716]",
     "Quantidade de Cana": "BOM",
     "Observações": null,
-    "Fazenda": null,
-    "Observações ": null,
-    "Unnamed: 19": null
+    "Fazenda": null
   },
   {
     "ID": "3585046",
@@ -22356,9 +20414,7 @@ window.QUALIDADE_CANA_DATA = [
     "Responsável": "NILDA CLAUDINO [2510716]",
     "Quantidade de Cana": "BOM",
     "Observações": null,
-    "Fazenda": null,
-    "Observações ": null,
-    "Unnamed: 19": null
+    "Fazenda": null
   },
   {
     "ID": "3584983",
@@ -22379,9 +20435,7 @@ window.QUALIDADE_CANA_DATA = [
     "Responsável": "NILDA CLAUDINO [2510716]",
     "Quantidade de Cana": "BOM",
     "Observações": null,
-    "Fazenda": null,
-    "Observações ": null,
-    "Unnamed: 19": null
+    "Fazenda": null
   },
   {
     "ID": "3584009",
@@ -22402,9 +20456,7 @@ window.QUALIDADE_CANA_DATA = [
     "Responsável": "VITOR AMORIM RAMOS ",
     "Quantidade de Cana": "BOM",
     "Observações": null,
-    "Fazenda": null,
-    "Observações ": null,
-    "Unnamed: 19": null
+    "Fazenda": null
   },
   {
     "ID": "3584004",
@@ -22425,9 +20477,7 @@ window.QUALIDADE_CANA_DATA = [
     "Responsável": "VITOR AMORIM RAMOS ",
     "Quantidade de Cana": "BOM",
     "Observações": null,
-    "Fazenda": null,
-    "Observações ": null,
-    "Unnamed: 19": null
+    "Fazenda": null
   },
   {
     "ID": "3584446",
@@ -22448,9 +20498,7 @@ window.QUALIDADE_CANA_DATA = [
     "Responsável": "REGINALDO DA SILVA GOMES ",
     "Quantidade de Cana": "BOM",
     "Observações": null,
-    "Fazenda": null,
-    "Observações ": null,
-    "Unnamed: 19": null
+    "Fazenda": null
   },
   {
     "ID": "3585188",
@@ -22471,9 +20519,7 @@ window.QUALIDADE_CANA_DATA = [
     "Responsável": "GABRIEL HENRIQUE MARTINS PEREIRA",
     "Quantidade de Cana": "BOM",
     "Observações": null,
-    "Fazenda": null,
-    "Observações ": null,
-    "Unnamed: 19": null
+    "Fazenda": null
   },
   {
     "ID": "3584108",
@@ -22494,9 +20540,7 @@ window.QUALIDADE_CANA_DATA = [
     "Responsável": "VITOR AMORIM RAMOS ",
     "Quantidade de Cana": "BOM",
     "Observações": null,
-    "Fazenda": null,
-    "Observações ": null,
-    "Unnamed: 19": null
+    "Fazenda": null
   },
   {
     "ID": "3584439",
@@ -22517,9 +20561,7 @@ window.QUALIDADE_CANA_DATA = [
     "Responsável": "REGINALDO DA SILVA GOMES ",
     "Quantidade de Cana": "BOM",
     "Observações": null,
-    "Fazenda": null,
-    "Observações ": null,
-    "Unnamed: 19": null
+    "Fazenda": null
   },
   {
     "ID": "3585109",
@@ -22540,9 +20582,7 @@ window.QUALIDADE_CANA_DATA = [
     "Responsável": "GABRIEL HENRIQUE MARTINS PEREIRA",
     "Quantidade de Cana": "BOM",
     "Observações": null,
-    "Fazenda": null,
-    "Observações ": null,
-    "Unnamed: 19": null
+    "Fazenda": null
   },
   {
     "ID": "3585099",
@@ -22563,9 +20603,7 @@ window.QUALIDADE_CANA_DATA = [
     "Responsável": "GABRIEL HENRIQUE MARTINS PEREIRA",
     "Quantidade de Cana": "BOM",
     "Observações": null,
-    "Fazenda": null,
-    "Observações ": null,
-    "Unnamed: 19": null
+    "Fazenda": null
   },
   {
     "ID": "3584436",
@@ -22586,9 +20624,7 @@ window.QUALIDADE_CANA_DATA = [
     "Responsável": "REGINALDO DA SILVA GOMES ",
     "Quantidade de Cana": "BOM",
     "Observações": null,
-    "Fazenda": null,
-    "Observações ": null,
-    "Unnamed: 19": null
+    "Fazenda": null
   },
   {
     "ID": "3585092",
@@ -22609,9 +20645,7 @@ window.QUALIDADE_CANA_DATA = [
     "Responsável": "GABRIEL HENRIQUE MARTINS PEREIRA",
     "Quantidade de Cana": "BOM",
     "Observações": null,
-    "Fazenda": null,
-    "Observações ": null,
-    "Unnamed: 19": null
+    "Fazenda": null
   },
   {
     "ID": "3585079",
@@ -22632,9 +20666,7 @@ window.QUALIDADE_CANA_DATA = [
     "Responsável": "GABRIEL HENRIQUE MARTINS PEREIRA",
     "Quantidade de Cana": "BOM",
     "Observações": null,
-    "Fazenda": null,
-    "Observações ": null,
-    "Unnamed: 19": null
+    "Fazenda": null
   },
   {
     "ID": "3584429",
@@ -22655,9 +20687,7 @@ window.QUALIDADE_CANA_DATA = [
     "Responsável": "REGINALDO DA SILVA GOMES ",
     "Quantidade de Cana": "BOM",
     "Observações": null,
-    "Fazenda": null,
-    "Observações ": null,
-    "Unnamed: 19": null
+    "Fazenda": null
   },
   {
     "ID": "3585063",
@@ -22678,9 +20708,7 @@ window.QUALIDADE_CANA_DATA = [
     "Responsável": "GABRIEL HENRIQUE MARTINS PEREIRA",
     "Quantidade de Cana": "BOM",
     "Observações": null,
-    "Fazenda": null,
-    "Observações ": null,
-    "Unnamed: 19": null
+    "Fazenda": null
   },
   {
     "ID": "3582024",
@@ -22701,9 +20729,7 @@ window.QUALIDADE_CANA_DATA = [
     "Responsável": "REGINALDO DA SILVA GOMES ",
     "Quantidade de Cana": "BOM",
     "Observações": null,
-    "Fazenda": null,
-    "Observações ": null,
-    "Unnamed: 19": null
+    "Fazenda": null
   },
   {
     "ID": "3582020",
@@ -22724,9 +20750,7 @@ window.QUALIDADE_CANA_DATA = [
     "Responsável": "REGINALDO DA SILVA GOMES ",
     "Quantidade de Cana": "BOM",
     "Observações": null,
-    "Fazenda": null,
-    "Observações ": null,
-    "Unnamed: 19": null
+    "Fazenda": null
   },
   {
     "ID": "3582014",
@@ -22747,9 +20771,7 @@ window.QUALIDADE_CANA_DATA = [
     "Responsável": "REGINALDO DA SILVA GOMES ",
     "Quantidade de Cana": "BOM",
     "Observações": null,
-    "Fazenda": null,
-    "Observações ": null,
-    "Unnamed: 19": null
+    "Fazenda": null
   },
   {
     "ID": "3582008",
@@ -22770,9 +20792,7 @@ window.QUALIDADE_CANA_DATA = [
     "Responsável": "REGINALDO DA SILVA GOMES ",
     "Quantidade de Cana": "BOM",
     "Observações": null,
-    "Fazenda": null,
-    "Observações ": null,
-    "Unnamed: 19": null
+    "Fazenda": null
   },
   {
     "ID": "3582004",
@@ -22793,9 +20813,7 @@ window.QUALIDADE_CANA_DATA = [
     "Responsável": "REGINALDO DA SILVA GOMES ",
     "Quantidade de Cana": "BOM",
     "Observações": null,
-    "Fazenda": null,
-    "Observações ": null,
-    "Unnamed: 19": null
+    "Fazenda": null
   },
   {
     "ID": "3581876",
@@ -22816,9 +20834,7 @@ window.QUALIDADE_CANA_DATA = [
     "Responsável": "REGINALDO DA SILVA GOMES ",
     "Quantidade de Cana": "BOM",
     "Observações": null,
-    "Fazenda": null,
-    "Observações ": null,
-    "Unnamed: 19": null
+    "Fazenda": null
   },
   {
     "ID": "3581950",
@@ -22839,9 +20855,7 @@ window.QUALIDADE_CANA_DATA = [
     "Responsável": "VITOR AMORIM RAMOS ",
     "Quantidade de Cana": "BOM",
     "Observações": null,
-    "Fazenda": null,
-    "Observações ": null,
-    "Unnamed: 19": null
+    "Fazenda": null
   },
   {
     "ID": "3581980",
@@ -22862,9 +20876,7 @@ window.QUALIDADE_CANA_DATA = [
     "Responsável": "Leonardo Ribeiro Teixeira da Silva",
     "Quantidade de Cana": "BOM",
     "Observações": null,
-    "Fazenda": null,
-    "Observações ": null,
-    "Unnamed: 19": null
+    "Fazenda": null
   },
   {
     "ID": "3581979",
@@ -22885,9 +20897,7 @@ window.QUALIDADE_CANA_DATA = [
     "Responsável": "Leonardo Ribeiro Teixeira da Silva",
     "Quantidade de Cana": "BOM",
     "Observações": null,
-    "Fazenda": null,
-    "Observações ": null,
-    "Unnamed: 19": null
+    "Fazenda": null
   },
   {
     "ID": "3581978",
@@ -22908,9 +20918,7 @@ window.QUALIDADE_CANA_DATA = [
     "Responsável": "Leonardo Ribeiro Teixeira da Silva",
     "Quantidade de Cana": "BOM",
     "Observações": null,
-    "Fazenda": null,
-    "Observações ": null,
-    "Unnamed: 19": null
+    "Fazenda": null
   },
   {
     "ID": "3581977",
@@ -22931,9 +20939,7 @@ window.QUALIDADE_CANA_DATA = [
     "Responsável": "Leonardo Ribeiro Teixeira da Silva",
     "Quantidade de Cana": "BOM",
     "Observações": null,
-    "Fazenda": null,
-    "Observações ": null,
-    "Unnamed: 19": null
+    "Fazenda": null
   },
   {
     "ID": "3581945",
@@ -22954,9 +20960,7 @@ window.QUALIDADE_CANA_DATA = [
     "Responsável": "VITOR AMORIM RAMOS ",
     "Quantidade de Cana": "BOM",
     "Observações": null,
-    "Fazenda": null,
-    "Observações ": null,
-    "Unnamed: 19": null
+    "Fazenda": null
   },
   {
     "ID": "3581940",
@@ -22977,9 +20981,7 @@ window.QUALIDADE_CANA_DATA = [
     "Responsável": "VITOR AMORIM RAMOS ",
     "Quantidade de Cana": "BOM",
     "Observações": null,
-    "Fazenda": null,
-    "Observações ": null,
-    "Unnamed: 19": null
+    "Fazenda": null
   },
   {
     "ID": "3581932",
@@ -23000,9 +21002,7 @@ window.QUALIDADE_CANA_DATA = [
     "Responsável": "VITOR AMORIM RAMOS ",
     "Quantidade de Cana": "BOM",
     "Observações": null,
-    "Fazenda": null,
-    "Observações ": null,
-    "Unnamed: 19": null
+    "Fazenda": null
   },
   {
     "ID": "3581927",
@@ -23023,9 +21023,7 @@ window.QUALIDADE_CANA_DATA = [
     "Responsável": "VITOR AMORIM RAMOS ",
     "Quantidade de Cana": "BOM",
     "Observações": null,
-    "Fazenda": null,
-    "Observações ": null,
-    "Unnamed: 19": null
+    "Fazenda": null
   },
   {
     "ID": "3581807",
@@ -23046,9 +21044,7 @@ window.QUALIDADE_CANA_DATA = [
     "Responsável": "MARCELO DE OLIVEIRA JUNIOR",
     "Quantidade de Cana": "BOM",
     "Observações": null,
-    "Fazenda": null,
-    "Observações ": null,
-    "Unnamed: 19": null
+    "Fazenda": null
   },
   {
     "ID": "3581800",
@@ -23069,9 +21065,7 @@ window.QUALIDADE_CANA_DATA = [
     "Responsável": "MARCELO DE OLIVEIRA JUNIOR",
     "Quantidade de Cana": "BOM",
     "Observações": null,
-    "Fazenda": null,
-    "Observações ": null,
-    "Unnamed: 19": null
+    "Fazenda": null
   },
   {
     "ID": "3581794",
@@ -23092,9 +21086,7 @@ window.QUALIDADE_CANA_DATA = [
     "Responsável": "MARCELO DE OLIVEIRA JUNIOR",
     "Quantidade de Cana": "BOM",
     "Observações": null,
-    "Fazenda": null,
-    "Observações ": null,
-    "Unnamed: 19": null
+    "Fazenda": null
   },
   {
     "ID": "3581213",
@@ -23115,9 +21107,7 @@ window.QUALIDADE_CANA_DATA = [
     "Responsável": "VITOR AMORIM RAMOS ",
     "Quantidade de Cana": "BOM",
     "Observações": null,
-    "Fazenda": null,
-    "Observações ": null,
-    "Unnamed: 19": null
+    "Fazenda": null
   },
   {
     "ID": "3581870",
@@ -23138,9 +21128,7 @@ window.QUALIDADE_CANA_DATA = [
     "Responsável": "REGINALDO DA SILVA GOMES ",
     "Quantidade de Cana": "BOM",
     "Observações": null,
-    "Fazenda": null,
-    "Observações ": null,
-    "Unnamed: 19": null
+    "Fazenda": null
   },
   {
     "ID": "3581108",
@@ -23161,9 +21149,7 @@ window.QUALIDADE_CANA_DATA = [
     "Responsável": "Leonardo Ribeiro Teixeira da Silva",
     "Quantidade de Cana": "BOM",
     "Observações": null,
-    "Fazenda": null,
-    "Observações ": null,
-    "Unnamed: 19": null
+    "Fazenda": null
   },
   {
     "ID": "3581107",
@@ -23184,9 +21170,7 @@ window.QUALIDADE_CANA_DATA = [
     "Responsável": "Leonardo Ribeiro Teixeira da Silva",
     "Quantidade de Cana": "BOM",
     "Observações": null,
-    "Fazenda": null,
-    "Observações ": null,
-    "Unnamed: 19": null
+    "Fazenda": null
   },
   {
     "ID": "3581782",
@@ -23207,9 +21191,7 @@ window.QUALIDADE_CANA_DATA = [
     "Responsável": "MARCELO DE OLIVEIRA JUNIOR",
     "Quantidade de Cana": "BOM",
     "Observações": null,
-    "Fazenda": null,
-    "Observações ": null,
-    "Unnamed: 19": null
+    "Fazenda": null
   },
   {
     "ID": "3581207",
@@ -23230,9 +21212,7 @@ window.QUALIDADE_CANA_DATA = [
     "Responsável": "VITOR AMORIM RAMOS ",
     "Quantidade de Cana": "BOM",
     "Observações": null,
-    "Fazenda": null,
-    "Observações ": null,
-    "Unnamed: 19": null
+    "Fazenda": null
   },
   {
     "ID": "3581865",
@@ -23253,9 +21233,7 @@ window.QUALIDADE_CANA_DATA = [
     "Responsável": "REGINALDO DA SILVA GOMES ",
     "Quantidade de Cana": "BOM",
     "Observações": null,
-    "Fazenda": null,
-    "Observações ": null,
-    "Unnamed: 19": null
+    "Fazenda": null
   },
   {
     "ID": "3581202",
@@ -23276,9 +21254,7 @@ window.QUALIDADE_CANA_DATA = [
     "Responsável": "VITOR AMORIM RAMOS ",
     "Quantidade de Cana": "BOM",
     "Observações": null,
-    "Fazenda": null,
-    "Observações ": null,
-    "Unnamed: 19": null
+    "Fazenda": null
   },
   {
     "ID": "3581829",
@@ -23299,9 +21275,7 @@ window.QUALIDADE_CANA_DATA = [
     "Responsável": "GABRIEL HENRIQUE MARTINS PEREIRA",
     "Quantidade de Cana": "BOM",
     "Observações": null,
-    "Fazenda": null,
-    "Observações ": null,
-    "Unnamed: 19": null
+    "Fazenda": null
   },
   {
     "ID": "3581858",
@@ -23322,9 +21296,7 @@ window.QUALIDADE_CANA_DATA = [
     "Responsável": "REGINALDO DA SILVA GOMES ",
     "Quantidade de Cana": "BOM",
     "Observações": null,
-    "Fazenda": null,
-    "Observações ": null,
-    "Unnamed: 19": null
+    "Fazenda": null
   },
   {
     "ID": "3581775",
@@ -23345,9 +21317,7 @@ window.QUALIDADE_CANA_DATA = [
     "Responsável": "MARCELO DE OLIVEIRA JUNIOR",
     "Quantidade de Cana": "BOM",
     "Observações": null,
-    "Fazenda": null,
-    "Observações ": null,
-    "Unnamed: 19": null
+    "Fazenda": null
   },
   {
     "ID": "3581197",
@@ -23368,9 +21338,7 @@ window.QUALIDADE_CANA_DATA = [
     "Responsável": "VITOR AMORIM RAMOS ",
     "Quantidade de Cana": "BOM",
     "Observações": null,
-    "Fazenda": null,
-    "Observações ": null,
-    "Unnamed: 19": null
+    "Fazenda": null
   },
   {
     "ID": "3581824",
@@ -23391,9 +21359,7 @@ window.QUALIDADE_CANA_DATA = [
     "Responsável": "GABRIEL HENRIQUE MARTINS PEREIRA",
     "Quantidade de Cana": "BOM",
     "Observações": null,
-    "Fazenda": null,
-    "Observações ": null,
-    "Unnamed: 19": null
+    "Fazenda": null
   },
   {
     "ID": "3581033",
@@ -23414,9 +21380,7 @@ window.QUALIDADE_CANA_DATA = [
     "Responsável": "MABILA HELEN D FIGUEIREDO",
     "Quantidade de Cana": "BOM",
     "Observações": null,
-    "Fazenda": null,
-    "Observações ": null,
-    "Unnamed: 19": null
+    "Fazenda": null
   },
   {
     "ID": "3581192",
@@ -23437,9 +21401,7 @@ window.QUALIDADE_CANA_DATA = [
     "Responsável": "VITOR AMORIM RAMOS ",
     "Quantidade de Cana": "BOM",
     "Observações": null,
-    "Fazenda": null,
-    "Observações ": null,
-    "Unnamed: 19": null
+    "Fazenda": null
   },
   {
     "ID": "3581028",
@@ -23460,9 +21422,7 @@ window.QUALIDADE_CANA_DATA = [
     "Responsável": "MABILA HELEN D FIGUEIREDO",
     "Quantidade de Cana": "BOM",
     "Observações": null,
-    "Fazenda": null,
-    "Observações ": null,
-    "Unnamed: 19": null
+    "Fazenda": null
   },
   {
     "ID": "3581806",
@@ -23483,9 +21443,7 @@ window.QUALIDADE_CANA_DATA = [
     "Responsável": "GABRIEL HENRIQUE MARTINS PEREIRA",
     "Quantidade de Cana": "BOM",
     "Observações": null,
-    "Fazenda": null,
-    "Observações ": null,
-    "Unnamed: 19": null
+    "Fazenda": null
   },
   {
     "ID": "3581187",
@@ -23506,9 +21464,7 @@ window.QUALIDADE_CANA_DATA = [
     "Responsável": "VITOR AMORIM RAMOS ",
     "Quantidade de Cana": "BOM",
     "Observações": null,
-    "Fazenda": null,
-    "Observações ": null,
-    "Unnamed: 19": null
+    "Fazenda": null
   },
   {
     "ID": "3581854",
@@ -23529,9 +21485,7 @@ window.QUALIDADE_CANA_DATA = [
     "Responsável": "REGINALDO DA SILVA GOMES ",
     "Quantidade de Cana": "BOM",
     "Observações": null,
-    "Fazenda": null,
-    "Observações ": null,
-    "Unnamed: 19": null
+    "Fazenda": null
   },
   {
     "ID": "3581772",
@@ -23552,9 +21506,7 @@ window.QUALIDADE_CANA_DATA = [
     "Responsável": "MARCELO DE OLIVEIRA JUNIOR",
     "Quantidade de Cana": "BOM",
     "Observações": null,
-    "Fazenda": null,
-    "Observações ": null,
-    "Unnamed: 19": null
+    "Fazenda": null
   },
   {
     "ID": "3581787",
@@ -23575,9 +21527,7 @@ window.QUALIDADE_CANA_DATA = [
     "Responsável": "GABRIEL HENRIQUE MARTINS PEREIRA",
     "Quantidade de Cana": "BOM",
     "Observações": null,
-    "Fazenda": null,
-    "Observações ": null,
-    "Unnamed: 19": null
+    "Fazenda": null
   },
   {
     "ID": "3581182",
@@ -23598,9 +21548,7 @@ window.QUALIDADE_CANA_DATA = [
     "Responsável": "VITOR AMORIM RAMOS ",
     "Quantidade de Cana": "BOM",
     "Observações": null,
-    "Fazenda": null,
-    "Observações ": null,
-    "Unnamed: 19": null
+    "Fazenda": null
   },
   {
     "ID": "3581023",
@@ -23621,9 +21569,7 @@ window.QUALIDADE_CANA_DATA = [
     "Responsável": "MABILA HELEN D FIGUEIREDO",
     "Quantidade de Cana": "BOM",
     "Observações": null,
-    "Fazenda": null,
-    "Observações ": null,
-    "Unnamed: 19": null
+    "Fazenda": null
   },
   {
     "ID": "3581851",
@@ -23644,9 +21590,7 @@ window.QUALIDADE_CANA_DATA = [
     "Responsável": "REGINALDO DA SILVA GOMES ",
     "Quantidade de Cana": "BOM",
     "Observações": null,
-    "Fazenda": null,
-    "Observações ": null,
-    "Unnamed: 19": null
+    "Fazenda": null
   },
   {
     "ID": "3581654",
@@ -23667,9 +21611,7 @@ window.QUALIDADE_CANA_DATA = [
     "Responsável": "GABRIEL HENRIQUE MARTINS PEREIRA",
     "Quantidade de Cana": "BOM",
     "Observações": null,
-    "Fazenda": null,
-    "Observações ": null,
-    "Unnamed: 19": null
+    "Fazenda": null
   },
   {
     "ID": "3581177",
@@ -23690,9 +21632,7 @@ window.QUALIDADE_CANA_DATA = [
     "Responsável": "VITOR AMORIM RAMOS ",
     "Quantidade de Cana": "BOM",
     "Observações": null,
-    "Fazenda": null,
-    "Observações ": null,
-    "Unnamed: 19": null
+    "Fazenda": null
   },
   {
     "ID": "3581018",
@@ -23713,9 +21653,7 @@ window.QUALIDADE_CANA_DATA = [
     "Responsável": "MABILA HELEN D FIGUEIREDO",
     "Quantidade de Cana": "BOM",
     "Observações": null,
-    "Fazenda": null,
-    "Observações ": null,
-    "Unnamed: 19": null
+    "Fazenda": null
   },
   {
     "ID": "3581846",
@@ -23736,9 +21674,7 @@ window.QUALIDADE_CANA_DATA = [
     "Responsável": "REGINALDO DA SILVA GOMES ",
     "Quantidade de Cana": "BOM",
     "Observações": null,
-    "Fazenda": null,
-    "Observações ": null,
-    "Unnamed: 19": null
+    "Fazenda": null
   },
   {
     "ID": "3581648",
@@ -23759,9 +21695,7 @@ window.QUALIDADE_CANA_DATA = [
     "Responsável": "GABRIEL HENRIQUE MARTINS PEREIRA",
     "Quantidade de Cana": "BOM",
     "Observações": null,
-    "Fazenda": null,
-    "Observações ": null,
-    "Unnamed: 19": null
+    "Fazenda": null
   },
   {
     "ID": "3581009",
@@ -23782,9 +21716,7 @@ window.QUALIDADE_CANA_DATA = [
     "Responsável": "MABILA HELEN D FIGUEIREDO",
     "Quantidade de Cana": "BOM",
     "Observações": null,
-    "Fazenda": null,
-    "Observações ": null,
-    "Unnamed: 19": null
+    "Fazenda": null
   },
   {
     "ID": "3581008",
@@ -23805,9 +21737,7 @@ window.QUALIDADE_CANA_DATA = [
     "Responsável": "MABILA HELEN D FIGUEIREDO",
     "Quantidade de Cana": "BOM",
     "Observações": null,
-    "Fazenda": null,
-    "Observações ": null,
-    "Unnamed: 19": null
+    "Fazenda": null
   },
   {
     "ID": "3581765",
@@ -23828,9 +21758,7 @@ window.QUALIDADE_CANA_DATA = [
     "Responsável": "MARCELO DE OLIVEIRA JUNIOR",
     "Quantidade de Cana": "BOM",
     "Observações": null,
-    "Fazenda": null,
-    "Observações ": null,
-    "Unnamed: 19": null
+    "Fazenda": null
   },
   {
     "ID": "3580979",
@@ -23851,9 +21779,7 @@ window.QUALIDADE_CANA_DATA = [
     "Responsável": "NILDA CLAUDINO [2510716]",
     "Quantidade de Cana": "BOM",
     "Observações": null,
-    "Fazenda": null,
-    "Observações ": null,
-    "Unnamed: 19": null
+    "Fazenda": null
   },
   {
     "ID": "3581003",
@@ -23874,9 +21800,7 @@ window.QUALIDADE_CANA_DATA = [
     "Responsável": "MABILA HELEN D FIGUEIREDO",
     "Quantidade de Cana": "BOM",
     "Observações": null,
-    "Fazenda": null,
-    "Observações ": null,
-    "Unnamed: 19": null
+    "Fazenda": null
   },
   {
     "ID": "3580978",
@@ -23897,9 +21821,7 @@ window.QUALIDADE_CANA_DATA = [
     "Responsável": "NILDA CLAUDINO [2510716]",
     "Quantidade de Cana": "BOM",
     "Observações": null,
-    "Fazenda": null,
-    "Observações ": null,
-    "Unnamed: 19": null
+    "Fazenda": null
   },
   {
     "ID": "3580977",
@@ -23920,9 +21842,7 @@ window.QUALIDADE_CANA_DATA = [
     "Responsável": "NILDA CLAUDINO [2510716]",
     "Quantidade de Cana": "BOM",
     "Observações": null,
-    "Fazenda": null,
-    "Observações ": null,
-    "Unnamed: 19": null
+    "Fazenda": null
   },
   {
     "ID": "3581758",
@@ -23943,9 +21863,7 @@ window.QUALIDADE_CANA_DATA = [
     "Responsável": "MARCELO DE OLIVEIRA JUNIOR",
     "Quantidade de Cana": "BOM",
     "Observações": null,
-    "Fazenda": null,
-    "Observações ": null,
-    "Unnamed: 19": null
+    "Fazenda": null
   },
   {
     "ID": "3580998",
@@ -23966,9 +21884,7 @@ window.QUALIDADE_CANA_DATA = [
     "Responsável": "MABILA HELEN D FIGUEIREDO",
     "Quantidade de Cana": "BOM",
     "Observações": null,
-    "Fazenda": null,
-    "Observações ": null,
-    "Unnamed: 19": null
+    "Fazenda": null
   },
   {
     "ID": "3580929",
@@ -23989,9 +21905,7 @@ window.QUALIDADE_CANA_DATA = [
     "Responsável": "MICHELI DE SOUZA SANTOS  ",
     "Quantidade de Cana": "BOM",
     "Observações": null,
-    "Fazenda": null,
-    "Observações ": null,
-    "Unnamed: 19": null
+    "Fazenda": null
   },
   {
     "ID": "3580924",
@@ -24012,9 +21926,7 @@ window.QUALIDADE_CANA_DATA = [
     "Responsável": "MICHELI DE SOUZA SANTOS  ",
     "Quantidade de Cana": "BOM",
     "Observações": null,
-    "Fazenda": null,
-    "Observações ": null,
-    "Unnamed: 19": null
+    "Fazenda": null
   },
   {
     "ID": "3580919",
@@ -24035,9 +21947,7 @@ window.QUALIDADE_CANA_DATA = [
     "Responsável": "MICHELI DE SOUZA SANTOS  ",
     "Quantidade de Cana": "BOM",
     "Observações": null,
-    "Fazenda": null,
-    "Observações ": null,
-    "Unnamed: 19": null
+    "Fazenda": null
   },
   {
     "ID": "3580914",
@@ -24058,9 +21968,7 @@ window.QUALIDADE_CANA_DATA = [
     "Responsável": "MICHELI DE SOUZA SANTOS  ",
     "Quantidade de Cana": "BOM",
     "Observações": null,
-    "Fazenda": null,
-    "Observações ": null,
-    "Unnamed: 19": null
+    "Fazenda": null
   },
   {
     "ID": "3579061",
@@ -24081,9 +21989,7 @@ window.QUALIDADE_CANA_DATA = [
     "Responsável": "Leonardo Ribeiro Teixeira da Silva",
     "Quantidade de Cana": "BOM",
     "Observações": null,
-    "Fazenda": null,
-    "Observações ": null,
-    "Unnamed: 19": null
+    "Fazenda": null
   },
   {
     "ID": "3579060",
@@ -24104,9 +22010,7 @@ window.QUALIDADE_CANA_DATA = [
     "Responsável": "Leonardo Ribeiro Teixeira da Silva",
     "Quantidade de Cana": "BOM",
     "Observações": null,
-    "Fazenda": null,
-    "Observações ": null,
-    "Unnamed: 19": null
+    "Fazenda": null
   },
   {
     "ID": "3579059",
@@ -24127,9 +22031,7 @@ window.QUALIDADE_CANA_DATA = [
     "Responsável": "Leonardo Ribeiro Teixeira da Silva",
     "Quantidade de Cana": "BOM",
     "Observações": null,
-    "Fazenda": null,
-    "Observações ": null,
-    "Unnamed: 19": null
+    "Fazenda": null
   },
   {
     "ID": "3579474",
@@ -24150,9 +22052,7 @@ window.QUALIDADE_CANA_DATA = [
     "Responsável": "VITOR AMORIM RAMOS ",
     "Quantidade de Cana": "BOM",
     "Observações": null,
-    "Fazenda": null,
-    "Observações ": null,
-    "Unnamed: 19": null
+    "Fazenda": null
   },
   {
     "ID": "3579467",
@@ -24173,9 +22073,7 @@ window.QUALIDADE_CANA_DATA = [
     "Responsável": "VITOR AMORIM RAMOS ",
     "Quantidade de Cana": "BOM",
     "Observações": null,
-    "Fazenda": null,
-    "Observações ": null,
-    "Unnamed: 19": null
+    "Fazenda": null
   },
   {
     "ID": "3580898",
@@ -24196,9 +22094,7 @@ window.QUALIDADE_CANA_DATA = [
     "Responsável": "MICHELI DE SOUZA SANTOS  ",
     "Quantidade de Cana": "BOM",
     "Observações": null,
-    "Fazenda": null,
-    "Observações ": null,
-    "Unnamed: 19": null
+    "Fazenda": null
   },
   {
     "ID": "3580892",
@@ -24219,9 +22115,7 @@ window.QUALIDADE_CANA_DATA = [
     "Responsável": "MICHELI DE SOUZA SANTOS  ",
     "Quantidade de Cana": "BOM",
     "Observações": null,
-    "Fazenda": null,
-    "Observações ": null,
-    "Unnamed: 19": null
+    "Fazenda": null
   },
   {
     "ID": "3580886",
@@ -24242,9 +22136,7 @@ window.QUALIDADE_CANA_DATA = [
     "Responsável": "MICHELI DE SOUZA SANTOS  ",
     "Quantidade de Cana": "BOM",
     "Observações": null,
-    "Fazenda": null,
-    "Observações ": null,
-    "Unnamed: 19": null
+    "Fazenda": null
   },
   {
     "ID": "3580881",
@@ -24265,9 +22157,7 @@ window.QUALIDADE_CANA_DATA = [
     "Responsável": "MICHELI DE SOUZA SANTOS  ",
     "Quantidade de Cana": "BOM",
     "Observações": null,
-    "Fazenda": null,
-    "Observações ": null,
-    "Unnamed: 19": null
+    "Fazenda": null
   },
   {
     "ID": "3578765",
@@ -24288,9 +22178,7 @@ window.QUALIDADE_CANA_DATA = [
     "Responsável": "VITOR AMORIM RAMOS ",
     "Quantidade de Cana": "BOM",
     "Observações": null,
-    "Fazenda": null,
-    "Observações ": null,
-    "Unnamed: 19": null
+    "Fazenda": null
   },
   {
     "ID": "3578764",
@@ -24311,9 +22199,7 @@ window.QUALIDADE_CANA_DATA = [
     "Responsável": "VITOR AMORIM RAMOS ",
     "Quantidade de Cana": "BOM",
     "Observações": null,
-    "Fazenda": null,
-    "Observações ": null,
-    "Unnamed: 19": null
+    "Fazenda": null
   },
   {
     "ID": "3580876",
@@ -24334,9 +22220,7 @@ window.QUALIDADE_CANA_DATA = [
     "Responsável": "MICHELI DE SOUZA SANTOS  ",
     "Quantidade de Cana": "BOM",
     "Observações": null,
-    "Fazenda": null,
-    "Observações ": null,
-    "Unnamed: 19": null
+    "Fazenda": null
   },
   {
     "ID": "3579045",
@@ -24357,9 +22241,7 @@ window.QUALIDADE_CANA_DATA = [
     "Responsável": "Leonardo Ribeiro Teixeira da Silva",
     "Quantidade de Cana": "BOM",
     "Observações": null,
-    "Fazenda": null,
-    "Observações ": null,
-    "Unnamed: 19": null
+    "Fazenda": null
   },
   {
     "ID": "3579044",
@@ -24380,9 +22262,7 @@ window.QUALIDADE_CANA_DATA = [
     "Responsável": "Leonardo Ribeiro Teixeira da Silva",
     "Quantidade de Cana": "BOM",
     "Observações": null,
-    "Fazenda": null,
-    "Observações ": null,
-    "Unnamed: 19": null
+    "Fazenda": null
   },
   {
     "ID": "3578758",
@@ -24403,9 +22283,7 @@ window.QUALIDADE_CANA_DATA = [
     "Responsável": "VITOR AMORIM RAMOS ",
     "Quantidade de Cana": "BOM",
     "Observações": null,
-    "Fazenda": null,
-    "Observações ": null,
-    "Unnamed: 19": null
+    "Fazenda": null
   },
   {
     "ID": "3579152",
@@ -24426,9 +22304,7 @@ window.QUALIDADE_CANA_DATA = [
     "Responsável": "MICHELI DE SOUZA SANTOS  ",
     "Quantidade de Cana": "BOM",
     "Observações": null,
-    "Fazenda": null,
-    "Observações ": null,
-    "Unnamed: 19": null
+    "Fazenda": null
   },
   {
     "ID": "3578754",
@@ -24449,9 +22325,7 @@ window.QUALIDADE_CANA_DATA = [
     "Responsável": "VITOR AMORIM RAMOS ",
     "Quantidade de Cana": "BOM",
     "Observações": null,
-    "Fazenda": null,
-    "Observações ": null,
-    "Unnamed: 19": null
+    "Fazenda": null
   },
   {
     "ID": "3578749",
@@ -24472,9 +22346,7 @@ window.QUALIDADE_CANA_DATA = [
     "Responsável": "VITOR AMORIM RAMOS ",
     "Quantidade de Cana": "BOM",
     "Observações": null,
-    "Fazenda": null,
-    "Observações ": null,
-    "Unnamed: 19": null
+    "Fazenda": null
   },
   {
     "ID": "3579145",
@@ -24495,9 +22367,7 @@ window.QUALIDADE_CANA_DATA = [
     "Responsável": "MABILA HELEN D FIGUEIREDO",
     "Quantidade de Cana": "BOM",
     "Observações": null,
-    "Fazenda": null,
-    "Observações ": null,
-    "Unnamed: 19": null
+    "Fazenda": null
   },
   {
     "ID": "3578744",
@@ -24518,9 +22388,7 @@ window.QUALIDADE_CANA_DATA = [
     "Responsável": "VITOR AMORIM RAMOS ",
     "Quantidade de Cana": "BOM",
     "Observações": null,
-    "Fazenda": null,
-    "Observações ": null,
-    "Unnamed: 19": null
+    "Fazenda": null
   },
   {
     "ID": "3579320",
@@ -24541,9 +22409,7 @@ window.QUALIDADE_CANA_DATA = [
     "Responsável": "MARCELO DE OLIVEIRA JUNIOR",
     "Quantidade de Cana": "BOM",
     "Observações": null,
-    "Fazenda": null,
-    "Observações ": null,
-    "Unnamed: 19": null
+    "Fazenda": null
   },
   {
     "ID": "3579140",
@@ -24564,9 +22430,7 @@ window.QUALIDADE_CANA_DATA = [
     "Responsável": "MABILA HELEN D FIGUEIREDO",
     "Quantidade de Cana": "BOM",
     "Observações": null,
-    "Fazenda": null,
-    "Observações ": null,
-    "Unnamed: 19": null
+    "Fazenda": null
   },
   {
     "ID": "3578737",
@@ -24587,9 +22451,7 @@ window.QUALIDADE_CANA_DATA = [
     "Responsável": "VITOR AMORIM RAMOS ",
     "Quantidade de Cana": "BOM",
     "Observações": null,
-    "Fazenda": null,
-    "Observações ": null,
-    "Unnamed: 19": null
+    "Fazenda": null
   },
   {
     "ID": "3579306",
@@ -24610,9 +22472,7 @@ window.QUALIDADE_CANA_DATA = [
     "Responsável": "MARCELO DE OLIVEIRA JUNIOR",
     "Quantidade de Cana": "BOM",
     "Observações": null,
-    "Fazenda": null,
-    "Observações ": null,
-    "Unnamed: 19": null
+    "Fazenda": null
   },
   {
     "ID": "3579297",
@@ -24633,9 +22493,7 @@ window.QUALIDADE_CANA_DATA = [
     "Responsável": "MARCELO DE OLIVEIRA JUNIOR",
     "Quantidade de Cana": "BOM",
     "Observações": null,
-    "Fazenda": null,
-    "Observações ": null,
-    "Unnamed: 19": null
+    "Fazenda": null
   },
   {
     "ID": "3579135",
@@ -24656,9 +22514,7 @@ window.QUALIDADE_CANA_DATA = [
     "Responsável": "MABILA HELEN D FIGUEIREDO",
     "Quantidade de Cana": "BOM",
     "Observações": null,
-    "Fazenda": null,
-    "Observações ": null,
-    "Unnamed: 19": null
+    "Fazenda": null
   },
   {
     "ID": "3578728",
@@ -24679,9 +22535,7 @@ window.QUALIDADE_CANA_DATA = [
     "Responsável": "VITOR AMORIM RAMOS ",
     "Quantidade de Cana": "BOM",
     "Observações": null,
-    "Fazenda": null,
-    "Observações ": null,
-    "Unnamed: 19": null
+    "Fazenda": null
   },
   {
     "ID": "3579184",
@@ -24702,9 +22556,7 @@ window.QUALIDADE_CANA_DATA = [
     "Responsável": "GABRIEL HENRIQUE MARTINS PEREIRA",
     "Quantidade de Cana": "BOM",
     "Observações": null,
-    "Fazenda": null,
-    "Observações ": null,
-    "Unnamed: 19": null
+    "Fazenda": null
   },
   {
     "ID": "3578723",
@@ -24725,9 +22577,7 @@ window.QUALIDADE_CANA_DATA = [
     "Responsável": "VITOR AMORIM RAMOS ",
     "Quantidade de Cana": "BOM",
     "Observações": null,
-    "Fazenda": null,
-    "Observações ": null,
-    "Unnamed: 19": null
+    "Fazenda": null
   },
   {
     "ID": "3579179",
@@ -24748,9 +22598,7 @@ window.QUALIDADE_CANA_DATA = [
     "Responsável": "GABRIEL HENRIQUE MARTINS PEREIRA",
     "Quantidade de Cana": "BOM",
     "Observações": null,
-    "Fazenda": null,
-    "Observações ": null,
-    "Unnamed: 19": null
+    "Fazenda": null
   },
   {
     "ID": "3579280",
@@ -24771,9 +22619,7 @@ window.QUALIDADE_CANA_DATA = [
     "Responsável": "MARCELO DE OLIVEIRA JUNIOR",
     "Quantidade de Cana": "BOM",
     "Observações": null,
-    "Fazenda": null,
-    "Observações ": null,
-    "Unnamed: 19": null
+    "Fazenda": null
   },
   {
     "ID": "3578718",
@@ -24794,9 +22640,7 @@ window.QUALIDADE_CANA_DATA = [
     "Responsável": "VITOR AMORIM RAMOS ",
     "Quantidade de Cana": "BOM",
     "Observações": null,
-    "Fazenda": null,
-    "Observações ": null,
-    "Unnamed: 19": null
+    "Fazenda": null
   },
   {
     "ID": "3579171",
@@ -24817,9 +22661,7 @@ window.QUALIDADE_CANA_DATA = [
     "Responsável": "GABRIEL HENRIQUE MARTINS PEREIRA",
     "Quantidade de Cana": "BOM",
     "Observações": null,
-    "Fazenda": null,
-    "Observações ": null,
-    "Unnamed: 19": null
+    "Fazenda": null
   },
   {
     "ID": "3578712",
@@ -24840,9 +22682,7 @@ window.QUALIDADE_CANA_DATA = [
     "Responsável": "VITOR AMORIM RAMOS ",
     "Quantidade de Cana": "BOM",
     "Observações": null,
-    "Fazenda": null,
-    "Observações ": null,
-    "Unnamed: 19": null
+    "Fazenda": null
   },
   {
     "ID": "3579130",
@@ -24863,9 +22703,7 @@ window.QUALIDADE_CANA_DATA = [
     "Responsável": "MICHELI DE SOUZA SANTOS  ",
     "Quantidade de Cana": "BOM",
     "Observações": null,
-    "Fazenda": null,
-    "Observações ": null,
-    "Unnamed: 19": null
+    "Fazenda": null
   },
   {
     "ID": "3579251",
@@ -24886,9 +22724,7 @@ window.QUALIDADE_CANA_DATA = [
     "Responsável": "MARCELO DE OLIVEIRA JUNIOR",
     "Quantidade de Cana": "BOM",
     "Observações": null,
-    "Fazenda": null,
-    "Observações ": null,
-    "Unnamed: 19": null
+    "Fazenda": null
   },
   {
     "ID": "3579091",
@@ -24909,9 +22745,7 @@ window.QUALIDADE_CANA_DATA = [
     "Responsável": "GABRIEL HENRIQUE MARTINS PEREIRA",
     "Quantidade de Cana": "BOM",
     "Observações": null,
-    "Fazenda": null,
-    "Observações ": null,
-    "Unnamed: 19": null
+    "Fazenda": null
   },
   {
     "ID": "3579246",
@@ -24932,9 +22766,7 @@ window.QUALIDADE_CANA_DATA = [
     "Responsável": "MARCELO DE OLIVEIRA JUNIOR",
     "Quantidade de Cana": "BOM",
     "Observações": null,
-    "Fazenda": null,
-    "Observações ": null,
-    "Unnamed: 19": null
+    "Fazenda": null
   },
   {
     "ID": "3579083",
@@ -24955,9 +22787,7 @@ window.QUALIDADE_CANA_DATA = [
     "Responsável": "GABRIEL HENRIQUE MARTINS PEREIRA",
     "Quantidade de Cana": "BOM",
     "Observações": null,
-    "Fazenda": null,
-    "Observações ": null,
-    "Unnamed: 19": null
+    "Fazenda": null
   },
   {
     "ID": "3579241",
@@ -24978,9 +22808,7 @@ window.QUALIDADE_CANA_DATA = [
     "Responsável": "MARCELO DE OLIVEIRA JUNIOR",
     "Quantidade de Cana": "BOM",
     "Observações": null,
-    "Fazenda": null,
-    "Observações ": null,
-    "Unnamed: 19": null
+    "Fazenda": null
   },
   {
     "ID": "3579236",
@@ -25001,9 +22829,7 @@ window.QUALIDADE_CANA_DATA = [
     "Responsável": "MARCELO DE OLIVEIRA JUNIOR",
     "Quantidade de Cana": "BOM",
     "Observações": null,
-    "Fazenda": null,
-    "Observações ": null,
-    "Unnamed: 19": null
+    "Fazenda": null
   },
   {
     "ID": "3577301",
@@ -25024,9 +22850,7 @@ window.QUALIDADE_CANA_DATA = [
     "Responsável": "REGINALDO DA SILVA GOMES ",
     "Quantidade de Cana": "BOM",
     "Observações": null,
-    "Fazenda": null,
-    "Observações ": null,
-    "Unnamed: 19": null
+    "Fazenda": null
   },
   {
     "ID": "3577294",
@@ -25047,9 +22871,7 @@ window.QUALIDADE_CANA_DATA = [
     "Responsável": "REGINALDO DA SILVA GOMES ",
     "Quantidade de Cana": "BOM",
     "Observações": null,
-    "Fazenda": null,
-    "Observações ": null,
-    "Unnamed: 19": null
+    "Fazenda": null
   },
   {
     "ID": "3577282",
@@ -25070,9 +22892,7 @@ window.QUALIDADE_CANA_DATA = [
     "Responsável": "REGINALDO DA SILVA GOMES ",
     "Quantidade de Cana": "BOM",
     "Observações": null,
-    "Fazenda": null,
-    "Observações ": null,
-    "Unnamed: 19": null
+    "Fazenda": null
   },
   {
     "ID": "3577261",
@@ -25093,9 +22913,7 @@ window.QUALIDADE_CANA_DATA = [
     "Responsável": "REGINALDO DA SILVA GOMES ",
     "Quantidade de Cana": "BOM",
     "Observações": null,
-    "Fazenda": null,
-    "Observações ": null,
-    "Unnamed: 19": null
+    "Fazenda": null
   },
   {
     "ID": "3576811",
@@ -25116,9 +22934,7 @@ window.QUALIDADE_CANA_DATA = [
     "Responsável": "MABILA HELEN D FIGUEIREDO",
     "Quantidade de Cana": "BOM",
     "Observações": null,
-    "Fazenda": null,
-    "Observações ": null,
-    "Unnamed: 19": null
+    "Fazenda": null
   },
   {
     "ID": "3576802",
@@ -25139,9 +22955,7 @@ window.QUALIDADE_CANA_DATA = [
     "Responsável": "MABILA HELEN D FIGUEIREDO",
     "Quantidade de Cana": "BOM",
     "Observações": null,
-    "Fazenda": null,
-    "Observações ": null,
-    "Unnamed: 19": null
+    "Fazenda": null
   },
   {
     "ID": "3577109",
@@ -25162,9 +22976,7 @@ window.QUALIDADE_CANA_DATA = [
     "Responsável": "Leonardo Ribeiro Teixeira da Silva",
     "Quantidade de Cana": "BOM",
     "Observações": null,
-    "Fazenda": null,
-    "Observações ": null,
-    "Unnamed: 19": null
+    "Fazenda": null
   },
   {
     "ID": "3577108",
@@ -25185,9 +22997,7 @@ window.QUALIDADE_CANA_DATA = [
     "Responsável": "Leonardo Ribeiro Teixeira da Silva",
     "Quantidade de Cana": "BOM",
     "Observações": null,
-    "Fazenda": null,
-    "Observações ": null,
-    "Unnamed: 19": null
+    "Fazenda": null
   },
   {
     "ID": "3577107",
@@ -25208,9 +23018,7 @@ window.QUALIDADE_CANA_DATA = [
     "Responsável": "Leonardo Ribeiro Teixeira da Silva",
     "Quantidade de Cana": "BOM",
     "Observações": null,
-    "Fazenda": null,
-    "Observações ": null,
-    "Unnamed: 19": null
+    "Fazenda": null
   },
   {
     "ID": "3576797",
@@ -25231,9 +23039,7 @@ window.QUALIDADE_CANA_DATA = [
     "Responsável": "MABILA HELEN D FIGUEIREDO",
     "Quantidade de Cana": "BOM",
     "Observações": null,
-    "Fazenda": null,
-    "Observações ": null,
-    "Unnamed: 19": null
+    "Fazenda": null
   },
   {
     "ID": "3576791",
@@ -25254,9 +23060,7 @@ window.QUALIDADE_CANA_DATA = [
     "Responsável": "MABILA HELEN D FIGUEIREDO",
     "Quantidade de Cana": "BOM",
     "Observações": null,
-    "Fazenda": null,
-    "Observações ": null,
-    "Unnamed: 19": null
+    "Fazenda": null
   },
   {
     "ID": "3576786",
@@ -25277,9 +23081,7 @@ window.QUALIDADE_CANA_DATA = [
     "Responsável": "MABILA HELEN D FIGUEIREDO",
     "Quantidade de Cana": "BOM",
     "Observações": null,
-    "Fazenda": null,
-    "Observações ": null,
-    "Unnamed: 19": null
+    "Fazenda": null
   },
   {
     "ID": "3576785",
@@ -25300,9 +23102,7 @@ window.QUALIDADE_CANA_DATA = [
     "Responsável": "MABILA HELEN D FIGUEIREDO",
     "Quantidade de Cana": "BOM",
     "Observações": null,
-    "Fazenda": null,
-    "Observações ": null,
-    "Unnamed: 19": null
+    "Fazenda": null
   },
   {
     "ID": "3576784",
@@ -25323,9 +23123,7 @@ window.QUALIDADE_CANA_DATA = [
     "Responsável": "MABILA HELEN D FIGUEIREDO",
     "Quantidade de Cana": "BOM",
     "Observações": null,
-    "Fazenda": null,
-    "Observações ": null,
-    "Unnamed: 19": null
+    "Fazenda": null
   },
   {
     "ID": "3577115",
@@ -25346,9 +23144,7 @@ window.QUALIDADE_CANA_DATA = [
     "Responsável": "Leonardo Ribeiro Teixeira da Silva",
     "Quantidade de Cana": "BOM",
     "Observações": null,
-    "Fazenda": null,
-    "Observações ": null,
-    "Unnamed: 19": null
+    "Fazenda": null
   },
   {
     "ID": "3577114",
@@ -25369,9 +23165,7 @@ window.QUALIDADE_CANA_DATA = [
     "Responsável": "Leonardo Ribeiro Teixeira da Silva",
     "Quantidade de Cana": "BOM",
     "Observações": null,
-    "Fazenda": null,
-    "Observações ": null,
-    "Unnamed: 19": null
+    "Fazenda": null
   },
   {
     "ID": "3576678",
@@ -25392,9 +23186,7 @@ window.QUALIDADE_CANA_DATA = [
     "Responsável": "GABRIEL HENRIQUE MARTINS PEREIRA",
     "Quantidade de Cana": "BOM",
     "Observações": null,
-    "Fazenda": null,
-    "Observações ": null,
-    "Unnamed: 19": null
+    "Fazenda": null
   },
   {
     "ID": "3576672",
@@ -25415,9 +23207,7 @@ window.QUALIDADE_CANA_DATA = [
     "Responsável": "GABRIEL HENRIQUE MARTINS PEREIRA",
     "Quantidade de Cana": "BOM",
     "Observações": null,
-    "Fazenda": null,
-    "Observações ": null,
-    "Unnamed: 19": null
+    "Fazenda": null
   },
   {
     "ID": "3576643",
@@ -25438,9 +23228,7 @@ window.QUALIDADE_CANA_DATA = [
     "Responsável": "GABRIEL HENRIQUE MARTINS PEREIRA",
     "Quantidade de Cana": "BOM",
     "Observações": null,
-    "Fazenda": null,
-    "Observações ": null,
-    "Unnamed: 19": null
+    "Fazenda": null
   },
   {
     "ID": "3576685",
@@ -25461,9 +23249,7 @@ window.QUALIDADE_CANA_DATA = [
     "Responsável": "GABRIEL HENRIQUE MARTINS PEREIRA",
     "Quantidade de Cana": "BOM",
     "Observações": null,
-    "Fazenda": null,
-    "Observações ": null,
-    "Unnamed: 19": null
+    "Fazenda": null
   },
   {
     "ID": "3576667",
@@ -25484,9 +23270,7 @@ window.QUALIDADE_CANA_DATA = [
     "Responsável": "GABRIEL HENRIQUE MARTINS PEREIRA",
     "Quantidade de Cana": "BOM",
     "Observações": null,
-    "Fazenda": null,
-    "Observações ": null,
-    "Unnamed: 19": null
+    "Fazenda": null
   },
   {
     "ID": "3576660",
@@ -25507,9 +23291,7 @@ window.QUALIDADE_CANA_DATA = [
     "Responsável": "GABRIEL HENRIQUE MARTINS PEREIRA",
     "Quantidade de Cana": "BOM",
     "Observações": null,
-    "Fazenda": null,
-    "Observações ": null,
-    "Unnamed: 19": null
+    "Fazenda": null
   },
   {
     "ID": "3577366",
@@ -25530,9 +23312,7 @@ window.QUALIDADE_CANA_DATA = [
     "Responsável": "MARCELO DE OLIVEIRA JUNIOR",
     "Quantidade de Cana": "BOM",
     "Observações": null,
-    "Fazenda": null,
-    "Observações ": null,
-    "Unnamed: 19": null
+    "Fazenda": null
   },
   {
     "ID": "3577365",
@@ -25553,9 +23333,7 @@ window.QUALIDADE_CANA_DATA = [
     "Responsável": "MARCELO DE OLIVEIRA JUNIOR",
     "Quantidade de Cana": "BOM",
     "Observações": null,
-    "Fazenda": null,
-    "Observações ": null,
-    "Unnamed: 19": null
+    "Fazenda": null
   },
   {
     "ID": "3577356",
@@ -25576,9 +23354,7 @@ window.QUALIDADE_CANA_DATA = [
     "Responsável": "MARCELO DE OLIVEIRA JUNIOR",
     "Quantidade de Cana": "BOM",
     "Observações": null,
-    "Fazenda": null,
-    "Observações ": null,
-    "Unnamed: 19": null
+    "Fazenda": null
   },
   {
     "ID": "3577355",
@@ -25599,9 +23375,7 @@ window.QUALIDADE_CANA_DATA = [
     "Responsável": "MARCELO DE OLIVEIRA JUNIOR",
     "Quantidade de Cana": "BOM",
     "Observações": null,
-    "Fazenda": null,
-    "Observações ": null,
-    "Unnamed: 19": null
+    "Fazenda": null
   },
   {
     "ID": "3577348",
@@ -25622,9 +23396,7 @@ window.QUALIDADE_CANA_DATA = [
     "Responsável": "MARCELO DE OLIVEIRA JUNIOR",
     "Quantidade de Cana": "BOM",
     "Observações": null,
-    "Fazenda": null,
-    "Observações ": null,
-    "Unnamed: 19": null
+    "Fazenda": null
   },
   {
     "ID": "3577342",
@@ -25645,9 +23417,7 @@ window.QUALIDADE_CANA_DATA = [
     "Responsável": "MARCELO DE OLIVEIRA JUNIOR",
     "Quantidade de Cana": "BOM",
     "Observações": null,
-    "Fazenda": null,
-    "Observações ": null,
-    "Unnamed: 19": null
+    "Fazenda": null
   },
   {
     "ID": "3577336",
@@ -25668,9 +23438,7 @@ window.QUALIDADE_CANA_DATA = [
     "Responsável": "MARCELO DE OLIVEIRA JUNIOR",
     "Quantidade de Cana": "BOM",
     "Observações": null,
-    "Fazenda": null,
-    "Observações ": null,
-    "Unnamed: 19": null
+    "Fazenda": null
   },
   {
     "ID": "3577333",
@@ -25691,9 +23459,7 @@ window.QUALIDADE_CANA_DATA = [
     "Responsável": "MARCELO DE OLIVEIRA JUNIOR",
     "Quantidade de Cana": "BOM",
     "Observações": null,
-    "Fazenda": null,
-    "Observações ": null,
-    "Unnamed: 19": null
+    "Fazenda": null
   },
   {
     "ID": "3577328",
@@ -25714,9 +23480,7 @@ window.QUALIDADE_CANA_DATA = [
     "Responsável": "MARCELO DE OLIVEIRA JUNIOR",
     "Quantidade de Cana": "BOM",
     "Observações": null,
-    "Fazenda": null,
-    "Observações ": null,
-    "Unnamed: 19": null
+    "Fazenda": null
   },
   {
     "ID": "3574648",
@@ -25737,9 +23501,7 @@ window.QUALIDADE_CANA_DATA = [
     "Responsável": "MICHELI DE SOUZA SANTOS  ",
     "Quantidade de Cana": "BOM",
     "Observações": null,
-    "Fazenda": null,
-    "Observações ": null,
-    "Unnamed: 19": null
+    "Fazenda": null
   },
   {
     "ID": "3574592",
@@ -25760,9 +23522,7 @@ window.QUALIDADE_CANA_DATA = [
     "Responsável": "MABILA HELEN D FIGUEIREDO",
     "Quantidade de Cana": "BOM",
     "Observações": null,
-    "Fazenda": null,
-    "Observações ": null,
-    "Unnamed: 19": null
+    "Fazenda": null
   },
   {
     "ID": "3574586",
@@ -25783,9 +23543,7 @@ window.QUALIDADE_CANA_DATA = [
     "Responsável": "MABILA HELEN D FIGUEIREDO",
     "Quantidade de Cana": "BOM",
     "Observações": null,
-    "Fazenda": null,
-    "Observações ": null,
-    "Unnamed: 19": null
+    "Fazenda": null
   },
   {
     "ID": "3574696",
@@ -25806,9 +23564,7 @@ window.QUALIDADE_CANA_DATA = [
     "Responsável": "Leonardo Ribeiro Teixeira da Silva",
     "Quantidade de Cana": "BOM",
     "Observações": null,
-    "Fazenda": null,
-    "Observações ": null,
-    "Unnamed: 19": null
+    "Fazenda": null
   },
   {
     "ID": "3574693",
@@ -25829,9 +23585,7 @@ window.QUALIDADE_CANA_DATA = [
     "Responsável": "Leonardo Ribeiro Teixeira da Silva",
     "Quantidade de Cana": "BOM",
     "Observações": null,
-    "Fazenda": null,
-    "Observações ": null,
-    "Unnamed: 19": null
+    "Fazenda": null
   },
   {
     "ID": "3574691",
@@ -25852,9 +23606,7 @@ window.QUALIDADE_CANA_DATA = [
     "Responsável": "Ruan Alexandre Lopes",
     "Quantidade de Cana": "BOM",
     "Observações": null,
-    "Fazenda": null,
-    "Observações ": null,
-    "Unnamed: 19": null
+    "Fazenda": null
   },
   {
     "ID": "3574690",
@@ -25875,9 +23627,7 @@ window.QUALIDADE_CANA_DATA = [
     "Responsável": "Ruan Alexandre Lopes",
     "Quantidade de Cana": "BOM",
     "Observações": null,
-    "Fazenda": null,
-    "Observações ": null,
-    "Unnamed: 19": null
+    "Fazenda": null
   },
   {
     "ID": "3574577",
@@ -25898,9 +23648,7 @@ window.QUALIDADE_CANA_DATA = [
     "Responsável": "MICHELI DE SOUZA SANTOS  ",
     "Quantidade de Cana": "BOM",
     "Observações": null,
-    "Fazenda": null,
-    "Observações ": null,
-    "Unnamed: 19": null
+    "Fazenda": null
   },
   {
     "ID": "3574521",
@@ -25921,9 +23669,7 @@ window.QUALIDADE_CANA_DATA = [
     "Responsável": "NILDA CLAUDINO [2510716]",
     "Quantidade de Cana": "BOM",
     "Observações": null,
-    "Fazenda": null,
-    "Observações ": null,
-    "Unnamed: 19": null
+    "Fazenda": null
   },
   {
     "ID": "3574520",
@@ -25944,9 +23690,7 @@ window.QUALIDADE_CANA_DATA = [
     "Responsável": "NILDA CLAUDINO [2510716]",
     "Quantidade de Cana": "BOM",
     "Observações": null,
-    "Fazenda": null,
-    "Observações ": null,
-    "Unnamed: 19": null
+    "Fazenda": null
   },
   {
     "ID": "3574519",
@@ -25967,9 +23711,7 @@ window.QUALIDADE_CANA_DATA = [
     "Responsável": "NILDA CLAUDINO [2510716]",
     "Quantidade de Cana": "BOM",
     "Observações": null,
-    "Fazenda": null,
-    "Observações ": null,
-    "Unnamed: 19": null
+    "Fazenda": null
   },
   {
     "ID": "3574264",
@@ -25990,9 +23732,7 @@ window.QUALIDADE_CANA_DATA = [
     "Responsável": "MICHELI DE SOUZA SANTOS  ",
     "Quantidade de Cana": "BOM",
     "Observações": null,
-    "Fazenda": null,
-    "Observações ": null,
-    "Unnamed: 19": null
+    "Fazenda": null
   },
   {
     "ID": "3574558",
@@ -26013,9 +23753,7 @@ window.QUALIDADE_CANA_DATA = [
     "Responsável": "GABRIEL HENRIQUE MARTINS PEREIRA",
     "Quantidade de Cana": "BOM",
     "Observações": null,
-    "Fazenda": null,
-    "Observações ": null,
-    "Unnamed: 19": null
+    "Fazenda": null
   },
   {
     "ID": "3574258",
@@ -26036,9 +23774,7 @@ window.QUALIDADE_CANA_DATA = [
     "Responsável": "MICHELI DE SOUZA SANTOS  ",
     "Quantidade de Cana": "BOM",
     "Observações": null,
-    "Fazenda": null,
-    "Observações ": null,
-    "Unnamed: 19": null
+    "Fazenda": null
   },
   {
     "ID": "3574441",
@@ -26059,9 +23795,7 @@ window.QUALIDADE_CANA_DATA = [
     "Responsável": "VITOR AMORIM RAMOS ",
     "Quantidade de Cana": "BOM",
     "Observações": null,
-    "Fazenda": null,
-    "Observações ": null,
-    "Unnamed: 19": null
+    "Fazenda": null
   },
   {
     "ID": "3574551",
@@ -26082,9 +23816,7 @@ window.QUALIDADE_CANA_DATA = [
     "Responsável": "GABRIEL HENRIQUE MARTINS PEREIRA",
     "Quantidade de Cana": "BOM",
     "Observações": null,
-    "Fazenda": null,
-    "Observações ": null,
-    "Unnamed: 19": null
+    "Fazenda": null
   },
   {
     "ID": "3574253",
@@ -26105,9 +23837,7 @@ window.QUALIDADE_CANA_DATA = [
     "Responsável": "MICHELI DE SOUZA SANTOS  ",
     "Quantidade de Cana": "BOM",
     "Observações": null,
-    "Fazenda": null,
-    "Observações ": null,
-    "Unnamed: 19": null
+    "Fazenda": null
   },
   {
     "ID": "3574436",
@@ -26128,9 +23858,7 @@ window.QUALIDADE_CANA_DATA = [
     "Responsável": "VITOR AMORIM RAMOS ",
     "Quantidade de Cana": "BOM",
     "Observações": null,
-    "Fazenda": null,
-    "Observações ": null,
-    "Unnamed: 19": null
+    "Fazenda": null
   },
   {
     "ID": "3574248",
@@ -26151,9 +23879,7 @@ window.QUALIDADE_CANA_DATA = [
     "Responsável": "MICHELI DE SOUZA SANTOS  ",
     "Quantidade de Cana": "BOM",
     "Observações": null,
-    "Fazenda": null,
-    "Observações ": null,
-    "Unnamed: 19": null
+    "Fazenda": null
   },
   {
     "ID": "3574546",
@@ -26174,9 +23900,7 @@ window.QUALIDADE_CANA_DATA = [
     "Responsável": "GABRIEL HENRIQUE MARTINS PEREIRA",
     "Quantidade de Cana": "BOM",
     "Observações": null,
-    "Fazenda": null,
-    "Observações ": null,
-    "Unnamed: 19": null
+    "Fazenda": null
   },
   {
     "ID": "3574431",
@@ -26197,9 +23921,7 @@ window.QUALIDADE_CANA_DATA = [
     "Responsável": "VITOR AMORIM RAMOS ",
     "Quantidade de Cana": "BOM",
     "Observações": null,
-    "Fazenda": null,
-    "Observações ": null,
-    "Unnamed: 19": null
+    "Fazenda": null
   },
   {
     "ID": "3574243",
@@ -26220,9 +23942,7 @@ window.QUALIDADE_CANA_DATA = [
     "Responsável": "MICHELI DE SOUZA SANTOS  ",
     "Quantidade de Cana": "BOM",
     "Observações": null,
-    "Fazenda": null,
-    "Observações ": null,
-    "Unnamed: 19": null
+    "Fazenda": null
   },
   {
     "ID": "3574540",
@@ -26243,9 +23963,7 @@ window.QUALIDADE_CANA_DATA = [
     "Responsável": "GABRIEL HENRIQUE MARTINS PEREIRA",
     "Quantidade de Cana": "BOM",
     "Observações": null,
-    "Fazenda": null,
-    "Observações ": null,
-    "Unnamed: 19": null
+    "Fazenda": null
   },
   {
     "ID": "3574464",
@@ -26266,9 +23984,7 @@ window.QUALIDADE_CANA_DATA = [
     "Responsável": "GABRIEL HENRIQUE MARTINS PEREIRA",
     "Quantidade de Cana": "BOM",
     "Observações": null,
-    "Fazenda": null,
-    "Observações ": null,
-    "Unnamed: 19": null
+    "Fazenda": null
   },
   {
     "ID": "3574463",
@@ -26289,9 +24005,7 @@ window.QUALIDADE_CANA_DATA = [
     "Responsável": "GABRIEL HENRIQUE MARTINS PEREIRA",
     "Quantidade de Cana": "BOM",
     "Observações": null,
-    "Fazenda": null,
-    "Observações ": null,
-    "Unnamed: 19": null
+    "Fazenda": null
   },
   {
     "ID": "3574227",
@@ -26312,9 +24026,7 @@ window.QUALIDADE_CANA_DATA = [
     "Responsável": "MICHELI DE SOUZA SANTOS  ",
     "Quantidade de Cana": "BOM",
     "Observações": null,
-    "Fazenda": null,
-    "Observações ": null,
-    "Unnamed: 19": null
+    "Fazenda": null
   },
   {
     "ID": "3574226",
@@ -26335,9 +24047,7 @@ window.QUALIDADE_CANA_DATA = [
     "Responsável": "MICHELI DE SOUZA SANTOS  ",
     "Quantidade de Cana": "BOM",
     "Observações": null,
-    "Fazenda": null,
-    "Observações ": null,
-    "Unnamed: 19": null
+    "Fazenda": null
   },
   {
     "ID": "3574224",
@@ -26358,9 +24068,7 @@ window.QUALIDADE_CANA_DATA = [
     "Responsável": "MICHELI DE SOUZA SANTOS  ",
     "Quantidade de Cana": "BOM",
     "Observações": null,
-    "Fazenda": null,
-    "Observações ": null,
-    "Unnamed: 19": null
+    "Fazenda": null
   },
   {
     "ID": "3574223",
@@ -26381,9 +24089,7 @@ window.QUALIDADE_CANA_DATA = [
     "Responsável": "MICHELI DE SOUZA SANTOS  ",
     "Quantidade de Cana": "BOM",
     "Observações": null,
-    "Fazenda": null,
-    "Observações ": null,
-    "Unnamed: 19": null
+    "Fazenda": null
   },
   {
     "ID": "3574222",
@@ -26404,9 +24110,7 @@ window.QUALIDADE_CANA_DATA = [
     "Responsável": "MICHELI DE SOUZA SANTOS  ",
     "Quantidade de Cana": "BOM",
     "Observações": null,
-    "Fazenda": null,
-    "Observações ": null,
-    "Unnamed: 19": null
+    "Fazenda": null
   },
   {
     "ID": "3574424",
@@ -26427,9 +24131,7 @@ window.QUALIDADE_CANA_DATA = [
     "Responsável": "VITOR AMORIM RAMOS ",
     "Quantidade de Cana": "BOM",
     "Observações": null,
-    "Fazenda": null,
-    "Observações ": null,
-    "Unnamed: 19": null
+    "Fazenda": null
   },
   {
     "ID": "3574410",
@@ -26450,9 +24152,7 @@ window.QUALIDADE_CANA_DATA = [
     "Responsável": "VITOR AMORIM RAMOS ",
     "Quantidade de Cana": "BOM",
     "Observações": null,
-    "Fazenda": null,
-    "Observações ": null,
-    "Unnamed: 19": null
+    "Fazenda": null
   },
   {
     "ID": "3574405",
@@ -26473,9 +24173,7 @@ window.QUALIDADE_CANA_DATA = [
     "Responsável": "VITOR AMORIM RAMOS ",
     "Quantidade de Cana": "BOM",
     "Observações": null,
-    "Fazenda": null,
-    "Observações ": null,
-    "Unnamed: 19": null
+    "Fazenda": null
   },
   {
     "ID": "3574484",
@@ -26496,9 +24194,7 @@ window.QUALIDADE_CANA_DATA = [
     "Responsável": "NILDA CLAUDINO [2510716]",
     "Quantidade de Cana": "BOM",
     "Observações": null,
-    "Fazenda": null,
-    "Observações ": null,
-    "Unnamed: 19": null
+    "Fazenda": null
   },
   {
     "ID": "3574483",
@@ -26519,9 +24215,7 @@ window.QUALIDADE_CANA_DATA = [
     "Responsável": "NILDA CLAUDINO [2510716]",
     "Quantidade de Cana": "BOM",
     "Observações": null,
-    "Fazenda": null,
-    "Observações ": null,
-    "Unnamed: 19": null
+    "Fazenda": null
   },
   {
     "ID": "3574482",
@@ -26542,9 +24236,7 @@ window.QUALIDADE_CANA_DATA = [
     "Responsável": "NILDA CLAUDINO [2510716]",
     "Quantidade de Cana": "BOM",
     "Observações": null,
-    "Fazenda": null,
-    "Observações ": null,
-    "Unnamed: 19": null
+    "Fazenda": null
   },
   {
     "ID": "3574421",
@@ -26565,9 +24257,7 @@ window.QUALIDADE_CANA_DATA = [
     "Responsável": "VITOR AMORIM RAMOS ",
     "Quantidade de Cana": "BOM",
     "Observações": null,
-    "Fazenda": null,
-    "Observações ": null,
-    "Unnamed: 19": null
+    "Fazenda": null
   },
   {
     "ID": "3574673",
@@ -26588,9 +24278,7 @@ window.QUALIDADE_CANA_DATA = [
     "Responsável": "Ruan Alexandre Lopes",
     "Quantidade de Cana": "BOM",
     "Observações": null,
-    "Fazenda": null,
-    "Observações ": null,
-    "Unnamed: 19": null
+    "Fazenda": null
   },
   {
     "ID": "3574395",
@@ -26611,9 +24299,7 @@ window.QUALIDADE_CANA_DATA = [
     "Responsável": "VITOR AMORIM RAMOS ",
     "Quantidade de Cana": "BOM",
     "Observações": null,
-    "Fazenda": null,
-    "Observações ": null,
-    "Unnamed: 19": null
+    "Fazenda": null
   },
   {
     "ID": "3574467",
@@ -26634,9 +24320,7 @@ window.QUALIDADE_CANA_DATA = [
     "Responsável": "NILDA CLAUDINO [2510716]",
     "Quantidade de Cana": "BOM",
     "Observações": null,
-    "Fazenda": null,
-    "Observações ": null,
-    "Unnamed: 19": null
+    "Fazenda": null
   },
   {
     "ID": "3574466",
@@ -26657,9 +24341,7 @@ window.QUALIDADE_CANA_DATA = [
     "Responsável": "NILDA CLAUDINO [2510716]",
     "Quantidade de Cana": "BOM",
     "Observações": null,
-    "Fazenda": null,
-    "Observações ": null,
-    "Unnamed: 19": null
+    "Fazenda": null
   },
   {
     "ID": "3574465",
@@ -26680,9 +24362,7 @@ window.QUALIDADE_CANA_DATA = [
     "Responsável": "NILDA CLAUDINO [2510716]",
     "Quantidade de Cana": "BOM",
     "Observações": null,
-    "Fazenda": null,
-    "Observações ": null,
-    "Unnamed: 19": null
+    "Fazenda": null
   },
   {
     "ID": "3574390",
@@ -26703,9 +24383,7 @@ window.QUALIDADE_CANA_DATA = [
     "Responsável": "VITOR AMORIM RAMOS ",
     "Quantidade de Cana": "BOM",
     "Observações": null,
-    "Fazenda": null,
-    "Observações ": null,
-    "Unnamed: 19": null
+    "Fazenda": null
   },
   {
     "ID": "3574386",
@@ -26726,9 +24404,7 @@ window.QUALIDADE_CANA_DATA = [
     "Responsável": "VITOR AMORIM RAMOS ",
     "Quantidade de Cana": "BOM",
     "Observações": null,
-    "Fazenda": null,
-    "Observações ": null,
-    "Unnamed: 19": null
+    "Fazenda": null
   },
   {
     "ID": "3572726",
@@ -26749,9 +24425,7 @@ window.QUALIDADE_CANA_DATA = [
     "Responsável": "REGINALDO DA SILVA GOMES ",
     "Quantidade de Cana": "BOM",
     "Observações": null,
-    "Fazenda": null,
-    "Observações ": null,
-    "Unnamed: 19": null
+    "Fazenda": null
   },
   {
     "ID": "3572721",
@@ -26772,9 +24446,7 @@ window.QUALIDADE_CANA_DATA = [
     "Responsável": "REGINALDO DA SILVA GOMES ",
     "Quantidade de Cana": "BOM",
     "Observações": null,
-    "Fazenda": null,
-    "Observações ": null,
-    "Unnamed: 19": null
+    "Fazenda": null
   },
   {
     "ID": "3572766",
@@ -26795,9 +24467,7 @@ window.QUALIDADE_CANA_DATA = [
     "Responsável": "VITOR AMORIM RAMOS ",
     "Quantidade de Cana": "BOM",
     "Observações": null,
-    "Fazenda": null,
-    "Observações ": null,
-    "Unnamed: 19": null
+    "Fazenda": null
   },
   {
     "ID": "3572761",
@@ -26818,9 +24488,7 @@ window.QUALIDADE_CANA_DATA = [
     "Responsável": "VITOR AMORIM RAMOS ",
     "Quantidade de Cana": "BOM",
     "Observações": null,
-    "Fazenda": null,
-    "Observações ": null,
-    "Unnamed: 19": null
+    "Fazenda": null
   },
   {
     "ID": "3572716",
@@ -26841,9 +24509,7 @@ window.QUALIDADE_CANA_DATA = [
     "Responsável": "REGINALDO DA SILVA GOMES ",
     "Quantidade de Cana": "BOM",
     "Observações": null,
-    "Fazenda": null,
-    "Observações ": null,
-    "Unnamed: 19": null
+    "Fazenda": null
   },
   {
     "ID": "3572711",
@@ -26864,9 +24530,7 @@ window.QUALIDADE_CANA_DATA = [
     "Responsável": "REGINALDO DA SILVA GOMES ",
     "Quantidade de Cana": "BOM",
     "Observações": null,
-    "Fazenda": null,
-    "Observações ": null,
-    "Unnamed: 19": null
+    "Fazenda": null
   },
   {
     "ID": "3572756",
@@ -26887,9 +24551,7 @@ window.QUALIDADE_CANA_DATA = [
     "Responsável": "VITOR AMORIM RAMOS ",
     "Quantidade de Cana": "BOM",
     "Observações": null,
-    "Fazenda": null,
-    "Observações ": null,
-    "Unnamed: 19": null
+    "Fazenda": null
   },
   {
     "ID": "3572750",
@@ -26910,9 +24572,7 @@ window.QUALIDADE_CANA_DATA = [
     "Responsável": "VITOR AMORIM RAMOS ",
     "Quantidade de Cana": "BOM",
     "Observações": null,
-    "Fazenda": null,
-    "Observações ": null,
-    "Unnamed: 19": null
+    "Fazenda": null
   },
   {
     "ID": "3572706",
@@ -26933,9 +24593,7 @@ window.QUALIDADE_CANA_DATA = [
     "Responsável": "REGINALDO DA SILVA GOMES ",
     "Quantidade de Cana": "BOM",
     "Observações": null,
-    "Fazenda": null,
-    "Observações ": null,
-    "Unnamed: 19": null
+    "Fazenda": null
   },
   {
     "ID": "3572593",
@@ -26956,9 +24614,7 @@ window.QUALIDADE_CANA_DATA = [
     "Responsável": "MARCELO DE OLIVEIRA JUNIOR",
     "Quantidade de Cana": "BOM",
     "Observações": null,
-    "Fazenda": null,
-    "Observações ": null,
-    "Unnamed: 19": null
+    "Fazenda": null
   },
   {
     "ID": "3572602",
@@ -26979,9 +24635,7 @@ window.QUALIDADE_CANA_DATA = [
     "Responsável": "NILDA CLAUDINO [2510716]",
     "Quantidade de Cana": "BOM",
     "Observações": null,
-    "Fazenda": null,
-    "Observações ": null,
-    "Unnamed: 19": null
+    "Fazenda": null
   },
   {
     "ID": "3572701",
@@ -27002,9 +24656,7 @@ window.QUALIDADE_CANA_DATA = [
     "Responsável": "REGINALDO DA SILVA GOMES ",
     "Quantidade de Cana": "BOM",
     "Observações": null,
-    "Fazenda": null,
-    "Observações ": null,
-    "Unnamed: 19": null
+    "Fazenda": null
   },
   {
     "ID": "3572601",
@@ -27025,9 +24677,7 @@ window.QUALIDADE_CANA_DATA = [
     "Responsável": "NILDA CLAUDINO [2510716]",
     "Quantidade de Cana": "BOM",
     "Observações": null,
-    "Fazenda": null,
-    "Observações ": null,
-    "Unnamed: 19": null
+    "Fazenda": null
   },
   {
     "ID": "3572632",
@@ -27048,9 +24698,7 @@ window.QUALIDADE_CANA_DATA = [
     "Responsável": "NILDA CLAUDINO [2510716]",
     "Quantidade de Cana": "BOM",
     "Observações": null,
-    "Fazenda": null,
-    "Observações ": null,
-    "Unnamed: 19": null
+    "Fazenda": null
   },
   {
     "ID": "3572629",
@@ -27071,9 +24719,7 @@ window.QUALIDADE_CANA_DATA = [
     "Responsável": "NILDA CLAUDINO [2510716]",
     "Quantidade de Cana": "BOM",
     "Observações": null,
-    "Fazenda": null,
-    "Observações ": null,
-    "Unnamed: 19": null
+    "Fazenda": null
   },
   {
     "ID": "3572585",
@@ -27094,9 +24740,7 @@ window.QUALIDADE_CANA_DATA = [
     "Responsável": "MARCELO DE OLIVEIRA JUNIOR",
     "Quantidade de Cana": "BOM",
     "Observações": null,
-    "Fazenda": null,
-    "Observações ": null,
-    "Unnamed: 19": null
+    "Fazenda": null
   },
   {
     "ID": "3572630",
@@ -27117,9 +24761,7 @@ window.QUALIDADE_CANA_DATA = [
     "Responsável": "NILDA CLAUDINO [2510716]",
     "Quantidade de Cana": "BOM",
     "Observações": null,
-    "Fazenda": null,
-    "Observações ": null,
-    "Unnamed: 19": null
+    "Fazenda": null
   },
   {
     "ID": "3572498",
@@ -27140,9 +24782,7 @@ window.QUALIDADE_CANA_DATA = [
     "Responsável": "NILDA CLAUDINO [2510716]",
     "Quantidade de Cana": "BOM",
     "Observações": null,
-    "Fazenda": null,
-    "Observações ": null,
-    "Unnamed: 19": null
+    "Fazenda": null
   },
   {
     "ID": "3572696",
@@ -27163,9 +24803,7 @@ window.QUALIDADE_CANA_DATA = [
     "Responsável": "REGINALDO DA SILVA GOMES ",
     "Quantidade de Cana": "BOM",
     "Observações": null,
-    "Fazenda": null,
-    "Observações ": null,
-    "Unnamed: 19": null
+    "Fazenda": null
   },
   {
     "ID": "3572693",
@@ -27186,9 +24824,7 @@ window.QUALIDADE_CANA_DATA = [
     "Responsável": "REGINALDO DA SILVA GOMES ",
     "Quantidade de Cana": "BOM",
     "Observações": null,
-    "Fazenda": null,
-    "Observações ": null,
-    "Unnamed: 19": null
+    "Fazenda": null
   },
   {
     "ID": "3572688",
@@ -27209,9 +24845,7 @@ window.QUALIDADE_CANA_DATA = [
     "Responsável": "REGINALDO DA SILVA GOMES ",
     "Quantidade de Cana": "BOM",
     "Observações": null,
-    "Fazenda": null,
-    "Observações ": null,
-    "Unnamed: 19": null
+    "Fazenda": null
   },
   {
     "ID": "3572684",
@@ -27232,9 +24866,7 @@ window.QUALIDADE_CANA_DATA = [
     "Responsável": "REGINALDO DA SILVA GOMES ",
     "Quantidade de Cana": "BOM",
     "Observações": null,
-    "Fazenda": null,
-    "Observações ": null,
-    "Unnamed: 19": null
+    "Fazenda": null
   },
   {
     "ID": "3572677",
@@ -27255,9 +24887,7 @@ window.QUALIDADE_CANA_DATA = [
     "Responsável": "REGINALDO DA SILVA GOMES ",
     "Quantidade de Cana": "BOM",
     "Observações": null,
-    "Fazenda": null,
-    "Observações ": null,
-    "Unnamed: 19": null
+    "Fazenda": null
   },
   {
     "ID": "3572672",
@@ -27278,9 +24908,7 @@ window.QUALIDADE_CANA_DATA = [
     "Responsável": "REGINALDO DA SILVA GOMES ",
     "Quantidade de Cana": "BOM",
     "Observações": null,
-    "Fazenda": null,
-    "Observações ": null,
-    "Unnamed: 19": null
+    "Fazenda": null
   },
   {
     "ID": "3572667",
@@ -27301,9 +24929,7 @@ window.QUALIDADE_CANA_DATA = [
     "Responsável": "REGINALDO DA SILVA GOMES ",
     "Quantidade de Cana": "BOM",
     "Observações": null,
-    "Fazenda": null,
-    "Observações ": null,
-    "Unnamed: 19": null
+    "Fazenda": null
   },
   {
     "ID": "3572663",
@@ -27324,9 +24950,7 @@ window.QUALIDADE_CANA_DATA = [
     "Responsável": "REGINALDO DA SILVA GOMES ",
     "Quantidade de Cana": "BOM",
     "Observações": null,
-    "Fazenda": null,
-    "Observações ": null,
-    "Unnamed: 19": null
+    "Fazenda": null
   },
   {
     "ID": "3572401",
@@ -27347,9 +24971,7 @@ window.QUALIDADE_CANA_DATA = [
     "Responsável": "MICHELI DE SOUZA SANTOS  ",
     "Quantidade de Cana": "BOM",
     "Observações": null,
-    "Fazenda": null,
-    "Observações ": null,
-    "Unnamed: 19": null
+    "Fazenda": null
   },
   {
     "ID": "3572576",
@@ -27370,9 +24992,7 @@ window.QUALIDADE_CANA_DATA = [
     "Responsável": "MARCELO DE OLIVEIRA JUNIOR",
     "Quantidade de Cana": "BOM",
     "Observações": null,
-    "Fazenda": null,
-    "Observações ": null,
-    "Unnamed: 19": null
+    "Fazenda": null
   },
   {
     "ID": "3572574",
@@ -27393,9 +25013,7 @@ window.QUALIDADE_CANA_DATA = [
     "Responsável": "MARCELO DE OLIVEIRA JUNIOR",
     "Quantidade de Cana": "BOM",
     "Observações": null,
-    "Fazenda": null,
-    "Observações ": null,
-    "Unnamed: 19": null
+    "Fazenda": null
   },
   {
     "ID": "3572659",
@@ -27416,9 +25034,7 @@ window.QUALIDADE_CANA_DATA = [
     "Responsável": "REGINALDO DA SILVA GOMES ",
     "Quantidade de Cana": "BOM",
     "Observações": null,
-    "Fazenda": null,
-    "Observações ": null,
-    "Unnamed: 19": null
+    "Fazenda": null
   },
   {
     "ID": "3572396",
@@ -27439,9 +25055,7 @@ window.QUALIDADE_CANA_DATA = [
     "Responsável": "MICHELI DE SOUZA SANTOS  ",
     "Quantidade de Cana": "BOM",
     "Observações": null,
-    "Fazenda": null,
-    "Observações ": null,
-    "Unnamed: 19": null
+    "Fazenda": null
   },
   {
     "ID": "3572654",
@@ -27462,9 +25076,7 @@ window.QUALIDADE_CANA_DATA = [
     "Responsável": "REGINALDO DA SILVA GOMES ",
     "Quantidade de Cana": "BOM",
     "Observações": null,
-    "Fazenda": null,
-    "Observações ": null,
-    "Unnamed: 19": null
+    "Fazenda": null
   },
   {
     "ID": "3572647",
@@ -27485,9 +25097,7 @@ window.QUALIDADE_CANA_DATA = [
     "Responsável": "REGINALDO DA SILVA GOMES ",
     "Quantidade de Cana": "BOM",
     "Observações": null,
-    "Fazenda": null,
-    "Observações ": null,
-    "Unnamed: 19": null
+    "Fazenda": null
   },
   {
     "ID": "3572196",
@@ -27508,9 +25118,7 @@ window.QUALIDADE_CANA_DATA = [
     "Responsável": "VITOR AMORIM RAMOS ",
     "Quantidade de Cana": "BOM",
     "Observações": null,
-    "Fazenda": null,
-    "Observações ": null,
-    "Unnamed: 19": null
+    "Fazenda": null
   },
   {
     "ID": "3572389",
@@ -27531,9 +25139,7 @@ window.QUALIDADE_CANA_DATA = [
     "Responsável": "MABILA HELEN D FIGUEIREDO",
     "Quantidade de Cana": "BOM",
     "Observações": null,
-    "Fazenda": null,
-    "Observações ": null,
-    "Unnamed: 19": null
+    "Fazenda": null
   },
   {
     "ID": "3572642",
@@ -27554,9 +25160,7 @@ window.QUALIDADE_CANA_DATA = [
     "Responsável": "REGINALDO DA SILVA GOMES ",
     "Quantidade de Cana": "BOM",
     "Observações": null,
-    "Fazenda": null,
-    "Observações ": null,
-    "Unnamed: 19": null
+    "Fazenda": null
   },
   {
     "ID": "3572192",
@@ -27577,9 +25181,7 @@ window.QUALIDADE_CANA_DATA = [
     "Responsável": "VITOR AMORIM RAMOS ",
     "Quantidade de Cana": "BOM",
     "Observações": null,
-    "Fazenda": null,
-    "Observações ": null,
-    "Unnamed: 19": null
+    "Fazenda": null
   },
   {
     "ID": "3572491",
@@ -27600,9 +25202,7 @@ window.QUALIDADE_CANA_DATA = [
     "Responsável": "REGINALDO DA SILVA GOMES ",
     "Quantidade de Cana": "BOM",
     "Observações": null,
-    "Fazenda": null,
-    "Observações ": null,
-    "Unnamed: 19": null
+    "Fazenda": null
   },
   {
     "ID": "3572187",
@@ -27623,9 +25223,7 @@ window.QUALIDADE_CANA_DATA = [
     "Responsável": "VITOR AMORIM RAMOS ",
     "Quantidade de Cana": "BOM",
     "Observações": null,
-    "Fazenda": null,
-    "Observações ": null,
-    "Unnamed: 19": null
+    "Fazenda": null
   },
   {
     "ID": "3572487",
@@ -27646,9 +25244,7 @@ window.QUALIDADE_CANA_DATA = [
     "Responsável": "REGINALDO DA SILVA GOMES ",
     "Quantidade de Cana": "BOM",
     "Observações": null,
-    "Fazenda": null,
-    "Observações ": null,
-    "Unnamed: 19": null
+    "Fazenda": null
   },
   {
     "ID": "3572569",
@@ -27669,9 +25265,7 @@ window.QUALIDADE_CANA_DATA = [
     "Responsável": "MARCELO DE OLIVEIRA JUNIOR",
     "Quantidade de Cana": "BOM",
     "Observações": null,
-    "Fazenda": null,
-    "Observações ": null,
-    "Unnamed: 19": null
+    "Fazenda": null
   },
   {
     "ID": "3572182",
@@ -27692,9 +25286,7 @@ window.QUALIDADE_CANA_DATA = [
     "Responsável": "VITOR AMORIM RAMOS ",
     "Quantidade de Cana": "BOM",
     "Observações": null,
-    "Fazenda": null,
-    "Observações ": null,
-    "Unnamed: 19": null
+    "Fazenda": null
   },
   {
     "ID": "3572482",
@@ -27715,9 +25307,7 @@ window.QUALIDADE_CANA_DATA = [
     "Responsável": "REGINALDO DA SILVA GOMES ",
     "Quantidade de Cana": "BOM",
     "Observações": null,
-    "Fazenda": null,
-    "Observações ": null,
-    "Unnamed: 19": null
+    "Fazenda": null
   },
   {
     "ID": "3572173",
@@ -27738,9 +25328,7 @@ window.QUALIDADE_CANA_DATA = [
     "Responsável": "VITOR AMORIM RAMOS ",
     "Quantidade de Cana": "BOM",
     "Observações": null,
-    "Fazenda": null,
-    "Observações ": null,
-    "Unnamed: 19": null
+    "Fazenda": null
   },
   {
     "ID": "3572555",
@@ -27761,9 +25349,7 @@ window.QUALIDADE_CANA_DATA = [
     "Responsável": "MARCELO DE OLIVEIRA JUNIOR",
     "Quantidade de Cana": "BOM",
     "Observações": null,
-    "Fazenda": null,
-    "Observações ": null,
-    "Unnamed: 19": null
+    "Fazenda": null
   },
   {
     "ID": "3572532",
@@ -27784,9 +25370,7 @@ window.QUALIDADE_CANA_DATA = [
     "Responsável": "MARCELO DE OLIVEIRA JUNIOR",
     "Quantidade de Cana": "BOM",
     "Observações": null,
-    "Fazenda": null,
-    "Observações ": null,
-    "Unnamed: 19": null
+    "Fazenda": null
   },
   {
     "ID": "3572527",
@@ -27807,9 +25391,7 @@ window.QUALIDADE_CANA_DATA = [
     "Responsável": "MARCELO DE OLIVEIRA JUNIOR",
     "Quantidade de Cana": "BOM",
     "Observações": null,
-    "Fazenda": null,
-    "Observações ": null,
-    "Unnamed: 19": null
+    "Fazenda": null
   },
   {
     "ID": "3570512",
@@ -27830,9 +25412,7 @@ window.QUALIDADE_CANA_DATA = [
     "Responsável": "Leonardo Ribeiro Teixeira da Silva",
     "Quantidade de Cana": "BOM",
     "Observações": null,
-    "Fazenda": null,
-    "Observações ": null,
-    "Unnamed: 19": null
+    "Fazenda": null
   },
   {
     "ID": "3570510",
@@ -27853,9 +25433,7 @@ window.QUALIDADE_CANA_DATA = [
     "Responsável": "Leonardo Ribeiro Teixeira da Silva",
     "Quantidade de Cana": "BOM",
     "Observações": null,
-    "Fazenda": null,
-    "Observações ": null,
-    "Unnamed: 19": null
+    "Fazenda": null
   },
   {
     "ID": "3570509",
@@ -27876,9 +25454,7 @@ window.QUALIDADE_CANA_DATA = [
     "Responsável": "Leonardo Ribeiro Teixeira da Silva",
     "Quantidade de Cana": "BOM",
     "Observações": null,
-    "Fazenda": null,
-    "Observações ": null,
-    "Unnamed: 19": null
+    "Fazenda": null
   },
   {
     "ID": "3570502",
@@ -27899,9 +25475,7 @@ window.QUALIDADE_CANA_DATA = [
     "Responsável": "REGINALDO DA SILVA GOMES ",
     "Quantidade de Cana": "BOM",
     "Observações": null,
-    "Fazenda": null,
-    "Observações ": null,
-    "Unnamed: 19": null
+    "Fazenda": null
   },
   {
     "ID": "3570500",
@@ -27922,9 +25496,7 @@ window.QUALIDADE_CANA_DATA = [
     "Responsável": "REGINALDO DA SILVA GOMES ",
     "Quantidade de Cana": "BOM",
     "Observações": null,
-    "Fazenda": null,
-    "Observações ": null,
-    "Unnamed: 19": null
+    "Fazenda": null
   },
   {
     "ID": "3570492",
@@ -27945,9 +25517,7 @@ window.QUALIDADE_CANA_DATA = [
     "Responsável": "REGINALDO DA SILVA GOMES ",
     "Quantidade de Cana": "BOM",
     "Observações": null,
-    "Fazenda": null,
-    "Observações ": null,
-    "Unnamed: 19": null
+    "Fazenda": null
   },
   {
     "ID": "3571042",
@@ -27968,9 +25538,7 @@ window.QUALIDADE_CANA_DATA = [
     "Responsável": "VITOR AMORIM RAMOS ",
     "Quantidade de Cana": "BOM",
     "Observações": null,
-    "Fazenda": null,
-    "Observações ": null,
-    "Unnamed: 19": null
+    "Fazenda": null
   },
   {
     "ID": "3571037",
@@ -27991,9 +25559,7 @@ window.QUALIDADE_CANA_DATA = [
     "Responsável": "VITOR AMORIM RAMOS ",
     "Quantidade de Cana": "BOM",
     "Observações": null,
-    "Fazenda": null,
-    "Observações ": null,
-    "Unnamed: 19": null
+    "Fazenda": null
   },
   {
     "ID": "3570007",
@@ -28014,9 +25580,7 @@ window.QUALIDADE_CANA_DATA = [
     "Responsável": "Leonardo Ribeiro Teixeira da Silva",
     "Quantidade de Cana": "BOM",
     "Observações": null,
-    "Fazenda": null,
-    "Observações ": null,
-    "Unnamed: 19": null
+    "Fazenda": null
   },
   {
     "ID": "3569990",
@@ -28037,9 +25601,7 @@ window.QUALIDADE_CANA_DATA = [
     "Responsável": "Leonardo Ribeiro Teixeira da Silva",
     "Quantidade de Cana": "BOM",
     "Observações": null,
-    "Fazenda": null,
-    "Observações ": null,
-    "Unnamed: 19": null
+    "Fazenda": null
   },
   {
     "ID": "3569989",
@@ -28060,9 +25622,7 @@ window.QUALIDADE_CANA_DATA = [
     "Responsável": "Leonardo Ribeiro Teixeira da Silva",
     "Quantidade de Cana": "BOM",
     "Observações": null,
-    "Fazenda": null,
-    "Observações ": null,
-    "Unnamed: 19": null
+    "Fazenda": null
   },
   {
     "ID": "3571032",
@@ -28083,9 +25643,7 @@ window.QUALIDADE_CANA_DATA = [
     "Responsável": "VITOR AMORIM RAMOS ",
     "Quantidade de Cana": "BOM",
     "Observações": null,
-    "Fazenda": null,
-    "Observações ": null,
-    "Unnamed: 19": null
+    "Fazenda": null
   },
   {
     "ID": "3569930",
@@ -28106,9 +25664,7 @@ window.QUALIDADE_CANA_DATA = [
     "Responsável": " Antonio ",
     "Quantidade de Cana": "BOM",
     "Observações": null,
-    "Fazenda": null,
-    "Observações ": null,
-    "Unnamed: 19": null
+    "Fazenda": null
   },
   {
     "ID": "3569917",
@@ -28129,9 +25685,7 @@ window.QUALIDADE_CANA_DATA = [
     "Responsável": " Antonio ",
     "Quantidade de Cana": "BOM",
     "Observações": null,
-    "Fazenda": null,
-    "Observações ": null,
-    "Unnamed: 19": null
+    "Fazenda": null
   },
   {
     "ID": "3569914",
@@ -28152,9 +25706,7 @@ window.QUALIDADE_CANA_DATA = [
     "Responsável": " Antonio ",
     "Quantidade de Cana": "BOM",
     "Observações": null,
-    "Fazenda": null,
-    "Observações ": null,
-    "Unnamed: 19": null
+    "Fazenda": null
   },
   {
     "ID": "3569871",
@@ -28175,9 +25727,7 @@ window.QUALIDADE_CANA_DATA = [
     "Responsável": "VITOR AMORIM RAMOS ",
     "Quantidade de Cana": "BOM",
     "Observações": null,
-    "Fazenda": null,
-    "Observações ": null,
-    "Unnamed: 19": null
+    "Fazenda": null
   },
   {
     "ID": "3570490",
@@ -28198,9 +25748,7 @@ window.QUALIDADE_CANA_DATA = [
     "Responsável": "REGINALDO DA SILVA GOMES ",
     "Quantidade de Cana": "BOM",
     "Observações": null,
-    "Fazenda": null,
-    "Observações ": null,
-    "Unnamed: 19": null
+    "Fazenda": null
   },
   {
     "ID": "3569866",
@@ -28221,9 +25769,7 @@ window.QUALIDADE_CANA_DATA = [
     "Responsável": "VITOR AMORIM RAMOS ",
     "Quantidade de Cana": "BOM",
     "Observações": null,
-    "Fazenda": null,
-    "Observações ": null,
-    "Unnamed: 19": null
+    "Fazenda": null
   },
   {
     "ID": "3570485",
@@ -28244,9 +25790,7 @@ window.QUALIDADE_CANA_DATA = [
     "Responsável": "REGINALDO DA SILVA GOMES ",
     "Quantidade de Cana": "BOM",
     "Observações": null,
-    "Fazenda": null,
-    "Observações ": null,
-    "Unnamed: 19": null
+    "Fazenda": null
   },
   {
     "ID": "3570479",
@@ -28267,9 +25811,7 @@ window.QUALIDADE_CANA_DATA = [
     "Responsável": "REGINALDO DA SILVA GOMES ",
     "Quantidade de Cana": "BOM",
     "Observações": null,
-    "Fazenda": null,
-    "Observações ": null,
-    "Unnamed: 19": null
+    "Fazenda": null
   },
   {
     "ID": "3570133",
@@ -28290,9 +25832,7 @@ window.QUALIDADE_CANA_DATA = [
     "Responsável": "MARCELO DE OLIVEIRA JUNIOR",
     "Quantidade de Cana": "BOM",
     "Observações": null,
-    "Fazenda": null,
-    "Observações ": null,
-    "Unnamed: 19": null
+    "Fazenda": null
   },
   {
     "ID": "3569852",
@@ -28313,9 +25853,7 @@ window.QUALIDADE_CANA_DATA = [
     "Responsável": "VITOR AMORIM RAMOS ",
     "Quantidade de Cana": "BOM",
     "Observações": null,
-    "Fazenda": null,
-    "Observações ": null,
-    "Unnamed: 19": null
+    "Fazenda": null
   },
   {
     "ID": "3569847",
@@ -28336,9 +25874,7 @@ window.QUALIDADE_CANA_DATA = [
     "Responsável": "VITOR AMORIM RAMOS ",
     "Quantidade de Cana": "BOM",
     "Observações": null,
-    "Fazenda": null,
-    "Observações ": null,
-    "Unnamed: 19": null
+    "Fazenda": null
   },
   {
     "ID": "3569841",
@@ -28359,9 +25895,7 @@ window.QUALIDADE_CANA_DATA = [
     "Responsável": "VITOR AMORIM RAMOS ",
     "Quantidade de Cana": "BOM",
     "Observações": null,
-    "Fazenda": null,
-    "Observações ": null,
-    "Unnamed: 19": null
+    "Fazenda": null
   },
   {
     "ID": "3570052",
@@ -28382,9 +25916,7 @@ window.QUALIDADE_CANA_DATA = [
     "Responsável": "NILDA CLAUDINO [2510716]",
     "Quantidade de Cana": "BOM",
     "Observações": null,
-    "Fazenda": null,
-    "Observações ": null,
-    "Unnamed: 19": null
+    "Fazenda": null
   },
   {
     "ID": "3570128",
@@ -28405,9 +25937,7 @@ window.QUALIDADE_CANA_DATA = [
     "Responsável": "MARCELO DE OLIVEIRA JUNIOR",
     "Quantidade de Cana": "BOM",
     "Observações": null,
-    "Fazenda": null,
-    "Observações ": null,
-    "Unnamed: 19": null
+    "Fazenda": null
   },
   {
     "ID": "3570051",
@@ -28428,9 +25958,7 @@ window.QUALIDADE_CANA_DATA = [
     "Responsável": "NILDA CLAUDINO [2510716]",
     "Quantidade de Cana": "BOM",
     "Observações": null,
-    "Fazenda": null,
-    "Observações ": null,
-    "Unnamed: 19": null
+    "Fazenda": null
   },
   {
     "ID": "3570050",
@@ -28451,9 +25979,7 @@ window.QUALIDADE_CANA_DATA = [
     "Responsável": "NILDA CLAUDINO [2510716]",
     "Quantidade de Cana": "BOM",
     "Observações": null,
-    "Fazenda": null,
-    "Observações ": null,
-    "Unnamed: 19": null
+    "Fazenda": null
   },
   {
     "ID": "3570123",
@@ -28474,9 +26000,7 @@ window.QUALIDADE_CANA_DATA = [
     "Responsável": "MARCELO DE OLIVEIRA JUNIOR",
     "Quantidade de Cana": "BOM",
     "Observações": null,
-    "Fazenda": null,
-    "Observações ": null,
-    "Unnamed: 19": null
+    "Fazenda": null
   },
   {
     "ID": "3569836",
@@ -28497,9 +26021,7 @@ window.QUALIDADE_CANA_DATA = [
     "Responsável": "VITOR AMORIM RAMOS ",
     "Quantidade de Cana": "BOM",
     "Observações": null,
-    "Fazenda": null,
-    "Observações ": null,
-    "Unnamed: 19": null
+    "Fazenda": null
   },
   {
     "ID": "3570118",
@@ -28520,9 +26042,7 @@ window.QUALIDADE_CANA_DATA = [
     "Responsável": "MARCELO DE OLIVEIRA JUNIOR",
     "Quantidade de Cana": "BOM",
     "Observações": null,
-    "Fazenda": null,
-    "Observações ": null,
-    "Unnamed: 19": null
+    "Fazenda": null
   },
   {
     "ID": "3569830",
@@ -28543,9 +26063,7 @@ window.QUALIDADE_CANA_DATA = [
     "Responsável": "VITOR AMORIM RAMOS ",
     "Quantidade de Cana": "BOM",
     "Observações": null,
-    "Fazenda": null,
-    "Observações ": null,
-    "Unnamed: 19": null
+    "Fazenda": null
   },
   {
     "ID": "3570113",
@@ -28566,9 +26084,7 @@ window.QUALIDADE_CANA_DATA = [
     "Responsável": "MARCELO DE OLIVEIRA JUNIOR",
     "Quantidade de Cana": "BOM",
     "Observações": null,
-    "Fazenda": null,
-    "Observações ": null,
-    "Unnamed: 19": null
+    "Fazenda": null
   },
   {
     "ID": "3569825",
@@ -28589,9 +26105,7 @@ window.QUALIDADE_CANA_DATA = [
     "Responsável": "VITOR AMORIM RAMOS ",
     "Quantidade de Cana": "BOM",
     "Observações": null,
-    "Fazenda": null,
-    "Observações ": null,
-    "Unnamed: 19": null
+    "Fazenda": null
   },
   {
     "ID": "3569816",
@@ -28612,9 +26126,7 @@ window.QUALIDADE_CANA_DATA = [
     "Responsável": "VITOR AMORIM RAMOS ",
     "Quantidade de Cana": "BOM",
     "Observações": null,
-    "Fazenda": null,
-    "Observações ": null,
-    "Unnamed: 19": null
+    "Fazenda": null
   },
   {
     "ID": "3569815",
@@ -28635,9 +26147,7 @@ window.QUALIDADE_CANA_DATA = [
     "Responsável": "VITOR AMORIM RAMOS ",
     "Quantidade de Cana": "BOM",
     "Observações": null,
-    "Fazenda": null,
-    "Observações ": null,
-    "Unnamed: 19": null
+    "Fazenda": null
   },
   {
     "ID": "3567584",
@@ -28658,9 +26168,7 @@ window.QUALIDADE_CANA_DATA = [
     "Responsável": "Leonardo Ribeiro Teixeira da Silva",
     "Quantidade de Cana": "BOM",
     "Observações": null,
-    "Fazenda": null,
-    "Observações ": null,
-    "Unnamed: 19": null
+    "Fazenda": null
   },
   {
     "ID": "3567583",
@@ -28681,9 +26189,7 @@ window.QUALIDADE_CANA_DATA = [
     "Responsável": "Leonardo Ribeiro Teixeira da Silva",
     "Quantidade de Cana": "BOM",
     "Observações": null,
-    "Fazenda": null,
-    "Observações ": null,
-    "Unnamed: 19": null
+    "Fazenda": null
   },
   {
     "ID": "3568443",
@@ -28704,9 +26210,7 @@ window.QUALIDADE_CANA_DATA = [
     "Responsável": "MARCELO DE OLIVEIRA JUNIOR",
     "Quantidade de Cana": "BOM",
     "Observações": null,
-    "Fazenda": null,
-    "Observações ": null,
-    "Unnamed: 19": null
+    "Fazenda": null
   },
   {
     "ID": "3568438",
@@ -28727,9 +26231,7 @@ window.QUALIDADE_CANA_DATA = [
     "Responsável": "MARCELO DE OLIVEIRA JUNIOR",
     "Quantidade de Cana": "BOM",
     "Observações": null,
-    "Fazenda": null,
-    "Observações ": null,
-    "Unnamed: 19": null
+    "Fazenda": null
   },
   {
     "ID": "3567609",
@@ -28750,9 +26252,7 @@ window.QUALIDADE_CANA_DATA = [
     "Responsável": "VITOR AMORIM RAMOS ",
     "Quantidade de Cana": "BOM",
     "Observações": null,
-    "Fazenda": null,
-    "Observações ": null,
-    "Unnamed: 19": null
+    "Fazenda": null
   },
   {
     "ID": "3567603",
@@ -28773,9 +26273,7 @@ window.QUALIDADE_CANA_DATA = [
     "Responsável": "VITOR AMORIM RAMOS ",
     "Quantidade de Cana": "BOM",
     "Observações": null,
-    "Fazenda": null,
-    "Observações ": null,
-    "Unnamed: 19": null
+    "Fazenda": null
   },
   {
     "ID": "3567598",
@@ -28796,9 +26294,7 @@ window.QUALIDADE_CANA_DATA = [
     "Responsável": "VITOR AMORIM RAMOS ",
     "Quantidade de Cana": "BOM",
     "Observações": null,
-    "Fazenda": null,
-    "Observações ": null,
-    "Unnamed: 19": null
+    "Fazenda": null
   },
   {
     "ID": "3567365",
@@ -28819,9 +26315,7 @@ window.QUALIDADE_CANA_DATA = [
     "Responsável": "Leonardo Ribeiro Teixeira da Silva",
     "Quantidade de Cana": "BOM",
     "Observações": null,
-    "Fazenda": null,
-    "Observações ": null,
-    "Unnamed: 19": null
+    "Fazenda": null
   },
   {
     "ID": "3567364",
@@ -28842,9 +26336,7 @@ window.QUALIDADE_CANA_DATA = [
     "Responsável": "Leonardo Ribeiro Teixeira da Silva",
     "Quantidade de Cana": "BOM",
     "Observações": null,
-    "Fazenda": null,
-    "Observações ": null,
-    "Unnamed: 19": null
+    "Fazenda": null
   },
   {
     "ID": "3567309",
@@ -28865,9 +26357,7 @@ window.QUALIDADE_CANA_DATA = [
     "Responsável": "MARCELO DE OLIVEIRA JUNIOR",
     "Quantidade de Cana": "BOM",
     "Observações": null,
-    "Fazenda": null,
-    "Observações ": null,
-    "Unnamed: 19": null
+    "Fazenda": null
   },
   {
     "ID": "3567701",
@@ -28888,9 +26378,7 @@ window.QUALIDADE_CANA_DATA = [
     "Responsável": "REGINALDO DA SILVA GOMES ",
     "Quantidade de Cana": "BOM",
     "Observações": null,
-    "Fazenda": null,
-    "Observações ": null,
-    "Unnamed: 19": null
+    "Fazenda": null
   },
   {
     "ID": "3567303",
@@ -28911,9 +26399,7 @@ window.QUALIDADE_CANA_DATA = [
     "Responsável": "MARCELO DE OLIVEIRA JUNIOR",
     "Quantidade de Cana": "BOM",
     "Observações": null,
-    "Fazenda": null,
-    "Observações ": null,
-    "Unnamed: 19": null
+    "Fazenda": null
   },
   {
     "ID": "3567696",
@@ -28934,9 +26420,7 @@ window.QUALIDADE_CANA_DATA = [
     "Responsável": "REGINALDO DA SILVA GOMES ",
     "Quantidade de Cana": "BOM",
     "Observações": null,
-    "Fazenda": null,
-    "Observações ": null,
-    "Unnamed: 19": null
+    "Fazenda": null
   },
   {
     "ID": "3567728",
@@ -28957,9 +26441,7 @@ window.QUALIDADE_CANA_DATA = [
     "Responsável": "MICHELI DE SOUZA SANTOS  ",
     "Quantidade de Cana": "BOM",
     "Observações": null,
-    "Fazenda": null,
-    "Observações ": null,
-    "Unnamed: 19": null
+    "Fazenda": null
   },
   {
     "ID": "3567143",
@@ -28980,9 +26462,7 @@ window.QUALIDADE_CANA_DATA = [
     "Responsável": "VITOR AMORIM RAMOS ",
     "Quantidade de Cana": "BOM",
     "Observações": null,
-    "Fazenda": null,
-    "Observações ": null,
-    "Unnamed: 19": null
+    "Fazenda": null
   },
   {
     "ID": "3567723",
@@ -29003,9 +26483,7 @@ window.QUALIDADE_CANA_DATA = [
     "Responsável": "MICHELI DE SOUZA SANTOS  ",
     "Quantidade de Cana": "BOM",
     "Observações": null,
-    "Fazenda": null,
-    "Observações ": null,
-    "Unnamed: 19": null
+    "Fazenda": null
   },
   {
     "ID": "3567138",
@@ -29026,9 +26504,7 @@ window.QUALIDADE_CANA_DATA = [
     "Responsável": "VITOR AMORIM RAMOS ",
     "Quantidade de Cana": "BOM",
     "Observações": null,
-    "Fazenda": null,
-    "Observações ": null,
-    "Unnamed: 19": null
+    "Fazenda": null
   },
   {
     "ID": "3567549",
@@ -29049,9 +26525,7 @@ window.QUALIDADE_CANA_DATA = [
     "Responsável": "MABILA HELEN D FIGUEIREDO",
     "Quantidade de Cana": "BOM",
     "Observações": null,
-    "Fazenda": null,
-    "Observações ": null,
-    "Unnamed: 19": null
+    "Fazenda": null
   },
   {
     "ID": "3567132",
@@ -29072,9 +26546,7 @@ window.QUALIDADE_CANA_DATA = [
     "Responsável": "VITOR AMORIM RAMOS ",
     "Quantidade de Cana": "BOM",
     "Observações": null,
-    "Fazenda": null,
-    "Observações ": null,
-    "Unnamed: 19": null
+    "Fazenda": null
   },
   {
     "ID": "3567127",
@@ -29095,9 +26567,7 @@ window.QUALIDADE_CANA_DATA = [
     "Responsável": "VITOR AMORIM RAMOS ",
     "Quantidade de Cana": "BOM",
     "Observações": null,
-    "Fazenda": null,
-    "Observações ": null,
-    "Unnamed: 19": null
+    "Fazenda": null
   },
   {
     "ID": "3567119",
@@ -29118,9 +26588,7 @@ window.QUALIDADE_CANA_DATA = [
     "Responsável": "VITOR AMORIM RAMOS ",
     "Quantidade de Cana": "BOM",
     "Observações": null,
-    "Fazenda": null,
-    "Observações ": null,
-    "Unnamed: 19": null
+    "Fazenda": null
   },
   {
     "ID": "3567297",
@@ -29141,9 +26609,7 @@ window.QUALIDADE_CANA_DATA = [
     "Responsável": "MARCELO DE OLIVEIRA JUNIOR",
     "Quantidade de Cana": "BOM",
     "Observações": null,
-    "Fazenda": null,
-    "Observações ": null,
-    "Unnamed: 19": null
+    "Fazenda": null
   },
   {
     "ID": "3567690",
@@ -29164,9 +26630,7 @@ window.QUALIDADE_CANA_DATA = [
     "Responsável": "REGINALDO DA SILVA GOMES ",
     "Quantidade de Cana": "BOM",
     "Observações": null,
-    "Fazenda": null,
-    "Observações ": null,
-    "Unnamed: 19": null
+    "Fazenda": null
   },
   {
     "ID": "3567114",
@@ -29187,9 +26651,7 @@ window.QUALIDADE_CANA_DATA = [
     "Responsável": "VITOR AMORIM RAMOS ",
     "Quantidade de Cana": "BOM",
     "Observações": null,
-    "Fazenda": null,
-    "Observações ": null,
-    "Unnamed: 19": null
+    "Fazenda": null
   },
   {
     "ID": "3567109",
@@ -29210,9 +26672,7 @@ window.QUALIDADE_CANA_DATA = [
     "Responsável": "VITOR AMORIM RAMOS ",
     "Quantidade de Cana": "BOM",
     "Observações": null,
-    "Fazenda": null,
-    "Observações ": null,
-    "Unnamed: 19": null
+    "Fazenda": null
   },
   {
     "ID": "3567104",
@@ -29233,9 +26693,7 @@ window.QUALIDADE_CANA_DATA = [
     "Responsável": "VITOR AMORIM RAMOS ",
     "Quantidade de Cana": "BOM",
     "Observações": null,
-    "Fazenda": null,
-    "Observações ": null,
-    "Unnamed: 19": null
+    "Fazenda": null
   },
   {
     "ID": "3567066",
@@ -29256,9 +26714,7 @@ window.QUALIDADE_CANA_DATA = [
     "Responsável": "NILDA CLAUDINO [2510716]",
     "Quantidade de Cana": "BOM",
     "Observações": null,
-    "Fazenda": null,
-    "Observações ": null,
-    "Unnamed: 19": null
+    "Fazenda": null
   },
   {
     "ID": "3567065",
@@ -29279,9 +26735,7 @@ window.QUALIDADE_CANA_DATA = [
     "Responsável": "NILDA CLAUDINO [2510716]",
     "Quantidade de Cana": "BOM",
     "Observações": null,
-    "Fazenda": null,
-    "Observações ": null,
-    "Unnamed: 19": null
+    "Fazenda": null
   },
   {
     "ID": "3567064",
@@ -29302,9 +26756,7 @@ window.QUALIDADE_CANA_DATA = [
     "Responsável": "NILDA CLAUDINO [2510716]",
     "Quantidade de Cana": "BOM",
     "Observações": null,
-    "Fazenda": null,
-    "Observações ": null,
-    "Unnamed: 19": null
+    "Fazenda": null
   },
   {
     "ID": "3567099",
@@ -29325,9 +26777,7 @@ window.QUALIDADE_CANA_DATA = [
     "Responsável": "VITOR AMORIM RAMOS ",
     "Quantidade de Cana": "BOM",
     "Observações": null,
-    "Fazenda": null,
-    "Observações ": null,
-    "Unnamed: 19": null
+    "Fazenda": null
   },
   {
     "ID": "3567094",
@@ -29348,9 +26798,7 @@ window.QUALIDADE_CANA_DATA = [
     "Responsável": "VITOR AMORIM RAMOS ",
     "Quantidade de Cana": "BOM",
     "Observações": null,
-    "Fazenda": null,
-    "Observações ": null,
-    "Unnamed: 19": null
+    "Fazenda": null
   },
   {
     "ID": "3565532",
@@ -29371,9 +26819,7 @@ window.QUALIDADE_CANA_DATA = [
     "Responsável": "MARCELO DE OLIVEIRA JUNIOR",
     "Quantidade de Cana": "BOM",
     "Observações": null,
-    "Fazenda": null,
-    "Observações ": null,
-    "Unnamed: 19": null
+    "Fazenda": null
   },
   {
     "ID": "3565531",
@@ -29394,9 +26840,7 @@ window.QUALIDADE_CANA_DATA = [
     "Responsável": "MARCELO DE OLIVEIRA JUNIOR",
     "Quantidade de Cana": "BOM",
     "Observações": null,
-    "Fazenda": null,
-    "Observações ": null,
-    "Unnamed: 19": null
+    "Fazenda": null
   },
   {
     "ID": "3565563",
@@ -29417,9 +26861,7 @@ window.QUALIDADE_CANA_DATA = [
     "Responsável": "GABRIEL HENRIQUE MARTINS PEREIRA",
     "Quantidade de Cana": "BOM",
     "Observações": null,
-    "Fazenda": null,
-    "Observações ": null,
-    "Unnamed: 19": null
+    "Fazenda": null
   },
   {
     "ID": "3565558",
@@ -29440,9 +26882,7 @@ window.QUALIDADE_CANA_DATA = [
     "Responsável": "GABRIEL HENRIQUE MARTINS PEREIRA",
     "Quantidade de Cana": "BOM",
     "Observações": null,
-    "Fazenda": null,
-    "Observações ": null,
-    "Unnamed: 19": null
+    "Fazenda": null
   },
   {
     "ID": "3565553",
@@ -29463,9 +26903,7 @@ window.QUALIDADE_CANA_DATA = [
     "Responsável": "GABRIEL HENRIQUE MARTINS PEREIRA",
     "Quantidade de Cana": "BOM",
     "Observações": null,
-    "Fazenda": null,
-    "Observações ": null,
-    "Unnamed: 19": null
+    "Fazenda": null
   },
   {
     "ID": "3565548",
@@ -29486,9 +26924,7 @@ window.QUALIDADE_CANA_DATA = [
     "Responsável": "GABRIEL HENRIQUE MARTINS PEREIRA",
     "Quantidade de Cana": "BOM",
     "Observações": null,
-    "Fazenda": null,
-    "Observações ": null,
-    "Unnamed: 19": null
+    "Fazenda": null
   },
   {
     "ID": "3562961",
@@ -29509,9 +26945,7 @@ window.QUALIDADE_CANA_DATA = [
     "Responsável": "GABRIEL HENRIQUE MARTINS PEREIRA",
     "Quantidade de Cana": "BOM",
     "Observações": null,
-    "Fazenda": null,
-    "Observações ": null,
-    "Unnamed: 19": null
+    "Fazenda": null
   },
   {
     "ID": "3562956",
@@ -29532,9 +26966,7 @@ window.QUALIDADE_CANA_DATA = [
     "Responsável": "GABRIEL HENRIQUE MARTINS PEREIRA",
     "Quantidade de Cana": "BOM",
     "Observações": null,
-    "Fazenda": null,
-    "Observações ": null,
-    "Unnamed: 19": null
+    "Fazenda": null
   },
   {
     "ID": "3562879",
@@ -29555,9 +26987,7 @@ window.QUALIDADE_CANA_DATA = [
     "Responsável": "GABRIEL HENRIQUE MARTINS PEREIRA",
     "Quantidade de Cana": "BOM",
     "Observações": null,
-    "Fazenda": null,
-    "Observações ": null,
-    "Unnamed: 19": null
+    "Fazenda": null
   },
   {
     "ID": "3560861",
@@ -29578,9 +27008,7 @@ window.QUALIDADE_CANA_DATA = [
     "Responsável": "Leonardo Ribeiro Teixeira da Silva",
     "Quantidade de Cana": "BOM",
     "Observações": null,
-    "Fazenda": null,
-    "Observações ": null,
-    "Unnamed: 19": null
+    "Fazenda": null
   },
   {
     "ID": "3560974",
@@ -29601,9 +27029,7 @@ window.QUALIDADE_CANA_DATA = [
     "Responsável": "VITOR AMORIM RAMOS ",
     "Quantidade de Cana": "BOM",
     "Observações": null,
-    "Fazenda": null,
-    "Observações ": null,
-    "Unnamed: 19": null
+    "Fazenda": null
   },
   {
     "ID": "3560968",
@@ -29624,9 +27050,7 @@ window.QUALIDADE_CANA_DATA = [
     "Responsável": "VITOR AMORIM RAMOS ",
     "Quantidade de Cana": "BOM",
     "Observações": null,
-    "Fazenda": null,
-    "Observações ": null,
-    "Unnamed: 19": null
+    "Fazenda": null
   },
   {
     "ID": "3560962",
@@ -29647,9 +27071,7 @@ window.QUALIDADE_CANA_DATA = [
     "Responsável": "VITOR AMORIM RAMOS ",
     "Quantidade de Cana": "BOM",
     "Observações": null,
-    "Fazenda": null,
-    "Observações ": null,
-    "Unnamed: 19": null
+    "Fazenda": null
   },
   {
     "ID": "3560955",
@@ -29670,9 +27092,7 @@ window.QUALIDADE_CANA_DATA = [
     "Responsável": "VITOR AMORIM RAMOS ",
     "Quantidade de Cana": "BOM",
     "Observações": null,
-    "Fazenda": null,
-    "Observações ": null,
-    "Unnamed: 19": null
+    "Fazenda": null
   },
   {
     "ID": "3560950",
@@ -29693,9 +27113,7 @@ window.QUALIDADE_CANA_DATA = [
     "Responsável": "VITOR AMORIM RAMOS ",
     "Quantidade de Cana": "BOM",
     "Observações": null,
-    "Fazenda": null,
-    "Observações ": null,
-    "Unnamed: 19": null
+    "Fazenda": null
   },
   {
     "ID": "3560945",
@@ -29716,9 +27134,7 @@ window.QUALIDADE_CANA_DATA = [
     "Responsável": "VITOR AMORIM RAMOS ",
     "Quantidade de Cana": "BOM",
     "Observações": null,
-    "Fazenda": null,
-    "Observações ": null,
-    "Unnamed: 19": null
+    "Fazenda": null
   },
   {
     "ID": "3560939",
@@ -29739,9 +27155,7 @@ window.QUALIDADE_CANA_DATA = [
     "Responsável": "VITOR AMORIM RAMOS ",
     "Quantidade de Cana": "BOM",
     "Observações": null,
-    "Fazenda": null,
-    "Observações ": null,
-    "Unnamed: 19": null
+    "Fazenda": null
   },
   {
     "ID": "3560857",
@@ -29762,9 +27176,7 @@ window.QUALIDADE_CANA_DATA = [
     "Responsável": "Leonardo Ribeiro Teixeira da Silva",
     "Quantidade de Cana": "BOM",
     "Observações": null,
-    "Fazenda": null,
-    "Observações ": null,
-    "Unnamed: 19": null
+    "Fazenda": null
   },
   {
     "ID": "3560934",
@@ -29785,9 +27197,7 @@ window.QUALIDADE_CANA_DATA = [
     "Responsável": "VITOR AMORIM RAMOS ",
     "Quantidade de Cana": "BOM",
     "Observações": null,
-    "Fazenda": null,
-    "Observações ": null,
-    "Unnamed: 19": null
+    "Fazenda": null
   },
   {
     "ID": "3560910",
@@ -29808,9 +27218,7 @@ window.QUALIDADE_CANA_DATA = [
     "Responsável": "VITOR AMORIM RAMOS ",
     "Quantidade de Cana": "BOM",
     "Observações": null,
-    "Fazenda": null,
-    "Observações ": null,
-    "Unnamed: 19": null
+    "Fazenda": null
   },
   {
     "ID": "3560900",
@@ -29831,9 +27239,7 @@ window.QUALIDADE_CANA_DATA = [
     "Responsável": "VITOR AMORIM RAMOS ",
     "Quantidade de Cana": "BOM",
     "Observações": null,
-    "Fazenda": null,
-    "Observações ": null,
-    "Unnamed: 19": null
+    "Fazenda": null
   },
   {
     "ID": "3560832",
@@ -29854,9 +27260,7 @@ window.QUALIDADE_CANA_DATA = [
     "Responsável": "MICHELI DE SOUZA SANTOS  ",
     "Quantidade de Cana": "BOM",
     "Observações": null,
-    "Fazenda": null,
-    "Observações ": null,
-    "Unnamed: 19": null
+    "Fazenda": null
   },
   {
     "ID": "3560831",
@@ -29877,9 +27281,7 @@ window.QUALIDADE_CANA_DATA = [
     "Responsável": "MICHELI DE SOUZA SANTOS  ",
     "Quantidade de Cana": "BOM",
     "Observações": null,
-    "Fazenda": null,
-    "Observações ": null,
-    "Unnamed: 19": null
+    "Fazenda": null
   },
   {
     "ID": "3560830",
@@ -29900,9 +27302,7 @@ window.QUALIDADE_CANA_DATA = [
     "Responsável": "MICHELI DE SOUZA SANTOS  ",
     "Quantidade de Cana": "BOM",
     "Observações": null,
-    "Fazenda": null,
-    "Observações ": null,
-    "Unnamed: 19": null
+    "Fazenda": null
   },
   {
     "ID": "3560829",
@@ -29923,9 +27323,7 @@ window.QUALIDADE_CANA_DATA = [
     "Responsável": "MICHELI DE SOUZA SANTOS  ",
     "Quantidade de Cana": "BOM",
     "Observações": null,
-    "Fazenda": null,
-    "Observações ": null,
-    "Unnamed: 19": null
+    "Fazenda": null
   },
   {
     "ID": "3560764",
@@ -29946,9 +27344,7 @@ window.QUALIDADE_CANA_DATA = [
     "Responsável": "MARCELO DE OLIVEIRA JUNIOR",
     "Quantidade de Cana": "BOM",
     "Observações": null,
-    "Fazenda": null,
-    "Observações ": null,
-    "Unnamed: 19": null
+    "Fazenda": null
   },
   {
     "ID": "3560497",
@@ -29969,9 +27365,7 @@ window.QUALIDADE_CANA_DATA = [
     "Responsável": "REGINALDO DA SILVA GOMES ",
     "Quantidade de Cana": "BOM",
     "Observações": null,
-    "Fazenda": null,
-    "Observações ": null,
-    "Unnamed: 19": null
+    "Fazenda": null
   },
   {
     "ID": "3560727",
@@ -29992,9 +27386,7 @@ window.QUALIDADE_CANA_DATA = [
     "Responsável": "MARCELO DE OLIVEIRA JUNIOR",
     "Quantidade de Cana": "BOM",
     "Observações": null,
-    "Fazenda": null,
-    "Observações ": null,
-    "Unnamed: 19": null
+    "Fazenda": null
   },
   {
     "ID": "3560492",
@@ -30015,9 +27407,7 @@ window.QUALIDADE_CANA_DATA = [
     "Responsável": "REGINALDO DA SILVA GOMES ",
     "Quantidade de Cana": "BOM",
     "Observações": null,
-    "Fazenda": null,
-    "Observações ": null,
-    "Unnamed: 19": null
+    "Fazenda": null
   },
   {
     "ID": "3560490",
@@ -30038,9 +27428,7 @@ window.QUALIDADE_CANA_DATA = [
     "Responsável": "REGINALDO DA SILVA GOMES ",
     "Quantidade de Cana": "BOM",
     "Observações": null,
-    "Fazenda": null,
-    "Observações ": null,
-    "Unnamed: 19": null
+    "Fazenda": null
   },
   {
     "ID": "3560722",
@@ -30061,9 +27449,7 @@ window.QUALIDADE_CANA_DATA = [
     "Responsável": "MARCELO DE OLIVEIRA JUNIOR",
     "Quantidade de Cana": "BOM",
     "Observações": null,
-    "Fazenda": null,
-    "Observações ": null,
-    "Unnamed: 19": null
+    "Fazenda": null
   },
   {
     "ID": "3560717",
@@ -30084,9 +27470,7 @@ window.QUALIDADE_CANA_DATA = [
     "Responsável": "MARCELO DE OLIVEIRA JUNIOR",
     "Quantidade de Cana": "BOM",
     "Observações": null,
-    "Fazenda": null,
-    "Observações ": null,
-    "Unnamed: 19": null
+    "Fazenda": null
   },
   {
     "ID": "3558530",
@@ -30107,9 +27491,7 @@ window.QUALIDADE_CANA_DATA = [
     "Responsável": "VITOR AMORIM RAMOS ",
     "Quantidade de Cana": "BOM",
     "Observações": null,
-    "Fazenda": null,
-    "Observações ": null,
-    "Unnamed: 19": null
+    "Fazenda": null
   },
   {
     "ID": "3558526",
@@ -30130,9 +27512,7 @@ window.QUALIDADE_CANA_DATA = [
     "Responsável": "VITOR AMORIM RAMOS ",
     "Quantidade de Cana": "BOM",
     "Observações": null,
-    "Fazenda": null,
-    "Observações ": null,
-    "Unnamed: 19": null
+    "Fazenda": null
   },
   {
     "ID": "3558520",
@@ -30153,9 +27533,7 @@ window.QUALIDADE_CANA_DATA = [
     "Responsável": "VITOR AMORIM RAMOS ",
     "Quantidade de Cana": "BOM",
     "Observações": null,
-    "Fazenda": null,
-    "Observações ": null,
-    "Unnamed: 19": null
+    "Fazenda": null
   },
   {
     "ID": "3558515",
@@ -30176,9 +27554,7 @@ window.QUALIDADE_CANA_DATA = [
     "Responsável": "VITOR AMORIM RAMOS ",
     "Quantidade de Cana": "BOM",
     "Observações": null,
-    "Fazenda": null,
-    "Observações ": null,
-    "Unnamed: 19": null
+    "Fazenda": null
   },
   {
     "ID": "3558510",
@@ -30199,9 +27575,7 @@ window.QUALIDADE_CANA_DATA = [
     "Responsável": "VITOR AMORIM RAMOS ",
     "Quantidade de Cana": "BOM",
     "Observações": null,
-    "Fazenda": null,
-    "Observações ": null,
-    "Unnamed: 19": null
+    "Fazenda": null
   },
   {
     "ID": "3558584",
@@ -30222,9 +27596,7 @@ window.QUALIDADE_CANA_DATA = [
     "Responsável": "MARCELO DE OLIVEIRA JUNIOR",
     "Quantidade de Cana": "BOM",
     "Observações": null,
-    "Fazenda": null,
-    "Observações ": null,
-    "Unnamed: 19": null
+    "Fazenda": null
   },
   {
     "ID": "3558505",
@@ -30245,9 +27617,7 @@ window.QUALIDADE_CANA_DATA = [
     "Responsável": "VITOR AMORIM RAMOS ",
     "Quantidade de Cana": "BOM",
     "Observações": null,
-    "Fazenda": null,
-    "Observações ": null,
-    "Unnamed: 19": null
+    "Fazenda": null
   },
   {
     "ID": "3558579",
@@ -30268,9 +27638,7 @@ window.QUALIDADE_CANA_DATA = [
     "Responsável": "MARCELO DE OLIVEIRA JUNIOR",
     "Quantidade de Cana": "BOM",
     "Observações": null,
-    "Fazenda": null,
-    "Observações ": null,
-    "Unnamed: 19": null
+    "Fazenda": null
   },
   {
     "ID": "3558292",
@@ -30291,9 +27659,7 @@ window.QUALIDADE_CANA_DATA = [
     "Responsável": "NILDA CLAUDINO [2510716]",
     "Quantidade de Cana": "BOM",
     "Observações": null,
-    "Fazenda": null,
-    "Observações ": null,
-    "Unnamed: 19": null
+    "Fazenda": null
   },
   {
     "ID": "3558291",
@@ -30314,9 +27680,7 @@ window.QUALIDADE_CANA_DATA = [
     "Responsável": "NILDA CLAUDINO [2510716]",
     "Quantidade de Cana": "BOM",
     "Observações": null,
-    "Fazenda": null,
-    "Observações ": null,
-    "Unnamed: 19": null
+    "Fazenda": null
   },
   {
     "ID": "3558290",
@@ -30337,9 +27701,7 @@ window.QUALIDADE_CANA_DATA = [
     "Responsável": "NILDA CLAUDINO [2510716]",
     "Quantidade de Cana": "BOM",
     "Observações": null,
-    "Fazenda": null,
-    "Observações ": null,
-    "Unnamed: 19": null
+    "Fazenda": null
   },
   {
     "ID": "3558255",
@@ -30360,9 +27722,7 @@ window.QUALIDADE_CANA_DATA = [
     "Responsável": "GABRIEL HENRIQUE MARTINS PEREIRA",
     "Quantidade de Cana": "BOM",
     "Observações": null,
-    "Fazenda": null,
-    "Observações ": null,
-    "Unnamed: 19": null
+    "Fazenda": null
   },
   {
     "ID": "3558254",
@@ -30383,9 +27743,7 @@ window.QUALIDADE_CANA_DATA = [
     "Responsável": "GABRIEL HENRIQUE MARTINS PEREIRA",
     "Quantidade de Cana": "BOM",
     "Observações": null,
-    "Fazenda": null,
-    "Observações ": null,
-    "Unnamed: 19": null
+    "Fazenda": null
   },
   {
     "ID": "3558253",
@@ -30406,9 +27764,7 @@ window.QUALIDADE_CANA_DATA = [
     "Responsável": "GABRIEL HENRIQUE MARTINS PEREIRA",
     "Quantidade de Cana": "BOM",
     "Observações": null,
-    "Fazenda": null,
-    "Observações ": null,
-    "Unnamed: 19": null
+    "Fazenda": null
   },
   {
     "ID": "3560482",
@@ -30429,9 +27785,7 @@ window.QUALIDADE_CANA_DATA = [
     "Responsável": "REGINALDO DA SILVA GOMES ",
     "Quantidade de Cana": "BOM",
     "Observações": null,
-    "Fazenda": null,
-    "Observações ": null,
-    "Unnamed: 19": null
+    "Fazenda": null
   },
   {
     "ID": "3560477",
@@ -30452,9 +27806,7 @@ window.QUALIDADE_CANA_DATA = [
     "Responsável": "REGINALDO DA SILVA GOMES ",
     "Quantidade de Cana": "BOM",
     "Observações": null,
-    "Fazenda": null,
-    "Observações ": null,
-    "Unnamed: 19": null
+    "Fazenda": null
   },
   {
     "ID": "3560472",
@@ -30475,9 +27827,7 @@ window.QUALIDADE_CANA_DATA = [
     "Responsável": "REGINALDO DA SILVA GOMES ",
     "Quantidade de Cana": "BOM",
     "Observações": null,
-    "Fazenda": null,
-    "Observações ": null,
-    "Unnamed: 19": null
+    "Fazenda": null
   },
   {
     "ID": "3558237",
@@ -30498,9 +27848,7 @@ window.QUALIDADE_CANA_DATA = [
     "Responsável": " Antonio ",
     "Quantidade de Cana": "BOM",
     "Observações": null,
-    "Fazenda": null,
-    "Observações ": null,
-    "Unnamed: 19": null
+    "Fazenda": null
   },
   {
     "ID": "3558150",
@@ -30521,9 +27869,7 @@ window.QUALIDADE_CANA_DATA = [
     "Responsável": "Leonardo Ribeiro Teixeira da Silva",
     "Quantidade de Cana": "BOM",
     "Observações": null,
-    "Fazenda": null,
-    "Observações ": null,
-    "Unnamed: 19": null
+    "Fazenda": null
   },
   {
     "ID": "3558149",
@@ -30544,9 +27890,7 @@ window.QUALIDADE_CANA_DATA = [
     "Responsável": "Leonardo Ribeiro Teixeira da Silva",
     "Quantidade de Cana": "BOM",
     "Observações": null,
-    "Fazenda": null,
-    "Observações ": null,
-    "Unnamed: 19": null
+    "Fazenda": null
   },
   {
     "ID": "3558234",
@@ -30567,9 +27911,7 @@ window.QUALIDADE_CANA_DATA = [
     "Responsável": " Antonio ",
     "Quantidade de Cana": "BOM",
     "Observações": null,
-    "Fazenda": null,
-    "Observações ": null,
-    "Unnamed: 19": null
+    "Fazenda": null
   },
   {
     "ID": "3558233",
@@ -30590,9 +27932,7 @@ window.QUALIDADE_CANA_DATA = [
     "Responsável": " Antonio ",
     "Quantidade de Cana": "BOM",
     "Observações": null,
-    "Fazenda": null,
-    "Observações ": null,
-    "Unnamed: 19": null
+    "Fazenda": null
   },
   {
     "ID": "3558566",
@@ -30613,9 +27953,7 @@ window.QUALIDADE_CANA_DATA = [
     "Responsável": "MARCELO DE OLIVEIRA JUNIOR",
     "Quantidade de Cana": "BOM",
     "Observações": null,
-    "Fazenda": null,
-    "Observações ": null,
-    "Unnamed: 19": null
+    "Fazenda": null
   },
   {
     "ID": "3557954",
@@ -30636,9 +27974,7 @@ window.QUALIDADE_CANA_DATA = [
     "Responsável": "VITOR AMORIM RAMOS ",
     "Quantidade de Cana": "BOM",
     "Observações": null,
-    "Fazenda": null,
-    "Observações ": null,
-    "Unnamed: 19": null
+    "Fazenda": null
   },
   {
     "ID": "3558230",
@@ -30659,9 +27995,7 @@ window.QUALIDADE_CANA_DATA = [
     "Responsável": " Antonio ",
     "Quantidade de Cana": "BOM",
     "Observações": null,
-    "Fazenda": null,
-    "Observações ": null,
-    "Unnamed: 19": null
+    "Fazenda": null
   },
   {
     "ID": "3558554",
@@ -30682,9 +28016,7 @@ window.QUALIDADE_CANA_DATA = [
     "Responsável": "MARCELO DE OLIVEIRA JUNIOR",
     "Quantidade de Cana": "BOM",
     "Observações": null,
-    "Fazenda": null,
-    "Observações ": null,
-    "Unnamed: 19": null
+    "Fazenda": null
   },
   {
     "ID": "3557952",
@@ -30705,9 +28037,7 @@ window.QUALIDADE_CANA_DATA = [
     "Responsável": "VITOR AMORIM RAMOS ",
     "Quantidade de Cana": "BOM",
     "Observações": null,
-    "Fazenda": null,
-    "Observações ": null,
-    "Unnamed: 19": null
+    "Fazenda": null
   },
   {
     "ID": "3558553",
@@ -30728,9 +28058,7 @@ window.QUALIDADE_CANA_DATA = [
     "Responsável": "MARCELO DE OLIVEIRA JUNIOR",
     "Quantidade de Cana": "BOM",
     "Observações": null,
-    "Fazenda": null,
-    "Observações ": null,
-    "Unnamed: 19": null
+    "Fazenda": null
   },
   {
     "ID": "3557947",
@@ -30751,9 +28079,7 @@ window.QUALIDADE_CANA_DATA = [
     "Responsável": "VITOR AMORIM RAMOS ",
     "Quantidade de Cana": "BOM",
     "Observações": null,
-    "Fazenda": null,
-    "Observações ": null,
-    "Unnamed: 19": null
+    "Fazenda": null
   },
   {
     "ID": "3558548",
@@ -30774,9 +28100,7 @@ window.QUALIDADE_CANA_DATA = [
     "Responsável": "MARCELO DE OLIVEIRA JUNIOR",
     "Quantidade de Cana": "BOM",
     "Observações": null,
-    "Fazenda": null,
-    "Observações ": null,
-    "Unnamed: 19": null
+    "Fazenda": null
   },
   {
     "ID": "3557942",
@@ -30797,9 +28121,7 @@ window.QUALIDADE_CANA_DATA = [
     "Responsável": "VITOR AMORIM RAMOS ",
     "Quantidade de Cana": "BOM",
     "Observações": null,
-    "Fazenda": null,
-    "Observações ": null,
-    "Unnamed: 19": null
+    "Fazenda": null
   },
   {
     "ID": "3556281",
@@ -30820,9 +28142,7 @@ window.QUALIDADE_CANA_DATA = [
     "Responsável": "NILDA CLAUDINO [2510716]",
     "Quantidade de Cana": "BOM",
     "Observações": null,
-    "Fazenda": null,
-    "Observações ": null,
-    "Unnamed: 19": null
+    "Fazenda": null
   },
   {
     "ID": "3556267",
@@ -30843,9 +28163,7 @@ window.QUALIDADE_CANA_DATA = [
     "Responsável": "NILDA CLAUDINO [2510716]",
     "Quantidade de Cana": "BOM",
     "Observações": null,
-    "Fazenda": null,
-    "Observações ": null,
-    "Unnamed: 19": null
+    "Fazenda": null
   },
   {
     "ID": "3556249",
@@ -30866,9 +28184,7 @@ window.QUALIDADE_CANA_DATA = [
     "Responsável": "NILDA CLAUDINO [2510716]",
     "Quantidade de Cana": "BOM",
     "Observações": null,
-    "Fazenda": null,
-    "Observações ": null,
-    "Unnamed: 19": null
+    "Fazenda": null
   },
   {
     "ID": "3556237",
@@ -30889,9 +28205,7 @@ window.QUALIDADE_CANA_DATA = [
     "Responsável": "NILDA CLAUDINO [2510716]",
     "Quantidade de Cana": "BOM",
     "Observações": null,
-    "Fazenda": null,
-    "Observações ": null,
-    "Unnamed: 19": null
+    "Fazenda": null
   },
   {
     "ID": "3556236",
@@ -30912,9 +28226,7 @@ window.QUALIDADE_CANA_DATA = [
     "Responsável": "NILDA CLAUDINO [2510716]",
     "Quantidade de Cana": "BOM",
     "Observações": null,
-    "Fazenda": null,
-    "Observações ": null,
-    "Unnamed: 19": null
+    "Fazenda": null
   },
   {
     "ID": "3556232",
@@ -30935,9 +28247,7 @@ window.QUALIDADE_CANA_DATA = [
     "Responsável": "NILDA CLAUDINO [2510716]",
     "Quantidade de Cana": "BOM",
     "Observações": null,
-    "Fazenda": null,
-    "Observações ": null,
-    "Unnamed: 19": null
+    "Fazenda": null
   },
   {
     "ID": "3556098",
@@ -30958,9 +28268,7 @@ window.QUALIDADE_CANA_DATA = [
     "Responsável": "MABILA HELEN D FIGUEIREDO",
     "Quantidade de Cana": "BOM",
     "Observações": null,
-    "Fazenda": null,
-    "Observações ": null,
-    "Unnamed: 19": null
+    "Fazenda": null
   },
   {
     "ID": "3556092",
@@ -30981,9 +28289,7 @@ window.QUALIDADE_CANA_DATA = [
     "Responsável": "MABILA HELEN D FIGUEIREDO",
     "Quantidade de Cana": "BOM",
     "Observações": null,
-    "Fazenda": null,
-    "Observações ": null,
-    "Unnamed: 19": null
+    "Fazenda": null
   },
   {
     "ID": "3556180",
@@ -31004,9 +28310,7 @@ window.QUALIDADE_CANA_DATA = [
     "Responsável": "VITOR AMORIM RAMOS ",
     "Quantidade de Cana": "BOM",
     "Observações": null,
-    "Fazenda": null,
-    "Observações ": null,
-    "Unnamed: 19": null
+    "Fazenda": null
   },
   {
     "ID": "3556175",
@@ -31027,9 +28331,7 @@ window.QUALIDADE_CANA_DATA = [
     "Responsável": "VITOR AMORIM RAMOS ",
     "Quantidade de Cana": "BOM",
     "Observações": null,
-    "Fazenda": null,
-    "Observações ": null,
-    "Unnamed: 19": null
+    "Fazenda": null
   },
   {
     "ID": "3556284",
@@ -31050,9 +28352,7 @@ window.QUALIDADE_CANA_DATA = [
     "Responsável": "MARCELO DE OLIVEIRA JUNIOR",
     "Quantidade de Cana": "BOM",
     "Observações": null,
-    "Fazenda": null,
-    "Observações ": null,
-    "Unnamed: 19": null
+    "Fazenda": null
   },
   {
     "ID": "3556167",
@@ -31073,9 +28373,7 @@ window.QUALIDADE_CANA_DATA = [
     "Responsável": "VITOR AMORIM RAMOS ",
     "Quantidade de Cana": "BOM",
     "Observações": null,
-    "Fazenda": null,
-    "Observações ": null,
-    "Unnamed: 19": null
+    "Fazenda": null
   },
   {
     "ID": "3556158",
@@ -31096,9 +28394,7 @@ window.QUALIDADE_CANA_DATA = [
     "Responsável": "VITOR AMORIM RAMOS ",
     "Quantidade de Cana": "BOM",
     "Observações": null,
-    "Fazenda": null,
-    "Observações ": null,
-    "Unnamed: 19": null
+    "Fazenda": null
   },
   {
     "ID": "3556278",
@@ -31119,9 +28415,7 @@ window.QUALIDADE_CANA_DATA = [
     "Responsável": "MARCELO DE OLIVEIRA JUNIOR",
     "Quantidade de Cana": "BOM",
     "Observações": null,
-    "Fazenda": null,
-    "Observações ": null,
-    "Unnamed: 19": null
+    "Fazenda": null
   },
   {
     "ID": "3555645",
@@ -31142,9 +28436,7 @@ window.QUALIDADE_CANA_DATA = [
     "Responsável": "VITOR AMORIM RAMOS ",
     "Quantidade de Cana": "BOM",
     "Observações": null,
-    "Fazenda": null,
-    "Observações ": null,
-    "Unnamed: 19": null
+    "Fazenda": null
   },
   {
     "ID": "3556079",
@@ -31165,9 +28457,7 @@ window.QUALIDADE_CANA_DATA = [
     "Responsável": "MICHELI DE SOUZA SANTOS  ",
     "Quantidade de Cana": "BOM",
     "Observações": null,
-    "Fazenda": null,
-    "Observações ": null,
-    "Unnamed: 19": null
+    "Fazenda": null
   },
   {
     "ID": "3556073",
@@ -31188,9 +28478,7 @@ window.QUALIDADE_CANA_DATA = [
     "Responsável": "MICHELI DE SOUZA SANTOS  ",
     "Quantidade de Cana": "BOM",
     "Observações": null,
-    "Fazenda": null,
-    "Observações ": null,
-    "Unnamed: 19": null
+    "Fazenda": null
   },
   {
     "ID": "3555637",
@@ -31211,9 +28499,7 @@ window.QUALIDADE_CANA_DATA = [
     "Responsável": "VITOR AMORIM RAMOS ",
     "Quantidade de Cana": "BOM",
     "Observações": null,
-    "Fazenda": null,
-    "Observações ": null,
-    "Unnamed: 19": null
+    "Fazenda": null
   },
   {
     "ID": "3555629",
@@ -31234,9 +28520,7 @@ window.QUALIDADE_CANA_DATA = [
     "Responsável": "VITOR AMORIM RAMOS ",
     "Quantidade de Cana": "BOM",
     "Observações": null,
-    "Fazenda": null,
-    "Observações ": null,
-    "Unnamed: 19": null
+    "Fazenda": null
   },
   {
     "ID": "3556147",
@@ -31257,9 +28541,7 @@ window.QUALIDADE_CANA_DATA = [
     "Responsável": "Leonardo Ribeiro Teixeira da Silva",
     "Quantidade de Cana": "BOM",
     "Observações": null,
-    "Fazenda": null,
-    "Observações ": null,
-    "Unnamed: 19": null
+    "Fazenda": null
   },
   {
     "ID": "3556146",
@@ -31280,9 +28562,7 @@ window.QUALIDADE_CANA_DATA = [
     "Responsável": "Leonardo Ribeiro Teixeira da Silva",
     "Quantidade de Cana": "BOM",
     "Observações": null,
-    "Fazenda": null,
-    "Observações ": null,
-    "Unnamed: 19": null
+    "Fazenda": null
   },
   {
     "ID": "3556144",
@@ -31303,9 +28583,7 @@ window.QUALIDADE_CANA_DATA = [
     "Responsável": "Leonardo Ribeiro Teixeira da Silva",
     "Quantidade de Cana": "BOM",
     "Observações": null,
-    "Fazenda": null,
-    "Observações ": null,
-    "Unnamed: 19": null
+    "Fazenda": null
   },
   {
     "ID": "3555623",
@@ -31326,9 +28604,7 @@ window.QUALIDADE_CANA_DATA = [
     "Responsável": "VITOR AMORIM RAMOS ",
     "Quantidade de Cana": "BOM",
     "Observações": null,
-    "Fazenda": null,
-    "Observações ": null,
-    "Unnamed: 19": null
+    "Fazenda": null
   },
   {
     "ID": "3555617",
@@ -31349,9 +28625,7 @@ window.QUALIDADE_CANA_DATA = [
     "Responsável": "VITOR AMORIM RAMOS ",
     "Quantidade de Cana": "BOM",
     "Observações": null,
-    "Fazenda": null,
-    "Observações ": null,
-    "Unnamed: 19": null
+    "Fazenda": null
   },
   {
     "ID": "3555610",
@@ -31372,9 +28646,7 @@ window.QUALIDADE_CANA_DATA = [
     "Responsável": "VITOR AMORIM RAMOS ",
     "Quantidade de Cana": "BOM",
     "Observações": null,
-    "Fazenda": null,
-    "Observações ": null,
-    "Unnamed: 19": null
+    "Fazenda": null
   },
   {
     "ID": "3556019",
@@ -31395,9 +28667,7 @@ window.QUALIDADE_CANA_DATA = [
     "Responsável": "FERNANDA DE SOUZA ",
     "Quantidade de Cana": "BOM",
     "Observações": null,
-    "Fazenda": null,
-    "Observações ": null,
-    "Unnamed: 19": null
+    "Fazenda": null
   },
   {
     "ID": "3556018",
@@ -31418,9 +28688,7 @@ window.QUALIDADE_CANA_DATA = [
     "Responsável": "FERNANDA DE SOUZA ",
     "Quantidade de Cana": "BOM",
     "Observações": null,
-    "Fazenda": null,
-    "Observações ": null,
-    "Unnamed: 19": null
+    "Fazenda": null
   },
   {
     "ID": "3556360",
@@ -31441,9 +28709,7 @@ window.QUALIDADE_CANA_DATA = [
     "Responsável": "REGINALDO DA SILVA GOMES ",
     "Quantidade de Cana": "BOM",
     "Observações": null,
-    "Fazenda": null,
-    "Observações ": null,
-    "Unnamed: 19": null
+    "Fazenda": null
   },
   {
     "ID": "3556016",
@@ -31464,9 +28730,7 @@ window.QUALIDADE_CANA_DATA = [
     "Responsável": "FERNANDA DE SOUZA ",
     "Quantidade de Cana": "BOM",
     "Observações": null,
-    "Fazenda": null,
-    "Observações ": null,
-    "Unnamed: 19": null
+    "Fazenda": null
   },
   {
     "ID": "3556263",
@@ -31487,9 +28751,7 @@ window.QUALIDADE_CANA_DATA = [
     "Responsável": "MARCELO DE OLIVEIRA JUNIOR",
     "Quantidade de Cana": "BOM",
     "Observações": null,
-    "Fazenda": null,
-    "Observações ": null,
-    "Unnamed: 19": null
+    "Fazenda": null
   },
   {
     "ID": "3556015",
@@ -31510,9 +28772,7 @@ window.QUALIDADE_CANA_DATA = [
     "Responsável": "FERNANDA DE SOUZA ",
     "Quantidade de Cana": "BOM",
     "Observações": null,
-    "Fazenda": null,
-    "Observações ": null,
-    "Unnamed: 19": null
+    "Fazenda": null
   },
   {
     "ID": "3556353",
@@ -31533,9 +28793,7 @@ window.QUALIDADE_CANA_DATA = [
     "Responsável": "REGINALDO DA SILVA GOMES ",
     "Quantidade de Cana": "BOM",
     "Observações": null,
-    "Fazenda": null,
-    "Observações ": null,
-    "Unnamed: 19": null
+    "Fazenda": null
   },
   {
     "ID": "3556258",
@@ -31556,9 +28814,7 @@ window.QUALIDADE_CANA_DATA = [
     "Responsável": "MARCELO DE OLIVEIRA JUNIOR",
     "Quantidade de Cana": "BOM",
     "Observações": null,
-    "Fazenda": null,
-    "Observações ": null,
-    "Unnamed: 19": null
+    "Fazenda": null
   },
   {
     "ID": "3556350",
@@ -31579,9 +28835,7 @@ window.QUALIDADE_CANA_DATA = [
     "Responsável": "REGINALDO DA SILVA GOMES ",
     "Quantidade de Cana": "BOM",
     "Observações": null,
-    "Fazenda": null,
-    "Observações ": null,
-    "Unnamed: 19": null
+    "Fazenda": null
   },
   {
     "ID": "3555940",
@@ -31602,9 +28856,7 @@ window.QUALIDADE_CANA_DATA = [
     "Responsável": "GABRIEL HENRIQUE MARTINS PEREIRA",
     "Quantidade de Cana": "BOM",
     "Observações": null,
-    "Fazenda": null,
-    "Observações ": null,
-    "Unnamed: 19": null
+    "Fazenda": null
   },
   {
     "ID": "3555933",
@@ -31625,9 +28877,7 @@ window.QUALIDADE_CANA_DATA = [
     "Responsável": "GABRIEL HENRIQUE MARTINS PEREIRA",
     "Quantidade de Cana": "BOM",
     "Observações": null,
-    "Fazenda": null,
-    "Observações ": null,
-    "Unnamed: 19": null
+    "Fazenda": null
   },
   {
     "ID": "3555925",
@@ -31648,9 +28898,7 @@ window.QUALIDADE_CANA_DATA = [
     "Responsável": "GABRIEL HENRIQUE MARTINS PEREIRA",
     "Quantidade de Cana": "BOM",
     "Observações": null,
-    "Fazenda": null,
-    "Observações ": null,
-    "Unnamed: 19": null
+    "Fazenda": null
   },
   {
     "ID": "3555915",
@@ -31671,9 +28919,7 @@ window.QUALIDADE_CANA_DATA = [
     "Responsável": "GABRIEL HENRIQUE MARTINS PEREIRA",
     "Quantidade de Cana": "BOM",
     "Observações": null,
-    "Fazenda": null,
-    "Observações ": null,
-    "Unnamed: 19": null
+    "Fazenda": null
   },
   {
     "ID": "3556253",
@@ -31694,9 +28940,7 @@ window.QUALIDADE_CANA_DATA = [
     "Responsável": "MARCELO DE OLIVEIRA JUNIOR",
     "Quantidade de Cana": "BOM",
     "Observações": null,
-    "Fazenda": null,
-    "Observações ": null,
-    "Unnamed: 19": null
+    "Fazenda": null
   },
   {
     "ID": "3555910",
@@ -31717,9 +28961,7 @@ window.QUALIDADE_CANA_DATA = [
     "Responsável": "GABRIEL HENRIQUE MARTINS PEREIRA",
     "Quantidade de Cana": "BOM",
     "Observações": null,
-    "Fazenda": null,
-    "Observações ": null,
-    "Unnamed: 19": null
+    "Fazenda": null
   },
   {
     "ID": "3556247",
@@ -31740,9 +28982,7 @@ window.QUALIDADE_CANA_DATA = [
     "Responsável": "MARCELO DE OLIVEIRA JUNIOR",
     "Quantidade de Cana": "BOM",
     "Observações": null,
-    "Fazenda": null,
-    "Observações ": null,
-    "Unnamed: 19": null
+    "Fazenda": null
   },
   {
     "ID": "3556239",
@@ -31763,9 +29003,7 @@ window.QUALIDADE_CANA_DATA = [
     "Responsável": "MARCELO DE OLIVEIRA JUNIOR",
     "Quantidade de Cana": "BOM",
     "Observações": null,
-    "Fazenda": null,
-    "Observações ": null,
-    "Unnamed: 19": null
+    "Fazenda": null
   },
   {
     "ID": "3553697",
@@ -31786,9 +29024,7 @@ window.QUALIDADE_CANA_DATA = [
     "Responsável": "MARCELO DE OLIVEIRA JUNIOR",
     "Quantidade de Cana": "BOM",
     "Observações": null,
-    "Fazenda": null,
-    "Observações ": null,
-    "Unnamed: 19": null
+    "Fazenda": null
   },
   {
     "ID": "3553775",
@@ -31809,9 +29045,7 @@ window.QUALIDADE_CANA_DATA = [
     "Responsável": "FERNANDA DE SOUZA ",
     "Quantidade de Cana": "BOM",
     "Observações": null,
-    "Fazenda": null,
-    "Observações ": null,
-    "Unnamed: 19": null
+    "Fazenda": null
   },
   {
     "ID": "3553694",
@@ -31832,9 +29066,7 @@ window.QUALIDADE_CANA_DATA = [
     "Responsável": "MARCELO DE OLIVEIRA JUNIOR",
     "Quantidade de Cana": "BOM",
     "Observações": null,
-    "Fazenda": null,
-    "Observações ": null,
-    "Unnamed: 19": null
+    "Fazenda": null
   },
   {
     "ID": "3553724",
@@ -31855,9 +29087,7 @@ window.QUALIDADE_CANA_DATA = [
     "Responsável": "VITOR AMORIM RAMOS ",
     "Quantidade de Cana": "BOM",
     "Observações": null,
-    "Fazenda": null,
-    "Observações ": null,
-    "Unnamed: 19": null
+    "Fazenda": null
   },
   {
     "ID": "3553689",
@@ -31878,9 +29108,7 @@ window.QUALIDADE_CANA_DATA = [
     "Responsável": "MARCELO DE OLIVEIRA JUNIOR",
     "Quantidade de Cana": "BOM",
     "Observações": null,
-    "Fazenda": null,
-    "Observações ": null,
-    "Unnamed: 19": null
+    "Fazenda": null
   },
   {
     "ID": "3553719",
@@ -31901,9 +29129,7 @@ window.QUALIDADE_CANA_DATA = [
     "Responsável": "VITOR AMORIM RAMOS ",
     "Quantidade de Cana": "BOM",
     "Observações": null,
-    "Fazenda": null,
-    "Observações ": null,
-    "Unnamed: 19": null
+    "Fazenda": null
   },
   {
     "ID": "3553714",
@@ -31924,9 +29150,7 @@ window.QUALIDADE_CANA_DATA = [
     "Responsável": "VITOR AMORIM RAMOS ",
     "Quantidade de Cana": "BOM",
     "Observações": null,
-    "Fazenda": null,
-    "Observações ": null,
-    "Unnamed: 19": null
+    "Fazenda": null
   },
   {
     "ID": "3553568",
@@ -31947,9 +29171,7 @@ window.QUALIDADE_CANA_DATA = [
     "Responsável": "MICHELI DE SOUZA SANTOS  ",
     "Quantidade de Cana": "BOM",
     "Observações": null,
-    "Fazenda": null,
-    "Observações ": null,
-    "Unnamed: 19": null
+    "Fazenda": null
   },
   {
     "ID": "3553563",
@@ -31970,9 +29192,7 @@ window.QUALIDADE_CANA_DATA = [
     "Responsável": "MABILA HELEN D FIGUEIREDO",
     "Quantidade de Cana": "BOM",
     "Observações": null,
-    "Fazenda": null,
-    "Observações ": null,
-    "Unnamed: 19": null
+    "Fazenda": null
   },
   {
     "ID": "3553661",
@@ -31993,9 +29213,7 @@ window.QUALIDADE_CANA_DATA = [
     "Responsável": "Leonardo Ribeiro Teixeira da Silva",
     "Quantidade de Cana": "BOM",
     "Observações": null,
-    "Fazenda": null,
-    "Observações ": null,
-    "Unnamed: 19": null
+    "Fazenda": null
   },
   {
     "ID": "3553660",
@@ -32016,9 +29234,7 @@ window.QUALIDADE_CANA_DATA = [
     "Responsável": "Leonardo Ribeiro Teixeira da Silva",
     "Quantidade de Cana": "BOM",
     "Observações": null,
-    "Fazenda": null,
-    "Observações ": null,
-    "Unnamed: 19": null
+    "Fazenda": null
   },
   {
     "ID": "3553560",
@@ -32039,9 +29255,7 @@ window.QUALIDADE_CANA_DATA = [
     "Responsável": "MABILA HELEN D FIGUEIREDO",
     "Quantidade de Cana": "BOM",
     "Observações": null,
-    "Fazenda": null,
-    "Observações ": null,
-    "Unnamed: 19": null
+    "Fazenda": null
   },
   {
     "ID": "3553553",
@@ -32062,9 +29276,7 @@ window.QUALIDADE_CANA_DATA = [
     "Responsável": "MABILA HELEN D FIGUEIREDO",
     "Quantidade de Cana": "BOM",
     "Observações": null,
-    "Fazenda": null,
-    "Observações ": null,
-    "Unnamed: 19": null
+    "Fazenda": null
   },
   {
     "ID": "3553552",
@@ -32085,9 +29297,7 @@ window.QUALIDADE_CANA_DATA = [
     "Responsável": "MABILA HELEN D FIGUEIREDO",
     "Quantidade de Cana": "BOM",
     "Observações": null,
-    "Fazenda": null,
-    "Observações ": null,
-    "Unnamed: 19": null
+    "Fazenda": null
   },
   {
     "ID": "3553265",
@@ -32108,9 +29318,7 @@ window.QUALIDADE_CANA_DATA = [
     "Responsável": "VITOR AMORIM RAMOS ",
     "Quantidade de Cana": "BOM",
     "Observações": null,
-    "Fazenda": null,
-    "Observações ": null,
-    "Unnamed: 19": null
+    "Fazenda": null
   },
   {
     "ID": "3553264",
@@ -32131,9 +29339,7 @@ window.QUALIDADE_CANA_DATA = [
     "Responsável": "VITOR AMORIM RAMOS ",
     "Quantidade de Cana": "BOM",
     "Observações": null,
-    "Fazenda": null,
-    "Observações ": null,
-    "Unnamed: 19": null
+    "Fazenda": null
   },
   {
     "ID": "3553263",
@@ -32154,9 +29360,7 @@ window.QUALIDADE_CANA_DATA = [
     "Responsável": "VITOR AMORIM RAMOS ",
     "Quantidade de Cana": "BOM",
     "Observações": null,
-    "Fazenda": null,
-    "Observações ": null,
-    "Unnamed: 19": null
+    "Fazenda": null
   },
   {
     "ID": "3553262",
@@ -32177,9 +29381,7 @@ window.QUALIDADE_CANA_DATA = [
     "Responsável": "VITOR AMORIM RAMOS ",
     "Quantidade de Cana": "BOM",
     "Observações": null,
-    "Fazenda": null,
-    "Observações ": null,
-    "Unnamed: 19": null
+    "Fazenda": null
   },
   {
     "ID": "3553113",
@@ -32200,9 +29402,7 @@ window.QUALIDADE_CANA_DATA = [
     "Responsável": "GABRIEL HENRIQUE MARTINS PEREIRA",
     "Quantidade de Cana": "BOM",
     "Observações": null,
-    "Fazenda": null,
-    "Observações ": null,
-    "Unnamed: 19": null
+    "Fazenda": null
   },
   {
     "ID": "3553112",
@@ -32223,9 +29423,7 @@ window.QUALIDADE_CANA_DATA = [
     "Responsável": "GABRIEL HENRIQUE MARTINS PEREIRA",
     "Quantidade de Cana": "BOM",
     "Observações": null,
-    "Fazenda": null,
-    "Observações ": null,
-    "Unnamed: 19": null
+    "Fazenda": null
   },
   {
     "ID": "3553237",
@@ -32246,9 +29444,7 @@ window.QUALIDADE_CANA_DATA = [
     "Responsável": "VITOR AMORIM RAMOS ",
     "Quantidade de Cana": "BOM",
     "Observações": null,
-    "Fazenda": null,
-    "Observações ": null,
-    "Unnamed: 19": null
+    "Fazenda": null
   },
   {
     "ID": "3555376",
@@ -32269,9 +29465,7 @@ window.QUALIDADE_CANA_DATA = [
     "Responsável": "REGINALDO DA SILVA GOMES ",
     "Quantidade de Cana": "BOM",
     "Observações": null,
-    "Fazenda": null,
-    "Observações ": null,
-    "Unnamed: 19": null
+    "Fazenda": null
   },
   {
     "ID": "3555371",
@@ -32292,9 +29486,7 @@ window.QUALIDADE_CANA_DATA = [
     "Responsável": "REGINALDO DA SILVA GOMES ",
     "Quantidade de Cana": "BOM",
     "Observações": null,
-    "Fazenda": null,
-    "Observações ": null,
-    "Unnamed: 19": null
+    "Fazenda": null
   },
   {
     "ID": "3555366",
@@ -32315,9 +29507,7 @@ window.QUALIDADE_CANA_DATA = [
     "Responsável": "REGINALDO DA SILVA GOMES ",
     "Quantidade de Cana": "BOM",
     "Observações": null,
-    "Fazenda": null,
-    "Observações ": null,
-    "Unnamed: 19": null
+    "Fazenda": null
   },
   {
     "ID": "3553768",
@@ -32338,9 +29528,7 @@ window.QUALIDADE_CANA_DATA = [
     "Responsável": "FERNANDA DE SOUZA ",
     "Quantidade de Cana": "BOM",
     "Observações": null,
-    "Fazenda": null,
-    "Observações ": null,
-    "Unnamed: 19": null
+    "Fazenda": null
   },
   {
     "ID": "3553528",
@@ -32361,9 +29549,7 @@ window.QUALIDADE_CANA_DATA = [
     "Responsável": "NILDA CLAUDINO [2510716]",
     "Quantidade de Cana": "BOM",
     "Observações": null,
-    "Fazenda": null,
-    "Observações ": null,
-    "Unnamed: 19": null
+    "Fazenda": null
   },
   {
     "ID": "3553527",
@@ -32384,9 +29570,7 @@ window.QUALIDADE_CANA_DATA = [
     "Responsável": "NILDA CLAUDINO [2510716]",
     "Quantidade de Cana": "BOM",
     "Observações": null,
-    "Fazenda": null,
-    "Observações ": null,
-    "Unnamed: 19": null
+    "Fazenda": null
   },
   {
     "ID": "3553526",
@@ -32407,9 +29591,7 @@ window.QUALIDADE_CANA_DATA = [
     "Responsável": "NILDA CLAUDINO [2510716]",
     "Quantidade de Cana": "BOM",
     "Observações": null,
-    "Fazenda": null,
-    "Observações ": null,
-    "Unnamed: 19": null
+    "Fazenda": null
   },
   {
     "ID": "3553760",
@@ -32430,9 +29612,7 @@ window.QUALIDADE_CANA_DATA = [
     "Responsável": "FERNANDA DE SOUZA ",
     "Quantidade de Cana": "BOM",
     "Observações": null,
-    "Fazenda": null,
-    "Observações ": null,
-    "Unnamed: 19": null
+    "Fazenda": null
   },
   {
     "ID": "3553227",
@@ -32453,9 +29633,7 @@ window.QUALIDADE_CANA_DATA = [
     "Responsável": "VITOR AMORIM RAMOS ",
     "Quantidade de Cana": "BOM",
     "Observações": null,
-    "Fazenda": null,
-    "Observações ": null,
-    "Unnamed: 19": null
+    "Fazenda": null
   },
   {
     "ID": "3553226",
@@ -32476,9 +29654,7 @@ window.QUALIDADE_CANA_DATA = [
     "Responsável": "VITOR AMORIM RAMOS ",
     "Quantidade de Cana": "BOM",
     "Observações": null,
-    "Fazenda": null,
-    "Observações ": null,
-    "Unnamed: 19": null
+    "Fazenda": null
   },
   {
     "ID": "3553213",
@@ -32499,9 +29675,7 @@ window.QUALIDADE_CANA_DATA = [
     "Responsável": "VITOR AMORIM RAMOS ",
     "Quantidade de Cana": "BOM",
     "Observações": null,
-    "Fazenda": null,
-    "Observações ": null,
-    "Unnamed: 19": null
+    "Fazenda": null
   },
   {
     "ID": "3553208",
@@ -32522,9 +29696,7 @@ window.QUALIDADE_CANA_DATA = [
     "Responsável": "VITOR AMORIM RAMOS ",
     "Quantidade de Cana": "BOM",
     "Observações": null,
-    "Fazenda": null,
-    "Observações ": null,
-    "Unnamed: 19": null
+    "Fazenda": null
   },
   {
     "ID": "3553203",
@@ -32545,9 +29717,7 @@ window.QUALIDADE_CANA_DATA = [
     "Responsável": "VITOR AMORIM RAMOS ",
     "Quantidade de Cana": "BOM",
     "Observações": null,
-    "Fazenda": null,
-    "Observações ": null,
-    "Unnamed: 19": null
+    "Fazenda": null
   },
   {
     "ID": "3553504",
@@ -32568,9 +29738,7 @@ window.QUALIDADE_CANA_DATA = [
     "Responsável": "NILDA CLAUDINO [2510716]",
     "Quantidade de Cana": "BOM",
     "Observações": null,
-    "Fazenda": null,
-    "Observações ": null,
-    "Unnamed: 19": null
+    "Fazenda": null
   },
   {
     "ID": "3553503",
@@ -32591,9 +29759,7 @@ window.QUALIDADE_CANA_DATA = [
     "Responsável": "NILDA CLAUDINO [2510716]",
     "Quantidade de Cana": "BOM",
     "Observações": null,
-    "Fazenda": null,
-    "Observações ": null,
-    "Unnamed: 19": null
+    "Fazenda": null
   },
   {
     "ID": "3553501",
@@ -32614,9 +29780,7 @@ window.QUALIDADE_CANA_DATA = [
     "Responsável": "NILDA CLAUDINO [2510716]",
     "Quantidade de Cana": "BOM",
     "Observações": null,
-    "Fazenda": null,
-    "Observações ": null,
-    "Unnamed: 19": null
+    "Fazenda": null
   },
   {
     "ID": "3552925",
@@ -32637,9 +29801,7 @@ window.QUALIDADE_CANA_DATA = [
     "Responsável": "GABRIEL HENRIQUE MARTINS PEREIRA",
     "Quantidade de Cana": "BOM",
     "Observações": null,
-    "Fazenda": null,
-    "Observações ": null,
-    "Unnamed: 19": null
+    "Fazenda": null
   },
   {
     "ID": "3552920",
@@ -32660,9 +29822,7 @@ window.QUALIDADE_CANA_DATA = [
     "Responsável": "GABRIEL HENRIQUE MARTINS PEREIRA",
     "Quantidade de Cana": "BOM",
     "Observações": null,
-    "Fazenda": null,
-    "Observações ": null,
-    "Unnamed: 19": null
+    "Fazenda": null
   },
   {
     "ID": "3551455",
@@ -32683,9 +29843,7 @@ window.QUALIDADE_CANA_DATA = [
     "Responsável": "VITOR AMORIM RAMOS ",
     "Quantidade de Cana": "BOM",
     "Observações": null,
-    "Fazenda": null,
-    "Observações ": null,
-    "Unnamed: 19": null
+    "Fazenda": null
   },
   {
     "ID": "3551446",
@@ -32706,9 +29864,7 @@ window.QUALIDADE_CANA_DATA = [
     "Responsável": "VITOR AMORIM RAMOS ",
     "Quantidade de Cana": "BOM",
     "Observações": null,
-    "Fazenda": null,
-    "Observações ": null,
-    "Unnamed: 19": null
+    "Fazenda": null
   },
   {
     "ID": "3551441",
@@ -32729,9 +29885,7 @@ window.QUALIDADE_CANA_DATA = [
     "Responsável": "VITOR AMORIM RAMOS ",
     "Quantidade de Cana": "BOM",
     "Observações": null,
-    "Fazenda": null,
-    "Observações ": null,
-    "Unnamed: 19": null
+    "Fazenda": null
   },
   {
     "ID": "3551436",
@@ -32752,9 +29906,7 @@ window.QUALIDADE_CANA_DATA = [
     "Responsável": "VITOR AMORIM RAMOS ",
     "Quantidade de Cana": "BOM",
     "Observações": null,
-    "Fazenda": null,
-    "Observações ": null,
-    "Unnamed: 19": null
+    "Fazenda": null
   },
   {
     "ID": "3551016",
@@ -32775,9 +29927,7 @@ window.QUALIDADE_CANA_DATA = [
     "Responsável": "VITOR AMORIM RAMOS ",
     "Quantidade de Cana": "BOM",
     "Observações": null,
-    "Fazenda": null,
-    "Observações ": null,
-    "Unnamed: 19": null
+    "Fazenda": null
   },
   {
     "ID": "3551015",
@@ -32798,9 +29948,7 @@ window.QUALIDADE_CANA_DATA = [
     "Responsável": "VITOR AMORIM RAMOS ",
     "Quantidade de Cana": "BOM",
     "Observações": null,
-    "Fazenda": null,
-    "Observações ": null,
-    "Unnamed: 19": null
+    "Fazenda": null
   },
   {
     "ID": "3551010",
@@ -32821,9 +29969,7 @@ window.QUALIDADE_CANA_DATA = [
     "Responsável": "VITOR AMORIM RAMOS ",
     "Quantidade de Cana": "BOM",
     "Observações": null,
-    "Fazenda": null,
-    "Observações ": null,
-    "Unnamed: 19": null
+    "Fazenda": null
   },
   {
     "ID": "3551009",
@@ -32844,9 +29990,7 @@ window.QUALIDADE_CANA_DATA = [
     "Responsável": "VITOR AMORIM RAMOS ",
     "Quantidade de Cana": "BOM",
     "Observações": null,
-    "Fazenda": null,
-    "Observações ": null,
-    "Unnamed: 19": null
+    "Fazenda": null
   },
   {
     "ID": "3551378",
@@ -32867,9 +30011,7 @@ window.QUALIDADE_CANA_DATA = [
     "Responsável": "NILDA CLAUDINO [2510716]",
     "Quantidade de Cana": "BOM",
     "Observações": null,
-    "Fazenda": null,
-    "Observações ": null,
-    "Unnamed: 19": null
+    "Fazenda": null
   },
   {
     "ID": "3551377",
@@ -32890,9 +30032,7 @@ window.QUALIDADE_CANA_DATA = [
     "Responsável": "NILDA CLAUDINO [2510716]",
     "Quantidade de Cana": "BOM",
     "Observações": null,
-    "Fazenda": null,
-    "Observações ": null,
-    "Unnamed: 19": null
+    "Fazenda": null
   },
   {
     "ID": "3551376",
@@ -32913,9 +30053,7 @@ window.QUALIDADE_CANA_DATA = [
     "Responsável": "NILDA CLAUDINO [2510716]",
     "Quantidade de Cana": "BOM",
     "Observações": null,
-    "Fazenda": null,
-    "Observações ": null,
-    "Unnamed: 19": null
+    "Fazenda": null
   },
   {
     "ID": "3551002",
@@ -32936,9 +30074,7 @@ window.QUALIDADE_CANA_DATA = [
     "Responsável": "VITOR AMORIM RAMOS ",
     "Quantidade de Cana": "BOM",
     "Observações": null,
-    "Fazenda": null,
-    "Observações ": null,
-    "Unnamed: 19": null
+    "Fazenda": null
   },
   {
     "ID": "3551327",
@@ -32959,9 +30095,7 @@ window.QUALIDADE_CANA_DATA = [
     "Responsável": "MARCELO DE OLIVEIRA JUNIOR",
     "Quantidade de Cana": "BOM",
     "Observações": null,
-    "Fazenda": null,
-    "Observações ": null,
-    "Unnamed: 19": null
+    "Fazenda": null
   },
   {
     "ID": "3551375",
@@ -32982,9 +30116,7 @@ window.QUALIDADE_CANA_DATA = [
     "Responsável": "NILDA CLAUDINO [2510716]",
     "Quantidade de Cana": "BOM",
     "Observações": null,
-    "Fazenda": null,
-    "Observações ": null,
-    "Unnamed: 19": null
+    "Fazenda": null
   },
   {
     "ID": "3551373",
@@ -33005,9 +30137,7 @@ window.QUALIDADE_CANA_DATA = [
     "Responsável": "NILDA CLAUDINO [2510716]",
     "Quantidade de Cana": "BOM",
     "Observações": null,
-    "Fazenda": null,
-    "Observações ": null,
-    "Unnamed: 19": null
+    "Fazenda": null
   },
   {
     "ID": "3551372",
@@ -33028,9 +30158,7 @@ window.QUALIDADE_CANA_DATA = [
     "Responsável": "NILDA CLAUDINO [2510716]",
     "Quantidade de Cana": "BOM",
     "Observações": null,
-    "Fazenda": null,
-    "Observações ": null,
-    "Unnamed: 19": null
+    "Fazenda": null
   },
   {
     "ID": "3551321",
@@ -33051,9 +30179,7 @@ window.QUALIDADE_CANA_DATA = [
     "Responsável": "MARCELO DE OLIVEIRA JUNIOR",
     "Quantidade de Cana": "BOM",
     "Observações": null,
-    "Fazenda": null,
-    "Observações ": null,
-    "Unnamed: 19": null
+    "Fazenda": null
   },
   {
     "ID": "3550990",
@@ -33074,9 +30200,7 @@ window.QUALIDADE_CANA_DATA = [
     "Responsável": "VITOR AMORIM RAMOS ",
     "Quantidade de Cana": "BOM",
     "Observações": null,
-    "Fazenda": null,
-    "Observações ": null,
-    "Unnamed: 19": null
+    "Fazenda": null
   },
   {
     "ID": "3550986",
@@ -33097,9 +30221,7 @@ window.QUALIDADE_CANA_DATA = [
     "Responsável": "VITOR AMORIM RAMOS ",
     "Quantidade de Cana": "BOM",
     "Observações": null,
-    "Fazenda": null,
-    "Observações ": null,
-    "Unnamed: 19": null
+    "Fazenda": null
   },
   {
     "ID": "3551316",
@@ -33120,9 +30242,7 @@ window.QUALIDADE_CANA_DATA = [
     "Responsável": "MARCELO DE OLIVEIRA JUNIOR",
     "Quantidade de Cana": "BOM",
     "Observações": null,
-    "Fazenda": null,
-    "Observações ": null,
-    "Unnamed: 19": null
+    "Fazenda": null
   },
   {
     "ID": "3551311",
@@ -33143,9 +30263,7 @@ window.QUALIDADE_CANA_DATA = [
     "Responsável": "MARCELO DE OLIVEIRA JUNIOR",
     "Quantidade de Cana": "BOM",
     "Observações": null,
-    "Fazenda": null,
-    "Observações ": null,
-    "Unnamed: 19": null
+    "Fazenda": null
   },
   {
     "ID": "3551306",
@@ -33166,9 +30284,7 @@ window.QUALIDADE_CANA_DATA = [
     "Responsável": "MARCELO DE OLIVEIRA JUNIOR",
     "Quantidade de Cana": "BOM",
     "Observações": null,
-    "Fazenda": null,
-    "Observações ": null,
-    "Unnamed: 19": null
+    "Fazenda": null
   },
   {
     "ID": "3551353",
@@ -33189,9 +30305,7 @@ window.QUALIDADE_CANA_DATA = [
     "Responsável": "NILDA CLAUDINO [2510716]",
     "Quantidade de Cana": "BOM",
     "Observações": null,
-    "Fazenda": null,
-    "Observações ": null,
-    "Unnamed: 19": null
+    "Fazenda": null
   },
   {
     "ID": "3551352",
@@ -33212,9 +30326,7 @@ window.QUALIDADE_CANA_DATA = [
     "Responsável": "NILDA CLAUDINO [2510716]",
     "Quantidade de Cana": "BOM",
     "Observações": null,
-    "Fazenda": null,
-    "Observações ": null,
-    "Unnamed: 19": null
+    "Fazenda": null
   },
   {
     "ID": "3551351",
@@ -33235,9 +30347,7 @@ window.QUALIDADE_CANA_DATA = [
     "Responsável": "NILDA CLAUDINO [2510716]",
     "Quantidade de Cana": "BOM",
     "Observações": null,
-    "Fazenda": null,
-    "Observações ": null,
-    "Unnamed: 19": null
+    "Fazenda": null
   },
   {
     "ID": "3549547",
@@ -33258,9 +30368,7 @@ window.QUALIDADE_CANA_DATA = [
     "Responsável": "MARCELO DE OLIVEIRA JUNIOR",
     "Quantidade de Cana": "BOM",
     "Observações": null,
-    "Fazenda": null,
-    "Observações ": null,
-    "Unnamed: 19": null
+    "Fazenda": null
   },
   {
     "ID": "3549546",
@@ -33281,9 +30389,7 @@ window.QUALIDADE_CANA_DATA = [
     "Responsável": "MARCELO DE OLIVEIRA JUNIOR",
     "Quantidade de Cana": "BOM",
     "Observações": null,
-    "Fazenda": null,
-    "Observações ": null,
-    "Unnamed: 19": null
+    "Fazenda": null
   },
   {
     "ID": "3549592",
@@ -33304,9 +30410,7 @@ window.QUALIDADE_CANA_DATA = [
     "Responsável": "VITOR AMORIM RAMOS ",
     "Quantidade de Cana": "BOM",
     "Observações": null,
-    "Fazenda": null,
-    "Observações ": null,
-    "Unnamed: 19": null
+    "Fazenda": null
   },
   {
     "ID": "3549554",
@@ -33327,9 +30431,7 @@ window.QUALIDADE_CANA_DATA = [
     "Responsável": "VITOR AMORIM RAMOS ",
     "Quantidade de Cana": "BOM",
     "Observações": null,
-    "Fazenda": null,
-    "Observações ": null,
-    "Unnamed: 19": null
+    "Fazenda": null
   },
   {
     "ID": "3549553",
@@ -33350,9 +30452,7 @@ window.QUALIDADE_CANA_DATA = [
     "Responsável": "VITOR AMORIM RAMOS ",
     "Quantidade de Cana": "BOM",
     "Observações": null,
-    "Fazenda": null,
-    "Observações ": null,
-    "Unnamed: 19": null
+    "Fazenda": null
   },
   {
     "ID": "3549552",
@@ -33373,9 +30473,7 @@ window.QUALIDADE_CANA_DATA = [
     "Responsável": "VITOR AMORIM RAMOS ",
     "Quantidade de Cana": "BOM",
     "Observações": null,
-    "Fazenda": null,
-    "Observações ": null,
-    "Unnamed: 19": null
+    "Fazenda": null
   },
   {
     "ID": "3549551",
@@ -33396,9 +30494,7 @@ window.QUALIDADE_CANA_DATA = [
     "Responsável": "VITOR AMORIM RAMOS ",
     "Quantidade de Cana": "BOM",
     "Observações": null,
-    "Fazenda": null,
-    "Observações ": null,
-    "Unnamed: 19": null
+    "Fazenda": null
   },
   {
     "ID": "3549549",
@@ -33419,9 +30515,7 @@ window.QUALIDADE_CANA_DATA = [
     "Responsável": "VITOR AMORIM RAMOS ",
     "Quantidade de Cana": "BOM",
     "Observações": null,
-    "Fazenda": null,
-    "Observações ": null,
-    "Unnamed: 19": null
+    "Fazenda": null
   },
   {
     "ID": "3549632",
@@ -33442,9 +30536,7 @@ window.QUALIDADE_CANA_DATA = [
     "Responsável": "MICHELI DE SOUZA SANTOS  ",
     "Quantidade de Cana": "BOM",
     "Observações": null,
-    "Fazenda": null,
-    "Observações ": null,
-    "Unnamed: 19": null
+    "Fazenda": null
   },
   {
     "ID": "3549627",
@@ -33465,9 +30557,7 @@ window.QUALIDADE_CANA_DATA = [
     "Responsável": "MICHELI DE SOUZA SANTOS  ",
     "Quantidade de Cana": "BOM",
     "Observações": null,
-    "Fazenda": null,
-    "Observações ": null,
-    "Unnamed: 19": null
+    "Fazenda": null
   },
   {
     "ID": "3549188",
@@ -33488,9 +30578,7 @@ window.QUALIDADE_CANA_DATA = [
     "Responsável": "Leonardo Ribeiro Teixeira da Silva",
     "Quantidade de Cana": "BOM",
     "Observações": null,
-    "Fazenda": null,
-    "Observações ": null,
-    "Unnamed: 19": null
+    "Fazenda": null
   },
   {
     "ID": "3549185",
@@ -33511,9 +30599,7 @@ window.QUALIDADE_CANA_DATA = [
     "Responsável": "Leonardo Ribeiro Teixeira da Silva",
     "Quantidade de Cana": "BOM",
     "Observações": null,
-    "Fazenda": null,
-    "Observações ": null,
-    "Unnamed: 19": null
+    "Fazenda": null
   },
   {
     "ID": "3549380",
@@ -33534,9 +30620,7 @@ window.QUALIDADE_CANA_DATA = [
     "Responsável": "NILDA CLAUDINO [2510716]",
     "Quantidade de Cana": "BOM",
     "Observações": null,
-    "Fazenda": null,
-    "Observações ": null,
-    "Unnamed: 19": null
+    "Fazenda": null
   },
   {
     "ID": "3549379",
@@ -33557,9 +30641,7 @@ window.QUALIDADE_CANA_DATA = [
     "Responsável": "NILDA CLAUDINO [2510716]",
     "Quantidade de Cana": "BOM",
     "Observações": null,
-    "Fazenda": null,
-    "Observações ": null,
-    "Unnamed: 19": null
+    "Fazenda": null
   },
   {
     "ID": "3549378",
@@ -33580,9 +30662,7 @@ window.QUALIDADE_CANA_DATA = [
     "Responsável": "NILDA CLAUDINO [2510716]",
     "Quantidade de Cana": "BOM",
     "Observações": null,
-    "Fazenda": null,
-    "Observações ": null,
-    "Unnamed: 19": null
+    "Fazenda": null
   },
   {
     "ID": "3549548",
@@ -33603,9 +30683,7 @@ window.QUALIDADE_CANA_DATA = [
     "Responsável": "VITOR AMORIM RAMOS ",
     "Quantidade de Cana": "BOM",
     "Observações": null,
-    "Fazenda": null,
-    "Observações ": null,
-    "Unnamed: 19": null
+    "Fazenda": null
   },
   {
     "ID": "3549620",
@@ -33626,9 +30704,7 @@ window.QUALIDADE_CANA_DATA = [
     "Responsável": "MICHELI DE SOUZA SANTOS  ",
     "Quantidade de Cana": "BOM",
     "Observações": null,
-    "Fazenda": null,
-    "Observações ": null,
-    "Unnamed: 19": null
+    "Fazenda": null
   },
   {
     "ID": "3549615",
@@ -33649,9 +30725,7 @@ window.QUALIDADE_CANA_DATA = [
     "Responsável": "MICHELI DE SOUZA SANTOS  ",
     "Quantidade de Cana": "BOM",
     "Observações": null,
-    "Fazenda": null,
-    "Observações ": null,
-    "Unnamed: 19": null
+    "Fazenda": null
   },
   {
     "ID": "3549610",
@@ -33672,9 +30746,7 @@ window.QUALIDADE_CANA_DATA = [
     "Responsável": "MICHELI DE SOUZA SANTOS  ",
     "Quantidade de Cana": "BOM",
     "Observações": null,
-    "Fazenda": null,
-    "Observações ": null,
-    "Unnamed: 19": null
+    "Fazenda": null
   },
   {
     "ID": "3547659",
@@ -33695,9 +30767,7 @@ window.QUALIDADE_CANA_DATA = [
     "Responsável": "REGINALDO DA SILVA GOMES ",
     "Quantidade de Cana": "BOM",
     "Observações": null,
-    "Fazenda": null,
-    "Observações ": null,
-    "Unnamed: 19": null
+    "Fazenda": null
   },
   {
     "ID": "3547495",
@@ -33718,9 +30788,7 @@ window.QUALIDADE_CANA_DATA = [
     "Responsável": "Leonardo Ribeiro Teixeira da Silva",
     "Quantidade de Cana": "BOM",
     "Observações": null,
-    "Fazenda": null,
-    "Observações ": null,
-    "Unnamed: 19": null
+    "Fazenda": null
   },
   {
     "ID": "3547493",
@@ -33741,9 +30809,7 @@ window.QUALIDADE_CANA_DATA = [
     "Responsável": "Leonardo Ribeiro Teixeira da Silva",
     "Quantidade de Cana": "BOM",
     "Observações": null,
-    "Fazenda": null,
-    "Observações ": null,
-    "Unnamed: 19": null
+    "Fazenda": null
   },
   {
     "ID": "3547654",
@@ -33764,9 +30830,7 @@ window.QUALIDADE_CANA_DATA = [
     "Responsável": "REGINALDO DA SILVA GOMES ",
     "Quantidade de Cana": "BOM",
     "Observações": null,
-    "Fazenda": null,
-    "Observações ": null,
-    "Unnamed: 19": null
+    "Fazenda": null
   },
   {
     "ID": "3547651",
@@ -33787,9 +30851,7 @@ window.QUALIDADE_CANA_DATA = [
     "Responsável": "REGINALDO DA SILVA GOMES ",
     "Quantidade de Cana": "BOM",
     "Observações": null,
-    "Fazenda": null,
-    "Observações ": null,
-    "Unnamed: 19": null
+    "Fazenda": null
   },
   {
     "ID": "3547535",
@@ -33810,9 +30872,7 @@ window.QUALIDADE_CANA_DATA = [
     "Responsável": "NILDA CLAUDINO [2510716]",
     "Quantidade de Cana": "BOM",
     "Observações": null,
-    "Fazenda": null,
-    "Observações ": null,
-    "Unnamed: 19": null
+    "Fazenda": null
   },
   {
     "ID": "3547534",
@@ -33833,9 +30893,7 @@ window.QUALIDADE_CANA_DATA = [
     "Responsável": "NILDA CLAUDINO [2510716]",
     "Quantidade de Cana": "BOM",
     "Observações": null,
-    "Fazenda": null,
-    "Observações ": null,
-    "Unnamed: 19": null
+    "Fazenda": null
   },
   {
     "ID": "3547437",
@@ -33856,9 +30914,7 @@ window.QUALIDADE_CANA_DATA = [
     "Responsável": "NILDA CLAUDINO [2510716]",
     "Quantidade de Cana": "BOM",
     "Observações": null,
-    "Fazenda": null,
-    "Observações ": null,
-    "Unnamed: 19": null
+    "Fazenda": null
   },
   {
     "ID": "3547643",
@@ -33879,9 +30935,7 @@ window.QUALIDADE_CANA_DATA = [
     "Responsável": "REGINALDO DA SILVA GOMES ",
     "Quantidade de Cana": "BOM",
     "Observações": null,
-    "Fazenda": null,
-    "Observações ": null,
-    "Unnamed: 19": null
+    "Fazenda": null
   },
   {
     "ID": "3547638",
@@ -33902,9 +30956,7 @@ window.QUALIDADE_CANA_DATA = [
     "Responsável": "REGINALDO DA SILVA GOMES ",
     "Quantidade de Cana": "BOM",
     "Observações": null,
-    "Fazenda": null,
-    "Observações ": null,
-    "Unnamed: 19": null
+    "Fazenda": null
   },
   {
     "ID": "3547623",
@@ -33925,9 +30977,7 @@ window.QUALIDADE_CANA_DATA = [
     "Responsável": "REGINALDO DA SILVA GOMES ",
     "Quantidade de Cana": "BOM",
     "Observações": null,
-    "Fazenda": null,
-    "Observações ": null,
-    "Unnamed: 19": null
+    "Fazenda": null
   },
   {
     "ID": "3547618",
@@ -33948,9 +30998,7 @@ window.QUALIDADE_CANA_DATA = [
     "Responsável": "REGINALDO DA SILVA GOMES ",
     "Quantidade de Cana": "BOM",
     "Observações": null,
-    "Fazenda": null,
-    "Observações ": null,
-    "Unnamed: 19": null
+    "Fazenda": null
   },
   {
     "ID": "3547184",
@@ -33971,9 +31019,7 @@ window.QUALIDADE_CANA_DATA = [
     "Responsável": "VITOR AMORIM RAMOS ",
     "Quantidade de Cana": "BOM",
     "Observações": null,
-    "Fazenda": null,
-    "Observações ": null,
-    "Unnamed: 19": null
+    "Fazenda": null
   },
   {
     "ID": "3547183",
@@ -33994,9 +31040,7 @@ window.QUALIDADE_CANA_DATA = [
     "Responsável": "VITOR AMORIM RAMOS ",
     "Quantidade de Cana": "BOM",
     "Observações": null,
-    "Fazenda": null,
-    "Observações ": null,
-    "Unnamed: 19": null
+    "Fazenda": null
   },
   {
     "ID": "3547182",
@@ -34017,9 +31061,7 @@ window.QUALIDADE_CANA_DATA = [
     "Responsável": "VITOR AMORIM RAMOS ",
     "Quantidade de Cana": "BOM",
     "Observações": null,
-    "Fazenda": null,
-    "Observações ": null,
-    "Unnamed: 19": null
+    "Fazenda": null
   },
   {
     "ID": "3547042",
@@ -34040,9 +31082,7 @@ window.QUALIDADE_CANA_DATA = [
     "Responsável": "FERNANDA DE SOUZA ",
     "Quantidade de Cana": "BOM",
     "Observações": null,
-    "Fazenda": null,
-    "Observações ": null,
-    "Unnamed: 19": null
+    "Fazenda": null
   },
   {
     "ID": "3547610",
@@ -34063,9 +31103,7 @@ window.QUALIDADE_CANA_DATA = [
     "Responsável": "REGINALDO DA SILVA GOMES ",
     "Quantidade de Cana": "BOM",
     "Observações": null,
-    "Fazenda": null,
-    "Observações ": null,
-    "Unnamed: 19": null
+    "Fazenda": null
   },
   {
     "ID": "3547173",
@@ -34086,9 +31124,7 @@ window.QUALIDADE_CANA_DATA = [
     "Responsável": "VITOR AMORIM RAMOS ",
     "Quantidade de Cana": "BOM",
     "Observações": null,
-    "Fazenda": null,
-    "Observações ": null,
-    "Unnamed: 19": null
+    "Fazenda": null
   },
   {
     "ID": "3547035",
@@ -34109,9 +31145,7 @@ window.QUALIDADE_CANA_DATA = [
     "Responsável": "FERNANDA DE SOUZA ",
     "Quantidade de Cana": "BOM",
     "Observações": null,
-    "Fazenda": null,
-    "Observações ": null,
-    "Unnamed: 19": null
+    "Fazenda": null
   },
   {
     "ID": "3547142",
@@ -34132,9 +31166,7 @@ window.QUALIDADE_CANA_DATA = [
     "Responsável": "VITOR AMORIM RAMOS ",
     "Quantidade de Cana": "BOM",
     "Observações": null,
-    "Fazenda": null,
-    "Observações ": null,
-    "Unnamed: 19": null
+    "Fazenda": null
   },
   {
     "ID": "3547033",
@@ -34155,9 +31187,7 @@ window.QUALIDADE_CANA_DATA = [
     "Responsável": "FERNANDA DE SOUZA ",
     "Quantidade de Cana": "BOM",
     "Observações": null,
-    "Fazenda": null,
-    "Observações ": null,
-    "Unnamed: 19": null
+    "Fazenda": null
   },
   {
     "ID": "3547136",
@@ -34178,9 +31208,7 @@ window.QUALIDADE_CANA_DATA = [
     "Responsável": "VITOR AMORIM RAMOS ",
     "Quantidade de Cana": "BOM",
     "Observações": null,
-    "Fazenda": null,
-    "Observações ": null,
-    "Unnamed: 19": null
+    "Fazenda": null
   },
   {
     "ID": "3547127",
@@ -34201,9 +31229,7 @@ window.QUALIDADE_CANA_DATA = [
     "Responsável": "VITOR AMORIM RAMOS ",
     "Quantidade de Cana": "BOM",
     "Observações": null,
-    "Fazenda": null,
-    "Observações ": null,
-    "Unnamed: 19": null
+    "Fazenda": null
   },
   {
     "ID": "3546921",
@@ -34224,9 +31250,7 @@ window.QUALIDADE_CANA_DATA = [
     "Responsável": "Leonardo Ribeiro Teixeira da Silva",
     "Quantidade de Cana": "BOM",
     "Observações": null,
-    "Fazenda": null,
-    "Observações ": null,
-    "Unnamed: 19": null
+    "Fazenda": null
   },
   {
     "ID": "3546920",
@@ -34247,9 +31271,7 @@ window.QUALIDADE_CANA_DATA = [
     "Responsável": "Leonardo Ribeiro Teixeira da Silva",
     "Quantidade de Cana": "BOM",
     "Observações": null,
-    "Fazenda": null,
-    "Observações ": null,
-    "Unnamed: 19": null
+    "Fazenda": null
   },
   {
     "ID": "3547121",
@@ -34270,9 +31292,7 @@ window.QUALIDADE_CANA_DATA = [
     "Responsável": "VITOR AMORIM RAMOS ",
     "Quantidade de Cana": "BOM",
     "Observações": null,
-    "Fazenda": null,
-    "Observações ": null,
-    "Unnamed: 19": null
+    "Fazenda": null
   },
   {
     "ID": "3547116",
@@ -34293,9 +31313,7 @@ window.QUALIDADE_CANA_DATA = [
     "Responsável": "VITOR AMORIM RAMOS ",
     "Quantidade de Cana": "BOM",
     "Observações": null,
-    "Fazenda": null,
-    "Observações ": null,
-    "Unnamed: 19": null
+    "Fazenda": null
   },
   {
     "ID": "3547111",
@@ -34316,9 +31334,7 @@ window.QUALIDADE_CANA_DATA = [
     "Responsável": "VITOR AMORIM RAMOS ",
     "Quantidade de Cana": "BOM",
     "Observações": null,
-    "Fazenda": null,
-    "Observações ": null,
-    "Unnamed: 19": null
+    "Fazenda": null
   },
   {
     "ID": "3547296",
@@ -34339,9 +31355,7 @@ window.QUALIDADE_CANA_DATA = [
     "Responsável": "GABRIEL HENRIQUE MARTINS PEREIRA",
     "Quantidade de Cana": "BOM",
     "Observações": null,
-    "Fazenda": null,
-    "Observações ": null,
-    "Unnamed: 19": null
+    "Fazenda": null
   },
   {
     "ID": "3547291",
@@ -34362,9 +31376,7 @@ window.QUALIDADE_CANA_DATA = [
     "Responsável": "GABRIEL HENRIQUE MARTINS PEREIRA",
     "Quantidade de Cana": "BOM",
     "Observações": null,
-    "Fazenda": null,
-    "Observações ": null,
-    "Unnamed: 19": null
+    "Fazenda": null
   },
   {
     "ID": "3547285",
@@ -34385,9 +31397,7 @@ window.QUALIDADE_CANA_DATA = [
     "Responsável": "GABRIEL HENRIQUE MARTINS PEREIRA",
     "Quantidade de Cana": "BOM",
     "Observações": null,
-    "Fazenda": null,
-    "Observações ": null,
-    "Unnamed: 19": null
+    "Fazenda": null
   },
   {
     "ID": "3547275",
@@ -34408,9 +31418,7 @@ window.QUALIDADE_CANA_DATA = [
     "Responsável": "GABRIEL HENRIQUE MARTINS PEREIRA",
     "Quantidade de Cana": "BOM",
     "Observações": null,
-    "Fazenda": null,
-    "Observações ": null,
-    "Unnamed: 19": null
+    "Fazenda": null
   },
   {
     "ID": "3545054",
@@ -34431,9 +31439,7 @@ window.QUALIDADE_CANA_DATA = [
     "Responsável": "VITOR AMORIM RAMOS ",
     "Quantidade de Cana": "BOM",
     "Observações": null,
-    "Fazenda": null,
-    "Observações ": null,
-    "Unnamed: 19": null
+    "Fazenda": null
   },
   {
     "ID": "3544778",
@@ -34454,9 +31460,7 @@ window.QUALIDADE_CANA_DATA = [
     "Responsável": "FERNANDA DE SOUZA ",
     "Quantidade de Cana": "BOM",
     "Observações": null,
-    "Fazenda": null,
-    "Observações ": null,
-    "Unnamed: 19": null
+    "Fazenda": null
   },
   {
     "ID": "3544730",
@@ -34477,9 +31481,7 @@ window.QUALIDADE_CANA_DATA = [
     "Responsável": "FERNANDA DE SOUZA ",
     "Quantidade de Cana": "BOM",
     "Observações": null,
-    "Fazenda": null,
-    "Observações ": null,
-    "Unnamed: 19": null
+    "Fazenda": null
   },
   {
     "ID": "3544724",
@@ -34500,9 +31502,7 @@ window.QUALIDADE_CANA_DATA = [
     "Responsável": "FERNANDA DE SOUZA ",
     "Quantidade de Cana": "BOM",
     "Observações": null,
-    "Fazenda": null,
-    "Observações ": null,
-    "Unnamed: 19": null
+    "Fazenda": null
   },
   {
     "ID": "3545041",
@@ -34523,9 +31523,7 @@ window.QUALIDADE_CANA_DATA = [
     "Responsável": "VITOR AMORIM RAMOS ",
     "Quantidade de Cana": "BOM",
     "Observações": null,
-    "Fazenda": null,
-    "Observações ": null,
-    "Unnamed: 19": null
+    "Fazenda": null
   },
   {
     "ID": "3544571",
@@ -34546,9 +31544,7 @@ window.QUALIDADE_CANA_DATA = [
     "Responsável": "MICHELI DE SOUZA SANTOS  ",
     "Quantidade de Cana": "BOM",
     "Observações": null,
-    "Fazenda": null,
-    "Observações ": null,
-    "Unnamed: 19": null
+    "Fazenda": null
   },
   {
     "ID": "3544570",
@@ -34569,9 +31565,7 @@ window.QUALIDADE_CANA_DATA = [
     "Responsável": "MICHELI DE SOUZA SANTOS  ",
     "Quantidade de Cana": "BOM",
     "Observações": null,
-    "Fazenda": null,
-    "Observações ": null,
-    "Unnamed: 19": null
+    "Fazenda": null
   },
   {
     "ID": "3544444",
@@ -34592,9 +31586,7 @@ window.QUALIDADE_CANA_DATA = [
     "Responsável": "FERNANDA DE SOUZA ",
     "Quantidade de Cana": "BOM",
     "Observações": null,
-    "Fazenda": null,
-    "Observações ": null,
-    "Unnamed: 19": null
+    "Fazenda": null
   },
   {
     "ID": "3544442",
@@ -34615,9 +31607,7 @@ window.QUALIDADE_CANA_DATA = [
     "Responsável": "FERNANDA DE SOUZA ",
     "Quantidade de Cana": "BOM",
     "Observações": null,
-    "Fazenda": null,
-    "Observações ": null,
-    "Unnamed: 19": null
+    "Fazenda": null
   },
   {
     "ID": "3544316",
@@ -34638,9 +31628,7 @@ window.QUALIDADE_CANA_DATA = [
     "Responsável": "REGINALDO DA SILVA GOMES ",
     "Quantidade de Cana": "BOM",
     "Observações": null,
-    "Fazenda": null,
-    "Observações ": null,
-    "Unnamed: 19": null
+    "Fazenda": null
   },
   {
     "ID": "3544434",
@@ -34661,9 +31649,7 @@ window.QUALIDADE_CANA_DATA = [
     "Responsável": "FERNANDA DE SOUZA ",
     "Quantidade de Cana": "BOM",
     "Observações": null,
-    "Fazenda": null,
-    "Observações ": null,
-    "Unnamed: 19": null
+    "Fazenda": null
   },
   {
     "ID": "3545024",
@@ -34684,9 +31670,7 @@ window.QUALIDADE_CANA_DATA = [
     "Responsável": "VITOR AMORIM RAMOS ",
     "Quantidade de Cana": "BOM",
     "Observações": null,
-    "Fazenda": null,
-    "Observações ": null,
-    "Unnamed: 19": null
+    "Fazenda": null
   },
   {
     "ID": "3544312",
@@ -34707,9 +31691,7 @@ window.QUALIDADE_CANA_DATA = [
     "Responsável": "REGINALDO DA SILVA GOMES ",
     "Quantidade de Cana": "BOM",
     "Observações": null,
-    "Fazenda": null,
-    "Observações ": null,
-    "Unnamed: 19": null
+    "Fazenda": null
   },
   {
     "ID": "3545019",
@@ -34730,9 +31712,7 @@ window.QUALIDADE_CANA_DATA = [
     "Responsável": "VITOR AMORIM RAMOS ",
     "Quantidade de Cana": "BOM",
     "Observações": null,
-    "Fazenda": null,
-    "Observações ": null,
-    "Unnamed: 19": null
+    "Fazenda": null
   },
   {
     "ID": "3545014",
@@ -34753,9 +31733,7 @@ window.QUALIDADE_CANA_DATA = [
     "Responsável": "VITOR AMORIM RAMOS ",
     "Quantidade de Cana": "BOM",
     "Observações": null,
-    "Fazenda": null,
-    "Observações ": null,
-    "Unnamed: 19": null
+    "Fazenda": null
   },
   {
     "ID": "3545004",
@@ -34776,9 +31754,7 @@ window.QUALIDADE_CANA_DATA = [
     "Responsável": "VITOR AMORIM RAMOS ",
     "Quantidade de Cana": "BOM",
     "Observações": null,
-    "Fazenda": null,
-    "Observações ": null,
-    "Unnamed: 19": null
+    "Fazenda": null
   },
   {
     "ID": "3544228",
@@ -34799,9 +31775,7 @@ window.QUALIDADE_CANA_DATA = [
     "Responsável": "NILDA CLAUDINO [2510716]",
     "Quantidade de Cana": "BOM",
     "Observações": null,
-    "Fazenda": null,
-    "Observações ": null,
-    "Unnamed: 19": null
+    "Fazenda": null
   },
   {
     "ID": "3544227",
@@ -34822,9 +31796,7 @@ window.QUALIDADE_CANA_DATA = [
     "Responsável": "NILDA CLAUDINO [2510716]",
     "Quantidade de Cana": "BOM",
     "Observações": null,
-    "Fazenda": null,
-    "Observações ": null,
-    "Unnamed: 19": null
+    "Fazenda": null
   },
   {
     "ID": "3544226",
@@ -34845,9 +31817,7 @@ window.QUALIDADE_CANA_DATA = [
     "Responsável": "NILDA CLAUDINO [2510716]",
     "Quantidade de Cana": "BOM",
     "Observações": null,
-    "Fazenda": null,
-    "Observações ": null,
-    "Unnamed: 19": null
+    "Fazenda": null
   },
   {
     "ID": "3544620",
@@ -34868,9 +31838,7 @@ window.QUALIDADE_CANA_DATA = [
     "Responsável": "GABRIEL HENRIQUE MARTINS PEREIRA",
     "Quantidade de Cana": "BOM",
     "Observações": null,
-    "Fazenda": null,
-    "Observações ": null,
-    "Unnamed: 19": null
+    "Fazenda": null
   },
   {
     "ID": "3544916",
@@ -34891,9 +31859,7 @@ window.QUALIDADE_CANA_DATA = [
     "Responsável": "MARCELO DE OLIVEIRA JUNIOR",
     "Quantidade de Cana": "BOM",
     "Observações": null,
-    "Fazenda": null,
-    "Observações ": null,
-    "Unnamed: 19": null
+    "Fazenda": null
   },
   {
     "ID": "3544282",
@@ -34914,9 +31880,7 @@ window.QUALIDADE_CANA_DATA = [
     "Responsável": "Leonardo Ribeiro Teixeira da Silva",
     "Quantidade de Cana": "BOM",
     "Observações": null,
-    "Fazenda": null,
-    "Observações ": null,
-    "Unnamed: 19": null
+    "Fazenda": null
   },
   {
     "ID": "3544281",
@@ -34937,9 +31901,7 @@ window.QUALIDADE_CANA_DATA = [
     "Responsável": "Leonardo Ribeiro Teixeira da Silva",
     "Quantidade de Cana": "BOM",
     "Observações": null,
-    "Fazenda": null,
-    "Observações ": null,
-    "Unnamed: 19": null
+    "Fazenda": null
   },
   {
     "ID": "3544992",
@@ -34960,9 +31922,7 @@ window.QUALIDADE_CANA_DATA = [
     "Responsável": "VITOR AMORIM RAMOS ",
     "Quantidade de Cana": "BOM",
     "Observações": null,
-    "Fazenda": null,
-    "Observações ": null,
-    "Unnamed: 19": null
+    "Fazenda": null
   },
   {
     "ID": "3544911",
@@ -34983,9 +31943,7 @@ window.QUALIDADE_CANA_DATA = [
     "Responsável": "MARCELO DE OLIVEIRA JUNIOR",
     "Quantidade de Cana": "BOM",
     "Observações": null,
-    "Fazenda": null,
-    "Observações ": null,
-    "Unnamed: 19": null
+    "Fazenda": null
   },
   {
     "ID": "3544615",
@@ -35006,9 +31964,7 @@ window.QUALIDADE_CANA_DATA = [
     "Responsável": "GABRIEL HENRIQUE MARTINS PEREIRA",
     "Quantidade de Cana": "BOM",
     "Observações": null,
-    "Fazenda": null,
-    "Observações ": null,
-    "Unnamed: 19": null
+    "Fazenda": null
   },
   {
     "ID": "3544987",
@@ -35029,9 +31985,7 @@ window.QUALIDADE_CANA_DATA = [
     "Responsável": "VITOR AMORIM RAMOS ",
     "Quantidade de Cana": "BOM",
     "Observações": null,
-    "Fazenda": null,
-    "Observações ": null,
-    "Unnamed: 19": null
+    "Fazenda": null
   },
   {
     "ID": "3544906",
@@ -35052,9 +32006,7 @@ window.QUALIDADE_CANA_DATA = [
     "Responsável": "MARCELO DE OLIVEIRA JUNIOR",
     "Quantidade de Cana": "BOM",
     "Observações": null,
-    "Fazenda": null,
-    "Observações ": null,
-    "Unnamed: 19": null
+    "Fazenda": null
   },
   {
     "ID": "3544981",
@@ -35075,9 +32027,7 @@ window.QUALIDADE_CANA_DATA = [
     "Responsável": "VITOR AMORIM RAMOS ",
     "Quantidade de Cana": "BOM",
     "Observações": null,
-    "Fazenda": null,
-    "Observações ": null,
-    "Unnamed: 19": null
+    "Fazenda": null
   },
   {
     "ID": "3544608",
@@ -35098,9 +32048,7 @@ window.QUALIDADE_CANA_DATA = [
     "Responsável": "GABRIEL HENRIQUE MARTINS PEREIRA",
     "Quantidade de Cana": "BOM",
     "Observações": null,
-    "Fazenda": null,
-    "Observações ": null,
-    "Unnamed: 19": null
+    "Fazenda": null
   },
   {
     "ID": "3544601",
@@ -35121,9 +32069,7 @@ window.QUALIDADE_CANA_DATA = [
     "Responsável": "GABRIEL HENRIQUE MARTINS PEREIRA",
     "Quantidade de Cana": "BOM",
     "Observações": null,
-    "Fazenda": null,
-    "Observações ": null,
-    "Unnamed: 19": null
+    "Fazenda": null
   },
   {
     "ID": "3544977",
@@ -35144,9 +32090,7 @@ window.QUALIDADE_CANA_DATA = [
     "Responsável": "VITOR AMORIM RAMOS ",
     "Quantidade de Cana": "BOM",
     "Observações": null,
-    "Fazenda": null,
-    "Observações ": null,
-    "Unnamed: 19": null
+    "Fazenda": null
   },
   {
     "ID": "3542339",
@@ -35167,9 +32111,7 @@ window.QUALIDADE_CANA_DATA = [
     "Responsável": "NILDA CLAUDINO [2510716]",
     "Quantidade de Cana": "BOM",
     "Observações": null,
-    "Fazenda": null,
-    "Observações ": null,
-    "Unnamed: 19": null
+    "Fazenda": null
   },
   {
     "ID": "3542338",
@@ -35190,9 +32132,7 @@ window.QUALIDADE_CANA_DATA = [
     "Responsável": "NILDA CLAUDINO [2510716]",
     "Quantidade de Cana": "BOM",
     "Observações": null,
-    "Fazenda": null,
-    "Observações ": null,
-    "Unnamed: 19": null
+    "Fazenda": null
   },
   {
     "ID": "3542337",
@@ -35213,9 +32153,7 @@ window.QUALIDADE_CANA_DATA = [
     "Responsável": "NILDA CLAUDINO [2510716]",
     "Quantidade de Cana": "BOM",
     "Observações": null,
-    "Fazenda": null,
-    "Observações ": null,
-    "Unnamed: 19": null
+    "Fazenda": null
   },
   {
     "ID": "3542370",
@@ -35236,9 +32174,7 @@ window.QUALIDADE_CANA_DATA = [
     "Responsável": "MICHELI DE SOUZA SANTOS  ",
     "Quantidade de Cana": "BOM",
     "Observações": null,
-    "Fazenda": null,
-    "Observações ": null,
-    "Unnamed: 19": null
+    "Fazenda": null
   },
   {
     "ID": "3542361",
@@ -35259,9 +32195,7 @@ window.QUALIDADE_CANA_DATA = [
     "Responsável": "MABILA HELEN D FIGUEIREDO",
     "Quantidade de Cana": "BOM",
     "Observações": null,
-    "Fazenda": null,
-    "Observações ": null,
-    "Unnamed: 19": null
+    "Fazenda": null
   },
   {
     "ID": "3542358",
@@ -35282,9 +32216,7 @@ window.QUALIDADE_CANA_DATA = [
     "Responsável": "MABILA HELEN D FIGUEIREDO",
     "Quantidade de Cana": "BOM",
     "Observações": null,
-    "Fazenda": null,
-    "Observações ": null,
-    "Unnamed: 19": null
+    "Fazenda": null
   },
   {
     "ID": "3542270",
@@ -35305,9 +32237,7 @@ window.QUALIDADE_CANA_DATA = [
     "Responsável": "MARCELO DE OLIVEIRA JUNIOR",
     "Quantidade de Cana": "BOM",
     "Observações": null,
-    "Fazenda": null,
-    "Observações ": null,
-    "Unnamed: 19": null
+    "Fazenda": null
   },
   {
     "ID": "3542349",
@@ -35328,9 +32258,7 @@ window.QUALIDADE_CANA_DATA = [
     "Responsável": "MABILA HELEN D FIGUEIREDO",
     "Quantidade de Cana": "BOM",
     "Observações": null,
-    "Fazenda": null,
-    "Observações ": null,
-    "Unnamed: 19": null
+    "Fazenda": null
   },
   {
     "ID": "3542265",
@@ -35351,9 +32279,7 @@ window.QUALIDADE_CANA_DATA = [
     "Responsável": "MARCELO DE OLIVEIRA JUNIOR",
     "Quantidade de Cana": "BOM",
     "Observações": null,
-    "Fazenda": null,
-    "Observações ": null,
-    "Unnamed: 19": null
+    "Fazenda": null
   },
   {
     "ID": "3541913",
@@ -35374,9 +32300,7 @@ window.QUALIDADE_CANA_DATA = [
     "Responsável": "Leonardo Ribeiro Teixeira da Silva",
     "Quantidade de Cana": "BOM",
     "Observações": null,
-    "Fazenda": null,
-    "Observações ": null,
-    "Unnamed: 19": null
+    "Fazenda": null
   },
   {
     "ID": "3541912",
@@ -35397,9 +32321,7 @@ window.QUALIDADE_CANA_DATA = [
     "Responsável": "Leonardo Ribeiro Teixeira da Silva",
     "Quantidade de Cana": "BOM",
     "Observações": null,
-    "Fazenda": null,
-    "Observações ": null,
-    "Unnamed: 19": null
+    "Fazenda": null
   },
   {
     "ID": "3542260",
@@ -35420,9 +32342,7 @@ window.QUALIDADE_CANA_DATA = [
     "Responsável": "MARCELO DE OLIVEIRA JUNIOR",
     "Quantidade de Cana": "BOM",
     "Observações": null,
-    "Fazenda": null,
-    "Observações ": null,
-    "Unnamed: 19": null
+    "Fazenda": null
   },
   {
     "ID": "3541900",
@@ -35443,9 +32363,7 @@ window.QUALIDADE_CANA_DATA = [
     "Responsável": "FERNANDA DE SOUZA ",
     "Quantidade de Cana": "BOM",
     "Observações": null,
-    "Fazenda": null,
-    "Observações ": null,
-    "Unnamed: 19": null
+    "Fazenda": null
   },
   {
     "ID": "3541895",
@@ -35466,9 +32384,7 @@ window.QUALIDADE_CANA_DATA = [
     "Responsável": "FERNANDA DE SOUZA ",
     "Quantidade de Cana": "BOM",
     "Observações": null,
-    "Fazenda": null,
-    "Observações ": null,
-    "Unnamed: 19": null
+    "Fazenda": null
   },
   {
     "ID": "3542327",
@@ -35489,9 +32405,7 @@ window.QUALIDADE_CANA_DATA = [
     "Responsável": "NILDA CLAUDINO [2510716]",
     "Quantidade de Cana": "BOM",
     "Observações": null,
-    "Fazenda": null,
-    "Observações ": null,
-    "Unnamed: 19": null
+    "Fazenda": null
   },
   {
     "ID": "3542325",
@@ -35512,9 +32426,7 @@ window.QUALIDADE_CANA_DATA = [
     "Responsável": "NILDA CLAUDINO [2510716]",
     "Quantidade de Cana": "BOM",
     "Observações": null,
-    "Fazenda": null,
-    "Observações ": null,
-    "Unnamed: 19": null
+    "Fazenda": null
   },
   {
     "ID": "3542324",
@@ -35535,9 +32447,7 @@ window.QUALIDADE_CANA_DATA = [
     "Responsável": "NILDA CLAUDINO [2510716]",
     "Quantidade de Cana": "BOM",
     "Observações": null,
-    "Fazenda": null,
-    "Observações ": null,
-    "Unnamed: 19": null
+    "Fazenda": null
   },
   {
     "ID": "3541889",
@@ -35558,9 +32468,7 @@ window.QUALIDADE_CANA_DATA = [
     "Responsável": "FERNANDA DE SOUZA ",
     "Quantidade de Cana": "BOM",
     "Observações": null,
-    "Fazenda": null,
-    "Observações ": null,
-    "Unnamed: 19": null
+    "Fazenda": null
   },
   {
     "ID": "3542078",
@@ -35581,9 +32489,7 @@ window.QUALIDADE_CANA_DATA = [
     "Responsável": "GABRIEL HENRIQUE MARTINS PEREIRA",
     "Quantidade de Cana": "BOM",
     "Observações": null,
-    "Fazenda": null,
-    "Observações ": null,
-    "Unnamed: 19": null
+    "Fazenda": null
   },
   {
     "ID": "3542073",
@@ -35604,9 +32510,7 @@ window.QUALIDADE_CANA_DATA = [
     "Responsável": "GABRIEL HENRIQUE MARTINS PEREIRA",
     "Quantidade de Cana": "BOM",
     "Observações": null,
-    "Fazenda": null,
-    "Observações ": null,
-    "Unnamed: 19": null
+    "Fazenda": null
   },
   {
     "ID": "3542068",
@@ -35627,9 +32531,7 @@ window.QUALIDADE_CANA_DATA = [
     "Responsável": "GABRIEL HENRIQUE MARTINS PEREIRA",
     "Quantidade de Cana": "BOM",
     "Observações": null,
-    "Fazenda": null,
-    "Observações ": null,
-    "Unnamed: 19": null
+    "Fazenda": null
   },
   {
     "ID": "3542067",
@@ -35650,9 +32552,7 @@ window.QUALIDADE_CANA_DATA = [
     "Responsável": "GABRIEL HENRIQUE MARTINS PEREIRA",
     "Quantidade de Cana": "BOM",
     "Observações": null,
-    "Fazenda": null,
-    "Observações ": null,
-    "Unnamed: 19": null
+    "Fazenda": null
   },
   {
     "ID": "3540665",
@@ -35673,9 +32573,7 @@ window.QUALIDADE_CANA_DATA = [
     "Responsável": "VITOR AMORIM RAMOS ",
     "Quantidade de Cana": "BOM",
     "Observações": null,
-    "Fazenda": null,
-    "Observações ": null,
-    "Unnamed: 19": null
+    "Fazenda": null
   },
   {
     "ID": "3540650",
@@ -35696,9 +32594,7 @@ window.QUALIDADE_CANA_DATA = [
     "Responsável": "VITOR AMORIM RAMOS ",
     "Quantidade de Cana": "BOM",
     "Observações": null,
-    "Fazenda": null,
-    "Observações ": null,
-    "Unnamed: 19": null
+    "Fazenda": null
   },
   {
     "ID": "3540494",
@@ -35719,9 +32615,7 @@ window.QUALIDADE_CANA_DATA = [
     "Responsável": "VITOR AMORIM RAMOS ",
     "Quantidade de Cana": "BOM",
     "Observações": null,
-    "Fazenda": null,
-    "Observações ": null,
-    "Unnamed: 19": null
+    "Fazenda": null
   },
   {
     "ID": "3540218",
@@ -35742,9 +32636,7 @@ window.QUALIDADE_CANA_DATA = [
     "Responsável": "FERNANDA DE SOUZA ",
     "Quantidade de Cana": "BOM",
     "Observações": null,
-    "Fazenda": null,
-    "Observações ": null,
-    "Unnamed: 19": null
+    "Fazenda": null
   },
   {
     "ID": "3540356",
@@ -35765,9 +32657,7 @@ window.QUALIDADE_CANA_DATA = [
     "Responsável": "VITOR AMORIM RAMOS ",
     "Quantidade de Cana": "BOM",
     "Observações": null,
-    "Fazenda": null,
-    "Observações ": null,
-    "Unnamed: 19": null
+    "Fazenda": null
   },
   {
     "ID": "3540305",
@@ -35788,9 +32678,7 @@ window.QUALIDADE_CANA_DATA = [
     "Responsável": "VITOR AMORIM RAMOS ",
     "Quantidade de Cana": "BOM",
     "Observações": null,
-    "Fazenda": null,
-    "Observações ": null,
-    "Unnamed: 19": null
+    "Fazenda": null
   },
   {
     "ID": "3540027",
@@ -35811,9 +32699,7 @@ window.QUALIDADE_CANA_DATA = [
     "Responsável": "MICHELI DE SOUZA SANTOS  ",
     "Quantidade de Cana": "BOM",
     "Observações": null,
-    "Fazenda": null,
-    "Observações ": null,
-    "Unnamed: 19": null
+    "Fazenda": null
   },
   {
     "ID": "3540018",
@@ -35834,9 +32720,7 @@ window.QUALIDADE_CANA_DATA = [
     "Responsável": "MICHELI DE SOUZA SANTOS  ",
     "Quantidade de Cana": "BOM",
     "Observações": null,
-    "Fazenda": null,
-    "Observações ": null,
-    "Unnamed: 19": null
+    "Fazenda": null
   },
   {
     "ID": "3540013",
@@ -35857,9 +32741,7 @@ window.QUALIDADE_CANA_DATA = [
     "Responsável": "MICHELI DE SOUZA SANTOS  ",
     "Quantidade de Cana": "BOM",
     "Observações": null,
-    "Fazenda": null,
-    "Observações ": null,
-    "Unnamed: 19": null
+    "Fazenda": null
   },
   {
     "ID": "3540000",
@@ -35880,9 +32762,7 @@ window.QUALIDADE_CANA_DATA = [
     "Responsável": "MICHELI DE SOUZA SANTOS  ",
     "Quantidade de Cana": "BOM",
     "Observações": null,
-    "Fazenda": null,
-    "Observações ": null,
-    "Unnamed: 19": null
+    "Fazenda": null
   },
   {
     "ID": "3539998",
@@ -35903,9 +32783,7 @@ window.QUALIDADE_CANA_DATA = [
     "Responsável": "MICHELI DE SOUZA SANTOS  ",
     "Quantidade de Cana": "BOM",
     "Observações": null,
-    "Fazenda": null,
-    "Observações ": null,
-    "Unnamed: 19": null
+    "Fazenda": null
   },
   {
     "ID": "3539984",
@@ -35926,9 +32804,7 @@ window.QUALIDADE_CANA_DATA = [
     "Responsável": "MICHELI DE SOUZA SANTOS  ",
     "Quantidade de Cana": "BOM",
     "Observações": null,
-    "Fazenda": null,
-    "Observações ": null,
-    "Unnamed: 19": null
+    "Fazenda": null
   },
   {
     "ID": "3540213",
@@ -35949,9 +32825,7 @@ window.QUALIDADE_CANA_DATA = [
     "Responsável": "FERNANDA DE SOUZA ",
     "Quantidade de Cana": "BOM",
     "Observações": null,
-    "Fazenda": null,
-    "Observações ": null,
-    "Unnamed: 19": null
+    "Fazenda": null
   },
   {
     "ID": "3540092",
@@ -35972,9 +32846,7 @@ window.QUALIDADE_CANA_DATA = [
     "Responsável": "NILDA CLAUDINO [2510716]",
     "Quantidade de Cana": "BOM",
     "Observações": null,
-    "Fazenda": null,
-    "Observações ": null,
-    "Unnamed: 19": null
+    "Fazenda": null
   },
   {
     "ID": "3540091",
@@ -35995,9 +32867,7 @@ window.QUALIDADE_CANA_DATA = [
     "Responsável": "NILDA CLAUDINO [2510716]",
     "Quantidade de Cana": "BOM",
     "Observações": null,
-    "Fazenda": null,
-    "Observações ": null,
-    "Unnamed: 19": null
+    "Fazenda": null
   },
   {
     "ID": "3540090",
@@ -36018,9 +32888,7 @@ window.QUALIDADE_CANA_DATA = [
     "Responsável": "NILDA CLAUDINO [2510716]",
     "Quantidade de Cana": "BOM",
     "Observações": null,
-    "Fazenda": null,
-    "Observações ": null,
-    "Unnamed: 19": null
+    "Fazenda": null
   },
   {
     "ID": "3540207",
@@ -36041,9 +32909,7 @@ window.QUALIDADE_CANA_DATA = [
     "Responsável": "FERNANDA DE SOUZA ",
     "Quantidade de Cana": "BOM",
     "Observações": null,
-    "Fazenda": null,
-    "Observações ": null,
-    "Unnamed: 19": null
+    "Fazenda": null
   },
   {
     "ID": "3539587",
@@ -36064,9 +32930,7 @@ window.QUALIDADE_CANA_DATA = [
     "Responsável": "VITOR AMORIM RAMOS ",
     "Quantidade de Cana": "BOM",
     "Observações": null,
-    "Fazenda": null,
-    "Observações ": null,
-    "Unnamed: 19": null
+    "Fazenda": null
   },
   {
     "ID": "3540200",
@@ -36087,9 +32951,7 @@ window.QUALIDADE_CANA_DATA = [
     "Responsável": "FERNANDA DE SOUZA ",
     "Quantidade de Cana": "BOM",
     "Observações": null,
-    "Fazenda": null,
-    "Observações ": null,
-    "Unnamed: 19": null
+    "Fazenda": null
   },
   {
     "ID": "3539583",
@@ -36110,9 +32972,7 @@ window.QUALIDADE_CANA_DATA = [
     "Responsável": "VITOR AMORIM RAMOS ",
     "Quantidade de Cana": "BOM",
     "Observações": null,
-    "Fazenda": null,
-    "Observações ": null,
-    "Unnamed: 19": null
+    "Fazenda": null
   },
   {
     "ID": "3539578",
@@ -36133,9 +32993,7 @@ window.QUALIDADE_CANA_DATA = [
     "Responsável": "VITOR AMORIM RAMOS ",
     "Quantidade de Cana": "BOM",
     "Observações": null,
-    "Fazenda": null,
-    "Observações ": null,
-    "Unnamed: 19": null
+    "Fazenda": null
   },
   {
     "ID": "3539379",
@@ -36156,9 +33014,7 @@ window.QUALIDADE_CANA_DATA = [
     "Responsável": "GABRIEL HENRIQUE MARTINS PEREIRA",
     "Quantidade de Cana": "BOM",
     "Observações": null,
-    "Fazenda": null,
-    "Observações ": null,
-    "Unnamed: 19": null
+    "Fazenda": null
   },
   {
     "ID": "3539571",
@@ -36179,9 +33035,7 @@ window.QUALIDADE_CANA_DATA = [
     "Responsável": "VITOR AMORIM RAMOS ",
     "Quantidade de Cana": "BOM",
     "Observações": null,
-    "Fazenda": null,
-    "Observações ": null,
-    "Unnamed: 19": null
+    "Fazenda": null
   },
   {
     "ID": "3539374",
@@ -36202,9 +33056,7 @@ window.QUALIDADE_CANA_DATA = [
     "Responsável": "GABRIEL HENRIQUE MARTINS PEREIRA",
     "Quantidade de Cana": "BOM",
     "Observações": null,
-    "Fazenda": null,
-    "Observações ": null,
-    "Unnamed: 19": null
+    "Fazenda": null
   },
   {
     "ID": "3539566",
@@ -36225,9 +33077,7 @@ window.QUALIDADE_CANA_DATA = [
     "Responsável": "VITOR AMORIM RAMOS ",
     "Quantidade de Cana": "BOM",
     "Observações": null,
-    "Fazenda": null,
-    "Observações ": null,
-    "Unnamed: 19": null
+    "Fazenda": null
   },
   {
     "ID": "3540770",
@@ -36248,9 +33098,7 @@ window.QUALIDADE_CANA_DATA = [
     "Responsável": "MARCELO DE OLIVEIRA JUNIOR",
     "Quantidade de Cana": "BOM",
     "Observações": null,
-    "Fazenda": null,
-    "Observações ": null,
-    "Unnamed: 19": null
+    "Fazenda": null
   },
   {
     "ID": "3539368",
@@ -36271,9 +33119,7 @@ window.QUALIDADE_CANA_DATA = [
     "Responsável": "GABRIEL HENRIQUE MARTINS PEREIRA",
     "Quantidade de Cana": "BOM",
     "Observações": null,
-    "Fazenda": null,
-    "Observações ": null,
-    "Unnamed: 19": null
+    "Fazenda": null
   },
   {
     "ID": "3539557",
@@ -36294,9 +33140,7 @@ window.QUALIDADE_CANA_DATA = [
     "Responsável": "VITOR AMORIM RAMOS ",
     "Quantidade de Cana": "BOM",
     "Observações": null,
-    "Fazenda": null,
-    "Observações ": null,
-    "Unnamed: 19": null
+    "Fazenda": null
   },
   {
     "ID": "3539358",
@@ -36317,9 +33161,7 @@ window.QUALIDADE_CANA_DATA = [
     "Responsável": "GABRIEL HENRIQUE MARTINS PEREIRA",
     "Quantidade de Cana": "BOM",
     "Observações": null,
-    "Fazenda": null,
-    "Observações ": null,
-    "Unnamed: 19": null
+    "Fazenda": null
   },
   {
     "ID": "3539552",
@@ -36340,9 +33182,7 @@ window.QUALIDADE_CANA_DATA = [
     "Responsável": "VITOR AMORIM RAMOS ",
     "Quantidade de Cana": "BOM",
     "Observações": null,
-    "Fazenda": null,
-    "Observações ": null,
-    "Unnamed: 19": null
+    "Fazenda": null
   },
   {
     "ID": "3540761",
@@ -36363,9 +33203,7 @@ window.QUALIDADE_CANA_DATA = [
     "Responsável": "MARCELO DE OLIVEIRA JUNIOR",
     "Quantidade de Cana": "BOM",
     "Observações": null,
-    "Fazenda": null,
-    "Observações ": null,
-    "Unnamed: 19": null
+    "Fazenda": null
   },
   {
     "ID": "3539547",
@@ -36386,9 +33224,7 @@ window.QUALIDADE_CANA_DATA = [
     "Responsável": "VITOR AMORIM RAMOS ",
     "Quantidade de Cana": "BOM",
     "Observações": null,
-    "Fazenda": null,
-    "Observações ": null,
-    "Unnamed: 19": null
+    "Fazenda": null
   },
   {
     "ID": "3540760",
@@ -36409,9 +33245,7 @@ window.QUALIDADE_CANA_DATA = [
     "Responsável": "MARCELO DE OLIVEIRA JUNIOR",
     "Quantidade de Cana": "BOM",
     "Observações": null,
-    "Fazenda": null,
-    "Observações ": null,
-    "Unnamed: 19": null
+    "Fazenda": null
   },
   {
     "ID": "3540755",
@@ -36432,9 +33266,7 @@ window.QUALIDADE_CANA_DATA = [
     "Responsável": "MARCELO DE OLIVEIRA JUNIOR",
     "Quantidade de Cana": "BOM",
     "Observações": null,
-    "Fazenda": null,
-    "Observações ": null,
-    "Unnamed: 19": null
+    "Fazenda": null
   },
   {
     "ID": "3539541",
@@ -36455,9 +33287,7 @@ window.QUALIDADE_CANA_DATA = [
     "Responsável": "VITOR AMORIM RAMOS ",
     "Quantidade de Cana": "BOM",
     "Observações": null,
-    "Fazenda": null,
-    "Observações ": null,
-    "Unnamed: 19": null
+    "Fazenda": null
   },
   {
     "ID": "3539610",
@@ -36478,9 +33308,7 @@ window.QUALIDADE_CANA_DATA = [
     "Responsável": "VITOR AMORIM RAMOS ",
     "Quantidade de Cana": "BOM",
     "Observações": null,
-    "Fazenda": null,
-    "Observações ": null,
-    "Unnamed: 19": null
+    "Fazenda": null
   },
   {
     "ID": "3538768",
@@ -36501,9 +33329,7 @@ window.QUALIDADE_CANA_DATA = [
     "Responsável": "VITOR AMORIM RAMOS ",
     "Quantidade de Cana": "BOM",
     "Observações": null,
-    "Fazenda": null,
-    "Observações ": null,
-    "Unnamed: 19": null
+    "Fazenda": null
   },
   {
     "ID": "3538834",
@@ -36524,9 +33350,7 @@ window.QUALIDADE_CANA_DATA = [
     "Responsável": "MICHELI DE SOUZA SANTOS  ",
     "Quantidade de Cana": "BOM",
     "Observações": null,
-    "Fazenda": null,
-    "Observações ": null,
-    "Unnamed: 19": null
+    "Fazenda": null
   },
   {
     "ID": "3537986",
@@ -36547,9 +33371,7 @@ window.QUALIDADE_CANA_DATA = [
     "Responsável": "VITOR AMORIM RAMOS ",
     "Quantidade de Cana": "BOM",
     "Observações": null,
-    "Fazenda": null,
-    "Observações ": null,
-    "Unnamed: 19": null
+    "Fazenda": null
   },
   {
     "ID": "3537981",
@@ -36570,9 +33392,7 @@ window.QUALIDADE_CANA_DATA = [
     "Responsável": "VITOR AMORIM RAMOS ",
     "Quantidade de Cana": "BOM",
     "Observações": null,
-    "Fazenda": null,
-    "Observações ": null,
-    "Unnamed: 19": null
+    "Fazenda": null
   },
   {
     "ID": "3538825",
@@ -36593,9 +33413,7 @@ window.QUALIDADE_CANA_DATA = [
     "Responsável": "MICHELI DE SOUZA SANTOS  ",
     "Quantidade de Cana": "BOM",
     "Observações": null,
-    "Fazenda": null,
-    "Observações ": null,
-    "Unnamed: 19": null
+    "Fazenda": null
   },
   {
     "ID": "3537957",
@@ -36616,9 +33434,7 @@ window.QUALIDADE_CANA_DATA = [
     "Responsável": "VITOR AMORIM RAMOS ",
     "Quantidade de Cana": "BOM",
     "Observações": null,
-    "Fazenda": null,
-    "Observações ": null,
-    "Unnamed: 19": null
+    "Fazenda": null
   },
   {
     "ID": "3538821",
@@ -36639,9 +33455,7 @@ window.QUALIDADE_CANA_DATA = [
     "Responsável": "MICHELI DE SOUZA SANTOS  ",
     "Quantidade de Cana": "BOM",
     "Observações": null,
-    "Fazenda": null,
-    "Observações ": null,
-    "Unnamed: 19": null
+    "Fazenda": null
   },
   {
     "ID": "3538815",
@@ -36662,9 +33476,7 @@ window.QUALIDADE_CANA_DATA = [
     "Responsável": "MICHELI DE SOUZA SANTOS  ",
     "Quantidade de Cana": "BOM",
     "Observações": null,
-    "Fazenda": null,
-    "Observações ": null,
-    "Unnamed: 19": null
+    "Fazenda": null
   },
   {
     "ID": "3537923",
@@ -36685,9 +33497,7 @@ window.QUALIDADE_CANA_DATA = [
     "Responsável": "VITOR AMORIM RAMOS ",
     "Quantidade de Cana": "BOM",
     "Observações": null,
-    "Fazenda": null,
-    "Observações ": null,
-    "Unnamed: 19": null
+    "Fazenda": null
   },
   {
     "ID": "3537848",
@@ -36708,9 +33518,7 @@ window.QUALIDADE_CANA_DATA = [
     "Responsável": "FERNANDA DE SOUZA ",
     "Quantidade de Cana": "BOM",
     "Observações": null,
-    "Fazenda": null,
-    "Observações ": null,
-    "Unnamed: 19": null
+    "Fazenda": null
   },
   {
     "ID": "3537910",
@@ -36731,9 +33539,7 @@ window.QUALIDADE_CANA_DATA = [
     "Responsável": "VITOR AMORIM RAMOS ",
     "Quantidade de Cana": "BOM",
     "Observações": null,
-    "Fazenda": null,
-    "Observações ": null,
-    "Unnamed: 19": null
+    "Fazenda": null
   },
   {
     "ID": "3537902",
@@ -36754,9 +33560,7 @@ window.QUALIDADE_CANA_DATA = [
     "Responsável": "VITOR AMORIM RAMOS ",
     "Quantidade de Cana": "BOM",
     "Observações": null,
-    "Fazenda": null,
-    "Observações ": null,
-    "Unnamed: 19": null
+    "Fazenda": null
   },
   {
     "ID": "3537850",
@@ -36777,9 +33581,7 @@ window.QUALIDADE_CANA_DATA = [
     "Responsável": "FERNANDA DE SOUZA ",
     "Quantidade de Cana": "BOM",
     "Observações": null,
-    "Fazenda": null,
-    "Observações ": null,
-    "Unnamed: 19": null
+    "Fazenda": null
   },
   {
     "ID": "3538850",
@@ -36800,9 +33602,7 @@ window.QUALIDADE_CANA_DATA = [
     "Responsável": "MABILA HELEN D FIGUEIREDO",
     "Quantidade de Cana": "BOM",
     "Observações": null,
-    "Fazenda": null,
-    "Observações ": null,
-    "Unnamed: 19": null
+    "Fazenda": null
   },
   {
     "ID": "3537894",
@@ -36823,9 +33623,7 @@ window.QUALIDADE_CANA_DATA = [
     "Responsável": "VITOR AMORIM RAMOS ",
     "Quantidade de Cana": "BOM",
     "Observações": null,
-    "Fazenda": null,
-    "Observações ": null,
-    "Unnamed: 19": null
+    "Fazenda": null
   },
   {
     "ID": "3537590",
@@ -36846,9 +33644,7 @@ window.QUALIDADE_CANA_DATA = [
     "Responsável": "NILDA CLAUDINO [2510716]",
     "Quantidade de Cana": "BOM",
     "Observações": null,
-    "Fazenda": null,
-    "Observações ": null,
-    "Unnamed: 19": null
+    "Fazenda": null
   },
   {
     "ID": "3537589",
@@ -36869,9 +33665,7 @@ window.QUALIDADE_CANA_DATA = [
     "Responsável": "NILDA CLAUDINO [2510716]",
     "Quantidade de Cana": "BOM",
     "Observações": null,
-    "Fazenda": null,
-    "Observações ": null,
-    "Unnamed: 19": null
+    "Fazenda": null
   },
   {
     "ID": "3537588",
@@ -36892,9 +33686,7 @@ window.QUALIDADE_CANA_DATA = [
     "Responsável": "NILDA CLAUDINO [2510716]",
     "Quantidade de Cana": "BOM",
     "Observações": null,
-    "Fazenda": null,
-    "Observações ": null,
-    "Unnamed: 19": null
+    "Fazenda": null
   },
   {
     "ID": "3537886",
@@ -36915,9 +33707,7 @@ window.QUALIDADE_CANA_DATA = [
     "Responsável": "VITOR AMORIM RAMOS ",
     "Quantidade de Cana": "BOM",
     "Observações": null,
-    "Fazenda": null,
-    "Observações ": null,
-    "Unnamed: 19": null
+    "Fazenda": null
   },
   {
     "ID": "3537765",
@@ -36938,9 +33728,7 @@ window.QUALIDADE_CANA_DATA = [
     "Responsável": "MABILA HELEN D FIGUEIREDO",
     "Quantidade de Cana": "BOM",
     "Observações": null,
-    "Fazenda": null,
-    "Observações ": null,
-    "Unnamed: 19": null
+    "Fazenda": null
   },
   {
     "ID": "3537809",
@@ -36961,9 +33749,7 @@ window.QUALIDADE_CANA_DATA = [
     "Responsável": "FERNANDA DE SOUZA ",
     "Quantidade de Cana": "BOM",
     "Observações": null,
-    "Fazenda": null,
-    "Observações ": null,
-    "Unnamed: 19": null
+    "Fazenda": null
   },
   {
     "ID": "3537250",
@@ -36984,9 +33770,7 @@ window.QUALIDADE_CANA_DATA = [
     "Responsável": "MARCELO DE OLIVEIRA JUNIOR",
     "Quantidade de Cana": "BOM",
     "Observações": null,
-    "Fazenda": null,
-    "Observações ": null,
-    "Unnamed: 19": null
+    "Fazenda": null
   },
   {
     "ID": "3537264",
@@ -37007,9 +33791,7 @@ window.QUALIDADE_CANA_DATA = [
     "Responsável": "NILDA CLAUDINO [2510716]",
     "Quantidade de Cana": "BOM",
     "Observações": null,
-    "Fazenda": null,
-    "Observações ": null,
-    "Unnamed: 19": null
+    "Fazenda": null
   },
   {
     "ID": "3537265",
@@ -37030,9 +33812,7 @@ window.QUALIDADE_CANA_DATA = [
     "Responsável": "NILDA CLAUDINO [2510716]",
     "Quantidade de Cana": "BOM",
     "Observações": null,
-    "Fazenda": null,
-    "Observações ": null,
-    "Unnamed: 19": null
+    "Fazenda": null
   },
   {
     "ID": "3537266",
@@ -37053,9 +33833,7 @@ window.QUALIDADE_CANA_DATA = [
     "Responsável": "NILDA CLAUDINO [2510716]",
     "Quantidade de Cana": "BOM",
     "Observações": null,
-    "Fazenda": null,
-    "Observações ": null,
-    "Unnamed: 19": null
+    "Fazenda": null
   },
   {
     "ID": "3537245",
@@ -37076,9 +33854,7 @@ window.QUALIDADE_CANA_DATA = [
     "Responsável": "MARCELO DE OLIVEIRA JUNIOR",
     "Quantidade de Cana": "BOM",
     "Observações": null,
-    "Fazenda": null,
-    "Observações ": null,
-    "Unnamed: 19": null
+    "Fazenda": null
   },
   {
     "ID": "3537801",
@@ -37099,9 +33875,7 @@ window.QUALIDADE_CANA_DATA = [
     "Responsável": "FERNANDA DE SOUZA ",
     "Quantidade de Cana": "BOM",
     "Observações": null,
-    "Fazenda": null,
-    "Observações ": null,
-    "Unnamed: 19": null
+    "Fazenda": null
   },
   {
     "ID": "3537238",
@@ -37122,9 +33896,7 @@ window.QUALIDADE_CANA_DATA = [
     "Responsável": "MARCELO DE OLIVEIRA JUNIOR",
     "Quantidade de Cana": "BOM",
     "Observações": null,
-    "Fazenda": null,
-    "Observações ": null,
-    "Unnamed: 19": null
+    "Fazenda": null
   },
   {
     "ID": "3537234",
@@ -37145,9 +33917,7 @@ window.QUALIDADE_CANA_DATA = [
     "Responsável": "MARCELO DE OLIVEIRA JUNIOR",
     "Quantidade de Cana": "BOM",
     "Observações": null,
-    "Fazenda": null,
-    "Observações ": null,
-    "Unnamed: 19": null
+    "Fazenda": null
   },
   {
     "ID": "3537229",
@@ -37168,9 +33938,7 @@ window.QUALIDADE_CANA_DATA = [
     "Responsável": "MARCELO DE OLIVEIRA JUNIOR",
     "Quantidade de Cana": "BOM",
     "Observações": null,
-    "Fazenda": null,
-    "Observações ": null,
-    "Unnamed: 19": null
+    "Fazenda": null
   },
   {
     "ID": "3537224",
@@ -37191,9 +33959,7 @@ window.QUALIDADE_CANA_DATA = [
     "Responsável": "MARCELO DE OLIVEIRA JUNIOR",
     "Quantidade de Cana": "BOM",
     "Observações": null,
-    "Fazenda": null,
-    "Observações ": null,
-    "Unnamed: 19": null
+    "Fazenda": null
   },
   {
     "ID": "3536051",
@@ -37214,9 +33980,7 @@ window.QUALIDADE_CANA_DATA = [
     "Responsável": "MARCELO DE OLIVEIRA JUNIOR",
     "Quantidade de Cana": "BOM",
     "Observações": null,
-    "Fazenda": null,
-    "Observações ": null,
-    "Unnamed: 19": null
+    "Fazenda": null
   },
   {
     "ID": "3536046",
@@ -37237,9 +34001,7 @@ window.QUALIDADE_CANA_DATA = [
     "Responsável": "MARCELO DE OLIVEIRA JUNIOR",
     "Quantidade de Cana": "BOM",
     "Observações": null,
-    "Fazenda": null,
-    "Observações ": null,
-    "Unnamed: 19": null
+    "Fazenda": null
   },
   {
     "ID": "3536037",
@@ -37260,9 +34022,7 @@ window.QUALIDADE_CANA_DATA = [
     "Responsável": "MARCELO DE OLIVEIRA JUNIOR",
     "Quantidade de Cana": "BOM",
     "Observações": null,
-    "Fazenda": null,
-    "Observações ": null,
-    "Unnamed: 19": null
+    "Fazenda": null
   },
   {
     "ID": "3535656",
@@ -37283,9 +34043,7 @@ window.QUALIDADE_CANA_DATA = [
     "Responsável": "NILDA CLAUDINO [2510716]",
     "Quantidade de Cana": "BOM",
     "Observações": null,
-    "Fazenda": null,
-    "Observações ": null,
-    "Unnamed: 19": null
+    "Fazenda": null
   },
   {
     "ID": "3535655",
@@ -37306,9 +34064,7 @@ window.QUALIDADE_CANA_DATA = [
     "Responsável": "NILDA CLAUDINO [2510716]",
     "Quantidade de Cana": "BOM",
     "Observações": null,
-    "Fazenda": null,
-    "Observações ": null,
-    "Unnamed: 19": null
+    "Fazenda": null
   },
   {
     "ID": "3535672",
@@ -37329,9 +34085,7 @@ window.QUALIDADE_CANA_DATA = [
     "Responsável": "GABRIEL HENRIQUE MARTINS PEREIRA",
     "Quantidade de Cana": "BOM",
     "Observações": null,
-    "Fazenda": null,
-    "Observações ": null,
-    "Unnamed: 19": null
+    "Fazenda": null
   },
   {
     "ID": "3535654",
@@ -37352,9 +34106,7 @@ window.QUALIDADE_CANA_DATA = [
     "Responsável": "NILDA CLAUDINO [2510716]",
     "Quantidade de Cana": "BOM",
     "Observações": null,
-    "Fazenda": null,
-    "Observações ": null,
-    "Unnamed: 19": null
+    "Fazenda": null
   },
   {
     "ID": "3536032",
@@ -37375,9 +34127,7 @@ window.QUALIDADE_CANA_DATA = [
     "Responsável": "MARCELO DE OLIVEIRA JUNIOR",
     "Quantidade de Cana": "BOM",
     "Observações": null,
-    "Fazenda": null,
-    "Observações ": null,
-    "Unnamed: 19": null
+    "Fazenda": null
   },
   {
     "ID": "3535651",
@@ -37398,9 +34148,7 @@ window.QUALIDADE_CANA_DATA = [
     "Responsável": "GABRIEL HENRIQUE MARTINS PEREIRA",
     "Quantidade de Cana": "BOM",
     "Observações": null,
-    "Fazenda": null,
-    "Observações ": null,
-    "Unnamed: 19": null
+    "Fazenda": null
   },
   {
     "ID": "3536023",
@@ -37421,9 +34169,7 @@ window.QUALIDADE_CANA_DATA = [
     "Responsável": "MARCELO DE OLIVEIRA JUNIOR",
     "Quantidade de Cana": "BOM",
     "Observações": null,
-    "Fazenda": null,
-    "Observações ": null,
-    "Unnamed: 19": null
+    "Fazenda": null
   },
   {
     "ID": "3536017",
@@ -37444,9 +34190,7 @@ window.QUALIDADE_CANA_DATA = [
     "Responsável": "MARCELO DE OLIVEIRA JUNIOR",
     "Quantidade de Cana": "BOM",
     "Observações": null,
-    "Fazenda": null,
-    "Observações ": null,
-    "Unnamed: 19": null
+    "Fazenda": null
   },
   {
     "ID": "3535646",
@@ -37467,9 +34211,7 @@ window.QUALIDADE_CANA_DATA = [
     "Responsável": "GABRIEL HENRIQUE MARTINS PEREIRA",
     "Quantidade de Cana": "BOM",
     "Observações": null,
-    "Fazenda": null,
-    "Observações ": null,
-    "Unnamed: 19": null
+    "Fazenda": null
   },
   {
     "ID": "3537140",
@@ -37490,9 +34232,7 @@ window.QUALIDADE_CANA_DATA = [
     "Responsável": "VITOR AMORIM RAMOS ",
     "Quantidade de Cana": "BOM",
     "Observações": null,
-    "Fazenda": null,
-    "Observações ": null,
-    "Unnamed: 19": null
+    "Fazenda": null
   },
   {
     "ID": "3537136",
@@ -37513,9 +34253,7 @@ window.QUALIDADE_CANA_DATA = [
     "Responsável": "VITOR AMORIM RAMOS ",
     "Quantidade de Cana": "BOM",
     "Observações": null,
-    "Fazenda": null,
-    "Observações ": null,
-    "Unnamed: 19": null
+    "Fazenda": null
   },
   {
     "ID": "3537119",
@@ -37536,9 +34274,7 @@ window.QUALIDADE_CANA_DATA = [
     "Responsável": "VITOR AMORIM RAMOS ",
     "Quantidade de Cana": "BOM",
     "Observações": null,
-    "Fazenda": null,
-    "Observações ": null,
-    "Unnamed: 19": null
+    "Fazenda": null
   },
   {
     "ID": "3537118",
@@ -37559,9 +34295,7 @@ window.QUALIDADE_CANA_DATA = [
     "Responsável": "VITOR AMORIM RAMOS ",
     "Quantidade de Cana": "BOM",
     "Observações": null,
-    "Fazenda": null,
-    "Observações ": null,
-    "Unnamed: 19": null
+    "Fazenda": null
   },
   {
     "ID": "3537117",
@@ -37582,9 +34316,7 @@ window.QUALIDADE_CANA_DATA = [
     "Responsável": "VITOR AMORIM RAMOS ",
     "Quantidade de Cana": "BOM",
     "Observações": null,
-    "Fazenda": null,
-    "Observações ": null,
-    "Unnamed: 19": null
+    "Fazenda": null
   },
   {
     "ID": "3537093",
@@ -37605,9 +34337,7 @@ window.QUALIDADE_CANA_DATA = [
     "Responsável": "VITOR AMORIM RAMOS ",
     "Quantidade de Cana": "BOM",
     "Observações": null,
-    "Fazenda": null,
-    "Observações ": null,
-    "Unnamed: 19": null
+    "Fazenda": null
   },
   {
     "ID": "3537092",
@@ -37628,9 +34358,7 @@ window.QUALIDADE_CANA_DATA = [
     "Responsável": "VITOR AMORIM RAMOS ",
     "Quantidade de Cana": "BOM",
     "Observações": null,
-    "Fazenda": null,
-    "Observações ": null,
-    "Unnamed: 19": null
+    "Fazenda": null
   },
   {
     "ID": "3537389",
@@ -37651,9 +34379,7 @@ window.QUALIDADE_CANA_DATA = [
     "Responsável": "VITOR AMORIM RAMOS ",
     "Quantidade de Cana": "BOM",
     "Observações": null,
-    "Fazenda": null,
-    "Observações ": null,
-    "Unnamed: 19": null
+    "Fazenda": null
   },
   {
     "ID": "3535387",
@@ -37674,9 +34400,7 @@ window.QUALIDADE_CANA_DATA = [
     "Responsável": "VITOR AMORIM RAMOS ",
     "Quantidade de Cana": "BOM",
     "Observações": null,
-    "Fazenda": null,
-    "Observações ": null,
-    "Unnamed: 19": null
+    "Fazenda": null
   },
   {
     "ID": "3534251",
@@ -37697,9 +34421,7 @@ window.QUALIDADE_CANA_DATA = [
     "Responsável": "FERNANDA DE SOUZA ",
     "Quantidade de Cana": "BOM",
     "Observações": null,
-    "Fazenda": null,
-    "Observações ": null,
-    "Unnamed: 19": null
+    "Fazenda": null
   },
   {
     "ID": "3534451",
@@ -37720,9 +34442,7 @@ window.QUALIDADE_CANA_DATA = [
     "Responsável": "MARCELO DE OLIVEIRA JUNIOR",
     "Quantidade de Cana": "BOM",
     "Observações": null,
-    "Fazenda": null,
-    "Observações ": null,
-    "Unnamed: 19": null
+    "Fazenda": null
   },
   {
     "ID": "3534126",
@@ -37743,9 +34463,7 @@ window.QUALIDADE_CANA_DATA = [
     "Responsável": "FERNANDA DE SOUZA ",
     "Quantidade de Cana": "BOM",
     "Observações": null,
-    "Fazenda": null,
-    "Observações ": null,
-    "Unnamed: 19": null
+    "Fazenda": null
   },
   {
     "ID": "3534446",
@@ -37766,9 +34484,7 @@ window.QUALIDADE_CANA_DATA = [
     "Responsável": "MARCELO DE OLIVEIRA JUNIOR",
     "Quantidade de Cana": "BOM",
     "Observações": null,
-    "Fazenda": null,
-    "Observações ": null,
-    "Unnamed: 19": null
+    "Fazenda": null
   },
   {
     "ID": "3534271",
@@ -37789,9 +34505,7 @@ window.QUALIDADE_CANA_DATA = [
     "Responsável": "MARCELO DE OLIVEIRA JUNIOR",
     "Quantidade de Cana": "BOM",
     "Observações": null,
-    "Fazenda": null,
-    "Observações ": null,
-    "Unnamed: 19": null
+    "Fazenda": null
   },
   {
     "ID": "3534120",
@@ -37812,9 +34526,7 @@ window.QUALIDADE_CANA_DATA = [
     "Responsável": "FERNANDA DE SOUZA ",
     "Quantidade de Cana": "BOM",
     "Observações": null,
-    "Fazenda": null,
-    "Observações ": null,
-    "Unnamed: 19": null
+    "Fazenda": null
   },
   {
     "ID": "3534246",
@@ -37835,9 +34547,7 @@ window.QUALIDADE_CANA_DATA = [
     "Responsável": "VITOR AMORIM RAMOS ",
     "Quantidade de Cana": "BOM",
     "Observações": null,
-    "Fazenda": null,
-    "Observações ": null,
-    "Unnamed: 19": null
+    "Fazenda": null
   },
   {
     "ID": "3534241",
@@ -37858,9 +34568,7 @@ window.QUALIDADE_CANA_DATA = [
     "Responsável": "VITOR AMORIM RAMOS ",
     "Quantidade de Cana": "BOM",
     "Observações": null,
-    "Fazenda": null,
-    "Observações ": null,
-    "Unnamed: 19": null
+    "Fazenda": null
   },
   {
     "ID": "3534236",
@@ -37881,9 +34589,7 @@ window.QUALIDADE_CANA_DATA = [
     "Responsável": "VITOR AMORIM RAMOS ",
     "Quantidade de Cana": "BOM",
     "Observações": null,
-    "Fazenda": null,
-    "Observações ": null,
-    "Unnamed: 19": null
+    "Fazenda": null
   },
   {
     "ID": "3534199",
@@ -37904,9 +34610,7 @@ window.QUALIDADE_CANA_DATA = [
     "Responsável": "NILDA CLAUDINO [2510716]",
     "Quantidade de Cana": "BOM",
     "Observações": null,
-    "Fazenda": null,
-    "Observações ": null,
-    "Unnamed: 19": null
+    "Fazenda": null
   },
   {
     "ID": "3534198",
@@ -37927,9 +34631,7 @@ window.QUALIDADE_CANA_DATA = [
     "Responsável": "NILDA CLAUDINO [2510716]",
     "Quantidade de Cana": "BOM",
     "Observações": null,
-    "Fazenda": null,
-    "Observações ": null,
-    "Unnamed: 19": null
+    "Fazenda": null
   },
   {
     "ID": "3534197",
@@ -37950,9 +34652,7 @@ window.QUALIDADE_CANA_DATA = [
     "Responsável": "NILDA CLAUDINO [2510716]",
     "Quantidade de Cana": "BOM",
     "Observações": null,
-    "Fazenda": null,
-    "Observações ": null,
-    "Unnamed: 19": null
+    "Fazenda": null
   },
   {
     "ID": "3533743",
@@ -37973,9 +34673,7 @@ window.QUALIDADE_CANA_DATA = [
     "Responsável": "MICHELI DE SOUZA SANTOS  ",
     "Quantidade de Cana": "BOM",
     "Observações": null,
-    "Fazenda": null,
-    "Observações ": null,
-    "Unnamed: 19": null
+    "Fazenda": null
   },
   {
     "ID": "3533738",
@@ -37996,9 +34694,7 @@ window.QUALIDADE_CANA_DATA = [
     "Responsável": "MICHELI DE SOUZA SANTOS  ",
     "Quantidade de Cana": "BOM",
     "Observações": null,
-    "Fazenda": null,
-    "Observações ": null,
-    "Unnamed: 19": null
+    "Fazenda": null
   },
   {
     "ID": "3533768",
@@ -38019,9 +34715,7 @@ window.QUALIDADE_CANA_DATA = [
     "Responsável": "GABRIEL HENRIQUE MARTINS PEREIRA",
     "Quantidade de Cana": "BOM",
     "Observações": null,
-    "Fazenda": null,
-    "Observações ": null,
-    "Unnamed: 19": null
+    "Fazenda": null
   },
   {
     "ID": "3533766",
@@ -38042,9 +34736,7 @@ window.QUALIDADE_CANA_DATA = [
     "Responsável": "GABRIEL HENRIQUE MARTINS PEREIRA",
     "Quantidade de Cana": "BOM",
     "Observações": null,
-    "Fazenda": null,
-    "Observações ": null,
-    "Unnamed: 19": null
+    "Fazenda": null
   },
   {
     "ID": "3533763",
@@ -38065,9 +34757,7 @@ window.QUALIDADE_CANA_DATA = [
     "Responsável": "GABRIEL HENRIQUE MARTINS PEREIRA",
     "Quantidade de Cana": "BOM",
     "Observações": null,
-    "Fazenda": null,
-    "Observações ": null,
-    "Unnamed: 19": null
+    "Fazenda": null
   },
   {
     "ID": "3533798",
@@ -38088,9 +34778,7 @@ window.QUALIDADE_CANA_DATA = [
     "Responsável": "FERNANDA DE SOUZA ",
     "Quantidade de Cana": "BOM",
     "Observações": null,
-    "Fazenda": null,
-    "Observações ": null,
-    "Unnamed: 19": null
+    "Fazenda": null
   },
   {
     "ID": "3534353",
@@ -38111,9 +34799,7 @@ window.QUALIDADE_CANA_DATA = [
     "Responsável": "REGINALDO DA SILVA GOMES ",
     "Quantidade de Cana": "BOM",
     "Observações": null,
-    "Fazenda": null,
-    "Observações ": null,
-    "Unnamed: 19": null
+    "Fazenda": null
   },
   {
     "ID": "3533733",
@@ -38134,9 +34820,7 @@ window.QUALIDADE_CANA_DATA = [
     "Responsável": "MICHELI DE SOUZA SANTOS  ",
     "Quantidade de Cana": "BOM",
     "Observações": null,
-    "Fazenda": null,
-    "Observações ": null,
-    "Unnamed: 19": null
+    "Fazenda": null
   },
   {
     "ID": "3533728",
@@ -38157,9 +34841,7 @@ window.QUALIDADE_CANA_DATA = [
     "Responsável": "MICHELI DE SOUZA SANTOS  ",
     "Quantidade de Cana": "BOM",
     "Observações": null,
-    "Fazenda": null,
-    "Observações ": null,
-    "Unnamed: 19": null
+    "Fazenda": null
   },
   {
     "ID": "3534091",
@@ -38180,9 +34862,7 @@ window.QUALIDADE_CANA_DATA = [
     "Responsável": "REGINALDO DA SILVA GOMES ",
     "Quantidade de Cana": "BOM",
     "Observações": null,
-    "Fazenda": null,
-    "Observações ": null,
-    "Unnamed: 19": null
+    "Fazenda": null
   },
   {
     "ID": "3534184",
@@ -38203,9 +34883,7 @@ window.QUALIDADE_CANA_DATA = [
     "Responsável": "NILDA CLAUDINO [2510716]",
     "Quantidade de Cana": "BOM",
     "Observações": null,
-    "Fazenda": null,
-    "Observações ": null,
-    "Unnamed: 19": null
+    "Fazenda": null
   },
   {
     "ID": "3534183",
@@ -38226,9 +34904,7 @@ window.QUALIDADE_CANA_DATA = [
     "Responsável": "NILDA CLAUDINO [2510716]",
     "Quantidade de Cana": "BOM",
     "Observações": null,
-    "Fazenda": null,
-    "Observações ": null,
-    "Unnamed: 19": null
+    "Fazenda": null
   },
   {
     "ID": "3534182",
@@ -38249,9 +34925,7 @@ window.QUALIDADE_CANA_DATA = [
     "Responsável": "NILDA CLAUDINO [2510716]",
     "Quantidade de Cana": "BOM",
     "Observações": null,
-    "Fazenda": null,
-    "Observações ": null,
-    "Unnamed: 19": null
+    "Fazenda": null
   },
   {
     "ID": "3533723",
@@ -38272,9 +34946,7 @@ window.QUALIDADE_CANA_DATA = [
     "Responsável": "MICHELI DE SOUZA SANTOS  ",
     "Quantidade de Cana": "BOM",
     "Observações": null,
-    "Fazenda": null,
-    "Observações ": null,
-    "Unnamed: 19": null
+    "Fazenda": null
   },
   {
     "ID": "3533792",
@@ -38295,9 +34967,7 @@ window.QUALIDADE_CANA_DATA = [
     "Responsável": "FERNANDA DE SOUZA ",
     "Quantidade de Cana": "BOM",
     "Observações": null,
-    "Fazenda": null,
-    "Observações ": null,
-    "Unnamed: 19": null
+    "Fazenda": null
   },
   {
     "ID": "3533859",
@@ -38318,9 +34988,7 @@ window.QUALIDADE_CANA_DATA = [
     "Responsável": "VITOR AMORIM RAMOS ",
     "Quantidade de Cana": "BOM",
     "Observações": null,
-    "Fazenda": null,
-    "Observações ": null,
-    "Unnamed: 19": null
+    "Fazenda": null
   },
   {
     "ID": "3534089",
@@ -38341,9 +35009,7 @@ window.QUALIDADE_CANA_DATA = [
     "Responsável": "REGINALDO DA SILVA GOMES ",
     "Quantidade de Cana": "BOM",
     "Observações": null,
-    "Fazenda": null,
-    "Observações ": null,
-    "Unnamed: 19": null
+    "Fazenda": null
   },
   {
     "ID": "3533853",
@@ -38364,9 +35030,7 @@ window.QUALIDADE_CANA_DATA = [
     "Responsável": "VITOR AMORIM RAMOS ",
     "Quantidade de Cana": "BOM",
     "Observações": null,
-    "Fazenda": null,
-    "Observações ": null,
-    "Unnamed: 19": null
+    "Fazenda": null
   },
   {
     "ID": "3533785",
@@ -38387,9 +35051,7 @@ window.QUALIDADE_CANA_DATA = [
     "Responsável": "FERNANDA DE SOUZA ",
     "Quantidade de Cana": "BOM",
     "Observações": null,
-    "Fazenda": null,
-    "Observações ": null,
-    "Unnamed: 19": null
+    "Fazenda": null
   },
   {
     "ID": "3533841",
@@ -38410,9 +35072,7 @@ window.QUALIDADE_CANA_DATA = [
     "Responsável": "VITOR AMORIM RAMOS ",
     "Quantidade de Cana": "BOM",
     "Observações": null,
-    "Fazenda": null,
-    "Observações ": null,
-    "Unnamed: 19": null
+    "Fazenda": null
   },
   {
     "ID": "3533836",
@@ -38433,9 +35093,7 @@ window.QUALIDADE_CANA_DATA = [
     "Responsável": "VITOR AMORIM RAMOS ",
     "Quantidade de Cana": "BOM",
     "Observações": null,
-    "Fazenda": null,
-    "Observações ": null,
-    "Unnamed: 19": null
+    "Fazenda": null
   },
   {
     "ID": "3533993",
@@ -38456,9 +35114,7 @@ window.QUALIDADE_CANA_DATA = [
     "Responsável": "MARCELO DE OLIVEIRA JUNIOR",
     "Quantidade de Cana": "BOM",
     "Observações": null,
-    "Fazenda": null,
-    "Observações ": null,
-    "Unnamed: 19": null
+    "Fazenda": null
   },
   {
     "ID": "3533827",
@@ -38479,9 +35135,7 @@ window.QUALIDADE_CANA_DATA = [
     "Responsável": "VITOR AMORIM RAMOS ",
     "Quantidade de Cana": "BOM",
     "Observações": null,
-    "Fazenda": null,
-    "Observações ": null,
-    "Unnamed: 19": null
+    "Fazenda": null
   },
   {
     "ID": "3533821",
@@ -38502,9 +35156,7 @@ window.QUALIDADE_CANA_DATA = [
     "Responsável": "VITOR AMORIM RAMOS ",
     "Quantidade de Cana": "BOM",
     "Observações": null,
-    "Fazenda": null,
-    "Observações ": null,
-    "Unnamed: 19": null
+    "Fazenda": null
   },
   {
     "ID": "3533988",
@@ -38525,9 +35177,7 @@ window.QUALIDADE_CANA_DATA = [
     "Responsável": "MARCELO DE OLIVEIRA JUNIOR",
     "Quantidade de Cana": "BOM",
     "Observações": null,
-    "Fazenda": null,
-    "Observações ": null,
-    "Unnamed: 19": null
+    "Fazenda": null
   },
   {
     "ID": "3533833",
@@ -38548,9 +35198,7 @@ window.QUALIDADE_CANA_DATA = [
     "Responsável": "VITOR AMORIM RAMOS ",
     "Quantidade de Cana": "BOM",
     "Observações": null,
-    "Fazenda": null,
-    "Observações ": null,
-    "Unnamed: 19": null
+    "Fazenda": null
   },
   {
     "ID": "3533804",
@@ -38571,9 +35219,7 @@ window.QUALIDADE_CANA_DATA = [
     "Responsável": "VITOR AMORIM RAMOS ",
     "Quantidade de Cana": "BOM",
     "Observações": null,
-    "Fazenda": null,
-    "Observações ": null,
-    "Unnamed: 19": null
+    "Fazenda": null
   },
   {
     "ID": "3533983",
@@ -38594,9 +35240,7 @@ window.QUALIDADE_CANA_DATA = [
     "Responsável": "MARCELO DE OLIVEIRA JUNIOR",
     "Quantidade de Cana": "BOM",
     "Observações": null,
-    "Fazenda": null,
-    "Observações ": null,
-    "Unnamed: 19": null
+    "Fazenda": null
   },
   {
     "ID": "3533784",
@@ -38617,9 +35261,7 @@ window.QUALIDADE_CANA_DATA = [
     "Responsável": "VITOR AMORIM RAMOS ",
     "Quantidade de Cana": "BOM",
     "Observações": null,
-    "Fazenda": null,
-    "Observações ": null,
-    "Unnamed: 19": null
+    "Fazenda": null
   },
   {
     "ID": "3533773",
@@ -38640,9 +35282,7 @@ window.QUALIDADE_CANA_DATA = [
     "Responsável": "VITOR AMORIM RAMOS ",
     "Quantidade de Cana": "BOM",
     "Observações": null,
-    "Fazenda": null,
-    "Observações ": null,
-    "Unnamed: 19": null
+    "Fazenda": null
   },
   {
     "ID": "3533978",
@@ -38663,9 +35303,7 @@ window.QUALIDADE_CANA_DATA = [
     "Responsável": "MARCELO DE OLIVEIRA JUNIOR",
     "Quantidade de Cana": "BOM",
     "Observações": null,
-    "Fazenda": null,
-    "Observações ": null,
-    "Unnamed: 19": null
+    "Fazenda": null
   },
   {
     "ID": "3531888",
@@ -38686,9 +35324,7 @@ window.QUALIDADE_CANA_DATA = [
     "Responsável": "VITOR AMORIM RAMOS ",
     "Quantidade de Cana": "BOM",
     "Observações": null,
-    "Fazenda": null,
-    "Observações ": null,
-    "Unnamed: 19": null
+    "Fazenda": null
   },
   {
     "ID": "3531883",
@@ -38709,9 +35345,7 @@ window.QUALIDADE_CANA_DATA = [
     "Responsável": "VITOR AMORIM RAMOS ",
     "Quantidade de Cana": "BOM",
     "Observações": null,
-    "Fazenda": null,
-    "Observações ": null,
-    "Unnamed: 19": null
+    "Fazenda": null
   },
   {
     "ID": "3531878",
@@ -38732,9 +35366,7 @@ window.QUALIDADE_CANA_DATA = [
     "Responsável": "VITOR AMORIM RAMOS ",
     "Quantidade de Cana": "BOM",
     "Observações": null,
-    "Fazenda": null,
-    "Observações ": null,
-    "Unnamed: 19": null
+    "Fazenda": null
   },
   {
     "ID": "3531897",
@@ -38755,9 +35387,7 @@ window.QUALIDADE_CANA_DATA = [
     "Responsável": "FERNANDA DE SOUZA ",
     "Quantidade de Cana": "BOM",
     "Observações": null,
-    "Fazenda": null,
-    "Observações ": null,
-    "Unnamed: 19": null
+    "Fazenda": null
   },
   {
     "ID": "3531850",
@@ -38778,9 +35408,7 @@ window.QUALIDADE_CANA_DATA = [
     "Responsável": "VITOR AMORIM RAMOS ",
     "Quantidade de Cana": "BOM",
     "Observações": null,
-    "Fazenda": null,
-    "Observações ": null,
-    "Unnamed: 19": null
+    "Fazenda": null
   },
   {
     "ID": "3531780",
@@ -38801,9 +35429,7 @@ window.QUALIDADE_CANA_DATA = [
     "Responsável": "MICHELI DE SOUZA SANTOS  ",
     "Quantidade de Cana": "BOM",
     "Observações": null,
-    "Fazenda": null,
-    "Observações ": null,
-    "Unnamed: 19": null
+    "Fazenda": null
   },
   {
     "ID": "3531690",
@@ -38824,9 +35450,7 @@ window.QUALIDADE_CANA_DATA = [
     "Responsável": "NILDA CLAUDINO [2510716]",
     "Quantidade de Cana": "BOM",
     "Observações": null,
-    "Fazenda": null,
-    "Observações ": null,
-    "Unnamed: 19": null
+    "Fazenda": null
   },
   {
     "ID": "3531689",
@@ -38847,9 +35471,7 @@ window.QUALIDADE_CANA_DATA = [
     "Responsável": "NILDA CLAUDINO [2510716]",
     "Quantidade de Cana": "BOM",
     "Observações": null,
-    "Fazenda": null,
-    "Observações ": null,
-    "Unnamed: 19": null
+    "Fazenda": null
   },
   {
     "ID": "3531688",
@@ -38870,9 +35492,7 @@ window.QUALIDADE_CANA_DATA = [
     "Responsável": "NILDA CLAUDINO [2510716]",
     "Quantidade de Cana": "BOM",
     "Observações": null,
-    "Fazenda": null,
-    "Observações ": null,
-    "Unnamed: 19": null
+    "Fazenda": null
   },
   {
     "ID": "3531772",
@@ -38893,9 +35513,7 @@ window.QUALIDADE_CANA_DATA = [
     "Responsável": "MICHELI DE SOUZA SANTOS  ",
     "Quantidade de Cana": "BOM",
     "Observações": null,
-    "Fazenda": null,
-    "Observações ": null,
-    "Unnamed: 19": null
+    "Fazenda": null
   },
   {
     "ID": "3531501",
@@ -38916,9 +35534,7 @@ window.QUALIDADE_CANA_DATA = [
     "Responsável": "REGINALDO DA SILVA GOMES ",
     "Quantidade de Cana": "BOM",
     "Observações": null,
-    "Fazenda": null,
-    "Observações ": null,
-    "Unnamed: 19": null
+    "Fazenda": null
   },
   {
     "ID": "3531497",
@@ -38939,9 +35555,7 @@ window.QUALIDADE_CANA_DATA = [
     "Responsável": "REGINALDO DA SILVA GOMES ",
     "Quantidade de Cana": "BOM",
     "Observações": null,
-    "Fazenda": null,
-    "Observações ": null,
-    "Unnamed: 19": null
+    "Fazenda": null
   },
   {
     "ID": "3531866",
@@ -38962,9 +35576,7 @@ window.QUALIDADE_CANA_DATA = [
     "Responsável": "MICHELI DE SOUZA SANTOS  ",
     "Quantidade de Cana": "BOM",
     "Observações": null,
-    "Fazenda": null,
-    "Observações ": null,
-    "Unnamed: 19": null
+    "Fazenda": null
   },
   {
     "ID": "3531861",
@@ -38985,9 +35597,7 @@ window.QUALIDADE_CANA_DATA = [
     "Responsável": "MICHELI DE SOUZA SANTOS  ",
     "Quantidade de Cana": "BOM",
     "Observações": null,
-    "Fazenda": null,
-    "Observações ": null,
-    "Unnamed: 19": null
+    "Fazenda": null
   },
   {
     "ID": "3531714",
@@ -39008,9 +35618,7 @@ window.QUALIDADE_CANA_DATA = [
     "Responsável": "VITOR AMORIM RAMOS ",
     "Quantidade de Cana": "BOM",
     "Observações": null,
-    "Fazenda": null,
-    "Observações ": null,
-    "Unnamed: 19": null
+    "Fazenda": null
   },
   {
     "ID": "3531441",
@@ -39031,9 +35639,7 @@ window.QUALIDADE_CANA_DATA = [
     "Responsável": "FERNANDA DE SOUZA ",
     "Quantidade de Cana": "BOM",
     "Observações": null,
-    "Fazenda": null,
-    "Observações ": null,
-    "Unnamed: 19": null
+    "Fazenda": null
   },
   {
     "ID": "3531710",
@@ -39054,9 +35660,7 @@ window.QUALIDADE_CANA_DATA = [
     "Responsável": "VITOR AMORIM RAMOS ",
     "Quantidade de Cana": "BOM",
     "Observações": null,
-    "Fazenda": null,
-    "Observações ": null,
-    "Unnamed: 19": null
+    "Fazenda": null
   },
   {
     "ID": "3531699",
@@ -39077,9 +35681,7 @@ window.QUALIDADE_CANA_DATA = [
     "Responsável": "VITOR AMORIM RAMOS ",
     "Quantidade de Cana": "BOM",
     "Observações": null,
-    "Fazenda": null,
-    "Observações ": null,
-    "Unnamed: 19": null
+    "Fazenda": null
   },
   {
     "ID": "3531704",
@@ -39100,9 +35702,7 @@ window.QUALIDADE_CANA_DATA = [
     "Responsável": "VITOR AMORIM RAMOS ",
     "Quantidade de Cana": "BOM",
     "Observações": null,
-    "Fazenda": null,
-    "Observações ": null,
-    "Unnamed: 19": null
+    "Fazenda": null
   },
   {
     "ID": "3531491",
@@ -39123,9 +35723,7 @@ window.QUALIDADE_CANA_DATA = [
     "Responsável": "REGINALDO DA SILVA GOMES ",
     "Quantidade de Cana": "BOM",
     "Observações": null,
-    "Fazenda": null,
-    "Observações ": null,
-    "Unnamed: 19": null
+    "Fazenda": null
   },
   {
     "ID": "3531423",
@@ -39146,9 +35744,7 @@ window.QUALIDADE_CANA_DATA = [
     "Responsável": "FERNANDA DE SOUZA ",
     "Quantidade de Cana": "BOM",
     "Observações": null,
-    "Fazenda": null,
-    "Observações ": null,
-    "Unnamed: 19": null
+    "Fazenda": null
   },
   {
     "ID": "3531436",
@@ -39169,9 +35765,7 @@ window.QUALIDADE_CANA_DATA = [
     "Responsável": "REGINALDO DA SILVA GOMES ",
     "Quantidade de Cana": "BOM",
     "Observações": null,
-    "Fazenda": null,
-    "Observações ": null,
-    "Unnamed: 19": null
+    "Fazenda": null
   },
   {
     "ID": "3531471",
@@ -39192,9 +35786,7 @@ window.QUALIDADE_CANA_DATA = [
     "Responsável": "FERNANDA DE SOUZA ",
     "Quantidade de Cana": "BOM",
     "Observações": null,
-    "Fazenda": null,
-    "Observações ": null,
-    "Unnamed: 19": null
+    "Fazenda": null
   },
   {
     "ID": "3531927",
@@ -39215,9 +35807,7 @@ window.QUALIDADE_CANA_DATA = [
     "Responsável": "GABRIEL HENRIQUE MARTINS PEREIRA",
     "Quantidade de Cana": "BOM",
     "Observações": null,
-    "Fazenda": null,
-    "Observações ": null,
-    "Unnamed: 19": null
+    "Fazenda": null
   },
   {
     "ID": "3531923",
@@ -39238,9 +35828,7 @@ window.QUALIDADE_CANA_DATA = [
     "Responsável": "GABRIEL HENRIQUE MARTINS PEREIRA",
     "Quantidade de Cana": "BOM",
     "Observações": null,
-    "Fazenda": null,
-    "Observações ": null,
-    "Unnamed: 19": null
+    "Fazenda": null
   },
   {
     "ID": "3531425",
@@ -39261,9 +35849,7 @@ window.QUALIDADE_CANA_DATA = [
     "Responsável": "MARCELO DE OLIVEIRA JUNIOR",
     "Quantidade de Cana": "BOM",
     "Observações": null,
-    "Fazenda": null,
-    "Observações ": null,
-    "Unnamed: 19": null
+    "Fazenda": null
   },
   {
     "ID": "3531665",
@@ -39284,9 +35870,7 @@ window.QUALIDADE_CANA_DATA = [
     "Responsável": "VITOR AMORIM RAMOS ",
     "Quantidade de Cana": "BOM",
     "Observações": null,
-    "Fazenda": null,
-    "Observações ": null,
-    "Unnamed: 19": null
+    "Fazenda": null
   },
   {
     "ID": "3531417",
@@ -39307,9 +35891,7 @@ window.QUALIDADE_CANA_DATA = [
     "Responsável": "MARCELO DE OLIVEIRA JUNIOR",
     "Quantidade de Cana": "BOM",
     "Observações": null,
-    "Fazenda": null,
-    "Observações ": null,
-    "Unnamed: 19": null
+    "Fazenda": null
   },
   {
     "ID": "3531231",
@@ -39330,9 +35912,7 @@ window.QUALIDADE_CANA_DATA = [
     "Responsável": "NILDA CLAUDINO [2510716]",
     "Quantidade de Cana": "BOM",
     "Observações": null,
-    "Fazenda": null,
-    "Observações ": null,
-    "Unnamed: 19": null
+    "Fazenda": null
   },
   {
     "ID": "3531230",
@@ -39353,9 +35933,7 @@ window.QUALIDADE_CANA_DATA = [
     "Responsável": "NILDA CLAUDINO [2510716]",
     "Quantidade de Cana": "BOM",
     "Observações": null,
-    "Fazenda": null,
-    "Observações ": null,
-    "Unnamed: 19": null
+    "Fazenda": null
   },
   {
     "ID": "3531229",
@@ -39376,9 +35954,7 @@ window.QUALIDADE_CANA_DATA = [
     "Responsável": "NILDA CLAUDINO [2510716]",
     "Quantidade de Cana": "BOM",
     "Observações": null,
-    "Fazenda": null,
-    "Observações ": null,
-    "Unnamed: 19": null
+    "Fazenda": null
   },
   {
     "ID": "3531638",
@@ -39399,9 +35975,7 @@ window.QUALIDADE_CANA_DATA = [
     "Responsável": "VITOR AMORIM RAMOS ",
     "Quantidade de Cana": "BOM",
     "Observações": null,
-    "Fazenda": null,
-    "Observações ": null,
-    "Unnamed: 19": null
+    "Fazenda": null
   },
   {
     "ID": "3531412",
@@ -39422,9 +35996,7 @@ window.QUALIDADE_CANA_DATA = [
     "Responsável": "MARCELO DE OLIVEIRA JUNIOR",
     "Quantidade de Cana": "BOM",
     "Observações": null,
-    "Fazenda": null,
-    "Observações ": null,
-    "Unnamed: 19": null
+    "Fazenda": null
   },
   {
     "ID": "3531632",
@@ -39445,9 +36017,7 @@ window.QUALIDADE_CANA_DATA = [
     "Responsável": "VITOR AMORIM RAMOS ",
     "Quantidade de Cana": "BOM",
     "Observações": null,
-    "Fazenda": null,
-    "Observações ": null,
-    "Unnamed: 19": null
+    "Fazenda": null
   },
   {
     "ID": "3531556",
@@ -39468,9 +36038,7 @@ window.QUALIDADE_CANA_DATA = [
     "Responsável": "VITOR AMORIM RAMOS ",
     "Quantidade de Cana": "BOM",
     "Observações": null,
-    "Fazenda": null,
-    "Observações ": null,
-    "Unnamed: 19": null
+    "Fazenda": null
   },
   {
     "ID": "3529636",
@@ -39491,9 +36059,7 @@ window.QUALIDADE_CANA_DATA = [
     "Responsável": "MICHELI DE SOUZA SANTOS  ",
     "Quantidade de Cana": "BOM",
     "Observações": null,
-    "Fazenda": null,
-    "Observações ": null,
-    "Unnamed: 19": null
+    "Fazenda": null
   },
   {
     "ID": "3529635",
@@ -39514,9 +36080,7 @@ window.QUALIDADE_CANA_DATA = [
     "Responsável": "MICHELI DE SOUZA SANTOS  ",
     "Quantidade de Cana": "BOM",
     "Observações": null,
-    "Fazenda": null,
-    "Observações ": null,
-    "Unnamed: 19": null
+    "Fazenda": null
   },
   {
     "ID": "3530154",
@@ -39537,9 +36101,7 @@ window.QUALIDADE_CANA_DATA = [
     "Responsável": "MARCELO DE OLIVEIRA JUNIOR",
     "Quantidade de Cana": "BOM",
     "Observações": null,
-    "Fazenda": null,
-    "Observações ": null,
-    "Unnamed: 19": null
+    "Fazenda": null
   },
   {
     "ID": "3530149",
@@ -39560,9 +36122,7 @@ window.QUALIDADE_CANA_DATA = [
     "Responsável": "MARCELO DE OLIVEIRA JUNIOR",
     "Quantidade de Cana": "BOM",
     "Observações": null,
-    "Fazenda": null,
-    "Observações ": null,
-    "Unnamed: 19": null
+    "Fazenda": null
   },
   {
     "ID": "3529914",
@@ -39583,9 +36143,7 @@ window.QUALIDADE_CANA_DATA = [
     "Responsável": "VITOR AMORIM RAMOS ",
     "Quantidade de Cana": "BOM",
     "Observações": null,
-    "Fazenda": null,
-    "Observações ": null,
-    "Unnamed: 19": null
+    "Fazenda": null
   },
   {
     "ID": "3529908",
@@ -39606,9 +36164,7 @@ window.QUALIDADE_CANA_DATA = [
     "Responsável": "VITOR AMORIM RAMOS ",
     "Quantidade de Cana": "BOM",
     "Observações": null,
-    "Fazenda": null,
-    "Observações ": null,
-    "Unnamed: 19": null
+    "Fazenda": null
   },
   {
     "ID": "3529905",
@@ -39629,9 +36185,7 @@ window.QUALIDADE_CANA_DATA = [
     "Responsável": "VITOR AMORIM RAMOS ",
     "Quantidade de Cana": "BOM",
     "Observações": null,
-    "Fazenda": null,
-    "Observações ": null,
-    "Unnamed: 19": null
+    "Fazenda": null
   },
   {
     "ID": "3529686",
@@ -39652,9 +36206,7 @@ window.QUALIDADE_CANA_DATA = [
     "Responsável": "FERNANDA DE SOUZA ",
     "Quantidade de Cana": "BOM",
     "Observações": null,
-    "Fazenda": null,
-    "Observações ": null,
-    "Unnamed: 19": null
+    "Fazenda": null
   },
   {
     "ID": "3529685",
@@ -39675,9 +36227,7 @@ window.QUALIDADE_CANA_DATA = [
     "Responsável": "FERNANDA DE SOUZA ",
     "Quantidade de Cana": "BOM",
     "Observações": null,
-    "Fazenda": null,
-    "Observações ": null,
-    "Unnamed: 19": null
+    "Fazenda": null
   },
   {
     "ID": "3529897",
@@ -39698,9 +36248,7 @@ window.QUALIDADE_CANA_DATA = [
     "Responsável": "VITOR AMORIM RAMOS ",
     "Quantidade de Cana": "BOM",
     "Observações": null,
-    "Fazenda": null,
-    "Observações ": null,
-    "Unnamed: 19": null
+    "Fazenda": null
   },
   {
     "ID": "3529529",
@@ -39721,9 +36269,7 @@ window.QUALIDADE_CANA_DATA = [
     "Responsável": "NILDA CLAUDINO [2510716]",
     "Quantidade de Cana": "BOM",
     "Observações": null,
-    "Fazenda": null,
-    "Observações ": null,
-    "Unnamed: 19": null
+    "Fazenda": null
   },
   {
     "ID": "3529528",
@@ -39744,9 +36290,7 @@ window.QUALIDADE_CANA_DATA = [
     "Responsável": "NILDA CLAUDINO [2510716]",
     "Quantidade de Cana": "BOM",
     "Observações": null,
-    "Fazenda": null,
-    "Observações ": null,
-    "Unnamed: 19": null
+    "Fazenda": null
   },
   {
     "ID": "3529527",
@@ -39767,9 +36311,7 @@ window.QUALIDADE_CANA_DATA = [
     "Responsável": "NILDA CLAUDINO [2510716]",
     "Quantidade de Cana": "BOM",
     "Observações": null,
-    "Fazenda": null,
-    "Observações ": null,
-    "Unnamed: 19": null
+    "Fazenda": null
   },
   {
     "ID": "3529892",
@@ -39790,9 +36332,7 @@ window.QUALIDADE_CANA_DATA = [
     "Responsável": "VITOR AMORIM RAMOS ",
     "Quantidade de Cana": "BOM",
     "Observações": null,
-    "Fazenda": null,
-    "Observações ": null,
-    "Unnamed: 19": null
+    "Fazenda": null
   },
   {
     "ID": "3529622",
@@ -39813,9 +36353,7 @@ window.QUALIDADE_CANA_DATA = [
     "Responsável": "MICHELI DE SOUZA SANTOS  ",
     "Quantidade de Cana": "BOM",
     "Observações": null,
-    "Fazenda": null,
-    "Observações ": null,
-    "Unnamed: 19": null
+    "Fazenda": null
   },
   {
     "ID": "3529617",
@@ -39836,9 +36374,7 @@ window.QUALIDADE_CANA_DATA = [
     "Responsável": "MICHELI DE SOUZA SANTOS  ",
     "Quantidade de Cana": "BOM",
     "Observações": null,
-    "Fazenda": null,
-    "Observações ": null,
-    "Unnamed: 19": null
+    "Fazenda": null
   },
   {
     "ID": "3529654",
@@ -39859,9 +36395,7 @@ window.QUALIDADE_CANA_DATA = [
     "Responsável": "FERNANDA DE SOUZA ",
     "Quantidade de Cana": "BOM",
     "Observações": null,
-    "Fazenda": null,
-    "Observações ": null,
-    "Unnamed: 19": null
+    "Fazenda": null
   },
   {
     "ID": "3529653",
@@ -39882,9 +36416,7 @@ window.QUALIDADE_CANA_DATA = [
     "Responsável": "FERNANDA DE SOUZA ",
     "Quantidade de Cana": "BOM",
     "Observações": null,
-    "Fazenda": null,
-    "Observações ": null,
-    "Unnamed: 19": null
+    "Fazenda": null
   },
   {
     "ID": "3529652",
@@ -39905,9 +36437,7 @@ window.QUALIDADE_CANA_DATA = [
     "Responsável": "FERNANDA DE SOUZA ",
     "Quantidade de Cana": "BOM",
     "Observações": null,
-    "Fazenda": null,
-    "Observações ": null,
-    "Unnamed: 19": null
+    "Fazenda": null
   },
   {
     "ID": "3530144",
@@ -39928,9 +36458,7 @@ window.QUALIDADE_CANA_DATA = [
     "Responsável": "MARCELO DE OLIVEIRA JUNIOR",
     "Quantidade de Cana": "BOM",
     "Observações": null,
-    "Fazenda": null,
-    "Observações ": null,
-    "Unnamed: 19": null
+    "Fazenda": null
   },
   {
     "ID": "3529450",
@@ -39951,9 +36479,7 @@ window.QUALIDADE_CANA_DATA = [
     "Responsável": "REGINALDO DA SILVA GOMES ",
     "Quantidade de Cana": "BOM",
     "Observações": null,
-    "Fazenda": null,
-    "Observações ": null,
-    "Unnamed: 19": null
+    "Fazenda": null
   },
   {
     "ID": "3530038",
@@ -39974,9 +36500,7 @@ window.QUALIDADE_CANA_DATA = [
     "Responsável": "VITOR AMORIM RAMOS ",
     "Quantidade de Cana": "BOM",
     "Observações": null,
-    "Fazenda": null,
-    "Observações ": null,
-    "Unnamed: 19": null
+    "Fazenda": null
   },
   {
     "ID": "3529445",
@@ -39997,9 +36521,7 @@ window.QUALIDADE_CANA_DATA = [
     "Responsável": "REGINALDO DA SILVA GOMES ",
     "Quantidade de Cana": "BOM",
     "Observações": null,
-    "Fazenda": null,
-    "Observações ": null,
-    "Unnamed: 19": null
+    "Fazenda": null
   },
   {
     "ID": "3530033",
@@ -40020,9 +36542,7 @@ window.QUALIDADE_CANA_DATA = [
     "Responsável": "VITOR AMORIM RAMOS ",
     "Quantidade de Cana": "BOM",
     "Observações": null,
-    "Fazenda": null,
-    "Observações ": null,
-    "Unnamed: 19": null
+    "Fazenda": null
   },
   {
     "ID": "3529432",
@@ -40043,9 +36563,7 @@ window.QUALIDADE_CANA_DATA = [
     "Responsável": "REGINALDO DA SILVA GOMES ",
     "Quantidade de Cana": "BOM",
     "Observações": null,
-    "Fazenda": null,
-    "Observações ": null,
-    "Unnamed: 19": null
+    "Fazenda": null
   },
   {
     "ID": "3530028",
@@ -40066,9 +36584,7 @@ window.QUALIDADE_CANA_DATA = [
     "Responsável": "VITOR AMORIM RAMOS ",
     "Quantidade de Cana": "BOM",
     "Observações": null,
-    "Fazenda": null,
-    "Observações ": null,
-    "Unnamed: 19": null
+    "Fazenda": null
   },
   {
     "ID": "3530023",
@@ -40089,9 +36605,7 @@ window.QUALIDADE_CANA_DATA = [
     "Responsável": "VITOR AMORIM RAMOS ",
     "Quantidade de Cana": "BOM",
     "Observações": null,
-    "Fazenda": null,
-    "Observações ": null,
-    "Unnamed: 19": null
+    "Fazenda": null
   },
   {
     "ID": "3530018",
@@ -40112,9 +36626,7 @@ window.QUALIDADE_CANA_DATA = [
     "Responsável": "VITOR AMORIM RAMOS ",
     "Quantidade de Cana": "BOM",
     "Observações": null,
-    "Fazenda": null,
-    "Observações ": null,
-    "Unnamed: 19": null
+    "Fazenda": null
   },
   {
     "ID": "3530137",
@@ -40135,9 +36647,7 @@ window.QUALIDADE_CANA_DATA = [
     "Responsável": "MARCELO DE OLIVEIRA JUNIOR",
     "Quantidade de Cana": "BOM",
     "Observações": null,
-    "Fazenda": null,
-    "Observações ": null,
-    "Unnamed: 19": null
+    "Fazenda": null
   },
   {
     "ID": "3530013",
@@ -40158,9 +36668,7 @@ window.QUALIDADE_CANA_DATA = [
     "Responsável": "VITOR AMORIM RAMOS ",
     "Quantidade de Cana": "BOM",
     "Observações": null,
-    "Fazenda": null,
-    "Observações ": null,
-    "Unnamed: 19": null
+    "Fazenda": null
   },
   {
     "ID": "3529588",
@@ -40181,9 +36689,7 @@ window.QUALIDADE_CANA_DATA = [
     "Responsável": "GABRIEL HENRIQUE MARTINS PEREIRA",
     "Quantidade de Cana": "BOM",
     "Observações": null,
-    "Fazenda": null,
-    "Observações ": null,
-    "Unnamed: 19": null
+    "Fazenda": null
   },
   {
     "ID": "3529820",
@@ -40204,9 +36710,7 @@ window.QUALIDADE_CANA_DATA = [
     "Responsável": "VITOR AMORIM RAMOS ",
     "Quantidade de Cana": "BOM",
     "Observações": null,
-    "Fazenda": null,
-    "Observações ": null,
-    "Unnamed: 19": null
+    "Fazenda": null
   },
   {
     "ID": "3530132",
@@ -40227,9 +36731,7 @@ window.QUALIDADE_CANA_DATA = [
     "Responsável": "MARCELO DE OLIVEIRA JUNIOR",
     "Quantidade de Cana": "BOM",
     "Observações": null,
-    "Fazenda": null,
-    "Observações ": null,
-    "Unnamed: 19": null
+    "Fazenda": null
   },
   {
     "ID": "3529583",
@@ -40250,9 +36752,7 @@ window.QUALIDADE_CANA_DATA = [
     "Responsável": "GABRIEL HENRIQUE MARTINS PEREIRA",
     "Quantidade de Cana": "BOM",
     "Observações": null,
-    "Fazenda": null,
-    "Observações ": null,
-    "Unnamed: 19": null
+    "Fazenda": null
   },
   {
     "ID": "3529575",
@@ -40273,9 +36773,7 @@ window.QUALIDADE_CANA_DATA = [
     "Responsável": "GABRIEL HENRIQUE MARTINS PEREIRA",
     "Quantidade de Cana": "BOM",
     "Observações": null,
-    "Fazenda": null,
-    "Observações ": null,
-    "Unnamed: 19": null
+    "Fazenda": null
   },
   {
     "ID": "3529570",
@@ -40296,9 +36794,7 @@ window.QUALIDADE_CANA_DATA = [
     "Responsável": "GABRIEL HENRIQUE MARTINS PEREIRA",
     "Quantidade de Cana": "BOM",
     "Observações": null,
-    "Fazenda": null,
-    "Observações ": null,
-    "Unnamed: 19": null
+    "Fazenda": null
   },
   {
     "ID": "3529810",
@@ -40319,9 +36815,7 @@ window.QUALIDADE_CANA_DATA = [
     "Responsável": "VITOR AMORIM RAMOS ",
     "Quantidade de Cana": "BOM",
     "Observações": null,
-    "Fazenda": null,
-    "Observações ": null,
-    "Unnamed: 19": null
+    "Fazenda": null
   },
   {
     "ID": "3520554",
@@ -40342,9 +36836,7 @@ window.QUALIDADE_CANA_DATA = [
     "Responsável": "FERNANDA DE SOUZA ",
     "Quantidade de Cana": "BOM",
     "Observações": null,
-    "Fazenda": null,
-    "Observações ": null,
-    "Unnamed: 19": null
+    "Fazenda": null
   },
   {
     "ID": "3520547",
@@ -40365,9 +36857,7 @@ window.QUALIDADE_CANA_DATA = [
     "Responsável": "FERNANDA DE SOUZA ",
     "Quantidade de Cana": "BOM",
     "Observações": null,
-    "Fazenda": null,
-    "Observações ": null,
-    "Unnamed: 19": null
+    "Fazenda": null
   },
   {
     "ID": "3520543",
@@ -40388,9 +36878,7 @@ window.QUALIDADE_CANA_DATA = [
     "Responsável": "FERNANDA DE SOUZA ",
     "Quantidade de Cana": "BOM",
     "Observações": null,
-    "Fazenda": null,
-    "Observações ": null,
-    "Unnamed: 19": null
+    "Fazenda": null
   },
   {
     "ID": "3520688",
@@ -40411,9 +36899,7 @@ window.QUALIDADE_CANA_DATA = [
     "Responsável": "REGINALDO DA SILVA GOMES ",
     "Quantidade de Cana": "BOM",
     "Observações": null,
-    "Fazenda": null,
-    "Observações ": null,
-    "Unnamed: 19": null
+    "Fazenda": null
   },
   {
     "ID": "3520426",
@@ -40434,9 +36920,7 @@ window.QUALIDADE_CANA_DATA = [
     "Responsável": "VITOR AMORIM RAMOS ",
     "Quantidade de Cana": "BOM",
     "Observações": null,
-    "Fazenda": null,
-    "Observações ": null,
-    "Unnamed: 19": null
+    "Fazenda": null
   },
   {
     "ID": "3520424",
@@ -40457,9 +36941,7 @@ window.QUALIDADE_CANA_DATA = [
     "Responsável": "VITOR AMORIM RAMOS ",
     "Quantidade de Cana": "BOM",
     "Observações": null,
-    "Fazenda": null,
-    "Observações ": null,
-    "Unnamed: 19": null
+    "Fazenda": null
   },
   {
     "ID": "3520683",
@@ -40480,9 +36962,7 @@ window.QUALIDADE_CANA_DATA = [
     "Responsável": "REGINALDO DA SILVA GOMES ",
     "Quantidade de Cana": "BOM",
     "Observações": null,
-    "Fazenda": null,
-    "Observações ": null,
-    "Unnamed: 19": null
+    "Fazenda": null
   },
   {
     "ID": "3520418",
@@ -40503,9 +36983,7 @@ window.QUALIDADE_CANA_DATA = [
     "Responsável": "VITOR AMORIM RAMOS ",
     "Quantidade de Cana": "BOM",
     "Observações": null,
-    "Fazenda": null,
-    "Observações ": null,
-    "Unnamed: 19": null
+    "Fazenda": null
   },
   {
     "ID": "3520678",
@@ -40526,9 +37004,7 @@ window.QUALIDADE_CANA_DATA = [
     "Responsável": "REGINALDO DA SILVA GOMES ",
     "Quantidade de Cana": "BOM",
     "Observações": null,
-    "Fazenda": null,
-    "Observações ": null,
-    "Unnamed: 19": null
+    "Fazenda": null
   },
   {
     "ID": "3520673",
@@ -40549,9 +37025,7 @@ window.QUALIDADE_CANA_DATA = [
     "Responsável": "REGINALDO DA SILVA GOMES ",
     "Quantidade de Cana": "BOM",
     "Observações": null,
-    "Fazenda": null,
-    "Observações ": null,
-    "Unnamed: 19": null
+    "Fazenda": null
   },
   {
     "ID": "3520396",
@@ -40572,9 +37046,7 @@ window.QUALIDADE_CANA_DATA = [
     "Responsável": "VITOR AMORIM RAMOS ",
     "Quantidade de Cana": "BOM",
     "Observações": null,
-    "Fazenda": null,
-    "Observações ": null,
-    "Unnamed: 19": null
+    "Fazenda": null
   },
   {
     "ID": "3520391",
@@ -40595,9 +37067,7 @@ window.QUALIDADE_CANA_DATA = [
     "Responsável": "VITOR AMORIM RAMOS ",
     "Quantidade de Cana": "BOM",
     "Observações": null,
-    "Fazenda": null,
-    "Observações ": null,
-    "Unnamed: 19": null
+    "Fazenda": null
   },
   {
     "ID": "3520384",
@@ -40618,9 +37088,7 @@ window.QUALIDADE_CANA_DATA = [
     "Responsável": "VITOR AMORIM RAMOS ",
     "Quantidade de Cana": "BOM",
     "Observações": null,
-    "Fazenda": null,
-    "Observações ": null,
-    "Unnamed: 19": null
+    "Fazenda": null
   },
   {
     "ID": "3520579",
@@ -40641,9 +37109,7 @@ window.QUALIDADE_CANA_DATA = [
     "Responsável": "MARCELO DE OLIVEIRA JUNIOR",
     "Quantidade de Cana": "BOM",
     "Observações": null,
-    "Fazenda": null,
-    "Observações ": null,
-    "Unnamed: 19": null
+    "Fazenda": null
   },
   {
     "ID": "3520374",
@@ -40664,9 +37130,7 @@ window.QUALIDADE_CANA_DATA = [
     "Responsável": "VITOR AMORIM RAMOS ",
     "Quantidade de Cana": "BOM",
     "Observações": null,
-    "Fazenda": null,
-    "Observações ": null,
-    "Unnamed: 19": null
+    "Fazenda": null
   },
   {
     "ID": "3520455",
@@ -40687,9 +37151,7 @@ window.QUALIDADE_CANA_DATA = [
     "Responsável": "GABRIEL HENRIQUE MARTINS PEREIRA",
     "Quantidade de Cana": "BOM",
     "Observações": null,
-    "Fazenda": null,
-    "Observações ": null,
-    "Unnamed: 19": null
+    "Fazenda": null
   },
   {
     "ID": "3520369",
@@ -40710,9 +37172,7 @@ window.QUALIDADE_CANA_DATA = [
     "Responsável": "VITOR AMORIM RAMOS ",
     "Quantidade de Cana": "BOM",
     "Observações": null,
-    "Fazenda": null,
-    "Observações ": null,
-    "Unnamed: 19": null
+    "Fazenda": null
   },
   {
     "ID": "3520574",
@@ -40733,9 +37193,7 @@ window.QUALIDADE_CANA_DATA = [
     "Responsável": "MARCELO DE OLIVEIRA JUNIOR",
     "Quantidade de Cana": "BOM",
     "Observações": null,
-    "Fazenda": null,
-    "Observações ": null,
-    "Unnamed: 19": null
+    "Fazenda": null
   },
   {
     "ID": "3520176",
@@ -40756,9 +37214,7 @@ window.QUALIDADE_CANA_DATA = [
     "Responsável": "NILDA CLAUDINO [2510716]",
     "Quantidade de Cana": "BOM",
     "Observações": null,
-    "Fazenda": null,
-    "Observações ": null,
-    "Unnamed: 19": null
+    "Fazenda": null
   },
   {
     "ID": "3520175",
@@ -40779,9 +37235,7 @@ window.QUALIDADE_CANA_DATA = [
     "Responsável": "NILDA CLAUDINO [2510716]",
     "Quantidade de Cana": "BOM",
     "Observações": null,
-    "Fazenda": null,
-    "Observações ": null,
-    "Unnamed: 19": null
+    "Fazenda": null
   },
   {
     "ID": "3520174",
@@ -40802,9 +37256,7 @@ window.QUALIDADE_CANA_DATA = [
     "Responsável": "NILDA CLAUDINO [2510716]",
     "Quantidade de Cana": "BOM",
     "Observações": null,
-    "Fazenda": null,
-    "Observações ": null,
-    "Unnamed: 19": null
+    "Fazenda": null
   },
   {
     "ID": "3520354",
@@ -40825,9 +37277,7 @@ window.QUALIDADE_CANA_DATA = [
     "Responsável": "VITOR AMORIM RAMOS ",
     "Quantidade de Cana": "BOM",
     "Observações": null,
-    "Fazenda": null,
-    "Observações ": null,
-    "Unnamed: 19": null
+    "Fazenda": null
   },
   {
     "ID": "3520450",
@@ -40848,9 +37298,7 @@ window.QUALIDADE_CANA_DATA = [
     "Responsável": "GABRIEL HENRIQUE MARTINS PEREIRA",
     "Quantidade de Cana": "BOM",
     "Observações": null,
-    "Fazenda": null,
-    "Observações ": null,
-    "Unnamed: 19": null
+    "Fazenda": null
   },
   {
     "ID": "3520349",
@@ -40871,9 +37319,7 @@ window.QUALIDADE_CANA_DATA = [
     "Responsável": "VITOR AMORIM RAMOS ",
     "Quantidade de Cana": "BOM",
     "Observações": null,
-    "Fazenda": null,
-    "Observações ": null,
-    "Unnamed: 19": null
+    "Fazenda": null
   },
   {
     "ID": "3518719",
@@ -40894,9 +37340,7 @@ window.QUALIDADE_CANA_DATA = [
     "Responsável": "GABRIEL HENRIQUE MARTINS PEREIRA",
     "Quantidade de Cana": "BOM",
     "Observações": null,
-    "Fazenda": null,
-    "Observações ": null,
-    "Unnamed: 19": null
+    "Fazenda": null
   },
   {
     "ID": "3518718",
@@ -40917,9 +37361,7 @@ window.QUALIDADE_CANA_DATA = [
     "Responsável": "GABRIEL HENRIQUE MARTINS PEREIRA",
     "Quantidade de Cana": "BOM",
     "Observações": null,
-    "Fazenda": null,
-    "Observações ": null,
-    "Unnamed: 19": null
+    "Fazenda": null
   },
   {
     "ID": "3518681",
@@ -40940,9 +37382,7 @@ window.QUALIDADE_CANA_DATA = [
     "Responsável": "VITOR AMORIM RAMOS ",
     "Quantidade de Cana": "BOM",
     "Observações": null,
-    "Fazenda": null,
-    "Observações ": null,
-    "Unnamed: 19": null
+    "Fazenda": null
   },
   {
     "ID": "3518674",
@@ -40963,9 +37403,7 @@ window.QUALIDADE_CANA_DATA = [
     "Responsável": "VITOR AMORIM RAMOS ",
     "Quantidade de Cana": "BOM",
     "Observações": null,
-    "Fazenda": null,
-    "Observações ": null,
-    "Unnamed: 19": null
+    "Fazenda": null
   },
   {
     "ID": "3519046",
@@ -40986,9 +37424,7 @@ window.QUALIDADE_CANA_DATA = [
     "Responsável": "MARCELO DE OLIVEIRA JUNIOR",
     "Quantidade de Cana": "BOM",
     "Observações": null,
-    "Fazenda": null,
-    "Observações ": null,
-    "Unnamed: 19": null
+    "Fazenda": null
   },
   {
     "ID": "3518669",
@@ -41009,9 +37445,7 @@ window.QUALIDADE_CANA_DATA = [
     "Responsável": "VITOR AMORIM RAMOS ",
     "Quantidade de Cana": "BOM",
     "Observações": null,
-    "Fazenda": null,
-    "Observações ": null,
-    "Unnamed: 19": null
+    "Fazenda": null
   },
   {
     "ID": "3518552",
@@ -41032,9 +37466,7 @@ window.QUALIDADE_CANA_DATA = [
     "Responsável": "MICHELI DE SOUZA SANTOS  ",
     "Quantidade de Cana": "BOM",
     "Observações": null,
-    "Fazenda": null,
-    "Observações ": null,
-    "Unnamed: 19": null
+    "Fazenda": null
   },
   {
     "ID": "3518551",
@@ -41055,9 +37487,7 @@ window.QUALIDADE_CANA_DATA = [
     "Responsável": "MICHELI DE SOUZA SANTOS  ",
     "Quantidade de Cana": "BOM",
     "Observações": null,
-    "Fazenda": null,
-    "Observações ": null,
-    "Unnamed: 19": null
+    "Fazenda": null
   },
   {
     "ID": "3519035",
@@ -41078,9 +37508,7 @@ window.QUALIDADE_CANA_DATA = [
     "Responsável": "MARCELO DE OLIVEIRA JUNIOR",
     "Quantidade de Cana": "BOM",
     "Observações": null,
-    "Fazenda": null,
-    "Observações ": null,
-    "Unnamed: 19": null
+    "Fazenda": null
   },
   {
     "ID": "3518661",
@@ -41101,9 +37529,7 @@ window.QUALIDADE_CANA_DATA = [
     "Responsável": "VITOR AMORIM RAMOS ",
     "Quantidade de Cana": "BOM",
     "Observações": null,
-    "Fazenda": null,
-    "Observações ": null,
-    "Unnamed: 19": null
+    "Fazenda": null
   },
   {
     "ID": "3519000",
@@ -41124,9 +37550,7 @@ window.QUALIDADE_CANA_DATA = [
     "Responsável": "MARCELO DE OLIVEIRA JUNIOR",
     "Quantidade de Cana": "BOM",
     "Observações": null,
-    "Fazenda": null,
-    "Observações ": null,
-    "Unnamed: 19": null
+    "Fazenda": null
   },
   {
     "ID": "3518995",
@@ -41147,9 +37571,7 @@ window.QUALIDADE_CANA_DATA = [
     "Responsável": "MARCELO DE OLIVEIRA JUNIOR",
     "Quantidade de Cana": "BOM",
     "Observações": null,
-    "Fazenda": null,
-    "Observações ": null,
-    "Unnamed: 19": null
+    "Fazenda": null
   },
   {
     "ID": "3518537",
@@ -41170,9 +37592,7 @@ window.QUALIDADE_CANA_DATA = [
     "Responsável": "MICHELI DE SOUZA SANTOS  ",
     "Quantidade de Cana": "BOM",
     "Observações": null,
-    "Fazenda": null,
-    "Observações ": null,
-    "Unnamed: 19": null
+    "Fazenda": null
   },
   {
     "ID": "3518532",
@@ -41193,9 +37613,7 @@ window.QUALIDADE_CANA_DATA = [
     "Responsável": "MICHELI DE SOUZA SANTOS  ",
     "Quantidade de Cana": "BOM",
     "Observações": null,
-    "Fazenda": null,
-    "Observações ": null,
-    "Unnamed: 19": null
+    "Fazenda": null
   },
   {
     "ID": "3518985",
@@ -41216,9 +37634,7 @@ window.QUALIDADE_CANA_DATA = [
     "Responsável": "MARCELO DE OLIVEIRA JUNIOR",
     "Quantidade de Cana": "BOM",
     "Observações": null,
-    "Fazenda": null,
-    "Observações ": null,
-    "Unnamed: 19": null
+    "Fazenda": null
   },
   {
     "ID": "3518976",
@@ -41239,9 +37655,7 @@ window.QUALIDADE_CANA_DATA = [
     "Responsável": "MARCELO DE OLIVEIRA JUNIOR",
     "Quantidade de Cana": "BOM",
     "Observações": null,
-    "Fazenda": null,
-    "Observações ": null,
-    "Unnamed: 19": null
+    "Fazenda": null
   },
   {
     "ID": "3518965",
@@ -41262,9 +37676,7 @@ window.QUALIDADE_CANA_DATA = [
     "Responsável": "MARCELO DE OLIVEIRA JUNIOR",
     "Quantidade de Cana": "BOM",
     "Observações": null,
-    "Fazenda": null,
-    "Observações ": null,
-    "Unnamed: 19": null
+    "Fazenda": null
   },
   {
     "ID": "3518960",
@@ -41285,9 +37697,7 @@ window.QUALIDADE_CANA_DATA = [
     "Responsável": "MARCELO DE OLIVEIRA JUNIOR",
     "Quantidade de Cana": "BOM",
     "Observações": null,
-    "Fazenda": null,
-    "Observações ": null,
-    "Unnamed: 19": null
+    "Fazenda": null
   },
   {
     "ID": "3518297",
@@ -41308,9 +37718,7 @@ window.QUALIDADE_CANA_DATA = [
     "Responsável": "NILDA CLAUDINO [2510716]",
     "Quantidade de Cana": "BOM",
     "Observações": null,
-    "Fazenda": null,
-    "Observações ": null,
-    "Unnamed: 19": null
+    "Fazenda": null
   },
   {
     "ID": "3518296",
@@ -41331,9 +37739,7 @@ window.QUALIDADE_CANA_DATA = [
     "Responsável": "NILDA CLAUDINO [2510716]",
     "Quantidade de Cana": "BOM",
     "Observações": null,
-    "Fazenda": null,
-    "Observações ": null,
-    "Unnamed: 19": null
+    "Fazenda": null
   },
   {
     "ID": "3518295",
@@ -41354,9 +37760,7 @@ window.QUALIDADE_CANA_DATA = [
     "Responsável": "NILDA CLAUDINO [2510716]",
     "Quantidade de Cana": "BOM",
     "Observações": null,
-    "Fazenda": null,
-    "Observações ": null,
-    "Unnamed: 19": null
+    "Fazenda": null
   },
   {
     "ID": "3516466",
@@ -41377,9 +37781,7 @@ window.QUALIDADE_CANA_DATA = [
     "Responsável": "MICHELI DE SOUZA SANTOS  ",
     "Quantidade de Cana": "BOM",
     "Observações": null,
-    "Fazenda": null,
-    "Observações ": null,
-    "Unnamed: 19": null
+    "Fazenda": null
   },
   {
     "ID": "3516458",
@@ -41400,9 +37802,7 @@ window.QUALIDADE_CANA_DATA = [
     "Responsável": "MICHELI DE SOUZA SANTOS  ",
     "Quantidade de Cana": "BOM",
     "Observações": null,
-    "Fazenda": null,
-    "Observações ": null,
-    "Unnamed: 19": null
+    "Fazenda": null
   },
   {
     "ID": "3516453",
@@ -41423,9 +37823,7 @@ window.QUALIDADE_CANA_DATA = [
     "Responsável": "MICHELI DE SOUZA SANTOS  ",
     "Quantidade de Cana": "BOM",
     "Observações": null,
-    "Fazenda": null,
-    "Observações ": null,
-    "Unnamed: 19": null
+    "Fazenda": null
   },
   {
     "ID": "3516448",
@@ -41446,9 +37844,7 @@ window.QUALIDADE_CANA_DATA = [
     "Responsável": "MICHELI DE SOUZA SANTOS  ",
     "Quantidade de Cana": "BOM",
     "Observações": null,
-    "Fazenda": null,
-    "Observações ": null,
-    "Unnamed: 19": null
+    "Fazenda": null
   },
   {
     "ID": "3516443",
@@ -41469,9 +37865,7 @@ window.QUALIDADE_CANA_DATA = [
     "Responsável": "MICHELI DE SOUZA SANTOS  ",
     "Quantidade de Cana": "BOM",
     "Observações": null,
-    "Fazenda": null,
-    "Observações ": null,
-    "Unnamed: 19": null
+    "Fazenda": null
   },
   {
     "ID": "3516439",
@@ -41492,9 +37886,7 @@ window.QUALIDADE_CANA_DATA = [
     "Responsável": "MICHELI DE SOUZA SANTOS  ",
     "Quantidade de Cana": "BOM",
     "Observações": null,
-    "Fazenda": null,
-    "Observações ": null,
-    "Unnamed: 19": null
+    "Fazenda": null
   },
   {
     "ID": "3516353",
@@ -41515,9 +37907,7 @@ window.QUALIDADE_CANA_DATA = [
     "Responsável": "MICHELI DE SOUZA SANTOS  ",
     "Quantidade de Cana": "BOM",
     "Observações": null,
-    "Fazenda": null,
-    "Observações ": null,
-    "Unnamed: 19": null
+    "Fazenda": null
   },
   {
     "ID": "3516414",
@@ -41538,9 +37928,7 @@ window.QUALIDADE_CANA_DATA = [
     "Responsável": "NILDA CLAUDINO [2510716]",
     "Quantidade de Cana": "BOM",
     "Observações": null,
-    "Fazenda": null,
-    "Observações ": null,
-    "Unnamed: 19": null
+    "Fazenda": null
   },
   {
     "ID": "3516413",
@@ -41561,9 +37949,7 @@ window.QUALIDADE_CANA_DATA = [
     "Responsável": "NILDA CLAUDINO [2510716]",
     "Quantidade de Cana": "BOM",
     "Observações": null,
-    "Fazenda": null,
-    "Observações ": null,
-    "Unnamed: 19": null
+    "Fazenda": null
   },
   {
     "ID": "3516412",
@@ -41584,9 +37970,7 @@ window.QUALIDADE_CANA_DATA = [
     "Responsável": "NILDA CLAUDINO [2510716]",
     "Quantidade de Cana": "BOM",
     "Observações": null,
-    "Fazenda": null,
-    "Observações ": null,
-    "Unnamed: 19": null
+    "Fazenda": null
   },
   {
     "ID": "3516607",
@@ -41607,9 +37991,7 @@ window.QUALIDADE_CANA_DATA = [
     "Responsável": "MARCELO DE OLIVEIRA JUNIOR",
     "Quantidade de Cana": "BOM",
     "Observações": null,
-    "Fazenda": null,
-    "Observações ": null,
-    "Unnamed: 19": null
+    "Fazenda": null
   },
   {
     "ID": "3516591",
@@ -41630,9 +38012,7 @@ window.QUALIDADE_CANA_DATA = [
     "Responsável": "MARCELO DE OLIVEIRA JUNIOR",
     "Quantidade de Cana": "BOM",
     "Observações": null,
-    "Fazenda": null,
-    "Observações ": null,
-    "Unnamed: 19": null
+    "Fazenda": null
   },
   {
     "ID": "3516586",
@@ -41653,9 +38033,7 @@ window.QUALIDADE_CANA_DATA = [
     "Responsável": "MARCELO DE OLIVEIRA JUNIOR",
     "Quantidade de Cana": "BOM",
     "Observações": null,
-    "Fazenda": null,
-    "Observações ": null,
-    "Unnamed: 19": null
+    "Fazenda": null
   },
   {
     "ID": "3516581",
@@ -41676,9 +38054,7 @@ window.QUALIDADE_CANA_DATA = [
     "Responsável": "MARCELO DE OLIVEIRA JUNIOR",
     "Quantidade de Cana": "BOM",
     "Observações": null,
-    "Fazenda": null,
-    "Observações ": null,
-    "Unnamed: 19": null
+    "Fazenda": null
   },
   {
     "ID": "3515989",
@@ -41699,9 +38075,7 @@ window.QUALIDADE_CANA_DATA = [
     "Responsável": "VITOR AMORIM RAMOS ",
     "Quantidade de Cana": "BOM",
     "Observações": null,
-    "Fazenda": null,
-    "Observações ": null,
-    "Unnamed: 19": null
+    "Fazenda": null
   },
   {
     "ID": "3515984",
@@ -41722,9 +38096,7 @@ window.QUALIDADE_CANA_DATA = [
     "Responsável": "VITOR AMORIM RAMOS ",
     "Quantidade de Cana": "BOM",
     "Observações": null,
-    "Fazenda": null,
-    "Observações ": null,
-    "Unnamed: 19": null
+    "Fazenda": null
   },
   {
     "ID": "3515979",
@@ -41745,9 +38117,7 @@ window.QUALIDADE_CANA_DATA = [
     "Responsável": "VITOR AMORIM RAMOS ",
     "Quantidade de Cana": "BOM",
     "Observações": null,
-    "Fazenda": null,
-    "Observações ": null,
-    "Unnamed: 19": null
+    "Fazenda": null
   },
   {
     "ID": "3515974",
@@ -41768,9 +38138,7 @@ window.QUALIDADE_CANA_DATA = [
     "Responsável": "VITOR AMORIM RAMOS ",
     "Quantidade de Cana": "BOM",
     "Observações": null,
-    "Fazenda": null,
-    "Observações ": null,
-    "Unnamed: 19": null
+    "Fazenda": null
   },
   {
     "ID": "3515969",
@@ -41791,9 +38159,7 @@ window.QUALIDADE_CANA_DATA = [
     "Responsável": "VITOR AMORIM RAMOS ",
     "Quantidade de Cana": "BOM",
     "Observações": null,
-    "Fazenda": null,
-    "Observações ": null,
-    "Unnamed: 19": null
+    "Fazenda": null
   },
   {
     "ID": "3515964",
@@ -41814,9 +38180,7 @@ window.QUALIDADE_CANA_DATA = [
     "Responsável": "VITOR AMORIM RAMOS ",
     "Quantidade de Cana": "BOM",
     "Observações": null,
-    "Fazenda": null,
-    "Observações ": null,
-    "Unnamed: 19": null
+    "Fazenda": null
   },
   {
     "ID": "3515931",
@@ -41837,9 +38201,7 @@ window.QUALIDADE_CANA_DATA = [
     "Responsável": "EDILIANA CARDOSO DA COSTA",
     "Quantidade de Cana": "BOM",
     "Observações": null,
-    "Fazenda": null,
-    "Observações ": null,
-    "Unnamed: 19": null
+    "Fazenda": null
   },
   {
     "ID": "3515930",
@@ -41860,9 +38222,7 @@ window.QUALIDADE_CANA_DATA = [
     "Responsável": "EDILIANA CARDOSO DA COSTA",
     "Quantidade de Cana": "BOM",
     "Observações": null,
-    "Fazenda": null,
-    "Observações ": null,
-    "Unnamed: 19": null
+    "Fazenda": null
   },
   {
     "ID": "3515959",
@@ -41883,9 +38243,7 @@ window.QUALIDADE_CANA_DATA = [
     "Responsável": "VITOR AMORIM RAMOS ",
     "Quantidade de Cana": "BOM",
     "Observações": null,
-    "Fazenda": null,
-    "Observações ": null,
-    "Unnamed: 19": null
+    "Fazenda": null
   },
   {
     "ID": "3515929",
@@ -41906,9 +38264,7 @@ window.QUALIDADE_CANA_DATA = [
     "Responsável": "EDILIANA CARDOSO DA COSTA",
     "Quantidade de Cana": "BOM",
     "Observações": null,
-    "Fazenda": null,
-    "Observações ": null,
-    "Unnamed: 19": null
+    "Fazenda": null
   },
   {
     "ID": "3515928",
@@ -41929,9 +38285,7 @@ window.QUALIDADE_CANA_DATA = [
     "Responsável": "EDILIANA CARDOSO DA COSTA",
     "Quantidade de Cana": "BOM",
     "Observações": null,
-    "Fazenda": null,
-    "Observações ": null,
-    "Unnamed: 19": null
+    "Fazenda": null
   },
   {
     "ID": "3515953",
@@ -41952,9 +38306,7 @@ window.QUALIDADE_CANA_DATA = [
     "Responsável": "VITOR AMORIM RAMOS ",
     "Quantidade de Cana": "BOM",
     "Observações": null,
-    "Fazenda": null,
-    "Observações ": null,
-    "Unnamed: 19": null
+    "Fazenda": null
   },
   {
     "ID": "3515951",
@@ -41975,9 +38327,7 @@ window.QUALIDADE_CANA_DATA = [
     "Responsável": "VITOR AMORIM RAMOS ",
     "Quantidade de Cana": "BOM",
     "Observações": null,
-    "Fazenda": null,
-    "Observações ": null,
-    "Unnamed: 19": null
+    "Fazenda": null
   },
   {
     "ID": "3515943",
@@ -41998,9 +38348,7 @@ window.QUALIDADE_CANA_DATA = [
     "Responsável": "VITOR AMORIM RAMOS ",
     "Quantidade de Cana": "BOM",
     "Observações": null,
-    "Fazenda": null,
-    "Observações ": null,
-    "Unnamed: 19": null
+    "Fazenda": null
   },
   {
     "ID": "3515938",
@@ -42021,9 +38369,7 @@ window.QUALIDADE_CANA_DATA = [
     "Responsável": "VITOR AMORIM RAMOS ",
     "Quantidade de Cana": "BOM",
     "Observações": null,
-    "Fazenda": null,
-    "Observações ": null,
-    "Unnamed: 19": null
+    "Fazenda": null
   },
   {
     "ID": "3516569",
@@ -42044,9 +38390,7 @@ window.QUALIDADE_CANA_DATA = [
     "Responsável": "MARCELO DE OLIVEIRA JUNIOR",
     "Quantidade de Cana": "BOM",
     "Observações": null,
-    "Fazenda": null,
-    "Observações ": null,
-    "Unnamed: 19": null
+    "Fazenda": null
   },
   {
     "ID": "3516562",
@@ -42067,9 +38411,7 @@ window.QUALIDADE_CANA_DATA = [
     "Responsável": "MARCELO DE OLIVEIRA JUNIOR",
     "Quantidade de Cana": "BOM",
     "Observações": null,
-    "Fazenda": null,
-    "Observações ": null,
-    "Unnamed: 19": null
+    "Fazenda": null
   },
   {
     "ID": "3514281",
@@ -42090,9 +38432,7 @@ window.QUALIDADE_CANA_DATA = [
     "Responsável": "MARCELO DE OLIVEIRA JUNIOR",
     "Quantidade de Cana": "BOM",
     "Observações": null,
-    "Fazenda": null,
-    "Observações ": null,
-    "Unnamed: 19": null
+    "Fazenda": null
   },
   {
     "ID": "3513891",
@@ -42113,9 +38453,7 @@ window.QUALIDADE_CANA_DATA = [
     "Responsável": "MICHELI DE SOUZA SANTOS  ",
     "Quantidade de Cana": "BOM",
     "Observações": null,
-    "Fazenda": null,
-    "Observações ": null,
-    "Unnamed: 19": null
+    "Fazenda": null
   },
   {
     "ID": "3513886",
@@ -42136,9 +38474,7 @@ window.QUALIDADE_CANA_DATA = [
     "Responsável": "MICHELI DE SOUZA SANTOS  ",
     "Quantidade de Cana": "BOM",
     "Observações": null,
-    "Fazenda": null,
-    "Observações ": null,
-    "Unnamed: 19": null
+    "Fazenda": null
   },
   {
     "ID": "3514225",
@@ -42159,9 +38495,7 @@ window.QUALIDADE_CANA_DATA = [
     "Responsável": "FERNANDA DE SOUZA ",
     "Quantidade de Cana": "BOM",
     "Observações": null,
-    "Fazenda": null,
-    "Observações ": null,
-    "Unnamed: 19": null
+    "Fazenda": null
   },
   {
     "ID": "3513881",
@@ -42182,9 +38516,7 @@ window.QUALIDADE_CANA_DATA = [
     "Responsável": "MICHELI DE SOUZA SANTOS  ",
     "Quantidade de Cana": "BOM",
     "Observações": null,
-    "Fazenda": null,
-    "Observações ": null,
-    "Unnamed: 19": null
+    "Fazenda": null
   },
   {
     "ID": "3514213",
@@ -42205,9 +38537,7 @@ window.QUALIDADE_CANA_DATA = [
     "Responsável": "FERNANDA DE SOUZA ",
     "Quantidade de Cana": "BOM",
     "Observações": null,
-    "Fazenda": null,
-    "Observações ": null,
-    "Unnamed: 19": null
+    "Fazenda": null
   },
   {
     "ID": "3514205",
@@ -42228,9 +38558,7 @@ window.QUALIDADE_CANA_DATA = [
     "Responsável": "FERNANDA DE SOUZA ",
     "Quantidade de Cana": "BOM",
     "Observações": null,
-    "Fazenda": null,
-    "Observações ": null,
-    "Unnamed: 19": null
+    "Fazenda": null
   },
   {
     "ID": "3514200",
@@ -42251,9 +38579,7 @@ window.QUALIDADE_CANA_DATA = [
     "Responsável": "FERNANDA DE SOUZA ",
     "Quantidade de Cana": "BOM",
     "Observações": null,
-    "Fazenda": null,
-    "Observações ": null,
-    "Unnamed: 19": null
+    "Fazenda": null
   },
   {
     "ID": "3514174",
@@ -42274,9 +38600,7 @@ window.QUALIDADE_CANA_DATA = [
     "Responsável": "FERNANDA DE SOUZA ",
     "Quantidade de Cana": "BOM",
     "Observações": null,
-    "Fazenda": null,
-    "Observações ": null,
-    "Unnamed: 19": null
+    "Fazenda": null
   },
   {
     "ID": "3514145",
@@ -42297,9 +38621,7 @@ window.QUALIDADE_CANA_DATA = [
     "Responsável": "FERNANDA DE SOUZA ",
     "Quantidade de Cana": "BOM",
     "Observações": null,
-    "Fazenda": null,
-    "Observações ": null,
-    "Unnamed: 19": null
+    "Fazenda": null
   },
   {
     "ID": "3514275",
@@ -42320,9 +38642,7 @@ window.QUALIDADE_CANA_DATA = [
     "Responsável": "MARCELO DE OLIVEIRA JUNIOR",
     "Quantidade de Cana": "BOM",
     "Observações": null,
-    "Fazenda": null,
-    "Observações ": null,
-    "Unnamed: 19": null
+    "Fazenda": null
   },
   {
     "ID": "3514183",
@@ -42343,9 +38663,7 @@ window.QUALIDADE_CANA_DATA = [
     "Responsável": "MARCELO DE OLIVEIRA JUNIOR",
     "Quantidade de Cana": "BOM",
     "Observações": null,
-    "Fazenda": null,
-    "Observações ": null,
-    "Unnamed: 19": null
+    "Fazenda": null
   },
   {
     "ID": "3514182",
@@ -42366,9 +38684,7 @@ window.QUALIDADE_CANA_DATA = [
     "Responsável": "MARCELO DE OLIVEIRA JUNIOR",
     "Quantidade de Cana": "BOM",
     "Observações": null,
-    "Fazenda": null,
-    "Observações ": null,
-    "Unnamed: 19": null
+    "Fazenda": null
   },
   {
     "ID": "3514159",
@@ -42389,9 +38705,7 @@ window.QUALIDADE_CANA_DATA = [
     "Responsável": "MARCELO DE OLIVEIRA JUNIOR",
     "Quantidade de Cana": "BOM",
     "Observações": null,
-    "Fazenda": null,
-    "Observações ": null,
-    "Unnamed: 19": null
+    "Fazenda": null
   },
   {
     "ID": "3514371",
@@ -42412,9 +38726,7 @@ window.QUALIDADE_CANA_DATA = [
     "Responsável": "MARCELO DE OLIVEIRA JUNIOR",
     "Quantidade de Cana": "BOM",
     "Observações": null,
-    "Fazenda": null,
-    "Observações ": null,
-    "Unnamed: 19": null
+    "Fazenda": null
   },
   {
     "ID": "3514146",
@@ -42435,9 +38747,7 @@ window.QUALIDADE_CANA_DATA = [
     "Responsável": "MARCELO DE OLIVEIRA JUNIOR",
     "Quantidade de Cana": "BOM",
     "Observações": null,
-    "Fazenda": null,
-    "Observações ": null,
-    "Unnamed: 19": null
+    "Fazenda": null
   },
   {
     "ID": "3511768",
@@ -42458,9 +38768,7 @@ window.QUALIDADE_CANA_DATA = [
     "Responsável": "FERNANDA DE SOUZA ",
     "Quantidade de Cana": "BOM",
     "Observações": null,
-    "Fazenda": null,
-    "Observações ": null,
-    "Unnamed: 19": null
+    "Fazenda": null
   },
   {
     "ID": "3511763",
@@ -42481,9 +38789,7 @@ window.QUALIDADE_CANA_DATA = [
     "Responsável": "FERNANDA DE SOUZA ",
     "Quantidade de Cana": "BOM",
     "Observações": null,
-    "Fazenda": null,
-    "Observações ": null,
-    "Unnamed: 19": null
+    "Fazenda": null
   },
   {
     "ID": "3511705",
@@ -42504,9 +38810,7 @@ window.QUALIDADE_CANA_DATA = [
     "Responsável": "VITOR AMORIM RAMOS ",
     "Quantidade de Cana": "BOM",
     "Observações": null,
-    "Fazenda": null,
-    "Observações ": null,
-    "Unnamed: 19": null
+    "Fazenda": null
   },
   {
     "ID": "3511700",
@@ -42527,9 +38831,7 @@ window.QUALIDADE_CANA_DATA = [
     "Responsável": "VITOR AMORIM RAMOS ",
     "Quantidade de Cana": "BOM",
     "Observações": null,
-    "Fazenda": null,
-    "Observações ": null,
-    "Unnamed: 19": null
+    "Fazenda": null
   },
   {
     "ID": "3511695",
@@ -42550,9 +38852,7 @@ window.QUALIDADE_CANA_DATA = [
     "Responsável": "VITOR AMORIM RAMOS ",
     "Quantidade de Cana": "BOM",
     "Observações": null,
-    "Fazenda": null,
-    "Observações ": null,
-    "Unnamed: 19": null
+    "Fazenda": null
   },
   {
     "ID": "3511690",
@@ -42573,9 +38873,7 @@ window.QUALIDADE_CANA_DATA = [
     "Responsável": "VITOR AMORIM RAMOS ",
     "Quantidade de Cana": "BOM",
     "Observações": null,
-    "Fazenda": null,
-    "Observações ": null,
-    "Unnamed: 19": null
+    "Fazenda": null
   },
   {
     "ID": "3511674",
@@ -42596,9 +38894,7 @@ window.QUALIDADE_CANA_DATA = [
     "Responsável": "VITOR AMORIM RAMOS ",
     "Quantidade de Cana": "BOM",
     "Observações": null,
-    "Fazenda": null,
-    "Observações ": null,
-    "Unnamed: 19": null
+    "Fazenda": null
   },
   {
     "ID": "3511669",
@@ -42619,9 +38915,7 @@ window.QUALIDADE_CANA_DATA = [
     "Responsável": "VITOR AMORIM RAMOS ",
     "Quantidade de Cana": "BOM",
     "Observações": null,
-    "Fazenda": null,
-    "Observações ": null,
-    "Unnamed: 19": null
+    "Fazenda": null
   },
   {
     "ID": "3511810",
@@ -42642,9 +38936,7 @@ window.QUALIDADE_CANA_DATA = [
     "Responsável": "GABRIEL HENRIQUE MARTINS PEREIRA",
     "Quantidade de Cana": "BOM",
     "Observações": null,
-    "Fazenda": null,
-    "Observações ": null,
-    "Unnamed: 19": null
+    "Fazenda": null
   },
   {
     "ID": "3511296",
@@ -42665,9 +38957,7 @@ window.QUALIDADE_CANA_DATA = [
     "Responsável": "NILDA CLAUDINO [2510716]",
     "Quantidade de Cana": "BOM",
     "Observações": null,
-    "Fazenda": null,
-    "Observações ": null,
-    "Unnamed: 19": null
+    "Fazenda": null
   },
   {
     "ID": "3511295",
@@ -42688,9 +38978,7 @@ window.QUALIDADE_CANA_DATA = [
     "Responsável": "NILDA CLAUDINO [2510716]",
     "Quantidade de Cana": "BOM",
     "Observações": null,
-    "Fazenda": null,
-    "Observações ": null,
-    "Unnamed: 19": null
+    "Fazenda": null
   },
   {
     "ID": "3511294",
@@ -42711,9 +38999,7 @@ window.QUALIDADE_CANA_DATA = [
     "Responsável": "NILDA CLAUDINO [2510716]",
     "Quantidade de Cana": "BOM",
     "Observações": null,
-    "Fazenda": null,
-    "Observações ": null,
-    "Unnamed: 19": null
+    "Fazenda": null
   },
   {
     "ID": "3511801",
@@ -42734,9 +39020,7 @@ window.QUALIDADE_CANA_DATA = [
     "Responsável": "GABRIEL HENRIQUE MARTINS PEREIRA",
     "Quantidade de Cana": "BOM",
     "Observações": null,
-    "Fazenda": null,
-    "Observações ": null,
-    "Unnamed: 19": null
+    "Fazenda": null
   },
   {
     "ID": "3511796",
@@ -42757,9 +39041,7 @@ window.QUALIDADE_CANA_DATA = [
     "Responsável": "GABRIEL HENRIQUE MARTINS PEREIRA",
     "Quantidade de Cana": "BOM",
     "Observações": null,
-    "Fazenda": null,
-    "Observações ": null,
-    "Unnamed: 19": null
+    "Fazenda": null
   },
   {
     "ID": "3511794",
@@ -42780,9 +39062,7 @@ window.QUALIDADE_CANA_DATA = [
     "Responsável": "GABRIEL HENRIQUE MARTINS PEREIRA",
     "Quantidade de Cana": "BOM",
     "Observações": null,
-    "Fazenda": null,
-    "Observações ": null,
-    "Unnamed: 19": null
+    "Fazenda": null
   },
   {
     "ID": "3509937",
@@ -42803,9 +39083,7 @@ window.QUALIDADE_CANA_DATA = [
     "Responsável": "GABRIEL HENRIQUE MARTINS PEREIRA",
     "Quantidade de Cana": "BOM",
     "Observações": null,
-    "Fazenda": null,
-    "Observações ": null,
-    "Unnamed: 19": null
+    "Fazenda": null
   },
   {
     "ID": "3509451",
@@ -42826,9 +39104,7 @@ window.QUALIDADE_CANA_DATA = [
     "Responsável": "NILDA CLAUDINO [2510716]",
     "Quantidade de Cana": "BOM",
     "Observações": null,
-    "Fazenda": null,
-    "Observações ": null,
-    "Unnamed: 19": null
+    "Fazenda": null
   },
   {
     "ID": "3509450",
@@ -42849,9 +39125,7 @@ window.QUALIDADE_CANA_DATA = [
     "Responsável": "NILDA CLAUDINO [2510716]",
     "Quantidade de Cana": "BOM",
     "Observações": null,
-    "Fazenda": null,
-    "Observações ": null,
-    "Unnamed: 19": null
+    "Fazenda": null
   },
   {
     "ID": "3509449",
@@ -42872,9 +39146,7 @@ window.QUALIDADE_CANA_DATA = [
     "Responsável": "NILDA CLAUDINO [2510716]",
     "Quantidade de Cana": "BOM",
     "Observações": null,
-    "Fazenda": null,
-    "Observações ": null,
-    "Unnamed: 19": null
+    "Fazenda": null
   },
   {
     "ID": "3509621",
@@ -42895,9 +39167,7 @@ window.QUALIDADE_CANA_DATA = [
     "Responsável": "FERNANDA DE SOUZA ",
     "Quantidade de Cana": "BOM",
     "Observações": null,
-    "Fazenda": null,
-    "Observações ": null,
-    "Unnamed: 19": null
+    "Fazenda": null
   },
   {
     "ID": "3509620",
@@ -42918,9 +39188,7 @@ window.QUALIDADE_CANA_DATA = [
     "Responsável": "FERNANDA DE SOUZA ",
     "Quantidade de Cana": "BOM",
     "Observações": null,
-    "Fazenda": null,
-    "Observações ": null,
-    "Unnamed: 19": null
+    "Fazenda": null
   },
   {
     "ID": "3509534",
@@ -42941,9 +39209,7 @@ window.QUALIDADE_CANA_DATA = [
     "Responsável": "MARCELO DE OLIVEIRA JUNIOR",
     "Quantidade de Cana": "BOM",
     "Observações": null,
-    "Fazenda": null,
-    "Observações ": null,
-    "Unnamed: 19": null
+    "Fazenda": null
   },
   {
     "ID": "3509523",
@@ -42964,9 +39230,7 @@ window.QUALIDADE_CANA_DATA = [
     "Responsável": "MARCELO DE OLIVEIRA JUNIOR",
     "Quantidade de Cana": "BOM",
     "Observações": null,
-    "Fazenda": null,
-    "Observações ": null,
-    "Unnamed: 19": null
+    "Fazenda": null
   },
   {
     "ID": "3509268",
@@ -42987,9 +39251,7 @@ window.QUALIDADE_CANA_DATA = [
     "Responsável": "MICHELI DE SOUZA SANTOS  ",
     "Quantidade de Cana": "BOM",
     "Observações": null,
-    "Fazenda": null,
-    "Observações ": null,
-    "Unnamed: 19": null
+    "Fazenda": null
   },
   {
     "ID": "3509510",
@@ -43010,9 +39272,7 @@ window.QUALIDADE_CANA_DATA = [
     "Responsável": "MARCELO DE OLIVEIRA JUNIOR",
     "Quantidade de Cana": "BOM",
     "Observações": null,
-    "Fazenda": null,
-    "Observações ": null,
-    "Unnamed: 19": null
+    "Fazenda": null
   },
   {
     "ID": "3509267",
@@ -43033,9 +39293,7 @@ window.QUALIDADE_CANA_DATA = [
     "Responsável": "MICHELI DE SOUZA SANTOS  ",
     "Quantidade de Cana": "BOM",
     "Observações": null,
-    "Fazenda": null,
-    "Observações ": null,
-    "Unnamed: 19": null
+    "Fazenda": null
   },
   {
     "ID": "3509266",
@@ -43056,9 +39314,7 @@ window.QUALIDADE_CANA_DATA = [
     "Responsável": "MICHELI DE SOUZA SANTOS  ",
     "Quantidade de Cana": "BOM",
     "Observações": null,
-    "Fazenda": null,
-    "Observações ": null,
-    "Unnamed: 19": null
+    "Fazenda": null
   },
   {
     "ID": "3509265",
@@ -43079,9 +39335,7 @@ window.QUALIDADE_CANA_DATA = [
     "Responsável": "MICHELI DE SOUZA SANTOS  ",
     "Quantidade de Cana": "BOM",
     "Observações": null,
-    "Fazenda": null,
-    "Observações ": null,
-    "Unnamed: 19": null
+    "Fazenda": null
   },
   {
     "ID": "3509264",
@@ -43102,9 +39356,7 @@ window.QUALIDADE_CANA_DATA = [
     "Responsável": "MICHELI DE SOUZA SANTOS  ",
     "Quantidade de Cana": "BOM",
     "Observações": null,
-    "Fazenda": null,
-    "Observações ": null,
-    "Unnamed: 19": null
+    "Fazenda": null
   },
   {
     "ID": "3509263",
@@ -43125,9 +39377,7 @@ window.QUALIDADE_CANA_DATA = [
     "Responsável": "MICHELI DE SOUZA SANTOS  ",
     "Quantidade de Cana": "BOM",
     "Observações": null,
-    "Fazenda": null,
-    "Observações ": null,
-    "Unnamed: 19": null
+    "Fazenda": null
   },
   {
     "ID": "3509537",
@@ -43148,9 +39398,7 @@ window.QUALIDADE_CANA_DATA = [
     "Responsável": "REGINALDO DA SILVA GOMES ",
     "Quantidade de Cana": "BOM",
     "Observações": null,
-    "Fazenda": null,
-    "Observações ": null,
-    "Unnamed: 19": null
+    "Fazenda": null
   },
   {
     "ID": "3509526",
@@ -43171,9 +39419,7 @@ window.QUALIDADE_CANA_DATA = [
     "Responsável": "REGINALDO DA SILVA GOMES ",
     "Quantidade de Cana": "BOM",
     "Observações": null,
-    "Fazenda": null,
-    "Observações ": null,
-    "Unnamed: 19": null
+    "Fazenda": null
   },
   {
     "ID": "3509518",
@@ -43194,9 +39440,7 @@ window.QUALIDADE_CANA_DATA = [
     "Responsável": "REGINALDO DA SILVA GOMES ",
     "Quantidade de Cana": "BOM",
     "Observações": null,
-    "Fazenda": null,
-    "Observações ": null,
-    "Unnamed: 19": null
+    "Fazenda": null
   },
   {
     "ID": "3509928",
@@ -43217,9 +39461,7 @@ window.QUALIDADE_CANA_DATA = [
     "Responsável": "GABRIEL HENRIQUE MARTINS PEREIRA",
     "Quantidade de Cana": "BOM",
     "Observações": null,
-    "Fazenda": null,
-    "Observações ": null,
-    "Unnamed: 19": null
+    "Fazenda": null
   },
   {
     "ID": "3509509",
@@ -43240,9 +39482,7 @@ window.QUALIDADE_CANA_DATA = [
     "Responsável": "REGINALDO DA SILVA GOMES ",
     "Quantidade de Cana": "BOM",
     "Observações": null,
-    "Fazenda": null,
-    "Observações ": null,
-    "Unnamed: 19": null
+    "Fazenda": null
   },
   {
     "ID": "3509500",
@@ -43263,9 +39503,7 @@ window.QUALIDADE_CANA_DATA = [
     "Responsável": "REGINALDO DA SILVA GOMES ",
     "Quantidade de Cana": "BOM",
     "Observações": null,
-    "Fazenda": null,
-    "Observações ": null,
-    "Unnamed: 19": null
+    "Fazenda": null
   },
   {
     "ID": "3509491",
@@ -43286,9 +39524,7 @@ window.QUALIDADE_CANA_DATA = [
     "Responsável": "REGINALDO DA SILVA GOMES ",
     "Quantidade de Cana": "BOM",
     "Observações": null,
-    "Fazenda": null,
-    "Observações ": null,
-    "Unnamed: 19": null
+    "Fazenda": null
   },
   {
     "ID": "3509610",
@@ -43309,9 +39545,7 @@ window.QUALIDADE_CANA_DATA = [
     "Responsável": "FERNANDA DE SOUZA ",
     "Quantidade de Cana": "BOM",
     "Observações": null,
-    "Fazenda": null,
-    "Observações ": null,
-    "Unnamed: 19": null
+    "Fazenda": null
   },
   {
     "ID": "3509923",
@@ -43332,9 +39566,7 @@ window.QUALIDADE_CANA_DATA = [
     "Responsável": "GABRIEL HENRIQUE MARTINS PEREIRA",
     "Quantidade de Cana": "BOM",
     "Observações": null,
-    "Fazenda": null,
-    "Observações ": null,
-    "Unnamed: 19": null
+    "Fazenda": null
   },
   {
     "ID": "3509605",
@@ -43355,9 +39587,7 @@ window.QUALIDADE_CANA_DATA = [
     "Responsável": "FERNANDA DE SOUZA ",
     "Quantidade de Cana": "BOM",
     "Observações": null,
-    "Fazenda": null,
-    "Observações ": null,
-    "Unnamed: 19": null
+    "Fazenda": null
   },
   {
     "ID": "3509484",
@@ -43378,9 +39608,7 @@ window.QUALIDADE_CANA_DATA = [
     "Responsável": "REGINALDO DA SILVA GOMES ",
     "Quantidade de Cana": "BOM",
     "Observações": null,
-    "Fazenda": null,
-    "Observações ": null,
-    "Unnamed: 19": null
+    "Fazenda": null
   },
   {
     "ID": "3509917",
@@ -43401,9 +39629,7 @@ window.QUALIDADE_CANA_DATA = [
     "Responsável": "GABRIEL HENRIQUE MARTINS PEREIRA",
     "Quantidade de Cana": "BOM",
     "Observações": null,
-    "Fazenda": null,
-    "Observações ": null,
-    "Unnamed: 19": null
+    "Fazenda": null
   },
   {
     "ID": "3509479",
@@ -43424,9 +39650,7 @@ window.QUALIDADE_CANA_DATA = [
     "Responsável": "REGINALDO DA SILVA GOMES ",
     "Quantidade de Cana": "BOM",
     "Observações": null,
-    "Fazenda": null,
-    "Observações ": null,
-    "Unnamed: 19": null
+    "Fazenda": null
   },
   {
     "ID": "3509856",
@@ -43447,9 +39671,7 @@ window.QUALIDADE_CANA_DATA = [
     "Responsável": "GABRIEL HENRIQUE MARTINS PEREIRA",
     "Quantidade de Cana": "BOM",
     "Observações": null,
-    "Fazenda": null,
-    "Observações ": null,
-    "Unnamed: 19": null
+    "Fazenda": null
   },
   {
     "ID": "3509469",
@@ -43470,9 +39692,7 @@ window.QUALIDADE_CANA_DATA = [
     "Responsável": "REGINALDO DA SILVA GOMES ",
     "Quantidade de Cana": "BOM",
     "Observações": null,
-    "Fazenda": null,
-    "Observações ": null,
-    "Unnamed: 19": null
+    "Fazenda": null
   },
   {
     "ID": "3509322",
@@ -43493,9 +39713,7 @@ window.QUALIDADE_CANA_DATA = [
     "Responsável": "NILDA CLAUDINO [2510716]",
     "Quantidade de Cana": "BOM",
     "Observações": null,
-    "Fazenda": null,
-    "Observações ": null,
-    "Unnamed: 19": null
+    "Fazenda": null
   },
   {
     "ID": "3509321",
@@ -43516,9 +39734,7 @@ window.QUALIDADE_CANA_DATA = [
     "Responsável": "NILDA CLAUDINO [2510716]",
     "Quantidade de Cana": "BOM",
     "Observações": null,
-    "Fazenda": null,
-    "Observações ": null,
-    "Unnamed: 19": null
+    "Fazenda": null
   },
   {
     "ID": "3509320",
@@ -43539,9 +39755,7 @@ window.QUALIDADE_CANA_DATA = [
     "Responsável": "NILDA CLAUDINO [2510716]",
     "Quantidade de Cana": "BOM",
     "Observações": null,
-    "Fazenda": null,
-    "Observações ": null,
-    "Unnamed: 19": null
+    "Fazenda": null
   },
   {
     "ID": "3509755",
@@ -43562,9 +39776,7 @@ window.QUALIDADE_CANA_DATA = [
     "Responsável": "GABRIEL HENRIQUE MARTINS PEREIRA",
     "Quantidade de Cana": "BOM",
     "Observações": null,
-    "Fazenda": null,
-    "Observações ": null,
-    "Unnamed: 19": null
+    "Fazenda": null
   },
   {
     "ID": "3509747",
@@ -43585,9 +39797,7 @@ window.QUALIDADE_CANA_DATA = [
     "Responsável": "GABRIEL HENRIQUE MARTINS PEREIRA",
     "Quantidade de Cana": "BOM",
     "Observações": null,
-    "Fazenda": null,
-    "Observações ": null,
-    "Unnamed: 19": null
+    "Fazenda": null
   },
   {
     "ID": "3509496",
@@ -43608,9 +39818,7 @@ window.QUALIDADE_CANA_DATA = [
     "Responsável": "MARCELO DE OLIVEIRA JUNIOR",
     "Quantidade de Cana": "BOM",
     "Observações": null,
-    "Fazenda": null,
-    "Observações ": null,
-    "Unnamed: 19": null
+    "Fazenda": null
   },
   {
     "ID": "3509744",
@@ -43631,9 +39839,7 @@ window.QUALIDADE_CANA_DATA = [
     "Responsável": "MARCELO DE OLIVEIRA JUNIOR",
     "Quantidade de Cana": "BOM",
     "Observações": null,
-    "Fazenda": null,
-    "Observações ": null,
-    "Unnamed: 19": null
+    "Fazenda": null
   },
   {
     "ID": "3509428",
@@ -43654,9 +39860,7 @@ window.QUALIDADE_CANA_DATA = [
     "Responsável": "MARCELO DE OLIVEIRA JUNIOR",
     "Quantidade de Cana": "BOM",
     "Observações": null,
-    "Fazenda": null,
-    "Observações ": null,
-    "Unnamed: 19": null
+    "Fazenda": null
   },
   {
     "ID": "3498751",
@@ -43677,9 +39881,7 @@ window.QUALIDADE_CANA_DATA = [
     "Responsável": "VITOR AMORIM RAMOS ",
     "Quantidade de Cana": "BOM",
     "Observações": null,
-    "Fazenda": null,
-    "Observações ": null,
-    "Unnamed: 19": null
+    "Fazenda": null
   },
   {
     "ID": "3498743",
@@ -43700,9 +39902,7 @@ window.QUALIDADE_CANA_DATA = [
     "Responsável": "VITOR AMORIM RAMOS ",
     "Quantidade de Cana": "BOM",
     "Observações": null,
-    "Fazenda": null,
-    "Observações ": null,
-    "Unnamed: 19": null
+    "Fazenda": null
   },
   {
     "ID": "3498667",
@@ -43723,9 +39923,7 @@ window.QUALIDADE_CANA_DATA = [
     "Responsável": "MARCELO DE OLIVEIRA JUNIOR",
     "Quantidade de Cana": "BOM",
     "Observações": null,
-    "Fazenda": null,
-    "Observações ": null,
-    "Unnamed: 19": null
+    "Fazenda": null
   },
   {
     "ID": "3498737",
@@ -43746,9 +39944,7 @@ window.QUALIDADE_CANA_DATA = [
     "Responsável": "VITOR AMORIM RAMOS ",
     "Quantidade de Cana": "BOM",
     "Observações": null,
-    "Fazenda": null,
-    "Observações ": null,
-    "Unnamed: 19": null
+    "Fazenda": null
   },
   {
     "ID": "3498660",
@@ -43769,9 +39965,7 @@ window.QUALIDADE_CANA_DATA = [
     "Responsável": "MARCELO DE OLIVEIRA JUNIOR",
     "Quantidade de Cana": "BOM",
     "Observações": null,
-    "Fazenda": null,
-    "Observações ": null,
-    "Unnamed: 19": null
+    "Fazenda": null
   },
   {
     "ID": "3498730",
@@ -43792,9 +39986,7 @@ window.QUALIDADE_CANA_DATA = [
     "Responsável": "VITOR AMORIM RAMOS ",
     "Quantidade de Cana": "BOM",
     "Observações": null,
-    "Fazenda": null,
-    "Observações ": null,
-    "Unnamed: 19": null
+    "Fazenda": null
   },
   {
     "ID": "3498652",
@@ -43815,9 +40007,7 @@ window.QUALIDADE_CANA_DATA = [
     "Responsável": "MARCELO DE OLIVEIRA JUNIOR",
     "Quantidade de Cana": "BOM",
     "Observações": null,
-    "Fazenda": null,
-    "Observações ": null,
-    "Unnamed: 19": null
+    "Fazenda": null
   },
   {
     "ID": "3498467",
@@ -43838,9 +40028,7 @@ window.QUALIDADE_CANA_DATA = [
     "Responsável": "GLEISON FELIPE BORGES DE MATOS",
     "Quantidade de Cana": "BOM",
     "Observações": null,
-    "Fazenda": null,
-    "Observações ": null,
-    "Unnamed: 19": null
+    "Fazenda": null
   },
   {
     "ID": "3498651",
@@ -43861,9 +40049,7 @@ window.QUALIDADE_CANA_DATA = [
     "Responsável": "MARCELO DE OLIVEIRA JUNIOR",
     "Quantidade de Cana": "BOM",
     "Observações": null,
-    "Fazenda": null,
-    "Observações ": null,
-    "Unnamed: 19": null
+    "Fazenda": null
   },
   {
     "ID": "3498724",
@@ -43884,9 +40070,7 @@ window.QUALIDADE_CANA_DATA = [
     "Responsável": "VITOR AMORIM RAMOS ",
     "Quantidade de Cana": "BOM",
     "Observações": null,
-    "Fazenda": null,
-    "Observações ": null,
-    "Unnamed: 19": null
+    "Fazenda": null
   },
   {
     "ID": "3498495",
@@ -43907,9 +40091,7 @@ window.QUALIDADE_CANA_DATA = [
     "Responsável": "NILDA CLAUDINO [2510716]",
     "Quantidade de Cana": "BOM",
     "Observações": null,
-    "Fazenda": null,
-    "Observações ": null,
-    "Unnamed: 19": null
+    "Fazenda": null
   },
   {
     "ID": "3498494",
@@ -43930,9 +40112,7 @@ window.QUALIDADE_CANA_DATA = [
     "Responsável": "NILDA CLAUDINO [2510716]",
     "Quantidade de Cana": "BOM",
     "Observações": null,
-    "Fazenda": null,
-    "Observações ": null,
-    "Unnamed: 19": null
+    "Fazenda": null
   },
   {
     "ID": "3498493",
@@ -43953,9 +40133,7 @@ window.QUALIDADE_CANA_DATA = [
     "Responsável": "NILDA CLAUDINO [2510716]",
     "Quantidade de Cana": "BOM",
     "Observações": null,
-    "Fazenda": null,
-    "Observações ": null,
-    "Unnamed: 19": null
+    "Fazenda": null
   },
   {
     "ID": "3498691",
@@ -43976,9 +40154,7 @@ window.QUALIDADE_CANA_DATA = [
     "Responsável": "VITOR AMORIM RAMOS ",
     "Quantidade de Cana": "BOM",
     "Observações": null,
-    "Fazenda": null,
-    "Observações ": null,
-    "Unnamed: 19": null
+    "Fazenda": null
   },
   {
     "ID": "3498567",
@@ -43999,9 +40175,7 @@ window.QUALIDADE_CANA_DATA = [
     "Responsável": "FERNANDA DE SOUZA ",
     "Quantidade de Cana": "BOM",
     "Observações": null,
-    "Fazenda": null,
-    "Observações ": null,
-    "Unnamed: 19": null
+    "Fazenda": null
   },
   {
     "ID": "3498996",
@@ -44022,9 +40196,7 @@ window.QUALIDADE_CANA_DATA = [
     "Responsável": "GABRIEL HENRIQUE MARTINS PEREIRA",
     "Quantidade de Cana": "BOM",
     "Observações": null,
-    "Fazenda": null,
-    "Observações ": null,
-    "Unnamed: 19": null
+    "Fazenda": null
   },
   {
     "ID": "3498680",
@@ -44045,9 +40217,7 @@ window.QUALIDADE_CANA_DATA = [
     "Responsável": "VITOR AMORIM RAMOS ",
     "Quantidade de Cana": "BOM",
     "Observações": null,
-    "Fazenda": null,
-    "Observações ": null,
-    "Unnamed: 19": null
+    "Fazenda": null
   },
   {
     "ID": "3498559",
@@ -44068,9 +40238,7 @@ window.QUALIDADE_CANA_DATA = [
     "Responsável": "FERNANDA DE SOUZA ",
     "Quantidade de Cana": "BOM",
     "Observações": null,
-    "Fazenda": null,
-    "Observações ": null,
-    "Unnamed: 19": null
+    "Fazenda": null
   },
   {
     "ID": "3498987",
@@ -44091,9 +40259,7 @@ window.QUALIDADE_CANA_DATA = [
     "Responsável": "GABRIEL HENRIQUE MARTINS PEREIRA",
     "Quantidade de Cana": "BOM",
     "Observações": null,
-    "Fazenda": null,
-    "Observações ": null,
-    "Unnamed: 19": null
+    "Fazenda": null
   },
   {
     "ID": "3498645",
@@ -44114,9 +40280,7 @@ window.QUALIDADE_CANA_DATA = [
     "Responsável": "VITOR AMORIM RAMOS ",
     "Quantidade de Cana": "BOM",
     "Observações": null,
-    "Fazenda": null,
-    "Observações ": null,
-    "Unnamed: 19": null
+    "Fazenda": null
   },
   {
     "ID": "3498985",
@@ -44137,9 +40301,7 @@ window.QUALIDADE_CANA_DATA = [
     "Responsável": "GABRIEL HENRIQUE MARTINS PEREIRA",
     "Quantidade de Cana": "BOM",
     "Observações": null,
-    "Fazenda": null,
-    "Observações ": null,
-    "Unnamed: 19": null
+    "Fazenda": null
   },
   {
     "ID": "3498980",
@@ -44160,9 +40322,7 @@ window.QUALIDADE_CANA_DATA = [
     "Responsável": "GABRIEL HENRIQUE MARTINS PEREIRA",
     "Quantidade de Cana": "BOM",
     "Observações": null,
-    "Fazenda": null,
-    "Observações ": null,
-    "Unnamed: 19": null
+    "Fazenda": null
   },
   {
     "ID": "3498629",
@@ -44183,9 +40343,7 @@ window.QUALIDADE_CANA_DATA = [
     "Responsável": "VITOR AMORIM RAMOS ",
     "Quantidade de Cana": "BOM",
     "Observações": null,
-    "Fazenda": null,
-    "Observações ": null,
-    "Unnamed: 19": null
+    "Fazenda": null
   },
   {
     "ID": "3498549",
@@ -44206,9 +40364,7 @@ window.QUALIDADE_CANA_DATA = [
     "Responsável": "FERNANDA DE SOUZA ",
     "Quantidade de Cana": "BOM",
     "Observações": null,
-    "Fazenda": null,
-    "Observações ": null,
-    "Unnamed: 19": null
+    "Fazenda": null
   },
   {
     "ID": "3498623",
@@ -44229,9 +40385,7 @@ window.QUALIDADE_CANA_DATA = [
     "Responsável": "VITOR AMORIM RAMOS ",
     "Quantidade de Cana": "BOM",
     "Observações": null,
-    "Fazenda": null,
-    "Observações ": null,
-    "Unnamed: 19": null
+    "Fazenda": null
   },
   {
     "ID": "3498618",
@@ -44252,9 +40406,7 @@ window.QUALIDADE_CANA_DATA = [
     "Responsável": "VITOR AMORIM RAMOS ",
     "Quantidade de Cana": "BOM",
     "Observações": null,
-    "Fazenda": null,
-    "Observações ": null,
-    "Unnamed: 19": null
+    "Fazenda": null
   },
   {
     "ID": "3496799",
@@ -44275,9 +40427,7 @@ window.QUALIDADE_CANA_DATA = [
     "Responsável": "MARCELO DE OLIVEIRA JUNIOR",
     "Quantidade de Cana": "BOM",
     "Observações": null,
-    "Fazenda": null,
-    "Observações ": null,
-    "Unnamed: 19": null
+    "Fazenda": null
   },
   {
     "ID": "3496794",
@@ -44298,9 +40448,7 @@ window.QUALIDADE_CANA_DATA = [
     "Responsável": "MARCELO DE OLIVEIRA JUNIOR",
     "Quantidade de Cana": "BOM",
     "Observações": null,
-    "Fazenda": null,
-    "Observações ": null,
-    "Unnamed: 19": null
+    "Fazenda": null
   },
   {
     "ID": "3496789",
@@ -44321,9 +40469,7 @@ window.QUALIDADE_CANA_DATA = [
     "Responsável": "MARCELO DE OLIVEIRA JUNIOR",
     "Quantidade de Cana": "BOM",
     "Observações": null,
-    "Fazenda": null,
-    "Observações ": null,
-    "Unnamed: 19": null
+    "Fazenda": null
   },
   {
     "ID": "3496784",
@@ -44344,9 +40490,7 @@ window.QUALIDADE_CANA_DATA = [
     "Responsável": "MARCELO DE OLIVEIRA JUNIOR",
     "Quantidade de Cana": "BOM",
     "Observações": null,
-    "Fazenda": null,
-    "Observações ": null,
-    "Unnamed: 19": null
+    "Fazenda": null
   },
   {
     "ID": "3496230",
@@ -44367,9 +40511,7 @@ window.QUALIDADE_CANA_DATA = [
     "Responsável": "GLEISON FELIPE BORGES DE MATOS",
     "Quantidade de Cana": "BOM",
     "Observações": null,
-    "Fazenda": null,
-    "Observações ": null,
-    "Unnamed: 19": null
+    "Fazenda": null
   },
   {
     "ID": "3496694",
@@ -44390,9 +40532,7 @@ window.QUALIDADE_CANA_DATA = [
     "Responsável": "FERNANDA DE SOUZA ",
     "Quantidade de Cana": "BOM",
     "Observações": null,
-    "Fazenda": null,
-    "Observações ": null,
-    "Unnamed: 19": null
+    "Fazenda": null
   },
   {
     "ID": "3496217",
@@ -44413,9 +40553,7 @@ window.QUALIDADE_CANA_DATA = [
     "Responsável": "GLEISON FELIPE BORGES DE MATOS",
     "Quantidade de Cana": "BOM",
     "Observações": null,
-    "Fazenda": null,
-    "Observações ": null,
-    "Unnamed: 19": null
+    "Fazenda": null
   },
   {
     "ID": "3496669",
@@ -44436,9 +40574,7 @@ window.QUALIDADE_CANA_DATA = [
     "Responsável": "FERNANDA DE SOUZA ",
     "Quantidade de Cana": "BOM",
     "Observações": null,
-    "Fazenda": null,
-    "Observações ": null,
-    "Unnamed: 19": null
+    "Fazenda": null
   },
   {
     "ID": "3496666",
@@ -44459,9 +40595,7 @@ window.QUALIDADE_CANA_DATA = [
     "Responsável": "FERNANDA DE SOUZA ",
     "Quantidade de Cana": "BOM",
     "Observações": null,
-    "Fazenda": null,
-    "Observações ": null,
-    "Unnamed: 19": null
+    "Fazenda": null
   },
   {
     "ID": "3495211",
@@ -44482,9 +40616,7 @@ window.QUALIDADE_CANA_DATA = [
     "Responsável": "MARCELO DE OLIVEIRA JUNIOR",
     "Quantidade de Cana": "BOM",
     "Observações": null,
-    "Fazenda": null,
-    "Observações ": null,
-    "Unnamed: 19": null
+    "Fazenda": null
   },
   {
     "ID": "3495210",
@@ -44505,9 +40637,7 @@ window.QUALIDADE_CANA_DATA = [
     "Responsável": "MARCELO DE OLIVEIRA JUNIOR",
     "Quantidade de Cana": "BOM",
     "Observações": null,
-    "Fazenda": null,
-    "Observações ": null,
-    "Unnamed: 19": null
+    "Fazenda": null
   },
   {
     "ID": "3495205",
@@ -44528,9 +40658,7 @@ window.QUALIDADE_CANA_DATA = [
     "Responsável": "MARCELO DE OLIVEIRA JUNIOR",
     "Quantidade de Cana": "BOM",
     "Observações": null,
-    "Fazenda": null,
-    "Observações ": null,
-    "Unnamed: 19": null
+    "Fazenda": null
   },
   {
     "ID": "3495198",
@@ -44551,9 +40679,7 @@ window.QUALIDADE_CANA_DATA = [
     "Responsável": "MARCELO DE OLIVEIRA JUNIOR",
     "Quantidade de Cana": "BOM",
     "Observações": null,
-    "Fazenda": null,
-    "Observações ": null,
-    "Unnamed: 19": null
+    "Fazenda": null
   },
   {
     "ID": "3494374",
@@ -44574,9 +40700,7 @@ window.QUALIDADE_CANA_DATA = [
     "Responsável": "GABRIEL HENRIQUE MARTINS PEREIRA",
     "Quantidade de Cana": "BOM",
     "Observações": null,
-    "Fazenda": null,
-    "Observações ": null,
-    "Unnamed: 19": null
+    "Fazenda": null
   },
   {
     "ID": "3494679",
@@ -44597,9 +40721,7 @@ window.QUALIDADE_CANA_DATA = [
     "Responsável": "NILDA CLAUDINO [2510716]",
     "Quantidade de Cana": "BOM",
     "Observações": null,
-    "Fazenda": null,
-    "Observações ": null,
-    "Unnamed: 19": null
+    "Fazenda": null
   },
   {
     "ID": "3494678",
@@ -44620,9 +40742,7 @@ window.QUALIDADE_CANA_DATA = [
     "Responsável": "NILDA CLAUDINO [2510716]",
     "Quantidade de Cana": "BOM",
     "Observações": null,
-    "Fazenda": null,
-    "Observações ": null,
-    "Unnamed: 19": null
+    "Fazenda": null
   },
   {
     "ID": "3494677",
@@ -44643,9 +40763,7 @@ window.QUALIDADE_CANA_DATA = [
     "Responsável": "NILDA CLAUDINO [2510716]",
     "Quantidade de Cana": "BOM",
     "Observações": null,
-    "Fazenda": null,
-    "Observações ": null,
-    "Unnamed: 19": null
+    "Fazenda": null
   },
   {
     "ID": "3494369",
@@ -44666,9 +40784,7 @@ window.QUALIDADE_CANA_DATA = [
     "Responsável": "GABRIEL HENRIQUE MARTINS PEREIRA",
     "Quantidade de Cana": "BOM",
     "Observações": null,
-    "Fazenda": null,
-    "Observações ": null,
-    "Unnamed: 19": null
+    "Fazenda": null
   },
   {
     "ID": "3494632",
@@ -44689,9 +40805,7 @@ window.QUALIDADE_CANA_DATA = [
     "Responsável": "FERNANDA DE SOUZA ",
     "Quantidade de Cana": "BOM",
     "Observações": null,
-    "Fazenda": null,
-    "Observações ": null,
-    "Unnamed: 19": null
+    "Fazenda": null
   },
   {
     "ID": "3494630",
@@ -44712,9 +40826,7 @@ window.QUALIDADE_CANA_DATA = [
     "Responsável": "FERNANDA DE SOUZA ",
     "Quantidade de Cana": "BOM",
     "Observações": null,
-    "Fazenda": null,
-    "Observações ": null,
-    "Unnamed: 19": null
+    "Fazenda": null
   },
   {
     "ID": "3494364",
@@ -44735,9 +40847,7 @@ window.QUALIDADE_CANA_DATA = [
     "Responsável": "GABRIEL HENRIQUE MARTINS PEREIRA",
     "Quantidade de Cana": "BOM",
     "Observações": null,
-    "Fazenda": null,
-    "Observações ": null,
-    "Unnamed: 19": null
+    "Fazenda": null
   },
   {
     "ID": "3494354",
@@ -44758,9 +40868,7 @@ window.QUALIDADE_CANA_DATA = [
     "Responsável": "GABRIEL HENRIQUE MARTINS PEREIRA",
     "Quantidade de Cana": "BOM",
     "Observações": null,
-    "Fazenda": null,
-    "Observações ": null,
-    "Unnamed: 19": null
+    "Fazenda": null
   },
   {
     "ID": "3494349",
@@ -44781,9 +40889,7 @@ window.QUALIDADE_CANA_DATA = [
     "Responsável": "GABRIEL HENRIQUE MARTINS PEREIRA",
     "Quantidade de Cana": "BOM",
     "Observações": null,
-    "Fazenda": null,
-    "Observações ": null,
-    "Unnamed: 19": null
+    "Fazenda": null
   },
   {
     "ID": "3495170",
@@ -44804,9 +40910,7 @@ window.QUALIDADE_CANA_DATA = [
     "Responsável": "MARCELO DE OLIVEIRA JUNIOR",
     "Quantidade de Cana": "BOM",
     "Observações": null,
-    "Fazenda": null,
-    "Observações ": null,
-    "Unnamed: 19": null
+    "Fazenda": null
   },
   {
     "ID": "3495166",
@@ -44827,9 +40931,7 @@ window.QUALIDADE_CANA_DATA = [
     "Responsável": "MARCELO DE OLIVEIRA JUNIOR",
     "Quantidade de Cana": "BOM",
     "Observações": null,
-    "Fazenda": null,
-    "Observações ": null,
-    "Unnamed: 19": null
+    "Fazenda": null
   },
   {
     "ID": "3495157",
@@ -44850,9 +40952,7 @@ window.QUALIDADE_CANA_DATA = [
     "Responsável": "MARCELO DE OLIVEIRA JUNIOR",
     "Quantidade de Cana": "BOM",
     "Observações": null,
-    "Fazenda": null,
-    "Observações ": null,
-    "Unnamed: 19": null
+    "Fazenda": null
   },
   {
     "ID": "3495152",
@@ -44873,9 +40973,7 @@ window.QUALIDADE_CANA_DATA = [
     "Responsável": "MARCELO DE OLIVEIRA JUNIOR",
     "Quantidade de Cana": "BOM",
     "Observações": null,
-    "Fazenda": null,
-    "Observações ": null,
-    "Unnamed: 19": null
+    "Fazenda": null
   },
   {
     "ID": "3492660",
@@ -44896,9 +40994,7 @@ window.QUALIDADE_CANA_DATA = [
     "Responsável": "VITOR AMORIM RAMOS ",
     "Quantidade de Cana": "BOM",
     "Observações": null,
-    "Fazenda": null,
-    "Observações ": null,
-    "Unnamed: 19": null
+    "Fazenda": null
   },
   {
     "ID": "3492659",
@@ -44919,9 +41015,7 @@ window.QUALIDADE_CANA_DATA = [
     "Responsável": "VITOR AMORIM RAMOS ",
     "Quantidade de Cana": "BOM",
     "Observações": null,
-    "Fazenda": null,
-    "Observações ": null,
-    "Unnamed: 19": null
+    "Fazenda": null
   },
   {
     "ID": "3492658",
@@ -44942,9 +41036,7 @@ window.QUALIDADE_CANA_DATA = [
     "Responsável": "VITOR AMORIM RAMOS ",
     "Quantidade de Cana": "BOM",
     "Observações": null,
-    "Fazenda": null,
-    "Observações ": null,
-    "Unnamed: 19": null
+    "Fazenda": null
   },
   {
     "ID": "3492657",
@@ -44965,9 +41057,7 @@ window.QUALIDADE_CANA_DATA = [
     "Responsável": "VITOR AMORIM RAMOS ",
     "Quantidade de Cana": "BOM",
     "Observações": null,
-    "Fazenda": null,
-    "Observações ": null,
-    "Unnamed: 19": null
+    "Fazenda": null
   },
   {
     "ID": "3492608",
@@ -44988,9 +41078,7 @@ window.QUALIDADE_CANA_DATA = [
     "Responsável": "VITOR AMORIM RAMOS ",
     "Quantidade de Cana": "BOM",
     "Observações": null,
-    "Fazenda": null,
-    "Observações ": null,
-    "Unnamed: 19": null
+    "Fazenda": null
   },
   {
     "ID": "3492599",
@@ -45011,9 +41099,7 @@ window.QUALIDADE_CANA_DATA = [
     "Responsável": "VITOR AMORIM RAMOS ",
     "Quantidade de Cana": "BOM",
     "Observações": null,
-    "Fazenda": null,
-    "Observações ": null,
-    "Unnamed: 19": null
+    "Fazenda": null
   },
   {
     "ID": "3492648",
@@ -45034,9 +41120,7 @@ window.QUALIDADE_CANA_DATA = [
     "Responsável": "VITOR AMORIM RAMOS ",
     "Quantidade de Cana": "BOM",
     "Observações": null,
-    "Fazenda": null,
-    "Observações ": null,
-    "Unnamed: 19": null
+    "Fazenda": null
   },
   {
     "ID": "3492522",
@@ -45057,9 +41141,7 @@ window.QUALIDADE_CANA_DATA = [
     "Responsável": "FERNANDA DE SOUZA ",
     "Quantidade de Cana": "BOM",
     "Observações": null,
-    "Fazenda": null,
-    "Observações ": null,
-    "Unnamed: 19": null
+    "Fazenda": null
   },
   {
     "ID": "3493093",
@@ -45080,9 +41162,7 @@ window.QUALIDADE_CANA_DATA = [
     "Responsável": "MARCELO DE OLIVEIRA JUNIOR",
     "Quantidade de Cana": "BOM",
     "Observações": null,
-    "Fazenda": null,
-    "Observações ": null,
-    "Unnamed: 19": null
+    "Fazenda": null
   },
   {
     "ID": "3492517",
@@ -45103,9 +41183,7 @@ window.QUALIDADE_CANA_DATA = [
     "Responsável": "FERNANDA DE SOUZA ",
     "Quantidade de Cana": "BOM",
     "Observações": null,
-    "Fazenda": null,
-    "Observações ": null,
-    "Unnamed: 19": null
+    "Fazenda": null
   },
   {
     "ID": "3493088",
@@ -45126,9 +41204,7 @@ window.QUALIDADE_CANA_DATA = [
     "Responsável": "MARCELO DE OLIVEIRA JUNIOR",
     "Quantidade de Cana": "BOM",
     "Observações": null,
-    "Fazenda": null,
-    "Observações ": null,
-    "Unnamed: 19": null
+    "Fazenda": null
   },
   {
     "ID": "3492217",
@@ -45149,9 +41225,7 @@ window.QUALIDADE_CANA_DATA = [
     "Responsável": "MICHELI DE SOUZA SANTOS  ",
     "Quantidade de Cana": "BOM",
     "Observações": null,
-    "Fazenda": null,
-    "Observações ": null,
-    "Unnamed: 19": null
+    "Fazenda": null
   },
   {
     "ID": "3493083",
@@ -45172,9 +41246,7 @@ window.QUALIDADE_CANA_DATA = [
     "Responsável": "MARCELO DE OLIVEIRA JUNIOR",
     "Quantidade de Cana": "BOM",
     "Observações": null,
-    "Fazenda": null,
-    "Observações ": null,
-    "Unnamed: 19": null
+    "Fazenda": null
   },
   {
     "ID": "3492212",
@@ -45195,9 +41267,7 @@ window.QUALIDADE_CANA_DATA = [
     "Responsável": "MICHELI DE SOUZA SANTOS  ",
     "Quantidade de Cana": "BOM",
     "Observações": null,
-    "Fazenda": null,
-    "Observações ": null,
-    "Unnamed: 19": null
+    "Fazenda": null
   },
   {
     "ID": "3492504",
@@ -45218,9 +41288,7 @@ window.QUALIDADE_CANA_DATA = [
     "Responsável": "FERNANDA DE SOUZA ",
     "Quantidade de Cana": "BOM",
     "Observações": null,
-    "Fazenda": null,
-    "Observações ": null,
-    "Unnamed: 19": null
+    "Fazenda": null
   },
   {
     "ID": "3492502",
@@ -45241,9 +41309,7 @@ window.QUALIDADE_CANA_DATA = [
     "Responsável": "FERNANDA DE SOUZA ",
     "Quantidade de Cana": "BOM",
     "Observações": null,
-    "Fazenda": null,
-    "Observações ": null,
-    "Unnamed: 19": null
+    "Fazenda": null
   },
   {
     "ID": "3492079",
@@ -45264,9 +41330,7 @@ window.QUALIDADE_CANA_DATA = [
     "Responsável": "GLEISON FELIPE BORGES DE MATOS",
     "Quantidade de Cana": "BOM",
     "Observações": null,
-    "Fazenda": null,
-    "Observações ": null,
-    "Unnamed: 19": null
+    "Fazenda": null
   },
   {
     "ID": "3492077",
@@ -45287,9 +41351,7 @@ window.QUALIDADE_CANA_DATA = [
     "Responsável": "GLEISON FELIPE BORGES DE MATOS",
     "Quantidade de Cana": "BOM",
     "Observações": null,
-    "Fazenda": null,
-    "Observações ": null,
-    "Unnamed: 19": null
+    "Fazenda": null
   },
   {
     "ID": "3492449",
@@ -45310,9 +41372,7 @@ window.QUALIDADE_CANA_DATA = [
     "Responsável": "GABRIEL HENRIQUE MARTINS PEREIRA",
     "Quantidade de Cana": "BOM",
     "Observações": null,
-    "Fazenda": null,
-    "Observações ": null,
-    "Unnamed: 19": null
+    "Fazenda": null
   },
   {
     "ID": "3492448",
@@ -45333,9 +41393,7 @@ window.QUALIDADE_CANA_DATA = [
     "Responsável": "GABRIEL HENRIQUE MARTINS PEREIRA",
     "Quantidade de Cana": "BOM",
     "Observações": null,
-    "Fazenda": null,
-    "Observações ": null,
-    "Unnamed: 19": null
+    "Fazenda": null
   },
   {
     "ID": "3493069",
@@ -45356,9 +41414,7 @@ window.QUALIDADE_CANA_DATA = [
     "Responsável": "MARCELO DE OLIVEIRA JUNIOR",
     "Quantidade de Cana": "BOM",
     "Observações": null,
-    "Fazenda": null,
-    "Observações ": null,
-    "Unnamed: 19": null
+    "Fazenda": null
   },
   {
     "ID": "3492447",
@@ -45379,9 +41435,7 @@ window.QUALIDADE_CANA_DATA = [
     "Responsável": "GABRIEL HENRIQUE MARTINS PEREIRA",
     "Quantidade de Cana": "BOM",
     "Observações": null,
-    "Fazenda": null,
-    "Observações ": null,
-    "Unnamed: 19": null
+    "Fazenda": null
   },
   {
     "ID": "3492446",
@@ -45402,9 +41456,7 @@ window.QUALIDADE_CANA_DATA = [
     "Responsável": "GABRIEL HENRIQUE MARTINS PEREIRA",
     "Quantidade de Cana": "BOM",
     "Observações": null,
-    "Fazenda": null,
-    "Observações ": null,
-    "Unnamed: 19": null
+    "Fazenda": null
   },
   {
     "ID": "3492445",
@@ -45425,9 +41477,7 @@ window.QUALIDADE_CANA_DATA = [
     "Responsável": "GABRIEL HENRIQUE MARTINS PEREIRA",
     "Quantidade de Cana": "BOM",
     "Observações": null,
-    "Fazenda": null,
-    "Observações ": null,
-    "Unnamed: 19": null
+    "Fazenda": null
   },
   {
     "ID": "3492588",
@@ -45448,9 +41498,7 @@ window.QUALIDADE_CANA_DATA = [
     "Responsável": "REGINALDO DA SILVA GOMES ",
     "Quantidade de Cana": "BOM",
     "Observações": null,
-    "Fazenda": null,
-    "Observações ": null,
-    "Unnamed: 19": null
+    "Fazenda": null
   },
   {
     "ID": "3493068",
@@ -45471,9 +41519,7 @@ window.QUALIDADE_CANA_DATA = [
     "Responsável": "MARCELO DE OLIVEIRA JUNIOR",
     "Quantidade de Cana": "BOM",
     "Observações": null,
-    "Fazenda": null,
-    "Observações ": null,
-    "Unnamed: 19": null
+    "Fazenda": null
   },
   {
     "ID": "3492583",
@@ -45494,9 +41540,7 @@ window.QUALIDADE_CANA_DATA = [
     "Responsável": "REGINALDO DA SILVA GOMES ",
     "Quantidade de Cana": "BOM",
     "Observações": null,
-    "Fazenda": null,
-    "Observações ": null,
-    "Unnamed: 19": null
+    "Fazenda": null
   },
   {
     "ID": "3493059",
@@ -45517,9 +41561,7 @@ window.QUALIDADE_CANA_DATA = [
     "Responsável": "MARCELO DE OLIVEIRA JUNIOR",
     "Quantidade de Cana": "BOM",
     "Observações": null,
-    "Fazenda": null,
-    "Observações ": null,
-    "Unnamed: 19": null
+    "Fazenda": null
   },
   {
     "ID": "3492581",
@@ -45540,9 +41582,7 @@ window.QUALIDADE_CANA_DATA = [
     "Responsável": "REGINALDO DA SILVA GOMES ",
     "Quantidade de Cana": "BOM",
     "Observações": null,
-    "Fazenda": null,
-    "Observações ": null,
-    "Unnamed: 19": null
+    "Fazenda": null
   },
   {
     "ID": "3492375",
@@ -45563,9 +41603,7 @@ window.QUALIDADE_CANA_DATA = [
     "Responsável": "NILDA CLAUDINO [2510716]",
     "Quantidade de Cana": "BOM",
     "Observações": null,
-    "Fazenda": null,
-    "Observações ": null,
-    "Unnamed: 19": null
+    "Fazenda": null
   },
   {
     "ID": "3492374",
@@ -45586,9 +41624,7 @@ window.QUALIDADE_CANA_DATA = [
     "Responsável": "NILDA CLAUDINO [2510716]",
     "Quantidade de Cana": "BOM",
     "Observações": null,
-    "Fazenda": null,
-    "Observações ": null,
-    "Unnamed: 19": null
+    "Fazenda": null
   },
   {
     "ID": "3492373",
@@ -45609,9 +41645,7 @@ window.QUALIDADE_CANA_DATA = [
     "Responsável": "NILDA CLAUDINO [2510716]",
     "Quantidade de Cana": "BOM",
     "Observações": null,
-    "Fazenda": null,
-    "Observações ": null,
-    "Unnamed: 19": null
+    "Fazenda": null
   },
   {
     "ID": "3491276",
@@ -45632,9 +41666,7 @@ window.QUALIDADE_CANA_DATA = [
     "Responsável": "MARCELO DE OLIVEIRA JUNIOR",
     "Quantidade de Cana": "BOM",
     "Observações": null,
-    "Fazenda": null,
-    "Observações ": null,
-    "Unnamed: 19": null
+    "Fazenda": null
   },
   {
     "ID": "3491267",
@@ -45655,9 +41687,7 @@ window.QUALIDADE_CANA_DATA = [
     "Responsável": "MARCELO DE OLIVEIRA JUNIOR",
     "Quantidade de Cana": "BOM",
     "Observações": null,
-    "Fazenda": null,
-    "Observações ": null,
-    "Unnamed: 19": null
+    "Fazenda": null
   },
   {
     "ID": "3491266",
@@ -45678,9 +41708,7 @@ window.QUALIDADE_CANA_DATA = [
     "Responsável": "MARCELO DE OLIVEIRA JUNIOR",
     "Quantidade de Cana": "BOM",
     "Observações": null,
-    "Fazenda": null,
-    "Observações ": null,
-    "Unnamed: 19": null
+    "Fazenda": null
   },
   {
     "ID": "3492573",
@@ -45701,9 +41729,7 @@ window.QUALIDADE_CANA_DATA = [
     "Responsável": "REGINALDO DA SILVA GOMES ",
     "Quantidade de Cana": "BOM",
     "Observações": null,
-    "Fazenda": null,
-    "Observações ": null,
-    "Unnamed: 19": null
+    "Fazenda": null
   },
   {
     "ID": "3470090",
@@ -45724,9 +41750,7 @@ window.QUALIDADE_CANA_DATA = [
     "Responsável": "GLEISON FELIPE BORGES DE MATOS",
     "Quantidade de Cana": "BOM",
     "Observações": null,
-    "Fazenda": null,
-    "Observações ": null,
-    "Unnamed: 19": null
+    "Fazenda": null
   },
   {
     "ID": "3492568",
@@ -45747,9 +41771,7 @@ window.QUALIDADE_CANA_DATA = [
     "Responsável": "REGINALDO DA SILVA GOMES ",
     "Quantidade de Cana": "BOM",
     "Observações": null,
-    "Fazenda": null,
-    "Observações ": null,
-    "Unnamed: 19": null
+    "Fazenda": null
   },
   {
     "ID": "3492565",
@@ -45770,9 +41792,7 @@ window.QUALIDADE_CANA_DATA = [
     "Responsável": "REGINALDO DA SILVA GOMES ",
     "Quantidade de Cana": "BOM",
     "Observações": null,
-    "Fazenda": null,
-    "Observações ": null,
-    "Unnamed: 19": null
+    "Fazenda": null
   },
   {
     "ID": "3470082",
@@ -45793,9 +41813,7 @@ window.QUALIDADE_CANA_DATA = [
     "Responsável": "GLEISON FELIPE BORGES DE MATOS",
     "Quantidade de Cana": "BOM",
     "Observações": null,
-    "Fazenda": null,
-    "Observações ": null,
-    "Unnamed: 19": null
+    "Fazenda": null
   },
   {
     "ID": "3470081",
@@ -45816,9 +41834,7 @@ window.QUALIDADE_CANA_DATA = [
     "Responsável": "GLEISON FELIPE BORGES DE MATOS",
     "Quantidade de Cana": "BOM",
     "Observações": null,
-    "Fazenda": null,
-    "Observações ": null,
-    "Unnamed: 19": null
+    "Fazenda": null
   },
   {
     "ID": "3470037",
@@ -45839,9 +41855,7 @@ window.QUALIDADE_CANA_DATA = [
     "Responsável": "VITOR AMORIM RAMOS ",
     "Quantidade de Cana": "BOM",
     "Observações": null,
-    "Fazenda": null,
-    "Observações ": null,
-    "Unnamed: 19": null
+    "Fazenda": null
   },
   {
     "ID": "3470032",
@@ -45862,9 +41876,7 @@ window.QUALIDADE_CANA_DATA = [
     "Responsável": "VITOR AMORIM RAMOS ",
     "Quantidade de Cana": "BOM",
     "Observações": null,
-    "Fazenda": null,
-    "Observações ": null,
-    "Unnamed: 19": null
+    "Fazenda": null
   },
   {
     "ID": "3470027",
@@ -45885,9 +41897,7 @@ window.QUALIDADE_CANA_DATA = [
     "Responsável": "VITOR AMORIM RAMOS ",
     "Quantidade de Cana": "BOM",
     "Observações": null,
-    "Fazenda": null,
-    "Observações ": null,
-    "Unnamed: 19": null
+    "Fazenda": null
   },
   {
     "ID": "3490176",
@@ -45908,9 +41918,7 @@ window.QUALIDADE_CANA_DATA = [
     "Responsável": "FERNANDA DE SOUZA ",
     "Quantidade de Cana": "BOM",
     "Observações": null,
-    "Fazenda": null,
-    "Observações ": null,
-    "Unnamed: 19": null
+    "Fazenda": null
   },
   {
     "ID": "3491243",
@@ -45931,9 +41939,7 @@ window.QUALIDADE_CANA_DATA = [
     "Responsável": "MARCELO DE OLIVEIRA JUNIOR",
     "Quantidade de Cana": "BOM",
     "Observações": null,
-    "Fazenda": null,
-    "Observações ": null,
-    "Unnamed: 19": null
+    "Fazenda": null
   },
   {
     "ID": "3470022",
@@ -45954,9 +41960,7 @@ window.QUALIDADE_CANA_DATA = [
     "Responsável": "VITOR AMORIM RAMOS ",
     "Quantidade de Cana": "BOM",
     "Observações": null,
-    "Fazenda": null,
-    "Observações ": null,
-    "Unnamed: 19": null
+    "Fazenda": null
   },
   {
     "ID": "3491238",
@@ -45977,9 +41981,7 @@ window.QUALIDADE_CANA_DATA = [
     "Responsável": "MARCELO DE OLIVEIRA JUNIOR",
     "Quantidade de Cana": "BOM",
     "Observações": null,
-    "Fazenda": null,
-    "Observações ": null,
-    "Unnamed: 19": null
+    "Fazenda": null
   },
   {
     "ID": "3491233",
@@ -46000,9 +42002,7 @@ window.QUALIDADE_CANA_DATA = [
     "Responsável": "MARCELO DE OLIVEIRA JUNIOR",
     "Quantidade de Cana": "BOM",
     "Observações": null,
-    "Fazenda": null,
-    "Observações ": null,
-    "Unnamed: 19": null
+    "Fazenda": null
   },
   {
     "ID": "3490319",
@@ -46023,9 +42023,7 @@ window.QUALIDADE_CANA_DATA = [
     "Responsável": "GABRIEL HENRIQUE MARTINS PEREIRA",
     "Quantidade de Cana": "BOM",
     "Observações": null,
-    "Fazenda": null,
-    "Observações ": null,
-    "Unnamed: 19": null
+    "Fazenda": null
   },
   {
     "ID": "3490318",
@@ -46046,9 +42044,7 @@ window.QUALIDADE_CANA_DATA = [
     "Responsável": "GABRIEL HENRIQUE MARTINS PEREIRA",
     "Quantidade de Cana": "BOM",
     "Observações": null,
-    "Fazenda": null,
-    "Observações ": null,
-    "Unnamed: 19": null
+    "Fazenda": null
   },
   {
     "ID": "3470017",
@@ -46069,9 +42065,7 @@ window.QUALIDADE_CANA_DATA = [
     "Responsável": "VITOR AMORIM RAMOS ",
     "Quantidade de Cana": "BOM",
     "Observações": null,
-    "Fazenda": null,
-    "Observações ": null,
-    "Unnamed: 19": null
+    "Fazenda": null
   },
   {
     "ID": "3490317",
@@ -46092,9 +42086,7 @@ window.QUALIDADE_CANA_DATA = [
     "Responsável": "GABRIEL HENRIQUE MARTINS PEREIRA",
     "Quantidade de Cana": "BOM",
     "Observações": null,
-    "Fazenda": null,
-    "Observações ": null,
-    "Unnamed: 19": null
+    "Fazenda": null
   },
   {
     "ID": "3490316",
@@ -46115,9 +42107,7 @@ window.QUALIDADE_CANA_DATA = [
     "Responsável": "GABRIEL HENRIQUE MARTINS PEREIRA",
     "Quantidade de Cana": "BOM",
     "Observações": null,
-    "Fazenda": null,
-    "Observações ": null,
-    "Unnamed: 19": null
+    "Fazenda": null
   },
   {
     "ID": "3490315",
@@ -46138,9 +42128,7 @@ window.QUALIDADE_CANA_DATA = [
     "Responsável": "GABRIEL HENRIQUE MARTINS PEREIRA",
     "Quantidade de Cana": "BOM",
     "Observações": null,
-    "Fazenda": null,
-    "Observações ": null,
-    "Unnamed: 19": null
+    "Fazenda": null
   },
   {
     "ID": "3491224",
@@ -46161,9 +42149,7 @@ window.QUALIDADE_CANA_DATA = [
     "Responsável": "MARCELO DE OLIVEIRA JUNIOR",
     "Quantidade de Cana": "BOM",
     "Observações": null,
-    "Fazenda": null,
-    "Observações ": null,
-    "Unnamed: 19": null
+    "Fazenda": null
   },
   {
     "ID": "3490168",
@@ -46184,9 +42170,7 @@ window.QUALIDADE_CANA_DATA = [
     "Responsável": "FERNANDA DE SOUZA ",
     "Quantidade de Cana": "BOM",
     "Observações": null,
-    "Fazenda": null,
-    "Observações ": null,
-    "Unnamed: 19": null
+    "Fazenda": null
   },
   {
     "ID": "3491219",
@@ -46207,9 +42191,7 @@ window.QUALIDADE_CANA_DATA = [
     "Responsável": "MARCELO DE OLIVEIRA JUNIOR",
     "Quantidade de Cana": "BOM",
     "Observações": null,
-    "Fazenda": null,
-    "Observações ": null,
-    "Unnamed: 19": null
+    "Fazenda": null
   },
   {
     "ID": "3490163",
@@ -46230,9 +42212,7 @@ window.QUALIDADE_CANA_DATA = [
     "Responsável": "FERNANDA DE SOUZA ",
     "Quantidade de Cana": "BOM",
     "Observações": null,
-    "Fazenda": null,
-    "Observações ": null,
-    "Unnamed: 19": null
+    "Fazenda": null
   },
   {
     "ID": "3469977",
@@ -46253,9 +42233,7 @@ window.QUALIDADE_CANA_DATA = [
     "Responsável": "VITOR AMORIM RAMOS ",
     "Quantidade de Cana": "BOM",
     "Observações": null,
-    "Fazenda": null,
-    "Observações ": null,
-    "Unnamed: 19": null
+    "Fazenda": null
   },
   {
     "ID": "3469970",
@@ -46276,9 +42254,7 @@ window.QUALIDADE_CANA_DATA = [
     "Responsável": "VITOR AMORIM RAMOS ",
     "Quantidade de Cana": "BOM",
     "Observações": null,
-    "Fazenda": null,
-    "Observações ": null,
-    "Unnamed: 19": null
+    "Fazenda": null
   },
   {
     "ID": "3469964",
@@ -46299,9 +42275,7 @@ window.QUALIDADE_CANA_DATA = [
     "Responsável": "VITOR AMORIM RAMOS ",
     "Quantidade de Cana": "BOM",
     "Observações": null,
-    "Fazenda": null,
-    "Observações ": null,
-    "Unnamed: 19": null
+    "Fazenda": null
   },
   {
     "ID": "3469959",
@@ -46322,9 +42296,7 @@ window.QUALIDADE_CANA_DATA = [
     "Responsável": "VITOR AMORIM RAMOS ",
     "Quantidade de Cana": "BOM",
     "Observações": null,
-    "Fazenda": null,
-    "Observações ": null,
-    "Unnamed: 19": null
+    "Fazenda": null
   },
   {
     "ID": "3468199",
@@ -46345,9 +42317,7 @@ window.QUALIDADE_CANA_DATA = [
     "Responsável": "FERNANDA DE SOUZA ",
     "Quantidade de Cana": "BOM",
     "Observações": null,
-    "Fazenda": null,
-    "Observações ": null,
-    "Unnamed: 19": null
+    "Fazenda": null
   },
   {
     "ID": "3468234",
@@ -46368,9 +42338,7 @@ window.QUALIDADE_CANA_DATA = [
     "Responsável": "MARCELO DE OLIVEIRA JUNIOR",
     "Quantidade de Cana": "BOM",
     "Observações": null,
-    "Fazenda": null,
-    "Observações ": null,
-    "Unnamed: 19": null
+    "Fazenda": null
   },
   {
     "ID": "3468081",
@@ -46391,9 +42359,7 @@ window.QUALIDADE_CANA_DATA = [
     "Responsável": "VITOR AMORIM RAMOS ",
     "Quantidade de Cana": "BOM",
     "Observações": null,
-    "Fazenda": null,
-    "Observações ": null,
-    "Unnamed: 19": null
+    "Fazenda": null
   },
   {
     "ID": "3468012",
@@ -46414,9 +42380,7 @@ window.QUALIDADE_CANA_DATA = [
     "Responsável": "FERNANDA DE SOUZA ",
     "Quantidade de Cana": "BOM",
     "Observações": null,
-    "Fazenda": null,
-    "Observações ": null,
-    "Unnamed: 19": null
+    "Fazenda": null
   },
   {
     "ID": "3468077",
@@ -46437,9 +42401,7 @@ window.QUALIDADE_CANA_DATA = [
     "Responsável": "VITOR AMORIM RAMOS ",
     "Quantidade de Cana": "BOM",
     "Observações": null,
-    "Fazenda": null,
-    "Observações ": null,
-    "Unnamed: 19": null
+    "Fazenda": null
   },
   {
     "ID": "3468071",
@@ -46460,9 +42422,7 @@ window.QUALIDADE_CANA_DATA = [
     "Responsável": "VITOR AMORIM RAMOS ",
     "Quantidade de Cana": "BOM",
     "Observações": null,
-    "Fazenda": null,
-    "Observações ": null,
-    "Unnamed: 19": null
+    "Fazenda": null
   },
   {
     "ID": "3468007",
@@ -46483,9 +42443,7 @@ window.QUALIDADE_CANA_DATA = [
     "Responsável": "FERNANDA DE SOUZA ",
     "Quantidade de Cana": "BOM",
     "Observações": null,
-    "Fazenda": null,
-    "Observações ": null,
-    "Unnamed: 19": null
+    "Fazenda": null
   },
   {
     "ID": "3468036",
@@ -46506,9 +42464,7 @@ window.QUALIDADE_CANA_DATA = [
     "Responsável": "VITOR AMORIM RAMOS ",
     "Quantidade de Cana": "BOM",
     "Observações": null,
-    "Fazenda": null,
-    "Observações ": null,
-    "Unnamed: 19": null
+    "Fazenda": null
   },
   {
     "ID": "3468031",
@@ -46529,9 +42485,7 @@ window.QUALIDADE_CANA_DATA = [
     "Responsável": "VITOR AMORIM RAMOS ",
     "Quantidade de Cana": "BOM",
     "Observações": null,
-    "Fazenda": null,
-    "Observações ": null,
-    "Unnamed: 19": null
+    "Fazenda": null
   },
   {
     "ID": "3467735",
@@ -46552,9 +42506,7 @@ window.QUALIDADE_CANA_DATA = [
     "Responsável": "VITOR AMORIM RAMOS ",
     "Quantidade de Cana": "BOM",
     "Observações": null,
-    "Fazenda": null,
-    "Observações ": null,
-    "Unnamed: 19": null
+    "Fazenda": null
   },
   {
     "ID": "3467730",
@@ -46575,9 +42527,7 @@ window.QUALIDADE_CANA_DATA = [
     "Responsável": "VITOR AMORIM RAMOS ",
     "Quantidade de Cana": "BOM",
     "Observações": null,
-    "Fazenda": null,
-    "Observações ": null,
-    "Unnamed: 19": null
+    "Fazenda": null
   },
   {
     "ID": "3467725",
@@ -46598,9 +42548,7 @@ window.QUALIDADE_CANA_DATA = [
     "Responsável": "VITOR AMORIM RAMOS ",
     "Quantidade de Cana": "BOM",
     "Observações": null,
-    "Fazenda": null,
-    "Observações ": null,
-    "Unnamed: 19": null
+    "Fazenda": null
   },
   {
     "ID": "3467664",
@@ -46621,9 +42569,7 @@ window.QUALIDADE_CANA_DATA = [
     "Responsável": "FERNANDA DE SOUZA ",
     "Quantidade de Cana": "BOM",
     "Observações": null,
-    "Fazenda": null,
-    "Observações ": null,
-    "Unnamed: 19": null
+    "Fazenda": null
   },
   {
     "ID": "3467608",
@@ -46644,9 +42590,7 @@ window.QUALIDADE_CANA_DATA = [
     "Responsável": "REGINALDO DA SILVA GOMES ",
     "Quantidade de Cana": "BOM",
     "Observações": null,
-    "Fazenda": null,
-    "Observações ": null,
-    "Unnamed: 19": null
+    "Fazenda": null
   },
   {
     "ID": "3467603",
@@ -46667,9 +42611,7 @@ window.QUALIDADE_CANA_DATA = [
     "Responsável": "REGINALDO DA SILVA GOMES ",
     "Quantidade de Cana": "BOM",
     "Observações": null,
-    "Fazenda": null,
-    "Observações ": null,
-    "Unnamed: 19": null
+    "Fazenda": null
   },
   {
     "ID": "3467598",
@@ -46690,9 +42632,7 @@ window.QUALIDADE_CANA_DATA = [
     "Responsável": "REGINALDO DA SILVA GOMES ",
     "Quantidade de Cana": "BOM",
     "Observações": null,
-    "Fazenda": null,
-    "Observações ": null,
-    "Unnamed: 19": null
+    "Fazenda": null
   },
   {
     "ID": "3468168",
@@ -46713,9 +42653,7 @@ window.QUALIDADE_CANA_DATA = [
     "Responsável": "GABRIEL HENRIQUE MARTINS PEREIRA",
     "Quantidade de Cana": "BOM",
     "Observações": null,
-    "Fazenda": null,
-    "Observações ": null,
-    "Unnamed: 19": null
+    "Fazenda": null
   },
   {
     "ID": "3468059",
@@ -46736,9 +42674,7 @@ window.QUALIDADE_CANA_DATA = [
     "Responsável": "MICHELI DE SOUZA SANTOS  ",
     "Quantidade de Cana": "BOM",
     "Observações": null,
-    "Fazenda": null,
-    "Observações ": null,
-    "Unnamed: 19": null
+    "Fazenda": null
   },
   {
     "ID": "3467710",
@@ -46759,9 +42695,7 @@ window.QUALIDADE_CANA_DATA = [
     "Responsável": "VITOR AMORIM RAMOS ",
     "Quantidade de Cana": "BOM",
     "Observações": null,
-    "Fazenda": null,
-    "Observações ": null,
-    "Unnamed: 19": null
+    "Fazenda": null
   },
   {
     "ID": "3468101",
@@ -46782,9 +42716,7 @@ window.QUALIDADE_CANA_DATA = [
     "Responsável": "NILDA CLAUDINO [2510716]",
     "Quantidade de Cana": "BOM",
     "Observações": null,
-    "Fazenda": null,
-    "Observações ": null,
-    "Unnamed: 19": null
+    "Fazenda": null
   },
   {
     "ID": "3468053",
@@ -46805,9 +42737,7 @@ window.QUALIDADE_CANA_DATA = [
     "Responsável": "MICHELI DE SOUZA SANTOS  ",
     "Quantidade de Cana": "BOM",
     "Observações": null,
-    "Fazenda": null,
-    "Observações ": null,
-    "Unnamed: 19": null
+    "Fazenda": null
   },
   {
     "ID": "3468100",
@@ -46828,9 +42758,7 @@ window.QUALIDADE_CANA_DATA = [
     "Responsável": "NILDA CLAUDINO [2510716]",
     "Quantidade de Cana": "BOM",
     "Observações": null,
-    "Fazenda": null,
-    "Observações ": null,
-    "Unnamed: 19": null
+    "Fazenda": null
   },
   {
     "ID": "3468099",
@@ -46851,9 +42779,7 @@ window.QUALIDADE_CANA_DATA = [
     "Responsável": "NILDA CLAUDINO [2510716]",
     "Quantidade de Cana": "BOM",
     "Observações": null,
-    "Fazenda": null,
-    "Observações ": null,
-    "Unnamed: 19": null
+    "Fazenda": null
   },
   {
     "ID": "3467594",
@@ -46874,9 +42800,7 @@ window.QUALIDADE_CANA_DATA = [
     "Responsável": "MARCELO DE OLIVEIRA JUNIOR",
     "Quantidade de Cana": "BOM",
     "Observações": null,
-    "Fazenda": null,
-    "Observações ": null,
-    "Unnamed: 19": null
+    "Fazenda": null
   },
   {
     "ID": "3467657",
@@ -46897,9 +42821,7 @@ window.QUALIDADE_CANA_DATA = [
     "Responsável": "FERNANDA DE SOUZA ",
     "Quantidade de Cana": "BOM",
     "Observações": null,
-    "Fazenda": null,
-    "Observações ": null,
-    "Unnamed: 19": null
+    "Fazenda": null
   },
   {
     "ID": "3467703",
@@ -46920,9 +42842,7 @@ window.QUALIDADE_CANA_DATA = [
     "Responsável": "VITOR AMORIM RAMOS ",
     "Quantidade de Cana": "BOM",
     "Observações": null,
-    "Fazenda": null,
-    "Observações ": null,
-    "Unnamed: 19": null
+    "Fazenda": null
   },
   {
     "ID": "3468048",
@@ -46943,9 +42863,7 @@ window.QUALIDADE_CANA_DATA = [
     "Responsável": "MICHELI DE SOUZA SANTOS  ",
     "Quantidade de Cana": "BOM",
     "Observações": null,
-    "Fazenda": null,
-    "Observações ": null,
-    "Unnamed: 19": null
+    "Fazenda": null
   },
   {
     "ID": "3468151",
@@ -46966,9 +42884,7 @@ window.QUALIDADE_CANA_DATA = [
     "Responsável": "GABRIEL HENRIQUE MARTINS PEREIRA",
     "Quantidade de Cana": "BOM",
     "Observações": null,
-    "Fazenda": null,
-    "Observações ": null,
-    "Unnamed: 19": null
+    "Fazenda": null
   },
   {
     "ID": "3468150",
@@ -46989,9 +42905,7 @@ window.QUALIDADE_CANA_DATA = [
     "Responsável": "GABRIEL HENRIQUE MARTINS PEREIRA",
     "Quantidade de Cana": "BOM",
     "Observações": null,
-    "Fazenda": null,
-    "Observações ": null,
-    "Unnamed: 19": null
+    "Fazenda": null
   },
   {
     "ID": "3468149",
@@ -47012,9 +42926,7 @@ window.QUALIDADE_CANA_DATA = [
     "Responsável": "GABRIEL HENRIQUE MARTINS PEREIRA",
     "Quantidade de Cana": "BOM",
     "Observações": null,
-    "Fazenda": null,
-    "Observações ": null,
-    "Unnamed: 19": null
+    "Fazenda": null
   },
   {
     "ID": "3467579",
@@ -47035,9 +42947,7 @@ window.QUALIDADE_CANA_DATA = [
     "Responsável": "MARCELO DE OLIVEIRA JUNIOR",
     "Quantidade de Cana": "BOM",
     "Observações": null,
-    "Fazenda": null,
-    "Observações ": null,
-    "Unnamed: 19": null
+    "Fazenda": null
   },
   {
     "ID": "3468148",
@@ -47058,9 +42968,7 @@ window.QUALIDADE_CANA_DATA = [
     "Responsável": "GABRIEL HENRIQUE MARTINS PEREIRA",
     "Quantidade de Cana": "BOM",
     "Observações": null,
-    "Fazenda": null,
-    "Observações ": null,
-    "Unnamed: 19": null
+    "Fazenda": null
   },
   {
     "ID": "3467750",
@@ -47081,9 +42989,7 @@ window.QUALIDADE_CANA_DATA = [
     "Responsável": "VITOR AMORIM RAMOS ",
     "Quantidade de Cana": "BOM",
     "Observações": null,
-    "Fazenda": null,
-    "Observações ": null,
-    "Unnamed: 19": null
+    "Fazenda": null
   },
   {
     "ID": "3467667",
@@ -47104,9 +43010,7 @@ window.QUALIDADE_CANA_DATA = [
     "Responsável": "MICHELI DE SOUZA SANTOS  ",
     "Quantidade de Cana": "BOM",
     "Observações": null,
-    "Fazenda": null,
-    "Observações ": null,
-    "Unnamed: 19": null
+    "Fazenda": null
   },
   {
     "ID": "3467687",
@@ -47127,9 +43031,7 @@ window.QUALIDADE_CANA_DATA = [
     "Responsável": "VITOR AMORIM RAMOS ",
     "Quantidade de Cana": "BOM",
     "Observações": null,
-    "Fazenda": null,
-    "Observações ": null,
-    "Unnamed: 19": null
+    "Fazenda": null
   },
   {
     "ID": "3467638",
@@ -47150,9 +43052,7 @@ window.QUALIDADE_CANA_DATA = [
     "Responsável": "MICHELI DE SOUZA SANTOS  ",
     "Quantidade de Cana": "BOM",
     "Observações": null,
-    "Fazenda": null,
-    "Observações ": null,
-    "Unnamed: 19": null
+    "Fazenda": null
   },
   {
     "ID": "3467650",
@@ -47173,9 +43073,7 @@ window.QUALIDADE_CANA_DATA = [
     "Responsável": "FERNANDA DE SOUZA ",
     "Quantidade de Cana": "BOM",
     "Observações": null,
-    "Fazenda": null,
-    "Observações ": null,
-    "Unnamed: 19": null
+    "Fazenda": null
   },
   {
     "ID": "3467572",
@@ -47196,9 +43094,7 @@ window.QUALIDADE_CANA_DATA = [
     "Responsável": "MARCELO DE OLIVEIRA JUNIOR",
     "Quantidade de Cana": "BOM",
     "Observações": null,
-    "Fazenda": null,
-    "Observações ": null,
-    "Unnamed: 19": null
+    "Fazenda": null
   },
   {
     "ID": "3467678",
@@ -47219,9 +43115,7 @@ window.QUALIDADE_CANA_DATA = [
     "Responsável": "VITOR AMORIM RAMOS ",
     "Quantidade de Cana": "BOM",
     "Observações": null,
-    "Fazenda": null,
-    "Observações ": null,
-    "Unnamed: 19": null
+    "Fazenda": null
   },
   {
     "ID": "3467571",
@@ -47242,9 +43136,7 @@ window.QUALIDADE_CANA_DATA = [
     "Responsável": "MARCELO DE OLIVEIRA JUNIOR",
     "Quantidade de Cana": "BOM",
     "Observações": null,
-    "Fazenda": null,
-    "Observações ": null,
-    "Unnamed: 19": null
+    "Fazenda": null
   },
   {
     "ID": "3467566",
@@ -47265,9 +43157,7 @@ window.QUALIDADE_CANA_DATA = [
     "Responsável": "MARCELO DE OLIVEIRA JUNIOR",
     "Quantidade de Cana": "BOM",
     "Observações": null,
-    "Fazenda": null,
-    "Observações ": null,
-    "Unnamed: 19": null
+    "Fazenda": null
   },
   {
     "ID": "3466077",
@@ -47288,9 +43178,7 @@ window.QUALIDADE_CANA_DATA = [
     "Responsável": "VITOR AMORIM RAMOS ",
     "Quantidade de Cana": "BOM",
     "Observações": null,
-    "Fazenda": null,
-    "Observações ": null,
-    "Unnamed: 19": null
+    "Fazenda": null
   },
   {
     "ID": "3465977",
@@ -47311,9 +43199,7 @@ window.QUALIDADE_CANA_DATA = [
     "Responsável": "FERNANDA DE SOUZA ",
     "Quantidade de Cana": "BOM",
     "Observações": null,
-    "Fazenda": null,
-    "Observações ": null,
-    "Unnamed: 19": null
+    "Fazenda": null
   },
   {
     "ID": "3466063",
@@ -47334,9 +43220,7 @@ window.QUALIDADE_CANA_DATA = [
     "Responsável": "VITOR AMORIM RAMOS ",
     "Quantidade de Cana": "BOM",
     "Observações": null,
-    "Fazenda": null,
-    "Observações ": null,
-    "Unnamed: 19": null
+    "Fazenda": null
   },
   {
     "ID": "3466057",
@@ -47357,9 +43241,7 @@ window.QUALIDADE_CANA_DATA = [
     "Responsável": "VITOR AMORIM RAMOS ",
     "Quantidade de Cana": "BOM",
     "Observações": null,
-    "Fazenda": null,
-    "Observações ": null,
-    "Unnamed: 19": null
+    "Fazenda": null
   },
   {
     "ID": "3465971",
@@ -47380,9 +43262,7 @@ window.QUALIDADE_CANA_DATA = [
     "Responsável": "FERNANDA DE SOUZA ",
     "Quantidade de Cana": "BOM",
     "Observações": null,
-    "Fazenda": null,
-    "Observações ": null,
-    "Unnamed: 19": null
+    "Fazenda": null
   },
   {
     "ID": "3466052",
@@ -47403,9 +43283,7 @@ window.QUALIDADE_CANA_DATA = [
     "Responsável": "VITOR AMORIM RAMOS ",
     "Quantidade de Cana": "BOM",
     "Observações": null,
-    "Fazenda": null,
-    "Observações ": null,
-    "Unnamed: 19": null
+    "Fazenda": null
   },
   {
     "ID": "3466045",
@@ -47426,9 +43304,7 @@ window.QUALIDADE_CANA_DATA = [
     "Responsável": "VITOR AMORIM RAMOS ",
     "Quantidade de Cana": "BOM",
     "Observações": null,
-    "Fazenda": null,
-    "Observações ": null,
-    "Unnamed: 19": null
+    "Fazenda": null
   },
   {
     "ID": "3466090",
@@ -47449,9 +43325,7 @@ window.QUALIDADE_CANA_DATA = [
     "Responsável": "VITOR AMORIM RAMOS ",
     "Quantidade de Cana": "BOM",
     "Observações": null,
-    "Fazenda": null,
-    "Observações ": null,
-    "Unnamed: 19": null
+    "Fazenda": null
   },
   {
     "ID": "3465813",
@@ -47472,9 +43346,7 @@ window.QUALIDADE_CANA_DATA = [
     "Responsável": "MICHELI DE SOUZA SANTOS  ",
     "Quantidade de Cana": "BOM",
     "Observações": null,
-    "Fazenda": null,
-    "Observações ": null,
-    "Unnamed: 19": null
+    "Fazenda": null
   },
   {
     "ID": "3465812",
@@ -47495,9 +43367,7 @@ window.QUALIDADE_CANA_DATA = [
     "Responsável": "MICHELI DE SOUZA SANTOS  ",
     "Quantidade de Cana": "BOM",
     "Observações": null,
-    "Fazenda": null,
-    "Observações ": null,
-    "Unnamed: 19": null
+    "Fazenda": null
   },
   {
     "ID": "3465811",
@@ -47518,9 +43388,7 @@ window.QUALIDADE_CANA_DATA = [
     "Responsável": "MICHELI DE SOUZA SANTOS  ",
     "Quantidade de Cana": "BOM",
     "Observações": null,
-    "Fazenda": null,
-    "Observações ": null,
-    "Unnamed: 19": null
+    "Fazenda": null
   },
   {
     "ID": "3465810",
@@ -47541,9 +43409,7 @@ window.QUALIDADE_CANA_DATA = [
     "Responsável": "MICHELI DE SOUZA SANTOS  ",
     "Quantidade de Cana": "BOM",
     "Observações": null,
-    "Fazenda": null,
-    "Observações ": null,
-    "Unnamed: 19": null
+    "Fazenda": null
   },
   {
     "ID": "3465809",
@@ -47564,9 +43430,7 @@ window.QUALIDADE_CANA_DATA = [
     "Responsável": "MICHELI DE SOUZA SANTOS  ",
     "Quantidade de Cana": "BOM",
     "Observações": null,
-    "Fazenda": null,
-    "Observações ": null,
-    "Unnamed: 19": null
+    "Fazenda": null
   },
   {
     "ID": "3465561",
@@ -47587,9 +43451,7 @@ window.QUALIDADE_CANA_DATA = [
     "Responsável": "VITOR AMORIM RAMOS ",
     "Quantidade de Cana": "BOM",
     "Observações": null,
-    "Fazenda": null,
-    "Observações ": null,
-    "Unnamed: 19": null
+    "Fazenda": null
   },
   {
     "ID": "3465556",
@@ -47610,9 +43472,7 @@ window.QUALIDADE_CANA_DATA = [
     "Responsável": "VITOR AMORIM RAMOS ",
     "Quantidade de Cana": "BOM",
     "Observações": null,
-    "Fazenda": null,
-    "Observações ": null,
-    "Unnamed: 19": null
+    "Fazenda": null
   },
   {
     "ID": "3466702",
@@ -47633,9 +43493,7 @@ window.QUALIDADE_CANA_DATA = [
     "Responsável": "MARCELO DE OLIVEIRA JUNIOR",
     "Quantidade de Cana": "BOM",
     "Observações": null,
-    "Fazenda": null,
-    "Observações ": null,
-    "Unnamed: 19": null
+    "Fazenda": null
   },
   {
     "ID": "3465551",
@@ -47656,9 +43514,7 @@ window.QUALIDADE_CANA_DATA = [
     "Responsável": "VITOR AMORIM RAMOS ",
     "Quantidade de Cana": "BOM",
     "Observações": null,
-    "Fazenda": null,
-    "Observações ": null,
-    "Unnamed: 19": null
+    "Fazenda": null
   },
   {
     "ID": "3469387",
@@ -47679,9 +43535,7 @@ window.QUALIDADE_CANA_DATA = [
     "Responsável": "GABRIEL HENRIQUE MARTINS PEREIRA",
     "Quantidade de Cana": "BOM",
     "Observações": null,
-    "Fazenda": null,
-    "Observações ": null,
-    "Unnamed: 19": null
+    "Fazenda": null
   },
   {
     "ID": "3466698",
@@ -47702,9 +43556,7 @@ window.QUALIDADE_CANA_DATA = [
     "Responsável": "MARCELO DE OLIVEIRA JUNIOR",
     "Quantidade de Cana": "BOM",
     "Observações": null,
-    "Fazenda": null,
-    "Observações ": null,
-    "Unnamed: 19": null
+    "Fazenda": null
   },
   {
     "ID": "3469382",
@@ -47725,9 +43577,7 @@ window.QUALIDADE_CANA_DATA = [
     "Responsável": "GABRIEL HENRIQUE MARTINS PEREIRA",
     "Quantidade de Cana": "BOM",
     "Observações": null,
-    "Fazenda": null,
-    "Observações ": null,
-    "Unnamed: 19": null
+    "Fazenda": null
   },
   {
     "ID": "3466692",
@@ -47748,9 +43598,7 @@ window.QUALIDADE_CANA_DATA = [
     "Responsável": "MARCELO DE OLIVEIRA JUNIOR",
     "Quantidade de Cana": "BOM",
     "Observações": null,
-    "Fazenda": null,
-    "Observações ": null,
-    "Unnamed: 19": null
+    "Fazenda": null
   },
   {
     "ID": "3466686",
@@ -47771,9 +43619,7 @@ window.QUALIDADE_CANA_DATA = [
     "Responsável": "MARCELO DE OLIVEIRA JUNIOR",
     "Quantidade de Cana": "BOM",
     "Observações": null,
-    "Fazenda": null,
-    "Observações ": null,
-    "Unnamed: 19": null
+    "Fazenda": null
   },
   {
     "ID": "3469377",
@@ -47794,9 +43640,7 @@ window.QUALIDADE_CANA_DATA = [
     "Responsável": "GABRIEL HENRIQUE MARTINS PEREIRA",
     "Quantidade de Cana": "BOM",
     "Observações": null,
-    "Fazenda": null,
-    "Observações ": null,
-    "Unnamed: 19": null
+    "Fazenda": null
   },
   {
     "ID": "3465520",
@@ -47817,9 +43661,7 @@ window.QUALIDADE_CANA_DATA = [
     "Responsável": "FERNANDA DE SOUZA ",
     "Quantidade de Cana": "BOM",
     "Observações": null,
-    "Fazenda": null,
-    "Observações ": null,
-    "Unnamed: 19": null
+    "Fazenda": null
   },
   {
     "ID": "3469368",
@@ -47840,9 +43682,7 @@ window.QUALIDADE_CANA_DATA = [
     "Responsável": "GABRIEL HENRIQUE MARTINS PEREIRA",
     "Quantidade de Cana": "BOM",
     "Observações": null,
-    "Fazenda": null,
-    "Observações ": null,
-    "Unnamed: 19": null
+    "Fazenda": null
   },
   {
     "ID": "3469367",
@@ -47863,9 +43703,7 @@ window.QUALIDADE_CANA_DATA = [
     "Responsável": "GABRIEL HENRIQUE MARTINS PEREIRA",
     "Quantidade de Cana": "BOM",
     "Observações": null,
-    "Fazenda": null,
-    "Observações ": null,
-    "Unnamed: 19": null
+    "Fazenda": null
   },
   {
     "ID": "3465515",
@@ -47886,9 +43724,7 @@ window.QUALIDADE_CANA_DATA = [
     "Responsável": "FERNANDA DE SOUZA ",
     "Quantidade de Cana": "BOM",
     "Observações": null,
-    "Fazenda": null,
-    "Observações ": null,
-    "Unnamed: 19": null
+    "Fazenda": null
   },
   {
     "ID": "3465611",
@@ -47909,9 +43745,7 @@ window.QUALIDADE_CANA_DATA = [
     "Responsável": "NILDA CLAUDINO [2510716]",
     "Quantidade de Cana": "BOM",
     "Observações": null,
-    "Fazenda": null,
-    "Observações ": null,
-    "Unnamed: 19": null
+    "Fazenda": null
   },
   {
     "ID": "3465610",
@@ -47932,9 +43766,7 @@ window.QUALIDADE_CANA_DATA = [
     "Responsável": "NILDA CLAUDINO [2510716]",
     "Quantidade de Cana": "BOM",
     "Observações": null,
-    "Fazenda": null,
-    "Observações ": null,
-    "Unnamed: 19": null
+    "Fazenda": null
   },
   {
     "ID": "3465609",
@@ -47955,9 +43787,7 @@ window.QUALIDADE_CANA_DATA = [
     "Responsável": "NILDA CLAUDINO [2510716]",
     "Quantidade de Cana": "BOM",
     "Observações": null,
-    "Fazenda": null,
-    "Observações ": null,
-    "Unnamed: 19": null
+    "Fazenda": null
   },
   {
     "ID": "3465505",
@@ -47978,9 +43808,7 @@ window.QUALIDADE_CANA_DATA = [
     "Responsável": "FERNANDA DE SOUZA ",
     "Quantidade de Cana": "BOM",
     "Observações": null,
-    "Fazenda": null,
-    "Observações ": null,
-    "Unnamed: 19": null
+    "Fazenda": null
   },
   {
     "ID": "3463866",
@@ -48001,9 +43829,7 @@ window.QUALIDADE_CANA_DATA = [
     "Responsável": "VITOR AMORIM RAMOS ",
     "Quantidade de Cana": "BOM",
     "Observações": null,
-    "Fazenda": null,
-    "Observações ": null,
-    "Unnamed: 19": null
+    "Fazenda": null
   },
   {
     "ID": "3463861",
@@ -48024,9 +43850,7 @@ window.QUALIDADE_CANA_DATA = [
     "Responsável": "VITOR AMORIM RAMOS ",
     "Quantidade de Cana": "BOM",
     "Observações": null,
-    "Fazenda": null,
-    "Observações ": null,
-    "Unnamed: 19": null
+    "Fazenda": null
   },
   {
     "ID": "3463838",
@@ -48047,9 +43871,7 @@ window.QUALIDADE_CANA_DATA = [
     "Responsável": "VITOR AMORIM RAMOS ",
     "Quantidade de Cana": "BOM",
     "Observações": null,
-    "Fazenda": null,
-    "Observações ": null,
-    "Unnamed: 19": null
+    "Fazenda": null
   },
   {
     "ID": "3463828",
@@ -48070,9 +43892,7 @@ window.QUALIDADE_CANA_DATA = [
     "Responsável": "VITOR AMORIM RAMOS ",
     "Quantidade de Cana": "BOM",
     "Observações": null,
-    "Fazenda": null,
-    "Observações ": null,
-    "Unnamed: 19": null
+    "Fazenda": null
   },
   {
     "ID": "3464592",
@@ -48093,9 +43913,7 @@ window.QUALIDADE_CANA_DATA = [
     "Responsável": "VITOR AMORIM RAMOS ",
     "Quantidade de Cana": "BOM",
     "Observações": null,
-    "Fazenda": null,
-    "Observações ": null,
-    "Unnamed: 19": null
+    "Fazenda": null
   },
   {
     "ID": "3463764",
@@ -48116,9 +43934,7 @@ window.QUALIDADE_CANA_DATA = [
     "Responsável": "GABRIEL HENRIQUE MARTINS PEREIRA",
     "Quantidade de Cana": "BOM",
     "Observações": null,
-    "Fazenda": null,
-    "Observações ": null,
-    "Unnamed: 19": null
+    "Fazenda": null
   },
   {
     "ID": "3464587",
@@ -48139,9 +43955,7 @@ window.QUALIDADE_CANA_DATA = [
     "Responsável": "VITOR AMORIM RAMOS ",
     "Quantidade de Cana": "BOM",
     "Observações": null,
-    "Fazenda": null,
-    "Observações ": null,
-    "Unnamed: 19": null
+    "Fazenda": null
   },
   {
     "ID": "3463758",
@@ -48162,9 +43976,7 @@ window.QUALIDADE_CANA_DATA = [
     "Responsável": "GABRIEL HENRIQUE MARTINS PEREIRA",
     "Quantidade de Cana": "BOM",
     "Observações": null,
-    "Fazenda": null,
-    "Observações ": null,
-    "Unnamed: 19": null
+    "Fazenda": null
   },
   {
     "ID": "3463753",
@@ -48185,9 +43997,7 @@ window.QUALIDADE_CANA_DATA = [
     "Responsável": "GABRIEL HENRIQUE MARTINS PEREIRA",
     "Quantidade de Cana": "BOM",
     "Observações": null,
-    "Fazenda": null,
-    "Observações ": null,
-    "Unnamed: 19": null
+    "Fazenda": null
   },
   {
     "ID": "3463744",
@@ -48208,9 +44018,7 @@ window.QUALIDADE_CANA_DATA = [
     "Responsável": "GABRIEL HENRIQUE MARTINS PEREIRA",
     "Quantidade de Cana": "BOM",
     "Observações": null,
-    "Fazenda": null,
-    "Observações ": null,
-    "Unnamed: 19": null
+    "Fazenda": null
   },
   {
     "ID": "3463850",
@@ -48231,9 +44039,7 @@ window.QUALIDADE_CANA_DATA = [
     "Responsável": "FERNANDA DE SOUZA ",
     "Quantidade de Cana": "BOM",
     "Observações": null,
-    "Fazenda": null,
-    "Observações ": null,
-    "Unnamed: 19": null
+    "Fazenda": null
   },
   {
     "ID": "3463739",
@@ -48254,9 +44060,7 @@ window.QUALIDADE_CANA_DATA = [
     "Responsável": "GABRIEL HENRIQUE MARTINS PEREIRA",
     "Quantidade de Cana": "BOM",
     "Observações": null,
-    "Fazenda": null,
-    "Observações ": null,
-    "Unnamed: 19": null
+    "Fazenda": null
   },
   {
     "ID": "3463734",
@@ -48277,9 +44081,7 @@ window.QUALIDADE_CANA_DATA = [
     "Responsável": "GABRIEL HENRIQUE MARTINS PEREIRA",
     "Quantidade de Cana": "BOM",
     "Observações": null,
-    "Fazenda": null,
-    "Observações ": null,
-    "Unnamed: 19": null
+    "Fazenda": null
   },
   {
     "ID": "3463844",
@@ -48300,9 +44102,7 @@ window.QUALIDADE_CANA_DATA = [
     "Responsável": "FERNANDA DE SOUZA ",
     "Quantidade de Cana": "BOM",
     "Observações": null,
-    "Fazenda": null,
-    "Observações ": null,
-    "Unnamed: 19": null
+    "Fazenda": null
   },
   {
     "ID": "3463695",
@@ -48323,9 +44123,7 @@ window.QUALIDADE_CANA_DATA = [
     "Responsável": "GABRIEL HENRIQUE MARTINS PEREIRA",
     "Quantidade de Cana": "BOM",
     "Observações": null,
-    "Fazenda": null,
-    "Observações ": null,
-    "Unnamed: 19": null
+    "Fazenda": null
   },
   {
     "ID": "3463680",
@@ -48346,9 +44144,7 @@ window.QUALIDADE_CANA_DATA = [
     "Responsável": "GABRIEL HENRIQUE MARTINS PEREIRA",
     "Quantidade de Cana": "BOM",
     "Observações": null,
-    "Fazenda": null,
-    "Observações ": null,
-    "Unnamed: 19": null
+    "Fazenda": null
   },
   {
     "ID": "3463337",
@@ -48369,9 +44165,7 @@ window.QUALIDADE_CANA_DATA = [
     "Responsável": "GLEISON FELIPE BORGES DE MATOS",
     "Quantidade de Cana": "BOM",
     "Observações": null,
-    "Fazenda": null,
-    "Observações ": null,
-    "Unnamed: 19": null
+    "Fazenda": null
   },
   {
     "ID": "3463331",
@@ -48392,9 +44186,7 @@ window.QUALIDADE_CANA_DATA = [
     "Responsável": "GLEISON FELIPE BORGES DE MATOS",
     "Quantidade de Cana": "BOM",
     "Observações": null,
-    "Fazenda": null,
-    "Observações ": null,
-    "Unnamed: 19": null
+    "Fazenda": null
   },
   {
     "ID": "3463325",
@@ -48415,9 +44207,7 @@ window.QUALIDADE_CANA_DATA = [
     "Responsável": "GLEISON FELIPE BORGES DE MATOS",
     "Quantidade de Cana": "BOM",
     "Observações": null,
-    "Fazenda": null,
-    "Observações ": null,
-    "Unnamed: 19": null
+    "Fazenda": null
   },
   {
     "ID": "3461787",
@@ -48438,9 +44228,7 @@ window.QUALIDADE_CANA_DATA = [
     "Responsável": "VITOR AMORIM RAMOS ",
     "Quantidade de Cana": "BOM",
     "Observações": null,
-    "Fazenda": null,
-    "Observações ": null,
-    "Unnamed: 19": null
+    "Fazenda": null
   },
   {
     "ID": "3461779",
@@ -48461,9 +44249,7 @@ window.QUALIDADE_CANA_DATA = [
     "Responsável": "VITOR AMORIM RAMOS ",
     "Quantidade de Cana": "BOM",
     "Observações": null,
-    "Fazenda": null,
-    "Observações ": null,
-    "Unnamed: 19": null
+    "Fazenda": null
   },
   {
     "ID": "3461637",
@@ -48484,9 +44270,7 @@ window.QUALIDADE_CANA_DATA = [
     "Responsável": "278400 - Vitor Amorim Ramos ",
     "Quantidade de Cana": "BOM",
     "Observações": null,
-    "Fazenda": null,
-    "Observações ": null,
-    "Unnamed: 19": null
+    "Fazenda": null
   },
   {
     "ID": "3461629",
@@ -48507,9 +44291,7 @@ window.QUALIDADE_CANA_DATA = [
     "Responsável": "278400 - Vitor Amorim Ramos ",
     "Quantidade de Cana": "BOM",
     "Observações": null,
-    "Fazenda": null,
-    "Observações ": null,
-    "Unnamed: 19": null
+    "Fazenda": null
   },
   {
     "ID": "3461615",
@@ -48530,9 +44312,7 @@ window.QUALIDADE_CANA_DATA = [
     "Responsável": "278400 - Vitor Amorim Ramos ",
     "Quantidade de Cana": "BOM",
     "Observações": null,
-    "Fazenda": null,
-    "Observações ": null,
-    "Unnamed: 19": null
+    "Fazenda": null
   },
   {
     "ID": "3461603",
@@ -48553,9 +44333,7 @@ window.QUALIDADE_CANA_DATA = [
     "Responsável": "278400 - Vitor Amorim Ramos ",
     "Quantidade de Cana": "BOM",
     "Observações": null,
-    "Fazenda": null,
-    "Observações ": null,
-    "Unnamed: 19": null
+    "Fazenda": null
   },
   {
     "ID": "3461602",
@@ -48576,9 +44354,7 @@ window.QUALIDADE_CANA_DATA = [
     "Responsável": "278400 - Vitor Amorim Ramos ",
     "Quantidade de Cana": "BOM",
     "Observações": null,
-    "Fazenda": null,
-    "Observações ": null,
-    "Unnamed: 19": null
+    "Fazenda": null
   },
   {
     "ID": "3461597",
@@ -48599,9 +44375,7 @@ window.QUALIDADE_CANA_DATA = [
     "Responsável": "278400 - Vitor Amorim Ramos ",
     "Quantidade de Cana": "BOM",
     "Observações": null,
-    "Fazenda": null,
-    "Observações ": null,
-    "Unnamed: 19": null
+    "Fazenda": null
   },
   {
     "ID": "3461592",
@@ -48622,9 +44396,7 @@ window.QUALIDADE_CANA_DATA = [
     "Responsável": "278400 - Vitor Amorim Ramos ",
     "Quantidade de Cana": "BOM",
     "Observações": null,
-    "Fazenda": null,
-    "Observações ": null,
-    "Unnamed: 19": null
+    "Fazenda": null
   },
   {
     "ID": "3461764",
@@ -48645,9 +44417,7 @@ window.QUALIDADE_CANA_DATA = [
     "Responsável": "278400 - Vitor Amorim Ramos ",
     "Quantidade de Cana": "BOM",
     "Observações": null,
-    "Fazenda": null,
-    "Observações ": null,
-    "Unnamed: 19": null
+    "Fazenda": null
   },
   {
     "ID": "3455032",
@@ -48668,9 +44438,7 @@ window.QUALIDADE_CANA_DATA = [
     "Responsável": "VITOR AMORIM RAMOS ",
     "Quantidade de Cana": "BOM",
     "Observações": null,
-    "Fazenda": null,
-    "Observações ": null,
-    "Unnamed: 19": null
+    "Fazenda": null
   },
   {
     "ID": "3455027",
@@ -48691,9 +44459,7 @@ window.QUALIDADE_CANA_DATA = [
     "Responsável": "VITOR AMORIM RAMOS ",
     "Quantidade de Cana": "BOM",
     "Observações": null,
-    "Fazenda": null,
-    "Observações ": null,
-    "Unnamed: 19": null
+    "Fazenda": null
   },
   {
     "ID": "3454935",
@@ -48714,9 +44480,7 @@ window.QUALIDADE_CANA_DATA = [
     "Responsável": "FERNANDA DE SOUZA ",
     "Quantidade de Cana": "BOM",
     "Observações": null,
-    "Fazenda": null,
-    "Observações ": null,
-    "Unnamed: 19": null
+    "Fazenda": null
   },
   {
     "ID": "3455022",
@@ -48737,9 +44501,7 @@ window.QUALIDADE_CANA_DATA = [
     "Responsável": "VITOR AMORIM RAMOS ",
     "Quantidade de Cana": "BOM",
     "Observações": null,
-    "Fazenda": null,
-    "Observações ": null,
-    "Unnamed: 19": null
+    "Fazenda": null
   },
   {
     "ID": "3455017",
@@ -48760,9 +44522,7 @@ window.QUALIDADE_CANA_DATA = [
     "Responsável": "VITOR AMORIM RAMOS ",
     "Quantidade de Cana": "BOM",
     "Observações": null,
-    "Fazenda": null,
-    "Observações ": null,
-    "Unnamed: 19": null
+    "Fazenda": null
   },
   {
     "ID": "3455012",
@@ -48783,9 +44543,7 @@ window.QUALIDADE_CANA_DATA = [
     "Responsável": "VITOR AMORIM RAMOS ",
     "Quantidade de Cana": "BOM",
     "Observações": null,
-    "Fazenda": null,
-    "Observações ": null,
-    "Unnamed: 19": null
+    "Fazenda": null
   },
   {
     "ID": "3455003",
@@ -48806,9 +44564,7 @@ window.QUALIDADE_CANA_DATA = [
     "Responsável": "VITOR AMORIM RAMOS ",
     "Quantidade de Cana": "BOM",
     "Observações": null,
-    "Fazenda": null,
-    "Observações ": null,
-    "Unnamed: 19": null
+    "Fazenda": null
   },
   {
     "ID": "3454885",
@@ -48829,9 +44585,7 @@ window.QUALIDADE_CANA_DATA = [
     "Responsável": "GABRIEL HENRIQUE MARTINS PEREIRA",
     "Quantidade de Cana": "BOM",
     "Observações": null,
-    "Fazenda": null,
-    "Observações ": null,
-    "Unnamed: 19": null
+    "Fazenda": null
   },
   {
     "ID": "3454928",
@@ -48852,9 +44606,7 @@ window.QUALIDADE_CANA_DATA = [
     "Responsável": "FERNANDA DE SOUZA ",
     "Quantidade de Cana": "BOM",
     "Observações": null,
-    "Fazenda": null,
-    "Observações ": null,
-    "Unnamed: 19": null
+    "Fazenda": null
   },
   {
     "ID": "3454924",
@@ -48875,9 +44627,7 @@ window.QUALIDADE_CANA_DATA = [
     "Responsável": "FERNANDA DE SOUZA ",
     "Quantidade de Cana": "BOM",
     "Observações": null,
-    "Fazenda": null,
-    "Observações ": null,
-    "Unnamed: 19": null
+    "Fazenda": null
   },
   {
     "ID": "3454868",
@@ -48898,9 +44648,7 @@ window.QUALIDADE_CANA_DATA = [
     "Responsável": "GABRIEL HENRIQUE MARTINS PEREIRA",
     "Quantidade de Cana": "BOM",
     "Observações": null,
-    "Fazenda": null,
-    "Observações ": null,
-    "Unnamed: 19": null
+    "Fazenda": null
   },
   {
     "ID": "3454863",
@@ -48921,9 +44669,7 @@ window.QUALIDADE_CANA_DATA = [
     "Responsável": "GABRIEL HENRIQUE MARTINS PEREIRA",
     "Quantidade de Cana": "BOM",
     "Observações": null,
-    "Fazenda": null,
-    "Observações ": null,
-    "Unnamed: 19": null
+    "Fazenda": null
   },
   {
     "ID": "3454862",
@@ -48944,9 +44690,7 @@ window.QUALIDADE_CANA_DATA = [
     "Responsável": "GABRIEL HENRIQUE MARTINS PEREIRA",
     "Quantidade de Cana": "BOM",
     "Observações": null,
-    "Fazenda": null,
-    "Observações ": null,
-    "Unnamed: 19": null
+    "Fazenda": null
   },
   {
     "ID": "3454262",
@@ -48967,9 +44711,7 @@ window.QUALIDADE_CANA_DATA = [
     "Responsável": "NILDA CLAUDINO [2510716]",
     "Quantidade de Cana": "BOM",
     "Observações": null,
-    "Fazenda": null,
-    "Observações ": null,
-    "Unnamed: 19": null
+    "Fazenda": null
   },
   {
     "ID": "3454261",
@@ -48990,9 +44732,7 @@ window.QUALIDADE_CANA_DATA = [
     "Responsável": "NILDA CLAUDINO [2510716]",
     "Quantidade de Cana": "BOM",
     "Observações": null,
-    "Fazenda": null,
-    "Observações ": null,
-    "Unnamed: 19": null
+    "Fazenda": null
   },
   {
     "ID": "3454260",
@@ -49013,9 +44753,7 @@ window.QUALIDADE_CANA_DATA = [
     "Responsável": "NILDA CLAUDINO [2510716]",
     "Quantidade de Cana": "BOM",
     "Observações": null,
-    "Fazenda": null,
-    "Observações ": null,
-    "Unnamed: 19": null
+    "Fazenda": null
   },
   {
     "ID": "3454221",
@@ -49036,9 +44774,7 @@ window.QUALIDADE_CANA_DATA = [
     "Responsável": "GLEISON FELIPE BORGES DE MATOS",
     "Quantidade de Cana": "BOM",
     "Observações": null,
-    "Fazenda": null,
-    "Observações ": null,
-    "Unnamed: 19": null
+    "Fazenda": null
   },
   {
     "ID": "3454216",
@@ -49059,9 +44795,7 @@ window.QUALIDADE_CANA_DATA = [
     "Responsável": "GLEISON FELIPE BORGES DE MATOS",
     "Quantidade de Cana": "BOM",
     "Observações": null,
-    "Fazenda": null,
-    "Observações ": null,
-    "Unnamed: 19": null
+    "Fazenda": null
   },
   {
     "ID": "3449754",
@@ -49082,9 +44816,7 @@ window.QUALIDADE_CANA_DATA = [
     "Responsável": "268680 - GABRIEL HENRIQUE MARTINS PEREIRA ",
     "Quantidade de Cana": "BOM",
     "Observações": null,
-    "Fazenda": null,
-    "Observações ": null,
-    "Unnamed: 19": null
+    "Fazenda": null
   },
   {
     "ID": "3449747",
@@ -49105,9 +44837,7 @@ window.QUALIDADE_CANA_DATA = [
     "Responsável": "268680 - GABRIEL HENRIQUE MARTINS PEREIRA ",
     "Quantidade de Cana": "BOM",
     "Observações": null,
-    "Fazenda": null,
-    "Observações ": null,
-    "Unnamed: 19": null
+    "Fazenda": null
   },
   {
     "ID": "3449742",
@@ -49128,9 +44858,7 @@ window.QUALIDADE_CANA_DATA = [
     "Responsável": "268680 - GABRIEL HENRIQUE MARTINS PEREIRA ",
     "Quantidade de Cana": "BOM",
     "Observações": null,
-    "Fazenda": null,
-    "Observações ": null,
-    "Unnamed: 19": null
+    "Fazenda": null
   },
   {
     "ID": "3449741",
@@ -49151,9 +44879,7 @@ window.QUALIDADE_CANA_DATA = [
     "Responsável": "268680 - GABRIEL HENRIQUE MARTINS PEREIRA ",
     "Quantidade de Cana": "BOM",
     "Observações": null,
-    "Fazenda": null,
-    "Observações ": null,
-    "Unnamed: 19": null
+    "Fazenda": null
   },
   {
     "ID": "3449565",
@@ -49174,9 +44900,7 @@ window.QUALIDADE_CANA_DATA = [
     "Responsável": "NILDA CLAUDINO [2510716]",
     "Quantidade de Cana": "BOM",
     "Observações": null,
-    "Fazenda": null,
-    "Observações ": null,
-    "Unnamed: 19": null
+    "Fazenda": null
   },
   {
     "ID": "3449563",
@@ -49197,9 +44921,7 @@ window.QUALIDADE_CANA_DATA = [
     "Responsável": "NILDA CLAUDINO [2510716]",
     "Quantidade de Cana": "BOM",
     "Observações": null,
-    "Fazenda": null,
-    "Observações ": null,
-    "Unnamed: 19": null
+    "Fazenda": null
   },
   {
     "ID": "3449561",
@@ -49220,9 +44942,7 @@ window.QUALIDADE_CANA_DATA = [
     "Responsável": "NILDA CLAUDINO [2510716]",
     "Quantidade de Cana": "BOM",
     "Observações": null,
-    "Fazenda": null,
-    "Observações ": null,
-    "Unnamed: 19": null
+    "Fazenda": null
   },
   {
     "ID": "3449675",
@@ -49243,9 +44963,7 @@ window.QUALIDADE_CANA_DATA = [
     "Responsável": "REGINALDO DA SILVA GOMES ",
     "Quantidade de Cana": "BOM",
     "Observações": null,
-    "Fazenda": null,
-    "Observações ": null,
-    "Unnamed: 19": null
+    "Fazenda": null
   },
   {
     "ID": "3449672",
@@ -49266,9 +44984,7 @@ window.QUALIDADE_CANA_DATA = [
     "Responsável": "REGINALDO DA SILVA GOMES ",
     "Quantidade de Cana": "BOM",
     "Observações": null,
-    "Fazenda": null,
-    "Observações ": null,
-    "Unnamed: 19": null
+    "Fazenda": null
   },
   {
     "ID": "3449695",
@@ -49289,9 +45005,7 @@ window.QUALIDADE_CANA_DATA = [
     "Responsável": "REGINALDO DA SILVA GOMES ",
     "Quantidade de Cana": "BOM",
     "Observações": null,
-    "Fazenda": null,
-    "Observações ": null,
-    "Unnamed: 19": null
+    "Fazenda": null
   },
   {
     "ID": "3445673",
@@ -49312,9 +45026,7 @@ window.QUALIDADE_CANA_DATA = [
     "Responsável": "GLEISON FELIPE BORGES DE MATOS",
     "Quantidade de Cana": "BOM",
     "Observações": null,
-    "Fazenda": null,
-    "Observações ": null,
-    "Unnamed: 19": null
+    "Fazenda": null
   },
   {
     "ID": "3445568",
@@ -49335,9 +45047,7 @@ window.QUALIDADE_CANA_DATA = [
     "Responsável": "FERNANDA DE SOUZA ",
     "Quantidade de Cana": "BOM",
     "Observações": null,
-    "Fazenda": null,
-    "Observações ": null,
-    "Unnamed: 19": null
+    "Fazenda": null
   },
   {
     "ID": "3445564",
@@ -49358,9 +45068,7 @@ window.QUALIDADE_CANA_DATA = [
     "Responsável": "FERNANDA DE SOUZA ",
     "Quantidade de Cana": "BOM",
     "Observações": null,
-    "Fazenda": null,
-    "Observações ": null,
-    "Unnamed: 19": null
+    "Fazenda": null
   },
   {
     "ID": "3445641",
@@ -49381,9 +45089,7 @@ window.QUALIDADE_CANA_DATA = [
     "Responsável": "NILDA CLAUDINO [2510716]",
     "Quantidade de Cana": "BOM",
     "Observações": null,
-    "Fazenda": null,
-    "Observações ": null,
-    "Unnamed: 19": null
+    "Fazenda": null
   },
   {
     "ID": "3445640",
@@ -49404,9 +45110,7 @@ window.QUALIDADE_CANA_DATA = [
     "Responsável": "NILDA CLAUDINO [2510716]",
     "Quantidade de Cana": "BOM",
     "Observações": null,
-    "Fazenda": null,
-    "Observações ": null,
-    "Unnamed: 19": null
+    "Fazenda": null
   },
   {
     "ID": "3445639",
@@ -49427,9 +45131,7 @@ window.QUALIDADE_CANA_DATA = [
     "Responsável": "NILDA CLAUDINO [2510716]",
     "Quantidade de Cana": "BOM",
     "Observações": null,
-    "Fazenda": null,
-    "Observações ": null,
-    "Unnamed: 19": null
+    "Fazenda": null
   },
   {
     "ID": "3443441",
@@ -49450,9 +45152,7 @@ window.QUALIDADE_CANA_DATA = [
     "Responsável": "REGINALDO DA SILVA GOMES [249300]",
     "Quantidade de Cana": "BOM",
     "Observações": null,
-    "Fazenda": null,
-    "Observações ": null,
-    "Unnamed: 19": null
+    "Fazenda": null
   },
   {
     "ID": "3443464",
@@ -49473,9 +45173,7 @@ window.QUALIDADE_CANA_DATA = [
     "Responsável": "FERNANDA DE SOUZA [127577]",
     "Quantidade de Cana": "BOM",
     "Observações": null,
-    "Fazenda": null,
-    "Observações ": null,
-    "Unnamed: 19": null
+    "Fazenda": null
   },
   {
     "ID": "3443457",
@@ -49496,9 +45194,7 @@ window.QUALIDADE_CANA_DATA = [
     "Responsável": "FERNANDA DE SOUZA [127577]",
     "Quantidade de Cana": "BOM",
     "Observações": null,
-    "Fazenda": null,
-    "Observações ": null,
-    "Unnamed: 19": null
+    "Fazenda": null
   },
   {
     "ID": "3443318",
@@ -49519,9 +45215,7 @@ window.QUALIDADE_CANA_DATA = [
     "Responsável": "GLEISON FELIPE BORGES DE MATOS [266770]",
     "Quantidade de Cana": "BOM",
     "Observações": null,
-    "Fazenda": null,
-    "Observações ": null,
-    "Unnamed: 19": null
+    "Fazenda": null
   },
   {
     "ID": "3433422",
@@ -49542,9 +45236,7 @@ window.QUALIDADE_CANA_DATA = [
     "Responsável": "GLEISON FELIPE BORGES DE MATOS [266770]",
     "Quantidade de Cana": "BOM",
     "Observações": null,
-    "Fazenda": null,
-    "Observações ": null,
-    "Unnamed: 19": null
+    "Fazenda": null
   },
   {
     "ID": "3433421",
@@ -49565,9 +45257,7 @@ window.QUALIDADE_CANA_DATA = [
     "Responsável": "GLEISON FELIPE BORGES DE MATOS [266770]",
     "Quantidade de Cana": "BOM",
     "Observações": null,
-    "Fazenda": null,
-    "Observações ": null,
-    "Unnamed: 19": null
+    "Fazenda": null
   },
   {
     "ID": "3433469",
@@ -49588,9 +45278,7 @@ window.QUALIDADE_CANA_DATA = [
     "Responsável": "MICHELI DE SOUZA SANTOS  ",
     "Quantidade de Cana": "BOM",
     "Observações": null,
-    "Fazenda": null,
-    "Observações ": null,
-    "Unnamed: 19": null
+    "Fazenda": null
   },
   {
     "ID": "3433766",
@@ -49611,9 +45299,7 @@ window.QUALIDADE_CANA_DATA = [
     "Responsável": "MICHELI DE SOUZA SANTOS  ",
     "Quantidade de Cana": "BOM",
     "Observações": null,
-    "Fazenda": null,
-    "Observações ": null,
-    "Unnamed: 19": null
+    "Fazenda": null
   },
   {
     "ID": "3437742",
@@ -49634,9 +45320,7 @@ window.QUALIDADE_CANA_DATA = [
     "Responsável": "GLEISON FELIPE BORGES DE MATOS [266770]",
     "Quantidade de Cana": "BOM",
     "Observações": null,
-    "Fazenda": null,
-    "Observações ": null,
-    "Unnamed: 19": null
+    "Fazenda": null
   },
   {
     "ID": "3437737",
@@ -49657,9 +45341,7 @@ window.QUALIDADE_CANA_DATA = [
     "Responsável": "GLEISON FELIPE BORGES DE MATOS [266770]",
     "Quantidade de Cana": "BOM",
     "Observações": null,
-    "Fazenda": null,
-    "Observações ": null,
-    "Unnamed: 19": null
+    "Fazenda": null
   },
   {
     "ID": "3437731",
@@ -49680,9 +45362,7 @@ window.QUALIDADE_CANA_DATA = [
     "Responsável": "GLEISON FELIPE BORGES DE MATOS [266770]",
     "Quantidade de Cana": "BOM",
     "Observações": null,
-    "Fazenda": null,
-    "Observações ": null,
-    "Unnamed: 19": null
+    "Fazenda": null
   },
   {
     "ID": "3437726",
@@ -49703,9 +45383,7 @@ window.QUALIDADE_CANA_DATA = [
     "Responsável": "GLEISON FELIPE BORGES DE MATOS [266770]",
     "Quantidade de Cana": "BOM",
     "Observações": null,
-    "Fazenda": null,
-    "Observações ": null,
-    "Unnamed: 19": null
+    "Fazenda": null
   },
   {
     "ID": "3437721",
@@ -49726,9 +45404,7 @@ window.QUALIDADE_CANA_DATA = [
     "Responsável": "GLEISON FELIPE BORGES DE MATOS [266770]",
     "Quantidade de Cana": "BOM",
     "Observações": null,
-    "Fazenda": null,
-    "Observações ": null,
-    "Unnamed: 19": null
+    "Fazenda": null
   },
   {
     "ID": "3435518",
@@ -49749,9 +45425,7 @@ window.QUALIDADE_CANA_DATA = [
     "Responsável": "GLEISON FELIPE BORGES DE MATOS [266770]",
     "Quantidade de Cana": "BOM",
     "Observações": null,
-    "Fazenda": null,
-    "Observações ": null,
-    "Unnamed: 19": null
+    "Fazenda": null
   },
   {
     "ID": "3435683",
@@ -49772,9 +45446,7 @@ window.QUALIDADE_CANA_DATA = [
     "Responsável": "REGINALDO DA SILVA GOMES [249300]",
     "Quantidade de Cana": "BOM",
     "Observações": null,
-    "Fazenda": null,
-    "Observações ": null,
-    "Unnamed: 19": null
+    "Fazenda": null
   },
   {
     "ID": "3435485",
@@ -49795,9 +45467,7 @@ window.QUALIDADE_CANA_DATA = [
     "Responsável": "GLEISON FELIPE BORGES DE MATOS [266770]",
     "Quantidade de Cana": "BOM",
     "Observações": null,
-    "Fazenda": null,
-    "Observações ": null,
-    "Unnamed: 19": null
+    "Fazenda": null
   },
   {
     "ID": "3435680",
@@ -49818,9 +45488,7 @@ window.QUALIDADE_CANA_DATA = [
     "Responsável": "REGINALDO DA SILVA GOMES [249300]",
     "Quantidade de Cana": "BOM",
     "Observações": null,
-    "Fazenda": null,
-    "Observações ": null,
-    "Unnamed: 19": null
+    "Fazenda": null
   },
   {
     "ID": "3435676",
@@ -49841,9 +45509,7 @@ window.QUALIDADE_CANA_DATA = [
     "Responsável": "REGINALDO DA SILVA GOMES [249300]",
     "Quantidade de Cana": "BOM",
     "Observações": null,
-    "Fazenda": null,
-    "Observações ": null,
-    "Unnamed: 19": null
+    "Fazenda": null
   },
   {
     "ID": "3435474",
@@ -49864,9 +45530,7 @@ window.QUALIDADE_CANA_DATA = [
     "Responsável": "GLEISON FELIPE BORGES DE MATOS [266770]",
     "Quantidade de Cana": "BOM",
     "Observações": null,
-    "Fazenda": null,
-    "Observações ": null,
-    "Unnamed: 19": null
+    "Fazenda": null
   },
   {
     "ID": "3435482",
@@ -49887,9 +45551,7 @@ window.QUALIDADE_CANA_DATA = [
     "Responsável": "FERNANDA DE SOUZA [127577]",
     "Quantidade de Cana": "BOM",
     "Observações": null,
-    "Fazenda": null,
-    "Observações ": null,
-    "Unnamed: 19": null
+    "Fazenda": null
   },
   {
     "ID": "3435775",
@@ -49910,9 +45572,7 @@ window.QUALIDADE_CANA_DATA = [
     "Responsável": "268680 - GABRIEL HENRIQUE MARTINS PEREIRA ",
     "Quantidade de Cana": "BOM",
     "Observações": null,
-    "Fazenda": null,
-    "Observações ": null,
-    "Unnamed: 19": null
+    "Fazenda": null
   },
   {
     "ID": "3435770",
@@ -49933,9 +45593,7 @@ window.QUALIDADE_CANA_DATA = [
     "Responsável": "268680 - GABRIEL HENRIQUE MARTINS PEREIRA ",
     "Quantidade de Cana": "BOM",
     "Observações": null,
-    "Fazenda": null,
-    "Observações ": null,
-    "Unnamed: 19": null
+    "Fazenda": null
   },
   {
     "ID": "3435765",
@@ -49956,9 +45614,7 @@ window.QUALIDADE_CANA_DATA = [
     "Responsável": "268680 - GABRIEL HENRIQUE MARTINS PEREIRA ",
     "Quantidade de Cana": "BOM",
     "Observações": null,
-    "Fazenda": null,
-    "Observações ": null,
-    "Unnamed: 19": null
+    "Fazenda": null
   },
   {
     "ID": "3435760",
@@ -49979,9 +45635,7 @@ window.QUALIDADE_CANA_DATA = [
     "Responsável": "268680 - GABRIEL HENRIQUE MARTINS PEREIRA ",
     "Quantidade de Cana": "BOM",
     "Observações": null,
-    "Fazenda": null,
-    "Observações ": null,
-    "Unnamed: 19": null
+    "Fazenda": null
   },
   {
     "ID": "3435398",
@@ -50002,9 +45656,7 @@ window.QUALIDADE_CANA_DATA = [
     "Responsável": "278400 - Vitor Amorim Ramos ",
     "Quantidade de Cana": "BOM",
     "Observações": null,
-    "Fazenda": null,
-    "Observações ": null,
-    "Unnamed: 19": null
+    "Fazenda": null
   },
   {
     "ID": "3435715",
@@ -50025,9 +45677,7 @@ window.QUALIDADE_CANA_DATA = [
     "Responsável": "268680 - GABRIEL HENRIQUE MARTINS PEREIRA ",
     "Quantidade de Cana": "BOM",
     "Observações": null,
-    "Fazenda": null,
-    "Observações ": null,
-    "Unnamed: 19": null
+    "Fazenda": null
   },
   {
     "ID": "3435708",
@@ -50048,9 +45698,7 @@ window.QUALIDADE_CANA_DATA = [
     "Responsável": "268680 - GABRIEL HENRIQUE MARTINS PEREIRA ",
     "Quantidade de Cana": "BOM",
     "Observações": null,
-    "Fazenda": null,
-    "Observações ": null,
-    "Unnamed: 19": null
+    "Fazenda": null
   },
   {
     "ID": "3435288",
@@ -50071,9 +45719,7 @@ window.QUALIDADE_CANA_DATA = [
     "Responsável": "FERNANDA DE SOUZA [127577]",
     "Quantidade de Cana": "BOM",
     "Observações": null,
-    "Fazenda": null,
-    "Observações ": null,
-    "Unnamed: 19": null
+    "Fazenda": null
   },
   {
     "ID": "3435283",
@@ -50094,9 +45740,7 @@ window.QUALIDADE_CANA_DATA = [
     "Responsável": "FERNANDA DE SOUZA [127577]",
     "Quantidade de Cana": "BOM",
     "Observações": null,
-    "Fazenda": null,
-    "Observações ": null,
-    "Unnamed: 19": null
+    "Fazenda": null
   },
   {
     "ID": "3435388",
@@ -50117,9 +45761,7 @@ window.QUALIDADE_CANA_DATA = [
     "Responsável": "278400 - Vitor Amorim Ramos ",
     "Quantidade de Cana": "BOM",
     "Observações": null,
-    "Fazenda": null,
-    "Observações ": null,
-    "Unnamed: 19": null
+    "Fazenda": null
   },
   {
     "ID": "3435383",
@@ -50140,9 +45782,7 @@ window.QUALIDADE_CANA_DATA = [
     "Responsável": "278400 - Vitor Amorim Ramos ",
     "Quantidade de Cana": "BOM",
     "Observações": null,
-    "Fazenda": null,
-    "Observações ": null,
-    "Unnamed: 19": null
+    "Fazenda": null
   },
   {
     "ID": "3435435",
@@ -50163,9 +45803,7 @@ window.QUALIDADE_CANA_DATA = [
     "Responsável": "NILDA CLAUDINO [2510716]",
     "Quantidade de Cana": "BOM",
     "Observações": null,
-    "Fazenda": null,
-    "Observações ": null,
-    "Unnamed: 19": null
+    "Fazenda": null
   },
   {
     "ID": "3435434",
@@ -50186,9 +45824,7 @@ window.QUALIDADE_CANA_DATA = [
     "Responsável": "NILDA CLAUDINO [2510716]",
     "Quantidade de Cana": "BOM",
     "Observações": null,
-    "Fazenda": null,
-    "Observações ": null,
-    "Unnamed: 19": null
+    "Fazenda": null
   },
   {
     "ID": "3435378",
@@ -50209,9 +45845,7 @@ window.QUALIDADE_CANA_DATA = [
     "Responsável": "278400 - Vitor Amorim Ramos ",
     "Quantidade de Cana": "BOM",
     "Observações": null,
-    "Fazenda": null,
-    "Observações ": null,
-    "Unnamed: 19": null
+    "Fazenda": null
   },
   {
     "ID": "3435433",
@@ -50232,9 +45866,7 @@ window.QUALIDADE_CANA_DATA = [
     "Responsável": "NILDA CLAUDINO [2510716]",
     "Quantidade de Cana": "BOM",
     "Observações": null,
-    "Fazenda": null,
-    "Observações ": null,
-    "Unnamed: 19": null
+    "Fazenda": null
   },
   {
     "ID": "3435374",
@@ -50255,9 +45887,7 @@ window.QUALIDADE_CANA_DATA = [
     "Responsável": "278400 - Vitor Amorim Ramos ",
     "Quantidade de Cana": "BOM",
     "Observações": null,
-    "Fazenda": null,
-    "Observações ": null,
-    "Unnamed: 19": null
+    "Fazenda": null
   },
   {
     "ID": "3435362",
@@ -50278,9 +45908,7 @@ window.QUALIDADE_CANA_DATA = [
     "Responsável": "278400 - Vitor Amorim Ramos ",
     "Quantidade de Cana": "BOM",
     "Observações": null,
-    "Fazenda": null,
-    "Observações ": null,
-    "Unnamed: 19": null
+    "Fazenda": null
   },
   {
     "ID": "3435356",
@@ -50301,9 +45929,7 @@ window.QUALIDADE_CANA_DATA = [
     "Responsável": "278400 - Vitor Amorim Ramos ",
     "Quantidade de Cana": "BOM",
     "Observações": null,
-    "Fazenda": null,
-    "Observações ": null,
-    "Unnamed: 19": null
+    "Fazenda": null
   },
   {
     "ID": "3435351",
@@ -50324,9 +45950,7 @@ window.QUALIDADE_CANA_DATA = [
     "Responsável": "278400 - Vitor Amorim Ramos ",
     "Quantidade de Cana": "BOM",
     "Observações": null,
-    "Fazenda": null,
-    "Observações ": null,
-    "Unnamed: 19": null
+    "Fazenda": null
   },
   {
     "ID": "3433652",
@@ -50347,9 +45971,7 @@ window.QUALIDADE_CANA_DATA = [
     "Responsável": "268680 - GABRIEL HENRIQUE MARTINS PEREIRA ",
     "Quantidade de Cana": "BOM",
     "Observações": null,
-    "Fazenda": null,
-    "Observações ": null,
-    "Unnamed: 19": null
+    "Fazenda": null
   },
   {
     "ID": "3433754",
@@ -50370,9 +45992,7 @@ window.QUALIDADE_CANA_DATA = [
     "Responsável": "REGINALDO DA SILVA GOMES [249300]",
     "Quantidade de Cana": "BOM",
     "Observações": null,
-    "Fazenda": null,
-    "Observações ": null,
-    "Unnamed: 19": null
+    "Fazenda": null
   },
   {
     "ID": "3433711",
@@ -50393,9 +46013,7 @@ window.QUALIDADE_CANA_DATA = [
     "Responsável": "FERNANDA DE SOUZA [127577]",
     "Quantidade de Cana": "BOM",
     "Observações": null,
-    "Fazenda": null,
-    "Observações ": null,
-    "Unnamed: 19": null
+    "Fazenda": null
   },
   {
     "ID": "3433634",
@@ -50416,9 +46034,7 @@ window.QUALIDADE_CANA_DATA = [
     "Responsável": "268680 - GABRIEL HENRIQUE MARTINS PEREIRA ",
     "Quantidade de Cana": "BOM",
     "Observações": null,
-    "Fazenda": null,
-    "Observações ": null,
-    "Unnamed: 19": null
+    "Fazenda": null
   },
   {
     "ID": "3433629",
@@ -50439,9 +46055,7 @@ window.QUALIDADE_CANA_DATA = [
     "Responsável": "268680 - GABRIEL HENRIQUE MARTINS PEREIRA ",
     "Quantidade de Cana": "BOM",
     "Observações": null,
-    "Fazenda": null,
-    "Observações ": null,
-    "Unnamed: 19": null
+    "Fazenda": null
   },
   {
     "ID": "3433573",
@@ -50462,9 +46076,7 @@ window.QUALIDADE_CANA_DATA = [
     "Responsável": "NILDA CLAUDINO [2510716]",
     "Quantidade de Cana": "BOM",
     "Observações": null,
-    "Fazenda": null,
-    "Observações ": null,
-    "Unnamed: 19": null
+    "Fazenda": null
   },
   {
     "ID": "3433572",
@@ -50485,9 +46097,7 @@ window.QUALIDADE_CANA_DATA = [
     "Responsável": "NILDA CLAUDINO [2510716]",
     "Quantidade de Cana": "BOM",
     "Observações": null,
-    "Fazenda": null,
-    "Observações ": null,
-    "Unnamed: 19": null
+    "Fazenda": null
   },
   {
     "ID": "3433571",
@@ -50508,9 +46118,7 @@ window.QUALIDADE_CANA_DATA = [
     "Responsável": "NILDA CLAUDINO [2510716]",
     "Quantidade de Cana": "BOM",
     "Observações": null,
-    "Fazenda": null,
-    "Observações ": null,
-    "Unnamed: 19": null
+    "Fazenda": null
   },
   {
     "ID": "3433704",
@@ -50531,9 +46139,7 @@ window.QUALIDADE_CANA_DATA = [
     "Responsável": "FERNANDA DE SOUZA [127577]",
     "Quantidade de Cana": "BOM",
     "Observações": null,
-    "Fazenda": null,
-    "Observações ": null,
-    "Unnamed: 19": null
+    "Fazenda": null
   },
   {
     "ID": "3433384",
@@ -50554,9 +46160,7 @@ window.QUALIDADE_CANA_DATA = [
     "Responsável": "278400 - Vitor Amorim Ramos ",
     "Quantidade de Cana": "BOM",
     "Observações": null,
-    "Fazenda": null,
-    "Observações ": null,
-    "Unnamed: 19": null
+    "Fazenda": null
   },
   {
     "ID": "3433383",
@@ -50577,9 +46181,7 @@ window.QUALIDADE_CANA_DATA = [
     "Responsável": "278400 - Vitor Amorim Ramos ",
     "Quantidade de Cana": "BOM",
     "Observações": null,
-    "Fazenda": null,
-    "Observações ": null,
-    "Unnamed: 19": null
+    "Fazenda": null
   },
   {
     "ID": "3433749",
@@ -50600,9 +46202,7 @@ window.QUALIDADE_CANA_DATA = [
     "Responsável": "REGINALDO DA SILVA GOMES [249300]",
     "Quantidade de Cana": "BOM",
     "Observações": null,
-    "Fazenda": null,
-    "Observações ": null,
-    "Unnamed: 19": null
+    "Fazenda": null
   },
   {
     "ID": "3433741",
@@ -50623,9 +46223,7 @@ window.QUALIDADE_CANA_DATA = [
     "Responsável": "REGINALDO DA SILVA GOMES [249300]",
     "Quantidade de Cana": "BOM",
     "Observações": null,
-    "Fazenda": null,
-    "Observações ": null,
-    "Unnamed: 19": null
+    "Fazenda": null
   },
   {
     "ID": "3433374",
@@ -50646,9 +46244,7 @@ window.QUALIDADE_CANA_DATA = [
     "Responsável": "278400 - Vitor Amorim Ramos ",
     "Quantidade de Cana": "BOM",
     "Observações": null,
-    "Fazenda": null,
-    "Observações ": null,
-    "Unnamed: 19": null
+    "Fazenda": null
   },
   {
     "ID": "3433368",
@@ -50669,9 +46265,7 @@ window.QUALIDADE_CANA_DATA = [
     "Responsável": "278400 - Vitor Amorim Ramos ",
     "Quantidade de Cana": "BOM",
     "Observações": null,
-    "Fazenda": null,
-    "Observações ": null,
-    "Unnamed: 19": null
+    "Fazenda": null
   },
   {
     "ID": "3433738",
@@ -50692,9 +46286,7 @@ window.QUALIDADE_CANA_DATA = [
     "Responsável": "REGINALDO DA SILVA GOMES [249300]",
     "Quantidade de Cana": "BOM",
     "Observações": null,
-    "Fazenda": null,
-    "Observações ": null,
-    "Unnamed: 19": null
+    "Fazenda": null
   },
   {
     "ID": "3433412",
@@ -50715,9 +46307,7 @@ window.QUALIDADE_CANA_DATA = [
     "Responsável": "GLEISON FELIPE BORGES DE MATOS [266770]",
     "Quantidade de Cana": "BOM",
     "Observações": null,
-    "Fazenda": null,
-    "Observações ": null,
-    "Unnamed: 19": null
+    "Fazenda": null
   },
   {
     "ID": "3433620",
@@ -50738,9 +46328,7 @@ window.QUALIDADE_CANA_DATA = [
     "Responsável": "268680 - GABRIEL HENRIQUE MARTINS PEREIRA ",
     "Quantidade de Cana": "BOM",
     "Observações": null,
-    "Fazenda": null,
-    "Observações ": null,
-    "Unnamed: 19": null
+    "Fazenda": null
   },
   {
     "ID": "3433407",
@@ -50761,9 +46349,7 @@ window.QUALIDADE_CANA_DATA = [
     "Responsável": "GLEISON FELIPE BORGES DE MATOS [266770]",
     "Quantidade de Cana": "BOM",
     "Observações": null,
-    "Fazenda": null,
-    "Observações ": null,
-    "Unnamed: 19": null
+    "Fazenda": null
   },
   {
     "ID": "3433615",
@@ -50784,9 +46370,7 @@ window.QUALIDADE_CANA_DATA = [
     "Responsável": "268680 - GABRIEL HENRIQUE MARTINS PEREIRA ",
     "Quantidade de Cana": "BOM",
     "Observações": null,
-    "Fazenda": null,
-    "Observações ": null,
-    "Unnamed: 19": null
+    "Fazenda": null
   },
   {
     "ID": "3433359",
@@ -50807,9 +46391,7 @@ window.QUALIDADE_CANA_DATA = [
     "Responsável": "278400 - Vitor Amorim Ramos ",
     "Quantidade de Cana": "BOM",
     "Observações": null,
-    "Fazenda": null,
-    "Observações ": null,
-    "Unnamed: 19": null
+    "Fazenda": null
   },
   {
     "ID": "3433354",
@@ -50830,9 +46412,7 @@ window.QUALIDADE_CANA_DATA = [
     "Responsável": "278400 - Vitor Amorim Ramos ",
     "Quantidade de Cana": "BOM",
     "Observações": null,
-    "Fazenda": null,
-    "Observações ": null,
-    "Unnamed: 19": null
+    "Fazenda": null
   },
   {
     "ID": "3433610",
@@ -50853,9 +46433,7 @@ window.QUALIDADE_CANA_DATA = [
     "Responsável": "268680 - GABRIEL HENRIQUE MARTINS PEREIRA ",
     "Quantidade de Cana": "BOM",
     "Observações": null,
-    "Fazenda": null,
-    "Observações ": null,
-    "Unnamed: 19": null
+    "Fazenda": null
   },
   {
     "ID": "3433337",
@@ -50876,9 +46454,7 @@ window.QUALIDADE_CANA_DATA = [
     "Responsável": "278400 - Vitor Amorim Ramos ",
     "Quantidade de Cana": "BOM",
     "Observações": null,
-    "Fazenda": null,
-    "Observações ": null,
-    "Unnamed: 19": null
+    "Fazenda": null
   },
   {
     "ID": "3433605",
@@ -50899,9 +46475,7 @@ window.QUALIDADE_CANA_DATA = [
     "Responsável": "268680 - GABRIEL HENRIQUE MARTINS PEREIRA ",
     "Quantidade de Cana": "BOM",
     "Observações": null,
-    "Fazenda": null,
-    "Observações ": null,
-    "Unnamed: 19": null
+    "Fazenda": null
   },
   {
     "ID": "3433332",
@@ -50922,9 +46496,7 @@ window.QUALIDADE_CANA_DATA = [
     "Responsável": "278400 - Vitor Amorim Ramos ",
     "Quantidade de Cana": "BOM",
     "Observações": null,
-    "Fazenda": null,
-    "Observações ": null,
-    "Unnamed: 19": null
+    "Fazenda": null
   },
   {
     "ID": "3433600",
@@ -50945,9 +46517,7 @@ window.QUALIDADE_CANA_DATA = [
     "Responsável": "268680 - GABRIEL HENRIQUE MARTINS PEREIRA ",
     "Quantidade de Cana": "BOM",
     "Observações": null,
-    "Fazenda": null,
-    "Observações ": null,
-    "Unnamed: 19": null
+    "Fazenda": null
   },
   {
     "ID": "3433595",
@@ -50968,9 +46538,7 @@ window.QUALIDADE_CANA_DATA = [
     "Responsável": "268680 - GABRIEL HENRIQUE MARTINS PEREIRA ",
     "Quantidade de Cana": "BOM",
     "Observações": null,
-    "Fazenda": null,
-    "Observações ": null,
-    "Unnamed: 19": null
+    "Fazenda": null
   },
   {
     "ID": "3431560",
@@ -50991,9 +46559,7 @@ window.QUALIDADE_CANA_DATA = [
     "Responsável": "278400 - Vitor Amorim Ramos ",
     "Quantidade de Cana": "BOM",
     "Observações": null,
-    "Fazenda": null,
-    "Observações ": null,
-    "Unnamed: 19": null
+    "Fazenda": null
   },
   {
     "ID": "3431558",
@@ -51014,9 +46580,7 @@ window.QUALIDADE_CANA_DATA = [
     "Responsável": "278400 - Vitor Amorim Ramos ",
     "Quantidade de Cana": "BOM",
     "Observações": null,
-    "Fazenda": null,
-    "Observações ": null,
-    "Unnamed: 19": null
+    "Fazenda": null
   },
   {
     "ID": "3431604",
@@ -51037,9 +46601,7 @@ window.QUALIDADE_CANA_DATA = [
     "Responsável": "GLEISON FELIPE BORGES DE MATOS [266770]",
     "Quantidade de Cana": "BOM",
     "Observações": null,
-    "Fazenda": null,
-    "Observações ": null,
-    "Unnamed: 19": null
+    "Fazenda": null
   },
   {
     "ID": "3431532",
@@ -51060,9 +46622,7 @@ window.QUALIDADE_CANA_DATA = [
     "Responsável": "278400 - Vitor Amorim Ramos ",
     "Quantidade de Cana": "BOM",
     "Observações": null,
-    "Fazenda": null,
-    "Observações ": null,
-    "Unnamed: 19": null
+    "Fazenda": null
   },
   {
     "ID": "3431599",
@@ -51083,9 +46643,7 @@ window.QUALIDADE_CANA_DATA = [
     "Responsável": "GLEISON FELIPE BORGES DE MATOS [266770]",
     "Quantidade de Cana": "BOM",
     "Observações": null,
-    "Fazenda": null,
-    "Observações ": null,
-    "Unnamed: 19": null
+    "Fazenda": null
   },
   {
     "ID": "3431512",
@@ -51106,9 +46664,7 @@ window.QUALIDADE_CANA_DATA = [
     "Responsável": "278400 - Vitor Amorim Ramos ",
     "Quantidade de Cana": "BOM",
     "Observações": null,
-    "Fazenda": null,
-    "Observações ": null,
-    "Unnamed: 19": null
+    "Fazenda": null
   },
   {
     "ID": "3431594",
@@ -51129,9 +46685,7 @@ window.QUALIDADE_CANA_DATA = [
     "Responsável": "MICHELI DE SOUZA SANTOS  ",
     "Quantidade de Cana": "BOM",
     "Observações": null,
-    "Fazenda": null,
-    "Observações ": null,
-    "Unnamed: 19": null
+    "Fazenda": null
   },
   {
     "ID": "3431589",
@@ -51152,9 +46706,7 @@ window.QUALIDADE_CANA_DATA = [
     "Responsável": "MICHELI DE SOUZA SANTOS  ",
     "Quantidade de Cana": "BOM",
     "Observações": null,
-    "Fazenda": null,
-    "Observações ": null,
-    "Unnamed: 19": null
+    "Fazenda": null
   },
   {
     "ID": "3431173",
@@ -51175,9 +46727,7 @@ window.QUALIDADE_CANA_DATA = [
     "Responsável": "REGINALDO DA SILVA GOMES [249300]",
     "Quantidade de Cana": "BOM",
     "Observações": null,
-    "Fazenda": null,
-    "Observações ": null,
-    "Unnamed: 19": null
+    "Fazenda": null
   },
   {
     "ID": "3431168",
@@ -51198,9 +46748,7 @@ window.QUALIDADE_CANA_DATA = [
     "Responsável": "REGINALDO DA SILVA GOMES [249300]",
     "Quantidade de Cana": "BOM",
     "Observações": null,
-    "Fazenda": null,
-    "Observações ": null,
-    "Unnamed: 19": null
+    "Fazenda": null
   },
   {
     "ID": "3431176",
@@ -51221,9 +46769,7 @@ window.QUALIDADE_CANA_DATA = [
     "Responsável": "REGINALDO DA SILVA GOMES [249300]",
     "Quantidade de Cana": "BOM",
     "Observações": null,
-    "Fazenda": null,
-    "Observações ": null,
-    "Unnamed: 19": null
+    "Fazenda": null
   },
   {
     "ID": "3428842",
@@ -51244,9 +46790,7 @@ window.QUALIDADE_CANA_DATA = [
     "Responsável": "REGINALDO DA SILVA GOMES [249300]",
     "Quantidade de Cana": "BOM",
     "Observações": null,
-    "Fazenda": null,
-    "Observações ": null,
-    "Unnamed: 19": null
+    "Fazenda": null
   },
   {
     "ID": "3428825",
@@ -51267,9 +46811,7 @@ window.QUALIDADE_CANA_DATA = [
     "Responsável": "MICHELI DE SOUZA SANTOS  ",
     "Quantidade de Cana": "BOM",
     "Observações": null,
-    "Fazenda": null,
-    "Observações ": null,
-    "Unnamed: 19": null
+    "Fazenda": null
   },
   {
     "ID": "3428837",
@@ -51290,9 +46832,7 @@ window.QUALIDADE_CANA_DATA = [
     "Responsável": "REGINALDO DA SILVA GOMES [249300]",
     "Quantidade de Cana": "BOM",
     "Observações": null,
-    "Fazenda": null,
-    "Observações ": null,
-    "Unnamed: 19": null
+    "Fazenda": null
   },
   {
     "ID": "3428820",
@@ -51313,9 +46853,7 @@ window.QUALIDADE_CANA_DATA = [
     "Responsável": "MICHELI DE SOUZA SANTOS  ",
     "Quantidade de Cana": "BOM",
     "Observações": null,
-    "Fazenda": null,
-    "Observações ": null,
-    "Unnamed: 19": null
+    "Fazenda": null
   },
   {
     "ID": "3428832",
@@ -51336,9 +46874,7 @@ window.QUALIDADE_CANA_DATA = [
     "Responsável": "REGINALDO DA SILVA GOMES [249300]",
     "Quantidade de Cana": "BOM",
     "Observações": null,
-    "Fazenda": null,
-    "Observações ": null,
-    "Unnamed: 19": null
+    "Fazenda": null
   },
   {
     "ID": "3428694",
@@ -51359,9 +46895,7 @@ window.QUALIDADE_CANA_DATA = [
     "Responsável": "268680 - GABRIEL HENRIQUE MARTINS PEREIRA ",
     "Quantidade de Cana": "BOM",
     "Observações": null,
-    "Fazenda": null,
-    "Observações ": null,
-    "Unnamed: 19": null
+    "Fazenda": null
   },
   {
     "ID": "3428279",
@@ -51382,9 +46916,7 @@ window.QUALIDADE_CANA_DATA = [
     "Responsável": "MICHELI DE SOUZA SANTOS  ",
     "Quantidade de Cana": "BOM",
     "Observações": null,
-    "Fazenda": null,
-    "Observações ": null,
-    "Unnamed: 19": null
+    "Fazenda": null
   },
   {
     "ID": "3428274",
@@ -51405,9 +46937,7 @@ window.QUALIDADE_CANA_DATA = [
     "Responsável": "MICHELI DE SOUZA SANTOS  ",
     "Quantidade de Cana": "BOM",
     "Observações": null,
-    "Fazenda": null,
-    "Observações ": null,
-    "Unnamed: 19": null
+    "Fazenda": null
   },
   {
     "ID": "3428688",
@@ -51428,9 +46958,7 @@ window.QUALIDADE_CANA_DATA = [
     "Responsável": "268680 - GABRIEL HENRIQUE MARTINS PEREIRA ",
     "Quantidade de Cana": "BOM",
     "Observações": null,
-    "Fazenda": null,
-    "Observações ": null,
-    "Unnamed: 19": null
+    "Fazenda": null
   },
   {
     "ID": "3428405",
@@ -51451,9 +46979,7 @@ window.QUALIDADE_CANA_DATA = [
     "Responsável": "278400 - Vitor Amorim Ramos ",
     "Quantidade de Cana": "BOM",
     "Observações": null,
-    "Fazenda": null,
-    "Observações ": null,
-    "Unnamed: 19": null
+    "Fazenda": null
   },
   {
     "ID": "3428301",
@@ -51474,9 +47000,7 @@ window.QUALIDADE_CANA_DATA = [
     "Responsável": "REGINALDO DA SILVA GOMES [249300]",
     "Quantidade de Cana": "BOM",
     "Observações": null,
-    "Fazenda": null,
-    "Observações ": null,
-    "Unnamed: 19": null
+    "Fazenda": null
   },
   {
     "ID": "3428268",
@@ -51497,9 +47021,7 @@ window.QUALIDADE_CANA_DATA = [
     "Responsável": "MICHELI DE SOUZA SANTOS  ",
     "Quantidade de Cana": "BOM",
     "Observações": null,
-    "Fazenda": null,
-    "Observações ": null,
-    "Unnamed: 19": null
+    "Fazenda": null
   },
   {
     "ID": "3428400",
@@ -51520,9 +47042,7 @@ window.QUALIDADE_CANA_DATA = [
     "Responsável": "278400 - Vitor Amorim Ramos ",
     "Quantidade de Cana": "BOM",
     "Observações": null,
-    "Fazenda": null,
-    "Observações ": null,
-    "Unnamed: 19": null
+    "Fazenda": null
   },
   {
     "ID": "3428296",
@@ -51543,9 +47063,7 @@ window.QUALIDADE_CANA_DATA = [
     "Responsável": "REGINALDO DA SILVA GOMES [249300]",
     "Quantidade de Cana": "BOM",
     "Observações": null,
-    "Fazenda": null,
-    "Observações ": null,
-    "Unnamed: 19": null
+    "Fazenda": null
   },
   {
     "ID": "3428682",
@@ -51566,9 +47084,7 @@ window.QUALIDADE_CANA_DATA = [
     "Responsável": "268680 - GABRIEL HENRIQUE MARTINS PEREIRA ",
     "Quantidade de Cana": "BOM",
     "Observações": null,
-    "Fazenda": null,
-    "Observações ": null,
-    "Unnamed: 19": null
+    "Fazenda": null
   },
   {
     "ID": "3428263",
@@ -51589,9 +47105,7 @@ window.QUALIDADE_CANA_DATA = [
     "Responsável": "MICHELI DE SOUZA SANTOS  ",
     "Quantidade de Cana": "BOM",
     "Observações": null,
-    "Fazenda": null,
-    "Observações ": null,
-    "Unnamed: 19": null
+    "Fazenda": null
   },
   {
     "ID": "3428383",
@@ -51612,9 +47126,7 @@ window.QUALIDADE_CANA_DATA = [
     "Responsável": "278400 - Vitor Amorim Ramos ",
     "Quantidade de Cana": "BOM",
     "Observações": null,
-    "Fazenda": null,
-    "Observações ": null,
-    "Unnamed: 19": null
+    "Fazenda": null
   },
   {
     "ID": "3428293",
@@ -51635,9 +47147,7 @@ window.QUALIDADE_CANA_DATA = [
     "Responsável": "REGINALDO DA SILVA GOMES [249300]",
     "Quantidade de Cana": "BOM",
     "Observações": null,
-    "Fazenda": null,
-    "Observações ": null,
-    "Unnamed: 19": null
+    "Fazenda": null
   },
   {
     "ID": "3428258",
@@ -51658,9 +47168,7 @@ window.QUALIDADE_CANA_DATA = [
     "Responsável": "MICHELI DE SOUZA SANTOS  ",
     "Quantidade de Cana": "BOM",
     "Observações": null,
-    "Fazenda": null,
-    "Observações ": null,
-    "Unnamed: 19": null
+    "Fazenda": null
   },
   {
     "ID": "3428677",
@@ -51681,9 +47189,7 @@ window.QUALIDADE_CANA_DATA = [
     "Responsável": "268680 - GABRIEL HENRIQUE MARTINS PEREIRA ",
     "Quantidade de Cana": "BOM",
     "Observações": null,
-    "Fazenda": null,
-    "Observações ": null,
-    "Unnamed: 19": null
+    "Fazenda": null
   },
   {
     "ID": "3428372",
@@ -51704,9 +47210,7 @@ window.QUALIDADE_CANA_DATA = [
     "Responsável": "278400 - Vitor Amorim Ramos ",
     "Quantidade de Cana": "BOM",
     "Observações": null,
-    "Fazenda": null,
-    "Observações ": null,
-    "Unnamed: 19": null
+    "Fazenda": null
   },
   {
     "ID": "3428364",
@@ -51727,9 +47231,7 @@ window.QUALIDADE_CANA_DATA = [
     "Responsável": "278400 - Vitor Amorim Ramos ",
     "Quantidade de Cana": "BOM",
     "Observações": null,
-    "Fazenda": null,
-    "Observações ": null,
-    "Unnamed: 19": null
+    "Fazenda": null
   },
   {
     "ID": "3428672",
@@ -51750,9 +47252,7 @@ window.QUALIDADE_CANA_DATA = [
     "Responsável": "268680 - GABRIEL HENRIQUE MARTINS PEREIRA ",
     "Quantidade de Cana": "BOM",
     "Observações": null,
-    "Fazenda": null,
-    "Observações ": null,
-    "Unnamed: 19": null
+    "Fazenda": null
   },
   {
     "ID": "3428359",
@@ -51773,9 +47273,7 @@ window.QUALIDADE_CANA_DATA = [
     "Responsável": "278400 - Vitor Amorim Ramos ",
     "Quantidade de Cana": "BOM",
     "Observações": null,
-    "Fazenda": null,
-    "Observações ": null,
-    "Unnamed: 19": null
+    "Fazenda": null
   },
   {
     "ID": "3428667",
@@ -51796,9 +47294,7 @@ window.QUALIDADE_CANA_DATA = [
     "Responsável": "268680 - GABRIEL HENRIQUE MARTINS PEREIRA ",
     "Quantidade de Cana": "BOM",
     "Observações": null,
-    "Fazenda": null,
-    "Observações ": null,
-    "Unnamed: 19": null
+    "Fazenda": null
   },
   {
     "ID": "3428354",
@@ -51819,9 +47315,7 @@ window.QUALIDADE_CANA_DATA = [
     "Responsável": "278400 - Vitor Amorim Ramos ",
     "Quantidade de Cana": "BOM",
     "Observações": null,
-    "Fazenda": null,
-    "Observações ": null,
-    "Unnamed: 19": null
+    "Fazenda": null
   },
   {
     "ID": "3428662",
@@ -51842,9 +47336,7 @@ window.QUALIDADE_CANA_DATA = [
     "Responsável": "268680 - GABRIEL HENRIQUE MARTINS PEREIRA ",
     "Quantidade de Cana": "BOM",
     "Observações": null,
-    "Fazenda": null,
-    "Observações ": null,
-    "Unnamed: 19": null
+    "Fazenda": null
   },
   {
     "ID": "3428349",
@@ -51865,9 +47357,7 @@ window.QUALIDADE_CANA_DATA = [
     "Responsável": "278400 - Vitor Amorim Ramos ",
     "Quantidade de Cana": "BOM",
     "Observações": null,
-    "Fazenda": null,
-    "Observações ": null,
-    "Unnamed: 19": null
+    "Fazenda": null
   },
   {
     "ID": "3428343",
@@ -51888,9 +47378,7 @@ window.QUALIDADE_CANA_DATA = [
     "Responsável": "278400 - Vitor Amorim Ramos ",
     "Quantidade de Cana": "BOM",
     "Observações": null,
-    "Fazenda": null,
-    "Observações ": null,
-    "Unnamed: 19": null
+    "Fazenda": null
   },
   {
     "ID": "3428332",
@@ -51911,9 +47399,7 @@ window.QUALIDADE_CANA_DATA = [
     "Responsável": "278400 - Vitor Amorim Ramos ",
     "Quantidade de Cana": "BOM",
     "Observações": null,
-    "Fazenda": null,
-    "Observações ": null,
-    "Unnamed: 19": null
+    "Fazenda": null
   },
   {
     "ID": "3428318",
@@ -51934,9 +47420,7 @@ window.QUALIDADE_CANA_DATA = [
     "Responsável": "278400 - Vitor Amorim Ramos ",
     "Quantidade de Cana": "BOM",
     "Observações": null,
-    "Fazenda": null,
-    "Observações ": null,
-    "Unnamed: 19": null
+    "Fazenda": null
   },
   {
     "ID": "3426544",
@@ -51957,9 +47441,7 @@ window.QUALIDADE_CANA_DATA = [
     "Responsável": "278400 - Vitor Amorim Ramos ",
     "Quantidade de Cana": "BOM",
     "Observações": null,
-    "Fazenda": null,
-    "Observações ": null,
-    "Unnamed: 19": null
+    "Fazenda": null
   },
   {
     "ID": "3426539",
@@ -51980,9 +47462,7 @@ window.QUALIDADE_CANA_DATA = [
     "Responsável": "278400 - Vitor Amorim Ramos ",
     "Quantidade de Cana": "BOM",
     "Observações": null,
-    "Fazenda": null,
-    "Observações ": null,
-    "Unnamed: 19": null
+    "Fazenda": null
   },
   {
     "ID": "3426534",
@@ -52003,9 +47483,7 @@ window.QUALIDADE_CANA_DATA = [
     "Responsável": "278400 - Vitor Amorim Ramos ",
     "Quantidade de Cana": "BOM",
     "Observações": null,
-    "Fazenda": null,
-    "Observações ": null,
-    "Unnamed: 19": null
+    "Fazenda": null
   },
   {
     "ID": "3426528",
@@ -52026,9 +47504,7 @@ window.QUALIDADE_CANA_DATA = [
     "Responsável": "278400 - Vitor Amorim Ramos ",
     "Quantidade de Cana": "BOM",
     "Observações": null,
-    "Fazenda": null,
-    "Observações ": null,
-    "Unnamed: 19": null
+    "Fazenda": null
   },
   {
     "ID": "3426521",
@@ -52049,9 +47525,7 @@ window.QUALIDADE_CANA_DATA = [
     "Responsável": "278400 - Vitor Amorim Ramos ",
     "Quantidade de Cana": "BOM",
     "Observações": null,
-    "Fazenda": null,
-    "Observações ": null,
-    "Unnamed: 19": null
+    "Fazenda": null
   },
   {
     "ID": "3425040",
@@ -52072,9 +47546,7 @@ window.QUALIDADE_CANA_DATA = [
     "Responsável": "278400 - Vitor Amorim Ramos ",
     "Quantidade de Cana": "BOM",
     "Observações": null,
-    "Fazenda": null,
-    "Observações ": null,
-    "Unnamed: 19": null
+    "Fazenda": null
   },
   {
     "ID": "3425037",
@@ -52095,9 +47567,7 @@ window.QUALIDADE_CANA_DATA = [
     "Responsável": "278400 - Vitor Amorim Ramos ",
     "Quantidade de Cana": "BOM",
     "Observações": null,
-    "Fazenda": null,
-    "Observações ": null,
-    "Unnamed: 19": null
+    "Fazenda": null
   },
   {
     "ID": "3425014",
@@ -52118,9 +47588,7 @@ window.QUALIDADE_CANA_DATA = [
     "Responsável": "278400 - Vitor Amorim Ramos ",
     "Quantidade de Cana": "BOM",
     "Observações": null,
-    "Fazenda": null,
-    "Observações ": null,
-    "Unnamed: 19": null
+    "Fazenda": null
   },
   {
     "ID": "3425009",
@@ -52141,9 +47609,7 @@ window.QUALIDADE_CANA_DATA = [
     "Responsável": "278400 - Vitor Amorim Ramos ",
     "Quantidade de Cana": "BOM",
     "Observações": null,
-    "Fazenda": null,
-    "Observações ": null,
-    "Unnamed: 19": null
+    "Fazenda": null
   },
   {
     "ID": "3424981",
@@ -52164,9 +47630,7 @@ window.QUALIDADE_CANA_DATA = [
     "Responsável": "278400 - Vitor Amorim Ramos ",
     "Quantidade de Cana": "BOM",
     "Observações": null,
-    "Fazenda": null,
-    "Observações ": null,
-    "Unnamed: 19": null
+    "Fazenda": null
   },
   {
     "ID": "3424975",
@@ -52187,9 +47651,7 @@ window.QUALIDADE_CANA_DATA = [
     "Responsável": "278400 - Vitor Amorim Ramos ",
     "Quantidade de Cana": "BOM",
     "Observações": null,
-    "Fazenda": null,
-    "Observações ": null,
-    "Unnamed: 19": null
+    "Fazenda": null
   },
   {
     "ID": "3423179",
@@ -52210,9 +47672,7 @@ window.QUALIDADE_CANA_DATA = [
     "Responsável": "278400 - Vitor Amorim Ramos ",
     "Quantidade de Cana": "BOM",
     "Observações": null,
-    "Fazenda": null,
-    "Observações ": null,
-    "Unnamed: 19": null
+    "Fazenda": null
   },
   {
     "ID": "3423027",
@@ -52233,9 +47693,7 @@ window.QUALIDADE_CANA_DATA = [
     "Responsável": "MICHELI DE SOUZA SANTOS  ",
     "Quantidade de Cana": "BOM",
     "Observações": null,
-    "Fazenda": null,
-    "Observações ": null,
-    "Unnamed: 19": null
+    "Fazenda": null
   },
   {
     "ID": "3423003",
@@ -52256,9 +47714,7 @@ window.QUALIDADE_CANA_DATA = [
     "Responsável": "MICHELI DE SOUZA SANTOS  ",
     "Quantidade de Cana": "BOM",
     "Observações": null,
-    "Fazenda": null,
-    "Observações ": null,
-    "Unnamed: 19": null
+    "Fazenda": null
   },
   {
     "ID": "3423164",
@@ -52279,9 +47735,7 @@ window.QUALIDADE_CANA_DATA = [
     "Responsável": "278400 - Vitor Amorim Ramos ",
     "Quantidade de Cana": "BOM",
     "Observações": null,
-    "Fazenda": null,
-    "Observações ": null,
-    "Unnamed: 19": null
+    "Fazenda": null
   },
   {
     "ID": "3423159",
@@ -52302,9 +47756,7 @@ window.QUALIDADE_CANA_DATA = [
     "Responsável": "278400 - Vitor Amorim Ramos ",
     "Quantidade de Cana": "BOM",
     "Observações": null,
-    "Fazenda": null,
-    "Observações ": null,
-    "Unnamed: 19": null
+    "Fazenda": null
   },
   {
     "ID": "3422745",
@@ -52325,9 +47777,7 @@ window.QUALIDADE_CANA_DATA = [
     "Responsável": "REGINALDO DA SILVA GOMES [249300]",
     "Quantidade de Cana": "BOM",
     "Observações": null,
-    "Fazenda": null,
-    "Observações ": null,
-    "Unnamed: 19": null
+    "Fazenda": null
   },
   {
     "ID": "3423154",
@@ -52348,9 +47798,7 @@ window.QUALIDADE_CANA_DATA = [
     "Responsável": "278400 - Vitor Amorim Ramos ",
     "Quantidade de Cana": "BOM",
     "Observações": null,
-    "Fazenda": null,
-    "Observações ": null,
-    "Unnamed: 19": null
+    "Fazenda": null
   },
   {
     "ID": "3422740",
@@ -52371,9 +47819,7 @@ window.QUALIDADE_CANA_DATA = [
     "Responsável": "REGINALDO DA SILVA GOMES [249300]",
     "Quantidade de Cana": "BOM",
     "Observações": null,
-    "Fazenda": null,
-    "Observações ": null,
-    "Unnamed: 19": null
+    "Fazenda": null
   },
   {
     "ID": "3422804",
@@ -52394,9 +47840,7 @@ window.QUALIDADE_CANA_DATA = [
     "Responsável": "278400 - Vitor Amorim Ramos ",
     "Quantidade de Cana": "BOM",
     "Observações": null,
-    "Fazenda": null,
-    "Observações ": null,
-    "Unnamed: 19": null
+    "Fazenda": null
   },
   {
     "ID": "3422735",
@@ -52417,9 +47861,7 @@ window.QUALIDADE_CANA_DATA = [
     "Responsável": "REGINALDO DA SILVA GOMES [249300]",
     "Quantidade de Cana": "BOM",
     "Observações": null,
-    "Fazenda": null,
-    "Observações ": null,
-    "Unnamed: 19": null
+    "Fazenda": null
   },
   {
     "ID": "3422771",
@@ -52440,9 +47882,7 @@ window.QUALIDADE_CANA_DATA = [
     "Responsável": "278400 - Vitor Amorim Ramos ",
     "Quantidade de Cana": "BOM",
     "Observações": null,
-    "Fazenda": null,
-    "Observações ": null,
-    "Unnamed: 19": null
+    "Fazenda": null
   },
   {
     "ID": "3422765",
@@ -52463,9 +47903,7 @@ window.QUALIDADE_CANA_DATA = [
     "Responsável": "278400 - Vitor Amorim Ramos ",
     "Quantidade de Cana": "BOM",
     "Observações": null,
-    "Fazenda": null,
-    "Observações ": null,
-    "Unnamed: 19": null
+    "Fazenda": null
   },
   {
     "ID": "3422752",
@@ -52486,9 +47924,7 @@ window.QUALIDADE_CANA_DATA = [
     "Responsável": "278400 - Vitor Amorim Ramos ",
     "Quantidade de Cana": "BOM",
     "Observações": null,
-    "Fazenda": null,
-    "Observações ": null,
-    "Unnamed: 19": null
+    "Fazenda": null
   },
   {
     "ID": "3421346",
@@ -52509,9 +47945,7 @@ window.QUALIDADE_CANA_DATA = [
     "Responsável": "MARCELO DE OLIVEIRA JUNIOR [264820]",
     "Quantidade de Cana": "BOM",
     "Observações": null,
-    "Fazenda": null,
-    "Observações ": null,
-    "Unnamed: 19": null
+    "Fazenda": null
   },
   {
     "ID": "3421193",
@@ -52532,9 +47966,7 @@ window.QUALIDADE_CANA_DATA = [
     "Responsável": "278400 - Vitor Amorim Ramos ",
     "Quantidade de Cana": "BOM",
     "Observações": null,
-    "Fazenda": null,
-    "Observações ": null,
-    "Unnamed: 19": null
+    "Fazenda": null
   },
   {
     "ID": "3421191",
@@ -52555,9 +47987,7 @@ window.QUALIDADE_CANA_DATA = [
     "Responsável": "278400 - Vitor Amorim Ramos ",
     "Quantidade de Cana": "BOM",
     "Observações": null,
-    "Fazenda": null,
-    "Observações ": null,
-    "Unnamed: 19": null
+    "Fazenda": null
   },
   {
     "ID": "3421188",
@@ -52578,9 +48008,7 @@ window.QUALIDADE_CANA_DATA = [
     "Responsável": "278400 - Vitor Amorim Ramos ",
     "Quantidade de Cana": "BOM",
     "Observações": null,
-    "Fazenda": null,
-    "Observações ": null,
-    "Unnamed: 19": null
+    "Fazenda": null
   },
   {
     "ID": "3421186",
@@ -52601,9 +48029,7 @@ window.QUALIDADE_CANA_DATA = [
     "Responsável": "278400 - Vitor Amorim Ramos ",
     "Quantidade de Cana": "BOM",
     "Observações": null,
-    "Fazenda": null,
-    "Observações ": null,
-    "Unnamed: 19": null
+    "Fazenda": null
   },
   {
     "ID": "3421179",
@@ -52624,9 +48050,7 @@ window.QUALIDADE_CANA_DATA = [
     "Responsável": "278400 - Vitor Amorim Ramos ",
     "Quantidade de Cana": "BOM",
     "Observações": null,
-    "Fazenda": null,
-    "Observações ": null,
-    "Unnamed: 19": null
+    "Fazenda": null
   },
   {
     "ID": "3421173",
@@ -52647,9 +48071,7 @@ window.QUALIDADE_CANA_DATA = [
     "Responsável": "278400 - Vitor Amorim Ramos ",
     "Quantidade de Cana": "BOM",
     "Observações": null,
-    "Fazenda": null,
-    "Observações ": null,
-    "Unnamed: 19": null
+    "Fazenda": null
   },
   {
     "ID": "3421125",
@@ -52670,9 +48092,7 @@ window.QUALIDADE_CANA_DATA = [
     "Responsável": "278400 - Vitor Amorim Ramos ",
     "Quantidade de Cana": "BOM",
     "Observações": null,
-    "Fazenda": null,
-    "Observações ": null,
-    "Unnamed: 19": null
+    "Fazenda": null
   },
   {
     "ID": "3417436",
@@ -52693,9 +48113,7 @@ window.QUALIDADE_CANA_DATA = [
     "Responsável": "278400 - Vitor Amorim Ramos ",
     "Quantidade de Cana": "BOM",
     "Observações": null,
-    "Fazenda": null,
-    "Observações ": null,
-    "Unnamed: 19": null
+    "Fazenda": null
   },
   {
     "ID": "3417431",
@@ -52716,9 +48134,7 @@ window.QUALIDADE_CANA_DATA = [
     "Responsável": "278400 - Vitor Amorim Ramos ",
     "Quantidade de Cana": "BOM",
     "Observações": null,
-    "Fazenda": null,
-    "Observações ": null,
-    "Unnamed: 19": null
+    "Fazenda": null
   },
   {
     "ID": "3417426",
@@ -52739,9 +48155,7 @@ window.QUALIDADE_CANA_DATA = [
     "Responsável": "278400 - Vitor Amorim Ramos ",
     "Quantidade de Cana": "BOM",
     "Observações": null,
-    "Fazenda": null,
-    "Observações ": null,
-    "Unnamed: 19": null
+    "Fazenda": null
   },
   {
     "ID": "3417422",
@@ -52762,9 +48176,7 @@ window.QUALIDADE_CANA_DATA = [
     "Responsável": "278400 - Vitor Amorim Ramos ",
     "Quantidade de Cana": "BOM",
     "Observações": null,
-    "Fazenda": null,
-    "Observações ": null,
-    "Unnamed: 19": null
+    "Fazenda": null
   },
   {
     "ID": "3417417",
@@ -52785,9 +48197,7 @@ window.QUALIDADE_CANA_DATA = [
     "Responsável": "278400 - Vitor Amorim Ramos ",
     "Quantidade de Cana": "BOM",
     "Observações": null,
-    "Fazenda": null,
-    "Observações ": null,
-    "Unnamed: 19": null
+    "Fazenda": null
   },
   {
     "ID": "3417412",
@@ -52808,9 +48218,7 @@ window.QUALIDADE_CANA_DATA = [
     "Responsável": "278400 - Vitor Amorim Ramos ",
     "Quantidade de Cana": "BOM",
     "Observações": null,
-    "Fazenda": null,
-    "Observações ": null,
-    "Unnamed: 19": null
+    "Fazenda": null
   },
   {
     "ID": "3416393",
@@ -52831,9 +48239,7 @@ window.QUALIDADE_CANA_DATA = [
     "Responsável": "278400 - Vitor Amorim Ramos ",
     "Quantidade de Cana": "BOM",
     "Observações": null,
-    "Fazenda": null,
-    "Observações ": null,
-    "Unnamed: 19": null
+    "Fazenda": null
   },
   {
     "ID": "3416392",
@@ -52854,9 +48260,7 @@ window.QUALIDADE_CANA_DATA = [
     "Responsável": "278400 - Vitor Amorim Ramos ",
     "Quantidade de Cana": "BOM",
     "Observações": null,
-    "Fazenda": null,
-    "Observações ": null,
-    "Unnamed: 19": null
+    "Fazenda": null
   },
   {
     "ID": "3416387",
@@ -52877,9 +48281,7 @@ window.QUALIDADE_CANA_DATA = [
     "Responsável": "278400 - Vitor Amorim Ramos ",
     "Quantidade de Cana": "BOM",
     "Observações": null,
-    "Fazenda": null,
-    "Observações ": null,
-    "Unnamed: 19": null
+    "Fazenda": null
   },
   {
     "ID": "3416381",
@@ -52900,9 +48302,7 @@ window.QUALIDADE_CANA_DATA = [
     "Responsável": "278400 - Vitor Amorim Ramos ",
     "Quantidade de Cana": "BOM",
     "Observações": null,
-    "Fazenda": null,
-    "Observações ": null,
-    "Unnamed: 19": null
+    "Fazenda": null
   },
   {
     "ID": "3416376",
@@ -52923,9 +48323,7 @@ window.QUALIDADE_CANA_DATA = [
     "Responsável": "278400 - Vitor Amorim Ramos ",
     "Quantidade de Cana": "BOM",
     "Observações": null,
-    "Fazenda": null,
-    "Observações ": null,
-    "Unnamed: 19": null
+    "Fazenda": null
   },
   {
     "ID": "3415091",
@@ -52946,9 +48344,7 @@ window.QUALIDADE_CANA_DATA = [
     "Responsável": "278400 - Vitor Amorim Ramos ",
     "Quantidade de Cana": "BOM",
     "Observações": null,
-    "Fazenda": null,
-    "Observações ": null,
-    "Unnamed: 19": null
+    "Fazenda": null
   },
   {
     "ID": "3415090",
@@ -52969,9 +48365,7 @@ window.QUALIDADE_CANA_DATA = [
     "Responsável": "278400 - Vitor Amorim Ramos ",
     "Quantidade de Cana": "BOM",
     "Observações": null,
-    "Fazenda": null,
-    "Observações ": null,
-    "Unnamed: 19": null
+    "Fazenda": null
   },
   {
     "ID": "3415084",
@@ -52992,9 +48386,7 @@ window.QUALIDADE_CANA_DATA = [
     "Responsável": "278400 - Vitor Amorim Ramos ",
     "Quantidade de Cana": "BOM",
     "Observações": null,
-    "Fazenda": null,
-    "Observações ": null,
-    "Unnamed: 19": null
+    "Fazenda": null
   },
   {
     "ID": "3415072",
@@ -53015,9 +48407,7 @@ window.QUALIDADE_CANA_DATA = [
     "Responsável": "278400 - Vitor Amorim Ramos ",
     "Quantidade de Cana": "BOM",
     "Observações": null,
-    "Fazenda": null,
-    "Observações ": null,
-    "Unnamed: 19": null
+    "Fazenda": null
   },
   {
     "ID": "3414956",
@@ -53038,9 +48428,7 @@ window.QUALIDADE_CANA_DATA = [
     "Responsável": "278400 - Vitor Amorim Ramos ",
     "Quantidade de Cana": "BOM",
     "Observações": null,
-    "Fazenda": null,
-    "Observações ": null,
-    "Unnamed: 19": null
+    "Fazenda": null
   },
   {
     "ID": "3414955",
@@ -53061,9 +48449,7 @@ window.QUALIDADE_CANA_DATA = [
     "Responsável": "278400 - Vitor Amorim Ramos ",
     "Quantidade de Cana": "BOM",
     "Observações": null,
-    "Fazenda": null,
-    "Observações ": null,
-    "Unnamed: 19": null
+    "Fazenda": null
   },
   {
     "ID": "3414954",
@@ -53084,9 +48470,7 @@ window.QUALIDADE_CANA_DATA = [
     "Responsável": "278400 - Vitor Amorim Ramos ",
     "Quantidade de Cana": "BOM",
     "Observações": null,
-    "Fazenda": null,
-    "Observações ": null,
-    "Unnamed: 19": null
+    "Fazenda": null
   },
   {
     "ID": "3414944",
@@ -53107,9 +48491,7 @@ window.QUALIDADE_CANA_DATA = [
     "Responsável": "278400 - Vitor Amorim Ramos ",
     "Quantidade de Cana": "BOM",
     "Observações": null,
-    "Fazenda": null,
-    "Observações ": null,
-    "Unnamed: 19": null
+    "Fazenda": null
   },
   {
     "ID": "3414935",
@@ -53130,9 +48512,7 @@ window.QUALIDADE_CANA_DATA = [
     "Responsável": "278400 - Vitor Amorim Ramos ",
     "Quantidade de Cana": "BOM",
     "Observações": null,
-    "Fazenda": null,
-    "Observações ": null,
-    "Unnamed: 19": null
+    "Fazenda": null
   },
   {
     "ID": "3414904",
@@ -53153,9 +48533,7 @@ window.QUALIDADE_CANA_DATA = [
     "Responsável": "278400 - Vitor Amorim Ramos ",
     "Quantidade de Cana": "BOM",
     "Observações": null,
-    "Fazenda": null,
-    "Observações ": null,
-    "Unnamed: 19": null
+    "Fazenda": null
   },
   {
     "ID": "3414899",
@@ -53176,9 +48554,7 @@ window.QUALIDADE_CANA_DATA = [
     "Responsável": "278400 - Vitor Amorim Ramos ",
     "Quantidade de Cana": "BOM",
     "Observações": null,
-    "Fazenda": null,
-    "Observações ": null,
-    "Unnamed: 19": null
+    "Fazenda": null
   },
   {
     "ID": "3414887",
@@ -53199,9 +48575,7 @@ window.QUALIDADE_CANA_DATA = [
     "Responsável": "278400 - Vitor Amorim Ramos ",
     "Quantidade de Cana": "BOM",
     "Observações": null,
-    "Fazenda": null,
-    "Observações ": null,
-    "Unnamed: 19": null
+    "Fazenda": null
   },
   {
     "ID": "3414882",
@@ -53222,9 +48596,7 @@ window.QUALIDADE_CANA_DATA = [
     "Responsável": "278400 - Vitor Amorim Ramos ",
     "Quantidade de Cana": "BOM",
     "Observações": null,
-    "Fazenda": null,
-    "Observações ": null,
-    "Unnamed: 19": null
+    "Fazenda": null
   },
   {
     "ID": "3414877",
@@ -53245,9 +48617,7 @@ window.QUALIDADE_CANA_DATA = [
     "Responsável": "278400 - Vitor Amorim Ramos ",
     "Quantidade de Cana": "BOM",
     "Observações": null,
-    "Fazenda": null,
-    "Observações ": null,
-    "Unnamed: 19": null
+    "Fazenda": null
   },
   {
     "ID": "3413434",
@@ -53268,9 +48638,7 @@ window.QUALIDADE_CANA_DATA = [
     "Responsável": "278400 - Vitor Amorim Ramos ",
     "Quantidade de Cana": "BOM",
     "Observações": null,
-    "Fazenda": null,
-    "Observações ": null,
-    "Unnamed: 19": null
+    "Fazenda": null
   },
   {
     "ID": "3413429",
@@ -53291,9 +48659,7 @@ window.QUALIDADE_CANA_DATA = [
     "Responsável": "278400 - Vitor Amorim Ramos ",
     "Quantidade de Cana": "BOM",
     "Observações": null,
-    "Fazenda": null,
-    "Observações ": null,
-    "Unnamed: 19": null
+    "Fazenda": null
   },
   {
     "ID": "3413424",
@@ -53314,9 +48680,7 @@ window.QUALIDADE_CANA_DATA = [
     "Responsável": "278400 - Vitor Amorim Ramos ",
     "Quantidade de Cana": "BOM",
     "Observações": null,
-    "Fazenda": null,
-    "Observações ": null,
-    "Unnamed: 19": null
+    "Fazenda": null
   },
   {
     "ID": "3413417",
@@ -53337,9 +48701,7 @@ window.QUALIDADE_CANA_DATA = [
     "Responsável": "278400 - Vitor Amorim Ramos ",
     "Quantidade de Cana": "BOM",
     "Observações": null,
-    "Fazenda": null,
-    "Observações ": null,
-    "Unnamed: 19": null
+    "Fazenda": null
   },
   {
     "ID": "3413411",
@@ -53360,9 +48722,7 @@ window.QUALIDADE_CANA_DATA = [
     "Responsável": "278400 - Vitor Amorim Ramos ",
     "Quantidade de Cana": "BOM",
     "Observações": null,
-    "Fazenda": null,
-    "Observações ": null,
-    "Unnamed: 19": null
+    "Fazenda": null
   },
   {
     "ID": "3413402",
@@ -53383,9 +48743,7 @@ window.QUALIDADE_CANA_DATA = [
     "Responsável": "278400 - Vitor Amorim Ramos ",
     "Quantidade de Cana": "BOM",
     "Observações": null,
-    "Fazenda": null,
-    "Observações ": null,
-    "Unnamed: 19": null
+    "Fazenda": null
   },
   {
     "ID": "3413397",
@@ -53406,9 +48764,7 @@ window.QUALIDADE_CANA_DATA = [
     "Responsável": "278400 - Vitor Amorim Ramos ",
     "Quantidade de Cana": "BOM",
     "Observações": null,
-    "Fazenda": null,
-    "Observações ": null,
-    "Unnamed: 19": null
+    "Fazenda": null
   },
   {
     "ID": "3413394",
@@ -53429,9 +48785,7 @@ window.QUALIDADE_CANA_DATA = [
     "Responsável": "278400 - Vitor Amorim Ramos ",
     "Quantidade de Cana": "BOM",
     "Observações": null,
-    "Fazenda": null,
-    "Observações ": null,
-    "Unnamed: 19": null
+    "Fazenda": null
   },
   {
     "ID": "3413388",
@@ -53452,9 +48806,7 @@ window.QUALIDADE_CANA_DATA = [
     "Responsável": "278400 - Vitor Amorim Ramos ",
     "Quantidade de Cana": "BOM",
     "Observações": null,
-    "Fazenda": null,
-    "Observações ": null,
-    "Unnamed: 19": null
+    "Fazenda": null
   },
   {
     "ID": "3413384",
@@ -53475,9 +48827,7 @@ window.QUALIDADE_CANA_DATA = [
     "Responsável": "278400 - Vitor Amorim Ramos ",
     "Quantidade de Cana": "BOM",
     "Observações": null,
-    "Fazenda": null,
-    "Observações ": null,
-    "Unnamed: 19": null
+    "Fazenda": null
   },
   {
     "ID": "3411798",
@@ -53498,9 +48848,7 @@ window.QUALIDADE_CANA_DATA = [
     "Responsável": "278400 - Vitor Amorim Ramos ",
     "Quantidade de Cana": "BOM",
     "Observações": null,
-    "Fazenda": null,
-    "Observações ": null,
-    "Unnamed: 19": null
+    "Fazenda": null
   },
   {
     "ID": "3411793",
@@ -53521,9 +48869,7 @@ window.QUALIDADE_CANA_DATA = [
     "Responsável": "278400 - Vitor Amorim Ramos ",
     "Quantidade de Cana": "BOM",
     "Observações": null,
-    "Fazenda": null,
-    "Observações ": null,
-    "Unnamed: 19": null
+    "Fazenda": null
   },
   {
     "ID": "3411788",
@@ -53544,9 +48890,7 @@ window.QUALIDADE_CANA_DATA = [
     "Responsável": "278400 - Vitor Amorim Ramos ",
     "Quantidade de Cana": "BOM",
     "Observações": null,
-    "Fazenda": null,
-    "Observações ": null,
-    "Unnamed: 19": null
+    "Fazenda": null
   },
   {
     "ID": "3411630",
@@ -53567,9 +48911,7 @@ window.QUALIDADE_CANA_DATA = [
     "Responsável": "278400 - Vitor Amorim Ramos ",
     "Quantidade de Cana": "BOM",
     "Observações": null,
-    "Fazenda": null,
-    "Observações ": null,
-    "Unnamed: 19": null
+    "Fazenda": null
   },
   {
     "ID": "3411624",
@@ -53590,9 +48932,7 @@ window.QUALIDADE_CANA_DATA = [
     "Responsável": "278400 - Vitor Amorim Ramos ",
     "Quantidade de Cana": "BOM",
     "Observações": null,
-    "Fazenda": null,
-    "Observações ": null,
-    "Unnamed: 19": null
+    "Fazenda": null
   },
   {
     "ID": "3411619",
@@ -53613,9 +48953,7 @@ window.QUALIDADE_CANA_DATA = [
     "Responsável": "278400 - Vitor Amorim Ramos ",
     "Quantidade de Cana": "BOM",
     "Observações": null,
-    "Fazenda": null,
-    "Observações ": null,
-    "Unnamed: 19": null
+    "Fazenda": null
   },
   {
     "ID": "3411614",
@@ -53636,9 +48974,7 @@ window.QUALIDADE_CANA_DATA = [
     "Responsável": "278400 - Vitor Amorim Ramos ",
     "Quantidade de Cana": "BOM",
     "Observações": null,
-    "Fazenda": null,
-    "Observações ": null,
-    "Unnamed: 19": null
+    "Fazenda": null
   },
   {
     "ID": "3411606",
@@ -53659,9 +48995,7 @@ window.QUALIDADE_CANA_DATA = [
     "Responsável": "278400 - Vitor Amorim Ramos ",
     "Quantidade de Cana": "BOM",
     "Observações": null,
-    "Fazenda": null,
-    "Observações ": null,
-    "Unnamed: 19": null
+    "Fazenda": null
   },
   {
     "ID": "3411601",
@@ -53682,9 +49016,7 @@ window.QUALIDADE_CANA_DATA = [
     "Responsável": "278400 - Vitor Amorim Ramos ",
     "Quantidade de Cana": "BOM",
     "Observações": null,
-    "Fazenda": null,
-    "Observações ": null,
-    "Unnamed: 19": null
+    "Fazenda": null
   },
   {
     "ID": "3411592",
@@ -53705,9 +49037,7 @@ window.QUALIDADE_CANA_DATA = [
     "Responsável": "278400 - Vitor Amorim Ramos ",
     "Quantidade de Cana": "BOM",
     "Observações": null,
-    "Fazenda": null,
-    "Observações ": null,
-    "Unnamed: 19": null
+    "Fazenda": null
   },
   {
     "ID": "3411591",
@@ -53728,9 +49058,7 @@ window.QUALIDADE_CANA_DATA = [
     "Responsável": "278400 - Vitor Amorim Ramos ",
     "Quantidade de Cana": "BOM",
     "Observações": null,
-    "Fazenda": null,
-    "Observações ": null,
-    "Unnamed: 19": null
+    "Fazenda": null
   },
   {
     "ID": "3411775",
@@ -53751,9 +49079,7 @@ window.QUALIDADE_CANA_DATA = [
     "Responsável": "278400 - Vitor Amorim Ramos ",
     "Quantidade de Cana": "BOM",
     "Observações": null,
-    "Fazenda": null,
-    "Observações ": null,
-    "Unnamed: 19": null
+    "Fazenda": null
   },
   {
     "ID": "3411583",
@@ -53774,9 +49100,7 @@ window.QUALIDADE_CANA_DATA = [
     "Responsável": "278400 - Vitor Amorim Ramos ",
     "Quantidade de Cana": "BOM",
     "Observações": null,
-    "Fazenda": null,
-    "Observações ": null,
-    "Unnamed: 19": null
+    "Fazenda": null
   },
   {
     "ID": "3410242",
@@ -53797,9 +49121,7 @@ window.QUALIDADE_CANA_DATA = [
     "Responsável": "278400 - Vitor Amorim Ramos ",
     "Quantidade de Cana": "BOM",
     "Observações": null,
-    "Fazenda": null,
-    "Observações ": null,
-    "Unnamed: 19": null
+    "Fazenda": null
   },
   {
     "ID": "3410265",
@@ -53820,9 +49142,7 @@ window.QUALIDADE_CANA_DATA = [
     "Responsável": "278400 - Vitor Amorim Ramos ",
     "Quantidade de Cana": "BOM",
     "Observações": null,
-    "Fazenda": null,
-    "Observações ": null,
-    "Unnamed: 19": null
+    "Fazenda": null
   },
   {
     "ID": "3410237",
@@ -53843,9 +49163,7 @@ window.QUALIDADE_CANA_DATA = [
     "Responsável": "278400 - Vitor Amorim Ramos ",
     "Quantidade de Cana": "BOM",
     "Observações": null,
-    "Fazenda": null,
-    "Observações ": null,
-    "Unnamed: 19": null
+    "Fazenda": null
   },
   {
     "ID": "3410039",
@@ -53866,9 +49184,7 @@ window.QUALIDADE_CANA_DATA = [
     "Responsável": "278400 - Vitor Amorim Ramos ",
     "Quantidade de Cana": "BOM",
     "Observações": null,
-    "Fazenda": null,
-    "Observações ": null,
-    "Unnamed: 19": null
+    "Fazenda": null
   },
   {
     "ID": "3410234",
@@ -53889,9 +49205,7 @@ window.QUALIDADE_CANA_DATA = [
     "Responsável": "278400 - Vitor Amorim Ramos ",
     "Quantidade de Cana": "BOM",
     "Observações": null,
-    "Fazenda": null,
-    "Observações ": null,
-    "Unnamed: 19": null
+    "Fazenda": null
   },
   {
     "ID": "3410032",
@@ -53912,9 +49226,7 @@ window.QUALIDADE_CANA_DATA = [
     "Responsável": "278400 - Vitor Amorim Ramos ",
     "Quantidade de Cana": "BOM",
     "Observações": null,
-    "Fazenda": null,
-    "Observações ": null,
-    "Unnamed: 19": null
+    "Fazenda": null
   },
   {
     "ID": "3410029",
@@ -53935,9 +49247,7 @@ window.QUALIDADE_CANA_DATA = [
     "Responsável": "278400 - Vitor Amorim Ramos ",
     "Quantidade de Cana": "BOM",
     "Observações": null,
-    "Fazenda": null,
-    "Observações ": null,
-    "Unnamed: 19": null
+    "Fazenda": null
   },
   {
     "ID": "3410018",
@@ -53958,9 +49268,7 @@ window.QUALIDADE_CANA_DATA = [
     "Responsável": "278400 - Vitor Amorim Ramos ",
     "Quantidade de Cana": "BOM",
     "Observações": null,
-    "Fazenda": null,
-    "Observações ": null,
-    "Unnamed: 19": null
+    "Fazenda": null
   },
   {
     "ID": "3410001",
@@ -53981,9 +49289,7 @@ window.QUALIDADE_CANA_DATA = [
     "Responsável": "278400 - Vitor Amorim Ramos ",
     "Quantidade de Cana": "BOM",
     "Observações": null,
-    "Fazenda": null,
-    "Observações ": null,
-    "Unnamed: 19": null
+    "Fazenda": null
   },
   {
     "ID": "3408572",
@@ -54004,9 +49310,7 @@ window.QUALIDADE_CANA_DATA = [
     "Responsável": "278400 - Vitor Amorim Ramos ",
     "Quantidade de Cana": "BOM",
     "Observações": null,
-    "Fazenda": null,
-    "Observações ": null,
-    "Unnamed: 19": null
+    "Fazenda": null
   },
   {
     "ID": "3408567",
@@ -54027,9 +49331,7 @@ window.QUALIDADE_CANA_DATA = [
     "Responsável": "278400 - Vitor Amorim Ramos ",
     "Quantidade de Cana": "BOM",
     "Observações": null,
-    "Fazenda": null,
-    "Observações ": null,
-    "Unnamed: 19": null
+    "Fazenda": null
   },
   {
     "ID": "3408560",
@@ -54050,9 +49352,7 @@ window.QUALIDADE_CANA_DATA = [
     "Responsável": "278400 - Vitor Amorim Ramos ",
     "Quantidade de Cana": "BOM",
     "Observações": null,
-    "Fazenda": null,
-    "Observações ": null,
-    "Unnamed: 19": null
+    "Fazenda": null
   },
   {
     "ID": "3408555",
@@ -54073,9 +49373,7 @@ window.QUALIDADE_CANA_DATA = [
     "Responsável": "278400 - Vitor Amorim Ramos ",
     "Quantidade de Cana": "BOM",
     "Observações": null,
-    "Fazenda": null,
-    "Observações ": null,
-    "Unnamed: 19": null
+    "Fazenda": null
   },
   {
     "ID": "3408550",
@@ -54096,9 +49394,7 @@ window.QUALIDADE_CANA_DATA = [
     "Responsável": "278400 - Vitor Amorim Ramos ",
     "Quantidade de Cana": "BOM",
     "Observações": null,
-    "Fazenda": null,
-    "Observações ": null,
-    "Unnamed: 19": null
+    "Fazenda": null
   },
   {
     "ID": "3408152",
@@ -54119,9 +49415,7 @@ window.QUALIDADE_CANA_DATA = [
     "Responsável": "278400 - Vitor Amorim Ramos ",
     "Quantidade de Cana": "BOM",
     "Observações": null,
-    "Fazenda": null,
-    "Observações ": null,
-    "Unnamed: 19": null
+    "Fazenda": null
   },
   {
     "ID": "3408146",
@@ -54142,9 +49436,7 @@ window.QUALIDADE_CANA_DATA = [
     "Responsável": "278400 - Vitor Amorim Ramos ",
     "Quantidade de Cana": "BOM",
     "Observações": null,
-    "Fazenda": null,
-    "Observações ": null,
-    "Unnamed: 19": null
+    "Fazenda": null
   },
   {
     "ID": "3408135",
@@ -54165,9 +49457,7 @@ window.QUALIDADE_CANA_DATA = [
     "Responsável": "278400 - Vitor Amorim Ramos ",
     "Quantidade de Cana": "BOM",
     "Observações": null,
-    "Fazenda": null,
-    "Observações ": null,
-    "Unnamed: 19": null
+    "Fazenda": null
   },
   {
     "ID": "3408132",
@@ -54188,9 +49478,7 @@ window.QUALIDADE_CANA_DATA = [
     "Responsável": "278400 - Vitor Amorim Ramos ",
     "Quantidade de Cana": "BOM",
     "Observações": null,
-    "Fazenda": null,
-    "Observações ": null,
-    "Unnamed: 19": null
+    "Fazenda": null
   },
   {
     "ID": "3408111",
@@ -54211,9 +49499,7 @@ window.QUALIDADE_CANA_DATA = [
     "Responsável": "278400 - Vitor Amorim Ramos ",
     "Quantidade de Cana": "BOM",
     "Observações": null,
-    "Fazenda": null,
-    "Observações ": null,
-    "Unnamed: 19": null
+    "Fazenda": null
   },
   {
     "ID": "3408096",
@@ -54234,9 +49520,7 @@ window.QUALIDADE_CANA_DATA = [
     "Responsável": "278400 - Vitor Amorim Ramos ",
     "Quantidade de Cana": "BOM",
     "Observações": null,
-    "Fazenda": null,
-    "Observações ": null,
-    "Unnamed: 19": null
+    "Fazenda": null
   },
   {
     "ID": "4026565",
@@ -54256,10 +49540,8 @@ window.QUALIDADE_CANA_DATA = [
     "Frente": "135 - FRENTE PEDRINHO",
     "Responsável": "285410",
     "Quantidade de Cana": "BOM",
-    "Observações": null,
-    "Fazenda": "33302",
-    "Observações ": "Bom",
-    "Unnamed: 19": null
+    "Observações": "Bom",
+    "Fazenda": "33302"
   },
   {
     "ID": "4026555",
@@ -54279,10 +49561,8 @@ window.QUALIDADE_CANA_DATA = [
     "Frente": "135 - FRENTE PEDRINHO",
     "Responsável": "285410",
     "Quantidade de Cana": "BOM",
-    "Observações": null,
-    "Fazenda": "33302",
-    "Observações ": "Bom",
-    "Unnamed: 19": null
+    "Observações": "Bom",
+    "Fazenda": "33302"
   },
   {
     "ID": "4026549",
@@ -54302,10 +49582,8 @@ window.QUALIDADE_CANA_DATA = [
     "Frente": "135 - FRENTE PEDRINHO",
     "Responsável": "285410",
     "Quantidade de Cana": "BOM",
-    "Observações": null,
-    "Fazenda": "33302",
-    "Observações ": "Bom",
-    "Unnamed: 19": null
+    "Observações": "Bom",
+    "Fazenda": "33302"
   },
   {
     "ID": "4026482",
@@ -54325,10 +49603,8 @@ window.QUALIDADE_CANA_DATA = [
     "Frente": "135 - FRENTE PEDRINHO",
     "Responsável": "285410",
     "Quantidade de Cana": "BOM",
-    "Observações": null,
-    "Fazenda": "33302",
-    "Observações ": "Bom",
-    "Unnamed: 19": null
+    "Observações": "Bom",
+    "Fazenda": "33302"
   },
   {
     "ID": "4026475",
@@ -54348,10 +49624,8 @@ window.QUALIDADE_CANA_DATA = [
     "Frente": "135 - FRENTE PEDRINHO",
     "Responsável": "285410",
     "Quantidade de Cana": "BOM",
-    "Observações": null,
-    "Fazenda": "33302",
-    "Observações ": "Bom",
-    "Unnamed: 19": null
+    "Observações": "Bom",
+    "Fazenda": "33302"
   },
   {
     "ID": "4026458",
@@ -54371,10 +49645,8 @@ window.QUALIDADE_CANA_DATA = [
     "Frente": "135 - FRENTE PEDRINHO",
     "Responsável": "285410",
     "Quantidade de Cana": "BOM",
-    "Observações": null,
-    "Fazenda": "33302",
-    "Observações ": "Bom",
-    "Unnamed: 19": null
+    "Observações": "Bom",
+    "Fazenda": "33302"
   },
   {
     "ID": "4026453",
@@ -54394,10 +49666,8 @@ window.QUALIDADE_CANA_DATA = [
     "Frente": "135 - FRENTE PEDRINHO",
     "Responsável": "285410",
     "Quantidade de Cana": "BOM",
-    "Observações": null,
-    "Fazenda": "33302",
-    "Observações ": "Bom",
-    "Unnamed: 19": null
+    "Observações": "Bom",
+    "Fazenda": "33302"
   },
   {
     "ID": "4026451",
@@ -54417,10 +49687,8 @@ window.QUALIDADE_CANA_DATA = [
     "Frente": "135 - FRENTE PEDRINHO",
     "Responsável": "285410",
     "Quantidade de Cana": "BOM",
-    "Observações": null,
-    "Fazenda": "33302",
-    "Observações ": "Bom",
-    "Unnamed: 19": null
+    "Observações": "Bom",
+    "Fazenda": "33302"
   },
   {
     "ID": "4026273",
@@ -54440,10 +49708,8 @@ window.QUALIDADE_CANA_DATA = [
     "Frente": "135 - FRENTE PEDRINHO",
     "Responsável": "285410",
     "Quantidade de Cana": "BOM",
-    "Observações": null,
-    "Fazenda": "33302",
-    "Observações ": "Bom",
-    "Unnamed: 19": null
+    "Observações": "Bom",
+    "Fazenda": "33302"
   },
   {
     "ID": "4018226",
@@ -54463,10 +49729,8 @@ window.QUALIDADE_CANA_DATA = [
     "Frente": "135 - FRENTE PEDRINHO",
     "Responsável": "284860  - Juliana Aparecida Ferreira De Freitas",
     "Quantidade de Cana": "BOM",
-    "Observações": null,
-    "Fazenda": "70426",
-    "Observações ": "Bom",
-    "Unnamed: 19": null
+    "Observações": "Bom",
+    "Fazenda": "70426"
   },
   {
     "ID": "4018219",
@@ -54486,10 +49750,8 @@ window.QUALIDADE_CANA_DATA = [
     "Frente": "135 - FRENTE PEDRINHO",
     "Responsável": "284860  - Juliana Aparecida Ferreira De Freitas",
     "Quantidade de Cana": "BOM",
-    "Observações": null,
-    "Fazenda": "70426",
-    "Observações ": "Boa distribuição de cana ",
-    "Unnamed: 19": null
+    "Observações": "Boa distribuição de cana ",
+    "Fazenda": "70426"
   },
   {
     "ID": "4018215",
@@ -54509,10 +49771,8 @@ window.QUALIDADE_CANA_DATA = [
     "Frente": "135 - FRENTE PEDRINHO",
     "Responsável": "284860  - Juliana Aparecida Ferreira De Freitas",
     "Quantidade de Cana": "BOM",
-    "Observações": null,
-    "Fazenda": "70426",
-    "Observações ": "Bom",
-    "Unnamed: 19": null
+    "Observações": "Bom",
+    "Fazenda": "70426"
   },
   {
     "ID": "4018211",
@@ -54532,10 +49792,8 @@ window.QUALIDADE_CANA_DATA = [
     "Frente": "135 - FRENTE PEDRINHO",
     "Responsável": "284860  - Juliana Aparecida Ferreira De Freitas",
     "Quantidade de Cana": "BOM",
-    "Observações": null,
-    "Fazenda": "70426",
-    "Observações ": "Bom",
-    "Unnamed: 19": null
+    "Observações": "Bom",
+    "Fazenda": "70426"
   },
   {
     "ID": "4018207",
@@ -54555,10 +49813,8 @@ window.QUALIDADE_CANA_DATA = [
     "Frente": "135 - FRENTE PEDRINHO",
     "Responsável": "284860  - Juliana Aparecida Ferreira De Freitas",
     "Quantidade de Cana": "BOM",
-    "Observações": null,
-    "Fazenda": "70426",
-    "Observações ": "Bom",
-    "Unnamed: 19": null
+    "Observações": "Bom",
+    "Fazenda": "70426"
   },
   {
     "ID": "4018203",
@@ -54578,10 +49834,8 @@ window.QUALIDADE_CANA_DATA = [
     "Frente": "135 - FRENTE PEDRINHO",
     "Responsável": "284860  - Juliana Aparecida Ferreira De Freitas",
     "Quantidade de Cana": "BOM",
-    "Observações": null,
-    "Fazenda": "70426",
-    "Observações ": "Bom",
-    "Unnamed: 19": null
+    "Observações": "Bom",
+    "Fazenda": "70426"
   },
   {
     "ID": "4018199",
@@ -54601,10 +49855,8 @@ window.QUALIDADE_CANA_DATA = [
     "Frente": "135 - FRENTE PEDRINHO",
     "Responsável": "284860  - Juliana Aparecida Ferreira De Freitas",
     "Quantidade de Cana": "BOM",
-    "Observações": null,
-    "Fazenda": "70426",
-    "Observações ": "Bom",
-    "Unnamed: 19": null
+    "Observações": "Bom",
+    "Fazenda": "70426"
   },
   {
     "ID": "4018195",
@@ -54624,10 +49876,8 @@ window.QUALIDADE_CANA_DATA = [
     "Frente": "135 - FRENTE PEDRINHO",
     "Responsável": "284860  - Juliana Aparecida Ferreira De Freitas",
     "Quantidade de Cana": "BOM",
-    "Observações": null,
-    "Fazenda": "70426",
-    "Observações ": "Bom",
-    "Unnamed: 19": null
+    "Observações": "Bom",
+    "Fazenda": "70426"
   },
   {
     "ID": "4018191",
@@ -54647,10 +49897,8 @@ window.QUALIDADE_CANA_DATA = [
     "Frente": "135 - FRENTE PEDRINHO",
     "Responsável": "284860  - Juliana Aparecida Ferreira De Freitas",
     "Quantidade de Cana": "BOM",
-    "Observações": null,
-    "Fazenda": "70426",
-    "Observações ": "Bom",
-    "Unnamed: 19": null
+    "Observações": "Bom",
+    "Fazenda": "70426"
   },
   {
     "ID": "4018187",
@@ -54670,10 +49918,8 @@ window.QUALIDADE_CANA_DATA = [
     "Frente": "135 - FRENTE PEDRINHO",
     "Responsável": "284860  - Juliana Aparecida Ferreira De Freitas",
     "Quantidade de Cana": "BOM",
-    "Observações": null,
-    "Fazenda": "70426",
-    "Observações ": "Bom",
-    "Unnamed: 19": null
+    "Observações": "Bom",
+    "Fazenda": "70426"
   },
   {
     "ID": "4018183",
@@ -54693,10 +49939,8 @@ window.QUALIDADE_CANA_DATA = [
     "Frente": "135 - FRENTE PEDRINHO",
     "Responsável": "284860  - Juliana Aparecida Ferreira De Freitas",
     "Quantidade de Cana": "BOM",
-    "Observações": null,
-    "Fazenda": "70426",
-    "Observações ": "Bom",
-    "Unnamed: 19": null
+    "Observações": "Bom",
+    "Fazenda": "70426"
   },
   {
     "ID": "4018179",
@@ -54716,10 +49960,8 @@ window.QUALIDADE_CANA_DATA = [
     "Frente": "135 - FRENTE PEDRINHO",
     "Responsável": "284860  - Juliana Aparecida Ferreira De Freitas",
     "Quantidade de Cana": "BOM",
-    "Observações": null,
-    "Fazenda": "70426",
-    "Observações ": "Bom",
-    "Unnamed: 19": null
+    "Observações": "Bom",
+    "Fazenda": "70426"
   },
   {
     "ID": "4013470",
@@ -54739,10 +49981,8 @@ window.QUALIDADE_CANA_DATA = [
     "Frente": "135 - FRENTE PEDRINHO",
     "Responsável": "284860  - Juliana Aparecida Ferreira De Freitas",
     "Quantidade de Cana": "BOM",
-    "Observações": null,
-    "Fazenda": "70301",
-    "Observações ": "Bom",
-    "Unnamed: 19": null
+    "Observações": "Bom",
+    "Fazenda": "70301"
   },
   {
     "ID": "4013465",
@@ -54762,10 +50002,8 @@ window.QUALIDADE_CANA_DATA = [
     "Frente": "135 - FRENTE PEDRINHO",
     "Responsável": "284860  - Juliana Aparecida Ferreira De Freitas",
     "Quantidade de Cana": "BOM",
-    "Observações": null,
-    "Fazenda": "70301",
-    "Observações ": "Bom",
-    "Unnamed: 19": null
+    "Observações": "Bom",
+    "Fazenda": "70301"
   },
   {
     "ID": "4013460",
@@ -54785,10 +50023,8 @@ window.QUALIDADE_CANA_DATA = [
     "Frente": "135 - FRENTE PEDRINHO",
     "Responsável": "284860  - Juliana Aparecida Ferreira De Freitas",
     "Quantidade de Cana": "BOM",
-    "Observações": null,
-    "Fazenda": "70301",
-    "Observações ": "Bom",
-    "Unnamed: 19": null
+    "Observações": "Bom",
+    "Fazenda": "70301"
   },
   {
     "ID": "4013456",
@@ -54808,10 +50044,8 @@ window.QUALIDADE_CANA_DATA = [
     "Frente": "135 - FRENTE PEDRINHO",
     "Responsável": "284860  - Juliana Aparecida Ferreira De Freitas",
     "Quantidade de Cana": "BOM",
-    "Observações": null,
-    "Fazenda": "70301",
-    "Observações ": "Bom",
-    "Unnamed: 19": null
+    "Observações": "Bom",
+    "Fazenda": "70301"
   },
   {
     "ID": "4013451",
@@ -54831,10 +50065,8 @@ window.QUALIDADE_CANA_DATA = [
     "Frente": "135 - FRENTE PEDRINHO",
     "Responsável": "284860  - Juliana Aparecida Ferreira De Freitas",
     "Quantidade de Cana": "BOM",
-    "Observações": null,
-    "Fazenda": "70301",
-    "Observações ": "Bom",
-    "Unnamed: 19": null
+    "Observações": "Bom",
+    "Fazenda": "70301"
   },
   {
     "ID": "4013447",
@@ -54854,10 +50086,8 @@ window.QUALIDADE_CANA_DATA = [
     "Frente": "135 - FRENTE PEDRINHO",
     "Responsável": "284860  - Juliana Aparecida Ferreira De Freitas",
     "Quantidade de Cana": "BOM",
-    "Observações": null,
-    "Fazenda": "70301",
-    "Observações ": "Bom",
-    "Unnamed: 19": null
+    "Observações": "Bom",
+    "Fazenda": "70301"
   },
   {
     "ID": "4013443",
@@ -54877,10 +50107,8 @@ window.QUALIDADE_CANA_DATA = [
     "Frente": "135 - FRENTE PEDRINHO",
     "Responsável": "284860  - Juliana Aparecida Ferreira De Freitas",
     "Quantidade de Cana": "BOM",
-    "Observações": null,
-    "Fazenda": "70301",
-    "Observações ": "Bom",
-    "Unnamed: 19": null
+    "Observações": "Bom",
+    "Fazenda": "70301"
   },
   {
     "ID": "4013439",
@@ -54900,10 +50128,8 @@ window.QUALIDADE_CANA_DATA = [
     "Frente": "135 - FRENTE PEDRINHO",
     "Responsável": "284860  - Juliana Aparecida Ferreira De Freitas",
     "Quantidade de Cana": "BOM",
-    "Observações": null,
-    "Fazenda": "70301",
-    "Observações ": "Bom",
-    "Unnamed: 19": null
+    "Observações": "Bom",
+    "Fazenda": "70301"
   },
   {
     "ID": "4013435",
@@ -54923,10 +50149,8 @@ window.QUALIDADE_CANA_DATA = [
     "Frente": "135 - FRENTE PEDRINHO",
     "Responsável": "284860  - Juliana Aparecida Ferreira De Freitas",
     "Quantidade de Cana": "BOM",
-    "Observações": null,
-    "Fazenda": "70301",
-    "Observações ": "Bom",
-    "Unnamed: 19": null
+    "Observações": "Bom",
+    "Fazenda": "70301"
   },
   {
     "ID": "4013431",
@@ -54946,10 +50170,8 @@ window.QUALIDADE_CANA_DATA = [
     "Frente": "135 - FRENTE PEDRINHO",
     "Responsável": "284860  - Juliana Aparecida Ferreira De Freitas",
     "Quantidade de Cana": "BOM",
-    "Observações": null,
-    "Fazenda": "70301",
-    "Observações ": "Bom",
-    "Unnamed: 19": null
+    "Observações": "Bom",
+    "Fazenda": "70301"
   },
   {
     "ID": "4013426",
@@ -54969,10 +50191,8 @@ window.QUALIDADE_CANA_DATA = [
     "Frente": "135 - FRENTE PEDRINHO",
     "Responsável": "284860  - Juliana Aparecida Ferreira De Freitas",
     "Quantidade de Cana": "BOM",
-    "Observações": null,
-    "Fazenda": "70301",
-    "Observações ": "Bom",
-    "Unnamed: 19": null
+    "Observações": "Bom",
+    "Fazenda": "70301"
   },
   {
     "ID": "4010641",
@@ -54992,10 +50212,8 @@ window.QUALIDADE_CANA_DATA = [
     "Frente": "135 - FRENTE PEDRINHO",
     "Responsável": "284860  - Juliana Aparecida Ferreira De Freitas",
     "Quantidade de Cana": "BOM",
-    "Observações": null,
-    "Fazenda": "70301",
-    "Observações ": "Bom",
-    "Unnamed: 19": null
+    "Observações": "Bom",
+    "Fazenda": "70301"
   },
   {
     "ID": "4010634",
@@ -55015,10 +50233,8 @@ window.QUALIDADE_CANA_DATA = [
     "Frente": "135 - FRENTE PEDRINHO",
     "Responsável": "284860  - Juliana Aparecida Ferreira De Freitas",
     "Quantidade de Cana": "BOM",
-    "Observações": null,
-    "Fazenda": "70301",
-    "Observações ": "Bom",
-    "Unnamed: 19": null
+    "Observações": "Bom",
+    "Fazenda": "70301"
   },
   {
     "ID": "4010630",
@@ -55038,10 +50254,8 @@ window.QUALIDADE_CANA_DATA = [
     "Frente": "135 - FRENTE PEDRINHO",
     "Responsável": "284860  - Juliana Aparecida Ferreira De Freitas",
     "Quantidade de Cana": "BOM",
-    "Observações": null,
-    "Fazenda": "70301",
-    "Observações ": "Bom",
-    "Unnamed: 19": null
+    "Observações": "Bom",
+    "Fazenda": "70301"
   },
   {
     "ID": "4010626",
@@ -55061,10 +50275,8 @@ window.QUALIDADE_CANA_DATA = [
     "Frente": "135 - FRENTE PEDRINHO",
     "Responsável": "284860  - Juliana Aparecida Ferreira De Freitas",
     "Quantidade de Cana": "BOM",
-    "Observações": null,
-    "Fazenda": "70301",
-    "Observações ": "Bom",
-    "Unnamed: 19": null
+    "Observações": "Bom",
+    "Fazenda": "70301"
   },
   {
     "ID": "4010622",
@@ -55084,10 +50296,8 @@ window.QUALIDADE_CANA_DATA = [
     "Frente": "135 - FRENTE PEDRINHO",
     "Responsável": "284860  - Juliana Aparecida Ferreira De Freitas",
     "Quantidade de Cana": "BOM",
-    "Observações": null,
-    "Fazenda": "70301",
-    "Observações ": "Bom",
-    "Unnamed: 19": null
+    "Observações": "Bom",
+    "Fazenda": "70301"
   },
   {
     "ID": "4010618",
@@ -55107,10 +50317,8 @@ window.QUALIDADE_CANA_DATA = [
     "Frente": "135 - FRENTE PEDRINHO",
     "Responsável": "284860  - Juliana Aparecida Ferreira De Freitas",
     "Quantidade de Cana": "BOM",
-    "Observações": null,
-    "Fazenda": "70301",
-    "Observações ": "Bom",
-    "Unnamed: 19": null
+    "Observações": "Bom",
+    "Fazenda": "70301"
   },
   {
     "ID": "4010614",
@@ -55130,10 +50338,8 @@ window.QUALIDADE_CANA_DATA = [
     "Frente": "135 - FRENTE PEDRINHO",
     "Responsável": "284860  - Juliana Aparecida Ferreira De Freitas",
     "Quantidade de Cana": "BOM",
-    "Observações": null,
-    "Fazenda": "70301",
-    "Observações ": "Bom",
-    "Unnamed: 19": null
+    "Observações": "Bom",
+    "Fazenda": "70301"
   },
   {
     "ID": "4010610",
@@ -55153,10 +50359,8 @@ window.QUALIDADE_CANA_DATA = [
     "Frente": "135 - FRENTE PEDRINHO",
     "Responsável": "284860  - Juliana Aparecida Ferreira De Freitas",
     "Quantidade de Cana": "BOM",
-    "Observações": null,
-    "Fazenda": "70301",
-    "Observações ": "Bom",
-    "Unnamed: 19": null
+    "Observações": "Bom",
+    "Fazenda": "70301"
   },
   {
     "ID": "4006541",
@@ -55176,10 +50380,8 @@ window.QUALIDADE_CANA_DATA = [
     "Frente": "135 - FRENTE PEDRINHO",
     "Responsável": "284860  - Juliana Aparecida Ferreira De Freitas",
     "Quantidade de Cana": "BOM",
-    "Observações": null,
-    "Fazenda": "70431",
-    "Observações ": "Bom",
-    "Unnamed: 19": null
+    "Observações": "Bom",
+    "Fazenda": "70431"
   },
   {
     "ID": "4006537",
@@ -55199,10 +50401,8 @@ window.QUALIDADE_CANA_DATA = [
     "Frente": "135 - FRENTE PEDRINHO",
     "Responsável": "284860  - Juliana Aparecida Ferreira De Freitas",
     "Quantidade de Cana": "BOM",
-    "Observações": null,
-    "Fazenda": "70431",
-    "Observações ": "Bom",
-    "Unnamed: 19": null
+    "Observações": "Bom",
+    "Fazenda": "70431"
   },
   {
     "ID": "4006532",
@@ -55222,10 +50422,8 @@ window.QUALIDADE_CANA_DATA = [
     "Frente": "135 - FRENTE PEDRINHO",
     "Responsável": "284860  - Juliana Aparecida Ferreira De Freitas",
     "Quantidade de Cana": "BOM",
-    "Observações": null,
-    "Fazenda": "70431",
-    "Observações ": "Bom",
-    "Unnamed: 19": null
+    "Observações": "Bom",
+    "Fazenda": "70431"
   },
   {
     "ID": "4006517",
@@ -55245,10 +50443,8 @@ window.QUALIDADE_CANA_DATA = [
     "Frente": "135 - FRENTE PEDRINHO",
     "Responsável": "284860  - Juliana Aparecida Ferreira De Freitas",
     "Quantidade de Cana": "BOM",
-    "Observações": null,
-    "Fazenda": "70431",
-    "Observações ": "Bom",
-    "Unnamed: 19": null
+    "Observações": "Bom",
+    "Fazenda": "70431"
   },
   {
     "ID": "4006513",
@@ -55268,10 +50464,8 @@ window.QUALIDADE_CANA_DATA = [
     "Frente": "135 - FRENTE PEDRINHO",
     "Responsável": "284860  - Juliana Aparecida Ferreira De Freitas",
     "Quantidade de Cana": "BOM",
-    "Observações": null,
-    "Fazenda": "70431",
-    "Observações ": "Bom",
-    "Unnamed: 19": null
+    "Observações": "Bom",
+    "Fazenda": "70431"
   },
   {
     "ID": "4006509",
@@ -55291,10 +50485,8 @@ window.QUALIDADE_CANA_DATA = [
     "Frente": "135 - FRENTE PEDRINHO",
     "Responsável": "284860  - Juliana Aparecida Ferreira De Freitas",
     "Quantidade de Cana": "BOM",
-    "Observações": null,
-    "Fazenda": "70431",
-    "Observações ": "Bom",
-    "Unnamed: 19": null
+    "Observações": "Bom",
+    "Fazenda": "70431"
   },
   {
     "ID": "4006244",
@@ -55314,10 +50506,8 @@ window.QUALIDADE_CANA_DATA = [
     "Frente": "135 - FRENTE PEDRINHO",
     "Responsável": "REGINALDO DA SILVA GOMES ",
     "Quantidade de Cana": "BOM",
-    "Observações": null,
-    "Fazenda": "70431",
-    "Observações ": ".",
-    "Unnamed: 19": null
+    "Observações": ".",
+    "Fazenda": "70431"
   },
   {
     "ID": "4006505",
@@ -55337,10 +50527,8 @@ window.QUALIDADE_CANA_DATA = [
     "Frente": "135 - FRENTE PEDRINHO",
     "Responsável": "284860  - Juliana Aparecida Ferreira De Freitas",
     "Quantidade de Cana": "BOM",
-    "Observações": null,
-    "Fazenda": "70431",
-    "Observações ": "Bom",
-    "Unnamed: 19": null
+    "Observações": "Bom",
+    "Fazenda": "70431"
   },
   {
     "ID": "4006501",
@@ -55360,10 +50548,8 @@ window.QUALIDADE_CANA_DATA = [
     "Frente": "135 - FRENTE PEDRINHO",
     "Responsável": "284860  - Juliana Aparecida Ferreira De Freitas",
     "Quantidade de Cana": "BOM",
-    "Observações": null,
-    "Fazenda": "70431",
-    "Observações ": "Bom",
-    "Unnamed: 19": null
+    "Observações": "Bom",
+    "Fazenda": "70431"
   },
   {
     "ID": "4006497",
@@ -55383,10 +50569,8 @@ window.QUALIDADE_CANA_DATA = [
     "Frente": "135 - FRENTE PEDRINHO",
     "Responsável": "284860  - Juliana Aparecida Ferreira De Freitas",
     "Quantidade de Cana": "BOM",
-    "Observações": null,
-    "Fazenda": "70431",
-    "Observações ": "Bom",
-    "Unnamed: 19": null
+    "Observações": "Bom",
+    "Fazenda": "70431"
   },
   {
     "ID": "4006240",
@@ -55406,10 +50590,8 @@ window.QUALIDADE_CANA_DATA = [
     "Frente": "135 - FRENTE PEDRINHO",
     "Responsável": "REGINALDO DA SILVA GOMES ",
     "Quantidade de Cana": "BOM",
-    "Observações": null,
-    "Fazenda": "70431",
-    "Observações ": ".",
-    "Unnamed: 19": null
+    "Observações": ".",
+    "Fazenda": "70431"
   },
   {
     "ID": "4006493",
@@ -55429,10 +50611,8 @@ window.QUALIDADE_CANA_DATA = [
     "Frente": "135 - FRENTE PEDRINHO",
     "Responsável": "284860  - Juliana Aparecida Ferreira De Freitas",
     "Quantidade de Cana": "BOM",
-    "Observações": null,
-    "Fazenda": "70431",
-    "Observações ": "Bom",
-    "Unnamed: 19": null
+    "Observações": "Bom",
+    "Fazenda": "70431"
   },
   {
     "ID": "4006489",
@@ -55452,10 +50632,8 @@ window.QUALIDADE_CANA_DATA = [
     "Frente": "135 - FRENTE PEDRINHO",
     "Responsável": "284860  - Juliana Aparecida Ferreira De Freitas",
     "Quantidade de Cana": "BOM",
-    "Observações": null,
-    "Fazenda": "70431",
-    "Observações ": "Bom",
-    "Unnamed: 19": null
+    "Observações": "Bom",
+    "Fazenda": "70431"
   },
   {
     "ID": "4006487",
@@ -55475,10 +50653,8 @@ window.QUALIDADE_CANA_DATA = [
     "Frente": "135 - FRENTE PEDRINHO",
     "Responsável": "284860  - Juliana Aparecida Ferreira De Freitas",
     "Quantidade de Cana": "BOM",
-    "Observações": null,
-    "Fazenda": "70431",
-    "Observações ": "Bom",
-    "Unnamed: 19": null
+    "Observações": "Bom",
+    "Fazenda": "70431"
   },
   {
     "ID": "4006236",
@@ -55498,10 +50674,8 @@ window.QUALIDADE_CANA_DATA = [
     "Frente": "135 - FRENTE PEDRINHO",
     "Responsável": "REGINALDO DA SILVA GOMES ",
     "Quantidade de Cana": "BOM",
-    "Observações": null,
-    "Fazenda": "70431",
-    "Observações ": ".",
-    "Unnamed: 19": null
+    "Observações": ".",
+    "Fazenda": "70431"
   },
   {
     "ID": "4004108",
@@ -55521,10 +50695,8 @@ window.QUALIDADE_CANA_DATA = [
     "Frente": "135 - FRENTE PEDRINHO",
     "Responsável": "285410",
     "Quantidade de Cana": "BOM",
-    "Observações": null,
-    "Fazenda": "70431",
-    "Observações ": "Bom",
-    "Unnamed: 19": null
+    "Observações": "Bom",
+    "Fazenda": "70431"
   },
   {
     "ID": "4004101",
@@ -55544,10 +50716,8 @@ window.QUALIDADE_CANA_DATA = [
     "Frente": "135 - FRENTE PEDRINHO",
     "Responsável": "285410",
     "Quantidade de Cana": "BOM",
-    "Observações": null,
-    "Fazenda": "70431",
-    "Observações ": "Bom",
-    "Unnamed: 19": null
+    "Observações": "Bom",
+    "Fazenda": "70431"
   },
   {
     "ID": "4004097",
@@ -55567,10 +50737,8 @@ window.QUALIDADE_CANA_DATA = [
     "Frente": "135 - FRENTE PEDRINHO",
     "Responsável": "285410",
     "Quantidade de Cana": "BOM",
-    "Observações": null,
-    "Fazenda": "70431",
-    "Observações ": "Bom",
-    "Unnamed: 19": null
+    "Observações": "Bom",
+    "Fazenda": "70431"
   },
   {
     "ID": "4004082",
@@ -55590,10 +50758,8 @@ window.QUALIDADE_CANA_DATA = [
     "Frente": "135 - FRENTE PEDRINHO",
     "Responsável": "285410",
     "Quantidade de Cana": "BOM",
-    "Observações": null,
-    "Fazenda": "70431",
-    "Observações ": "Bom",
-    "Unnamed: 19": null
+    "Observações": "Bom",
+    "Fazenda": "70431"
   },
   {
     "ID": "4004078",
@@ -55613,10 +50779,8 @@ window.QUALIDADE_CANA_DATA = [
     "Frente": "135 - FRENTE PEDRINHO",
     "Responsável": "285410",
     "Quantidade de Cana": "BOM",
-    "Observações": null,
-    "Fazenda": "70431",
-    "Observações ": "Bom",
-    "Unnamed: 19": null
+    "Observações": "Bom",
+    "Fazenda": "70431"
   },
   {
     "ID": "4004074",
@@ -55636,10 +50800,8 @@ window.QUALIDADE_CANA_DATA = [
     "Frente": "135 - FRENTE PEDRINHO",
     "Responsável": "285410",
     "Quantidade de Cana": "BOM",
-    "Observações": null,
-    "Fazenda": "70431",
-    "Observações ": "Bom",
-    "Unnamed: 19": null
+    "Observações": "Bom",
+    "Fazenda": "70431"
   },
   {
     "ID": "4004068",
@@ -55659,10 +50821,8 @@ window.QUALIDADE_CANA_DATA = [
     "Frente": "135 - FRENTE PEDRINHO",
     "Responsável": "285410",
     "Quantidade de Cana": "BOM",
-    "Observações": null,
-    "Fazenda": "70431",
-    "Observações ": "Bom",
-    "Unnamed: 19": null
+    "Observações": "Bom",
+    "Fazenda": "70431"
   },
   {
     "ID": "4004063",
@@ -55682,10 +50842,8 @@ window.QUALIDADE_CANA_DATA = [
     "Frente": "135 - FRENTE PEDRINHO",
     "Responsável": "285410",
     "Quantidade de Cana": "BOM",
-    "Observações": null,
-    "Fazenda": "70431",
-    "Observações ": "Bom",
-    "Unnamed: 19": null
+    "Observações": "Bom",
+    "Fazenda": "70431"
   },
   {
     "ID": "4004059",
@@ -55705,10 +50863,8 @@ window.QUALIDADE_CANA_DATA = [
     "Frente": "135 - FRENTE PEDRINHO",
     "Responsável": "285410",
     "Quantidade de Cana": "BOM",
-    "Observações": null,
-    "Fazenda": "70431",
-    "Observações ": "Bom",
-    "Unnamed: 19": null
+    "Observações": "Bom",
+    "Fazenda": "70431"
   },
   {
     "ID": "4004055",
@@ -55728,10 +50884,8 @@ window.QUALIDADE_CANA_DATA = [
     "Frente": "135 - FRENTE PEDRINHO",
     "Responsável": "285410",
     "Quantidade de Cana": "BOM",
-    "Observações": null,
-    "Fazenda": "70431",
-    "Observações ": "Bom",
-    "Unnamed: 19": null
+    "Observações": "Bom",
+    "Fazenda": "70431"
   },
   {
     "ID": "3998483",
@@ -55751,10 +50905,8 @@ window.QUALIDADE_CANA_DATA = [
     "Frente": "135 - FRENTE PEDRINHO",
     "Responsável": "284860  - Juliana Aparecida Ferreira De Freitas",
     "Quantidade de Cana": "BOM",
-    "Observações": null,
-    "Fazenda": "199802",
-    "Observações ": "Bom",
-    "Unnamed: 19": null
+    "Observações": "Bom",
+    "Fazenda": "199802"
   },
   {
     "ID": "3998475",
@@ -55774,10 +50926,8 @@ window.QUALIDADE_CANA_DATA = [
     "Frente": "135 - FRENTE PEDRINHO",
     "Responsável": "284860  - Juliana Aparecida Ferreira De Freitas",
     "Quantidade de Cana": "BOM",
-    "Observações": null,
-    "Fazenda": "199802",
-    "Observações ": "Bom",
-    "Unnamed: 19": null
+    "Observações": "Bom",
+    "Fazenda": "199802"
   },
   {
     "ID": "3998471",
@@ -55797,10 +50947,8 @@ window.QUALIDADE_CANA_DATA = [
     "Frente": "135 - FRENTE PEDRINHO",
     "Responsável": "284860  - Juliana Aparecida Ferreira De Freitas",
     "Quantidade de Cana": "BOM",
-    "Observações": null,
-    "Fazenda": "199802",
-    "Observações ": "Bom",
-    "Unnamed: 19": null
+    "Observações": "Bom",
+    "Fazenda": "199802"
   },
   {
     "ID": "3998467",
@@ -55820,10 +50968,8 @@ window.QUALIDADE_CANA_DATA = [
     "Frente": "135 - FRENTE PEDRINHO",
     "Responsável": "284860  - Juliana Aparecida Ferreira De Freitas",
     "Quantidade de Cana": "BOM",
-    "Observações": null,
-    "Fazenda": "199802",
-    "Observações ": "Bom",
-    "Unnamed: 19": null
+    "Observações": "Bom",
+    "Fazenda": "199802"
   },
   {
     "ID": "3998463",
@@ -55843,10 +50989,8 @@ window.QUALIDADE_CANA_DATA = [
     "Frente": "135 - FRENTE PEDRINHO",
     "Responsável": "284860  - Juliana Aparecida Ferreira De Freitas",
     "Quantidade de Cana": "BOM",
-    "Observações": null,
-    "Fazenda": "199802",
-    "Observações ": "Bom",
-    "Unnamed: 19": null
+    "Observações": "Bom",
+    "Fazenda": "199802"
   },
   {
     "ID": "3998459",
@@ -55866,10 +51010,8 @@ window.QUALIDADE_CANA_DATA = [
     "Frente": "135 - FRENTE PEDRINHO",
     "Responsável": "284860  - Juliana Aparecida Ferreira De Freitas",
     "Quantidade de Cana": "BOM",
-    "Observações": null,
-    "Fazenda": "199804",
-    "Observações ": "Bom",
-    "Unnamed: 19": null
+    "Observações": "Bom",
+    "Fazenda": "199804"
   },
   {
     "ID": "3998455",
@@ -55889,10 +51031,8 @@ window.QUALIDADE_CANA_DATA = [
     "Frente": "135 - FRENTE PEDRINHO",
     "Responsável": "284860  - Juliana Aparecida Ferreira De Freitas",
     "Quantidade de Cana": "BOM",
-    "Observações": null,
-    "Fazenda": "199802",
-    "Observações ": "Bom",
-    "Unnamed: 19": null
+    "Observações": "Bom",
+    "Fazenda": "199802"
   },
   {
     "ID": "3998451",
@@ -55912,10 +51052,8 @@ window.QUALIDADE_CANA_DATA = [
     "Frente": "135 - FRENTE PEDRINHO",
     "Responsável": "284860  - Juliana Aparecida Ferreira De Freitas",
     "Quantidade de Cana": "BOM",
-    "Observações": null,
-    "Fazenda": "199802",
-    "Observações ": "Bom",
-    "Unnamed: 19": null
+    "Observações": "Bom",
+    "Fazenda": "199802"
   },
   {
     "ID": "3949209",
@@ -55935,10 +51073,8 @@ window.QUALIDADE_CANA_DATA = [
     "Frente": "135 - FRENTE PEDRINHO",
     "Responsável": "MABILA HELEN D FIGUEIREDO",
     "Quantidade de Cana": "BOM",
-    "Observações": null,
-    "Fazenda": "36813",
-    "Observações ": "Boa",
-    "Unnamed: 19": null
+    "Observações": "Boa",
+    "Fazenda": "36813"
   },
   {
     "ID": "3949204",
@@ -55958,10 +51094,8 @@ window.QUALIDADE_CANA_DATA = [
     "Frente": "135 - FRENTE PEDRINHO",
     "Responsável": "MABILA HELEN D FIGUEIREDO",
     "Quantidade de Cana": "BOM",
-    "Observações": null,
-    "Fazenda": "36813",
-    "Observações ": "Boa",
-    "Unnamed: 19": null
+    "Observações": "Boa",
+    "Fazenda": "36813"
   },
   {
     "ID": "3949199",
@@ -55981,10 +51115,8 @@ window.QUALIDADE_CANA_DATA = [
     "Frente": "135 - FRENTE PEDRINHO",
     "Responsável": "MABILA HELEN D FIGUEIREDO",
     "Quantidade de Cana": "BOM",
-    "Observações": null,
-    "Fazenda": "36813",
-    "Observações ": "Boa",
-    "Unnamed: 19": null
+    "Observações": "Boa",
+    "Fazenda": "36813"
   },
   {
     "ID": "3949194",
@@ -56004,10 +51136,8 @@ window.QUALIDADE_CANA_DATA = [
     "Frente": "135 - FRENTE PEDRINHO",
     "Responsável": "MABILA HELEN D FIGUEIREDO",
     "Quantidade de Cana": "BOM",
-    "Observações": null,
-    "Fazenda": "36813",
-    "Observações ": "Boa",
-    "Unnamed: 19": null
+    "Observações": "Boa",
+    "Fazenda": "36813"
   },
   {
     "ID": "3949185",
@@ -56027,10 +51157,8 @@ window.QUALIDADE_CANA_DATA = [
     "Frente": "135 - FRENTE PEDRINHO",
     "Responsável": "MABILA HELEN D FIGUEIREDO",
     "Quantidade de Cana": "BOM",
-    "Observações": null,
-    "Fazenda": "36813",
-    "Observações ": "Boa",
-    "Unnamed: 19": null
+    "Observações": "Boa",
+    "Fazenda": "36813"
   },
   {
     "ID": "3949182",
@@ -56050,10 +51178,8 @@ window.QUALIDADE_CANA_DATA = [
     "Frente": "135 - FRENTE PEDRINHO",
     "Responsável": "MABILA HELEN D FIGUEIREDO",
     "Quantidade de Cana": "BOM",
-    "Observações": null,
-    "Fazenda": "36813",
-    "Observações ": "Boa",
-    "Unnamed: 19": null
+    "Observações": "Boa",
+    "Fazenda": "36813"
   },
   {
     "ID": "3946373",
@@ -56073,10 +51199,8 @@ window.QUALIDADE_CANA_DATA = [
     "Frente": "135 - FRENTE PEDRINHO",
     "Responsável": "MABILA HELEN D FIGUEIREDO",
     "Quantidade de Cana": "BOM",
-    "Observações": null,
-    "Fazenda": "151901",
-    "Observações ": "Boa",
-    "Unnamed: 19": null
+    "Observações": "Boa",
+    "Fazenda": "151901"
   },
   {
     "ID": "3946363",
@@ -56096,10 +51220,8 @@ window.QUALIDADE_CANA_DATA = [
     "Frente": "135 - FRENTE PEDRINHO",
     "Responsável": "MABILA HELEN D FIGUEIREDO",
     "Quantidade de Cana": "BOM",
-    "Observações": null,
-    "Fazenda": "151901",
-    "Observações ": "Boa",
-    "Unnamed: 19": null
+    "Observações": "Boa",
+    "Fazenda": "151901"
   },
   {
     "ID": "3946362",
@@ -56119,10 +51241,8 @@ window.QUALIDADE_CANA_DATA = [
     "Frente": "135 - FRENTE PEDRINHO",
     "Responsável": "MABILA HELEN D FIGUEIREDO",
     "Quantidade de Cana": "BOM",
-    "Observações": null,
-    "Fazenda": "151901",
-    "Observações ": "Boa",
-    "Unnamed: 19": null
+    "Observações": "Boa",
+    "Fazenda": "151901"
   },
   {
     "ID": "3946357",
@@ -56142,10 +51262,8 @@ window.QUALIDADE_CANA_DATA = [
     "Frente": "135 - FRENTE PEDRINHO",
     "Responsável": "MABILA HELEN D FIGUEIREDO",
     "Quantidade de Cana": "BOM",
-    "Observações": null,
-    "Fazenda": "151901",
-    "Observações ": "Boa",
-    "Unnamed: 19": null
+    "Observações": "Boa",
+    "Fazenda": "151901"
   },
   {
     "ID": "3942441",
@@ -56165,10 +51283,8 @@ window.QUALIDADE_CANA_DATA = [
     "Frente": "135 - FRENTE PEDRINHO",
     "Responsável": "MABILA HELEN D FIGUEIREDO",
     "Quantidade de Cana": "BOM",
-    "Observações": null,
-    "Fazenda": "151901",
-    "Observações ": "Boa",
-    "Unnamed: 19": null
+    "Observações": "Boa",
+    "Fazenda": "151901"
   },
   {
     "ID": "3942434",
@@ -56188,10 +51304,8 @@ window.QUALIDADE_CANA_DATA = [
     "Frente": "135 - FRENTE PEDRINHO",
     "Responsável": "MABILA HELEN D FIGUEIREDO",
     "Quantidade de Cana": "BOM",
-    "Observações": null,
-    "Fazenda": "151901",
-    "Observações ": "Boa",
-    "Unnamed: 19": null
+    "Observações": "Boa",
+    "Fazenda": "151901"
   },
   {
     "ID": "3942430",
@@ -56211,10 +51325,8 @@ window.QUALIDADE_CANA_DATA = [
     "Frente": "135 - FRENTE PEDRINHO",
     "Responsável": "MABILA HELEN D FIGUEIREDO",
     "Quantidade de Cana": "BOM",
-    "Observações": null,
-    "Fazenda": "151901",
-    "Observações ": "Boa ",
-    "Unnamed: 19": null
+    "Observações": "Boa ",
+    "Fazenda": "151901"
   },
   {
     "ID": "3942415",
@@ -56234,10 +51346,8 @@ window.QUALIDADE_CANA_DATA = [
     "Frente": "135 - FRENTE PEDRINHO",
     "Responsável": "MABILA HELEN D FIGUEIREDO",
     "Quantidade de Cana": "BOM",
-    "Observações": null,
-    "Fazenda": "151901",
-    "Observações ": "Boa",
-    "Unnamed: 19": null
+    "Observações": "Boa",
+    "Fazenda": "151901"
   },
   {
     "ID": "3942397",
@@ -56257,10 +51367,8 @@ window.QUALIDADE_CANA_DATA = [
     "Frente": "135 - FRENTE PEDRINHO",
     "Responsável": "MABILA HELEN D FIGUEIREDO",
     "Quantidade de Cana": "BOM",
-    "Observações": null,
-    "Fazenda": "151901",
-    "Observações ": "Bom",
-    "Unnamed: 19": null
+    "Observações": "Bom",
+    "Fazenda": "151901"
   },
   {
     "ID": "3942393",
@@ -56280,10 +51388,8 @@ window.QUALIDADE_CANA_DATA = [
     "Frente": "135 - FRENTE PEDRINHO",
     "Responsável": "MABILA HELEN D FIGUEIREDO",
     "Quantidade de Cana": "BOM",
-    "Observações": null,
-    "Fazenda": "151901",
-    "Observações ": "Bom",
-    "Unnamed: 19": null
+    "Observações": "Bom",
+    "Fazenda": "151901"
   },
   {
     "ID": "3942390",
@@ -56303,10 +51409,8 @@ window.QUALIDADE_CANA_DATA = [
     "Frente": "135 - FRENTE PEDRINHO",
     "Responsável": "MABILA HELEN D FIGUEIREDO",
     "Quantidade de Cana": "BOM",
-    "Observações": null,
-    "Fazenda": "151901",
-    "Observações ": "Boa",
-    "Unnamed: 19": null
+    "Observações": "Boa",
+    "Fazenda": "151901"
   },
   {
     "ID": "3942384",
@@ -56326,10 +51430,8 @@ window.QUALIDADE_CANA_DATA = [
     "Frente": "135 - FRENTE PEDRINHO",
     "Responsável": "MABILA HELEN D FIGUEIREDO",
     "Quantidade de Cana": "BOM",
-    "Observações": null,
-    "Fazenda": "151901",
-    "Observações ": "Boa",
-    "Unnamed: 19": null
+    "Observações": "Boa",
+    "Fazenda": "151901"
   },
   {
     "ID": "3941333",
@@ -56349,10 +51451,8 @@ window.QUALIDADE_CANA_DATA = [
     "Frente": "135 - FRENTE PEDRINHO",
     "Responsável": "MABILA HELEN D FIGUEIREDO",
     "Quantidade de Cana": "BOM",
-    "Observações": null,
-    "Fazenda": "151901",
-    "Observações ": "Boa",
-    "Unnamed: 19": null
+    "Observações": "Boa",
+    "Fazenda": "151901"
   },
   {
     "ID": "3939365",
@@ -56372,10 +51472,8 @@ window.QUALIDADE_CANA_DATA = [
     "Frente": "261 - FRENTE PRÓPRIA  (EDMILSON)",
     "Responsável": "VITOR AMORIM RAMOS ",
     "Quantidade de Cana": "BOM",
-    "Observações": null,
-    "Fazenda": "177012",
-    "Observações ": "Boa quantidade de cana ",
-    "Unnamed: 19": null
+    "Observações": "Boa quantidade de cana ",
+    "Fazenda": "177012"
   },
   {
     "ID": "3939138",
@@ -56395,10 +51493,8 @@ window.QUALIDADE_CANA_DATA = [
     "Frente": "135 - FRENTE PEDRINHO",
     "Responsável": "MABILA HELEN D FIGUEIREDO",
     "Quantidade de Cana": "BOM",
-    "Observações": null,
-    "Fazenda": "151901",
-    "Observações ": "Boa",
-    "Unnamed: 19": null
+    "Observações": "Boa",
+    "Fazenda": "151901"
   },
   {
     "ID": "3939133",
@@ -56418,10 +51514,8 @@ window.QUALIDADE_CANA_DATA = [
     "Frente": "135 - FRENTE PEDRINHO",
     "Responsável": "MABILA HELEN D FIGUEIREDO",
     "Quantidade de Cana": "BOM",
-    "Observações": null,
-    "Fazenda": "151901",
-    "Observações ": "Boa",
-    "Unnamed: 19": null
+    "Observações": "Boa",
+    "Fazenda": "151901"
   },
   {
     "ID": "3939128",
@@ -56441,10 +51535,8 @@ window.QUALIDADE_CANA_DATA = [
     "Frente": "135 - FRENTE PEDRINHO",
     "Responsável": "MABILA HELEN D FIGUEIREDO",
     "Quantidade de Cana": "BOM",
-    "Observações": null,
-    "Fazenda": "151901",
-    "Observações ": "Boa",
-    "Unnamed: 19": null
+    "Observações": "Boa",
+    "Fazenda": "151901"
   },
   {
     "ID": "3939123",
@@ -56464,10 +51556,8 @@ window.QUALIDADE_CANA_DATA = [
     "Frente": "135 - FRENTE PEDRINHO",
     "Responsável": "MABILA HELEN D FIGUEIREDO",
     "Quantidade de Cana": "BOM",
-    "Observações": null,
-    "Fazenda": "151901",
-    "Observações ": "Boa ",
-    "Unnamed: 19": null
+    "Observações": "Boa ",
+    "Fazenda": "151901"
   },
   {
     "ID": "3939118",
@@ -56487,10 +51577,8 @@ window.QUALIDADE_CANA_DATA = [
     "Frente": "135 - FRENTE PEDRINHO",
     "Responsável": "MABILA HELEN D FIGUEIREDO",
     "Quantidade de Cana": "BOM",
-    "Observações": null,
-    "Fazenda": "151901",
-    "Observações ": "Boa",
-    "Unnamed: 19": null
+    "Observações": "Boa",
+    "Fazenda": "151901"
   },
   {
     "ID": "3939342",
@@ -56510,10 +51598,8 @@ window.QUALIDADE_CANA_DATA = [
     "Frente": "261 - FRENTE PRÓPRIA  (EDMILSON)",
     "Responsável": "VITOR AMORIM RAMOS ",
     "Quantidade de Cana": "BOM",
-    "Observações": null,
-    "Fazenda": "177012",
-    "Observações ": "Cana bem distribuída ",
-    "Unnamed: 19": null
+    "Observações": "Cana bem distribuída ",
+    "Fazenda": "177012"
   },
   {
     "ID": "3939109",
@@ -56533,10 +51619,8 @@ window.QUALIDADE_CANA_DATA = [
     "Frente": "135 - FRENTE PEDRINHO",
     "Responsável": "MABILA HELEN D FIGUEIREDO",
     "Quantidade de Cana": "BOM",
-    "Observações": null,
-    "Fazenda": "151901",
-    "Observações ": "Boa",
-    "Unnamed: 19": null
+    "Observações": "Boa",
+    "Fazenda": "151901"
   },
   {
     "ID": "3939102",
@@ -56556,10 +51640,8 @@ window.QUALIDADE_CANA_DATA = [
     "Frente": "135 - FRENTE PEDRINHO",
     "Responsável": "MABILA HELEN D FIGUEIREDO",
     "Quantidade de Cana": "BOM",
-    "Observações": null,
-    "Fazenda": "151901",
-    "Observações ": "Boa",
-    "Unnamed: 19": null
+    "Observações": "Boa",
+    "Fazenda": "151901"
   },
   {
     "ID": "3939449",
@@ -56579,10 +51661,8 @@ window.QUALIDADE_CANA_DATA = [
     "Frente": "261 - FRENTE PRÓPRIA  (EDMILSON)",
     "Responsável": "VITOR AMORIM RAMOS ",
     "Quantidade de Cana": "BOM",
-    "Observações": null,
-    "Fazenda": "177012",
-    "Observações ": "Cana bem distribuída ",
-    "Unnamed: 19": null
+    "Observações": "Cana bem distribuída ",
+    "Fazenda": "177012"
   },
   {
     "ID": "3939101",
@@ -56602,10 +51682,8 @@ window.QUALIDADE_CANA_DATA = [
     "Frente": "135 - FRENTE PEDRINHO",
     "Responsável": "MABILA HELEN D FIGUEIREDO",
     "Quantidade de Cana": "BOM",
-    "Observações": null,
-    "Fazenda": "151901",
-    "Observações ": "Boa",
-    "Unnamed: 19": null
+    "Observações": "Boa",
+    "Fazenda": "151901"
   },
   {
     "ID": "3938594",
@@ -56625,10 +51703,8 @@ window.QUALIDADE_CANA_DATA = [
     "Frente": "135 - FRENTE PEDRINHO",
     "Responsável": "REGINALDO DA SILVA GOMES ",
     "Quantidade de Cana": "BOM",
-    "Observações": null,
-    "Fazenda": "151901",
-    "Observações ": ".",
-    "Unnamed: 19": null
+    "Observações": ".",
+    "Fazenda": "151901"
   },
   {
     "ID": "3938587",
@@ -56648,10 +51724,8 @@ window.QUALIDADE_CANA_DATA = [
     "Frente": "135 - FRENTE PEDRINHO",
     "Responsável": "REGINALDO DA SILVA GOMES ",
     "Quantidade de Cana": "BOM",
-    "Observações": null,
-    "Fazenda": "151901",
-    "Observações ": ".",
-    "Unnamed: 19": null
+    "Observações": ".",
+    "Fazenda": "151901"
   },
   {
     "ID": "3938584",
@@ -56671,10 +51745,8 @@ window.QUALIDADE_CANA_DATA = [
     "Frente": "135 - FRENTE PEDRINHO",
     "Responsável": "REGINALDO DA SILVA GOMES ",
     "Quantidade de Cana": "BOM",
-    "Observações": null,
-    "Fazenda": "151901",
-    "Observações ": ".",
-    "Unnamed: 19": null
+    "Observações": ".",
+    "Fazenda": "151901"
   },
   {
     "ID": "3939445",
@@ -56694,10 +51766,8 @@ window.QUALIDADE_CANA_DATA = [
     "Frente": "261 - FRENTE PRÓPRIA  (EDMILSON)",
     "Responsável": "VITOR AMORIM RAMOS ",
     "Quantidade de Cana": "BOM",
-    "Observações": null,
-    "Fazenda": "177012",
-    "Observações ": "Boa distribuição ",
-    "Unnamed: 19": null
+    "Observações": "Boa distribuição ",
+    "Fazenda": "177012"
   },
   {
     "ID": "3936139",
@@ -56717,10 +51787,8 @@ window.QUALIDADE_CANA_DATA = [
     "Frente": "135 - FRENTE PEDRINHO",
     "Responsável": "VITOR AMORIM RAMOS ",
     "Quantidade de Cana": "BOM",
-    "Observações": null,
-    "Fazenda": "151901",
-    "Observações ": "Boa quantidade ",
-    "Unnamed: 19": null
+    "Observações": "Boa quantidade ",
+    "Fazenda": "151901"
   },
   {
     "ID": "3936128",
@@ -56740,10 +51808,8 @@ window.QUALIDADE_CANA_DATA = [
     "Frente": "135 - FRENTE PEDRINHO",
     "Responsável": "VITOR AMORIM RAMOS ",
     "Quantidade de Cana": "BOM",
-    "Observações": null,
-    "Fazenda": "151901",
-    "Observações ": "Boa quantia distribuída ",
-    "Unnamed: 19": null
+    "Observações": "Boa quantia distribuída ",
+    "Fazenda": "151901"
   },
   {
     "ID": "3936125",
@@ -56763,10 +51829,8 @@ window.QUALIDADE_CANA_DATA = [
     "Frente": "135 - FRENTE PEDRINHO",
     "Responsável": "VITOR AMORIM RAMOS ",
     "Quantidade de Cana": "BOM",
-    "Observações": null,
-    "Fazenda": "151901",
-    "Observações ": "Boa distribuída ",
-    "Unnamed: 19": null
+    "Observações": "Boa distribuída ",
+    "Fazenda": "151901"
   },
   {
     "ID": "3936118",
@@ -56786,10 +51850,8 @@ window.QUALIDADE_CANA_DATA = [
     "Frente": "135 - FRENTE PEDRINHO",
     "Responsável": "VITOR AMORIM RAMOS ",
     "Quantidade de Cana": "BOM",
-    "Observações": null,
-    "Fazenda": "151901",
-    "Observações ": "Cana bem distribuída ",
-    "Unnamed: 19": null
+    "Observações": "Cana bem distribuída ",
+    "Fazenda": "151901"
   },
   {
     "ID": "3936111",
@@ -56809,10 +51871,8 @@ window.QUALIDADE_CANA_DATA = [
     "Frente": "135 - FRENTE PEDRINHO",
     "Responsável": "VITOR AMORIM RAMOS ",
     "Quantidade de Cana": "BOM",
-    "Observações": null,
-    "Fazenda": "151901",
-    "Observações ": "Boa distribuída ",
-    "Unnamed: 19": null
+    "Observações": "Boa distribuída ",
+    "Fazenda": "151901"
   },
   {
     "ID": "3936107",
@@ -56832,10 +51892,8 @@ window.QUALIDADE_CANA_DATA = [
     "Frente": "135 - FRENTE PEDRINHO",
     "Responsável": "VITOR AMORIM RAMOS ",
     "Quantidade de Cana": "BOM",
-    "Observações": null,
-    "Fazenda": "151901",
-    "Observações ": "Cana bem distribuída ",
-    "Unnamed: 19": null
+    "Observações": "Cana bem distribuída ",
+    "Fazenda": "151901"
   },
   {
     "ID": "3936087",
@@ -56855,10 +51913,8 @@ window.QUALIDADE_CANA_DATA = [
     "Frente": "135 - FRENTE PEDRINHO",
     "Responsável": "VITOR AMORIM RAMOS ",
     "Quantidade de Cana": "BOM",
-    "Observações": null,
-    "Fazenda": "151901",
-    "Observações ": "Boa distribuída ",
-    "Unnamed: 19": null
+    "Observações": "Boa distribuída ",
+    "Fazenda": "151901"
   },
   {
     "ID": "3936071",
@@ -56878,10 +51934,8 @@ window.QUALIDADE_CANA_DATA = [
     "Frente": "135 - FRENTE PEDRINHO",
     "Responsável": "VITOR AMORIM RAMOS ",
     "Quantidade de Cana": "BOM",
-    "Observações": null,
-    "Fazenda": "151901",
-    "Observações ": "Bem distribuída ",
-    "Unnamed: 19": null
+    "Observações": "Bem distribuída ",
+    "Fazenda": "151901"
   },
   {
     "ID": "3936048",
@@ -56901,10 +51955,8 @@ window.QUALIDADE_CANA_DATA = [
     "Frente": "135 - FRENTE PEDRINHO",
     "Responsável": "VITOR AMORIM RAMOS ",
     "Quantidade de Cana": "BOM",
-    "Observações": null,
-    "Fazenda": "151901",
-    "Observações ": "Cana bem distribuída ",
-    "Unnamed: 19": null
+    "Observações": "Cana bem distribuída ",
+    "Fazenda": "151901"
   },
   {
     "ID": "3936044",
@@ -56924,10 +51976,8 @@ window.QUALIDADE_CANA_DATA = [
     "Frente": "135 - FRENTE PEDRINHO",
     "Responsável": "VITOR AMORIM RAMOS ",
     "Quantidade de Cana": "BOM",
-    "Observações": null,
-    "Fazenda": "151901",
-    "Observações ": "Boa distribuição de cana ",
-    "Unnamed: 19": null
+    "Observações": "Boa distribuição de cana ",
+    "Fazenda": "151901"
   },
   {
     "ID": "3936041",
@@ -56947,10 +51997,8 @@ window.QUALIDADE_CANA_DATA = [
     "Frente": "135 - FRENTE PEDRINHO",
     "Responsável": "VITOR AMORIM RAMOS ",
     "Quantidade de Cana": "BOM",
-    "Observações": null,
-    "Fazenda": "151901",
-    "Observações ": "Cana  bem distribuída ",
-    "Unnamed: 19": null
+    "Observações": "Cana  bem distribuída ",
+    "Fazenda": "151901"
   },
   {
     "ID": "3936036",
@@ -56970,10 +52018,8 @@ window.QUALIDADE_CANA_DATA = [
     "Frente": "135 - FRENTE PEDRINHO",
     "Responsável": "VITOR AMORIM RAMOS ",
     "Quantidade de Cana": "BOM",
-    "Observações": null,
-    "Fazenda": "151901",
-    "Observações ": "Boa  distribuída ",
-    "Unnamed: 19": null
+    "Observações": "Boa  distribuída ",
+    "Fazenda": "151901"
   },
   {
     "ID": "3936025",
@@ -56993,10 +52039,8 @@ window.QUALIDADE_CANA_DATA = [
     "Frente": "135 - FRENTE PEDRINHO",
     "Responsável": "VITOR AMORIM RAMOS ",
     "Quantidade de Cana": "BOM",
-    "Observações": null,
-    "Fazenda": "151901",
-    "Observações ": "Cana bem distribuída ",
-    "Unnamed: 19": null
+    "Observações": "Cana bem distribuída ",
+    "Fazenda": "151901"
   },
   {
     "ID": "3931257",
@@ -57016,10 +52060,8 @@ window.QUALIDADE_CANA_DATA = [
     "Frente": "261 - FRENTE PRÓPRIA  (EDMILSON)",
     "Responsável": "VITOR AMORIM RAMOS ",
     "Quantidade de Cana": "BOM",
-    "Observações": null,
-    "Fazenda": "67901",
-    "Observações ": "Cana bem distribuída ",
-    "Unnamed: 19": null
+    "Observações": "Cana bem distribuída ",
+    "Fazenda": "67901"
   },
   {
     "ID": "3931250",
@@ -57039,10 +52081,8 @@ window.QUALIDADE_CANA_DATA = [
     "Frente": "261 - FRENTE PRÓPRIA  (EDMILSON)",
     "Responsável": "VITOR AMORIM RAMOS ",
     "Quantidade de Cana": "BOM",
-    "Observações": null,
-    "Fazenda": "67901",
-    "Observações ": "Cana bem distribuída ",
-    "Unnamed: 19": null
+    "Observações": "Cana bem distribuída ",
+    "Fazenda": "67901"
   },
   {
     "ID": "3931240",
@@ -57062,10 +52102,8 @@ window.QUALIDADE_CANA_DATA = [
     "Frente": "261 - FRENTE PRÓPRIA  (EDMILSON)",
     "Responsável": "VITOR AMORIM RAMOS ",
     "Quantidade de Cana": "BOM",
-    "Observações": null,
-    "Fazenda": "67901",
-    "Observações ": "Quantidade boa distribuída ",
-    "Unnamed: 19": null
+    "Observações": "Quantidade boa distribuída ",
+    "Fazenda": "67901"
   },
   {
     "ID": "3928758",
@@ -57086,9 +52124,7 @@ window.QUALIDADE_CANA_DATA = [
     "Responsável": "VITOR AMORIM RAMOS ",
     "Quantidade de Cana": "BOM",
     "Observações": null,
-    "Fazenda": "67901",
-    "Observações ": null,
-    "Unnamed: 19": null
+    "Fazenda": "67901"
   },
   {
     "ID": "3928754",
@@ -57109,9 +52145,7 @@ window.QUALIDADE_CANA_DATA = [
     "Responsável": "VITOR AMORIM RAMOS ",
     "Quantidade de Cana": "BOM",
     "Observações": null,
-    "Fazenda": "67901",
-    "Observações ": null,
-    "Unnamed: 19": null
+    "Fazenda": "67901"
   },
   {
     "ID": "3928748",
@@ -57132,9 +52166,7 @@ window.QUALIDADE_CANA_DATA = [
     "Responsável": "VITOR AMORIM RAMOS ",
     "Quantidade de Cana": "BOM",
     "Observações": null,
-    "Fazenda": "67901",
-    "Observações ": null,
-    "Unnamed: 19": null
+    "Fazenda": "67901"
   },
   {
     "ID": "3928531",
@@ -57154,10 +52186,8 @@ window.QUALIDADE_CANA_DATA = [
     "Frente": "135 - FRENTE PEDRINHO",
     "Responsável": "284860  - Juliana Aparecida Ferreira De Freitas",
     "Quantidade de Cana": "BOM",
-    "Observações": null,
-    "Fazenda": "151901",
-    "Observações ": "Bom",
-    "Unnamed: 19": null
+    "Observações": "Bom",
+    "Fazenda": "151901"
   },
   {
     "ID": "3928526",
@@ -57177,10 +52207,8 @@ window.QUALIDADE_CANA_DATA = [
     "Frente": "135 - FRENTE PEDRINHO",
     "Responsável": "284860  - Juliana Aparecida Ferreira De Freitas",
     "Quantidade de Cana": "BOM",
-    "Observações": null,
-    "Fazenda": "151901",
-    "Observações ": "Bom",
-    "Unnamed: 19": null
+    "Observações": "Bom",
+    "Fazenda": "151901"
   },
   {
     "ID": "3928737",
@@ -57201,9 +52229,7 @@ window.QUALIDADE_CANA_DATA = [
     "Responsável": "VITOR AMORIM RAMOS ",
     "Quantidade de Cana": "BOM",
     "Observações": null,
-    "Fazenda": "67901",
-    "Observações ": null,
-    "Unnamed: 19": null
+    "Fazenda": "67901"
   },
   {
     "ID": "3928733",
@@ -57224,9 +52250,7 @@ window.QUALIDADE_CANA_DATA = [
     "Responsável": "VITOR AMORIM RAMOS ",
     "Quantidade de Cana": "BOM",
     "Observações": null,
-    "Fazenda": "67901",
-    "Observações ": null,
-    "Unnamed: 19": null
+    "Fazenda": "67901"
   },
   {
     "ID": "3928521",
@@ -57246,10 +52270,8 @@ window.QUALIDADE_CANA_DATA = [
     "Frente": "135 - FRENTE PEDRINHO",
     "Responsável": "284860  - Juliana Aparecida Ferreira De Freitas",
     "Quantidade de Cana": "BOM",
-    "Observações": null,
-    "Fazenda": "151901",
-    "Observações ": "Bom",
-    "Unnamed: 19": null
+    "Observações": "Bom",
+    "Fazenda": "151901"
   },
   {
     "ID": "3928729",
@@ -57270,9 +52292,7 @@ window.QUALIDADE_CANA_DATA = [
     "Responsável": "VITOR AMORIM RAMOS ",
     "Quantidade de Cana": "BOM",
     "Observações": null,
-    "Fazenda": "67901",
-    "Observações ": null,
-    "Unnamed: 19": null
+    "Fazenda": "67901"
   },
   {
     "ID": "3928515",
@@ -57292,10 +52312,8 @@ window.QUALIDADE_CANA_DATA = [
     "Frente": "135 - FRENTE PEDRINHO",
     "Responsável": "284860  - Juliana Aparecida Ferreira De Freitas",
     "Quantidade de Cana": "BOM",
-    "Observações": null,
-    "Fazenda": "151901",
-    "Observações ": "Bom",
-    "Unnamed: 19": null
+    "Observações": "Bom",
+    "Fazenda": "151901"
   },
   {
     "ID": "3928510",
@@ -57315,10 +52333,8 @@ window.QUALIDADE_CANA_DATA = [
     "Frente": "135 - FRENTE PEDRINHO",
     "Responsável": "284860  - Juliana Aparecida Ferreira De Freitas",
     "Quantidade de Cana": "BOM",
-    "Observações": null,
-    "Fazenda": "151901",
-    "Observações ": "Bom",
-    "Unnamed: 19": null
+    "Observações": "Bom",
+    "Fazenda": "151901"
   },
   {
     "ID": "3928722",
@@ -57339,9 +52355,7 @@ window.QUALIDADE_CANA_DATA = [
     "Responsável": "VITOR AMORIM RAMOS ",
     "Quantidade de Cana": "BOM",
     "Observações": null,
-    "Fazenda": "67901",
-    "Observações ": null,
-    "Unnamed: 19": null
+    "Fazenda": "67901"
   },
   {
     "ID": "3928505",
@@ -57361,10 +52375,8 @@ window.QUALIDADE_CANA_DATA = [
     "Frente": "135 - FRENTE PEDRINHO",
     "Responsável": "284860  - Juliana Aparecida Ferreira De Freitas",
     "Quantidade de Cana": "BOM",
-    "Observações": null,
-    "Fazenda": "151901",
-    "Observações ": "Bom",
-    "Unnamed: 19": null
+    "Observações": "Bom",
+    "Fazenda": "151901"
   },
   {
     "ID": "3928716",
@@ -57385,9 +52397,7 @@ window.QUALIDADE_CANA_DATA = [
     "Responsável": "VITOR AMORIM RAMOS ",
     "Quantidade de Cana": "BOM",
     "Observações": null,
-    "Fazenda": "67901",
-    "Observações ": null,
-    "Unnamed: 19": null
+    "Fazenda": "67901"
   },
   {
     "ID": "3928712",
@@ -57408,9 +52418,7 @@ window.QUALIDADE_CANA_DATA = [
     "Responsável": "VITOR AMORIM RAMOS ",
     "Quantidade de Cana": "BOM",
     "Observações": null,
-    "Fazenda": "67901",
-    "Observações ": null,
-    "Unnamed: 19": null
+    "Fazenda": "67901"
   },
   {
     "ID": "3928500",
@@ -57430,10 +52438,8 @@ window.QUALIDADE_CANA_DATA = [
     "Frente": "135 - FRENTE PEDRINHO",
     "Responsável": "284860  - Juliana Aparecida Ferreira De Freitas",
     "Quantidade de Cana": "BOM",
-    "Observações": null,
-    "Fazenda": "151901",
-    "Observações ": "Bom",
-    "Unnamed: 19": null
+    "Observações": "Bom",
+    "Fazenda": "151901"
   },
   {
     "ID": "3928707",
@@ -57454,9 +52460,7 @@ window.QUALIDADE_CANA_DATA = [
     "Responsável": "VITOR AMORIM RAMOS ",
     "Quantidade de Cana": "BOM",
     "Observações": null,
-    "Fazenda": "67901",
-    "Observações ": null,
-    "Unnamed: 19": null
+    "Fazenda": "67901"
   },
   {
     "ID": "3928495",
@@ -57476,10 +52480,8 @@ window.QUALIDADE_CANA_DATA = [
     "Frente": "135 - FRENTE PEDRINHO",
     "Responsável": "284860  - Juliana Aparecida Ferreira De Freitas",
     "Quantidade de Cana": "BOM",
-    "Observações": null,
-    "Fazenda": "151901",
-    "Observações ": "Bom",
-    "Unnamed: 19": null
+    "Observações": "Bom",
+    "Fazenda": "151901"
   },
   {
     "ID": "3928976",
@@ -57500,9 +52502,7 @@ window.QUALIDADE_CANA_DATA = [
     "Responsável": "VITOR AMORIM RAMOS ",
     "Quantidade de Cana": "BOM",
     "Observações": null,
-    "Fazenda": "67901",
-    "Observações ": null,
-    "Unnamed: 19": null
+    "Fazenda": "67901"
   },
   {
     "ID": "3928974",
@@ -57523,9 +52523,7 @@ window.QUALIDADE_CANA_DATA = [
     "Responsável": "VITOR AMORIM RAMOS ",
     "Quantidade de Cana": "BOM",
     "Observações": null,
-    "Fazenda": "67901",
-    "Observações ": null,
-    "Unnamed: 19": null
+    "Fazenda": "67901"
   },
   {
     "ID": "3928949",
@@ -57546,9 +52544,7 @@ window.QUALIDADE_CANA_DATA = [
     "Responsável": "VITOR AMORIM RAMOS ",
     "Quantidade de Cana": "BOM",
     "Observações": null,
-    "Fazenda": "67901",
-    "Observações ": null,
-    "Unnamed: 19": null
+    "Fazenda": "67901"
   },
   {
     "ID": "3928290",
@@ -57569,9 +52565,7 @@ window.QUALIDADE_CANA_DATA = [
     "Responsável": "VITOR AMORIM RAMOS ",
     "Quantidade de Cana": "BOM",
     "Observações": null,
-    "Fazenda": "67901",
-    "Observações ": null,
-    "Unnamed: 19": null
+    "Fazenda": "67901"
   },
   {
     "ID": "3926127",
@@ -57591,10 +52585,8 @@ window.QUALIDADE_CANA_DATA = [
     "Frente": "135 - FRENTE PEDRINHO",
     "Responsável": "284860  - Juliana Aparecida Ferreira De Freitas",
     "Quantidade de Cana": "BOM",
-    "Observações": null,
-    "Fazenda": "177015",
-    "Observações ": "Bom",
-    "Unnamed: 19": null
+    "Observações": "Bom",
+    "Fazenda": "177015"
   },
   {
     "ID": "3926122",
@@ -57614,10 +52606,8 @@ window.QUALIDADE_CANA_DATA = [
     "Frente": "135 - FRENTE PEDRINHO",
     "Responsável": "284860  - Juliana Aparecida Ferreira De Freitas",
     "Quantidade de Cana": "BOM",
-    "Observações": null,
-    "Fazenda": "177015",
-    "Observações ": "Bom",
-    "Unnamed: 19": null
+    "Observações": "Bom",
+    "Fazenda": "177015"
   },
   {
     "ID": "3926117",
@@ -57637,10 +52627,8 @@ window.QUALIDADE_CANA_DATA = [
     "Frente": "135 - FRENTE PEDRINHO",
     "Responsável": "284860  - Juliana Aparecida Ferreira De Freitas",
     "Quantidade de Cana": "BOM",
-    "Observações": null,
-    "Fazenda": "177015",
-    "Observações ": "Bom",
-    "Unnamed: 19": null
+    "Observações": "Bom",
+    "Fazenda": "177015"
   },
   {
     "ID": "3926112",
@@ -57660,10 +52648,8 @@ window.QUALIDADE_CANA_DATA = [
     "Frente": "135 - FRENTE PEDRINHO",
     "Responsável": "284860  - Juliana Aparecida Ferreira De Freitas",
     "Quantidade de Cana": "BOM",
-    "Observações": null,
-    "Fazenda": "177015",
-    "Observações ": "Bom",
-    "Unnamed: 19": null
+    "Observações": "Bom",
+    "Fazenda": "177015"
   },
   {
     "ID": "3926107",
@@ -57683,10 +52669,8 @@ window.QUALIDADE_CANA_DATA = [
     "Frente": "135 - FRENTE PEDRINHO",
     "Responsável": "284860  - Juliana Aparecida Ferreira De Freitas",
     "Quantidade de Cana": "BOM",
-    "Observações": null,
-    "Fazenda": "177015",
-    "Observações ": "Bom",
-    "Unnamed: 19": null
+    "Observações": "Bom",
+    "Fazenda": "177015"
   },
   {
     "ID": "3926102",
@@ -57706,10 +52690,8 @@ window.QUALIDADE_CANA_DATA = [
     "Frente": "135 - FRENTE PEDRINHO",
     "Responsável": "284860  - Juliana Aparecida Ferreira De Freitas",
     "Quantidade de Cana": "BOM",
-    "Observações": null,
-    "Fazenda": "177015",
-    "Observações ": "Bom",
-    "Unnamed: 19": null
+    "Observações": "Bom",
+    "Fazenda": "177015"
   },
   {
     "ID": "3926097",
@@ -57729,10 +52711,8 @@ window.QUALIDADE_CANA_DATA = [
     "Frente": "135 - FRENTE PEDRINHO",
     "Responsável": "284860  - Juliana Aparecida Ferreira De Freitas",
     "Quantidade de Cana": "BOM",
-    "Observações": null,
-    "Fazenda": "177015",
-    "Observações ": "Bom",
-    "Unnamed: 19": null
+    "Observações": "Bom",
+    "Fazenda": "177015"
   },
   {
     "ID": "3926139",
@@ -57752,10 +52732,8 @@ window.QUALIDADE_CANA_DATA = [
     "Frente": "135 - FRENTE PEDRINHO",
     "Responsável": "284860  - Juliana Aparecida Ferreira De Freitas",
     "Quantidade de Cana": "BOM",
-    "Observações": null,
-    "Fazenda": "177015",
-    "Observações ": "Bom",
-    "Unnamed: 19": null
+    "Observações": "Bom",
+    "Fazenda": "177015"
   },
   {
     "ID": "3926075",
@@ -57775,10 +52753,8 @@ window.QUALIDADE_CANA_DATA = [
     "Frente": "135 - FRENTE PEDRINHO",
     "Responsável": "284860  - Juliana Aparecida Ferreira De Freitas",
     "Quantidade de Cana": "BOM",
-    "Observações": null,
-    "Fazenda": "177015",
-    "Observações ": "Bom",
-    "Unnamed: 19": null
+    "Observações": "Bom",
+    "Fazenda": "177015"
   },
   {
     "ID": "3926068",
@@ -57798,10 +52774,8 @@ window.QUALIDADE_CANA_DATA = [
     "Frente": "135 - FRENTE PEDRINHO",
     "Responsável": "284860  - Juliana Aparecida Ferreira De Freitas",
     "Quantidade de Cana": "BOM",
-    "Observações": null,
-    "Fazenda": "177015",
-    "Observações ": "Bom",
-    "Unnamed: 19": null
+    "Observações": "Bom",
+    "Fazenda": "177015"
   },
   {
     "ID": "3923394",
@@ -57821,10 +52795,8 @@ window.QUALIDADE_CANA_DATA = [
     "Frente": "135 - FRENTE PEDRINHO",
     "Responsável": "284860  - Juliana Aparecida Ferreira De Freitas",
     "Quantidade de Cana": "BOM",
-    "Observações": null,
-    "Fazenda": "177015",
-    "Observações ": "Bom",
-    "Unnamed: 19": null
+    "Observações": "Bom",
+    "Fazenda": "177015"
   },
   {
     "ID": "3923383",
@@ -57844,10 +52816,8 @@ window.QUALIDADE_CANA_DATA = [
     "Frente": "135 - FRENTE PEDRINHO",
     "Responsável": "284860  - Juliana Aparecida Ferreira De Freitas",
     "Quantidade de Cana": "BOM",
-    "Observações": null,
-    "Fazenda": "177015",
-    "Observações ": "Bom",
-    "Unnamed: 19": null
+    "Observações": "Bom",
+    "Fazenda": "177015"
   },
   {
     "ID": "3923369",
@@ -57867,10 +52837,8 @@ window.QUALIDADE_CANA_DATA = [
     "Frente": "135 - FRENTE PEDRINHO",
     "Responsável": "284860  - Juliana Aparecida Ferreira De Freitas",
     "Quantidade de Cana": "BOM",
-    "Observações": null,
-    "Fazenda": "177015",
-    "Observações ": "Bom",
-    "Unnamed: 19": null
+    "Observações": "Bom",
+    "Fazenda": "177015"
   },
   {
     "ID": "3923364",
@@ -57890,10 +52858,8 @@ window.QUALIDADE_CANA_DATA = [
     "Frente": "135 - FRENTE PEDRINHO",
     "Responsável": "284860  - Juliana Aparecida Ferreira De Freitas",
     "Quantidade de Cana": "BOM",
-    "Observações": null,
-    "Fazenda": "177015",
-    "Observações ": "Bom",
-    "Unnamed: 19": null
+    "Observações": "Bom",
+    "Fazenda": "177015"
   },
   {
     "ID": "3922721",
@@ -57913,10 +52879,8 @@ window.QUALIDADE_CANA_DATA = [
     "Frente": "261 - FRENTE PRÓPRIA  (EDMILSON)",
     "Responsável": "MABILA HELEN D FIGUEIREDO",
     "Quantidade de Cana": "BOM",
-    "Observações": null,
-    "Fazenda": "111201",
-    "Observações ": "Boa",
-    "Unnamed: 19": null
+    "Observações": "Boa",
+    "Fazenda": "111201"
   },
   {
     "ID": "3922716",
@@ -57936,10 +52900,8 @@ window.QUALIDADE_CANA_DATA = [
     "Frente": "261 - FRENTE PRÓPRIA  (EDMILSON)",
     "Responsável": "MABILA HELEN D FIGUEIREDO",
     "Quantidade de Cana": "BOM",
-    "Observações": null,
-    "Fazenda": "111201",
-    "Observações ": "Boa",
-    "Unnamed: 19": null
+    "Observações": "Boa",
+    "Fazenda": "111201"
   },
   {
     "ID": "3922712",
@@ -57959,10 +52921,8 @@ window.QUALIDADE_CANA_DATA = [
     "Frente": "261 - FRENTE PRÓPRIA  (EDMILSON)",
     "Responsável": "MABILA HELEN D FIGUEIREDO",
     "Quantidade de Cana": "BOM",
-    "Observações": null,
-    "Fazenda": "111201",
-    "Observações ": "Boa",
-    "Unnamed: 19": null
+    "Observações": "Boa",
+    "Fazenda": "111201"
   },
   {
     "ID": "3923352",
@@ -57982,10 +52942,8 @@ window.QUALIDADE_CANA_DATA = [
     "Frente": "135 - FRENTE PEDRINHO",
     "Responsável": "284860  - Juliana Aparecida Ferreira De Freitas",
     "Quantidade de Cana": "BOM",
-    "Observações": null,
-    "Fazenda": "146301",
-    "Observações ": "Bom",
-    "Unnamed: 19": null
+    "Observações": "Bom",
+    "Fazenda": "146301"
   },
   {
     "ID": "3923344",
@@ -58005,10 +52963,8 @@ window.QUALIDADE_CANA_DATA = [
     "Frente": "135 - FRENTE PEDRINHO",
     "Responsável": "284860  - Juliana Aparecida Ferreira De Freitas",
     "Quantidade de Cana": "BOM",
-    "Observações": null,
-    "Fazenda": "146301",
-    "Observações ": "Bom",
-    "Unnamed: 19": null
+    "Observações": "Bom",
+    "Fazenda": "146301"
   },
   {
     "ID": "3922662",
@@ -58028,10 +52984,8 @@ window.QUALIDADE_CANA_DATA = [
     "Frente": "261 - FRENTE PRÓPRIA  (EDMILSON)",
     "Responsável": "REGINALDO DA SILVA GOMES ",
     "Quantidade de Cana": "BOM",
-    "Observações": null,
-    "Fazenda": "111201",
-    "Observações ": ".",
-    "Unnamed: 19": null
+    "Observações": ".",
+    "Fazenda": "111201"
   },
   {
     "ID": "3922656",
@@ -58051,10 +53005,8 @@ window.QUALIDADE_CANA_DATA = [
     "Frente": "261 - FRENTE PRÓPRIA  (EDMILSON)",
     "Responsável": "REGINALDO DA SILVA GOMES ",
     "Quantidade de Cana": "BOM",
-    "Observações": null,
-    "Fazenda": "111201",
-    "Observações ": ".",
-    "Unnamed: 19": null
+    "Observações": ".",
+    "Fazenda": "111201"
   },
   {
     "ID": "3922652",
@@ -58074,10 +53026,8 @@ window.QUALIDADE_CANA_DATA = [
     "Frente": "261 - FRENTE PRÓPRIA  (EDMILSON)",
     "Responsável": "REGINALDO DA SILVA GOMES ",
     "Quantidade de Cana": "BOM",
-    "Observações": null,
-    "Fazenda": "111201",
-    "Observações ": ".",
-    "Unnamed: 19": null
+    "Observações": ".",
+    "Fazenda": "111201"
   },
   {
     "ID": "3922706",
@@ -58097,10 +53047,8 @@ window.QUALIDADE_CANA_DATA = [
     "Frente": "261 - FRENTE PRÓPRIA  (EDMILSON)",
     "Responsável": "MABILA HELEN D FIGUEIREDO",
     "Quantidade de Cana": "BOM",
-    "Observações": null,
-    "Fazenda": "111201",
-    "Observações ": "Boa",
-    "Unnamed: 19": null
+    "Observações": "Boa",
+    "Fazenda": "111201"
   },
   {
     "ID": "3923334",
@@ -58120,10 +53068,8 @@ window.QUALIDADE_CANA_DATA = [
     "Frente": "135 - FRENTE PEDRINHO",
     "Responsável": "284860  - Juliana Aparecida Ferreira De Freitas",
     "Quantidade de Cana": "BOM",
-    "Observações": null,
-    "Fazenda": "146301",
-    "Observações ": "Bom",
-    "Unnamed: 19": null
+    "Observações": "Bom",
+    "Fazenda": "146301"
   },
   {
     "ID": "3922643",
@@ -58143,10 +53089,8 @@ window.QUALIDADE_CANA_DATA = [
     "Frente": "261 - FRENTE PRÓPRIA  (EDMILSON)",
     "Responsável": "REGINALDO DA SILVA GOMES ",
     "Quantidade de Cana": "BOM",
-    "Observações": null,
-    "Fazenda": "111201",
-    "Observações ": ".",
-    "Unnamed: 19": null
+    "Observações": ".",
+    "Fazenda": "111201"
   },
   {
     "ID": "3922702",
@@ -58166,10 +53110,8 @@ window.QUALIDADE_CANA_DATA = [
     "Frente": "261 - FRENTE PRÓPRIA  (EDMILSON)",
     "Responsável": "MABILA HELEN D FIGUEIREDO",
     "Quantidade de Cana": "BOM",
-    "Observações": null,
-    "Fazenda": "111201",
-    "Observações ": "Boa",
-    "Unnamed: 19": null
+    "Observações": "Boa",
+    "Fazenda": "111201"
   },
   {
     "ID": "3922639",
@@ -58189,10 +53131,8 @@ window.QUALIDADE_CANA_DATA = [
     "Frente": "261 - FRENTE PRÓPRIA  (EDMILSON)",
     "Responsável": "REGINALDO DA SILVA GOMES ",
     "Quantidade de Cana": "BOM",
-    "Observações": null,
-    "Fazenda": "111201",
-    "Observações ": ".",
-    "Unnamed: 19": null
+    "Observações": ".",
+    "Fazenda": "111201"
   },
   {
     "ID": "3922695",
@@ -58212,10 +53152,8 @@ window.QUALIDADE_CANA_DATA = [
     "Frente": "261 - FRENTE PRÓPRIA  (EDMILSON)",
     "Responsável": "MABILA HELEN D FIGUEIREDO",
     "Quantidade de Cana": "BOM",
-    "Observações": null,
-    "Fazenda": "111201",
-    "Observações ": "Boa",
-    "Unnamed: 19": null
+    "Observações": "Boa",
+    "Fazenda": "111201"
   },
   {
     "ID": "3923328",
@@ -58235,10 +53173,8 @@ window.QUALIDADE_CANA_DATA = [
     "Frente": "135 - FRENTE PEDRINHO",
     "Responsável": "284860  - Juliana Aparecida Ferreira De Freitas",
     "Quantidade de Cana": "BOM",
-    "Observações": null,
-    "Fazenda": "146301",
-    "Observações ": "Bom",
-    "Unnamed: 19": null
+    "Observações": "Bom",
+    "Fazenda": "146301"
   },
   {
     "ID": "3923319",
@@ -58258,10 +53194,8 @@ window.QUALIDADE_CANA_DATA = [
     "Frente": "135 - FRENTE PEDRINHO",
     "Responsável": "284860  - Juliana Aparecida Ferreira De Freitas",
     "Quantidade de Cana": "BOM",
-    "Observações": null,
-    "Fazenda": "146301",
-    "Observações ": "Bom",
-    "Unnamed: 19": null
+    "Observações": "Bom",
+    "Fazenda": "146301"
   },
   {
     "ID": "3923407",
@@ -58281,10 +53215,8 @@ window.QUALIDADE_CANA_DATA = [
     "Frente": "135 - FRENTE PEDRINHO",
     "Responsável": "284860  - Juliana Aparecida Ferreira De Freitas",
     "Quantidade de Cana": "BOM",
-    "Observações": null,
-    "Fazenda": "146301",
-    "Observações ": "Bom",
-    "Unnamed: 19": null
+    "Observações": "Bom",
+    "Fazenda": "146301"
   },
   {
     "ID": "3923307",
@@ -58304,10 +53236,8 @@ window.QUALIDADE_CANA_DATA = [
     "Frente": "135 - FRENTE PEDRINHO",
     "Responsável": "284860  - Juliana Aparecida Ferreira De Freitas",
     "Quantidade de Cana": "BOM",
-    "Observações": null,
-    "Fazenda": "146301",
-    "Observações ": "Bom",
-    "Unnamed: 19": null
+    "Observações": "Bom",
+    "Fazenda": "146301"
   },
   {
     "ID": "3923402",
@@ -58327,10 +53257,8 @@ window.QUALIDADE_CANA_DATA = [
     "Frente": "135 - FRENTE PEDRINHO",
     "Responsável": "284860  - Juliana Aparecida Ferreira De Freitas",
     "Quantidade de Cana": "BOM",
-    "Observações": null,
-    "Fazenda": "146301",
-    "Observações ": "Bom",
-    "Unnamed: 19": null
+    "Observações": "Bom",
+    "Fazenda": "146301"
   },
   {
     "ID": "3920398",
@@ -58350,10 +53278,8 @@ window.QUALIDADE_CANA_DATA = [
     "Frente": "135 - FRENTE PEDRINHO",
     "Responsável": "284860  - Juliana Aparecida Ferreira De Freitas",
     "Quantidade de Cana": "BOM",
-    "Observações": null,
-    "Fazenda": "146301",
-    "Observações ": "Bom",
-    "Unnamed: 19": null
+    "Observações": "Bom",
+    "Fazenda": "146301"
   },
   {
     "ID": "3920393",
@@ -58373,10 +53299,8 @@ window.QUALIDADE_CANA_DATA = [
     "Frente": "135 - FRENTE PEDRINHO",
     "Responsável": "284860  - Juliana Aparecida Ferreira De Freitas",
     "Quantidade de Cana": "BOM",
-    "Observações": null,
-    "Fazenda": "146301",
-    "Observações ": "Bom",
-    "Unnamed: 19": null
+    "Observações": "Bom",
+    "Fazenda": "146301"
   },
   {
     "ID": "3920307",
@@ -58396,10 +53320,8 @@ window.QUALIDADE_CANA_DATA = [
     "Frente": "261 - FRENTE PRÓPRIA  (EDMILSON)",
     "Responsável": "MABILA HELEN D FIGUEIREDO",
     "Quantidade de Cana": "BOM",
-    "Observações": null,
-    "Fazenda": "142201",
-    "Observações ": "Boa",
-    "Unnamed: 19": null
+    "Observações": "Boa",
+    "Fazenda": "142201"
   },
   {
     "ID": "3920303",
@@ -58419,10 +53341,8 @@ window.QUALIDADE_CANA_DATA = [
     "Frente": "261 - FRENTE PRÓPRIA  (EDMILSON)",
     "Responsável": "MABILA HELEN D FIGUEIREDO",
     "Quantidade de Cana": "BOM",
-    "Observações": null,
-    "Fazenda": "142201",
-    "Observações ": "Boa ",
-    "Unnamed: 19": null
+    "Observações": "Boa ",
+    "Fazenda": "142201"
   },
   {
     "ID": "3920299",
@@ -58442,10 +53362,8 @@ window.QUALIDADE_CANA_DATA = [
     "Frente": "261 - FRENTE PRÓPRIA  (EDMILSON)",
     "Responsável": "MABILA HELEN D FIGUEIREDO",
     "Quantidade de Cana": "BOM",
-    "Observações": null,
-    "Fazenda": "142201",
-    "Observações ": "Boa",
-    "Unnamed: 19": null
+    "Observações": "Boa",
+    "Fazenda": "142201"
   },
   {
     "ID": "3920387",
@@ -58465,10 +53383,8 @@ window.QUALIDADE_CANA_DATA = [
     "Frente": "135 - FRENTE PEDRINHO",
     "Responsável": "284860  - Juliana Aparecida Ferreira De Freitas",
     "Quantidade de Cana": "BOM",
-    "Observações": null,
-    "Fazenda": "146301",
-    "Observações ": "Bom",
-    "Unnamed: 19": null
+    "Observações": "Bom",
+    "Fazenda": "146301"
   },
   {
     "ID": "3920293",
@@ -58488,10 +53404,8 @@ window.QUALIDADE_CANA_DATA = [
     "Frente": "261 - FRENTE PRÓPRIA  (EDMILSON)",
     "Responsável": "MABILA HELEN D FIGUEIREDO",
     "Quantidade de Cana": "BOM",
-    "Observações": null,
-    "Fazenda": "142201",
-    "Observações ": "Boa",
-    "Unnamed: 19": null
+    "Observações": "Boa",
+    "Fazenda": "142201"
   },
   {
     "ID": "3920383",
@@ -58511,10 +53425,8 @@ window.QUALIDADE_CANA_DATA = [
     "Frente": "135 - FRENTE PEDRINHO",
     "Responsável": "284860  - Juliana Aparecida Ferreira De Freitas",
     "Quantidade de Cana": "BOM",
-    "Observações": null,
-    "Fazenda": "146301",
-    "Observações ": "Bom",
-    "Unnamed: 19": null
+    "Observações": "Bom",
+    "Fazenda": "146301"
   },
   {
     "ID": "3920288",
@@ -58534,10 +53446,8 @@ window.QUALIDADE_CANA_DATA = [
     "Frente": "261 - FRENTE PRÓPRIA  (EDMILSON)",
     "Responsável": "MABILA HELEN D FIGUEIREDO",
     "Quantidade de Cana": "BOM",
-    "Observações": null,
-    "Fazenda": "142201",
-    "Observações ": "Boa",
-    "Unnamed: 19": null
+    "Observações": "Boa",
+    "Fazenda": "142201"
   },
   {
     "ID": "3920283",
@@ -58557,10 +53467,8 @@ window.QUALIDADE_CANA_DATA = [
     "Frente": "261 - FRENTE PRÓPRIA  (EDMILSON)",
     "Responsável": "MABILA HELEN D FIGUEIREDO",
     "Quantidade de Cana": "BOM",
-    "Observações": null,
-    "Fazenda": "142201",
-    "Observações ": "Boa ",
-    "Unnamed: 19": null
+    "Observações": "Boa ",
+    "Fazenda": "142201"
   },
   {
     "ID": "3920282",
@@ -58580,10 +53488,8 @@ window.QUALIDADE_CANA_DATA = [
     "Frente": "261 - FRENTE PRÓPRIA  (EDMILSON)",
     "Responsável": "MABILA HELEN D FIGUEIREDO",
     "Quantidade de Cana": "BOM",
-    "Observações": null,
-    "Fazenda": "142201",
-    "Observações ": "Boa",
-    "Unnamed: 19": null
+    "Observações": "Boa",
+    "Fazenda": "142201"
   },
   {
     "ID": "3920377",
@@ -58603,10 +53509,8 @@ window.QUALIDADE_CANA_DATA = [
     "Frente": "135 - FRENTE PEDRINHO",
     "Responsável": "284860  - Juliana Aparecida Ferreira De Freitas",
     "Quantidade de Cana": "BOM",
-    "Observações": null,
-    "Fazenda": "146301",
-    "Observações ": "Bom",
-    "Unnamed: 19": null
+    "Observações": "Bom",
+    "Fazenda": "146301"
   },
   {
     "ID": "3920373",
@@ -58626,10 +53530,8 @@ window.QUALIDADE_CANA_DATA = [
     "Frente": "135 - FRENTE PEDRINHO",
     "Responsável": "284860  - Juliana Aparecida Ferreira De Freitas",
     "Quantidade de Cana": "BOM",
-    "Observações": null,
-    "Fazenda": "146301",
-    "Observações ": "Bom",
-    "Unnamed: 19": null
+    "Observações": "Bom",
+    "Fazenda": "146301"
   },
   {
     "ID": "3920362",
@@ -58649,10 +53551,8 @@ window.QUALIDADE_CANA_DATA = [
     "Frente": "135 - FRENTE PEDRINHO",
     "Responsável": "284860  - Juliana Aparecida Ferreira De Freitas",
     "Quantidade de Cana": "BOM",
-    "Observações": null,
-    "Fazenda": "146301",
-    "Observações ": "Bom",
-    "Unnamed: 19": null
+    "Observações": "Bom",
+    "Fazenda": "146301"
   },
   {
     "ID": "3919833",
@@ -58672,10 +53572,8 @@ window.QUALIDADE_CANA_DATA = [
     "Frente": "135 - FRENTE PEDRINHO",
     "Responsável": "REGINALDO DA SILVA GOMES ",
     "Quantidade de Cana": "BOM",
-    "Observações": null,
-    "Fazenda": "146301",
-    "Observações ": ".",
-    "Unnamed: 19": null
+    "Observações": ".",
+    "Fazenda": "146301"
   },
   {
     "ID": "3920358",
@@ -58695,10 +53593,8 @@ window.QUALIDADE_CANA_DATA = [
     "Frente": "135 - FRENTE PEDRINHO",
     "Responsável": "284860  - Juliana Aparecida Ferreira De Freitas",
     "Quantidade de Cana": "BOM",
-    "Observações": null,
-    "Fazenda": "146301",
-    "Observações ": "Bom",
-    "Unnamed: 19": null
+    "Observações": "Bom",
+    "Fazenda": "146301"
   },
   {
     "ID": "3919829",
@@ -58718,10 +53614,8 @@ window.QUALIDADE_CANA_DATA = [
     "Frente": "135 - FRENTE PEDRINHO",
     "Responsável": "REGINALDO DA SILVA GOMES ",
     "Quantidade de Cana": "BOM",
-    "Observações": null,
-    "Fazenda": "146301",
-    "Observações ": ".",
-    "Unnamed: 19": null
+    "Observações": ".",
+    "Fazenda": "146301"
   },
   {
     "ID": "3920354",
@@ -58741,10 +53635,8 @@ window.QUALIDADE_CANA_DATA = [
     "Frente": "135 - FRENTE PEDRINHO",
     "Responsável": "284860  - Juliana Aparecida Ferreira De Freitas",
     "Quantidade de Cana": "BOM",
-    "Observações": null,
-    "Fazenda": "146301",
-    "Observações ": "Bom",
-    "Unnamed: 19": null
+    "Observações": "Bom",
+    "Fazenda": "146301"
   },
   {
     "ID": "3919819",
@@ -58764,10 +53656,8 @@ window.QUALIDADE_CANA_DATA = [
     "Frente": "135 - FRENTE PEDRINHO",
     "Responsável": "REGINALDO DA SILVA GOMES ",
     "Quantidade de Cana": "BOM",
-    "Observações": null,
-    "Fazenda": "146301",
-    "Observações ": ".",
-    "Unnamed: 19": null
+    "Observações": ".",
+    "Fazenda": "146301"
   },
   {
     "ID": "3919823",
@@ -58787,10 +53677,8 @@ window.QUALIDADE_CANA_DATA = [
     "Frente": "135 - FRENTE PEDRINHO",
     "Responsável": "REGINALDO DA SILVA GOMES ",
     "Quantidade de Cana": "BOM",
-    "Observações": null,
-    "Fazenda": "146301",
-    "Observações ": ".",
-    "Unnamed: 19": null
+    "Observações": ".",
+    "Fazenda": "146301"
   },
   {
     "ID": "3920346",
@@ -58810,10 +53698,8 @@ window.QUALIDADE_CANA_DATA = [
     "Frente": "135 - FRENTE PEDRINHO",
     "Responsável": "284860  - Juliana Aparecida Ferreira De Freitas",
     "Quantidade de Cana": "BOM",
-    "Observações": null,
-    "Fazenda": "146301",
-    "Observações ": "Bom",
-    "Unnamed: 19": null
+    "Observações": "Bom",
+    "Fazenda": "146301"
   },
   {
     "ID": "3920342",
@@ -58833,10 +53719,8 @@ window.QUALIDADE_CANA_DATA = [
     "Frente": "135 - FRENTE PEDRINHO",
     "Responsável": "284860  - Juliana Aparecida Ferreira De Freitas",
     "Quantidade de Cana": "BOM",
-    "Observações": null,
-    "Fazenda": "146301",
-    "Observações ": "Bom",
-    "Unnamed: 19": null
+    "Observações": "Bom",
+    "Fazenda": "146301"
   },
   {
     "ID": "3920338",
@@ -58856,10 +53740,8 @@ window.QUALIDADE_CANA_DATA = [
     "Frente": "135 - FRENTE PEDRINHO",
     "Responsável": "284860  - Juliana Aparecida Ferreira De Freitas",
     "Quantidade de Cana": "BOM",
-    "Observações": null,
-    "Fazenda": "146301",
-    "Observações ": "Bom",
-    "Unnamed: 19": null
+    "Observações": "Bom",
+    "Fazenda": "146301"
   },
   {
     "ID": "3920334",
@@ -58879,10 +53761,8 @@ window.QUALIDADE_CANA_DATA = [
     "Frente": "135 - FRENTE PEDRINHO",
     "Responsável": "284860  - Juliana Aparecida Ferreira De Freitas",
     "Quantidade de Cana": "BOM",
-    "Observações": null,
-    "Fazenda": "146301",
-    "Observações ": "Bom",
-    "Unnamed: 19": null
+    "Observações": "Bom",
+    "Fazenda": "146301"
   },
   {
     "ID": "3917516",
@@ -58902,10 +53782,8 @@ window.QUALIDADE_CANA_DATA = [
     "Frente": "261 - FRENTE PRÓPRIA  (EDMILSON)",
     "Responsável": "MABILA HELEN D FIGUEIREDO",
     "Quantidade de Cana": "BOM",
-    "Observações": null,
-    "Fazenda": "70408",
-    "Observações ": "Boa",
-    "Unnamed: 19": null
+    "Observações": "Boa",
+    "Fazenda": "70408"
   },
   {
     "ID": "3917510",
@@ -58925,10 +53803,8 @@ window.QUALIDADE_CANA_DATA = [
     "Frente": "261 - FRENTE PRÓPRIA  (EDMILSON)",
     "Responsável": "MABILA HELEN D FIGUEIREDO",
     "Quantidade de Cana": "BOM",
-    "Observações": null,
-    "Fazenda": "70408",
-    "Observações ": "Boa",
-    "Unnamed: 19": null
+    "Observações": "Boa",
+    "Fazenda": "70408"
   },
   {
     "ID": "3917509",
@@ -58948,10 +53824,8 @@ window.QUALIDADE_CANA_DATA = [
     "Frente": "261 - FRENTE PRÓPRIA  (EDMILSON)",
     "Responsável": "MABILA HELEN D FIGUEIREDO",
     "Quantidade de Cana": "BOM",
-    "Observações": null,
-    "Fazenda": "70408",
-    "Observações ": "Boa",
-    "Unnamed: 19": null
+    "Observações": "Boa",
+    "Fazenda": "70408"
   },
   {
     "ID": "3917503",
@@ -58971,10 +53845,8 @@ window.QUALIDADE_CANA_DATA = [
     "Frente": "261 - FRENTE PRÓPRIA  (EDMILSON)",
     "Responsável": "MABILA HELEN D FIGUEIREDO",
     "Quantidade de Cana": "BOM",
-    "Observações": null,
-    "Fazenda": "70408",
-    "Observações ": "Boa",
-    "Unnamed: 19": null
+    "Observações": "Boa",
+    "Fazenda": "70408"
   },
   {
     "ID": "3917499",
@@ -58994,10 +53866,8 @@ window.QUALIDADE_CANA_DATA = [
     "Frente": "261 - FRENTE PRÓPRIA  (EDMILSON)",
     "Responsável": "MABILA HELEN D FIGUEIREDO",
     "Quantidade de Cana": "BOM",
-    "Observações": null,
-    "Fazenda": "70408",
-    "Observações ": "Boa",
-    "Unnamed: 19": null
+    "Observações": "Boa",
+    "Fazenda": "70408"
   },
   {
     "ID": "3917520",
@@ -59017,10 +53887,8 @@ window.QUALIDADE_CANA_DATA = [
     "Frente": "261 - FRENTE PRÓPRIA  (EDMILSON)",
     "Responsável": "MABILA HELEN D FIGUEIREDO",
     "Quantidade de Cana": "BOM",
-    "Observações": null,
-    "Fazenda": "70408",
-    "Observações ": "Boa",
-    "Unnamed: 19": null
+    "Observações": "Boa",
+    "Fazenda": "70408"
   },
   {
     "ID": "3917473",
@@ -59040,10 +53908,8 @@ window.QUALIDADE_CANA_DATA = [
     "Frente": "261 - FRENTE PRÓPRIA  (EDMILSON)",
     "Responsável": "MABILA HELEN D FIGUEIREDO",
     "Quantidade de Cana": "BOM",
-    "Observações": null,
-    "Fazenda": "70408",
-    "Observações ": "Boa",
-    "Unnamed: 19": null
+    "Observações": "Boa",
+    "Fazenda": "70408"
   },
   {
     "ID": "3915770",
@@ -59064,9 +53930,7 @@ window.QUALIDADE_CANA_DATA = [
     "Responsável": "284860  - Juliana Aparecida Ferreira De Freitas",
     "Quantidade de Cana": "BOM",
     "Observações": null,
-    "Fazenda": "70408",
-    "Observações ": null,
-    "Unnamed: 19": null
+    "Fazenda": "70408"
   },
   {
     "ID": "3915765",
@@ -59087,9 +53951,7 @@ window.QUALIDADE_CANA_DATA = [
     "Responsável": "284860  - Juliana Aparecida Ferreira De Freitas",
     "Quantidade de Cana": "BOM",
     "Observações": null,
-    "Fazenda": "70408",
-    "Observações ": null,
-    "Unnamed: 19": null
+    "Fazenda": "70408"
   },
   {
     "ID": "3915743",
@@ -59110,9 +53972,7 @@ window.QUALIDADE_CANA_DATA = [
     "Responsável": "284860  - Juliana Aparecida Ferreira De Freitas",
     "Quantidade de Cana": "BOM",
     "Observações": null,
-    "Fazenda": "70408",
-    "Observações ": null,
-    "Unnamed: 19": null
+    "Fazenda": "70408"
   },
   {
     "ID": "3915739",
@@ -59133,9 +53993,7 @@ window.QUALIDADE_CANA_DATA = [
     "Responsável": "284860  - Juliana Aparecida Ferreira De Freitas",
     "Quantidade de Cana": "BOM",
     "Observações": null,
-    "Fazenda": "70408",
-    "Observações ": null,
-    "Unnamed: 19": null
+    "Fazenda": "70408"
   },
   {
     "ID": "3915735",
@@ -59156,9 +54014,7 @@ window.QUALIDADE_CANA_DATA = [
     "Responsável": "284860  - Juliana Aparecida Ferreira De Freitas",
     "Quantidade de Cana": "BOM",
     "Observações": null,
-    "Fazenda": "70408",
-    "Observações ": null,
-    "Unnamed: 19": null
+    "Fazenda": "70408"
   },
   {
     "ID": "3915730",
@@ -59179,9 +54035,7 @@ window.QUALIDADE_CANA_DATA = [
     "Responsável": "284860  - Juliana Aparecida Ferreira De Freitas",
     "Quantidade de Cana": "BOM",
     "Observações": null,
-    "Fazenda": "70408",
-    "Observações ": null,
-    "Unnamed: 19": null
+    "Fazenda": "70408"
   },
   {
     "ID": "3915725",
@@ -59202,9 +54056,7 @@ window.QUALIDADE_CANA_DATA = [
     "Responsável": "284860  - Juliana Aparecida Ferreira De Freitas",
     "Quantidade de Cana": "BOM",
     "Observações": null,
-    "Fazenda": "70408",
-    "Observações ": null,
-    "Unnamed: 19": null
+    "Fazenda": "70408"
   },
   {
     "ID": "3915721",
@@ -59225,9 +54077,7 @@ window.QUALIDADE_CANA_DATA = [
     "Responsável": "284860  - Juliana Aparecida Ferreira De Freitas",
     "Quantidade de Cana": "BOM",
     "Observações": null,
-    "Fazenda": "70408",
-    "Observações ": null,
-    "Unnamed: 19": null
+    "Fazenda": "70408"
   },
   {
     "ID": "3915717",
@@ -59248,9 +54098,7 @@ window.QUALIDADE_CANA_DATA = [
     "Responsável": "284860  - Juliana Aparecida Ferreira De Freitas",
     "Quantidade de Cana": "BOM",
     "Observações": null,
-    "Fazenda": "70408",
-    "Observações ": null,
-    "Unnamed: 19": null
+    "Fazenda": "70408"
   },
   {
     "ID": "3913555",
@@ -59271,9 +54119,7 @@ window.QUALIDADE_CANA_DATA = [
     "Responsável": "MABILA HELEN D FIGUEIREDO",
     "Quantidade de Cana": "BOM",
     "Observações": null,
-    "Fazenda": "70408",
-    "Observações ": null,
-    "Unnamed: 19": null
+    "Fazenda": "70408"
   },
   {
     "ID": "3913549",
@@ -59294,9 +54140,7 @@ window.QUALIDADE_CANA_DATA = [
     "Responsável": "MABILA HELEN D FIGUEIREDO",
     "Quantidade de Cana": "BOM",
     "Observações": null,
-    "Fazenda": "70408",
-    "Observações ": null,
-    "Unnamed: 19": null
+    "Fazenda": "70408"
   },
   {
     "ID": "3913547",
@@ -59317,9 +54161,7 @@ window.QUALIDADE_CANA_DATA = [
     "Responsável": "MABILA HELEN D FIGUEIREDO",
     "Quantidade de Cana": "BOM",
     "Observações": null,
-    "Fazenda": "70408",
-    "Observações ": null,
-    "Unnamed: 19": null
+    "Fazenda": "70408"
   },
   {
     "ID": "3913539",
@@ -59340,9 +54182,7 @@ window.QUALIDADE_CANA_DATA = [
     "Responsável": "MABILA HELEN D FIGUEIREDO",
     "Quantidade de Cana": "BOM",
     "Observações": null,
-    "Fazenda": "70408",
-    "Observações ": null,
-    "Unnamed: 19": null
+    "Fazenda": "70408"
   },
   {
     "ID": "3913391",
@@ -59363,9 +54203,7 @@ window.QUALIDADE_CANA_DATA = [
     "Responsável": "MABILA HELEN D FIGUEIREDO",
     "Quantidade de Cana": "BOM",
     "Observações": null,
-    "Fazenda": "70408",
-    "Observações ": null,
-    "Unnamed: 19": null
+    "Fazenda": "70408"
   },
   {
     "ID": "3913387",
@@ -59386,9 +54224,7 @@ window.QUALIDADE_CANA_DATA = [
     "Responsável": "MABILA HELEN D FIGUEIREDO",
     "Quantidade de Cana": "BOM",
     "Observações": null,
-    "Fazenda": "70408",
-    "Observações ": null,
-    "Unnamed: 19": null
+    "Fazenda": "70408"
   },
   {
     "ID": "3913537",
@@ -59409,9 +54245,7 @@ window.QUALIDADE_CANA_DATA = [
     "Responsável": "MABILA HELEN D FIGUEIREDO",
     "Quantidade de Cana": "BOM",
     "Observações": null,
-    "Fazenda": "70408",
-    "Observações ": null,
-    "Unnamed: 19": null
+    "Fazenda": "70408"
   },
   {
     "ID": "3913379",
@@ -59432,9 +54266,7 @@ window.QUALIDADE_CANA_DATA = [
     "Responsável": "MABILA HELEN D FIGUEIREDO",
     "Quantidade de Cana": "BOM",
     "Observações": null,
-    "Fazenda": "70408",
-    "Observações ": null,
-    "Unnamed: 19": null
+    "Fazenda": "70408"
   },
   {
     "ID": "3913378",
@@ -59455,9 +54287,7 @@ window.QUALIDADE_CANA_DATA = [
     "Responsável": "MABILA HELEN D FIGUEIREDO",
     "Quantidade de Cana": "BOM",
     "Observações": null,
-    "Fazenda": "70408",
-    "Observações ": null,
-    "Unnamed: 19": null
+    "Fazenda": "70408"
   },
   {
     "ID": "3911944",
@@ -59478,9 +54308,7 @@ window.QUALIDADE_CANA_DATA = [
     "Responsável": "284860  - Juliana Aparecida Ferreira De Freitas",
     "Quantidade de Cana": "BOM",
     "Observações": null,
-    "Fazenda": "70408",
-    "Observações ": null,
-    "Unnamed: 19": null
+    "Fazenda": "70408"
   },
   {
     "ID": "3912008",
@@ -59501,9 +54329,7 @@ window.QUALIDADE_CANA_DATA = [
     "Responsável": "REGINALDO DA SILVA GOMES ",
     "Quantidade de Cana": "BOM",
     "Observações": null,
-    "Fazenda": "70408",
-    "Observações ": null,
-    "Unnamed: 19": null
+    "Fazenda": "70408"
   },
   {
     "ID": "3911940",
@@ -59524,9 +54350,7 @@ window.QUALIDADE_CANA_DATA = [
     "Responsável": "284860  - Juliana Aparecida Ferreira De Freitas",
     "Quantidade de Cana": "BOM",
     "Observações": null,
-    "Fazenda": "70408",
-    "Observações ": null,
-    "Unnamed: 19": null
+    "Fazenda": "70408"
   },
   {
     "ID": "3912004",
@@ -59547,9 +54371,7 @@ window.QUALIDADE_CANA_DATA = [
     "Responsável": "REGINALDO DA SILVA GOMES ",
     "Quantidade de Cana": "BOM",
     "Observações": null,
-    "Fazenda": "70408",
-    "Observações ": null,
-    "Unnamed: 19": null
+    "Fazenda": "70408"
   },
   {
     "ID": "3911936",
@@ -59570,9 +54392,7 @@ window.QUALIDADE_CANA_DATA = [
     "Responsável": "284860  - Juliana Aparecida Ferreira De Freitas",
     "Quantidade de Cana": "BOM",
     "Observações": null,
-    "Fazenda": "70408",
-    "Observações ": null,
-    "Unnamed: 19": null
+    "Fazenda": "70408"
   },
   {
     "ID": "3912000",
@@ -59593,9 +54413,7 @@ window.QUALIDADE_CANA_DATA = [
     "Responsável": "REGINALDO DA SILVA GOMES ",
     "Quantidade de Cana": "BOM",
     "Observações": null,
-    "Fazenda": "70408",
-    "Observações ": null,
-    "Unnamed: 19": null
+    "Fazenda": "70408"
   },
   {
     "ID": "3911996",
@@ -59616,9 +54434,7 @@ window.QUALIDADE_CANA_DATA = [
     "Responsável": "REGINALDO DA SILVA GOMES ",
     "Quantidade de Cana": "BOM",
     "Observações": null,
-    "Fazenda": "70408",
-    "Observações ": null,
-    "Unnamed: 19": null
+    "Fazenda": "70408"
   },
   {
     "ID": "3911923",
@@ -59639,9 +54455,7 @@ window.QUALIDADE_CANA_DATA = [
     "Responsável": "284860  - Juliana Aparecida Ferreira De Freitas",
     "Quantidade de Cana": "BOM",
     "Observações": null,
-    "Fazenda": "70408",
-    "Observações ": null,
-    "Unnamed: 19": null
+    "Fazenda": "70408"
   },
   {
     "ID": "3911919",
@@ -59662,9 +54476,7 @@ window.QUALIDADE_CANA_DATA = [
     "Responsável": "284860  - Juliana Aparecida Ferreira De Freitas",
     "Quantidade de Cana": "BOM",
     "Observações": null,
-    "Fazenda": "70408",
-    "Observações ": null,
-    "Unnamed: 19": null
+    "Fazenda": "70408"
   },
   {
     "ID": "3911992",
@@ -59685,9 +54497,7 @@ window.QUALIDADE_CANA_DATA = [
     "Responsável": "REGINALDO DA SILVA GOMES ",
     "Quantidade de Cana": "BOM",
     "Observações": null,
-    "Fazenda": "70408",
-    "Observações ": null,
-    "Unnamed: 19": null
+    "Fazenda": "70408"
   },
   {
     "ID": "3911914",
@@ -59708,9 +54518,7 @@ window.QUALIDADE_CANA_DATA = [
     "Responsável": "284860  - Juliana Aparecida Ferreira De Freitas",
     "Quantidade de Cana": "BOM",
     "Observações": null,
-    "Fazenda": "70408",
-    "Observações ": null,
-    "Unnamed: 19": null
+    "Fazenda": "70408"
   },
   {
     "ID": "3911910",
@@ -59731,9 +54539,7 @@ window.QUALIDADE_CANA_DATA = [
     "Responsável": "284860  - Juliana Aparecida Ferreira De Freitas",
     "Quantidade de Cana": "BOM",
     "Observações": null,
-    "Fazenda": "70408",
-    "Observações ": null,
-    "Unnamed: 19": null
+    "Fazenda": "70408"
   },
   {
     "ID": "3911906",
@@ -59754,9 +54560,7 @@ window.QUALIDADE_CANA_DATA = [
     "Responsável": "284860  - Juliana Aparecida Ferreira De Freitas",
     "Quantidade de Cana": "BOM",
     "Observações": null,
-    "Fazenda": "70408",
-    "Observações ": null,
-    "Unnamed: 19": null
+    "Fazenda": "70408"
   },
   {
     "ID": "3911902",
@@ -59777,9 +54581,7 @@ window.QUALIDADE_CANA_DATA = [
     "Responsável": "284860  - Juliana Aparecida Ferreira De Freitas",
     "Quantidade de Cana": "BOM",
     "Observações": null,
-    "Fazenda": "70408",
-    "Observações ": null,
-    "Unnamed: 19": null
+    "Fazenda": "70408"
   },
   {
     "ID": "3911898",
@@ -59800,9 +54602,7 @@ window.QUALIDADE_CANA_DATA = [
     "Responsável": "284860  - Juliana Aparecida Ferreira De Freitas",
     "Quantidade de Cana": "BOM",
     "Observações": null,
-    "Fazenda": "70408",
-    "Observações ": null,
-    "Unnamed: 19": null
+    "Fazenda": "70408"
   },
   {
     "ID": "4037933",
@@ -59823,9 +54623,7 @@ window.QUALIDADE_CANA_DATA = [
     "Responsável": "284860  - Juliana Aparecida Ferreira De Freitas",
     "Quantidade de Cana": "BOM",
     "Observações": "Bom",
-    "Fazenda": "50301",
-    "Observações ": null,
-    "Unnamed: 19": null
+    "Fazenda": "50301"
   },
   {
     "ID": "4037656",
@@ -59846,9 +54644,7 @@ window.QUALIDADE_CANA_DATA = [
     "Responsável": "REGINALDO DA SILVA GOMES ",
     "Quantidade de Cana": "BOM",
     "Observações": null,
-    "Fazenda": "50301",
-    "Observações ": null,
-    "Unnamed: 19": null
+    "Fazenda": "50301"
   },
   {
     "ID": "4037928",
@@ -59869,9 +54665,7 @@ window.QUALIDADE_CANA_DATA = [
     "Responsável": "284860  - Juliana Aparecida Ferreira De Freitas",
     "Quantidade de Cana": "BOM",
     "Observações": "Bom",
-    "Fazenda": "50301",
-    "Observações ": null,
-    "Unnamed: 19": null
+    "Fazenda": "50301"
   },
   {
     "ID": "4037652",
@@ -59892,9 +54686,7 @@ window.QUALIDADE_CANA_DATA = [
     "Responsável": "REGINALDO DA SILVA GOMES ",
     "Quantidade de Cana": "BOM",
     "Observações": null,
-    "Fazenda": "50301",
-    "Observações ": null,
-    "Unnamed: 19": null
+    "Fazenda": "50301"
   },
   {
     "ID": "4037923",
@@ -59915,9 +54707,7 @@ window.QUALIDADE_CANA_DATA = [
     "Responsável": "284860  - Juliana Aparecida Ferreira De Freitas",
     "Quantidade de Cana": "BOM",
     "Observações": "Bom",
-    "Fazenda": "50301",
-    "Observações ": null,
-    "Unnamed: 19": null
+    "Fazenda": "50301"
   },
   {
     "ID": "4037649",
@@ -59938,9 +54728,7 @@ window.QUALIDADE_CANA_DATA = [
     "Responsável": "REGINALDO DA SILVA GOMES ",
     "Quantidade de Cana": "BOM",
     "Observações": null,
-    "Fazenda": "50301",
-    "Observações ": null,
-    "Unnamed: 19": null
+    "Fazenda": "50301"
   },
   {
     "ID": "4037918",
@@ -59961,9 +54749,7 @@ window.QUALIDADE_CANA_DATA = [
     "Responsável": "284860  - Juliana Aparecida Ferreira De Freitas",
     "Quantidade de Cana": "BOM",
     "Observações": "Bom",
-    "Fazenda": "50301",
-    "Observações ": null,
-    "Unnamed: 19": null
+    "Fazenda": "50301"
   },
   {
     "ID": "4037917",
@@ -59984,9 +54770,7 @@ window.QUALIDADE_CANA_DATA = [
     "Responsável": "284860  - Juliana Aparecida Ferreira De Freitas",
     "Quantidade de Cana": "BOM",
     "Observações": "Bom",
-    "Fazenda": "50301",
-    "Observações ": null,
-    "Unnamed: 19": null
+    "Fazenda": "50301"
   },
   {
     "ID": "4050434",
@@ -60007,9 +54791,7 @@ window.QUALIDADE_CANA_DATA = [
     "Responsável": "EDILIANA CARDOSO DA COSTA",
     "Quantidade de Cana": "BOM",
     "Observações": "Bom",
-    "Fazenda": "46601",
-    "Observações ": null,
-    "Unnamed: 19": null
+    "Fazenda": "46601"
   },
   {
     "ID": "4050424",
@@ -60030,9 +54812,7 @@ window.QUALIDADE_CANA_DATA = [
     "Responsável": "EDILIANA CARDOSO DA COSTA",
     "Quantidade de Cana": "BOM",
     "Observações": "Bom",
-    "Fazenda": "46601",
-    "Observações ": null,
-    "Unnamed: 19": null
+    "Fazenda": "46601"
   },
   {
     "ID": "4050420",
@@ -60053,9 +54833,7 @@ window.QUALIDADE_CANA_DATA = [
     "Responsável": "EDILIANA CARDOSO DA COSTA",
     "Quantidade de Cana": "BOM",
     "Observações": "Bom",
-    "Fazenda": "46601",
-    "Observações ": null,
-    "Unnamed: 19": null
+    "Fazenda": "46601"
   },
   {
     "ID": "4050416",
@@ -60076,9 +54854,7 @@ window.QUALIDADE_CANA_DATA = [
     "Responsável": "EDILIANA CARDOSO DA COSTA",
     "Quantidade de Cana": "BOM",
     "Observações": "Boa",
-    "Fazenda": "46601",
-    "Observações ": null,
-    "Unnamed: 19": null
+    "Fazenda": "46601"
   },
   {
     "ID": "4050410",
@@ -60099,8 +54875,6 @@ window.QUALIDADE_CANA_DATA = [
     "Responsável": "EDILIANA CARDOSO DA COSTA",
     "Quantidade de Cana": "BOM",
     "Observações": "Boa",
-    "Fazenda": "46601",
-    "Observações ": null,
-    "Unnamed: 19": null
+    "Fazenda": "46601"
   }
 ];
