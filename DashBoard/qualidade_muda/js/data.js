@@ -1,7 +1,7 @@
 /**
  * Dados Consolidados - qualidade_muda
  * Total: 2744 registros
- * Atualizado em: 22/11/2026 08:32
+ * Atualizado em: 22/11/2026 09:32
  */
 window.QUALIDADE_MUDA_DATA = [
   {
@@ -23,9 +23,7 @@ window.QUALIDADE_MUDA_DATA = [
     "Responsável": "MABILA HELEN D FIGUEIREDO",
     "Qualidade da Muda": "BOM",
     "Observações": null,
-    "Fazenda": null,
-    "Observações ": null,
-    "Unnamed: 19": null
+    "Fazenda": null
   },
   {
     "ID": "3913064",
@@ -46,9 +44,7 @@ window.QUALIDADE_MUDA_DATA = [
     "Responsável": "MABILA HELEN D FIGUEIREDO",
     "Qualidade da Muda": "BOM",
     "Observações": null,
-    "Fazenda": null,
-    "Observações ": null,
-    "Unnamed: 19": null
+    "Fazenda": null
   },
   {
     "ID": "3913059",
@@ -69,9 +65,7 @@ window.QUALIDADE_MUDA_DATA = [
     "Responsável": "MABILA HELEN D FIGUEIREDO",
     "Qualidade da Muda": "BOM",
     "Observações": null,
-    "Fazenda": null,
-    "Observações ": null,
-    "Unnamed: 19": null
+    "Fazenda": null
   },
   {
     "ID": "3913051",
@@ -92,9 +86,7 @@ window.QUALIDADE_MUDA_DATA = [
     "Responsável": "MABILA HELEN D FIGUEIREDO",
     "Qualidade da Muda": "BOM",
     "Observações": null,
-    "Fazenda": null,
-    "Observações ": null,
-    "Unnamed: 19": null
+    "Fazenda": null
   },
   {
     "ID": "3913047",
@@ -115,9 +107,7 @@ window.QUALIDADE_MUDA_DATA = [
     "Responsável": "MABILA HELEN D FIGUEIREDO",
     "Qualidade da Muda": "BOM",
     "Observações": null,
-    "Fazenda": null,
-    "Observações ": null,
-    "Unnamed: 19": null
+    "Fazenda": null
   },
   {
     "ID": "3913042",
@@ -138,9 +128,7 @@ window.QUALIDADE_MUDA_DATA = [
     "Responsável": "MABILA HELEN D FIGUEIREDO",
     "Qualidade da Muda": "BOM",
     "Observações": null,
-    "Fazenda": null,
-    "Observações ": null,
-    "Unnamed: 19": null
+    "Fazenda": null
   },
   {
     "ID": "3909668",
@@ -161,9 +149,7 @@ window.QUALIDADE_MUDA_DATA = [
     "Responsável": "MABILA HELEN D FIGUEIREDO",
     "Qualidade da Muda": "BOM",
     "Observações": null,
-    "Fazenda": null,
-    "Observações ": null,
-    "Unnamed: 19": null
+    "Fazenda": null
   },
   {
     "ID": "3909662",
@@ -184,9 +170,7 @@ window.QUALIDADE_MUDA_DATA = [
     "Responsável": "MABILA HELEN D FIGUEIREDO",
     "Qualidade da Muda": "BOM",
     "Observações": null,
-    "Fazenda": null,
-    "Observações ": null,
-    "Unnamed: 19": null
+    "Fazenda": null
   },
   {
     "ID": "3907168",
@@ -207,9 +191,7 @@ window.QUALIDADE_MUDA_DATA = [
     "Responsável": "MABILA HELEN D FIGUEIREDO",
     "Qualidade da Muda": "BOM",
     "Observações": null,
-    "Fazenda": null,
-    "Observações ": null,
-    "Unnamed: 19": null
+    "Fazenda": null
   },
   {
     "ID": "3907160",
@@ -230,9 +212,7 @@ window.QUALIDADE_MUDA_DATA = [
     "Responsável": "MABILA HELEN D FIGUEIREDO",
     "Qualidade da Muda": "BOM",
     "Observações": null,
-    "Fazenda": null,
-    "Observações ": null,
-    "Unnamed: 19": null
+    "Fazenda": null
   },
   {
     "ID": "3907156",
@@ -253,9 +233,7 @@ window.QUALIDADE_MUDA_DATA = [
     "Responsável": "MABILA HELEN D FIGUEIREDO",
     "Qualidade da Muda": "BOM",
     "Observações": null,
-    "Fazenda": null,
-    "Observações ": null,
-    "Unnamed: 19": null
+    "Fazenda": null
   },
   {
     "ID": "3907152",
@@ -276,9 +254,7 @@ window.QUALIDADE_MUDA_DATA = [
     "Responsável": "MABILA HELEN D FIGUEIREDO",
     "Qualidade da Muda": "BOM",
     "Observações": null,
-    "Fazenda": null,
-    "Observações ": null,
-    "Unnamed: 19": null
+    "Fazenda": null
   },
   {
     "ID": "3906869",
@@ -299,9 +275,7 @@ window.QUALIDADE_MUDA_DATA = [
     "Responsável": "MABILA HELEN D FIGUEIREDO",
     "Qualidade da Muda": "BOM",
     "Observações": null,
-    "Fazenda": null,
-    "Observações ": null,
-    "Unnamed: 19": null
+    "Fazenda": null
   },
   {
     "ID": "3906865",
@@ -322,9 +296,7 @@ window.QUALIDADE_MUDA_DATA = [
     "Responsável": "MABILA HELEN D FIGUEIREDO",
     "Qualidade da Muda": "BOM",
     "Observações": null,
-    "Fazenda": null,
-    "Observações ": null,
-    "Unnamed: 19": null
+    "Fazenda": null
   },
   {
     "ID": "3906861",
@@ -345,9 +317,7 @@ window.QUALIDADE_MUDA_DATA = [
     "Responsável": "MABILA HELEN D FIGUEIREDO",
     "Qualidade da Muda": "BOM",
     "Observações": null,
-    "Fazenda": null,
-    "Observações ": null,
-    "Unnamed: 19": null
+    "Fazenda": null
   },
   {
     "ID": "3906857",
@@ -368,9 +338,7 @@ window.QUALIDADE_MUDA_DATA = [
     "Responsável": "MABILA HELEN D FIGUEIREDO",
     "Qualidade da Muda": "BOM",
     "Observações": null,
-    "Fazenda": null,
-    "Observações ": null,
-    "Unnamed: 19": null
+    "Fazenda": null
   },
   {
     "ID": "3906853",
@@ -391,9 +359,7 @@ window.QUALIDADE_MUDA_DATA = [
     "Responsável": "MABILA HELEN D FIGUEIREDO",
     "Qualidade da Muda": "BOM",
     "Observações": null,
-    "Fazenda": null,
-    "Observações ": null,
-    "Unnamed: 19": null
+    "Fazenda": null
   },
   {
     "ID": "3906848",
@@ -414,9 +380,7 @@ window.QUALIDADE_MUDA_DATA = [
     "Responsável": "MABILA HELEN D FIGUEIREDO",
     "Qualidade da Muda": "BOM",
     "Observações": null,
-    "Fazenda": null,
-    "Observações ": null,
-    "Unnamed: 19": null
+    "Fazenda": null
   },
   {
     "ID": "3904470",
@@ -437,9 +401,7 @@ window.QUALIDADE_MUDA_DATA = [
     "Responsável": "MABILA HELEN D FIGUEIREDO",
     "Qualidade da Muda": "BOM",
     "Observações": null,
-    "Fazenda": null,
-    "Observações ": null,
-    "Unnamed: 19": null
+    "Fazenda": null
   },
   {
     "ID": "3904466",
@@ -460,9 +422,7 @@ window.QUALIDADE_MUDA_DATA = [
     "Responsável": "MABILA HELEN D FIGUEIREDO",
     "Qualidade da Muda": "BOM",
     "Observações": null,
-    "Fazenda": null,
-    "Observações ": null,
-    "Unnamed: 19": null
+    "Fazenda": null
   },
   {
     "ID": "3904462",
@@ -483,9 +443,7 @@ window.QUALIDADE_MUDA_DATA = [
     "Responsável": "MABILA HELEN D FIGUEIREDO",
     "Qualidade da Muda": "BOM",
     "Observações": null,
-    "Fazenda": null,
-    "Observações ": null,
-    "Unnamed: 19": null
+    "Fazenda": null
   },
   {
     "ID": "3904458",
@@ -506,9 +464,7 @@ window.QUALIDADE_MUDA_DATA = [
     "Responsável": "MABILA HELEN D FIGUEIREDO",
     "Qualidade da Muda": "BOM",
     "Observações": null,
-    "Fazenda": null,
-    "Observações ": null,
-    "Unnamed: 19": null
+    "Fazenda": null
   },
   {
     "ID": "3904454",
@@ -529,9 +485,7 @@ window.QUALIDADE_MUDA_DATA = [
     "Responsável": "MABILA HELEN D FIGUEIREDO",
     "Qualidade da Muda": "BOM",
     "Observações": null,
-    "Fazenda": null,
-    "Observações ": null,
-    "Unnamed: 19": null
+    "Fazenda": null
   },
   {
     "ID": "3904420",
@@ -552,9 +506,7 @@ window.QUALIDADE_MUDA_DATA = [
     "Responsável": "MABILA HELEN D FIGUEIREDO",
     "Qualidade da Muda": "BOM",
     "Observações": null,
-    "Fazenda": null,
-    "Observações ": null,
-    "Unnamed: 19": null
+    "Fazenda": null
   },
   {
     "ID": "3904416",
@@ -575,9 +527,7 @@ window.QUALIDADE_MUDA_DATA = [
     "Responsável": "MABILA HELEN D FIGUEIREDO",
     "Qualidade da Muda": "BOM",
     "Observações": null,
-    "Fazenda": null,
-    "Observações ": null,
-    "Unnamed: 19": null
+    "Fazenda": null
   },
   {
     "ID": "3902251",
@@ -598,9 +548,7 @@ window.QUALIDADE_MUDA_DATA = [
     "Responsável": "MABILA HELEN D FIGUEIREDO",
     "Qualidade da Muda": "BOM",
     "Observações": null,
-    "Fazenda": null,
-    "Observações ": null,
-    "Unnamed: 19": null
+    "Fazenda": null
   },
   {
     "ID": "3902248",
@@ -621,9 +569,7 @@ window.QUALIDADE_MUDA_DATA = [
     "Responsável": "MABILA HELEN D FIGUEIREDO",
     "Qualidade da Muda": "BOM",
     "Observações": null,
-    "Fazenda": null,
-    "Observações ": null,
-    "Unnamed: 19": null
+    "Fazenda": null
   },
   {
     "ID": "3902204",
@@ -644,9 +590,7 @@ window.QUALIDADE_MUDA_DATA = [
     "Responsável": "MABILA HELEN D FIGUEIREDO",
     "Qualidade da Muda": "BOM",
     "Observações": null,
-    "Fazenda": null,
-    "Observações ": null,
-    "Unnamed: 19": null
+    "Fazenda": null
   },
   {
     "ID": "3902200",
@@ -667,9 +611,7 @@ window.QUALIDADE_MUDA_DATA = [
     "Responsável": "MABILA HELEN D FIGUEIREDO",
     "Qualidade da Muda": "BOM",
     "Observações": null,
-    "Fazenda": null,
-    "Observações ": null,
-    "Unnamed: 19": null
+    "Fazenda": null
   },
   {
     "ID": "3902193",
@@ -690,9 +632,7 @@ window.QUALIDADE_MUDA_DATA = [
     "Responsável": "MABILA HELEN D FIGUEIREDO",
     "Qualidade da Muda": "BOM",
     "Observações": null,
-    "Fazenda": null,
-    "Observações ": null,
-    "Unnamed: 19": null
+    "Fazenda": null
   },
   {
     "ID": "3902168",
@@ -713,9 +653,7 @@ window.QUALIDADE_MUDA_DATA = [
     "Responsável": "MABILA HELEN D FIGUEIREDO",
     "Qualidade da Muda": "BOM",
     "Observações": null,
-    "Fazenda": null,
-    "Observações ": null,
-    "Unnamed: 19": null
+    "Fazenda": null
   },
   {
     "ID": "3902164",
@@ -736,9 +674,7 @@ window.QUALIDADE_MUDA_DATA = [
     "Responsável": "MABILA HELEN D FIGUEIREDO",
     "Qualidade da Muda": "BOM",
     "Observações": null,
-    "Fazenda": null,
-    "Observações ": null,
-    "Unnamed: 19": null
+    "Fazenda": null
   },
   {
     "ID": "3902160",
@@ -759,9 +695,7 @@ window.QUALIDADE_MUDA_DATA = [
     "Responsável": "MABILA HELEN D FIGUEIREDO",
     "Qualidade da Muda": "BOM",
     "Observações": null,
-    "Fazenda": null,
-    "Observações ": null,
-    "Unnamed: 19": null
+    "Fazenda": null
   },
   {
     "ID": "3902156",
@@ -782,9 +716,7 @@ window.QUALIDADE_MUDA_DATA = [
     "Responsável": "MABILA HELEN D FIGUEIREDO",
     "Qualidade da Muda": "BOM",
     "Observações": null,
-    "Fazenda": null,
-    "Observações ": null,
-    "Unnamed: 19": null
+    "Fazenda": null
   },
   {
     "ID": "3901768",
@@ -805,9 +737,7 @@ window.QUALIDADE_MUDA_DATA = [
     "Responsável": "MABILA HELEN D FIGUEIREDO",
     "Qualidade da Muda": "BOM",
     "Observações": null,
-    "Fazenda": null,
-    "Observações ": null,
-    "Unnamed: 19": null
+    "Fazenda": null
   },
   {
     "ID": "3899148",
@@ -828,9 +758,7 @@ window.QUALIDADE_MUDA_DATA = [
     "Responsável": "MABILA HELEN D FIGUEIREDO",
     "Qualidade da Muda": "BOM",
     "Observações": null,
-    "Fazenda": null,
-    "Observações ": null,
-    "Unnamed: 19": null
+    "Fazenda": null
   },
   {
     "ID": "3899142",
@@ -851,9 +779,7 @@ window.QUALIDADE_MUDA_DATA = [
     "Responsável": "MABILA HELEN D FIGUEIREDO",
     "Qualidade da Muda": "BOM",
     "Observações": null,
-    "Fazenda": null,
-    "Observações ": null,
-    "Unnamed: 19": null
+    "Fazenda": null
   },
   {
     "ID": "3899010",
@@ -874,9 +800,7 @@ window.QUALIDADE_MUDA_DATA = [
     "Responsável": "MABILA HELEN D FIGUEIREDO",
     "Qualidade da Muda": "BOM",
     "Observações": null,
-    "Fazenda": null,
-    "Observações ": null,
-    "Unnamed: 19": null
+    "Fazenda": null
   },
   {
     "ID": "3899006",
@@ -897,9 +821,7 @@ window.QUALIDADE_MUDA_DATA = [
     "Responsável": "MABILA HELEN D FIGUEIREDO",
     "Qualidade da Muda": "BOM",
     "Observações": null,
-    "Fazenda": null,
-    "Observações ": null,
-    "Unnamed: 19": null
+    "Fazenda": null
   },
   {
     "ID": "3899002",
@@ -920,9 +842,7 @@ window.QUALIDADE_MUDA_DATA = [
     "Responsável": "MABILA HELEN D FIGUEIREDO",
     "Qualidade da Muda": "BOM",
     "Observações": null,
-    "Fazenda": null,
-    "Observações ": null,
-    "Unnamed: 19": null
+    "Fazenda": null
   },
   {
     "ID": "3898997",
@@ -943,9 +863,7 @@ window.QUALIDADE_MUDA_DATA = [
     "Responsável": "MABILA HELEN D FIGUEIREDO",
     "Qualidade da Muda": "BOM",
     "Observações": null,
-    "Fazenda": null,
-    "Observações ": null,
-    "Unnamed: 19": null
+    "Fazenda": null
   },
   {
     "ID": "3898986",
@@ -966,9 +884,7 @@ window.QUALIDADE_MUDA_DATA = [
     "Responsável": "MABILA HELEN D FIGUEIREDO",
     "Qualidade da Muda": "BOM",
     "Observações": null,
-    "Fazenda": null,
-    "Observações ": null,
-    "Unnamed: 19": null
+    "Fazenda": null
   },
   {
     "ID": "3898983",
@@ -989,9 +905,7 @@ window.QUALIDADE_MUDA_DATA = [
     "Responsável": "MABILA HELEN D FIGUEIREDO",
     "Qualidade da Muda": "BOM",
     "Observações": null,
-    "Fazenda": null,
-    "Observações ": null,
-    "Unnamed: 19": null
+    "Fazenda": null
   },
   {
     "ID": "3898979",
@@ -1012,9 +926,7 @@ window.QUALIDADE_MUDA_DATA = [
     "Responsável": "MABILA HELEN D FIGUEIREDO",
     "Qualidade da Muda": "BOM",
     "Observações": null,
-    "Fazenda": null,
-    "Observações ": null,
-    "Unnamed: 19": null
+    "Fazenda": null
   },
   {
     "ID": "3898969",
@@ -1035,9 +947,7 @@ window.QUALIDADE_MUDA_DATA = [
     "Responsável": "MABILA HELEN D FIGUEIREDO",
     "Qualidade da Muda": "BOM",
     "Observações": null,
-    "Fazenda": null,
-    "Observações ": null,
-    "Unnamed: 19": null
+    "Fazenda": null
   },
   {
     "ID": "3896726",
@@ -1058,9 +968,7 @@ window.QUALIDADE_MUDA_DATA = [
     "Responsável": "MABILA HELEN D FIGUEIREDO",
     "Qualidade da Muda": "BOM",
     "Observações": null,
-    "Fazenda": null,
-    "Observações ": null,
-    "Unnamed: 19": null
+    "Fazenda": null
   },
   {
     "ID": "3896723",
@@ -1081,9 +989,7 @@ window.QUALIDADE_MUDA_DATA = [
     "Responsável": "MABILA HELEN D FIGUEIREDO",
     "Qualidade da Muda": "BOM",
     "Observações": null,
-    "Fazenda": null,
-    "Observações ": null,
-    "Unnamed: 19": null
+    "Fazenda": null
   },
   {
     "ID": "3896717",
@@ -1104,9 +1010,7 @@ window.QUALIDADE_MUDA_DATA = [
     "Responsável": "MABILA HELEN D FIGUEIREDO",
     "Qualidade da Muda": "BOM",
     "Observações": null,
-    "Fazenda": null,
-    "Observações ": null,
-    "Unnamed: 19": null
+    "Fazenda": null
   },
   {
     "ID": "3896712",
@@ -1127,9 +1031,7 @@ window.QUALIDADE_MUDA_DATA = [
     "Responsável": "MABILA HELEN D FIGUEIREDO",
     "Qualidade da Muda": "BOM",
     "Observações": null,
-    "Fazenda": null,
-    "Observações ": null,
-    "Unnamed: 19": null
+    "Fazenda": null
   },
   {
     "ID": "3896708",
@@ -1150,9 +1052,7 @@ window.QUALIDADE_MUDA_DATA = [
     "Responsável": "MABILA HELEN D FIGUEIREDO",
     "Qualidade da Muda": "BOM",
     "Observações": null,
-    "Fazenda": null,
-    "Observações ": null,
-    "Unnamed: 19": null
+    "Fazenda": null
   },
   {
     "ID": "3896704",
@@ -1173,9 +1073,7 @@ window.QUALIDADE_MUDA_DATA = [
     "Responsável": "MABILA HELEN D FIGUEIREDO",
     "Qualidade da Muda": "BOM",
     "Observações": null,
-    "Fazenda": null,
-    "Observações ": null,
-    "Unnamed: 19": null
+    "Fazenda": null
   },
   {
     "ID": "3896273",
@@ -1196,9 +1094,7 @@ window.QUALIDADE_MUDA_DATA = [
     "Responsável": "MABILA HELEN D FIGUEIREDO",
     "Qualidade da Muda": "BOM",
     "Observações": null,
-    "Fazenda": null,
-    "Observações ": null,
-    "Unnamed: 19": null
+    "Fazenda": null
   },
   {
     "ID": "3896272",
@@ -1219,9 +1115,7 @@ window.QUALIDADE_MUDA_DATA = [
     "Responsável": "MABILA HELEN D FIGUEIREDO",
     "Qualidade da Muda": "BOM",
     "Observações": null,
-    "Fazenda": null,
-    "Observações ": null,
-    "Unnamed: 19": null
+    "Fazenda": null
   },
   {
     "ID": "3896267",
@@ -1242,9 +1136,7 @@ window.QUALIDADE_MUDA_DATA = [
     "Responsável": "MABILA HELEN D FIGUEIREDO",
     "Qualidade da Muda": "BOM",
     "Observações": null,
-    "Fazenda": null,
-    "Observações ": null,
-    "Unnamed: 19": null
+    "Fazenda": null
   },
   {
     "ID": "3896130",
@@ -1265,9 +1157,7 @@ window.QUALIDADE_MUDA_DATA = [
     "Responsável": "REGINALDO DA SILVA GOMES ",
     "Qualidade da Muda": "BOM",
     "Observações": null,
-    "Fazenda": null,
-    "Observações ": null,
-    "Unnamed: 19": null
+    "Fazenda": null
   },
   {
     "ID": "3896127",
@@ -1288,9 +1178,7 @@ window.QUALIDADE_MUDA_DATA = [
     "Responsável": "REGINALDO DA SILVA GOMES ",
     "Qualidade da Muda": "BOM",
     "Observações": null,
-    "Fazenda": null,
-    "Observações ": null,
-    "Unnamed: 19": null
+    "Fazenda": null
   },
   {
     "ID": "3896251",
@@ -1311,9 +1199,7 @@ window.QUALIDADE_MUDA_DATA = [
     "Responsável": "MABILA HELEN D FIGUEIREDO",
     "Qualidade da Muda": "BOM",
     "Observações": null,
-    "Fazenda": null,
-    "Observações ": null,
-    "Unnamed: 19": null
+    "Fazenda": null
   },
   {
     "ID": "3896122",
@@ -1334,9 +1220,7 @@ window.QUALIDADE_MUDA_DATA = [
     "Responsável": "REGINALDO DA SILVA GOMES ",
     "Qualidade da Muda": "BOM",
     "Observações": null,
-    "Fazenda": null,
-    "Observações ": null,
-    "Unnamed: 19": null
+    "Fazenda": null
   },
   {
     "ID": "3896247",
@@ -1357,9 +1241,7 @@ window.QUALIDADE_MUDA_DATA = [
     "Responsável": "MABILA HELEN D FIGUEIREDO",
     "Qualidade da Muda": "BOM",
     "Observações": null,
-    "Fazenda": null,
-    "Observações ": null,
-    "Unnamed: 19": null
+    "Fazenda": null
   },
   {
     "ID": "3893909",
@@ -1380,9 +1262,7 @@ window.QUALIDADE_MUDA_DATA = [
     "Responsável": "MABILA HELEN D FIGUEIREDO",
     "Qualidade da Muda": "BOM",
     "Observações": null,
-    "Fazenda": null,
-    "Observações ": null,
-    "Unnamed: 19": null
+    "Fazenda": null
   },
   {
     "ID": "3893906",
@@ -1403,9 +1283,7 @@ window.QUALIDADE_MUDA_DATA = [
     "Responsável": "MABILA HELEN D FIGUEIREDO",
     "Qualidade da Muda": "BOM",
     "Observações": null,
-    "Fazenda": null,
-    "Observações ": null,
-    "Unnamed: 19": null
+    "Fazenda": null
   },
   {
     "ID": "3893901",
@@ -1426,9 +1304,7 @@ window.QUALIDADE_MUDA_DATA = [
     "Responsável": "MABILA HELEN D FIGUEIREDO",
     "Qualidade da Muda": "BOM",
     "Observações": null,
-    "Fazenda": null,
-    "Observações ": null,
-    "Unnamed: 19": null
+    "Fazenda": null
   },
   {
     "ID": "3893888",
@@ -1449,9 +1325,7 @@ window.QUALIDADE_MUDA_DATA = [
     "Responsável": "MABILA HELEN D FIGUEIREDO",
     "Qualidade da Muda": "BOM",
     "Observações": null,
-    "Fazenda": null,
-    "Observações ": null,
-    "Unnamed: 19": null
+    "Fazenda": null
   },
   {
     "ID": "3893884",
@@ -1472,9 +1346,7 @@ window.QUALIDADE_MUDA_DATA = [
     "Responsável": "MABILA HELEN D FIGUEIREDO",
     "Qualidade da Muda": "BOM",
     "Observações": null,
-    "Fazenda": null,
-    "Observações ": null,
-    "Unnamed: 19": null
+    "Fazenda": null
   },
   {
     "ID": "3893881",
@@ -1495,9 +1367,7 @@ window.QUALIDADE_MUDA_DATA = [
     "Responsável": "MABILA HELEN D FIGUEIREDO",
     "Qualidade da Muda": "BOM",
     "Observações": null,
-    "Fazenda": null,
-    "Observações ": null,
-    "Unnamed: 19": null
+    "Fazenda": null
   },
   {
     "ID": "3893876",
@@ -1518,9 +1388,7 @@ window.QUALIDADE_MUDA_DATA = [
     "Responsável": "MABILA HELEN D FIGUEIREDO",
     "Qualidade da Muda": "BOM",
     "Observações": null,
-    "Fazenda": null,
-    "Observações ": null,
-    "Unnamed: 19": null
+    "Fazenda": null
   },
   {
     "ID": "3893872",
@@ -1541,9 +1409,7 @@ window.QUALIDADE_MUDA_DATA = [
     "Responsável": "MABILA HELEN D FIGUEIREDO",
     "Qualidade da Muda": "BOM",
     "Observações": null,
-    "Fazenda": null,
-    "Observações ": null,
-    "Unnamed: 19": null
+    "Fazenda": null
   },
   {
     "ID": "3887003",
@@ -1564,9 +1430,7 @@ window.QUALIDADE_MUDA_DATA = [
     "Responsável": "MABILA HELEN D FIGUEIREDO",
     "Qualidade da Muda": "BOM",
     "Observações": null,
-    "Fazenda": null,
-    "Observações ": null,
-    "Unnamed: 19": null
+    "Fazenda": null
   },
   {
     "ID": "3887000",
@@ -1587,9 +1451,7 @@ window.QUALIDADE_MUDA_DATA = [
     "Responsável": "MABILA HELEN D FIGUEIREDO",
     "Qualidade da Muda": "BOM",
     "Observações": null,
-    "Fazenda": null,
-    "Observações ": null,
-    "Unnamed: 19": null
+    "Fazenda": null
   },
   {
     "ID": "3886995",
@@ -1610,9 +1472,7 @@ window.QUALIDADE_MUDA_DATA = [
     "Responsável": "MABILA HELEN D FIGUEIREDO",
     "Qualidade da Muda": "BOM",
     "Observações": null,
-    "Fazenda": null,
-    "Observações ": null,
-    "Unnamed: 19": null
+    "Fazenda": null
   },
   {
     "ID": "3886992",
@@ -1633,9 +1493,7 @@ window.QUALIDADE_MUDA_DATA = [
     "Responsável": "MABILA HELEN D FIGUEIREDO",
     "Qualidade da Muda": "BOM",
     "Observações": null,
-    "Fazenda": null,
-    "Observações ": null,
-    "Unnamed: 19": null
+    "Fazenda": null
   },
   {
     "ID": "3886989",
@@ -1656,9 +1514,7 @@ window.QUALIDADE_MUDA_DATA = [
     "Responsável": "MABILA HELEN D FIGUEIREDO",
     "Qualidade da Muda": "BOM",
     "Observações": null,
-    "Fazenda": null,
-    "Observações ": null,
-    "Unnamed: 19": null
+    "Fazenda": null
   },
   {
     "ID": "3886985",
@@ -1679,9 +1535,7 @@ window.QUALIDADE_MUDA_DATA = [
     "Responsável": "MABILA HELEN D FIGUEIREDO",
     "Qualidade da Muda": "BOM",
     "Observações": null,
-    "Fazenda": null,
-    "Observações ": null,
-    "Unnamed: 19": null
+    "Fazenda": null
   },
   {
     "ID": "3886984",
@@ -1702,9 +1556,7 @@ window.QUALIDADE_MUDA_DATA = [
     "Responsável": "MABILA HELEN D FIGUEIREDO",
     "Qualidade da Muda": "BOM",
     "Observações": null,
-    "Fazenda": null,
-    "Observações ": null,
-    "Unnamed: 19": null
+    "Fazenda": null
   },
   {
     "ID": "3886977",
@@ -1725,9 +1577,7 @@ window.QUALIDADE_MUDA_DATA = [
     "Responsável": "MABILA HELEN D FIGUEIREDO",
     "Qualidade da Muda": "BOM",
     "Observações": null,
-    "Fazenda": null,
-    "Observações ": null,
-    "Unnamed: 19": null
+    "Fazenda": null
   },
   {
     "ID": "3886976",
@@ -1748,9 +1598,7 @@ window.QUALIDADE_MUDA_DATA = [
     "Responsável": "MABILA HELEN D FIGUEIREDO",
     "Qualidade da Muda": "BOM",
     "Observações": null,
-    "Fazenda": null,
-    "Observações ": null,
-    "Unnamed: 19": null
+    "Fazenda": null
   },
   {
     "ID": "3886975",
@@ -1771,9 +1619,7 @@ window.QUALIDADE_MUDA_DATA = [
     "Responsável": "MABILA HELEN D FIGUEIREDO",
     "Qualidade da Muda": "BOM",
     "Observações": null,
-    "Fazenda": null,
-    "Observações ": null,
-    "Unnamed: 19": null
+    "Fazenda": null
   },
   {
     "ID": "3886971",
@@ -1794,9 +1640,7 @@ window.QUALIDADE_MUDA_DATA = [
     "Responsável": "MABILA HELEN D FIGUEIREDO",
     "Qualidade da Muda": "BOM",
     "Observações": null,
-    "Fazenda": null,
-    "Observações ": null,
-    "Unnamed: 19": null
+    "Fazenda": null
   },
   {
     "ID": "3886970",
@@ -1817,9 +1661,7 @@ window.QUALIDADE_MUDA_DATA = [
     "Responsável": "MABILA HELEN D FIGUEIREDO",
     "Qualidade da Muda": "BOM",
     "Observações": null,
-    "Fazenda": null,
-    "Observações ": null,
-    "Unnamed: 19": null
+    "Fazenda": null
   },
   {
     "ID": "3887085",
@@ -1840,9 +1682,7 @@ window.QUALIDADE_MUDA_DATA = [
     "Responsável": "MABILA HELEN D FIGUEIREDO",
     "Qualidade da Muda": "BOM",
     "Observações": null,
-    "Fazenda": null,
-    "Observações ": null,
-    "Unnamed: 19": null
+    "Fazenda": null
   },
   {
     "ID": "3887091",
@@ -1863,9 +1703,7 @@ window.QUALIDADE_MUDA_DATA = [
     "Responsável": "MABILA HELEN D FIGUEIREDO",
     "Qualidade da Muda": "BOM",
     "Observações": null,
-    "Fazenda": null,
-    "Observações ": null,
-    "Unnamed: 19": null
+    "Fazenda": null
   },
   {
     "ID": "3887087",
@@ -1886,9 +1724,7 @@ window.QUALIDADE_MUDA_DATA = [
     "Responsável": "MABILA HELEN D FIGUEIREDO",
     "Qualidade da Muda": "BOM",
     "Observações": null,
-    "Fazenda": null,
-    "Observações ": null,
-    "Unnamed: 19": null
+    "Fazenda": null
   },
   {
     "ID": "3884072",
@@ -1909,9 +1745,7 @@ window.QUALIDADE_MUDA_DATA = [
     "Responsável": "MABILA HELEN D FIGUEIREDO",
     "Qualidade da Muda": "BOM",
     "Observações": null,
-    "Fazenda": null,
-    "Observações ": null,
-    "Unnamed: 19": null
+    "Fazenda": null
   },
   {
     "ID": "3884076",
@@ -1932,9 +1766,7 @@ window.QUALIDADE_MUDA_DATA = [
     "Responsável": "MABILA HELEN D FIGUEIREDO",
     "Qualidade da Muda": "BOM",
     "Observações": null,
-    "Fazenda": null,
-    "Observações ": null,
-    "Unnamed: 19": null
+    "Fazenda": null
   },
   {
     "ID": "3884066",
@@ -1955,9 +1787,7 @@ window.QUALIDADE_MUDA_DATA = [
     "Responsável": "MABILA HELEN D FIGUEIREDO",
     "Qualidade da Muda": "BOM",
     "Observações": null,
-    "Fazenda": null,
-    "Observações ": null,
-    "Unnamed: 19": null
+    "Fazenda": null
   },
   {
     "ID": "3884061",
@@ -1978,9 +1808,7 @@ window.QUALIDADE_MUDA_DATA = [
     "Responsável": "MABILA HELEN D FIGUEIREDO",
     "Qualidade da Muda": "BOM",
     "Observações": null,
-    "Fazenda": null,
-    "Observações ": null,
-    "Unnamed: 19": null
+    "Fazenda": null
   },
   {
     "ID": "3884056",
@@ -2001,9 +1829,7 @@ window.QUALIDADE_MUDA_DATA = [
     "Responsável": "MABILA HELEN D FIGUEIREDO",
     "Qualidade da Muda": "BOM",
     "Observações": null,
-    "Fazenda": null,
-    "Observações ": null,
-    "Unnamed: 19": null
+    "Fazenda": null
   },
   {
     "ID": "3880982",
@@ -2024,9 +1850,7 @@ window.QUALIDADE_MUDA_DATA = [
     "Responsável": "MABILA HELEN D FIGUEIREDO",
     "Qualidade da Muda": "BOM",
     "Observações": null,
-    "Fazenda": null,
-    "Observações ": null,
-    "Unnamed: 19": null
+    "Fazenda": null
   },
   {
     "ID": "3880975",
@@ -2047,9 +1871,7 @@ window.QUALIDADE_MUDA_DATA = [
     "Responsável": "MABILA HELEN D FIGUEIREDO",
     "Qualidade da Muda": "BOM",
     "Observações": null,
-    "Fazenda": null,
-    "Observações ": null,
-    "Unnamed: 19": null
+    "Fazenda": null
   },
   {
     "ID": "3880973",
@@ -2070,9 +1892,7 @@ window.QUALIDADE_MUDA_DATA = [
     "Responsável": "MABILA HELEN D FIGUEIREDO",
     "Qualidade da Muda": "BOM",
     "Observações": null,
-    "Fazenda": null,
-    "Observações ": null,
-    "Unnamed: 19": null
+    "Fazenda": null
   },
   {
     "ID": "3880969",
@@ -2093,9 +1913,7 @@ window.QUALIDADE_MUDA_DATA = [
     "Responsável": "MABILA HELEN D FIGUEIREDO",
     "Qualidade da Muda": "BOM",
     "Observações": null,
-    "Fazenda": null,
-    "Observações ": null,
-    "Unnamed: 19": null
+    "Fazenda": null
   },
   {
     "ID": "3880928",
@@ -2116,9 +1934,7 @@ window.QUALIDADE_MUDA_DATA = [
     "Responsável": "MABILA HELEN D FIGUEIREDO",
     "Qualidade da Muda": "BOM",
     "Observações": null,
-    "Fazenda": null,
-    "Observações ": null,
-    "Unnamed: 19": null
+    "Fazenda": null
   },
   {
     "ID": "3880915",
@@ -2139,9 +1955,7 @@ window.QUALIDADE_MUDA_DATA = [
     "Responsável": "MABILA HELEN D FIGUEIREDO",
     "Qualidade da Muda": "BOM",
     "Observações": null,
-    "Fazenda": null,
-    "Observações ": null,
-    "Unnamed: 19": null
+    "Fazenda": null
   },
   {
     "ID": "3880911",
@@ -2162,9 +1976,7 @@ window.QUALIDADE_MUDA_DATA = [
     "Responsável": "MABILA HELEN D FIGUEIREDO",
     "Qualidade da Muda": "BOM",
     "Observações": null,
-    "Fazenda": null,
-    "Observações ": null,
-    "Unnamed: 19": null
+    "Fazenda": null
   },
   {
     "ID": "3880907",
@@ -2185,9 +1997,7 @@ window.QUALIDADE_MUDA_DATA = [
     "Responsável": "MABILA HELEN D FIGUEIREDO",
     "Qualidade da Muda": "BOM",
     "Observações": null,
-    "Fazenda": null,
-    "Observações ": null,
-    "Unnamed: 19": null
+    "Fazenda": null
   },
   {
     "ID": "3880903",
@@ -2208,9 +2018,7 @@ window.QUALIDADE_MUDA_DATA = [
     "Responsável": "MABILA HELEN D FIGUEIREDO",
     "Qualidade da Muda": "BOM",
     "Observações": null,
-    "Fazenda": null,
-    "Observações ": null,
-    "Unnamed: 19": null
+    "Fazenda": null
   },
   {
     "ID": "3880898",
@@ -2231,9 +2039,7 @@ window.QUALIDADE_MUDA_DATA = [
     "Responsável": "MABILA HELEN D FIGUEIREDO",
     "Qualidade da Muda": "BOM",
     "Observações": null,
-    "Fazenda": null,
-    "Observações ": null,
-    "Unnamed: 19": null
+    "Fazenda": null
   },
   {
     "ID": "3878190",
@@ -2254,9 +2060,7 @@ window.QUALIDADE_MUDA_DATA = [
     "Responsável": "MABILA HELEN D FIGUEIREDO",
     "Qualidade da Muda": "BOM",
     "Observações": null,
-    "Fazenda": null,
-    "Observações ": null,
-    "Unnamed: 19": null
+    "Fazenda": null
   },
   {
     "ID": "3878187",
@@ -2277,9 +2081,7 @@ window.QUALIDADE_MUDA_DATA = [
     "Responsável": "MABILA HELEN D FIGUEIREDO",
     "Qualidade da Muda": "BOM",
     "Observações": null,
-    "Fazenda": null,
-    "Observações ": null,
-    "Unnamed: 19": null
+    "Fazenda": null
   },
   {
     "ID": "3877798",
@@ -2300,9 +2102,7 @@ window.QUALIDADE_MUDA_DATA = [
     "Responsável": "MABILA HELEN D FIGUEIREDO",
     "Qualidade da Muda": "BOM",
     "Observações": null,
-    "Fazenda": null,
-    "Observações ": null,
-    "Unnamed: 19": null
+    "Fazenda": null
   },
   {
     "ID": "3877795",
@@ -2323,9 +2123,7 @@ window.QUALIDADE_MUDA_DATA = [
     "Responsável": "MABILA HELEN D FIGUEIREDO",
     "Qualidade da Muda": "BOM",
     "Observações": null,
-    "Fazenda": null,
-    "Observações ": null,
-    "Unnamed: 19": null
+    "Fazenda": null
   },
   {
     "ID": "3877791",
@@ -2346,9 +2144,7 @@ window.QUALIDADE_MUDA_DATA = [
     "Responsável": "MABILA HELEN D FIGUEIREDO",
     "Qualidade da Muda": "BOM",
     "Observações": null,
-    "Fazenda": null,
-    "Observações ": null,
-    "Unnamed: 19": null
+    "Fazenda": null
   },
   {
     "ID": "3877786",
@@ -2369,9 +2165,7 @@ window.QUALIDADE_MUDA_DATA = [
     "Responsável": "MABILA HELEN D FIGUEIREDO",
     "Qualidade da Muda": "BOM",
     "Observações": null,
-    "Fazenda": null,
-    "Observações ": null,
-    "Unnamed: 19": null
+    "Fazenda": null
   },
   {
     "ID": "3877783",
@@ -2392,9 +2186,7 @@ window.QUALIDADE_MUDA_DATA = [
     "Responsável": "MABILA HELEN D FIGUEIREDO",
     "Qualidade da Muda": "BOM",
     "Observações": null,
-    "Fazenda": null,
-    "Observações ": null,
-    "Unnamed: 19": null
+    "Fazenda": null
   },
   {
     "ID": "3877778",
@@ -2415,9 +2207,7 @@ window.QUALIDADE_MUDA_DATA = [
     "Responsável": "MABILA HELEN D FIGUEIREDO",
     "Qualidade da Muda": "BOM",
     "Observações": null,
-    "Fazenda": null,
-    "Observações ": null,
-    "Unnamed: 19": null
+    "Fazenda": null
   },
   {
     "ID": "3877764",
@@ -2438,9 +2228,7 @@ window.QUALIDADE_MUDA_DATA = [
     "Responsável": "MABILA HELEN D FIGUEIREDO",
     "Qualidade da Muda": "BOM",
     "Observações": null,
-    "Fazenda": null,
-    "Observações ": null,
-    "Unnamed: 19": null
+    "Fazenda": null
   },
   {
     "ID": "3877757",
@@ -2461,9 +2249,7 @@ window.QUALIDADE_MUDA_DATA = [
     "Responsável": "MABILA HELEN D FIGUEIREDO",
     "Qualidade da Muda": "BOM",
     "Observações": null,
-    "Fazenda": null,
-    "Observações ": null,
-    "Unnamed: 19": null
+    "Fazenda": null
   },
   {
     "ID": "3877752",
@@ -2484,9 +2270,7 @@ window.QUALIDADE_MUDA_DATA = [
     "Responsável": "MABILA HELEN D FIGUEIREDO",
     "Qualidade da Muda": "BOM",
     "Observações": null,
-    "Fazenda": null,
-    "Observações ": null,
-    "Unnamed: 19": null
+    "Fazenda": null
   },
   {
     "ID": "3874792",
@@ -2507,9 +2291,7 @@ window.QUALIDADE_MUDA_DATA = [
     "Responsável": "MABILA HELEN D FIGUEIREDO",
     "Qualidade da Muda": "BOM",
     "Observações": null,
-    "Fazenda": null,
-    "Observações ": null,
-    "Unnamed: 19": null
+    "Fazenda": null
   },
   {
     "ID": "3874788",
@@ -2530,9 +2312,7 @@ window.QUALIDADE_MUDA_DATA = [
     "Responsável": "MABILA HELEN D FIGUEIREDO",
     "Qualidade da Muda": "BOM",
     "Observações": null,
-    "Fazenda": null,
-    "Observações ": null,
-    "Unnamed: 19": null
+    "Fazenda": null
   },
   {
     "ID": "3874784",
@@ -2553,9 +2333,7 @@ window.QUALIDADE_MUDA_DATA = [
     "Responsável": "MABILA HELEN D FIGUEIREDO",
     "Qualidade da Muda": "BOM",
     "Observações": null,
-    "Fazenda": null,
-    "Observações ": null,
-    "Unnamed: 19": null
+    "Fazenda": null
   },
   {
     "ID": "3874780",
@@ -2576,9 +2354,7 @@ window.QUALIDADE_MUDA_DATA = [
     "Responsável": "MABILA HELEN D FIGUEIREDO",
     "Qualidade da Muda": "BOM",
     "Observações": null,
-    "Fazenda": null,
-    "Observações ": null,
-    "Unnamed: 19": null
+    "Fazenda": null
   },
   {
     "ID": "3874777",
@@ -2599,9 +2375,7 @@ window.QUALIDADE_MUDA_DATA = [
     "Responsável": "MABILA HELEN D FIGUEIREDO",
     "Qualidade da Muda": "BOM",
     "Observações": null,
-    "Fazenda": null,
-    "Observações ": null,
-    "Unnamed: 19": null
+    "Fazenda": null
   },
   {
     "ID": "3872798",
@@ -2622,9 +2396,7 @@ window.QUALIDADE_MUDA_DATA = [
     "Responsável": "MABILA HELEN D FIGUEIREDO",
     "Qualidade da Muda": "BOM",
     "Observações": null,
-    "Fazenda": null,
-    "Observações ": null,
-    "Unnamed: 19": null
+    "Fazenda": null
   },
   {
     "ID": "3872791",
@@ -2645,9 +2417,7 @@ window.QUALIDADE_MUDA_DATA = [
     "Responsável": "MABILA HELEN D FIGUEIREDO",
     "Qualidade da Muda": "BOM",
     "Observações": null,
-    "Fazenda": null,
-    "Observações ": null,
-    "Unnamed: 19": null
+    "Fazenda": null
   },
   {
     "ID": "3872789",
@@ -2668,9 +2438,7 @@ window.QUALIDADE_MUDA_DATA = [
     "Responsável": "MABILA HELEN D FIGUEIREDO",
     "Qualidade da Muda": "BOM",
     "Observações": null,
-    "Fazenda": null,
-    "Observações ": null,
-    "Unnamed: 19": null
+    "Fazenda": null
   },
   {
     "ID": "3872784",
@@ -2691,9 +2459,7 @@ window.QUALIDADE_MUDA_DATA = [
     "Responsável": "MABILA HELEN D FIGUEIREDO",
     "Qualidade da Muda": "BOM",
     "Observações": null,
-    "Fazenda": null,
-    "Observações ": null,
-    "Unnamed: 19": null
+    "Fazenda": null
   },
   {
     "ID": "3872777",
@@ -2714,9 +2480,7 @@ window.QUALIDADE_MUDA_DATA = [
     "Responsável": "MABILA HELEN D FIGUEIREDO",
     "Qualidade da Muda": "BOM",
     "Observações": null,
-    "Fazenda": null,
-    "Observações ": null,
-    "Unnamed: 19": null
+    "Fazenda": null
   },
   {
     "ID": "3872772",
@@ -2737,9 +2501,7 @@ window.QUALIDADE_MUDA_DATA = [
     "Responsável": "MABILA HELEN D FIGUEIREDO",
     "Qualidade da Muda": "BOM",
     "Observações": null,
-    "Fazenda": null,
-    "Observações ": null,
-    "Unnamed: 19": null
+    "Fazenda": null
   },
   {
     "ID": "3872767",
@@ -2760,9 +2522,7 @@ window.QUALIDADE_MUDA_DATA = [
     "Responsável": "MABILA HELEN D FIGUEIREDO",
     "Qualidade da Muda": "BOM",
     "Observações": null,
-    "Fazenda": null,
-    "Observações ": null,
-    "Unnamed: 19": null
+    "Fazenda": null
   },
   {
     "ID": "3872761",
@@ -2783,9 +2543,7 @@ window.QUALIDADE_MUDA_DATA = [
     "Responsável": "MABILA HELEN D FIGUEIREDO",
     "Qualidade da Muda": "BOM",
     "Observações": null,
-    "Fazenda": null,
-    "Observações ": null,
-    "Unnamed: 19": null
+    "Fazenda": null
   },
   {
     "ID": "3872724",
@@ -2806,9 +2564,7 @@ window.QUALIDADE_MUDA_DATA = [
     "Responsável": "MABILA HELEN D FIGUEIREDO",
     "Qualidade da Muda": "BOM",
     "Observações": null,
-    "Fazenda": null,
-    "Observações ": null,
-    "Unnamed: 19": null
+    "Fazenda": null
   },
   {
     "ID": "3872720",
@@ -2829,9 +2585,7 @@ window.QUALIDADE_MUDA_DATA = [
     "Responsável": "MABILA HELEN D FIGUEIREDO",
     "Qualidade da Muda": "BOM",
     "Observações": null,
-    "Fazenda": null,
-    "Observações ": null,
-    "Unnamed: 19": null
+    "Fazenda": null
   },
   {
     "ID": "3872714",
@@ -2852,9 +2606,7 @@ window.QUALIDADE_MUDA_DATA = [
     "Responsável": "MABILA HELEN D FIGUEIREDO",
     "Qualidade da Muda": "BOM",
     "Observações": null,
-    "Fazenda": null,
-    "Observações ": null,
-    "Unnamed: 19": null
+    "Fazenda": null
   },
   {
     "ID": "3872712",
@@ -2875,9 +2627,7 @@ window.QUALIDADE_MUDA_DATA = [
     "Responsável": "MABILA HELEN D FIGUEIREDO",
     "Qualidade da Muda": "BOM",
     "Observações": null,
-    "Fazenda": null,
-    "Observações ": null,
-    "Unnamed: 19": null
+    "Fazenda": null
   },
   {
     "ID": "3872281",
@@ -2898,9 +2648,7 @@ window.QUALIDADE_MUDA_DATA = [
     "Responsável": "REGINALDO DA SILVA GOMES ",
     "Qualidade da Muda": "BOM",
     "Observações": null,
-    "Fazenda": null,
-    "Observações ": null,
-    "Unnamed: 19": null
+    "Fazenda": null
   },
   {
     "ID": "3872274",
@@ -2921,9 +2669,7 @@ window.QUALIDADE_MUDA_DATA = [
     "Responsável": "REGINALDO DA SILVA GOMES ",
     "Qualidade da Muda": "BOM",
     "Observações": null,
-    "Fazenda": null,
-    "Observações ": null,
-    "Unnamed: 19": null
+    "Fazenda": null
   },
   {
     "ID": "3872702",
@@ -2944,9 +2690,7 @@ window.QUALIDADE_MUDA_DATA = [
     "Responsável": "MABILA HELEN D FIGUEIREDO",
     "Qualidade da Muda": "BOM",
     "Observações": null,
-    "Fazenda": null,
-    "Observações ": null,
-    "Unnamed: 19": null
+    "Fazenda": null
   },
   {
     "ID": "3872692",
@@ -2967,9 +2711,7 @@ window.QUALIDADE_MUDA_DATA = [
     "Responsável": "MABILA HELEN D FIGUEIREDO",
     "Qualidade da Muda": "BOM",
     "Observações": null,
-    "Fazenda": null,
-    "Observações ": null,
-    "Unnamed: 19": null
+    "Fazenda": null
   },
   {
     "ID": "3872687",
@@ -2990,9 +2732,7 @@ window.QUALIDADE_MUDA_DATA = [
     "Responsável": "MABILA HELEN D FIGUEIREDO",
     "Qualidade da Muda": "BOM",
     "Observações": null,
-    "Fazenda": null,
-    "Observações ": null,
-    "Unnamed: 19": null
+    "Fazenda": null
   },
   {
     "ID": "3872267",
@@ -3013,9 +2753,7 @@ window.QUALIDADE_MUDA_DATA = [
     "Responsável": "REGINALDO DA SILVA GOMES ",
     "Qualidade da Muda": "BOM",
     "Observações": null,
-    "Fazenda": null,
-    "Observações ": null,
-    "Unnamed: 19": null
+    "Fazenda": null
   },
   {
     "ID": "3870281",
@@ -3036,9 +2774,7 @@ window.QUALIDADE_MUDA_DATA = [
     "Responsável": "MABILA HELEN D FIGUEIREDO",
     "Qualidade da Muda": "BOM",
     "Observações": null,
-    "Fazenda": null,
-    "Observações ": null,
-    "Unnamed: 19": null
+    "Fazenda": null
   },
   {
     "ID": "3870273",
@@ -3059,9 +2795,7 @@ window.QUALIDADE_MUDA_DATA = [
     "Responsável": "MABILA HELEN D FIGUEIREDO",
     "Qualidade da Muda": "BOM",
     "Observações": null,
-    "Fazenda": null,
-    "Observações ": null,
-    "Unnamed: 19": null
+    "Fazenda": null
   },
   {
     "ID": "3870268",
@@ -3082,9 +2816,7 @@ window.QUALIDADE_MUDA_DATA = [
     "Responsável": "MABILA HELEN D FIGUEIREDO",
     "Qualidade da Muda": "BOM",
     "Observações": null,
-    "Fazenda": null,
-    "Observações ": null,
-    "Unnamed: 19": null
+    "Fazenda": null
   },
   {
     "ID": "3870264",
@@ -3105,9 +2837,7 @@ window.QUALIDADE_MUDA_DATA = [
     "Responsável": "MABILA HELEN D FIGUEIREDO",
     "Qualidade da Muda": "BOM",
     "Observações": null,
-    "Fazenda": null,
-    "Observações ": null,
-    "Unnamed: 19": null
+    "Fazenda": null
   },
   {
     "ID": "3870258",
@@ -3128,9 +2858,7 @@ window.QUALIDADE_MUDA_DATA = [
     "Responsável": "MABILA HELEN D FIGUEIREDO",
     "Qualidade da Muda": "BOM",
     "Observações": null,
-    "Fazenda": null,
-    "Observações ": null,
-    "Unnamed: 19": null
+    "Fazenda": null
   },
   {
     "ID": "3870126",
@@ -3151,9 +2879,7 @@ window.QUALIDADE_MUDA_DATA = [
     "Responsável": "MABILA HELEN D FIGUEIREDO",
     "Qualidade da Muda": "BOM",
     "Observações": null,
-    "Fazenda": null,
-    "Observações ": null,
-    "Unnamed: 19": null
+    "Fazenda": null
   },
   {
     "ID": "3870116",
@@ -3174,9 +2900,7 @@ window.QUALIDADE_MUDA_DATA = [
     "Responsável": "MABILA HELEN D FIGUEIREDO",
     "Qualidade da Muda": "BOM",
     "Observações": null,
-    "Fazenda": null,
-    "Observações ": null,
-    "Unnamed: 19": null
+    "Fazenda": null
   },
   {
     "ID": "3870108",
@@ -3197,9 +2921,7 @@ window.QUALIDADE_MUDA_DATA = [
     "Responsável": "MABILA HELEN D FIGUEIREDO",
     "Qualidade da Muda": "BOM",
     "Observações": null,
-    "Fazenda": null,
-    "Observações ": null,
-    "Unnamed: 19": null
+    "Fazenda": null
   },
   {
     "ID": "3870099",
@@ -3220,9 +2942,7 @@ window.QUALIDADE_MUDA_DATA = [
     "Responsável": "MABILA HELEN D FIGUEIREDO",
     "Qualidade da Muda": "BOM",
     "Observações": null,
-    "Fazenda": null,
-    "Observações ": null,
-    "Unnamed: 19": null
+    "Fazenda": null
   },
   {
     "ID": "3867375",
@@ -3243,9 +2963,7 @@ window.QUALIDADE_MUDA_DATA = [
     "Responsável": "MABILA HELEN D FIGUEIREDO",
     "Qualidade da Muda": "BOM",
     "Observações": null,
-    "Fazenda": null,
-    "Observações ": null,
-    "Unnamed: 19": null
+    "Fazenda": null
   },
   {
     "ID": "3867370",
@@ -3266,9 +2984,7 @@ window.QUALIDADE_MUDA_DATA = [
     "Responsável": "MABILA HELEN D FIGUEIREDO",
     "Qualidade da Muda": "BOM",
     "Observações": null,
-    "Fazenda": null,
-    "Observações ": null,
-    "Unnamed: 19": null
+    "Fazenda": null
   },
   {
     "ID": "3867367",
@@ -3289,9 +3005,7 @@ window.QUALIDADE_MUDA_DATA = [
     "Responsável": "MABILA HELEN D FIGUEIREDO",
     "Qualidade da Muda": "BOM",
     "Observações": null,
-    "Fazenda": null,
-    "Observações ": null,
-    "Unnamed: 19": null
+    "Fazenda": null
   },
   {
     "ID": "3867362",
@@ -3312,9 +3026,7 @@ window.QUALIDADE_MUDA_DATA = [
     "Responsável": "MABILA HELEN D FIGUEIREDO",
     "Qualidade da Muda": "BOM",
     "Observações": null,
-    "Fazenda": null,
-    "Observações ": null,
-    "Unnamed: 19": null
+    "Fazenda": null
   },
   {
     "ID": "3867354",
@@ -3335,9 +3047,7 @@ window.QUALIDADE_MUDA_DATA = [
     "Responsável": "MABILA HELEN D FIGUEIREDO",
     "Qualidade da Muda": "BOM",
     "Observações": null,
-    "Fazenda": null,
-    "Observações ": null,
-    "Unnamed: 19": null
+    "Fazenda": null
   },
   {
     "ID": "3867349",
@@ -3358,9 +3068,7 @@ window.QUALIDADE_MUDA_DATA = [
     "Responsável": "MABILA HELEN D FIGUEIREDO",
     "Qualidade da Muda": "BOM",
     "Observações": null,
-    "Fazenda": null,
-    "Observações ": null,
-    "Unnamed: 19": null
+    "Fazenda": null
   },
   {
     "ID": "3867168",
@@ -3381,9 +3089,7 @@ window.QUALIDADE_MUDA_DATA = [
     "Responsável": "WILLIAM ROBERTO DALLA COSTA [254120]",
     "Qualidade da Muda": "BOM",
     "Observações": null,
-    "Fazenda": null,
-    "Observações ": null,
-    "Unnamed: 19": null
+    "Fazenda": null
   },
   {
     "ID": "3867150",
@@ -3404,9 +3110,7 @@ window.QUALIDADE_MUDA_DATA = [
     "Responsável": "WILLIAM ROBERTO DALLA COSTA [254120]",
     "Qualidade da Muda": "BOM",
     "Observações": null,
-    "Fazenda": null,
-    "Observações ": null,
-    "Unnamed: 19": null
+    "Fazenda": null
   },
   {
     "ID": "3867328",
@@ -3427,9 +3131,7 @@ window.QUALIDADE_MUDA_DATA = [
     "Responsável": "MABILA HELEN D FIGUEIREDO",
     "Qualidade da Muda": "BOM",
     "Observações": null,
-    "Fazenda": null,
-    "Observações ": null,
-    "Unnamed: 19": null
+    "Fazenda": null
   },
   {
     "ID": "3867123",
@@ -3450,9 +3152,7 @@ window.QUALIDADE_MUDA_DATA = [
     "Responsável": "WILLIAM ROBERTO DALLA COSTA [254120]",
     "Qualidade da Muda": "BOM",
     "Observações": null,
-    "Fazenda": null,
-    "Observações ": null,
-    "Unnamed: 19": null
+    "Fazenda": null
   },
   {
     "ID": "3867325",
@@ -3473,9 +3173,7 @@ window.QUALIDADE_MUDA_DATA = [
     "Responsável": "MABILA HELEN D FIGUEIREDO",
     "Qualidade da Muda": "BOM",
     "Observações": null,
-    "Fazenda": null,
-    "Observações ": null,
-    "Unnamed: 19": null
+    "Fazenda": null
   },
   {
     "ID": "3867321",
@@ -3496,9 +3194,7 @@ window.QUALIDADE_MUDA_DATA = [
     "Responsável": "MABILA HELEN D FIGUEIREDO",
     "Qualidade da Muda": "BOM",
     "Observações": null,
-    "Fazenda": null,
-    "Observações ": null,
-    "Unnamed: 19": null
+    "Fazenda": null
   },
   {
     "ID": "3867313",
@@ -3519,9 +3215,7 @@ window.QUALIDADE_MUDA_DATA = [
     "Responsável": "MABILA HELEN D FIGUEIREDO",
     "Qualidade da Muda": "BOM",
     "Observações": null,
-    "Fazenda": null,
-    "Observações ": null,
-    "Unnamed: 19": null
+    "Fazenda": null
   },
   {
     "ID": "3867310",
@@ -3542,9 +3236,7 @@ window.QUALIDADE_MUDA_DATA = [
     "Responsável": "MABILA HELEN D FIGUEIREDO",
     "Qualidade da Muda": "BOM",
     "Observações": null,
-    "Fazenda": null,
-    "Observações ": null,
-    "Unnamed: 19": null
+    "Fazenda": null
   },
   {
     "ID": "3867381",
@@ -3565,9 +3257,7 @@ window.QUALIDADE_MUDA_DATA = [
     "Responsável": "MABILA HELEN D FIGUEIREDO",
     "Qualidade da Muda": "BOM",
     "Observações": null,
-    "Fazenda": null,
-    "Observações ": null,
-    "Unnamed: 19": null
+    "Fazenda": null
   },
   {
     "ID": "3864195",
@@ -3588,9 +3278,7 @@ window.QUALIDADE_MUDA_DATA = [
     "Responsável": "MABILA HELEN D FIGUEIREDO",
     "Qualidade da Muda": "BOM",
     "Observações": null,
-    "Fazenda": null,
-    "Observações ": null,
-    "Unnamed: 19": null
+    "Fazenda": null
   },
   {
     "ID": "3864192",
@@ -3611,9 +3299,7 @@ window.QUALIDADE_MUDA_DATA = [
     "Responsável": "MABILA HELEN D FIGUEIREDO",
     "Qualidade da Muda": "BOM",
     "Observações": null,
-    "Fazenda": null,
-    "Observações ": null,
-    "Unnamed: 19": null
+    "Fazenda": null
   },
   {
     "ID": "3864189",
@@ -3634,9 +3320,7 @@ window.QUALIDADE_MUDA_DATA = [
     "Responsável": "MABILA HELEN D FIGUEIREDO",
     "Qualidade da Muda": "BOM",
     "Observações": null,
-    "Fazenda": null,
-    "Observações ": null,
-    "Unnamed: 19": null
+    "Fazenda": null
   },
   {
     "ID": "3864182",
@@ -3657,9 +3341,7 @@ window.QUALIDADE_MUDA_DATA = [
     "Responsável": "MABILA HELEN D FIGUEIREDO",
     "Qualidade da Muda": "BOM",
     "Observações": null,
-    "Fazenda": null,
-    "Observações ": null,
-    "Unnamed: 19": null
+    "Fazenda": null
   },
   {
     "ID": "3864176",
@@ -3680,9 +3362,7 @@ window.QUALIDADE_MUDA_DATA = [
     "Responsável": "MABILA HELEN D FIGUEIREDO",
     "Qualidade da Muda": "BOM",
     "Observações": null,
-    "Fazenda": null,
-    "Observações ": null,
-    "Unnamed: 19": null
+    "Fazenda": null
   },
   {
     "ID": "3864171",
@@ -3703,9 +3383,7 @@ window.QUALIDADE_MUDA_DATA = [
     "Responsável": "MABILA HELEN D FIGUEIREDO",
     "Qualidade da Muda": "BOM",
     "Observações": null,
-    "Fazenda": null,
-    "Observações ": null,
-    "Unnamed: 19": null
+    "Fazenda": null
   },
   {
     "ID": "3864163",
@@ -3726,9 +3404,7 @@ window.QUALIDADE_MUDA_DATA = [
     "Responsável": "MABILA HELEN D FIGUEIREDO",
     "Qualidade da Muda": "BOM",
     "Observações": null,
-    "Fazenda": null,
-    "Observações ": null,
-    "Unnamed: 19": null
+    "Fazenda": null
   },
   {
     "ID": "3861943",
@@ -3749,9 +3425,7 @@ window.QUALIDADE_MUDA_DATA = [
     "Responsável": "MABILA HELEN D FIGUEIREDO",
     "Qualidade da Muda": "BOM",
     "Observações": null,
-    "Fazenda": null,
-    "Observações ": null,
-    "Unnamed: 19": null
+    "Fazenda": null
   },
   {
     "ID": "3861938",
@@ -3772,9 +3446,7 @@ window.QUALIDADE_MUDA_DATA = [
     "Responsável": "MABILA HELEN D FIGUEIREDO",
     "Qualidade da Muda": "BOM",
     "Observações": null,
-    "Fazenda": null,
-    "Observações ": null,
-    "Unnamed: 19": null
+    "Fazenda": null
   },
   {
     "ID": "3861935",
@@ -3795,9 +3467,7 @@ window.QUALIDADE_MUDA_DATA = [
     "Responsável": "MABILA HELEN D FIGUEIREDO",
     "Qualidade da Muda": "BOM",
     "Observações": null,
-    "Fazenda": null,
-    "Observações ": null,
-    "Unnamed: 19": null
+    "Fazenda": null
   },
   {
     "ID": "3861931",
@@ -3818,9 +3488,7 @@ window.QUALIDADE_MUDA_DATA = [
     "Responsável": "MABILA HELEN D FIGUEIREDO",
     "Qualidade da Muda": "BOM",
     "Observações": null,
-    "Fazenda": null,
-    "Observações ": null,
-    "Unnamed: 19": null
+    "Fazenda": null
   },
   {
     "ID": "3861928",
@@ -3841,9 +3509,7 @@ window.QUALIDADE_MUDA_DATA = [
     "Responsável": "MABILA HELEN D FIGUEIREDO",
     "Qualidade da Muda": "BOM",
     "Observações": null,
-    "Fazenda": null,
-    "Observações ": null,
-    "Unnamed: 19": null
+    "Fazenda": null
   },
   {
     "ID": "3861908",
@@ -3864,9 +3530,7 @@ window.QUALIDADE_MUDA_DATA = [
     "Responsável": "MABILA HELEN D FIGUEIREDO",
     "Qualidade da Muda": "BOM",
     "Observações": null,
-    "Fazenda": null,
-    "Observações ": null,
-    "Unnamed: 19": null
+    "Fazenda": null
   },
   {
     "ID": "3861903",
@@ -3887,9 +3551,7 @@ window.QUALIDADE_MUDA_DATA = [
     "Responsável": "MABILA HELEN D FIGUEIREDO",
     "Qualidade da Muda": "BOM",
     "Observações": null,
-    "Fazenda": null,
-    "Observações ": null,
-    "Unnamed: 19": null
+    "Fazenda": null
   },
   {
     "ID": "3861898",
@@ -3910,9 +3572,7 @@ window.QUALIDADE_MUDA_DATA = [
     "Responsável": "MABILA HELEN D FIGUEIREDO",
     "Qualidade da Muda": "BOM",
     "Observações": null,
-    "Fazenda": null,
-    "Observações ": null,
-    "Unnamed: 19": null
+    "Fazenda": null
   },
   {
     "ID": "3861894",
@@ -3933,9 +3593,7 @@ window.QUALIDADE_MUDA_DATA = [
     "Responsável": "MABILA HELEN D FIGUEIREDO",
     "Qualidade da Muda": "BOM",
     "Observações": null,
-    "Fazenda": null,
-    "Observações ": null,
-    "Unnamed: 19": null
+    "Fazenda": null
   },
   {
     "ID": "3861889",
@@ -3956,9 +3614,7 @@ window.QUALIDADE_MUDA_DATA = [
     "Responsável": "MABILA HELEN D FIGUEIREDO",
     "Qualidade da Muda": "BOM",
     "Observações": null,
-    "Fazenda": null,
-    "Observações ": null,
-    "Unnamed: 19": null
+    "Fazenda": null
   },
   {
     "ID": "3861968",
@@ -3979,9 +3635,7 @@ window.QUALIDADE_MUDA_DATA = [
     "Responsável": "MABILA HELEN D FIGUEIREDO",
     "Qualidade da Muda": "BOM",
     "Observações": null,
-    "Fazenda": null,
-    "Observações ": null,
-    "Unnamed: 19": null
+    "Fazenda": null
   },
   {
     "ID": "3861174",
@@ -4002,9 +3656,7 @@ window.QUALIDADE_MUDA_DATA = [
     "Responsável": "MABILA HELEN D FIGUEIREDO",
     "Qualidade da Muda": "BOM",
     "Observações": null,
-    "Fazenda": null,
-    "Observações ": null,
-    "Unnamed: 19": null
+    "Fazenda": null
   },
   {
     "ID": "3859031",
@@ -4025,9 +3677,7 @@ window.QUALIDADE_MUDA_DATA = [
     "Responsável": "MABILA HELEN D FIGUEIREDO",
     "Qualidade da Muda": "BOM",
     "Observações": null,
-    "Fazenda": null,
-    "Observações ": null,
-    "Unnamed: 19": null
+    "Fazenda": null
   },
   {
     "ID": "3859025",
@@ -4048,9 +3698,7 @@ window.QUALIDADE_MUDA_DATA = [
     "Responsável": "MABILA HELEN D FIGUEIREDO",
     "Qualidade da Muda": "BOM",
     "Observações": null,
-    "Fazenda": null,
-    "Observações ": null,
-    "Unnamed: 19": null
+    "Fazenda": null
   },
   {
     "ID": "3859022",
@@ -4071,9 +3719,7 @@ window.QUALIDADE_MUDA_DATA = [
     "Responsável": "MABILA HELEN D FIGUEIREDO",
     "Qualidade da Muda": "BOM",
     "Observações": null,
-    "Fazenda": null,
-    "Observações ": null,
-    "Unnamed: 19": null
+    "Fazenda": null
   },
   {
     "ID": "3859020",
@@ -4094,9 +3740,7 @@ window.QUALIDADE_MUDA_DATA = [
     "Responsável": "MABILA HELEN D FIGUEIREDO",
     "Qualidade da Muda": "BOM",
     "Observações": null,
-    "Fazenda": null,
-    "Observações ": null,
-    "Unnamed: 19": null
+    "Fazenda": null
   },
   {
     "ID": "3859015",
@@ -4117,9 +3761,7 @@ window.QUALIDADE_MUDA_DATA = [
     "Responsável": "MABILA HELEN D FIGUEIREDO",
     "Qualidade da Muda": "BOM",
     "Observações": null,
-    "Fazenda": null,
-    "Observações ": null,
-    "Unnamed: 19": null
+    "Fazenda": null
   },
   {
     "ID": "3859006",
@@ -4140,9 +3782,7 @@ window.QUALIDADE_MUDA_DATA = [
     "Responsável": "MABILA HELEN D FIGUEIREDO",
     "Qualidade da Muda": "BOM",
     "Observações": null,
-    "Fazenda": null,
-    "Observações ": null,
-    "Unnamed: 19": null
+    "Fazenda": null
   },
   {
     "ID": "3859002",
@@ -4163,9 +3803,7 @@ window.QUALIDADE_MUDA_DATA = [
     "Responsável": "MABILA HELEN D FIGUEIREDO",
     "Qualidade da Muda": "BOM",
     "Observações": null,
-    "Fazenda": null,
-    "Observações ": null,
-    "Unnamed: 19": null
+    "Fazenda": null
   },
   {
     "ID": "3858998",
@@ -4186,9 +3824,7 @@ window.QUALIDADE_MUDA_DATA = [
     "Responsável": "MABILA HELEN D FIGUEIREDO",
     "Qualidade da Muda": "BOM",
     "Observações": null,
-    "Fazenda": null,
-    "Observações ": null,
-    "Unnamed: 19": null
+    "Fazenda": null
   },
   {
     "ID": "3858993",
@@ -4209,9 +3845,7 @@ window.QUALIDADE_MUDA_DATA = [
     "Responsável": "MABILA HELEN D FIGUEIREDO",
     "Qualidade da Muda": "BOM",
     "Observações": null,
-    "Fazenda": null,
-    "Observações ": null,
-    "Unnamed: 19": null
+    "Fazenda": null
   },
   {
     "ID": "3858988",
@@ -4232,9 +3866,7 @@ window.QUALIDADE_MUDA_DATA = [
     "Responsável": "MABILA HELEN D FIGUEIREDO",
     "Qualidade da Muda": "BOM",
     "Observações": null,
-    "Fazenda": null,
-    "Observações ": null,
-    "Unnamed: 19": null
+    "Fazenda": null
   },
   {
     "ID": "3855175",
@@ -4255,9 +3887,7 @@ window.QUALIDADE_MUDA_DATA = [
     "Responsável": "MABILA HELEN D FIGUEIREDO",
     "Qualidade da Muda": "BOM",
     "Observações": null,
-    "Fazenda": null,
-    "Observações ": null,
-    "Unnamed: 19": null
+    "Fazenda": null
   },
   {
     "ID": "3855169",
@@ -4278,9 +3908,7 @@ window.QUALIDADE_MUDA_DATA = [
     "Responsável": "MABILA HELEN D FIGUEIREDO",
     "Qualidade da Muda": "BOM",
     "Observações": null,
-    "Fazenda": null,
-    "Observações ": null,
-    "Unnamed: 19": null
+    "Fazenda": null
   },
   {
     "ID": "3855168",
@@ -4301,9 +3929,7 @@ window.QUALIDADE_MUDA_DATA = [
     "Responsável": "MABILA HELEN D FIGUEIREDO",
     "Qualidade da Muda": "BOM",
     "Observações": null,
-    "Fazenda": null,
-    "Observações ": null,
-    "Unnamed: 19": null
+    "Fazenda": null
   },
   {
     "ID": "3855161",
@@ -4324,9 +3950,7 @@ window.QUALIDADE_MUDA_DATA = [
     "Responsável": "MABILA HELEN D FIGUEIREDO",
     "Qualidade da Muda": "BOM",
     "Observações": null,
-    "Fazenda": null,
-    "Observações ": null,
-    "Unnamed: 19": null
+    "Fazenda": null
   },
   {
     "ID": "3855152",
@@ -4347,9 +3971,7 @@ window.QUALIDADE_MUDA_DATA = [
     "Responsável": "MABILA HELEN D FIGUEIREDO",
     "Qualidade da Muda": "BOM",
     "Observações": null,
-    "Fazenda": null,
-    "Observações ": null,
-    "Unnamed: 19": null
+    "Fazenda": null
   },
   {
     "ID": "3855148",
@@ -4370,9 +3992,7 @@ window.QUALIDADE_MUDA_DATA = [
     "Responsável": "MABILA HELEN D FIGUEIREDO",
     "Qualidade da Muda": "BOM",
     "Observações": null,
-    "Fazenda": null,
-    "Observações ": null,
-    "Unnamed: 19": null
+    "Fazenda": null
   },
   {
     "ID": "3854881",
@@ -4393,9 +4013,7 @@ window.QUALIDADE_MUDA_DATA = [
     "Responsável": "MABILA HELEN D FIGUEIREDO",
     "Qualidade da Muda": "BOM",
     "Observações": null,
-    "Fazenda": null,
-    "Observações ": null,
-    "Unnamed: 19": null
+    "Fazenda": null
   },
   {
     "ID": "3854877",
@@ -4416,9 +4034,7 @@ window.QUALIDADE_MUDA_DATA = [
     "Responsável": "MABILA HELEN D FIGUEIREDO",
     "Qualidade da Muda": "BOM",
     "Observações": null,
-    "Fazenda": null,
-    "Observações ": null,
-    "Unnamed: 19": null
+    "Fazenda": null
   },
   {
     "ID": "3854874",
@@ -4439,9 +4055,7 @@ window.QUALIDADE_MUDA_DATA = [
     "Responsável": "MABILA HELEN D FIGUEIREDO",
     "Qualidade da Muda": "BOM",
     "Observações": null,
-    "Fazenda": null,
-    "Observações ": null,
-    "Unnamed: 19": null
+    "Fazenda": null
   },
   {
     "ID": "3854869",
@@ -4462,9 +4076,7 @@ window.QUALIDADE_MUDA_DATA = [
     "Responsável": "MABILA HELEN D FIGUEIREDO",
     "Qualidade da Muda": "BOM",
     "Observações": null,
-    "Fazenda": null,
-    "Observações ": null,
-    "Unnamed: 19": null
+    "Fazenda": null
   },
   {
     "ID": "3854866",
@@ -4485,9 +4097,7 @@ window.QUALIDADE_MUDA_DATA = [
     "Responsável": "MABILA HELEN D FIGUEIREDO",
     "Qualidade da Muda": "BOM",
     "Observações": null,
-    "Fazenda": null,
-    "Observações ": null,
-    "Unnamed: 19": null
+    "Fazenda": null
   },
   {
     "ID": "3852418",
@@ -4508,9 +4118,7 @@ window.QUALIDADE_MUDA_DATA = [
     "Responsável": "MABILA HELEN D FIGUEIREDO",
     "Qualidade da Muda": "BOM",
     "Observações": null,
-    "Fazenda": null,
-    "Observações ": null,
-    "Unnamed: 19": null
+    "Fazenda": null
   },
   {
     "ID": "3852414",
@@ -4531,9 +4139,7 @@ window.QUALIDADE_MUDA_DATA = [
     "Responsável": "MABILA HELEN D FIGUEIREDO",
     "Qualidade da Muda": "BOM",
     "Observações": null,
-    "Fazenda": null,
-    "Observações ": null,
-    "Unnamed: 19": null
+    "Fazenda": null
   },
   {
     "ID": "3852408",
@@ -4554,9 +4160,7 @@ window.QUALIDADE_MUDA_DATA = [
     "Responsável": "MABILA HELEN D FIGUEIREDO",
     "Qualidade da Muda": "BOM",
     "Observações": null,
-    "Fazenda": null,
-    "Observações ": null,
-    "Unnamed: 19": null
+    "Fazenda": null
   },
   {
     "ID": "3852403",
@@ -4577,9 +4181,7 @@ window.QUALIDADE_MUDA_DATA = [
     "Responsável": "MABILA HELEN D FIGUEIREDO",
     "Qualidade da Muda": "BOM",
     "Observações": null,
-    "Fazenda": null,
-    "Observações ": null,
-    "Unnamed: 19": null
+    "Fazenda": null
   },
   {
     "ID": "3852397",
@@ -4600,9 +4202,7 @@ window.QUALIDADE_MUDA_DATA = [
     "Responsável": "MABILA HELEN D FIGUEIREDO",
     "Qualidade da Muda": "BOM",
     "Observações": null,
-    "Fazenda": null,
-    "Observações ": null,
-    "Unnamed: 19": null
+    "Fazenda": null
   },
   {
     "ID": "3852390",
@@ -4623,9 +4223,7 @@ window.QUALIDADE_MUDA_DATA = [
     "Responsável": "MABILA HELEN D FIGUEIREDO",
     "Qualidade da Muda": "BOM",
     "Observações": null,
-    "Fazenda": null,
-    "Observações ": null,
-    "Unnamed: 19": null
+    "Fazenda": null
   },
   {
     "ID": "3852385",
@@ -4646,9 +4244,7 @@ window.QUALIDADE_MUDA_DATA = [
     "Responsável": "MABILA HELEN D FIGUEIREDO",
     "Qualidade da Muda": "BOM",
     "Observações": null,
-    "Fazenda": null,
-    "Observações ": null,
-    "Unnamed: 19": null
+    "Fazenda": null
   },
   {
     "ID": "3852382",
@@ -4669,9 +4265,7 @@ window.QUALIDADE_MUDA_DATA = [
     "Responsável": "MABILA HELEN D FIGUEIREDO",
     "Qualidade da Muda": "BOM",
     "Observações": null,
-    "Fazenda": null,
-    "Observações ": null,
-    "Unnamed: 19": null
+    "Fazenda": null
   },
   {
     "ID": "3849787",
@@ -4692,9 +4286,7 @@ window.QUALIDADE_MUDA_DATA = [
     "Responsável": "MABILA HELEN D FIGUEIREDO",
     "Qualidade da Muda": "BOM",
     "Observações": null,
-    "Fazenda": null,
-    "Observações ": null,
-    "Unnamed: 19": null
+    "Fazenda": null
   },
   {
     "ID": "3849783",
@@ -4715,9 +4307,7 @@ window.QUALIDADE_MUDA_DATA = [
     "Responsável": "MABILA HELEN D FIGUEIREDO",
     "Qualidade da Muda": "BOM",
     "Observações": null,
-    "Fazenda": null,
-    "Observações ": null,
-    "Unnamed: 19": null
+    "Fazenda": null
   },
   {
     "ID": "3849772",
@@ -4738,9 +4328,7 @@ window.QUALIDADE_MUDA_DATA = [
     "Responsável": "MABILA HELEN D FIGUEIREDO",
     "Qualidade da Muda": "BOM",
     "Observações": null,
-    "Fazenda": null,
-    "Observações ": null,
-    "Unnamed: 19": null
+    "Fazenda": null
   },
   {
     "ID": "3849768",
@@ -4761,9 +4349,7 @@ window.QUALIDADE_MUDA_DATA = [
     "Responsável": "MABILA HELEN D FIGUEIREDO",
     "Qualidade da Muda": "BOM",
     "Observações": null,
-    "Fazenda": null,
-    "Observações ": null,
-    "Unnamed: 19": null
+    "Fazenda": null
   },
   {
     "ID": "3849762",
@@ -4784,9 +4370,7 @@ window.QUALIDADE_MUDA_DATA = [
     "Responsável": "MABILA HELEN D FIGUEIREDO",
     "Qualidade da Muda": "BOM",
     "Observações": null,
-    "Fazenda": null,
-    "Observações ": null,
-    "Unnamed: 19": null
+    "Fazenda": null
   },
   {
     "ID": "3846845",
@@ -4807,9 +4391,7 @@ window.QUALIDADE_MUDA_DATA = [
     "Responsável": "MABILA HELEN D FIGUEIREDO",
     "Qualidade da Muda": "BOM",
     "Observações": null,
-    "Fazenda": null,
-    "Observações ": null,
-    "Unnamed: 19": null
+    "Fazenda": null
   },
   {
     "ID": "3846838",
@@ -4830,9 +4412,7 @@ window.QUALIDADE_MUDA_DATA = [
     "Responsável": "MABILA HELEN D FIGUEIREDO",
     "Qualidade da Muda": "BOM",
     "Observações": null,
-    "Fazenda": null,
-    "Observações ": null,
-    "Unnamed: 19": null
+    "Fazenda": null
   },
   {
     "ID": "3846829",
@@ -4853,9 +4433,7 @@ window.QUALIDADE_MUDA_DATA = [
     "Responsável": "MABILA HELEN D FIGUEIREDO",
     "Qualidade da Muda": "BOM",
     "Observações": null,
-    "Fazenda": null,
-    "Observações ": null,
-    "Unnamed: 19": null
+    "Fazenda": null
   },
   {
     "ID": "3846823",
@@ -4876,9 +4454,7 @@ window.QUALIDADE_MUDA_DATA = [
     "Responsável": "MABILA HELEN D FIGUEIREDO",
     "Qualidade da Muda": "BOM",
     "Observações": null,
-    "Fazenda": null,
-    "Observações ": null,
-    "Unnamed: 19": null
+    "Fazenda": null
   },
   {
     "ID": "3846818",
@@ -4899,9 +4475,7 @@ window.QUALIDADE_MUDA_DATA = [
     "Responsável": "MABILA HELEN D FIGUEIREDO",
     "Qualidade da Muda": "BOM",
     "Observações": null,
-    "Fazenda": null,
-    "Observações ": null,
-    "Unnamed: 19": null
+    "Fazenda": null
   },
   {
     "ID": "3846813",
@@ -4922,9 +4496,7 @@ window.QUALIDADE_MUDA_DATA = [
     "Responsável": "MABILA HELEN D FIGUEIREDO",
     "Qualidade da Muda": "BOM",
     "Observações": null,
-    "Fazenda": null,
-    "Observações ": null,
-    "Unnamed: 19": null
+    "Fazenda": null
   },
   {
     "ID": "3846809",
@@ -4945,9 +4517,7 @@ window.QUALIDADE_MUDA_DATA = [
     "Responsável": "MABILA HELEN D FIGUEIREDO",
     "Qualidade da Muda": "BOM",
     "Observações": null,
-    "Fazenda": null,
-    "Observações ": null,
-    "Unnamed: 19": null
+    "Fazenda": null
   },
   {
     "ID": "3843651",
@@ -4968,9 +4538,7 @@ window.QUALIDADE_MUDA_DATA = [
     "Responsável": "MABILA HELEN D FIGUEIREDO",
     "Qualidade da Muda": "BOM",
     "Observações": null,
-    "Fazenda": null,
-    "Observações ": null,
-    "Unnamed: 19": null
+    "Fazenda": null
   },
   {
     "ID": "3843647",
@@ -4991,9 +4559,7 @@ window.QUALIDADE_MUDA_DATA = [
     "Responsável": "MABILA HELEN D FIGUEIREDO",
     "Qualidade da Muda": "BOM",
     "Observações": null,
-    "Fazenda": null,
-    "Observações ": null,
-    "Unnamed: 19": null
+    "Fazenda": null
   },
   {
     "ID": "3641093",
@@ -5014,9 +4580,7 @@ window.QUALIDADE_MUDA_DATA = [
     "Responsável": "MARCELO DE OLIVEIRA JUNIOR",
     "Qualidade da Muda": "BOM",
     "Observações": null,
-    "Fazenda": null,
-    "Observações ": null,
-    "Unnamed: 19": null
+    "Fazenda": null
   },
   {
     "ID": "3641087",
@@ -5037,9 +4601,7 @@ window.QUALIDADE_MUDA_DATA = [
     "Responsável": "MARCELO DE OLIVEIRA JUNIOR",
     "Qualidade da Muda": "BOM",
     "Observações": null,
-    "Fazenda": null,
-    "Observações ": null,
-    "Unnamed: 19": null
+    "Fazenda": null
   },
   {
     "ID": "3641082",
@@ -5060,9 +4622,7 @@ window.QUALIDADE_MUDA_DATA = [
     "Responsável": "MARCELO DE OLIVEIRA JUNIOR",
     "Qualidade da Muda": "BOM",
     "Observações": null,
-    "Fazenda": null,
-    "Observações ": null,
-    "Unnamed: 19": null
+    "Fazenda": null
   },
   {
     "ID": "3641071",
@@ -5083,9 +4643,7 @@ window.QUALIDADE_MUDA_DATA = [
     "Responsável": "MARCELO DE OLIVEIRA JUNIOR",
     "Qualidade da Muda": "BOM",
     "Observações": null,
-    "Fazenda": null,
-    "Observações ": null,
-    "Unnamed: 19": null
+    "Fazenda": null
   },
   {
     "ID": "3638338",
@@ -5106,9 +4664,7 @@ window.QUALIDADE_MUDA_DATA = [
     "Responsável": "NILDA CLAUDINO [2510716]",
     "Qualidade da Muda": "BOM",
     "Observações": null,
-    "Fazenda": null,
-    "Observações ": null,
-    "Unnamed: 19": null
+    "Fazenda": null
   },
   {
     "ID": "3638334",
@@ -5129,9 +4685,7 @@ window.QUALIDADE_MUDA_DATA = [
     "Responsável": "NILDA CLAUDINO [2510716]",
     "Qualidade da Muda": "BOM",
     "Observações": null,
-    "Fazenda": null,
-    "Observações ": null,
-    "Unnamed: 19": null
+    "Fazenda": null
   },
   {
     "ID": "3638330",
@@ -5152,9 +4706,7 @@ window.QUALIDADE_MUDA_DATA = [
     "Responsável": "NILDA CLAUDINO [2510716]",
     "Qualidade da Muda": "BOM",
     "Observações": null,
-    "Fazenda": null,
-    "Observações ": null,
-    "Unnamed: 19": null
+    "Fazenda": null
   },
   {
     "ID": "3638322",
@@ -5175,9 +4727,7 @@ window.QUALIDADE_MUDA_DATA = [
     "Responsável": "NILDA CLAUDINO [2510716]",
     "Qualidade da Muda": "BOM",
     "Observações": null,
-    "Fazenda": null,
-    "Observações ": null,
-    "Unnamed: 19": null
+    "Fazenda": null
   },
   {
     "ID": "3638318",
@@ -5198,9 +4748,7 @@ window.QUALIDADE_MUDA_DATA = [
     "Responsável": "NILDA CLAUDINO [2510716]",
     "Qualidade da Muda": "BOM",
     "Observações": null,
-    "Fazenda": null,
-    "Observações ": null,
-    "Unnamed: 19": null
+    "Fazenda": null
   },
   {
     "ID": "3635342",
@@ -5221,9 +4769,7 @@ window.QUALIDADE_MUDA_DATA = [
     "Responsável": "NILDA CLAUDINO [2510716]",
     "Qualidade da Muda": "BOM",
     "Observações": null,
-    "Fazenda": null,
-    "Observações ": null,
-    "Unnamed: 19": null
+    "Fazenda": null
   },
   {
     "ID": "3635331",
@@ -5244,9 +4790,7 @@ window.QUALIDADE_MUDA_DATA = [
     "Responsável": "NILDA CLAUDINO [2510716]",
     "Qualidade da Muda": "BOM",
     "Observações": null,
-    "Fazenda": null,
-    "Observações ": null,
-    "Unnamed: 19": null
+    "Fazenda": null
   },
   {
     "ID": "3635322",
@@ -5267,9 +4811,7 @@ window.QUALIDADE_MUDA_DATA = [
     "Responsável": "NILDA CLAUDINO [2510716]",
     "Qualidade da Muda": "BOM",
     "Observações": null,
-    "Fazenda": null,
-    "Observações ": null,
-    "Unnamed: 19": null
+    "Fazenda": null
   },
   {
     "ID": "3635312",
@@ -5290,9 +4832,7 @@ window.QUALIDADE_MUDA_DATA = [
     "Responsável": "NILDA CLAUDINO [2510716]",
     "Qualidade da Muda": "BOM",
     "Observações": null,
-    "Fazenda": null,
-    "Observações ": null,
-    "Unnamed: 19": null
+    "Fazenda": null
   },
   {
     "ID": "3636032",
@@ -5313,9 +4853,7 @@ window.QUALIDADE_MUDA_DATA = [
     "Responsável": "MARCELO DE OLIVEIRA JUNIOR",
     "Qualidade da Muda": "BOM",
     "Observações": null,
-    "Fazenda": null,
-    "Observações ": null,
-    "Unnamed: 19": null
+    "Fazenda": null
   },
   {
     "ID": "3636030",
@@ -5336,9 +4874,7 @@ window.QUALIDADE_MUDA_DATA = [
     "Responsável": "MARCELO DE OLIVEIRA JUNIOR",
     "Qualidade da Muda": "BOM",
     "Observações": null,
-    "Fazenda": null,
-    "Observações ": null,
-    "Unnamed: 19": null
+    "Fazenda": null
   },
   {
     "ID": "3635307",
@@ -5359,9 +4895,7 @@ window.QUALIDADE_MUDA_DATA = [
     "Responsável": "NILDA CLAUDINO [2510716]",
     "Qualidade da Muda": "BOM",
     "Observações": null,
-    "Fazenda": null,
-    "Observações ": null,
-    "Unnamed: 19": null
+    "Fazenda": null
   },
   {
     "ID": "3636023",
@@ -5382,9 +4916,7 @@ window.QUALIDADE_MUDA_DATA = [
     "Responsável": "MARCELO DE OLIVEIRA JUNIOR",
     "Qualidade da Muda": "BOM",
     "Observações": null,
-    "Fazenda": null,
-    "Observações ": null,
-    "Unnamed: 19": null
+    "Fazenda": null
   },
   {
     "ID": "3635303",
@@ -5405,9 +4937,7 @@ window.QUALIDADE_MUDA_DATA = [
     "Responsável": "NILDA CLAUDINO [2510716]",
     "Qualidade da Muda": "BOM",
     "Observações": null,
-    "Fazenda": null,
-    "Observações ": null,
-    "Unnamed: 19": null
+    "Fazenda": null
   },
   {
     "ID": "3635299",
@@ -5428,9 +4958,7 @@ window.QUALIDADE_MUDA_DATA = [
     "Responsável": "NILDA CLAUDINO [2510716]",
     "Qualidade da Muda": "BOM",
     "Observações": null,
-    "Fazenda": null,
-    "Observações ": null,
-    "Unnamed: 19": null
+    "Fazenda": null
   },
   {
     "ID": "3635248",
@@ -5451,9 +4979,7 @@ window.QUALIDADE_MUDA_DATA = [
     "Responsável": "NILDA CLAUDINO [2510716]",
     "Qualidade da Muda": "BOM",
     "Observações": null,
-    "Fazenda": null,
-    "Observações ": null,
-    "Unnamed: 19": null
+    "Fazenda": null
   },
   {
     "ID": "3633053",
@@ -5474,9 +5000,7 @@ window.QUALIDADE_MUDA_DATA = [
     "Responsável": "NILDA CLAUDINO [2510716]",
     "Qualidade da Muda": "BOM",
     "Observações": null,
-    "Fazenda": null,
-    "Observações ": null,
-    "Unnamed: 19": null
+    "Fazenda": null
   },
   {
     "ID": "3633049",
@@ -5497,9 +5021,7 @@ window.QUALIDADE_MUDA_DATA = [
     "Responsável": "NILDA CLAUDINO [2510716]",
     "Qualidade da Muda": "BOM",
     "Observações": null,
-    "Fazenda": null,
-    "Observações ": null,
-    "Unnamed: 19": null
+    "Fazenda": null
   },
   {
     "ID": "3633040",
@@ -5520,9 +5042,7 @@ window.QUALIDADE_MUDA_DATA = [
     "Responsável": "NILDA CLAUDINO [2510716]",
     "Qualidade da Muda": "BOM",
     "Observações": null,
-    "Fazenda": null,
-    "Observações ": null,
-    "Unnamed: 19": null
+    "Fazenda": null
   },
   {
     "ID": "3633036",
@@ -5543,9 +5063,7 @@ window.QUALIDADE_MUDA_DATA = [
     "Responsável": "NILDA CLAUDINO [2510716]",
     "Qualidade da Muda": "BOM",
     "Observações": null,
-    "Fazenda": null,
-    "Observações ": null,
-    "Unnamed: 19": null
+    "Fazenda": null
   },
   {
     "ID": "3633031",
@@ -5566,9 +5084,7 @@ window.QUALIDADE_MUDA_DATA = [
     "Responsável": "NILDA CLAUDINO [2510716]",
     "Qualidade da Muda": "BOM",
     "Observações": null,
-    "Fazenda": null,
-    "Observações ": null,
-    "Unnamed: 19": null
+    "Fazenda": null
   },
   {
     "ID": "3633027",
@@ -5589,9 +5105,7 @@ window.QUALIDADE_MUDA_DATA = [
     "Responsável": "NILDA CLAUDINO [2510716]",
     "Qualidade da Muda": "BOM",
     "Observações": null,
-    "Fazenda": null,
-    "Observações ": null,
-    "Unnamed: 19": null
+    "Fazenda": null
   },
   {
     "ID": "3632407",
@@ -5612,9 +5126,7 @@ window.QUALIDADE_MUDA_DATA = [
     "Responsável": "MARCELO DE OLIVEIRA JUNIOR",
     "Qualidade da Muda": "BOM",
     "Observações": null,
-    "Fazenda": null,
-    "Observações ": null,
-    "Unnamed: 19": null
+    "Fazenda": null
   },
   {
     "ID": "3632355",
@@ -5635,9 +5147,7 @@ window.QUALIDADE_MUDA_DATA = [
     "Responsável": "MARCELO DE OLIVEIRA JUNIOR",
     "Qualidade da Muda": "BOM",
     "Observações": null,
-    "Fazenda": null,
-    "Observações ": null,
-    "Unnamed: 19": null
+    "Fazenda": null
   },
   {
     "ID": "3632350",
@@ -5658,9 +5168,7 @@ window.QUALIDADE_MUDA_DATA = [
     "Responsável": "MARCELO DE OLIVEIRA JUNIOR",
     "Qualidade da Muda": "BOM",
     "Observações": null,
-    "Fazenda": null,
-    "Observações ": null,
-    "Unnamed: 19": null
+    "Fazenda": null
   },
   {
     "ID": "3632345",
@@ -5681,9 +5189,7 @@ window.QUALIDADE_MUDA_DATA = [
     "Responsável": "MARCELO DE OLIVEIRA JUNIOR",
     "Qualidade da Muda": "BOM",
     "Observações": null,
-    "Fazenda": null,
-    "Observações ": null,
-    "Unnamed: 19": null
+    "Fazenda": null
   },
   {
     "ID": "3632342",
@@ -5704,9 +5210,7 @@ window.QUALIDADE_MUDA_DATA = [
     "Responsável": "MARCELO DE OLIVEIRA JUNIOR",
     "Qualidade da Muda": "BOM",
     "Observações": null,
-    "Fazenda": null,
-    "Observações ": null,
-    "Unnamed: 19": null
+    "Fazenda": null
   },
   {
     "ID": "3628860",
@@ -5727,9 +5231,7 @@ window.QUALIDADE_MUDA_DATA = [
     "Responsável": "FERNANDA DE SOUZA ",
     "Qualidade da Muda": "BOM",
     "Observações": null,
-    "Fazenda": null,
-    "Observações ": null,
-    "Unnamed: 19": null
+    "Fazenda": null
   },
   {
     "ID": "3628858",
@@ -5750,9 +5252,7 @@ window.QUALIDADE_MUDA_DATA = [
     "Responsável": "FERNANDA DE SOUZA ",
     "Qualidade da Muda": "BOM",
     "Observações": null,
-    "Fazenda": null,
-    "Observações ": null,
-    "Unnamed: 19": null
+    "Fazenda": null
   },
   {
     "ID": "3629713",
@@ -5773,9 +5273,7 @@ window.QUALIDADE_MUDA_DATA = [
     "Responsável": " Antonio ",
     "Qualidade da Muda": "BOM",
     "Observações": null,
-    "Fazenda": null,
-    "Observações ": null,
-    "Unnamed: 19": null
+    "Fazenda": null
   },
   {
     "ID": "3628882",
@@ -5796,9 +5294,7 @@ window.QUALIDADE_MUDA_DATA = [
     "Responsável": "NILDA CLAUDINO [2510716]",
     "Qualidade da Muda": "BOM",
     "Observações": null,
-    "Fazenda": null,
-    "Observações ": null,
-    "Unnamed: 19": null
+    "Fazenda": null
   },
   {
     "ID": "3629706",
@@ -5819,9 +5315,7 @@ window.QUALIDADE_MUDA_DATA = [
     "Responsável": " Antonio ",
     "Qualidade da Muda": "BOM",
     "Observações": null,
-    "Fazenda": null,
-    "Observações ": null,
-    "Unnamed: 19": null
+    "Fazenda": null
   },
   {
     "ID": "3628850",
@@ -5842,9 +5336,7 @@ window.QUALIDADE_MUDA_DATA = [
     "Responsável": "FERNANDA DE SOUZA ",
     "Qualidade da Muda": "BOM",
     "Observações": null,
-    "Fazenda": null,
-    "Observações ": null,
-    "Unnamed: 19": null
+    "Fazenda": null
   },
   {
     "ID": "3628810",
@@ -5865,9 +5357,7 @@ window.QUALIDADE_MUDA_DATA = [
     "Responsável": "NILDA CLAUDINO [2510716]",
     "Qualidade da Muda": "BOM",
     "Observações": null,
-    "Fazenda": null,
-    "Observações ": null,
-    "Unnamed: 19": null
+    "Fazenda": null
   },
   {
     "ID": "3628848",
@@ -5888,9 +5378,7 @@ window.QUALIDADE_MUDA_DATA = [
     "Responsável": "FERNANDA DE SOUZA ",
     "Qualidade da Muda": "BOM",
     "Observações": null,
-    "Fazenda": null,
-    "Observações ": null,
-    "Unnamed: 19": null
+    "Fazenda": null
   },
   {
     "ID": "3628845",
@@ -5911,9 +5399,7 @@ window.QUALIDADE_MUDA_DATA = [
     "Responsável": "FERNANDA DE SOUZA ",
     "Qualidade da Muda": "BOM",
     "Observações": null,
-    "Fazenda": null,
-    "Observações ": null,
-    "Unnamed: 19": null
+    "Fazenda": null
   },
   {
     "ID": "3628875",
@@ -5934,9 +5420,7 @@ window.QUALIDADE_MUDA_DATA = [
     "Responsável": "NILDA CLAUDINO [2510716]",
     "Qualidade da Muda": "BOM",
     "Observações": null,
-    "Fazenda": null,
-    "Observações ": null,
-    "Unnamed: 19": null
+    "Fazenda": null
   },
   {
     "ID": "3628870",
@@ -5957,9 +5441,7 @@ window.QUALIDADE_MUDA_DATA = [
     "Responsável": "NILDA CLAUDINO [2510716]",
     "Qualidade da Muda": "BOM",
     "Observações": null,
-    "Fazenda": null,
-    "Observações ": null,
-    "Unnamed: 19": null
+    "Fazenda": null
   },
   {
     "ID": "3628840",
@@ -5980,9 +5462,7 @@ window.QUALIDADE_MUDA_DATA = [
     "Responsável": "FERNANDA DE SOUZA ",
     "Qualidade da Muda": "BOM",
     "Observações": null,
-    "Fazenda": null,
-    "Observações ": null,
-    "Unnamed: 19": null
+    "Fazenda": null
   },
   {
     "ID": "3628793",
@@ -6003,9 +5483,7 @@ window.QUALIDADE_MUDA_DATA = [
     "Responsável": "NILDA CLAUDINO [2510716]",
     "Qualidade da Muda": "BOM",
     "Observações": null,
-    "Fazenda": null,
-    "Observações ": null,
-    "Unnamed: 19": null
+    "Fazenda": null
   },
   {
     "ID": "3628837",
@@ -6026,9 +5504,7 @@ window.QUALIDADE_MUDA_DATA = [
     "Responsável": "FERNANDA DE SOUZA ",
     "Qualidade da Muda": "BOM",
     "Observações": null,
-    "Fazenda": null,
-    "Observações ": null,
-    "Unnamed: 19": null
+    "Fazenda": null
   },
   {
     "ID": "3628787",
@@ -6049,9 +5525,7 @@ window.QUALIDADE_MUDA_DATA = [
     "Responsável": "NILDA CLAUDINO [2510716]",
     "Qualidade da Muda": "BOM",
     "Observações": null,
-    "Fazenda": null,
-    "Observações ": null,
-    "Unnamed: 19": null
+    "Fazenda": null
   },
   {
     "ID": "3628782",
@@ -6072,9 +5546,7 @@ window.QUALIDADE_MUDA_DATA = [
     "Responsável": "NILDA CLAUDINO [2510716]",
     "Qualidade da Muda": "BOM",
     "Observações": null,
-    "Fazenda": null,
-    "Observações ": null,
-    "Unnamed: 19": null
+    "Fazenda": null
   },
   {
     "ID": "3628778",
@@ -6095,9 +5567,7 @@ window.QUALIDADE_MUDA_DATA = [
     "Responsável": "NILDA CLAUDINO [2510716]",
     "Qualidade da Muda": "BOM",
     "Observações": null,
-    "Fazenda": null,
-    "Observações ": null,
-    "Unnamed: 19": null
+    "Fazenda": null
   },
   {
     "ID": "3628774",
@@ -6118,9 +5588,7 @@ window.QUALIDADE_MUDA_DATA = [
     "Responsável": "NILDA CLAUDINO [2510716]",
     "Qualidade da Muda": "BOM",
     "Observações": null,
-    "Fazenda": null,
-    "Observações ": null,
-    "Unnamed: 19": null
+    "Fazenda": null
   },
   {
     "ID": "3628761",
@@ -6141,9 +5609,7 @@ window.QUALIDADE_MUDA_DATA = [
     "Responsável": "NILDA CLAUDINO [2510716]",
     "Qualidade da Muda": "BOM",
     "Observações": null,
-    "Fazenda": null,
-    "Observações ": null,
-    "Unnamed: 19": null
+    "Fazenda": null
   },
   {
     "ID": "3628756",
@@ -6164,9 +5630,7 @@ window.QUALIDADE_MUDA_DATA = [
     "Responsável": "NILDA CLAUDINO [2510716]",
     "Qualidade da Muda": "BOM",
     "Observações": null,
-    "Fazenda": null,
-    "Observações ": null,
-    "Unnamed: 19": null
+    "Fazenda": null
   },
   {
     "ID": "3628937",
@@ -6187,9 +5651,7 @@ window.QUALIDADE_MUDA_DATA = [
     "Responsável": "MARCELO DE OLIVEIRA JUNIOR",
     "Qualidade da Muda": "BOM",
     "Observações": null,
-    "Fazenda": null,
-    "Observações ": null,
-    "Unnamed: 19": null
+    "Fazenda": null
   },
   {
     "ID": "3628751",
@@ -6210,9 +5672,7 @@ window.QUALIDADE_MUDA_DATA = [
     "Responsável": "NILDA CLAUDINO [2510716]",
     "Qualidade da Muda": "BOM",
     "Observações": null,
-    "Fazenda": null,
-    "Observações ": null,
-    "Unnamed: 19": null
+    "Fazenda": null
   },
   {
     "ID": "3628931",
@@ -6233,9 +5693,7 @@ window.QUALIDADE_MUDA_DATA = [
     "Responsável": "MARCELO DE OLIVEIRA JUNIOR",
     "Qualidade da Muda": "BOM",
     "Observações": null,
-    "Fazenda": null,
-    "Observações ": null,
-    "Unnamed: 19": null
+    "Fazenda": null
   },
   {
     "ID": "3628926",
@@ -6256,9 +5714,7 @@ window.QUALIDADE_MUDA_DATA = [
     "Responsável": "MARCELO DE OLIVEIRA JUNIOR",
     "Qualidade da Muda": "BOM",
     "Observações": null,
-    "Fazenda": null,
-    "Observações ": null,
-    "Unnamed: 19": null
+    "Fazenda": null
   },
   {
     "ID": "3627239",
@@ -6279,9 +5735,7 @@ window.QUALIDADE_MUDA_DATA = [
     "Responsável": "NILDA CLAUDINO [2510716]",
     "Qualidade da Muda": "BOM",
     "Observações": null,
-    "Fazenda": null,
-    "Observações ": null,
-    "Unnamed: 19": null
+    "Fazenda": null
   },
   {
     "ID": "3626954",
@@ -6302,9 +5756,7 @@ window.QUALIDADE_MUDA_DATA = [
     "Responsável": "VITOR AMORIM RAMOS ",
     "Qualidade da Muda": "BOM",
     "Observações": null,
-    "Fazenda": null,
-    "Observações ": null,
-    "Unnamed: 19": null
+    "Fazenda": null
   },
   {
     "ID": "3626950",
@@ -6325,9 +5777,7 @@ window.QUALIDADE_MUDA_DATA = [
     "Responsável": "VITOR AMORIM RAMOS ",
     "Qualidade da Muda": "BOM",
     "Observações": null,
-    "Fazenda": null,
-    "Observações ": null,
-    "Unnamed: 19": null
+    "Fazenda": null
   },
   {
     "ID": "3626945",
@@ -6348,9 +5798,7 @@ window.QUALIDADE_MUDA_DATA = [
     "Responsável": "VITOR AMORIM RAMOS ",
     "Qualidade da Muda": "BOM",
     "Observações": null,
-    "Fazenda": null,
-    "Observações ": null,
-    "Unnamed: 19": null
+    "Fazenda": null
   },
   {
     "ID": "3627056",
@@ -6371,9 +5819,7 @@ window.QUALIDADE_MUDA_DATA = [
     "Responsável": "NILDA CLAUDINO [2510716]",
     "Qualidade da Muda": "BOM",
     "Observações": null,
-    "Fazenda": null,
-    "Observações ": null,
-    "Unnamed: 19": null
+    "Fazenda": null
   },
   {
     "ID": "3627050",
@@ -6394,9 +5840,7 @@ window.QUALIDADE_MUDA_DATA = [
     "Responsável": "NILDA CLAUDINO [2510716]",
     "Qualidade da Muda": "BOM",
     "Observações": null,
-    "Fazenda": null,
-    "Observações ": null,
-    "Unnamed: 19": null
+    "Fazenda": null
   },
   {
     "ID": "3627044",
@@ -6417,9 +5861,7 @@ window.QUALIDADE_MUDA_DATA = [
     "Responsável": "NILDA CLAUDINO [2510716]",
     "Qualidade da Muda": "BOM",
     "Observações": null,
-    "Fazenda": null,
-    "Observações ": null,
-    "Unnamed: 19": null
+    "Fazenda": null
   },
   {
     "ID": "3626582",
@@ -6440,9 +5882,7 @@ window.QUALIDADE_MUDA_DATA = [
     "Responsável": "FERNANDA DE SOUZA ",
     "Qualidade da Muda": "BOM",
     "Observações": null,
-    "Fazenda": null,
-    "Observações ": null,
-    "Unnamed: 19": null
+    "Fazenda": null
   },
   {
     "ID": "3627039",
@@ -6463,9 +5903,7 @@ window.QUALIDADE_MUDA_DATA = [
     "Responsável": "NILDA CLAUDINO [2510716]",
     "Qualidade da Muda": "BOM",
     "Observações": null,
-    "Fazenda": null,
-    "Observações ": null,
-    "Unnamed: 19": null
+    "Fazenda": null
   },
   {
     "ID": "3626579",
@@ -6486,9 +5924,7 @@ window.QUALIDADE_MUDA_DATA = [
     "Responsável": "FERNANDA DE SOUZA ",
     "Qualidade da Muda": "BOM",
     "Observações": null,
-    "Fazenda": null,
-    "Observações ": null,
-    "Unnamed: 19": null
+    "Fazenda": null
   },
   {
     "ID": "3626577",
@@ -6509,9 +5945,7 @@ window.QUALIDADE_MUDA_DATA = [
     "Responsável": "FERNANDA DE SOUZA ",
     "Qualidade da Muda": "BOM",
     "Observações": null,
-    "Fazenda": null,
-    "Observações ": null,
-    "Unnamed: 19": null
+    "Fazenda": null
   },
   {
     "ID": "3627165",
@@ -6532,9 +5966,7 @@ window.QUALIDADE_MUDA_DATA = [
     "Responsável": "MICHELI DE SOUZA SANTOS  ",
     "Qualidade da Muda": "BOM",
     "Observações": null,
-    "Fazenda": null,
-    "Observações ": null,
-    "Unnamed: 19": null
+    "Fazenda": null
   },
   {
     "ID": "3627155",
@@ -6555,9 +5987,7 @@ window.QUALIDADE_MUDA_DATA = [
     "Responsável": "MICHELI DE SOUZA SANTOS  ",
     "Qualidade da Muda": "BOM",
     "Observações": null,
-    "Fazenda": null,
-    "Observações ": null,
-    "Unnamed: 19": null
+    "Fazenda": null
   },
   {
     "ID": "3626576",
@@ -6578,9 +6008,7 @@ window.QUALIDADE_MUDA_DATA = [
     "Responsável": "FERNANDA DE SOUZA ",
     "Qualidade da Muda": "BOM",
     "Observações": null,
-    "Fazenda": null,
-    "Observações ": null,
-    "Unnamed: 19": null
+    "Fazenda": null
   },
   {
     "ID": "3627031",
@@ -6601,9 +6029,7 @@ window.QUALIDADE_MUDA_DATA = [
     "Responsável": "NILDA CLAUDINO [2510716]",
     "Qualidade da Muda": "BOM",
     "Observações": null,
-    "Fazenda": null,
-    "Observações ": null,
-    "Unnamed: 19": null
+    "Fazenda": null
   },
   {
     "ID": "3626406",
@@ -6624,9 +6050,7 @@ window.QUALIDADE_MUDA_DATA = [
     "Responsável": "VITOR AMORIM RAMOS ",
     "Qualidade da Muda": "BOM",
     "Observações": null,
-    "Fazenda": null,
-    "Observações ": null,
-    "Unnamed: 19": null
+    "Fazenda": null
   },
   {
     "ID": "3626573",
@@ -6647,9 +6071,7 @@ window.QUALIDADE_MUDA_DATA = [
     "Responsável": "FERNANDA DE SOUZA ",
     "Qualidade da Muda": "BOM",
     "Observações": null,
-    "Fazenda": null,
-    "Observações ": null,
-    "Unnamed: 19": null
+    "Fazenda": null
   },
   {
     "ID": "3627028",
@@ -6670,9 +6092,7 @@ window.QUALIDADE_MUDA_DATA = [
     "Responsável": "NILDA CLAUDINO [2510716]",
     "Qualidade da Muda": "BOM",
     "Observações": null,
-    "Fazenda": null,
-    "Observações ": null,
-    "Unnamed: 19": null
+    "Fazenda": null
   },
   {
     "ID": "3626571",
@@ -6693,9 +6113,7 @@ window.QUALIDADE_MUDA_DATA = [
     "Responsável": "FERNANDA DE SOUZA ",
     "Qualidade da Muda": "BOM",
     "Observações": null,
-    "Fazenda": null,
-    "Observações ": null,
-    "Unnamed: 19": null
+    "Fazenda": null
   },
   {
     "ID": "3626400",
@@ -6716,9 +6134,7 @@ window.QUALIDADE_MUDA_DATA = [
     "Responsável": "VITOR AMORIM RAMOS ",
     "Qualidade da Muda": "BOM",
     "Observações": null,
-    "Fazenda": null,
-    "Observações ": null,
-    "Unnamed: 19": null
+    "Fazenda": null
   },
   {
     "ID": "3626395",
@@ -6739,9 +6155,7 @@ window.QUALIDADE_MUDA_DATA = [
     "Responsável": "VITOR AMORIM RAMOS ",
     "Qualidade da Muda": "BOM",
     "Observações": null,
-    "Fazenda": null,
-    "Observações ": null,
-    "Unnamed: 19": null
+    "Fazenda": null
   },
   {
     "ID": "3626390",
@@ -6762,9 +6176,7 @@ window.QUALIDADE_MUDA_DATA = [
     "Responsável": "VITOR AMORIM RAMOS ",
     "Qualidade da Muda": "BOM",
     "Observações": null,
-    "Fazenda": null,
-    "Observações ": null,
-    "Unnamed: 19": null
+    "Fazenda": null
   },
   {
     "ID": "3627183",
@@ -6785,9 +6197,7 @@ window.QUALIDADE_MUDA_DATA = [
     "Responsável": "NILDA CLAUDINO [2510716]",
     "Qualidade da Muda": "BOM",
     "Observações": null,
-    "Fazenda": null,
-    "Observações ": null,
-    "Unnamed: 19": null
+    "Fazenda": null
   },
   {
     "ID": "3626385",
@@ -6808,9 +6218,7 @@ window.QUALIDADE_MUDA_DATA = [
     "Responsável": "VITOR AMORIM RAMOS ",
     "Qualidade da Muda": "BOM",
     "Observações": null,
-    "Fazenda": null,
-    "Observações ": null,
-    "Unnamed: 19": null
+    "Fazenda": null
   },
   {
     "ID": "3627180",
@@ -6831,9 +6239,7 @@ window.QUALIDADE_MUDA_DATA = [
     "Responsável": "NILDA CLAUDINO [2510716]",
     "Qualidade da Muda": "BOM",
     "Observações": null,
-    "Fazenda": null,
-    "Observações ": null,
-    "Unnamed: 19": null
+    "Fazenda": null
   },
   {
     "ID": "3627176",
@@ -6854,9 +6260,7 @@ window.QUALIDADE_MUDA_DATA = [
     "Responsável": "NILDA CLAUDINO [2510716]",
     "Qualidade da Muda": "BOM",
     "Observações": null,
-    "Fazenda": null,
-    "Observações ": null,
-    "Unnamed: 19": null
+    "Fazenda": null
   },
   {
     "ID": "3627144",
@@ -6877,9 +6281,7 @@ window.QUALIDADE_MUDA_DATA = [
     "Responsável": "MICHELI DE SOUZA SANTOS  ",
     "Qualidade da Muda": "BOM",
     "Observações": null,
-    "Fazenda": null,
-    "Observações ": null,
-    "Unnamed: 19": null
+    "Fazenda": null
   },
   {
     "ID": "3627139",
@@ -6900,9 +6302,7 @@ window.QUALIDADE_MUDA_DATA = [
     "Responsável": "MICHELI DE SOUZA SANTOS  ",
     "Qualidade da Muda": "BOM",
     "Observações": null,
-    "Fazenda": null,
-    "Observações ": null,
-    "Unnamed: 19": null
+    "Fazenda": null
   },
   {
     "ID": "3627004",
@@ -6923,9 +6323,7 @@ window.QUALIDADE_MUDA_DATA = [
     "Responsável": "NILDA CLAUDINO [2510716]",
     "Qualidade da Muda": "BOM",
     "Observações": null,
-    "Fazenda": null,
-    "Observações ": null,
-    "Unnamed: 19": null
+    "Fazenda": null
   },
   {
     "ID": "3627134",
@@ -6946,9 +6344,7 @@ window.QUALIDADE_MUDA_DATA = [
     "Responsável": "MICHELI DE SOUZA SANTOS  ",
     "Qualidade da Muda": "BOM",
     "Observações": null,
-    "Fazenda": null,
-    "Observações ": null,
-    "Unnamed: 19": null
+    "Fazenda": null
   },
   {
     "ID": "3624847",
@@ -6969,9 +6365,7 @@ window.QUALIDADE_MUDA_DATA = [
     "Responsável": "NILDA CLAUDINO [2510716]",
     "Qualidade da Muda": "BOM",
     "Observações": null,
-    "Fazenda": null,
-    "Observações ": null,
-    "Unnamed: 19": null
+    "Fazenda": null
   },
   {
     "ID": "3624968",
@@ -6992,9 +6386,7 @@ window.QUALIDADE_MUDA_DATA = [
     "Responsável": " Antonio ",
     "Qualidade da Muda": "BOM",
     "Observações": null,
-    "Fazenda": null,
-    "Observações ": null,
-    "Unnamed: 19": null
+    "Fazenda": null
   },
   {
     "ID": "3625021",
@@ -7015,9 +6407,7 @@ window.QUALIDADE_MUDA_DATA = [
     "Responsável": " Antonio ",
     "Qualidade da Muda": "BOM",
     "Observações": null,
-    "Fazenda": null,
-    "Observações ": null,
-    "Unnamed: 19": null
+    "Fazenda": null
   },
   {
     "ID": "3624839",
@@ -7038,9 +6428,7 @@ window.QUALIDADE_MUDA_DATA = [
     "Responsável": "NILDA CLAUDINO [2510716]",
     "Qualidade da Muda": "BOM",
     "Observações": null,
-    "Fazenda": null,
-    "Observações ": null,
-    "Unnamed: 19": null
+    "Fazenda": null
   },
   {
     "ID": "3624820",
@@ -7061,9 +6449,7 @@ window.QUALIDADE_MUDA_DATA = [
     "Responsável": "NILDA CLAUDINO [2510716]",
     "Qualidade da Muda": "BOM",
     "Observações": null,
-    "Fazenda": null,
-    "Observações ": null,
-    "Unnamed: 19": null
+    "Fazenda": null
   },
   {
     "ID": "3627112",
@@ -7084,9 +6470,7 @@ window.QUALIDADE_MUDA_DATA = [
     "Responsável": "MICHELI DE SOUZA SANTOS  ",
     "Qualidade da Muda": "BOM",
     "Observações": null,
-    "Fazenda": null,
-    "Observações ": null,
-    "Unnamed: 19": null
+    "Fazenda": null
   },
   {
     "ID": "3624817",
@@ -7107,9 +6491,7 @@ window.QUALIDADE_MUDA_DATA = [
     "Responsável": "NILDA CLAUDINO [2510716]",
     "Qualidade da Muda": "BOM",
     "Observações": null,
-    "Fazenda": null,
-    "Observações ": null,
-    "Unnamed: 19": null
+    "Fazenda": null
   },
   {
     "ID": "3627098",
@@ -7130,9 +6512,7 @@ window.QUALIDADE_MUDA_DATA = [
     "Responsável": "MICHELI DE SOUZA SANTOS  ",
     "Qualidade da Muda": "BOM",
     "Observações": null,
-    "Fazenda": null,
-    "Observações ": null,
-    "Unnamed: 19": null
+    "Fazenda": null
   },
   {
     "ID": "3624807",
@@ -7153,9 +6533,7 @@ window.QUALIDADE_MUDA_DATA = [
     "Responsável": "NILDA CLAUDINO [2510716]",
     "Qualidade da Muda": "BOM",
     "Observações": null,
-    "Fazenda": null,
-    "Observações ": null,
-    "Unnamed: 19": null
+    "Fazenda": null
   },
   {
     "ID": "3627080",
@@ -7176,9 +6554,7 @@ window.QUALIDADE_MUDA_DATA = [
     "Responsável": "MICHELI DE SOUZA SANTOS  ",
     "Qualidade da Muda": "BOM",
     "Observações": null,
-    "Fazenda": null,
-    "Observações ": null,
-    "Unnamed: 19": null
+    "Fazenda": null
   },
   {
     "ID": "3624802",
@@ -7199,9 +6575,7 @@ window.QUALIDADE_MUDA_DATA = [
     "Responsável": "NILDA CLAUDINO [2510716]",
     "Qualidade da Muda": "BOM",
     "Observações": null,
-    "Fazenda": null,
-    "Observações ": null,
-    "Unnamed: 19": null
+    "Fazenda": null
   },
   {
     "ID": "3624340",
@@ -7222,9 +6596,7 @@ window.QUALIDADE_MUDA_DATA = [
     "Responsável": "FERNANDA DE SOUZA ",
     "Qualidade da Muda": "BOM",
     "Observações": null,
-    "Fazenda": null,
-    "Observações ": null,
-    "Unnamed: 19": null
+    "Fazenda": null
   },
   {
     "ID": "3625524",
@@ -7245,9 +6617,7 @@ window.QUALIDADE_MUDA_DATA = [
     "Responsável": "MICHELI DE SOUZA SANTOS  ",
     "Qualidade da Muda": "BOM",
     "Observações": null,
-    "Fazenda": null,
-    "Observações ": null,
-    "Unnamed: 19": null
+    "Fazenda": null
   },
   {
     "ID": "3624630",
@@ -7268,9 +6638,7 @@ window.QUALIDADE_MUDA_DATA = [
     "Responsável": "VITOR AMORIM RAMOS ",
     "Qualidade da Muda": "BOM",
     "Observações": null,
-    "Fazenda": null,
-    "Observações ": null,
-    "Unnamed: 19": null
+    "Fazenda": null
   },
   {
     "ID": "3625516",
@@ -7291,9 +6659,7 @@ window.QUALIDADE_MUDA_DATA = [
     "Responsável": "MICHELI DE SOUZA SANTOS  ",
     "Qualidade da Muda": "BOM",
     "Observações": null,
-    "Fazenda": null,
-    "Observações ": null,
-    "Unnamed: 19": null
+    "Fazenda": null
   },
   {
     "ID": "3624626",
@@ -7314,9 +6680,7 @@ window.QUALIDADE_MUDA_DATA = [
     "Responsável": "VITOR AMORIM RAMOS ",
     "Qualidade da Muda": "BOM",
     "Observações": null,
-    "Fazenda": null,
-    "Observações ": null,
-    "Unnamed: 19": null
+    "Fazenda": null
   },
   {
     "ID": "3624620",
@@ -7337,9 +6701,7 @@ window.QUALIDADE_MUDA_DATA = [
     "Responsável": "VITOR AMORIM RAMOS ",
     "Qualidade da Muda": "BOM",
     "Observações": null,
-    "Fazenda": null,
-    "Observações ": null,
-    "Unnamed: 19": null
+    "Fazenda": null
   },
   {
     "ID": "3625466",
@@ -7360,9 +6722,7 @@ window.QUALIDADE_MUDA_DATA = [
     "Responsável": "MARCELO DE OLIVEIRA JUNIOR",
     "Qualidade da Muda": "BOM",
     "Observações": null,
-    "Fazenda": null,
-    "Observações ": null,
-    "Unnamed: 19": null
+    "Fazenda": null
   },
   {
     "ID": "3625456",
@@ -7383,9 +6743,7 @@ window.QUALIDADE_MUDA_DATA = [
     "Responsável": "MARCELO DE OLIVEIRA JUNIOR",
     "Qualidade da Muda": "BOM",
     "Observações": null,
-    "Fazenda": null,
-    "Observações ": null,
-    "Unnamed: 19": null
+    "Fazenda": null
   },
   {
     "ID": "3624616",
@@ -7406,9 +6764,7 @@ window.QUALIDADE_MUDA_DATA = [
     "Responsável": "VITOR AMORIM RAMOS ",
     "Qualidade da Muda": "BOM",
     "Observações": null,
-    "Fazenda": null,
-    "Observações ": null,
-    "Unnamed: 19": null
+    "Fazenda": null
   },
   {
     "ID": "3624570",
@@ -7429,9 +6785,7 @@ window.QUALIDADE_MUDA_DATA = [
     "Responsável": "MARCELO DE OLIVEIRA JUNIOR",
     "Qualidade da Muda": "BOM",
     "Observações": null,
-    "Fazenda": null,
-    "Observações ": null,
-    "Unnamed: 19": null
+    "Fazenda": null
   },
   {
     "ID": "3625477",
@@ -7452,9 +6806,7 @@ window.QUALIDADE_MUDA_DATA = [
     "Responsável": "MICHELI DE SOUZA SANTOS  ",
     "Qualidade da Muda": "BOM",
     "Observações": null,
-    "Fazenda": null,
-    "Observações ": null,
-    "Unnamed: 19": null
+    "Fazenda": null
   },
   {
     "ID": "3624315",
@@ -7475,9 +6827,7 @@ window.QUALIDADE_MUDA_DATA = [
     "Responsável": "FERNANDA DE SOUZA ",
     "Qualidade da Muda": "BOM",
     "Observações": null,
-    "Fazenda": null,
-    "Observações ": null,
-    "Unnamed: 19": null
+    "Fazenda": null
   },
   {
     "ID": "3625453",
@@ -7498,9 +6848,7 @@ window.QUALIDADE_MUDA_DATA = [
     "Responsável": "MICHELI DE SOUZA SANTOS  ",
     "Qualidade da Muda": "BOM",
     "Observações": null,
-    "Fazenda": null,
-    "Observações ": null,
-    "Unnamed: 19": null
+    "Fazenda": null
   },
   {
     "ID": "3624020",
@@ -7521,9 +6869,7 @@ window.QUALIDADE_MUDA_DATA = [
     "Responsável": "VITOR AMORIM RAMOS ",
     "Qualidade da Muda": "BOM",
     "Observações": null,
-    "Fazenda": null,
-    "Observações ": null,
-    "Unnamed: 19": null
+    "Fazenda": null
   },
   {
     "ID": "3624287",
@@ -7544,9 +6890,7 @@ window.QUALIDADE_MUDA_DATA = [
     "Responsável": "FERNANDA DE SOUZA ",
     "Qualidade da Muda": "BOM",
     "Observações": null,
-    "Fazenda": null,
-    "Observações ": null,
-    "Unnamed: 19": null
+    "Fazenda": null
   },
   {
     "ID": "3625448",
@@ -7567,9 +6911,7 @@ window.QUALIDADE_MUDA_DATA = [
     "Responsável": "MICHELI DE SOUZA SANTOS  ",
     "Qualidade da Muda": "BOM",
     "Observações": null,
-    "Fazenda": null,
-    "Observações ": null,
-    "Unnamed: 19": null
+    "Fazenda": null
   },
   {
     "ID": "3624015",
@@ -7590,9 +6932,7 @@ window.QUALIDADE_MUDA_DATA = [
     "Responsável": "VITOR AMORIM RAMOS ",
     "Qualidade da Muda": "BOM",
     "Observações": null,
-    "Fazenda": null,
-    "Observações ": null,
-    "Unnamed: 19": null
+    "Fazenda": null
   },
   {
     "ID": "3624226",
@@ -7613,9 +6953,7 @@ window.QUALIDADE_MUDA_DATA = [
     "Responsável": "FERNANDA DE SOUZA ",
     "Qualidade da Muda": "BOM",
     "Observações": null,
-    "Fazenda": null,
-    "Observações ": null,
-    "Unnamed: 19": null
+    "Fazenda": null
   },
   {
     "ID": "3625420",
@@ -7636,9 +6974,7 @@ window.QUALIDADE_MUDA_DATA = [
     "Responsável": "MICHELI DE SOUZA SANTOS  ",
     "Qualidade da Muda": "BOM",
     "Observações": null,
-    "Fazenda": null,
-    "Observações ": null,
-    "Unnamed: 19": null
+    "Fazenda": null
   },
   {
     "ID": "3624009",
@@ -7659,9 +6995,7 @@ window.QUALIDADE_MUDA_DATA = [
     "Responsável": "VITOR AMORIM RAMOS ",
     "Qualidade da Muda": "BOM",
     "Observações": null,
-    "Fazenda": null,
-    "Observações ": null,
-    "Unnamed: 19": null
+    "Fazenda": null
   },
   {
     "ID": "3624219",
@@ -7682,9 +7016,7 @@ window.QUALIDADE_MUDA_DATA = [
     "Responsável": "FERNANDA DE SOUZA ",
     "Qualidade da Muda": "BOM",
     "Observações": null,
-    "Fazenda": null,
-    "Observações ": null,
-    "Unnamed: 19": null
+    "Fazenda": null
   },
   {
     "ID": "3625415",
@@ -7705,9 +7037,7 @@ window.QUALIDADE_MUDA_DATA = [
     "Responsável": "MICHELI DE SOUZA SANTOS  ",
     "Qualidade da Muda": "BOM",
     "Observações": null,
-    "Fazenda": null,
-    "Observações ": null,
-    "Unnamed: 19": null
+    "Fazenda": null
   },
   {
     "ID": "3623995",
@@ -7728,9 +7058,7 @@ window.QUALIDADE_MUDA_DATA = [
     "Responsável": "VITOR AMORIM RAMOS ",
     "Qualidade da Muda": "BOM",
     "Observações": null,
-    "Fazenda": null,
-    "Observações ": null,
-    "Unnamed: 19": null
+    "Fazenda": null
   },
   {
     "ID": "3625376",
@@ -7751,9 +7079,7 @@ window.QUALIDADE_MUDA_DATA = [
     "Responsável": "MICHELI DE SOUZA SANTOS  ",
     "Qualidade da Muda": "BOM",
     "Observações": null,
-    "Fazenda": null,
-    "Observações ": null,
-    "Unnamed: 19": null
+    "Fazenda": null
   },
   {
     "ID": "3623990",
@@ -7774,9 +7100,7 @@ window.QUALIDADE_MUDA_DATA = [
     "Responsável": "VITOR AMORIM RAMOS ",
     "Qualidade da Muda": "BOM",
     "Observações": null,
-    "Fazenda": null,
-    "Observações ": null,
-    "Unnamed: 19": null
+    "Fazenda": null
   },
   {
     "ID": "3624061",
@@ -7797,9 +7121,7 @@ window.QUALIDADE_MUDA_DATA = [
     "Responsável": " Antonio ",
     "Qualidade da Muda": "BOM",
     "Observações": null,
-    "Fazenda": null,
-    "Observações ": null,
-    "Unnamed: 19": null
+    "Fazenda": null
   },
   {
     "ID": "3623997",
@@ -7820,9 +7142,7 @@ window.QUALIDADE_MUDA_DATA = [
     "Responsável": " Antonio ",
     "Qualidade da Muda": "BOM",
     "Observações": null,
-    "Fazenda": null,
-    "Observações ": null,
-    "Unnamed: 19": null
+    "Fazenda": null
   },
   {
     "ID": "3623985",
@@ -7843,9 +7163,7 @@ window.QUALIDADE_MUDA_DATA = [
     "Responsável": "VITOR AMORIM RAMOS ",
     "Qualidade da Muda": "BOM",
     "Observações": null,
-    "Fazenda": null,
-    "Observações ": null,
-    "Unnamed: 19": null
+    "Fazenda": null
   },
   {
     "ID": "3625370",
@@ -7866,9 +7184,7 @@ window.QUALIDADE_MUDA_DATA = [
     "Responsável": "MICHELI DE SOUZA SANTOS  ",
     "Qualidade da Muda": "BOM",
     "Observações": null,
-    "Fazenda": null,
-    "Observações ": null,
-    "Unnamed: 19": null
+    "Fazenda": null
   },
   {
     "ID": "3623980",
@@ -7889,9 +7205,7 @@ window.QUALIDADE_MUDA_DATA = [
     "Responsável": "VITOR AMORIM RAMOS ",
     "Qualidade da Muda": "BOM",
     "Observações": null,
-    "Fazenda": null,
-    "Observações ": null,
-    "Unnamed: 19": null
+    "Fazenda": null
   },
   {
     "ID": "3623965",
@@ -7912,9 +7226,7 @@ window.QUALIDADE_MUDA_DATA = [
     "Responsável": "VITOR AMORIM RAMOS ",
     "Qualidade da Muda": "BOM",
     "Observações": null,
-    "Fazenda": null,
-    "Observações ": null,
-    "Unnamed: 19": null
+    "Fazenda": null
   },
   {
     "ID": "3625365",
@@ -7935,9 +7247,7 @@ window.QUALIDADE_MUDA_DATA = [
     "Responsável": "MICHELI DE SOUZA SANTOS  ",
     "Qualidade da Muda": "BOM",
     "Observações": null,
-    "Fazenda": null,
-    "Observações ": null,
-    "Unnamed: 19": null
+    "Fazenda": null
   },
   {
     "ID": "3625360",
@@ -7958,9 +7268,7 @@ window.QUALIDADE_MUDA_DATA = [
     "Responsável": "MICHELI DE SOUZA SANTOS  ",
     "Qualidade da Muda": "BOM",
     "Observações": null,
-    "Fazenda": null,
-    "Observações ": null,
-    "Unnamed: 19": null
+    "Fazenda": null
   },
   {
     "ID": "3623958",
@@ -7981,9 +7289,7 @@ window.QUALIDADE_MUDA_DATA = [
     "Responsável": "VITOR AMORIM RAMOS ",
     "Qualidade da Muda": "BOM",
     "Observações": null,
-    "Fazenda": null,
-    "Observações ": null,
-    "Unnamed: 19": null
+    "Fazenda": null
   },
   {
     "ID": "3625354",
@@ -8004,9 +7310,7 @@ window.QUALIDADE_MUDA_DATA = [
     "Responsável": "MICHELI DE SOUZA SANTOS  ",
     "Qualidade da Muda": "BOM",
     "Observações": null,
-    "Fazenda": null,
-    "Observações ": null,
-    "Unnamed: 19": null
+    "Fazenda": null
   },
   {
     "ID": "3623939",
@@ -8027,9 +7331,7 @@ window.QUALIDADE_MUDA_DATA = [
     "Responsável": "VITOR AMORIM RAMOS ",
     "Qualidade da Muda": "BOM",
     "Observações": null,
-    "Fazenda": null,
-    "Observações ": null,
-    "Unnamed: 19": null
+    "Fazenda": null
   },
   {
     "ID": "3625347",
@@ -8050,9 +7352,7 @@ window.QUALIDADE_MUDA_DATA = [
     "Responsável": "MICHELI DE SOUZA SANTOS  ",
     "Qualidade da Muda": "BOM",
     "Observações": null,
-    "Fazenda": null,
-    "Observações ": null,
-    "Unnamed: 19": null
+    "Fazenda": null
   },
   {
     "ID": "3623934",
@@ -8073,9 +7373,7 @@ window.QUALIDADE_MUDA_DATA = [
     "Responsável": "VITOR AMORIM RAMOS ",
     "Qualidade da Muda": "BOM",
     "Observações": null,
-    "Fazenda": null,
-    "Observações ": null,
-    "Unnamed: 19": null
+    "Fazenda": null
   },
   {
     "ID": "3624567",
@@ -8096,9 +7394,7 @@ window.QUALIDADE_MUDA_DATA = [
     "Responsável": "MARCELO DE OLIVEIRA JUNIOR",
     "Qualidade da Muda": "BOM",
     "Observações": null,
-    "Fazenda": null,
-    "Observações ": null,
-    "Unnamed: 19": null
+    "Fazenda": null
   },
   {
     "ID": "3623929",
@@ -8119,9 +7415,7 @@ window.QUALIDADE_MUDA_DATA = [
     "Responsável": "VITOR AMORIM RAMOS ",
     "Qualidade da Muda": "BOM",
     "Observações": null,
-    "Fazenda": null,
-    "Observações ": null,
-    "Unnamed: 19": null
+    "Fazenda": null
   },
   {
     "ID": "3624560",
@@ -8142,9 +7436,7 @@ window.QUALIDADE_MUDA_DATA = [
     "Responsável": "MARCELO DE OLIVEIRA JUNIOR",
     "Qualidade da Muda": "BOM",
     "Observações": null,
-    "Fazenda": null,
-    "Observações ": null,
-    "Unnamed: 19": null
+    "Fazenda": null
   },
   {
     "ID": "3624555",
@@ -8165,9 +7457,7 @@ window.QUALIDADE_MUDA_DATA = [
     "Responsável": "MARCELO DE OLIVEIRA JUNIOR",
     "Qualidade da Muda": "BOM",
     "Observações": null,
-    "Fazenda": null,
-    "Observações ": null,
-    "Unnamed: 19": null
+    "Fazenda": null
   },
   {
     "ID": "3621943",
@@ -8188,9 +7478,7 @@ window.QUALIDADE_MUDA_DATA = [
     "Responsável": "NILDA CLAUDINO [2510716]",
     "Qualidade da Muda": "BOM",
     "Observações": null,
-    "Fazenda": null,
-    "Observações ": null,
-    "Unnamed: 19": null
+    "Fazenda": null
   },
   {
     "ID": "3621666",
@@ -8211,9 +7499,7 @@ window.QUALIDADE_MUDA_DATA = [
     "Responsável": "GLEISON FELIPE BORGES DE MATOS",
     "Qualidade da Muda": "BOM",
     "Observações": null,
-    "Fazenda": null,
-    "Observações ": null,
-    "Unnamed: 19": null
+    "Fazenda": null
   },
   {
     "ID": "3621994",
@@ -8234,9 +7520,7 @@ window.QUALIDADE_MUDA_DATA = [
     "Responsável": "VITOR AMORIM RAMOS ",
     "Qualidade da Muda": "BOM",
     "Observações": null,
-    "Fazenda": null,
-    "Observações ": null,
-    "Unnamed: 19": null
+    "Fazenda": null
   },
   {
     "ID": "3621665",
@@ -8257,9 +7541,7 @@ window.QUALIDADE_MUDA_DATA = [
     "Responsável": "MABILA HELEN D FIGUEIREDO",
     "Qualidade da Muda": "BOM",
     "Observações": null,
-    "Fazenda": null,
-    "Observações ": null,
-    "Unnamed: 19": null
+    "Fazenda": null
   },
   {
     "ID": "3621989",
@@ -8280,9 +7562,7 @@ window.QUALIDADE_MUDA_DATA = [
     "Responsável": "VITOR AMORIM RAMOS ",
     "Qualidade da Muda": "BOM",
     "Observações": null,
-    "Fazenda": null,
-    "Observações ": null,
-    "Unnamed: 19": null
+    "Fazenda": null
   },
   {
     "ID": "3621454",
@@ -8303,9 +7583,7 @@ window.QUALIDADE_MUDA_DATA = [
     "Responsável": "FERNANDA DE SOUZA ",
     "Qualidade da Muda": "BOM",
     "Observações": null,
-    "Fazenda": null,
-    "Observações ": null,
-    "Unnamed: 19": null
+    "Fazenda": null
   },
   {
     "ID": "3621980",
@@ -8326,9 +7604,7 @@ window.QUALIDADE_MUDA_DATA = [
     "Responsável": "VITOR AMORIM RAMOS ",
     "Qualidade da Muda": "BOM",
     "Observações": null,
-    "Fazenda": null,
-    "Observações ": null,
-    "Unnamed: 19": null
+    "Fazenda": null
   },
   {
     "ID": "3621602",
@@ -8349,9 +7625,7 @@ window.QUALIDADE_MUDA_DATA = [
     "Responsável": "MABILA HELEN D FIGUEIREDO",
     "Qualidade da Muda": "BOM",
     "Observações": null,
-    "Fazenda": null,
-    "Observações ": null,
-    "Unnamed: 19": null
+    "Fazenda": null
   },
   {
     "ID": "3621876",
@@ -8372,9 +7646,7 @@ window.QUALIDADE_MUDA_DATA = [
     "Responsável": "VITOR AMORIM RAMOS ",
     "Qualidade da Muda": "BOM",
     "Observações": null,
-    "Fazenda": null,
-    "Observações ": null,
-    "Unnamed: 19": null
+    "Fazenda": null
   },
   {
     "ID": "3621448",
@@ -8395,9 +7667,7 @@ window.QUALIDADE_MUDA_DATA = [
     "Responsável": "FERNANDA DE SOUZA ",
     "Qualidade da Muda": "BOM",
     "Observações": null,
-    "Fazenda": null,
-    "Observações ": null,
-    "Unnamed: 19": null
+    "Fazenda": null
   },
   {
     "ID": "3621936",
@@ -8418,9 +7688,7 @@ window.QUALIDADE_MUDA_DATA = [
     "Responsável": "NILDA CLAUDINO [2510716]",
     "Qualidade da Muda": "BOM",
     "Observações": null,
-    "Fazenda": null,
-    "Observações ": null,
-    "Unnamed: 19": null
+    "Fazenda": null
   },
   {
     "ID": "3621898",
@@ -8441,9 +7709,7 @@ window.QUALIDADE_MUDA_DATA = [
     "Responsável": "VITOR AMORIM RAMOS ",
     "Qualidade da Muda": "BOM",
     "Observações": null,
-    "Fazenda": null,
-    "Observações ": null,
-    "Unnamed: 19": null
+    "Fazenda": null
   },
   {
     "ID": "3622202",
@@ -8464,9 +7730,7 @@ window.QUALIDADE_MUDA_DATA = [
     "Responsável": "MARCELO DE OLIVEIRA JUNIOR",
     "Qualidade da Muda": "BOM",
     "Observações": null,
-    "Fazenda": null,
-    "Observações ": null,
-    "Unnamed: 19": null
+    "Fazenda": null
   },
   {
     "ID": "3621925",
@@ -8487,9 +7751,7 @@ window.QUALIDADE_MUDA_DATA = [
     "Responsável": "NILDA CLAUDINO [2510716]",
     "Qualidade da Muda": "BOM",
     "Observações": null,
-    "Fazenda": null,
-    "Observações ": null,
-    "Unnamed: 19": null
+    "Fazenda": null
   },
   {
     "ID": "3622195",
@@ -8510,9 +7772,7 @@ window.QUALIDADE_MUDA_DATA = [
     "Responsável": "MARCELO DE OLIVEIRA JUNIOR",
     "Qualidade da Muda": "BOM",
     "Observações": null,
-    "Fazenda": null,
-    "Observações ": null,
-    "Unnamed: 19": null
+    "Fazenda": null
   },
   {
     "ID": "3622191",
@@ -8533,9 +7793,7 @@ window.QUALIDADE_MUDA_DATA = [
     "Responsável": "MARCELO DE OLIVEIRA JUNIOR",
     "Qualidade da Muda": "BOM",
     "Observações": null,
-    "Fazenda": null,
-    "Observações ": null,
-    "Unnamed: 19": null
+    "Fazenda": null
   },
   {
     "ID": "3622186",
@@ -8556,9 +7814,7 @@ window.QUALIDADE_MUDA_DATA = [
     "Responsável": "MARCELO DE OLIVEIRA JUNIOR",
     "Qualidade da Muda": "BOM",
     "Observações": null,
-    "Fazenda": null,
-    "Observações ": null,
-    "Unnamed: 19": null
+    "Fazenda": null
   },
   {
     "ID": "3621594",
@@ -8579,9 +7835,7 @@ window.QUALIDADE_MUDA_DATA = [
     "Responsável": "MABILA HELEN D FIGUEIREDO",
     "Qualidade da Muda": "BOM",
     "Observações": null,
-    "Fazenda": null,
-    "Observações ": null,
-    "Unnamed: 19": null
+    "Fazenda": null
   },
   {
     "ID": "3621589",
@@ -8602,9 +7856,7 @@ window.QUALIDADE_MUDA_DATA = [
     "Responsável": "MABILA HELEN D FIGUEIREDO",
     "Qualidade da Muda": "BOM",
     "Observações": null,
-    "Fazenda": null,
-    "Observações ": null,
-    "Unnamed: 19": null
+    "Fazenda": null
   },
   {
     "ID": "3620973",
@@ -8625,9 +7877,7 @@ window.QUALIDADE_MUDA_DATA = [
     "Responsável": "FERNANDA DE SOUZA ",
     "Qualidade da Muda": "BOM",
     "Observações": null,
-    "Fazenda": null,
-    "Observações ": null,
-    "Unnamed: 19": null
+    "Fazenda": null
   },
   {
     "ID": "3621919",
@@ -8648,9 +7898,7 @@ window.QUALIDADE_MUDA_DATA = [
     "Responsável": "NILDA CLAUDINO [2510716]",
     "Qualidade da Muda": "BOM",
     "Observações": null,
-    "Fazenda": null,
-    "Observações ": null,
-    "Unnamed: 19": null
+    "Fazenda": null
   },
   {
     "ID": "3620967",
@@ -8671,9 +7919,7 @@ window.QUALIDADE_MUDA_DATA = [
     "Responsável": "FERNANDA DE SOUZA ",
     "Qualidade da Muda": "BOM",
     "Observações": null,
-    "Fazenda": null,
-    "Observações ": null,
-    "Unnamed: 19": null
+    "Fazenda": null
   },
   {
     "ID": "3621914",
@@ -8694,9 +7940,7 @@ window.QUALIDADE_MUDA_DATA = [
     "Responsável": "NILDA CLAUDINO [2510716]",
     "Qualidade da Muda": "BOM",
     "Observações": null,
-    "Fazenda": null,
-    "Observações ": null,
-    "Unnamed: 19": null
+    "Fazenda": null
   },
   {
     "ID": "3620964",
@@ -8717,9 +7961,7 @@ window.QUALIDADE_MUDA_DATA = [
     "Responsável": "FERNANDA DE SOUZA ",
     "Qualidade da Muda": "BOM",
     "Observações": null,
-    "Fazenda": null,
-    "Observações ": null,
-    "Unnamed: 19": null
+    "Fazenda": null
   },
   {
     "ID": "3621910",
@@ -8740,9 +7982,7 @@ window.QUALIDADE_MUDA_DATA = [
     "Responsável": "NILDA CLAUDINO [2510716]",
     "Qualidade da Muda": "BOM",
     "Observações": null,
-    "Fazenda": null,
-    "Observações ": null,
-    "Unnamed: 19": null
+    "Fazenda": null
   },
   {
     "ID": "3622530",
@@ -8763,9 +8003,7 @@ window.QUALIDADE_MUDA_DATA = [
     "Responsável": "MICHELI DE SOUZA SANTOS  ",
     "Qualidade da Muda": "BOM",
     "Observações": null,
-    "Fazenda": null,
-    "Observações ": null,
-    "Unnamed: 19": null
+    "Fazenda": null
   },
   {
     "ID": "3621906",
@@ -8786,9 +8024,7 @@ window.QUALIDADE_MUDA_DATA = [
     "Responsável": "NILDA CLAUDINO [2510716]",
     "Qualidade da Muda": "BOM",
     "Observações": null,
-    "Fazenda": null,
-    "Observações ": null,
-    "Unnamed: 19": null
+    "Fazenda": null
   },
   {
     "ID": "3620945",
@@ -8809,9 +8045,7 @@ window.QUALIDADE_MUDA_DATA = [
     "Responsável": "VITOR AMORIM RAMOS ",
     "Qualidade da Muda": "BOM",
     "Observações": null,
-    "Fazenda": null,
-    "Observações ": null,
-    "Unnamed: 19": null
+    "Fazenda": null
   },
   {
     "ID": "3622462",
@@ -8832,9 +8066,7 @@ window.QUALIDADE_MUDA_DATA = [
     "Responsável": "MICHELI DE SOUZA SANTOS  ",
     "Qualidade da Muda": "BOM",
     "Observações": null,
-    "Fazenda": null,
-    "Observações ": null,
-    "Unnamed: 19": null
+    "Fazenda": null
   },
   {
     "ID": "3621901",
@@ -8855,9 +8087,7 @@ window.QUALIDADE_MUDA_DATA = [
     "Responsável": "NILDA CLAUDINO [2510716]",
     "Qualidade da Muda": "BOM",
     "Observações": null,
-    "Fazenda": null,
-    "Observações ": null,
-    "Unnamed: 19": null
+    "Fazenda": null
   },
   {
     "ID": "3620940",
@@ -8878,9 +8108,7 @@ window.QUALIDADE_MUDA_DATA = [
     "Responsável": "VITOR AMORIM RAMOS ",
     "Qualidade da Muda": "BOM",
     "Observações": null,
-    "Fazenda": null,
-    "Observações ": null,
-    "Unnamed: 19": null
+    "Fazenda": null
   },
   {
     "ID": "3620935",
@@ -8901,9 +8129,7 @@ window.QUALIDADE_MUDA_DATA = [
     "Responsável": "VITOR AMORIM RAMOS ",
     "Qualidade da Muda": "BOM",
     "Observações": null,
-    "Fazenda": null,
-    "Observações ": null,
-    "Unnamed: 19": null
+    "Fazenda": null
   },
   {
     "ID": "3620929",
@@ -8924,9 +8150,7 @@ window.QUALIDADE_MUDA_DATA = [
     "Responsável": "VITOR AMORIM RAMOS ",
     "Qualidade da Muda": "BOM",
     "Observações": null,
-    "Fazenda": null,
-    "Observações ": null,
-    "Unnamed: 19": null
+    "Fazenda": null
   },
   {
     "ID": "3620923",
@@ -8947,9 +8171,7 @@ window.QUALIDADE_MUDA_DATA = [
     "Responsável": "VITOR AMORIM RAMOS ",
     "Qualidade da Muda": "BOM",
     "Observações": null,
-    "Fazenda": null,
-    "Observações ": null,
-    "Unnamed: 19": null
+    "Fazenda": null
   },
   {
     "ID": "3620914",
@@ -8970,9 +8192,7 @@ window.QUALIDADE_MUDA_DATA = [
     "Responsável": "VITOR AMORIM RAMOS ",
     "Qualidade da Muda": "BOM",
     "Observações": null,
-    "Fazenda": null,
-    "Observações ": null,
-    "Unnamed: 19": null
+    "Fazenda": null
   },
   {
     "ID": "3621172",
@@ -8993,9 +8213,7 @@ window.QUALIDADE_MUDA_DATA = [
     "Responsável": "GABRIEL HENRIQUE MARTINS PEREIRA",
     "Qualidade da Muda": "BOM",
     "Observações": null,
-    "Fazenda": null,
-    "Observações ": null,
-    "Unnamed: 19": null
+    "Fazenda": null
   },
   {
     "ID": "3622181",
@@ -9016,9 +8234,7 @@ window.QUALIDADE_MUDA_DATA = [
     "Responsável": "MARCELO DE OLIVEIRA JUNIOR",
     "Qualidade da Muda": "BOM",
     "Observações": null,
-    "Fazenda": null,
-    "Observações ": null,
-    "Unnamed: 19": null
+    "Fazenda": null
   },
   {
     "ID": "3620908",
@@ -9039,9 +8255,7 @@ window.QUALIDADE_MUDA_DATA = [
     "Responsável": "VITOR AMORIM RAMOS ",
     "Qualidade da Muda": "BOM",
     "Observações": null,
-    "Fazenda": null,
-    "Observações ": null,
-    "Unnamed: 19": null
+    "Fazenda": null
   },
   {
     "ID": "3621166",
@@ -9062,9 +8276,7 @@ window.QUALIDADE_MUDA_DATA = [
     "Responsável": "GABRIEL HENRIQUE MARTINS PEREIRA",
     "Qualidade da Muda": "BOM",
     "Observações": null,
-    "Fazenda": null,
-    "Observações ": null,
-    "Unnamed: 19": null
+    "Fazenda": null
   },
   {
     "ID": "3620903",
@@ -9085,9 +8297,7 @@ window.QUALIDADE_MUDA_DATA = [
     "Responsável": "VITOR AMORIM RAMOS ",
     "Qualidade da Muda": "BOM",
     "Observações": null,
-    "Fazenda": null,
-    "Observações ": null,
-    "Unnamed: 19": null
+    "Fazenda": null
   },
   {
     "ID": "3622174",
@@ -9108,9 +8318,7 @@ window.QUALIDADE_MUDA_DATA = [
     "Responsável": "MARCELO DE OLIVEIRA JUNIOR",
     "Qualidade da Muda": "BOM",
     "Observações": null,
-    "Fazenda": null,
-    "Observações ": null,
-    "Unnamed: 19": null
+    "Fazenda": null
   },
   {
     "ID": "3621154",
@@ -9131,9 +8339,7 @@ window.QUALIDADE_MUDA_DATA = [
     "Responsável": "GABRIEL HENRIQUE MARTINS PEREIRA",
     "Qualidade da Muda": "BOM",
     "Observações": null,
-    "Fazenda": null,
-    "Observações ": null,
-    "Unnamed: 19": null
+    "Fazenda": null
   },
   {
     "ID": "3620897",
@@ -9154,9 +8360,7 @@ window.QUALIDADE_MUDA_DATA = [
     "Responsável": "VITOR AMORIM RAMOS ",
     "Qualidade da Muda": "BOM",
     "Observações": null,
-    "Fazenda": null,
-    "Observações ": null,
-    "Unnamed: 19": null
+    "Fazenda": null
   },
   {
     "ID": "3622170",
@@ -9177,9 +8381,7 @@ window.QUALIDADE_MUDA_DATA = [
     "Responsável": "MARCELO DE OLIVEIRA JUNIOR",
     "Qualidade da Muda": "BOM",
     "Observações": null,
-    "Fazenda": null,
-    "Observações ": null,
-    "Unnamed: 19": null
+    "Fazenda": null
   },
   {
     "ID": "3621149",
@@ -9200,9 +8402,7 @@ window.QUALIDADE_MUDA_DATA = [
     "Responsável": "Ruan Alexandre Lopes",
     "Qualidade da Muda": "BOM",
     "Observações": null,
-    "Fazenda": null,
-    "Observações ": null,
-    "Unnamed: 19": null
+    "Fazenda": null
   },
   {
     "ID": "3620892",
@@ -9223,9 +8423,7 @@ window.QUALIDADE_MUDA_DATA = [
     "Responsável": "VITOR AMORIM RAMOS ",
     "Qualidade da Muda": "BOM",
     "Observações": null,
-    "Fazenda": null,
-    "Observações ": null,
-    "Unnamed: 19": null
+    "Fazenda": null
   },
   {
     "ID": "3621144",
@@ -9246,9 +8444,7 @@ window.QUALIDADE_MUDA_DATA = [
     "Responsável": "Ruan Alexandre Lopes",
     "Qualidade da Muda": "BOM",
     "Observações": null,
-    "Fazenda": null,
-    "Observações ": null,
-    "Unnamed: 19": null
+    "Fazenda": null
   },
   {
     "ID": "3622165",
@@ -9269,9 +8465,7 @@ window.QUALIDADE_MUDA_DATA = [
     "Responsável": "MARCELO DE OLIVEIRA JUNIOR",
     "Qualidade da Muda": "BOM",
     "Observações": null,
-    "Fazenda": null,
-    "Observações ": null,
-    "Unnamed: 19": null
+    "Fazenda": null
   },
   {
     "ID": "3621139",
@@ -9292,9 +8486,7 @@ window.QUALIDADE_MUDA_DATA = [
     "Responsável": "Ruan Alexandre Lopes",
     "Qualidade da Muda": "BOM",
     "Observações": null,
-    "Fazenda": null,
-    "Observações ": null,
-    "Unnamed: 19": null
+    "Fazenda": null
   },
   {
     "ID": "3622160",
@@ -9315,9 +8507,7 @@ window.QUALIDADE_MUDA_DATA = [
     "Responsável": "MARCELO DE OLIVEIRA JUNIOR",
     "Qualidade da Muda": "BOM",
     "Observações": null,
-    "Fazenda": null,
-    "Observações ": null,
-    "Unnamed: 19": null
+    "Fazenda": null
   },
   {
     "ID": "3618782",
@@ -9338,9 +8528,7 @@ window.QUALIDADE_MUDA_DATA = [
     "Responsável": "MICHELI DE SOUZA SANTOS  ",
     "Qualidade da Muda": "BOM",
     "Observações": null,
-    "Fazenda": null,
-    "Observações ": null,
-    "Unnamed: 19": null
+    "Fazenda": null
   },
   {
     "ID": "3618402",
@@ -9361,9 +8549,7 @@ window.QUALIDADE_MUDA_DATA = [
     "Responsável": " Antonio ",
     "Qualidade da Muda": "BOM",
     "Observações": null,
-    "Fazenda": null,
-    "Observações ": null,
-    "Unnamed: 19": null
+    "Fazenda": null
   },
   {
     "ID": "3618395",
@@ -9384,9 +8570,7 @@ window.QUALIDADE_MUDA_DATA = [
     "Responsável": " Antonio ",
     "Qualidade da Muda": "BOM",
     "Observações": null,
-    "Fazenda": null,
-    "Observações ": null,
-    "Unnamed: 19": null
+    "Fazenda": null
   },
   {
     "ID": "3618390",
@@ -9407,9 +8591,7 @@ window.QUALIDADE_MUDA_DATA = [
     "Responsável": " Antonio ",
     "Qualidade da Muda": "BOM",
     "Observações": null,
-    "Fazenda": null,
-    "Observações ": null,
-    "Unnamed: 19": null
+    "Fazenda": null
   },
   {
     "ID": "3618464",
@@ -9430,9 +8612,7 @@ window.QUALIDADE_MUDA_DATA = [
     "Responsável": "NILDA CLAUDINO [2510716]",
     "Qualidade da Muda": "BOM",
     "Observações": null,
-    "Fazenda": null,
-    "Observações ": null,
-    "Unnamed: 19": null
+    "Fazenda": null
   },
   {
     "ID": "3618384",
@@ -9453,9 +8633,7 @@ window.QUALIDADE_MUDA_DATA = [
     "Responsável": " Antonio ",
     "Qualidade da Muda": "BOM",
     "Observações": null,
-    "Fazenda": null,
-    "Observações ": null,
-    "Unnamed: 19": null
+    "Fazenda": null
   },
   {
     "ID": "3618350",
@@ -9476,9 +8654,7 @@ window.QUALIDADE_MUDA_DATA = [
     "Responsável": "VITOR AMORIM RAMOS ",
     "Qualidade da Muda": "BOM",
     "Observações": null,
-    "Fazenda": null,
-    "Observações ": null,
-    "Unnamed: 19": null
+    "Fazenda": null
   },
   {
     "ID": "3618343",
@@ -9499,9 +8675,7 @@ window.QUALIDADE_MUDA_DATA = [
     "Responsável": "VITOR AMORIM RAMOS ",
     "Qualidade da Muda": "BOM",
     "Observações": null,
-    "Fazenda": null,
-    "Observações ": null,
-    "Unnamed: 19": null
+    "Fazenda": null
   },
   {
     "ID": "3618444",
@@ -9522,9 +8696,7 @@ window.QUALIDADE_MUDA_DATA = [
     "Responsável": "NILDA CLAUDINO [2510716]",
     "Qualidade da Muda": "BOM",
     "Observações": null,
-    "Fazenda": null,
-    "Observações ": null,
-    "Unnamed: 19": null
+    "Fazenda": null
   },
   {
     "ID": "3619776",
@@ -9545,9 +8717,7 @@ window.QUALIDADE_MUDA_DATA = [
     "Responsável": "MARCELO DE OLIVEIRA JUNIOR",
     "Qualidade da Muda": "BOM",
     "Observações": null,
-    "Fazenda": null,
-    "Observações ": null,
-    "Unnamed: 19": null
+    "Fazenda": null
   },
   {
     "ID": "3618775",
@@ -9568,9 +8738,7 @@ window.QUALIDADE_MUDA_DATA = [
     "Responsável": "MICHELI DE SOUZA SANTOS  ",
     "Qualidade da Muda": "BOM",
     "Observações": null,
-    "Fazenda": null,
-    "Observações ": null,
-    "Unnamed: 19": null
+    "Fazenda": null
   },
   {
     "ID": "3618339",
@@ -9591,9 +8759,7 @@ window.QUALIDADE_MUDA_DATA = [
     "Responsável": "VITOR AMORIM RAMOS ",
     "Qualidade da Muda": "BOM",
     "Observações": null,
-    "Fazenda": null,
-    "Observações ": null,
-    "Unnamed: 19": null
+    "Fazenda": null
   },
   {
     "ID": "3618770",
@@ -9614,9 +8780,7 @@ window.QUALIDADE_MUDA_DATA = [
     "Responsável": "MICHELI DE SOUZA SANTOS  ",
     "Qualidade da Muda": "BOM",
     "Observações": null,
-    "Fazenda": null,
-    "Observações ": null,
-    "Unnamed: 19": null
+    "Fazenda": null
   },
   {
     "ID": "3619772",
@@ -9637,9 +8801,7 @@ window.QUALIDADE_MUDA_DATA = [
     "Responsável": "MARCELO DE OLIVEIRA JUNIOR",
     "Qualidade da Muda": "BOM",
     "Observações": null,
-    "Fazenda": null,
-    "Observações ": null,
-    "Unnamed: 19": null
+    "Fazenda": null
   },
   {
     "ID": "3618794",
@@ -9660,9 +8822,7 @@ window.QUALIDADE_MUDA_DATA = [
     "Responsável": "NILDA CLAUDINO [2510716]",
     "Qualidade da Muda": "BOM",
     "Observações": null,
-    "Fazenda": null,
-    "Observações ": null,
-    "Unnamed: 19": null
+    "Fazenda": null
   },
   {
     "ID": "3618766",
@@ -9683,9 +8843,7 @@ window.QUALIDADE_MUDA_DATA = [
     "Responsável": "MICHELI DE SOUZA SANTOS  ",
     "Qualidade da Muda": "BOM",
     "Observações": null,
-    "Fazenda": null,
-    "Observações ": null,
-    "Unnamed: 19": null
+    "Fazenda": null
   },
   {
     "ID": "3617926",
@@ -9706,9 +8864,7 @@ window.QUALIDADE_MUDA_DATA = [
     "Responsável": "Ruan Alexandre Lopes",
     "Qualidade da Muda": "BOM",
     "Observações": null,
-    "Fazenda": null,
-    "Observações ": null,
-    "Unnamed: 19": null
+    "Fazenda": null
   },
   {
     "ID": "3618333",
@@ -9729,9 +8885,7 @@ window.QUALIDADE_MUDA_DATA = [
     "Responsável": "VITOR AMORIM RAMOS ",
     "Qualidade da Muda": "BOM",
     "Observações": null,
-    "Fazenda": null,
-    "Observações ": null,
-    "Unnamed: 19": null
+    "Fazenda": null
   },
   {
     "ID": "3619767",
@@ -9752,9 +8906,7 @@ window.QUALIDADE_MUDA_DATA = [
     "Responsável": "MARCELO DE OLIVEIRA JUNIOR",
     "Qualidade da Muda": "BOM",
     "Observações": null,
-    "Fazenda": null,
-    "Observações ": null,
-    "Unnamed: 19": null
+    "Fazenda": null
   },
   {
     "ID": "3618761",
@@ -9775,9 +8927,7 @@ window.QUALIDADE_MUDA_DATA = [
     "Responsável": "MICHELI DE SOUZA SANTOS  ",
     "Qualidade da Muda": "BOM",
     "Observações": null,
-    "Fazenda": null,
-    "Observações ": null,
-    "Unnamed: 19": null
+    "Fazenda": null
   },
   {
     "ID": "3618325",
@@ -9798,9 +8948,7 @@ window.QUALIDADE_MUDA_DATA = [
     "Responsável": "VITOR AMORIM RAMOS ",
     "Qualidade da Muda": "BOM",
     "Observações": null,
-    "Fazenda": null,
-    "Observações ": null,
-    "Unnamed: 19": null
+    "Fazenda": null
   },
   {
     "ID": "3618586",
@@ -9821,9 +8969,7 @@ window.QUALIDADE_MUDA_DATA = [
     "Responsável": "GABRIEL HENRIQUE MARTINS PEREIRA",
     "Qualidade da Muda": "BOM",
     "Observações": null,
-    "Fazenda": null,
-    "Observações ": null,
-    "Unnamed: 19": null
+    "Fazenda": null
   },
   {
     "ID": "3618788",
@@ -9844,9 +8990,7 @@ window.QUALIDADE_MUDA_DATA = [
     "Responsável": "NILDA CLAUDINO [2510716]",
     "Qualidade da Muda": "BOM",
     "Observações": null,
-    "Fazenda": null,
-    "Observações ": null,
-    "Unnamed: 19": null
+    "Fazenda": null
   },
   {
     "ID": "3619743",
@@ -9867,9 +9011,7 @@ window.QUALIDADE_MUDA_DATA = [
     "Responsável": "MARCELO DE OLIVEIRA JUNIOR",
     "Qualidade da Muda": "BOM",
     "Observações": null,
-    "Fazenda": null,
-    "Observações ": null,
-    "Unnamed: 19": null
+    "Fazenda": null
   },
   {
     "ID": "3617920",
@@ -9890,9 +9032,7 @@ window.QUALIDADE_MUDA_DATA = [
     "Responsável": "Ruan Alexandre Lopes",
     "Qualidade da Muda": "BOM",
     "Observações": null,
-    "Fazenda": null,
-    "Observações ": null,
-    "Unnamed: 19": null
+    "Fazenda": null
   },
   {
     "ID": "3618277",
@@ -9913,9 +9053,7 @@ window.QUALIDADE_MUDA_DATA = [
     "Responsável": "VITOR AMORIM RAMOS ",
     "Qualidade da Muda": "BOM",
     "Observações": null,
-    "Fazenda": null,
-    "Observações ": null,
-    "Unnamed: 19": null
+    "Fazenda": null
   },
   {
     "ID": "3618374",
@@ -9936,9 +9074,7 @@ window.QUALIDADE_MUDA_DATA = [
     "Responsável": "NILDA CLAUDINO [2510716]",
     "Qualidade da Muda": "BOM",
     "Observações": null,
-    "Fazenda": null,
-    "Observações ": null,
-    "Unnamed: 19": null
+    "Fazenda": null
   },
   {
     "ID": "3618273",
@@ -9959,9 +9095,7 @@ window.QUALIDADE_MUDA_DATA = [
     "Responsável": "VITOR AMORIM RAMOS ",
     "Qualidade da Muda": "BOM",
     "Observações": null,
-    "Fazenda": null,
-    "Observações ": null,
-    "Unnamed: 19": null
+    "Fazenda": null
   },
   {
     "ID": "3617914",
@@ -9982,9 +9116,7 @@ window.QUALIDADE_MUDA_DATA = [
     "Responsável": "Ruan Alexandre Lopes",
     "Qualidade da Muda": "BOM",
     "Observações": null,
-    "Fazenda": null,
-    "Observações ": null,
-    "Unnamed: 19": null
+    "Fazenda": null
   },
   {
     "ID": "3618581",
@@ -10005,9 +9137,7 @@ window.QUALIDADE_MUDA_DATA = [
     "Responsável": "GABRIEL HENRIQUE MARTINS PEREIRA",
     "Qualidade da Muda": "BOM",
     "Observações": null,
-    "Fazenda": null,
-    "Observações ": null,
-    "Unnamed: 19": null
+    "Fazenda": null
   },
   {
     "ID": "3618347",
@@ -10028,9 +9158,7 @@ window.QUALIDADE_MUDA_DATA = [
     "Responsável": "NILDA CLAUDINO [2510716]",
     "Qualidade da Muda": "BOM",
     "Observações": null,
-    "Fazenda": null,
-    "Observações ": null,
-    "Unnamed: 19": null
+    "Fazenda": null
   },
   {
     "ID": "3618754",
@@ -10051,9 +9179,7 @@ window.QUALIDADE_MUDA_DATA = [
     "Responsável": "MICHELI DE SOUZA SANTOS  ",
     "Qualidade da Muda": "BOM",
     "Observações": null,
-    "Fazenda": null,
-    "Observações ": null,
-    "Unnamed: 19": null
+    "Fazenda": null
   },
   {
     "ID": "3618744",
@@ -10074,9 +9200,7 @@ window.QUALIDADE_MUDA_DATA = [
     "Responsável": "MICHELI DE SOUZA SANTOS  ",
     "Qualidade da Muda": "BOM",
     "Observações": null,
-    "Fazenda": null,
-    "Observações ": null,
-    "Unnamed: 19": null
+    "Fazenda": null
   },
   {
     "ID": "3618737",
@@ -10097,9 +9221,7 @@ window.QUALIDADE_MUDA_DATA = [
     "Responsável": "MICHELI DE SOUZA SANTOS  ",
     "Qualidade da Muda": "BOM",
     "Observações": null,
-    "Fazenda": null,
-    "Observações ": null,
-    "Unnamed: 19": null
+    "Fazenda": null
   },
   {
     "ID": "3618734",
@@ -10120,9 +9242,7 @@ window.QUALIDADE_MUDA_DATA = [
     "Responsável": "MICHELI DE SOUZA SANTOS  ",
     "Qualidade da Muda": "BOM",
     "Observações": null,
-    "Fazenda": null,
-    "Observações ": null,
-    "Unnamed: 19": null
+    "Fazenda": null
   },
   {
     "ID": "3618726",
@@ -10143,9 +9263,7 @@ window.QUALIDADE_MUDA_DATA = [
     "Responsável": "MICHELI DE SOUZA SANTOS  ",
     "Qualidade da Muda": "BOM",
     "Observações": null,
-    "Fazenda": null,
-    "Observações ": null,
-    "Unnamed: 19": null
+    "Fazenda": null
   },
   {
     "ID": "3618722",
@@ -10166,9 +9284,7 @@ window.QUALIDADE_MUDA_DATA = [
     "Responsável": "MICHELI DE SOUZA SANTOS  ",
     "Qualidade da Muda": "BOM",
     "Observações": null,
-    "Fazenda": null,
-    "Observações ": null,
-    "Unnamed: 19": null
+    "Fazenda": null
   },
   {
     "ID": "3617787",
@@ -10189,9 +9305,7 @@ window.QUALIDADE_MUDA_DATA = [
     "Responsável": "VITOR AMORIM RAMOS ",
     "Qualidade da Muda": "BOM",
     "Observações": null,
-    "Fazenda": null,
-    "Observações ": null,
-    "Unnamed: 19": null
+    "Fazenda": null
   },
   {
     "ID": "3618574",
@@ -10212,9 +9326,7 @@ window.QUALIDADE_MUDA_DATA = [
     "Responsável": "GABRIEL HENRIQUE MARTINS PEREIRA",
     "Qualidade da Muda": "BOM",
     "Observações": null,
-    "Fazenda": null,
-    "Observações ": null,
-    "Unnamed: 19": null
+    "Fazenda": null
   },
   {
     "ID": "3617783",
@@ -10235,9 +9347,7 @@ window.QUALIDADE_MUDA_DATA = [
     "Responsável": "VITOR AMORIM RAMOS ",
     "Qualidade da Muda": "BOM",
     "Observações": null,
-    "Fazenda": null,
-    "Observações ": null,
-    "Unnamed: 19": null
+    "Fazenda": null
   },
   {
     "ID": "3618569",
@@ -10258,9 +9368,7 @@ window.QUALIDADE_MUDA_DATA = [
     "Responsável": "GABRIEL HENRIQUE MARTINS PEREIRA",
     "Qualidade da Muda": "BOM",
     "Observações": null,
-    "Fazenda": null,
-    "Observações ": null,
-    "Unnamed: 19": null
+    "Fazenda": null
   },
   {
     "ID": "3617896",
@@ -10281,9 +9389,7 @@ window.QUALIDADE_MUDA_DATA = [
     "Responsável": "MABILA HELEN D FIGUEIREDO",
     "Qualidade da Muda": "BOM",
     "Observações": null,
-    "Fazenda": null,
-    "Observações ": null,
-    "Unnamed: 19": null
+    "Fazenda": null
   },
   {
     "ID": "3618564",
@@ -10304,9 +9410,7 @@ window.QUALIDADE_MUDA_DATA = [
     "Responsável": "GABRIEL HENRIQUE MARTINS PEREIRA",
     "Qualidade da Muda": "BOM",
     "Observações": null,
-    "Fazenda": null,
-    "Observações ": null,
-    "Unnamed: 19": null
+    "Fazenda": null
   },
   {
     "ID": "3617778",
@@ -10327,9 +9431,7 @@ window.QUALIDADE_MUDA_DATA = [
     "Responsável": "VITOR AMORIM RAMOS ",
     "Qualidade da Muda": "BOM",
     "Observações": null,
-    "Fazenda": null,
-    "Observações ": null,
-    "Unnamed: 19": null
+    "Fazenda": null
   },
   {
     "ID": "3617725",
@@ -10350,9 +9452,7 @@ window.QUALIDADE_MUDA_DATA = [
     "Responsável": "Ruan Alexandre Lopes",
     "Qualidade da Muda": "BOM",
     "Observações": null,
-    "Fazenda": null,
-    "Observações ": null,
-    "Unnamed: 19": null
+    "Fazenda": null
   },
   {
     "ID": "3618559",
@@ -10373,9 +9473,7 @@ window.QUALIDADE_MUDA_DATA = [
     "Responsável": "GABRIEL HENRIQUE MARTINS PEREIRA",
     "Qualidade da Muda": "BOM",
     "Observações": null,
-    "Fazenda": null,
-    "Observações ": null,
-    "Unnamed: 19": null
+    "Fazenda": null
   },
   {
     "ID": "3617773",
@@ -10396,9 +9494,7 @@ window.QUALIDADE_MUDA_DATA = [
     "Responsável": "VITOR AMORIM RAMOS ",
     "Qualidade da Muda": "BOM",
     "Observações": null,
-    "Fazenda": null,
-    "Observações ": null,
-    "Unnamed: 19": null
+    "Fazenda": null
   },
   {
     "ID": "3618286",
@@ -10419,9 +9515,7 @@ window.QUALIDADE_MUDA_DATA = [
     "Responsável": "NILDA CLAUDINO [2510716]",
     "Qualidade da Muda": "BOM",
     "Observações": null,
-    "Fazenda": null,
-    "Observações ": null,
-    "Unnamed: 19": null
+    "Fazenda": null
   },
   {
     "ID": "3618554",
@@ -10442,9 +9536,7 @@ window.QUALIDADE_MUDA_DATA = [
     "Responsável": "GABRIEL HENRIQUE MARTINS PEREIRA",
     "Qualidade da Muda": "BOM",
     "Observações": null,
-    "Fazenda": null,
-    "Observações ": null,
-    "Unnamed: 19": null
+    "Fazenda": null
   },
   {
     "ID": "3617720",
@@ -10465,9 +9557,7 @@ window.QUALIDADE_MUDA_DATA = [
     "Responsável": "Ruan Alexandre Lopes",
     "Qualidade da Muda": "BOM",
     "Observações": null,
-    "Fazenda": null,
-    "Observações ": null,
-    "Unnamed: 19": null
+    "Fazenda": null
   },
   {
     "ID": "3618280",
@@ -10488,9 +9578,7 @@ window.QUALIDADE_MUDA_DATA = [
     "Responsável": "NILDA CLAUDINO [2510716]",
     "Qualidade da Muda": "BOM",
     "Observações": null,
-    "Fazenda": null,
-    "Observações ": null,
-    "Unnamed: 19": null
+    "Fazenda": null
   },
   {
     "ID": "3618262",
@@ -10511,9 +9599,7 @@ window.QUALIDADE_MUDA_DATA = [
     "Responsável": "NILDA CLAUDINO [2510716]",
     "Qualidade da Muda": "BOM",
     "Observações": null,
-    "Fazenda": null,
-    "Observações ": null,
-    "Unnamed: 19": null
+    "Fazenda": null
   },
   {
     "ID": "3617877",
@@ -10534,9 +9620,7 @@ window.QUALIDADE_MUDA_DATA = [
     "Responsável": "MABILA HELEN D FIGUEIREDO",
     "Qualidade da Muda": "BOM",
     "Observações": null,
-    "Fazenda": null,
-    "Observações ": null,
-    "Unnamed: 19": null
+    "Fazenda": null
   },
   {
     "ID": "3617713",
@@ -10557,9 +9641,7 @@ window.QUALIDADE_MUDA_DATA = [
     "Responsável": "Ruan Alexandre Lopes",
     "Qualidade da Muda": "BOM",
     "Observações": null,
-    "Fazenda": null,
-    "Observações ": null,
-    "Unnamed: 19": null
+    "Fazenda": null
   },
   {
     "ID": "3618257",
@@ -10580,9 +9662,7 @@ window.QUALIDADE_MUDA_DATA = [
     "Responsável": "NILDA CLAUDINO [2510716]",
     "Qualidade da Muda": "BOM",
     "Observações": null,
-    "Fazenda": null,
-    "Observações ": null,
-    "Unnamed: 19": null
+    "Fazenda": null
   },
   {
     "ID": "3617870",
@@ -10603,9 +9683,7 @@ window.QUALIDADE_MUDA_DATA = [
     "Responsável": "MABILA HELEN D FIGUEIREDO",
     "Qualidade da Muda": "BOM",
     "Observações": null,
-    "Fazenda": null,
-    "Observações ": null,
-    "Unnamed: 19": null
+    "Fazenda": null
   },
   {
     "ID": "3618251",
@@ -10626,9 +9704,7 @@ window.QUALIDADE_MUDA_DATA = [
     "Responsável": "NILDA CLAUDINO [2510716]",
     "Qualidade da Muda": "BOM",
     "Observações": null,
-    "Fazenda": null,
-    "Observações ": null,
-    "Unnamed: 19": null
+    "Fazenda": null
   },
   {
     "ID": "3617864",
@@ -10649,9 +9725,7 @@ window.QUALIDADE_MUDA_DATA = [
     "Responsável": "MABILA HELEN D FIGUEIREDO",
     "Qualidade da Muda": "BOM",
     "Observações": null,
-    "Fazenda": null,
-    "Observações ": null,
-    "Unnamed: 19": null
+    "Fazenda": null
   },
   {
     "ID": "3619737",
@@ -10672,9 +9746,7 @@ window.QUALIDADE_MUDA_DATA = [
     "Responsável": "MARCELO DE OLIVEIRA JUNIOR",
     "Qualidade da Muda": "BOM",
     "Observações": null,
-    "Fazenda": null,
-    "Observações ": null,
-    "Unnamed: 19": null
+    "Fazenda": null
   },
   {
     "ID": "3617567",
@@ -10695,9 +9767,7 @@ window.QUALIDADE_MUDA_DATA = [
     "Responsável": "FERNANDA DE SOUZA ",
     "Qualidade da Muda": "BOM",
     "Observações": null,
-    "Fazenda": null,
-    "Observações ": null,
-    "Unnamed: 19": null
+    "Fazenda": null
   },
   {
     "ID": "3617859",
@@ -10718,9 +9788,7 @@ window.QUALIDADE_MUDA_DATA = [
     "Responsável": "MABILA HELEN D FIGUEIREDO",
     "Qualidade da Muda": "BOM",
     "Observações": null,
-    "Fazenda": null,
-    "Observações ": null,
-    "Unnamed: 19": null
+    "Fazenda": null
   },
   {
     "ID": "3617560",
@@ -10741,9 +9809,7 @@ window.QUALIDADE_MUDA_DATA = [
     "Responsável": "FERNANDA DE SOUZA ",
     "Qualidade da Muda": "BOM",
     "Observações": null,
-    "Fazenda": null,
-    "Observações ": null,
-    "Unnamed: 19": null
+    "Fazenda": null
   },
   {
     "ID": "3619731",
@@ -10764,9 +9830,7 @@ window.QUALIDADE_MUDA_DATA = [
     "Responsável": "MARCELO DE OLIVEIRA JUNIOR",
     "Qualidade da Muda": "BOM",
     "Observações": null,
-    "Fazenda": null,
-    "Observações ": null,
-    "Unnamed: 19": null
+    "Fazenda": null
   },
   {
     "ID": "3619725",
@@ -10787,9 +9851,7 @@ window.QUALIDADE_MUDA_DATA = [
     "Responsável": "MARCELO DE OLIVEIRA JUNIOR",
     "Qualidade da Muda": "BOM",
     "Observações": null,
-    "Fazenda": null,
-    "Observações ": null,
-    "Unnamed: 19": null
+    "Fazenda": null
   },
   {
     "ID": "3614617",
@@ -10810,9 +9872,7 @@ window.QUALIDADE_MUDA_DATA = [
     "Responsável": "FERNANDA DE SOUZA ",
     "Qualidade da Muda": "BOM",
     "Observações": null,
-    "Fazenda": null,
-    "Observações ": null,
-    "Unnamed: 19": null
+    "Fazenda": null
   },
   {
     "ID": "3614610",
@@ -10833,9 +9893,7 @@ window.QUALIDADE_MUDA_DATA = [
     "Responsável": "FERNANDA DE SOUZA ",
     "Qualidade da Muda": "BOM",
     "Observações": null,
-    "Fazenda": null,
-    "Observações ": null,
-    "Unnamed: 19": null
+    "Fazenda": null
   },
   {
     "ID": "3614602",
@@ -10856,9 +9914,7 @@ window.QUALIDADE_MUDA_DATA = [
     "Responsável": "VITOR AMORIM RAMOS ",
     "Qualidade da Muda": "BOM",
     "Observações": null,
-    "Fazenda": null,
-    "Observações ": null,
-    "Unnamed: 19": null
+    "Fazenda": null
   },
   {
     "ID": "3614597",
@@ -10879,9 +9935,7 @@ window.QUALIDADE_MUDA_DATA = [
     "Responsável": "VITOR AMORIM RAMOS ",
     "Qualidade da Muda": "BOM",
     "Observações": null,
-    "Fazenda": null,
-    "Observações ": null,
-    "Unnamed: 19": null
+    "Fazenda": null
   },
   {
     "ID": "3614592",
@@ -10902,9 +9956,7 @@ window.QUALIDADE_MUDA_DATA = [
     "Responsável": "VITOR AMORIM RAMOS ",
     "Qualidade da Muda": "BOM",
     "Observações": null,
-    "Fazenda": null,
-    "Observações ": null,
-    "Unnamed: 19": null
+    "Fazenda": null
   },
   {
     "ID": "3614684",
@@ -10925,9 +9977,7 @@ window.QUALIDADE_MUDA_DATA = [
     "Responsável": "NILDA CLAUDINO [2510716]",
     "Qualidade da Muda": "BOM",
     "Observações": null,
-    "Fazenda": null,
-    "Observações ": null,
-    "Unnamed: 19": null
+    "Fazenda": null
   },
   {
     "ID": "3614376",
@@ -10948,9 +9998,7 @@ window.QUALIDADE_MUDA_DATA = [
     "Responsável": "FERNANDA DE SOUZA ",
     "Qualidade da Muda": "BOM",
     "Observações": null,
-    "Fazenda": null,
-    "Observações ": null,
-    "Unnamed: 19": null
+    "Fazenda": null
   },
   {
     "ID": "3614587",
@@ -10971,9 +10019,7 @@ window.QUALIDADE_MUDA_DATA = [
     "Responsável": "VITOR AMORIM RAMOS ",
     "Qualidade da Muda": "BOM",
     "Observações": null,
-    "Fazenda": null,
-    "Observações ": null,
-    "Unnamed: 19": null
+    "Fazenda": null
   },
   {
     "ID": "3614680",
@@ -10994,9 +10040,7 @@ window.QUALIDADE_MUDA_DATA = [
     "Responsável": "NILDA CLAUDINO [2510716]",
     "Qualidade da Muda": "BOM",
     "Observações": null,
-    "Fazenda": null,
-    "Observações ": null,
-    "Unnamed: 19": null
+    "Fazenda": null
   },
   {
     "ID": "3614370",
@@ -11017,9 +10061,7 @@ window.QUALIDADE_MUDA_DATA = [
     "Responsável": "FERNANDA DE SOUZA ",
     "Qualidade da Muda": "BOM",
     "Observações": null,
-    "Fazenda": null,
-    "Observações ": null,
-    "Unnamed: 19": null
+    "Fazenda": null
   },
   {
     "ID": "3614343",
@@ -11040,9 +10082,7 @@ window.QUALIDADE_MUDA_DATA = [
     "Responsável": "GLEISON FELIPE BORGES DE MATOS",
     "Qualidade da Muda": "BOM",
     "Observações": null,
-    "Fazenda": null,
-    "Observações ": null,
-    "Unnamed: 19": null
+    "Fazenda": null
   },
   {
     "ID": "3614288",
@@ -11063,9 +10103,7 @@ window.QUALIDADE_MUDA_DATA = [
     "Responsável": "GLEISON FELIPE BORGES DE MATOS",
     "Qualidade da Muda": "BOM",
     "Observações": null,
-    "Fazenda": null,
-    "Observações ": null,
-    "Unnamed: 19": null
+    "Fazenda": null
   },
   {
     "ID": "3614362",
@@ -11086,9 +10124,7 @@ window.QUALIDADE_MUDA_DATA = [
     "Responsável": "FERNANDA DE SOUZA ",
     "Qualidade da Muda": "BOM",
     "Observações": null,
-    "Fazenda": null,
-    "Observações ": null,
-    "Unnamed: 19": null
+    "Fazenda": null
   },
   {
     "ID": "3614358",
@@ -11109,9 +10145,7 @@ window.QUALIDADE_MUDA_DATA = [
     "Responsável": "FERNANDA DE SOUZA ",
     "Qualidade da Muda": "BOM",
     "Observações": null,
-    "Fazenda": null,
-    "Observações ": null,
-    "Unnamed: 19": null
+    "Fazenda": null
   },
   {
     "ID": "3613973",
@@ -11132,9 +10166,7 @@ window.QUALIDADE_MUDA_DATA = [
     "Responsável": "VITOR AMORIM RAMOS ",
     "Qualidade da Muda": "BOM",
     "Observações": null,
-    "Fazenda": null,
-    "Observações ": null,
-    "Unnamed: 19": null
+    "Fazenda": null
   },
   {
     "ID": "3614672",
@@ -11155,9 +10187,7 @@ window.QUALIDADE_MUDA_DATA = [
     "Responsável": "NILDA CLAUDINO [2510716]",
     "Qualidade da Muda": "BOM",
     "Observações": null,
-    "Fazenda": null,
-    "Observações ": null,
-    "Unnamed: 19": null
+    "Fazenda": null
   },
   {
     "ID": "3613968",
@@ -11178,9 +10208,7 @@ window.QUALIDADE_MUDA_DATA = [
     "Responsável": "VITOR AMORIM RAMOS ",
     "Qualidade da Muda": "BOM",
     "Observações": null,
-    "Fazenda": null,
-    "Observações ": null,
-    "Unnamed: 19": null
+    "Fazenda": null
   },
   {
     "ID": "3614187",
@@ -11201,9 +10229,7 @@ window.QUALIDADE_MUDA_DATA = [
     "Responsável": "FERNANDA DE SOUZA ",
     "Qualidade da Muda": "BOM",
     "Observações": null,
-    "Fazenda": null,
-    "Observações ": null,
-    "Unnamed: 19": null
+    "Fazenda": null
   },
   {
     "ID": "3614667",
@@ -11224,9 +10250,7 @@ window.QUALIDADE_MUDA_DATA = [
     "Responsável": "NILDA CLAUDINO [2510716]",
     "Qualidade da Muda": "BOM",
     "Observações": null,
-    "Fazenda": null,
-    "Observações ": null,
-    "Unnamed: 19": null
+    "Fazenda": null
   },
   {
     "ID": "3613963",
@@ -11247,9 +10271,7 @@ window.QUALIDADE_MUDA_DATA = [
     "Responsável": "VITOR AMORIM RAMOS ",
     "Qualidade da Muda": "BOM",
     "Observações": null,
-    "Fazenda": null,
-    "Observações ": null,
-    "Unnamed: 19": null
+    "Fazenda": null
   },
   {
     "ID": "3613958",
@@ -11270,9 +10292,7 @@ window.QUALIDADE_MUDA_DATA = [
     "Responsável": "VITOR AMORIM RAMOS ",
     "Qualidade da Muda": "BOM",
     "Observações": null,
-    "Fazenda": null,
-    "Observações ": null,
-    "Unnamed: 19": null
+    "Fazenda": null
   },
   {
     "ID": "3613953",
@@ -11293,9 +10313,7 @@ window.QUALIDADE_MUDA_DATA = [
     "Responsável": "VITOR AMORIM RAMOS ",
     "Qualidade da Muda": "BOM",
     "Observações": null,
-    "Fazenda": null,
-    "Observações ": null,
-    "Unnamed: 19": null
+    "Fazenda": null
   },
   {
     "ID": "3614659",
@@ -11316,9 +10334,7 @@ window.QUALIDADE_MUDA_DATA = [
     "Responsável": "NILDA CLAUDINO [2510716]",
     "Qualidade da Muda": "BOM",
     "Observações": null,
-    "Fazenda": null,
-    "Observações ": null,
-    "Unnamed: 19": null
+    "Fazenda": null
   },
   {
     "ID": "3614655",
@@ -11339,9 +10355,7 @@ window.QUALIDADE_MUDA_DATA = [
     "Responsável": "NILDA CLAUDINO [2510716]",
     "Qualidade da Muda": "BOM",
     "Observações": null,
-    "Fazenda": null,
-    "Observações ": null,
-    "Unnamed: 19": null
+    "Fazenda": null
   },
   {
     "ID": "3614650",
@@ -11362,9 +10376,7 @@ window.QUALIDADE_MUDA_DATA = [
     "Responsável": "NILDA CLAUDINO [2510716]",
     "Qualidade da Muda": "BOM",
     "Observações": null,
-    "Fazenda": null,
-    "Observações ": null,
-    "Unnamed: 19": null
+    "Fazenda": null
   },
   {
     "ID": "3613811",
@@ -11385,9 +10397,7 @@ window.QUALIDADE_MUDA_DATA = [
     "Responsável": "MICHELI DE SOUZA SANTOS  ",
     "Qualidade da Muda": "BOM",
     "Observações": null,
-    "Fazenda": null,
-    "Observações ": null,
-    "Unnamed: 19": null
+    "Fazenda": null
   },
   {
     "ID": "3613947",
@@ -11408,9 +10418,7 @@ window.QUALIDADE_MUDA_DATA = [
     "Responsável": "VITOR AMORIM RAMOS ",
     "Qualidade da Muda": "BOM",
     "Observações": null,
-    "Fazenda": null,
-    "Observações ": null,
-    "Unnamed: 19": null
+    "Fazenda": null
   },
   {
     "ID": "3613802",
@@ -11431,9 +10439,7 @@ window.QUALIDADE_MUDA_DATA = [
     "Responsável": "MICHELI DE SOUZA SANTOS  ",
     "Qualidade da Muda": "BOM",
     "Observações": null,
-    "Fazenda": null,
-    "Observações ": null,
-    "Unnamed: 19": null
+    "Fazenda": null
   },
   {
     "ID": "3613942",
@@ -11454,9 +10460,7 @@ window.QUALIDADE_MUDA_DATA = [
     "Responsável": "VITOR AMORIM RAMOS ",
     "Qualidade da Muda": "BOM",
     "Observações": null,
-    "Fazenda": null,
-    "Observações ": null,
-    "Unnamed: 19": null
+    "Fazenda": null
   },
   {
     "ID": "3613797",
@@ -11477,9 +10481,7 @@ window.QUALIDADE_MUDA_DATA = [
     "Responsável": "MICHELI DE SOUZA SANTOS  ",
     "Qualidade da Muda": "BOM",
     "Observações": null,
-    "Fazenda": null,
-    "Observações ": null,
-    "Unnamed: 19": null
+    "Fazenda": null
   },
   {
     "ID": "3614644",
@@ -11500,9 +10502,7 @@ window.QUALIDADE_MUDA_DATA = [
     "Responsável": "NILDA CLAUDINO [2510716]",
     "Qualidade da Muda": "BOM",
     "Observações": null,
-    "Fazenda": null,
-    "Observações ": null,
-    "Unnamed: 19": null
+    "Fazenda": null
   },
   {
     "ID": "3613937",
@@ -11523,9 +10523,7 @@ window.QUALIDADE_MUDA_DATA = [
     "Responsável": "VITOR AMORIM RAMOS ",
     "Qualidade da Muda": "BOM",
     "Observações": null,
-    "Fazenda": null,
-    "Observações ": null,
-    "Unnamed: 19": null
+    "Fazenda": null
   },
   {
     "ID": "3614639",
@@ -11546,9 +10544,7 @@ window.QUALIDADE_MUDA_DATA = [
     "Responsável": "NILDA CLAUDINO [2510716]",
     "Qualidade da Muda": "BOM",
     "Observações": null,
-    "Fazenda": null,
-    "Observações ": null,
-    "Unnamed: 19": null
+    "Fazenda": null
   },
   {
     "ID": "3613932",
@@ -11569,9 +10565,7 @@ window.QUALIDADE_MUDA_DATA = [
     "Responsável": "VITOR AMORIM RAMOS ",
     "Qualidade da Muda": "BOM",
     "Observações": null,
-    "Fazenda": null,
-    "Observações ": null,
-    "Unnamed: 19": null
+    "Fazenda": null
   },
   {
     "ID": "3614634",
@@ -11592,9 +10586,7 @@ window.QUALIDADE_MUDA_DATA = [
     "Responsável": "NILDA CLAUDINO [2510716]",
     "Qualidade da Muda": "BOM",
     "Observações": null,
-    "Fazenda": null,
-    "Observações ": null,
-    "Unnamed: 19": null
+    "Fazenda": null
   },
   {
     "ID": "3613789",
@@ -11615,9 +10607,7 @@ window.QUALIDADE_MUDA_DATA = [
     "Responsável": "MICHELI DE SOUZA SANTOS  ",
     "Qualidade da Muda": "BOM",
     "Observações": null,
-    "Fazenda": null,
-    "Observações ": null,
-    "Unnamed: 19": null
+    "Fazenda": null
   },
   {
     "ID": "3613927",
@@ -11638,9 +10628,7 @@ window.QUALIDADE_MUDA_DATA = [
     "Responsável": "VITOR AMORIM RAMOS ",
     "Qualidade da Muda": "BOM",
     "Observações": null,
-    "Fazenda": null,
-    "Observações ": null,
-    "Unnamed: 19": null
+    "Fazenda": null
   },
   {
     "ID": "3611594",
@@ -11661,9 +10649,7 @@ window.QUALIDADE_MUDA_DATA = [
     "Responsável": "NILDA CLAUDINO [2510716]",
     "Qualidade da Muda": "BOM",
     "Observações": null,
-    "Fazenda": null,
-    "Observações ": null,
-    "Unnamed: 19": null
+    "Fazenda": null
   },
   {
     "ID": "3611639",
@@ -11684,9 +10670,7 @@ window.QUALIDADE_MUDA_DATA = [
     "Responsável": "FERNANDA DE SOUZA ",
     "Qualidade da Muda": "BOM",
     "Observações": null,
-    "Fazenda": null,
-    "Observações ": null,
-    "Unnamed: 19": null
+    "Fazenda": null
   },
   {
     "ID": "3611638",
@@ -11707,9 +10691,7 @@ window.QUALIDADE_MUDA_DATA = [
     "Responsável": "FERNANDA DE SOUZA ",
     "Qualidade da Muda": "BOM",
     "Observações": null,
-    "Fazenda": null,
-    "Observações ": null,
-    "Unnamed: 19": null
+    "Fazenda": null
   },
   {
     "ID": "3613602",
@@ -11730,9 +10712,7 @@ window.QUALIDADE_MUDA_DATA = [
     "Responsável": "MARCELO DE OLIVEIRA JUNIOR",
     "Qualidade da Muda": "BOM",
     "Observações": null,
-    "Fazenda": null,
-    "Observações ": null,
-    "Unnamed: 19": null
+    "Fazenda": null
   },
   {
     "ID": "3611635",
@@ -11753,9 +10733,7 @@ window.QUALIDADE_MUDA_DATA = [
     "Responsável": "FERNANDA DE SOUZA ",
     "Qualidade da Muda": "BOM",
     "Observações": null,
-    "Fazenda": null,
-    "Observações ": null,
-    "Unnamed: 19": null
+    "Fazenda": null
   },
   {
     "ID": "3612788",
@@ -11776,9 +10754,7 @@ window.QUALIDADE_MUDA_DATA = [
     "Responsável": "VITOR AMORIM RAMOS ",
     "Qualidade da Muda": "BOM",
     "Observações": null,
-    "Fazenda": null,
-    "Observações ": null,
-    "Unnamed: 19": null
+    "Fazenda": null
   },
   {
     "ID": "3611584",
@@ -11799,9 +10775,7 @@ window.QUALIDADE_MUDA_DATA = [
     "Responsável": "NILDA CLAUDINO [2510716]",
     "Qualidade da Muda": "BOM",
     "Observações": null,
-    "Fazenda": null,
-    "Observações ": null,
-    "Unnamed: 19": null
+    "Fazenda": null
   },
   {
     "ID": "3612783",
@@ -11822,9 +10796,7 @@ window.QUALIDADE_MUDA_DATA = [
     "Responsável": "VITOR AMORIM RAMOS ",
     "Qualidade da Muda": "BOM",
     "Observações": null,
-    "Fazenda": null,
-    "Observações ": null,
-    "Unnamed: 19": null
+    "Fazenda": null
   },
   {
     "ID": "3613596",
@@ -11845,9 +10817,7 @@ window.QUALIDADE_MUDA_DATA = [
     "Responsável": "MARCELO DE OLIVEIRA JUNIOR",
     "Qualidade da Muda": "BOM",
     "Observações": null,
-    "Fazenda": null,
-    "Observações ": null,
-    "Unnamed: 19": null
+    "Fazenda": null
   },
   {
     "ID": "3611579",
@@ -11868,9 +10838,7 @@ window.QUALIDADE_MUDA_DATA = [
     "Responsável": "NILDA CLAUDINO [2510716]",
     "Qualidade da Muda": "BOM",
     "Observações": null,
-    "Fazenda": null,
-    "Observações ": null,
-    "Unnamed: 19": null
+    "Fazenda": null
   },
   {
     "ID": "3612779",
@@ -11891,9 +10859,7 @@ window.QUALIDADE_MUDA_DATA = [
     "Responsável": "VITOR AMORIM RAMOS ",
     "Qualidade da Muda": "BOM",
     "Observações": null,
-    "Fazenda": null,
-    "Observações ": null,
-    "Unnamed: 19": null
+    "Fazenda": null
   },
   {
     "ID": "3613589",
@@ -11914,9 +10880,7 @@ window.QUALIDADE_MUDA_DATA = [
     "Responsável": "MARCELO DE OLIVEIRA JUNIOR",
     "Qualidade da Muda": "BOM",
     "Observações": null,
-    "Fazenda": null,
-    "Observações ": null,
-    "Unnamed: 19": null
+    "Fazenda": null
   },
   {
     "ID": "3613584",
@@ -11937,9 +10901,7 @@ window.QUALIDADE_MUDA_DATA = [
     "Responsável": "MARCELO DE OLIVEIRA JUNIOR",
     "Qualidade da Muda": "BOM",
     "Observações": null,
-    "Fazenda": null,
-    "Observações ": null,
-    "Unnamed: 19": null
+    "Fazenda": null
   },
   {
     "ID": "3612771",
@@ -11960,9 +10922,7 @@ window.QUALIDADE_MUDA_DATA = [
     "Responsável": "VITOR AMORIM RAMOS ",
     "Qualidade da Muda": "BOM",
     "Observações": null,
-    "Fazenda": null,
-    "Observações ": null,
-    "Unnamed: 19": null
+    "Fazenda": null
   },
   {
     "ID": "3611573",
@@ -11983,9 +10943,7 @@ window.QUALIDADE_MUDA_DATA = [
     "Responsável": "NILDA CLAUDINO [2510716]",
     "Qualidade da Muda": "BOM",
     "Observações": null,
-    "Fazenda": null,
-    "Observações ": null,
-    "Unnamed: 19": null
+    "Fazenda": null
   },
   {
     "ID": "3613577",
@@ -12006,9 +10964,7 @@ window.QUALIDADE_MUDA_DATA = [
     "Responsável": "MARCELO DE OLIVEIRA JUNIOR",
     "Qualidade da Muda": "BOM",
     "Observações": null,
-    "Fazenda": null,
-    "Observações ": null,
-    "Unnamed: 19": null
+    "Fazenda": null
   },
   {
     "ID": "3611568",
@@ -12029,9 +10985,7 @@ window.QUALIDADE_MUDA_DATA = [
     "Responsável": "NILDA CLAUDINO [2510716]",
     "Qualidade da Muda": "BOM",
     "Observações": null,
-    "Fazenda": null,
-    "Observações ": null,
-    "Unnamed: 19": null
+    "Fazenda": null
   },
   {
     "ID": "3612767",
@@ -12052,9 +11006,7 @@ window.QUALIDADE_MUDA_DATA = [
     "Responsável": "VITOR AMORIM RAMOS ",
     "Qualidade da Muda": "BOM",
     "Observações": null,
-    "Fazenda": null,
-    "Observações ": null,
-    "Unnamed: 19": null
+    "Fazenda": null
   },
   {
     "ID": "3613572",
@@ -12075,9 +11027,7 @@ window.QUALIDADE_MUDA_DATA = [
     "Responsável": "MARCELO DE OLIVEIRA JUNIOR",
     "Qualidade da Muda": "BOM",
     "Observações": null,
-    "Fazenda": null,
-    "Observações ": null,
-    "Unnamed: 19": null
+    "Fazenda": null
   },
   {
     "ID": "3611563",
@@ -12098,9 +11048,7 @@ window.QUALIDADE_MUDA_DATA = [
     "Responsável": "NILDA CLAUDINO [2510716]",
     "Qualidade da Muda": "BOM",
     "Observações": null,
-    "Fazenda": null,
-    "Observações ": null,
-    "Unnamed: 19": null
+    "Fazenda": null
   },
   {
     "ID": "3612763",
@@ -12121,9 +11069,7 @@ window.QUALIDADE_MUDA_DATA = [
     "Responsável": "VITOR AMORIM RAMOS ",
     "Qualidade da Muda": "BOM",
     "Observações": null,
-    "Fazenda": null,
-    "Observações ": null,
-    "Unnamed: 19": null
+    "Fazenda": null
   },
   {
     "ID": "3613566",
@@ -12144,9 +11090,7 @@ window.QUALIDADE_MUDA_DATA = [
     "Responsável": "MARCELO DE OLIVEIRA JUNIOR",
     "Qualidade da Muda": "BOM",
     "Observações": null,
-    "Fazenda": null,
-    "Observações ": null,
-    "Unnamed: 19": null
+    "Fazenda": null
   },
   {
     "ID": "3612758",
@@ -12167,9 +11111,7 @@ window.QUALIDADE_MUDA_DATA = [
     "Responsável": "VITOR AMORIM RAMOS ",
     "Qualidade da Muda": "BOM",
     "Observações": null,
-    "Fazenda": null,
-    "Observações ": null,
-    "Unnamed: 19": null
+    "Fazenda": null
   },
   {
     "ID": "3613561",
@@ -12190,9 +11132,7 @@ window.QUALIDADE_MUDA_DATA = [
     "Responsável": "MARCELO DE OLIVEIRA JUNIOR",
     "Qualidade da Muda": "BOM",
     "Observações": null,
-    "Fazenda": null,
-    "Observações ": null,
-    "Unnamed: 19": null
+    "Fazenda": null
   },
   {
     "ID": "3610965",
@@ -12213,9 +11153,7 @@ window.QUALIDADE_MUDA_DATA = [
     "Responsável": "VITOR AMORIM RAMOS ",
     "Qualidade da Muda": "BOM",
     "Observações": null,
-    "Fazenda": null,
-    "Observações ": null,
-    "Unnamed: 19": null
+    "Fazenda": null
   },
   {
     "ID": "3610964",
@@ -12236,9 +11174,7 @@ window.QUALIDADE_MUDA_DATA = [
     "Responsável": "VITOR AMORIM RAMOS ",
     "Qualidade da Muda": "BOM",
     "Observações": null,
-    "Fazenda": null,
-    "Observações ": null,
-    "Unnamed: 19": null
+    "Fazenda": null
   },
   {
     "ID": "3610963",
@@ -12259,9 +11195,7 @@ window.QUALIDADE_MUDA_DATA = [
     "Responsável": "VITOR AMORIM RAMOS ",
     "Qualidade da Muda": "BOM",
     "Observações": null,
-    "Fazenda": null,
-    "Observações ": null,
-    "Unnamed: 19": null
+    "Fazenda": null
   },
   {
     "ID": "3610945",
@@ -12282,9 +11216,7 @@ window.QUALIDADE_MUDA_DATA = [
     "Responsável": "VITOR AMORIM RAMOS ",
     "Qualidade da Muda": "BOM",
     "Observações": null,
-    "Fazenda": null,
-    "Observações ": null,
-    "Unnamed: 19": null
+    "Fazenda": null
   },
   {
     "ID": "3610942",
@@ -12305,9 +11237,7 @@ window.QUALIDADE_MUDA_DATA = [
     "Responsável": "VITOR AMORIM RAMOS ",
     "Qualidade da Muda": "BOM",
     "Observações": null,
-    "Fazenda": null,
-    "Observações ": null,
-    "Unnamed: 19": null
+    "Fazenda": null
   },
   {
     "ID": "3611197",
@@ -12328,9 +11258,7 @@ window.QUALIDADE_MUDA_DATA = [
     "Responsável": "REGINALDO DA SILVA GOMES ",
     "Qualidade da Muda": "BOM",
     "Observações": null,
-    "Fazenda": null,
-    "Observações ": null,
-    "Unnamed: 19": null
+    "Fazenda": null
   },
   {
     "ID": "3611585",
@@ -12351,9 +11279,7 @@ window.QUALIDADE_MUDA_DATA = [
     "Responsável": "NILDA CLAUDINO [2510716]",
     "Qualidade da Muda": "BOM",
     "Observações": null,
-    "Fazenda": null,
-    "Observações ": null,
-    "Unnamed: 19": null
+    "Fazenda": null
   },
   {
     "ID": "3611192",
@@ -12374,9 +11300,7 @@ window.QUALIDADE_MUDA_DATA = [
     "Responsável": "REGINALDO DA SILVA GOMES ",
     "Qualidade da Muda": "BOM",
     "Observações": null,
-    "Fazenda": null,
-    "Observações ": null,
-    "Unnamed: 19": null
+    "Fazenda": null
   },
   {
     "ID": "3611186",
@@ -12397,9 +11321,7 @@ window.QUALIDADE_MUDA_DATA = [
     "Responsável": "REGINALDO DA SILVA GOMES ",
     "Qualidade da Muda": "BOM",
     "Observações": null,
-    "Fazenda": null,
-    "Observações ": null,
-    "Unnamed: 19": null
+    "Fazenda": null
   },
   {
     "ID": "3611785",
@@ -12420,9 +11342,7 @@ window.QUALIDADE_MUDA_DATA = [
     "Responsável": "GABRIEL HENRIQUE MARTINS PEREIRA",
     "Qualidade da Muda": "BOM",
     "Observações": null,
-    "Fazenda": null,
-    "Observações ": null,
-    "Unnamed: 19": null
+    "Fazenda": null
   },
   {
     "ID": "3611778",
@@ -12443,9 +11363,7 @@ window.QUALIDADE_MUDA_DATA = [
     "Responsável": "GABRIEL HENRIQUE MARTINS PEREIRA",
     "Qualidade da Muda": "BOM",
     "Observações": null,
-    "Fazenda": null,
-    "Observações ": null,
-    "Unnamed: 19": null
+    "Fazenda": null
   },
   {
     "ID": "3613555",
@@ -12466,9 +11384,7 @@ window.QUALIDADE_MUDA_DATA = [
     "Responsável": "MARCELO DE OLIVEIRA JUNIOR",
     "Qualidade da Muda": "BOM",
     "Observações": null,
-    "Fazenda": null,
-    "Observações ": null,
-    "Unnamed: 19": null
+    "Fazenda": null
   },
   {
     "ID": "3611543",
@@ -12489,9 +11405,7 @@ window.QUALIDADE_MUDA_DATA = [
     "Responsável": "NILDA CLAUDINO [2510716]",
     "Qualidade da Muda": "BOM",
     "Observações": null,
-    "Fazenda": null,
-    "Observações ": null,
-    "Unnamed: 19": null
+    "Fazenda": null
   },
   {
     "ID": "3611771",
@@ -12512,9 +11426,7 @@ window.QUALIDADE_MUDA_DATA = [
     "Responsável": "GABRIEL HENRIQUE MARTINS PEREIRA",
     "Qualidade da Muda": "BOM",
     "Observações": null,
-    "Fazenda": null,
-    "Observações ": null,
-    "Unnamed: 19": null
+    "Fazenda": null
   },
   {
     "ID": "3613550",
@@ -12535,9 +11447,7 @@ window.QUALIDADE_MUDA_DATA = [
     "Responsável": "MARCELO DE OLIVEIRA JUNIOR",
     "Qualidade da Muda": "BOM",
     "Observações": null,
-    "Fazenda": null,
-    "Observações ": null,
-    "Unnamed: 19": null
+    "Fazenda": null
   },
   {
     "ID": "3611538",
@@ -12558,9 +11468,7 @@ window.QUALIDADE_MUDA_DATA = [
     "Responsável": "NILDA CLAUDINO [2510716]",
     "Qualidade da Muda": "BOM",
     "Observações": null,
-    "Fazenda": null,
-    "Observações ": null,
-    "Unnamed: 19": null
+    "Fazenda": null
   },
   {
     "ID": "3611761",
@@ -12581,9 +11489,7 @@ window.QUALIDADE_MUDA_DATA = [
     "Responsável": "GABRIEL HENRIQUE MARTINS PEREIRA",
     "Qualidade da Muda": "BOM",
     "Observações": null,
-    "Fazenda": null,
-    "Observações ": null,
-    "Unnamed: 19": null
+    "Fazenda": null
   },
   {
     "ID": "3613546",
@@ -12604,9 +11510,7 @@ window.QUALIDADE_MUDA_DATA = [
     "Responsável": "MARCELO DE OLIVEIRA JUNIOR",
     "Qualidade da Muda": "BOM",
     "Observações": null,
-    "Fazenda": null,
-    "Observações ": null,
-    "Unnamed: 19": null
+    "Fazenda": null
   },
   {
     "ID": "3611752",
@@ -12627,9 +11531,7 @@ window.QUALIDADE_MUDA_DATA = [
     "Responsável": "GABRIEL HENRIQUE MARTINS PEREIRA",
     "Qualidade da Muda": "BOM",
     "Observações": null,
-    "Fazenda": null,
-    "Observações ": null,
-    "Unnamed: 19": null
+    "Fazenda": null
   },
   {
     "ID": "3611738",
@@ -12650,9 +11552,7 @@ window.QUALIDADE_MUDA_DATA = [
     "Responsável": "GABRIEL HENRIQUE MARTINS PEREIRA",
     "Qualidade da Muda": "BOM",
     "Observações": null,
-    "Fazenda": null,
-    "Observações ": null,
-    "Unnamed: 19": null
+    "Fazenda": null
   },
   {
     "ID": "3611731",
@@ -12673,9 +11573,7 @@ window.QUALIDADE_MUDA_DATA = [
     "Responsável": "GABRIEL HENRIQUE MARTINS PEREIRA",
     "Qualidade da Muda": "BOM",
     "Observações": null,
-    "Fazenda": null,
-    "Observações ": null,
-    "Unnamed: 19": null
+    "Fazenda": null
   },
   {
     "ID": "3611098",
@@ -12696,9 +11594,7 @@ window.QUALIDADE_MUDA_DATA = [
     "Responsável": "NILDA CLAUDINO [2510716]",
     "Qualidade da Muda": "BOM",
     "Observações": null,
-    "Fazenda": null,
-    "Observações ": null,
-    "Unnamed: 19": null
+    "Fazenda": null
   },
   {
     "ID": "3608274",
@@ -12719,9 +11615,7 @@ window.QUALIDADE_MUDA_DATA = [
     "Responsável": "NILDA CLAUDINO [2510716]",
     "Qualidade da Muda": "BOM",
     "Observações": null,
-    "Fazenda": null,
-    "Observações ": null,
-    "Unnamed: 19": null
+    "Fazenda": null
   },
   {
     "ID": "3607898",
@@ -12742,9 +11636,7 @@ window.QUALIDADE_MUDA_DATA = [
     "Responsável": "FERNANDA DE SOUZA ",
     "Qualidade da Muda": "BOM",
     "Observações": null,
-    "Fazenda": null,
-    "Observações ": null,
-    "Unnamed: 19": null
+    "Fazenda": null
   },
   {
     "ID": "3609569",
@@ -12765,9 +11657,7 @@ window.QUALIDADE_MUDA_DATA = [
     "Responsável": "MICHELI DE SOUZA SANTOS  ",
     "Qualidade da Muda": "BOM",
     "Observações": null,
-    "Fazenda": null,
-    "Observações ": null,
-    "Unnamed: 19": null
+    "Fazenda": null
   },
   {
     "ID": "3609566",
@@ -12788,9 +11678,7 @@ window.QUALIDADE_MUDA_DATA = [
     "Responsável": "MICHELI DE SOUZA SANTOS  ",
     "Qualidade da Muda": "BOM",
     "Observações": null,
-    "Fazenda": null,
-    "Observações ": null,
-    "Unnamed: 19": null
+    "Fazenda": null
   },
   {
     "ID": "3608557",
@@ -12811,9 +11699,7 @@ window.QUALIDADE_MUDA_DATA = [
     "Responsável": "VITOR AMORIM RAMOS ",
     "Qualidade da Muda": "BOM",
     "Observações": null,
-    "Fazenda": null,
-    "Observações ": null,
-    "Unnamed: 19": null
+    "Fazenda": null
   },
   {
     "ID": "3607893",
@@ -12834,9 +11720,7 @@ window.QUALIDADE_MUDA_DATA = [
     "Responsável": "FERNANDA DE SOUZA ",
     "Qualidade da Muda": "BOM",
     "Observações": null,
-    "Fazenda": null,
-    "Observações ": null,
-    "Unnamed: 19": null
+    "Fazenda": null
   },
   {
     "ID": "3608552",
@@ -12857,9 +11741,7 @@ window.QUALIDADE_MUDA_DATA = [
     "Responsável": "VITOR AMORIM RAMOS ",
     "Qualidade da Muda": "BOM",
     "Observações": null,
-    "Fazenda": null,
-    "Observações ": null,
-    "Unnamed: 19": null
+    "Fazenda": null
   },
   {
     "ID": "3609559",
@@ -12880,9 +11762,7 @@ window.QUALIDADE_MUDA_DATA = [
     "Responsável": "MICHELI DE SOUZA SANTOS  ",
     "Qualidade da Muda": "BOM",
     "Observações": null,
-    "Fazenda": null,
-    "Observações ": null,
-    "Unnamed: 19": null
+    "Fazenda": null
   },
   {
     "ID": "3608270",
@@ -12903,9 +11783,7 @@ window.QUALIDADE_MUDA_DATA = [
     "Responsável": "NILDA CLAUDINO [2510716]",
     "Qualidade da Muda": "BOM",
     "Observações": null,
-    "Fazenda": null,
-    "Observações ": null,
-    "Unnamed: 19": null
+    "Fazenda": null
   },
   {
     "ID": "3608547",
@@ -12926,9 +11804,7 @@ window.QUALIDADE_MUDA_DATA = [
     "Responsável": "VITOR AMORIM RAMOS ",
     "Qualidade da Muda": "BOM",
     "Observações": null,
-    "Fazenda": null,
-    "Observações ": null,
-    "Unnamed: 19": null
+    "Fazenda": null
   },
   {
     "ID": "3608708",
@@ -12949,9 +11825,7 @@ window.QUALIDADE_MUDA_DATA = [
     "Responsável": "MABILA HELEN D FIGUEIREDO",
     "Qualidade da Muda": "BOM",
     "Observações": null,
-    "Fazenda": null,
-    "Observações ": null,
-    "Unnamed: 19": null
+    "Fazenda": null
   },
   {
     "ID": "3607534",
@@ -12972,9 +11846,7 @@ window.QUALIDADE_MUDA_DATA = [
     "Responsável": "FERNANDA DE SOUZA ",
     "Qualidade da Muda": "BOM",
     "Observações": null,
-    "Fazenda": null,
-    "Observações ": null,
-    "Unnamed: 19": null
+    "Fazenda": null
   },
   {
     "ID": "3608315",
@@ -12995,9 +11867,7 @@ window.QUALIDADE_MUDA_DATA = [
     "Responsável": "GABRIEL HENRIQUE MARTINS PEREIRA",
     "Qualidade da Muda": "BOM",
     "Observações": null,
-    "Fazenda": null,
-    "Observações ": null,
-    "Unnamed: 19": null
+    "Fazenda": null
   },
   {
     "ID": "3607516",
@@ -13018,9 +11888,7 @@ window.QUALIDADE_MUDA_DATA = [
     "Responsável": "FERNANDA DE SOUZA ",
     "Qualidade da Muda": "BOM",
     "Observações": null,
-    "Fazenda": null,
-    "Observações ": null,
-    "Unnamed: 19": null
+    "Fazenda": null
   },
   {
     "ID": "3607508",
@@ -13041,9 +11909,7 @@ window.QUALIDADE_MUDA_DATA = [
     "Responsável": " Antonio ",
     "Qualidade da Muda": "BOM",
     "Observações": null,
-    "Fazenda": null,
-    "Observações ": null,
-    "Unnamed: 19": null
+    "Fazenda": null
   },
   {
     "ID": "3607601",
@@ -13064,9 +11930,7 @@ window.QUALIDADE_MUDA_DATA = [
     "Responsável": "VITOR AMORIM RAMOS ",
     "Qualidade da Muda": "BOM",
     "Observações": null,
-    "Fazenda": null,
-    "Observações ": null,
-    "Unnamed: 19": null
+    "Fazenda": null
   },
   {
     "ID": "3607504",
@@ -13087,9 +11951,7 @@ window.QUALIDADE_MUDA_DATA = [
     "Responsável": "MABILA HELEN D FIGUEIREDO",
     "Qualidade da Muda": "BOM",
     "Observações": null,
-    "Fazenda": null,
-    "Observações ": null,
-    "Unnamed: 19": null
+    "Fazenda": null
   },
   {
     "ID": "3609539",
@@ -13110,9 +11972,7 @@ window.QUALIDADE_MUDA_DATA = [
     "Responsável": "MICHELI DE SOUZA SANTOS  ",
     "Qualidade da Muda": "BOM",
     "Observações": null,
-    "Fazenda": null,
-    "Observações ": null,
-    "Unnamed: 19": null
+    "Fazenda": null
   },
   {
     "ID": "3608310",
@@ -13133,9 +11993,7 @@ window.QUALIDADE_MUDA_DATA = [
     "Responsável": "GABRIEL HENRIQUE MARTINS PEREIRA",
     "Qualidade da Muda": "BOM",
     "Observações": null,
-    "Fazenda": null,
-    "Observações ": null,
-    "Unnamed: 19": null
+    "Fazenda": null
   },
   {
     "ID": "3607596",
@@ -13156,9 +12014,7 @@ window.QUALIDADE_MUDA_DATA = [
     "Responsável": "VITOR AMORIM RAMOS ",
     "Qualidade da Muda": "BOM",
     "Observações": null,
-    "Fazenda": null,
-    "Observações ": null,
-    "Unnamed: 19": null
+    "Fazenda": null
   },
   {
     "ID": "3609534",
@@ -13179,9 +12035,7 @@ window.QUALIDADE_MUDA_DATA = [
     "Responsável": "MICHELI DE SOUZA SANTOS  ",
     "Qualidade da Muda": "BOM",
     "Observações": null,
-    "Fazenda": null,
-    "Observações ": null,
-    "Unnamed: 19": null
+    "Fazenda": null
   },
   {
     "ID": "3607591",
@@ -13202,9 +12056,7 @@ window.QUALIDADE_MUDA_DATA = [
     "Responsável": "VITOR AMORIM RAMOS ",
     "Qualidade da Muda": "BOM",
     "Observações": null,
-    "Fazenda": null,
-    "Observações ": null,
-    "Unnamed: 19": null
+    "Fazenda": null
   },
   {
     "ID": "3609526",
@@ -13225,9 +12077,7 @@ window.QUALIDADE_MUDA_DATA = [
     "Responsável": "MICHELI DE SOUZA SANTOS  ",
     "Qualidade da Muda": "BOM",
     "Observações": null,
-    "Fazenda": null,
-    "Observações ": null,
-    "Unnamed: 19": null
+    "Fazenda": null
   },
   {
     "ID": "3609523",
@@ -13248,9 +12098,7 @@ window.QUALIDADE_MUDA_DATA = [
     "Responsável": "MICHELI DE SOUZA SANTOS  ",
     "Qualidade da Muda": "BOM",
     "Observações": null,
-    "Fazenda": null,
-    "Observações ": null,
-    "Unnamed: 19": null
+    "Fazenda": null
   },
   {
     "ID": "3607584",
@@ -13271,9 +12119,7 @@ window.QUALIDADE_MUDA_DATA = [
     "Responsável": "VITOR AMORIM RAMOS ",
     "Qualidade da Muda": "BOM",
     "Observações": null,
-    "Fazenda": null,
-    "Observações ": null,
-    "Unnamed: 19": null
+    "Fazenda": null
   },
   {
     "ID": "3609639",
@@ -13294,9 +12140,7 @@ window.QUALIDADE_MUDA_DATA = [
     "Responsável": "MARCELO DE OLIVEIRA JUNIOR",
     "Qualidade da Muda": "BOM",
     "Observações": null,
-    "Fazenda": null,
-    "Observações ": null,
-    "Unnamed: 19": null
+    "Fazenda": null
   },
   {
     "ID": "3608302",
@@ -13317,9 +12161,7 @@ window.QUALIDADE_MUDA_DATA = [
     "Responsável": "GABRIEL HENRIQUE MARTINS PEREIRA",
     "Qualidade da Muda": "BOM",
     "Observações": null,
-    "Fazenda": null,
-    "Observações ": null,
-    "Unnamed: 19": null
+    "Fazenda": null
   },
   {
     "ID": "3609518",
@@ -13340,9 +12182,7 @@ window.QUALIDADE_MUDA_DATA = [
     "Responsável": "MICHELI DE SOUZA SANTOS  ",
     "Qualidade da Muda": "BOM",
     "Observações": null,
-    "Fazenda": null,
-    "Observações ": null,
-    "Unnamed: 19": null
+    "Fazenda": null
   },
   {
     "ID": "3607576",
@@ -13363,9 +12203,7 @@ window.QUALIDADE_MUDA_DATA = [
     "Responsável": "VITOR AMORIM RAMOS ",
     "Qualidade da Muda": "BOM",
     "Observações": null,
-    "Fazenda": null,
-    "Observações ": null,
-    "Unnamed: 19": null
+    "Fazenda": null
   },
   {
     "ID": "3609634",
@@ -13386,9 +12224,7 @@ window.QUALIDADE_MUDA_DATA = [
     "Responsável": "MARCELO DE OLIVEIRA JUNIOR",
     "Qualidade da Muda": "BOM",
     "Observações": null,
-    "Fazenda": null,
-    "Observações ": null,
-    "Unnamed: 19": null
+    "Fazenda": null
   },
   {
     "ID": "3608259",
@@ -13409,9 +12245,7 @@ window.QUALIDADE_MUDA_DATA = [
     "Responsável": "NILDA CLAUDINO [2510716]",
     "Qualidade da Muda": "BOM",
     "Observações": null,
-    "Fazenda": null,
-    "Observações ": null,
-    "Unnamed: 19": null
+    "Fazenda": null
   },
   {
     "ID": "3609513",
@@ -13432,9 +12266,7 @@ window.QUALIDADE_MUDA_DATA = [
     "Responsável": "MICHELI DE SOUZA SANTOS  ",
     "Qualidade da Muda": "BOM",
     "Observações": null,
-    "Fazenda": null,
-    "Observações ": null,
-    "Unnamed: 19": null
+    "Fazenda": null
   },
   {
     "ID": "3608297",
@@ -13455,9 +12287,7 @@ window.QUALIDADE_MUDA_DATA = [
     "Responsável": "GABRIEL HENRIQUE MARTINS PEREIRA",
     "Qualidade da Muda": "BOM",
     "Observações": null,
-    "Fazenda": null,
-    "Observações ": null,
-    "Unnamed: 19": null
+    "Fazenda": null
   },
   {
     "ID": "3607571",
@@ -13478,9 +12308,7 @@ window.QUALIDADE_MUDA_DATA = [
     "Responsável": "VITOR AMORIM RAMOS ",
     "Qualidade da Muda": "BOM",
     "Observações": null,
-    "Fazenda": null,
-    "Observações ": null,
-    "Unnamed: 19": null
+    "Fazenda": null
   },
   {
     "ID": "3609508",
@@ -13501,9 +12329,7 @@ window.QUALIDADE_MUDA_DATA = [
     "Responsável": "MICHELI DE SOUZA SANTOS  ",
     "Qualidade da Muda": "BOM",
     "Observações": null,
-    "Fazenda": null,
-    "Observações ": null,
-    "Unnamed: 19": null
+    "Fazenda": null
   },
   {
     "ID": "3609630",
@@ -13524,9 +12350,7 @@ window.QUALIDADE_MUDA_DATA = [
     "Responsável": "MARCELO DE OLIVEIRA JUNIOR",
     "Qualidade da Muda": "BOM",
     "Observações": null,
-    "Fazenda": null,
-    "Observações ": null,
-    "Unnamed: 19": null
+    "Fazenda": null
   },
   {
     "ID": "3608292",
@@ -13547,9 +12371,7 @@ window.QUALIDADE_MUDA_DATA = [
     "Responsável": "GABRIEL HENRIQUE MARTINS PEREIRA",
     "Qualidade da Muda": "BOM",
     "Observações": null,
-    "Fazenda": null,
-    "Observações ": null,
-    "Unnamed: 19": null
+    "Fazenda": null
   },
   {
     "ID": "3607566",
@@ -13570,9 +12392,7 @@ window.QUALIDADE_MUDA_DATA = [
     "Responsável": "VITOR AMORIM RAMOS ",
     "Qualidade da Muda": "BOM",
     "Observações": null,
-    "Fazenda": null,
-    "Observações ": null,
-    "Unnamed: 19": null
+    "Fazenda": null
   },
   {
     "ID": "3609503",
@@ -13593,9 +12413,7 @@ window.QUALIDADE_MUDA_DATA = [
     "Responsável": "MICHELI DE SOUZA SANTOS  ",
     "Qualidade da Muda": "BOM",
     "Observações": null,
-    "Fazenda": null,
-    "Observações ": null,
-    "Unnamed: 19": null
+    "Fazenda": null
   },
   {
     "ID": "3607442",
@@ -13616,9 +12434,7 @@ window.QUALIDADE_MUDA_DATA = [
     "Responsável": "FERNANDA DE SOUZA ",
     "Qualidade da Muda": "BOM",
     "Observações": null,
-    "Fazenda": null,
-    "Observações ": null,
-    "Unnamed: 19": null
+    "Fazenda": null
   },
   {
     "ID": "3609623",
@@ -13639,9 +12455,7 @@ window.QUALIDADE_MUDA_DATA = [
     "Responsável": "MARCELO DE OLIVEIRA JUNIOR",
     "Qualidade da Muda": "BOM",
     "Observações": null,
-    "Fazenda": null,
-    "Observações ": null,
-    "Unnamed: 19": null
+    "Fazenda": null
   },
   {
     "ID": "3609498",
@@ -13662,9 +12476,7 @@ window.QUALIDADE_MUDA_DATA = [
     "Responsável": "MICHELI DE SOUZA SANTOS  ",
     "Qualidade da Muda": "BOM",
     "Observações": null,
-    "Fazenda": null,
-    "Observações ": null,
-    "Unnamed: 19": null
+    "Fazenda": null
   },
   {
     "ID": "3607561",
@@ -13685,9 +12497,7 @@ window.QUALIDADE_MUDA_DATA = [
     "Responsável": "VITOR AMORIM RAMOS ",
     "Qualidade da Muda": "BOM",
     "Observações": null,
-    "Fazenda": null,
-    "Observações ": null,
-    "Unnamed: 19": null
+    "Fazenda": null
   },
   {
     "ID": "3608287",
@@ -13708,9 +12518,7 @@ window.QUALIDADE_MUDA_DATA = [
     "Responsável": "GABRIEL HENRIQUE MARTINS PEREIRA",
     "Qualidade da Muda": "BOM",
     "Observações": null,
-    "Fazenda": null,
-    "Observações ": null,
-    "Unnamed: 19": null
+    "Fazenda": null
   },
   {
     "ID": "3608255",
@@ -13731,9 +12539,7 @@ window.QUALIDADE_MUDA_DATA = [
     "Responsável": "NILDA CLAUDINO [2510716]",
     "Qualidade da Muda": "BOM",
     "Observações": null,
-    "Fazenda": null,
-    "Observações ": null,
-    "Unnamed: 19": null
+    "Fazenda": null
   },
   {
     "ID": "3609574",
@@ -13754,9 +12560,7 @@ window.QUALIDADE_MUDA_DATA = [
     "Responsável": "MICHELI DE SOUZA SANTOS  ",
     "Qualidade da Muda": "BOM",
     "Observações": null,
-    "Fazenda": null,
-    "Observações ": null,
-    "Unnamed: 19": null
+    "Fazenda": null
   },
   {
     "ID": "3608281",
@@ -13777,9 +12581,7 @@ window.QUALIDADE_MUDA_DATA = [
     "Responsável": "GABRIEL HENRIQUE MARTINS PEREIRA",
     "Qualidade da Muda": "BOM",
     "Observações": null,
-    "Fazenda": null,
-    "Observações ": null,
-    "Unnamed: 19": null
+    "Fazenda": null
   },
   {
     "ID": "3607556",
@@ -13800,9 +12602,7 @@ window.QUALIDADE_MUDA_DATA = [
     "Responsável": "VITOR AMORIM RAMOS ",
     "Qualidade da Muda": "BOM",
     "Observações": null,
-    "Fazenda": null,
-    "Observações ": null,
-    "Unnamed: 19": null
+    "Fazenda": null
   },
   {
     "ID": "3607551",
@@ -13823,9 +12623,7 @@ window.QUALIDADE_MUDA_DATA = [
     "Responsável": "VITOR AMORIM RAMOS ",
     "Qualidade da Muda": "BOM",
     "Observações": null,
-    "Fazenda": null,
-    "Observações ": null,
-    "Unnamed: 19": null
+    "Fazenda": null
   },
   {
     "ID": "3607426",
@@ -13846,9 +12644,7 @@ window.QUALIDADE_MUDA_DATA = [
     "Responsável": "FERNANDA DE SOUZA ",
     "Qualidade da Muda": "BOM",
     "Observações": null,
-    "Fazenda": null,
-    "Observações ": null,
-    "Unnamed: 19": null
+    "Fazenda": null
   },
   {
     "ID": "3607546",
@@ -13869,9 +12665,7 @@ window.QUALIDADE_MUDA_DATA = [
     "Responsável": "VITOR AMORIM RAMOS ",
     "Qualidade da Muda": "BOM",
     "Observações": null,
-    "Fazenda": null,
-    "Observações ": null,
-    "Unnamed: 19": null
+    "Fazenda": null
   },
   {
     "ID": "3608247",
@@ -13892,9 +12686,7 @@ window.QUALIDADE_MUDA_DATA = [
     "Responsável": "NILDA CLAUDINO [2510716]",
     "Qualidade da Muda": "BOM",
     "Observações": null,
-    "Fazenda": null,
-    "Observações ": null,
-    "Unnamed: 19": null
+    "Fazenda": null
   },
   {
     "ID": "3607496",
@@ -13915,9 +12707,7 @@ window.QUALIDADE_MUDA_DATA = [
     "Responsável": "MABILA HELEN D FIGUEIREDO",
     "Qualidade da Muda": "BOM",
     "Observações": null,
-    "Fazenda": null,
-    "Observações ": null,
-    "Unnamed: 19": null
+    "Fazenda": null
   },
   {
     "ID": "3609619",
@@ -13938,9 +12728,7 @@ window.QUALIDADE_MUDA_DATA = [
     "Responsável": "MARCELO DE OLIVEIRA JUNIOR",
     "Qualidade da Muda": "BOM",
     "Observações": null,
-    "Fazenda": null,
-    "Observações ": null,
-    "Unnamed: 19": null
+    "Fazenda": null
   },
   {
     "ID": "3609613",
@@ -13961,9 +12749,7 @@ window.QUALIDADE_MUDA_DATA = [
     "Responsável": "MARCELO DE OLIVEIRA JUNIOR",
     "Qualidade da Muda": "BOM",
     "Observações": null,
-    "Fazenda": null,
-    "Observações ": null,
-    "Unnamed: 19": null
+    "Fazenda": null
   },
   {
     "ID": "3593819",
@@ -13984,9 +12770,7 @@ window.QUALIDADE_MUDA_DATA = [
     "Responsável": " Antonio ",
     "Qualidade da Muda": "BOM",
     "Observações": null,
-    "Fazenda": null,
-    "Observações ": null,
-    "Unnamed: 19": null
+    "Fazenda": null
   },
   {
     "ID": "3593818",
@@ -14007,9 +12791,7 @@ window.QUALIDADE_MUDA_DATA = [
     "Responsável": " Antonio ",
     "Qualidade da Muda": "BOM",
     "Observações": null,
-    "Fazenda": null,
-    "Observações ": null,
-    "Unnamed: 19": null
+    "Fazenda": null
   },
   {
     "ID": "3594965",
@@ -14030,9 +12812,7 @@ window.QUALIDADE_MUDA_DATA = [
     "Responsável": "VITOR AMORIM RAMOS ",
     "Qualidade da Muda": "BOM",
     "Observações": null,
-    "Fazenda": null,
-    "Observações ": null,
-    "Unnamed: 19": null
+    "Fazenda": null
   },
   {
     "ID": "3608238",
@@ -14053,9 +12833,7 @@ window.QUALIDADE_MUDA_DATA = [
     "Responsável": "NILDA CLAUDINO [2510716]",
     "Qualidade da Muda": "BOM",
     "Observações": null,
-    "Fazenda": null,
-    "Observações ": null,
-    "Unnamed: 19": null
+    "Fazenda": null
   },
   {
     "ID": "3587027",
@@ -14076,9 +12854,7 @@ window.QUALIDADE_MUDA_DATA = [
     "Responsável": "VITOR AMORIM RAMOS ",
     "Qualidade da Muda": "BOM",
     "Observações": null,
-    "Fazenda": null,
-    "Observações ": null,
-    "Unnamed: 19": null
+    "Fazenda": null
   },
   {
     "ID": "3608234",
@@ -14099,9 +12875,7 @@ window.QUALIDADE_MUDA_DATA = [
     "Responsável": "NILDA CLAUDINO [2510716]",
     "Qualidade da Muda": "BOM",
     "Observações": null,
-    "Fazenda": null,
-    "Observações ": null,
-    "Unnamed: 19": null
+    "Fazenda": null
   },
   {
     "ID": "3608227",
@@ -14122,9 +12896,7 @@ window.QUALIDADE_MUDA_DATA = [
     "Responsável": "NILDA CLAUDINO [2510716]",
     "Qualidade da Muda": "BOM",
     "Observações": null,
-    "Fazenda": null,
-    "Observações ": null,
-    "Unnamed: 19": null
+    "Fazenda": null
   },
   {
     "ID": "3605442",
@@ -14145,9 +12917,7 @@ window.QUALIDADE_MUDA_DATA = [
     "Responsável": " Antonio ",
     "Qualidade da Muda": "BOM",
     "Observações": null,
-    "Fazenda": null,
-    "Observações ": null,
-    "Unnamed: 19": null
+    "Fazenda": null
   },
   {
     "ID": "3604930",
@@ -14168,9 +12938,7 @@ window.QUALIDADE_MUDA_DATA = [
     "Responsável": "REGINALDO DA SILVA GOMES ",
     "Qualidade da Muda": "BOM",
     "Observações": null,
-    "Fazenda": null,
-    "Observações ": null,
-    "Unnamed: 19": null
+    "Fazenda": null
   },
   {
     "ID": "3604926",
@@ -14191,9 +12959,7 @@ window.QUALIDADE_MUDA_DATA = [
     "Responsável": "REGINALDO DA SILVA GOMES ",
     "Qualidade da Muda": "BOM",
     "Observações": null,
-    "Fazenda": null,
-    "Observações ": null,
-    "Unnamed: 19": null
+    "Fazenda": null
   },
   {
     "ID": "3604919",
@@ -14214,9 +12980,7 @@ window.QUALIDADE_MUDA_DATA = [
     "Responsável": "REGINALDO DA SILVA GOMES ",
     "Qualidade da Muda": "BOM",
     "Observações": null,
-    "Fazenda": null,
-    "Observações ": null,
-    "Unnamed: 19": null
+    "Fazenda": null
   },
   {
     "ID": "3605016",
@@ -14237,9 +13001,7 @@ window.QUALIDADE_MUDA_DATA = [
     "Responsável": "FERNANDA DE SOUZA ",
     "Qualidade da Muda": "BOM",
     "Observações": null,
-    "Fazenda": null,
-    "Observações ": null,
-    "Unnamed: 19": null
+    "Fazenda": null
   },
   {
     "ID": "3605011",
@@ -14260,9 +13022,7 @@ window.QUALIDADE_MUDA_DATA = [
     "Responsável": "FERNANDA DE SOUZA ",
     "Qualidade da Muda": "BOM",
     "Observações": null,
-    "Fazenda": null,
-    "Observações ": null,
-    "Unnamed: 19": null
+    "Fazenda": null
   },
   {
     "ID": "3605171",
@@ -14283,9 +13043,7 @@ window.QUALIDADE_MUDA_DATA = [
     "Responsável": "MARCELO DE OLIVEIRA JUNIOR",
     "Qualidade da Muda": "BOM",
     "Observações": null,
-    "Fazenda": null,
-    "Observações ": null,
-    "Unnamed: 19": null
+    "Fazenda": null
   },
   {
     "ID": "3605164",
@@ -14306,9 +13064,7 @@ window.QUALIDADE_MUDA_DATA = [
     "Responsável": "MARCELO DE OLIVEIRA JUNIOR",
     "Qualidade da Muda": "BOM",
     "Observações": null,
-    "Fazenda": null,
-    "Observações ": null,
-    "Unnamed: 19": null
+    "Fazenda": null
   },
   {
     "ID": "3605159",
@@ -14329,9 +13085,7 @@ window.QUALIDADE_MUDA_DATA = [
     "Responsável": "MARCELO DE OLIVEIRA JUNIOR",
     "Qualidade da Muda": "BOM",
     "Observações": null,
-    "Fazenda": null,
-    "Observações ": null,
-    "Unnamed: 19": null
+    "Fazenda": null
   },
   {
     "ID": "3604490",
@@ -14352,9 +13106,7 @@ window.QUALIDADE_MUDA_DATA = [
     "Responsável": "NILDA CLAUDINO [2510716]",
     "Qualidade da Muda": "BOM",
     "Observações": null,
-    "Fazenda": null,
-    "Observações ": null,
-    "Unnamed: 19": null
+    "Fazenda": null
   },
   {
     "ID": "3605154",
@@ -14375,9 +13127,7 @@ window.QUALIDADE_MUDA_DATA = [
     "Responsável": "MARCELO DE OLIVEIRA JUNIOR",
     "Qualidade da Muda": "BOM",
     "Observações": null,
-    "Fazenda": null,
-    "Observações ": null,
-    "Unnamed: 19": null
+    "Fazenda": null
   },
   {
     "ID": "3605005",
@@ -14398,9 +13148,7 @@ window.QUALIDADE_MUDA_DATA = [
     "Responsável": "FERNANDA DE SOUZA ",
     "Qualidade da Muda": "BOM",
     "Observações": null,
-    "Fazenda": null,
-    "Observações ": null,
-    "Unnamed: 19": null
+    "Fazenda": null
   },
   {
     "ID": "3605151",
@@ -14421,9 +13169,7 @@ window.QUALIDADE_MUDA_DATA = [
     "Responsável": "MARCELO DE OLIVEIRA JUNIOR",
     "Qualidade da Muda": "BOM",
     "Observações": null,
-    "Fazenda": null,
-    "Observações ": null,
-    "Unnamed: 19": null
+    "Fazenda": null
   },
   {
     "ID": "3604486",
@@ -14444,9 +13190,7 @@ window.QUALIDADE_MUDA_DATA = [
     "Responsável": "NILDA CLAUDINO [2510716]",
     "Qualidade da Muda": "BOM",
     "Observações": null,
-    "Fazenda": null,
-    "Observações ": null,
-    "Unnamed: 19": null
+    "Fazenda": null
   },
   {
     "ID": "3605121",
@@ -14467,9 +13211,7 @@ window.QUALIDADE_MUDA_DATA = [
     "Responsável": "MARCELO DE OLIVEIRA JUNIOR",
     "Qualidade da Muda": "BOM",
     "Observações": null,
-    "Fazenda": null,
-    "Observações ": null,
-    "Unnamed: 19": null
+    "Fazenda": null
   },
   {
     "ID": "3607361",
@@ -14490,9 +13232,7 @@ window.QUALIDADE_MUDA_DATA = [
     "Responsável": "VITOR AMORIM RAMOS ",
     "Qualidade da Muda": "BOM",
     "Observações": null,
-    "Fazenda": null,
-    "Observações ": null,
-    "Unnamed: 19": null
+    "Fazenda": null
   },
   {
     "ID": "3604482",
@@ -14513,9 +13253,7 @@ window.QUALIDADE_MUDA_DATA = [
     "Responsável": "NILDA CLAUDINO [2510716]",
     "Qualidade da Muda": "BOM",
     "Observações": null,
-    "Fazenda": null,
-    "Observações ": null,
-    "Unnamed: 19": null
+    "Fazenda": null
   },
   {
     "ID": "3607344",
@@ -14536,9 +13274,7 @@ window.QUALIDADE_MUDA_DATA = [
     "Responsável": "VITOR AMORIM RAMOS ",
     "Qualidade da Muda": "BOM",
     "Observações": null,
-    "Fazenda": null,
-    "Observações ": null,
-    "Unnamed: 19": null
+    "Fazenda": null
   },
   {
     "ID": "3604478",
@@ -14559,9 +13295,7 @@ window.QUALIDADE_MUDA_DATA = [
     "Responsável": "NILDA CLAUDINO [2510716]",
     "Qualidade da Muda": "BOM",
     "Observações": null,
-    "Fazenda": null,
-    "Observações ": null,
-    "Unnamed: 19": null
+    "Fazenda": null
   },
   {
     "ID": "3607339",
@@ -14582,9 +13316,7 @@ window.QUALIDADE_MUDA_DATA = [
     "Responsável": "VITOR AMORIM RAMOS ",
     "Qualidade da Muda": "BOM",
     "Observações": null,
-    "Fazenda": null,
-    "Observações ": null,
-    "Unnamed: 19": null
+    "Fazenda": null
   },
   {
     "ID": "3604657",
@@ -14605,9 +13337,7 @@ window.QUALIDADE_MUDA_DATA = [
     "Responsável": "GABRIEL HENRIQUE MARTINS PEREIRA",
     "Qualidade da Muda": "BOM",
     "Observações": null,
-    "Fazenda": null,
-    "Observações ": null,
-    "Unnamed: 19": null
+    "Fazenda": null
   },
   {
     "ID": "3604653",
@@ -14628,9 +13358,7 @@ window.QUALIDADE_MUDA_DATA = [
     "Responsável": "GABRIEL HENRIQUE MARTINS PEREIRA",
     "Qualidade da Muda": "BOM",
     "Observações": null,
-    "Fazenda": null,
-    "Observações ": null,
-    "Unnamed: 19": null
+    "Fazenda": null
   },
   {
     "ID": "3604163",
@@ -14651,9 +13379,7 @@ window.QUALIDADE_MUDA_DATA = [
     "Responsável": "GLEISON FELIPE BORGES DE MATOS",
     "Qualidade da Muda": "BOM",
     "Observações": null,
-    "Fazenda": null,
-    "Observações ": null,
-    "Unnamed: 19": null
+    "Fazenda": null
   },
   {
     "ID": "3604160",
@@ -14674,9 +13400,7 @@ window.QUALIDADE_MUDA_DATA = [
     "Responsável": "GLEISON FELIPE BORGES DE MATOS",
     "Qualidade da Muda": "BOM",
     "Observações": null,
-    "Fazenda": null,
-    "Observações ": null,
-    "Unnamed: 19": null
+    "Fazenda": null
   },
   {
     "ID": "3604152",
@@ -14697,9 +13421,7 @@ window.QUALIDADE_MUDA_DATA = [
     "Responsável": "GLEISON FELIPE BORGES DE MATOS",
     "Qualidade da Muda": "BOM",
     "Observações": null,
-    "Fazenda": null,
-    "Observações ": null,
-    "Unnamed: 19": null
+    "Fazenda": null
   },
   {
     "ID": "3604916",
@@ -14720,9 +13442,7 @@ window.QUALIDADE_MUDA_DATA = [
     "Responsável": "REGINALDO DA SILVA GOMES ",
     "Qualidade da Muda": "BOM",
     "Observações": null,
-    "Fazenda": null,
-    "Observações ": null,
-    "Unnamed: 19": null
+    "Fazenda": null
   },
   {
     "ID": "3604910",
@@ -14743,9 +13463,7 @@ window.QUALIDADE_MUDA_DATA = [
     "Responsável": "REGINALDO DA SILVA GOMES ",
     "Qualidade da Muda": "BOM",
     "Observações": null,
-    "Fazenda": null,
-    "Observações ": null,
-    "Unnamed: 19": null
+    "Fazenda": null
   },
   {
     "ID": "3604906",
@@ -14766,9 +13484,7 @@ window.QUALIDADE_MUDA_DATA = [
     "Responsável": "REGINALDO DA SILVA GOMES ",
     "Qualidade da Muda": "BOM",
     "Observações": null,
-    "Fazenda": null,
-    "Observações ": null,
-    "Unnamed: 19": null
+    "Fazenda": null
   },
   {
     "ID": "3604999",
@@ -14789,9 +13505,7 @@ window.QUALIDADE_MUDA_DATA = [
     "Responsável": "FERNANDA DE SOUZA ",
     "Qualidade da Muda": "BOM",
     "Observações": null,
-    "Fazenda": null,
-    "Observações ": null,
-    "Unnamed: 19": null
+    "Fazenda": null
   },
   {
     "ID": "3604019",
@@ -14812,9 +13526,7 @@ window.QUALIDADE_MUDA_DATA = [
     "Responsável": "NILDA CLAUDINO [2510716]",
     "Qualidade da Muda": "BOM",
     "Observações": null,
-    "Fazenda": null,
-    "Observações ": null,
-    "Unnamed: 19": null
+    "Fazenda": null
   },
   {
     "ID": "3604041",
@@ -14835,9 +13547,7 @@ window.QUALIDADE_MUDA_DATA = [
     "Responsável": "VITOR AMORIM RAMOS ",
     "Qualidade da Muda": "BOM",
     "Observações": null,
-    "Fazenda": null,
-    "Observações ": null,
-    "Unnamed: 19": null
+    "Fazenda": null
   },
   {
     "ID": "3604036",
@@ -14858,9 +13568,7 @@ window.QUALIDADE_MUDA_DATA = [
     "Responsável": "VITOR AMORIM RAMOS ",
     "Qualidade da Muda": "BOM",
     "Observações": null,
-    "Fazenda": null,
-    "Observações ": null,
-    "Unnamed: 19": null
+    "Fazenda": null
   },
   {
     "ID": "3604991",
@@ -14881,9 +13589,7 @@ window.QUALIDADE_MUDA_DATA = [
     "Responsável": "FERNANDA DE SOUZA ",
     "Qualidade da Muda": "BOM",
     "Observações": null,
-    "Fazenda": null,
-    "Observações ": null,
-    "Unnamed: 19": null
+    "Fazenda": null
   },
   {
     "ID": "3604002",
@@ -14904,9 +13610,7 @@ window.QUALIDADE_MUDA_DATA = [
     "Responsável": "NILDA CLAUDINO [2510716]",
     "Qualidade da Muda": "BOM",
     "Observações": null,
-    "Fazenda": null,
-    "Observações ": null,
-    "Unnamed: 19": null
+    "Fazenda": null
   },
   {
     "ID": "3604031",
@@ -14927,9 +13631,7 @@ window.QUALIDADE_MUDA_DATA = [
     "Responsável": "VITOR AMORIM RAMOS ",
     "Qualidade da Muda": "BOM",
     "Observações": null,
-    "Fazenda": null,
-    "Observações ": null,
-    "Unnamed: 19": null
+    "Fazenda": null
   },
   {
     "ID": "3603997",
@@ -14950,9 +13652,7 @@ window.QUALIDADE_MUDA_DATA = [
     "Responsável": "NILDA CLAUDINO [2510716]",
     "Qualidade da Muda": "BOM",
     "Observações": null,
-    "Fazenda": null,
-    "Observações ": null,
-    "Unnamed: 19": null
+    "Fazenda": null
   },
   {
     "ID": "3604025",
@@ -14973,9 +13673,7 @@ window.QUALIDADE_MUDA_DATA = [
     "Responsável": "VITOR AMORIM RAMOS ",
     "Qualidade da Muda": "BOM",
     "Observações": null,
-    "Fazenda": null,
-    "Observações ": null,
-    "Unnamed: 19": null
+    "Fazenda": null
   },
   {
     "ID": "3604020",
@@ -14996,9 +13694,7 @@ window.QUALIDADE_MUDA_DATA = [
     "Responsável": "VITOR AMORIM RAMOS ",
     "Qualidade da Muda": "BOM",
     "Observações": null,
-    "Fazenda": null,
-    "Observações ": null,
-    "Unnamed: 19": null
+    "Fazenda": null
   },
   {
     "ID": "3604011",
@@ -15019,9 +13715,7 @@ window.QUALIDADE_MUDA_DATA = [
     "Responsável": "VITOR AMORIM RAMOS ",
     "Qualidade da Muda": "BOM",
     "Observações": null,
-    "Fazenda": null,
-    "Observações ": null,
-    "Unnamed: 19": null
+    "Fazenda": null
   },
   {
     "ID": "3603999",
@@ -15042,9 +13736,7 @@ window.QUALIDADE_MUDA_DATA = [
     "Responsável": "VITOR AMORIM RAMOS ",
     "Qualidade da Muda": "BOM",
     "Observações": null,
-    "Fazenda": null,
-    "Observações ": null,
-    "Unnamed: 19": null
+    "Fazenda": null
   },
   {
     "ID": "3604203",
@@ -15065,9 +13757,7 @@ window.QUALIDADE_MUDA_DATA = [
     "Responsável": "MICHELI DE SOUZA SANTOS  ",
     "Qualidade da Muda": "BOM",
     "Observações": null,
-    "Fazenda": null,
-    "Observações ": null,
-    "Unnamed: 19": null
+    "Fazenda": null
   },
   {
     "ID": "3603989",
@@ -15088,9 +13778,7 @@ window.QUALIDADE_MUDA_DATA = [
     "Responsável": "VITOR AMORIM RAMOS ",
     "Qualidade da Muda": "BOM",
     "Observações": null,
-    "Fazenda": null,
-    "Observações ": null,
-    "Unnamed: 19": null
+    "Fazenda": null
   },
   {
     "ID": "3604985",
@@ -15111,9 +13799,7 @@ window.QUALIDADE_MUDA_DATA = [
     "Responsável": "FERNANDA DE SOUZA ",
     "Qualidade da Muda": "BOM",
     "Observações": null,
-    "Fazenda": null,
-    "Observações ": null,
-    "Unnamed: 19": null
+    "Fazenda": null
   },
   {
     "ID": "3604198",
@@ -15134,9 +13820,7 @@ window.QUALIDADE_MUDA_DATA = [
     "Responsável": "MICHELI DE SOUZA SANTOS  ",
     "Qualidade da Muda": "BOM",
     "Observações": null,
-    "Fazenda": null,
-    "Observações ": null,
-    "Unnamed: 19": null
+    "Fazenda": null
   },
   {
     "ID": "3605117",
@@ -15157,9 +13841,7 @@ window.QUALIDADE_MUDA_DATA = [
     "Responsável": "MARCELO DE OLIVEIRA JUNIOR",
     "Qualidade da Muda": "BOM",
     "Observações": null,
-    "Fazenda": null,
-    "Observações ": null,
-    "Unnamed: 19": null
+    "Fazenda": null
   },
   {
     "ID": "3603983",
@@ -15180,9 +13862,7 @@ window.QUALIDADE_MUDA_DATA = [
     "Responsável": "VITOR AMORIM RAMOS ",
     "Qualidade da Muda": "BOM",
     "Observações": null,
-    "Fazenda": null,
-    "Observações ": null,
-    "Unnamed: 19": null
+    "Fazenda": null
   },
   {
     "ID": "3604898",
@@ -15203,9 +13883,7 @@ window.QUALIDADE_MUDA_DATA = [
     "Responsável": "REGINALDO DA SILVA GOMES ",
     "Qualidade da Muda": "BOM",
     "Observações": null,
-    "Fazenda": null,
-    "Observações ": null,
-    "Unnamed: 19": null
+    "Fazenda": null
   },
   {
     "ID": "3604193",
@@ -15226,9 +13904,7 @@ window.QUALIDADE_MUDA_DATA = [
     "Responsável": "MICHELI DE SOUZA SANTOS  ",
     "Qualidade da Muda": "BOM",
     "Observações": null,
-    "Fazenda": null,
-    "Observações ": null,
-    "Unnamed: 19": null
+    "Fazenda": null
   },
   {
     "ID": "3603978",
@@ -15249,9 +13925,7 @@ window.QUALIDADE_MUDA_DATA = [
     "Responsável": "VITOR AMORIM RAMOS ",
     "Qualidade da Muda": "BOM",
     "Observações": null,
-    "Fazenda": null,
-    "Observações ": null,
-    "Unnamed: 19": null
+    "Fazenda": null
   },
   {
     "ID": "3605111",
@@ -15272,9 +13946,7 @@ window.QUALIDADE_MUDA_DATA = [
     "Responsável": "MARCELO DE OLIVEIRA JUNIOR",
     "Qualidade da Muda": "BOM",
     "Observações": null,
-    "Fazenda": null,
-    "Observações ": null,
-    "Unnamed: 19": null
+    "Fazenda": null
   },
   {
     "ID": "3604893",
@@ -15295,9 +13967,7 @@ window.QUALIDADE_MUDA_DATA = [
     "Responsável": "REGINALDO DA SILVA GOMES ",
     "Qualidade da Muda": "BOM",
     "Observações": null,
-    "Fazenda": null,
-    "Observações ": null,
-    "Unnamed: 19": null
+    "Fazenda": null
   },
   {
     "ID": "3604188",
@@ -15318,9 +13988,7 @@ window.QUALIDADE_MUDA_DATA = [
     "Responsável": "MICHELI DE SOUZA SANTOS  ",
     "Qualidade da Muda": "BOM",
     "Observações": null,
-    "Fazenda": null,
-    "Observações ": null,
-    "Unnamed: 19": null
+    "Fazenda": null
   },
   {
     "ID": "3605106",
@@ -15341,9 +14009,7 @@ window.QUALIDADE_MUDA_DATA = [
     "Responsável": "MARCELO DE OLIVEIRA JUNIOR",
     "Qualidade da Muda": "BOM",
     "Observações": null,
-    "Fazenda": null,
-    "Observações ": null,
-    "Unnamed: 19": null
+    "Fazenda": null
   },
   {
     "ID": "3603970",
@@ -15364,9 +14030,7 @@ window.QUALIDADE_MUDA_DATA = [
     "Responsável": "VITOR AMORIM RAMOS ",
     "Qualidade da Muda": "BOM",
     "Observações": null,
-    "Fazenda": null,
-    "Observações ": null,
-    "Unnamed: 19": null
+    "Fazenda": null
   },
   {
     "ID": "3604888",
@@ -15387,9 +14051,7 @@ window.QUALIDADE_MUDA_DATA = [
     "Responsável": "REGINALDO DA SILVA GOMES ",
     "Qualidade da Muda": "BOM",
     "Observações": null,
-    "Fazenda": null,
-    "Observações ": null,
-    "Unnamed: 19": null
+    "Fazenda": null
   },
   {
     "ID": "3604181",
@@ -15410,9 +14072,7 @@ window.QUALIDADE_MUDA_DATA = [
     "Responsável": "MICHELI DE SOUZA SANTOS  ",
     "Qualidade da Muda": "BOM",
     "Observações": null,
-    "Fazenda": null,
-    "Observações ": null,
-    "Unnamed: 19": null
+    "Fazenda": null
   },
   {
     "ID": "3604178",
@@ -15433,9 +14093,7 @@ window.QUALIDADE_MUDA_DATA = [
     "Responsável": "MICHELI DE SOUZA SANTOS  ",
     "Qualidade da Muda": "BOM",
     "Observações": null,
-    "Fazenda": null,
-    "Observações ": null,
-    "Unnamed: 19": null
+    "Fazenda": null
   },
   {
     "ID": "3604176",
@@ -15456,9 +14114,7 @@ window.QUALIDADE_MUDA_DATA = [
     "Responsável": "MICHELI DE SOUZA SANTOS  ",
     "Qualidade da Muda": "BOM",
     "Observações": null,
-    "Fazenda": null,
-    "Observações ": null,
-    "Unnamed: 19": null
+    "Fazenda": null
   },
   {
     "ID": "3602148",
@@ -15479,9 +14135,7 @@ window.QUALIDADE_MUDA_DATA = [
     "Responsável": "NILDA CLAUDINO [2510716]",
     "Qualidade da Muda": "BOM",
     "Observações": null,
-    "Fazenda": null,
-    "Observações ": null,
-    "Unnamed: 19": null
+    "Fazenda": null
   },
   {
     "ID": "3602357",
@@ -15502,9 +14156,7 @@ window.QUALIDADE_MUDA_DATA = [
     "Responsável": "FERNANDA DE SOUZA ",
     "Qualidade da Muda": "BOM",
     "Observações": null,
-    "Fazenda": null,
-    "Observações ": null,
-    "Unnamed: 19": null
+    "Fazenda": null
   },
   {
     "ID": "3602139",
@@ -15525,9 +14177,7 @@ window.QUALIDADE_MUDA_DATA = [
     "Responsável": "NILDA CLAUDINO [2510716]",
     "Qualidade da Muda": "BOM",
     "Observações": null,
-    "Fazenda": null,
-    "Observações ": null,
-    "Unnamed: 19": null
+    "Fazenda": null
   },
   {
     "ID": "3602133",
@@ -15548,9 +14198,7 @@ window.QUALIDADE_MUDA_DATA = [
     "Responsável": "NILDA CLAUDINO [2510716]",
     "Qualidade da Muda": "BOM",
     "Observações": null,
-    "Fazenda": null,
-    "Observações ": null,
-    "Unnamed: 19": null
+    "Fazenda": null
   },
   {
     "ID": "3602354",
@@ -15571,9 +14219,7 @@ window.QUALIDADE_MUDA_DATA = [
     "Responsável": "FERNANDA DE SOUZA ",
     "Qualidade da Muda": "BOM",
     "Observações": null,
-    "Fazenda": null,
-    "Observações ": null,
-    "Unnamed: 19": null
+    "Fazenda": null
   },
   {
     "ID": "3601799",
@@ -15594,9 +14240,7 @@ window.QUALIDADE_MUDA_DATA = [
     "Responsável": "VITOR AMORIM RAMOS ",
     "Qualidade da Muda": "BOM",
     "Observações": null,
-    "Fazenda": null,
-    "Observações ": null,
-    "Unnamed: 19": null
+    "Fazenda": null
   },
   {
     "ID": "3601794",
@@ -15617,9 +14261,7 @@ window.QUALIDADE_MUDA_DATA = [
     "Responsável": "VITOR AMORIM RAMOS ",
     "Qualidade da Muda": "BOM",
     "Observações": null,
-    "Fazenda": null,
-    "Observações ": null,
-    "Unnamed: 19": null
+    "Fazenda": null
   },
   {
     "ID": "3602346",
@@ -15640,9 +14282,7 @@ window.QUALIDADE_MUDA_DATA = [
     "Responsável": "FERNANDA DE SOUZA ",
     "Qualidade da Muda": "BOM",
     "Observações": null,
-    "Fazenda": null,
-    "Observações ": null,
-    "Unnamed: 19": null
+    "Fazenda": null
   },
   {
     "ID": "3601789",
@@ -15663,9 +14303,7 @@ window.QUALIDADE_MUDA_DATA = [
     "Responsável": "VITOR AMORIM RAMOS ",
     "Qualidade da Muda": "BOM",
     "Observações": null,
-    "Fazenda": null,
-    "Observações ": null,
-    "Unnamed: 19": null
+    "Fazenda": null
   },
   {
     "ID": "3602126",
@@ -15686,9 +14324,7 @@ window.QUALIDADE_MUDA_DATA = [
     "Responsável": "NILDA CLAUDINO [2510716]",
     "Qualidade da Muda": "BOM",
     "Observações": null,
-    "Fazenda": null,
-    "Observações ": null,
-    "Unnamed: 19": null
+    "Fazenda": null
   },
   {
     "ID": "3601784",
@@ -15709,9 +14345,7 @@ window.QUALIDADE_MUDA_DATA = [
     "Responsável": "VITOR AMORIM RAMOS ",
     "Qualidade da Muda": "BOM",
     "Observações": null,
-    "Fazenda": null,
-    "Observações ": null,
-    "Unnamed: 19": null
+    "Fazenda": null
   },
   {
     "ID": "3602123",
@@ -15732,9 +14366,7 @@ window.QUALIDADE_MUDA_DATA = [
     "Responsável": "NILDA CLAUDINO [2510716]",
     "Qualidade da Muda": "BOM",
     "Observações": null,
-    "Fazenda": null,
-    "Observações ": null,
-    "Unnamed: 19": null
+    "Fazenda": null
   },
   {
     "ID": "3602495",
@@ -15755,9 +14387,7 @@ window.QUALIDADE_MUDA_DATA = [
     "Responsável": "Leonardo Ribeiro Teixeira da Silva",
     "Qualidade da Muda": "BOM",
     "Observações": null,
-    "Fazenda": null,
-    "Observações ": null,
-    "Unnamed: 19": null
+    "Fazenda": null
   },
   {
     "ID": "3601779",
@@ -15778,9 +14408,7 @@ window.QUALIDADE_MUDA_DATA = [
     "Responsável": "VITOR AMORIM RAMOS ",
     "Qualidade da Muda": "BOM",
     "Observações": null,
-    "Fazenda": null,
-    "Observações ": null,
-    "Unnamed: 19": null
+    "Fazenda": null
   },
   {
     "ID": "3602214",
@@ -15801,9 +14429,7 @@ window.QUALIDADE_MUDA_DATA = [
     "Responsável": "MICHELI DE SOUZA SANTOS  ",
     "Qualidade da Muda": "BOM",
     "Observações": null,
-    "Fazenda": null,
-    "Observações ": null,
-    "Unnamed: 19": null
+    "Fazenda": null
   },
   {
     "ID": "3602117",
@@ -15824,9 +14450,7 @@ window.QUALIDADE_MUDA_DATA = [
     "Responsável": "NILDA CLAUDINO [2510716]",
     "Qualidade da Muda": "BOM",
     "Observações": null,
-    "Fazenda": null,
-    "Observações ": null,
-    "Unnamed: 19": null
+    "Fazenda": null
   },
   {
     "ID": "3602209",
@@ -15847,9 +14471,7 @@ window.QUALIDADE_MUDA_DATA = [
     "Responsável": "MICHELI DE SOUZA SANTOS  ",
     "Qualidade da Muda": "BOM",
     "Observações": null,
-    "Fazenda": null,
-    "Observações ": null,
-    "Unnamed: 19": null
+    "Fazenda": null
   },
   {
     "ID": "3602490",
@@ -15870,9 +14492,7 @@ window.QUALIDADE_MUDA_DATA = [
     "Responsável": "Leonardo Ribeiro Teixeira da Silva",
     "Qualidade da Muda": "BOM",
     "Observações": null,
-    "Fazenda": null,
-    "Observações ": null,
-    "Unnamed: 19": null
+    "Fazenda": null
   },
   {
     "ID": "3602205",
@@ -15893,9 +14513,7 @@ window.QUALIDADE_MUDA_DATA = [
     "Responsável": "MICHELI DE SOUZA SANTOS  ",
     "Qualidade da Muda": "BOM",
     "Observações": null,
-    "Fazenda": null,
-    "Observações ": null,
-    "Unnamed: 19": null
+    "Fazenda": null
   },
   {
     "ID": "3602485",
@@ -15916,9 +14534,7 @@ window.QUALIDADE_MUDA_DATA = [
     "Responsável": "Leonardo Ribeiro Teixeira da Silva",
     "Qualidade da Muda": "BOM",
     "Observações": null,
-    "Fazenda": null,
-    "Observações ": null,
-    "Unnamed: 19": null
+    "Fazenda": null
   },
   {
     "ID": "3602198",
@@ -15939,9 +14555,7 @@ window.QUALIDADE_MUDA_DATA = [
     "Responsável": "MICHELI DE SOUZA SANTOS  ",
     "Qualidade da Muda": "BOM",
     "Observações": null,
-    "Fazenda": null,
-    "Observações ": null,
-    "Unnamed: 19": null
+    "Fazenda": null
   },
   {
     "ID": "3602561",
@@ -15962,9 +14576,7 @@ window.QUALIDADE_MUDA_DATA = [
     "Responsável": "REGINALDO DA SILVA GOMES ",
     "Qualidade da Muda": "BOM",
     "Observações": null,
-    "Fazenda": null,
-    "Observações ": null,
-    "Unnamed: 19": null
+    "Fazenda": null
   },
   {
     "ID": "3602193",
@@ -15985,9 +14597,7 @@ window.QUALIDADE_MUDA_DATA = [
     "Responsável": "MICHELI DE SOUZA SANTOS  ",
     "Qualidade da Muda": "BOM",
     "Observações": null,
-    "Fazenda": null,
-    "Observações ": null,
-    "Unnamed: 19": null
+    "Fazenda": null
   },
   {
     "ID": "3602190",
@@ -16008,9 +14618,7 @@ window.QUALIDADE_MUDA_DATA = [
     "Responsável": "MICHELI DE SOUZA SANTOS  ",
     "Qualidade da Muda": "BOM",
     "Observações": null,
-    "Fazenda": null,
-    "Observações ": null,
-    "Unnamed: 19": null
+    "Fazenda": null
   },
   {
     "ID": "3602556",
@@ -16031,9 +14639,7 @@ window.QUALIDADE_MUDA_DATA = [
     "Responsável": "REGINALDO DA SILVA GOMES ",
     "Qualidade da Muda": "BOM",
     "Observações": null,
-    "Fazenda": null,
-    "Observações ": null,
-    "Unnamed: 19": null
+    "Fazenda": null
   },
   {
     "ID": "3602185",
@@ -16054,9 +14660,7 @@ window.QUALIDADE_MUDA_DATA = [
     "Responsável": "MICHELI DE SOUZA SANTOS  ",
     "Qualidade da Muda": "BOM",
     "Observações": null,
-    "Fazenda": null,
-    "Observações ": null,
-    "Unnamed: 19": null
+    "Fazenda": null
   },
   {
     "ID": "3602180",
@@ -16077,9 +14681,7 @@ window.QUALIDADE_MUDA_DATA = [
     "Responsável": "MICHELI DE SOUZA SANTOS  ",
     "Qualidade da Muda": "BOM",
     "Observações": null,
-    "Fazenda": null,
-    "Observações ": null,
-    "Unnamed: 19": null
+    "Fazenda": null
   },
   {
     "ID": "3602551",
@@ -16100,9 +14702,7 @@ window.QUALIDADE_MUDA_DATA = [
     "Responsável": "REGINALDO DA SILVA GOMES ",
     "Qualidade da Muda": "BOM",
     "Observações": null,
-    "Fazenda": null,
-    "Observações ": null,
-    "Unnamed: 19": null
+    "Fazenda": null
   },
   {
     "ID": "3602175",
@@ -16123,9 +14723,7 @@ window.QUALIDADE_MUDA_DATA = [
     "Responsável": "MICHELI DE SOUZA SANTOS  ",
     "Qualidade da Muda": "BOM",
     "Observações": null,
-    "Fazenda": null,
-    "Observações ": null,
-    "Unnamed: 19": null
+    "Fazenda": null
   },
   {
     "ID": "3602167",
@@ -16146,9 +14744,7 @@ window.QUALIDADE_MUDA_DATA = [
     "Responsável": "MICHELI DE SOUZA SANTOS  ",
     "Qualidade da Muda": "BOM",
     "Observações": null,
-    "Fazenda": null,
-    "Observações ": null,
-    "Unnamed: 19": null
+    "Fazenda": null
   },
   {
     "ID": "3602546",
@@ -16169,9 +14765,7 @@ window.QUALIDADE_MUDA_DATA = [
     "Responsável": "REGINALDO DA SILVA GOMES ",
     "Qualidade da Muda": "BOM",
     "Observações": null,
-    "Fazenda": null,
-    "Observações ": null,
-    "Unnamed: 19": null
+    "Fazenda": null
   },
   {
     "ID": "3602540",
@@ -16192,9 +14786,7 @@ window.QUALIDADE_MUDA_DATA = [
     "Responsável": "REGINALDO DA SILVA GOMES ",
     "Qualidade da Muda": "BOM",
     "Observações": null,
-    "Fazenda": null,
-    "Observações ": null,
-    "Unnamed: 19": null
+    "Fazenda": null
   },
   {
     "ID": "3602163",
@@ -16215,9 +14807,7 @@ window.QUALIDADE_MUDA_DATA = [
     "Responsável": "MICHELI DE SOUZA SANTOS  ",
     "Qualidade da Muda": "BOM",
     "Observações": null,
-    "Fazenda": null,
-    "Observações ": null,
-    "Unnamed: 19": null
+    "Fazenda": null
   },
   {
     "ID": "3602107",
@@ -16238,9 +14828,7 @@ window.QUALIDADE_MUDA_DATA = [
     "Responsável": "MICHELI DE SOUZA SANTOS  ",
     "Qualidade da Muda": "BOM",
     "Observações": null,
-    "Fazenda": null,
-    "Observações ": null,
-    "Unnamed: 19": null
+    "Fazenda": null
   },
   {
     "ID": "3602333",
@@ -16261,9 +14849,7 @@ window.QUALIDADE_MUDA_DATA = [
     "Responsável": "FERNANDA DE SOUZA ",
     "Qualidade da Muda": "BOM",
     "Observações": null,
-    "Fazenda": null,
-    "Observações ": null,
-    "Unnamed: 19": null
+    "Fazenda": null
   },
   {
     "ID": "3601970",
@@ -16284,9 +14870,7 @@ window.QUALIDADE_MUDA_DATA = [
     "Responsável": "MARCELO DE OLIVEIRA JUNIOR",
     "Qualidade da Muda": "BOM",
     "Observações": null,
-    "Fazenda": null,
-    "Observações ": null,
-    "Unnamed: 19": null
+    "Fazenda": null
   },
   {
     "ID": "3601966",
@@ -16307,9 +14891,7 @@ window.QUALIDADE_MUDA_DATA = [
     "Responsável": "MARCELO DE OLIVEIRA JUNIOR",
     "Qualidade da Muda": "BOM",
     "Observações": null,
-    "Fazenda": null,
-    "Observações ": null,
-    "Unnamed: 19": null
+    "Fazenda": null
   },
   {
     "ID": "3602326",
@@ -16330,9 +14912,7 @@ window.QUALIDADE_MUDA_DATA = [
     "Responsável": "FERNANDA DE SOUZA ",
     "Qualidade da Muda": "BOM",
     "Observações": null,
-    "Fazenda": null,
-    "Observações ": null,
-    "Unnamed: 19": null
+    "Fazenda": null
   },
   {
     "ID": "3601961",
@@ -16353,9 +14933,7 @@ window.QUALIDADE_MUDA_DATA = [
     "Responsável": "MARCELO DE OLIVEIRA JUNIOR",
     "Qualidade da Muda": "BOM",
     "Observações": null,
-    "Fazenda": null,
-    "Observações ": null,
-    "Unnamed: 19": null
+    "Fazenda": null
   },
   {
     "ID": "3601851",
@@ -16376,9 +14954,7 @@ window.QUALIDADE_MUDA_DATA = [
     "Responsável": "MARCELO DE OLIVEIRA JUNIOR",
     "Qualidade da Muda": "BOM",
     "Observações": null,
-    "Fazenda": null,
-    "Observações ": null,
-    "Unnamed: 19": null
+    "Fazenda": null
   },
   {
     "ID": "3602316",
@@ -16399,9 +14975,7 @@ window.QUALIDADE_MUDA_DATA = [
     "Responsável": "FERNANDA DE SOUZA ",
     "Qualidade da Muda": "BOM",
     "Observações": null,
-    "Fazenda": null,
-    "Observações ": null,
-    "Unnamed: 19": null
+    "Fazenda": null
   },
   {
     "ID": "3601808",
@@ -16422,9 +14996,7 @@ window.QUALIDADE_MUDA_DATA = [
     "Responsável": "MARCELO DE OLIVEIRA JUNIOR",
     "Qualidade da Muda": "BOM",
     "Observações": null,
-    "Fazenda": null,
-    "Observações ": null,
-    "Unnamed: 19": null
+    "Fazenda": null
   },
   {
     "ID": "3601404",
@@ -16445,9 +15017,7 @@ window.QUALIDADE_MUDA_DATA = [
     "Responsável": "VITOR AMORIM RAMOS ",
     "Qualidade da Muda": "BOM",
     "Observações": null,
-    "Fazenda": null,
-    "Observações ": null,
-    "Unnamed: 19": null
+    "Fazenda": null
   },
   {
     "ID": "3601400",
@@ -16468,9 +15038,7 @@ window.QUALIDADE_MUDA_DATA = [
     "Responsável": "VITOR AMORIM RAMOS ",
     "Qualidade da Muda": "BOM",
     "Observações": null,
-    "Fazenda": null,
-    "Observações ": null,
-    "Unnamed: 19": null
+    "Fazenda": null
   },
   {
     "ID": "3601482",
@@ -16491,9 +15059,7 @@ window.QUALIDADE_MUDA_DATA = [
     "Responsável": "NILDA CLAUDINO [2510716]",
     "Qualidade da Muda": "BOM",
     "Observações": null,
-    "Fazenda": null,
-    "Observações ": null,
-    "Unnamed: 19": null
+    "Fazenda": null
   },
   {
     "ID": "3602305",
@@ -16514,9 +15080,7 @@ window.QUALIDADE_MUDA_DATA = [
     "Responsável": "FERNANDA DE SOUZA ",
     "Qualidade da Muda": "BOM",
     "Observações": null,
-    "Fazenda": null,
-    "Observações ": null,
-    "Unnamed: 19": null
+    "Fazenda": null
   },
   {
     "ID": "3601395",
@@ -16537,9 +15101,7 @@ window.QUALIDADE_MUDA_DATA = [
     "Responsável": "VITOR AMORIM RAMOS ",
     "Qualidade da Muda": "BOM",
     "Observações": null,
-    "Fazenda": null,
-    "Observações ": null,
-    "Unnamed: 19": null
+    "Fazenda": null
   },
   {
     "ID": "3602535",
@@ -16560,9 +15122,7 @@ window.QUALIDADE_MUDA_DATA = [
     "Responsável": "REGINALDO DA SILVA GOMES ",
     "Qualidade da Muda": "BOM",
     "Observações": null,
-    "Fazenda": null,
-    "Observações ": null,
-    "Unnamed: 19": null
+    "Fazenda": null
   },
   {
     "ID": "3601390",
@@ -16583,9 +15143,7 @@ window.QUALIDADE_MUDA_DATA = [
     "Responsável": "VITOR AMORIM RAMOS ",
     "Qualidade da Muda": "BOM",
     "Observações": null,
-    "Fazenda": null,
-    "Observações ": null,
-    "Unnamed: 19": null
+    "Fazenda": null
   },
   {
     "ID": "3602477",
@@ -16606,9 +15164,7 @@ window.QUALIDADE_MUDA_DATA = [
     "Responsável": "Leonardo Ribeiro Teixeira da Silva",
     "Qualidade da Muda": "BOM",
     "Observações": null,
-    "Fazenda": null,
-    "Observações ": null,
-    "Unnamed: 19": null
+    "Fazenda": null
   },
   {
     "ID": "3602530",
@@ -16629,9 +15185,7 @@ window.QUALIDADE_MUDA_DATA = [
     "Responsável": "REGINALDO DA SILVA GOMES ",
     "Qualidade da Muda": "BOM",
     "Observações": null,
-    "Fazenda": null,
-    "Observações ": null,
-    "Unnamed: 19": null
+    "Fazenda": null
   },
   {
     "ID": "3601384",
@@ -16652,9 +15206,7 @@ window.QUALIDADE_MUDA_DATA = [
     "Responsável": "VITOR AMORIM RAMOS ",
     "Qualidade da Muda": "BOM",
     "Observações": null,
-    "Fazenda": null,
-    "Observações ": null,
-    "Unnamed: 19": null
+    "Fazenda": null
   },
   {
     "ID": "3602525",
@@ -16675,9 +15227,7 @@ window.QUALIDADE_MUDA_DATA = [
     "Responsável": "REGINALDO DA SILVA GOMES ",
     "Qualidade da Muda": "BOM",
     "Observações": null,
-    "Fazenda": null,
-    "Observações ": null,
-    "Unnamed: 19": null
+    "Fazenda": null
   },
   {
     "ID": "3602471",
@@ -16698,9 +15248,7 @@ window.QUALIDADE_MUDA_DATA = [
     "Responsável": "Leonardo Ribeiro Teixeira da Silva",
     "Qualidade da Muda": "BOM",
     "Observações": null,
-    "Fazenda": null,
-    "Observações ": null,
-    "Unnamed: 19": null
+    "Fazenda": null
   },
   {
     "ID": "3601379",
@@ -16721,9 +15269,7 @@ window.QUALIDADE_MUDA_DATA = [
     "Responsável": "VITOR AMORIM RAMOS ",
     "Qualidade da Muda": "BOM",
     "Observações": null,
-    "Fazenda": null,
-    "Observações ": null,
-    "Unnamed: 19": null
+    "Fazenda": null
   },
   {
     "ID": "3602466",
@@ -16744,9 +15290,7 @@ window.QUALIDADE_MUDA_DATA = [
     "Responsável": "Leonardo Ribeiro Teixeira da Silva",
     "Qualidade da Muda": "BOM",
     "Observações": null,
-    "Fazenda": null,
-    "Observações ": null,
-    "Unnamed: 19": null
+    "Fazenda": null
   },
   {
     "ID": "3602520",
@@ -16767,9 +15311,7 @@ window.QUALIDADE_MUDA_DATA = [
     "Responsável": "REGINALDO DA SILVA GOMES ",
     "Qualidade da Muda": "BOM",
     "Observações": null,
-    "Fazenda": null,
-    "Observações ": null,
-    "Unnamed: 19": null
+    "Fazenda": null
   },
   {
     "ID": "3602461",
@@ -16790,9 +15332,7 @@ window.QUALIDADE_MUDA_DATA = [
     "Responsável": "Leonardo Ribeiro Teixeira da Silva",
     "Qualidade da Muda": "BOM",
     "Observações": null,
-    "Fazenda": null,
-    "Observações ": null,
-    "Unnamed: 19": null
+    "Fazenda": null
   },
   {
     "ID": "3602515",
@@ -16813,9 +15353,7 @@ window.QUALIDADE_MUDA_DATA = [
     "Responsável": "REGINALDO DA SILVA GOMES ",
     "Qualidade da Muda": "BOM",
     "Observações": null,
-    "Fazenda": null,
-    "Observações ": null,
-    "Unnamed: 19": null
+    "Fazenda": null
   },
   {
     "ID": "3602456",
@@ -16836,9 +15374,7 @@ window.QUALIDADE_MUDA_DATA = [
     "Responsável": "Leonardo Ribeiro Teixeira da Silva",
     "Qualidade da Muda": "BOM",
     "Observações": null,
-    "Fazenda": null,
-    "Observações ": null,
-    "Unnamed: 19": null
+    "Fazenda": null
   },
   {
     "ID": "3601473",
@@ -16859,9 +15395,7 @@ window.QUALIDADE_MUDA_DATA = [
     "Responsável": "NILDA CLAUDINO [2510716]",
     "Qualidade da Muda": "BOM",
     "Observações": null,
-    "Fazenda": null,
-    "Observações ": null,
-    "Unnamed: 19": null
+    "Fazenda": null
   },
   {
     "ID": "3601470",
@@ -16882,9 +15416,7 @@ window.QUALIDADE_MUDA_DATA = [
     "Responsável": "NILDA CLAUDINO [2510716]",
     "Qualidade da Muda": "BOM",
     "Observações": null,
-    "Fazenda": null,
-    "Observações ": null,
-    "Unnamed: 19": null
+    "Fazenda": null
   },
   {
     "ID": "3601373",
@@ -16905,9 +15437,7 @@ window.QUALIDADE_MUDA_DATA = [
     "Responsável": "VITOR AMORIM RAMOS ",
     "Qualidade da Muda": "BOM",
     "Observações": null,
-    "Fazenda": null,
-    "Observações ": null,
-    "Unnamed: 19": null
+    "Fazenda": null
   },
   {
     "ID": "3601461",
@@ -16928,9 +15458,7 @@ window.QUALIDADE_MUDA_DATA = [
     "Responsável": "NILDA CLAUDINO [2510716]",
     "Qualidade da Muda": "BOM",
     "Observações": null,
-    "Fazenda": null,
-    "Observações ": null,
-    "Unnamed: 19": null
+    "Fazenda": null
   },
   {
     "ID": "3601367",
@@ -16951,9 +15479,7 @@ window.QUALIDADE_MUDA_DATA = [
     "Responsável": "VITOR AMORIM RAMOS ",
     "Qualidade da Muda": "BOM",
     "Observações": null,
-    "Fazenda": null,
-    "Observações ": null,
-    "Unnamed: 19": null
+    "Fazenda": null
   },
   {
     "ID": "3601362",
@@ -16974,9 +15500,7 @@ window.QUALIDADE_MUDA_DATA = [
     "Responsável": "VITOR AMORIM RAMOS ",
     "Qualidade da Muda": "BOM",
     "Observações": null,
-    "Fazenda": null,
-    "Observações ": null,
-    "Unnamed: 19": null
+    "Fazenda": null
   },
   {
     "ID": "3601358",
@@ -16997,9 +15521,7 @@ window.QUALIDADE_MUDA_DATA = [
     "Responsável": "VITOR AMORIM RAMOS ",
     "Qualidade da Muda": "BOM",
     "Observações": null,
-    "Fazenda": null,
-    "Observações ": null,
-    "Unnamed: 19": null
+    "Fazenda": null
   },
   {
     "ID": "3601353",
@@ -17020,9 +15542,7 @@ window.QUALIDADE_MUDA_DATA = [
     "Responsável": "VITOR AMORIM RAMOS ",
     "Qualidade da Muda": "BOM",
     "Observações": null,
-    "Fazenda": null,
-    "Observações ": null,
-    "Unnamed: 19": null
+    "Fazenda": null
   },
   {
     "ID": "3599588",
@@ -17043,9 +15563,7 @@ window.QUALIDADE_MUDA_DATA = [
     "Responsável": "MICHELI DE SOUZA SANTOS  ",
     "Qualidade da Muda": "BOM",
     "Observações": null,
-    "Fazenda": null,
-    "Observações ": null,
-    "Unnamed: 19": null
+    "Fazenda": null
   },
   {
     "ID": "3599585",
@@ -17066,9 +15584,7 @@ window.QUALIDADE_MUDA_DATA = [
     "Responsável": "MICHELI DE SOUZA SANTOS  ",
     "Qualidade da Muda": "BOM",
     "Observações": null,
-    "Fazenda": null,
-    "Observações ": null,
-    "Unnamed: 19": null
+    "Fazenda": null
   },
   {
     "ID": "3599580",
@@ -17089,9 +15605,7 @@ window.QUALIDADE_MUDA_DATA = [
     "Responsável": "MICHELI DE SOUZA SANTOS  ",
     "Qualidade da Muda": "BOM",
     "Observações": null,
-    "Fazenda": null,
-    "Observações ": null,
-    "Unnamed: 19": null
+    "Fazenda": null
   },
   {
     "ID": "3599575",
@@ -17112,9 +15626,7 @@ window.QUALIDADE_MUDA_DATA = [
     "Responsável": "MICHELI DE SOUZA SANTOS  ",
     "Qualidade da Muda": "BOM",
     "Observações": null,
-    "Fazenda": null,
-    "Observações ": null,
-    "Unnamed: 19": null
+    "Fazenda": null
   },
   {
     "ID": "3599570",
@@ -17135,9 +15647,7 @@ window.QUALIDADE_MUDA_DATA = [
     "Responsável": "MICHELI DE SOUZA SANTOS  ",
     "Qualidade da Muda": "BOM",
     "Observações": null,
-    "Fazenda": null,
-    "Observações ": null,
-    "Unnamed: 19": null
+    "Fazenda": null
   },
   {
     "ID": "3599418",
@@ -17158,9 +15668,7 @@ window.QUALIDADE_MUDA_DATA = [
     "Responsável": "REGINALDO DA SILVA GOMES ",
     "Qualidade da Muda": "BOM",
     "Observações": null,
-    "Fazenda": null,
-    "Observações ": null,
-    "Unnamed: 19": null
+    "Fazenda": null
   },
   {
     "ID": "3599565",
@@ -17181,9 +15689,7 @@ window.QUALIDADE_MUDA_DATA = [
     "Responsável": "MICHELI DE SOUZA SANTOS  ",
     "Qualidade da Muda": "BOM",
     "Observações": null,
-    "Fazenda": null,
-    "Observações ": null,
-    "Unnamed: 19": null
+    "Fazenda": null
   },
   {
     "ID": "3599560",
@@ -17204,9 +15710,7 @@ window.QUALIDADE_MUDA_DATA = [
     "Responsável": "MICHELI DE SOUZA SANTOS  ",
     "Qualidade da Muda": "BOM",
     "Observações": null,
-    "Fazenda": null,
-    "Observações ": null,
-    "Unnamed: 19": null
+    "Fazenda": null
   },
   {
     "ID": "3599413",
@@ -17227,9 +15731,7 @@ window.QUALIDADE_MUDA_DATA = [
     "Responsável": "REGINALDO DA SILVA GOMES ",
     "Qualidade da Muda": "BOM",
     "Observações": null,
-    "Fazenda": null,
-    "Observações ": null,
-    "Unnamed: 19": null
+    "Fazenda": null
   },
   {
     "ID": "3599555",
@@ -17250,9 +15752,7 @@ window.QUALIDADE_MUDA_DATA = [
     "Responsável": "MICHELI DE SOUZA SANTOS  ",
     "Qualidade da Muda": "BOM",
     "Observações": null,
-    "Fazenda": null,
-    "Observações ": null,
-    "Unnamed: 19": null
+    "Fazenda": null
   },
   {
     "ID": "3599405",
@@ -17273,9 +15773,7 @@ window.QUALIDADE_MUDA_DATA = [
     "Responsável": "REGINALDO DA SILVA GOMES ",
     "Qualidade da Muda": "BOM",
     "Observações": null,
-    "Fazenda": null,
-    "Observações ": null,
-    "Unnamed: 19": null
+    "Fazenda": null
   },
   {
     "ID": "3599387",
@@ -17296,9 +15794,7 @@ window.QUALIDADE_MUDA_DATA = [
     "Responsável": "REGINALDO DA SILVA GOMES ",
     "Qualidade da Muda": "BOM",
     "Observações": null,
-    "Fazenda": null,
-    "Observações ": null,
-    "Unnamed: 19": null
+    "Fazenda": null
   },
   {
     "ID": "3599377",
@@ -17319,9 +15815,7 @@ window.QUALIDADE_MUDA_DATA = [
     "Responsável": "REGINALDO DA SILVA GOMES ",
     "Qualidade da Muda": "BOM",
     "Observações": null,
-    "Fazenda": null,
-    "Observações ": null,
-    "Unnamed: 19": null
+    "Fazenda": null
   },
   {
     "ID": "3599122",
@@ -17342,9 +15836,7 @@ window.QUALIDADE_MUDA_DATA = [
     "Responsável": "NILDA CLAUDINO [2510716]",
     "Qualidade da Muda": "BOM",
     "Observações": null,
-    "Fazenda": null,
-    "Observações ": null,
-    "Unnamed: 19": null
+    "Fazenda": null
   },
   {
     "ID": "3599117",
@@ -17365,9 +15857,7 @@ window.QUALIDADE_MUDA_DATA = [
     "Responsável": "NILDA CLAUDINO [2510716]",
     "Qualidade da Muda": "BOM",
     "Observações": null,
-    "Fazenda": null,
-    "Observações ": null,
-    "Unnamed: 19": null
+    "Fazenda": null
   },
   {
     "ID": "3599540",
@@ -17388,9 +15878,7 @@ window.QUALIDADE_MUDA_DATA = [
     "Responsável": "MICHELI DE SOUZA SANTOS  ",
     "Qualidade da Muda": "BOM",
     "Observações": null,
-    "Fazenda": null,
-    "Observações ": null,
-    "Unnamed: 19": null
+    "Fazenda": null
   },
   {
     "ID": "3599113",
@@ -17411,9 +15899,7 @@ window.QUALIDADE_MUDA_DATA = [
     "Responsável": "NILDA CLAUDINO [2510716]",
     "Qualidade da Muda": "BOM",
     "Observações": null,
-    "Fazenda": null,
-    "Observações ": null,
-    "Unnamed: 19": null
+    "Fazenda": null
   },
   {
     "ID": "3599156",
@@ -17434,9 +15920,7 @@ window.QUALIDADE_MUDA_DATA = [
     "Responsável": "VITOR AMORIM RAMOS ",
     "Qualidade da Muda": "BOM",
     "Observações": null,
-    "Fazenda": null,
-    "Observações ": null,
-    "Unnamed: 19": null
+    "Fazenda": null
   },
   {
     "ID": "3600509",
@@ -17457,9 +15941,7 @@ window.QUALIDADE_MUDA_DATA = [
     "Responsável": "MARCELO DE OLIVEIRA JUNIOR",
     "Qualidade da Muda": "BOM",
     "Observações": null,
-    "Fazenda": null,
-    "Observações ": null,
-    "Unnamed: 19": null
+    "Fazenda": null
   },
   {
     "ID": "3599533",
@@ -17480,9 +15962,7 @@ window.QUALIDADE_MUDA_DATA = [
     "Responsável": "MICHELI DE SOUZA SANTOS  ",
     "Qualidade da Muda": "BOM",
     "Observações": null,
-    "Fazenda": null,
-    "Observações ": null,
-    "Unnamed: 19": null
+    "Fazenda": null
   },
   {
     "ID": "3599151",
@@ -17503,9 +15983,7 @@ window.QUALIDADE_MUDA_DATA = [
     "Responsável": "VITOR AMORIM RAMOS ",
     "Qualidade da Muda": "BOM",
     "Observações": null,
-    "Fazenda": null,
-    "Observações ": null,
-    "Unnamed: 19": null
+    "Fazenda": null
   },
   {
     "ID": "3599109",
@@ -17526,9 +16004,7 @@ window.QUALIDADE_MUDA_DATA = [
     "Responsável": "NILDA CLAUDINO [2510716]",
     "Qualidade da Muda": "BOM",
     "Observações": null,
-    "Fazenda": null,
-    "Observações ": null,
-    "Unnamed: 19": null
+    "Fazenda": null
   },
   {
     "ID": "3599528",
@@ -17549,9 +16025,7 @@ window.QUALIDADE_MUDA_DATA = [
     "Responsável": "MICHELI DE SOUZA SANTOS  ",
     "Qualidade da Muda": "BOM",
     "Observações": null,
-    "Fazenda": null,
-    "Observações ": null,
-    "Unnamed: 19": null
+    "Fazenda": null
   },
   {
     "ID": "3600503",
@@ -17572,9 +16046,7 @@ window.QUALIDADE_MUDA_DATA = [
     "Responsável": "MARCELO DE OLIVEIRA JUNIOR",
     "Qualidade da Muda": "BOM",
     "Observações": null,
-    "Fazenda": null,
-    "Observações ": null,
-    "Unnamed: 19": null
+    "Fazenda": null
   },
   {
     "ID": "3599146",
@@ -17595,9 +16067,7 @@ window.QUALIDADE_MUDA_DATA = [
     "Responsável": "VITOR AMORIM RAMOS ",
     "Qualidade da Muda": "BOM",
     "Observações": null,
-    "Fazenda": null,
-    "Observações ": null,
-    "Unnamed: 19": null
+    "Fazenda": null
   },
   {
     "ID": "3599523",
@@ -17618,9 +16088,7 @@ window.QUALIDADE_MUDA_DATA = [
     "Responsável": "MICHELI DE SOUZA SANTOS  ",
     "Qualidade da Muda": "BOM",
     "Observações": null,
-    "Fazenda": null,
-    "Observações ": null,
-    "Unnamed: 19": null
+    "Fazenda": null
   },
   {
     "ID": "3599518",
@@ -17641,9 +16109,7 @@ window.QUALIDADE_MUDA_DATA = [
     "Responsável": "MICHELI DE SOUZA SANTOS  ",
     "Qualidade da Muda": "BOM",
     "Observações": null,
-    "Fazenda": null,
-    "Observações ": null,
-    "Unnamed: 19": null
+    "Fazenda": null
   },
   {
     "ID": "3599141",
@@ -17664,9 +16130,7 @@ window.QUALIDADE_MUDA_DATA = [
     "Responsável": "VITOR AMORIM RAMOS ",
     "Qualidade da Muda": "BOM",
     "Observações": null,
-    "Fazenda": null,
-    "Observações ": null,
-    "Unnamed: 19": null
+    "Fazenda": null
   },
   {
     "ID": "3599287",
@@ -17687,9 +16151,7 @@ window.QUALIDADE_MUDA_DATA = [
     "Responsável": "GABRIEL HENRIQUE MARTINS PEREIRA",
     "Qualidade da Muda": "BOM",
     "Observações": null,
-    "Fazenda": null,
-    "Observações ": null,
-    "Unnamed: 19": null
+    "Fazenda": null
   },
   {
     "ID": "3599282",
@@ -17710,9 +16172,7 @@ window.QUALIDADE_MUDA_DATA = [
     "Responsável": "GABRIEL HENRIQUE MARTINS PEREIRA",
     "Qualidade da Muda": "BOM",
     "Observações": null,
-    "Fazenda": null,
-    "Observações ": null,
-    "Unnamed: 19": null
+    "Fazenda": null
   },
   {
     "ID": "3599277",
@@ -17733,9 +16193,7 @@ window.QUALIDADE_MUDA_DATA = [
     "Responsável": "GABRIEL HENRIQUE MARTINS PEREIRA",
     "Qualidade da Muda": "BOM",
     "Observações": null,
-    "Fazenda": null,
-    "Observações ": null,
-    "Unnamed: 19": null
+    "Fazenda": null
   },
   {
     "ID": "3599373",
@@ -17756,9 +16214,7 @@ window.QUALIDADE_MUDA_DATA = [
     "Responsável": "REGINALDO DA SILVA GOMES ",
     "Qualidade da Muda": "BOM",
     "Observações": null,
-    "Fazenda": null,
-    "Observações ": null,
-    "Unnamed: 19": null
+    "Fazenda": null
   },
   {
     "ID": "3600498",
@@ -17779,9 +16235,7 @@ window.QUALIDADE_MUDA_DATA = [
     "Responsável": "MARCELO DE OLIVEIRA JUNIOR",
     "Qualidade da Muda": "BOM",
     "Observações": null,
-    "Fazenda": null,
-    "Observações ": null,
-    "Unnamed: 19": null
+    "Fazenda": null
   },
   {
     "ID": "3599270",
@@ -17802,9 +16256,7 @@ window.QUALIDADE_MUDA_DATA = [
     "Responsável": "GABRIEL HENRIQUE MARTINS PEREIRA",
     "Qualidade da Muda": "BOM",
     "Observações": null,
-    "Fazenda": null,
-    "Observações ": null,
-    "Unnamed: 19": null
+    "Fazenda": null
   },
   {
     "ID": "3599349",
@@ -17825,9 +16277,7 @@ window.QUALIDADE_MUDA_DATA = [
     "Responsável": "REGINALDO DA SILVA GOMES ",
     "Qualidade da Muda": "BOM",
     "Observações": null,
-    "Fazenda": null,
-    "Observações ": null,
-    "Unnamed: 19": null
+    "Fazenda": null
   },
   {
     "ID": "3599265",
@@ -17848,9 +16298,7 @@ window.QUALIDADE_MUDA_DATA = [
     "Responsável": "GABRIEL HENRIQUE MARTINS PEREIRA",
     "Qualidade da Muda": "BOM",
     "Observações": null,
-    "Fazenda": null,
-    "Observações ": null,
-    "Unnamed: 19": null
+    "Fazenda": null
   },
   {
     "ID": "3600494",
@@ -17871,9 +16319,7 @@ window.QUALIDADE_MUDA_DATA = [
     "Responsável": "MARCELO DE OLIVEIRA JUNIOR",
     "Qualidade da Muda": "BOM",
     "Observações": null,
-    "Fazenda": null,
-    "Observações ": null,
-    "Unnamed: 19": null
+    "Fazenda": null
   },
   {
     "ID": "3599096",
@@ -17894,9 +16340,7 @@ window.QUALIDADE_MUDA_DATA = [
     "Responsável": "NILDA CLAUDINO [2510716]",
     "Qualidade da Muda": "BOM",
     "Observações": null,
-    "Fazenda": null,
-    "Observações ": null,
-    "Unnamed: 19": null
+    "Fazenda": null
   },
   {
     "ID": "3599340",
@@ -17917,9 +16361,7 @@ window.QUALIDADE_MUDA_DATA = [
     "Responsável": "REGINALDO DA SILVA GOMES ",
     "Qualidade da Muda": "BOM",
     "Observações": null,
-    "Fazenda": null,
-    "Observações ": null,
-    "Unnamed: 19": null
+    "Fazenda": null
   },
   {
     "ID": "3599092",
@@ -17940,9 +16382,7 @@ window.QUALIDADE_MUDA_DATA = [
     "Responsável": "NILDA CLAUDINO [2510716]",
     "Qualidade da Muda": "BOM",
     "Observações": null,
-    "Fazenda": null,
-    "Observações ": null,
-    "Unnamed: 19": null
+    "Fazenda": null
   },
   {
     "ID": "3599260",
@@ -17963,9 +16403,7 @@ window.QUALIDADE_MUDA_DATA = [
     "Responsável": "GABRIEL HENRIQUE MARTINS PEREIRA",
     "Qualidade da Muda": "BOM",
     "Observações": null,
-    "Fazenda": null,
-    "Observações ": null,
-    "Unnamed: 19": null
+    "Fazenda": null
   },
   {
     "ID": "3600488",
@@ -17986,9 +16424,7 @@ window.QUALIDADE_MUDA_DATA = [
     "Responsável": "MARCELO DE OLIVEIRA JUNIOR",
     "Qualidade da Muda": "BOM",
     "Observações": null,
-    "Fazenda": null,
-    "Observações ": null,
-    "Unnamed: 19": null
+    "Fazenda": null
   },
   {
     "ID": "3599088",
@@ -18009,9 +16445,7 @@ window.QUALIDADE_MUDA_DATA = [
     "Responsável": "NILDA CLAUDINO [2510716]",
     "Qualidade da Muda": "BOM",
     "Observações": null,
-    "Fazenda": null,
-    "Observações ": null,
-    "Unnamed: 19": null
+    "Fazenda": null
   },
   {
     "ID": "3599335",
@@ -18032,9 +16466,7 @@ window.QUALIDADE_MUDA_DATA = [
     "Responsável": "REGINALDO DA SILVA GOMES ",
     "Qualidade da Muda": "BOM",
     "Observações": null,
-    "Fazenda": null,
-    "Observações ": null,
-    "Unnamed: 19": null
+    "Fazenda": null
   },
   {
     "ID": "3599255",
@@ -18055,9 +16487,7 @@ window.QUALIDADE_MUDA_DATA = [
     "Responsável": "GABRIEL HENRIQUE MARTINS PEREIRA",
     "Qualidade da Muda": "BOM",
     "Observações": null,
-    "Fazenda": null,
-    "Observações ": null,
-    "Unnamed: 19": null
+    "Fazenda": null
   },
   {
     "ID": "3599329",
@@ -18078,9 +16508,7 @@ window.QUALIDADE_MUDA_DATA = [
     "Responsável": "REGINALDO DA SILVA GOMES ",
     "Qualidade da Muda": "BOM",
     "Observações": null,
-    "Fazenda": null,
-    "Observações ": null,
-    "Unnamed: 19": null
+    "Fazenda": null
   },
   {
     "ID": "3599083",
@@ -18101,9 +16529,7 @@ window.QUALIDADE_MUDA_DATA = [
     "Responsável": "NILDA CLAUDINO [2510716]",
     "Qualidade da Muda": "BOM",
     "Observações": null,
-    "Fazenda": null,
-    "Observações ": null,
-    "Unnamed: 19": null
+    "Fazenda": null
   },
   {
     "ID": "3598751",
@@ -18124,9 +16550,7 @@ window.QUALIDADE_MUDA_DATA = [
     "Responsável": "VITOR AMORIM RAMOS ",
     "Qualidade da Muda": "BOM",
     "Observações": null,
-    "Fazenda": null,
-    "Observações ": null,
-    "Unnamed: 19": null
+    "Fazenda": null
   },
   {
     "ID": "3598747",
@@ -18147,9 +16571,7 @@ window.QUALIDADE_MUDA_DATA = [
     "Responsável": "VITOR AMORIM RAMOS ",
     "Qualidade da Muda": "BOM",
     "Observações": null,
-    "Fazenda": null,
-    "Observações ": null,
-    "Unnamed: 19": null
+    "Fazenda": null
   },
   {
     "ID": "3599039",
@@ -18170,9 +16592,7 @@ window.QUALIDADE_MUDA_DATA = [
     "Responsável": "NILDA CLAUDINO [2510716]",
     "Qualidade da Muda": "BOM",
     "Observações": null,
-    "Fazenda": null,
-    "Observações ": null,
-    "Unnamed: 19": null
+    "Fazenda": null
   },
   {
     "ID": "3598740",
@@ -18193,9 +16613,7 @@ window.QUALIDADE_MUDA_DATA = [
     "Responsável": "VITOR AMORIM RAMOS ",
     "Qualidade da Muda": "BOM",
     "Observações": null,
-    "Fazenda": null,
-    "Observações ": null,
-    "Unnamed: 19": null
+    "Fazenda": null
   },
   {
     "ID": "3599501",
@@ -18216,9 +16634,7 @@ window.QUALIDADE_MUDA_DATA = [
     "Responsável": "MICHELI DE SOUZA SANTOS  ",
     "Qualidade da Muda": "BOM",
     "Observações": null,
-    "Fazenda": null,
-    "Observações ": null,
-    "Unnamed: 19": null
+    "Fazenda": null
   },
   {
     "ID": "3599035",
@@ -18239,9 +16655,7 @@ window.QUALIDADE_MUDA_DATA = [
     "Responsável": "NILDA CLAUDINO [2510716]",
     "Qualidade da Muda": "BOM",
     "Observações": null,
-    "Fazenda": null,
-    "Observações ": null,
-    "Unnamed: 19": null
+    "Fazenda": null
   },
   {
     "ID": "3599496",
@@ -18262,9 +16676,7 @@ window.QUALIDADE_MUDA_DATA = [
     "Responsável": "MICHELI DE SOUZA SANTOS  ",
     "Qualidade da Muda": "BOM",
     "Observações": null,
-    "Fazenda": null,
-    "Observações ": null,
-    "Unnamed: 19": null
+    "Fazenda": null
   },
   {
     "ID": "3598734",
@@ -18285,9 +16697,7 @@ window.QUALIDADE_MUDA_DATA = [
     "Responsável": "VITOR AMORIM RAMOS ",
     "Qualidade da Muda": "BOM",
     "Observações": null,
-    "Fazenda": null,
-    "Observações ": null,
-    "Unnamed: 19": null
+    "Fazenda": null
   },
   {
     "ID": "3599317",
@@ -18308,9 +16718,7 @@ window.QUALIDADE_MUDA_DATA = [
     "Responsável": "MICHELI DE SOUZA SANTOS  ",
     "Qualidade da Muda": "BOM",
     "Observações": null,
-    "Fazenda": null,
-    "Observações ": null,
-    "Unnamed: 19": null
+    "Fazenda": null
   },
   {
     "ID": "3598729",
@@ -18331,9 +16739,7 @@ window.QUALIDADE_MUDA_DATA = [
     "Responsável": "VITOR AMORIM RAMOS ",
     "Qualidade da Muda": "BOM",
     "Observações": null,
-    "Fazenda": null,
-    "Observações ": null,
-    "Unnamed: 19": null
+    "Fazenda": null
   },
   {
     "ID": "3599312",
@@ -18354,9 +16760,7 @@ window.QUALIDADE_MUDA_DATA = [
     "Responsável": "MICHELI DE SOUZA SANTOS  ",
     "Qualidade da Muda": "BOM",
     "Observações": null,
-    "Fazenda": null,
-    "Observações ": null,
-    "Unnamed: 19": null
+    "Fazenda": null
   },
   {
     "ID": "3599786",
@@ -18377,9 +16781,7 @@ window.QUALIDADE_MUDA_DATA = [
     "Responsável": "FERNANDA DE SOUZA ",
     "Qualidade da Muda": "BOM",
     "Observações": null,
-    "Fazenda": null,
-    "Observações ": null,
-    "Unnamed: 19": null
+    "Fazenda": null
   },
   {
     "ID": "3598722",
@@ -18400,9 +16802,7 @@ window.QUALIDADE_MUDA_DATA = [
     "Responsável": "VITOR AMORIM RAMOS ",
     "Qualidade da Muda": "BOM",
     "Observações": null,
-    "Fazenda": null,
-    "Observações ": null,
-    "Unnamed: 19": null
+    "Fazenda": null
   },
   {
     "ID": "3599307",
@@ -18423,9 +16823,7 @@ window.QUALIDADE_MUDA_DATA = [
     "Responsável": "MICHELI DE SOUZA SANTOS  ",
     "Qualidade da Muda": "BOM",
     "Observações": null,
-    "Fazenda": null,
-    "Observações ": null,
-    "Unnamed: 19": null
+    "Fazenda": null
   },
   {
     "ID": "3598718",
@@ -18446,9 +16844,7 @@ window.QUALIDADE_MUDA_DATA = [
     "Responsável": "VITOR AMORIM RAMOS ",
     "Qualidade da Muda": "BOM",
     "Observações": null,
-    "Fazenda": null,
-    "Observações ": null,
-    "Unnamed: 19": null
+    "Fazenda": null
   },
   {
     "ID": "3598712",
@@ -18469,9 +16865,7 @@ window.QUALIDADE_MUDA_DATA = [
     "Responsável": "VITOR AMORIM RAMOS ",
     "Qualidade da Muda": "BOM",
     "Observações": null,
-    "Fazenda": null,
-    "Observações ": null,
-    "Unnamed: 19": null
+    "Fazenda": null
   },
   {
     "ID": "3598706",
@@ -18492,9 +16886,7 @@ window.QUALIDADE_MUDA_DATA = [
     "Responsável": "VITOR AMORIM RAMOS ",
     "Qualidade da Muda": "BOM",
     "Observações": null,
-    "Fazenda": null,
-    "Observações ": null,
-    "Unnamed: 19": null
+    "Fazenda": null
   },
   {
     "ID": "3598701",
@@ -18515,9 +16907,7 @@ window.QUALIDADE_MUDA_DATA = [
     "Responsável": "VITOR AMORIM RAMOS ",
     "Qualidade da Muda": "BOM",
     "Observações": null,
-    "Fazenda": null,
-    "Observações ": null,
-    "Unnamed: 19": null
+    "Fazenda": null
   },
   {
     "ID": "3596442",
@@ -18538,9 +16928,7 @@ window.QUALIDADE_MUDA_DATA = [
     "Responsável": "Leonardo Ribeiro Teixeira da Silva",
     "Qualidade da Muda": "BOM",
     "Observações": null,
-    "Fazenda": null,
-    "Observações ": null,
-    "Unnamed: 19": null
+    "Fazenda": null
   },
   {
     "ID": "3596533",
@@ -18561,9 +16949,7 @@ window.QUALIDADE_MUDA_DATA = [
     "Responsável": "VITOR AMORIM RAMOS ",
     "Qualidade da Muda": "BOM",
     "Observações": null,
-    "Fazenda": null,
-    "Observações ": null,
-    "Unnamed: 19": null
+    "Fazenda": null
   },
   {
     "ID": "3596531",
@@ -18584,9 +16970,7 @@ window.QUALIDADE_MUDA_DATA = [
     "Responsável": "VITOR AMORIM RAMOS ",
     "Qualidade da Muda": "BOM",
     "Observações": null,
-    "Fazenda": null,
-    "Observações ": null,
-    "Unnamed: 19": null
+    "Fazenda": null
   },
   {
     "ID": "3596522",
@@ -18607,9 +16991,7 @@ window.QUALIDADE_MUDA_DATA = [
     "Responsável": "VITOR AMORIM RAMOS ",
     "Qualidade da Muda": "BOM",
     "Observações": null,
-    "Fazenda": null,
-    "Observações ": null,
-    "Unnamed: 19": null
+    "Fazenda": null
   },
   {
     "ID": "3596436",
@@ -18630,9 +17012,7 @@ window.QUALIDADE_MUDA_DATA = [
     "Responsável": "Leonardo Ribeiro Teixeira da Silva",
     "Qualidade da Muda": "BOM",
     "Observações": null,
-    "Fazenda": null,
-    "Observações ": null,
-    "Unnamed: 19": null
+    "Fazenda": null
   },
   {
     "ID": "3596517",
@@ -18653,9 +17033,7 @@ window.QUALIDADE_MUDA_DATA = [
     "Responsável": "VITOR AMORIM RAMOS ",
     "Qualidade da Muda": "BOM",
     "Observações": null,
-    "Fazenda": null,
-    "Observações ": null,
-    "Unnamed: 19": null
+    "Fazenda": null
   },
   {
     "ID": "3596431",
@@ -18676,9 +17054,7 @@ window.QUALIDADE_MUDA_DATA = [
     "Responsável": "Leonardo Ribeiro Teixeira da Silva",
     "Qualidade da Muda": "BOM",
     "Observações": null,
-    "Fazenda": null,
-    "Observações ": null,
-    "Unnamed: 19": null
+    "Fazenda": null
   },
   {
     "ID": "3595914",
@@ -18699,9 +17075,7 @@ window.QUALIDADE_MUDA_DATA = [
     "Responsável": "GABRIEL HENRIQUE MARTINS PEREIRA",
     "Qualidade da Muda": "BOM",
     "Observações": null,
-    "Fazenda": null,
-    "Observações ": null,
-    "Unnamed: 19": null
+    "Fazenda": null
   },
   {
     "ID": "3595909",
@@ -18722,9 +17096,7 @@ window.QUALIDADE_MUDA_DATA = [
     "Responsável": "GABRIEL HENRIQUE MARTINS PEREIRA",
     "Qualidade da Muda": "BOM",
     "Observações": null,
-    "Fazenda": null,
-    "Observações ": null,
-    "Unnamed: 19": null
+    "Fazenda": null
   },
   {
     "ID": "3595674",
@@ -18745,9 +17117,7 @@ window.QUALIDADE_MUDA_DATA = [
     "Responsável": "VITOR AMORIM RAMOS ",
     "Qualidade da Muda": "BOM",
     "Observações": null,
-    "Fazenda": null,
-    "Observações ": null,
-    "Unnamed: 19": null
+    "Fazenda": null
   },
   {
     "ID": "3596215",
@@ -18768,9 +17138,7 @@ window.QUALIDADE_MUDA_DATA = [
     "Responsável": "NILDA CLAUDINO [2510716]",
     "Qualidade da Muda": "BOM",
     "Observações": null,
-    "Fazenda": null,
-    "Observações ": null,
-    "Unnamed: 19": null
+    "Fazenda": null
   },
   {
     "ID": "3595669",
@@ -18791,9 +17159,7 @@ window.QUALIDADE_MUDA_DATA = [
     "Responsável": "VITOR AMORIM RAMOS ",
     "Qualidade da Muda": "BOM",
     "Observações": null,
-    "Fazenda": null,
-    "Observações ": null,
-    "Unnamed: 19": null
+    "Fazenda": null
   },
   {
     "ID": "3596211",
@@ -18814,9 +17180,7 @@ window.QUALIDADE_MUDA_DATA = [
     "Responsável": "NILDA CLAUDINO [2510716]",
     "Qualidade da Muda": "BOM",
     "Observações": null,
-    "Fazenda": null,
-    "Observações ": null,
-    "Unnamed: 19": null
+    "Fazenda": null
   },
   {
     "ID": "3595663",
@@ -18837,9 +17201,7 @@ window.QUALIDADE_MUDA_DATA = [
     "Responsável": "VITOR AMORIM RAMOS ",
     "Qualidade da Muda": "BOM",
     "Observações": null,
-    "Fazenda": null,
-    "Observações ": null,
-    "Unnamed: 19": null
+    "Fazenda": null
   },
   {
     "ID": "3595659",
@@ -18860,9 +17222,7 @@ window.QUALIDADE_MUDA_DATA = [
     "Responsável": "VITOR AMORIM RAMOS ",
     "Qualidade da Muda": "BOM",
     "Observações": null,
-    "Fazenda": null,
-    "Observações ": null,
-    "Unnamed: 19": null
+    "Fazenda": null
   },
   {
     "ID": "3596176",
@@ -18883,9 +17243,7 @@ window.QUALIDADE_MUDA_DATA = [
     "Responsável": "NILDA CLAUDINO [2510716]",
     "Qualidade da Muda": "BOM",
     "Observações": null,
-    "Fazenda": null,
-    "Observações ": null,
-    "Unnamed: 19": null
+    "Fazenda": null
   },
   {
     "ID": "3595708",
@@ -18906,9 +17264,7 @@ window.QUALIDADE_MUDA_DATA = [
     "Responsável": " Antonio ",
     "Qualidade da Muda": "BOM",
     "Observações": null,
-    "Fazenda": null,
-    "Observações ": null,
-    "Unnamed: 19": null
+    "Fazenda": null
   },
   {
     "ID": "3595652",
@@ -18929,9 +17285,7 @@ window.QUALIDADE_MUDA_DATA = [
     "Responsável": "VITOR AMORIM RAMOS ",
     "Qualidade da Muda": "BOM",
     "Observações": null,
-    "Fazenda": null,
-    "Observações ": null,
-    "Unnamed: 19": null
+    "Fazenda": null
   },
   {
     "ID": "3596172",
@@ -18952,9 +17306,7 @@ window.QUALIDADE_MUDA_DATA = [
     "Responsável": "NILDA CLAUDINO [2510716]",
     "Qualidade da Muda": "BOM",
     "Observações": null,
-    "Fazenda": null,
-    "Observações ": null,
-    "Unnamed: 19": null
+    "Fazenda": null
   },
   {
     "ID": "3595701",
@@ -18975,9 +17327,7 @@ window.QUALIDADE_MUDA_DATA = [
     "Responsável": " Antonio ",
     "Qualidade da Muda": "BOM",
     "Observações": null,
-    "Fazenda": null,
-    "Observações ": null,
-    "Unnamed: 19": null
+    "Fazenda": null
   },
   {
     "ID": "3596424",
@@ -18998,9 +17348,7 @@ window.QUALIDADE_MUDA_DATA = [
     "Responsável": "Leonardo Ribeiro Teixeira da Silva",
     "Qualidade da Muda": "BOM",
     "Observações": null,
-    "Fazenda": null,
-    "Observações ": null,
-    "Unnamed: 19": null
+    "Fazenda": null
   },
   {
     "ID": "3596249",
@@ -19021,9 +17369,7 @@ window.QUALIDADE_MUDA_DATA = [
     "Responsável": "NILDA CLAUDINO [2510716]",
     "Qualidade da Muda": "BOM",
     "Observações": null,
-    "Fazenda": null,
-    "Observações ": null,
-    "Unnamed: 19": null
+    "Fazenda": null
   },
   {
     "ID": "3596419",
@@ -19044,9 +17390,7 @@ window.QUALIDADE_MUDA_DATA = [
     "Responsável": "Leonardo Ribeiro Teixeira da Silva",
     "Qualidade da Muda": "BOM",
     "Observações": null,
-    "Fazenda": null,
-    "Observações ": null,
-    "Unnamed: 19": null
+    "Fazenda": null
   },
   {
     "ID": "3596114",
@@ -19067,9 +17411,7 @@ window.QUALIDADE_MUDA_DATA = [
     "Responsável": "NILDA CLAUDINO [2510716]",
     "Qualidade da Muda": "BOM",
     "Observações": null,
-    "Fazenda": null,
-    "Observações ": null,
-    "Unnamed: 19": null
+    "Fazenda": null
   },
   {
     "ID": "3596107",
@@ -19090,9 +17432,7 @@ window.QUALIDADE_MUDA_DATA = [
     "Responsável": "NILDA CLAUDINO [2510716]",
     "Qualidade da Muda": "BOM",
     "Observações": null,
-    "Fazenda": null,
-    "Observações ": null,
-    "Unnamed: 19": null
+    "Fazenda": null
   },
   {
     "ID": "3596416",
@@ -19113,9 +17453,7 @@ window.QUALIDADE_MUDA_DATA = [
     "Responsável": "Leonardo Ribeiro Teixeira da Silva",
     "Qualidade da Muda": "BOM",
     "Observações": null,
-    "Fazenda": null,
-    "Observações ": null,
-    "Unnamed: 19": null
+    "Fazenda": null
   },
   {
     "ID": "3596254",
@@ -19136,9 +17474,7 @@ window.QUALIDADE_MUDA_DATA = [
     "Responsável": "Leonardo Ribeiro Teixeira da Silva",
     "Qualidade da Muda": "BOM",
     "Observações": null,
-    "Fazenda": null,
-    "Observações ": null,
-    "Unnamed: 19": null
+    "Fazenda": null
   },
   {
     "ID": "3595694",
@@ -19159,9 +17495,7 @@ window.QUALIDADE_MUDA_DATA = [
     "Responsável": " Antonio ",
     "Qualidade da Muda": "BOM",
     "Observações": null,
-    "Fazenda": null,
-    "Observações ": null,
-    "Unnamed: 19": null
+    "Fazenda": null
   },
   {
     "ID": "3595636",
@@ -19182,9 +17516,7 @@ window.QUALIDADE_MUDA_DATA = [
     "Responsável": "VITOR AMORIM RAMOS ",
     "Qualidade da Muda": "BOM",
     "Observações": null,
-    "Fazenda": null,
-    "Observações ": null,
-    "Unnamed: 19": null
+    "Fazenda": null
   },
   {
     "ID": "3595631",
@@ -19205,9 +17537,7 @@ window.QUALIDADE_MUDA_DATA = [
     "Responsável": "VITOR AMORIM RAMOS ",
     "Qualidade da Muda": "BOM",
     "Observações": null,
-    "Fazenda": null,
-    "Observações ": null,
-    "Unnamed: 19": null
+    "Fazenda": null
   },
   {
     "ID": "3595626",
@@ -19228,9 +17558,7 @@ window.QUALIDADE_MUDA_DATA = [
     "Responsável": "VITOR AMORIM RAMOS ",
     "Qualidade da Muda": "BOM",
     "Observações": null,
-    "Fazenda": null,
-    "Observações ": null,
-    "Unnamed: 19": null
+    "Fazenda": null
   },
   {
     "ID": "3595887",
@@ -19251,9 +17579,7 @@ window.QUALIDADE_MUDA_DATA = [
     "Responsável": "GABRIEL HENRIQUE MARTINS PEREIRA",
     "Qualidade da Muda": "BOM",
     "Observações": null,
-    "Fazenda": null,
-    "Observações ": null,
-    "Unnamed: 19": null
+    "Fazenda": null
   },
   {
     "ID": "3595882",
@@ -19274,9 +17600,7 @@ window.QUALIDADE_MUDA_DATA = [
     "Responsável": "GABRIEL HENRIQUE MARTINS PEREIRA",
     "Qualidade da Muda": "BOM",
     "Observações": null,
-    "Fazenda": null,
-    "Observações ": null,
-    "Unnamed: 19": null
+    "Fazenda": null
   },
   {
     "ID": "3595877",
@@ -19297,9 +17621,7 @@ window.QUALIDADE_MUDA_DATA = [
     "Responsável": "GABRIEL HENRIQUE MARTINS PEREIRA",
     "Qualidade da Muda": "BOM",
     "Observações": null,
-    "Fazenda": null,
-    "Observações ": null,
-    "Unnamed: 19": null
+    "Fazenda": null
   },
   {
     "ID": "3595872",
@@ -19320,9 +17642,7 @@ window.QUALIDADE_MUDA_DATA = [
     "Responsável": "GABRIEL HENRIQUE MARTINS PEREIRA",
     "Qualidade da Muda": "BOM",
     "Observações": null,
-    "Fazenda": null,
-    "Observações ": null,
-    "Unnamed: 19": null
+    "Fazenda": null
   },
   {
     "ID": "3595229",
@@ -19343,9 +17663,7 @@ window.QUALIDADE_MUDA_DATA = [
     "Responsável": "MARCELO DE OLIVEIRA JUNIOR",
     "Qualidade da Muda": "BOM",
     "Observações": null,
-    "Fazenda": null,
-    "Observações ": null,
-    "Unnamed: 19": null
+    "Fazenda": null
   },
   {
     "ID": "3595224",
@@ -19366,9 +17684,7 @@ window.QUALIDADE_MUDA_DATA = [
     "Responsável": "MARCELO DE OLIVEIRA JUNIOR",
     "Qualidade da Muda": "BOM",
     "Observações": null,
-    "Fazenda": null,
-    "Observações ": null,
-    "Unnamed: 19": null
+    "Fazenda": null
   },
   {
     "ID": "3594645",
@@ -19389,9 +17705,7 @@ window.QUALIDADE_MUDA_DATA = [
     "Responsável": "MICHELI DE SOUZA SANTOS  ",
     "Qualidade da Muda": "BOM",
     "Observações": null,
-    "Fazenda": null,
-    "Observações ": null,
-    "Unnamed: 19": null
+    "Fazenda": null
   },
   {
     "ID": "3595220",
@@ -19412,9 +17726,7 @@ window.QUALIDADE_MUDA_DATA = [
     "Responsável": "MARCELO DE OLIVEIRA JUNIOR",
     "Qualidade da Muda": "BOM",
     "Observações": null,
-    "Fazenda": null,
-    "Observações ": null,
-    "Unnamed: 19": null
+    "Fazenda": null
   },
   {
     "ID": "3594636",
@@ -19435,9 +17747,7 @@ window.QUALIDADE_MUDA_DATA = [
     "Responsável": "MICHELI DE SOUZA SANTOS  ",
     "Qualidade da Muda": "BOM",
     "Observações": null,
-    "Fazenda": null,
-    "Observações ": null,
-    "Unnamed: 19": null
+    "Fazenda": null
   },
   {
     "ID": "3594632",
@@ -19458,9 +17768,7 @@ window.QUALIDADE_MUDA_DATA = [
     "Responsável": "MICHELI DE SOUZA SANTOS  ",
     "Qualidade da Muda": "BOM",
     "Observações": null,
-    "Fazenda": null,
-    "Observações ": null,
-    "Unnamed: 19": null
+    "Fazenda": null
   },
   {
     "ID": "3594620",
@@ -19481,9 +17789,7 @@ window.QUALIDADE_MUDA_DATA = [
     "Responsável": "MICHELI DE SOUZA SANTOS  ",
     "Qualidade da Muda": "BOM",
     "Observações": null,
-    "Fazenda": null,
-    "Observações ": null,
-    "Unnamed: 19": null
+    "Fazenda": null
   },
   {
     "ID": "3593829",
@@ -19504,9 +17810,7 @@ window.QUALIDADE_MUDA_DATA = [
     "Responsável": " Antonio ",
     "Qualidade da Muda": "BOM",
     "Observações": null,
-    "Fazenda": null,
-    "Observações ": null,
-    "Unnamed: 19": null
+    "Fazenda": null
   },
   {
     "ID": "3595326",
@@ -19527,9 +17831,7 @@ window.QUALIDADE_MUDA_DATA = [
     "Responsável": "Leonardo Ribeiro Teixeira da Silva",
     "Qualidade da Muda": "BOM",
     "Observações": null,
-    "Fazenda": null,
-    "Observações ": null,
-    "Unnamed: 19": null
+    "Fazenda": null
   },
   {
     "ID": "3594615",
@@ -19550,9 +17852,7 @@ window.QUALIDADE_MUDA_DATA = [
     "Responsável": "MICHELI DE SOUZA SANTOS  ",
     "Qualidade da Muda": "BOM",
     "Observações": null,
-    "Fazenda": null,
-    "Observações ": null,
-    "Unnamed: 19": null
+    "Fazenda": null
   },
   {
     "ID": "3595321",
@@ -19573,9 +17873,7 @@ window.QUALIDADE_MUDA_DATA = [
     "Responsável": "Leonardo Ribeiro Teixeira da Silva",
     "Qualidade da Muda": "BOM",
     "Observações": null,
-    "Fazenda": null,
-    "Observações ": null,
-    "Unnamed: 19": null
+    "Fazenda": null
   },
   {
     "ID": "3594609",
@@ -19596,9 +17894,7 @@ window.QUALIDADE_MUDA_DATA = [
     "Responsável": "MICHELI DE SOUZA SANTOS  ",
     "Qualidade da Muda": "BOM",
     "Observações": null,
-    "Fazenda": null,
-    "Observações ": null,
-    "Unnamed: 19": null
+    "Fazenda": null
   },
   {
     "ID": "3594975",
@@ -19619,9 +17915,7 @@ window.QUALIDADE_MUDA_DATA = [
     "Responsável": "VITOR AMORIM RAMOS ",
     "Qualidade da Muda": "BOM",
     "Observações": null,
-    "Fazenda": null,
-    "Observações ": null,
-    "Unnamed: 19": null
+    "Fazenda": null
   },
   {
     "ID": "3594599",
@@ -19642,9 +17936,7 @@ window.QUALIDADE_MUDA_DATA = [
     "Responsável": "MICHELI DE SOUZA SANTOS  ",
     "Qualidade da Muda": "BOM",
     "Observações": null,
-    "Fazenda": null,
-    "Observações ": null,
-    "Unnamed: 19": null
+    "Fazenda": null
   },
   {
     "ID": "3593815",
@@ -19665,9 +17957,7 @@ window.QUALIDADE_MUDA_DATA = [
     "Responsável": " Antonio ",
     "Qualidade da Muda": "BOM",
     "Observações": null,
-    "Fazenda": null,
-    "Observações ": null,
-    "Unnamed: 19": null
+    "Fazenda": null
   },
   {
     "ID": "3594970",
@@ -19688,9 +17978,7 @@ window.QUALIDADE_MUDA_DATA = [
     "Responsável": "VITOR AMORIM RAMOS ",
     "Qualidade da Muda": "BOM",
     "Observações": null,
-    "Fazenda": null,
-    "Observações ": null,
-    "Unnamed: 19": null
+    "Fazenda": null
   },
   {
     "ID": "3594593",
@@ -19711,9 +17999,7 @@ window.QUALIDADE_MUDA_DATA = [
     "Responsável": "MICHELI DE SOUZA SANTOS  ",
     "Qualidade da Muda": "BOM",
     "Observações": null,
-    "Fazenda": null,
-    "Observações ": null,
-    "Unnamed: 19": null
+    "Fazenda": null
   },
   {
     "ID": "3595314",
@@ -19734,9 +18020,7 @@ window.QUALIDADE_MUDA_DATA = [
     "Responsável": "Leonardo Ribeiro Teixeira da Silva",
     "Qualidade da Muda": "BOM",
     "Observações": null,
-    "Fazenda": null,
-    "Observações ": null,
-    "Unnamed: 19": null
+    "Fazenda": null
   },
   {
     "ID": "3593366",
@@ -19757,9 +18041,7 @@ window.QUALIDADE_MUDA_DATA = [
     "Responsável": "NILDA CLAUDINO [2510716]",
     "Qualidade da Muda": "BOM",
     "Observações": null,
-    "Fazenda": null,
-    "Observações ": null,
-    "Unnamed: 19": null
+    "Fazenda": null
   },
   {
     "ID": "3593362",
@@ -19780,9 +18062,7 @@ window.QUALIDADE_MUDA_DATA = [
     "Responsável": "NILDA CLAUDINO [2510716]",
     "Qualidade da Muda": "BOM",
     "Observações": null,
-    "Fazenda": null,
-    "Observações ": null,
-    "Unnamed: 19": null
+    "Fazenda": null
   },
   {
     "ID": "3595307",
@@ -19803,9 +18083,7 @@ window.QUALIDADE_MUDA_DATA = [
     "Responsável": "Leonardo Ribeiro Teixeira da Silva",
     "Qualidade da Muda": "BOM",
     "Observações": null,
-    "Fazenda": null,
-    "Observações ": null,
-    "Unnamed: 19": null
+    "Fazenda": null
   },
   {
     "ID": "3593358",
@@ -19826,9 +18104,7 @@ window.QUALIDADE_MUDA_DATA = [
     "Responsável": "NILDA CLAUDINO [2510716]",
     "Qualidade da Muda": "BOM",
     "Observações": null,
-    "Fazenda": null,
-    "Observações ": null,
-    "Unnamed: 19": null
+    "Fazenda": null
   },
   {
     "ID": "3594545",
@@ -19849,9 +18125,7 @@ window.QUALIDADE_MUDA_DATA = [
     "Responsável": "MICHELI DE SOUZA SANTOS  ",
     "Qualidade da Muda": "BOM",
     "Observações": null,
-    "Fazenda": null,
-    "Observações ": null,
-    "Unnamed: 19": null
+    "Fazenda": null
   },
   {
     "ID": "3593012",
@@ -19872,9 +18146,7 @@ window.QUALIDADE_MUDA_DATA = [
     "Responsável": "VITOR AMORIM RAMOS ",
     "Qualidade da Muda": "BOM",
     "Observações": null,
-    "Fazenda": null,
-    "Observações ": null,
-    "Unnamed: 19": null
+    "Fazenda": null
   },
   {
     "ID": "3594540",
@@ -19895,9 +18167,7 @@ window.QUALIDADE_MUDA_DATA = [
     "Responsável": "MICHELI DE SOUZA SANTOS  ",
     "Qualidade da Muda": "BOM",
     "Observações": null,
-    "Fazenda": null,
-    "Observações ": null,
-    "Unnamed: 19": null
+    "Fazenda": null
   },
   {
     "ID": "3593002",
@@ -19918,9 +18188,7 @@ window.QUALIDADE_MUDA_DATA = [
     "Responsável": "VITOR AMORIM RAMOS ",
     "Qualidade da Muda": "BOM",
     "Observações": null,
-    "Fazenda": null,
-    "Observações ": null,
-    "Unnamed: 19": null
+    "Fazenda": null
   },
   {
     "ID": "3594535",
@@ -19941,9 +18209,7 @@ window.QUALIDADE_MUDA_DATA = [
     "Responsável": "MICHELI DE SOUZA SANTOS  ",
     "Qualidade da Muda": "BOM",
     "Observações": null,
-    "Fazenda": null,
-    "Observações ": null,
-    "Unnamed: 19": null
+    "Fazenda": null
   },
   {
     "ID": "3595208",
@@ -19964,9 +18230,7 @@ window.QUALIDADE_MUDA_DATA = [
     "Responsável": "MARCELO DE OLIVEIRA JUNIOR",
     "Qualidade da Muda": "BOM",
     "Observações": null,
-    "Fazenda": null,
-    "Observações ": null,
-    "Unnamed: 19": null
+    "Fazenda": null
   },
   {
     "ID": "3595301",
@@ -19987,9 +18251,7 @@ window.QUALIDADE_MUDA_DATA = [
     "Responsável": "Leonardo Ribeiro Teixeira da Silva",
     "Qualidade da Muda": "BOM",
     "Observações": null,
-    "Fazenda": null,
-    "Observações ": null,
-    "Unnamed: 19": null
+    "Fazenda": null
   },
   {
     "ID": "3595205",
@@ -20010,9 +18272,7 @@ window.QUALIDADE_MUDA_DATA = [
     "Responsável": "MARCELO DE OLIVEIRA JUNIOR",
     "Qualidade da Muda": "BOM",
     "Observações": null,
-    "Fazenda": null,
-    "Observações ": null,
-    "Unnamed: 19": null
+    "Fazenda": null
   },
   {
     "ID": "3594496",
@@ -20033,9 +18293,7 @@ window.QUALIDADE_MUDA_DATA = [
     "Responsável": "MICHELI DE SOUZA SANTOS  ",
     "Qualidade da Muda": "BOM",
     "Observações": null,
-    "Fazenda": null,
-    "Observações ": null,
-    "Unnamed: 19": null
+    "Fazenda": null
   },
   {
     "ID": "3595198",
@@ -20056,9 +18314,7 @@ window.QUALIDADE_MUDA_DATA = [
     "Responsável": "MARCELO DE OLIVEIRA JUNIOR",
     "Qualidade da Muda": "BOM",
     "Observações": null,
-    "Fazenda": null,
-    "Observações ": null,
-    "Unnamed: 19": null
+    "Fazenda": null
   },
   {
     "ID": "3594491",
@@ -20079,9 +18335,7 @@ window.QUALIDADE_MUDA_DATA = [
     "Responsável": "MICHELI DE SOUZA SANTOS  ",
     "Qualidade da Muda": "BOM",
     "Observações": null,
-    "Fazenda": null,
-    "Observações ": null,
-    "Unnamed: 19": null
+    "Fazenda": null
   },
   {
     "ID": "3595194",
@@ -20102,9 +18356,7 @@ window.QUALIDADE_MUDA_DATA = [
     "Responsável": "MARCELO DE OLIVEIRA JUNIOR",
     "Qualidade da Muda": "BOM",
     "Observações": null,
-    "Fazenda": null,
-    "Observações ": null,
-    "Unnamed: 19": null
+    "Fazenda": null
   },
   {
     "ID": "3593345",
@@ -20125,9 +18377,7 @@ window.QUALIDADE_MUDA_DATA = [
     "Responsável": "NILDA CLAUDINO [2510716]",
     "Qualidade da Muda": "BOM",
     "Observações": null,
-    "Fazenda": null,
-    "Observações ": null,
-    "Unnamed: 19": null
+    "Fazenda": null
   },
   {
     "ID": "3593341",
@@ -20148,9 +18398,7 @@ window.QUALIDADE_MUDA_DATA = [
     "Responsável": "NILDA CLAUDINO [2510716]",
     "Qualidade da Muda": "BOM",
     "Observações": null,
-    "Fazenda": null,
-    "Observações ": null,
-    "Unnamed: 19": null
+    "Fazenda": null
   },
   {
     "ID": "3595296",
@@ -20171,9 +18419,7 @@ window.QUALIDADE_MUDA_DATA = [
     "Responsável": "Ruan Alexandre Lopes",
     "Qualidade da Muda": "BOM",
     "Observações": null,
-    "Fazenda": null,
-    "Observações ": null,
-    "Unnamed: 19": null
+    "Fazenda": null
   },
   {
     "ID": "3594483",
@@ -20194,9 +18440,7 @@ window.QUALIDADE_MUDA_DATA = [
     "Responsável": "MABILA HELEN D FIGUEIREDO",
     "Qualidade da Muda": "BOM",
     "Observações": null,
-    "Fazenda": null,
-    "Observações ": null,
-    "Unnamed: 19": null
+    "Fazenda": null
   },
   {
     "ID": "3595291",
@@ -20217,9 +18461,7 @@ window.QUALIDADE_MUDA_DATA = [
     "Responsável": "Ruan Alexandre Lopes",
     "Qualidade da Muda": "BOM",
     "Observações": null,
-    "Fazenda": null,
-    "Observações ": null,
-    "Unnamed: 19": null
+    "Fazenda": null
   },
   {
     "ID": "3594041",
@@ -20240,9 +18482,7 @@ window.QUALIDADE_MUDA_DATA = [
     "Responsável": "Leonardo Ribeiro Teixeira da Silva",
     "Qualidade da Muda": "BOM",
     "Observações": null,
-    "Fazenda": null,
-    "Observações ": null,
-    "Unnamed: 19": null
+    "Fazenda": null
   },
   {
     "ID": "3594477",
@@ -20263,9 +18503,7 @@ window.QUALIDADE_MUDA_DATA = [
     "Responsável": "MABILA HELEN D FIGUEIREDO",
     "Qualidade da Muda": "BOM",
     "Observações": null,
-    "Fazenda": null,
-    "Observações ": null,
-    "Unnamed: 19": null
+    "Fazenda": null
   },
   {
     "ID": "3592978",
@@ -20286,9 +18524,7 @@ window.QUALIDADE_MUDA_DATA = [
     "Responsável": "VITOR AMORIM RAMOS ",
     "Qualidade da Muda": "BOM",
     "Observações": null,
-    "Fazenda": null,
-    "Observações ": null,
-    "Unnamed: 19": null
+    "Fazenda": null
   },
   {
     "ID": "3593331",
@@ -20309,9 +18545,7 @@ window.QUALIDADE_MUDA_DATA = [
     "Responsável": "NILDA CLAUDINO [2510716]",
     "Qualidade da Muda": "BOM",
     "Observações": null,
-    "Fazenda": null,
-    "Observações ": null,
-    "Unnamed: 19": null
+    "Fazenda": null
   },
   {
     "ID": "3594473",
@@ -20332,9 +18566,7 @@ window.QUALIDADE_MUDA_DATA = [
     "Responsável": "MABILA HELEN D FIGUEIREDO",
     "Qualidade da Muda": "BOM",
     "Observações": null,
-    "Fazenda": null,
-    "Observações ": null,
-    "Unnamed: 19": null
+    "Fazenda": null
   },
   {
     "ID": "3592973",
@@ -20355,9 +18587,7 @@ window.QUALIDADE_MUDA_DATA = [
     "Responsável": "VITOR AMORIM RAMOS ",
     "Qualidade da Muda": "BOM",
     "Observações": null,
-    "Fazenda": null,
-    "Observações ": null,
-    "Unnamed: 19": null
+    "Fazenda": null
   },
   {
     "ID": "3593327",
@@ -20378,9 +18608,7 @@ window.QUALIDADE_MUDA_DATA = [
     "Responsável": "NILDA CLAUDINO [2510716]",
     "Qualidade da Muda": "BOM",
     "Observações": null,
-    "Fazenda": null,
-    "Observações ": null,
-    "Unnamed: 19": null
+    "Fazenda": null
   },
   {
     "ID": "3595186",
@@ -20401,9 +18629,7 @@ window.QUALIDADE_MUDA_DATA = [
     "Responsável": "MARCELO DE OLIVEIRA JUNIOR",
     "Qualidade da Muda": "BOM",
     "Observações": null,
-    "Fazenda": null,
-    "Observações ": null,
-    "Unnamed: 19": null
+    "Fazenda": null
   },
   {
     "ID": "3593323",
@@ -20424,9 +18650,7 @@ window.QUALIDADE_MUDA_DATA = [
     "Responsável": "NILDA CLAUDINO [2510716]",
     "Qualidade da Muda": "BOM",
     "Observações": null,
-    "Fazenda": null,
-    "Observações ": null,
-    "Unnamed: 19": null
+    "Fazenda": null
   },
   {
     "ID": "3595180",
@@ -20447,9 +18671,7 @@ window.QUALIDADE_MUDA_DATA = [
     "Responsável": "MARCELO DE OLIVEIRA JUNIOR",
     "Qualidade da Muda": "BOM",
     "Observações": null,
-    "Fazenda": null,
-    "Observações ": null,
-    "Unnamed: 19": null
+    "Fazenda": null
   },
   {
     "ID": "3592967",
@@ -20470,9 +18692,7 @@ window.QUALIDADE_MUDA_DATA = [
     "Responsável": "VITOR AMORIM RAMOS ",
     "Qualidade da Muda": "BOM",
     "Observações": null,
-    "Fazenda": null,
-    "Observações ": null,
-    "Unnamed: 19": null
+    "Fazenda": null
   },
   {
     "ID": "3592962",
@@ -20493,9 +18713,7 @@ window.QUALIDADE_MUDA_DATA = [
     "Responsável": "VITOR AMORIM RAMOS ",
     "Qualidade da Muda": "BOM",
     "Observações": null,
-    "Fazenda": null,
-    "Observações ": null,
-    "Unnamed: 19": null
+    "Fazenda": null
   },
   {
     "ID": "3593319",
@@ -20516,9 +18734,7 @@ window.QUALIDADE_MUDA_DATA = [
     "Responsável": "NILDA CLAUDINO [2510716]",
     "Qualidade da Muda": "BOM",
     "Observações": null,
-    "Fazenda": null,
-    "Observações ": null,
-    "Unnamed: 19": null
+    "Fazenda": null
   },
   {
     "ID": "3595174",
@@ -20539,9 +18755,7 @@ window.QUALIDADE_MUDA_DATA = [
     "Responsável": "MARCELO DE OLIVEIRA JUNIOR",
     "Qualidade da Muda": "BOM",
     "Observações": null,
-    "Fazenda": null,
-    "Observações ": null,
-    "Unnamed: 19": null
+    "Fazenda": null
   },
   {
     "ID": "3595169",
@@ -20562,9 +18776,7 @@ window.QUALIDADE_MUDA_DATA = [
     "Responsável": "MARCELO DE OLIVEIRA JUNIOR",
     "Qualidade da Muda": "BOM",
     "Observações": null,
-    "Fazenda": null,
-    "Observações ": null,
-    "Unnamed: 19": null
+    "Fazenda": null
   },
   {
     "ID": "3592955",
@@ -20585,9 +18797,7 @@ window.QUALIDADE_MUDA_DATA = [
     "Responsável": "VITOR AMORIM RAMOS ",
     "Qualidade da Muda": "BOM",
     "Observações": null,
-    "Fazenda": null,
-    "Observações ": null,
-    "Unnamed: 19": null
+    "Fazenda": null
   },
   {
     "ID": "3593315",
@@ -20608,9 +18818,7 @@ window.QUALIDADE_MUDA_DATA = [
     "Responsável": "NILDA CLAUDINO [2510716]",
     "Qualidade da Muda": "BOM",
     "Observações": null,
-    "Fazenda": null,
-    "Observações ": null,
-    "Unnamed: 19": null
+    "Fazenda": null
   },
   {
     "ID": "3592950",
@@ -20631,9 +18839,7 @@ window.QUALIDADE_MUDA_DATA = [
     "Responsável": "VITOR AMORIM RAMOS ",
     "Qualidade da Muda": "BOM",
     "Observações": null,
-    "Fazenda": null,
-    "Observações ": null,
-    "Unnamed: 19": null
+    "Fazenda": null
   },
   {
     "ID": "3593311",
@@ -20654,9 +18860,7 @@ window.QUALIDADE_MUDA_DATA = [
     "Responsável": "NILDA CLAUDINO [2510716]",
     "Qualidade da Muda": "BOM",
     "Observações": null,
-    "Fazenda": null,
-    "Observações ": null,
-    "Unnamed: 19": null
+    "Fazenda": null
   },
   {
     "ID": "3592942",
@@ -20677,9 +18881,7 @@ window.QUALIDADE_MUDA_DATA = [
     "Responsável": "VITOR AMORIM RAMOS ",
     "Qualidade da Muda": "BOM",
     "Observações": null,
-    "Fazenda": null,
-    "Observações ": null,
-    "Unnamed: 19": null
+    "Fazenda": null
   },
   {
     "ID": "3592936",
@@ -20700,9 +18902,7 @@ window.QUALIDADE_MUDA_DATA = [
     "Responsável": "VITOR AMORIM RAMOS ",
     "Qualidade da Muda": "BOM",
     "Observações": null,
-    "Fazenda": null,
-    "Observações ": null,
-    "Unnamed: 19": null
+    "Fazenda": null
   },
   {
     "ID": "3592931",
@@ -20723,9 +18923,7 @@ window.QUALIDADE_MUDA_DATA = [
     "Responsável": "VITOR AMORIM RAMOS ",
     "Qualidade da Muda": "BOM",
     "Observações": null,
-    "Fazenda": null,
-    "Observações ": null,
-    "Unnamed: 19": null
+    "Fazenda": null
   },
   {
     "ID": "3591197",
@@ -20746,9 +18944,7 @@ window.QUALIDADE_MUDA_DATA = [
     "Responsável": "VITOR AMORIM RAMOS ",
     "Qualidade da Muda": "BOM",
     "Observações": null,
-    "Fazenda": null,
-    "Observações ": null,
-    "Unnamed: 19": null
+    "Fazenda": null
   },
   {
     "ID": "3591192",
@@ -20769,9 +18965,7 @@ window.QUALIDADE_MUDA_DATA = [
     "Responsável": "VITOR AMORIM RAMOS ",
     "Qualidade da Muda": "BOM",
     "Observações": null,
-    "Fazenda": null,
-    "Observações ": null,
-    "Unnamed: 19": null
+    "Fazenda": null
   },
   {
     "ID": "3591187",
@@ -20792,9 +18986,7 @@ window.QUALIDADE_MUDA_DATA = [
     "Responsável": "VITOR AMORIM RAMOS ",
     "Qualidade da Muda": "BOM",
     "Observações": null,
-    "Fazenda": null,
-    "Observações ": null,
-    "Unnamed: 19": null
+    "Fazenda": null
   },
   {
     "ID": "3591182",
@@ -20815,9 +19007,7 @@ window.QUALIDADE_MUDA_DATA = [
     "Responsável": "VITOR AMORIM RAMOS ",
     "Qualidade da Muda": "BOM",
     "Observações": null,
-    "Fazenda": null,
-    "Observações ": null,
-    "Unnamed: 19": null
+    "Fazenda": null
   },
   {
     "ID": "3590604",
@@ -20838,9 +19028,7 @@ window.QUALIDADE_MUDA_DATA = [
     "Responsável": " Antonio ",
     "Qualidade da Muda": "BOM",
     "Observações": null,
-    "Fazenda": null,
-    "Observações ": null,
-    "Unnamed: 19": null
+    "Fazenda": null
   },
   {
     "ID": "3591177",
@@ -20861,9 +19049,7 @@ window.QUALIDADE_MUDA_DATA = [
     "Responsável": "VITOR AMORIM RAMOS ",
     "Qualidade da Muda": "BOM",
     "Observações": null,
-    "Fazenda": null,
-    "Observações ": null,
-    "Unnamed: 19": null
+    "Fazenda": null
   },
   {
     "ID": "3590439",
@@ -20884,9 +19070,7 @@ window.QUALIDADE_MUDA_DATA = [
     "Responsável": "REGINALDO DA SILVA GOMES ",
     "Qualidade da Muda": "BOM",
     "Observações": null,
-    "Fazenda": null,
-    "Observações ": null,
-    "Unnamed: 19": null
+    "Fazenda": null
   },
   {
     "ID": "3590434",
@@ -20907,9 +19091,7 @@ window.QUALIDADE_MUDA_DATA = [
     "Responsável": "REGINALDO DA SILVA GOMES ",
     "Qualidade da Muda": "BOM",
     "Observações": null,
-    "Fazenda": null,
-    "Observações ": null,
-    "Unnamed: 19": null
+    "Fazenda": null
   },
   {
     "ID": "3590600",
@@ -20930,9 +19112,7 @@ window.QUALIDADE_MUDA_DATA = [
     "Responsável": " Antonio ",
     "Qualidade da Muda": "BOM",
     "Observações": null,
-    "Fazenda": null,
-    "Observações ": null,
-    "Unnamed: 19": null
+    "Fazenda": null
   },
   {
     "ID": "3590429",
@@ -20953,9 +19133,7 @@ window.QUALIDADE_MUDA_DATA = [
     "Responsável": "REGINALDO DA SILVA GOMES ",
     "Qualidade da Muda": "BOM",
     "Observações": null,
-    "Fazenda": null,
-    "Observações ": null,
-    "Unnamed: 19": null
+    "Fazenda": null
   },
   {
     "ID": "3590594",
@@ -20976,9 +19154,7 @@ window.QUALIDADE_MUDA_DATA = [
     "Responsável": " Antonio ",
     "Qualidade da Muda": "BOM",
     "Observações": null,
-    "Fazenda": null,
-    "Observações ": null,
-    "Unnamed: 19": null
+    "Fazenda": null
   },
   {
     "ID": "3590382",
@@ -20999,9 +19175,7 @@ window.QUALIDADE_MUDA_DATA = [
     "Responsável": "NILDA CLAUDINO [2510716]",
     "Qualidade da Muda": "BOM",
     "Observações": null,
-    "Fazenda": null,
-    "Observações ": null,
-    "Unnamed: 19": null
+    "Fazenda": null
   },
   {
     "ID": "3590589",
@@ -21022,9 +19196,7 @@ window.QUALIDADE_MUDA_DATA = [
     "Responsável": " Antonio ",
     "Qualidade da Muda": "BOM",
     "Observações": null,
-    "Fazenda": null,
-    "Observações ": null,
-    "Unnamed: 19": null
+    "Fazenda": null
   },
   {
     "ID": "3590376",
@@ -21045,9 +19217,7 @@ window.QUALIDADE_MUDA_DATA = [
     "Responsável": "NILDA CLAUDINO [2510716]",
     "Qualidade da Muda": "BOM",
     "Observações": null,
-    "Fazenda": null,
-    "Observações ": null,
-    "Unnamed: 19": null
+    "Fazenda": null
   },
   {
     "ID": "3591096",
@@ -21068,9 +19238,7 @@ window.QUALIDADE_MUDA_DATA = [
     "Responsável": "MABILA HELEN D FIGUEIREDO",
     "Qualidade da Muda": "BOM",
     "Observações": null,
-    "Fazenda": null,
-    "Observações ": null,
-    "Unnamed: 19": null
+    "Fazenda": null
   },
   {
     "ID": "3591091",
@@ -21091,9 +19259,7 @@ window.QUALIDADE_MUDA_DATA = [
     "Responsável": "MABILA HELEN D FIGUEIREDO",
     "Qualidade da Muda": "BOM",
     "Observações": null,
-    "Fazenda": null,
-    "Observações ": null,
-    "Unnamed: 19": null
+    "Fazenda": null
   },
   {
     "ID": "3590372",
@@ -21114,9 +19280,7 @@ window.QUALIDADE_MUDA_DATA = [
     "Responsável": "NILDA CLAUDINO [2510716]",
     "Qualidade da Muda": "BOM",
     "Observações": null,
-    "Fazenda": null,
-    "Observações ": null,
-    "Unnamed: 19": null
+    "Fazenda": null
   },
   {
     "ID": "3590368",
@@ -21137,9 +19301,7 @@ window.QUALIDADE_MUDA_DATA = [
     "Responsável": "NILDA CLAUDINO [2510716]",
     "Qualidade da Muda": "BOM",
     "Observações": null,
-    "Fazenda": null,
-    "Observações ": null,
-    "Unnamed: 19": null
+    "Fazenda": null
   },
   {
     "ID": "3590424",
@@ -21160,9 +19322,7 @@ window.QUALIDADE_MUDA_DATA = [
     "Responsável": "REGINALDO DA SILVA GOMES ",
     "Qualidade da Muda": "BOM",
     "Observações": null,
-    "Fazenda": null,
-    "Observações ": null,
-    "Unnamed: 19": null
+    "Fazenda": null
   },
   {
     "ID": "3590363",
@@ -21183,9 +19343,7 @@ window.QUALIDADE_MUDA_DATA = [
     "Responsável": "NILDA CLAUDINO [2510716]",
     "Qualidade da Muda": "BOM",
     "Observações": null,
-    "Fazenda": null,
-    "Observações ": null,
-    "Unnamed: 19": null
+    "Fazenda": null
   },
   {
     "ID": "3590419",
@@ -21206,9 +19364,7 @@ window.QUALIDADE_MUDA_DATA = [
     "Responsável": "REGINALDO DA SILVA GOMES ",
     "Qualidade da Muda": "BOM",
     "Observações": null,
-    "Fazenda": null,
-    "Observações ": null,
-    "Unnamed: 19": null
+    "Fazenda": null
   },
   {
     "ID": "3591066",
@@ -21229,9 +19385,7 @@ window.QUALIDADE_MUDA_DATA = [
     "Responsável": "MICHELI DE SOUZA SANTOS  ",
     "Qualidade da Muda": "BOM",
     "Observações": null,
-    "Fazenda": null,
-    "Observações ": null,
-    "Unnamed: 19": null
+    "Fazenda": null
   },
   {
     "ID": "3591065",
@@ -21252,9 +19406,7 @@ window.QUALIDADE_MUDA_DATA = [
     "Responsável": "MICHELI DE SOUZA SANTOS  ",
     "Qualidade da Muda": "BOM",
     "Observações": null,
-    "Fazenda": null,
-    "Observações ": null,
-    "Unnamed: 19": null
+    "Fazenda": null
   },
   {
     "ID": "3591064",
@@ -21275,9 +19427,7 @@ window.QUALIDADE_MUDA_DATA = [
     "Responsável": "MICHELI DE SOUZA SANTOS  ",
     "Qualidade da Muda": "BOM",
     "Observações": null,
-    "Fazenda": null,
-    "Observações ": null,
-    "Unnamed: 19": null
+    "Fazenda": null
   },
   {
     "ID": "3591063",
@@ -21298,9 +19448,7 @@ window.QUALIDADE_MUDA_DATA = [
     "Responsável": "MICHELI DE SOUZA SANTOS  ",
     "Qualidade da Muda": "BOM",
     "Observações": null,
-    "Fazenda": null,
-    "Observações ": null,
-    "Unnamed: 19": null
+    "Fazenda": null
   },
   {
     "ID": "3591062",
@@ -21321,9 +19469,7 @@ window.QUALIDADE_MUDA_DATA = [
     "Responsável": "MICHELI DE SOUZA SANTOS  ",
     "Qualidade da Muda": "BOM",
     "Observações": null,
-    "Fazenda": null,
-    "Observações ": null,
-    "Unnamed: 19": null
+    "Fazenda": null
   },
   {
     "ID": "3591207",
@@ -21344,9 +19490,7 @@ window.QUALIDADE_MUDA_DATA = [
     "Responsável": "MICHELI DE SOUZA SANTOS  ",
     "Qualidade da Muda": "BOM",
     "Observações": null,
-    "Fazenda": null,
-    "Observações ": null,
-    "Unnamed: 19": null
+    "Fazenda": null
   },
   {
     "ID": "3590359",
@@ -21367,9 +19511,7 @@ window.QUALIDADE_MUDA_DATA = [
     "Responsável": "NILDA CLAUDINO [2510716]",
     "Qualidade da Muda": "BOM",
     "Observações": null,
-    "Fazenda": null,
-    "Observações ": null,
-    "Unnamed: 19": null
+    "Fazenda": null
   },
   {
     "ID": "3591043",
@@ -21390,9 +19532,7 @@ window.QUALIDADE_MUDA_DATA = [
     "Responsável": "MICHELI DE SOUZA SANTOS  ",
     "Qualidade da Muda": "BOM",
     "Observações": null,
-    "Fazenda": null,
-    "Observações ": null,
-    "Unnamed: 19": null
+    "Fazenda": null
   },
   {
     "ID": "3591042",
@@ -21413,9 +19553,7 @@ window.QUALIDADE_MUDA_DATA = [
     "Responsável": "MICHELI DE SOUZA SANTOS  ",
     "Qualidade da Muda": "BOM",
     "Observações": null,
-    "Fazenda": null,
-    "Observações ": null,
-    "Unnamed: 19": null
+    "Fazenda": null
   },
   {
     "ID": "3590414",
@@ -21436,9 +19574,7 @@ window.QUALIDADE_MUDA_DATA = [
     "Responsável": "REGINALDO DA SILVA GOMES ",
     "Qualidade da Muda": "BOM",
     "Observações": null,
-    "Fazenda": null,
-    "Observações ": null,
-    "Unnamed: 19": null
+    "Fazenda": null
   },
   {
     "ID": "3591153",
@@ -21459,9 +19595,7 @@ window.QUALIDADE_MUDA_DATA = [
     "Responsável": "VITOR AMORIM RAMOS ",
     "Qualidade da Muda": "BOM",
     "Observações": null,
-    "Fazenda": null,
-    "Observações ": null,
-    "Unnamed: 19": null
+    "Fazenda": null
   },
   {
     "ID": "3590354",
@@ -21482,9 +19616,7 @@ window.QUALIDADE_MUDA_DATA = [
     "Responsável": "NILDA CLAUDINO [2510716]",
     "Qualidade da Muda": "BOM",
     "Observações": null,
-    "Fazenda": null,
-    "Observações ": null,
-    "Unnamed: 19": null
+    "Fazenda": null
   },
   {
     "ID": "3591144",
@@ -21505,9 +19637,7 @@ window.QUALIDADE_MUDA_DATA = [
     "Responsável": "VITOR AMORIM RAMOS ",
     "Qualidade da Muda": "BOM",
     "Observações": null,
-    "Fazenda": null,
-    "Observações ": null,
-    "Unnamed: 19": null
+    "Fazenda": null
   },
   {
     "ID": "3590409",
@@ -21528,9 +19658,7 @@ window.QUALIDADE_MUDA_DATA = [
     "Responsável": "REGINALDO DA SILVA GOMES ",
     "Qualidade da Muda": "BOM",
     "Observações": null,
-    "Fazenda": null,
-    "Observações ": null,
-    "Unnamed: 19": null
+    "Fazenda": null
   },
   {
     "ID": "3590350",
@@ -21551,9 +19679,7 @@ window.QUALIDADE_MUDA_DATA = [
     "Responsável": "NILDA CLAUDINO [2510716]",
     "Qualidade da Muda": "BOM",
     "Observações": null,
-    "Fazenda": null,
-    "Observações ": null,
-    "Unnamed: 19": null
+    "Fazenda": null
   },
   {
     "ID": "3591139",
@@ -21574,9 +19700,7 @@ window.QUALIDADE_MUDA_DATA = [
     "Responsável": "VITOR AMORIM RAMOS ",
     "Qualidade da Muda": "BOM",
     "Observações": null,
-    "Fazenda": null,
-    "Observações ": null,
-    "Unnamed: 19": null
+    "Fazenda": null
   },
   {
     "ID": "3590346",
@@ -21597,9 +19721,7 @@ window.QUALIDADE_MUDA_DATA = [
     "Responsável": "NILDA CLAUDINO [2510716]",
     "Qualidade da Muda": "BOM",
     "Observações": null,
-    "Fazenda": null,
-    "Observações ": null,
-    "Unnamed: 19": null
+    "Fazenda": null
   },
   {
     "ID": "3590404",
@@ -21620,9 +19742,7 @@ window.QUALIDADE_MUDA_DATA = [
     "Responsável": "REGINALDO DA SILVA GOMES ",
     "Qualidade da Muda": "BOM",
     "Observações": null,
-    "Fazenda": null,
-    "Observações ": null,
-    "Unnamed: 19": null
+    "Fazenda": null
   },
   {
     "ID": "3591133",
@@ -21643,9 +19763,7 @@ window.QUALIDADE_MUDA_DATA = [
     "Responsável": "VITOR AMORIM RAMOS ",
     "Qualidade da Muda": "BOM",
     "Observações": null,
-    "Fazenda": null,
-    "Observações ": null,
-    "Unnamed: 19": null
+    "Fazenda": null
   },
   {
     "ID": "3591101",
@@ -21666,9 +19784,7 @@ window.QUALIDADE_MUDA_DATA = [
     "Responsável": "Leonardo Ribeiro Teixeira da Silva",
     "Qualidade da Muda": "BOM",
     "Observações": null,
-    "Fazenda": null,
-    "Observações ": null,
-    "Unnamed: 19": null
+    "Fazenda": null
   },
   {
     "ID": "3591100",
@@ -21689,9 +19805,7 @@ window.QUALIDADE_MUDA_DATA = [
     "Responsável": "Leonardo Ribeiro Teixeira da Silva",
     "Qualidade da Muda": "BOM",
     "Observações": null,
-    "Fazenda": null,
-    "Observações ": null,
-    "Unnamed: 19": null
+    "Fazenda": null
   },
   {
     "ID": "3590342",
@@ -21712,9 +19826,7 @@ window.QUALIDADE_MUDA_DATA = [
     "Responsável": "NILDA CLAUDINO [2510716]",
     "Qualidade da Muda": "BOM",
     "Observações": null,
-    "Fazenda": null,
-    "Observações ": null,
-    "Unnamed: 19": null
+    "Fazenda": null
   },
   {
     "ID": "3591127",
@@ -21735,9 +19847,7 @@ window.QUALIDADE_MUDA_DATA = [
     "Responsável": "VITOR AMORIM RAMOS ",
     "Qualidade da Muda": "BOM",
     "Observações": null,
-    "Fazenda": null,
-    "Observações ": null,
-    "Unnamed: 19": null
+    "Fazenda": null
   },
   {
     "ID": "3590399",
@@ -21758,9 +19868,7 @@ window.QUALIDADE_MUDA_DATA = [
     "Responsável": "REGINALDO DA SILVA GOMES ",
     "Qualidade da Muda": "BOM",
     "Observações": null,
-    "Fazenda": null,
-    "Observações ": null,
-    "Unnamed: 19": null
+    "Fazenda": null
   },
   {
     "ID": "3591122",
@@ -21781,9 +19889,7 @@ window.QUALIDADE_MUDA_DATA = [
     "Responsável": "VITOR AMORIM RAMOS ",
     "Qualidade da Muda": "BOM",
     "Observações": null,
-    "Fazenda": null,
-    "Observações ": null,
-    "Unnamed: 19": null
+    "Fazenda": null
   },
   {
     "ID": "3591013",
@@ -21804,9 +19910,7 @@ window.QUALIDADE_MUDA_DATA = [
     "Responsável": "Ruan Alexandre Lopes",
     "Qualidade da Muda": "BOM",
     "Observações": null,
-    "Fazenda": null,
-    "Observações ": null,
-    "Unnamed: 19": null
+    "Fazenda": null
   },
   {
     "ID": "3591008",
@@ -21827,9 +19931,7 @@ window.QUALIDADE_MUDA_DATA = [
     "Responsável": "Ruan Alexandre Lopes",
     "Qualidade da Muda": "BOM",
     "Observações": null,
-    "Fazenda": null,
-    "Observações ": null,
-    "Unnamed: 19": null
+    "Fazenda": null
   },
   {
     "ID": "3591003",
@@ -21850,9 +19952,7 @@ window.QUALIDADE_MUDA_DATA = [
     "Responsável": "Ruan Alexandre Lopes",
     "Qualidade da Muda": "BOM",
     "Observações": null,
-    "Fazenda": null,
-    "Observações ": null,
-    "Unnamed: 19": null
+    "Fazenda": null
   },
   {
     "ID": "3590994",
@@ -21873,9 +19973,7 @@ window.QUALIDADE_MUDA_DATA = [
     "Responsável": "Ruan Alexandre Lopes",
     "Qualidade da Muda": "BOM",
     "Observações": null,
-    "Fazenda": null,
-    "Observações ": null,
-    "Unnamed: 19": null
+    "Fazenda": null
   },
   {
     "ID": "3590988",
@@ -21896,9 +19994,7 @@ window.QUALIDADE_MUDA_DATA = [
     "Responsável": "Ruan Alexandre Lopes",
     "Qualidade da Muda": "BOM",
     "Observações": null,
-    "Fazenda": null,
-    "Observações ": null,
-    "Unnamed: 19": null
+    "Fazenda": null
   },
   {
     "ID": "3590981",
@@ -21919,9 +20015,7 @@ window.QUALIDADE_MUDA_DATA = [
     "Responsável": "Leonardo Ribeiro Teixeira da Silva",
     "Qualidade da Muda": "BOM",
     "Observações": null,
-    "Fazenda": null,
-    "Observações ": null,
-    "Unnamed: 19": null
+    "Fazenda": null
   },
   {
     "ID": "3588336",
@@ -21942,9 +20036,7 @@ window.QUALIDADE_MUDA_DATA = [
     "Responsável": "REGINALDO DA SILVA GOMES ",
     "Qualidade da Muda": "BOM",
     "Observações": null,
-    "Fazenda": null,
-    "Observações ": null,
-    "Unnamed: 19": null
+    "Fazenda": null
   },
   {
     "ID": "3588331",
@@ -21965,9 +20057,7 @@ window.QUALIDADE_MUDA_DATA = [
     "Responsável": "REGINALDO DA SILVA GOMES ",
     "Qualidade da Muda": "BOM",
     "Observações": null,
-    "Fazenda": null,
-    "Observações ": null,
-    "Unnamed: 19": null
+    "Fazenda": null
   },
   {
     "ID": "3588325",
@@ -21988,9 +20078,7 @@ window.QUALIDADE_MUDA_DATA = [
     "Responsável": "REGINALDO DA SILVA GOMES ",
     "Qualidade da Muda": "BOM",
     "Observações": null,
-    "Fazenda": null,
-    "Observações ": null,
-    "Unnamed: 19": null
+    "Fazenda": null
   },
   {
     "ID": "3587858",
@@ -22011,9 +20099,7 @@ window.QUALIDADE_MUDA_DATA = [
     "Responsável": "VITOR AMORIM RAMOS ",
     "Qualidade da Muda": "BOM",
     "Observações": null,
-    "Fazenda": null,
-    "Observações ": null,
-    "Unnamed: 19": null
+    "Fazenda": null
   },
   {
     "ID": "3588579",
@@ -22034,9 +20120,7 @@ window.QUALIDADE_MUDA_DATA = [
     "Responsável": "MARCELO DE OLIVEIRA JUNIOR",
     "Qualidade da Muda": "BOM",
     "Observações": null,
-    "Fazenda": null,
-    "Observações ": null,
-    "Unnamed: 19": null
+    "Fazenda": null
   },
   {
     "ID": "3587852",
@@ -22057,9 +20141,7 @@ window.QUALIDADE_MUDA_DATA = [
     "Responsável": "VITOR AMORIM RAMOS ",
     "Qualidade da Muda": "BOM",
     "Observações": null,
-    "Fazenda": null,
-    "Observações ": null,
-    "Unnamed: 19": null
+    "Fazenda": null
   },
   {
     "ID": "3588700",
@@ -22080,9 +20162,7 @@ window.QUALIDADE_MUDA_DATA = [
     "Responsável": "MARCELO DE OLIVEIRA JUNIOR",
     "Qualidade da Muda": "BOM",
     "Observações": null,
-    "Fazenda": null,
-    "Observações ": null,
-    "Unnamed: 19": null
+    "Fazenda": null
   },
   {
     "ID": "3587847",
@@ -22103,9 +20183,7 @@ window.QUALIDADE_MUDA_DATA = [
     "Responsável": "VITOR AMORIM RAMOS ",
     "Qualidade da Muda": "BOM",
     "Observações": null,
-    "Fazenda": null,
-    "Observações ": null,
-    "Unnamed: 19": null
+    "Fazenda": null
   },
   {
     "ID": "3587842",
@@ -22126,9 +20204,7 @@ window.QUALIDADE_MUDA_DATA = [
     "Responsável": "VITOR AMORIM RAMOS ",
     "Qualidade da Muda": "BOM",
     "Observações": null,
-    "Fazenda": null,
-    "Observações ": null,
-    "Unnamed: 19": null
+    "Fazenda": null
   },
   {
     "ID": "3587838",
@@ -22149,9 +20225,7 @@ window.QUALIDADE_MUDA_DATA = [
     "Responsável": "VITOR AMORIM RAMOS ",
     "Qualidade da Muda": "BOM",
     "Observações": null,
-    "Fazenda": null,
-    "Observações ": null,
-    "Unnamed: 19": null
+    "Fazenda": null
   },
   {
     "ID": "3587833",
@@ -22172,9 +20246,7 @@ window.QUALIDADE_MUDA_DATA = [
     "Responsável": "VITOR AMORIM RAMOS ",
     "Qualidade da Muda": "BOM",
     "Observações": null,
-    "Fazenda": null,
-    "Observações ": null,
-    "Unnamed: 19": null
+    "Fazenda": null
   },
   {
     "ID": "3587828",
@@ -22195,9 +20267,7 @@ window.QUALIDADE_MUDA_DATA = [
     "Responsável": "VITOR AMORIM RAMOS ",
     "Qualidade da Muda": "BOM",
     "Observações": null,
-    "Fazenda": null,
-    "Observações ": null,
-    "Unnamed: 19": null
+    "Fazenda": null
   },
   {
     "ID": "3588506",
@@ -22218,9 +20288,7 @@ window.QUALIDADE_MUDA_DATA = [
     "Responsável": "MARCELO DE OLIVEIRA JUNIOR",
     "Qualidade da Muda": "BOM",
     "Observações": null,
-    "Fazenda": null,
-    "Observações ": null,
-    "Unnamed: 19": null
+    "Fazenda": null
   },
   {
     "ID": "3588501",
@@ -22241,9 +20309,7 @@ window.QUALIDADE_MUDA_DATA = [
     "Responsável": "MARCELO DE OLIVEIRA JUNIOR",
     "Qualidade da Muda": "BOM",
     "Observações": null,
-    "Fazenda": null,
-    "Observações ": null,
-    "Unnamed: 19": null
+    "Fazenda": null
   },
   {
     "ID": "3588497",
@@ -22264,9 +20330,7 @@ window.QUALIDADE_MUDA_DATA = [
     "Responsável": "MARCELO DE OLIVEIRA JUNIOR",
     "Qualidade da Muda": "BOM",
     "Observações": null,
-    "Fazenda": null,
-    "Observações ": null,
-    "Unnamed: 19": null
+    "Fazenda": null
   },
   {
     "ID": "3588320",
@@ -22287,9 +20351,7 @@ window.QUALIDADE_MUDA_DATA = [
     "Responsável": "REGINALDO DA SILVA GOMES ",
     "Qualidade da Muda": "BOM",
     "Observações": null,
-    "Fazenda": null,
-    "Observações ": null,
-    "Unnamed: 19": null
+    "Fazenda": null
   },
   {
     "ID": "3587235",
@@ -22310,9 +20372,7 @@ window.QUALIDADE_MUDA_DATA = [
     "Responsável": "MICHELI DE SOUZA SANTOS  ",
     "Qualidade da Muda": "BOM",
     "Observações": null,
-    "Fazenda": null,
-    "Observações ": null,
-    "Unnamed: 19": null
+    "Fazenda": null
   },
   {
     "ID": "3588311",
@@ -22333,9 +20393,7 @@ window.QUALIDADE_MUDA_DATA = [
     "Responsável": "REGINALDO DA SILVA GOMES ",
     "Qualidade da Muda": "BOM",
     "Observações": null,
-    "Fazenda": null,
-    "Observações ": null,
-    "Unnamed: 19": null
+    "Fazenda": null
   },
   {
     "ID": "3587225",
@@ -22356,9 +20414,7 @@ window.QUALIDADE_MUDA_DATA = [
     "Responsável": "MABILA HELEN D FIGUEIREDO",
     "Qualidade da Muda": "BOM",
     "Observações": null,
-    "Fazenda": null,
-    "Observações ": null,
-    "Unnamed: 19": null
+    "Fazenda": null
   },
   {
     "ID": "3588307",
@@ -22379,9 +20435,7 @@ window.QUALIDADE_MUDA_DATA = [
     "Responsável": "REGINALDO DA SILVA GOMES ",
     "Qualidade da Muda": "BOM",
     "Observações": null,
-    "Fazenda": null,
-    "Observações ": null,
-    "Unnamed: 19": null
+    "Fazenda": null
   },
   {
     "ID": "3587221",
@@ -22402,9 +20456,7 @@ window.QUALIDADE_MUDA_DATA = [
     "Responsável": "MABILA HELEN D FIGUEIREDO",
     "Qualidade da Muda": "BOM",
     "Observações": null,
-    "Fazenda": null,
-    "Observações ": null,
-    "Unnamed: 19": null
+    "Fazenda": null
   },
   {
     "ID": "3587216",
@@ -22425,9 +20477,7 @@ window.QUALIDADE_MUDA_DATA = [
     "Responsável": "MABILA HELEN D FIGUEIREDO",
     "Qualidade da Muda": "BOM",
     "Observações": null,
-    "Fazenda": null,
-    "Observações ": null,
-    "Unnamed: 19": null
+    "Fazenda": null
   },
   {
     "ID": "3587210",
@@ -22448,9 +20498,7 @@ window.QUALIDADE_MUDA_DATA = [
     "Responsável": "MABILA HELEN D FIGUEIREDO",
     "Qualidade da Muda": "BOM",
     "Observações": null,
-    "Fazenda": null,
-    "Observações ": null,
-    "Unnamed: 19": null
+    "Fazenda": null
   },
   {
     "ID": "3587204",
@@ -22471,9 +20519,7 @@ window.QUALIDADE_MUDA_DATA = [
     "Responsável": "MABILA HELEN D FIGUEIREDO",
     "Qualidade da Muda": "BOM",
     "Observações": null,
-    "Fazenda": null,
-    "Observações ": null,
-    "Unnamed: 19": null
+    "Fazenda": null
   },
   {
     "ID": "3588301",
@@ -22494,9 +20540,7 @@ window.QUALIDADE_MUDA_DATA = [
     "Responsável": "REGINALDO DA SILVA GOMES ",
     "Qualidade da Muda": "BOM",
     "Observações": null,
-    "Fazenda": null,
-    "Observações ": null,
-    "Unnamed: 19": null
+    "Fazenda": null
   },
   {
     "ID": "3588297",
@@ -22517,9 +20561,7 @@ window.QUALIDADE_MUDA_DATA = [
     "Responsável": "REGINALDO DA SILVA GOMES ",
     "Qualidade da Muda": "BOM",
     "Observações": null,
-    "Fazenda": null,
-    "Observações ": null,
-    "Unnamed: 19": null
+    "Fazenda": null
   },
   {
     "ID": "3588284",
@@ -22540,9 +20582,7 @@ window.QUALIDADE_MUDA_DATA = [
     "Responsável": "REGINALDO DA SILVA GOMES ",
     "Qualidade da Muda": "BOM",
     "Observações": null,
-    "Fazenda": null,
-    "Observações ": null,
-    "Unnamed: 19": null
+    "Fazenda": null
   },
   {
     "ID": "3588482",
@@ -22563,9 +20603,7 @@ window.QUALIDADE_MUDA_DATA = [
     "Responsável": "MARCELO DE OLIVEIRA JUNIOR",
     "Qualidade da Muda": "BOM",
     "Observações": null,
-    "Fazenda": null,
-    "Observações ": null,
-    "Unnamed: 19": null
+    "Fazenda": null
   },
   {
     "ID": "3588476",
@@ -22586,9 +20624,7 @@ window.QUALIDADE_MUDA_DATA = [
     "Responsável": "MARCELO DE OLIVEIRA JUNIOR",
     "Qualidade da Muda": "BOM",
     "Observações": null,
-    "Fazenda": null,
-    "Observações ": null,
-    "Unnamed: 19": null
+    "Fazenda": null
   },
   {
     "ID": "3587926",
@@ -22609,9 +20645,7 @@ window.QUALIDADE_MUDA_DATA = [
     "Responsável": "Leonardo Ribeiro Teixeira da Silva",
     "Qualidade da Muda": "BOM",
     "Observações": null,
-    "Fazenda": null,
-    "Observações ": null,
-    "Unnamed: 19": null
+    "Fazenda": null
   },
   {
     "ID": "3588474",
@@ -22632,9 +20666,7 @@ window.QUALIDADE_MUDA_DATA = [
     "Responsável": "MARCELO DE OLIVEIRA JUNIOR",
     "Qualidade da Muda": "BOM",
     "Observações": null,
-    "Fazenda": null,
-    "Observações ": null,
-    "Unnamed: 19": null
+    "Fazenda": null
   },
   {
     "ID": "3587920",
@@ -22655,9 +20687,7 @@ window.QUALIDADE_MUDA_DATA = [
     "Responsável": "Leonardo Ribeiro Teixeira da Silva",
     "Qualidade da Muda": "BOM",
     "Observações": null,
-    "Fazenda": null,
-    "Observações ": null,
-    "Unnamed: 19": null
+    "Fazenda": null
   },
   {
     "ID": "3587047",
@@ -22678,9 +20708,7 @@ window.QUALIDADE_MUDA_DATA = [
     "Responsável": "VITOR AMORIM RAMOS ",
     "Qualidade da Muda": "BOM",
     "Observações": null,
-    "Fazenda": null,
-    "Observações ": null,
-    "Unnamed: 19": null
+    "Fazenda": null
   },
   {
     "ID": "3587202",
@@ -22701,9 +20729,7 @@ window.QUALIDADE_MUDA_DATA = [
     "Responsável": "MICHELI DE SOUZA SANTOS  ",
     "Qualidade da Muda": "BOM",
     "Observações": null,
-    "Fazenda": null,
-    "Observações ": null,
-    "Unnamed: 19": null
+    "Fazenda": null
   },
   {
     "ID": "3587912",
@@ -22724,9 +20750,7 @@ window.QUALIDADE_MUDA_DATA = [
     "Responsável": "Ruan Alexandre Lopes",
     "Qualidade da Muda": "BOM",
     "Observações": null,
-    "Fazenda": null,
-    "Observações ": null,
-    "Unnamed: 19": null
+    "Fazenda": null
   },
   {
     "ID": "3587197",
@@ -22747,9 +20771,7 @@ window.QUALIDADE_MUDA_DATA = [
     "Responsável": "MICHELI DE SOUZA SANTOS  ",
     "Qualidade da Muda": "BOM",
     "Observações": null,
-    "Fazenda": null,
-    "Observações ": null,
-    "Unnamed: 19": null
+    "Fazenda": null
   },
   {
     "ID": "3587043",
@@ -22770,9 +20792,7 @@ window.QUALIDADE_MUDA_DATA = [
     "Responsável": "VITOR AMORIM RAMOS ",
     "Qualidade da Muda": "BOM",
     "Observações": null,
-    "Fazenda": null,
-    "Observações ": null,
-    "Unnamed: 19": null
+    "Fazenda": null
   },
   {
     "ID": "3587907",
@@ -22793,9 +20813,7 @@ window.QUALIDADE_MUDA_DATA = [
     "Responsável": "Ruan Alexandre Lopes",
     "Qualidade da Muda": "BOM",
     "Observações": null,
-    "Fazenda": null,
-    "Observações ": null,
-    "Unnamed: 19": null
+    "Fazenda": null
   },
   {
     "ID": "3587192",
@@ -22816,9 +20834,7 @@ window.QUALIDADE_MUDA_DATA = [
     "Responsável": "MICHELI DE SOUZA SANTOS  ",
     "Qualidade da Muda": "BOM",
     "Observações": null,
-    "Fazenda": null,
-    "Observações ": null,
-    "Unnamed: 19": null
+    "Fazenda": null
   },
   {
     "ID": "3587038",
@@ -22839,9 +20855,7 @@ window.QUALIDADE_MUDA_DATA = [
     "Responsável": "VITOR AMORIM RAMOS ",
     "Qualidade da Muda": "BOM",
     "Observações": null,
-    "Fazenda": null,
-    "Observações ": null,
-    "Unnamed: 19": null
+    "Fazenda": null
   },
   {
     "ID": "3587717",
@@ -22862,9 +20876,7 @@ window.QUALIDADE_MUDA_DATA = [
     "Responsável": "GABRIEL HENRIQUE MARTINS PEREIRA",
     "Qualidade da Muda": "BOM",
     "Observações": null,
-    "Fazenda": null,
-    "Observações ": null,
-    "Unnamed: 19": null
+    "Fazenda": null
   },
   {
     "ID": "3587897",
@@ -22885,9 +20897,7 @@ window.QUALIDADE_MUDA_DATA = [
     "Responsável": "Ruan Alexandre Lopes",
     "Qualidade da Muda": "BOM",
     "Observações": null,
-    "Fazenda": null,
-    "Observações ": null,
-    "Unnamed: 19": null
+    "Fazenda": null
   },
   {
     "ID": "3588462",
@@ -22908,9 +20918,7 @@ window.QUALIDADE_MUDA_DATA = [
     "Responsável": "MARCELO DE OLIVEIRA JUNIOR",
     "Qualidade da Muda": "BOM",
     "Observações": null,
-    "Fazenda": null,
-    "Observações ": null,
-    "Unnamed: 19": null
+    "Fazenda": null
   },
   {
     "ID": "3587033",
@@ -22931,9 +20939,7 @@ window.QUALIDADE_MUDA_DATA = [
     "Responsável": "VITOR AMORIM RAMOS ",
     "Qualidade da Muda": "BOM",
     "Observações": null,
-    "Fazenda": null,
-    "Observações ": null,
-    "Unnamed: 19": null
+    "Fazenda": null
   },
   {
     "ID": "3587186",
@@ -22954,9 +20960,7 @@ window.QUALIDADE_MUDA_DATA = [
     "Responsável": "MICHELI DE SOUZA SANTOS  ",
     "Qualidade da Muda": "BOM",
     "Observações": null,
-    "Fazenda": null,
-    "Observações ": null,
-    "Unnamed: 19": null
+    "Fazenda": null
   },
   {
     "ID": "3588452",
@@ -22977,9 +20981,7 @@ window.QUALIDADE_MUDA_DATA = [
     "Responsável": "MARCELO DE OLIVEIRA JUNIOR",
     "Qualidade da Muda": "BOM",
     "Observações": null,
-    "Fazenda": null,
-    "Observações ": null,
-    "Unnamed: 19": null
+    "Fazenda": null
   },
   {
     "ID": "3587406",
@@ -23000,9 +21002,7 @@ window.QUALIDADE_MUDA_DATA = [
     "Responsável": "GABRIEL HENRIQUE MARTINS PEREIRA",
     "Qualidade da Muda": "BOM",
     "Observações": null,
-    "Fazenda": null,
-    "Observações ": null,
-    "Unnamed: 19": null
+    "Fazenda": null
   },
   {
     "ID": "3587181",
@@ -23023,9 +21023,7 @@ window.QUALIDADE_MUDA_DATA = [
     "Responsável": "MICHELI DE SOUZA SANTOS  ",
     "Qualidade da Muda": "BOM",
     "Observações": null,
-    "Fazenda": null,
-    "Observações ": null,
-    "Unnamed: 19": null
+    "Fazenda": null
   },
   {
     "ID": "3587401",
@@ -23046,9 +21044,7 @@ window.QUALIDADE_MUDA_DATA = [
     "Responsável": "GABRIEL HENRIQUE MARTINS PEREIRA",
     "Qualidade da Muda": "BOM",
     "Observações": null,
-    "Fazenda": null,
-    "Observações ": null,
-    "Unnamed: 19": null
+    "Fazenda": null
   },
   {
     "ID": "3587175",
@@ -23069,9 +21065,7 @@ window.QUALIDADE_MUDA_DATA = [
     "Responsável": "MICHELI DE SOUZA SANTOS  ",
     "Qualidade da Muda": "BOM",
     "Observações": null,
-    "Fazenda": null,
-    "Observações ": null,
-    "Unnamed: 19": null
+    "Fazenda": null
   },
   {
     "ID": "3588447",
@@ -23092,9 +21086,7 @@ window.QUALIDADE_MUDA_DATA = [
     "Responsável": "MARCELO DE OLIVEIRA JUNIOR",
     "Qualidade da Muda": "BOM",
     "Observações": null,
-    "Fazenda": null,
-    "Observações ": null,
-    "Unnamed: 19": null
+    "Fazenda": null
   },
   {
     "ID": "3587170",
@@ -23115,9 +21107,7 @@ window.QUALIDADE_MUDA_DATA = [
     "Responsável": "MICHELI DE SOUZA SANTOS  ",
     "Qualidade da Muda": "BOM",
     "Observações": null,
-    "Fazenda": null,
-    "Observações ": null,
-    "Unnamed: 19": null
+    "Fazenda": null
   },
   {
     "ID": "3588442",
@@ -23138,9 +21128,7 @@ window.QUALIDADE_MUDA_DATA = [
     "Responsável": "MARCELO DE OLIVEIRA JUNIOR",
     "Qualidade da Muda": "BOM",
     "Observações": null,
-    "Fazenda": null,
-    "Observações ": null,
-    "Unnamed: 19": null
+    "Fazenda": null
   },
   {
     "ID": "3584476",
@@ -23161,9 +21149,7 @@ window.QUALIDADE_MUDA_DATA = [
     "Responsável": "REGINALDO DA SILVA GOMES ",
     "Qualidade da Muda": "BOM",
     "Observações": null,
-    "Fazenda": null,
-    "Observações ": null,
-    "Unnamed: 19": null
+    "Fazenda": null
   },
   {
     "ID": "3584471",
@@ -23184,9 +21170,7 @@ window.QUALIDADE_MUDA_DATA = [
     "Responsável": "REGINALDO DA SILVA GOMES ",
     "Qualidade da Muda": "BOM",
     "Observações": null,
-    "Fazenda": null,
-    "Observações ": null,
-    "Unnamed: 19": null
+    "Fazenda": null
   },
   {
     "ID": "3584465",
@@ -23207,9 +21191,7 @@ window.QUALIDADE_MUDA_DATA = [
     "Responsável": "REGINALDO DA SILVA GOMES ",
     "Qualidade da Muda": "BOM",
     "Observações": null,
-    "Fazenda": null,
-    "Observações ": null,
-    "Unnamed: 19": null
+    "Fazenda": null
   },
   {
     "ID": "3584459",
@@ -23230,9 +21212,7 @@ window.QUALIDADE_MUDA_DATA = [
     "Responsável": "REGINALDO DA SILVA GOMES ",
     "Qualidade da Muda": "BOM",
     "Observações": null,
-    "Fazenda": null,
-    "Observações ": null,
-    "Unnamed: 19": null
+    "Fazenda": null
   },
   {
     "ID": "3584452",
@@ -23253,9 +21233,7 @@ window.QUALIDADE_MUDA_DATA = [
     "Responsável": "REGINALDO DA SILVA GOMES ",
     "Qualidade da Muda": "BOM",
     "Observações": null,
-    "Fazenda": null,
-    "Observações ": null,
-    "Unnamed: 19": null
+    "Fazenda": null
   },
   {
     "ID": "3585157",
@@ -23276,9 +21254,7 @@ window.QUALIDADE_MUDA_DATA = [
     "Responsável": "GABRIEL HENRIQUE MARTINS PEREIRA",
     "Qualidade da Muda": "BOM",
     "Observações": null,
-    "Fazenda": null,
-    "Observações ": null,
-    "Unnamed: 19": null
+    "Fazenda": null
   },
   {
     "ID": "3585149",
@@ -23299,9 +21275,7 @@ window.QUALIDADE_MUDA_DATA = [
     "Responsável": "GABRIEL HENRIQUE MARTINS PEREIRA",
     "Qualidade da Muda": "BOM",
     "Observações": null,
-    "Fazenda": null,
-    "Observações ": null,
-    "Unnamed: 19": null
+    "Fazenda": null
   },
   {
     "ID": "3584210",
@@ -23322,9 +21296,7 @@ window.QUALIDADE_MUDA_DATA = [
     "Responsável": "Leonardo Ribeiro Teixeira da Silva",
     "Qualidade da Muda": "BOM",
     "Observações": null,
-    "Fazenda": null,
-    "Observações ": null,
-    "Unnamed: 19": null
+    "Fazenda": null
   },
   {
     "ID": "3584209",
@@ -23345,9 +21317,7 @@ window.QUALIDADE_MUDA_DATA = [
     "Responsável": "Leonardo Ribeiro Teixeira da Silva",
     "Qualidade da Muda": "BOM",
     "Observações": null,
-    "Fazenda": null,
-    "Observações ": null,
-    "Unnamed: 19": null
+    "Fazenda": null
   },
   {
     "ID": "3584208",
@@ -23368,9 +21338,7 @@ window.QUALIDADE_MUDA_DATA = [
     "Responsável": "Leonardo Ribeiro Teixeira da Silva",
     "Qualidade da Muda": "BOM",
     "Observações": null,
-    "Fazenda": null,
-    "Observações ": null,
-    "Unnamed: 19": null
+    "Fazenda": null
   },
   {
     "ID": "3584204",
@@ -23391,9 +21359,7 @@ window.QUALIDADE_MUDA_DATA = [
     "Responsável": "Leonardo Ribeiro Teixeira da Silva",
     "Qualidade da Muda": "BOM",
     "Observações": null,
-    "Fazenda": null,
-    "Observações ": null,
-    "Unnamed: 19": null
+    "Fazenda": null
   },
   {
     "ID": "3585175",
@@ -23414,9 +21380,7 @@ window.QUALIDADE_MUDA_DATA = [
     "Responsável": "VITOR AMORIM RAMOS ",
     "Qualidade da Muda": "BOM",
     "Observações": null,
-    "Fazenda": null,
-    "Observações ": null,
-    "Unnamed: 19": null
+    "Fazenda": null
   },
   {
     "ID": "3585137",
@@ -23437,9 +21401,7 @@ window.QUALIDADE_MUDA_DATA = [
     "Responsável": "GABRIEL HENRIQUE MARTINS PEREIRA",
     "Qualidade da Muda": "BOM",
     "Observações": null,
-    "Fazenda": null,
-    "Observações ": null,
-    "Unnamed: 19": null
+    "Fazenda": null
   },
   {
     "ID": "3585170",
@@ -23460,9 +21422,7 @@ window.QUALIDADE_MUDA_DATA = [
     "Responsável": "VITOR AMORIM RAMOS ",
     "Qualidade da Muda": "BOM",
     "Observações": null,
-    "Fazenda": null,
-    "Observações ": null,
-    "Unnamed: 19": null
+    "Fazenda": null
   },
   {
     "ID": "3585158",
@@ -23483,9 +21443,7 @@ window.QUALIDADE_MUDA_DATA = [
     "Responsável": "VITOR AMORIM RAMOS ",
     "Qualidade da Muda": "BOM",
     "Observações": null,
-    "Fazenda": null,
-    "Observações ": null,
-    "Unnamed: 19": null
+    "Fazenda": null
   },
   {
     "ID": "3586271",
@@ -23506,9 +21464,7 @@ window.QUALIDADE_MUDA_DATA = [
     "Responsável": "MICHELI DE SOUZA SANTOS  ",
     "Qualidade da Muda": "BOM",
     "Observações": null,
-    "Fazenda": null,
-    "Observações ": null,
-    "Unnamed: 19": null
+    "Fazenda": null
   },
   {
     "ID": "3586266",
@@ -23529,9 +21485,7 @@ window.QUALIDADE_MUDA_DATA = [
     "Responsável": "MICHELI DE SOUZA SANTOS  ",
     "Qualidade da Muda": "BOM",
     "Observações": null,
-    "Fazenda": null,
-    "Observações ": null,
-    "Unnamed: 19": null
+    "Fazenda": null
   },
   {
     "ID": "3585145",
@@ -23552,9 +21506,7 @@ window.QUALIDADE_MUDA_DATA = [
     "Responsável": "VITOR AMORIM RAMOS ",
     "Qualidade da Muda": "BOM",
     "Observações": null,
-    "Fazenda": null,
-    "Observações ": null,
-    "Unnamed: 19": null
+    "Fazenda": null
   },
   {
     "ID": "3586261",
@@ -23575,9 +21527,7 @@ window.QUALIDADE_MUDA_DATA = [
     "Responsável": "MICHELI DE SOUZA SANTOS  ",
     "Qualidade da Muda": "BOM",
     "Observações": null,
-    "Fazenda": null,
-    "Observações ": null,
-    "Unnamed: 19": null
+    "Fazenda": null
   },
   {
     "ID": "3586256",
@@ -23598,9 +21548,7 @@ window.QUALIDADE_MUDA_DATA = [
     "Responsável": "MICHELI DE SOUZA SANTOS  ",
     "Qualidade da Muda": "BOM",
     "Observações": null,
-    "Fazenda": null,
-    "Observações ": null,
-    "Unnamed: 19": null
+    "Fazenda": null
   },
   {
     "ID": "3586250",
@@ -23621,9 +21569,7 @@ window.QUALIDADE_MUDA_DATA = [
     "Responsável": "MICHELI DE SOUZA SANTOS  ",
     "Qualidade da Muda": "BOM",
     "Observações": null,
-    "Fazenda": null,
-    "Observações ": null,
-    "Unnamed: 19": null
+    "Fazenda": null
   },
   {
     "ID": "3586245",
@@ -23644,9 +21590,7 @@ window.QUALIDADE_MUDA_DATA = [
     "Responsável": "MICHELI DE SOUZA SANTOS  ",
     "Qualidade da Muda": "BOM",
     "Observações": null,
-    "Fazenda": null,
-    "Observações ": null,
-    "Unnamed: 19": null
+    "Fazenda": null
   },
   {
     "ID": "3586240",
@@ -23667,9 +21611,7 @@ window.QUALIDADE_MUDA_DATA = [
     "Responsável": "MICHELI DE SOUZA SANTOS  ",
     "Qualidade da Muda": "BOM",
     "Observações": null,
-    "Fazenda": null,
-    "Observações ": null,
-    "Unnamed: 19": null
+    "Fazenda": null
   },
   {
     "ID": "3586235",
@@ -23690,9 +21632,7 @@ window.QUALIDADE_MUDA_DATA = [
     "Responsável": "MICHELI DE SOUZA SANTOS  ",
     "Qualidade da Muda": "BOM",
     "Observações": null,
-    "Fazenda": null,
-    "Observações ": null,
-    "Unnamed: 19": null
+    "Fazenda": null
   },
   {
     "ID": "3586229",
@@ -23713,9 +21653,7 @@ window.QUALIDADE_MUDA_DATA = [
     "Responsável": "MICHELI DE SOUZA SANTOS  ",
     "Qualidade da Muda": "BOM",
     "Observações": null,
-    "Fazenda": null,
-    "Observações ": null,
-    "Unnamed: 19": null
+    "Fazenda": null
   },
   {
     "ID": "3586224",
@@ -23736,9 +21674,7 @@ window.QUALIDADE_MUDA_DATA = [
     "Responsável": "MICHELI DE SOUZA SANTOS  ",
     "Qualidade da Muda": "BOM",
     "Observações": null,
-    "Fazenda": null,
-    "Observações ": null,
-    "Unnamed: 19": null
+    "Fazenda": null
   },
   {
     "ID": "3584132",
@@ -23759,9 +21695,7 @@ window.QUALIDADE_MUDA_DATA = [
     "Responsável": "VITOR AMORIM RAMOS ",
     "Qualidade da Muda": "BOM",
     "Observações": null,
-    "Fazenda": null,
-    "Observações ": null,
-    "Unnamed: 19": null
+    "Fazenda": null
   },
   {
     "ID": "3586220",
@@ -23782,9 +21716,7 @@ window.QUALIDADE_MUDA_DATA = [
     "Responsável": "MICHELI DE SOUZA SANTOS  ",
     "Qualidade da Muda": "BOM",
     "Observações": null,
-    "Fazenda": null,
-    "Observações ": null,
-    "Unnamed: 19": null
+    "Fazenda": null
   },
   {
     "ID": "3584128",
@@ -23805,9 +21737,7 @@ window.QUALIDADE_MUDA_DATA = [
     "Responsável": "VITOR AMORIM RAMOS ",
     "Qualidade da Muda": "BOM",
     "Observações": null,
-    "Fazenda": null,
-    "Observações ": null,
-    "Unnamed: 19": null
+    "Fazenda": null
   },
   {
     "ID": "3584123",
@@ -23828,9 +21758,7 @@ window.QUALIDADE_MUDA_DATA = [
     "Responsável": "VITOR AMORIM RAMOS ",
     "Qualidade da Muda": "BOM",
     "Observações": null,
-    "Fazenda": null,
-    "Observações ": null,
-    "Unnamed: 19": null
+    "Fazenda": null
   },
   {
     "ID": "3584119",
@@ -23851,9 +21779,7 @@ window.QUALIDADE_MUDA_DATA = [
     "Responsável": "VITOR AMORIM RAMOS ",
     "Qualidade da Muda": "BOM",
     "Observações": null,
-    "Fazenda": null,
-    "Observações ": null,
-    "Unnamed: 19": null
+    "Fazenda": null
   },
   {
     "ID": "3585065",
@@ -23874,9 +21800,7 @@ window.QUALIDADE_MUDA_DATA = [
     "Responsável": "NILDA CLAUDINO [2510716]",
     "Qualidade da Muda": "BOM",
     "Observações": null,
-    "Fazenda": null,
-    "Observações ": null,
-    "Unnamed: 19": null
+    "Fazenda": null
   },
   {
     "ID": "3584114",
@@ -23897,9 +21821,7 @@ window.QUALIDADE_MUDA_DATA = [
     "Responsável": "VITOR AMORIM RAMOS ",
     "Qualidade da Muda": "BOM",
     "Observações": null,
-    "Fazenda": null,
-    "Observações ": null,
-    "Unnamed: 19": null
+    "Fazenda": null
   },
   {
     "ID": "3585058",
@@ -23920,9 +21842,7 @@ window.QUALIDADE_MUDA_DATA = [
     "Responsável": "NILDA CLAUDINO [2510716]",
     "Qualidade da Muda": "BOM",
     "Observações": null,
-    "Fazenda": null,
-    "Observações ": null,
-    "Unnamed: 19": null
+    "Fazenda": null
   },
   {
     "ID": "3584075",
@@ -23943,9 +21863,7 @@ window.QUALIDADE_MUDA_DATA = [
     "Responsável": "Leonardo Ribeiro Teixeira da Silva",
     "Qualidade da Muda": "BOM",
     "Observações": null,
-    "Fazenda": null,
-    "Observações ": null,
-    "Unnamed: 19": null
+    "Fazenda": null
   },
   {
     "ID": "3584074",
@@ -23966,9 +21884,7 @@ window.QUALIDADE_MUDA_DATA = [
     "Responsável": "Leonardo Ribeiro Teixeira da Silva",
     "Qualidade da Muda": "BOM",
     "Observações": null,
-    "Fazenda": null,
-    "Observações ": null,
-    "Unnamed: 19": null
+    "Fazenda": null
   },
   {
     "ID": "3584113",
@@ -23989,9 +21905,7 @@ window.QUALIDADE_MUDA_DATA = [
     "Responsável": "VITOR AMORIM RAMOS ",
     "Qualidade da Muda": "BOM",
     "Observações": null,
-    "Fazenda": null,
-    "Observações ": null,
-    "Unnamed: 19": null
+    "Fazenda": null
   },
   {
     "ID": "3585053",
@@ -24012,9 +21926,7 @@ window.QUALIDADE_MUDA_DATA = [
     "Responsável": "NILDA CLAUDINO [2510716]",
     "Qualidade da Muda": "BOM",
     "Observações": null,
-    "Fazenda": null,
-    "Observações ": null,
-    "Unnamed: 19": null
+    "Fazenda": null
   },
   {
     "ID": "3585049",
@@ -24035,9 +21947,7 @@ window.QUALIDADE_MUDA_DATA = [
     "Responsável": "NILDA CLAUDINO [2510716]",
     "Qualidade da Muda": "BOM",
     "Observações": null,
-    "Fazenda": null,
-    "Observações ": null,
-    "Unnamed: 19": null
+    "Fazenda": null
   },
   {
     "ID": "3584013",
@@ -24058,9 +21968,7 @@ window.QUALIDADE_MUDA_DATA = [
     "Responsável": "VITOR AMORIM RAMOS ",
     "Qualidade da Muda": "BOM",
     "Observações": null,
-    "Fazenda": null,
-    "Observações ": null,
-    "Unnamed: 19": null
+    "Fazenda": null
   },
   {
     "ID": "3585127",
@@ -24081,9 +21989,7 @@ window.QUALIDADE_MUDA_DATA = [
     "Responsável": "GABRIEL HENRIQUE MARTINS PEREIRA",
     "Qualidade da Muda": "BOM",
     "Observações": null,
-    "Fazenda": null,
-    "Observações ": null,
-    "Unnamed: 19": null
+    "Fazenda": null
   },
   {
     "ID": "3584008",
@@ -24104,9 +22010,7 @@ window.QUALIDADE_MUDA_DATA = [
     "Responsável": "VITOR AMORIM RAMOS ",
     "Qualidade da Muda": "BOM",
     "Observações": null,
-    "Fazenda": null,
-    "Observações ": null,
-    "Unnamed: 19": null
+    "Fazenda": null
   },
   {
     "ID": "3585123",
@@ -24127,9 +22031,7 @@ window.QUALIDADE_MUDA_DATA = [
     "Responsável": "GABRIEL HENRIQUE MARTINS PEREIRA",
     "Qualidade da Muda": "BOM",
     "Observações": null,
-    "Fazenda": null,
-    "Observações ": null,
-    "Unnamed: 19": null
+    "Fazenda": null
   },
   {
     "ID": "3584003",
@@ -24150,9 +22052,7 @@ window.QUALIDADE_MUDA_DATA = [
     "Responsável": "VITOR AMORIM RAMOS ",
     "Qualidade da Muda": "BOM",
     "Observações": null,
-    "Fazenda": null,
-    "Observações ": null,
-    "Unnamed: 19": null
+    "Fazenda": null
   },
   {
     "ID": "3584445",
@@ -24173,9 +22073,7 @@ window.QUALIDADE_MUDA_DATA = [
     "Responsável": "REGINALDO DA SILVA GOMES ",
     "Qualidade da Muda": "BOM",
     "Observações": null,
-    "Fazenda": null,
-    "Observações ": null,
-    "Unnamed: 19": null
+    "Fazenda": null
   },
   {
     "ID": "3584106",
@@ -24196,9 +22094,7 @@ window.QUALIDADE_MUDA_DATA = [
     "Responsável": "VITOR AMORIM RAMOS ",
     "Qualidade da Muda": "BOM",
     "Observações": null,
-    "Fazenda": null,
-    "Observações ": null,
-    "Unnamed: 19": null
+    "Fazenda": null
   },
   {
     "ID": "3585115",
@@ -24219,9 +22115,7 @@ window.QUALIDADE_MUDA_DATA = [
     "Responsável": "GABRIEL HENRIQUE MARTINS PEREIRA",
     "Qualidade da Muda": "BOM",
     "Observações": null,
-    "Fazenda": null,
-    "Observações ": null,
-    "Unnamed: 19": null
+    "Fazenda": null
   },
   {
     "ID": "3584438",
@@ -24242,9 +22136,7 @@ window.QUALIDADE_MUDA_DATA = [
     "Responsável": "REGINALDO DA SILVA GOMES ",
     "Qualidade da Muda": "BOM",
     "Observações": null,
-    "Fazenda": null,
-    "Observações ": null,
-    "Unnamed: 19": null
+    "Fazenda": null
   },
   {
     "ID": "3585103",
@@ -24265,9 +22157,7 @@ window.QUALIDADE_MUDA_DATA = [
     "Responsável": "GABRIEL HENRIQUE MARTINS PEREIRA",
     "Qualidade da Muda": "BOM",
     "Observações": null,
-    "Fazenda": null,
-    "Observações ": null,
-    "Unnamed: 19": null
+    "Fazenda": null
   },
   {
     "ID": "3585098",
@@ -24288,9 +22178,7 @@ window.QUALIDADE_MUDA_DATA = [
     "Responsável": "GABRIEL HENRIQUE MARTINS PEREIRA",
     "Qualidade da Muda": "BOM",
     "Observações": null,
-    "Fazenda": null,
-    "Observações ": null,
-    "Unnamed: 19": null
+    "Fazenda": null
   },
   {
     "ID": "3584433",
@@ -24311,9 +22199,7 @@ window.QUALIDADE_MUDA_DATA = [
     "Responsável": "REGINALDO DA SILVA GOMES ",
     "Qualidade da Muda": "BOM",
     "Observações": null,
-    "Fazenda": null,
-    "Observações ": null,
-    "Unnamed: 19": null
+    "Fazenda": null
   },
   {
     "ID": "3585090",
@@ -24334,9 +22220,7 @@ window.QUALIDADE_MUDA_DATA = [
     "Responsável": "GABRIEL HENRIQUE MARTINS PEREIRA",
     "Qualidade da Muda": "BOM",
     "Observações": null,
-    "Fazenda": null,
-    "Observações ": null,
-    "Unnamed: 19": null
+    "Fazenda": null
   },
   {
     "ID": "3584428",
@@ -24357,9 +22241,7 @@ window.QUALIDADE_MUDA_DATA = [
     "Responsável": "REGINALDO DA SILVA GOMES ",
     "Qualidade da Muda": "BOM",
     "Observações": null,
-    "Fazenda": null,
-    "Observações ": null,
-    "Unnamed: 19": null
+    "Fazenda": null
   },
   {
     "ID": "3582021",
@@ -24380,9 +22262,7 @@ window.QUALIDADE_MUDA_DATA = [
     "Responsável": "REGINALDO DA SILVA GOMES ",
     "Qualidade da Muda": "BOM",
     "Observações": null,
-    "Fazenda": null,
-    "Observações ": null,
-    "Unnamed: 19": null
+    "Fazenda": null
   },
   {
     "ID": "3582017",
@@ -24403,9 +22283,7 @@ window.QUALIDADE_MUDA_DATA = [
     "Responsável": "REGINALDO DA SILVA GOMES ",
     "Qualidade da Muda": "BOM",
     "Observações": null,
-    "Fazenda": null,
-    "Observações ": null,
-    "Unnamed: 19": null
+    "Fazenda": null
   },
   {
     "ID": "3582012",
@@ -24426,9 +22304,7 @@ window.QUALIDADE_MUDA_DATA = [
     "Responsável": "REGINALDO DA SILVA GOMES ",
     "Qualidade da Muda": "BOM",
     "Observações": null,
-    "Fazenda": null,
-    "Observações ": null,
-    "Unnamed: 19": null
+    "Fazenda": null
   },
   {
     "ID": "3582007",
@@ -24449,9 +22325,7 @@ window.QUALIDADE_MUDA_DATA = [
     "Responsável": "REGINALDO DA SILVA GOMES ",
     "Qualidade da Muda": "BOM",
     "Observações": null,
-    "Fazenda": null,
-    "Observações ": null,
-    "Unnamed: 19": null
+    "Fazenda": null
   },
   {
     "ID": "3582002",
@@ -24472,9 +22346,7 @@ window.QUALIDADE_MUDA_DATA = [
     "Responsável": "REGINALDO DA SILVA GOMES ",
     "Qualidade da Muda": "BOM",
     "Observações": null,
-    "Fazenda": null,
-    "Observações ": null,
-    "Unnamed: 19": null
+    "Fazenda": null
   },
   {
     "ID": "3581875",
@@ -24495,9 +22367,7 @@ window.QUALIDADE_MUDA_DATA = [
     "Responsável": "REGINALDO DA SILVA GOMES ",
     "Qualidade da Muda": "BOM",
     "Observações": null,
-    "Fazenda": null,
-    "Observações ": null,
-    "Unnamed: 19": null
+    "Fazenda": null
   },
   {
     "ID": "3581949",
@@ -24518,9 +22388,7 @@ window.QUALIDADE_MUDA_DATA = [
     "Responsável": "VITOR AMORIM RAMOS ",
     "Qualidade da Muda": "BOM",
     "Observações": null,
-    "Fazenda": null,
-    "Observações ": null,
-    "Unnamed: 19": null
+    "Fazenda": null
   },
   {
     "ID": "3581944",
@@ -24541,9 +22409,7 @@ window.QUALIDADE_MUDA_DATA = [
     "Responsável": "VITOR AMORIM RAMOS ",
     "Qualidade da Muda": "BOM",
     "Observações": null,
-    "Fazenda": null,
-    "Observações ": null,
-    "Unnamed: 19": null
+    "Fazenda": null
   },
   {
     "ID": "3581975",
@@ -24564,9 +22430,7 @@ window.QUALIDADE_MUDA_DATA = [
     "Responsável": "Leonardo Ribeiro Teixeira da Silva",
     "Qualidade da Muda": "BOM",
     "Observações": null,
-    "Fazenda": null,
-    "Observações ": null,
-    "Unnamed: 19": null
+    "Fazenda": null
   },
   {
     "ID": "3581974",
@@ -24587,9 +22451,7 @@ window.QUALIDADE_MUDA_DATA = [
     "Responsável": "Leonardo Ribeiro Teixeira da Silva",
     "Qualidade da Muda": "BOM",
     "Observações": null,
-    "Fazenda": null,
-    "Observações ": null,
-    "Unnamed: 19": null
+    "Fazenda": null
   },
   {
     "ID": "3581938",
@@ -24610,9 +22472,7 @@ window.QUALIDADE_MUDA_DATA = [
     "Responsável": "VITOR AMORIM RAMOS ",
     "Qualidade da Muda": "BOM",
     "Observações": null,
-    "Fazenda": null,
-    "Observações ": null,
-    "Unnamed: 19": null
+    "Fazenda": null
   },
   {
     "ID": "3581973",
@@ -24633,9 +22493,7 @@ window.QUALIDADE_MUDA_DATA = [
     "Responsável": "Leonardo Ribeiro Teixeira da Silva",
     "Qualidade da Muda": "BOM",
     "Observações": null,
-    "Fazenda": null,
-    "Observações ": null,
-    "Unnamed: 19": null
+    "Fazenda": null
   },
   {
     "ID": "3581972",
@@ -24656,9 +22514,7 @@ window.QUALIDADE_MUDA_DATA = [
     "Responsável": "Leonardo Ribeiro Teixeira da Silva",
     "Qualidade da Muda": "BOM",
     "Observações": null,
-    "Fazenda": null,
-    "Observações ": null,
-    "Unnamed: 19": null
+    "Fazenda": null
   },
   {
     "ID": "3581931",
@@ -24679,9 +22535,7 @@ window.QUALIDADE_MUDA_DATA = [
     "Responsável": "VITOR AMORIM RAMOS ",
     "Qualidade da Muda": "BOM",
     "Observações": null,
-    "Fazenda": null,
-    "Observações ": null,
-    "Unnamed: 19": null
+    "Fazenda": null
   },
   {
     "ID": "3581925",
@@ -24702,9 +22556,7 @@ window.QUALIDADE_MUDA_DATA = [
     "Responsável": "VITOR AMORIM RAMOS ",
     "Qualidade da Muda": "BOM",
     "Observações": null,
-    "Fazenda": null,
-    "Observações ": null,
-    "Unnamed: 19": null
+    "Fazenda": null
   },
   {
     "ID": "3581410",
@@ -24725,9 +22577,7 @@ window.QUALIDADE_MUDA_DATA = [
     "Responsável": "NILDA CLAUDINO [2510716]",
     "Qualidade da Muda": "BOM",
     "Observações": null,
-    "Fazenda": null,
-    "Observações ": null,
-    "Unnamed: 19": null
+    "Fazenda": null
   },
   {
     "ID": "3581803",
@@ -24748,9 +22598,7 @@ window.QUALIDADE_MUDA_DATA = [
     "Responsável": "MARCELO DE OLIVEIRA JUNIOR",
     "Qualidade da Muda": "BOM",
     "Observações": null,
-    "Fazenda": null,
-    "Observações ": null,
-    "Unnamed: 19": null
+    "Fazenda": null
   },
   {
     "ID": "3581797",
@@ -24771,9 +22619,7 @@ window.QUALIDADE_MUDA_DATA = [
     "Responsável": "MARCELO DE OLIVEIRA JUNIOR",
     "Qualidade da Muda": "BOM",
     "Observações": null,
-    "Fazenda": null,
-    "Observações ": null,
-    "Unnamed: 19": null
+    "Fazenda": null
   },
   {
     "ID": "3581406",
@@ -24794,9 +22640,7 @@ window.QUALIDADE_MUDA_DATA = [
     "Responsável": "NILDA CLAUDINO [2510716]",
     "Qualidade da Muda": "BOM",
     "Observações": null,
-    "Fazenda": null,
-    "Observações ": null,
-    "Unnamed: 19": null
+    "Fazenda": null
   },
   {
     "ID": "3581402",
@@ -24817,9 +22661,7 @@ window.QUALIDADE_MUDA_DATA = [
     "Responsável": "NILDA CLAUDINO [2510716]",
     "Qualidade da Muda": "BOM",
     "Observações": null,
-    "Fazenda": null,
-    "Observações ": null,
-    "Unnamed: 19": null
+    "Fazenda": null
   },
   {
     "ID": "3581872",
@@ -24840,9 +22682,7 @@ window.QUALIDADE_MUDA_DATA = [
     "Responsável": "REGINALDO DA SILVA GOMES ",
     "Qualidade da Muda": "BOM",
     "Observações": null,
-    "Fazenda": null,
-    "Observações ": null,
-    "Unnamed: 19": null
+    "Fazenda": null
   },
   {
     "ID": "3581212",
@@ -24863,9 +22703,7 @@ window.QUALIDADE_MUDA_DATA = [
     "Responsável": "VITOR AMORIM RAMOS ",
     "Qualidade da Muda": "BOM",
     "Observações": null,
-    "Fazenda": null,
-    "Observações ": null,
-    "Unnamed: 19": null
+    "Fazenda": null
   },
   {
     "ID": "3581790",
@@ -24886,9 +22724,7 @@ window.QUALIDADE_MUDA_DATA = [
     "Responsável": "MARCELO DE OLIVEIRA JUNIOR",
     "Qualidade da Muda": "BOM",
     "Observações": null,
-    "Fazenda": null,
-    "Observações ": null,
-    "Unnamed: 19": null
+    "Fazenda": null
   },
   {
     "ID": "3581398",
@@ -24909,9 +22745,7 @@ window.QUALIDADE_MUDA_DATA = [
     "Responsável": "NILDA CLAUDINO [2510716]",
     "Qualidade da Muda": "BOM",
     "Observações": null,
-    "Fazenda": null,
-    "Observações ": null,
-    "Unnamed: 19": null
+    "Fazenda": null
   },
   {
     "ID": "3581785",
@@ -24932,9 +22766,7 @@ window.QUALIDADE_MUDA_DATA = [
     "Responsável": "MARCELO DE OLIVEIRA JUNIOR",
     "Qualidade da Muda": "BOM",
     "Observações": null,
-    "Fazenda": null,
-    "Observações ": null,
-    "Unnamed: 19": null
+    "Fazenda": null
   },
   {
     "ID": "3581103",
@@ -24955,9 +22787,7 @@ window.QUALIDADE_MUDA_DATA = [
     "Responsável": "Leonardo Ribeiro Teixeira da Silva",
     "Qualidade da Muda": "BOM",
     "Observações": null,
-    "Fazenda": null,
-    "Observações ": null,
-    "Unnamed: 19": null
+    "Fazenda": null
   },
   {
     "ID": "3581102",
@@ -24978,9 +22808,7 @@ window.QUALIDADE_MUDA_DATA = [
     "Responsável": "Leonardo Ribeiro Teixeira da Silva",
     "Qualidade da Muda": "BOM",
     "Observações": null,
-    "Fazenda": null,
-    "Observações ": null,
-    "Unnamed: 19": null
+    "Fazenda": null
   },
   {
     "ID": "3581867",
@@ -25001,9 +22829,7 @@ window.QUALIDADE_MUDA_DATA = [
     "Responsável": "REGINALDO DA SILVA GOMES ",
     "Qualidade da Muda": "BOM",
     "Observações": null,
-    "Fazenda": null,
-    "Observações ": null,
-    "Unnamed: 19": null
+    "Fazenda": null
   },
   {
     "ID": "3581206",
@@ -25024,9 +22850,7 @@ window.QUALIDADE_MUDA_DATA = [
     "Responsável": "VITOR AMORIM RAMOS ",
     "Qualidade da Muda": "BOM",
     "Observações": null,
-    "Fazenda": null,
-    "Observações ": null,
-    "Unnamed: 19": null
+    "Fazenda": null
   },
   {
     "ID": "3581393",
@@ -25047,9 +22871,7 @@ window.QUALIDADE_MUDA_DATA = [
     "Responsável": "NILDA CLAUDINO [2510716]",
     "Qualidade da Muda": "BOM",
     "Observações": null,
-    "Fazenda": null,
-    "Observações ": null,
-    "Unnamed: 19": null
+    "Fazenda": null
   },
   {
     "ID": "3581833",
@@ -25070,9 +22892,7 @@ window.QUALIDADE_MUDA_DATA = [
     "Responsável": "GABRIEL HENRIQUE MARTINS PEREIRA",
     "Qualidade da Muda": "BOM",
     "Observações": null,
-    "Fazenda": null,
-    "Observações ": null,
-    "Unnamed: 19": null
+    "Fazenda": null
   },
   {
     "ID": "3581201",
@@ -25093,9 +22913,7 @@ window.QUALIDADE_MUDA_DATA = [
     "Responsável": "VITOR AMORIM RAMOS ",
     "Qualidade da Muda": "BOM",
     "Observações": null,
-    "Fazenda": null,
-    "Observações ": null,
-    "Unnamed: 19": null
+    "Fazenda": null
   },
   {
     "ID": "3581779",
@@ -25116,9 +22934,7 @@ window.QUALIDADE_MUDA_DATA = [
     "Responsável": "MARCELO DE OLIVEIRA JUNIOR",
     "Qualidade da Muda": "BOM",
     "Observações": null,
-    "Fazenda": null,
-    "Observações ": null,
-    "Unnamed: 19": null
+    "Fazenda": null
   },
   {
     "ID": "3581860",
@@ -25139,9 +22955,7 @@ window.QUALIDADE_MUDA_DATA = [
     "Responsável": "REGINALDO DA SILVA GOMES ",
     "Qualidade da Muda": "BOM",
     "Observações": null,
-    "Fazenda": null,
-    "Observações ": null,
-    "Unnamed: 19": null
+    "Fazenda": null
   },
   {
     "ID": "3581828",
@@ -25162,9 +22976,7 @@ window.QUALIDADE_MUDA_DATA = [
     "Responsável": "GABRIEL HENRIQUE MARTINS PEREIRA",
     "Qualidade da Muda": "BOM",
     "Observações": null,
-    "Fazenda": null,
-    "Observações ": null,
-    "Unnamed: 19": null
+    "Fazenda": null
   },
   {
     "ID": "3581196",
@@ -25185,9 +22997,7 @@ window.QUALIDADE_MUDA_DATA = [
     "Responsável": "VITOR AMORIM RAMOS ",
     "Qualidade da Muda": "BOM",
     "Observações": null,
-    "Fazenda": null,
-    "Observações ": null,
-    "Unnamed: 19": null
+    "Fazenda": null
   },
   {
     "ID": "3581823",
@@ -25208,9 +23018,7 @@ window.QUALIDADE_MUDA_DATA = [
     "Responsável": "GABRIEL HENRIQUE MARTINS PEREIRA",
     "Qualidade da Muda": "BOM",
     "Observações": null,
-    "Fazenda": null,
-    "Observações ": null,
-    "Unnamed: 19": null
+    "Fazenda": null
   },
   {
     "ID": "3581031",
@@ -25231,9 +23039,7 @@ window.QUALIDADE_MUDA_DATA = [
     "Responsável": "MABILA HELEN D FIGUEIREDO",
     "Qualidade da Muda": "BOM",
     "Observações": null,
-    "Fazenda": null,
-    "Observações ": null,
-    "Unnamed: 19": null
+    "Fazenda": null
   },
   {
     "ID": "3581822",
@@ -25254,9 +23060,7 @@ window.QUALIDADE_MUDA_DATA = [
     "Responsável": "GABRIEL HENRIQUE MARTINS PEREIRA",
     "Qualidade da Muda": "BOM",
     "Observações": null,
-    "Fazenda": null,
-    "Observações ": null,
-    "Unnamed: 19": null
+    "Fazenda": null
   },
   {
     "ID": "3581191",
@@ -25277,9 +23081,7 @@ window.QUALIDADE_MUDA_DATA = [
     "Responsável": "VITOR AMORIM RAMOS ",
     "Qualidade da Muda": "BOM",
     "Observações": null,
-    "Fazenda": null,
-    "Observações ": null,
-    "Unnamed: 19": null
+    "Fazenda": null
   },
   {
     "ID": "3581027",
@@ -25300,9 +23102,7 @@ window.QUALIDADE_MUDA_DATA = [
     "Responsável": "MABILA HELEN D FIGUEIREDO",
     "Qualidade da Muda": "BOM",
     "Observações": null,
-    "Fazenda": null,
-    "Observações ": null,
-    "Unnamed: 19": null
+    "Fazenda": null
   },
   {
     "ID": "3581186",
@@ -25323,9 +23123,7 @@ window.QUALIDADE_MUDA_DATA = [
     "Responsável": "VITOR AMORIM RAMOS ",
     "Qualidade da Muda": "BOM",
     "Observações": null,
-    "Fazenda": null,
-    "Observações ": null,
-    "Unnamed: 19": null
+    "Fazenda": null
   },
   {
     "ID": "3581856",
@@ -25346,9 +23144,7 @@ window.QUALIDADE_MUDA_DATA = [
     "Responsável": "REGINALDO DA SILVA GOMES ",
     "Qualidade da Muda": "BOM",
     "Observações": null,
-    "Fazenda": null,
-    "Observações ": null,
-    "Unnamed: 19": null
+    "Fazenda": null
   },
   {
     "ID": "3581773",
@@ -25369,9 +23165,7 @@ window.QUALIDADE_MUDA_DATA = [
     "Responsável": "MARCELO DE OLIVEIRA JUNIOR",
     "Qualidade da Muda": "BOM",
     "Observações": null,
-    "Fazenda": null,
-    "Observações ": null,
-    "Unnamed: 19": null
+    "Fazenda": null
   },
   {
     "ID": "3581784",
@@ -25392,9 +23186,7 @@ window.QUALIDADE_MUDA_DATA = [
     "Responsável": "GABRIEL HENRIQUE MARTINS PEREIRA",
     "Qualidade da Muda": "BOM",
     "Observações": null,
-    "Fazenda": null,
-    "Observações ": null,
-    "Unnamed: 19": null
+    "Fazenda": null
   },
   {
     "ID": "3581181",
@@ -25415,9 +23207,7 @@ window.QUALIDADE_MUDA_DATA = [
     "Responsável": "VITOR AMORIM RAMOS ",
     "Qualidade da Muda": "BOM",
     "Observações": null,
-    "Fazenda": null,
-    "Observações ": null,
-    "Unnamed: 19": null
+    "Fazenda": null
   },
   {
     "ID": "3581022",
@@ -25438,9 +23228,7 @@ window.QUALIDADE_MUDA_DATA = [
     "Responsável": "MABILA HELEN D FIGUEIREDO",
     "Qualidade da Muda": "BOM",
     "Observações": null,
-    "Fazenda": null,
-    "Observações ": null,
-    "Unnamed: 19": null
+    "Fazenda": null
   },
   {
     "ID": "3581850",
@@ -25461,9 +23249,7 @@ window.QUALIDADE_MUDA_DATA = [
     "Responsável": "REGINALDO DA SILVA GOMES ",
     "Qualidade da Muda": "BOM",
     "Observações": null,
-    "Fazenda": null,
-    "Observações ": null,
-    "Unnamed: 19": null
+    "Fazenda": null
   },
   {
     "ID": "3581176",
@@ -25484,9 +23270,7 @@ window.QUALIDADE_MUDA_DATA = [
     "Responsável": "VITOR AMORIM RAMOS ",
     "Qualidade da Muda": "BOM",
     "Observações": null,
-    "Fazenda": null,
-    "Observações ": null,
-    "Unnamed: 19": null
+    "Fazenda": null
   },
   {
     "ID": "3581653",
@@ -25507,9 +23291,7 @@ window.QUALIDADE_MUDA_DATA = [
     "Responsável": "GABRIEL HENRIQUE MARTINS PEREIRA",
     "Qualidade da Muda": "BOM",
     "Observações": null,
-    "Fazenda": null,
-    "Observações ": null,
-    "Unnamed: 19": null
+    "Fazenda": null
   },
   {
     "ID": "3581016",
@@ -25530,9 +23312,7 @@ window.QUALIDADE_MUDA_DATA = [
     "Responsável": "MABILA HELEN D FIGUEIREDO",
     "Qualidade da Muda": "BOM",
     "Observações": null,
-    "Fazenda": null,
-    "Observações ": null,
-    "Unnamed: 19": null
+    "Fazenda": null
   },
   {
     "ID": "3581845",
@@ -25553,9 +23333,7 @@ window.QUALIDADE_MUDA_DATA = [
     "Responsável": "REGINALDO DA SILVA GOMES ",
     "Qualidade da Muda": "BOM",
     "Observações": null,
-    "Fazenda": null,
-    "Observações ": null,
-    "Unnamed: 19": null
+    "Fazenda": null
   },
   {
     "ID": "3581013",
@@ -25576,9 +23354,7 @@ window.QUALIDADE_MUDA_DATA = [
     "Responsável": "MABILA HELEN D FIGUEIREDO",
     "Qualidade da Muda": "BOM",
     "Observações": null,
-    "Fazenda": null,
-    "Observações ": null,
-    "Unnamed: 19": null
+    "Fazenda": null
   },
   {
     "ID": "3581006",
@@ -25599,9 +23375,7 @@ window.QUALIDADE_MUDA_DATA = [
     "Responsável": "MABILA HELEN D FIGUEIREDO",
     "Qualidade da Muda": "BOM",
     "Observações": null,
-    "Fazenda": null,
-    "Observações ": null,
-    "Unnamed: 19": null
+    "Fazenda": null
   },
   {
     "ID": "3581767",
@@ -25622,9 +23396,7 @@ window.QUALIDADE_MUDA_DATA = [
     "Responsável": "MARCELO DE OLIVEIRA JUNIOR",
     "Qualidade da Muda": "BOM",
     "Observações": null,
-    "Fazenda": null,
-    "Observações ": null,
-    "Unnamed: 19": null
+    "Fazenda": null
   },
   {
     "ID": "3581762",
@@ -25645,9 +23417,7 @@ window.QUALIDADE_MUDA_DATA = [
     "Responsável": "MARCELO DE OLIVEIRA JUNIOR",
     "Qualidade da Muda": "BOM",
     "Observações": null,
-    "Fazenda": null,
-    "Observações ": null,
-    "Unnamed: 19": null
+    "Fazenda": null
   },
   {
     "ID": "3581001",
@@ -25668,9 +23438,7 @@ window.QUALIDADE_MUDA_DATA = [
     "Responsável": "MABILA HELEN D FIGUEIREDO",
     "Qualidade da Muda": "BOM",
     "Observações": null,
-    "Fazenda": null,
-    "Observações ": null,
-    "Unnamed: 19": null
+    "Fazenda": null
   },
   {
     "ID": "3581910",
@@ -25691,9 +23459,7 @@ window.QUALIDADE_MUDA_DATA = [
     "Responsável": "MARCELO DE OLIVEIRA JUNIOR",
     "Qualidade da Muda": "BOM",
     "Observações": null,
-    "Fazenda": null,
-    "Observações ": null,
-    "Unnamed: 19": null
+    "Fazenda": null
   },
   {
     "ID": "3580997",
@@ -25714,9 +23480,7 @@ window.QUALIDADE_MUDA_DATA = [
     "Responsável": "MABILA HELEN D FIGUEIREDO",
     "Qualidade da Muda": "BOM",
     "Observações": null,
-    "Fazenda": null,
-    "Observações ": null,
-    "Unnamed: 19": null
+    "Fazenda": null
   },
   {
     "ID": "3580932",
@@ -25737,9 +23501,7 @@ window.QUALIDADE_MUDA_DATA = [
     "Responsável": "MICHELI DE SOUZA SANTOS  ",
     "Qualidade da Muda": "BOM",
     "Observações": null,
-    "Fazenda": null,
-    "Observações ": null,
-    "Unnamed: 19": null
+    "Fazenda": null
   },
   {
     "ID": "3580928",
@@ -25760,9 +23522,7 @@ window.QUALIDADE_MUDA_DATA = [
     "Responsável": "MICHELI DE SOUZA SANTOS  ",
     "Qualidade da Muda": "BOM",
     "Observações": null,
-    "Fazenda": null,
-    "Observações ": null,
-    "Unnamed: 19": null
+    "Fazenda": null
   },
   {
     "ID": "3580923",
@@ -25783,9 +23543,7 @@ window.QUALIDADE_MUDA_DATA = [
     "Responsável": "MICHELI DE SOUZA SANTOS  ",
     "Qualidade da Muda": "BOM",
     "Observações": null,
-    "Fazenda": null,
-    "Observações ": null,
-    "Unnamed: 19": null
+    "Fazenda": null
   },
   {
     "ID": "3580917",
@@ -25806,9 +23564,7 @@ window.QUALIDADE_MUDA_DATA = [
     "Responsável": "MICHELI DE SOUZA SANTOS  ",
     "Qualidade da Muda": "BOM",
     "Observações": null,
-    "Fazenda": null,
-    "Observações ": null,
-    "Unnamed: 19": null
+    "Fazenda": null
   },
   {
     "ID": "3579055",
@@ -25829,9 +23585,7 @@ window.QUALIDADE_MUDA_DATA = [
     "Responsável": "Leonardo Ribeiro Teixeira da Silva",
     "Qualidade da Muda": "BOM",
     "Observações": null,
-    "Fazenda": null,
-    "Observações ": null,
-    "Unnamed: 19": null
+    "Fazenda": null
   },
   {
     "ID": "3579054",
@@ -25852,9 +23606,7 @@ window.QUALIDADE_MUDA_DATA = [
     "Responsável": "Leonardo Ribeiro Teixeira da Silva",
     "Qualidade da Muda": "BOM",
     "Observações": null,
-    "Fazenda": null,
-    "Observações ": null,
-    "Unnamed: 19": null
+    "Fazenda": null
   },
   {
     "ID": "3579053",
@@ -25875,9 +23627,7 @@ window.QUALIDADE_MUDA_DATA = [
     "Responsável": "Leonardo Ribeiro Teixeira da Silva",
     "Qualidade da Muda": "BOM",
     "Observações": null,
-    "Fazenda": null,
-    "Observações ": null,
-    "Unnamed: 19": null
+    "Fazenda": null
   },
   {
     "ID": "3579473",
@@ -25898,9 +23648,7 @@ window.QUALIDADE_MUDA_DATA = [
     "Responsável": "VITOR AMORIM RAMOS ",
     "Qualidade da Muda": "BOM",
     "Observações": null,
-    "Fazenda": null,
-    "Observações ": null,
-    "Unnamed: 19": null
+    "Fazenda": null
   },
   {
     "ID": "3579465",
@@ -25921,9 +23669,7 @@ window.QUALIDADE_MUDA_DATA = [
     "Responsável": "VITOR AMORIM RAMOS ",
     "Qualidade da Muda": "BOM",
     "Observações": null,
-    "Fazenda": null,
-    "Observações ": null,
-    "Unnamed: 19": null
+    "Fazenda": null
   },
   {
     "ID": "3580905",
@@ -25944,9 +23690,7 @@ window.QUALIDADE_MUDA_DATA = [
     "Responsável": "MICHELI DE SOUZA SANTOS  ",
     "Qualidade da Muda": "BOM",
     "Observações": null,
-    "Fazenda": null,
-    "Observações ": null,
-    "Unnamed: 19": null
+    "Fazenda": null
   },
   {
     "ID": "3580896",
@@ -25967,9 +23711,7 @@ window.QUALIDADE_MUDA_DATA = [
     "Responsável": "MICHELI DE SOUZA SANTOS  ",
     "Qualidade da Muda": "BOM",
     "Observações": null,
-    "Fazenda": null,
-    "Observações ": null,
-    "Unnamed: 19": null
+    "Fazenda": null
   },
   {
     "ID": "3580891",
@@ -25990,9 +23732,7 @@ window.QUALIDADE_MUDA_DATA = [
     "Responsável": "MICHELI DE SOUZA SANTOS  ",
     "Qualidade da Muda": "BOM",
     "Observações": null,
-    "Fazenda": null,
-    "Observações ": null,
-    "Unnamed: 19": null
+    "Fazenda": null
   },
   {
     "ID": "3580885",
@@ -26013,9 +23753,7 @@ window.QUALIDADE_MUDA_DATA = [
     "Responsável": "MICHELI DE SOUZA SANTOS  ",
     "Qualidade da Muda": "BOM",
     "Observações": null,
-    "Fazenda": null,
-    "Observações ": null,
-    "Unnamed: 19": null
+    "Fazenda": null
   },
   {
     "ID": "3580880",
@@ -26036,9 +23774,7 @@ window.QUALIDADE_MUDA_DATA = [
     "Responsável": "MICHELI DE SOUZA SANTOS  ",
     "Qualidade da Muda": "BOM",
     "Observações": null,
-    "Fazenda": null,
-    "Observações ": null,
-    "Unnamed: 19": null
+    "Fazenda": null
   },
   {
     "ID": "3578763",
@@ -26059,9 +23795,7 @@ window.QUALIDADE_MUDA_DATA = [
     "Responsável": "VITOR AMORIM RAMOS ",
     "Qualidade da Muda": "BOM",
     "Observações": null,
-    "Fazenda": null,
-    "Observações ": null,
-    "Unnamed: 19": null
+    "Fazenda": null
   },
   {
     "ID": "3579156",
@@ -26082,9 +23816,7 @@ window.QUALIDADE_MUDA_DATA = [
     "Responsável": "MICHELI DE SOUZA SANTOS  ",
     "Qualidade da Muda": "BOM",
     "Observações": null,
-    "Fazenda": null,
-    "Observações ": null,
-    "Unnamed: 19": null
+    "Fazenda": null
   },
   {
     "ID": "3579041",
@@ -26105,9 +23837,7 @@ window.QUALIDADE_MUDA_DATA = [
     "Responsável": "Leonardo Ribeiro Teixeira da Silva",
     "Qualidade da Muda": "BOM",
     "Observações": null,
-    "Fazenda": null,
-    "Observações ": null,
-    "Unnamed: 19": null
+    "Fazenda": null
   },
   {
     "ID": "3579040",
@@ -26128,9 +23858,7 @@ window.QUALIDADE_MUDA_DATA = [
     "Responsável": "Leonardo Ribeiro Teixeira da Silva",
     "Qualidade da Muda": "BOM",
     "Observações": null,
-    "Fazenda": null,
-    "Observações ": null,
-    "Unnamed: 19": null
+    "Fazenda": null
   },
   {
     "ID": "3578757",
@@ -26151,9 +23879,7 @@ window.QUALIDADE_MUDA_DATA = [
     "Responsável": "VITOR AMORIM RAMOS ",
     "Qualidade da Muda": "BOM",
     "Observações": null,
-    "Fazenda": null,
-    "Observações ": null,
-    "Unnamed: 19": null
+    "Fazenda": null
   },
   {
     "ID": "3578753",
@@ -26174,9 +23900,7 @@ window.QUALIDADE_MUDA_DATA = [
     "Responsável": "VITOR AMORIM RAMOS ",
     "Qualidade da Muda": "BOM",
     "Observações": null,
-    "Fazenda": null,
-    "Observações ": null,
-    "Unnamed: 19": null
+    "Fazenda": null
   },
   {
     "ID": "3579146",
@@ -26197,9 +23921,7 @@ window.QUALIDADE_MUDA_DATA = [
     "Responsável": "MABILA HELEN D FIGUEIREDO",
     "Qualidade da Muda": "BOM",
     "Observações": null,
-    "Fazenda": null,
-    "Observações ": null,
-    "Unnamed: 19": null
+    "Fazenda": null
   },
   {
     "ID": "3578748",
@@ -26220,9 +23942,7 @@ window.QUALIDADE_MUDA_DATA = [
     "Responsável": "VITOR AMORIM RAMOS ",
     "Qualidade da Muda": "BOM",
     "Observações": null,
-    "Fazenda": null,
-    "Observações ": null,
-    "Unnamed: 19": null
+    "Fazenda": null
   },
   {
     "ID": "3578743",
@@ -26243,9 +23963,7 @@ window.QUALIDADE_MUDA_DATA = [
     "Responsável": "VITOR AMORIM RAMOS ",
     "Qualidade da Muda": "BOM",
     "Observações": null,
-    "Fazenda": null,
-    "Observações ": null,
-    "Unnamed: 19": null
+    "Fazenda": null
   },
   {
     "ID": "3579141",
@@ -26266,9 +23984,7 @@ window.QUALIDADE_MUDA_DATA = [
     "Responsável": "MABILA HELEN D FIGUEIREDO",
     "Qualidade da Muda": "BOM",
     "Observações": null,
-    "Fazenda": null,
-    "Observações ": null,
-    "Unnamed: 19": null
+    "Fazenda": null
   },
   {
     "ID": "3579327",
@@ -26289,9 +24005,7 @@ window.QUALIDADE_MUDA_DATA = [
     "Responsável": "MARCELO DE OLIVEIRA JUNIOR",
     "Qualidade da Muda": "BOM",
     "Observações": null,
-    "Fazenda": null,
-    "Observações ": null,
-    "Unnamed: 19": null
+    "Fazenda": null
   },
   {
     "ID": "3579138",
@@ -26312,9 +24026,7 @@ window.QUALIDADE_MUDA_DATA = [
     "Responsável": "MABILA HELEN D FIGUEIREDO",
     "Qualidade da Muda": "BOM",
     "Observações": null,
-    "Fazenda": null,
-    "Observações ": null,
-    "Unnamed: 19": null
+    "Fazenda": null
   },
   {
     "ID": "3578736",
@@ -26335,9 +24047,7 @@ window.QUALIDADE_MUDA_DATA = [
     "Responsável": "VITOR AMORIM RAMOS ",
     "Qualidade da Muda": "BOM",
     "Observações": null,
-    "Fazenda": null,
-    "Observações ": null,
-    "Unnamed: 19": null
+    "Fazenda": null
   },
   {
     "ID": "3579310",
@@ -26358,9 +24068,7 @@ window.QUALIDADE_MUDA_DATA = [
     "Responsável": "MARCELO DE OLIVEIRA JUNIOR",
     "Qualidade da Muda": "BOM",
     "Observações": null,
-    "Fazenda": null,
-    "Observações ": null,
-    "Unnamed: 19": null
+    "Fazenda": null
   },
   {
     "ID": "3578732",
@@ -26381,9 +24089,7 @@ window.QUALIDADE_MUDA_DATA = [
     "Responsável": "VITOR AMORIM RAMOS ",
     "Qualidade da Muda": "BOM",
     "Observações": null,
-    "Fazenda": null,
-    "Observações ": null,
-    "Unnamed: 19": null
+    "Fazenda": null
   },
   {
     "ID": "3579289",
@@ -26404,9 +24110,7 @@ window.QUALIDADE_MUDA_DATA = [
     "Responsável": "MARCELO DE OLIVEIRA JUNIOR",
     "Qualidade da Muda": "BOM",
     "Observações": null,
-    "Fazenda": null,
-    "Observações ": null,
-    "Unnamed: 19": null
+    "Fazenda": null
   },
   {
     "ID": "3579188",
@@ -26427,9 +24131,7 @@ window.QUALIDADE_MUDA_DATA = [
     "Responsável": "GABRIEL HENRIQUE MARTINS PEREIRA",
     "Qualidade da Muda": "BOM",
     "Observações": null,
-    "Fazenda": null,
-    "Observações ": null,
-    "Unnamed: 19": null
+    "Fazenda": null
   },
   {
     "ID": "3578727",
@@ -26450,9 +24152,7 @@ window.QUALIDADE_MUDA_DATA = [
     "Responsável": "VITOR AMORIM RAMOS ",
     "Qualidade da Muda": "BOM",
     "Observações": null,
-    "Fazenda": null,
-    "Observações ": null,
-    "Unnamed: 19": null
+    "Fazenda": null
   },
   {
     "ID": "3579183",
@@ -26473,9 +24173,7 @@ window.QUALIDADE_MUDA_DATA = [
     "Responsável": "GABRIEL HENRIQUE MARTINS PEREIRA",
     "Qualidade da Muda": "BOM",
     "Observações": null,
-    "Fazenda": null,
-    "Observações ": null,
-    "Unnamed: 19": null
+    "Fazenda": null
   },
   {
     "ID": "3578722",
@@ -26496,9 +24194,7 @@ window.QUALIDADE_MUDA_DATA = [
     "Responsável": "VITOR AMORIM RAMOS ",
     "Qualidade da Muda": "BOM",
     "Observações": null,
-    "Fazenda": null,
-    "Observações ": null,
-    "Unnamed: 19": null
+    "Fazenda": null
   },
   {
     "ID": "3579177",
@@ -26519,9 +24215,7 @@ window.QUALIDADE_MUDA_DATA = [
     "Responsável": "GABRIEL HENRIQUE MARTINS PEREIRA",
     "Qualidade da Muda": "BOM",
     "Observações": null,
-    "Fazenda": null,
-    "Observações ": null,
-    "Unnamed: 19": null
+    "Fazenda": null
   },
   {
     "ID": "3578717",
@@ -26542,9 +24236,7 @@ window.QUALIDADE_MUDA_DATA = [
     "Responsável": "VITOR AMORIM RAMOS ",
     "Qualidade da Muda": "BOM",
     "Observações": null,
-    "Fazenda": null,
-    "Observações ": null,
-    "Unnamed: 19": null
+    "Fazenda": null
   },
   {
     "ID": "3579273",
@@ -26565,9 +24257,7 @@ window.QUALIDADE_MUDA_DATA = [
     "Responsável": "MARCELO DE OLIVEIRA JUNIOR",
     "Qualidade da Muda": "BOM",
     "Observações": null,
-    "Fazenda": null,
-    "Observações ": null,
-    "Unnamed: 19": null
+    "Fazenda": null
   },
   {
     "ID": "3579170",
@@ -26588,9 +24278,7 @@ window.QUALIDADE_MUDA_DATA = [
     "Responsável": "GABRIEL HENRIQUE MARTINS PEREIRA",
     "Qualidade da Muda": "BOM",
     "Observações": null,
-    "Fazenda": null,
-    "Observações ": null,
-    "Unnamed: 19": null
+    "Fazenda": null
   },
   {
     "ID": "3579134",
@@ -26611,9 +24299,7 @@ window.QUALIDADE_MUDA_DATA = [
     "Responsável": "MICHELI DE SOUZA SANTOS  ",
     "Qualidade da Muda": "BOM",
     "Observações": null,
-    "Fazenda": null,
-    "Observações ": null,
-    "Unnamed: 19": null
+    "Fazenda": null
   },
   {
     "ID": "3579260",
@@ -26634,9 +24320,7 @@ window.QUALIDADE_MUDA_DATA = [
     "Responsável": "MARCELO DE OLIVEIRA JUNIOR",
     "Qualidade da Muda": "BOM",
     "Observações": null,
-    "Fazenda": null,
-    "Observações ": null,
-    "Unnamed: 19": null
+    "Fazenda": null
   },
   {
     "ID": "3579087",
@@ -26657,9 +24341,7 @@ window.QUALIDADE_MUDA_DATA = [
     "Responsável": "GABRIEL HENRIQUE MARTINS PEREIRA",
     "Qualidade da Muda": "BOM",
     "Observações": null,
-    "Fazenda": null,
-    "Observações ": null,
-    "Unnamed: 19": null
+    "Fazenda": null
   },
   {
     "ID": "3578709",
@@ -26680,9 +24362,7 @@ window.QUALIDADE_MUDA_DATA = [
     "Responsável": "VITOR AMORIM RAMOS ",
     "Qualidade da Muda": "BOM",
     "Observações": null,
-    "Fazenda": null,
-    "Observações ": null,
-    "Unnamed: 19": null
+    "Fazenda": null
   },
   {
     "ID": "3579249",
@@ -26703,9 +24383,7 @@ window.QUALIDADE_MUDA_DATA = [
     "Responsável": "MARCELO DE OLIVEIRA JUNIOR",
     "Qualidade da Muda": "BOM",
     "Observações": null,
-    "Fazenda": null,
-    "Observações ": null,
-    "Unnamed: 19": null
+    "Fazenda": null
   },
   {
     "ID": "3579243",
@@ -26726,9 +24404,7 @@ window.QUALIDADE_MUDA_DATA = [
     "Responsável": "MARCELO DE OLIVEIRA JUNIOR",
     "Qualidade da Muda": "BOM",
     "Observações": null,
-    "Fazenda": null,
-    "Observações ": null,
-    "Unnamed: 19": null
+    "Fazenda": null
   },
   {
     "ID": "3579238",
@@ -26749,9 +24425,7 @@ window.QUALIDADE_MUDA_DATA = [
     "Responsável": "MARCELO DE OLIVEIRA JUNIOR",
     "Qualidade da Muda": "BOM",
     "Observações": null,
-    "Fazenda": null,
-    "Observações ": null,
-    "Unnamed: 19": null
+    "Fazenda": null
   },
   {
     "ID": "3577300",
@@ -26772,9 +24446,7 @@ window.QUALIDADE_MUDA_DATA = [
     "Responsável": "REGINALDO DA SILVA GOMES ",
     "Qualidade da Muda": "BOM",
     "Observações": null,
-    "Fazenda": null,
-    "Observações ": null,
-    "Unnamed: 19": null
+    "Fazenda": null
   },
   {
     "ID": "3577292",
@@ -26795,9 +24467,7 @@ window.QUALIDADE_MUDA_DATA = [
     "Responsável": "REGINALDO DA SILVA GOMES ",
     "Qualidade da Muda": "BOM",
     "Observações": null,
-    "Fazenda": null,
-    "Observações ": null,
-    "Unnamed: 19": null
+    "Fazenda": null
   },
   {
     "ID": "3577274",
@@ -26818,9 +24488,7 @@ window.QUALIDADE_MUDA_DATA = [
     "Responsável": "REGINALDO DA SILVA GOMES ",
     "Qualidade da Muda": "BOM",
     "Observações": null,
-    "Fazenda": null,
-    "Observações ": null,
-    "Unnamed: 19": null
+    "Fazenda": null
   },
   {
     "ID": "3577251",
@@ -26841,9 +24509,7 @@ window.QUALIDADE_MUDA_DATA = [
     "Responsável": "REGINALDO DA SILVA GOMES ",
     "Qualidade da Muda": "BOM",
     "Observações": null,
-    "Fazenda": null,
-    "Observações ": null,
-    "Unnamed: 19": null
+    "Fazenda": null
   },
   {
     "ID": "3576809",
@@ -26864,9 +24530,7 @@ window.QUALIDADE_MUDA_DATA = [
     "Responsável": "MABILA HELEN D FIGUEIREDO",
     "Qualidade da Muda": "BOM",
     "Observações": null,
-    "Fazenda": null,
-    "Observações ": null,
-    "Unnamed: 19": null
+    "Fazenda": null
   },
   {
     "ID": "3576806",
@@ -26887,9 +24551,7 @@ window.QUALIDADE_MUDA_DATA = [
     "Responsável": "MABILA HELEN D FIGUEIREDO",
     "Qualidade da Muda": "BOM",
     "Observações": null,
-    "Fazenda": null,
-    "Observações ": null,
-    "Unnamed: 19": null
+    "Fazenda": null
   },
   {
     "ID": "3576801",
@@ -26910,9 +24572,7 @@ window.QUALIDADE_MUDA_DATA = [
     "Responsável": "MABILA HELEN D FIGUEIREDO",
     "Qualidade da Muda": "BOM",
     "Observações": null,
-    "Fazenda": null,
-    "Observações ": null,
-    "Unnamed: 19": null
+    "Fazenda": null
   },
   {
     "ID": "3577103",
@@ -26933,9 +24593,7 @@ window.QUALIDADE_MUDA_DATA = [
     "Responsável": "Leonardo Ribeiro Teixeira da Silva",
     "Qualidade da Muda": "BOM",
     "Observações": null,
-    "Fazenda": null,
-    "Observações ": null,
-    "Unnamed: 19": null
+    "Fazenda": null
   },
   {
     "ID": "3577101",
@@ -26956,9 +24614,7 @@ window.QUALIDADE_MUDA_DATA = [
     "Responsável": "Leonardo Ribeiro Teixeira da Silva",
     "Qualidade da Muda": "BOM",
     "Observações": null,
-    "Fazenda": null,
-    "Observações ": null,
-    "Unnamed: 19": null
+    "Fazenda": null
   },
   {
     "ID": "3577100",
@@ -26979,9 +24635,7 @@ window.QUALIDADE_MUDA_DATA = [
     "Responsável": "Leonardo Ribeiro Teixeira da Silva",
     "Qualidade da Muda": "BOM",
     "Observações": null,
-    "Fazenda": null,
-    "Observações ": null,
-    "Unnamed: 19": null
+    "Fazenda": null
   },
   {
     "ID": "3576795",
@@ -27002,9 +24656,7 @@ window.QUALIDADE_MUDA_DATA = [
     "Responsável": "MABILA HELEN D FIGUEIREDO",
     "Qualidade da Muda": "BOM",
     "Observações": null,
-    "Fazenda": null,
-    "Observações ": null,
-    "Unnamed: 19": null
+    "Fazenda": null
   },
   {
     "ID": "3576749",
@@ -27025,9 +24677,7 @@ window.QUALIDADE_MUDA_DATA = [
     "Responsável": "NILDA CLAUDINO [2510716]",
     "Qualidade da Muda": "BOM",
     "Observações": null,
-    "Fazenda": null,
-    "Observações ": null,
-    "Unnamed: 19": null
+    "Fazenda": null
   },
   {
     "ID": "3576745",
@@ -27048,9 +24698,7 @@ window.QUALIDADE_MUDA_DATA = [
     "Responsável": "NILDA CLAUDINO [2510716]",
     "Qualidade da Muda": "BOM",
     "Observações": null,
-    "Fazenda": null,
-    "Observações ": null,
-    "Unnamed: 19": null
+    "Fazenda": null
   },
   {
     "ID": "3576790",
@@ -27071,9 +24719,7 @@ window.QUALIDADE_MUDA_DATA = [
     "Responsável": "MABILA HELEN D FIGUEIREDO",
     "Qualidade da Muda": "BOM",
     "Observações": null,
-    "Fazenda": null,
-    "Observações ": null,
-    "Unnamed: 19": null
+    "Fazenda": null
   },
   {
     "ID": "3576781",
@@ -27094,9 +24740,7 @@ window.QUALIDADE_MUDA_DATA = [
     "Responsável": "MABILA HELEN D FIGUEIREDO",
     "Qualidade da Muda": "BOM",
     "Observações": null,
-    "Fazenda": null,
-    "Observações ": null,
-    "Unnamed: 19": null
+    "Fazenda": null
   },
   {
     "ID": "3576779",
@@ -27117,9 +24761,7 @@ window.QUALIDADE_MUDA_DATA = [
     "Responsável": "MABILA HELEN D FIGUEIREDO",
     "Qualidade da Muda": "BOM",
     "Observações": null,
-    "Fazenda": null,
-    "Observações ": null,
-    "Unnamed: 19": null
+    "Fazenda": null
   },
   {
     "ID": "3576733",
@@ -27140,9 +24782,7 @@ window.QUALIDADE_MUDA_DATA = [
     "Responsável": "NILDA CLAUDINO [2510716]",
     "Qualidade da Muda": "BOM",
     "Observações": null,
-    "Fazenda": null,
-    "Observações ": null,
-    "Unnamed: 19": null
+    "Fazenda": null
   },
   {
     "ID": "3576728",
@@ -27163,9 +24803,7 @@ window.QUALIDADE_MUDA_DATA = [
     "Responsável": "NILDA CLAUDINO [2510716]",
     "Qualidade da Muda": "BOM",
     "Observações": null,
-    "Fazenda": null,
-    "Observações ": null,
-    "Unnamed: 19": null
+    "Fazenda": null
   },
   {
     "ID": "3576938",
@@ -27186,9 +24824,7 @@ window.QUALIDADE_MUDA_DATA = [
     "Responsável": "Leonardo Ribeiro Teixeira da Silva",
     "Qualidade da Muda": "BOM",
     "Observações": null,
-    "Fazenda": null,
-    "Observações ": null,
-    "Unnamed: 19": null
+    "Fazenda": null
   },
   {
     "ID": "3576937",
@@ -27209,9 +24845,7 @@ window.QUALIDADE_MUDA_DATA = [
     "Responsável": "Leonardo Ribeiro Teixeira da Silva",
     "Qualidade da Muda": "BOM",
     "Observações": null,
-    "Fazenda": null,
-    "Observações ": null,
-    "Unnamed: 19": null
+    "Fazenda": null
   },
   {
     "ID": "3576683",
@@ -27232,9 +24866,7 @@ window.QUALIDADE_MUDA_DATA = [
     "Responsável": "GABRIEL HENRIQUE MARTINS PEREIRA",
     "Qualidade da Muda": "BOM",
     "Observações": null,
-    "Fazenda": null,
-    "Observações ": null,
-    "Unnamed: 19": null
+    "Fazenda": null
   },
   {
     "ID": "3576677",
@@ -27255,9 +24887,7 @@ window.QUALIDADE_MUDA_DATA = [
     "Responsável": "GABRIEL HENRIQUE MARTINS PEREIRA",
     "Qualidade da Muda": "BOM",
     "Observações": null,
-    "Fazenda": null,
-    "Observações ": null,
-    "Unnamed: 19": null
+    "Fazenda": null
   },
   {
     "ID": "3576722",
@@ -27278,9 +24908,7 @@ window.QUALIDADE_MUDA_DATA = [
     "Responsável": "NILDA CLAUDINO [2510716]",
     "Qualidade da Muda": "BOM",
     "Observações": null,
-    "Fazenda": null,
-    "Observações ": null,
-    "Unnamed: 19": null
+    "Fazenda": null
   },
   {
     "ID": "3576650",
@@ -27301,9 +24929,7 @@ window.QUALIDADE_MUDA_DATA = [
     "Responsável": "GABRIEL HENRIQUE MARTINS PEREIRA",
     "Qualidade da Muda": "BOM",
     "Observações": null,
-    "Fazenda": null,
-    "Observações ": null,
-    "Unnamed: 19": null
+    "Fazenda": null
   },
   {
     "ID": "3576689",
@@ -27324,9 +24950,7 @@ window.QUALIDADE_MUDA_DATA = [
     "Responsável": "GABRIEL HENRIQUE MARTINS PEREIRA",
     "Qualidade da Muda": "BOM",
     "Observações": null,
-    "Fazenda": null,
-    "Observações ": null,
-    "Unnamed: 19": null
+    "Fazenda": null
   },
   {
     "ID": "3576718",
@@ -27347,9 +24971,7 @@ window.QUALIDADE_MUDA_DATA = [
     "Responsável": "NILDA CLAUDINO [2510716]",
     "Qualidade da Muda": "BOM",
     "Observações": null,
-    "Fazenda": null,
-    "Observações ": null,
-    "Unnamed: 19": null
+    "Fazenda": null
   },
   {
     "ID": "3576673",
@@ -27370,9 +24992,7 @@ window.QUALIDADE_MUDA_DATA = [
     "Responsável": "GABRIEL HENRIQUE MARTINS PEREIRA",
     "Qualidade da Muda": "BOM",
     "Observações": null,
-    "Fazenda": null,
-    "Observações ": null,
-    "Unnamed: 19": null
+    "Fazenda": null
   },
   {
     "ID": "3576714",
@@ -27393,9 +25013,7 @@ window.QUALIDADE_MUDA_DATA = [
     "Responsável": "NILDA CLAUDINO [2510716]",
     "Qualidade da Muda": "BOM",
     "Observações": null,
-    "Fazenda": null,
-    "Observações ": null,
-    "Unnamed: 19": null
+    "Fazenda": null
   },
   {
     "ID": "3576666",
@@ -27416,9 +25034,7 @@ window.QUALIDADE_MUDA_DATA = [
     "Responsável": "GABRIEL HENRIQUE MARTINS PEREIRA",
     "Qualidade da Muda": "BOM",
     "Observações": null,
-    "Fazenda": null,
-    "Observações ": null,
-    "Unnamed: 19": null
+    "Fazenda": null
   },
   {
     "ID": "3577370",
@@ -27439,9 +25055,7 @@ window.QUALIDADE_MUDA_DATA = [
     "Responsável": "MARCELO DE OLIVEIRA JUNIOR",
     "Qualidade da Muda": "BOM",
     "Observações": null,
-    "Fazenda": null,
-    "Observações ": null,
-    "Unnamed: 19": null
+    "Fazenda": null
   },
   {
     "ID": "3577363",
@@ -27462,9 +25076,7 @@ window.QUALIDADE_MUDA_DATA = [
     "Responsável": "MARCELO DE OLIVEIRA JUNIOR",
     "Qualidade da Muda": "BOM",
     "Observações": null,
-    "Fazenda": null,
-    "Observações ": null,
-    "Unnamed: 19": null
+    "Fazenda": null
   },
   {
     "ID": "3577358",
@@ -27485,9 +25097,7 @@ window.QUALIDADE_MUDA_DATA = [
     "Responsável": "MARCELO DE OLIVEIRA JUNIOR",
     "Qualidade da Muda": "BOM",
     "Observações": null,
-    "Fazenda": null,
-    "Observações ": null,
-    "Unnamed: 19": null
+    "Fazenda": null
   },
   {
     "ID": "3577353",
@@ -27508,9 +25118,7 @@ window.QUALIDADE_MUDA_DATA = [
     "Responsável": "MARCELO DE OLIVEIRA JUNIOR",
     "Qualidade da Muda": "BOM",
     "Observações": null,
-    "Fazenda": null,
-    "Observações ": null,
-    "Unnamed: 19": null
+    "Fazenda": null
   },
   {
     "ID": "3577349",
@@ -27531,9 +25139,7 @@ window.QUALIDADE_MUDA_DATA = [
     "Responsável": "MARCELO DE OLIVEIRA JUNIOR",
     "Qualidade da Muda": "BOM",
     "Observações": null,
-    "Fazenda": null,
-    "Observações ": null,
-    "Unnamed: 19": null
+    "Fazenda": null
   },
   {
     "ID": "3577344",
@@ -27554,9 +25160,7 @@ window.QUALIDADE_MUDA_DATA = [
     "Responsável": "MARCELO DE OLIVEIRA JUNIOR",
     "Qualidade da Muda": "BOM",
     "Observações": null,
-    "Fazenda": null,
-    "Observações ": null,
-    "Unnamed: 19": null
+    "Fazenda": null
   },
   {
     "ID": "3577339",
@@ -27577,9 +25181,7 @@ window.QUALIDADE_MUDA_DATA = [
     "Responsável": "MARCELO DE OLIVEIRA JUNIOR",
     "Qualidade da Muda": "BOM",
     "Observações": null,
-    "Fazenda": null,
-    "Observações ": null,
-    "Unnamed: 19": null
+    "Fazenda": null
   },
   {
     "ID": "3577335",
@@ -27600,9 +25202,7 @@ window.QUALIDADE_MUDA_DATA = [
     "Responsável": "MARCELO DE OLIVEIRA JUNIOR",
     "Qualidade da Muda": "BOM",
     "Observações": null,
-    "Fazenda": null,
-    "Observações ": null,
-    "Unnamed: 19": null
+    "Fazenda": null
   },
   {
     "ID": "3577326",
@@ -27623,9 +25223,7 @@ window.QUALIDADE_MUDA_DATA = [
     "Responsável": "MARCELO DE OLIVEIRA JUNIOR",
     "Qualidade da Muda": "BOM",
     "Observações": null,
-    "Fazenda": null,
-    "Observações ": null,
-    "Unnamed: 19": null
+    "Fazenda": null
   },
   {
     "ID": "3574653",
@@ -27646,9 +25244,7 @@ window.QUALIDADE_MUDA_DATA = [
     "Responsável": "MICHELI DE SOUZA SANTOS  ",
     "Qualidade da Muda": "BOM",
     "Observações": null,
-    "Fazenda": null,
-    "Observações ": null,
-    "Unnamed: 19": null
+    "Fazenda": null
   },
   {
     "ID": "3574590",
@@ -27669,9 +25265,7 @@ window.QUALIDADE_MUDA_DATA = [
     "Responsável": "MABILA HELEN D FIGUEIREDO",
     "Qualidade da Muda": "BOM",
     "Observações": null,
-    "Fazenda": null,
-    "Observações ": null,
-    "Unnamed: 19": null
+    "Fazenda": null
   },
   {
     "ID": "3574708",
@@ -27692,9 +25286,7 @@ window.QUALIDADE_MUDA_DATA = [
     "Responsável": "Leonardo Ribeiro Teixeira da Silva",
     "Qualidade da Muda": "BOM",
     "Observações": null,
-    "Fazenda": null,
-    "Observações ": null,
-    "Unnamed: 19": null
+    "Fazenda": null
   },
   {
     "ID": "3574583",
@@ -27715,9 +25307,7 @@ window.QUALIDADE_MUDA_DATA = [
     "Responsável": "MABILA HELEN D FIGUEIREDO",
     "Qualidade da Muda": "BOM",
     "Observações": null,
-    "Fazenda": null,
-    "Observações ": null,
-    "Unnamed: 19": null
+    "Fazenda": null
   },
   {
     "ID": "3574707",
@@ -27738,9 +25328,7 @@ window.QUALIDADE_MUDA_DATA = [
     "Responsável": "Leonardo Ribeiro Teixeira da Silva",
     "Qualidade da Muda": "BOM",
     "Observações": null,
-    "Fazenda": null,
-    "Observações ": null,
-    "Unnamed: 19": null
+    "Fazenda": null
   },
   {
     "ID": "3574706",
@@ -27761,9 +25349,7 @@ window.QUALIDADE_MUDA_DATA = [
     "Responsável": "Ruan Alexandre Lopes",
     "Qualidade da Muda": "BOM",
     "Observações": null,
-    "Fazenda": null,
-    "Observações ": null,
-    "Unnamed: 19": null
+    "Fazenda": null
   },
   {
     "ID": "3574705",
@@ -27784,9 +25370,7 @@ window.QUALIDADE_MUDA_DATA = [
     "Responsável": "Ruan Alexandre Lopes",
     "Qualidade da Muda": "BOM",
     "Observações": null,
-    "Fazenda": null,
-    "Observações ": null,
-    "Unnamed: 19": null
+    "Fazenda": null
   },
   {
     "ID": "3574580",
@@ -27807,9 +25391,7 @@ window.QUALIDADE_MUDA_DATA = [
     "Responsável": "MABILA HELEN D FIGUEIREDO",
     "Qualidade da Muda": "BOM",
     "Observações": null,
-    "Fazenda": null,
-    "Observações ": null,
-    "Unnamed: 19": null
+    "Fazenda": null
   },
   {
     "ID": "3574528",
@@ -27830,9 +25412,7 @@ window.QUALIDADE_MUDA_DATA = [
     "Responsável": "NILDA CLAUDINO [2510716]",
     "Qualidade da Muda": "BOM",
     "Observações": null,
-    "Fazenda": null,
-    "Observações ": null,
-    "Unnamed: 19": null
+    "Fazenda": null
   },
   {
     "ID": "3574525",
@@ -27853,9 +25433,7 @@ window.QUALIDADE_MUDA_DATA = [
     "Responsável": "NILDA CLAUDINO [2510716]",
     "Qualidade da Muda": "BOM",
     "Observações": null,
-    "Fazenda": null,
-    "Observações ": null,
-    "Unnamed: 19": null
+    "Fazenda": null
   },
   {
     "ID": "3574331",
@@ -27876,9 +25454,7 @@ window.QUALIDADE_MUDA_DATA = [
     "Responsável": "MICHELI DE SOUZA SANTOS  ",
     "Qualidade da Muda": "BOM",
     "Observações": null,
-    "Fazenda": null,
-    "Observações ": null,
-    "Unnamed: 19": null
+    "Fazenda": null
   },
   {
     "ID": "3574267",
@@ -27899,9 +25475,7 @@ window.QUALIDADE_MUDA_DATA = [
     "Responsável": "MICHELI DE SOUZA SANTOS  ",
     "Qualidade da Muda": "BOM",
     "Observações": null,
-    "Fazenda": null,
-    "Observações ": null,
-    "Unnamed: 19": null
+    "Fazenda": null
   },
   {
     "ID": "3574562",
@@ -27922,9 +25496,7 @@ window.QUALIDADE_MUDA_DATA = [
     "Responsável": "GABRIEL HENRIQUE MARTINS PEREIRA",
     "Qualidade da Muda": "BOM",
     "Observações": null,
-    "Fazenda": null,
-    "Observações ": null,
-    "Unnamed: 19": null
+    "Fazenda": null
   },
   {
     "ID": "3574261",
@@ -27945,9 +25517,7 @@ window.QUALIDADE_MUDA_DATA = [
     "Responsável": "MICHELI DE SOUZA SANTOS  ",
     "Qualidade da Muda": "BOM",
     "Observações": null,
-    "Fazenda": null,
-    "Observações ": null,
-    "Unnamed: 19": null
+    "Fazenda": null
   },
   {
     "ID": "3574557",
@@ -27968,9 +25538,7 @@ window.QUALIDADE_MUDA_DATA = [
     "Responsável": "GABRIEL HENRIQUE MARTINS PEREIRA",
     "Qualidade da Muda": "BOM",
     "Observações": null,
-    "Fazenda": null,
-    "Observações ": null,
-    "Unnamed: 19": null
+    "Fazenda": null
   },
   {
     "ID": "3574440",
@@ -27991,9 +25559,7 @@ window.QUALIDADE_MUDA_DATA = [
     "Responsável": "VITOR AMORIM RAMOS ",
     "Qualidade da Muda": "BOM",
     "Observações": null,
-    "Fazenda": null,
-    "Observações ": null,
-    "Unnamed: 19": null
+    "Fazenda": null
   },
   {
     "ID": "3574256",
@@ -28014,9 +25580,7 @@ window.QUALIDADE_MUDA_DATA = [
     "Responsável": "MICHELI DE SOUZA SANTOS  ",
     "Qualidade da Muda": "BOM",
     "Observações": null,
-    "Fazenda": null,
-    "Observações ": null,
-    "Unnamed: 19": null
+    "Fazenda": null
   },
   {
     "ID": "3574550",
@@ -28037,9 +25601,7 @@ window.QUALIDADE_MUDA_DATA = [
     "Responsável": "GABRIEL HENRIQUE MARTINS PEREIRA",
     "Qualidade da Muda": "BOM",
     "Observações": null,
-    "Fazenda": null,
-    "Observações ": null,
-    "Unnamed: 19": null
+    "Fazenda": null
   },
   {
     "ID": "3574251",
@@ -28060,9 +25622,7 @@ window.QUALIDADE_MUDA_DATA = [
     "Responsável": "MICHELI DE SOUZA SANTOS  ",
     "Qualidade da Muda": "BOM",
     "Observações": null,
-    "Fazenda": null,
-    "Observações ": null,
-    "Unnamed: 19": null
+    "Fazenda": null
   },
   {
     "ID": "3574434",
@@ -28083,9 +25643,7 @@ window.QUALIDADE_MUDA_DATA = [
     "Responsável": "VITOR AMORIM RAMOS ",
     "Qualidade da Muda": "BOM",
     "Observações": null,
-    "Fazenda": null,
-    "Observações ": null,
-    "Unnamed: 19": null
+    "Fazenda": null
   },
   {
     "ID": "3574545",
@@ -28106,9 +25664,7 @@ window.QUALIDADE_MUDA_DATA = [
     "Responsável": "GABRIEL HENRIQUE MARTINS PEREIRA",
     "Qualidade da Muda": "BOM",
     "Observações": null,
-    "Fazenda": null,
-    "Observações ": null,
-    "Unnamed: 19": null
+    "Fazenda": null
   },
   {
     "ID": "3574246",
@@ -28129,9 +25685,7 @@ window.QUALIDADE_MUDA_DATA = [
     "Responsável": "MICHELI DE SOUZA SANTOS  ",
     "Qualidade da Muda": "BOM",
     "Observações": null,
-    "Fazenda": null,
-    "Observações ": null,
-    "Unnamed: 19": null
+    "Fazenda": null
   },
   {
     "ID": "3574429",
@@ -28152,9 +25706,7 @@ window.QUALIDADE_MUDA_DATA = [
     "Responsável": "VITOR AMORIM RAMOS ",
     "Qualidade da Muda": "BOM",
     "Observações": null,
-    "Fazenda": null,
-    "Observações ": null,
-    "Unnamed: 19": null
+    "Fazenda": null
   },
   {
     "ID": "3574500",
@@ -28175,9 +25727,7 @@ window.QUALIDADE_MUDA_DATA = [
     "Responsável": "NILDA CLAUDINO [2510716]",
     "Qualidade da Muda": "BOM",
     "Observações": null,
-    "Fazenda": null,
-    "Observações ": null,
-    "Unnamed: 19": null
+    "Fazenda": null
   },
   {
     "ID": "3574534",
@@ -28198,9 +25748,7 @@ window.QUALIDADE_MUDA_DATA = [
     "Responsável": "GABRIEL HENRIQUE MARTINS PEREIRA",
     "Qualidade da Muda": "BOM",
     "Observações": null,
-    "Fazenda": null,
-    "Observações ": null,
-    "Unnamed: 19": null
+    "Fazenda": null
   },
   {
     "ID": "3574533",
@@ -28221,9 +25769,7 @@ window.QUALIDADE_MUDA_DATA = [
     "Responsável": "GABRIEL HENRIQUE MARTINS PEREIRA",
     "Qualidade da Muda": "BOM",
     "Observações": null,
-    "Fazenda": null,
-    "Observações ": null,
-    "Unnamed: 19": null
+    "Fazenda": null
   },
   {
     "ID": "3574496",
@@ -28244,9 +25790,7 @@ window.QUALIDADE_MUDA_DATA = [
     "Responsável": "NILDA CLAUDINO [2510716]",
     "Qualidade da Muda": "BOM",
     "Observações": null,
-    "Fazenda": null,
-    "Observações ": null,
-    "Unnamed: 19": null
+    "Fazenda": null
   },
   {
     "ID": "3574423",
@@ -28267,9 +25811,7 @@ window.QUALIDADE_MUDA_DATA = [
     "Responsável": "VITOR AMORIM RAMOS ",
     "Qualidade da Muda": "BOM",
     "Observações": null,
-    "Fazenda": null,
-    "Observações ": null,
-    "Unnamed: 19": null
+    "Fazenda": null
   },
   {
     "ID": "3574188",
@@ -28290,9 +25832,7 @@ window.QUALIDADE_MUDA_DATA = [
     "Responsável": "MABILA HELEN D FIGUEIREDO",
     "Qualidade da Muda": "BOM",
     "Observações": null,
-    "Fazenda": null,
-    "Observações ": null,
-    "Unnamed: 19": null
+    "Fazenda": null
   },
   {
     "ID": "3574187",
@@ -28313,9 +25853,7 @@ window.QUALIDADE_MUDA_DATA = [
     "Responsável": "MICHELI DE SOUZA SANTOS  ",
     "Qualidade da Muda": "BOM",
     "Observações": null,
-    "Fazenda": null,
-    "Observações ": null,
-    "Unnamed: 19": null
+    "Fazenda": null
   },
   {
     "ID": "3574186",
@@ -28336,9 +25874,7 @@ window.QUALIDADE_MUDA_DATA = [
     "Responsável": "MICHELI DE SOUZA SANTOS  ",
     "Qualidade da Muda": "BOM",
     "Observações": null,
-    "Fazenda": null,
-    "Observações ": null,
-    "Unnamed: 19": null
+    "Fazenda": null
   },
   {
     "ID": "3574185",
@@ -28359,9 +25895,7 @@ window.QUALIDADE_MUDA_DATA = [
     "Responsável": "MICHELI DE SOUZA SANTOS  ",
     "Qualidade da Muda": "BOM",
     "Observações": null,
-    "Fazenda": null,
-    "Observações ": null,
-    "Unnamed: 19": null
+    "Fazenda": null
   },
   {
     "ID": "3574184",
@@ -28382,9 +25916,7 @@ window.QUALIDADE_MUDA_DATA = [
     "Responsável": "MICHELI DE SOUZA SANTOS  ",
     "Qualidade da Muda": "BOM",
     "Observações": null,
-    "Fazenda": null,
-    "Observações ": null,
-    "Unnamed: 19": null
+    "Fazenda": null
   },
   {
     "ID": "3574183",
@@ -28405,9 +25937,7 @@ window.QUALIDADE_MUDA_DATA = [
     "Responsável": "MICHELI DE SOUZA SANTOS  ",
     "Qualidade da Muda": "BOM",
     "Observações": null,
-    "Fazenda": null,
-    "Observações ": null,
-    "Unnamed: 19": null
+    "Fazenda": null
   },
   {
     "ID": "3574182",
@@ -28428,9 +25958,7 @@ window.QUALIDADE_MUDA_DATA = [
     "Responsável": "MICHELI DE SOUZA SANTOS  ",
     "Qualidade da Muda": "BOM",
     "Observações": null,
-    "Fazenda": null,
-    "Observações ": null,
-    "Unnamed: 19": null
+    "Fazenda": null
   },
   {
     "ID": "3574181",
@@ -28451,9 +25979,7 @@ window.QUALIDADE_MUDA_DATA = [
     "Responsável": "MICHELI DE SOUZA SANTOS  ",
     "Qualidade da Muda": "BOM",
     "Observações": null,
-    "Fazenda": null,
-    "Observações ": null,
-    "Unnamed: 19": null
+    "Fazenda": null
   },
   {
     "ID": "3574180",
@@ -28474,9 +26000,7 @@ window.QUALIDADE_MUDA_DATA = [
     "Responsável": "MICHELI DE SOUZA SANTOS  ",
     "Qualidade da Muda": "BOM",
     "Observações": null,
-    "Fazenda": null,
-    "Observações ": null,
-    "Unnamed: 19": null
+    "Fazenda": null
   },
   {
     "ID": "3574179",
@@ -28497,9 +26021,7 @@ window.QUALIDADE_MUDA_DATA = [
     "Responsável": "MICHELI DE SOUZA SANTOS  ",
     "Qualidade da Muda": "BOM",
     "Observações": null,
-    "Fazenda": null,
-    "Observações ": null,
-    "Unnamed: 19": null
+    "Fazenda": null
   },
   {
     "ID": "3574178",
@@ -28520,9 +26042,7 @@ window.QUALIDADE_MUDA_DATA = [
     "Responsável": "MICHELI DE SOUZA SANTOS  ",
     "Qualidade da Muda": "BOM",
     "Observações": null,
-    "Fazenda": null,
-    "Observações ": null,
-    "Unnamed: 19": null
+    "Fazenda": null
   },
   {
     "ID": "3574492",
@@ -28543,9 +26063,7 @@ window.QUALIDADE_MUDA_DATA = [
     "Responsável": "NILDA CLAUDINO [2510716]",
     "Qualidade da Muda": "BOM",
     "Observações": null,
-    "Fazenda": null,
-    "Observações ": null,
-    "Unnamed: 19": null
+    "Fazenda": null
   },
   {
     "ID": "3574409",
@@ -28566,9 +26084,7 @@ window.QUALIDADE_MUDA_DATA = [
     "Responsável": "VITOR AMORIM RAMOS ",
     "Qualidade da Muda": "BOM",
     "Observações": null,
-    "Fazenda": null,
-    "Observações ": null,
-    "Unnamed: 19": null
+    "Fazenda": null
   },
   {
     "ID": "3574488",
@@ -28589,9 +26105,7 @@ window.QUALIDADE_MUDA_DATA = [
     "Responsável": "NILDA CLAUDINO [2510716]",
     "Qualidade da Muda": "BOM",
     "Observações": null,
-    "Fazenda": null,
-    "Observações ": null,
-    "Unnamed: 19": null
+    "Fazenda": null
   },
   {
     "ID": "3574404",
@@ -28612,9 +26126,7 @@ window.QUALIDADE_MUDA_DATA = [
     "Responsável": "VITOR AMORIM RAMOS ",
     "Qualidade da Muda": "BOM",
     "Observações": null,
-    "Fazenda": null,
-    "Observações ": null,
-    "Unnamed: 19": null
+    "Fazenda": null
   },
   {
     "ID": "3574399",
@@ -28635,9 +26147,7 @@ window.QUALIDADE_MUDA_DATA = [
     "Responsável": "VITOR AMORIM RAMOS ",
     "Qualidade da Muda": "BOM",
     "Observações": null,
-    "Fazenda": null,
-    "Observações ": null,
-    "Unnamed: 19": null
+    "Fazenda": null
   },
   {
     "ID": "3574477",
@@ -28658,9 +26168,7 @@ window.QUALIDADE_MUDA_DATA = [
     "Responsável": "NILDA CLAUDINO [2510716]",
     "Qualidade da Muda": "BOM",
     "Observações": null,
-    "Fazenda": null,
-    "Observações ": null,
-    "Unnamed: 19": null
+    "Fazenda": null
   },
   {
     "ID": "3574670",
@@ -28681,9 +26189,7 @@ window.QUALIDADE_MUDA_DATA = [
     "Responsável": "Ruan Alexandre Lopes",
     "Qualidade da Muda": "BOM",
     "Observações": null,
-    "Fazenda": null,
-    "Observações ": null,
-    "Unnamed: 19": null
+    "Fazenda": null
   },
   {
     "ID": "3574394",
@@ -28704,9 +26210,7 @@ window.QUALIDADE_MUDA_DATA = [
     "Responsável": "VITOR AMORIM RAMOS ",
     "Qualidade da Muda": "BOM",
     "Observações": null,
-    "Fazenda": null,
-    "Observações ": null,
-    "Unnamed: 19": null
+    "Fazenda": null
   },
   {
     "ID": "3574473",
@@ -28727,9 +26231,7 @@ window.QUALIDADE_MUDA_DATA = [
     "Responsável": "NILDA CLAUDINO [2510716]",
     "Qualidade da Muda": "BOM",
     "Observações": null,
-    "Fazenda": null,
-    "Observações ": null,
-    "Unnamed: 19": null
+    "Fazenda": null
   },
   {
     "ID": "3574469",
@@ -28750,9 +26252,7 @@ window.QUALIDADE_MUDA_DATA = [
     "Responsável": "NILDA CLAUDINO [2510716]",
     "Qualidade da Muda": "BOM",
     "Observações": null,
-    "Fazenda": null,
-    "Observações ": null,
-    "Unnamed: 19": null
+    "Fazenda": null
   },
   {
     "ID": "3574391",
@@ -28773,9 +26273,7 @@ window.QUALIDADE_MUDA_DATA = [
     "Responsável": "VITOR AMORIM RAMOS ",
     "Qualidade da Muda": "BOM",
     "Observações": null,
-    "Fazenda": null,
-    "Observações ": null,
-    "Unnamed: 19": null
+    "Fazenda": null
   },
   {
     "ID": "3574385",
@@ -28796,9 +26294,7 @@ window.QUALIDADE_MUDA_DATA = [
     "Responsável": "VITOR AMORIM RAMOS ",
     "Qualidade da Muda": "BOM",
     "Observações": null,
-    "Fazenda": null,
-    "Observações ": null,
-    "Unnamed: 19": null
+    "Fazenda": null
   },
   {
     "ID": "3572729",
@@ -28819,9 +26315,7 @@ window.QUALIDADE_MUDA_DATA = [
     "Responsável": "REGINALDO DA SILVA GOMES ",
     "Qualidade da Muda": "BOM",
     "Observações": null,
-    "Fazenda": null,
-    "Observações ": null,
-    "Unnamed: 19": null
+    "Fazenda": null
   },
   {
     "ID": "3572723",
@@ -28842,9 +26336,7 @@ window.QUALIDADE_MUDA_DATA = [
     "Responsável": "REGINALDO DA SILVA GOMES ",
     "Qualidade da Muda": "BOM",
     "Observações": null,
-    "Fazenda": null,
-    "Observações ": null,
-    "Unnamed: 19": null
+    "Fazenda": null
   },
   {
     "ID": "3572765",
@@ -28865,9 +26357,7 @@ window.QUALIDADE_MUDA_DATA = [
     "Responsável": "VITOR AMORIM RAMOS ",
     "Qualidade da Muda": "BOM",
     "Observações": null,
-    "Fazenda": null,
-    "Observações ": null,
-    "Unnamed: 19": null
+    "Fazenda": null
   },
   {
     "ID": "3572635",
@@ -28888,9 +26378,7 @@ window.QUALIDADE_MUDA_DATA = [
     "Responsável": "NILDA CLAUDINO [2510716]",
     "Qualidade da Muda": "BOM",
     "Observações": null,
-    "Fazenda": null,
-    "Observações ": null,
-    "Unnamed: 19": null
+    "Fazenda": null
   },
   {
     "ID": "3572760",
@@ -28911,9 +26399,7 @@ window.QUALIDADE_MUDA_DATA = [
     "Responsável": "VITOR AMORIM RAMOS ",
     "Qualidade da Muda": "BOM",
     "Observações": null,
-    "Fazenda": null,
-    "Observações ": null,
-    "Unnamed: 19": null
+    "Fazenda": null
   },
   {
     "ID": "3572609",
@@ -28934,9 +26420,7 @@ window.QUALIDADE_MUDA_DATA = [
     "Responsável": "NILDA CLAUDINO [2510716]",
     "Qualidade da Muda": "BOM",
     "Observações": null,
-    "Fazenda": null,
-    "Observações ": null,
-    "Unnamed: 19": null
+    "Fazenda": null
   },
   {
     "ID": "3572718",
@@ -28957,9 +26441,7 @@ window.QUALIDADE_MUDA_DATA = [
     "Responsável": "REGINALDO DA SILVA GOMES ",
     "Qualidade da Muda": "BOM",
     "Observações": null,
-    "Fazenda": null,
-    "Observações ": null,
-    "Unnamed: 19": null
+    "Fazenda": null
   },
   {
     "ID": "3572713",
@@ -28980,9 +26462,7 @@ window.QUALIDADE_MUDA_DATA = [
     "Responsável": "REGINALDO DA SILVA GOMES ",
     "Qualidade da Muda": "BOM",
     "Observações": null,
-    "Fazenda": null,
-    "Observações ": null,
-    "Unnamed: 19": null
+    "Fazenda": null
   },
   {
     "ID": "3572755",
@@ -29003,9 +26483,7 @@ window.QUALIDADE_MUDA_DATA = [
     "Responsável": "VITOR AMORIM RAMOS ",
     "Qualidade da Muda": "BOM",
     "Observações": null,
-    "Fazenda": null,
-    "Observações ": null,
-    "Unnamed: 19": null
+    "Fazenda": null
   },
   {
     "ID": "3572749",
@@ -29026,9 +26504,7 @@ window.QUALIDADE_MUDA_DATA = [
     "Responsável": "VITOR AMORIM RAMOS ",
     "Qualidade da Muda": "BOM",
     "Observações": null,
-    "Fazenda": null,
-    "Observações ": null,
-    "Unnamed: 19": null
+    "Fazenda": null
   },
   {
     "ID": "3572605",
@@ -29049,9 +26525,7 @@ window.QUALIDADE_MUDA_DATA = [
     "Responsável": "NILDA CLAUDINO [2510716]",
     "Qualidade da Muda": "BOM",
     "Observações": null,
-    "Fazenda": null,
-    "Observações ": null,
-    "Unnamed: 19": null
+    "Fazenda": null
   },
   {
     "ID": "3572708",
@@ -29072,9 +26546,7 @@ window.QUALIDADE_MUDA_DATA = [
     "Responsável": "REGINALDO DA SILVA GOMES ",
     "Qualidade da Muda": "BOM",
     "Observações": null,
-    "Fazenda": null,
-    "Observações ": null,
-    "Unnamed: 19": null
+    "Fazenda": null
   },
   {
     "ID": "3572703",
@@ -29095,9 +26567,7 @@ window.QUALIDADE_MUDA_DATA = [
     "Responsável": "REGINALDO DA SILVA GOMES ",
     "Qualidade da Muda": "BOM",
     "Observações": null,
-    "Fazenda": null,
-    "Observações ": null,
-    "Unnamed: 19": null
+    "Fazenda": null
   },
   {
     "ID": "3572591",
@@ -29118,9 +26588,7 @@ window.QUALIDADE_MUDA_DATA = [
     "Responsável": "MARCELO DE OLIVEIRA JUNIOR",
     "Qualidade da Muda": "BOM",
     "Observações": null,
-    "Fazenda": null,
-    "Observações ": null,
-    "Unnamed: 19": null
+    "Fazenda": null
   },
   {
     "ID": "3572587",
@@ -29141,9 +26609,7 @@ window.QUALIDADE_MUDA_DATA = [
     "Responsável": "MARCELO DE OLIVEIRA JUNIOR",
     "Qualidade da Muda": "BOM",
     "Observações": null,
-    "Fazenda": null,
-    "Observações ": null,
-    "Unnamed: 19": null
+    "Fazenda": null
   },
   {
     "ID": "3572495",
@@ -29164,9 +26630,7 @@ window.QUALIDADE_MUDA_DATA = [
     "Responsável": "NILDA CLAUDINO [2510716]",
     "Qualidade da Muda": "BOM",
     "Observações": null,
-    "Fazenda": null,
-    "Observações ": null,
-    "Unnamed: 19": null
+    "Fazenda": null
   },
   {
     "ID": "3572698",
@@ -29187,9 +26651,7 @@ window.QUALIDADE_MUDA_DATA = [
     "Responsável": "REGINALDO DA SILVA GOMES ",
     "Qualidade da Muda": "BOM",
     "Observações": null,
-    "Fazenda": null,
-    "Observações ": null,
-    "Unnamed: 19": null
+    "Fazenda": null
   },
   {
     "ID": "3572692",
@@ -29210,9 +26672,7 @@ window.QUALIDADE_MUDA_DATA = [
     "Responsável": "REGINALDO DA SILVA GOMES ",
     "Qualidade da Muda": "BOM",
     "Observações": null,
-    "Fazenda": null,
-    "Observações ": null,
-    "Unnamed: 19": null
+    "Fazenda": null
   },
   {
     "ID": "3572687",
@@ -29233,9 +26693,7 @@ window.QUALIDADE_MUDA_DATA = [
     "Responsável": "REGINALDO DA SILVA GOMES ",
     "Qualidade da Muda": "BOM",
     "Observações": null,
-    "Fazenda": null,
-    "Observações ": null,
-    "Unnamed: 19": null
+    "Fazenda": null
   },
   {
     "ID": "3572683",
@@ -29256,9 +26714,7 @@ window.QUALIDADE_MUDA_DATA = [
     "Responsável": "REGINALDO DA SILVA GOMES ",
     "Qualidade da Muda": "BOM",
     "Observações": null,
-    "Fazenda": null,
-    "Observações ": null,
-    "Unnamed: 19": null
+    "Fazenda": null
   },
   {
     "ID": "3572679",
@@ -29279,9 +26735,7 @@ window.QUALIDADE_MUDA_DATA = [
     "Responsável": "REGINALDO DA SILVA GOMES ",
     "Qualidade da Muda": "BOM",
     "Observações": null,
-    "Fazenda": null,
-    "Observações ": null,
-    "Unnamed: 19": null
+    "Fazenda": null
   },
   {
     "ID": "3572673",
@@ -29302,9 +26756,7 @@ window.QUALIDADE_MUDA_DATA = [
     "Responsável": "REGINALDO DA SILVA GOMES ",
     "Qualidade da Muda": "BOM",
     "Observações": null,
-    "Fazenda": null,
-    "Observações ": null,
-    "Unnamed: 19": null
+    "Fazenda": null
   },
   {
     "ID": "3572668",
@@ -29325,9 +26777,7 @@ window.QUALIDADE_MUDA_DATA = [
     "Responsável": "REGINALDO DA SILVA GOMES ",
     "Qualidade da Muda": "BOM",
     "Observações": null,
-    "Fazenda": null,
-    "Observações ": null,
-    "Unnamed: 19": null
+    "Fazenda": null
   },
   {
     "ID": "3572662",
@@ -29348,9 +26798,7 @@ window.QUALIDADE_MUDA_DATA = [
     "Responsável": "REGINALDO DA SILVA GOMES ",
     "Qualidade da Muda": "BOM",
     "Observações": null,
-    "Fazenda": null,
-    "Observações ": null,
-    "Unnamed: 19": null
+    "Fazenda": null
   },
   {
     "ID": "3572402",
@@ -29371,9 +26819,7 @@ window.QUALIDADE_MUDA_DATA = [
     "Responsável": "MICHELI DE SOUZA SANTOS  ",
     "Qualidade da Muda": "BOM",
     "Observações": null,
-    "Fazenda": null,
-    "Observações ": null,
-    "Unnamed: 19": null
+    "Fazenda": null
   },
   {
     "ID": "3572578",
@@ -29394,9 +26840,7 @@ window.QUALIDADE_MUDA_DATA = [
     "Responsável": "MARCELO DE OLIVEIRA JUNIOR",
     "Qualidade da Muda": "BOM",
     "Observações": null,
-    "Fazenda": null,
-    "Observações ": null,
-    "Unnamed: 19": null
+    "Fazenda": null
   },
   {
     "ID": "3572572",
@@ -29417,9 +26861,7 @@ window.QUALIDADE_MUDA_DATA = [
     "Responsável": "MARCELO DE OLIVEIRA JUNIOR",
     "Qualidade da Muda": "BOM",
     "Observações": null,
-    "Fazenda": null,
-    "Observações ": null,
-    "Unnamed: 19": null
+    "Fazenda": null
   },
   {
     "ID": "3572398",
@@ -29440,9 +26882,7 @@ window.QUALIDADE_MUDA_DATA = [
     "Responsável": "MICHELI DE SOUZA SANTOS  ",
     "Qualidade da Muda": "BOM",
     "Observações": null,
-    "Fazenda": null,
-    "Observações ": null,
-    "Unnamed: 19": null
+    "Fazenda": null
   },
   {
     "ID": "3572657",
@@ -29463,9 +26903,7 @@ window.QUALIDADE_MUDA_DATA = [
     "Responsável": "REGINALDO DA SILVA GOMES ",
     "Qualidade da Muda": "BOM",
     "Observações": null,
-    "Fazenda": null,
-    "Observações ": null,
-    "Unnamed: 19": null
+    "Fazenda": null
   },
   {
     "ID": "3572652",
@@ -29486,9 +26924,7 @@ window.QUALIDADE_MUDA_DATA = [
     "Responsável": "REGINALDO DA SILVA GOMES ",
     "Qualidade da Muda": "BOM",
     "Observações": null,
-    "Fazenda": null,
-    "Observações ": null,
-    "Unnamed: 19": null
+    "Fazenda": null
   },
   {
     "ID": "3572649",
@@ -29509,9 +26945,7 @@ window.QUALIDADE_MUDA_DATA = [
     "Responsável": "REGINALDO DA SILVA GOMES ",
     "Qualidade da Muda": "BOM",
     "Observações": null,
-    "Fazenda": null,
-    "Observações ": null,
-    "Unnamed: 19": null
+    "Fazenda": null
   },
   {
     "ID": "3572391",
@@ -29532,9 +26966,7 @@ window.QUALIDADE_MUDA_DATA = [
     "Responsável": "MABILA HELEN D FIGUEIREDO",
     "Qualidade da Muda": "BOM",
     "Observações": null,
-    "Fazenda": null,
-    "Observações ": null,
-    "Unnamed: 19": null
+    "Fazenda": null
   },
   {
     "ID": "3572644",
@@ -29555,9 +26987,7 @@ window.QUALIDADE_MUDA_DATA = [
     "Responsável": "REGINALDO DA SILVA GOMES ",
     "Qualidade da Muda": "BOM",
     "Observações": null,
-    "Fazenda": null,
-    "Observações ": null,
-    "Unnamed: 19": null
+    "Fazenda": null
   },
   {
     "ID": "3572191",
@@ -29578,9 +27008,7 @@ window.QUALIDADE_MUDA_DATA = [
     "Responsável": "VITOR AMORIM RAMOS ",
     "Qualidade da Muda": "BOM",
     "Observações": null,
-    "Fazenda": null,
-    "Observações ": null,
-    "Unnamed: 19": null
+    "Fazenda": null
   },
   {
     "ID": "3572493",
@@ -29601,9 +27029,7 @@ window.QUALIDADE_MUDA_DATA = [
     "Responsável": "REGINALDO DA SILVA GOMES ",
     "Qualidade da Muda": "BOM",
     "Observações": null,
-    "Fazenda": null,
-    "Observações ": null,
-    "Unnamed: 19": null
+    "Fazenda": null
   },
   {
     "ID": "3572489",
@@ -29624,9 +27050,7 @@ window.QUALIDADE_MUDA_DATA = [
     "Responsável": "REGINALDO DA SILVA GOMES ",
     "Qualidade da Muda": "BOM",
     "Observações": null,
-    "Fazenda": null,
-    "Observações ": null,
-    "Unnamed: 19": null
+    "Fazenda": null
   },
   {
     "ID": "3572186",
@@ -29647,9 +27071,7 @@ window.QUALIDADE_MUDA_DATA = [
     "Responsável": "VITOR AMORIM RAMOS ",
     "Qualidade da Muda": "BOM",
     "Observações": null,
-    "Fazenda": null,
-    "Observações ": null,
-    "Unnamed: 19": null
+    "Fazenda": null
   },
   {
     "ID": "3572564",
@@ -29670,9 +27092,7 @@ window.QUALIDADE_MUDA_DATA = [
     "Responsável": "MARCELO DE OLIVEIRA JUNIOR",
     "Qualidade da Muda": "BOM",
     "Observações": null,
-    "Fazenda": null,
-    "Observações ": null,
-    "Unnamed: 19": null
+    "Fazenda": null
   },
   {
     "ID": "3572181",
@@ -29693,9 +27113,7 @@ window.QUALIDADE_MUDA_DATA = [
     "Responsável": "VITOR AMORIM RAMOS ",
     "Qualidade da Muda": "BOM",
     "Observações": null,
-    "Fazenda": null,
-    "Observações ": null,
-    "Unnamed: 19": null
+    "Fazenda": null
   },
   {
     "ID": "3572484",
@@ -29716,9 +27134,7 @@ window.QUALIDADE_MUDA_DATA = [
     "Responsável": "REGINALDO DA SILVA GOMES ",
     "Qualidade da Muda": "BOM",
     "Observações": null,
-    "Fazenda": null,
-    "Observações ": null,
-    "Unnamed: 19": null
+    "Fazenda": null
   },
   {
     "ID": "3572177",
@@ -29739,9 +27155,7 @@ window.QUALIDADE_MUDA_DATA = [
     "Responsável": "VITOR AMORIM RAMOS ",
     "Qualidade da Muda": "BOM",
     "Observações": null,
-    "Fazenda": null,
-    "Observações ": null,
-    "Unnamed: 19": null
+    "Fazenda": null
   },
   {
     "ID": "3572172",
@@ -29762,9 +27176,7 @@ window.QUALIDADE_MUDA_DATA = [
     "Responsável": "VITOR AMORIM RAMOS ",
     "Qualidade da Muda": "BOM",
     "Observações": null,
-    "Fazenda": null,
-    "Observações ": null,
-    "Unnamed: 19": null
+    "Fazenda": null
   },
   {
     "ID": "3572549",
@@ -29785,9 +27197,7 @@ window.QUALIDADE_MUDA_DATA = [
     "Responsável": "MARCELO DE OLIVEIRA JUNIOR",
     "Qualidade da Muda": "BOM",
     "Observações": null,
-    "Fazenda": null,
-    "Observações ": null,
-    "Unnamed: 19": null
+    "Fazenda": null
   },
   {
     "ID": "3572537",
@@ -29808,9 +27218,7 @@ window.QUALIDADE_MUDA_DATA = [
     "Responsável": "MARCELO DE OLIVEIRA JUNIOR",
     "Qualidade da Muda": "BOM",
     "Observações": null,
-    "Fazenda": null,
-    "Observações ": null,
-    "Unnamed: 19": null
+    "Fazenda": null
   },
   {
     "ID": "3572519",
@@ -29831,9 +27239,7 @@ window.QUALIDADE_MUDA_DATA = [
     "Responsável": "MARCELO DE OLIVEIRA JUNIOR",
     "Qualidade da Muda": "BOM",
     "Observações": null,
-    "Fazenda": null,
-    "Observações ": null,
-    "Unnamed: 19": null
+    "Fazenda": null
   },
   {
     "ID": "3570290",
@@ -29854,9 +27260,7 @@ window.QUALIDADE_MUDA_DATA = [
     "Responsável": "Leonardo Ribeiro Teixeira da Silva",
     "Qualidade da Muda": "BOM",
     "Observações": null,
-    "Fazenda": null,
-    "Observações ": null,
-    "Unnamed: 19": null
+    "Fazenda": null
   },
   {
     "ID": "3570289",
@@ -29877,9 +27281,7 @@ window.QUALIDADE_MUDA_DATA = [
     "Responsável": "Leonardo Ribeiro Teixeira da Silva",
     "Qualidade da Muda": "BOM",
     "Observações": null,
-    "Fazenda": null,
-    "Observações ": null,
-    "Unnamed: 19": null
+    "Fazenda": null
   },
   {
     "ID": "3570288",
@@ -29900,9 +27302,7 @@ window.QUALIDADE_MUDA_DATA = [
     "Responsável": "Leonardo Ribeiro Teixeira da Silva",
     "Qualidade da Muda": "BOM",
     "Observações": null,
-    "Fazenda": null,
-    "Observações ": null,
-    "Unnamed: 19": null
+    "Fazenda": null
   },
   {
     "ID": "3570504",
@@ -29923,9 +27323,7 @@ window.QUALIDADE_MUDA_DATA = [
     "Responsável": "REGINALDO DA SILVA GOMES ",
     "Qualidade da Muda": "BOM",
     "Observações": null,
-    "Fazenda": null,
-    "Observações ": null,
-    "Unnamed: 19": null
+    "Fazenda": null
   },
   {
     "ID": "3570499",
@@ -29946,9 +27344,7 @@ window.QUALIDADE_MUDA_DATA = [
     "Responsável": "REGINALDO DA SILVA GOMES ",
     "Qualidade da Muda": "BOM",
     "Observações": null,
-    "Fazenda": null,
-    "Observações ": null,
-    "Unnamed: 19": null
+    "Fazenda": null
   },
   {
     "ID": "3570493",
@@ -29969,9 +27365,7 @@ window.QUALIDADE_MUDA_DATA = [
     "Responsável": "REGINALDO DA SILVA GOMES ",
     "Qualidade da Muda": "BOM",
     "Observações": null,
-    "Fazenda": null,
-    "Observações ": null,
-    "Unnamed: 19": null
+    "Fazenda": null
   },
   {
     "ID": "3571041",
@@ -29992,9 +27386,7 @@ window.QUALIDADE_MUDA_DATA = [
     "Responsável": "VITOR AMORIM RAMOS ",
     "Qualidade da Muda": "BOM",
     "Observações": null,
-    "Fazenda": null,
-    "Observações ": null,
-    "Unnamed: 19": null
+    "Fazenda": null
   },
   {
     "ID": "3571036",
@@ -30015,9 +27407,7 @@ window.QUALIDADE_MUDA_DATA = [
     "Responsável": "VITOR AMORIM RAMOS ",
     "Qualidade da Muda": "BOM",
     "Observações": null,
-    "Fazenda": null,
-    "Observações ": null,
-    "Unnamed: 19": null
+    "Fazenda": null
   },
   {
     "ID": "3570255",
@@ -30038,9 +27428,7 @@ window.QUALIDADE_MUDA_DATA = [
     "Responsável": "VITOR AMORIM RAMOS ",
     "Qualidade da Muda": "BOM",
     "Observações": null,
-    "Fazenda": null,
-    "Observações ": null,
-    "Unnamed: 19": null
+    "Fazenda": null
   },
   {
     "ID": "3569985",
@@ -30061,9 +27449,7 @@ window.QUALIDADE_MUDA_DATA = [
     "Responsável": "Leonardo Ribeiro Teixeira da Silva",
     "Qualidade da Muda": "BOM",
     "Observações": null,
-    "Fazenda": null,
-    "Observações ": null,
-    "Unnamed: 19": null
+    "Fazenda": null
   },
   {
     "ID": "3569981",
@@ -30084,9 +27470,7 @@ window.QUALIDADE_MUDA_DATA = [
     "Responsável": "Leonardo Ribeiro Teixeira da Silva",
     "Qualidade da Muda": "BOM",
     "Observações": null,
-    "Fazenda": null,
-    "Observações ": null,
-    "Unnamed: 19": null
+    "Fazenda": null
   },
   {
     "ID": "3569978",
@@ -30107,9 +27491,7 @@ window.QUALIDADE_MUDA_DATA = [
     "Responsável": "Leonardo Ribeiro Teixeira da Silva",
     "Qualidade da Muda": "BOM",
     "Observações": null,
-    "Fazenda": null,
-    "Observações ": null,
-    "Unnamed: 19": null
+    "Fazenda": null
   },
   {
     "ID": "3569923",
@@ -30130,9 +27512,7 @@ window.QUALIDADE_MUDA_DATA = [
     "Responsável": " Antonio ",
     "Qualidade da Muda": "BOM",
     "Observações": null,
-    "Fazenda": null,
-    "Observações ": null,
-    "Unnamed: 19": null
+    "Fazenda": null
   },
   {
     "ID": "3569920",
@@ -30153,9 +27533,7 @@ window.QUALIDADE_MUDA_DATA = [
     "Responsável": " Antonio ",
     "Qualidade da Muda": "BOM",
     "Observações": null,
-    "Fazenda": null,
-    "Observações ": null,
-    "Unnamed: 19": null
+    "Fazenda": null
   },
   {
     "ID": "3569916",
@@ -30176,9 +27554,7 @@ window.QUALIDADE_MUDA_DATA = [
     "Responsável": " Antonio ",
     "Qualidade da Muda": "BOM",
     "Observações": null,
-    "Fazenda": null,
-    "Observações ": null,
-    "Unnamed: 19": null
+    "Fazenda": null
   },
   {
     "ID": "3569870",
@@ -30199,9 +27575,7 @@ window.QUALIDADE_MUDA_DATA = [
     "Responsável": "VITOR AMORIM RAMOS ",
     "Qualidade da Muda": "BOM",
     "Observações": null,
-    "Fazenda": null,
-    "Observações ": null,
-    "Unnamed: 19": null
+    "Fazenda": null
   },
   {
     "ID": "3570488",
@@ -30222,9 +27596,7 @@ window.QUALIDADE_MUDA_DATA = [
     "Responsável": "REGINALDO DA SILVA GOMES ",
     "Qualidade da Muda": "BOM",
     "Observações": null,
-    "Fazenda": null,
-    "Observações ": null,
-    "Unnamed: 19": null
+    "Fazenda": null
   },
   {
     "ID": "3570063",
@@ -30245,9 +27617,7 @@ window.QUALIDADE_MUDA_DATA = [
     "Responsável": "NILDA CLAUDINO [2510716]",
     "Qualidade da Muda": "BOM",
     "Observações": null,
-    "Fazenda": null,
-    "Observações ": null,
-    "Unnamed: 19": null
+    "Fazenda": null
   },
   {
     "ID": "3569865",
@@ -30268,9 +27638,7 @@ window.QUALIDADE_MUDA_DATA = [
     "Responsável": "VITOR AMORIM RAMOS ",
     "Qualidade da Muda": "BOM",
     "Observações": null,
-    "Fazenda": null,
-    "Observações ": null,
-    "Unnamed: 19": null
+    "Fazenda": null
   },
   {
     "ID": "3570483",
@@ -30291,9 +27659,7 @@ window.QUALIDADE_MUDA_DATA = [
     "Responsável": "REGINALDO DA SILVA GOMES ",
     "Qualidade da Muda": "BOM",
     "Observações": null,
-    "Fazenda": null,
-    "Observações ": null,
-    "Unnamed: 19": null
+    "Fazenda": null
   },
   {
     "ID": "3570061",
@@ -30314,9 +27680,7 @@ window.QUALIDADE_MUDA_DATA = [
     "Responsável": "NILDA CLAUDINO [2510716]",
     "Qualidade da Muda": "BOM",
     "Observações": null,
-    "Fazenda": null,
-    "Observações ": null,
-    "Unnamed: 19": null
+    "Fazenda": null
   },
   {
     "ID": "3570477",
@@ -30337,9 +27701,7 @@ window.QUALIDADE_MUDA_DATA = [
     "Responsável": "REGINALDO DA SILVA GOMES ",
     "Qualidade da Muda": "BOM",
     "Observações": null,
-    "Fazenda": null,
-    "Observações ": null,
-    "Unnamed: 19": null
+    "Fazenda": null
   },
   {
     "ID": "3570131",
@@ -30360,9 +27722,7 @@ window.QUALIDADE_MUDA_DATA = [
     "Responsável": "MARCELO DE OLIVEIRA JUNIOR",
     "Qualidade da Muda": "BOM",
     "Observações": null,
-    "Fazenda": null,
-    "Observações ": null,
-    "Unnamed: 19": null
+    "Fazenda": null
   },
   {
     "ID": "3569851",
@@ -30383,9 +27743,7 @@ window.QUALIDADE_MUDA_DATA = [
     "Responsável": "VITOR AMORIM RAMOS ",
     "Qualidade da Muda": "BOM",
     "Observações": null,
-    "Fazenda": null,
-    "Observações ": null,
-    "Unnamed: 19": null
+    "Fazenda": null
   },
   {
     "ID": "3569846",
@@ -30406,9 +27764,7 @@ window.QUALIDADE_MUDA_DATA = [
     "Responsável": "VITOR AMORIM RAMOS ",
     "Qualidade da Muda": "BOM",
     "Observações": null,
-    "Fazenda": null,
-    "Observações ": null,
-    "Unnamed: 19": null
+    "Fazenda": null
   },
   {
     "ID": "3569840",
@@ -30429,9 +27785,7 @@ window.QUALIDADE_MUDA_DATA = [
     "Responsável": "VITOR AMORIM RAMOS ",
     "Qualidade da Muda": "BOM",
     "Observações": null,
-    "Fazenda": null,
-    "Observações ": null,
-    "Unnamed: 19": null
+    "Fazenda": null
   },
   {
     "ID": "3570126",
@@ -30452,9 +27806,7 @@ window.QUALIDADE_MUDA_DATA = [
     "Responsável": "MARCELO DE OLIVEIRA JUNIOR",
     "Qualidade da Muda": "BOM",
     "Observações": null,
-    "Fazenda": null,
-    "Observações ": null,
-    "Unnamed: 19": null
+    "Fazenda": null
   },
   {
     "ID": "3570046",
@@ -30475,9 +27827,7 @@ window.QUALIDADE_MUDA_DATA = [
     "Responsável": "NILDA CLAUDINO [2510716]",
     "Qualidade da Muda": "BOM",
     "Observações": null,
-    "Fazenda": null,
-    "Observações ": null,
-    "Unnamed: 19": null
+    "Fazenda": null
   },
   {
     "ID": "3570121",
@@ -30498,9 +27848,7 @@ window.QUALIDADE_MUDA_DATA = [
     "Responsável": "MARCELO DE OLIVEIRA JUNIOR",
     "Qualidade da Muda": "BOM",
     "Observações": null,
-    "Fazenda": null,
-    "Observações ": null,
-    "Unnamed: 19": null
+    "Fazenda": null
   },
   {
     "ID": "3569834",
@@ -30521,9 +27869,7 @@ window.QUALIDADE_MUDA_DATA = [
     "Responsável": "VITOR AMORIM RAMOS ",
     "Qualidade da Muda": "BOM",
     "Observações": null,
-    "Fazenda": null,
-    "Observações ": null,
-    "Unnamed: 19": null
+    "Fazenda": null
   },
   {
     "ID": "3570116",
@@ -30544,9 +27890,7 @@ window.QUALIDADE_MUDA_DATA = [
     "Responsável": "MARCELO DE OLIVEIRA JUNIOR",
     "Qualidade da Muda": "BOM",
     "Observações": null,
-    "Fazenda": null,
-    "Observações ": null,
-    "Unnamed: 19": null
+    "Fazenda": null
   },
   {
     "ID": "3570043",
@@ -30567,9 +27911,7 @@ window.QUALIDADE_MUDA_DATA = [
     "Responsável": "NILDA CLAUDINO [2510716]",
     "Qualidade da Muda": "BOM",
     "Observações": null,
-    "Fazenda": null,
-    "Observações ": null,
-    "Unnamed: 19": null
+    "Fazenda": null
   },
   {
     "ID": "3569829",
@@ -30590,9 +27932,7 @@ window.QUALIDADE_MUDA_DATA = [
     "Responsável": "VITOR AMORIM RAMOS ",
     "Qualidade da Muda": "BOM",
     "Observações": null,
-    "Fazenda": null,
-    "Observações ": null,
-    "Unnamed: 19": null
+    "Fazenda": null
   },
   {
     "ID": "3570110",
@@ -30613,9 +27953,7 @@ window.QUALIDADE_MUDA_DATA = [
     "Responsável": "MARCELO DE OLIVEIRA JUNIOR",
     "Qualidade da Muda": "BOM",
     "Observações": null,
-    "Fazenda": null,
-    "Observações ": null,
-    "Unnamed: 19": null
+    "Fazenda": null
   },
   {
     "ID": "3569824",
@@ -30636,9 +27974,7 @@ window.QUALIDADE_MUDA_DATA = [
     "Responsável": "VITOR AMORIM RAMOS ",
     "Qualidade da Muda": "BOM",
     "Observações": null,
-    "Fazenda": null,
-    "Observações ": null,
-    "Unnamed: 19": null
+    "Fazenda": null
   },
   {
     "ID": "3569820",
@@ -30659,9 +27995,7 @@ window.QUALIDADE_MUDA_DATA = [
     "Responsável": "VITOR AMORIM RAMOS ",
     "Qualidade da Muda": "BOM",
     "Observações": null,
-    "Fazenda": null,
-    "Observações ": null,
-    "Unnamed: 19": null
+    "Fazenda": null
   },
   {
     "ID": "3569814",
@@ -30682,9 +28016,7 @@ window.QUALIDADE_MUDA_DATA = [
     "Responsável": "VITOR AMORIM RAMOS ",
     "Qualidade da Muda": "BOM",
     "Observações": null,
-    "Fazenda": null,
-    "Observações ": null,
-    "Unnamed: 19": null
+    "Fazenda": null
   },
   {
     "ID": "3567580",
@@ -30705,9 +28037,7 @@ window.QUALIDADE_MUDA_DATA = [
     "Responsável": "Leonardo Ribeiro Teixeira da Silva",
     "Qualidade da Muda": "BOM",
     "Observações": null,
-    "Fazenda": null,
-    "Observações ": null,
-    "Unnamed: 19": null
+    "Fazenda": null
   },
   {
     "ID": "3567579",
@@ -30728,9 +28058,7 @@ window.QUALIDADE_MUDA_DATA = [
     "Responsável": "Leonardo Ribeiro Teixeira da Silva",
     "Qualidade da Muda": "BOM",
     "Observações": null,
-    "Fazenda": null,
-    "Observações ": null,
-    "Unnamed: 19": null
+    "Fazenda": null
   },
   {
     "ID": "3568441",
@@ -30751,9 +28079,7 @@ window.QUALIDADE_MUDA_DATA = [
     "Responsável": "MARCELO DE OLIVEIRA JUNIOR",
     "Qualidade da Muda": "BOM",
     "Observações": null,
-    "Fazenda": null,
-    "Observações ": null,
-    "Unnamed: 19": null
+    "Fazenda": null
   },
   {
     "ID": "3568436",
@@ -30774,9 +28100,7 @@ window.QUALIDADE_MUDA_DATA = [
     "Responsável": "MARCELO DE OLIVEIRA JUNIOR",
     "Qualidade da Muda": "BOM",
     "Observações": null,
-    "Fazenda": null,
-    "Observações ": null,
-    "Unnamed: 19": null
+    "Fazenda": null
   },
   {
     "ID": "3567608",
@@ -30797,9 +28121,7 @@ window.QUALIDADE_MUDA_DATA = [
     "Responsável": "VITOR AMORIM RAMOS ",
     "Qualidade da Muda": "BOM",
     "Observações": null,
-    "Fazenda": null,
-    "Observações ": null,
-    "Unnamed: 19": null
+    "Fazenda": null
   },
   {
     "ID": "3567602",
@@ -30820,9 +28142,7 @@ window.QUALIDADE_MUDA_DATA = [
     "Responsável": "VITOR AMORIM RAMOS ",
     "Qualidade da Muda": "BOM",
     "Observações": null,
-    "Fazenda": null,
-    "Observações ": null,
-    "Unnamed: 19": null
+    "Fazenda": null
   },
   {
     "ID": "3567597",
@@ -30843,9 +28163,7 @@ window.QUALIDADE_MUDA_DATA = [
     "Responsável": "VITOR AMORIM RAMOS ",
     "Qualidade da Muda": "BOM",
     "Observações": null,
-    "Fazenda": null,
-    "Observações ": null,
-    "Unnamed: 19": null
+    "Fazenda": null
   },
   {
     "ID": "3567317",
@@ -30866,9 +28184,7 @@ window.QUALIDADE_MUDA_DATA = [
     "Responsável": "Leonardo Ribeiro Teixeira da Silva",
     "Qualidade da Muda": "BOM",
     "Observações": null,
-    "Fazenda": null,
-    "Observações ": null,
-    "Unnamed: 19": null
+    "Fazenda": null
   },
   {
     "ID": "3567316",
@@ -30889,9 +28205,7 @@ window.QUALIDADE_MUDA_DATA = [
     "Responsável": "Leonardo Ribeiro Teixeira da Silva",
     "Qualidade da Muda": "BOM",
     "Observações": null,
-    "Fazenda": null,
-    "Observações ": null,
-    "Unnamed: 19": null
+    "Fazenda": null
   },
   {
     "ID": "3567311",
@@ -30912,9 +28226,7 @@ window.QUALIDADE_MUDA_DATA = [
     "Responsável": "MARCELO DE OLIVEIRA JUNIOR",
     "Qualidade da Muda": "BOM",
     "Observações": null,
-    "Fazenda": null,
-    "Observações ": null,
-    "Unnamed: 19": null
+    "Fazenda": null
   },
   {
     "ID": "3567704",
@@ -30935,9 +28247,7 @@ window.QUALIDADE_MUDA_DATA = [
     "Responsável": "REGINALDO DA SILVA GOMES ",
     "Qualidade da Muda": "BOM",
     "Observações": null,
-    "Fazenda": null,
-    "Observações ": null,
-    "Unnamed: 19": null
+    "Fazenda": null
   },
   {
     "ID": "3567305",
@@ -30958,9 +28268,7 @@ window.QUALIDADE_MUDA_DATA = [
     "Responsável": "MARCELO DE OLIVEIRA JUNIOR",
     "Qualidade da Muda": "BOM",
     "Observações": null,
-    "Fazenda": null,
-    "Observações ": null,
-    "Unnamed: 19": null
+    "Fazenda": null
   },
   {
     "ID": "3567698",
@@ -30981,9 +28289,7 @@ window.QUALIDADE_MUDA_DATA = [
     "Responsável": "REGINALDO DA SILVA GOMES ",
     "Qualidade da Muda": "BOM",
     "Observações": null,
-    "Fazenda": null,
-    "Observações ": null,
-    "Unnamed: 19": null
+    "Fazenda": null
   },
   {
     "ID": "3567729",
@@ -31004,9 +28310,7 @@ window.QUALIDADE_MUDA_DATA = [
     "Responsável": "MICHELI DE SOUZA SANTOS  ",
     "Qualidade da Muda": "BOM",
     "Observações": null,
-    "Fazenda": null,
-    "Observações ": null,
-    "Unnamed: 19": null
+    "Fazenda": null
   },
   {
     "ID": "3567141",
@@ -31027,9 +28331,7 @@ window.QUALIDADE_MUDA_DATA = [
     "Responsável": "VITOR AMORIM RAMOS ",
     "Qualidade da Muda": "BOM",
     "Observações": null,
-    "Fazenda": null,
-    "Observações ": null,
-    "Unnamed: 19": null
+    "Fazenda": null
   },
   {
     "ID": "3567554",
@@ -31050,9 +28352,7 @@ window.QUALIDADE_MUDA_DATA = [
     "Responsável": "MICHELI DE SOUZA SANTOS  ",
     "Qualidade da Muda": "BOM",
     "Observações": null,
-    "Fazenda": null,
-    "Observações ": null,
-    "Unnamed: 19": null
+    "Fazenda": null
   },
   {
     "ID": "3567137",
@@ -31073,9 +28373,7 @@ window.QUALIDADE_MUDA_DATA = [
     "Responsável": "VITOR AMORIM RAMOS ",
     "Qualidade da Muda": "BOM",
     "Observações": null,
-    "Fazenda": null,
-    "Observações ": null,
-    "Unnamed: 19": null
+    "Fazenda": null
   },
   {
     "ID": "3567551",
@@ -31096,9 +28394,7 @@ window.QUALIDADE_MUDA_DATA = [
     "Responsável": "MABILA HELEN D FIGUEIREDO",
     "Qualidade da Muda": "BOM",
     "Observações": null,
-    "Fazenda": null,
-    "Observações ": null,
-    "Unnamed: 19": null
+    "Fazenda": null
   },
   {
     "ID": "3567131",
@@ -31119,9 +28415,7 @@ window.QUALIDADE_MUDA_DATA = [
     "Responsável": "VITOR AMORIM RAMOS ",
     "Qualidade da Muda": "BOM",
     "Observações": null,
-    "Fazenda": null,
-    "Observações ": null,
-    "Unnamed: 19": null
+    "Fazenda": null
   },
   {
     "ID": "3567126",
@@ -31142,9 +28436,7 @@ window.QUALIDADE_MUDA_DATA = [
     "Responsável": "VITOR AMORIM RAMOS ",
     "Qualidade da Muda": "BOM",
     "Observações": null,
-    "Fazenda": null,
-    "Observações ": null,
-    "Unnamed: 19": null
+    "Fazenda": null
   },
   {
     "ID": "3567118",
@@ -31165,9 +28457,7 @@ window.QUALIDADE_MUDA_DATA = [
     "Responsável": "VITOR AMORIM RAMOS ",
     "Qualidade da Muda": "BOM",
     "Observações": null,
-    "Fazenda": null,
-    "Observações ": null,
-    "Unnamed: 19": null
+    "Fazenda": null
   },
   {
     "ID": "3567299",
@@ -31188,9 +28478,7 @@ window.QUALIDADE_MUDA_DATA = [
     "Responsável": "MARCELO DE OLIVEIRA JUNIOR",
     "Qualidade da Muda": "BOM",
     "Observações": null,
-    "Fazenda": null,
-    "Observações ": null,
-    "Unnamed: 19": null
+    "Fazenda": null
   },
   {
     "ID": "3567689",
@@ -31211,9 +28499,7 @@ window.QUALIDADE_MUDA_DATA = [
     "Responsável": "REGINALDO DA SILVA GOMES ",
     "Qualidade da Muda": "BOM",
     "Observações": null,
-    "Fazenda": null,
-    "Observações ": null,
-    "Unnamed: 19": null
+    "Fazenda": null
   },
   {
     "ID": "3567113",
@@ -31234,9 +28520,7 @@ window.QUALIDADE_MUDA_DATA = [
     "Responsável": "VITOR AMORIM RAMOS ",
     "Qualidade da Muda": "BOM",
     "Observações": null,
-    "Fazenda": null,
-    "Observações ": null,
-    "Unnamed: 19": null
+    "Fazenda": null
   },
   {
     "ID": "3567108",
@@ -31257,9 +28541,7 @@ window.QUALIDADE_MUDA_DATA = [
     "Responsável": "VITOR AMORIM RAMOS ",
     "Qualidade da Muda": "BOM",
     "Observações": null,
-    "Fazenda": null,
-    "Observações ": null,
-    "Unnamed: 19": null
+    "Fazenda": null
   },
   {
     "ID": "3567068",
@@ -31280,9 +28562,7 @@ window.QUALIDADE_MUDA_DATA = [
     "Responsável": "NILDA CLAUDINO [2510716]",
     "Qualidade da Muda": "BOM",
     "Observações": null,
-    "Fazenda": null,
-    "Observações ": null,
-    "Unnamed: 19": null
+    "Fazenda": null
   },
   {
     "ID": "3567103",
@@ -31303,9 +28583,7 @@ window.QUALIDADE_MUDA_DATA = [
     "Responsável": "VITOR AMORIM RAMOS ",
     "Qualidade da Muda": "BOM",
     "Observações": null,
-    "Fazenda": null,
-    "Observações ": null,
-    "Unnamed: 19": null
+    "Fazenda": null
   },
   {
     "ID": "3567061",
@@ -31326,9 +28604,7 @@ window.QUALIDADE_MUDA_DATA = [
     "Responsável": "NILDA CLAUDINO [2510716]",
     "Qualidade da Muda": "BOM",
     "Observações": null,
-    "Fazenda": null,
-    "Observações ": null,
-    "Unnamed: 19": null
+    "Fazenda": null
   },
   {
     "ID": "3567098",
@@ -31349,9 +28625,7 @@ window.QUALIDADE_MUDA_DATA = [
     "Responsável": "VITOR AMORIM RAMOS ",
     "Qualidade da Muda": "BOM",
     "Observações": null,
-    "Fazenda": null,
-    "Observações ": null,
-    "Unnamed: 19": null
+    "Fazenda": null
   },
   {
     "ID": "3567057",
@@ -31372,9 +28646,7 @@ window.QUALIDADE_MUDA_DATA = [
     "Responsável": "NILDA CLAUDINO [2510716]",
     "Qualidade da Muda": "BOM",
     "Observações": null,
-    "Fazenda": null,
-    "Observações ": null,
-    "Unnamed: 19": null
+    "Fazenda": null
   },
   {
     "ID": "3567093",
@@ -31395,9 +28667,7 @@ window.QUALIDADE_MUDA_DATA = [
     "Responsável": "VITOR AMORIM RAMOS ",
     "Qualidade da Muda": "BOM",
     "Observações": null,
-    "Fazenda": null,
-    "Observações ": null,
-    "Unnamed: 19": null
+    "Fazenda": null
   },
   {
     "ID": "3565534",
@@ -31418,9 +28688,7 @@ window.QUALIDADE_MUDA_DATA = [
     "Responsável": "MARCELO DE OLIVEIRA JUNIOR",
     "Qualidade da Muda": "BOM",
     "Observações": null,
-    "Fazenda": null,
-    "Observações ": null,
-    "Unnamed: 19": null
+    "Fazenda": null
   },
   {
     "ID": "3565529",
@@ -31441,9 +28709,7 @@ window.QUALIDADE_MUDA_DATA = [
     "Responsável": "MARCELO DE OLIVEIRA JUNIOR",
     "Qualidade da Muda": "BOM",
     "Observações": null,
-    "Fazenda": null,
-    "Observações ": null,
-    "Unnamed: 19": null
+    "Fazenda": null
   },
   {
     "ID": "3565567",
@@ -31464,9 +28730,7 @@ window.QUALIDADE_MUDA_DATA = [
     "Responsável": "GABRIEL HENRIQUE MARTINS PEREIRA",
     "Qualidade da Muda": "BOM",
     "Observações": null,
-    "Fazenda": null,
-    "Observações ": null,
-    "Unnamed: 19": null
+    "Fazenda": null
   },
   {
     "ID": "3565562",
@@ -31487,9 +28751,7 @@ window.QUALIDADE_MUDA_DATA = [
     "Responsável": "GABRIEL HENRIQUE MARTINS PEREIRA",
     "Qualidade da Muda": "BOM",
     "Observações": null,
-    "Fazenda": null,
-    "Observações ": null,
-    "Unnamed: 19": null
+    "Fazenda": null
   },
   {
     "ID": "3565557",
@@ -31510,9 +28772,7 @@ window.QUALIDADE_MUDA_DATA = [
     "Responsável": "GABRIEL HENRIQUE MARTINS PEREIRA",
     "Qualidade da Muda": "BOM",
     "Observações": null,
-    "Fazenda": null,
-    "Observações ": null,
-    "Unnamed: 19": null
+    "Fazenda": null
   },
   {
     "ID": "3565552",
@@ -31533,9 +28793,7 @@ window.QUALIDADE_MUDA_DATA = [
     "Responsável": "GABRIEL HENRIQUE MARTINS PEREIRA",
     "Qualidade da Muda": "BOM",
     "Observações": null,
-    "Fazenda": null,
-    "Observações ": null,
-    "Unnamed: 19": null
+    "Fazenda": null
   },
   {
     "ID": "3562965",
@@ -31556,9 +28814,7 @@ window.QUALIDADE_MUDA_DATA = [
     "Responsável": "GABRIEL HENRIQUE MARTINS PEREIRA",
     "Qualidade da Muda": "BOM",
     "Observações": null,
-    "Fazenda": null,
-    "Observações ": null,
-    "Unnamed: 19": null
+    "Fazenda": null
   },
   {
     "ID": "3562960",
@@ -31579,9 +28835,7 @@ window.QUALIDADE_MUDA_DATA = [
     "Responsável": "GABRIEL HENRIQUE MARTINS PEREIRA",
     "Qualidade da Muda": "BOM",
     "Observações": null,
-    "Fazenda": null,
-    "Observações ": null,
-    "Unnamed: 19": null
+    "Fazenda": null
   },
   {
     "ID": "3562955",
@@ -31602,9 +28856,7 @@ window.QUALIDADE_MUDA_DATA = [
     "Responsável": "GABRIEL HENRIQUE MARTINS PEREIRA",
     "Qualidade da Muda": "BOM",
     "Observações": null,
-    "Fazenda": null,
-    "Observações ": null,
-    "Unnamed: 19": null
+    "Fazenda": null
   },
   {
     "ID": "3560973",
@@ -31625,9 +28877,7 @@ window.QUALIDADE_MUDA_DATA = [
     "Responsável": "VITOR AMORIM RAMOS ",
     "Qualidade da Muda": "BOM",
     "Observações": null,
-    "Fazenda": null,
-    "Observações ": null,
-    "Unnamed: 19": null
+    "Fazenda": null
   },
   {
     "ID": "3560966",
@@ -31648,9 +28898,7 @@ window.QUALIDADE_MUDA_DATA = [
     "Responsável": "VITOR AMORIM RAMOS ",
     "Qualidade da Muda": "BOM",
     "Observações": null,
-    "Fazenda": null,
-    "Observações ": null,
-    "Unnamed: 19": null
+    "Fazenda": null
   },
   {
     "ID": "3560961",
@@ -31671,9 +28919,7 @@ window.QUALIDADE_MUDA_DATA = [
     "Responsável": "VITOR AMORIM RAMOS ",
     "Qualidade da Muda": "BOM",
     "Observações": null,
-    "Fazenda": null,
-    "Observações ": null,
-    "Unnamed: 19": null
+    "Fazenda": null
   },
   {
     "ID": "3560953",
@@ -31694,9 +28940,7 @@ window.QUALIDADE_MUDA_DATA = [
     "Responsável": "VITOR AMORIM RAMOS ",
     "Qualidade da Muda": "BOM",
     "Observações": null,
-    "Fazenda": null,
-    "Observações ": null,
-    "Unnamed: 19": null
+    "Fazenda": null
   },
   {
     "ID": "3560949",
@@ -31717,9 +28961,7 @@ window.QUALIDADE_MUDA_DATA = [
     "Responsável": "VITOR AMORIM RAMOS ",
     "Qualidade da Muda": "BOM",
     "Observações": null,
-    "Fazenda": null,
-    "Observações ": null,
-    "Unnamed: 19": null
+    "Fazenda": null
   },
   {
     "ID": "3560944",
@@ -31740,9 +28982,7 @@ window.QUALIDADE_MUDA_DATA = [
     "Responsável": "VITOR AMORIM RAMOS ",
     "Qualidade da Muda": "BOM",
     "Observações": null,
-    "Fazenda": null,
-    "Observações ": null,
-    "Unnamed: 19": null
+    "Fazenda": null
   },
   {
     "ID": "3560937",
@@ -31763,9 +29003,7 @@ window.QUALIDADE_MUDA_DATA = [
     "Responsável": "VITOR AMORIM RAMOS ",
     "Qualidade da Muda": "BOM",
     "Observações": null,
-    "Fazenda": null,
-    "Observações ": null,
-    "Unnamed: 19": null
+    "Fazenda": null
   },
   {
     "ID": "3560853",
@@ -31786,9 +29024,7 @@ window.QUALIDADE_MUDA_DATA = [
     "Responsável": "Leonardo Ribeiro Teixeira da Silva",
     "Qualidade da Muda": "BOM",
     "Observações": null,
-    "Fazenda": null,
-    "Observações ": null,
-    "Unnamed: 19": null
+    "Fazenda": null
   },
   {
     "ID": "3560933",
@@ -31809,9 +29045,7 @@ window.QUALIDADE_MUDA_DATA = [
     "Responsável": "VITOR AMORIM RAMOS ",
     "Qualidade da Muda": "BOM",
     "Observações": null,
-    "Fazenda": null,
-    "Observações ": null,
-    "Unnamed: 19": null
+    "Fazenda": null
   },
   {
     "ID": "3560852",
@@ -31832,9 +29066,7 @@ window.QUALIDADE_MUDA_DATA = [
     "Responsável": "Leonardo Ribeiro Teixeira da Silva",
     "Qualidade da Muda": "BOM",
     "Observações": null,
-    "Fazenda": null,
-    "Observações ": null,
-    "Unnamed: 19": null
+    "Fazenda": null
   },
   {
     "ID": "3560904",
@@ -31855,9 +29087,7 @@ window.QUALIDADE_MUDA_DATA = [
     "Responsável": "VITOR AMORIM RAMOS ",
     "Qualidade da Muda": "BOM",
     "Observações": null,
-    "Fazenda": null,
-    "Observações ": null,
-    "Unnamed: 19": null
+    "Fazenda": null
   },
   {
     "ID": "3560836",
@@ -31878,9 +29108,7 @@ window.QUALIDADE_MUDA_DATA = [
     "Responsável": "MICHELI DE SOUZA SANTOS  ",
     "Qualidade da Muda": "BOM",
     "Observações": null,
-    "Fazenda": null,
-    "Observações ": null,
-    "Unnamed: 19": null
+    "Fazenda": null
   },
   {
     "ID": "3560835",
@@ -31901,9 +29129,7 @@ window.QUALIDADE_MUDA_DATA = [
     "Responsável": "MICHELI DE SOUZA SANTOS  ",
     "Qualidade da Muda": "BOM",
     "Observações": null,
-    "Fazenda": null,
-    "Observações ": null,
-    "Unnamed: 19": null
+    "Fazenda": null
   },
   {
     "ID": "3560834",
@@ -31924,9 +29150,7 @@ window.QUALIDADE_MUDA_DATA = [
     "Responsável": "MICHELI DE SOUZA SANTOS  ",
     "Qualidade da Muda": "BOM",
     "Observações": null,
-    "Fazenda": null,
-    "Observações ": null,
-    "Unnamed: 19": null
+    "Fazenda": null
   },
   {
     "ID": "3560833",
@@ -31947,9 +29171,7 @@ window.QUALIDADE_MUDA_DATA = [
     "Responsável": "MICHELI DE SOUZA SANTOS  ",
     "Qualidade da Muda": "BOM",
     "Observações": null,
-    "Fazenda": null,
-    "Observações ": null,
-    "Unnamed: 19": null
+    "Fazenda": null
   },
   {
     "ID": "3560899",
@@ -31970,9 +29192,7 @@ window.QUALIDADE_MUDA_DATA = [
     "Responsável": "VITOR AMORIM RAMOS ",
     "Qualidade da Muda": "BOM",
     "Observações": null,
-    "Fazenda": null,
-    "Observações ": null,
-    "Unnamed: 19": null
+    "Fazenda": null
   },
   {
     "ID": "3560730",
@@ -31993,9 +29213,7 @@ window.QUALIDADE_MUDA_DATA = [
     "Responsável": "MARCELO DE OLIVEIRA JUNIOR",
     "Qualidade da Muda": "BOM",
     "Observações": null,
-    "Fazenda": null,
-    "Observações ": null,
-    "Unnamed: 19": null
+    "Fazenda": null
   },
   {
     "ID": "3560499",
@@ -32016,9 +29234,7 @@ window.QUALIDADE_MUDA_DATA = [
     "Responsável": "REGINALDO DA SILVA GOMES ",
     "Qualidade da Muda": "BOM",
     "Observações": null,
-    "Fazenda": null,
-    "Observações ": null,
-    "Unnamed: 19": null
+    "Fazenda": null
   },
   {
     "ID": "3560725",
@@ -32039,9 +29255,7 @@ window.QUALIDADE_MUDA_DATA = [
     "Responsável": "MARCELO DE OLIVEIRA JUNIOR",
     "Qualidade da Muda": "BOM",
     "Observações": null,
-    "Fazenda": null,
-    "Observações ": null,
-    "Unnamed: 19": null
+    "Fazenda": null
   },
   {
     "ID": "3560494",
@@ -32062,9 +29276,7 @@ window.QUALIDADE_MUDA_DATA = [
     "Responsável": "REGINALDO DA SILVA GOMES ",
     "Qualidade da Muda": "BOM",
     "Observações": null,
-    "Fazenda": null,
-    "Observações ": null,
-    "Unnamed: 19": null
+    "Fazenda": null
   },
   {
     "ID": "3560489",
@@ -32085,9 +29297,7 @@ window.QUALIDADE_MUDA_DATA = [
     "Responsável": "REGINALDO DA SILVA GOMES ",
     "Qualidade da Muda": "BOM",
     "Observações": null,
-    "Fazenda": null,
-    "Observações ": null,
-    "Unnamed: 19": null
+    "Fazenda": null
   },
   {
     "ID": "3560720",
@@ -32108,9 +29318,7 @@ window.QUALIDADE_MUDA_DATA = [
     "Responsável": "MARCELO DE OLIVEIRA JUNIOR",
     "Qualidade da Muda": "BOM",
     "Observações": null,
-    "Fazenda": null,
-    "Observações ": null,
-    "Unnamed: 19": null
+    "Fazenda": null
   },
   {
     "ID": "3560715",
@@ -32131,9 +29339,7 @@ window.QUALIDADE_MUDA_DATA = [
     "Responsável": "MARCELO DE OLIVEIRA JUNIOR",
     "Qualidade da Muda": "BOM",
     "Observações": null,
-    "Fazenda": null,
-    "Observações ": null,
-    "Unnamed: 19": null
+    "Fazenda": null
   },
   {
     "ID": "3558529",
@@ -32154,9 +29360,7 @@ window.QUALIDADE_MUDA_DATA = [
     "Responsável": "VITOR AMORIM RAMOS ",
     "Qualidade da Muda": "BOM",
     "Observações": null,
-    "Fazenda": null,
-    "Observações ": null,
-    "Unnamed: 19": null
+    "Fazenda": null
   },
   {
     "ID": "3558525",
@@ -32177,9 +29381,7 @@ window.QUALIDADE_MUDA_DATA = [
     "Responsável": "VITOR AMORIM RAMOS ",
     "Qualidade da Muda": "BOM",
     "Observações": null,
-    "Fazenda": null,
-    "Observações ": null,
-    "Unnamed: 19": null
+    "Fazenda": null
   },
   {
     "ID": "3558519",
@@ -32200,9 +29402,7 @@ window.QUALIDADE_MUDA_DATA = [
     "Responsável": "VITOR AMORIM RAMOS ",
     "Qualidade da Muda": "BOM",
     "Observações": null,
-    "Fazenda": null,
-    "Observações ": null,
-    "Unnamed: 19": null
+    "Fazenda": null
   },
   {
     "ID": "3558514",
@@ -32223,9 +29423,7 @@ window.QUALIDADE_MUDA_DATA = [
     "Responsável": "VITOR AMORIM RAMOS ",
     "Qualidade da Muda": "BOM",
     "Observações": null,
-    "Fazenda": null,
-    "Observações ": null,
-    "Unnamed: 19": null
+    "Fazenda": null
   },
   {
     "ID": "3558582",
@@ -32246,9 +29444,7 @@ window.QUALIDADE_MUDA_DATA = [
     "Responsável": "MARCELO DE OLIVEIRA JUNIOR",
     "Qualidade da Muda": "BOM",
     "Observações": null,
-    "Fazenda": null,
-    "Observações ": null,
-    "Unnamed: 19": null
+    "Fazenda": null
   },
   {
     "ID": "3558508",
@@ -32269,9 +29465,7 @@ window.QUALIDADE_MUDA_DATA = [
     "Responsável": "VITOR AMORIM RAMOS ",
     "Qualidade da Muda": "BOM",
     "Observações": null,
-    "Fazenda": null,
-    "Observações ": null,
-    "Unnamed: 19": null
+    "Fazenda": null
   },
   {
     "ID": "3558307",
@@ -32292,9 +29486,7 @@ window.QUALIDADE_MUDA_DATA = [
     "Responsável": "NILDA CLAUDINO [2510716]",
     "Qualidade da Muda": "BOM",
     "Observações": null,
-    "Fazenda": null,
-    "Observações ": null,
-    "Unnamed: 19": null
+    "Fazenda": null
   },
   {
     "ID": "3558504",
@@ -32315,9 +29507,7 @@ window.QUALIDADE_MUDA_DATA = [
     "Responsável": "VITOR AMORIM RAMOS ",
     "Qualidade da Muda": "BOM",
     "Observações": null,
-    "Fazenda": null,
-    "Observações ": null,
-    "Unnamed: 19": null
+    "Fazenda": null
   },
   {
     "ID": "3558577",
@@ -32338,9 +29528,7 @@ window.QUALIDADE_MUDA_DATA = [
     "Responsável": "MARCELO DE OLIVEIRA JUNIOR",
     "Qualidade da Muda": "BOM",
     "Observações": null,
-    "Fazenda": null,
-    "Observações ": null,
-    "Unnamed: 19": null
+    "Fazenda": null
   },
   {
     "ID": "3558303",
@@ -32361,9 +29549,7 @@ window.QUALIDADE_MUDA_DATA = [
     "Responsável": "NILDA CLAUDINO [2510716]",
     "Qualidade da Muda": "BOM",
     "Observações": null,
-    "Fazenda": null,
-    "Observações ": null,
-    "Unnamed: 19": null
+    "Fazenda": null
   },
   {
     "ID": "3558299",
@@ -32384,9 +29570,7 @@ window.QUALIDADE_MUDA_DATA = [
     "Responsável": "NILDA CLAUDINO [2510716]",
     "Qualidade da Muda": "BOM",
     "Observações": null,
-    "Fazenda": null,
-    "Observações ": null,
-    "Unnamed: 19": null
+    "Fazenda": null
   },
   {
     "ID": "3558294",
@@ -32407,9 +29591,7 @@ window.QUALIDADE_MUDA_DATA = [
     "Responsável": "NILDA CLAUDINO [2510716]",
     "Qualidade da Muda": "BOM",
     "Observações": null,
-    "Fazenda": null,
-    "Observações ": null,
-    "Unnamed: 19": null
+    "Fazenda": null
   },
   {
     "ID": "3558258",
@@ -32430,9 +29612,7 @@ window.QUALIDADE_MUDA_DATA = [
     "Responsável": "GABRIEL HENRIQUE MARTINS PEREIRA",
     "Qualidade da Muda": "BOM",
     "Observações": null,
-    "Fazenda": null,
-    "Observações ": null,
-    "Unnamed: 19": null
+    "Fazenda": null
   },
   {
     "ID": "3558257",
@@ -32453,9 +29633,7 @@ window.QUALIDADE_MUDA_DATA = [
     "Responsável": "GABRIEL HENRIQUE MARTINS PEREIRA",
     "Qualidade da Muda": "BOM",
     "Observações": null,
-    "Fazenda": null,
-    "Observações ": null,
-    "Unnamed: 19": null
+    "Fazenda": null
   },
   {
     "ID": "3558256",
@@ -32476,9 +29654,7 @@ window.QUALIDADE_MUDA_DATA = [
     "Responsável": "GABRIEL HENRIQUE MARTINS PEREIRA",
     "Qualidade da Muda": "BOM",
     "Observações": null,
-    "Fazenda": null,
-    "Observações ": null,
-    "Unnamed: 19": null
+    "Fazenda": null
   },
   {
     "ID": "3560484",
@@ -32499,9 +29675,7 @@ window.QUALIDADE_MUDA_DATA = [
     "Responsável": "REGINALDO DA SILVA GOMES ",
     "Qualidade da Muda": "BOM",
     "Observações": null,
-    "Fazenda": null,
-    "Observações ": null,
-    "Unnamed: 19": null
+    "Fazenda": null
   },
   {
     "ID": "3560479",
@@ -32522,9 +29696,7 @@ window.QUALIDADE_MUDA_DATA = [
     "Responsável": "REGINALDO DA SILVA GOMES ",
     "Qualidade da Muda": "BOM",
     "Observações": null,
-    "Fazenda": null,
-    "Observações ": null,
-    "Unnamed: 19": null
+    "Fazenda": null
   },
   {
     "ID": "3560474",
@@ -32545,9 +29717,7 @@ window.QUALIDADE_MUDA_DATA = [
     "Responsável": "REGINALDO DA SILVA GOMES ",
     "Qualidade da Muda": "BOM",
     "Observações": null,
-    "Fazenda": null,
-    "Observações ": null,
-    "Unnamed: 19": null
+    "Fazenda": null
   },
   {
     "ID": "3558200",
@@ -32568,9 +29738,7 @@ window.QUALIDADE_MUDA_DATA = [
     "Responsável": "MICHELI DE SOUZA SANTOS  ",
     "Qualidade da Muda": "BOM",
     "Observações": null,
-    "Fazenda": null,
-    "Observações ": null,
-    "Unnamed: 19": null
+    "Fazenda": null
   },
   {
     "ID": "3558197",
@@ -32591,9 +29759,7 @@ window.QUALIDADE_MUDA_DATA = [
     "Responsável": "MICHELI DE SOUZA SANTOS  ",
     "Qualidade da Muda": "BOM",
     "Observações": null,
-    "Fazenda": null,
-    "Observações ": null,
-    "Unnamed: 19": null
+    "Fazenda": null
   },
   {
     "ID": "3558146",
@@ -32614,9 +29780,7 @@ window.QUALIDADE_MUDA_DATA = [
     "Responsável": "Leonardo Ribeiro Teixeira da Silva",
     "Qualidade da Muda": "BOM",
     "Observações": null,
-    "Fazenda": null,
-    "Observações ": null,
-    "Unnamed: 19": null
+    "Fazenda": null
   },
   {
     "ID": "3558145",
@@ -32637,9 +29801,7 @@ window.QUALIDADE_MUDA_DATA = [
     "Responsável": "Leonardo Ribeiro Teixeira da Silva",
     "Qualidade da Muda": "BOM",
     "Observações": null,
-    "Fazenda": null,
-    "Observações ": null,
-    "Unnamed: 19": null
+    "Fazenda": null
   },
   {
     "ID": "3558196",
@@ -32660,9 +29822,7 @@ window.QUALIDADE_MUDA_DATA = [
     "Responsável": "MICHELI DE SOUZA SANTOS  ",
     "Qualidade da Muda": "BOM",
     "Observações": null,
-    "Fazenda": null,
-    "Observações ": null,
-    "Unnamed: 19": null
+    "Fazenda": null
   },
   {
     "ID": "3558188",
@@ -32683,9 +29843,7 @@ window.QUALIDADE_MUDA_DATA = [
     "Responsável": "MICHELI DE SOUZA SANTOS  ",
     "Qualidade da Muda": "BOM",
     "Observações": null,
-    "Fazenda": null,
-    "Observações ": null,
-    "Unnamed: 19": null
+    "Fazenda": null
   },
   {
     "ID": "3558564",
@@ -32706,9 +29864,7 @@ window.QUALIDADE_MUDA_DATA = [
     "Responsável": "MARCELO DE OLIVEIRA JUNIOR",
     "Qualidade da Muda": "BOM",
     "Observações": null,
-    "Fazenda": null,
-    "Observações ": null,
-    "Unnamed: 19": null
+    "Fazenda": null
   },
   {
     "ID": "3557973",
@@ -32729,9 +29885,7 @@ window.QUALIDADE_MUDA_DATA = [
     "Responsável": "VITOR AMORIM RAMOS ",
     "Qualidade da Muda": "BOM",
     "Observações": null,
-    "Fazenda": null,
-    "Observações ": null,
-    "Unnamed: 19": null
+    "Fazenda": null
   },
   {
     "ID": "3558558",
@@ -32752,9 +29906,7 @@ window.QUALIDADE_MUDA_DATA = [
     "Responsável": "MARCELO DE OLIVEIRA JUNIOR",
     "Qualidade da Muda": "BOM",
     "Observações": null,
-    "Fazenda": null,
-    "Observações ": null,
-    "Unnamed: 19": null
+    "Fazenda": null
   },
   {
     "ID": "3557951",
@@ -32775,9 +29927,7 @@ window.QUALIDADE_MUDA_DATA = [
     "Responsável": "VITOR AMORIM RAMOS ",
     "Qualidade da Muda": "BOM",
     "Observações": null,
-    "Fazenda": null,
-    "Observações ": null,
-    "Unnamed: 19": null
+    "Fazenda": null
   },
   {
     "ID": "3558551",
@@ -32798,9 +29948,7 @@ window.QUALIDADE_MUDA_DATA = [
     "Responsável": "MARCELO DE OLIVEIRA JUNIOR",
     "Qualidade da Muda": "BOM",
     "Observações": null,
-    "Fazenda": null,
-    "Observações ": null,
-    "Unnamed: 19": null
+    "Fazenda": null
   },
   {
     "ID": "3557946",
@@ -32821,9 +29969,7 @@ window.QUALIDADE_MUDA_DATA = [
     "Responsável": "VITOR AMORIM RAMOS ",
     "Qualidade da Muda": "BOM",
     "Observações": null,
-    "Fazenda": null,
-    "Observações ": null,
-    "Unnamed: 19": null
+    "Fazenda": null
   },
   {
     "ID": "3558546",
@@ -32844,9 +29990,7 @@ window.QUALIDADE_MUDA_DATA = [
     "Responsável": "MARCELO DE OLIVEIRA JUNIOR",
     "Qualidade da Muda": "BOM",
     "Observações": null,
-    "Fazenda": null,
-    "Observações ": null,
-    "Unnamed: 19": null
+    "Fazenda": null
   },
   {
     "ID": "3557941",
@@ -32867,9 +30011,7 @@ window.QUALIDADE_MUDA_DATA = [
     "Responsável": "VITOR AMORIM RAMOS ",
     "Qualidade da Muda": "BOM",
     "Observações": null,
-    "Fazenda": null,
-    "Observações ": null,
-    "Unnamed: 19": null
+    "Fazenda": null
   },
   {
     "ID": "3556228",
@@ -32890,9 +30032,7 @@ window.QUALIDADE_MUDA_DATA = [
     "Responsável": "NILDA CLAUDINO [2510716]",
     "Qualidade da Muda": "BOM",
     "Observações": null,
-    "Fazenda": null,
-    "Observações ": null,
-    "Unnamed: 19": null
+    "Fazenda": null
   },
   {
     "ID": "3556226",
@@ -32913,9 +30053,7 @@ window.QUALIDADE_MUDA_DATA = [
     "Responsável": "NILDA CLAUDINO [2510716]",
     "Qualidade da Muda": "BOM",
     "Observações": null,
-    "Fazenda": null,
-    "Observações ": null,
-    "Unnamed: 19": null
+    "Fazenda": null
   },
   {
     "ID": "3556225",
@@ -32936,9 +30074,7 @@ window.QUALIDADE_MUDA_DATA = [
     "Responsável": "NILDA CLAUDINO [2510716]",
     "Qualidade da Muda": "BOM",
     "Observações": null,
-    "Fazenda": null,
-    "Observações ": null,
-    "Unnamed: 19": null
+    "Fazenda": null
   },
   {
     "ID": "3556224",
@@ -32959,9 +30095,7 @@ window.QUALIDADE_MUDA_DATA = [
     "Responsável": "NILDA CLAUDINO [2510716]",
     "Qualidade da Muda": "BOM",
     "Observações": null,
-    "Fazenda": null,
-    "Observações ": null,
-    "Unnamed: 19": null
+    "Fazenda": null
   },
   {
     "ID": "3556223",
@@ -32982,9 +30116,7 @@ window.QUALIDADE_MUDA_DATA = [
     "Responsável": "NILDA CLAUDINO [2510716]",
     "Qualidade da Muda": "BOM",
     "Observações": null,
-    "Fazenda": null,
-    "Observações ": null,
-    "Unnamed: 19": null
+    "Fazenda": null
   },
   {
     "ID": "3556101",
@@ -33005,9 +30137,7 @@ window.QUALIDADE_MUDA_DATA = [
     "Responsável": "MICHELI DE SOUZA SANTOS  ",
     "Qualidade da Muda": "BOM",
     "Observações": null,
-    "Fazenda": null,
-    "Observações ": null,
-    "Unnamed: 19": null
+    "Fazenda": null
   },
   {
     "ID": "3556095",
@@ -33028,9 +30158,7 @@ window.QUALIDADE_MUDA_DATA = [
     "Responsável": "MABILA HELEN D FIGUEIREDO",
     "Qualidade da Muda": "BOM",
     "Observações": null,
-    "Fazenda": null,
-    "Observações ": null,
-    "Unnamed: 19": null
+    "Fazenda": null
   },
   {
     "ID": "3556179",
@@ -33051,9 +30179,7 @@ window.QUALIDADE_MUDA_DATA = [
     "Responsável": "VITOR AMORIM RAMOS ",
     "Qualidade da Muda": "BOM",
     "Observações": null,
-    "Fazenda": null,
-    "Observações ": null,
-    "Unnamed: 19": null
+    "Fazenda": null
   },
   {
     "ID": "3556174",
@@ -33074,9 +30200,7 @@ window.QUALIDADE_MUDA_DATA = [
     "Responsável": "VITOR AMORIM RAMOS ",
     "Qualidade da Muda": "BOM",
     "Observações": null,
-    "Fazenda": null,
-    "Observações ": null,
-    "Unnamed: 19": null
+    "Fazenda": null
   },
   {
     "ID": "3556287",
@@ -33097,9 +30221,7 @@ window.QUALIDADE_MUDA_DATA = [
     "Responsável": "MARCELO DE OLIVEIRA JUNIOR",
     "Qualidade da Muda": "BOM",
     "Observações": null,
-    "Fazenda": null,
-    "Observações ": null,
-    "Unnamed: 19": null
+    "Fazenda": null
   },
   {
     "ID": "3556164",
@@ -33120,9 +30242,7 @@ window.QUALIDADE_MUDA_DATA = [
     "Responsável": "VITOR AMORIM RAMOS ",
     "Qualidade da Muda": "BOM",
     "Observações": null,
-    "Fazenda": null,
-    "Observações ": null,
-    "Unnamed: 19": null
+    "Fazenda": null
   },
   {
     "ID": "3556156",
@@ -33143,9 +30263,7 @@ window.QUALIDADE_MUDA_DATA = [
     "Responsável": "VITOR AMORIM RAMOS ",
     "Qualidade da Muda": "BOM",
     "Observações": null,
-    "Fazenda": null,
-    "Observações ": null,
-    "Unnamed: 19": null
+    "Fazenda": null
   },
   {
     "ID": "3556280",
@@ -33166,9 +30284,7 @@ window.QUALIDADE_MUDA_DATA = [
     "Responsável": "MARCELO DE OLIVEIRA JUNIOR",
     "Qualidade da Muda": "BOM",
     "Observações": null,
-    "Fazenda": null,
-    "Observações ": null,
-    "Unnamed: 19": null
+    "Fazenda": null
   },
   {
     "ID": "3556081",
@@ -33189,9 +30305,7 @@ window.QUALIDADE_MUDA_DATA = [
     "Responsável": "MICHELI DE SOUZA SANTOS  ",
     "Qualidade da Muda": "BOM",
     "Observações": null,
-    "Fazenda": null,
-    "Observações ": null,
-    "Unnamed: 19": null
+    "Fazenda": null
   },
   {
     "ID": "3555643",
@@ -33212,9 +30326,7 @@ window.QUALIDADE_MUDA_DATA = [
     "Responsável": "VITOR AMORIM RAMOS ",
     "Qualidade da Muda": "BOM",
     "Observações": null,
-    "Fazenda": null,
-    "Observações ": null,
-    "Unnamed: 19": null
+    "Fazenda": null
   },
   {
     "ID": "3556076",
@@ -33235,9 +30347,7 @@ window.QUALIDADE_MUDA_DATA = [
     "Responsável": "MICHELI DE SOUZA SANTOS  ",
     "Qualidade da Muda": "BOM",
     "Observações": null,
-    "Fazenda": null,
-    "Observações ": null,
-    "Unnamed: 19": null
+    "Fazenda": null
   },
   {
     "ID": "3555635",
@@ -33258,9 +30368,7 @@ window.QUALIDADE_MUDA_DATA = [
     "Responsável": "VITOR AMORIM RAMOS ",
     "Qualidade da Muda": "BOM",
     "Observações": null,
-    "Fazenda": null,
-    "Observações ": null,
-    "Unnamed: 19": null
+    "Fazenda": null
   },
   {
     "ID": "3555627",
@@ -33281,9 +30389,7 @@ window.QUALIDADE_MUDA_DATA = [
     "Responsável": "VITOR AMORIM RAMOS ",
     "Qualidade da Muda": "BOM",
     "Observações": null,
-    "Fazenda": null,
-    "Observações ": null,
-    "Unnamed: 19": null
+    "Fazenda": null
   },
   {
     "ID": "3556159",
@@ -33304,9 +30410,7 @@ window.QUALIDADE_MUDA_DATA = [
     "Responsável": "Leonardo Ribeiro Teixeira da Silva",
     "Qualidade da Muda": "BOM",
     "Observações": null,
-    "Fazenda": null,
-    "Observações ": null,
-    "Unnamed: 19": null
+    "Fazenda": null
   },
   {
     "ID": "3556157",
@@ -33327,9 +30431,7 @@ window.QUALIDADE_MUDA_DATA = [
     "Responsável": "Leonardo Ribeiro Teixeira da Silva",
     "Qualidade da Muda": "BOM",
     "Observações": null,
-    "Fazenda": null,
-    "Observações ": null,
-    "Unnamed: 19": null
+    "Fazenda": null
   },
   {
     "ID": "3556154",
@@ -33350,9 +30452,7 @@ window.QUALIDADE_MUDA_DATA = [
     "Responsável": "Leonardo Ribeiro Teixeira da Silva",
     "Qualidade da Muda": "BOM",
     "Observações": null,
-    "Fazenda": null,
-    "Observações ": null,
-    "Unnamed: 19": null
+    "Fazenda": null
   },
   {
     "ID": "3555622",
@@ -33373,9 +30473,7 @@ window.QUALIDADE_MUDA_DATA = [
     "Responsável": "VITOR AMORIM RAMOS ",
     "Qualidade da Muda": "BOM",
     "Observações": null,
-    "Fazenda": null,
-    "Observações ": null,
-    "Unnamed: 19": null
+    "Fazenda": null
   },
   {
     "ID": "3555615",
@@ -33396,9 +30494,7 @@ window.QUALIDADE_MUDA_DATA = [
     "Responsável": "VITOR AMORIM RAMOS ",
     "Qualidade da Muda": "BOM",
     "Observações": null,
-    "Fazenda": null,
-    "Observações ": null,
-    "Unnamed: 19": null
+    "Fazenda": null
   },
   {
     "ID": "3555608",
@@ -33419,9 +30515,7 @@ window.QUALIDADE_MUDA_DATA = [
     "Responsável": "VITOR AMORIM RAMOS ",
     "Qualidade da Muda": "BOM",
     "Observações": null,
-    "Fazenda": null,
-    "Observações ": null,
-    "Unnamed: 19": null
+    "Fazenda": null
   },
   {
     "ID": "3556020",
@@ -33442,9 +30536,7 @@ window.QUALIDADE_MUDA_DATA = [
     "Responsável": "FERNANDA DE SOUZA ",
     "Qualidade da Muda": "BOM",
     "Observações": null,
-    "Fazenda": null,
-    "Observações ": null,
-    "Unnamed: 19": null
+    "Fazenda": null
   },
   {
     "ID": "3556359",
@@ -33465,9 +30557,7 @@ window.QUALIDADE_MUDA_DATA = [
     "Responsável": "REGINALDO DA SILVA GOMES ",
     "Qualidade da Muda": "BOM",
     "Observações": null,
-    "Fazenda": null,
-    "Observações ": null,
-    "Unnamed: 19": null
+    "Fazenda": null
   },
   {
     "ID": "3556261",
@@ -33488,9 +30578,7 @@ window.QUALIDADE_MUDA_DATA = [
     "Responsável": "MARCELO DE OLIVEIRA JUNIOR",
     "Qualidade da Muda": "BOM",
     "Observações": null,
-    "Fazenda": null,
-    "Observações ": null,
-    "Unnamed: 19": null
+    "Fazenda": null
   },
   {
     "ID": "3556355",
@@ -33511,9 +30599,7 @@ window.QUALIDADE_MUDA_DATA = [
     "Responsável": "REGINALDO DA SILVA GOMES ",
     "Qualidade da Muda": "BOM",
     "Observações": null,
-    "Fazenda": null,
-    "Observações ": null,
-    "Unnamed: 19": null
+    "Fazenda": null
   },
   {
     "ID": "3556256",
@@ -33534,9 +30620,7 @@ window.QUALIDADE_MUDA_DATA = [
     "Responsável": "MARCELO DE OLIVEIRA JUNIOR",
     "Qualidade da Muda": "BOM",
     "Observações": null,
-    "Fazenda": null,
-    "Observações ": null,
-    "Unnamed: 19": null
+    "Fazenda": null
   },
   {
     "ID": "3556010",
@@ -33557,9 +30641,7 @@ window.QUALIDADE_MUDA_DATA = [
     "Responsável": "FERNANDA DE SOUZA ",
     "Qualidade da Muda": "BOM",
     "Observações": null,
-    "Fazenda": null,
-    "Observações ": null,
-    "Unnamed: 19": null
+    "Fazenda": null
   },
   {
     "ID": "3555946",
@@ -33580,9 +30662,7 @@ window.QUALIDADE_MUDA_DATA = [
     "Responsável": "GABRIEL HENRIQUE MARTINS PEREIRA",
     "Qualidade da Muda": "BOM",
     "Observações": null,
-    "Fazenda": null,
-    "Observações ": null,
-    "Unnamed: 19": null
+    "Fazenda": null
   },
   {
     "ID": "3556349",
@@ -33603,9 +30683,7 @@ window.QUALIDADE_MUDA_DATA = [
     "Responsável": "REGINALDO DA SILVA GOMES ",
     "Qualidade da Muda": "BOM",
     "Observações": null,
-    "Fazenda": null,
-    "Observações ": null,
-    "Unnamed: 19": null
+    "Fazenda": null
   },
   {
     "ID": "3555939",
@@ -33626,9 +30704,7 @@ window.QUALIDADE_MUDA_DATA = [
     "Responsável": "GABRIEL HENRIQUE MARTINS PEREIRA",
     "Qualidade da Muda": "BOM",
     "Observações": null,
-    "Fazenda": null,
-    "Observações ": null,
-    "Unnamed: 19": null
+    "Fazenda": null
   },
   {
     "ID": "3556005",
@@ -33649,9 +30725,7 @@ window.QUALIDADE_MUDA_DATA = [
     "Responsável": "FERNANDA DE SOUZA ",
     "Qualidade da Muda": "BOM",
     "Observações": null,
-    "Fazenda": null,
-    "Observações ": null,
-    "Unnamed: 19": null
+    "Fazenda": null
   },
   {
     "ID": "3555932",
@@ -33672,9 +30746,7 @@ window.QUALIDADE_MUDA_DATA = [
     "Responsável": "GABRIEL HENRIQUE MARTINS PEREIRA",
     "Qualidade da Muda": "BOM",
     "Observações": null,
-    "Fazenda": null,
-    "Observações ": null,
-    "Unnamed: 19": null
+    "Fazenda": null
   },
   {
     "ID": "3556000",
@@ -33695,9 +30767,7 @@ window.QUALIDADE_MUDA_DATA = [
     "Responsável": "FERNANDA DE SOUZA ",
     "Qualidade da Muda": "BOM",
     "Observações": null,
-    "Fazenda": null,
-    "Observações ": null,
-    "Unnamed: 19": null
+    "Fazenda": null
   },
   {
     "ID": "3555919",
@@ -33718,9 +30788,7 @@ window.QUALIDADE_MUDA_DATA = [
     "Responsável": "GABRIEL HENRIQUE MARTINS PEREIRA",
     "Qualidade da Muda": "BOM",
     "Observações": null,
-    "Fazenda": null,
-    "Observações ": null,
-    "Unnamed: 19": null
+    "Fazenda": null
   },
   {
     "ID": "3555914",
@@ -33741,9 +30809,7 @@ window.QUALIDADE_MUDA_DATA = [
     "Responsável": "GABRIEL HENRIQUE MARTINS PEREIRA",
     "Qualidade da Muda": "BOM",
     "Observações": null,
-    "Fazenda": null,
-    "Observações ": null,
-    "Unnamed: 19": null
+    "Fazenda": null
   },
   {
     "ID": "3556251",
@@ -33764,9 +30830,7 @@ window.QUALIDADE_MUDA_DATA = [
     "Responsável": "MARCELO DE OLIVEIRA JUNIOR",
     "Qualidade da Muda": "BOM",
     "Observações": null,
-    "Fazenda": null,
-    "Observações ": null,
-    "Unnamed: 19": null
+    "Fazenda": null
   },
   {
     "ID": "3556245",
@@ -33787,9 +30851,7 @@ window.QUALIDADE_MUDA_DATA = [
     "Responsável": "MARCELO DE OLIVEIRA JUNIOR",
     "Qualidade da Muda": "BOM",
     "Observações": null,
-    "Fazenda": null,
-    "Observações ": null,
-    "Unnamed: 19": null
+    "Fazenda": null
   },
   {
     "ID": "3556241",
@@ -33810,9 +30872,7 @@ window.QUALIDADE_MUDA_DATA = [
     "Responsável": "MARCELO DE OLIVEIRA JUNIOR",
     "Qualidade da Muda": "BOM",
     "Observações": null,
-    "Fazenda": null,
-    "Observações ": null,
-    "Unnamed: 19": null
+    "Fazenda": null
   },
   {
     "ID": "3553699",
@@ -33833,9 +30893,7 @@ window.QUALIDADE_MUDA_DATA = [
     "Responsável": "MARCELO DE OLIVEIRA JUNIOR",
     "Qualidade da Muda": "BOM",
     "Observações": null,
-    "Fazenda": null,
-    "Observações ": null,
-    "Unnamed: 19": null
+    "Fazenda": null
   },
   {
     "ID": "3553773",
@@ -33856,9 +30914,7 @@ window.QUALIDADE_MUDA_DATA = [
     "Responsável": "FERNANDA DE SOUZA ",
     "Qualidade da Muda": "BOM",
     "Observações": null,
-    "Fazenda": null,
-    "Observações ": null,
-    "Unnamed: 19": null
+    "Fazenda": null
   },
   {
     "ID": "3553692",
@@ -33879,9 +30935,7 @@ window.QUALIDADE_MUDA_DATA = [
     "Responsável": "MARCELO DE OLIVEIRA JUNIOR",
     "Qualidade da Muda": "BOM",
     "Observações": null,
-    "Fazenda": null,
-    "Observações ": null,
-    "Unnamed: 19": null
+    "Fazenda": null
   },
   {
     "ID": "3553723",
@@ -33902,9 +30956,7 @@ window.QUALIDADE_MUDA_DATA = [
     "Responsável": "VITOR AMORIM RAMOS ",
     "Qualidade da Muda": "BOM",
     "Observações": null,
-    "Fazenda": null,
-    "Observações ": null,
-    "Unnamed: 19": null
+    "Fazenda": null
   },
   {
     "ID": "3553687",
@@ -33925,9 +30977,7 @@ window.QUALIDADE_MUDA_DATA = [
     "Responsável": "MARCELO DE OLIVEIRA JUNIOR",
     "Qualidade da Muda": "BOM",
     "Observações": null,
-    "Fazenda": null,
-    "Observações ": null,
-    "Unnamed: 19": null
+    "Fazenda": null
   },
   {
     "ID": "3553718",
@@ -33948,9 +30998,7 @@ window.QUALIDADE_MUDA_DATA = [
     "Responsável": "VITOR AMORIM RAMOS ",
     "Qualidade da Muda": "BOM",
     "Observações": null,
-    "Fazenda": null,
-    "Observações ": null,
-    "Unnamed: 19": null
+    "Fazenda": null
   },
   {
     "ID": "3553713",
@@ -33971,9 +31019,7 @@ window.QUALIDADE_MUDA_DATA = [
     "Responsável": "VITOR AMORIM RAMOS ",
     "Qualidade da Muda": "BOM",
     "Observações": null,
-    "Fazenda": null,
-    "Observações ": null,
-    "Unnamed: 19": null
+    "Fazenda": null
   },
   {
     "ID": "3553572",
@@ -33994,9 +31040,7 @@ window.QUALIDADE_MUDA_DATA = [
     "Responsável": "MICHELI DE SOUZA SANTOS  ",
     "Qualidade da Muda": "BOM",
     "Observações": null,
-    "Fazenda": null,
-    "Observações ": null,
-    "Unnamed: 19": null
+    "Fazenda": null
   },
   {
     "ID": "3553565",
@@ -34017,9 +31061,7 @@ window.QUALIDADE_MUDA_DATA = [
     "Responsável": "MABILA HELEN D FIGUEIREDO",
     "Qualidade da Muda": "BOM",
     "Observações": null,
-    "Fazenda": null,
-    "Observações ": null,
-    "Unnamed: 19": null
+    "Fazenda": null
   },
   {
     "ID": "3553663",
@@ -34040,9 +31082,7 @@ window.QUALIDADE_MUDA_DATA = [
     "Responsável": "Leonardo Ribeiro Teixeira da Silva",
     "Qualidade da Muda": "BOM",
     "Observações": null,
-    "Fazenda": null,
-    "Observações ": null,
-    "Unnamed: 19": null
+    "Fazenda": null
   },
   {
     "ID": "3553662",
@@ -34063,9 +31103,7 @@ window.QUALIDADE_MUDA_DATA = [
     "Responsável": "Leonardo Ribeiro Teixeira da Silva",
     "Qualidade da Muda": "BOM",
     "Observações": null,
-    "Fazenda": null,
-    "Observações ": null,
-    "Unnamed: 19": null
+    "Fazenda": null
   },
   {
     "ID": "3553562",
@@ -34086,9 +31124,7 @@ window.QUALIDADE_MUDA_DATA = [
     "Responsável": "MABILA HELEN D FIGUEIREDO",
     "Qualidade da Muda": "BOM",
     "Observações": null,
-    "Fazenda": null,
-    "Observações ": null,
-    "Unnamed: 19": null
+    "Fazenda": null
   },
   {
     "ID": "3553556",
@@ -34109,9 +31145,7 @@ window.QUALIDADE_MUDA_DATA = [
     "Responsável": "MABILA HELEN D FIGUEIREDO",
     "Qualidade da Muda": "BOM",
     "Observações": null,
-    "Fazenda": null,
-    "Observações ": null,
-    "Unnamed: 19": null
+    "Fazenda": null
   },
   {
     "ID": "3553550",
@@ -34132,9 +31166,7 @@ window.QUALIDADE_MUDA_DATA = [
     "Responsável": "MABILA HELEN D FIGUEIREDO",
     "Qualidade da Muda": "BOM",
     "Observações": null,
-    "Fazenda": null,
-    "Observações ": null,
-    "Unnamed: 19": null
+    "Fazenda": null
   },
   {
     "ID": "3553251",
@@ -34155,9 +31187,7 @@ window.QUALIDADE_MUDA_DATA = [
     "Responsável": "VITOR AMORIM RAMOS ",
     "Qualidade da Muda": "BOM",
     "Observações": null,
-    "Fazenda": null,
-    "Observações ": null,
-    "Unnamed: 19": null
+    "Fazenda": null
   },
   {
     "ID": "3553241",
@@ -34178,9 +31208,7 @@ window.QUALIDADE_MUDA_DATA = [
     "Responsável": "VITOR AMORIM RAMOS ",
     "Qualidade da Muda": "BOM",
     "Observações": null,
-    "Fazenda": null,
-    "Observações ": null,
-    "Unnamed: 19": null
+    "Fazenda": null
   },
   {
     "ID": "3553110",
@@ -34201,9 +31229,7 @@ window.QUALIDADE_MUDA_DATA = [
     "Responsável": "GABRIEL HENRIQUE MARTINS PEREIRA",
     "Qualidade da Muda": "BOM",
     "Observações": null,
-    "Fazenda": null,
-    "Observações ": null,
-    "Unnamed: 19": null
+    "Fazenda": null
   },
   {
     "ID": "3553108",
@@ -34224,9 +31250,7 @@ window.QUALIDADE_MUDA_DATA = [
     "Responsável": "GABRIEL HENRIQUE MARTINS PEREIRA",
     "Qualidade da Muda": "BOM",
     "Observações": null,
-    "Fazenda": null,
-    "Observações ": null,
-    "Unnamed: 19": null
+    "Fazenda": null
   },
   {
     "ID": "3553235",
@@ -34247,9 +31271,7 @@ window.QUALIDADE_MUDA_DATA = [
     "Responsável": "VITOR AMORIM RAMOS ",
     "Qualidade da Muda": "BOM",
     "Observações": null,
-    "Fazenda": null,
-    "Observações ": null,
-    "Unnamed: 19": null
+    "Fazenda": null
   },
   {
     "ID": "3555378",
@@ -34270,9 +31292,7 @@ window.QUALIDADE_MUDA_DATA = [
     "Responsável": "REGINALDO DA SILVA GOMES ",
     "Qualidade da Muda": "BOM",
     "Observações": null,
-    "Fazenda": null,
-    "Observações ": null,
-    "Unnamed: 19": null
+    "Fazenda": null
   },
   {
     "ID": "3555373",
@@ -34293,9 +31313,7 @@ window.QUALIDADE_MUDA_DATA = [
     "Responsável": "REGINALDO DA SILVA GOMES ",
     "Qualidade da Muda": "BOM",
     "Observações": null,
-    "Fazenda": null,
-    "Observações ": null,
-    "Unnamed: 19": null
+    "Fazenda": null
   },
   {
     "ID": "3555368",
@@ -34316,9 +31334,7 @@ window.QUALIDADE_MUDA_DATA = [
     "Responsável": "REGINALDO DA SILVA GOMES ",
     "Qualidade da Muda": "BOM",
     "Observações": null,
-    "Fazenda": null,
-    "Observações ": null,
-    "Unnamed: 19": null
+    "Fazenda": null
   },
   {
     "ID": "3553534",
@@ -34339,9 +31355,7 @@ window.QUALIDADE_MUDA_DATA = [
     "Responsável": "NILDA CLAUDINO [2510716]",
     "Qualidade da Muda": "BOM",
     "Observações": null,
-    "Fazenda": null,
-    "Observações ": null,
-    "Unnamed: 19": null
+    "Fazenda": null
   },
   {
     "ID": "3553766",
@@ -34362,9 +31376,7 @@ window.QUALIDADE_MUDA_DATA = [
     "Responsável": "FERNANDA DE SOUZA ",
     "Qualidade da Muda": "BOM",
     "Observações": null,
-    "Fazenda": null,
-    "Observações ": null,
-    "Unnamed: 19": null
+    "Fazenda": null
   },
   {
     "ID": "3553530",
@@ -34385,9 +31397,7 @@ window.QUALIDADE_MUDA_DATA = [
     "Responsável": "NILDA CLAUDINO [2510716]",
     "Qualidade da Muda": "BOM",
     "Observações": null,
-    "Fazenda": null,
-    "Observações ": null,
-    "Unnamed: 19": null
+    "Fazenda": null
   },
   {
     "ID": "3553758",
@@ -34408,9 +31418,7 @@ window.QUALIDADE_MUDA_DATA = [
     "Responsável": "FERNANDA DE SOUZA ",
     "Qualidade da Muda": "BOM",
     "Observações": null,
-    "Fazenda": null,
-    "Observações ": null,
-    "Unnamed: 19": null
+    "Fazenda": null
   },
   {
     "ID": "3553225",
@@ -34431,9 +31439,7 @@ window.QUALIDADE_MUDA_DATA = [
     "Responsável": "VITOR AMORIM RAMOS ",
     "Qualidade da Muda": "BOM",
     "Observações": null,
-    "Fazenda": null,
-    "Observações ": null,
-    "Unnamed: 19": null
+    "Fazenda": null
   },
   {
     "ID": "3553220",
@@ -34454,9 +31460,7 @@ window.QUALIDADE_MUDA_DATA = [
     "Responsável": "VITOR AMORIM RAMOS ",
     "Qualidade da Muda": "BOM",
     "Observações": null,
-    "Fazenda": null,
-    "Observações ": null,
-    "Unnamed: 19": null
+    "Fazenda": null
   },
   {
     "ID": "3553217",
@@ -34477,9 +31481,7 @@ window.QUALIDADE_MUDA_DATA = [
     "Responsável": "VITOR AMORIM RAMOS ",
     "Qualidade da Muda": "BOM",
     "Observações": null,
-    "Fazenda": null,
-    "Observações ": null,
-    "Unnamed: 19": null
+    "Fazenda": null
   },
   {
     "ID": "3553212",
@@ -34500,9 +31502,7 @@ window.QUALIDADE_MUDA_DATA = [
     "Responsável": "VITOR AMORIM RAMOS ",
     "Qualidade da Muda": "BOM",
     "Observações": null,
-    "Fazenda": null,
-    "Observações ": null,
-    "Unnamed: 19": null
+    "Fazenda": null
   },
   {
     "ID": "3553207",
@@ -34523,9 +31523,7 @@ window.QUALIDADE_MUDA_DATA = [
     "Responsável": "VITOR AMORIM RAMOS ",
     "Qualidade da Muda": "BOM",
     "Observações": null,
-    "Fazenda": null,
-    "Observações ": null,
-    "Unnamed: 19": null
+    "Fazenda": null
   },
   {
     "ID": "3553518",
@@ -34546,9 +31544,7 @@ window.QUALIDADE_MUDA_DATA = [
     "Responsável": "NILDA CLAUDINO [2510716]",
     "Qualidade da Muda": "BOM",
     "Observações": null,
-    "Fazenda": null,
-    "Observações ": null,
-    "Unnamed: 19": null
+    "Fazenda": null
   },
   {
     "ID": "3553202",
@@ -34569,9 +31565,7 @@ window.QUALIDADE_MUDA_DATA = [
     "Responsável": "VITOR AMORIM RAMOS ",
     "Qualidade da Muda": "BOM",
     "Observações": null,
-    "Fazenda": null,
-    "Observações ": null,
-    "Unnamed: 19": null
+    "Fazenda": null
   },
   {
     "ID": "3553198",
@@ -34592,9 +31586,7 @@ window.QUALIDADE_MUDA_DATA = [
     "Responsável": "VITOR AMORIM RAMOS ",
     "Qualidade da Muda": "BOM",
     "Observações": null,
-    "Fazenda": null,
-    "Observações ": null,
-    "Unnamed: 19": null
+    "Fazenda": null
   },
   {
     "ID": "3553514",
@@ -34615,9 +31607,7 @@ window.QUALIDADE_MUDA_DATA = [
     "Responsável": "NILDA CLAUDINO [2510716]",
     "Qualidade da Muda": "BOM",
     "Observações": null,
-    "Fazenda": null,
-    "Observações ": null,
-    "Unnamed: 19": null
+    "Fazenda": null
   },
   {
     "ID": "3553506",
@@ -34638,9 +31628,7 @@ window.QUALIDADE_MUDA_DATA = [
     "Responsável": "NILDA CLAUDINO [2510716]",
     "Qualidade da Muda": "BOM",
     "Observações": null,
-    "Fazenda": null,
-    "Observações ": null,
-    "Unnamed: 19": null
+    "Fazenda": null
   },
   {
     "ID": "3552929",
@@ -34661,9 +31649,7 @@ window.QUALIDADE_MUDA_DATA = [
     "Responsável": "GABRIEL HENRIQUE MARTINS PEREIRA",
     "Qualidade da Muda": "BOM",
     "Observações": null,
-    "Fazenda": null,
-    "Observações ": null,
-    "Unnamed: 19": null
+    "Fazenda": null
   },
   {
     "ID": "3552924",
@@ -34684,9 +31670,7 @@ window.QUALIDADE_MUDA_DATA = [
     "Responsável": "GABRIEL HENRIQUE MARTINS PEREIRA",
     "Qualidade da Muda": "BOM",
     "Observações": null,
-    "Fazenda": null,
-    "Observações ": null,
-    "Unnamed: 19": null
+    "Fazenda": null
   },
   {
     "ID": "3551449",
@@ -34707,9 +31691,7 @@ window.QUALIDADE_MUDA_DATA = [
     "Responsável": "VITOR AMORIM RAMOS ",
     "Qualidade da Muda": "BOM",
     "Observações": null,
-    "Fazenda": null,
-    "Observações ": null,
-    "Unnamed: 19": null
+    "Fazenda": null
   },
   {
     "ID": "3551445",
@@ -34730,9 +31712,7 @@ window.QUALIDADE_MUDA_DATA = [
     "Responsável": "VITOR AMORIM RAMOS ",
     "Qualidade da Muda": "BOM",
     "Observações": null,
-    "Fazenda": null,
-    "Observações ": null,
-    "Unnamed: 19": null
+    "Fazenda": null
   },
   {
     "ID": "3551439",
@@ -34753,9 +31733,7 @@ window.QUALIDADE_MUDA_DATA = [
     "Responsável": "VITOR AMORIM RAMOS ",
     "Qualidade da Muda": "BOM",
     "Observações": null,
-    "Fazenda": null,
-    "Observações ": null,
-    "Unnamed: 19": null
+    "Fazenda": null
   },
   {
     "ID": "3551435",
@@ -34776,9 +31754,7 @@ window.QUALIDADE_MUDA_DATA = [
     "Responsável": "VITOR AMORIM RAMOS ",
     "Qualidade da Muda": "BOM",
     "Observações": null,
-    "Fazenda": null,
-    "Observações ": null,
-    "Unnamed: 19": null
+    "Fazenda": null
   },
   {
     "ID": "3551014",
@@ -34799,9 +31775,7 @@ window.QUALIDADE_MUDA_DATA = [
     "Responsável": "VITOR AMORIM RAMOS ",
     "Qualidade da Muda": "BOM",
     "Observações": null,
-    "Fazenda": null,
-    "Observações ": null,
-    "Unnamed: 19": null
+    "Fazenda": null
   },
   {
     "ID": "3551387",
@@ -34822,9 +31796,7 @@ window.QUALIDADE_MUDA_DATA = [
     "Responsável": "NILDA CLAUDINO [2510716]",
     "Qualidade da Muda": "BOM",
     "Observações": null,
-    "Fazenda": null,
-    "Observações ": null,
-    "Unnamed: 19": null
+    "Fazenda": null
   },
   {
     "ID": "3551007",
@@ -34845,9 +31817,7 @@ window.QUALIDADE_MUDA_DATA = [
     "Responsável": "VITOR AMORIM RAMOS ",
     "Qualidade da Muda": "BOM",
     "Observações": null,
-    "Fazenda": null,
-    "Observações ": null,
-    "Unnamed: 19": null
+    "Fazenda": null
   },
   {
     "ID": "3551381",
@@ -34868,9 +31838,7 @@ window.QUALIDADE_MUDA_DATA = [
     "Responsável": "NILDA CLAUDINO [2510716]",
     "Qualidade da Muda": "BOM",
     "Observações": null,
-    "Fazenda": null,
-    "Observações ": null,
-    "Unnamed: 19": null
+    "Fazenda": null
   },
   {
     "ID": "3551001",
@@ -34891,9 +31859,7 @@ window.QUALIDADE_MUDA_DATA = [
     "Responsável": "VITOR AMORIM RAMOS ",
     "Qualidade da Muda": "BOM",
     "Observações": null,
-    "Fazenda": null,
-    "Observações ": null,
-    "Unnamed: 19": null
+    "Fazenda": null
   },
   {
     "ID": "3551324",
@@ -34914,9 +31880,7 @@ window.QUALIDADE_MUDA_DATA = [
     "Responsável": "MARCELO DE OLIVEIRA JUNIOR",
     "Qualidade da Muda": "BOM",
     "Observações": null,
-    "Fazenda": null,
-    "Observações ": null,
-    "Unnamed: 19": null
+    "Fazenda": null
   },
   {
     "ID": "3550992",
@@ -34937,9 +31901,7 @@ window.QUALIDADE_MUDA_DATA = [
     "Responsável": "VITOR AMORIM RAMOS ",
     "Qualidade da Muda": "BOM",
     "Observações": null,
-    "Fazenda": null,
-    "Observações ": null,
-    "Unnamed: 19": null
+    "Fazenda": null
   },
   {
     "ID": "3551319",
@@ -34960,9 +31922,7 @@ window.QUALIDADE_MUDA_DATA = [
     "Responsável": "MARCELO DE OLIVEIRA JUNIOR",
     "Qualidade da Muda": "BOM",
     "Observações": null,
-    "Fazenda": null,
-    "Observações ": null,
-    "Unnamed: 19": null
+    "Fazenda": null
   },
   {
     "ID": "3550988",
@@ -34983,9 +31943,7 @@ window.QUALIDADE_MUDA_DATA = [
     "Responsável": "VITOR AMORIM RAMOS ",
     "Qualidade da Muda": "BOM",
     "Observações": null,
-    "Fazenda": null,
-    "Observações ": null,
-    "Unnamed: 19": null
+    "Fazenda": null
   },
   {
     "ID": "3551369",
@@ -35006,9 +31964,7 @@ window.QUALIDADE_MUDA_DATA = [
     "Responsável": "NILDA CLAUDINO [2510716]",
     "Qualidade da Muda": "BOM",
     "Observações": null,
-    "Fazenda": null,
-    "Observações ": null,
-    "Unnamed: 19": null
+    "Fazenda": null
   },
   {
     "ID": "3551365",
@@ -35029,9 +31985,7 @@ window.QUALIDADE_MUDA_DATA = [
     "Responsável": "NILDA CLAUDINO [2510716]",
     "Qualidade da Muda": "BOM",
     "Observações": null,
-    "Fazenda": null,
-    "Observações ": null,
-    "Unnamed: 19": null
+    "Fazenda": null
   },
   {
     "ID": "3550983",
@@ -35052,9 +32006,7 @@ window.QUALIDADE_MUDA_DATA = [
     "Responsável": "VITOR AMORIM RAMOS ",
     "Qualidade da Muda": "BOM",
     "Observações": null,
-    "Fazenda": null,
-    "Observações ": null,
-    "Unnamed: 19": null
+    "Fazenda": null
   },
   {
     "ID": "3551314",
@@ -35075,9 +32027,7 @@ window.QUALIDADE_MUDA_DATA = [
     "Responsável": "MARCELO DE OLIVEIRA JUNIOR",
     "Qualidade da Muda": "BOM",
     "Observações": null,
-    "Fazenda": null,
-    "Observações ": null,
-    "Unnamed: 19": null
+    "Fazenda": null
   },
   {
     "ID": "3550979",
@@ -35098,9 +32048,7 @@ window.QUALIDADE_MUDA_DATA = [
     "Responsável": "VITOR AMORIM RAMOS ",
     "Qualidade da Muda": "BOM",
     "Observações": null,
-    "Fazenda": null,
-    "Observações ": null,
-    "Unnamed: 19": null
+    "Fazenda": null
   },
   {
     "ID": "3551309",
@@ -35121,9 +32069,7 @@ window.QUALIDADE_MUDA_DATA = [
     "Responsável": "MARCELO DE OLIVEIRA JUNIOR",
     "Qualidade da Muda": "BOM",
     "Observações": null,
-    "Fazenda": null,
-    "Observações ": null,
-    "Unnamed: 19": null
+    "Fazenda": null
   },
   {
     "ID": "3551361",
@@ -35144,9 +32090,7 @@ window.QUALIDADE_MUDA_DATA = [
     "Responsável": "NILDA CLAUDINO [2510716]",
     "Qualidade da Muda": "BOM",
     "Observações": null,
-    "Fazenda": null,
-    "Observações ": null,
-    "Unnamed: 19": null
+    "Fazenda": null
   },
   {
     "ID": "3551304",
@@ -35167,9 +32111,7 @@ window.QUALIDADE_MUDA_DATA = [
     "Responsável": "MARCELO DE OLIVEIRA JUNIOR",
     "Qualidade da Muda": "BOM",
     "Observações": null,
-    "Fazenda": null,
-    "Observações ": null,
-    "Unnamed: 19": null
+    "Fazenda": null
   },
   {
     "ID": "3551357",
@@ -35190,9 +32132,7 @@ window.QUALIDADE_MUDA_DATA = [
     "Responsável": "NILDA CLAUDINO [2510716]",
     "Qualidade da Muda": "BOM",
     "Observações": null,
-    "Fazenda": null,
-    "Observações ": null,
-    "Unnamed: 19": null
+    "Fazenda": null
   },
   {
     "ID": "3551348",
@@ -35213,9 +32153,7 @@ window.QUALIDADE_MUDA_DATA = [
     "Responsável": "NILDA CLAUDINO [2510716]",
     "Qualidade da Muda": "BOM",
     "Observações": null,
-    "Fazenda": null,
-    "Observações ": null,
-    "Unnamed: 19": null
+    "Fazenda": null
   },
   {
     "ID": "3551341",
@@ -35236,9 +32174,7 @@ window.QUALIDADE_MUDA_DATA = [
     "Responsável": "NILDA CLAUDINO [2510716]",
     "Qualidade da Muda": "BOM",
     "Observações": null,
-    "Fazenda": null,
-    "Observações ": null,
-    "Unnamed: 19": null
+    "Fazenda": null
   },
   {
     "ID": "3549571",
@@ -35259,9 +32195,7 @@ window.QUALIDADE_MUDA_DATA = [
     "Responsável": "MARCELO DE OLIVEIRA JUNIOR",
     "Qualidade da Muda": "BOM",
     "Observações": null,
-    "Fazenda": null,
-    "Observações ": null,
-    "Unnamed: 19": null
+    "Fazenda": null
   },
   {
     "ID": "3549542",
@@ -35282,9 +32216,7 @@ window.QUALIDADE_MUDA_DATA = [
     "Responsável": "MARCELO DE OLIVEIRA JUNIOR",
     "Qualidade da Muda": "BOM",
     "Observações": null,
-    "Fazenda": null,
-    "Observações ": null,
-    "Unnamed: 19": null
+    "Fazenda": null
   },
   {
     "ID": "3549406",
@@ -35305,9 +32237,7 @@ window.QUALIDADE_MUDA_DATA = [
     "Responsável": "NILDA CLAUDINO [2510716]",
     "Qualidade da Muda": "BOM",
     "Observações": null,
-    "Fazenda": null,
-    "Observações ": null,
-    "Unnamed: 19": null
+    "Fazenda": null
   },
   {
     "ID": "3549402",
@@ -35328,9 +32258,7 @@ window.QUALIDADE_MUDA_DATA = [
     "Responsável": "NILDA CLAUDINO [2510716]",
     "Qualidade da Muda": "BOM",
     "Observações": null,
-    "Fazenda": null,
-    "Observações ": null,
-    "Unnamed: 19": null
+    "Fazenda": null
   },
   {
     "ID": "3549591",
@@ -35351,9 +32279,7 @@ window.QUALIDADE_MUDA_DATA = [
     "Responsável": "VITOR AMORIM RAMOS ",
     "Qualidade da Muda": "BOM",
     "Observações": null,
-    "Fazenda": null,
-    "Observações ": null,
-    "Unnamed: 19": null
+    "Fazenda": null
   },
   {
     "ID": "3549573",
@@ -35374,9 +32300,7 @@ window.QUALIDADE_MUDA_DATA = [
     "Responsável": "VITOR AMORIM RAMOS ",
     "Qualidade da Muda": "BOM",
     "Observações": null,
-    "Fazenda": null,
-    "Observações ": null,
-    "Unnamed: 19": null
+    "Fazenda": null
   },
   {
     "ID": "3549572",
@@ -35397,9 +32321,7 @@ window.QUALIDADE_MUDA_DATA = [
     "Responsável": "VITOR AMORIM RAMOS ",
     "Qualidade da Muda": "BOM",
     "Observações": null,
-    "Fazenda": null,
-    "Observações ": null,
-    "Unnamed: 19": null
+    "Fazenda": null
   },
   {
     "ID": "3549570",
@@ -35420,9 +32342,7 @@ window.QUALIDADE_MUDA_DATA = [
     "Responsável": "VITOR AMORIM RAMOS ",
     "Qualidade da Muda": "BOM",
     "Observações": null,
-    "Fazenda": null,
-    "Observações ": null,
-    "Unnamed: 19": null
+    "Fazenda": null
   },
   {
     "ID": "3549569",
@@ -35443,9 +32363,7 @@ window.QUALIDADE_MUDA_DATA = [
     "Responsável": "VITOR AMORIM RAMOS ",
     "Qualidade da Muda": "BOM",
     "Observações": null,
-    "Fazenda": null,
-    "Observações ": null,
-    "Unnamed: 19": null
+    "Fazenda": null
   },
   {
     "ID": "3549568",
@@ -35466,9 +32384,7 @@ window.QUALIDADE_MUDA_DATA = [
     "Responsável": "VITOR AMORIM RAMOS ",
     "Qualidade da Muda": "BOM",
     "Observações": null,
-    "Fazenda": null,
-    "Observações ": null,
-    "Unnamed: 19": null
+    "Fazenda": null
   },
   {
     "ID": "3549635",
@@ -35489,9 +32405,7 @@ window.QUALIDADE_MUDA_DATA = [
     "Responsável": "MICHELI DE SOUZA SANTOS  ",
     "Qualidade da Muda": "BOM",
     "Observações": null,
-    "Fazenda": null,
-    "Observações ": null,
-    "Unnamed: 19": null
+    "Fazenda": null
   },
   {
     "ID": "3549631",
@@ -35512,9 +32426,7 @@ window.QUALIDADE_MUDA_DATA = [
     "Responsável": "MICHELI DE SOUZA SANTOS  ",
     "Qualidade da Muda": "BOM",
     "Observações": null,
-    "Fazenda": null,
-    "Observações ": null,
-    "Unnamed: 19": null
+    "Fazenda": null
   },
   {
     "ID": "3549395",
@@ -35535,9 +32447,7 @@ window.QUALIDADE_MUDA_DATA = [
     "Responsável": "NILDA CLAUDINO [2510716]",
     "Qualidade da Muda": "BOM",
     "Observações": null,
-    "Fazenda": null,
-    "Observações ": null,
-    "Unnamed: 19": null
+    "Fazenda": null
   },
   {
     "ID": "3549182",
@@ -35558,9 +32468,7 @@ window.QUALIDADE_MUDA_DATA = [
     "Responsável": "Leonardo Ribeiro Teixeira da Silva",
     "Qualidade da Muda": "BOM",
     "Observações": null,
-    "Fazenda": null,
-    "Observações ": null,
-    "Unnamed: 19": null
+    "Fazenda": null
   },
   {
     "ID": "3549181",
@@ -35581,9 +32489,7 @@ window.QUALIDADE_MUDA_DATA = [
     "Responsável": "Leonardo Ribeiro Teixeira da Silva",
     "Qualidade da Muda": "BOM",
     "Observações": null,
-    "Fazenda": null,
-    "Observações ": null,
-    "Unnamed: 19": null
+    "Fazenda": null
   },
   {
     "ID": "3549391",
@@ -35604,9 +32510,7 @@ window.QUALIDADE_MUDA_DATA = [
     "Responsável": "NILDA CLAUDINO [2510716]",
     "Qualidade da Muda": "BOM",
     "Observações": null,
-    "Fazenda": null,
-    "Observações ": null,
-    "Unnamed: 19": null
+    "Fazenda": null
   },
   {
     "ID": "3549387",
@@ -35627,9 +32531,7 @@ window.QUALIDADE_MUDA_DATA = [
     "Responsável": "NILDA CLAUDINO [2510716]",
     "Qualidade da Muda": "BOM",
     "Observações": null,
-    "Fazenda": null,
-    "Observações ": null,
-    "Unnamed: 19": null
+    "Fazenda": null
   },
   {
     "ID": "3549225",
@@ -35650,9 +32552,7 @@ window.QUALIDADE_MUDA_DATA = [
     "Responsável": "VITOR AMORIM RAMOS ",
     "Qualidade da Muda": "BOM",
     "Observações": null,
-    "Fazenda": null,
-    "Observações ": null,
-    "Unnamed: 19": null
+    "Fazenda": null
   },
   {
     "ID": "3549623",
@@ -35673,9 +32573,7 @@ window.QUALIDADE_MUDA_DATA = [
     "Responsável": "MICHELI DE SOUZA SANTOS  ",
     "Qualidade da Muda": "BOM",
     "Observações": null,
-    "Fazenda": null,
-    "Observações ": null,
-    "Unnamed: 19": null
+    "Fazenda": null
   },
   {
     "ID": "3549619",
@@ -35696,9 +32594,7 @@ window.QUALIDADE_MUDA_DATA = [
     "Responsável": "MICHELI DE SOUZA SANTOS  ",
     "Qualidade da Muda": "BOM",
     "Observações": null,
-    "Fazenda": null,
-    "Observações ": null,
-    "Unnamed: 19": null
+    "Fazenda": null
   },
   {
     "ID": "3549614",
@@ -35719,9 +32615,7 @@ window.QUALIDADE_MUDA_DATA = [
     "Responsável": "MICHELI DE SOUZA SANTOS  ",
     "Qualidade da Muda": "BOM",
     "Observações": null,
-    "Fazenda": null,
-    "Observações ": null,
-    "Unnamed: 19": null
+    "Fazenda": null
   },
   {
     "ID": "3547661",
@@ -35742,9 +32636,7 @@ window.QUALIDADE_MUDA_DATA = [
     "Responsável": "REGINALDO DA SILVA GOMES ",
     "Qualidade da Muda": "BOM",
     "Observações": null,
-    "Fazenda": null,
-    "Observações ": null,
-    "Unnamed: 19": null
+    "Fazenda": null
   },
   {
     "ID": "3547656",
@@ -35765,9 +32657,7 @@ window.QUALIDADE_MUDA_DATA = [
     "Responsável": "REGINALDO DA SILVA GOMES ",
     "Qualidade da Muda": "BOM",
     "Observações": null,
-    "Fazenda": null,
-    "Observações ": null,
-    "Unnamed: 19": null
+    "Fazenda": null
   },
   {
     "ID": "3547490",
@@ -35788,9 +32678,7 @@ window.QUALIDADE_MUDA_DATA = [
     "Responsável": "Leonardo Ribeiro Teixeira da Silva",
     "Qualidade da Muda": "BOM",
     "Observações": null,
-    "Fazenda": null,
-    "Observações ": null,
-    "Unnamed: 19": null
+    "Fazenda": null
   },
   {
     "ID": "3547489",
@@ -35811,9 +32699,7 @@ window.QUALIDADE_MUDA_DATA = [
     "Responsável": "Leonardo Ribeiro Teixeira da Silva",
     "Qualidade da Muda": "BOM",
     "Observações": null,
-    "Fazenda": null,
-    "Observações ": null,
-    "Unnamed: 19": null
+    "Fazenda": null
   },
   {
     "ID": "3547650",
@@ -35834,9 +32720,7 @@ window.QUALIDADE_MUDA_DATA = [
     "Responsável": "REGINALDO DA SILVA GOMES ",
     "Qualidade da Muda": "BOM",
     "Observações": null,
-    "Fazenda": null,
-    "Observações ": null,
-    "Unnamed: 19": null
+    "Fazenda": null
   },
   {
     "ID": "3547646",
@@ -35857,9 +32741,7 @@ window.QUALIDADE_MUDA_DATA = [
     "Responsável": "REGINALDO DA SILVA GOMES ",
     "Qualidade da Muda": "BOM",
     "Observações": null,
-    "Fazenda": null,
-    "Observações ": null,
-    "Unnamed: 19": null
+    "Fazenda": null
   },
   {
     "ID": "3547428",
@@ -35880,9 +32762,7 @@ window.QUALIDADE_MUDA_DATA = [
     "Responsável": "NILDA CLAUDINO [2510716]",
     "Qualidade da Muda": "BOM",
     "Observações": null,
-    "Fazenda": null,
-    "Observações ": null,
-    "Unnamed: 19": null
+    "Fazenda": null
   },
   {
     "ID": "3547640",
@@ -35903,9 +32783,7 @@ window.QUALIDADE_MUDA_DATA = [
     "Responsável": "REGINALDO DA SILVA GOMES ",
     "Qualidade da Muda": "BOM",
     "Observações": null,
-    "Fazenda": null,
-    "Observações ": null,
-    "Unnamed: 19": null
+    "Fazenda": null
   },
   {
     "ID": "3547425",
@@ -35926,9 +32804,7 @@ window.QUALIDADE_MUDA_DATA = [
     "Responsável": "NILDA CLAUDINO [2510716]",
     "Qualidade da Muda": "BOM",
     "Observações": null,
-    "Fazenda": null,
-    "Observações ": null,
-    "Unnamed: 19": null
+    "Fazenda": null
   },
   {
     "ID": "3547625",
@@ -35949,9 +32825,7 @@ window.QUALIDADE_MUDA_DATA = [
     "Responsável": "REGINALDO DA SILVA GOMES ",
     "Qualidade da Muda": "BOM",
     "Observações": null,
-    "Fazenda": null,
-    "Observações ": null,
-    "Unnamed: 19": null
+    "Fazenda": null
   },
   {
     "ID": "3547620",
@@ -35972,9 +32846,7 @@ window.QUALIDADE_MUDA_DATA = [
     "Responsável": "REGINALDO DA SILVA GOMES ",
     "Qualidade da Muda": "BOM",
     "Observações": null,
-    "Fazenda": null,
-    "Observações ": null,
-    "Unnamed: 19": null
+    "Fazenda": null
   },
   {
     "ID": "3547181",
@@ -35995,9 +32867,7 @@ window.QUALIDADE_MUDA_DATA = [
     "Responsável": "VITOR AMORIM RAMOS ",
     "Qualidade da Muda": "BOM",
     "Observações": null,
-    "Fazenda": null,
-    "Observações ": null,
-    "Unnamed: 19": null
+    "Fazenda": null
   },
   {
     "ID": "3547177",
@@ -36018,9 +32888,7 @@ window.QUALIDADE_MUDA_DATA = [
     "Responsável": "VITOR AMORIM RAMOS ",
     "Qualidade da Muda": "BOM",
     "Observações": null,
-    "Fazenda": null,
-    "Observações ": null,
-    "Unnamed: 19": null
+    "Fazenda": null
   },
   {
     "ID": "3547040",
@@ -36041,9 +32909,7 @@ window.QUALIDADE_MUDA_DATA = [
     "Responsável": "FERNANDA DE SOUZA ",
     "Qualidade da Muda": "BOM",
     "Observações": null,
-    "Fazenda": null,
-    "Observações ": null,
-    "Unnamed: 19": null
+    "Fazenda": null
   },
   {
     "ID": "3547608",
@@ -36064,9 +32930,7 @@ window.QUALIDADE_MUDA_DATA = [
     "Responsável": "REGINALDO DA SILVA GOMES ",
     "Qualidade da Muda": "BOM",
     "Observações": null,
-    "Fazenda": null,
-    "Observações ": null,
-    "Unnamed: 19": null
+    "Fazenda": null
   },
   {
     "ID": "3547172",
@@ -36087,9 +32951,7 @@ window.QUALIDADE_MUDA_DATA = [
     "Responsável": "VITOR AMORIM RAMOS ",
     "Qualidade da Muda": "BOM",
     "Observações": null,
-    "Fazenda": null,
-    "Observações ": null,
-    "Unnamed: 19": null
+    "Fazenda": null
   },
   {
     "ID": "3546932",
@@ -36110,9 +32972,7 @@ window.QUALIDADE_MUDA_DATA = [
     "Responsável": "Leonardo Ribeiro Teixeira da Silva",
     "Qualidade da Muda": "BOM",
     "Observações": null,
-    "Fazenda": null,
-    "Observações ": null,
-    "Unnamed: 19": null
+    "Fazenda": null
   },
   {
     "ID": "3546930",
@@ -36133,9 +32993,7 @@ window.QUALIDADE_MUDA_DATA = [
     "Responsável": "Leonardo Ribeiro Teixeira da Silva",
     "Qualidade da Muda": "BOM",
     "Observações": null,
-    "Fazenda": null,
-    "Observações ": null,
-    "Unnamed: 19": null
+    "Fazenda": null
   },
   {
     "ID": "3547036",
@@ -36156,9 +33014,7 @@ window.QUALIDADE_MUDA_DATA = [
     "Responsável": "FERNANDA DE SOUZA ",
     "Qualidade da Muda": "BOM",
     "Observações": null,
-    "Fazenda": null,
-    "Observações ": null,
-    "Unnamed: 19": null
+    "Fazenda": null
   },
   {
     "ID": "3546929",
@@ -36179,9 +33035,7 @@ window.QUALIDADE_MUDA_DATA = [
     "Responsável": "Leonardo Ribeiro Teixeira da Silva",
     "Qualidade da Muda": "BOM",
     "Observações": null,
-    "Fazenda": null,
-    "Observações ": null,
-    "Unnamed: 19": null
+    "Fazenda": null
   },
   {
     "ID": "3546928",
@@ -36202,9 +33056,7 @@ window.QUALIDADE_MUDA_DATA = [
     "Responsável": "Leonardo Ribeiro Teixeira da Silva",
     "Qualidade da Muda": "BOM",
     "Observações": null,
-    "Fazenda": null,
-    "Observações ": null,
-    "Unnamed: 19": null
+    "Fazenda": null
   },
   {
     "ID": "3547141",
@@ -36225,9 +33077,7 @@ window.QUALIDADE_MUDA_DATA = [
     "Responsável": "VITOR AMORIM RAMOS ",
     "Qualidade da Muda": "BOM",
     "Observações": null,
-    "Fazenda": null,
-    "Observações ": null,
-    "Unnamed: 19": null
+    "Fazenda": null
   },
   {
     "ID": "3547030",
@@ -36248,9 +33098,7 @@ window.QUALIDADE_MUDA_DATA = [
     "Responsável": "FERNANDA DE SOUZA ",
     "Qualidade da Muda": "BOM",
     "Observações": null,
-    "Fazenda": null,
-    "Observações ": null,
-    "Unnamed: 19": null
+    "Fazenda": null
   },
   {
     "ID": "3547135",
@@ -36271,9 +33119,7 @@ window.QUALIDADE_MUDA_DATA = [
     "Responsável": "VITOR AMORIM RAMOS ",
     "Qualidade da Muda": "BOM",
     "Observações": null,
-    "Fazenda": null,
-    "Observações ": null,
-    "Unnamed: 19": null
+    "Fazenda": null
   },
   {
     "ID": "3547131",
@@ -36294,9 +33140,7 @@ window.QUALIDADE_MUDA_DATA = [
     "Responsável": "VITOR AMORIM RAMOS ",
     "Qualidade da Muda": "BOM",
     "Observações": null,
-    "Fazenda": null,
-    "Observações ": null,
-    "Unnamed: 19": null
+    "Fazenda": null
   },
   {
     "ID": "3547126",
@@ -36317,9 +33161,7 @@ window.QUALIDADE_MUDA_DATA = [
     "Responsável": "VITOR AMORIM RAMOS ",
     "Qualidade da Muda": "BOM",
     "Observações": null,
-    "Fazenda": null,
-    "Observações ": null,
-    "Unnamed: 19": null
+    "Fazenda": null
   },
   {
     "ID": "3547120",
@@ -36340,9 +33182,7 @@ window.QUALIDADE_MUDA_DATA = [
     "Responsável": "VITOR AMORIM RAMOS ",
     "Qualidade da Muda": "BOM",
     "Observações": null,
-    "Fazenda": null,
-    "Observações ": null,
-    "Unnamed: 19": null
+    "Fazenda": null
   },
   {
     "ID": "3547115",
@@ -36363,9 +33203,7 @@ window.QUALIDADE_MUDA_DATA = [
     "Responsável": "VITOR AMORIM RAMOS ",
     "Qualidade da Muda": "BOM",
     "Observações": null,
-    "Fazenda": null,
-    "Observações ": null,
-    "Unnamed: 19": null
+    "Fazenda": null
   },
   {
     "ID": "3547110",
@@ -36386,9 +33224,7 @@ window.QUALIDADE_MUDA_DATA = [
     "Responsável": "VITOR AMORIM RAMOS ",
     "Qualidade da Muda": "BOM",
     "Observações": null,
-    "Fazenda": null,
-    "Observações ": null,
-    "Unnamed: 19": null
+    "Fazenda": null
   },
   {
     "ID": "3547300",
@@ -36409,9 +33245,7 @@ window.QUALIDADE_MUDA_DATA = [
     "Responsável": "GABRIEL HENRIQUE MARTINS PEREIRA",
     "Qualidade da Muda": "BOM",
     "Observações": null,
-    "Fazenda": null,
-    "Observações ": null,
-    "Unnamed: 19": null
+    "Fazenda": null
   },
   {
     "ID": "3547295",
@@ -36432,9 +33266,7 @@ window.QUALIDADE_MUDA_DATA = [
     "Responsável": "GABRIEL HENRIQUE MARTINS PEREIRA",
     "Qualidade da Muda": "BOM",
     "Observações": null,
-    "Fazenda": null,
-    "Observações ": null,
-    "Unnamed: 19": null
+    "Fazenda": null
   },
   {
     "ID": "3547290",
@@ -36455,9 +33287,7 @@ window.QUALIDADE_MUDA_DATA = [
     "Responsável": "GABRIEL HENRIQUE MARTINS PEREIRA",
     "Qualidade da Muda": "BOM",
     "Observações": null,
-    "Fazenda": null,
-    "Observações ": null,
-    "Unnamed: 19": null
+    "Fazenda": null
   },
   {
     "ID": "3547278",
@@ -36478,9 +33308,7 @@ window.QUALIDADE_MUDA_DATA = [
     "Responsável": "GABRIEL HENRIQUE MARTINS PEREIRA",
     "Qualidade da Muda": "BOM",
     "Observações": null,
-    "Fazenda": null,
-    "Observações ": null,
-    "Unnamed: 19": null
+    "Fazenda": null
   },
   {
     "ID": "3545053",
@@ -36501,9 +33329,7 @@ window.QUALIDADE_MUDA_DATA = [
     "Responsável": "VITOR AMORIM RAMOS ",
     "Qualidade da Muda": "BOM",
     "Observações": null,
-    "Fazenda": null,
-    "Observações ": null,
-    "Unnamed: 19": null
+    "Fazenda": null
   },
   {
     "ID": "3544776",
@@ -36524,9 +33350,7 @@ window.QUALIDADE_MUDA_DATA = [
     "Responsável": "FERNANDA DE SOUZA ",
     "Qualidade da Muda": "BOM",
     "Observações": null,
-    "Fazenda": null,
-    "Observações ": null,
-    "Unnamed: 19": null
+    "Fazenda": null
   },
   {
     "ID": "3544726",
@@ -36547,9 +33371,7 @@ window.QUALIDADE_MUDA_DATA = [
     "Responsável": "FERNANDA DE SOUZA ",
     "Qualidade da Muda": "BOM",
     "Observações": null,
-    "Fazenda": null,
-    "Observações ": null,
-    "Unnamed: 19": null
+    "Fazenda": null
   },
   {
     "ID": "3544851",
@@ -36570,9 +33392,7 @@ window.QUALIDADE_MUDA_DATA = [
     "Responsável": "NILDA CLAUDINO [2510716]",
     "Qualidade da Muda": "BOM",
     "Observações": null,
-    "Fazenda": null,
-    "Observações ": null,
-    "Unnamed: 19": null
+    "Fazenda": null
   },
   {
     "ID": "3544722",
@@ -36593,9 +33413,7 @@ window.QUALIDADE_MUDA_DATA = [
     "Responsável": "FERNANDA DE SOUZA ",
     "Qualidade da Muda": "BOM",
     "Observações": null,
-    "Fazenda": null,
-    "Observações ": null,
-    "Unnamed: 19": null
+    "Fazenda": null
   },
   {
     "ID": "3544847",
@@ -36616,9 +33434,7 @@ window.QUALIDADE_MUDA_DATA = [
     "Responsável": "NILDA CLAUDINO [2510716]",
     "Qualidade da Muda": "BOM",
     "Observações": null,
-    "Fazenda": null,
-    "Observações ": null,
-    "Unnamed: 19": null
+    "Fazenda": null
   },
   {
     "ID": "3544577",
@@ -36639,9 +33455,7 @@ window.QUALIDADE_MUDA_DATA = [
     "Responsável": "MICHELI DE SOUZA SANTOS  ",
     "Qualidade da Muda": "BOM",
     "Observações": null,
-    "Fazenda": null,
-    "Observações ": null,
-    "Unnamed: 19": null
+    "Fazenda": null
   },
   {
     "ID": "3544576",
@@ -36662,9 +33476,7 @@ window.QUALIDADE_MUDA_DATA = [
     "Responsável": "MICHELI DE SOUZA SANTOS  ",
     "Qualidade da Muda": "BOM",
     "Observações": null,
-    "Fazenda": null,
-    "Observações ": null,
-    "Unnamed: 19": null
+    "Fazenda": null
   },
   {
     "ID": "3544575",
@@ -36685,9 +33497,7 @@ window.QUALIDADE_MUDA_DATA = [
     "Responsável": "MICHELI DE SOUZA SANTOS  ",
     "Qualidade da Muda": "BOM",
     "Observações": null,
-    "Fazenda": null,
-    "Observações ": null,
-    "Unnamed: 19": null
+    "Fazenda": null
   },
   {
     "ID": "3544445",
@@ -36708,9 +33518,7 @@ window.QUALIDADE_MUDA_DATA = [
     "Responsável": "FERNANDA DE SOUZA ",
     "Qualidade da Muda": "BOM",
     "Observações": null,
-    "Fazenda": null,
-    "Observações ": null,
-    "Unnamed: 19": null
+    "Fazenda": null
   },
   {
     "ID": "3544440",
@@ -36731,9 +33539,7 @@ window.QUALIDADE_MUDA_DATA = [
     "Responsável": "FERNANDA DE SOUZA ",
     "Qualidade da Muda": "BOM",
     "Observações": null,
-    "Fazenda": null,
-    "Observações ": null,
-    "Unnamed: 19": null
+    "Fazenda": null
   },
   {
     "ID": "3544862",
@@ -36754,9 +33560,7 @@ window.QUALIDADE_MUDA_DATA = [
     "Responsável": "NILDA CLAUDINO [2510716]",
     "Qualidade da Muda": "BOM",
     "Observações": null,
-    "Fazenda": null,
-    "Observações ": null,
-    "Unnamed: 19": null
+    "Fazenda": null
   },
   {
     "ID": "3544319",
@@ -36777,9 +33581,7 @@ window.QUALIDADE_MUDA_DATA = [
     "Responsável": "REGINALDO DA SILVA GOMES ",
     "Qualidade da Muda": "BOM",
     "Observações": null,
-    "Fazenda": null,
-    "Observações ": null,
-    "Unnamed: 19": null
+    "Fazenda": null
   },
   {
     "ID": "3544859",
@@ -36800,9 +33602,7 @@ window.QUALIDADE_MUDA_DATA = [
     "Responsável": "NILDA CLAUDINO [2510716]",
     "Qualidade da Muda": "BOM",
     "Observações": null,
-    "Fazenda": null,
-    "Observações ": null,
-    "Unnamed: 19": null
+    "Fazenda": null
   },
   {
     "ID": "3544315",
@@ -36823,9 +33623,7 @@ window.QUALIDADE_MUDA_DATA = [
     "Responsável": "REGINALDO DA SILVA GOMES ",
     "Qualidade da Muda": "BOM",
     "Observações": null,
-    "Fazenda": null,
-    "Observações ": null,
-    "Unnamed: 19": null
+    "Fazenda": null
   },
   {
     "ID": "3544855",
@@ -36846,9 +33644,7 @@ window.QUALIDADE_MUDA_DATA = [
     "Responsável": "NILDA CLAUDINO [2510716]",
     "Qualidade da Muda": "BOM",
     "Observações": null,
-    "Fazenda": null,
-    "Observações ": null,
-    "Unnamed: 19": null
+    "Fazenda": null
   },
   {
     "ID": "3545023",
@@ -36869,9 +33665,7 @@ window.QUALIDADE_MUDA_DATA = [
     "Responsável": "VITOR AMORIM RAMOS ",
     "Qualidade da Muda": "BOM",
     "Observações": null,
-    "Fazenda": null,
-    "Observações ": null,
-    "Unnamed: 19": null
+    "Fazenda": null
   },
   {
     "ID": "3544432",
@@ -36892,9 +33686,7 @@ window.QUALIDADE_MUDA_DATA = [
     "Responsável": "FERNANDA DE SOUZA ",
     "Qualidade da Muda": "BOM",
     "Observações": null,
-    "Fazenda": null,
-    "Observações ": null,
-    "Unnamed: 19": null
+    "Fazenda": null
   },
   {
     "ID": "3545018",
@@ -36915,9 +33707,7 @@ window.QUALIDADE_MUDA_DATA = [
     "Responsável": "VITOR AMORIM RAMOS ",
     "Qualidade da Muda": "BOM",
     "Observações": null,
-    "Fazenda": null,
-    "Observações ": null,
-    "Unnamed: 19": null
+    "Fazenda": null
   },
   {
     "ID": "3545013",
@@ -36938,9 +33728,7 @@ window.QUALIDADE_MUDA_DATA = [
     "Responsável": "VITOR AMORIM RAMOS ",
     "Qualidade da Muda": "BOM",
     "Observações": null,
-    "Fazenda": null,
-    "Observações ": null,
-    "Unnamed: 19": null
+    "Fazenda": null
   },
   {
     "ID": "3545002",
@@ -36961,9 +33749,7 @@ window.QUALIDADE_MUDA_DATA = [
     "Responsável": "VITOR AMORIM RAMOS ",
     "Qualidade da Muda": "BOM",
     "Observações": null,
-    "Fazenda": null,
-    "Observações ": null,
-    "Unnamed: 19": null
+    "Fazenda": null
   },
   {
     "ID": "3544624",
@@ -36984,9 +33770,7 @@ window.QUALIDADE_MUDA_DATA = [
     "Responsável": "GABRIEL HENRIQUE MARTINS PEREIRA",
     "Qualidade da Muda": "BOM",
     "Observações": null,
-    "Fazenda": null,
-    "Observações ": null,
-    "Unnamed: 19": null
+    "Fazenda": null
   },
   {
     "ID": "3544996",
@@ -37007,9 +33791,7 @@ window.QUALIDADE_MUDA_DATA = [
     "Responsável": "VITOR AMORIM RAMOS ",
     "Qualidade da Muda": "BOM",
     "Observações": null,
-    "Fazenda": null,
-    "Observações ": null,
-    "Unnamed: 19": null
+    "Fazenda": null
   },
   {
     "ID": "3544914",
@@ -37030,9 +33812,7 @@ window.QUALIDADE_MUDA_DATA = [
     "Responsável": "MARCELO DE OLIVEIRA JUNIOR",
     "Qualidade da Muda": "BOM",
     "Observações": null,
-    "Fazenda": null,
-    "Observações ": null,
-    "Unnamed: 19": null
+    "Fazenda": null
   },
   {
     "ID": "3544619",
@@ -37053,9 +33833,7 @@ window.QUALIDADE_MUDA_DATA = [
     "Responsável": "GABRIEL HENRIQUE MARTINS PEREIRA",
     "Qualidade da Muda": "BOM",
     "Observações": null,
-    "Fazenda": null,
-    "Observações ": null,
-    "Unnamed: 19": null
+    "Fazenda": null
   },
   {
     "ID": "3544279",
@@ -37076,9 +33854,7 @@ window.QUALIDADE_MUDA_DATA = [
     "Responsável": "Leonardo Ribeiro Teixeira da Silva",
     "Qualidade da Muda": "BOM",
     "Observações": null,
-    "Fazenda": null,
-    "Observações ": null,
-    "Unnamed: 19": null
+    "Fazenda": null
   },
   {
     "ID": "3544278",
@@ -37099,9 +33875,7 @@ window.QUALIDADE_MUDA_DATA = [
     "Responsável": "Leonardo Ribeiro Teixeira da Silva",
     "Qualidade da Muda": "BOM",
     "Observações": null,
-    "Fazenda": null,
-    "Observações ": null,
-    "Unnamed: 19": null
+    "Fazenda": null
   },
   {
     "ID": "3544991",
@@ -37122,9 +33896,7 @@ window.QUALIDADE_MUDA_DATA = [
     "Responsável": "VITOR AMORIM RAMOS ",
     "Qualidade da Muda": "BOM",
     "Observações": null,
-    "Fazenda": null,
-    "Observações ": null,
-    "Unnamed: 19": null
+    "Fazenda": null
   },
   {
     "ID": "3544909",
@@ -37145,9 +33917,7 @@ window.QUALIDADE_MUDA_DATA = [
     "Responsável": "MARCELO DE OLIVEIRA JUNIOR",
     "Qualidade da Muda": "BOM",
     "Observações": null,
-    "Fazenda": null,
-    "Observações ": null,
-    "Unnamed: 19": null
+    "Fazenda": null
   },
   {
     "ID": "3544986",
@@ -37168,9 +33938,7 @@ window.QUALIDADE_MUDA_DATA = [
     "Responsável": "VITOR AMORIM RAMOS ",
     "Qualidade da Muda": "BOM",
     "Observações": null,
-    "Fazenda": null,
-    "Observações ": null,
-    "Unnamed: 19": null
+    "Fazenda": null
   },
   {
     "ID": "3544612",
@@ -37191,9 +33959,7 @@ window.QUALIDADE_MUDA_DATA = [
     "Responsável": "GABRIEL HENRIQUE MARTINS PEREIRA",
     "Qualidade da Muda": "BOM",
     "Observações": null,
-    "Fazenda": null,
-    "Observações ": null,
-    "Unnamed: 19": null
+    "Fazenda": null
   },
   {
     "ID": "3544904",
@@ -37214,9 +33980,7 @@ window.QUALIDADE_MUDA_DATA = [
     "Responsável": "MARCELO DE OLIVEIRA JUNIOR",
     "Qualidade da Muda": "BOM",
     "Observações": null,
-    "Fazenda": null,
-    "Observações ": null,
-    "Unnamed: 19": null
+    "Fazenda": null
   },
   {
     "ID": "3544980",
@@ -37237,9 +34001,7 @@ window.QUALIDADE_MUDA_DATA = [
     "Responsável": "VITOR AMORIM RAMOS ",
     "Qualidade da Muda": "BOM",
     "Observações": null,
-    "Fazenda": null,
-    "Observações ": null,
-    "Unnamed: 19": null
+    "Fazenda": null
   },
   {
     "ID": "3544607",
@@ -37260,9 +34022,7 @@ window.QUALIDADE_MUDA_DATA = [
     "Responsável": "GABRIEL HENRIQUE MARTINS PEREIRA",
     "Qualidade da Muda": "BOM",
     "Observações": null,
-    "Fazenda": null,
-    "Observações ": null,
-    "Unnamed: 19": null
+    "Fazenda": null
   },
   {
     "ID": "3544976",
@@ -37283,9 +34043,7 @@ window.QUALIDADE_MUDA_DATA = [
     "Responsável": "VITOR AMORIM RAMOS ",
     "Qualidade da Muda": "BOM",
     "Observações": null,
-    "Fazenda": null,
-    "Observações ": null,
-    "Unnamed: 19": null
+    "Fazenda": null
   },
   {
     "ID": "3542335",
@@ -37306,9 +34064,7 @@ window.QUALIDADE_MUDA_DATA = [
     "Responsável": "NILDA CLAUDINO [2510716]",
     "Qualidade da Muda": "BOM",
     "Observações": null,
-    "Fazenda": null,
-    "Observações ": null,
-    "Unnamed: 19": null
+    "Fazenda": null
   },
   {
     "ID": "3542375",
@@ -37329,9 +34085,7 @@ window.QUALIDADE_MUDA_DATA = [
     "Responsável": "MICHELI DE SOUZA SANTOS  ",
     "Qualidade da Muda": "BOM",
     "Observações": null,
-    "Fazenda": null,
-    "Observações ": null,
-    "Unnamed: 19": null
+    "Fazenda": null
   },
   {
     "ID": "3542331",
@@ -37352,9 +34106,7 @@ window.QUALIDADE_MUDA_DATA = [
     "Responsável": "NILDA CLAUDINO [2510716]",
     "Qualidade da Muda": "BOM",
     "Observações": null,
-    "Fazenda": null,
-    "Observações ": null,
-    "Unnamed: 19": null
+    "Fazenda": null
   },
   {
     "ID": "3542368",
@@ -37375,9 +34127,7 @@ window.QUALIDADE_MUDA_DATA = [
     "Responsável": "MABILA HELEN D FIGUEIREDO",
     "Qualidade da Muda": "BOM",
     "Observações": null,
-    "Fazenda": null,
-    "Observações ": null,
-    "Unnamed: 19": null
+    "Fazenda": null
   },
   {
     "ID": "3542356",
@@ -37398,9 +34148,7 @@ window.QUALIDADE_MUDA_DATA = [
     "Responsável": "MABILA HELEN D FIGUEIREDO",
     "Qualidade da Muda": "BOM",
     "Observações": null,
-    "Fazenda": null,
-    "Observações ": null,
-    "Unnamed: 19": null
+    "Fazenda": null
   },
   {
     "ID": "3542268",
@@ -37421,9 +34169,7 @@ window.QUALIDADE_MUDA_DATA = [
     "Responsável": "MARCELO DE OLIVEIRA JUNIOR",
     "Qualidade da Muda": "BOM",
     "Observações": null,
-    "Fazenda": null,
-    "Observações ": null,
-    "Unnamed: 19": null
+    "Fazenda": null
   },
   {
     "ID": "3542352",
@@ -37444,9 +34190,7 @@ window.QUALIDADE_MUDA_DATA = [
     "Responsável": "MABILA HELEN D FIGUEIREDO",
     "Qualidade da Muda": "BOM",
     "Observações": null,
-    "Fazenda": null,
-    "Observações ": null,
-    "Unnamed: 19": null
+    "Fazenda": null
   },
   {
     "ID": "3541917",
@@ -37467,9 +34211,7 @@ window.QUALIDADE_MUDA_DATA = [
     "Responsável": "Leonardo Ribeiro Teixeira da Silva",
     "Qualidade da Muda": "BOM",
     "Observações": null,
-    "Fazenda": null,
-    "Observações ": null,
-    "Unnamed: 19": null
+    "Fazenda": null
   },
   {
     "ID": "3542263",
@@ -37490,9 +34232,7 @@ window.QUALIDADE_MUDA_DATA = [
     "Responsável": "MARCELO DE OLIVEIRA JUNIOR",
     "Qualidade da Muda": "BOM",
     "Observações": null,
-    "Fazenda": null,
-    "Observações ": null,
-    "Unnamed: 19": null
+    "Fazenda": null
   },
   {
     "ID": "3542258",
@@ -37513,9 +34253,7 @@ window.QUALIDADE_MUDA_DATA = [
     "Responsável": "MARCELO DE OLIVEIRA JUNIOR",
     "Qualidade da Muda": "BOM",
     "Observações": null,
-    "Fazenda": null,
-    "Observações ": null,
-    "Unnamed: 19": null
+    "Fazenda": null
   },
   {
     "ID": "3541898",
@@ -37536,9 +34274,7 @@ window.QUALIDADE_MUDA_DATA = [
     "Responsável": "FERNANDA DE SOUZA ",
     "Qualidade da Muda": "BOM",
     "Observações": null,
-    "Fazenda": null,
-    "Observações ": null,
-    "Unnamed: 19": null
+    "Fazenda": null
   },
   {
     "ID": "3541892",
@@ -37559,9 +34295,7 @@ window.QUALIDADE_MUDA_DATA = [
     "Responsável": "FERNANDA DE SOUZA ",
     "Qualidade da Muda": "BOM",
     "Observações": null,
-    "Fazenda": null,
-    "Observações ": null,
-    "Unnamed: 19": null
+    "Fazenda": null
   },
   {
     "ID": "3542317",
@@ -37582,9 +34316,7 @@ window.QUALIDADE_MUDA_DATA = [
     "Responsável": "NILDA CLAUDINO [2510716]",
     "Qualidade da Muda": "BOM",
     "Observações": null,
-    "Fazenda": null,
-    "Observações ": null,
-    "Unnamed: 19": null
+    "Fazenda": null
   },
   {
     "ID": "3541887",
@@ -37605,9 +34337,7 @@ window.QUALIDADE_MUDA_DATA = [
     "Responsável": "FERNANDA DE SOUZA ",
     "Qualidade da Muda": "BOM",
     "Observações": null,
-    "Fazenda": null,
-    "Observações ": null,
-    "Unnamed: 19": null
+    "Fazenda": null
   },
   {
     "ID": "3542086",
@@ -37628,9 +34358,7 @@ window.QUALIDADE_MUDA_DATA = [
     "Responsável": "GABRIEL HENRIQUE MARTINS PEREIRA",
     "Qualidade da Muda": "BOM",
     "Observações": null,
-    "Fazenda": null,
-    "Observações ": null,
-    "Unnamed: 19": null
+    "Fazenda": null
   },
   {
     "ID": "3542311",
@@ -37651,9 +34379,7 @@ window.QUALIDADE_MUDA_DATA = [
     "Responsável": "NILDA CLAUDINO [2510716]",
     "Qualidade da Muda": "BOM",
     "Observações": null,
-    "Fazenda": null,
-    "Observações ": null,
-    "Unnamed: 19": null
+    "Fazenda": null
   },
   {
     "ID": "3542082",
@@ -37674,9 +34400,7 @@ window.QUALIDADE_MUDA_DATA = [
     "Responsável": "GABRIEL HENRIQUE MARTINS PEREIRA",
     "Qualidade da Muda": "BOM",
     "Observações": null,
-    "Fazenda": null,
-    "Observações ": null,
-    "Unnamed: 19": null
+    "Fazenda": null
   },
   {
     "ID": "3542077",
@@ -37697,9 +34421,7 @@ window.QUALIDADE_MUDA_DATA = [
     "Responsável": "GABRIEL HENRIQUE MARTINS PEREIRA",
     "Qualidade da Muda": "BOM",
     "Observações": null,
-    "Fazenda": null,
-    "Observações ": null,
-    "Unnamed: 19": null
+    "Fazenda": null
   },
   {
     "ID": "3542072",
@@ -37720,9 +34442,7 @@ window.QUALIDADE_MUDA_DATA = [
     "Responsável": "GABRIEL HENRIQUE MARTINS PEREIRA",
     "Qualidade da Muda": "BOM",
     "Observações": null,
-    "Fazenda": null,
-    "Observações ": null,
-    "Unnamed: 19": null
+    "Fazenda": null
   },
   {
     "ID": "3540107",
@@ -37743,9 +34463,7 @@ window.QUALIDADE_MUDA_DATA = [
     "Responsável": "NILDA CLAUDINO [2510716]",
     "Qualidade da Muda": "BOM",
     "Observações": null,
-    "Fazenda": null,
-    "Observações ": null,
-    "Unnamed: 19": null
+    "Fazenda": null
   },
   {
     "ID": "3540664",
@@ -37766,9 +34484,7 @@ window.QUALIDADE_MUDA_DATA = [
     "Responsável": "VITOR AMORIM RAMOS ",
     "Qualidade da Muda": "BOM",
     "Observações": null,
-    "Fazenda": null,
-    "Observações ": null,
-    "Unnamed: 19": null
+    "Fazenda": null
   },
   {
     "ID": "3540633",
@@ -37789,9 +34505,7 @@ window.QUALIDADE_MUDA_DATA = [
     "Responsável": "VITOR AMORIM RAMOS ",
     "Qualidade da Muda": "BOM",
     "Observações": null,
-    "Fazenda": null,
-    "Observações ": null,
-    "Unnamed: 19": null
+    "Fazenda": null
   },
   {
     "ID": "3540103",
@@ -37812,9 +34526,7 @@ window.QUALIDADE_MUDA_DATA = [
     "Responsável": "NILDA CLAUDINO [2510716]",
     "Qualidade da Muda": "BOM",
     "Observações": null,
-    "Fazenda": null,
-    "Observações ": null,
-    "Unnamed: 19": null
+    "Fazenda": null
   },
   {
     "ID": "3540456",
@@ -37835,9 +34547,7 @@ window.QUALIDADE_MUDA_DATA = [
     "Responsável": "VITOR AMORIM RAMOS ",
     "Qualidade da Muda": "BOM",
     "Observações": null,
-    "Fazenda": null,
-    "Observações ": null,
-    "Unnamed: 19": null
+    "Fazenda": null
   },
   {
     "ID": "3540216",
@@ -37858,9 +34568,7 @@ window.QUALIDADE_MUDA_DATA = [
     "Responsável": "FERNANDA DE SOUZA ",
     "Qualidade da Muda": "BOM",
     "Observações": null,
-    "Fazenda": null,
-    "Observações ": null,
-    "Unnamed: 19": null
+    "Fazenda": null
   },
   {
     "ID": "3540099",
@@ -37881,9 +34589,7 @@ window.QUALIDADE_MUDA_DATA = [
     "Responsável": "NILDA CLAUDINO [2510716]",
     "Qualidade da Muda": "BOM",
     "Observações": null,
-    "Fazenda": null,
-    "Observações ": null,
-    "Unnamed: 19": null
+    "Fazenda": null
   },
   {
     "ID": "3540311",
@@ -37904,9 +34610,7 @@ window.QUALIDADE_MUDA_DATA = [
     "Responsável": "VITOR AMORIM RAMOS ",
     "Qualidade da Muda": "BOM",
     "Observações": null,
-    "Fazenda": null,
-    "Observações ": null,
-    "Unnamed: 19": null
+    "Fazenda": null
   },
   {
     "ID": "3540299",
@@ -37927,9 +34631,7 @@ window.QUALIDADE_MUDA_DATA = [
     "Responsável": "VITOR AMORIM RAMOS ",
     "Qualidade da Muda": "BOM",
     "Observações": null,
-    "Fazenda": null,
-    "Observações ": null,
-    "Unnamed: 19": null
+    "Fazenda": null
   },
   {
     "ID": "3540094",
@@ -37950,9 +34652,7 @@ window.QUALIDADE_MUDA_DATA = [
     "Responsável": "NILDA CLAUDINO [2510716]",
     "Qualidade da Muda": "BOM",
     "Observações": null,
-    "Fazenda": null,
-    "Observações ": null,
-    "Unnamed: 19": null
+    "Fazenda": null
   },
   {
     "ID": "3540025",
@@ -37973,9 +34673,7 @@ window.QUALIDADE_MUDA_DATA = [
     "Responsável": "MICHELI DE SOUZA SANTOS  ",
     "Qualidade da Muda": "BOM",
     "Observações": null,
-    "Fazenda": null,
-    "Observações ": null,
-    "Unnamed: 19": null
+    "Fazenda": null
   },
   {
     "ID": "3540019",
@@ -37996,9 +34694,7 @@ window.QUALIDADE_MUDA_DATA = [
     "Responsável": "MICHELI DE SOUZA SANTOS  ",
     "Qualidade da Muda": "BOM",
     "Observações": null,
-    "Fazenda": null,
-    "Observações ": null,
-    "Unnamed: 19": null
+    "Fazenda": null
   },
   {
     "ID": "3540017",
@@ -38019,9 +34715,7 @@ window.QUALIDADE_MUDA_DATA = [
     "Responsável": "MICHELI DE SOUZA SANTOS  ",
     "Qualidade da Muda": "BOM",
     "Observações": null,
-    "Fazenda": null,
-    "Observações ": null,
-    "Unnamed: 19": null
+    "Fazenda": null
   },
   {
     "ID": "3540003",
@@ -38042,9 +34736,7 @@ window.QUALIDADE_MUDA_DATA = [
     "Responsável": "MICHELI DE SOUZA SANTOS  ",
     "Qualidade da Muda": "BOM",
     "Observações": null,
-    "Fazenda": null,
-    "Observações ": null,
-    "Unnamed: 19": null
+    "Fazenda": null
   },
   {
     "ID": "3539995",
@@ -38065,9 +34757,7 @@ window.QUALIDADE_MUDA_DATA = [
     "Responsável": "MICHELI DE SOUZA SANTOS  ",
     "Qualidade da Muda": "BOM",
     "Observações": null,
-    "Fazenda": null,
-    "Observações ": null,
-    "Unnamed: 19": null
+    "Fazenda": null
   },
   {
     "ID": "3539987",
@@ -38088,9 +34778,7 @@ window.QUALIDADE_MUDA_DATA = [
     "Responsável": "MICHELI DE SOUZA SANTOS  ",
     "Qualidade da Muda": "BOM",
     "Observações": null,
-    "Fazenda": null,
-    "Observações ": null,
-    "Unnamed: 19": null
+    "Fazenda": null
   },
   {
     "ID": "3540211",
@@ -38111,9 +34799,7 @@ window.QUALIDADE_MUDA_DATA = [
     "Responsável": "FERNANDA DE SOUZA ",
     "Qualidade da Muda": "BOM",
     "Observações": null,
-    "Fazenda": null,
-    "Observações ": null,
-    "Unnamed: 19": null
+    "Fazenda": null
   },
   {
     "ID": "3540204",
@@ -38134,9 +34820,7 @@ window.QUALIDADE_MUDA_DATA = [
     "Responsável": "FERNANDA DE SOUZA ",
     "Qualidade da Muda": "BOM",
     "Observações": null,
-    "Fazenda": null,
-    "Observações ": null,
-    "Unnamed: 19": null
+    "Fazenda": null
   },
   {
     "ID": "3539586",
@@ -38157,9 +34841,7 @@ window.QUALIDADE_MUDA_DATA = [
     "Responsável": "VITOR AMORIM RAMOS ",
     "Qualidade da Muda": "BOM",
     "Observações": null,
-    "Fazenda": null,
-    "Observações ": null,
-    "Unnamed: 19": null
+    "Fazenda": null
   },
   {
     "ID": "3540198",
@@ -38180,9 +34862,7 @@ window.QUALIDADE_MUDA_DATA = [
     "Responsável": "FERNANDA DE SOUZA ",
     "Qualidade da Muda": "BOM",
     "Observações": null,
-    "Fazenda": null,
-    "Observações ": null,
-    "Unnamed: 19": null
+    "Fazenda": null
   },
   {
     "ID": "3539581",
@@ -38203,9 +34883,7 @@ window.QUALIDADE_MUDA_DATA = [
     "Responsável": "VITOR AMORIM RAMOS ",
     "Qualidade da Muda": "BOM",
     "Observações": null,
-    "Fazenda": null,
-    "Observações ": null,
-    "Unnamed: 19": null
+    "Fazenda": null
   },
   {
     "ID": "3539383",
@@ -38226,9 +34904,7 @@ window.QUALIDADE_MUDA_DATA = [
     "Responsável": "GABRIEL HENRIQUE MARTINS PEREIRA",
     "Qualidade da Muda": "BOM",
     "Observações": null,
-    "Fazenda": null,
-    "Observações ": null,
-    "Unnamed: 19": null
+    "Fazenda": null
   },
   {
     "ID": "3539577",
@@ -38249,9 +34925,7 @@ window.QUALIDADE_MUDA_DATA = [
     "Responsável": "VITOR AMORIM RAMOS ",
     "Qualidade da Muda": "BOM",
     "Observações": null,
-    "Fazenda": null,
-    "Observações ": null,
-    "Unnamed: 19": null
+    "Fazenda": null
   },
   {
     "ID": "3539378",
@@ -38272,9 +34946,7 @@ window.QUALIDADE_MUDA_DATA = [
     "Responsável": "GABRIEL HENRIQUE MARTINS PEREIRA",
     "Qualidade da Muda": "BOM",
     "Observações": null,
-    "Fazenda": null,
-    "Observações ": null,
-    "Unnamed: 19": null
+    "Fazenda": null
   },
   {
     "ID": "3539570",
@@ -38295,9 +34967,7 @@ window.QUALIDADE_MUDA_DATA = [
     "Responsável": "VITOR AMORIM RAMOS ",
     "Qualidade da Muda": "BOM",
     "Observações": null,
-    "Fazenda": null,
-    "Observações ": null,
-    "Unnamed: 19": null
+    "Fazenda": null
   },
   {
     "ID": "3539565",
@@ -38318,9 +34988,7 @@ window.QUALIDADE_MUDA_DATA = [
     "Responsável": "VITOR AMORIM RAMOS ",
     "Qualidade da Muda": "BOM",
     "Observações": null,
-    "Fazenda": null,
-    "Observações ": null,
-    "Unnamed: 19": null
+    "Fazenda": null
   },
   {
     "ID": "3539372",
@@ -38341,9 +35009,7 @@ window.QUALIDADE_MUDA_DATA = [
     "Responsável": "GABRIEL HENRIQUE MARTINS PEREIRA",
     "Qualidade da Muda": "BOM",
     "Observações": null,
-    "Fazenda": null,
-    "Observações ": null,
-    "Unnamed: 19": null
+    "Fazenda": null
   },
   {
     "ID": "3540768",
@@ -38364,9 +35030,7 @@ window.QUALIDADE_MUDA_DATA = [
     "Responsável": "MARCELO DE OLIVEIRA JUNIOR",
     "Qualidade da Muda": "BOM",
     "Observações": null,
-    "Fazenda": null,
-    "Observações ": null,
-    "Unnamed: 19": null
+    "Fazenda": null
   },
   {
     "ID": "3539367",
@@ -38387,9 +35051,7 @@ window.QUALIDADE_MUDA_DATA = [
     "Responsável": "GABRIEL HENRIQUE MARTINS PEREIRA",
     "Qualidade da Muda": "BOM",
     "Observações": null,
-    "Fazenda": null,
-    "Observações ": null,
-    "Unnamed: 19": null
+    "Fazenda": null
   },
   {
     "ID": "3539555",
@@ -38410,9 +35072,7 @@ window.QUALIDADE_MUDA_DATA = [
     "Responsável": "VITOR AMORIM RAMOS ",
     "Qualidade da Muda": "BOM",
     "Observações": null,
-    "Fazenda": null,
-    "Observações ": null,
-    "Unnamed: 19": null
+    "Fazenda": null
   },
   {
     "ID": "3540764",
@@ -38433,9 +35093,7 @@ window.QUALIDADE_MUDA_DATA = [
     "Responsável": "MARCELO DE OLIVEIRA JUNIOR",
     "Qualidade da Muda": "BOM",
     "Observações": null,
-    "Fazenda": null,
-    "Observações ": null,
-    "Unnamed: 19": null
+    "Fazenda": null
   },
   {
     "ID": "3539551",
@@ -38456,9 +35114,7 @@ window.QUALIDADE_MUDA_DATA = [
     "Responsável": "VITOR AMORIM RAMOS ",
     "Qualidade da Muda": "BOM",
     "Observações": null,
-    "Fazenda": null,
-    "Observações ": null,
-    "Unnamed: 19": null
+    "Fazenda": null
   },
   {
     "ID": "3539546",
@@ -38479,9 +35135,7 @@ window.QUALIDADE_MUDA_DATA = [
     "Responsável": "VITOR AMORIM RAMOS ",
     "Qualidade da Muda": "BOM",
     "Observações": null,
-    "Fazenda": null,
-    "Observações ": null,
-    "Unnamed: 19": null
+    "Fazenda": null
   },
   {
     "ID": "3540758",
@@ -38502,9 +35156,7 @@ window.QUALIDADE_MUDA_DATA = [
     "Responsável": "MARCELO DE OLIVEIRA JUNIOR",
     "Qualidade da Muda": "BOM",
     "Observações": null,
-    "Fazenda": null,
-    "Observações ": null,
-    "Unnamed: 19": null
+    "Fazenda": null
   },
   {
     "ID": "3540752",
@@ -38525,9 +35177,7 @@ window.QUALIDADE_MUDA_DATA = [
     "Responsável": "MARCELO DE OLIVEIRA JUNIOR",
     "Qualidade da Muda": "BOM",
     "Observações": null,
-    "Fazenda": null,
-    "Observações ": null,
-    "Unnamed: 19": null
+    "Fazenda": null
   },
   {
     "ID": "3539540",
@@ -38548,9 +35198,7 @@ window.QUALIDADE_MUDA_DATA = [
     "Responsável": "VITOR AMORIM RAMOS ",
     "Qualidade da Muda": "BOM",
     "Observações": null,
-    "Fazenda": null,
-    "Observações ": null,
-    "Unnamed: 19": null
+    "Fazenda": null
   },
   {
     "ID": "3539609",
@@ -38571,9 +35219,7 @@ window.QUALIDADE_MUDA_DATA = [
     "Responsável": "VITOR AMORIM RAMOS ",
     "Qualidade da Muda": "BOM",
     "Observações": null,
-    "Fazenda": null,
-    "Observações ": null,
-    "Unnamed: 19": null
+    "Fazenda": null
   },
   {
     "ID": "3538767",
@@ -38594,9 +35240,7 @@ window.QUALIDADE_MUDA_DATA = [
     "Responsável": "VITOR AMORIM RAMOS ",
     "Qualidade da Muda": "BOM",
     "Observações": null,
-    "Fazenda": null,
-    "Observações ": null,
-    "Unnamed: 19": null
+    "Fazenda": null
   },
   {
     "ID": "3537608",
@@ -38617,9 +35261,7 @@ window.QUALIDADE_MUDA_DATA = [
     "Responsável": "NILDA CLAUDINO [2510716]",
     "Qualidade da Muda": "BOM",
     "Observações": null,
-    "Fazenda": null,
-    "Observações ": null,
-    "Unnamed: 19": null
+    "Fazenda": null
   },
   {
     "ID": "3537985",
@@ -38640,9 +35282,7 @@ window.QUALIDADE_MUDA_DATA = [
     "Responsável": "VITOR AMORIM RAMOS ",
     "Qualidade da Muda": "BOM",
     "Observações": null,
-    "Fazenda": null,
-    "Observações ": null,
-    "Unnamed: 19": null
+    "Fazenda": null
   },
   {
     "ID": "3537611",
@@ -38663,9 +35303,7 @@ window.QUALIDADE_MUDA_DATA = [
     "Responsável": "NILDA CLAUDINO [2510716]",
     "Qualidade da Muda": "BOM",
     "Observações": null,
-    "Fazenda": null,
-    "Observações ": null,
-    "Unnamed: 19": null
+    "Fazenda": null
   },
   {
     "ID": "3537973",
@@ -38686,9 +35324,7 @@ window.QUALIDADE_MUDA_DATA = [
     "Responsável": "VITOR AMORIM RAMOS ",
     "Qualidade da Muda": "BOM",
     "Observações": null,
-    "Fazenda": null,
-    "Observações ": null,
-    "Unnamed: 19": null
+    "Fazenda": null
   },
   {
     "ID": "3538828",
@@ -38709,9 +35345,7 @@ window.QUALIDADE_MUDA_DATA = [
     "Responsável": "MICHELI DE SOUZA SANTOS  ",
     "Qualidade da Muda": "BOM",
     "Observações": null,
-    "Fazenda": null,
-    "Observações ": null,
-    "Unnamed: 19": null
+    "Fazenda": null
   },
   {
     "ID": "3538823",
@@ -38732,9 +35366,7 @@ window.QUALIDADE_MUDA_DATA = [
     "Responsável": "MICHELI DE SOUZA SANTOS  ",
     "Qualidade da Muda": "BOM",
     "Observações": null,
-    "Fazenda": null,
-    "Observações ": null,
-    "Unnamed: 19": null
+    "Fazenda": null
   },
   {
     "ID": "3537948",
@@ -38755,9 +35387,7 @@ window.QUALIDADE_MUDA_DATA = [
     "Responsável": "VITOR AMORIM RAMOS ",
     "Qualidade da Muda": "BOM",
     "Observações": null,
-    "Fazenda": null,
-    "Observações ": null,
-    "Unnamed: 19": null
+    "Fazenda": null
   },
   {
     "ID": "3537594",
@@ -38778,9 +35408,7 @@ window.QUALIDADE_MUDA_DATA = [
     "Responsável": "NILDA CLAUDINO [2510716]",
     "Qualidade da Muda": "BOM",
     "Observações": null,
-    "Fazenda": null,
-    "Observações ": null,
-    "Unnamed: 19": null
+    "Fazenda": null
   },
   {
     "ID": "3538817",
@@ -38801,9 +35429,7 @@ window.QUALIDADE_MUDA_DATA = [
     "Responsável": "MICHELI DE SOUZA SANTOS  ",
     "Qualidade da Muda": "BOM",
     "Observações": null,
-    "Fazenda": null,
-    "Observações ": null,
-    "Unnamed: 19": null
+    "Fazenda": null
   },
   {
     "ID": "3537917",
@@ -38824,9 +35450,7 @@ window.QUALIDADE_MUDA_DATA = [
     "Responsável": "VITOR AMORIM RAMOS ",
     "Qualidade da Muda": "BOM",
     "Observações": null,
-    "Fazenda": null,
-    "Observações ": null,
-    "Unnamed: 19": null
+    "Fazenda": null
   },
   {
     "ID": "3537844",
@@ -38847,9 +35471,7 @@ window.QUALIDADE_MUDA_DATA = [
     "Responsável": "FERNANDA DE SOUZA ",
     "Qualidade da Muda": "BOM",
     "Observações": null,
-    "Fazenda": null,
-    "Observações ": null,
-    "Unnamed: 19": null
+    "Fazenda": null
   },
   {
     "ID": "3537909",
@@ -38870,9 +35492,7 @@ window.QUALIDADE_MUDA_DATA = [
     "Responsável": "VITOR AMORIM RAMOS ",
     "Qualidade da Muda": "BOM",
     "Observações": null,
-    "Fazenda": null,
-    "Observações ": null,
-    "Unnamed: 19": null
+    "Fazenda": null
   },
   {
     "ID": "3538814",
@@ -38893,9 +35513,7 @@ window.QUALIDADE_MUDA_DATA = [
     "Responsável": "MICHELI DE SOUZA SANTOS  ",
     "Qualidade da Muda": "BOM",
     "Observações": null,
-    "Fazenda": null,
-    "Observações ": null,
-    "Unnamed: 19": null
+    "Fazenda": null
   },
   {
     "ID": "3538810",
@@ -38916,9 +35534,7 @@ window.QUALIDADE_MUDA_DATA = [
     "Responsável": "MABILA HELEN D FIGUEIREDO",
     "Qualidade da Muda": "BOM",
     "Observações": null,
-    "Fazenda": null,
-    "Observações ": null,
-    "Unnamed: 19": null
+    "Fazenda": null
   },
   {
     "ID": "3537899",
@@ -38939,9 +35555,7 @@ window.QUALIDADE_MUDA_DATA = [
     "Responsável": "VITOR AMORIM RAMOS ",
     "Qualidade da Muda": "BOM",
     "Observações": null,
-    "Fazenda": null,
-    "Observações ": null,
-    "Unnamed: 19": null
+    "Fazenda": null
   },
   {
     "ID": "3537824",
@@ -38962,9 +35576,7 @@ window.QUALIDADE_MUDA_DATA = [
     "Responsável": "FERNANDA DE SOUZA ",
     "Qualidade da Muda": "BOM",
     "Observações": null,
-    "Fazenda": null,
-    "Observações ": null,
-    "Unnamed: 19": null
+    "Fazenda": null
   },
   {
     "ID": "3537893",
@@ -38985,9 +35597,7 @@ window.QUALIDADE_MUDA_DATA = [
     "Responsável": "VITOR AMORIM RAMOS ",
     "Qualidade da Muda": "BOM",
     "Observações": null,
-    "Fazenda": null,
-    "Observações ": null,
-    "Unnamed: 19": null
+    "Fazenda": null
   },
   {
     "ID": "3537769",
@@ -39008,9 +35618,7 @@ window.QUALIDADE_MUDA_DATA = [
     "Responsável": "MABILA HELEN D FIGUEIREDO",
     "Qualidade da Muda": "BOM",
     "Observações": null,
-    "Fazenda": null,
-    "Observações ": null,
-    "Unnamed: 19": null
+    "Fazenda": null
   },
   {
     "ID": "3537885",
@@ -39031,9 +35639,7 @@ window.QUALIDADE_MUDA_DATA = [
     "Responsável": "VITOR AMORIM RAMOS ",
     "Qualidade da Muda": "BOM",
     "Observações": null,
-    "Fazenda": null,
-    "Observações ": null,
-    "Unnamed: 19": null
+    "Fazenda": null
   },
   {
     "ID": "3537278",
@@ -39054,9 +35660,7 @@ window.QUALIDADE_MUDA_DATA = [
     "Responsável": "NILDA CLAUDINO [2510716]",
     "Qualidade da Muda": "BOM",
     "Observações": null,
-    "Fazenda": null,
-    "Observações ": null,
-    "Unnamed: 19": null
+    "Fazenda": null
   },
   {
     "ID": "3537274",
@@ -39077,9 +35681,7 @@ window.QUALIDADE_MUDA_DATA = [
     "Responsável": "NILDA CLAUDINO [2510716]",
     "Qualidade da Muda": "BOM",
     "Observações": null,
-    "Fazenda": null,
-    "Observações ": null,
-    "Unnamed: 19": null
+    "Fazenda": null
   },
   {
     "ID": "3537802",
@@ -39100,9 +35702,7 @@ window.QUALIDADE_MUDA_DATA = [
     "Responsável": "FERNANDA DE SOUZA ",
     "Qualidade da Muda": "BOM",
     "Observações": null,
-    "Fazenda": null,
-    "Observações ": null,
-    "Unnamed: 19": null
+    "Fazenda": null
   },
   {
     "ID": "3537270",
@@ -39123,9 +35723,7 @@ window.QUALIDADE_MUDA_DATA = [
     "Responsável": "NILDA CLAUDINO [2510716]",
     "Qualidade da Muda": "BOM",
     "Observações": null,
-    "Fazenda": null,
-    "Observações ": null,
-    "Unnamed: 19": null
+    "Fazenda": null
   },
   {
     "ID": "3537248",
@@ -39146,9 +35744,7 @@ window.QUALIDADE_MUDA_DATA = [
     "Responsável": "MARCELO DE OLIVEIRA JUNIOR",
     "Qualidade da Muda": "BOM",
     "Observações": null,
-    "Fazenda": null,
-    "Observações ": null,
-    "Unnamed: 19": null
+    "Fazenda": null
   },
   {
     "ID": "3537261",
@@ -39169,9 +35765,7 @@ window.QUALIDADE_MUDA_DATA = [
     "Responsável": "NILDA CLAUDINO [2510716]",
     "Qualidade da Muda": "BOM",
     "Observações": null,
-    "Fazenda": null,
-    "Observações ": null,
-    "Unnamed: 19": null
+    "Fazenda": null
   },
   {
     "ID": "3537243",
@@ -39192,9 +35786,7 @@ window.QUALIDADE_MUDA_DATA = [
     "Responsável": "MARCELO DE OLIVEIRA JUNIOR",
     "Qualidade da Muda": "BOM",
     "Observações": null,
-    "Fazenda": null,
-    "Observações ": null,
-    "Unnamed: 19": null
+    "Fazenda": null
   },
   {
     "ID": "3537257",
@@ -39215,9 +35807,7 @@ window.QUALIDADE_MUDA_DATA = [
     "Responsável": "NILDA CLAUDINO [2510716]",
     "Qualidade da Muda": "BOM",
     "Observações": null,
-    "Fazenda": null,
-    "Observações ": null,
-    "Unnamed: 19": null
+    "Fazenda": null
   },
   {
     "ID": "3537798",
@@ -39238,9 +35828,7 @@ window.QUALIDADE_MUDA_DATA = [
     "Responsável": "FERNANDA DE SOUZA ",
     "Qualidade da Muda": "BOM",
     "Observações": null,
-    "Fazenda": null,
-    "Observações ": null,
-    "Unnamed: 19": null
+    "Fazenda": null
   },
   {
     "ID": "3537237",
@@ -39261,9 +35849,7 @@ window.QUALIDADE_MUDA_DATA = [
     "Responsável": "MARCELO DE OLIVEIRA JUNIOR",
     "Qualidade da Muda": "BOM",
     "Observações": null,
-    "Fazenda": null,
-    "Observações ": null,
-    "Unnamed: 19": null
+    "Fazenda": null
   },
   {
     "ID": "3537232",
@@ -39284,9 +35870,7 @@ window.QUALIDADE_MUDA_DATA = [
     "Responsável": "MARCELO DE OLIVEIRA JUNIOR",
     "Qualidade da Muda": "BOM",
     "Observações": null,
-    "Fazenda": null,
-    "Observações ": null,
-    "Unnamed: 19": null
+    "Fazenda": null
   },
   {
     "ID": "3537227",
@@ -39307,9 +35891,7 @@ window.QUALIDADE_MUDA_DATA = [
     "Responsável": "MARCELO DE OLIVEIRA JUNIOR",
     "Qualidade da Muda": "BOM",
     "Observações": null,
-    "Fazenda": null,
-    "Observações ": null,
-    "Unnamed: 19": null
+    "Fazenda": null
   },
   {
     "ID": "3537222",
@@ -39330,9 +35912,7 @@ window.QUALIDADE_MUDA_DATA = [
     "Responsável": "MARCELO DE OLIVEIRA JUNIOR",
     "Qualidade da Muda": "BOM",
     "Observações": null,
-    "Fazenda": null,
-    "Observações ": null,
-    "Unnamed: 19": null
+    "Fazenda": null
   },
   {
     "ID": "3535670",
@@ -39353,9 +35933,7 @@ window.QUALIDADE_MUDA_DATA = [
     "Responsável": "NILDA CLAUDINO [2510716]",
     "Qualidade da Muda": "BOM",
     "Observações": null,
-    "Fazenda": null,
-    "Observações ": null,
-    "Unnamed: 19": null
+    "Fazenda": null
   },
   {
     "ID": "3535666",
@@ -39376,9 +35954,7 @@ window.QUALIDADE_MUDA_DATA = [
     "Responsável": "NILDA CLAUDINO [2510716]",
     "Qualidade da Muda": "BOM",
     "Observações": null,
-    "Fazenda": null,
-    "Observações ": null,
-    "Unnamed: 19": null
+    "Fazenda": null
   },
   {
     "ID": "3536049",
@@ -39399,9 +35975,7 @@ window.QUALIDADE_MUDA_DATA = [
     "Responsável": "MARCELO DE OLIVEIRA JUNIOR",
     "Qualidade da Muda": "BOM",
     "Observações": null,
-    "Fazenda": null,
-    "Observações ": null,
-    "Unnamed: 19": null
+    "Fazenda": null
   },
   {
     "ID": "3536043",
@@ -39422,9 +35996,7 @@ window.QUALIDADE_MUDA_DATA = [
     "Responsável": "MARCELO DE OLIVEIRA JUNIOR",
     "Qualidade da Muda": "BOM",
     "Observações": null,
-    "Fazenda": null,
-    "Observações ": null,
-    "Unnamed: 19": null
+    "Fazenda": null
   },
   {
     "ID": "3535661",
@@ -39445,9 +36017,7 @@ window.QUALIDADE_MUDA_DATA = [
     "Responsável": "NILDA CLAUDINO [2510716]",
     "Qualidade da Muda": "BOM",
     "Observações": null,
-    "Fazenda": null,
-    "Observações ": null,
-    "Unnamed: 19": null
+    "Fazenda": null
   },
   {
     "ID": "3536035",
@@ -39468,9 +36038,7 @@ window.QUALIDADE_MUDA_DATA = [
     "Responsável": "MARCELO DE OLIVEIRA JUNIOR",
     "Qualidade da Muda": "BOM",
     "Observações": null,
-    "Fazenda": null,
-    "Observações ": null,
-    "Unnamed: 19": null
+    "Fazenda": null
   },
   {
     "ID": "3535676",
@@ -39491,9 +36059,7 @@ window.QUALIDADE_MUDA_DATA = [
     "Responsável": "GABRIEL HENRIQUE MARTINS PEREIRA",
     "Qualidade da Muda": "BOM",
     "Observações": null,
-    "Fazenda": null,
-    "Observações ": null,
-    "Unnamed: 19": null
+    "Fazenda": null
   },
   {
     "ID": "3536057",
@@ -39514,9 +36080,7 @@ window.QUALIDADE_MUDA_DATA = [
     "Responsável": "MARCELO DE OLIVEIRA JUNIOR",
     "Qualidade da Muda": "BOM",
     "Observações": null,
-    "Fazenda": null,
-    "Observações ": null,
-    "Unnamed: 19": null
+    "Fazenda": null
   },
   {
     "ID": "3535663",
@@ -39537,9 +36101,7 @@ window.QUALIDADE_MUDA_DATA = [
     "Responsável": "GABRIEL HENRIQUE MARTINS PEREIRA",
     "Qualidade da Muda": "BOM",
     "Observações": null,
-    "Fazenda": null,
-    "Observações ": null,
-    "Unnamed: 19": null
+    "Fazenda": null
   },
   {
     "ID": "3536021",
@@ -39560,9 +36122,7 @@ window.QUALIDADE_MUDA_DATA = [
     "Responsável": "MARCELO DE OLIVEIRA JUNIOR",
     "Qualidade da Muda": "BOM",
     "Observações": null,
-    "Fazenda": null,
-    "Observações ": null,
-    "Unnamed: 19": null
+    "Fazenda": null
   },
   {
     "ID": "3536015",
@@ -39583,9 +36143,7 @@ window.QUALIDADE_MUDA_DATA = [
     "Responsável": "MARCELO DE OLIVEIRA JUNIOR",
     "Qualidade da Muda": "BOM",
     "Observações": null,
-    "Fazenda": null,
-    "Observações ": null,
-    "Unnamed: 19": null
+    "Fazenda": null
   },
   {
     "ID": "3535650",
@@ -39606,9 +36164,7 @@ window.QUALIDADE_MUDA_DATA = [
     "Responsável": "GABRIEL HENRIQUE MARTINS PEREIRA",
     "Qualidade da Muda": "BOM",
     "Observações": null,
-    "Fazenda": null,
-    "Observações ": null,
-    "Unnamed: 19": null
+    "Fazenda": null
   },
   {
     "ID": "3537139",
@@ -39629,9 +36185,7 @@ window.QUALIDADE_MUDA_DATA = [
     "Responsável": "VITOR AMORIM RAMOS ",
     "Qualidade da Muda": "BOM",
     "Observações": null,
-    "Fazenda": null,
-    "Observações ": null,
-    "Unnamed: 19": null
+    "Fazenda": null
   },
   {
     "ID": "3537135",
@@ -39652,9 +36206,7 @@ window.QUALIDADE_MUDA_DATA = [
     "Responsável": "VITOR AMORIM RAMOS ",
     "Qualidade da Muda": "BOM",
     "Observações": null,
-    "Fazenda": null,
-    "Observações ": null,
-    "Unnamed: 19": null
+    "Fazenda": null
   },
   {
     "ID": "3537131",
@@ -39675,9 +36227,7 @@ window.QUALIDADE_MUDA_DATA = [
     "Responsável": "VITOR AMORIM RAMOS ",
     "Qualidade da Muda": "BOM",
     "Observações": null,
-    "Fazenda": null,
-    "Observações ": null,
-    "Unnamed: 19": null
+    "Fazenda": null
   },
   {
     "ID": "3537108",
@@ -39698,9 +36248,7 @@ window.QUALIDADE_MUDA_DATA = [
     "Responsável": "VITOR AMORIM RAMOS ",
     "Qualidade da Muda": "BOM",
     "Observações": null,
-    "Fazenda": null,
-    "Observações ": null,
-    "Unnamed: 19": null
+    "Fazenda": null
   },
   {
     "ID": "3537107",
@@ -39721,9 +36269,7 @@ window.QUALIDADE_MUDA_DATA = [
     "Responsável": "VITOR AMORIM RAMOS ",
     "Qualidade da Muda": "BOM",
     "Observações": null,
-    "Fazenda": null,
-    "Observações ": null,
-    "Unnamed: 19": null
+    "Fazenda": null
   },
   {
     "ID": "3537106",
@@ -39744,9 +36290,7 @@ window.QUALIDADE_MUDA_DATA = [
     "Responsável": "VITOR AMORIM RAMOS ",
     "Qualidade da Muda": "BOM",
     "Observações": null,
-    "Fazenda": null,
-    "Observações ": null,
-    "Unnamed: 19": null
+    "Fazenda": null
   },
   {
     "ID": "3535400",
@@ -39767,9 +36311,7 @@ window.QUALIDADE_MUDA_DATA = [
     "Responsável": "VITOR AMORIM RAMOS ",
     "Qualidade da Muda": "BOM",
     "Observações": null,
-    "Fazenda": null,
-    "Observações ": null,
-    "Unnamed: 19": null
+    "Fazenda": null
   },
   {
     "ID": "3537091",
@@ -39790,9 +36332,7 @@ window.QUALIDADE_MUDA_DATA = [
     "Responsável": "VITOR AMORIM RAMOS ",
     "Qualidade da Muda": "BOM",
     "Observações": null,
-    "Fazenda": null,
-    "Observações ": null,
-    "Unnamed: 19": null
+    "Fazenda": null
   },
   {
     "ID": "3535392",
@@ -39813,9 +36353,7 @@ window.QUALIDADE_MUDA_DATA = [
     "Responsável": "VITOR AMORIM RAMOS ",
     "Qualidade da Muda": "BOM",
     "Observações": null,
-    "Fazenda": null,
-    "Observações ": null,
-    "Unnamed: 19": null
+    "Fazenda": null
   },
   {
     "ID": "3535386",
@@ -39836,9 +36374,7 @@ window.QUALIDADE_MUDA_DATA = [
     "Responsável": "VITOR AMORIM RAMOS ",
     "Qualidade da Muda": "BOM",
     "Observações": null,
-    "Fazenda": null,
-    "Observações ": null,
-    "Unnamed: 19": null
+    "Fazenda": null
   },
   {
     "ID": "3534248",
@@ -39859,9 +36395,7 @@ window.QUALIDADE_MUDA_DATA = [
     "Responsável": "FERNANDA DE SOUZA ",
     "Qualidade da Muda": "BOM",
     "Observações": null,
-    "Fazenda": null,
-    "Observações ": null,
-    "Unnamed: 19": null
+    "Fazenda": null
   },
   {
     "ID": "3534449",
@@ -39882,9 +36416,7 @@ window.QUALIDADE_MUDA_DATA = [
     "Responsável": "MARCELO DE OLIVEIRA JUNIOR",
     "Qualidade da Muda": "BOM",
     "Observações": null,
-    "Fazenda": null,
-    "Observações ": null,
-    "Unnamed: 19": null
+    "Fazenda": null
   },
   {
     "ID": "3534444",
@@ -39905,9 +36437,7 @@ window.QUALIDADE_MUDA_DATA = [
     "Responsável": "MARCELO DE OLIVEIRA JUNIOR",
     "Qualidade da Muda": "BOM",
     "Observações": null,
-    "Fazenda": null,
-    "Observações ": null,
-    "Unnamed: 19": null
+    "Fazenda": null
   },
   {
     "ID": "3534123",
@@ -39928,9 +36458,7 @@ window.QUALIDADE_MUDA_DATA = [
     "Responsável": "FERNANDA DE SOUZA ",
     "Qualidade da Muda": "BOM",
     "Observações": null,
-    "Fazenda": null,
-    "Observações ": null,
-    "Unnamed: 19": null
+    "Fazenda": null
   },
   {
     "ID": "3534269",
@@ -39951,9 +36479,7 @@ window.QUALIDADE_MUDA_DATA = [
     "Responsável": "MARCELO DE OLIVEIRA JUNIOR",
     "Qualidade da Muda": "BOM",
     "Observações": null,
-    "Fazenda": null,
-    "Observações ": null,
-    "Unnamed: 19": null
+    "Fazenda": null
   },
   {
     "ID": "3534211",
@@ -39974,9 +36500,7 @@ window.QUALIDADE_MUDA_DATA = [
     "Responsável": "NILDA CLAUDINO [2510716]",
     "Qualidade da Muda": "BOM",
     "Observações": null,
-    "Fazenda": null,
-    "Observações ": null,
-    "Unnamed: 19": null
+    "Fazenda": null
   },
   {
     "ID": "3534117",
@@ -39997,9 +36521,7 @@ window.QUALIDADE_MUDA_DATA = [
     "Responsável": "FERNANDA DE SOUZA ",
     "Qualidade da Muda": "BOM",
     "Observações": null,
-    "Fazenda": null,
-    "Observações ": null,
-    "Unnamed: 19": null
+    "Fazenda": null
   },
   {
     "ID": "3534245",
@@ -40020,9 +36542,7 @@ window.QUALIDADE_MUDA_DATA = [
     "Responsável": "VITOR AMORIM RAMOS ",
     "Qualidade da Muda": "BOM",
     "Observações": null,
-    "Fazenda": null,
-    "Observações ": null,
-    "Unnamed: 19": null
+    "Fazenda": null
   },
   {
     "ID": "3534207",
@@ -40043,9 +36563,7 @@ window.QUALIDADE_MUDA_DATA = [
     "Responsável": "NILDA CLAUDINO [2510716]",
     "Qualidade da Muda": "BOM",
     "Observações": null,
-    "Fazenda": null,
-    "Observações ": null,
-    "Unnamed: 19": null
+    "Fazenda": null
   },
   {
     "ID": "3534240",
@@ -40066,9 +36584,7 @@ window.QUALIDADE_MUDA_DATA = [
     "Responsável": "VITOR AMORIM RAMOS ",
     "Qualidade da Muda": "BOM",
     "Observações": null,
-    "Fazenda": null,
-    "Observações ": null,
-    "Unnamed: 19": null
+    "Fazenda": null
   },
   {
     "ID": "3534203",
@@ -40089,9 +36605,7 @@ window.QUALIDADE_MUDA_DATA = [
     "Responsável": "NILDA CLAUDINO [2510716]",
     "Qualidade da Muda": "BOM",
     "Observações": null,
-    "Fazenda": null,
-    "Observações ": null,
-    "Unnamed: 19": null
+    "Fazenda": null
   },
   {
     "ID": "3534235",
@@ -40112,9 +36626,7 @@ window.QUALIDADE_MUDA_DATA = [
     "Responsável": "VITOR AMORIM RAMOS ",
     "Qualidade da Muda": "BOM",
     "Observações": null,
-    "Fazenda": null,
-    "Observações ": null,
-    "Unnamed: 19": null
+    "Fazenda": null
   },
   {
     "ID": "3533746",
@@ -40135,9 +36647,7 @@ window.QUALIDADE_MUDA_DATA = [
     "Responsável": "MICHELI DE SOUZA SANTOS  ",
     "Qualidade da Muda": "BOM",
     "Observações": null,
-    "Fazenda": null,
-    "Observações ": null,
-    "Unnamed: 19": null
+    "Fazenda": null
   },
   {
     "ID": "3533741",
@@ -40158,9 +36668,7 @@ window.QUALIDADE_MUDA_DATA = [
     "Responsável": "MICHELI DE SOUZA SANTOS  ",
     "Qualidade da Muda": "BOM",
     "Observações": null,
-    "Fazenda": null,
-    "Observações ": null,
-    "Unnamed: 19": null
+    "Fazenda": null
   },
   {
     "ID": "3534020",
@@ -40181,9 +36689,7 @@ window.QUALIDADE_MUDA_DATA = [
     "Responsável": "GABRIEL HENRIQUE MARTINS PEREIRA",
     "Qualidade da Muda": "BOM",
     "Observações": null,
-    "Fazenda": null,
-    "Observações ": null,
-    "Unnamed: 19": null
+    "Fazenda": null
   },
   {
     "ID": "3533761",
@@ -40204,9 +36710,7 @@ window.QUALIDADE_MUDA_DATA = [
     "Responsável": "GABRIEL HENRIQUE MARTINS PEREIRA",
     "Qualidade da Muda": "BOM",
     "Observações": null,
-    "Fazenda": null,
-    "Observações ": null,
-    "Unnamed: 19": null
+    "Fazenda": null
   },
   {
     "ID": "3534019",
@@ -40227,9 +36731,7 @@ window.QUALIDADE_MUDA_DATA = [
     "Responsável": "GABRIEL HENRIQUE MARTINS PEREIRA",
     "Qualidade da Muda": "BOM",
     "Observações": null,
-    "Fazenda": null,
-    "Observações ": null,
-    "Unnamed: 19": null
+    "Fazenda": null
   },
   {
     "ID": "3534192",
@@ -40250,9 +36752,7 @@ window.QUALIDADE_MUDA_DATA = [
     "Responsável": "NILDA CLAUDINO [2510716]",
     "Qualidade da Muda": "BOM",
     "Observações": null,
-    "Fazenda": null,
-    "Observações ": null,
-    "Unnamed: 19": null
+    "Fazenda": null
   },
   {
     "ID": "3534103",
@@ -40273,9 +36773,7 @@ window.QUALIDADE_MUDA_DATA = [
     "Responsável": "REGINALDO DA SILVA GOMES ",
     "Qualidade da Muda": "BOM",
     "Observações": null,
-    "Fazenda": null,
-    "Observações ": null,
-    "Unnamed: 19": null
+    "Fazenda": null
   },
   {
     "ID": "3533736",
@@ -40296,9 +36794,7 @@ window.QUALIDADE_MUDA_DATA = [
     "Responsável": "MICHELI DE SOUZA SANTOS  ",
     "Qualidade da Muda": "BOM",
     "Observações": null,
-    "Fazenda": null,
-    "Observações ": null,
-    "Unnamed: 19": null
+    "Fazenda": null
   },
   {
     "ID": "3533793",
@@ -40319,9 +36815,7 @@ window.QUALIDADE_MUDA_DATA = [
     "Responsável": "FERNANDA DE SOUZA ",
     "Qualidade da Muda": "BOM",
     "Observações": null,
-    "Fazenda": null,
-    "Observações ": null,
-    "Unnamed: 19": null
+    "Fazenda": null
   },
   {
     "ID": "3534187",
@@ -40342,9 +36836,7 @@ window.QUALIDADE_MUDA_DATA = [
     "Responsável": "NILDA CLAUDINO [2510716]",
     "Qualidade da Muda": "BOM",
     "Observações": null,
-    "Fazenda": null,
-    "Observações ": null,
-    "Unnamed: 19": null
+    "Fazenda": null
   },
   {
     "ID": "3533731",
@@ -40365,9 +36857,7 @@ window.QUALIDADE_MUDA_DATA = [
     "Responsável": "MICHELI DE SOUZA SANTOS  ",
     "Qualidade da Muda": "BOM",
     "Observações": null,
-    "Fazenda": null,
-    "Observações ": null,
-    "Unnamed: 19": null
+    "Fazenda": null
   },
   {
     "ID": "3534350",
@@ -40388,9 +36878,7 @@ window.QUALIDADE_MUDA_DATA = [
     "Responsável": "REGINALDO DA SILVA GOMES ",
     "Qualidade da Muda": "BOM",
     "Observações": null,
-    "Fazenda": null,
-    "Observações ": null,
-    "Unnamed: 19": null
+    "Fazenda": null
   },
   {
     "ID": "3533726",
@@ -40411,9 +36899,7 @@ window.QUALIDADE_MUDA_DATA = [
     "Responsável": "MICHELI DE SOUZA SANTOS  ",
     "Qualidade da Muda": "BOM",
     "Observações": null,
-    "Fazenda": null,
-    "Observações ": null,
-    "Unnamed: 19": null
+    "Fazenda": null
   },
   {
     "ID": "3534179",
@@ -40434,9 +36920,7 @@ window.QUALIDADE_MUDA_DATA = [
     "Responsável": "NILDA CLAUDINO [2510716]",
     "Qualidade da Muda": "BOM",
     "Observações": null,
-    "Fazenda": null,
-    "Observações ": null,
-    "Unnamed: 19": null
+    "Fazenda": null
   },
   {
     "ID": "3533858",
@@ -40457,9 +36941,7 @@ window.QUALIDADE_MUDA_DATA = [
     "Responsável": "VITOR AMORIM RAMOS ",
     "Qualidade da Muda": "BOM",
     "Observações": null,
-    "Fazenda": null,
-    "Observações ": null,
-    "Unnamed: 19": null
+    "Fazenda": null
   },
   {
     "ID": "3533789",
@@ -40480,9 +36962,7 @@ window.QUALIDADE_MUDA_DATA = [
     "Responsável": "FERNANDA DE SOUZA ",
     "Qualidade da Muda": "BOM",
     "Observações": null,
-    "Fazenda": null,
-    "Observações ": null,
-    "Unnamed: 19": null
+    "Fazenda": null
   },
   {
     "ID": "3534087",
@@ -40503,9 +36983,7 @@ window.QUALIDADE_MUDA_DATA = [
     "Responsável": "REGINALDO DA SILVA GOMES ",
     "Qualidade da Muda": "BOM",
     "Observações": null,
-    "Fazenda": null,
-    "Observações ": null,
-    "Unnamed: 19": null
+    "Fazenda": null
   },
   {
     "ID": "3533906",
@@ -40526,9 +37004,7 @@ window.QUALIDADE_MUDA_DATA = [
     "Responsável": "VITOR AMORIM RAMOS ",
     "Qualidade da Muda": "BOM",
     "Observações": null,
-    "Fazenda": null,
-    "Observações ": null,
-    "Unnamed: 19": null
+    "Fazenda": null
   },
   {
     "ID": "3533840",
@@ -40549,9 +37025,7 @@ window.QUALIDADE_MUDA_DATA = [
     "Responsável": "VITOR AMORIM RAMOS ",
     "Qualidade da Muda": "BOM",
     "Observações": null,
-    "Fazenda": null,
-    "Observações ": null,
-    "Unnamed: 19": null
+    "Fazenda": null
   },
   {
     "ID": "3533782",
@@ -40572,9 +37046,7 @@ window.QUALIDADE_MUDA_DATA = [
     "Responsável": "FERNANDA DE SOUZA ",
     "Qualidade da Muda": "BOM",
     "Observações": null,
-    "Fazenda": null,
-    "Observações ": null,
-    "Unnamed: 19": null
+    "Fazenda": null
   },
   {
     "ID": "3533834",
@@ -40595,9 +37067,7 @@ window.QUALIDADE_MUDA_DATA = [
     "Responsável": "VITOR AMORIM RAMOS ",
     "Qualidade da Muda": "BOM",
     "Observações": null,
-    "Fazenda": null,
-    "Observações ": null,
-    "Unnamed: 19": null
+    "Fazenda": null
   },
   {
     "ID": "3533991",
@@ -40618,9 +37088,7 @@ window.QUALIDADE_MUDA_DATA = [
     "Responsável": "MARCELO DE OLIVEIRA JUNIOR",
     "Qualidade da Muda": "BOM",
     "Observações": null,
-    "Fazenda": null,
-    "Observações ": null,
-    "Unnamed: 19": null
+    "Fazenda": null
   },
   {
     "ID": "3533826",
@@ -40641,9 +37109,7 @@ window.QUALIDADE_MUDA_DATA = [
     "Responsável": "VITOR AMORIM RAMOS ",
     "Qualidade da Muda": "BOM",
     "Observações": null,
-    "Fazenda": null,
-    "Observações ": null,
-    "Unnamed: 19": null
+    "Fazenda": null
   },
   {
     "ID": "3533820",
@@ -40664,9 +37130,7 @@ window.QUALIDADE_MUDA_DATA = [
     "Responsável": "VITOR AMORIM RAMOS ",
     "Qualidade da Muda": "BOM",
     "Observações": null,
-    "Fazenda": null,
-    "Observações ": null,
-    "Unnamed: 19": null
+    "Fazenda": null
   },
   {
     "ID": "3533986",
@@ -40687,9 +37151,7 @@ window.QUALIDADE_MUDA_DATA = [
     "Responsável": "MARCELO DE OLIVEIRA JUNIOR",
     "Qualidade da Muda": "BOM",
     "Observações": null,
-    "Fazenda": null,
-    "Observações ": null,
-    "Unnamed: 19": null
+    "Fazenda": null
   },
   {
     "ID": "3533832",
@@ -40710,9 +37172,7 @@ window.QUALIDADE_MUDA_DATA = [
     "Responsável": "VITOR AMORIM RAMOS ",
     "Qualidade da Muda": "BOM",
     "Observações": null,
-    "Fazenda": null,
-    "Observações ": null,
-    "Unnamed: 19": null
+    "Fazenda": null
   },
   {
     "ID": "3533803",
@@ -40733,9 +37193,7 @@ window.QUALIDADE_MUDA_DATA = [
     "Responsável": "VITOR AMORIM RAMOS ",
     "Qualidade da Muda": "BOM",
     "Observações": null,
-    "Fazenda": null,
-    "Observações ": null,
-    "Unnamed: 19": null
+    "Fazenda": null
   },
   {
     "ID": "3533981",
@@ -40756,9 +37214,7 @@ window.QUALIDADE_MUDA_DATA = [
     "Responsável": "MARCELO DE OLIVEIRA JUNIOR",
     "Qualidade da Muda": "BOM",
     "Observações": null,
-    "Fazenda": null,
-    "Observações ": null,
-    "Unnamed: 19": null
+    "Fazenda": null
   },
   {
     "ID": "3533778",
@@ -40779,9 +37235,7 @@ window.QUALIDADE_MUDA_DATA = [
     "Responsável": "VITOR AMORIM RAMOS ",
     "Qualidade da Muda": "BOM",
     "Observações": null,
-    "Fazenda": null,
-    "Observações ": null,
-    "Unnamed: 19": null
+    "Fazenda": null
   },
   {
     "ID": "3533769",
@@ -40802,9 +37256,7 @@ window.QUALIDADE_MUDA_DATA = [
     "Responsável": "VITOR AMORIM RAMOS ",
     "Qualidade da Muda": "BOM",
     "Observações": null,
-    "Fazenda": null,
-    "Observações ": null,
-    "Unnamed: 19": null
+    "Fazenda": null
   },
   {
     "ID": "3533976",
@@ -40825,9 +37277,7 @@ window.QUALIDADE_MUDA_DATA = [
     "Responsável": "MARCELO DE OLIVEIRA JUNIOR",
     "Qualidade da Muda": "BOM",
     "Observações": null,
-    "Fazenda": null,
-    "Observações ": null,
-    "Unnamed: 19": null
+    "Fazenda": null
   },
   {
     "ID": "3531887",
@@ -40848,9 +37298,7 @@ window.QUALIDADE_MUDA_DATA = [
     "Responsável": "VITOR AMORIM RAMOS ",
     "Qualidade da Muda": "BOM",
     "Observações": null,
-    "Fazenda": null,
-    "Observações ": null,
-    "Unnamed: 19": null
+    "Fazenda": null
   },
   {
     "ID": "3531882",
@@ -40871,9 +37319,7 @@ window.QUALIDADE_MUDA_DATA = [
     "Responsável": "VITOR AMORIM RAMOS ",
     "Qualidade da Muda": "BOM",
     "Observações": null,
-    "Fazenda": null,
-    "Observações ": null,
-    "Unnamed: 19": null
+    "Fazenda": null
   },
   {
     "ID": "3531877",
@@ -40894,9 +37340,7 @@ window.QUALIDADE_MUDA_DATA = [
     "Responsável": "VITOR AMORIM RAMOS ",
     "Qualidade da Muda": "BOM",
     "Observações": null,
-    "Fazenda": null,
-    "Observações ": null,
-    "Unnamed: 19": null
+    "Fazenda": null
   },
   {
     "ID": "3531895",
@@ -40917,9 +37361,7 @@ window.QUALIDADE_MUDA_DATA = [
     "Responsável": "FERNANDA DE SOUZA ",
     "Qualidade da Muda": "BOM",
     "Observações": null,
-    "Fazenda": null,
-    "Observações ": null,
-    "Unnamed: 19": null
+    "Fazenda": null
   },
   {
     "ID": "3531849",
@@ -40940,9 +37382,7 @@ window.QUALIDADE_MUDA_DATA = [
     "Responsável": "VITOR AMORIM RAMOS ",
     "Qualidade da Muda": "BOM",
     "Observações": null,
-    "Fazenda": null,
-    "Observações ": null,
-    "Unnamed: 19": null
+    "Fazenda": null
   },
   {
     "ID": "3531693",
@@ -40963,9 +37403,7 @@ window.QUALIDADE_MUDA_DATA = [
     "Responsável": "NILDA CLAUDINO [2510716]",
     "Qualidade da Muda": "BOM",
     "Observações": null,
-    "Fazenda": null,
-    "Observações ": null,
-    "Unnamed: 19": null
+    "Fazenda": null
   },
   {
     "ID": "3531777",
@@ -40986,9 +37424,7 @@ window.QUALIDADE_MUDA_DATA = [
     "Responsável": "MICHELI DE SOUZA SANTOS  ",
     "Qualidade da Muda": "BOM",
     "Observações": null,
-    "Fazenda": null,
-    "Observações ": null,
-    "Unnamed: 19": null
+    "Fazenda": null
   },
   {
     "ID": "3531775",
@@ -41009,9 +37445,7 @@ window.QUALIDADE_MUDA_DATA = [
     "Responsável": "MICHELI DE SOUZA SANTOS  ",
     "Qualidade da Muda": "BOM",
     "Observações": null,
-    "Fazenda": null,
-    "Observações ": null,
-    "Unnamed: 19": null
+    "Fazenda": null
   },
   {
     "ID": "3531685",
@@ -41032,9 +37466,7 @@ window.QUALIDADE_MUDA_DATA = [
     "Responsável": "NILDA CLAUDINO [2510716]",
     "Qualidade da Muda": "BOM",
     "Observações": null,
-    "Fazenda": null,
-    "Observações ": null,
-    "Unnamed: 19": null
+    "Fazenda": null
   },
   {
     "ID": "3531500",
@@ -41055,9 +37487,7 @@ window.QUALIDADE_MUDA_DATA = [
     "Responsável": "REGINALDO DA SILVA GOMES ",
     "Qualidade da Muda": "BOM",
     "Observações": null,
-    "Fazenda": null,
-    "Observações ": null,
-    "Unnamed: 19": null
+    "Fazenda": null
   },
   {
     "ID": "3531495",
@@ -41078,9 +37508,7 @@ window.QUALIDADE_MUDA_DATA = [
     "Responsável": "REGINALDO DA SILVA GOMES ",
     "Qualidade da Muda": "BOM",
     "Observações": null,
-    "Fazenda": null,
-    "Observações ": null,
-    "Unnamed: 19": null
+    "Fazenda": null
   },
   {
     "ID": "3531869",
@@ -41101,9 +37529,7 @@ window.QUALIDADE_MUDA_DATA = [
     "Responsável": "MICHELI DE SOUZA SANTOS  ",
     "Qualidade da Muda": "BOM",
     "Observações": null,
-    "Fazenda": null,
-    "Observações ": null,
-    "Unnamed: 19": null
+    "Fazenda": null
   },
   {
     "ID": "3531718",
@@ -41124,9 +37550,7 @@ window.QUALIDADE_MUDA_DATA = [
     "Responsável": "VITOR AMORIM RAMOS ",
     "Qualidade da Muda": "BOM",
     "Observações": null,
-    "Fazenda": null,
-    "Observações ": null,
-    "Unnamed: 19": null
+    "Fazenda": null
   },
   {
     "ID": "3531862",
@@ -41147,9 +37571,7 @@ window.QUALIDADE_MUDA_DATA = [
     "Responsável": "MICHELI DE SOUZA SANTOS  ",
     "Qualidade da Muda": "BOM",
     "Observações": null,
-    "Fazenda": null,
-    "Observações ": null,
-    "Unnamed: 19": null
+    "Fazenda": null
   },
   {
     "ID": "3531713",
@@ -41170,9 +37592,7 @@ window.QUALIDADE_MUDA_DATA = [
     "Responsável": "VITOR AMORIM RAMOS ",
     "Qualidade da Muda": "BOM",
     "Observações": null,
-    "Fazenda": null,
-    "Observações ": null,
-    "Unnamed: 19": null
+    "Fazenda": null
   },
   {
     "ID": "3531709",
@@ -41193,9 +37613,7 @@ window.QUALIDADE_MUDA_DATA = [
     "Responsável": "VITOR AMORIM RAMOS ",
     "Qualidade da Muda": "BOM",
     "Observações": null,
-    "Fazenda": null,
-    "Observações ": null,
-    "Unnamed: 19": null
+    "Fazenda": null
   },
   {
     "ID": "3531438",
@@ -41216,9 +37634,7 @@ window.QUALIDADE_MUDA_DATA = [
     "Responsável": "FERNANDA DE SOUZA ",
     "Qualidade da Muda": "BOM",
     "Observações": null,
-    "Fazenda": null,
-    "Observações ": null,
-    "Unnamed: 19": null
+    "Fazenda": null
   },
   {
     "ID": "3531707",
@@ -41239,9 +37655,7 @@ window.QUALIDADE_MUDA_DATA = [
     "Responsável": "VITOR AMORIM RAMOS ",
     "Qualidade da Muda": "BOM",
     "Observações": null,
-    "Fazenda": null,
-    "Observações ": null,
-    "Unnamed: 19": null
+    "Fazenda": null
   },
   {
     "ID": "3531681",
@@ -41262,9 +37676,7 @@ window.QUALIDADE_MUDA_DATA = [
     "Responsável": "VITOR AMORIM RAMOS ",
     "Qualidade da Muda": "BOM",
     "Observações": null,
-    "Fazenda": null,
-    "Observações ": null,
-    "Unnamed: 19": null
+    "Fazenda": null
   },
   {
     "ID": "3531453",
@@ -41285,9 +37697,7 @@ window.QUALIDADE_MUDA_DATA = [
     "Responsável": "NILDA CLAUDINO [2510716]",
     "Qualidade da Muda": "BOM",
     "Observações": null,
-    "Fazenda": null,
-    "Observações ": null,
-    "Unnamed: 19": null
+    "Fazenda": null
   },
   {
     "ID": "3531490",
@@ -41308,9 +37718,7 @@ window.QUALIDADE_MUDA_DATA = [
     "Responsável": "REGINALDO DA SILVA GOMES ",
     "Qualidade da Muda": "BOM",
     "Observações": null,
-    "Fazenda": null,
-    "Observações ": null,
-    "Unnamed: 19": null
+    "Fazenda": null
   },
   {
     "ID": "3531449",
@@ -41331,9 +37739,7 @@ window.QUALIDADE_MUDA_DATA = [
     "Responsável": "NILDA CLAUDINO [2510716]",
     "Qualidade da Muda": "BOM",
     "Observações": null,
-    "Fazenda": null,
-    "Observações ": null,
-    "Unnamed: 19": null
+    "Fazenda": null
   },
   {
     "ID": "3531443",
@@ -41354,9 +37760,7 @@ window.QUALIDADE_MUDA_DATA = [
     "Responsável": "REGINALDO DA SILVA GOMES ",
     "Qualidade da Muda": "BOM",
     "Observações": null,
-    "Fazenda": null,
-    "Observações ": null,
-    "Unnamed: 19": null
+    "Fazenda": null
   },
   {
     "ID": "3531473",
@@ -41377,9 +37781,7 @@ window.QUALIDADE_MUDA_DATA = [
     "Responsável": "FERNANDA DE SOUZA ",
     "Qualidade da Muda": "BOM",
     "Observações": null,
-    "Fazenda": null,
-    "Observações ": null,
-    "Unnamed: 19": null
+    "Fazenda": null
   },
   {
     "ID": "3531465",
@@ -41400,9 +37802,7 @@ window.QUALIDADE_MUDA_DATA = [
     "Responsável": "FERNANDA DE SOUZA ",
     "Qualidade da Muda": "BOM",
     "Observações": null,
-    "Fazenda": null,
-    "Observações ": null,
-    "Unnamed: 19": null
+    "Fazenda": null
   },
   {
     "ID": "3531932",
@@ -41423,9 +37823,7 @@ window.QUALIDADE_MUDA_DATA = [
     "Responsável": "GABRIEL HENRIQUE MARTINS PEREIRA",
     "Qualidade da Muda": "BOM",
     "Observações": null,
-    "Fazenda": null,
-    "Observações ": null,
-    "Unnamed: 19": null
+    "Fazenda": null
   },
   {
     "ID": "3531926",
@@ -41446,9 +37844,7 @@ window.QUALIDADE_MUDA_DATA = [
     "Responsável": "GABRIEL HENRIQUE MARTINS PEREIRA",
     "Qualidade da Muda": "BOM",
     "Observações": null,
-    "Fazenda": null,
-    "Observações ": null,
-    "Unnamed: 19": null
+    "Fazenda": null
   },
   {
     "ID": "3531670",
@@ -41469,9 +37865,7 @@ window.QUALIDADE_MUDA_DATA = [
     "Responsável": "VITOR AMORIM RAMOS ",
     "Qualidade da Muda": "BOM",
     "Observações": null,
-    "Fazenda": null,
-    "Observações ": null,
-    "Unnamed: 19": null
+    "Fazenda": null
   },
   {
     "ID": "3531421",
@@ -41492,9 +37886,7 @@ window.QUALIDADE_MUDA_DATA = [
     "Responsável": "MARCELO DE OLIVEIRA JUNIOR",
     "Qualidade da Muda": "BOM",
     "Observações": null,
-    "Fazenda": null,
-    "Observações ": null,
-    "Unnamed: 19": null
+    "Fazenda": null
   },
   {
     "ID": "3531662",
@@ -41515,9 +37907,7 @@ window.QUALIDADE_MUDA_DATA = [
     "Responsável": "VITOR AMORIM RAMOS ",
     "Qualidade da Muda": "BOM",
     "Observações": null,
-    "Fazenda": null,
-    "Observações ": null,
-    "Unnamed: 19": null
+    "Fazenda": null
   },
   {
     "ID": "3531415",
@@ -41538,9 +37928,7 @@ window.QUALIDADE_MUDA_DATA = [
     "Responsável": "MARCELO DE OLIVEIRA JUNIOR",
     "Qualidade da Muda": "BOM",
     "Observações": null,
-    "Fazenda": null,
-    "Observações ": null,
-    "Unnamed: 19": null
+    "Fazenda": null
   },
   {
     "ID": "3531409",
@@ -41561,9 +37949,7 @@ window.QUALIDADE_MUDA_DATA = [
     "Responsável": "MARCELO DE OLIVEIRA JUNIOR",
     "Qualidade da Muda": "BOM",
     "Observações": null,
-    "Fazenda": null,
-    "Observações ": null,
-    "Unnamed: 19": null
+    "Fazenda": null
   },
   {
     "ID": "3531637",
@@ -41584,9 +37970,7 @@ window.QUALIDADE_MUDA_DATA = [
     "Responsável": "VITOR AMORIM RAMOS ",
     "Qualidade da Muda": "BOM",
     "Observações": null,
-    "Fazenda": null,
-    "Observações ": null,
-    "Unnamed: 19": null
+    "Fazenda": null
   },
   {
     "ID": "3531631",
@@ -41607,9 +37991,7 @@ window.QUALIDADE_MUDA_DATA = [
     "Responsável": "VITOR AMORIM RAMOS ",
     "Qualidade da Muda": "BOM",
     "Observações": null,
-    "Fazenda": null,
-    "Observações ": null,
-    "Unnamed: 19": null
+    "Fazenda": null
   },
   {
     "ID": "3531555",
@@ -41630,9 +38012,7 @@ window.QUALIDADE_MUDA_DATA = [
     "Responsável": "VITOR AMORIM RAMOS ",
     "Qualidade da Muda": "BOM",
     "Observações": null,
-    "Fazenda": null,
-    "Observações ": null,
-    "Unnamed: 19": null
+    "Fazenda": null
   },
   {
     "ID": "3529950",
@@ -41653,9 +38033,7 @@ window.QUALIDADE_MUDA_DATA = [
     "Responsável": "MICHELI DE SOUZA SANTOS  ",
     "Qualidade da Muda": "BOM",
     "Observações": null,
-    "Fazenda": null,
-    "Observações ": null,
-    "Unnamed: 19": null
+    "Fazenda": null
   },
   {
     "ID": "3529949",
@@ -41676,9 +38054,7 @@ window.QUALIDADE_MUDA_DATA = [
     "Responsável": "MICHELI DE SOUZA SANTOS  ",
     "Qualidade da Muda": "BOM",
     "Observações": null,
-    "Fazenda": null,
-    "Observações ": null,
-    "Unnamed: 19": null
+    "Fazenda": null
   },
   {
     "ID": "3529640",
@@ -41699,9 +38075,7 @@ window.QUALIDADE_MUDA_DATA = [
     "Responsável": "MICHELI DE SOUZA SANTOS  ",
     "Qualidade da Muda": "BOM",
     "Observações": null,
-    "Fazenda": null,
-    "Observações ": null,
-    "Unnamed: 19": null
+    "Fazenda": null
   },
   {
     "ID": "3530152",
@@ -41722,9 +38096,7 @@ window.QUALIDADE_MUDA_DATA = [
     "Responsável": "MARCELO DE OLIVEIRA JUNIOR",
     "Qualidade da Muda": "BOM",
     "Observações": null,
-    "Fazenda": null,
-    "Observações ": null,
-    "Unnamed: 19": null
+    "Fazenda": null
   },
   {
     "ID": "3530147",
@@ -41745,9 +38117,7 @@ window.QUALIDADE_MUDA_DATA = [
     "Responsável": "MARCELO DE OLIVEIRA JUNIOR",
     "Qualidade da Muda": "BOM",
     "Observações": null,
-    "Fazenda": null,
-    "Observações ": null,
-    "Unnamed: 19": null
+    "Fazenda": null
   },
   {
     "ID": "3529913",
@@ -41768,9 +38138,7 @@ window.QUALIDADE_MUDA_DATA = [
     "Responsável": "VITOR AMORIM RAMOS ",
     "Qualidade da Muda": "BOM",
     "Observações": null,
-    "Fazenda": null,
-    "Observações ": null,
-    "Unnamed: 19": null
+    "Fazenda": null
   },
   {
     "ID": "3529909",
@@ -41791,9 +38159,7 @@ window.QUALIDADE_MUDA_DATA = [
     "Responsável": "VITOR AMORIM RAMOS ",
     "Qualidade da Muda": "BOM",
     "Observações": null,
-    "Fazenda": null,
-    "Observações ": null,
-    "Unnamed: 19": null
+    "Fazenda": null
   },
   {
     "ID": "3529689",
@@ -41814,9 +38180,7 @@ window.QUALIDADE_MUDA_DATA = [
     "Responsável": "FERNANDA DE SOUZA ",
     "Qualidade da Muda": "BOM",
     "Observações": null,
-    "Fazenda": null,
-    "Observações ": null,
-    "Unnamed: 19": null
+    "Fazenda": null
   },
   {
     "ID": "3529904",
@@ -41837,9 +38201,7 @@ window.QUALIDADE_MUDA_DATA = [
     "Responsável": "VITOR AMORIM RAMOS ",
     "Qualidade da Muda": "BOM",
     "Observações": null,
-    "Fazenda": null,
-    "Observações ": null,
-    "Unnamed: 19": null
+    "Fazenda": null
   },
   {
     "ID": "3529896",
@@ -41860,9 +38222,7 @@ window.QUALIDADE_MUDA_DATA = [
     "Responsável": "VITOR AMORIM RAMOS ",
     "Qualidade da Muda": "BOM",
     "Observações": null,
-    "Fazenda": null,
-    "Observações ": null,
-    "Unnamed: 19": null
+    "Fazenda": null
   },
   {
     "ID": "3529672",
@@ -41883,9 +38243,7 @@ window.QUALIDADE_MUDA_DATA = [
     "Responsável": "FERNANDA DE SOUZA ",
     "Qualidade da Muda": "BOM",
     "Observações": null,
-    "Fazenda": null,
-    "Observações ": null,
-    "Unnamed: 19": null
+    "Fazenda": null
   },
   {
     "ID": "3529891",
@@ -41906,9 +38264,7 @@ window.QUALIDADE_MUDA_DATA = [
     "Responsável": "VITOR AMORIM RAMOS ",
     "Qualidade da Muda": "BOM",
     "Observações": null,
-    "Fazenda": null,
-    "Observações ": null,
-    "Unnamed: 19": null
+    "Fazenda": null
   },
   {
     "ID": "3529523",
@@ -41929,9 +38285,7 @@ window.QUALIDADE_MUDA_DATA = [
     "Responsável": "NILDA CLAUDINO [2510716]",
     "Qualidade da Muda": "BOM",
     "Observações": null,
-    "Fazenda": null,
-    "Observações ": null,
-    "Unnamed: 19": null
+    "Fazenda": null
   },
   {
     "ID": "3529667",
@@ -41952,9 +38306,7 @@ window.QUALIDADE_MUDA_DATA = [
     "Responsável": "FERNANDA DE SOUZA ",
     "Qualidade da Muda": "BOM",
     "Observações": null,
-    "Fazenda": null,
-    "Observações ": null,
-    "Unnamed: 19": null
+    "Fazenda": null
   },
   {
     "ID": "3529665",
@@ -41975,9 +38327,7 @@ window.QUALIDADE_MUDA_DATA = [
     "Responsável": "FERNANDA DE SOUZA ",
     "Qualidade da Muda": "BOM",
     "Observações": null,
-    "Fazenda": null,
-    "Observações ": null,
-    "Unnamed: 19": null
+    "Fazenda": null
   },
   {
     "ID": "3529620",
@@ -41998,9 +38348,7 @@ window.QUALIDADE_MUDA_DATA = [
     "Responsável": "MICHELI DE SOUZA SANTOS  ",
     "Qualidade da Muda": "BOM",
     "Observações": null,
-    "Fazenda": null,
-    "Observações ": null,
-    "Unnamed: 19": null
+    "Fazenda": null
   },
   {
     "ID": "3529515",
@@ -42021,9 +38369,7 @@ window.QUALIDADE_MUDA_DATA = [
     "Responsável": "NILDA CLAUDINO [2510716]",
     "Qualidade da Muda": "BOM",
     "Observações": null,
-    "Fazenda": null,
-    "Observações ": null,
-    "Unnamed: 19": null
+    "Fazenda": null
   },
   {
     "ID": "3529661",
@@ -42044,9 +38390,7 @@ window.QUALIDADE_MUDA_DATA = [
     "Responsável": "FERNANDA DE SOUZA ",
     "Qualidade da Muda": "BOM",
     "Observações": null,
-    "Fazenda": null,
-    "Observações ": null,
-    "Unnamed: 19": null
+    "Fazenda": null
   },
   {
     "ID": "3529511",
@@ -42067,9 +38411,7 @@ window.QUALIDADE_MUDA_DATA = [
     "Responsável": "NILDA CLAUDINO [2510716]",
     "Qualidade da Muda": "BOM",
     "Observações": null,
-    "Fazenda": null,
-    "Observações ": null,
-    "Unnamed: 19": null
+    "Fazenda": null
   },
   {
     "ID": "3530142",
@@ -42090,9 +38432,7 @@ window.QUALIDADE_MUDA_DATA = [
     "Responsável": "MARCELO DE OLIVEIRA JUNIOR",
     "Qualidade da Muda": "BOM",
     "Observações": null,
-    "Fazenda": null,
-    "Observações ": null,
-    "Unnamed: 19": null
+    "Fazenda": null
   },
   {
     "ID": "3530042",
@@ -42113,9 +38453,7 @@ window.QUALIDADE_MUDA_DATA = [
     "Responsável": "VITOR AMORIM RAMOS ",
     "Qualidade da Muda": "BOM",
     "Observações": null,
-    "Fazenda": null,
-    "Observações ": null,
-    "Unnamed: 19": null
+    "Fazenda": null
   },
   {
     "ID": "3529452",
@@ -42136,9 +38474,7 @@ window.QUALIDADE_MUDA_DATA = [
     "Responsável": "REGINALDO DA SILVA GOMES ",
     "Qualidade da Muda": "BOM",
     "Observações": null,
-    "Fazenda": null,
-    "Observações ": null,
-    "Unnamed: 19": null
+    "Fazenda": null
   },
   {
     "ID": "3530037",
@@ -42159,9 +38495,7 @@ window.QUALIDADE_MUDA_DATA = [
     "Responsável": "VITOR AMORIM RAMOS ",
     "Qualidade da Muda": "BOM",
     "Observações": null,
-    "Fazenda": null,
-    "Observações ": null,
-    "Unnamed: 19": null
+    "Fazenda": null
   },
   {
     "ID": "3529447",
@@ -42182,9 +38516,7 @@ window.QUALIDADE_MUDA_DATA = [
     "Responsável": "REGINALDO DA SILVA GOMES ",
     "Qualidade da Muda": "BOM",
     "Observações": null,
-    "Fazenda": null,
-    "Observações ": null,
-    "Unnamed: 19": null
+    "Fazenda": null
   },
   {
     "ID": "3529507",
@@ -42205,9 +38537,7 @@ window.QUALIDADE_MUDA_DATA = [
     "Responsável": "NILDA CLAUDINO [2510716]",
     "Qualidade da Muda": "BOM",
     "Observações": null,
-    "Fazenda": null,
-    "Observações ": null,
-    "Unnamed: 19": null
+    "Fazenda": null
   },
   {
     "ID": "3530032",
@@ -42228,9 +38558,7 @@ window.QUALIDADE_MUDA_DATA = [
     "Responsável": "VITOR AMORIM RAMOS ",
     "Qualidade da Muda": "BOM",
     "Observações": null,
-    "Fazenda": null,
-    "Observações ": null,
-    "Unnamed: 19": null
+    "Fazenda": null
   },
   {
     "ID": "3529443",
@@ -42251,9 +38579,7 @@ window.QUALIDADE_MUDA_DATA = [
     "Responsável": "REGINALDO DA SILVA GOMES ",
     "Qualidade da Muda": "BOM",
     "Observações": null,
-    "Fazenda": null,
-    "Observações ": null,
-    "Unnamed: 19": null
+    "Fazenda": null
   },
   {
     "ID": "3530027",
@@ -42274,9 +38600,7 @@ window.QUALIDADE_MUDA_DATA = [
     "Responsável": "VITOR AMORIM RAMOS ",
     "Qualidade da Muda": "BOM",
     "Observações": null,
-    "Fazenda": null,
-    "Observações ": null,
-    "Unnamed: 19": null
+    "Fazenda": null
   },
   {
     "ID": "3530022",
@@ -42297,9 +38621,7 @@ window.QUALIDADE_MUDA_DATA = [
     "Responsável": "VITOR AMORIM RAMOS ",
     "Qualidade da Muda": "BOM",
     "Observações": null,
-    "Fazenda": null,
-    "Observações ": null,
-    "Unnamed: 19": null
+    "Fazenda": null
   },
   {
     "ID": "3530017",
@@ -42320,9 +38642,7 @@ window.QUALIDADE_MUDA_DATA = [
     "Responsável": "VITOR AMORIM RAMOS ",
     "Qualidade da Muda": "BOM",
     "Observações": null,
-    "Fazenda": null,
-    "Observações ": null,
-    "Unnamed: 19": null
+    "Fazenda": null
   },
   {
     "ID": "3530135",
@@ -42343,9 +38663,7 @@ window.QUALIDADE_MUDA_DATA = [
     "Responsável": "MARCELO DE OLIVEIRA JUNIOR",
     "Qualidade da Muda": "BOM",
     "Observações": null,
-    "Fazenda": null,
-    "Observações ": null,
-    "Unnamed: 19": null
+    "Fazenda": null
   },
   {
     "ID": "3529591",
@@ -42366,9 +38684,7 @@ window.QUALIDADE_MUDA_DATA = [
     "Responsável": "GABRIEL HENRIQUE MARTINS PEREIRA",
     "Qualidade da Muda": "BOM",
     "Observações": null,
-    "Fazenda": null,
-    "Observações ": null,
-    "Unnamed: 19": null
+    "Fazenda": null
   },
   {
     "ID": "3530011",
@@ -42389,9 +38705,7 @@ window.QUALIDADE_MUDA_DATA = [
     "Responsável": "VITOR AMORIM RAMOS ",
     "Qualidade da Muda": "BOM",
     "Observações": null,
-    "Fazenda": null,
-    "Observações ": null,
-    "Unnamed: 19": null
+    "Fazenda": null
   },
   {
     "ID": "3529587",
@@ -42412,9 +38726,7 @@ window.QUALIDADE_MUDA_DATA = [
     "Responsável": "GABRIEL HENRIQUE MARTINS PEREIRA",
     "Qualidade da Muda": "BOM",
     "Observações": null,
-    "Fazenda": null,
-    "Observações ": null,
-    "Unnamed: 19": null
+    "Fazenda": null
   },
   {
     "ID": "3529819",
@@ -42435,9 +38747,7 @@ window.QUALIDADE_MUDA_DATA = [
     "Responsável": "VITOR AMORIM RAMOS ",
     "Qualidade da Muda": "BOM",
     "Observações": null,
-    "Fazenda": null,
-    "Observações ": null,
-    "Unnamed: 19": null
+    "Fazenda": null
   },
   {
     "ID": "3530130",
@@ -42458,9 +38768,7 @@ window.QUALIDADE_MUDA_DATA = [
     "Responsável": "MARCELO DE OLIVEIRA JUNIOR",
     "Qualidade da Muda": "BOM",
     "Observações": null,
-    "Fazenda": null,
-    "Observações ": null,
-    "Unnamed: 19": null
+    "Fazenda": null
   },
   {
     "ID": "3529582",
@@ -42481,9 +38789,7 @@ window.QUALIDADE_MUDA_DATA = [
     "Responsável": "GABRIEL HENRIQUE MARTINS PEREIRA",
     "Qualidade da Muda": "BOM",
     "Observações": null,
-    "Fazenda": null,
-    "Observações ": null,
-    "Unnamed: 19": null
+    "Fazenda": null
   },
   {
     "ID": "3529574",
@@ -42504,9 +38810,7 @@ window.QUALIDADE_MUDA_DATA = [
     "Responsável": "GABRIEL HENRIQUE MARTINS PEREIRA",
     "Qualidade da Muda": "BOM",
     "Observações": null,
-    "Fazenda": null,
-    "Observações ": null,
-    "Unnamed: 19": null
+    "Fazenda": null
   },
   {
     "ID": "3529809",
@@ -42527,9 +38831,7 @@ window.QUALIDADE_MUDA_DATA = [
     "Responsável": "VITOR AMORIM RAMOS ",
     "Qualidade da Muda": "BOM",
     "Observações": null,
-    "Fazenda": null,
-    "Observações ": null,
-    "Unnamed: 19": null
+    "Fazenda": null
   },
   {
     "ID": "3520556",
@@ -42550,9 +38852,7 @@ window.QUALIDADE_MUDA_DATA = [
     "Responsável": "FERNANDA DE SOUZA ",
     "Qualidade da Muda": "BOM",
     "Observações": null,
-    "Fazenda": null,
-    "Observações ": null,
-    "Unnamed: 19": null
+    "Fazenda": null
   },
   {
     "ID": "3520549",
@@ -42573,9 +38873,7 @@ window.QUALIDADE_MUDA_DATA = [
     "Responsável": "FERNANDA DE SOUZA ",
     "Qualidade da Muda": "BOM",
     "Observações": null,
-    "Fazenda": null,
-    "Observações ": null,
-    "Unnamed: 19": null
+    "Fazenda": null
   },
   {
     "ID": "3520545",
@@ -42596,9 +38894,7 @@ window.QUALIDADE_MUDA_DATA = [
     "Responsável": "FERNANDA DE SOUZA ",
     "Qualidade da Muda": "BOM",
     "Observações": null,
-    "Fazenda": null,
-    "Observações ": null,
-    "Unnamed: 19": null
+    "Fazenda": null
   },
   {
     "ID": "3520691",
@@ -42619,9 +38915,7 @@ window.QUALIDADE_MUDA_DATA = [
     "Responsável": "REGINALDO DA SILVA GOMES ",
     "Qualidade da Muda": "BOM",
     "Observações": null,
-    "Fazenda": null,
-    "Observações ": null,
-    "Unnamed: 19": null
+    "Fazenda": null
   },
   {
     "ID": "3520423",
@@ -42642,9 +38936,7 @@ window.QUALIDADE_MUDA_DATA = [
     "Responsável": "VITOR AMORIM RAMOS ",
     "Qualidade da Muda": "BOM",
     "Observações": null,
-    "Fazenda": null,
-    "Observações ": null,
-    "Unnamed: 19": null
+    "Fazenda": null
   },
   {
     "ID": "3520686",
@@ -42665,9 +38957,7 @@ window.QUALIDADE_MUDA_DATA = [
     "Responsável": "REGINALDO DA SILVA GOMES ",
     "Qualidade da Muda": "BOM",
     "Observações": null,
-    "Fazenda": null,
-    "Observações ": null,
-    "Unnamed: 19": null
+    "Fazenda": null
   },
   {
     "ID": "3520416",
@@ -42688,9 +38978,7 @@ window.QUALIDADE_MUDA_DATA = [
     "Responsável": "VITOR AMORIM RAMOS ",
     "Qualidade da Muda": "BOM",
     "Observações": null,
-    "Fazenda": null,
-    "Observações ": null,
-    "Unnamed: 19": null
+    "Fazenda": null
   },
   {
     "ID": "3520681",
@@ -42711,9 +38999,7 @@ window.QUALIDADE_MUDA_DATA = [
     "Responsável": "REGINALDO DA SILVA GOMES ",
     "Qualidade da Muda": "BOM",
     "Observações": null,
-    "Fazenda": null,
-    "Observações ": null,
-    "Unnamed: 19": null
+    "Fazenda": null
   },
   {
     "ID": "3520675",
@@ -42734,9 +39020,7 @@ window.QUALIDADE_MUDA_DATA = [
     "Responsável": "REGINALDO DA SILVA GOMES ",
     "Qualidade da Muda": "BOM",
     "Observações": null,
-    "Fazenda": null,
-    "Observações ": null,
-    "Unnamed: 19": null
+    "Fazenda": null
   },
   {
     "ID": "3520395",
@@ -42757,9 +39041,7 @@ window.QUALIDADE_MUDA_DATA = [
     "Responsável": "VITOR AMORIM RAMOS ",
     "Qualidade da Muda": "BOM",
     "Observações": null,
-    "Fazenda": null,
-    "Observações ": null,
-    "Unnamed: 19": null
+    "Fazenda": null
   },
   {
     "ID": "3520390",
@@ -42780,9 +39062,7 @@ window.QUALIDADE_MUDA_DATA = [
     "Responsável": "VITOR AMORIM RAMOS ",
     "Qualidade da Muda": "BOM",
     "Observações": null,
-    "Fazenda": null,
-    "Observações ": null,
-    "Unnamed: 19": null
+    "Fazenda": null
   },
   {
     "ID": "3520383",
@@ -42803,9 +39083,7 @@ window.QUALIDADE_MUDA_DATA = [
     "Responsável": "VITOR AMORIM RAMOS ",
     "Qualidade da Muda": "BOM",
     "Observações": null,
-    "Fazenda": null,
-    "Observações ": null,
-    "Unnamed: 19": null
+    "Fazenda": null
   },
   {
     "ID": "3520459",
@@ -42826,9 +39104,7 @@ window.QUALIDADE_MUDA_DATA = [
     "Responsável": "GABRIEL HENRIQUE MARTINS PEREIRA",
     "Qualidade da Muda": "BOM",
     "Observações": null,
-    "Fazenda": null,
-    "Observações ": null,
-    "Unnamed: 19": null
+    "Fazenda": null
   },
   {
     "ID": "3520577",
@@ -42849,9 +39125,7 @@ window.QUALIDADE_MUDA_DATA = [
     "Responsável": "MARCELO DE OLIVEIRA JUNIOR",
     "Qualidade da Muda": "BOM",
     "Observações": null,
-    "Fazenda": null,
-    "Observações ": null,
-    "Unnamed: 19": null
+    "Fazenda": null
   },
   {
     "ID": "3520373",
@@ -42872,9 +39146,7 @@ window.QUALIDADE_MUDA_DATA = [
     "Responsável": "VITOR AMORIM RAMOS ",
     "Qualidade da Muda": "BOM",
     "Observações": null,
-    "Fazenda": null,
-    "Observações ": null,
-    "Unnamed: 19": null
+    "Fazenda": null
   },
   {
     "ID": "3520368",
@@ -42895,9 +39167,7 @@ window.QUALIDADE_MUDA_DATA = [
     "Responsável": "VITOR AMORIM RAMOS ",
     "Qualidade da Muda": "BOM",
     "Observações": null,
-    "Fazenda": null,
-    "Observações ": null,
-    "Unnamed: 19": null
+    "Fazenda": null
   },
   {
     "ID": "3520572",
@@ -42918,9 +39188,7 @@ window.QUALIDADE_MUDA_DATA = [
     "Responsável": "MARCELO DE OLIVEIRA JUNIOR",
     "Qualidade da Muda": "BOM",
     "Observações": null,
-    "Fazenda": null,
-    "Observações ": null,
-    "Unnamed: 19": null
+    "Fazenda": null
   },
   {
     "ID": "3520359",
@@ -42941,9 +39209,7 @@ window.QUALIDADE_MUDA_DATA = [
     "Responsável": "VITOR AMORIM RAMOS ",
     "Qualidade da Muda": "BOM",
     "Observações": null,
-    "Fazenda": null,
-    "Observações ": null,
-    "Unnamed: 19": null
+    "Fazenda": null
   },
   {
     "ID": "3520454",
@@ -42964,9 +39230,7 @@ window.QUALIDADE_MUDA_DATA = [
     "Responsável": "GABRIEL HENRIQUE MARTINS PEREIRA",
     "Qualidade da Muda": "BOM",
     "Observações": null,
-    "Fazenda": null,
-    "Observações ": null,
-    "Unnamed: 19": null
+    "Fazenda": null
   },
   {
     "ID": "3520353",
@@ -42987,9 +39251,7 @@ window.QUALIDADE_MUDA_DATA = [
     "Responsável": "VITOR AMORIM RAMOS ",
     "Qualidade da Muda": "BOM",
     "Observações": null,
-    "Fazenda": null,
-    "Observações ": null,
-    "Unnamed: 19": null
+    "Fazenda": null
   },
   {
     "ID": "3520348",
@@ -43010,9 +39272,7 @@ window.QUALIDADE_MUDA_DATA = [
     "Responsável": "VITOR AMORIM RAMOS ",
     "Qualidade da Muda": "BOM",
     "Observações": null,
-    "Fazenda": null,
-    "Observações ": null,
-    "Unnamed: 19": null
+    "Fazenda": null
   },
   {
     "ID": "3518731",
@@ -43033,9 +39293,7 @@ window.QUALIDADE_MUDA_DATA = [
     "Responsável": "GABRIEL HENRIQUE MARTINS PEREIRA",
     "Qualidade da Muda": "BOM",
     "Observações": null,
-    "Fazenda": null,
-    "Observações ": null,
-    "Unnamed: 19": null
+    "Fazenda": null
   },
   {
     "ID": "3518727",
@@ -43056,9 +39314,7 @@ window.QUALIDADE_MUDA_DATA = [
     "Responsável": "GABRIEL HENRIQUE MARTINS PEREIRA",
     "Qualidade da Muda": "BOM",
     "Observações": null,
-    "Fazenda": null,
-    "Observações ": null,
-    "Unnamed: 19": null
+    "Fazenda": null
   },
   {
     "ID": "3518723",
@@ -43079,9 +39335,7 @@ window.QUALIDADE_MUDA_DATA = [
     "Responsável": "GABRIEL HENRIQUE MARTINS PEREIRA",
     "Qualidade da Muda": "BOM",
     "Observações": null,
-    "Fazenda": null,
-    "Observações ": null,
-    "Unnamed: 19": null
+    "Fazenda": null
   },
   {
     "ID": "3518566",
@@ -43102,9 +39356,7 @@ window.QUALIDADE_MUDA_DATA = [
     "Responsável": "NILDA CLAUDINO [2510716]",
     "Qualidade da Muda": "BOM",
     "Observações": null,
-    "Fazenda": null,
-    "Observações ": null,
-    "Unnamed: 19": null
+    "Fazenda": null
   },
   {
     "ID": "3518561",
@@ -43125,9 +39377,7 @@ window.QUALIDADE_MUDA_DATA = [
     "Responsável": "NILDA CLAUDINO [2510716]",
     "Qualidade da Muda": "BOM",
     "Observações": null,
-    "Fazenda": null,
-    "Observações ": null,
-    "Unnamed: 19": null
+    "Fazenda": null
   },
   {
     "ID": "3518680",
@@ -43148,9 +39398,7 @@ window.QUALIDADE_MUDA_DATA = [
     "Responsável": "VITOR AMORIM RAMOS ",
     "Qualidade da Muda": "BOM",
     "Observações": null,
-    "Fazenda": null,
-    "Observações ": null,
-    "Unnamed: 19": null
+    "Fazenda": null
   },
   {
     "ID": "3518673",
@@ -43171,9 +39419,7 @@ window.QUALIDADE_MUDA_DATA = [
     "Responsável": "VITOR AMORIM RAMOS ",
     "Qualidade da Muda": "BOM",
     "Observações": null,
-    "Fazenda": null,
-    "Observações ": null,
-    "Unnamed: 19": null
+    "Fazenda": null
   },
   {
     "ID": "3518619",
@@ -43194,9 +39440,7 @@ window.QUALIDADE_MUDA_DATA = [
     "Responsável": "MICHELI DE SOUZA SANTOS  ",
     "Qualidade da Muda": "BOM",
     "Observações": null,
-    "Fazenda": null,
-    "Observações ": null,
-    "Unnamed: 19": null
+    "Fazenda": null
   },
   {
     "ID": "3518565",
@@ -43217,9 +39461,7 @@ window.QUALIDADE_MUDA_DATA = [
     "Responsável": "MICHELI DE SOUZA SANTOS  ",
     "Qualidade da Muda": "BOM",
     "Observações": null,
-    "Fazenda": null,
-    "Observações ": null,
-    "Unnamed: 19": null
+    "Fazenda": null
   },
   {
     "ID": "3519044",
@@ -43240,9 +39482,7 @@ window.QUALIDADE_MUDA_DATA = [
     "Responsável": "MARCELO DE OLIVEIRA JUNIOR",
     "Qualidade da Muda": "BOM",
     "Observações": null,
-    "Fazenda": null,
-    "Observações ": null,
-    "Unnamed: 19": null
+    "Fazenda": null
   },
   {
     "ID": "3518557",
@@ -43263,9 +39503,7 @@ window.QUALIDADE_MUDA_DATA = [
     "Responsável": "MICHELI DE SOUZA SANTOS  ",
     "Qualidade da Muda": "BOM",
     "Observações": null,
-    "Fazenda": null,
-    "Observações ": null,
-    "Unnamed: 19": null
+    "Fazenda": null
   },
   {
     "ID": "3518667",
@@ -43286,9 +39524,7 @@ window.QUALIDADE_MUDA_DATA = [
     "Responsável": "VITOR AMORIM RAMOS ",
     "Qualidade da Muda": "BOM",
     "Observações": null,
-    "Fazenda": null,
-    "Observações ": null,
-    "Unnamed: 19": null
+    "Fazenda": null
   },
   {
     "ID": "3519033",
@@ -43309,9 +39545,7 @@ window.QUALIDADE_MUDA_DATA = [
     "Responsável": "MARCELO DE OLIVEIRA JUNIOR",
     "Qualidade da Muda": "BOM",
     "Observações": null,
-    "Fazenda": null,
-    "Observações ": null,
-    "Unnamed: 19": null
+    "Fazenda": null
   },
   {
     "ID": "3518660",
@@ -43332,9 +39566,7 @@ window.QUALIDADE_MUDA_DATA = [
     "Responsável": "VITOR AMORIM RAMOS ",
     "Qualidade da Muda": "BOM",
     "Observações": null,
-    "Fazenda": null,
-    "Observações ": null,
-    "Unnamed: 19": null
+    "Fazenda": null
   },
   {
     "ID": "3518998",
@@ -43355,9 +39587,7 @@ window.QUALIDADE_MUDA_DATA = [
     "Responsável": "MARCELO DE OLIVEIRA JUNIOR",
     "Qualidade da Muda": "BOM",
     "Observações": null,
-    "Fazenda": null,
-    "Observações ": null,
-    "Unnamed: 19": null
+    "Fazenda": null
   },
   {
     "ID": "3518993",
@@ -43378,9 +39608,7 @@ window.QUALIDADE_MUDA_DATA = [
     "Responsável": "MARCELO DE OLIVEIRA JUNIOR",
     "Qualidade da Muda": "BOM",
     "Observações": null,
-    "Fazenda": null,
-    "Observações ": null,
-    "Unnamed: 19": null
+    "Fazenda": null
   },
   {
     "ID": "3518535",
@@ -43401,9 +39629,7 @@ window.QUALIDADE_MUDA_DATA = [
     "Responsável": "MICHELI DE SOUZA SANTOS  ",
     "Qualidade da Muda": "BOM",
     "Observações": null,
-    "Fazenda": null,
-    "Observações ": null,
-    "Unnamed: 19": null
+    "Fazenda": null
   },
   {
     "ID": "3518320",
@@ -43424,9 +39650,7 @@ window.QUALIDADE_MUDA_DATA = [
     "Responsável": "NILDA CLAUDINO [2510716]",
     "Qualidade da Muda": "BOM",
     "Observações": null,
-    "Fazenda": null,
-    "Observações ": null,
-    "Unnamed: 19": null
+    "Fazenda": null
   },
   {
     "ID": "3518314",
@@ -43447,9 +39671,7 @@ window.QUALIDADE_MUDA_DATA = [
     "Responsável": "NILDA CLAUDINO [2510716]",
     "Qualidade da Muda": "BOM",
     "Observações": null,
-    "Fazenda": null,
-    "Observações ": null,
-    "Unnamed: 19": null
+    "Fazenda": null
   },
   {
     "ID": "3519171",
@@ -43470,9 +39692,7 @@ window.QUALIDADE_MUDA_DATA = [
     "Responsável": "MARCELO DE OLIVEIRA JUNIOR",
     "Qualidade da Muda": "BOM",
     "Observações": null,
-    "Fazenda": null,
-    "Observações ": null,
-    "Unnamed: 19": null
+    "Fazenda": null
   },
   {
     "ID": "3518310",
@@ -43493,9 +39713,7 @@ window.QUALIDADE_MUDA_DATA = [
     "Responsável": "NILDA CLAUDINO [2510716]",
     "Qualidade da Muda": "BOM",
     "Observações": null,
-    "Fazenda": null,
-    "Observações ": null,
-    "Unnamed: 19": null
+    "Fazenda": null
   },
   {
     "ID": "3518968",
@@ -43516,9 +39734,7 @@ window.QUALIDADE_MUDA_DATA = [
     "Responsável": "MARCELO DE OLIVEIRA JUNIOR",
     "Qualidade da Muda": "BOM",
     "Observações": null,
-    "Fazenda": null,
-    "Observações ": null,
-    "Unnamed: 19": null
+    "Fazenda": null
   },
   {
     "ID": "3518963",
@@ -43539,9 +39755,7 @@ window.QUALIDADE_MUDA_DATA = [
     "Responsável": "MARCELO DE OLIVEIRA JUNIOR",
     "Qualidade da Muda": "BOM",
     "Observações": null,
-    "Fazenda": null,
-    "Observações ": null,
-    "Unnamed: 19": null
+    "Fazenda": null
   },
   {
     "ID": "3518957",
@@ -43562,9 +39776,7 @@ window.QUALIDADE_MUDA_DATA = [
     "Responsável": "MARCELO DE OLIVEIRA JUNIOR",
     "Qualidade da Muda": "BOM",
     "Observações": null,
-    "Fazenda": null,
-    "Observações ": null,
-    "Unnamed: 19": null
+    "Fazenda": null
   },
   {
     "ID": "3516464",
@@ -43585,9 +39797,7 @@ window.QUALIDADE_MUDA_DATA = [
     "Responsável": "MICHELI DE SOUZA SANTOS  ",
     "Qualidade da Muda": "BOM",
     "Observações": null,
-    "Fazenda": null,
-    "Observações ": null,
-    "Unnamed: 19": null
+    "Fazenda": null
   },
   {
     "ID": "3516461",
@@ -43608,9 +39818,7 @@ window.QUALIDADE_MUDA_DATA = [
     "Responsável": "MICHELI DE SOUZA SANTOS  ",
     "Qualidade da Muda": "BOM",
     "Observações": null,
-    "Fazenda": null,
-    "Observações ": null,
-    "Unnamed: 19": null
+    "Fazenda": null
   },
   {
     "ID": "3516457",
@@ -43631,9 +39839,7 @@ window.QUALIDADE_MUDA_DATA = [
     "Responsável": "MICHELI DE SOUZA SANTOS  ",
     "Qualidade da Muda": "BOM",
     "Observações": null,
-    "Fazenda": null,
-    "Observações ": null,
-    "Unnamed: 19": null
+    "Fazenda": null
   },
   {
     "ID": "3516450",
@@ -43654,9 +39860,7 @@ window.QUALIDADE_MUDA_DATA = [
     "Responsável": "MICHELI DE SOUZA SANTOS  ",
     "Qualidade da Muda": "BOM",
     "Observações": null,
-    "Fazenda": null,
-    "Observações ": null,
-    "Unnamed: 19": null
+    "Fazenda": null
   },
   {
     "ID": "3516445",
@@ -43677,9 +39881,7 @@ window.QUALIDADE_MUDA_DATA = [
     "Responsável": "MICHELI DE SOUZA SANTOS  ",
     "Qualidade da Muda": "BOM",
     "Observações": null,
-    "Fazenda": null,
-    "Observações ": null,
-    "Unnamed: 19": null
+    "Fazenda": null
   },
   {
     "ID": "3516440",
@@ -43700,9 +39902,7 @@ window.QUALIDADE_MUDA_DATA = [
     "Responsável": "MICHELI DE SOUZA SANTOS  ",
     "Qualidade da Muda": "BOM",
     "Observações": null,
-    "Fazenda": null,
-    "Observações ": null,
-    "Unnamed: 19": null
+    "Fazenda": null
   },
   {
     "ID": "3516366",
@@ -43723,9 +39923,7 @@ window.QUALIDADE_MUDA_DATA = [
     "Responsável": "MICHELI DE SOUZA SANTOS  ",
     "Qualidade da Muda": "BOM",
     "Observações": null,
-    "Fazenda": null,
-    "Observações ": null,
-    "Unnamed: 19": null
+    "Fazenda": null
   },
   {
     "ID": "3516426",
@@ -43746,9 +39944,7 @@ window.QUALIDADE_MUDA_DATA = [
     "Responsável": "NILDA CLAUDINO [2510716]",
     "Qualidade da Muda": "BOM",
     "Observações": null,
-    "Fazenda": null,
-    "Observações ": null,
-    "Unnamed: 19": null
+    "Fazenda": null
   },
   {
     "ID": "3516422",
@@ -43769,9 +39965,7 @@ window.QUALIDADE_MUDA_DATA = [
     "Responsável": "NILDA CLAUDINO [2510716]",
     "Qualidade da Muda": "BOM",
     "Observações": null,
-    "Fazenda": null,
-    "Observações ": null,
-    "Unnamed: 19": null
+    "Fazenda": null
   },
   {
     "ID": "3516418",
@@ -43792,9 +39986,7 @@ window.QUALIDADE_MUDA_DATA = [
     "Responsável": "NILDA CLAUDINO [2510716]",
     "Qualidade da Muda": "BOM",
     "Observações": null,
-    "Fazenda": null,
-    "Observações ": null,
-    "Unnamed: 19": null
+    "Fazenda": null
   },
   {
     "ID": "3516928",
@@ -43815,9 +40007,7 @@ window.QUALIDADE_MUDA_DATA = [
     "Responsável": "MARCELO DE OLIVEIRA JUNIOR",
     "Qualidade da Muda": "BOM",
     "Observações": null,
-    "Fazenda": null,
-    "Observações ": null,
-    "Unnamed: 19": null
+    "Fazenda": null
   },
   {
     "ID": "3516589",
@@ -43838,9 +40028,7 @@ window.QUALIDADE_MUDA_DATA = [
     "Responsável": "MARCELO DE OLIVEIRA JUNIOR",
     "Qualidade da Muda": "BOM",
     "Observações": null,
-    "Fazenda": null,
-    "Observações ": null,
-    "Unnamed: 19": null
+    "Fazenda": null
   },
   {
     "ID": "3516584",
@@ -43861,9 +40049,7 @@ window.QUALIDADE_MUDA_DATA = [
     "Responsável": "MARCELO DE OLIVEIRA JUNIOR",
     "Qualidade da Muda": "BOM",
     "Observações": null,
-    "Fazenda": null,
-    "Observações ": null,
-    "Unnamed: 19": null
+    "Fazenda": null
   },
   {
     "ID": "3516579",
@@ -43884,9 +40070,7 @@ window.QUALIDADE_MUDA_DATA = [
     "Responsável": "MARCELO DE OLIVEIRA JUNIOR",
     "Qualidade da Muda": "BOM",
     "Observações": null,
-    "Fazenda": null,
-    "Observações ": null,
-    "Unnamed: 19": null
+    "Fazenda": null
   },
   {
     "ID": "3515988",
@@ -43907,9 +40091,7 @@ window.QUALIDADE_MUDA_DATA = [
     "Responsável": "VITOR AMORIM RAMOS ",
     "Qualidade da Muda": "BOM",
     "Observações": null,
-    "Fazenda": null,
-    "Observações ": null,
-    "Unnamed: 19": null
+    "Fazenda": null
   },
   {
     "ID": "3515983",
@@ -43930,9 +40112,7 @@ window.QUALIDADE_MUDA_DATA = [
     "Responsável": "VITOR AMORIM RAMOS ",
     "Qualidade da Muda": "BOM",
     "Observações": null,
-    "Fazenda": null,
-    "Observações ": null,
-    "Unnamed: 19": null
+    "Fazenda": null
   },
   {
     "ID": "3515978",
@@ -43953,9 +40133,7 @@ window.QUALIDADE_MUDA_DATA = [
     "Responsável": "VITOR AMORIM RAMOS ",
     "Qualidade da Muda": "BOM",
     "Observações": null,
-    "Fazenda": null,
-    "Observações ": null,
-    "Unnamed: 19": null
+    "Fazenda": null
   },
   {
     "ID": "3515973",
@@ -43976,9 +40154,7 @@ window.QUALIDADE_MUDA_DATA = [
     "Responsável": "VITOR AMORIM RAMOS ",
     "Qualidade da Muda": "BOM",
     "Observações": null,
-    "Fazenda": null,
-    "Observações ": null,
-    "Unnamed: 19": null
+    "Fazenda": null
   },
   {
     "ID": "3515968",
@@ -43999,9 +40175,7 @@ window.QUALIDADE_MUDA_DATA = [
     "Responsável": "VITOR AMORIM RAMOS ",
     "Qualidade da Muda": "BOM",
     "Observações": null,
-    "Fazenda": null,
-    "Observações ": null,
-    "Unnamed: 19": null
+    "Fazenda": null
   },
   {
     "ID": "3515963",
@@ -44022,9 +40196,7 @@ window.QUALIDADE_MUDA_DATA = [
     "Responsável": "VITOR AMORIM RAMOS ",
     "Qualidade da Muda": "BOM",
     "Observações": null,
-    "Fazenda": null,
-    "Observações ": null,
-    "Unnamed: 19": null
+    "Fazenda": null
   },
   {
     "ID": "3515958",
@@ -44045,9 +40217,7 @@ window.QUALIDADE_MUDA_DATA = [
     "Responsável": "VITOR AMORIM RAMOS ",
     "Qualidade da Muda": "BOM",
     "Observações": null,
-    "Fazenda": null,
-    "Observações ": null,
-    "Unnamed: 19": null
+    "Fazenda": null
   },
   {
     "ID": "3515924",
@@ -44068,9 +40238,7 @@ window.QUALIDADE_MUDA_DATA = [
     "Responsável": "EDILIANA CARDOSO DA COSTA",
     "Qualidade da Muda": "BOM",
     "Observações": null,
-    "Fazenda": null,
-    "Observações ": null,
-    "Unnamed: 19": null
+    "Fazenda": null
   },
   {
     "ID": "3515923",
@@ -44091,9 +40259,7 @@ window.QUALIDADE_MUDA_DATA = [
     "Responsável": "EDILIANA CARDOSO DA COSTA",
     "Qualidade da Muda": "BOM",
     "Observações": null,
-    "Fazenda": null,
-    "Observações ": null,
-    "Unnamed: 19": null
+    "Fazenda": null
   },
   {
     "ID": "3515922",
@@ -44114,9 +40280,7 @@ window.QUALIDADE_MUDA_DATA = [
     "Responsável": "EDILIANA CARDOSO DA COSTA",
     "Qualidade da Muda": "BOM",
     "Observações": null,
-    "Fazenda": null,
-    "Observações ": null,
-    "Unnamed: 19": null
+    "Fazenda": null
   },
   {
     "ID": "3515921",
@@ -44137,9 +40301,7 @@ window.QUALIDADE_MUDA_DATA = [
     "Responsável": "EDILIANA CARDOSO DA COSTA",
     "Qualidade da Muda": "BOM",
     "Observações": null,
-    "Fazenda": null,
-    "Observações ": null,
-    "Unnamed: 19": null
+    "Fazenda": null
   },
   {
     "ID": "3515950",
@@ -44160,9 +40322,7 @@ window.QUALIDADE_MUDA_DATA = [
     "Responsável": "VITOR AMORIM RAMOS ",
     "Qualidade da Muda": "BOM",
     "Observações": null,
-    "Fazenda": null,
-    "Observações ": null,
-    "Unnamed: 19": null
+    "Fazenda": null
   },
   {
     "ID": "3515946",
@@ -44183,9 +40343,7 @@ window.QUALIDADE_MUDA_DATA = [
     "Responsável": "VITOR AMORIM RAMOS ",
     "Qualidade da Muda": "BOM",
     "Observações": null,
-    "Fazenda": null,
-    "Observações ": null,
-    "Unnamed: 19": null
+    "Fazenda": null
   },
   {
     "ID": "3515942",
@@ -44206,9 +40364,7 @@ window.QUALIDADE_MUDA_DATA = [
     "Responsável": "VITOR AMORIM RAMOS ",
     "Qualidade da Muda": "BOM",
     "Observações": null,
-    "Fazenda": null,
-    "Observações ": null,
-    "Unnamed: 19": null
+    "Fazenda": null
   },
   {
     "ID": "3515937",
@@ -44229,9 +40385,7 @@ window.QUALIDADE_MUDA_DATA = [
     "Responsável": "VITOR AMORIM RAMOS ",
     "Qualidade da Muda": "BOM",
     "Observações": null,
-    "Fazenda": null,
-    "Observações ": null,
-    "Unnamed: 19": null
+    "Fazenda": null
   },
   {
     "ID": "3516565",
@@ -44252,9 +40406,7 @@ window.QUALIDADE_MUDA_DATA = [
     "Responsável": "MARCELO DE OLIVEIRA JUNIOR",
     "Qualidade da Muda": "BOM",
     "Observações": null,
-    "Fazenda": null,
-    "Observações ": null,
-    "Unnamed: 19": null
+    "Fazenda": null
   },
   {
     "ID": "3516559",
@@ -44275,9 +40427,7 @@ window.QUALIDADE_MUDA_DATA = [
     "Responsável": "MARCELO DE OLIVEIRA JUNIOR",
     "Qualidade da Muda": "BOM",
     "Observações": null,
-    "Fazenda": null,
-    "Observações ": null,
-    "Unnamed: 19": null
+    "Fazenda": null
   },
   {
     "ID": "3514277",
@@ -44298,9 +40448,7 @@ window.QUALIDADE_MUDA_DATA = [
     "Responsável": "MARCELO DE OLIVEIRA JUNIOR",
     "Qualidade da Muda": "BOM",
     "Observações": null,
-    "Fazenda": null,
-    "Observações ": null,
-    "Unnamed: 19": null
+    "Fazenda": null
   },
   {
     "ID": "3513892",
@@ -44321,9 +40469,7 @@ window.QUALIDADE_MUDA_DATA = [
     "Responsável": "MICHELI DE SOUZA SANTOS  ",
     "Qualidade da Muda": "BOM",
     "Observações": null,
-    "Fazenda": null,
-    "Observações ": null,
-    "Unnamed: 19": null
+    "Fazenda": null
   },
   {
     "ID": "3513887",
@@ -44344,9 +40490,7 @@ window.QUALIDADE_MUDA_DATA = [
     "Responsável": "MICHELI DE SOUZA SANTOS  ",
     "Qualidade da Muda": "BOM",
     "Observações": null,
-    "Fazenda": null,
-    "Observações ": null,
-    "Unnamed: 19": null
+    "Fazenda": null
   },
   {
     "ID": "3514216",
@@ -44367,9 +40511,7 @@ window.QUALIDADE_MUDA_DATA = [
     "Responsável": "FERNANDA DE SOUZA ",
     "Qualidade da Muda": "BOM",
     "Observações": null,
-    "Fazenda": null,
-    "Observações ": null,
-    "Unnamed: 19": null
+    "Fazenda": null
   },
   {
     "ID": "3513884",
@@ -44390,9 +40532,7 @@ window.QUALIDADE_MUDA_DATA = [
     "Responsável": "MICHELI DE SOUZA SANTOS  ",
     "Qualidade da Muda": "BOM",
     "Observações": null,
-    "Fazenda": null,
-    "Observações ": null,
-    "Unnamed: 19": null
+    "Fazenda": null
   },
   {
     "ID": "3514211",
@@ -44413,9 +40553,7 @@ window.QUALIDADE_MUDA_DATA = [
     "Responsável": "FERNANDA DE SOUZA ",
     "Qualidade da Muda": "BOM",
     "Observações": null,
-    "Fazenda": null,
-    "Observações ": null,
-    "Unnamed: 19": null
+    "Fazenda": null
   },
   {
     "ID": "3514202",
@@ -44436,9 +40574,7 @@ window.QUALIDADE_MUDA_DATA = [
     "Responsável": "FERNANDA DE SOUZA ",
     "Qualidade da Muda": "BOM",
     "Observações": null,
-    "Fazenda": null,
-    "Observações ": null,
-    "Unnamed: 19": null
+    "Fazenda": null
   },
   {
     "ID": "3514199",
@@ -44459,9 +40595,7 @@ window.QUALIDADE_MUDA_DATA = [
     "Responsável": "FERNANDA DE SOUZA ",
     "Qualidade da Muda": "BOM",
     "Observações": null,
-    "Fazenda": null,
-    "Observações ": null,
-    "Unnamed: 19": null
+    "Fazenda": null
   },
   {
     "ID": "3514172",
@@ -44482,9 +40616,7 @@ window.QUALIDADE_MUDA_DATA = [
     "Responsável": "FERNANDA DE SOUZA ",
     "Qualidade da Muda": "BOM",
     "Observações": null,
-    "Fazenda": null,
-    "Observações ": null,
-    "Unnamed: 19": null
+    "Fazenda": null
   },
   {
     "ID": "3514141",
@@ -44505,9 +40637,7 @@ window.QUALIDADE_MUDA_DATA = [
     "Responsável": "FERNANDA DE SOUZA ",
     "Qualidade da Muda": "BOM",
     "Observações": null,
-    "Fazenda": null,
-    "Observações ": null,
-    "Unnamed: 19": null
+    "Fazenda": null
   },
   {
     "ID": "3514269",
@@ -44528,9 +40658,7 @@ window.QUALIDADE_MUDA_DATA = [
     "Responsável": "MARCELO DE OLIVEIRA JUNIOR",
     "Qualidade da Muda": "BOM",
     "Observações": null,
-    "Fazenda": null,
-    "Observações ": null,
-    "Unnamed: 19": null
+    "Fazenda": null
   },
   {
     "ID": "3514190",
@@ -44551,9 +40679,7 @@ window.QUALIDADE_MUDA_DATA = [
     "Responsável": "MARCELO DE OLIVEIRA JUNIOR",
     "Qualidade da Muda": "BOM",
     "Observações": null,
-    "Fazenda": null,
-    "Observações ": null,
-    "Unnamed: 19": null
+    "Fazenda": null
   },
   {
     "ID": "3514189",
@@ -44574,9 +40700,7 @@ window.QUALIDADE_MUDA_DATA = [
     "Responsável": "MARCELO DE OLIVEIRA JUNIOR",
     "Qualidade da Muda": "BOM",
     "Observações": null,
-    "Fazenda": null,
-    "Observações ": null,
-    "Unnamed: 19": null
+    "Fazenda": null
   },
   {
     "ID": "3514164",
@@ -44597,9 +40721,7 @@ window.QUALIDADE_MUDA_DATA = [
     "Responsável": "MARCELO DE OLIVEIRA JUNIOR",
     "Qualidade da Muda": "BOM",
     "Observações": null,
-    "Fazenda": null,
-    "Observações ": null,
-    "Unnamed: 19": null
+    "Fazenda": null
   },
   {
     "ID": "3514151",
@@ -44620,9 +40742,7 @@ window.QUALIDADE_MUDA_DATA = [
     "Responsável": "MARCELO DE OLIVEIRA JUNIOR",
     "Qualidade da Muda": "BOM",
     "Observações": null,
-    "Fazenda": null,
-    "Observações ": null,
-    "Unnamed: 19": null
+    "Fazenda": null
   },
   {
     "ID": "3514143",
@@ -44643,9 +40763,7 @@ window.QUALIDADE_MUDA_DATA = [
     "Responsável": "MARCELO DE OLIVEIRA JUNIOR",
     "Qualidade da Muda": "BOM",
     "Observações": null,
-    "Fazenda": null,
-    "Observações ": null,
-    "Unnamed: 19": null
+    "Fazenda": null
   },
   {
     "ID": "3511766",
@@ -44666,9 +40784,7 @@ window.QUALIDADE_MUDA_DATA = [
     "Responsável": "FERNANDA DE SOUZA ",
     "Qualidade da Muda": "BOM",
     "Observações": null,
-    "Fazenda": null,
-    "Observações ": null,
-    "Unnamed: 19": null
+    "Fazenda": null
   },
   {
     "ID": "3511761",
@@ -44689,9 +40805,7 @@ window.QUALIDADE_MUDA_DATA = [
     "Responsável": "FERNANDA DE SOUZA ",
     "Qualidade da Muda": "BOM",
     "Observações": null,
-    "Fazenda": null,
-    "Observações ": null,
-    "Unnamed: 19": null
+    "Fazenda": null
   },
   {
     "ID": "3511704",
@@ -44712,9 +40826,7 @@ window.QUALIDADE_MUDA_DATA = [
     "Responsável": "VITOR AMORIM RAMOS ",
     "Qualidade da Muda": "BOM",
     "Observações": null,
-    "Fazenda": null,
-    "Observações ": null,
-    "Unnamed: 19": null
+    "Fazenda": null
   },
   {
     "ID": "3511699",
@@ -44735,9 +40847,7 @@ window.QUALIDADE_MUDA_DATA = [
     "Responsável": "VITOR AMORIM RAMOS ",
     "Qualidade da Muda": "BOM",
     "Observações": null,
-    "Fazenda": null,
-    "Observações ": null,
-    "Unnamed: 19": null
+    "Fazenda": null
   },
   {
     "ID": "3511694",
@@ -44758,9 +40868,7 @@ window.QUALIDADE_MUDA_DATA = [
     "Responsável": "VITOR AMORIM RAMOS ",
     "Qualidade da Muda": "BOM",
     "Observações": null,
-    "Fazenda": null,
-    "Observações ": null,
-    "Unnamed: 19": null
+    "Fazenda": null
   },
   {
     "ID": "3511689",
@@ -44781,9 +40889,7 @@ window.QUALIDADE_MUDA_DATA = [
     "Responsável": "VITOR AMORIM RAMOS ",
     "Qualidade da Muda": "BOM",
     "Observações": null,
-    "Fazenda": null,
-    "Observações ": null,
-    "Unnamed: 19": null
+    "Fazenda": null
   },
   {
     "ID": "3511672",
@@ -44804,9 +40910,7 @@ window.QUALIDADE_MUDA_DATA = [
     "Responsável": "VITOR AMORIM RAMOS ",
     "Qualidade da Muda": "BOM",
     "Observações": null,
-    "Fazenda": null,
-    "Observações ": null,
-    "Unnamed: 19": null
+    "Fazenda": null
   },
   {
     "ID": "3511668",
@@ -44827,9 +40931,7 @@ window.QUALIDADE_MUDA_DATA = [
     "Responsável": "VITOR AMORIM RAMOS ",
     "Qualidade da Muda": "BOM",
     "Observações": null,
-    "Fazenda": null,
-    "Observações ": null,
-    "Unnamed: 19": null
+    "Fazenda": null
   },
   {
     "ID": "3511814",
@@ -44850,9 +40952,7 @@ window.QUALIDADE_MUDA_DATA = [
     "Responsável": "GABRIEL HENRIQUE MARTINS PEREIRA",
     "Qualidade da Muda": "BOM",
     "Observações": null,
-    "Fazenda": null,
-    "Observações ": null,
-    "Unnamed: 19": null
+    "Fazenda": null
   },
   {
     "ID": "3511310",
@@ -44873,9 +40973,7 @@ window.QUALIDADE_MUDA_DATA = [
     "Responsável": "NILDA CLAUDINO [2510716]",
     "Qualidade da Muda": "BOM",
     "Observações": null,
-    "Fazenda": null,
-    "Observações ": null,
-    "Unnamed: 19": null
+    "Fazenda": null
   },
   {
     "ID": "3511306",
@@ -44896,9 +40994,7 @@ window.QUALIDADE_MUDA_DATA = [
     "Responsável": "NILDA CLAUDINO [2510716]",
     "Qualidade da Muda": "BOM",
     "Observações": null,
-    "Fazenda": null,
-    "Observações ": null,
-    "Unnamed: 19": null
+    "Fazenda": null
   },
   {
     "ID": "3511299",
@@ -44919,9 +41015,7 @@ window.QUALIDADE_MUDA_DATA = [
     "Responsável": "NILDA CLAUDINO [2510716]",
     "Qualidade da Muda": "BOM",
     "Observações": null,
-    "Fazenda": null,
-    "Observações ": null,
-    "Unnamed: 19": null
+    "Fazenda": null
   },
   {
     "ID": "3511809",
@@ -44942,9 +41036,7 @@ window.QUALIDADE_MUDA_DATA = [
     "Responsável": "GABRIEL HENRIQUE MARTINS PEREIRA",
     "Qualidade da Muda": "BOM",
     "Observações": null,
-    "Fazenda": null,
-    "Observações ": null,
-    "Unnamed: 19": null
+    "Fazenda": null
   },
   {
     "ID": "3511805",
@@ -44965,9 +41057,7 @@ window.QUALIDADE_MUDA_DATA = [
     "Responsável": "GABRIEL HENRIQUE MARTINS PEREIRA",
     "Qualidade da Muda": "BOM",
     "Observações": null,
-    "Fazenda": null,
-    "Observações ": null,
-    "Unnamed: 19": null
+    "Fazenda": null
   },
   {
     "ID": "3511800",
@@ -44988,9 +41078,7 @@ window.QUALIDADE_MUDA_DATA = [
     "Responsável": "GABRIEL HENRIQUE MARTINS PEREIRA",
     "Qualidade da Muda": "BOM",
     "Observações": null,
-    "Fazenda": null,
-    "Observações ": null,
-    "Unnamed: 19": null
+    "Fazenda": null
   },
   {
     "ID": "3511287",
@@ -45011,9 +41099,7 @@ window.QUALIDADE_MUDA_DATA = [
     "Responsável": "NILDA CLAUDINO [2510716]",
     "Qualidade da Muda": "BOM",
     "Observações": null,
-    "Fazenda": null,
-    "Observações ": null,
-    "Unnamed: 19": null
+    "Fazenda": null
   },
   {
     "ID": "3509458",
@@ -45034,9 +41120,7 @@ window.QUALIDADE_MUDA_DATA = [
     "Responsável": "NILDA CLAUDINO [2510716]",
     "Qualidade da Muda": "BOM",
     "Observações": null,
-    "Fazenda": null,
-    "Observações ": null,
-    "Unnamed: 19": null
+    "Fazenda": null
   },
   {
     "ID": "3509941",
@@ -45057,9 +41141,7 @@ window.QUALIDADE_MUDA_DATA = [
     "Responsável": "GABRIEL HENRIQUE MARTINS PEREIRA",
     "Qualidade da Muda": "BOM",
     "Observações": null,
-    "Fazenda": null,
-    "Observações ": null,
-    "Unnamed: 19": null
+    "Fazenda": null
   },
   {
     "ID": "3509454",
@@ -45080,9 +41162,7 @@ window.QUALIDADE_MUDA_DATA = [
     "Responsável": "NILDA CLAUDINO [2510716]",
     "Qualidade da Muda": "BOM",
     "Observações": null,
-    "Fazenda": null,
-    "Observações ": null,
-    "Unnamed: 19": null
+    "Fazenda": null
   },
   {
     "ID": "3509630",
@@ -45103,9 +41183,7 @@ window.QUALIDADE_MUDA_DATA = [
     "Responsável": "FERNANDA DE SOUZA ",
     "Qualidade da Muda": "BOM",
     "Observações": null,
-    "Fazenda": null,
-    "Observações ": null,
-    "Unnamed: 19": null
+    "Fazenda": null
   },
   {
     "ID": "3509447",
@@ -45126,9 +41204,7 @@ window.QUALIDADE_MUDA_DATA = [
     "Responsável": "NILDA CLAUDINO [2510716]",
     "Qualidade da Muda": "BOM",
     "Observações": null,
-    "Fazenda": null,
-    "Observações ": null,
-    "Unnamed: 19": null
+    "Fazenda": null
   },
   {
     "ID": "3509624",
@@ -45149,9 +41225,7 @@ window.QUALIDADE_MUDA_DATA = [
     "Responsável": "FERNANDA DE SOUZA ",
     "Qualidade da Muda": "BOM",
     "Observações": null,
-    "Fazenda": null,
-    "Observações ": null,
-    "Unnamed: 19": null
+    "Fazenda": null
   },
   {
     "ID": "3509443",
@@ -45172,9 +41246,7 @@ window.QUALIDADE_MUDA_DATA = [
     "Responsável": "NILDA CLAUDINO [2510716]",
     "Qualidade da Muda": "BOM",
     "Observações": null,
-    "Fazenda": null,
-    "Observações ": null,
-    "Unnamed: 19": null
+    "Fazenda": null
   },
   {
     "ID": "3509538",
@@ -45195,9 +41267,7 @@ window.QUALIDADE_MUDA_DATA = [
     "Responsável": "MARCELO DE OLIVEIRA JUNIOR",
     "Qualidade da Muda": "BOM",
     "Observações": null,
-    "Fazenda": null,
-    "Observações ": null,
-    "Unnamed: 19": null
+    "Fazenda": null
   },
   {
     "ID": "3509516",
@@ -45218,9 +41288,7 @@ window.QUALIDADE_MUDA_DATA = [
     "Responsável": "MARCELO DE OLIVEIRA JUNIOR",
     "Qualidade da Muda": "BOM",
     "Observações": null,
-    "Fazenda": null,
-    "Observações ": null,
-    "Unnamed: 19": null
+    "Fazenda": null
   },
   {
     "ID": "3509278",
@@ -45241,9 +41309,7 @@ window.QUALIDADE_MUDA_DATA = [
     "Responsável": "MICHELI DE SOUZA SANTOS  ",
     "Qualidade da Muda": "BOM",
     "Observações": null,
-    "Fazenda": null,
-    "Observações ": null,
-    "Unnamed: 19": null
+    "Fazenda": null
   },
   {
     "ID": "3509277",
@@ -45264,9 +41330,7 @@ window.QUALIDADE_MUDA_DATA = [
     "Responsável": "MICHELI DE SOUZA SANTOS  ",
     "Qualidade da Muda": "BOM",
     "Observações": null,
-    "Fazenda": null,
-    "Observações ": null,
-    "Unnamed: 19": null
+    "Fazenda": null
   },
   {
     "ID": "3509276",
@@ -45287,9 +41351,7 @@ window.QUALIDADE_MUDA_DATA = [
     "Responsável": "MICHELI DE SOUZA SANTOS  ",
     "Qualidade da Muda": "BOM",
     "Observações": null,
-    "Fazenda": null,
-    "Observações ": null,
-    "Unnamed: 19": null
+    "Fazenda": null
   },
   {
     "ID": "3509505",
@@ -45310,9 +41372,7 @@ window.QUALIDADE_MUDA_DATA = [
     "Responsável": "MARCELO DE OLIVEIRA JUNIOR",
     "Qualidade da Muda": "BOM",
     "Observações": null,
-    "Fazenda": null,
-    "Observações ": null,
-    "Unnamed: 19": null
+    "Fazenda": null
   },
   {
     "ID": "3509541",
@@ -45333,9 +41393,7 @@ window.QUALIDADE_MUDA_DATA = [
     "Responsável": "REGINALDO DA SILVA GOMES ",
     "Qualidade da Muda": "BOM",
     "Observações": null,
-    "Fazenda": null,
-    "Observações ": null,
-    "Unnamed: 19": null
+    "Fazenda": null
   },
   {
     "ID": "3509530",
@@ -45356,9 +41414,7 @@ window.QUALIDADE_MUDA_DATA = [
     "Responsável": "REGINALDO DA SILVA GOMES ",
     "Qualidade da Muda": "BOM",
     "Observações": null,
-    "Fazenda": null,
-    "Observações ": null,
-    "Unnamed: 19": null
+    "Fazenda": null
   },
   {
     "ID": "3509521",
@@ -45379,9 +41435,7 @@ window.QUALIDADE_MUDA_DATA = [
     "Responsável": "REGINALDO DA SILVA GOMES ",
     "Qualidade da Muda": "BOM",
     "Observações": null,
-    "Fazenda": null,
-    "Observações ": null,
-    "Unnamed: 19": null
+    "Fazenda": null
   },
   {
     "ID": "3509246",
@@ -45402,9 +41456,7 @@ window.QUALIDADE_MUDA_DATA = [
     "Responsável": "MICHELI DE SOUZA SANTOS  ",
     "Qualidade da Muda": "BOM",
     "Observações": null,
-    "Fazenda": null,
-    "Observações ": null,
-    "Unnamed: 19": null
+    "Fazenda": null
   },
   {
     "ID": "3509252",
@@ -45425,9 +41477,7 @@ window.QUALIDADE_MUDA_DATA = [
     "Responsável": "MICHELI DE SOUZA SANTOS  ",
     "Qualidade da Muda": "BOM",
     "Observações": null,
-    "Fazenda": null,
-    "Observações ": null,
-    "Unnamed: 19": null
+    "Fazenda": null
   },
   {
     "ID": "3509253",
@@ -45448,9 +41498,7 @@ window.QUALIDADE_MUDA_DATA = [
     "Responsável": "MICHELI DE SOUZA SANTOS  ",
     "Qualidade da Muda": "BOM",
     "Observações": null,
-    "Fazenda": null,
-    "Observações ": null,
-    "Unnamed: 19": null
+    "Fazenda": null
   },
   {
     "ID": "3509932",
@@ -45471,9 +41519,7 @@ window.QUALIDADE_MUDA_DATA = [
     "Responsável": "GABRIEL HENRIQUE MARTINS PEREIRA",
     "Qualidade da Muda": "BOM",
     "Observações": null,
-    "Fazenda": null,
-    "Observações ": null,
-    "Unnamed: 19": null
+    "Fazenda": null
   },
   {
     "ID": "3509514",
@@ -45494,9 +41540,7 @@ window.QUALIDADE_MUDA_DATA = [
     "Responsável": "REGINALDO DA SILVA GOMES ",
     "Qualidade da Muda": "BOM",
     "Observações": null,
-    "Fazenda": null,
-    "Observações ": null,
-    "Unnamed: 19": null
+    "Fazenda": null
   },
   {
     "ID": "3509504",
@@ -45517,9 +41561,7 @@ window.QUALIDADE_MUDA_DATA = [
     "Responsável": "REGINALDO DA SILVA GOMES ",
     "Qualidade da Muda": "BOM",
     "Observações": null,
-    "Fazenda": null,
-    "Observações ": null,
-    "Unnamed: 19": null
+    "Fazenda": null
   },
   {
     "ID": "3509494",
@@ -45540,9 +41582,7 @@ window.QUALIDADE_MUDA_DATA = [
     "Responsável": "REGINALDO DA SILVA GOMES ",
     "Qualidade da Muda": "BOM",
     "Observações": null,
-    "Fazenda": null,
-    "Observações ": null,
-    "Unnamed: 19": null
+    "Fazenda": null
   },
   {
     "ID": "3509613",
@@ -45563,9 +41603,7 @@ window.QUALIDADE_MUDA_DATA = [
     "Responsável": "FERNANDA DE SOUZA ",
     "Qualidade da Muda": "BOM",
     "Observações": null,
-    "Fazenda": null,
-    "Observações ": null,
-    "Unnamed: 19": null
+    "Fazenda": null
   },
   {
     "ID": "3509927",
@@ -45586,9 +41624,7 @@ window.QUALIDADE_MUDA_DATA = [
     "Responsável": "GABRIEL HENRIQUE MARTINS PEREIRA",
     "Qualidade da Muda": "BOM",
     "Observações": null,
-    "Fazenda": null,
-    "Observações ": null,
-    "Unnamed: 19": null
+    "Fazenda": null
   },
   {
     "ID": "3509611",
@@ -45609,9 +41645,7 @@ window.QUALIDADE_MUDA_DATA = [
     "Responsável": "FERNANDA DE SOUZA ",
     "Qualidade da Muda": "BOM",
     "Observações": null,
-    "Fazenda": null,
-    "Observações ": null,
-    "Unnamed: 19": null
+    "Fazenda": null
   },
   {
     "ID": "3509921",
@@ -45632,9 +41666,7 @@ window.QUALIDADE_MUDA_DATA = [
     "Responsável": "GABRIEL HENRIQUE MARTINS PEREIRA",
     "Qualidade da Muda": "BOM",
     "Observações": null,
-    "Fazenda": null,
-    "Observações ": null,
-    "Unnamed: 19": null
+    "Fazenda": null
   },
   {
     "ID": "3509487",
@@ -45655,9 +41687,7 @@ window.QUALIDADE_MUDA_DATA = [
     "Responsável": "REGINALDO DA SILVA GOMES ",
     "Qualidade da Muda": "BOM",
     "Observações": null,
-    "Fazenda": null,
-    "Observações ": null,
-    "Unnamed: 19": null
+    "Fazenda": null
   },
   {
     "ID": "3509916",
@@ -45678,9 +41708,7 @@ window.QUALIDADE_MUDA_DATA = [
     "Responsável": "GABRIEL HENRIQUE MARTINS PEREIRA",
     "Qualidade da Muda": "BOM",
     "Observações": null,
-    "Fazenda": null,
-    "Observações ": null,
-    "Unnamed: 19": null
+    "Fazenda": null
   },
   {
     "ID": "3509478",
@@ -45701,9 +41729,7 @@ window.QUALIDADE_MUDA_DATA = [
     "Responsável": "REGINALDO DA SILVA GOMES ",
     "Qualidade da Muda": "BOM",
     "Observações": null,
-    "Fazenda": null,
-    "Observações ": null,
-    "Unnamed: 19": null
+    "Fazenda": null
   },
   {
     "ID": "3509471",
@@ -45724,9 +41750,7 @@ window.QUALIDADE_MUDA_DATA = [
     "Responsável": "REGINALDO DA SILVA GOMES ",
     "Qualidade da Muda": "BOM",
     "Observações": null,
-    "Fazenda": null,
-    "Observações ": null,
-    "Unnamed: 19": null
+    "Fazenda": null
   },
   {
     "ID": "3509852",
@@ -45747,9 +41771,7 @@ window.QUALIDADE_MUDA_DATA = [
     "Responsável": "GABRIEL HENRIQUE MARTINS PEREIRA",
     "Qualidade da Muda": "BOM",
     "Observações": null,
-    "Fazenda": null,
-    "Observações ": null,
-    "Unnamed: 19": null
+    "Fazenda": null
   },
   {
     "ID": "3509318",
@@ -45770,9 +41792,7 @@ window.QUALIDADE_MUDA_DATA = [
     "Responsável": "NILDA CLAUDINO [2510716]",
     "Qualidade da Muda": "BOM",
     "Observações": null,
-    "Fazenda": null,
-    "Observações ": null,
-    "Unnamed: 19": null
+    "Fazenda": null
   },
   {
     "ID": "3509751",
@@ -45793,9 +41813,7 @@ window.QUALIDADE_MUDA_DATA = [
     "Responsável": "GABRIEL HENRIQUE MARTINS PEREIRA",
     "Qualidade da Muda": "BOM",
     "Observações": null,
-    "Fazenda": null,
-    "Observações ": null,
-    "Unnamed: 19": null
+    "Fazenda": null
   },
   {
     "ID": "3509314",
@@ -45816,9 +41834,7 @@ window.QUALIDADE_MUDA_DATA = [
     "Responsável": "NILDA CLAUDINO [2510716]",
     "Qualidade da Muda": "BOM",
     "Observações": null,
-    "Fazenda": null,
-    "Observações ": null,
-    "Unnamed: 19": null
+    "Fazenda": null
   },
   {
     "ID": "3509489",
@@ -45839,9 +41855,7 @@ window.QUALIDADE_MUDA_DATA = [
     "Responsável": "MARCELO DE OLIVEIRA JUNIOR",
     "Qualidade da Muda": "BOM",
     "Observações": null,
-    "Fazenda": null,
-    "Observações ": null,
-    "Unnamed: 19": null
+    "Fazenda": null
   },
   {
     "ID": "3509311",
@@ -45862,9 +41876,7 @@ window.QUALIDADE_MUDA_DATA = [
     "Responsável": "NILDA CLAUDINO [2510716]",
     "Qualidade da Muda": "BOM",
     "Observações": null,
-    "Fazenda": null,
-    "Observações ": null,
-    "Unnamed: 19": null
+    "Fazenda": null
   },
   {
     "ID": "3509477",
@@ -45885,9 +41897,7 @@ window.QUALIDADE_MUDA_DATA = [
     "Responsável": "MARCELO DE OLIVEIRA JUNIOR",
     "Qualidade da Muda": "BOM",
     "Observações": null,
-    "Fazenda": null,
-    "Observações ": null,
-    "Unnamed: 19": null
+    "Fazenda": null
   },
   {
     "ID": "3509307",
@@ -45908,9 +41918,7 @@ window.QUALIDADE_MUDA_DATA = [
     "Responsável": "NILDA CLAUDINO [2510716]",
     "Qualidade da Muda": "BOM",
     "Observações": null,
-    "Fazenda": null,
-    "Observações ": null,
-    "Unnamed: 19": null
+    "Fazenda": null
   },
   {
     "ID": "3509426",
@@ -45931,9 +41939,7 @@ window.QUALIDADE_MUDA_DATA = [
     "Responsável": "MARCELO DE OLIVEIRA JUNIOR",
     "Qualidade da Muda": "BOM",
     "Observações": null,
-    "Fazenda": null,
-    "Observações ": null,
-    "Unnamed: 19": null
+    "Fazenda": null
   },
   {
     "ID": "3498750",
@@ -45954,9 +41960,7 @@ window.QUALIDADE_MUDA_DATA = [
     "Responsável": "VITOR AMORIM RAMOS ",
     "Qualidade da Muda": "BOM",
     "Observações": null,
-    "Fazenda": null,
-    "Observações ": null,
-    "Unnamed: 19": null
+    "Fazenda": null
   },
   {
     "ID": "3498485",
@@ -45977,9 +41981,7 @@ window.QUALIDADE_MUDA_DATA = [
     "Responsável": "GLEISON FELIPE BORGES DE MATOS",
     "Qualidade da Muda": "BOM",
     "Observações": null,
-    "Fazenda": null,
-    "Observações ": null,
-    "Unnamed: 19": null
+    "Fazenda": null
   },
   {
     "ID": "3498742",
@@ -46000,9 +42002,7 @@ window.QUALIDADE_MUDA_DATA = [
     "Responsável": "VITOR AMORIM RAMOS ",
     "Qualidade da Muda": "BOM",
     "Observações": null,
-    "Fazenda": null,
-    "Observações ": null,
-    "Unnamed: 19": null
+    "Fazenda": null
   },
   {
     "ID": "3498511",
@@ -46023,9 +42023,7 @@ window.QUALIDADE_MUDA_DATA = [
     "Responsável": "NILDA CLAUDINO [2510716]",
     "Qualidade da Muda": "BOM",
     "Observações": null,
-    "Fazenda": null,
-    "Observações ": null,
-    "Unnamed: 19": null
+    "Fazenda": null
   },
   {
     "ID": "3498476",
@@ -46046,9 +42044,7 @@ window.QUALIDADE_MUDA_DATA = [
     "Responsável": "GLEISON FELIPE BORGES DE MATOS",
     "Qualidade da Muda": "BOM",
     "Observações": null,
-    "Fazenda": null,
-    "Observações ": null,
-    "Unnamed: 19": null
+    "Fazenda": null
   },
   {
     "ID": "3498507",
@@ -46069,9 +42065,7 @@ window.QUALIDADE_MUDA_DATA = [
     "Responsável": "NILDA CLAUDINO [2510716]",
     "Qualidade da Muda": "BOM",
     "Observações": null,
-    "Fazenda": null,
-    "Observações ": null,
-    "Unnamed: 19": null
+    "Fazenda": null
   },
   {
     "ID": "3498665",
@@ -46092,9 +42086,7 @@ window.QUALIDADE_MUDA_DATA = [
     "Responsável": "MARCELO DE OLIVEIRA JUNIOR",
     "Qualidade da Muda": "BOM",
     "Observações": null,
-    "Fazenda": null,
-    "Observações ": null,
-    "Unnamed: 19": null
+    "Fazenda": null
   },
   {
     "ID": "3498473",
@@ -46115,9 +42107,7 @@ window.QUALIDADE_MUDA_DATA = [
     "Responsável": "GLEISON FELIPE BORGES DE MATOS",
     "Qualidade da Muda": "BOM",
     "Observações": null,
-    "Fazenda": null,
-    "Observações ": null,
-    "Unnamed: 19": null
+    "Fazenda": null
   },
   {
     "ID": "3498736",
@@ -46138,9 +42128,7 @@ window.QUALIDADE_MUDA_DATA = [
     "Responsável": "VITOR AMORIM RAMOS ",
     "Qualidade da Muda": "BOM",
     "Observações": null,
-    "Fazenda": null,
-    "Observações ": null,
-    "Unnamed: 19": null
+    "Fazenda": null
   },
   {
     "ID": "3498735",
@@ -46161,9 +42149,7 @@ window.QUALIDADE_MUDA_DATA = [
     "Responsável": "VITOR AMORIM RAMOS ",
     "Qualidade da Muda": "BOM",
     "Observações": null,
-    "Fazenda": null,
-    "Observações ": null,
-    "Unnamed: 19": null
+    "Fazenda": null
   },
   {
     "ID": "3498662",
@@ -46184,9 +42170,7 @@ window.QUALIDADE_MUDA_DATA = [
     "Responsável": "MARCELO DE OLIVEIRA JUNIOR",
     "Qualidade da Muda": "BOM",
     "Observações": null,
-    "Fazenda": null,
-    "Observações ": null,
-    "Unnamed: 19": null
+    "Fazenda": null
   },
   {
     "ID": "3498503",
@@ -46207,9 +42191,7 @@ window.QUALIDADE_MUDA_DATA = [
     "Responsável": "NILDA CLAUDINO [2510716]",
     "Qualidade da Muda": "BOM",
     "Observações": null,
-    "Fazenda": null,
-    "Observações ": null,
-    "Unnamed: 19": null
+    "Fazenda": null
   },
   {
     "ID": "3498471",
@@ -46230,9 +42212,7 @@ window.QUALIDADE_MUDA_DATA = [
     "Responsável": "GLEISON FELIPE BORGES DE MATOS",
     "Qualidade da Muda": "BOM",
     "Observações": null,
-    "Fazenda": null,
-    "Observações ": null,
-    "Unnamed: 19": null
+    "Fazenda": null
   },
   {
     "ID": "3498655",
@@ -46253,9 +42233,7 @@ window.QUALIDADE_MUDA_DATA = [
     "Responsável": "MARCELO DE OLIVEIRA JUNIOR",
     "Qualidade da Muda": "BOM",
     "Observações": null,
-    "Fazenda": null,
-    "Observações ": null,
-    "Unnamed: 19": null
+    "Fazenda": null
   },
   {
     "ID": "3498727",
@@ -46276,9 +42254,7 @@ window.QUALIDADE_MUDA_DATA = [
     "Responsável": "VITOR AMORIM RAMOS ",
     "Qualidade da Muda": "BOM",
     "Observações": null,
-    "Fazenda": null,
-    "Observações ": null,
-    "Unnamed: 19": null
+    "Fazenda": null
   },
   {
     "ID": "3498498",
@@ -46299,9 +42275,7 @@ window.QUALIDADE_MUDA_DATA = [
     "Responsável": "NILDA CLAUDINO [2510716]",
     "Qualidade da Muda": "BOM",
     "Observações": null,
-    "Fazenda": null,
-    "Observações ": null,
-    "Unnamed: 19": null
+    "Fazenda": null
   },
   {
     "ID": "3498650",
@@ -46322,9 +42296,7 @@ window.QUALIDADE_MUDA_DATA = [
     "Responsável": "MARCELO DE OLIVEIRA JUNIOR",
     "Qualidade da Muda": "BOM",
     "Observações": null,
-    "Fazenda": null,
-    "Observações ": null,
-    "Unnamed: 19": null
+    "Fazenda": null
   },
   {
     "ID": "3498723",
@@ -46345,9 +42317,7 @@ window.QUALIDADE_MUDA_DATA = [
     "Responsável": "VITOR AMORIM RAMOS ",
     "Qualidade da Muda": "BOM",
     "Observações": null,
-    "Fazenda": null,
-    "Observações ": null,
-    "Unnamed: 19": null
+    "Fazenda": null
   },
   {
     "ID": "3498690",
@@ -46368,9 +42338,7 @@ window.QUALIDADE_MUDA_DATA = [
     "Responsável": "VITOR AMORIM RAMOS ",
     "Qualidade da Muda": "BOM",
     "Observações": null,
-    "Fazenda": null,
-    "Observações ": null,
-    "Unnamed: 19": null
+    "Fazenda": null
   },
   {
     "ID": "3498576",
@@ -46391,9 +42359,7 @@ window.QUALIDADE_MUDA_DATA = [
     "Responsável": "FERNANDA DE SOUZA ",
     "Qualidade da Muda": "BOM",
     "Observações": null,
-    "Fazenda": null,
-    "Observações ": null,
-    "Unnamed: 19": null
+    "Fazenda": null
   },
   {
     "ID": "3499000",
@@ -46414,9 +42380,7 @@ window.QUALIDADE_MUDA_DATA = [
     "Responsável": "GABRIEL HENRIQUE MARTINS PEREIRA",
     "Qualidade da Muda": "BOM",
     "Observações": null,
-    "Fazenda": null,
-    "Observações ": null,
-    "Unnamed: 19": null
+    "Fazenda": null
   },
   {
     "ID": "3498995",
@@ -46437,9 +42401,7 @@ window.QUALIDADE_MUDA_DATA = [
     "Responsável": "GABRIEL HENRIQUE MARTINS PEREIRA",
     "Qualidade da Muda": "BOM",
     "Observações": null,
-    "Fazenda": null,
-    "Observações ": null,
-    "Unnamed: 19": null
+    "Fazenda": null
   },
   {
     "ID": "3498560",
@@ -46460,9 +42422,7 @@ window.QUALIDADE_MUDA_DATA = [
     "Responsável": "FERNANDA DE SOUZA ",
     "Qualidade da Muda": "BOM",
     "Observações": null,
-    "Fazenda": null,
-    "Observações ": null,
-    "Unnamed: 19": null
+    "Fazenda": null
   },
   {
     "ID": "3498991",
@@ -46483,9 +42443,7 @@ window.QUALIDADE_MUDA_DATA = [
     "Responsável": "GABRIEL HENRIQUE MARTINS PEREIRA",
     "Qualidade da Muda": "BOM",
     "Observações": null,
-    "Fazenda": null,
-    "Observações ": null,
-    "Unnamed: 19": null
+    "Fazenda": null
   },
   {
     "ID": "3498555",
@@ -46506,9 +42464,7 @@ window.QUALIDADE_MUDA_DATA = [
     "Responsável": "FERNANDA DE SOUZA ",
     "Qualidade da Muda": "BOM",
     "Observações": null,
-    "Fazenda": null,
-    "Observações ": null,
-    "Unnamed: 19": null
+    "Fazenda": null
   },
   {
     "ID": "3498644",
@@ -46529,9 +42485,7 @@ window.QUALIDADE_MUDA_DATA = [
     "Responsável": "VITOR AMORIM RAMOS ",
     "Qualidade da Muda": "BOM",
     "Observações": null,
-    "Fazenda": null,
-    "Observações ": null,
-    "Unnamed: 19": null
+    "Fazenda": null
   },
   {
     "ID": "3498984",
@@ -46552,9 +42506,7 @@ window.QUALIDADE_MUDA_DATA = [
     "Responsável": "GABRIEL HENRIQUE MARTINS PEREIRA",
     "Qualidade da Muda": "BOM",
     "Observações": null,
-    "Fazenda": null,
-    "Observações ": null,
-    "Unnamed: 19": null
+    "Fazenda": null
   },
   {
     "ID": "3498627",
@@ -46575,9 +42527,7 @@ window.QUALIDADE_MUDA_DATA = [
     "Responsável": "VITOR AMORIM RAMOS ",
     "Qualidade da Muda": "BOM",
     "Observações": null,
-    "Fazenda": null,
-    "Observações ": null,
-    "Unnamed: 19": null
+    "Fazenda": null
   },
   {
     "ID": "3498622",
@@ -46598,9 +42548,7 @@ window.QUALIDADE_MUDA_DATA = [
     "Responsável": "VITOR AMORIM RAMOS ",
     "Qualidade da Muda": "BOM",
     "Observações": null,
-    "Fazenda": null,
-    "Observações ": null,
-    "Unnamed: 19": null
+    "Fazenda": null
   },
   {
     "ID": "3498617",
@@ -46621,9 +42569,7 @@ window.QUALIDADE_MUDA_DATA = [
     "Responsável": "VITOR AMORIM RAMOS ",
     "Qualidade da Muda": "BOM",
     "Observações": null,
-    "Fazenda": null,
-    "Observações ": null,
-    "Unnamed: 19": null
+    "Fazenda": null
   },
   {
     "ID": "3496797",
@@ -46644,9 +42590,7 @@ window.QUALIDADE_MUDA_DATA = [
     "Responsável": "MARCELO DE OLIVEIRA JUNIOR",
     "Qualidade da Muda": "BOM",
     "Observações": null,
-    "Fazenda": null,
-    "Observações ": null,
-    "Unnamed: 19": null
+    "Fazenda": null
   },
   {
     "ID": "3496792",
@@ -46667,9 +42611,7 @@ window.QUALIDADE_MUDA_DATA = [
     "Responsável": "MARCELO DE OLIVEIRA JUNIOR",
     "Qualidade da Muda": "BOM",
     "Observações": null,
-    "Fazenda": null,
-    "Observações ": null,
-    "Unnamed: 19": null
+    "Fazenda": null
   },
   {
     "ID": "3496787",
@@ -46690,9 +42632,7 @@ window.QUALIDADE_MUDA_DATA = [
     "Responsável": "MARCELO DE OLIVEIRA JUNIOR",
     "Qualidade da Muda": "BOM",
     "Observações": null,
-    "Fazenda": null,
-    "Observações ": null,
-    "Unnamed: 19": null
+    "Fazenda": null
   },
   {
     "ID": "3496782",
@@ -46713,9 +42653,7 @@ window.QUALIDADE_MUDA_DATA = [
     "Responsável": "MARCELO DE OLIVEIRA JUNIOR",
     "Qualidade da Muda": "BOM",
     "Observações": null,
-    "Fazenda": null,
-    "Observações ": null,
-    "Unnamed: 19": null
+    "Fazenda": null
   },
   {
     "ID": "3496690",
@@ -46736,9 +42674,7 @@ window.QUALIDADE_MUDA_DATA = [
     "Responsável": "FERNANDA DE SOUZA ",
     "Qualidade da Muda": "BOM",
     "Observações": null,
-    "Fazenda": null,
-    "Observações ": null,
-    "Unnamed: 19": null
+    "Fazenda": null
   },
   {
     "ID": "3496688",
@@ -46759,9 +42695,7 @@ window.QUALIDADE_MUDA_DATA = [
     "Responsável": "FERNANDA DE SOUZA ",
     "Qualidade da Muda": "BOM",
     "Observações": null,
-    "Fazenda": null,
-    "Observações ": null,
-    "Unnamed: 19": null
+    "Fazenda": null
   },
   {
     "ID": "3496684",
@@ -46782,9 +42716,7 @@ window.QUALIDADE_MUDA_DATA = [
     "Responsável": "FERNANDA DE SOUZA ",
     "Qualidade da Muda": "BOM",
     "Observações": null,
-    "Fazenda": null,
-    "Observações ": null,
-    "Unnamed: 19": null
+    "Fazenda": null
   },
   {
     "ID": "3496229",
@@ -46805,9 +42737,7 @@ window.QUALIDADE_MUDA_DATA = [
     "Responsável": "GLEISON FELIPE BORGES DE MATOS",
     "Qualidade da Muda": "BOM",
     "Observações": null,
-    "Fazenda": null,
-    "Observações ": null,
-    "Unnamed: 19": null
+    "Fazenda": null
   },
   {
     "ID": "3496226",
@@ -46828,9 +42758,7 @@ window.QUALIDADE_MUDA_DATA = [
     "Responsável": "GLEISON FELIPE BORGES DE MATOS",
     "Qualidade da Muda": "BOM",
     "Observações": null,
-    "Fazenda": null,
-    "Observações ": null,
-    "Unnamed: 19": null
+    "Fazenda": null
   },
   {
     "ID": "3496225",
@@ -46851,9 +42779,7 @@ window.QUALIDADE_MUDA_DATA = [
     "Responsável": "GLEISON FELIPE BORGES DE MATOS",
     "Qualidade da Muda": "BOM",
     "Observações": null,
-    "Fazenda": null,
-    "Observações ": null,
-    "Unnamed: 19": null
+    "Fazenda": null
   },
   {
     "ID": "3496219",
@@ -46874,9 +42800,7 @@ window.QUALIDADE_MUDA_DATA = [
     "Responsável": "GLEISON FELIPE BORGES DE MATOS",
     "Qualidade da Muda": "BOM",
     "Observações": null,
-    "Fazenda": null,
-    "Observações ": null,
-    "Unnamed: 19": null
+    "Fazenda": null
   },
   {
     "ID": "3495214",
@@ -46897,9 +42821,7 @@ window.QUALIDADE_MUDA_DATA = [
     "Responsável": "MARCELO DE OLIVEIRA JUNIOR",
     "Qualidade da Muda": "BOM",
     "Observações": null,
-    "Fazenda": null,
-    "Observações ": null,
-    "Unnamed: 19": null
+    "Fazenda": null
   },
   {
     "ID": "3495208",
@@ -46920,9 +42842,7 @@ window.QUALIDADE_MUDA_DATA = [
     "Responsável": "MARCELO DE OLIVEIRA JUNIOR",
     "Qualidade da Muda": "BOM",
     "Observações": null,
-    "Fazenda": null,
-    "Observações ": null,
-    "Unnamed: 19": null
+    "Fazenda": null
   },
   {
     "ID": "3495201",
@@ -46943,9 +42863,7 @@ window.QUALIDADE_MUDA_DATA = [
     "Responsável": "MARCELO DE OLIVEIRA JUNIOR",
     "Qualidade da Muda": "BOM",
     "Observações": null,
-    "Fazenda": null,
-    "Observações ": null,
-    "Unnamed: 19": null
+    "Fazenda": null
   },
   {
     "ID": "3495200",
@@ -46966,9 +42884,7 @@ window.QUALIDADE_MUDA_DATA = [
     "Responsável": "MARCELO DE OLIVEIRA JUNIOR",
     "Qualidade da Muda": "BOM",
     "Observações": null,
-    "Fazenda": null,
-    "Observações ": null,
-    "Unnamed: 19": null
+    "Fazenda": null
   },
   {
     "ID": "3494378",
@@ -46989,9 +42905,7 @@ window.QUALIDADE_MUDA_DATA = [
     "Responsável": "GABRIEL HENRIQUE MARTINS PEREIRA",
     "Qualidade da Muda": "BOM",
     "Observações": null,
-    "Fazenda": null,
-    "Observações ": null,
-    "Unnamed: 19": null
+    "Fazenda": null
   },
   {
     "ID": "3494643",
@@ -47012,9 +42926,7 @@ window.QUALIDADE_MUDA_DATA = [
     "Responsável": "FERNANDA DE SOUZA ",
     "Qualidade da Muda": "BOM",
     "Observações": null,
-    "Fazenda": null,
-    "Observações ": null,
-    "Unnamed: 19": null
+    "Fazenda": null
   },
   {
     "ID": "3494635",
@@ -47035,9 +42947,7 @@ window.QUALIDADE_MUDA_DATA = [
     "Responsável": "FERNANDA DE SOUZA ",
     "Qualidade da Muda": "BOM",
     "Observações": null,
-    "Fazenda": null,
-    "Observações ": null,
-    "Unnamed: 19": null
+    "Fazenda": null
   },
   {
     "ID": "3494373",
@@ -47058,9 +42968,7 @@ window.QUALIDADE_MUDA_DATA = [
     "Responsável": "GABRIEL HENRIQUE MARTINS PEREIRA",
     "Qualidade da Muda": "BOM",
     "Observações": null,
-    "Fazenda": null,
-    "Observações ": null,
-    "Unnamed: 19": null
+    "Fazenda": null
   },
   {
     "ID": "3494368",
@@ -47081,9 +42989,7 @@ window.QUALIDADE_MUDA_DATA = [
     "Responsável": "GABRIEL HENRIQUE MARTINS PEREIRA",
     "Qualidade da Muda": "BOM",
     "Observações": null,
-    "Fazenda": null,
-    "Observações ": null,
-    "Unnamed: 19": null
+    "Fazenda": null
   },
   {
     "ID": "3494671",
@@ -47104,9 +43010,7 @@ window.QUALIDADE_MUDA_DATA = [
     "Responsável": "NILDA CLAUDINO [2510716]",
     "Qualidade da Muda": "BOM",
     "Observações": null,
-    "Fazenda": null,
-    "Observações ": null,
-    "Unnamed: 19": null
+    "Fazenda": null
   },
   {
     "ID": "3494358",
@@ -47127,9 +43031,7 @@ window.QUALIDADE_MUDA_DATA = [
     "Responsável": "GABRIEL HENRIQUE MARTINS PEREIRA",
     "Qualidade da Muda": "BOM",
     "Observações": null,
-    "Fazenda": null,
-    "Observações ": null,
-    "Unnamed: 19": null
+    "Fazenda": null
   },
   {
     "ID": "3494353",
@@ -47150,9 +43052,7 @@ window.QUALIDADE_MUDA_DATA = [
     "Responsável": "GABRIEL HENRIQUE MARTINS PEREIRA",
     "Qualidade da Muda": "BOM",
     "Observações": null,
-    "Fazenda": null,
-    "Observações ": null,
-    "Unnamed: 19": null
+    "Fazenda": null
   },
   {
     "ID": "3494667",
@@ -47173,9 +43073,7 @@ window.QUALIDADE_MUDA_DATA = [
     "Responsável": "NILDA CLAUDINO [2510716]",
     "Qualidade da Muda": "BOM",
     "Observações": null,
-    "Fazenda": null,
-    "Observações ": null,
-    "Unnamed: 19": null
+    "Fazenda": null
   },
   {
     "ID": "3494663",
@@ -47196,9 +43094,7 @@ window.QUALIDADE_MUDA_DATA = [
     "Responsável": "NILDA CLAUDINO [2510716]",
     "Qualidade da Muda": "BOM",
     "Observações": null,
-    "Fazenda": null,
-    "Observações ": null,
-    "Unnamed: 19": null
+    "Fazenda": null
   },
   {
     "ID": "3494659",
@@ -47219,9 +43115,7 @@ window.QUALIDADE_MUDA_DATA = [
     "Responsável": "NILDA CLAUDINO [2510716]",
     "Qualidade da Muda": "BOM",
     "Observações": null,
-    "Fazenda": null,
-    "Observações ": null,
-    "Unnamed: 19": null
+    "Fazenda": null
   },
   {
     "ID": "3494654",
@@ -47242,9 +43136,7 @@ window.QUALIDADE_MUDA_DATA = [
     "Responsável": "NILDA CLAUDINO [2510716]",
     "Qualidade da Muda": "BOM",
     "Observações": null,
-    "Fazenda": null,
-    "Observações ": null,
-    "Unnamed: 19": null
+    "Fazenda": null
   },
   {
     "ID": "3495172",
@@ -47265,9 +43157,7 @@ window.QUALIDADE_MUDA_DATA = [
     "Responsável": "MARCELO DE OLIVEIRA JUNIOR",
     "Qualidade da Muda": "BOM",
     "Observações": null,
-    "Fazenda": null,
-    "Observações ": null,
-    "Unnamed: 19": null
+    "Fazenda": null
   },
   {
     "ID": "3495168",
@@ -47288,9 +43178,7 @@ window.QUALIDADE_MUDA_DATA = [
     "Responsável": "MARCELO DE OLIVEIRA JUNIOR",
     "Qualidade da Muda": "BOM",
     "Observações": null,
-    "Fazenda": null,
-    "Observações ": null,
-    "Unnamed: 19": null
+    "Fazenda": null
   },
   {
     "ID": "3495159",
@@ -47311,9 +43199,7 @@ window.QUALIDADE_MUDA_DATA = [
     "Responsável": "MARCELO DE OLIVEIRA JUNIOR",
     "Qualidade da Muda": "BOM",
     "Observações": null,
-    "Fazenda": null,
-    "Observações ": null,
-    "Unnamed: 19": null
+    "Fazenda": null
   },
   {
     "ID": "3495155",
@@ -47334,9 +43220,7 @@ window.QUALIDADE_MUDA_DATA = [
     "Responsável": "MARCELO DE OLIVEIRA JUNIOR",
     "Qualidade da Muda": "BOM",
     "Observações": null,
-    "Fazenda": null,
-    "Observações ": null,
-    "Unnamed: 19": null
+    "Fazenda": null
   },
   {
     "ID": "3492652",
@@ -47357,9 +43241,7 @@ window.QUALIDADE_MUDA_DATA = [
     "Responsável": "VITOR AMORIM RAMOS ",
     "Qualidade da Muda": "BOM",
     "Observações": null,
-    "Fazenda": null,
-    "Observações ": null,
-    "Unnamed: 19": null
+    "Fazenda": null
   },
   {
     "ID": "3492651",
@@ -47380,9 +43262,7 @@ window.QUALIDADE_MUDA_DATA = [
     "Responsável": "VITOR AMORIM RAMOS ",
     "Qualidade da Muda": "BOM",
     "Observações": null,
-    "Fazenda": null,
-    "Observações ": null,
-    "Unnamed: 19": null
+    "Fazenda": null
   },
   {
     "ID": "3492650",
@@ -47403,9 +43283,7 @@ window.QUALIDADE_MUDA_DATA = [
     "Responsável": "VITOR AMORIM RAMOS ",
     "Qualidade da Muda": "BOM",
     "Observações": null,
-    "Fazenda": null,
-    "Observações ": null,
-    "Unnamed: 19": null
+    "Fazenda": null
   },
   {
     "ID": "3492632",
@@ -47426,9 +43304,7 @@ window.QUALIDADE_MUDA_DATA = [
     "Responsável": "VITOR AMORIM RAMOS ",
     "Qualidade da Muda": "BOM",
     "Observações": null,
-    "Fazenda": null,
-    "Observações ": null,
-    "Unnamed: 19": null
+    "Fazenda": null
   },
   {
     "ID": "3492613",
@@ -47449,9 +43325,7 @@ window.QUALIDADE_MUDA_DATA = [
     "Responsável": "VITOR AMORIM RAMOS ",
     "Qualidade da Muda": "BOM",
     "Observações": null,
-    "Fazenda": null,
-    "Observações ": null,
-    "Unnamed: 19": null
+    "Fazenda": null
   },
   {
     "ID": "3492612",
@@ -47472,9 +43346,7 @@ window.QUALIDADE_MUDA_DATA = [
     "Responsável": "VITOR AMORIM RAMOS ",
     "Qualidade da Muda": "BOM",
     "Observações": null,
-    "Fazenda": null,
-    "Observações ": null,
-    "Unnamed: 19": null
+    "Fazenda": null
   },
   {
     "ID": "3492609",
@@ -47495,9 +43367,7 @@ window.QUALIDADE_MUDA_DATA = [
     "Responsável": "VITOR AMORIM RAMOS ",
     "Qualidade da Muda": "BOM",
     "Observações": null,
-    "Fazenda": null,
-    "Observações ": null,
-    "Unnamed: 19": null
+    "Fazenda": null
   },
   {
     "ID": "3492523",
@@ -47518,9 +43388,7 @@ window.QUALIDADE_MUDA_DATA = [
     "Responsável": "FERNANDA DE SOUZA ",
     "Qualidade da Muda": "BOM",
     "Observações": null,
-    "Fazenda": null,
-    "Observações ": null,
-    "Unnamed: 19": null
+    "Fazenda": null
   },
   {
     "ID": "3493091",
@@ -47541,9 +43409,7 @@ window.QUALIDADE_MUDA_DATA = [
     "Responsável": "MARCELO DE OLIVEIRA JUNIOR",
     "Qualidade da Muda": "BOM",
     "Observações": null,
-    "Fazenda": null,
-    "Observações ": null,
-    "Unnamed: 19": null
+    "Fazenda": null
   },
   {
     "ID": "3492513",
@@ -47564,9 +43430,7 @@ window.QUALIDADE_MUDA_DATA = [
     "Responsável": "FERNANDA DE SOUZA ",
     "Qualidade da Muda": "BOM",
     "Observações": null,
-    "Fazenda": null,
-    "Observações ": null,
-    "Unnamed: 19": null
+    "Fazenda": null
   },
   {
     "ID": "3493086",
@@ -47587,9 +43451,7 @@ window.QUALIDADE_MUDA_DATA = [
     "Responsável": "MARCELO DE OLIVEIRA JUNIOR",
     "Qualidade da Muda": "BOM",
     "Observações": null,
-    "Fazenda": null,
-    "Observações ": null,
-    "Unnamed: 19": null
+    "Fazenda": null
   },
   {
     "ID": "3492219",
@@ -47610,9 +43472,7 @@ window.QUALIDADE_MUDA_DATA = [
     "Responsável": "MICHELI DE SOUZA SANTOS  ",
     "Qualidade da Muda": "BOM",
     "Observações": null,
-    "Fazenda": null,
-    "Observações ": null,
-    "Unnamed: 19": null
+    "Fazenda": null
   },
   {
     "ID": "3493081",
@@ -47633,9 +43493,7 @@ window.QUALIDADE_MUDA_DATA = [
     "Responsável": "MARCELO DE OLIVEIRA JUNIOR",
     "Qualidade da Muda": "BOM",
     "Observações": null,
-    "Fazenda": null,
-    "Observações ": null,
-    "Unnamed: 19": null
+    "Fazenda": null
   },
   {
     "ID": "3492215",
@@ -47656,9 +43514,7 @@ window.QUALIDADE_MUDA_DATA = [
     "Responsável": "MICHELI DE SOUZA SANTOS  ",
     "Qualidade da Muda": "BOM",
     "Observações": null,
-    "Fazenda": null,
-    "Observações ": null,
-    "Unnamed: 19": null
+    "Fazenda": null
   },
   {
     "ID": "3492511",
@@ -47679,9 +43535,7 @@ window.QUALIDADE_MUDA_DATA = [
     "Responsável": "FERNANDA DE SOUZA ",
     "Qualidade da Muda": "BOM",
     "Observações": null,
-    "Fazenda": null,
-    "Observações ": null,
-    "Unnamed: 19": null
+    "Fazenda": null
   },
   {
     "ID": "3492469",
@@ -47702,9 +43556,7 @@ window.QUALIDADE_MUDA_DATA = [
     "Responsável": "GABRIEL HENRIQUE MARTINS PEREIRA",
     "Qualidade da Muda": "BOM",
     "Observações": null,
-    "Fazenda": null,
-    "Observações ": null,
-    "Unnamed: 19": null
+    "Fazenda": null
   },
   {
     "ID": "3492505",
@@ -47725,9 +43577,7 @@ window.QUALIDADE_MUDA_DATA = [
     "Responsável": "FERNANDA DE SOUZA ",
     "Qualidade da Muda": "BOM",
     "Observações": null,
-    "Fazenda": null,
-    "Observações ": null,
-    "Unnamed: 19": null
+    "Fazenda": null
   },
   {
     "ID": "3492465",
@@ -47748,9 +43598,7 @@ window.QUALIDADE_MUDA_DATA = [
     "Responsável": "GABRIEL HENRIQUE MARTINS PEREIRA",
     "Qualidade da Muda": "BOM",
     "Observações": null,
-    "Fazenda": null,
-    "Observações ": null,
-    "Unnamed: 19": null
+    "Fazenda": null
   },
   {
     "ID": "3492082",
@@ -47771,9 +43619,7 @@ window.QUALIDADE_MUDA_DATA = [
     "Responsável": "GLEISON FELIPE BORGES DE MATOS",
     "Qualidade da Muda": "BOM",
     "Observações": null,
-    "Fazenda": null,
-    "Observações ": null,
-    "Unnamed: 19": null
+    "Fazenda": null
   },
   {
     "ID": "3492461",
@@ -47794,9 +43640,7 @@ window.QUALIDADE_MUDA_DATA = [
     "Responsável": "GABRIEL HENRIQUE MARTINS PEREIRA",
     "Qualidade da Muda": "BOM",
     "Observações": null,
-    "Fazenda": null,
-    "Observações ": null,
-    "Unnamed: 19": null
+    "Fazenda": null
   },
   {
     "ID": "3492075",
@@ -47817,9 +43661,7 @@ window.QUALIDADE_MUDA_DATA = [
     "Responsável": "GLEISON FELIPE BORGES DE MATOS",
     "Qualidade da Muda": "BOM",
     "Observações": null,
-    "Fazenda": null,
-    "Observações ": null,
-    "Unnamed: 19": null
+    "Fazenda": null
   },
   {
     "ID": "3492457",
@@ -47840,9 +43682,7 @@ window.QUALIDADE_MUDA_DATA = [
     "Responsável": "GABRIEL HENRIQUE MARTINS PEREIRA",
     "Qualidade da Muda": "BOM",
     "Observações": null,
-    "Fazenda": null,
-    "Observações ": null,
-    "Unnamed: 19": null
+    "Fazenda": null
   },
   {
     "ID": "3492453",
@@ -47863,9 +43703,7 @@ window.QUALIDADE_MUDA_DATA = [
     "Responsável": "GABRIEL HENRIQUE MARTINS PEREIRA",
     "Qualidade da Muda": "BOM",
     "Observações": null,
-    "Fazenda": null,
-    "Observações ": null,
-    "Unnamed: 19": null
+    "Fazenda": null
   },
   {
     "ID": "3493073",
@@ -47886,9 +43724,7 @@ window.QUALIDADE_MUDA_DATA = [
     "Responsável": "MARCELO DE OLIVEIRA JUNIOR",
     "Qualidade da Muda": "BOM",
     "Observações": null,
-    "Fazenda": null,
-    "Observações ": null,
-    "Unnamed: 19": null
+    "Fazenda": null
   },
   {
     "ID": "3492389",
@@ -47909,9 +43745,7 @@ window.QUALIDADE_MUDA_DATA = [
     "Responsável": "NILDA CLAUDINO [2510716]",
     "Qualidade da Muda": "BOM",
     "Observações": null,
-    "Fazenda": null,
-    "Observações ": null,
-    "Unnamed: 19": null
+    "Fazenda": null
   },
   {
     "ID": "3492590",
@@ -47932,9 +43766,7 @@ window.QUALIDADE_MUDA_DATA = [
     "Responsável": "REGINALDO DA SILVA GOMES ",
     "Qualidade da Muda": "BOM",
     "Observações": null,
-    "Fazenda": null,
-    "Observações ": null,
-    "Unnamed: 19": null
+    "Fazenda": null
   },
   {
     "ID": "3493066",
@@ -47955,9 +43787,7 @@ window.QUALIDADE_MUDA_DATA = [
     "Responsável": "MARCELO DE OLIVEIRA JUNIOR",
     "Qualidade da Muda": "BOM",
     "Observações": null,
-    "Fazenda": null,
-    "Observações ": null,
-    "Unnamed: 19": null
+    "Fazenda": null
   },
   {
     "ID": "3492585",
@@ -47978,9 +43808,7 @@ window.QUALIDADE_MUDA_DATA = [
     "Responsável": "REGINALDO DA SILVA GOMES ",
     "Qualidade da Muda": "BOM",
     "Observações": null,
-    "Fazenda": null,
-    "Observações ": null,
-    "Unnamed: 19": null
+    "Fazenda": null
   },
   {
     "ID": "3493061",
@@ -48001,9 +43829,7 @@ window.QUALIDADE_MUDA_DATA = [
     "Responsável": "MARCELO DE OLIVEIRA JUNIOR",
     "Qualidade da Muda": "BOM",
     "Observações": null,
-    "Fazenda": null,
-    "Observações ": null,
-    "Unnamed: 19": null
+    "Fazenda": null
   },
   {
     "ID": "3492385",
@@ -48024,9 +43850,7 @@ window.QUALIDADE_MUDA_DATA = [
     "Responsável": "NILDA CLAUDINO [2510716]",
     "Qualidade da Muda": "BOM",
     "Observações": null,
-    "Fazenda": null,
-    "Observações ": null,
-    "Unnamed: 19": null
+    "Fazenda": null
   },
   {
     "ID": "3492579",
@@ -48047,9 +43871,7 @@ window.QUALIDADE_MUDA_DATA = [
     "Responsável": "REGINALDO DA SILVA GOMES ",
     "Qualidade da Muda": "BOM",
     "Observações": null,
-    "Fazenda": null,
-    "Observações ": null,
-    "Unnamed: 19": null
+    "Fazenda": null
   },
   {
     "ID": "3492381",
@@ -48070,9 +43892,7 @@ window.QUALIDADE_MUDA_DATA = [
     "Responsável": "NILDA CLAUDINO [2510716]",
     "Qualidade da Muda": "BOM",
     "Observações": null,
-    "Fazenda": null,
-    "Observações ": null,
-    "Unnamed: 19": null
+    "Fazenda": null
   },
   {
     "ID": "3492377",
@@ -48093,9 +43913,7 @@ window.QUALIDADE_MUDA_DATA = [
     "Responsável": "NILDA CLAUDINO [2510716]",
     "Qualidade da Muda": "BOM",
     "Observações": null,
-    "Fazenda": null,
-    "Observações ": null,
-    "Unnamed: 19": null
+    "Fazenda": null
   },
   {
     "ID": "3492359",
@@ -48116,9 +43934,7 @@ window.QUALIDADE_MUDA_DATA = [
     "Responsável": "NILDA CLAUDINO [2510716]",
     "Qualidade da Muda": "BOM",
     "Observações": null,
-    "Fazenda": null,
-    "Observações ": null,
-    "Unnamed: 19": null
+    "Fazenda": null
   },
   {
     "ID": "3492355",
@@ -48139,9 +43955,7 @@ window.QUALIDADE_MUDA_DATA = [
     "Responsável": "NILDA CLAUDINO [2510716]",
     "Qualidade da Muda": "BOM",
     "Observações": null,
-    "Fazenda": null,
-    "Observações ": null,
-    "Unnamed: 19": null
+    "Fazenda": null
   },
   {
     "ID": "3490423",
@@ -48162,9 +43976,7 @@ window.QUALIDADE_MUDA_DATA = [
     "Responsável": "FERNANDA DE SOUZA ",
     "Qualidade da Muda": "BOM",
     "Observações": null,
-    "Fazenda": null,
-    "Observações ": null,
-    "Unnamed: 19": null
+    "Fazenda": null
   },
   {
     "ID": "3490290",
@@ -48185,9 +43997,7 @@ window.QUALIDADE_MUDA_DATA = [
     "Responsável": "GLEISON FELIPE BORGES DE MATOS",
     "Qualidade da Muda": "BOM",
     "Observações": null,
-    "Fazenda": null,
-    "Observações ": null,
-    "Unnamed: 19": null
+    "Fazenda": null
   },
   {
     "ID": "3490289",
@@ -48208,9 +44018,7 @@ window.QUALIDADE_MUDA_DATA = [
     "Responsável": "GLEISON FELIPE BORGES DE MATOS",
     "Qualidade da Muda": "BOM",
     "Observações": null,
-    "Fazenda": null,
-    "Observações ": null,
-    "Unnamed: 19": null
+    "Fazenda": null
   },
   {
     "ID": "3491274",
@@ -48231,9 +44039,7 @@ window.QUALIDADE_MUDA_DATA = [
     "Responsável": "MARCELO DE OLIVEIRA JUNIOR",
     "Qualidade da Muda": "BOM",
     "Observações": null,
-    "Fazenda": null,
-    "Observações ": null,
-    "Unnamed: 19": null
+    "Fazenda": null
   },
   {
     "ID": "3491270",
@@ -48254,9 +44060,7 @@ window.QUALIDADE_MUDA_DATA = [
     "Responsável": "MARCELO DE OLIVEIRA JUNIOR",
     "Qualidade da Muda": "BOM",
     "Observações": null,
-    "Fazenda": null,
-    "Observações ": null,
-    "Unnamed: 19": null
+    "Fazenda": null
   },
   {
     "ID": "3491264",
@@ -48277,9 +44081,7 @@ window.QUALIDADE_MUDA_DATA = [
     "Responsável": "MARCELO DE OLIVEIRA JUNIOR",
     "Qualidade da Muda": "BOM",
     "Observações": null,
-    "Fazenda": null,
-    "Observações ": null,
-    "Unnamed: 19": null
+    "Fazenda": null
   },
   {
     "ID": "3492575",
@@ -48300,9 +44102,7 @@ window.QUALIDADE_MUDA_DATA = [
     "Responsável": "REGINALDO DA SILVA GOMES ",
     "Qualidade da Muda": "BOM",
     "Observações": null,
-    "Fazenda": null,
-    "Observações ": null,
-    "Unnamed: 19": null
+    "Fazenda": null
   },
   {
     "ID": "3492570",
@@ -48323,9 +44123,7 @@ window.QUALIDADE_MUDA_DATA = [
     "Responsável": "REGINALDO DA SILVA GOMES ",
     "Qualidade da Muda": "BOM",
     "Observações": null,
-    "Fazenda": null,
-    "Observações ": null,
-    "Unnamed: 19": null
+    "Fazenda": null
   },
   {
     "ID": "3470089",
@@ -48346,9 +44144,7 @@ window.QUALIDADE_MUDA_DATA = [
     "Responsável": "GLEISON FELIPE BORGES DE MATOS",
     "Qualidade da Muda": "BOM",
     "Observações": null,
-    "Fazenda": null,
-    "Observações ": null,
-    "Unnamed: 19": null
+    "Fazenda": null
   },
   {
     "ID": "3492564",
@@ -48369,9 +44165,7 @@ window.QUALIDADE_MUDA_DATA = [
     "Responsável": "REGINALDO DA SILVA GOMES ",
     "Qualidade da Muda": "BOM",
     "Observações": null,
-    "Fazenda": null,
-    "Observações ": null,
-    "Unnamed: 19": null
+    "Fazenda": null
   },
   {
     "ID": "3470085",
@@ -48392,9 +44186,7 @@ window.QUALIDADE_MUDA_DATA = [
     "Responsável": "GLEISON FELIPE BORGES DE MATOS",
     "Qualidade da Muda": "BOM",
     "Observações": null,
-    "Fazenda": null,
-    "Observações ": null,
-    "Unnamed: 19": null
+    "Fazenda": null
   },
   {
     "ID": "3490380",
@@ -48415,9 +44207,7 @@ window.QUALIDADE_MUDA_DATA = [
     "Responsável": "GABRIEL HENRIQUE MARTINS PEREIRA",
     "Qualidade da Muda": "BOM",
     "Observações": null,
-    "Fazenda": null,
-    "Observações ": null,
-    "Unnamed: 19": null
+    "Fazenda": null
   },
   {
     "ID": "3490376",
@@ -48438,9 +44228,7 @@ window.QUALIDADE_MUDA_DATA = [
     "Responsável": "GABRIEL HENRIQUE MARTINS PEREIRA",
     "Qualidade da Muda": "BOM",
     "Observações": null,
-    "Fazenda": null,
-    "Observações ": null,
-    "Unnamed: 19": null
+    "Fazenda": null
   },
   {
     "ID": "3470036",
@@ -48461,9 +44249,7 @@ window.QUALIDADE_MUDA_DATA = [
     "Responsável": "VITOR AMORIM RAMOS ",
     "Qualidade da Muda": "BOM",
     "Observações": null,
-    "Fazenda": null,
-    "Observações ": null,
-    "Unnamed: 19": null
+    "Fazenda": null
   },
   {
     "ID": "3490371",
@@ -48484,9 +44270,7 @@ window.QUALIDADE_MUDA_DATA = [
     "Responsável": "GABRIEL HENRIQUE MARTINS PEREIRA",
     "Qualidade da Muda": "BOM",
     "Observações": null,
-    "Fazenda": null,
-    "Observações ": null,
-    "Unnamed: 19": null
+    "Fazenda": null
   },
   {
     "ID": "3470031",
@@ -48507,9 +44291,7 @@ window.QUALIDADE_MUDA_DATA = [
     "Responsável": "VITOR AMORIM RAMOS ",
     "Qualidade da Muda": "BOM",
     "Observações": null,
-    "Fazenda": null,
-    "Observações ": null,
-    "Unnamed: 19": null
+    "Fazenda": null
   },
   {
     "ID": "3490347",
@@ -48530,9 +44312,7 @@ window.QUALIDADE_MUDA_DATA = [
     "Responsável": "GABRIEL HENRIQUE MARTINS PEREIRA",
     "Qualidade da Muda": "BOM",
     "Observações": null,
-    "Fazenda": null,
-    "Observações ": null,
-    "Unnamed: 19": null
+    "Fazenda": null
   },
   {
     "ID": "3490343",
@@ -48553,9 +44333,7 @@ window.QUALIDADE_MUDA_DATA = [
     "Responsável": "GABRIEL HENRIQUE MARTINS PEREIRA",
     "Qualidade da Muda": "BOM",
     "Observações": null,
-    "Fazenda": null,
-    "Observações ": null,
-    "Unnamed: 19": null
+    "Fazenda": null
   },
   {
     "ID": "3470026",
@@ -48576,9 +44354,7 @@ window.QUALIDADE_MUDA_DATA = [
     "Responsável": "VITOR AMORIM RAMOS ",
     "Qualidade da Muda": "BOM",
     "Observações": null,
-    "Fazenda": null,
-    "Observações ": null,
-    "Unnamed: 19": null
+    "Fazenda": null
   },
   {
     "ID": "3491241",
@@ -48599,9 +44375,7 @@ window.QUALIDADE_MUDA_DATA = [
     "Responsável": "MARCELO DE OLIVEIRA JUNIOR",
     "Qualidade da Muda": "BOM",
     "Observações": null,
-    "Fazenda": null,
-    "Observações ": null,
-    "Unnamed: 19": null
+    "Fazenda": null
   },
   {
     "ID": "3470021",
@@ -48622,9 +44396,7 @@ window.QUALIDADE_MUDA_DATA = [
     "Responsável": "VITOR AMORIM RAMOS ",
     "Qualidade da Muda": "BOM",
     "Observações": null,
-    "Fazenda": null,
-    "Observações ": null,
-    "Unnamed: 19": null
+    "Fazenda": null
   },
   {
     "ID": "3490172",
@@ -48645,9 +44417,7 @@ window.QUALIDADE_MUDA_DATA = [
     "Responsável": "FERNANDA DE SOUZA ",
     "Qualidade da Muda": "BOM",
     "Observações": null,
-    "Fazenda": null,
-    "Observações ": null,
-    "Unnamed: 19": null
+    "Fazenda": null
   },
   {
     "ID": "3491236",
@@ -48668,9 +44438,7 @@ window.QUALIDADE_MUDA_DATA = [
     "Responsável": "MARCELO DE OLIVEIRA JUNIOR",
     "Qualidade da Muda": "BOM",
     "Observações": null,
-    "Fazenda": null,
-    "Observações ": null,
-    "Unnamed: 19": null
+    "Fazenda": null
   },
   {
     "ID": "3491231",
@@ -48691,9 +44459,7 @@ window.QUALIDADE_MUDA_DATA = [
     "Responsável": "MARCELO DE OLIVEIRA JUNIOR",
     "Qualidade da Muda": "BOM",
     "Observações": null,
-    "Fazenda": null,
-    "Observações ": null,
-    "Unnamed: 19": null
+    "Fazenda": null
   },
   {
     "ID": "3470016",
@@ -48714,9 +44480,7 @@ window.QUALIDADE_MUDA_DATA = [
     "Responsável": "VITOR AMORIM RAMOS ",
     "Qualidade da Muda": "BOM",
     "Observações": null,
-    "Fazenda": null,
-    "Observações ": null,
-    "Unnamed: 19": null
+    "Fazenda": null
   },
   {
     "ID": "3491226",
@@ -48737,9 +44501,7 @@ window.QUALIDADE_MUDA_DATA = [
     "Responsável": "MARCELO DE OLIVEIRA JUNIOR",
     "Qualidade da Muda": "BOM",
     "Observações": null,
-    "Fazenda": null,
-    "Observações ": null,
-    "Unnamed: 19": null
+    "Fazenda": null
   },
   {
     "ID": "3491222",
@@ -48760,9 +44522,7 @@ window.QUALIDADE_MUDA_DATA = [
     "Responsável": "MARCELO DE OLIVEIRA JUNIOR",
     "Qualidade da Muda": "BOM",
     "Observações": null,
-    "Fazenda": null,
-    "Observações ": null,
-    "Unnamed: 19": null
+    "Fazenda": null
   },
   {
     "ID": "3490166",
@@ -48783,9 +44543,7 @@ window.QUALIDADE_MUDA_DATA = [
     "Responsável": "FERNANDA DE SOUZA ",
     "Qualidade da Muda": "BOM",
     "Observações": null,
-    "Fazenda": null,
-    "Observações ": null,
-    "Unnamed: 19": null
+    "Fazenda": null
   },
   {
     "ID": "3469976",
@@ -48806,9 +44564,7 @@ window.QUALIDADE_MUDA_DATA = [
     "Responsável": "VITOR AMORIM RAMOS ",
     "Qualidade da Muda": "BOM",
     "Observações": null,
-    "Fazenda": null,
-    "Observações ": null,
-    "Unnamed: 19": null
+    "Fazenda": null
   },
   {
     "ID": "3469971",
@@ -48829,9 +44585,7 @@ window.QUALIDADE_MUDA_DATA = [
     "Responsável": "VITOR AMORIM RAMOS ",
     "Qualidade da Muda": "BOM",
     "Observações": null,
-    "Fazenda": null,
-    "Observações ": null,
-    "Unnamed: 19": null
+    "Fazenda": null
   },
   {
     "ID": "3469963",
@@ -48852,9 +44606,7 @@ window.QUALIDADE_MUDA_DATA = [
     "Responsável": "VITOR AMORIM RAMOS ",
     "Qualidade da Muda": "BOM",
     "Observações": null,
-    "Fazenda": null,
-    "Observações ": null,
-    "Unnamed: 19": null
+    "Fazenda": null
   },
   {
     "ID": "3469958",
@@ -48875,9 +44627,7 @@ window.QUALIDADE_MUDA_DATA = [
     "Responsável": "VITOR AMORIM RAMOS ",
     "Qualidade da Muda": "BOM",
     "Observações": null,
-    "Fazenda": null,
-    "Observações ": null,
-    "Unnamed: 19": null
+    "Fazenda": null
   },
   {
     "ID": "3468237",
@@ -48898,9 +44648,7 @@ window.QUALIDADE_MUDA_DATA = [
     "Responsável": "MARCELO DE OLIVEIRA JUNIOR",
     "Qualidade da Muda": "BOM",
     "Observações": null,
-    "Fazenda": null,
-    "Observações ": null,
-    "Unnamed: 19": null
+    "Fazenda": null
   },
   {
     "ID": "3468194",
@@ -48921,9 +44669,7 @@ window.QUALIDADE_MUDA_DATA = [
     "Responsável": "FERNANDA DE SOUZA ",
     "Qualidade da Muda": "BOM",
     "Observações": null,
-    "Fazenda": null,
-    "Observações ": null,
-    "Unnamed: 19": null
+    "Fazenda": null
   },
   {
     "ID": "3468080",
@@ -48944,9 +44690,7 @@ window.QUALIDADE_MUDA_DATA = [
     "Responsável": "VITOR AMORIM RAMOS ",
     "Qualidade da Muda": "BOM",
     "Observações": null,
-    "Fazenda": null,
-    "Observações ": null,
-    "Unnamed: 19": null
+    "Fazenda": null
   },
   {
     "ID": "3468009",
@@ -48967,9 +44711,7 @@ window.QUALIDADE_MUDA_DATA = [
     "Responsável": "FERNANDA DE SOUZA ",
     "Qualidade da Muda": "BOM",
     "Observações": null,
-    "Fazenda": null,
-    "Observações ": null,
-    "Unnamed: 19": null
+    "Fazenda": null
   },
   {
     "ID": "3468076",
@@ -48990,9 +44732,7 @@ window.QUALIDADE_MUDA_DATA = [
     "Responsável": "VITOR AMORIM RAMOS ",
     "Qualidade da Muda": "BOM",
     "Observações": null,
-    "Fazenda": null,
-    "Observações ": null,
-    "Unnamed: 19": null
+    "Fazenda": null
   },
   {
     "ID": "3468055",
@@ -49013,9 +44753,7 @@ window.QUALIDADE_MUDA_DATA = [
     "Responsável": "VITOR AMORIM RAMOS ",
     "Qualidade da Muda": "BOM",
     "Observações": null,
-    "Fazenda": null,
-    "Observações ": null,
-    "Unnamed: 19": null
+    "Fazenda": null
   },
   {
     "ID": "3468006",
@@ -49036,9 +44774,7 @@ window.QUALIDADE_MUDA_DATA = [
     "Responsável": "FERNANDA DE SOUZA ",
     "Qualidade da Muda": "BOM",
     "Observações": null,
-    "Fazenda": null,
-    "Observações ": null,
-    "Unnamed: 19": null
+    "Fazenda": null
   },
   {
     "ID": "3468035",
@@ -49059,9 +44795,7 @@ window.QUALIDADE_MUDA_DATA = [
     "Responsável": "VITOR AMORIM RAMOS ",
     "Qualidade da Muda": "BOM",
     "Observações": null,
-    "Fazenda": null,
-    "Observações ": null,
-    "Unnamed: 19": null
+    "Fazenda": null
   },
   {
     "ID": "3468029",
@@ -49082,9 +44816,7 @@ window.QUALIDADE_MUDA_DATA = [
     "Responsável": "VITOR AMORIM RAMOS ",
     "Qualidade da Muda": "BOM",
     "Observações": null,
-    "Fazenda": null,
-    "Observações ": null,
-    "Unnamed: 19": null
+    "Fazenda": null
   },
   {
     "ID": "3467734",
@@ -49105,9 +44837,7 @@ window.QUALIDADE_MUDA_DATA = [
     "Responsável": "VITOR AMORIM RAMOS ",
     "Qualidade da Muda": "BOM",
     "Observações": null,
-    "Fazenda": null,
-    "Observações ": null,
-    "Unnamed: 19": null
+    "Fazenda": null
   },
   {
     "ID": "3467729",
@@ -49128,9 +44858,7 @@ window.QUALIDADE_MUDA_DATA = [
     "Responsável": "VITOR AMORIM RAMOS ",
     "Qualidade da Muda": "BOM",
     "Observações": null,
-    "Fazenda": null,
-    "Observações ": null,
-    "Unnamed: 19": null
+    "Fazenda": null
   },
   {
     "ID": "3467724",
@@ -49151,9 +44879,7 @@ window.QUALIDADE_MUDA_DATA = [
     "Responsável": "VITOR AMORIM RAMOS ",
     "Qualidade da Muda": "BOM",
     "Observações": null,
-    "Fazenda": null,
-    "Observações ": null,
-    "Unnamed: 19": null
+    "Fazenda": null
   },
   {
     "ID": "3468129",
@@ -49174,9 +44900,7 @@ window.QUALIDADE_MUDA_DATA = [
     "Responsável": "NILDA CLAUDINO [2510716]",
     "Qualidade da Muda": "BOM",
     "Observações": null,
-    "Fazenda": null,
-    "Observações ": null,
-    "Unnamed: 19": null
+    "Fazenda": null
   },
   {
     "ID": "3467661",
@@ -49197,9 +44921,7 @@ window.QUALIDADE_MUDA_DATA = [
     "Responsável": "FERNANDA DE SOUZA ",
     "Qualidade da Muda": "BOM",
     "Observações": null,
-    "Fazenda": null,
-    "Observações ": null,
-    "Unnamed: 19": null
+    "Fazenda": null
   },
   {
     "ID": "3467607",
@@ -49220,9 +44942,7 @@ window.QUALIDADE_MUDA_DATA = [
     "Responsável": "REGINALDO DA SILVA GOMES ",
     "Qualidade da Muda": "BOM",
     "Observações": null,
-    "Fazenda": null,
-    "Observações ": null,
-    "Unnamed: 19": null
+    "Fazenda": null
   },
   {
     "ID": "3468125",
@@ -49243,9 +44963,7 @@ window.QUALIDADE_MUDA_DATA = [
     "Responsável": "NILDA CLAUDINO [2510716]",
     "Qualidade da Muda": "BOM",
     "Observações": null,
-    "Fazenda": null,
-    "Observações ": null,
-    "Unnamed: 19": null
+    "Fazenda": null
   },
   {
     "ID": "3468121",
@@ -49266,9 +44984,7 @@ window.QUALIDADE_MUDA_DATA = [
     "Responsável": "NILDA CLAUDINO [2510716]",
     "Qualidade da Muda": "BOM",
     "Observações": null,
-    "Fazenda": null,
-    "Observações ": null,
-    "Unnamed: 19": null
+    "Fazenda": null
   },
   {
     "ID": "3467602",
@@ -49289,9 +45005,7 @@ window.QUALIDADE_MUDA_DATA = [
     "Responsável": "REGINALDO DA SILVA GOMES ",
     "Qualidade da Muda": "BOM",
     "Observações": null,
-    "Fazenda": null,
-    "Observações ": null,
-    "Unnamed: 19": null
+    "Fazenda": null
   },
   {
     "ID": "3468172",
@@ -49312,9 +45026,7 @@ window.QUALIDADE_MUDA_DATA = [
     "Responsável": "GABRIEL HENRIQUE MARTINS PEREIRA",
     "Qualidade da Muda": "BOM",
     "Observações": null,
-    "Fazenda": null,
-    "Observações ": null,
-    "Unnamed: 19": null
+    "Fazenda": null
   },
   {
     "ID": "3468116",
@@ -49335,9 +45047,7 @@ window.QUALIDADE_MUDA_DATA = [
     "Responsável": "NILDA CLAUDINO [2510716]",
     "Qualidade da Muda": "BOM",
     "Observações": null,
-    "Fazenda": null,
-    "Observações ": null,
-    "Unnamed: 19": null
+    "Fazenda": null
   },
   {
     "ID": "3467597",
@@ -49358,9 +45068,7 @@ window.QUALIDADE_MUDA_DATA = [
     "Responsável": "REGINALDO DA SILVA GOMES ",
     "Qualidade da Muda": "BOM",
     "Observações": null,
-    "Fazenda": null,
-    "Observações ": null,
-    "Unnamed: 19": null
+    "Fazenda": null
   },
   {
     "ID": "3468167",
@@ -49381,9 +45089,7 @@ window.QUALIDADE_MUDA_DATA = [
     "Responsável": "GABRIEL HENRIQUE MARTINS PEREIRA",
     "Qualidade da Muda": "BOM",
     "Observações": null,
-    "Fazenda": null,
-    "Observações ": null,
-    "Unnamed: 19": null
+    "Fazenda": null
   },
   {
     "ID": "3468110",
@@ -49404,9 +45110,7 @@ window.QUALIDADE_MUDA_DATA = [
     "Responsável": "NILDA CLAUDINO [2510716]",
     "Qualidade da Muda": "BOM",
     "Observações": null,
-    "Fazenda": null,
-    "Observações ": null,
-    "Unnamed: 19": null
+    "Fazenda": null
   },
   {
     "ID": "3468062",
@@ -49427,9 +45131,7 @@ window.QUALIDADE_MUDA_DATA = [
     "Responsável": "MICHELI DE SOUZA SANTOS  ",
     "Qualidade da Muda": "BOM",
     "Observações": null,
-    "Fazenda": null,
-    "Observações ": null,
-    "Unnamed: 19": null
+    "Fazenda": null
   },
   {
     "ID": "3468163",
@@ -49450,9 +45152,7 @@ window.QUALIDADE_MUDA_DATA = [
     "Responsável": "GABRIEL HENRIQUE MARTINS PEREIRA",
     "Qualidade da Muda": "BOM",
     "Observações": null,
-    "Fazenda": null,
-    "Observações ": null,
-    "Unnamed: 19": null
+    "Fazenda": null
   },
   {
     "ID": "3468105",
@@ -49473,9 +45173,7 @@ window.QUALIDADE_MUDA_DATA = [
     "Responsável": "NILDA CLAUDINO [2510716]",
     "Qualidade da Muda": "BOM",
     "Observações": null,
-    "Fazenda": null,
-    "Observações ": null,
-    "Unnamed: 19": null
+    "Fazenda": null
   },
   {
     "ID": "3468159",
@@ -49496,9 +45194,7 @@ window.QUALIDADE_MUDA_DATA = [
     "Responsável": "GABRIEL HENRIQUE MARTINS PEREIRA",
     "Qualidade da Muda": "BOM",
     "Observações": null,
-    "Fazenda": null,
-    "Observações ": null,
-    "Unnamed: 19": null
+    "Fazenda": null
   },
   {
     "ID": "3468057",
@@ -49519,9 +45215,7 @@ window.QUALIDADE_MUDA_DATA = [
     "Responsável": "MICHELI DE SOUZA SANTOS  ",
     "Qualidade da Muda": "BOM",
     "Observações": null,
-    "Fazenda": null,
-    "Observações ": null,
-    "Unnamed: 19": null
+    "Fazenda": null
   },
   {
     "ID": "3467706",
@@ -49542,9 +45236,7 @@ window.QUALIDADE_MUDA_DATA = [
     "Responsável": "VITOR AMORIM RAMOS ",
     "Qualidade da Muda": "BOM",
     "Observações": null,
-    "Fazenda": null,
-    "Observações ": null,
-    "Unnamed: 19": null
+    "Fazenda": null
   },
   {
     "ID": "3468051",
@@ -49565,9 +45257,7 @@ window.QUALIDADE_MUDA_DATA = [
     "Responsável": "MICHELI DE SOUZA SANTOS  ",
     "Qualidade da Muda": "BOM",
     "Observações": null,
-    "Fazenda": null,
-    "Observações ": null,
-    "Unnamed: 19": null
+    "Fazenda": null
   },
   {
     "ID": "3468155",
@@ -49588,9 +45278,7 @@ window.QUALIDADE_MUDA_DATA = [
     "Responsável": "GABRIEL HENRIQUE MARTINS PEREIRA",
     "Qualidade da Muda": "BOM",
     "Observações": null,
-    "Fazenda": null,
-    "Observações ": null,
-    "Unnamed: 19": null
+    "Fazenda": null
   },
   {
     "ID": "3467582",
@@ -49611,9 +45299,7 @@ window.QUALIDADE_MUDA_DATA = [
     "Responsável": "MARCELO DE OLIVEIRA JUNIOR",
     "Qualidade da Muda": "BOM",
     "Observações": null,
-    "Fazenda": null,
-    "Observações ": null,
-    "Unnamed: 19": null
+    "Fazenda": null
   },
   {
     "ID": "3467655",
@@ -49634,9 +45320,7 @@ window.QUALIDADE_MUDA_DATA = [
     "Responsável": "FERNANDA DE SOUZA ",
     "Qualidade da Muda": "BOM",
     "Observações": null,
-    "Fazenda": null,
-    "Observações ": null,
-    "Unnamed: 19": null
+    "Fazenda": null
   },
   {
     "ID": "3467702",
@@ -49657,9 +45341,7 @@ window.QUALIDADE_MUDA_DATA = [
     "Responsável": "VITOR AMORIM RAMOS ",
     "Qualidade da Muda": "BOM",
     "Observações": null,
-    "Fazenda": null,
-    "Observações ": null,
-    "Unnamed: 19": null
+    "Fazenda": null
   },
   {
     "ID": "3467581",
@@ -49680,9 +45362,7 @@ window.QUALIDADE_MUDA_DATA = [
     "Responsável": "MARCELO DE OLIVEIRA JUNIOR",
     "Qualidade da Muda": "BOM",
     "Observações": null,
-    "Fazenda": null,
-    "Observações ": null,
-    "Unnamed: 19": null
+    "Fazenda": null
   },
   {
     "ID": "3468046",
@@ -49703,9 +45383,7 @@ window.QUALIDADE_MUDA_DATA = [
     "Responsável": "MICHELI DE SOUZA SANTOS  ",
     "Qualidade da Muda": "BOM",
     "Observações": null,
-    "Fazenda": null,
-    "Observações ": null,
-    "Unnamed: 19": null
+    "Fazenda": null
   },
   {
     "ID": "3467701",
@@ -49726,9 +45404,7 @@ window.QUALIDADE_MUDA_DATA = [
     "Responsável": "VITOR AMORIM RAMOS ",
     "Qualidade da Muda": "BOM",
     "Observações": null,
-    "Fazenda": null,
-    "Observações ": null,
-    "Unnamed: 19": null
+    "Fazenda": null
   },
   {
     "ID": "3468041",
@@ -49749,9 +45425,7 @@ window.QUALIDADE_MUDA_DATA = [
     "Responsável": "MICHELI DE SOUZA SANTOS  ",
     "Qualidade da Muda": "BOM",
     "Observações": null,
-    "Fazenda": null,
-    "Observações ": null,
-    "Unnamed: 19": null
+    "Fazenda": null
   },
   {
     "ID": "3467576",
@@ -49772,9 +45446,7 @@ window.QUALIDADE_MUDA_DATA = [
     "Responsável": "MARCELO DE OLIVEIRA JUNIOR",
     "Qualidade da Muda": "BOM",
     "Observações": null,
-    "Fazenda": null,
-    "Observações ": null,
-    "Unnamed: 19": null
+    "Fazenda": null
   },
   {
     "ID": "3467685",
@@ -49795,9 +45467,7 @@ window.QUALIDADE_MUDA_DATA = [
     "Responsável": "VITOR AMORIM RAMOS ",
     "Qualidade da Muda": "BOM",
     "Observações": null,
-    "Fazenda": null,
-    "Observações ": null,
-    "Unnamed: 19": null
+    "Fazenda": null
   },
   {
     "ID": "3467648",
@@ -49818,9 +45488,7 @@ window.QUALIDADE_MUDA_DATA = [
     "Responsável": "FERNANDA DE SOUZA ",
     "Qualidade da Muda": "BOM",
     "Observações": null,
-    "Fazenda": null,
-    "Observações ": null,
-    "Unnamed: 19": null
+    "Fazenda": null
   },
   {
     "ID": "3467677",
@@ -49841,9 +45509,7 @@ window.QUALIDADE_MUDA_DATA = [
     "Responsável": "VITOR AMORIM RAMOS ",
     "Qualidade da Muda": "BOM",
     "Observações": null,
-    "Fazenda": null,
-    "Observações ": null,
-    "Unnamed: 19": null
+    "Fazenda": null
   },
   {
     "ID": "3467569",
@@ -49864,9 +45530,7 @@ window.QUALIDADE_MUDA_DATA = [
     "Responsável": "MARCELO DE OLIVEIRA JUNIOR",
     "Qualidade da Muda": "BOM",
     "Observações": null,
-    "Fazenda": null,
-    "Observações ": null,
-    "Unnamed: 19": null
+    "Fazenda": null
   },
   {
     "ID": "3467564",
@@ -49887,9 +45551,7 @@ window.QUALIDADE_MUDA_DATA = [
     "Responsável": "MARCELO DE OLIVEIRA JUNIOR",
     "Qualidade da Muda": "BOM",
     "Observações": null,
-    "Fazenda": null,
-    "Observações ": null,
-    "Unnamed: 19": null
+    "Fazenda": null
   },
   {
     "ID": "3466076",
@@ -49910,9 +45572,7 @@ window.QUALIDADE_MUDA_DATA = [
     "Responsável": "VITOR AMORIM RAMOS ",
     "Qualidade da Muda": "BOM",
     "Observações": null,
-    "Fazenda": null,
-    "Observações ": null,
-    "Unnamed: 19": null
+    "Fazenda": null
   },
   {
     "ID": "3466072",
@@ -49933,9 +45593,7 @@ window.QUALIDADE_MUDA_DATA = [
     "Responsável": "VITOR AMORIM RAMOS ",
     "Qualidade da Muda": "BOM",
     "Observações": null,
-    "Fazenda": null,
-    "Observações ": null,
-    "Unnamed: 19": null
+    "Fazenda": null
   },
   {
     "ID": "3465975",
@@ -49956,9 +45614,7 @@ window.QUALIDADE_MUDA_DATA = [
     "Responsável": "FERNANDA DE SOUZA ",
     "Qualidade da Muda": "BOM",
     "Observações": null,
-    "Fazenda": null,
-    "Observações ": null,
-    "Unnamed: 19": null
+    "Fazenda": null
   },
   {
     "ID": "3466061",
@@ -49979,9 +45635,7 @@ window.QUALIDADE_MUDA_DATA = [
     "Responsável": "VITOR AMORIM RAMOS ",
     "Qualidade da Muda": "BOM",
     "Observações": null,
-    "Fazenda": null,
-    "Observações ": null,
-    "Unnamed: 19": null
+    "Fazenda": null
   },
   {
     "ID": "3466056",
@@ -50002,9 +45656,7 @@ window.QUALIDADE_MUDA_DATA = [
     "Responsável": "VITOR AMORIM RAMOS ",
     "Qualidade da Muda": "BOM",
     "Observações": null,
-    "Fazenda": null,
-    "Observações ": null,
-    "Unnamed: 19": null
+    "Fazenda": null
   },
   {
     "ID": "3465968",
@@ -50025,9 +45677,7 @@ window.QUALIDADE_MUDA_DATA = [
     "Responsável": "FERNANDA DE SOUZA ",
     "Qualidade da Muda": "BOM",
     "Observações": null,
-    "Fazenda": null,
-    "Observações ": null,
-    "Unnamed: 19": null
+    "Fazenda": null
   },
   {
     "ID": "3466050",
@@ -50048,9 +45698,7 @@ window.QUALIDADE_MUDA_DATA = [
     "Responsável": "VITOR AMORIM RAMOS ",
     "Qualidade da Muda": "BOM",
     "Observações": null,
-    "Fazenda": null,
-    "Observações ": null,
-    "Unnamed: 19": null
+    "Fazenda": null
   },
   {
     "ID": "3466044",
@@ -50071,9 +45719,7 @@ window.QUALIDADE_MUDA_DATA = [
     "Responsável": "VITOR AMORIM RAMOS ",
     "Qualidade da Muda": "BOM",
     "Observações": null,
-    "Fazenda": null,
-    "Observações ": null,
-    "Unnamed: 19": null
+    "Fazenda": null
   },
   {
     "ID": "3466012",
@@ -50094,9 +45740,7 @@ window.QUALIDADE_MUDA_DATA = [
     "Responsável": "VITOR AMORIM RAMOS ",
     "Qualidade da Muda": "BOM",
     "Observações": null,
-    "Fazenda": null,
-    "Observações ": null,
-    "Unnamed: 19": null
+    "Fazenda": null
   },
   {
     "ID": "3465823",
@@ -50117,9 +45761,7 @@ window.QUALIDADE_MUDA_DATA = [
     "Responsável": "MICHELI DE SOUZA SANTOS  ",
     "Qualidade da Muda": "BOM",
     "Observações": null,
-    "Fazenda": null,
-    "Observações ": null,
-    "Unnamed: 19": null
+    "Fazenda": null
   },
   {
     "ID": "3465822",
@@ -50140,9 +45782,7 @@ window.QUALIDADE_MUDA_DATA = [
     "Responsável": "MICHELI DE SOUZA SANTOS  ",
     "Qualidade da Muda": "BOM",
     "Observações": null,
-    "Fazenda": null,
-    "Observações ": null,
-    "Unnamed: 19": null
+    "Fazenda": null
   },
   {
     "ID": "3465821",
@@ -50163,9 +45803,7 @@ window.QUALIDADE_MUDA_DATA = [
     "Responsável": "MICHELI DE SOUZA SANTOS  ",
     "Qualidade da Muda": "BOM",
     "Observações": null,
-    "Fazenda": null,
-    "Observações ": null,
-    "Unnamed: 19": null
+    "Fazenda": null
   },
   {
     "ID": "3465820",
@@ -50186,9 +45824,7 @@ window.QUALIDADE_MUDA_DATA = [
     "Responsável": "MICHELI DE SOUZA SANTOS  ",
     "Qualidade da Muda": "BOM",
     "Observações": null,
-    "Fazenda": null,
-    "Observações ": null,
-    "Unnamed: 19": null
+    "Fazenda": null
   },
   {
     "ID": "3465819",
@@ -50209,9 +45845,7 @@ window.QUALIDADE_MUDA_DATA = [
     "Responsável": "MICHELI DE SOUZA SANTOS  ",
     "Qualidade da Muda": "BOM",
     "Observações": null,
-    "Fazenda": null,
-    "Observações ": null,
-    "Unnamed: 19": null
+    "Fazenda": null
   },
   {
     "ID": "3465560",
@@ -50232,9 +45866,7 @@ window.QUALIDADE_MUDA_DATA = [
     "Responsável": "VITOR AMORIM RAMOS ",
     "Qualidade da Muda": "BOM",
     "Observações": null,
-    "Fazenda": null,
-    "Observações ": null,
-    "Unnamed: 19": null
+    "Fazenda": null
   },
   {
     "ID": "3469391",
@@ -50255,9 +45887,7 @@ window.QUALIDADE_MUDA_DATA = [
     "Responsável": "GABRIEL HENRIQUE MARTINS PEREIRA",
     "Qualidade da Muda": "BOM",
     "Observações": null,
-    "Fazenda": null,
-    "Observações ": null,
-    "Unnamed: 19": null
+    "Fazenda": null
   },
   {
     "ID": "3465685",
@@ -50278,9 +45908,7 @@ window.QUALIDADE_MUDA_DATA = [
     "Responsável": "NILDA CLAUDINO [2510716]",
     "Qualidade da Muda": "BOM",
     "Observações": null,
-    "Fazenda": null,
-    "Observações ": null,
-    "Unnamed: 19": null
+    "Fazenda": null
   },
   {
     "ID": "3465555",
@@ -50301,9 +45929,7 @@ window.QUALIDADE_MUDA_DATA = [
     "Responsável": "VITOR AMORIM RAMOS ",
     "Qualidade da Muda": "BOM",
     "Observações": null,
-    "Fazenda": null,
-    "Observações ": null,
-    "Unnamed: 19": null
+    "Fazenda": null
   },
   {
     "ID": "3466701",
@@ -50324,9 +45950,7 @@ window.QUALIDADE_MUDA_DATA = [
     "Responsável": "MARCELO DE OLIVEIRA JUNIOR",
     "Qualidade da Muda": "BOM",
     "Observações": null,
-    "Fazenda": null,
-    "Observações ": null,
-    "Unnamed: 19": null
+    "Fazenda": null
   },
   {
     "ID": "3465550",
@@ -50347,9 +45971,7 @@ window.QUALIDADE_MUDA_DATA = [
     "Responsável": "VITOR AMORIM RAMOS ",
     "Qualidade da Muda": "BOM",
     "Observações": null,
-    "Fazenda": null,
-    "Observações ": null,
-    "Unnamed: 19": null
+    "Fazenda": null
   },
   {
     "ID": "3466695",
@@ -50370,9 +45992,7 @@ window.QUALIDADE_MUDA_DATA = [
     "Responsável": "MARCELO DE OLIVEIRA JUNIOR",
     "Qualidade da Muda": "BOM",
     "Observações": null,
-    "Fazenda": null,
-    "Observações ": null,
-    "Unnamed: 19": null
+    "Fazenda": null
   },
   {
     "ID": "3469386",
@@ -50393,9 +46013,7 @@ window.QUALIDADE_MUDA_DATA = [
     "Responsável": "GABRIEL HENRIQUE MARTINS PEREIRA",
     "Qualidade da Muda": "BOM",
     "Observações": null,
-    "Fazenda": null,
-    "Observações ": null,
-    "Unnamed: 19": null
+    "Fazenda": null
   },
   {
     "ID": "3465681",
@@ -50416,9 +46034,7 @@ window.QUALIDADE_MUDA_DATA = [
     "Responsável": "NILDA CLAUDINO [2510716]",
     "Qualidade da Muda": "BOM",
     "Observações": null,
-    "Fazenda": null,
-    "Observações ": null,
-    "Unnamed: 19": null
+    "Fazenda": null
   },
   {
     "ID": "3466690",
@@ -50439,9 +46055,7 @@ window.QUALIDADE_MUDA_DATA = [
     "Responsável": "MARCELO DE OLIVEIRA JUNIOR",
     "Qualidade da Muda": "BOM",
     "Observações": null,
-    "Fazenda": null,
-    "Observações ": null,
-    "Unnamed: 19": null
+    "Fazenda": null
   },
   {
     "ID": "3469381",
@@ -50462,9 +46076,7 @@ window.QUALIDADE_MUDA_DATA = [
     "Responsável": "GABRIEL HENRIQUE MARTINS PEREIRA",
     "Qualidade da Muda": "BOM",
     "Observações": null,
-    "Fazenda": null,
-    "Observações ": null,
-    "Unnamed: 19": null
+    "Fazenda": null
   },
   {
     "ID": "3465677",
@@ -50485,9 +46097,7 @@ window.QUALIDADE_MUDA_DATA = [
     "Responsável": "NILDA CLAUDINO [2510716]",
     "Qualidade da Muda": "BOM",
     "Observações": null,
-    "Fazenda": null,
-    "Observações ": null,
-    "Unnamed: 19": null
+    "Fazenda": null
   },
   {
     "ID": "3466684",
@@ -50508,9 +46118,7 @@ window.QUALIDADE_MUDA_DATA = [
     "Responsável": "MARCELO DE OLIVEIRA JUNIOR",
     "Qualidade da Muda": "BOM",
     "Observações": null,
-    "Fazenda": null,
-    "Observações ": null,
-    "Unnamed: 19": null
+    "Fazenda": null
   },
   {
     "ID": "3469376",
@@ -50531,9 +46139,7 @@ window.QUALIDADE_MUDA_DATA = [
     "Responsável": "GABRIEL HENRIQUE MARTINS PEREIRA",
     "Qualidade da Muda": "BOM",
     "Observações": null,
-    "Fazenda": null,
-    "Observações ": null,
-    "Unnamed: 19": null
+    "Fazenda": null
   },
   {
     "ID": "3465618",
@@ -50554,9 +46160,7 @@ window.QUALIDADE_MUDA_DATA = [
     "Responsável": "NILDA CLAUDINO [2510716]",
     "Qualidade da Muda": "BOM",
     "Observações": null,
-    "Fazenda": null,
-    "Observações ": null,
-    "Unnamed: 19": null
+    "Fazenda": null
   },
   {
     "ID": "3465518",
@@ -50577,9 +46181,7 @@ window.QUALIDADE_MUDA_DATA = [
     "Responsável": "FERNANDA DE SOUZA ",
     "Qualidade da Muda": "BOM",
     "Observações": null,
-    "Fazenda": null,
-    "Observações ": null,
-    "Unnamed: 19": null
+    "Fazenda": null
   },
   {
     "ID": "3469372",
@@ -50600,9 +46202,7 @@ window.QUALIDADE_MUDA_DATA = [
     "Responsável": "GABRIEL HENRIQUE MARTINS PEREIRA",
     "Qualidade da Muda": "BOM",
     "Observações": null,
-    "Fazenda": null,
-    "Observações ": null,
-    "Unnamed: 19": null
+    "Fazenda": null
   },
   {
     "ID": "3465614",
@@ -50623,9 +46223,7 @@ window.QUALIDADE_MUDA_DATA = [
     "Responsável": "NILDA CLAUDINO [2510716]",
     "Qualidade da Muda": "BOM",
     "Observações": null,
-    "Fazenda": null,
-    "Observações ": null,
-    "Unnamed: 19": null
+    "Fazenda": null
   },
   {
     "ID": "3465512",
@@ -50646,9 +46244,7 @@ window.QUALIDADE_MUDA_DATA = [
     "Responsável": "FERNANDA DE SOUZA ",
     "Qualidade da Muda": "BOM",
     "Observações": null,
-    "Fazenda": null,
-    "Observações ": null,
-    "Unnamed: 19": null
+    "Fazenda": null
   },
   {
     "ID": "3465500",
@@ -50669,9 +46265,7 @@ window.QUALIDADE_MUDA_DATA = [
     "Responsável": "FERNANDA DE SOUZA ",
     "Qualidade da Muda": "BOM",
     "Observações": null,
-    "Fazenda": null,
-    "Observações ": null,
-    "Unnamed: 19": null
+    "Fazenda": null
   },
   {
     "ID": "3463865",
@@ -50692,9 +46286,7 @@ window.QUALIDADE_MUDA_DATA = [
     "Responsável": "VITOR AMORIM RAMOS ",
     "Qualidade da Muda": "BOM",
     "Observações": null,
-    "Fazenda": null,
-    "Observações ": null,
-    "Unnamed: 19": null
+    "Fazenda": null
   },
   {
     "ID": "3463860",
@@ -50715,9 +46307,7 @@ window.QUALIDADE_MUDA_DATA = [
     "Responsável": "VITOR AMORIM RAMOS ",
     "Qualidade da Muda": "BOM",
     "Observações": null,
-    "Fazenda": null,
-    "Observações ": null,
-    "Unnamed: 19": null
+    "Fazenda": null
   },
   {
     "ID": "3463833",
@@ -50738,9 +46328,7 @@ window.QUALIDADE_MUDA_DATA = [
     "Responsável": "VITOR AMORIM RAMOS ",
     "Qualidade da Muda": "BOM",
     "Observações": null,
-    "Fazenda": null,
-    "Observações ": null,
-    "Unnamed: 19": null
+    "Fazenda": null
   },
   {
     "ID": "3463826",
@@ -50761,9 +46349,7 @@ window.QUALIDADE_MUDA_DATA = [
     "Responsável": "VITOR AMORIM RAMOS ",
     "Qualidade da Muda": "BOM",
     "Observações": null,
-    "Fazenda": null,
-    "Observações ": null,
-    "Unnamed: 19": null
+    "Fazenda": null
   },
   {
     "ID": "3463768",
@@ -50784,9 +46370,7 @@ window.QUALIDADE_MUDA_DATA = [
     "Responsável": "GABRIEL HENRIQUE MARTINS PEREIRA",
     "Qualidade da Muda": "BOM",
     "Observações": null,
-    "Fazenda": null,
-    "Observações ": null,
-    "Unnamed: 19": null
+    "Fazenda": null
   },
   {
     "ID": "3464591",
@@ -50807,9 +46391,7 @@ window.QUALIDADE_MUDA_DATA = [
     "Responsável": "VITOR AMORIM RAMOS ",
     "Qualidade da Muda": "BOM",
     "Observações": null,
-    "Fazenda": null,
-    "Observações ": null,
-    "Unnamed: 19": null
+    "Fazenda": null
   },
   {
     "ID": "3463763",
@@ -50830,9 +46412,7 @@ window.QUALIDADE_MUDA_DATA = [
     "Responsável": "GABRIEL HENRIQUE MARTINS PEREIRA",
     "Qualidade da Muda": "BOM",
     "Observações": null,
-    "Fazenda": null,
-    "Observações ": null,
-    "Unnamed: 19": null
+    "Fazenda": null
   },
   {
     "ID": "3464586",
@@ -50853,9 +46433,7 @@ window.QUALIDADE_MUDA_DATA = [
     "Responsável": "VITOR AMORIM RAMOS ",
     "Qualidade da Muda": "BOM",
     "Observações": null,
-    "Fazenda": null,
-    "Observações ": null,
-    "Unnamed: 19": null
+    "Fazenda": null
   },
   {
     "ID": "3463757",
@@ -50876,9 +46454,7 @@ window.QUALIDADE_MUDA_DATA = [
     "Responsável": "GABRIEL HENRIQUE MARTINS PEREIRA",
     "Qualidade da Muda": "BOM",
     "Observações": null,
-    "Fazenda": null,
-    "Observações ": null,
-    "Unnamed: 19": null
+    "Fazenda": null
   },
   {
     "ID": "3463748",
@@ -50899,9 +46475,7 @@ window.QUALIDADE_MUDA_DATA = [
     "Responsável": "GABRIEL HENRIQUE MARTINS PEREIRA",
     "Qualidade da Muda": "BOM",
     "Observações": null,
-    "Fazenda": null,
-    "Observações ": null,
-    "Unnamed: 19": null
+    "Fazenda": null
   },
   {
     "ID": "3463743",
@@ -50922,9 +46496,7 @@ window.QUALIDADE_MUDA_DATA = [
     "Responsável": "GABRIEL HENRIQUE MARTINS PEREIRA",
     "Qualidade da Muda": "BOM",
     "Observações": null,
-    "Fazenda": null,
-    "Observações ": null,
-    "Unnamed: 19": null
+    "Fazenda": null
   },
   {
     "ID": "3463845",
@@ -50945,9 +46517,7 @@ window.QUALIDADE_MUDA_DATA = [
     "Responsável": "FERNANDA DE SOUZA ",
     "Qualidade da Muda": "BOM",
     "Observações": null,
-    "Fazenda": null,
-    "Observações ": null,
-    "Unnamed: 19": null
+    "Fazenda": null
   },
   {
     "ID": "3463738",
@@ -50968,9 +46538,7 @@ window.QUALIDADE_MUDA_DATA = [
     "Responsável": "GABRIEL HENRIQUE MARTINS PEREIRA",
     "Qualidade da Muda": "BOM",
     "Observações": null,
-    "Fazenda": null,
-    "Observações ": null,
-    "Unnamed: 19": null
+    "Fazenda": null
   },
   {
     "ID": "3463842",
@@ -50991,9 +46559,7 @@ window.QUALIDADE_MUDA_DATA = [
     "Responsável": "FERNANDA DE SOUZA ",
     "Qualidade da Muda": "BOM",
     "Observações": null,
-    "Fazenda": null,
-    "Observações ": null,
-    "Unnamed: 19": null
+    "Fazenda": null
   },
   {
     "ID": "3463732",
@@ -51014,9 +46580,7 @@ window.QUALIDADE_MUDA_DATA = [
     "Responsável": "GABRIEL HENRIQUE MARTINS PEREIRA",
     "Qualidade da Muda": "BOM",
     "Observações": null,
-    "Fazenda": null,
-    "Observações ": null,
-    "Unnamed: 19": null
+    "Fazenda": null
   },
   {
     "ID": "3463692",
@@ -51037,9 +46601,7 @@ window.QUALIDADE_MUDA_DATA = [
     "Responsável": "GABRIEL HENRIQUE MARTINS PEREIRA",
     "Qualidade da Muda": "BOM",
     "Observações": null,
-    "Fazenda": null,
-    "Observações ": null,
-    "Unnamed: 19": null
+    "Fazenda": null
   },
   {
     "ID": "3463339",
@@ -51060,9 +46622,7 @@ window.QUALIDADE_MUDA_DATA = [
     "Responsável": "GLEISON FELIPE BORGES DE MATOS",
     "Qualidade da Muda": "BOM",
     "Observações": null,
-    "Fazenda": null,
-    "Observações ": null,
-    "Unnamed: 19": null
+    "Fazenda": null
   },
   {
     "ID": "3463333",
@@ -51083,9 +46643,7 @@ window.QUALIDADE_MUDA_DATA = [
     "Responsável": "GLEISON FELIPE BORGES DE MATOS",
     "Qualidade da Muda": "BOM",
     "Observações": null,
-    "Fazenda": null,
-    "Observações ": null,
-    "Unnamed: 19": null
+    "Fazenda": null
   },
   {
     "ID": "3463327",
@@ -51106,9 +46664,7 @@ window.QUALIDADE_MUDA_DATA = [
     "Responsável": "GLEISON FELIPE BORGES DE MATOS",
     "Qualidade da Muda": "BOM",
     "Observações": null,
-    "Fazenda": null,
-    "Observações ": null,
-    "Unnamed: 19": null
+    "Fazenda": null
   },
   {
     "ID": "3461785",
@@ -51129,9 +46685,7 @@ window.QUALIDADE_MUDA_DATA = [
     "Responsável": "VITOR AMORIM RAMOS ",
     "Qualidade da Muda": "BOM",
     "Observações": null,
-    "Fazenda": null,
-    "Observações ": null,
-    "Unnamed: 19": null
+    "Fazenda": null
   },
   {
     "ID": "3461773",
@@ -51152,9 +46706,7 @@ window.QUALIDADE_MUDA_DATA = [
     "Responsável": "VITOR AMORIM RAMOS ",
     "Qualidade da Muda": "BOM",
     "Observações": null,
-    "Fazenda": null,
-    "Observações ": null,
-    "Unnamed: 19": null
+    "Fazenda": null
   },
   {
     "ID": "3461770",
@@ -51175,9 +46727,7 @@ window.QUALIDADE_MUDA_DATA = [
     "Responsável": "VITOR AMORIM RAMOS ",
     "Qualidade da Muda": "BOM",
     "Observações": null,
-    "Fazenda": null,
-    "Observações ": null,
-    "Unnamed: 19": null
+    "Fazenda": null
   },
   {
     "ID": "3461635",
@@ -51198,9 +46748,7 @@ window.QUALIDADE_MUDA_DATA = [
     "Responsável": "278400 - Vitor Amorim Ramos ",
     "Qualidade da Muda": "BOM",
     "Observações": null,
-    "Fazenda": null,
-    "Observações ": null,
-    "Unnamed: 19": null
+    "Fazenda": null
   },
   {
     "ID": "3461628",
@@ -51221,9 +46769,7 @@ window.QUALIDADE_MUDA_DATA = [
     "Responsável": "278400 - Vitor Amorim Ramos ",
     "Qualidade da Muda": "BOM",
     "Observações": null,
-    "Fazenda": null,
-    "Observações ": null,
-    "Unnamed: 19": null
+    "Fazenda": null
   },
   {
     "ID": "3461614",
@@ -51244,9 +46790,7 @@ window.QUALIDADE_MUDA_DATA = [
     "Responsável": "278400 - Vitor Amorim Ramos ",
     "Qualidade da Muda": "BOM",
     "Observações": null,
-    "Fazenda": null,
-    "Observações ": null,
-    "Unnamed: 19": null
+    "Fazenda": null
   },
   {
     "ID": "3461601",
@@ -51267,9 +46811,7 @@ window.QUALIDADE_MUDA_DATA = [
     "Responsável": "278400 - Vitor Amorim Ramos ",
     "Qualidade da Muda": "BOM",
     "Observações": null,
-    "Fazenda": null,
-    "Observações ": null,
-    "Unnamed: 19": null
+    "Fazenda": null
   },
   {
     "ID": "3461596",
@@ -51290,9 +46832,7 @@ window.QUALIDADE_MUDA_DATA = [
     "Responsável": "278400 - Vitor Amorim Ramos ",
     "Qualidade da Muda": "BOM",
     "Observações": null,
-    "Fazenda": null,
-    "Observações ": null,
-    "Unnamed: 19": null
+    "Fazenda": null
   },
   {
     "ID": "3461588",
@@ -51313,9 +46853,7 @@ window.QUALIDADE_MUDA_DATA = [
     "Responsável": "278400 - Vitor Amorim Ramos ",
     "Qualidade da Muda": "BOM",
     "Observações": null,
-    "Fazenda": null,
-    "Observações ": null,
-    "Unnamed: 19": null
+    "Fazenda": null
   },
   {
     "ID": "3461587",
@@ -51336,9 +46874,7 @@ window.QUALIDADE_MUDA_DATA = [
     "Responsável": "278400 - Vitor Amorim Ramos ",
     "Qualidade da Muda": "BOM",
     "Observações": null,
-    "Fazenda": null,
-    "Observações ": null,
-    "Unnamed: 19": null
+    "Fazenda": null
   },
   {
     "ID": "3461583",
@@ -51359,9 +46895,7 @@ window.QUALIDADE_MUDA_DATA = [
     "Responsável": "278400 - Vitor Amorim Ramos ",
     "Qualidade da Muda": "BOM",
     "Observações": null,
-    "Fazenda": null,
-    "Observações ": null,
-    "Unnamed: 19": null
+    "Fazenda": null
   },
   {
     "ID": "3455031",
@@ -51382,9 +46916,7 @@ window.QUALIDADE_MUDA_DATA = [
     "Responsável": "VITOR AMORIM RAMOS ",
     "Qualidade da Muda": "BOM",
     "Observações": null,
-    "Fazenda": null,
-    "Observações ": null,
-    "Unnamed: 19": null
+    "Fazenda": null
   },
   {
     "ID": "3455026",
@@ -51405,9 +46937,7 @@ window.QUALIDADE_MUDA_DATA = [
     "Responsável": "VITOR AMORIM RAMOS ",
     "Qualidade da Muda": "BOM",
     "Observações": null,
-    "Fazenda": null,
-    "Observações ": null,
-    "Unnamed: 19": null
+    "Fazenda": null
   },
   {
     "ID": "3455021",
@@ -51428,9 +46958,7 @@ window.QUALIDADE_MUDA_DATA = [
     "Responsável": "VITOR AMORIM RAMOS ",
     "Qualidade da Muda": "BOM",
     "Observações": null,
-    "Fazenda": null,
-    "Observações ": null,
-    "Unnamed: 19": null
+    "Fazenda": null
   },
   {
     "ID": "3454933",
@@ -51451,9 +46979,7 @@ window.QUALIDADE_MUDA_DATA = [
     "Responsável": "FERNANDA DE SOUZA ",
     "Qualidade da Muda": "BOM",
     "Observações": null,
-    "Fazenda": null,
-    "Observações ": null,
-    "Unnamed: 19": null
+    "Fazenda": null
   },
   {
     "ID": "3455016",
@@ -51474,9 +47000,7 @@ window.QUALIDADE_MUDA_DATA = [
     "Responsável": "VITOR AMORIM RAMOS ",
     "Qualidade da Muda": "BOM",
     "Observações": null,
-    "Fazenda": null,
-    "Observações ": null,
-    "Unnamed: 19": null
+    "Fazenda": null
   },
   {
     "ID": "3455011",
@@ -51497,9 +47021,7 @@ window.QUALIDADE_MUDA_DATA = [
     "Responsável": "VITOR AMORIM RAMOS ",
     "Qualidade da Muda": "BOM",
     "Observações": null,
-    "Fazenda": null,
-    "Observações ": null,
-    "Unnamed: 19": null
+    "Fazenda": null
   },
   {
     "ID": "3454889",
@@ -51520,9 +47042,7 @@ window.QUALIDADE_MUDA_DATA = [
     "Responsável": "GABRIEL HENRIQUE MARTINS PEREIRA",
     "Qualidade da Muda": "BOM",
     "Observações": null,
-    "Fazenda": null,
-    "Observações ": null,
-    "Unnamed: 19": null
+    "Fazenda": null
   },
   {
     "ID": "3455002",
@@ -51543,9 +47063,7 @@ window.QUALIDADE_MUDA_DATA = [
     "Responsável": "VITOR AMORIM RAMOS ",
     "Qualidade da Muda": "BOM",
     "Observações": null,
-    "Fazenda": null,
-    "Observações ": null,
-    "Unnamed: 19": null
+    "Fazenda": null
   },
   {
     "ID": "3454925",
@@ -51566,9 +47084,7 @@ window.QUALIDADE_MUDA_DATA = [
     "Responsável": "FERNANDA DE SOUZA ",
     "Qualidade da Muda": "BOM",
     "Observações": null,
-    "Fazenda": null,
-    "Observações ": null,
-    "Unnamed: 19": null
+    "Fazenda": null
   },
   {
     "ID": "3454922",
@@ -51589,9 +47105,7 @@ window.QUALIDADE_MUDA_DATA = [
     "Responsável": "FERNANDA DE SOUZA ",
     "Qualidade da Muda": "BOM",
     "Observações": null,
-    "Fazenda": null,
-    "Observações ": null,
-    "Unnamed: 19": null
+    "Fazenda": null
   },
   {
     "ID": "3454884",
@@ -51612,9 +47126,7 @@ window.QUALIDADE_MUDA_DATA = [
     "Responsável": "GABRIEL HENRIQUE MARTINS PEREIRA",
     "Qualidade da Muda": "BOM",
     "Observações": null,
-    "Fazenda": null,
-    "Observações ": null,
-    "Unnamed: 19": null
+    "Fazenda": null
   },
   {
     "ID": "3454872",
@@ -51635,9 +47147,7 @@ window.QUALIDADE_MUDA_DATA = [
     "Responsável": "GABRIEL HENRIQUE MARTINS PEREIRA",
     "Qualidade da Muda": "BOM",
     "Observações": null,
-    "Fazenda": null,
-    "Observações ": null,
-    "Unnamed: 19": null
+    "Fazenda": null
   },
   {
     "ID": "3454867",
@@ -51658,9 +47168,7 @@ window.QUALIDADE_MUDA_DATA = [
     "Responsável": "GABRIEL HENRIQUE MARTINS PEREIRA",
     "Qualidade da Muda": "BOM",
     "Observações": null,
-    "Fazenda": null,
-    "Observações ": null,
-    "Unnamed: 19": null
+    "Fazenda": null
   },
   {
     "ID": "3454273",
@@ -51681,9 +47189,7 @@ window.QUALIDADE_MUDA_DATA = [
     "Responsável": "NILDA CLAUDINO [2510716]",
     "Qualidade da Muda": "BOM",
     "Observações": null,
-    "Fazenda": null,
-    "Observações ": null,
-    "Unnamed: 19": null
+    "Fazenda": null
   },
   {
     "ID": "3454268",
@@ -51704,9 +47210,7 @@ window.QUALIDADE_MUDA_DATA = [
     "Responsável": "NILDA CLAUDINO [2510716]",
     "Qualidade da Muda": "BOM",
     "Observações": null,
-    "Fazenda": null,
-    "Observações ": null,
-    "Unnamed: 19": null
+    "Fazenda": null
   },
   {
     "ID": "3454226",
@@ -51727,9 +47231,7 @@ window.QUALIDADE_MUDA_DATA = [
     "Responsável": "GLEISON FELIPE BORGES DE MATOS",
     "Qualidade da Muda": "BOM",
     "Observações": null,
-    "Fazenda": null,
-    "Observações ": null,
-    "Unnamed: 19": null
+    "Fazenda": null
   },
   {
     "ID": "3454222",
@@ -51750,9 +47252,7 @@ window.QUALIDADE_MUDA_DATA = [
     "Responsável": "GLEISON FELIPE BORGES DE MATOS",
     "Qualidade da Muda": "BOM",
     "Observações": null,
-    "Fazenda": null,
-    "Observações ": null,
-    "Unnamed: 19": null
+    "Fazenda": null
   },
   {
     "ID": "3454218",
@@ -51773,9 +47273,7 @@ window.QUALIDADE_MUDA_DATA = [
     "Responsável": "GLEISON FELIPE BORGES DE MATOS",
     "Qualidade da Muda": "BOM",
     "Observações": null,
-    "Fazenda": null,
-    "Observações ": null,
-    "Unnamed: 19": null
+    "Fazenda": null
   },
   {
     "ID": "3454256",
@@ -51796,9 +47294,7 @@ window.QUALIDADE_MUDA_DATA = [
     "Responsável": "NILDA CLAUDINO [2510716]",
     "Qualidade da Muda": "BOM",
     "Observações": null,
-    "Fazenda": null,
-    "Observações ": null,
-    "Unnamed: 19": null
+    "Fazenda": null
   },
   {
     "ID": "3454252",
@@ -51819,9 +47315,7 @@ window.QUALIDADE_MUDA_DATA = [
     "Responsável": "NILDA CLAUDINO [2510716]",
     "Qualidade da Muda": "BOM",
     "Observações": null,
-    "Fazenda": null,
-    "Observações ": null,
-    "Unnamed: 19": null
+    "Fazenda": null
   },
   {
     "ID": "3449579",
@@ -51842,9 +47336,7 @@ window.QUALIDADE_MUDA_DATA = [
     "Responsável": "NILDA CLAUDINO [2510716]",
     "Qualidade da Muda": "BOM",
     "Observações": null,
-    "Fazenda": null,
-    "Observações ": null,
-    "Unnamed: 19": null
+    "Fazenda": null
   },
   {
     "ID": "3449761",
@@ -51865,9 +47357,7 @@ window.QUALIDADE_MUDA_DATA = [
     "Responsável": "268680 - GABRIEL HENRIQUE MARTINS PEREIRA ",
     "Qualidade da Muda": "BOM",
     "Observações": null,
-    "Fazenda": null,
-    "Observações ": null,
-    "Unnamed: 19": null
+    "Fazenda": null
   },
   {
     "ID": "3449757",
@@ -51888,9 +47378,7 @@ window.QUALIDADE_MUDA_DATA = [
     "Responsável": "268680 - GABRIEL HENRIQUE MARTINS PEREIRA ",
     "Qualidade da Muda": "BOM",
     "Observações": null,
-    "Fazenda": null,
-    "Observações ": null,
-    "Unnamed: 19": null
+    "Fazenda": null
   },
   {
     "ID": "3449751",
@@ -51911,9 +47399,7 @@ window.QUALIDADE_MUDA_DATA = [
     "Responsável": "268680 - GABRIEL HENRIQUE MARTINS PEREIRA ",
     "Qualidade da Muda": "BOM",
     "Observações": null,
-    "Fazenda": null,
-    "Observações ": null,
-    "Unnamed: 19": null
+    "Fazenda": null
   },
   {
     "ID": "3449746",
@@ -51934,9 +47420,7 @@ window.QUALIDADE_MUDA_DATA = [
     "Responsável": "268680 - GABRIEL HENRIQUE MARTINS PEREIRA ",
     "Qualidade da Muda": "BOM",
     "Observações": null,
-    "Fazenda": null,
-    "Observações ": null,
-    "Unnamed: 19": null
+    "Fazenda": null
   },
   {
     "ID": "3447521",
@@ -51957,9 +47441,7 @@ window.QUALIDADE_MUDA_DATA = [
     "Responsável": "NILDA CLAUDINO [2510716]",
     "Qualidade da Muda": "BOM",
     "Observações": null,
-    "Fazenda": null,
-    "Observações ": null,
-    "Unnamed: 19": null
+    "Fazenda": null
   },
   {
     "ID": "3447505",
@@ -51980,9 +47462,7 @@ window.QUALIDADE_MUDA_DATA = [
     "Responsável": "NILDA CLAUDINO [2510716]",
     "Qualidade da Muda": "BOM",
     "Observações": null,
-    "Fazenda": null,
-    "Observações ": null,
-    "Unnamed: 19": null
+    "Fazenda": null
   },
   {
     "ID": "3449677",
@@ -52003,9 +47483,7 @@ window.QUALIDADE_MUDA_DATA = [
     "Responsável": "REGINALDO DA SILVA GOMES ",
     "Qualidade da Muda": "BOM",
     "Observações": null,
-    "Fazenda": null,
-    "Observações ": null,
-    "Unnamed: 19": null
+    "Fazenda": null
   },
   {
     "ID": "3447500",
@@ -52026,9 +47504,7 @@ window.QUALIDADE_MUDA_DATA = [
     "Responsável": "NILDA CLAUDINO [2510716]",
     "Qualidade da Muda": "BOM",
     "Observações": null,
-    "Fazenda": null,
-    "Observações ": null,
-    "Unnamed: 19": null
+    "Fazenda": null
   },
   {
     "ID": "3449671",
@@ -52049,9 +47525,7 @@ window.QUALIDADE_MUDA_DATA = [
     "Responsável": "REGINALDO DA SILVA GOMES ",
     "Qualidade da Muda": "BOM",
     "Observações": null,
-    "Fazenda": null,
-    "Observações ": null,
-    "Unnamed: 19": null
+    "Fazenda": null
   },
   {
     "ID": "3449691",
@@ -52072,9 +47546,7 @@ window.QUALIDADE_MUDA_DATA = [
     "Responsável": "REGINALDO DA SILVA GOMES ",
     "Qualidade da Muda": "BOM",
     "Observações": null,
-    "Fazenda": null,
-    "Observações ": null,
-    "Unnamed: 19": null
+    "Fazenda": null
   },
   {
     "ID": "3447496",
@@ -52095,9 +47567,7 @@ window.QUALIDADE_MUDA_DATA = [
     "Responsável": "NILDA CLAUDINO [2510716]",
     "Qualidade da Muda": "BOM",
     "Observações": null,
-    "Fazenda": null,
-    "Observações ": null,
-    "Unnamed: 19": null
+    "Fazenda": null
   },
   {
     "ID": "3445797",
@@ -52118,9 +47588,7 @@ window.QUALIDADE_MUDA_DATA = [
     "Responsável": "NILDA CLAUDINO [2510716]",
     "Qualidade da Muda": "BOM",
     "Observações": null,
-    "Fazenda": null,
-    "Observações ": null,
-    "Unnamed: 19": null
+    "Fazenda": null
   },
   {
     "ID": "3445680",
@@ -52141,9 +47609,7 @@ window.QUALIDADE_MUDA_DATA = [
     "Responsável": "GLEISON FELIPE BORGES DE MATOS",
     "Qualidade da Muda": "BOM",
     "Observações": null,
-    "Fazenda": null,
-    "Observações ": null,
-    "Unnamed: 19": null
+    "Fazenda": null
   },
   {
     "ID": "3445791",
@@ -52164,9 +47630,7 @@ window.QUALIDADE_MUDA_DATA = [
     "Responsável": "NILDA CLAUDINO [2510716]",
     "Qualidade da Muda": "BOM",
     "Observações": null,
-    "Fazenda": null,
-    "Observações ": null,
-    "Unnamed: 19": null
+    "Fazenda": null
   },
   {
     "ID": "3445785",
@@ -52187,9 +47651,7 @@ window.QUALIDADE_MUDA_DATA = [
     "Responsável": "NILDA CLAUDINO [2510716]",
     "Qualidade da Muda": "BOM",
     "Observações": null,
-    "Fazenda": null,
-    "Observações ": null,
-    "Unnamed: 19": null
+    "Fazenda": null
   },
   {
     "ID": "3445781",
@@ -52210,9 +47672,7 @@ window.QUALIDADE_MUDA_DATA = [
     "Responsável": "NILDA CLAUDINO [2510716]",
     "Qualidade da Muda": "BOM",
     "Observações": null,
-    "Fazenda": null,
-    "Observações ": null,
-    "Unnamed: 19": null
+    "Fazenda": null
   },
   {
     "ID": "3445566",
@@ -52233,9 +47693,7 @@ window.QUALIDADE_MUDA_DATA = [
     "Responsável": "FERNANDA DE SOUZA ",
     "Qualidade da Muda": "BOM",
     "Observações": null,
-    "Fazenda": null,
-    "Observações ": null,
-    "Unnamed: 19": null
+    "Fazenda": null
   },
   {
     "ID": "3445562",
@@ -52256,9 +47714,7 @@ window.QUALIDADE_MUDA_DATA = [
     "Responsável": "FERNANDA DE SOUZA ",
     "Qualidade da Muda": "BOM",
     "Observações": null,
-    "Fazenda": null,
-    "Observações ": null,
-    "Unnamed: 19": null
+    "Fazenda": null
   },
   {
     "ID": "3443859",
@@ -52279,9 +47735,7 @@ window.QUALIDADE_MUDA_DATA = [
     "Responsável": "FERNANDA DE SOUZA ",
     "Qualidade da Muda": "BOM",
     "Observações": null,
-    "Fazenda": null,
-    "Observações ": null,
-    "Unnamed: 19": null
+    "Fazenda": null
   },
   {
     "ID": "3433567",
@@ -52302,9 +47756,7 @@ window.QUALIDADE_MUDA_DATA = [
     "Responsável": "NILDA CLAUDINO [2510716]",
     "Qualidade da Muda": "BOM",
     "Observações": null,
-    "Fazenda": null,
-    "Observações ": null,
-    "Unnamed: 19": null
+    "Fazenda": null
   },
   {
     "ID": "3433382",
@@ -52325,9 +47777,7 @@ window.QUALIDADE_MUDA_DATA = [
     "Responsável": "278400 - Vitor Amorim Ramos ",
     "Qualidade da Muda": "BOM",
     "Observações": null,
-    "Fazenda": null,
-    "Observações ": null,
-    "Unnamed: 19": null
+    "Fazenda": null
   },
   {
     "ID": "3433702",
@@ -52348,9 +47798,7 @@ window.QUALIDADE_MUDA_DATA = [
     "Responsável": "FERNANDA DE SOUZA [127577]",
     "Qualidade da Muda": "BOM",
     "Observações": null,
-    "Fazenda": null,
-    "Observações ": null,
-    "Unnamed: 19": null
+    "Fazenda": null
   },
   {
     "ID": "3433633",
@@ -52371,9 +47819,7 @@ window.QUALIDADE_MUDA_DATA = [
     "Responsável": "268680 - GABRIEL HENRIQUE MARTINS PEREIRA ",
     "Qualidade da Muda": "BOM",
     "Observações": null,
-    "Fazenda": null,
-    "Observações ": null,
-    "Unnamed: 19": null
+    "Fazenda": null
   },
   {
     "ID": "3433751",
@@ -52394,9 +47840,7 @@ window.QUALIDADE_MUDA_DATA = [
     "Responsável": "REGINALDO DA SILVA GOMES [249300]",
     "Qualidade da Muda": "BOM",
     "Observações": null,
-    "Fazenda": null,
-    "Observações ": null,
-    "Unnamed: 19": null
+    "Fazenda": null
   },
   {
     "ID": "3433708",
@@ -52417,9 +47861,7 @@ window.QUALIDADE_MUDA_DATA = [
     "Responsável": "FERNANDA DE SOUZA [127577]",
     "Qualidade da Muda": "BOM",
     "Observações": null,
-    "Fazenda": null,
-    "Observações ": null,
-    "Unnamed: 19": null
+    "Fazenda": null
   },
   {
     "ID": "3433651",
@@ -52440,9 +47882,7 @@ window.QUALIDADE_MUDA_DATA = [
     "Responsável": "268680 - GABRIEL HENRIQUE MARTINS PEREIRA ",
     "Qualidade da Muda": "BOM",
     "Observações": null,
-    "Fazenda": null,
-    "Observações ": null,
-    "Unnamed: 19": null
+    "Fazenda": null
   },
   {
     "ID": "3433656",
@@ -52463,9 +47903,7 @@ window.QUALIDADE_MUDA_DATA = [
     "Responsável": "268680 - GABRIEL HENRIQUE MARTINS PEREIRA ",
     "Qualidade da Muda": "BOM",
     "Observações": null,
-    "Fazenda": null,
-    "Observações ": null,
-    "Unnamed: 19": null
+    "Fazenda": null
   },
   {
     "ID": "3433582",
@@ -52486,9 +47924,7 @@ window.QUALIDADE_MUDA_DATA = [
     "Responsável": "NILDA CLAUDINO [2510716]",
     "Qualidade da Muda": "BOM",
     "Observações": null,
-    "Fazenda": null,
-    "Observações ": null,
-    "Unnamed: 19": null
+    "Fazenda": null
   },
   {
     "ID": "3433586",
@@ -52509,9 +47945,7 @@ window.QUALIDADE_MUDA_DATA = [
     "Responsável": "NILDA CLAUDINO [2510716]",
     "Qualidade da Muda": "BOM",
     "Observações": null,
-    "Fazenda": null,
-    "Observações ": null,
-    "Unnamed: 19": null
+    "Fazenda": null
   },
   {
     "ID": "3435350",
@@ -52532,9 +47966,7 @@ window.QUALIDADE_MUDA_DATA = [
     "Responsável": "278400 - Vitor Amorim Ramos ",
     "Qualidade da Muda": "BOM",
     "Observações": null,
-    "Fazenda": null,
-    "Observações ": null,
-    "Unnamed: 19": null
+    "Fazenda": null
   },
   {
     "ID": "3435355",
@@ -52555,9 +47987,7 @@ window.QUALIDADE_MUDA_DATA = [
     "Responsável": "278400 - Vitor Amorim Ramos ",
     "Qualidade da Muda": "BOM",
     "Observações": null,
-    "Fazenda": null,
-    "Observações ": null,
-    "Unnamed: 19": null
+    "Fazenda": null
   },
   {
     "ID": "3435361",
@@ -52578,9 +48008,7 @@ window.QUALIDADE_MUDA_DATA = [
     "Responsável": "278400 - Vitor Amorim Ramos ",
     "Qualidade da Muda": "BOM",
     "Observações": null,
-    "Fazenda": null,
-    "Observações ": null,
-    "Unnamed: 19": null
+    "Fazenda": null
   },
   {
     "ID": "3435373",
@@ -52601,9 +48029,7 @@ window.QUALIDADE_MUDA_DATA = [
     "Responsável": "278400 - Vitor Amorim Ramos ",
     "Qualidade da Muda": "BOM",
     "Observações": null,
-    "Fazenda": null,
-    "Observações ": null,
-    "Unnamed: 19": null
+    "Fazenda": null
   },
   {
     "ID": "3435377",
@@ -52624,9 +48050,7 @@ window.QUALIDADE_MUDA_DATA = [
     "Responsável": "278400 - Vitor Amorim Ramos ",
     "Qualidade da Muda": "BOM",
     "Observações": null,
-    "Fazenda": null,
-    "Observações ": null,
-    "Unnamed: 19": null
+    "Fazenda": null
   },
   {
     "ID": "3435382",
@@ -52647,9 +48071,7 @@ window.QUALIDADE_MUDA_DATA = [
     "Responsável": "278400 - Vitor Amorim Ramos ",
     "Qualidade da Muda": "BOM",
     "Observações": null,
-    "Fazenda": null,
-    "Observações ": null,
-    "Unnamed: 19": null
+    "Fazenda": null
   },
   {
     "ID": "3435387",
@@ -52670,9 +48092,7 @@ window.QUALIDADE_MUDA_DATA = [
     "Responsável": "278400 - Vitor Amorim Ramos ",
     "Qualidade da Muda": "BOM",
     "Observações": null,
-    "Fazenda": null,
-    "Observações ": null,
-    "Unnamed: 19": null
+    "Fazenda": null
   },
   {
     "ID": "3435441",
@@ -52693,9 +48113,7 @@ window.QUALIDADE_MUDA_DATA = [
     "Responsável": "NILDA CLAUDINO [2510716]",
     "Qualidade da Muda": "BOM",
     "Observações": null,
-    "Fazenda": null,
-    "Observações ": null,
-    "Unnamed: 19": null
+    "Fazenda": null
   },
   {
     "ID": "3435282",
@@ -52716,9 +48134,7 @@ window.QUALIDADE_MUDA_DATA = [
     "Responsável": "FERNANDA DE SOUZA [127577]",
     "Qualidade da Muda": "BOM",
     "Observações": null,
-    "Fazenda": null,
-    "Observações ": null,
-    "Unnamed: 19": null
+    "Fazenda": null
   },
   {
     "ID": "3435392",
@@ -52739,9 +48155,7 @@ window.QUALIDADE_MUDA_DATA = [
     "Responsável": "278400 - Vitor Amorim Ramos ",
     "Qualidade da Muda": "BOM",
     "Observações": null,
-    "Fazenda": null,
-    "Observações ": null,
-    "Unnamed: 19": null
+    "Fazenda": null
   },
   {
     "ID": "3435444",
@@ -52762,9 +48176,7 @@ window.QUALIDADE_MUDA_DATA = [
     "Responsável": "NILDA CLAUDINO [2510716]",
     "Qualidade da Muda": "BOM",
     "Observações": null,
-    "Fazenda": null,
-    "Observações ": null,
-    "Unnamed: 19": null
+    "Fazenda": null
   },
   {
     "ID": "3435286",
@@ -52785,9 +48197,7 @@ window.QUALIDADE_MUDA_DATA = [
     "Responsável": "FERNANDA DE SOUZA [127577]",
     "Qualidade da Muda": "BOM",
     "Observações": null,
-    "Fazenda": null,
-    "Observações ": null,
-    "Unnamed: 19": null
+    "Fazenda": null
   },
   {
     "ID": "3435456",
@@ -52808,9 +48218,7 @@ window.QUALIDADE_MUDA_DATA = [
     "Responsável": "NILDA CLAUDINO [2510716]",
     "Qualidade da Muda": "BOM",
     "Observações": null,
-    "Fazenda": null,
-    "Observações ": null,
-    "Unnamed: 19": null
+    "Fazenda": null
   },
   {
     "ID": "3435397",
@@ -52831,9 +48239,7 @@ window.QUALIDADE_MUDA_DATA = [
     "Responsável": "278400 - Vitor Amorim Ramos ",
     "Qualidade da Muda": "BOM",
     "Observações": null,
-    "Fazenda": null,
-    "Observações ": null,
-    "Unnamed: 19": null
+    "Fazenda": null
   },
   {
     "ID": "3435714",
@@ -52854,9 +48260,7 @@ window.QUALIDADE_MUDA_DATA = [
     "Responsável": "268680 - GABRIEL HENRIQUE MARTINS PEREIRA ",
     "Qualidade da Muda": "BOM",
     "Observações": null,
-    "Fazenda": null,
-    "Observações ": null,
-    "Unnamed: 19": null
+    "Fazenda": null
   },
   {
     "ID": "3435759",
@@ -52877,9 +48281,7 @@ window.QUALIDADE_MUDA_DATA = [
     "Responsável": "268680 - GABRIEL HENRIQUE MARTINS PEREIRA ",
     "Qualidade da Muda": "BOM",
     "Observações": null,
-    "Fazenda": null,
-    "Observações ": null,
-    "Unnamed: 19": null
+    "Fazenda": null
   },
   {
     "ID": "3435764",
@@ -52900,9 +48302,7 @@ window.QUALIDADE_MUDA_DATA = [
     "Responsável": "268680 - GABRIEL HENRIQUE MARTINS PEREIRA ",
     "Qualidade da Muda": "BOM",
     "Observações": null,
-    "Fazenda": null,
-    "Observações ": null,
-    "Unnamed: 19": null
+    "Fazenda": null
   },
   {
     "ID": "3435769",
@@ -52923,9 +48323,7 @@ window.QUALIDADE_MUDA_DATA = [
     "Responsável": "268680 - GABRIEL HENRIQUE MARTINS PEREIRA ",
     "Qualidade da Muda": "BOM",
     "Observações": null,
-    "Fazenda": null,
-    "Observações ": null,
-    "Unnamed: 19": null
+    "Fazenda": null
   },
   {
     "ID": "3435774",
@@ -52946,9 +48344,7 @@ window.QUALIDADE_MUDA_DATA = [
     "Responsável": "268680 - GABRIEL HENRIQUE MARTINS PEREIRA ",
     "Qualidade da Muda": "BOM",
     "Observações": null,
-    "Fazenda": null,
-    "Observações ": null,
-    "Unnamed: 19": null
+    "Fazenda": null
   },
   {
     "ID": "3435480",
@@ -52969,9 +48365,7 @@ window.QUALIDADE_MUDA_DATA = [
     "Responsável": "FERNANDA DE SOUZA [127577]",
     "Qualidade da Muda": "BOM",
     "Observações": null,
-    "Fazenda": null,
-    "Observações ": null,
-    "Unnamed: 19": null
+    "Fazenda": null
   },
   {
     "ID": "3435466",
@@ -52992,9 +48386,7 @@ window.QUALIDADE_MUDA_DATA = [
     "Responsável": "NILDA CLAUDINO [2510716]",
     "Qualidade da Muda": "BOM",
     "Observações": null,
-    "Fazenda": null,
-    "Observações ": null,
-    "Unnamed: 19": null
+    "Fazenda": null
   },
   {
     "ID": "3435674",
@@ -53015,9 +48407,7 @@ window.QUALIDADE_MUDA_DATA = [
     "Responsável": "REGINALDO DA SILVA GOMES [249300]",
     "Qualidade da Muda": "BOM",
     "Observações": null,
-    "Fazenda": null,
-    "Observações ": null,
-    "Unnamed: 19": null
+    "Fazenda": null
   },
   {
     "ID": "3435541",
@@ -53038,9 +48428,7 @@ window.QUALIDADE_MUDA_DATA = [
     "Responsável": "GLEISON FELIPE BORGES DE MATOS [266770]",
     "Qualidade da Muda": "BOM",
     "Observações": null,
-    "Fazenda": null,
-    "Observações ": null,
-    "Unnamed: 19": null
+    "Fazenda": null
   },
   {
     "ID": "3435679",
@@ -53061,9 +48449,7 @@ window.QUALIDADE_MUDA_DATA = [
     "Responsável": "REGINALDO DA SILVA GOMES [249300]",
     "Qualidade da Muda": "BOM",
     "Observações": null,
-    "Fazenda": null,
-    "Observações ": null,
-    "Unnamed: 19": null
+    "Fazenda": null
   },
   {
     "ID": "3435542",
@@ -53084,9 +48470,7 @@ window.QUALIDADE_MUDA_DATA = [
     "Responsável": "GLEISON FELIPE BORGES DE MATOS [266770]",
     "Qualidade da Muda": "BOM",
     "Observações": null,
-    "Fazenda": null,
-    "Observações ": null,
-    "Unnamed: 19": null
+    "Fazenda": null
   },
   {
     "ID": "3435685",
@@ -53107,9 +48491,7 @@ window.QUALIDADE_MUDA_DATA = [
     "Responsável": "REGINALDO DA SILVA GOMES [249300]",
     "Qualidade da Muda": "BOM",
     "Observações": null,
-    "Fazenda": null,
-    "Observações ": null,
-    "Unnamed: 19": null
+    "Fazenda": null
   },
   {
     "ID": "3435520",
@@ -53130,9 +48512,7 @@ window.QUALIDADE_MUDA_DATA = [
     "Responsável": "GLEISON FELIPE BORGES DE MATOS [266770]",
     "Qualidade da Muda": "BOM",
     "Observações": null,
-    "Fazenda": null,
-    "Observações ": null,
-    "Unnamed: 19": null
+    "Fazenda": null
   },
   {
     "ID": "3437724",
@@ -53153,9 +48533,7 @@ window.QUALIDADE_MUDA_DATA = [
     "Responsável": "GLEISON FELIPE BORGES DE MATOS [266770]",
     "Qualidade da Muda": "BOM",
     "Observações": null,
-    "Fazenda": null,
-    "Observações ": null,
-    "Unnamed: 19": null
+    "Fazenda": null
   },
   {
     "ID": "3437729",
@@ -53176,9 +48554,7 @@ window.QUALIDADE_MUDA_DATA = [
     "Responsável": "GLEISON FELIPE BORGES DE MATOS [266770]",
     "Qualidade da Muda": "BOM",
     "Observações": null,
-    "Fazenda": null,
-    "Observações ": null,
-    "Unnamed: 19": null
+    "Fazenda": null
   },
   {
     "ID": "3437733",
@@ -53199,9 +48575,7 @@ window.QUALIDADE_MUDA_DATA = [
     "Responsável": "GLEISON FELIPE BORGES DE MATOS [266770]",
     "Qualidade da Muda": "BOM",
     "Observações": null,
-    "Fazenda": null,
-    "Observações ": null,
-    "Unnamed: 19": null
+    "Fazenda": null
   },
   {
     "ID": "3437741",
@@ -53222,9 +48596,7 @@ window.QUALIDADE_MUDA_DATA = [
     "Responsável": "GLEISON FELIPE BORGES DE MATOS [266770]",
     "Qualidade da Muda": "BOM",
     "Observações": null,
-    "Fazenda": null,
-    "Observações ": null,
-    "Unnamed: 19": null
+    "Fazenda": null
   },
   {
     "ID": "3437743",
@@ -53245,9 +48617,7 @@ window.QUALIDADE_MUDA_DATA = [
     "Responsável": "GLEISON FELIPE BORGES DE MATOS [266770]",
     "Qualidade da Muda": "BOM",
     "Observações": null,
-    "Fazenda": null,
-    "Observações ": null,
-    "Unnamed: 19": null
+    "Fazenda": null
   },
   {
     "ID": "3433472",
@@ -53268,9 +48638,7 @@ window.QUALIDADE_MUDA_DATA = [
     "Responsável": "MICHELI DE SOUZA SANTOS  ",
     "Qualidade da Muda": "BOM",
     "Observações": null,
-    "Fazenda": null,
-    "Observações ": null,
-    "Unnamed: 19": null
+    "Fazenda": null
   },
   {
     "ID": "3433769",
@@ -53291,9 +48659,7 @@ window.QUALIDADE_MUDA_DATA = [
     "Responsável": "MICHELI DE SOUZA SANTOS  ",
     "Qualidade da Muda": "BOM",
     "Observações": null,
-    "Fazenda": null,
-    "Observações ": null,
-    "Unnamed: 19": null
+    "Fazenda": null
   },
   {
     "ID": "3433423",
@@ -53314,9 +48680,7 @@ window.QUALIDADE_MUDA_DATA = [
     "Responsável": "GLEISON FELIPE BORGES DE MATOS [266770]",
     "Qualidade da Muda": "BOM",
     "Observações": null,
-    "Fazenda": null,
-    "Observações ": null,
-    "Unnamed: 19": null
+    "Fazenda": null
   },
   {
     "ID": "3433419",
@@ -53337,9 +48701,7 @@ window.QUALIDADE_MUDA_DATA = [
     "Responsável": "GLEISON FELIPE BORGES DE MATOS [266770]",
     "Qualidade da Muda": "BOM",
     "Observações": null,
-    "Fazenda": null,
-    "Observações ": null,
-    "Unnamed: 19": null
+    "Fazenda": null
   },
   {
     "ID": "3443458",
@@ -53360,9 +48722,7 @@ window.QUALIDADE_MUDA_DATA = [
     "Responsável": "FERNANDA DE SOUZA [127577]",
     "Qualidade da Muda": "BOM",
     "Observações": null,
-    "Fazenda": null,
-    "Observações ": null,
-    "Unnamed: 19": null
+    "Fazenda": null
   },
   {
     "ID": "3443462",
@@ -53383,9 +48743,7 @@ window.QUALIDADE_MUDA_DATA = [
     "Responsável": "FERNANDA DE SOUZA [127577]",
     "Qualidade da Muda": "BOM",
     "Observações": null,
-    "Fazenda": null,
-    "Observações ": null,
-    "Unnamed: 19": null
+    "Fazenda": null
   },
   {
     "ID": "3443439",
@@ -53406,9 +48764,7 @@ window.QUALIDADE_MUDA_DATA = [
     "Responsável": "REGINALDO DA SILVA GOMES [249300]",
     "Qualidade da Muda": "BOM",
     "Observações": null,
-    "Fazenda": null,
-    "Observações ": null,
-    "Unnamed: 19": null
+    "Fazenda": null
   },
   {
     "ID": "3443320",
@@ -53429,9 +48785,7 @@ window.QUALIDADE_MUDA_DATA = [
     "Responsável": "GLEISON FELIPE BORGES DE MATOS [266770]",
     "Qualidade da Muda": "BOM",
     "Observações": null,
-    "Fazenda": null,
-    "Observações ": null,
-    "Unnamed: 19": null
+    "Fazenda": null
   },
   {
     "ID": "3433747",
@@ -53452,9 +48806,7 @@ window.QUALIDADE_MUDA_DATA = [
     "Responsável": "REGINALDO DA SILVA GOMES [249300]",
     "Qualidade da Muda": "BOM",
     "Observações": null,
-    "Fazenda": null,
-    "Observações ": null,
-    "Unnamed: 19": null
+    "Fazenda": null
   },
   {
     "ID": "3433378",
@@ -53475,9 +48827,7 @@ window.QUALIDADE_MUDA_DATA = [
     "Responsável": "278400 - Vitor Amorim Ramos ",
     "Qualidade da Muda": "BOM",
     "Observações": null,
-    "Fazenda": null,
-    "Observações ": null,
-    "Unnamed: 19": null
+    "Fazenda": null
   },
   {
     "ID": "3433563",
@@ -53498,9 +48848,7 @@ window.QUALIDADE_MUDA_DATA = [
     "Responsável": "NILDA CLAUDINO [2510716]",
     "Qualidade da Muda": "BOM",
     "Observações": null,
-    "Fazenda": null,
-    "Observações ": null,
-    "Unnamed: 19": null
+    "Fazenda": null
   },
   {
     "ID": "3433743",
@@ -53521,9 +48869,7 @@ window.QUALIDADE_MUDA_DATA = [
     "Responsável": "REGINALDO DA SILVA GOMES [249300]",
     "Qualidade da Muda": "BOM",
     "Observações": null,
-    "Fazenda": null,
-    "Observações ": null,
-    "Unnamed: 19": null
+    "Fazenda": null
   },
   {
     "ID": "3433624",
@@ -53544,9 +48890,7 @@ window.QUALIDADE_MUDA_DATA = [
     "Responsável": "268680 - GABRIEL HENRIQUE MARTINS PEREIRA ",
     "Qualidade da Muda": "BOM",
     "Observações": null,
-    "Fazenda": null,
-    "Observações ": null,
-    "Unnamed: 19": null
+    "Fazenda": null
   },
   {
     "ID": "3433416",
@@ -53567,9 +48911,7 @@ window.QUALIDADE_MUDA_DATA = [
     "Responsável": "GLEISON FELIPE BORGES DE MATOS [266770]",
     "Qualidade da Muda": "BOM",
     "Observações": null,
-    "Fazenda": null,
-    "Observações ": null,
-    "Unnamed: 19": null
+    "Fazenda": null
   },
   {
     "ID": "3433367",
@@ -53590,9 +48932,7 @@ window.QUALIDADE_MUDA_DATA = [
     "Responsável": "278400 - Vitor Amorim Ramos ",
     "Qualidade da Muda": "BOM",
     "Observações": null,
-    "Fazenda": null,
-    "Observações ": null,
-    "Unnamed: 19": null
+    "Fazenda": null
   },
   {
     "ID": "3433559",
@@ -53613,9 +48953,7 @@ window.QUALIDADE_MUDA_DATA = [
     "Responsável": "NILDA CLAUDINO [2510716]",
     "Qualidade da Muda": "BOM",
     "Observações": null,
-    "Fazenda": null,
-    "Observações ": null,
-    "Unnamed: 19": null
+    "Fazenda": null
   },
   {
     "ID": "3433737",
@@ -53636,9 +48974,7 @@ window.QUALIDADE_MUDA_DATA = [
     "Responsável": "REGINALDO DA SILVA GOMES [249300]",
     "Qualidade da Muda": "BOM",
     "Observações": null,
-    "Fazenda": null,
-    "Observações ": null,
-    "Unnamed: 19": null
+    "Fazenda": null
   },
   {
     "ID": "3433363",
@@ -53659,9 +48995,7 @@ window.QUALIDADE_MUDA_DATA = [
     "Responsável": "278400 - Vitor Amorim Ramos ",
     "Qualidade da Muda": "BOM",
     "Observações": null,
-    "Fazenda": null,
-    "Observações ": null,
-    "Unnamed: 19": null
+    "Fazenda": null
   },
   {
     "ID": "3433410",
@@ -53682,9 +49016,7 @@ window.QUALIDADE_MUDA_DATA = [
     "Responsável": "GLEISON FELIPE BORGES DE MATOS [266770]",
     "Qualidade da Muda": "BOM",
     "Observações": null,
-    "Fazenda": null,
-    "Observações ": null,
-    "Unnamed: 19": null
+    "Fazenda": null
   },
   {
     "ID": "3433619",
@@ -53705,9 +49037,7 @@ window.QUALIDADE_MUDA_DATA = [
     "Responsável": "268680 - GABRIEL HENRIQUE MARTINS PEREIRA ",
     "Qualidade da Muda": "BOM",
     "Observações": null,
-    "Fazenda": null,
-    "Observações ": null,
-    "Unnamed: 19": null
+    "Fazenda": null
   },
   {
     "ID": "3433358",
@@ -53728,9 +49058,7 @@ window.QUALIDADE_MUDA_DATA = [
     "Responsável": "278400 - Vitor Amorim Ramos ",
     "Qualidade da Muda": "BOM",
     "Observações": null,
-    "Fazenda": null,
-    "Observações ": null,
-    "Unnamed: 19": null
+    "Fazenda": null
   },
   {
     "ID": "3433614",
@@ -53751,9 +49079,7 @@ window.QUALIDADE_MUDA_DATA = [
     "Responsável": "268680 - GABRIEL HENRIQUE MARTINS PEREIRA ",
     "Qualidade da Muda": "BOM",
     "Observações": null,
-    "Fazenda": null,
-    "Observações ": null,
-    "Unnamed: 19": null
+    "Fazenda": null
   },
   {
     "ID": "3433353",
@@ -53774,9 +49100,7 @@ window.QUALIDADE_MUDA_DATA = [
     "Responsável": "278400 - Vitor Amorim Ramos ",
     "Qualidade da Muda": "BOM",
     "Observações": null,
-    "Fazenda": null,
-    "Observações ": null,
-    "Unnamed: 19": null
+    "Fazenda": null
   },
   {
     "ID": "3433609",
@@ -53797,9 +49121,7 @@ window.QUALIDADE_MUDA_DATA = [
     "Responsável": "268680 - GABRIEL HENRIQUE MARTINS PEREIRA ",
     "Qualidade da Muda": "BOM",
     "Observações": null,
-    "Fazenda": null,
-    "Observações ": null,
-    "Unnamed: 19": null
+    "Fazenda": null
   },
   {
     "ID": "3433336",
@@ -53820,9 +49142,7 @@ window.QUALIDADE_MUDA_DATA = [
     "Responsável": "278400 - Vitor Amorim Ramos ",
     "Qualidade da Muda": "BOM",
     "Observações": null,
-    "Fazenda": null,
-    "Observações ": null,
-    "Unnamed: 19": null
+    "Fazenda": null
   },
   {
     "ID": "3433604",
@@ -53843,9 +49163,7 @@ window.QUALIDADE_MUDA_DATA = [
     "Responsável": "268680 - GABRIEL HENRIQUE MARTINS PEREIRA ",
     "Qualidade da Muda": "BOM",
     "Observações": null,
-    "Fazenda": null,
-    "Observações ": null,
-    "Unnamed: 19": null
+    "Fazenda": null
   },
   {
     "ID": "3433331",
@@ -53866,9 +49184,7 @@ window.QUALIDADE_MUDA_DATA = [
     "Responsável": "278400 - Vitor Amorim Ramos ",
     "Qualidade da Muda": "BOM",
     "Observações": null,
-    "Fazenda": null,
-    "Observações ": null,
-    "Unnamed: 19": null
+    "Fazenda": null
   },
   {
     "ID": "3433599",
@@ -53889,9 +49205,7 @@ window.QUALIDADE_MUDA_DATA = [
     "Responsável": "268680 - GABRIEL HENRIQUE MARTINS PEREIRA ",
     "Qualidade da Muda": "BOM",
     "Observações": null,
-    "Fazenda": null,
-    "Observações ": null,
-    "Unnamed: 19": null
+    "Fazenda": null
   },
   {
     "ID": "3431536",
@@ -53912,9 +49226,7 @@ window.QUALIDADE_MUDA_DATA = [
     "Responsável": "278400 - Vitor Amorim Ramos ",
     "Qualidade da Muda": "BOM",
     "Observações": null,
-    "Fazenda": null,
-    "Observações ": null,
-    "Unnamed: 19": null
+    "Fazenda": null
   },
   {
     "ID": "3431606",
@@ -53935,9 +49247,7 @@ window.QUALIDADE_MUDA_DATA = [
     "Responsável": "GLEISON FELIPE BORGES DE MATOS [266770]",
     "Qualidade da Muda": "BOM",
     "Observações": null,
-    "Fazenda": null,
-    "Observações ": null,
-    "Unnamed: 19": null
+    "Fazenda": null
   },
   {
     "ID": "3431531",
@@ -53958,9 +49268,7 @@ window.QUALIDADE_MUDA_DATA = [
     "Responsável": "278400 - Vitor Amorim Ramos ",
     "Qualidade da Muda": "BOM",
     "Observações": null,
-    "Fazenda": null,
-    "Observações ": null,
-    "Unnamed: 19": null
+    "Fazenda": null
   },
   {
     "ID": "3431603",
@@ -53981,9 +49289,7 @@ window.QUALIDADE_MUDA_DATA = [
     "Responsável": "GLEISON FELIPE BORGES DE MATOS [266770]",
     "Qualidade da Muda": "BOM",
     "Observações": null,
-    "Fazenda": null,
-    "Observações ": null,
-    "Unnamed: 19": null
+    "Fazenda": null
   },
   {
     "ID": "3431526",
@@ -54004,9 +49310,7 @@ window.QUALIDADE_MUDA_DATA = [
     "Responsável": "278400 - Vitor Amorim Ramos ",
     "Qualidade da Muda": "BOM",
     "Observações": null,
-    "Fazenda": null,
-    "Observações ": null,
-    "Unnamed: 19": null
+    "Fazenda": null
   },
   {
     "ID": "3431598",
@@ -54027,9 +49331,7 @@ window.QUALIDADE_MUDA_DATA = [
     "Responsável": "MICHELI DE SOUZA SANTOS  ",
     "Qualidade da Muda": "BOM",
     "Observações": null,
-    "Fazenda": null,
-    "Observações ": null,
-    "Unnamed: 19": null
+    "Fazenda": null
   },
   {
     "ID": "3431511",
@@ -54050,9 +49352,7 @@ window.QUALIDADE_MUDA_DATA = [
     "Responsável": "278400 - Vitor Amorim Ramos ",
     "Qualidade da Muda": "BOM",
     "Observações": null,
-    "Fazenda": null,
-    "Observações ": null,
-    "Unnamed: 19": null
+    "Fazenda": null
   },
   {
     "ID": "3431592",
@@ -54073,9 +49373,7 @@ window.QUALIDADE_MUDA_DATA = [
     "Responsável": "MICHELI DE SOUZA SANTOS  ",
     "Qualidade da Muda": "BOM",
     "Observações": null,
-    "Fazenda": null,
-    "Observações ": null,
-    "Unnamed: 19": null
+    "Fazenda": null
   },
   {
     "ID": "3431167",
@@ -54096,9 +49394,7 @@ window.QUALIDADE_MUDA_DATA = [
     "Responsável": "REGINALDO DA SILVA GOMES [249300]",
     "Qualidade da Muda": "BOM",
     "Observações": null,
-    "Fazenda": null,
-    "Observações ": null,
-    "Unnamed: 19": null
+    "Fazenda": null
   },
   {
     "ID": "3431172",
@@ -54119,9 +49415,7 @@ window.QUALIDADE_MUDA_DATA = [
     "Responsável": "REGINALDO DA SILVA GOMES [249300]",
     "Qualidade da Muda": "BOM",
     "Observações": null,
-    "Fazenda": null,
-    "Observações ": null,
-    "Unnamed: 19": null
+    "Fazenda": null
   },
   {
     "ID": "3431178",
@@ -54142,9 +49436,7 @@ window.QUALIDADE_MUDA_DATA = [
     "Responsável": "REGINALDO DA SILVA GOMES [249300]",
     "Qualidade da Muda": "BOM",
     "Observações": null,
-    "Fazenda": null,
-    "Observações ": null,
-    "Unnamed: 19": null
+    "Fazenda": null
   },
   {
     "ID": "3428844",
@@ -54165,9 +49457,7 @@ window.QUALIDADE_MUDA_DATA = [
     "Responsável": "REGINALDO DA SILVA GOMES [249300]",
     "Qualidade da Muda": "BOM",
     "Observações": null,
-    "Fazenda": null,
-    "Observações ": null,
-    "Unnamed: 19": null
+    "Fazenda": null
   },
   {
     "ID": "3428828",
@@ -54188,9 +49478,7 @@ window.QUALIDADE_MUDA_DATA = [
     "Responsável": "MICHELI DE SOUZA SANTOS  ",
     "Qualidade da Muda": "BOM",
     "Observações": null,
-    "Fazenda": null,
-    "Observações ": null,
-    "Unnamed: 19": null
+    "Fazenda": null
   },
   {
     "ID": "3428839",
@@ -54211,9 +49499,7 @@ window.QUALIDADE_MUDA_DATA = [
     "Responsável": "REGINALDO DA SILVA GOMES [249300]",
     "Qualidade da Muda": "BOM",
     "Observações": null,
-    "Fazenda": null,
-    "Observações ": null,
-    "Unnamed: 19": null
+    "Fazenda": null
   },
   {
     "ID": "3428823",
@@ -54234,9 +49520,7 @@ window.QUALIDADE_MUDA_DATA = [
     "Responsável": "MICHELI DE SOUZA SANTOS  ",
     "Qualidade da Muda": "BOM",
     "Observações": null,
-    "Fazenda": null,
-    "Observações ": null,
-    "Unnamed: 19": null
+    "Fazenda": null
   },
   {
     "ID": "3428834",
@@ -54257,9 +49541,7 @@ window.QUALIDADE_MUDA_DATA = [
     "Responsável": "REGINALDO DA SILVA GOMES [249300]",
     "Qualidade da Muda": "BOM",
     "Observações": null,
-    "Fazenda": null,
-    "Observações ": null,
-    "Unnamed: 19": null
+    "Fazenda": null
   },
   {
     "ID": "3428697",
@@ -54280,9 +49562,7 @@ window.QUALIDADE_MUDA_DATA = [
     "Responsável": "268680 - GABRIEL HENRIQUE MARTINS PEREIRA ",
     "Qualidade da Muda": "BOM",
     "Observações": null,
-    "Fazenda": null,
-    "Observações ": null,
-    "Unnamed: 19": null
+    "Fazenda": null
   },
   {
     "ID": "3428285",
@@ -54303,9 +49583,7 @@ window.QUALIDADE_MUDA_DATA = [
     "Responsável": "MICHELI DE SOUZA SANTOS  ",
     "Qualidade da Muda": "BOM",
     "Observações": null,
-    "Fazenda": null,
-    "Observações ": null,
-    "Unnamed: 19": null
+    "Fazenda": null
   },
   {
     "ID": "3428277",
@@ -54326,9 +49604,7 @@ window.QUALIDADE_MUDA_DATA = [
     "Responsável": "MICHELI DE SOUZA SANTOS  ",
     "Qualidade da Muda": "BOM",
     "Observações": null,
-    "Fazenda": null,
-    "Observações ": null,
-    "Unnamed: 19": null
+    "Fazenda": null
   },
   {
     "ID": "3428693",
@@ -54349,9 +49625,7 @@ window.QUALIDADE_MUDA_DATA = [
     "Responsável": "268680 - GABRIEL HENRIQUE MARTINS PEREIRA ",
     "Qualidade da Muda": "BOM",
     "Observações": null,
-    "Fazenda": null,
-    "Observações ": null,
-    "Unnamed: 19": null
+    "Fazenda": null
   },
   {
     "ID": "3428404",
@@ -54372,9 +49646,7 @@ window.QUALIDADE_MUDA_DATA = [
     "Responsável": "278400 - Vitor Amorim Ramos ",
     "Qualidade da Muda": "BOM",
     "Observações": null,
-    "Fazenda": null,
-    "Observações ": null,
-    "Unnamed: 19": null
+    "Fazenda": null
   },
   {
     "ID": "3428303",
@@ -54395,9 +49667,7 @@ window.QUALIDADE_MUDA_DATA = [
     "Responsável": "REGINALDO DA SILVA GOMES [249300]",
     "Qualidade da Muda": "BOM",
     "Observações": null,
-    "Fazenda": null,
-    "Observações ": null,
-    "Unnamed: 19": null
+    "Fazenda": null
   },
   {
     "ID": "3428271",
@@ -54418,9 +49688,7 @@ window.QUALIDADE_MUDA_DATA = [
     "Responsável": "MICHELI DE SOUZA SANTOS  ",
     "Qualidade da Muda": "BOM",
     "Observações": null,
-    "Fazenda": null,
-    "Observações ": null,
-    "Unnamed: 19": null
+    "Fazenda": null
   },
   {
     "ID": "3428399",
@@ -54441,9 +49709,7 @@ window.QUALIDADE_MUDA_DATA = [
     "Responsável": "278400 - Vitor Amorim Ramos ",
     "Qualidade da Muda": "BOM",
     "Observações": null,
-    "Fazenda": null,
-    "Observações ": null,
-    "Unnamed: 19": null
+    "Fazenda": null
   },
   {
     "ID": "3428298",
@@ -54464,9 +49730,7 @@ window.QUALIDADE_MUDA_DATA = [
     "Responsável": "REGINALDO DA SILVA GOMES [249300]",
     "Qualidade da Muda": "BOM",
     "Observações": null,
-    "Fazenda": null,
-    "Observações ": null,
-    "Unnamed: 19": null
+    "Fazenda": null
   },
   {
     "ID": "3428686",
@@ -54487,9 +49751,7 @@ window.QUALIDADE_MUDA_DATA = [
     "Responsável": "268680 - GABRIEL HENRIQUE MARTINS PEREIRA ",
     "Qualidade da Muda": "BOM",
     "Observações": null,
-    "Fazenda": null,
-    "Observações ": null,
-    "Unnamed: 19": null
+    "Fazenda": null
   },
   {
     "ID": "3428266",
@@ -54510,9 +49772,7 @@ window.QUALIDADE_MUDA_DATA = [
     "Responsável": "MICHELI DE SOUZA SANTOS  ",
     "Qualidade da Muda": "BOM",
     "Observações": null,
-    "Fazenda": null,
-    "Observações ": null,
-    "Unnamed: 19": null
+    "Fazenda": null
   },
   {
     "ID": "3428382",
@@ -54533,9 +49793,7 @@ window.QUALIDADE_MUDA_DATA = [
     "Responsável": "278400 - Vitor Amorim Ramos ",
     "Qualidade da Muda": "BOM",
     "Observações": null,
-    "Fazenda": null,
-    "Observações ": null,
-    "Unnamed: 19": null
+    "Fazenda": null
   },
   {
     "ID": "3428261",
@@ -54556,9 +49814,7 @@ window.QUALIDADE_MUDA_DATA = [
     "Responsável": "MICHELI DE SOUZA SANTOS  ",
     "Qualidade da Muda": "BOM",
     "Observações": null,
-    "Fazenda": null,
-    "Observações ": null,
-    "Unnamed: 19": null
+    "Fazenda": null
   },
   {
     "ID": "3428292",
@@ -54579,9 +49835,7 @@ window.QUALIDADE_MUDA_DATA = [
     "Responsável": "REGINALDO DA SILVA GOMES [249300]",
     "Qualidade da Muda": "BOM",
     "Observações": null,
-    "Fazenda": null,
-    "Observações ": null,
-    "Unnamed: 19": null
+    "Fazenda": null
   },
   {
     "ID": "3428681",
@@ -54602,9 +49856,7 @@ window.QUALIDADE_MUDA_DATA = [
     "Responsável": "268680 - GABRIEL HENRIQUE MARTINS PEREIRA ",
     "Qualidade da Muda": "BOM",
     "Observações": null,
-    "Fazenda": null,
-    "Observações ": null,
-    "Unnamed: 19": null
+    "Fazenda": null
   },
   {
     "ID": "3428371",
@@ -54625,9 +49877,7 @@ window.QUALIDADE_MUDA_DATA = [
     "Responsável": "278400 - Vitor Amorim Ramos ",
     "Qualidade da Muda": "BOM",
     "Observações": null,
-    "Fazenda": null,
-    "Observações ": null,
-    "Unnamed: 19": null
+    "Fazenda": null
   },
   {
     "ID": "3428676",
@@ -54648,9 +49898,7 @@ window.QUALIDADE_MUDA_DATA = [
     "Responsável": "268680 - GABRIEL HENRIQUE MARTINS PEREIRA ",
     "Qualidade da Muda": "BOM",
     "Observações": null,
-    "Fazenda": null,
-    "Observações ": null,
-    "Unnamed: 19": null
+    "Fazenda": null
   },
   {
     "ID": "3428363",
@@ -54671,9 +49919,7 @@ window.QUALIDADE_MUDA_DATA = [
     "Responsável": "278400 - Vitor Amorim Ramos ",
     "Qualidade da Muda": "BOM",
     "Observações": null,
-    "Fazenda": null,
-    "Observações ": null,
-    "Unnamed: 19": null
+    "Fazenda": null
   },
   {
     "ID": "3428671",
@@ -54694,9 +49940,7 @@ window.QUALIDADE_MUDA_DATA = [
     "Responsável": "268680 - GABRIEL HENRIQUE MARTINS PEREIRA ",
     "Qualidade da Muda": "BOM",
     "Observações": null,
-    "Fazenda": null,
-    "Observações ": null,
-    "Unnamed: 19": null
+    "Fazenda": null
   },
   {
     "ID": "3428358",
@@ -54717,9 +49961,7 @@ window.QUALIDADE_MUDA_DATA = [
     "Responsável": "278400 - Vitor Amorim Ramos ",
     "Qualidade da Muda": "BOM",
     "Observações": null,
-    "Fazenda": null,
-    "Observações ": null,
-    "Unnamed: 19": null
+    "Fazenda": null
   },
   {
     "ID": "3428666",
@@ -54740,9 +49982,7 @@ window.QUALIDADE_MUDA_DATA = [
     "Responsável": "268680 - GABRIEL HENRIQUE MARTINS PEREIRA ",
     "Qualidade da Muda": "BOM",
     "Observações": null,
-    "Fazenda": null,
-    "Observações ": null,
-    "Unnamed: 19": null
+    "Fazenda": null
   },
   {
     "ID": "3428353",
@@ -54763,9 +50003,7 @@ window.QUALIDADE_MUDA_DATA = [
     "Responsável": "278400 - Vitor Amorim Ramos ",
     "Qualidade da Muda": "BOM",
     "Observações": null,
-    "Fazenda": null,
-    "Observações ": null,
-    "Unnamed: 19": null
+    "Fazenda": null
   },
   {
     "ID": "3428347",
@@ -54786,9 +50024,7 @@ window.QUALIDADE_MUDA_DATA = [
     "Responsável": "278400 - Vitor Amorim Ramos ",
     "Qualidade da Muda": "BOM",
     "Observações": null,
-    "Fazenda": null,
-    "Observações ": null,
-    "Unnamed: 19": null
+    "Fazenda": null
   },
   {
     "ID": "3428336",
@@ -54809,9 +50045,7 @@ window.QUALIDADE_MUDA_DATA = [
     "Responsável": "278400 - Vitor Amorim Ramos ",
     "Qualidade da Muda": "BOM",
     "Observações": null,
-    "Fazenda": null,
-    "Observações ": null,
-    "Unnamed: 19": null
+    "Fazenda": null
   },
   {
     "ID": "3428331",
@@ -54832,9 +50066,7 @@ window.QUALIDADE_MUDA_DATA = [
     "Responsável": "278400 - Vitor Amorim Ramos ",
     "Qualidade da Muda": "BOM",
     "Observações": null,
-    "Fazenda": null,
-    "Observações ": null,
-    "Unnamed: 19": null
+    "Fazenda": null
   },
   {
     "ID": "3428317",
@@ -54855,9 +50087,7 @@ window.QUALIDADE_MUDA_DATA = [
     "Responsável": "278400 - Vitor Amorim Ramos ",
     "Qualidade da Muda": "BOM",
     "Observações": null,
-    "Fazenda": null,
-    "Observações ": null,
-    "Unnamed: 19": null
+    "Fazenda": null
   },
   {
     "ID": "3426543",
@@ -54878,9 +50108,7 @@ window.QUALIDADE_MUDA_DATA = [
     "Responsável": "278400 - Vitor Amorim Ramos ",
     "Qualidade da Muda": "BOM",
     "Observações": null,
-    "Fazenda": null,
-    "Observações ": null,
-    "Unnamed: 19": null
+    "Fazenda": null
   },
   {
     "ID": "3426538",
@@ -54901,9 +50129,7 @@ window.QUALIDADE_MUDA_DATA = [
     "Responsável": "278400 - Vitor Amorim Ramos ",
     "Qualidade da Muda": "BOM",
     "Observações": null,
-    "Fazenda": null,
-    "Observações ": null,
-    "Unnamed: 19": null
+    "Fazenda": null
   },
   {
     "ID": "3426533",
@@ -54924,9 +50150,7 @@ window.QUALIDADE_MUDA_DATA = [
     "Responsável": "278400 - Vitor Amorim Ramos ",
     "Qualidade da Muda": "BOM",
     "Observações": null,
-    "Fazenda": null,
-    "Observações ": null,
-    "Unnamed: 19": null
+    "Fazenda": null
   },
   {
     "ID": "3426529",
@@ -54947,9 +50171,7 @@ window.QUALIDADE_MUDA_DATA = [
     "Responsável": "278400 - Vitor Amorim Ramos ",
     "Qualidade da Muda": "BOM",
     "Observações": null,
-    "Fazenda": null,
-    "Observações ": null,
-    "Unnamed: 19": null
+    "Fazenda": null
   },
   {
     "ID": "3426518",
@@ -54970,9 +50192,7 @@ window.QUALIDADE_MUDA_DATA = [
     "Responsável": "278400 - Vitor Amorim Ramos ",
     "Qualidade da Muda": "BOM",
     "Observações": null,
-    "Fazenda": null,
-    "Observações ": null,
-    "Unnamed: 19": null
+    "Fazenda": null
   },
   {
     "ID": "3425039",
@@ -54993,9 +50213,7 @@ window.QUALIDADE_MUDA_DATA = [
     "Responsável": "278400 - Vitor Amorim Ramos ",
     "Qualidade da Muda": "BOM",
     "Observações": null,
-    "Fazenda": null,
-    "Observações ": null,
-    "Unnamed: 19": null
+    "Fazenda": null
   },
   {
     "ID": "3425036",
@@ -55016,9 +50234,7 @@ window.QUALIDADE_MUDA_DATA = [
     "Responsável": "278400 - Vitor Amorim Ramos ",
     "Qualidade da Muda": "BOM",
     "Observações": null,
-    "Fazenda": null,
-    "Observações ": null,
-    "Unnamed: 19": null
+    "Fazenda": null
   },
   {
     "ID": "3425013",
@@ -55039,9 +50255,7 @@ window.QUALIDADE_MUDA_DATA = [
     "Responsável": "278400 - Vitor Amorim Ramos ",
     "Qualidade da Muda": "BOM",
     "Observações": null,
-    "Fazenda": null,
-    "Observações ": null,
-    "Unnamed: 19": null
+    "Fazenda": null
   },
   {
     "ID": "3424993",
@@ -55062,9 +50276,7 @@ window.QUALIDADE_MUDA_DATA = [
     "Responsável": "278400 - Vitor Amorim Ramos ",
     "Qualidade da Muda": "BOM",
     "Observações": null,
-    "Fazenda": null,
-    "Observações ": null,
-    "Unnamed: 19": null
+    "Fazenda": null
   },
   {
     "ID": "3424980",
@@ -55085,9 +50297,7 @@ window.QUALIDADE_MUDA_DATA = [
     "Responsável": "278400 - Vitor Amorim Ramos ",
     "Qualidade da Muda": "BOM",
     "Observações": null,
-    "Fazenda": null,
-    "Observações ": null,
-    "Unnamed: 19": null
+    "Fazenda": null
   },
   {
     "ID": "3424972",
@@ -55108,9 +50318,7 @@ window.QUALIDADE_MUDA_DATA = [
     "Responsável": "278400 - Vitor Amorim Ramos ",
     "Qualidade da Muda": "BOM",
     "Observações": null,
-    "Fazenda": null,
-    "Observações ": null,
-    "Unnamed: 19": null
+    "Fazenda": null
   },
   {
     "ID": "3423178",
@@ -55131,9 +50339,7 @@ window.QUALIDADE_MUDA_DATA = [
     "Responsável": "278400 - Vitor Amorim Ramos ",
     "Qualidade da Muda": "BOM",
     "Observações": null,
-    "Fazenda": null,
-    "Observações ": null,
-    "Unnamed: 19": null
+    "Fazenda": null
   },
   {
     "ID": "3423174",
@@ -55154,9 +50360,7 @@ window.QUALIDADE_MUDA_DATA = [
     "Responsável": "278400 - Vitor Amorim Ramos ",
     "Qualidade da Muda": "BOM",
     "Observações": null,
-    "Fazenda": null,
-    "Observações ": null,
-    "Unnamed: 19": null
+    "Fazenda": null
   },
   {
     "ID": "3423019",
@@ -55177,9 +50381,7 @@ window.QUALIDADE_MUDA_DATA = [
     "Responsável": "MICHELI DE SOUZA SANTOS  ",
     "Qualidade da Muda": "BOM",
     "Observações": null,
-    "Fazenda": null,
-    "Observações ": null,
-    "Unnamed: 19": null
+    "Fazenda": null
   },
   {
     "ID": "3423163",
@@ -55200,9 +50402,7 @@ window.QUALIDADE_MUDA_DATA = [
     "Responsável": "278400 - Vitor Amorim Ramos ",
     "Qualidade da Muda": "BOM",
     "Observações": null,
-    "Fazenda": null,
-    "Observações ": null,
-    "Unnamed: 19": null
+    "Fazenda": null
   },
   {
     "ID": "3422746",
@@ -55223,9 +50423,7 @@ window.QUALIDADE_MUDA_DATA = [
     "Responsável": "REGINALDO DA SILVA GOMES [249300]",
     "Qualidade da Muda": "BOM",
     "Observações": null,
-    "Fazenda": null,
-    "Observações ": null,
-    "Unnamed: 19": null
+    "Fazenda": null
   },
   {
     "ID": "3423158",
@@ -55246,9 +50444,7 @@ window.QUALIDADE_MUDA_DATA = [
     "Responsável": "278400 - Vitor Amorim Ramos ",
     "Qualidade da Muda": "BOM",
     "Observações": null,
-    "Fazenda": null,
-    "Observações ": null,
-    "Unnamed: 19": null
+    "Fazenda": null
   },
   {
     "ID": "3422742",
@@ -55269,9 +50465,7 @@ window.QUALIDADE_MUDA_DATA = [
     "Responsável": "REGINALDO DA SILVA GOMES [249300]",
     "Qualidade da Muda": "BOM",
     "Observações": null,
-    "Fazenda": null,
-    "Observações ": null,
-    "Unnamed: 19": null
+    "Fazenda": null
   },
   {
     "ID": "3423153",
@@ -55292,9 +50486,7 @@ window.QUALIDADE_MUDA_DATA = [
     "Responsável": "278400 - Vitor Amorim Ramos ",
     "Qualidade da Muda": "BOM",
     "Observações": null,
-    "Fazenda": null,
-    "Observações ": null,
-    "Unnamed: 19": null
+    "Fazenda": null
   },
   {
     "ID": "3422737",
@@ -55315,9 +50507,7 @@ window.QUALIDADE_MUDA_DATA = [
     "Responsável": "REGINALDO DA SILVA GOMES [249300]",
     "Qualidade da Muda": "BOM",
     "Observações": null,
-    "Fazenda": null,
-    "Observações ": null,
-    "Unnamed: 19": null
+    "Fazenda": null
   },
   {
     "ID": "3422803",
@@ -55338,9 +50528,7 @@ window.QUALIDADE_MUDA_DATA = [
     "Responsável": "278400 - Vitor Amorim Ramos ",
     "Qualidade da Muda": "BOM",
     "Observações": null,
-    "Fazenda": null,
-    "Observações ": null,
-    "Unnamed: 19": null
+    "Fazenda": null
   },
   {
     "ID": "3422768",
@@ -55361,9 +50549,7 @@ window.QUALIDADE_MUDA_DATA = [
     "Responsável": "278400 - Vitor Amorim Ramos ",
     "Qualidade da Muda": "BOM",
     "Observações": null,
-    "Fazenda": null,
-    "Observações ": null,
-    "Unnamed: 19": null
+    "Fazenda": null
   },
   {
     "ID": "3422756",
@@ -55384,9 +50570,7 @@ window.QUALIDADE_MUDA_DATA = [
     "Responsável": "278400 - Vitor Amorim Ramos ",
     "Qualidade da Muda": "BOM",
     "Observações": null,
-    "Fazenda": null,
-    "Observações ": null,
-    "Unnamed: 19": null
+    "Fazenda": null
   },
   {
     "ID": "3422751",
@@ -55407,9 +50591,7 @@ window.QUALIDADE_MUDA_DATA = [
     "Responsável": "278400 - Vitor Amorim Ramos ",
     "Qualidade da Muda": "BOM",
     "Observações": null,
-    "Fazenda": null,
-    "Observações ": null,
-    "Unnamed: 19": null
+    "Fazenda": null
   },
   {
     "ID": "3421352",
@@ -55430,9 +50612,7 @@ window.QUALIDADE_MUDA_DATA = [
     "Responsável": "MARCELO DE OLIVEIRA JUNIOR [264820]",
     "Qualidade da Muda": "BOM",
     "Observações": null,
-    "Fazenda": null,
-    "Observações ": null,
-    "Unnamed: 19": null
+    "Fazenda": null
   },
   {
     "ID": "3421185",
@@ -55453,9 +50633,7 @@ window.QUALIDADE_MUDA_DATA = [
     "Responsável": "278400 - Vitor Amorim Ramos ",
     "Qualidade da Muda": "BOM",
     "Observações": null,
-    "Fazenda": null,
-    "Observações ": null,
-    "Unnamed: 19": null
+    "Fazenda": null
   },
   {
     "ID": "3421178",
@@ -55476,9 +50654,7 @@ window.QUALIDADE_MUDA_DATA = [
     "Responsável": "278400 - Vitor Amorim Ramos ",
     "Qualidade da Muda": "BOM",
     "Observações": null,
-    "Fazenda": null,
-    "Observações ": null,
-    "Unnamed: 19": null
+    "Fazenda": null
   },
   {
     "ID": "3421131",
@@ -55499,9 +50675,7 @@ window.QUALIDADE_MUDA_DATA = [
     "Responsável": "278400 - Vitor Amorim Ramos ",
     "Qualidade da Muda": "BOM",
     "Observações": null,
-    "Fazenda": null,
-    "Observações ": null,
-    "Unnamed: 19": null
+    "Fazenda": null
   },
   {
     "ID": "3421129",
@@ -55522,9 +50696,7 @@ window.QUALIDADE_MUDA_DATA = [
     "Responsável": "278400 - Vitor Amorim Ramos ",
     "Qualidade da Muda": "BOM",
     "Observações": null,
-    "Fazenda": null,
-    "Observações ": null,
-    "Unnamed: 19": null
+    "Fazenda": null
   },
   {
     "ID": "3421124",
@@ -55545,9 +50717,7 @@ window.QUALIDADE_MUDA_DATA = [
     "Responsável": "278400 - Vitor Amorim Ramos ",
     "Qualidade da Muda": "BOM",
     "Observações": null,
-    "Fazenda": null,
-    "Observações ": null,
-    "Unnamed: 19": null
+    "Fazenda": null
   },
   {
     "ID": "3421121",
@@ -55568,9 +50738,7 @@ window.QUALIDADE_MUDA_DATA = [
     "Responsável": "278400 - Vitor Amorim Ramos ",
     "Qualidade da Muda": "BOM",
     "Observações": null,
-    "Fazenda": null,
-    "Observações ": null,
-    "Unnamed: 19": null
+    "Fazenda": null
   },
   {
     "ID": "3421165",
@@ -55591,9 +50759,7 @@ window.QUALIDADE_MUDA_DATA = [
     "Responsável": "278400 - Vitor Amorim Ramos ",
     "Qualidade da Muda": "BOM",
     "Observações": null,
-    "Fazenda": null,
-    "Observações ": null,
-    "Unnamed: 19": null
+    "Fazenda": null
   },
   {
     "ID": "3417435",
@@ -55614,9 +50780,7 @@ window.QUALIDADE_MUDA_DATA = [
     "Responsável": "278400 - Vitor Amorim Ramos ",
     "Qualidade da Muda": "BOM",
     "Observações": null,
-    "Fazenda": null,
-    "Observações ": null,
-    "Unnamed: 19": null
+    "Fazenda": null
   },
   {
     "ID": "3417430",
@@ -55637,9 +50801,7 @@ window.QUALIDADE_MUDA_DATA = [
     "Responsável": "278400 - Vitor Amorim Ramos ",
     "Qualidade da Muda": "BOM",
     "Observações": null,
-    "Fazenda": null,
-    "Observações ": null,
-    "Unnamed: 19": null
+    "Fazenda": null
   },
   {
     "ID": "3417425",
@@ -55660,9 +50822,7 @@ window.QUALIDADE_MUDA_DATA = [
     "Responsável": "278400 - Vitor Amorim Ramos ",
     "Qualidade da Muda": "BOM",
     "Observações": null,
-    "Fazenda": null,
-    "Observações ": null,
-    "Unnamed: 19": null
+    "Fazenda": null
   },
   {
     "ID": "3417421",
@@ -55683,9 +50843,7 @@ window.QUALIDADE_MUDA_DATA = [
     "Responsável": "278400 - Vitor Amorim Ramos ",
     "Qualidade da Muda": "BOM",
     "Observações": null,
-    "Fazenda": null,
-    "Observações ": null,
-    "Unnamed: 19": null
+    "Fazenda": null
   },
   {
     "ID": "3417416",
@@ -55706,9 +50864,7 @@ window.QUALIDADE_MUDA_DATA = [
     "Responsável": "278400 - Vitor Amorim Ramos ",
     "Qualidade da Muda": "BOM",
     "Observações": null,
-    "Fazenda": null,
-    "Observações ": null,
-    "Unnamed: 19": null
+    "Fazenda": null
   },
   {
     "ID": "3417411",
@@ -55729,9 +50885,7 @@ window.QUALIDADE_MUDA_DATA = [
     "Responsável": "278400 - Vitor Amorim Ramos ",
     "Qualidade da Muda": "BOM",
     "Observações": null,
-    "Fazenda": null,
-    "Observações ": null,
-    "Unnamed: 19": null
+    "Fazenda": null
   },
   {
     "ID": "3416396",
@@ -55752,9 +50906,7 @@ window.QUALIDADE_MUDA_DATA = [
     "Responsável": "278400 - Vitor Amorim Ramos ",
     "Qualidade da Muda": "BOM",
     "Observações": null,
-    "Fazenda": null,
-    "Observações ": null,
-    "Unnamed: 19": null
+    "Fazenda": null
   },
   {
     "ID": "3416391",
@@ -55775,9 +50927,7 @@ window.QUALIDADE_MUDA_DATA = [
     "Responsável": "278400 - Vitor Amorim Ramos ",
     "Qualidade da Muda": "BOM",
     "Observações": null,
-    "Fazenda": null,
-    "Observações ": null,
-    "Unnamed: 19": null
+    "Fazenda": null
   },
   {
     "ID": "3416385",
@@ -55798,9 +50948,7 @@ window.QUALIDADE_MUDA_DATA = [
     "Responsável": "278400 - Vitor Amorim Ramos ",
     "Qualidade da Muda": "BOM",
     "Observações": null,
-    "Fazenda": null,
-    "Observações ": null,
-    "Unnamed: 19": null
+    "Fazenda": null
   },
   {
     "ID": "3416380",
@@ -55821,9 +50969,7 @@ window.QUALIDADE_MUDA_DATA = [
     "Responsável": "278400 - Vitor Amorim Ramos ",
     "Qualidade da Muda": "BOM",
     "Observações": null,
-    "Fazenda": null,
-    "Observações ": null,
-    "Unnamed: 19": null
+    "Fazenda": null
   },
   {
     "ID": "3416375",
@@ -55844,9 +50990,7 @@ window.QUALIDADE_MUDA_DATA = [
     "Responsável": "278400 - Vitor Amorim Ramos ",
     "Qualidade da Muda": "BOM",
     "Observações": null,
-    "Fazenda": null,
-    "Observações ": null,
-    "Unnamed: 19": null
+    "Fazenda": null
   },
   {
     "ID": "3415088",
@@ -55867,9 +51011,7 @@ window.QUALIDADE_MUDA_DATA = [
     "Responsável": "278400 - Vitor Amorim Ramos ",
     "Qualidade da Muda": "BOM",
     "Observações": null,
-    "Fazenda": null,
-    "Observações ": null,
-    "Unnamed: 19": null
+    "Fazenda": null
   },
   {
     "ID": "3415081",
@@ -55890,9 +51032,7 @@ window.QUALIDADE_MUDA_DATA = [
     "Responsável": "278400 - Vitor Amorim Ramos ",
     "Qualidade da Muda": "BOM",
     "Observações": null,
-    "Fazenda": null,
-    "Observações ": null,
-    "Unnamed: 19": null
+    "Fazenda": null
   },
   {
     "ID": "3415076",
@@ -55913,9 +51053,7 @@ window.QUALIDADE_MUDA_DATA = [
     "Responsável": "278400 - Vitor Amorim Ramos ",
     "Qualidade da Muda": "BOM",
     "Observações": null,
-    "Fazenda": null,
-    "Observações ": null,
-    "Unnamed: 19": null
+    "Fazenda": null
   },
   {
     "ID": "3415071",
@@ -55936,9 +51074,7 @@ window.QUALIDADE_MUDA_DATA = [
     "Responsável": "278400 - Vitor Amorim Ramos ",
     "Qualidade da Muda": "BOM",
     "Observações": null,
-    "Fazenda": null,
-    "Observações ": null,
-    "Unnamed: 19": null
+    "Fazenda": null
   },
   {
     "ID": "3414953",
@@ -55959,9 +51095,7 @@ window.QUALIDADE_MUDA_DATA = [
     "Responsável": "278400 - Vitor Amorim Ramos ",
     "Qualidade da Muda": "BOM",
     "Observações": null,
-    "Fazenda": null,
-    "Observações ": null,
-    "Unnamed: 19": null
+    "Fazenda": null
   },
   {
     "ID": "3414948",
@@ -55982,9 +51116,7 @@ window.QUALIDADE_MUDA_DATA = [
     "Responsável": "278400 - Vitor Amorim Ramos ",
     "Qualidade da Muda": "BOM",
     "Observações": null,
-    "Fazenda": null,
-    "Observações ": null,
-    "Unnamed: 19": null
+    "Fazenda": null
   },
   {
     "ID": "3414943",
@@ -56005,9 +51137,7 @@ window.QUALIDADE_MUDA_DATA = [
     "Responsável": "278400 - Vitor Amorim Ramos ",
     "Qualidade da Muda": "BOM",
     "Observações": null,
-    "Fazenda": null,
-    "Observações ": null,
-    "Unnamed: 19": null
+    "Fazenda": null
   },
   {
     "ID": "3414934",
@@ -56028,9 +51158,7 @@ window.QUALIDADE_MUDA_DATA = [
     "Responsável": "278400 - Vitor Amorim Ramos ",
     "Qualidade da Muda": "BOM",
     "Observações": null,
-    "Fazenda": null,
-    "Observações ": null,
-    "Unnamed: 19": null
+    "Fazenda": null
   },
   {
     "ID": "3414929",
@@ -56051,9 +51179,7 @@ window.QUALIDADE_MUDA_DATA = [
     "Responsável": "278400 - Vitor Amorim Ramos ",
     "Qualidade da Muda": "BOM",
     "Observações": null,
-    "Fazenda": null,
-    "Observações ": null,
-    "Unnamed: 19": null
+    "Fazenda": null
   },
   {
     "ID": "3414903",
@@ -56074,9 +51200,7 @@ window.QUALIDADE_MUDA_DATA = [
     "Responsável": "278400 - Vitor Amorim Ramos ",
     "Qualidade da Muda": "BOM",
     "Observações": null,
-    "Fazenda": null,
-    "Observações ": null,
-    "Unnamed: 19": null
+    "Fazenda": null
   },
   {
     "ID": "3414898",
@@ -56097,9 +51221,7 @@ window.QUALIDADE_MUDA_DATA = [
     "Responsável": "278400 - Vitor Amorim Ramos ",
     "Qualidade da Muda": "BOM",
     "Observações": null,
-    "Fazenda": null,
-    "Observações ": null,
-    "Unnamed: 19": null
+    "Fazenda": null
   },
   {
     "ID": "3414886",
@@ -56120,9 +51242,7 @@ window.QUALIDADE_MUDA_DATA = [
     "Responsável": "278400 - Vitor Amorim Ramos ",
     "Qualidade da Muda": "BOM",
     "Observações": null,
-    "Fazenda": null,
-    "Observações ": null,
-    "Unnamed: 19": null
+    "Fazenda": null
   },
   {
     "ID": "3414881",
@@ -56143,9 +51263,7 @@ window.QUALIDADE_MUDA_DATA = [
     "Responsável": "278400 - Vitor Amorim Ramos ",
     "Qualidade da Muda": "BOM",
     "Observações": null,
-    "Fazenda": null,
-    "Observações ": null,
-    "Unnamed: 19": null
+    "Fazenda": null
   },
   {
     "ID": "3414876",
@@ -56166,9 +51284,7 @@ window.QUALIDADE_MUDA_DATA = [
     "Responsável": "278400 - Vitor Amorim Ramos ",
     "Qualidade da Muda": "BOM",
     "Observações": null,
-    "Fazenda": null,
-    "Observações ": null,
-    "Unnamed: 19": null
+    "Fazenda": null
   },
   {
     "ID": "3413433",
@@ -56189,9 +51305,7 @@ window.QUALIDADE_MUDA_DATA = [
     "Responsável": "278400 - Vitor Amorim Ramos ",
     "Qualidade da Muda": "BOM",
     "Observações": null,
-    "Fazenda": null,
-    "Observações ": null,
-    "Unnamed: 19": null
+    "Fazenda": null
   },
   {
     "ID": "3413428",
@@ -56212,9 +51326,7 @@ window.QUALIDADE_MUDA_DATA = [
     "Responsável": "278400 - Vitor Amorim Ramos ",
     "Qualidade da Muda": "BOM",
     "Observações": null,
-    "Fazenda": null,
-    "Observações ": null,
-    "Unnamed: 19": null
+    "Fazenda": null
   },
   {
     "ID": "3413422",
@@ -56235,9 +51347,7 @@ window.QUALIDADE_MUDA_DATA = [
     "Responsável": "278400 - Vitor Amorim Ramos ",
     "Qualidade da Muda": "BOM",
     "Observações": null,
-    "Fazenda": null,
-    "Observações ": null,
-    "Unnamed: 19": null
+    "Fazenda": null
   },
   {
     "ID": "3413416",
@@ -56258,9 +51368,7 @@ window.QUALIDADE_MUDA_DATA = [
     "Responsável": "278400 - Vitor Amorim Ramos ",
     "Qualidade da Muda": "BOM",
     "Observações": null,
-    "Fazenda": null,
-    "Observações ": null,
-    "Unnamed: 19": null
+    "Fazenda": null
   },
   {
     "ID": "3413410",
@@ -56281,9 +51389,7 @@ window.QUALIDADE_MUDA_DATA = [
     "Responsável": "278400 - Vitor Amorim Ramos ",
     "Qualidade da Muda": "BOM",
     "Observações": null,
-    "Fazenda": null,
-    "Observações ": null,
-    "Unnamed: 19": null
+    "Fazenda": null
   },
   {
     "ID": "3413400",
@@ -56304,9 +51410,7 @@ window.QUALIDADE_MUDA_DATA = [
     "Responsável": "278400 - Vitor Amorim Ramos ",
     "Qualidade da Muda": "BOM",
     "Observações": null,
-    "Fazenda": null,
-    "Observações ": null,
-    "Unnamed: 19": null
+    "Fazenda": null
   },
   {
     "ID": "3413450",
@@ -56327,9 +51431,7 @@ window.QUALIDADE_MUDA_DATA = [
     "Responsável": "278400 - Vitor Amorim Ramos ",
     "Qualidade da Muda": "BOM",
     "Observações": null,
-    "Fazenda": null,
-    "Observações ": null,
-    "Unnamed: 19": null
+    "Fazenda": null
   },
   {
     "ID": "3413392",
@@ -56350,9 +51452,7 @@ window.QUALIDADE_MUDA_DATA = [
     "Responsável": "278400 - Vitor Amorim Ramos ",
     "Qualidade da Muda": "BOM",
     "Observações": null,
-    "Fazenda": null,
-    "Observações ": null,
-    "Unnamed: 19": null
+    "Fazenda": null
   },
   {
     "ID": "3413387",
@@ -56373,9 +51473,7 @@ window.QUALIDADE_MUDA_DATA = [
     "Responsável": "278400 - Vitor Amorim Ramos ",
     "Qualidade da Muda": "BOM",
     "Observações": null,
-    "Fazenda": null,
-    "Observações ": null,
-    "Unnamed: 19": null
+    "Fazenda": null
   },
   {
     "ID": "3413383",
@@ -56396,9 +51494,7 @@ window.QUALIDADE_MUDA_DATA = [
     "Responsável": "278400 - Vitor Amorim Ramos ",
     "Qualidade da Muda": "BOM",
     "Observações": null,
-    "Fazenda": null,
-    "Observações ": null,
-    "Unnamed: 19": null
+    "Fazenda": null
   },
   {
     "ID": "3411797",
@@ -56419,9 +51515,7 @@ window.QUALIDADE_MUDA_DATA = [
     "Responsável": "278400 - Vitor Amorim Ramos ",
     "Qualidade da Muda": "BOM",
     "Observações": null,
-    "Fazenda": null,
-    "Observações ": null,
-    "Unnamed: 19": null
+    "Fazenda": null
   },
   {
     "ID": "3411792",
@@ -56442,9 +51536,7 @@ window.QUALIDADE_MUDA_DATA = [
     "Responsável": "278400 - Vitor Amorim Ramos ",
     "Qualidade da Muda": "BOM",
     "Observações": null,
-    "Fazenda": null,
-    "Observações ": null,
-    "Unnamed: 19": null
+    "Fazenda": null
   },
   {
     "ID": "3411787",
@@ -56465,9 +51557,7 @@ window.QUALIDADE_MUDA_DATA = [
     "Responsável": "278400 - Vitor Amorim Ramos ",
     "Qualidade da Muda": "BOM",
     "Observações": null,
-    "Fazenda": null,
-    "Observações ": null,
-    "Unnamed: 19": null
+    "Fazenda": null
   },
   {
     "ID": "3411629",
@@ -56488,9 +51578,7 @@ window.QUALIDADE_MUDA_DATA = [
     "Responsável": "278400 - Vitor Amorim Ramos ",
     "Qualidade da Muda": "BOM",
     "Observações": null,
-    "Fazenda": null,
-    "Observações ": null,
-    "Unnamed: 19": null
+    "Fazenda": null
   },
   {
     "ID": "3411623",
@@ -56511,9 +51599,7 @@ window.QUALIDADE_MUDA_DATA = [
     "Responsável": "278400 - Vitor Amorim Ramos ",
     "Qualidade da Muda": "BOM",
     "Observações": null,
-    "Fazenda": null,
-    "Observações ": null,
-    "Unnamed: 19": null
+    "Fazenda": null
   },
   {
     "ID": "3411618",
@@ -56534,9 +51620,7 @@ window.QUALIDADE_MUDA_DATA = [
     "Responsável": "278400 - Vitor Amorim Ramos ",
     "Qualidade da Muda": "BOM",
     "Observações": null,
-    "Fazenda": null,
-    "Observações ": null,
-    "Unnamed: 19": null
+    "Fazenda": null
   },
   {
     "ID": "3411613",
@@ -56557,9 +51641,7 @@ window.QUALIDADE_MUDA_DATA = [
     "Responsável": "278400 - Vitor Amorim Ramos ",
     "Qualidade da Muda": "BOM",
     "Observações": null,
-    "Fazenda": null,
-    "Observações ": null,
-    "Unnamed: 19": null
+    "Fazenda": null
   },
   {
     "ID": "3411605",
@@ -56580,9 +51662,7 @@ window.QUALIDADE_MUDA_DATA = [
     "Responsável": "278400 - Vitor Amorim Ramos ",
     "Qualidade da Muda": "BOM",
     "Observações": null,
-    "Fazenda": null,
-    "Observações ": null,
-    "Unnamed: 19": null
+    "Fazenda": null
   },
   {
     "ID": "3411600",
@@ -56603,9 +51683,7 @@ window.QUALIDADE_MUDA_DATA = [
     "Responsável": "278400 - Vitor Amorim Ramos ",
     "Qualidade da Muda": "BOM",
     "Observações": null,
-    "Fazenda": null,
-    "Observações ": null,
-    "Unnamed: 19": null
+    "Fazenda": null
   },
   {
     "ID": "3411596",
@@ -56626,9 +51704,7 @@ window.QUALIDADE_MUDA_DATA = [
     "Responsável": "278400 - Vitor Amorim Ramos ",
     "Qualidade da Muda": "BOM",
     "Observações": null,
-    "Fazenda": null,
-    "Observações ": null,
-    "Unnamed: 19": null
+    "Fazenda": null
   },
   {
     "ID": "3411777",
@@ -56649,9 +51725,7 @@ window.QUALIDADE_MUDA_DATA = [
     "Responsável": "278400 - Vitor Amorim Ramos ",
     "Qualidade da Muda": "BOM",
     "Observações": null,
-    "Fazenda": null,
-    "Observações ": null,
-    "Unnamed: 19": null
+    "Fazenda": null
   },
   {
     "ID": "3411774",
@@ -56672,9 +51746,7 @@ window.QUALIDADE_MUDA_DATA = [
     "Responsável": "278400 - Vitor Amorim Ramos ",
     "Qualidade da Muda": "BOM",
     "Observações": null,
-    "Fazenda": null,
-    "Observações ": null,
-    "Unnamed: 19": null
+    "Fazenda": null
   },
   {
     "ID": "3411579",
@@ -56695,9 +51767,7 @@ window.QUALIDADE_MUDA_DATA = [
     "Responsável": "278400 - Vitor Amorim Ramos ",
     "Qualidade da Muda": "BOM",
     "Observações": null,
-    "Fazenda": null,
-    "Observações ": null,
-    "Unnamed: 19": null
+    "Fazenda": null
   },
   {
     "ID": "3410286",
@@ -56718,9 +51788,7 @@ window.QUALIDADE_MUDA_DATA = [
     "Responsável": "278400 - Vitor Amorim Ramos ",
     "Qualidade da Muda": "BOM",
     "Observações": null,
-    "Fazenda": null,
-    "Observações ": null,
-    "Unnamed: 19": null
+    "Fazenda": null
   },
   {
     "ID": "3410240",
@@ -56741,9 +51809,7 @@ window.QUALIDADE_MUDA_DATA = [
     "Responsável": "278400 - Vitor Amorim Ramos ",
     "Qualidade da Muda": "BOM",
     "Observações": null,
-    "Fazenda": null,
-    "Observações ": null,
-    "Unnamed: 19": null
+    "Fazenda": null
   },
   {
     "ID": "3410263",
@@ -56764,9 +51830,7 @@ window.QUALIDADE_MUDA_DATA = [
     "Responsável": "278400 - Vitor Amorim Ramos ",
     "Qualidade da Muda": "BOM",
     "Observações": null,
-    "Fazenda": null,
-    "Observações ": null,
-    "Unnamed: 19": null
+    "Fazenda": null
   },
   {
     "ID": "3410236",
@@ -56787,9 +51851,7 @@ window.QUALIDADE_MUDA_DATA = [
     "Responsável": "278400 - Vitor Amorim Ramos ",
     "Qualidade da Muda": "BOM",
     "Observações": null,
-    "Fazenda": null,
-    "Observações ": null,
-    "Unnamed: 19": null
+    "Fazenda": null
   },
   {
     "ID": "3410038",
@@ -56810,9 +51872,7 @@ window.QUALIDADE_MUDA_DATA = [
     "Responsável": "278400 - Vitor Amorim Ramos ",
     "Qualidade da Muda": "BOM",
     "Observações": null,
-    "Fazenda": null,
-    "Observações ": null,
-    "Unnamed: 19": null
+    "Fazenda": null
   },
   {
     "ID": "3410034",
@@ -56833,9 +51893,7 @@ window.QUALIDADE_MUDA_DATA = [
     "Responsável": "278400 - Vitor Amorim Ramos ",
     "Qualidade da Muda": "BOM",
     "Observações": null,
-    "Fazenda": null,
-    "Observações ": null,
-    "Unnamed: 19": null
+    "Fazenda": null
   },
   {
     "ID": "3410031",
@@ -56856,9 +51914,7 @@ window.QUALIDADE_MUDA_DATA = [
     "Responsável": "278400 - Vitor Amorim Ramos ",
     "Qualidade da Muda": "BOM",
     "Observações": null,
-    "Fazenda": null,
-    "Observações ": null,
-    "Unnamed: 19": null
+    "Fazenda": null
   },
   {
     "ID": "3410021",
@@ -56879,9 +51935,7 @@ window.QUALIDADE_MUDA_DATA = [
     "Responsável": "278400 - Vitor Amorim Ramos ",
     "Qualidade da Muda": "BOM",
     "Observações": null,
-    "Fazenda": null,
-    "Observações ": null,
-    "Unnamed: 19": null
+    "Fazenda": null
   },
   {
     "ID": "3410027",
@@ -56902,9 +51956,7 @@ window.QUALIDADE_MUDA_DATA = [
     "Responsável": "278400 - Vitor Amorim Ramos ",
     "Qualidade da Muda": "BOM",
     "Observações": null,
-    "Fazenda": null,
-    "Observações ": null,
-    "Unnamed: 19": null
+    "Fazenda": null
   },
   {
     "ID": "3409999",
@@ -56925,9 +51977,7 @@ window.QUALIDADE_MUDA_DATA = [
     "Responsável": "278400 - Vitor Amorim Ramos ",
     "Qualidade da Muda": "BOM",
     "Observações": null,
-    "Fazenda": null,
-    "Observações ": null,
-    "Unnamed: 19": null
+    "Fazenda": null
   },
   {
     "ID": "3408571",
@@ -56948,9 +51998,7 @@ window.QUALIDADE_MUDA_DATA = [
     "Responsável": "278400 - Vitor Amorim Ramos ",
     "Qualidade da Muda": "BOM",
     "Observações": null,
-    "Fazenda": null,
-    "Observações ": null,
-    "Unnamed: 19": null
+    "Fazenda": null
   },
   {
     "ID": "3408566",
@@ -56971,9 +52019,7 @@ window.QUALIDADE_MUDA_DATA = [
     "Responsável": "278400 - Vitor Amorim Ramos ",
     "Qualidade da Muda": "BOM",
     "Observações": null,
-    "Fazenda": null,
-    "Observações ": null,
-    "Unnamed: 19": null
+    "Fazenda": null
   },
   {
     "ID": "3408559",
@@ -56994,9 +52040,7 @@ window.QUALIDADE_MUDA_DATA = [
     "Responsável": "278400 - Vitor Amorim Ramos ",
     "Qualidade da Muda": "BOM",
     "Observações": null,
-    "Fazenda": null,
-    "Observações ": null,
-    "Unnamed: 19": null
+    "Fazenda": null
   },
   {
     "ID": "3408554",
@@ -57017,9 +52061,7 @@ window.QUALIDADE_MUDA_DATA = [
     "Responsável": "278400 - Vitor Amorim Ramos ",
     "Qualidade da Muda": "BOM",
     "Observações": null,
-    "Fazenda": null,
-    "Observações ": null,
-    "Unnamed: 19": null
+    "Fazenda": null
   },
   {
     "ID": "3408548",
@@ -57040,9 +52082,7 @@ window.QUALIDADE_MUDA_DATA = [
     "Responsável": "278400 - Vitor Amorim Ramos ",
     "Qualidade da Muda": "BOM",
     "Observações": null,
-    "Fazenda": null,
-    "Observações ": null,
-    "Unnamed: 19": null
+    "Fazenda": null
   },
   {
     "ID": "3408151",
@@ -57063,9 +52103,7 @@ window.QUALIDADE_MUDA_DATA = [
     "Responsável": "278400 - Vitor Amorim Ramos ",
     "Qualidade da Muda": "BOM",
     "Observações": null,
-    "Fazenda": null,
-    "Observações ": null,
-    "Unnamed: 19": null
+    "Fazenda": null
   },
   {
     "ID": "3408155",
@@ -57086,9 +52124,7 @@ window.QUALIDADE_MUDA_DATA = [
     "Responsável": "278400 - Vitor Amorim Ramos ",
     "Qualidade da Muda": "BOM",
     "Observações": null,
-    "Fazenda": null,
-    "Observações ": null,
-    "Unnamed: 19": null
+    "Fazenda": null
   },
   {
     "ID": "3408139",
@@ -57109,9 +52145,7 @@ window.QUALIDADE_MUDA_DATA = [
     "Responsável": "278400 - Vitor Amorim Ramos ",
     "Qualidade da Muda": "BOM",
     "Observações": null,
-    "Fazenda": null,
-    "Observações ": null,
-    "Unnamed: 19": null
+    "Fazenda": null
   },
   {
     "ID": "3408123",
@@ -57132,9 +52166,7 @@ window.QUALIDADE_MUDA_DATA = [
     "Responsável": "278400 - Vitor Amorim Ramos ",
     "Qualidade da Muda": "BOM",
     "Observações": null,
-    "Fazenda": null,
-    "Observações ": null,
-    "Unnamed: 19": null
+    "Fazenda": null
   },
   {
     "ID": "3408113",
@@ -57155,9 +52187,7 @@ window.QUALIDADE_MUDA_DATA = [
     "Responsável": "278400 - Vitor Amorim Ramos ",
     "Qualidade da Muda": "BOM",
     "Observações": null,
-    "Fazenda": null,
-    "Observações ": null,
-    "Unnamed: 19": null
+    "Fazenda": null
   },
   {
     "ID": "3408097",
@@ -57178,9 +52208,7 @@ window.QUALIDADE_MUDA_DATA = [
     "Responsável": "278400 - Vitor Amorim Ramos ",
     "Qualidade da Muda": "BOM",
     "Observações": null,
-    "Fazenda": null,
-    "Observações ": null,
-    "Unnamed: 19": null
+    "Fazenda": null
   },
   {
     "ID": "3408100",
@@ -57201,9 +52229,7 @@ window.QUALIDADE_MUDA_DATA = [
     "Responsável": "278400 - Vitor Amorim Ramos ",
     "Qualidade da Muda": "BOM",
     "Observações": null,
-    "Fazenda": null,
-    "Observações ": null,
-    "Unnamed: 19": null
+    "Fazenda": null
   },
   {
     "ID": "4026568",
@@ -57223,10 +52249,8 @@ window.QUALIDADE_MUDA_DATA = [
     "Frente": "135 - FRENTE PEDRINHO",
     "Responsável": "285410",
     "Qualidade da Muda": "BOM",
-    "Observações": null,
-    "Fazenda": "33302",
-    "Observações ": "Bom",
-    "Unnamed: 19": null
+    "Observações": "Bom",
+    "Fazenda": "33302"
   },
   {
     "ID": "4026559",
@@ -57246,10 +52270,8 @@ window.QUALIDADE_MUDA_DATA = [
     "Frente": "135 - FRENTE PEDRINHO",
     "Responsável": "285410",
     "Qualidade da Muda": "BOM",
-    "Observações": null,
-    "Fazenda": "33302",
-    "Observações ": "Bom",
-    "Unnamed: 19": null
+    "Observações": "Bom",
+    "Fazenda": "33302"
   },
   {
     "ID": "4026553",
@@ -57269,10 +52291,8 @@ window.QUALIDADE_MUDA_DATA = [
     "Frente": "135 - FRENTE PEDRINHO",
     "Responsável": "285410",
     "Qualidade da Muda": "BOM",
-    "Observações": null,
-    "Fazenda": "33302",
-    "Observações ": "Bom",
-    "Unnamed: 19": null
+    "Observações": "Bom",
+    "Fazenda": "33302"
   },
   {
     "ID": "4026486",
@@ -57292,10 +52312,8 @@ window.QUALIDADE_MUDA_DATA = [
     "Frente": "135 - FRENTE PEDRINHO",
     "Responsável": "285410",
     "Qualidade da Muda": "BOM",
-    "Observações": null,
-    "Fazenda": "33302",
-    "Observações ": "Bom",
-    "Unnamed: 19": null
+    "Observações": "Bom",
+    "Fazenda": "33302"
   },
   {
     "ID": "4026477",
@@ -57315,10 +52333,8 @@ window.QUALIDADE_MUDA_DATA = [
     "Frente": "135 - FRENTE PEDRINHO",
     "Responsável": "285410",
     "Qualidade da Muda": "BOM",
-    "Observações": null,
-    "Fazenda": "33302",
-    "Observações ": "Bom",
-    "Unnamed: 19": null
+    "Observações": "Bom",
+    "Fazenda": "33302"
   },
   {
     "ID": "4026468",
@@ -57338,10 +52354,8 @@ window.QUALIDADE_MUDA_DATA = [
     "Frente": "135 - FRENTE PEDRINHO",
     "Responsável": "285410",
     "Qualidade da Muda": "BOM",
-    "Observações": null,
-    "Fazenda": "33302",
-    "Observações ": "Bom",
-    "Unnamed: 19": null
+    "Observações": "Bom",
+    "Fazenda": "33302"
   },
   {
     "ID": "4026457",
@@ -57361,10 +52375,8 @@ window.QUALIDADE_MUDA_DATA = [
     "Frente": "135 - FRENTE PEDRINHO",
     "Responsável": "285410",
     "Qualidade da Muda": "BOM",
-    "Observações": null,
-    "Fazenda": "33302",
-    "Observações ": "Bom",
-    "Unnamed: 19": null
+    "Observações": "Bom",
+    "Fazenda": "33302"
   },
   {
     "ID": "4026450",
@@ -57384,10 +52396,8 @@ window.QUALIDADE_MUDA_DATA = [
     "Frente": "135 - FRENTE PEDRINHO",
     "Responsável": "285410",
     "Qualidade da Muda": "BOM",
-    "Observações": null,
-    "Fazenda": "33302",
-    "Observações ": "Bom",
-    "Unnamed: 19": null
+    "Observações": "Bom",
+    "Fazenda": "33302"
   },
   {
     "ID": "4026280",
@@ -57407,10 +52417,8 @@ window.QUALIDADE_MUDA_DATA = [
     "Frente": "135 - FRENTE PEDRINHO",
     "Responsável": "285410",
     "Qualidade da Muda": "BOM",
-    "Observações": null,
-    "Fazenda": "33302",
-    "Observações ": "Bom",
-    "Unnamed: 19": null
+    "Observações": "Bom",
+    "Fazenda": "33302"
   },
   {
     "ID": "4018224",
@@ -57430,10 +52438,8 @@ window.QUALIDADE_MUDA_DATA = [
     "Frente": "135 - FRENTE PEDRINHO",
     "Responsável": "284860  - Juliana Aparecida Ferreira De Freitas",
     "Qualidade da Muda": "BOM",
-    "Observações": null,
-    "Fazenda": "70426",
-    "Observações ": "Bom",
-    "Unnamed: 19": null
+    "Observações": "Bom",
+    "Fazenda": "70426"
   },
   {
     "ID": "4018221",
@@ -57453,10 +52459,8 @@ window.QUALIDADE_MUDA_DATA = [
     "Frente": "135 - FRENTE PEDRINHO",
     "Responsável": "284860  - Juliana Aparecida Ferreira De Freitas",
     "Qualidade da Muda": "BOM",
-    "Observações": null,
-    "Fazenda": "70426",
-    "Observações ": "Bom",
-    "Unnamed: 19": null
+    "Observações": "Bom",
+    "Fazenda": "70426"
   },
   {
     "ID": "4018218",
@@ -57476,10 +52480,8 @@ window.QUALIDADE_MUDA_DATA = [
     "Frente": "135 - FRENTE PEDRINHO",
     "Responsável": "284860  - Juliana Aparecida Ferreira De Freitas",
     "Qualidade da Muda": "BOM",
-    "Observações": null,
-    "Fazenda": "70426",
-    "Observações ": "Boa qualidade de muda ",
-    "Unnamed: 19": null
+    "Observações": "Boa qualidade de muda ",
+    "Fazenda": "70426"
   },
   {
     "ID": "4018214",
@@ -57499,10 +52501,8 @@ window.QUALIDADE_MUDA_DATA = [
     "Frente": "135 - FRENTE PEDRINHO",
     "Responsável": "284860  - Juliana Aparecida Ferreira De Freitas",
     "Qualidade da Muda": "BOM",
-    "Observações": null,
-    "Fazenda": "70426",
-    "Observações ": "Bom",
-    "Unnamed: 19": null
+    "Observações": "Bom",
+    "Fazenda": "70426"
   },
   {
     "ID": "4018210",
@@ -57522,10 +52522,8 @@ window.QUALIDADE_MUDA_DATA = [
     "Frente": "135 - FRENTE PEDRINHO",
     "Responsável": "284860  - Juliana Aparecida Ferreira De Freitas",
     "Qualidade da Muda": "BOM",
-    "Observações": null,
-    "Fazenda": "70426",
-    "Observações ": "Achado 4 brocas ",
-    "Unnamed: 19": null
+    "Observações": "Achado 4 brocas ",
+    "Fazenda": "70426"
   },
   {
     "ID": "4018206",
@@ -57545,10 +52543,8 @@ window.QUALIDADE_MUDA_DATA = [
     "Frente": "135 - FRENTE PEDRINHO",
     "Responsável": "284860  - Juliana Aparecida Ferreira De Freitas",
     "Qualidade da Muda": "BOM",
-    "Observações": null,
-    "Fazenda": "70426",
-    "Observações ": "Bom",
-    "Unnamed: 19": null
+    "Observações": "Bom",
+    "Fazenda": "70426"
   },
   {
     "ID": "4018202",
@@ -57568,10 +52564,8 @@ window.QUALIDADE_MUDA_DATA = [
     "Frente": "135 - FRENTE PEDRINHO",
     "Responsável": "284860  - Juliana Aparecida Ferreira De Freitas",
     "Qualidade da Muda": "BOM",
-    "Observações": null,
-    "Fazenda": "70426",
-    "Observações ": "Achado 5 brocas ",
-    "Unnamed: 19": null
+    "Observações": "Achado 5 brocas ",
+    "Fazenda": "70426"
   },
   {
     "ID": "4018198",
@@ -57591,10 +52585,8 @@ window.QUALIDADE_MUDA_DATA = [
     "Frente": "135 - FRENTE PEDRINHO",
     "Responsável": "284860  - Juliana Aparecida Ferreira De Freitas",
     "Qualidade da Muda": "BOM",
-    "Observações": null,
-    "Fazenda": "70426",
-    "Observações ": "Achado 3 brocas ",
-    "Unnamed: 19": null
+    "Observações": "Achado 3 brocas ",
+    "Fazenda": "70426"
   },
   {
     "ID": "4018194",
@@ -57614,10 +52606,8 @@ window.QUALIDADE_MUDA_DATA = [
     "Frente": "135 - FRENTE PEDRINHO",
     "Responsável": "284860  - Juliana Aparecida Ferreira De Freitas",
     "Qualidade da Muda": "BOM",
-    "Observações": null,
-    "Fazenda": "70426",
-    "Observações ": "Bom",
-    "Unnamed: 19": null
+    "Observações": "Bom",
+    "Fazenda": "70426"
   },
   {
     "ID": "4018190",
@@ -57637,10 +52627,8 @@ window.QUALIDADE_MUDA_DATA = [
     "Frente": "135 - FRENTE PEDRINHO",
     "Responsável": "284860  - Juliana Aparecida Ferreira De Freitas",
     "Qualidade da Muda": "BOM",
-    "Observações": null,
-    "Fazenda": "70426",
-    "Observações ": "Bom dia não teve aferição de torta e adubo pq os tratores não estão na área ",
-    "Unnamed: 19": null
+    "Observações": "Bom dia não teve aferição de torta e adubo pq os tratores não estão na área ",
+    "Fazenda": "70426"
   },
   {
     "ID": "4018186",
@@ -57660,10 +52648,8 @@ window.QUALIDADE_MUDA_DATA = [
     "Frente": "135 - FRENTE PEDRINHO",
     "Responsável": "284860  - Juliana Aparecida Ferreira De Freitas",
     "Qualidade da Muda": "BOM",
-    "Observações": null,
-    "Fazenda": "70426",
-    "Observações ": "Bom",
-    "Unnamed: 19": null
+    "Observações": "Bom",
+    "Fazenda": "70426"
   },
   {
     "ID": "4018182",
@@ -57683,10 +52669,8 @@ window.QUALIDADE_MUDA_DATA = [
     "Frente": "135 - FRENTE PEDRINHO",
     "Responsável": "284860  - Juliana Aparecida Ferreira De Freitas",
     "Qualidade da Muda": "BOM",
-    "Observações": null,
-    "Fazenda": "70426",
-    "Observações ": "Achado 4 brocas ",
-    "Unnamed: 19": null
+    "Observações": "Achado 4 brocas ",
+    "Fazenda": "70426"
   },
   {
     "ID": "4013472",
@@ -57706,10 +52690,8 @@ window.QUALIDADE_MUDA_DATA = [
     "Frente": "135 - FRENTE PEDRINHO",
     "Responsável": "284860  - Juliana Aparecida Ferreira De Freitas",
     "Qualidade da Muda": "BOM",
-    "Observações": null,
-    "Fazenda": "70301",
-    "Observações ": "Bom",
-    "Unnamed: 19": null
+    "Observações": "Bom",
+    "Fazenda": "70301"
   },
   {
     "ID": "4013468",
@@ -57729,10 +52711,8 @@ window.QUALIDADE_MUDA_DATA = [
     "Frente": "135 - FRENTE PEDRINHO",
     "Responsável": "284860  - Juliana Aparecida Ferreira De Freitas",
     "Qualidade da Muda": "BOM",
-    "Observações": null,
-    "Fazenda": "70301",
-    "Observações ": "Bom",
-    "Unnamed: 19": null
+    "Observações": "Bom",
+    "Fazenda": "70301"
   },
   {
     "ID": "4013463",
@@ -57752,10 +52732,8 @@ window.QUALIDADE_MUDA_DATA = [
     "Frente": "135 - FRENTE PEDRINHO",
     "Responsável": "284860  - Juliana Aparecida Ferreira De Freitas",
     "Qualidade da Muda": "BOM",
-    "Observações": null,
-    "Fazenda": "70301",
-    "Observações ": "Bom",
-    "Unnamed: 19": null
+    "Observações": "Bom",
+    "Fazenda": "70301"
   },
   {
     "ID": "4013459",
@@ -57775,10 +52753,8 @@ window.QUALIDADE_MUDA_DATA = [
     "Frente": "135 - FRENTE PEDRINHO",
     "Responsável": "284860  - Juliana Aparecida Ferreira De Freitas",
     "Qualidade da Muda": "BOM",
-    "Observações": null,
-    "Fazenda": "70301",
-    "Observações ": "Bom",
-    "Unnamed: 19": null
+    "Observações": "Bom",
+    "Fazenda": "70301"
   },
   {
     "ID": "4013455",
@@ -57798,10 +52774,8 @@ window.QUALIDADE_MUDA_DATA = [
     "Frente": "135 - FRENTE PEDRINHO",
     "Responsável": "284860  - Juliana Aparecida Ferreira De Freitas",
     "Qualidade da Muda": "BOM",
-    "Observações": null,
-    "Fazenda": "70301",
-    "Observações ": "Achado 4 brocas ",
-    "Unnamed: 19": null
+    "Observações": "Achado 4 brocas ",
+    "Fazenda": "70301"
   },
   {
     "ID": "4013450",
@@ -57821,10 +52795,8 @@ window.QUALIDADE_MUDA_DATA = [
     "Frente": "135 - FRENTE PEDRINHO",
     "Responsável": "284860  - Juliana Aparecida Ferreira De Freitas",
     "Qualidade da Muda": "BOM",
-    "Observações": null,
-    "Fazenda": "70301",
-    "Observações ": "Achado 5 brocas ",
-    "Unnamed: 19": null
+    "Observações": "Achado 5 brocas ",
+    "Fazenda": "70301"
   },
   {
     "ID": "4013446",
@@ -57844,10 +52816,8 @@ window.QUALIDADE_MUDA_DATA = [
     "Frente": "135 - FRENTE PEDRINHO",
     "Responsável": "284860  - Juliana Aparecida Ferreira De Freitas",
     "Qualidade da Muda": "BOM",
-    "Observações": null,
-    "Fazenda": "70301",
-    "Observações ": "Achado 4 brocas ",
-    "Unnamed: 19": null
+    "Observações": "Achado 4 brocas ",
+    "Fazenda": "70301"
   },
   {
     "ID": "4013442",
@@ -57867,10 +52837,8 @@ window.QUALIDADE_MUDA_DATA = [
     "Frente": "135 - FRENTE PEDRINHO",
     "Responsável": "284860  - Juliana Aparecida Ferreira De Freitas",
     "Qualidade da Muda": "BOM",
-    "Observações": null,
-    "Fazenda": "70301",
-    "Observações ": "Bom",
-    "Unnamed: 19": null
+    "Observações": "Bom",
+    "Fazenda": "70301"
   },
   {
     "ID": "4013438",
@@ -57890,10 +52858,8 @@ window.QUALIDADE_MUDA_DATA = [
     "Frente": "135 - FRENTE PEDRINHO",
     "Responsável": "284860  - Juliana Aparecida Ferreira De Freitas",
     "Qualidade da Muda": "BOM",
-    "Observações": null,
-    "Fazenda": "70301",
-    "Observações ": "Achado 3 brocas ",
-    "Unnamed: 19": null
+    "Observações": "Achado 3 brocas ",
+    "Fazenda": "70301"
   },
   {
     "ID": "4013434",
@@ -57913,10 +52879,8 @@ window.QUALIDADE_MUDA_DATA = [
     "Frente": "135 - FRENTE PEDRINHO",
     "Responsável": "284860  - Juliana Aparecida Ferreira De Freitas",
     "Qualidade da Muda": "BOM",
-    "Observações": null,
-    "Fazenda": "70301",
-    "Observações ": "Bom",
-    "Unnamed: 19": null
+    "Observações": "Bom",
+    "Fazenda": "70301"
   },
   {
     "ID": "4013429",
@@ -57936,10 +52900,8 @@ window.QUALIDADE_MUDA_DATA = [
     "Frente": "135 - FRENTE PEDRINHO",
     "Responsável": "284860  - Juliana Aparecida Ferreira De Freitas",
     "Qualidade da Muda": "BOM",
-    "Observações": null,
-    "Fazenda": "70301",
-    "Observações ": "Achado 3 brocas ",
-    "Unnamed: 19": null
+    "Observações": "Achado 3 brocas ",
+    "Fazenda": "70301"
   },
   {
     "ID": "4010646",
@@ -57959,10 +52921,8 @@ window.QUALIDADE_MUDA_DATA = [
     "Frente": "135 - FRENTE PEDRINHO",
     "Responsável": "284860  - Juliana Aparecida Ferreira De Freitas",
     "Qualidade da Muda": "BOM",
-    "Observações": null,
-    "Fazenda": "70301",
-    "Observações ": "Bom",
-    "Unnamed: 19": null
+    "Observações": "Bom",
+    "Fazenda": "70301"
   },
   {
     "ID": "4010639",
@@ -57982,10 +52942,8 @@ window.QUALIDADE_MUDA_DATA = [
     "Frente": "135 - FRENTE PEDRINHO",
     "Responsável": "284860  - Juliana Aparecida Ferreira De Freitas",
     "Qualidade da Muda": "BOM",
-    "Observações": null,
-    "Fazenda": "70301",
-    "Observações ": "Achado 2 brocas ",
-    "Unnamed: 19": null
+    "Observações": "Achado 2 brocas ",
+    "Fazenda": "70301"
   },
   {
     "ID": "4010633",
@@ -58005,10 +52963,8 @@ window.QUALIDADE_MUDA_DATA = [
     "Frente": "135 - FRENTE PEDRINHO",
     "Responsável": "284860  - Juliana Aparecida Ferreira De Freitas",
     "Qualidade da Muda": "BOM",
-    "Observações": null,
-    "Fazenda": "70301",
-    "Observações ": "Bom",
-    "Unnamed: 19": null
+    "Observações": "Bom",
+    "Fazenda": "70301"
   },
   {
     "ID": "4010629",
@@ -58028,10 +52984,8 @@ window.QUALIDADE_MUDA_DATA = [
     "Frente": "135 - FRENTE PEDRINHO",
     "Responsável": "284860  - Juliana Aparecida Ferreira De Freitas",
     "Qualidade da Muda": "BOM",
-    "Observações": null,
-    "Fazenda": "70301",
-    "Observações ": "Bom",
-    "Unnamed: 19": null
+    "Observações": "Bom",
+    "Fazenda": "70301"
   },
   {
     "ID": "4010625",
@@ -58051,10 +53005,8 @@ window.QUALIDADE_MUDA_DATA = [
     "Frente": "135 - FRENTE PEDRINHO",
     "Responsável": "284860  - Juliana Aparecida Ferreira De Freitas",
     "Qualidade da Muda": "BOM",
-    "Observações": null,
-    "Fazenda": "70301",
-    "Observações ": "Achado 5 brocas ",
-    "Unnamed: 19": null
+    "Observações": "Achado 5 brocas ",
+    "Fazenda": "70301"
   },
   {
     "ID": "4010621",
@@ -58074,10 +53026,8 @@ window.QUALIDADE_MUDA_DATA = [
     "Frente": "135 - FRENTE PEDRINHO",
     "Responsável": "284860  - Juliana Aparecida Ferreira De Freitas",
     "Qualidade da Muda": "BOM",
-    "Observações": null,
-    "Fazenda": "70301",
-    "Observações ": "Achado 4 brocas ",
-    "Unnamed: 19": null
+    "Observações": "Achado 4 brocas ",
+    "Fazenda": "70301"
   },
   {
     "ID": "4010617",
@@ -58097,10 +53047,8 @@ window.QUALIDADE_MUDA_DATA = [
     "Frente": "135 - FRENTE PEDRINHO",
     "Responsável": "284860  - Juliana Aparecida Ferreira De Freitas",
     "Qualidade da Muda": "BOM",
-    "Observações": null,
-    "Fazenda": "70301",
-    "Observações ": "Bom",
-    "Unnamed: 19": null
+    "Observações": "Bom",
+    "Fazenda": "70301"
   },
   {
     "ID": "4010613",
@@ -58120,10 +53068,8 @@ window.QUALIDADE_MUDA_DATA = [
     "Frente": "135 - FRENTE PEDRINHO",
     "Responsável": "284860  - Juliana Aparecida Ferreira De Freitas",
     "Qualidade da Muda": "BOM",
-    "Observações": null,
-    "Fazenda": "70301",
-    "Observações ": "Bom",
-    "Unnamed: 19": null
+    "Observações": "Bom",
+    "Fazenda": "70301"
   },
   {
     "ID": "4006544",
@@ -58143,10 +53089,8 @@ window.QUALIDADE_MUDA_DATA = [
     "Frente": "135 - FRENTE PEDRINHO",
     "Responsável": "284860  - Juliana Aparecida Ferreira De Freitas",
     "Qualidade da Muda": "BOM",
-    "Observações": null,
-    "Fazenda": "70431",
-    "Observações ": "Bom",
-    "Unnamed: 19": null
+    "Observações": "Bom",
+    "Fazenda": "70431"
   },
   {
     "ID": "4006540",
@@ -58166,10 +53110,8 @@ window.QUALIDADE_MUDA_DATA = [
     "Frente": "135 - FRENTE PEDRINHO",
     "Responsável": "284860  - Juliana Aparecida Ferreira De Freitas",
     "Qualidade da Muda": "BOM",
-    "Observações": null,
-    "Fazenda": "70431",
-    "Observações ": "Achado 5 brocas ",
-    "Unnamed: 19": null
+    "Observações": "Achado 5 brocas ",
+    "Fazenda": "70431"
   },
   {
     "ID": "4006536",
@@ -58189,10 +53131,8 @@ window.QUALIDADE_MUDA_DATA = [
     "Frente": "135 - FRENTE PEDRINHO",
     "Responsável": "284860  - Juliana Aparecida Ferreira De Freitas",
     "Qualidade da Muda": "BOM",
-    "Observações": null,
-    "Fazenda": "70431",
-    "Observações ": "Achado 2 brocas ",
-    "Unnamed: 19": null
+    "Observações": "Achado 2 brocas ",
+    "Fazenda": "70431"
   },
   {
     "ID": "4006520",
@@ -58212,10 +53152,8 @@ window.QUALIDADE_MUDA_DATA = [
     "Frente": "135 - FRENTE PEDRINHO",
     "Responsável": "284860  - Juliana Aparecida Ferreira De Freitas",
     "Qualidade da Muda": "BOM",
-    "Observações": null,
-    "Fazenda": "70431",
-    "Observações ": "Achado 4  brocas ",
-    "Unnamed: 19": null
+    "Observações": "Achado 4  brocas ",
+    "Fazenda": "70431"
   },
   {
     "ID": "4006516",
@@ -58235,10 +53173,8 @@ window.QUALIDADE_MUDA_DATA = [
     "Frente": "135 - FRENTE PEDRINHO",
     "Responsável": "284860  - Juliana Aparecida Ferreira De Freitas",
     "Qualidade da Muda": "BOM",
-    "Observações": null,
-    "Fazenda": "70431",
-    "Observações ": "Bom",
-    "Unnamed: 19": null
+    "Observações": "Bom",
+    "Fazenda": "70431"
   },
   {
     "ID": "4006512",
@@ -58258,10 +53194,8 @@ window.QUALIDADE_MUDA_DATA = [
     "Frente": "135 - FRENTE PEDRINHO",
     "Responsável": "284860  - Juliana Aparecida Ferreira De Freitas",
     "Qualidade da Muda": "BOM",
-    "Observações": null,
-    "Fazenda": "70431",
-    "Observações ": "Achado 3 brocas ",
-    "Unnamed: 19": null
+    "Observações": "Achado 3 brocas ",
+    "Fazenda": "70431"
   },
   {
     "ID": "4006508",
@@ -58281,10 +53215,8 @@ window.QUALIDADE_MUDA_DATA = [
     "Frente": "135 - FRENTE PEDRINHO",
     "Responsável": "284860  - Juliana Aparecida Ferreira De Freitas",
     "Qualidade da Muda": "BOM",
-    "Observações": null,
-    "Fazenda": "70431",
-    "Observações ": "Achado 2 brocas ",
-    "Unnamed: 19": null
+    "Observações": "Achado 2 brocas ",
+    "Fazenda": "70431"
   },
   {
     "ID": "4006246",
@@ -58304,10 +53236,8 @@ window.QUALIDADE_MUDA_DATA = [
     "Frente": "135 - FRENTE PEDRINHO",
     "Responsável": "REGINALDO DA SILVA GOMES ",
     "Qualidade da Muda": "BOM",
-    "Observações": null,
-    "Fazenda": "70431",
-    "Observações ": ".",
-    "Unnamed: 19": null
+    "Observações": ".",
+    "Fazenda": "70431"
   },
   {
     "ID": "4006504",
@@ -58327,10 +53257,8 @@ window.QUALIDADE_MUDA_DATA = [
     "Frente": "135 - FRENTE PEDRINHO",
     "Responsável": "284860  - Juliana Aparecida Ferreira De Freitas",
     "Qualidade da Muda": "BOM",
-    "Observações": null,
-    "Fazenda": "70431",
-    "Observações ": "Achado 4 brocas ",
-    "Unnamed: 19": null
+    "Observações": "Achado 4 brocas ",
+    "Fazenda": "70431"
   },
   {
     "ID": "4006500",
@@ -58350,10 +53278,8 @@ window.QUALIDADE_MUDA_DATA = [
     "Frente": "135 - FRENTE PEDRINHO",
     "Responsável": "284860  - Juliana Aparecida Ferreira De Freitas",
     "Qualidade da Muda": "BOM",
-    "Observações": null,
-    "Fazenda": "70431",
-    "Observações ": "Bom",
-    "Unnamed: 19": null
+    "Observações": "Bom",
+    "Fazenda": "70431"
   },
   {
     "ID": "4006242",
@@ -58373,10 +53299,8 @@ window.QUALIDADE_MUDA_DATA = [
     "Frente": "135 - FRENTE PEDRINHO",
     "Responsável": "REGINALDO DA SILVA GOMES ",
     "Qualidade da Muda": "RUIM",
-    "Observações": null,
-    "Fazenda": "70431",
-    "Observações ": ".",
-    "Unnamed: 19": null
+    "Observações": ".",
+    "Fazenda": "70431"
   },
   {
     "ID": "4006496",
@@ -58396,10 +53320,8 @@ window.QUALIDADE_MUDA_DATA = [
     "Frente": "135 - FRENTE PEDRINHO",
     "Responsável": "284860  - Juliana Aparecida Ferreira De Freitas",
     "Qualidade da Muda": "BOM",
-    "Observações": null,
-    "Fazenda": "70431",
-    "Observações ": "Achado 3 brocas ",
-    "Unnamed: 19": null
+    "Observações": "Achado 3 brocas ",
+    "Fazenda": "70431"
   },
   {
     "ID": "4006492",
@@ -58419,10 +53341,8 @@ window.QUALIDADE_MUDA_DATA = [
     "Frente": "135 - FRENTE PEDRINHO",
     "Responsável": "284860  - Juliana Aparecida Ferreira De Freitas",
     "Qualidade da Muda": "BOM",
-    "Observações": null,
-    "Fazenda": "70431",
-    "Observações ": "Bom",
-    "Unnamed: 19": null
+    "Observações": "Bom",
+    "Fazenda": "70431"
   },
   {
     "ID": "4006238",
@@ -58442,10 +53362,8 @@ window.QUALIDADE_MUDA_DATA = [
     "Frente": "135 - FRENTE PEDRINHO",
     "Responsável": "REGINALDO DA SILVA GOMES ",
     "Qualidade da Muda": "RUIM",
-    "Observações": null,
-    "Fazenda": "70431",
-    "Observações ": ".",
-    "Unnamed: 19": null
+    "Observações": ".",
+    "Fazenda": "70431"
   },
   {
     "ID": "4006486",
@@ -58465,10 +53383,8 @@ window.QUALIDADE_MUDA_DATA = [
     "Frente": "135 - FRENTE PEDRINHO",
     "Responsável": "284860  - Juliana Aparecida Ferreira De Freitas",
     "Qualidade da Muda": "BOM",
-    "Observações": null,
-    "Fazenda": "70431",
-    "Observações ": "Bom",
-    "Unnamed: 19": null
+    "Observações": "Bom",
+    "Fazenda": "70431"
   },
   {
     "ID": "4004106",
@@ -58488,10 +53404,8 @@ window.QUALIDADE_MUDA_DATA = [
     "Frente": "135 - FRENTE PEDRINHO",
     "Responsável": "285410",
     "Qualidade da Muda": "BOM",
-    "Observações": null,
-    "Fazenda": "70431",
-    "Observações ": "Achado 5 brocas ",
-    "Unnamed: 19": null
+    "Observações": "Achado 5 brocas ",
+    "Fazenda": "70431"
   },
   {
     "ID": "4004103",
@@ -58511,10 +53425,8 @@ window.QUALIDADE_MUDA_DATA = [
     "Frente": "135 - FRENTE PEDRINHO",
     "Responsável": "285410",
     "Qualidade da Muda": "BOM",
-    "Observações": null,
-    "Fazenda": "70431",
-    "Observações ": "Achado 2 broca",
-    "Unnamed: 19": null
+    "Observações": "Achado 2 broca",
+    "Fazenda": "70431"
   },
   {
     "ID": "4004099",
@@ -58534,10 +53446,8 @@ window.QUALIDADE_MUDA_DATA = [
     "Frente": "135 - FRENTE PEDRINHO",
     "Responsável": "285410",
     "Qualidade da Muda": "BOM",
-    "Observações": null,
-    "Fazenda": "70431",
-    "Observações ": "Achado 4 broca ",
-    "Unnamed: 19": null
+    "Observações": "Achado 4 broca ",
+    "Fazenda": "70431"
   },
   {
     "ID": "4004084",
@@ -58557,10 +53467,8 @@ window.QUALIDADE_MUDA_DATA = [
     "Frente": "135 - FRENTE PEDRINHO",
     "Responsável": "285410",
     "Qualidade da Muda": "BOM",
-    "Observações": null,
-    "Fazenda": "70431",
-    "Observações ": "Achado 5 brocas ",
-    "Unnamed: 19": null
+    "Observações": "Achado 5 brocas ",
+    "Fazenda": "70431"
   },
   {
     "ID": "4004080",
@@ -58580,10 +53488,8 @@ window.QUALIDADE_MUDA_DATA = [
     "Frente": "135 - FRENTE PEDRINHO",
     "Responsável": "285410",
     "Qualidade da Muda": "BOM",
-    "Observações": null,
-    "Fazenda": "70431",
-    "Observações ": "Bom",
-    "Unnamed: 19": null
+    "Observações": "Bom",
+    "Fazenda": "70431"
   },
   {
     "ID": "4004076",
@@ -58603,10 +53509,8 @@ window.QUALIDADE_MUDA_DATA = [
     "Frente": "135 - FRENTE PEDRINHO",
     "Responsável": "285410",
     "Qualidade da Muda": "BOM",
-    "Observações": null,
-    "Fazenda": "70431",
-    "Observações ": "Bom",
-    "Unnamed: 19": null
+    "Observações": "Bom",
+    "Fazenda": "70431"
   },
   {
     "ID": "4004070",
@@ -58626,10 +53530,8 @@ window.QUALIDADE_MUDA_DATA = [
     "Frente": "135 - FRENTE PEDRINHO",
     "Responsável": "285410",
     "Qualidade da Muda": "BOM",
-    "Observações": null,
-    "Fazenda": "70431",
-    "Observações ": "Bom",
-    "Unnamed: 19": null
+    "Observações": "Bom",
+    "Fazenda": "70431"
   },
   {
     "ID": "4004066",
@@ -58649,10 +53551,8 @@ window.QUALIDADE_MUDA_DATA = [
     "Frente": "135 - FRENTE PEDRINHO",
     "Responsável": "285410",
     "Qualidade da Muda": "BOM",
-    "Observações": null,
-    "Fazenda": "70431",
-    "Observações ": "Bom",
-    "Unnamed: 19": null
+    "Observações": "Bom",
+    "Fazenda": "70431"
   },
   {
     "ID": "4004062",
@@ -58672,10 +53572,8 @@ window.QUALIDADE_MUDA_DATA = [
     "Frente": "135 - FRENTE PEDRINHO",
     "Responsável": "285410",
     "Qualidade da Muda": "BOM",
-    "Observações": null,
-    "Fazenda": "70431",
-    "Observações ": "Bom",
-    "Unnamed: 19": null
+    "Observações": "Bom",
+    "Fazenda": "70431"
   },
   {
     "ID": "4004058",
@@ -58695,10 +53593,8 @@ window.QUALIDADE_MUDA_DATA = [
     "Frente": "135 - FRENTE PEDRINHO",
     "Responsável": "285410",
     "Qualidade da Muda": "BOM",
-    "Observações": null,
-    "Fazenda": "70431",
-    "Observações ": "Bom",
-    "Unnamed: 19": null
+    "Observações": "Bom",
+    "Fazenda": "70431"
   },
   {
     "ID": "3998482",
@@ -58718,10 +53614,8 @@ window.QUALIDADE_MUDA_DATA = [
     "Frente": "135 - FRENTE PEDRINHO",
     "Responsável": "284860  - Juliana Aparecida Ferreira De Freitas",
     "Qualidade da Muda": "BOM",
-    "Observações": null,
-    "Fazenda": "199802",
-    "Observações ": "Bom",
-    "Unnamed: 19": null
+    "Observações": "Bom",
+    "Fazenda": "199802"
   },
   {
     "ID": "3998478",
@@ -58741,10 +53635,8 @@ window.QUALIDADE_MUDA_DATA = [
     "Frente": "135 - FRENTE PEDRINHO",
     "Responsável": "284860  - Juliana Aparecida Ferreira De Freitas",
     "Qualidade da Muda": "BOM",
-    "Observações": null,
-    "Fazenda": "199802",
-    "Observações ": "Bom",
-    "Unnamed: 19": null
+    "Observações": "Bom",
+    "Fazenda": "199802"
   },
   {
     "ID": "3998473",
@@ -58764,10 +53656,8 @@ window.QUALIDADE_MUDA_DATA = [
     "Frente": "135 - FRENTE PEDRINHO",
     "Responsável": "284860  - Juliana Aparecida Ferreira De Freitas",
     "Qualidade da Muda": "BOM",
-    "Observações": null,
-    "Fazenda": "199802",
-    "Observações ": "Bom",
-    "Unnamed: 19": null
+    "Observações": "Bom",
+    "Fazenda": "199802"
   },
   {
     "ID": "3998469",
@@ -58787,10 +53677,8 @@ window.QUALIDADE_MUDA_DATA = [
     "Frente": "135 - FRENTE PEDRINHO",
     "Responsável": "284860  - Juliana Aparecida Ferreira De Freitas",
     "Qualidade da Muda": "BOM",
-    "Observações": null,
-    "Fazenda": "199802",
-    "Observações ": "Bom",
-    "Unnamed: 19": null
+    "Observações": "Bom",
+    "Fazenda": "199802"
   },
   {
     "ID": "3998465",
@@ -58810,10 +53698,8 @@ window.QUALIDADE_MUDA_DATA = [
     "Frente": "135 - FRENTE PEDRINHO",
     "Responsável": "284860  - Juliana Aparecida Ferreira De Freitas",
     "Qualidade da Muda": "BOM",
-    "Observações": null,
-    "Fazenda": "199802",
-    "Observações ": "Bom",
-    "Unnamed: 19": null
+    "Observações": "Bom",
+    "Fazenda": "199802"
   },
   {
     "ID": "3998462",
@@ -58833,10 +53719,8 @@ window.QUALIDADE_MUDA_DATA = [
     "Frente": "135 - FRENTE PEDRINHO",
     "Responsável": "284860  - Juliana Aparecida Ferreira De Freitas",
     "Qualidade da Muda": "BOM",
-    "Observações": null,
-    "Fazenda": "199802",
-    "Observações ": "Bom",
-    "Unnamed: 19": null
+    "Observações": "Bom",
+    "Fazenda": "199802"
   },
   {
     "ID": "3998458",
@@ -58856,10 +53740,8 @@ window.QUALIDADE_MUDA_DATA = [
     "Frente": "135 - FRENTE PEDRINHO",
     "Responsável": "284860  - Juliana Aparecida Ferreira De Freitas",
     "Qualidade da Muda": "BOM",
-    "Observações": null,
-    "Fazenda": "199802",
-    "Observações ": "Bom",
-    "Unnamed: 19": null
+    "Observações": "Bom",
+    "Fazenda": "199802"
   },
   {
     "ID": "3998453",
@@ -58879,10 +53761,8 @@ window.QUALIDADE_MUDA_DATA = [
     "Frente": "135 - FRENTE PEDRINHO",
     "Responsável": "284860  - Juliana Aparecida Ferreira De Freitas",
     "Qualidade da Muda": "BOM",
-    "Observações": null,
-    "Fazenda": "199802",
-    "Observações ": "Bom",
-    "Unnamed: 19": null
+    "Observações": "Bom",
+    "Fazenda": "199802"
   },
   {
     "ID": "3949207",
@@ -58902,10 +53782,8 @@ window.QUALIDADE_MUDA_DATA = [
     "Frente": "135 - FRENTE PEDRINHO",
     "Responsável": "MABILA HELEN D FIGUEIREDO",
     "Qualidade da Muda": "BOM",
-    "Observações": null,
-    "Fazenda": "36813",
-    "Observações ": "Boa ",
-    "Unnamed: 19": null
+    "Observações": "Boa ",
+    "Fazenda": "36813"
   },
   {
     "ID": "3949202",
@@ -58925,10 +53803,8 @@ window.QUALIDADE_MUDA_DATA = [
     "Frente": "135 - FRENTE PEDRINHO",
     "Responsável": "MABILA HELEN D FIGUEIREDO",
     "Qualidade da Muda": "BOM",
-    "Observações": null,
-    "Fazenda": "36813",
-    "Observações ": "Boa",
-    "Unnamed: 19": null
+    "Observações": "Boa",
+    "Fazenda": "36813"
   },
   {
     "ID": "3949197",
@@ -58948,10 +53824,8 @@ window.QUALIDADE_MUDA_DATA = [
     "Frente": "135 - FRENTE PEDRINHO",
     "Responsável": "MABILA HELEN D FIGUEIREDO",
     "Qualidade da Muda": "BOM",
-    "Observações": null,
-    "Fazenda": "36813",
-    "Observações ": "Boa",
-    "Unnamed: 19": null
+    "Observações": "Boa",
+    "Fazenda": "36813"
   },
   {
     "ID": "3949192",
@@ -58971,10 +53845,8 @@ window.QUALIDADE_MUDA_DATA = [
     "Frente": "135 - FRENTE PEDRINHO",
     "Responsável": "MABILA HELEN D FIGUEIREDO",
     "Qualidade da Muda": "BOM",
-    "Observações": null,
-    "Fazenda": "36813",
-    "Observações ": "Boa",
-    "Unnamed: 19": null
+    "Observações": "Boa",
+    "Fazenda": "36813"
   },
   {
     "ID": "3949189",
@@ -58994,10 +53866,8 @@ window.QUALIDADE_MUDA_DATA = [
     "Frente": "135 - FRENTE PEDRINHO",
     "Responsável": "MABILA HELEN D FIGUEIREDO",
     "Qualidade da Muda": "BOM",
-    "Observações": null,
-    "Fazenda": "36813",
-    "Observações ": "Boa",
-    "Unnamed: 19": null
+    "Observações": "Boa",
+    "Fazenda": "36813"
   },
   {
     "ID": "3949186",
@@ -59017,10 +53887,8 @@ window.QUALIDADE_MUDA_DATA = [
     "Frente": "135 - FRENTE PEDRINHO",
     "Responsável": "MABILA HELEN D FIGUEIREDO",
     "Qualidade da Muda": "BOM",
-    "Observações": null,
-    "Fazenda": "36813",
-    "Observações ": "Boa",
-    "Unnamed: 19": null
+    "Observações": "Boa",
+    "Fazenda": "36813"
   },
   {
     "ID": "3946371",
@@ -59040,10 +53908,8 @@ window.QUALIDADE_MUDA_DATA = [
     "Frente": "135 - FRENTE PEDRINHO",
     "Responsável": "MABILA HELEN D FIGUEIREDO",
     "Qualidade da Muda": "BOM",
-    "Observações": null,
-    "Fazenda": "151901",
-    "Observações ": "Boa",
-    "Unnamed: 19": null
+    "Observações": "Boa",
+    "Fazenda": "151901"
   },
   {
     "ID": "3946367",
@@ -59063,10 +53929,8 @@ window.QUALIDADE_MUDA_DATA = [
     "Frente": "135 - FRENTE PEDRINHO",
     "Responsável": "MABILA HELEN D FIGUEIREDO",
     "Qualidade da Muda": "BOM",
-    "Observações": null,
-    "Fazenda": "151901",
-    "Observações ": "Boa",
-    "Unnamed: 19": null
+    "Observações": "Boa",
+    "Fazenda": "151901"
   },
   {
     "ID": "3946360",
@@ -59086,10 +53950,8 @@ window.QUALIDADE_MUDA_DATA = [
     "Frente": "135 - FRENTE PEDRINHO",
     "Responsável": "MABILA HELEN D FIGUEIREDO",
     "Qualidade da Muda": "BOM",
-    "Observações": null,
-    "Fazenda": "151901",
-    "Observações ": "Boa ",
-    "Unnamed: 19": null
+    "Observações": "Boa ",
+    "Fazenda": "151901"
   },
   {
     "ID": "3946355",
@@ -59109,10 +53971,8 @@ window.QUALIDADE_MUDA_DATA = [
     "Frente": "135 - FRENTE PEDRINHO",
     "Responsável": "MABILA HELEN D FIGUEIREDO",
     "Qualidade da Muda": "BOM",
-    "Observações": null,
-    "Fazenda": "151901",
-    "Observações ": "Boa",
-    "Unnamed: 19": null
+    "Observações": "Boa",
+    "Fazenda": "151901"
   },
   {
     "ID": "3942438",
@@ -59132,10 +53992,8 @@ window.QUALIDADE_MUDA_DATA = [
     "Frente": "135 - FRENTE PEDRINHO",
     "Responsável": "MABILA HELEN D FIGUEIREDO",
     "Qualidade da Muda": "BOM",
-    "Observações": null,
-    "Fazenda": "151901",
-    "Observações ": "Boa",
-    "Unnamed: 19": null
+    "Observações": "Boa",
+    "Fazenda": "151901"
   },
   {
     "ID": "3942433",
@@ -59155,10 +54013,8 @@ window.QUALIDADE_MUDA_DATA = [
     "Frente": "135 - FRENTE PEDRINHO",
     "Responsável": "MABILA HELEN D FIGUEIREDO",
     "Qualidade da Muda": "BOM",
-    "Observações": null,
-    "Fazenda": "151901",
-    "Observações ": "Boa ",
-    "Unnamed: 19": null
+    "Observações": "Boa ",
+    "Fazenda": "151901"
   },
   {
     "ID": "3942426",
@@ -59178,10 +54034,8 @@ window.QUALIDADE_MUDA_DATA = [
     "Frente": "135 - FRENTE PEDRINHO",
     "Responsável": "MABILA HELEN D FIGUEIREDO",
     "Qualidade da Muda": "BOM",
-    "Observações": null,
-    "Fazenda": "151901",
-    "Observações ": "Boa",
-    "Unnamed: 19": null
+    "Observações": "Boa",
+    "Fazenda": "151901"
   },
   {
     "ID": "3942413",
@@ -59201,10 +54055,8 @@ window.QUALIDADE_MUDA_DATA = [
     "Frente": "135 - FRENTE PEDRINHO",
     "Responsável": "MABILA HELEN D FIGUEIREDO",
     "Qualidade da Muda": "BOM",
-    "Observações": null,
-    "Fazenda": "151901",
-    "Observações ": "Boa",
-    "Unnamed: 19": null
+    "Observações": "Boa",
+    "Fazenda": "151901"
   },
   {
     "ID": "3942400",
@@ -59224,10 +54076,8 @@ window.QUALIDADE_MUDA_DATA = [
     "Frente": "135 - FRENTE PEDRINHO",
     "Responsável": "MABILA HELEN D FIGUEIREDO",
     "Qualidade da Muda": "BOM",
-    "Observações": null,
-    "Fazenda": "151901",
-    "Observações ": "Bom",
-    "Unnamed: 19": null
+    "Observações": "Bom",
+    "Fazenda": "151901"
   },
   {
     "ID": "3942396",
@@ -59247,10 +54097,8 @@ window.QUALIDADE_MUDA_DATA = [
     "Frente": "135 - FRENTE PEDRINHO",
     "Responsável": "MABILA HELEN D FIGUEIREDO",
     "Qualidade da Muda": "BOM",
-    "Observações": null,
-    "Fazenda": "151901",
-    "Observações ": "Bom",
-    "Unnamed: 19": null
+    "Observações": "Bom",
+    "Fazenda": "151901"
   },
   {
     "ID": "3942388",
@@ -59270,10 +54118,8 @@ window.QUALIDADE_MUDA_DATA = [
     "Frente": "135 - FRENTE PEDRINHO",
     "Responsável": "MABILA HELEN D FIGUEIREDO",
     "Qualidade da Muda": "BOM",
-    "Observações": null,
-    "Fazenda": "151901",
-    "Observações ": "Boa",
-    "Unnamed: 19": null
+    "Observações": "Boa",
+    "Fazenda": "151901"
   },
   {
     "ID": "3942382",
@@ -59293,10 +54139,8 @@ window.QUALIDADE_MUDA_DATA = [
     "Frente": "135 - FRENTE PEDRINHO",
     "Responsável": "MABILA HELEN D FIGUEIREDO",
     "Qualidade da Muda": "BOM",
-    "Observações": null,
-    "Fazenda": "151901",
-    "Observações ": "Boa",
-    "Unnamed: 19": null
+    "Observações": "Boa",
+    "Fazenda": "151901"
   },
   {
     "ID": "3941330",
@@ -59316,10 +54160,8 @@ window.QUALIDADE_MUDA_DATA = [
     "Frente": "135 - FRENTE PEDRINHO",
     "Responsável": "MABILA HELEN D FIGUEIREDO",
     "Qualidade da Muda": "BOM",
-    "Observações": null,
-    "Fazenda": "151901",
-    "Observações ": "Bom",
-    "Unnamed: 19": null
+    "Observações": "Bom",
+    "Fazenda": "151901"
   },
   {
     "ID": "3939136",
@@ -59339,10 +54181,8 @@ window.QUALIDADE_MUDA_DATA = [
     "Frente": "135 - FRENTE PEDRINHO",
     "Responsável": "MABILA HELEN D FIGUEIREDO",
     "Qualidade da Muda": "BOM",
-    "Observações": null,
-    "Fazenda": "151901",
-    "Observações ": "Boa",
-    "Unnamed: 19": null
+    "Observações": "Boa",
+    "Fazenda": "151901"
   },
   {
     "ID": "3939364",
@@ -59362,10 +54202,8 @@ window.QUALIDADE_MUDA_DATA = [
     "Frente": "261 - FRENTE PRÓPRIA  (EDMILSON)",
     "Responsável": "VITOR AMORIM RAMOS ",
     "Qualidade da Muda": "BOM",
-    "Observações": null,
-    "Fazenda": "177012",
-    "Observações ": "Boa qualidade ",
-    "Unnamed: 19": null
+    "Observações": "Boa qualidade ",
+    "Fazenda": "177012"
   },
   {
     "ID": "3939131",
@@ -59385,10 +54223,8 @@ window.QUALIDADE_MUDA_DATA = [
     "Frente": "135 - FRENTE PEDRINHO",
     "Responsável": "MABILA HELEN D FIGUEIREDO",
     "Qualidade da Muda": "BOM",
-    "Observações": null,
-    "Fazenda": "151901",
-    "Observações ": "Boa",
-    "Unnamed: 19": null
+    "Observações": "Boa",
+    "Fazenda": "151901"
   },
   {
     "ID": "3939126",
@@ -59408,10 +54244,8 @@ window.QUALIDADE_MUDA_DATA = [
     "Frente": "135 - FRENTE PEDRINHO",
     "Responsável": "MABILA HELEN D FIGUEIREDO",
     "Qualidade da Muda": "BOM",
-    "Observações": null,
-    "Fazenda": "151901",
-    "Observações ": "Boa",
-    "Unnamed: 19": null
+    "Observações": "Boa",
+    "Fazenda": "151901"
   },
   {
     "ID": "3939356",
@@ -59431,10 +54265,8 @@ window.QUALIDADE_MUDA_DATA = [
     "Frente": "261 - FRENTE PRÓPRIA  (EDMILSON)",
     "Responsável": "VITOR AMORIM RAMOS ",
     "Qualidade da Muda": "BOM",
-    "Observações": null,
-    "Fazenda": "177012",
-    "Observações ": "Boa qualidade ",
-    "Unnamed: 19": null
+    "Observações": "Boa qualidade ",
+    "Fazenda": "177012"
   },
   {
     "ID": "3939121",
@@ -59454,10 +54286,8 @@ window.QUALIDADE_MUDA_DATA = [
     "Frente": "135 - FRENTE PEDRINHO",
     "Responsável": "MABILA HELEN D FIGUEIREDO",
     "Qualidade da Muda": "BOM",
-    "Observações": null,
-    "Fazenda": "151901",
-    "Observações ": "Boa",
-    "Unnamed: 19": null
+    "Observações": "Boa",
+    "Fazenda": "151901"
   },
   {
     "ID": "3939116",
@@ -59477,10 +54307,8 @@ window.QUALIDADE_MUDA_DATA = [
     "Frente": "135 - FRENTE PEDRINHO",
     "Responsável": "MABILA HELEN D FIGUEIREDO",
     "Qualidade da Muda": "BOM",
-    "Observações": null,
-    "Fazenda": "151901",
-    "Observações ": "Boa",
-    "Unnamed: 19": null
+    "Observações": "Boa",
+    "Fazenda": "151901"
   },
   {
     "ID": "3939341",
@@ -59500,10 +54328,8 @@ window.QUALIDADE_MUDA_DATA = [
     "Frente": "261 - FRENTE PRÓPRIA  (EDMILSON)",
     "Responsável": "VITOR AMORIM RAMOS ",
     "Qualidade da Muda": "BOM",
-    "Observações": null,
-    "Fazenda": "177012",
-    "Observações ": "Boa qualidade ",
-    "Unnamed: 19": null
+    "Observações": "Boa qualidade ",
+    "Fazenda": "177012"
   },
   {
     "ID": "3939111",
@@ -59523,10 +54349,8 @@ window.QUALIDADE_MUDA_DATA = [
     "Frente": "135 - FRENTE PEDRINHO",
     "Responsável": "MABILA HELEN D FIGUEIREDO",
     "Qualidade da Muda": "BOM",
-    "Observações": null,
-    "Fazenda": "151901",
-    "Observações ": "Boa",
-    "Unnamed: 19": null
+    "Observações": "Boa",
+    "Fazenda": "151901"
   },
   {
     "ID": "3939107",
@@ -59546,10 +54370,8 @@ window.QUALIDADE_MUDA_DATA = [
     "Frente": "135 - FRENTE PEDRINHO",
     "Responsável": "MABILA HELEN D FIGUEIREDO",
     "Qualidade da Muda": "BOM",
-    "Observações": null,
-    "Fazenda": "151901",
-    "Observações ": "Boa",
-    "Unnamed: 19": null
+    "Observações": "Boa",
+    "Fazenda": "151901"
   },
   {
     "ID": "3939448",
@@ -59569,10 +54391,8 @@ window.QUALIDADE_MUDA_DATA = [
     "Frente": "261 - FRENTE PRÓPRIA  (EDMILSON)",
     "Responsável": "VITOR AMORIM RAMOS ",
     "Qualidade da Muda": "BOM",
-    "Observações": null,
-    "Fazenda": "177012",
-    "Observações ": "Qualidade boa ",
-    "Unnamed: 19": null
+    "Observações": "Qualidade boa ",
+    "Fazenda": "177012"
   },
   {
     "ID": "3939099",
@@ -59592,10 +54412,8 @@ window.QUALIDADE_MUDA_DATA = [
     "Frente": "135 - FRENTE PEDRINHO",
     "Responsável": "MABILA HELEN D FIGUEIREDO",
     "Qualidade da Muda": "BOM",
-    "Observações": null,
-    "Fazenda": "151901",
-    "Observações ": "Boa",
-    "Unnamed: 19": null
+    "Observações": "Boa",
+    "Fazenda": "151901"
   },
   {
     "ID": "3938596",
@@ -59615,10 +54433,8 @@ window.QUALIDADE_MUDA_DATA = [
     "Frente": "135 - FRENTE PEDRINHO",
     "Responsável": "REGINALDO DA SILVA GOMES ",
     "Qualidade da Muda": "BOM",
-    "Observações": null,
-    "Fazenda": "151901",
-    "Observações ": ".",
-    "Unnamed: 19": null
+    "Observações": ".",
+    "Fazenda": "151901"
   },
   {
     "ID": "3938589",
@@ -59638,10 +54454,8 @@ window.QUALIDADE_MUDA_DATA = [
     "Frente": "135 - FRENTE PEDRINHO",
     "Responsável": "REGINALDO DA SILVA GOMES ",
     "Qualidade da Muda": "BOM",
-    "Observações": null,
-    "Fazenda": "151901",
-    "Observações ": ".",
-    "Unnamed: 19": null
+    "Observações": ".",
+    "Fazenda": "151901"
   },
   {
     "ID": "3938583",
@@ -59661,10 +54475,8 @@ window.QUALIDADE_MUDA_DATA = [
     "Frente": "135 - FRENTE PEDRINHO",
     "Responsável": "REGINALDO DA SILVA GOMES ",
     "Qualidade da Muda": "BOM",
-    "Observações": null,
-    "Fazenda": "151901",
-    "Observações ": ".",
-    "Unnamed: 19": null
+    "Observações": ".",
+    "Fazenda": "151901"
   },
   {
     "ID": "3938511",
@@ -59684,10 +54496,8 @@ window.QUALIDADE_MUDA_DATA = [
     "Frente": "261 - FRENTE PRÓPRIA  (EDMILSON)",
     "Responsável": "VITOR AMORIM RAMOS ",
     "Qualidade da Muda": "BOM",
-    "Observações": null,
-    "Fazenda": "177012",
-    "Observações ": "Boa qualidade ",
-    "Unnamed: 19": null
+    "Observações": "Boa qualidade ",
+    "Fazenda": "177012"
   },
   {
     "ID": "3936138",
@@ -59707,10 +54517,8 @@ window.QUALIDADE_MUDA_DATA = [
     "Frente": "135 - FRENTE PEDRINHO",
     "Responsável": "VITOR AMORIM RAMOS ",
     "Qualidade da Muda": "BOM",
-    "Observações": null,
-    "Fazenda": "151901",
-    "Observações ": "Qualidade boa porém 6 cana brocada ",
-    "Unnamed: 19": null
+    "Observações": "Qualidade boa porém 6 cana brocada ",
+    "Fazenda": "151901"
   },
   {
     "ID": "3936134",
@@ -59730,10 +54538,8 @@ window.QUALIDADE_MUDA_DATA = [
     "Frente": "135 - FRENTE PEDRINHO",
     "Responsável": "VITOR AMORIM RAMOS ",
     "Qualidade da Muda": "BOM",
-    "Observações": null,
-    "Fazenda": "151901",
-    "Observações ": "Boa qualidade ",
-    "Unnamed: 19": null
+    "Observações": "Boa qualidade ",
+    "Fazenda": "151901"
   },
   {
     "ID": "3936130",
@@ -59753,10 +54559,8 @@ window.QUALIDADE_MUDA_DATA = [
     "Frente": "135 - FRENTE PEDRINHO",
     "Responsável": "VITOR AMORIM RAMOS ",
     "Qualidade da Muda": "BOM",
-    "Observações": null,
-    "Fazenda": "151901",
-    "Observações ": "Boa qualidade ",
-    "Unnamed: 19": null
+    "Observações": "Boa qualidade ",
+    "Fazenda": "151901"
   },
   {
     "ID": "3936124",
@@ -59776,10 +54580,8 @@ window.QUALIDADE_MUDA_DATA = [
     "Frente": "135 - FRENTE PEDRINHO",
     "Responsável": "VITOR AMORIM RAMOS ",
     "Qualidade da Muda": "BOM",
-    "Observações": null,
-    "Fazenda": "151901",
-    "Observações ": "Boa qualidade ",
-    "Unnamed: 19": null
+    "Observações": "Boa qualidade ",
+    "Fazenda": "151901"
   },
   {
     "ID": "3936120",
@@ -59799,10 +54601,8 @@ window.QUALIDADE_MUDA_DATA = [
     "Frente": "135 - FRENTE PEDRINHO",
     "Responsável": "VITOR AMORIM RAMOS ",
     "Qualidade da Muda": "BOM",
-    "Observações": null,
-    "Fazenda": "151901",
-    "Observações ": "Cana com boa qualidade ",
-    "Unnamed: 19": null
+    "Observações": "Cana com boa qualidade ",
+    "Fazenda": "151901"
   },
   {
     "ID": "3936112",
@@ -59822,10 +54622,8 @@ window.QUALIDADE_MUDA_DATA = [
     "Frente": "135 - FRENTE PEDRINHO",
     "Responsável": "VITOR AMORIM RAMOS ",
     "Qualidade da Muda": "BOM",
-    "Observações": null,
-    "Fazenda": "151901",
-    "Observações ": "Boa qualidade ",
-    "Unnamed: 19": null
+    "Observações": "Boa qualidade ",
+    "Fazenda": "151901"
   },
   {
     "ID": "3936109",
@@ -59845,10 +54643,8 @@ window.QUALIDADE_MUDA_DATA = [
     "Frente": "135 - FRENTE PEDRINHO",
     "Responsável": "VITOR AMORIM RAMOS ",
     "Qualidade da Muda": "BOM",
-    "Observações": null,
-    "Fazenda": "151901",
-    "Observações ": "Boa qualidade ",
-    "Unnamed: 19": null
+    "Observações": "Boa qualidade ",
+    "Fazenda": "151901"
   },
   {
     "ID": "3936104",
@@ -59868,10 +54664,8 @@ window.QUALIDADE_MUDA_DATA = [
     "Frente": "135 - FRENTE PEDRINHO",
     "Responsável": "VITOR AMORIM RAMOS ",
     "Qualidade da Muda": "BOM",
-    "Observações": null,
-    "Fazenda": "151901",
-    "Observações ": "Boa  qualidade ",
-    "Unnamed: 19": null
+    "Observações": "Boa  qualidade ",
+    "Fazenda": "151901"
   },
   {
     "ID": "3936084",
@@ -59891,10 +54685,8 @@ window.QUALIDADE_MUDA_DATA = [
     "Frente": "135 - FRENTE PEDRINHO",
     "Responsável": "VITOR AMORIM RAMOS ",
     "Qualidade da Muda": "BOM",
-    "Observações": null,
-    "Fazenda": "151901",
-    "Observações ": "Boa qualidade  porém teve 1 broca ",
-    "Unnamed: 19": null
+    "Observações": "Boa qualidade  porém teve 1 broca ",
+    "Fazenda": "151901"
   },
   {
     "ID": "3936055",
@@ -59914,10 +54706,8 @@ window.QUALIDADE_MUDA_DATA = [
     "Frente": "135 - FRENTE PEDRINHO",
     "Responsável": "VITOR AMORIM RAMOS ",
     "Qualidade da Muda": "BOM",
-    "Observações": null,
-    "Fazenda": "151901",
-    "Observações ": "Boa qualidade ",
-    "Unnamed: 19": null
+    "Observações": "Boa qualidade ",
+    "Fazenda": "151901"
   },
   {
     "ID": "3936043",
@@ -59937,10 +54727,8 @@ window.QUALIDADE_MUDA_DATA = [
     "Frente": "135 - FRENTE PEDRINHO",
     "Responsável": "VITOR AMORIM RAMOS ",
     "Qualidade da Muda": "BOM",
-    "Observações": null,
-    "Fazenda": "151901",
-    "Observações ": "Boa qualidade  porém algumas brocada ",
-    "Unnamed: 19": null
+    "Observações": "Boa qualidade  porém algumas brocada ",
+    "Fazenda": "151901"
   },
   {
     "ID": "3936038",
@@ -59960,10 +54748,8 @@ window.QUALIDADE_MUDA_DATA = [
     "Frente": "135 - FRENTE PEDRINHO",
     "Responsável": "VITOR AMORIM RAMOS ",
     "Qualidade da Muda": "BOM",
-    "Observações": null,
-    "Fazenda": "151901",
-    "Observações ": "Boa qualidade ",
-    "Unnamed: 19": null
+    "Observações": "Boa qualidade ",
+    "Fazenda": "151901"
   },
   {
     "ID": "3936033",
@@ -59983,10 +54769,8 @@ window.QUALIDADE_MUDA_DATA = [
     "Frente": "135 - FRENTE PEDRINHO",
     "Responsável": "VITOR AMORIM RAMOS ",
     "Qualidade da Muda": "BOM",
-    "Observações": null,
-    "Fazenda": "151901",
-    "Observações ": "Cana em boa qualidade ",
-    "Unnamed: 19": null
+    "Observações": "Cana em boa qualidade ",
+    "Fazenda": "151901"
   },
   {
     "ID": "3936029",
@@ -60006,10 +54790,8 @@ window.QUALIDADE_MUDA_DATA = [
     "Frente": "261 - FRENTE PRÓPRIA  (EDMILSON)",
     "Responsável": "VITOR AMORIM RAMOS ",
     "Qualidade da Muda": "BOM",
-    "Observações": null,
-    "Fazenda": "151901",
-    "Observações ": "Cana em boa qualidade ",
-    "Unnamed: 19": null
+    "Observações": "Cana em boa qualidade ",
+    "Fazenda": "151901"
   },
   {
     "ID": "3931256",
@@ -60029,10 +54811,8 @@ window.QUALIDADE_MUDA_DATA = [
     "Frente": "261 - FRENTE PRÓPRIA  (EDMILSON)",
     "Responsável": "VITOR AMORIM RAMOS ",
     "Qualidade da Muda": "BOM",
-    "Observações": null,
-    "Fazenda": "67901",
-    "Observações ": "Qualidade de boa ",
-    "Unnamed: 19": null
+    "Observações": "Qualidade de boa ",
+    "Fazenda": "67901"
   },
   {
     "ID": "3931242",
@@ -60052,10 +54832,8 @@ window.QUALIDADE_MUDA_DATA = [
     "Frente": "261 - FRENTE PRÓPRIA  (EDMILSON)",
     "Responsável": "VITOR AMORIM RAMOS ",
     "Qualidade da Muda": "BOM",
-    "Observações": null,
-    "Fazenda": "67901",
-    "Observações ": "Qualidade está boa",
-    "Unnamed: 19": null
+    "Observações": "Qualidade está boa",
+    "Fazenda": "67901"
   },
   {
     "ID": "3928760",
@@ -60076,9 +54854,7 @@ window.QUALIDADE_MUDA_DATA = [
     "Responsável": "VITOR AMORIM RAMOS ",
     "Qualidade da Muda": "BOM",
     "Observações": null,
-    "Fazenda": "67901",
-    "Observações ": null,
-    "Unnamed: 19": null
+    "Fazenda": "67901"
   },
   {
     "ID": "3928753",
@@ -60099,9 +54875,7 @@ window.QUALIDADE_MUDA_DATA = [
     "Responsável": "VITOR AMORIM RAMOS ",
     "Qualidade da Muda": "BOM",
     "Observações": null,
-    "Fazenda": "67901",
-    "Observações ": null,
-    "Unnamed: 19": null
+    "Fazenda": "67901"
   },
   {
     "ID": "3928750",
@@ -60122,9 +54896,7 @@ window.QUALIDADE_MUDA_DATA = [
     "Responsável": "VITOR AMORIM RAMOS ",
     "Qualidade da Muda": "BOM",
     "Observações": null,
-    "Fazenda": "67901",
-    "Observações ": null,
-    "Unnamed: 19": null
+    "Fazenda": "67901"
   },
   {
     "ID": "3928535",
@@ -60144,10 +54916,8 @@ window.QUALIDADE_MUDA_DATA = [
     "Frente": "135 - FRENTE PEDRINHO",
     "Responsável": "284860  - Juliana Aparecida Ferreira De Freitas",
     "Qualidade da Muda": "BOM",
-    "Observações": null,
-    "Fazenda": "151901",
-    "Observações ": "Bom",
-    "Unnamed: 19": null
+    "Observações": "Bom",
+    "Fazenda": "151901"
   },
   {
     "ID": "3928742",
@@ -60168,9 +54938,7 @@ window.QUALIDADE_MUDA_DATA = [
     "Responsável": "VITOR AMORIM RAMOS ",
     "Qualidade da Muda": "BOM",
     "Observações": null,
-    "Fazenda": "67901",
-    "Observações ": null,
-    "Unnamed: 19": null
+    "Fazenda": "67901"
   },
   {
     "ID": "3928530",
@@ -60190,10 +54958,8 @@ window.QUALIDADE_MUDA_DATA = [
     "Frente": "135 - FRENTE PEDRINHO",
     "Responsável": "284860  - Juliana Aparecida Ferreira De Freitas",
     "Qualidade da Muda": "BOM",
-    "Observações": null,
-    "Fazenda": "151901",
-    "Observações ": "Bom",
-    "Unnamed: 19": null
+    "Observações": "Bom",
+    "Fazenda": "151901"
   },
   {
     "ID": "3928739",
@@ -60214,9 +54980,7 @@ window.QUALIDADE_MUDA_DATA = [
     "Responsável": "VITOR AMORIM RAMOS ",
     "Qualidade da Muda": "BOM",
     "Observações": null,
-    "Fazenda": "67901",
-    "Observações ": null,
-    "Unnamed: 19": null
+    "Fazenda": "67901"
   },
   {
     "ID": "3928525",
@@ -60236,10 +55000,8 @@ window.QUALIDADE_MUDA_DATA = [
     "Frente": "135 - FRENTE PEDRINHO",
     "Responsável": "284860  - Juliana Aparecida Ferreira De Freitas",
     "Qualidade da Muda": "BOM",
-    "Observações": null,
-    "Fazenda": "151901",
-    "Observações ": "Bom",
-    "Unnamed: 19": null
+    "Observações": "Bom",
+    "Fazenda": "151901"
   },
   {
     "ID": "3928735",
@@ -60260,9 +55022,7 @@ window.QUALIDADE_MUDA_DATA = [
     "Responsável": "VITOR AMORIM RAMOS ",
     "Qualidade da Muda": "BOM",
     "Observações": null,
-    "Fazenda": "67901",
-    "Observações ": null,
-    "Unnamed: 19": null
+    "Fazenda": "67901"
   },
   {
     "ID": "3928731",
@@ -60283,9 +55043,7 @@ window.QUALIDADE_MUDA_DATA = [
     "Responsável": "VITOR AMORIM RAMOS ",
     "Qualidade da Muda": "BOM",
     "Observações": null,
-    "Fazenda": "67901",
-    "Observações ": null,
-    "Unnamed: 19": null
+    "Fazenda": "67901"
   },
   {
     "ID": "3928520",
@@ -60305,10 +55063,8 @@ window.QUALIDADE_MUDA_DATA = [
     "Frente": "135 - FRENTE PEDRINHO",
     "Responsável": "284860  - Juliana Aparecida Ferreira De Freitas",
     "Qualidade da Muda": "BOM",
-    "Observações": null,
-    "Fazenda": "151901",
-    "Observações ": "Bom",
-    "Unnamed: 19": null
+    "Observações": "Bom",
+    "Fazenda": "151901"
   },
   {
     "ID": "3928514",
@@ -60328,10 +55084,8 @@ window.QUALIDADE_MUDA_DATA = [
     "Frente": "135 - FRENTE PEDRINHO",
     "Responsável": "284860  - Juliana Aparecida Ferreira De Freitas",
     "Qualidade da Muda": "BOM",
-    "Observações": null,
-    "Fazenda": "151901",
-    "Observações ": "Bom",
-    "Unnamed: 19": null
+    "Observações": "Bom",
+    "Fazenda": "151901"
   },
   {
     "ID": "3928509",
@@ -60351,10 +55105,8 @@ window.QUALIDADE_MUDA_DATA = [
     "Frente": "135 - FRENTE PEDRINHO",
     "Responsável": "284860  - Juliana Aparecida Ferreira De Freitas",
     "Qualidade da Muda": "BOM",
-    "Observações": null,
-    "Fazenda": "151901",
-    "Observações ": "Bom",
-    "Unnamed: 19": null
+    "Observações": "Bom",
+    "Fazenda": "151901"
   },
   {
     "ID": "3928721",
@@ -60375,9 +55127,7 @@ window.QUALIDADE_MUDA_DATA = [
     "Responsável": "VITOR AMORIM RAMOS ",
     "Qualidade da Muda": "BOM",
     "Observações": null,
-    "Fazenda": "67901",
-    "Observações ": null,
-    "Unnamed: 19": null
+    "Fazenda": "67901"
   },
   {
     "ID": "3928718",
@@ -60398,9 +55148,7 @@ window.QUALIDADE_MUDA_DATA = [
     "Responsável": "VITOR AMORIM RAMOS ",
     "Qualidade da Muda": "BOM",
     "Observações": null,
-    "Fazenda": "67901",
-    "Observações ": null,
-    "Unnamed: 19": null
+    "Fazenda": "67901"
   },
   {
     "ID": "3928504",
@@ -60420,10 +55168,8 @@ window.QUALIDADE_MUDA_DATA = [
     "Frente": "135 - FRENTE PEDRINHO",
     "Responsável": "284860  - Juliana Aparecida Ferreira De Freitas",
     "Qualidade da Muda": "BOM",
-    "Observações": null,
-    "Fazenda": "151901",
-    "Observações ": "Bom",
-    "Unnamed: 19": null
+    "Observações": "Bom",
+    "Fazenda": "151901"
   },
   {
     "ID": "3928714",
@@ -60444,9 +55190,7 @@ window.QUALIDADE_MUDA_DATA = [
     "Responsável": "VITOR AMORIM RAMOS ",
     "Qualidade da Muda": "BOM",
     "Observações": null,
-    "Fazenda": "67901",
-    "Observações ": null,
-    "Unnamed: 19": null
+    "Fazenda": "67901"
   },
   {
     "ID": "3928710",
@@ -60467,9 +55211,7 @@ window.QUALIDADE_MUDA_DATA = [
     "Responsável": "VITOR AMORIM RAMOS ",
     "Qualidade da Muda": "BOM",
     "Observações": null,
-    "Fazenda": "67901",
-    "Observações ": null,
-    "Unnamed: 19": null
+    "Fazenda": "67901"
   },
   {
     "ID": "3928498",
@@ -60489,10 +55231,8 @@ window.QUALIDADE_MUDA_DATA = [
     "Frente": "135 - FRENTE PEDRINHO",
     "Responsável": "284860  - Juliana Aparecida Ferreira De Freitas",
     "Qualidade da Muda": "BOM",
-    "Observações": null,
-    "Fazenda": "151901",
-    "Observações ": "Bom",
-    "Unnamed: 19": null
+    "Observações": "Bom",
+    "Fazenda": "151901"
   },
   {
     "ID": "3928978",
@@ -60513,9 +55253,7 @@ window.QUALIDADE_MUDA_DATA = [
     "Responsável": "VITOR AMORIM RAMOS ",
     "Qualidade da Muda": "BOM",
     "Observações": null,
-    "Fazenda": "67901",
-    "Observações ": null,
-    "Unnamed: 19": null
+    "Fazenda": "67901"
   },
   {
     "ID": "3928973",
@@ -60536,9 +55274,7 @@ window.QUALIDADE_MUDA_DATA = [
     "Responsável": "VITOR AMORIM RAMOS ",
     "Qualidade da Muda": "BOM",
     "Observações": null,
-    "Fazenda": "67901",
-    "Observações ": null,
-    "Unnamed: 19": null
+    "Fazenda": "67901"
   },
   {
     "ID": "3928294",
@@ -60559,9 +55295,7 @@ window.QUALIDADE_MUDA_DATA = [
     "Responsável": "VITOR AMORIM RAMOS ",
     "Qualidade da Muda": "BOM",
     "Observações": null,
-    "Fazenda": "67901",
-    "Observações ": null,
-    "Unnamed: 19": null
+    "Fazenda": "67901"
   },
   {
     "ID": "3928289",
@@ -60582,9 +55316,7 @@ window.QUALIDADE_MUDA_DATA = [
     "Responsável": "VITOR AMORIM RAMOS ",
     "Qualidade da Muda": "BOM",
     "Observações": null,
-    "Fazenda": "67901",
-    "Observações ": null,
-    "Unnamed: 19": null
+    "Fazenda": "67901"
   },
   {
     "ID": "3926131",
@@ -60604,10 +55336,8 @@ window.QUALIDADE_MUDA_DATA = [
     "Frente": "135 - FRENTE PEDRINHO",
     "Responsável": "284860  - Juliana Aparecida Ferreira De Freitas",
     "Qualidade da Muda": "BOM",
-    "Observações": null,
-    "Fazenda": "177015",
-    "Observações ": "Bom",
-    "Unnamed: 19": null
+    "Observações": "Bom",
+    "Fazenda": "177015"
   },
   {
     "ID": "3926126",
@@ -60627,10 +55357,8 @@ window.QUALIDADE_MUDA_DATA = [
     "Frente": "135 - FRENTE PEDRINHO",
     "Responsável": "284860  - Juliana Aparecida Ferreira De Freitas",
     "Qualidade da Muda": "BOM",
-    "Observações": null,
-    "Fazenda": "177015",
-    "Observações ": "Bom",
-    "Unnamed: 19": null
+    "Observações": "Bom",
+    "Fazenda": "177015"
   },
   {
     "ID": "3926121",
@@ -60650,10 +55378,8 @@ window.QUALIDADE_MUDA_DATA = [
     "Frente": "135 - FRENTE PEDRINHO",
     "Responsável": "284860  - Juliana Aparecida Ferreira De Freitas",
     "Qualidade da Muda": "BOM",
-    "Observações": null,
-    "Fazenda": "177015",
-    "Observações ": "Bom",
-    "Unnamed: 19": null
+    "Observações": "Bom",
+    "Fazenda": "177015"
   },
   {
     "ID": "3926116",
@@ -60673,10 +55399,8 @@ window.QUALIDADE_MUDA_DATA = [
     "Frente": "135 - FRENTE PEDRINHO",
     "Responsável": "284860  - Juliana Aparecida Ferreira De Freitas",
     "Qualidade da Muda": "BOM",
-    "Observações": null,
-    "Fazenda": "177015",
-    "Observações ": "Bom",
-    "Unnamed: 19": null
+    "Observações": "Bom",
+    "Fazenda": "177015"
   },
   {
     "ID": "3926111",
@@ -60696,10 +55420,8 @@ window.QUALIDADE_MUDA_DATA = [
     "Frente": "135 - FRENTE PEDRINHO",
     "Responsável": "284860  - Juliana Aparecida Ferreira De Freitas",
     "Qualidade da Muda": "BOM",
-    "Observações": null,
-    "Fazenda": "177015",
-    "Observações ": "Bom",
-    "Unnamed: 19": null
+    "Observações": "Bom",
+    "Fazenda": "177015"
   },
   {
     "ID": "3926106",
@@ -60719,10 +55441,8 @@ window.QUALIDADE_MUDA_DATA = [
     "Frente": "135 - FRENTE PEDRINHO",
     "Responsável": "284860  - Juliana Aparecida Ferreira De Freitas",
     "Qualidade da Muda": "BOM",
-    "Observações": null,
-    "Fazenda": "177015",
-    "Observações ": "Bom",
-    "Unnamed: 19": null
+    "Observações": "Bom",
+    "Fazenda": "177015"
   },
   {
     "ID": "3926100",
@@ -60742,10 +55462,8 @@ window.QUALIDADE_MUDA_DATA = [
     "Frente": "135 - FRENTE PEDRINHO",
     "Responsável": "284860  - Juliana Aparecida Ferreira De Freitas",
     "Qualidade da Muda": "BOM",
-    "Observações": null,
-    "Fazenda": "177015",
-    "Observações ": "Bom",
-    "Unnamed: 19": null
+    "Observações": "Bom",
+    "Fazenda": "177015"
   },
   {
     "ID": "3926095",
@@ -60765,10 +55483,8 @@ window.QUALIDADE_MUDA_DATA = [
     "Frente": "135 - FRENTE PEDRINHO",
     "Responsável": "284860  - Juliana Aparecida Ferreira De Freitas",
     "Qualidade da Muda": "BOM",
-    "Observações": null,
-    "Fazenda": "177015",
-    "Observações ": "Bom",
-    "Unnamed: 19": null
+    "Observações": "Bom",
+    "Fazenda": "177015"
   },
   {
     "ID": "3926079",
@@ -60788,10 +55504,8 @@ window.QUALIDADE_MUDA_DATA = [
     "Frente": "135 - FRENTE PEDRINHO",
     "Responsável": "284860  - Juliana Aparecida Ferreira De Freitas",
     "Qualidade da Muda": "BOM",
-    "Observações": null,
-    "Fazenda": "177015",
-    "Observações ": "Bom",
-    "Unnamed: 19": null
+    "Observações": "Bom",
+    "Fazenda": "177015"
   },
   {
     "ID": "3926072",
@@ -60811,10 +55525,8 @@ window.QUALIDADE_MUDA_DATA = [
     "Frente": "135 - FRENTE PEDRINHO",
     "Responsável": "284860  - Juliana Aparecida Ferreira De Freitas",
     "Qualidade da Muda": "BOM",
-    "Observações": null,
-    "Fazenda": "177015",
-    "Observações ": "Bom",
-    "Unnamed: 19": null
+    "Observações": "Bom",
+    "Fazenda": "177015"
   },
   {
     "ID": "3923398",
@@ -60834,10 +55546,8 @@ window.QUALIDADE_MUDA_DATA = [
     "Frente": "135 - FRENTE PEDRINHO",
     "Responsável": "284860  - Juliana Aparecida Ferreira De Freitas",
     "Qualidade da Muda": "BOM",
-    "Observações": null,
-    "Fazenda": "177015",
-    "Observações ": "Bom",
-    "Unnamed: 19": null
+    "Observações": "Bom",
+    "Fazenda": "177015"
   },
   {
     "ID": "3923387",
@@ -60857,10 +55567,8 @@ window.QUALIDADE_MUDA_DATA = [
     "Frente": "135 - FRENTE PEDRINHO",
     "Responsável": "284860  - Juliana Aparecida Ferreira De Freitas",
     "Qualidade da Muda": "BOM",
-    "Observações": null,
-    "Fazenda": "177015",
-    "Observações ": "Bom",
-    "Unnamed: 19": null
+    "Observações": "Bom",
+    "Fazenda": "177015"
   },
   {
     "ID": "3923374",
@@ -60880,10 +55588,8 @@ window.QUALIDADE_MUDA_DATA = [
     "Frente": "135 - FRENTE PEDRINHO",
     "Responsável": "284860  - Juliana Aparecida Ferreira De Freitas",
     "Qualidade da Muda": "BOM",
-    "Observações": null,
-    "Fazenda": "177015",
-    "Observações ": "Bom",
-    "Unnamed: 19": null
+    "Observações": "Bom",
+    "Fazenda": "177015"
   },
   {
     "ID": "3923368",
@@ -60903,10 +55609,8 @@ window.QUALIDADE_MUDA_DATA = [
     "Frente": "135 - FRENTE PEDRINHO",
     "Responsável": "284860  - Juliana Aparecida Ferreira De Freitas",
     "Qualidade da Muda": "BOM",
-    "Observações": null,
-    "Fazenda": "177015",
-    "Observações ": "Bom",
-    "Unnamed: 19": null
+    "Observações": "Bom",
+    "Fazenda": "177015"
   },
   {
     "ID": "3922719",
@@ -60926,10 +55630,8 @@ window.QUALIDADE_MUDA_DATA = [
     "Frente": "261 - FRENTE PRÓPRIA  (EDMILSON)",
     "Responsável": "MABILA HELEN D FIGUEIREDO",
     "Qualidade da Muda": "BOM",
-    "Observações": null,
-    "Fazenda": "111201",
-    "Observações ": "Boa",
-    "Unnamed: 19": null
+    "Observações": "Boa",
+    "Fazenda": "111201"
   },
   {
     "ID": "3922714",
@@ -60949,10 +55651,8 @@ window.QUALIDADE_MUDA_DATA = [
     "Frente": "261 - FRENTE PRÓPRIA  (EDMILSON)",
     "Responsável": "MABILA HELEN D FIGUEIREDO",
     "Qualidade da Muda": "BOM",
-    "Observações": null,
-    "Fazenda": "111201",
-    "Observações ": "Boa",
-    "Unnamed: 19": null
+    "Observações": "Boa",
+    "Fazenda": "111201"
   },
   {
     "ID": "3922710",
@@ -60972,10 +55672,8 @@ window.QUALIDADE_MUDA_DATA = [
     "Frente": "261 - FRENTE PRÓPRIA  (EDMILSON)",
     "Responsável": "MABILA HELEN D FIGUEIREDO",
     "Qualidade da Muda": "BOM",
-    "Observações": null,
-    "Fazenda": "111201",
-    "Observações ": "Boa",
-    "Unnamed: 19": null
+    "Observações": "Boa",
+    "Fazenda": "111201"
   },
   {
     "ID": "3923356",
@@ -60995,10 +55693,8 @@ window.QUALIDADE_MUDA_DATA = [
     "Frente": "135 - FRENTE PEDRINHO",
     "Responsável": "284860  - Juliana Aparecida Ferreira De Freitas",
     "Qualidade da Muda": "BOM",
-    "Observações": null,
-    "Fazenda": "146301",
-    "Observações ": "Bom",
-    "Unnamed: 19": null
+    "Observações": "Bom",
+    "Fazenda": "146301"
   },
   {
     "ID": "3923348",
@@ -61018,10 +55714,8 @@ window.QUALIDADE_MUDA_DATA = [
     "Frente": "135 - FRENTE PEDRINHO",
     "Responsável": "284860  - Juliana Aparecida Ferreira De Freitas",
     "Qualidade da Muda": "BOM",
-    "Observações": null,
-    "Fazenda": "146301",
-    "Observações ": "Bom",
-    "Unnamed: 19": null
+    "Observações": "Bom",
+    "Fazenda": "146301"
   },
   {
     "ID": "3922661",
@@ -61041,10 +55735,8 @@ window.QUALIDADE_MUDA_DATA = [
     "Frente": "261 - FRENTE PRÓPRIA  (EDMILSON)",
     "Responsável": "REGINALDO DA SILVA GOMES ",
     "Qualidade da Muda": "BOM",
-    "Observações": null,
-    "Fazenda": "111201",
-    "Observações ": ".",
-    "Unnamed: 19": null
+    "Observações": ".",
+    "Fazenda": "111201"
   },
   {
     "ID": "3922658",
@@ -61064,10 +55756,8 @@ window.QUALIDADE_MUDA_DATA = [
     "Frente": "261 - FRENTE PRÓPRIA  (EDMILSON)",
     "Responsável": "REGINALDO DA SILVA GOMES ",
     "Qualidade da Muda": "BOM",
-    "Observações": null,
-    "Fazenda": "111201",
-    "Observações ": ".",
-    "Unnamed: 19": null
+    "Observações": ".",
+    "Fazenda": "111201"
   },
   {
     "ID": "3922654",
@@ -61087,10 +55777,8 @@ window.QUALIDADE_MUDA_DATA = [
     "Frente": "261 - FRENTE PRÓPRIA  (EDMILSON)",
     "Responsável": "REGINALDO DA SILVA GOMES ",
     "Qualidade da Muda": "BOM",
-    "Observações": null,
-    "Fazenda": "111201",
-    "Observações ": ".",
-    "Unnamed: 19": null
+    "Observações": ".",
+    "Fazenda": "111201"
   },
   {
     "ID": "3923337",
@@ -61110,10 +55798,8 @@ window.QUALIDADE_MUDA_DATA = [
     "Frente": "135 - FRENTE PEDRINHO",
     "Responsável": "284860  - Juliana Aparecida Ferreira De Freitas",
     "Qualidade da Muda": "BOM",
-    "Observações": null,
-    "Fazenda": "146301",
-    "Observações ": "Bom",
-    "Unnamed: 19": null
+    "Observações": "Bom",
+    "Fazenda": "146301"
   },
   {
     "ID": "3922704",
@@ -61133,10 +55819,8 @@ window.QUALIDADE_MUDA_DATA = [
     "Frente": "261 - FRENTE PRÓPRIA  (EDMILSON)",
     "Responsável": "MABILA HELEN D FIGUEIREDO",
     "Qualidade da Muda": "BOM",
-    "Observações": null,
-    "Fazenda": "111201",
-    "Observações ": "Boa",
-    "Unnamed: 19": null
+    "Observações": "Boa",
+    "Fazenda": "111201"
   },
   {
     "ID": "3922649",
@@ -61156,10 +55840,8 @@ window.QUALIDADE_MUDA_DATA = [
     "Frente": "261 - FRENTE PRÓPRIA  (EDMILSON)",
     "Responsável": "REGINALDO DA SILVA GOMES ",
     "Qualidade da Muda": "BOM",
-    "Observações": null,
-    "Fazenda": "111201",
-    "Observações ": ".",
-    "Unnamed: 19": null
+    "Observações": ".",
+    "Fazenda": "111201"
   },
   {
     "ID": "3922700",
@@ -61179,10 +55861,8 @@ window.QUALIDADE_MUDA_DATA = [
     "Frente": "261 - FRENTE PRÓPRIA  (EDMILSON)",
     "Responsável": "MABILA HELEN D FIGUEIREDO",
     "Qualidade da Muda": "BOM",
-    "Observações": null,
-    "Fazenda": "111201",
-    "Observações ": "Boa",
-    "Unnamed: 19": null
+    "Observações": "Boa",
+    "Fazenda": "111201"
   },
   {
     "ID": "3922641",
@@ -61202,10 +55882,8 @@ window.QUALIDADE_MUDA_DATA = [
     "Frente": "261 - FRENTE PRÓPRIA  (EDMILSON)",
     "Responsável": "REGINALDO DA SILVA GOMES ",
     "Qualidade da Muda": "BOM",
-    "Observações": null,
-    "Fazenda": "111201",
-    "Observações ": ".",
-    "Unnamed: 19": null
+    "Observações": ".",
+    "Fazenda": "111201"
   },
   {
     "ID": "3923333",
@@ -61225,10 +55903,8 @@ window.QUALIDADE_MUDA_DATA = [
     "Frente": "135 - FRENTE PEDRINHO",
     "Responsável": "284860  - Juliana Aparecida Ferreira De Freitas",
     "Qualidade da Muda": "BOM",
-    "Observações": null,
-    "Fazenda": "146301",
-    "Observações ": "Bom",
-    "Unnamed: 19": null
+    "Observações": "Bom",
+    "Fazenda": "146301"
   },
   {
     "ID": "3922696",
@@ -61248,10 +55924,8 @@ window.QUALIDADE_MUDA_DATA = [
     "Frente": "261 - FRENTE PRÓPRIA  (EDMILSON)",
     "Responsável": "MABILA HELEN D FIGUEIREDO",
     "Qualidade da Muda": "BOM",
-    "Observações": null,
-    "Fazenda": "111201",
-    "Observações ": "Boa",
-    "Unnamed: 19": null
+    "Observações": "Boa",
+    "Fazenda": "111201"
   },
   {
     "ID": "3923325",
@@ -61271,10 +55945,8 @@ window.QUALIDADE_MUDA_DATA = [
     "Frente": "135 - FRENTE PEDRINHO",
     "Responsável": "284860  - Juliana Aparecida Ferreira De Freitas",
     "Qualidade da Muda": "BOM",
-    "Observações": null,
-    "Fazenda": "146301",
-    "Observações ": "Bom",
-    "Unnamed: 19": null
+    "Observações": "Bom",
+    "Fazenda": "146301"
   },
   {
     "ID": "3923316",
@@ -61294,10 +55966,8 @@ window.QUALIDADE_MUDA_DATA = [
     "Frente": "135 - FRENTE PEDRINHO",
     "Responsável": "284860  - Juliana Aparecida Ferreira De Freitas",
     "Qualidade da Muda": "BOM",
-    "Observações": null,
-    "Fazenda": "146301",
-    "Observações ": "Bom",
-    "Unnamed: 19": null
+    "Observações": "Bom",
+    "Fazenda": "146301"
   },
   {
     "ID": "3923406",
@@ -61317,10 +55987,8 @@ window.QUALIDADE_MUDA_DATA = [
     "Frente": "135 - FRENTE PEDRINHO",
     "Responsável": "284860  - Juliana Aparecida Ferreira De Freitas",
     "Qualidade da Muda": "BOM",
-    "Observações": null,
-    "Fazenda": "146301",
-    "Observações ": "Bom",
-    "Unnamed: 19": null
+    "Observações": "Bom",
+    "Fazenda": "146301"
   },
   {
     "ID": "3923306",
@@ -61340,10 +56008,8 @@ window.QUALIDADE_MUDA_DATA = [
     "Frente": "135 - FRENTE PEDRINHO",
     "Responsável": "284860  - Juliana Aparecida Ferreira De Freitas",
     "Qualidade da Muda": "BOM",
-    "Observações": null,
-    "Fazenda": "146301",
-    "Observações ": "Bom",
-    "Unnamed: 19": null
+    "Observações": "Bom",
+    "Fazenda": "146301"
   },
   {
     "ID": "3920401",
@@ -61363,10 +56029,8 @@ window.QUALIDADE_MUDA_DATA = [
     "Frente": "135 - FRENTE PEDRINHO",
     "Responsável": "284860  - Juliana Aparecida Ferreira De Freitas",
     "Qualidade da Muda": "BOM",
-    "Observações": null,
-    "Fazenda": "146301",
-    "Observações ": "Bom",
-    "Unnamed: 19": null
+    "Observações": "Bom",
+    "Fazenda": "146301"
   },
   {
     "ID": "3920396",
@@ -61386,10 +56050,8 @@ window.QUALIDADE_MUDA_DATA = [
     "Frente": "135 - FRENTE PEDRINHO",
     "Responsável": "284860  - Juliana Aparecida Ferreira De Freitas",
     "Qualidade da Muda": "BOM",
-    "Observações": null,
-    "Fazenda": "146301",
-    "Observações ": "Bom",
-    "Unnamed: 19": null
+    "Observações": "Bom",
+    "Fazenda": "146301"
   },
   {
     "ID": "3920305",
@@ -61409,10 +56071,8 @@ window.QUALIDADE_MUDA_DATA = [
     "Frente": "261 - FRENTE PRÓPRIA  (EDMILSON)",
     "Responsável": "MABILA HELEN D FIGUEIREDO",
     "Qualidade da Muda": "BOM",
-    "Observações": null,
-    "Fazenda": "142201",
-    "Observações ": "Boa",
-    "Unnamed: 19": null
+    "Observações": "Boa",
+    "Fazenda": "142201"
   },
   {
     "ID": "3920301",
@@ -61432,10 +56092,8 @@ window.QUALIDADE_MUDA_DATA = [
     "Frente": "261 - FRENTE PRÓPRIA  (EDMILSON)",
     "Responsável": "MABILA HELEN D FIGUEIREDO",
     "Qualidade da Muda": "BOM",
-    "Observações": null,
-    "Fazenda": "142201",
-    "Observações ": "Boa",
-    "Unnamed: 19": null
+    "Observações": "Boa",
+    "Fazenda": "142201"
   },
   {
     "ID": "3920297",
@@ -61455,10 +56113,8 @@ window.QUALIDADE_MUDA_DATA = [
     "Frente": "261 - FRENTE PRÓPRIA  (EDMILSON)",
     "Responsável": "MABILA HELEN D FIGUEIREDO",
     "Qualidade da Muda": "BOM",
-    "Observações": null,
-    "Fazenda": "142201",
-    "Observações ": "Boa ",
-    "Unnamed: 19": null
+    "Observações": "Boa ",
+    "Fazenda": "142201"
   },
   {
     "ID": "3920390",
@@ -61478,10 +56134,8 @@ window.QUALIDADE_MUDA_DATA = [
     "Frente": "135 - FRENTE PEDRINHO",
     "Responsável": "284860  - Juliana Aparecida Ferreira De Freitas",
     "Qualidade da Muda": "BOM",
-    "Observações": null,
-    "Fazenda": "146301",
-    "Observações ": "Bom",
-    "Unnamed: 19": null
+    "Observações": "Bom",
+    "Fazenda": "146301"
   },
   {
     "ID": "3920386",
@@ -61501,10 +56155,8 @@ window.QUALIDADE_MUDA_DATA = [
     "Frente": "135 - FRENTE PEDRINHO",
     "Responsável": "284860  - Juliana Aparecida Ferreira De Freitas",
     "Qualidade da Muda": "BOM",
-    "Observações": null,
-    "Fazenda": "146301",
-    "Observações ": "Bom",
-    "Unnamed: 19": null
+    "Observações": "Bom",
+    "Fazenda": "146301"
   },
   {
     "ID": "3920290",
@@ -61524,10 +56176,8 @@ window.QUALIDADE_MUDA_DATA = [
     "Frente": "261 - FRENTE PRÓPRIA  (EDMILSON)",
     "Responsável": "MABILA HELEN D FIGUEIREDO",
     "Qualidade da Muda": "BOM",
-    "Observações": null,
-    "Fazenda": "142201",
-    "Observações ": "Boa",
-    "Unnamed: 19": null
+    "Observações": "Boa",
+    "Fazenda": "142201"
   },
   {
     "ID": "3920285",
@@ -61547,10 +56197,8 @@ window.QUALIDADE_MUDA_DATA = [
     "Frente": "261 - FRENTE PRÓPRIA  (EDMILSON)",
     "Responsável": "MABILA HELEN D FIGUEIREDO",
     "Qualidade da Muda": "BOM",
-    "Observações": null,
-    "Fazenda": "142201",
-    "Observações ": "Boa ",
-    "Unnamed: 19": null
+    "Observações": "Boa ",
+    "Fazenda": "142201"
   },
   {
     "ID": "3920277",
@@ -61570,10 +56218,8 @@ window.QUALIDADE_MUDA_DATA = [
     "Frente": "261 - FRENTE PRÓPRIA  (EDMILSON)",
     "Responsável": "MABILA HELEN D FIGUEIREDO",
     "Qualidade da Muda": "BOM",
-    "Observações": null,
-    "Fazenda": "142201",
-    "Observações ": "1 broca",
-    "Unnamed: 19": null
+    "Observações": "1 broca",
+    "Fazenda": "142201"
   },
   {
     "ID": "3920280",
@@ -61593,10 +56239,8 @@ window.QUALIDADE_MUDA_DATA = [
     "Frente": "261 - FRENTE PRÓPRIA  (EDMILSON)",
     "Responsável": "MABILA HELEN D FIGUEIREDO",
     "Qualidade da Muda": "BOM",
-    "Observações": null,
-    "Fazenda": "142201",
-    "Observações ": "Boa",
-    "Unnamed: 19": null
+    "Observações": "Boa",
+    "Fazenda": "142201"
   },
   {
     "ID": "3920380",
@@ -61616,10 +56260,8 @@ window.QUALIDADE_MUDA_DATA = [
     "Frente": "135 - FRENTE PEDRINHO",
     "Responsável": "284860  - Juliana Aparecida Ferreira De Freitas",
     "Qualidade da Muda": "BOM",
-    "Observações": null,
-    "Fazenda": "146301",
-    "Observações ": "Bom",
-    "Unnamed: 19": null
+    "Observações": "Bom",
+    "Fazenda": "146301"
   },
   {
     "ID": "3920376",
@@ -61639,10 +56281,8 @@ window.QUALIDADE_MUDA_DATA = [
     "Frente": "135 - FRENTE PEDRINHO",
     "Responsável": "284860  - Juliana Aparecida Ferreira De Freitas",
     "Qualidade da Muda": "BOM",
-    "Observações": null,
-    "Fazenda": "146301",
-    "Observações ": "Bom",
-    "Unnamed: 19": null
+    "Observações": "Bom",
+    "Fazenda": "146301"
   },
   {
     "ID": "3920365",
@@ -61662,10 +56302,8 @@ window.QUALIDADE_MUDA_DATA = [
     "Frente": "135 - FRENTE PEDRINHO",
     "Responsável": "284860  - Juliana Aparecida Ferreira De Freitas",
     "Qualidade da Muda": "BOM",
-    "Observações": null,
-    "Fazenda": "146301",
-    "Observações ": "Bom",
-    "Unnamed: 19": null
+    "Observações": "Bom",
+    "Fazenda": "146301"
   },
   {
     "ID": "3919832",
@@ -61685,10 +56323,8 @@ window.QUALIDADE_MUDA_DATA = [
     "Frente": "135 - FRENTE PEDRINHO",
     "Responsável": "REGINALDO DA SILVA GOMES ",
     "Qualidade da Muda": "BOM",
-    "Observações": null,
-    "Fazenda": "146301",
-    "Observações ": ".",
-    "Unnamed: 19": null
+    "Observações": ".",
+    "Fazenda": "146301"
   },
   {
     "ID": "3920361",
@@ -61708,10 +56344,8 @@ window.QUALIDADE_MUDA_DATA = [
     "Frente": "135 - FRENTE PEDRINHO",
     "Responsável": "284860  - Juliana Aparecida Ferreira De Freitas",
     "Qualidade da Muda": "BOM",
-    "Observações": null,
-    "Fazenda": "146301",
-    "Observações ": "Bom",
-    "Unnamed: 19": null
+    "Observações": "Bom",
+    "Fazenda": "146301"
   },
   {
     "ID": "3919828",
@@ -61731,10 +56365,8 @@ window.QUALIDADE_MUDA_DATA = [
     "Frente": "135 - FRENTE PEDRINHO",
     "Responsável": "REGINALDO DA SILVA GOMES ",
     "Qualidade da Muda": "BOM",
-    "Observações": null,
-    "Fazenda": "146301",
-    "Observações ": ".",
-    "Unnamed: 19": null
+    "Observações": ".",
+    "Fazenda": "146301"
   },
   {
     "ID": "3920355",
@@ -61754,10 +56386,8 @@ window.QUALIDADE_MUDA_DATA = [
     "Frente": "135 - FRENTE PEDRINHO",
     "Responsável": "284860  - Juliana Aparecida Ferreira De Freitas",
     "Qualidade da Muda": "BOM",
-    "Observações": null,
-    "Fazenda": "146301",
-    "Observações ": "Bom",
-    "Unnamed: 19": null
+    "Observações": "Bom",
+    "Fazenda": "146301"
   },
   {
     "ID": "3919825",
@@ -61777,10 +56407,8 @@ window.QUALIDADE_MUDA_DATA = [
     "Frente": "135 - FRENTE PEDRINHO",
     "Responsável": "REGINALDO DA SILVA GOMES ",
     "Qualidade da Muda": "BOM",
-    "Observações": null,
-    "Fazenda": "146301",
-    "Observações ": ".",
-    "Unnamed: 19": null
+    "Observações": ".",
+    "Fazenda": "146301"
   },
   {
     "ID": "3919821",
@@ -61800,10 +56428,8 @@ window.QUALIDADE_MUDA_DATA = [
     "Frente": "135 - FRENTE PEDRINHO",
     "Responsável": "REGINALDO DA SILVA GOMES ",
     "Qualidade da Muda": "BOM",
-    "Observações": null,
-    "Fazenda": "146301",
-    "Observações ": ".",
-    "Unnamed: 19": null
+    "Observações": ".",
+    "Fazenda": "146301"
   },
   {
     "ID": "3920348",
@@ -61823,10 +56449,8 @@ window.QUALIDADE_MUDA_DATA = [
     "Frente": "135 - FRENTE PEDRINHO",
     "Responsável": "284860  - Juliana Aparecida Ferreira De Freitas",
     "Qualidade da Muda": "BOM",
-    "Observações": null,
-    "Fazenda": "146301",
-    "Observações ": "Bom",
-    "Unnamed: 19": null
+    "Observações": "Bom",
+    "Fazenda": "146301"
   },
   {
     "ID": "3920345",
@@ -61846,10 +56470,8 @@ window.QUALIDADE_MUDA_DATA = [
     "Frente": "135 - FRENTE PEDRINHO",
     "Responsável": "284860  - Juliana Aparecida Ferreira De Freitas",
     "Qualidade da Muda": "BOM",
-    "Observações": null,
-    "Fazenda": "146301",
-    "Observações ": "Bom",
-    "Unnamed: 19": null
+    "Observações": "Bom",
+    "Fazenda": "146301"
   },
   {
     "ID": "3920340",
@@ -61869,10 +56491,8 @@ window.QUALIDADE_MUDA_DATA = [
     "Frente": "135 - FRENTE PEDRINHO",
     "Responsável": "284860  - Juliana Aparecida Ferreira De Freitas",
     "Qualidade da Muda": "BOM",
-    "Observações": null,
-    "Fazenda": "146301",
-    "Observações ": "Bom",
-    "Unnamed: 19": null
+    "Observações": "Bom",
+    "Fazenda": "146301"
   },
   {
     "ID": "3920336",
@@ -61892,10 +56512,8 @@ window.QUALIDADE_MUDA_DATA = [
     "Frente": "135 - FRENTE PEDRINHO",
     "Responsável": "284860  - Juliana Aparecida Ferreira De Freitas",
     "Qualidade da Muda": "BOM",
-    "Observações": null,
-    "Fazenda": "146301",
-    "Observações ": "Bom",
-    "Unnamed: 19": null
+    "Observações": "Bom",
+    "Fazenda": "146301"
   },
   {
     "ID": "3917514",
@@ -61915,10 +56533,8 @@ window.QUALIDADE_MUDA_DATA = [
     "Frente": "261 - FRENTE PRÓPRIA  (EDMILSON)",
     "Responsável": "MABILA HELEN D FIGUEIREDO",
     "Qualidade da Muda": "BOM",
-    "Observações": null,
-    "Fazenda": "70408",
-    "Observações ": "Boa",
-    "Unnamed: 19": null
+    "Observações": "Boa",
+    "Fazenda": "70408"
   },
   {
     "ID": "3917521",
@@ -61938,10 +56554,8 @@ window.QUALIDADE_MUDA_DATA = [
     "Frente": "261 - FRENTE PRÓPRIA  (EDMILSON)",
     "Responsável": "MABILA HELEN D FIGUEIREDO",
     "Qualidade da Muda": "BOM",
-    "Observações": null,
-    "Fazenda": "70408",
-    "Observações ": "Boa",
-    "Unnamed: 19": null
+    "Observações": "Boa",
+    "Fazenda": "70408"
   },
   {
     "ID": "3917501",
@@ -61961,10 +56575,8 @@ window.QUALIDADE_MUDA_DATA = [
     "Frente": "261 - FRENTE PRÓPRIA  (EDMILSON)",
     "Responsável": "MABILA HELEN D FIGUEIREDO",
     "Qualidade da Muda": "BOM",
-    "Observações": null,
-    "Fazenda": "70408",
-    "Observações ": "Boa",
-    "Unnamed: 19": null
+    "Observações": "Boa",
+    "Fazenda": "70408"
   },
   {
     "ID": "3917495",
@@ -61984,10 +56596,8 @@ window.QUALIDADE_MUDA_DATA = [
     "Frente": "261 - FRENTE PRÓPRIA  (EDMILSON)",
     "Responsável": "MABILA HELEN D FIGUEIREDO",
     "Qualidade da Muda": "BOM",
-    "Observações": null,
-    "Fazenda": "70408",
-    "Observações ": "4 brocas ",
-    "Unnamed: 19": null
+    "Observações": "4 brocas ",
+    "Fazenda": "70408"
   },
   {
     "ID": "3917497",
@@ -62007,10 +56617,8 @@ window.QUALIDADE_MUDA_DATA = [
     "Frente": "261 - FRENTE PRÓPRIA  (EDMILSON)",
     "Responsável": "MABILA HELEN D FIGUEIREDO",
     "Qualidade da Muda": "BOM",
-    "Observações": null,
-    "Fazenda": "70408",
-    "Observações ": "Boa",
-    "Unnamed: 19": null
+    "Observações": "Boa",
+    "Fazenda": "70408"
   },
   {
     "ID": "3917471",
@@ -62030,10 +56638,8 @@ window.QUALIDADE_MUDA_DATA = [
     "Frente": "261 - FRENTE PRÓPRIA  (EDMILSON)",
     "Responsável": "MABILA HELEN D FIGUEIREDO",
     "Qualidade da Muda": "BOM",
-    "Observações": null,
-    "Fazenda": "70408",
-    "Observações ": "Boa",
-    "Unnamed: 19": null
+    "Observações": "Boa",
+    "Fazenda": "70408"
   },
   {
     "ID": "3915773",
@@ -62054,9 +56660,7 @@ window.QUALIDADE_MUDA_DATA = [
     "Responsável": "284860  - Juliana Aparecida Ferreira De Freitas",
     "Qualidade da Muda": "BOM",
     "Observações": null,
-    "Fazenda": "70408",
-    "Observações ": null,
-    "Unnamed: 19": null
+    "Fazenda": "70408"
   },
   {
     "ID": "3915768",
@@ -62077,9 +56681,7 @@ window.QUALIDADE_MUDA_DATA = [
     "Responsável": "284860  - Juliana Aparecida Ferreira De Freitas",
     "Qualidade da Muda": "BOM",
     "Observações": null,
-    "Fazenda": "70408",
-    "Observações ": null,
-    "Unnamed: 19": null
+    "Fazenda": "70408"
   },
   {
     "ID": "3915746",
@@ -62100,9 +56702,7 @@ window.QUALIDADE_MUDA_DATA = [
     "Responsável": "284860  - Juliana Aparecida Ferreira De Freitas",
     "Qualidade da Muda": "BOM",
     "Observações": null,
-    "Fazenda": "70408",
-    "Observações ": null,
-    "Unnamed: 19": null
+    "Fazenda": "70408"
   },
   {
     "ID": "3915741",
@@ -62123,9 +56723,7 @@ window.QUALIDADE_MUDA_DATA = [
     "Responsável": "284860  - Juliana Aparecida Ferreira De Freitas",
     "Qualidade da Muda": "BOM",
     "Observações": null,
-    "Fazenda": "70408",
-    "Observações ": null,
-    "Unnamed: 19": null
+    "Fazenda": "70408"
   },
   {
     "ID": "3915738",
@@ -62146,9 +56744,7 @@ window.QUALIDADE_MUDA_DATA = [
     "Responsável": "284860  - Juliana Aparecida Ferreira De Freitas",
     "Qualidade da Muda": "BOM",
     "Observações": null,
-    "Fazenda": "70408",
-    "Observações ": null,
-    "Unnamed: 19": null
+    "Fazenda": "70408"
   },
   {
     "ID": "3915734",
@@ -62169,9 +56765,7 @@ window.QUALIDADE_MUDA_DATA = [
     "Responsável": "284860  - Juliana Aparecida Ferreira De Freitas",
     "Qualidade da Muda": "BOM",
     "Observações": null,
-    "Fazenda": "70408",
-    "Observações ": null,
-    "Unnamed: 19": null
+    "Fazenda": "70408"
   },
   {
     "ID": "3915727",
@@ -62192,9 +56786,7 @@ window.QUALIDADE_MUDA_DATA = [
     "Responsável": "284860  - Juliana Aparecida Ferreira De Freitas",
     "Qualidade da Muda": "BOM",
     "Observações": null,
-    "Fazenda": "70408",
-    "Observações ": null,
-    "Unnamed: 19": null
+    "Fazenda": "70408"
   },
   {
     "ID": "3911994",
@@ -62214,10 +56806,8 @@ window.QUALIDADE_MUDA_DATA = [
     "Frente": "261 - FRENTE PRÓPRIA  (EDMILSON)",
     "Responsável": "REGINALDO DA SILVA GOMES ",
     "Qualidade da Muda": "RUIM",
-    "Observações": null,
-    "Fazenda": "70408",
-    "Observações ": "Plano de ação:   a muda foi verificada pelo gerente agrícola e responsável agronomo e são poucos pontos de broca, sendo assim liberado seguir o plantio ",
-    "Unnamed: 19": null
+    "Observações": "Plano de ação:   a muda foi verificada pelo gerente agrícola e responsável agronomo e são poucos pontos de broca, sendo assim liberado seguir o plantio ",
+    "Fazenda": "70408"
   },
   {
     "ID": "3915723",
@@ -62238,9 +56828,7 @@ window.QUALIDADE_MUDA_DATA = [
     "Responsável": "284860  - Juliana Aparecida Ferreira De Freitas",
     "Qualidade da Muda": "BOM",
     "Observações": null,
-    "Fazenda": "70408",
-    "Observações ": null,
-    "Unnamed: 19": null
+    "Fazenda": "70408"
   },
   {
     "ID": "3911998",
@@ -62260,10 +56848,8 @@ window.QUALIDADE_MUDA_DATA = [
     "Frente": "261 - FRENTE PRÓPRIA  (EDMILSON)",
     "Responsável": "REGINALDO DA SILVA GOMES ",
     "Qualidade da Muda": "RUIM",
-    "Observações": null,
-    "Fazenda": "70408",
-    "Observações ": "Plano de ação:   a muda foi verificada pelo gerente agrícola e responsável agronomo e são poucos pontos de broca, sendo assim liberado seguir o plantio ",
-    "Unnamed: 19": null
+    "Observações": "Plano de ação:   a muda foi verificada pelo gerente agrícola e responsável agronomo e são poucos pontos de broca, sendo assim liberado seguir o plantio ",
+    "Fazenda": "70408"
   },
   {
     "ID": "3912002",
@@ -62283,10 +56869,8 @@ window.QUALIDADE_MUDA_DATA = [
     "Frente": "261 - FRENTE PRÓPRIA  (EDMILSON)",
     "Responsável": "REGINALDO DA SILVA GOMES ",
     "Qualidade da Muda": "RUIM",
-    "Observações": null,
-    "Fazenda": "70408",
-    "Observações ": "Plano de ação:   a muda foi verificada pelo gerente agrícola e responsável agronomo e são poucos pontos de broca, sendo assim liberado seguir o plantio ",
-    "Unnamed: 19": null
+    "Observações": "Plano de ação:   a muda foi verificada pelo gerente agrícola e responsável agronomo e são poucos pontos de broca, sendo assim liberado seguir o plantio ",
+    "Fazenda": "70408"
   },
   {
     "ID": "3912006",
@@ -62306,10 +56890,8 @@ window.QUALIDADE_MUDA_DATA = [
     "Frente": "261 - FRENTE PRÓPRIA  (EDMILSON)",
     "Responsável": "REGINALDO DA SILVA GOMES ",
     "Qualidade da Muda": "RUIM",
-    "Observações": null,
-    "Fazenda": "70408",
-    "Observações ": "Plano de ação:   a muda foi verificada pelo gerente agrícola e responsável agronomo e são poucos pontos de broca, sendo assim liberado seguir o plantio ",
-    "Unnamed: 19": null
+    "Observações": "Plano de ação:   a muda foi verificada pelo gerente agrícola e responsável agronomo e são poucos pontos de broca, sendo assim liberado seguir o plantio ",
+    "Fazenda": "70408"
   },
   {
     "ID": "3912011",
@@ -62329,10 +56911,8 @@ window.QUALIDADE_MUDA_DATA = [
     "Frente": "261 - FRENTE PRÓPRIA  (EDMILSON)",
     "Responsável": "REGINALDO DA SILVA GOMES ",
     "Qualidade da Muda": "RUIM",
-    "Observações": null,
-    "Fazenda": "70408",
-    "Observações ": "Plano de ação:   a muda foi verificada pelo gerente agrícola e responsável agronomo e são poucos pontos de broca, sendo assim liberado seguir o plantio ",
-    "Unnamed: 19": null
+    "Observações": "Plano de ação:   a muda foi verificada pelo gerente agrícola e responsável agronomo e são poucos pontos de broca, sendo assim liberado seguir o plantio ",
+    "Fazenda": "70408"
   },
   {
     "ID": "3913376",
@@ -62352,10 +56932,8 @@ window.QUALIDADE_MUDA_DATA = [
     "Frente": "261 - FRENTE PRÓPRIA  (EDMILSON)",
     "Responsável": "MABILA HELEN D FIGUEIREDO",
     "Qualidade da Muda": "RUIM",
-    "Observações": null,
-    "Fazenda": "70408",
-    "Observações ": "Plano de ação:   a muda foi verificada pelo gerente agrícola e responsável agronomo e são poucos pontos de broca, sendo assim liberado seguir o plantio ",
-    "Unnamed: 19": null
+    "Observações": "Plano de ação:   a muda foi verificada pelo gerente agrícola e responsável agronomo e são poucos pontos de broca, sendo assim liberado seguir o plantio ",
+    "Fazenda": "70408"
   },
   {
     "ID": "3913385",
@@ -62375,10 +56953,8 @@ window.QUALIDADE_MUDA_DATA = [
     "Frente": "261 - FRENTE PRÓPRIA  (EDMILSON)",
     "Responsável": "MABILA HELEN D FIGUEIREDO",
     "Qualidade da Muda": "RUIM",
-    "Observações": null,
-    "Fazenda": "70408",
-    "Observações ": "Plano de ação:   a muda foi verificada pelo gerente agrícola e responsável agronomo e são poucos pontos de broca, sendo assim liberado seguir o plantio ",
-    "Unnamed: 19": null
+    "Observações": "Plano de ação:   a muda foi verificada pelo gerente agrícola e responsável agronomo e são poucos pontos de broca, sendo assim liberado seguir o plantio ",
+    "Fazenda": "70408"
   },
   {
     "ID": "3913382",
@@ -62398,10 +56974,8 @@ window.QUALIDADE_MUDA_DATA = [
     "Frente": "261 - FRENTE PRÓPRIA  (EDMILSON)",
     "Responsável": "MABILA HELEN D FIGUEIREDO",
     "Qualidade da Muda": "RUIM",
-    "Observações": null,
-    "Fazenda": "70408",
-    "Observações ": "Plano de ação:   a muda foi verificada pelo gerente agrícola e responsável agronomo e são poucos pontos de broca, sendo assim liberado seguir o plantio ",
-    "Unnamed: 19": null
+    "Observações": "Plano de ação:   a muda foi verificada pelo gerente agrícola e responsável agronomo e são poucos pontos de broca, sendo assim liberado seguir o plantio ",
+    "Fazenda": "70408"
   },
   {
     "ID": "3913389",
@@ -62421,10 +56995,8 @@ window.QUALIDADE_MUDA_DATA = [
     "Frente": "261 - FRENTE PRÓPRIA  (EDMILSON)",
     "Responsável": "MABILA HELEN D FIGUEIREDO",
     "Qualidade da Muda": "RUIM",
-    "Observações": null,
-    "Fazenda": "70408",
-    "Observações ": "Plano de ação:   a muda foi verificada pelo gerente agrícola e responsável agronomo e são poucos pontos de broca, sendo assim liberado seguir o plantio ",
-    "Unnamed: 19": null
+    "Observações": "Plano de ação:   a muda foi verificada pelo gerente agrícola e responsável agronomo e são poucos pontos de broca, sendo assim liberado seguir o plantio ",
+    "Fazenda": "70408"
   },
   {
     "ID": "3913541",
@@ -62444,10 +57016,8 @@ window.QUALIDADE_MUDA_DATA = [
     "Frente": " 629 - ANDREOGE SERVIÇOS E TRANSPORTE",
     "Responsável": "MABILA HELEN D FIGUEIREDO",
     "Qualidade da Muda": "RUIM",
-    "Observações": null,
-    "Fazenda": "70408",
-    "Observações ": "plano de ação:   a muda foi verificada pelo gerente agrícola e responsável agronomo e são poucos pontos de broca, sendo assim liberado seguir o plantio ",
-    "Unnamed: 19": null
+    "Observações": "plano de ação:   a muda foi verificada pelo gerente agrícola e responsável agronomo e são poucos pontos de broca, sendo assim liberado seguir o plantio ",
+    "Fazenda": "70408"
   },
   {
     "ID": "3913546",
@@ -62467,10 +57037,8 @@ window.QUALIDADE_MUDA_DATA = [
     "Frente": "261 - FRENTE PRÓPRIA  (EDMILSON)",
     "Responsável": "MABILA HELEN D FIGUEIREDO",
     "Qualidade da Muda": "RUIM",
-    "Observações": null,
-    "Fazenda": "70408",
-    "Observações ": "plano de ação:   a muda foi verificada pelo gerente agrícola e responsável agronomo e são poucos pontos de broca, sendo assim liberado seguir o plantio ",
-    "Unnamed: 19": null
+    "Observações": "plano de ação:   a muda foi verificada pelo gerente agrícola e responsável agronomo e são poucos pontos de broca, sendo assim liberado seguir o plantio ",
+    "Fazenda": "70408"
   },
   {
     "ID": "3913551",
@@ -62490,10 +57058,8 @@ window.QUALIDADE_MUDA_DATA = [
     "Frente": "261 - FRENTE PRÓPRIA  (EDMILSON)",
     "Responsável": "MABILA HELEN D FIGUEIREDO",
     "Qualidade da Muda": "RUIM",
-    "Observações": null,
-    "Fazenda": "70408",
-    "Observações ": "Plano de ação:   a muda foi verificada pelo gerente agrícola e responsável agronomo e são poucos pontos de broca, sendo assim liberado seguir o plantio ",
-    "Unnamed: 19": null
+    "Observações": "Plano de ação:   a muda foi verificada pelo gerente agrícola e responsável agronomo e são poucos pontos de broca, sendo assim liberado seguir o plantio ",
+    "Fazenda": "70408"
   },
   {
     "ID": "3915719",
@@ -62514,9 +57080,7 @@ window.QUALIDADE_MUDA_DATA = [
     "Responsável": "284860  - Juliana Aparecida Ferreira De Freitas",
     "Qualidade da Muda": "BOM",
     "Observações": null,
-    "Fazenda": "70408",
-    "Observações ": null,
-    "Unnamed: 19": null
+    "Fazenda": "70408"
   },
   {
     "ID": "3913556",
@@ -62537,9 +57101,7 @@ window.QUALIDADE_MUDA_DATA = [
     "Responsável": "MABILA HELEN D FIGUEIREDO",
     "Qualidade da Muda": "BOM",
     "Observações": null,
-    "Fazenda": "70408",
-    "Observações ": null,
-    "Unnamed: 19": null
+    "Fazenda": "70408"
   },
   {
     "ID": "3913447",
@@ -62560,9 +57122,7 @@ window.QUALIDADE_MUDA_DATA = [
     "Responsável": "MABILA HELEN D FIGUEIREDO",
     "Qualidade da Muda": "BOM",
     "Observações": null,
-    "Fazenda": "70408",
-    "Observações ": null,
-    "Unnamed: 19": null
+    "Fazenda": "70408"
   },
   {
     "ID": "3913369",
@@ -62583,9 +57143,7 @@ window.QUALIDADE_MUDA_DATA = [
     "Responsável": "MABILA HELEN D FIGUEIREDO",
     "Qualidade da Muda": "BOM",
     "Observações": null,
-    "Fazenda": "70408",
-    "Observações ": null,
-    "Unnamed: 19": null
+    "Fazenda": "70408"
   },
   {
     "ID": "3911947",
@@ -62606,9 +57164,7 @@ window.QUALIDADE_MUDA_DATA = [
     "Responsável": "284860  - Juliana Aparecida Ferreira De Freitas",
     "Qualidade da Muda": "BOM",
     "Observações": null,
-    "Fazenda": "70408",
-    "Observações ": null,
-    "Unnamed: 19": null
+    "Fazenda": "70408"
   },
   {
     "ID": "3911943",
@@ -62629,9 +57185,7 @@ window.QUALIDADE_MUDA_DATA = [
     "Responsável": "284860  - Juliana Aparecida Ferreira De Freitas",
     "Qualidade da Muda": "BOM",
     "Observações": null,
-    "Fazenda": "70408",
-    "Observações ": null,
-    "Unnamed: 19": null
+    "Fazenda": "70408"
   },
   {
     "ID": "3911938",
@@ -62652,9 +57206,7 @@ window.QUALIDADE_MUDA_DATA = [
     "Responsável": "284860  - Juliana Aparecida Ferreira De Freitas",
     "Qualidade da Muda": "BOM",
     "Observações": null,
-    "Fazenda": "70408",
-    "Observações ": null,
-    "Unnamed: 19": null
+    "Fazenda": "70408"
   },
   {
     "ID": "3911926",
@@ -62675,9 +57227,7 @@ window.QUALIDADE_MUDA_DATA = [
     "Responsável": "284860  - Juliana Aparecida Ferreira De Freitas",
     "Qualidade da Muda": "BOM",
     "Observações": null,
-    "Fazenda": "70408",
-    "Observações ": null,
-    "Unnamed: 19": null
+    "Fazenda": "70408"
   },
   {
     "ID": "3911922",
@@ -62698,9 +57248,7 @@ window.QUALIDADE_MUDA_DATA = [
     "Responsável": "284860  - Juliana Aparecida Ferreira De Freitas",
     "Qualidade da Muda": "BOM",
     "Observações": null,
-    "Fazenda": "70408",
-    "Observações ": null,
-    "Unnamed: 19": null
+    "Fazenda": "70408"
   },
   {
     "ID": "3911915",
@@ -62721,9 +57269,7 @@ window.QUALIDADE_MUDA_DATA = [
     "Responsável": "284860  - Juliana Aparecida Ferreira De Freitas",
     "Qualidade da Muda": "BOM",
     "Observações": null,
-    "Fazenda": "70408",
-    "Observações ": null,
-    "Unnamed: 19": null
+    "Fazenda": "70408"
   },
   {
     "ID": "3911912",
@@ -62744,9 +57290,7 @@ window.QUALIDADE_MUDA_DATA = [
     "Responsável": "284860  - Juliana Aparecida Ferreira De Freitas",
     "Qualidade da Muda": "BOM",
     "Observações": null,
-    "Fazenda": "70408",
-    "Observações ": null,
-    "Unnamed: 19": null
+    "Fazenda": "70408"
   },
   {
     "ID": "3911909",
@@ -62767,9 +57311,7 @@ window.QUALIDADE_MUDA_DATA = [
     "Responsável": "284860  - Juliana Aparecida Ferreira De Freitas",
     "Qualidade da Muda": "BOM",
     "Observações": null,
-    "Fazenda": "70408",
-    "Observações ": null,
-    "Unnamed: 19": null
+    "Fazenda": "70408"
   },
   {
     "ID": "3911905",
@@ -62790,9 +57332,7 @@ window.QUALIDADE_MUDA_DATA = [
     "Responsável": "284860  - Juliana Aparecida Ferreira De Freitas",
     "Qualidade da Muda": "BOM",
     "Observações": null,
-    "Fazenda": "70408",
-    "Observações ": null,
-    "Unnamed: 19": null
+    "Fazenda": "70408"
   },
   {
     "ID": "3911901",
@@ -62813,9 +57353,7 @@ window.QUALIDADE_MUDA_DATA = [
     "Responsável": "284860  - Juliana Aparecida Ferreira De Freitas",
     "Qualidade da Muda": "BOM",
     "Observações": null,
-    "Fazenda": "70408",
-    "Observações ": null,
-    "Unnamed: 19": null
+    "Fazenda": "70408"
   },
   {
     "ID": "4037935",
@@ -62836,9 +57374,7 @@ window.QUALIDADE_MUDA_DATA = [
     "Responsável": "284860  - Juliana Aparecida Ferreira De Freitas",
     "Qualidade da Muda": "BOM",
     "Observações": "Bom",
-    "Fazenda": "50301",
-    "Observações ": null,
-    "Unnamed: 19": null
+    "Fazenda": "50301"
   },
   {
     "ID": "4037660",
@@ -62859,9 +57395,7 @@ window.QUALIDADE_MUDA_DATA = [
     "Responsável": "REGINALDO DA SILVA GOMES ",
     "Qualidade da Muda": "RUIM",
     "Observações": "Foi encontrado broca em 2 toletes",
-    "Fazenda": "50301",
-    "Observações ": null,
-    "Unnamed: 19": null
+    "Fazenda": "50301"
   },
   {
     "ID": "4037930",
@@ -62882,9 +57416,7 @@ window.QUALIDADE_MUDA_DATA = [
     "Responsável": "284860  - Juliana Aparecida Ferreira De Freitas",
     "Qualidade da Muda": "BOM",
     "Observações": "Bom",
-    "Fazenda": "50301",
-    "Observações ": null,
-    "Unnamed: 19": null
+    "Fazenda": "50301"
   },
   {
     "ID": "4037654",
@@ -62905,9 +57437,7 @@ window.QUALIDADE_MUDA_DATA = [
     "Responsável": "REGINALDO DA SILVA GOMES ",
     "Qualidade da Muda": "BOM",
     "Observações": null,
-    "Fazenda": "50301",
-    "Observações ": null,
-    "Unnamed: 19": null
+    "Fazenda": "50301"
   },
   {
     "ID": "4037925",
@@ -62928,9 +57458,7 @@ window.QUALIDADE_MUDA_DATA = [
     "Responsável": "284860  - Juliana Aparecida Ferreira De Freitas",
     "Qualidade da Muda": "BOM",
     "Observações": "Bom",
-    "Fazenda": "50301",
-    "Observações ": null,
-    "Unnamed: 19": null
+    "Fazenda": "50301"
   },
   {
     "ID": "4037920",
@@ -62951,9 +57479,7 @@ window.QUALIDADE_MUDA_DATA = [
     "Responsável": "284860  - Juliana Aparecida Ferreira De Freitas",
     "Qualidade da Muda": "BOM",
     "Observações": "Achado 3 brocas ",
-    "Fazenda": "50301",
-    "Observações ": null,
-    "Unnamed: 19": null
+    "Fazenda": "50301"
   },
   {
     "ID": "4037648",
@@ -62974,9 +57500,7 @@ window.QUALIDADE_MUDA_DATA = [
     "Responsável": "REGINALDO DA SILVA GOMES ",
     "Qualidade da Muda": "BOM",
     "Observações": null,
-    "Fazenda": "50301",
-    "Observações ": null,
-    "Unnamed: 19": null
+    "Fazenda": "50301"
   },
   {
     "ID": "4037916",
@@ -62997,9 +57521,7 @@ window.QUALIDADE_MUDA_DATA = [
     "Responsável": "284860  - Juliana Aparecida Ferreira De Freitas",
     "Qualidade da Muda": "BOM",
     "Observações": "Achado 2 brocas ",
-    "Fazenda": "50301",
-    "Observações ": null,
-    "Unnamed: 19": null
+    "Fazenda": "50301"
   },
   {
     "ID": "4050430",
@@ -63020,9 +57542,7 @@ window.QUALIDADE_MUDA_DATA = [
     "Responsável": "EDILIANA CARDOSO DA COSTA",
     "Qualidade da Muda": "BOM",
     "Observações": "Bom",
-    "Fazenda": "46601",
-    "Observações ": null,
-    "Unnamed: 19": null
+    "Fazenda": "46601"
   },
   {
     "ID": "4050426",
@@ -63043,9 +57563,7 @@ window.QUALIDADE_MUDA_DATA = [
     "Responsável": "EDILIANA CARDOSO DA COSTA",
     "Qualidade da Muda": "BOM",
     "Observações": "Bom",
-    "Fazenda": "46601",
-    "Observações ": null,
-    "Unnamed: 19": null
+    "Fazenda": "46601"
   },
   {
     "ID": "4050421",
@@ -63066,9 +57584,7 @@ window.QUALIDADE_MUDA_DATA = [
     "Responsável": "EDILIANA CARDOSO DA COSTA",
     "Qualidade da Muda": "BOM",
     "Observações": "Bom",
-    "Fazenda": "46601",
-    "Observações ": null,
-    "Unnamed: 19": null
+    "Fazenda": "46601"
   },
   {
     "ID": "4050412",
@@ -63089,9 +57605,7 @@ window.QUALIDADE_MUDA_DATA = [
     "Responsável": "EDILIANA CARDOSO DA COSTA",
     "Qualidade da Muda": "BOM",
     "Observações": "Boa",
-    "Fazenda": "46601",
-    "Observações ": null,
-    "Unnamed: 19": null
+    "Fazenda": "46601"
   },
   {
     "ID": "4050408",
@@ -63112,8 +57626,6 @@ window.QUALIDADE_MUDA_DATA = [
     "Responsável": "EDILIANA CARDOSO DA COSTA",
     "Qualidade da Muda": "BOM",
     "Observações": "Muda boa",
-    "Fazenda": "46601",
-    "Observações ": null,
-    "Unnamed: 19": null
+    "Fazenda": "46601"
   }
 ];
