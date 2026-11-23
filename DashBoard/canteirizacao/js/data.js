@@ -1,7 +1,7 @@
 /**
  * Dados Consolidados - canteirizacao
  * Total: 442 registros
- * Atualizado em: 23/11/2026 04:37
+ * Atualizado em: 23/11/2026 05:41
  */
 window.CANTEIRIZACAO_RAW_DATA = [
   {
