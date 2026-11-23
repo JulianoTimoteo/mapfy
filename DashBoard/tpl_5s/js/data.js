@@ -1,7 +1,7 @@
 /**
  * Dados Consolidados - tpl_5s
- * Total: 84 registros
- * Atualizado em: 23/11/2026 11:03
+ * Total: 85 registros
+ * Atualizado em: 23/11/2026 12:06
  */
 window.TPL_5S_DATA = [
   {
@@ -2159,6 +2159,32 @@ window.TPL_5S_DATA = [
     "07 - Extintor está válido e carregado?": "OK",
     "Observação": "Frente 1 ",
     "Fazenda.1": "269506",
+    "03 - Não há itens faltando/ quebrados ou com sinais de mal uso?": "OK",
+    "05 - Boas condições de organização/ limpeza e conservação dos equipamentos?": "OK"
+  },
+  {
+    "ID": "4067936",
+    "Usuário": "qualidade9@usinapitangueiras.com.br",
+    "Data": "23/11/2026 11:18",
+    "Latitude": "-21.10152000000000",
+    "Longitude": "-48.35211000000000",
+    "Data início": "23/11/2026 11:17",
+    "Data Fim": "23/11/2026 11:18",
+    "Status": "Open",
+    "Score": "0.00",
+    "Setor": "TRATOS",
+    "Fazenda": "52501",
+    "Frente": "56-FRENTE TRATOS CULTURAIS",
+    "Responsável Vistoria": "REGINALDO DA SILVA GOMES ",
+    "Operação": "1020-QUEBRA DE LOMBO",
+    "01-Área de vivência está em boas condições de organização e limpeza?": "N / A",
+    "03 - Não há itens faltando, quebrados ou com sinais de mal uso?": null,
+    "04 - A sinalização está adequada e o acesso ao local é seguro?": "OK",
+    "05 - Boas condições de organização, limpeza e conservação dos equipamentos?": null,
+    "06 - Os colaboradores estão utilizando os EPIs adequados?": "OK",
+    "07 - Extintor está válido e carregado?": "OK",
+    "Observação": null,
+    "Fazenda.1": "52501",
     "03 - Não há itens faltando/ quebrados ou com sinais de mal uso?": "OK",
     "05 - Boas condições de organização/ limpeza e conservação dos equipamentos?": "OK"
   },

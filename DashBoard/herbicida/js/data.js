@@ -1,7 +1,7 @@
 /**
  * Dados Consolidados - herbicida
  * Total: 35 registros
- * Atualizado em: 23/11/2026 11:03
+ * Atualizado em: 23/11/2026 12:06
  */
 window.HERBICIDA_DATA = [
   {
