@@ -1,7 +1,7 @@
 /**
  * Dados Consolidados - herbicida
  * Total: 35 registros
- * Atualizado em: 23/11/2026 10:28
+ * Atualizado em: 23/11/2026 11:03
  */
 window.HERBICIDA_DATA = [
   {
@@ -896,33 +896,6 @@ window.HERBICIDA_DATA = [
     "Fazenda.1": "48501"
   },
   {
-    "ID": "4067810",
-    "Usuário": "qualidade9@usinapitangueiras.com.br",
-    "Data": "23/11/2026 09:34",
-    "Latitude": "-21.06948000000000",
-    "Longitude": "-48.44125000000000",
-    "Data início": "23/11/2026 09:31",
-    "Data Fim": "23/11/2026 09:34",
-    "Status": "Open",
-    "Score": "0.00",
-    "Fazenda": "36807",
-    "Ordem de Serviço": "3860",
-    "Operação": "1030-APLICAÇÃO FERTILIZANTE FOLIAR",
-    "Planta ou Soca": "Planta",
-    "O responsável realizou a avaliação de qualidade antes de iniciar a operação?": "OK",
-    "O responsável possui a Ordem de Serviço e o Mapa da Área disponíveis na frente?": "OK",
-    "Vento": "10.8",
-    "Umidade Relativa": "61",
-    "Temperatura": "30.3",
-    "Espaçamento de Bico": "0.49",
-    "Abertura do leque": "OK",
-    "Limpeza de filtros da bomba do implemento": "OK",
-    "Limpeza de bicos": "OK",
-    "Vazão": "250",
-    "Observações": "Equipamento 70122",
-    "Fazenda.1": "36807"
-  },
-  {
     "ID": "4058420",
     "Usuário": "qualidade9@usinapitangueiras.com.br",
     "Data": "18/11/2026 14:04",
@@ -948,5 +921,32 @@ window.HERBICIDA_DATA = [
     "Vazão": "200",
     "Observações": "Trator 11125 e 11225  \nNo dia 09/11 foi feito uma verificação no 11125 e constatado que o acelerador de pé não estava  funcionando devido a falta do cabo, operador estava usando somente o acelerador de mão, hoje dia 18/11 em uma nova verificação foi constatado que o problema continua, e somente o acelerador de mão funciona. ",
     "Fazenda.1": "41601"
+  },
+  {
+    "ID": "4067810",
+    "Usuário": "qualidade9@usinapitangueiras.com.br",
+    "Data": "23/11/2026 09:34",
+    "Latitude": "-21.06948000000000",
+    "Longitude": "-48.44125000000000",
+    "Data início": "23/11/2026 09:31",
+    "Data Fim": "23/11/2026 09:34",
+    "Status": "Open",
+    "Score": "0.00",
+    "Fazenda": "36807",
+    "Ordem de Serviço": "3860",
+    "Operação": "1030-APLICAÇÃO FERTILIZANTE FOLIAR",
+    "Planta ou Soca": "Planta",
+    "O responsável realizou a avaliação de qualidade antes de iniciar a operação?": "OK",
+    "O responsável possui a Ordem de Serviço e o Mapa da Área disponíveis na frente?": "OK",
+    "Vento": "10.8",
+    "Umidade Relativa": "61",
+    "Temperatura": "30.3",
+    "Espaçamento de Bico": "0.49",
+    "Abertura do leque": "OK",
+    "Limpeza de filtros da bomba do implemento": "OK",
+    "Limpeza de bicos": "OK",
+    "Vazão": "250",
+    "Observações": "Equipamento 70122",
+    "Fazenda.1": "36807"
   }
 ];

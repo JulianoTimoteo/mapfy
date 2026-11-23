@@ -1,7 +1,7 @@
 /**
  * Dados Consolidados - qualidade_muda
  * Total: 2744 registros
- * Atualizado em: 23/11/2026 10:28
+ * Atualizado em: 23/11/2026 11:03
  */
 window.QUALIDADE_MUDA_DATA = [
   {

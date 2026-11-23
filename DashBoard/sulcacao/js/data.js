@@ -1,7 +1,7 @@
 /**
  * Dados Consolidados - sulcacao
  * Total: 2878 registros
- * Atualizado em: 23/11/2026 10:28
+ * Atualizado em: 23/11/2026 11:03
  */
 window.SULCACAO_RAW_DATA = [
   {
