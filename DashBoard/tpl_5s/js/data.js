@@ -1,7 +1,7 @@
 /**
  * Dados Consolidados - tpl_5s
- * Total: 85 registros
- * Atualizado em: 23/11/2026 14:48
+ * Total: 87 registros
+ * Atualizado em: 23/11/2026 15:17
  */
 window.TPL_5S_DATA = [
   {
@@ -2160,6 +2160,58 @@ window.TPL_5S_DATA = [
     "Observação": "Frente 1 ",
     "Fazenda.1": "269506",
     "03 - Não há itens faltando/ quebrados ou com sinais de mal uso?": "OK",
+    "05 - Boas condições de organização/ limpeza e conservação dos equipamentos?": "OK"
+  },
+  {
+    "ID": "4068368",
+    "Usuário": "qualidade9@usinapitangueiras.com.br",
+    "Data": "23/11/2026 14:31",
+    "Latitude": "-20.80249000000000",
+    "Longitude": "-48.69638000000000",
+    "Data início": "23/11/2026 14:21",
+    "Data Fim": "23/11/2026 14:31",
+    "Status": "Open",
+    "Score": "0.00",
+    "Setor": "VINHAÇA",
+    "Fazenda": "34704",
+    "Frente": "57-FRENTE VINHAÇA",
+    "Responsável Vistoria": "REGINALDO DA SILVA GOMES ",
+    "Operação": "1092-APLIC. VINHAÇA C/ FERTILIZANTE",
+    "01-Área de vivência está em boas condições de organização e limpeza?": "OK",
+    "03 - Não há itens faltando, quebrados ou com sinais de mal uso?": null,
+    "04 - A sinalização está adequada e o acesso ao local é seguro?": "OK",
+    "05 - Boas condições de organização, limpeza e conservação dos equipamentos?": null,
+    "06 - Os colaboradores estão utilizando os EPIs adequados?": "OK",
+    "07 - Extintor está válido e carregado?": "OK",
+    "Observação": "Frente 3",
+    "Fazenda.1": "34704",
+    "03 - Não há itens faltando/ quebrados ou com sinais de mal uso?": "OK",
+    "05 - Boas condições de organização/ limpeza e conservação dos equipamentos?": "OK"
+  },
+  {
+    "ID": "4068367",
+    "Usuário": "qualidade9@usinapitangueiras.com.br",
+    "Data": "23/11/2026 14:21",
+    "Latitude": "-20.80238000000000",
+    "Longitude": "-48.69630000000000",
+    "Data início": "23/11/2026 14:20",
+    "Data Fim": "23/11/2026 14:21",
+    "Status": "Open",
+    "Score": "0.00",
+    "Setor": "VINHAÇA",
+    "Fazenda": "34704",
+    "Frente": "57-FRENTE VINHAÇA",
+    "Responsável Vistoria": "REGINALDO DA SILVA GOMES ",
+    "Operação": "1092-APLIC. VINHAÇA C/ FERTILIZANTE",
+    "01-Área de vivência está em boas condições de organização e limpeza?": "OK",
+    "03 - Não há itens faltando, quebrados ou com sinais de mal uso?": null,
+    "04 - A sinalização está adequada e o acesso ao local é seguro?": "OK",
+    "05 - Boas condições de organização, limpeza e conservação dos equipamentos?": null,
+    "06 - Os colaboradores estão utilizando os EPIs adequados?": "OK",
+    "07 - Extintor está válido e carregado?": "OK",
+    "Observação": "Frente 4 ",
+    "Fazenda.1": "34704",
+    "03 - Não há itens faltando/ quebrados ou com sinais de mal uso?": "NOK",
     "05 - Boas condições de organização/ limpeza e conservação dos equipamentos?": "OK"
   },
   {
