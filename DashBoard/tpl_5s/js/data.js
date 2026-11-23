@@ -1,7 +1,7 @@
 /**
  * Dados Consolidados - tpl_5s
- * Total: 83 registros
- * Atualizado em: 23/11/2026 09:23
+ * Total: 84 registros
+ * Atualizado em: 23/11/2026 09:59
  */
 window.TPL_5S_DATA = [
   {
@@ -2133,6 +2133,32 @@ window.TPL_5S_DATA = [
     "07 - Extintor está válido e carregado?": "NOK",
     "Observação": "Equipamentos: 60120, 11421,732 ",
     "Fazenda.1": "53501",
+    "03 - Não há itens faltando/ quebrados ou com sinais de mal uso?": "OK",
+    "05 - Boas condições de organização/ limpeza e conservação dos equipamentos?": "OK"
+  },
+  {
+    "ID": "4067809",
+    "Usuário": "qualidade9@usinapitangueiras.com.br",
+    "Data": "23/11/2026 09:38",
+    "Latitude": "-21.06942000000000",
+    "Longitude": "-48.44160000000000",
+    "Data início": "23/11/2026 09:26",
+    "Data Fim": "23/11/2026 09:30",
+    "Status": "Open",
+    "Score": "0.00",
+    "Setor": "TRATOS",
+    "Fazenda": "36807",
+    "Frente": "56-FRENTE TRATOS CULTURAIS",
+    "Responsável Vistoria": "REGINALDO DA SILVA GOMES ",
+    "Operação": "1030-APLICAÇÃO FERTILIZANTE FOLIAR",
+    "01-Área de vivência está em boas condições de organização e limpeza?": "N / A",
+    "03 - Não há itens faltando, quebrados ou com sinais de mal uso?": null,
+    "04 - A sinalização está adequada e o acesso ao local é seguro?": "OK",
+    "05 - Boas condições de organização, limpeza e conservação dos equipamentos?": null,
+    "06 - Os colaboradores estão utilizando os EPIs adequados?": "OK",
+    "07 - Extintor está válido e carregado?": "OK",
+    "Observação": "Equipamento 70122",
+    "Fazenda.1": "36807",
     "03 - Não há itens faltando/ quebrados ou com sinais de mal uso?": "OK",
     "05 - Boas condições de organização/ limpeza e conservação dos equipamentos?": "OK"
   },

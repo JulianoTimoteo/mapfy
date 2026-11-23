@@ -1,7 +1,7 @@
 /**
  * Dados Consolidados - herbicida
- * Total: 34 registros
- * Atualizado em: 23/11/2026 09:23
+ * Total: 35 registros
+ * Atualizado em: 23/11/2026 09:59
  */
 window.HERBICIDA_DATA = [
   {
@@ -894,6 +894,33 @@ window.HERBICIDA_DATA = [
     "Vazão": "200",
     "Observações": "Trator 11125 ",
     "Fazenda.1": "48501"
+  },
+  {
+    "ID": "4067810",
+    "Usuário": "qualidade9@usinapitangueiras.com.br",
+    "Data": "23/11/2026 09:34",
+    "Latitude": "-21.06948000000000",
+    "Longitude": "-48.44125000000000",
+    "Data início": "23/11/2026 09:31",
+    "Data Fim": "23/11/2026 09:34",
+    "Status": "Open",
+    "Score": "0.00",
+    "Fazenda": "36807",
+    "Ordem de Serviço": "3860",
+    "Operação": "1030-APLICAÇÃO FERTILIZANTE FOLIAR",
+    "Planta ou Soca": "Planta",
+    "O responsável realizou a avaliação de qualidade antes de iniciar a operação?": "OK",
+    "O responsável possui a Ordem de Serviço e o Mapa da Área disponíveis na frente?": "OK",
+    "Vento": "10.8",
+    "Umidade Relativa": "61",
+    "Temperatura": "30.3",
+    "Espaçamento de Bico": "0.49",
+    "Abertura do leque": "OK",
+    "Limpeza de filtros da bomba do implemento": "OK",
+    "Limpeza de bicos": "OK",
+    "Vazão": "250",
+    "Observações": "Equipamento 70122",
+    "Fazenda.1": "36807"
   },
   {
     "ID": "4058420",
