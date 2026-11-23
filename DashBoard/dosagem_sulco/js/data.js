@@ -1,7 +1,7 @@
 /**
  * Dados Consolidados - dosagem_sulco
- * Total: 1317 registros
- * Atualizado em: 23/11/2026 09:59
+ * Total: 1321 registros
+ * Atualizado em: 23/11/2026 10:28
  */
 window.DOSAGEM_RAW_DATA = [
   {
@@ -24873,6 +24873,82 @@ window.DOSAGEM_RAW_DATA = [
     "Responsável": "284860  - Juliana Aparecida Ferreira De Freitas",
     "Produto": "Adubo",
     "Dosagem de Produto - Sulcação": "2.955",
+    "Fazenda": "53501"
+  },
+  {
+    "ID": "4067843",
+    "Usuário": "qualidade3@usinapitangueiras.com.br",
+    "Data": "23/11/2026 10:15",
+    "Latitude": "-21.06900000000000",
+    "Longitude": "-48.33031000000000",
+    "Data início": "23/11/2026 10:14",
+    "Data Fim": "23/11/2026 10:15",
+    "Status": "Open",
+    "Score": "0.00",
+    "Data Lançamento": "11/23/2026",
+    "Local (Fazenda - Talhão)": "53501",
+    "OS": "3840",
+    "Frente": "261 - FRENTE PRÓPRIA  (EDMILSON)",
+    "Responsável": "284860  - Juliana Aparecida Ferreira De Freitas",
+    "Produto": "Adubo",
+    "Dosagem de Produto - Sulcação": "2.805",
+    "Fazenda": "53501"
+  },
+  {
+    "ID": "4067842",
+    "Usuário": "qualidade3@usinapitangueiras.com.br",
+    "Data": "23/11/2026 10:14",
+    "Latitude": "-21.06899000000000",
+    "Longitude": "-48.33031000000000",
+    "Data início": "23/11/2026 10:12",
+    "Data Fim": "23/11/2026 10:14",
+    "Status": "Open",
+    "Score": "0.00",
+    "Data Lançamento": "11/23/2026",
+    "Local (Fazenda - Talhão)": "53501",
+    "OS": "3840",
+    "Frente": "261 - FRENTE PRÓPRIA  (EDMILSON)",
+    "Responsável": "284860  - Juliana Aparecida Ferreira De Freitas",
+    "Produto": "Adubo",
+    "Dosagem de Produto - Sulcação": "2.94",
+    "Fazenda": "53501"
+  },
+  {
+    "ID": "4067841",
+    "Usuário": "qualidade3@usinapitangueiras.com.br",
+    "Data": "23/11/2026 09:27",
+    "Latitude": "-21.06907000000000",
+    "Longitude": "-48.33047000000000",
+    "Data início": "23/11/2026 09:24",
+    "Data Fim": "23/11/2026 09:27",
+    "Status": "Open",
+    "Score": "0.00",
+    "Data Lançamento": "11/23/2026",
+    "Local (Fazenda - Talhão)": "53501",
+    "OS": "3840",
+    "Frente": "261 - FRENTE PRÓPRIA  (EDMILSON)",
+    "Responsável": "284860  - Juliana Aparecida Ferreira De Freitas",
+    "Produto": "Torta ",
+    "Dosagem de Produto - Sulcação": "5.645",
+    "Fazenda": "53501"
+  },
+  {
+    "ID": "4067840",
+    "Usuário": "qualidade3@usinapitangueiras.com.br",
+    "Data": "23/11/2026 09:24",
+    "Latitude": "-21.06906000000000",
+    "Longitude": "-48.33048000000000",
+    "Data início": "23/11/2026 09:18",
+    "Data Fim": "23/11/2026 09:24",
+    "Status": "Open",
+    "Score": "0.00",
+    "Data Lançamento": "11/23/2026",
+    "Local (Fazenda - Talhão)": "53501",
+    "OS": "3840",
+    "Frente": "261 - FRENTE PRÓPRIA  (EDMILSON)",
+    "Responsável": "284860  - Juliana Aparecida Ferreira De Freitas",
+    "Produto": "Torta ",
+    "Dosagem de Produto - Sulcação": "5.635",
     "Fazenda": "53501"
   },
   {
