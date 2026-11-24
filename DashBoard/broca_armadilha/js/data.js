@@ -1,7 +1,7 @@
 /**
  * Dados Consolidados - broca_armadilha
  * Total: 116 registros
- * Atualizado em: 24/11/2026 13:05
+ * Atualizado em: 24/11/2026 14:03
  */
 window.BROCA_ARMADILHA_DATA = [
   {
