@@ -1,7 +1,7 @@
 /**
  * Dados Consolidados - tpl_5s
- * Total: 89 registros
- * Atualizado em: 24/11/2026 15:13
+ * Total: 90 registros
+ * Atualizado em: 24/11/2026 16:10
  */
 window.TPL_5S_DATA = [
   {
@@ -2263,6 +2263,32 @@ window.TPL_5S_DATA = [
     "07 - Extintor está válido e carregado?": "OK",
     "Observação": "Equipamento 70122",
     "Fazenda.1": "36807",
+    "03 - Não há itens faltando/ quebrados ou com sinais de mal uso?": "OK",
+    "05 - Boas condições de organização/ limpeza e conservação dos equipamentos?": "OK"
+  },
+  {
+    "ID": "4071304",
+    "Usuário": "qualidade9@usinapitangueiras.com.br",
+    "Data": "24/11/2026 15:32",
+    "Latitude": "-21.06624000000000",
+    "Longitude": "-48.25474000000000",
+    "Data início": "24/11/2026 15:17",
+    "Data Fim": "24/11/2026 15:32",
+    "Status": "Open",
+    "Score": "0.00",
+    "Setor": "PREPARO",
+    "Fazenda": "70413",
+    "Frente": "53-FRENTE MOTOMECANIZAÇÃO",
+    "Responsável Vistoria": "REGINALDO DA SILVA GOMES ",
+    "Operação": "1061-ENFARDAMENTO DE PALHA",
+    "01-Área de vivência está em boas condições de organização e limpeza?": "N / A",
+    "03 - Não há itens faltando, quebrados ou com sinais de mal uso?": null,
+    "04 - A sinalização está adequada e o acesso ao local é seguro?": "OK",
+    "05 - Boas condições de organização, limpeza e conservação dos equipamentos?": null,
+    "06 - Os colaboradores estão utilizando os EPIs adequados?": "OK",
+    "07 - Extintor está válido e carregado?": "OK",
+    "Observação": null,
+    "Fazenda.1": "70413",
     "03 - Não há itens faltando/ quebrados ou com sinais de mal uso?": "OK",
     "05 - Boas condições de organização/ limpeza e conservação dos equipamentos?": "OK"
   },
