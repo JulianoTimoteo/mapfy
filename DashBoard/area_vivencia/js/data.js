@@ -1,7 +1,7 @@
 /**
  * Dados Consolidados - area_vivencia
  * Total: 372 registros
- * Atualizado em: 23/11/2026 21:10
+ * Atualizado em: 23/11/2026 22:14
  */
 window.RAW_INSPECTIONS = [
   {
@@ -11078,12 +11078,12 @@ window.RAW_INSPECTIONS = [
     "ID": "4056476",
     "Usuário": "frente3@usinapitangueiras.com.br",
     "Data": "17/11/2026 16:44",
-    "Latitude": "-21.06417000000000",
-    "Longitude": "-48.49713000000000",
+    "Latitude": "-21,06417000000000",
+    "Longitude": "-48,49713000000000",
     "Data início": "17/11/2026 16:38",
     "Data Fim": "17/11/2026 16:44",
-    "Status": "Open",
-    "Score": "0.00",
+    "Status": "Aberto",
+    "Score": "0,00",
     "Score perc.": "0",
     "Score desc.": "Baixo",
     "Responsável": "Fábio Donisete dos Santos ",
@@ -11102,18 +11102,18 @@ window.RAW_INSPECTIONS = [
     "Está utilizando  cone de Sinalização ?": "SIM",
     "Bancos Fixos": "SIM",
     "Extintor": "SIM",
-    "Fazenda": "142701"
+    "Fazenda": null
   },
   {
     "ID": "4055326",
     "Usuário": "frente1@usinapitangueiras.com.br",
     "Data": "17/11/2026 07:40",
-    "Latitude": "-21.09328000000000",
-    "Longitude": "-48.36610000000000",
+    "Latitude": "-21,09328000000000",
+    "Longitude": "-48,36610000000000",
     "Data início": "17/11/2026 07:35",
     "Data Fim": "17/11/2026 07:40",
-    "Status": "Open",
-    "Score": "0.00",
+    "Status": "Aberto",
+    "Score": "0,00",
     "Score perc.": "0",
     "Score desc.": "Baixo",
     "Responsável": "Fernando fiscal ",
@@ -11132,18 +11132,18 @@ window.RAW_INSPECTIONS = [
     "Está utilizando  cone de Sinalização ?": "SIM",
     "Bancos Fixos": "SIM",
     "Extintor": "SIM",
-    "Fazenda": "52501"
+    "Fazenda": null
   },
   {
     "ID": "4055330",
     "Usuário": "fabiobarboza@usinapitangueiras.com.br",
     "Data": "17/11/2026 06:34",
-    "Latitude": "-21.15369000000000",
-    "Longitude": "-48.54054000000000",
+    "Latitude": "-21,15369000000000",
+    "Longitude": "-48,54054000000000",
     "Data início": "17/11/2026 06:32",
     "Data Fim": "17/11/2026 06:34",
-    "Status": "Open",
-    "Score": "0.00",
+    "Status": "Aberto",
+    "Score": "0,00",
     "Score perc.": "0",
     "Score desc.": "Baixo",
     "Responsável": "Ednaldo ",
@@ -11162,6 +11162,6 @@ window.RAW_INSPECTIONS = [
     "Está utilizando  cone de Sinalização ?": "SIM",
     "Bancos Fixos": "SIM",
     "Extintor": "SIM",
-    "Fazenda": "137702"
+    "Fazenda": null
   }
 ];
