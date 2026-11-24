@@ -1,7 +1,7 @@
 /**
  * Dados Consolidados - tpl_5s
- * Total: 87 registros
- * Atualizado em: 24/11/2026 09:54
+ * Total: 88 registros
+ * Atualizado em: 24/11/2026 10:52
  */
 window.TPL_5S_DATA = [
   {
@@ -2159,6 +2159,32 @@ window.TPL_5S_DATA = [
     "07 - Extintor está válido e carregado?": "OK",
     "Observação": "Frente 1 ",
     "Fazenda.1": "269506",
+    "03 - Não há itens faltando/ quebrados ou com sinais de mal uso?": "OK",
+    "05 - Boas condições de organização/ limpeza e conservação dos equipamentos?": "OK"
+  },
+  {
+    "ID": "4070314",
+    "Usuário": "qualidade9@usinapitangueiras.com.br",
+    "Data": "24/11/2026 10:14",
+    "Latitude": "-20.74413000000000",
+    "Longitude": "-48.57446000000000",
+    "Data início": "24/11/2026 10:12",
+    "Data Fim": "24/11/2026 10:14",
+    "Status": "Open",
+    "Score": "0.00",
+    "Setor": "TRATOS",
+    "Fazenda": "39901",
+    "Frente": "52-FRENTE HERBICIDA / DEFENSIVOS",
+    "Responsável Vistoria": "REGINALDO DA SILVA GOMES ",
+    "Operação": "1107 - Aplicação Via Drench",
+    "01-Área de vivência está em boas condições de organização e limpeza?": "N / A",
+    "03 - Não há itens faltando, quebrados ou com sinais de mal uso?": null,
+    "04 - A sinalização está adequada e o acesso ao local é seguro?": "OK",
+    "05 - Boas condições de organização, limpeza e conservação dos equipamentos?": null,
+    "06 - Os colaboradores estão utilizando os EPIs adequados?": "OK",
+    "07 - Extintor está válido e carregado?": "OK",
+    "Observação": null,
+    "Fazenda.1": "39901",
     "03 - Não há itens faltando/ quebrados ou com sinais de mal uso?": "OK",
     "05 - Boas condições de organização/ limpeza e conservação dos equipamentos?": "OK"
   },
