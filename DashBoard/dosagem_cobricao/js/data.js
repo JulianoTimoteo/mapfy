@@ -1,7 +1,7 @@
 /**
  * Dados Consolidados - dosagem_cobricao
  * Total: 945 registros
- * Atualizado em: 24/11/2026 09:49
+ * Atualizado em: 24/11/2026 09:54
  */
 window.DOSAGEM_COBRICAO_DATA = [
   {
@@ -16943,42 +16943,6 @@ window.DOSAGEM_COBRICAO_DATA = [
     "Fazenda": "53501"
   },
   {
-    "ID": "4070263",
-    "Usuário": "qualidade3@usinapitangueiras.com.br",
-    "Data": "24/11/2026 08:56",
-    "Latitude": "-21.06981000000000",
-    "Longitude": "-48.33068000000000",
-    "Data início": "24/11/2026 08:51",
-    "Data Fim": "24/11/2026 08:53",
-    "Status": "Open",
-    "Score": "0.00",
-    "Data Lançamento": "11/24/2026",
-    "Local (Fazenda - Talhão)": "53501",
-    "OS": "3840",
-    "Frente": "261 - FRENTE PRÓPRIA  (EDMILSON)",
-    "Responsável": "284860  - Juliana Aparecida Ferreira De Freitas",
-    "Dosagem de Produto - Cobrição": "1.08",
-    "Fazenda": "53501"
-  },
-  {
-    "ID": "4070264",
-    "Usuário": "qualidade3@usinapitangueiras.com.br",
-    "Data": "24/11/2026 08:56",
-    "Latitude": "-21.06984000000000",
-    "Longitude": "-48.33069000000000",
-    "Data início": "24/11/2026 08:53",
-    "Data Fim": "24/11/2026 08:56",
-    "Status": "Open",
-    "Score": "0.00",
-    "Data Lançamento": "11/24/2026",
-    "Local (Fazenda - Talhão)": "53501",
-    "OS": "3840",
-    "Frente": "261 - FRENTE PRÓPRIA  (EDMILSON)",
-    "Responsável": "284860  - Juliana Aparecida Ferreira De Freitas",
-    "Dosagem de Produto - Cobrição": "1.12",
-    "Fazenda": "53501"
-  },
-  {
     "ID": "4067839",
     "Usuário": "qualidade3@usinapitangueiras.com.br",
     "Data": "23/11/2026 09:00",
@@ -17012,6 +16976,42 @@ window.DOSAGEM_COBRICAO_DATA = [
     "Frente": "261 - FRENTE PRÓPRIA  (EDMILSON)",
     "Responsável": "284860  - Juliana Aparecida Ferreira De Freitas",
     "Dosagem de Produto - Cobrição": "1.1",
+    "Fazenda": "53501"
+  },
+  {
+    "ID": "4070263",
+    "Usuário": "qualidade3@usinapitangueiras.com.br",
+    "Data": "24/11/2026 08:56",
+    "Latitude": "-21.06981000000000",
+    "Longitude": "-48.33068000000000",
+    "Data início": "24/11/2026 08:51",
+    "Data Fim": "24/11/2026 08:53",
+    "Status": "Open",
+    "Score": "0.00",
+    "Data Lançamento": "11/24/2026",
+    "Local (Fazenda - Talhão)": "53501",
+    "OS": "3840",
+    "Frente": "261 - FRENTE PRÓPRIA  (EDMILSON)",
+    "Responsável": "284860  - Juliana Aparecida Ferreira De Freitas",
+    "Dosagem de Produto - Cobrição": "1.08",
+    "Fazenda": "53501"
+  },
+  {
+    "ID": "4070264",
+    "Usuário": "qualidade3@usinapitangueiras.com.br",
+    "Data": "24/11/2026 08:56",
+    "Latitude": "-21.06984000000000",
+    "Longitude": "-48.33069000000000",
+    "Data início": "24/11/2026 08:53",
+    "Data Fim": "24/11/2026 08:56",
+    "Status": "Open",
+    "Score": "0.00",
+    "Data Lançamento": "11/24/2026",
+    "Local (Fazenda - Talhão)": "53501",
+    "OS": "3840",
+    "Frente": "261 - FRENTE PRÓPRIA  (EDMILSON)",
+    "Responsável": "284860  - Juliana Aparecida Ferreira De Freitas",
+    "Dosagem de Produto - Cobrição": "1.12",
     "Fazenda": "53501"
   }
 ];
