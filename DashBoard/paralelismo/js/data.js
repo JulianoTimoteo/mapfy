@@ -1,7 +1,7 @@
 /**
  * Dados Consolidados - paralelismo
  * Total: 2495 registros
- * Atualizado em: 24/11/2026 05:40
+ * Atualizado em: 24/11/2026 06:39
  */
 window.PARALELISMO_RAW_DATA = [
   {
