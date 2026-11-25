@@ -1,7 +1,7 @@
 /**
  * Dados Consolidados - area_vivencia
  * Total: 374 registros
- * Atualizado em: 25/11/2026 09:16
+ * Atualizado em: 25/11/2026 09:27
  */
 window.RAW_INSPECTIONS = [
   {
@@ -11165,36 +11165,6 @@ window.RAW_INSPECTIONS = [
     "Fazenda": "137702"
   },
   {
-    "ID": "4073592",
-    "Usuário": "frente1@usinapitangueiras.com.br",
-    "Data": "25/11/2026 08:45",
-    "Latitude": "-21.06750000000000",
-    "Longitude": "-48.24418000000000",
-    "Data início": "25/11/2026 08:43",
-    "Data Fim": "25/11/2026 08:45",
-    "Status": "Open",
-    "Score": "0.00",
-    "Score perc.": "0",
-    "Score desc.": "Baixo",
-    "Responsável": "Luiz Paulo ",
-    "Turno": "A",
-    "Frente": "15 - FRENTE 15",
-    "Local (Fazenda - Talhão)": "70413",
-    "OBS": null,
-    "Água Potável em temperatura adequada ?": "SIM",
-    "Possui água para higienização ?": "SIM",
-    "Possui papel higiênico e suporte?": "SIM",
-    "Possui papel toalha e suporte ?": "SIM",
-    "Pia e descarga funcionando ?": "SIM",
-    "Limpeza": "BOM",
-    "Possui algum item quebrado ou em falta?": "SIM",
-    "Está utilizando fita de Isolamento": "SIM",
-    "Está utilizando  cone de Sinalização ?": "SIM",
-    "Bancos Fixos": "SIM",
-    "Extintor": "SIM",
-    "Fazenda": "70413"
-  },
-  {
     "ID": "4070076",
     "Usuário": "fabiobarboza@usinapitangueiras.com.br",
     "Data": "24/11/2026 07:30",
@@ -11223,5 +11193,35 @@ window.RAW_INSPECTIONS = [
     "Bancos Fixos": "SIM",
     "Extintor": "SIM",
     "Fazenda": "43101"
+  },
+  {
+    "ID": "4073592",
+    "Usuário": "frente1@usinapitangueiras.com.br",
+    "Data": "25/11/2026 08:45",
+    "Latitude": "-21.06750000000000",
+    "Longitude": "-48.24418000000000",
+    "Data início": "25/11/2026 08:43",
+    "Data Fim": "25/11/2026 08:45",
+    "Status": "Open",
+    "Score": "0.00",
+    "Score perc.": "0",
+    "Score desc.": "Baixo",
+    "Responsável": "Luiz Paulo ",
+    "Turno": "A",
+    "Frente": "15 - FRENTE 15",
+    "Local (Fazenda - Talhão)": "70413",
+    "OBS": null,
+    "Água Potável em temperatura adequada ?": "SIM",
+    "Possui água para higienização ?": "SIM",
+    "Possui papel higiênico e suporte?": "SIM",
+    "Possui papel toalha e suporte ?": "SIM",
+    "Pia e descarga funcionando ?": "SIM",
+    "Limpeza": "BOM",
+    "Possui algum item quebrado ou em falta?": "SIM",
+    "Está utilizando fita de Isolamento": "SIM",
+    "Está utilizando  cone de Sinalização ?": "SIM",
+    "Bancos Fixos": "SIM",
+    "Extintor": "SIM",
+    "Fazenda": "70413"
   }
 ];
