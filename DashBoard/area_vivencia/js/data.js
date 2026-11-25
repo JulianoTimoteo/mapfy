@@ -1,7 +1,7 @@
 /**
  * Dados Consolidados - area_vivencia
  * Total: 373 registros
- * Atualizado em: 24/11/2026 23:07
+ * Atualizado em: 24/11/2026 23:35
  */
 window.RAW_INSPECTIONS = [
   {
@@ -11168,12 +11168,12 @@ window.RAW_INSPECTIONS = [
     "ID": "4070076",
     "Usuário": "fabiobarboza@usinapitangueiras.com.br",
     "Data": "24/11/2026 07:30",
-    "Latitude": "-21,05222000000000",
-    "Longitude": "-48,22935000000000",
+    "Latitude": "-21.05222000000000",
+    "Longitude": "-48.22935000000000",
     "Data início": "24/11/2026 07:28",
     "Data Fim": "24/11/2026 07:30",
-    "Status": "Aberto",
-    "Score": "0,00",
+    "Status": "Open",
+    "Score": "0.00",
     "Score perc.": "0",
     "Score desc.": "Baixo",
     "Responsável": "Ednaldo ",
@@ -11192,6 +11192,6 @@ window.RAW_INSPECTIONS = [
     "Está utilizando  cone de Sinalização ?": "SIM",
     "Bancos Fixos": "SIM",
     "Extintor": "SIM",
-    "Fazenda": null
+    "Fazenda": "43101"
   }
 ];
