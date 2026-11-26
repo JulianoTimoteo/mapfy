@@ -1,7 +1,7 @@
 /**
  * Dados Consolidados - viabilidade_gemas
  * Total: 2742 registros
- * Atualizado em: 26/11/2026 18:01
+ * Atualizado em: 26/11/2026 19:06
  */
 window.VIABILIDADE_GEMAS_DATA = [
   {
