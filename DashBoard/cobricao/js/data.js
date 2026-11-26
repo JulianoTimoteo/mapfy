@@ -1,7 +1,7 @@
 /**
  * Dados Consolidados - cobricao
  * Total: 2051 registros
- * Atualizado em: 26/11/2026 15:51
+ * Atualizado em: 26/11/2026 16:57
  */
 window.COBRICAO_DATA = [
   {
