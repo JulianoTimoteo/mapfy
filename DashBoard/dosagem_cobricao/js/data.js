@@ -1,7 +1,7 @@
 /**
  * Dados Consolidados - dosagem_cobricao
  * Total: 949 registros
- * Atualizado em: 27/11/2026 15:51
+ * Atualizado em: 27/11/2026 16:28
  */
 window.DOSAGEM_COBRICAO_DATA = [
   {
