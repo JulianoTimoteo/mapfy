@@ -157,6 +157,7 @@
         latestDateStr: '',
         todayDateStr: '',
         filters: {
+            produto: 'ALL',
             frente: 'ALL',
             os: 'ALL',
             responsavel: 'ALL',
@@ -308,6 +309,16 @@
         const badgeAll = document.getElementById('badgeAll');
         if (badgeAll) badgeAll.innerText = state.normalizedRecords.length;
 
+        const totalFmt = state.normalizedRecords.length.toLocaleString('pt-BR');
+        const kpiHeaderBadge = document.getElementById('kpiHeaderBadge');
+        if (kpiHeaderBadge) kpiHeaderBadge.innerHTML = `<i class="fa-solid fa-database mr-1"></i> ${totalFmt} Dosagens de Sulco`;
+
+        const aduboCount = state.normalizedRecords.filter(r => (r.produto || '').toLowerCase() === 'adubo').length;
+        const tortaCount = state.normalizedRecords.filter(r => (r.produto || '').toLowerCase() === 'torta').length;
+        setElText('prodBadgeAll', totalFmt);
+        setElText('prodBadgeAdubo', aduboCount.toLocaleString('pt-BR'));
+        setElText('prodBadgeTorta', tortaCount.toLocaleString('pt-BR'));
+
         // Atualiza textos do banner
         updateTargetBanner();
     }
@@ -436,6 +447,12 @@
             list = list.filter(r => r.dataBR === state.latestDateStr);
         } else if (state.activePeriod === 'today') {
             list = list.filter(r => r.dataBR === state.todayDateStr);
+        }
+
+        // Filtro Produto (Segmentação de Insumos)
+        if (state.filters.produto && state.filters.produto !== 'ALL') {
+            const targetProd = state.filters.produto.toLowerCase();
+            list = list.filter(r => (r.produto || '').toLowerCase() === targetProd);
         }
 
         // Filtros Categóricos
@@ -1038,12 +1055,52 @@ const validCoords = mapRecords.filter(r => r.hasValidCoords);
         }
     }
 
+    window.setProductFilter = function (prod) {
+        state.filters.produto = prod || 'ALL';
+        const btns = [
+            { id: 'btnProdAll', key: 'ALL', activeCls: 'bg-emerald-600 text-white shadow-sm' },
+            { id: 'btnProdAdubo', key: 'Adubo', activeCls: 'bg-emerald-600 text-white shadow-sm' },
+            { id: 'btnProdTorta', key: 'Torta', activeCls: 'bg-amber-600 text-white shadow-sm' },
+        ];
+        btns.forEach(({ id, key, activeCls }) => {
+            const el = document.getElementById(id);
+            if (!el) return;
+            const isActive = state.filters.produto.toLowerCase() === key.toLowerCase();
+            el.className = isActive
+                ? `px-4 py-1.5 rounded-lg transition-all flex items-center gap-1.5 cursor-pointer ${activeCls}`
+                : 'px-4 py-1.5 rounded-lg transition-all text-[var(--text-secondary)] hover:text-emerald-500 flex items-center gap-1.5 cursor-pointer';
+        });
+        state.pagination.currentPage = 1;
+        state.osPagination.currentPage = 1;
+        applyFiltersAndRender();
+    };
+
     function initTableListeners() {
         const selectSort = document.getElementById('selectSortOS');
         if (selectSort) {
             selectSort.addEventListener('change', () => {
                 state.sortOS = selectSort.value;
+                state.osPagination.currentPage = 1;
                 renderOSTable();
+            });
+        }
+
+        const osPrev = document.getElementById('btnOSPrevPage');
+        const osNext = document.getElementById('btnOSNextPage');
+        if (osPrev) {
+            osPrev.addEventListener('click', () => {
+                if (state.osPagination.currentPage > 1) {
+                    state.osPagination.currentPage--;
+                    renderOSTable();
+                }
+            });
+        }
+        if (osNext) {
+            osNext.addEventListener('click', () => {
+                if (state.osPagination.currentPage < state.osPagination.totalPages) {
+                    state.osPagination.currentPage++;
+                    renderOSTable();
+                }
             });
         }
 
