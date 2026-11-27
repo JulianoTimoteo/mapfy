@@ -1,7 +1,7 @@
 /**
  * Dados Consolidados - qualidade_cana
  * Total: 2613 registros
- * Atualizado em: 27/11/2026 03:40
+ * Atualizado em: 27/11/2026 04:45
  */
 window.QUALIDADE_CANA_DATA = [
   {
