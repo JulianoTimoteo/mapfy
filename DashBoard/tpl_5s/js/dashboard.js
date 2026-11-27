@@ -183,7 +183,7 @@
         charts: {},
         timelineMode: 'dia',
         currentPage: 1,
-        pageSize: 25
+        pageSize: 10
     };
     window.dashboardState = state;
     window.state = state;
