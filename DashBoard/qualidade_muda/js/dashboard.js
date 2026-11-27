@@ -169,7 +169,7 @@
         },
         pagination: {
             currentPage: 1,
-            pageSize: 25,
+            pageSize: 10,
             totalPages: 1
         },
         charts: {
