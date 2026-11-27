@@ -245,7 +245,7 @@
                     <i class="fa-solid fa-layer-group mr-1"></i> Safra 2026
                 </span>
                 <span class="badge badge-slate text-xs" id="kpiHeaderBadge">
-                    <i class="fa-solid fa-database mr-1"></i> 403 Medições de Canteiro
+                    <i class="fa-solid fa-database mr-1"></i> 455 Medições de Canteiro
                 </span>
 
                 <!-- Alternador de Tema Claro / Escuro -->
@@ -309,34 +309,14 @@
             <div class="flex flex-wrap items-center justify-between gap-3 mb-4 p-2.5 rounded-xl border shadow-xs"
                  style="background: var(--bg-kpi); border-color: var(--border-color);">
                 
-                <!-- Bloco Esquerdo: Seletor Rápido de Período Temporal -->
+                <!-- Bloco Esquerdo: Seletor de Data -->
                 <div class="flex items-center gap-2">
-                    <span class="text-[11px] font-bold text-[var(--text-muted)] uppercase tracking-wider hidden sm:inline">Período:</span>
-                    <div class="flex items-center gap-2 flex-wrap">
-                        <div class="period-segmented-group shadow-sm">
-                            <!-- Safra Completa -->
-                            <button id="btnAllDates" type="button" class="period-toggle-btn active" data-period="all"
-                                    title="Exibir todo o histórico da safra">
-                                <span>🌐</span>
-                                <span>Safra Completa</span>
-                                <span class="period-badge" id="badgeAll">403</span>
-                            </button>
-
-                            <!-- Última Data -->
-                            <button id="btnLatestDate" type="button" class="period-toggle-btn" data-period="latest"
-                                    title="Filtrar pela última data com medições registradas na base">
-                                <span>📅</span>
-                                <span>Última Data</span>
-                            </button>
-                        </div>
-
-                        <!-- Dropdown Dinâmico: Apenas Datas com Relatórios Reais -->
-                        <div class="flex items-center gap-1.5 bg-slate-100 dark:bg-slate-800/90 border border-slate-300 dark:border-slate-700 px-2.5 py-1 rounded-xl shadow-xs">
-                            <span class="text-[11px] text-slate-600 dark:text-slate-300">📅</span>
-                            <select id="filterDateSelect" class="bg-transparent text-[11px] font-bold text-slate-800 dark:text-white focus:outline-none cursor-pointer">
-                                <option value="ALL">Todas as Datas com Dados</option>
-                            </select>
-                        </div>
+                    <!-- Dropdown Dinâmico: Apenas Datas com Relatórios Reais -->
+                    <div class="flex items-center gap-1.5 bg-slate-100 dark:bg-slate-800/90 border border-slate-300 dark:border-slate-700 px-2.5 py-1.5 rounded-xl shadow-xs">
+                        <span class="text-[11px] text-slate-600 dark:text-slate-300">📅</span>
+                        <select id="filterDateSelect" class="bg-transparent text-[11px] font-bold text-slate-800 dark:text-white focus:outline-none cursor-pointer">
+                            <option value="ALL">Todas as Datas com Dados</option>
+                        </select>
                     </div>
                 </div>
 
