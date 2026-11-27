@@ -1,7 +1,7 @@
 /**
  * Dados Consolidados - checklist_veicular
  * Total: 1336 registros
- * Atualizado em: 27/11/2026 18:08
+ * Atualizado em: 27/11/2026 18:31
  */
 window.CHECKLIST_DATA = [
   {
