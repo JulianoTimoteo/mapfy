@@ -1,7 +1,7 @@
 /**
  * Dados Consolidados - dosagem_cobricao
- * Total: 947 registros
- * Atualizado em: 27/11/2026 12:16
+ * Total: 949 registros
+ * Atualizado em: 27/11/2026 13:50
  */
 window.DOSAGEM_COBRICAO_DATA = [
   {
@@ -17011,6 +17011,42 @@ window.DOSAGEM_COBRICAO_DATA = [
     "OS": "3840",
     "Frente": "261 - FRENTE PRÓPRIA  (EDMILSON)",
     "Responsável": "284860  - Juliana Aparecida Ferreira De Freitas",
+    "Dosagem de Produto - Cobrição": "1.1",
+    "Fazenda": "53501"
+  },
+  {
+    "ID": "4077262",
+    "Usuário": "qualidade9@usinapitangueiras.com.br",
+    "Data": "27/11/2026 10:51",
+    "Latitude": "-21.06895000000000",
+    "Longitude": "-48.33074000000000",
+    "Data início": "27/11/2026 10:50",
+    "Data Fim": "27/11/2026 10:50",
+    "Status": "Open",
+    "Score": "0.00",
+    "Data Lançamento": "11/27/2026",
+    "Local (Fazenda - Talhão)": "53501",
+    "OS": "3840",
+    "Frente": "261 - FRENTE PRÓPRIA  (EDMILSON)",
+    "Responsável": "REGINALDO DA SILVA GOMES ",
+    "Dosagem de Produto - Cobrição": "1.08",
+    "Fazenda": "53501"
+  },
+  {
+    "ID": "4077261",
+    "Usuário": "qualidade9@usinapitangueiras.com.br",
+    "Data": "27/11/2026 10:50",
+    "Latitude": "-21.06890000000000",
+    "Longitude": "-48.33080000000000",
+    "Data início": "27/11/2026 10:48",
+    "Data Fim": "27/11/2026 10:49",
+    "Status": "Open",
+    "Score": "0.00",
+    "Data Lançamento": "11/27/2026",
+    "Local (Fazenda - Talhão)": "53501",
+    "OS": "3840",
+    "Frente": "261 - FRENTE PRÓPRIA  (EDMILSON)",
+    "Responsável": "REGINALDO DA SILVA GOMES ",
     "Dosagem de Produto - Cobrição": "1.1",
     "Fazenda": "53501"
   },

@@ -1,7 +1,7 @@
 /**
  * Dados Consolidados - tpl_5s
- * Total: 90 registros
- * Atualizado em: 27/11/2026 12:16
+ * Total: 91 registros
+ * Atualizado em: 27/11/2026 13:50
  */
 window.TPL_5S_DATA = [
   {
@@ -2341,6 +2341,32 @@ window.TPL_5S_DATA = [
     "07 - Extintor está válido e carregado?": "OK",
     "Observação": "Equipamento 70122",
     "Fazenda.1": "36807",
+    "03 - Não há itens faltando/ quebrados ou com sinais de mal uso?": "OK",
+    "05 - Boas condições de organização/ limpeza e conservação dos equipamentos?": "OK"
+  },
+  {
+    "ID": "4077260",
+    "Usuário": "qualidade9@usinapitangueiras.com.br",
+    "Data": "27/11/2026 10:44",
+    "Latitude": "-21.06888000000000",
+    "Longitude": "-48.33080000000000",
+    "Data início": "27/11/2026 10:43",
+    "Data Fim": "27/11/2026 10:44",
+    "Status": "Open",
+    "Score": "0.00",
+    "Setor": "PLANTIO",
+    "Fazenda": "53501",
+    "Frente": "261-PLANTIO MANUAL E CARPA",
+    "Responsável Vistoria": "REGINALDO DA SILVA GOMES ",
+    "Operação": "30-PLANTIO MPB C/ MATRACA",
+    "01-Área de vivência está em boas condições de organização e limpeza?": "N / A",
+    "03 - Não há itens faltando, quebrados ou com sinais de mal uso?": null,
+    "04 - A sinalização está adequada e o acesso ao local é seguro?": "OK",
+    "05 - Boas condições de organização, limpeza e conservação dos equipamentos?": null,
+    "06 - Os colaboradores estão utilizando os EPIs adequados?": "OK",
+    "07 - Extintor está válido e carregado?": "NOK",
+    "Observação": null,
+    "Fazenda.1": "53501",
     "03 - Não há itens faltando/ quebrados ou com sinais de mal uso?": "OK",
     "05 - Boas condições de organização/ limpeza e conservação dos equipamentos?": "OK"
   }
