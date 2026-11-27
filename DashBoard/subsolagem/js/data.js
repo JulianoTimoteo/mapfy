@@ -1,7 +1,7 @@
 /**
  * Dados Consolidados - subsolagem
  * Total: 367 registros
- * Atualizado em: 27/11/2026 15:25
+ * Atualizado em: 27/11/2026 15:51
  */
 window.RAW_SUBSOLAGEM = [
   {
@@ -7296,7 +7296,7 @@ window.RAW_SUBSOLAGEM = [
     "Score": "0.00",
     "Score perc.": "0",
     "Score desc.": "Profundidade",
-    "Data Lançamento": "10/01/2026 00:00",
+    "Data Lançamento": "10/01/2026",
     "Local (Fazenda - Talhão)": "151901",
     "OS": "2625",
     "Frente": "53 - PRÓPRIA TRATOS - MOTOMECANIZAÇÃO",
@@ -7316,7 +7316,7 @@ window.RAW_SUBSOLAGEM = [
     "Score": "0.00",
     "Score perc.": "0",
     "Score desc.": "Profundidade",
-    "Data Lançamento": "10/01/2026 00:00",
+    "Data Lançamento": "10/01/2026",
     "Local (Fazenda - Talhão)": "151901",
     "OS": "2625",
     "Frente": "53 - PRÓPRIA TRATOS - MOTOMECANIZAÇÃO",
@@ -7336,7 +7336,7 @@ window.RAW_SUBSOLAGEM = [
     "Score": "0.00",
     "Score perc.": "0",
     "Score desc.": "Profundidade",
-    "Data Lançamento": "10/01/2026 00:00",
+    "Data Lançamento": "10/01/2026",
     "Local (Fazenda - Talhão)": "151901",
     "OS": "2625",
     "Frente": "53 - PRÓPRIA TRATOS - MOTOMECANIZAÇÃO",
