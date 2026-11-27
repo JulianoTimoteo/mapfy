@@ -341,33 +341,11 @@
 
             <!-- Container Colapsável dos Controles dos Filtros -->
             <div id="filterCollapsibleBody" class="filter-collapsible-body is-collapsed">
-                <!-- Toolbar Executiva: Filtro Temporal (Safra, Última Data, Hoje) + Ações (CSV, Imprimir) -->
-                <div class="flex flex-wrap items-center justify-between gap-3 mb-4 p-2.5 rounded-xl border shadow-xs"
+                <!-- Toolbar Executiva: Ações Operacionais (CSV, PDF, Imprimir) -->
+                <div class="flex flex-wrap items-center justify-end gap-3 mb-4 p-2.5 rounded-xl border shadow-xs"
                      style="background: var(--bg-kpi); border-color: var(--border-color);">
-                    
-                    <!-- Bloco Esquerdo: Seletor Rápido de Período Temporal -->
-                    <div class="flex items-center gap-2">
-                        <span class="text-[11px] font-bold text-white uppercase tracking-wider hidden sm:inline">Período:</span>
-                        <div class="period-segmented-group shadow-sm">
-                            <!-- Botão Safra Completa -->
-                            <button id="btnAllDates" type="button" class="period-toggle-btn active" data-period="all"
-                                    title="Exibir todo o histórico da safra">
-                                <span>🌐</span>
-                                <span>Safra Completa</span>
-                                <span class="period-badge" id="badgeAll">367</span>
-                            </button>
 
-                            <!-- Botão Última Data -->
-                            <button id="btnLatestDate" type="button" class="period-toggle-btn" data-period="latest"
-                                    title="Filtrar pela data mais recente com medições registradas na base">
-                                <span>📅</span>
-                                <span>Última Data</span>
-                                <span class="period-badge" id="badgeLatest"></span>
-                            </button>
-                        </div>
-                    </div>
-
-                    <!-- Bloco Direito: Ferramentas Operacionais Executivas -->
+                    <!-- Ferramentas Operacionais Executivas -->
                     <div class="flex items-center gap-2 flex-wrap">
                         <!-- Exportar CSV -->
                         <button id="btnExportCSV" type="button"
