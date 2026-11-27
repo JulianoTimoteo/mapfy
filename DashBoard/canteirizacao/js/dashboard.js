@@ -304,6 +304,8 @@
 
         const badgeAll = document.getElementById('badgeAll');
         if (badgeAll) badgeAll.innerText = state.normalizedRecords.length;
+        const kpiHeaderBadge = document.getElementById('kpiHeaderBadge');
+        if (kpiHeaderBadge) kpiHeaderBadge.innerHTML = `<i class="fa-solid fa-database mr-1"></i> ${state.normalizedRecords.length} Medições de Canteiro`;
 
         // Atualiza textos do banner
         updateTargetBanner();
