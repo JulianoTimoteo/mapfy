@@ -166,7 +166,7 @@
         },
         pagination: {
             currentPage: 1,
-            pageSize: 15,
+            pageSize: 10,
             totalPages: 1
         },
         sortOS: 'volume',
