@@ -167,12 +167,12 @@
         },
         pagination: {
             currentPage: 1,
-            pageSize: 15,
+            pageSize: 10,
             totalPages: 1
         },
         osPagination: {
             currentPage: 1,
-            pageSize: 20,
+            pageSize: 10,
             totalPages: 1
         },
         sortOS: 'volume',
@@ -908,7 +908,7 @@ const validCoords = mapRecords.filter(r => r.hasValidCoords);
         }
 
         const totalOS = osList.length;
-        const pageSize = 20;
+        const pageSize = 10;
         state.osPagination.totalPages = Math.ceil(totalOS / pageSize) || 1;
         if (state.osPagination.currentPage > state.osPagination.totalPages) {
             state.osPagination.currentPage = state.osPagination.totalPages;
