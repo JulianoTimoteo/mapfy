@@ -169,6 +169,11 @@
             pageSize: 15,
             totalPages: 1
         },
+        osPagination: {
+            currentPage: 1,
+            pageSize: 20,
+            totalPages: 1
+        },
         sortOS: 'volume',
         charts: {
             donut: null,
@@ -875,11 +880,33 @@ const validCoords = mapRecords.filter(r => r.hasValidCoords);
         else if (sortMode === 'conformidade') osList.sort((a, b) => a.percConforme - b.percConforme);
 
         if (osList.length === 0) {
-            tbody.innerHTML = `<tr><td colspan="10" class="p-6 text-center text-slate-400">Nenhuma Ordem de Serviço encontrada com os filtros atuais.</td></tr>`;
+            tbody.innerHTML = `<tr><td colspan="11" class="p-6 text-center text-slate-400">Nenhuma Ordem de Serviço encontrada com os filtros atuais.</td></tr>`;
+            setElText('osPaginationInfo', 'Mostrando 0 de 0 OS');
+            setElText('osPageNum', '1 / 1');
+            const prevBtn = document.getElementById('btnOSPrevPage');
+            const nextBtn = document.getElementById('btnOSNextPage');
+            if (prevBtn) prevBtn.disabled = true;
+            if (nextBtn) nextBtn.disabled = true;
             return;
         }
 
-        tbody.innerHTML = osList.map(item => {
+        const totalOS = osList.length;
+        const pageSize = 20;
+        state.osPagination.totalPages = Math.ceil(totalOS / pageSize) || 1;
+        if (state.osPagination.currentPage > state.osPagination.totalPages) {
+            state.osPagination.currentPage = state.osPagination.totalPages;
+        }
+        const startIdx = (state.osPagination.currentPage - 1) * pageSize;
+        const pageOSList = osList.slice(startIdx, startIdx + pageSize);
+
+        setElText('osPaginationInfo', `Mostrando ${startIdx + 1} a ${Math.min(startIdx + pageSize, totalOS)} de ${totalOS} OS`);
+        setElText('osPageNum', `${state.osPagination.currentPage} / ${state.osPagination.totalPages}`);
+        const prevBtn = document.getElementById('btnOSPrevPage');
+        const nextBtn = document.getElementById('btnOSNextPage');
+        if (prevBtn) prevBtn.disabled = state.osPagination.currentPage <= 1;
+        if (nextBtn) nextBtn.disabled = state.osPagination.currentPage >= state.osPagination.totalPages;
+
+        tbody.innerHTML = pageOSList.map(item => {
             const badgeColor = item.percConforme >= 80 ? 'text-emerald-500 bg-emerald-500/10 border-emerald-500/30' :
                                item.percConforme >= 60 ? 'text-amber-500 bg-amber-500/10 border-amber-500/30' :
                                'text-rose-500 bg-rose-500/10 border-rose-500/30';
