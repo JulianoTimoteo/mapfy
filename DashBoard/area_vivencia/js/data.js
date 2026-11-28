@@ -1,7 +1,7 @@
 /**
  * Dados Consolidados - area_vivencia
  * Total: 380 registros
- * Atualizado em: 28/11/2026 12:52
+ * Atualizado em: 28/11/2026 13:12
  */
 window.RAW_INSPECTIONS = [
   {
