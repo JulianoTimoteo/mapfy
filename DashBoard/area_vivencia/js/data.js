@@ -1,7 +1,7 @@
 /**
  * Dados Consolidados - area_vivencia
- * Total: 378 registros
- * Atualizado em: 28/11/2026 07:17
+ * Total: 379 registros
+ * Atualizado em: 28/11/2026 07:24
  */
 window.RAW_INSPECTIONS = [
   {
@@ -11163,6 +11163,36 @@ window.RAW_INSPECTIONS = [
     "Bancos Fixos": "SIM",
     "Extintor": "SIM",
     "Fazenda": "43101"
+  },
+  {
+    "ID": "4078835",
+    "Usuário": "fabiobarboza@usinapitangueiras.com.br",
+    "Data": "28/11/2026 07:20",
+    "Latitude": "-21.23922000000000",
+    "Longitude": "-48.28008000000000",
+    "Data início": "28/11/2026 07:16",
+    "Data Fim": "28/11/2026 07:20",
+    "Status": "Open",
+    "Score": "0.00",
+    "Score perc.": "0",
+    "Score desc.": "Baixo",
+    "Responsável": "Ednaldo Arcênio ",
+    "Turno": "A",
+    "Frente": "15 - FRENTE 15",
+    "Local (Fazenda - Talhão)": "189501",
+    "OBS": null,
+    "Água Potável em temperatura adequada ?": "SIM",
+    "Possui água para higienização ?": "SIM",
+    "Possui papel higiênico e suporte?": "SIM",
+    "Possui papel toalha e suporte ?": "SIM",
+    "Pia e descarga funcionando ?": "SIM",
+    "Limpeza": "BOM",
+    "Possui algum item quebrado ou em falta?": "NÃO",
+    "Está utilizando fita de Isolamento": "SIM",
+    "Está utilizando  cone de Sinalização ?": "SIM",
+    "Bancos Fixos": "SIM",
+    "Extintor": "SIM",
+    "Fazenda": "189501"
   },
   {
     "ID": "4076973",
