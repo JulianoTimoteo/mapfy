@@ -1,7 +1,7 @@
 /**
  * Dados Consolidados - subsolagem
  * Total: 367 registros
- * Atualizado em: 28/11/2026 01:59
+ * Atualizado em: 28/11/2026 02:08
  */
 window.RAW_SUBSOLAGEM = [
   {
