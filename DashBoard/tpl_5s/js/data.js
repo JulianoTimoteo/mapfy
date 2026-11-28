@@ -1,7 +1,7 @@
 /**
  * Dados Consolidados - tpl_5s
  * Total: 91 registros
- * Atualizado em: 28/11/2026 03:23
+ * Atualizado em: 28/11/2026 04:06
  */
 window.TPL_5S_DATA = [
   {
