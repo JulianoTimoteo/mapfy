@@ -1,7 +1,7 @@
 /**
  * Dados Consolidados - area_vivencia
  * Total: 380 registros
- * Atualizado em: 28/11/2026 11:46
+ * Atualizado em: 28/11/2026 12:05
  */
 window.RAW_INSPECTIONS = [
   {
@@ -11198,12 +11198,12 @@ window.RAW_INSPECTIONS = [
     "ID": "4078898",
     "Usuário": "frente3@usinapitangueiras.com.br",
     "Data": "28/11/2026 07:58",
-    "Latitude": "-21,04191000000000",
-    "Longitude": "-48,23464000000000",
+    "Latitude": "-21.04191000000000",
+    "Longitude": "-48.23464000000000",
     "Data início": "28/11/2026 07:40",
     "Data Fim": "28/11/2026 07:58",
-    "Status": "Aberto",
-    "Score": "0,00",
+    "Status": "Open",
+    "Score": "0.00",
     "Score perc.": "0",
     "Score desc.": "Baixo",
     "Responsável": "Fernado",
@@ -11222,18 +11222,18 @@ window.RAW_INSPECTIONS = [
     "Está utilizando  cone de Sinalização ?": "SIM",
     "Bancos Fixos": "SIM",
     "Extintor": "SIM",
-    "Fazenda": null
+    "Fazenda": "40301"
   },
   {
     "ID": "4078835",
     "Usuário": "fabiobarboza@usinapitangueiras.com.br",
     "Data": "28/11/2026 07:20",
-    "Latitude": "-21,23922000000000",
-    "Longitude": "-48,28008000000000",
+    "Latitude": "-21.23922000000000",
+    "Longitude": "-48.28008000000000",
     "Data início": "28/11/2026 07:16",
     "Data Fim": "28/11/2026 07:20",
-    "Status": "Aberto",
-    "Score": "0,00",
+    "Status": "Open",
+    "Score": "0.00",
     "Score perc.": "0",
     "Score desc.": "Baixo",
     "Responsável": "Ednaldo Arcênio ",
@@ -11252,18 +11252,18 @@ window.RAW_INSPECTIONS = [
     "Está utilizando  cone de Sinalização ?": "SIM",
     "Bancos Fixos": "SIM",
     "Extintor": "SIM",
-    "Fazenda": null
+    "Fazenda": "189501"
   },
   {
     "ID": "4076973",
     "Usuário": "fabiobarboza@usinapitangueiras.com.br",
     "Data": "27/11/2026 10:21",
-    "Latitude": "-21,04189000000000",
-    "Longitude": "-48,23473000000000",
+    "Latitude": "-21.04189000000000",
+    "Longitude": "-48.23473000000000",
     "Data início": "27/11/2026 10:09",
     "Data Fim": "27/11/2026 10:16",
-    "Status": "Aberto",
-    "Score": "0,00",
+    "Status": "Open",
+    "Score": "0.00",
     "Score perc.": "0",
     "Score desc.": "Baixo",
     "Responsável": "Ednaldo ",
@@ -11282,18 +11282,18 @@ window.RAW_INSPECTIONS = [
     "Está utilizando  cone de Sinalização ?": "SIM",
     "Bancos Fixos": "SIM",
     "Extintor": "SIM",
-    "Fazenda": null
+    "Fazenda": "51401"
   },
   {
     "ID": "4076967",
     "Usuário": "frente1@usinapitangueiras.com.br",
     "Data": "27/11/2026 10:16",
-    "Latitude": "-20,95963000000000",
-    "Longitude": "-48,36627000000000",
+    "Latitude": "-20.95963000000000",
+    "Longitude": "-48.36627000000000",
     "Data início": "27/11/2026 10:14",
     "Data Fim": "27/11/2026 10:16",
-    "Status": "Aberto",
-    "Score": "0,00",
+    "Status": "Open",
+    "Score": "0.00",
     "Score perc.": "0",
     "Score desc.": "Baixo",
     "Responsável": "Luiz Paulo Rodrigues Cassiano ",
@@ -11312,18 +11312,18 @@ window.RAW_INSPECTIONS = [
     "Está utilizando  cone de Sinalização ?": "SIM",
     "Bancos Fixos": "SIM",
     "Extintor": "SIM",
-    "Fazenda": null
+    "Fazenda": "167201"
   },
   {
     "ID": "3988157",
     "Usuário": "frente3@usinapitangueiras.com.br",
     "Data": "27/11/2026 09:38",
-    "Latitude": "-20,94758000000000",
-    "Longitude": "-48,64194000000000",
+    "Latitude": "-20.94758000000000",
+    "Longitude": "-48.64194000000000",
     "Data início": "16/10/2026 09:40",
     "Data Fim": "16/10/2026 09:42",
-    "Status": "Aberto",
-    "Score": "0,00",
+    "Status": "Open",
+    "Score": "0.00",
     "Score perc.": "0",
     "Score desc.": "Baixo",
     "Responsável": "251210",
@@ -11342,18 +11342,18 @@ window.RAW_INSPECTIONS = [
     "Está utilizando  cone de Sinalização ?": "SIM",
     "Bancos Fixos": "SIM",
     "Extintor": "SIM",
-    "Fazenda": null
+    "Fazenda": "118601"
   },
   {
     "ID": "4076942",
     "Usuário": "frente3@usinapitangueiras.com.br",
     "Data": "27/11/2026 09:26",
-    "Latitude": "-21,08244000000000",
-    "Longitude": "-48,47239000000000",
+    "Latitude": "-21.08244000000000",
+    "Longitude": "-48.47239000000000",
     "Data início": "27/11/2026 09:23",
     "Data Fim": "27/11/2026 09:26",
-    "Status": "Aberto",
-    "Score": "0,00",
+    "Status": "Open",
+    "Score": "0.00",
     "Score perc.": "0",
     "Score desc.": "Baixo",
     "Responsável": "251210",
@@ -11372,18 +11372,18 @@ window.RAW_INSPECTIONS = [
     "Está utilizando  cone de Sinalização ?": "SIM",
     "Bancos Fixos": "SIM",
     "Extintor": "SIM",
-    "Fazenda": null
+    "Fazenda": "198201"
   },
   {
     "ID": "4075447",
     "Usuário": "frente1@usinapitangueiras.com.br",
     "Data": "26/11/2026 11:54",
-    "Latitude": "-20,95959000000000",
-    "Longitude": "-48,36628000000000",
+    "Latitude": "-20.95959000000000",
+    "Longitude": "-48.36628000000000",
     "Data início": "26/11/2026 11:53",
     "Data Fim": "26/11/2026 11:54",
-    "Status": "Aberto",
-    "Score": "0,00",
+    "Status": "Open",
+    "Score": "0.00",
     "Score perc.": "0",
     "Score desc.": "Baixo",
     "Responsável": "Luiz Paulo Rodrigues Cassiano ",
@@ -11402,6 +11402,6 @@ window.RAW_INSPECTIONS = [
     "Está utilizando  cone de Sinalização ?": "SIM",
     "Bancos Fixos": "SIM",
     "Extintor": "SIM",
-    "Fazenda": null
+    "Fazenda": "36001"
   }
 ];
